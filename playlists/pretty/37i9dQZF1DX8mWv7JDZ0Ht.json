@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Bryan Behr",
-  "num_followers": 434429,
+  "num_followers": 434409,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -135,38 +135,6 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "Rosa Maria",
-        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
-        }
-      ],
-      "duration_ms": 232390,
-      "name": "Rosa Maria",
-      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
-        "name": "FOR\u00c7A DA JUVENTUDE",
-        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        }
-      ],
-      "duration_ms": 154377,
-      "name": "baby n\u00e3o v\u00e1",
-      "url": "https://open.spotify.com/track/2SzNw9aqzATNvYAU0bTBBh"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
         "name": "Comum (xote)",
         "url": "https://open.spotify.com/album/7AkoIdDqVX5eV0cqlBQBdH"
       },
@@ -187,6 +155,38 @@
       "duration_ms": 244357,
       "name": "Comum (xote)",
       "url": "https://open.spotify.com/track/19WKP5ckxIcm8V3R19GhBJ"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
+        "name": "FOR\u00c7A DA JUVENTUDE",
+        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        }
+      ],
+      "duration_ms": 154377,
+      "name": "baby n\u00e3o v\u00e1",
+      "url": "https://open.spotify.com/track/2SzNw9aqzATNvYAU0bTBBh"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
+        "name": "Rosa Maria",
+        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 232390,
+      "name": "Rosa Maria",
+      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "Quando me ver passar",
-        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 134753,
-      "name": "Quando me ver passar",
-      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
         "name": "BASEADO EM FATOS REAIS (deluxe)",
         "url": "https://open.spotify.com/album/1VNgTtRJ1zbNbBCc9mmTr1"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 175545,
       "name": "disco voador",
       "url": "https://open.spotify.com/track/2jRXQx3AS2OVMSYB7PEhTj"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
+        "name": "Quando me ver passar",
+        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 134753,
+      "name": "Quando me ver passar",
+      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
         "name": "Am\u00e9frica",
         "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 207378,
       "name": "Leve",
       "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -391,6 +391,26 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
+        "name": "Enquanto os Distra\u00eddos Amam",
+        "url": "https://open.spotify.com/album/3N4OoUAXeAcFFib8lcxll9"
+      },
+      "artists": [
+        {
+          "name": "Pedro Em\u00edlio",
+          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
+        },
+        {
+          "name": "Paulo Novaes",
+          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
+        }
+      ],
+      "duration_ms": 168097,
+      "name": "Amor Inteiro",
+      "url": "https://open.spotify.com/track/7mD5TzCDcGgm2yDbfECu7t"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
         "name": "BRava",
         "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
       },
@@ -411,22 +431,18 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "Enquanto os Distra\u00eddos Amam",
-        "url": "https://open.spotify.com/album/3N4OoUAXeAcFFib8lcxll9"
+        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
+        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
       },
       "artists": [
         {
-          "name": "Pedro Em\u00edlio",
-          "url": "https://open.spotify.com/artist/7ksllq82eO4mTbz0dKvQ5N"
-        },
-        {
-          "name": "Paulo Novaes",
-          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
         }
       ],
-      "duration_ms": 168097,
-      "name": "Amor Inteiro",
-      "url": "https://open.spotify.com/track/7mD5TzCDcGgm2yDbfECu7t"
+      "duration_ms": 202285,
+      "name": "Seu Her\u00f3i",
+      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -451,18 +467,18 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
-        "name": "TUDO VAI SER COMO DEVE SER (Deluxe)",
-        "url": "https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb"
+        "name": "O Fim do Planeta Azul",
+        "url": "https://open.spotify.com/album/3Yhx5e16SeM79GZC9SBOQM"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
-      "duration_ms": 202285,
-      "name": "Seu Her\u00f3i",
-      "url": "https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq"
+      "duration_ms": 206739,
+      "name": "O Fim do Planeta Azul",
+      "url": "https://open.spotify.com/track/7i1G8Z7ylrF8TwsrsVhAA6"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -495,22 +511,6 @@
       "duration_ms": 158922,
       "name": "no seu tempo",
       "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
-        "name": "O Fim do Planeta Azul",
-        "url": "https://open.spotify.com/album/3Yhx5e16SeM79GZC9SBOQM"
-      },
-      "artists": [
-        {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
-        }
-      ],
-      "duration_ms": 206739,
-      "name": "O Fim do Planeta Azul",
-      "url": "https://open.spotify.com/track/7i1G8Z7ylrF8TwsrsVhAA6"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -735,6 +735,30 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
+        "name": "Eu s\u00f3 quero um xod\u00f3",
+        "url": "https://open.spotify.com/album/2s6qsazRApew3tJUkjoyps"
+      },
+      "artists": [
+        {
+          "name": "Vers\u00e3o brasileira",
+          "url": "https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E"
+        },
+        {
+          "name": "Pe Lu",
+          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
+        },
+        {
+          "name": "Renato Frei",
+          "url": "https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV"
+        }
+      ],
+      "duration_ms": 119340,
+      "name": "Eu s\u00f3 quero um xod\u00f3",
+      "url": "https://open.spotify.com/track/6BwXtSsM5we6sX5sVSRlLw"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
         "name": "Mar\u00e9 Alta",
         "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
       },
@@ -771,30 +795,6 @@
       "duration_ms": 219574,
       "name": "Passageiro",
       "url": "https://open.spotify.com/track/0a2n21hySpr5NBfrJu4OIq"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
-        "name": "Eu s\u00f3 quero um xod\u00f3",
-        "url": "https://open.spotify.com/album/2s6qsazRApew3tJUkjoyps"
-      },
-      "artists": [
-        {
-          "name": "Vers\u00e3o brasileira",
-          "url": "https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E"
-        },
-        {
-          "name": "Pe Lu",
-          "url": "https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD"
-        },
-        {
-          "name": "Renato Frei",
-          "url": "https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV"
-        }
-      ],
-      "duration_ms": 119340,
-      "name": "Eu s\u00f3 quero um xod\u00f3",
-      "url": "https://open.spotify.com/track/6BwXtSsM5we6sX5sVSRlLw"
     },
     {
       "added_at": "2026-06-26 03:00:29",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-06-26 03:00:29",
       "album": {
+        "name": "paix\u00e3o ou vaidade?",
+        "url": "https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Tofani",
+          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "paix\u00e3o ou vaidade?",
+      "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
+    },
+    {
+      "added_at": "2026-06-26 03:00:29",
+      "album": {
         "name": "Tudo Pode Mudar (Acusticamente)",
         "url": "https://open.spotify.com/album/6vq5yAqGvdymhJ8GwFxthg"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 168051,
       "name": "Branca",
       "url": "https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6"
-    },
-    {
-      "added_at": "2026-06-26 03:00:29",
-      "album": {
-        "name": "paix\u00e3o ou vaidade?",
-        "url": "https://open.spotify.com/album/2Cf2A7ADZeuqHeF96I9GpY"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Tofani",
-          "url": "https://open.spotify.com/artist/59EQw7iHjbElOkznITe43m"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "paix\u00e3o ou vaidade?",
-      "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
     },
     {
       "added_at": "2026-06-26 03:00:29",

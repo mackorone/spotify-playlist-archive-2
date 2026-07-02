@@ -1,12 +1,12 @@
 {
   "description": "This is Zolita. The essential tracks, all in one playlist.",
-  "num_followers": 3184,
+  "num_followers": 3191,
   "original_name": "This Is Zolita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akG1gAAAAAALhS+1sFCL+5ZR22YIT9PM",
+  "snapshot_id": "akMHAAAAAABC1GXUaMZJqBFn4ghZpXgs",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evil Angel",
-        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
+        "name": "Sappho",
+        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 169871,
-      "name": "Bedspell",
-      "url": "https://open.spotify.com/track/0486NoRItdcZ1k42ErhWHG"
+      "duration_ms": 216971,
+      "name": "Come Home With Me",
+      "url": "https://open.spotify.com/track/2IUZ5ifH9R13RoK8X70lgF"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sappho",
-        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
+        "name": "Evil Angel",
+        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 216971,
-      "name": "Come Home With Me",
-      "url": "https://open.spotify.com/track/2IUZ5ifH9R13RoK8X70lgF"
+      "duration_ms": 169871,
+      "name": "Bedspell",
+      "url": "https://open.spotify.com/track/0486NoRItdcZ1k42ErhWHG"
     },
     {
       "added_at": null,

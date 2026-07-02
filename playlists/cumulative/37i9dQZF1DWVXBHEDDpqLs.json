@@ -5119,6 +5119,24 @@
     },
     {
       "album": {
+        "name": "The Sick Dimension",
+        "url": "https://open.spotify.com/album/2UIQEzb2pd4N9jveukNUmS"
+      },
+      "artists": [
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321773,
+      "name": "Default Mode",
+      "url": "https://open.spotify.com/track/6pkkVyRGtIEIIsYU253DxK"
+    },
+    {
+      "album": {
         "name": "Ipso Facto",
         "url": "https://open.spotify.com/album/4tCzR6qaEZwTmasBOUh1vH"
       },

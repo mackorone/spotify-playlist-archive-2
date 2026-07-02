@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 158130,
+  "num_followers": 158124,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Nice To Meet You (Mistletoe Version)",
-        "url": "https://open.spotify.com/album/0fUqJBQwJTr5whQMexIcic"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nice To Meet You",
-      "url": "https://open.spotify.com/track/6eWAWHm0cuOaPGDWhoLJ7s"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "My 21st Century Blues",
         "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 246813,
       "name": "Worth It.",
       "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Nice To Meet You (Mistletoe Version)",
+        "url": "https://open.spotify.com/album/0fUqJBQwJTr5whQMexIcic"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nice To Meet You",
+      "url": "https://open.spotify.com/track/6eWAWHm0cuOaPGDWhoLJ7s"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "Incredible",
+      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Best Part of Me (feat. YEBBA)",
         "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 243266,
       "name": "Best Part of Me (feat. YEBBA)",
       "url": "https://open.spotify.com/track/5ug4vqGZ3eisGhY1IsziNX"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "Incredible",
-      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Keeping Faith",
-        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
-      },
-      "artists": [
-        {
-          "name": "Amy Wadge",
-          "url": "https://open.spotify.com/artist/6Eg4MwK5NkfQ5825NKxy37"
-        }
-      ],
-      "duration_ms": 172058,
-      "name": "Faith's Song",
-      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "The Boy I Am",
         "url": "https://open.spotify.com/album/6xz9QoMwSIVDSm2im3v1r9"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 154251,
       "name": "The Boy I Am",
       "url": "https://open.spotify.com/track/7uqtN4R6hcRI4Q4KPTH3SQ"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Keeping Faith",
+        "url": "https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh"
+      },
+      "artists": [
+        {
+          "name": "Amy Wadge",
+          "url": "https://open.spotify.com/artist/6Eg4MwK5NkfQ5825NKxy37"
+        }
+      ],
+      "duration_ms": 172058,
+      "name": "Faith's Song",
+      "url": "https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Det Hele Handler Om Dig",
-        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 194500,
-      "name": "Blomster Visner",
-      "url": "https://open.spotify.com/track/0O9arYuEk17mMatL9ERQZu"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "Det \u00d8nsker Jeg For Dig (feat. Burhan G)",
         "url": "https://open.spotify.com/album/2Wd7GUiG8M5y6hSpMxT3Kd"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 178027,
       "name": "Det \u00d8nsker Jeg For Dig (feat. Burhan G)",
       "url": "https://open.spotify.com/track/2ZK0RAs8xRUxKOnWc9Ey9s"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Det Hele Handler Om Dig",
+        "url": "https://open.spotify.com/album/7vBik5UaEa7RClvhh4xkSS"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 194500,
+      "name": "Blomster Visner",
+      "url": "https://open.spotify.com/track/0O9arYuEk17mMatL9ERQZu"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1911,22 +1911,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Nervous (The Ooh Song) [Mark McCabe Remix]",
-        "url": "https://open.spotify.com/album/6jfuBG9u0Au2nWXGXTXmux"
+        "name": "Be Real",
+        "url": "https://open.spotify.com/album/2iLNcOmOJUG69SlGv5PSZz"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Rasmus Faber",
+          "url": "https://open.spotify.com/artist/6cdmYp8fPQYDIU1l1Sqt8X"
         },
         {
-          "name": "Mark McCabe",
-          "url": "https://open.spotify.com/artist/7b7fZRv3EYhFgWYJR3yjXn"
+          "name": "Metaxas",
+          "url": "https://open.spotify.com/artist/1zmqovKSBNOtEdrDuXDmR9"
         }
       ],
-      "duration_ms": 195194,
-      "name": "Nervous (The Ooh Song) - Mark McCabe Remix",
-      "url": "https://open.spotify.com/track/0L9lXMXddmoBbBUeF7A9An"
+      "duration_ms": 226222,
+      "name": "Be Real",
+      "url": "https://open.spotify.com/track/4PEbNdnFtpko90iC0W9I2u"
     }
   ],
   "unique_name": "ren hygge",

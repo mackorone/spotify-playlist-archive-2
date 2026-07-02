@@ -4,7 +4,7 @@
 
 > This is Black Eyed Peas\. The essential tracks, all in one playlist.
 
-90 songs - 6 hr 2 min
+91 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [NO MAÑANA](https://open.spotify.com/track/1clKJlcPmm4BY9TkXKQxso) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:41 | 2023-07-28 | 2026-05-22 |
 | [Party All The Time](https://open.spotify.com/track/6HEOkR22W4pJuKNpDwnSFC) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:43 | 2024-05-25 |  |
 | [Pump It](https://open.spotify.com/track/2ygMBIctKIAfbEBcT9065L) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0) | 3:33 | 2023-07-28 |  |
-| [Pump It \- Travis Barker Remix Version](https://open.spotify.com/track/4ozSTxfmp1qTZ8DzaZtY97) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Pump It](https://open.spotify.com/album/1NkUiJ3j8F1BogXijapysS) | 3:36 | 2023-07-28 |  |
+| [Pump It \- Travis Barker Remix Version](https://open.spotify.com/track/5ZJ8gpR0aer3zUy7wcvbe1) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Monkey Business \(20th Anniversary Edition\)](https://open.spotify.com/album/2jCgqL6qRRF8yuQhc21qVQ) | 3:35 | 2026-07-02 |  |
+| [Pump It \- Travis Barker Remix Version](https://open.spotify.com/track/4ozSTxfmp1qTZ8DzaZtY97) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Pump It](https://open.spotify.com/album/1NkUiJ3j8F1BogXijapysS) | 3:36 | 2023-07-28 | 2026-07-02 |
 | [Pump It Louder](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Pump It Louder](https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk) | 2:38 | 2023-07-28 | 2026-05-16 |
 | [Pump It Louder](https://open.spotify.com/track/4PNKy9P3xrzqMwVzRjxBKt) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:38 | 2024-05-17 |  |
 | [Ring\-A\-Ling](https://open.spotify.com/track/6343cMWD2EB2lOLrwu4DmL) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\)](https://open.spotify.com/album/3lng6RAtdksQ2q02Fk5jaB) | 4:32 | 2024-07-07 |  |

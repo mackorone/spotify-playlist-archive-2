@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,365 songs - 2 day 10 hr 48 min
+1,366 songs - 2 day 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1069,6 +1069,7 @@
 | [Somebody Like You](https://open.spotify.com/track/0DhLNnSMOn3dvOUXOgUX5R) | [NIOW](https://open.spotify.com/artist/7nhnwiD18D2df3t6C82M2n), [Steam Phunk](https://open.spotify.com/artist/4cRXBNKXZ5vfw2IidDobcZ), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Somebody Like You](https://open.spotify.com/album/0J75B5mo0Gyga4jfycRa12) | 2:08 | 2024-07-28 | 2024-09-02 |
 | [Someone Else's Love](https://open.spotify.com/track/7185SlFIvEKtNH8A8OcWLz) | [Vowed](https://open.spotify.com/artist/75xXmkKj5zuv8qNlqP2VIY), [DAV5](https://open.spotify.com/artist/47dPr2uiIrwKz4ALQ6ejWG) | [Someone Else’s Love](https://open.spotify.com/album/4t1fOSQ2fIx31fhb6sjKlX) | 2:34 | 2024-01-05 | 2024-05-13 |
 | [Someone Like You](https://open.spotify.com/track/4KfiH0JNbgCN65B1JLO6QW) | [MUNICH MONSTRS](https://open.spotify.com/artist/65JeCEZBSZlp9lJGDZov3f), [lonely beach house](https://open.spotify.com/artist/1jvDr2Sxp7ahE2XnykCBX3) | [Someone Like You](https://open.spotify.com/album/3RC2P2oNuseZMNW92aA01a) | 2:11 | 2024-05-27 | 2024-06-23 |
+| [SOMEONE LIKE YOU](https://open.spotify.com/track/7yzffTww3QCcBmLjtYlUHK) | [Palm Monkey](https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G) | [ON MY MIND](https://open.spotify.com/album/0awhpf1DQV9oh35DLGXETp) | 2:13 | 2026-07-01 |  |
 | [Someone You Loved](https://open.spotify.com/track/0Drhwzv9nC4HSxceTpGMxZ) | [SAKKO](https://open.spotify.com/artist/6wgRPcEgacrIVqbDsg5t3o), [toqsary](https://open.spotify.com/artist/3Rfb3dvY8LFp0MTNplSlHv) | [Someone You Loved](https://open.spotify.com/album/4iXPKxAtZNglN506UjPO4l) | 2:40 | 2024-08-23 | 2024-09-30 |
 | [Something New](https://open.spotify.com/track/3Y6OZc2MXvwVwgcYoOZxFE) | [DeejaVu](https://open.spotify.com/artist/3mvjFFkdgBRCeaSu51XM30) | [Something New](https://open.spotify.com/album/35vp1K9kCyM0UgpRcgGxNz) | 2:06 | 2025-09-07 | 2025-10-13 |
 | [Something Real](https://open.spotify.com/track/0wCFs6PrNk1oGrqnJ4a1Bu) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH), [Cozy Sky](https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u) | [Something Real](https://open.spotify.com/album/789OHGf8yuNopwNvDsxWO1) | 2:08 | 2026-04-16 |  |

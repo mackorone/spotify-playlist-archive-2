@@ -24823,6 +24823,36 @@
     },
     {
       "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/55OwZJvPyn1iWF5UWQlRQW"
+      },
+      "artists": [
+        {
+          "name": "Mc Kno",
+          "url": "https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk"
+        },
+        {
+          "name": "beats weedbrela",
+          "url": "https://open.spotify.com/artist/7GZaDg6n6mAl9otSuuhUOX"
+        },
+        {
+          "name": "Freeman Rap",
+          "url": "https://open.spotify.com/artist/5NlFf7NZfSwNZL9UOKtqR0"
+        },
+        {
+          "name": "EL MOCHO ELC",
+          "url": "https://open.spotify.com/artist/4N2t6ALevyPCB1ZwvbYTFM"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210257,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/6WsVGrldsAKOhXU53kd808"
+    },
+    {
+      "album": {
         "name": "Eternamente Noi",
         "url": "https://open.spotify.com/album/5LJJ5DqENtySvKRHVbWEZh"
       },
@@ -38118,6 +38148,24 @@
       "duration_ms": 160940,
       "name": "Kontrol",
       "url": "https://open.spotify.com/track/0G6I5FZ1pDWf9khtsjGisV"
+    },
+    {
+      "album": {
+        "name": "KosmoX",
+        "url": "https://open.spotify.com/album/4B6Ni6w8HDcSY1PGuxSQXw"
+      },
+      "artists": [
+        {
+          "name": "Ba\u00efki",
+          "url": "https://open.spotify.com/artist/6DlGStNJwKhJuqs0TXiDHB"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209728,
+      "name": "KosmoX",
+      "url": "https://open.spotify.com/track/2aAvcHW1JVydWSFmhjjyK7"
     },
     {
       "album": {
@@ -77488,6 +77536,24 @@
       "duration_ms": 268519,
       "name": "Wanna Be Free",
       "url": "https://open.spotify.com/track/3LcJKM6wdRhPkBu2DuvtAg"
+    },
+    {
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Chesh",
+          "url": "https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201804,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/6HPqzgtJtCVTyxfadXusPZ"
     },
     {
       "album": {

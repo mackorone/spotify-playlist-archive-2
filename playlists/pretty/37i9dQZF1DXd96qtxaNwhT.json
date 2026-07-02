@@ -1,6 +1,6 @@
 {
   "description": "Soak up the serenity with these beautiful melodies.",
-  "num_followers": 303824,
+  "num_followers": 303823,
   "original_name": "Peaceful Pop",
   "owner": {
     "name": "Spotify",
@@ -1175,18 +1175,22 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "100 Times Around the Sun",
-        "url": "https://open.spotify.com/album/0jBrdQ1CTtlG2oenpcT1by"
+        "name": "Please Don't Go",
+        "url": "https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT"
       },
       "artists": [
         {
-          "name": "Guy Sebastian",
-          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
+          "name": "Liliana",
+          "url": "https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF"
+        },
+        {
+          "name": "Cam Noble",
+          "url": "https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV"
         }
       ],
-      "duration_ms": 185988,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/2bZfHxeozGcn9ZehRNESbX"
+      "duration_ms": 128666,
+      "name": "Please Don't Go",
+      "url": "https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -1211,22 +1215,18 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "Please Don't Go",
-        "url": "https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT"
+        "name": "100 Times Around the Sun",
+        "url": "https://open.spotify.com/album/0jBrdQ1CTtlG2oenpcT1by"
       },
       "artists": [
         {
-          "name": "Liliana",
-          "url": "https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF"
-        },
-        {
-          "name": "Cam Noble",
-          "url": "https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV"
+          "name": "Guy Sebastian",
+          "url": "https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci"
         }
       ],
-      "duration_ms": 128666,
-      "name": "Please Don't Go",
-      "url": "https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ"
+      "duration_ms": 185988,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/2bZfHxeozGcn9ZehRNESbX"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "Songs I Cry 2",
-        "url": "https://open.spotify.com/album/5Dlx5l6BNZ66KsjHlGdWDY"
+        "name": "ONLY U",
+        "url": "https://open.spotify.com/album/4IXp95i53zj8l0YPoCWdxu"
       },
       "artists": [
         {
-          "name": "Saint clara",
-          "url": "https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS"
+          "name": "Newport",
+          "url": "https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur"
         }
       ],
-      "duration_ms": 192818,
-      "name": "How I Love You",
-      "url": "https://open.spotify.com/track/7uhPcPV6M8eVz3CsKdVxAS"
+      "duration_ms": 221405,
+      "name": "ONLY U",
+      "url": "https://open.spotify.com/track/3QLgzA5l763xGxsOyz0vrS"
     }
   ],
   "unique_name": "Peaceful Pop",

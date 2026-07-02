@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-639 songs - 1 day 19 hr 5 min
+640 songs - 1 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,7 @@
 | [Congratulations](https://open.spotify.com/track/3TDZqc9qz9Z3XrZAxtVX94) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz) | [Congratulations](https://open.spotify.com/album/74DoilGMKBzMtq3c5qDwDR) | 4:34 | 2024-12-27 | 2025-02-21 |
 | [Controller](https://open.spotify.com/track/6I38Il7uZyXN35rm1aqRri) | [Malcolm Rue](https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H), [Ada Betsabe](https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT), [Macjosh](https://open.spotify.com/artist/4BqqI6vV1XdB5UbH2qhXak), [Nicole Mawugunzi](https://open.spotify.com/artist/01VymGxQXUJXRfmNnRRcOS) | [Controller](https://open.spotify.com/album/2f8L078klwods1pvFV7MTJ) | 3:12 | 2025-05-30 | 2025-06-27 |
 | [Count](https://open.spotify.com/track/66kiV6JV3eKNO9f1VlLevC) | [God in This Music](https://open.spotify.com/artist/2QJS4VZUhGBNzYp3z24l7K), [Testimony](https://open.spotify.com/artist/1wmqBcJkngGTcaa23WwwLS) | [Count](https://open.spotify.com/album/6snbqacaWrTOHOBbZ4US0h) | 4:24 | 2026-05-08 |  |
-| [Count Your Blessings](https://open.spotify.com/track/4px2IwQ5OVSdTTeo4hzHYV) | [Petra Odubayo](https://open.spotify.com/artist/1sL3aemHcqUxh1UIrGkYIA) | [Count Your Blessings](https://open.spotify.com/album/3qSdKF7RuqPi7q8kLUgmFb) | 5:56 | 2026-05-15 |  |
+| [Count Your Blessings](https://open.spotify.com/track/4px2IwQ5OVSdTTeo4hzHYV) | [Petra Odubayo](https://open.spotify.com/artist/1sL3aemHcqUxh1UIrGkYIA) | [Count Your Blessings](https://open.spotify.com/album/3qSdKF7RuqPi7q8kLUgmFb) | 5:56 | 2026-05-15 | 2026-07-02 |
 | [Count Your Blessings](https://open.spotify.com/track/6jc0hTWOl6SO3Ryp5cSv5v) | [Raymond Okeke\-Macauley](https://open.spotify.com/artist/5HDazkxMmffXy5c26A1cSL), [Effie George](https://open.spotify.com/artist/6DbHM8quIwu4zQ9EvCAtBc) | [Count Your Blessings](https://open.spotify.com/album/1WFmSE1Vs7Hm9CesZXdCDm) | 2:16 | 2024-09-30 | 2025-02-07 |
 | [Counting My Blessings](https://open.spotify.com/track/73VCobZbLNTAwCxKKBtztO) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/5GJhEpZBXUSYQLgok38ZEK) | 3:30 | 2025-06-06 |  |
 | [Counting my Blessings \(African Remix\) \(feat\. Seph Schlueter\)](https://open.spotify.com/track/4OLl3p8VKCJRwP2a0Bxp8U) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting my Blessings \(African Remix\) \(feat\. Seph Schlueter\)](https://open.spotify.com/album/2qshb9oWrRvrZ6ibyS6iLn) | 3:16 | 2025-01-24 | 2025-02-28 |
@@ -138,6 +138,7 @@
 | [devotion](https://open.spotify.com/track/0hzwqsORr0LMEmeASvvRrG) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4) | [devotion](https://open.spotify.com/album/2CoJ8PPfjEjBGXTqan0COe) | 2:16 | 2025-10-17 | 2025-11-28 |
 | [Different II](https://open.spotify.com/track/5dkZykEUFRA6SbVnAej4Dc) | [Imancee](https://open.spotify.com/artist/7FMKtYkyh6dGQ7TN1lTzc6), [Blessing Emmanuel](https://open.spotify.com/artist/3bmy26teHjRR7kccIiZJDN) | [Different II](https://open.spotify.com/album/2ziepwCaf8ssdOYEZiNqmh) | 2:25 | 2024-11-29 | 2025-02-28 |
 | [Dj Jazzy D the Groovemaster \- I Fell in Love with You](https://open.spotify.com/track/5RLMOJGi9FyhBlMLgtTU3q) | [Dj Jazzy D The GrooveMaster](https://open.spotify.com/artist/6V1ha8RjdizvYR0QCPe6k5) | [I Fell in Love with You](https://open.spotify.com/album/0na4OgOZsaxKrexnxddVLD) | 4:05 | 2025-04-04 | 2025-05-30 |
+| [DO](https://open.spotify.com/track/5my8ScRHzur1cdz2dnnZqL) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [DO](https://open.spotify.com/album/1Cj0Fz89D0N9cNcQoaGrMV) | 2:25 | 2026-06-26 |  |
 | [Do It Again](https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [There Is a Cloud](https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB) | 6:38 | 2024-09-27 |  |
 | [DODOnDAWA \- Extended Version](https://open.spotify.com/track/1fgL1JV4NPRaXmJ7MoOTCW) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd) | [DODOnDAWA \(Extended Version\)](https://open.spotify.com/album/1QU3F0GcrX1vGU41l4nAtz) | 10:08 | 2025-05-23 | 2025-08-29 |
 | [Dodorima](https://open.spotify.com/track/53iJayjwb5dxP8NAKCdZAS) | [Mr\. Dutch](https://open.spotify.com/artist/14v8N6lM4z703uXHAVC9zN), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl), [Raybekah](https://open.spotify.com/artist/0SwPkNmxB2YGHWVJMI8kpW) | [Dodorima](https://open.spotify.com/album/702KVnfbnH1Zcm8TcQAD2D) | 5:21 | 2025-01-24 | 2025-04-11 |

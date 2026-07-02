@@ -1,6 +1,6 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 497270,
+  "num_followers": 497308,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
-        "name": "Dicht im Flieger",
-        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Dicht im Flieger",
-      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
-    },
-    {
-      "added_at": "2026-06-25 22:00:54",
-      "album": {
         "name": "Atzen Musik Vol.1, 2 & 3",
         "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 204946,
       "name": "Disco Pogo",
       "url": "https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu"
+    },
+    {
+      "added_at": "2026-06-25 22:00:54",
+      "album": {
+        "name": "Dicht im Flieger",
+        "url": "https://open.spotify.com/album/1bfKjFlmLw8jFBpJMsvU32"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Dicht im Flieger",
+      "url": "https://open.spotify.com/track/6sS77FZh2eJfYBsFUW6hjI"
     },
     {
       "added_at": "2026-06-25 22:00:54",
@@ -727,18 +727,22 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/21howx0bfKfbOYTNAx0yi6"
+        "name": "Tag X (Geiles Leben Edition)",
+        "url": "https://open.spotify.com/album/1dK5iraBeq5qeMowd8Itsn"
       },
       "artists": [
         {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+          "name": "Glasperlenspiel",
+          "url": "https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO"
+        },
+        {
+          "name": "Madizin",
+          "url": "https://open.spotify.com/artist/3KCO1VWpmHG0T2zYJjXVgj"
         }
       ],
-      "duration_ms": 205880,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/0eZ79jSIKo6SfpJ90iU3Nu"
+      "duration_ms": 211373,
+      "name": "Geiles Leben - Madizin Single Mix",
+      "url": "https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2"
     },
     {
       "added_at": "2026-06-25 22:00:54",
@@ -759,6 +763,22 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/21howx0bfKfbOYTNAx0yi6"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 205880,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/0eZ79jSIKo6SfpJ90iU3Nu"
+    },
+    {
+      "added_at": "2026-06-25 22:00:54",
+      "album": {
         "name": "Zeig mir den Platz an der Sonne",
         "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 244640,
       "name": "Griechischer Wein",
       "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
-    },
-    {
-      "added_at": "2026-06-25 22:00:54",
-      "album": {
-        "name": "Tag X (Geiles Leben Edition)",
-        "url": "https://open.spotify.com/album/1dK5iraBeq5qeMowd8Itsn"
-      },
-      "artists": [
-        {
-          "name": "Glasperlenspiel",
-          "url": "https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO"
-        },
-        {
-          "name": "Madizin",
-          "url": "https://open.spotify.com/artist/3KCO1VWpmHG0T2zYJjXVgj"
-        }
-      ],
-      "duration_ms": 211373,
-      "name": "Geiles Leben - Madizin Single Mix",
-      "url": "https://open.spotify.com/track/4GyG53nBdaEvSEn9o8roA2"
     },
     {
       "added_at": "2026-06-25 22:00:54",
@@ -867,6 +867,30 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
+        "name": "OHNE DICH",
+        "url": "https://open.spotify.com/album/4ojhahjUoeEdcbCaFVygXE"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "OHNE DICH",
+      "url": "https://open.spotify.com/track/2zB3m7cucvTZQ7IwUtdnxM"
+    },
+    {
+      "added_at": "2026-06-25 22:00:54",
+      "album": {
         "name": "Auf uns",
         "url": "https://open.spotify.com/album/4WlXgGmTpei2JSDB3cbhQU"
       },
@@ -891,30 +915,6 @@
       "duration_ms": 201700,
       "name": "Auf uns",
       "url": "https://open.spotify.com/track/6EtaQZ17DcFWychSvbLyAc"
-    },
-    {
-      "added_at": "2026-06-25 22:00:54",
-      "album": {
-        "name": "OHNE DICH",
-        "url": "https://open.spotify.com/album/4ojhahjUoeEdcbCaFVygXE"
-      },
-      "artists": [
-        {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
-        },
-        {
-          "name": "KATI K",
-          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
-        },
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "OHNE DICH",
-      "url": "https://open.spotify.com/track/2zB3m7cucvTZQ7IwUtdnxM"
     },
     {
       "added_at": "2026-06-25 22:00:54",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
-        "name": "Dieter (Der LKW Song)",
-        "url": "https://open.spotify.com/album/2Woo0eDfX5vKGrXfQzvnbN"
+        "name": "Hey Macarena!",
+        "url": "https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9"
       },
       "artists": [
         {
-          "name": "Malle Anja",
-          "url": "https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd"
+          "name": "Pietro Basile",
+          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
         }
       ],
-      "duration_ms": 190849,
-      "name": "Dieter (Der LKW Song)",
-      "url": "https://open.spotify.com/track/63OzX69ELvC0mFS4UiscII"
+      "duration_ms": 164769,
+      "name": "Hey Macarena!",
+      "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
     },
     {
       "added_at": "2026-06-25 22:00:54",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
-        "name": "Hey Macarena!",
-        "url": "https://open.spotify.com/album/5lfbj6pyyZwTUeFWfu0OW9"
+        "name": "Dieter (Der LKW Song)",
+        "url": "https://open.spotify.com/album/2Woo0eDfX5vKGrXfQzvnbN"
       },
       "artists": [
         {
-          "name": "Pietro Basile",
-          "url": "https://open.spotify.com/artist/29JWo79GMywsGJ5lY8HrCc"
+          "name": "Malle Anja",
+          "url": "https://open.spotify.com/artist/7GgR71h3yQSxU4bwfX9gRd"
         }
       ],
-      "duration_ms": 164769,
-      "name": "Hey Macarena!",
-      "url": "https://open.spotify.com/track/2NAn1J4RbC8Ure2F1hByXK"
+      "duration_ms": 190849,
+      "name": "Dieter (Der LKW Song)",
+      "url": "https://open.spotify.com/track/63OzX69ELvC0mFS4UiscII"
     },
     {
       "added_at": "2026-06-25 22:00:54",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
-        "name": "10 von 10",
-        "url": "https://open.spotify.com/album/51rg3umrp0IXNtrI77zEd9"
-      },
-      "artists": [
-        {
-          "name": "Julian Benz",
-          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
-        }
-      ],
-      "duration_ms": 134924,
-      "name": "10 von 10",
-      "url": "https://open.spotify.com/track/37xCUommA4coyrL4d8Vylf"
-    },
-    {
-      "added_at": "2026-06-25 22:00:54",
-      "album": {
         "name": "Von Herzen",
         "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 232053,
       "name": "A Mann f\u00fcr Amore - Single Mix",
       "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
+    },
+    {
+      "added_at": "2026-06-25 22:00:54",
+      "album": {
+        "name": "10 von 10",
+        "url": "https://open.spotify.com/album/51rg3umrp0IXNtrI77zEd9"
+      },
+      "artists": [
+        {
+          "name": "Julian Benz",
+          "url": "https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp"
+        }
+      ],
+      "duration_ms": 134924,
+      "name": "10 von 10",
+      "url": "https://open.spotify.com/track/37xCUommA4coyrL4d8Vylf"
     },
     {
       "added_at": "2026-06-25 22:00:54",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
-        "name": "K\u00e4pt'n Morgen",
-        "url": "https://open.spotify.com/album/7AxIlCtJ9HucWsmburWi9A"
-      },
-      "artists": [
-        {
-          "name": "Sch\u00fcrze",
-          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
-        }
-      ],
-      "duration_ms": 158785,
-      "name": "K\u00e4pt'n Morgen",
-      "url": "https://open.spotify.com/track/5uGacwxeGDV4RSDYqgMGmZ"
-    },
-    {
-      "added_at": "2026-06-25 22:00:54",
-      "album": {
         "name": "Grapefruit",
         "url": "https://open.spotify.com/album/2GPa0un8izzyTkgZWgocBo"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 184160,
       "name": "Grapefruit",
       "url": "https://open.spotify.com/track/6tsfUUzJ5SFKP7n2H9V22F"
+    },
+    {
+      "added_at": "2026-06-25 22:00:54",
+      "album": {
+        "name": "K\u00e4pt'n Morgen",
+        "url": "https://open.spotify.com/album/7AxIlCtJ9HucWsmburWi9A"
+      },
+      "artists": [
+        {
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
+        }
+      ],
+      "duration_ms": 158785,
+      "name": "K\u00e4pt'n Morgen",
+      "url": "https://open.spotify.com/track/5uGacwxeGDV4RSDYqgMGmZ"
     },
     {
       "added_at": "2026-06-25 22:00:54",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
+      },
+      "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 128713,
+      "name": "MDMA",
+      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
+    },
+    {
+      "added_at": "2026-06-25 22:00:54",
+      "album": {
         "name": "Mallelelele",
         "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
-        "name": "MDMA",
-        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
-      },
-      "artists": [
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 128713,
-      "name": "MDMA",
-      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
-    },
-    {
-      "added_at": "2026-06-25 22:00:54",
-      "album": {
         "name": "Popopo",
         "url": "https://open.spotify.com/album/28H96Y0KpEI6CQ8kqNV1aI"
       },
@@ -1467,22 +1467,22 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
-        "name": "HASENJAGD",
-        "url": "https://open.spotify.com/album/7z6XRu94FWJRAsVaFeodgL"
+        "name": "Ich liebe das Leben (Stereoact #Remix)",
+        "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
       },
       "artists": [
         {
-          "name": "Tream",
-          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+          "name": "Vicky Leandros",
+          "url": "https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ"
         },
         {
-          "name": "treamiboii",
-          "url": "https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac"
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
         }
       ],
-      "duration_ms": 158135,
-      "name": "HASENJAGD",
-      "url": "https://open.spotify.com/track/4VCeLD6GatBDyoA5ijrL4X"
+      "duration_ms": 203900,
+      "name": "Ich liebe das Leben - Stereoact #Remix",
+      "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
     },
     {
       "added_at": "2026-06-25 22:00:54",

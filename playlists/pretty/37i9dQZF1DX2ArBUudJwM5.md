@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres a todo volumen x  BB ASUL ♥︎
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,626 likes - 29 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,628 likes - 29 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [tabaco para armar](https://open.spotify.com/track/6IXWL69KVkpqyHhQxEi857) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [tabaco para armar](https://open.spotify.com/album/4wdpdfpjxUugDWTePO1BOn) | 2:47 |
-| 2 | [inocencia interrumpida](https://open.spotify.com/track/0qCyVa5ASsxtkGY9uQtvRB) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:16 |
-| 3 | [Lobo](https://open.spotify.com/track/7bIowqeQUoo78CUCgUwwAs) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Misterio Relampago](https://open.spotify.com/album/1XRkpZ0ImDGFEGcrgVbEgq) | 3:28 |
-| 4 | [TODO LO QUE TENGO](https://open.spotify.com/track/4yqJO6BAS9YgiYKUviFwU9) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [BAR SCORPIOS](https://open.spotify.com/album/6Rtfa37o0kuhuso3RwimZQ) | 3:31 |
-| 5 | [PERDEDOR](https://open.spotify.com/track/3Cfi4GbRDeeDnzhNH6SZ3W) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [NO VAYAS A ATENDER CUANDO EL DEMONIO LLAMA](https://open.spotify.com/album/6I0pKnwFMnv4fC5KzEgPnq) | 3:41 |
+| 1 | [inocencia interrumpida](https://open.spotify.com/track/0qCyVa5ASsxtkGY9uQtvRB) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [donde van los perros](https://open.spotify.com/album/0W0gzoXiuxbChL2G9EUi2O) | 2:16 |
+| 2 | [Lobo](https://open.spotify.com/track/7bIowqeQUoo78CUCgUwwAs) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Misterio Relampago](https://open.spotify.com/album/1XRkpZ0ImDGFEGcrgVbEgq) | 3:28 |
+| 3 | [TODO LO QUE TENGO](https://open.spotify.com/track/4yqJO6BAS9YgiYKUviFwU9) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [BAR SCORPIOS](https://open.spotify.com/album/6Rtfa37o0kuhuso3RwimZQ) | 3:31 |
+| 4 | [PERDEDOR](https://open.spotify.com/track/3Cfi4GbRDeeDnzhNH6SZ3W) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [NO VAYAS A ATENDER CUANDO EL DEMONIO LLAMA](https://open.spotify.com/album/6I0pKnwFMnv4fC5KzEgPnq) | 3:41 |
+| 5 | [tabaco para armar](https://open.spotify.com/track/6IXWL69KVkpqyHhQxEi857) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [tabaco para armar](https://open.spotify.com/album/4wdpdfpjxUugDWTePO1BOn) | 2:47 |
 | 6 | [Lleváme](https://open.spotify.com/track/1v1O3WfXLDlb4UoJKMo5Cb) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Mi Corazón en Llamas](https://open.spotify.com/album/0wPT5mmq7EwAa9D1cuVjq4) | 3:50 |
 | 7 | [Mirtazapine](https://open.spotify.com/track/2FFXU4b8sIsiLiTo6EWO19) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/3MROTtttK946gHaTkXeP8b) | 3:21 |
 | 8 | [Me Vuelvo Cada Día Mas Loca](https://open.spotify.com/track/6ZxrdLbwwcExhPXjEFw6fp) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW) | [Celesteacustica](https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe) | 3:49 |
@@ -38,4 +38,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 28 | [Los Ejecutivos](https://open.spotify.com/track/1BEmNhunf9N7JlATfsEKeD) | [María Elena Walsh](https://open.spotify.com/artist/5gMEZRCMq0gWA3kuCPukEk) | [Canciones Para Grandes](https://open.spotify.com/album/0w2rkPtEO6zq18nrkJkzZb) | 4:22 |
 | 29 | [HOT 90 SHOT](https://open.spotify.com/track/73HtfFaOC0KG7mtoI5yUVp) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [HOT 90 SHOT](https://open.spotify.com/album/277qvtnrAWtBXAtCpNRIx9) | 3:17 |
 
-Snapshot ID: `AAAAADvqC37rRxeQXhB5vA9VvwGOGoQn`
+Snapshot ID: `AAAAAInIFjpX+kAcg+R7fqwknFi6Qvwk`

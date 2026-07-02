@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVnX01c6gE6x.md) - [plain]
 
 ### [RADAR Creadores México](https://open.spotify.com/playlist/37i9dQZF1DWVnX01c6gE6x)
 
-> Creadores que necesitas tener en el RADAR\. En la portada: <a href="spotify:show:4NGoEpjwtJL5N6QhJhzEUV">Desmenucemos la Data </a>
+> Creadores que necesitas tener en el RADAR\. En la portada: <a href="spotify:show:24fUXERZ38CtyNbJtCnpa8">Finanzas que Valen </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,022 likes - 9 songs - 11 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,023 likes - 9 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [19 \- FGR CITA A MARU CAMPOS Y ROCHA MOYA \| Sheinbaum va contra TV Azteca](https://open.spotify.com/episode/5jOVBpg6ZDvXSLKQBJJNHi) | [Desmenucemos la Data](https://open.spotify.com/show/4NGoEpjwtJL5N6QhJhzEUV) | [Desmenucemos la Data](https://open.spotify.com/album/4NGoEpjwtJL5N6QhJhzEUV) | 1:22:47 |
-| 2 | [18 \- MORENA VS MARU CAMPOS, UIF, MAHAHUAL y más brete](https://open.spotify.com/episode/6objEioJtX2sUFGEhtnoMq) | [Desmenucemos la Data](https://open.spotify.com/show/4NGoEpjwtJL5N6QhJhzEUV) | [Desmenucemos la Data](https://open.spotify.com/album/4NGoEpjwtJL5N6QhJhzEUV) | 1:27:01 |
-| 3 | [17 \- HONDURASGATE Y DÍAZ AYUSO \| ¿Qué hacía BTS en Palacio Nacional? ](https://open.spotify.com/episode/3uDBFNmlP3AawBLtFQ1Y0k) | [Desmenucemos la Data](https://open.spotify.com/show/4NGoEpjwtJL5N6QhJhzEUV) | [Desmenucemos la Data](https://open.spotify.com/album/4NGoEpjwtJL5N6QhJhzEUV) | 1:08:44 |
-| 4 | [storytimes de NARCISISTAS \(ego ego egoístaaaa\) \| Las Desencantadas Podcast Ep\. 06](https://open.spotify.com/episode/4lmwtFowLAxSyf0pMXBXBi) | [Las Desencantadas](https://open.spotify.com/show/1Rd6XqtD2PNcs599lgCaqn) | [Las Desencantadas](https://open.spotify.com/album/1Rd6XqtD2PNcs599lgCaqn) | 1:31:22 |
-| 5 | [INFIDELIDADES \(es intuición o estamos delulu?\)](https://open.spotify.com/episode/0hBXa54Su6Mq7AmVe6Qoqd) | [Las Desencantadas](https://open.spotify.com/show/1Rd6XqtD2PNcs599lgCaqn) | [Las Desencantadas](https://open.spotify.com/album/1Rd6XqtD2PNcs599lgCaqn) | 1:33:32 |
-| 6 | [storytimes de AMISTADES TÓXICAS 💔💥 \(las extrañamos 😭\) \| Las Desencantadas Podcast Ep\. 06](https://open.spotify.com/episode/02Y2Jy2wrxcUU7tNm889zT) | [Las Desencantadas](https://open.spotify.com/show/1Rd6XqtD2PNcs599lgCaqn) | [Las Desencantadas](https://open.spotify.com/album/1Rd6XqtD2PNcs599lgCaqn) | 1:20:43 |
-| 7 | [Podcast acostados en una cama a 20 metros de caída \- La Huasteca \- 2x11](https://open.spotify.com/episode/02Cwt7QpmJ6tS7Tg8sKVUx) | [Ideas de Altura Podcast](https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J) | [Ideas de Altura Podcast](https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J) | 1:18:56 |
-| 8 | [Podcast en el Volcán más joven del mundo \- Michoacán, Volcán Paricutín \- 2x8](https://open.spotify.com/episode/0wMAgybpeWQFv4NPkDXZjd) | [Ideas de Altura Podcast](https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J) | [Ideas de Altura Podcast](https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J) | 53:43 |
-| 9 | [ 2x2 \- Supositorios en la vida adulta \- Kayko \- Puerto la Camotera.](https://open.spotify.com/episode/580Yz0V1atmbENWt9ZCmEK) | [Ideas de Altura Podcast](https://open.spotify.com/show/6GqaBGrJau17NofsIw9R1J) | [Ideas de Altura Podcast](https://open.spotify.com/album/6GqaBGrJau17NofsIw9R1J) | 1:18:45 |
+| 1 | [Cómo voy a comprar una casa \(realisticamente\)? Una guia por el historial crediticio desde cero](https://open.spotify.com/episode/00BEo3IkXiuE6eL20zWusM) | [Finanzas que Valen](https://open.spotify.com/show/24fUXERZ38CtyNbJtCnpa8) | [Finanzas que Valen](https://open.spotify.com/album/24fUXERZ38CtyNbJtCnpa8) | 35:28 |
+| 2 | [La historia que nos contaron sobre las mujeres y el dinero: de Carrie Bradshaw a Judy Faulkner](https://open.spotify.com/episode/0wGOiolNOH2jysWCdZJofu) | [Finanzas que Valen](https://open.spotify.com/show/24fUXERZ38CtyNbJtCnpa8) | [Finanzas que Valen](https://open.spotify.com/album/24fUXERZ38CtyNbJtCnpa8) | 37:13 |
+| 3 | [Por qué ganar más no soluciona tus problemas financieros](https://open.spotify.com/episode/5G64ULx8kLdjgRhD05a7Je) | [Finanzas que Valen](https://open.spotify.com/show/24fUXERZ38CtyNbJtCnpa8) | [Finanzas que Valen](https://open.spotify.com/album/24fUXERZ38CtyNbJtCnpa8) | 23:36 |
+| 4 | [23 \- PATO MERLÍN EN LA MAÑANERA, alcaldesa de Tenancingo piró y más cuacha](https://open.spotify.com/episode/4RVsLNa7vL4jlYIW3CkCTp) | [Desmenucemos la Data](https://open.spotify.com/show/4NGoEpjwtJL5N6QhJhzEUV) | [Desmenucemos la Data](https://open.spotify.com/album/4NGoEpjwtJL5N6QhJhzEUV) | 1:21:58 |
+| 5 | [22 \- PRESIDENTA CON A VS SALINAS PLIEGO \| Samuel García enjuiciado y más](https://open.spotify.com/episode/2ZfwbkWBtxyHCo27owWVXO) | [Desmenucemos la Data](https://open.spotify.com/show/4NGoEpjwtJL5N6QhJhzEUV) | [Desmenucemos la Data](https://open.spotify.com/album/4NGoEpjwtJL5N6QhJhzEUV) | 1:14:49 |
+| 6 | [21 \- COMIENZA EL MUNDIAL, VISAS Y CNTE generan caos y despeluque](https://open.spotify.com/episode/25LBLKMlxXHZKfVN6oNBwM) | [Desmenucemos la Data](https://open.spotify.com/show/4NGoEpjwtJL5N6QhJhzEUV) | [Desmenucemos la Data](https://open.spotify.com/album/4NGoEpjwtJL5N6QhJhzEUV) | 1:15:05 |
+| 7 | [autoestima \(no tenemos de eso\) \| Las DESENCANTADAS Podcast ep\. 16](https://open.spotify.com/episode/2Lg2lZZ6N0GUVc4jl8o1q1) | [Las Desencantadas](https://open.spotify.com/show/1Rd6XqtD2PNcs599lgCaqn) | [Las Desencantadas](https://open.spotify.com/album/1Rd6XqtD2PNcs599lgCaqn) | 1:05:04 |
+| 8 | [Suegras dementes \| Las DESENCANTADAS podcast Ep\. 11](https://open.spotify.com/episode/3b9KTx2ktIRCuY4mY6oBJw) | [Las Desencantadas](https://open.spotify.com/show/1Rd6XqtD2PNcs599lgCaqn) | [Las Desencantadas](https://open.spotify.com/album/1Rd6XqtD2PNcs599lgCaqn) | 1:13:02 |
+| 9 | [ Secretos adolescentes \(mi mamá casi se desmaya\) \| Las Desencantadas Podcast Ep\. 10](https://open.spotify.com/episode/7LsxFrD4txS7jR0NWNNPCG) | [Las Desencantadas](https://open.spotify.com/show/1Rd6XqtD2PNcs599lgCaqn) | [Las Desencantadas](https://open.spotify.com/album/1Rd6XqtD2PNcs599lgCaqn) | 1:31:26 |
 
-Snapshot ID: `AAAAAD+LT2pJipcgRKznvDY3fP0IbrDr`
+Snapshot ID: `AAAAAO27EpNyYq1GxOLrICs3s8DQWmbl`

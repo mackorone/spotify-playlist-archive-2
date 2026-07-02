@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: Suen\(수엔\)\)
+> Trendy & Chill Korean R&B music\. \(Cover: Dodree\(도드리\)\)
 
-924 songs - 2 day 0 hr 44 min
+925 songs - 2 day 0 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Dawn do that](https://open.spotify.com/track/4xD5Vnn0DM8jksh1GCTqNu) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Dawn do that](https://open.spotify.com/album/6pmkZgZ01iByTV2hfaZmdo) | 4:03 | 2022-05-09 | 2022-07-22 |
 | [Day & Night](https://open.spotify.com/track/248ZX6OVcMc8xJPIO6YtE0) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [BrotherSu](https://open.spotify.com/artist/3fmAXFX05DFTaTkreemfxB) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 3:42 | 2023-02-14 | 2023-02-25 |
 | [Dear My](https://open.spotify.com/track/2p4yp2OSeGiMQ384JCAvAB) | [JeongA](https://open.spotify.com/artist/7ciR9UTxsmKjF9O09I55yL) | [Dear My](https://open.spotify.com/album/0qEXktHXsW5MW0VMGBRYHX) | 3:13 | 2022-09-20 | 2022-09-28 |
+| [Dear.J \(Feat\. Jay Park\)](https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dear.J](https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek) | 3:21 | 2026-07-01 |  |
 | [Dedicated 2 U](https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 3: Dedicated 2 U](https://open.spotify.com/album/4fSS3OAnjyYSuFwZHkH2nP) | 3:14 | 2024-08-09 | 2024-08-28 |
 | [Dedication \(feat\. Jay Park\)](https://open.spotify.com/track/4Fl28qqbipvboUaEJBbDZp) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Homecoming](https://open.spotify.com/album/0NcIkmY15hHu0V6lT2v9JD) | 2:46 | 2022-04-19 | 2022-04-21 |
 | [DELIGHT](https://open.spotify.com/track/0M2bsM3SOJTADMgHGL049u) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [TIMELESS](https://open.spotify.com/album/4gy6AumMG4jWgACiSp0DwL) | 3:57 | 2022-07-24 | 2022-07-28 |
@@ -310,7 +311,7 @@
 | [Future Boy](https://open.spotify.com/track/2kbMfNEAfPuKwinUIj5opm) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Future Boy](https://open.spotify.com/album/6xDENSYvVpXXIbYlHjBzI0) | 2:04 | 2022-05-11 | 2022-07-28 |
 | [Fxxxboy](https://open.spotify.com/track/2YUoX58zywC6rqFPOUNOiq) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [DEADLINE](https://open.spotify.com/album/0al74j1n8XIEkZMMFRfsbx) | 3:07 | 2026-02-27 | 2026-06-02 |
 | [G.i.w.o.n](https://open.spotify.com/track/2pvjfkbEIMfn7JMT6210ys) | [Giwon](https://open.spotify.com/artist/0p3SJn2qPmo3A4Yby7XIxV), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [G.i.w.o.n](https://open.spotify.com/album/7gDvwgrtKXDpKfAdZcbv1r) | 2:06 | 2026-04-06 | 2026-04-13 |
-| [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-04-19 |  |
+| [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 | 2022-04-19 | 2026-07-02 |
 | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/track/4FPWDZRRREW99mWChTCyYr) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Get Ya! \(feat\. pH\-1\)](https://open.spotify.com/album/3eexqM5OLi0HlN3JDyqZhx) | 2:39 | 2022-05-04 | 2022-07-28 |
 | [Ghosting \(Prod\. CODE KUNST\)](https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub) | [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Ghosting](https://open.spotify.com/album/24vtmVfDjVTxb9cCNRgheo) | 3:40 | 2022-08-18 | 2022-10-11 |
 | [Gift \(feat\. Drake\)](https://open.spotify.com/track/4Kcb43AOZE71Wnk9ueVulW) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Gift](https://open.spotify.com/album/2AiGuLywlNPHz4O5iPvYY5) | 4:01 | 2025-12-18 | 2026-01-21 |

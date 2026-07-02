@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Gateway Worship Español
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,437 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,475 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 31 | [Libres](https://open.spotify.com/track/7aMqmyI1v87KaqtPvvKEjB) | [Centro Vida Música](https://open.spotify.com/artist/6CIK7edonov1Ccw9vsh9Ea) | [Promesas](https://open.spotify.com/album/1cuCZUefITBkPItFzHJboV) | 7:09 |
 | 32 | [Por Quien Eres Tú](https://open.spotify.com/track/4nheYtSsBZaEeEJiIfPlNV) | [Matthew Hotton](https://open.spotify.com/artist/62veW3YYWKSHx6sDGnDpNQ) | [Por Quien Eres Tú](https://open.spotify.com/album/0QhFUZwyouuRpJUUGqR3Hj) | 4:30 |
 | 33 | [Véanlo Ahí](https://open.spotify.com/track/2PcnNbmVTJ8tHpKlpltwR4) | [Llévame de Vuelta](https://open.spotify.com/artist/7DfPaaPqWzLIQOEJXXnjJY) | [Véanlo Ahí](https://open.spotify.com/album/1jdocnF2prvvFd3Q7hRmDt) | 8:25 |
-| 34 | [SALVAVIDAS](https://open.spotify.com/track/5US9ye3eV0WSZLacagDCH4) | [Fruto del Madero](https://open.spotify.com/artist/2udrher3tAyZhAhTqOHktf), [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [SALVAVIDAS](https://open.spotify.com/album/09PiAwBut3uOpVJPh1SPkF) | 4:32 |
+| 34 | [SALVAVIDAS \(feat\. Athenas\)](https://open.spotify.com/track/5US9ye3eV0WSZLacagDCH4) | [Fruto del Madero](https://open.spotify.com/artist/2udrher3tAyZhAhTqOHktf), [Athenas](https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu) | [SALVAVIDAS \(feat\. Athenas\)](https://open.spotify.com/album/09PiAwBut3uOpVJPh1SPkF) | 4:32 |
 | 35 | [El Camino](https://open.spotify.com/track/6Camv9yCkQjG9EtQprEEGj) | [Ivette & Ivon Lopez](https://open.spotify.com/artist/1slcGbJMZhp5sRQJLkeZJV) | [El Camino](https://open.spotify.com/album/6ZsTPABHguRlTFJLlD9ImV) | 3:51 |
 | 36 | [24/7](https://open.spotify.com/track/33dxsiwmegs0Wx34YRABe2) | [Aldana Canale](https://open.spotify.com/artist/5NOcG6isbHqwrftUVkl6Uk) | [24/7](https://open.spotify.com/album/08nTBWhZ2oJAzJ0oHzNZGb) | 3:23 |
 | 37 | [A Tu Manera](https://open.spotify.com/track/6BbrsHfYPHD0WL4a8jFCQU) | [Kelmitt](https://open.spotify.com/artist/6tOv5UYDorjmsernjtaHO1), [Lirios](https://open.spotify.com/artist/1CAZ9qtjtfLQjUzDbI6U2y) | [A Tu Manera](https://open.spotify.com/album/1WN3qG5DbaS3ZOfxdhAMSu) | 3:27 |

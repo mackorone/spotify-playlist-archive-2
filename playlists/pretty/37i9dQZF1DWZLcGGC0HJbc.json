@@ -1,6 +1,6 @@
 {
   "description": "Voor boslucht, koffie en kalmte.",
-  "num_followers": 98094,
+  "num_followers": 98089,
   "original_name": "Indie Folk Coffee & Cedar",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-06-22 11:52:35",
       "album": {
+        "name": "Always Lost",
+        "url": "https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA"
+      },
+      "artists": [
+        {
+          "name": "Emma Hessels",
+          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Always Lost",
+      "url": "https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf"
+    },
+    {
+      "added_at": "2026-06-22 11:52:35",
+      "album": {
         "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
         "url": "https://open.spotify.com/album/66qSzjkzyYbD2cXKauAOVJ"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 200373,
       "name": "No Springtime (ft. Joy Oladokun & Julie Williams)",
       "url": "https://open.spotify.com/track/4roCXZFxzB1WrKofdjedQg"
-    },
-    {
-      "added_at": "2026-06-22 11:52:35",
-      "album": {
-        "name": "Always Lost",
-        "url": "https://open.spotify.com/album/2JnYn3rCK1aGomksow3WtA"
-      },
-      "artists": [
-        {
-          "name": "Emma Hessels",
-          "url": "https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Always Lost",
-      "url": "https://open.spotify.com/track/1GLJrhvJcD7MDzH4oSfimf"
     },
     {
       "added_at": "2026-06-22 11:52:35",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-06-22 11:52:35",
       "album": {
-        "name": "Underwear",
-        "url": "https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y"
-      },
-      "artists": [
-        {
-          "name": "Thomas Day",
-          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
-        }
-      ],
-      "duration_ms": 207130,
-      "name": "Underwear",
-      "url": "https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z"
-    },
-    {
-      "added_at": "2026-06-22 11:52:35",
-      "album": {
         "name": "red sky at night",
         "url": "https://open.spotify.com/album/6nTaOFO6qZb0YbOciCEPZu"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 176818,
       "name": "red sky at night",
       "url": "https://open.spotify.com/track/5PLGmfrSqRq7Q1dKvJ7S7M"
+    },
+    {
+      "added_at": "2026-06-22 11:52:35",
+      "album": {
+        "name": "Underwear",
+        "url": "https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 207130,
+      "name": "Underwear",
+      "url": "https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z"
     },
     {
       "added_at": "2026-06-22 11:52:35",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-06-22 11:52:35",
       "album": {
-        "name": "Ferris Wheel",
-        "url": "https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp"
-      },
-      "artists": [
-        {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "Ferris Wheel",
-      "url": "https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA"
-    },
-    {
-      "added_at": "2026-06-22 11:52:35",
-      "album": {
         "name": "The Surface",
         "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2026-06-22 11:52:35",
       "album": {
-        "name": "Speaking of You",
-        "url": "https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1"
+        "name": "Ferris Wheel",
+        "url": "https://open.spotify.com/album/3PBgZgV4CjAeBSTMvC5rkp"
       },
       "artists": [
         {
-          "name": "Old Sea Brigade",
-          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
         }
       ],
-      "duration_ms": 265726,
-      "name": "Speaking of You",
-      "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
+      "duration_ms": 205146,
+      "name": "Ferris Wheel",
+      "url": "https://open.spotify.com/track/63HPIbP11nHHlcC2gKxLcA"
     },
     {
       "added_at": "2026-06-22 11:52:35",
@@ -803,6 +787,22 @@
       "duration_ms": 208180,
       "name": "happiness - live",
       "url": "https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74"
+    },
+    {
+      "added_at": "2026-06-22 11:52:35",
+      "album": {
+        "name": "Speaking of You",
+        "url": "https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1"
+      },
+      "artists": [
+        {
+          "name": "Old Sea Brigade",
+          "url": "https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45"
+        }
+      ],
+      "duration_ms": 265726,
+      "name": "Speaking of You",
+      "url": "https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM"
     },
     {
       "added_at": "2026-06-22 11:52:35",

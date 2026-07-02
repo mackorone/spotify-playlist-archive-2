@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Nia Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,108 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,113 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 6 | [levels](https://open.spotify.com/track/5WnAF1Vh2byZgn0KwOT5in) | [Pozzy](https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G), [Saiming](https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9), [t.o](https://open.spotify.com/artist/3VPVf2I5XVZGmTp5WHva68) | [levels](https://open.spotify.com/album/1fI4KwMxN0uRh3yA3XvmZJ) | 3:54 |
 | 7 | [RockWave](https://open.spotify.com/track/7umWv57SsTnh1P4FFTa8bg) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [RockWave](https://open.spotify.com/album/5Rti1VEHljEEGaVwlSHM3j) | 2:14 |
 | 8 | [is it cool? \(feat\. SZA\)](https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [is it cool? \(feat\. SZA\)](https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW) | 2:54 |
-| 9 | [Avengers](https://open.spotify.com/track/6zf80ZbDcjHGr85U1anoum) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Suggz](https://open.spotify.com/artist/02ZY7mXbBycRP7fW3PszQT), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs), [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n), [Reekz PB](https://open.spotify.com/artist/1rcDQO1ZDEfAXpM6ycRWqk) | [Perseverance](https://open.spotify.com/album/1riiEXbaZVllfRLvDktfxf) | 4:37 |
+| 9 | [Avengers](https://open.spotify.com/track/6zf80ZbDcjHGr85U1anoum) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Suggz](https://open.spotify.com/artist/02ZY7mXbBycRP7fW3PszQT), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs), [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n), [Reekz](https://open.spotify.com/artist/24SbtyEVS6NAifwpeTm6Ak) | [Perseverance](https://open.spotify.com/album/1riiEXbaZVllfRLvDktfxf) | 4:37 |
 | 10 | [No Harm](https://open.spotify.com/track/2XQ133QNNO2GbOsOiukvSW) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [No Harm](https://open.spotify.com/album/0s4lWucH2UGmHl5rrysSjs) | 2:45 |
 | 11 | [What you Know](https://open.spotify.com/track/2tbxEdJWzM7vT2OR8zLDFs) | [PLUTO](https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G) | [Diary Of A Young Lit B\*tch](https://open.spotify.com/album/5fmJLK908UzunIOHhZE5Au) | 1:42 |
 | 12 | [Papercuts](https://open.spotify.com/track/0s1wIuuawNo3JdA6aZUnrF) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [Papercuts](https://open.spotify.com/album/7urk8n6HffC74Erefhzmzx) | 3:30 |

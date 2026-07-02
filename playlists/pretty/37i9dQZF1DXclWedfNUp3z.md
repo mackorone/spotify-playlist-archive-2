@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 
 > Mellow vibrations for green leaves, green thumbs and green ears.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,378 likes - 100 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,426 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 24 | [Castle Song](https://open.spotify.com/track/4GYdKBuHZNRByw8bFES0EL) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [A Host for All Kinds of Life](https://open.spotify.com/album/08pPPgrNVzEa12ksYN3Drl) | 2:53 |
 | 25 | [Moon & Domino](https://open.spotify.com/track/3LDkxHcVV5H7fU3zASnkDU) | [Camille Cabbabe](https://open.spotify.com/artist/0kNsnflNww6brcHP8Dywn6) | [K2](https://open.spotify.com/album/7HeE9amV1xHGKfG8YLfUTz) | 2:08 |
 | 26 | [Suite Pour L'invisible](https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 7:01 |
-| 27 | [Boundlessness](https://open.spotify.com/track/11EfRHeiSHBynrX6IKpugx) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Changes in Air](https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI) | 4:37 |
+| 27 | [Future Sand](https://open.spotify.com/track/4iURuJPltHSQ8DNaKNc2lS) | [Ezra Feinberg](https://open.spotify.com/artist/3TR2eEGzLPwTkCIcMXW01J), [David Lackner](https://open.spotify.com/artist/2tVUa3qDGMQQp0Qr3BgDYS) | [Soft Power](https://open.spotify.com/album/1cUsfDaLr0anAeEds3t1p5) | 5:59 |
 | 28 | [Estrellas II](https://open.spotify.com/track/1QQL5JeQJH0S4gMYthiqLd) | [Oksana Linde](https://open.spotify.com/artist/1uw253RRnz7eeOGwv4upOx) | [Travesías](https://open.spotify.com/album/1MLkED8Yzrbs5wLlUnjSgI) | 2:58 |
-| 29 | [Future Sand](https://open.spotify.com/track/4iURuJPltHSQ8DNaKNc2lS) | [Ezra Feinberg](https://open.spotify.com/artist/3TR2eEGzLPwTkCIcMXW01J), [David Lackner](https://open.spotify.com/artist/2tVUa3qDGMQQp0Qr3BgDYS) | [Soft Power](https://open.spotify.com/album/1cUsfDaLr0anAeEds3t1p5) | 5:59 |
+| 29 | [Boundlessness](https://open.spotify.com/track/11EfRHeiSHBynrX6IKpugx) | [Kara\-Lis Coverdale](https://open.spotify.com/artist/5pHUdo5THDtmE9yu3iC2hA) | [Changes in Air](https://open.spotify.com/album/3UfJSJzmYcUex6Uj5f7DdI) | 4:37 |
 | 30 | [\(We Share the\) Dust Garden](https://open.spotify.com/track/0zVOttPkbmOR8kmT7MCOta) | [Taylor Deupree](https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T) | [Ash](https://open.spotify.com/album/4oyt4GXDxOpPQgeZLhXibx) | 4:05 |
 | 31 | [Forevertime Journeys](https://open.spotify.com/track/5hpZxgvARgsbmQjQaGmYIW) | [naran ratan](https://open.spotify.com/artist/2keywPnpoD1RhMrs2Qrrsj) | [Trees etc.](https://open.spotify.com/album/0Hi7a09Vn6FuPZSsADVfsI) | 1:33 |
 | 32 | [Breathing Deeper](https://open.spotify.com/track/6uK4LUxyKlWf2vKQE1Fv3I) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Finding Calmness](https://open.spotify.com/album/3KJa1BAeH2as7lZL1envIu) | 4:01 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 46 | [Dawn of the Forest](https://open.spotify.com/track/4adA7Fwkg19s4ajU7Nj7Ua) | [Takashi Kokubo](https://open.spotify.com/artist/3d3z3hJtZFWkkoDgnF9WX1) | [Healing Collection: Quiet Comfort](https://open.spotify.com/album/4MFXS23gbKuJnROJ6RfS8b) | 16:04 |
 | 47 | [Beginning, Becoming](https://open.spotify.com/track/3qhG4d1DcIqxxmdqXGBHu9) | [Christopher Stracey](https://open.spotify.com/artist/3OtCzBJs5hFZapz4lY6aWa) | [Music for Growing Plants](https://open.spotify.com/album/3QsGjN0ERhyBi1IxXpNxhM) | 6:04 |
 | 48 | [Wild Marionberries](https://open.spotify.com/track/5LZd5SC4qHF5NJMvw1VrZn) | [Omni Gardens](https://open.spotify.com/artist/1LCXHSFYrRpIN27BkeU4Pc) | [Golden Pear](https://open.spotify.com/album/3QakGzV0tV7NxaapmxmUF1) | 3:19 |
-| 49 | [CHU / 處](https://open.spotify.com/track/3BISxa1qpfWo6lGzN37Dlu) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [之 / OF](https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV) | 2:23 |
-| 50 | [Europe](https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 3:46 |
+| 49 | [Europe](https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 3:46 |
+| 50 | [CHU / 處](https://open.spotify.com/track/3BISxa1qpfWo6lGzN37Dlu) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [之 / OF](https://open.spotify.com/album/5L5vwUgHoR5wiJK2wRZaIV) | 2:23 |
 | 51 | [Tantra Loom](https://open.spotify.com/track/3kv41hhvbb2lM2yNnR7MCw) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Tantra Loom](https://open.spotify.com/album/3MjKf7c5JLNMQIj2XTDOGa) | 3:47 |
 | 52 | [Earth](https://open.spotify.com/track/6UFSJF8pGDYJelHoadqPEe) | [John Ocean](https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL) | [Elements](https://open.spotify.com/album/21ARxTWYYBim8u58eH9NRi) | 3:24 |
 | 53 | [\- \- \-](https://open.spotify.com/track/28SO6fgdGt1Z6OR6QlBK17) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:15 |
@@ -94,10 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 84 | [Bloom: Small World](https://open.spotify.com/track/6lbaoGKwwS0BZsihiJMkA6) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Peter Chilvers](https://open.spotify.com/artist/0auwXR5S4lEwKxpKqSZgbe) | [Bloom: Living World \- Single](https://open.spotify.com/album/5QcW7havC8qGEKfD2nBtJu) | 5:34 |
 | 85 | [Yo Soy \- \(Versión Instrumental\)](https://open.spotify.com/track/6ysjsGCJYUsGSXN6F47jbV) | [Carope](https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs) | [Yo Soy](https://open.spotify.com/album/747s4RXgjofySu3dDtvfdn) | 7:24 |
 | 86 | [eons away](https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 2:32 |
-| 87 | [Bird Language](https://open.spotify.com/track/0rdbZRjXBEbM3fP7IGVYaz) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8) | 3:27 |
-| 88 | [Yip, Yip, Yip](https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 2:03 |
-| 89 | [Régate](https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u) | [Mathieu David Gagnon](https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR), [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [Régate](https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk) | 4:44 |
-| 90 | [Smoke Rings](https://open.spotify.com/track/51Zmeoly6CMVFwqHps8068) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Smoke Rings](https://open.spotify.com/album/0C78B0ZoYWpfbNll4f8Wum) | 8:06 |
+| 87 | [Yip, Yip, Yip](https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 2:03 |
+| 88 | [Bird Language](https://open.spotify.com/track/0rdbZRjXBEbM3fP7IGVYaz) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8) | 3:27 |
+| 89 | [Smoke Rings](https://open.spotify.com/track/51Zmeoly6CMVFwqHps8068) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Smoke Rings](https://open.spotify.com/album/0C78B0ZoYWpfbNll4f8Wum) | 8:06 |
+| 90 | [Régate](https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u) | [Mathieu David Gagnon](https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR), [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [Régate](https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk) | 4:44 |
 | 91 | [Le jardin](https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc) | [Jardin au fou](https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV) | 4:28 |
 | 92 | [Pure](https://open.spotify.com/track/4cFb48uJoAaR0ZogBcUTM5) | [Marc Van Mourik](https://open.spotify.com/artist/7s9gWdUK3IXsvkQP58Es4H) | [Pure](https://open.spotify.com/album/2XQxJLSTxO2YTmDyMl6qyG) | 4:19 |
 | 93 | [A Cat](https://open.spotify.com/track/2hZxWOOsHVGPrN3OsqAvJV) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [A Cat b/w Aran in Repose](https://open.spotify.com/album/5L4hjpNZ0IAMWCylo3YqS5) | 5:37 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclWedfNUp3z.md) - [plain]
 | 96 | [Northern Spirit](https://open.spotify.com/track/723CVJbxvyZCQlGCVQkXCJ) | [Alyas](https://open.spotify.com/artist/0RRYSk01k1iJQbsi83Oh2S) | [Northern Spirit](https://open.spotify.com/album/3z9ysNmG6n81nNSaziusQL) | 4:06 |
 | 97 | [Making Gardens Out of Silence](https://open.spotify.com/track/1WqVCOMjOOWjamob3A2DsK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 8:21 |
 | 98 | [White Wall](https://open.spotify.com/track/1m54vFgkAORsMpRTy55QUN) | [Satoshi & Makoto](https://open.spotify.com/artist/4DoCz7g09pGItevU36MmPr) | [CZ\-5000 Sounds & Sequences](https://open.spotify.com/album/7I6mXMQcL6uyGNFVCspar2) | 3:54 |
-| 99 | [From Kolkata](https://open.spotify.com/track/5FhJJfHzmBKkzoE42skKib) | [Passepartout Duo](https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1) | [From Kolkata](https://open.spotify.com/album/2xuB9TdTcRO2su4c4WKef0) | 3:10 |
-| 100 | [Maracuyá](https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3) | [Hermanito](https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j) | [Maracuyá](https://open.spotify.com/album/782NCRRX6A2vjARVbugrIi) | 3:02 |
+| 99 | [Maracuyá](https://open.spotify.com/track/61y9vPnl8sdCcitbzjZBr3) | [Hermanito](https://open.spotify.com/artist/1ZRcePqdO2znn0SmLEbB7j) | [Maracuyá](https://open.spotify.com/album/782NCRRX6A2vjARVbugrIi) | 3:02 |
+| 100 | [From Kolkata](https://open.spotify.com/track/5FhJJfHzmBKkzoE42skKib) | [Passepartout Duo](https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1) | [From Kolkata](https://open.spotify.com/album/2xuB9TdTcRO2su4c4WKef0) | 3:10 |
 
 Snapshot ID: `AAAAAPAUSKvs8JSAwuX1cIQ3M7CZ9ReB`

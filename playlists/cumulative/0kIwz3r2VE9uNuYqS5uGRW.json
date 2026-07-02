@@ -2627,6 +2627,24 @@
     },
     {
       "album": {
+        "name": "MAJJIK CAT EARS",
+        "url": "https://open.spotify.com/album/0UvSfg6f8TuwkNC3jjU2aN"
+      },
+      "artists": [
+        {
+          "name": "Screaming Lord Byron",
+          "url": "https://open.spotify.com/artist/3o2K8R7odtpShOCa08g5Hk"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332506,
+      "name": "MAJJIK CAT EARS",
+      "url": "https://open.spotify.com/track/0fNuqRQWwAnLMndmWFtjlq"
+    },
+    {
+      "album": {
         "name": "Me Confundes",
         "url": "https://open.spotify.com/album/512JlbUPseSvuO0ZiKj9GR"
       },

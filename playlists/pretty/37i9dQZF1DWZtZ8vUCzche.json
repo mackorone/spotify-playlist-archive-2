@@ -1,6 +1,6 @@
 {
   "description": "Put your speakers to the test with this eclectic collection of legendary tracks.",
-  "num_followers": 1574899,
+  "num_followers": 1575143,
   "original_name": "Songs to Test Speakers With",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "Fleetwood Mac",
-        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 252773,
-      "name": "Rhiannon",
-      "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "Can't Buy A Thrill",
         "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 357041,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 252773,
+      "name": "Rhiannon",
+      "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "Mr. Lucky Goes Latin",
-        "url": "https://open.spotify.com/album/5m8ncEaAhq76pfuJzGOO2h"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 158360,
-      "name": "Lujon",
-      "url": "https://open.spotify.com/track/37N37WJQvXqplFdCwkNgX3"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "To Bring You My Love",
         "url": "https://open.spotify.com/album/2yMg8ronKfVDHngnlLNnl8"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 194506,
       "name": "Down By The Water",
       "url": "https://open.spotify.com/track/48mJX8glOrQkrSdVBjc0Wb"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "Mr. Lucky Goes Latin",
+        "url": "https://open.spotify.com/album/5m8ncEaAhq76pfuJzGOO2h"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 158360,
+      "name": "Lujon",
+      "url": "https://open.spotify.com/track/37N37WJQvXqplFdCwkNgX3"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "March 16-20, 1992",
-        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
-      },
-      "artists": [
-        {
-          "name": "Uncle Tupelo",
-          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
-        }
-      ],
-      "duration_ms": 223640,
-      "name": "Sandusky",
-      "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "The Road To Hell Is Paved With Good Intentions",
         "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 174579,
       "name": "Turn Me Inside",
       "url": "https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "March 16-20, 1992",
+        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
+      },
+      "artists": [
+        {
+          "name": "Uncle Tupelo",
+          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
+        }
+      ],
+      "duration_ms": 223640,
+      "name": "Sandusky",
+      "url": "https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
+        "name": "Silk Degrees",
+        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
+      },
+      "artists": [
+        {
+          "name": "Boz Scaggs",
+          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+        }
+      ],
+      "duration_ms": 315640,
+      "name": "Lowdown",
+      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
         "name": "The Universe Smiles Upon You",
         "url": "https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3"
       },
@@ -2155,18 +2171,18 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "Silk Degrees",
-        "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/2Upqk0mMh9OMIVSj9F8Xzw"
       },
       "artists": [
         {
-          "name": "Boz Scaggs",
-          "url": "https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh"
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
         }
       ],
-      "duration_ms": 315640,
-      "name": "Lowdown",
-      "url": "https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT"
+      "duration_ms": 257737,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/7DqTaelFf846rl1CHmyfOW"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -2203,22 +2219,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/2Upqk0mMh9OMIVSj9F8Xzw"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "duration_ms": 257737,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/7DqTaelFf846rl1CHmyfOW"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "Abattoir Blues / The Lyre of Orpheus",
         "url": "https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM"
       },
@@ -2251,22 +2251,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "Black Cherry",
-        "url": "https://open.spotify.com/album/65BnZsIXnhBeBReAHAaF6V"
-      },
-      "artists": [
-        {
-          "name": "Goldfrapp",
-          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
-        }
-      ],
-      "duration_ms": 231453,
-      "name": "Strict Machine",
-      "url": "https://open.spotify.com/track/5kNbpvJ5b6R9Zqfm6c9sIX"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "Sailing To Philadelphia",
         "url": "https://open.spotify.com/album/7oIBSEe5L89s2UXK0I8tYg"
       },
@@ -2279,6 +2263,22 @@
       "duration_ms": 381040,
       "name": "Speedway At Nazareth",
       "url": "https://open.spotify.com/track/59w9KJpA4DKvTyuxmTGIIP"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "Black Cherry",
+        "url": "https://open.spotify.com/album/65BnZsIXnhBeBReAHAaF6V"
+      },
+      "artists": [
+        {
+          "name": "Goldfrapp",
+          "url": "https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS"
+        }
+      ],
+      "duration_ms": 231453,
+      "name": "Strict Machine",
+      "url": "https://open.spotify.com/track/5kNbpvJ5b6R9Zqfm6c9sIX"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -2311,6 +2311,22 @@
       "duration_ms": 256120,
       "name": "Into My Arms - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "Brothers In Arms (Remastered)",
+        "url": "https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 308800,
+      "name": "So Far Away - Full Version",
+      "url": "https://open.spotify.com/track/0h8pmQEibj5GUdMoaqrJnF"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -2363,38 +2379,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "Brothers In Arms (Remastered)",
-        "url": "https://open.spotify.com/album/1NF8WUbdC632SIwixiWrLh"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 308800,
-      "name": "So Far Away - Full Version",
-      "url": "https://open.spotify.com/track/0h8pmQEibj5GUdMoaqrJnF"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
-        "name": "Aja",
-        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 480466,
-      "name": "Aja",
-      "url": "https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "Texas Sun",
         "url": "https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 252811,
       "name": "Texas Sun",
       "url": "https://open.spotify.com/track/6Flu33CZc4xS2gkA6cRcNh"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "Aja",
+        "url": "https://open.spotify.com/album/5Zxv8bCtxjz11jjypNdkEa"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 480466,
+      "name": "Aja",
+      "url": "https://open.spotify.com/track/0w0Zs8pu4wx9iErRMEG96L"
     },
     {
       "added_at": "2026-05-15 12:32:26",
@@ -2447,6 +2447,22 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
+        "name": "The Dark Side Of The Moon (2011 Remastered Version)",
+        "url": "https://open.spotify.com/album/6uGYCZLXw3wPFOSYcqLz9F"
+      },
+      "artists": [
+        {
+          "name": "Pink Floyd",
+          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        }
+      ],
+      "duration_ms": 413947,
+      "name": "Time - 2011 Remastered Version",
+      "url": "https://open.spotify.com/track/23W5DHu31ZLW9q0p2wQxfN"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
         "name": "Since I Left You",
         "url": "https://open.spotify.com/album/7j4m8OUy87xQsuIVJQxF3J"
       },
@@ -2479,38 +2495,6 @@
     {
       "added_at": "2026-05-15 12:32:26",
       "album": {
-        "name": "Third",
-        "url": "https://open.spotify.com/album/18JyZd2XLdT2rmekw6EwoS"
-      },
-      "artists": [
-        {
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "duration_ms": 270960,
-      "name": "The Rip",
-      "url": "https://open.spotify.com/track/4kOy7M6eT5kYJCZxh0c6Lh"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
-        "name": "The Dark Side Of The Moon (2011 Remastered Version)",
-        "url": "https://open.spotify.com/album/6uGYCZLXw3wPFOSYcqLz9F"
-      },
-      "artists": [
-        {
-          "name": "Pink Floyd",
-          "url": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
-        }
-      ],
-      "duration_ms": 413947,
-      "name": "Time - 2011 Remastered Version",
-      "url": "https://open.spotify.com/track/23W5DHu31ZLW9q0p2wQxfN"
-    },
-    {
-      "added_at": "2026-05-15 12:32:26",
-      "album": {
         "name": "Post",
         "url": "https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7"
       },
@@ -2523,6 +2507,22 @@
       "duration_ms": 321533,
       "name": "Hyper-ballad",
       "url": "https://open.spotify.com/track/3jIzAeh7fhe70umAJrY3Fk"
+    },
+    {
+      "added_at": "2026-05-15 12:32:26",
+      "album": {
+        "name": "Third",
+        "url": "https://open.spotify.com/album/18JyZd2XLdT2rmekw6EwoS"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "duration_ms": 270960,
+      "name": "The Rip",
+      "url": "https://open.spotify.com/track/4kOy7M6eT5kYJCZxh0c6Lh"
     },
     {
       "added_at": "2026-05-15 12:32:26",

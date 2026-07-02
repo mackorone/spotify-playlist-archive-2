@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 280,
+  "num_followers": 281,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJAd53LM6V54FNf+TrSuWhPdtqG+GM",
+  "snapshot_id": "AAAJBR3FopArTap44OgjQxuNinqmaimn",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -74243,6 +74243,82 @@
       "duration_ms": 193820,
       "name": "Coming Alive",
       "url": "https://open.spotify.com/track/1BlAD4WwEs6zNx2fkhp2O6"
+    },
+    {
+      "added_at": "2026-07-01 08:05:09",
+      "album": {
+        "name": "KosmoX",
+        "url": "https://open.spotify.com/album/4B6Ni6w8HDcSY1PGuxSQXw"
+      },
+      "artists": [
+        {
+          "name": "Ba\u00efki",
+          "url": "https://open.spotify.com/artist/6DlGStNJwKhJuqs0TXiDHB"
+        }
+      ],
+      "duration_ms": 209728,
+      "name": "KosmoX",
+      "url": "https://open.spotify.com/track/2aAvcHW1JVydWSFmhjjyK7"
+    },
+    {
+      "added_at": "2026-07-01 08:15:08",
+      "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Chesh",
+          "url": "https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3"
+        }
+      ],
+      "duration_ms": 201804,
+      "name": "Want",
+      "url": "https://open.spotify.com/track/6HPqzgtJtCVTyxfadXusPZ"
+    },
+    {
+      "added_at": "2026-07-01 08:18:18",
+      "album": {
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/55OwZJvPyn1iWF5UWQlRQW"
+      },
+      "artists": [
+        {
+          "name": "Mc Kno",
+          "url": "https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk"
+        },
+        {
+          "name": "beats weedbrela",
+          "url": "https://open.spotify.com/artist/7GZaDg6n6mAl9otSuuhUOX"
+        },
+        {
+          "name": "Freeman Rap",
+          "url": "https://open.spotify.com/artist/5NlFf7NZfSwNZL9UOKtqR0"
+        },
+        {
+          "name": "EL MOCHO ELC",
+          "url": "https://open.spotify.com/artist/4N2t6ALevyPCB1ZwvbYTFM"
+        }
+      ],
+      "duration_ms": 210257,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/6WsVGrldsAKOhXU53kd808"
+    },
+    {
+      "added_at": "2026-07-01 22:30:08",
+      "album": {
+        "name": "In a Room",
+        "url": "https://open.spotify.com/album/0hrL4GILIgeWKuFlmgY9me"
+      },
+      "artists": [
+        {
+          "name": "Tilt 360",
+          "url": "https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "In a Room",
+      "url": "https://open.spotify.com/track/3qYp9cawHGwLqJdpnayztC"
     }
   ],
   "unique_name": "playlist spotify free",

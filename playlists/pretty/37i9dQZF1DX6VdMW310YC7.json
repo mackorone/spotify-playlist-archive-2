@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3904303,
+  "num_followers": 3904132,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
+        "name": "Cruise",
+        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+        }
+      ],
+      "duration_ms": 175708,
+      "name": "Cruise",
+      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
         "name": "Childish",
         "url": "https://open.spotify.com/album/2tj4SjIgpp92mAT2wtiDoZ"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 254516,
       "name": "You",
       "url": "https://open.spotify.com/track/1KCMF9fdF7sNE74R2V46af"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "Cruise",
-        "url": "https://open.spotify.com/album/2SalYuSmYNeLhZ4Eu70v7U"
-      },
-      "artists": [
-        {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
-        }
-      ],
-      "duration_ms": 175708,
-      "name": "Cruise",
-      "url": "https://open.spotify.com/track/6wmR2TU2ke8vQP5Hv8TsVq"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "Stay Alive",
-        "url": "https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 233978,
-      "name": "Stay Alive",
-      "url": "https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
         "name": "Alone",
         "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 204039,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
+        "name": "Stay Alive",
+        "url": "https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 233978,
+      "name": "Stay Alive",
+      "url": "https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -847,6 +847,30 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/7b2xbeiyfj5UsT4G06ac8G"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Lilly",
+          "url": "https://open.spotify.com/artist/4d6vYcZhMIvOLuCHA7Y6Wb"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/1wF9Iw4lkksoUg55kCsiPm"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
         "name": "BLINK",
         "url": "https://open.spotify.com/album/208DpMdWSWLhr1J0vvvkPF"
       },
@@ -919,30 +943,6 @@
       "duration_ms": 231024,
       "name": "Change of Driver",
       "url": "https://open.spotify.com/track/61J1SikiocG2bFnyQDWM9x"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/7b2xbeiyfj5UsT4G06ac8G"
-      },
-      "artists": [
-        {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
-        },
-        {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Lilly",
-          "url": "https://open.spotify.com/artist/4d6vYcZhMIvOLuCHA7Y6Wb"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/1wF9Iw4lkksoUg55kCsiPm"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "Flow Free",
-        "url": "https://open.spotify.com/album/1lSb4HADfBQ422Z89G0Ovg"
-      },
-      "artists": [
-        {
-          "name": "Panama",
-          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
-        },
-        {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
-        }
-      ],
-      "duration_ms": 239523,
-      "name": "Flow Free",
-      "url": "https://open.spotify.com/track/1AK271I7M3ZQmSulRg5EQ4"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
         "name": "sicklysweet (Tobiahs Remix)",
         "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 137888,
       "name": "sicklysweet - Tobiahs Remix",
       "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
+        "name": "Flow Free",
+        "url": "https://open.spotify.com/album/1lSb4HADfBQ422Z89G0Ovg"
+      },
+      "artists": [
+        {
+          "name": "Panama",
+          "url": "https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI"
+        },
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 239523,
+      "name": "Flow Free",
+      "url": "https://open.spotify.com/track/1AK271I7M3ZQmSulRg5EQ4"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "AMi Vol. 1",
-        "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        },
-        {
-          "name": "Miette Hope",
-          "url": "https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Outline",
-      "url": "https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
         "name": "Something Right",
         "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 175040,
       "name": "Something Right",
       "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
+        "name": "AMi Vol. 1",
+        "url": "https://open.spotify.com/album/4yZVkEpL1rV8n4KmSINpYb"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        },
+        {
+          "name": "Miette Hope",
+          "url": "https://open.spotify.com/artist/4K61UysqQc1VRj8VsY76Qw"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Outline",
+      "url": "https://open.spotify.com/track/2Eb6bBgGcVm83xjI2IaTlr"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "Maitri",
-        "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
-      },
-      "artists": [
-        {
-          "name": "Godblesscomputers",
-          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Maitri",
-      "url": "https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 212000,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
+        "name": "Maitri",
+        "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Maitri",
+      "url": "https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1411,6 +1411,30 @@
       "duration_ms": 153875,
       "name": "Out Of Ten - Shingo Nakamura & before saudade Remix",
       "url": "https://open.spotify.com/track/6EU7osUcQJSBc5dHiNTlPj"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
+        "name": "I Cared For You",
+        "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        },
+        {
+          "name": "Noah Kulaga",
+          "url": "https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj"
+        }
+      ],
+      "duration_ms": 270476,
+      "name": "I Cared For You",
+      "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1487,6 +1511,26 @@
       "duration_ms": 208937,
       "name": "Light up my dark",
       "url": "https://open.spotify.com/track/7rjw941RoxmJD9v4nuPUQW"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/7vavYaLLnp7BSEVt66XBGl"
+      },
+      "artists": [
+        {
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/7wE3go8w9wqqvWpN5aDpXR"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1595,8 +1639,8 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "edges",
-        "url": "https://open.spotify.com/album/5DsdSbCVFUJdT5I61zZB4g"
+        "name": "the art of letting go",
+        "url": "https://open.spotify.com/album/5WCpvkfEHDsZ1dF63DwLcG"
       },
       "artists": [
         {
@@ -1604,37 +1648,17 @@
           "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
         },
         {
-          "name": "FARLEY",
-          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "edges",
-      "url": "https://open.spotify.com/track/3Y0GPlTTGhUvkX9gLbeB3F"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "I Cared For You",
-        "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+          "name": "Hessian",
+          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
         },
         {
-          "name": "Mont Rouge",
-          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
-        },
-        {
-          "name": "Noah Kulaga",
-          "url": "https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj"
+          "name": "LeyeT",
+          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
         }
       ],
-      "duration_ms": 270476,
-      "name": "I Cared For You",
-      "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
+      "duration_ms": 274000,
+      "name": "the art of letting go",
+      "url": "https://open.spotify.com/track/30qrn4P5XelUYPsDWSa6yB"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1671,46 +1695,22 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/7vavYaLLnp7BSEVt66XBGl"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/59lU1VSU9h5dLOXnOQX9zJ"
       },
       "artists": [
         {
-          "name": "Ashibah",
-          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
         },
         {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
         }
       ],
-      "duration_ms": 203000,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/7wE3go8w9wqqvWpN5aDpXR"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "the art of letting go",
-        "url": "https://open.spotify.com/album/5WCpvkfEHDsZ1dF63DwLcG"
-      },
-      "artists": [
-        {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        },
-        {
-          "name": "Hessian",
-          "url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs"
-        },
-        {
-          "name": "LeyeT",
-          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "the art of letting go",
-      "url": "https://open.spotify.com/track/30qrn4P5XelUYPsDWSa6yB"
+      "duration_ms": 361080,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1731,22 +1731,22 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/59lU1VSU9h5dLOXnOQX9zJ"
+        "name": "edges",
+        "url": "https://open.spotify.com/album/5DsdSbCVFUJdT5I61zZB4g"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
         },
         {
-          "name": "The Kite String Tangle",
-          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
         }
       ],
-      "duration_ms": 361080,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/02PEQC6LVga28eL5xLJiaI"
+      "duration_ms": 222857,
+      "name": "edges",
+      "url": "https://open.spotify.com/track/3Y0GPlTTGhUvkX9gLbeB3F"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1875,6 +1875,26 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
+        "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        },
+        {
+          "name": "Benji Lewis",
+          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
+        }
+      ],
+      "duration_ms": 188454,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
         "name": "HARMONY",
         "url": "https://open.spotify.com/album/1A9nBNZ1kAiRCLPJc9Vtb4"
       },
@@ -1895,26 +1915,6 @@
       "duration_ms": 303542,
       "name": "RnR (UN Chamber Music Society arrangement) - Remix",
       "url": "https://open.spotify.com/track/0rkKla01DvtHeJSdSbqqjP"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "Fall Apart",
-        "url": "https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2"
-      },
-      "artists": [
-        {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
-        },
-        {
-          "name": "Benji Lewis",
-          "url": "https://open.spotify.com/artist/1BPsbKiNgav1TY1ITIU8C5"
-        }
-      ],
-      "duration_ms": 188454,
-      "name": "Fall Apart",
-      "url": "https://open.spotify.com/track/1A0yCVsRU1fqI2azbaoGSV"
     },
     {
       "added_at": "2026-06-26 04:01:21",

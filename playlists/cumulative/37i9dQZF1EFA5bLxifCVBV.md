@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3zfnzDqNkjEZUNLWFpMiBs">E.Y\. "Yip" Harburg</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-300 songs - 15 hr 31 min
+301 songs - 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Finale](https://open.spotify.com/track/1tqGNIaQap3tEM7UXWk18v) | [National Symphony Orchestra](https://open.spotify.com/artist/58n1bNWH1HPQmx5R9uJ7Gi) | [Calamity Jane](https://open.spotify.com/album/1LDcwXCTNBYc9hfv7uVRHX) | 4:58 | 2025-02-26 | 2025-03-01 |
 | [Finale](https://open.spotify.com/track/3HqZLtVPKECOi3VB4z8ppn) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu), [Shirley Jones](https://open.spotify.com/artist/7722txNx6G1Q5u0kS7WaZn) | [April Love \(Music From The Soundtrack Of The 20th Century\-Fox Cinemascope Picture\)](https://open.spotify.com/album/0cc67yCaCF2D3Rc29Toqih) | 1:23 | 2025-09-10 |  |
 | [Finale](https://open.spotify.com/track/4CaOipzBZZzxRf8UY5tsMn) | [Zanna Don't! Ensemble](https://open.spotify.com/artist/0TPM1lF53DEdI5bFC8JUVu) | [Zanna, Don't!: A Musical Fairy Tale](https://open.spotify.com/album/2dBuG3ogsRCpCkGbupoNQ2) | 1:47 | 2024-07-24 | 2025-06-28 |
-| [Finian's Rainbow](https://open.spotify.com/track/1mtDTd4bP1R9h3wTW9XOK8) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA), [Burton Lane](https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA), [Richard Hayman](https://open.spotify.com/artist/68tBK9r9zdViB8V73G5SA9), [Richard Hayman Symphony Orchestra](https://open.spotify.com/artist/2SDs98YfrEGBbh5PK98HvL) | [Vintage Broadway](https://open.spotify.com/album/72WwoUjAwgsLbpqIgu0sGw) | 8:25 | 2025-07-09 |  |
+| [Finian's Rainbow](https://open.spotify.com/track/1mtDTd4bP1R9h3wTW9XOK8) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA), [Burton Lane](https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA), [Richard Hayman](https://open.spotify.com/artist/68tBK9r9zdViB8V73G5SA9), [Richard Hayman Symphony Orchestra](https://open.spotify.com/artist/2SDs98YfrEGBbh5PK98HvL) | [Vintage Broadway](https://open.spotify.com/album/72WwoUjAwgsLbpqIgu0sGw) | 8:25 | 2025-07-09 | 2026-07-02 |
+| [Finian's Rainbow \(Arr\. R\. Hayman\)](https://open.spotify.com/track/1jqW6Sis8KmBf4aJ9AMX9B) | [Yip Harburg](https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA), [Burton Lane](https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA), [Richard Hayman Symphony Orchestra](https://open.spotify.com/artist/2SDs98YfrEGBbh5PK98HvL), [Richard Hayman](https://open.spotify.com/artist/68tBK9r9zdViB8V73G5SA9) | [Vintage Broadway](https://open.spotify.com/album/5bwDDKj5hsZwQTdmBIaP8d) | 8:25 | 2026-07-01 |  |
 | [Five Minutes of Spring](https://open.spotify.com/track/5z5SPHiG3Nbt7HlrFGXQJj) | [Bruce Yarnell](https://open.spotify.com/artist/71f1m1S8hZ0J0ofpB050Vi) | [The Happiest Girl in the World \(Original Broadway Cast Recording\)](https://open.spotify.com/album/68dIWqtunt3hlYtKDFUY2C) | 1:43 | 2024-07-24 |  |
 | [Flahooley](https://open.spotify.com/track/6EBbGJgMeDJCp5IBgCa3gB) | [Barbara Cook, Jerome Courtland & Yma Sumac & Broadway Cast](https://open.spotify.com/artist/0SSeoc7mZh16wcxih5rrPs) | [Flahooley \(original Broadway Cast Recording\)](https://open.spotify.com/album/3OkX15M34efYiCrfkZWQkW) | 1:10 | 2024-07-24 |  |
 | [Foolish Baby](https://open.spotify.com/track/3y5jzyy40ev08n9Kkn45hM) | [Linda Kosut](https://open.spotify.com/artist/2j5zebFol9mkkaXvpZutaU) | [Easy Come, Easy Go](https://open.spotify.com/album/0jr1afpuTiRR1RazK1DusV) | 3:37 | 2024-07-24 |  |

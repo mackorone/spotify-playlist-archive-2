@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,672 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,680 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 46 | [Trip to Italia](https://open.spotify.com/track/37YjbaFWtcE0Iw3ngEffg9) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi) | [Trip to Italia](https://open.spotify.com/album/7gK850y20cW0cjdU2ERi8V) | 3:34 |
 | 47 | [The Underground Network \(Official REBELLiON Indoor 2025 Anthem\) \- Satirized & Noxiouz Remix](https://open.spotify.com/track/1bDKr0yjvQIhEQFoIQEArK) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp), [Satirized](https://open.spotify.com/artist/6dVybI9eELKRKF3VilNGzh), [Noxiouz](https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38) | [The Underground Network \(Official REBELLiON Indoor 2025 Anthem\) \(Satirized & Noxiouz Remix\)](https://open.spotify.com/album/50oryOD4ObVOPc3xqpusC5) | 3:10 |
 | 48 | [Remember The Name](https://open.spotify.com/track/6VbpjwzMyOSdf4b8MTPZYh) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E), [MC Robs](https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8) | [Remember The Name](https://open.spotify.com/album/7wjVS00832Rx34rKHPUqqv) | 2:09 |
-| 49 | [Heavy Kickdrum](https://open.spotify.com/track/5FCQP1z9oNKDo0yjlZypWk) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Ricardo Moreno](https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt), [Boogshe](https://open.spotify.com/artist/0XugtaijoMOUdu6eVWPtX3) | [Heavy Kickdrum](https://open.spotify.com/album/2md9H6p9vC9hJpkoi0RORN) | 3:39 |
-| 50 | [Lead By Example \(Official Dominator 2025 Anthem\)](https://open.spotify.com/track/037LhIv2yUudP1jzxB8kSD) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO), [Tha Playah](https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU), [Outblast](https://open.spotify.com/artist/7izfdXPLe9PjsIN0A0k2pE), [The Supreme Team](https://open.spotify.com/artist/3lojVS6Lt1JUvkHSwFXauZ) | [Lead By Example \(Official Dominator 2025 Anthem\)](https://open.spotify.com/album/3UE8VxwYfYVFuGTKZRJkX0) | 4:58 |
+| 49 | [Lead By Example \(Official Dominator 2025 Anthem\)](https://open.spotify.com/track/037LhIv2yUudP1jzxB8kSD) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Evil Activities](https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO), [Tha Playah](https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU), [Outblast](https://open.spotify.com/artist/7izfdXPLe9PjsIN0A0k2pE), [The Supreme Team](https://open.spotify.com/artist/3lojVS6Lt1JUvkHSwFXauZ) | [Lead By Example \(Official Dominator 2025 Anthem\)](https://open.spotify.com/album/3UE8VxwYfYVFuGTKZRJkX0) | 4:58 |
+| 50 | [Heavy Kickdrum](https://open.spotify.com/track/5FCQP1z9oNKDo0yjlZypWk) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Ricardo Moreno](https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt), [Boogshe](https://open.spotify.com/artist/0XugtaijoMOUdu6eVWPtX3) | [Heavy Kickdrum](https://open.spotify.com/album/2md9H6p9vC9hJpkoi0RORN) | 3:39 |
 
 Snapshot ID: `AAAAAJ0SXGZ6L8UgBXVVruOgnIdYP/9p`

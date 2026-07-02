@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Thalin
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,887 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,856 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PA SAI](https://open.spotify.com/track/5copeG4du96IvYpFxAbH3h) | [Thalin](https://open.spotify.com/artist/5dTZiJpPZA6dvt0KWhi5Yd), [Shirts](https://open.spotify.com/artist/7rGMt1pIA4R7hIGvhnKZnL), [kozmo8k](https://open.spotify.com/artist/67HzYpNj9y6NHgJ130m5Ma), [Bruno Kroz](https://open.spotify.com/artist/7LczxvGNBpgewPG6qMSr7K) | [PA SAI](https://open.spotify.com/album/1xSWbETHemawo2kvoINtAB) | 3:03 |
+| 1 | [PA SAI](https://open.spotify.com/track/5copeG4du96IvYpFxAbH3h) | [Thalin](https://open.spotify.com/artist/5dTZiJpPZA6dvt0KWhi5Yd), [Shirts](https://open.spotify.com/artist/7rGMt1pIA4R7hIGvhnKZnL), [kozmo8k](https://open.spotify.com/artist/4rgFRkDavgQ43uNLZ4BaqO), [Bruno Kroz](https://open.spotify.com/artist/7LczxvGNBpgewPG6qMSr7K) | [PA SAI](https://open.spotify.com/album/1xSWbETHemawo2kvoINtAB) | 3:03 |
 | 2 | [Foca em mim \- Spotify Singles](https://open.spotify.com/track/3H6MZFtzwidLB7bKKaDZe7) | [Ciça](https://open.spotify.com/artist/0lUYB8xnN8wbO41njBbep4), [Bruce Slim Beats](https://open.spotify.com/artist/51SpeGvzKVZIxsQ13K37CD) | [Foca em mim \- Spotify Singles](https://open.spotify.com/album/4Use2gMU5KB1uVS2Ejl6XN) | 2:11 |
 | 3 | [Endrick](https://open.spotify.com/track/0eAtkdf7FgMbBRmfvDDvwY) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII) | [Endrick](https://open.spotify.com/album/1wVrK0oeBormPS5ZHmzavK) | 2:20 |
 | 4 | [Farinha](https://open.spotify.com/track/6Os5LOvqZfp0FUVPfJ02YZ) | [Oreia](https://open.spotify.com/artist/0473TlzNowswPtN7v5U4Pb), [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Faew](https://open.spotify.com/artist/2wc2o0xe5pjBkzgMMt3Py9) | [Farinha](https://open.spotify.com/album/6pri2IEmcFEtpXVYfNkK3J) | 2:12 |

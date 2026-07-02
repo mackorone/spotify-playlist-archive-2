@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Leto au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,612,690 likes - 40 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,612,684 likes - 39 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 36 | [EXPLICIT 69](https://open.spotify.com/track/5j1XxBRRoYYdL4l85Xj5WP) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [REQUIEM : MIEUX QU'HIER](https://open.spotify.com/album/7qWj5GRoz5L7e1YIb0QCmz) | 2:33 |
 | 37 | [FEU VERT](https://open.spotify.com/track/255GrZR8cTANfuF0bghnOv) | [Iss](https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd), [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC) | [FEU VERT](https://open.spotify.com/album/36Dawe6S16jFv0DQQtS4X6) | 3:22 |
 | 38 | [PELELE](https://open.spotify.com/track/2fgkY8Ffg7aGooiYwz0OpQ) | [WIXO & LA2S](https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN) | [PELELE](https://open.spotify.com/album/3uo4C6Q0yQVQZwfNglnT5C) | 2:07 |
-| 39 | [22](https://open.spotify.com/track/0XT26JAQgLYOwcrwvpbY69) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [22](https://open.spotify.com/album/0gxlIJihKIchpuZSFF4Dkm) | 2:23 |
-| 40 | [La Chèvre](https://open.spotify.com/track/0PC4NdVKfQoz0yDTJA9v1E) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [La Chèvre](https://open.spotify.com/album/5KyLgb9KSKFeOxjTjvwb1I) | 2:40 |
+| 39 | [La Chèvre](https://open.spotify.com/track/0PC4NdVKfQoz0yDTJA9v1E) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [La Chèvre](https://open.spotify.com/album/5KyLgb9KSKFeOxjTjvwb1I) | 2:40 |
 
-Snapshot ID: `AAAAADX8fk1UzkncOHv+FEnNeOi1IJc1`
+Snapshot ID: `AAAAAJ9waDrvp25OYaLwEJTx4YEDmQqc`

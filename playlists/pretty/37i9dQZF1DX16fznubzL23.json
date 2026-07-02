@@ -1,6 +1,6 @@
 {
   "description": "e don cast",
-  "num_followers": 45447,
+  "num_followers": 45468,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-06-19 00:01:50",
       "album": {
+        "name": "Not An Angel",
+        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 185639,
+      "name": "Not An Angel",
+      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
+    },
+    {
+      "added_at": "2026-06-19 00:01:50",
+      "album": {
         "name": "LOL",
         "url": "https://open.spotify.com/album/7KqiS61BAqMuVru4FSG5X3"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 166442,
       "name": "LOL",
       "url": "https://open.spotify.com/track/0SIYATXVKxxgu5zYTQhAma"
-    },
-    {
-      "added_at": "2026-06-19 00:01:50",
-      "album": {
-        "name": "Not An Angel",
-        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 185639,
-      "name": "Not An Angel",
-      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
     },
     {
       "added_at": "2026-06-19 00:01:50",
@@ -479,26 +479,6 @@
     {
       "added_at": "2026-06-19 00:01:50",
       "album": {
-        "name": "Gentility",
-        "url": "https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg"
-      },
-      "artists": [
-        {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 225729,
-      "name": "Gentility",
-      "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
-    },
-    {
-      "added_at": "2026-06-19 00:01:50",
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 220606,
       "name": "Luv Again",
       "url": "https://open.spotify.com/track/0BlBcMUDVI68fwwNGulSGM"
+    },
+    {
+      "added_at": "2026-06-19 00:01:50",
+      "album": {
+        "name": "Gentility",
+        "url": "https://open.spotify.com/album/6v8LdWReU2z42hUXe7VdMg"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 225729,
+      "name": "Gentility",
+      "url": "https://open.spotify.com/track/3vXFxsPqMgw4SYP7fkWicM"
     },
     {
       "added_at": "2026-06-19 00:01:50",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-06-19 00:01:50",
       "album": {
+        "name": "BITTERSWEET",
+        "url": "https://open.spotify.com/album/0qdBkeGB93wyaVMSkDNZqT"
+      },
+      "artists": [
+        {
+          "name": "Mckay",
+          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "HOPE YOU HAPPY",
+      "url": "https://open.spotify.com/track/1tNcAolwSKvTrTpRSpSJBs"
+    },
+    {
+      "added_at": "2026-06-19 00:01:50",
+      "album": {
         "name": "Protect Sarz At All Costs",
         "url": "https://open.spotify.com/album/5h3RPX0SZMPQGz6Mwbly0h"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 166799,
       "name": "Loved Me Then \u200b(f\u200beat\u200b. Lojay\u200b)",
       "url": "https://open.spotify.com/track/2n9NiEPGijWRuPkW6it5Dy"
-    },
-    {
-      "added_at": "2026-06-19 00:01:50",
-      "album": {
-        "name": "BITTERSWEET",
-        "url": "https://open.spotify.com/album/0qdBkeGB93wyaVMSkDNZqT"
-      },
-      "artists": [
-        {
-          "name": "Mckay",
-          "url": "https://open.spotify.com/artist/25HwdWPhsQyAgTcOy4IW71"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "HOPE YOU HAPPY",
-      "url": "https://open.spotify.com/track/1tNcAolwSKvTrTpRSpSJBs"
     },
     {
       "added_at": "2026-06-19 00:01:50",

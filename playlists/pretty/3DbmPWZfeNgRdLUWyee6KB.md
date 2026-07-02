@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 215 songs - 12 hr 8 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,313 likes - 219 songs - 12 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,5 +223,9 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 213 | [Piece it All Together](https://open.spotify.com/track/57bUSMKc2qXs5YaSAr3v5B) | [sye](https://open.spotify.com/artist/5dEiL3I7NaBoztJwTW57Eu), [hostile](https://open.spotify.com/artist/6L2LCvRvTnMqleBeyQjNWW) | [Piece it All Together](https://open.spotify.com/album/5yKiMqbs4V121dElzcyTEZ) | 3:36 |
 | 214 | [Un Gringo Tonto \- Aceleró](https://open.spotify.com/track/0JeEMvyeweVd1BCECBYXKS) | [4est Fleur](https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK) | [Speedy Boy](https://open.spotify.com/album/5Qa1vozoeYtdDbiXYzfEPo) | 2:08 |
 | 215 | [Contromano](https://open.spotify.com/track/4aWtfu4zFHETjfGmDWHwCY) | [Daniele Foschia](https://open.spotify.com/artist/7p5aD6fiPyqk1EJcdrsJGJ) | [Una pellicola di realtà](https://open.spotify.com/album/10Ji1hqmYDzlsCMSuVf2VB) | 3:17 |
+| 216 | [Wanderer](https://open.spotify.com/track/1sYRAVrtrjfcIcjyLfK9FM) | [Kaspar Bakken](https://open.spotify.com/artist/73aB9IUwHBom7J4GdONOky), [Bjun](https://open.spotify.com/artist/0iR66PzQEU9JFsnGycCwze) | [Wanderer](https://open.spotify.com/album/6aUjkpLUrywakIVkMtVnDI) | 2:48 |
+| 217 | [\(Only Takes a\) Moment](https://open.spotify.com/track/7tNhfp7TxXc3ZPBCOBqgyV) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [\(Only Takes a\) Moment](https://open.spotify.com/album/08nJd5fnuBNRb6arPl1hNp) | 3:02 |
+| 218 | [Spartan Soldiers](https://open.spotify.com/track/29gzlRo5BoYhsgyokkwPzO) | [Motom Beats](https://open.spotify.com/artist/40x1m6mMmfEvUO4k1RwkaS), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Spartan Soldiers](https://open.spotify.com/album/6ZyNsWM2lBZEXY4Hv4FaSw) | 2:09 |
+| 219 | [Sin querer](https://open.spotify.com/track/6wTHbr28E3mBHPfJAFyspN) | [Verónica Vega](https://open.spotify.com/artist/1tl3Gwogd5OYeFjd9y11jZ) | [Sin querer](https://open.spotify.com/album/1FMeRgTzpdlhuWam74EjLN) | 3:33 |
 
-Snapshot ID: `AAAVWe6DGuKKTKUgWxpWq7uvNo+1ZLfT`
+Snapshot ID: `AAAVXV8GT9khn0SVE2ek5646UwDvex4n`

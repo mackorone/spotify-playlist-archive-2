@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Samahita Narang",
+  "description": "Discover the future of Punjabi Pop! Cover: Shubh",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -386,6 +386,28 @@
       "duration_ms": 155000,
       "name": "About you",
       "url": "https://open.spotify.com/track/3G6F2P2IV5Yw6OA2Ze1e75"
+    },
+    {
+      "album": {
+        "name": "Adah",
+        "url": "https://open.spotify.com/album/67wmoSzxpCPyJm2i3VCfoI"
+      },
+      "artists": [
+        {
+          "name": "Channa Ghuman",
+          "url": "https://open.spotify.com/artist/7lFKOUokk8aL5qHxjNaJCt"
+        },
+        {
+          "name": "Jantt Pannu",
+          "url": "https://open.spotify.com/artist/1pt2gaonreRQc5YUd0Txhg"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "Adah",
+      "url": "https://open.spotify.com/track/6cl8D61sAvoU2p5vOWhOoL"
     },
     {
       "album": {
@@ -804,6 +826,28 @@
       "duration_ms": 134049,
       "name": "Aura",
       "url": "https://open.spotify.com/track/1hEEWmxCLs95iz2d7Mwao6"
+    },
+    {
+      "album": {
+        "name": "Baar Baar",
+        "url": "https://open.spotify.com/album/0FG9ggumTUmAJlk9bFXbhR"
+      },
+      "artists": [
+        {
+          "name": "RXAHI",
+          "url": "https://open.spotify.com/artist/6nVFWRBRtfal8H9932ser7"
+        },
+        {
+          "name": "Prince Shouan",
+          "url": "https://open.spotify.com/artist/1pPA7rUJ2zyxpFRYv2DDuK"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141768,
+      "name": "Baar Baar",
+      "url": "https://open.spotify.com/track/1erI9ykkIv1UCpqSazxbCh"
     },
     {
       "album": {
@@ -1307,6 +1351,28 @@
     },
     {
       "album": {
+        "name": "Body Tea",
+        "url": "https://open.spotify.com/album/0mZN9VFmSozjKHgXDqWFx6"
+      },
+      "artists": [
+        {
+          "name": "Varii",
+          "url": "https://open.spotify.com/artist/36d6RKxVFF9l7omzYlrEth"
+        },
+        {
+          "name": "Josh Sidhu",
+          "url": "https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "Body Tea",
+      "url": "https://open.spotify.com/track/1IrhIWbg84Y40jOKyClcLm"
+    },
+    {
+      "album": {
         "name": "Born To Live",
         "url": "https://open.spotify.com/album/2AAZsW52dhAV7T6Ygo3nNC"
       },
@@ -1654,7 +1720,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 146000,
       "name": "Call Me Yours",
       "url": "https://open.spotify.com/track/2sntFx0h0u5Q0An1EXi4Hl"
@@ -2694,6 +2760,10 @@
         {
           "name": "Rhythm Ratta",
           "url": "https://open.spotify.com/artist/1FcP3V5ONOmt96kHYftwDD"
+        },
+        {
+          "name": "Abhiee Singhania",
+          "url": "https://open.spotify.com/artist/2byk0GjGXXArdCDAvJrjkG"
         }
       ],
       "date_added": "2026-06-24",
@@ -5820,7 +5890,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 314250,
       "name": "Jogi",
       "url": "https://open.spotify.com/track/2uxAp7l8iqrwjh1rgDuSbU"
@@ -6420,7 +6490,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 121318,
       "name": "King Size",
       "url": "https://open.spotify.com/track/6hfMknoTVU6PB91c55Cy0G"
@@ -7570,6 +7640,24 @@
       "duration_ms": 136956,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/2bKXg6Fcz45WsXO3J2pwVo"
+    },
+    {
+      "album": {
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/0CdQh7q0rk9aYq5kKPm72W"
+      },
+      "artists": [
+        {
+          "name": "Shubh Goraya",
+          "url": "https://open.spotify.com/artist/4gXQYW5L0ioMI3FuP6mBTQ"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182571,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/6gbzCHYdkkYcXZJ5bb2kCU"
     },
     {
       "album": {
@@ -9822,7 +9910,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 207000,
       "name": "Raatan",
       "url": "https://open.spotify.com/track/5sOav7779xXBzjuH64B5oE"
@@ -10010,6 +10098,32 @@
       "duration_ms": 124444,
       "name": "Rog",
       "url": "https://open.spotify.com/track/5oO0uZLhoq6tHluaYuQNWr"
+    },
+    {
+      "album": {
+        "name": "Rog",
+        "url": "https://open.spotify.com/album/3P57iTUYuy8YnS8BCtPOUh"
+      },
+      "artists": [
+        {
+          "name": "Raghav Sehgal",
+          "url": "https://open.spotify.com/artist/5eI9WTAYl2NzTvQQHGogKq"
+        },
+        {
+          "name": "Kaater",
+          "url": "https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE"
+        },
+        {
+          "name": "PRECET",
+          "url": "https://open.spotify.com/artist/7MSH6yLmtMbfh9UyhAByEz"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192352,
+      "name": "Rog",
+      "url": "https://open.spotify.com/track/7aNhmvBaGQqNAwSmmQdf4h"
     },
     {
       "album": {
@@ -13298,7 +13412,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 188996,
       "name": "Zindagi",
       "url": "https://open.spotify.com/track/36i1q5yjO0RwGX9edxlXTy"

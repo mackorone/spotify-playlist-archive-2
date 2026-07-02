@@ -1,6 +1,6 @@
 {
   "description": "Beautifully dark, dramatic tracks.",
-  "num_followers": 861882,
+  "num_followers": 861884,
   "original_name": "Dark & Stormy",
   "owner": {
     "name": "Spotify",
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 266546,
-      "name": "Arsonist's Lullabye",
-      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
         "name": "Jenny of Oldstones (Game of Thrones)",
         "url": "https://open.spotify.com/album/1R6GYgEbpObUZC2btPQlqB"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 188638,
       "name": "Jenny of Oldstones (Game of Thrones)",
       "url": "https://open.spotify.com/track/1u0THw5xaGd7sYzJEh48Lt"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 266546,
+      "name": "Arsonist's Lullabye",
+      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -595,22 +595,6 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "The Crow Mother",
-        "url": "https://open.spotify.com/album/5hbE2sd26TIlxF6Yw65rDD"
-      },
-      "artists": [
-        {
-          "name": "Wickerbird",
-          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
-        }
-      ],
-      "duration_ms": 216493,
-      "name": "The Fold",
-      "url": "https://open.spotify.com/track/660D1KONP5QoayR5MUGGcK"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
         "name": "Don't You Cry For Me",
         "url": "https://open.spotify.com/album/4TjQW7GIImS6INJyhjuANs"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 256333,
       "name": "Don't You Cry For Me",
       "url": "https://open.spotify.com/track/6fhEYtnORqxaEoxSrMH2bx"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "The Crow Mother",
+        "url": "https://open.spotify.com/album/5hbE2sd26TIlxF6Yw65rDD"
+      },
+      "artists": [
+        {
+          "name": "Wickerbird",
+          "url": "https://open.spotify.com/artist/5JnB0pjUaCDOuRKRzuS5ti"
+        }
+      ],
+      "duration_ms": 216493,
+      "name": "The Fold",
+      "url": "https://open.spotify.com/track/660D1KONP5QoayR5MUGGcK"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "Lost It All",
-        "url": "https://open.spotify.com/album/26TDhagwH7yap92e04ObFu"
-      },
-      "artists": [
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        }
-      ],
-      "duration_ms": 223655,
-      "name": "Lost It All",
-      "url": "https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
         "name": "Rescue My Heart",
         "url": "https://open.spotify.com/album/20e1QTMEzNi9JGP4mmB3Rs"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 205614,
       "name": "Rescue My Heart",
       "url": "https://open.spotify.com/track/4mdmOqTv0ZBeHNjT2Pf63n"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
+        "name": "Lost It All",
+        "url": "https://open.spotify.com/album/26TDhagwH7yap92e04ObFu"
+      },
+      "artists": [
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        }
+      ],
+      "duration_ms": 223655,
+      "name": "Lost It All",
+      "url": "https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
+        "name": "Beautiful Hell",
+        "url": "https://open.spotify.com/album/6xTzNBU5ayQKPQeIrhNKV8"
+      },
+      "artists": [
+        {
+          "name": "Adna",
+          "url": "https://open.spotify.com/artist/1pduOlnYE5rd4VChXbeU8g"
+        }
+      ],
+      "duration_ms": 176167,
+      "name": "Beautiful Hell",
+      "url": "https://open.spotify.com/track/1DlbCKscf5uSlVpbKYVxOS"
+    },
+    {
+      "added_at": "2026-04-02 20:42:56",
+      "album": {
         "name": "Philharmonics",
         "url": "https://open.spotify.com/album/7oTWCoBLYtzURvGTFysNf1"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 230546,
       "name": "Riverside",
       "url": "https://open.spotify.com/track/7kaub3iYrvVz5gaPVemsWE"
-    },
-    {
-      "added_at": "2026-04-02 20:42:56",
-      "album": {
-        "name": "Station Approach",
-        "url": "https://open.spotify.com/album/2b6Y3r5sNPS5nNHrMF5KHL"
-      },
-      "artists": [
-        {
-          "name": "Sam Airey",
-          "url": "https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw"
-        }
-      ],
-      "duration_ms": 321057,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/7sqMo5ZnWfr1IdGoiwzm9Y"
     },
     {
       "added_at": "2026-04-02 20:42:56",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2026-04-02 20:42:56",
       "album": {
-        "name": "Winter",
-        "url": "https://open.spotify.com/album/71K84GjeSWMtFT3sKv3Poz"
+        "name": "Station Approach",
+        "url": "https://open.spotify.com/album/2b6Y3r5sNPS5nNHrMF5KHL"
       },
       "artists": [
         {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+          "name": "Sam Airey",
+          "url": "https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw"
         }
       ],
-      "duration_ms": 311025,
-      "name": "Stakes",
-      "url": "https://open.spotify.com/track/0MrCHY7OM8VjnsfwT3DSsw"
+      "duration_ms": 321057,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/7sqMo5ZnWfr1IdGoiwzm9Y"
     }
   ],
   "unique_name": "Dark & Stormy",

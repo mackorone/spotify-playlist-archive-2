@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 ### [Proto\-](https://open.spotify.com/playlist/37i9dQZF1DX7oMO417tEZs)
 
-> ⁺‧₊˚ ཐིA curated space for the avant\-garde + und3rground⋆ཋྀ ˚₊‧⁺ Cover: ACHEL
+> ⁺‧₊˚ A curated space for the avant\-garde + und3rground⋆ ˚₊‧⁺ Cover: ACHEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,427 likes - 69 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,432 likes - 69 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 68 | [BD Baile](https://open.spotify.com/track/6Il2m8E46J4fu1WFbrIKfE) | [Mezraa](https://open.spotify.com/artist/6oT0L9KXaIDDW38IpYuvRs) | [BD Baile](https://open.spotify.com/album/1tny2XRdbAvZhMegJoilEy) | 1:48 |
 | 69 | [House Fire](https://open.spotify.com/track/1RFLkDNFSUKB9n7USEdw3X) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Forget In Mass](https://open.spotify.com/album/0yyMJ8gsghOX71XTvV2pAP) | 3:07 |
 
-Snapshot ID: `AAAAAPPqXhH4efR4hF+bPD9MkeFmEWw+`
+Snapshot ID: `AAAAAKj1t7EuSXI8B+XUd3l5IopRtEwa`

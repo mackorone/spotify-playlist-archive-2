@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Gelece\u011fin seslerini dinle! Kapak: Zeki Arkun",
+  "description": "Gelece\u011fin seslerini dinle! Kapak: Melis Karaduman",
   "name": "RADAR T\u00fcrkiye",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 148586,
       "name": "All\u0131 Turnam",
       "url": "https://open.spotify.com/track/3b1O9F4zjQZCTP5WSTUDQi"
+    },
+    {
+      "album": {
+        "name": "Al\u0131\u015ft\u0131m",
+        "url": "https://open.spotify.com/album/7LrRZONcEPYPRDvwLC1U8M"
+      },
+      "artists": [
+        {
+          "name": "\u00fc\u00e7kuru\u015f",
+          "url": "https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Al\u0131\u015ft\u0131m",
+      "url": "https://open.spotify.com/track/3JTIs7oWHrhfJ9zmF7ALzR"
     },
     {
       "album": {
@@ -446,7 +464,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 208277,
       "name": "b\u0131rak \u00f6leyim",
       "url": "https://open.spotify.com/track/16G2UlN8OFUCf5qAGNadQK"
@@ -608,7 +626,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 143499,
       "name": "eYeSiGht",
       "url": "https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs"
@@ -1468,6 +1486,24 @@
       "duration_ms": 203141,
       "name": "Son Perde",
       "url": "https://open.spotify.com/track/6qWXNfRL7ygjONnrPPzALQ"
+    },
+    {
+      "album": {
+        "name": "Sonum Ol",
+        "url": "https://open.spotify.com/album/0x5Cz4GC7HnNmvr6kUmJx5"
+      },
+      "artists": [
+        {
+          "name": "Melis Karaduman",
+          "url": "https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219500,
+      "name": "Sonum Ol",
+      "url": "https://open.spotify.com/track/3waipLozRiAKg6Ad0o40xg"
     },
     {
       "album": {

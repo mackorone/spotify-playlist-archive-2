@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap 👀 ozzy på cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,313 likes - 48 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,308 likes - 48 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

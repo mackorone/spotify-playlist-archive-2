@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 ### [EQUAL Україна](https://open.spotify.com/playlist/37i9dQZF1DWTtjLYc6QFF2)
 
-> Українські виконавиць на повну гучність! Обкладинка: ТУЧА
+> Слухай українських виконавиць на повну гучність! Обкладинка: ТУЧА
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,693 likes - 45 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,703 likes - 45 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 44 | [навчитися любити](https://open.spotify.com/track/625SlCzHaARXP2NANz3xHK) | [KARINÈ](https://open.spotify.com/artist/6v2SNCaSjFbvN935XsOnAB) | [навчитися любити](https://open.spotify.com/album/1M0URCrTSHWtRcBymlHoBW) | 2:30 |
 | 45 | [Don't call it love](https://open.spotify.com/track/583xHq04HxEJKIqqclE4O0) | [Marra Finn](https://open.spotify.com/artist/5o4zCIlk3VBkX7ySwC4ipt) | [Don't call it love](https://open.spotify.com/album/2wh748oDQCDZDue7XyxsX5) | 2:44 |
 
-Snapshot ID: `AAAAADGwOWxmQCVnm3MbucMp/YDA0hDA`
+Snapshot ID: `AAAAAGgch/tjb2AbKbiI6YMAaLqIiWZA`

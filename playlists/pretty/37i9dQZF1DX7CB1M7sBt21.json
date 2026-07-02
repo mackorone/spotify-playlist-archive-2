@@ -1,6 +1,6 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 133827,
+  "num_followers": 133835,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-06-18 13:06:14",
       "album": {
-        "name": "You've Come a Long Way Baby",
-        "url": "https://open.spotify.com/album/0J43YxxLFPZxIrCd12LRuN"
-      },
-      "artists": [
-        {
-          "name": "Fatboy Slim",
-          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
-        }
-      ],
-      "duration_ms": 413880,
-      "name": "The Rockafeller Skank",
-      "url": "https://open.spotify.com/track/5AgCO3dc2kuSicCsw09YCA"
-    },
-    {
-      "added_at": "2026-06-18 13:06:14",
-      "album": {
         "name": "Tattoo (Topic Remix)",
         "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 211400,
       "name": "Tattoo - Topic Remix",
       "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
+    },
+    {
+      "added_at": "2026-06-18 13:06:14",
+      "album": {
+        "name": "You've Come a Long Way Baby",
+        "url": "https://open.spotify.com/album/0J43YxxLFPZxIrCd12LRuN"
+      },
+      "artists": [
+        {
+          "name": "Fatboy Slim",
+          "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+        }
+      ],
+      "duration_ms": 413880,
+      "name": "The Rockafeller Skank",
+      "url": "https://open.spotify.com/track/5AgCO3dc2kuSicCsw09YCA"
     },
     {
       "added_at": "2026-06-18 13:06:14",

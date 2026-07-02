@@ -651,6 +651,24 @@
     },
     {
       "album": {
+        "name": "Colombia Caribe (Si, Si, Colombia)",
+        "url": "https://open.spotify.com/album/3AKsvpYit9AL2EgAZUwWhq"
+      },
+      "artists": [
+        {
+          "name": "Francisco Zumaqu\u00e9",
+          "url": "https://open.spotify.com/artist/5Fc4V3AlnhHqvw7hBT8yuC"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298187,
+      "name": "Colombia Caribe (Si, Si, Colombia)",
+      "url": "https://open.spotify.com/track/3xbTQOAKgAp2Ufklh2ujg6"
+    },
+    {
+      "album": {
         "name": "Tocando el Cielo Con las Manos",
         "url": "https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR"
       },

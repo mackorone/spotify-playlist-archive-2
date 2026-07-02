@@ -1,6 +1,6 @@
 {
   "description": "Black, death and beyond. Recent tracks only. Cover: Witch Club Satan",
-  "num_followers": 463805,
+  "num_followers": 463783,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
+        "name": "Helldorado",
+        "url": "https://open.spotify.com/album/3uG1XUvK76Y59Zi0FsWMNj"
+      },
+      "artists": [
+        {
+          "name": "Spiritworld",
+          "url": "https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE"
+        }
+      ],
+      "duration_ms": 241880,
+      "name": "Waiting on the Reaper",
+      "url": "https://open.spotify.com/track/04sgIlzuGYceS3Yw1nIk7i"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
         "name": "No Place of Warmth",
         "url": "https://open.spotify.com/album/5ncedT7f0ZDQAZhVOALo5M"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 289750,
       "name": "No Place of Warmth (feat. Gerard Way)",
       "url": "https://open.spotify.com/track/0Z8pVtdaP6KyczW1Xt2TYq"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
-        "name": "Helldorado",
-        "url": "https://open.spotify.com/album/3uG1XUvK76Y59Zi0FsWMNj"
-      },
-      "artists": [
-        {
-          "name": "Spiritworld",
-          "url": "https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE"
-        }
-      ],
-      "duration_ms": 241880,
-      "name": "Waiting on the Reaper",
-      "url": "https://open.spotify.com/track/04sgIlzuGYceS3Yw1nIk7i"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "DREAMCRUSH",
-        "url": "https://open.spotify.com/album/7yhRQwh3CzBBrvPi5Xea22"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8L",
-          "url": "https://open.spotify.com/artist/10AROE3jG5grMdhlNyZiWo"
-        }
-      ],
-      "duration_ms": 227346,
-      "name": "Garland",
-      "url": "https://open.spotify.com/track/1gebDSJQE2LV3DubLpg8KS"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
         "name": "A Blaze of Nihilism",
         "url": "https://open.spotify.com/album/3ve1oUyQcEmazFTcB7voYD"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 172210,
       "name": "A Blaze of Nihilism",
       "url": "https://open.spotify.com/track/1Gj7O01k7FbghPN0Pb2Odk"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "DREAMCRUSH",
+        "url": "https://open.spotify.com/album/7yhRQwh3CzBBrvPi5Xea22"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8L",
+          "url": "https://open.spotify.com/artist/10AROE3jG5grMdhlNyZiWo"
+        }
+      ],
+      "duration_ms": 227346,
+      "name": "Garland",
+      "url": "https://open.spotify.com/track/1gebDSJQE2LV3DubLpg8KS"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Coronach",
-        "url": "https://open.spotify.com/album/3JvhmAMQcejr2pWQCyjx4p"
-      },
-      "artists": [
-        {
-          "name": "Hellripper",
-          "url": "https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Kinchyle (Goatkraft and Granite)",
-      "url": "https://open.spotify.com/track/5jloMlppwE3EelgKMMwcl9"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
         "name": "Necropalace",
         "url": "https://open.spotify.com/album/4zI7O4eE92cRjGLwXc3Y1c"
       },
@@ -815,18 +799,34 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Amphibians",
-        "url": "https://open.spotify.com/album/1w0yh993AM5YKhc6IyOk9D"
+        "name": "Coronach",
+        "url": "https://open.spotify.com/album/3JvhmAMQcejr2pWQCyjx4p"
       },
       "artists": [
         {
-          "name": "Septicflesh",
-          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
+          "name": "Hellripper",
+          "url": "https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R"
         }
       ],
-      "duration_ms": 260853,
-      "name": "Amphibians",
-      "url": "https://open.spotify.com/track/6hZMH8mu42J9KGtSfOHVPm"
+      "duration_ms": 273000,
+      "name": "Kinchyle (Goatkraft and Granite)",
+      "url": "https://open.spotify.com/track/5jloMlppwE3EelgKMMwcl9"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "Fangdriller: Scars Beneath Memory's Wrist",
+        "url": "https://open.spotify.com/album/5t9wUkHrBw6oKmlFDA48uo"
+      },
+      "artists": [
+        {
+          "name": "Saidan",
+          "url": "https://open.spotify.com/artist/1nsKjxqVoGG8Lifi1FeUWV"
+        }
+      ],
+      "duration_ms": 283774,
+      "name": "Kara No Bara",
+      "url": "https://open.spotify.com/track/4SBLTZJuwLetxPBLEdZOgE"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -843,6 +843,22 @@
       "duration_ms": 215360,
       "name": "Mutilated Corpse in the Woods",
       "url": "https://open.spotify.com/track/1Csz3EXBoUgR8DaUDA7KSY"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "Amphibians",
+        "url": "https://open.spotify.com/album/1w0yh993AM5YKhc6IyOk9D"
+      },
+      "artists": [
+        {
+          "name": "Septicflesh",
+          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
+        }
+      ],
+      "duration_ms": 260853,
+      "name": "Amphibians",
+      "url": "https://open.spotify.com/track/6hZMH8mu42J9KGtSfOHVPm"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -875,22 +891,6 @@
       "duration_ms": 221653,
       "name": "Apocalyptic Dawn",
       "url": "https://open.spotify.com/track/6ra0kJwQYrgLMKMGDaOWAm"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
-        "name": "Fangdriller: Scars Beneath Memory's Wrist",
-        "url": "https://open.spotify.com/album/5t9wUkHrBw6oKmlFDA48uo"
-      },
-      "artists": [
-        {
-          "name": "Saidan",
-          "url": "https://open.spotify.com/artist/1nsKjxqVoGG8Lifi1FeUWV"
-        }
-      ],
-      "duration_ms": 283774,
-      "name": "Kara No Bara",
-      "url": "https://open.spotify.com/track/4SBLTZJuwLetxPBLEdZOgE"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Vertebrae After Vertebrae",
-        "url": "https://open.spotify.com/album/2gUDXhSe3cNKJGJqTMo4B5"
-      },
-      "artists": [
-        {
-          "name": "Pharmacist",
-          "url": "https://open.spotify.com/artist/6kVUxvk1wk0ZgmJ5VekpG1"
-        }
-      ],
-      "duration_ms": 276626,
-      "name": "Propelling Inwards",
-      "url": "https://open.spotify.com/track/6TSFrW0ZMz3RMuT1oo03ve"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
         "name": "The Pain, will be Exquisite",
         "url": "https://open.spotify.com/album/6VMD7XOxLOUv3t3mlFFkdZ"
       },
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
+        "name": "Vertebrae After Vertebrae",
+        "url": "https://open.spotify.com/album/2gUDXhSe3cNKJGJqTMo4B5"
+      },
+      "artists": [
+        {
+          "name": "Pharmacist",
+          "url": "https://open.spotify.com/artist/6kVUxvk1wk0ZgmJ5VekpG1"
+        }
+      ],
+      "duration_ms": 276626,
+      "name": "Propelling Inwards",
+      "url": "https://open.spotify.com/track/6TSFrW0ZMz3RMuT1oo03ve"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
         "name": "Slave Machine",
         "url": "https://open.spotify.com/album/7qcPn8Xol83gBeBD2U3Td4"
       },
@@ -1035,22 +1035,6 @@
       "duration_ms": 265606,
       "name": "Impending Doom",
       "url": "https://open.spotify.com/track/4NUplyJXWpQRndfByvCN3G"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
-        "name": "Stack Overflow In Corpse Pile Interface",
-        "url": "https://open.spotify.com/album/0mlhi1whQOvQRCWFqCEn5T"
-      },
-      "artists": [
-        {
-          "name": "A Forest Of Stars",
-          "url": "https://open.spotify.com/artist/7CiWvN1gNzwW6eNxTAYhe2"
-        }
-      ],
-      "duration_ms": 545440,
-      "name": "Ascension of the Clowns",
-      "url": "https://open.spotify.com/track/1rZic6LLrFXiEB8a7ni4o5"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Advent of Wounds",
-        "url": "https://open.spotify.com/album/5EznkIQj30NXQOqsuB5EQ0"
+        "name": "Stack Overflow In Corpse Pile Interface",
+        "url": "https://open.spotify.com/album/0mlhi1whQOvQRCWFqCEn5T"
       },
       "artists": [
         {
-          "name": "Fossilization",
-          "url": "https://open.spotify.com/artist/3FDmCPVi3TyAPCmKS3jcdB"
+          "name": "A Forest Of Stars",
+          "url": "https://open.spotify.com/artist/7CiWvN1gNzwW6eNxTAYhe2"
         }
       ],
-      "duration_ms": 310840,
-      "name": "Cremation of a Seraph",
-      "url": "https://open.spotify.com/track/4cd7yyEr7wa3QTyhivkpKT"
+      "duration_ms": 545440,
+      "name": "Ascension of the Clowns",
+      "url": "https://open.spotify.com/track/1rZic6LLrFXiEB8a7ni4o5"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1127,18 +1111,18 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Torden",
-        "url": "https://open.spotify.com/album/6j6giDWzoBuM8PLI04VCCJ"
+        "name": "Advent of Wounds",
+        "url": "https://open.spotify.com/album/5EznkIQj30NXQOqsuB5EQ0"
       },
       "artists": [
         {
-          "name": "Mork",
-          "url": "https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7"
+          "name": "Fossilization",
+          "url": "https://open.spotify.com/artist/3FDmCPVi3TyAPCmKS3jcdB"
         }
       ],
-      "duration_ms": 234957,
-      "name": "Torden",
-      "url": "https://open.spotify.com/track/7IkZ4iWr9A6mIKZXkNeFTg"
+      "duration_ms": 310840,
+      "name": "Cremation of a Seraph",
+      "url": "https://open.spotify.com/track/4cd7yyEr7wa3QTyhivkpKT"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1159,6 +1143,22 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
+        "name": "Torden",
+        "url": "https://open.spotify.com/album/6j6giDWzoBuM8PLI04VCCJ"
+      },
+      "artists": [
+        {
+          "name": "Mork",
+          "url": "https://open.spotify.com/artist/6txf2ksDlbyt06kNh1m4o7"
+        }
+      ],
+      "duration_ms": 234957,
+      "name": "Torden",
+      "url": "https://open.spotify.com/track/7IkZ4iWr9A6mIKZXkNeFTg"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
         "name": "A Proper Death",
         "url": "https://open.spotify.com/album/3BbiYYu7FdpyuCm49SJR54"
       },
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Death Comes To All",
-        "url": "https://open.spotify.com/album/1vVphGTpY9ikQdWuyH6DKx"
-      },
-      "artists": [
-        {
-          "name": "Gates to Hell",
-          "url": "https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw"
-        }
-      ],
-      "duration_ms": 117189,
-      "name": "21 Sacraments",
-      "url": "https://open.spotify.com/track/64H1QSSjWSfOa4GE1ZUfrv"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
         "name": "To Live Deliciously",
         "url": "https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 332226,
       "name": "To Live Deliciously",
       "url": "https://open.spotify.com/track/4svPYkuVpl9Lum5fLlEXMo"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "Death Comes To All",
+        "url": "https://open.spotify.com/album/1vVphGTpY9ikQdWuyH6DKx"
+      },
+      "artists": [
+        {
+          "name": "Gates to Hell",
+          "url": "https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw"
+        }
+      ],
+      "duration_ms": 117189,
+      "name": "21 Sacraments",
+      "url": "https://open.spotify.com/track/64H1QSSjWSfOa4GE1ZUfrv"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1235,6 +1235,22 @@
       "duration_ms": 249562,
       "name": "Conjuring",
       "url": "https://open.spotify.com/track/5wXi8Od23VkAbdPWJvWg4Y"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "Washington State Charm",
+        "url": "https://open.spotify.com/album/4Qn7bUMOQTBuOgdAbwzEvx"
+      },
+      "artists": [
+        {
+          "name": "Monument Of Misanthropy",
+          "url": "https://open.spotify.com/artist/3V8oZE9ZWM6L0CPWry9CCv"
+        }
+      ],
+      "duration_ms": 234187,
+      "name": "Washington State Charm",
+      "url": "https://open.spotify.com/track/7DAWuSHyfFBEVuStLlcdBK"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1287,18 +1303,18 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Washington State Charm",
-        "url": "https://open.spotify.com/album/4Qn7bUMOQTBuOgdAbwzEvx"
+        "name": "Entities",
+        "url": "https://open.spotify.com/album/26PFvrHcsd4CfPTgsuykfV"
       },
       "artists": [
         {
-          "name": "Monument Of Misanthropy",
-          "url": "https://open.spotify.com/artist/3V8oZE9ZWM6L0CPWry9CCv"
+          "name": "Beyond Deviation",
+          "url": "https://open.spotify.com/artist/6bGhlZE9y0X5Gm8eJUbQP1"
         }
       ],
-      "duration_ms": 234187,
-      "name": "Washington State Charm",
-      "url": "https://open.spotify.com/track/7DAWuSHyfFBEVuStLlcdBK"
+      "duration_ms": 191216,
+      "name": "Entities",
+      "url": "https://open.spotify.com/track/04JiEFoMRu0uQprbSJeYGV"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Entities",
-        "url": "https://open.spotify.com/album/26PFvrHcsd4CfPTgsuykfV"
-      },
-      "artists": [
-        {
-          "name": "Beyond Deviation",
-          "url": "https://open.spotify.com/artist/6bGhlZE9y0X5Gm8eJUbQP1"
-        }
-      ],
-      "duration_ms": 191216,
-      "name": "Entities",
-      "url": "https://open.spotify.com/track/04JiEFoMRu0uQprbSJeYGV"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
         "name": "Under The Under",
         "url": "https://open.spotify.com/album/4PDgYRrTjQfc50lsX5fmve"
       },
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Humanihility",
-        "url": "https://open.spotify.com/album/6TB3aho7r8pJDQfHkytgNl"
-      },
-      "artists": [
-        {
-          "name": "Vader",
-          "url": "https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ"
-        }
-      ],
-      "duration_ms": 121280,
-      "name": "Rampage",
-      "url": "https://open.spotify.com/track/4Zwqg9PhBNgzzKUveV9f0g"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
         "name": "Saturn Coming Down",
         "url": "https://open.spotify.com/album/5VgKnBiputFStCvTUPlYge"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 358546,
       "name": "Saturn Coming Down",
       "url": "https://open.spotify.com/track/31ZTKhrSPeufd3L1Wd12kc"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "Humanihility",
+        "url": "https://open.spotify.com/album/6TB3aho7r8pJDQfHkytgNl"
+      },
+      "artists": [
+        {
+          "name": "Vader",
+          "url": "https://open.spotify.com/artist/2s5DSt9VBNzAn2TbtDHzFZ"
+        }
+      ],
+      "duration_ms": 121280,
+      "name": "Rampage",
+      "url": "https://open.spotify.com/track/4Zwqg9PhBNgzzKUveV9f0g"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1551,8 +1551,8 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Step Through the Portal and Breathe",
-        "url": "https://open.spotify.com/album/2zc2vlnIYQeYh5rzuqCz9T"
+        "name": "Labyrinth of Stone",
+        "url": "https://open.spotify.com/album/17qNRU2LfnOuZUFmD4LRPY"
       },
       "artists": [
         {
@@ -1560,9 +1560,9 @@
           "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
         }
       ],
-      "duration_ms": 400940,
-      "name": "Step Through the Portal and Breathe",
-      "url": "https://open.spotify.com/track/3w3Qf1qQ8J98BFhSQPl8Sv"
+      "duration_ms": 345805,
+      "name": "Labyrinth of Stone",
+      "url": "https://open.spotify.com/track/0sIT4kW3fa9jgDOEsIVJJo"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1631,8 +1631,8 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Labyrinth of Stone",
-        "url": "https://open.spotify.com/album/17qNRU2LfnOuZUFmD4LRPY"
+        "name": "Step Through the Portal and Breathe",
+        "url": "https://open.spotify.com/album/2zc2vlnIYQeYh5rzuqCz9T"
       },
       "artists": [
         {
@@ -1640,25 +1640,9 @@
           "url": "https://open.spotify.com/artist/3C5R32AIZlLfMa3uxLEYrU"
         }
       ],
-      "duration_ms": 345805,
-      "name": "Labyrinth of Stone",
-      "url": "https://open.spotify.com/track/0sIT4kW3fa9jgDOEsIVJJo"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
-        "name": "Hidden Fires Burn Hottest",
-        "url": "https://open.spotify.com/album/32iPziU6tr4vKKYz29Vv0q"
-      },
-      "artists": [
-        {
-          "name": "Bosse-de-Nage",
-          "url": "https://open.spotify.com/artist/7o1sULgHxbBDdUnK95tewd"
-        }
-      ],
-      "duration_ms": 493320,
-      "name": "No Such Place",
-      "url": "https://open.spotify.com/track/3VO2Su9PVwcdJs8UUo3OxP"
+      "duration_ms": 400940,
+      "name": "Step Through the Portal and Breathe",
+      "url": "https://open.spotify.com/track/3w3Qf1qQ8J98BFhSQPl8Sv"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1679,6 +1663,22 @@
       "duration_ms": 290568,
       "name": "Kr\u00e1sno",
       "url": "https://open.spotify.com/track/3hwQRPHb7bISgyLooGcv1V"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "Hidden Fires Burn Hottest",
+        "url": "https://open.spotify.com/album/32iPziU6tr4vKKYz29Vv0q"
+      },
+      "artists": [
+        {
+          "name": "Bosse-de-Nage",
+          "url": "https://open.spotify.com/artist/7o1sULgHxbBDdUnK95tewd"
+        }
+      ],
+      "duration_ms": 493320,
+      "name": "No Such Place",
+      "url": "https://open.spotify.com/track/3VO2Su9PVwcdJs8UUo3OxP"
     },
     {
       "added_at": "2026-06-30 10:45:27",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2026-06-30 10:45:27",
       "album": {
-        "name": "Fucked with a Broken Bottle",
-        "url": "https://open.spotify.com/album/1ZJgXgyMi2CwONoPmS0l8r"
-      },
-      "artists": [
-        {
-          "name": "Fulci",
-          "url": "https://open.spotify.com/artist/5rK5iEoGaC5LtoBCiXpCet"
-        }
-      ],
-      "duration_ms": 123857,
-      "name": "Fucked With A Broken Bottle",
-      "url": "https://open.spotify.com/track/6Zj74696VJItmBZES80kI6"
-    },
-    {
-      "added_at": "2026-06-30 10:45:27",
-      "album": {
         "name": "No Less Than Death",
         "url": "https://open.spotify.com/album/6t1aGTf7yFYnVq3jUaj4Cz"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 564602,
       "name": "No Less Than Death",
       "url": "https://open.spotify.com/track/6W65pru3ixPre7Nz9rgUMO"
+    },
+    {
+      "added_at": "2026-06-30 10:45:27",
+      "album": {
+        "name": "Fucked with a Broken Bottle",
+        "url": "https://open.spotify.com/album/1ZJgXgyMi2CwONoPmS0l8r"
+      },
+      "artists": [
+        {
+          "name": "Fulci",
+          "url": "https://open.spotify.com/artist/5rK5iEoGaC5LtoBCiXpCet"
+        }
+      ],
+      "duration_ms": 123857,
+      "name": "Fucked With A Broken Bottle",
+      "url": "https://open.spotify.com/track/6Zj74696VJItmBZES80kI6"
     },
     {
       "added_at": "2026-06-30 10:45:27",

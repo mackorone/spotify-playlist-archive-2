@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 
 > Hauntingly atmospheric, deeply melodic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212,046 likes - 140 songs - 9 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,211,986 likes - 140 songs - 9 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtTyjgd08yp.md) - [plain]
 | 3 | [Kith](https://open.spotify.com/track/7aHdqt74mSDldMC6pbQcNv) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [Colt](https://open.spotify.com/album/29JeAsTyeysxFx6v21v8N8) | 5:36 |
 | 4 | [While the Womb Screams Silently](https://open.spotify.com/track/2oxf4W7Y8FxrF0E4rAtL15) | [Cinder Well](https://open.spotify.com/artist/6BJ7iUkCa68mX6UnFBwzsV) | [While the Womb Screams Silently](https://open.spotify.com/album/2jvqAdJ8nIwv3LDEn32B19) | 4:53 |
 | 5 | [Hail](https://open.spotify.com/track/450ZDkFvuRfdsfbbeDQfyq) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Bright Things I Found In The Dark](https://open.spotify.com/album/2xLweeSXmZEPeXMWoRpudT) | 4:40 |
-| 6 | [Blu Tac Piano](https://open.spotify.com/track/4UMjHRPZAi5LgR8xhYShqc) | [Cusk](https://open.spotify.com/artist/3JkYnVJf85irRhvG5ptSIw) | [Blu Tac Piano](https://open.spotify.com/album/0iHDzwYLxxsxVJI4NGu8kO) | 4:57 |
+| 6 | [Blu tac piano](https://open.spotify.com/track/4UMjHRPZAi5LgR8xhYShqc) | [Cusk](https://open.spotify.com/artist/3JkYnVJf85irRhvG5ptSIw) | [Blu tac piano](https://open.spotify.com/album/0iHDzwYLxxsxVJI4NGu8kO) | 4:57 |
 | 7 | [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 |
 | 8 | [The Night We Met](https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 3:28 |
 | 9 | [Mice](https://open.spotify.com/track/1wcAKUbAyMRy0uSsFbyiCv) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Feeding Seahorses by Hand](https://open.spotify.com/album/6hGu9RB3CDDdorBicf4dMo) | 4:04 |

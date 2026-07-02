@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 396703,
+  "num_followers": 396669,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2025-07-02 08:57:18",
       "album": {
+        "name": "Mo' Better Blues",
+        "url": "https://open.spotify.com/album/0hxR5dlIVm8EwblNwNGzM4"
+      },
+      "artists": [
+        {
+          "name": "Maxeen",
+          "url": "https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN"
+        }
+      ],
+      "duration_ms": 230312,
+      "name": "Mo' Better Blues",
+      "url": "https://open.spotify.com/track/3CGqAtOKUe4pn3j9kOKp4J"
+    },
+    {
+      "added_at": "2025-07-02 08:57:18",
+      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 194920,
       "name": "La Fugitiva (with Kevin Johansen)",
       "url": "https://open.spotify.com/track/1jmDkMtuAQJgSiN9AulFcx"
-    },
-    {
-      "added_at": "2025-07-02 08:57:18",
-      "album": {
-        "name": "Mo' Better Blues",
-        "url": "https://open.spotify.com/album/0hxR5dlIVm8EwblNwNGzM4"
-      },
-      "artists": [
-        {
-          "name": "Maxeen",
-          "url": "https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN"
-        }
-      ],
-      "duration_ms": 230312,
-      "name": "Mo' Better Blues",
-      "url": "https://open.spotify.com/track/3CGqAtOKUe4pn3j9kOKp4J"
     }
   ],
   "unique_name": "Cena con Amigos",

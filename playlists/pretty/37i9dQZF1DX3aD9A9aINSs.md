@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Nükhet Duru
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,565 likes - 82 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,680 likes - 82 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 36 | [Yiğidim Aslanım](https://open.spotify.com/track/1jr30blxSMrz8QgUfZYw4e) | [Zeynep Casalini](https://open.spotify.com/artist/7gcpWHccoirYLWCkHgyKtI) | [Yiğidim Aslanım](https://open.spotify.com/album/7epqkqcjayCtn0jFMmDL6x) | 4:55 |
 | 37 | [Aşk Sadece Bir Kelime](https://open.spotify.com/track/2L0pS1qj6Rj4cyzvyZjgg2) | [Eda Tat](https://open.spotify.com/artist/6BGCAKUbrvAd9lnGttatwy) | [Aşk Sadece Bir Kelime](https://open.spotify.com/album/1lCKNqShKkPsUNkFuzkFfB) | 2:38 |
 | 38 | [Gamsız](https://open.spotify.com/track/0tK8SCB2lHQUZLtptQ2wDX) | [Gökçe Kırgız](https://open.spotify.com/artist/6dfE0ZRCJwGdzma7zHJGVW) | [Gamsız](https://open.spotify.com/album/7gc2ZSnlHNHaHWeQOfJZFi) | 2:56 |
-| 39 | [Yaram Açık](https://open.spotify.com/track/0RxmAktB9buRpFuhJPX4Cr) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [Yaram Açık](https://open.spotify.com/album/3SRsryjgFjinCZRxlUhFnH) | 2:27 |
+| 39 | [Yaram Açık \- Hamam Sessions](https://open.spotify.com/track/0RxmAktB9buRpFuhJPX4Cr) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [Yaram Açık \(Hamam Sessions\)](https://open.spotify.com/album/3SRsryjgFjinCZRxlUhFnH) | 2:27 |
 | 40 | [Dünya Dursa](https://open.spotify.com/track/4c5ty1HJmkbsJHCGmo9yoH) | [Idil](https://open.spotify.com/artist/0zNz4hmI6mCNUdj4BngitI) | [Dünya Dursa](https://open.spotify.com/album/2Y8ISyrGyjGMbYDX239TIX) | 2:51 |
 | 41 | [Kaç Git](https://open.spotify.com/track/2Sk5RmX6jHmn0nSzoulKcg) | [Bîdar](https://open.spotify.com/artist/7jOk8UWLjN0boLFk0q9RgT) | [Kaç Git](https://open.spotify.com/album/4HUrYzsblSIM5D9bgjIsjp) | 3:29 |
 | 42 | [Yalandan Hisler](https://open.spotify.com/track/5lodr5cw83kldie3nsjdVo) | [Pelin Can](https://open.spotify.com/artist/77W13pyh6YzaAVeRnedRHh) | [Yalandan Hisler](https://open.spotify.com/album/7xGJNFBsHFcB7ovBGIUjFa) | 3:12 |

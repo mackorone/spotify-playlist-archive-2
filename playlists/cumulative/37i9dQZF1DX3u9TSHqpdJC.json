@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Fia James. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.   Cover: Ella Maddux. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -15535,6 +15535,24 @@
     },
     {
       "album": {
+        "name": "CR33PS",
+        "url": "https://open.spotify.com/album/7bl3I861kUyMzBph6WMkue"
+      },
+      "artists": [
+        {
+          "name": "herCULES",
+          "url": "https://open.spotify.com/artist/4iyOHW8Bcc3JakQFGw8H0S"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155642,
+      "name": "CR33PS",
+      "url": "https://open.spotify.com/track/3CUzLJWBak2SSut9QzGnmT"
+    },
+    {
+      "album": {
         "name": "Crack a Smile",
         "url": "https://open.spotify.com/album/2H8r63KLNIJTjskayUUK9b"
       },
@@ -18590,7 +18608,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 180362,
       "name": "Dirty",
       "url": "https://open.spotify.com/track/6GsKMETdRKLz5bXJGUC613"
@@ -26070,7 +26088,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 181039,
       "name": "free",
       "url": "https://open.spotify.com/track/2JDXFU1vW96R9bpHYGLiuD"
@@ -29632,7 +29650,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 163147,
       "name": "Half As Cool",
       "url": "https://open.spotify.com/track/7qX6xSLgM2MiuxZsBZ7q3M"
@@ -30628,7 +30646,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 153878,
       "name": "Headrush",
       "url": "https://open.spotify.com/track/01Ldw0vMTV9hLce0kw9qxI"
@@ -41199,6 +41217,24 @@
     },
     {
       "album": {
+        "name": "Last Train Home",
+        "url": "https://open.spotify.com/album/4BYuClhmYidSVfLtA7cXZs"
+      },
+      "artists": [
+        {
+          "name": "Oscar Stembridge",
+          "url": "https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182776,
+      "name": "Last Train Home",
+      "url": "https://open.spotify.com/track/48vL9BnLGjVR67iMyrj9DZ"
+    },
+    {
+      "album": {
         "name": "Last Week",
         "url": "https://open.spotify.com/album/6C0A6N2RxO6UE7bG7FwFO6"
       },
@@ -45330,6 +45366,24 @@
       "duration_ms": 205099,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/4B14OznKUOkvDJO3Qy7xp3"
+    },
+    {
+      "album": {
+        "name": "Lovesick Lobotomy",
+        "url": "https://open.spotify.com/album/5fsNOV0dM35dvXaXdGkRAf"
+      },
+      "artists": [
+        {
+          "name": "Earthgirl",
+          "url": "https://open.spotify.com/artist/7bO0m1OyMUf3ASTrQZbfSa"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Lovesick Lobotomy",
+      "url": "https://open.spotify.com/track/75puZs3gEpjiauihNVJCgs"
     },
     {
       "album": {
@@ -74910,6 +74964,24 @@
       "duration_ms": 187160,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/3gwcexbPVeKJQ8cN8f3Ner"
+    },
+    {
+      "album": {
+        "name": "Betting Woman",
+        "url": "https://open.spotify.com/album/6a9xEDfnVb3qgdVLa2vMjK"
+      },
+      "artists": [
+        {
+          "name": "Ella Maddux",
+          "url": "https://open.spotify.com/artist/1WokQQvTE8AK9ekn4ILMvf"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185148,
+      "name": "Traveling Man",
+      "url": "https://open.spotify.com/track/6Nx25shrwDV2uXHmFjUW5l"
     },
     {
       "album": {

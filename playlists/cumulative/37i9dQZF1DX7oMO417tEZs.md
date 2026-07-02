@@ -2,7 +2,7 @@
 
 ### [Proto\-](https://open.spotify.com/playlist/37i9dQZF1DX7oMO417tEZs)
 
-> ⁺‧₊˚ ཐིA curated space for the avant\-garde + und3rground⋆ཋྀ ˚₊‧⁺ Cover: ACHEL
+> ⁺‧₊˚ A curated space for the avant\-garde + und3rground⋆ ˚₊‧⁺ Cover: ACHEL
 
 1,960 songs - 4 day 10 hr 31 min
 

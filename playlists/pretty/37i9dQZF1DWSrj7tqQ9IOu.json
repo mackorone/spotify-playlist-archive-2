@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Folie's",
-  "num_followers": 402086,
+  "num_followers": 402078,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Juin 2026",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
-        "name": "Lost Boys",
-        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 254614,
-      "name": "Lost Boys",
-      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
         "name": "Wink Wink",
         "url": "https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA"
       },
@@ -91,22 +75,18 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
-        "name": "des fleurs x stromae",
-        "url": "https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB"
+        "name": "Lost Boys",
+        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 172544,
-      "name": "des fleurs x stromae",
-      "url": "https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI"
+      "duration_ms": 254614,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
     },
     {
       "added_at": "2026-06-30 22:00:27",
@@ -127,6 +107,26 @@
       "duration_ms": 174230,
       "name": "is it cool? (feat. SZA)",
       "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
+        "name": "des fleurs x stromae",
+        "url": "https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "duration_ms": 172544,
+      "name": "des fleurs x stromae",
+      "url": "https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI"
     },
     {
       "added_at": "2026-06-30 22:00:27",
@@ -455,6 +455,22 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
         "name": "Laurie Sky",
         "url": "https://open.spotify.com/album/77PmIyP4hIX6IphsV2rMn9"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 184013,
       "name": "Laurie Sky",
       "url": "https://open.spotify.com/track/2RzuYXqdKw0IevkQWDoUrt"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
     },
     {
       "added_at": "2026-06-30 22:00:27",
@@ -547,6 +547,58 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
+        "name": "OAMPD",
+        "url": "https://open.spotify.com/album/20vW9zgw5DdNuPfOynKXPl"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "OAMPD",
+      "url": "https://open.spotify.com/track/47aEofUzey1BNJ1rvkWrxl"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
+        "name": "SEUL COMME LES AUTRES",
+        "url": "https://open.spotify.com/album/6bv69bkNcVdOCpSZFpyWTb"
+      },
+      "artists": [
+        {
+          "name": "Tisma",
+          "url": "https://open.spotify.com/artist/5rLEiw2qUDAWnYCXGvxxPu"
+        }
+      ],
+      "duration_ms": 121641,
+      "name": "SCLA",
+      "url": "https://open.spotify.com/track/5JWBjUhdKMKxkHl1uRkaed"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
+        "name": "Les Abeilles",
+        "url": "https://open.spotify.com/album/1kAtPqcZ1HyN1n3Y0W7t9o"
+      },
+      "artists": [
+        {
+          "name": "K\u00fffy",
+          "url": "https://open.spotify.com/artist/4tK6ffV3TyicR0N0WtulqB"
+        },
+        {
+          "name": "Wamen",
+          "url": "https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse"
+        }
+      ],
+      "duration_ms": 214290,
+      "name": "Les Abeilles",
+      "url": "https://open.spotify.com/track/1mS4dKIpZbQRclIIfUmt5J"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
         "name": "Resonance",
         "url": "https://open.spotify.com/album/59BuyeMDf52WWbGqfmd2mA"
       },
@@ -579,58 +631,6 @@
       "duration_ms": 188491,
       "name": "Le dico de Charlie",
       "url": "https://open.spotify.com/track/46I0aCTUfyDQku5YpDIAli"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
-        "name": "SEUL COMME LES AUTRES",
-        "url": "https://open.spotify.com/album/6bv69bkNcVdOCpSZFpyWTb"
-      },
-      "artists": [
-        {
-          "name": "Tisma",
-          "url": "https://open.spotify.com/artist/5rLEiw2qUDAWnYCXGvxxPu"
-        }
-      ],
-      "duration_ms": 121641,
-      "name": "SCLA",
-      "url": "https://open.spotify.com/track/5JWBjUhdKMKxkHl1uRkaed"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
-        "name": "OAMPD",
-        "url": "https://open.spotify.com/album/20vW9zgw5DdNuPfOynKXPl"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "OAMPD",
-      "url": "https://open.spotify.com/track/47aEofUzey1BNJ1rvkWrxl"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
-        "name": "Les Abeilles",
-        "url": "https://open.spotify.com/album/1kAtPqcZ1HyN1n3Y0W7t9o"
-      },
-      "artists": [
-        {
-          "name": "K\u00fffy",
-          "url": "https://open.spotify.com/artist/4tK6ffV3TyicR0N0WtulqB"
-        },
-        {
-          "name": "Wamen",
-          "url": "https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse"
-        }
-      ],
-      "duration_ms": 214290,
-      "name": "Les Abeilles",
-      "url": "https://open.spotify.com/track/1mS4dKIpZbQRclIIfUmt5J"
     },
     {
       "added_at": "2026-06-30 22:00:27",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
-        "name": "tu sais tout",
-        "url": "https://open.spotify.com/album/3ChIEosAciQbGuVRgkw6gV"
-      },
-      "artists": [
-        {
-          "name": "Lyes Kaci",
-          "url": "https://open.spotify.com/artist/59hJAQqagh8q3ERA9gXwkx"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "tu sais tout",
-      "url": "https://open.spotify.com/track/5h4Urd9vrHE4BbLsVth8sn"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
         "name": "250 p\u00e9tales",
         "url": "https://open.spotify.com/album/3sgeUeFsVgQhF220LxMuqf"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 175027,
       "name": "250 p\u00e9tales",
       "url": "https://open.spotify.com/track/35ULGsZuPN1jSEPyU7WAnX"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
+        "name": "tu sais tout",
+        "url": "https://open.spotify.com/album/3ChIEosAciQbGuVRgkw6gV"
+      },
+      "artists": [
+        {
+          "name": "Lyes Kaci",
+          "url": "https://open.spotify.com/artist/59hJAQqagh8q3ERA9gXwkx"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "tu sais tout",
+      "url": "https://open.spotify.com/track/5h4Urd9vrHE4BbLsVth8sn"
     }
   ],
   "unique_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Juin 2026",

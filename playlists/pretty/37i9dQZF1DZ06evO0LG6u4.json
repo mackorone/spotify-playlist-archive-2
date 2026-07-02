@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akG1gAAAAACIaSAV3K8jXyj6PgSAcNoB",
+  "snapshot_id": "akMHAAAAAAC/2M8XYqOkipYzxRZALOQ0",
   "tracks": [
     {
       "added_at": null,
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 44700,
-      "name": "Son miroir",
-      "url": "https://open.spotify.com/track/4GltqtOOK8KxgORA00fHQo"
+      "duration_ms": 101362,
+      "name": "Le synth\u00e9tiseur",
+      "url": "https://open.spotify.com/track/0EzWzEVxEGekSR3E3T5cTh"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 101362,
-      "name": "Le synth\u00e9tiseur",
-      "url": "https://open.spotify.com/track/0EzWzEVxEGekSR3E3T5cTh"
+      "duration_ms": 44700,
+      "name": "Son miroir",
+      "url": "https://open.spotify.com/track/4GltqtOOK8KxgORA00fHQo"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 105400,
-      "name": "Mutation de l'oeuvre",
-      "url": "https://open.spotify.com/track/1nedFmpJF1Cnqu1QsOqbzu"
+      "duration_ms": 60524,
+      "name": "Sur Adnos 3",
+      "url": "https://open.spotify.com/track/5DYIgLCC1p2kLseAlrmTyh"
     }
   ],
   "unique_name": "This Is \u00c9liane Radigue",

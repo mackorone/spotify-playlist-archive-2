@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,964 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,969 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 19 | [WAHALA RIDDIM](https://open.spotify.com/track/6cDoUJQTi3yANsfEQRh2x8) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [WAHALA RIDDIM](https://open.spotify.com/album/0SciOReSTeXfZT3hTo59kO) | 3:22 |
 | 20 | [BORN WINNER](https://open.spotify.com/track/4ACkAjg9smuLvjskptzLgE) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW), [Joe Gez](https://open.spotify.com/artist/7qVQ6lpoxUeAW4QKafkW6z), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7) | [BORN WINNER](https://open.spotify.com/album/6V8vpu5MiLkOSLifAGfe2f) | 4:10 |
 | 21 | [In Da Jungle](https://open.spotify.com/track/1Dya7Lh8cLYg6t1q100xpY) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [In Da Jungle](https://open.spotify.com/album/6dplcmwBqhMrO1dKJw1qyz) | 2:44 |
-| 22 | [Out of Water](https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Out of Water](https://open.spotify.com/album/0FcGSA9Bcfl6NyDDgttT8f) | 3:27 |
-| 23 | [On Cam](https://open.spotify.com/track/6X0gxQVDV5foS61ukGYJzb) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [On Cam](https://open.spotify.com/album/60fRgIaM94Ua327WIZ3nhr) | 4:04 |
+| 22 | [On Cam](https://open.spotify.com/track/6X0gxQVDV5foS61ukGYJzb) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [On Cam](https://open.spotify.com/album/60fRgIaM94Ua327WIZ3nhr) | 4:04 |
+| 23 | [Out of Water](https://open.spotify.com/track/56qPZxW5bdrIu53dCIr48y) | [GUS](https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij) | [Out of Water](https://open.spotify.com/album/0FcGSA9Bcfl6NyDDgttT8f) | 3:27 |
 | 24 | [Multiplied](https://open.spotify.com/track/5ElEuV9r3cm5Ny7AX1HmBv) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Multiplied](https://open.spotify.com/album/1dSUYAnM09cURsfcPWjX0R) | 3:02 |
 | 25 | [Like Heaven](https://open.spotify.com/track/5pZGuhprytXKB7QRMul3jq) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Like Heaven](https://open.spotify.com/album/2f4vxEOlp1k8ZSffiROoHE) | 3:38 |
 | 26 | [Only The Good I Keep](https://open.spotify.com/track/4zbYQmI3s9tMTCdOVIZgOD) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Remember The Humans](https://open.spotify.com/album/6skQ2cM5dafp4UdvvN0Xf9) | 3:27 |
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 34 | [Dear baby,](https://open.spotify.com/track/4getiHbUAKavb2GD3YVVgF) | [PIAO](https://open.spotify.com/artist/3WRVVRVjdDenvXlJgs2WXb) | [Dear baby,](https://open.spotify.com/album/5Z2oSZrgdUAiL1njUZ8CbM) | 2:50 |
 | 35 | [Marathon](https://open.spotify.com/track/1YBzcUoJZthEfBvamvR7Y6) | [Burgundy](https://open.spotify.com/artist/6hkp7FR5xaFjMpMBxHWbpX) | [Marathon](https://open.spotify.com/album/2OsCTcjrqHmer0jxi2jilj) | 2:28 |
 | 36 | [THEO](https://open.spotify.com/track/4k1C99VNcTqtGgTJk8OMBt) | [k.alcordo](https://open.spotify.com/artist/4t8VuYPxKPp0iS9f2qjl3E) | [THEO](https://open.spotify.com/album/0Ia9aO3tQYbEWL9l4QERTv) | 2:56 |
-| 37 | [Little Boy](https://open.spotify.com/track/1xxgjvqq3jmyzDAYZ7xEUW) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Little Boy](https://open.spotify.com/album/6Qb2nkecGuW8cezFkA6IYy) | 3:38 |
-| 38 | [So Smart](https://open.spotify.com/track/5rV446j06aqas9T74HHBfE) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [So Smart](https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ) | 2:49 |
-| 39 | [Where Do You Want To Be?](https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Where Do You Want To Be?](https://open.spotify.com/album/5AMldJrAc2BWJxTNhbeoc6) | 4:53 |
-| 40 | [What You Say \- ft umru](https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [What You Say \(ft umru\)](https://open.spotify.com/album/264RHe2ivch3CdUQFhh9Gb) | 3:39 |
+| 37 | [So Smart](https://open.spotify.com/track/5rV446j06aqas9T74HHBfE) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [So Smart](https://open.spotify.com/album/2kiDQxItZBO8QSLZqH6euQ) | 2:49 |
+| 38 | [Little Boy](https://open.spotify.com/track/1xxgjvqq3jmyzDAYZ7xEUW) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [Little Boy](https://open.spotify.com/album/6Qb2nkecGuW8cezFkA6IYy) | 3:38 |
+| 39 | [What You Say \- ft umru](https://open.spotify.com/track/3BKxeAZVfa0b1xlWT68Aev) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx) | [What You Say \(ft umru\)](https://open.spotify.com/album/264RHe2ivch3CdUQFhh9Gb) | 3:39 |
+| 40 | [Where Do You Want To Be?](https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf) | [Rachel Bobbitt](https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC) | [Where Do You Want To Be?](https://open.spotify.com/album/5AMldJrAc2BWJxTNhbeoc6) | 4:53 |
 | 41 | [Who Do You Wanna Be](https://open.spotify.com/track/3iTwxZVmH5DoSIlFzlxvfL) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [Mercy on the Skyline](https://open.spotify.com/album/6apkwQWQydjuIaUnh8IE1s) | 3:42 |
 | 42 | [To Be Lost](https://open.spotify.com/track/05rBzLk023AtT5NnKplUiS) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [To Be Lost in a Dream](https://open.spotify.com/album/6aQQFR5r0EAfQIztJu5W3o) | 2:55 |
 | 43 | [dog eyed](https://open.spotify.com/track/5yv6DEzfnzdvIhqHgC5QTN) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [dog eyed](https://open.spotify.com/album/37t07kZf7Wo1OF8tVwKRYi) | 2:17 |

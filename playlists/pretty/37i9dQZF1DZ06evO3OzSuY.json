@@ -1,12 +1,12 @@
 {
   "description": "This is Zendaya. The essential tracks, all in one playlist.",
-  "num_followers": 25206,
+  "num_followers": 25208,
   "original_name": "This Is Zendaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akG1gAAAAACoXY9dKoDkqs5t18fz5ygq",
+  "snapshot_id": "akMHAAAAAABUlVz6qxIZkXEhfzTcxGf/",
   "tracks": [
     {
       "added_at": null,
@@ -191,6 +191,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Neverland",
+        "url": "https://open.spotify.com/album/6alQEMqbSAbkkfrfuLKRSo"
+      },
+      "artists": [
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Neverland",
+      "url": "https://open.spotify.com/track/654bpQLFU931tUdT7HHqu0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EUPHORIA SEASON 2 OFFICIAL SCORE (FROM THE HBO ORIGINAL SERIES)",
         "url": "https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 137142,
       "name": "Rue's I'm Tired (with Zendaya)",
       "url": "https://open.spotify.com/track/2zK87MbyKo6RRc520hbGAW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Neverland",
-        "url": "https://open.spotify.com/album/6alQEMqbSAbkkfrfuLKRSo"
-      },
-      "artists": [
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Neverland",
-      "url": "https://open.spotify.com/track/654bpQLFU931tUdT7HHqu0"
     },
     {
       "added_at": null,

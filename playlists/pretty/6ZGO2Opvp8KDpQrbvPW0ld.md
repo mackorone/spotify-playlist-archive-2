@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 73,572 likes - 350 songs - 11 hr 58 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 73,569 likes - 350 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Your Vibe](https://open.spotify.com/track/6j28jY5MmBEnokS9i3irIr) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Your Vibe](https://open.spotify.com/album/1eD9lTW6CovQPyM1bZGxDJ) | 2:02 |
 | 2 | [Velour](https://open.spotify.com/track/0WMKtlUQ982X3zgyC9qvxb) | [Bogomolove](https://open.spotify.com/artist/4atX5b3bmdb2p6S4uoN7kM) | [Velour](https://open.spotify.com/album/1vyHAY0rL9B39kZxedhYs3) | 1:56 |
 | 3 | [Submerged](https://open.spotify.com/track/7AfjgrMIkzCLT0J2Y5aqOR) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ) | [Submerged](https://open.spotify.com/album/7sPN5RaIQf038EsTNjXMUq) | 1:58 |
-| 4 | [KeepOn](https://open.spotify.com/track/3mCrKbcyB1ubLZCJDTRzeD) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk), [Bomshi](https://open.spotify.com/artist/6s7sxozM3KaMc1b6MKjAWz) | [KeepOn](https://open.spotify.com/album/5Bap6G0SfHcAO72ijtd4kM) | 1:35 |
-| 5 | [Beverly Hills](https://open.spotify.com/track/1Ue6TjWcqYRsCEJyiQtYW4) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [The Retune Project](https://open.spotify.com/artist/5KloCT8DPcEyXjwItppFQr) | [Beverly Hills](https://open.spotify.com/album/5nuu1KvwJWQzABS1nbbEMM) | 2:12 |
+| 4 | [Beverly Hills](https://open.spotify.com/track/1Ue6TjWcqYRsCEJyiQtYW4) | [Erwin Do](https://open.spotify.com/artist/4EUMzs3VfIVjB5yrHv153S), [Lenny B](https://open.spotify.com/artist/3PplCjTWQ2AbTboXJNCpSa), [The Retune Project](https://open.spotify.com/artist/5KloCT8DPcEyXjwItppFQr) | [Beverly Hills](https://open.spotify.com/album/5nuu1KvwJWQzABS1nbbEMM) | 2:12 |
+| 5 | [KeepOn](https://open.spotify.com/track/3mCrKbcyB1ubLZCJDTRzeD) | [BƱBBLE](https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk), [Bomshi](https://open.spotify.com/artist/6s7sxozM3KaMc1b6MKjAWz) | [KeepOn](https://open.spotify.com/album/5Bap6G0SfHcAO72ijtd4kM) | 1:35 |
 | 6 | [Kenrokuen](https://open.spotify.com/track/1s9uszyMoSfnX5eda9Ky0M) | [RejSende](https://open.spotify.com/artist/6VuJTb9pNKiBCcSlqBewpo) | [Kenrokuen](https://open.spotify.com/album/3IjPbZSYW5jJNTmGwXkido) | 1:41 |
 | 7 | [Colorful Roofs](https://open.spotify.com/track/0F3YeOnr3pFwXru1hTL6fX) | [JazzyHan](https://open.spotify.com/artist/1DSr1LDXAAmLgyWLEOeoIS), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [Soft Rise](https://open.spotify.com/album/1uX6bmjfYBUP2rIXKtOBfI) | 2:01 |
 | 8 | [Swish](https://open.spotify.com/track/29NsEJWiLl7enjAuZzYUbt) | [CMJ](https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG) | [Swish](https://open.spotify.com/album/0ovI3ZzvmusvZPbBANi9iD) | 2:17 |
@@ -359,4 +359,4 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 349 | [Rod's Theme](https://open.spotify.com/track/6TcyZc1eJeeDOXjqNXdir4) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Rod's Theme](https://open.spotify.com/album/7s1grrPN9BVuYfNyO3taYM) | 3:04 |
 | 350 | [Letter for Rod](https://open.spotify.com/track/2hOiKEe46CiFlHaSPRro0K) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [IzaBeats](https://open.spotify.com/artist/4DtFzX8vn47Rdc5c4fHcEk), [FaOut](https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V) | [Summer](https://open.spotify.com/album/6ydRwauwNu1Rp3csgxskeb) | 1:44 |
 
-Snapshot ID: `AAAJL2JgQ1riNKojc1K0utmpCoRvPZyj`
+Snapshot ID: `AAAJMAUiz3aQm87Sf8HRYLUjOa7Wxp3k`

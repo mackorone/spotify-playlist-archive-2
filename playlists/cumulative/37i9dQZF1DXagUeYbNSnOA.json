@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring MXKA. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Sofia Lafuente. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -882,6 +882,24 @@
       "duration_ms": 172920,
       "name": "53xo",
       "url": "https://open.spotify.com/track/25HG2547783ZYlLIOUw5n0"
+    },
+    {
+      "album": {
+        "name": "CASA X CASA",
+        "url": "https://open.spotify.com/album/5BaQwSF7nVYTPzoDtiGeEX"
+      },
+      "artists": [
+        {
+          "name": "Elia",
+          "url": "https://open.spotify.com/artist/77Yywnuagmv7UAdhALfhCA"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144768,
+      "name": "5JONES",
+      "url": "https://open.spotify.com/track/6od2V8fFRSLGmCEkrbasjT"
     },
     {
       "album": {
@@ -4705,6 +4723,24 @@
     },
     {
       "album": {
+        "name": "As\u00ed Soy Yo",
+        "url": "https://open.spotify.com/album/3MxJ56Kgr93QWm3pCZ9rJ0"
+      },
+      "artists": [
+        {
+          "name": "Quelle Rox",
+          "url": "https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171355,
+      "name": "As\u00ed Soy Yo",
+      "url": "https://open.spotify.com/track/2bHLy5hln1ndrh1MwsjHUc"
+    },
+    {
+      "album": {
         "name": "Atada",
         "url": "https://open.spotify.com/album/3iD9lxNOhl1Nmog56i3ULv"
       },
@@ -5912,7 +5948,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 172073,
       "name": "Barra Payan",
       "url": "https://open.spotify.com/track/3cdRDgp3swnjyrUQf4VybR"
@@ -9527,6 +9563,24 @@
     },
     {
       "album": {
+        "name": "como ser\u00eda",
+        "url": "https://open.spotify.com/album/0lmqLLmzslUlHAnfrJOo7o"
+      },
+      "artists": [
+        {
+          "name": "Sofia Lafuente",
+          "url": "https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186766,
+      "name": "como ser\u00eda",
+      "url": "https://open.spotify.com/track/4tSPv1PJbvixeyJA3ULO0O"
+    },
+    {
+      "album": {
         "name": "COMO T\u00da",
         "url": "https://open.spotify.com/album/7KY5xK6kE0xpUE4ZEYebSx"
       },
@@ -10028,7 +10082,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 207652,
       "name": "Control Remoto",
       "url": "https://open.spotify.com/track/6Y7ZyDKzOVOaowCYDWGxoh"
@@ -11136,7 +11190,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 158285,
       "name": "cuLE viaJE",
       "url": "https://open.spotify.com/track/2YUmcV436nJ7zIbbbZlZp0"
@@ -18631,6 +18685,24 @@
     },
     {
       "album": {
+        "name": "Falta Por Vivir",
+        "url": "https://open.spotify.com/album/3tnPfi8LJwFAajmS0QMT6H"
+      },
+      "artists": [
+        {
+          "name": "Teo",
+          "url": "https://open.spotify.com/artist/4bv5cRKu2eAjm1mGDPGkeq"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224284,
+      "name": "Falta Por Vivir",
+      "url": "https://open.spotify.com/track/6un269HzjfCh3dtOFlmAoX"
+    },
+    {
+      "album": {
         "name": "Fandango Fr\u00edo",
         "url": "https://open.spotify.com/album/4wwAcEEWUtA0XxfpOC6q75"
       },
@@ -20134,6 +20206,24 @@
       "duration_ms": 105562,
       "name": "GIGANTES",
       "url": "https://open.spotify.com/track/27irDjqRkHwgbefte9VDss"
+    },
+    {
+      "album": {
+        "name": "GIGI",
+        "url": "https://open.spotify.com/album/2WbZtXIyhex6cTVq9wcD7R"
+      },
+      "artists": [
+        {
+          "name": "NEZZA",
+          "url": "https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129706,
+      "name": "GIGI",
+      "url": "https://open.spotify.com/track/4f0jNud3NTchYGJS17WYCY"
     },
     {
       "album": {
@@ -23452,6 +23542,24 @@
       "duration_ms": 135370,
       "name": "La Cumbia Del Cucuy",
       "url": "https://open.spotify.com/track/2h8gDfMuXDxvJy5R0MGR5L"
+    },
+    {
+      "album": {
+        "name": "La Danza del Despertar",
+        "url": "https://open.spotify.com/album/5ibKQoGqYZYqoea1ZSRICQ"
+      },
+      "artists": [
+        {
+          "name": "VAL\u00c9",
+          "url": "https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200470,
+      "name": "La Danza del Despertar",
+      "url": "https://open.spotify.com/track/3OjgYnIHpZQpE6qaoIFypC"
     },
     {
       "album": {
@@ -30790,7 +30898,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 169500,
       "name": "Montana",
       "url": "https://open.spotify.com/track/03KZMwVbWkto3cqV1g5wf8"
@@ -33462,7 +33570,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 175773,
       "name": "NO PARA",
       "url": "https://open.spotify.com/track/2snV0xKwCvi12Cllb5M1lB"
@@ -33842,7 +33950,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 139498,
       "name": "No Te Ama Igual",
       "url": "https://open.spotify.com/track/1vWLG9q0HSI9wxaSodyfhu"
@@ -34664,6 +34772,24 @@
       "duration_ms": 170848,
       "name": "Nuestro Vuelo",
       "url": "https://open.spotify.com/track/0P3ABqtwEYh7mHstHzDBnA"
+    },
+    {
+      "album": {
+        "name": "Canciones del R\u00edo",
+        "url": "https://open.spotify.com/album/2dJbcky0oG63lOXAxgeOsB"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235898,
+      "name": "Nueva Canci\u00f3n",
+      "url": "https://open.spotify.com/track/7EZzmKbCbfCiEqA6R9Scy9"
     },
     {
       "album": {
@@ -43700,7 +43826,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 147169,
       "name": "Sola Esta",
       "url": "https://open.spotify.com/track/5HQlVdA27m9XIYoEWdwaTu"
@@ -48078,7 +48204,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 136313,
       "name": "Triste en Febrero",
       "url": "https://open.spotify.com/track/0T5s7FtDLEfoxcdMTW1LzC"
@@ -50624,6 +50750,24 @@
       "duration_ms": 168038,
       "name": "Videocall (feat. Billy Miamor)",
       "url": "https://open.spotify.com/track/7vXGund4Dd89TqBEpW15r1"
+    },
+    {
+      "album": {
+        "name": "Viene el viento",
+        "url": "https://open.spotify.com/album/0kkFEgLYkYF6yCpm88rJWd"
+      },
+      "artists": [
+        {
+          "name": "Diles que no me maten",
+          "url": "https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "Viene el viento",
+      "url": "https://open.spotify.com/track/12jGaAGvNUCNx2EPX3L7tl"
     },
     {
       "album": {

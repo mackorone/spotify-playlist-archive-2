@@ -2,7 +2,7 @@
 
 ### [New Grass](https://open.spotify.com/playlist/37i9dQZF1DWZFZauB74Yho)
 
-> The latest releases from bluegrass and string bands alike\. Cover: Matt Combs
+> The latest releases from bluegrass and string bands alike\. Cover: Steep Canyon Rangers
 
 512 songs - 1 day 6 hr 12 min
 

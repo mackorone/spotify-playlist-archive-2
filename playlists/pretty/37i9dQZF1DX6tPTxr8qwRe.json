@@ -1,12 +1,12 @@
 {
   "description": "sweet. sharp. unbothered - Bella Poarch on the cover",
-  "num_followers": 524639,
+  "num_followers": 524628,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJVT7OwYSKfwzcytkpE+/ytCyOR5",
+  "snapshot_id": "AAAAAFNFQRu/AsN4mAD28RCSW5Fqq+wR",
   "tracks": [
     {
       "added_at": "2026-06-26 04:00:35",
@@ -23,6 +23,26 @@
       "duration_ms": 149869,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/3iecnkddipTVKwQdxz41FW"
+    },
+    {
+      "added_at": "2026-07-01 18:49:47",
+      "album": {
+        "name": "My Girlfriend (feat. Ella Boh)",
+        "url": "https://open.spotify.com/album/0LdmbaBWeZ4Z4u5eWjv1uY"
+      },
+      "artists": [
+        {
+          "name": "Henry Morris",
+          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+        },
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 134500,
+      "name": "My Girlfriend (feat. Ella Boh)",
+      "url": "https://open.spotify.com/track/27xprsAJJYC2U02zKog81S"
     },
     {
       "added_at": "2026-06-26 04:00:35",
@@ -671,22 +691,6 @@
       "duration_ms": 135758,
       "name": "Girls Are So Lucky",
       "url": "https://open.spotify.com/track/1iyDMAsVPrn25iGiqjI9Ev"
-    },
-    {
-      "added_at": "2026-04-03 04:02:22",
-      "album": {
-        "name": "STARLET",
-        "url": "https://open.spotify.com/album/7jG25C6PpgXzeZsXfyN47R"
-      },
-      "artists": [
-        {
-          "name": "Ella Boh",
-          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
-        }
-      ],
-      "duration_ms": 159048,
-      "name": "STARLET",
-      "url": "https://open.spotify.com/track/7fRaZXWjyVuJX9vkzGv0Dw"
     },
     {
       "added_at": "2026-04-10 04:39:40",

@@ -1,6 +1,6 @@
 {
   "description": "Music that means it. Cover: overpass",
-  "num_followers": 131281,
+  "num_followers": 131290,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Hurracane",
-        "url": "https://open.spotify.com/album/5Uu9Eec9z4kkB0lQhthSP4"
-      },
-      "artists": [
-        {
-          "name": "DMA'S",
-          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
-        }
-      ],
-      "duration_ms": 185572,
-      "name": "Hurracane",
-      "url": "https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "Meet Me In Love",
         "url": "https://open.spotify.com/album/1dG3C2nPstMJcrrtvZGJyM"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 242248,
       "name": "Meet Me In Love",
       "url": "https://open.spotify.com/track/0aYpbEZJGOpG8KLLqGkT3q"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
+        "name": "Hurracane",
+        "url": "https://open.spotify.com/album/5Uu9Eec9z4kkB0lQhthSP4"
+      },
+      "artists": [
+        {
+          "name": "DMA'S",
+          "url": "https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4"
+        }
+      ],
+      "duration_ms": 185572,
+      "name": "Hurracane",
+      "url": "https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Thorn",
-        "url": "https://open.spotify.com/album/7Mhz23360G2NPtM8mTla3W"
-      },
-      "artists": [
-        {
-          "name": "Keo",
-          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "Thorn",
-      "url": "https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "Gary",
         "url": "https://open.spotify.com/album/7xFJr8gwGjiWzyKV39882t"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 150005,
       "name": "Gary",
       "url": "https://open.spotify.com/track/59EKMmwwDJxtEw6EjMVeaT"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
+        "name": "Thorn",
+        "url": "https://open.spotify.com/album/7Mhz23360G2NPtM8mTla3W"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "Thorn",
+      "url": "https://open.spotify.com/track/3n84Ht1sQY1kaChBAJn5XN"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Rushmere",
-        "url": "https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "Rushmere",
-      "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "C\u2019MON YOU KNOW (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7IpAa9HvutfL3LsDsgluqY"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 204543,
       "name": "Diamond In The Dark",
       "url": "https://open.spotify.com/track/6cWSuPDQT56oPVqWSsNSee"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
+        "name": "Rushmere",
+        "url": "https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -975,8 +975,8 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "So Much Country \u2018Till We Get There",
-        "url": "https://open.spotify.com/album/4MuiAPVifpJvdNQIckM9uo"
+        "name": "Can\u2019t See",
+        "url": "https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI"
       },
       "artists": [
         {
@@ -984,9 +984,9 @@
           "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
         }
       ],
-      "duration_ms": 144286,
-      "name": "The Wahs",
-      "url": "https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE"
+      "duration_ms": 146127,
+      "name": "Can't See",
+      "url": "https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -1055,8 +1055,8 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Can\u2019t See",
-        "url": "https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI"
+        "name": "So Much Country \u2018Till We Get There",
+        "url": "https://open.spotify.com/album/4MuiAPVifpJvdNQIckM9uo"
       },
       "artists": [
         {
@@ -1064,9 +1064,9 @@
           "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
         }
       ],
-      "duration_ms": 146127,
-      "name": "Can't See",
-      "url": "https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU"
+      "duration_ms": 144286,
+      "name": "The Wahs",
+      "url": "https://open.spotify.com/track/40djaMcmyN9swAusjs4dvE"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Big Swimmer",
-        "url": "https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc"
-      },
-      "artists": [
-        {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
-        }
-      ],
-      "duration_ms": 202048,
-      "name": "New York, Let's Do Nothing",
-      "url": "https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
         "name": "Here's The Thing",
         "url": "https://open.spotify.com/album/63MATGJoOix8OypoCqnJga"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 163412,
       "name": "Here's The Thing",
       "url": "https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
+        "name": "Big Swimmer",
+        "url": "https://open.spotify.com/album/18wXW5b7h2McAdCxLRlZXc"
+      },
+      "artists": [
+        {
+          "name": "King Hannah",
+          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
+        }
+      ],
+      "duration_ms": 202048,
+      "name": "New York, Let's Do Nothing",
+      "url": "https://open.spotify.com/track/43TN8zLpTz75TIvWSZ6cr3"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
+        "name": "Smitten",
+        "url": "https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 214245,
+      "name": "Glasgow",
+      "url": "https://open.spotify.com/track/0qP5Q8D4ya7h3EM3IKwJ3Y"
+    },
+    {
+      "added_at": "2026-06-18 23:00:53",
+      "album": {
         "name": "Breadline",
         "url": "https://open.spotify.com/album/0Oxox0LPqyimvSDEDz6te1"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 264266,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/7ddTjbmyWUAX3aVttgePhO"
-    },
-    {
-      "added_at": "2026-06-18 23:00:53",
-      "album": {
-        "name": "Smitten",
-        "url": "https://open.spotify.com/album/20L5ONbidQxNKj0yMP1mWO"
-      },
-      "artists": [
-        {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
-        }
-      ],
-      "duration_ms": 214245,
-      "name": "Glasgow",
-      "url": "https://open.spotify.com/track/0qP5Q8D4ya7h3EM3IKwJ3Y"
     },
     {
       "added_at": "2026-06-18 23:00:53",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2026-06-18 23:00:53",
       "album": {
-        "name": "Mind Metro",
-        "url": "https://open.spotify.com/album/0y6PAKbgkGhPBsMwgJnYD2"
+        "name": "Can't Say No",
+        "url": "https://open.spotify.com/album/0eXqzpHZp49CthfRA4ggtN"
       },
       "artists": [
         {
-          "name": "The Cheap Thrills",
-          "url": "https://open.spotify.com/artist/7Jsx5mYnjBs9G7bkq1JLVz"
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
         }
       ],
-      "duration_ms": 232197,
-      "name": "Calypso Blue",
-      "url": "https://open.spotify.com/track/1QzEHPk9Aep6lmKzgLUjPt"
+      "duration_ms": 192706,
+      "name": "Can't Say No",
+      "url": "https://open.spotify.com/track/2fzc6So1P2MYJ2YtokLgLU"
     }
   ],
   "unique_name": "Proper Belters",

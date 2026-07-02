@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Explore the current wave of VOCALOID culture. Cover: MIMI",
+  "description": "Explore the current wave of VOCALOID culture. Cover: Hiiragi Magnetite",
   "name": "VOCALOID now",
   "tracks": [
     {
@@ -1190,6 +1190,28 @@
       "duration_ms": 186164,
       "name": "Dinner Bell",
       "url": "https://open.spotify.com/track/4R4HYbhg9yBcHKX9yKvVK3"
+    },
+    {
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/2wKnaPatmLAYiuaACTnKBi"
+      },
+      "artists": [
+        {
+          "name": "picco",
+          "url": "https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM"
+        },
+        {
+          "name": "Hachioji P",
+          "url": "https://open.spotify.com/artist/4TtpMS8RsX8vW64WOivJrb"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179461,
+      "name": "Dirty Look - Virtual Singer ver.",
+      "url": "https://open.spotify.com/track/1uUfTM7ZkUru441ODYzAq5"
     },
     {
       "album": {
@@ -3173,6 +3195,24 @@
     },
     {
       "album": {
+        "name": "PHD",
+        "url": "https://open.spotify.com/album/0lYPXoJzmGJxQefXCFbxH0"
+      },
+      "artists": [
+        {
+          "name": "\u67ca\u30de\u30b0\u30cd\u30bf\u30a4\u30c8",
+          "url": "https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "PHD",
+      "url": "https://open.spotify.com/track/2a8PoY4Bcbb2HVQR7MXu1k"
+    },
+    {
+      "album": {
         "name": "Philosophia",
         "url": "https://open.spotify.com/album/23vJKxqQjqOh0SP8NuF2m5"
       },
@@ -3232,6 +3272,28 @@
       "duration_ms": 202858,
       "name": "Please Play-Bite",
       "url": "https://open.spotify.com/track/0aCqK1p6zd3HsI4dLxOpny"
+    },
+    {
+      "album": {
+        "name": "POI (feat. HATSUNE MIKU)",
+        "url": "https://open.spotify.com/album/1VpU9SyavlMoQCQLQd5hkq"
+      },
+      "artists": [
+        {
+          "name": "\u96e8\u826f Amala",
+          "url": "https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175706,
+      "name": "POI (feat. HATSUNE MIKU)",
+      "url": "https://open.spotify.com/track/23NIwfnFQZhzKn0BmokQ37"
     },
     {
       "album": {
@@ -3362,7 +3424,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 141882,
       "name": "QUEEN",
       "url": "https://open.spotify.com/track/4KXEPamxxfzDLG7Qv1eS4j"
@@ -6276,7 +6338,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 138533,
       "name": "\u30aa\u30fc\u30d0\u30fc\u30e9\u30a4\u30c9",
       "url": "https://open.spotify.com/track/6HznFPNdvbxgzm5jJyNlwp"
@@ -10206,7 +10268,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 230000,
       "name": "\u30ed\u30a6\u30ef\u30fc",
       "url": "https://open.spotify.com/track/3eIGW5DUVP5zkGFXZSZQ6o"

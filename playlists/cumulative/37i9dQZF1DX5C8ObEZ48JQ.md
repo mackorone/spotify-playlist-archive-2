@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU?si=pYzDLQ6TQcC7k9KHtL4uAw">Rorisang Sechele</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1AALbjlavmdWKN8J1CLsMF?si=p40mh03ZQUWbRcYGVfCs\-A">Jiggy Stapes</a>\. Artwork: Isu Kim.
 
 1,485 songs - 3 day 2 hr 13 min
 

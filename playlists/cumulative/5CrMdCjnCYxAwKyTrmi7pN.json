@@ -4691,6 +4691,24 @@
     },
     {
       "album": {
+        "name": "Ramenez la coupe \u00e0 la maison",
+        "url": "https://open.spotify.com/album/0Dzpgp18I60Bmgdv8IOaxv"
+      },
+      "artists": [
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235555,
+      "name": "Ramenez la coupe \u00e0 la maison",
+      "url": "https://open.spotify.com/track/45eY7Qi2PDUs8WJEhjGWdN"
+    },
+    {
+      "album": {
         "name": "Reclusive",
         "url": "https://open.spotify.com/album/4zTUF5mYmlnNxIw0imKYbz"
       },

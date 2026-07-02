@@ -1,6 +1,6 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 386360,
+  "num_followers": 386374,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-07-05 21:33:59",
       "album": {
-        "name": "Down and Out in the Garden of Earthly Delights",
-        "url": "https://open.spotify.com/album/7JQc4yfzKlnznKY4glZXkY"
-      },
-      "artists": [
-        {
-          "name": "Geographer",
-          "url": "https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ"
-        }
-      ],
-      "duration_ms": 141302,
-      "name": "Lost in a Love Song",
-      "url": "https://open.spotify.com/track/5o985l6Hc9GzkOx3gyF0Me"
-    },
-    {
-      "added_at": "2024-07-05 21:33:59",
-      "album": {
         "name": "Beggars & Ballers (feat. Jay Nash, Tony Lucca & Matt Duke)",
         "url": "https://open.spotify.com/album/48j9hWlUBaUGBDvL9mUt34"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 197186,
       "name": "Maybe I Should Go (feat. Jay Nash, Tony Lucca & Matt Duke)",
       "url": "https://open.spotify.com/track/59sMueQV9xmGFYbhsm9tS3"
+    },
+    {
+      "added_at": "2024-07-05 21:33:59",
+      "album": {
+        "name": "Down and Out in the Garden of Earthly Delights",
+        "url": "https://open.spotify.com/album/7JQc4yfzKlnznKY4glZXkY"
+      },
+      "artists": [
+        {
+          "name": "Geographer",
+          "url": "https://open.spotify.com/artist/5vvvgOwPjA4R5t07ZXLLwZ"
+        }
+      ],
+      "duration_ms": 141302,
+      "name": "Lost in a Love Song",
+      "url": "https://open.spotify.com/track/5o985l6Hc9GzkOx3gyF0Me"
     },
     {
       "added_at": "2024-07-05 21:33:59",

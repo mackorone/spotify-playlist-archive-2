@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7q0jvGbuDLsmGvaRCU7F00">Maegan Cottone</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295 likes - 122 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 296 likes - 121 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,14 +121,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 | 111 | [HURRICANE](https://open.spotify.com/track/088GeGy2QfyoWgBfgrRpFp) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [KODA KUMI LIVE TOUR 2017 \- W FACE \- SET LIST](https://open.spotify.com/album/6FIO79gjWLirSuIdZX1Cpm) | 3:57 |
 | 112 | [Imma Do My Thang](https://open.spotify.com/track/4ka9EJZL9s9xeq7TagAbU3) | [Misunderstood](https://open.spotify.com/artist/4WYL3FlpuOq1TPtVu8rA1G) | [Sucker / Imma Do My Thang](https://open.spotify.com/album/2VNqLVCqxcCQpDokaUuBpC) | 1:32 |
 | 113 | [Mercedes](https://open.spotify.com/track/0kfY0oZBLuvIZz5ccq8khh) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [WALK OF MY LIFE](https://open.spotify.com/album/74m4nnIEJqwiBD3Lv6f4Xt) | 2:54 |
-| 114 | [We Move](https://open.spotify.com/track/3nbZeBRz4WrMfUYnMC7zfu) | [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Motives EP](https://open.spotify.com/album/5uFXdSACvo7bFtuQUJGKaJ) | 3:00 |
-| 115 | [Can't Keep Falling \- Cahill Remix](https://open.spotify.com/track/2cNpuSyrs3Xj8xcez7nJ9I) | [LINA](https://open.spotify.com/artist/3M6COMBYK5JaO3POHOOH2h), [Cahill](https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm) | [Can't Keep Falling \(Cahill Remix\)](https://open.spotify.com/album/1ZGPAQPJX0I57C299b51Tr) | 4:52 |
-| 116 | [Home](https://open.spotify.com/track/1ANk6cyLDTVOaiLYmFqUxB) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [NJ 123](https://open.spotify.com/album/0x3Fk82RxdweIktxJQV0po) | 3:26 |
-| 117 | [No Good \- Extended](https://open.spotify.com/track/2XlkRc6DSoaDWChGdA79vf) | [Alex Sonata](https://open.spotify.com/artist/2EEHLxTyGIpu6u3QvC3LCG), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [No Good](https://open.spotify.com/album/7xlh1x3T6o5Z49tng39dC6) | 6:49 |
-| 118 | [Who Are You? \- Original Mix](https://open.spotify.com/track/0UTynhWhWiBXqU067NvXTk) | [My](https://open.spotify.com/artist/4gbHXSnqXXsfjelZhTEmaR) | [Who Are You? EP](https://open.spotify.com/album/2v02YI74wpBZJdXJ6cZz3V) | 4:19 |
-| 119 | [Fix Of You](https://open.spotify.com/track/0jxEJUIPXFv0W2RP4AAlY6) | [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Fix Of You](https://open.spotify.com/album/0GPRAOeQbzCb9MpUwDTXyJ) | 3:33 |
-| 120 | [All My People \- 中文版](https://open.spotify.com/track/3Ta0Hnlvfbxnem4IIppvGf) | [许馨文](https://open.spotify.com/artist/0Jvi0y59ruUoFx588uY6SV) | [ALL MY PEOPLE](https://open.spotify.com/album/1fJ3CHMlfIi7x52GoS08pV) | 3:46 |
-| 121 | [The Greatest \- Vocal Mix](https://open.spotify.com/track/1lEeOgUqCTAYK9rBA3gPBc) | [Mell Tierra](https://open.spotify.com/artist/0mRnzQ57yTuNxmAQWqKzYO), [Maegan Cottone](https://open.spotify.com/artist/3d8BRJdkVQMFmdRu2eR3yg) | [The Greatest](https://open.spotify.com/album/6ssf0Pv7erh4z26k7Iu2Tl) | 5:37 |
-| 122 | [Girls \- Radio Edit](https://open.spotify.com/track/4R87R0NWr7o6kE7lYqRi6p) | [Yves Larock & Tony Sylla](https://open.spotify.com/artist/1hbYJOKyrqE7h6nxPlBpZu), [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Girls \(Radio Edit\)](https://open.spotify.com/album/6Fc4SUyyITx6ZWy9v9p2Qc) | 3:25 |
+| 114 | [Can't Keep Falling \- Cahill Remix](https://open.spotify.com/track/2cNpuSyrs3Xj8xcez7nJ9I) | [LINA](https://open.spotify.com/artist/3M6COMBYK5JaO3POHOOH2h), [Cahill](https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm) | [Can't Keep Falling \(Cahill Remix\)](https://open.spotify.com/album/1ZGPAQPJX0I57C299b51Tr) | 4:52 |
+| 115 | [Home](https://open.spotify.com/track/1ANk6cyLDTVOaiLYmFqUxB) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [NJ 123](https://open.spotify.com/album/0x3Fk82RxdweIktxJQV0po) | 3:26 |
+| 116 | [No Good \- Extended](https://open.spotify.com/track/2XlkRc6DSoaDWChGdA79vf) | [Alex Sonata](https://open.spotify.com/artist/2EEHLxTyGIpu6u3QvC3LCG), [Raphaella](https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0) | [No Good](https://open.spotify.com/album/7xlh1x3T6o5Z49tng39dC6) | 6:49 |
+| 117 | [Who Are You? \- Original Mix](https://open.spotify.com/track/0UTynhWhWiBXqU067NvXTk) | [My](https://open.spotify.com/artist/4gbHXSnqXXsfjelZhTEmaR) | [Who Are You? EP](https://open.spotify.com/album/2v02YI74wpBZJdXJ6cZz3V) | 4:19 |
+| 118 | [Fix Of You](https://open.spotify.com/track/0jxEJUIPXFv0W2RP4AAlY6) | [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Fix Of You](https://open.spotify.com/album/0GPRAOeQbzCb9MpUwDTXyJ) | 3:33 |
+| 119 | [All My People \- 中文版](https://open.spotify.com/track/3Ta0Hnlvfbxnem4IIppvGf) | [许馨文](https://open.spotify.com/artist/0Jvi0y59ruUoFx588uY6SV) | [ALL MY PEOPLE](https://open.spotify.com/album/1fJ3CHMlfIi7x52GoS08pV) | 3:46 |
+| 120 | [The Greatest \- Vocal Mix](https://open.spotify.com/track/1lEeOgUqCTAYK9rBA3gPBc) | [Mell Tierra](https://open.spotify.com/artist/0mRnzQ57yTuNxmAQWqKzYO), [Maegan Cottone](https://open.spotify.com/artist/3d8BRJdkVQMFmdRu2eR3yg) | [The Greatest](https://open.spotify.com/album/6ssf0Pv7erh4z26k7Iu2Tl) | 5:37 |
+| 121 | [Girls \- Radio Edit](https://open.spotify.com/track/4R87R0NWr7o6kE7lYqRi6p) | [Yves Larock & Tony Sylla](https://open.spotify.com/artist/1hbYJOKyrqE7h6nxPlBpZu), [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Girls \(Radio Edit\)](https://open.spotify.com/album/6Fc4SUyyITx6ZWy9v9p2Qc) | 3:25 |
 
-Snapshot ID: `AcVoxgAAAACIX2PQARt91+32trXliDoc`
+Snapshot ID: `AcVuhAAAAAB9cjwzNkRSQ8iTImLyQd/z`

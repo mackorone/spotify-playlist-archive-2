@@ -4,7 +4,7 @@
 
 > 
 
-257 songs - 13 hr 31 min
+258 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,6 +145,7 @@
 | [Lisa](https://open.spotify.com/track/04iAtfM5oQS6wvrido4xDY) | [BEVIxPlanett](https://open.spotify.com/artist/0QgxDZ9yAoGgSRfxipFOtM) | [Lisa](https://open.spotify.com/album/0p6GGF380E8EIMoBEeNcBs) | 2:37 | 2026-01-18 |  |
 | [Looking For Someone Else](https://open.spotify.com/track/1utWfzvkT6PKtaX2Bgtr3t) | [Yudiee](https://open.spotify.com/artist/0dNbGpKbJIlqywH7WOeBZi) | [Looking For Someone Else](https://open.spotify.com/album/1ZrVlTdpWzSJtUFSr78Smy) | 2:42 | 2025-03-12 |  |
 | [Love Aside](https://open.spotify.com/track/04P00jBNn198CWuLm0TSgb) | [Porcelain People](https://open.spotify.com/artist/6v9XtT9VXOY2003I5f8amB) | [Love Aside](https://open.spotify.com/album/3WQJCq2gk6DoRdwaWGJmQU) | 3:35 | 2025-04-07 |  |
+| [MAJJIK CAT EARS](https://open.spotify.com/track/0fNuqRQWwAnLMndmWFtjlq) | [Screaming Lord Byron](https://open.spotify.com/artist/3o2K8R7odtpShOCa08g5Hk) | [MAJJIK CAT EARS](https://open.spotify.com/album/0UvSfg6f8TuwkNC3jjU2aN) | 5:32 | 2026-07-01 |  |
 | [Me Confundes](https://open.spotify.com/track/3p4zlX5oex6W0FhAWgl9gr) | [Draxess](https://open.spotify.com/artist/31eiTFPa3SmEug6EbLH3d3) | [Me Confundes](https://open.spotify.com/album/512JlbUPseSvuO0ZiKj9GR) | 2:04 | 2026-06-19 |  |
 | [Me Piden Reggaeton](https://open.spotify.com/track/3n6TRgeHQXEgx0PCL5GVWH) | [Big Puffah](https://open.spotify.com/artist/6N12UNHqDV4FRVELXkz6Tw) | [Me Piden Reggaeton](https://open.spotify.com/album/1GHvESbUF8VDfXEB71q8kH) | 2:37 | 2026-03-12 |  |
 | [MEET U AT THE TOP](https://open.spotify.com/track/1Fb3OYey2JClP5kKei8B7m) | [Whimzi](https://open.spotify.com/artist/7reGlLkLSVxJe3OUjyjqPh) | [THE CODE](https://open.spotify.com/album/1tPBYF7xveQtDPE9DJBqTe) | 2:28 | 2025-09-15 |  |

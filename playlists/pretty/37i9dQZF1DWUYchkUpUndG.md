@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Joe Mettle
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,187 likes - 106 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,210 likes - 106 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 10 | [Faithful](https://open.spotify.com/track/1hltOjT8EEq1FX0Y8NYCQI) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Faithful](https://open.spotify.com/album/6QVYThtAZSWJuGRIBY8mhB) | 9:46 |
 | 11 | [Kadosh \[Holy One\]](https://open.spotify.com/track/6XSvD90syUwTGVCF1vkvao) | [B Jazz](https://open.spotify.com/artist/6dK4RRKNrcATMmMySMmU5d), [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Kadosh \[Holy One\]](https://open.spotify.com/album/2gMQXWtx6d88FhEvfyGNhy) | 8:40 |
 | 12 | [Holy One](https://open.spotify.com/track/6aCKeSV8rzDNZhsJW4pPf5) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j), [Wizoflow](https://open.spotify.com/artist/33fzfv0UG832pny13o3V5f), [Pius Adeniji](https://open.spotify.com/artist/1iFnEAh4JAMnE1Q4aooMPs) | [Holy One](https://open.spotify.com/album/18ZZrRCfNawXtkEfZw42Rt) | 3:00 |
-| 13 | [He Is Here](https://open.spotify.com/track/71WaxrZwN86EY4oZr2Z8pm) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Ibukun](https://open.spotify.com/artist/1JcySGJuBH1NiNXOCRnY51) | [He Is Here](https://open.spotify.com/album/6pzbXY00MdrbtrOywFw7SQ) | 9:00 |
+| 13 | [He Is Here](https://open.spotify.com/track/71WaxrZwN86EY4oZr2Z8pm) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Ibukun](https://open.spotify.com/artist/1JcySGJuBH1NiNXOCRnY51), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [He Is Here](https://open.spotify.com/album/6pzbXY00MdrbtrOywFw7SQ) | 9:00 |
 | 14 | [Alamo](https://open.spotify.com/track/1VwBmiKqmPE4m6HB7Ac21W) | [Diamond Jimma](https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf) | [Alamo](https://open.spotify.com/album/0dazi11LhsqZe3Q4lWvEsV) | 3:08 |
 | 15 | [Ikeze](https://open.spotify.com/track/0eVhIi4ISZc04b2sAH3r5j) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [The Good Wine](https://open.spotify.com/artist/2FBwrTpnf1ALMhLW1EMsUj) | [Ikeze](https://open.spotify.com/album/6vPMxNFkNChotelcABKFpJ) | 1:46 |
 | 16 | [Everything and More](https://open.spotify.com/track/408CLcmZwaVlzuoBEpULEm) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Everything and More](https://open.spotify.com/album/2v9LxnOHTfIJXCW3nWd5Bn) | 2:35 |

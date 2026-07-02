@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. <a href="spotify:artist:4bt8JAxE4tksg2VBgMCvIe">NZIRIA</a> on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,540 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,557 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 49 | [Walk Away](https://open.spotify.com/track/5qVqO95bAKrSAXr7syJDA5) | [The Thinking Of The World Began Pounding In Our Ears The Moment We Hit Shore](https://open.spotify.com/artist/583rGXTlkvSQmtB2kKpfRW), [Florian T M Zeisig](https://open.spotify.com/artist/6ufIfvoo0cRpP8v0XAG6dv), [Róisín Berkeley](https://open.spotify.com/artist/4C6Sd5wUcSapvGV3sbZoCG), [Cal Fish](https://open.spotify.com/artist/1BeMy964YqmvTvsHtPdDwl), [K\. Francis Messer](https://open.spotify.com/artist/7oUoOBTfEgkgoHGsid1vN5) | [The Thinking Of The World Began Pounding In Our Ears The Moment We Hit Shore](https://open.spotify.com/album/2GlAK5ZGWlzIzvLv1XSIoZ) | 2:40 |
 | 50 | [Collide](https://open.spotify.com/track/1i7cSJkuP2CdOAKgSvJOCH) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV), [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Collide](https://open.spotify.com/album/6EzdNzxJF57dlgFa4VSKaz) | 3:25 |
 
-Snapshot ID: `AAAAACP0pFDN6/EGE2e3sNa1zPh75WMe`
+Snapshot ID: `AAAAAI5iUBIbCebXCoUsxWnJ30kpbLNc`

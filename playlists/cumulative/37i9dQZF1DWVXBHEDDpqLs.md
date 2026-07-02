@@ -4,7 +4,7 @@
 
 > the best underground club tracks for party criminals ⚔️ featuring Surusinghe ⚔️
 
-1,057 songs - 3 day 3 hr 52 min
+1,058 songs - 3 day 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Deep Inside Love \- Edit](https://open.spotify.com/track/2aZTZK0TiD44o5HyzKz9uE) | [CINTHIE](https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh) | [Deep Inside Love](https://open.spotify.com/album/2q8QCvf45Ti8KSBMJgpQNF) | 4:04 | 2025-04-18 | 2025-09-06 |
 | [Deepa](https://open.spotify.com/track/26FPlxK490XLZut2kvubMd) | [Piezo](https://open.spotify.com/artist/4vr49Ycb253qEyUuXnlYaM) | [Deepa](https://open.spotify.com/album/1g2X3Vgf8VbKypgL2UkHLF) | 6:26 | 2024-11-30 | 2025-01-19 |
 | [Deeper Type of Tech](https://open.spotify.com/track/6VTVU8vyVG6HXdjguUWAEw) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [UK Minimal Vol 1](https://open.spotify.com/album/3wX8edIjHRe29gNhQOaPWq) | 6:02 | 2025-10-17 | 2025-12-06 |
+| [Default Mode](https://open.spotify.com/track/6pkkVyRGtIEIIsYU253DxK) | [Nikki Nair](https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6) | [The Sick Dimension](https://open.spotify.com/album/2UIQEzb2pd4N9jveukNUmS) | 5:21 | 2026-06-25 |  |
 | [Defeat The Purpose](https://open.spotify.com/track/2lBwjt0XVKDk3EASttquiI) | [Kr!z](https://open.spotify.com/artist/4bVSJoHlXYbzdBrbgqbMxl) | [Ipso Facto](https://open.spotify.com/album/4tCzR6qaEZwTmasBOUh1vH) | 5:31 | 2025-03-24 | 2025-04-26 |
 | [DELETE](https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE) | [Jubilee](https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK) | [DELETE](https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6) | 6:16 | 2023-05-26 | 2024-07-13 |
 | [Deliver](https://open.spotify.com/track/0M2anbL4SH9kiWvEyTGzGJ) | [FHAT](https://open.spotify.com/artist/6ltQmR519qfdWeirSIzCV8), [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Deliver](https://open.spotify.com/album/4n8WFWykGXGPBqOsSY20gR) | 2:06 | 2021-12-10 | 2024-07-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 280 likes - 4,552 songs - 10 day 3 hr 31 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,556 songs - 10 day 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4560,5 +4560,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4550 | [In a Room](https://open.spotify.com/track/3qYp9cawHGwLqJdpnayztC) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [In a Room](https://open.spotify.com/album/0hrL4GILIgeWKuFlmgY9me) | 3:46 |
 | 4551 | [God's Englishman](https://open.spotify.com/track/1w7zrLqJafMrDIcRRQ8cJt) | [Joynes](https://open.spotify.com/artist/2ttk1u6cLmHeTaBrqw56QF) | [God's Englishman](https://open.spotify.com/album/2Grhxbd8aiYs1T2Lj7HIoe) | 3:41 |
 | 4552 | [Coming Alive](https://open.spotify.com/track/1BlAD4WwEs6zNx2fkhp2O6) | [Dance Commander](https://open.spotify.com/artist/6FV1UNy1YQ5dCZWgtv6LEl) | [Coming Alive](https://open.spotify.com/album/3m87sHp8KkCCRJSXJIcLAe) | 3:13 |
+| 4553 | [KosmoX](https://open.spotify.com/track/2aAvcHW1JVydWSFmhjjyK7) | [Baïki](https://open.spotify.com/artist/6DlGStNJwKhJuqs0TXiDHB) | [KosmoX](https://open.spotify.com/album/4B6Ni6w8HDcSY1PGuxSQXw) | 3:29 |
+| 4554 | [Want](https://open.spotify.com/track/6HPqzgtJtCVTyxfadXusPZ) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:21 |
+| 4555 | [Eternamente](https://open.spotify.com/track/6WsVGrldsAKOhXU53kd808) | [Mc Kno](https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk), [beats weedbrela](https://open.spotify.com/artist/7GZaDg6n6mAl9otSuuhUOX), [Freeman Rap](https://open.spotify.com/artist/5NlFf7NZfSwNZL9UOKtqR0), [EL MOCHO ELC](https://open.spotify.com/artist/4N2t6ALevyPCB1ZwvbYTFM) | [Eternamente](https://open.spotify.com/album/55OwZJvPyn1iWF5UWQlRQW) | 3:30 |
+| 4556 | [In a Room](https://open.spotify.com/track/3qYp9cawHGwLqJdpnayztC) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [In a Room](https://open.spotify.com/album/0hrL4GILIgeWKuFlmgY9me) | 3:46 |
 
-Snapshot ID: `AAAJAd53LM6V54FNf+TrSuWhPdtqG+GM`
+Snapshot ID: `AAAJBR3FopArTap44OgjQxuNinqmaimn`

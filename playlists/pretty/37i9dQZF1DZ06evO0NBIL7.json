@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akG1gAAAAAC4R/wA6dK3NSL2/Xo2PULd",
+  "snapshot_id": "akMHAAAAAAAkUn/an76W4Qt0qyBhHzz4",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fangclub",
-        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 204186,
-      "name": "Role Models",
-      "url": "https://open.spotify.com/track/5dDguee73zfJMY9zmG0euw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "all good",
         "url": "https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 190560,
       "name": "You Had Me At Hello",
       "url": "https://open.spotify.com/track/1lIPBKk37wADzBJvC3RB2D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fangclub",
+        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 204186,
+      "name": "Role Models",
+      "url": "https://open.spotify.com/track/5dDguee73zfJMY9zmG0euw"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fangclub",
-        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 267080,
-      "name": "Bad Words",
-      "url": "https://open.spotify.com/track/01lrUfvimjGgJTA4sat6kU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/5v2BvPmSkaLs5aSYadJ40q"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 241520,
       "name": "Sweater Forever",
       "url": "https://open.spotify.com/track/10YXcqDShIS3lewg8ldRw2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fangclub",
+        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 267080,
+      "name": "Bad Words",
+      "url": "https://open.spotify.com/track/01lrUfvimjGgJTA4sat6kU"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fangclub",
-        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 232680,
-      "name": "Better To Forget",
-      "url": "https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "all good",
         "url": "https://open.spotify.com/album/4F55MjyuidAYOgPVbf8oes"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 210729,
       "name": "Exit Oblivion",
       "url": "https://open.spotify.com/track/4ycb32qb4NCRIM9kNof98g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fangclub",
+        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 232680,
+      "name": "Better To Forget",
+      "url": "https://open.spotify.com/track/01V86NvJiv4c8yFqCWk4U3"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Champagne Problems",
-        "url": "https://open.spotify.com/album/6uqwdcrsbeMRG2HKc3ad2C"
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH"
       },
       "artists": [
         {
@@ -292,25 +292,9 @@
           "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
         }
       ],
-      "duration_ms": 288750,
-      "name": "Champagne Problems",
-      "url": "https://open.spotify.com/track/5DdDKguX6Bh1ZGWFWCV4Io"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fangclub",
-        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt"
+      "duration_ms": 251544,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb"
     },
     {
       "added_at": null,
@@ -331,38 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulture Culture",
-        "url": "https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 255198,
-      "name": "Black Rainbow",
-      "url": "https://open.spotify.com/track/1gtmQU62sEGfkPEbRf5XGj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/7hE5oYhRUricYUex3QE5NH"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 251544,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/7a97WHddocTnhagUJEfTFb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fangclub",
         "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
       },
@@ -379,6 +331,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vulture Culture",
+        "url": "https://open.spotify.com/album/7xM1rBcqR7CXC6cVelRRpe"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 255198,
+      "name": "Black Rainbow",
+      "url": "https://open.spotify.com/track/1gtmQU62sEGfkPEbRf5XGj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Champagne Problems",
+        "url": "https://open.spotify.com/album/6uqwdcrsbeMRG2HKc3ad2C"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 288750,
+      "name": "Champagne Problems",
+      "url": "https://open.spotify.com/track/5DdDKguX6Bh1ZGWFWCV4Io"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Half Life",
         "url": "https://open.spotify.com/album/1eWUfDObUGdJBwdXp0vT2r"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 169764,
       "name": "Half Life",
       "url": "https://open.spotify.com/track/07ALgj0iEgN4ut0xRoyly2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fangclub",
+        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/3C7J7Tm6F8XTnCeRMPMBNt"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fangclub",
-        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
-      },
-      "artists": [
-        {
-          "name": "Fangclub",
-          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "Loner",
-      "url": "https://open.spotify.com/track/14zaPsyRxGUtG5Dg7hJozL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bullet Head",
         "url": "https://open.spotify.com/album/4mAztvpmTbElHVxPovWSIG"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 163699,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/2FGDUtevCco1pUEzomho3z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fangclub",
+        "url": "https://open.spotify.com/album/7qAly8EOqcaG4xjSlH75f8"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "duration_ms": 241533,
+      "name": "Loner",
+      "url": "https://open.spotify.com/track/14zaPsyRxGUtG5Dg7hJozL"
     },
     {
       "added_at": null,

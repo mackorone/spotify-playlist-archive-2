@@ -485,6 +485,28 @@
     },
     {
       "album": {
+        "name": "Baahon Ke Darmiyaan (Wajah)",
+        "url": "https://open.spotify.com/album/57JLL57lX4tfpe2NrtXneE"
+      },
+      "artists": [
+        {
+          "name": "Outsky",
+          "url": "https://open.spotify.com/artist/6RXWOzECN3KD4QSr4V7dmg"
+        },
+        {
+          "name": "Jatin-Lalit",
+          "url": "https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151351,
+      "name": "Baahon Ke Darmiyaan (Wajah)",
+      "url": "https://open.spotify.com/track/2fhGCtTx5E7k2kYuKJITeV"
+    },
+    {
+      "album": {
         "name": "Khel Khel Mein",
         "url": "https://open.spotify.com/album/0Hemoi5TWUHafCUCzfjzm1"
       },
@@ -2757,6 +2779,36 @@
     },
     {
       "album": {
+        "name": "Ishq Kameena 2.0 (From \"Baby Do Die Do\")",
+        "url": "https://open.spotify.com/album/5bJKlwB9v2RIxk7Qicn7P9"
+      },
+      "artists": [
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Lijo George",
+          "url": "https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
+          "name": "Dee MC",
+          "url": "https://open.spotify.com/artist/21x3ja7RPjkjLoaJhQmw9C"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188144,
+      "name": "Ishq Kameena 2.0 (From \"Baby Do Die Do\")",
+      "url": "https://open.spotify.com/track/7qi9PyWVq0Rt0eaVdiS8hg"
+    },
+    {
+      "album": {
         "name": "Ishq Vishk Pyaar Vyaar (From \"Ishq Vishk Rebound\")",
         "url": "https://open.spotify.com/album/0qCGiv1K28SX0LQjxrF2ap"
       },
@@ -4392,7 +4444,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 197171,
       "name": "Pasoori Nu (From \"Satyaprem Ki Katha\")",
       "url": "https://open.spotify.com/track/6byRW2mzuc4nBTZ6TN6APu"
@@ -5250,7 +5302,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 226615,
       "name": "Sawan Mein Lag Gayi Aag",
       "url": "https://open.spotify.com/track/6oloWgrErtc8dG2WiV55gn"

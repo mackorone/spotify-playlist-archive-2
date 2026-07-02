@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Prompts",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Malina Scar",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -688,7 +688,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 142855,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/6Ub8tYCyi10nnkANDYTVFG"
@@ -1461,6 +1461,32 @@
     },
     {
       "album": {
+        "name": "Black Rose",
+        "url": "https://open.spotify.com/album/1IZ4lQbx5NxddgZ8SCOgZM"
+      },
+      "artists": [
+        {
+          "name": "The Frst",
+          "url": "https://open.spotify.com/artist/51pujOHRXZEQWnqgyUviVe"
+        },
+        {
+          "name": "Logan Ledger",
+          "url": "https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM"
+        },
+        {
+          "name": "Bodybox",
+          "url": "https://open.spotify.com/artist/0umvpzkCMoxVBy0IoNpN4Q"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213311,
+      "name": "Black Rose",
+      "url": "https://open.spotify.com/track/6fBk3Z3gIqxWjrbKVAcmtq"
+    },
+    {
+      "album": {
         "name": "Blackest Void",
         "url": "https://open.spotify.com/album/032nwCOt5yk51dfyzSIInq"
       },
@@ -2014,6 +2040,24 @@
       "duration_ms": 121887,
       "name": "BUILT DIFFERENT",
       "url": "https://open.spotify.com/track/4A6x4xysSZRxf5IUgENLLA"
+    },
+    {
+      "album": {
+        "name": "Built On Your Blood",
+        "url": "https://open.spotify.com/album/58hqgFgBfQ42iJzw6LUoHV"
+      },
+      "artists": [
+        {
+          "name": "Half Me",
+          "url": "https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Built On Your Blood",
+      "url": "https://open.spotify.com/track/3bOaPu8ITk0sY0zug2YsbB"
     },
     {
       "album": {
@@ -6052,7 +6096,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 257246,
       "name": "Gigantic Parasite Tongue",
       "url": "https://open.spotify.com/track/4Bv4jUCR08CSoDQRqhIPdT"
@@ -8330,6 +8374,24 @@
       "duration_ms": 245714,
       "name": "Le r\u00e9veil",
       "url": "https://open.spotify.com/track/2ZeyJHoL7iI3LSySHY31pN"
+    },
+    {
+      "album": {
+        "name": "Lead Me To The Slaughter",
+        "url": "https://open.spotify.com/album/3WFNJkqNB8MstN5M3Xmauj"
+      },
+      "artists": [
+        {
+          "name": "Gore.",
+          "url": "https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197926,
+      "name": "Lead Me To The Slaughter",
+      "url": "https://open.spotify.com/track/2QgNvwnSb9B8r2cy5SwpzU"
     },
     {
       "album": {
@@ -11026,7 +11088,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 229603,
       "name": "Portrait set on fire",
       "url": "https://open.spotify.com/track/7bgBXGb1YTSLkDVrgiqBwm"
@@ -11401,6 +11463,24 @@
     },
     {
       "album": {
+        "name": "RARARA",
+        "url": "https://open.spotify.com/album/5zWxYL9Wc9XGx9KNiB7YRk"
+      },
+      "artists": [
+        {
+          "name": "Malina Scar",
+          "url": "https://open.spotify.com/artist/3tnyEYhffKHMzUxZSOhT18"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185874,
+      "name": "RARARA",
+      "url": "https://open.spotify.com/track/6f37FHyrXjpaBpRsfVU1fI"
+    },
+    {
+      "album": {
         "name": "Attitude Adjustment",
         "url": "https://open.spotify.com/album/5JFRxJVM7962wgdWyT6ic8"
       },
@@ -11596,6 +11676,24 @@
       "duration_ms": 201176,
       "name": "Repetition",
       "url": "https://open.spotify.com/track/3ptxyqSBfqRJEYG7tVIPGt"
+    },
+    {
+      "album": {
+        "name": "RETURN THE GOAT",
+        "url": "https://open.spotify.com/album/6T9mNcrFDXvo4a8pH36VgC"
+      },
+      "artists": [
+        {
+          "name": "Netherwilds",
+          "url": "https://open.spotify.com/artist/2e6T7U7RcG9IXadiJxNH4j"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224461,
+      "name": "RETURN THE GOAT",
+      "url": "https://open.spotify.com/track/6APXWI6fbpi51urblYZZkE"
     },
     {
       "album": {
@@ -13598,7 +13696,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 185000,
       "name": "Synthetic",
       "url": "https://open.spotify.com/track/4QlSu1ALg0IxuqXRFDEy3z"
@@ -14356,7 +14454,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 167109,
       "name": "THE SOUND",
       "url": "https://open.spotify.com/track/5Zti0jRsq6ZvlrgQo5tua4"
@@ -14718,7 +14816,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 209246,
       "name": "Tightrope Breathin - Baby Raptor Edition",
       "url": "https://open.spotify.com/track/6C34SDYSOl6yRJ1x13yRFx"
@@ -15022,6 +15120,28 @@
       "duration_ms": 200456,
       "name": "Traffic",
       "url": "https://open.spotify.com/track/3gpWJdEl2siwZTran2nhRH"
+    },
+    {
+      "album": {
+        "name": "Trailer For A Movie That Doesn't Exist",
+        "url": "https://open.spotify.com/album/3R1Bbr9bXteMdOCz6xRca8"
+      },
+      "artists": [
+        {
+          "name": "GILT",
+          "url": "https://open.spotify.com/artist/59nCDPMkSmF4iyBkMwzpzx"
+        },
+        {
+          "name": "I.liedtomyself",
+          "url": "https://open.spotify.com/artist/5mzFQ152vHqu8ny8ORvfTu"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Trailer For A Movie That Doesn't Exist",
+      "url": "https://open.spotify.com/track/0KLC1t5lFJh8zEyoUGFjKF"
     },
     {
       "album": {
@@ -15838,7 +15958,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 181106,
       "name": "Weather Eye",
       "url": "https://open.spotify.com/track/3lp4opEPD1YCNkmsKqKzNm"

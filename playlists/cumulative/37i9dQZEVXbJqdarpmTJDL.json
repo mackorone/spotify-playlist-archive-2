@@ -806,7 +806,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 175472,
       "name": "24hrs",
       "url": "https://open.spotify.com/track/7pSHmUHuHXIfXRRGseJfzj"
@@ -2258,7 +2258,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 172000,
       "name": "AGAINST ALL",
       "url": "https://open.spotify.com/track/3klqwu80XOZBszq7TS214C"
@@ -13061,6 +13061,28 @@
     },
     {
       "album": {
+        "name": "DAVID NERES",
+        "url": "https://open.spotify.com/album/5DrcDpJEtpZ0TFuJEK7bTp"
+      },
+      "artists": [
+        {
+          "name": "2shots",
+          "url": "https://open.spotify.com/artist/0ZRgNmKNkngvESBVUqkICS"
+        },
+        {
+          "name": "Spooky808",
+          "url": "https://open.spotify.com/artist/2MC1k8WHq8dHlNKwEYpd9G"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126620,
+      "name": "DAVID NERES",
+      "url": "https://open.spotify.com/track/1kykspjHoGOS7PXQggCmFn"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU"
       },
@@ -17388,6 +17410,24 @@
       "duration_ms": 166148,
       "name": "Energy",
       "url": "https://open.spotify.com/track/2sRAgeVLhjAB9v3B46Pwjn"
+    },
+    {
+      "album": {
+        "name": "Enoho Kormi",
+        "url": "https://open.spotify.com/album/4Voffe2ZPY8CTnLcKohu2P"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219795,
+      "name": "Enoho Kormi",
+      "url": "https://open.spotify.com/track/3pp70iNV0LptCA6kiaSMgd"
     },
     {
       "album": {
@@ -23852,7 +23892,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 192600,
       "name": "GYALI",
       "url": "https://open.spotify.com/track/4hgMfIIIXGLIG0176zUZjZ"
@@ -52296,7 +52336,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 168896,
       "name": "SPASIBA",
       "url": "https://open.spotify.com/track/3d6S35CsRKcNdJ4mUDVN5y"

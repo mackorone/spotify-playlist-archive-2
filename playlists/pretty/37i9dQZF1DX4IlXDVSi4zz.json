@@ -1,6 +1,6 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 1024652,
+  "num_followers": 1024736,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,18 @@
     {
       "added_at": "2026-06-26 04:01:00",
       "album": {
-        "name": "It's That Time (FISHER Remix)",
-        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ"
       },
       "artists": [
         {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
-        },
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
         }
       ],
-      "duration_ms": 171717,
-      "name": "It's That Time - FISHER Remix",
-      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
+      "duration_ms": 236249,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4F1J5Y890NaaTUOumYzYUX"
     },
     {
       "added_at": "2026-06-26 04:01:00",
@@ -875,18 +871,22 @@
     {
       "added_at": "2026-06-26 04:01:00",
       "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/7lPvo4py6cKMEjE7Bk5raJ"
+        "name": "It's That Time (FISHER Remix)",
+        "url": "https://open.spotify.com/album/2so0gk9JxwVcQaCUIOxRh2"
       },
       "artists": [
         {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
         }
       ],
-      "duration_ms": 236249,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/4F1J5Y890NaaTUOumYzYUX"
+      "duration_ms": 171717,
+      "name": "It's That Time - FISHER Remix",
+      "url": "https://open.spotify.com/track/3GiORO0zRwRT3g9CCklzkQ"
     },
     {
       "added_at": "2026-06-26 04:01:00",
@@ -971,6 +971,34 @@
       "duration_ms": 168387,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK"
+    },
+    {
+      "added_at": "2026-06-26 04:01:00",
+      "album": {
+        "name": "Twenty One",
+        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Aidan Martin",
+          "url": "https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb"
+        }
+      ],
+      "duration_ms": 147269,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
     },
     {
       "added_at": "2026-06-26 04:01:00",
@@ -1067,34 +1095,6 @@
     {
       "added_at": "2026-06-26 04:01:00",
       "album": {
-        "name": "Twenty One",
-        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Aidan Martin",
-          "url": "https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb"
-        }
-      ],
-      "duration_ms": 147269,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
-    },
-    {
-      "added_at": "2026-06-26 04:01:00",
-      "album": {
         "name": "Verano En NY",
         "url": "https://open.spotify.com/album/6lwdsDlonNio6vDG42eUZu"
       },
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2026-06-26 04:01:00",
       "album": {
+        "name": "Wo, man (Edit)",
+        "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Wo, man - Edit",
+      "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
+    },
+    {
+      "added_at": "2026-06-26 04:01:00",
+      "album": {
         "name": "Never Going Home",
         "url": "https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 209552,
       "name": "girl$",
       "url": "https://open.spotify.com/track/46N3FCKFABRjNoNBVq4osr"
-    },
-    {
-      "added_at": "2026-06-26 04:01:00",
-      "album": {
-        "name": "Wo, man (Edit)",
-        "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 200500,
-      "name": "Wo, man - Edit",
-      "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
     },
     {
       "added_at": "2026-06-26 04:01:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2026-06-26 04:01:00",
       "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
+    },
+    {
+      "added_at": "2026-06-26 04:01:00",
+      "album": {
         "name": "Last Night",
         "url": "https://open.spotify.com/album/05cOaLn9wG0Mlx4unmfUHB"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 153692,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/5GIG7Ktm9gZnV5yNqb0XZl"
-    },
-    {
-      "added_at": "2026-06-26 04:01:00",
-      "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
     },
     {
       "added_at": "2026-06-26 04:01:00",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2026-06-26 04:01:00",
       "album": {
+        "name": "Spanish Chica",
+        "url": "https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN"
+      },
+      "artists": [
+        {
+          "name": "MESTIZA",
+          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
+        }
+      ],
+      "duration_ms": 244918,
+      "name": "Te Doy La Libertad",
+      "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
+    },
+    {
+      "added_at": "2026-06-26 04:01:00",
+      "album": {
         "name": "Places",
         "url": "https://open.spotify.com/album/0ztVQzAWvrm8HBVwebIsyM"
       },
@@ -2043,22 +2059,6 @@
     {
       "added_at": "2026-06-26 04:01:00",
       "album": {
-        "name": "Spanish Chica",
-        "url": "https://open.spotify.com/album/04LUS5N9H4DIxFty3pUnTN"
-      },
-      "artists": [
-        {
-          "name": "MESTIZA",
-          "url": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
-        }
-      ],
-      "duration_ms": 244918,
-      "name": "Te Doy La Libertad",
-      "url": "https://open.spotify.com/track/5ODIUPpNdmVZRjTMHa0Vjp"
-    },
-    {
-      "added_at": "2026-06-26 04:01:00",
-      "album": {
         "name": "No Hesitating",
         "url": "https://open.spotify.com/album/0rGKGBOA9WXmZ7QbNcRohX"
       },
@@ -2071,26 +2071,6 @@
       "duration_ms": 163890,
       "name": "No Hesitating",
       "url": "https://open.spotify.com/track/3qJEX3SA7Vtu1fMPNustjI"
-    },
-    {
-      "added_at": "2026-06-26 04:01:00",
-      "album": {
-        "name": "So Loud",
-        "url": "https://open.spotify.com/album/2CfIWtmuv6Nga1ZgG5XOW5"
-      },
-      "artists": [
-        {
-          "name": "BATU (TR)",
-          "url": "https://open.spotify.com/artist/4bRac4iORCXK0jWtdCOdJL"
-        },
-        {
-          "name": "CVALM",
-          "url": "https://open.spotify.com/artist/0xqR7rykJZR0Is0wAfnWBp"
-        }
-      ],
-      "duration_ms": 204390,
-      "name": "So Loud",
-      "url": "https://open.spotify.com/track/15EpJPx5BOaukHzd5SXRLV"
     },
     {
       "added_at": "2026-06-26 04:01:00",
@@ -2111,6 +2091,26 @@
       "duration_ms": 181846,
       "name": "Dame M\u00e1s (Gasolina)",
       "url": "https://open.spotify.com/track/5wGwW2DK549Mg9vyNzBCnt"
+    },
+    {
+      "added_at": "2026-06-26 04:01:00",
+      "album": {
+        "name": "So Loud",
+        "url": "https://open.spotify.com/album/2CfIWtmuv6Nga1ZgG5XOW5"
+      },
+      "artists": [
+        {
+          "name": "BATU (TR)",
+          "url": "https://open.spotify.com/artist/4bRac4iORCXK0jWtdCOdJL"
+        },
+        {
+          "name": "CVALM",
+          "url": "https://open.spotify.com/artist/0xqR7rykJZR0Is0wAfnWBp"
+        }
+      ],
+      "duration_ms": 204390,
+      "name": "So Loud",
+      "url": "https://open.spotify.com/track/15EpJPx5BOaukHzd5SXRLV"
     }
   ],
   "unique_name": "Tulum Party",

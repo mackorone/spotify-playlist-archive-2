@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 88278,
+  "num_followers": 88292,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akG1gAAAAAADpbEIQ11O1OzNSf2Omepe",
+  "snapshot_id": "akMHAAAAAABatGmyHhF/xspTh3aUtesg",
   "tracks": [
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Stupid (feat. AWA)",
-        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "AWA",
-          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
-        }
-      ],
-      "duration_ms": 176734,
-      "name": "Something Stupid (feat. AWA)",
-      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Younger",
         "url": "https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 194720,
       "name": "Younger",
       "url": "https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something Stupid (feat. AWA)",
+        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "AWA",
+          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
+        }
+      ],
+      "duration_ms": 176734,
+      "name": "Something Stupid (feat. AWA)",
+      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/0N142E2hr6c8uf0qrpfvhQ"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        }
-      ],
-      "duration_ms": 206666,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/7rRMmhC027ixjjXzuZYoMv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fly Away (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/7ht7IVG2XY9izYyaXvIwze"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 192195,
       "name": "Fly Away - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/1gwOMsYzYeRH6xjAKVzBFq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/0N142E2hr6c8uf0qrpfvhQ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "RetroVision",
+          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
+        }
+      ],
+      "duration_ms": 206666,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7rRMmhC027ixjjXzuZYoMv"
     },
     {
       "added_at": null,

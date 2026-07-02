@@ -1,6 +1,6 @@
 {
   "description": "De beste tunes op repeat. Cover: Langa",
-  "num_followers": 141433,
+  "num_followers": 141446,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
@@ -747,26 +747,6 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Hyp\u00e9 (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
-      },
-      "artists": [
-        {
-          "name": "Aya Nakamura",
-          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 157402,
-      "name": "Hyp\u00e9 (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
         "name": "LIES",
         "url": "https://open.spotify.com/album/5g3O1A0CXtTT1iKll0hSiN"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 199527,
       "name": "LIES",
       "url": "https://open.spotify.com/track/46Zi8b9UbvjwNpwngsyckC"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
+        "name": "Hyp\u00e9 (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 157402,
+      "name": "Hyp\u00e9 (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -807,6 +807,26 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
+        "name": "BABABA WORLD",
+        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
+      },
+      "artists": [
+        {
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "COMO TU",
+      "url": "https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
         "name": "Carrousel",
         "url": "https://open.spotify.com/album/7yTJXbUMRfyHnkRqoXtkLt"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 130546,
       "name": "Carrousel",
       "url": "https://open.spotify.com/track/3L5rczaS3ZiXepUbTIvHAp"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
-        "name": "BABABA WORLD",
-        "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
-      },
-      "artists": [
-        {
-          "name": "DYSTINCT",
-          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "COMO TU",
-      "url": "https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "PGS",
-        "url": "https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3"
-      },
-      "artists": [
-        {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
-        }
-      ],
-      "duration_ms": 151016,
-      "name": "PGS",
-      "url": "https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
         "name": "The Baddest",
         "url": "https://open.spotify.com/album/7KPEH7yiNZ3qDFcozl1xTV"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 171533,
       "name": "The Baddest",
       "url": "https://open.spotify.com/track/5L5wa7XXoPrleRSuwBiHHR"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
+        "name": "PGS",
+        "url": "https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "duration_ms": 151016,
+      "name": "PGS",
+      "url": "https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1187,26 +1187,6 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Je Bent Leuk",
-        "url": "https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt"
-      },
-      "artists": [
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        },
-        {
-          "name": "LA$$A",
-          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
-        }
-      ],
-      "duration_ms": 122812,
-      "name": "Je Bent Leuk",
-      "url": "https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
         "name": "Afterparty",
         "url": "https://open.spotify.com/album/0G2EyFZBx9YTCx1BAOknTU"
       },
@@ -1223,6 +1203,26 @@
       "duration_ms": 155381,
       "name": "Afterparty",
       "url": "https://open.spotify.com/track/3DsLjf29C93KN8Fu9rlrHW"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
+        "name": "Je Bent Leuk",
+        "url": "https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "duration_ms": 122812,
+      "name": "Je Bent Leuk",
+      "url": "https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1619,8 +1619,8 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Ik Heb Je",
-        "url": "https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz"
+        "name": "Amazin\u2019 (Remix)",
+        "url": "https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h"
       },
       "artists": [
         {
@@ -1628,17 +1628,17 @@
           "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
         },
         {
-          "name": "Henkie T",
-          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         },
         {
-          "name": "Yssi SB",
-          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
         }
       ],
-      "duration_ms": 194347,
-      "name": "Ik Heb Je (met Henkie T & Yssi SB)",
-      "url": "https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn"
+      "duration_ms": 175250,
+      "name": "Amazin' - Remix",
+      "url": "https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
+        "name": "Trust",
+        "url": "https://open.spotify.com/album/6tsNIdt0wilaoDitknpvC7"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        },
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "duration_ms": 172271,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/309wfX4hjhywRlyknsgm8N"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
         "name": "Loro Piana",
         "url": "https://open.spotify.com/album/0egHLSkTArwzqumnOHzejS"
       },
@@ -1691,26 +1711,6 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Trust",
-        "url": "https://open.spotify.com/album/6tsNIdt0wilaoDitknpvC7"
-      },
-      "artists": [
-        {
-          "name": "Kevin",
-          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
-        },
-        {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
-        }
-      ],
-      "duration_ms": 172271,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/309wfX4hjhywRlyknsgm8N"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
         "name": "180",
         "url": "https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj"
       },
@@ -1731,8 +1731,8 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Amazin\u2019 (Remix)",
-        "url": "https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h"
+        "name": "Ik Heb Je",
+        "url": "https://open.spotify.com/album/3og5VL9zk12eezRWFAGgvz"
       },
       "artists": [
         {
@@ -1740,17 +1740,17 @@
           "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
         },
         {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          "name": "Henkie T",
+          "url": "https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El"
         },
         {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+          "name": "Yssi SB",
+          "url": "https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8"
         }
       ],
-      "duration_ms": 175250,
-      "name": "Amazin' - Remix",
-      "url": "https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo"
+      "duration_ms": 194347,
+      "name": "Ik Heb Je (met Henkie T & Yssi SB)",
+      "url": "https://open.spotify.com/track/1RwzHr1ViMmmauoz3G2sWn"
     },
     {
       "added_at": "2026-06-11 07:46:46",

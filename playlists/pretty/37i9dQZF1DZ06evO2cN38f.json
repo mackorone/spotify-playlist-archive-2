@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 1599,
+  "num_followers": 1600,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akG1gAAAAADBxGp18Zn7Ra8LTyJAQX0X",
+  "snapshot_id": "akMHAAAAAADaSr9OKlE+tv6p52FLhp4j",
   "tracks": [
     {
       "added_at": null,
@@ -191,18 +191,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "1021",
-        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
+        "name": "What You Done",
+        "url": "https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF"
       },
       "artists": [
         {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
         }
       ],
-      "duration_ms": 240240,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/2gFb9birqiHSgS8A5IEcQr"
+      "duration_ms": 174048,
+      "name": "What You Done",
+      "url": "https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p"
     },
     {
       "added_at": null,
@@ -223,22 +227,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "What You Done",
-        "url": "https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF"
+        "name": "1021",
+        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
       },
       "artists": [
         {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "Keys N Krates",
-          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
         }
       ],
-      "duration_ms": 174048,
-      "name": "What You Done",
-      "url": "https://open.spotify.com/track/6IlUok8RCbK7IxNWurTv8p"
+      "duration_ms": 240240,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2gFb9birqiHSgS8A5IEcQr"
     },
     {
       "added_at": null,

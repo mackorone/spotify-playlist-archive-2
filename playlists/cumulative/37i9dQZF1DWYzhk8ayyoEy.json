@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-07",
-  "description": "Warm, inspirational pop, that's good at heart.  Cover: Nick Jonas",
+  "description": "Warm, inspirational pop, that's good at heart.  Cover: Wyn Starks",
   "name": "shine",
   "tracks": [
     {
@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Coco",
+        "url": "https://open.spotify.com/album/3zadx59AXb75OCc0XniZ93"
+      },
+      "artists": [
+        {
+          "name": "Wyn Starks",
+          "url": "https://open.spotify.com/artist/3rXMN9AbcZXln8vo79ufNQ"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243170,
+      "name": "Coco",
+      "url": "https://open.spotify.com/track/53dqUUrzqZuNKDpBf722je"
+    },
+    {
+      "album": {
         "name": "Cape Town to Cairo",
         "url": "https://open.spotify.com/album/3xrdk0MImcnbt9NEc7pSnK"
       },
@@ -954,10 +972,28 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 174125,
       "name": "Give You Love (feat. Jason Derulo)",
       "url": "https://open.spotify.com/track/672pbi6q4UuyJYIuThNsq3"
+    },
+    {
+      "album": {
+        "name": "Go That High",
+        "url": "https://open.spotify.com/album/6yvzDsYQpyLiorTkWO29PK"
+      },
+      "artists": [
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204026,
+      "name": "Go That High",
+      "url": "https://open.spotify.com/track/5ky2asWUDCHRTKt2c769X5"
     },
     {
       "album": {
@@ -1598,7 +1634,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 213106,
       "name": "I Don\u2019t Wanna Worry",
       "url": "https://open.spotify.com/track/1Ej3EHORVUTtvCRh5UnslF"
@@ -2614,6 +2650,24 @@
       "duration_ms": 221595,
       "name": "Pray",
       "url": "https://open.spotify.com/track/7DsX5K72fewVGb47qj7Tbg"
+    },
+    {
+      "album": {
+        "name": "Precious",
+        "url": "https://open.spotify.com/album/6MQZ8SV04Q4L7iJv7rBHKd"
+      },
+      "artists": [
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161339,
+      "name": "Precious",
+      "url": "https://open.spotify.com/track/4sUVdmnMxB8nrZnxvPJ0Dv"
     },
     {
       "album": {
@@ -3752,7 +3806,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 206769,
       "name": "Yes We Can",
       "url": "https://open.spotify.com/track/4mY4eTuEvnWNNNlS3QXLkg"

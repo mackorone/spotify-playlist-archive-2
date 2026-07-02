@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 76277,
+  "num_followers": 76280,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akG1gAAAAACa4qLTBLrptH1ymrPL/4UU",
+  "snapshot_id": "akMHAAAAAAC1U6H54Ws3rW7sPT+x0IJG",
   "tracks": [
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fondo Profundo",
-        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 362920,
-      "name": "Toque de Queda",
-      "url": "https://open.spotify.com/track/2k3SYulMPRrbKIMy1RQAZW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
         "url": "https://open.spotify.com/album/02NQhvzvCmfTuzhIJRRl5Y"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 334378,
       "name": "Hasta All\u00e1 En El Cielo / Bye Bye",
       "url": "https://open.spotify.com/track/4SyICyHO6ZEP89IRbtMhNO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 362920,
+      "name": "Toque de Queda",
+      "url": "https://open.spotify.com/track/2k3SYulMPRrbKIMy1RQAZW"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Que Pienso de Vos (En Vivo)",
-        "url": "https://open.spotify.com/album/1M20GUHWHxe2b5tI0RKMYu"
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 192699,
-      "name": "Lo Que Pienso de Vos - En Vivo",
-      "url": "https://open.spotify.com/track/3LiYI9owzjKP8jf239x53q"
+      "duration_ms": 202801,
+      "name": "La Caca del Bandido",
+      "url": "https://open.spotify.com/track/7BgrrQesQnHXefzJsM9jKg"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
+        "name": "Lo Que Pienso de Vos (En Vivo)",
+        "url": "https://open.spotify.com/album/1M20GUHWHxe2b5tI0RKMYu"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 202801,
-      "name": "La Caca del Bandido",
-      "url": "https://open.spotify.com/track/7BgrrQesQnHXefzJsM9jKg"
+      "duration_ms": 192699,
+      "name": "Lo Que Pienso de Vos - En Vivo",
+      "url": "https://open.spotify.com/track/3LiYI9owzjKP8jf239x53q"
     },
     {
       "added_at": null,
@@ -783,22 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psic\u00f3tico",
-        "url": "https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc"
+        "name": "La Pachanga",
+        "url": "https://open.spotify.com/album/1jXwLd5nJQjixR84BUzIrG"
       },
       "artists": [
         {
-          "name": "El\u00edas Rampello",
-          "url": "https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys"
+          "name": "Girda Y Los Del Alba",
+          "url": "https://open.spotify.com/artist/41zeTSAlKljjEJ2K6iGO5O"
         },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 201596,
-      "name": "Psic\u00f3tico",
-      "url": "https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT"
+      "duration_ms": 186250,
+      "name": "La Pachanga",
+      "url": "https://open.spotify.com/track/25g9qYmB18K8LUOKLTKiEc"
     },
     {
       "added_at": null,
@@ -819,22 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pachanga",
-        "url": "https://open.spotify.com/album/1jXwLd5nJQjixR84BUzIrG"
+        "name": "Psic\u00f3tico",
+        "url": "https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc"
       },
       "artists": [
         {
-          "name": "Girda Y Los Del Alba",
-          "url": "https://open.spotify.com/artist/41zeTSAlKljjEJ2K6iGO5O"
+          "name": "El\u00edas Rampello",
+          "url": "https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys"
         },
         {
           "name": "Vilma Palma e Vampiros",
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 186250,
-      "name": "La Pachanga",
-      "url": "https://open.spotify.com/track/25g9qYmB18K8LUOKLTKiEc"
+      "duration_ms": 201596,
+      "name": "Psic\u00f3tico",
+      "url": "https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT"
     }
   ],
   "unique_name": "This Is Vilma Palma e Vampiros",

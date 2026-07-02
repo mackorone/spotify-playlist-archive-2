@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Ryan Beatty
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,698 likes - 159 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,660 likes - 159 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 139 | [Medicine](https://open.spotify.com/track/1A3G4OXseKQZUrFD5U5ZSU) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Sunshine For Happiness](https://open.spotify.com/album/5ObLOwWHmSdIFWYY7kOgnE) | 3:38 |
 | 140 | [Zombie](https://open.spotify.com/track/1Ob938FnCrnj2f2EMGw6Sy) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Zombie](https://open.spotify.com/album/5H1XqTWtsDPC2xdb67jHLA) | 3:12 |
 | 141 | [No Evil](https://open.spotify.com/track/0gzZBrdtKlX9YtCjAbMFxj) | [Greg Mendez](https://open.spotify.com/artist/3pGNoAJX3UVctU6X8eG55h) | [No Evil](https://open.spotify.com/album/0pzBzifaJKeS2qIPKagdlj) | 2:57 |
-| 142 | [Blu Tac Piano](https://open.spotify.com/track/4UMjHRPZAi5LgR8xhYShqc) | [Cusk](https://open.spotify.com/artist/3JkYnVJf85irRhvG5ptSIw) | [Blu Tac Piano](https://open.spotify.com/album/0iHDzwYLxxsxVJI4NGu8kO) | 4:57 |
+| 142 | [Blu tac piano](https://open.spotify.com/track/4UMjHRPZAi5LgR8xhYShqc) | [Cusk](https://open.spotify.com/artist/3JkYnVJf85irRhvG5ptSIw) | [Blu tac piano](https://open.spotify.com/album/0iHDzwYLxxsxVJI4NGu8kO) | 4:57 |
 | 143 | [James, age twelve](https://open.spotify.com/track/1Qa7O4zxQwdzLC6Hlk8Dmo) | [Valley Boy](https://open.spotify.com/artist/46VzbEZDkCQKJX3o4g8gMD) | [children of divorce](https://open.spotify.com/album/6E1PYFpr5H4Op5nq5LMaSz) | 3:09 |
 | 144 | [Doors](https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 3:51 |
 | 145 | [Moon Not Mine](https://open.spotify.com/track/1r8plFPk6rUylJmclniQAM) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Singing](https://open.spotify.com/album/1h0ikRmxNYZFYR0s7xurzf) | 3:37 |

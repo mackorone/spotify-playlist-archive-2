@@ -1845,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "J-POP REMAKE Vol.1",
+        "url": "https://open.spotify.com/album/6TrdV55NrcCxlod6cXsTNu"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Bansanka",
+      "url": "https://open.spotify.com/track/0KgetoSLg8qfJWIwoAQxBf"
+    },
+    {
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/45I9zOLkpyzEBuN2wodeyF"
       },
@@ -11508,7 +11526,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -15902,7 +15920,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -21702,7 +21720,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 207301,
       "name": "\u4e0d\u5728\u4e4e",
       "url": "https://open.spotify.com/track/1t2mpO9GpLjRHDDX6SFWRn"
@@ -27366,7 +27384,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 269746,
       "name": "\u6674\u5929",
       "url": "https://open.spotify.com/track/5pIcwtJYNJx93l420oR2Vm"
@@ -27734,7 +27752,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 251434,
       "name": "\u6885\u96e8\u5b63",
       "url": "https://open.spotify.com/track/73MgEB0jHzTU0RE7wWcBf6"

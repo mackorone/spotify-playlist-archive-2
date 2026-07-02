@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: whateve\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: MARQUISE\. Artwork: Isu Kim
 
-2,658 songs - 6 day 22 hr 48 min
+2,663 songs - 6 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [DON'T KNOW WHY](https://open.spotify.com/track/76GBhyMeRPCVu3FzHWKrWN) | [QLO](https://open.spotify.com/artist/21YXTehB0cp31YOL3AxewF) | [DON'T KNOW WHY](https://open.spotify.com/album/4KgNfQeo1IDYuPKem4nlQV) | 2:22 | 2026-06-24 |  |
 | [don't u even cry?](https://open.spotify.com/track/7ARdtYq12d2dDYgGUUJtmr) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [don't u even cry?](https://open.spotify.com/album/0ZQOYZEcEJGez6HtkMCmXl) | 4:05 | 2023-02-02 | 2023-02-11 |
 | [don't wanna miss you](https://open.spotify.com/track/4RfKwkEosc5ObAzKRMyU5b) | [bXd](https://open.spotify.com/artist/11R7WnedRjQv6G7ZGodm7Q) | [don't wanna miss you](https://open.spotify.com/album/48hRUZvo0w1yOgBZOAUEyf) | 4:17 | 2023-09-15 | 2023-10-21 |
+| [dontneedyouanymore](https://open.spotify.com/track/71DwatUaDJFTGNsvBNbFJI) | [MARQUISE](https://open.spotify.com/artist/6ZiQuVFetOPP1qLrrLDOLT) | [dontneedyouanymore](https://open.spotify.com/album/1FxW25sYeDtoGP5t67TBiW) | 2:48 | 2026-07-01 |  |
 | [Don’t Kill The Vibe](https://open.spotify.com/track/7eyMWy0eMYWBbYpm0cYYjh) | [THAMMACHAD](https://open.spotify.com/artist/7DBb38Zz6lP0rzkLMThNJs), [Toocalderone](https://open.spotify.com/artist/3F1JAaMFZfvix9UOOl3FK2), [Elista the Drag Gamer](https://open.spotify.com/artist/7aISzaoLIUdTQyUnkMSASH), [Laganja Estranja](https://open.spotify.com/artist/0otWGUpCf7aJaDVsczhzzP) | [Don’t Kill The Vibe](https://open.spotify.com/album/6dpK5SaIm38FOb9gwWJ9wg) | 4:42 | 2024-05-31 | 2024-06-08 |
 | [Dreamin' time](https://open.spotify.com/track/1sx4yLNVHtk9nAfaYIuC2e) | [Intoverse](https://open.spotify.com/artist/1YS1KAkS2fUo7gNXHuMeMk) | [Dreamin' time](https://open.spotify.com/album/0wTy4XnlkDx9ROoCjZMQPA) | 3:51 | 2023-08-25 | 2023-09-02 |
 | [Drunk !n Love](https://open.spotify.com/track/0mzEZfnASKTO2Po6so6drj) | [jum:p](https://open.spotify.com/artist/2rdBW9RiXfyXgQGi36ubov) | [Drunk !n Love](https://open.spotify.com/album/4lYGkZ1aPdGGeAFOpzqWEg) | 3:04 | 2025-09-19 | 2025-10-04 |
@@ -1506,9 +1507,11 @@
 | [ยอมให้เธอหลอก](https://open.spotify.com/track/1bG4m6Vvt7YHInUgLtDqla) | [CHILLY](https://open.spotify.com/artist/2h0AG75wO4FgXz3SGXCCxd) | [ยอมให้เธอหลอก](https://open.spotify.com/album/5of7A7zMkIvsaZoMJGE0fL) | 3:35 | 2024-09-06 | 2024-09-21 |
 | [ยักไหล่แล้วไปต่อ](https://open.spotify.com/track/2XtIzMQMNp8ofZW4AEdSGA) | [Tape](https://open.spotify.com/artist/7xC1Qnv4hsZBXxelSyG086) | [ยักไหล่แล้วไปต่อ](https://open.spotify.com/album/3GuvpKqOMNB6dkp0aYTS7V) | 3:09 | 2025-03-13 | 2025-03-21 |
 | [ยังคงเป็นของเธอ](https://open.spotify.com/track/6YvIV0ng6jHFNjiOhpH8AF) | [Blackwolf BOY](https://open.spotify.com/artist/1eZ71wjLok7uYBUMcBOZQq) | [ยังคงเป็นของเธอ](https://open.spotify.com/album/6pA2hVpTKfEjCGAhc5U2Ee) | 3:36 | 2024-04-11 | 2024-05-11 |
+| [ยังคิดถึง](https://open.spotify.com/track/4bVZKg1RgYqNzOZGOvxL6k) | [Socio](https://open.spotify.com/artist/4FzjYMJ5QjDOCGPVKo225J) | [ยังคิดถึง](https://open.spotify.com/album/2frPOK4ZGxv1Z01MMhZsUW) | 3:20 | 2026-07-01 |  |
 | [ยังคิดถึงอยู่เลย](https://open.spotify.com/track/6pSVHNVH1kZjlRu9DSm8op) | [sriattle](https://open.spotify.com/artist/3SHuorzd9Ib3cz0tGvnYxn) | [ยังคิดถึงอยู่เลย](https://open.spotify.com/album/1C9kzjo2lH0sW9tfFBCQ9O) | 4:54 | 2025-02-27 | 2025-05-30 |
 | [ยังคิดถึงเธอ](https://open.spotify.com/track/3FRPzCPckHLOCQyIRpptq5) | [MAX\-GAZINE](https://open.spotify.com/artist/6p4wOKLbdesuq6GOIBkz2d) | [ยังคิดถึงเธอ](https://open.spotify.com/album/4AFqOi4VDQvT46nHXSLan6) | 4:38 | 2023-10-13 | 2023-10-21 |
 | [ยังจำ](https://open.spotify.com/track/30ssoqngneU5DveW87wPFF) | [MAX\-GAZINE](https://open.spotify.com/artist/6p4wOKLbdesuq6GOIBkz2d) | [ยังจำ](https://open.spotify.com/album/1ueIwpf33uYFXDlRxeJtKI) | 4:36 | 2023-06-30 | 2023-09-23 |
+| [ยังจำได้ดี](https://open.spotify.com/track/2H6daeWFhnfAYoTwS769AM) | [The Juu's](https://open.spotify.com/artist/1CawyT4Y8Chlhxr6qGjQjf) | [ยังจำได้ดี](https://open.spotify.com/album/6jA1kdnJxC4qFZyWUMzh1i) | 5:07 | 2026-07-01 |  |
 | [ยังทันอยู่ไหม](https://open.spotify.com/track/1KeyDnClorS43SC256tQ5i) | [SURE](https://open.spotify.com/artist/4VDgBH42C8INx6Oqw6WuPB), [K6Y](https://open.spotify.com/artist/0QxCgzdTynqgvj1OWRllYt), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ยังทันอยู่ไหม](https://open.spotify.com/album/0MIm9VFukBlyMWQKAwO4cl) | 4:18 | 2025-02-20 | 2025-03-21 |
 | [ยังทำไม่ได้เลย \(STUCK\)](https://open.spotify.com/track/7jbIUkJoS5dZaBcl1niH1H) | [Auttvrw](https://open.spotify.com/artist/4fFLIh2WaXSwPvPMrYnEdW) | [ยังทำไม่ได้เลย \(STUCK\)](https://open.spotify.com/album/5zQqRoirgRZYKhJ2SbmbxB) | 4:56 | 2024-08-16 | 2024-10-26 |
 | [ยังฟังเพลงเดิมอยู่ไหม \(Same Old Song\)](https://open.spotify.com/track/1kkzlkNUGPenTmzb5ikApc) | [BLUE PONGTIWAT](https://open.spotify.com/artist/2qOLzlqMqg4sUAcwdO4tYJ) | [ยังฟังเพลงเดิมอยู่ไหม \(Same Old Song\)](https://open.spotify.com/album/5i4PoVoJFhLY6lcNxc9gDV) | 4:23 | 2025-08-29 | 2025-09-13 |
@@ -1533,6 +1536,7 @@
 | [ยินดีที่ฝนตก](https://open.spotify.com/track/0trJITxzL83zWQFAO0zT2x) | [Me \- Pirut](https://open.spotify.com/artist/0YRwecnwqobMn6YWJILmzZ) | [ยินดีที่ฝนตก](https://open.spotify.com/album/68HkMOWNRWDZ5q0if2Dbpb) | 4:25 | 2022-09-15 | 2022-10-29 |
 | [ยินดีที่เธอเลือกเขา](https://open.spotify.com/track/0G0mIaTFpPsygfHcDVXFdo) | [AMMARIN29](https://open.spotify.com/artist/18Yo3KRiHRER325JMdtDTV), [JARNJAME](https://open.spotify.com/artist/3Kr6BG5SoUOBrNyO6oOteb), [PATCHARA](https://open.spotify.com/artist/1qSlUrfbSherMbEkEpnSkG), [1KG](https://open.spotify.com/artist/03HDkiCyDo0Tsh3BEXjMV9) | [ยินดีที่เธอเลือกเขา](https://open.spotify.com/album/3HGYIORWZkIuGEuz7FrX5O) | 6:20 | 2024-05-31 | 2024-06-08 |
 | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/track/5jJt7NSLkYSB2g4j5bqf2P) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/album/5ejjRhYbOurcyaGkstwjC0) | 4:56 | 2024-07-01 | 2024-08-10 |
+| [ยินดีที่ได้เจอนะ \(My Pleasure\)](https://open.spotify.com/track/1D6jJWNa1nvcEEQ5j7s3Dn) | [WORABIG Y2Z](https://open.spotify.com/artist/60tz4wCb2OIHOc2Xu5LAwr) | [ยินดีที่ได้เจอนะ \(My Pleasure\)](https://open.spotify.com/album/5ostiqsbRiXNytRga4CgkG) | 3:18 | 2026-07-01 |  |
 | [ยินดีนะที่ได้พบเจอ](https://open.spotify.com/track/591pQs4codzDQVj49GqKQ6) | [3919](https://open.spotify.com/artist/5r6joqRCSqvakrjfr0hMgd) | [ยินดีนะที่ได้พบเจอ](https://open.spotify.com/album/0l2kNPnEJ7Sudr0lpXUpXf) | 3:17 | 2023-07-07 | 2023-07-22 |
 | [ยินดีไปทั้งน้ำตา](https://open.spotify.com/track/5YqBnVW43y0VLb5L26Gofb) | [PIMTHITIII](https://open.spotify.com/artist/33vViYFkIPNQt7XSo7OrQl) | [ยินดีไปทั้งน้ำตา](https://open.spotify.com/album/0mCCYd3k22TcA95jlARO14) | 3:38 | 2024-04-11 | 2024-04-19 |
 | [ยิ้มตาม \(Secret\)](https://open.spotify.com/track/0rilItx0LQ6ClMJSSPmznW) | [OCD](https://open.spotify.com/artist/0eYxMYMXZjPPELmQ4AuFZS) | [ยิ้มตาม \(Secret\)](https://open.spotify.com/album/3MCECfaTGH2bURQertUwAC) | 4:30 | 2025-01-09 | 2025-05-23 |
@@ -2034,6 +2038,7 @@
 | [เค็ม \(Hungry Game\)](https://open.spotify.com/track/4nXssUqm1TLKg6zzn12MIk) | [Okomo P](https://open.spotify.com/artist/71wrDZRYadma6qaodkVHev) | [เค็ม \(Hungry Game\)](https://open.spotify.com/album/4Y1H8U52L7zQQ0TTjeABbz) | 2:55 | 2025-05-22 | 2025-06-06 |
 | [เค้ามีใจ \(Like me?\)](https://open.spotify.com/track/61YRwXctQNqvlh1mjaX4sJ) | [CEKKI](https://open.spotify.com/artist/5cuyr9pLC9QwY59Ackbqu5) | [เค้ามีใจ \(Like me?\)](https://open.spotify.com/album/1oKxdgGP8ltqRXr0hpt09Q) | 4:06 | 2023-08-04 | 2023-09-09 |
 | [เงาข้างกาย](https://open.spotify.com/track/7EShhnNYbxv4ZDUW2Ggxqs) | [Flowers For Daryl](https://open.spotify.com/artist/7juHNCQiSAGwJNbvDch2FM) | [เงาข้างกาย](https://open.spotify.com/album/2dXuDFDRp7BYzIpOHEmu8Q) | 4:06 | 2022-09-23 | 2022-10-08 |
+| [เงินตรา](https://open.spotify.com/track/4BbmLTx2Pp6biPZ0ZOqlKp) | [Sukid458](https://open.spotify.com/artist/6dWH3SSe9rYb2KvunPIvf4) | [เงินตรา](https://open.spotify.com/album/0l4y5bv8IoeqXEaPCSclzB) | 4:45 | 2026-07-01 |  |
 | [เงื่อนตาย](https://open.spotify.com/track/1qeImGykNS60l5ldxxo3rc) | [MOLON](https://open.spotify.com/artist/5iq2ULik8jBRiyPHMDlDmz) | [เงื่อนตาย](https://open.spotify.com/album/5PRak0ilPyHASWQiKXhsQI) | 3:48 | 2024-07-01 | 2024-07-13 |
 | [เจอ เจ็บ จบ feat\. Chogun](https://open.spotify.com/track/6wGnte8IAtu9fxKcuVF2RP) | [SoulMade Sound](https://open.spotify.com/artist/27Yrj4QN7SEDL7mkrUPMVW), [Chogun](https://open.spotify.com/artist/6LXjIF1XHsFkB2bDfDsISG) | [เจอ เจ็บ จบ](https://open.spotify.com/album/3sh6h4nhXsd7IciQStpe7B) | 3:51 | 2022-09-15 | 2023-03-04 |
 | [เจอก็ดี แต่ไม่เจอดีกว่า \(แฟนเก่า\)](https://open.spotify.com/track/2wgBdtlAx2iOGGe90nUZdv) | [Chanom](https://open.spotify.com/artist/1PRysXimdri49HvpxhcRXV), [Madame Gybsa](https://open.spotify.com/artist/04lJReYdYxhuqMi8vKjcb8) | [เจอก็ดี แต่ไม่เจอดีกว่า \(แฟนเก่า\)](https://open.spotify.com/album/1hOGJXnniSE3FqNDmhgkR2) | 3:35 | 2025-04-24 | 2025-05-30 |

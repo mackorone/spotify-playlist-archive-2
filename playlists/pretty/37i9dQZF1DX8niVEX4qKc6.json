@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: El Plan De La Mariposa",
-  "num_followers": 193403,
+  "num_followers": 193412,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
+        "name": "Canciones Elegidas 93-04",
+        "url": "https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 149880,
+      "name": "Tu Locura",
+      "url": "https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
         "name": "Vienes y Te Vas (Casa Sole)",
         "url": "https://open.spotify.com/album/54fqrvl7oLdfH43MGZaITk"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 193796,
       "name": "Vienes y Te Vas (Casa Sole)",
       "url": "https://open.spotify.com/track/75eN2NWi9OsV4HvkPtzRSm"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
-        "name": "Canciones Elegidas 93-04",
-        "url": "https://open.spotify.com/album/0PFFQ4JYeh7af4SWUuGrTq"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 149880,
-      "name": "Tu Locura",
-      "url": "https://open.spotify.com/track/1nCCY0KmVlfn8WUmGYYwLf"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Mi Primer D\u00eda Triste",
-        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 229943,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Serenata del 900 (Casa Sole)",
         "url": "https://open.spotify.com/album/3LCqfj3XyKijkaGuF0bgoV"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 193897,
       "name": "Serenata del 900 (Casa Sole)",
       "url": "https://open.spotify.com/track/5lxmxVVKufdAcM2Jn5pdlB"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Mi Primer D\u00eda Triste",
+        "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 229943,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/5B3NOiIZkfykH0dk5YekiM"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
+        "name": "Turf",
+        "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
+      },
+      "artists": [
+        {
+          "name": "Turf",
+          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+        }
+      ],
+      "duration_ms": 271266,
+      "name": "Pasos Al Costado",
+      "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
         "name": "Loquero Viejo",
         "url": "https://open.spotify.com/album/33UiNdTDUkLlyPW9fEt8gh"
       },
@@ -727,18 +743,18 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Turf",
-        "url": "https://open.spotify.com/album/0ZFSgOIzslnsomJl9HhXHV"
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
       },
       "artists": [
         {
-          "name": "Turf",
-          "url": "https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
         }
       ],
-      "duration_ms": 271266,
-      "name": "Pasos Al Costado",
-      "url": "https://open.spotify.com/track/0WWCWt7FBh0r8pKs20DRF3"
+      "duration_ms": 267866,
+      "name": "Fanky - Live",
+      "url": "https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -759,22 +775,6 @@
       "duration_ms": 163682,
       "name": "Antiguo y moderno",
       "url": "https://open.spotify.com/track/61yrUJAIQBb6xAL1PAn3uf"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R"
-      },
-      "artists": [
-        {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "Fanky - Live",
-      "url": "https://open.spotify.com/track/15qhC4nfcfD0XiyrYDf9dr"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Tributo A Los Fabulosos Cadillacs",
-        "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 321433,
-      "name": "Vasos Vac\u00edos",
-      "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Las Plantas Crecen",
         "url": "https://open.spotify.com/album/17mK7xiORNWE4ZZLqKznTV"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 115029,
       "name": "Las Plantas Crecen",
       "url": "https://open.spotify.com/track/0sp03jNxMUhjqAEK8lz3yb"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Tributo A Los Fabulosos Cadillacs",
+        "url": "https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 321433,
+      "name": "Vasos Vac\u00edos",
+      "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Hasta el final (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/3PiF0wHxkUVQgEsBZNv0TH"
-      },
-      "artists": [
-        {
-          "name": "Camila Buch",
-          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Hasta el final - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/55D25UsKwBPaplvh4JWAgN"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Se Vos",
         "url": "https://open.spotify.com/album/2fxw6XXedFNprq4HdYTWdM"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 276252,
       "name": "Se Vos",
       "url": "https://open.spotify.com/track/2YAcx6NVFtror545iVJfIo"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Hasta el final (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/3PiF0wHxkUVQgEsBZNv0TH"
+      },
+      "artists": [
+        {
+          "name": "Camila Buch",
+          "url": "https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Hasta el final - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/55D25UsKwBPaplvh4JWAgN"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "TEMPORAL, LP.",
-        "url": "https://open.spotify.com/album/6ITfMwpGDKVTzl16mMXvYN"
-      },
-      "artists": [
-        {
-          "name": "Paula Prieto",
-          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
-        }
-      ],
-      "duration_ms": 517078,
-      "name": "ESTA VEZ (+ 'honey, i've got you')",
-      "url": "https://open.spotify.com/track/2aXFB7iQyWkXaaKpw3jIJP"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Salvaje",
         "url": "https://open.spotify.com/album/7BtgGOTyrA2LBwxvZtvtZR"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 173209,
       "name": "Salvaje",
       "url": "https://open.spotify.com/track/4Y8tIVK4IQOJP7rmRsbDS7"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "TEMPORAL, LP.",
+        "url": "https://open.spotify.com/album/6ITfMwpGDKVTzl16mMXvYN"
+      },
+      "artists": [
+        {
+          "name": "Paula Prieto",
+          "url": "https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl"
+        }
+      ],
+      "duration_ms": 517078,
+      "name": "ESTA VEZ (+ 'honey, i've got you')",
+      "url": "https://open.spotify.com/track/2aXFB7iQyWkXaaKpw3jIJP"
     },
     {
       "added_at": "2026-06-26 15:53:51",
@@ -1527,26 +1527,6 @@
     {
       "added_at": "2026-06-26 15:53:51",
       "album": {
-        "name": "Mil Caminos",
-        "url": "https://open.spotify.com/album/5ch7LxQVNwmaHEbDMvZqID"
-      },
-      "artists": [
-        {
-          "name": "Lucybell",
-          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
-        },
-        {
-          "name": "Manuel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
-        }
-      ],
-      "duration_ms": 234104,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/4AC64waVHrFJevbTUHktKY"
-    },
-    {
-      "added_at": "2026-06-26 15:53:51",
-      "album": {
         "name": "Es Broma, En Serio",
         "url": "https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc"
       },
@@ -1563,6 +1543,26 @@
       "duration_ms": 292000,
       "name": "Es Broma, En Serio",
       "url": "https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8"
+    },
+    {
+      "added_at": "2026-06-26 15:53:51",
+      "album": {
+        "name": "Mil Caminos",
+        "url": "https://open.spotify.com/album/5ch7LxQVNwmaHEbDMvZqID"
+      },
+      "artists": [
+        {
+          "name": "Lucybell",
+          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
+        },
+        {
+          "name": "Manuel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX"
+        }
+      ],
+      "duration_ms": 234104,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/4AC64waVHrFJevbTUHktKY"
     },
     {
       "added_at": "2026-06-26 15:53:51",

@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 283495,
+  "num_followers": 283524,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-06-25 23:00:33",
       "album": {
-        "name": "If You Don't Want This",
-        "url": "https://open.spotify.com/album/6wYjqjs9I9E4uHeL4ifDXD"
-      },
-      "artists": [
-        {
-          "name": "ManLikeTwin",
-          "url": "https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV"
-        }
-      ],
-      "duration_ms": 153218,
-      "name": "If You Don't Want This",
-      "url": "https://open.spotify.com/track/0WubvB0DnKO1BlJZspiKcT"
-    },
-    {
-      "added_at": "2026-06-25 23:00:33",
-      "album": {
         "name": "Fallin",
         "url": "https://open.spotify.com/album/4CWuwshxlc0fplo8JjyMSm"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 182276,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/7efJW4yGZrj2j3Vhfr3Ylw"
+    },
+    {
+      "added_at": "2026-06-25 23:00:33",
+      "album": {
+        "name": "If You Don't Want This",
+        "url": "https://open.spotify.com/album/6wYjqjs9I9E4uHeL4ifDXD"
+      },
+      "artists": [
+        {
+          "name": "ManLikeTwin",
+          "url": "https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV"
+        }
+      ],
+      "duration_ms": 153218,
+      "name": "If You Don't Want This",
+      "url": "https://open.spotify.com/track/0WubvB0DnKO1BlJZspiKcT"
     },
     {
       "added_at": "2026-06-25 23:00:33",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-06-25 23:00:33",
       "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/0ChJ5jv67HmnTtNU49Ri0E"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        }
+      ],
+      "duration_ms": 142663,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/2tJjSUAyEVpybbttRVoYxp"
+    },
+    {
+      "added_at": "2026-06-25 23:00:33",
+      "album": {
         "name": "I Wanna Feel",
         "url": "https://open.spotify.com/album/21JGUmeznYAUfMYEzcmehG"
       },
@@ -483,22 +499,6 @@
     {
       "added_at": "2026-06-25 23:00:33",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/0ChJ5jv67HmnTtNU49Ri0E"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        }
-      ],
-      "duration_ms": 142663,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/2tJjSUAyEVpybbttRVoYxp"
-    },
-    {
-      "added_at": "2026-06-25 23:00:33",
-      "album": {
         "name": "Lawd Have Mercy",
         "url": "https://open.spotify.com/album/0jJwIrcbe45CwzDuzxv98d"
       },
@@ -515,8 +515,8 @@
     {
       "added_at": "2026-06-25 23:00:33",
       "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/48cUtMWSyrz04CmJDJrkTb"
+        "name": "What Do I Need To Do",
+        "url": "https://open.spotify.com/album/4H9fT7QURnWTyNOEMJxGu5"
       },
       "artists": [
         {
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
         }
       ],
-      "duration_ms": 152142,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/0o8QnRcmXgQsQK7uxpu7oE"
+      "duration_ms": 183070,
+      "name": "What Do I Need To Do",
+      "url": "https://open.spotify.com/track/6OTGzdL3ltP4LdbPtwGqjW"
     },
     {
       "added_at": "2026-06-25 23:00:33",
@@ -547,22 +547,6 @@
       "duration_ms": 133714,
       "name": "Never Gonna Let You Go",
       "url": "https://open.spotify.com/track/4MS1iRCJAcQLXmZPAyFMHh"
-    },
-    {
-      "added_at": "2026-06-25 23:00:33",
-      "album": {
-        "name": "Dem Not Ready",
-        "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
-      },
-      "artists": [
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        }
-      ],
-      "duration_ms": 277714,
-      "name": "Dem Not Ready",
-      "url": "https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY"
     },
     {
       "added_at": "2026-06-25 23:00:33",
@@ -607,8 +591,24 @@
     {
       "added_at": "2026-06-25 23:00:33",
       "album": {
-        "name": "What Do I Need To Do",
-        "url": "https://open.spotify.com/album/4H9fT7QURnWTyNOEMJxGu5"
+        "name": "Dem Not Ready",
+        "url": "https://open.spotify.com/album/487RGweLy8ywFNEJKALlR9"
+      },
+      "artists": [
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "Dem Not Ready",
+      "url": "https://open.spotify.com/track/1ELRBqdDN0M9fxe2xQE3gY"
+    },
+    {
+      "added_at": "2026-06-25 23:00:33",
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/48cUtMWSyrz04CmJDJrkTb"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
         }
       ],
-      "duration_ms": 183070,
-      "name": "What Do I Need To Do",
-      "url": "https://open.spotify.com/track/6OTGzdL3ltP4LdbPtwGqjW"
+      "duration_ms": 152142,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0o8QnRcmXgQsQK7uxpu7oE"
     },
     {
       "added_at": "2026-06-25 23:00:33",
@@ -643,26 +643,6 @@
     {
       "added_at": "2026-06-25 23:00:33",
       "album": {
-        "name": "Bun It Down",
-        "url": "https://open.spotify.com/album/79mC7rD06YUKDeEFYdPHam"
-      },
-      "artists": [
-        {
-          "name": "Lethal Bizzle",
-          "url": "https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a"
-        },
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 173871,
-      "name": "Bun It Down",
-      "url": "https://open.spotify.com/track/7gHfPm4qWfbBVVz8Zk92pK"
-    },
-    {
-      "added_at": "2026-06-25 23:00:33",
-      "album": {
         "name": "Moment (feat. Charlotte Plank)",
         "url": "https://open.spotify.com/album/4oRA0Sfdp22VFn86dEBqFV"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 123242,
       "name": "Moment (feat. Charlotte Plank)",
       "url": "https://open.spotify.com/track/7BDPFIpiwHggWmuGLyaRzf"
+    },
+    {
+      "added_at": "2026-06-25 23:00:33",
+      "album": {
+        "name": "Bun It Down",
+        "url": "https://open.spotify.com/album/79mC7rD06YUKDeEFYdPHam"
+      },
+      "artists": [
+        {
+          "name": "Lethal Bizzle",
+          "url": "https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a"
+        },
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 173871,
+      "name": "Bun It Down",
+      "url": "https://open.spotify.com/track/7gHfPm4qWfbBVVz8Zk92pK"
     },
     {
       "added_at": "2026-06-25 23:00:33",
@@ -1183,30 +1183,6 @@
     {
       "added_at": "2026-06-25 23:00:33",
       "album": {
-        "name": "Courvoisier",
-        "url": "https://open.spotify.com/album/1Jt3GNK0Dg7YZqKvF68kRu"
-      },
-      "artists": [
-        {
-          "name": "Tempa T",
-          "url": "https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq"
-        },
-        {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "efan",
-          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
-        }
-      ],
-      "duration_ms": 147104,
-      "name": "Courvoisier",
-      "url": "https://open.spotify.com/track/2Ma2iAaH8Q8OhbXUsg95sN"
-    },
-    {
-      "added_at": "2026-06-25 23:00:33",
-      "album": {
         "name": "Excuses / Dem Ones",
         "url": "https://open.spotify.com/album/0zxktwa5kjbYbfI0PZFf4K"
       },
@@ -1223,22 +1199,6 @@
       "duration_ms": 277787,
       "name": "Excuses",
       "url": "https://open.spotify.com/track/4cNwGH7jW3oXpu4ZLxyF2X"
-    },
-    {
-      "added_at": "2026-06-25 23:00:33",
-      "album": {
-        "name": "BANGERS ONLY",
-        "url": "https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 188142,
-      "name": "Try & Escape",
-      "url": "https://open.spotify.com/track/0cNDDA6wf2JRpLaKDcPMPl"
     },
     {
       "added_at": "2026-06-25 23:00:33",
@@ -1263,6 +1223,22 @@
       "duration_ms": 204315,
       "name": "Little Bitta This",
       "url": "https://open.spotify.com/track/103VBFW68H11jOksxaI73S"
+    },
+    {
+      "added_at": "2026-06-25 23:00:33",
+      "album": {
+        "name": "BANGERS ONLY",
+        "url": "https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 188142,
+      "name": "Try & Escape",
+      "url": "https://open.spotify.com/track/0cNDDA6wf2JRpLaKDcPMPl"
     },
     {
       "added_at": "2026-06-25 23:00:33",
@@ -1303,6 +1279,30 @@
       "duration_ms": 134166,
       "name": "No Lie - BL3SS Remix",
       "url": "https://open.spotify.com/track/7AnOBJM8YP6DJyo1l8jt6u"
+    },
+    {
+      "added_at": "2026-06-25 23:00:33",
+      "album": {
+        "name": "Courvoisier",
+        "url": "https://open.spotify.com/album/1Jt3GNK0Dg7YZqKvF68kRu"
+      },
+      "artists": [
+        {
+          "name": "Tempa T",
+          "url": "https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq"
+        },
+        {
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "efan",
+          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
+        }
+      ],
+      "duration_ms": 147104,
+      "name": "Courvoisier",
+      "url": "https://open.spotify.com/track/2Ma2iAaH8Q8OhbXUsg95sN"
     },
     {
       "added_at": "2026-06-25 23:00:33",

@@ -262,7 +262,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 175265,
       "name": "Amazin'",
       "url": "https://open.spotify.com/track/0h09eYhmViqa1Uxkil7yza"
@@ -440,7 +440,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 125897,
       "name": "Bootje",
       "url": "https://open.spotify.com/track/5d2IGh09FDfvqixHtIXjv8"
@@ -516,7 +516,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 195232,
       "name": "Cubaanse Caf\u00e9",
       "url": "https://open.spotify.com/track/7oBclifQe1xdsW96UzDfpS"
@@ -756,6 +756,24 @@
       "duration_ms": 157500,
       "name": "Faka",
       "url": "https://open.spotify.com/track/3kTzNmEK4M6tCkA4fubGsB"
+    },
+    {
+      "album": {
+        "name": "Feessie",
+        "url": "https://open.spotify.com/album/4dtiKzti1SpG8AIrkNa2KZ"
+      },
+      "artists": [
+        {
+          "name": "Fons Veurink",
+          "url": "https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188726,
+      "name": "Feessie",
+      "url": "https://open.spotify.com/track/3ZfJ4YkM03y1KLK5pfqz8o"
     },
     {
       "album": {
@@ -1294,7 +1312,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 134400,
       "name": "Leven",
       "url": "https://open.spotify.com/track/6f3vDmoE9ssTrOdLpJKxzT"
@@ -1342,6 +1360,24 @@
       "duration_ms": 148102,
       "name": "Lichaamstaal",
       "url": "https://open.spotify.com/track/6PkKA3PKeVgUVMPhsM8t1n"
+    },
+    {
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/6S3VVsDn0RCwIlSDRIT4uc"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Heesen",
+          "url": "https://open.spotify.com/artist/1kIanYuEXT2fojrZmrLLNp"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153635,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/6VDELF4AaHeGlZujv8LaF8"
     },
     {
       "album": {
@@ -1442,7 +1478,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 167209,
       "name": "Missen Zou",
       "url": "https://open.spotify.com/track/2rdAPax7p9QRghy0wKiw6d"
@@ -2086,6 +2122,24 @@
       "duration_ms": 137257,
       "name": "Van Mij Alleen",
       "url": "https://open.spotify.com/track/4B3fPWhwWmAdRwNtwEaCLq"
+    },
+    {
+      "album": {
+        "name": "Van Mij Is Van Mij",
+        "url": "https://open.spotify.com/album/11R5qWO3agKNnsm4K7WER4"
+      },
+      "artists": [
+        {
+          "name": "JANEY",
+          "url": "https://open.spotify.com/artist/173RaTzsGfsppxsy70QxhN"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178579,
+      "name": "Van Mij Is Van Mij",
+      "url": "https://open.spotify.com/track/0mCEu9fbPqgiZQg0tfpEt6"
     },
     {
       "album": {

@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/3vvhITB6TM8jcF4bYXVXfv"
+      },
+      "artists": [
+        {
+          "name": "Ally Salort",
+          "url": "https://open.spotify.com/artist/5cCLvnxYLQiKTRLRD2DHxw"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166459,
+      "name": "Proof",
+      "url": "https://open.spotify.com/track/405gNtjLCgRcqod42hooqR"
+    },
+    {
+      "album": {
         "name": "Red",
         "url": "https://open.spotify.com/album/5NSzBQyB8v5YpVeePihtP2"
       },

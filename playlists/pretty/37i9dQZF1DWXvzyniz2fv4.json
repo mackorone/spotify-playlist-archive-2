@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158481,
+  "num_followers": 158483,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -719,30 +719,6 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "Partido Alto",
-        "url": "https://open.spotify.com/album/4tFgIJ3E2NcjlibDWdSqZn"
-      },
-      "artists": [
-        {
-          "name": "Fabio Brazza",
-          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
-        },
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 206122,
-      "name": "Partido Alto",
-      "url": "https://open.spotify.com/track/70yP3HNhXDC3PpcCTfPBPK"
-    },
-    {
-      "added_at": "2026-06-17 15:55:31",
-      "album": {
         "name": "Voos Internacionais, Vol. 2",
         "url": "https://open.spotify.com/album/7gzZ5z8Nd66LrjXu71Z3Bj"
       },
@@ -767,6 +743,30 @@
       "duration_ms": 143721,
       "name": "S\u00e1bado",
       "url": "https://open.spotify.com/track/6Abi9YlVMQ5iDRwIU9WYfo"
+    },
+    {
+      "added_at": "2026-06-17 15:55:31",
+      "album": {
+        "name": "Partido Alto",
+        "url": "https://open.spotify.com/album/4tFgIJ3E2NcjlibDWdSqZn"
+      },
+      "artists": [
+        {
+          "name": "Fabio Brazza",
+          "url": "https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 206122,
+      "name": "Partido Alto",
+      "url": "https://open.spotify.com/track/70yP3HNhXDC3PpcCTfPBPK"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -823,30 +823,6 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "Original MTK #2 - Se Voc\u00ea Vier",
-        "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
-      },
-      "artists": [
-        {
-          "name": "MTK",
-          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
-        },
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        }
-      ],
-      "duration_ms": 264547,
-      "name": "Original MTK #2 - Se Voc\u00ea Vier",
-      "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
-    },
-    {
-      "added_at": "2026-06-17 15:55:31",
-      "album": {
         "name": "Talism\u00e3",
         "url": "https://open.spotify.com/album/6w8KrZmc4Lvo8CHOxcWsMX"
       },
@@ -867,6 +843,30 @@
       "duration_ms": 155744,
       "name": "Talism\u00e3",
       "url": "https://open.spotify.com/track/26DVRByfW09GuvoX7CO4Bu"
+    },
+    {
+      "added_at": "2026-06-17 15:55:31",
+      "album": {
+        "name": "Original MTK #2 - Se Voc\u00ea Vier",
+        "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
+      },
+      "artists": [
+        {
+          "name": "MTK",
+          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
+        },
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        }
+      ],
+      "duration_ms": 264547,
+      "name": "Original MTK #2 - Se Voc\u00ea Vier",
+      "url": "https://open.spotify.com/track/6GOV45NixAW87unGHpS3mE"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -959,6 +959,26 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
+        "name": "BAHAMAS & Solteira N\u00e3o Sente",
+        "url": "https://open.spotify.com/album/7BGvfYK3JA7LDGHapHtBv9"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Caetanoprod",
+          "url": "https://open.spotify.com/artist/6R5xxWSl6srqCua6mUy6jy"
+        }
+      ],
+      "duration_ms": 137952,
+      "name": "BAHAMAS",
+      "url": "https://open.spotify.com/track/6lraraCxXGQL6tlczq9ulj"
+    },
+    {
+      "added_at": "2026-06-17 15:55:31",
+      "album": {
         "name": "Dias de Luta Dias de Gl\u00f3ria",
         "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 193854,
       "name": "Mais Al\u00e9m",
       "url": "https://open.spotify.com/track/4usWhbl28jDY4RhZf3oJea"
-    },
-    {
-      "added_at": "2026-06-17 15:55:31",
-      "album": {
-        "name": "BAHAMAS & Solteira N\u00e3o Sente",
-        "url": "https://open.spotify.com/album/7BGvfYK3JA7LDGHapHtBv9"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Caetanoprod",
-          "url": "https://open.spotify.com/artist/6R5xxWSl6srqCua6mUy6jy"
-        }
-      ],
-      "duration_ms": 137952,
-      "name": "BAHAMAS",
-      "url": "https://open.spotify.com/track/6lraraCxXGQL6tlczq9ulj"
     },
     {
       "added_at": "2026-06-17 15:55:31",

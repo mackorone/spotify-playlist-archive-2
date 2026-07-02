@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/4G0dOpNAmqDI0qGW6xVdoz"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Bandolero",
+      "url": "https://open.spotify.com/track/4Mxxo5gQcfVHY88DZU4Hpl"
+    },
+    {
+      "album": {
         "name": "Bangaranga",
         "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
       },
@@ -2199,6 +2217,24 @@
     },
     {
       "album": {
+        "name": "KOPRETINA",
+        "url": "https://open.spotify.com/album/3XxKczAhW9LhX1GJCGBvgB"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "KOPRETINA",
+      "url": "https://open.spotify.com/track/6pRO78el36tftyXnMDPRK7"
+    },
+    {
+      "album": {
         "name": "Krej\u010d\u00ed",
         "url": "https://open.spotify.com/album/1nHqyt1xWzf5m7gMf4H0Ek"
       },
@@ -2604,7 +2640,7 @@
       ],
       "date_added": "2025-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 223000,
       "name": "Na ost\u0159\u00ed no\u017ee",
       "url": "https://open.spotify.com/track/2QvaPJZpFrlFa660GxjmFs"
@@ -3087,6 +3123,28 @@
     },
     {
       "album": {
+        "name": "Focus",
+        "url": "https://open.spotify.com/album/4G0dOpNAmqDI0qGW6xVdoz"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        },
+        {
+          "name": "P T K",
+          "url": "https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209491,
+      "name": "Ona je se mnou",
+      "url": "https://open.spotify.com/track/3uYb4vcO2o84zrcSzh442S"
+    },
+    {
+      "album": {
         "name": "KARAKORAM",
         "url": "https://open.spotify.com/album/165gdnouYKd779Par0BJE3"
       },
@@ -3422,7 +3480,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 156026,
       "name": "PTSD",
       "url": "https://open.spotify.com/track/3okMwMS8V4STgRha2KT4Kz"
@@ -3800,7 +3858,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 184761,
       "name": "Stateside + Zara Larsson",
       "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"

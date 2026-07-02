@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Quintino
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,594 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,679 likes - 80 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 58 | [Baguette](https://open.spotify.com/track/3FNTAEmWrb2XaFJmS0TPgT) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8), [DYEN](https://open.spotify.com/artist/6LFELkZXRJs04hi8gywM2A) | [Baguette](https://open.spotify.com/album/6qZuPGpXt2lujtqDNXF3Ec) | 2:41 |
 | 59 | [Don't You Want Me](https://open.spotify.com/track/2I1wxwKrXw4Zv2Bg8IUMPd) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Don't You Want Me](https://open.spotify.com/album/49knpaXPppSpCMgxRipDc1) | 2:51 |
 | 60 | [Flute](https://open.spotify.com/track/6JcKNv4AmCR6Ty5qThnGIW) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [Flute](https://open.spotify.com/album/6JM3FO3ijUAQVU4gdwcNvg) | 2:19 |
-| 61 | [Alte Keks](https://open.spotify.com/track/58RBR8PTEQBHyUaiAz5fGH) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Mo\-Do](https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f) | [Alte Keks](https://open.spotify.com/album/6YrSgCGaLLFG5yyJIVwr4C) | 2:58 |
-| 62 | [Gimme The Love](https://open.spotify.com/track/46IsWuEwNXTxa3zwRVbU9E) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Gimme The Love](https://open.spotify.com/album/7HZcbRZVXZQnatYKsbUN9L) | 3:02 |
+| 61 | [Gimme The Love](https://open.spotify.com/track/46IsWuEwNXTxa3zwRVbU9E) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Gimme The Love](https://open.spotify.com/album/7HZcbRZVXZQnatYKsbUN9L) | 3:02 |
+| 62 | [Alte Keks](https://open.spotify.com/track/58RBR8PTEQBHyUaiAz5fGH) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Mo\-Do](https://open.spotify.com/artist/3Y42QTbwNJeqEVmrMknG0f) | [Alte Keks](https://open.spotify.com/album/6YrSgCGaLLFG5yyJIVwr4C) | 2:58 |
 | 63 | [RVN \(Raven\)](https://open.spotify.com/track/0SWSe8vswFpBkStUsi8k6L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [RVN \(Raven\)](https://open.spotify.com/album/16vSagAxXhiKV3F1ONz5yB) | 2:53 |
 | 64 | [Rotation](https://open.spotify.com/track/7hKhKRLA9zSPKOXr15ncVx) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Rotation](https://open.spotify.com/album/0AwC1LDyfahYOptBEjMgca) | 2:54 |
 | 65 | [Outside World](https://open.spotify.com/track/5FriNJpgR0DT1p3ypBPhR9) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Outside World](https://open.spotify.com/album/05TsKnWBmFFER3b0K5VnW3) | 2:29 |
-| 66 | [Higher When I Rise](https://open.spotify.com/track/45vv0ZVpJ8sCh08YQtRQlT) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Higher When I Rise](https://open.spotify.com/album/4mZreqlCfU6i3c7MPzwaeA) | 3:15 |
-| 67 | [Bad](https://open.spotify.com/track/11BtGhFCp0R6yRzB9grEKw) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Bad](https://open.spotify.com/album/1F2ehGjO2DqYqrEDN6n7t9) | 2:32 |
+| 66 | [Bad](https://open.spotify.com/track/11BtGhFCp0R6yRzB9grEKw) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Bad](https://open.spotify.com/album/1F2ehGjO2DqYqrEDN6n7t9) | 2:32 |
+| 67 | [Higher When I Rise](https://open.spotify.com/track/45vv0ZVpJ8sCh08YQtRQlT) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Higher When I Rise](https://open.spotify.com/album/4mZreqlCfU6i3c7MPzwaeA) | 3:15 |
 | 68 | [The Partycrasher](https://open.spotify.com/track/2uHGci4XJywAICJ1D54Xgq) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chuckie](https://open.spotify.com/artist/4x7gxsrTH3gThvSKZPPwaQ) | [The Partycrasher](https://open.spotify.com/album/4rwbRBvVsKL96gZQcaHTCT) | 2:47 |
 | 69 | [Automatic](https://open.spotify.com/track/6ApTUn36QPmFIb5tSezZFw) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [RAVEKINGS](https://open.spotify.com/artist/1mWqL90F7Hmnx0VLoDy6YQ), [JSPH](https://open.spotify.com/artist/6To3udkIKAZLdJnqlrN7e5) | [Automatic](https://open.spotify.com/album/7Dw7nDMPL5OGBscWJS6qvK) | 2:37 |
 | 70 | [Freedom](https://open.spotify.com/track/29WwN7OZGIwtRsEX18c1LO) | [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Freedom](https://open.spotify.com/album/2FOoWd3HnAhZXGuw6gQrCg) | 2:49 |

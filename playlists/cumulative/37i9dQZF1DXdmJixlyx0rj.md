@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: Peggy Gou, Ayra Starr\)
 
-322 songs - 18 hr 4 min
+323 songs - 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,7 @@
 | [INVU \- ZHU Remix](https://open.spotify.com/track/483n1AQ8X3rT3ILd2tp9Y7) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [iScreaM Vol.15 : INVU Remixes](https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw) | 3:39 | 2024-04-05 | 2025-06-22 |
 | [It Couldn’t Be Better](https://open.spotify.com/track/3KPsZ9xEvbdIloQb0OjwPI) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM) | [It Couldn’t Be Better](https://open.spotify.com/album/1iGNYCVo1OAoX7UjJZ72r2) | 3:14 | 2024-04-05 | 2024-06-29 |
 | [It's Me](https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [MAMIHLAPINATAPAI](https://open.spotify.com/album/5VIt2dA2StboE900mllWdJ) | 2:18 | 2026-06-23 |  |
-| [Itaewonian Funk](https://open.spotify.com/track/5p04bdrM3hca55mydwRDDF) | [IÖN](https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV), [DJ POOL](https://open.spotify.com/artist/2apxgZK9kFgoCt7XCTUnhK), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [AREA X](https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ) | 2:55 | 2026-06-29 |  |
+| [Itaewonian Funk](https://open.spotify.com/track/5p04bdrM3hca55mydwRDDF) | [IÖN](https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV), [DJ POOL](https://open.spotify.com/artist/2apxgZK9kFgoCt7XCTUnhK), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [AREA X](https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ) | 2:55 | 2026-06-29 | 2026-07-02 |
 | [Jealous](https://open.spotify.com/track/1maz5QxIWm6ZLyE8m9i56n) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw), [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ) | [NO DRUGS](https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M) | 2:22 | 2026-06-23 |  |
 | [Keep My Light On](https://open.spotify.com/track/5zADzgQPu2VDODCcXANZou) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ) | [Keep My Light On](https://open.spotify.com/album/3HcZw9vfH6krvhgkhfkWSW) | 2:45 | 2024-06-28 |  |
 | [Keep On Jumpin'](https://open.spotify.com/track/0CbT1KxkgntAeNGYy5jwQE) | [Worvan](https://open.spotify.com/artist/2xPNzJaAiVobXqliW6ZXvC), [Juyong](https://open.spotify.com/artist/0ALnsDV3w3tXL6abvFJkP2) | [Keep On Jumpin'](https://open.spotify.com/album/1JXc3MPb9LFPiWuM5qe18Z) | 2:00 | 2024-04-05 | 2024-06-01 |
@@ -281,6 +281,7 @@
 | [Starry Night \- Edit](https://open.spotify.com/track/6FwPQVdtjwfORrrFkpGhrz) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Starry Night](https://open.spotify.com/album/0bYW9weJ7SXRaBFbWuBQeI) | 3:53 | 2024-04-05 |  |
 | [Stars + Yves](https://open.spotify.com/track/52vFAalJWVolzGZXmjtPIz) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Fancy Some More?](https://open.spotify.com/album/12Lig9oAX9nvpWHft5cHgF) | 2:21 | 2026-06-23 |  |
 | [Sticker \- Will Not Fear Remix](https://open.spotify.com/track/1X4hW7NBxflvlNPlJnN6vQ) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [Will Not Fear](https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N) | [iScreaM Vol.13 : Sticker Remixes](https://open.spotify.com/album/0p4f9Nw20DLlu1cWzrToB8) | 3:24 | 2024-04-05 | 2024-05-19 |
+| [subsonic₩](https://open.spotify.com/track/2LfAyjRZZdW3ZZ0AVTLMyP) | [HYPNOSIS THERAPY](https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP) | [latency](https://open.spotify.com/album/2rjA4rO2TtcWuyj3Wuk30N) | 3:19 | 2026-06-29 |  |
 | [Summer Breeze](https://open.spotify.com/track/4VCL2FCNn84FYaRXCVSeIa) | [NINA](https://open.spotify.com/artist/2P9ftPzTkpvJv2ws2XWHQS) | [Summer Breeze](https://open.spotify.com/album/5J26Mlv1iXr4SugLzGXEtc) | 2:56 | 2024-04-18 | 2024-06-29 |
 | [Super \(Workout Remix\)](https://open.spotify.com/track/6P7m3AZlTUm39hkeAgQNMk) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Super \(Workout Remix\)](https://open.spotify.com/album/6oeww5DTxCKE4h5sSkoRjI) | 3:13 | 2024-06-28 |  |
 | [Supernova \(Grimes Remix\)](https://open.spotify.com/track/4cebwm6DwAPkyOKbNT6RmL) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [iScreaM Vol.33 : Supernova / Armageddon Remixes](https://open.spotify.com/album/3aLbyAljCs2NI9AdjfRPqc) | 3:47 | 2024-09-20 | 2026-06-23 |

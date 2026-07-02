@@ -1,13 +1,77 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Fia James. Artwork by Paola Saliby",
-  "num_followers": 241972,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.   Cover: Ella Maddux. Artwork by Paola Saliby",
+  "num_followers": 241970,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOvH9vz8Vl4xuOZgAKfW9G/NcGBG",
+  "snapshot_id": "AAAAALj9sp4Ovpvh59HkIn4nXsjnFHy/",
   "tracks": [
+    {
+      "added_at": "2026-07-01 15:26:55",
+      "album": {
+        "name": "Betting Woman",
+        "url": "https://open.spotify.com/album/6a9xEDfnVb3qgdVLa2vMjK"
+      },
+      "artists": [
+        {
+          "name": "Ella Maddux",
+          "url": "https://open.spotify.com/artist/1WokQQvTE8AK9ekn4ILMvf"
+        }
+      ],
+      "duration_ms": 185148,
+      "name": "Traveling Man",
+      "url": "https://open.spotify.com/track/6Nx25shrwDV2uXHmFjUW5l"
+    },
+    {
+      "added_at": "2026-07-01 15:26:55",
+      "album": {
+        "name": "Lovesick Lobotomy",
+        "url": "https://open.spotify.com/album/5fsNOV0dM35dvXaXdGkRAf"
+      },
+      "artists": [
+        {
+          "name": "Earthgirl",
+          "url": "https://open.spotify.com/artist/7bO0m1OyMUf3ASTrQZbfSa"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "Lovesick Lobotomy",
+      "url": "https://open.spotify.com/track/75puZs3gEpjiauihNVJCgs"
+    },
+    {
+      "added_at": "2026-07-01 15:26:55",
+      "album": {
+        "name": "Last Train Home",
+        "url": "https://open.spotify.com/album/4BYuClhmYidSVfLtA7cXZs"
+      },
+      "artists": [
+        {
+          "name": "Oscar Stembridge",
+          "url": "https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9"
+        }
+      ],
+      "duration_ms": 182776,
+      "name": "Last Train Home",
+      "url": "https://open.spotify.com/track/48vL9BnLGjVR67iMyrj9DZ"
+    },
+    {
+      "added_at": "2026-07-01 15:26:55",
+      "album": {
+        "name": "CR33PS",
+        "url": "https://open.spotify.com/album/7bl3I861kUyMzBph6WMkue"
+      },
+      "artists": [
+        {
+          "name": "herCULES",
+          "url": "https://open.spotify.com/artist/4iyOHW8Bcc3JakQFGw8H0S"
+        }
+      ],
+      "duration_ms": 155642,
+      "name": "CR33PS",
+      "url": "https://open.spotify.com/track/3CUzLJWBak2SSut9QzGnmT"
+    },
     {
       "added_at": "2026-06-17 04:00:29",
       "album": {
@@ -653,22 +717,6 @@
       "url": "https://open.spotify.com/track/4Y4BpyeLGe2UIYK9mEJRHW"
     },
     {
-      "added_at": "2026-05-20 04:00:06",
-      "album": {
-        "name": "free",
-        "url": "https://open.spotify.com/album/3Q7pXnkSY80FN5I1MCNInR"
-      },
-      "artists": [
-        {
-          "name": "Ana Kahan",
-          "url": "https://open.spotify.com/artist/6enycJ8VKJvxQ2lyAo5xz3"
-        }
-      ],
-      "duration_ms": 181039,
-      "name": "free",
-      "url": "https://open.spotify.com/track/2JDXFU1vW96R9bpHYGLiuD"
-    },
-    {
       "added_at": "2026-05-13 17:43:08",
       "album": {
         "name": "Chloe Showed Me",
@@ -699,22 +747,6 @@
       "duration_ms": 208460,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/3obOb4X1t6jpG4EKHMQYFQ"
-    },
-    {
-      "added_at": "2026-05-06 15:27:46",
-      "album": {
-        "name": "Half As Cool",
-        "url": "https://open.spotify.com/album/1fxacv1634svqjhx940BGv"
-      },
-      "artists": [
-        {
-          "name": "SUUS",
-          "url": "https://open.spotify.com/artist/3WjZbDDJa9OtjOVFDhUJJu"
-        }
-      ],
-      "duration_ms": 163147,
-      "name": "Half As Cool",
-      "url": "https://open.spotify.com/track/7qX6xSLgM2MiuxZsBZ7q3M"
     },
     {
       "added_at": "2026-04-29 04:00:30",
@@ -751,22 +783,6 @@
     {
       "added_at": "2026-05-06 15:27:46",
       "album": {
-        "name": "Good Pretender",
-        "url": "https://open.spotify.com/album/6qnzobG0laXkjqQagipjZ1"
-      },
-      "artists": [
-        {
-          "name": "Amalia Davinder",
-          "url": "https://open.spotify.com/artist/1UZdRl7AwDP3R7HLZhjam8"
-        }
-      ],
-      "duration_ms": 153878,
-      "name": "Headrush",
-      "url": "https://open.spotify.com/track/01Ldw0vMTV9hLce0kw9qxI"
-    },
-    {
-      "added_at": "2026-05-06 15:27:46",
-      "album": {
         "name": "RAT RACE",
         "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 218712,
       "name": "RAT RACE",
       "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
-    },
-    {
-      "added_at": "2026-05-06 15:27:46",
-      "album": {
-        "name": "Dirty",
-        "url": "https://open.spotify.com/album/6aYLLOe1FGm9EYFhCSMunz"
-      },
-      "artists": [
-        {
-          "name": "PENNY",
-          "url": "https://open.spotify.com/artist/3nkkY2mnJp6qI8xr0Z1Yxq"
-        }
-      ],
-      "duration_ms": 180362,
-      "name": "Dirty",
-      "url": "https://open.spotify.com/track/6GsKMETdRKLz5bXJGUC613"
     },
     {
       "added_at": "2026-04-29 04:00:30",

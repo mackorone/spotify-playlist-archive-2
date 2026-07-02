@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 
 > Con todo el sentimiento ranchero desde el corazón de la Tierra Caliente\. Arkangel Musical de Tierra Caliente en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,058 likes - 125 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,087 likes - 125 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 11 | [El Caminante](https://open.spotify.com/track/4Mfepu07REoaF3fxJBtpzi) | [La Dinastía de Tuzantla Michoacán](https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R) | [Nuestra Historia](https://open.spotify.com/album/2aRhJtFFfvHtPv9EUegbVd) | 4:01 |
 | 12 | [Mix de Sones \#2](https://open.spotify.com/track/69T73pmI6Ikpne4NHp4Px6) | [Arkangel Musical de Tierra Caliente](https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k) | [Siempre Contigo](https://open.spotify.com/album/4txMTXItugpA7vz6sGK8SV) | 6:16 |
 | 13 | [No Pares](https://open.spotify.com/track/1vI0GTOoY5VC9azFTlvoEg) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [20 Exitos de Ley](https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1) | 3:39 |
-| 14 | [Destino](https://open.spotify.com/track/788MJUGdfIQXUuLwiDw7NC) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Mi Más Grande Tesoro](https://open.spotify.com/album/2KHVmLTI8nibE0jJ4qFO2H) | 4:03 |
-| 15 | [No Quise Decirle](https://open.spotify.com/track/2EoXCwwAxee2Ky3Y0nIBfI) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Amistad y Pesos](https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1) | 4:13 |
+| 14 | [No Quise Decirle](https://open.spotify.com/track/2EoXCwwAxee2Ky3Y0nIBfI) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Amistad y Pesos](https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1) | 4:13 |
+| 15 | [Destino](https://open.spotify.com/track/788MJUGdfIQXUuLwiDw7NC) | [Los Player's de Tuzantla](https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW) | [Mi Más Grande Tesoro](https://open.spotify.com/album/2KHVmLTI8nibE0jJ4qFO2H) | 4:03 |
 | 16 | [Palomita De Alas Blancas](https://open.spotify.com/track/0Vx8j4stjp6Mycjqyc7eRO) | [Beto Y Sus Canarios](https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv) | [Mi Despedida](https://open.spotify.com/album/14iB8WCfhOBf2QrHaxN5jt) | 2:49 |
 | 17 | [Brebaje](https://open.spotify.com/track/3w3xwSJe6GhgqTfbVGhBbv) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Esperando Tu Llamada](https://open.spotify.com/album/3oDGzlvfKUsJ0NQpV8cAXj) | 2:54 |
 | 18 | [El Baile del Sacadito](https://open.spotify.com/track/5hk73dL1v4ZX2deqiFiBW5) | [Tierra Cali](https://open.spotify.com/artist/4JqzwqRUOCEHeIVRDWG5Jv) | [20 Exitos de Ley](https://open.spotify.com/album/5vneQUtrAtGXvKsoGyGxa1) | 3:36 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3DLGR0bUA0n.md) - [plain]
 | 86 | [No Compro Amores](https://open.spotify.com/track/2ueAJJVe4Lwjh4hXfdcsMh) | [Los hermanos Jimenez](https://open.spotify.com/artist/3oPc1V6h1UOOvuYQNt7CUn) | [Tercia de Reyes](https://open.spotify.com/album/7v4dH5m0lTN5ywngANBPJd) | 2:28 |
 | 87 | [Cuando Los Hombres Lloran](https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14) | [Josecito Leon y Su Internacional Banda Roja](https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw) | [Cuando Los Hombres Lloran](https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo) | 2:36 |
 | 88 | [Si Tengo A Mi Madre](https://open.spotify.com/track/49KTGketU9XTzO4I6I2kck) | [Estrellas De Tuzantla](https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN) | [Lloviendo Estrellas](https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA) | 3:33 |
-| 89 | [Mi Presencia Cuenta](https://open.spotify.com/track/3odi5ZTRPlXuSH9cOIV4lb) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Mi Presencia Cuenta](https://open.spotify.com/album/6mCasm869JkpS9luUZbKJL) | 2:28 |
-| 90 | [Lo Descubri En Tus Brazos](https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7) | [La Marka](https://open.spotify.com/artist/7vrH7DRYWF88rTM7YpnAIj) | [Se Equivoco Tu Corazon](https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb) | 2:29 |
+| 89 | [Lo Descubri En Tus Brazos](https://open.spotify.com/track/5MzjN7ydAXnv7odUfl0xV7) | [La Marka](https://open.spotify.com/artist/7vrH7DRYWF88rTM7YpnAIj) | [Se Equivoco Tu Corazon](https://open.spotify.com/album/0L9ukApFrYj9w8eMODlVEb) | 2:29 |
+| 90 | [Mi Presencia Cuenta](https://open.spotify.com/track/3odi5ZTRPlXuSH9cOIV4lb) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Mi Presencia Cuenta](https://open.spotify.com/album/6mCasm869JkpS9luUZbKJL) | 2:28 |
 | 91 | [Te Ves Fatal](https://open.spotify.com/track/55FXnod2nhT9cRG2dF85gO) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Te Ves Fatal](https://open.spotify.com/album/3MDmfTzP6IwC8utr9LKLXH) | 3:40 |
 | 92 | [Cuéntale a la Gente \(feat\. La Leyenda De Servando Montalva\)](https://open.spotify.com/track/1zhSUSXjhxlJ8WTVnnD8yj) | [Los Hermanos Salgado](https://open.spotify.com/artist/6j5ye5mufTZx40UKVScMvP), [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Cuéntale a la Gente \(feat\. La Leyenda De Servando Montalva\)](https://open.spotify.com/album/0gJoiSwS7poTKJJSDUQwEC) | 3:23 |
 | 93 | [Inolvidables](https://open.spotify.com/track/3wQ0hlPa8QibAudvFpmhOU) | [La Leyenda De Servando Montalva](https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn) | [Inolvidable](https://open.spotify.com/album/0fvLPJdXSU7YonBQNWNL4M) | 3:22 |

@@ -1156,10 +1156,40 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 505000,
       "name": "Finian's Rainbow",
       "url": "https://open.spotify.com/track/1mtDTd4bP1R9h3wTW9XOK8"
+    },
+    {
+      "album": {
+        "name": "Vintage Broadway",
+        "url": "https://open.spotify.com/album/5bwDDKj5hsZwQTdmBIaP8d"
+      },
+      "artists": [
+        {
+          "name": "Yip Harburg",
+          "url": "https://open.spotify.com/artist/7MrL6dlW8gcb7T3YhhCdOA"
+        },
+        {
+          "name": "Burton Lane",
+          "url": "https://open.spotify.com/artist/2I94yBi5nYiyVs00T7NxWA"
+        },
+        {
+          "name": "Richard Hayman Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/2SDs98YfrEGBbh5PK98HvL"
+        },
+        {
+          "name": "Richard Hayman",
+          "url": "https://open.spotify.com/artist/68tBK9r9zdViB8V73G5SA9"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 505000,
+      "name": "Finian's Rainbow (Arr. R. Hayman)",
+      "url": "https://open.spotify.com/track/1jqW6Sis8KmBf4aJ9AMX9B"
     },
     {
       "album": {

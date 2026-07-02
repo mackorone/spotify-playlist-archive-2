@@ -1,6 +1,6 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 146842,
+  "num_followers": 146837,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-06-29 08:10:35",
       "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/76fraD9FgQyrUO96cnMtSd"
+      },
+      "artists": [
+        {
+          "name": "blah",
+          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
+        }
+      ],
+      "duration_ms": 208320,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6ztc7DgMKjJ9uHwX86LrXW"
+    },
+    {
+      "added_at": "2026-06-29 08:10:35",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
@@ -599,18 +615,18 @@
     {
       "added_at": "2026-06-29 08:10:35",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/76fraD9FgQyrUO96cnMtSd"
+        "name": "Shin Ji Hoon 1st Album 'Stars and Memories and Poetry'",
+        "url": "https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ"
       },
       "artists": [
         {
-          "name": "blah",
-          "url": "https://open.spotify.com/artist/0agqtoeQB2zKMFX1kgt5Hg"
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
         }
       ],
-      "duration_ms": 208320,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6ztc7DgMKjJ9uHwX86LrXW"
+      "duration_ms": 264720,
+      "name": "The Night\u2019s Window",
+      "url": "https://open.spotify.com/track/2d2o64u52bqWpICVM7s4e2"
     },
     {
       "added_at": "2026-06-29 08:10:35",
@@ -631,22 +647,6 @@
       "duration_ms": 217441,
       "name": "AM PM (feat. Whee In) - Prod. Gray",
       "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
-    },
-    {
-      "added_at": "2026-06-29 08:10:35",
-      "album": {
-        "name": "Shin Ji Hoon 1st Album 'Stars and Memories and Poetry'",
-        "url": "https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ"
-      },
-      "artists": [
-        {
-          "name": "Shin Ji Hoon",
-          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
-        }
-      ],
-      "duration_ms": 264720,
-      "name": "The Night\u2019s Window",
-      "url": "https://open.spotify.com/track/2d2o64u52bqWpICVM7s4e2"
     },
     {
       "added_at": "2026-06-29 08:10:35",
@@ -687,6 +687,26 @@
     {
       "added_at": "2026-06-29 08:10:35",
       "album": {
+        "name": "EXchange3, Pt. 1 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq"
+      },
+      "artists": [
+        {
+          "name": "Paul Blanco",
+          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
+        },
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "On my mind",
+      "url": "https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B"
+    },
+    {
+      "added_at": "2026-06-29 08:10:35",
+      "album": {
         "name": "Phantom Pain",
         "url": "https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 195333,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q"
-    },
-    {
-      "added_at": "2026-06-29 08:10:35",
-      "album": {
-        "name": "EXchange3, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq"
-      },
-      "artists": [
-        {
-          "name": "Paul Blanco",
-          "url": "https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw"
-        },
-        {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "On my mind",
-      "url": "https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B"
     },
     {
       "added_at": "2026-06-29 08:10:35",

@@ -691,6 +691,24 @@
     },
     {
       "album": {
+        "name": "Other Side of the Phone",
+        "url": "https://open.spotify.com/album/1peSg724wfQGE3RWyktVA4"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261818,
+      "name": "Another Dimension",
+      "url": "https://open.spotify.com/track/7cWi2fEhvxolBmElAvOCEI"
+    },
+    {
+      "album": {
         "name": "Another Hit",
         "url": "https://open.spotify.com/album/6U9TTmxdR9b8RxNJGsRdvq"
       },
@@ -3243,6 +3261,24 @@
     },
     {
       "album": {
+        "name": "Cheeky",
+        "url": "https://open.spotify.com/album/5ytmcYFHNpqMgcoWUcl1aq"
+      },
+      "artists": [
+        {
+          "name": "JAKKOB",
+          "url": "https://open.spotify.com/artist/1eZYmDz6m5XXpZ1dzo70v0"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150229,
+      "name": "Cheeky",
+      "url": "https://open.spotify.com/track/3sGDu6w7rVTmXdVJThjyS4"
+    },
+    {
+      "album": {
         "name": "Chip Shop Heroes",
         "url": "https://open.spotify.com/album/75iBI8XAM76TT5c3hKczc7"
       },
@@ -4844,7 +4880,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 234330,
       "name": "Do You Wanna",
       "url": "https://open.spotify.com/track/6jU1CPlzBQ3vGDmyriJw9S"
@@ -5130,7 +5166,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 146250,
       "name": "Don\u2019t Go (Don\u2019t Leave)",
       "url": "https://open.spotify.com/track/2GdYLWhuBhuie4kPhKuzqu"
@@ -5761,6 +5797,24 @@
     },
     {
       "album": {
+        "name": "Eternal",
+        "url": "https://open.spotify.com/album/62j4SK8Ys9WxnIMtv0HUWZ"
+      },
+      "artists": [
+        {
+          "name": "Wheats",
+          "url": "https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258334,
+      "name": "Eternal",
+      "url": "https://open.spotify.com/track/0SvxEsBj8cxmAqnjUDhFIK"
+    },
+    {
+      "album": {
         "name": "fall '22",
         "url": "https://open.spotify.com/album/24QlYIbEIVo1lT93ethJ2q"
       },
@@ -6098,7 +6152,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 194545,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/03Ua5Te7e4udXlqIakAGqX"
@@ -7415,6 +7469,28 @@
     },
     {
       "album": {
+        "name": "Get On Up",
+        "url": "https://open.spotify.com/album/5QhdZgAX6fh21Of8xx8Wj8"
+      },
+      "artists": [
+        {
+          "name": "Michel De Hey",
+          "url": "https://open.spotify.com/artist/4BY4HaWussT44zj9RiCGzh"
+        },
+        {
+          "name": "Job De Jong",
+          "url": "https://open.spotify.com/artist/0XbTWVRVTghfm7SBPI6hpI"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183354,
+      "name": "Get On Up",
+      "url": "https://open.spotify.com/track/5KBUE75BEZMGmDnfW8y2gd"
+    },
+    {
+      "album": {
         "name": "Get Out My Head",
         "url": "https://open.spotify.com/album/3CXfXKhefyTcvN7PzJTdGk"
       },
@@ -7810,7 +7886,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 302222,
       "name": "Gold",
       "url": "https://open.spotify.com/track/56juJw8K3njlvFKz7fitj8"
@@ -9454,7 +9530,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 143808,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/7CVEZE9RSUO3MfdqF4TRgv"
@@ -14315,6 +14391,24 @@
     },
     {
       "album": {
+        "name": "Other Side of the Phone",
+        "url": "https://open.spotify.com/album/1peSg724wfQGE3RWyktVA4"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285354,
+      "name": "Other Side of the Phone",
+      "url": "https://open.spotify.com/track/4yWeNq5VjZgvNFwdyZKGz2"
+    },
+    {
+      "album": {
         "name": "Otra Mass",
         "url": "https://open.spotify.com/album/5GXyfWE0pzSh4NGF2eBhuI"
       },
@@ -14834,7 +14928,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 256615,
       "name": "Places",
       "url": "https://open.spotify.com/track/6OVnACZ85MNWhGeJqOjwAX"
@@ -14870,7 +14964,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 178181,
       "name": "Planet Hollywood",
       "url": "https://open.spotify.com/track/14fs7flJKEL6r1q8Enly3r"
@@ -15095,6 +15189,24 @@
     },
     {
       "album": {
+        "name": "Prep\u00e1rame EP",
+        "url": "https://open.spotify.com/album/4R90gTjXs01jMsqqinBKVG"
+      },
+      "artists": [
+        {
+          "name": "Capron",
+          "url": "https://open.spotify.com/artist/49avcGZMMES2LbSHKis5Kz"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200314,
+      "name": "Prep\u00e1rame",
+      "url": "https://open.spotify.com/track/0r6SxMo8YxMJaIAW3M4qwk"
+    },
+    {
+      "album": {
         "name": "Prime / Vibrations",
         "url": "https://open.spotify.com/album/4NOy19Kb3fVZYJsLcBcN39"
       },
@@ -15106,7 +15218,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 198855,
       "name": "Prime",
       "url": "https://open.spotify.com/track/64lWjyp5R6DkHbD2JFE2PL"
@@ -16448,6 +16560,28 @@
       "duration_ms": 158797,
       "name": "Ruffneck",
       "url": "https://open.spotify.com/track/3h50ktmY1T2ZaXo8BPB5mX"
+    },
+    {
+      "album": {
+        "name": "Run EP",
+        "url": "https://open.spotify.com/album/3Myjvmo4PGIwAjRUrZT4ts"
+      },
+      "artists": [
+        {
+          "name": "Marsolo",
+          "url": "https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV"
+        },
+        {
+          "name": "O.MMY",
+          "url": "https://open.spotify.com/artist/03uJoULpNhZyCaXwTAWFfS"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183036,
+      "name": "Run (feat. O.MMY)",
+      "url": "https://open.spotify.com/track/1gI05lrka4qQy2p00eW7Rw"
     },
     {
       "album": {
@@ -17827,6 +17961,24 @@
     },
     {
       "album": {
+        "name": "Something 2 Dance 2",
+        "url": "https://open.spotify.com/album/2qYmim1O8vwP43jzusfIKJ"
+      },
+      "artists": [
+        {
+          "name": "Jordan Peak",
+          "url": "https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207289,
+      "name": "Something 2 Dance 2",
+      "url": "https://open.spotify.com/track/5eABSV4aDk5irs5DVz9VIG"
+    },
+    {
+      "album": {
         "name": "Something About You",
         "url": "https://open.spotify.com/album/5l8rVqXXhyKVMj0QFN9P8z"
       },
@@ -18931,6 +19083,24 @@
     },
     {
       "album": {
+        "name": "Talk Of The Town",
+        "url": "https://open.spotify.com/album/3BrAMSGwliHL4h29trbFHc"
+      },
+      "artists": [
+        {
+          "name": "Butters",
+          "url": "https://open.spotify.com/artist/2bJsNg3FLooqOymiRx2F1e"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170649,
+      "name": "Talk Of The Town",
+      "url": "https://open.spotify.com/track/0ljpW4YHCAPv2xfwPkyxhh"
+    },
+    {
+      "album": {
         "name": "Talk to Me",
         "url": "https://open.spotify.com/album/1UxDzk4NCFXbaSgvLSR2VJ"
       },
@@ -19676,7 +19846,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 150476,
       "name": "The Pipe",
       "url": "https://open.spotify.com/track/3mKlPnkgFeLgFRosxNCb3x"
@@ -22450,7 +22620,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 197819,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/3YnzLXBGOXq0I4pcfYnOcX"
@@ -22506,6 +22676,24 @@
       "duration_ms": 376875,
       "name": "You Can Forever Be",
       "url": "https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze"
+    },
+    {
+      "album": {
+        "name": "You Decide / In The Mix",
+        "url": "https://open.spotify.com/album/1ZhO809BSefnM9uir8sXI3"
+      },
+      "artists": [
+        {
+          "name": "Funk Cartel",
+          "url": "https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179162,
+      "name": "You Decide",
+      "url": "https://open.spotify.com/track/1OKngv6psn4G12xsAbw4Rp"
     },
     {
       "album": {

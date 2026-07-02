@@ -1,6 +1,6 @@
 {
   "description": "2026 yaz\u0131n\u0131n \u015fark\u0131lar\u0131. Kapak: Sefo",
-  "num_followers": 289603,
+  "num_followers": 289691,
   "original_name": "Yaz Hitleri 2026",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2026-06-26 12:00:04",
       "album": {
+        "name": "Mosmor Perde",
+        "url": "https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "Mosmor Perde",
+      "url": "https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj"
+    },
+    {
+      "added_at": "2026-06-26 12:00:04",
+      "album": {
         "name": "\u00dcZ\u00dcLECEKS\u0130N 2.0",
         "url": "https://open.spotify.com/album/0gngUevVkWfjzdwiH77ULJ"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 139354,
       "name": "\u00dcZ\u00dcLECEKS\u0130N 2.0",
       "url": "https://open.spotify.com/track/2lh2tbZpcMs7scV62GcJaI"
-    },
-    {
-      "added_at": "2026-06-26 12:00:04",
-      "album": {
-        "name": "Mosmor Perde",
-        "url": "https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK"
-      },
-      "artists": [
-        {
-          "name": "BLOK3",
-          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "Mosmor Perde",
-      "url": "https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj"
     },
     {
       "added_at": "2026-06-26 12:00:04",

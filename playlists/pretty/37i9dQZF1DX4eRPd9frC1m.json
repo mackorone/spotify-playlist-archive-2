@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a> ",
-  "num_followers": 2575386,
+  "num_followers": 2575271,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-06-19 04:02:00",
       "album": {
+        "name": "TYNAN TIME",
+        "url": "https://open.spotify.com/album/6vKHfrw3se3Hq12A0cNvS5"
+      },
+      "artists": [
+        {
+          "name": "TYNAN",
+          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "his name is",
+      "url": "https://open.spotify.com/track/5AMTt4QNINkJs1Hq48xD3m"
+    },
+    {
+      "added_at": "2026-06-19 04:02:00",
+      "album": {
         "name": "Fuck It Up",
         "url": "https://open.spotify.com/album/2ByC6BK9XEUuK043NpUGB3"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 132974,
       "name": "Fuck It Up",
       "url": "https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU"
-    },
-    {
-      "added_at": "2026-06-19 04:02:00",
-      "album": {
-        "name": "TYNAN TIME",
-        "url": "https://open.spotify.com/album/6vKHfrw3se3Hq12A0cNvS5"
-      },
-      "artists": [
-        {
-          "name": "TYNAN",
-          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "his name is",
-      "url": "https://open.spotify.com/track/5AMTt4QNINkJs1Hq48xD3m"
     },
     {
       "added_at": "2026-06-19 04:02:00",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2026-06-19 04:02:00",
       "album": {
-        "name": "Cocaine Inside My Blunts (Tape B Remix)",
-        "url": "https://open.spotify.com/album/0Mfw5FWUUwxJ7Dof1OnV4L"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Tape B",
-          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "Cocaine Inside My Blunts (Tape B Remix)",
-      "url": "https://open.spotify.com/track/5uCOhMc7WQy7jawqJbdhh2"
-    },
-    {
-      "added_at": "2026-06-19 04:02:00",
-      "album": {
         "name": "Angels Landing",
         "url": "https://open.spotify.com/album/6HmjU8l5u5jmG8Mtrp6jRn"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 233600,
       "name": "Angels Landing",
       "url": "https://open.spotify.com/track/7z8zdcW66DyZ931P6BjnX7"
+    },
+    {
+      "added_at": "2026-06-19 04:02:00",
+      "album": {
+        "name": "Cocaine Inside My Blunts (Tape B Remix)",
+        "url": "https://open.spotify.com/album/0Mfw5FWUUwxJ7Dof1OnV4L"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "Cocaine Inside My Blunts (Tape B Remix)",
+      "url": "https://open.spotify.com/track/5uCOhMc7WQy7jawqJbdhh2"
     },
     {
       "added_at": "2026-06-19 04:02:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2026-06-19 04:02:00",
       "album": {
-        "name": "ACID",
-        "url": "https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9"
-      },
-      "artists": [
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        },
-        {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "ACID",
-      "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
-    },
-    {
-      "added_at": "2026-06-19 04:02:00",
-      "album": {
         "name": "Waves",
         "url": "https://open.spotify.com/album/0ue1ED9OzMUvfZoxtC2Lhd"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 294857,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1RKYSmVp2vSWumL9uI2sbd"
+    },
+    {
+      "added_at": "2026-06-19 04:02:00",
+      "album": {
+        "name": "ACID",
+        "url": "https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9"
+      },
+      "artists": [
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        },
+        {
+          "name": "SampliFire",
+          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "ACID",
+      "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
     },
     {
       "added_at": "2026-06-19 04:02:00",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-06-19 04:02:00",
       "album": {
-        "name": "Earthquake",
-        "url": "https://open.spotify.com/album/6KWKY20MFMllfE0B65JCha"
-      },
-      "artists": [
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        }
-      ],
-      "duration_ms": 119172,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/4xBQW0iZhjl7mSpse69gn5"
-    },
-    {
-      "added_at": "2026-06-19 04:02:00",
-      "album": {
         "name": "Keep Pushin' (Beast)",
         "url": "https://open.spotify.com/album/7GwtKkbaNMeE415jVriCcC"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 185581,
       "name": "Keep Pushin' (Beast)",
       "url": "https://open.spotify.com/track/7l4Lpgq0nY0WlekYbnYM38"
+    },
+    {
+      "added_at": "2026-06-19 04:02:00",
+      "album": {
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/6KWKY20MFMllfE0B65JCha"
+      },
+      "artists": [
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        }
+      ],
+      "duration_ms": 119172,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4xBQW0iZhjl7mSpse69gn5"
     },
     {
       "added_at": "2026-06-19 04:02:00",
@@ -1351,6 +1351,26 @@
     {
       "added_at": "2026-06-19 04:02:00",
       "album": {
+        "name": "OH NO",
+        "url": "https://open.spotify.com/album/77UTYvh7YqSOWDJedXuQj5"
+      },
+      "artists": [
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        },
+        {
+          "name": "Kayp",
+          "url": "https://open.spotify.com/artist/1Lp0WVwWH1SZbs5DRJrI3V"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "OH NO",
+      "url": "https://open.spotify.com/track/123IXt9lJvd2YPEaa0Gfov"
+    },
+    {
+      "added_at": "2026-06-19 04:02:00",
+      "album": {
         "name": "Movement (Wooli & Kompany Remix)",
         "url": "https://open.spotify.com/album/0cPBiyrMXCOssOWkiETUuw"
       },
@@ -1371,26 +1391,6 @@
       "duration_ms": 157714,
       "name": "Movement - Wooli & Kompany Remix",
       "url": "https://open.spotify.com/track/4nUr676TfZJbZ8Fva7LIU9"
-    },
-    {
-      "added_at": "2026-06-19 04:02:00",
-      "album": {
-        "name": "OH NO",
-        "url": "https://open.spotify.com/album/77UTYvh7YqSOWDJedXuQj5"
-      },
-      "artists": [
-        {
-          "name": "Borgore",
-          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
-        },
-        {
-          "name": "Kayp",
-          "url": "https://open.spotify.com/artist/1Lp0WVwWH1SZbs5DRJrI3V"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "OH NO",
-      "url": "https://open.spotify.com/track/123IXt9lJvd2YPEaa0Gfov"
     },
     {
       "added_at": "2026-06-19 04:02:00",
@@ -1519,18 +1519,18 @@
     {
       "added_at": "2026-06-19 04:02:00",
       "album": {
-        "name": "SHAKEUP",
-        "url": "https://open.spotify.com/album/4lPV3eMg0fcb0cCDkXhaq5"
+        "name": "Get Started",
+        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
       },
       "artists": [
         {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
         }
       ],
-      "duration_ms": 213913,
-      "name": "SHAKEUP",
-      "url": "https://open.spotify.com/track/0GNevYV44uHe2mkQ2rGYr7"
+      "duration_ms": 176514,
+      "name": "Get Started",
+      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
     },
     {
       "added_at": "2026-06-19 04:02:00",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2026-06-19 04:02:00",
       "album": {
-        "name": "Get Started",
-        "url": "https://open.spotify.com/album/4TwUdXdgca4Xwgpic2XmRI"
+        "name": "SHAKEUP",
+        "url": "https://open.spotify.com/album/4lPV3eMg0fcb0cCDkXhaq5"
       },
       "artists": [
         {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
         }
       ],
-      "duration_ms": 176514,
-      "name": "Get Started",
-      "url": "https://open.spotify.com/track/6tmMB2iCCxzzpMrQtvZU4c"
+      "duration_ms": 213913,
+      "name": "SHAKEUP",
+      "url": "https://open.spotify.com/track/0GNevYV44uHe2mkQ2rGYr7"
     },
     {
       "added_at": "2026-06-19 04:02:00",

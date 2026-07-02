@@ -9886,7 +9886,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 176773,
       "name": "PLAMO",
       "url": "https://open.spotify.com/track/6fTdsnXnyE5WqCota9qxdY"
@@ -33266,6 +33266,24 @@
       "duration_ms": 213923,
       "name": "\u9ad8\u69fb",
       "url": "https://open.spotify.com/track/1Z1Kfw6ZDzyJKMctio1QVl"
+    },
+    {
+      "album": {
+        "name": "\u9b54\u5973\u3068\u72e9\u4eba",
+        "url": "https://open.spotify.com/album/4XdyUZuE6mFTCtvlaUVSbQ"
+      },
+      "artists": [
+        {
+          "name": "\u85cd\u7a7a\u3068\u6708",
+          "url": "https://open.spotify.com/artist/04gPMXDpwndachrxXFNcwg"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158284,
+      "name": "\u9b54\u5973\u3068\u72e9\u4eba",
+      "url": "https://open.spotify.com/track/2ATrGyhc14jtrd3M7yjU80"
     },
     {
       "album": {

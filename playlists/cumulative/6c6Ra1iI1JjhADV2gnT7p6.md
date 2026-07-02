@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6c6Ra1iI1JjhADV2gnT7p6.md) - cumulative - [plain](/playlists/plain/6c6Ra1iI1JjhADV2gnT7p6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6c6Ra1iI1JjhADV2gnT7p6)
 
-### [Compact Cassette \(Spring 2026\)](https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6)
+### [Compact Cassette \(Summer 2026\)](https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6)
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
@@ -674,7 +674,7 @@
 | [Blossoming](https://open.spotify.com/track/4DyQvB0dNkGjnXT2kzxpsl) | [Feather & Bone](https://open.spotify.com/artist/1A69wMJ6rivzdcITTHXg8B), [Roniit](https://open.spotify.com/artist/09KYpkm7IEPR3nc8omKpSY) | [Blossoming](https://open.spotify.com/album/1tgykhOBdgUgL4lP7kcLrz) | 3:23 | 2026-05-09 |  |
 | [Blossoms](https://open.spotify.com/track/2IxUohPQ7IAByejsjZofX1) | [Mumu The Free Diver](https://open.spotify.com/artist/37cPvY9Wdkz53Y1cZQZwWj) | [Blossoms](https://open.spotify.com/album/5gSsZvs7HW6rzWn18LCSBG) | 7:51 | 2026-03-28 | 2026-04-05 |
 | [Blowin' Up](https://open.spotify.com/track/3e4D5pOlmYbXIAso384L40) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Blowin' Up](https://open.spotify.com/album/5IzNVQjOCqKQmOGOgvo1ag) | 3:25 | 2026-05-23 |  |
-| [Blu Tac Piano](https://open.spotify.com/track/4UMjHRPZAi5LgR8xhYShqc) | [Cusk](https://open.spotify.com/artist/3JkYnVJf85irRhvG5ptSIw) | [Blu Tac Piano](https://open.spotify.com/album/0iHDzwYLxxsxVJI4NGu8kO) | 4:57 | 2026-05-02 |  |
+| [Blu tac piano](https://open.spotify.com/track/4UMjHRPZAi5LgR8xhYShqc) | [Cusk](https://open.spotify.com/artist/3JkYnVJf85irRhvG5ptSIw) | [Blu tac piano](https://open.spotify.com/album/0iHDzwYLxxsxVJI4NGu8kO) | 4:57 | 2026-05-02 |  |
 | [Blue as Blood](https://open.spotify.com/track/32QtzJKaFGRvcBB0qo7mOS) | [mango dreamgirl](https://open.spotify.com/artist/7ByYToj4SC7xMArWzWu1Fd) | [Blue as Blood](https://open.spotify.com/album/43wloPcaGEhYTlmriMpg19) | 4:10 | 2026-04-04 | 2026-06-08 |
 | [Blue Black Crows](https://open.spotify.com/track/5tWkLdfJzQprUfmzsjqkf9) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Blue Black Crows](https://open.spotify.com/album/10oTDg6xOkWFHH9zm8Baye) | 3:44 | 2026-01-11 | 2026-01-24 |
 | [Blue Boy](https://open.spotify.com/track/5fWjsyjCzDXi21KcTBvWWI) | [FEYI](https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t) | [Blue Boy](https://open.spotify.com/album/7m3vWLbjqVXRYfi56Qgy0u) | 2:51 | 2025-11-23 | 2026-01-03 |

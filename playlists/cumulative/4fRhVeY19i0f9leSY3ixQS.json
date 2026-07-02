@@ -7591,6 +7591,24 @@
     },
     {
       "album": {
+        "name": "Don't Tell Me",
+        "url": "https://open.spotify.com/album/3VzhC7643uJneKWcwexVdA"
+      },
+      "artists": [
+        {
+          "name": "Official Partners",
+          "url": "https://open.spotify.com/artist/5B2P6GHnBnkuw2HgpY9A37"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142125,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/2q8A5sSRzOjrlJ9l6XGd9O"
+    },
+    {
+      "album": {
         "name": "See You Tomorrow?",
         "url": "https://open.spotify.com/album/7kzrpQqaSblTKG6ULvumzq"
       },
@@ -11100,6 +11118,24 @@
       "duration_ms": 156414,
       "name": "Golden Youth",
       "url": "https://open.spotify.com/track/4TJJ7lPCk79jmNTI7rEK0m"
+    },
+    {
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/3PMzLzF9eXpcTGfPiB0HMm"
+      },
+      "artists": [
+        {
+          "name": "Melexo",
+          "url": "https://open.spotify.com/artist/5rOtSodS6Uf2sAWsjhjHXM"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188976,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/5blvbL1nnzJiPwNkcFNrp4"
     },
     {
       "album": {
@@ -15158,6 +15194,24 @@
       "duration_ms": 216000,
       "name": "Le train",
       "url": "https://open.spotify.com/track/0LTYYJCdBhTmVCtWnjz3uW"
+    },
+    {
+      "album": {
+        "name": "Leave",
+        "url": "https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0"
+      },
+      "artists": [
+        {
+          "name": "The Color Blew",
+          "url": "https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188083,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5"
     },
     {
       "album": {
@@ -23539,6 +23593,24 @@
     },
     {
       "album": {
+        "name": "She's Undone Me (Remaster)",
+        "url": "https://open.spotify.com/album/7fTqYSdlh9k57M6I3gxU4f"
+      },
+      "artists": [
+        {
+          "name": "4est Fleur",
+          "url": "https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170031,
+      "name": "She's Undone Me - Remaster",
+      "url": "https://open.spotify.com/track/19nHBw5kkMfz5PA9Fs4fCy"
+    },
+    {
+      "album": {
         "name": "Sheared to the Bone",
         "url": "https://open.spotify.com/album/6f5uibI5fAPSNf8M5wOJXu"
       },
@@ -25044,6 +25116,24 @@
       "duration_ms": 128800,
       "name": "Spine",
       "url": "https://open.spotify.com/track/1Lhk6LezwUhLEZT5YiFZkK"
+    },
+    {
+      "album": {
+        "name": "Spinning",
+        "url": "https://open.spotify.com/album/5779jVW9nZJopL21dLqLyy"
+      },
+      "artists": [
+        {
+          "name": "Vaudevilles",
+          "url": "https://open.spotify.com/artist/0Zh7mPNzbGkS6F5rgXPrfX"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Spinning",
+      "url": "https://open.spotify.com/track/0xDyesueEZRtm8GMV7PjW3"
     },
     {
       "album": {
@@ -27127,6 +27217,28 @@
     },
     {
       "album": {
+        "name": "The Fake and Ugly",
+        "url": "https://open.spotify.com/album/0WlpgVOSgnf1G9JMjhOZds"
+      },
+      "artists": [
+        {
+          "name": "Zacky Sickness",
+          "url": "https://open.spotify.com/artist/58kNV2ehu00mrwHZBK5GRr"
+        },
+        {
+          "name": "Jacob Lizotte",
+          "url": "https://open.spotify.com/artist/1xd4o3nvXyiD90YBml2A5T"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216529,
+      "name": "The Fake and Ugly",
+      "url": "https://open.spotify.com/track/4FHh01O7CvUExUYI15WI8z"
+    },
+    {
+      "album": {
         "name": "The Fallen",
         "url": "https://open.spotify.com/album/0l4A555dr88W8yB8T83taf"
       },
@@ -27640,6 +27752,24 @@
     {
       "album": {
         "name": "The One",
+        "url": "https://open.spotify.com/album/70kBGUnNybdymYnu6x2oz4"
+      },
+      "artists": [
+        {
+          "name": "Iettry",
+          "url": "https://open.spotify.com/artist/0SaKqSGuTUgkjd3ms0iBMB"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162268,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/4H2PVXZMwH0TnSTuMfHHs2"
+    },
+    {
+      "album": {
+        "name": "The One",
         "url": "https://open.spotify.com/album/3eEmxk6Y05TnyXRRKsVasV"
       },
       "artists": [
@@ -27780,7 +27910,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-08",
+      "date_removed": null,
       "duration_ms": 237126,
       "name": "The Quest",
       "url": "https://open.spotify.com/track/7MkPaI42DRM4NugLfOZDZQ"

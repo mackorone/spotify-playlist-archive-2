@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 109691,
+  "num_followers": 109709,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -543,26 +543,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Overal (feat. DJ Youss-F)",
-        "url": "https://open.spotify.com/album/7C5iaQAlPVjxtGnlbWswqx"
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
       },
       "artists": [
         {
-          "name": "F1rstman",
-          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
         },
         {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
         },
         {
-          "name": "DJ Youss-F",
-          "url": "https://open.spotify.com/artist/5DP8uQLYvY07JGJvtVklwV"
+          "name": "Brysa",
+          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
+        },
+        {
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
         }
       ],
-      "duration_ms": 182970,
-      "name": "Overal (feat. DJ Youss-F)",
-      "url": "https://open.spotify.com/track/7bQQ2B4EVLDiMA79EbT2qe"
+      "duration_ms": 173534,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -607,30 +611,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
+        "name": "Overal (feat. DJ Youss-F)",
+        "url": "https://open.spotify.com/album/7C5iaQAlPVjxtGnlbWswqx"
       },
       "artists": [
         {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+          "name": "F1rstman",
+          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
         },
         {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
         },
         {
-          "name": "Brysa",
-          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
-        },
-        {
-          "name": "Ashafar",
-          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+          "name": "DJ Youss-F",
+          "url": "https://open.spotify.com/artist/5DP8uQLYvY07JGJvtVklwV"
         }
       ],
-      "duration_ms": 173534,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
+      "duration_ms": 182970,
+      "name": "Overal (feat. DJ Youss-F)",
+      "url": "https://open.spotify.com/track/7bQQ2B4EVLDiMA79EbT2qe"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Pit Stop",
-        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
-      },
-      "artists": [
-        {
-          "name": "Bridde Boys",
-          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
-        }
-      ],
-      "duration_ms": 253544,
-      "name": "Pit Stop",
-      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "POSITIE",
         "url": "https://open.spotify.com/album/5ZxrvhLBo8rYCB1V8vTguF"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 200970,
       "name": "POSITIE",
       "url": "https://open.spotify.com/track/5dVXY5359o7XBmfoNCBMxg"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Pit Stop",
+        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
+      },
+      "artists": [
+        {
+          "name": "Bridde Boys",
+          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
+        }
+      ],
+      "duration_ms": 253544,
+      "name": "Pit Stop",
+      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1051,34 +1051,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Betasten",
-        "url": "https://open.spotify.com/album/0xaq04tzj37Dy61OqXQ7Xm"
-      },
-      "artists": [
-        {
-          "name": "Team Rush Hour",
-          "url": "https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP"
-        },
-        {
-          "name": "F1rstman",
-          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
-        },
-        {
-          "name": "Giorgio Sanches",
-          "url": "https://open.spotify.com/artist/4czBYH5Cx0BFCXixmMsgyU"
-        },
-        {
-          "name": "Gio",
-          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
-        }
-      ],
-      "duration_ms": 185459,
-      "name": "Betasten",
-      "url": "https://open.spotify.com/track/7nwSbPfiDGGBCmYWOS4ezn"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Culo",
         "url": "https://open.spotify.com/album/6H55FrOOybLadaCeXnBGSn"
       },
@@ -1103,6 +1075,34 @@
       "duration_ms": 196637,
       "name": "Culo",
       "url": "https://open.spotify.com/track/442ctQ3OBBk8aMo3Ma3wRX"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Betasten",
+        "url": "https://open.spotify.com/album/0xaq04tzj37Dy61OqXQ7Xm"
+      },
+      "artists": [
+        {
+          "name": "Team Rush Hour",
+          "url": "https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP"
+        },
+        {
+          "name": "F1rstman",
+          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+        },
+        {
+          "name": "Giorgio Sanches",
+          "url": "https://open.spotify.com/artist/4czBYH5Cx0BFCXixmMsgyU"
+        },
+        {
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+        }
+      ],
+      "duration_ms": 185459,
+      "name": "Betasten",
+      "url": "https://open.spotify.com/track/7nwSbPfiDGGBCmYWOS4ezn"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1203,30 +1203,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Gimma",
-        "url": "https://open.spotify.com/album/5ATCipUwa5czhdXxJWLMRh"
-      },
-      "artists": [
-        {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
-        },
-        {
-          "name": "Mula B",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        },
-        {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
-        }
-      ],
-      "duration_ms": 148428,
-      "name": "Waarom Zoeken Naar Liefde",
-      "url": "https://open.spotify.com/track/7xprYJg18VvGOXqg8RgHau"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "IDALY",
         "url": "https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA"
       },
@@ -1251,6 +1227,30 @@
       "duration_ms": 225175,
       "name": "wine slow - remix",
       "url": "https://open.spotify.com/track/0zhMdm2j0y1NmJAQN3GhsZ"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Gimma",
+        "url": "https://open.spotify.com/album/5ATCipUwa5czhdXxJWLMRh"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        },
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "duration_ms": 148428,
+      "name": "Waarom Zoeken Naar Liefde",
+      "url": "https://open.spotify.com/track/7xprYJg18VvGOXqg8RgHau"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1927,34 +1927,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Gouden Plaat",
-        "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
-      },
-      "artists": [
-        {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
-        },
-        {
-          "name": "Sevn Alias",
-          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
-        },
-        {
-          "name": "BKO",
-          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
-        },
-        {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        }
-      ],
-      "duration_ms": 164884,
-      "name": "Tempo (feat. Sevn Alias, Bko & Boef)",
-      "url": "https://open.spotify.com/track/2YeKWxs3kfBFt7UduCEXub"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Gate 16",
         "url": "https://open.spotify.com/album/5z41J2skECbPp97tog4mdg"
       },
@@ -1983,26 +1955,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Christian Dior",
-        "url": "https://open.spotify.com/album/3YwWt0GFc3bPZfmsU1uCjM"
+        "name": "Gouden Plaat",
+        "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
       },
       "artists": [
         {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+          "name": "Jairzinho",
+          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
         },
         {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
         },
         {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+          "name": "BKO",
+          "url": "https://open.spotify.com/artist/3ZZlaq6tv1IcMjNtrZpsLd"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
         }
       ],
-      "duration_ms": 152032,
-      "name": "Christian Dior",
-      "url": "https://open.spotify.com/track/101Guv5qCWiDv0rufQuhmX"
+      "duration_ms": 164884,
+      "name": "Tempo (feat. Sevn Alias, Bko & Boef)",
+      "url": "https://open.spotify.com/track/2YeKWxs3kfBFt7UduCEXub"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2023,6 +1999,30 @@
       "duration_ms": 139428,
       "name": "BON VIBES",
       "url": "https://open.spotify.com/track/5zMG8AaGtpoGwrAA75FRGk"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Christian Dior",
+        "url": "https://open.spotify.com/album/3YwWt0GFc3bPZfmsU1uCjM"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        }
+      ],
+      "duration_ms": 152032,
+      "name": "Christian Dior",
+      "url": "https://open.spotify.com/track/101Guv5qCWiDv0rufQuhmX"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2091,30 +2091,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Forever Lit",
-        "url": "https://open.spotify.com/album/4P8C9tvr8xleuIMgVBKpGy"
-      },
-      "artists": [
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        },
-        {
-          "name": "3robi",
-          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
-        },
-        {
-          "name": "Mula B",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        }
-      ],
-      "duration_ms": 156921,
-      "name": "Walou Crisis (feat. 3robi & Mula B)",
-      "url": "https://open.spotify.com/track/4cEEHXGY0dsKtwmGFwhr9V"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Designers",
         "url": "https://open.spotify.com/album/146n3dqgpSdsk02yWRSEtI"
       },
@@ -2135,6 +2111,30 @@
       "duration_ms": 181658,
       "name": "Designers (feat. Dopebwoy & LouiVos)",
       "url": "https://open.spotify.com/track/3zycyBK3RiecrkrP8NPLxu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Forever Lit",
+        "url": "https://open.spotify.com/album/4P8C9tvr8xleuIMgVBKpGy"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "3robi",
+          "url": "https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o"
+        },
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        }
+      ],
+      "duration_ms": 156921,
+      "name": "Walou Crisis (feat. 3robi & Mula B)",
+      "url": "https://open.spotify.com/track/4cEEHXGY0dsKtwmGFwhr9V"
     },
     {
       "added_at": "2024-07-19 06:38:33",

@@ -4608,7 +4608,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 210410,
       "name": "All These Things",
       "url": "https://open.spotify.com/track/1m1qXozDZYh6c8b9ABt9vq"
@@ -14462,7 +14462,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 189056,
       "name": "Bucket of Beers",
       "url": "https://open.spotify.com/track/17OhcEoYvayBkGIFLPlfdt"
@@ -14848,7 +14848,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 249444,
       "name": "Buscando",
       "url": "https://open.spotify.com/track/1xGasCa5VSI3KCr7jdt9yo"
@@ -55500,7 +55500,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 132000,
       "name": "La Father",
       "url": "https://open.spotify.com/track/3TRQswuviiQVvyy5Q5uI7y"
@@ -67068,7 +67068,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 203528,
       "name": "moon light - voice memo",
       "url": "https://open.spotify.com/track/7Mlh0hfV4nxyRZyxID0AtX"
@@ -73568,7 +73568,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 227424,
       "name": "Oh Preacher",
       "url": "https://open.spotify.com/track/2IoIVSaKlGXTg472FzYV0A"
@@ -79316,7 +79316,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 282314,
       "name": "Plus Jamais Invisible",
       "url": "https://open.spotify.com/track/693IEpe08O259WMuIjZJ8V"
@@ -93958,7 +93958,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 158400,
       "name": "State of Mind",
       "url": "https://open.spotify.com/track/3o1jyNd2Yn4Bdwh0ykCpl6"
@@ -99972,7 +99972,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 159402,
       "name": "Tequila Talking",
       "url": "https://open.spotify.com/track/4N2ORY0bLLOg1HuxOjp6xq"
@@ -109652,6 +109652,24 @@
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
+    },
+    {
+      "album": {
+        "name": "waitin on mine",
+        "url": "https://open.spotify.com/album/30QIjWIGxrXNRn0itpGhhe"
+      },
+      "artists": [
+        {
+          "name": "Steve Stout",
+          "url": "https://open.spotify.com/artist/13xgeb7Gr4pPS03s5gcvie"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241760,
+      "name": "waitin on mine",
+      "url": "https://open.spotify.com/track/1IjsihZjNpuQ9I83BZlSoK"
     },
     {
       "album": {

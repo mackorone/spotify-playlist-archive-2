@@ -1,12 +1,12 @@
 {
   "description": "everything olivia all of the time",
-  "num_followers": 2091842,
+  "num_followers": 2091804,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ/vjqXy8dx2YC3oH8pHND+F503V",
+  "snapshot_id": "AAAAAEgI5wKUf8BmvU6uBDQtHfwibJN3",
   "tracks": [
     {
       "added_at": "2026-06-26 04:02:21",
@@ -219,6 +219,26 @@
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
+    },
+    {
+      "added_at": "2026-07-01 18:50:19",
+      "album": {
+        "name": "My Girlfriend (feat. Ella Boh)",
+        "url": "https://open.spotify.com/album/0LdmbaBWeZ4Z4u5eWjv1uY"
+      },
+      "artists": [
+        {
+          "name": "Henry Morris",
+          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+        },
+        {
+          "name": "Ella Boh",
+          "url": "https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11"
+        }
+      ],
+      "duration_ms": 134500,
+      "name": "My Girlfriend (feat. Ella Boh)",
+      "url": "https://open.spotify.com/track/27xprsAJJYC2U02zKog81S"
     },
     {
       "added_at": "2026-06-26 04:44:54",

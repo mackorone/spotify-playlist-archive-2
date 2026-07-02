@@ -1,12 +1,12 @@
 {
   "description": "Rock out to the *perfect* songs from all your favorite Disney Channel shows and movies!",
-  "num_followers": 122527,
+  "num_followers": 122532,
   "original_name": "Disney Channel Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANTrTPdXSg3pn3rAtuVBoq8U8c0P",
+  "snapshot_id": "AAAAALUl2DUlw7L68AcP18VpDdl23V+6",
   "tracks": [
     {
       "added_at": "2026-06-29 13:00:22",
@@ -411,34 +411,6 @@
       "duration_ms": 137429,
       "name": "My Year (The Re-Animated Remix)",
       "url": "https://open.spotify.com/track/3N3QkpBCcVNdc3H4gH8ahD"
-    },
-    {
-      "added_at": "2026-06-29 13:00:22",
-      "album": {
-        "name": "Descendants: Wicked Wonderland (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2vg5VhJdkiNNHKBTrHcV4q"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Nam",
-          "url": "https://open.spotify.com/artist/63eK47VaHDGGGKMRVPiw3D"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        },
-        {
-          "name": "Descendants \u2013 Cast",
-          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 168557,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/6zU3qF1Kf4b00rAYpQI7iV"
     },
     {
       "added_at": "2026-06-29 13:00:22",
@@ -1303,6 +1275,30 @@
       "duration_ms": 88800,
       "name": "Kiff Theme Song - From \"Kiff\"",
       "url": "https://open.spotify.com/track/1p3fHZ19mvskuzVviTzdmV"
+    },
+    {
+      "added_at": "2026-07-01 13:00:29",
+      "album": {
+        "name": "One Beat Away (From \"Camp Rock 3\")",
+        "url": "https://open.spotify.com/album/1G7PEmWkUrwlOtZ733Ito8"
+      },
+      "artists": [
+        {
+          "name": "Liamani",
+          "url": "https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v"
+        },
+        {
+          "name": "Cast Of Camp Rock",
+          "url": "https://open.spotify.com/artist/6BaEtrOzEuvmxmHZRR1nNa"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 169922,
+      "name": "One Beat Away - From \"Camp Rock 3\"",
+      "url": "https://open.spotify.com/track/7GofEArN4cvGP5AwlqbZSs"
     },
     {
       "added_at": "2026-06-29 13:00:22",

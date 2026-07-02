@@ -4,7 +4,7 @@
 
 > 
 
-543 songs - 1 day 11 hr 4 min
+545 songs - 1 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [An Angel](https://open.spotify.com/track/5XJ4yeRHNDMSwHLO47NTMP) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Tom Rasmussen](https://open.spotify.com/artist/1FWk2wt5rW1viTKVsPd4Gf) | [An Angel / Girl Reborn](https://open.spotify.com/album/3v61eqpd90ZMP5iJy7w75i) | 3:56 | 2025-06-18 | 2025-11-07 |
 | [Ancestral Future Now \- KMRU Rework](https://open.spotify.com/track/53o9V6ERr9euyGcX9uZDoF) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu), [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Reworks: Vol2](https://open.spotify.com/album/3mPD0KqR6ACKk1IUt2jJE3) | 3:29 | 2023-11-03 | 2023-11-25 |
 | [And We Go Gentle](https://open.spotify.com/track/5e7ZCWH5cXrGcm8QmpqgIH) | [Tres Leches](https://open.spotify.com/artist/2xjYjo0XaziIp1rq3MewJd), [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [The Smooth Sounds of Tres Leches, LHCC Mart Vol\. 1](https://open.spotify.com/album/2Dn0m6g80esmI4HJ9URGOR) | 4:10 | 2025-08-15 | 2025-09-18 |
+| [Anotherwave](https://open.spotify.com/track/10WZEaaJ2MsKMgPJpxgaRO) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Anotherwave](https://open.spotify.com/album/4RUBLJUANaWzNZSJV7Xmox) | 4:06 | 2026-07-01 |  |
 | [Anxious Mind](https://open.spotify.com/track/2302Z0DrnuYan1AfNO04bz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Capricorn Sun](https://open.spotify.com/album/5maY5nikux4eBxcRCThzrA) | 3:27 | 2022-10-07 | 2023-04-14 |
 | [APRIL](https://open.spotify.com/track/6esx3Brxx4FR3Ko5miLCTB) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [APRIL](https://open.spotify.com/album/6enVPVB1Otbs8ufah2hvgS) | 2:58 | 2025-10-21 |  |
 | [Around The World](https://open.spotify.com/track/4ZVTVsWf2RkQ3EF0ieob8w) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Around The World](https://open.spotify.com/album/1qGAXU1eeb2GbROrjzl0lA) | 3:48 | 2026-04-01 |  |
@@ -142,6 +143,7 @@
 | [DJ Friendly](https://open.spotify.com/track/1fEYSPGGk7pLFvrBLNgQv7) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [DJ Friendly](https://open.spotify.com/album/32EpMCWvvIxNteNjTAgu26) | 4:40 | 2023-08-31 | 2024-02-16 |
 | [DJ Friendly \- Chloé Robinson + DJ ADHD Remix](https://open.spotify.com/track/5mvz45UH2VYwENCnzXjBVY) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS), [Chloé Robinson](https://open.spotify.com/artist/0Qpm94Bbsi44jMAXg0cI66), [DJ ADHD](https://open.spotify.com/artist/7hOtK8fa4BkYO3CvLMpZCo) | [DJ Friendly \(Chloé Robinson + DJ ADHD Remix\)](https://open.spotify.com/album/0iZ89vX6yYOPizSvZ6frTW) | 5:11 | 2023-12-19 | 2024-05-11 |
 | [Do It Like Me](https://open.spotify.com/track/114iWDfL5lVgqJabeSwnRF) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Creek](https://open.spotify.com/album/4wFyqyU8erSQITJyyoUOhk) | 3:15 | 2025-03-24 | 2025-11-07 |
+| [Do You Mind](https://open.spotify.com/track/7wP2y4niJpt6ddP7dYULMC) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Do You Mind](https://open.spotify.com/album/1xpJNh2AczS0XSKaf01uyJ) | 3:07 | 2026-07-01 |  |
 | [Do You Think Of Me?](https://open.spotify.com/track/1hwfMhuM4mxySqucwh87Am) | [Ankhoï](https://open.spotify.com/artist/43e2hWOoYxog3ebw4YUnL4) | [Do You Think Of Me?](https://open.spotify.com/album/1wU5DSfHe1ArxIZwqON7T2) | 3:12 | 2026-04-24 |  |
 | [DON’T LISTEN](https://open.spotify.com/track/6T7XVB4A3sDkcD22DgzeqJ) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [DON’T LISTEN](https://open.spotify.com/album/7KXlRAmcindMlfpXMZskIN) | 2:57 | 2025-06-19 | 2026-02-18 |
 | [Don’t Lose Time](https://open.spotify.com/track/3I1CfmUZZrLAyYY4zm409Y) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Don’t Lose Time](https://open.spotify.com/album/4LertToXpmjRS34cm3TrUq) | 6:13 | 2023-01-20 | 2023-02-15 |

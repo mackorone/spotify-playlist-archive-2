@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Eat World. The essential tracks, all in one playlist.",
-  "num_followers": 50126,
+  "num_followers": 50130,
   "original_name": "This Is Jimmy Eat World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akG1gAAAAADyShVeseihgH+LX641/4A6",
+  "snapshot_id": "akMHAAAAAADeixLZ4VJrU7PwbPdfLWOw",
   "tracks": [
     {
       "added_at": null,
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 184781,
-      "name": "Surviving",
-      "url": "https://open.spotify.com/track/6oKVC61L9Jrd13dvDJJVJr"
+      "duration_ms": 193387,
+      "name": "Delivery",
+      "url": "https://open.spotify.com/track/3MY5hKy9nT2D1gEdg3UFVv"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s"
         }
       ],
-      "duration_ms": 193387,
-      "name": "Delivery",
-      "url": "https://open.spotify.com/track/3MY5hKy9nT2D1gEdg3UFVv"
+      "duration_ms": 184781,
+      "name": "Surviving",
+      "url": "https://open.spotify.com/track/6oKVC61L9Jrd13dvDJJVJr"
     },
     {
       "added_at": null,

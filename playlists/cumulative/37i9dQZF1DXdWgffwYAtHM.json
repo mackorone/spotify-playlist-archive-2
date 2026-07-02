@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "Creators que voc\u00ea precisa ter no RADAR. Capa: <a href=\"spotify:show:5WlYDuAy95HR70mLGMoH4X\">Caf\u00e9 Frio Show com Victor Vaz</a>",
+  "description": "Creators que voc\u00ea precisa ter no RADAR. Capa: <a href=\"spotify:show:0EyWwpunTSY8VHFDCFTkU1\">Dossi\u00ea de Or\u00ed</a>",
   "name": "RADAR Creators Brasil",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 4604202,
       "name": "#147 - Poderia Ser Pior? feat. Beta Boechat \u2013 Joguei no Grupo",
       "url": "https://open.spotify.com/episode/0ZChBpBlD8nF1Sn9Tpq52L"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 1564652,
       "name": "#233. An\u00f4nimo ",
       "url": "https://open.spotify.com/episode/72lxMiBztqeSwXRE9nHXuf"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 1183080,
       "name": "#83 - a realidade \u00e9 um alivio ou uma decep\u00e7\u00e3o?",
       "url": "https://open.spotify.com/episode/17QjjL6utoITxnkCN4Ef9A"
@@ -920,6 +920,24 @@
       "duration_ms": 1967914,
       "name": "#84 A epidemia de piscose causada pela I.A.",
       "url": "https://open.spotify.com/episode/1vpAULqPatN2vQRJRsBNBA"
+    },
+    {
+      "album": {
+        "name": "Para que N\u00e3o Percais os Miolos",
+        "url": "https://open.spotify.com/album/4dPjkPqNuC118hCi8HPocv"
+      },
+      "artists": [
+        {
+          "name": "Para que N\u00e3o Percais os Miolos",
+          "url": "https://open.spotify.com/show/4dPjkPqNuC118hCi8HPocv"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 997413,
+      "name": "#85 - e se voc\u00ea nao precisasse ter tanta certeza de tudo? ",
+      "url": "https://open.spotify.com/episode/5NWZoIDl1eR9jH0IYpenVd"
     },
     {
       "album": {
@@ -1096,7 +1114,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 1513557,
       "name": "4 ra\u00e7as alien\u00edgenas confirmadas?",
       "url": "https://open.spotify.com/episode/3Ui77sJCenXbIRMvKfeWG6"
@@ -1298,6 +1316,24 @@
       "duration_ms": 649173,
       "name": "a s\u00edndrome da adolescente rebelde",
       "url": "https://open.spotify.com/episode/7Irzcwk2Pso6HyZmcBDBKi"
+    },
+    {
+      "album": {
+        "name": "MON\u00d3LOGOS \u2661",
+        "url": "https://open.spotify.com/album/3Z980PbVrz8cf0StzZTFU4"
+      },
+      "artists": [
+        {
+          "name": "MON\u00d3LOGOS \u2661",
+          "url": "https://open.spotify.com/show/3Z980PbVrz8cf0StzZTFU4"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 492425,
+      "name": "a vida solteira n\u00e3o \u00e9 um problema pra resolver",
+      "url": "https://open.spotify.com/episode/3A6oKXvHKGneHS9Q1kA0f6"
     },
     {
       "album": {
@@ -1517,6 +1553,24 @@
     },
     {
       "album": {
+        "name": "Caf\u00e9 Frio Show com Victor Vaz",
+        "url": "https://open.spotify.com/album/5WlYDuAy95HR70mLGMoH4X"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Frio Show com Victor Vaz",
+          "url": "https://open.spotify.com/show/5WlYDuAy95HR70mLGMoH4X"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 920384,
+      "name": "Cansei de fazer a escolha certa. | S.2 Ep.1",
+      "url": "https://open.spotify.com/episode/3zeNr1b7e1umV6ylqu8kDW"
+    },
+    {
+      "album": {
         "name": "fiz o que pude \u00af\\_(\u30c4)_/\u00af ",
         "url": "https://open.spotify.com/album/6yTHTc5kaZj85vstsFV7GP"
       },
@@ -1690,7 +1744,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 1014848,
       "name": "Clube do Erro #255 - Seu Namorado Tem Namorada?",
       "url": "https://open.spotify.com/episode/712cNZumZyM0FCeP3Zbd1i"
@@ -1823,6 +1877,24 @@
     },
     {
       "album": {
+        "name": "Colo de amiga por @sofidisse",
+        "url": "https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc"
+      },
+      "artists": [
+        {
+          "name": "Colo de amiga por @sofidisse",
+          "url": "https://open.spotify.com/show/5j7Xq0NEDtSOahTZK3bVLc"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1491580,
+      "name": "como \u00e9 doloroso n\u00e3o se achar merecedora",
+      "url": "https://open.spotify.com/episode/3lNKORRmzUGPgFJem4B4fG"
+    },
+    {
+      "album": {
         "name": "Em Busca da Rotina Perfeita, com Giu Tessitore",
         "url": "https://open.spotify.com/album/4bFXTB2DcMA4dy3CC27bKu"
       },
@@ -1892,6 +1964,24 @@
       "duration_ms": 3295238,
       "name": "Creepypasta Iceberg | Penpals, pt. 1",
       "url": "https://open.spotify.com/episode/7xU8Nr1uzrKQWeDWwCR2bP"
+    },
+    {
+      "album": {
+        "name": "Medo em Cia.",
+        "url": "https://open.spotify.com/album/12dibRyPTOMitNNhVmlgnG"
+      },
+      "artists": [
+        {
+          "name": "Medo em Cia.",
+          "url": "https://open.spotify.com/show/12dibRyPTOMitNNhVmlgnG"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 743664,
+      "name": "CREEPYPASTA: A vizinha",
+      "url": "https://open.spotify.com/episode/4IlwPPKFfTI695ZcAF7xCl"
     },
     {
       "album": {
@@ -2050,7 +2140,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 3522837,
       "name": "Duda Curvello: O que te faz sair do s\u00e9rio? | S.1 Ep. 8",
       "url": "https://open.spotify.com/episode/3hrnMP8I5dfcSFSxOxWJ8P"
@@ -2248,7 +2338,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 1995660,
       "name": "Ep#139 Expectativas sobre o amor!",
       "url": "https://open.spotify.com/episode/1bEg3U7Pr9XXBLhhdLL508"
@@ -2302,7 +2392,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 1384980,
       "name": "Ep. 96 - OS ESTIGMAS SOBRE SA\u00daDE MENTAL, Ch\u00e1 de Coragem com Elisama Santos",
       "url": "https://open.spotify.com/episode/5JLrLkXbL75sKiO91hVhwv"
@@ -2374,7 +2464,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 1645132,
       "name": "episodio 53: fantasma no laborat\u00f3rio",
       "url": "https://open.spotify.com/episode/3UpCofCtcrcXoiXOoqyZiI"
@@ -2788,7 +2878,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 5526635,
       "name": "ISSO \u00c9 TRAUMA? ",
       "url": "https://open.spotify.com/episode/3yAwUx9hS1HvGptCkD980L"
@@ -2849,6 +2939,24 @@
     },
     {
       "album": {
+        "name": "Estavu Show",
+        "url": "https://open.spotify.com/album/1QrMXzBqJt5WAlzCsUmHNu"
+      },
+      "artists": [
+        {
+          "name": "Estavu Show",
+          "url": "https://open.spotify.com/show/1QrMXzBqJt5WAlzCsUmHNu"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1808184,
+      "name": "MAIORES MICOS DE NAMORO #73",
+      "url": "https://open.spotify.com/episode/5ePPKEbT9FoltExzjuZ5hm"
+    },
+    {
+      "album": {
         "name": "vibes em an\u00e1lise",
         "url": "https://open.spotify.com/album/42CNqtkx9yd1cIg0E6E9rL"
       },
@@ -2900,6 +3008,24 @@
       "duration_ms": 1487376,
       "name": "Manda \u00e1udio 27",
       "url": "https://open.spotify.com/episode/5l65p2R09depINj64SD7hm"
+    },
+    {
+      "album": {
+        "name": "At\u00e9 a\u00ed, ok!",
+        "url": "https://open.spotify.com/album/0QukQs0ML5vk7MvOh05bth"
+      },
+      "artists": [
+        {
+          "name": "At\u00e9 a\u00ed, ok!",
+          "url": "https://open.spotify.com/show/0QukQs0ML5vk7MvOh05bth"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 641728,
+      "name": "Manda \u00e1udio 40",
+      "url": "https://open.spotify.com/episode/2Jgr94l0r89gvZ9iXSpoLR"
     },
     {
       "album": {
@@ -2986,7 +3112,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 2029702,
       "name": "MENTIRAS QUE CONTEI NA INTERNET #71",
       "url": "https://open.spotify.com/episode/5N9dXBxg5CSpDH6euK3VmZ"
@@ -3130,7 +3256,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 1806023,
       "name": "N\u00e3o sou menos empoderada por isso",
       "url": "https://open.spotify.com/episode/6CRzkSeNZMhXwR7xlkWzYV"
@@ -3767,6 +3893,24 @@
     },
     {
       "album": {
+        "name": "Uma Tup\u00e1 no Tempo",
+        "url": "https://open.spotify.com/album/5g9cA7pE0CKJPphPMkD0fF"
+      },
+      "artists": [
+        {
+          "name": "Uma Tup\u00e1 no Tempo",
+          "url": "https://open.spotify.com/show/5g9cA7pE0CKJPphPMkD0fF"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 3582058,
+      "name": "Os segredos de sono dos nossos ancestrais.",
+      "url": "https://open.spotify.com/episode/5aEtmRWxGUuvLmPhpcIWLD"
+    },
+    {
+      "album": {
         "name": "o clube dos 5",
         "url": "https://open.spotify.com/album/1w7QLlSXZcUrvF6djRawtg"
       },
@@ -3850,7 +3994,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 4703189,
       "name": "POGRAMA COM SAMIRA #91",
       "url": "https://open.spotify.com/episode/0rjz7UIHKSZNR5D8frtfzH"
@@ -4127,6 +4271,24 @@
     },
     {
       "album": {
+        "name": "Em Voz Alta com @moniqueevelle",
+        "url": "https://open.spotify.com/album/6Odjx7srT3MbDB8NoDsySU"
+      },
+      "artists": [
+        {
+          "name": "Em Voz Alta com @moniqueevelle",
+          "url": "https://open.spotify.com/show/6Odjx7srT3MbDB8NoDsySU"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 862225,
+      "name": "Querem a minha vers\u00e3o que se sacrifica, \u00e9 invenc\u00edvel e pobre",
+      "url": "https://open.spotify.com/episode/6ExztlxM68tlNA4YTQjYpl"
+    },
+    {
+      "album": {
         "name": "Colo de amiga por @sofidisse",
         "url": "https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc"
       },
@@ -4289,6 +4451,24 @@
     },
     {
       "album": {
+        "name": "Dossi\u00ea de Or\u00ed",
+        "url": "https://open.spotify.com/album/0EyWwpunTSY8VHFDCFTkU1"
+      },
+      "artists": [
+        {
+          "name": "Dossi\u00ea de Or\u00ed",
+          "url": "https://open.spotify.com/show/0EyWwpunTSY8VHFDCFTkU1"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196532,
+      "name": "se n\u00e3o tem troca, \u00e9 roubo - ep 05",
+      "url": "https://open.spotify.com/episode/2xWmaDnuKhOmUapUCNqePe"
+    },
+    {
+      "album": {
         "name": "Colo de amiga por @sofidisse",
         "url": "https://open.spotify.com/album/5j7Xq0NEDtSOahTZK3bVLc"
       },
@@ -4300,7 +4480,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 1455473,
       "name": "se voc\u00ea se sente perdida, fica aqui.",
       "url": "https://open.spotify.com/episode/5jlKsqHh8UDPzpTZxvKihf"
@@ -4336,7 +4516,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 1893028,
       "name": "SER\u00c1 QUE ISSO TUDO FOI REAL?",
       "url": "https://open.spotify.com/episode/69uMrPaNHEAKDBUJ2v7wua"
@@ -4426,7 +4606,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 2102541,
       "name": "sonhos selvagens #30",
       "url": "https://open.spotify.com/episode/7i6OVhXWi63fggffGNlFGU"
@@ -4552,10 +4732,28 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 1876774,
       "name": "S\u00f3 Pod 78 - O homem atr\u00e1s de mim tava me cheirando",
       "url": "https://open.spotify.com/episode/4XlLpoUBu4E9bInfrrSxs9"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Pod Ser Hist\u00f3ria \u2022 Podcast",
+        "url": "https://open.spotify.com/album/0thgoTntV114tkxYkGwI1t"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3 Pod Ser Hist\u00f3ria \u2022 Podcast",
+          "url": "https://open.spotify.com/show/0thgoTntV114tkxYkGwI1t"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2256027,
+      "name": "S\u00f3 Pod 86 - Minha colega de trabalho deu em cima do meu namorado",
+      "url": "https://open.spotify.com/episode/77MQmALK5WVyOBIM07IHjG"
     },
     {
       "album": {
@@ -4714,7 +4912,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 3265344,
       "name": "Tropic\u00e1lia: uma loucura genial?",
       "url": "https://open.spotify.com/episode/1RyBoyUQnJBd29BFIRzyzk"
@@ -4804,7 +5002,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 1634011,
       "name": "voc\u00ea est\u00e1 se distraindo de si mesma #83",
       "url": "https://open.spotify.com/episode/3cp6rvHxtCW6KyqKuoYvNi"
@@ -4862,6 +5060,24 @@
       "duration_ms": 1704981,
       "name": "Voc\u00ea tem certeza de que essa rotina \u00e9 sua? EP#51",
       "url": "https://open.spotify.com/episode/32QB837O6bJJBFd8GSbTOk"
+    },
+    {
+      "album": {
+        "name": "obra aberta",
+        "url": "https://open.spotify.com/album/5uQPyd1dYqB4Oepgk8HqMM"
+      },
+      "artists": [
+        {
+          "name": "obra aberta",
+          "url": "https://open.spotify.com/show/5uQPyd1dYqB4Oepgk8HqMM"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1824148,
+      "name": "voc\u00ea tem coragem de se encontrar? #36",
+      "url": "https://open.spotify.com/episode/4DxllLXs81X5ByPKm28c81"
     },
     {
       "album": {

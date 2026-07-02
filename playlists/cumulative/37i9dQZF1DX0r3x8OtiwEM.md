@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-791 songs - 3 day 1 hr 37 min
+792 songs - 3 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Asura \- Mollono.Bass Remix](https://open.spotify.com/track/0T6xgmxt47MTUZrJ2LAXzU) | [Elias Doré](https://open.spotify.com/artist/3MlBF2eUccQgQfeihwUtpJ), [Acado](https://open.spotify.com/artist/1z6fgjuCMlbaHSM0xqApwM), [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF) | [Mollono.Bass \- Remix Collection 5](https://open.spotify.com/album/2P0slylELvnlxSzsb9BWEi) | 6:12 | 2019-12-20 | 2021-02-20 |
 | [Atlantic Beam](https://open.spotify.com/track/1xdZHgjDVHoHpT5EyhzHqK) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Dear Future Self EP](https://open.spotify.com/album/3PYqaXXZZs1WdQO3ALCLZJ) | 7:20 | 2020-02-15 | 2021-05-21 |
 | [Atlas](https://open.spotify.com/track/664jBL8NgKFYdiMK9bnCcz) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Atlas](https://open.spotify.com/album/7g8PeQGSlZUlWCr3heIJJb) | 5:52 | 2020-06-12 | 2021-05-28 |
+| [Attract](https://open.spotify.com/track/4ykK6tNnlu2fAAWPCxzvFc) | [Ajna](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0) | [Attract](https://open.spotify.com/album/30L1oRMIswC3hErbOQ5JO9) | 5:07 | 2026-06-26 |  |
 | [Aura](https://open.spotify.com/track/7FzeLI7bUVnnPMNS6muS4y) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV), [Sophie Hunger](https://open.spotify.com/artist/3nOQJdlPEzFVhTEzxwcGax) | [Aura](https://open.spotify.com/album/69qmZ8AMIeJMnVOwsXuiop) | 5:22 | 2021-10-09 | 2022-07-23 |
 | [Avalanche \- Edit](https://open.spotify.com/track/3g0f1E9zlyauznccPZYaTn) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Avalanche](https://open.spotify.com/album/4iGkjP8sE9aRb50TeBtMMG) | 4:03 | 2025-06-06 | 2025-07-03 |
 | [Avalanche \- Joachim Pastor Remix](https://open.spotify.com/track/1SFWabVeCbM9cD7Gb2qBNo) | [Douran](https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ), [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Avalanche \(Joachim Pastor Remix\)](https://open.spotify.com/album/0cBb1B74E6KJrfwCvmVxfU) | 6:53 | 2021-05-09 | 2022-07-28 |
@@ -650,7 +651,7 @@
 | [Synthetic Blues](https://open.spotify.com/track/2ykjMnet1sBwPpmbTEqdYm) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Synthetic Blues](https://open.spotify.com/album/2vIDyBeyfo1obTIkaXTIE0) | 3:28 | 2020-10-10 | 2022-11-12 |
 | [Tachyon](https://open.spotify.com/track/7m7nVRARGzxro7OMeGRauC) | [Enui](https://open.spotify.com/artist/0uLnAkNKYtVbCJSviFZnEh), [Jordan Bakker](https://open.spotify.com/artist/304E4EmFCfUL4r24KJ0iu6) | [Tachyon](https://open.spotify.com/album/1q2TlIW6JOGmMMlUz9qmdy) | 6:21 | 2020-01-12 | 2021-08-12 |
 | [Take Care](https://open.spotify.com/track/3FzhYRz5OmmjKoEnRVedeG) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Take Care](https://open.spotify.com/album/0YxjerMKxA6TDarqJCzIS7) | 3:25 | 2023-04-05 | 2024-10-17 |
-| [Take Care Of Business \- Solomun Mix](https://open.spotify.com/track/1vqS30vCAcEVx0GaqAv5Qh) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Take Care Of Business \(Solomun Mix\)](https://open.spotify.com/album/6El1TrEeCD2dnBznON3WrH) | 3:10 | 2026-02-20 |  |
+| [Take Care Of Business \- Solomun Mix](https://open.spotify.com/track/1vqS30vCAcEVx0GaqAv5Qh) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Take Care Of Business \(Solomun Mix\)](https://open.spotify.com/album/6El1TrEeCD2dnBznON3WrH) | 3:10 | 2026-02-20 | 2026-07-02 |
 | [Take Me High](https://open.spotify.com/track/1eBXkQ8zqXBrI90OuBMhOE) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Take Me High](https://open.spotify.com/album/730Gi9p7OFK8ZDfwyaxXLc) | 3:56 | 2026-06-05 |  |
 | [Take My Hand](https://open.spotify.com/track/1x6JcuNsTk2jv6CszQqyC9) | [Daniel Bortz](https://open.spotify.com/artist/23B2qxOv4x5uzlyhfEuNQi) | [Take My Hand](https://open.spotify.com/album/5u0MC9Oaw6oahrK8OYgKiM) | 6:23 | 2020-01-01 | 2020-06-13 |
 | [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 | 2025-07-18 |  |

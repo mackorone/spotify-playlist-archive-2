@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-596 songs - 1 day 13 hr 9 min
+598 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Good Riddance](https://open.spotify.com/track/4juAsolkncVtBOvsjqiRfA) | [Daysick](https://open.spotify.com/artist/1mnmYPlWBNM4hgWRsgaelX) | [Good Riddance](https://open.spotify.com/album/3OOccZEWmOTs99aPn0w9M3) | 3:51 | 2026-03-07 | 2026-05-26 |
 | [got a little spacey](https://open.spotify.com/track/64t4vsXlRGBbEoxN9gT12C) | [rivers western](https://open.spotify.com/artist/31yh8AHiPkbkybRerMmuv9) | [got a little spacey](https://open.spotify.com/album/4yuQpJrrYtvpeqqBuSaL0f) | 2:43 | 2025-10-18 | 2025-11-28 |
 | [Got Your Gun](https://open.spotify.com/track/6YlLDFUpYCUxvjf6zeehMh) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Got Your Gun](https://open.spotify.com/album/556dFgma1H1MaxXbXDzAzx) | 3:50 | 2026-04-25 | 2026-05-31 |
+| [Grand Ballet](https://open.spotify.com/track/4nxHtibe5Q239T9qiUJKek) | [Talking to Sophie](https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC) | [Grand Ballet](https://open.spotify.com/album/75YY4RxuyNJBsUXlV91sT6) | 4:02 | 2026-07-01 |  |
 | [Grass Will Always Win](https://open.spotify.com/track/0rNZ9CMv4d4WMVtZPmI7f4) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Grass will always win](https://open.spotify.com/album/15gUwknPdtUlk1qJ4kV4tR) | 4:54 | 2026-06-22 |  |
 | [Green Giants March](https://open.spotify.com/track/6EfCto1xF9NLpZt8469sbX) | [Jaxx.13](https://open.spotify.com/artist/1pV2GA9n5xplcSgg58F3Xn), [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Alex.13](https://open.spotify.com/artist/74kwMd6oJzppv5s1b6RhVV) | [Green Giants March](https://open.spotify.com/album/0ZXdBFVaPAfzZNrleHHvIM) | 2:30 | 2026-01-06 | 2026-03-18 |
 | [Grinder Minder](https://open.spotify.com/track/7nmyUuAJDJ0O9VRF7Lv8NR) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Grinder Minder](https://open.spotify.com/album/1SperF6SKGWOeLHv3kG5gl) | 3:06 | 2026-01-29 | 2026-03-18 |
@@ -545,6 +546,7 @@
 | [Troubled](https://open.spotify.com/track/6Z5gGO33AtWMkI0W6gScTN) | [Fat Drive Factory](https://open.spotify.com/artist/6JL7xnHim56hmMNyUDelFE) | [Troubled](https://open.spotify.com/album/27e0SHGsIxErsW0wWTPjpY) | 3:21 | 2025-09-30 | 2025-12-17 |
 | [Twerkin' With A Twang](https://open.spotify.com/track/7hNtGfB2RKabvFy5d3pQp0) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Voices In My Head](https://open.spotify.com/album/72DfBlLmdUjZw7r2WRRwBt) | 2:54 | 2025-12-04 | 2025-12-17 |
 | [Twisted Heart](https://open.spotify.com/track/6tXyqROApirTypxgRWI0OL) | [Ghetto Dogs](https://open.spotify.com/artist/2FltAtLtYMG3l7tFLBZ9PN) | [When The Empire Falls](https://open.spotify.com/album/0X8sYhlzfO2090dycAZtqH) | 2:57 | 2026-04-06 | 2026-04-21 |
+| [Two of Us](https://open.spotify.com/track/6APATWEI9jdN8OA3N4PRvP) | [The K.I.J Experience](https://open.spotify.com/artist/67HdfJ5atBe2crSt6ohfWB) | [12 from 24](https://open.spotify.com/album/5aydgqRqJlLmmSchdQC66g) | 3:06 | 2026-07-01 |  |
 | [Tête à l'envers](https://open.spotify.com/track/62E5607aqyEGn5T2tz4Fqr) | [Namaspamus](https://open.spotify.com/artist/1pc5KcGRGuzw16cryiEEbY) | [Tête à l'envers](https://open.spotify.com/album/6ISo571ltmZ2flJiyAYkcn) | 3:14 | 2025-10-27 | 2025-11-28 |
 | [Un Rato Más](https://open.spotify.com/track/13Uh63MZHQSGbAIqYisQoS) | [Ruiz de Lope](https://open.spotify.com/artist/3UxGJoUiyIIIu3LYMBelzR) | [Un Rato Más](https://open.spotify.com/album/60Nv8JoGyzxDKKiv28i5mC) | 3:08 | 2025-11-09 | 2025-12-17 |
 | [UNB\-EVILABLE \(Inte Sant\)](https://open.spotify.com/track/5kGZUGMDh7wUwEHPOjFKsm) | [Daniel Forsius](https://open.spotify.com/artist/5XdxIBD2d3FzkFHUflYDs3) | [UNB\-EVILABLE \(Inte Sant\)](https://open.spotify.com/album/4ISu9gFv2wlWWAoMHYVV8a) | 3:15 | 2025-12-01 | 2025-12-17 |

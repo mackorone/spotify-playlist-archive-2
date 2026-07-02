@@ -8896,7 +8896,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 367725,
       "name": "BAILE INoLVIDABLE",
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
@@ -21421,6 +21421,28 @@
     },
     {
       "album": {
+        "name": "Don't tell your dreams",
+        "url": "https://open.spotify.com/album/1puZBwEJNhS20tPs7NeK26"
+      },
+      "artists": [
+        {
+          "name": "STOSLIV",
+          "url": "https://open.spotify.com/artist/3bbN7DCsudIK9Mmo2BPaN7"
+        },
+        {
+          "name": "LOVIXX",
+          "url": "https://open.spotify.com/artist/7AScaCAfg5jMQJylEaYtfZ"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141040,
+      "name": "Don't tell your dreams",
+      "url": "https://open.spotify.com/track/3USyqmKzvBwF5s0trEmO7Y"
+    },
+    {
+      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in"
       },
@@ -21800,7 +21822,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -31716,7 +31738,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 202200,
       "name": "Glaub an dich",
       "url": "https://open.spotify.com/track/09hSAIOP4b4GhBfhRoO5KU"
@@ -31738,6 +31760,24 @@
       "duration_ms": 202200,
       "name": "Glaub an dich",
       "url": "https://open.spotify.com/track/11AlDaLmOMP78MR25uuX37"
+    },
+    {
+      "album": {
+        "name": "Glaub an dich",
+        "url": "https://open.spotify.com/album/5dsnbLbSZGkMcCgLwa33CB"
+      },
+      "artists": [
+        {
+          "name": "BearyTunes",
+          "url": "https://open.spotify.com/artist/6yw8N6PdyedoyY5DnS79Lj"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202240,
+      "name": "Glaub an dich",
+      "url": "https://open.spotify.com/track/3ZleCKWBDOfCcZ2Ld31mXP"
     },
     {
       "album": {
@@ -47476,7 +47516,7 @@
       ],
       "date_added": "2025-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -75098,7 +75138,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 191076,
       "name": "Talk To You (ft. 54 Ultra)",
       "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
@@ -86158,7 +86198,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"

@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407312,
+  "num_followers": 407304,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,30 @@
     {
       "added_at": "2026-03-06 13:38:21",
       "album": {
+        "name": "High School Musical 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49"
+      },
+      "artists": [
+        {
+          "name": "Sharpay Evans",
+          "url": "https://open.spotify.com/artist/3WtcOzeKXq5mUINE0bNfnt"
+        },
+        {
+          "name": "Lucas Grabeel",
+          "url": "https://open.spotify.com/artist/0Ybn7NBu1okFzrFdrhzZs4"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Fabulous",
+      "url": "https://open.spotify.com/track/6jyXQ8HGI7ikECGA0670uo"
+    },
+    {
+      "added_at": "2026-03-06 13:38:21",
+      "album": {
         "name": "Wicked: The Soundtrack",
         "url": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
       },
@@ -771,30 +795,6 @@
       "duration_ms": 447991,
       "name": "No One Mourns the Wicked",
       "url": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
-    },
-    {
-      "added_at": "2026-03-06 13:38:21",
-      "album": {
-        "name": "High School Musical 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/04Xde0FJSo4LVQ1GE36t49"
-      },
-      "artists": [
-        {
-          "name": "Sharpay Evans",
-          "url": "https://open.spotify.com/artist/3WtcOzeKXq5mUINE0bNfnt"
-        },
-        {
-          "name": "Lucas Grabeel",
-          "url": "https://open.spotify.com/artist/0Ybn7NBu1okFzrFdrhzZs4"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Fabulous",
-      "url": "https://open.spotify.com/track/6jyXQ8HGI7ikECGA0670uo"
     },
     {
       "added_at": "2026-03-06 13:38:21",

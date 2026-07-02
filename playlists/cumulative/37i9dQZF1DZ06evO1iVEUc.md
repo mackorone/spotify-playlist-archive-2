@@ -4,7 +4,7 @@
 
 > This is Angie Stone\. The essential tracks, all in one playlist.
 
-67 songs - 4 hr 25 min
+68 songs - 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Jam for the Ladies](https://open.spotify.com/track/2MGnkIWA0T94GEGfjx14Be) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w) | [18 & 18 B\-Sides](https://open.spotify.com/album/2moGNpXgrcBzIF5M1PqF4K) | 3:21 | 2026-01-31 |  |
 | [Keep Your Worries](https://open.spotify.com/track/2iYM4CGkoTfsLw9MI5K1AC) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Streetsoul](https://open.spotify.com/album/0vcwoK9Ya3Ev7fuckDAfIl) | 4:58 | 2025-03-11 |  |
 | [Kiss All Over Your Body](https://open.spotify.com/track/0GmZfFYIhU0Pd9oXV5EKZt) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Unexpected](https://open.spotify.com/album/03GXHujYDvYF7zkSUC1KlU) | 4:45 | 2025-04-01 | 2025-06-23 |
+| [Kiss You](https://open.spotify.com/track/1aSrkGPn7ziCCiGCDYQOA1) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Love Language](https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM) | 3:46 | 2026-07-02 |  |
 | [Life Goes On](https://open.spotify.com/track/38BLnUKD9m1v7Xaf07u7F0) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 3:57 | 2025-03-11 |  |
 | [Life Story](https://open.spotify.com/track/3DaRelvnlOkN8YHzIQzYNR) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Black Diamond \(Deluxe Edition\)](https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu) | 4:09 | 2025-03-11 |  |
 | [Love Of My Life Worldwide](https://open.spotify.com/track/7sfv48GFGTACbipv2osobB) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Worldwide Underground](https://open.spotify.com/album/1oJIFrDoyKF1aV8sq0rBAQ) | 5:26 | 2025-03-11 |  |
@@ -63,7 +64,7 @@
 | [Sometimes](https://open.spotify.com/track/5t7WzdcErLIPufgA7HRJNp) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:20 | 2025-03-11 | 2025-12-30 |
 | [Stay For A While \(feat\. Anthony Hamilton\)](https://open.spotify.com/track/5R7wbaxRvAhsSN6d1PxrEm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 4:01 | 2025-03-11 |  |
 | [Stoned Love \(Intro\)](https://open.spotify.com/track/64d9VM45lpwAv5ihZHEDbm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 0:35 | 2025-03-11 | 2025-07-18 |
-| [Stylin'](https://open.spotify.com/track/7MQKwtihNSk435BmiQokl1) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Sing \(If You Want It\)](https://open.spotify.com/album/5cc7w5H22O8rQ3KIOWs1Io) | 4:48 | 2026-05-19 |  |
+| [Stylin'](https://open.spotify.com/track/7MQKwtihNSk435BmiQokl1) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Sing \(If You Want It\)](https://open.spotify.com/album/5cc7w5H22O8rQ3KIOWs1Io) | 4:48 | 2026-05-19 | 2026-07-02 |
 | [Take Everything In](https://open.spotify.com/track/0S9J927viE05YinAFLoUUi) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:50 | 2025-03-11 | 2025-11-21 |
 | [The Gym](https://open.spotify.com/track/5aCV1ShX2YWtYICZc1qBTK) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Love Language](https://open.spotify.com/album/3SjkXnXu8tjg9Xg9bXPOuM) | 3:19 | 2025-03-11 | 2025-11-20 |
 | [The Human Stone \(feat\. Angie Stone\)](https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F) | [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Human Stone \(feat\. Angie Stone\)](https://open.spotify.com/album/5JDtdJsp89vm1wldP6Qwro) | 3:27 | 2025-03-11 |  |

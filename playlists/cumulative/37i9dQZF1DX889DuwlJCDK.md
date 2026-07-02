@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: 多次元制御機構よだか
 
-1,845 songs - 4 day 15 hr 32 min
+1,846 songs - 4 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -555,7 +555,7 @@
 | [Peanut butter 2023 GIGA MAX](https://open.spotify.com/track/0r2abRSwPrVaYtiX5SeAt8) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [peanut butters II](https://open.spotify.com/album/32Y4rnV7l6GCXUy005ox3p) | 2:47 | 2023-11-14 | 2023-11-22 |
 | [Peppermint Gum](https://open.spotify.com/track/0ALSxIhd5E0qfXBum5AQCa) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [Peppermint Gum](https://open.spotify.com/album/4tGCW6bLt5nbGQSFVECn1I) | 3:50 | 2023-11-07 | 2023-11-28 |
 | [pineapple!](https://open.spotify.com/track/2ibwchU0fWFyPFxEx0GaoU) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [the outside wind](https://open.spotify.com/album/39xIFAMfalUllex8wpOkqN) | 3:00 | 2025-06-24 | 2025-11-05 |
-| [PLAMO](https://open.spotify.com/track/6fTdsnXnyE5WqCota9qxdY) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [PLAMO](https://open.spotify.com/album/17vj6JX3AaDA0WV2sl76GA) | 2:56 | 2026-05-26 |  |
+| [PLAMO](https://open.spotify.com/track/6fTdsnXnyE5WqCota9qxdY) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [PLAMO](https://open.spotify.com/album/17vj6JX3AaDA0WV2sl76GA) | 2:56 | 2026-05-26 | 2026-07-02 |
 | [Planetarium](https://open.spotify.com/track/3gzZcJWNg8b6tXTEyGUkhG) | [TRACK15](https://open.spotify.com/artist/2yBeBpGsS9sgRa4rlJldIT) | [Bouquet](https://open.spotify.com/album/5LwY4RUulbgXXYcrptzNBn) | 3:55 | 2024-03-19 | 2024-04-19 |
 | [Planetary](https://open.spotify.com/track/5v2bUbn70jpJcPkWL3EYwF) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Planetary](https://open.spotify.com/album/08PXW0KjcLUccvIsZBvomW) | 2:57 | 2025-06-11 | 2026-02-12 |
 | [platonic](https://open.spotify.com/track/4F0nt2w0WSttazbuWg5dZv) | [Laura day romance](https://open.spotify.com/artist/19RZk1SGPSL1DChYdDQYl1) | [platonic](https://open.spotify.com/album/78c0RrDE3DeU4WOEja1GEX) | 3:55 | 2025-09-16 | 2025-10-01 |
@@ -1848,6 +1848,7 @@
 | [風船](https://open.spotify.com/track/4S6WOlZQdqCY9jV6zNvodB) | [らそんぶる](https://open.spotify.com/artist/7b5qmQwKzZMoSDpRDvpU6j) | [風船](https://open.spotify.com/album/3MBtrFhoiAGJnEq0g0WEVd) | 3:27 | 2024-12-17 | 2025-02-19 |
 | [飴と鞭](https://open.spotify.com/track/7hfNGFlfHLbe4h7xTrbjfu) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [飴と鞭](https://open.spotify.com/album/141H237A7IvCyCG0x4ekhF) | 3:28 | 2025-01-14 | 2025-01-22 |
 | [高槻](https://open.spotify.com/track/1Z1Kfw6ZDzyJKMctio1QVl) | [grating hunny](https://open.spotify.com/artist/2eW8gcgFVJCQ1DixDrVF52) | [あの娘の春を想う](https://open.spotify.com/album/0Kzres1NymuEfctIVZF8JS) | 3:33 | 2024-01-09 | 2024-02-01 |
+| [魔女と狩人](https://open.spotify.com/track/2ATrGyhc14jtrd3M7yjU80) | [藍空と月](https://open.spotify.com/artist/04gPMXDpwndachrxXFNcwg) | [魔女と狩人](https://open.spotify.com/album/4XdyUZuE6mFTCtvlaUVSbQ) | 2:38 | 2026-06-30 |  |
 | [魔法がとける前に](https://open.spotify.com/track/5ENeQ4fXWw9dUFgiiplipH) | [セブンス・ベガ](https://open.spotify.com/artist/4vTpw8jh1edDWj0ATZYgd7) | [魔法がとける前に](https://open.spotify.com/album/5D6WVPU9JL8dpWj7NyHYiE) | 4:01 | 2026-04-07 |  |
 | [魚を追いかけて](https://open.spotify.com/track/3rOmeh2KOIvbEGGBQKm15W) | [超☆社会的サンダル](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [魚を追いかけて](https://open.spotify.com/album/0BIQ7RwLDzgYhpWNMc0we2) | 3:58 | 2024-01-16 | 2024-03-06 |
 | [鳴り止まない](https://open.spotify.com/track/2Hpfa8hRv3Fiv2Z76IQ9Bz) | [Lailah](https://open.spotify.com/artist/5taxbI4xVo5t7Ck8jCXGch) | [鳴り止まない](https://open.spotify.com/album/1ieX597kuIO3b2AgXwrj4H) | 3:48 | 2025-01-21 | 2025-01-29 |

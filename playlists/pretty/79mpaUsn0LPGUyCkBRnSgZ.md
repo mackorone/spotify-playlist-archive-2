@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 743 songs - 1 day 23 hr 52 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 747 songs - 2 day 0 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -751,5 +751,9 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 741 | [The Ground Above](https://open.spotify.com/track/5OCZ36e5h9Y5188Tvx7WhW) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [The Ground Above](https://open.spotify.com/album/2xsnBz8QqjNPUDVFp0PKZS) | 8:34 |
 | 742 | [She Cries Your Name](https://open.spotify.com/track/4UJ7il10deAhyCvzu7qdcF) | [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC), [Victor Van Vught](https://open.spotify.com/artist/1PD6xxPwlNBAewjvADEgYt) | [Trailer Park](https://open.spotify.com/album/5WpjO5MZRlFohnZ1EeIcsy) | 4:47 |
 | 743 | [Detour](https://open.spotify.com/track/4n2Gy75q4SgNuq5ZUKxnq3) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 2:36 |
+| 744 | [What Do You Feel Free About?](https://open.spotify.com/track/5YYDGbUv12S6KwTLSgerUX) | [The Juan Maclean](https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt) | [The Brighter The Light](https://open.spotify.com/album/7zqWoPkblPnPOAvPbB3iai) | 6:10 |
+| 745 | [The Simple Life](https://open.spotify.com/track/1TJ8KmN9CNabccJWE3LKKs) | [The Juan Maclean](https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt) | [The Future Will Come](https://open.spotify.com/album/3bnnIbRzlxbwl0xDVUwgyc) | 8:38 |
+| 746 | [PIRATE RADIO](https://open.spotify.com/track/04MdtyZlxv1DxH5f8nuyuP) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [REDSTAR WU & THE WORLDWIDE SCOURGE](https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V) | 2:54 |
+| 747 | [Pipe \(with Vashti Bunyan\)](https://open.spotify.com/track/2IQdRkhiTJVRf2Q5I1OYl3) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [I Created The Universe So That Life Could Create a Language So Complex, Just To Say How Much I Love You](https://open.spotify.com/album/2iPjvmwHsn5SgX2GZvZnMx) | 3:10 |
 
-Snapshot ID: `AAAJQvSSw4U7nkCIy360YrbTLmGpS9ST`
+Snapshot ID: `AAAJRwNvG2ZmdWrI/spTXU02BEr8M7cm`

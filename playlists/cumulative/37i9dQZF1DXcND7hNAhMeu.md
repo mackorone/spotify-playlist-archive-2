@@ -2,9 +2,9 @@
 
 ### [RADAR Türkiye](https://open.spotify.com/playlist/37i9dQZF1DXcND7hNAhMeu)
 
-> Geleceğin seslerini dinle! Kapak: Zeki Arkun
+> Geleceğin seslerini dinle! Kapak: Melis Karaduman
 
-110 songs - 5 hr 18 min
+112 songs - 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Alamet](https://open.spotify.com/track/24oNbZu94JS3Izo6ub1jWb) | [Rana Türkyılmaz](https://open.spotify.com/artist/71B1UV4HrPQk6TdNHM3h9h) | [Alamet](https://open.spotify.com/album/5aIyE00nAG4wfugbnmfZkA) | 2:49 | 2024-10-23 | 2025-03-21 |
 | [Aldırma](https://open.spotify.com/track/23EQ6UrFPQCDT2eyQtCWvL) | [Aleyna Kalaycıoğlu](https://open.spotify.com/artist/3TKB1G75mSojFCZPks5KGJ) | [Aldırma](https://open.spotify.com/album/0rvOfWjSecdQrRCJivc5JN) | 2:26 | 2024-06-20 |  |
 | [Allı Turnam](https://open.spotify.com/track/3b1O9F4zjQZCTP5WSTUDQi) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Allı Turnam](https://open.spotify.com/album/5LXJSwRHsMcsq47ZcFIW5i) | 2:28 | 2025-07-31 | 2025-08-30 |
+| [Alıştım](https://open.spotify.com/track/3JTIs7oWHrhfJ9zmF7ALzR) | [üçkuruş](https://open.spotify.com/artist/52j3mRmOcAWQ5BfBAwkoqK) | [Alıştım](https://open.spotify.com/album/7LrRZONcEPYPRDvwLC1U8M) | 2:57 | 2026-07-02 |  |
 | [Alıştım Üzülmeye](https://open.spotify.com/track/2xFiJX7xL04l2HmwtQVsdm) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [Alıştım Üzülmeye](https://open.spotify.com/album/56RC7UMpMzp4EwKCPZ4xaw) | 3:10 | 2024-06-20 |  |
 | [Ara Sıcak](https://open.spotify.com/track/7tdqNYEPYjv2oSL3EKB8Vu) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN) | [Ara Sıcak](https://open.spotify.com/album/3ymtkW72HtG3DoRJm4rD1c) | 3:36 | 2024-10-23 | 2025-11-08 |
 | [Asla](https://open.spotify.com/track/5XYlWf5dmrt6xZXBlZx9MG) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD), [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [Asla](https://open.spotify.com/album/2D7jkjA2Xb2giBgBLgmZVl) | 2:48 | 2024-12-19 | 2025-09-16 |
@@ -31,7 +32,7 @@
 | [Bİ DAHA DÖNMEM](https://open.spotify.com/track/4HzcajLTN9Nr0Bml0coNbv) | [Öykü Dörter](https://open.spotify.com/artist/610R56u4V2V2kVtyLenbFA) | [Bİ DAHA DÖNMEM](https://open.spotify.com/album/1TKonbiCF4nE7pW7AVfC2w) | 2:31 | 2026-06-08 |  |
 | [Bu Gece Son](https://open.spotify.com/track/1k2asRqf2pyMDc6Yh7Y3Ec) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Bu Gece Son](https://open.spotify.com/album/2g9H0x9HQi68RoI0krAO8p) | 2:44 | 2024-06-20 | 2024-10-24 |
 | [bu kadar güzel olmak suç değil mi?](https://open.spotify.com/track/0AWzhPYyZvbkoGlS3SSmTS) | [sevimo.](https://open.spotify.com/artist/2EChc9oByY31aq86S1E4ST) | [bu kadar güzel olmak suç değil mi?](https://open.spotify.com/album/6A9O8HWmfmS5lk19hKORAz) | 3:24 | 2024-06-20 | 2024-10-24 |
-| [bırak öleyim](https://open.spotify.com/track/16G2UlN8OFUCf5qAGNadQK) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [cümlelerim](https://open.spotify.com/album/7igC0FT4qMplTZsnMzyhyv) | 3:28 | 2025-04-24 |  |
+| [bırak öleyim](https://open.spotify.com/track/16G2UlN8OFUCf5qAGNadQK) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6), [Çağan Şengül](https://open.spotify.com/artist/3W0gwNZqdtkleuMYlKElaw) | [cümlelerim](https://open.spotify.com/album/7igC0FT4qMplTZsnMzyhyv) | 3:28 | 2025-04-24 | 2026-07-02 |
 | [Bırakın Arasın](https://open.spotify.com/track/2mp5AxLWjNW7WGvJ8uWddm) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [Bırakın Arasın](https://open.spotify.com/album/19E7lRqhUcUGyMXtfPNgaA) | 2:38 | 2024-12-19 |  |
 | [cesaret](https://open.spotify.com/track/5SaZ6P2aHMVraIXsMvHLl3) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [cesaret](https://open.spotify.com/album/6zSOEkhrBzxFWjCw6gLgaa) | 2:52 | 2024-06-20 |  |
 | [cümlelerim](https://open.spotify.com/track/3GQm1FfMFmpoPyOwlo4bqL) | [TUANA](https://open.spotify.com/artist/2FkaZzzDTwnz1l1mK9DoT6) | [cümlelerim](https://open.spotify.com/album/2GGvDWqti6JlsrRTKWsrLF) | 3:29 | 2025-04-10 |  |
@@ -40,7 +41,7 @@
 | [Durdurulmaz](https://open.spotify.com/track/5XO60bjTDzUdxPnHrnWbu8) | [Belki Biraz](https://open.spotify.com/artist/447yNY9cW9O0mMJ7B5QObd) | [Durdurulmaz](https://open.spotify.com/album/65lrcxD38SIHlYWYOOiIAh) | 3:42 | 2024-10-23 | 2026-06-09 |
 | [ELLERİM BOŞ](https://open.spotify.com/track/0Y4mwQ4z0Voplgh7o2OZYm) | [M Lisa](https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc) | [ELLERİM BOŞ](https://open.spotify.com/album/04u0fa9U9cdkNdNCoYyqoj) | 2:04 | 2024-06-20 | 2024-10-24 |
 | [En Sonunda Terk Ettim Şehrimi](https://open.spotify.com/track/5GIisFHTMmJAO497d906SO) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [En Sonunda Terk Ettim Şehrimi](https://open.spotify.com/album/49Da5Al1iNGqdjatlyaZTO) | 3:19 | 2024-06-20 |  |
-| [eYeSiGht](https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [eYeSiGht](https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y) | 2:23 | 2025-01-09 |  |
+| [eYeSiGht](https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [eYeSiGht](https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y) | 2:23 | 2025-01-09 | 2026-07-02 |
 | [Fal](https://open.spotify.com/track/2hjlELtdvfwxdY4yzDu7Ry) | [Yase](https://open.spotify.com/artist/54o2CbLdMsh6SR8hufrQiA) | [Fal](https://open.spotify.com/album/1eDoPJNZ6eMTVKg147XMAY) | 2:37 | 2024-06-20 | 2024-10-24 |
 | [FARKINDA DEĞİLDİN](https://open.spotify.com/track/0hpyV1jNlhTMgyyFhD38FW) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [FARKINDA DEĞİLDİN](https://open.spotify.com/album/0thzIGrx4KCbBFpNsOHKdx) | 3:21 | 2024-06-20 |  |
 | [Geceyi Dinle](https://open.spotify.com/track/6OokxHeZQqk33sncJ3Lhsu) | [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Geceyi Dinle](https://open.spotify.com/album/3vynHAUsyF7cMt5WftRELn) | 3:21 | 2024-06-20 | 2024-10-24 |
@@ -87,6 +88,7 @@
 | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/track/5hyYCEaC704WXeb4saAim4) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [SENİ GÖRDÜĞÜM AN](https://open.spotify.com/album/4b91E9t6JFljmPckcteTLi) | 3:14 | 2024-07-29 | 2024-10-24 |
 | [Son](https://open.spotify.com/track/2v79MkUBoTJUm7etERkbPh) | [Baran Mengüç](https://open.spotify.com/artist/07eEGn8bSAJF9sUqeTtAmN), [Aerro](https://open.spotify.com/artist/1pJzB49ODjAOHUBRtKQK6A) | [Son](https://open.spotify.com/album/6c6bPHFCEA3wc4nkJ8Lke6) | 2:35 | 2024-10-23 | 2025-03-21 |
 | [Son Perde](https://open.spotify.com/track/6qWXNfRL7ygjONnrPPzALQ) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Son Perde](https://open.spotify.com/album/3UyAJFP27NQabY22Te3UuA) | 3:23 | 2024-06-20 |  |
+| [Sonum Ol](https://open.spotify.com/track/3waipLozRiAKg6Ad0o40xg) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Sonum Ol](https://open.spotify.com/album/0x5Cz4GC7HnNmvr6kUmJx5) | 3:39 | 2026-07-02 |  |
 | [Sorma](https://open.spotify.com/track/1t5QrgICG308reHk4Ohm7N) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Sorma](https://open.spotify.com/album/4O003iwIM20pmtKKJQ55Pr) | 3:54 | 2024-06-20 |  |
 | [TELKİN](https://open.spotify.com/track/2A2y2qdwQaylXZBT2ctwJ5) | [Billur Battal](https://open.spotify.com/artist/3mWHQa3vlJRkvIyw87YFTu), [Valfi](https://open.spotify.com/artist/36UGIRe1bc27QQnLgym03q) | [TELKİN](https://open.spotify.com/album/63E5fNUxgRcprFlkELgtVZ) | 3:14 | 2024-10-23 |  |
 | [UNTZ UNTZ](https://open.spotify.com/track/1jYQsPvg6A3UTEaxDYffDv) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [UNTZ UNTZ](https://open.spotify.com/album/2bxfjX4QcWh4gGUQYdP0z9) | 2:26 | 2024-06-20 | 2024-10-24 |

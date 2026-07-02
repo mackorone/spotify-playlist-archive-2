@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Haylie Davis",
-  "num_followers": 426113,
+  "num_followers": 426129,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-06-12 04:00:58",
       "album": {
-        "name": "Fake It Till You Make It",
-        "url": "https://open.spotify.com/album/5FwnR18zlJpfZxJKHwcO6z"
-      },
-      "artists": [
-        {
-          "name": "Honeybear, the Band",
-          "url": "https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk"
-        }
-      ],
-      "duration_ms": 219120,
-      "name": "Fake It Till You Make It",
-      "url": "https://open.spotify.com/track/4Gkug9PYnMDUAmfbk6r5sj"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/0HtJKUCwLbioPhMPAlKONW"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 235427,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/5grmNnhOTNSbcq3R1heVT1"
+    },
+    {
+      "added_at": "2026-06-12 04:00:58",
+      "album": {
+        "name": "Fake It Till You Make It",
+        "url": "https://open.spotify.com/album/5FwnR18zlJpfZxJKHwcO6z"
+      },
+      "artists": [
+        {
+          "name": "Honeybear, the Band",
+          "url": "https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk"
+        }
+      ],
+      "duration_ms": 219120,
+      "name": "Fake It Till You Make It",
+      "url": "https://open.spotify.com/track/4Gkug9PYnMDUAmfbk6r5sj"
     },
     {
       "added_at": "2026-06-12 04:00:58",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-06-12 04:00:58",
       "album": {
-        "name": "The Siren's Song",
-        "url": "https://open.spotify.com/album/1VEgwkYG6oZqAjWoTDpUX2"
-      },
-      "artists": [
-        {
-          "name": "Kacy & Clayton",
-          "url": "https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p"
-        }
-      ],
-      "duration_ms": 172440,
-      "name": "The Light Of Day",
-      "url": "https://open.spotify.com/track/3qtIvjBFZnXMoTqsxfoih5"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
         "name": "Logan Ledger",
         "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 172480,
       "name": "(I\u2019m Gonna Get Over This) Some Day",
       "url": "https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E"
+    },
+    {
+      "added_at": "2026-06-12 04:00:58",
+      "album": {
+        "name": "The Siren's Song",
+        "url": "https://open.spotify.com/album/1VEgwkYG6oZqAjWoTDpUX2"
+      },
+      "artists": [
+        {
+          "name": "Kacy & Clayton",
+          "url": "https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p"
+        }
+      ],
+      "duration_ms": 172440,
+      "name": "The Light Of Day",
+      "url": "https://open.spotify.com/track/3qtIvjBFZnXMoTqsxfoih5"
     },
     {
       "added_at": "2026-06-12 04:00:58",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-06-12 04:00:58",
       "album": {
-        "name": "Act I",
-        "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
-      },
-      "artists": [
-        {
-          "name": "Kashus Culpepper",
-          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
-        }
-      ],
-      "duration_ms": 192463,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/353A1eattWX5QjVnE5yd5X"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
         "name": "CLAIM",
         "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 215853,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
+    },
+    {
+      "added_at": "2026-06-12 04:00:58",
+      "album": {
+        "name": "Act I",
+        "url": "https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R"
+      },
+      "artists": [
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        }
+      ],
+      "duration_ms": 192463,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/353A1eattWX5QjVnE5yd5X"
     },
     {
       "added_at": "2026-06-12 04:00:58",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-06-12 04:00:58",
       "album": {
+        "name": "First Time Feeling",
+        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
+      },
+      "artists": [
+        {
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+        }
+      ],
+      "duration_ms": 186016,
+      "name": "First Time Feeling",
+      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
+    },
+    {
+      "added_at": "2026-06-12 04:00:58",
+      "album": {
         "name": "Can't Let Go",
         "url": "https://open.spotify.com/album/4FI4jvFk534aeIQXvyzNZr"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2026-06-12 04:00:58",
       "album": {
-        "name": "First Time Feeling",
-        "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
-      },
-      "artists": [
-        {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
-        }
-      ],
-      "duration_ms": 186016,
-      "name": "First Time Feeling",
-      "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
         "name": "Mariachi Static",
         "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-06-12 04:00:58",
       "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "Life of Sin",
-      "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 269133,
       "name": "Demons",
       "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
+    },
+    {
+      "added_at": "2026-06-12 04:00:58",
+      "album": {
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "Life of Sin",
+      "url": "https://open.spotify.com/track/7oop0Rsh4jhdOtglVL3Dmf"
     },
     {
       "added_at": "2026-06-12 04:00:58",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-06-12 04:00:58",
       "album": {
-        "name": "Look Who's Back",
-        "url": "https://open.spotify.com/album/46VxArVIVJrpSJrHD3P2ji"
-      },
-      "artists": [
-        {
-          "name": "The Nude Party",
-          "url": "https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK"
-        }
-      ],
-      "duration_ms": 199156,
-      "name": "Love is Electric",
-      "url": "https://open.spotify.com/track/1iIXB01AHT5ulo896r09JW"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
         "name": "Something In The Water",
         "url": "https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 203986,
       "name": "Something In The Water",
       "url": "https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG"
+    },
+    {
+      "added_at": "2026-06-12 04:00:58",
+      "album": {
+        "name": "Look Who's Back",
+        "url": "https://open.spotify.com/album/46VxArVIVJrpSJrHD3P2ji"
+      },
+      "artists": [
+        {
+          "name": "The Nude Party",
+          "url": "https://open.spotify.com/artist/5BxtbtwwHXC3HA5kAn06sK"
+        }
+      ],
+      "duration_ms": 199156,
+      "name": "Love is Electric",
+      "url": "https://open.spotify.com/track/1iIXB01AHT5ulo896r09JW"
     },
     {
       "added_at": "2026-06-12 04:00:58",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-06-12 04:00:58",
       "album": {
-        "name": "Hey Mama",
-        "url": "https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma"
-      },
-      "artists": [
-        {
-          "name": "Great Caesar",
-          "url": "https://open.spotify.com/artist/4R2xkQL6chRRTgUQ1Xgaf1"
-        }
-      ],
-      "duration_ms": 193386,
-      "name": "Hey Mama",
-      "url": "https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
         "name": "Sister Andre",
         "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 185583,
       "name": "Sister Andre",
       "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
+    },
+    {
+      "added_at": "2026-06-12 04:00:58",
+      "album": {
+        "name": "Hey Mama",
+        "url": "https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma"
+      },
+      "artists": [
+        {
+          "name": "Great Caesar",
+          "url": "https://open.spotify.com/artist/4R2xkQL6chRRTgUQ1Xgaf1"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5"
     },
     {
       "added_at": "2026-06-12 04:00:58",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-06-12 04:00:58",
       "album": {
-        "name": "It's A Joy To Be Alive",
-        "url": "https://open.spotify.com/album/1ItPvtBj5wdnOMJD8j0CZw"
-      },
-      "artists": [
-        {
-          "name": "Ferris & Sylvester",
-          "url": "https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf"
-        }
-      ],
-      "duration_ms": 260720,
-      "name": "It's A Joy To Be Alive",
-      "url": "https://open.spotify.com/track/1wj64TeEoZ9Iyks76OLGvG"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
         "name": "Blind Ambition",
         "url": "https://open.spotify.com/album/4puRLm5kd3t9qPZbmwZjX5"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 231729,
       "name": "Blind Ambition",
       "url": "https://open.spotify.com/track/6axOZ4BSW8rj9KbislTMrx"
+    },
+    {
+      "added_at": "2026-06-12 04:00:58",
+      "album": {
+        "name": "It's A Joy To Be Alive",
+        "url": "https://open.spotify.com/album/1ItPvtBj5wdnOMJD8j0CZw"
+      },
+      "artists": [
+        {
+          "name": "Ferris & Sylvester",
+          "url": "https://open.spotify.com/artist/1LnhhjMNydIGawXsnfNhCf"
+        }
+      ],
+      "duration_ms": 260720,
+      "name": "It's A Joy To Be Alive",
+      "url": "https://open.spotify.com/track/1wj64TeEoZ9Iyks76OLGvG"
     },
     {
       "added_at": "2026-06-12 04:00:58",

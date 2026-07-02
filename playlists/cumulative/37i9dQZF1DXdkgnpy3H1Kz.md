@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5lsC3H1vh9YSRQckyGv0Up">Ellen Allien</a>'s favorite tracks\. Updated regularly\. Curated by Ellen Allien\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-1,085 songs - 3 day 22 hr 31 min
+1,086 songs - 3 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,6 +571,7 @@
 | [Me happy](https://open.spotify.com/track/19PVH5UC7gJ7o7KUouPaos) | [UFO95](https://open.spotify.com/artist/6wIaTr9wvAI528u4czB5Pk) | [Use your difference to make the difference](https://open.spotify.com/album/2P4lliNQbNJboEV6Bc2zb4) | 3:46 | 2023-04-14 | 2023-05-26 |
 | [Medulla](https://open.spotify.com/track/1wCWu0olvm0XqvaY0CNna9) | [Bad Boombox](https://open.spotify.com/artist/6ZisvOKQY2LDItOkbsy2qd) | [Medulla](https://open.spotify.com/album/22oR7YgkR1HZkqWbZQXn9z) | 5:24 | 2023-11-30 | 2024-01-20 |
 | [Megator](https://open.spotify.com/track/7yyNaKHvH76G4tohz4cM7u) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Megator](https://open.spotify.com/album/1txZhdk9RtGN51ZR0rkcID) | 5:30 | 2023-11-30 | 2024-01-20 |
+| [Mein Herz](https://open.spotify.com/track/71w6hm2v7SHtmeks41gRzH) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Mein Herz](https://open.spotify.com/album/0QXtXkHK3zhTY0WT2L1ruw) | 3:23 | 2026-07-01 |  |
 | [Mensonges](https://open.spotify.com/track/2C5dSqLFRwATpRwAovtqPu) | [Blind Delon](https://open.spotify.com/artist/6IFtN53KWskqBgrW1Adf7X) | [Nuit](https://open.spotify.com/album/1Xi801E5lmLRKaf58j6rlp) | 3:36 | 2023-03-17 | 2023-04-15 |
 | [Mental Breakdown](https://open.spotify.com/track/3dU8sl0YLS6FMv8UA1HgjI) | [DJ Physical](https://open.spotify.com/artist/5gLrd7zW9n1zpwkKsmzsrk) | [Mental Breakdown](https://open.spotify.com/album/2s1tluhcejNOuWqvsXR4JN) | 6:10 | 2023-06-30 | 2023-08-05 |
 | [Mental Friction \- JakoJako Remix](https://open.spotify.com/track/65ObqjAQS1rRvVj4sr9e8f) | [Augusto Taito](https://open.spotify.com/artist/4wXtq6Rkh0ERzXBP7jmxbf), [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Deep Blue EP](https://open.spotify.com/album/0NoDbqVCO3W6p4vwFMy40z) | 4:46 | 2025-07-18 | 2025-10-25 |

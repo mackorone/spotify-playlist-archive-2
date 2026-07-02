@@ -64189,28 +64189,6 @@
     },
     {
       "album": {
-        "name": "SALVAVIDAS",
-        "url": "https://open.spotify.com/album/09PiAwBut3uOpVJPh1SPkF"
-      },
-      "artists": [
-        {
-          "name": "Fruto del Madero",
-          "url": "https://open.spotify.com/artist/2udrher3tAyZhAhTqOHktf"
-        },
-        {
-          "name": "Athenas",
-          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
-        }
-      ],
-      "date_added": "2026-06-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 272029,
-      "name": "SALVAVIDAS",
-      "url": "https://open.spotify.com/track/5US9ye3eV0WSZLacagDCH4"
-    },
-    {
-      "album": {
         "name": "Salvavidas",
         "url": "https://open.spotify.com/album/69CG9U50hJ4GCMgznnuMul"
       },
@@ -64244,6 +64222,28 @@
       "duration_ms": 177191,
       "name": "SALVAVIDAS",
       "url": "https://open.spotify.com/track/33SW3qjHKgyIYU7QJ8wRUR"
+    },
+    {
+      "album": {
+        "name": "SALVAVIDAS (feat. Athenas)",
+        "url": "https://open.spotify.com/album/09PiAwBut3uOpVJPh1SPkF"
+      },
+      "artists": [
+        {
+          "name": "Fruto del Madero",
+          "url": "https://open.spotify.com/artist/2udrher3tAyZhAhTqOHktf"
+        },
+        {
+          "name": "Athenas",
+          "url": "https://open.spotify.com/artist/71IIrUaZMShJKwuwIZVVwu"
+        }
+      ],
+      "date_added": "2026-06-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272029,
+      "name": "SALVAVIDAS (feat. Athenas)",
+      "url": "https://open.spotify.com/track/5US9ye3eV0WSZLacagDCH4"
     },
     {
       "album": {

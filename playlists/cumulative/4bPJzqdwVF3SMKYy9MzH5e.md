@@ -4,7 +4,7 @@
 
 > 
 
-2,419 songs - 5 day 10 hr 5 min
+2,420 songs - 5 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,6 +593,7 @@
 | [Do You?](https://open.spotify.com/track/0tAFy8LVdMQgW6A6Nq7olS) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI) | [V!BEZ, Vol\. 3](https://open.spotify.com/album/6pT3v18olmBZkDTm6gj7eW) | 3:15 | 2021-08-05 |  |
 | [Doe Deer](https://open.spotify.com/track/1uULPX0Bvz4ksJRrA2upxu) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(II\)](https://open.spotify.com/album/37TeO5usN4vsGSfpg4dPNA) | 1:35 | 2023-02-23 |  |
 | [Doin' Time](https://open.spotify.com/track/2pGAYIdeYo30btoyyTMXJ3) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [coconut girl](https://open.spotify.com/album/3J83KpRSalHDUkM1sndQ7L) | 3:21 | 2021-08-05 |  |
+| [Doin' Time](https://open.spotify.com/track/4eamJr2k9YDH8j58RSTmSc) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 4:13 | 2026-07-01 |  |
 | [Dollhouse](https://open.spotify.com/track/6wNeKPXF0RDKyvfKfri5hf) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:51 | 2021-08-05 |  |
 | [DOMINGO DE BOTE](https://open.spotify.com/track/0rvbMTIWwMZaMC9UnubDPb) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:10 | 2025-01-10 |  |
 | [Don't Go Outside](https://open.spotify.com/track/2HIgWeaPy8M0ehdFs5rBnV) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze) | 6:06 | 2021-08-05 |  |

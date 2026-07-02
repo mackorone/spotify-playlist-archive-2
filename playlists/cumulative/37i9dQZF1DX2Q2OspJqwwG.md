@@ -4,7 +4,7 @@
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-529 songs - 1 day 2 hr 38 min
+530 songs - 1 day 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Focul](https://open.spotify.com/track/6vDyEOfiCJO2Mex3wYiXz0) | [Just Eddie](https://open.spotify.com/artist/5i0GefHrm8JT3XVIh4rDWG), [trvlr.](https://open.spotify.com/artist/2z59yCOGpYVcyCb6qTqq6g) | [Focul](https://open.spotify.com/album/2JMc6W6DBWLPgQup5bRisz) | 3:25 | 2025-12-16 | 2026-03-10 |
 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 | 2024-07-01 | 2024-07-30 |
 | [Fostu'](https://open.spotify.com/track/2JbeodXdyFyGFcPFY4jSEi) | [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX), [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG) | [Fostu'](https://open.spotify.com/album/41iBFhMZNyrgjQWxsVIajf) | 2:55 | 2025-03-10 | 2025-06-07 |
+| [FREAKED OUT](https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN) | [Fat Papi](https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov), [prodshushy](https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA) | [FREAKED OUT](https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm) | 2:38 | 2026-06-29 |  |
 | [Freakin’ Out](https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Freakin’ Out](https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf) | 3:37 | 2026-04-21 |  |
 | [FREEZING COLD](https://open.spotify.com/track/1IGbqCODgKsJfz6K3DlGeP) | [Robi](https://open.spotify.com/artist/4FC5Mp0ZuiVF8b68cqJdim), [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb) | [COLDMODE](https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm) | 2:58 | 2025-01-20 | 2025-01-28 |
 | [Gagica\-ta \- Golden Cypher](https://open.spotify.com/track/4Hk1JHeOxf7ScnVEvzMOtY) | [Ursaru](https://open.spotify.com/artist/3bxxzWVZpk4rfuuQUESsAy), [LiToo The Purp](https://open.spotify.com/artist/06fgskAr7fPSrBKJhp9p19), [Vali Miron](https://open.spotify.com/artist/1ojOFDojdgukpkEF7L1opU), [MADATORRICELLI](https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ) | [Gagica\-ta \(Golden Cypher\)](https://open.spotify.com/album/2MXQCiha96eJp32V624dhb) | 2:58 | 2025-11-24 | 2026-06-09 |
@@ -278,7 +279,7 @@
 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 | 2024-09-30 | 2025-12-17 |
 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-07-22 | 2025-05-13 |
 | [KINTSUGI](https://open.spotify.com/track/1qbql17v0Hazo94o5RUyWQ) | [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [KINTSUGI](https://open.spotify.com/album/2icg5AKoqW4jWW9vdkENlZ) | 3:57 | 2024-11-05 | 2026-05-20 |
-| [LA NOI E CEARTA](https://open.spotify.com/track/5MwUTD2GAOonZHNlxEYtdQ) | [Berechet](https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ), [CERCEL](https://open.spotify.com/artist/5VH2lbLnYKXXHSJcbemxwR) | [LA NOI E CEARTA](https://open.spotify.com/album/6M1itFhTFROxAzGHEVC2h2) | 2:15 | 2026-06-08 |  |
+| [LA NOI E CEARTA](https://open.spotify.com/track/5MwUTD2GAOonZHNlxEYtdQ) | [Berechet](https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ), [CERCEL](https://open.spotify.com/artist/5VH2lbLnYKXXHSJcbemxwR) | [LA NOI E CEARTA](https://open.spotify.com/album/6M1itFhTFROxAzGHEVC2h2) | 2:15 | 2026-06-08 | 2026-07-02 |
 | [la noia](https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [la noia](https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI) | 3:09 | 2024-07-01 | 2024-07-30 |
 | [La tine și la bani \- From "Romina VTM" The Movie](https://open.spotify.com/track/2BsJFgVnk4FYTyzyovwQ5A) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9), [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [La tine și la bani \(From "Romina VTM" The Movie\)](https://open.spotify.com/album/2vrlJUckJYEYRdtHR7gLTE) | 2:25 | 2024-07-29 | 2024-11-12 |
 | [labour](https://open.spotify.com/track/0k2CKGR3pccvOTJZougMPd) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [yeti](https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy) | 3:57 | 2024-11-18 | 2024-12-03 |

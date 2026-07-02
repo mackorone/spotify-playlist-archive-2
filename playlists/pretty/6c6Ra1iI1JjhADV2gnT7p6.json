@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60304,
-  "original_name": "Compact Cassette (Spring 2026)",
+  "num_followers": 60309,
+  "original_name": "Compact Cassette (Summer 2026)",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABI8PRdZpIzGTKpNq7CbmFOgBHKw04W",
+  "snapshot_id": "AABI+DBY2U9Yp2xSMRy1qru5zU86yOxS",
   "tracks": [
     {
       "added_at": "2026-06-28 15:37:20",
@@ -135,6 +135,22 @@
     {
       "added_at": "2026-06-28 15:37:20",
       "album": {
+        "name": "Time is Ticking",
+        "url": "https://open.spotify.com/album/6T3FLQSlhgcvhORYT0jvQP"
+      },
+      "artists": [
+        {
+          "name": "Eyes Are All Around",
+          "url": "https://open.spotify.com/artist/5P63VOpgDP0mbu9SKow8AB"
+        }
+      ],
+      "duration_ms": 221935,
+      "name": "Time is Ticking",
+      "url": "https://open.spotify.com/track/20zF6YvuqL1kU97eofhA88"
+    },
+    {
+      "added_at": "2026-06-28 15:37:20",
+      "album": {
         "name": "Songs For, By, and Mostly About Birds",
         "url": "https://open.spotify.com/album/1N1wMRvV4OLg5H8VVHEWeT"
       },
@@ -167,6 +183,22 @@
     {
       "added_at": "2026-06-28 15:37:20",
       "album": {
+        "name": "Magic River",
+        "url": "https://open.spotify.com/album/6LBgt0ibhXp7b59OuUIMyV"
+      },
+      "artists": [
+        {
+          "name": "JW Francis",
+          "url": "https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6"
+        }
+      ],
+      "duration_ms": 230080,
+      "name": "I Guess I Really Needed You",
+      "url": "https://open.spotify.com/track/3305suBRlCfOm8nIs5MWar"
+    },
+    {
+      "added_at": "2026-06-28 15:37:20",
+      "album": {
         "name": "Down on Love",
         "url": "https://open.spotify.com/album/2pYMnZVr54Md6wRrDTca89"
       },
@@ -179,6 +211,38 @@
       "duration_ms": 177375,
       "name": "Down on Love",
       "url": "https://open.spotify.com/track/1e6yeX2wyy6DYGPdfvzl2O"
+    },
+    {
+      "added_at": "2026-06-28 15:37:20",
+      "album": {
+        "name": "Oh Elsa!",
+        "url": "https://open.spotify.com/album/5lbgUgBXXBBMTkqofu0u2o"
+      },
+      "artists": [
+        {
+          "name": "Mono Mochi",
+          "url": "https://open.spotify.com/artist/590oTtci51zp4b3VAFRJtF"
+        }
+      ],
+      "duration_ms": 327099,
+      "name": "Wild Thyme",
+      "url": "https://open.spotify.com/track/3iS15JxLLhBDDW5gUrHqVA"
+    },
+    {
+      "added_at": "2026-06-28 15:37:20",
+      "album": {
+        "name": "Truck",
+        "url": "https://open.spotify.com/album/0N614JcqvWYbC8te40qoCq"
+      },
+      "artists": [
+        {
+          "name": "talker",
+          "url": "https://open.spotify.com/artist/1wcTmtixisIzV10W69W6lm"
+        }
+      ],
+      "duration_ms": 245215,
+      "name": "Truck",
+      "url": "https://open.spotify.com/track/3RFA86t3yrML0ktPjRAcX7"
     },
     {
       "added_at": "2026-06-28 15:37:20",
@@ -219,22 +283,6 @@
     {
       "added_at": "2026-06-28 15:37:20",
       "album": {
-        "name": "Magic River",
-        "url": "https://open.spotify.com/album/6LBgt0ibhXp7b59OuUIMyV"
-      },
-      "artists": [
-        {
-          "name": "JW Francis",
-          "url": "https://open.spotify.com/artist/11DpUQDuQFFuGU8VXny3K6"
-        }
-      ],
-      "duration_ms": 230080,
-      "name": "I Guess I Really Needed You",
-      "url": "https://open.spotify.com/track/3305suBRlCfOm8nIs5MWar"
-    },
-    {
-      "added_at": "2026-06-28 15:37:20",
-      "album": {
         "name": "Parallel",
         "url": "https://open.spotify.com/album/0dvJ00PyWHzDBOMjsZa3F2"
       },
@@ -251,34 +299,18 @@
     {
       "added_at": "2026-06-28 15:37:20",
       "album": {
-        "name": "Truck",
-        "url": "https://open.spotify.com/album/0N614JcqvWYbC8te40qoCq"
+        "name": "Watch the World",
+        "url": "https://open.spotify.com/album/6IMJXkaoD5NEgZAp1nn4s6"
       },
       "artists": [
         {
-          "name": "talker",
-          "url": "https://open.spotify.com/artist/1wcTmtixisIzV10W69W6lm"
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
         }
       ],
-      "duration_ms": 245215,
-      "name": "Truck",
-      "url": "https://open.spotify.com/track/3RFA86t3yrML0ktPjRAcX7"
-    },
-    {
-      "added_at": "2026-06-28 15:37:20",
-      "album": {
-        "name": "Oh Elsa!",
-        "url": "https://open.spotify.com/album/5lbgUgBXXBBMTkqofu0u2o"
-      },
-      "artists": [
-        {
-          "name": "Mono Mochi",
-          "url": "https://open.spotify.com/artist/590oTtci51zp4b3VAFRJtF"
-        }
-      ],
-      "duration_ms": 327099,
-      "name": "Wild Thyme",
-      "url": "https://open.spotify.com/track/3iS15JxLLhBDDW5gUrHqVA"
+      "duration_ms": 314880,
+      "name": "Watch the World",
+      "url": "https://open.spotify.com/track/0CX6C8yz68EY4JqyKYcTdJ"
     },
     {
       "added_at": "2026-06-28 15:37:20",
@@ -871,22 +903,6 @@
     {
       "added_at": "2026-06-28 15:37:20",
       "album": {
-        "name": "Watch the World",
-        "url": "https://open.spotify.com/album/6IMJXkaoD5NEgZAp1nn4s6"
-      },
-      "artists": [
-        {
-          "name": "Gerry Read",
-          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
-        }
-      ],
-      "duration_ms": 314880,
-      "name": "Watch the World",
-      "url": "https://open.spotify.com/track/0CX6C8yz68EY4JqyKYcTdJ"
-    },
-    {
-      "added_at": "2026-06-28 15:37:20",
-      "album": {
         "name": "An Always Open Door",
         "url": "https://open.spotify.com/album/4M2JkAOoHVwf5dP9KhO1ec"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 217544,
       "name": "People",
       "url": "https://open.spotify.com/track/59JTM61AzyxH8vKLlPNukJ"
-    },
-    {
-      "added_at": "2026-06-28 15:37:20",
-      "album": {
-        "name": "Time is Ticking",
-        "url": "https://open.spotify.com/album/6T3FLQSlhgcvhORYT0jvQP"
-      },
-      "artists": [
-        {
-          "name": "Eyes Are All Around",
-          "url": "https://open.spotify.com/artist/5P63VOpgDP0mbu9SKow8AB"
-        }
-      ],
-      "duration_ms": 221935,
-      "name": "Time is Ticking",
-      "url": "https://open.spotify.com/track/20zF6YvuqL1kU97eofhA88"
     },
     {
       "added_at": "2026-06-28 15:37:20",
@@ -13223,7 +13223,7 @@
     {
       "added_at": "2026-06-07 12:56:09",
       "album": {
-        "name": "Blu Tac Piano",
+        "name": "Blu tac piano",
         "url": "https://open.spotify.com/album/0iHDzwYLxxsxVJI4NGu8kO"
       },
       "artists": [
@@ -13233,7 +13233,7 @@
         }
       ],
       "duration_ms": 297546,
-      "name": "Blu Tac Piano",
+      "name": "Blu tac piano",
       "url": "https://open.spotify.com/track/4UMjHRPZAi5LgR8xhYShqc"
     },
     {
@@ -25825,6 +25825,6 @@
       "url": "https://open.spotify.com/track/10Gj5oUXE50NgsU2sc22Qd"
     }
   ],
-  "unique_name": "Compact Cassette (Spring 2026)",
+  "unique_name": "Compact Cassette (Summer 2026)",
   "url": "https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6"
 }

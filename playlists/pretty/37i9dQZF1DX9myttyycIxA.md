@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Wishy
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,786 likes - 99 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,776 likes - 99 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 32 | [Caledonia](https://open.spotify.com/track/0mldwBdT46wITG9IeBvFR7) | [Racecourse](https://open.spotify.com/artist/3kqBqarOm3KKPkElP9yPAB) | [July, December](https://open.spotify.com/album/1HxFTOZEy9CQDFYgfpEm32) | 2:47 |
 | 33 | [love/guilt](https://open.spotify.com/track/0iZ0ga0ydu5Zje80qU2rzH) | [Still Blank](https://open.spotify.com/artist/55PWse6Vpvyruh3IPtPQ71) | [love/guilt](https://open.spotify.com/album/5EjCAi3JUihX2gmim4h5aH) | 3:05 |
 | 34 | [Carousel](https://open.spotify.com/track/4oexXTUY2WQaWIhw0dd1XL) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5) | [Carousel](https://open.spotify.com/album/1tgcO6Pl2A6DbfmjfjQ9iF) | 3:48 |
-| 35 | [Blu Tac Piano](https://open.spotify.com/track/4UMjHRPZAi5LgR8xhYShqc) | [Cusk](https://open.spotify.com/artist/3JkYnVJf85irRhvG5ptSIw) | [Blu Tac Piano](https://open.spotify.com/album/0iHDzwYLxxsxVJI4NGu8kO) | 4:57 |
+| 35 | [Blu tac piano](https://open.spotify.com/track/4UMjHRPZAi5LgR8xhYShqc) | [Cusk](https://open.spotify.com/artist/3JkYnVJf85irRhvG5ptSIw) | [Blu tac piano](https://open.spotify.com/album/0iHDzwYLxxsxVJI4NGu8kO) | 4:57 |
 | 36 | [I’m Still Learning How To Leave You](https://open.spotify.com/track/5NZz5xUh1Vgz6DesC5SKYZ) | [Harmony Tividad](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [I’m Still Learning How To Leave You](https://open.spotify.com/album/03E8Neqz8GSu5TFeaM5prG) | 3:35 |
 | 37 | [Simple Life](https://open.spotify.com/track/0YKpU3ENKHEuISIzY2Mddo) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Brink](https://open.spotify.com/album/6YWyh2uDVJspFCq32tVPuh) | 3:07 |
 | 38 | [Spacey](https://open.spotify.com/track/0iIvDVbTgFV8a06FiVSjxO) | [The Rose Hips](https://open.spotify.com/artist/6RYLjdFZYkGUP2BjaJHAsX) | [Spacey](https://open.spotify.com/album/364ms6awqRPNolPlw7Pf8p) | 3:09 |

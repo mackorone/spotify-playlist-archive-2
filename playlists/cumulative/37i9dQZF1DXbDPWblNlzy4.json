@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "PUERTA ABIERTA",
+        "url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185728,
+      "name": "A La Ni\u00f1a Que Fui",
+      "url": "https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0"
+    },
+    {
+      "album": {
         "name": "A La Playa",
         "url": "https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU"
       },
@@ -1763,6 +1781,24 @@
     },
     {
       "album": {
+        "name": "Caf\u00e9 Con Medialunas",
+        "url": "https://open.spotify.com/album/3r4w26NIb61UrQr43aOOWM"
+      },
+      "artists": [
+        {
+          "name": "Khappa",
+          "url": "https://open.spotify.com/artist/716e8qkglnLkQH9jt1itI1"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138694,
+      "name": "Caf\u00e9 Con Medialunas",
+      "url": "https://open.spotify.com/track/5Qfpww6O3kRSC8ra1C2fio"
+    },
+    {
+      "album": {
         "name": "CAIRO",
         "url": "https://open.spotify.com/album/1yzsYuo0fqKWvYimSWL5RA"
       },
@@ -2990,6 +3026,28 @@
       "duration_ms": 156467,
       "name": "Diamante",
       "url": "https://open.spotify.com/track/0swIeIY7LlwDyHlINNckzq"
+    },
+    {
+      "album": {
+        "name": "Dicen",
+        "url": "https://open.spotify.com/album/0ayMIXPqh9Nm5oKKkHwFT0"
+      },
+      "artists": [
+        {
+          "name": "Sergio Sacoto",
+          "url": "https://open.spotify.com/artist/4M2tjM6G1E5vwUr4EsrkC0"
+        },
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221409,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/4nm4ewuYd2k2CD6SGWtLsX"
     },
     {
       "album": {

@@ -1,36 +1,84 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Anirudh Ravichander",
-  "num_followers": 44417,
+  "num_followers": 44422,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFIYpbbm4qdFq3to6/yvhj64EgA2",
+  "snapshot_id": "AAAAAAqzbLolTJih6m1ikk4aY5K6fZi6",
   "tracks": [
     {
-      "added_at": "2026-06-19 05:43:05",
+      "added_at": "2026-07-01 06:10:30",
       "album": {
-        "name": "Sukumaarive",
-        "url": "https://open.spotify.com/album/1Mnn9g8XXxRvDcdyPMi4D2"
+        "name": "Gamyam",
+        "url": "https://open.spotify.com/album/1D7F3UghWe2hd6nORZPghx"
       },
       "artists": [
         {
-          "name": "Anirudh Suswaram",
-          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+          "name": "Eknaath",
+          "url": "https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU"
         },
         {
-          "name": "VIKYK",
-          "url": "https://open.spotify.com/artist/7vJpZ5o50LXRpwIGKn9s2G"
-        },
-        {
-          "name": "Sravani Amarapu",
-          "url": "https://open.spotify.com/artist/3imN1dakgEq1dRoImW7cfm"
+          "name": "Balavardhan",
+          "url": "https://open.spotify.com/artist/0S6O8iZc26eN5fnqtXJe2A"
         }
       ],
-      "duration_ms": 216213,
-      "name": "Sukumaarive",
-      "url": "https://open.spotify.com/track/0HnQBVo7llaBl04ksWExcm"
+      "duration_ms": 260662,
+      "name": "Gamyam",
+      "url": "https://open.spotify.com/track/7ky2gxFArFc5ymYwCRKpk5"
+    },
+    {
+      "added_at": "2026-06-14 04:40:13",
+      "album": {
+        "name": "Aravindh (Telugu)",
+        "url": "https://open.spotify.com/album/6S74tGtUi00gmHXS8UuC69"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Srinivasa Mouli",
+          "url": "https://open.spotify.com/artist/2y2DSOmE3xKWW4Wia2ucCi"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Aravindh (Telugu)",
+      "url": "https://open.spotify.com/track/47EyHixke4M8597pX7aBWi"
+    },
+    {
+      "added_at": "2026-07-01 06:10:30",
+      "album": {
+        "name": "Myna",
+        "url": "https://open.spotify.com/album/3dKxvhx8faDA1hkBJbyI5M"
+      },
+      "artists": [
+        {
+          "name": "yogesh raj kumar",
+          "url": "https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW"
+        }
+      ],
+      "duration_ms": 176549,
+      "name": "Myna",
+      "url": "https://open.spotify.com/track/6d9eGt2BZIvoeDfjsZ7rFE"
+    },
+    {
+      "added_at": "2026-07-01 06:10:30",
+      "album": {
+        "name": "Nuvve",
+        "url": "https://open.spotify.com/album/0Fpqaq6TAvdY8eHWYMlsAM"
+      },
+      "artists": [
+        {
+          "name": "Uday Kiran UK",
+          "url": "https://open.spotify.com/artist/6bMQApJJQkMAARbNqYu34i"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Nuvve",
+      "url": "https://open.spotify.com/track/7iursa6zsjh1QlsZLbzuos"
     },
     {
       "added_at": "2026-06-10 06:10:52",
@@ -57,40 +105,44 @@
       "url": "https://open.spotify.com/track/63D9vDB9RFoteyS2AgM0Jw"
     },
     {
-      "added_at": "2026-06-14 04:40:13",
+      "added_at": "2026-07-01 06:10:30",
       "album": {
-        "name": "Aravindh (Telugu)",
-        "url": "https://open.spotify.com/album/6S74tGtUi00gmHXS8UuC69"
+        "name": "BABA MODE",
+        "url": "https://open.spotify.com/album/6l1AZ4PoY7YnK2KHhuV4WX"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+          "name": "Rowdraa",
+          "url": "https://open.spotify.com/artist/4X6iChAN4eW4s811KHo9p4"
         },
         {
-          "name": "Srinivasa Mouli",
-          "url": "https://open.spotify.com/artist/2y2DSOmE3xKWW4Wia2ucCi"
+          "name": "Aaron Zoro",
+          "url": "https://open.spotify.com/artist/3z2zMAx64AvPE0HLXHinyC"
+        },
+        {
+          "name": "Sean Verse",
+          "url": "https://open.spotify.com/artist/4B4XQnDHaGVHLCBpG4uzdV"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Aravindh (Telugu)",
-      "url": "https://open.spotify.com/track/47EyHixke4M8597pX7aBWi"
+      "duration_ms": 168270,
+      "name": "BABA MODE",
+      "url": "https://open.spotify.com/track/6QT1yxqJUvCE96xkPJuLpw"
     },
     {
-      "added_at": "2026-06-19 05:43:05",
+      "added_at": "2026-07-01 06:10:30",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/6bT4o1dAbrdODEHn3VapWY"
+        "name": "Naa Valla Kaademo",
+        "url": "https://open.spotify.com/album/5MuwcL5oeTdcEoCYnyaTLW"
       },
       "artists": [
         {
-          "name": "Sai Sandeep Pakki",
-          "url": "https://open.spotify.com/artist/6ZILD2P95MZFKC68437P0o"
+          "name": "Yo STAR KRISH",
+          "url": "https://open.spotify.com/artist/1lO7kwj88vBhvLqktA06tn"
         }
       ],
-      "duration_ms": 226206,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/7v20oLynmiTajbdeOGOBQm"
+      "duration_ms": 165227,
+      "name": "Naa Valla Kaademo",
+      "url": "https://open.spotify.com/track/4xtn0WiAAMmuzvoKN52Uwd"
     },
     {
       "added_at": "2026-06-19 05:43:05",
@@ -119,6 +171,46 @@
       "duration_ms": 294545,
       "name": "Vedam",
       "url": "https://open.spotify.com/track/30L9XxaZhXBdWH608Jec1r"
+    },
+    {
+      "added_at": "2026-06-19 05:43:05",
+      "album": {
+        "name": "Sukumaarive",
+        "url": "https://open.spotify.com/album/1Mnn9g8XXxRvDcdyPMi4D2"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Suswaram",
+          "url": "https://open.spotify.com/artist/4EkZTRchmIwvMOzBbpSwue"
+        },
+        {
+          "name": "VIKYK",
+          "url": "https://open.spotify.com/artist/7vJpZ5o50LXRpwIGKn9s2G"
+        },
+        {
+          "name": "Sravani Amarapu",
+          "url": "https://open.spotify.com/artist/3imN1dakgEq1dRoImW7cfm"
+        }
+      ],
+      "duration_ms": 216213,
+      "name": "Sukumaarive",
+      "url": "https://open.spotify.com/track/0HnQBVo7llaBl04ksWExcm"
+    },
+    {
+      "added_at": "2026-06-19 05:43:05",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/6bT4o1dAbrdODEHn3VapWY"
+      },
+      "artists": [
+        {
+          "name": "Sai Sandeep Pakki",
+          "url": "https://open.spotify.com/artist/6ZILD2P95MZFKC68437P0o"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/7v20oLynmiTajbdeOGOBQm"
     },
     {
       "added_at": "2026-06-12 00:10:05",
@@ -207,6 +299,22 @@
       "duration_ms": 215386,
       "name": "Bagundhiley",
       "url": "https://open.spotify.com/track/2NqXqilVdviS616yjTlpeg"
+    },
+    {
+      "added_at": "2026-07-01 06:10:30",
+      "album": {
+        "name": "Kaougili",
+        "url": "https://open.spotify.com/album/6Ahu2QbSarXOo8FZSZMeEU"
+      },
+      "artists": [
+        {
+          "name": "Abhinav Sankuri",
+          "url": "https://open.spotify.com/artist/6WbsvR4s5jRa1rDN3B3ZKH"
+        }
+      ],
+      "duration_ms": 167717,
+      "name": "Kaougili",
+      "url": "https://open.spotify.com/track/4cexwAX0irsP50Pzwqt84t"
     },
     {
       "added_at": "2026-06-22 07:48:18",
@@ -677,30 +785,6 @@
       "url": "https://open.spotify.com/track/0RWppfpvEJg6ZKGzeJCezz"
     },
     {
-      "added_at": "2025-12-26 05:54:30",
-      "album": {
-        "name": "Shores",
-        "url": "https://open.spotify.com/album/1mXdXTQBwzoYXofQ2gTvIV"
-      },
-      "artists": [
-        {
-          "name": "Iravu",
-          "url": "https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH"
-        },
-        {
-          "name": "Pranathi Varma",
-          "url": "https://open.spotify.com/artist/10fOJE3AwE1pBtKF69pAvQ"
-        },
-        {
-          "name": "Sumant Shridhar",
-          "url": "https://open.spotify.com/artist/7GA0Xau5hmFnis85SKwPHX"
-        }
-      ],
-      "duration_ms": 226451,
-      "name": "Manase (Side A)",
-      "url": "https://open.spotify.com/track/1Jd0pZKiYchJQcJlNwxDuK"
-    },
-    {
       "added_at": "2026-04-24 09:54:03",
       "album": {
         "name": "Kothagaundhi",
@@ -1053,22 +1137,6 @@
       "url": "https://open.spotify.com/track/7c2OpCYcjMm13Y4Qs2KO48"
     },
     {
-      "added_at": "2026-01-02 09:49:41",
-      "album": {
-        "name": "Padipoya Nee Premalo",
-        "url": "https://open.spotify.com/album/4kapNBN4e2oUhDUjmH1HcO"
-      },
-      "artists": [
-        {
-          "name": "Tarun Donipati",
-          "url": "https://open.spotify.com/artist/5qH5z0A355cf42Z0dhw6NI"
-        }
-      ],
-      "duration_ms": 344117,
-      "name": "Padipoya Nee Premalo",
-      "url": "https://open.spotify.com/track/22bjkfQt5qLAnK4xijhVuB"
-    },
-    {
       "added_at": "2026-02-20 09:03:20",
       "album": {
         "name": "Dream",
@@ -1297,26 +1365,6 @@
       "url": "https://open.spotify.com/track/7ChBMFeJTlOUztlRcolGfh"
     },
     {
-      "added_at": "2025-12-19 05:03:08",
-      "album": {
-        "name": "Poraga Poraga",
-        "url": "https://open.spotify.com/album/2ZqE68XcuVBkq3fW3aCLgk"
-      },
-      "artists": [
-        {
-          "name": "P V N S Rohit",
-          "url": "https://open.spotify.com/artist/4nSNFU2sKcxxiaPWnmT6JZ"
-        },
-        {
-          "name": "Vaishakh Jyothis",
-          "url": "https://open.spotify.com/artist/3jybpgiCCmad0SiDsen7ot"
-        }
-      ],
-      "duration_ms": 201708,
-      "name": "Poraga Poraga",
-      "url": "https://open.spotify.com/track/2N6V75n89gCZX1b4vvlI3N"
-    },
-    {
       "added_at": "2026-02-28 00:01:13",
       "album": {
         "name": "Gymdagi",
@@ -1421,26 +1469,6 @@
       "url": "https://open.spotify.com/track/5gR88oHWOemgAwBEu7YiA6"
     },
     {
-      "added_at": "2025-12-19 08:24:15",
-      "album": {
-        "name": "BHAJANA",
-        "url": "https://open.spotify.com/album/2SiOTpDEzT2LPiUKGATKyE"
-      },
-      "artists": [
-        {
-          "name": "Dasagriva",
-          "url": "https://open.spotify.com/artist/2W6JEglcLHFJkD4uwqhhCn"
-        },
-        {
-          "name": "CLOWNY BEATZZ",
-          "url": "https://open.spotify.com/artist/4AZNZr8cunGj8kKj81NGFm"
-        }
-      ],
-      "duration_ms": 155664,
-      "name": "BHAJANA",
-      "url": "https://open.spotify.com/track/512B0737fHqkUu0B9ZXHat"
-    },
-    {
       "added_at": "2026-02-20 09:03:20",
       "album": {
         "name": "Naalo Manasu",
@@ -1495,34 +1523,6 @@
       "duration_ms": 188740,
       "name": "Dhoola Maya",
       "url": "https://open.spotify.com/track/1u8fCJz0quPl7Pnxbi49Q9"
-    },
-    {
-      "added_at": "2025-12-26 05:54:30",
-      "album": {
-        "name": "Shores",
-        "url": "https://open.spotify.com/album/1mXdXTQBwzoYXofQ2gTvIV"
-      },
-      "artists": [
-        {
-          "name": "Iravu",
-          "url": "https://open.spotify.com/artist/32gGumlFxS3I49LH5cNcrH"
-        },
-        {
-          "name": "Pranathi Varma",
-          "url": "https://open.spotify.com/artist/10fOJE3AwE1pBtKF69pAvQ"
-        },
-        {
-          "name": "Abhiram Lolla",
-          "url": "https://open.spotify.com/artist/6j0aLuBGUR4MNx9HAJcrwc"
-        },
-        {
-          "name": "Manasa Adusumilli",
-          "url": "https://open.spotify.com/artist/0Ivg5nroRBuw5n8wX6TIDm"
-        }
-      ],
-      "duration_ms": 181714,
-      "name": "Seethakaalam (Reprise)",
-      "url": "https://open.spotify.com/track/6FJPBWZBJn6yX9WxDYPb6F"
     },
     {
       "added_at": "2026-03-13 08:50:39",
@@ -1739,22 +1739,6 @@
       "duration_ms": 324166,
       "name": "Haayi",
       "url": "https://open.spotify.com/track/0rTQeRNV44kCFxUx53IJ2x"
-    },
-    {
-      "added_at": "2025-12-19 05:03:08",
-      "album": {
-        "name": "Seenu Gaani Dawath",
-        "url": "https://open.spotify.com/album/5UgeFsY9v8Sc5VOTQhgF6C"
-      },
-      "artists": [
-        {
-          "name": "CNU beats",
-          "url": "https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb"
-        }
-      ],
-      "duration_ms": 181706,
-      "name": "Seenu Gaani Dawath",
-      "url": "https://open.spotify.com/track/2vbfIUYmq9H9B2CVaZrtYK"
     },
     {
       "added_at": "2026-01-23 08:49:10",

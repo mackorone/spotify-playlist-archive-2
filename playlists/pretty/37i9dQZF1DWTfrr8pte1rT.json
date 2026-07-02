@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Rezz \\m/",
-  "num_followers": 356042,
+  "num_followers": 356074,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
-        "name": "AUTOPSY BUFFET",
-        "url": "https://open.spotify.com/album/5fXmvaPbkQbfM1o8YxSC9P"
-      },
-      "artists": [
-        {
-          "name": "GHENGAR",
-          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
-        },
-        {
-          "name": "Chassi",
-          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "AUTOPSY BUFFET",
-      "url": "https://open.spotify.com/track/2UI0f5V7VjkNZ9XyyZzI8Q"
-    },
-    {
-      "added_at": "2026-06-12 16:24:53",
-      "album": {
         "name": "Not My Night",
         "url": "https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 246400,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
+    },
+    {
+      "added_at": "2026-06-12 16:24:53",
+      "album": {
+        "name": "AUTOPSY BUFFET",
+        "url": "https://open.spotify.com/album/5fXmvaPbkQbfM1o8YxSC9P"
+      },
+      "artists": [
+        {
+          "name": "GHENGAR",
+          "url": "https://open.spotify.com/artist/6g6OqIpMMbEkhhtEODZaGf"
+        },
+        {
+          "name": "Chassi",
+          "url": "https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "AUTOPSY BUFFET",
+      "url": "https://open.spotify.com/track/2UI0f5V7VjkNZ9XyyZzI8Q"
     },
     {
       "added_at": "2026-06-12 16:24:53",
@@ -1971,6 +1971,26 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
+        "name": "Ghost Story (with All Time Low)",
+        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 166971,
+      "name": "Ghost Story (with All Time Low)",
+      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
+    },
+    {
+      "added_at": "2026-06-12 16:24:53",
+      "album": {
         "name": "SO FAR SO FAKE",
         "url": "https://open.spotify.com/album/0jWVyAzO2ZLi3GeWIPGpQf"
       },
@@ -1991,26 +2011,6 @@
       "duration_ms": 260571,
       "name": "SO FAR SO FAKE",
       "url": "https://open.spotify.com/track/4rRWDVA9kmRwbnXuon269O"
-    },
-    {
-      "added_at": "2026-06-12 16:24:53",
-      "album": {
-        "name": "Ghost Story (with All Time Low)",
-        "url": "https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 166971,
-      "name": "Ghost Story (with All Time Low)",
-      "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
     },
     {
       "added_at": "2026-06-12 16:24:53",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
-        "name": "When You & Me Dance",
-        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
-      },
-      "artists": [
-        {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "When You & Me Dance",
-      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
-    },
-    {
-      "added_at": "2026-06-12 16:24:53",
-      "album": {
         "name": "Lean Onto Me",
         "url": "https://open.spotify.com/album/2k6WuUHvRmhu7Q6mcBT7Wm"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 192000,
       "name": "Lean Onto Me",
       "url": "https://open.spotify.com/track/0vfwlXtVtIdHMsPxtBwyef"
+    },
+    {
+      "added_at": "2026-06-12 16:24:53",
+      "album": {
+        "name": "When You & Me Dance",
+        "url": "https://open.spotify.com/album/5nlEUq9BStiziYyP1z5bkd"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "When You & Me Dance",
+      "url": "https://open.spotify.com/track/0rHp9fr5I0LBaK2szxKgms"
     },
     {
       "added_at": "2026-06-12 16:24:53",
@@ -2319,8 +2319,8 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
-        "name": "Kore",
-        "url": "https://open.spotify.com/album/2bMyuXi95xRhO7zh1LQp0h"
+        "name": "Forget My Name",
+        "url": "https://open.spotify.com/album/5kBtdhkSqQf6aXSNYtBumd"
       },
       "artists": [
         {
@@ -2328,13 +2328,17 @@
           "url": "https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv"
         },
         {
-          "name": "Nimda",
-          "url": "https://open.spotify.com/artist/3Au3D8Hsiy5B8z4C2uH02h"
+          "name": "Kai Wachi",
+          "url": "https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K"
+        },
+        {
+          "name": "CRYBLOOD",
+          "url": "https://open.spotify.com/artist/3VH53ktYPXwo7b9cigHjGe"
         }
       ],
-      "duration_ms": 156863,
-      "name": "Kore",
-      "url": "https://open.spotify.com/track/7hkl3e3ltu3sE3UYNxKrlc"
+      "duration_ms": 254896,
+      "name": "Forget My Name",
+      "url": "https://open.spotify.com/track/2MHuZf6dkhvAMa5UbKZvZT"
     },
     {
       "added_at": "2026-06-12 16:24:53",
@@ -2375,22 +2379,6 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
-        "name": "WARNING",
-        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 193103,
-      "name": "WARNING",
-      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
-    },
-    {
-      "added_at": "2026-06-12 16:24:53",
-      "album": {
         "name": "iF_i_FaLL",
         "url": "https://open.spotify.com/album/4nWbYRHt7G99SEg5dAyW89"
       },
@@ -2419,22 +2407,18 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
-        "name": "Werewolf: Synthwave Edition",
-        "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4"
       },
       "artists": [
         {
-          "name": "Motionless In White",
-          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
-        },
-        {
-          "name": "Saxl Rose",
-          "url": "https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq"
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
         }
       ],
-      "duration_ms": 211387,
-      "name": "Werewolf: Synthwave Edition",
-      "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
+      "duration_ms": 193103,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6"
     },
     {
       "added_at": "2026-06-12 16:24:53",
@@ -2459,6 +2443,26 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
+        "name": "Werewolf: Synthwave Edition",
+        "url": "https://open.spotify.com/album/36KmpPLQT5kQ1BAOTtN6bF"
+      },
+      "artists": [
+        {
+          "name": "Motionless In White",
+          "url": "https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl"
+        },
+        {
+          "name": "Saxl Rose",
+          "url": "https://open.spotify.com/artist/28VuUrhLvudCiA9zYn0FMq"
+        }
+      ],
+      "duration_ms": 211387,
+      "name": "Werewolf: Synthwave Edition",
+      "url": "https://open.spotify.com/track/0D4v7cIYb2bIYKNG7BQtbW"
+    },
+    {
+      "added_at": "2026-06-12 16:24:53",
+      "album": {
         "name": "Dark Void EP",
         "url": "https://open.spotify.com/album/5TYT8jOrMLQPfluE3ra2dd"
       },
@@ -2479,22 +2483,6 @@
     {
       "added_at": "2026-06-12 16:24:53",
       "album": {
-        "name": "come around",
-        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
-      },
-      "artists": [
-        {
-          "name": "Omri",
-          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
-        }
-      ],
-      "duration_ms": 219789,
-      "name": "come around",
-      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
-    },
-    {
-      "added_at": "2026-06-12 16:24:53",
-      "album": {
         "name": "Get To U",
         "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
       },
@@ -2507,6 +2495,22 @@
       "duration_ms": 176008,
       "name": "Get To U",
       "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
+    },
+    {
+      "added_at": "2026-06-12 16:24:53",
+      "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
+      },
+      "artists": [
+        {
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
     }
   ],
   "unique_name": "Rocktronic",

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 ### [New Grass](https://open.spotify.com/playlist/37i9dQZF1DWZFZauB74Yho)
 
-> The latest releases from bluegrass and string bands alike\. Cover: Matt Combs
+> The latest releases from bluegrass and string bands alike\. Cover: Steep Canyon Rangers
 
 [Spotify](https://open.spotify.com/user/spotify) - 33,705 likes - 100 songs - 5 hr 49 min
 
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 | 99 | [Tennessee Border](https://open.spotify.com/track/7k2shcdLyUwPOAYoFmkIsO) | [Larry Sparks](https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA) | [Way Back When](https://open.spotify.com/album/7cLJ83Yh2aiTrUGu5UYFsL) | 2:19 |
 | 100 | [Don’t Let Your Deal Go Down](https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Trail Of Flowers \(Deluxe Edition\)](https://open.spotify.com/album/5aMgz7gGUkMDHYbr3eNxkg) | 3:38 |
 
-Snapshot ID: `AAAAAGFZYWQHQvPi+wwsBAAmJ7U1zZl3`
+Snapshot ID: `AAAAALLKAnWo3y3UdboLQWT6tGlNAKiR`

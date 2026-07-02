@@ -4,13 +4,14 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,240 songs - 3 day 0 hr 6 min
+1,244 songs - 3 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/0nnmESoxPpEO1yC1T48hpd) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1VbywbT11NRNsEYYSG8Bm5) | 0:00 | 2026-01-26 | 2026-02-17 |
 | ['O Viandante](https://open.spotify.com/track/3MMrv7z89SLgyILabY9rGX) | [apokalypto fusion](https://open.spotify.com/artist/10pz2NMMZ5DDuQEySorub2), [rod frequencies](https://open.spotify.com/artist/4rVXyp77Xbl0jWjkJA7xUk) | ['O Viandante](https://open.spotify.com/album/4tc1M4U51P22LczCxMMQRM) | 3:24 | 2026-06-07 |  |
 | ['Un c'è](https://open.spotify.com/track/092B5XNgZPmLNEcsBal5Vx) | [I Musicanti di Gregorio Caimi](https://open.spotify.com/artist/4FdC3GeTxEwmOLyg9bgYnp) | [Arsura](https://open.spotify.com/album/00dqH3DRTC4WWFQ6biEIeV) | 3:56 | 2023-04-20 | 2025-11-29 |
+| [\(Only Takes a\) Moment](https://open.spotify.com/track/7tNhfp7TxXc3ZPBCOBqgyV) | [James Sebastian](https://open.spotify.com/artist/6IX76Xz04QnJdDtcDIfoD6) | [\(Only Takes a\) Moment](https://open.spotify.com/album/08nJd5fnuBNRb6arPl1hNp) | 3:02 | 2026-07-01 |  |
 | [...and mama was a belly dancer \- Remastered 2023](https://open.spotify.com/track/4oGRS78FLKzY1yVdEedoXk) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [...and Mama was a belly dancer \(Remastered 2023\)](https://open.spotify.com/album/7akxOJh7LxWGdBMmHH7HOo) | 5:14 | 2023-11-16 | 2025-11-29 |
 | [10 Sigarette](https://open.spotify.com/track/0f09Wn1gJUHs4JUwYAFGoy) | [Kaloxs](https://open.spotify.com/artist/50A5Zuva0s41d68bc5hkSQ) | [10 Sigarette](https://open.spotify.com/album/6k3uPQNLNclVrU5v3sXsQM) | 2:54 | 2026-01-20 | 2026-02-20 |
 | [12 Am Lunch with Mayor](https://open.spotify.com/track/15hoZhFK5LO9XUvhsDIOyV) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE), [Giancarlo Romani](https://open.spotify.com/artist/59gxTwI7Wu2hNmNyj5l4Su) | [12 Am Lunch with Mayor](https://open.spotify.com/album/5cGBSHDbt9P79JmESAjbrD) | 3:40 | 2024-04-27 | 2025-12-28 |
@@ -928,6 +929,7 @@
 | [Silhouette](https://open.spotify.com/track/3PXC71Anog78H0WlzANi49) | [Maxine Louise](https://open.spotify.com/artist/3vOuuR55nZMwjEluo4Su6d) | [Silhouette](https://open.spotify.com/album/4fFxum7G5Pm3RD94GHk2VY) | 3:04 | 2026-04-23 | 2026-06-05 |
 | [silver moon](https://open.spotify.com/track/1wHgGm0nW3CXVJsp6drLMa) | [Rob Linx](https://open.spotify.com/artist/0HjB27915ai70JyDebH1x8) | [silver moon](https://open.spotify.com/album/3u5KpY0cPdWb71SSOHCq0b) | 3:23 | 2026-02-04 | 2026-03-07 |
 | [Simulation 1](https://open.spotify.com/track/41xuNZSih3uCTs0hpk1AEg) | [Rian KF](https://open.spotify.com/artist/12Dx6feH6TLh2qjXnxT5mu), [Holly Lee Jones](https://open.spotify.com/artist/1lhYuMgpOjrG7D1iBWD9Co) | [Simulation 1](https://open.spotify.com/album/5uVyeKGwTwVCaRBiKhJ7Rt) | 3:53 | 2025-12-22 | 2026-01-24 |
+| [Sin querer](https://open.spotify.com/track/6wTHbr28E3mBHPfJAFyspN) | [Verónica Vega](https://open.spotify.com/artist/1tl3Gwogd5OYeFjd9y11jZ) | [Sin querer](https://open.spotify.com/album/1FMeRgTzpdlhuWam74EjLN) | 3:33 | 2026-07-01 |  |
 | [Sinestesia](https://open.spotify.com/track/22ZInNn8F0DLbvrSuEGVwN) | [Décum](https://open.spotify.com/artist/2nlYRGKyaJpzquLbtpCguk) | [Sinestesia](https://open.spotify.com/album/04kHKXMzCbtWplYIeJXaV8) | 3:16 | 2026-04-28 | 2026-06-05 |
 | [Sing That Note](https://open.spotify.com/track/6agxfeIlKwBzmOTkqO3j2c) | [Justyn Cairo](https://open.spotify.com/artist/6Ej4tehqEWvLRd23RkS9a6) | [Heart of Gold](https://open.spotify.com/album/2ETuq1DDCZryjQQFNJxPLz) | 2:56 | 2026-05-08 | 2026-06-05 |
 | [Sister Jump!](https://open.spotify.com/track/7LohvYSmaSusHptw1k5zjX) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [Sister Jump!](https://open.spotify.com/album/0INugDX8i5DKES8W55FIEh) | 5:43 | 2023-04-27 | 2025-11-29 |
@@ -962,6 +964,7 @@
 | [Spark](https://open.spotify.com/track/7yxn2yxtoiq7nZtUQFUzZH) | [Mister Chorister](https://open.spotify.com/artist/2gj1byWvrljHj1FWzSWXUd) | [Spark](https://open.spotify.com/album/5tjGxk8v41ltW54UzXn46w) | 3:28 | 2026-06-16 |  |
 | [Sparta](https://open.spotify.com/track/6xKUzyS3s6Uj7sAoelAVvC) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Lessons](https://open.spotify.com/album/73UchtLkbvSqu1a4M4y9ca) | 4:19 | 2026-02-06 | 2026-03-07 |
 | [Sparta \- Official Instrumental](https://open.spotify.com/track/6ZBL2OoxtzOWM8L9vR2Ism) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [Sparta \(Official Instrumental\)](https://open.spotify.com/album/7CYY4h1d41eF3rzaJdaLlB) | 4:19 | 2026-02-02 | 2026-02-28 |
+| [Spartan Soldiers](https://open.spotify.com/track/29gzlRo5BoYhsgyokkwPzO) | [Motom Beats](https://open.spotify.com/artist/40x1m6mMmfEvUO4k1RwkaS), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Spartan Soldiers](https://open.spotify.com/album/6ZyNsWM2lBZEXY4Hv4FaSw) | 2:09 | 2026-07-01 |  |
 | [Spiraling](https://open.spotify.com/track/4mK98zx2RJBIO5KVB4F42l) | [N.A.S.P.](https://open.spotify.com/artist/1ySg5talFpiWbJvUqouoIl) | [Spiraling](https://open.spotify.com/album/3NGzGeSEAGmsTIdOD4cygO) | 4:24 | 2026-03-02 | 2026-04-12 |
 | [Spit Me Out](https://open.spotify.com/track/7ivSMyiVYhgF3RdJptRXTu) | [Mia Knox](https://open.spotify.com/artist/0A1S6lxHxtebgeix4RUTix) | [Spit Me Out](https://open.spotify.com/album/6uIa2WNAzkXo44Md75LRmv) | 3:54 | 2025-10-17 | 2025-12-21 |
 | [Stance](https://open.spotify.com/track/3xGu3cFDogiN8ZEDOIT95D) | [Eclazz](https://open.spotify.com/artist/1mfX5sgrGA9X3UjCM5aUAy) | [Stance](https://open.spotify.com/album/1ow1SryQwVmr5RFcjwmjIs) | 2:44 | 2026-01-20 | 2026-02-20 |
@@ -1167,6 +1170,7 @@
 | [Wait No More](https://open.spotify.com/track/61CP0xYxaPDXjMPv11Txv5) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Surrounded by Spiders](https://open.spotify.com/album/3qrkAp6ZN5rEMvvCTgDztT) | 4:04 | 2025-10-12 | 2026-01-15 |
 | [Waiting](https://open.spotify.com/track/0c5W6OR57xVOkeqAnhWron) | [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [Waiting](https://open.spotify.com/album/3q2XkMDxIjDvbGQsUfI09t) | 3:20 | 2025-10-17 | 2026-04-12 |
 | [Walking with No Destination](https://open.spotify.com/track/5vY5K9qcv51njLiRQzV3Ed) | [Gamina Chad](https://open.spotify.com/artist/45ynquiP8pzBnzr1kxB3tm) | [Walking with No Destination](https://open.spotify.com/album/7qyYDOpHdjovobeBzwmAut) | 3:05 | 2026-06-02 |  |
+| [Wanderer](https://open.spotify.com/track/1sYRAVrtrjfcIcjyLfK9FM) | [Kaspar Bakken](https://open.spotify.com/artist/73aB9IUwHBom7J4GdONOky), [Bjun](https://open.spotify.com/artist/0iR66PzQEU9JFsnGycCwze) | [Wanderer](https://open.spotify.com/album/6aUjkpLUrywakIVkMtVnDI) | 2:48 | 2026-07-01 |  |
 | [Want Me Back](https://open.spotify.com/track/7ExJgUlNREs38GpnHdZ1TW) | [Austin Carr](https://open.spotify.com/artist/7wbw9KslI7YzqujQRkxDrB) | [Want Me Back](https://open.spotify.com/album/3sRGNn9dyvxkryQuX0qiCx) | 3:39 | 2026-04-25 | 2026-06-05 |
 | [Wasted](https://open.spotify.com/track/0TiJ38Y29vd3RiOFzjUM44) | [Church of Elder](https://open.spotify.com/artist/6k5TPRqgd3Hvi0to5s05gQ) | [Wasted](https://open.spotify.com/album/1DD2XZIV8cYiMhF1rMbyC9) | 3:52 | 2026-04-06 | 2026-05-03 |
 | [Wasted](https://open.spotify.com/track/7bMFnhweGI4LXrdeqgPQHX) | [Ludwig Jonsson](https://open.spotify.com/artist/6pWJeM6v6cLKjblDNWYNdx) | [Wasted](https://open.spotify.com/album/5lMCclH2lhpNpLABYIsNnK) | 3:42 | 2026-05-26 |  |

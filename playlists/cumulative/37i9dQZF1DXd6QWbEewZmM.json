@@ -186,7 +186,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-07",
+      "date_removed": null,
       "duration_ms": 192992,
       "name": "772 Love - Remix",
       "url": "https://open.spotify.com/track/2LfiTqcOuH5o4TfIOCuGX3"
@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "NOCTURNO",
+        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275374,
+      "name": "CORTA VENAS",
+      "url": "https://open.spotify.com/track/46aQyr7ndPi9DMcsjztOzA"
+    },
+    {
+      "album": {
         "name": "ESQUINAS",
         "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
       },
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 179625,
       "name": "Desbloqu\u00e9ame Del Wha",
       "url": "https://open.spotify.com/track/4GeUQzRRSgEqUyTXXcFkd7"
@@ -1720,7 +1738,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 231818,
       "name": "Dior",
       "url": "https://open.spotify.com/track/7J1lMdQTGubGItxCkdyyMi"
@@ -3438,7 +3456,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 175632,
       "name": "Ln Que Pedo:/?",
       "url": "https://open.spotify.com/track/3BOSQf5gjnAjgEKBxGXmgs"
@@ -4176,7 +4194,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 398466,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/4cNOvC1mAjWEABZTxx2psa"
@@ -4436,6 +4454,28 @@
       "duration_ms": 199737,
       "name": "MODO DEPRE :(",
       "url": "https://open.spotify.com/track/2U27fF38cgWIPsfoMDuYQD"
+    },
+    {
+      "album": {
+        "name": "MORIR TRES VECES",
+        "url": "https://open.spotify.com/album/7rnUTrdzHlfTmINEXGGPqv"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208843,
+      "name": "MORIR TRES VECES",
+      "url": "https://open.spotify.com/track/0KBNNZNzYao3kVE1qkqKNt"
     },
     {
       "album": {
@@ -5162,6 +5202,24 @@
       "duration_ms": 195369,
       "name": "Olvidarte",
       "url": "https://open.spotify.com/track/5rsKkDbJrV0gN4HDuUIdZs"
+    },
+    {
+      "album": {
+        "name": "Olvidarte No Sera Sencillo",
+        "url": "https://open.spotify.com/album/56Wwx7vE4gWj62iQiqtkJP"
+      },
+      "artists": [
+        {
+          "name": "Angel Trino",
+          "url": "https://open.spotify.com/artist/6G9e3oARcq4ThyH91ye38W"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188303,
+      "name": "Olvidarte No Sera Sencillo",
+      "url": "https://open.spotify.com/track/33mS2YsMsq5XHMdahFzeCF"
     },
     {
       "album": {
@@ -7548,7 +7606,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 202506,
       "name": "Tonto Perdedor",
       "url": "https://open.spotify.com/track/67WSWDDuEEmBIXTchwACs1"
@@ -8420,7 +8478,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 178638,
       "name": "Y Que Voy Hacer",
       "url": "https://open.spotify.com/track/5VuCkeLxzPmjMfdRsHhox8"

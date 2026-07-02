@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Thando Zide, Davido, TEEKS, kwn, Mthunzi and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,181 likes - 97 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,237 likes - 97 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "No words, just chops. Cover: Matt Combs",
-  "num_followers": 62615,
+  "num_followers": 62623,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,18 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Big Daddy Rabbit",
-        "url": "https://open.spotify.com/album/0WLM0wv3Im5ICb0tEa4ezB"
+        "name": "Black Banjo",
+        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
       },
       "artists": [
         {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        },
-        {
-          "name": "Nathan Livers",
-          "url": "https://open.spotify.com/artist/0iUQ223R2ZueKqseWEWo3e"
+          "name": "Tray Wellington",
+          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
         }
       ],
-      "duration_ms": 264840,
-      "name": "Big Daddy Rabbit",
-      "url": "https://open.spotify.com/track/0rIpjFDkOQTK1gVILP01NO"
+      "duration_ms": 198478,
+      "name": "Crooked Mind",
+      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -391,18 +387,22 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Black Banjo",
-        "url": "https://open.spotify.com/album/60WtwjOc8WzjAIixV2r5X2"
+        "name": "Big Daddy Rabbit",
+        "url": "https://open.spotify.com/album/0WLM0wv3Im5ICb0tEa4ezB"
       },
       "artists": [
         {
-          "name": "Tray Wellington",
-          "url": "https://open.spotify.com/artist/5aqFCmHlaXKczjY9MT2QUh"
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Nathan Livers",
+          "url": "https://open.spotify.com/artist/0iUQ223R2ZueKqseWEWo3e"
         }
       ],
-      "duration_ms": 198478,
-      "name": "Crooked Mind",
-      "url": "https://open.spotify.com/track/3k70wq0lztvq5kxpkAAs0g"
+      "duration_ms": 264840,
+      "name": "Big Daddy Rabbit",
+      "url": "https://open.spotify.com/track/0rIpjFDkOQTK1gVILP01NO"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -439,38 +439,6 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Lovin' Of The Game",
-        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
-      },
-      "artists": [
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Thousand Dollar Holler",
-      "url": "https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
-        "name": "Lone Soldier",
-        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
-      },
-      "artists": [
-        {
-          "name": "David Grier",
-          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Smith Chapel",
-      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
         "name": "Moon in Motion 1",
         "url": "https://open.spotify.com/album/6xUMxx04zJslYt50p1Ugkp"
       },
@@ -503,6 +471,38 @@
       "duration_ms": 182000,
       "name": "Knee Deep in Bluegrass",
       "url": "https://open.spotify.com/track/1OUD7ceuWPD2DHFXly0voV"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
+        "name": "Lovin' Of The Game",
+        "url": "https://open.spotify.com/album/6RD7EK5EnsvDTxMbZbFrvg"
+      },
+      "artists": [
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Thousand Dollar Holler",
+      "url": "https://open.spotify.com/track/2OICtTWaGqmdmoi3BetlxB"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
+        "name": "Lone Soldier",
+        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
+      },
+      "artists": [
+        {
+          "name": "David Grier",
+          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Smith Chapel",
+      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
+        "name": "Fork In The Road",
+        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 288480,
+      "name": "No Resolution",
+      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
         "name": "West Dakota Rose",
         "url": "https://open.spotify.com/album/6Va8ak1h09QQzxhtk0estU"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 354847,
       "name": "West Dakota Rose",
       "url": "https://open.spotify.com/track/0FptQUU4KsvEb71zjt3JAY"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
-        "name": "Fork In The Road",
-        "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 288480,
-      "name": "No Resolution",
-      "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
+        "name": "Celebrants",
+        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 184493,
+      "name": "Going Out\u2026",
+      "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
         "name": "Grassy Cove",
         "url": "https://open.spotify.com/album/3khOrVafwHcB0uH03Dx8C5"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 218500,
       "name": "Grassy Cove",
       "url": "https://open.spotify.com/track/72n4HTYiKIvYKKDh9MgRIh"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
-        "name": "Celebrants",
-        "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 184493,
-      "name": "Going Out\u2026",
-      "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
         "name": "Get Lost",
         "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
       },
@@ -1147,18 +1163,18 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+        "name": "If Not Now, Who?",
+        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
       },
       "artists": [
         {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+          "name": "Joe K. Walsh",
+          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
         }
       ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
+      "duration_ms": 295280,
+      "name": "Palmer",
+      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "If Not Now, Who?",
-        "url": "https://open.spotify.com/album/1DanalhKGFFpIyVfVrqOlO"
+        "name": "Bozeman (Clawhammer Version)",
+        "url": "https://open.spotify.com/album/4qBsC1P0Wsc3nTKWDj3gf2"
       },
       "artists": [
         {
-          "name": "Joe K. Walsh",
-          "url": "https://open.spotify.com/artist/5uV7YixKMZnevCQZg8qSBB"
+          "name": "Nick Dumas",
+          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
         }
       ],
-      "duration_ms": 295280,
-      "name": "Palmer",
-      "url": "https://open.spotify.com/track/7dOdQ3a96oTXcZyyTeI17e"
+      "duration_ms": 256293,
+      "name": "Bozeman - Clawhammer Version",
+      "url": "https://open.spotify.com/track/2OKPFjbjURGrx8fSzKk8uM"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -1251,22 +1267,6 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Bozeman (Clawhammer Version)",
-        "url": "https://open.spotify.com/album/4qBsC1P0Wsc3nTKWDj3gf2"
-      },
-      "artists": [
-        {
-          "name": "Nick Dumas",
-          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
-        }
-      ],
-      "duration_ms": 256293,
-      "name": "Bozeman - Clawhammer Version",
-      "url": "https://open.spotify.com/track/2OKPFjbjURGrx8fSzKk8uM"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
         "name": "The Song of the Banjo",
         "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
       },
@@ -1279,78 +1279,6 @@
       "duration_ms": 257640,
       "name": "Airish",
       "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
-        "name": "North Node",
-        "url": "https://open.spotify.com/album/5TZgPRIK5ouWBJQhntTmTZ"
-      },
-      "artists": [
-        {
-          "name": "Brittany Haas",
-          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
-        },
-        {
-          "name": "Natalie Haas",
-          "url": "https://open.spotify.com/artist/41sqaarfB2kCWssI6jM10V"
-        },
-        {
-          "name": "Sam Bush",
-          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
-        }
-      ],
-      "duration_ms": 231626,
-      "name": "Groundhog Hotel",
-      "url": "https://open.spotify.com/track/3fe7KhXDQIdfgFJPI7XFoE"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
-        "name": "Elizabeth Brown / Sail Away",
-        "url": "https://open.spotify.com/album/5thncZARxiTdu2we7s45r6"
-      },
-      "artists": [
-        {
-          "name": "Tyler Ramsey",
-          "url": "https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK"
-        },
-        {
-          "name": "Carl Broemel",
-          "url": "https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Elizabeth Brown",
-      "url": "https://open.spotify.com/track/1PG4aEBIfXsa5LPxzj59MA"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
-        "name": "Ferris Wheel",
-        "url": "https://open.spotify.com/album/3SqYsi0HttqFNoIai2LomV"
-      },
-      "artists": [
-        {
-          "name": "George Jackson",
-          "url": "https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7"
-        },
-        {
-          "name": "Eli Broxham",
-          "url": "https://open.spotify.com/artist/1TgFBajZtGKOwhEONz9n8G"
-        },
-        {
-          "name": "Frank Evans",
-          "url": "https://open.spotify.com/artist/1sOuG3dLwdgmh53W0NPaGO"
-        },
-        {
-          "name": "John Mailander",
-          "url": "https://open.spotify.com/artist/4MYqkPU4l4Gpohaub6mGFr"
-        }
-      ],
-      "duration_ms": 224986,
-      "name": "Ferris Wheel",
-      "url": "https://open.spotify.com/track/1AjZqb7Tq31ImmqQBvCJot"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -1383,6 +1311,78 @@
       "duration_ms": 222000,
       "name": "Blue Collared Dog and His Green Eyed Friend",
       "url": "https://open.spotify.com/track/5FoINNLonQyhxkRBKj4zeO"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
+        "name": "Ferris Wheel",
+        "url": "https://open.spotify.com/album/3SqYsi0HttqFNoIai2LomV"
+      },
+      "artists": [
+        {
+          "name": "George Jackson",
+          "url": "https://open.spotify.com/artist/22k9oyPcLzjnKokhSHoFV7"
+        },
+        {
+          "name": "Eli Broxham",
+          "url": "https://open.spotify.com/artist/1TgFBajZtGKOwhEONz9n8G"
+        },
+        {
+          "name": "Frank Evans",
+          "url": "https://open.spotify.com/artist/1sOuG3dLwdgmh53W0NPaGO"
+        },
+        {
+          "name": "John Mailander",
+          "url": "https://open.spotify.com/artist/4MYqkPU4l4Gpohaub6mGFr"
+        }
+      ],
+      "duration_ms": 224986,
+      "name": "Ferris Wheel",
+      "url": "https://open.spotify.com/track/1AjZqb7Tq31ImmqQBvCJot"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
+        "name": "Elizabeth Brown / Sail Away",
+        "url": "https://open.spotify.com/album/5thncZARxiTdu2we7s45r6"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ramsey",
+          "url": "https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK"
+        },
+        {
+          "name": "Carl Broemel",
+          "url": "https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Elizabeth Brown",
+      "url": "https://open.spotify.com/track/1PG4aEBIfXsa5LPxzj59MA"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
+        "name": "North Node",
+        "url": "https://open.spotify.com/album/5TZgPRIK5ouWBJQhntTmTZ"
+      },
+      "artists": [
+        {
+          "name": "Brittany Haas",
+          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
+        },
+        {
+          "name": "Natalie Haas",
+          "url": "https://open.spotify.com/artist/41sqaarfB2kCWssI6jM10V"
+        },
+        {
+          "name": "Sam Bush",
+          "url": "https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm"
+        }
+      ],
+      "duration_ms": 231626,
+      "name": "Groundhog Hotel",
+      "url": "https://open.spotify.com/track/3fe7KhXDQIdfgFJPI7XFoE"
     },
     {
       "added_at": "2026-06-26 04:01:29",

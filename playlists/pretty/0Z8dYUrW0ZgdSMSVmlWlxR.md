@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 48,220 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 48,214 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -204,7 +204,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 194 | [TOKYO DRIFT](https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy) | [PRXSXNT FXTURE](https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw) | [TOKYO DRIFT](https://open.spotify.com/album/2bs5hKmaQWtUrFXjARZggi) | 2:04 |
 | 195 | [KERAUNOS KILLER \- Speed Up](https://open.spotify.com/track/0FKlF7qK63AgZ5NvWKcZPX) | [4WHEEL](https://open.spotify.com/artist/40Teyg4qSzR04DzHpPP0o6) | [KERAUNOS KILLER \(Speed Up\)](https://open.spotify.com/album/1683F2GzUHudtD1wVSQTaU) | 1:20 |
 | 196 | [Legacy](https://open.spotify.com/track/3oE6fHMIRbSTytRZxoQuIn) | [Tevvez](https://open.spotify.com/artist/3ZaPFQ05J5qSM5I3Smbp44) | [Phantom](https://open.spotify.com/album/3PJhr2ejWvavjQGlBJvEkn) | 5:01 |
-| 197 | [Secret Of Life](https://open.spotify.com/track/2xWkq8lw57YIPHb55jpPZs) | [Araysen](https://open.spotify.com/artist/35C5llip6ED8ovG6EutX6d), [Chavetas](https://open.spotify.com/artist/4DA6LpZ4yL3Z9TR8wNi5qj), [SCANTRAXX](https://open.spotify.com/artist/52lKMhQlx5f7tM11qGkhKs) | [Secret Of Life](https://open.spotify.com/album/0csrYOkCDK4q2nWPrVtHlC) | 3:04 |
+| 197 | [Secret Of Life](https://open.spotify.com/track/2xWkq8lw57YIPHb55jpPZs) | [Araysen](https://open.spotify.com/artist/35C5llip6ED8ovG6EutX6d), [Chavetas](https://open.spotify.com/artist/4DA6LpZ4yL3Z9TR8wNi5qj), [Scantraxx](https://open.spotify.com/artist/52lKMhQlx5f7tM11qGkhKs) | [Secret Of Life](https://open.spotify.com/album/0csrYOkCDK4q2nWPrVtHlC) | 3:04 |
 | 198 | [Lose My Tears](https://open.spotify.com/track/6jq1TyM93bWadZSxotZVY4) | [rider](https://open.spotify.com/artist/5yupl8lnBJSsPJ9Jmujexl) | [Never Forget Vacation 3](https://open.spotify.com/album/01FS615J2Gd5XJUXfyxhvO) | 4:13 |
 | 199 | [boss fight](https://open.spotify.com/track/4gbX2wcq0khJfPs31icqco) | [RbowChickenn](https://open.spotify.com/artist/1HBTjjhnhRytcJDybZ8NyL) | [boss fight](https://open.spotify.com/album/5ibwn54n5IqWeAQUNPBS1Q) | 1:52 |
 | 200 | [RESTART](https://open.spotify.com/track/19scI0PjnFPPBVxX97sV0j) | [SOUTHINFERNO](https://open.spotify.com/artist/0ojJP10gc2I5f2xxR2JjKE) | [ULTIMATE DESTRUCTION](https://open.spotify.com/album/645Pb54zQjhguqIeyazBVp) | 1:55 |

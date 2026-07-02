@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Pop](https://open.spotify.com/playlist/37i9dQZF1DX3u9TSHqpdJC)
 
-> The best pop songs from new, independent artists as chosen by our editors\.  Cover: Fia James\. Artwork by Paola Saliby
+> The best pop songs from new, independent artists as chosen by our editors\.   Cover: Ella Maddux\. Artwork by Paola Saliby
 
-4,529 songs - 9 day 14 hr 51 min
+4,533 songs - 9 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -859,6 +859,7 @@
 | [Cowboy](https://open.spotify.com/track/2Ic32TM1WzzVXeCG9E1eom) | [Juno James](https://open.spotify.com/artist/4yEcXMPORawtVhemAQjxrE) | [Cowboy](https://open.spotify.com/album/6Bl2fFG7BGp9kwscOJ98BA) | 3:23 | 2025-09-24 | 2025-12-04 |
 | [Cowboy's Gonna Ride](https://open.spotify.com/track/3x0xmBK4uhdG7M0ZeQZBiL) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Cowboy's Gonna Ride](https://open.spotify.com/album/09YWH4jRJKB8uGqao2tTJM) | 3:28 | 2025-02-19 | 2025-03-27 |
 | [cowboys don't have friends](https://open.spotify.com/track/0Zt2XPMZ6ZS95OcPCT7sns) | [Leith](https://open.spotify.com/artist/6NloIpzx0PEcGY2NJVVjc1) | [cowboys don't have friends](https://open.spotify.com/album/7pKkHdMVLyYC5bknWNzOcb) | 2:37 | 2021-11-11 | 2021-12-01 |
+| [CR33PS](https://open.spotify.com/track/3CUzLJWBak2SSut9QzGnmT) | [herCULES](https://open.spotify.com/artist/4iyOHW8Bcc3JakQFGw8H0S) | [CR33PS](https://open.spotify.com/album/7bl3I861kUyMzBph6WMkue) | 2:35 | 2026-07-01 |  |
 | [Crack a Smile](https://open.spotify.com/track/1bDSjtBFPkLVe15oDGpm7J) | [Saticöy](https://open.spotify.com/artist/0bPmDeoQM8FjVu86QqVLkO) | [Crack a Smile](https://open.spotify.com/album/2H8r63KLNIJTjskayUUK9b) | 3:00 | 2022-04-27 | 2022-05-26 |
 | [Crash](https://open.spotify.com/track/0djs95BuqmrmhYiPiMyBLP) | [Badley](https://open.spotify.com/artist/2mnmAUiXWb5Xck3XvpU99C) | [Crash](https://open.spotify.com/album/0pZ8nqEGFIHcCC1i9sE2lM) | 3:19 | 2022-03-16 | 2022-04-28 |
 | [Crash and Learn](https://open.spotify.com/track/4EhQhhheIuLCnUipm0Usd9) | [Lucy Cloud](https://open.spotify.com/artist/4jOzi32zeVtYoVCShUkfC4) | [Crash and Learn](https://open.spotify.com/album/5JxQebEHDikz8W5EEJGbIZ) | 3:28 | 2021-04-01 | 2021-05-13 |
@@ -1025,7 +1026,7 @@
 | [Directions](https://open.spotify.com/track/2Np85vuU5afD0yvi7cfl4r) | [Emma Rosen](https://open.spotify.com/artist/540pn6wxgwVQHPuIgTdyzC) | [Directions](https://open.spotify.com/album/49xouspXNkB6RuO5B7LV81) | 3:27 | 2024-04-03 | 2024-08-29 |
 | [Dirt](https://open.spotify.com/track/58qj1rF4vvNsPjvYTN5g8Y) | [Tender Misfit](https://open.spotify.com/artist/1fkaNNQRGflvAClVJM0b6I) | [Dirt](https://open.spotify.com/album/5FeVOvxRFQYkK2B64z9srE) | 2:56 | 2024-06-27 | 2024-08-01 |
 | [dirt](https://open.spotify.com/track/5BB3UvbXDoR3nKC7ujTkcc) | [The Golf Club](https://open.spotify.com/artist/7glngbl6iMW8Iszr0pHpKT) | [dirt](https://open.spotify.com/album/66MliMDybKTvjeRpgt9UxW) | 2:06 | 2021-07-29 | 2021-09-16 |
-| [Dirty](https://open.spotify.com/track/6GsKMETdRKLz5bXJGUC613) | [PENNY](https://open.spotify.com/artist/3nkkY2mnJp6qI8xr0Z1Yxq) | [Dirty](https://open.spotify.com/album/6aYLLOe1FGm9EYFhCSMunz) | 3:00 | 2026-05-06 |  |
+| [Dirty](https://open.spotify.com/track/6GsKMETdRKLz5bXJGUC613) | [PENNY](https://open.spotify.com/artist/3nkkY2mnJp6qI8xr0Z1Yxq) | [Dirty](https://open.spotify.com/album/6aYLLOe1FGm9EYFhCSMunz) | 3:00 | 2026-05-06 | 2026-07-02 |
 | [Disconnect](https://open.spotify.com/track/3zXiDgltU2HnADWAperXcW) | [ODD LUKE](https://open.spotify.com/artist/5kuE84uZ6E6Aka3OH968VM) | [Disconnect](https://open.spotify.com/album/4juWnOvpXIoMLNVqLN1qHs) | 3:15 | 2024-07-24 | 2024-08-29 |
 | [disintegrating](https://open.spotify.com/track/2vIf7jNhpcgjHCKF6SHRku) | [gleame](https://open.spotify.com/artist/6nx1vqfMzIOHKpBeLBiSWR) | [disintegrating](https://open.spotify.com/album/0GL1tAnw9zX6RzXWawVoHf) | 2:11 | 2026-04-22 | 2026-06-25 |
 | [Disney Bitch](https://open.spotify.com/track/2jRuSsnB481aumCPQ9fJRZ) | [Killer Kennedy](https://open.spotify.com/artist/4Qgwf1NflcpEcVHCuCw9Gd) | [Disney Bitch](https://open.spotify.com/album/47vIhafcuqfH9TNgTuBTju) | 1:54 | 2022-04-13 | 2022-05-12 |
@@ -1433,7 +1434,7 @@
 | [freak](https://open.spotify.com/track/5vYvIFkTv8LOANg7T9L1ho) | [Cassie Marin](https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH) | [freak](https://open.spotify.com/album/6YHcunLamMfjlnSnaUxPmr) | 2:32 | 2023-08-16 | 2023-10-12 |
 | [Freak Show](https://open.spotify.com/track/7f1HoEiEV3Qju3w0LONgPX) | [PI3RCE](https://open.spotify.com/artist/58WGj4UmdTsAJDVi2t4W2V), [Talia Stewart](https://open.spotify.com/artist/7iymtCFEZNcH49Q53HJMFk) | [Freak Show](https://open.spotify.com/album/2F5WybllXDBJC3DKEHbSUc) | 2:58 | 2022-05-04 | 2022-05-26 |
 | [Freckleface](https://open.spotify.com/track/01vJXrCDBBRfQcZmK76VsM) | [Izzy Withers](https://open.spotify.com/artist/2INrRE4j3gaPvjeOEo1a8r) | [Freckleface](https://open.spotify.com/album/4zbEu7VQjgoCn67gWhLZjO) | 3:02 | 2025-09-24 | 2025-12-04 |
-| [free](https://open.spotify.com/track/2JDXFU1vW96R9bpHYGLiuD) | [Ana Kahan](https://open.spotify.com/artist/6enycJ8VKJvxQ2lyAo5xz3) | [free](https://open.spotify.com/album/3Q7pXnkSY80FN5I1MCNInR) | 3:01 | 2026-05-20 |  |
+| [free](https://open.spotify.com/track/2JDXFU1vW96R9bpHYGLiuD) | [Ana Kahan](https://open.spotify.com/artist/6enycJ8VKJvxQ2lyAo5xz3) | [free](https://open.spotify.com/album/3Q7pXnkSY80FN5I1MCNInR) | 3:01 | 2026-05-20 | 2026-07-02 |
 | [Free](https://open.spotify.com/track/4Hq5iUZtrN9X4oNXdbW1r7) | [NATIIVE](https://open.spotify.com/artist/7iHTJPF1k1e9SF1BwqbAe0), [FINLAY](https://open.spotify.com/artist/2pAjU5iA2LSqy1junlcA6P) | [Free](https://open.spotify.com/album/3cdUDA4EFVbD1mYSTDUFO5) | 2:38 | 2021-03-06 | 2021-04-01 |
 | [Free to Live in Colour](https://open.spotify.com/track/4LqnVwGQlJQ7HvW8tEA9vp) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Free to Live in Colour](https://open.spotify.com/album/4luQOplfg3mJ2MnNy2rT5X) | 3:14 | 2020-11-05 | 2020-11-18 |
 | [Freedom Reign](https://open.spotify.com/track/5wMA2vPbQSnqMKEoojlxEN) | [Cat Rea](https://open.spotify.com/artist/2p5dxSCkyWzMfgCc77ulwi), [Joshua Luke Smith](https://open.spotify.com/artist/7mmASPkwqvMm4OKlncqud3) | [Redemption](https://open.spotify.com/album/3l6HhhETcTgqrGpODp55pZ) | 3:05 | 2021-03-06 | 2021-04-01 |
@@ -1626,7 +1627,7 @@
 | [habits](https://open.spotify.com/track/0Xt68NcFaT3sBuLSU0dp4b) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [habits](https://open.spotify.com/album/7fa83XbYeKOoWtVRtcKYEV) | 3:09 | 2020-12-03 | 2020-12-08 |
 | [Habits](https://open.spotify.com/track/5rz4fPVz6NrIaG21zfKkrg) | [BLENDA](https://open.spotify.com/artist/0mdmebp0N7udUXXqtoZU5D) | [Habits](https://open.spotify.com/album/7n3LmLgfg5ewLr43FlQ57c) | 4:14 | 2023-04-12 | 2023-06-08 |
 | [habits](https://open.spotify.com/track/1U2FdQyBhK0HLAZ1ieElnC) | [MIXIE](https://open.spotify.com/artist/3Q5XrGym2w1DZa2J1aQBij) | [habits](https://open.spotify.com/album/7t4s9OnHx2ycFHN72xIfhP) | 2:39 | 2023-02-08 | 2023-03-23 |
-| [Half As Cool](https://open.spotify.com/track/7qX6xSLgM2MiuxZsBZ7q3M) | [SUUS](https://open.spotify.com/artist/3WjZbDDJa9OtjOVFDhUJJu) | [Half As Cool](https://open.spotify.com/album/1fxacv1634svqjhx940BGv) | 2:43 | 2026-05-06 |  |
+| [Half As Cool](https://open.spotify.com/track/7qX6xSLgM2MiuxZsBZ7q3M) | [SUUS](https://open.spotify.com/artist/3WjZbDDJa9OtjOVFDhUJJu) | [Half As Cool](https://open.spotify.com/album/1fxacv1634svqjhx940BGv) | 2:43 | 2026-05-06 | 2026-07-02 |
 | [Half of forever](https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Half of forever](https://open.spotify.com/album/4aGApWZt5TP9pINDg8Gjlc) | 2:33 | 2024-01-25 | 2025-01-09 |
 | [Halfway There](https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Halfway There](https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI) | 3:14 | 2021-11-19 | 2021-12-01 |
 | [halfwaythru](https://open.spotify.com/track/6EpqDPPT3GAdHmeFcFlRGw) | [Chelsea Jordan](https://open.spotify.com/artist/6AO3in7TlN2ab2o5Cq5lrs) | [halfwaythru](https://open.spotify.com/album/26qByOEvSOrNK0MNUw68MS) | 3:13 | 2025-08-27 | 2026-01-15 |
@@ -1678,7 +1679,7 @@
 | [Headache](https://open.spotify.com/track/3sEV7i0A9ilaZqB8le38Wx) | [Adeline Hill](https://open.spotify.com/artist/1PbQULXA8xQ6G8VuGPDaY8), [RUDEY](https://open.spotify.com/artist/1UFnB5tTDPSX3f4O2unhFa) | [Headache](https://open.spotify.com/album/0L7JOqIY88nAtFPLhiSc9P) | 2:17 | 2024-01-10 | 2024-01-26 |
 | [Headfirst](https://open.spotify.com/track/1dUHl01OvRdc68NoImtH1X) | [The Lost Youth](https://open.spotify.com/artist/1oZSwmPoTlEfiI4p25SdVl) | [Headfirst](https://open.spotify.com/album/341aDKS0pTYe2zupAF45We) | 2:55 | 2022-06-29 | 2022-09-01 |
 | [Headphones](https://open.spotify.com/track/5skjJ6HUxErbn3gdnWedDp) | [EZ Company](https://open.spotify.com/artist/4aA3RJBsDKuZ0YX14m6qlk), [Musique Chienne](https://open.spotify.com/artist/2RxSYHCveLOGuSnML1qULr) | [Headphones](https://open.spotify.com/album/1xEuwk2klF44B8MLvDfCjA) | 2:46 | 2025-01-16 | 2025-03-20 |
-| [Headrush](https://open.spotify.com/track/01Ldw0vMTV9hLce0kw9qxI) | [Amalia Davinder](https://open.spotify.com/artist/1UZdRl7AwDP3R7HLZhjam8) | [Good Pretender](https://open.spotify.com/album/6qnzobG0laXkjqQagipjZ1) | 2:33 | 2026-05-06 |  |
+| [Headrush](https://open.spotify.com/track/01Ldw0vMTV9hLce0kw9qxI) | [Amalia Davinder](https://open.spotify.com/artist/1UZdRl7AwDP3R7HLZhjam8) | [Good Pretender](https://open.spotify.com/album/6qnzobG0laXkjqQagipjZ1) | 2:33 | 2026-05-06 | 2026-07-02 |
 | [Healing Out of Spite](https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Healing Out of Spite](https://open.spotify.com/album/6YkVcYR148DaAJbPOQCqVX) | 3:48 | 2024-04-17 | 2025-01-23 |
 | [heard it on the internet](https://open.spotify.com/track/03VkFy54wsHrfxjENSN8wL) | [ÊMIA](https://open.spotify.com/artist/2Q1WubieQ4mTNNf4YOlFGh) | [VIDEO CALL: AM](https://open.spotify.com/album/14S0t4OgA6nYfy0ZR56aO1) | 2:39 | 2022-10-05 | 2022-12-01 |
 | [heart in 2](https://open.spotify.com/track/6e74BsAroW4TQLwWWx2bYZ) | [caro♡](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [heart in 2](https://open.spotify.com/album/2PzmIs4O5tIclgHImBZIyr) | 4:10 | 2021-04-29 | 2021-05-27 |
@@ -2257,6 +2258,7 @@
 | [Last Time](https://open.spotify.com/track/3AyaFXej7BWZikIM22qEpi) | [Leah Cleaver](https://open.spotify.com/artist/4CNUQ0zSlVBILcethc5BVM) | [Last Time](https://open.spotify.com/album/6gyyB0lK7tYkRvRIfA99dr) | 3:15 | 2025-07-16 | 2025-09-11 |
 | [last time](https://open.spotify.com/track/2QNUBOOVbQYP696iap7u9u) | [Little Luna](https://open.spotify.com/artist/5p6wO94xYpLb7bhXNQz4HU) | [last time](https://open.spotify.com/album/2b1FssZxjrhk0ls31zSzrA) | 3:34 | 2021-07-22 | 2021-09-10 |
 | [Last Train](https://open.spotify.com/track/6R6uFdu6taVWCNs8TBBWRW) | [Andras](https://open.spotify.com/artist/4P3Jhmy8bjgQBPtO8Hjx7Z) | [Last Train](https://open.spotify.com/album/07QLFdL0UO46q9iuBEHdw3) | 3:45 | 2022-01-12 | 2022-02-10 |
+| [Last Train Home](https://open.spotify.com/track/48vL9BnLGjVR67iMyrj9DZ) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [Last Train Home](https://open.spotify.com/album/4BYuClhmYidSVfLtA7cXZs) | 3:02 | 2026-07-01 |  |
 | [Last Week](https://open.spotify.com/track/0eIqoSvfTqnQgr241KxqYr) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Last Week](https://open.spotify.com/album/6C0A6N2RxO6UE7bG7FwFO6) | 3:37 | 2022-02-09 | 2022-03-24 |
 | [Last Will](https://open.spotify.com/track/7GWI5FwLo19n26BEDDllbO) | [FAITH](https://open.spotify.com/artist/4PWAVQW9TUwRLwe2tQlCu6) | [Last Will](https://open.spotify.com/album/6kjHDWpOstfdEjBaJY1iMQ) | 4:38 | 2020-11-18 | 2020-12-08 |
 | [Late Bloomer](https://open.spotify.com/track/52aZ5tnhNOsYeQQskmDTqo) | [Zeke Finn](https://open.spotify.com/artist/6NN2RYVrasbgm0qtgGSWXg) | [Late Bloomer](https://open.spotify.com/album/03VhLwzCFAiNhnyWGahDHh) | 2:53 | 2022-01-26 | 2022-03-24 |
@@ -2482,6 +2484,7 @@
 | [Lover](https://open.spotify.com/track/0000shTtSgGiyLrSoVI7In) | [Adam Wilson](https://open.spotify.com/artist/6nwKN2G61TtsdUspzhpfRd) | [Lover](https://open.spotify.com/album/2aRPv43aborROopeOwQgMd) | 3:20 | 2021-04-29 | 2021-05-20 |
 | [lovers only singalong](https://open.spotify.com/track/59YDPNC3aWgN4shZQ07R4n) | [Astrus\*](https://open.spotify.com/artist/1CyAtnOmpHpo7OcTqkLMnR) | [lovers only singalong](https://open.spotify.com/album/2DzAPIprJTwtxRIYefQsU0) | 2:52 | 2022-02-16 | 2022-04-07 |
 | [Lovesick](https://open.spotify.com/track/4B14OznKUOkvDJO3Qy7xp3) | [RVBY](https://open.spotify.com/artist/0kqz7XXvCnxDLku3AfGnc2) | [Lovesick](https://open.spotify.com/album/3sRcrLUY0m2Xax8RstUnlU) | 3:25 | 2020-10-13\* | 2020-10-29 |
+| [Lovesick Lobotomy](https://open.spotify.com/track/75puZs3gEpjiauihNVJCgs) | [Earthgirl](https://open.spotify.com/artist/7bO0m1OyMUf3ASTrQZbfSa) | [Lovesick Lobotomy](https://open.spotify.com/album/5fsNOV0dM35dvXaXdGkRAf) | 2:17 | 2026-07-01 |  |
 | [Lovesong](https://open.spotify.com/track/26AJKXlt7EyvM69AKaqIXe) | [LARO](https://open.spotify.com/artist/4YUJTIjBtm5Zhp4q9mI1JA) | [The Show Must Go On](https://open.spotify.com/album/3Du9iQ9a65slTcM3j4PDIR) | 3:12 | 2025-10-15 | 2025-12-04 |
 | [Lovin' It](https://open.spotify.com/track/1HyLd9NZmXSjlvI5tIKdGM) | [Kislaw](https://open.spotify.com/artist/3TyDnNCINpwLxJiRbT6uuh) | [Lovin' It](https://open.spotify.com/album/2yJHQHKZD85Kk2FMoYQoVO) | 3:04 | 2020-12-03 | 2020-12-08 |
 | [Lovin' You](https://open.spotify.com/track/2WeWmTlT0PfVjJFukGuPSX) | [Emily Alexander](https://open.spotify.com/artist/3MT8riFDEyIoykxJ0rQAXc), [Eric Bryan Wall](https://open.spotify.com/artist/07YLrKDrRSdV9zkXdzOacL) | [Lovin' You](https://open.spotify.com/album/2rOYbUyUEFOGQRI3iFSPzA) | 3:48 | 2022-05-18 | 2022-06-30 |
@@ -4100,6 +4103,7 @@
 | [trap door](https://open.spotify.com/track/6jd2rg6MMpZ2q7sf1E6MAD) | [TEHYA](https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw) | [trap door](https://open.spotify.com/album/52ar9wGQcVsqytxEqkUoPu) | 2:59 | 2024-11-06 | 2025-01-16 |
 | [Trap Queen](https://open.spotify.com/track/0HyfKpCM4pBFPRUMoYBEC0) | [Ava Lions](https://open.spotify.com/artist/5l0EWKpT8ngoFw8JkIRxex) | [Trap Queen](https://open.spotify.com/album/06e5pXWRWDquQ1pC3ZcNJa) | 2:24 | 2025-01-08 | 2025-03-13 |
 | [Trauma](https://open.spotify.com/track/3gwcexbPVeKJQ8cN8f3Ner) | [Sierra Carson](https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK) | [Trauma](https://open.spotify.com/album/2EpAFTGVuWWnbdw3Z1mgcS) | 3:07 | 2023-05-17 | 2023-07-20 |
+| [Traveling Man](https://open.spotify.com/track/6Nx25shrwDV2uXHmFjUW5l) | [Ella Maddux](https://open.spotify.com/artist/1WokQQvTE8AK9ekn4ILMvf) | [Betting Woman](https://open.spotify.com/album/6a9xEDfnVb3qgdVLa2vMjK) | 3:05 | 2026-07-01 |  |
 | [Treat Me Nice](https://open.spotify.com/track/2DMvwLeBpXfw5Q3ykXpPo1) | [Janna Jamison](https://open.spotify.com/artist/3MMoxh6MHAH5EZ5KhF4yVA) | [Treat Me Nice](https://open.spotify.com/album/5wXzyUGBq1hO31QKpGgBBn) | 3:36 | 2021-08-12 | 2021-08-26 |
 | [Tried](https://open.spotify.com/track/3CglPLfvSE4Np1ww5AbLTj) | [Sidney](https://open.spotify.com/artist/4nlincxLK6HxbApSH1MCR8) | [Tried](https://open.spotify.com/album/0F7iFvDOwVyqVBMluQVsHO) | 4:25 | 2022-07-20 | 2022-08-25 |
 | [Tried To Love You](https://open.spotify.com/track/5Oo6aroi9mvpowLViYY3di) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [Boys Who Broke My Heart](https://open.spotify.com/album/4lPM8mqSXgHExHipPY3dfZ) | 2:28 | 2021-04-22 | 2021-05-27 |

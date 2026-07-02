@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: Keyveatz\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,513 likes - 140 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,520 likes - 140 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

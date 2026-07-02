@@ -515,6 +515,32 @@
     },
     {
       "album": {
+        "name": "BABA MODE",
+        "url": "https://open.spotify.com/album/6l1AZ4PoY7YnK2KHhuV4WX"
+      },
+      "artists": [
+        {
+          "name": "Rowdraa",
+          "url": "https://open.spotify.com/artist/4X6iChAN4eW4s811KHo9p4"
+        },
+        {
+          "name": "Aaron Zoro",
+          "url": "https://open.spotify.com/artist/3z2zMAx64AvPE0HLXHinyC"
+        },
+        {
+          "name": "Sean Verse",
+          "url": "https://open.spotify.com/artist/4B4XQnDHaGVHLCBpG4uzdV"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168270,
+      "name": "BABA MODE",
+      "url": "https://open.spotify.com/track/6QT1yxqJUvCE96xkPJuLpw"
+    },
+    {
+      "album": {
         "name": "Badlove",
         "url": "https://open.spotify.com/album/6KbFNnagvVLfTGYRrqvS2L"
       },
@@ -664,7 +690,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 155664,
       "name": "BHAJANA",
       "url": "https://open.spotify.com/track/512B0737fHqkUu0B9ZXHat"
@@ -2373,6 +2399,28 @@
     },
     {
       "album": {
+        "name": "Gamyam",
+        "url": "https://open.spotify.com/album/1D7F3UghWe2hd6nORZPghx"
+      },
+      "artists": [
+        {
+          "name": "Eknaath",
+          "url": "https://open.spotify.com/artist/52KBH8rcaOrSUejVA7KBoU"
+        },
+        {
+          "name": "Balavardhan",
+          "url": "https://open.spotify.com/artist/0S6O8iZc26eN5fnqtXJe2A"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260662,
+      "name": "Gamyam",
+      "url": "https://open.spotify.com/track/7ky2gxFArFc5ymYwCRKpk5"
+    },
+    {
+      "album": {
         "name": "Gandhari",
         "url": "https://open.spotify.com/album/3WFeC1wIQmdwqtwlCQheQ1"
       },
@@ -3909,6 +3957,24 @@
     },
     {
       "album": {
+        "name": "Kaougili",
+        "url": "https://open.spotify.com/album/6Ahu2QbSarXOo8FZSZMeEU"
+      },
+      "artists": [
+        {
+          "name": "Abhinav Sankuri",
+          "url": "https://open.spotify.com/artist/6WbsvR4s5jRa1rDN3B3ZKH"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167717,
+      "name": "Kaougili",
+      "url": "https://open.spotify.com/track/4cexwAX0irsP50Pzwqt84t"
+    },
+    {
+      "album": {
         "name": "Karuna",
         "url": "https://open.spotify.com/album/2YtQTCZXkWX4LiaknHzga7"
       },
@@ -4754,7 +4820,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 226451,
       "name": "Manase (Side A)",
       "url": "https://open.spotify.com/track/1Jd0pZKiYchJQcJlNwxDuK"
@@ -5357,6 +5423,24 @@
     },
     {
       "album": {
+        "name": "Myna",
+        "url": "https://open.spotify.com/album/3dKxvhx8faDA1hkBJbyI5M"
+      },
+      "artists": [
+        {
+          "name": "yogesh raj kumar",
+          "url": "https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176549,
+      "name": "Myna",
+      "url": "https://open.spotify.com/track/6d9eGt2BZIvoeDfjsZ7rFE"
+    },
+    {
+      "album": {
         "name": "Myra",
         "url": "https://open.spotify.com/album/2t1lor0NlAVEmiWKZSWtpS"
       },
@@ -5640,6 +5724,24 @@
       "duration_ms": 308000,
       "name": "Naa Rakshasi",
       "url": "https://open.spotify.com/track/5Edz52y2OPRDfuukFNiZXx"
+    },
+    {
+      "album": {
+        "name": "Naa Valla Kaademo",
+        "url": "https://open.spotify.com/album/5MuwcL5oeTdcEoCYnyaTLW"
+      },
+      "artists": [
+        {
+          "name": "Yo STAR KRISH",
+          "url": "https://open.spotify.com/artist/1lO7kwj88vBhvLqktA06tn"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165227,
+      "name": "Naa Valla Kaademo",
+      "url": "https://open.spotify.com/track/4xtn0WiAAMmuzvoKN52Uwd"
     },
     {
       "album": {
@@ -6727,6 +6829,24 @@
     },
     {
       "album": {
+        "name": "Nuvve",
+        "url": "https://open.spotify.com/album/0Fpqaq6TAvdY8eHWYMlsAM"
+      },
+      "artists": [
+        {
+          "name": "Uday Kiran UK",
+          "url": "https://open.spotify.com/artist/6bMQApJJQkMAARbNqYu34i"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Nuvve",
+      "url": "https://open.spotify.com/track/7iursa6zsjh1QlsZLbzuos"
+    },
+    {
+      "album": {
         "name": "Nuvve Kada Na Pranam",
         "url": "https://open.spotify.com/album/5mBu2KuE00fe7FBxUKyXR2"
       },
@@ -7512,7 +7632,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 344117,
       "name": "Padipoya Nee Premalo",
       "url": "https://open.spotify.com/track/22bjkfQt5qLAnK4xijhVuB"
@@ -8044,7 +8164,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 201708,
       "name": "Poraga Poraga",
       "url": "https://open.spotify.com/track/2N6V75n89gCZX1b4vvlI3N"
@@ -9294,7 +9414,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 181706,
       "name": "Seenu Gaani Dawath",
       "url": "https://open.spotify.com/track/2vbfIUYmq9H9B2CVaZrtYK"
@@ -9324,7 +9444,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 181714,
       "name": "Seethakaalam (Reprise)",
       "url": "https://open.spotify.com/track/6FJPBWZBJn6yX9WxDYPb6F"

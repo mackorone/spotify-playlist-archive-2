@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from beabadoobee, Sam Smith, Phoebe Bridgers, sombr and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030,663 likes - 108 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,030,617 likes - 108 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 40 | [Hands Up](https://open.spotify.com/track/1E6l75Po0SL0C1Clobjf5v) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Hands Up](https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au) | 3:14 |
 | 41 | [ROLLIN](https://open.spotify.com/track/2JCWCZzZiLoZYoWXJLktbN) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [BIANCA \(Deluxe\)](https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN) | 2:29 |
 | 42 | [Dream On](https://open.spotify.com/track/648HgjnfsGe0e1SHa05kFS) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Dream On](https://open.spotify.com/album/3S6frb3H1t4O1dE2roKbWD) | 4:22 |
-| 43 | [Avengers](https://open.spotify.com/track/6zf80ZbDcjHGr85U1anoum) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Suggz](https://open.spotify.com/artist/02ZY7mXbBycRP7fW3PszQT), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs), [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n), [Reekz PB](https://open.spotify.com/artist/1rcDQO1ZDEfAXpM6ycRWqk) | [Perseverance](https://open.spotify.com/album/1riiEXbaZVllfRLvDktfxf) | 4:37 |
+| 43 | [Avengers](https://open.spotify.com/track/6zf80ZbDcjHGr85U1anoum) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE), [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Suggz](https://open.spotify.com/artist/02ZY7mXbBycRP7fW3PszQT), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs), [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n), [Reekz](https://open.spotify.com/artist/24SbtyEVS6NAifwpeTm6Ak) | [Perseverance](https://open.spotify.com/album/1riiEXbaZVllfRLvDktfxf) | 4:37 |
 | 44 | [Billy Came Back](https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Billy Came Back](https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe) | 3:09 |
 | 45 | [No Harm](https://open.spotify.com/track/2XQ133QNNO2GbOsOiukvSW) | [Cristale](https://open.spotify.com/artist/6U1hXHFTV27cbQVXZvnX27) | [No Harm](https://open.spotify.com/album/0s4lWucH2UGmHl5rrysSjs) | 2:45 |
 | 46 | [Fangs](https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Fangs](https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb) | 4:09 |

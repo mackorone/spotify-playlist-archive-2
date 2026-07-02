@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: @
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,596 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,623 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 61 | [Can You Hear Me?](https://open.spotify.com/track/2BujIp2h0XoMjeqNL59m0z) | [Pilar Victoria](https://open.spotify.com/artist/2DSFPJr5VQONBtmvondIke) | [Can You Hear Me?](https://open.spotify.com/album/3Q0jVeca9RPoodNn4j6rgU) | 4:02 |
 | 62 | [Place Like Home](https://open.spotify.com/track/5mQqlb1fRJ2pt3NKocO2cQ) | [Alana Markel](https://open.spotify.com/artist/6PC5HPcQCXiidE2DKTAwoY) | [I Love You](https://open.spotify.com/album/5iMuYMgn6229IR2g1221Vs) | 2:50 |
 | 63 | [Crybaby](https://open.spotify.com/track/1etY8R5Z0rXhBKlqkUkkwN) | [After Louise](https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W) | [Crybaby](https://open.spotify.com/album/1yjYllIw1d3OZoRgPcTGBA) | 2:55 |
-| 64 | [Blu Tac Piano](https://open.spotify.com/track/4UMjHRPZAi5LgR8xhYShqc) | [Cusk](https://open.spotify.com/artist/3JkYnVJf85irRhvG5ptSIw) | [Blu Tac Piano](https://open.spotify.com/album/0iHDzwYLxxsxVJI4NGu8kO) | 4:57 |
+| 64 | [Blu tac piano](https://open.spotify.com/track/4UMjHRPZAi5LgR8xhYShqc) | [Cusk](https://open.spotify.com/artist/3JkYnVJf85irRhvG5ptSIw) | [Blu tac piano](https://open.spotify.com/album/0iHDzwYLxxsxVJI4NGu8kO) | 4:57 |
 | 65 | [Spiral](https://open.spotify.com/track/2U7v0lH247K8d57q1tWAHE) | [aaron's book club](https://open.spotify.com/artist/6vzSrIg2hK1qTPUGrGCLqq) | [Spiral](https://open.spotify.com/album/3MHGBNMXy8FfQZMHUnqsze) | 4:00 |
 | 66 | [sad song](https://open.spotify.com/track/550U3xKjOwcHU36I47JX5P) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [sad song](https://open.spotify.com/album/3M4kVE1218U6n9Qh6JQ03I) | 3:03 |
 | 67 | [Barrons Hotel \(I, To, Thee.\)](https://open.spotify.com/track/0eeyCEOLKsVVWxfZP0zA8k) | [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ), [Rainy Miller](https://open.spotify.com/artist/53LAWIqLkYE3N2UFod80A3) | [Barrons Hotel/Yellow Bones](https://open.spotify.com/album/4DiYXaIgNZZBKHwWBjXr6Y) | 5:54 |

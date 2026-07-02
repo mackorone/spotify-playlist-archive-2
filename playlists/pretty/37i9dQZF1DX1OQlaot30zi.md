@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Ele A, Rhove, Kid Yugi, DJ Shocca e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,756 likes - 109 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,768 likes - 109 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 7 | [WHITE GIRL WASTED](https://open.spotify.com/track/3d56FH7ZlHf9tjojZSwv8U) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [WHITE GIRL WASTED](https://open.spotify.com/album/1MdbSkPqc1AeqWJQBk3Weq) | 2:22 |
 | 8 | [Self control](https://open.spotify.com/track/1JW2QapVwiEqwX71N0Ztcv) | [Tormento](https://open.spotify.com/artist/2av4MrhPDUQLG3py1i0h7L), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Junior K](https://open.spotify.com/artist/63pCdEiziMCDjGOdM1XCrJ) | [Self control](https://open.spotify.com/album/5DZxAf5LA7KQEQKx122Uh9) | 3:04 |
 | 9 | [Giudice \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/track/7F6M60tJ2baG3NnTJKwMBa) | [Layelti](https://open.spotify.com/artist/5U0TmdJmw0kywSFBAyzZDv), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [Giudice \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/album/12Iy5Lm9wMcvVOuC9T3KI1) | 2:33 |
-| 10 | [Il Gatto e la volpe \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/track/48dD5hQ3Cw8YyaMBBxq8bh) | [Flextony](https://open.spotify.com/artist/4t97syp5w3yh2LrN0g4gmv), [Tigerplug](https://open.spotify.com/artist/7KqLY09TEFK55X9DMMzd1K), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [Il Gatto e la volpe \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/album/4RcdZWyaLC5D3hxjWzTkid) | 2:30 |
+| 10 | [Il Gatto e la Volpe \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/track/48dD5hQ3Cw8YyaMBBxq8bh) | [Flextony](https://open.spotify.com/artist/4t97syp5w3yh2LrN0g4gmv), [Tigerplug](https://open.spotify.com/artist/7KqLY09TEFK55X9DMMzd1K), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [Il Gatto e la volpe \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/album/4RcdZWyaLC5D3hxjWzTkid) | 2:30 |
 | 11 | [PUTT\*\*A \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/track/4Z7KWzHtc9rpS9wCiYTuLT) | [THYNA](https://open.spotify.com/artist/7yah06bwmQDOwfp80ddBci), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [PUTT\*\*A \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/album/6QNUbZTI9mq1izRydhQawh) | 2:38 |
 | 12 | [Playa \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/track/1W4GCjKZDBEQv3mWC2to2a) | [Dalfa](https://open.spotify.com/artist/2iYGfKt0Tve6lQWUcoMONe), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [Playa \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/album/4ZdsKiPvL2VrXOCGJbaIVv) | 2:03 |
 | 13 | [Mille Luci \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/track/5BjoZkS6etCCKrlquAzOZb) | [Nap](https://open.spotify.com/artist/5EKlohYn204yWxXa3af021), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [Mille Luci \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/album/2gkTUxFpZaMMoDX2c42xBy) | 2:58 |

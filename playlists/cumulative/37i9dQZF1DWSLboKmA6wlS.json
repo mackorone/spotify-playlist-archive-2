@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: whateve. Artwork: Isu Kim",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e17\u0e35\u0e48\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2a\u0e38\u0e14\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e04\u0e31\u0e14\u0e2a\u0e23\u0e23\u0e42\u0e14\u0e22\u0e1a\u0e23\u0e23\u0e13\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23 Spotify. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: MARQUISE. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -2438,6 +2438,24 @@
       "duration_ms": 257142,
       "name": "don't wanna miss you",
       "url": "https://open.spotify.com/track/4RfKwkEosc5ObAzKRMyU5b"
+    },
+    {
+      "album": {
+        "name": "dontneedyouanymore",
+        "url": "https://open.spotify.com/album/1FxW25sYeDtoGP5t67TBiW"
+      },
+      "artists": [
+        {
+          "name": "MARQUISE",
+          "url": "https://open.spotify.com/artist/6ZiQuVFetOPP1qLrrLDOLT"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168196,
+      "name": "dontneedyouanymore",
+      "url": "https://open.spotify.com/track/71DwatUaDJFTGNsvBNbFJI"
     },
     {
       "album": {
@@ -27889,6 +27907,24 @@
     },
     {
       "album": {
+        "name": "\u0e22\u0e31\u0e07\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07",
+        "url": "https://open.spotify.com/album/2frPOK4ZGxv1Z01MMhZsUW"
+      },
+      "artists": [
+        {
+          "name": "Socio",
+          "url": "https://open.spotify.com/artist/4FzjYMJ5QjDOCGPVKo225J"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200307,
+      "name": "\u0e22\u0e31\u0e07\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07",
+      "url": "https://open.spotify.com/track/4bVZKg1RgYqNzOZGOvxL6k"
+    },
+    {
+      "album": {
         "name": "\u0e22\u0e31\u0e07\u0e04\u0e34\u0e14\u0e16\u0e36\u0e07\u0e2d\u0e22\u0e39\u0e48\u0e40\u0e25\u0e22",
         "url": "https://open.spotify.com/album/1C9kzjo2lH0sW9tfFBCQ9O"
       },
@@ -27940,6 +27976,24 @@
       "duration_ms": 276125,
       "name": "\u0e22\u0e31\u0e07\u0e08\u0e33",
       "url": "https://open.spotify.com/track/30ssoqngneU5DveW87wPFF"
+    },
+    {
+      "album": {
+        "name": "\u0e22\u0e31\u0e07\u0e08\u0e33\u0e44\u0e14\u0e49\u0e14\u0e35",
+        "url": "https://open.spotify.com/album/6jA1kdnJxC4qFZyWUMzh1i"
+      },
+      "artists": [
+        {
+          "name": "The Juu's",
+          "url": "https://open.spotify.com/artist/1CawyT4Y8Chlhxr6qGjQjf"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307272,
+      "name": "\u0e22\u0e31\u0e07\u0e08\u0e33\u0e44\u0e14\u0e49\u0e14\u0e35",
+      "url": "https://open.spotify.com/track/2H6daeWFhnfAYoTwS769AM"
     },
     {
       "album": {
@@ -28396,6 +28450,24 @@
       "duration_ms": 296376,
       "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e08\u0e32\u0e01(\u0e25\u0e32)",
       "url": "https://open.spotify.com/track/5jJt7NSLkYSB2g4j5bqf2P"
+    },
+    {
+      "album": {
+        "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e40\u0e08\u0e2d\u0e19\u0e30 (My Pleasure)",
+        "url": "https://open.spotify.com/album/5ostiqsbRiXNytRga4CgkG"
+      },
+      "artists": [
+        {
+          "name": "WORABIG Y2Z",
+          "url": "https://open.spotify.com/artist/60tz4wCb2OIHOc2Xu5LAwr"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "\u0e22\u0e34\u0e19\u0e14\u0e35\u0e17\u0e35\u0e48\u0e44\u0e14\u0e49\u0e40\u0e08\u0e2d\u0e19\u0e30 (My Pleasure)",
+      "url": "https://open.spotify.com/track/1D6jJWNa1nvcEEQ5j7s3Dn"
     },
     {
       "album": {
@@ -37710,6 +37782,24 @@
       "duration_ms": 246000,
       "name": "\u0e40\u0e07\u0e32\u0e02\u0e49\u0e32\u0e07\u0e01\u0e32\u0e22",
       "url": "https://open.spotify.com/track/7EShhnNYbxv4ZDUW2Ggxqs"
+    },
+    {
+      "album": {
+        "name": "\u0e40\u0e07\u0e34\u0e19\u0e15\u0e23\u0e32",
+        "url": "https://open.spotify.com/album/0l4y5bv8IoeqXEaPCSclzB"
+      },
+      "artists": [
+        {
+          "name": "Sukid458",
+          "url": "https://open.spotify.com/artist/6dWH3SSe9rYb2KvunPIvf4"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285517,
+      "name": "\u0e40\u0e07\u0e34\u0e19\u0e15\u0e23\u0e32",
+      "url": "https://open.spotify.com/track/4BbmLTx2Pp6biPZ0ZOqlKp"
     },
     {
       "album": {

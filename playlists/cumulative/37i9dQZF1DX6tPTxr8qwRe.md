@@ -4,7 +4,7 @@
 
 > sweet\. sharp\. unbothered \- Bella Poarch on the cover
 
-1,121 songs - 2 day 3 hr 54 min
+1,122 songs - 2 day 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -685,6 +685,7 @@
 | [My Boy](https://open.spotify.com/track/3iecnkddipTVKwQdxz41FW) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [My Boy](https://open.spotify.com/album/4bLThdUFHWgOgT0mjzp4Bz) | 2:29 | 2026-06-26 |  |
 | [MY EX FRIEND](https://open.spotify.com/track/06qSdtPjbVgC4SZzIoWEuu) | [Cate Tomlinson](https://open.spotify.com/artist/44JI8Kf7e9qDhfEebdD2Y2) | [MY EX FRIEND](https://open.spotify.com/album/24D3RIz4fTgrNy1UwJhlxe) | 2:49 | 2024-06-28 | 2024-09-14 |
 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 | 2024-05-17 | 2024-06-01 |
+| [My Girlfriend \(feat\. Ella Boh\)](https://open.spotify.com/track/27xprsAJJYC2U02zKog81S) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq), [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [My Girlfriend \(feat\. Ella Boh\)](https://open.spotify.com/album/0LdmbaBWeZ4Z4u5eWjv1uY) | 2:14 | 2026-07-01 |  |
 | [MY HOUSE](https://open.spotify.com/track/7omJfT9s6V2IpQNBYyq5C8) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MY HOUSE](https://open.spotify.com/album/1H1ivGeE2LjPjE71OITTZs) | 4:22 | 2023-12-01 | 2024-01-05 |
 | [my way](https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:00 | 2026-06-12 |  |
 | [Naked](https://open.spotify.com/track/7bI5GpjLRkil6k42fuFfAH) | [Sam Short](https://open.spotify.com/artist/0lhNnj2stuzFCs8ihzu0mz) | [Naked](https://open.spotify.com/album/5ShHPBnTeucExVbL6ccqXj) | 2:13 | 2022-08-05 | 2023-03-25 |
@@ -913,7 +914,7 @@
 | [spite](https://open.spotify.com/track/536ZTi6wWJQ2gYXkXnJwVX) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [can we start over?](https://open.spotify.com/album/5ZWcE7wYh6GKsB0nS9iZS6) | 3:07 | 2024-01-26 | 2024-06-15 |
 | [SPOOKED](https://open.spotify.com/track/5z7WYNGTHyrJEPweEuSotD) | [XTINA GG](https://open.spotify.com/artist/4PS6CG01HPH6t4K2aBzril) | [SPOOKED](https://open.spotify.com/album/1QDMoJMquUqbvL6VmWKffu) | 2:32 | 2023-10-27 | 2024-04-27 |
 | [spotless state of mind](https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf) | [Fia James](https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R) | [spotless state of mind](https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT) | 2:39 | 2026-06-12 |  |
-| [STARLET](https://open.spotify.com/track/7fRaZXWjyVuJX9vkzGv0Dw) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [STARLET](https://open.spotify.com/album/7jG25C6PpgXzeZsXfyN47R) | 2:39 | 2026-04-03 |  |
+| [STARLET](https://open.spotify.com/track/7fRaZXWjyVuJX9vkzGv0Dw) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [STARLET](https://open.spotify.com/album/7jG25C6PpgXzeZsXfyN47R) | 2:39 | 2026-04-03 | 2026-07-02 |
 | [Steering \(So Fast\)](https://open.spotify.com/track/3wIe1eSu0GVjKi3T5nrcye) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Steering \(So Fast\)](https://open.spotify.com/album/6aerihDnpFkJNrhnPSBfez) | 3:43 | 2026-03-27 |  |
 | [STEPHEN KING](https://open.spotify.com/track/0G5VxInG6PoZuSnBisMXei) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Wasting My Nights](https://open.spotify.com/album/1X9H1qiFnjyIK5OuFv0FJF) | 2:59 | 2024-02-02 | 2024-04-27 |
 | [STFU](https://open.spotify.com/track/7KDs1jdpDww170OCpPsjV4) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [STFU](https://open.spotify.com/album/13xF7dlZO7Y8wUM1g4Hvrl) | 2:21 | 2022-07-22 | 2022-09-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 
 > techno you can relax/study to
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,749 likes - 100 songs - 11 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,763 likes - 100 songs - 11 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 18 | [XRAY](https://open.spotify.com/track/2424itFKDyceMRejjiQugg) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 3:31 |
 | 19 | [First Storm \- Original Mix](https://open.spotify.com/track/3Dg9oNsbO5nanhJOQ9nV7j) | [Upwellings](https://open.spotify.com/artist/20erF0KNl2867pn4Ma9FvV) | [Blue Line Dubs](https://open.spotify.com/album/0fQ82uczUcDveJv1mUgoP1) | 6:17 |
 | 20 | [Catsu](https://open.spotify.com/track/0lbQaP751MUEVtK0F4A43C) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [HomeSoon](https://open.spotify.com/album/1uoyioN7yCRAUoVpgZQHHD) | 4:27 |
-| 21 | [Resonance](https://open.spotify.com/track/0QJbWNtbx7IHfhuY4PNbK8) | [Substance](https://open.spotify.com/artist/3H2oruOrcztEmskMPzdV43), [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Libration](https://open.spotify.com/album/179J6K90Pzd6LbtcRvvX6B) | 9:11 |
+| 21 | [Resonance](https://open.spotify.com/track/0QJbWNtbx7IHfhuY4PNbK8) | [Substance](https://open.spotify.com/artist/10Y4yKA7f18p28qMA8uft2), [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Libration](https://open.spotify.com/album/179J6K90Pzd6LbtcRvvX6B) | 9:11 |
 | 22 | [Rock In The Video Age](https://open.spotify.com/track/6b9I77bVLGkPfhgeQHDzhS) | [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Loop\-Finding\-Jazz\-Records](https://open.spotify.com/album/6UK4EMYa7by9xwU4eeAoE4) | 8:03 |
 | 23 | [A Woman's Nature \- Original Mix](https://open.spotify.com/track/2HcO2BlGH0LQUJMzzwIBV3) | [nikosf.](https://open.spotify.com/artist/0j4fIcQHXfWEtstL9x1lMM) | [Collecting the Moments](https://open.spotify.com/album/3PkajXCYQ7SD5dYVdJPvWe) | 6:15 |
 | 24 | [Starlight \- Echospace Unreleased Mix](https://open.spotify.com/track/0EgviF3SRYuARt8IwCMWMo) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [Starlight](https://open.spotify.com/album/6StG61wOmTvfUmfz0szLpz) | 7:09 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 39 | [Deep Direction](https://open.spotify.com/track/3yMmxpT2GmDzPZ4ygvjVyt) | [Sven Weisemann](https://open.spotify.com/artist/1MvenC6senxNCufFqueTlr) | [Light Soil](https://open.spotify.com/album/5PGhIaEB7r2ZHEdt2HbfYk) | 8:01 |
 | 40 | [First Narrows](https://open.spotify.com/track/1LDQpmzXg5ZFfdqdBQFw03) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [First Narrows](https://open.spotify.com/album/40DIozF4oXPydyjLVqnFQj) | 10:19 |
 | 41 | [Carrier](https://open.spotify.com/track/08bhHsCotWjcBpBTWJA8PS) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [Rhythm & Sound](https://open.spotify.com/album/1gKsehEyIyBj5bUeSAEe8w) | 6:27 |
-| 42 | [Invisible](https://open.spotify.com/track/6bjaO2WQ9OtgzbfZqDlieo) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Polygon\_Cities](https://open.spotify.com/album/5She8B45N3dZFo8dz2YAYs) | 7:55 |
-| 43 | [Stephan](https://open.spotify.com/track/54XsLtQxFGxk4IZnREKPqC) | [Mikkel Metal](https://open.spotify.com/artist/0q1Nx41aWpZqanF9sK0O9A) | [Peaks & Troughs 3/3](https://open.spotify.com/album/43CVa2RETrPk8JZdSw4ALp) | 6:17 |
+| 42 | [Stephan](https://open.spotify.com/track/54XsLtQxFGxk4IZnREKPqC) | [Mikkel Metal](https://open.spotify.com/artist/0q1Nx41aWpZqanF9sK0O9A) | [Peaks & Troughs 3/3](https://open.spotify.com/album/43CVa2RETrPk8JZdSw4ALp) | 6:17 |
+| 43 | [Invisible](https://open.spotify.com/track/6bjaO2WQ9OtgzbfZqDlieo) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Polygon\_Cities](https://open.spotify.com/album/5She8B45N3dZFo8dz2YAYs) | 7:55 |
 | 44 | [Aether](https://open.spotify.com/track/24wWZAHUvMPIG9h7zjq0yQ) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Cerebral Hemispheres](https://open.spotify.com/album/46sews77v3EoXe6PzYmYdD) | 6:13 |
 | 45 | [Twelve Miles High](https://open.spotify.com/track/0hyYhGMrqMJBzuwRZAvELk) | [burger/ink](https://open.spotify.com/artist/3x3wGSv3Xm8xtgXNe6hq99) | [Las Vegas](https://open.spotify.com/album/2e9288yxNdFTCKO6MitcDy) | 11:22 |
 | 46 | [Outward](https://open.spotify.com/track/0Plyt46jf3XYgAO7ItZDRc) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [Rhythm & Sound](https://open.spotify.com/album/1gKsehEyIyBj5bUeSAEe8w) | 5:46 |
@@ -77,18 +77,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 67 | [Rain 3](https://open.spotify.com/track/2TvgXwgbSkt4hsDyOlmyQA) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Yes](https://open.spotify.com/album/7zsktVl91eHbxy2cEoUfZ3) | 7:35 |
 | 68 | [Never Tell You \- 1](https://open.spotify.com/track/7iScEp6dZvGy8ZwJjb7xxh) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo), [Paul St\. Hilaire](https://open.spotify.com/artist/2z6qOkQVyn7h3XzUuNlRlM) | [Showcase](https://open.spotify.com/album/4G11Lr35wOYhRwV0j5h3UM) | 6:20 |
 | 69 | [upekah](https://open.spotify.com/track/7I1pDB99PH4iaUatXBXHgi) | [son.sine](https://open.spotify.com/artist/1t4NXvWnxF1xx3r6vhJMSp) | [upekah](https://open.spotify.com/album/5nqOxv7NpHWGFtiZCBuaxq) | 8:57 |
-| 70 | [Machine Food](https://open.spotify.com/track/2pwd3D0xp09vaQLLerDMfW) | [JASSS](https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV) | [Machine Food](https://open.spotify.com/album/2RPmQRsg1A9vMhnpwdiV08) | 4:26 |
-| 71 | [Zauberberg 2](https://open.spotify.com/track/18IoZD8aQjJn972NcGN4Jc) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Zauberberg](https://open.spotify.com/album/3q8NuY6M6Ay1XA34vGpeud) | 14:12 |
-| 72 | [Parable](https://open.spotify.com/track/3JJKfUHegacxWAhttMLiXY) | [Echo Inspectors](https://open.spotify.com/artist/0QSUzXnS0dDSxv8vWUZlq3) | [Translucent Tracks](https://open.spotify.com/album/2ljQuvlzi1caOfEI82eS83) | 6:36 |
+| 70 | [Zauberberg 2](https://open.spotify.com/track/18IoZD8aQjJn972NcGN4Jc) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Zauberberg](https://open.spotify.com/album/3q8NuY6M6Ay1XA34vGpeud) | 14:12 |
+| 71 | [Parable](https://open.spotify.com/track/3JJKfUHegacxWAhttMLiXY) | [Echo Inspectors](https://open.spotify.com/artist/0QSUzXnS0dDSxv8vWUZlq3) | [Translucent Tracks](https://open.spotify.com/album/2ljQuvlzi1caOfEI82eS83) | 6:36 |
+| 72 | [Machine Food](https://open.spotify.com/track/2pwd3D0xp09vaQLLerDMfW) | [JASSS](https://open.spotify.com/artist/4reMrexillTAvq1AQr6MzV) | [Machine Food](https://open.spotify.com/album/2RPmQRsg1A9vMhnpwdiV08) | 4:26 |
 | 73 | [Untitled C3](https://open.spotify.com/track/3zotN6ezz03EnQoLDMmduF) | [SW.](https://open.spotify.com/artist/6lDaViWraJYpkI6nRq29vp) | [The Album](https://open.spotify.com/album/5yHg79n8OTEDo9V5zNg6oi) | 3:03 |
-| 74 | [Tangente](https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Fading](https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR) | 5:07 |
-| 75 | [G3](https://open.spotify.com/track/1epu6KNwZjVuyoa4GBLdmL) | [Monoder](https://open.spotify.com/artist/587oFfNlf7pKfT2sJds5Wn) | [Ikikieriö](https://open.spotify.com/album/3Y4MFlHV1PYX2CQY2Wzemi) | 7:44 |
+| 74 | [G3](https://open.spotify.com/track/1epu6KNwZjVuyoa4GBLdmL) | [Monoder](https://open.spotify.com/artist/587oFfNlf7pKfT2sJds5Wn) | [Ikikieriö](https://open.spotify.com/album/3Y4MFlHV1PYX2CQY2Wzemi) | 7:44 |
+| 75 | [Tangente](https://open.spotify.com/track/7CUePB3Lb3EMnNZEuQDMgN) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [Fading](https://open.spotify.com/album/5r78nlhueNsrrviTYGPdfR) | 5:07 |
 | 76 | [Zenith \- Original Mix](https://open.spotify.com/track/1Vd1PtUIKePKhOZHoTtf9E) | [Claudio PRC](https://open.spotify.com/artist/5qbXOiqkhAk2GEvpkma7xj) | [Drifting Northward EP](https://open.spotify.com/album/1ww2pbN521Xdm4fcVvvSFY) | 7:47 |
 | 77 | [Nighttrain \- Efdemin Dub](https://open.spotify.com/track/7xKz0WElyMHFLPV3XgstO1) | [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Chicago \- The Remixes Pt\. 1](https://open.spotify.com/album/2fncVDocptyJUW4kM7ho5o) | 4:23 |
 | 78 | [Existing Closer or Deeper in Space](https://open.spotify.com/track/6kzNAm0RiDW3UyxTOimSLU) | [Earthen Sea](https://open.spotify.com/artist/3vP8rFfMW7ZZtUFfYyN5QH) | [Grass and Trees](https://open.spotify.com/album/5BWggRFjTVj5uC1lqjjFU7) | 3:51 |
 | 79 | [Boo's Mood](https://open.spotify.com/track/3NpY3kZ5NDJVZZDjzAlBaz) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [Boo's Mood](https://open.spotify.com/album/37XnGed9rFSMci9ljdWSOQ) | 4:23 |
-| 80 | [Everyone Is Moving](https://open.spotify.com/track/0I2NAwJ0zz5WfKHqxWNcfh) | [DFRNT](https://open.spotify.com/artist/6NXFAGGcI3nq3em34tsWnQ) | [Fading \(Deluxe Edition\)](https://open.spotify.com/album/7bykHlOaWjYLioMEnNa1Rw) | 7:08 |
-| 81 | [Game Over \( e 1 \)](https://open.spotify.com/track/2WrtP0IBtd6WL7RnfhVVHX) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Game Over \( e 1 \)](https://open.spotify.com/album/0uH5IgHeTFznjqRtkNrhFR) | 3:15 |
+| 80 | [Game Over \( e 1 \)](https://open.spotify.com/track/2WrtP0IBtd6WL7RnfhVVHX) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Game Over \( e 1 \)](https://open.spotify.com/album/0uH5IgHeTFznjqRtkNrhFR) | 3:15 |
+| 81 | [Everyone Is Moving](https://open.spotify.com/track/0I2NAwJ0zz5WfKHqxWNcfh) | [DFRNT](https://open.spotify.com/artist/6NXFAGGcI3nq3em34tsWnQ) | [Fading \(Deluxe Edition\)](https://open.spotify.com/album/7bykHlOaWjYLioMEnNa1Rw) | 7:08 |
 | 82 | [Draught](https://open.spotify.com/track/4MQZjU6uaFobbj5MaxtAGe) | [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q), [Ordo Sakhna](https://open.spotify.com/artist/3SnKKOKMywsI29DK4qoIIe) | [Moritz Von Oswald & Ordo Sakhna](https://open.spotify.com/album/0GWKJ6ct7XkaD7KwDYPJk4) | 4:44 |
 | 83 | [Oktember](https://open.spotify.com/track/49MosPm9tMO3Xzzs2nzokf) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Oktember](https://open.spotify.com/album/6Dafde7J7kH2MQeyplCGVk) | 15:13 |
 | 84 | [Erode](https://open.spotify.com/track/6D66z28IfGVXjLSzgL6pRM) | [Erosion](https://open.spotify.com/artist/5lIeMv0yYXUfoFW3kiuniK) | [Decay Product](https://open.spotify.com/album/2Mntwro0WavIGHWAtiwOhX) | 9:19 |

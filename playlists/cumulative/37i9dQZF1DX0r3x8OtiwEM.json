@@ -989,6 +989,28 @@
     },
     {
       "album": {
+        "name": "Attract",
+        "url": "https://open.spotify.com/album/30L1oRMIswC3hErbOQ5JO9"
+      },
+      "artists": [
+        {
+          "name": "Ajna",
+          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
+        },
+        {
+          "name": "Samm",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307317,
+      "name": "Attract",
+      "url": "https://open.spotify.com/track/4ykK6tNnlu2fAAWPCxzvFc"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/69qmZ8AMIeJMnVOwsXuiop"
       },
@@ -13092,7 +13114,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 190920,
       "name": "Take Care Of Business - Solomun Mix",
       "url": "https://open.spotify.com/track/1vqS30vCAcEVx0GaqAv5Qh"

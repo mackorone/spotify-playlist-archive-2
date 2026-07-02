@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-705 songs - 2 day 9 hr 43 min
+706 songs - 2 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Don't Make Me Wait](https://open.spotify.com/track/3VeS72g6grKG0oKV6n6ytL) | [Jake Jeffery](https://open.spotify.com/artist/1x3T9MPimqDurlRKnCuNsh) | [Don’t Make Me Wait](https://open.spotify.com/album/7AJEjqJ7I1XbwEUVbVWiDc) | 3:41 | 2025-08-01 |  |
 | [Dream Machine](https://open.spotify.com/track/4cAypK013iEiqKZG5YLrJ3) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Stranno Stranno Neobjatno](https://open.spotify.com/album/1dtFPfxQfvkejo2W3HL3TY) | 6:28 | 2022-05-03 | 2022-10-23 |
 | [dreamforever](https://open.spotify.com/track/0yA6WTLMSkRYdwjHBBivLS) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv), [Nina Nst](https://open.spotify.com/artist/6S7CIpIi5NY2ZmdUP9Wh4Q) | [dreamforever](https://open.spotify.com/album/7AdGCHuoZzGY8IK9Cbbz2H) | 2:50 | 2025-03-28 |  |
+| [Drift A Little Longer](https://open.spotify.com/track/1OAh0KnUISxYNSjsIFpPMj) | [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq) | [Drift](https://open.spotify.com/album/5xK8Z9uFGbnNm00Iutom6R) | 3:52 | 2026-06-26 |  |
 | [Echoes](https://open.spotify.com/track/5iQf9pkvWsCr04zimLkusr) | [Fejká](https://open.spotify.com/artist/0VWvUvjaHaW1OeXtcVISu9), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Echoes](https://open.spotify.com/album/1nm30Bq5LbhXGUiTDoGSj8) | 3:49 | 2025-04-11 |  |
 | [Echoes](https://open.spotify.com/track/3oJ0ImxhIlU6lZ9JtCWYVd) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Echoes](https://open.spotify.com/album/0xr2nntVBXisNTLyan5wZt) | 6:03 | 2022-02-21 | 2023-09-12 |
 | [Egyptian Sun](https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Egyptian Sun](https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa) | 4:17 | 2023-05-26 | 2026-05-16 |
@@ -324,7 +325,7 @@
 | [Liana](https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Sunblind](https://open.spotify.com/album/4EN8YMJK0uaD5yfkhg6aNS) | 4:24 | 2023-09-22 | 2026-02-07 |
 | [Life](https://open.spotify.com/track/6shlrqMyqGLIfXLt6eeR0I) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [200% GALCHER](https://open.spotify.com/album/5tlLnGJdn7m5qucplsZqB1) | 5:01 | 2022-05-03 | 2022-12-28 |
 | [Lifeline](https://open.spotify.com/track/4Z9wBDz2fePPt4vGzi79bY) | [Iskarelyn](https://open.spotify.com/artist/6EYhZnGfuQEGRjxjfOx9Hd) | [Lifeline EP](https://open.spotify.com/album/085NjzrML1quaQ75ZAPt95) | 3:26 | 2025-08-29 |  |
-| [LIFELINE](https://open.spotify.com/track/4E44MoxArVFXaL8jrdLiQo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/0Gg1dfjbFbWqH11NsBB5TW) | 3:27 | 2026-02-06 |  |
+| [LIFELINE](https://open.spotify.com/track/4E44MoxArVFXaL8jrdLiQo) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/0Gg1dfjbFbWqH11NsBB5TW) | 3:27 | 2026-02-06 | 2026-07-02 |
 | [Light Through The Leaves](https://open.spotify.com/track/4Yq7rlqu3mvqe5lDiTlbWq) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Heal EP](https://open.spotify.com/album/2qdxKEcWDbs61f6oRDqHAW) | 5:03 | 2025-05-23 |  |
 | [Lightshine](https://open.spotify.com/track/1yTW421kLGkPZC4FK4uVAy) | [Boreta](https://open.spotify.com/artist/4pk4xXNYrYeJpf82VJJwLo), [Ram Dass](https://open.spotify.com/artist/3XX4k7fPq9gcyZRDrbXfnS) | [Lightshine](https://open.spotify.com/album/4lGDwZiDMWjSrQ0WF8er6h) | 5:59 | 2025-07-11 |  |
 | [Like I Used To](https://open.spotify.com/track/2L9M3x9RTHoJ313ajYr0dg) | [Steven Weston](https://open.spotify.com/artist/7zxRSonZpfxzpY2S4Cse4U), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Like I Used To](https://open.spotify.com/album/4JJduz9iTc6n8ntRPAhOUy) | 4:56 | 2022-05-03 |  |

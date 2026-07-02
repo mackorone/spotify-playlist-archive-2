@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-1,925 songs - 4 day 11 hr 59 min
+1,926 songs - 4 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1073,6 +1073,7 @@
 | [Mi Ex](https://open.spotify.com/track/6oSmQTvt30dgjTwd3VAXYK) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 3:03 | 2021-04-17 | 2021-05-05 |
 | [MI EX TENÍA RAZÓN](https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:34 | 2023-08-12 | 2024-12-30 |
 | [Mi Niña](https://open.spotify.com/track/2bgcUk2A3jjKbCJ7KPquTi) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Mi Niña](https://open.spotify.com/album/5F7rUv9XZPAnNfeKCYkqZS) | 3:33 | 2021-03-27\* | 2021-06-27 |
+| [Mi Niña Consentida](https://open.spotify.com/track/3oUJsKxso4PwXC8Vn1okgt) | [Barbel](https://open.spotify.com/artist/0EOoqDSLYOEo16Ootf1ZTQ) | [Mi Niña Consentida](https://open.spotify.com/album/0vevRb12tFZT2u60IKSZEb) | 4:59 | 2026-07-01 |  |
 | [mi refe](https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:39 | 2025-05-17 |  |
 | [mi refe](https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [mi refe](https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM) | 2:39 | 2024-12-10 | 2025-05-18 |
 | [Mi Tía María](https://open.spotify.com/track/4bTuXvneLeAFyTBA0MtLP1) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Feliz Navidad](https://open.spotify.com/album/4MWKQRfoWI4oWCLy7Av2Gk) | 3:54 | 2021-12-25 | 2025-12-28 |
@@ -1240,7 +1241,7 @@
 | [OUTRO](https://open.spotify.com/track/3nREMKR9AuM6AikqWwcAUA) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 4:00 | 2026-02-21 | 2026-02-26 |
 | [Oye Mi Amor](https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:23 | 2024-04-24 | 2024-04-28 |
 | [Pa Encima](https://open.spotify.com/track/6PgAQL2A6Xa7bLRSSlbQi6) | [Ninjaa CH](https://open.spotify.com/artist/2vL3sN3yOvGX1mCpUXbCgz) | [Pa Encima](https://open.spotify.com/album/1h4M4gaYoP1P6zxRNgUEOj) | 2:38 | 2023-12-06 | 2023-12-16 |
-| [PA QUE ME BAILE \(Bombermusik Remix\)](https://open.spotify.com/track/4j34SEHRLSpj0Qt6cxysve) | [BARBEL](https://open.spotify.com/artist/6ixbRvvyEJSexIDZhE63v6), [BomberMusik](https://open.spotify.com/artist/4AbygL8hx5DomV8PZs3XzA) | [PA QUE ME BAILE \(Bombermusik Remix\)](https://open.spotify.com/album/26iOuTSQLA5aC1ifoIy621) | 5:04 | 2026-02-16 |  |
+| [PA QUE ME BAILE \(Bombermusik Remix\)](https://open.spotify.com/track/4j34SEHRLSpj0Qt6cxysve) | [BARBEL](https://open.spotify.com/artist/6ixbRvvyEJSexIDZhE63v6), [BomberMusik](https://open.spotify.com/artist/4AbygL8hx5DomV8PZs3XzA) | [PA QUE ME BAILE \(Bombermusik Remix\)](https://open.spotify.com/album/26iOuTSQLA5aC1ifoIy621) | 5:04 | 2026-02-16 | 2026-07-02 |
 | [PA QUE ME BAILE \- Remix](https://open.spotify.com/track/2T9xqOFCWYyQJqlbelD0PP) | [BARBEL](https://open.spotify.com/artist/6ixbRvvyEJSexIDZhE63v6) | [PA QUE ME BAILE \(Remix\)](https://open.spotify.com/album/7dk6ti3zuSLByoZarotbcv) | 5:04 | 2025-10-17 | 2025-10-30 |
 | [Pa que sea seria](https://open.spotify.com/track/13LchiFCVVHsTnBKs9dvvt) | [Comando Tiburon](https://open.spotify.com/artist/2Q1HJnngR9v11eyzvEgSPb) | [Ya tu sabes quienes son](https://open.spotify.com/album/1KZhXDKFTClAFlSILyvmsi) | 3:54 | 2024-02-11 | 2024-02-13 |
 | [Pa Ti](https://open.spotify.com/track/0yqp9lIHBEGCF9uPTuMETr) | [Izzy La Reina](https://open.spotify.com/artist/7J8ap7LRmCnCbs9bAwJKFi), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Pa Ti](https://open.spotify.com/album/7FybUtQEqck51Rd6o02Oui) | 3:44 | 2022-10-20 | 2022-10-22 |

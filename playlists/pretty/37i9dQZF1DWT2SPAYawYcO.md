@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from TEEKS,  sombr,  FISHER, Florence Arman, Phoebe Bridges, Gracie Abrhams + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,653 likes - 110 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,646 likes - 110 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 69 | [Be Right There](https://open.spotify.com/track/3driVmV2UpFgZttlwHC6aK) | [J.Tajor](https://open.spotify.com/artist/0VpMOC5IZU06u29fWjv3qJ) | [Be Right There](https://open.spotify.com/album/6518ldhIp0l0ZNUSo0vLkR) | 2:38 |
 | 70 | [See\-through](https://open.spotify.com/track/68Pmz9nDlz2MjpNJ3X94KQ) | [effe](https://open.spotify.com/artist/2QHeMiKzNUpV7tFFqudKEX) | [See\-through](https://open.spotify.com/album/3h4pgqLbUPj2ojUeKy0Y0G) | 4:19 |
 | 71 | [Waterfall](https://open.spotify.com/track/6b7xtvXFuODSbW4uq9IxBw) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Waterfall](https://open.spotify.com/album/2DJ2TkkTMLOfDudgKaKk6n) | 3:32 |
-| 72 | [Aotearoa Rastafari](https://open.spotify.com/track/30rHyodZox9Sa9p2m38XF2) | [Israel Starr](https://open.spotify.com/artist/2RU8SlXTX6tBiFAKCGioui), [Riddim Cartel](https://open.spotify.com/artist/2ccQSsrTbV6GpnaiaRuMjD) | [Aotearoa Rastafari](https://open.spotify.com/album/5Lub5ydJY91K2F2y2A74sd) | 3:04 |
+| 72 | [Aotearoa Rastafari](https://open.spotify.com/track/30rHyodZox9Sa9p2m38XF2) | [Iharaira Starr](https://open.spotify.com/artist/6H05c7C6xi12j1U2yaxHrk), [Riddim Cartel](https://open.spotify.com/artist/2ccQSsrTbV6GpnaiaRuMjD) | [Aotearoa Rastafari](https://open.spotify.com/album/5Lub5ydJY91K2F2y2A74sd) | 3:04 |
 | 73 | [Still Dancing](https://open.spotify.com/track/1NK6TP83C0mP1Edu61irn0) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor), [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Still Dancing](https://open.spotify.com/album/7aV53ErTs72wwaxBVz4eIO) | 2:58 |
 | 74 | [swag](https://open.spotify.com/track/3ApCleHFDdi9Ehr5iUsuxw) | [DRIZZZ](https://open.spotify.com/artist/1cr4aKJ1SFmSVZBbmukJB0) | [swag](https://open.spotify.com/album/73TYkBzSAtnmStmjOnUpAY) | 2:34 |
 | 75 | [Tek Time](https://open.spotify.com/track/1Y2ozORhzgDsltbTYwuSWm) | [KURUPT FM](https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q) | [Tek Time](https://open.spotify.com/album/2BiqAVcRcqcD4SjaXtCo4L) | 2:41 |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-1,216 songs - 2 day 23 hr 36 min
+1,218 songs - 2 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -576,7 +576,7 @@
 | [NAPALM](https://open.spotify.com/track/4EG5yjXnXCDcjBxOfKXNez) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/0u5zDTS7Rj4xt7gocRJ8KO) | 2:24 | 2022-07-08 | 2022-07-20 |
 | [NAPALM](https://open.spotify.com/track/7E0VWfLjunSdN5aRseBsnf) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/3CgLfVX8nK0jEZZMY3PHM1) | 2:24 | 2022-07-20 | 2022-07-22 |
 | [Narcos](https://open.spotify.com/track/3EVvQT3vvXiBHOQwbMJMEZ) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Narcos](https://open.spotify.com/album/6vXFlldjH89AZJ1uFWcAG5) | 2:52 | 2021-09-12 | 2021-09-30 |
-| [Narein](https://open.spotify.com/track/3D33hlROnv1lNCWIXIGsL2) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:04 | 2025-08-01 |  |
+| [Narein](https://open.spotify.com/track/3D33hlROnv1lNCWIXIGsL2) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Narein](https://open.spotify.com/album/5eU2WB6lRgUVf3SkloTRy9) | 3:04 | 2025-08-01 | 2026-07-02 |
 | [Nargasa](https://open.spotify.com/track/6C3b22RiVowlAiv0aDHvRl) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [Nargasa](https://open.spotify.com/album/6auK24zM4t5RIKPC6cI17y) | 2:33 | 2021-09-09 | 2021-10-03 |
 | [NASINY](https://open.spotify.com/track/4hwcep6sS7WKUjcsGohX6w) | [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [MAQSOUM](https://open.spotify.com/album/2EUryjmxx61L08ZLemdYxC) | 3:35 | 2021-12-30 | 2022-01-01 |
 | [Nasy \- From The TV Series Ma Trah Lays Kama Ybdo](https://open.spotify.com/track/7wCCqw8CSbkHMkYIqcINXB) | [Tommyy](https://open.spotify.com/artist/40zCGXzhrnG6Lz4hQ7XK0l) | [Nasy](https://open.spotify.com/album/5qz4xp51ET1gOZLYSYGEx7) | 2:49 | 2025-09-29 | 2026-03-14 |
@@ -1078,6 +1078,8 @@
 | [علي راحتي](https://open.spotify.com/track/7ovuIttxBRyuJepLizxnbJ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [جزيرة البطل](https://open.spotify.com/album/4YDXa3PlsqjaUdT9rClcY7) | 3:42 | 2021-03-27\* | 2021-04-14 |
 | [عم المجال](https://open.spotify.com/track/3MzJ2M9PzfCtaGMHAirjIM) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عم المجال](https://open.spotify.com/album/5D3OSz8QKq8CkNkPaTh3rE) | 3:40 | 2024-06-14 | 2025-02-03 |
 | [عم جيلو \( طب خد ولا انت مبتعرفش تصد \)](https://open.spotify.com/track/05HQf3gXwmAb8WScNvlhEt) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [عم جيلو \( طب خد ولا انت مبتعرفش تصد \)](https://open.spotify.com/album/1HiStqQC5wtvSrdyt7nc1o) | 2:38 | 2024-05-18 | 2024-06-01 |
+| [عمك و عم عمك](https://open.spotify.com/track/0LjbqLUkHL1YxVlKygcZZ9) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عمك و عم عمك](https://open.spotify.com/album/3ZxFsT3Mo9Aj5sPCpMk4P2) | 3:02 | 2026-07-01 |  |
+| [عيال جديدة لانج](https://open.spotify.com/track/6iDTooZzJTkEGDei5M1R5e) | [حمو المرشدي](https://open.spotify.com/artist/42bLvjMTikom8zqIxOgUEY) | [عيال جديدة لانج](https://open.spotify.com/album/5MjhZcWxOgcTHNFJeyWnO3) | 3:16 | 2026-07-01 |  |
 | [عين سحرية](https://open.spotify.com/track/0pTxrkqqHSVCsuHS9NhaH5) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [عين سحرية](https://open.spotify.com/album/2imB9na6sN3WCbz49IuBY0) | 3:21 | 2026-03-14 | 2026-04-02 |
 | [عين سحرية](https://open.spotify.com/track/0SuWrDNsHCpu2Nh1Ygoeet) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [عين سحرية](https://open.spotify.com/album/2j2GeCSkeSYIr3Rv86e4Km) | 2:21 | 2026-03-03 | 2026-03-05 |
 | [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/track/1yCIPv9azb6iatALhQnRR9) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [غار القمر \(من مسلسل وننسى اللي كان\)](https://open.spotify.com/album/5lagJdup7OYfTD72gzwZI2) | 3:39 | 2026-04-25 | 2026-05-28 |
@@ -1126,7 +1128,7 @@
 | [لعبالي في دماغي](https://open.spotify.com/track/37FL23FnskUH9np0LiM5bL) | [yousef mohamed](https://open.spotify.com/artist/4KGzrDuN7l1lrMNuio2fUe), [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [لعبالي في دماغي](https://open.spotify.com/album/7pMR8laKUlwWAornFEEA57) | 2:22 | 2024-10-31 | 2024-11-16 |
 | [لغبطيطا](https://open.spotify.com/track/73wCLmIvEKJFU6aVHWsjjG) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [لغبطيطا](https://open.spotify.com/album/2SrRqE53cNal5gW2FWD5Dz) | 3:10 | 2021-03-27\* | 2021-04-05 |
 | [لفينا الدنيا](https://open.spotify.com/track/4Vm5J277k6HH6CNZEZXAE9) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM), [Muslim](https://open.spotify.com/artist/63OMTYC88PAsd7ffM3ErQv) | [لفينا الدنيا](https://open.spotify.com/album/6hBfYe9PE9Wp1CAs9C2nRq) | 3:20 | 2023-07-01 | 2025-02-12 |
-| [لما بيوحشني](https://open.spotify.com/track/2Fr20ZrkJikzPU32YFLO43) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/75rtGQGnNq7upYoNdtmtoJ) | 4:32 | 2026-04-26 |  |
+| [لما بيوحشني](https://open.spotify.com/track/2Fr20ZrkJikzPU32YFLO43) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/75rtGQGnNq7upYoNdtmtoJ) | 4:32 | 2026-04-26 | 2026-07-02 |
 | [لما بيوحشني](https://open.spotify.com/track/5BiSAqXhrMRoxvDd34vBXT) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [معايا هتبدع](https://open.spotify.com/album/08JBX3tJAbu2ctc7Ui3hXF) | 4:32 | 2023-10-03 | 2026-04-27 |
 | [لما تضلم](https://open.spotify.com/track/0g2cQuLfbu8D5iaWQg9Txj) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [لما تضلم](https://open.spotify.com/album/59Eme8mflDl9BF7dIJ7MGx) | 2:46 | 2024-03-20 | 2024-05-02 |
 | [لما تضلم](https://open.spotify.com/track/11dHZLY9Rfz8mPnydmSzwY) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [لما تضلم](https://open.spotify.com/album/4ojGdRf3Ye98W9kCDHNzw6) | 2:46 | 2024-05-01 | 2024-05-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 342 likes - 2,423 songs - 5 day 22 hr 48 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 343 likes - 2,427 songs - 5 day 23 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2431,5 +2431,9 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2421 | [TRY ME](https://open.spotify.com/track/0CavuOdspBDRkBXhEP6UMH) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [TRY ME](https://open.spotify.com/album/4Uvf4xhtQ3yPZOjpQ30VUs) | 2:40 |
 | 2422 | [Como nuevo](https://open.spotify.com/track/03NRpkZhScby10Vs3eueuw) | [Saúl](https://open.spotify.com/artist/5CsCXeMtpMq83giGeoGP0r) | [Como nuevo](https://open.spotify.com/album/2yePXIFjQ7in7kDhb96zEA) | 3:02 |
 | 2423 | [Leggera](https://open.spotify.com/track/1DBVYfntIhxnP3Id67tw62) | [SAM D](https://open.spotify.com/artist/3O8EvAOtzUfoQmzinpQOqr) | [Leggera](https://open.spotify.com/album/6830m8vrvafqg1U3wi1ktW) | 2:47 |
+| 2424 | [Give Me A Shout](https://open.spotify.com/track/3zIZ8fu1beiuWwybBLB3Pc) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Ixora](https://open.spotify.com/album/31b85ZfTbz5OsrILSlerVR) | 3:12 |
+| 2425 | [No Me Hables](https://open.spotify.com/track/2yu6eLRYCQGTlpIuMtgOV1) | [Manuel m clouds art](https://open.spotify.com/artist/6XqHezSWhMSFtWLrzu40C0) | [Sin Paris o New York](https://open.spotify.com/album/0XK7kSk0OdIHV3FrS3oyPC) | 4:15 |
+| 2426 | [Rapuh](https://open.spotify.com/track/0257WfyJ9vxVPm7b0dh6xA) | [Eklyra](https://open.spotify.com/artist/2ROoPAHDGn6hHs986H0y9V) | [Rapuh](https://open.spotify.com/album/0pE86dWCLq32BjMjpGscSG) | 3:46 |
+| 2427 | [“Baila Conmigo” \- vivo](https://open.spotify.com/track/0aYmFilb24ShCcoDvo9Mna) | [jonathan arce](https://open.spotify.com/artist/5WVvH3bbAQPZlm3SJ5Y472) | [“Baila Conmigo” \(vivo\)](https://open.spotify.com/album/4KHm9voyWjINtavaL3zHHU) | 2:41 |
 
-Snapshot ID: `AAAKRMhgYg/UUfhlxs4nYGWyKpOfGsPL`
+Snapshot ID: `AAAKSPz3iFTv8ujk+/Rjy6/fWzxaOOcp`

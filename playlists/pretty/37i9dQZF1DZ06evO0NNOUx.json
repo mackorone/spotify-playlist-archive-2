@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 203884,
+  "num_followers": 204044,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akG1gAAAAADdj8fENe02xMDecNOK6tDX",
+  "snapshot_id": "akMHAAAAAABcwAQbPVEeCbG9zhEyD0g7",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CRY",
-        "url": "https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW"
+        "name": "slow down",
+        "url": "https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG"
       },
       "artists": [
         {
-          "name": "Hulvey",
-          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+          "name": "Forrest.",
+          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
         },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 214850,
-      "name": "Altar",
-      "url": "https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0"
+      "duration_ms": 170521,
+      "name": "slow down",
+      "url": "https://open.spotify.com/track/1bxEymHzVbGrbjR99QjS0l"
     },
     {
       "added_at": null,
@@ -467,22 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "slow down",
-        "url": "https://open.spotify.com/album/2r3fHmQRc30dXt6me57yAG"
+        "name": "CRY",
+        "url": "https://open.spotify.com/album/2fs3VSm0Nnl2fwA6IpZ0oW"
       },
       "artists": [
         {
-          "name": "Forrest.",
-          "url": "https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ"
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
         },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 170521,
-      "name": "slow down",
-      "url": "https://open.spotify.com/track/1bxEymHzVbGrbjR99QjS0l"
+      "duration_ms": 214850,
+      "name": "Altar",
+      "url": "https://open.spotify.com/track/0GSEIffBQyILlI6FPzn6G0"
     },
     {
       "added_at": null,
@@ -555,26 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAWN PATROL",
-        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
-      },
-      "artists": [
-        {
-          "name": "PARTY WAVE",
-          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 125952,
-      "name": "SOULSHINE",
-      "url": "https://open.spotify.com/track/0fvskLBakfqcslW0RkB5JT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE JESUS GENERATION",
         "url": "https://open.spotify.com/album/3aECJcdowUXQabxMNvCwkg"
       },
@@ -591,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+        "name": "DAWN PATROL",
+        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
       },
       "artists": [
+        {
+          "name": "PARTY WAVE",
+          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
+        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 179013,
-      "name": "BEAUTIFUL AS YOU",
-      "url": "https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3"
+      "duration_ms": 125952,
+      "name": "SOULSHINE",
+      "url": "https://open.spotify.com/track/0fvskLBakfqcslW0RkB5JT"
     },
     {
       "added_at": null,
@@ -627,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAWN PATROL",
-        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
       },
       "artists": [
-        {
-          "name": "PARTY WAVE",
-          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
-        },
         {
           "name": "Forrest Frank",
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 154070,
-      "name": "BREAK OF DAWN",
-      "url": "https://open.spotify.com/track/5TpIzyD4RN5r8i8LiFAQtE"
+      "duration_ms": 179013,
+      "name": "BEAUTIFUL AS YOU",
+      "url": "https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3"
     },
     {
       "added_at": null,
@@ -659,6 +639,26 @@
       "duration_ms": 236765,
       "name": "Jesus Paid It All (Worthy of The Price)",
       "url": "https://open.spotify.com/track/6TE0IntS8MrOKlKdIUvjST"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAWN PATROL",
+        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
+      },
+      "artists": [
+        {
+          "name": "PARTY WAVE",
+          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 154070,
+      "name": "BREAK OF DAWN",
+      "url": "https://open.spotify.com/track/5TpIzyD4RN5r8i8LiFAQtE"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAWN PATROL",
-        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
-      },
-      "artists": [
-        {
-          "name": "PARTY WAVE",
-          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 185268,
-      "name": "YAHWEH",
-      "url": "https://open.spotify.com/track/1OVbFAwbXXPKKMlLq8tKbW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE ROCK",
         "url": "https://open.spotify.com/album/3Sl6E162SNTBOZymtjRTKD"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 168058,
       "name": "THE ROCK",
       "url": "https://open.spotify.com/track/62MEz6nR7fEtrUVwGLLNxq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAWN PATROL",
+        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
+      },
+      "artists": [
+        {
+          "name": "PARTY WAVE",
+          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 185268,
+      "name": "YAHWEH",
+      "url": "https://open.spotify.com/track/1OVbFAwbXXPKKMlLq8tKbW"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DAWN PATROL",
-        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
-      },
-      "artists": [
-        {
-          "name": "PARTY WAVE",
-          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
-        },
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 169167,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/5PssXGdxHPpfRL9yoJEk9A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CHILD OF GOD (DELUXE)",
         "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 152750,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/6EAuqHM3lqLmiqqHAiF9Qq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DAWN PATROL",
+        "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
+      },
+      "artists": [
+        {
+          "name": "PARTY WAVE",
+          "url": "https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB"
+        },
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 169167,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/5PssXGdxHPpfRL9yoJEk9A"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CHILD OF GOD II (BACK TO BACK)",
+        "url": "https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 164754,
+      "name": "THROUGH THE NIGHT",
+      "url": "https://open.spotify.com/track/7wxU8ucEqL7Mtf8IBjXdmE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DAWN PATROL",
         "url": "https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 192027,
       "name": "JUNE GLOOM",
       "url": "https://open.spotify.com/track/6gIgB4sGliVmisT36yiST7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD II (BACK TO BACK)",
-        "url": "https://open.spotify.com/album/49wdSgGW3XbsRnl8x9VCLI"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 164754,
-      "name": "THROUGH THE NIGHT",
-      "url": "https://open.spotify.com/track/7wxU8ucEqL7Mtf8IBjXdmE"
     },
     {
       "added_at": null,

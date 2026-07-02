@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Shekhar Ravjiani, Paresh Pahuja, Akhil Sachdeva and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,945 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,972 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mainu Ki Pata](https://open.spotify.com/track/1A9fAmJca9d0HlN39iwY4h) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Mainu Ki Pata](https://open.spotify.com/album/1DOe8ovWwYeiUUhpLWC1lx) | 3:30 |
 | 2 | [Kitni Dafaa](https://open.spotify.com/track/55X7yrhGv7sJ3oWG3GlGl3) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN) | [Kitni Dafaa](https://open.spotify.com/album/2cxPsVBemetB72EIBg5bqg) | 6:24 |
 | 3 | [Tu Mileya](https://open.spotify.com/track/5aVRmW3nY4rOeRojw4h6jQ) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Tu Mileya](https://open.spotify.com/album/2qG7b9E3cDSSncXO5nfjWC) | 3:09 |
-| 4 | [Saadgi](https://open.spotify.com/track/79U7rOCKRIRE2p4G5A2phe) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Raees](https://open.spotify.com/artist/3vZmPeQjoHJ8v2TS5TabSX), [Zain \- Sam](https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL), [Vikki Nagar](https://open.spotify.com/artist/5tRdHbZDFNFrgX9ovVVivs) | [Saadgi](https://open.spotify.com/album/0exm7XO6qOjaoMe1t0QW8v) | 4:45 |
+| 4 | [Saadgi](https://open.spotify.com/track/79U7rOCKRIRE2p4G5A2phe) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Raees](https://open.spotify.com/artist/2NPV58Ztr7op5OMfqVy3I6), [Zain \- Sam](https://open.spotify.com/artist/0Zj3IsE2VmUjbL70EQKXHL), [Vikki Nagar](https://open.spotify.com/artist/5tRdHbZDFNFrgX9ovVVivs) | [Saadgi](https://open.spotify.com/album/0exm7XO6qOjaoMe1t0QW8v) | 4:45 |
 | 5 | [Mehek Ne Lage Hain](https://open.spotify.com/track/0SCsnnh2uDMD4HzpKLx3fT) | [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw) | [Mehek Ne Lage Hain](https://open.spotify.com/album/5CmD6Vm7JOqGELaZaPKGst) | 3:38 |
 | 6 | [Teri Umeed \- Aaj Bhi](https://open.spotify.com/track/5pE1cy4IXmXlQWvxD94iLs) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Yasser Desai](https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM) | [Teri Umeed \- Aaj Bhi](https://open.spotify.com/album/7rlczJVWYyETpEPug2YKKi) | 3:59 |
 | 7 | [Mohabbat Kisi Aur Se](https://open.spotify.com/track/5UDqd1spTXBqEai60mjyGK) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Eemaan](https://open.spotify.com/artist/5LolCWDYhmwWp7mfmbF4XX), [NYC](https://open.spotify.com/artist/31DxK9cElnsZ1wUFyY0cPG) | [Mohabbat Kisi Aur Se](https://open.spotify.com/album/6PQlFEjN7wU9Yyj8NXghRI) | 3:06 |

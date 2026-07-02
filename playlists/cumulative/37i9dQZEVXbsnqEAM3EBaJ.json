@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 264672,
       "name": "A Gentle Pause",
       "url": "https://open.spotify.com/track/7e0HdGBMVFYxJdW1pmfwWZ"
@@ -1966,6 +1966,36 @@
       "duration_ms": 223000,
       "name": "A Waltz",
       "url": "https://open.spotify.com/track/12NyC360WQb7BPQIrC2mqN"
+    },
+    {
+      "album": {
+        "name": "Morning Relaxing Music",
+        "url": "https://open.spotify.com/album/7qAQY4xDLVjGK9K9YtbZKp"
+      },
+      "artists": [
+        {
+          "name": "DVE",
+          "url": "https://open.spotify.com/artist/5mEsO7hgZjoJ8Wc6pIopHo"
+        },
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198480,
+      "name": "A Waltz for Forgotten Dreams",
+      "url": "https://open.spotify.com/track/6WMMuKgug9ucbDHulMD3Lc"
     },
     {
       "album": {
@@ -3150,7 +3180,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Alejandra",
       "url": "https://open.spotify.com/track/3dGkOQk5Ac81hpd03M7egy"
@@ -17820,7 +17850,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 184000,
       "name": "En puntillas tras de ti",
       "url": "https://open.spotify.com/track/1W5rVxwo98IrgCMa7Mmb41"

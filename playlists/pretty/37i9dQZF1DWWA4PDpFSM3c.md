@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 
 > Mellow down the mood with these Telugu tracks<br/>Cover: Dear Comrade
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,657 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,692 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA4PDpFSM3c.md) - [plain]
 | 42 | [Choosi Chudangane](https://open.spotify.com/track/0fYTkcBMtjtP4hzoOxGgSF) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om), [Mahati Swara Sagar](https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd) | [Chalo](https://open.spotify.com/album/4OM6femr6U4dYJwxByQMKX) | 3:22 |
 | 43 | [Yenti Yenti](https://open.spotify.com/track/37LmFlPnpsBISJjNvqbUkT) | [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Geetha Govindam](https://open.spotify.com/album/4X8f6Xj3EHnv6haTEByM3X) | 3:19 |
 | 44 | [Vellipomaake](https://open.spotify.com/track/6z15tFRtCyiSorSGaKLJeu) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj) | [Saahasam Swaasaga Saagipo](https://open.spotify.com/album/4Y48mLFqW5aJ7LRoUUMx6J) | 4:21 |
-| 45 | [Preminche Premava](https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Naresh Ayar](https://open.spotify.com/artist/1khqNmFNMQ1SME1rAV4ZCl) | [Nuvvu Nenu Prema](https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP) | 5:54 |
-| 46 | [Evare](https://open.spotify.com/track/1NXSmIEOulY9u4TxwuSUoe) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Premam](https://open.spotify.com/album/5qmlAvprLWH32VE6oi2Wpe) | 5:09 |
-| 47 | [Chandrullo Unde](https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Nuvvostanante Nenoddantana](https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO) | 4:15 |
-| 48 | [Ela Ela Naalo](https://open.spotify.com/track/5RJb4ZBgdJBOZe5Fx2aDWo) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Swetha](https://open.spotify.com/artist/4LxLLrO6bFofvfXOcujJRv) | [Panjaa](https://open.spotify.com/album/1yc1PhFxmSKD1tZtCWQirO) | 5:05 |
+| 45 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
+| 46 | [Preminche Premava](https://open.spotify.com/track/1FtRJTH2uCemK3N2qUOb3U) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Naresh Ayar](https://open.spotify.com/artist/1khqNmFNMQ1SME1rAV4ZCl) | [Nuvvu Nenu Prema](https://open.spotify.com/album/7wzrO24y9VOsAd5P4FjdxP) | 5:54 |
+| 47 | [Evare](https://open.spotify.com/track/1NXSmIEOulY9u4TxwuSUoe) | [Vijay Yesudas](https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA) | [Premam](https://open.spotify.com/album/5qmlAvprLWH32VE6oi2Wpe) | 5:09 |
+| 48 | [Chandrullo Unde](https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Nuvvostanante Nenoddantana](https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO) | 4:15 |
 | 49 | [Mella Mellagaa](https://open.spotify.com/track/4vX7VKZYx1wGAq5DKBTfAF) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6) | [ABCD \- American Born Confused Desi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19kRwbWwLuNJduIg7G7mnt) | 4:03 |
-| 50 | [Neeve](https://open.spotify.com/track/5NObORkzAytZ9tmAyGXaRP) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Neeve](https://open.spotify.com/album/2m9VqOtsGbywuyl4QXp32V) | 5:07 |
+| 50 | [Ela Ela Naalo](https://open.spotify.com/track/5RJb4ZBgdJBOZe5Fx2aDWo) | [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Swetha](https://open.spotify.com/artist/4LxLLrO6bFofvfXOcujJRv) | [Panjaa](https://open.spotify.com/album/1yc1PhFxmSKD1tZtCWQirO) | 5:05 |
 
 Snapshot ID: `AAAAAC1KGddQMgCRXoqrTsIphHXwyiQS`

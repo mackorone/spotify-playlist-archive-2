@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,911 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,952 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 16 | [Te Amar É Meu Talento \- Ao Vivo](https://open.spotify.com/track/2qG8U0e7uBqwu5vlV1oKNf) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8) | [Sertanejo Respira \(Ao Vivo Em Goiânia\)](https://open.spotify.com/album/0p6IyKCVANLx7knOPSvw2P) | 2:43 |
 | 17 | [Eu Te Esperarei](https://open.spotify.com/track/5ICt8bhdL84T9qYZnp05ze) | [Toca Aquela](https://open.spotify.com/artist/77HrIL9YZ1VR6Uvf3WGHE7), [Thauane](https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V), [Breno Major](https://open.spotify.com/artist/53cEbokP6S7cahtXPXvQ5c), [Som de Faculdade](https://open.spotify.com/artist/4Ucv2hBE3WtFc1gScBt29n) | [Toca Aquela2.0](https://open.spotify.com/album/0Z47P8o8tMVSFmfnB2gk3m) | 3:35 |
 | 18 | [Carnívoro](https://open.spotify.com/track/65aH3l8LEmRp3HuH5XpKoH) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Mc Negão Original](https://open.spotify.com/artist/4LHTgACY32k94VDjenF0nP), [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6) | [Carnívoro](https://open.spotify.com/album/1Wytj2S8Of5HMUmOJN1ULa) | 3:36 |
-| 19 | [Me Fala Qual Necessidade \- Ao Vivo](https://open.spotify.com/track/42AIPMFY5Plqxr4Mw6Bhx9) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Paralelos Vol\. 02](https://open.spotify.com/album/1i6thmVWAz7Q9CMBSIWim5) | 2:28 |
+| 19 | [Me Fala Qual Necessidade \- Ao Vivo](https://open.spotify.com/track/10a26720hpdHY8JVsHrrdQ) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Paralelos \(Ao Vivo\)](https://open.spotify.com/album/2rRbdZp33TwMs4kyZ6nFkd) | 2:28 |
 | 20 | [Não Mexe nas Minhas Gavetas \- Ao Vivo](https://open.spotify.com/track/1CqUGmt2Cyn2vvvAyQKJZQ) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Aliança \- Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/5GAdbWrj64YwrmUh1HJtfE) | 2:06 |
 | 21 | [Posso Até Não Te Dar Flores](https://open.spotify.com/track/4tYCyoSpv0Ujpfwcneb02l) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Posso Até Não Te Dar Flores](https://open.spotify.com/album/33n7tqtuoOf2t3ENdixO7B) | 2:42 |
 | 22 | [SWIM](https://open.spotify.com/track/68lbSrXDORS51pmyjZv712) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [AH, JESUS / CORAÇÃO IGUAL AO TEU](https://open.spotify.com/track/2wwEjucN8zj8MuZ7ZYoxiH) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [AH, JESUS / CORAÇÃO IGUAL AO TEU](https://open.spotify.com/album/2aGOhhN8UDFyHz8XpHKaRd) | 12:27 |
 | 50 | [ME POSTOU NO DAILY \- FESTA DO BIG G](https://open.spotify.com/track/4ukpXdplqDEMk3Fy2i30oI) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9), [Dj Andrabeat](https://open.spotify.com/artist/1Zg9Zp2NMNIBUiazqAHr1C) | [MIXTAPE \- BIG G](https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3) | 2:57 |
 
-Snapshot ID: `Mdc82AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MdiJqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

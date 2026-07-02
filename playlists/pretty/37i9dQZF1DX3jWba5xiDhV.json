@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 412419,
+  "num_followers": 412637,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-06-29 14:26:33",
       "album": {
+        "name": "Springtime (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4hgg8gdEBl7TrwpjpGxli2"
+      },
+      "artists": [
+        {
+          "name": "P. Lion",
+          "url": "https://open.spotify.com/artist/3C4Ma6ujXcpDtisnx6RASG"
+        }
+      ],
+      "duration_ms": 358960,
+      "name": "Happy Children",
+      "url": "https://open.spotify.com/track/2pv4osNldxcOvAGSjeNJVw"
+    },
+    {
+      "added_at": "2026-06-29 14:26:33",
+      "album": {
         "name": "Mediterranea (Dumar Remix)",
         "url": "https://open.spotify.com/album/6VogMpM26iauNOiyWvLSf4"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 184672,
       "name": "Mediterranea - Dumar Remix",
       "url": "https://open.spotify.com/track/61mjD3RK2LsWRvsi3WgRVx"
-    },
-    {
-      "added_at": "2026-06-29 14:26:33",
-      "album": {
-        "name": "Springtime (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4hgg8gdEBl7TrwpjpGxli2"
-      },
-      "artists": [
-        {
-          "name": "P. Lion",
-          "url": "https://open.spotify.com/artist/3C4Ma6ujXcpDtisnx6RASG"
-        }
-      ],
-      "duration_ms": 358960,
-      "name": "Happy Children",
-      "url": "https://open.spotify.com/track/2pv4osNldxcOvAGSjeNJVw"
     },
     {
       "added_at": "2026-06-29 14:26:33",
@@ -751,18 +751,18 @@
     {
       "added_at": "2026-06-29 14:26:33",
       "album": {
-        "name": "The Division",
-        "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
+        "name": "The Singles 83/87",
+        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
       },
       "artists": [
         {
-          "name": "Krystal Klear",
-          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
         }
       ],
-      "duration_ms": 396435,
-      "name": "Neutron Dance",
-      "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
+      "duration_ms": 200782,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/27Mvfc9nYszQDF6S84J39D"
     },
     {
       "added_at": "2026-06-29 14:26:33",
@@ -803,18 +803,18 @@
     {
       "added_at": "2026-06-29 14:26:33",
       "album": {
-        "name": "The Singles 83/87",
-        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
+        "name": "The Division",
+        "url": "https://open.spotify.com/album/5F0AZDt29jRBR1PktMX5PV"
       },
       "artists": [
         {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+          "name": "Krystal Klear",
+          "url": "https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI"
         }
       ],
-      "duration_ms": 200782,
-      "name": "No Tengo Dinero",
-      "url": "https://open.spotify.com/track/27Mvfc9nYszQDF6S84J39D"
+      "duration_ms": 396435,
+      "name": "Neutron Dance",
+      "url": "https://open.spotify.com/track/2dxiLe0Pq6pG058eYMbrn7"
     },
     {
       "added_at": "2026-06-29 14:26:33",
@@ -1119,46 +1119,6 @@
     {
       "added_at": "2026-06-29 14:26:33",
       "album": {
-        "name": "Babylon, baby",
-        "url": "https://open.spotify.com/album/7e791Xxbe2X0igt1okm20T"
-      },
-      "artists": [
-        {
-          "name": "Protopapa",
-          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
-        },
-        {
-          "name": "Hey Cabrera!",
-          "url": "https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf"
-        },
-        {
-          "name": "Gr\u00e9goire Tine",
-          "url": "https://open.spotify.com/artist/1B9hG7Ts0USXnTr2n9UuWO"
-        }
-      ],
-      "duration_ms": 207738,
-      "name": "Babylon, baby",
-      "url": "https://open.spotify.com/track/6AcOGAvI3FX4Icq7BWINrO"
-    },
-    {
-      "added_at": "2026-06-29 14:26:33",
-      "album": {
-        "name": "Discamore",
-        "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
-      },
-      "artists": [
-        {
-          "name": "Dov'\u00e8 Liana",
-          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Discamore",
-      "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
-    },
-    {
-      "added_at": "2026-06-29 14:26:33",
-      "album": {
         "name": "La vita nuova (Remixes)",
         "url": "https://open.spotify.com/album/0niVkAtTbU8eq1zpy3HzcT"
       },
@@ -1183,6 +1143,46 @@
       "duration_ms": 385296,
       "name": "La vita nuova - Daniele Baldelli & Marco Dionigi Remix",
       "url": "https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO"
+    },
+    {
+      "added_at": "2026-06-29 14:26:33",
+      "album": {
+        "name": "Discamore",
+        "url": "https://open.spotify.com/album/7MrTy86ZjbVidUkrwAcHiU"
+      },
+      "artists": [
+        {
+          "name": "Dov'\u00e8 Liana",
+          "url": "https://open.spotify.com/artist/0iZfB56PLEsG9T03C2hjhK"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Discamore",
+      "url": "https://open.spotify.com/track/6Kviwj20NGF2KQQ2Jke1cB"
+    },
+    {
+      "added_at": "2026-06-29 14:26:33",
+      "album": {
+        "name": "Babylon, baby",
+        "url": "https://open.spotify.com/album/7e791Xxbe2X0igt1okm20T"
+      },
+      "artists": [
+        {
+          "name": "Protopapa",
+          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
+        },
+        {
+          "name": "Hey Cabrera!",
+          "url": "https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf"
+        },
+        {
+          "name": "Gr\u00e9goire Tine",
+          "url": "https://open.spotify.com/artist/1B9hG7Ts0USXnTr2n9UuWO"
+        }
+      ],
+      "duration_ms": 207738,
+      "name": "Babylon, baby",
+      "url": "https://open.spotify.com/track/6AcOGAvI3FX4Icq7BWINrO"
     },
     {
       "added_at": "2026-06-29 14:26:33",

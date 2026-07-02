@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 289 songs - 18 hr 31 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 290 songs - 18 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -297,5 +297,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 287 | [Tunnels In The Air](https://open.spotify.com/track/5tGKnLXNqYedC7YGoWpLVz) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Time](https://open.spotify.com/album/2p8VeG5r2aadenxHViCibr) | 3:24 |
 | 288 | [Who Knew My Luck Would Change](https://open.spotify.com/track/0VZd335N0WXijaRPorVpIj) | [Consequence](https://open.spotify.com/artist/5KkgZ31b9eDwkvo9oMIrSm) | [Don't Quit Your Day Job](https://open.spotify.com/album/37dKTmpuFAV0n0A5THoliS) | 5:16 |
 | 289 | [Lucy Pearl's Way](https://open.spotify.com/track/6yHi0vuRfBZb0aOqjU5L1D) | [Lucy Pearl](https://open.spotify.com/artist/0OUXTnqjvTg4iZ7Lhq6vv7) | [Lucy Pearl](https://open.spotify.com/album/5cT0D5QzJo8coTaeT4OynR) | 2:52 |
+| 290 | [King James](https://open.spotify.com/track/5ri4b7YQp2PWn8tl3MRYgE) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:17 |
 
-Snapshot ID: `AAAghXKgQVgdn6gYbKvGeqGqFZB+kmW9`
+Snapshot ID: `AAAghkHNrWyrPMKni9sQz8VZn8Y2Wrmj`

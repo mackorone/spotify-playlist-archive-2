@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Gowry Lekshmi
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,700 likes - 57 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,788 likes - 57 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

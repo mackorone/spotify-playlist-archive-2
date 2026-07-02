@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,979 likes - 75 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,991 likes - 75 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 26 | [Shepard's Tone](https://open.spotify.com/track/2PfHWYV43Tq5M2PDw2qb0Z) | [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [UH HUH](https://open.spotify.com/album/4aPPJwiVbH0knXTH2yxOAP) | 7:01 |
 | 27 | [Those Nights](https://open.spotify.com/track/49RCvoTkANUWGfkz2ANApW) | [Angelos](https://open.spotify.com/artist/2zagWFWxFhQg3OvUmnnliq) | [Those Nights](https://open.spotify.com/album/1ePtsdsC6fcqCb9mmxrLuo) | 4:30 |
 | 28 | [Trippy Yeah](https://open.spotify.com/track/1CM0kiqrtCSHClFjTccTOb) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Trippy Yeah](https://open.spotify.com/album/2kcnbaQIOOEz7zb5yWhVp3) | 3:58 |
-| 29 | [Better Than This \- Dorian Craft & Baron Remix](https://open.spotify.com/track/3zdf3SM4MLuEirljbZdYMV) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Dorian Craft](https://open.spotify.com/artist/6Le8YP9kxvtYRKGZNDR4Ip), [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3) | [Better Than This \(Dorian Craft & Baron Remix\)](https://open.spotify.com/album/34ghDY0AwF0mhsxobYNGej) | 3:44 |
+| 29 | [Better Than This \- Dorian Craft & Baron Remix](https://open.spotify.com/track/3zdf3SM4MLuEirljbZdYMV) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Iveta Mukuchyan](https://open.spotify.com/artist/3GnXDBHZvRstGw7FhcsFn8), [Dorian Craft](https://open.spotify.com/artist/6Le8YP9kxvtYRKGZNDR4Ip), [Baron \(FR\)](https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3) | [Better Than This \(Dorian Craft & Baron Remix\)](https://open.spotify.com/album/34ghDY0AwF0mhsxobYNGej) | 3:44 |
 | 30 | [Move \- Maz Remix](https://open.spotify.com/track/75D35hR59pQjCh5NAfAiIZ) | [Samm](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Ajna](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Move \(Maz Remix\)](https://open.spotify.com/album/0VkcmSvleL95VJm6J7Kg7W) | 4:30 |
 | 31 | [Reason](https://open.spotify.com/track/4mK3M3Xf9hUpsKtJsw4IJx) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Marieme](https://open.spotify.com/artist/4M9MGz93wIiFmEKhrw2yDD) | [Reason](https://open.spotify.com/album/38jheapqHZYrpPaceQP0qH) | 4:23 |
 | 32 | [Chanekeh \- Tayllor Remix](https://open.spotify.com/track/7I6KfP0PhVefcCQElEMgki) | [Capoon](https://open.spotify.com/artist/6aO0WPJPV318xBCEVSJ5td), [Tayllor](https://open.spotify.com/artist/0Z4yZfeuvWVBh1U6vNeYbD) | [Chanekeh](https://open.spotify.com/album/3Qd66Qsux22xSxeQYYAGvA) | 6:49 |

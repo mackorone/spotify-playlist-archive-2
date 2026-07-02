@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: Five Finger Death Punch
 
-984 songs - 2 day 7 hr 48 min
+985 songs - 2 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,6 +485,7 @@
 | [Karmageddon](https://open.spotify.com/track/2ucKr6wYbk1TZ8pZXE01Me) | [Alexodus](https://open.spotify.com/artist/59ToZ5aOmsYGbFEVuOzpM8) | [Karmageddon](https://open.spotify.com/album/4gvSouBfSAxN4wWqsCJAWK) | 3:18 | 2025-08-07 | 2025-08-15 |
 | [Kerosene](https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Kerosene](https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm) | 3:26 | 2026-03-05 |  |
 | [Key Entity Extraction IX \- Shiloh The Selfish](https://open.spotify.com/track/1PSrwEaQGXOBjpZ0ul46y6) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Father of Make Believe \(New Entities Edition\)](https://open.spotify.com/album/7vHWOemZcXHOgBud2vsOEc) | 3:56 | 2025-10-02 | 2025-10-16 |
+| [Kid In A Candy Store](https://open.spotify.com/track/4PVg0EjwywuSYHm8MqCG5y) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Kid In A Candy Store](https://open.spotify.com/album/1rIgwnBWlFTwfMfsMMzHVq) | 4:08 | 2026-06-25 |  |
 | [Kill Me Fast](https://open.spotify.com/track/7C7riddHoIPSCW8rhwFSYc) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Kill Me Fast](https://open.spotify.com/album/4E6FXPPGQhdtBEHRyky87y) | 3:17 | 2025-07-24 | 2026-04-03 |
 | [KILLING ME](https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [KILLING ME](https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9) | 3:43 | 2024-10-03 | 2025-05-23 |
 | [Kilonova](https://open.spotify.com/track/6AQk9MuNAClIEeXiBxYKUs) | [Zeal & Ardor](https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y) | [GREIF](https://open.spotify.com/album/1chw1DFmefTueG1VbNVoGN) | 4:07 | 2024-08-22 | 2024-09-27 |

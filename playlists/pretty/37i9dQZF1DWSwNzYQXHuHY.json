@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12702,
+  "num_followers": 12710,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-06-29 08:22:20",
       "album": {
+        "name": "Don't Be",
+        "url": "https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Don't Be",
+      "url": "https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu"
+    },
+    {
+      "added_at": "2026-06-29 08:22:20",
+      "album": {
         "name": "Pit a Pat",
         "url": "https://open.spotify.com/album/2exNFaprmfRUKVofd0PNR4"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 212161,
       "name": "45.7cm (feat.OOHYO)",
       "url": "https://open.spotify.com/track/4h2fsF8dnXtqx4SNsF15KW"
-    },
-    {
-      "added_at": "2026-06-29 08:22:20",
-      "album": {
-        "name": "Don't Be",
-        "url": "https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Don't Be",
-      "url": "https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu"
     },
     {
       "added_at": "2026-06-29 08:22:20",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-06-29 08:22:20",
       "album": {
+        "name": "Love Frequency (Original Soundtrack from Just For Meeting You)",
+        "url": "https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l"
+      },
+      "artists": [
+        {
+          "name": "RESCENE",
+          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Love Frequency",
+      "url": "https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw"
+    },
+    {
+      "added_at": "2026-06-29 08:22:20",
+      "album": {
         "name": "One-way Love (Feat. h3hyeon)",
         "url": "https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 156976,
       "name": "One-way Love (Feat. h3hyeon)",
       "url": "https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn"
-    },
-    {
-      "added_at": "2026-06-29 08:22:20",
-      "album": {
-        "name": "Love Frequency (Original Soundtrack from Just For Meeting You)",
-        "url": "https://open.spotify.com/album/3cgYAtoLlt8nO7YdoEuY2l"
-      },
-      "artists": [
-        {
-          "name": "RESCENE",
-          "url": "https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Love Frequency",
-      "url": "https://open.spotify.com/track/0JpjJ135Rg9wIzl8FPB9Rw"
     },
     {
       "added_at": "2026-06-29 08:22:20",

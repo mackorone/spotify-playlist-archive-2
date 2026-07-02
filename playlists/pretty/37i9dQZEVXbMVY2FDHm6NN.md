@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,576 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,588 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [VIRAL](https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [HOME](https://open.spotify.com/album/1RfTiMJKewnui3lbTtCpad) | 3:18 |
 | 50 | [沒有人像我一樣 \(影集《欠妳的那場婚禮》主題曲\)](https://open.spotify.com/track/5ZIAawvVz8fr74vIk8wX6l) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [沒有人像我一樣](https://open.spotify.com/album/0w9hmnyO60we8SitkSA1Le) | 4:06 |
 
-Snapshot ID: `Mdc82AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MdiJqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

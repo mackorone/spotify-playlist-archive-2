@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 70338,
+  "num_followers": 70342,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akG1gAAAAABe5J+B9mbhW2r6Xu7AvGm8",
+  "snapshot_id": "akMHAAAAAADEs83WZqER1M99/jWre6os",
   "tracks": [
     {
       "added_at": null,
@@ -387,18 +387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 20 \u00c9xitos Con Banda",
-        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+        "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
+        "url": "https://open.spotify.com/album/4YdYOZk3r8RBMqCz06Xlqp"
       },
       "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 172640,
-      "name": "Ni Dada La Quiero",
-      "url": "https://open.spotify.com/track/30Z1LgCfQQCSgFwaRk3ziK"
+      "duration_ms": 232080,
+      "name": "Me Refiero A Ti - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
+      "url": "https://open.spotify.com/track/6OAADBaPSWt8q2hcXKhswm"
     },
     {
       "added_at": null,
@@ -427,22 +431,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La Cantina Vol. II (Live At Nuevo Le\u00f3n M\u00e9xico / 2009)",
-        "url": "https://open.spotify.com/album/4YdYOZk3r8RBMqCz06Xlqp"
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
       },
       "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 232080,
-      "name": "Me Refiero A Ti - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
-      "url": "https://open.spotify.com/track/6OAADBaPSWt8q2hcXKhswm"
+      "duration_ms": 172640,
+      "name": "Ni Dada La Quiero",
+      "url": "https://open.spotify.com/track/30Z1LgCfQQCSgFwaRk3ziK"
     },
     {
       "added_at": null,
@@ -584,17 +584,17 @@
           "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
-          "name": "Eliseo Robles",
-          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
+          "name": "Rosendo Cant\u00fa",
+          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
         },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 178938,
-      "name": "Sin Recompensa Ni Esperanza (En Vivo)",
-      "url": "https://open.spotify.com/track/0GsGXQ9E6jjlfs3FIn6F9h"
+      "duration_ms": 174290,
+      "name": "El Rog\u00f3n (En Vivo)",
+      "url": "https://open.spotify.com/track/7t1X9xoDduvrcaoOVallpV"
     },
     {
       "added_at": null,
@@ -668,17 +668,17 @@
           "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
         },
         {
-          "name": "Rosendo Cant\u00fa",
-          "url": "https://open.spotify.com/artist/1dtN7ORy44Zy1ku9rJBgJi"
+          "name": "Eliseo Robles",
+          "url": "https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y"
         },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 174290,
-      "name": "El Rog\u00f3n (En Vivo)",
-      "url": "https://open.spotify.com/track/7t1X9xoDduvrcaoOVallpV"
+      "duration_ms": 178938,
+      "name": "Sin Recompensa Ni Esperanza (En Vivo)",
+      "url": "https://open.spotify.com/track/0GsGXQ9E6jjlfs3FIn6F9h"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Rey de Mil Coronas",
-        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "A Punto de Marcharme",
-      "url": "https://open.spotify.com/track/1Jhjre6l1vse8MzyDodeSA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Hombre Que M\u00e1s Te Amo",
         "url": "https://open.spotify.com/album/4yMQaCuTxMGgLeiZ4qCkZE"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 181893,
       "name": "Necesito Odiarte",
       "url": "https://open.spotify.com/track/05YIjvdNTgrRV1RrPTJwzW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Rey de Mil Coronas",
+        "url": "https://open.spotify.com/album/4qKx9OnjDjkJbGO1XyuqLM"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "A Punto de Marcharme",
+      "url": "https://open.spotify.com/track/1Jhjre6l1vse8MzyDodeSA"
     },
     {
       "added_at": null,
@@ -783,30 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PALOMAZO NORTE\u00d1O VOL. 2 (EN VIVO DESDE EL DOMO CARE)",
-        "url": "https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3"
-      },
-      "artists": [
-        {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        },
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        }
-      ],
-      "duration_ms": 234827,
-      "name": "El Rey De Mil Coronas (EN VIVO DESDE EL DOMO CARE)",
-      "url": "https://open.spotify.com/track/2VdAtyS9bdUUfZYV0rePEw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Borrachera Perfecta El After (En Vivo)",
         "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
       },
@@ -827,6 +803,30 @@
       "duration_ms": 198976,
       "name": "El Preso De Nuevo Le\u00f3n (En Vivo)",
       "url": "https://open.spotify.com/track/07aqcZqOFB2YA1xfv9uny9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PALOMAZO NORTE\u00d1O VOL. 2 (EN VIVO DESDE EL DOMO CARE)",
+        "url": "https://open.spotify.com/album/5BeTB1Fl5lKcWO9NLiJVk3"
+      },
+      "artists": [
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "duration_ms": 234827,
+      "name": "El Rey De Mil Coronas (EN VIVO DESDE EL DOMO CARE)",
+      "url": "https://open.spotify.com/track/2VdAtyS9bdUUfZYV0rePEw"
     },
     {
       "added_at": null,
@@ -867,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Borrachera Perfecta El After (En Vivo)",
+        "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
+      },
+      "artists": [
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 188042,
+      "name": "Playa Sola (En Vivo)",
+      "url": "https://open.spotify.com/track/13N6PN6q0jGaj28zVgJzNw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Borrachera Perfecta (En Vivo)",
         "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
       },
@@ -887,26 +907,6 @@
       "duration_ms": 170352,
       "name": "Sabor De Enga\u00f1o (En Vivo)",
       "url": "https://open.spotify.com/track/61YdCCMDNcg4EE0nY8Pf0K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Borrachera Perfecta El After (En Vivo)",
-        "url": "https://open.spotify.com/album/4hU1W9aMMxszllqx0MrzTX"
-      },
-      "artists": [
-        {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 188042,
-      "name": "Playa Sola (En Vivo)",
-      "url": "https://open.spotify.com/track/13N6PN6q0jGaj28zVgJzNw"
     },
     {
       "added_at": null,
@@ -943,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Las M\u00e1s Pegadas",
+        "url": "https://open.spotify.com/album/4K8ULhFPmm29xp2FHc6igc"
+      },
+      "artists": [
+        {
+          "name": "Lalo Mora",
+          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
+        }
+      ],
+      "duration_ms": 168880,
+      "name": "Que Dios Me Perdone",
+      "url": "https://open.spotify.com/track/2dDH9Rb3uDPj15Zs68O8Q8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Norte\u00f1os De Coraz\u00f3n",
         "url": "https://open.spotify.com/album/2BXF9FpsGUA0wYQdnRWAap"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 192053,
       "name": "Regalo Caro",
       "url": "https://open.spotify.com/track/4n1DL6H5nOw8LV6QcDNoVO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Las M\u00e1s Pegadas",
-        "url": "https://open.spotify.com/album/4K8ULhFPmm29xp2FHc6igc"
-      },
-      "artists": [
-        {
-          "name": "Lalo Mora",
-          "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
-        }
-      ],
-      "duration_ms": 168880,
-      "name": "Que Dios Me Perdone",
-      "url": "https://open.spotify.com/track/2dDH9Rb3uDPj15Zs68O8Q8"
     }
   ],
   "unique_name": "This Is Lalo Mora",

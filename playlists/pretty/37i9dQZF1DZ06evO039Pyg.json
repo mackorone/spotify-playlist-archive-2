@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 336576,
+  "num_followers": 336623,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akG1gAAAAABxrXY1auifksldh0RWV9px",
+  "snapshot_id": "akMHAAAAAACfSsyyKzQqHp58tVkqSwqR",
   "tracks": [
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Like Dat",
-        "url": "https://open.spotify.com/album/6tFOjuF74joX0RHbimAZp3"
-      },
-      "artists": [
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 242085,
-      "name": "I Like Dat",
-      "url": "https://open.spotify.com/track/7KrlNS2VqiNNJ82RMQdxBn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moon Boy",
         "url": "https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 212878,
       "name": "Beautiful Lies",
       "url": "https://open.spotify.com/track/3BjwSq6phb60SOdTZw5pZY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Like Dat",
+        "url": "https://open.spotify.com/album/6tFOjuF74joX0RHbimAZp3"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 242085,
+      "name": "I Like Dat",
+      "url": "https://open.spotify.com/track/7KrlNS2VqiNNJ82RMQdxBn"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mind Of Mine (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
-      },
-      "artists": [
-        {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 212747,
-      "name": "wRoNg (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/7iCeaYJSEdGWeFNTAEqUzJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All Me (feat. Keyshia Cole)",
         "url": "https://open.spotify.com/album/2bxcNajPY3MT1I4LuGJCOX"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 178347,
       "name": "All Me (feat. Keyshia Cole)",
       "url": "https://open.spotify.com/track/3ucRKbRlikYHyoI17gfR0c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mind Of Mine (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5amj9zNeZ3B2EdpBgXrOZ0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 212747,
+      "name": "wRoNg (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/7iCeaYJSEdGWeFNTAEqUzJ"
     }
   ],
   "unique_name": "This Is Kehlani",

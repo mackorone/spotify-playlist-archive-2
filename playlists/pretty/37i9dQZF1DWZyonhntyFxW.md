@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > أقوى تراكات الهيب هوب في مصر\. الغلاف: مروان موسى
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,201 likes - 40 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,207 likes - 40 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [EL NAGHZA](https://open.spotify.com/track/01SBYMQIsFTaBdxcKTcHMF) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [EL NAGHZA](https://open.spotify.com/album/31AKqUeusiO2zZByfTrqws) | 4:24 |
+| 1 | [EL NAGHZA](https://open.spotify.com/track/01SBYMQIsFTaBdxcKTcHMF) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [EL NAGHZA](https://open.spotify.com/album/31AKqUeusiO2zZByfTrqws) | 4:21 |
 | 2 | [BABA](https://open.spotify.com/track/6DfufSrieDt7oDP7CbxtnZ) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Masr El Qadeema](https://open.spotify.com/album/6XMsjLJeaWPcKQkcHCu3ZL) | 2:54 |
 | 3 | [Saheb Mama](https://open.spotify.com/track/3fSjgQNEmdPml4KRR9HAL7) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6) | [Kalam Mkntsh Haaolo](https://open.spotify.com/album/4USiR6gaoLGwQkpKVcXYMU) | 3:17 |
 | 4 | [Ya Helwa Blil](https://open.spotify.com/track/2OFXqFqZciTrzpG4NMwH1S) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [Ya Helwa Blil](https://open.spotify.com/album/5CH3H6x9Hg4hxM8aCCZIqn) | 2:56 |

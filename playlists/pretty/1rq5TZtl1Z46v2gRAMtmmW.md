@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,905 likes - 60 songs - 3 hr 18 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,905 likes - 62 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 58 | [Macho](https://open.spotify.com/track/1lfrEfIqFx5uUrJInBub0n) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Macho](https://open.spotify.com/album/3UjAbo0BXxVm8YASitir9v) | 4:22 |
 | 59 | [Conspiracy](https://open.spotify.com/track/3nDoAQ4zaic4rCvTLnNISO) | [Saul Williams](https://open.spotify.com/artist/11K0HIZKfdB6ez0VhIgxPm), [Moor Mother](https://open.spotify.com/artist/4kANxfLenUobb7t5fHSrgA), [Gonjasufi](https://open.spotify.com/artist/6pdYN3jOHWteVALy9sKGEf) | [Conspiracy](https://open.spotify.com/album/7KgPv3FOzJlFGXk4tBrehJ) | 3:45 |
 | 60 | [Bedroom Eyes](https://open.spotify.com/track/3qOzschVOffCPjbac03qyB) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Bedroom Eyes](https://open.spotify.com/album/39WBNLBTWcHWdik02WZUy8) | 3:36 |
+| 61 | [Anotherwave](https://open.spotify.com/track/10WZEaaJ2MsKMgPJpxgaRO) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Anotherwave](https://open.spotify.com/album/4RUBLJUANaWzNZSJV7Xmox) | 4:06 |
+| 62 | [Do You Mind](https://open.spotify.com/track/7wP2y4niJpt6ddP7dYULMC) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Do You Mind](https://open.spotify.com/album/1xpJNh2AczS0XSKaf01uyJ) | 3:07 |
 
-Snapshot ID: `AAARtTcsVERMnnXDow2N9WUTO7wlADlj`
+Snapshot ID: `AAARt9oaUcmo+fz8iB6UoVwNFcnOE0Qa`

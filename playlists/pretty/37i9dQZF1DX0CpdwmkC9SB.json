@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2025.",
-  "num_followers": 244098,
+  "num_followers": 244095,
   "original_name": "Glastonbury 2025",
   "owner": {
     "name": "Spotify",
@@ -435,18 +435,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Tieduprightnow",
-        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
+        "name": "Portraits",
+        "url": "https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1"
       },
       "artists": [
         {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
         }
       ],
-      "duration_ms": 249956,
-      "name": "Tieduprightnow",
-      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
+      "duration_ms": 218357,
+      "name": "Midas",
+      "url": "https://open.spotify.com/track/6VNooTY5w9A9wg1YUsEbKB"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -467,22 +471,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Portraits",
-        "url": "https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1"
+        "name": "Tieduprightnow",
+        "url": "https://open.spotify.com/album/5v7PsESglCFeVcb7wNEWIW"
       },
       "artists": [
         {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "Holly Walker",
-          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
         }
       ],
-      "duration_ms": 218357,
-      "name": "Midas",
-      "url": "https://open.spotify.com/track/6VNooTY5w9A9wg1YUsEbKB"
+      "duration_ms": 249956,
+      "name": "Tieduprightnow",
+      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -679,22 +679,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Jealousy",
-        "url": "https://open.spotify.com/album/5KGIf82I9zVXvZSUMXnw5c"
-      },
-      "artists": [
-        {
-          "name": "RUBII",
-          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/0uU6wpqMrSe8SuIAJNIje9"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "The Fat of the Land",
         "url": "https://open.spotify.com/album/4fdgcEVMdJe0KVgupMNJAP"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 279800,
       "name": "Firestarter",
       "url": "https://open.spotify.com/track/79CUrU5o2KAVDTNm4x3eGU"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Jealousy",
+        "url": "https://open.spotify.com/album/5KGIf82I9zVXvZSUMXnw5c"
+      },
+      "artists": [
+        {
+          "name": "RUBII",
+          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
+        }
+      ],
+      "duration_ms": 173114,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/0uU6wpqMrSe8SuIAJNIje9"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "jazz is for ordinary people",
-        "url": "https://open.spotify.com/album/5itYNW6UW1VvJO7j9dRn2S"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "jazz is for ordinary people",
-      "url": "https://open.spotify.com/track/06SYfhYSo9iY3txHE6W9Dl"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Ta-Dah",
         "url": "https://open.spotify.com/album/4XtSI3PBZ0vDD9J6cNRcNX"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 288360,
       "name": "I Don't Feel Like Dancin'",
       "url": "https://open.spotify.com/track/1q9l6c8bAzqWcvO3DM6FsR"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "jazz is for ordinary people",
+        "url": "https://open.spotify.com/album/5itYNW6UW1VvJO7j9dRn2S"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "jazz is for ordinary people",
+      "url": "https://open.spotify.com/track/06SYfhYSo9iY3txHE6W9Dl"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Your New Morning Alarm",
-        "url": "https://open.spotify.com/album/2cIdUSLoAzsR8u8ZW1NMSL"
-      },
-      "artists": [
-        {
-          "name": "Marc Rebillet",
-          "url": "https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI"
-        }
-      ],
-      "duration_ms": 57746,
-      "name": "Your New Morning Alarm",
-      "url": "https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "It Won't Always Be Like This",
         "url": "https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu"
       },
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "On A Mission",
-        "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
+        "name": "Your New Morning Alarm",
+        "url": "https://open.spotify.com/album/2cIdUSLoAzsR8u8ZW1NMSL"
       },
       "artists": [
         {
-          "name": "Katy B",
-          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+          "name": "Marc Rebillet",
+          "url": "https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI"
         }
       ],
-      "duration_ms": 219120,
-      "name": "Katy on a Mission",
-      "url": "https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf"
+      "duration_ms": 57746,
+      "name": "Your New Morning Alarm",
+      "url": "https://open.spotify.com/track/7L1pVDaAATmhv0swJh1B56"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "On A Mission",
+        "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
+      },
+      "artists": [
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        }
+      ],
+      "duration_ms": 219120,
+      "name": "Katy on a Mission",
+      "url": "https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Nobody Is Not Loved",
         "url": "https://open.spotify.com/album/5ZSutAkOkxqNok6aFCqafk"
       },
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Feels So Good",
-        "url": "https://open.spotify.com/album/5Pa4jOcjb0PFX2EcqKitRO"
-      },
-      "artists": [
-        {
-          "name": "Arielle Free",
-          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
-        }
-      ],
-      "duration_ms": 219099,
-      "name": "Feels So Good",
-      "url": "https://open.spotify.com/track/6BNd2AGg8g0OuaSoNPxCn0"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Employment",
         "url": "https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 217706,
       "name": "Everyday I Love You Less And Less",
       "url": "https://open.spotify.com/track/5dvBeCMTzUNjyWIcuykzyh"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Feels So Good",
+        "url": "https://open.spotify.com/album/5Pa4jOcjb0PFX2EcqKitRO"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        }
+      ],
+      "duration_ms": 219099,
+      "name": "Feels So Good",
+      "url": "https://open.spotify.com/track/6BNd2AGg8g0OuaSoNPxCn0"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "s\u00f8n of dad (deluxe)",
+        "url": "https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe"
+      },
+      "artists": [
+        {
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+        }
+      ],
+      "duration_ms": 200720,
+      "name": "Year to Be Young 1994",
+      "url": "https://open.spotify.com/track/4zHap579Bjo01DMtsat8GH"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/2ctujff7VotoPkcd4AXXT8"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 302740,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/0aVrpFRLlrd5zVyPXWP3mS"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "s\u00f8n of dad (deluxe)",
-        "url": "https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe"
-      },
-      "artists": [
-        {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
-        }
-      ],
-      "duration_ms": 200720,
-      "name": "Year to Be Young 1994",
-      "url": "https://open.spotify.com/track/4zHap579Bjo01DMtsat8GH"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Falling For You",
+        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 235045,
+      "name": "Falling For You",
+      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Elements",
         "url": "https://open.spotify.com/album/10F2GXUHZjSzWpOcX0aoNR"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 313562,
       "name": "Touch",
       "url": "https://open.spotify.com/track/2jtlU6H5C9WFB0x72f6YGo"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Falling For You",
-        "url": "https://open.spotify.com/album/06IxEeX95EI0GlyfuuPqjS"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 235045,
-      "name": "Falling For You",
-      "url": "https://open.spotify.com/track/6KmjD9CaophLMXTCzKoLLZ"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "The Libertines",
-        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
-      },
-      "artists": [
-        {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
-        }
-      ],
-      "duration_ms": 203733,
-      "name": "Can't Stand Me Now",
-      "url": "https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Mirrors",
         "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 296360,
       "name": "These Things Will Come To Be",
       "url": "https://open.spotify.com/track/27cgqh0VRhVeM61ugTnorD"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "The Libertines",
+        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Can't Stand Me Now",
+      "url": "https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Promised Heights",
-        "url": "https://open.spotify.com/album/5MgSinqOBEYk9VFrtHU2bA"
-      },
-      "artists": [
-        {
-          "name": "Cymande",
-          "url": "https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG"
-        }
-      ],
-      "duration_ms": 251400,
-      "name": "Brothers On The Slide",
-      "url": "https://open.spotify.com/track/6OKDxL7flqg9Rv7CbHaxmz"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Midas",
         "url": "https://open.spotify.com/album/09kwvU6IzvXzqZhmIqjT2R"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 138640,
       "name": "Midas",
       "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Promised Heights",
+        "url": "https://open.spotify.com/album/5MgSinqOBEYk9VFrtHU2bA"
+      },
+      "artists": [
+        {
+          "name": "Cymande",
+          "url": "https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG"
+        }
+      ],
+      "duration_ms": 251400,
+      "name": "Brothers On The Slide",
+      "url": "https://open.spotify.com/track/6OKDxL7flqg9Rv7CbHaxmz"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2039,22 +2039,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "In For The Kill",
-        "url": "https://open.spotify.com/album/6LB0G71s0AubJUgXzCsKJt"
+        "name": "Opposites (Deluxe)",
+        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
       },
       "artists": [
         {
-          "name": "La Roux",
-          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
-        },
-        {
-          "name": "Skream",
-          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+          "name": "Biffy Clyro",
+          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
         }
       ],
-      "duration_ms": 305386,
-      "name": "In For The Kill - Skream's Let's Get Ravey Remix",
-      "url": "https://open.spotify.com/track/6RcByPoFlaUVAn2PnTxSVr"
+      "duration_ms": 237813,
+      "name": "Biblical",
+      "url": "https://open.spotify.com/track/5o1SyGe6l3EKbw0KiTQH2m"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2075,18 +2071,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Opposites (Deluxe)",
-        "url": "https://open.spotify.com/album/1mGPHj7IomG8gBUW3wRi8G"
+        "name": "In For The Kill",
+        "url": "https://open.spotify.com/album/6LB0G71s0AubJUgXzCsKJt"
       },
       "artists": [
         {
-          "name": "Biffy Clyro",
-          "url": "https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET"
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        },
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
         }
       ],
-      "duration_ms": 237813,
-      "name": "Biblical",
-      "url": "https://open.spotify.com/track/5o1SyGe6l3EKbw0KiTQH2m"
+      "duration_ms": 305386,
+      "name": "In For The Kill - Skream's Let's Get Ravey Remix",
+      "url": "https://open.spotify.com/track/6RcByPoFlaUVAn2PnTxSVr"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Islands",
-        "url": "https://open.spotify.com/album/17GC0y8Pi3RQflQtDD5LK0"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 279457,
-      "name": "Above the Clouds of Pompeii",
-      "url": "https://open.spotify.com/track/23CGl8LfaUfOOxP4b4mGas"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Incognito Rhythm",
         "url": "https://open.spotify.com/album/7t8oxzwG13zdupLmm0Cwix"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 222581,
       "name": "High Time",
       "url": "https://open.spotify.com/track/5vbiscUoWSVvHWnadnffu1"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Islands",
+        "url": "https://open.spotify.com/album/17GC0y8Pi3RQflQtDD5LK0"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        }
+      ],
+      "duration_ms": 279457,
+      "name": "Above the Clouds of Pompeii",
+      "url": "https://open.spotify.com/track/23CGl8LfaUfOOxP4b4mGas"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Peace Song",
+        "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 190784,
+      "name": "Peace Song",
+      "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "I Am A Bird Now",
         "url": "https://open.spotify.com/album/24Xm5zS2KvwojChzxLGdn9"
       },
@@ -2291,22 +2307,6 @@
       "duration_ms": 351893,
       "name": "Fistful Of Love",
       "url": "https://open.spotify.com/track/37YJOz90ri4sjyo4uyCLXA"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Peace Song",
-        "url": "https://open.spotify.com/album/3U4GdhvZRA0RBQVD6sxHwm"
-      },
-      "artists": [
-        {
-          "name": "Fat Dog",
-          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
-        }
-      ],
-      "duration_ms": 190784,
-      "name": "Peace Song",
-      "url": "https://open.spotify.com/track/2FPcTfECQrZviBAarAHv1f"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8"
-      },
-      "artists": [
-        {
-          "name": "Jacob Alon",
-          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
-        }
-      ],
-      "duration_ms": 272214,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "What They Say EP",
         "url": "https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 400115,
       "name": "What They Say",
       "url": "https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/1Uy1ll941yX4mbbqW7Kyn8"
+      },
+      "artists": [
+        {
+          "name": "Jacob Alon",
+          "url": "https://open.spotify.com/artist/6wef18QJfuh9f0C4v3TEVH"
+        }
+      ],
+      "duration_ms": 272214,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/17L0KdnNNbo0NJidlZCIRy"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Return",
-        "url": "https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0"
-      },
-      "artists": [
-        {
-          "name": "Katy J Pearson",
-          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
-        }
-      ],
-      "duration_ms": 196253,
-      "name": "Beautiful Soul",
-      "url": "https://open.spotify.com/track/6YSMslNGZJe23ZjCMXUOlx"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Producer 01",
         "url": "https://open.spotify.com/album/2YgeSuxQWw3NjUPYhjoTFl"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 394000,
       "name": "Atlantis (I Need You)",
       "url": "https://open.spotify.com/track/2527WUoKIauHY1tx5TCetu"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Return",
+        "url": "https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0"
+      },
+      "artists": [
+        {
+          "name": "Katy J Pearson",
+          "url": "https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ"
+        }
+      ],
+      "duration_ms": 196253,
+      "name": "Beautiful Soul",
+      "url": "https://open.spotify.com/track/6YSMslNGZJe23ZjCMXUOlx"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2791,18 +2791,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Bros",
-        "url": "https://open.spotify.com/album/2eLVc58BUrSlRAGYkauMTh"
+        "name": "Afrikan Alien",
+        "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
         }
       ],
-      "duration_ms": 216750,
-      "name": "Bros",
-      "url": "https://open.spotify.com/track/4McPoHVfn7qQptowbbPK23"
+      "duration_ms": 176000,
+      "name": "Belly",
+      "url": "https://open.spotify.com/track/7kgU2NMdgWnKMksqvgzPAb"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2839,34 +2839,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Afrikan Alien",
-        "url": "https://open.spotify.com/album/5eG18IPEzrhgGIkn1az3ct"
+        "name": "Bros",
+        "url": "https://open.spotify.com/album/2eLVc58BUrSlRAGYkauMTh"
       },
       "artists": [
         {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Belly",
-      "url": "https://open.spotify.com/track/7kgU2NMdgWnKMksqvgzPAb"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "NYP2",
-        "url": "https://open.spotify.com/album/2ht2sZY1IQC5ZOwINbRVjY"
-      },
-      "artists": [
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 427500,
-      "name": "NYP2",
-      "url": "https://open.spotify.com/track/2pNtIGopqr4wFDhpc9uAMC"
+      "duration_ms": 216750,
+      "name": "Bros",
+      "url": "https://open.spotify.com/track/4McPoHVfn7qQptowbbPK23"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2891,6 +2875,22 @@
       "duration_ms": 181620,
       "name": "Back In the Dayz",
       "url": "https://open.spotify.com/track/7Gfw0fTWsmPflnplixtkJ4"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "NYP2",
+        "url": "https://open.spotify.com/album/2ht2sZY1IQC5ZOwINbRVjY"
+      },
+      "artists": [
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 427500,
+      "name": "NYP2",
+      "url": "https://open.spotify.com/track/2pNtIGopqr4wFDhpc9uAMC"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3323,22 +3323,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Hot Lemonade",
-        "url": "https://open.spotify.com/album/6mRXvtaB8jr60se5fWVzWl"
-      },
-      "artists": [
-        {
-          "name": "A Guy Called Gerald",
-          "url": "https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU"
-        }
-      ],
-      "duration_ms": 267106,
-      "name": "Voodoo Ray",
-      "url": "https://open.spotify.com/track/3Zz3TYhGfZT6NFcw6cDObt"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Abyss",
         "url": "https://open.spotify.com/album/4u7B3DAWWTgROfynsq9Fnf"
       },
@@ -3367,6 +3351,22 @@
       "duration_ms": 203778,
       "name": "Sondiram\u00e1",
       "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Hot Lemonade",
+        "url": "https://open.spotify.com/album/6mRXvtaB8jr60se5fWVzWl"
+      },
+      "artists": [
+        {
+          "name": "A Guy Called Gerald",
+          "url": "https://open.spotify.com/artist/1TV0WTE9ukywcLGMh4j4iU"
+        }
+      ],
+      "duration_ms": 267106,
+      "name": "Voodoo Ray",
+      "url": "https://open.spotify.com/track/3Zz3TYhGfZT6NFcw6cDObt"
     }
   ],
   "unique_name": "Glastonbury 2025",

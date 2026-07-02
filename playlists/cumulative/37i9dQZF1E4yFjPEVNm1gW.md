@@ -4,7 +4,7 @@
 
 > With Yeat, Cuo Zay, Autumn! and more
 
-257 songs - 10 hr 11 min
+258 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [i want](https://open.spotify.com/track/1y1f64rhNHqhxHf4b6t3iO) | [yit](https://open.spotify.com/artist/5WEPWwmJRjDOub8mfEs08r), [M71KE](https://open.spotify.com/artist/12TuXufr9APcDNTQ1SsCYu) | [yit.mp3](https://open.spotify.com/album/0GQgKhXbtJ3jJ8DnwfxKXj) | 2:43 | 2026-02-01 | 2026-03-19 |
 | [I'm Okay](https://open.spotify.com/track/5MQByQHR2Jxv8AjgGHiu0L) | [4TUNAT](https://open.spotify.com/artist/7xQ6sIYtLwD4JjZVddw9Jl), [Mascey](https://open.spotify.com/artist/2leeJ9Oskse9ySvoRgIYiY) | [YARDMAN: DELUXE](https://open.spotify.com/album/79St16B0at9aFJU0ga3v1X) | 2:03 | 2026-04-14 | 2026-04-21 |
 | [IDK](https://open.spotify.com/track/1tdofYaObJtffeWsCFrg04) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [IDK](https://open.spotify.com/album/1s3Fi0Esr37lOvmigDbMkv) | 3:06 | 2025-12-24 | 2025-12-31 |
-| [imposter](https://open.spotify.com/track/14DqYafHROsQH834bFBVbt) | [boolymon](https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd) | [imposter](https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m) | 1:48 | 2025-11-29 |  |
+| [imposter](https://open.spotify.com/track/14DqYafHROsQH834bFBVbt) | [boolymon](https://open.spotify.com/artist/0T4s3xc50BkYsAvK2tV9cd) | [imposter](https://open.spotify.com/album/4ZSVleSwpCk6pzhBBiXP5m) | 1:48 | 2025-11-29 | 2026-07-02 |
 | [In the mix \(be here\)](https://open.spotify.com/track/3pmJTS65kQO7tORlc8dIxp) | [Saltyngget](https://open.spotify.com/artist/46GgJ6qHCR08sCvbJ1UJzy) | [In the mix \(be here\)](https://open.spotify.com/album/4RHKFFYmxxSvmtKBJ9izoY) | 5:09 | 2026-04-14 | 2026-05-07 |
 | [INDUSTRY PLANT](https://open.spotify.com/track/2Aao3bufeuxEa38YbFv4lU) | [K!no](https://open.spotify.com/artist/1dHcJc1Gq7dbyOm9cIiy81) | [INDUSTRY PLANT](https://open.spotify.com/album/5BNrO66yui2L7StgLrz4To) | 1:53 | 2025-11-29 | 2025-12-01 |
 | [Intervals](https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9) | [Łee](https://open.spotify.com/artist/0TiAJVuSZaqSOCWUtt9zuz) | [Intervals](https://open.spotify.com/album/1B1ox43mBzMXwSijn6E8GN) | 2:23 | 2026-01-15 |  |
@@ -122,7 +122,7 @@
 | [KARATE KICKIN](https://open.spotify.com/track/6Rg9jc60UmZLchTTPyzMk9) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [KARATE KICKIN](https://open.spotify.com/album/7mnbl6AKnr2DeyQ02nRi8P) | 1:54 | 2026-02-10 | 2026-02-17 |
 | [Karl Malone \(2nd Session\)](https://open.spotify.com/track/5qwtkIJSqZMrmmqXciVBDm) | [$t3PPA](https://open.spotify.com/artist/3YkoJWMGUpspkflqRt8xUU) | [Therapeutic Deluxe \(2nd Session\)](https://open.spotify.com/album/4RrFwR4RBdpchZbu34MwHn) | 1:44 | 2026-05-01 | 2026-05-22 |
 | [keep no glock](https://open.spotify.com/track/0dzGkFHENpNZIci76uHYJi) | [K\-SEE](https://open.spotify.com/artist/3Pa1wXxunsWmALJOnjbfbQ) | [keep no glock](https://open.spotify.com/album/20IEHOPAcmQp7MQcSxM1uN) | 1:46 | 2025-12-01 | 2025-12-20 |
-| [king of the pumpkin patch](https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Lil Shadow](https://open.spotify.com/artist/3Orvb4DLJrPOZpEfMwfsKf) | [thinking of you, wherever you are](https://open.spotify.com/album/35gtPnzUu1SUfM5BvCtoYB) | 3:09 | 2025-12-10 |  |
+| [king of the pumpkin patch](https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Lil Shadow](https://open.spotify.com/artist/3Orvb4DLJrPOZpEfMwfsKf) | [thinking of you, wherever you are](https://open.spotify.com/album/35gtPnzUu1SUfM5BvCtoYB) | 3:09 | 2025-12-10 | 2026-07-02 |
 | [kombucha](https://open.spotify.com/track/4JrovQ9zoSKkGGSojCJycx) | [Rob Apollo](https://open.spotify.com/artist/6yKhvpwLXw23Iy6jFr192V) | [kombucha](https://open.spotify.com/album/387rs95u8Re0cTBJNpNajz) | 2:08 | 2025-12-08 | 2025-12-22 |
 | [Ky’reemoo Irving](https://open.spotify.com/track/3DCMa648m8EHDPZwjxrWva) | [Reemo](https://open.spotify.com/artist/1ytfDr5Kx6uRKsHTD31OzE) | [Kyriemo Irving](https://open.spotify.com/album/399iVBAT5cROxGpbcFGxmK) | 2:18 | 2026-02-28 | 2026-03-26 |
 | [Leave the state](https://open.spotify.com/track/70Byrc1SrJQVUY8jQ6ertY) | [Shadstackzz](https://open.spotify.com/artist/4Iiocuqzvz9MHDLHcQw2Iu) | [BALL HOGGIN](https://open.spotify.com/album/0WEh8EymKnVVTE5il6m5bN) | 1:48 | 2025-12-21 |  |
@@ -154,7 +154,7 @@
 | [Never Theirs](https://open.spotify.com/track/3tImnBbcBQK6pE0G28VAg6) | [YFG Trap](https://open.spotify.com/artist/42MiKfvv8YFBf9SdijIlci) | [Okay, Wait...](https://open.spotify.com/album/6gOcbSfYL9qCPAmN2c9LaI) | 2:16 | 2025-12-01 | 2025-12-08 |
 | [Nightcore 2](https://open.spotify.com/track/6p1j9OP2IBdzR5tgtyJk10) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 3:02 | 2025-11-29 |  |
 | [nine](https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [3](https://open.spotify.com/album/67Zf5EYdu6qicDS1JhCXpJ) | 1:54 | 2026-02-05 | 2026-06-23 |
-| [No Blickout](https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [I Live, I Die, I Live Again \(Resurrected\)](https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2) | 2:40 | 2025-12-12 | 2026-06-30 |
+| [No Blickout](https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg) | [Chuckyy](https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h) | [I Live, I Die, I Live Again \(Resurrected\)](https://open.spotify.com/album/6JqKTBpbRpGZ9RMUlPCbM2) | 2:40 | 2025-12-12 |  |
 | [No Folding \(Bonus\)](https://open.spotify.com/track/5bOhFcWSkQfDRTNblpLicF) | [VazClare](https://open.spotify.com/artist/0nYdbzhczBc4XzpFdHOG75), [killfazos](https://open.spotify.com/artist/3gstM7z6Ou4hsmy3CTrJFj) | [ANTI](https://open.spotify.com/album/4LsamGhaJ4QVjy3z6t2snN) | 2:03 | 2026-05-09 | 2026-06-03 |
 | [No Luv](https://open.spotify.com/track/3DmSkzTtzNisgROnoIbw4I) | [Cuo Zay](https://open.spotify.com/artist/6yFzNwvuceOObkopessurR) | [No Luv](https://open.spotify.com/album/35HuNLOzxkWe7rtw8xu4Ur) | 2:17 | 2026-02-24 | 2026-03-20 |
 | [NO TRIP](https://open.spotify.com/track/1sfK2lF59BbYHCqFeyi8DL) | [LUHMADI](https://open.spotify.com/artist/1P5JM3MwarWSuWVLdLfqhT) | [NO TRIP](https://open.spotify.com/album/2OXjwgobVhuv6uuB3esA3p) | 1:49 | 2026-04-18 | 2026-05-06 |
@@ -233,6 +233,7 @@
 | [The Holy Plug](https://open.spotify.com/track/0XyCdtfL9A98Mu4w59zGtg) | [OJA](https://open.spotify.com/artist/6lTINIF6FaSVNDpsJgux3m) | [The Holy Plug](https://open.spotify.com/album/42QA3nwN5o0C9pjND3rq78) | 3:01 | 2026-05-29 | 2026-05-31 |
 | [THE SAME](https://open.spotify.com/track/4OQsPgm4pSgYUypIixYGV0) | [GoodFinesse](https://open.spotify.com/artist/0EAHtZWQM2YT88U4mZFKr8) | [Super Joint](https://open.spotify.com/album/31h0Caz0U8NQX6No7cstTz) | 3:04 | 2025-12-15 | 2025-12-26 |
 | [Thrax Playboi](https://open.spotify.com/track/1SRfrIUmHYaUcnTQMnfPB6) | [Pooch Papi](https://open.spotify.com/artist/19tkoOu748I4jGsKm6ma5I) | [Caterpillar Syndrome](https://open.spotify.com/album/2pVFvT67fCqqKJNKOWJbUU) | 3:54 | 2026-05-19 | 2026-06-30 |
+| [TIKIMAN](https://open.spotify.com/track/6K3rWD8XFBKEZRiUuVd4Mi) | [Oodaredevil](https://open.spotify.com/artist/1yj1u1EEoD0kmQuthHP6nf) | [TIKIMAN](https://open.spotify.com/album/0UvMICYwIXALgKzcLCFEKa) | 2:42 | 2026-07-02 |  |
 | [Time \(TopOppGen\)](https://open.spotify.com/track/5lMrHxIqCLdsudOL55c5b1) | [Gremlins Town](https://open.spotify.com/artist/5nLEGbgfJhoLR8q4OiUqaH) | [Time \(TopOppGen\)](https://open.spotify.com/album/6yYdwxE24hJAdBZm7a9OTZ) | 2:37 | 2026-03-23 | 2026-05-22 |
 | [Timing](https://open.spotify.com/track/4lYvUdBoCb9noVftU1IYHa) | [YTN Savvo](https://open.spotify.com/artist/4R2a8PfYkxkwNmu0JwJwXv) | [In My Element](https://open.spotify.com/album/3E5PptuEVqgDTGNJPsJtqk) | 2:50 | 2026-01-23 | 2026-01-25 |
 | [tinker](https://open.spotify.com/track/00c3RBneon5Py9uh2vytp1) | [Blackedy](https://open.spotify.com/artist/1KUAXExkHPbU9dtaqKwkK2), [Yeahitis](https://open.spotify.com/artist/3YPX8lFuokDe4HTZgkkiW5) | [tinker](https://open.spotify.com/album/0PzTmuHHOxLuBchuEjiNmf) | 1:56 | 2026-03-07 | 2026-03-10 |

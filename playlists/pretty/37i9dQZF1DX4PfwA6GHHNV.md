@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,289 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,292 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 24 | [Bonita & Gostosa](https://open.spotify.com/track/6NIAdQhoFLPNcd89DXf1wb) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [MUC4](https://open.spotify.com/artist/45tpYMlsyruhEpOVf6rE8M) | [Bandidas Também Falam de Amor](https://open.spotify.com/album/1WUl20Dstb0rJ0Z7fcNGwz) | 2:23 |
 | 25 | [Olé, Olé!](https://open.spotify.com/track/2Nt7cLUs1DuT6AckyYDK1B) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Olé, Olé!](https://open.spotify.com/album/1IsX7sfobRLBqRowRIuwOH) | 2:44 |
 | 26 | [Seu](https://open.spotify.com/track/3x86FsaHkvbrLIkguGACHn) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [ARꓘANO](https://open.spotify.com/album/6dehecfgOrOfZqIzzwDQxl) | 2:22 |
-| 27 | [Energy](https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk) | [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW), [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [Energy](https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr) | 3:08 |
-| 28 | [QUERO \(AI AI AI\)](https://open.spotify.com/track/6kFinaKmlxjlslZ1lVJ9U1) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Thifany Kauany](https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL) | [QUERO \(AI AI AI\)](https://open.spotify.com/album/36oAKD2fmUrRz4z6hcAhpx) | 2:12 |
+| 27 | [QUERO \(AI AI AI\)](https://open.spotify.com/track/6kFinaKmlxjlslZ1lVJ9U1) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Thifany Kauany](https://open.spotify.com/artist/7mvtn0JGTySq12EYXxyWuL) | [QUERO \(AI AI AI\)](https://open.spotify.com/album/36oAKD2fmUrRz4z6hcAhpx) | 2:12 |
+| 28 | [Energy](https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk) | [RDD](https://open.spotify.com/artist/216oo7IQawwGK6HKEK1JGW), [Anik Khan](https://open.spotify.com/artist/23bSD5t38m4d6k8jtlZGDa), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [Energy](https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr) | 3:08 |
 | 29 | [Te Amo](https://open.spotify.com/track/4OHE1G5oqOF40LPcbduw6P) | [Thaíde](https://open.spotify.com/artist/6aBCEjrlI6ylLy2DTHRyJe), [Fat Family](https://open.spotify.com/artist/41alNIXrgEbMoz7bBgA3h2), [DJ Maxnosbeatz](https://open.spotify.com/artist/4FMpb2dZnasTgrWwyKCQuN) | [Te Amo](https://open.spotify.com/album/7pDIW45Fh8ILGQ8lvxqYNH) | 2:56 |
 | 30 | [AYE O](https://open.spotify.com/track/2XiCGFrIxDm7PhOTCRbtm2) | [JOCA](https://open.spotify.com/artist/45SdbfTDVazlg3Ehph9UlT), [Jef Rodriguez](https://open.spotify.com/artist/2W964lXNPqsQoUu1xzEKNo), [Ludom](https://open.spotify.com/artist/48eDQufEItjoNyPgM9OqQ0), [Marcelo de Lamare](https://open.spotify.com/artist/5HSTeVObdf6RyoInM3EUzM), [C\-AFROBRASIL](https://open.spotify.com/artist/3iXFPpErmAcOgnrS9vrrQx), [Reurbana](https://open.spotify.com/artist/7t4IDmfgY82S8VQ6lAhlev) | [CORTAVENTO](https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF) | 3:50 |
 | 31 | [Pôkas](https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN) | [Amiri](https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p), [Deryck Cabrera](https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd) | [Pôkas / Mfalme](https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh) | 5:45 |

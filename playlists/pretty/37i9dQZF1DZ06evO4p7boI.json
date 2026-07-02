@@ -1,12 +1,12 @@
 {
   "description": "This is NAV. The essential tracks, all in one playlist.",
-  "num_followers": 96307,
+  "num_followers": 96303,
   "original_name": "This Is NAV",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akG1gAAAAABe42unfJ+pzGaFZNKOki+x",
+  "snapshot_id": "akMHAAAAAAC7TVudLBKgVDBgwvAuUyRr",
   "tracks": [
     {
       "added_at": null,
@@ -391,6 +391,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Stop Now",
+        "url": "https://open.spotify.com/album/030a4ObLC1PdluepsqarAM"
+      },
+      "artists": [
+        {
+          "name": "Gurinder Gill",
+          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/3IKpHWEZQ8pPp4PEsGuT28"
+        }
+      ],
+      "duration_ms": 189124,
+      "name": "Chosen Ones",
+      "url": "https://open.spotify.com/track/49jnvocDtzb8PETrMdv5u8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drip Harder",
         "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
       },
@@ -435,30 +459,6 @@
       "duration_ms": 160055,
       "name": "Fall Back (feat. NAV)",
       "url": "https://open.spotify.com/track/2P2t2ligxAF1B562FDYrDu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Stop Now",
-        "url": "https://open.spotify.com/album/030a4ObLC1PdluepsqarAM"
-      },
-      "artists": [
-        {
-          "name": "Gurinder Gill",
-          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Manu",
-          "url": "https://open.spotify.com/artist/3IKpHWEZQ8pPp4PEsGuT28"
-        }
-      ],
-      "duration_ms": 189124,
-      "name": "Chosen Ones",
-      "url": "https://open.spotify.com/track/49jnvocDtzb8PETrMdv5u8"
     },
     {
       "added_at": null,

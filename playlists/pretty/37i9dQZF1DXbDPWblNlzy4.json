@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Jarah.",
-  "num_followers": 68273,
+  "num_followers": 68272,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABo+j0nZsXFEFoN31DjeUI+ixOOP",
+  "snapshot_id": "AAAAAMtEGcFQ3A7AZMM/nDQiz8oVahTe",
   "tracks": [
     {
       "added_at": "2026-06-26 04:59:11",
@@ -75,6 +75,46 @@
       "duration_ms": 136615,
       "name": "TUTUTU",
       "url": "https://open.spotify.com/track/6Og7yuXfE5KyE8dSHU8yap"
+    },
+    {
+      "added_at": "2026-06-12 04:59:21",
+      "album": {
+        "name": "AS\u00cd DE RICO (Va uno a ver y ve Remizzz)",
+        "url": "https://open.spotify.com/album/3ffqJRB3AqcyRw3GrgYXys"
+      },
+      "artists": [
+        {
+          "name": "Emyl Rusev",
+          "url": "https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L"
+        },
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 140937,
+      "name": "As\u00ed de Rico (Va uno a ver y ve Remizzz)",
+      "url": "https://open.spotify.com/track/5Vv1JUpzsQYBQdRiRdi9EE"
+    },
+    {
+      "added_at": "2026-07-01 14:25:35",
+      "album": {
+        "name": "Caf\u00e9 Con Medialunas",
+        "url": "https://open.spotify.com/album/3r4w26NIb61UrQr43aOOWM"
+      },
+      "artists": [
+        {
+          "name": "Khappa",
+          "url": "https://open.spotify.com/artist/716e8qkglnLkQH9jt1itI1"
+        }
+      ],
+      "duration_ms": 138694,
+      "name": "Caf\u00e9 Con Medialunas",
+      "url": "https://open.spotify.com/track/5Qfpww6O3kRSC8ra1C2fio"
     },
     {
       "added_at": "2026-06-19 04:59:07",
@@ -169,6 +209,42 @@
       "url": "https://open.spotify.com/track/1cxiTnSdoLscxNU25iCPg5"
     },
     {
+      "added_at": "2026-07-01 14:25:35",
+      "album": {
+        "name": "PUERTA ABIERTA",
+        "url": "https://open.spotify.com/album/6WxZB5gxWmzRvKVzG2Pu9P"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 185728,
+      "name": "A La Ni\u00f1a Que Fui",
+      "url": "https://open.spotify.com/track/1QOIgb4mC4s5nYc6cWNWI0"
+    },
+    {
+      "added_at": "2026-07-01 14:25:35",
+      "album": {
+        "name": "Dicen",
+        "url": "https://open.spotify.com/album/0ayMIXPqh9Nm5oKKkHwFT0"
+      },
+      "artists": [
+        {
+          "name": "Sergio Sacoto",
+          "url": "https://open.spotify.com/artist/4M2tjM6G1E5vwUr4EsrkC0"
+        },
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "duration_ms": 221409,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/4nm4ewuYd2k2CD6SGWtLsX"
+    },
+    {
       "added_at": "2026-06-12 04:59:21",
       "album": {
         "name": "HAPPY \ud83e\udebd",
@@ -231,30 +307,6 @@
       "duration_ms": 159178,
       "name": "WhyWhyWhy",
       "url": "https://open.spotify.com/track/4MALb9gMN1MekUShLQZQFM"
-    },
-    {
-      "added_at": "2026-06-12 04:59:21",
-      "album": {
-        "name": "AS\u00cd DE RICO (Va uno a ver y ve Remizzz)",
-        "url": "https://open.spotify.com/album/3ffqJRB3AqcyRw3GrgYXys"
-      },
-      "artists": [
-        {
-          "name": "Emyl Rusev",
-          "url": "https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L"
-        },
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 140937,
-      "name": "As\u00ed de Rico (Va uno a ver y ve Remizzz)",
-      "url": "https://open.spotify.com/track/5Vv1JUpzsQYBQdRiRdi9EE"
     },
     {
       "added_at": "2026-03-26 18:25:59",

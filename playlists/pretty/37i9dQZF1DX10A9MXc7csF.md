@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Hermanos Espinoza 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,699 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,718 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 79 | [niña de CASA](https://open.spotify.com/track/5opUKcXwkwqbeMdMmrmnOu) | [EL DE LA TINTA](https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv), [Uriel AR](https://open.spotify.com/artist/1YqbztCgjTZ6GcrQ6cDI3K) | [niña de CASA](https://open.spotify.com/album/1JHFum8A3Frqnu42fs5caP) | 3:33 |
 | 80 | [Mi Todo Que Dar](https://open.spotify.com/track/10S72dKdPOOn7tWWUo4Mte) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [Mi Todo Que Dar](https://open.spotify.com/album/62J67rBV8L9rVZSLppm6aH) | 3:00 |
 
-Snapshot ID: `AAAAAEJ7nAAmKofkVzeLKyxWngFcW9wY`
+Snapshot ID: `AAAAAEgoPfcKQgbiOTnjNSaRitQ0z64/`

@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Boys Noize
 
-7,200 songs - 24 day 10 hr 24 min
+7,201 songs - 24 day 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7031,6 +7031,7 @@
 | [Without You](https://open.spotify.com/track/6ihfM5D7cXmzyvj22nQqwz) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Shari](https://open.spotify.com/artist/2pK7JRQbphcmD1hjf521oa) | [Evergreen](https://open.spotify.com/album/4OymE7ShgSXAkwgixlbvjv) | 4:25 | 2026-04-09 | 2026-04-24 |
 | [Without You](https://open.spotify.com/track/1jFMK43douMHq32LbdzhyE) | [Dilby](https://open.spotify.com/artist/7gOIcm4Mhn5wiKDUt7vY36) | [Without You](https://open.spotify.com/album/70B0OZ19V1oZnhwSqS021n) | 5:50 | 2025-02-20 | 2025-03-14 |
 | [Without You](https://open.spotify.com/track/6vSK0Slnmc3foldAiUu0Hs) | [Matt Nash](https://open.spotify.com/artist/0hxW1uZPEjt4wuu9wNDF2y) | [Without You](https://open.spotify.com/album/1C5x49gZQvSvMd6C14cQes) | 2:26 | 2023-07-14 | 2023-08-04 |
+| [Wo, man \- Edit](https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Wo, man \(Edit\)](https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax) | 3:20 | 2026-07-01 |  |
 | [Wobblemaker \- Original Mix](https://open.spotify.com/track/6XMcmdTbuLYFBLWUIW2S3L) | [Marc DePulse](https://open.spotify.com/artist/7dhJPaz7uYAPpQSBj1SPaN) | [Wobblemaker](https://open.spotify.com/album/4fnWqoQXoiBcHfTWzKYdBo) | 5:41 | 2025-10-16 | 2025-11-07 |
 | [Woe Misik](https://open.spotify.com/track/0kK4Up84ffNYBrmjjMFS3D) | [KEENE](https://open.spotify.com/artist/12zKDFluLKwTcXqOxcj9hS) | [Woe Misik](https://open.spotify.com/album/4L2QwRnQvj6m79glDv4OST) | 5:54 | 2023-02-17 | 2023-03-03 |
 | [Wolf](https://open.spotify.com/track/0MHVWtDog7jgL4zinfLohH) | [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72), [Shelley Segal](https://open.spotify.com/artist/3Is6CJbBt3YB6gDxnoNfiE) | [Wolf](https://open.spotify.com/album/5ApWVuuK9DZDBXVMbl0jUV) | 2:34 | 2024-04-11 | 2024-05-03 |

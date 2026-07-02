@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Hugo Tarres
 
-894 songs - 1 day 19 hr 36 min
+895 songs - 1 day 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -696,7 +696,7 @@
 | [STARLET](https://open.spotify.com/track/7fRaZXWjyVuJX9vkzGv0Dw) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [STARLET](https://open.spotify.com/album/7jG25C6PpgXzeZsXfyN47R) | 2:39 | 2026-04-02 | 2026-06-19 |
 | [start all over](https://open.spotify.com/track/6zTuzIwC6fLeDm35FFMJVv) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [start all over](https://open.spotify.com/album/6E3NYKusAj1XttDsSGQ5dW) | 3:25 | 2025-01-23 | 2025-02-07 |
 | [Steady](https://open.spotify.com/track/4PZQtsDTNlq5hFWmdBb5xh) | [Bella Kay](https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8) | [a couple minutes out](https://open.spotify.com/album/13sFSgU0S2NUdpv4BbLN0t) | 3:26 | 2026-03-26 | 2026-06-19 |
-| [STILL PRETTY WHEN I CRY](https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [STILL PRETTY WHEN I CRY](https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX) | 2:39 | 2026-05-07 |  |
+| [STILL PRETTY WHEN I CRY](https://open.spotify.com/track/4F4Z17gvi3kywNauM1ZU8h) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [STILL PRETTY WHEN I CRY](https://open.spotify.com/album/6BHzxy6GWL6m7oHB0UI6nX) | 2:39 | 2026-05-07 | 2026-07-02 |
 | [Stokrotka](https://open.spotify.com/track/4ANNjvHaj9mqFAMzKM74ax) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Stokrotka](https://open.spotify.com/album/0ld4GUV99xMkpYUlS2JaEm) | 1:55 | 2025-01-30 | 2025-03-28 |
 | [STOP!!](https://open.spotify.com/track/4EdYQ5Sn0lBtvAylTtuOgg) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [STOP!!](https://open.spotify.com/album/3rgJOTByI5gTZIPnAEY9RP) | 2:34 | 2024-06-28 | 2024-09-14 |
 | [STOP!!](https://open.spotify.com/track/4HtvzBMWNsQqnhpF0UwZhk) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Limbo](https://open.spotify.com/album/768x5fGCIUxHHKQJK4yUaE) | 2:34 | 2025-01-23 | 2025-03-02 |
@@ -716,6 +716,7 @@
 | [szept \(czy czujesz to samo co ja?\)](https://open.spotify.com/track/5QhYbChJjXrghDC27SKq5Z) | [noffkoffska](https://open.spotify.com/artist/6OjVJRevdfShgzdCMj7CYt) | [szept \(czy czujesz to samo co ja?\)](https://open.spotify.com/album/3RcOv7x1WcBvlrip58kEKF) | 1:49 | 2026-01-30 | 2026-02-11 |
 | [Szerokości!](https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8) | [Nita](https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi) | [Szerokości!](https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU) | 2:37 | 2026-04-17 |  |
 | [szklane słowa](https://open.spotify.com/track/5iSxwQxs4cQ6XOUhCUrhRk) | [nezz](https://open.spotify.com/artist/2jxQKdU1dKP95EzKiQBcg5) | [szklane słowa](https://open.spotify.com/album/4jtsC63Y9ExVEszBljphUD) | 2:41 | 2025-07-31 | 2025-10-08 |
+| [Szkło](https://open.spotify.com/track/1zvOrq2ZDeb2IEyl1zbce7) | [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il) | [Szkło](https://open.spotify.com/album/1MguJUCATa9p9LpD9MmGZA) | 4:02 | 2026-06-25 |  |
 | [Sznurówki](https://open.spotify.com/track/6uvauiQGYGVkcC8E5IQRWR) | [Leo Natan](https://open.spotify.com/artist/53y2orCJp8NRmbw1V0FGTo) | [Sznurówki](https://open.spotify.com/album/2Pg3iONs9qmM365Vw9qqsn) | 1:37 | 2025-03-06 | 2025-03-14 |
 | [Sztorm](https://open.spotify.com/track/0bVE1ITzO0ej4afjI7sMSU) | [Sandra Reizer](https://open.spotify.com/artist/0yTmOzQtdJ0sRxikIoMpug) | [Sztorm](https://open.spotify.com/album/5skJjjAuikeP6B7iowZvai) | 3:26 | 2026-02-27 | 2026-03-30 |
 | [Sztorm](https://open.spotify.com/track/6MLoaND0PUNQD2itqN87LQ) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Sztorm](https://open.spotify.com/album/6ibXEXjfR42Zj3zX7boe8o) | 3:37 | 2024-06-28 | 2024-07-19 |

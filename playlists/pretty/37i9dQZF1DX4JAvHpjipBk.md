@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from sombr, Future, Phoebe Bridgers, Benson Boone and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,598,067 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,597,824 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 91 | [Paradise](https://open.spotify.com/track/0tbAUZAHXDemjIRZoKtWiD) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V), [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Paradise](https://open.spotify.com/album/4ixCpPB7DbIoThOljd0xHo) | 3:17 |
 | 92 | [Play Dead](https://open.spotify.com/track/48fiPDRk7FPmNAgefKIILW) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Play Dead](https://open.spotify.com/album/4qTdW5pNnPSzWMRXxVGCPz) | 3:54 |
 | 93 | [Miss Your Touch](https://open.spotify.com/track/4AkfcdfyVGzIrMVfkJdmiT) | [Genia](https://open.spotify.com/artist/4aAD0IqgpuOUyFGFZKEgNB) | [Miss Your Touch](https://open.spotify.com/album/3tcbAP1XmLsU4HPRnKyquz) | 2:52 |
-| 94 | [Growing a Garden](https://open.spotify.com/track/0VICCquCPuwyrPKU3UT8ik) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Growing a Garden](https://open.spotify.com/album/2MtuC0n0yGRwidlc6hC0hg) | 4:32 |
+| 94 | [Growing a Garden](https://open.spotify.com/track/0VICCquCPuwyrPKU3UT8ik) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Growing a Garden](https://open.spotify.com/album/2MtuC0n0yGRwidlc6hC0hg) | 4:30 |
 | 95 | [Roses In The Dark](https://open.spotify.com/track/7jWryoFLkDR1jeht78uUeQ) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Roses In The Dark](https://open.spotify.com/album/6xpgyjIqQRJiNQ55Fd5XBx) | 3:13 |
 | 96 | [VACAS FLACAS](https://open.spotify.com/track/4KdSWdSz7Un3JIEWkOXPQ2) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [VACAS FLACAS](https://open.spotify.com/album/112Y8wuHDub7svC4bdwkrQ) | 3:36 |
 | 97 | [no ho in my bones](https://open.spotify.com/track/4SPMsUmurFDyxKgIi26xk9) | [Jace!](https://open.spotify.com/artist/2SPxiIMMkdVY00DphiIjxR) | [EAT SHIT](https://open.spotify.com/album/2nZUpOQBOakYRqf8usQXgK) | 2:24 |

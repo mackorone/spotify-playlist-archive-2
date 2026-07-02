@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285570,
+  "num_followers": 285563,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -663,30 +663,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Old Cane Back Rocker",
-        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        },
-        {
-          "name": "Darrell Scott String Band",
-          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
-        },
-        {
-          "name": "John Cowan",
-          "url": "https://open.spotify.com/artist/6aOabUkAto0WT1xZ5qLBZY"
-        }
-      ],
-      "duration_ms": 315345,
-      "name": "Southern Cross",
-      "url": "https://open.spotify.com/track/0rWkEKB7L5oUroW0KFwOgX"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/6HmVQtiQBu2PUeZchpJLrP"
       },
@@ -711,6 +687,30 @@
       "duration_ms": 189877,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/6e5W9y8PcwJtZpmEzCy1pW"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Old Cane Back Rocker",
+        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
+      },
+      "artists": [
+        {
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        },
+        {
+          "name": "Darrell Scott String Band",
+          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
+        },
+        {
+          "name": "John Cowan",
+          "url": "https://open.spotify.com/artist/6aOabUkAto0WT1xZ5qLBZY"
+        }
+      ],
+      "duration_ms": 315345,
+      "name": "Southern Cross",
+      "url": "https://open.spotify.com/track/0rWkEKB7L5oUroW0KFwOgX"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Undercover",
-        "url": "https://open.spotify.com/album/6I3c5bU1TCesp1PivdZp8e"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 289196,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/4cubT1pp7sp10qcCpl0ml3"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Sun and Water (Here Comes the Sun/Waters of March)",
         "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 214546,
       "name": "Sun and Water (Here Comes the Sun/Waters of March)",
       "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/6I3c5bU1TCesp1PivdZp8e"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 289196,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/4cubT1pp7sp10qcCpl0ml3"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/24g9S6hbGJaMbr84hwjswL"
-      },
-      "artists": [
-        {
-          "name": "The Infamous Stringdusters",
-          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
-        }
-      ],
-      "duration_ms": 199297,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/0tt5aoegu9I2UCf0q89JVF"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/5n8T0Yk5POyP50j2Eku13M"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 228480,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4q2p4js4UgAxWfaWYjdtIT"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/24g9S6hbGJaMbr84hwjswL"
+      },
+      "artists": [
+        {
+          "name": "The Infamous Stringdusters",
+          "url": "https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW"
+        }
+      ],
+      "duration_ms": 199297,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/0tt5aoegu9I2UCf0q89JVF"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "He Called Me Baby",
-        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
-      },
-      "artists": [
-        {
-          "name": "AJ Lee & Blue Summit",
-          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
-        }
-      ],
-      "duration_ms": 279198,
-      "name": "He Called Me Baby",
-      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Rich Girl",
         "url": "https://open.spotify.com/album/4hkQNTft7bp3Gd4MyIbjbf"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 230454,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/6TnbTAr8EtRYR5st0irRoP"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "He Called Me Baby",
+        "url": "https://open.spotify.com/album/7aiK72YOfer4Rx9KzSOnak"
+      },
+      "artists": [
+        {
+          "name": "AJ Lee & Blue Summit",
+          "url": "https://open.spotify.com/artist/1VwMKPdHxC7tI21tynmXEr"
+        }
+      ],
+      "duration_ms": 279198,
+      "name": "He Called Me Baby",
+      "url": "https://open.spotify.com/track/07XgjLPy8zK8ppSZ7r38gb"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Closer You Get",
-        "url": "https://open.spotify.com/album/4VCWfZcd6Xu77je7Oll8hI"
-      },
-      "artists": [
-        {
-          "name": "Arkansauce",
-          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
-        }
-      ],
-      "duration_ms": 345058,
-      "name": "Closer You Get",
-      "url": "https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Old Cane Back Rocker",
         "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 267690,
       "name": "It's a Great Day to Be Alive",
       "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Closer You Get",
+        "url": "https://open.spotify.com/album/4VCWfZcd6Xu77je7Oll8hI"
+      },
+      "artists": [
+        {
+          "name": "Arkansauce",
+          "url": "https://open.spotify.com/artist/0ZVf0TpND6bNaoaaucYaFl"
+        }
+      ],
+      "duration_ms": 345058,
+      "name": "Closer You Get",
+      "url": "https://open.spotify.com/track/5rPSwpzXNpevdBXtQ2OFzD"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Jukebox",
-        "url": "https://open.spotify.com/album/2yJmDsF4W09gny2QzDlftH"
-      },
-      "artists": [
-        {
-          "name": "Matt Carson",
-          "url": "https://open.spotify.com/artist/48AugFFbt0pfxPoDV4l2k8"
-        },
-        {
-          "name": "Madilyn Carson",
-          "url": "https://open.spotify.com/artist/4MzzNTvkKqpsJ8uowEEVK7"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Speed of the Sound of Loneliness",
-      "url": "https://open.spotify.com/track/7xDbOxIUd57NFyLG3lfmF7"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Love Is Alive",
         "url": "https://open.spotify.com/album/09ETIPG6cNhUjqd9wWqUbg"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 243789,
       "name": "Love Is Alive",
       "url": "https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Jukebox",
+        "url": "https://open.spotify.com/album/2yJmDsF4W09gny2QzDlftH"
+      },
+      "artists": [
+        {
+          "name": "Matt Carson",
+          "url": "https://open.spotify.com/artist/48AugFFbt0pfxPoDV4l2k8"
+        },
+        {
+          "name": "Madilyn Carson",
+          "url": "https://open.spotify.com/artist/4MzzNTvkKqpsJ8uowEEVK7"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Speed of the Sound of Loneliness",
+      "url": "https://open.spotify.com/track/7xDbOxIUd57NFyLG3lfmF7"
     }
   ],
   "unique_name": "Bluegrass Covers",

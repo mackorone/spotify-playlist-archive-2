@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: Fernandinho",
-  "num_followers": 382555,
+  "num_followers": 382594,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2026-03-13 19:15:18",
       "album": {
+        "name": "Grande \u00c9 o Senhor",
+        "url": "https://open.spotify.com/album/3w8C9IwPG42g22aOFflszr"
+      },
+      "artists": [
+        {
+          "name": "Bereia Music",
+          "url": "https://open.spotify.com/artist/2uylz2eDUc2XW6eFWoR3N4"
+        },
+        {
+          "name": "Lucas Goes",
+          "url": "https://open.spotify.com/artist/6FS6gCbdyM0guva0tNopay"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "Grande \u00c9 o Senhor",
+      "url": "https://open.spotify.com/track/5kRbuUv8904cbMwhGmQsE3"
+    },
+    {
+      "added_at": "2026-03-13 19:15:18",
+      "album": {
         "name": "Ele \u00c9 Exaltado (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5IDjJqDcj4Xr5r56HXBYWI"
       },
@@ -1239,26 +1259,6 @@
       "duration_ms": 309333,
       "name": "Me Enche de Amor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5rl3Hz8gsiZlzsL0RbgB2D"
-    },
-    {
-      "added_at": "2026-03-13 19:15:18",
-      "album": {
-        "name": "Grande \u00c9 o Senhor",
-        "url": "https://open.spotify.com/album/3w8C9IwPG42g22aOFflszr"
-      },
-      "artists": [
-        {
-          "name": "Bereia Music",
-          "url": "https://open.spotify.com/artist/2uylz2eDUc2XW6eFWoR3N4"
-        },
-        {
-          "name": "Lucas Goes",
-          "url": "https://open.spotify.com/artist/6FS6gCbdyM0guva0tNopay"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "Grande \u00c9 o Senhor",
-      "url": "https://open.spotify.com/track/5kRbuUv8904cbMwhGmQsE3"
     },
     {
       "added_at": "2026-03-13 19:15:18",

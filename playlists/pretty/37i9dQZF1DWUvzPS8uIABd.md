@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,589 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,591 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,14 +55,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 45 | [Kipee](https://open.spotify.com/track/2PZLCzW6gKi1VwwdA97yph) | [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP), [Olavi Uusivirta](https://open.spotify.com/artist/5LbUBFEG2qciScT9kwFqmV) | [Kipee](https://open.spotify.com/album/6a8xNBf6qLV2e90nykRShf) | 3:08 |
 | 46 | [TEENAGE DREAM](https://open.spotify.com/track/15an2EUW6pXrY3Pv6Q2mac) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [TEENAGE DREAM](https://open.spotify.com/album/2QvJkqhNLgNDhDvhdq7lRw) | 2:27 |
 | 47 | [Satumaa](https://open.spotify.com/track/2eckvn1XLK4zjP7PPce2DP) | [Samuell](https://open.spotify.com/artist/6McHq84vR6u1UNTdBiMKvV), [Silja Kielo](https://open.spotify.com/artist/1fgoCRGHwSiDX4GVMp5z7i) | [Satumaa](https://open.spotify.com/album/2Ehbjt1d6Ux7lHqyO5Nz6l) | 2:56 |
-| 48 | [Sata syyt](https://open.spotify.com/track/5utmpdm2S5HNpdvz1Fve8L) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Sata syyt](https://open.spotify.com/album/183AuvnOZ1x5FdRUuSGzEQ) | 2:54 |
-| 49 | [Badabim \(My Kind Of Terapiaa\)](https://open.spotify.com/track/3KGwFCVwBAa54xwTaCdbJ1) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Badabim \(My Kind Of Terapiaa\)](https://open.spotify.com/album/18TPXQgapyr0CqbeNCGle3) | 2:36 |
+| 48 | [Badabim \(My Kind Of Terapiaa\)](https://open.spotify.com/track/3KGwFCVwBAa54xwTaCdbJ1) | [Benjamin](https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef) | [Badabim \(My Kind Of Terapiaa\)](https://open.spotify.com/album/18TPXQgapyr0CqbeNCGle3) | 2:36 |
+| 49 | [Sata syyt](https://open.spotify.com/track/5utmpdm2S5HNpdvz1Fve8L) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Sata syyt](https://open.spotify.com/album/183AuvnOZ1x5FdRUuSGzEQ) | 2:54 |
 | 50 | [Joku johon nojata](https://open.spotify.com/track/1cZP3dz4jUBWKRQPJFjULb) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9) | [Joku johon nojata](https://open.spotify.com/album/60gHhhpJJCBJwNHFg5suHj) | 3:21 |
-| 51 | [Viaton](https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Viaton](https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1) | 3:20 |
-| 52 | [Ulkopuolinen \(feat\. ibe\)](https://open.spotify.com/track/040oMi7bs0Rmz7HZ2xcP96) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [No Haav No Love](https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q) | 3:29 |
-| 53 | [Kaikki päättyy meihin](https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Kaikki päättyy meihin](https://open.spotify.com/album/05WXs6ariojObbFucrzg69) | 2:52 |
-| 54 | [Tää tunne](https://open.spotify.com/track/2iyIZsT9JobbLBi0O9QD5V) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Tää tunne](https://open.spotify.com/album/6ydY2zebn5LfMlQjNNCyxg) | 2:39 |
-| 55 | [SHOTIT](https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [SHOTIT](https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ) | 2:34 |
+| 51 | [Kaikki päättyy meihin](https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Kaikki päättyy meihin](https://open.spotify.com/album/05WXs6ariojObbFucrzg69) | 2:52 |
+| 52 | [Viaton](https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Viaton](https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1) | 3:20 |
+| 53 | [Ulkopuolinen \(feat\. ibe\)](https://open.spotify.com/track/040oMi7bs0Rmz7HZ2xcP96) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [No Haav No Love](https://open.spotify.com/album/06SWD7zsvxo9yJHy50sk2q) | 3:29 |
+| 54 | [SHOTIT](https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc) | [OLGA](https://open.spotify.com/artist/5lrrAnWHek9LEQgB3MCfub) | [SHOTIT](https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ) | 2:34 |
+| 55 | [Tää tunne](https://open.spotify.com/track/2iyIZsT9JobbLBi0O9QD5V) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [Tää tunne](https://open.spotify.com/album/6ydY2zebn5LfMlQjNNCyxg) | 2:39 |
 | 56 | [Kuka nauraa nyt](https://open.spotify.com/track/7GHKkXzjDJmjFB67KjhtHZ) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Kuka nauraa nyt](https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX) | 2:55 |
 | 57 | [Kaikki on mahollist](https://open.spotify.com/track/3MaLeuBpGax5hiCaLYlPis) | [Minttu](https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr) | [Maailma on mun](https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX) | 3:02 |
 | 58 | [Kuudes aisti](https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Kuudes aisti](https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y) | 3:13 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 66 | [4Life](https://open.spotify.com/track/7I923uLFwvvvHU6z3zuuTd) | [Mikael Gabriel](https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw) | [4Life](https://open.spotify.com/album/0i3GgbzTfsaeEm36TupNCM) | 2:36 |
 | 67 | [Vanhoja muistellaan](https://open.spotify.com/track/28KgsaQJPjbYKTDltlE9gK) | [KAUKUA](https://open.spotify.com/artist/1B08DZQt5VNw92l8bm8jwZ) | [Vanhoja muistellaan](https://open.spotify.com/album/2dkIJyXn7PDW2P0GzcGtza) | 2:48 |
 | 68 | [Entiseen elämään](https://open.spotify.com/track/0M4OVohVXlUFJDT4PIxlTX) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Entiseen elämään](https://open.spotify.com/album/1JHx48hhuAxO1HSsQb2KWw) | 2:50 |
-| 69 | [Adam & Steve](https://open.spotify.com/track/7m8pM10w9qD5y3JoPeNNeB) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [Adam & Steve](https://open.spotify.com/album/4fZRW3osgW79uGrmvifqeA) | 2:50 |
-| 70 | [Sitkeä sissi](https://open.spotify.com/track/559VRxeQbrr7IwPbxW9tA5) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Sitkeä sissi](https://open.spotify.com/album/4fcI6itldeexoAtP8JRULT) | 3:01 |
+| 69 | [Sitkeä sissi](https://open.spotify.com/track/559VRxeQbrr7IwPbxW9tA5) | [Suvi Teräsniska](https://open.spotify.com/artist/76BCq0XM9wlppqHy4pXmoS) | [Sitkeä sissi](https://open.spotify.com/album/4fcI6itldeexoAtP8JRULT) | 3:01 |
+| 70 | [Adam & Steve](https://open.spotify.com/track/7m8pM10w9qD5y3JoPeNNeB) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [Adam & Steve](https://open.spotify.com/album/4fZRW3osgW79uGrmvifqeA) | 2:50 |
 
 Snapshot ID: `AAAAANZt17jICTZaUXVIAxQEdfL89s1X`

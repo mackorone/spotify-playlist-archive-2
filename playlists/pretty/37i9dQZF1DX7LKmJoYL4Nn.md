@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,110 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,106 likes - 75 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 16 | [UTAKATA DANCE FLOOR](https://open.spotify.com/track/3xQc38Pnh2pus6REcexcep) | [Crazy:B](https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Crazy:B「UTAKATA DANCE FLOOR」あんさんぶるスターズ！！ ESアイドルソング season5](https://open.spotify.com/album/7IL5MKNaGP5Un8ZwcV6nDS) | 3:16 |
 | 17 | [しょーがいゼッタイそーあい宣言♥](https://open.spotify.com/track/6D8hIrDUUlNs7ipUxtQMan) | [Special for Princess!](https://open.spotify.com/artist/1neTClI3dczNRCQUj9Kbv3) | [しょーがいゼッタイそーあい宣言♥](https://open.spotify.com/album/6U9eFKCOMs0AiLPxgVReJl) | 3:17 |
 | 18 | [The Bible of The “Eden”](https://open.spotify.com/track/33wWNHn9Nc1SbrDRN3KeXT) | [Eden](https://open.spotify.com/artist/6OvhFi6jhjbkcxcNn4U3sL), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Eden「The Bible of The “Eden”」あんさんぶるスターズ！！ ESアイドルソング Extra](https://open.spotify.com/album/6WxMTnJbj1qmdWnmMVdvXR) | 5:59 |
-| 19 | [セツナDrops](https://open.spotify.com/track/6Y3nyDOV6Qle4ZHq5PHAIX) | [TearS](https://open.spotify.com/artist/3gj1qfvzkRfDSaTQhGCuue), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [「セツナDrops」あんさんぶるスターズ！！ ボーカル選抜曲](https://open.spotify.com/album/349SkL0jNwcUGPVvDWlkPW) | 4:40 |
-| 20 | [らびゅ&ピース伝説](https://open.spotify.com/track/7LrGUS1U2GIkbk4Akth9XF) | [PM6:∞](https://open.spotify.com/artist/2GvcPHWg5MaQk9s3RPKiFv), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [PM6:∞「らびゅ&ピース伝説」あんさんぶるスターズ！！ ⁠SELECTION 10 UNIT SONG](https://open.spotify.com/album/193HSvLV9U3ruKbDAEju5l) | 3:45 |
+| 19 | [らびゅ&ピース伝説](https://open.spotify.com/track/7LrGUS1U2GIkbk4Akth9XF) | [PM6:∞](https://open.spotify.com/artist/2GvcPHWg5MaQk9s3RPKiFv), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [PM6:∞「らびゅ&ピース伝説」あんさんぶるスターズ！！ ⁠SELECTION 10 UNIT SONG](https://open.spotify.com/album/193HSvLV9U3ruKbDAEju5l) | 3:45 |
+| 20 | [セツナDrops](https://open.spotify.com/track/6Y3nyDOV6Qle4ZHq5PHAIX) | [TearS](https://open.spotify.com/artist/3gj1qfvzkRfDSaTQhGCuue), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [「セツナDrops」あんさんぶるスターズ！！ ボーカル選抜曲](https://open.spotify.com/album/349SkL0jNwcUGPVvDWlkPW) | 4:40 |
 | 21 | [それは残像の消失点](https://open.spotify.com/track/0Lgflklr9PxS0DfESpU7Zo) | [null](https://open.spotify.com/artist/0O8h8CnTakLhV6Jh7KGKub), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [null「それは残像の消失点」あんさんぶるスターズ！！ ⁠SELECTION 10 UNIT SONG](https://open.spotify.com/album/5XaAyKXoY3YK1xsYVSwHQ1) | 3:43 |
 | 22 | [SAKE OF LOVE](https://open.spotify.com/track/5aSdBBubG2yHtVUF7KcNZl) | [ALKALOID](https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF), [Crazy:B](https://open.spotify.com/artist/5gskLXdP9Jqd6FRR2WLFIo), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [あんさんぶるスターズ！！ ESアイドルソング Extra ALKALOID & Crazy:B](https://open.spotify.com/album/0HouiLlpW1yoWsYJ9n3Q4F) | 3:38 |
 | 23 | [星の鳴動響きし時に](https://open.spotify.com/track/4HfzaFfOFv2zIAzXT37LC6) | [Valkyrie](https://open.spotify.com/artist/5IBPK72CczyOeFkx6iKQUM), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Valkyrie「星の鳴動響きし時に」あんさんぶるスターズ！！ ESアイドルソング season5](https://open.spotify.com/album/0oTq1rLPPyyOmjIqEY0km5) | 6:19 |

@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Hwang Chi Yeul \(황치열\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,766 songs - 4 day 18 hr 40 min
+1,767 songs - 4 day 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Dear Love](https://open.spotify.com/track/6rR8TIrMrrMOZ72xf81H5I) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [\#ff00ff](https://open.spotify.com/album/5PAqvFOTIUDAPpujNE54Rr) | 4:15 | 2023-02-14 | 2023-03-28 |
 | [Dear My Love](https://open.spotify.com/track/6QdzLFR1l1GP4OoiJAZNtF) | [BYUL](https://open.spotify.com/artist/2uoSZGvqrwdjVgn9fOUjQp) | [When the Weather is fine OST Part.4](https://open.spotify.com/album/2OMholRSxY7jILMGLWXuJD) | 4:45 | 2022-03-24 | 2022-04-17 |
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-08-12 | 2022-12-27 |
+| [Dear.J \(Feat\. Jay Park\)](https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dear.J](https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek) | 3:21 | 2026-07-01 |  |
 | [December 32 days](https://open.spotify.com/track/1fXcEQ3qQkXHmEtyMOoGYa) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [December 32 days](https://open.spotify.com/album/78QCfGI4tbL1ifynZHcwlK) | 4:46 | 2025-12-16 | 2026-04-17 |
 | [December's Spring\(Prod\. Sam Kim\)](https://open.spotify.com/track/2gccCocSljvkKhBL7gkYLN) | [YUN HU](https://open.spotify.com/artist/2yjxXnxo2b9nxPv6JbvDgp) | [December's Spring](https://open.spotify.com/album/4knx3cIPVE7wb6yNJhhS1A) | 3:30 | 2023-01-10 | 2023-02-25 |
 | [December\. 24](https://open.spotify.com/track/5Ohvq1eQp1tqAFphomgG2i) | [Yoon Jisung](https://open.spotify.com/artist/336NKYVCHaJbC8RrMEO8NM) | [December\. 24](https://open.spotify.com/album/4DHi2uDjBt98cQzfSD7Fut) | 3:30 | 2022-12-05 | 2023-01-21 |
@@ -458,7 +459,7 @@
 | [Forever \(약속\)](https://open.spotify.com/track/26YNVqHuwAPeBVfDscTPds) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Forever \(약속\)](https://open.spotify.com/album/3CExk4WgPxe0lOwoOhuMWj) | 4:58 | 2021-12-20 | 2022-06-27 |
 | [Forget Me Not](https://open.spotify.com/track/79KXSZofyFSDnG4AlRAUVf) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Forget Me Not](https://open.spotify.com/album/1iKsKRRBBXUV2sD3n2kQZm) | 3:48 | 2023-06-13 | 2023-10-20 |
 | [Forsake](https://open.spotify.com/track/4riSqVzNeyDqCADUJkf2G8) | [Lee Young Hyun](https://open.spotify.com/artist/4GzuNU3GlvlfNB4xweeTVR) | [Forsake \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/4rHwtJnjD7UAPrptbyutVd) | 5:11 | 2025-05-22 | 2025-10-02 |
-| [Forsake](https://open.spotify.com/track/59DN9dv9Eve47ueymquSDH) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Monday Kiz's Footprints Vol.2](https://open.spotify.com/album/7Hr4bSfZcLSUNaZmFToUOe) | 5:23 | 2026-02-09 |  |
+| [Forsake](https://open.spotify.com/track/59DN9dv9Eve47ueymquSDH) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Monday Kiz's Footprints Vol.2](https://open.spotify.com/album/7Hr4bSfZcLSUNaZmFToUOe) | 5:23 | 2026-02-09 | 2026-07-02 |
 | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/track/1uNH9a0QFOFZsPUU7B2oxz) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Fox Rain \(The Moon during the Day\)](https://open.spotify.com/album/5RwN6UVJ0GaiOs92avu3hM) | 4:01 | 2024-01-05 | 2024-06-05 |
 | [From Love](https://open.spotify.com/track/77jx4JT1UDC00OE6aR8cbG) | [Kim Gyeol](https://open.spotify.com/artist/2gnOw5uU4XQZtSpXxKsJOf) | [From Love](https://open.spotify.com/album/3nRi3fNa4jP1ezEKjANq1M) | 3:29 | 2025-11-02 | 2026-02-02 |
 | [Full Bloom](https://open.spotify.com/track/6rX4ZMxZC6spPAIsr0i7j2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Red Moon: Full Bloom](https://open.spotify.com/album/14e8BacNESwLG1UVELyG8r) | 4:13 | 2022-02-25 | 2022-05-08 |

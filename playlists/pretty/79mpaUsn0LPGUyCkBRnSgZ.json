@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAJQvSSw4U7nkCIy360YrbTLmGpS9ST",
+  "snapshot_id": "AAAJRwNvG2ZmdWrI/spTXU02BEr8M7cm",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -12431,6 +12431,74 @@
       "duration_ms": 156709,
       "name": "Detour",
       "url": "https://open.spotify.com/track/4n2Gy75q4SgNuq5ZUKxnq3"
+    },
+    {
+      "added_at": "2026-07-01 14:27:38",
+      "album": {
+        "name": "The Brighter The Light",
+        "url": "https://open.spotify.com/album/7zqWoPkblPnPOAvPbB3iai"
+      },
+      "artists": [
+        {
+          "name": "The Juan Maclean",
+          "url": "https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt"
+        }
+      ],
+      "duration_ms": 370457,
+      "name": "What Do You Feel Free About?",
+      "url": "https://open.spotify.com/track/5YYDGbUv12S6KwTLSgerUX"
+    },
+    {
+      "added_at": "2026-07-01 14:30:04",
+      "album": {
+        "name": "The Future Will Come",
+        "url": "https://open.spotify.com/album/3bnnIbRzlxbwl0xDVUwgyc"
+      },
+      "artists": [
+        {
+          "name": "The Juan Maclean",
+          "url": "https://open.spotify.com/artist/7gG6LkU3pCSQmCIPR4aSBt"
+        }
+      ],
+      "duration_ms": 518000,
+      "name": "The Simple Life",
+      "url": "https://open.spotify.com/track/1TJ8KmN9CNabccJWE3LKKs"
+    },
+    {
+      "added_at": "2026-07-01 16:01:30",
+      "album": {
+        "name": "REDSTAR WU & THE WORLDWIDE SCOURGE",
+        "url": "https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 174799,
+      "name": "PIRATE RADIO",
+      "url": "https://open.spotify.com/track/04MdtyZlxv1DxH5f8nuyuP"
+    },
+    {
+      "added_at": "2026-07-01 16:02:28",
+      "album": {
+        "name": "I Created The Universe So That Life Could Create a Language So Complex, Just To Say How Much I Love You",
+        "url": "https://open.spotify.com/album/2iPjvmwHsn5SgX2GZvZnMx"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        },
+        {
+          "name": "Vashti Bunyan",
+          "url": "https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Pipe (with Vashti Bunyan)",
+      "url": "https://open.spotify.com/track/2IQdRkhiTJVRf2Q5I1OYl3"
     }
   ],
   "unique_name": "Zacklog",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbgtqUuhUMh3.md) - [plain]
 
 > Listen to Arab women, at full volume\. Cover: Haifa Wehbe
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,514 likes - 71 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,518 likes - 71 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

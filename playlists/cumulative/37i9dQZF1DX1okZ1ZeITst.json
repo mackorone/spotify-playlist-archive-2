@@ -2537,6 +2537,32 @@
     },
     {
       "album": {
+        "name": "One Beat Away (From \"Camp Rock 3\")",
+        "url": "https://open.spotify.com/album/1G7PEmWkUrwlOtZ733Ito8"
+      },
+      "artists": [
+        {
+          "name": "Liamani",
+          "url": "https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v"
+        },
+        {
+          "name": "Cast Of Camp Rock",
+          "url": "https://open.spotify.com/artist/6BaEtrOzEuvmxmHZRR1nNa"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169922,
+      "name": "One Beat Away - From \"Camp Rock 3\"",
+      "url": "https://open.spotify.com/track/7GofEArN4cvGP5AwlqbZSs"
+    },
+    {
+      "album": {
         "name": "Aladdin (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/29EiOQJnxWlX5nVOWQpu3u"
       },

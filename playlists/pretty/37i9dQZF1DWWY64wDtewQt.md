@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,786,879 likes - 100 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,789,188 likes - 100 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 8 | [DIA DELÍCIA](https://open.spotify.com/track/5WCC5w7bTsAOv1g1W1fU7A) | [Nakama](https://open.spotify.com/artist/1kd6WqngBvP0Vthu1sGI0j), [Mc Staff](https://open.spotify.com/artist/3awueWqdp1OZudPelsEIgx), [ΣP](https://open.spotify.com/artist/2Q3xviVw2VXFRXtsF2gpR1) | [DIA DELÍCIA](https://open.spotify.com/album/6bKskOvtdva3ul5sCUAiV5) | 1:15 |
 | 9 | [MONTAGEM XONADA](https://open.spotify.com/track/2Gs0iF27my40p0dANv2rAg) | [MXZI](https://open.spotify.com/artist/7kk9ucvRJim0NMM89Lml2Y), [Dj Samir](https://open.spotify.com/artist/6U0dJxYVB41L8WDZ02Nwuk), [DJ Javi26](https://open.spotify.com/artist/0JGZRsRtFTQ0ZVBq9b2ZEj) | [MONTAGEM XONADA](https://open.spotify.com/album/3JsABNfp6sTjgcawWxzmj7) | 1:15 |
 | 10 | [MUTILATOR \(SLOWED\)](https://open.spotify.com/track/0uYxQl1aLEhVBOEoMhF2tT) | [ZMAJOR](https://open.spotify.com/artist/4nzcYFR90Ep4i3P6mlZSkP), [Lurk](https://open.spotify.com/artist/4xWa4k84QliHnu6XzdJeSN) | [MUTILATOR](https://open.spotify.com/album/3cIfOF2VU2EpkZBhU7NHSR) | 1:49 |
-| 11 | [MONTAGEM COMA](https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC) | [ANDROMEDA](https://open.spotify.com/artist/1RklNDIiYVZ3dYdEUnB0cS), [elysian.](https://open.spotify.com/artist/51K0b3lRd87cKX02hU26we) | [MONTAGEM COMA](https://open.spotify.com/album/5k8jDV518pIk74gBsU72fi) | 1:13 |
+| 11 | [MONTAGEM COMA](https://open.spotify.com/track/2UbLtO7CH3jhez0n2T7uDC) | [ANDROMEDA](https://open.spotify.com/artist/0fUwcv8Cg3Dk3MDV9x2bSw), [elysian.](https://open.spotify.com/artist/51K0b3lRd87cKX02hU26we) | [MONTAGEM COMA](https://open.spotify.com/album/5k8jDV518pIk74gBsU72fi) | 1:13 |
 | 12 | [NO ERA AMOR \- Slowed](https://open.spotify.com/track/026OJSwDl3UOP4T8puJXj9) | [DJ Asul](https://open.spotify.com/artist/3Tfh86fepXglotJQCWkOGe) | [NO ERA AMOR](https://open.spotify.com/album/10AnFVWglg655tHSr5WBSU) | 1:33 |
 | 13 | [CLIMA LINDO \- SLOWED](https://open.spotify.com/track/5ymkm3U65CzrLbij6eerzp) | [GXMZ](https://open.spotify.com/artist/4y6dwT7Vzi6tFHJmr2TU02), [Repsaj](https://open.spotify.com/artist/0jrirfCZkRU3iA2sH9JEko) | [CLIMA LINDO](https://open.spotify.com/album/3StJkT99NLpTwoGjzbEqpH) | 1:21 |
 | 14 | [FUNK ABNORMAL \- SLOWED](https://open.spotify.com/track/1BoDSjzUW6Bjf8JjHmY6D2) | [DJ V12](https://open.spotify.com/artist/0PEgH2YVz5tadElsDE8ZpD), [SXID](https://open.spotify.com/artist/3eTy7yvRHnpPKY4hNCfYYX) | [FUNK ABNORMAL](https://open.spotify.com/album/1L2kODY4rShKP0phbzgys3) | 1:41 |

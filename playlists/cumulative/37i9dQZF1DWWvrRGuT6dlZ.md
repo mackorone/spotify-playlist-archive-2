@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Straw 林水草\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: spilled milk\. Artwork: Isu Kim.
 
-1,484 songs - 3 day 9 hr 17 min
+1,486 songs - 3 day 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -639,6 +639,7 @@
 | [Keep On Smiling](https://open.spotify.com/track/3NYBXsmtc2kWPYKSBDX7bB) | [Drichulous](https://open.spotify.com/artist/1XeAeRWILDePCKo2OSvjjB) | [Keep On Smiling](https://open.spotify.com/album/5pjQPnr9OwEcuQ4T2LffmX) | 2:48 | 2022-07-07 | 2022-09-23 |
 | [Keep the Faith](https://open.spotify.com/track/1982tQA20Ly1oBjtunUTZX) | [Khali Infamous](https://open.spotify.com/artist/3gZ9oSc9r4OODgRi2c4XHT) | [Khali Infamous](https://open.spotify.com/album/4SboharBfnTfevR7jsSwCv) | 2:44 | 2025-02-21 | 2025-05-03 |
 | [Keeping Love](https://open.spotify.com/track/2GH3BL5NCoTZuiwppeGvtX) | [BIRDEE 王煒](https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60) | [Keeping Love](https://open.spotify.com/album/0uplHKgYixtwWOb5eZc5VL) | 1:56 | 2023-03-30 | 2023-08-18 |
+| [Keliru](https://open.spotify.com/track/0KMbK8eSS7xjw1Ud4WbQ1d) | [YANA](https://open.spotify.com/artist/0BE1XQiKdWBBR01zAemf19) | [Keliru](https://open.spotify.com/album/0SOowqVDNO01Z3cVLo0RvX) | 5:02 | 2026-07-01 |  |
 | [Kembali](https://open.spotify.com/track/3kktAJpsRawovbcuKNgnsw) | [Intan Shafinas](https://open.spotify.com/artist/74Zez2T23wh3l3MkAarhIh) | [Kembali](https://open.spotify.com/album/1VBJtvyDThsuL2ASlRd2A1) | 4:14 | 2025-10-30 | 2026-05-07 |
 | [Kerana Janji](https://open.spotify.com/track/63bWEEcpB4R5Nf6AAhjnep) | [Lemon T](https://open.spotify.com/artist/3o02ueB8p0kRcPWkxCfpW6) | [Kerana Janji](https://open.spotify.com/album/0ynFaMIolDp6pqhCot84pE) | 4:55 | 2025-05-22 | 2025-07-18 |
 | [kid](https://open.spotify.com/track/6UPSUyqX0ofQhs9ompDzHa) | [jaye](https://open.spotify.com/artist/2j5sAQNpwROkQyQFiBHEZ5) | [kid](https://open.spotify.com/album/3MtzL6M8tVCojmQzokuSSU) | 2:25 | 2023-05-04 | 2023-11-18 |
@@ -1075,6 +1076,7 @@
 | [simon says](https://open.spotify.com/track/5PrAyJlzvbVszSDtHjDvXT) | [isaacprease](https://open.spotify.com/artist/2Pa2Q2By2eVE6RT8SfgozN), [Jelex](https://open.spotify.com/artist/6dhwyJ9zxV1cstuPoRv06s), [Dave Anonuevo](https://open.spotify.com/artist/7buJRMVUhTO2JhsNekynv1) | [simon says](https://open.spotify.com/album/0HmHQlwuTWzL9VPMk7AC1U) | 2:34 | 2023-05-11 | 2023-10-20 |
 | [simple crush](https://open.spotify.com/track/4mHbjuTUtxENCmpDIVYESj) | [gels](https://open.spotify.com/artist/64A8LUUbYeqJBw4rv0OTxf) | [simple crush](https://open.spotify.com/album/6xvk6rcDZHjwsoVW22SxAM) | 3:11 | 2025-08-29 | 2025-10-17 |
 | [Sinaran Hatiku \- From "Mencari Ramlee"](https://open.spotify.com/track/6Gk5n8JC0KMBmLZ5hdcaJu) | [Pitahati](https://open.spotify.com/artist/0kfDB5F5y2eFzwVTnko8HA), [Syuk Esa](https://open.spotify.com/artist/66R8QLE2QTIC4AFwZVZkSd), [Mafarikha](https://open.spotify.com/artist/0JAm5Nnf2xHgEPy6jcz0jw) | [Sinaran Hatiku \(From "Mencari Ramlee"\)](https://open.spotify.com/album/1Qam1IoLzv2dJSanSQkh2r) | 3:55 | 2025-07-31 | 2025-09-06 |
+| [siren](https://open.spotify.com/track/27IZdfUVcbPiELEOguU106) | [spilled milk](https://open.spotify.com/artist/0M04UBvXW2tTDSZJV5mDpm) | [siren](https://open.spotify.com/album/5tNUYIhJkgNQMzTozYOQHy) | 3:38 | 2026-07-01 |  |
 | [Sisyphus](https://open.spotify.com/track/031qucMFAbum6sVaGE0b2G) | [Count Vernon](https://open.spotify.com/artist/2047BIPNm8CrFvFRmu8CvS) | [The Nomad Diaries](https://open.spotify.com/album/6PoVtTqUjdDFE67k4YN4YC) | 3:12 | 2023-11-29 | 2024-01-12 |
 | [Sisyphus](https://open.spotify.com/track/5fhLRgatAlalPlqAev8LXP) | [Count Vernon](https://open.spotify.com/artist/2047BIPNm8CrFvFRmu8CvS) | [Sisyphus](https://open.spotify.com/album/4OQLkWiI7YewgBC7u2ikYv) | 3:12 | 2023-08-31 | 2024-05-10 |
 | [Situation](https://open.spotify.com/track/2oSZC5ZHEeIQnxRv9cChip) | [Cleo Megido](https://open.spotify.com/artist/1FY6L1PfzeFm8kSrLM8yhm) | [Situation](https://open.spotify.com/album/1WzQHb84Eyt1gMjArWXI6V) | 2:45 | 2025-08-15 | 2025-09-27 |

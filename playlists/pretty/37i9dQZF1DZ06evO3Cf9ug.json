@@ -1,12 +1,12 @@
 {
   "description": "This is Tems. The essential tracks, all in one playlist.",
-  "num_followers": 148335,
+  "num_followers": 148415,
   "original_name": "This Is Tems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akG1gAAAAAB8TjVPDaKo+E6WoJnwaN8I",
+  "snapshot_id": "akMHAAAAAAADivTPNHBH4yeOLTXsxMaj",
   "tracks": [
     {
       "added_at": null,
@@ -707,6 +707,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "SWAG LIVE FROM COACHELLA (Weekend I)",
+        "url": "https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 252053,
+      "name": "ESSENCE",
+      "url": "https://open.spotify.com/track/3Pf5zVXlpgUOs0pT1IiYjb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFRIKA MAGIK",
         "url": "https://open.spotify.com/album/2OVNEGVOszDgrYYPVZN4DB"
       },
@@ -743,30 +767,6 @@
       "duration_ms": 221399,
       "name": "Live Life",
       "url": "https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SWAG LIVE FROM COACHELLA (Weekend I)",
-        "url": "https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 252053,
-      "name": "ESSENCE",
-      "url": "https://open.spotify.com/track/3Pf5zVXlpgUOs0pT1IiYjb"
     },
     {
       "added_at": null,

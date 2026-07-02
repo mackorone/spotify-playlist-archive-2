@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,351 songs - 5 day 18 hr 38 min
+2,355 songs - 5 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -769,6 +769,7 @@
 | [Girl Like You](https://open.spotify.com/track/5IbE8DrxRrAXqqUD6izA9I) | [Knixxen Out](https://open.spotify.com/artist/6HZX9q925tlM4XUXZDxlIr) | [Girl Like You](https://open.spotify.com/album/5WVQxQdccXjIFIyGg8M5Ug) | 3:24 | 2026-05-19 |  |
 | [Girl, You'll Be a Woman Soon](https://open.spotify.com/track/1mSzuXVjjKC0bPh6iG6xjy) | [Urge Overkill](https://open.spotify.com/artist/5LEUigTSXpwrtERRcSW1N4) | [Stull](https://open.spotify.com/album/07gzuMURkIJ7Iatsz3Uqw0) | 3:09 | 2024-03-04 |  |
 | [GIRLS GIRLS GIRLS](https://open.spotify.com/track/7zGLnreLkqtQceKcRbpTDz) | [Reptile Room](https://open.spotify.com/artist/2GxPyV0YIHRNi0hAaqzgER) | [GIRLS GIRLS GIRLS](https://open.spotify.com/album/2sQGHkMvSDXE5VQurlYIWm) | 3:07 | 2025-06-27 |  |
+| [Give Me A Shout](https://open.spotify.com/track/3zIZ8fu1beiuWwybBLB3Pc) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Ixora](https://open.spotify.com/album/31b85ZfTbz5OsrILSlerVR) | 3:12 | 2026-07-01 |  |
 | [Give Thanks](https://open.spotify.com/track/34M0Pcyig704FJRog4Y5gr) | [R\-Juna](https://open.spotify.com/artist/0aQXmVGvxpQmQ3UbZttDBb) | [Dubs and Praises](https://open.spotify.com/album/3sY7rsSxS37DDDnAzfRFvq) | 4:21 | 2024-07-06 |  |
 | [Give Thanks \- Discomix](https://open.spotify.com/track/73LPmIHO0GW4tHXx6fKTkh) | [Messian Dread](https://open.spotify.com/artist/04yVvk0AJ4uHQwNoQbXROj) | [Tunes For Thoughts](https://open.spotify.com/album/1N9A7fipWS65oAObMYN37U) | 5:23 | 2024-05-01 |  |
 | [Give Up](https://open.spotify.com/track/5y54vQN0TfoFUCD3uPT7lj) | [Marcy Daydream](https://open.spotify.com/artist/6NkpRJhd9in8Syp4gT3ka9) | [Dap Me Up](https://open.spotify.com/album/2PBPToTasAkbw7c1yzDjir) | 3:24 | 2025-08-09 |  |
@@ -1423,6 +1424,7 @@
 | [No Estas Cerca](https://open.spotify.com/track/6wJgxcP6uexZ65xhyk2vyk) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [No Estas Cerca](https://open.spotify.com/album/2FYr0svN8acYaK0wID61rT) | 3:17 | 2026-03-30 |  |
 | [No Games](https://open.spotify.com/track/2PpdIACVUpJabH75OIaL5v) | [Mista Kleen](https://open.spotify.com/artist/26gVCMDXeuZSguWMLxkAVi) | [Level Up](https://open.spotify.com/album/0Ubri8H2HsxSycDhMS7sY0) | 4:24 | 2025-10-07 |  |
 | [No Me Faltes](https://open.spotify.com/track/6vRrzftD5VPE97cASRGDO6) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [No Me Faltes](https://open.spotify.com/album/3hCoH6JUGGzoiihYLssRVu) | 3:18 | 2026-03-30 |  |
+| [No Me Hables](https://open.spotify.com/track/2yu6eLRYCQGTlpIuMtgOV1) | [Manuel m clouds art](https://open.spotify.com/artist/6XqHezSWhMSFtWLrzu40C0) | [Sin Paris o New York](https://open.spotify.com/album/0XK7kSk0OdIHV3FrS3oyPC) | 4:15 | 2026-07-01 |  |
 | [NO ME PUEDO RENDIR](https://open.spotify.com/track/48kd0xa7KPJbOrvFzlBE2e) | [JNJ](https://open.spotify.com/artist/4ff88NG2akCbGQMhpYVV0o) | [DESDE 2022](https://open.spotify.com/album/1W9m2PNsLXU3EGFeoVeaHi) | 2:19 | 2025-05-28 |  |
 | [No No No](https://open.spotify.com/track/4DcJqeEsFI9q31wGoSU9fQ) | [Jordan Owen](https://open.spotify.com/artist/5oxtUCOxb6AFZJBCoZZFD8) | [No No No](https://open.spotify.com/album/6BueIXrNmmvd1ShZAxja7m) | 2:42 | 2025-08-06 |  |
 | [No One Like You](https://open.spotify.com/track/52LKwIbzBGEiByhT01Mn65) | [Sandi Padilla](https://open.spotify.com/artist/2iSXutDQwaCqQX7xujsUWq) | [The Frequency of Healing](https://open.spotify.com/album/2klgeDpHJWUaO4ractZY05) | 6:22 | 2025-08-12 |  |
@@ -1625,6 +1627,7 @@
 | [RAN AWAY](https://open.spotify.com/track/54xEKW5lWX9gtONtouaAtb) | [Averyle](https://open.spotify.com/artist/3hcUmjO3BYWrgjx6CKbzAo) | [RAN AWAY](https://open.spotify.com/album/4Muc77bxfxGEASeBZ0CehH) | 3:21 | 2025-05-20 |  |
 | [ranch on my sweatshirt](https://open.spotify.com/track/1c7y2Aw75N5ijtGgDoBkYU) | [Mildred's Big Day](https://open.spotify.com/artist/2ayq6NXWGwkbCzqEyTTpQv) | [For 91.1](https://open.spotify.com/album/5YKcMoJ79pjcsaNdLtZUNb) | 2:46 | 2025-09-24 |  |
 | [Rapture Ready](https://open.spotify.com/track/0YK4wXgYTuoAtzLX7tBVUe) | [Antoine Stewart](https://open.spotify.com/artist/5R4JTZMIplcOfqOEXYBg6b), [Indian Will God's Arrow](https://open.spotify.com/artist/02p2LgR3ZjVMgqodAt8g2v) | [Rapture Ready](https://open.spotify.com/album/7sRIFRW3aOwQAHMZMKHiRT) | 3:56 | 2025-10-07 |  |
+| [Rapuh](https://open.spotify.com/track/0257WfyJ9vxVPm7b0dh6xA) | [Eklyra](https://open.spotify.com/artist/2ROoPAHDGn6hHs986H0y9V) | [Rapuh](https://open.spotify.com/album/0pE86dWCLq32BjMjpGscSG) | 3:46 | 2026-07-01 |  |
 | [Rasta Caravan](https://open.spotify.com/track/4z1mEnrw98nU5XItu5yad5) | [Ras Tamano](https://open.spotify.com/artist/6AzPKf5UTTpMnbgtKyWya8), [Goja Bongos](https://open.spotify.com/artist/7FU0l5HaLimkfIQZAjI8EB) | [Nyahbinghi I\-lodica](https://open.spotify.com/album/3KoPRZazTGn88Ee9nIZFYC) | 5:58 | 2024-03-25 |  |
 | [Rasta People](https://open.spotify.com/track/3hIxbgN0aSv10PsfUYNR7X) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc) | [Wake Up Your Lion](https://open.spotify.com/album/14G1h8BQAZu5Dfa6T7UKNl) | 3:23 | 2024-05-01 |  |
 | [Rasta People We Are In Dub \- Hermit Dubz Steppers Dub Mix](https://open.spotify.com/track/0oSpjY9aOCRoSVZzO0RpIx) | [Soul Fire](https://open.spotify.com/artist/7pqC9YBhVcQk75OWWkuLjc), [Hermit Dubz](https://open.spotify.com/artist/0nHH3n6c05s27skeVPxZbf) | [Rasta People We Are](https://open.spotify.com/album/45vt4BBQs3OIcf7hCHzvAh) | 3:30 | 2024-05-03 |  |
@@ -2356,6 +2359,7 @@
 | [مفيش فايدة \( بنلف في دايرة فاضية \)](https://open.spotify.com/track/3T71EW4SKk1F1j9p9eeojH) | [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Ahmed M Farid](https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt) | [مفيش فايدة \( بنلف في دايرة فاضية \)](https://open.spotify.com/album/55ly2sSClrLujKzB5jFTcN) | 3:55 | 2026-05-31 |  |
 | [مهرجان فهمنا \( من الدنيا دي اتعلمنا \)](https://open.spotify.com/track/0Rj103R9RuRVV2or4W2CGW) | [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Ahmed M Farid](https://open.spotify.com/artist/7I6twl0w4JIsFe7howLGLk), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt) | [مهرجان فهمنا \( من الدنيا دي اتعلمنا \)](https://open.spotify.com/album/6KDXTPgiLfEYUokveQ4dyH) | 3:40 | 2026-06-03 |  |
 | [مولد يا دنيا](https://open.spotify.com/track/4B1tI7knfzos81FLuSqBc3) | [AFROTO Beats](https://open.spotify.com/artist/3nCLSI5jV4qNit9F2hgrq0), [Super Mono](https://open.spotify.com/artist/76VzYrqb4WDRVNBimbYsWt) | [مزمار علي السقفة \(انغام بلدي\)](https://open.spotify.com/album/4esPsMZUekvuDGLkl9dNEJ) | 3:38 | 2026-06-06 |  |
+| [“Baila Conmigo” \- vivo](https://open.spotify.com/track/0aYmFilb24ShCcoDvo9Mna) | [jonathan arce](https://open.spotify.com/artist/5WVvH3bbAQPZlm3SJ5Y472) | [“Baila Conmigo” \(vivo\)](https://open.spotify.com/album/4KHm9voyWjINtavaL3zHHU) | 2:41 | 2026-07-01 |  |
 | [あなた](https://open.spotify.com/track/7HHPTTI8vesYK563qCNckR) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [あなた](https://open.spotify.com/album/1CZNZD1qvAbHlFcdByhbfR) | 2:30 | 2025-06-09 |  |
 | [塩顔男子](https://open.spotify.com/track/0GSbY6mlGyfMNinV8YOlI1) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [塩顔男子](https://open.spotify.com/album/5VPhR0H5oRNQue1bggcMlH) | 3:07 | 2025-08-25 |  |
 | [好きになったもん負け。なんて信じない！](https://open.spotify.com/track/1a5L2HXxeJRDrc8wJq6Z8C) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [好きになったもん負け。なんて信じない！](https://open.spotify.com/album/7A1cBtzaQ5LwHMrPGtIdvx) | 4:37 | 2026-02-06 |  |

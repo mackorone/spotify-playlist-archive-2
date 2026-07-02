@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Emir Can İğrek ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,111 likes - 139 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,113 likes - 139 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 47 | [Yine mi Yollar](https://open.spotify.com/track/36ZHbblTiLScfpSzwiXLJt) | [Tuna Kiremitçi](https://open.spotify.com/artist/799GDxXgsUDuGSbh5HJ3Kv) | [Yine mi Yollar](https://open.spotify.com/album/4XglaHk8uQU5kAsk46vuQ2) | 3:39 |
 | 48 | [angel's calling](https://open.spotify.com/track/5pw5hOGQYzTpx4i2BQT0Ti) | [aisu](https://open.spotify.com/artist/6WCTGeTYQ71cApZr34u4er) | [angel's calling](https://open.spotify.com/album/36gtHyKDpQ6zJEITxjcQrM) | 2:32 |
 | 49 | [The Time Of My Life](https://open.spotify.com/track/08JkZRttDnq5SkZ9vCPSjJ) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [The Time Of My Life](https://open.spotify.com/album/5QFHiTkr2OHLAPRWvaD0Hw) | 3:35 |
-| 50 | [Tövbe Est](https://open.spotify.com/track/1zoFwNn0inaoNQ1KgOGyNO) | [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5), [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [Tövbe Est](https://open.spotify.com/album/3x5YyDtOCXmsf9f4eyGUdx) | 2:40 |
+| 50 | [TÖVBE EST](https://open.spotify.com/track/1zoFwNn0inaoNQ1KgOGyNO) | [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5), [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [TÖVBE EST](https://open.spotify.com/album/3x5YyDtOCXmsf9f4eyGUdx) | 2:40 |
 | 51 | [Shine](https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Aidan Martin](https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb) | [Twenty One](https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG) | 2:27 |
 | 52 | [Yoksun Yine](https://open.spotify.com/track/1eAgOZ5yuGIAFJaSLr4DyJ) | [Batu Akdeniz](https://open.spotify.com/artist/7lwjjMPB0a7AfbkwcDipfO) | [Yoksun Yine](https://open.spotify.com/album/1KSjZg0bd9Ev6qPoYvnN3k) | 5:11 |
 | 53 | [Ne Vedalar İzledim](https://open.spotify.com/track/5ctI4AILwCcVonykyNikA1) | [6iant](https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii), [Shikss](https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7), [T4L](https://open.spotify.com/artist/3XHQ9kWAPHHBE8DPCF6DQZ) | [Ne Vedalar İzledim](https://open.spotify.com/album/6PvfV9yeUBqurgzSxzunv5) | 3:00 |

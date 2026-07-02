@@ -1,6 +1,6 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 96956,
+  "num_followers": 96961,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
+        "name": "St. Helens Alpenglow",
+        "url": "https://open.spotify.com/album/1sh1SFMAwY63mi7roX84ik"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 246882,
+      "name": "St. Helens Alpenglow",
+      "url": "https://open.spotify.com/track/3v7QG2v0gjNN99aIwGKWyJ"
+    },
+    {
+      "added_at": "2026-05-12 22:07:33",
+      "album": {
         "name": "BIG MONEY",
         "url": "https://open.spotify.com/album/7qYbLlvM7qPAz4XAWnXDC3"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 251502,
       "name": "LEAN ON MY LOVE (feat. Andra Day)",
       "url": "https://open.spotify.com/track/6qPidYSSbSZigyZFD1sJee"
-    },
-    {
-      "added_at": "2026-05-12 22:07:33",
-      "album": {
-        "name": "St. Helens Alpenglow",
-        "url": "https://open.spotify.com/album/1sh1SFMAwY63mi7roX84ik"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 246882,
-      "name": "St. Helens Alpenglow",
-      "url": "https://open.spotify.com/track/3v7QG2v0gjNN99aIwGKWyJ"
     },
     {
       "added_at": "2026-05-12 22:07:33",
@@ -991,18 +991,18 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "MAYBE",
-        "url": "https://open.spotify.com/album/3oAlz9200fyoVPB3t1Tcfo"
+        "name": "Moonbeam",
+        "url": "https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r"
       },
       "artists": [
         {
-          "name": "Gabriela Bee",
-          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+          "name": "Cassandra Coleman",
+          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
         }
       ],
-      "duration_ms": 194304,
-      "name": "MAYBE",
-      "url": "https://open.spotify.com/track/1PS9AXcHyldKbcRWhNgjOq"
+      "duration_ms": 238319,
+      "name": "Moonbeam",
+      "url": "https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu"
     },
     {
       "added_at": "2026-05-12 22:07:33",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2026-05-12 22:07:33",
       "album": {
-        "name": "Moonbeam",
-        "url": "https://open.spotify.com/album/2yFJrexb16yo2SPSu4Qa8r"
+        "name": "MAYBE",
+        "url": "https://open.spotify.com/album/3oAlz9200fyoVPB3t1Tcfo"
       },
       "artists": [
         {
-          "name": "Cassandra Coleman",
-          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
         }
       ],
-      "duration_ms": 238319,
-      "name": "Moonbeam",
-      "url": "https://open.spotify.com/track/6JWYMfs0pJdNrf3b6aP5Xu"
+      "duration_ms": 194304,
+      "name": "MAYBE",
+      "url": "https://open.spotify.com/track/1PS9AXcHyldKbcRWhNgjOq"
     },
     {
       "added_at": "2026-05-12 22:07:33",

@@ -4,7 +4,7 @@
 
 > rølp og sånt
 
-470 songs - 21 hr 32 min
+471 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Bøgdamann](https://open.spotify.com/track/58RhRKDcZ7gT2JAlbRWyUc) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Bøgdamann](https://open.spotify.com/album/7gFTlR2Nh47dXpgyw744zG) | 2:47 | 2023-03-09 | 2024-02-09 |
 | [Bøgdegutt](https://open.spotify.com/track/71HOGcm7rG4ytLgaeorFuc) | [REMO](https://open.spotify.com/artist/7G3I6lu8k5Ph7MN5v9yEug) | [Bøgdegutt](https://open.spotify.com/album/3gpPwHEgZWKbgb2WFyWMaa) | 2:40 | 2022-01-13 | 2022-07-27 |
 | [Campingstol](https://open.spotify.com/track/5Zf0q7YUDdwqnRl5cTWKuR) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Campingstol](https://open.spotify.com/album/1qq96rk7nlj3jTLunfUO2p) | 2:53 | 2025-07-31 | 2026-02-27 |
+| [CAT 374](https://open.spotify.com/track/1x1VCdqlxuR0SVWdYYXPlC) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL), [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN) | [CAT 374](https://open.spotify.com/album/1ATJPu9U3mxwZ180vKpdWs) | 2:56 | 2026-06-25 |  |
 | [Che Casino](https://open.spotify.com/track/4PSC9tidDrwwtb9nMVM0Hv) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Che Casino](https://open.spotify.com/album/76X2ccF8LGeRfkxUwXPNLH) | 2:55 | 2021-12-16 | 2022-11-16 |
 | [CHUGGE \(Wine Not\)](https://open.spotify.com/track/2kJUjgNRaum4cuJgAQu51a) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [CHUGGE \(Wine Not\)](https://open.spotify.com/album/1IV0803HCb53c2UiktKIp5) | 3:13 | 2022-02-03 | 2022-06-18 |
 | [City Boy](https://open.spotify.com/track/0MzftibVXzOHofvzw6sqQ3) | [Hjulspinn](https://open.spotify.com/artist/5A1Dp2synjftKRsqAV8Jgr) | [City Boy](https://open.spotify.com/album/2I6TGlH8cMneYC4m8zwA47) | 2:05 | 2022-07-21 | 2022-07-25 |
@@ -374,7 +375,7 @@
 | [Rundt neste sving](https://open.spotify.com/track/1a13lJDJfoIwl1sfjVWy4j) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Rundt neste sving](https://open.spotify.com/album/5kK2tt52F3j9ARRsksxOHT) | 3:55 | 2021-12-16 | 2022-07-29 |
 | [Rundt neste sving](https://open.spotify.com/track/0ARPFpJeBfsRmwrrzdvrls) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [På vei](https://open.spotify.com/album/3hMvFCykxO3CCOlk0stETD) | 3:55 | 2022-12-01 |  |
 | [Ryker på'a igjen](https://open.spotify.com/track/1fvSW9yqJQI37iL5HaEuRr) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Ryker på'a igjen](https://open.spotify.com/album/33tldhAaMzfe8yJ7L3fVqf) | 2:25 | 2025-07-10 | 2026-06-10 |
-| [Rypejakt](https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL), [Tomgang](https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe) | [Rypejakt](https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm) | 2:29 | 2026-05-28 |  |
+| [Rypejakt](https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW) | [Crashville](https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL), [Tomgang](https://open.spotify.com/artist/3Qj3nUfSYOKCaDqcvIdgYe) | [Rypejakt](https://open.spotify.com/album/2WVbRn5uvs0aGIcpoz25Sm) | 2:29 | 2026-05-28 | 2026-07-02 |
 | [Scania fra 1973](https://open.spotify.com/track/149qw7uPNyeYjZbF1TtOq5) | [Vagabond](https://open.spotify.com/artist/6i6Ce1ounJ0ssnfIzVNn6s) | [3](https://open.spotify.com/album/03p4hxaB9DqC7Kh5bAkb8b) | 3:52 | 2022-02-03 | 2022-04-18 |
 | [Se dig naken igen](https://open.spotify.com/track/7CyHiCbqRj4RokUXYbHndJ) | [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Örnen](https://open.spotify.com/artist/5qr9oJEKhqbjVAFxyYIKKy) | [Se dig naken igen](https://open.spotify.com/album/30YVIl0fpuUAH1IrILSvJQ) | 2:16 | 2025-07-17 | 2025-11-11 |
 | [SE PÅ MIG JAG DANSAR UTAN DIG](https://open.spotify.com/track/0p2xrYWk6xXNoYG4FPdvYD) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [SE PÅ MIG JAG DANSAR UTAN DIG](https://open.spotify.com/album/4Jz3pUrONbYOyGZ7bnJiJS) | 1:59 | 2022-12-08 | 2023-02-20 |

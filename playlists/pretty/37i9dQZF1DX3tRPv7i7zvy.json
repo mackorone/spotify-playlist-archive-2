@@ -1,6 +1,6 @@
 {
   "description": "We Outsideeeee!",
-  "num_followers": 20941,
+  "num_followers": 20953,
   "original_name": "Abonten ",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,18 @@
     {
       "added_at": "2026-06-25 22:36:55",
       "album": {
-        "name": "Lova Boy Era",
-        "url": "https://open.spotify.com/album/5i3t44ZOyolbQ3f9SVH93x"
+        "name": "Koto Na Gye (Bend & Take)",
+        "url": "https://open.spotify.com/album/1V8YoEmXIlGmgXa1r4CTPY"
       },
       "artists": [
         {
           "name": "Mr Drew",
           "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
-        },
-        {
-          "name": "Olivetheboy",
-          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 158267,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/642UlSGtBqRt7RPW6p930B"
+      "duration_ms": 123000,
+      "name": "Koto Na Gye (Bend & Take)",
+      "url": "https://open.spotify.com/track/16iHMC9kNIyMG5n1rYRNam"
     },
     {
       "added_at": "2026-06-25 22:36:55",
@@ -1111,18 +1107,22 @@
     {
       "added_at": "2026-06-25 22:36:55",
       "album": {
-        "name": "Koto Na Gye (Bend & Take)",
-        "url": "https://open.spotify.com/album/1V8YoEmXIlGmgXa1r4CTPY"
+        "name": "Lova Boy Era",
+        "url": "https://open.spotify.com/album/5i3t44ZOyolbQ3f9SVH93x"
       },
       "artists": [
         {
           "name": "Mr Drew",
           "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
         }
       ],
-      "duration_ms": 123000,
-      "name": "Koto Na Gye (Bend & Take)",
-      "url": "https://open.spotify.com/track/16iHMC9kNIyMG5n1rYRNam"
+      "duration_ms": 158267,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/642UlSGtBqRt7RPW6p930B"
     },
     {
       "added_at": "2026-06-25 22:36:55",
@@ -1147,18 +1147,22 @@
     {
       "added_at": "2026-06-25 22:36:55",
       "album": {
-        "name": "Dance With You",
-        "url": "https://open.spotify.com/album/6YgeKfh6ZsGp2E4WwWEOeG"
+        "name": "Green Light",
+        "url": "https://open.spotify.com/album/32400KtvwwhQ6Ez8YqRCSn"
       },
       "artists": [
         {
-          "name": "Kweku Darlington",
-          "url": "https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW"
+          "name": "Yartti",
+          "url": "https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
         }
       ],
-      "duration_ms": 153750,
-      "name": "Dance With You",
-      "url": "https://open.spotify.com/track/13LJmsj0UnvhVpIa5ne5Pb"
+      "duration_ms": 168421,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/0SMhYPT7oVW5zLWuOA1emb"
     }
   ],
   "unique_name": "Abonten ",

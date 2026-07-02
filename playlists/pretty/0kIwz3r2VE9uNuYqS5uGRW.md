@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 523 likes - 267 songs - 14 hr 7 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 268 songs - 14 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -275,5 +275,6 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 265 | [Sin ir tan lejos](https://open.spotify.com/track/3ad5lw5L4WZVObfvgVsCWL) | [No Hana](https://open.spotify.com/artist/2O6qXZs283cofBBPPxbMAT), [Giovanni Tonight](https://open.spotify.com/artist/2q9fWbtFZdI3il6GffVCfp) | [Los Testamentos](https://open.spotify.com/album/6GK49Zb0RCnDjkCu8iEUg4) | 2:51 |
 | 266 | [FRESA](https://open.spotify.com/track/6MW4bg0ThytV9jELeTYkI2) | [Jack SS](https://open.spotify.com/artist/2oQMY35cF4L9Xvaksl8ifB) | [FRESA](https://open.spotify.com/album/4uqqB0p3BjugeFdIVzvdD1) | 1:54 |
 | 267 | [Northwoods](https://open.spotify.com/track/3q9YV0kullF1IIEUoKTadq) | [Simon Alexander](https://open.spotify.com/artist/4i4s4cwfzGvsURbt6rzKTA) | [A Place to Call Home](https://open.spotify.com/album/5XnHiDa8vkJc95wnLw74mx) | 3:47 |
+| 268 | [MAJJIK CAT EARS](https://open.spotify.com/track/0fNuqRQWwAnLMndmWFtjlq) | [Screaming Lord Byron](https://open.spotify.com/artist/3o2K8R7odtpShOCa08g5Hk) | [MAJJIK CAT EARS](https://open.spotify.com/album/0UvSfg6f8TuwkNC3jjU2aN) | 5:32 |
 
-Snapshot ID: `AAAWETS72PrTSpY5kOFdT+3evldTi8GT`
+Snapshot ID: `AAAWEkIh21Q1/BAaqvvQIoZRu30inSBf`

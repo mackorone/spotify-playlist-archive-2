@@ -4,7 +4,7 @@
 
 > 
 
-1,516 songs - 3 day 9 hr 43 min
+1,517 songs - 3 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -715,6 +715,7 @@
 | [kill em](https://open.spotify.com/track/4QtB7BKYHpFP8xywUyev9g) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [Κankan](https://open.spotify.com/artist/2HfEGAJuiD6uQN7xwPoSgh) | [birds.](https://open.spotify.com/album/372OLql24SIHHbLAZgzoow) | 1:52 | 2022-07-28 | 2023-05-09 |
 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 | 2025-09-12 | 2026-03-08 |
 | [Kills](https://open.spotify.com/track/0PA5vHHfpUq7HWiMA1y5TN) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Dedication](https://open.spotify.com/album/6UmCAaUrpnYdq0tHqeKiXX) | 2:49 | 2023-08-29 | 2024-11-06 |
+| [King James](https://open.spotify.com/track/5ri4b7YQp2PWn8tl3MRYgE) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:17 | 2026-07-01 |  |
 | [KitKat](https://open.spotify.com/track/4ZR9C9Ccf1nmEJN9765N2O) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 2:58 | 2022-12-15 | 2023-05-09 |
 | [Knight \(feat\. Domo Genesis\)](https://open.spotify.com/track/2LbL1HaoZrXrCR538uxUjl) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6) | [Doris](https://open.spotify.com/album/5vRfIDOPJHy3W2wHWbzLlE) | 3:13 | 2026-06-01 |  |
 | [KRUSTY KREW ANTHEM \(BACK ON THE GRILL\)](https://open.spotify.com/track/7KbcPfcBMquaJGf4BVesOv) | [Kash Krabs](https://open.spotify.com/artist/2p7jmj2D8qdDkM0dkHXhWP), [Oddwin](https://open.spotify.com/artist/2nLKb5KOTjny5GUxbR8doa), [Sauceward](https://open.spotify.com/artist/56J1JQFJpRFSVdMftVtJjv) | [The Krusty Pack](https://open.spotify.com/album/1jBNhLA91c4XVAEhUtsELd) | 1:52 | 2023-06-24 | 2023-12-14 |

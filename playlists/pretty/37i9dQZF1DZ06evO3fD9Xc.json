@@ -1,12 +1,12 @@
 {
   "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
-  "num_followers": 103961,
+  "num_followers": 103965,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akG1gAAAAACHH853Zrboyy04lnp8UF+T",
+  "snapshot_id": "akMHAAAAAABDocqfjjIhxqqvs93TZuFQ",
   "tracks": [
     {
       "added_at": null,
@@ -108,9 +108,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 204778,
-      "name": "Me Sobrabas T\u00fa",
-      "url": "https://open.spotify.com/track/1oFYyDYpOFJ0HNtjyfY6e1"
+      "duration_ms": 197141,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/2teAaxXdeNe4cQa6cjnnKg"
     },
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 197141,
-      "name": "El Color de Tus Ojos",
-      "url": "https://open.spotify.com/track/2teAaxXdeNe4cQa6cjnnKg"
+      "duration_ms": 204778,
+      "name": "Me Sobrabas T\u00fa",
+      "url": "https://open.spotify.com/track/1oFYyDYpOFJ0HNtjyfY6e1"
     },
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Me Sueltes",
-        "url": "https://open.spotify.com/album/7JfwGcd9SQy4wxXK5aQTFc"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 180786,
-      "name": "Qu\u00e9 Bueno Que Fuiste T\u00fa",
-      "url": "https://open.spotify.com/track/61pfP2D4QNELNEsxh0aCn7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Triste",
         "url": "https://open.spotify.com/album/64XgI0RnipGlDqapRLDFA6"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 263429,
       "name": "El Triste",
       "url": "https://open.spotify.com/track/7dS44IlBfrCBv1J6UP4NKP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nunca Me Sueltes",
+        "url": "https://open.spotify.com/album/7JfwGcd9SQy4wxXK5aQTFc"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 180786,
+      "name": "Qu\u00e9 Bueno Que Fuiste T\u00fa",
+      "url": "https://open.spotify.com/track/61pfP2D4QNELNEsxh0aCn7"
     },
     {
       "added_at": null,
@@ -528,9 +528,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 153994,
-      "name": "No Le Hago Falta",
-      "url": "https://open.spotify.com/track/61F4sjhQSAw2veDWVRjEQi"
+      "duration_ms": 196080,
+      "name": "Seremos",
+      "url": "https://open.spotify.com/track/5AT5SkDR5LZEkNKCxJ4FAX"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 249974,
-      "name": "Me Va A Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/6ba7EliMJofFCitLiNDX80"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 3",
         "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 249974,
+      "name": "Me Va A Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/6ba7EliMJofFCitLiNDX80"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis Covers, Vol. 4",
         "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
       },
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 196080,
-      "name": "Seremos",
-      "url": "https://open.spotify.com/track/5AT5SkDR5LZEkNKCxJ4FAX"
+      "duration_ms": 153994,
+      "name": "No Le Hago Falta",
+      "url": "https://open.spotify.com/track/61F4sjhQSAw2veDWVRjEQi"
     },
     {
       "added_at": null,
@@ -879,6 +879,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pena Negra",
+        "url": "https://open.spotify.com/album/6sS807A3vu79g6Dkbar92U"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 180800,
+      "name": "Pena Negra",
+      "url": "https://open.spotify.com/track/4Y7b2elmBKXRREiPwuZ3Hh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Puro Chanela",
         "url": "https://open.spotify.com/album/2gmMeg70Z8lYhk3p4irB7G"
       },
@@ -899,26 +919,6 @@
       "duration_ms": 172709,
       "name": "Perro Culazo",
       "url": "https://open.spotify.com/track/29GYeZx8YvcveRxbZkvXzm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pena Negra",
-        "url": "https://open.spotify.com/album/6sS807A3vu79g6Dkbar92U"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 180800,
-      "name": "Pena Negra",
-      "url": "https://open.spotify.com/track/4Y7b2elmBKXRREiPwuZ3Hh"
     }
   ],
   "unique_name": "This Is Carolina Ross",

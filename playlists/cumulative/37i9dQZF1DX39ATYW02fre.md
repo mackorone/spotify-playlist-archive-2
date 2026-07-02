@@ -4,7 +4,7 @@
 
 > Beautiful electronic music for melancholy moments.
 
-291 songs - 20 hr 30 min
+292 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Drowning](https://open.spotify.com/track/7gw6R8syjMYMkcdLNubFPu) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [Drowning](https://open.spotify.com/album/1Y9kWCOmN77yxC2io3A8D9) | 3:45 | 2021-03-16 | 2022-06-09 |
 | [Earth \- Edit](https://open.spotify.com/track/1d4Bj6OXYW2EKkOvlTME3C) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8) | [Earth](https://open.spotify.com/album/1rvqEamId9eBnnyFDVpb3y) | 3:50 | 2020-06-05\* | 2022-07-15 |
 | [Easy Come Easy Go](https://open.spotify.com/track/6muUfsnL9J7bt4XmO7IOzl) | [Tilja](https://open.spotify.com/artist/0Fznamwt37NfdZhmg47LD4) | [Easy Come Easy Go](https://open.spotify.com/album/6cDvB29D9ewom7OO9zb18T) | 1:53 | 2026-05-29 |  |
+| [Echoes of Miami.](https://open.spotify.com/track/6dSLhunmHpn2hDNw8wqU2I) | [Bolden.](https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5) | [Echoes of Miami.](https://open.spotify.com/album/6gJH8OdpbzwMOSyHPXFn1I) | 2:14 | 2026-06-25 |  |
 | [Electrian](https://open.spotify.com/track/6351qyccfDeVbjSgIR7Yvq) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Galazy EP](https://open.spotify.com/album/5gCTPWjMbIIp7XaUkZV5UO) | 6:52 | 2020-06-05 | 2022-07-16 |
 | [Eleven](https://open.spotify.com/track/43xkvx0JTUd4x4mAJm79H4) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Eleven](https://open.spotify.com/album/10dumwLFKAySOp08qSpdom) | 5:40 | 2025-10-03 | 2025-10-08 |
 | [Escape](https://open.spotify.com/track/20cNDRUVuayveIRgcYdwYL) | [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [Escape EP](https://open.spotify.com/album/6oc7OKNAXGt9qOpBoekO3t) | 4:49 | 2021-12-07 | 2024-03-01 |
@@ -198,7 +199,7 @@
 | [Parting Ways \- Edit](https://open.spotify.com/track/4t8Wj2B859gQJ4pR8D8eAf) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Six Sigma](https://open.spotify.com/artist/611HYzCmDN0PUG2AUrJ8gq) | [Parting Ways](https://open.spotify.com/album/7Dgatu1IOIwmPSyqPTrzZJ) | 4:37 | 2020-06-05\* | 2022-07-29 |
 | [Pastoral](https://open.spotify.com/track/19vWDttuR4ZVBzUfQFsfPS) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Pastoral](https://open.spotify.com/album/7e79YQn5tWC0LL9M2SFtde) | 3:40 | 2021-01-05 | 2026-06-21 |
 | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \- Rework](https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Patadas de Ahogado / LATÍN MAFIA, HUMBE \(Rework\)](https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx) | 3:06 | 2024-03-29 |  |
-| [Patience](https://open.spotify.com/track/5pW62tsMUPtw8k69ifpcjJ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:14 | 2020-06-05\* |  |
+| [Patience](https://open.spotify.com/track/5pW62tsMUPtw8k69ifpcjJ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Spirit](https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG) | 4:14 | 2020-06-05\* | 2026-07-02 |
 | [Pause](https://open.spotify.com/track/4r1sucDlwhcDNobr2rDmIH) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Beacon](https://open.spotify.com/artist/3sb3yLRnhW2L2ulU93eKfl) | [Now Here No Where](https://open.spotify.com/album/2PIN5JlqhdClGkTsvauX36) | 5:40 | 2021-01-05 | 2022-07-29 |
 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 | 2020-09-02 | 2022-07-29 |
 | [Perpetual Motion](https://open.spotify.com/track/05kGKBMBFTpccppj8GdTHH) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [Perpetual Motion](https://open.spotify.com/album/54YUMopbV21ClaQ5iGMWHc) | 4:58 | 2020-06-05\* | 2022-07-29 |

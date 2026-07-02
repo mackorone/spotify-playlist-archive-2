@@ -1,6 +1,6 @@
 {
   "description": "The finest set of Telugu music from the past 10 years. \nCover : Court",
-  "num_followers": 461168,
+  "num_followers": 461205,
   "original_name": "Tollywood Pearls",
   "owner": {
     "name": "Spotify",
@@ -897,6 +897,30 @@
       "url": "https://open.spotify.com/track/1Nh7gea2bnOt9i3HQI1JCB"
     },
     {
+      "added_at": "2023-05-04 06:50:45",
+      "album": {
+        "name": "Dasara (Telugu)",
+        "url": "https://open.spotify.com/album/2AMgY8htFx9X91zgB09Pta"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Narayanan",
+          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+        },
+        {
+          "name": "Ram Miriyala",
+          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        }
+      ],
+      "duration_ms": 203052,
+      "name": "Chamkeela Angeelesi",
+      "url": "https://open.spotify.com/track/5nhP1idzo26UhFB9jjlIDE"
+    },
+    {
       "added_at": "2022-07-24 04:40:57",
       "album": {
         "name": "Radhe Shyam (Telugu)",
@@ -923,30 +947,6 @@
       "duration_ms": 232762,
       "name": "Ee Raathale",
       "url": "https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R"
-    },
-    {
-      "added_at": "2023-05-04 06:50:45",
-      "album": {
-        "name": "Dasara (Telugu)",
-        "url": "https://open.spotify.com/album/2AMgY8htFx9X91zgB09Pta"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Narayanan",
-          "url": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
-        },
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        },
-        {
-          "name": "Dhee",
-          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
-        }
-      ],
-      "duration_ms": 203052,
-      "name": "Chamkeela Angeelesi",
-      "url": "https://open.spotify.com/track/5nhP1idzo26UhFB9jjlIDE"
     },
     {
       "added_at": "2022-08-16 07:40:21",
@@ -1013,6 +1013,22 @@
       "url": "https://open.spotify.com/track/58DAnVD65xKeQW3ARTBolV"
     },
     {
+      "added_at": "2021-12-16 12:46:43",
+      "album": {
+        "name": "Love Story",
+        "url": "https://open.spotify.com/album/7ouZl1HNkTJ3zNhdGPH01F"
+      },
+      "artists": [
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        }
+      ],
+      "duration_ms": 263505,
+      "name": "Nee Chitram Choosi",
+      "url": "https://open.spotify.com/track/5PsmOImV4eJxcTK8ZxSPJz"
+    },
+    {
       "added_at": "2025-01-20 06:56:34",
       "album": {
         "name": "Saripodhaa Sanivaaram (Original Motion Picture Soundtrack)",
@@ -1039,22 +1055,6 @@
       "duration_ms": 282000,
       "name": "Ullaasam",
       "url": "https://open.spotify.com/track/00AfDW29vK3ZR3rVeSENpO"
-    },
-    {
-      "added_at": "2021-12-16 12:46:43",
-      "album": {
-        "name": "Love Story",
-        "url": "https://open.spotify.com/album/7ouZl1HNkTJ3zNhdGPH01F"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        }
-      ],
-      "duration_ms": 263505,
-      "name": "Nee Chitram Choosi",
-      "url": "https://open.spotify.com/track/5PsmOImV4eJxcTK8ZxSPJz"
     },
     {
       "added_at": "2026-04-17 11:03:44",
@@ -1879,6 +1879,26 @@
     {
       "added_at": "2023-08-07 09:11:28",
       "album": {
+        "name": "Fidaa",
+        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
+      },
+      "artists": [
+        {
+          "name": "Sindhuri",
+          "url": "https://open.spotify.com/artist/42hb3CC6jTpF3vve0FkquG"
+        },
+        {
+          "name": "Sinov Raj",
+          "url": "https://open.spotify.com/artist/0Xk1j528pHoL2oervr3qP0"
+        }
+      ],
+      "duration_ms": 248133,
+      "name": "Hey Pillagaada",
+      "url": "https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS"
+    },
+    {
+      "added_at": "2023-08-07 09:11:28",
+      "album": {
         "name": "Nenu Sailaja",
         "url": "https://open.spotify.com/album/1pE2RYH3lcDdLpMVjBslBp"
       },
@@ -1915,26 +1935,6 @@
       "duration_ms": 308601,
       "name": "Chal Chalo Chalo",
       "url": "https://open.spotify.com/track/0BFQi3erN3X4tT6ZrthC5d"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Fidaa",
-        "url": "https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh"
-      },
-      "artists": [
-        {
-          "name": "Sindhuri",
-          "url": "https://open.spotify.com/artist/42hb3CC6jTpF3vve0FkquG"
-        },
-        {
-          "name": "Sinov Raj",
-          "url": "https://open.spotify.com/artist/0Xk1j528pHoL2oervr3qP0"
-        }
-      ],
-      "duration_ms": 248133,
-      "name": "Hey Pillagaada",
-      "url": "https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS"
     },
     {
       "added_at": "2022-07-24 04:40:57",
@@ -2113,6 +2113,26 @@
       "url": "https://open.spotify.com/track/3RyfIFxOrHLJV3reR37Xwr"
     },
     {
+      "added_at": "2022-07-24 04:40:57",
+      "album": {
+        "name": "Uppena",
+        "url": "https://open.spotify.com/album/4ug7KdJJ2CVG5fANdZbzHM"
+      },
+      "artists": [
+        {
+          "name": "Jaspreet Jasz",
+          "url": "https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 252065,
+      "name": "Jala Jala Jalapaatham Nuvvu",
+      "url": "https://open.spotify.com/track/3NF3c438tAguEcWvU4b5iA"
+    },
+    {
       "added_at": "2023-08-07 09:11:28",
       "album": {
         "name": "Srimanthudu",
@@ -2131,22 +2151,6 @@
       "duration_ms": 224194,
       "name": "Jatha Kalise",
       "url": "https://open.spotify.com/track/7IsCmld8aCYXj1NbSn9t2K"
-    },
-    {
-      "added_at": "2023-08-07 09:11:28",
-      "album": {
-        "name": "Pelli Choopulu (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/28IIZL1NzZXe8XiUnAEkdN"
-      },
-      "artists": [
-        {
-          "name": "Amritavarshini KC",
-          "url": "https://open.spotify.com/artist/2PFEzYX50XbriutPxZa9QZ"
-        }
-      ],
-      "duration_ms": 291500,
-      "name": "Chinuku Taake..",
-      "url": "https://open.spotify.com/track/4ewe55AoVtNZQZMihVmp9u"
     }
   ],
   "unique_name": "Tollywood Pearls",

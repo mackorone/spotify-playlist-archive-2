@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 ### [Fresh Finds Africa](https://open.spotify.com/playlist/37i9dQZF1DX5C8ObEZ48JQ)
 
-> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU?si=pYzDLQ6TQcC7k9KHtL4uAw">Rorisang Sechele</a>\. Artwork: Isu Kim.
+> The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1AALbjlavmdWKN8J1CLsMF?si=p40mh03ZQUWbRcYGVfCs\-A">Jiggy Stapes</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,208 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,215 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mama](https://open.spotify.com/track/0WtT81xVf7FERbo6SdoFE1) | [Rorisang Sechele](https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU) | [Mama](https://open.spotify.com/album/4Zf7ktaekWbM4RAW56QAqN) | 4:20 |
-| 2 | [iNjabulo](https://open.spotify.com/track/6aBdeUzyI3cmVjNTvDQBBK) | [Jiggy Stapes](https://open.spotify.com/artist/1AALbjlavmdWKN8J1CLsMF), [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6), [Mimi Xama](https://open.spotify.com/artist/2phlWsdMEbsyLe43L1IIX7) | [iNjabulo](https://open.spotify.com/album/29uNvt9uM4JpzjQ3JrQdtQ) | 3:09 |
+| 1 | [iNjabulo](https://open.spotify.com/track/6aBdeUzyI3cmVjNTvDQBBK) | [Jiggy Stapes](https://open.spotify.com/artist/1AALbjlavmdWKN8J1CLsMF), [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6), [Mimi Xama](https://open.spotify.com/artist/2phlWsdMEbsyLe43L1IIX7) | [iNjabulo](https://open.spotify.com/album/29uNvt9uM4JpzjQ3JrQdtQ) | 3:09 |
+| 2 | [Mama](https://open.spotify.com/track/0WtT81xVf7FERbo6SdoFE1) | [Rorisang Sechele](https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU) | [Mama](https://open.spotify.com/album/4Zf7ktaekWbM4RAW56QAqN) | 4:20 |
 | 3 | [Car Park Cult](https://open.spotify.com/track/0Ca74YE1XGRR6QcreQUDrq) | [Mia Lord](https://open.spotify.com/artist/4QSh1pbgB4Q7t1lL7sIZfI) | [Car Park Cult](https://open.spotify.com/album/2RaXVH29avsBTY4pLMZID5) | 3:56 |
 | 4 | [Again](https://open.spotify.com/track/0gNFw7otPPEVSBb1tFNjdO) | [Money Badoo](https://open.spotify.com/artist/3RLZh7s3TdS5bL08ATw7Ba) | [4PLAY](https://open.spotify.com/album/4VY9ZQyEMm6MB3FFBqw604) | 2:51 |
 | 5 | [Chance](https://open.spotify.com/track/4a5X8q7S7aODHRgKI4ExvM) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [ITEM VII](https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD) | 2:43 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 48 | [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 |
 | 49 | [Ifeoma](https://open.spotify.com/track/3Dt1dGG3OLQ2j9FynaYPYZ) | [LOTi](https://open.spotify.com/artist/0urGBe1Pism9xlVVwOmExn) | [LOVE MADE ME DO IT](https://open.spotify.com/album/7qLaOrsbFogh5A5yzQtmvS) | 2:42 |
 
-Snapshot ID: `AAAAAL63yAkhzl8ILRChHjenNI8RDh2z`
+Snapshot ID: `AAAAACALfvT8GCjJf6UFitwFvmhOHlzR`

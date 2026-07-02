@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Brand\u00e3o85",
-  "num_followers": 149345,
+  "num_followers": 149376,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -355,34 +355,6 @@
     {
       "added_at": "2026-06-11 22:24:51",
       "album": {
-        "name": "Alexa",
-        "url": "https://open.spotify.com/album/2DWaIbUBJ8rzNcgvUudbfy"
-      },
-      "artists": [
-        {
-          "name": "LH CHUCRO",
-          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
-        },
-        {
-          "name": "Senndy",
-          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
-        },
-        {
-          "name": "Drummond",
-          "url": "https://open.spotify.com/artist/11SKuSqWt1KyNO22CSTsiq"
-        },
-        {
-          "name": "Cheek",
-          "url": "https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3"
-        }
-      ],
-      "duration_ms": 154576,
-      "name": "Alexa",
-      "url": "https://open.spotify.com/track/5Nv8Xh8UTH8cY8YF1SIX0N"
-    },
-    {
-      "added_at": "2026-06-11 22:24:51",
-      "album": {
         "name": "Yeezy Slide \"REMIX\"",
         "url": "https://open.spotify.com/album/61SPqXJSxF2WozUy1KLRrD"
       },
@@ -411,6 +383,34 @@
       "duration_ms": 138591,
       "name": "Yeezy Slide \"REMIX\"",
       "url": "https://open.spotify.com/track/3BdG3O9MCiJEWTJDIevhXi"
+    },
+    {
+      "added_at": "2026-06-11 22:24:51",
+      "album": {
+        "name": "Alexa",
+        "url": "https://open.spotify.com/album/2DWaIbUBJ8rzNcgvUudbfy"
+      },
+      "artists": [
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "Senndy",
+          "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
+        },
+        {
+          "name": "Drummond",
+          "url": "https://open.spotify.com/artist/11SKuSqWt1KyNO22CSTsiq"
+        },
+        {
+          "name": "Cheek",
+          "url": "https://open.spotify.com/artist/0JgRvvrS6TEtj3t3cvEXE3"
+        }
+      ],
+      "duration_ms": 154576,
+      "name": "Alexa",
+      "url": "https://open.spotify.com/track/5Nv8Xh8UTH8cY8YF1SIX0N"
     },
     {
       "added_at": "2026-06-11 22:24:51",

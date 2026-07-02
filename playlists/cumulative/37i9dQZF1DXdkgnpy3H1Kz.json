@@ -10607,6 +10607,24 @@
     },
     {
       "album": {
+        "name": "Mein Herz",
+        "url": "https://open.spotify.com/album/0QXtXkHK3zhTY0WT2L1ruw"
+      },
+      "artists": [
+        {
+          "name": "Ellen Allien",
+          "url": "https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203835,
+      "name": "Mein Herz",
+      "url": "https://open.spotify.com/track/71w6hm2v7SHtmeks41gRzH"
+    },
+    {
+      "album": {
         "name": "Nuit",
         "url": "https://open.spotify.com/album/1Xi801E5lmLRKaf58j6rlp"
       },

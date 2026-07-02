@@ -1,6 +1,6 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 26291,
+  "num_followers": 26289,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
-        "name": "Love Me Less (feat. Quinn XCII)",
-        "url": "https://open.spotify.com/album/0BHgyJ3dblyBOmxV8pRmGg"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        }
-      ],
-      "duration_ms": 177669,
-      "name": "Love Me Less (feat. Quinn XCII)",
-      "url": "https://open.spotify.com/track/2tOOcDDYkh0PSjr6GwPEAJ"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
         "name": "Right Now",
         "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 201680,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
+        "name": "Love Me Less (feat. Quinn XCII)",
+        "url": "https://open.spotify.com/album/0BHgyJ3dblyBOmxV8pRmGg"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        }
+      ],
+      "duration_ms": 177669,
+      "name": "Love Me Less (feat. Quinn XCII)",
+      "url": "https://open.spotify.com/track/2tOOcDDYkh0PSjr6GwPEAJ"
     },
     {
       "added_at": "2024-07-03 14:32:39",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2024-07-03 14:32:39",
       "album": {
+        "name": "Just Friends",
+        "url": "https://open.spotify.com/album/0J9VlRE4GIO7EDkYkIl8YL"
+      },
+      "artists": [
+        {
+          "name": "Audrey Mika",
+          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
+        }
+      ],
+      "duration_ms": 168982,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/1NzRZ7AosK7ZDumMsZYofo"
+    },
+    {
+      "added_at": "2024-07-03 14:32:39",
+      "album": {
         "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
         "url": "https://open.spotify.com/album/1QrYKuMTMLwpTwzOFhfnOk"
       },
@@ -1967,22 +1983,6 @@
       "duration_ms": 186804,
       "name": "Faith (with Dolly Parton) [feat. Mr. Probz]",
       "url": "https://open.spotify.com/track/35MKhw2YBKApmD7fAnPERC"
-    },
-    {
-      "added_at": "2024-07-03 14:32:39",
-      "album": {
-        "name": "Just Friends",
-        "url": "https://open.spotify.com/album/0J9VlRE4GIO7EDkYkIl8YL"
-      },
-      "artists": [
-        {
-          "name": "Audrey Mika",
-          "url": "https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp"
-        }
-      ],
-      "duration_ms": 168982,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/1NzRZ7AosK7ZDumMsZYofo"
     }
   ],
   "unique_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",

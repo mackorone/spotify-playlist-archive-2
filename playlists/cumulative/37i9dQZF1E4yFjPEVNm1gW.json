@@ -2038,7 +2038,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 108437,
       "name": "imposter",
       "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
@@ -2320,7 +2320,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 189231,
       "name": "king of the pumpkin patch",
       "url": "https://open.spotify.com/track/7yXA3nKDn6fZSj8IWpukUv"
@@ -2940,7 +2940,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "No Blickout",
       "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
@@ -4436,6 +4436,24 @@
       "duration_ms": 234322,
       "name": "Thrax Playboi",
       "url": "https://open.spotify.com/track/1SRfrIUmHYaUcnTQMnfPB6"
+    },
+    {
+      "album": {
+        "name": "TIKIMAN",
+        "url": "https://open.spotify.com/album/0UvMICYwIXALgKzcLCFEKa"
+      },
+      "artists": [
+        {
+          "name": "Oodaredevil",
+          "url": "https://open.spotify.com/artist/1yj1u1EEoD0kmQuthHP6nf"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162449,
+      "name": "TIKIMAN",
+      "url": "https://open.spotify.com/track/6K3rWD8XFBKEZRiUuVd4Mi"
     },
     {
       "album": {

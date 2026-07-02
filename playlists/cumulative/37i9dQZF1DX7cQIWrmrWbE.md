@@ -4,7 +4,7 @@
 
 > Aquí solo suena a celebración, orgullo y pasión\. 💛💙❤️⚽️
 
-212 songs - 12 hr 14 min
+213 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Coco Chanel](https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:28 | 2023-05-09 | 2024-06-25 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-12-30 | 2023-05-10 |
 | [Coleccionando Heridas](https://open.spotify.com/track/3ddJ8Vbc5tYPxq5zKRVke6) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:24 | 2025-07-07 | 2026-06-11 |
+| [Colombia Caribe \(Si, Si, Colombia\)](https://open.spotify.com/track/3xbTQOAKgAp2Ufklh2ujg6) | [Francisco Zumaqué](https://open.spotify.com/artist/5Fc4V3AlnhHqvw7hBT8yuC) | [Colombia Caribe \(Si, Si, Colombia\)](https://open.spotify.com/album/3AKsvpYit9AL2EgAZUwWhq) | 4:58 | 2026-07-01 |  |
 | [Colombia Mí Selección](https://open.spotify.com/track/3YaDh3VF4kYZxVS9XbBAGR) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR) | 2:50 | 2026-06-10 |  |
 | [Colombia Tierra Querida](https://open.spotify.com/track/0voZNv0FGCzGXzZ5iJv3fX) | [La Orquesta De Ray](https://open.spotify.com/artist/536oYO1HiaPI4rTwWkWKgs), [Benetia](https://open.spotify.com/artist/67mvd0i0PAOjOLPfWZW8eb) | [Música Tropical Colombiana \(Vol\. 2\)](https://open.spotify.com/album/4SfzqdLRv794XSahyQNP7K) | 2:59 | 2026-06-10 |  |
 | [Con la Punta del Palo](https://open.spotify.com/track/4CfrsV1ZdPkI9LuizZ8Xsx) | [Farid Ortiz](https://open.spotify.com/artist/5OG4S2qn54NS8AAw5dCbgN), [Emilio Oviedo](https://open.spotify.com/artist/0gp7YgvBbdKBOd6dJIYY8z) | [Internacionales](https://open.spotify.com/album/6amCChZfi0cTgnnTPPDgaN) | 3:48 | 2026-06-10 |  |

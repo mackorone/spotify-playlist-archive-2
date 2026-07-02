@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-602 songs - 2 day 0 hr 15 min
+603 songs - 2 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,7 +218,7 @@
 | [Ganbare](https://open.spotify.com/track/22kCwGTTD5j4vJOzTCVNp2) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [Ganbare](https://open.spotify.com/album/1E6NFhurNt4TuYNAfCZzLX) | 6:37 | 2021-10-06 | 2025-07-17 |
 | [Gangsters](https://open.spotify.com/track/36XFu4Cw9NtVwxfMy6RjPO) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Gangsters](https://open.spotify.com/album/7ub8U3jx4kVYV623RqF5bO) | 3:29 | 2025-04-11 | 2025-09-20 |
 | [Gangsters](https://open.spotify.com/track/4cug7RkMB0SCoYkYrXYN4y) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Tall Tales](https://open.spotify.com/album/6KIRln7GBcc3eO22UDy8T2) | 3:29 | 2025-05-20 | 2025-10-18 |
-| [Ghi\-Ta \(Elin Piel Remix\)](https://open.spotify.com/track/05j5WvxwSGuAfTH3bZXyvq) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E), [Elin Piel](https://open.spotify.com/artist/3zVDpnuUhxYYCYyTccvdTY) | [Tết 41 \(Remixes, Pt.1\)](https://open.spotify.com/album/4i09tMahJcaoZrfCX2ws8U) | 6:14 | 2026-02-20 |  |
+| [Ghi\-Ta \(Elin Piel Remix\)](https://open.spotify.com/track/05j5WvxwSGuAfTH3bZXyvq) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E), [Elin Piel](https://open.spotify.com/artist/3zVDpnuUhxYYCYyTccvdTY) | [Tết 41 \(Remixes, Pt.1\)](https://open.spotify.com/album/4i09tMahJcaoZrfCX2ws8U) | 6:14 | 2026-02-20 | 2026-07-02 |
 | [Give It Your Choir \- Instrumental](https://open.spotify.com/track/2lsUYy3qMvswbX3rfbZUiI) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun \(Expanded Vol\. 1\)](https://open.spotify.com/album/7oCVk3zWkNB6ByYbjkxYk2) | 4:30 | 2021-10-06 | 2024-04-19 |
 | [Give It Your Choir \- Instrumental](https://open.spotify.com/track/4spkJG5cndAWgMH1ESF1iQ) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun \(Expanded Vol\. 1\)](https://open.spotify.com/album/4ugcKztCoyHLs0eJGb5uVw) | 4:30 | 2021-10-06 | 2025-07-17 |
 | [Glass Ankle](https://open.spotify.com/track/1Sfdy8WzMwWlQWtHSMi90M) | [Sam Bhok](https://open.spotify.com/artist/3o9ubU7gAFiK6xazR6YkTG) | [Glass Ankle](https://open.spotify.com/album/0rfgKCRwuaEMWfdabcWPZJ) | 5:07 | 2025-07-30 | 2026-01-31 |
@@ -516,6 +516,7 @@
 | [The Vaulting Sky](https://open.spotify.com/track/0hIeSMoFkgvG8psoNtOrsZ) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [The Vaulting Sky](https://open.spotify.com/album/78xoqRUrAY2GJQYe6cpnje) | 3:49 | 2022-03-11 | 2025-07-17 |
 | [The Vaulting Sky](https://open.spotify.com/track/6BJ4F52G2o5TgmIJAAYuQD) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [The Vaulting Sky](https://open.spotify.com/album/7cIG9K4xeMOyVvERgvXp7p) | 3:49 | 2022-03-11 | 2024-04-19 |
 | [Therapy With Colour](https://open.spotify.com/track/6aFFB7jaHPY69jISG6vCJY) | [T\. Gowdy](https://open.spotify.com/artist/68oIMsivfmhMVyIKxF1BRZ) | [Therapy With Colour](https://open.spotify.com/album/3OaMOnrGr6gw9noHdWR0UK) | 6:36 | 2021-10-06 | 2025-07-17 |
+| [Think About You](https://open.spotify.com/track/4ugALPsjmt8Uhyysh1Ls6Z) | [Echonaut](https://open.spotify.com/artist/25IyecxXL66P3IlxjTHje2) | [Think About You](https://open.spotify.com/album/37uEvebdR6GidUqadW7IRr) | 3:14 | 2026-07-01 |  |
 | [think of u](https://open.spotify.com/track/17OMPDF9H2XINaE0VCOgRv) | [Cucina Sonora](https://open.spotify.com/artist/0t4vNX1iyHzmASWTnsYzES), [Pentola](https://open.spotify.com/artist/3K4rEZFW6Y93pEXaOtlSJM) | [think of u](https://open.spotify.com/album/7pW8TU3ndfj72rejZDjbpB) | 3:58 | 2025-09-26 |  |
 | [Three Drums](https://open.spotify.com/track/2aotiIWn6HgQH9vsEIs1Ls) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 8:15 | 2024-03-19 | 2025-09-20 |
 | [Time To Find Me \(AFX Fast Mix\)](https://open.spotify.com/track/2eyPtyuJl4UPzwd67wdyK8) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Pure, Impure](https://open.spotify.com/album/4j1NzQoxiCILQ5OWVeLTEP) | 7:37 | 2021-10-06 | 2025-07-17 |

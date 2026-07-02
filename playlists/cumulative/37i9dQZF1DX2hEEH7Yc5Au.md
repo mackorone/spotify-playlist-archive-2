@@ -2,7 +2,7 @@
 
 ### [EQUAL Taiwan](https://open.spotify.com/playlist/37i9dQZF1DX2hEEH7Yc5Au)
 
-> 一起來欣賞女性音樂人的精采表現！Cover: Karencici
+> 探索女性音樂人的精彩作品，收聽 Karencici 精選女歌手歌曲！Cover: Karencici
 
 1,101 songs - 2 day 23 hr 55 min
 

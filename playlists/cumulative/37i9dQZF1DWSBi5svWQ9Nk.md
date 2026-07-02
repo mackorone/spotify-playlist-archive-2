@@ -2,7 +2,7 @@
 
 ### [Hot Hits NL](https://open.spotify.com/playlist/37i9dQZF1DWSBi5svWQ9Nk)
 
-> De 50 grootste hits in NL\. Cover: Shakira & Burna Boys
+> De 50 grootste hits in NL\. Cover: Shakira & Burna Boy
 
 637 songs - 1 day 7 hr 20 min
 

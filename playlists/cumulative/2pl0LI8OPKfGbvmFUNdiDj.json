@@ -388,7 +388,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 179393,
       "name": "Aint No Thang",
       "url": "https://open.spotify.com/track/5TTn1CjPZag045kau3pHq1"
@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 140000,
       "name": "Bed Made of Roses",
       "url": "https://open.spotify.com/track/2ScYDedLsFpnA5iTkzQGKP"
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 498000,
       "name": "Caral",
       "url": "https://open.spotify.com/track/6abL28H0A5muvw4b4FtnT6"
@@ -1872,6 +1872,54 @@
       "duration_ms": 208741,
       "name": "Clocks, Sticks, and Geniuses",
       "url": "https://open.spotify.com/track/2xLo9uHN0Da4we9nrOuXYX"
+    },
+    {
+      "album": {
+        "name": "Cobra",
+        "url": "https://open.spotify.com/album/4TrFxpjXPxSkuEPJd4NNAJ"
+      },
+      "artists": [
+        {
+          "name": "Dirty Whip",
+          "url": "https://open.spotify.com/artist/4cWiMMiIa4kqnWarpFu0VV"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249116,
+      "name": "Cobra",
+      "url": "https://open.spotify.com/track/1Ds1FFZuGjxkhRMRl6R2aw"
+    },
+    {
+      "album": {
+        "name": "Composed",
+        "url": "https://open.spotify.com/album/4HoHSBzQBNGyQxfYdpVr6K"
+      },
+      "artists": [
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/0Pch3Ue1mQmhop3hfKptd8"
+        },
+        {
+          "name": "Dj Sean P",
+          "url": "https://open.spotify.com/artist/4P08e76i9aRYNoE5c7otBB"
+        },
+        {
+          "name": "Kid Abstrakt",
+          "url": "https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w"
+        },
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158724,
+      "name": "Composed",
+      "url": "https://open.spotify.com/track/6nAY8qfduqInslOiaId3Vu"
     },
     {
       "album": {
@@ -2620,7 +2668,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 270521,
       "name": "El Camino",
       "url": "https://open.spotify.com/track/45OF12sFrMP8pnK3UCrhhl"
@@ -4208,7 +4256,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 116785,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/2gGcCQt9wtPhaNHQi20hm5"
@@ -4280,7 +4328,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 125304,
       "name": "Invisible",
       "url": "https://open.spotify.com/track/4wdDAHGHSVvjvgFUefA0He"
@@ -5514,7 +5562,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 212386,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5Jpq2l82zrAp0IxgeLR8c2"
@@ -5550,7 +5598,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 204923,
       "name": "Meta",
       "url": "https://open.spotify.com/track/6bkUhClIp0aid5XGt3dA1e"
@@ -5800,7 +5848,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 164279,
       "name": "Nastasia",
       "url": "https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH"
@@ -5962,7 +6010,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 187653,
       "name": "No More Heroes",
       "url": "https://open.spotify.com/track/5O9TUKCbroCDPvgIWqLLsr"
@@ -6708,7 +6756,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 186000,
       "name": "Retazos",
       "url": "https://open.spotify.com/track/2W6RLkNVNJP9gNC7KLbN6a"
@@ -7026,7 +7074,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 218739,
       "name": "Scars",
       "url": "https://open.spotify.com/track/0lF2y089fv67qGw026DRhq"
@@ -7372,7 +7420,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 236518,
       "name": "Soul'd Off",
       "url": "https://open.spotify.com/track/5yDps6fyhd80oH6xFhZioi"
@@ -7740,7 +7788,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 259513,
       "name": "Take What Is Left",
       "url": "https://open.spotify.com/track/3NnzCY51DZrwFBNjcUozBP"

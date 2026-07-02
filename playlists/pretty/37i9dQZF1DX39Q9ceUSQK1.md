@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Personal Trainer
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,828 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,822 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Moping](https://open.spotify.com/track/67kA8Q1zSRbDMq5aPiUdpr) | [Personal Trainer](https://open.spotify.com/artist/2zm5WsGFYihLD85ZTRcpoc) | [Moping](https://open.spotify.com/album/6EPKsKT1MhkhqLsJg4eQUU) | 2:49 |
-| 2 | [Blindsided](https://open.spotify.com/track/2phK5vGVKu2mEh7rZz6sFT) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr) | [Blindsided](https://open.spotify.com/album/0k2s4ZKENAGuGzNfA3YLIX) | 3:26 |
+| 2 | [IK HEB ER GEEN ZIN IN](https://open.spotify.com/track/53IMsLNe8WnrQ5PgmBYJfI) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [IK HEB ER GEEN ZIN IN](https://open.spotify.com/album/3bLpuoi6b8Xxeq6IRi03VQ) | 2:10 |
 | 3 | [Through the Beam](https://open.spotify.com/track/60zFN50t9JC2nFm2A78xk5) | [Triggerfinger](https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU) | [Through the Beam](https://open.spotify.com/album/3v5TBf7ZtfGDvi6WSyLYk0) | 3:14 |
-| 4 | [IK HEB ER GEEN ZIN IN](https://open.spotify.com/track/53IMsLNe8WnrQ5PgmBYJfI) | [IDA](https://open.spotify.com/artist/7c4xb6WHJ6NhTQqgTQnbDN) | [IK HEB ER GEEN ZIN IN](https://open.spotify.com/album/3bLpuoi6b8Xxeq6IRi03VQ) | 2:10 |
+| 4 | [Blindsided](https://open.spotify.com/track/2phK5vGVKu2mEh7rZz6sFT) | [Wodan Boys](https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr) | [Blindsided](https://open.spotify.com/album/0k2s4ZKENAGuGzNfA3YLIX) | 3:26 |
 | 5 | [Blue Star](https://open.spotify.com/track/5wUIVxxBLO9Q63lpT9Rxff) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Easy Peeler](https://open.spotify.com/album/1I6NzZT45mQt6LSfNjavwR) | 3:06 |
 | 6 | [CTRL + ALT + DEL](https://open.spotify.com/track/338UsXlYt8K25bAuyB3tAy) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [CTRL + ALT + DEL](https://open.spotify.com/album/18qCxRY5GQiSAZRV6cTj7d) | 3:29 |
 | 7 | [Better Man](https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Better Man](https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [Caught](https://open.spotify.com/track/60F4PkVYMwIE74a9ssuWJl) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Caught](https://open.spotify.com/album/2BL51vTtCfJwkZ32pdQzTA) | 3:10 |
 | 100 | [One Thing At A Time](https://open.spotify.com/track/1KuW8u6AAPmCzpSCfWbq4I) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [One Thing At A Time](https://open.spotify.com/album/0iGHI45DWOOb5QG7aDlzvm) | 4:42 |
 
-Snapshot ID: `AAAAADtZbp3vlBjTnzvLGJX+opDJOGj9`
+Snapshot ID: `AAAAAE3dTG9+jUN2xHU8UsseCxOLKn+u`

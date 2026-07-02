@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,485 songs - 10 day 0 hr 6 min
+4,488 songs - 10 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1365,6 +1365,7 @@
 | [Eternal Sin \#Music \#NewMusic \#Viral](https://open.spotify.com/track/0qPyqXaquK6wmXOHkEsp1w) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 3:16 | 2025-09-15 |  |
 | [Eternally Forever](https://open.spotify.com/track/5sOIJsjzADwM1YpbhW14La) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Eternally Forever](https://open.spotify.com/album/46Zwkjiu8lmyCO5lFbh131) | 3:35 | 2025-09-26 |  |
 | [Eternally Forever \(forever mix\)](https://open.spotify.com/track/6CaQ7yO6Ehtrex6j8ENHnQ) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Eternally Forever \(forever mix\)](https://open.spotify.com/album/4lkUnxp91FHIVGUaSIDNol) | 4:50 | 2025-10-14 |  |
+| [Eternamente](https://open.spotify.com/track/6WsVGrldsAKOhXU53kd808) | [Mc Kno](https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk), [beats weedbrela](https://open.spotify.com/artist/7GZaDg6n6mAl9otSuuhUOX), [Freeman Rap](https://open.spotify.com/artist/5NlFf7NZfSwNZL9UOKtqR0), [EL MOCHO ELC](https://open.spotify.com/artist/4N2t6ALevyPCB1ZwvbYTFM) | [Eternamente](https://open.spotify.com/album/55OwZJvPyn1iWF5UWQlRQW) | 3:30 | 2026-07-01 |  |
 | [Eternamente Noi](https://open.spotify.com/track/2e96D2JE6aYBMWpOnlmgWs) | [ChiaroScuro](https://open.spotify.com/artist/5eseuLgyBu4fzbBag8nSOq) | [Eternamente Noi](https://open.spotify.com/album/5LJJ5DqENtySvKRHVbWEZh) | 3:36 | 2025-05-27 |  |
 | [Eternity](https://open.spotify.com/track/2evCbAh1yvvXeGIuaKJWqS) | [Radio\-Activity](https://open.spotify.com/artist/4xGqrEzme9UDHKeX4r7xbq) | [The Altar of Forbidden Knowledge](https://open.spotify.com/album/4C9e70v0JNuoQV5YqhxtWh) | 2:39 | 2025-05-27 |  |
 | [Ethereal Calm](https://open.spotify.com/track/5Z22u1sNmgBw24Be9ZvFKS) | [Yoga Meditation](https://open.spotify.com/artist/6bXLqExfY3jgaJU0Uuyhd2) | [Ethereal Calm](https://open.spotify.com/album/0roiskTxQ1H4r5bquyd9FZ) | 11:51 | 2025-06-04 |  |
@@ -2090,6 +2091,7 @@
 | [KOFFIN](https://open.spotify.com/track/5eQDHVe4sINNQU5DHgnRP2) | [Zoleon](https://open.spotify.com/artist/2ICjf9TZAj9HK9nZ8zZtkK) | [KOFFIN](https://open.spotify.com/album/2JmTjfYuJztSXJRgqPVqTu) | 2:28 | 2025-07-03 |  |
 | [Konga Talk](https://open.spotify.com/track/3N5dJflQ3zvAKaZpEu9drD) | [LORD AMEN](https://open.spotify.com/artist/12N57Y6sSeiPuVwe9jvcIY) | [Feel That Call](https://open.spotify.com/album/3ZkUwkwwaGv3XZlOuojERe) | 3:16 | 2026-06-03 |  |
 | [Kontrol](https://open.spotify.com/track/0G6I5FZ1pDWf9khtsjGisV) | [Du'mi](https://open.spotify.com/artist/2qX18UhF8UwGR9XvReiLw5) | [Kontrol](https://open.spotify.com/album/2wiyEel0DsxecBFpTDsAv8) | 2:40 | 2025-05-23 |  |
+| [KosmoX](https://open.spotify.com/track/2aAvcHW1JVydWSFmhjjyK7) | [Baïki](https://open.spotify.com/artist/6DlGStNJwKhJuqs0TXiDHB) | [KosmoX](https://open.spotify.com/album/4B6Ni6w8HDcSY1PGuxSQXw) | 3:29 | 2026-07-01 |  |
 | [Krazy Fly](https://open.spotify.com/track/63fTDMggPOZl8KFLWFE3en) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Krazy Fly](https://open.spotify.com/album/0nw5Lh2StuDmifWAH4dWxt) | 3:54 | 2025-05-27 |  |
 | [Kto pyta nie błądzi](https://open.spotify.com/track/0Y40l5gCn7dgKBhNgBrw2C) | [KRiSU Krzysztof Bańka](https://open.spotify.com/artist/73m6LntQaeyAemA4YFLwp4) | [Zatrzymane](https://open.spotify.com/album/7jb1dGdbuTdmiQpnzmOsEJ) | 2:27 | 2026-02-11 |  |
 | [Kēr](https://open.spotify.com/track/5g29iKtdGonCnt4we4wkLJ) | [AKERO](https://open.spotify.com/artist/6e1aFysEzyJ4eBy0z7uFqQ) | [Men](https://open.spotify.com/album/2ek6a8NVclSB1KfxuLsXCG) | 5:26 | 2026-01-16 |  |
@@ -4241,6 +4243,7 @@
 | [Wanderlust \(another one\) \[another\]](https://open.spotify.com/track/3X8YsnFrwmY9MwfbJKRG3b) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Indie Music Style](https://open.spotify.com/album/5d5v2cAyrOm0sSQd9O8gx6) | 3:46 | 2025-06-06 |  |
 | [Wanderlust \(another\)](https://open.spotify.com/track/1p2imXNN83QnTt8Iq68rZr) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Indie Music Style](https://open.spotify.com/album/5d5v2cAyrOm0sSQd9O8gx6) | 2:08 | 2025-09-19 |  |
 | [Wanna Be Free](https://open.spotify.com/track/3LcJKM6wdRhPkBu2DuvtAg) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Sunrise EP](https://open.spotify.com/album/7JDicUKhX8bbuQxM0xxW2J) | 4:28 | 2025-10-09 |  |
+| [Want](https://open.spotify.com/track/6HPqzgtJtCVTyxfadXusPZ) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:21 | 2026-07-01 |  |
 | [Wanted](https://open.spotify.com/track/7JhPM8ltIx7vC4b8GjtyNR) | [The Trifecta Experiment](https://open.spotify.com/artist/7pHqumppIzVSlnYsCzWnLv) | [Organized chaos](https://open.spotify.com/album/6wpg5HE62C8oHssYy4YBfd) | 4:27 | 2025-08-19 |  |
 | [Wanted \(Vivo o Morto\)](https://open.spotify.com/track/2KujPMCu0Pn17EW13Z97Rp) | [Godiva Grunge](https://open.spotify.com/artist/1pt5AfwdHnxg9gYsqi5UB2) | [Sono Solo Come Te / Wanted](https://open.spotify.com/album/2uyx6597JkzlWJLuHrlZZR) | 4:14 | 2026-05-05 |  |
 | [Wapas Aaja Meri Baahon Mein \- Reprise](https://open.spotify.com/track/1d4bYFi16sN1Zt2WK9Ruru) | [Dark Sirens](https://open.spotify.com/artist/4CSodsgXfqKTUuXpNcFZQG) | [Khoon Aur Aansu 2.0](https://open.spotify.com/album/2HzFzRawqiHSUr8f0LD3Ls) | 3:46 | 2025-07-02 |  |

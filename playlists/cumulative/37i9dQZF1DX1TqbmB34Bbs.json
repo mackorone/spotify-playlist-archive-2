@@ -18402,7 +18402,7 @@
           "url": "https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o"
         },
         {
-          "name": "HAIFHAIF",
+          "name": "RYUHAIF",
           "url": "https://open.spotify.com/artist/5r1cOycfowIRNcVOfRn0AR"
         },
         {
@@ -20818,6 +20818,24 @@
       "duration_ms": 171655,
       "name": "Own Lane",
       "url": "https://open.spotify.com/track/5HNtOdR1uApZ5usYKtwi85"
+    },
+    {
+      "album": {
+        "name": "OXY_GEN",
+        "url": "https://open.spotify.com/album/0hPyVToM2GSflSCIybG11c"
+      },
+      "artists": [
+        {
+          "name": "Keyveatz",
+          "url": "https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "OXY",
+      "url": "https://open.spotify.com/track/64OohQXYTPd5LA3wfJWAau"
     },
     {
       "album": {
@@ -26127,6 +26145,28 @@
     },
     {
       "album": {
+        "name": "OXY_GEN",
+        "url": "https://open.spotify.com/album/0hPyVToM2GSflSCIybG11c"
+      },
+      "artists": [
+        {
+          "name": "Keyveatz",
+          "url": "https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF"
+        },
+        {
+          "name": "punchnello",
+          "url": "https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "SUB_ZERO (Feat. punchnello)",
+      "url": "https://open.spotify.com/track/3DevZvU4czIFeuzKyIEi0Y"
+    },
+    {
+      "album": {
         "name": "Summer",
         "url": "https://open.spotify.com/album/6h1iG7zXNitBgYP096Dhcp"
       },
@@ -27170,7 +27210,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 179076,
       "name": "The Fearless Ones",
       "url": "https://open.spotify.com/track/4kydWG67LFomptT9efgGmj"
@@ -32690,7 +32730,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 235000,
       "name": "\ub69d\ub69d\ub69d",
       "url": "https://open.spotify.com/track/6qqOz5LS19krVTFAvcSD3A"

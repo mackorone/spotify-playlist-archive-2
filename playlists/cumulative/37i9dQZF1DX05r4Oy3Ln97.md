@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-519 songs - 1 day 3 hr 34 min
+520 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Like I Like It](https://open.spotify.com/track/6vLKVWEuOCQAWEaHv2yknm) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Too Big For B\-Side](https://open.spotify.com/album/5jtv44Kb5NZmbRDfpCTIWE) | 3:44 | 2025-05-23 | 2025-05-31 |
 | [Like It](https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [3DDY](https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q) | [Like It](https://open.spotify.com/album/14PgQPeflG0gYdsgSdgHQU) | 4:26 | 2026-05-15 | 2026-06-03 |
 | [Like This](https://open.spotify.com/track/7zIWzMjIQGMqg0fal19JBo) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Like This](https://open.spotify.com/album/45Hs7PqCNnzhLjxBM3KTeY) | 2:46 | 2023-06-02 | 2023-09-09 |
-| [Lipstick](https://open.spotify.com/track/5DeNvGYijFobt2ufPFGhsK) | [Alaia & Gallo](https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25) | [Lipstick](https://open.spotify.com/album/6f7dpXKC3gqsF0R02qKxhb) | 3:01 | 2026-05-15 |  |
+| [Lipstick](https://open.spotify.com/track/5DeNvGYijFobt2ufPFGhsK) | [Alaia & Gallo](https://open.spotify.com/artist/0VN7mz2rIvpw0FOvZV6p25) | [Lipstick](https://open.spotify.com/album/6f7dpXKC3gqsF0R02qKxhb) | 3:01 | 2026-05-15 | 2026-07-02 |
 | [Little Airplanes](https://open.spotify.com/track/5lzq0LoVd0y5YPLlc64FMz) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv) | [Little Airplanes](https://open.spotify.com/album/4nDplQPsxoFKICg1ruTFjj) | 5:30 | 2022-03-25 | 2022-04-21 |
 | [Live Without Love](https://open.spotify.com/track/4V1SO4C2wG9bTq6Cp7yYyA) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Live Without Love](https://open.spotify.com/album/2Win77LZ47jEOcVu6HcMhX) | 3:10 | 2023-05-26 | 2024-10-13 |
 | [Long Time](https://open.spotify.com/track/170xo9bLZ61vqkSRo0sMHz) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Long Time](https://open.spotify.com/album/5q2lU211sCj4Fc65Jo3G8W) | 2:52 | 2021-10-29 | 2022-07-28 |
@@ -510,6 +510,7 @@
 | [We Groovin \(with Jazzy\)](https://open.spotify.com/track/6LiuMpZjyjjuXFP5Ljo9bv) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [We Groovin \(with Jazzy\)](https://open.spotify.com/album/21mqL1eOj7aRJQUwOQakcH) | 3:01 | 2024-03-15 | 2024-11-23 |
 | [Weak](https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q), [Tom Breu](https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h) | [Weak](https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn) | 3:22 | 2024-04-05 | 2026-05-16 |
 | [We’re Good](https://open.spotify.com/track/0i5Cko9s2HbUq6KCNPAq13) | [PAENDA](https://open.spotify.com/artist/2ic8BSMWMbxMDCC52Mwxuz) | [We’re Good](https://open.spotify.com/album/71i35etl4ytG1b8YIvfbEM) | 3:12 | 2021-10-29 | 2022-06-13 |
+| [What A Life \(feat\. Florence Arman\)](https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [What A Life](https://open.spotify.com/album/6Ad7E2sBgst9CrKF6kUZf2) | 3:09 | 2026-06-26 |  |
 | [What They Call Love](https://open.spotify.com/track/3G954hH4NT5HmtGInACyi9) | [Ferdinand Weber](https://open.spotify.com/artist/5DSfdm9JanV5cqM2nzzJsN), [Kelli\-Leigh](https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff), [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh) | [What They Call Love](https://open.spotify.com/album/4WddQe836sacdd1PhYZg28) | 2:47 | 2021-10-29 | 2022-03-18 |
 | [What You Do To Me](https://open.spotify.com/track/74Sk5cVfVNhfKY9S7hDqrp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [What You Do To Me](https://open.spotify.com/album/35Mc0p9KECg2XVfy1287pR) | 2:34 | 2023-04-07 | 2023-07-01 |
 | [When the Sun Goes Down](https://open.spotify.com/track/1OEbaiPMlMDCPMM4ReCIIH) | [HAYM](https://open.spotify.com/artist/6QQD5qFg4hsxqks5NGZEel), [Tom Polo](https://open.spotify.com/artist/3QSfc9ujwQnb254isTp4VK), [Mars Twins](https://open.spotify.com/artist/2255cIvJST7JWNyUizO1py) | [When the Sun Goes Down](https://open.spotify.com/album/2cWBcF4eIjTTJGBaAb7xXr) | 2:04 | 2023-08-25 | 2023-09-02 |

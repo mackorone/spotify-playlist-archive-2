@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-735 songs - 1 day 14 hr 3 min
+736 songs - 1 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -372,7 +372,8 @@
 | [Maturidade](https://open.spotify.com/track/5RHOhXxMVhpEaBcG6hIydA) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Maturidade](https://open.spotify.com/album/2QWzXzDW94VU4E9KBSJehg) | 2:22 | 2024-10-25 | 2024-11-09 |
 | [Me Ama Ou Me Larga \- Ao Vivo](https://open.spotify.com/track/2TSYxcrcrtLpdbsLY9NmzL) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Me Ama Ou Me Larga \(Ao Vivo\)](https://open.spotify.com/album/1UkbgOVEnnomwxvclUDYmS) | 2:28 | 2025-02-14 | 2025-10-11 |
 | [Me Caiu Tão Bem \- Ao Vivo](https://open.spotify.com/track/6mTpK40yIRk1xGGNvRMHGg) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Fortaleza, Vol.3 \(Ao Vivo\)](https://open.spotify.com/album/0gCOaKfrBuEMpjvKDZnfak) | 2:36 | 2024-06-14 | 2024-12-21 |
-| [Me Fala Qual Necessidade \- Ao Vivo](https://open.spotify.com/track/42AIPMFY5Plqxr4Mw6Bhx9) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Paralelos Vol\. 02](https://open.spotify.com/album/1i6thmVWAz7Q9CMBSIWim5) | 2:28 | 2026-06-05 |  |
+| [Me Fala Qual Necessidade \- Ao Vivo](https://open.spotify.com/track/10a26720hpdHY8JVsHrrdQ) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Paralelos \(Ao Vivo\)](https://open.spotify.com/album/2rRbdZp33TwMs4kyZ6nFkd) | 2:28 | 2026-06-26 |  |
+| [Me Fala Qual Necessidade \- Ao Vivo](https://open.spotify.com/track/42AIPMFY5Plqxr4Mw6Bhx9) | [Henry Freitas](https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM) | [Paralelos Vol\. 02](https://open.spotify.com/album/1i6thmVWAz7Q9CMBSIWim5) | 2:28 | 2026-06-05 | 2026-07-02 |
 | [Me Leva Pra Casa / Escrito Nas Estrelas / Saudade \- Ao Vivo](https://open.spotify.com/track/2sYFUcurlISdHlAsnYCEgD) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Raiz Goiânia \(Ao Vivo\)](https://open.spotify.com/album/6v9Ul1m0zyx9G3uwv8jRhu) | 4:25 | 2024-01-26 | 2024-06-22 |
 | [ME POSTOU NO DAILY \- FESTA DO BIG G](https://open.spotify.com/track/4ATO632UaFTJltxCbfBpHI) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9), [Dj Andrabeat](https://open.spotify.com/artist/1Zg9Zp2NMNIBUiazqAHr1C) | [ME POSTOU NO DAILY \- FESTA DO BIG G](https://open.spotify.com/album/1FeuF1Mscwud8pbUCzypMn) | 2:57 | 2025-10-10 | 2025-12-06 |
 | [ME POSTOU NO DAILY \- FESTA DO BIG G](https://open.spotify.com/track/4ukpXdplqDEMk3Fy2i30oI) | [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9), [Dj Andrabeat](https://open.spotify.com/artist/1Zg9Zp2NMNIBUiazqAHr1C) | [MIXTAPE \- BIG G](https://open.spotify.com/album/1IHVSWOgod1smB2RH7YgJ3) | 2:57 | 2025-12-05 |  |

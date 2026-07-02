@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > The best songs from the new shows and the buzziest hits\. Cover: Original Broadway Cast of The Lost Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,643 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,644 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 9 | [Pretty Little Dead Things](https://open.spotify.com/track/5POzg2k4cmzaxfUhaJ7PRE) | [Paddington The Musical](https://open.spotify.com/artist/4yhYkrJARi1BP6W4Wi3C2w), [Tom Fletcher](https://open.spotify.com/artist/67WcoPwOngc4ZlJiYpOTad), [Victoria Hamilton\-Barritt](https://open.spotify.com/artist/5YdfQ4cZKevXS9GK2usxEz) | [Paddington The Musical \(Original Cast Recording\)](https://open.spotify.com/album/1b40xdcn5sMrYc2zppIYPy) | 4:00 |
 | 10 | [Still Hurting \- Live at the London Palladium](https://open.spotify.com/track/3Dq3ovvhFjc352Phv1j99t) | [Rachel Zegler](https://open.spotify.com/artist/1q9hWC9JAJXjXwZN9aDKW3) | [The Last Five Years \(25th Anniversary Live at the London Palladium\)](https://open.spotify.com/album/4Ya7fUjY2UmqhCrSnwavm8) | 5:11 |
 | 11 | [New York](https://open.spotify.com/track/2TxozelS2QOxZUKNFwCdIn) | [Two Strangers \(Carry A Cake Across New York\)](https://open.spotify.com/artist/0f35iPjkC8ECxz4szceGSN), [Sam Tutty](https://open.spotify.com/artist/5xrGqeeyTEVVfBWj8hItfB), [Christiani Pitts](https://open.spotify.com/artist/0mxLeFr2sWSejRUKBT3Oyd) | [Two Strangers \(Carry A Cake Across New York\) \[Original Broadway Cast Recording\]](https://open.spotify.com/album/2VCk6ZJ6r08eBszCToxbxO) | 3:18 |
-| 12 | [Keep on Walking, Mr\. Fry](https://open.spotify.com/track/0GvtJhJlZuuHhAlJmk1Jgw) | [The Cast of The Unlikely Pilgrimage of Harold Fry](https://open.spotify.com/artist/5eoQitwjj8RFMXshwe7pD3), [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Keep on Walking, Mr\. Fry](https://open.spotify.com/album/1adqPTLKl5IAHQznVFoig1) | 3:43 |
+| 12 | [Keep on Walking, Mr\. Fry](https://open.spotify.com/track/0GvtJhJlZuuHhAlJmk1Jgw) | [The Cast of The Unlikely Pilgrimage of Harold Fry](https://open.spotify.com/artist/5eoQitwjj8RFMXshwe7pD3) | [Keep on Walking, Mr\. Fry](https://open.spotify.com/album/1adqPTLKl5IAHQznVFoig1) | 3:43 |
 | 13 | [Someone Else's Story](https://open.spotify.com/track/5SeRxFU1l2JhOxPWRG2wAW) | [Lea Michele](https://open.spotify.com/artist/16rJDrSGCHMXjPUuKwQcvp) | [CHESS the Musical \(2025 Broadway Cast Recording\)](https://open.spotify.com/album/27MXrcyr0fg5oABxibAMa5) | 3:17 |
 | 14 | [Something To Shout About](https://open.spotify.com/track/4AOW90hm0ZcRV9laXtHM8g) | [Jasmine Amy Rogers](https://open.spotify.com/artist/4brDzNt7bsWWsApI8sWWlp), [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Original Broadway Cast of Boop! The Musical](https://open.spotify.com/artist/1HsCn7QzhAwXtzt9fejQoT) | [Something To Shout About](https://open.spotify.com/album/66aw4ymHXybQCqN0tct0aH) | 2:57 |
 | 15 | [I'm Alive](https://open.spotify.com/track/4hWkVEHdEOSzpjQa0NRttw) | [Jack Wolfe](https://open.spotify.com/artist/2fuwv10XgJs4sLjQXqaQnb) | [Next To Normal \(Original London Cast Recording\)](https://open.spotify.com/album/5IWkvoiJdAJgbebPS47Uy6) | 3:54 |

@@ -1127,6 +1127,28 @@
     },
     {
       "album": {
+        "name": "IDIOMA ARDIDA",
+        "url": "https://open.spotify.com/album/1m8lMG83A4knORpWJe6zpi"
+      },
+      "artists": [
+        {
+          "name": "Bolela",
+          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
+        },
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162759,
+      "name": "IDIOMA ARDIDA",
+      "url": "https://open.spotify.com/track/5VhA5biyUHpzZ8Byy22ScU"
+    },
+    {
+      "album": {
         "name": "Soy Sagitario",
         "url": "https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60"
       },

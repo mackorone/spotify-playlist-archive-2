@@ -2492,7 +2492,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-02",
       "duration_ms": 168557,
       "name": "Mad",
       "url": "https://open.spotify.com/track/6zU3qF1Kf4b00rAYpQI7iV"
@@ -2910,6 +2910,32 @@
       "duration_ms": 180960,
       "name": "One and the Same - From \"Princess Protection Program\"",
       "url": "https://open.spotify.com/track/1QkJBQnCv81ef7gyWMDL3Q"
+    },
+    {
+      "album": {
+        "name": "One Beat Away (From \"Camp Rock 3\")",
+        "url": "https://open.spotify.com/album/1G7PEmWkUrwlOtZ733Ito8"
+      },
+      "artists": [
+        {
+          "name": "Liamani",
+          "url": "https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v"
+        },
+        {
+          "name": "Cast Of Camp Rock",
+          "url": "https://open.spotify.com/artist/6BaEtrOzEuvmxmHZRR1nNa"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169922,
+      "name": "One Beat Away - From \"Camp Rock 3\"",
+      "url": "https://open.spotify.com/track/7GofEArN4cvGP5AwlqbZSs"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Ak Akemi Kakihara
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,213 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,217 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 23 | [rocket coaster](https://open.spotify.com/track/4RsRTNL3ppvQoBjei9jx0n) | [Plus\-Tech Squeeze Box](https://open.spotify.com/artist/048AytXypKMId643ErJmP3) | [FAKEVOX](https://open.spotify.com/album/6DZFPtuATzBCGv6be8hDjM) | 3:04 |
 | 24 | [ブレイク・ア・レッグ！](https://open.spotify.com/track/4h7EjZsVgD8PMkgC1PYYeg) | [Nanashi no Taro](https://open.spotify.com/artist/32xxJA5U8ot0QZPDllZ1po) | [ブレイク・ア・レッグ！](https://open.spotify.com/album/3SImVLJsDPpQUvVdQ4LRIV) | 4:07 |
 | 25 | [気になっちゃう](https://open.spotify.com/track/2bRMndOhDLYcmJuwl9R0Tv) | [夕方と猫](https://open.spotify.com/artist/4JiDOJYtNcMywV5sUP0dYu) | [気になっちゃう](https://open.spotify.com/album/06Y84fVCPQT6sfyvciAOQd) | 2:22 |
-| 26 | [キラキラ・ドッパミン・ジュッジュワー](https://open.spotify.com/track/3tcinjSwW4grRGnciOLe9z) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [キラキラ・ドッパミン・ジュッジュワー](https://open.spotify.com/album/3SEVCNULNzTffwn6c0dkLp) | 2:55 |
+| 26 | [キラキラ・ドッパミン・ジュッジュワー](https://open.spotify.com/track/3tcinjSwW4grRGnciOLe9z) | [SKRYU](https://open.spotify.com/artist/3YI0IfapXX8M8W3zwzmcbM) | [キラキラ・ドッパミン・ジュッジュワー](https://open.spotify.com/album/3SEVCNULNzTffwn6c0dkLp) | 2:54 |
 | 27 | [社会の左](https://open.spotify.com/track/4PGcKMEkq12yHVjn5IS46i) | [ちゃくら](https://open.spotify.com/artist/4y8KqtQgzRVDnQ072O7Vqr) | [社会の左](https://open.spotify.com/album/7wBHzWSSePbWM4ABHjA6Pu) | 3:04 |
 | 28 | [人誑し / ひとたらし](https://open.spotify.com/track/3eL2e1q3Nmw7276FyBJJsu) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [人誑し / ひとたらし](https://open.spotify.com/album/1ZMg4D42hPJotIFLyECBbs) | 4:42 |
 | 29 | [omoutabi](https://open.spotify.com/track/5Y6VdywHOQaSXeV0ps90Dg) | [ん・フェニ](https://open.spotify.com/artist/0EQ1hpoirQ1oH1wFvQb8x0) | [omoutabi](https://open.spotify.com/album/0U7wwycb98Lm1V4y4ZHBcR) | 3:32 |
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 74 | [Page](https://open.spotify.com/track/7pDuwr18isFoGqTuRyoLUL) | [MOTTO MUSIC](https://open.spotify.com/artist/69eIvKHcfYigWsgnBSv1jW), [ACORi](https://open.spotify.com/artist/5iZBZLRkFZ1fPVtSU9HTG0), [薙](https://open.spotify.com/artist/7otTbxXvKBvuc5r3LQVuf9) | [Page](https://open.spotify.com/album/2CwWat5vetQCCjVh9lazgp) | 2:36 |
 | 75 | [Furaibou](https://open.spotify.com/track/1SRu2YfUd6ESwcPVJG3MOf) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [Furaibou](https://open.spotify.com/album/0XvddICdK5fKivSQ1TY5yb) | 2:44 |
 | 76 | [0I2](https://open.spotify.com/track/5L7hQ1htJQVSjiRSirN71j) | [ねむねむ倶楽部](https://open.spotify.com/artist/4NM5eqNIWr5TZJBu9AeQgc) | [0I2](https://open.spotify.com/album/1aQDPhLAXPKBqmtlg6sqrA) | 4:02 |
-| 77 | [午前０時の嘘](https://open.spotify.com/track/3XNuslxmqPHMpOG4ZOARtC) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u) | [午前０時の嘘](https://open.spotify.com/album/5d3BbPT1N7SOLxiTwYQYMJ) | 3:51 |
+| 77 | [午前０時の嘘](https://open.spotify.com/track/3XNuslxmqPHMpOG4ZOARtC) | [HARUNO](https://open.spotify.com/artist/0irTqMvIaHXUvNIJFL0jmh) | [午前０時の嘘](https://open.spotify.com/album/5d3BbPT1N7SOLxiTwYQYMJ) | 3:51 |
 | 78 | [なんて言ってほしいの](https://open.spotify.com/track/1nZWAQl55IZ6FyiIf2rnxZ) | [礼衣](https://open.spotify.com/artist/12w8ow0SohGy8imyEIFjfl) | [なんて言ってほしいの](https://open.spotify.com/album/5njlkxs3Izryu2DKAMSjhO) | 3:04 |
 | 79 | [FLY \(feat\. PiA\)](https://open.spotify.com/track/0dnKWIaTRNGuxUSL31fBv0) | [TENDERLAMP](https://open.spotify.com/artist/2LRzCWglNrweyqcfwcZDZi), [PiA](https://open.spotify.com/artist/2evPael2Y121mv9zBaToKf) | [FLY \(feat\. PiA\)](https://open.spotify.com/album/669LTJ9779PkmpfqFMmFqX) | 3:45 |
 | 80 | [the white room inside my head](https://open.spotify.com/track/0Ekf81RRGBDqMsnpxExRT6) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm), [safmusic](https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7) | [the white room inside my head](https://open.spotify.com/album/6CtQXzTcs3RVdHvhtLwNVq) | 2:47 |

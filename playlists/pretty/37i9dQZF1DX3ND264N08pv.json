@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 95672,
+  "num_followers": 95680,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
@@ -999,30 +999,6 @@
     {
       "added_at": "2026-06-29 08:20:22",
       "album": {
-        "name": "Heavy Kickdrum",
-        "url": "https://open.spotify.com/album/2md9H6p9vC9hJpkoi0RORN"
-      },
-      "artists": [
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        },
-        {
-          "name": "Ricardo Moreno",
-          "url": "https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt"
-        },
-        {
-          "name": "Boogshe",
-          "url": "https://open.spotify.com/artist/0XugtaijoMOUdu6eVWPtX3"
-        }
-      ],
-      "duration_ms": 219375,
-      "name": "Heavy Kickdrum",
-      "url": "https://open.spotify.com/track/5FCQP1z9oNKDo0yjlZypWk"
-    },
-    {
-      "added_at": "2026-06-29 08:20:22",
-      "album": {
         "name": "Lead By Example (Official Dominator 2025 Anthem)",
         "url": "https://open.spotify.com/album/3UE8VxwYfYVFuGTKZRJkX0"
       },
@@ -1051,6 +1027,30 @@
       "duration_ms": 298666,
       "name": "Lead By Example (Official Dominator 2025 Anthem)",
       "url": "https://open.spotify.com/track/037LhIv2yUudP1jzxB8kSD"
+    },
+    {
+      "added_at": "2026-06-29 08:20:22",
+      "album": {
+        "name": "Heavy Kickdrum",
+        "url": "https://open.spotify.com/album/2md9H6p9vC9hJpkoi0RORN"
+      },
+      "artists": [
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Ricardo Moreno",
+          "url": "https://open.spotify.com/artist/3508HjNdwnzSespkyxLOUt"
+        },
+        {
+          "name": "Boogshe",
+          "url": "https://open.spotify.com/artist/0XugtaijoMOUdu6eVWPtX3"
+        }
+      ],
+      "duration_ms": 219375,
+      "name": "Heavy Kickdrum",
+      "url": "https://open.spotify.com/track/5FCQP1z9oNKDo0yjlZypWk"
     }
   ],
   "unique_name": "Hardcore Rage 2026",

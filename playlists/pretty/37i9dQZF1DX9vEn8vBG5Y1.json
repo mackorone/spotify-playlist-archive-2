@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Avril Lavigne",
-  "num_followers": 350159,
+  "num_followers": 350247,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "My Life Would Suck Without You",
-      "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "Shaman",
         "url": "https://open.spotify.com/album/5kkPOwoE9ItngbGIF6m3A4"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 254466,
       "name": "The Game of Love (feat. Michelle Branch) - Main / Radio Mix",
       "url": "https://open.spotify.com/track/41IShViF79gmulEkIHAjcb"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "My Life Would Suck Without You",
+      "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "The Invisible Invasion",
-        "url": "https://open.spotify.com/album/1PioHkWD8fyM5UhrzxMQkS"
-      },
-      "artists": [
-        {
-          "name": "The Coral",
-          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
-        }
-      ],
-      "duration_ms": 152520,
-      "name": "In the Morning",
-      "url": "https://open.spotify.com/track/3q7D4kfMcju2alVibiUAcz"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "Eyes Open",
         "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 197133,
       "name": "Shut Your Eyes",
       "url": "https://open.spotify.com/track/36gFBZrhG5t6ow3NctrGXg"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "The Invisible Invasion",
+        "url": "https://open.spotify.com/album/1PioHkWD8fyM5UhrzxMQkS"
+      },
+      "artists": [
+        {
+          "name": "The Coral",
+          "url": "https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt"
+        }
+      ],
+      "duration_ms": 152520,
+      "name": "In the Morning",
+      "url": "https://open.spotify.com/track/3q7D4kfMcju2alVibiUAcz"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Kris Allen",
-        "url": "https://open.spotify.com/album/5fM41TOegBBrRO7NhmFYvP"
+        "name": "Up To Now",
+        "url": "https://open.spotify.com/album/1IN1tRZL4wr52v3iZBz4Qb"
       },
       "artists": [
         {
-          "name": "Kris Allen",
-          "url": "https://open.spotify.com/artist/2zwHaEmXxX6DTv4i8ajNCM"
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
         }
       ],
-      "duration_ms": 212506,
-      "name": "Live Like We're Dying",
-      "url": "https://open.spotify.com/track/1HfxPaJggVwFsvOtHbVzMz"
+      "duration_ms": 281346,
+      "name": "Just Say Yes",
+      "url": "https://open.spotify.com/track/4k7P2LIQco8YCVbIZl1vZB"
     }
   ],
   "unique_name": "00s Pop Rock",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: UZI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,405,763 likes - 49 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,405,789 likes - 49 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 15 | [SİNEMATOGRAF](https://open.spotify.com/track/2UIkjmKJATC4ssvONBlcB7) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Tuby](https://open.spotify.com/artist/3VuBOZYMdaEEp1uxtf9s2J) | [SİNEMATOGRAF](https://open.spotify.com/album/02U1wZI0SnyLgD2mzuwWho) | 1:42 |
 | 16 | [GANG](https://open.spotify.com/track/4lgyyBPxyM3Ztb46XNW8EN) | [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s), [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS), [Cesiminho](https://open.spotify.com/artist/6sh53iTqwntQpPhDxnvHDC) | [GANG](https://open.spotify.com/album/2YC2lOtQmlKiYlK7K2iBCL) | 2:53 |
 | 17 | [IT’S US](https://open.spotify.com/track/0VK82DF3bZEh8tVQY71Nev) | [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [IT’S US](https://open.spotify.com/album/2Agk8fhkC1FZCHq6GZGJtq) | 3:14 |
-| 18 | [Tövbe Est](https://open.spotify.com/track/1zoFwNn0inaoNQ1KgOGyNO) | [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5), [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [Tövbe Est](https://open.spotify.com/album/3x5YyDtOCXmsf9f4eyGUdx) | 2:40 |
+| 18 | [TÖVBE EST](https://open.spotify.com/track/1zoFwNn0inaoNQ1KgOGyNO) | [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5), [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [TÖVBE EST](https://open.spotify.com/album/3x5YyDtOCXmsf9f4eyGUdx) | 2:40 |
 | 19 | [MANDALINA](https://open.spotify.com/track/4Z0gQavxUSCqj9cx55Owtp) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [MANDALINA](https://open.spotify.com/album/1aHP1cXuU6iaBQxUlVVDGS) | 3:29 |
 | 20 | [Yalancı Deliler Sirki](https://open.spotify.com/track/6SUnNrdVOPj2U4njyrhECm) | [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg), [Ali Ece](https://open.spotify.com/artist/2SzYIeKDEwpMoQzKH5InmK), [Levvera](https://open.spotify.com/artist/0wlUg2BKydLiZ0ilbzTTkY) | [Yalancı Deliler Sirkinde](https://open.spotify.com/album/3MeSFltEDqQhyE29L73Bb0) | 2:47 |
 | 21 | [CNM](https://open.spotify.com/track/7xIYLsVeOWzOcHOaIbggFO) | [Eza](https://open.spotify.com/artist/2gxy3wuy69FehyTu3iuRl2), [Halodayı](https://open.spotify.com/artist/1oR56GSDAFgtdKmSl6qU1r) | [CNM](https://open.spotify.com/album/7meLQbV7lHQABJf6fspJLR) | 2:06 |

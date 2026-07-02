@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX63fzxvjWR0V.md) - [plain]
 
 > Log drums y perreo mexa 🔥 la combinación que no sabías que necesitabas\. Al Xapo & Benzoo 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,373 likes - 40 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,396 likes - 40 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cuando No Era Cantante RMX \- Remix](https://open.spotify.com/track/5sX4UiPdOdndSEWA6asUgh) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Eso Si Es De Gangster](https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL) | 5:27 |
-| 2 | [Canasteo](https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Canasteo](https://open.spotify.com/album/6cyXOfudBl4rNtTmkrwaj7) | 4:30 |
+| 1 | [Canasteo](https://open.spotify.com/track/67jm6nWkkJUsiJ6zedlYng) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Canasteo](https://open.spotify.com/album/6cyXOfudBl4rNtTmkrwaj7) | 4:30 |
+| 2 | [Cuando No Era Cantante RMX \- Remix](https://open.spotify.com/track/5sX4UiPdOdndSEWA6asUgh) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Eso Si Es De Gangster](https://open.spotify.com/album/5DyoeBkxYOgCrA2TpCvJKL) | 5:27 |
 | 3 | [Te Amo y Me Amas](https://open.spotify.com/track/1zcpINZGUYXn2dzO1QSlUo) | [Ian Cordova](https://open.spotify.com/artist/69DtJEq8LQ02KB06wynzuh) | [Linda Mujer](https://open.spotify.com/album/5T8dK0xt8rYynYjnKbPFAO) | 3:31 |
 | 4 | [Te Quería Ver](https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Te Quería Ver](https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF) | 2:56 |
 | 5 | [Asambe](https://open.spotify.com/track/7IdIC4r7QsT1waUt6Ysb9z) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 3:32 |

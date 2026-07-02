@@ -1,6 +1,6 @@
 {
   "description": "in your lush & lazy era \ud83e\udeb7 cozy beats, comfy self-care vibes",
-  "num_followers": 1086593,
+  "num_followers": 1086650,
   "original_name": "slow living",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2026-06-19 04:00:26",
       "album": {
+        "name": "Outfield Light",
+        "url": "https://open.spotify.com/album/0Ivbm1JPD2glOAOP2bKiSq"
+      },
+      "artists": [
+        {
+          "name": "Chris Currano",
+          "url": "https://open.spotify.com/artist/0zmJNaKdkDiMfJxFO12COr"
+        }
+      ],
+      "duration_ms": 131019,
+      "name": "Outfield Light",
+      "url": "https://open.spotify.com/track/6p1S1G9hpw78bVkUzcWggP"
+    },
+    {
+      "added_at": "2026-06-19 04:00:26",
+      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/39ayVNMnZmFUBJF0mC69ke"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 149000,
       "name": "Low",
       "url": "https://open.spotify.com/track/6GHgn25eOOYaEX8lzMXvcI"
-    },
-    {
-      "added_at": "2026-06-19 04:00:26",
-      "album": {
-        "name": "everything goes on",
-        "url": "https://open.spotify.com/album/6f5kuYnqwjTUNIG6J7BVd7"
-      },
-      "artists": [
-        {
-          "name": "nightnotes",
-          "url": "https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3"
-        }
-      ],
-      "duration_ms": 147985,
-      "name": "everything goes on",
-      "url": "https://open.spotify.com/track/5MgY74ns68pXVHxO9IHaKo"
     },
     {
       "added_at": "2026-06-19 04:00:26",
@@ -227,18 +227,18 @@
     {
       "added_at": "2026-06-19 04:00:26",
       "album": {
-        "name": "Outfield Light",
-        "url": "https://open.spotify.com/album/0Ivbm1JPD2glOAOP2bKiSq"
+        "name": "everything goes on",
+        "url": "https://open.spotify.com/album/6f5kuYnqwjTUNIG6J7BVd7"
       },
       "artists": [
         {
-          "name": "Chris Currano",
-          "url": "https://open.spotify.com/artist/0zmJNaKdkDiMfJxFO12COr"
+          "name": "nightnotes",
+          "url": "https://open.spotify.com/artist/334qcUILkYr6OYnqTi1DD3"
         }
       ],
-      "duration_ms": 131019,
-      "name": "Outfield Light",
-      "url": "https://open.spotify.com/track/6p1S1G9hpw78bVkUzcWggP"
+      "duration_ms": 147985,
+      "name": "everything goes on",
+      "url": "https://open.spotify.com/track/5MgY74ns68pXVHxO9IHaKo"
     },
     {
       "added_at": "2026-06-19 04:00:26",
@@ -307,22 +307,6 @@
     {
       "added_at": "2026-06-19 04:00:26",
       "album": {
-        "name": "ValleyViews",
-        "url": "https://open.spotify.com/album/0j5r810d6h4DmFeaq0hJ0Q"
-      },
-      "artists": [
-        {
-          "name": "Mellow Mirror",
-          "url": "https://open.spotify.com/artist/7kVcHt4VUH5dGb0Gz8IY3G"
-        }
-      ],
-      "duration_ms": 118518,
-      "name": "ValleyViews",
-      "url": "https://open.spotify.com/track/7E2GF1dct7xy9GKgp4eQrj"
-    },
-    {
-      "added_at": "2026-06-19 04:00:26",
-      "album": {
         "name": "Orient Silence",
         "url": "https://open.spotify.com/album/1iilQYtP4gjELnCX4lMSa4"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 149125,
       "name": "Orient Silence",
       "url": "https://open.spotify.com/track/0V8gliTnW5GCFHF8wj2pnG"
+    },
+    {
+      "added_at": "2026-06-19 04:00:26",
+      "album": {
+        "name": "ValleyViews",
+        "url": "https://open.spotify.com/album/0j5r810d6h4DmFeaq0hJ0Q"
+      },
+      "artists": [
+        {
+          "name": "Mellow Mirror",
+          "url": "https://open.spotify.com/artist/7kVcHt4VUH5dGb0Gz8IY3G"
+        }
+      ],
+      "duration_ms": 118518,
+      "name": "ValleyViews",
+      "url": "https://open.spotify.com/track/7E2GF1dct7xy9GKgp4eQrj"
     },
     {
       "added_at": "2026-06-19 04:00:26",
@@ -383,6 +383,22 @@
       "duration_ms": 112846,
       "name": "4:40 Am",
       "url": "https://open.spotify.com/track/2v0GqtA4G9tGqx13rtDs4h"
+    },
+    {
+      "added_at": "2026-06-19 04:00:26",
+      "album": {
+        "name": "awake to see the city sleep",
+        "url": "https://open.spotify.com/album/2YNkPhO8BG1hZwIVxybQcT"
+      },
+      "artists": [
+        {
+          "name": "Hevi",
+          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
+        }
+      ],
+      "duration_ms": 90732,
+      "name": "awake to see the city sleep",
+      "url": "https://open.spotify.com/track/34ZmkJqFjkNewux1wZJoAv"
     },
     {
       "added_at": "2026-06-19 04:00:26",
@@ -447,22 +463,6 @@
       "duration_ms": 116691,
       "name": "soaring summer",
       "url": "https://open.spotify.com/track/7JtFIWr0amm1sfMaTcTbyZ"
-    },
-    {
-      "added_at": "2026-06-19 04:00:26",
-      "album": {
-        "name": "awake to see the city sleep",
-        "url": "https://open.spotify.com/album/2YNkPhO8BG1hZwIVxybQcT"
-      },
-      "artists": [
-        {
-          "name": "Hevi",
-          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
-        }
-      ],
-      "duration_ms": 90732,
-      "name": "awake to see the city sleep",
-      "url": "https://open.spotify.com/track/34ZmkJqFjkNewux1wZJoAv"
     },
     {
       "added_at": "2026-06-19 04:00:26",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-06-19 04:00:26",
       "album": {
-        "name": "sunny day dreaming",
-        "url": "https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm"
-      },
-      "artists": [
-        {
-          "name": "Twiggy Fiz",
-          "url": "https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8"
-        }
-      ],
-      "duration_ms": 174621,
-      "name": "sunny day dreaming",
-      "url": "https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV"
-    },
-    {
-      "added_at": "2026-06-19 04:00:26",
-      "album": {
         "name": "Vegetate",
         "url": "https://open.spotify.com/album/7qVvG1yYwadLMtFafIfaJy"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 125045,
       "name": "Vegetate",
       "url": "https://open.spotify.com/track/5m6OGO3gvsMrGc0pH8zy5K"
+    },
+    {
+      "added_at": "2026-06-19 04:00:26",
+      "album": {
+        "name": "sunny day dreaming",
+        "url": "https://open.spotify.com/album/2OoNQjlQoBCOJdnlCiRxrm"
+      },
+      "artists": [
+        {
+          "name": "Twiggy Fiz",
+          "url": "https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8"
+        }
+      ],
+      "duration_ms": 174621,
+      "name": "sunny day dreaming",
+      "url": "https://open.spotify.com/track/0rq1ZAwIpU7IahDGxU7QZV"
     },
     {
       "added_at": "2026-06-19 04:00:26",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-06-19 04:00:26",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/3YFmBD6BgEu2BQbxmDW0ya"
-      },
-      "artists": [
-        {
-          "name": "nate2timez",
-          "url": "https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps"
-        }
-      ],
-      "duration_ms": 134117,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/3DnFuL77hB7zIe1PTviSCi"
-    },
-    {
-      "added_at": "2026-06-19 04:00:26",
-      "album": {
         "name": "Must've Been the Wind",
         "url": "https://open.spotify.com/album/1ZcDCFhsueOAXABOPaN6QT"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 137142,
       "name": "Must've Been the Wind",
       "url": "https://open.spotify.com/track/6dJ9y9bauSaavJbkPcEjkk"
+    },
+    {
+      "added_at": "2026-06-19 04:00:26",
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/3YFmBD6BgEu2BQbxmDW0ya"
+      },
+      "artists": [
+        {
+          "name": "nate2timez",
+          "url": "https://open.spotify.com/artist/0vABYweyJunNI8gFdnxXps"
+        }
+      ],
+      "duration_ms": 134117,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/3DnFuL77hB7zIe1PTviSCi"
     },
     {
       "added_at": "2026-06-19 04:00:26",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2026-06-19 04:00:26",
       "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/2z9VbBhqV4YexR3UX6tAeJ"
+      },
+      "artists": [
+        {
+          "name": "Soulflu",
+          "url": "https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/6vF4LLcHVYeWAKNV7JT7VV"
+    },
+    {
+      "added_at": "2026-06-19 04:00:26",
+      "album": {
         "name": "awakening",
         "url": "https://open.spotify.com/album/5ZMVxKLha84fPOsC8K1ovb"
       },
@@ -1271,18 +1287,18 @@
     {
       "added_at": "2026-06-19 04:00:26",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/2z9VbBhqV4YexR3UX6tAeJ"
+        "name": "Under The Waters",
+        "url": "https://open.spotify.com/album/4hMemXMbZJAvKsTjtP3aZN"
       },
       "artists": [
         {
-          "name": "Soulflu",
-          "url": "https://open.spotify.com/artist/6dBaFTE0JSiCN4JL9K03tM"
+          "name": "Hevi",
+          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
         }
       ],
-      "duration_ms": 150857,
-      "name": "Escape",
-      "url": "https://open.spotify.com/track/6vF4LLcHVYeWAKNV7JT7VV"
+      "duration_ms": 116000,
+      "name": "Under The Waters",
+      "url": "https://open.spotify.com/track/28Sa7Xm4k0YfieF8feWp57"
     },
     {
       "added_at": "2026-06-19 04:00:26",
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2026-06-19 04:00:26",
       "album": {
-        "name": "Under The Waters",
-        "url": "https://open.spotify.com/album/4hMemXMbZJAvKsTjtP3aZN"
+        "name": "Abigail",
+        "url": "https://open.spotify.com/album/20RTWWI9KZr76XpsP5mp94"
       },
       "artists": [
         {
-          "name": "Hevi",
-          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
+          "name": "Linearwave",
+          "url": "https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk"
         }
       ],
-      "duration_ms": 116000,
-      "name": "Under The Waters",
-      "url": "https://open.spotify.com/track/28Sa7Xm4k0YfieF8feWp57"
+      "duration_ms": 166875,
+      "name": "Abigail",
+      "url": "https://open.spotify.com/track/7qWeJvxs5Ir8aYqRrDUllE"
     },
     {
       "added_at": "2026-06-19 04:00:26",
@@ -1347,22 +1363,6 @@
       "duration_ms": 162104,
       "name": "moonlit",
       "url": "https://open.spotify.com/track/5DjqZGLbV7tabVEhsL8pAi"
-    },
-    {
-      "added_at": "2026-06-19 04:00:26",
-      "album": {
-        "name": "Abigail",
-        "url": "https://open.spotify.com/album/20RTWWI9KZr76XpsP5mp94"
-      },
-      "artists": [
-        {
-          "name": "Linearwave",
-          "url": "https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "Abigail",
-      "url": "https://open.spotify.com/track/7qWeJvxs5Ir8aYqRrDUllE"
     },
     {
       "added_at": "2026-06-19 04:00:26",
@@ -1583,6 +1583,26 @@
     {
       "added_at": "2026-06-19 04:00:26",
       "album": {
+        "name": "rainy nights",
+        "url": "https://open.spotify.com/album/7oH29yH2gEif1Yqo0xMM0U"
+      },
+      "artists": [
+        {
+          "name": "qchill",
+          "url": "https://open.spotify.com/artist/1tHzEsnYvhIY39B3HbDw0E"
+        },
+        {
+          "name": "DI3GO",
+          "url": "https://open.spotify.com/artist/4EmjMfcqdH9T1EuCZ81znQ"
+        }
+      ],
+      "duration_ms": 132423,
+      "name": "rainy nights",
+      "url": "https://open.spotify.com/track/1BTqZfkczOQQflgBmVZfyy"
+    },
+    {
+      "added_at": "2026-06-19 04:00:26",
+      "album": {
         "name": "night sky",
         "url": "https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf"
       },
@@ -1619,26 +1639,6 @@
     {
       "added_at": "2026-06-19 04:00:26",
       "album": {
-        "name": "rainy nights",
-        "url": "https://open.spotify.com/album/7oH29yH2gEif1Yqo0xMM0U"
-      },
-      "artists": [
-        {
-          "name": "qchill",
-          "url": "https://open.spotify.com/artist/1tHzEsnYvhIY39B3HbDw0E"
-        },
-        {
-          "name": "DI3GO",
-          "url": "https://open.spotify.com/artist/4EmjMfcqdH9T1EuCZ81znQ"
-        }
-      ],
-      "duration_ms": 132423,
-      "name": "rainy nights",
-      "url": "https://open.spotify.com/track/1BTqZfkczOQQflgBmVZfyy"
-    },
-    {
-      "added_at": "2026-06-19 04:00:26",
-      "album": {
         "name": "water lilies",
         "url": "https://open.spotify.com/album/41XOp27eS7fKll2GmovmwO"
       },
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-06-19 04:00:26",
       "album": {
-        "name": "no stress",
-        "url": "https://open.spotify.com/album/00IcnpcG1Kqt7RhCRUlwiy"
-      },
-      "artists": [
-        {
-          "name": "chill.farm",
-          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
-        }
-      ],
-      "duration_ms": 141374,
-      "name": "no stress",
-      "url": "https://open.spotify.com/track/0lYQNQEUcPIIpiAo00x58l"
-    },
-    {
-      "added_at": "2026-06-19 04:00:26",
-      "album": {
         "name": "Urban Summer",
         "url": "https://open.spotify.com/album/2WPP6XQR0P7DvlHbC3OcY2"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 162000,
       "name": "Urban Summer",
       "url": "https://open.spotify.com/track/1Km3xwYKto5U2xdsPv8HTc"
+    },
+    {
+      "added_at": "2026-06-19 04:00:26",
+      "album": {
+        "name": "no stress",
+        "url": "https://open.spotify.com/album/00IcnpcG1Kqt7RhCRUlwiy"
+      },
+      "artists": [
+        {
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
+        }
+      ],
+      "duration_ms": 141374,
+      "name": "no stress",
+      "url": "https://open.spotify.com/track/0lYQNQEUcPIIpiAo00x58l"
     },
     {
       "added_at": "2026-06-19 04:00:26",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2026-06-19 04:00:26",
       "album": {
-        "name": "timelines",
-        "url": "https://open.spotify.com/album/4v2m6YNbwMtzWDPo4uav5N"
-      },
-      "artists": [
-        {
-          "name": "rec.X",
-          "url": "https://open.spotify.com/artist/128lWCKxWAbFjrQaTDviJt"
-        }
-      ],
-      "duration_ms": 124089,
-      "name": "timelines",
-      "url": "https://open.spotify.com/track/2LjJ2TIZe9mz4POiqUyxif"
-    },
-    {
-      "added_at": "2026-06-19 04:00:26",
-      "album": {
         "name": "Melon Madness",
         "url": "https://open.spotify.com/album/4d3SCKEx0V4p1kEPFXoxfu"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 138888,
       "name": "Melon Madness",
       "url": "https://open.spotify.com/track/7pUcVgQVYJuCBUDJOZUjZs"
+    },
+    {
+      "added_at": "2026-06-19 04:00:26",
+      "album": {
+        "name": "timelines",
+        "url": "https://open.spotify.com/album/4v2m6YNbwMtzWDPo4uav5N"
+      },
+      "artists": [
+        {
+          "name": "rec.X",
+          "url": "https://open.spotify.com/artist/128lWCKxWAbFjrQaTDviJt"
+        }
+      ],
+      "duration_ms": 124089,
+      "name": "timelines",
+      "url": "https://open.spotify.com/track/2LjJ2TIZe9mz4POiqUyxif"
     },
     {
       "added_at": "2026-06-19 04:00:26",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2026-06-19 04:00:26",
       "album": {
-        "name": "A better day",
-        "url": "https://open.spotify.com/album/2i9O9cYba4X8O43EOZFUIA"
-      },
-      "artists": [
-        {
-          "name": "cuttingwood",
-          "url": "https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw"
-        }
-      ],
-      "duration_ms": 146823,
-      "name": "A better day",
-      "url": "https://open.spotify.com/track/5zS0cbkkN08L77RKpixCUj"
-    },
-    {
-      "added_at": "2026-06-19 04:00:26",
-      "album": {
         "name": "The Snake",
         "url": "https://open.spotify.com/album/5RyZDHHECNTeKIKMzaOyBi"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 128000,
       "name": "The Snake",
       "url": "https://open.spotify.com/track/0lIHz63qelEXD9DALn5Qv6"
+    },
+    {
+      "added_at": "2026-06-19 04:00:26",
+      "album": {
+        "name": "A better day",
+        "url": "https://open.spotify.com/album/2i9O9cYba4X8O43EOZFUIA"
+      },
+      "artists": [
+        {
+          "name": "cuttingwood",
+          "url": "https://open.spotify.com/artist/629aG7piEGvXf094FpTqGw"
+        }
+      ],
+      "duration_ms": 146823,
+      "name": "A better day",
+      "url": "https://open.spotify.com/track/5zS0cbkkN08L77RKpixCUj"
     },
     {
       "added_at": "2026-06-19 04:00:26",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2026-06-19 04:00:26",
       "album": {
-        "name": "Staring Out The Window",
-        "url": "https://open.spotify.com/album/70a2YgEJwoX6QknnuayZtR"
-      },
-      "artists": [
-        {
-          "name": "LoWorld",
-          "url": "https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl"
-        }
-      ],
-      "duration_ms": 138082,
-      "name": "Staring Out The Window",
-      "url": "https://open.spotify.com/track/6EL5xwcIUGS9inDpw4fVy9"
-    },
-    {
-      "added_at": "2026-06-19 04:00:26",
-      "album": {
         "name": "northern light",
         "url": "https://open.spotify.com/album/4W5n9TkA0dHZC3TLvfFCpp"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 152000,
       "name": "northern light",
       "url": "https://open.spotify.com/track/17c2b2WvFsQtQGGkRW8psl"
+    },
+    {
+      "added_at": "2026-06-19 04:00:26",
+      "album": {
+        "name": "Staring Out The Window",
+        "url": "https://open.spotify.com/album/70a2YgEJwoX6QknnuayZtR"
+      },
+      "artists": [
+        {
+          "name": "LoWorld",
+          "url": "https://open.spotify.com/artist/0PnFnQLdM7YKMBLxTHI9jl"
+        }
+      ],
+      "duration_ms": 138082,
+      "name": "Staring Out The Window",
+      "url": "https://open.spotify.com/track/6EL5xwcIUGS9inDpw4fVy9"
     },
     {
       "added_at": "2026-06-19 04:00:26",

@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 159924,
+  "num_followers": 159935,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akG1gAAAAAAiYVeay/TZDW3gSoskVzLU",
+  "snapshot_id": "akMHAAAAAAAykKIAmk4o49OM/AVTrHJ8",
   "tracks": [
     {
       "added_at": null,
@@ -510,11 +510,15 @@
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 210436,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/0CDr89BlgF2Jm5bLgsUlz1"
+      "duration_ms": 221029,
+      "name": "Borracho De Besos",
+      "url": "https://open.spotify.com/track/6bC4NcabtEXMHUtIFMwlQ8"
     },
     {
       "added_at": null,
@@ -574,15 +578,11 @@
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 221029,
-      "name": "Borracho De Besos",
-      "url": "https://open.spotify.com/track/6bC4NcabtEXMHUtIFMwlQ8"
+      "duration_ms": 210436,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/0CDr89BlgF2Jm5bLgsUlz1"
     },
     {
       "added_at": null,
