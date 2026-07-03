@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Ak Akemi Kakihara
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,217 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,224 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 74 | [Page](https://open.spotify.com/track/7pDuwr18isFoGqTuRyoLUL) | [MOTTO MUSIC](https://open.spotify.com/artist/69eIvKHcfYigWsgnBSv1jW), [ACORi](https://open.spotify.com/artist/5iZBZLRkFZ1fPVtSU9HTG0), [薙](https://open.spotify.com/artist/7otTbxXvKBvuc5r3LQVuf9) | [Page](https://open.spotify.com/album/2CwWat5vetQCCjVh9lazgp) | 2:36 |
 | 75 | [Furaibou](https://open.spotify.com/track/1SRu2YfUd6ESwcPVJG3MOf) | [TOKYO世界](https://open.spotify.com/artist/5awYSpPNWD5u40s35biaKf) | [Furaibou](https://open.spotify.com/album/0XvddICdK5fKivSQ1TY5yb) | 2:44 |
 | 76 | [0I2](https://open.spotify.com/track/5L7hQ1htJQVSjiRSirN71j) | [ねむねむ倶楽部](https://open.spotify.com/artist/4NM5eqNIWr5TZJBu9AeQgc) | [0I2](https://open.spotify.com/album/1aQDPhLAXPKBqmtlg6sqrA) | 4:02 |
-| 77 | [午前０時の嘘](https://open.spotify.com/track/3XNuslxmqPHMpOG4ZOARtC) | [HARUNO](https://open.spotify.com/artist/0irTqMvIaHXUvNIJFL0jmh) | [午前０時の嘘](https://open.spotify.com/album/5d3BbPT1N7SOLxiTwYQYMJ) | 3:51 |
+| 77 | [午前０時の嘘](https://open.spotify.com/track/3XNuslxmqPHMpOG4ZOARtC) | [haruno](https://open.spotify.com/artist/2j7k4u9p3MyN4JS6vSpPUB) | [午前０時の嘘](https://open.spotify.com/album/5d3BbPT1N7SOLxiTwYQYMJ) | 3:51 |
 | 78 | [なんて言ってほしいの](https://open.spotify.com/track/1nZWAQl55IZ6FyiIf2rnxZ) | [礼衣](https://open.spotify.com/artist/12w8ow0SohGy8imyEIFjfl) | [なんて言ってほしいの](https://open.spotify.com/album/5njlkxs3Izryu2DKAMSjhO) | 3:04 |
 | 79 | [FLY \(feat\. PiA\)](https://open.spotify.com/track/0dnKWIaTRNGuxUSL31fBv0) | [TENDERLAMP](https://open.spotify.com/artist/2LRzCWglNrweyqcfwcZDZi), [PiA](https://open.spotify.com/artist/2evPael2Y121mv9zBaToKf) | [FLY \(feat\. PiA\)](https://open.spotify.com/album/669LTJ9779PkmpfqFMmFqX) | 3:45 |
 | 80 | [the white room inside my head](https://open.spotify.com/track/0Ekf81RRGBDqMsnpxExRT6) | [swetty](https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm), [safmusic](https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7) | [the white room inside my head](https://open.spotify.com/album/6CtQXzTcs3RVdHvhtLwNVq) | 2:47 |

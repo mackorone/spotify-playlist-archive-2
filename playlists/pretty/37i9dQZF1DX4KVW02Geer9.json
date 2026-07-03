@@ -1,12 +1,12 @@
 {
   "description": "\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u30fb\u30b8\u30e3\u30ba\u306e\u5148\u99c6\u8005\u3001\u66f4\u306b\u6b21\u4e16\u4ee3\u306e\u30b7\u30fc\u30f3\u306e\u6700\u5148\u7aef\u306b\u7acb\u3064\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u66f2\u3092\u3001\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: \u30ea\u30a2\u30ca\u30fb\u30d5\u30ed\u30fc\u30ec\u30b9",
-  "num_followers": 65272,
+  "num_followers": 65286,
   "original_name": "X-Over \u30b8\u30e3\u30ba!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKmGi0P4a8h189ld0UpoPd/Mn7Fo",
+  "snapshot_id": "AAAAAK3pL/fQYSOz7COga7BquwTgpgtn",
   "tracks": [
     {
       "added_at": "2026-06-24 06:15:24",
@@ -23,6 +23,22 @@
       "duration_ms": 156340,
       "name": "So it goes",
       "url": "https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U"
+    },
+    {
+      "added_at": "2026-07-02 15:00:04",
+      "album": {
+        "name": "Say Yeah",
+        "url": "https://open.spotify.com/album/7y4NQUMgDS2GdToFChFkjq"
+      },
+      "artists": [
+        {
+          "name": "Moses Boyd",
+          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+        }
+      ],
+      "duration_ms": 288889,
+      "name": "Say Yeah",
+      "url": "https://open.spotify.com/track/33ByCdR2CMznkCHXp2zsJi"
     },
     {
       "added_at": "2026-06-24 06:15:24",
@@ -81,6 +97,38 @@
       "url": "https://open.spotify.com/track/18us37rGhbqOAMyVMzwFFh"
     },
     {
+      "added_at": "2026-07-02 15:00:04",
+      "album": {
+        "name": "\u30cc",
+        "url": "https://open.spotify.com/album/5UpdEA91ZOWp6vvlICPEqe"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "duration_ms": 223000,
+      "name": "\u30cc",
+      "url": "https://open.spotify.com/track/3D2ROXBOBnKfynMG3DmzoF"
+    },
+    {
+      "added_at": "2026-07-02 15:00:04",
+      "album": {
+        "name": "\u6df1\u6d77 - Single",
+        "url": "https://open.spotify.com/album/5thhZaiHOO6olQh9mOB3hN"
+      },
+      "artists": [
+        {
+          "name": "\u70cf\u514e -uto-",
+          "url": "https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc"
+        }
+      ],
+      "duration_ms": 390500,
+      "name": "\u6df1\u6d77",
+      "url": "https://open.spotify.com/track/7CGH4VjZ8YsAaXYTd0pGtZ"
+    },
+    {
       "added_at": "2026-06-19 00:22:28",
       "album": {
         "name": "Off the Embankment",
@@ -115,6 +163,22 @@
       "duration_ms": 201802,
       "name": "\u518d\u751f",
       "url": "https://open.spotify.com/track/1OTYC3sM0OjSNd7Y72bprw"
+    },
+    {
+      "added_at": "2026-07-02 15:00:04",
+      "album": {
+        "name": "Unreliable Memories of Contested Conversations",
+        "url": "https://open.spotify.com/album/6TvgsdZeKxKFUTTeGrZmct"
+      },
+      "artists": [
+        {
+          "name": "Galliano",
+          "url": "https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG"
+        }
+      ],
+      "duration_ms": 273853,
+      "name": "Acid Jazz Revenge",
+      "url": "https://open.spotify.com/track/6Pxz8ReFmfZS8V7nr4KxJp"
     },
     {
       "added_at": "2026-06-02 15:00:29",
@@ -163,6 +227,22 @@
       "duration_ms": 277068,
       "name": "RISING - from \"Bridge\" 2026 Take",
       "url": "https://open.spotify.com/track/1yABUuLzlKv40eFgnRJ05e"
+    },
+    {
+      "added_at": "2026-07-02 15:00:04",
+      "album": {
+        "name": "LOVE IS EVERYWHERE\uff5ePHAROAH SANDERS TRIBUTE LIVE",
+        "url": "https://open.spotify.com/album/3ok2FF8uFdKRwuIQ4aQ7kq"
+      },
+      "artists": [
+        {
+          "name": "Wendell Harrison",
+          "url": "https://open.spotify.com/artist/5yBslrSWPfKklWwZbzLHka"
+        }
+      ],
+      "duration_ms": 580153,
+      "name": "Love Is Everywhere",
+      "url": "https://open.spotify.com/track/10t1ZHi32mB3lpYPH3wBvf"
     },
     {
       "added_at": "2026-05-14 15:00:31",
@@ -221,6 +301,26 @@
       "url": "https://open.spotify.com/track/27uSNHKZoL5c1BsDPLJHHd"
     },
     {
+      "added_at": "2026-07-02 15:00:04",
+      "album": {
+        "name": "Terra Incognita",
+        "url": "https://open.spotify.com/album/0uNaDvqUwpRcuE0kEyUrAx"
+      },
+      "artists": [
+        {
+          "name": "Akusmi",
+          "url": "https://open.spotify.com/artist/34uth6SLb5I9CKoCBMqDPS"
+        },
+        {
+          "name": "Dud\u00f9 Kouate",
+          "url": "https://open.spotify.com/artist/0Xo3oN2nAmlPHaMBePP96w"
+        }
+      ],
+      "duration_ms": 392554,
+      "name": "Dawning Dusk",
+      "url": "https://open.spotify.com/track/56BHtvEwxMoyqm1FVzm5kE"
+    },
+    {
       "added_at": "2026-05-01 03:34:54",
       "album": {
         "name": "Between Us",
@@ -239,6 +339,22 @@
       "duration_ms": 197122,
       "name": "It Never Ends",
       "url": "https://open.spotify.com/track/1TeknOxmMXAfvyuM4PTAMd"
+    },
+    {
+      "added_at": "2026-07-02 15:00:04",
+      "album": {
+        "name": "Sam on the Ganges",
+        "url": "https://open.spotify.com/album/7F9x71oGaG8uy3SwVUcaPU"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "duration_ms": 431266,
+      "name": "Sam on the Ganges",
+      "url": "https://open.spotify.com/track/6NN84SLP6Zccaya0CsU03l"
     },
     {
       "added_at": "2026-05-07 16:19:57",

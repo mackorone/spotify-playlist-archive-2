@@ -3856,7 +3856,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -4266,7 +4266,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 144800,
       "name": "Baklava",
       "url": "https://open.spotify.com/track/5jDcoEETEDGuFlKhPm6eIq"
@@ -6624,7 +6624,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-11",
+      "date_removed": null,
       "duration_ms": 140620,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/2C2dJZAUoeZm7Knu8ice8p"
@@ -6718,7 +6718,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 158400,
       "name": "Brasileiro",
       "url": "https://open.spotify.com/track/5QxrwYi8HokaPKgApOhoDN"
@@ -7468,7 +7468,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 155250,
       "name": "B\u0103ie\u021bi de Ora\u0219 - From \"B\u0103ie\u021bi De Ora\u0219 | Golden Boyz\" The Movie",
       "url": "https://open.spotify.com/track/33XJD6EhI9Od8gFhLsbdGi"
@@ -8958,7 +8958,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 245565,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"
@@ -12235,6 +12235,28 @@
     },
     {
       "album": {
+        "name": "#BACKto2016",
+        "url": "https://open.spotify.com/album/4SJxykkXOstBqTNaR7mUbD"
+      },
+      "artists": [
+        {
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
+        },
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174362,
+      "name": "DEUCESS",
+      "url": "https://open.spotify.com/track/5QOjjfBhuEj09V2FeJMxT1"
+    },
+    {
+      "album": {
         "name": "DEUCESS",
         "url": "https://open.spotify.com/album/6SE2oTrP4JD72LLpxVRitu"
       },
@@ -12250,7 +12272,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 174362,
       "name": "DEUCESS",
       "url": "https://open.spotify.com/track/60TKXYXSnKsHYsWTDZwnrT"
@@ -14752,7 +14774,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "emotional swaggage",
       "url": "https://open.spotify.com/track/6p5TDjOyftfWjBcFfJNpmM"
@@ -15074,6 +15096,28 @@
       "duration_ms": 204768,
       "name": "EoO",
       "url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8"
+    },
+    {
+      "album": {
+        "name": "ES EL MADATORRICELLI",
+        "url": "https://open.spotify.com/album/2dEXqEfO5bRUyxLtzqmtvl"
+      },
+      "artists": [
+        {
+          "name": "MADATORRICELLI",
+          "url": "https://open.spotify.com/artist/4y2uMVYqHq7SlTTfBQpdsJ"
+        },
+        {
+          "name": "Flat Beats",
+          "url": "https://open.spotify.com/artist/115sRQUDPv3C53NhRPoPfp"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "ES EL MADATORRICELLI",
+      "url": "https://open.spotify.com/track/5kaQPHgvExgs6U3Kq4o5fo"
     },
     {
       "album": {
@@ -17804,7 +17848,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 186293,
       "name": "Gagicuta body show",
       "url": "https://open.spotify.com/track/0vJMLsjPvDTiryvIS7dIss"
@@ -19450,7 +19494,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 124800,
       "name": "Hai la mine in BMWU",
       "url": "https://open.spotify.com/track/6Ga4vojgiRyVjkiPqQvo19"
@@ -22226,7 +22270,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 120000,
       "name": "IN MINTEA TA",
       "url": "https://open.spotify.com/track/1Kkhr9ga7twQHj6fMmccrt"
@@ -24567,6 +24611,28 @@
     },
     {
       "album": {
+        "name": "#BACKto2016",
+        "url": "https://open.spotify.com/album/4SJxykkXOstBqTNaR7mUbD"
+      },
+      "artists": [
+        {
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
+        },
+        {
+          "name": "CERCEL",
+          "url": "https://open.spotify.com/artist/5VH2lbLnYKXXHSJcbemxwR"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "LA NOI E CEARTA",
+      "url": "https://open.spotify.com/track/3XouBg94cEOH06uaJteMMK"
+    },
+    {
+      "album": {
         "name": "LA NOI E CEARTA",
         "url": "https://open.spotify.com/album/6M1itFhTFROxAzGHEVC2h2"
       },
@@ -24582,7 +24648,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 135000,
       "name": "LA NOI E CEARTA",
       "url": "https://open.spotify.com/track/5MwUTD2GAOonZHNlxEYtdQ"
@@ -27798,7 +27864,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-02",
+      "date_removed": null,
       "duration_ms": 142796,
       "name": "Marimea J-Lo",
       "url": "https://open.spotify.com/track/0JQQukgIdXIP6NzaXsRxVv"
@@ -30606,6 +30672,24 @@
       "duration_ms": 92500,
       "name": "NE IMPACAM",
       "url": "https://open.spotify.com/track/0Hq2c1OBs9ECuPCtemOss1"
+    },
+    {
+      "album": {
+        "name": "#BACKto2016",
+        "url": "https://open.spotify.com/album/4SJxykkXOstBqTNaR7mUbD"
+      },
+      "artists": [
+        {
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92500,
+      "name": "NE IMPACAM",
+      "url": "https://open.spotify.com/track/1UYgLqVvUOjWWtnBm5qhsx"
     },
     {
       "album": {
@@ -37326,7 +37410,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 187607,
       "name": "Refrenul preferat",
       "url": "https://open.spotify.com/track/2hI23Wlr7vAl4YM0Vkkmjw"
@@ -39126,7 +39210,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 197845,
       "name": "Savarina",
       "url": "https://open.spotify.com/track/1bxvAh3tyCH6HjQf8g8MYH"
@@ -47976,7 +48060,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-27",
+      "date_removed": null,
       "duration_ms": 151448,
       "name": "Uneori",
       "url": "https://open.spotify.com/track/5QiaV79p5avdlQj03zQCul"

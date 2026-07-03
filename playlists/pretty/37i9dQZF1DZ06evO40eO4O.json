@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 8132,
+  "num_followers": 8139,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akMHAAAAAADPKw2SnVCG3GG+bPzH6t0R",
+  "snapshot_id": "akRYgAAAAAD92/DE0x/7NfooUbldXRI4",
   "tracks": [
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 90690,
-      "name": "DEMASIADO",
-      "url": "https://open.spotify.com/track/1FnX52b2XTa1YlBKQGJpwe"
+      "duration_ms": 132290,
+      "name": "OOPS!",
+      "url": "https://open.spotify.com/track/3sSDoM8C5OyagBQHzBufW7"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 132290,
-      "name": "OOPS!",
-      "url": "https://open.spotify.com/track/3sSDoM8C5OyagBQHzBufW7"
+      "duration_ms": 90690,
+      "name": "DEMASIADO",
+      "url": "https://open.spotify.com/track/1FnX52b2XTa1YlBKQGJpwe"
     },
     {
       "added_at": null,
@@ -455,18 +455,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "AL\u00d3",
-        "url": "https://open.spotify.com/album/3qUJJlinoiociQmSFKhRbx"
+        "name": "Nasty Girl (feat. Ingratax)",
+        "url": "https://open.spotify.com/album/7nmAtVkZuv1Z9iwvCpwbXs"
       },
       "artists": [
         {
           "name": "Angela Torres",
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        },
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "LUANA",
+          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
+        },
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 171428,
-      "name": "AL\u00d3",
-      "url": "https://open.spotify.com/track/6w8Wm9LJmgGDJ4dK7SkLwo"
+      "duration_ms": 245538,
+      "name": "Nasty Girl (feat. Ingratax)",
+      "url": "https://open.spotify.com/track/3G8XMxse6i7UANaT9GT0jg"
     },
     {
       "added_at": null,
@@ -503,30 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty Girl (feat. Ingratax)",
-        "url": "https://open.spotify.com/album/7nmAtVkZuv1Z9iwvCpwbXs"
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/7AJZpdbaqpkSndP6QL7aiB"
       },
       "artists": [
         {
           "name": "Angela Torres",
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        },
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "LUANA",
-          "url": "https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET"
-        },
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
         }
       ],
-      "duration_ms": 245538,
-      "name": "Nasty Girl (feat. Ingratax)",
-      "url": "https://open.spotify.com/track/3G8XMxse6i7UANaT9GT0jg"
+      "duration_ms": 151058,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/1OdqKDJx5SYmft9GkMx3gX"
     },
     {
       "added_at": null,
@@ -551,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/7AJZpdbaqpkSndP6QL7aiB"
+        "name": "AL\u00d3",
+        "url": "https://open.spotify.com/album/3qUJJlinoiociQmSFKhRbx"
       },
       "artists": [
         {
@@ -560,9 +560,9 @@
           "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
         }
       ],
-      "duration_ms": 151058,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/1OdqKDJx5SYmft9GkMx3gX"
+      "duration_ms": 171428,
+      "name": "AL\u00d3",
+      "url": "https://open.spotify.com/track/6w8Wm9LJmgGDJ4dK7SkLwo"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "kun det nyeste danske rap \ud83d\udc40 ozzy p\u00e5 cover ",
+  "description": "kun det nyeste danske rap \ud83d\udc40 ZUUZ p\u00e5 cover ",
   "name": "rap dk",
   "tracks": [
     {
@@ -5187,6 +5187,24 @@
     },
     {
       "album": {
+        "name": "Hop Ind I",
+        "url": "https://open.spotify.com/album/1NbdMZC0KBEFK75XRQWmE5"
+      },
+      "artists": [
+        {
+          "name": "DeDerDrenge",
+          "url": "https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129368,
+      "name": "Hop Ind I",
+      "url": "https://open.spotify.com/track/7eo5owFb9jeDNyuSe0ivlE"
+    },
+    {
+      "album": {
         "name": "Hustlers Ambition",
         "url": "https://open.spotify.com/album/2UHksnhp9qVmHqXM8GKPCS"
       },
@@ -8687,6 +8705,24 @@
     },
     {
       "album": {
+        "name": "Reykjav\u00edk",
+        "url": "https://open.spotify.com/album/5YPOVLkiXvw7dnAWlJhfoK"
+      },
+      "artists": [
+        {
+          "name": "JEFF3",
+          "url": "https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145959,
+      "name": "Reykjav\u00edk",
+      "url": "https://open.spotify.com/track/32CbA0gI0HvFjdXOLjkHoa"
+    },
+    {
+      "album": {
         "name": "Rich Porter",
         "url": "https://open.spotify.com/album/6pWzVPKp2obWtt69IFkRO9"
       },
@@ -9176,7 +9212,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 185700,
       "name": "Sig Det",
       "url": "https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV"

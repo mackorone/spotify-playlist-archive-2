@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Taking it way back! Cover: Jay-Z",
+  "description": "Taking it way back! Cover: Nas",
   "name": "Gold School",
   "tracks": [
     {
@@ -176,6 +176,36 @@
       "duration_ms": 221840,
       "name": "A Milli",
       "url": "https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt"
+    },
+    {
+      "album": {
+        "name": "It Was Written",
+        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "AZ",
+          "url": "https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg"
+        },
+        {
+          "name": "Cormega",
+          "url": "https://open.spotify.com/artist/4vQLu6vYK0hp8k0fsAzsU8"
+        },
+        {
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259800,
+      "name": "Affirmative Action (feat. AZ, Cormega & Foxy Brown)",
+      "url": "https://open.spotify.com/track/2Ja3UauMDeQnq4sI8a64Ys"
     },
     {
       "album": {
@@ -1192,7 +1222,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 284200,
       "name": "Cali Iz Active",
       "url": "https://open.spotify.com/track/4SmYdNUTXHUJrZyk7AR74B"
@@ -2570,7 +2600,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 202760,
       "name": "Gettin' Some",
       "url": "https://open.spotify.com/track/4uNisev7PGUAixBOagpgyY"
@@ -3642,7 +3672,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-30",
+      "date_removed": null,
       "duration_ms": 282373,
       "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
       "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
@@ -4496,7 +4526,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 303813,
       "name": "Lighters",
       "url": "https://open.spotify.com/track/5zpDHEU12zATwLGvozxPw2"
@@ -7480,7 +7510,7 @@
       ],
       "date_added": "2021-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-02-12",
+      "date_removed": null,
       "duration_ms": 279933,
       "name": "Street Dreams",
       "url": "https://open.spotify.com/track/0QnGI4OgY8ReggLWvEXdgD"

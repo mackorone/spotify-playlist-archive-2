@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "viral, trend ve y\u00fckselenler.  Kapak: Radikal",
+  "description": "viral, trend ve y\u00fckselenler.  Kapak: Yal\u0131n",
   "name": "trend 2026",
   "tracks": [
     {
@@ -300,6 +300,24 @@
       "duration_ms": 147888,
       "name": "AQUAFINA",
       "url": "https://open.spotify.com/track/2cbgLYxRK6exbeKyz4YrD3"
+    },
+    {
+      "album": {
+        "name": "H.",
+        "url": "https://open.spotify.com/album/5ORtYNxS04uyDd1LnTLKsi"
+      },
+      "artists": [
+        {
+          "name": "Hadise",
+          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "Ara Beni",
+      "url": "https://open.spotify.com/track/2avZvyhP3vKSXUGKIjpDSr"
     },
     {
       "album": {
@@ -1488,7 +1506,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 153906,
       "name": "DVD",
       "url": "https://open.spotify.com/track/0GabRJwqSIxLv3A139Lu6b"
@@ -2550,7 +2568,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 146470,
       "name": "\u0130htimal",
       "url": "https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d"
@@ -4606,6 +4624,24 @@
       "duration_ms": 158546,
       "name": "S\u0131f\u0131rdan Zirveye",
       "url": "https://open.spotify.com/track/4DYpSlYDrQyAvfQhORjyGM"
+    },
+    {
+      "album": {
+        "name": "Ta Ki Seni G\u00f6rene Kadar",
+        "url": "https://open.spotify.com/album/38El8J7saUzjT3tRSHtAmF"
+      },
+      "artists": [
+        {
+          "name": "Tuana Tetik",
+          "url": "https://open.spotify.com/artist/4hVkWQ0iAHxtfV6TSARSxR"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174137,
+      "name": "Ta Ki Seni G\u00f6rene Kadar",
+      "url": "https://open.spotify.com/track/4lHLbAjoAO23CT7nEW4aC1"
     },
     {
       "album": {

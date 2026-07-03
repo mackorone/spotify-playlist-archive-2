@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 86 songs - 5 hr 2 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,169 likes - 90 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,5 +94,9 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 84 | [Dance With Me](https://open.spotify.com/track/6OmQaUueJoPh8sPO4QnRi0) | [VƟIZ](https://open.spotify.com/artist/4iRLEpQZPZqtRG4TEROB5o) | [Dance With Me](https://open.spotify.com/album/7sHR6SRXD5QR84E2EiztUu) | 3:20 |
 | 85 | [Disappear \(Velvet Night\)](https://open.spotify.com/track/0GRSqkJDkXJt58ltaSr2Ot) | [Kalen](https://open.spotify.com/artist/2QZLDt6D9mNK26oqp2xRuK) | [Velvet Night](https://open.spotify.com/album/3JGuvzVSBOdQ0MHXDJXQ7M) | 5:11 |
 | 86 | [Backbone](https://open.spotify.com/track/6zeP6hRplNXsw9ryb2I74t) | [Trepid](https://open.spotify.com/artist/4xwsfR9Uu6rkASY32YdIdu) | [Together // Apart](https://open.spotify.com/album/3bJzcgdDJADVQv08O6XewS) | 2:49 |
+| 87 | [Smells like teen spirit \- Rock Version](https://open.spotify.com/track/1ldzLB7XNziPQDUx9BE3H8) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Smells like teen spirit](https://open.spotify.com/album/6MXU2P8IunEnPkgr4k0dA4) | 5:39 |
+| 88 | [Don't Look Away](https://open.spotify.com/track/7JKSRwQE2JdzUtcZ3a4Prh) | [Empty Melon](https://open.spotify.com/artist/1u5HkdqkmbCZD4R5FJK6Rq), [Leo Bagel](https://open.spotify.com/artist/1dQ15Hx2wVHyoTro6o5hIx) | [Don't Look Away](https://open.spotify.com/album/1nfuO8I1Za0HuHjQQnvqJ8) | 3:22 |
+| 89 | [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 |
+| 90 | [kim jesteś?](https://open.spotify.com/track/3WRp5WLnxae0voLTrDSFz1) | [oswojeni](https://open.spotify.com/artist/6HSaeoRmLRRCdymdtKFsfh) | [kim jesteś?](https://open.spotify.com/album/3AEbonO8ZDawTrqzwU6ozw) | 3:33 |
 
-Snapshot ID: `AAAPZC7hse6w1nKDVWASwy5Ihg8Pw5BP`
+Snapshot ID: `AAAPaMqPt0BIkQs196oruvtt4hcS8rgt`

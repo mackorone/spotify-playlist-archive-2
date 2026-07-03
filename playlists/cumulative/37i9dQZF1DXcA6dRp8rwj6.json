@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover: YG)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover: 1300)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -2865,6 +2865,24 @@
     },
     {
       "album": {
+        "name": "ADRENALINE",
+        "url": "https://open.spotify.com/album/7eRcClQ3C2w7AIhPwYrHsN"
+      },
+      "artists": [
+        {
+          "name": "REDZED",
+          "url": "https://open.spotify.com/artist/3FCo1sUkVbwKnO2m0Z7Bp9"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "ADRENALINE",
+      "url": "https://open.spotify.com/track/4EAOB7FD4YJ80kYU7b5kO0"
+    },
+    {
+      "album": {
         "name": "Adventure Time",
         "url": "https://open.spotify.com/album/1T41lXlauMiWEQWGCTqEtD"
       },
@@ -3852,7 +3870,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 87635,
       "name": "All Or Nothing",
       "url": "https://open.spotify.com/track/6uCgKChOCSxUBaF7fDClCm"
@@ -4526,6 +4544,28 @@
       "duration_ms": 231746,
       "name": "Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",
       "url": "https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB"
+    },
+    {
+      "album": {
+        "name": "Another Day In The Sun",
+        "url": "https://open.spotify.com/album/08j4a5cZPyHMTxfXx03F4I"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "LaRussell",
+          "url": "https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167170,
+      "name": "Another Day In The Sun",
+      "url": "https://open.spotify.com/track/0xLgfrSygRlQnE5e8g0LWy"
     },
     {
       "album": {
@@ -15058,7 +15098,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 103252,
       "name": "Cut It Off",
       "url": "https://open.spotify.com/track/6lxpar58pyCyKdTo3SCMTM"
@@ -17079,6 +17119,32 @@
     },
     {
       "album": {
+        "name": "Do Better",
+        "url": "https://open.spotify.com/album/3qMajHDwXzKxPuUqfHMwxa"
+      },
+      "artists": [
+        {
+          "name": "Jazzbois",
+          "url": "https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul"
+        },
+        {
+          "name": "Goya Gumbani",
+          "url": "https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx"
+        },
+        {
+          "name": "Franky Bones",
+          "url": "https://open.spotify.com/artist/3MIe1raSr122f1BKuFsBZo"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222792,
+      "name": "Do Better",
+      "url": "https://open.spotify.com/track/4SsbrLDtqf3PgO0JkdYEqa"
+    },
+    {
+      "album": {
         "name": "Grown",
         "url": "https://open.spotify.com/album/3aYJtqjMLgF0k7aFBCibvU"
       },
@@ -17112,7 +17178,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 130874,
       "name": "Do It",
       "url": "https://open.spotify.com/track/5lLMNS5WYrYPFL7CsaAleK"
@@ -18760,7 +18826,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 123076,
       "name": "Drugs Talkin'",
       "url": "https://open.spotify.com/track/736yvMjEoSfsnxPzZkBu3m"
@@ -19434,6 +19500,28 @@
       "duration_ms": 202434,
       "name": "Embrace It - Remix",
       "url": "https://open.spotify.com/track/1KkeD458LJuw0KkU9AIfqo"
+    },
+    {
+      "album": {
+        "name": "EMOTIONLEZZ (ft. Trippie Redd)",
+        "url": "https://open.spotify.com/album/230tlOmJbK0ZlxPSBPxVQG"
+      },
+      "artists": [
+        {
+          "name": "Thirteendegrees \u00b0",
+          "url": "https://open.spotify.com/artist/2fZrEBAl5NNZCCl3KUOYsi"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135172,
+      "name": "EMOTIONLEZZ (ft. Trippie Redd)",
+      "url": "https://open.spotify.com/track/3UiQ1haSm6kUuVJOUlVgGy"
     },
     {
       "album": {
@@ -20846,7 +20934,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 169330,
       "name": "FATHER (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/5pfn68duSmBKo4FhYknOms"
@@ -21698,7 +21786,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 171251,
       "name": "Flight Risqu\u00e9 (feat. Freddie Gibbs & SALIMATA)",
       "url": "https://open.spotify.com/track/49Xxlgn6sP2hi0es0Xcxxn"
@@ -23609,6 +23697,24 @@
     },
     {
       "album": {
+        "name": "Gameboi",
+        "url": "https://open.spotify.com/album/5on9WThrgVpfVdxI4zDG9S"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153103,
+      "name": "Gameboi",
+      "url": "https://open.spotify.com/track/0zF18WMaq0TvSGvUcU6F0n"
+    },
+    {
+      "album": {
         "name": "Games Women Play",
         "url": "https://open.spotify.com/album/5i8tr5l6kLG0UQNqt4Ry3K"
       },
@@ -23968,6 +24074,24 @@
       "duration_ms": 225819,
       "name": "Gear 5 - Remix",
       "url": "https://open.spotify.com/track/09qFuP62AreGvLsjpEoqhv"
+    },
+    {
+      "album": {
+        "name": "Geeked",
+        "url": "https://open.spotify.com/album/7oyvRP0xDmbvQt395CiwdY"
+      },
+      "artists": [
+        {
+          "name": "Chuckyy",
+          "url": "https://open.spotify.com/artist/0HRGx78eQaMqoHoopLfi2h"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144657,
+      "name": "Geeked",
+      "url": "https://open.spotify.com/track/7a0XF8buT2g3jUWOXEfDVh"
     },
     {
       "album": {
@@ -26939,6 +27063,28 @@
     },
     {
       "album": {
+        "name": "Headrock",
+        "url": "https://open.spotify.com/album/66aBGecLMEXKyhOcr6Ec8V"
+      },
+      "artists": [
+        {
+          "name": "1300",
+          "url": "https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159598,
+      "name": "Headrock",
+      "url": "https://open.spotify.com/track/2mup9ZJa9brkbC6ly7qOIO"
+    },
+    {
+      "album": {
         "name": "Headrush",
         "url": "https://open.spotify.com/album/6K4LqNp0rbZVOYj4KchUcX"
       },
@@ -29586,7 +29732,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 200547,
       "name": "HunchO STEP! (feat. Quavo)",
       "url": "https://open.spotify.com/track/5Q5q2dBnvn6CkpuB8RmLXr"
@@ -35181,6 +35327,28 @@
     },
     {
       "album": {
+        "name": "CHOROK : MIXTAPE",
+        "url": "https://open.spotify.com/album/6Jde4gre837syAeLxwAnm0"
+      },
+      "artists": [
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        },
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Legendary (Feat. Sik-K)",
+      "url": "https://open.spotify.com/track/0YoWKyfjQshpjhYERUFKFG"
+    },
+    {
+      "album": {
         "name": "When I Was Dead",
         "url": "https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR"
       },
@@ -36627,6 +36795,28 @@
     },
     {
       "album": {
+        "name": "Lockdown",
+        "url": "https://open.spotify.com/album/1Lxf0aIki6lHkdRaHkMbX1"
+      },
+      "artists": [
+        {
+          "name": "Marnz Malone",
+          "url": "https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4"
+        },
+        {
+          "name": "Sus",
+          "url": "https://open.spotify.com/artist/1tWZDk56cffZfgjmgHWuXD"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157071,
+      "name": "Lockdown",
+      "url": "https://open.spotify.com/track/4qClEI84z9dXnssKQD3BC2"
+    },
+    {
+      "album": {
         "name": "locket",
         "url": "https://open.spotify.com/album/3SKkBXx7vJu27MZS3NPP0N"
       },
@@ -37622,6 +37812,28 @@
       "duration_ms": 163636,
       "name": "Maafkan",
       "url": "https://open.spotify.com/track/657NKihkzUSUchMzfEtQJN"
+    },
+    {
+      "album": {
+        "name": "Machete Summer - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2oGLwKzWBZig0iF5pWS7kQ"
+      },
+      "artists": [
+        {
+          "name": "Liim",
+          "url": "https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172803,
+      "name": "Machete Summer - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/26a3iiZijDm1qcL5lTvBMu"
     },
     {
       "album": {
@@ -39154,7 +39366,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 187920,
       "name": "Members",
       "url": "https://open.spotify.com/track/0dNbwNi4BO93dZ6hpAOvXn"
@@ -44816,7 +45028,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 154469,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
@@ -47024,6 +47236,24 @@
       "duration_ms": 156800,
       "name": "Owe Me",
       "url": "https://open.spotify.com/track/3SFWyVnGTGGvTH6iQmLAxL"
+    },
+    {
+      "album": {
+        "name": "OXY_GEN",
+        "url": "https://open.spotify.com/album/0hPyVToM2GSflSCIybG11c"
+      },
+      "artists": [
+        {
+          "name": "Keyveatz",
+          "url": "https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "OXY",
+      "url": "https://open.spotify.com/track/64OohQXYTPd5LA3wfJWAau"
     },
     {
       "album": {
@@ -50598,7 +50828,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 177084,
       "name": "Pull Over",
       "url": "https://open.spotify.com/track/0wHgsYlk5WR4j98qQwOQym"
@@ -58635,6 +58865,28 @@
     },
     {
       "album": {
+        "name": "Soul Ties (feat. Dreezy)",
+        "url": "https://open.spotify.com/album/5ngK2CHa07ahrK0bu7ZadF"
+      },
+      "artists": [
+        {
+          "name": "VonOff1700",
+          "url": "https://open.spotify.com/artist/47UhY4DqayBiq2gp43WOcZ"
+        },
+        {
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Soul Ties (feat. Dreezy)",
+      "url": "https://open.spotify.com/track/1nSj2mjYvH2wfAiIpDzcxX"
+    },
+    {
+      "album": {
         "name": "Sound Body",
         "url": "https://open.spotify.com/album/4h1PrQAsqZ792z418t55bY"
       },
@@ -60684,7 +60936,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 220106,
       "name": "Sunday Again (with 2 Chainz)",
       "url": "https://open.spotify.com/track/0jqIclUdaqiwYEi4FLUBOc"
@@ -62424,7 +62676,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 240000,
       "name": "TEACH YOU HOW TO LUH ME",
       "url": "https://open.spotify.com/track/6AwyXLzD18HptZPpbhrssp"
@@ -67421,6 +67673,24 @@
     },
     {
       "album": {
+        "name": "Two Tone",
+        "url": "https://open.spotify.com/album/3ko2jwwfdGLtj7U01x12sB"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Two Tone",
+      "url": "https://open.spotify.com/track/3PWjBNSU4kiX11IF1HfY2I"
+    },
+    {
+      "album": {
         "name": "Burnt Bridges",
         "url": "https://open.spotify.com/album/3UqnRXWF0OM9reIktVLplq"
       },
@@ -72050,7 +72320,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 170322,
       "name": "WOOD WIRE BUFFS",
       "url": "https://open.spotify.com/track/58PXUF42VTAac15PfokNsX"
@@ -73162,7 +73432,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 166956,
       "name": "Yoppenheimer - Remix",
       "url": "https://open.spotify.com/track/39tC2YIcSYKqA5kdpL5ZqP"
@@ -73488,7 +73758,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 227234,
       "name": "You're So Fine",
       "url": "https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ"
@@ -74034,7 +74304,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 116800,
       "name": "\u30a2\u30cb\u30e7\u30cf\u30bb\u30e8 - BLAS\u00c9 Remix",
       "url": "https://open.spotify.com/track/2dtTmml5dKH1ynlfrSOjuj"

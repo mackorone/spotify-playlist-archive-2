@@ -1,6 +1,6 @@
 {
   "description": "Sonidos de lluvia para descansar y dormir.",
-  "num_followers": 152043,
+  "num_followers": 152167,
   "original_name": "Lluvia para Dormir",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-12-18 14:09:52",
       "album": {
-        "name": "Drops Of Skies",
-        "url": "https://open.spotify.com/album/4wopG570SslotxhJVt1WC8"
-      },
-      "artists": [
-        {
-          "name": "Bewegtes",
-          "url": "https://open.spotify.com/artist/1PPezRWISDkSzw4EPlDcDg"
-        }
-      ],
-      "duration_ms": 173888,
-      "name": "Drops Of Skies",
-      "url": "https://open.spotify.com/track/7b2LGKVoG029pfEgI0Jnmk"
-    },
-    {
-      "added_at": "2025-12-18 14:09:52",
-      "album": {
         "name": "Downpours",
         "url": "https://open.spotify.com/album/7kDKBp4JoWrM3Rkc37s1dK"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 148000,
       "name": "Downpours",
       "url": "https://open.spotify.com/track/3o58QNxRLJpIPB1plXLqbS"
+    },
+    {
+      "added_at": "2025-12-18 14:09:52",
+      "album": {
+        "name": "Drops Of Skies",
+        "url": "https://open.spotify.com/album/4wopG570SslotxhJVt1WC8"
+      },
+      "artists": [
+        {
+          "name": "Bewegtes",
+          "url": "https://open.spotify.com/artist/1PPezRWISDkSzw4EPlDcDg"
+        }
+      ],
+      "duration_ms": 173888,
+      "name": "Drops Of Skies",
+      "url": "https://open.spotify.com/track/7b2LGKVoG029pfEgI0Jnmk"
     },
     {
       "added_at": "2025-12-18 14:09:52",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-12-18 14:09:52",
       "album": {
-        "name": "Wilderness",
-        "url": "https://open.spotify.com/album/50928u7imP1NfSYTnTgOLh"
-      },
-      "artists": [
-        {
-          "name": "Wet Forest",
-          "url": "https://open.spotify.com/artist/0yYHxGvTufoACTinBREEXT"
-        }
-      ],
-      "duration_ms": 155295,
-      "name": "Circle of Rain",
-      "url": "https://open.spotify.com/track/71XsLqUK4kmYNW8fV5HYVV"
-    },
-    {
-      "added_at": "2025-12-18 14:09:52",
-      "album": {
         "name": "Droplet Drift",
         "url": "https://open.spotify.com/album/280YFBsxQ3p9XvxZ94RtVy"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 188000,
       "name": "Droplet Drift",
       "url": "https://open.spotify.com/track/5L7KXB9VytvwVTz7qcuCL9"
+    },
+    {
+      "added_at": "2025-12-18 14:09:52",
+      "album": {
+        "name": "Wilderness",
+        "url": "https://open.spotify.com/album/50928u7imP1NfSYTnTgOLh"
+      },
+      "artists": [
+        {
+          "name": "Wet Forest",
+          "url": "https://open.spotify.com/artist/0yYHxGvTufoACTinBREEXT"
+        }
+      ],
+      "duration_ms": 155295,
+      "name": "Circle of Rain",
+      "url": "https://open.spotify.com/track/71XsLqUK4kmYNW8fV5HYVV"
     },
     {
       "added_at": "2025-12-18 14:09:52",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-12-18 14:09:52",
       "album": {
-        "name": "Space Rain",
-        "url": "https://open.spotify.com/album/456q0OuTOQvx6QuVxdmB3K"
-      },
-      "artists": [
-        {
-          "name": "Celestial Noise",
-          "url": "https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Earth Rain",
-      "url": "https://open.spotify.com/track/678emSwcNj7TVaNlFRt2DC"
-    },
-    {
-      "added_at": "2025-12-18 14:09:52",
-      "album": {
         "name": "Lifting Air",
         "url": "https://open.spotify.com/album/5LSCejKgU0qOmu0FWxquED"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2025-12-18 14:09:52",
       "album": {
-        "name": "Rain: Dark Skies",
-        "url": "https://open.spotify.com/album/48olG5g74NLiO7jOXNVIv4"
+        "name": "Space Rain",
+        "url": "https://open.spotify.com/album/456q0OuTOQvx6QuVxdmB3K"
       },
       "artists": [
         {
-          "name": "H20 Recording",
-          "url": "https://open.spotify.com/artist/4bUfAQsEWiP31GmX5D6E1r"
+          "name": "Celestial Noise",
+          "url": "https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z"
         }
       ],
-      "duration_ms": 163469,
-      "name": "Rain: Dark Skies",
-      "url": "https://open.spotify.com/track/1zH3ZD0xXlwNphuANYz00z"
+      "duration_ms": 221000,
+      "name": "Earth Rain",
+      "url": "https://open.spotify.com/track/678emSwcNj7TVaNlFRt2DC"
     },
     {
       "added_at": "2025-12-18 14:09:52",
@@ -791,6 +775,22 @@
       "duration_ms": 156038,
       "name": "Mystery Sky",
       "url": "https://open.spotify.com/track/0U9ixnjG3qdi35doySolAj"
+    },
+    {
+      "added_at": "2025-12-18 14:09:52",
+      "album": {
+        "name": "Rain: Dark Skies",
+        "url": "https://open.spotify.com/album/48olG5g74NLiO7jOXNVIv4"
+      },
+      "artists": [
+        {
+          "name": "H20 Recording",
+          "url": "https://open.spotify.com/artist/4bUfAQsEWiP31GmX5D6E1r"
+        }
+      ],
+      "duration_ms": 163469,
+      "name": "Rain: Dark Skies",
+      "url": "https://open.spotify.com/track/1zH3ZD0xXlwNphuANYz00z"
     },
     {
       "added_at": "2025-12-18 14:09:52",
@@ -955,22 +955,6 @@
     {
       "added_at": "2025-12-18 14:09:52",
       "album": {
-        "name": "Chuviscando",
-        "url": "https://open.spotify.com/album/3Hk9biES4EWV2d733QMN7p"
-      },
-      "artists": [
-        {
-          "name": "Precipita\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/46km264wFWt9vtPfr9kls2"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Chuviscando",
-      "url": "https://open.spotify.com/track/30fpcDpOA8ATungDAcxNoi"
-    },
-    {
-      "added_at": "2025-12-18 14:09:52",
-      "album": {
         "name": "Calm Rain",
         "url": "https://open.spotify.com/album/7jRKQ6G04oCT4O1QA0A5X3"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 158000,
       "name": "Burst Of Rain",
       "url": "https://open.spotify.com/track/63bE2JK2VIhqMI0KGIJBfg"
+    },
+    {
+      "added_at": "2025-12-18 14:09:52",
+      "album": {
+        "name": "Chuviscando",
+        "url": "https://open.spotify.com/album/3Hk9biES4EWV2d733QMN7p"
+      },
+      "artists": [
+        {
+          "name": "Precipita\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/46km264wFWt9vtPfr9kls2"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Chuviscando",
+      "url": "https://open.spotify.com/track/30fpcDpOA8ATungDAcxNoi"
     },
     {
       "added_at": "2025-12-18 14:09:52",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-12-18 14:09:52",
       "album": {
-        "name": "Drenched in Stillness",
-        "url": "https://open.spotify.com/album/7pL7dEBNUaAC1EHpqFeWpm"
-      },
-      "artists": [
-        {
-          "name": "Earth Alliance",
-          "url": "https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Rain Listens",
-      "url": "https://open.spotify.com/track/1rCuCfKSd0zEcOlVjlpq4V"
-    },
-    {
-      "added_at": "2025-12-18 14:09:52",
-      "album": {
         "name": "Chill Summer Rain",
         "url": "https://open.spotify.com/album/4xThZFSz5zpljbvsr7x83f"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 137044,
       "name": "Chill Summer Rain",
       "url": "https://open.spotify.com/track/51yBX5feHREH4CQB3z4Mk0"
+    },
+    {
+      "added_at": "2025-12-18 14:09:52",
+      "album": {
+        "name": "Drenched in Stillness",
+        "url": "https://open.spotify.com/album/7pL7dEBNUaAC1EHpqFeWpm"
+      },
+      "artists": [
+        {
+          "name": "Earth Alliance",
+          "url": "https://open.spotify.com/artist/4u2F224Db72rESovXGKNGZ"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Rain Listens",
+      "url": "https://open.spotify.com/track/1rCuCfKSd0zEcOlVjlpq4V"
     },
     {
       "added_at": "2025-12-18 14:09:52",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2025-12-18 14:09:52",
       "album": {
-        "name": "Gute Nacht Regen",
-        "url": "https://open.spotify.com/album/5yLEy4Lt5WqK2QYbgVA2k3"
-      },
-      "artists": [
-        {
-          "name": "Samplestar",
-          "url": "https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs"
-        }
-      ],
-      "duration_ms": 116828,
-      "name": "Gute Nacht Regen",
-      "url": "https://open.spotify.com/track/59ybuybj11WcV9iujtGBpS"
-    },
-    {
-      "added_at": "2025-12-18 14:09:52",
-      "album": {
         "name": "Rainable",
         "url": "https://open.spotify.com/album/30ryu3DbZyLyI81WnELdfQ"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2025-12-18 14:09:52",
       "album": {
-        "name": "Pluie l\u00e9g\u00e8re",
-        "url": "https://open.spotify.com/album/7n6VEakQKjq3wMBh69F7OK"
+        "name": "Gute Nacht Regen",
+        "url": "https://open.spotify.com/album/5yLEy4Lt5WqK2QYbgVA2k3"
       },
       "artists": [
         {
-          "name": "Brain Timbre",
-          "url": "https://open.spotify.com/artist/3xRHOrpT0tqZeaLKnEdnU1"
+          "name": "Samplestar",
+          "url": "https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs"
         }
       ],
-      "duration_ms": 146333,
-      "name": "Forte pluie et tonnerre",
-      "url": "https://open.spotify.com/track/08w84SD08M8bE1beK2mG1P"
+      "duration_ms": 116828,
+      "name": "Gute Nacht Regen",
+      "url": "https://open.spotify.com/track/59ybuybj11WcV9iujtGBpS"
     },
     {
       "added_at": "2025-12-18 14:09:52",
@@ -1495,6 +1479,22 @@
       "duration_ms": 229192,
       "name": "3D Rain",
       "url": "https://open.spotify.com/track/3PHJojTKJBt5uqWdq38lHd"
+    },
+    {
+      "added_at": "2025-12-18 14:09:52",
+      "album": {
+        "name": "Pluie l\u00e9g\u00e8re",
+        "url": "https://open.spotify.com/album/7n6VEakQKjq3wMBh69F7OK"
+      },
+      "artists": [
+        {
+          "name": "Brain Timbre",
+          "url": "https://open.spotify.com/artist/3xRHOrpT0tqZeaLKnEdnU1"
+        }
+      ],
+      "duration_ms": 146333,
+      "name": "Forte pluie et tonnerre",
+      "url": "https://open.spotify.com/track/08w84SD08M8bE1beK2mG1P"
     },
     {
       "added_at": "2025-12-18 14:09:52",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-12-18 14:09:52",
       "album": {
-        "name": "Evaporation",
-        "url": "https://open.spotify.com/album/4X4ePQCZPodmhLR7PNlJkg"
-      },
-      "artists": [
-        {
-          "name": "Hydrometry",
-          "url": "https://open.spotify.com/artist/6zyjNEfUOGjqpWNy4ZXt5Z"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Get Ur Rain On",
-      "url": "https://open.spotify.com/track/1zKUJivfBXl4t8DeFC2058"
-    },
-    {
-      "added_at": "2025-12-18 14:09:52",
-      "album": {
         "name": "En Sinton\u00eda",
         "url": "https://open.spotify.com/album/3fnaCxg6msIv9Pmtv5haC3"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 146100,
       "name": "Alcance",
       "url": "https://open.spotify.com/track/5ztAcoTCCDKvkdGnAjqNM5"
+    },
+    {
+      "added_at": "2025-12-18 14:09:52",
+      "album": {
+        "name": "Evaporation",
+        "url": "https://open.spotify.com/album/4X4ePQCZPodmhLR7PNlJkg"
+      },
+      "artists": [
+        {
+          "name": "Hydrometry",
+          "url": "https://open.spotify.com/artist/6zyjNEfUOGjqpWNy4ZXt5Z"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Get Ur Rain On",
+      "url": "https://open.spotify.com/track/1zKUJivfBXl4t8DeFC2058"
     },
     {
       "added_at": "2025-12-18 14:09:52",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2025-12-18 14:09:52",
       "album": {
-        "name": "Rain Rain Rain",
-        "url": "https://open.spotify.com/album/4tTNZUUVpyPnwysaK2SsmX"
-      },
-      "artists": [
-        {
-          "name": "Rain Hard",
-          "url": "https://open.spotify.com/artist/3jjJ23jPDUk9XnURWZmWK4"
-        }
-      ],
-      "duration_ms": 189252,
-      "name": "Hard Rain 2",
-      "url": "https://open.spotify.com/track/0HviNI5IDkJxWlR77EKGoP"
-    },
-    {
-      "added_at": "2025-12-18 14:09:52",
-      "album": {
         "name": "Cloud Force",
         "url": "https://open.spotify.com/album/4KK7mbuJzcbW8pHQSwtytc"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 159753,
       "name": "Meditation Thunder",
       "url": "https://open.spotify.com/track/3laBFjOEcZRgmlv2StZlDX"
+    },
+    {
+      "added_at": "2025-12-18 14:09:52",
+      "album": {
+        "name": "Rain Rain Rain",
+        "url": "https://open.spotify.com/album/4tTNZUUVpyPnwysaK2SsmX"
+      },
+      "artists": [
+        {
+          "name": "Rain Hard",
+          "url": "https://open.spotify.com/artist/3jjJ23jPDUk9XnURWZmWK4"
+        }
+      ],
+      "duration_ms": 189252,
+      "name": "Hard Rain 2",
+      "url": "https://open.spotify.com/track/0HviNI5IDkJxWlR77EKGoP"
     },
     {
       "added_at": "2025-12-18 14:09:52",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2025-12-18 14:09:52",
       "album": {
-        "name": "Strawberry Rain",
-        "url": "https://open.spotify.com/album/2sQA6ju0ve2lCiPHJo4VC1"
-      },
-      "artists": [
-        {
-          "name": "DreamDrops",
-          "url": "https://open.spotify.com/artist/0wv2UcMaagFUFqzqbBW7za"
-        }
-      ],
-      "duration_ms": 212169,
-      "name": "Strawberry Rain",
-      "url": "https://open.spotify.com/track/06EYu330c8GVTs3fDGJ0pD"
-    },
-    {
-      "added_at": "2025-12-18 14:09:52",
-      "album": {
         "name": "Mal tiempo",
         "url": "https://open.spotify.com/album/6eBLkE1aKrdhIudV9HdtZr"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 132666,
       "name": "Tormenta de la selva",
       "url": "https://open.spotify.com/track/2AtxBBgHbuuJFrv8h3U7ls"
+    },
+    {
+      "added_at": "2025-12-18 14:09:52",
+      "album": {
+        "name": "Strawberry Rain",
+        "url": "https://open.spotify.com/album/2sQA6ju0ve2lCiPHJo4VC1"
+      },
+      "artists": [
+        {
+          "name": "DreamDrops",
+          "url": "https://open.spotify.com/artist/0wv2UcMaagFUFqzqbBW7za"
+        }
+      ],
+      "duration_ms": 212169,
+      "name": "Strawberry Rain",
+      "url": "https://open.spotify.com/track/06EYu330c8GVTs3fDGJ0pD"
     },
     {
       "added_at": "2025-12-18 14:09:52",

@@ -4,7 +4,7 @@
 
 > \#fyp songs voor je playlist Cover: Aya Nakamura
 
-903 songs - 1 day 21 hr 21 min
+904 songs - 1 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -673,6 +673,7 @@
 | [Rodeo \(Remix\)](https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv) | [Lah Pat](https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Rodeo \(Remix\)](https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq) | 4:05 | 2023-04-18 | 2023-06-27 |
 | [Roi 2 cœur \(feat\. Indila\)](https://open.spotify.com/track/6nYW5D9TyWomuS9hW6wDuY) | [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o), [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB) | [Résilience](https://open.spotify.com/album/7pv5ansWsFSWQbN7uTJvQ2) | 3:29 | 2023-02-23 | 2023-04-19 |
 | [Rommel](https://open.spotify.com/track/0pw06mcIzuAeLPOHZT7W4Z) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Rommel](https://open.spotify.com/album/6iyEGMk28j3ZuiQxz5lvU5) | 3:16 | 2023-04-18 | 2023-06-27 |
+| [RUBBERZ](https://open.spotify.com/track/1iTBTk4xtwo4lBMcPVNoPh) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [Purps On The Beat](https://open.spotify.com/artist/5Ti1bgVXlEFiheTsdiHhRd) | [RUBBERZ](https://open.spotify.com/album/5nh5SWvNLfdyPqJD5zvDNV) | 2:53 | 2026-07-02 |  |
 | [Ruim Het Op \(TikTok Opruimlied\)](https://open.spotify.com/track/6Ttn9iPL1nBZKaEjMxZjKt) | [LISADEBROWN](https://open.spotify.com/artist/6zxnXz7REjCxv9JQaAACJ3), [Meester Mo](https://open.spotify.com/artist/6OJZ4nJxCVji3pOD80kAyA) | [Ruim Het Op \(TikTok Opruimlied\)](https://open.spotify.com/album/3eKwuyLNCQr3VHkWiLlaSJ) | 1:47 | 2024-03-29 | 2024-04-23 |
 | [Run Boy Run](https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [The Golden Age](https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2) | 3:33 | 2024-06-12 | 2024-07-30 |
 | [Run It! \(feat\. Juelz Santana\)](https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:49 | 2023-02-23 | 2023-04-12 |

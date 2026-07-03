@@ -1,6 +1,6 @@
 {
   "description": "We're born naked and the rest is drag. Cover: The Vivienne ",
-  "num_followers": 98989,
+  "num_followers": 98988,
   "original_name": "FIERCE",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Rodeo",
-        "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
-      },
-      "artists": [
-        {
-          "name": "Bimini",
-          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
-        }
-      ],
-      "duration_ms": 210708,
-      "name": "Rodeo",
-      "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Gimme What I Want",
         "url": "https://open.spotify.com/album/5pmbZHU0Jm4r6VeVqez2P4"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 150500,
       "name": "Gimme What I Want",
       "url": "https://open.spotify.com/track/2s1HaxivaRNYacIAYZLRym"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Rodeo",
+        "url": "https://open.spotify.com/album/5qAwGFaG7II3KvQgeqbhvp"
+      },
+      "artists": [
+        {
+          "name": "Bimini",
+          "url": "https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk"
+        }
+      ],
+      "duration_ms": 210708,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/4yD54gEYISBUYtgth3cSv2"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -879,18 +879,22 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "My Pussy Is Like a Peach",
-        "url": "https://open.spotify.com/album/2UF5W1roL28m982inA5g3w"
+        "name": "Champion (Ru X Blu)",
+        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
       },
       "artists": [
         {
-          "name": "Choriza May",
-          "url": "https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j"
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+          "name": "Blu Hydrangea",
+          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
         }
       ],
-      "duration_ms": 232636,
-      "name": "My Pussy Is Like a Peach",
-      "url": "https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd"
+      "duration_ms": 178278,
+      "name": "Champion (Ru X Blu)",
+      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -927,22 +931,18 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Champion (Ru X Blu)",
-        "url": "https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ"
+        "name": "My Pussy Is Like a Peach",
+        "url": "https://open.spotify.com/album/2UF5W1roL28m982inA5g3w"
       },
       "artists": [
         {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        },
-        {
-          "name": "Blu Hydrangea",
-          "url": "https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0"
+          "name": "Choriza May",
+          "url": "https://open.spotify.com/artist/5QUIkNOKPjTmTHpvPHfR0j"
         }
       ],
-      "duration_ms": 178278,
-      "name": "Champion (Ru X Blu)",
-      "url": "https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP"
+      "duration_ms": 232636,
+      "name": "My Pussy Is Like a Peach",
+      "url": "https://open.spotify.com/track/1skWa3UtU951daIZVQtIEd"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -959,6 +959,38 @@
       "duration_ms": 198391,
       "name": "Flamin' Hot",
       "url": "https://open.spotify.com/track/7C32ylxyLfkmlVcJVSuJYb"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Drag Den",
+        "url": "https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b"
+      },
+      "artists": [
+        {
+          "name": "Manila Luzon",
+          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
+        }
+      ],
+      "duration_ms": 195473,
+      "name": "Drag Den",
+      "url": "https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
+      },
+      "artists": [
+        {
+          "name": "Tia Kofi",
+          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -983,38 +1015,6 @@
       "duration_ms": 225810,
       "name": "Finish Her!",
       "url": "https://open.spotify.com/track/6hhf4WZLcRuM66DKKfzPCw"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW"
-      },
-      "artists": [
-        {
-          "name": "Tia Kofi",
-          "url": "https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
-        "name": "Drag Den",
-        "url": "https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b"
-      },
-      "artists": [
-        {
-          "name": "Manila Luzon",
-          "url": "https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g"
-        }
-      ],
-      "duration_ms": 195473,
-      "name": "Drag Den",
-      "url": "https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "It's Chocolate",
-        "url": "https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF"
-      },
-      "artists": [
-        {
-          "name": "LaLa Ri",
-          "url": "https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz"
-        }
-      ],
-      "duration_ms": 159718,
-      "name": "It's Chocolate",
-      "url": "https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Out of Office",
         "url": "https://open.spotify.com/album/406xw48mEf8PUbq48eGu6C"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 251250,
       "name": "Stars",
       "url": "https://open.spotify.com/track/1VBhncsdMgdkElWOGpOv9m"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "It's Chocolate",
+        "url": "https://open.spotify.com/album/7kg8LjngDFhg6s1LqPlaNF"
+      },
+      "artists": [
+        {
+          "name": "LaLa Ri",
+          "url": "https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz"
+        }
+      ],
+      "duration_ms": 159718,
+      "name": "It's Chocolate",
+      "url": "https://open.spotify.com/track/4J3THSWqN2TfLrsjefOk89"
     },
     {
       "added_at": "2025-01-14 16:17:40",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2025-01-14 16:17:40",
       "album": {
-        "name": "Born Naked",
-        "url": "https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7"
-      },
-      "artists": [
-        {
-          "name": "RuPaul",
-          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
-        }
-      ],
-      "duration_ms": 212693,
-      "name": "Sissy That Walk",
-      "url": "https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx"
-    },
-    {
-      "added_at": "2025-01-14 16:17:40",
-      "album": {
         "name": "Stars (Disco Mix)",
         "url": "https://open.spotify.com/album/4vzgEIokcu0fl4WorqHQcY"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 252500,
       "name": "Stars - Disco Mix",
       "url": "https://open.spotify.com/track/0NUqxqzbiABToJega47uSY"
+    },
+    {
+      "added_at": "2025-01-14 16:17:40",
+      "album": {
+        "name": "Born Naked",
+        "url": "https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7"
+      },
+      "artists": [
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        }
+      ],
+      "duration_ms": 212693,
+      "name": "Sissy That Walk",
+      "url": "https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx"
     },
     {
       "added_at": "2025-01-14 16:17:40",

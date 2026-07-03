@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: 多次元制御機構よだか
 
-1,846 songs - 4 day 15 hr 34 min
+1,847 songs - 4 day 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Goodbye angel](https://open.spotify.com/track/1KtI9hi73Ce7rhYq7rZuor) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 4:27 | 2024-01-22 | 2024-01-31 |
 | [Goodbye Daily](https://open.spotify.com/track/6xQBjMyS77DebVGJ6DZkgA) | [LET ME KNOW](https://open.spotify.com/artist/1B4fAs5bODEsdgj2MGmJu3) | [Goodbye Daily](https://open.spotify.com/album/6GgzFP4IcSXzH0oIJ2jqQK) | 4:04 | 2026-02-24 | 2026-06-11 |
 | [gosenfu](https://open.spotify.com/track/1JTDmheUz23wyefMW11USO) | [おもかげ](https://open.spotify.com/artist/4LnTqxRKY11tPnw1FFFzE2) | [gosenfu](https://open.spotify.com/album/4eEHq6CVks1bkSRoRRtHUu) | 3:25 | 2026-02-03 | 2026-02-12 |
+| [Greedy!!](https://open.spotify.com/track/5wcuIVeXEFUb8uDIKIr8CA) | [NELKE](https://open.spotify.com/artist/0hLfZOfwBDMejvKITJksrG) | [Greedy!!](https://open.spotify.com/album/4tFQ0Z0lMpqFxDT686LEWy) | 3:37 | 2026-06-30 |  |
 | [GUNJOUOUKA](https://open.spotify.com/track/1UF27ubfWrZy92mjCb3XnN) | [bokula.](https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG) | [GUNJOUOUKA](https://open.spotify.com/album/0HVA2YkOBzxSzve44TdSgd) | 3:53 | 2023-08-15 | 2023-09-06 |
 | [Gコード](https://open.spotify.com/track/5zdDbA84kNpVIQrWolQvjR) | [でかくてまるい。](https://open.spotify.com/artist/1YHfguoLRlCC98AT9H7Oti) | [ロックンロール](https://open.spotify.com/album/38uL4vo9OecxFGlGqXLSI4) | 4:48 | 2025-11-25 | 2025-12-03 |
 | [H@BREAK](https://open.spotify.com/track/34lKR5ZtGSs7i0BHl5bMGQ) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [Luv](https://open.spotify.com/album/6s1vpdVDsxdjluHxnKRzAP) | 2:35 | 2024-05-30 | 2024-07-17 |
@@ -1730,7 +1731,7 @@
 | [純文学](https://open.spotify.com/track/2nV3H9LFeB3JTR02zkGNL9) | [Lenn](https://open.spotify.com/artist/1Jx4EJKqMd16x4e8quEwIz) | [純文学](https://open.spotify.com/album/0fM8qruWqWw9HlfZsPt90m) | 4:53 | 2024-12-24 | 2025-01-21 |
 | [純粋無垢](https://open.spotify.com/track/0HhBVrUqAAMR8UNtU2ANiw) | [yutori](https://open.spotify.com/artist/4XFmgxfJrxEHZ1nLXf2Zv0) | [純粋無垢](https://open.spotify.com/album/6ILQCQLlwzdKJGA4hyH7cp) | 2:58 | 2024-12-17 | 2025-04-09 |
 | [紙風船](https://open.spotify.com/track/6PnVH4Baj1g8Dyy1XwG0xx) | [CLAN QUEEN](https://open.spotify.com/artist/7MDWmWGdcgGcxawAnA1FUY) | [紙風船](https://open.spotify.com/album/1rdUrzr2C2iTVjdvBO9zPI) | 3:14 | 2025-02-18 | 2025-07-09 |
-| [素直になれたら](https://open.spotify.com/track/1rDu82J9HWl5adEBnpqC3K) | [らそんぶる](https://open.spotify.com/artist/7b5qmQwKzZMoSDpRDvpU6j) | [素直になれたら](https://open.spotify.com/album/14MwmtnsCUKVa6JxUokBic) | 2:51 | 2026-06-30 |  |
+| [素直になれたら](https://open.spotify.com/track/1rDu82J9HWl5adEBnpqC3K) | [らそんぶる](https://open.spotify.com/artist/7b5qmQwKzZMoSDpRDvpU6j) | [素直になれたら](https://open.spotify.com/album/14MwmtnsCUKVa6JxUokBic) | 2:51 | 2026-06-30 | 2026-07-03 |
 | [紬](https://open.spotify.com/track/0J4UbxVqd2JtKsThF77lle) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [紬](https://open.spotify.com/album/4YbEISLvAHfDv6tBYO6qIL) | 3:25 | 2024-10-01 | 2025-01-22 |
 | [終末論](https://open.spotify.com/track/4ack2j3aOoeovz8iPSnMdh) | [utsuro\-tanuki](https://open.spotify.com/artist/2IePttw7OG7Y8GXeZDGlz8) | [終末論](https://open.spotify.com/album/2ARcbArdrBFQqxZT5pVw5u) | 3:33 | 2025-01-21 | 2025-02-05 |
 | [終盤のジェンガ](https://open.spotify.com/track/6212OCQufHwSaJz1jKVOE8) | [窓際ぼっち倶楽部](https://open.spotify.com/artist/2e9zgh8OaNlxL0TZuWLlLJ) | [終盤のジェンガ](https://open.spotify.com/album/3RDf3QxuFW7tbVcwLHpl5w) | 3:02 | 2026-02-11 | 2026-03-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,089 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,096 likes - 49 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 47 | [SPASIBA](https://open.spotify.com/track/3d6S35CsRKcNdJ4mUDVN5y) | [Merko](https://open.spotify.com/artist/3NBuryo6MsorZpU4VRpHOJ), [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Sanko](https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx), [Spize](https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm) | [SPASIBA](https://open.spotify.com/album/1kJGemEpGNLnF2tL5Br36t) | 2:48 |
 | 48 | [Exigiste Mou](https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R) | [Ria Ellinidou](https://open.spotify.com/artist/5xs1rri2ZKfDpkKLqreHlc) | [Exigiste Mou](https://open.spotify.com/album/5wZG3GidgJwTxeNFMIse8S) | 2:53 |
 | 49 | [Jackie Ο'](https://open.spotify.com/track/3eki2WDPpHdejxehX147UA) | [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2), [ARCADE](https://open.spotify.com/artist/565UjtVObRIa1hdNFUJajr) | [Jackie Ο'](https://open.spotify.com/album/35hZqIutiGG7tCaPNDlnE9) | 2:37 |
-| 50 | [FUCK OFF](https://open.spotify.com/track/2ycC1Hc45ZyhfRzHSJCCx8) | [How](https://open.spotify.com/artist/1fOZ5oJ54j38CGvVapIBDi) | [FUCK OFF](https://open.spotify.com/album/6TnAqeBtXLyBT2cgl7A9kI) | 2:34 |
 
-Snapshot ID: `AAAAAJD5PincHKqEfcQ1JsOnQQJoTtqB`
+Snapshot ID: `AAAAAA4XD8qcibSLvEZsyTZmA4+Gwn0l`

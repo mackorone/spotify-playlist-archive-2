@@ -1,6 +1,6 @@
 {
   "description": "Bring the festival vibes to wherever you are with these dance bangers. ",
-  "num_followers": 89330,
+  "num_followers": 89432,
   "original_name": "The Dance Tent",
   "owner": {
     "name": "Spotify",
@@ -1135,26 +1135,6 @@
     {
       "added_at": "2026-07-01 09:38:40",
       "album": {
-        "name": "Passion (R U Satisfied)",
-        "url": "https://open.spotify.com/album/2cBsiboy6NvsFuQkhh8tta"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        },
-        {
-          "name": "The Flirts",
-          "url": "https://open.spotify.com/artist/3tjF6wLt90r7qSWukrn401"
-        }
-      ],
-      "duration_ms": 193464,
-      "name": "Passion (R U Satisfied)",
-      "url": "https://open.spotify.com/track/6XqRL8W59LbyLuIQ7wyjON"
-    },
-    {
-      "added_at": "2026-07-01 09:38:40",
-      "album": {
         "name": "Diplo",
         "url": "https://open.spotify.com/album/2Lm2otWdTB4ChDfvbRXHIu"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 199090,
       "name": "Don\u2019t Forget My Love",
       "url": "https://open.spotify.com/track/3LnETnq2xyUpKcGqAQLJy1"
+    },
+    {
+      "added_at": "2026-07-01 09:38:40",
+      "album": {
+        "name": "Passion (R U Satisfied)",
+        "url": "https://open.spotify.com/album/2cBsiboy6NvsFuQkhh8tta"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "The Flirts",
+          "url": "https://open.spotify.com/artist/3tjF6wLt90r7qSWukrn401"
+        }
+      ],
+      "duration_ms": 193464,
+      "name": "Passion (R U Satisfied)",
+      "url": "https://open.spotify.com/track/6XqRL8W59LbyLuIQ7wyjON"
     },
     {
       "added_at": "2026-07-01 09:38:40",
@@ -1351,18 +1351,22 @@
     {
       "added_at": "2026-07-01 09:38:40",
       "album": {
-        "name": "Groove Thang",
-        "url": "https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ"
+        "name": "Chica",
+        "url": "https://open.spotify.com/album/3lFD0mEBqBfutBdgrVdzy9"
       },
       "artists": [
         {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+          "name": "Ben Evers",
+          "url": "https://open.spotify.com/artist/5HFt8c24F9ZzN2rmLxKC43"
+        },
+        {
+          "name": "Najeh",
+          "url": "https://open.spotify.com/artist/07tasEZuZUfLr1NObB0Us7"
         }
       ],
-      "duration_ms": 220360,
-      "name": "Groove Thang",
-      "url": "https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz"
+      "duration_ms": 156000,
+      "name": "Chica",
+      "url": "https://open.spotify.com/track/4iUauxwhmi9baLkC1zYrI1"
     }
   ],
   "unique_name": "The Dance Tent",

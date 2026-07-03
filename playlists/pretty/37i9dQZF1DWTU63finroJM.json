@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: JBABE",
-  "num_followers": 86173,
+  "num_followers": 86209,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -101,22 +101,6 @@
       "url": "https://open.spotify.com/track/7r1xF1bYg6BMs8u5V4sAeT"
     },
     {
-      "added_at": "2026-06-19 13:00:36",
-      "album": {
-        "name": "WHERE\u2019S THE FUN?",
-        "url": "https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "WHERE\u2019S THE FUN?",
-      "url": "https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d"
-    },
-    {
       "added_at": "2026-06-20 16:52:25",
       "album": {
         "name": "can't be blue",
@@ -135,6 +119,22 @@
       "duration_ms": 195000,
       "name": "can't love (feat. HAN (Stray Kids))",
       "url": "https://open.spotify.com/track/3KQbhkqIGm1W577i5iw0gB"
+    },
+    {
+      "added_at": "2026-06-19 13:00:36",
+      "album": {
+        "name": "WHERE\u2019S THE FUN?",
+        "url": "https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 205794,
+      "name": "WHERE\u2019S THE FUN?",
+      "url": "https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d"
     },
     {
       "added_at": "2026-06-19 13:00:36",
@@ -323,6 +323,26 @@
     {
       "added_at": "2026-06-19 13:00:36",
       "album": {
+        "name": "The First Wave",
+        "url": "https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU"
+      },
+      "artists": [
+        {
+          "name": "Alpha",
+          "url": "https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t"
+        },
+        {
+          "name": "Daiyan Trisha",
+          "url": "https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta"
+        }
+      ],
+      "duration_ms": 185753,
+      "name": "Haru Biru",
+      "url": "https://open.spotify.com/track/053AJQ01i1w3luw0QRGzUy"
+    },
+    {
+      "added_at": "2026-06-19 13:00:36",
+      "album": {
         "name": "Rich As Fuck",
         "url": "https://open.spotify.com/album/64EdBaSuXqRFS7T8cTlvGr"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 194901,
       "name": "LOVE ME",
       "url": "https://open.spotify.com/track/6Xd1mqYyMIK9LWrGUciP80"
-    },
-    {
-      "added_at": "2026-06-19 13:00:36",
-      "album": {
-        "name": "The First Wave",
-        "url": "https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU"
-      },
-      "artists": [
-        {
-          "name": "Alpha",
-          "url": "https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t"
-        },
-        {
-          "name": "Daiyan Trisha",
-          "url": "https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta"
-        }
-      ],
-      "duration_ms": 185753,
-      "name": "Haru Biru",
-      "url": "https://open.spotify.com/track/053AJQ01i1w3luw0QRGzUy"
     },
     {
       "added_at": "2026-06-19 13:00:36",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-06-19 13:00:36",
       "album": {
-        "name": "no time for sober",
-        "url": "https://open.spotify.com/album/2eDbJ5LcvvwjnNQtUzdjjF"
-      },
-      "artists": [
-        {
-          "name": "NO TIME FOR SILENCE",
-          "url": "https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe"
-        }
-      ],
-      "duration_ms": 217915,
-      "name": "i wish im alright\uff08\u6292\u60c5 \u7248\uff09",
-      "url": "https://open.spotify.com/track/5KGCSZJi0J7aDnScGWshwD"
-    },
-    {
-      "added_at": "2026-06-19 13:00:36",
-      "album": {
         "name": "IOIO",
         "url": "https://open.spotify.com/album/1tkadsy7lB3zNA5xkWbM30"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 169117,
       "name": "IOIO",
       "url": "https://open.spotify.com/track/0ye9i27scMk0GBlbGJEVjJ"
+    },
+    {
+      "added_at": "2026-06-19 13:00:36",
+      "album": {
+        "name": "no time for sober",
+        "url": "https://open.spotify.com/album/2eDbJ5LcvvwjnNQtUzdjjF"
+      },
+      "artists": [
+        {
+          "name": "NO TIME FOR SILENCE",
+          "url": "https://open.spotify.com/artist/4QhqPcRuERYC4hLLY3gVxe"
+        }
+      ],
+      "duration_ms": 217915,
+      "name": "i wish im alright\uff08\u6292\u60c5 \u7248\uff09",
+      "url": "https://open.spotify.com/track/5KGCSZJi0J7aDnScGWshwD"
     },
     {
       "added_at": "2026-06-19 13:00:36",

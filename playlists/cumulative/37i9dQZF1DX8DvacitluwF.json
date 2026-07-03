@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: TEEKS",
+  "description": "The best in South African and international R&B. Cover: Manana",
   "name": "R&Beats",
   "tracks": [
     {
@@ -3473,6 +3473,24 @@
     },
     {
       "album": {
+        "name": "Little Us",
+        "url": "https://open.spotify.com/album/2LV09CJsc3g7pf5IiODyB4"
+      },
+      "artists": [
+        {
+          "name": "EKENE",
+          "url": "https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184299,
+      "name": "Feedback",
+      "url": "https://open.spotify.com/track/5LpR9m05PvJreI3Ze70Rqf"
+    },
+    {
+      "album": {
         "name": "Feel Everything",
         "url": "https://open.spotify.com/album/6UiuPmxZFWTWrxFW0TcAXt"
       },
@@ -4506,7 +4524,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 196451,
       "name": "Head in a Jar",
       "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
@@ -4880,6 +4898,24 @@
       "duration_ms": 199512,
       "name": "How We Roll",
       "url": "https://open.spotify.com/track/7Fdhp8np9nZhsghO2VIPvJ"
+    },
+    {
+      "album": {
+        "name": "Hurts 2b Reminded",
+        "url": "https://open.spotify.com/album/1IJYY1v0FO4pXB0C9ggOLd"
+      },
+      "artists": [
+        {
+          "name": "Rowlene",
+          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175598,
+      "name": "Hurts 2b Reminded",
+      "url": "https://open.spotify.com/track/7epfsvfTAOcYmExhWtSPG1"
     },
     {
       "album": {
@@ -5466,6 +5502,32 @@
       "duration_ms": 108832,
       "name": "Intentions - A COLORS SHOW",
       "url": "https://open.spotify.com/track/2WjrHkkWin6RphSIQEGKLn"
+    },
+    {
+      "album": {
+        "name": "T's & C's Apply",
+        "url": "https://open.spotify.com/album/6DoiLrHITwH7KRzqoNXfIr"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        },
+        {
+          "name": "AyandaMVP",
+          "url": "https://open.spotify.com/artist/0j78LhGo6rbkwQzVxJ5XLA"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76746,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/3FL1FKNMrzKk9Bw66LmFY8"
     },
     {
       "album": {
@@ -7498,7 +7560,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 254015,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P"
@@ -11028,7 +11090,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 194895,
       "name": "TAI CHI",
       "url": "https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0"

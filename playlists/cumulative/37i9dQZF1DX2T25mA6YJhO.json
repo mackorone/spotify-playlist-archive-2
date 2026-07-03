@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Ultraligera.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Pu\u00f1o Drag\u00f3n.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -316,7 +316,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 124707,
       "name": "Adelante",
       "url": "https://open.spotify.com/track/1Bt7R4D2wOiKxi2JSceI4P"
@@ -1837,6 +1837,24 @@
     },
     {
       "album": {
+        "name": "Castillos en el aire",
+        "url": "https://open.spotify.com/album/12Hg4ETyvvypSRw2hiup0t"
+      },
+      "artists": [
+        {
+          "name": "Yacar\u00e9",
+          "url": "https://open.spotify.com/artist/1xndsW2XVHu6H17qFWCRzt"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228497,
+      "name": "Castillos en el aire",
+      "url": "https://open.spotify.com/track/1R6kbvoIKeO3bhVR94Qj5u"
+    },
+    {
+      "album": {
         "name": "Catafalco",
         "url": "https://open.spotify.com/album/7jnV68FUuHlh11SIonJmmh"
       },
@@ -1928,7 +1946,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 200512,
       "name": "cerveza o caf\u00e9 ???\u00bf?",
       "url": "https://open.spotify.com/track/2wSUef8f65ZkuLHtpthKpU"
@@ -6624,7 +6642,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 132250,
       "name": "LESBIANAS",
       "url": "https://open.spotify.com/track/2mR3qakxEaptpJvREGRyUH"
@@ -6714,7 +6732,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 180556,
       "name": "Llegar a lo m\u00e1s alto",
       "url": "https://open.spotify.com/track/69PPkQ17l0vwXuTbJTe3CF"
@@ -7398,7 +7416,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 189880,
       "name": "Marina d'Or",
       "url": "https://open.spotify.com/track/0uPK81ITJqZdPPp8nnpkLT"
@@ -10493,6 +10511,24 @@
     },
     {
       "album": {
+        "name": "Reino",
+        "url": "https://open.spotify.com/album/69gZUiVfOxi8YzI3f2kn3D"
+      },
+      "artists": [
+        {
+          "name": "Neverland Bari",
+          "url": "https://open.spotify.com/artist/68hEzkqJzDWakEF63HUHeA"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167362,
+      "name": "Reino",
+      "url": "https://open.spotify.com/track/3qawHMDedZz4sIcXIjPTwi"
+    },
+    {
+      "album": {
         "name": "2 canciones para el fomo",
         "url": "https://open.spotify.com/album/6hRE8se5sdDi37Fo9urH3J"
       },
@@ -10912,6 +10948,24 @@
       "duration_ms": 169558,
       "name": "Segunda capa",
       "url": "https://open.spotify.com/track/5JjSgY4uGoujvGj984FdGv"
+    },
+    {
+      "album": {
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/04CEOKH1mBOyzwm5w4Qb4M"
+      },
+      "artists": [
+        {
+          "name": "levitants",
+          "url": "https://open.spotify.com/artist/5Ed1kJRHN0Uj0BhGbRNutV"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223857,
+      "name": "Se\u00f1ales",
+      "url": "https://open.spotify.com/track/2CiIzUY0Jm3lYBGK6x7mj0"
     },
     {
       "album": {
@@ -11448,6 +11502,24 @@
       "duration_ms": 206563,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/2ysmyfV4hwLGsHjowCN3GU"
+    },
+    {
+      "album": {
+        "name": "SUAAVE",
+        "url": "https://open.spotify.com/album/4TMkzaJi1N5N65sxQ2cVq9"
+      },
+      "artists": [
+        {
+          "name": "Pu\u00f1o Drag\u00f3n",
+          "url": "https://open.spotify.com/artist/0y2duNe3eRERelKB3su9UK"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170370,
+      "name": "SUAAVE",
+      "url": "https://open.spotify.com/track/4YWoZ0RD8NjvTNclzCsBok"
     },
     {
       "album": {
@@ -13798,6 +13870,24 @@
       "duration_ms": 172059,
       "name": "\u00bfQu\u00e9 Ha Pasado?",
       "url": "https://open.spotify.com/track/31kq12P5zS0Xtlr4RjuPV1"
+    },
+    {
+      "album": {
+        "name": "\u00bfQu\u00e9 pas\u00f3?",
+        "url": "https://open.spotify.com/album/6y9SpkCtACucRNwyfMx6GO"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1os Raros",
+          "url": "https://open.spotify.com/artist/6Zywep6c8Uv9UWrOEGzIxg"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133527,
+      "name": "\u00bfQu\u00e9 pas\u00f3?",
+      "url": "https://open.spotify.com/track/2siSBqXQjHpMmUcJKJFnGy"
     },
     {
       "album": {

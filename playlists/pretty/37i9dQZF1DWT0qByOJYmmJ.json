@@ -1,6 +1,6 @@
 {
   "description": "Tristeza independiente para aquellos d\u00edas de baj\u00f3n.",
-  "num_followers": 628880,
+  "num_followers": 628866,
   "original_name": "Qu\u00e9 Sad!",
   "owner": {
     "name": "Spotify",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Si Nos Volvemos A Encontrar",
-        "url": "https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC"
+        "name": "el jardinero",
+        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
       },
       "artists": [
         {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
         }
       ],
-      "duration_ms": 204507,
-      "name": "Si Nos Volvemos A Encontrar",
-      "url": "https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM"
+      "duration_ms": 177391,
+      "name": "el jardinero",
+      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "el jardinero",
-        "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
+        "name": "Si Nos Volvemos A Encontrar",
+        "url": "https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC"
       },
       "artists": [
         {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
         }
       ],
-      "duration_ms": 177391,
-      "name": "el jardinero",
-      "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
+      "duration_ms": 204507,
+      "name": "Si Nos Volvemos A Encontrar",
+      "url": "https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1167,8 +1167,8 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "La Vida Nos Hizo En Pares",
-        "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
+        "name": "No Soy Yo",
+        "url": "https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09"
       },
       "artists": [
         {
@@ -1176,9 +1176,9 @@
           "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
         }
       ],
-      "duration_ms": 177450,
-      "name": "La Vida Nos Hizo En Pares",
-      "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
+      "duration_ms": 193654,
+      "name": "No Soy Yo",
+      "url": "https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1251,8 +1251,8 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "No Soy Yo",
-        "url": "https://open.spotify.com/album/0PVjH55QwxgCjcOxqavV09"
+        "name": "La Vida Nos Hizo En Pares",
+        "url": "https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ"
       },
       "artists": [
         {
@@ -1260,25 +1260,9 @@
           "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
         }
       ],
-      "duration_ms": 193654,
-      "name": "No Soy Yo",
-      "url": "https://open.spotify.com/track/2WsqNbvR2Ej6e6ae5t62eX"
-    },
-    {
-      "added_at": "2024-07-11 01:38:58",
-      "album": {
-        "name": "CTM",
-        "url": "https://open.spotify.com/album/2uPSSgrnh2KDGsfhxUWzJC"
-      },
-      "artists": [
-        {
-          "name": "Lauri Garcia",
-          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "CTM",
-      "url": "https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO"
+      "duration_ms": 177450,
+      "name": "La Vida Nos Hizo En Pares",
+      "url": "https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7"
     },
     {
       "added_at": "2024-07-11 01:38:58",
@@ -1299,6 +1283,22 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
+        "name": "Recuerdo",
+        "url": "https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8"
+      },
+      "artists": [
+        {
+          "name": "Angie Vazquez",
+          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
+        }
+      ],
+      "duration_ms": 221480,
+      "name": "Si Te Vas",
+      "url": "https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz"
+    },
+    {
+      "added_at": "2024-07-11 01:38:58",
+      "album": {
         "name": "Lo Hice, Te Dej\u00e9",
         "url": "https://open.spotify.com/album/6iH2QdPCGdGbq1qEXgI8KN"
       },
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-07-11 01:38:58",
       "album": {
-        "name": "Recuerdo",
-        "url": "https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8"
+        "name": "CTM",
+        "url": "https://open.spotify.com/album/2uPSSgrnh2KDGsfhxUWzJC"
       },
       "artists": [
         {
-          "name": "Angie Vazquez",
-          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
+          "name": "Lauri Garcia",
+          "url": "https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS"
         }
       ],
-      "duration_ms": 221480,
-      "name": "Si Te Vas",
-      "url": "https://open.spotify.com/track/1trqIXkFmBieU57vPJh9yz"
+      "duration_ms": 201000,
+      "name": "CTM",
+      "url": "https://open.spotify.com/track/54uHjhJDhvmEZy9hUorWKO"
     },
     {
       "added_at": "2024-07-11 01:38:58",

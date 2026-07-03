@@ -2,7 +2,7 @@
 
 ### [Hot Hits Australia](https://open.spotify.com/playlist/37i9dQZF1DWXXs9GFYnvLB)
 
-> The hottest tracks with the freshest hits! Cover: Olivia Rodrigo
+> The hottest tracks with the freshest hits! Cover: sombr
 
 481 songs - 1 day 1 hr 57 min
 

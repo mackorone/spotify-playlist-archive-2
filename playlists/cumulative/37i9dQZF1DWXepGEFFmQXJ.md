@@ -4,7 +4,7 @@
 
 > The cream of today's country crop\. Cover: Cody Johnson
 
-1,239 songs - 2 day 19 hr 58 min
+1,240 songs - 2 day 20 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Boat Named After You](https://open.spotify.com/track/04MDXwZ7JPyf1NGB8CNjPV) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Boat Named After You](https://open.spotify.com/album/3B3bBKTlR45AgSI26GVsjv) | 3:56 | 2026-02-26 | 2026-03-27 |
 | [Bones](https://open.spotify.com/track/58VwVmMvmGTd2Zj5oDlIAA) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Bones](https://open.spotify.com/album/52xjNFo20vTAb4AHMRtJyn) | 2:53 | 2024-07-11 | 2024-10-25 |
 | [BOOTS 'N ALL](https://open.spotify.com/track/2PZhGCCKW2kkklYLjGK2BZ) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [BOOTS 'N ALL](https://open.spotify.com/album/3Ka59QjpyIPyRnGNXnYsZm) | 2:45 | 2023-02-02 | 2023-09-08 |
+| [Boots By The Wrong Bed](https://open.spotify.com/track/6n5HwI078jMbfUKivOZLtk) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Something To Say](https://open.spotify.com/album/50Z4FLvq1q2E5qs7073VqZ) | 3:18 | 2026-07-02 |  |
 | [Boots Off](https://open.spotify.com/track/3MlvvRRwYfCpgIqUUPeYQ0) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Honkytonk Hollywood](https://open.spotify.com/album/1eDL4Z6TcdCDul9hip9WiS) | 2:41 | 2025-04-10 | 2025-07-04 |
 | [Boots On](https://open.spotify.com/track/5Ph8KtzUf8Srtd7el9WiY2) | [Jake Whittaker](https://open.spotify.com/artist/1qNMPH0kNJPsFvHhTqKipC) | [Boots On](https://open.spotify.com/album/7ndNowV1W2QEUNqrYI9FC9) | 2:34 | 2026-04-02 | 2026-05-22 |
 | [Born Again](https://open.spotify.com/track/5hEsOCXxKpxn5n96Hzs4oV) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Born Again](https://open.spotify.com/album/4m8X1dy1NKN2R46GUBFpBh) | 3:31 | 2026-01-15 | 2026-03-13 |
@@ -1039,7 +1040,7 @@
 | [Takin' Me Back](https://open.spotify.com/track/7vfwqVbhwWK8dSVba68EYY) | [Troy Kemp](https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT) | [Takin' Me Back](https://open.spotify.com/album/7pLkHBQvgIPDH0AGXDZrkG) | 3:01 | 2021-12-30 | 2022-03-18 |
 | [Takin’ The Slow Ride](https://open.spotify.com/track/71cIncNYZRMrpqWARKNcoc) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Polaroids](https://open.spotify.com/album/54tGe0uM8bFgZMWdxr8HdI) | 3:08 | 2025-06-05 | 2025-07-11 |
 | [Tear You Apart](https://open.spotify.com/track/1TGW9R0hY4sMqMF0Spxkt5) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Tear You Apart](https://open.spotify.com/album/1H0Z6MMprrHNqQjQL3okDA) | 3:31 | 2024-05-09 | 2024-07-27 |
-| [Ten to Midnight](https://open.spotify.com/track/4hSqdt68bXz9c5xubGyJIl) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Wild](https://open.spotify.com/album/1K8Fb2kSg4efx4fNZ8CTXL) | 3:12 | 2026-05-07 |  |
+| [Ten to Midnight](https://open.spotify.com/track/4hSqdt68bXz9c5xubGyJIl) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Wild](https://open.spotify.com/album/1K8Fb2kSg4efx4fNZ8CTXL) | 3:12 | 2026-05-07 | 2026-07-03 |
 | [Tennessee Orange](https://open.spotify.com/track/29zZmiBDLykYYTj7RN6VhV) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/24A7V0wuRxrZb2xv0QLqZ1) | 3:43 | 2022-09-29 | 2022-12-18 |
 | [Tennessee Orange](https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Tennessee Orange](https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3) | 3:43 | 2022-12-15 | 2023-04-14 |
 | [Tennessee Sunset](https://open.spotify.com/track/0ML0dlLrd12FpH5DfsX5P7) | [Bayker Blankenship](https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr) | [Younger Years](https://open.spotify.com/album/3UaSFosj35QqsM9bnLWLdg) | 2:39 | 2024-07-04 | 2024-09-27 |

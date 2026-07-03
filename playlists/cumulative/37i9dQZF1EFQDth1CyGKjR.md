@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0RTTLdL3NCtCsfLjytOimU">Timbaland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-539 songs - 1 day 10 hr 1 min
+540 songs - 1 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,8 @@
 | [Mami Mami](https://open.spotify.com/track/3tWx4p1GQpPnRmjTvVw8DV) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W) | [Mami Mami](https://open.spotify.com/album/6v136RUEpdzC5ixs6AoR85) | 2:01 | 2025-06-21 |  |
 | [Maneater](https://open.spotify.com/track/4wH4dJgrsxONID6KS2tDQM) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 4:18 | 2024-01-30 |  |
 | [Maneater](https://open.spotify.com/track/6MINtZhD9cu6NbgZLeAZiv) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Maneater \(US Version, Closed Captioned\)](https://open.spotify.com/album/6NlNOZGp97KrIUFwAuoQSS) | 5:08 | 2024-01-29 | 2024-02-02 |
-| [Marchin On](https://open.spotify.com/track/4BUtvtGTRvJB49Hx2F7lle) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:11 | 2024-01-29 |  |
+| [Marchin On](https://open.spotify.com/track/4BUtvtGTRvJB49Hx2F7lle) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:11 | 2024-01-29 | 2026-07-03 |
+| [Marchin On](https://open.spotify.com/track/2IPpyxIgVLoDmYGIffJrol) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 4:11 | 2026-07-02 |  |
 | [Me & You](https://open.spotify.com/track/0FP2EZTXIZJCP5z3KpuTf3) | [Yung Tory](https://open.spotify.com/artist/392I9I5QMSyoA0FmI5pVfx) | [Still Here](https://open.spotify.com/album/0lFSH2AaRHccpUpJD7E0V1) | 2:47 | 2024-01-29 |  |
 | [Meet In Tha Middle \(Featuring Bran' Nu\)](https://open.spotify.com/track/03omQ9bjayQ8qsezRhlJVM) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Bran' Nu](https://open.spotify.com/artist/4P4Pxmy9jGSeUasPqinLCe) | [Shock Value II](https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H) | 4:00 | 2024-01-29 |  |
 | [Mi Declaración \(feat\. Timbaland & Sid\)](https://open.spotify.com/track/7EzdQnopwog0YWUoRBEowX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Sid](https://open.spotify.com/artist/05BrFNfdik79RdmOG1Ux1Q) | [F.A.M.E.](https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx) | 3:45 | 2024-01-29 |  |

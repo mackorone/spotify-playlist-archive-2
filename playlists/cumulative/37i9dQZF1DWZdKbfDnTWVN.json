@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl?si=mHDa1yRURWKIxNU4bmrDMQ\"> Steph Kapela</a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS?si=WFKSTC4oSD-oTy7edA3fQA\"> King Kaka</a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -808,7 +808,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 169511,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/0eNG4ozPjfW70AckUaLbZD"
@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 240000,
       "name": "Daniel",
       "url": "https://open.spotify.com/track/7nrGVfMxCmNThFnzh3UV6q"
@@ -3128,7 +3128,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 161308,
       "name": "Grace Ya God",
       "url": "https://open.spotify.com/track/6zXGzlGNUQQ8YpXIM381Lc"
@@ -3480,7 +3480,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 238356,
       "name": "Hero",
       "url": "https://open.spotify.com/track/2l2aIEmVfvoPRGcKaxjXID"
@@ -3960,7 +3960,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 151169,
       "name": "Inspekta",
       "url": "https://open.spotify.com/track/5dIqhnXaDhlhoZz6VaTtcG"
@@ -6161,6 +6161,24 @@
     },
     {
       "album": {
+        "name": "Munene",
+        "url": "https://open.spotify.com/album/3Jx52ZqogMwDArFxoydo16"
+      },
+      "artists": [
+        {
+          "name": "Lilmaina",
+          "url": "https://open.spotify.com/artist/1GF4G0q7pW65JWvuKWKDzv"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170586,
+      "name": "Munene",
+      "url": "https://open.spotify.com/track/7Duuu7E4VZkLPGT1QBazXk"
+    },
+    {
+      "album": {
         "name": "MAFRANKOOO",
         "url": "https://open.spotify.com/album/3o0Fzphu8K4Tk2JqNQ0c0M"
       },
@@ -7182,6 +7200,24 @@
       "duration_ms": 111542,
       "name": "Pale Westi",
       "url": "https://open.spotify.com/track/21LNoPtgH50h5RARs7SV1s"
+    },
+    {
+      "album": {
+        "name": "Paprika",
+        "url": "https://open.spotify.com/album/2Klge8WQBVbSpRqdcoMYzw"
+      },
+      "artists": [
+        {
+          "name": "Big yasa",
+          "url": "https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109333,
+      "name": "Paprika",
+      "url": "https://open.spotify.com/track/2WxR4bUdObSr5IAorixbQL"
     },
     {
       "album": {
@@ -9191,6 +9227,32 @@
     },
     {
       "album": {
+        "name": "SUV",
+        "url": "https://open.spotify.com/album/2qTRt1e8X4dAXjxRSiZ4ut"
+      },
+      "artists": [
+        {
+          "name": "Thirtyfourbrick",
+          "url": "https://open.spotify.com/artist/72gStMl93alASiWwpGUbAa"
+        },
+        {
+          "name": "Mauru Gwash",
+          "url": "https://open.spotify.com/artist/7At4VH2SHRSwnKzxRtYlra"
+        },
+        {
+          "name": "JayLo",
+          "url": "https://open.spotify.com/artist/3foTXikex4NtOF76t2tXx2"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187080,
+      "name": "SUV",
+      "url": "https://open.spotify.com/track/0BoMHI4qqdtGhMCx4HuNUT"
+    },
+    {
+      "album": {
         "name": "Swerved",
         "url": "https://open.spotify.com/album/60rP86C9hDkhNyYh9aSjJk"
       },
@@ -9418,6 +9480,28 @@
       "duration_ms": 123344,
       "name": "Ten plus",
       "url": "https://open.spotify.com/track/7kN6wgjR16H85XPt8EbZsl"
+    },
+    {
+      "album": {
+        "name": "Tension",
+        "url": "https://open.spotify.com/album/3vcdW0dMdsZLf7LtyAp6Iq"
+      },
+      "artists": [
+        {
+          "name": "Ssaru",
+          "url": "https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW"
+        },
+        {
+          "name": "Scar Mkadinali",
+          "url": "https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173053,
+      "name": "Tension",
+      "url": "https://open.spotify.com/track/5nMMVWEj28Zp2KOUbMyuEa"
     },
     {
       "album": {
@@ -9798,6 +9882,24 @@
       "duration_ms": 132685,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/0KeypJHo1vNcEUR5cQSBHz"
+    },
+    {
+      "album": {
+        "name": "Year Of The Pen",
+        "url": "https://open.spotify.com/album/3X9ADdGjlXeD7R1iwsO6q4"
+      },
+      "artists": [
+        {
+          "name": "King Kaka",
+          "url": "https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/4afgxom9wIYBaEBy6KImMk"
     },
     {
       "album": {

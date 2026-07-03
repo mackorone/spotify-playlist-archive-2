@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Virgul, Maninho",
+  "description": "Uma playlist de pura alma pop! Foto: Criss Calisto",
   "name": "Pop PT",
   "tracks": [
     {
@@ -3870,7 +3870,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 214285,
       "name": "Felicidade (radio edit)",
       "url": "https://open.spotify.com/track/2B0lUnXYtviK2oRi1aFHce"
@@ -8545,6 +8545,24 @@
     },
     {
       "album": {
+        "name": "Rosas",
+        "url": "https://open.spotify.com/album/7KHqFd6Hpv63rLgKAlCg6Q"
+      },
+      "artists": [
+        {
+          "name": "Morais",
+          "url": "https://open.spotify.com/artist/4cEw0eZ9duWo7tuxQ78Obu"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Rosas",
+      "url": "https://open.spotify.com/track/2fJJ2NTXbElvZPNXqbjIZH"
+    },
+    {
+      "album": {
         "name": "SNTMNTL",
         "url": "https://open.spotify.com/album/6l9lUNt1Aft9wYMpCBXqCn"
       },
@@ -8850,6 +8868,24 @@
       "duration_ms": 212558,
       "name": "Se N\u00e3o Houvesse Amor",
       "url": "https://open.spotify.com/track/2TzA35bQJ6S2etM3fVuEcw"
+    },
+    {
+      "album": {
+        "name": "Se Tiver Que Doer",
+        "url": "https://open.spotify.com/album/1ky8c3uEnWoL8Ap3OiELNI"
+      },
+      "artists": [
+        {
+          "name": "Criss Calisto",
+          "url": "https://open.spotify.com/artist/1GDc3UxzZppUck4qre7QAX"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Se Tiver Que Doer",
+      "url": "https://open.spotify.com/track/1asjnRhBSDygO9y81KFau1"
     },
     {
       "album": {
@@ -9597,6 +9633,24 @@
     },
     {
       "album": {
+        "name": "Teki Manxi",
+        "url": "https://open.spotify.com/album/5dvv0BjEIwIQsMV1LJ1KY7"
+      },
+      "artists": [
+        {
+          "name": "Soraia Tavares",
+          "url": "https://open.spotify.com/artist/6QcqOXBfmED0nyVmhzFPNX"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179947,
+      "name": "Teki Manxi",
+      "url": "https://open.spotify.com/track/67SV6io2WSB0cDUq5QQaQE"
+    },
+    {
+      "album": {
         "name": "Telefone Estragado",
         "url": "https://open.spotify.com/album/5a8Yvj8bqm5h6FsLe9SmJ7"
       },
@@ -10230,7 +10284,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 221029,
       "name": "VERTIGENS",
       "url": "https://open.spotify.com/track/0bGZCIotXDkvo9F40VNc7s"
@@ -10654,7 +10708,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 163734,
       "name": "\u00c9POCA DE CA\u00c7A \u2206",
       "url": "https://open.spotify.com/track/39tCkRfeiJaB64lpsNOInU"

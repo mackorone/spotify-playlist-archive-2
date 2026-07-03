@@ -3438,7 +3438,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 119999,
       "name": "HATER",
       "url": "https://open.spotify.com/track/01FUn7iAIN8IRdMTPCP1aB"
@@ -4487,7 +4487,7 @@
     },
     {
       "album": {
-        "name": "Cacau 50% (Vol. 1)",
+        "name": "Cacau 50% - Vol.1",
         "url": "https://open.spotify.com/album/0xMEXymMK5kOISGQUuxYxC"
       },
       "artists": [
@@ -5076,7 +5076,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 180923,
       "name": "MUNDO INVERTIDO",
       "url": "https://open.spotify.com/track/0PiKL2Db7LVyKkrGgMgNmt"
@@ -5546,6 +5546,32 @@
       "duration_ms": 171428,
       "name": "N\u00e3o Podem Parar",
       "url": "https://open.spotify.com/track/2R8PMteNXbTDY7GTOD8Eze"
+    },
+    {
+      "album": {
+        "name": "O bonde t\u00e1 no levan",
+        "url": "https://open.spotify.com/album/5F2qrQxUooZmfbCKcBJTA7"
+      },
+      "artists": [
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        },
+        {
+          "name": "MC KTRINE",
+          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
+        },
+        {
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145511,
+      "name": "O bonde t\u00e1 no levan",
+      "url": "https://open.spotify.com/track/2Y60PGvtTVa0SXUw5vrQpv"
     },
     {
       "album": {
@@ -7177,6 +7203,32 @@
     },
     {
       "album": {
+        "name": "Sativa",
+        "url": "https://open.spotify.com/album/4uV37mjQSxdhzHJVOKj8YX"
+      },
+      "artists": [
+        {
+          "name": "B7BY",
+          "url": "https://open.spotify.com/artist/5PqL6oHbwLtmV2u1nVvGgm"
+        },
+        {
+          "name": "DJMDBEATS",
+          "url": "https://open.spotify.com/artist/50WKQCle6uAWBRfPmcW3Jn"
+        },
+        {
+          "name": "Ana Rima",
+          "url": "https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198323,
+      "name": "Sativa",
+      "url": "https://open.spotify.com/track/22PIIiZqbZzHhH9TNI2JbS"
+    },
+    {
+      "album": {
         "name": "Se Entregue",
         "url": "https://open.spotify.com/album/2uIFw8t8vjPirLoRia0yII"
       },
@@ -8659,7 +8711,7 @@
     },
     {
       "album": {
-        "name": "Cacau 50% (Vol. 1)",
+        "name": "Cacau 50% - Vol.1",
         "url": "https://open.spotify.com/album/0xMEXymMK5kOISGQUuxYxC"
       },
       "artists": [

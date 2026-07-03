@@ -700,7 +700,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 155460,
       "name": "2 the Stars",
       "url": "https://open.spotify.com/track/1JdMXy8E220wQDjkJbAEIm"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 178413,
       "name": "Adrenalin",
       "url": "https://open.spotify.com/track/6dECBSjgsAjLPwoApvo3aj"
@@ -5244,7 +5244,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 164160,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/0L8QoyB9KiLVozpiafqvMX"
@@ -11842,7 +11842,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 150617,
       "name": "dr\u00f8mmefanger (feat. URO)",
       "url": "https://open.spotify.com/track/4XgxdK8qm0K6EVUmg7ROMl"
@@ -42278,7 +42278,7 @@
       ],
       "date_added": "2022-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 182816,
       "name": "STOR MAND (feat. Andreas Odbjerg)",
       "url": "https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH"
@@ -49242,6 +49242,28 @@
       "duration_ms": 207349,
       "name": "Wi$h Li$t",
       "url": "https://open.spotify.com/track/3Qeh4z08FfDBRfQMfDv83f"
+    },
+    {
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/2RRUz0OS3mqNKklh1kPBt7"
+      },
+      "artists": [
+        {
+          "name": "Scarlet Pleasure",
+          "url": "https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6"
+        },
+        {
+          "name": "SHARMA",
+          "url": "https://open.spotify.com/artist/1o9oTtjGFR4ONTjVKVvnrL"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134310,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/6L3OQkay5RpXCQQSOwcyFo"
     },
     {
       "album": {

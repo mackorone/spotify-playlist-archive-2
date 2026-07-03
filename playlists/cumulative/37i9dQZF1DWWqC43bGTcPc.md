@@ -2,9 +2,9 @@
 
 ### [最Hit華語榜](https://open.spotify.com/playlist/37i9dQZF1DWWqC43bGTcPc)
 
-> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: Gareth.T
+> 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 宇宙人
 
-1,223 songs - 3 day 4 hr 5 min
+1,225 songs - 3 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,7 +183,7 @@
 | [week by week](https://open.spotify.com/track/51bPv2VzuFbGXkthHzx30I) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE) | [week by week](https://open.spotify.com/album/0VVxbUd44wpxpWFtvtxfH0) | 3:00 | 2024-04-03 | 2024-04-09 |
 | [Who Doesn’t Wanna](https://open.spotify.com/track/3IkFdpysX1QSvdc46gbq7g) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [Love, Lord](https://open.spotify.com/album/2Z2Lv8Cl0QcTirhjo9IvDq) | 4:05 | 2024-03-25 | 2024-04-19 |
 | [World Top](https://open.spotify.com/track/0oWhc3Yw09r5z460RDrqhy) | [Ozone](https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1) | [World Top](https://open.spotify.com/album/4q0JymLDkw9cMfUnRZYf7J) | 3:09 | 2024-05-06 | 2024-05-14 |
-| [Wui229](https://open.spotify.com/track/6ys5ZWv1RTBlwBs1vRFyd1) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:\)\) \- 一起去度假](https://open.spotify.com/album/4IVCRrXA13fqInFbyhN4y9) | 2:59 | 2025-03-17 | 2025-03-25 |
+| [Wui229](https://open.spotify.com/track/6ys5ZWv1RTBlwBs1vRFyd1) | [陳嫺靜](https://open.spotify.com/artist/4wbipbaGeTXkuF5paNuJqB) | [如果每天都可以 happy happy 誰想要sad:\)\) \- 一起去度假](https://open.spotify.com/album/4IVCRrXA13fqInFbyhN4y9) | 2:59 | 2025-03-17 |  |
 | [you call it love, i call it lie](https://open.spotify.com/track/3rPxI0MTRbYp86Eb4Et8VA) | [CClaire 馬愷伶](https://open.spotify.com/artist/61G4xTzT6aWI7CyJBhY79o) | [you call it love, i call it lie](https://open.spotify.com/album/1pRXCnckXX7ixU1fXTadFR) | 3:02 | 2026-05-14 | 2026-06-12 |
 | [《不渝》（電視劇《鳳凰臺上》片頭主題曲）](https://open.spotify.com/track/2I41HXwakMNrpcNzpvwz4I) | [Faye 詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [《不渝》（電視劇《鳳凰臺上》片頭主題曲）](https://open.spotify.com/album/0ndnNg1ZfUpiKZ4kWhs1fE) | 4:26 | 2025-11-24 | 2025-12-02 |
 | [《誰予我願》（電視劇《鳳凰臺上》主題曲）](https://open.spotify.com/track/13e7lzw5gxilP9xT1YMuG3) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [《誰予我願》（電視劇《鳳凰臺上》主題曲）](https://open.spotify.com/album/6ycH4ADOelnFiZBj2La2qa) | 4:08 | 2025-11-24 | 2025-12-02 |
@@ -513,7 +513,7 @@
 | [太阳落下](https://open.spotify.com/track/79yTkuq3yBHhtYuR6M6Yjv) | [Caven Tang](https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF), [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D) | [鑫](https://open.spotify.com/album/3GCmzhIjI8bNZgjEzDgiFw) | 4:27 | 2025-09-29 | 2025-10-07 |
 | [太陽之子](https://open.spotify.com/track/64Odl9Q0nrMjUlCfmBZKCp) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [太陽之子](https://open.spotify.com/album/5gDJVilnZpPt8zwBC467UH) | 4:57 | 2026-03-26 |  |
 | [太陽天下雨天](https://open.spotify.com/track/3nG5dqMIVjX6e7HcvP2EQs) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [太陽天下雨天](https://open.spotify.com/album/6odoZIx0gztEJAVPflJvbe) | 2:27 | 2024-08-05 | 2024-08-13 |
-| [太陽與地球](https://open.spotify.com/track/0bQSWXtpau3VkNI1ZcXTQA) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [HeartBreakFast 傷心早餐店](https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U) | 4:22 | 2025-09-22 |  |
+| [太陽與地球](https://open.spotify.com/track/0bQSWXtpau3VkNI1ZcXTQA) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [HeartBreakFast 傷心早餐店](https://open.spotify.com/album/3B4ldF0a4F6FXi2SB94m4U) | 4:22 | 2025-09-22 | 2026-07-03 |
 | [太陽陪著行星](https://open.spotify.com/track/5vSpx3rGBnwQf4oW6KEdwI) | [Bii](https://open.spotify.com/artist/1AIrEsIWKWiJJ6lfkLmtWK) | [太陽陪著行星](https://open.spotify.com/album/05H4mvVyuv5j1Gulgxgf9x) | 3:52 | 2024-08-05 | 2024-08-13 |
 | [失眠症](https://open.spotify.com/track/4pISBxlHRi6TfxsFtkuQ4b) | [苏星婕](https://open.spotify.com/artist/19nBOLVLKxrijWEvjpXFI8) | [失眠症](https://open.spotify.com/album/3PdL1orHdAL7SSPa8JMUB2) | 2:30 | 2024-07-22 | 2024-07-30 |
 | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/track/2kFlHifIDMDCpSxbmR17gl) | [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [失眠航班（Sleepless on the plane\)](https://open.spotify.com/album/4FmgP2uqeMPlIKfGvwP3LE) | 3:01 | 2025-07-28 | 2025-08-05 |
@@ -844,7 +844,7 @@
 | [有你的地方](https://open.spotify.com/track/5mv96WdBRnGhVMATgdd0nA) | [Shi En](https://open.spotify.com/artist/7rukFwrEq79EAUe7X5DJRB) | [有你的地方](https://open.spotify.com/album/7fFFeJK8ALksHRfXPDZ8ch) | 3:55 | 2025-05-12 | 2025-05-20 |
 | [有天會再相見](https://open.spotify.com/track/4BZlQdwkgUuaj5xbUHwUl8) | [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [有天會再相見](https://open.spotify.com/album/3euhcHkOosfai4FG0UXzp1) | 4:35 | 2024-09-09 | 2025-03-11 |
 | [有我你就幸福](https://open.spotify.com/track/4O2FMLItCsuInv9CIpJLuL) | [Kew 蕎](https://open.spotify.com/artist/4zfI392alaVaMOh5zqyucJ) | [有我你就幸福](https://open.spotify.com/album/7sSeI5w80WrpjKz2u7pyNp) | 3:00 | 2026-04-10 | 2026-06-12 |
-| [有時候我會想要傷害我的朋友](https://open.spotify.com/track/4JpflbcMZxVHo12zw9yxwr) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [有時候我會想要傷害我的朋友](https://open.spotify.com/album/0pqV8Oq5hfSnTtkuJwIaFI) | 4:12 | 2026-03-26 |  |
+| [有時候我會想要傷害我的朋友](https://open.spotify.com/track/4JpflbcMZxVHo12zw9yxwr) | [Enno Cheng](https://open.spotify.com/artist/0mVEQWHpQc30NdVqwtj8WJ) | [有時候我會想要傷害我的朋友](https://open.spotify.com/album/0pqV8Oq5hfSnTtkuJwIaFI) | 4:12 | 2026-03-26 | 2026-07-03 |
 | [有線耳機](https://open.spotify.com/track/2PwNiCR8AbY4OhEVy6jrjh) | [Tr33](https://open.spotify.com/artist/5CkI8NcGv6BgLBOaKtgZws) | [有線耳機](https://open.spotify.com/album/2eysp6bEXcxThekxhZfQip) | 3:34 | 2026-06-11 |  |
 | [有話沒說](https://open.spotify.com/track/5a59iCKJGGzVqZBDLRBD0J) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH), [Sherman Zhuo](https://open.spotify.com/artist/6Ol8MzcK4ARqC8cTJbFxAw) | [有話沒說](https://open.spotify.com/album/4xGnvis9RtIea8Tx6DKcJI) | 4:25 | 2025-03-17 | 2025-09-17 |
 | [望](https://open.spotify.com/track/2PMp64Yqj8fBxds7lRWYdN) | [Ren Ran](https://open.spotify.com/artist/6f4srX54JFrLNK4aTJe2Sc) | [望](https://open.spotify.com/album/0Z1RNA0w5FucoZ7302nR2C) | 3:57 | 2024-01-29 | 2024-02-20 |
@@ -879,6 +879,7 @@
 | [沒什麼大不了的心情](https://open.spotify.com/track/5oXzBuDM0rDJqoCkLERse9) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv) | [沒什麼大不了的心情](https://open.spotify.com/album/51ZazKIk9VZJB8Ogt0m7gg) | 3:17 | 2025-01-06 | 2025-01-28 |
 | [沒啥好說](https://open.spotify.com/track/5F5LOb2vpSW0RHiEQDUq8f) | [Khalil Fong](https://open.spotify.com/artist/1YrtUPrWcPfgdl9BaD9nhd) | [夢想家 The Dreamer](https://open.spotify.com/album/7lxl8IT9CF5fh7pTN1CHYD) | 3:29 | 2024-10-21 | 2025-03-18 |
 | [沒有一杯茶解決不了的事 \(feat\. 楊和蘇KeyNG\)](https://open.spotify.com/track/2Al1p39pSexbE022iobU8m) | [Steve Chou](https://open.spotify.com/artist/1Qneon4tYZ7srVOU91bTsO), [楊和蘇KeyNG](https://open.spotify.com/artist/49CtkDvDlgQjW3ZoUySsMQ) | [沒有一杯茶解決不了的事 \(feat\. 楊和蘇KeyNG\)](https://open.spotify.com/album/3Z4zJXOM2XK1MPdShAya6X) | 3:43 | 2024-11-25 | 2024-12-03 |
+| [沒有人像我一樣 \(影集《欠妳的那場婚禮》主題曲\)](https://open.spotify.com/track/5ZIAawvVz8fr74vIk8wX6l) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [沒有人像我一樣](https://open.spotify.com/album/0w9hmnyO60we8SitkSA1Le) | 4:06 | 2026-07-02 |  |
 | [沒有人會為了我改變 \(電影《夜校女生》主題曲\)](https://open.spotify.com/track/4MF3LAE3RNK19S9w5Y8M6a) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [沒有人會為了我改變](https://open.spotify.com/album/0pMtn6FSzOhvPaIrFFhWL4) | 5:11 | 2025-03-03 | 2025-04-15 |
 | [沒有你的世界](https://open.spotify.com/track/0X6NLxIOBoMNlXt5N0AfBg) | [Lil RAD](https://open.spotify.com/artist/02eMETTb4dkr9wE0utyggc), [Coy6oi](https://open.spotify.com/artist/3UN0S5PuO1xQtE9P9XJ2TV) | [沒有你的世界](https://open.spotify.com/album/1GSozpYnG3NEMxdZ0Tw4uW) | 2:59 | 2024-07-15 | 2024-07-23 |
 | [沒有如果](https://open.spotify.com/track/2fugXPHScj3rflFJoIVi0T) | [ECHORA](https://open.spotify.com/artist/4YttcexiK8XuXXxQVrA1dC), [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [沒有如果](https://open.spotify.com/album/2eh90cMF3Vr2yMhJ9X9MEU) | 2:32 | 2025-08-25 | 2025-09-02 |
@@ -895,7 +896,7 @@
 | [泡沫](https://open.spotify.com/track/7KC34sQVSeBg6TknhoAh7h) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs), [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM) | [泡沫](https://open.spotify.com/album/4n6T1B13KYgQZz80hYer1o) | 3:02 | 2024-11-18 | 2024-12-31 |
 | [流浪是合理的需求](https://open.spotify.com/track/0AxQwT0jlHXbEB4CAtOXGq) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [流浪是合理的需求](https://open.spotify.com/album/6LqA7AgrZ9ZYwGZX1jfZoh) | 3:55 | 2024-09-23 | 2024-10-01 |
 | [浪人情歌 \- 滾石撞樂隊2 \(原唱:伍佰 & China Blue\)](https://open.spotify.com/track/5M9QZS2bKvEY9C5XLgMFhy) | [玖壹壹](https://open.spotify.com/artist/3w8fdvgPp2aKgy125EBgVg), [PA PUN BAND](https://open.spotify.com/artist/0jz8mea3EKbqvOxZY6skBz) | [滾石撞樂隊2 \- 浪人情歌](https://open.spotify.com/album/4mKbjkXli7FT4p0myTSFcL) | 3:21 | 2026-01-12 | 2026-02-03 |
-| [浪人的…](https://open.spotify.com/track/4cOagvJS8xGFU4VLpcp0gK) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt) | [跟著感覺走](https://open.spotify.com/album/2evA9z2timYQLrCtfmsTe1) | 4:05 | 2025-10-13 | 2025-11-11 |
+| [浪人的…](https://open.spotify.com/track/4cOagvJS8xGFU4VLpcp0gK) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt) | [跟著感覺走](https://open.spotify.com/album/2evA9z2timYQLrCtfmsTe1) | 4:05 | 2025-10-13 |  |
 | [浪人的…](https://open.spotify.com/track/7vZMXD0czO7zMg6qjl22BX) | [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt) | [浪人的…](https://open.spotify.com/album/3RzrzwtA5AfCIAHwRwUDzG) | 4:05 | 2025-05-19 | 2025-09-17 |
 | [浪漫主意](https://open.spotify.com/track/43OtONkkpQsJkOqZd6hdF0) | [Ozone](https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1) | [浪漫主意](https://open.spotify.com/album/1obAdjTU5cy11BMIOpBHAo) | 3:31 | 2025-12-01 | 2026-01-20 |
 | [海底之花](https://open.spotify.com/track/0hILA7gBt62FP3fq3KyPJe) | [言瑾羽](https://open.spotify.com/artist/1A4zkf1qdAB7eu7sSTbkhD) | [海底之花](https://open.spotify.com/album/3vLA3auhqfzirufoxigFTi) | 3:21 | 2024-07-01 | 2024-07-09 |
@@ -926,7 +927,7 @@
 | [無心街](https://open.spotify.com/track/4uwHhBzjBYPgpLlNxq4kiJ) | [邱鋒澤 Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [無心街](https://open.spotify.com/album/3HKBE2kGJbZCAF4kfxBoLB) | 2:52 | 2025-11-03 | 2025-11-11 |
 | [無比走心](https://open.spotify.com/track/7dCjtrgltvdKTbL38P5KW8) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [無比走心](https://open.spotify.com/album/18tZz684p3GxMjoeju1M1L) | 4:37 | 2025-12-22 | 2026-01-20 |
 | [無用的依賴（影集《化外之醫》主題曲）](https://open.spotify.com/track/5mMgSWmLTJBB5jMNDC2ONO) | [JUD 陳泳希](https://open.spotify.com/artist/12oXAua3nGur2Ma3WHyCro) | [無用的依賴](https://open.spotify.com/album/0qtEq4TuQbShK6z4qLNlMC) | 3:15 | 2025-03-31 | 2025-04-08 |
-| [無神論](https://open.spotify.com/track/0R8fpH0zAdRRSmvY8ohJKM) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [無神論](https://open.spotify.com/album/5hqfckGvrZZpnyeSegMq7Y) | 3:08 | 2026-02-09 |  |
+| [無神論](https://open.spotify.com/track/0R8fpH0zAdRRSmvY8ohJKM) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [無神論](https://open.spotify.com/album/5hqfckGvrZZpnyeSegMq7Y) | 3:08 | 2026-02-09 | 2026-07-03 |
 | [無處安放的心臟 \(Feat.ERIKA\)](https://open.spotify.com/track/2EKfcLmb62HnzgpvIckEl3) | [李晉瑋](https://open.spotify.com/artist/5USwlHFW8l5fLMXELJrNbf), [ERIKA](https://open.spotify.com/artist/3cuZA22vz0nToT0LAcecup) | [無處安放的心臟 \(Feat\. ERIKA\)](https://open.spotify.com/album/1xXcb1rkgMUMG3azKw6Haq) | 3:49 | 2024-12-02 | 2024-12-10 |
 | [無處宣洩的鬱悶](https://open.spotify.com/track/7LhAcr5p0fGF3oqO8H7ltf) | [黃大謙](https://open.spotify.com/artist/4SU0G0tY3ckggFzBMoQ4hw) | [無處宣洩的鬱悶](https://open.spotify.com/album/4tc6Hcpxao1X8y43lbQUXV) | 4:07 | 2024-12-16 | 2025-01-14 |
 | [無袂煞](https://open.spotify.com/track/5YbCgnnhO78mSYgDOFNNxS) | [頑童Mj116](https://open.spotify.com/artist/7aMQdNM05rPkcHS1ethHUx) | [無袂煞](https://open.spotify.com/album/5ELAI7VMzvganf1RnY0b0L) | 3:27 | 2025-04-07 | 2025-04-15 |
@@ -1082,7 +1083,7 @@
 | [見字如面](https://open.spotify.com/track/6cpmXTXrTBIdZVXbV5hfGh) | [蔡明仁](https://open.spotify.com/artist/1v2EIlY1RxGD5b6eYNcyBo) | [見字如面](https://open.spotify.com/album/3kuLnRjzubwsrIgIfxginM) | 4:37 | 2025-07-09 | 2025-07-29 |
 | [親愛的寶寶](https://open.spotify.com/track/2lQmp9VH5B5bkIrnbh3hby) | [黃長俊](https://open.spotify.com/artist/7aPCuTZPyKhq4BevJfFHye) | [親愛的寶寶](https://open.spotify.com/album/2XtO93eMVdyGbw29xJlZoF) | 4:00 | 2025-03-31 | 2025-04-08 |
 | [親愛的自己 \(劇集《親愛的仇敵》片尾曲\)](https://open.spotify.com/track/037QYXfpkxGuusQji9cJCm) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue) | [親愛的自己](https://open.spotify.com/album/18dKSrQt4lZ3oA32455LQ4) | 4:46 | 2025-05-19 | 2025-05-27 |
-| [親近的陌生人](https://open.spotify.com/track/5jLoCQxoE18WQfKQ3zRxS2) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [親近的陌生人](https://open.spotify.com/album/7ep1F80CpaxYlIge0U7Wgv) | 4:13 | 2026-02-09 |  |
+| [親近的陌生人](https://open.spotify.com/track/5jLoCQxoE18WQfKQ3zRxS2) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [親近的陌生人](https://open.spotify.com/album/7ep1F80CpaxYlIge0U7Wgv) | 4:13 | 2026-02-09 | 2026-07-03 |
 | [觀自在](https://open.spotify.com/track/4xE6SWoamipottcrBNA1TQ) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9) | [觀自在](https://open.spotify.com/album/7H3Sh1OIqvcgc3Tvl2f6Xg) | 3:37 | 2026-06-04 | 2026-06-12 |
 | [觀雪 \(影視劇《墨雨雲間》片頭曲\)](https://open.spotify.com/track/2oPG1fUVMa4rXZljnqt40y) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [影視劇《墨雨雲間》原聲帶](https://open.spotify.com/album/29yxt3z7wic3VrXUxkAEXF) | 4:33 | 2024-07-08 | 2024-07-16 |
 | [計算浪漫](https://open.spotify.com/track/5o8bQhu2JHJcZJHZU29h1K) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [計算浪漫](https://open.spotify.com/album/22C5yglNIQFNxy9qpWoKEw) | 3:27 | 2025-02-17 | 2025-03-04 |
@@ -1102,6 +1103,7 @@
 | [謝謝妳愛我抱歉我是渣男](https://open.spotify.com/track/4au7BUR7PN6slQEzHSJmCL) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ) | [謝謝妳愛我抱歉我是渣男](https://open.spotify.com/album/1d0ElowhR0IcGDV1O8x5qf) | 4:52 | 2025-09-22 | 2025-10-07 |
 | [譜寫的青春](https://open.spotify.com/track/4FqsQh3OgLL7xQy18xdJbt) | [Elton 李泓伸](https://open.spotify.com/artist/4SQbIlbyr4vBmwpvwKaN90) | [譜寫的青春](https://open.spotify.com/album/3PhaDapVbjByr2Bwh9yA4M) | 4:15 | 2025-07-28 | 2025-08-12 |
 | [该死的魅力](https://open.spotify.com/track/3HHpMlK3wEy3pX70LHLaXy) | [彈殼Danko](https://open.spotify.com/artist/3fkwbLdzv3rzPg19f2YHOL) | [该死的魅力](https://open.spotify.com/album/1VE9SYrLKNJ66aKDaeuiOJ) | 3:06 | 2025-12-01 | 2025-12-09 |
+| [貴得可以 \(影集《欠妳的那場婚禮》插曲\)](https://open.spotify.com/track/0wXB9Y8Kn5pKRg3XabUkb7) | [蘇慧倫](https://open.spotify.com/artist/0HT1FqSMdbL40XGpLcLnoF) | [貴得可以](https://open.spotify.com/album/2a4xzj43vWwzekM1VcHeY8) | 4:12 | 2026-07-02 |  |
 | [负心人 \- 伴奏](https://open.spotify.com/track/0uOpRKEyzmYXwdye1XaPEW) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [负心人](https://open.spotify.com/album/6MoY7YhFGN0vSt1PMo3Z0c) | 4:03 | 2024-06-17 | 2024-06-25 |
 | [走](https://open.spotify.com/track/2rF9R6xw2VoSmtdNuechYC) | [Where Chou](https://open.spotify.com/artist/0T1grpeZ4qvXm7ALeRPKno) | [走](https://open.spotify.com/album/0ZFmAMc3dPPvg6GgpcBZ68) | 3:10 | 2025-12-15 | 2025-12-23 |
 | [走到哪都下著雨 \(feat\. 鄭興\)](https://open.spotify.com/track/7cloExy0gE4TOEbarMuXZt) | [Maggie Chiang](https://open.spotify.com/artist/1BZg1ebq8ftAkalzJoGq7u), [鄭興](https://open.spotify.com/artist/5zawO99pOdAzrwyJSSu5qE) | [走到哪都下著雨 \(feat\. 鄭興\)](https://open.spotify.com/album/7CC4zih6w361wMTopJC7NS) | 3:38 | 2024-07-22 | 2024-07-30 |

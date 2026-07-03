@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0fcSBGKwKuIMqCRmsAru3e">Biff Stannard</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-229 songs - 14 hr 45 min
+230 songs - 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,8 @@
 | [Bittersweet](https://open.spotify.com/track/30xj5RtKB9yFLQMqjSpWs2) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make A Scene](https://open.spotify.com/album/1jQybCwS6LWLljw1KBSZl2) | 3:28 | 2024-12-25 | 2025-01-27 |
 | [Bittersweet](https://open.spotify.com/track/5lmD16muawJeLxpEPCEre9) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/2vLMz7mNDjeAkCstDKiz7p) | 3:28 | 2023-12-25 | 2024-12-26 |
 | [Bittersweet](https://open.spotify.com/track/6fxuZrQxCPx0FeVSRZtCjw) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make A Scene](https://open.spotify.com/album/78y25UZcWa7BugXNRVuXDl) | 3:30 | 2021-12-27 | 2023-12-26 |
-| [Boy](https://open.spotify.com/track/2axz5zimxFZduxUx8FDyKO) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever \(Deluxe Edition\)](https://open.spotify.com/album/2QDWFfsBr3EngvBwPtxoIY) | 3:48 | 2021-12-27 |  |
+| [Boy](https://open.spotify.com/track/2axz5zimxFZduxUx8FDyKO) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever \(Deluxe Edition\)](https://open.spotify.com/album/2QDWFfsBr3EngvBwPtxoIY) | 3:48 | 2021-12-27 | 2026-07-03 |
+| [Boy](https://open.spotify.com/track/6lnnkL5dIqOBFwtGJae762) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Can't Get You out of My Head](https://open.spotify.com/album/4y4XxGQLG9O55HuhwkkvKM) | 3:48 | 2026-07-02 |  |
 | [Boys](https://open.spotify.com/track/4IYk5ESCDyErbN4jRPVBPq) | [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [The Lost Tapes](https://open.spotify.com/album/1FI5VTat7cYwcpOTlN3cnS) | 3:05 | 2022-12-26 |  |
 | [BPM](https://open.spotify.com/track/3sHPa949wvS2SOVibGndoy) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [I Believe in You](https://open.spotify.com/album/0CiGpBVREJ9teXHMFMabgC) | 4:05 | 2021-12-27 |  |
 | [By Your Side](https://open.spotify.com/track/5DnFrBj0B95LtGBCohSChD) | [Jimmy Somerville](https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7) | [Dare to Love](https://open.spotify.com/album/6jerfHX5ZAMHJAewnofvjQ) | 4:46 | 2026-05-01 |  |

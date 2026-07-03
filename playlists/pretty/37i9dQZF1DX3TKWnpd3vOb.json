@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Tres",
-  "num_followers": 185885,
+  "num_followers": 185871,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -151,18 +151,18 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/6cGJXwXv5rDaRjQwCzPcOn"
+        "name": "Revuelta En Vivo",
+        "url": "https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V"
       },
       "artists": [
         {
-          "name": "BBS Paranoicos",
-          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+          "name": "Los Tres",
+          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
         }
       ],
-      "duration_ms": 197225,
-      "name": "Claroscuro",
-      "url": "https://open.spotify.com/track/2mNju7Y612LKv6Lrdr9E6J"
+      "duration_ms": 291621,
+      "name": "Un Amor Violento (Revuelta en vivo)",
+      "url": "https://open.spotify.com/track/7Be5ECa3Cs7VfORwZxJs0I"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-04-10 19:32:23",
       "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/6cGJXwXv5rDaRjQwCzPcOn"
+      },
+      "artists": [
+        {
+          "name": "BBS Paranoicos",
+          "url": "https://open.spotify.com/artist/3m6rsPYI2szH1eab4Gu74U"
+        }
+      ],
+      "duration_ms": 197225,
+      "name": "Claroscuro",
+      "url": "https://open.spotify.com/track/2mNju7Y612LKv6Lrdr9E6J"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
         "name": "Revuelta En Vivo",
         "url": "https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V"
       },
@@ -240,25 +256,9 @@
           "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
         }
       ],
-      "duration_ms": 291621,
-      "name": "Un Amor Violento (Revuelta en vivo)",
-      "url": "https://open.spotify.com/track/7Be5ECa3Cs7VfORwZxJs0I"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "Te Amodio",
-        "url": "https://open.spotify.com/album/4ChALgLMpdJnzpROKqVtes"
-      },
-      "artists": [
-        {
-          "name": "Sinergia",
-          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
-        }
-      ],
-      "duration_ms": 194757,
-      "name": "Te Amodio",
-      "url": "https://open.spotify.com/track/4TLJbIecJRSJqCXbX5bYHi"
+      "duration_ms": 210121,
+      "name": "La Torre de Babel (Revuelta en vivo)",
+      "url": "https://open.spotify.com/track/4PRLV1XqwcU8hlbix9UB9f"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -275,6 +275,22 @@
       "duration_ms": 223340,
       "name": "Rey",
       "url": "https://open.spotify.com/track/3rS6pLKhoZ8m0Z5vqgoCfc"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Te Amodio",
+        "url": "https://open.spotify.com/album/4ChALgLMpdJnzpROKqVtes"
+      },
+      "artists": [
+        {
+          "name": "Sinergia",
+          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
+        }
+      ],
+      "duration_ms": 194757,
+      "name": "Te Amodio",
+      "url": "https://open.spotify.com/track/4TLJbIecJRSJqCXbX5bYHi"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -328,25 +344,9 @@
           "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
         }
       ],
-      "duration_ms": 210121,
-      "name": "La Torre de Babel (Revuelta en vivo)",
-      "url": "https://open.spotify.com/track/4PRLV1XqwcU8hlbix9UB9f"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "Ella es de Ella",
-        "url": "https://open.spotify.com/album/0ysyQSkGKg5GxdlrbxDwyp"
-      },
-      "artists": [
-        {
-          "name": "Chinoy",
-          "url": "https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g"
-        }
-      ],
-      "duration_ms": 272542,
-      "name": "Ella es de Ella",
-      "url": "https://open.spotify.com/track/3NBJ3ZHjVLKhROv9vyB449"
+      "duration_ms": 276465,
+      "name": "He barrido el sol (Revuelta en vivo)",
+      "url": "https://open.spotify.com/track/5flEqRCBL4AJ4NAYvK7KVY"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -363,6 +363,22 @@
       "duration_ms": 253293,
       "name": "Infiel",
       "url": "https://open.spotify.com/track/6wKBgNVGgDT1wT6dQhJa2Q"
+    },
+    {
+      "added_at": "2026-04-10 19:32:23",
+      "album": {
+        "name": "Ella es de Ella",
+        "url": "https://open.spotify.com/album/0ysyQSkGKg5GxdlrbxDwyp"
+      },
+      "artists": [
+        {
+          "name": "Chinoy",
+          "url": "https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g"
+        }
+      ],
+      "duration_ms": 272542,
+      "name": "Ella es de Ella",
+      "url": "https://open.spotify.com/track/3NBJ3ZHjVLKhROv9vyB449"
     },
     {
       "added_at": "2026-04-10 19:32:23",
@@ -399,22 +415,6 @@
       "duration_ms": 224419,
       "name": "Si es de morir",
       "url": "https://open.spotify.com/track/59SPOFYzAR2U2t0nRAkl9X"
-    },
-    {
-      "added_at": "2026-04-10 19:32:23",
-      "album": {
-        "name": "Revuelta En Vivo",
-        "url": "https://open.spotify.com/album/2ym8AVQH15hneb9a4des9V"
-      },
-      "artists": [
-        {
-          "name": "Los Tres",
-          "url": "https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S"
-        }
-      ],
-      "duration_ms": 276465,
-      "name": "He barrido el sol (Revuelta en vivo)",
-      "url": "https://open.spotify.com/track/5flEqRCBL4AJ4NAYvK7KVY"
     },
     {
       "added_at": "2026-04-10 19:32:23",

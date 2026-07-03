@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "Tu t\u00e1ta tu tat\u00e1... el beat del funk de Brasil para el mundo. Cover: MC L da Vinte, MC Gury, Anitta, Neton Vega",
-  "name": "es funk y el cuerpo lo sabe \ud83c\udde7\ud83c\uddf7",
+  "description": "Tu t\u00e1ta tu tat\u00e1... el beat del funk de Brasil para el mundo. Cover: Z\u00e9 Peque\u00f1a & 143Leti",
+  "name": "es funk y el cuerpo lo sabe",
   "tracks": [
     {
       "album": {
@@ -116,7 +116,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 137559,
       "name": "24/7 6.5",
       "url": "https://open.spotify.com/track/2wjzgkfw4MqYOtPAnREHoL"
@@ -891,6 +891,28 @@
     },
     {
       "album": {
+        "name": "Calesita",
+        "url": "https://open.spotify.com/album/1bS2LYtc61TnEbbo2FIbY0"
+      },
+      "artists": [
+        {
+          "name": "143leti",
+          "url": "https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr"
+        },
+        {
+          "name": "Z\u00e9 Peque\u00f1a",
+          "url": "https://open.spotify.com/artist/3XRUcyfxcvfUR4EHAA7p9C"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127272,
+      "name": "Calesita",
+      "url": "https://open.spotify.com/track/3ZZ69aYPGis3CuiUsiX523"
+    },
+    {
+      "album": {
         "name": "callaito",
         "url": "https://open.spotify.com/album/2h1yJ8TVNROj0DuYqHOm9Z"
       },
@@ -1526,6 +1548,28 @@
       "duration_ms": 159755,
       "name": "Estoy Aqu\u00ed - Remix",
       "url": "https://open.spotify.com/track/5Q8BwdHedbwWnyC9Trm6mj"
+    },
+    {
+      "album": {
+        "name": "Adolecer",
+        "url": "https://open.spotify.com/album/1sv4JASlpDmFDTisD2vjGa"
+      },
+      "artists": [
+        {
+          "name": "143leti",
+          "url": "https://open.spotify.com/artist/14fFkrYIwbODcbFIKoWfSr"
+        },
+        {
+          "name": "Roxxee",
+          "url": "https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113846,
+      "name": "Eu Te Amo",
+      "url": "https://open.spotify.com/track/603G1XgpLnYPpEbyxpc9Rt"
     },
     {
       "album": {
@@ -4044,7 +4088,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 128677,
       "name": "Rara Vez",
       "url": "https://open.spotify.com/track/7MVIfkyzuUmQ716j8U7yGR"

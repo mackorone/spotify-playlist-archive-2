@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie e punk dall'Italia \ud83e\udea9 cover: TA GA DA",
+  "description": "Rock, indie e punk dall'Italia \ud83e\udea9 in cover quello che potrebbe succederti a un concerto dei Tamango",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -7151,6 +7151,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Tide",
+        "url": "https://open.spotify.com/album/4nzndxyzYJbmVZmKx4VuPR"
+      },
+      "artists": [
+        {
+          "name": "Mr. Bison",
+          "url": "https://open.spotify.com/artist/0TE7bBoZ1pF0yjfmxlFFwz"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232773,
+      "name": "Cosmic Tide",
+      "url": "https://open.spotify.com/track/1oMcAcEm5XnAjdEZOzhS2d"
+    },
+    {
+      "album": {
         "name": "3021",
         "url": "https://open.spotify.com/album/28GOxpMaF4Rj16fWAnHknV"
       },
@@ -7732,7 +7750,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 178941,
       "name": "Dalla parte dell'orso",
       "url": "https://open.spotify.com/track/2gc3matCcrbtc4Az1sk57J"
@@ -9454,6 +9472,24 @@
       "duration_ms": 187741,
       "name": "ECLISSI",
       "url": "https://open.spotify.com/track/7LOz7vUwz6845uQwpd16UZ"
+    },
+    {
+      "album": {
+        "name": "Mente//Anima",
+        "url": "https://open.spotify.com/album/6qef1fSdnZa4hrdl0WiPmr"
+      },
+      "artists": [
+        {
+          "name": "What I Know Well",
+          "url": "https://open.spotify.com/artist/31NZ7eZstjiCO5YELnXgjO"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181789,
+      "name": "Eclissi",
+      "url": "https://open.spotify.com/track/62qANgsjv99kaMG0T6UqG9"
     },
     {
       "album": {
@@ -26095,6 +26131,24 @@
     },
     {
       "album": {
+        "name": "PRENDI LA MIRA E BASTA",
+        "url": "https://open.spotify.com/album/0csK30chHho12GO4HfYrnm"
+      },
+      "artists": [
+        {
+          "name": "KLAUS NOIR",
+          "url": "https://open.spotify.com/artist/49IamDbZMOj9GPux8Z4i9e"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146774,
+      "name": "PRENDI LA MIRA E BASTA",
+      "url": "https://open.spotify.com/track/70FQOnXMKq3ZDUNPVJmeYR"
+    },
+    {
+      "album": {
         "name": "Prenditi bene",
         "url": "https://open.spotify.com/album/1UChclAZEJGZ9z8NSVwDKn"
       },
@@ -27756,7 +27810,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 180373,
       "name": "Ritmo Lento",
       "url": "https://open.spotify.com/track/3v5EEAqc29kj2zvzFXhdgv"
@@ -30168,7 +30222,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 219428,
       "name": "SOLI INSIEME",
       "url": "https://open.spotify.com/track/5Y8kwPOGHoReMu7jbneONZ"
@@ -34530,7 +34584,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 158769,
       "name": "UN DOLORE COS\u00cc GRANDE DA FARE PIET\u00c0 AL MONDO INTERO",
       "url": "https://open.spotify.com/track/4UMAoxTefoxALbcYyDOYZ9"
@@ -36824,6 +36878,24 @@
       "duration_ms": 154946,
       "name": "X-Ray",
       "url": "https://open.spotify.com/track/4t3CRfsV9wL4ZSiqSe7PSx"
+    },
+    {
+      "album": {
+        "name": "Demos, B-sides, Acoustics, Vol.1",
+        "url": "https://open.spotify.com/album/4pcAmgTSpM8J9LcKMgrWS1"
+      },
+      "artists": [
+        {
+          "name": "LENORE",
+          "url": "https://open.spotify.com/artist/3AvVz3t2SmErEakXenKwbT"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255246,
+      "name": "XIII",
+      "url": "https://open.spotify.com/track/3F5BYvaK9Xh5h9Rx9Wdppb"
     },
     {
       "album": {

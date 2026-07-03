@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAPZC7hse6w1nKDVWASwy5Ihg8Pw5BP",
+  "snapshot_id": "AAAPaMqPt0BIkQs196oruvtt4hcS8rgt",
   "tracks": [
     {
       "added_at": "2026-05-06 11:42:58",
@@ -1403,6 +1403,74 @@
       "duration_ms": 169918,
       "name": "Backbone",
       "url": "https://open.spotify.com/track/6zeP6hRplNXsw9ryb2I74t"
+    },
+    {
+      "added_at": "2026-07-02 14:19:33",
+      "album": {
+        "name": "Smells like teen spirit",
+        "url": "https://open.spotify.com/album/6MXU2P8IunEnPkgr4k0dA4"
+      },
+      "artists": [
+        {
+          "name": "Courtney Nord",
+          "url": "https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX"
+        }
+      ],
+      "duration_ms": 339105,
+      "name": "Smells like teen spirit - Rock Version",
+      "url": "https://open.spotify.com/track/1ldzLB7XNziPQDUx9BE3H8"
+    },
+    {
+      "added_at": "2026-07-02 14:19:46",
+      "album": {
+        "name": "Don't Look Away",
+        "url": "https://open.spotify.com/album/1nfuO8I1Za0HuHjQQnvqJ8"
+      },
+      "artists": [
+        {
+          "name": "Empty Melon",
+          "url": "https://open.spotify.com/artist/1u5HkdqkmbCZD4R5FJK6Rq"
+        },
+        {
+          "name": "Leo Bagel",
+          "url": "https://open.spotify.com/artist/1dQ15Hx2wVHyoTro6o5hIx"
+        }
+      ],
+      "duration_ms": 202837,
+      "name": "Don't Look Away",
+      "url": "https://open.spotify.com/track/7JKSRwQE2JdzUtcZ3a4Prh"
+    },
+    {
+      "added_at": "2026-07-02 14:19:53",
+      "album": {
+        "name": "Heart of a Coward / Maelstrom",
+        "url": "https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB"
+      },
+      "artists": [
+        {
+          "name": "Starikova",
+          "url": "https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA"
+        }
+      ],
+      "duration_ms": 381085,
+      "name": "Maelstrom",
+      "url": "https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8"
+    },
+    {
+      "added_at": "2026-07-02 14:20:03",
+      "album": {
+        "name": "kim jeste\u015b?",
+        "url": "https://open.spotify.com/album/3AEbonO8ZDawTrqzwU6ozw"
+      },
+      "artists": [
+        {
+          "name": "oswojeni",
+          "url": "https://open.spotify.com/artist/6HSaeoRmLRRCdymdtKFsfh"
+        }
+      ],
+      "duration_ms": 213529,
+      "name": "kim jeste\u015b?",
+      "url": "https://open.spotify.com/track/3WRp5WLnxae0voLTrDSFz1"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

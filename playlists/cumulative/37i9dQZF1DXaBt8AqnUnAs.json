@@ -444,7 +444,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 182555,
       "name": "A \u00daltima das L\u00e1grimas",
       "url": "https://open.spotify.com/track/6fX0OOsIIDSHfogMl10XEi"
@@ -580,6 +580,24 @@
       "duration_ms": 185142,
       "name": "Ac\u00fastico Altamira #29 - Tinha tudo pra dar certo",
       "url": "https://open.spotify.com/track/1083jA6EMHDhaClCQn96z4"
+    },
+    {
+      "album": {
+        "name": "Como Se Fosse a Primeira Vez",
+        "url": "https://open.spotify.com/album/1qb8BFWp8DBQbtjtA5b33M"
+      },
+      "artists": [
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105245,
+      "name": "Adam Sandler",
+      "url": "https://open.spotify.com/track/4nrQTRZHQHZAYlMAM3j8qd"
     },
     {
       "album": {
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 196000,
       "name": "Bem Brasil",
       "url": "https://open.spotify.com/track/5ubDnmlPgdD1Ybx2HfwucK"
@@ -2538,7 +2556,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 140571,
       "name": "Bvlgar",
       "url": "https://open.spotify.com/track/6orS5UZoWkxIJR5TywKlNm"
@@ -2980,7 +2998,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 155624,
       "name": "Caso S\u00e9rio",
       "url": "https://open.spotify.com/track/3yE6sItwsQz577DsPGOZK7"
@@ -3372,7 +3390,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 132618,
       "name": "Coisas Leves",
       "url": "https://open.spotify.com/track/7IgwVjLCzHmTszmL6Dv6fC"
@@ -3532,7 +3550,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 132537,
       "name": "Confuso",
       "url": "https://open.spotify.com/track/7A3BVCo4vr9OujgsGm6pNu"
@@ -4372,6 +4390,28 @@
       "duration_ms": 192676,
       "name": "Despedidas",
       "url": "https://open.spotify.com/track/6N8ivSFir4QlSkp8ixqH9w"
+    },
+    {
+      "album": {
+        "name": "Detalhes",
+        "url": "https://open.spotify.com/album/1dB83DBgTNvl804T74NckN"
+      },
+      "artists": [
+        {
+          "name": "DU'L",
+          "url": "https://open.spotify.com/artist/4bJqqUCbQmRxziUoxUz5mS"
+        },
+        {
+          "name": "DJ Kaio Mix",
+          "url": "https://open.spotify.com/artist/74gBEMW9nABFurusi73PkB"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167806,
+      "name": "Detalhes",
+      "url": "https://open.spotify.com/track/26hAlC75AaAJgQdCkG6CVb"
     },
     {
       "album": {
@@ -5590,7 +5630,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 224516,
       "name": "Esquinas",
       "url": "https://open.spotify.com/track/2voUpWwBaRyJ0gTfbePHFX"
@@ -6624,7 +6664,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 185052,
       "name": "Final da pista (velocista)",
       "url": "https://open.spotify.com/track/2l5LpboUXhBhlevTbhTEOz"
@@ -7022,7 +7062,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 133846,
       "name": "Fragmento da Noite",
       "url": "https://open.spotify.com/track/3tqs6a258zCjBXx4l7uKq4"
@@ -8267,6 +8307,36 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Falo de Amor",
+        "url": "https://open.spotify.com/album/4MLZfjV5K8qxrIZi9Z4LX7"
+      },
+      "artists": [
+        {
+          "name": "DJ GH",
+          "url": "https://open.spotify.com/artist/4n9OUWLTEaARtbhwoH7IUw"
+        },
+        {
+          "name": "Xis",
+          "url": "https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "La\u00e7os ao Amanhecer",
+      "url": "https://open.spotify.com/track/3m3nf8CQpKLfrsd4o8Xbr4"
+    },
+    {
+      "album": {
         "name": "Lembro de Voc\u00ea",
         "url": "https://open.spotify.com/album/35xIi09rhNWA4FQS8xY1ko"
       },
@@ -8412,7 +8482,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 147692,
       "name": "Ligar Pra Voc\u00ea",
       "url": "https://open.spotify.com/track/6cxlDhSVE4fbxanvcS9yaT"
@@ -9289,6 +9359,28 @@
     },
     {
       "album": {
+        "name": "Mariana (me faz voltar)",
+        "url": "https://open.spotify.com/album/0V98Ly3Dab9Vq5dcGGN8kA"
+      },
+      "artists": [
+        {
+          "name": "Magr\u00e3o AllFavela",
+          "url": "https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1"
+        },
+        {
+          "name": "Ornellas",
+          "url": "https://open.spotify.com/artist/27zOmTo3H5RpXpliGvS5vH"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206819,
+      "name": "Mariana (me faz voltar)",
+      "url": "https://open.spotify.com/track/22MKQEdhetQ0zKVS0JTjt9"
+    },
+    {
+      "album": {
         "name": "Mary Madalena",
         "url": "https://open.spotify.com/album/08TqIiclYI5jy7Dbu1bECt"
       },
@@ -9464,7 +9556,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 169655,
       "name": "ME DIZ PQ?",
       "url": "https://open.spotify.com/track/3yTgfngNRx88W1GvD4Cyc8"
@@ -11379,6 +11471,32 @@
     },
     {
       "album": {
+        "name": "Amor de Copa",
+        "url": "https://open.spotify.com/album/67pyYKhAxZg6tzRdx9IC2c"
+      },
+      "artists": [
+        {
+          "name": "Lezin",
+          "url": "https://open.spotify.com/artist/2JcdqbrYd99HWzPaBRCSfp"
+        },
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150743,
+      "name": "Nutella",
+      "url": "https://open.spotify.com/track/4RImvNFSISS7s3xcW6W5Uk"
+    },
+    {
+      "album": {
         "name": "Nuvens",
         "url": "https://open.spotify.com/album/3CONsQp5OceeRQ4yVmDP0M"
       },
@@ -11542,7 +11660,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 210070,
       "name": "n\u00e3o soube te amar",
       "url": "https://open.spotify.com/track/6sq6mUsqDDnwFx0mp93FNc"
@@ -11842,6 +11960,32 @@
       "duration_ms": 136216,
       "name": "O Amor N\u00e3o \u00c9 um Produto",
       "url": "https://open.spotify.com/track/2DUeyCMxqYRPaPoJZbURaX"
+    },
+    {
+      "album": {
+        "name": "O destino reservou",
+        "url": "https://open.spotify.com/album/5lW6dhHUWA8ouAe2HcGdvq"
+      },
+      "artists": [
+        {
+          "name": "Lil Chainz",
+          "url": "https://open.spotify.com/artist/6LRVpC7lJ4IYrPNeAiylYB"
+        },
+        {
+          "name": "Duxter",
+          "url": "https://open.spotify.com/artist/2SxTnsqWCW3GnMd6LH1ArZ"
+        },
+        {
+          "name": "Cael Gomess",
+          "url": "https://open.spotify.com/artist/0VBhVrJk4DmO5k6di83coh"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129200,
+      "name": "O destino reservou",
+      "url": "https://open.spotify.com/track/4JZOGkpZfTNlmENPbGIal9"
     },
     {
       "album": {
@@ -16470,7 +16614,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 147551,
       "name": "S\u00d3 EU E VOC\u00ca",
       "url": "https://open.spotify.com/track/2F45pA2YqnAbEjm1uDECEn"
@@ -17706,7 +17850,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 128115,
       "name": "Unha de Cereja",
       "url": "https://open.spotify.com/track/0PojmJyNJlPxNqfXtyx33r"
@@ -18248,6 +18392,28 @@
       "duration_ms": 203437,
       "name": "Voc\u00ea - Remix",
       "url": "https://open.spotify.com/track/5pscBEmv4Hj9QrpJyUMZD7"
+    },
+    {
+      "album": {
+        "name": "Open Mic",
+        "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
+      },
+      "artists": [
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222692,
+      "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
     },
     {
       "album": {

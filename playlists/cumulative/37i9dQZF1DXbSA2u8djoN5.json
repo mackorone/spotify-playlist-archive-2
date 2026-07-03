@@ -350,7 +350,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 147068,
       "name": "Am auzit 2",
       "url": "https://open.spotify.com/track/1Z2NEXeVl89jUm3XBuiu5c"
@@ -511,6 +511,32 @@
     },
     {
       "album": {
+        "name": "Aproape de mare",
+        "url": "https://open.spotify.com/album/6DppbXvMVtGhceVt9DYFrm"
+      },
+      "artists": [
+        {
+          "name": "Angeles",
+          "url": "https://open.spotify.com/artist/3tdg8XqJcJxUs0wpeKywzs"
+        },
+        {
+          "name": "Mobtrap",
+          "url": "https://open.spotify.com/artist/6Nspm53g0iGjgJxTcwhqOl"
+        },
+        {
+          "name": "NANE",
+          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "Aproape de mare",
+      "url": "https://open.spotify.com/track/1mldLMRHq0MmCrrtKt5XjM"
+    },
+    {
+      "album": {
         "name": "Arunca-ma La Lei",
         "url": "https://open.spotify.com/album/4rQF7AMYBWW1zDGoVZ6on7"
       },
@@ -640,7 +666,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 216666,
       "name": "Azucar",
       "url": "https://open.spotify.com/track/3L2jpt61PTkME82X6oYMnZ"
@@ -2321,6 +2347,28 @@
     },
     {
       "album": {
+        "name": "Fum",
+        "url": "https://open.spotify.com/album/5s4STR1oro43Q3jwXZX0s2"
+      },
+      "artists": [
+        {
+          "name": "Giovanni",
+          "url": "https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o"
+        },
+        {
+          "name": "Marko Glass",
+          "url": "https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162424,
+      "name": "Fum",
+      "url": "https://open.spotify.com/track/0M7j3b1c5L6WtMnXwenvbH"
+    },
+    {
+      "album": {
         "name": "FURAM CURENT",
         "url": "https://open.spotify.com/album/4VhpQgUcwET6KxHrSjduQw"
       },
@@ -2666,7 +2714,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 161860,
       "name": "Hustler",
       "url": "https://open.spotify.com/track/04tshGzLF1sydGIWCm5Fes"
@@ -3990,7 +4038,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 156539,
       "name": "Pana la ultimul suflu",
       "url": "https://open.spotify.com/track/22H8GavQmDeMXiXfoR4FZe"

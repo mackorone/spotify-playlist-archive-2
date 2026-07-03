@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAL123bhvfa+WAeDGppQuMah9M9fbCQ",
+  "snapshot_id": "AAAL3f2QeEriMMKdbTj6v47RfgjmaeVR",
   "tracks": [
     {
       "added_at": "2026-02-17 12:01:17",
@@ -749,6 +749,22 @@
       "url": "https://open.spotify.com/track/18oKkrtqJwTlRBmm982sNR"
     },
     {
+      "added_at": "2026-07-02 07:04:09",
+      "album": {
+        "name": "...and here I slip.",
+        "url": "https://open.spotify.com/album/22KyIH6kuAlLPUKfxuyrA0"
+      },
+      "artists": [
+        {
+          "name": "The Vandal Elite",
+          "url": "https://open.spotify.com/artist/4Pe0o6D1qEFWwtTP6vZN4a"
+        }
+      ],
+      "duration_ms": 222808,
+      "name": "We're OK",
+      "url": "https://open.spotify.com/track/6Jhxaci8qh03EBM56A9lr4"
+    },
+    {
       "added_at": "2025-10-19 14:52:01",
       "album": {
         "name": "Walk Through Quicksand",
@@ -827,22 +843,6 @@
       "duration_ms": 186446,
       "name": "Two of Us",
       "url": "https://open.spotify.com/track/6APATWEI9jdN8OA3N4PRvP"
-    },
-    {
-      "added_at": "2025-09-21 11:02:10",
-      "album": {
-        "name": "Guerrero",
-        "url": "https://open.spotify.com/album/025nIW94c2Tsf5xx1Fbhp7"
-      },
-      "artists": [
-        {
-          "name": "Wilson Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/7lPZcZVYj28uttO8cLsJ3Z"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Guerrero",
-      "url": "https://open.spotify.com/track/4WcNVDm7F46de4XaCZiO5B"
     },
     {
       "added_at": "2026-01-03 14:44:52",
@@ -1015,22 +1015,6 @@
       "duration_ms": 228378,
       "name": "Control the Universe (revisited)",
       "url": "https://open.spotify.com/track/16EMMLXvZHgqKyruhRZqaF"
-    },
-    {
-      "added_at": "2025-09-21 10:10:27",
-      "album": {
-        "name": "See the Sun",
-        "url": "https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs"
-      },
-      "artists": [
-        {
-          "name": "Guest",
-          "url": "https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t"
-        }
-      ],
-      "duration_ms": 224904,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/13MB9XtESMGSWZfwpo4Z3G"
     },
     {
       "added_at": "2025-10-26 16:45:42",
@@ -1261,22 +1245,6 @@
       "url": "https://open.spotify.com/track/4NoRvNC07A2CQey6K73d09"
     },
     {
-      "added_at": "2025-09-21 10:10:27",
-      "album": {
-        "name": "See the Sun",
-        "url": "https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs"
-      },
-      "artists": [
-        {
-          "name": "Guest",
-          "url": "https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t"
-        }
-      ],
-      "duration_ms": 350910,
-      "name": "Day After Day",
-      "url": "https://open.spotify.com/track/6JqRwcxebRnLzJBxaqNxcS"
-    },
-    {
       "added_at": "2025-09-03 08:02:13",
       "album": {
         "name": "MUST BE BLUE",
@@ -1307,22 +1275,6 @@
       "duration_ms": 212500,
       "name": "Angel Can You Hear Me",
       "url": "https://open.spotify.com/track/7zC97ICTUUdzfDRvlbtu6Y"
-    },
-    {
-      "added_at": "2025-09-21 10:10:27",
-      "album": {
-        "name": "Bunker Day",
-        "url": "https://open.spotify.com/album/4PYVvoC2NXpNvHJ8UQZkFW"
-      },
-      "artists": [
-        {
-          "name": "Guest",
-          "url": "https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Curtain",
-      "url": "https://open.spotify.com/track/4OQFLKyLqH6G1SUELSoIOJ"
     },
     {
       "added_at": "2026-06-18 18:03:15",
@@ -1567,6 +1519,22 @@
       "duration_ms": 238480,
       "name": "One Way Ticket",
       "url": "https://open.spotify.com/track/4xSvbsAmTdRAybIlgSxmgm"
+    },
+    {
+      "added_at": "2026-07-02 08:23:52",
+      "album": {
+        "name": "Bunker Day",
+        "url": "https://open.spotify.com/album/4PYVvoC2NXpNvHJ8UQZkFW"
+      },
+      "artists": [
+        {
+          "name": "Guest",
+          "url": "https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Curtain",
+      "url": "https://open.spotify.com/track/4OQFLKyLqH6G1SUELSoIOJ"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

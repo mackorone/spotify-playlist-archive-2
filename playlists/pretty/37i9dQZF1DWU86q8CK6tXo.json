@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover:  Young Miko",
-  "num_followers": 65369,
+  "num_followers": 65368,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 183228,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "Outside",
         "url": "https://open.spotify.com/album/5zl5XG90weUWtbROL75GCT"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 184000,
       "name": "Outside",
       "url": "https://open.spotify.com/track/66akDgOGJi139ys0umhBns"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 183228,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -379,6 +379,26 @@
       "duration_ms": 154469,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
+        "name": "Nobody (feat. Monaleo) [Remix]",
+        "url": "https://open.spotify.com/album/6tT8zJ9w55GkEcy4eFbnA9"
+      },
+      "artists": [
+        {
+          "name": "Trim",
+          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
+        },
+        {
+          "name": "Monaleo",
+          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
+        }
+      ],
+      "duration_ms": 149963,
+      "name": "Nobody (feat. Monaleo) - Remix",
+      "url": "https://open.spotify.com/track/06D4xKbpIT0tXXE2JEysBp"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -467,26 +487,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Nobody (feat. Monaleo) [Remix]",
-        "url": "https://open.spotify.com/album/6tT8zJ9w55GkEcy4eFbnA9"
-      },
-      "artists": [
-        {
-          "name": "Trim",
-          "url": "https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9"
-        },
-        {
-          "name": "Monaleo",
-          "url": "https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb"
-        }
-      ],
-      "duration_ms": 149963,
-      "name": "Nobody (feat. Monaleo) - Remix",
-      "url": "https://open.spotify.com/track/06D4xKbpIT0tXXE2JEysBp"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "Ethereal Redneck Shit",
         "url": "https://open.spotify.com/album/6NNAqxMqcVvsw7L7PwTV1D"
       },
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Just Us",
-        "url": "https://open.spotify.com/album/08oXopCW2RCdYqNdHiTrit"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 233961,
-      "name": "listening",
-      "url": "https://open.spotify.com/track/10Lr9lK7wQGRyaCdb2kspj"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "Night at the Opera",
         "url": "https://open.spotify.com/album/30XL7bANBr0cBA9nVCq8CN"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 208559,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/3mqC2nzHECZP4GLmdKOw2p"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/08oXopCW2RCdYqNdHiTrit"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "duration_ms": 233961,
+      "name": "listening",
+      "url": "https://open.spotify.com/track/10Lr9lK7wQGRyaCdb2kspj"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
+        "name": "Pink Pocket Pistol",
+        "url": "https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 220474,
+      "name": "Raining Inside",
+      "url": "https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
         "name": "Middle of Nowhere",
         "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr"
       },
@@ -703,6 +719,22 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
+        "name": "Fail-safe",
+        "url": "https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt"
+      },
+      "artists": [
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 207434,
+      "name": "Fail-safe",
+      "url": "https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/2BN4p5eqhjLPUc17RGAogQ"
       },
@@ -735,22 +767,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Fail-safe",
-        "url": "https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt"
-      },
-      "artists": [
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 207434,
-      "name": "Fail-safe",
-      "url": "https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "Easy EP",
         "url": "https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 128012,
       "name": "Spring summer",
       "url": "https://open.spotify.com/track/3lKB7OuBglrz7Pjpe0e3sk"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
-        "name": "Pink Pocket Pistol",
-        "url": "https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 220474,
-      "name": "Raining Inside",
-      "url": "https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -811,6 +811,22 @@
       "duration_ms": 204360,
       "name": "Scoreboard",
       "url": "https://open.spotify.com/track/6bthdJs4t81bctwvzIKbBA"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
+        "name": "Living Room Floor",
+        "url": "https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 259435,
+      "name": "Living Room Floor",
+      "url": "https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -863,22 +879,6 @@
       "duration_ms": 154992,
       "name": "MALIBU",
       "url": "https://open.spotify.com/track/4fPXanSrPMbboicrHPzV0M"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
-        "name": "Living Room Floor",
-        "url": "https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 259435,
-      "name": "Living Room Floor",
-      "url": "https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ"
     },
     {
       "added_at": "2026-07-01 04:00:23",

@@ -4,7 +4,7 @@
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-1,774 songs - 4 day 2 hr 58 min
+1,776 songs - 4 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Buzz](https://open.spotify.com/track/1yc1vD1iLc6lsv7aAkxmYY) | [ANGER MGMT.](https://open.spotify.com/artist/2ivOTVGR8YstFMPLpyhxO4) | [Buzz](https://open.spotify.com/album/7r6EjGbRlHJkA8Jzw9XJfH) | 3:55 | 2026-03-16 | 2026-04-17 |
 | [C U L8R \(alligator\)](https://open.spotify.com/track/25UQb7E2Av5uo5x5fjQ6xA) | [Victories](https://open.spotify.com/artist/3xz80Fjc2rPTVwxJEILllA) | [C U L8R \(alligator\)](https://open.spotify.com/album/45y52f5tWD9e3zjX1g5RUF) | 3:17 | 2026-05-15 | 2026-06-16 |
 | [Caduceus: The Twin Serpents](https://open.spotify.com/track/699VzjHvGVYvdD2yhZrxDC) | [La Paille](https://open.spotify.com/artist/1QTk8okhIb8ISXBHGNYtOc) | [Caduceus: The Twin Serpents](https://open.spotify.com/album/6XX0CrOnwuzxOqjkxQoR7U) | 5:16 | 2026-03-02 | 2026-03-21 |
+| [Cage](https://open.spotify.com/track/3TurCW23kV3k57o4L96Y8R) | [Wave Raiders](https://open.spotify.com/artist/3gHc7IjiVFconlcRcSpXXn) | [Cage](https://open.spotify.com/album/5DwSWfbBq628mkcHtn4VaP) | 3:23 | 2026-07-02 |  |
 | [Call Me A Fool](https://open.spotify.com/track/4bL7jaM1TChctOqrmsdgbd) | [Lenox Hills](https://open.spotify.com/artist/7n3YiiqkprbCvWUTTwpGdK) | [Call Me A Fool](https://open.spotify.com/album/1USGgRR09I8oRERLMkjnPm) | 4:05 | 2026-04-02 | 2026-05-04 |
 | [Call Me Back](https://open.spotify.com/track/6du9qf4dV0rRHF5xMaBDB9) | [Lánre](https://open.spotify.com/artist/0kNteilHdlpFUcjvoQUdr0) | [Call Me Back](https://open.spotify.com/album/4dcVlIizzDV9aCxirXgtUm) | 2:38 | 2026-03-27 | 2026-04-17 |
 | [Call My City, Don't Call My Telephone](https://open.spotify.com/track/5b2qy6JuHg6VVNDYKnnrz3) | [Dez Dare](https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF) | [A Billion Goats\. A Billion Sparks\. Fin.](https://open.spotify.com/album/6UhHac4mRectqNEI5dJGcS) | 3:47 | 2026-02-05 | 2026-02-27 |
@@ -806,6 +807,7 @@
 | [Joe and Serena](https://open.spotify.com/track/6vWhD2MWGD5kcGzPmssBTx) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Joe and Serena](https://open.spotify.com/album/5pJ71EgFY8Y9m773J3RAbx) | 2:20 | 2026-05-01 | 2026-05-22 |
 | [Joe Dick](https://open.spotify.com/track/2BNIIH11YKmCEwpOrgmnsN) | [Dammit Goldie](https://open.spotify.com/artist/0nZnLcgHIqZwn5UKpAvhmR) | [Joe Dick](https://open.spotify.com/album/2hY7VuSAKP9O3KLS8eSCCz) | 1:48 | 2026-04-12 | 2026-05-14 |
 | [JOHN CENA](https://open.spotify.com/track/2UfX9JKkijN4EJscdv0Bty) | [HIDEOUS BEAST](https://open.spotify.com/artist/6GDBnNDYg8bQ3YTqLPhvOA) | [THE HIDEOUS BEAST EP](https://open.spotify.com/album/4wVgTj6dpGZCZQzBelC0Ov) | 1:37 | 2026-04-08 | 2026-05-10 |
+| [Just a Little](https://open.spotify.com/track/5gTqfu1tnwW4FRWVPWwAHB) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:34 | 2026-07-02 |  |
 | [Just A Normal Kid](https://open.spotify.com/track/2dTl4AJExRokk6n9Ne5gNx) | [The Borough](https://open.spotify.com/artist/4FyzVfbimb2frgwzpe3mJg) | [Contradictions](https://open.spotify.com/album/1HLDzOH302g8hagglm769G) | 4:10 | 2025-12-15 | 2026-01-22 |
 | [Just A Plate](https://open.spotify.com/track/4zUEj6yWl0rTvWb13MP1Cr) | [Not Old Memories Only Sound](https://open.spotify.com/artist/5GDg1Ud6FtW8kFUbiErvB2) | [Afterhours](https://open.spotify.com/album/2l3CQdp91kf21X0qP3OA5o) | 3:11 | 2026-03-11 | 2026-03-31 |
 | [Just Dance](https://open.spotify.com/track/1WmtVlAtLQ1i2xSVPuLexe) | [Deaf Romero](https://open.spotify.com/artist/2nnaaiLkTYGU2EjpckOi7a) | [What's the Time, Mr Wolf?](https://open.spotify.com/album/1CBWywM8tTJZ4GTdNwjtm0) | 4:15 | 2026-05-30 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-258 songs - 13 hr 37 min
+260 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [512](https://open.spotify.com/track/2CdquEDCaFau9PMHF8eFcW) | [Morales](https://open.spotify.com/artist/1ZzjFl9TaQcLtzxOhStXg7), [Vivih](https://open.spotify.com/artist/0igUZhKUbwqknOURErylJL) | [512](https://open.spotify.com/album/7ij81xOTfo61L1FuYwKwTH) | 2:42 | 2025-09-09 |  |
 | [a helping hand](https://open.spotify.com/track/0DdjWSK9mYxd0OkMafssrD) | [COZE!NE](https://open.spotify.com/artist/7HFc1tkoqLi1lRrhAxGKAq) | [a helping hand](https://open.spotify.com/album/5wwGLyU2CkVND4ZrkvoPl1) | 2:24 | 2026-05-06 |  |
 | [After Party](https://open.spotify.com/track/1ZscMbcOPmJZOa8o6C40oE) | [Megan Dalby](https://open.spotify.com/artist/20fkOG8MVEODAofTMn3Xjj) | [After Party](https://open.spotify.com/album/2ZmUAPFUssRDQirDWbpivk) | 4:10 | 2026-03-13 |  |
+| [Again Please](https://open.spotify.com/track/1V5yJAm6tdr4u7WqSWipyL) | [Crumb Catcher](https://open.spotify.com/artist/5zAP2alk6lWFK14KVvKkgB) | [Big Crunch](https://open.spotify.com/album/6k0iGiN9qufQrIEP70PY0l) | 2:54 | 2026-07-02 |  |
 | [All My Fault](https://open.spotify.com/track/0QUWUwCvf7cHIS5FaiuRRG) | [Maddy Little](https://open.spotify.com/artist/0o9LvaeSgJikQWwDnAEAyH) | [All My Fault](https://open.spotify.com/album/0r5SdB7rVTLWVY57npp7jw) | 3:05 | 2026-01-22 |  |
 | [All Of My Love](https://open.spotify.com/track/1i2JN0ITHgMC3228pFWxVc) | [Shelton](https://open.spotify.com/artist/1CMYnWfZqAPKfA7g43RvtB) | [All Of My Love](https://open.spotify.com/album/4GCzlbQoHRDTkWsjKFIaMV) | 2:54 | 2026-01-09 |  |
 | [Aloha Vibes](https://open.spotify.com/track/5iner6pw593QANnZP3Abgr) | [Faith Rivera](https://open.spotify.com/artist/0OJl9lZP81ON2jhv7QpVYt), [Brittni Paiva](https://open.spotify.com/artist/030ma4QtsnydUwd4M2qXWt) | [Aloha Vibes](https://open.spotify.com/album/3jWHak3tyL2LF3tdozpmrF) | 3:35 | 2025-07-03 |  |
@@ -58,6 +59,7 @@
 | [Cueca Vermelha](https://open.spotify.com/track/0psQlXBy3LAWiYGcg2Vz6Y) | [Marcos Yury Dieper](https://open.spotify.com/artist/2NgqmdXxP8paU9uQWL3btf) | [Cueca Vermelha](https://open.spotify.com/album/4hJlPnSql0scw26e7qr0l4) | 3:30 | 2025-06-22 |  |
 | [Cuentame](https://open.spotify.com/track/1ofaTXh8Vp8j8JDjFkcvoN) | [J MART](https://open.spotify.com/artist/4U5QlsisiFasO599Hn5rTK) | [Cuentame](https://open.spotify.com/album/5aPjoYmj0AuOvC3pg6Xzrv) | 1:48 | 2025-08-17 |  |
 | [dangerose](https://open.spotify.com/track/2OLJ7bMkW54MYfD6BprIx0) | [Ebonii](https://open.spotify.com/artist/5GgTzAqlQ9YkISvrWN4x7e), [Alektra](https://open.spotify.com/artist/5wBJh4LU47mXERWr0DsR2Q), [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [elixir remixes](https://open.spotify.com/album/6W7i36tGCQu1MYkKZuW9KL) | 2:54 | 2026-06-13 |  |
+| [Deadline](https://open.spotify.com/track/7m4aYJfsylAXqh7ubCBAYu) | [Dylan Debiase](https://open.spotify.com/artist/31BVM6BLaoSP8ad00i8m25) | [Deadline](https://open.spotify.com/album/0F90Lm1VW1f7YNQ0BRHwQd) | 2:54 | 2026-07-02 |  |
 | [Deadly Bargain](https://open.spotify.com/track/2GcKDv6tEGW1It3WTTxbxQ) | [The Thick Uns'](https://open.spotify.com/artist/6ccHRbcIouqzsSExLYiRCq) | [Deadly Bargain](https://open.spotify.com/album/5vphnozEZ5bBylR35UxvG2) | 3:35 | 2026-06-17 |  |
 | [Delorean](https://open.spotify.com/track/0ipu6uwgDaq38JeXheuO2R) | [Tokyo Killa](https://open.spotify.com/artist/44HYvFdD06IqOhCBXawbtz) | [Delorean](https://open.spotify.com/album/4TlN1FUusLJskg7Sl5HOwg) | 3:12 | 2026-03-27 |  |
 | [Desahogo](https://open.spotify.com/track/6Vvq952Ax5fgX1GzLixn2Q) | [Big Puffah](https://open.spotify.com/artist/6N12UNHqDV4FRVELXkz6Tw) | [Desahogo](https://open.spotify.com/album/7gXP6hUyFB7QJl2j13hRiz) | 3:20 | 2026-03-19 |  |

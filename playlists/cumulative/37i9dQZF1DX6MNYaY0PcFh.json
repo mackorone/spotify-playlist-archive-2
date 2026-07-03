@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: J Wax",
+  "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: TOM LECHEF",
   "name": "New UK Garage",
   "tracks": [
     {
@@ -1309,6 +1309,24 @@
     },
     {
       "album": {
+        "name": "Clueless",
+        "url": "https://open.spotify.com/album/5sI9wJpdAgJgWHFpQEkEiK"
+      },
+      "artists": [
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Clueless",
+      "url": "https://open.spotify.com/track/6MWJ2DehSpjVcbEPBcWt6c"
+    },
+    {
+      "album": {
         "name": "Cops & Robbers",
         "url": "https://open.spotify.com/album/6ISsvqjVEeShpIhZir687U"
       },
@@ -1653,6 +1671,28 @@
     },
     {
       "album": {
+        "name": "Do It Like That",
+        "url": "https://open.spotify.com/album/0PDSDiHj0Aa9h0EMZcVsST"
+      },
+      "artists": [
+        {
+          "name": "JNG",
+          "url": "https://open.spotify.com/artist/0Z0ZUXPo3rxOFa0gvsaHLc"
+        },
+        {
+          "name": "TOM LECHEF",
+          "url": "https://open.spotify.com/artist/0saQAX63InOdwPBfJhj5wd"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284117,
+      "name": "Do It Like That",
+      "url": "https://open.spotify.com/track/76zNHQL2eF4haoZ3tJ2x3M"
+    },
+    {
+      "album": {
         "name": "Do What You Want",
         "url": "https://open.spotify.com/album/7DrbNlS3HCEVF7pRzGrMT4"
       },
@@ -1686,7 +1726,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 177831,
       "name": "Doin' it featuring MC DT",
       "url": "https://open.spotify.com/track/4bdbgZDx6LkHTNyy5PZW9h"
@@ -2080,7 +2120,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 149666,
       "name": "EUPHORIA",
       "url": "https://open.spotify.com/track/2Amw5K5ZE64ak7Mkdx97BN"
@@ -2661,6 +2701,24 @@
     },
     {
       "album": {
+        "name": "FRICTION",
+        "url": "https://open.spotify.com/album/23c0nGQhv2XXZ6SSQcZbvV"
+      },
+      "artists": [
+        {
+          "name": "Ben Gerrans",
+          "url": "https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164285,
+      "name": "FRICTION",
+      "url": "https://open.spotify.com/track/2tyuXpv3CarzWKm3CtcumY"
+    },
+    {
+      "album": {
         "name": "Friday Nights",
         "url": "https://open.spotify.com/album/0NhGRpBH1IEt6BQ69QSFDZ"
       },
@@ -2694,7 +2752,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 217706,
       "name": "F\u00f3n P\u00f3ca (feat. Travy)",
       "url": "https://open.spotify.com/track/7F8E0Skfsvz8bImaNTZxas"
@@ -3617,6 +3675,24 @@
     },
     {
       "album": {
+        "name": "Big Trip",
+        "url": "https://open.spotify.com/album/0W1zfwqFpJLi9YkdkVmubP"
+      },
+      "artists": [
+        {
+          "name": "LO'99",
+          "url": "https://open.spotify.com/artist/1kk6o5FDlujcgz2d2iFXKy"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201520,
+      "name": "If Ya Know",
+      "url": "https://open.spotify.com/track/1ywXyZT1gVukeig10Ly0L7"
+    },
+    {
+      "album": {
         "name": "In Dreams (its just the rhythm)",
         "url": "https://open.spotify.com/album/3wYPkWlblcXyOZujQCXLvM"
       },
@@ -4238,7 +4314,7 @@
       ],
       "date_added": "2025-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 220108,
       "name": "LOOK4MYLOVE",
       "url": "https://open.spotify.com/track/3NVBJRH0UiPvqAf0ItonHt"
@@ -4520,7 +4596,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 171521,
       "name": "Match My Mood",
       "url": "https://open.spotify.com/track/1p0lMyesaiu6CH9iqZna0J"
@@ -5208,7 +5284,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 218181,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/7nz0KMN7M3TVKiDIXGmkzO"
@@ -5362,7 +5438,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 194666,
       "name": "Only Thing",
       "url": "https://open.spotify.com/track/2SejgFmszB8YDZdJEQCG2D"
@@ -5980,7 +6056,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 221333,
       "name": "Pumpin Jumpin",
       "url": "https://open.spotify.com/track/1VhNZmtGQPnJlzZStAYn5j"
@@ -6476,7 +6552,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 160000,
       "name": "See Thru",
       "url": "https://open.spotify.com/track/5bt6nQxl5CP7gfz4JSqGR5"
@@ -6824,7 +6900,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 215538,
       "name": "Sober",
       "url": "https://open.spotify.com/track/4rlEqGtM0PXoYjQKL2vPLB"
@@ -7280,7 +7356,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 204090,
       "name": "Take Control",
       "url": "https://open.spotify.com/track/7sYlJeuvvQFKwC9g2M7k9u"
@@ -7390,6 +7466,24 @@
       "duration_ms": 339663,
       "name": "Talking Nonsense",
       "url": "https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV"
+    },
+    {
+      "album": {
+        "name": "Tek Time",
+        "url": "https://open.spotify.com/album/2BiqAVcRcqcD4SjaXtCo4L"
+      },
+      "artists": [
+        {
+          "name": "KURUPT FM",
+          "url": "https://open.spotify.com/artist/0xGKzZ3narAei6wzYhMp1Q"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161198,
+      "name": "Tek Time",
+      "url": "https://open.spotify.com/track/1Y2ozORhzgDsltbTYwuSWm"
     },
     {
       "album": {
@@ -8236,7 +8330,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 172548,
       "name": "Welcome 2 LDN (feat. Flowdan)",
       "url": "https://open.spotify.com/track/74yRHYEYFueRYYDriUFNIH"
@@ -8542,7 +8636,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 167492,
       "name": "XTZY",
       "url": "https://open.spotify.com/track/7vpT5MttwN5SRk0eTqECQr"

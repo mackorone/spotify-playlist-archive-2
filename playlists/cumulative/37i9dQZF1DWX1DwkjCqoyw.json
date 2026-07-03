@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Inspired by the islands and into the mainstream. Cover: Tyla, Zara Larsson",
+  "description": "Inspired by the islands and into the mainstream. Cover: Destin Conrad",
   "name": "Island Pop",
   "tracks": [
     {
@@ -692,7 +692,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 221123,
       "name": "Currency Called Time",
       "url": "https://open.spotify.com/track/6SDAQpax26v24Q1p7JApWL"
@@ -1940,6 +1940,24 @@
       "duration_ms": 166664,
       "name": "Nature",
       "url": "https://open.spotify.com/track/7o1OfwR349jSAodpOdTnlG"
+    },
+    {
+      "album": {
+        "name": "NERVOUS",
+        "url": "https://open.spotify.com/album/43sikXY0GVXf17J5A88YKu"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161874,
+      "name": "NERVOUS",
+      "url": "https://open.spotify.com/track/2tKgNrygongIZ3Ava9xW0x"
     },
     {
       "album": {

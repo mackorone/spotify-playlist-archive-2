@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: OMWAWES
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover:Masdddho
 
-590 songs - 2 day 1 hr 34 min
+593 songs - 2 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Legi](https://open.spotify.com/track/5jrowV0v26wlyN32IQeeXB) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Legi](https://open.spotify.com/album/6xzWv81AXzJMzA2aM379tW) | 4:56 | 2026-01-29 |  |
 | [Lemah Teles](https://open.spotify.com/track/5c8Yuef8DL7Okp8Y9KhJMK) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Lemah Teles](https://open.spotify.com/album/4PlE7GG0LpXSEEN1B5tuqK) | 6:16 | 2022-05-26 | 2023-08-11 |
 | [Lengo Lan Banyu](https://open.spotify.com/track/7hGRnpcfRRqZjmbEaBJVEK) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Lengo Lan Banyu](https://open.spotify.com/album/24FEvuzz1HYxNZcxVIttZo) | 5:34 | 2023-03-09 | 2023-08-11 |
+| [Leren Ngamen](https://open.spotify.com/track/1FJInS3aVyiFJKo4EIQc3o) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Leren Ngamen](https://open.spotify.com/album/2bMuKmFJpwhryoAoh6BKqw) | 5:52 | 2026-07-03 |  |
 | [Lestari](https://open.spotify.com/track/366rUE2UP4FKDA9D5h9uuv) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Lestari](https://open.spotify.com/album/6SUrSfTw8mThtc9WjeDmqv) | 5:24 | 2024-10-11 | 2025-04-25 |
 | [Lestari](https://open.spotify.com/track/2LgpMo9GCSXo95KtUpMQ7C) | [Safira Inema](https://open.spotify.com/artist/68I0q6fxP2XeJxn05jYoUY) | [Lestari](https://open.spotify.com/album/3FMH1kNsf24utY6UIv4KEY) | 5:43 | 2024-07-05 | 2024-12-27 |
 | [LESTARI](https://open.spotify.com/track/64IJVgigFpLz4ofPk8DVc0) | [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [LESTARI](https://open.spotify.com/album/7c1wv3yXdOce3AhHfn6R3H) | 4:52 | 2024-05-16 | 2025-09-20 |
@@ -528,9 +529,11 @@
 | [Tamu Undangan](https://open.spotify.com/track/4OracLPKE8BQq1yt0KsL6l) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Erlangga Gusfian](https://open.spotify.com/artist/6wspxA4TXBDkLVTkMiPsbw) | [Tamu Undangan](https://open.spotify.com/album/20JtqOI34lztz19QHU385C) | 8:04 | 2026-01-08 |  |
 | [Tamu Undangan](https://open.spotify.com/track/4tQEH1s2owu9sk22ksyXyn) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4), [Ratih SDE](https://open.spotify.com/artist/3hA9id8iAytOj6P8c2F6d8) | [Tamu Undangan](https://open.spotify.com/album/3n8jU5dmKMBbJRJtf5StkY) | 4:44 | 2025-11-13 |  |
 | [Tamu Undangan](https://open.spotify.com/track/3frj8KbtrvixycHbvZ1Fnh) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Tamu Undangan](https://open.spotify.com/album/7E2Ur8vk9gQ57Lknoop0Zj) | 5:32 | 2025-11-13 | 2025-12-19 |
+| [Tamu Undangan \- Live Session](https://open.spotify.com/track/0u2axtJMgVlGReYdu3TC2J) | [Lavora](https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4) | [Tamu Undangan \(Live Session\)](https://open.spotify.com/album/2F0MHKPGKtKWeE6TYc4Gsy) | 4:41 | 2026-07-03 |  |
 | [Tanggal Tuwek](https://open.spotify.com/track/5QyyUfd7nPU1GHLxsr168Y) | [Wandra Restusiyan](https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP), [Pakdhe Baz](https://open.spotify.com/artist/1PVpMZv3rtvbTSkd0eqwEl) | [Tanggal Tuwek](https://open.spotify.com/album/7pLpqwu4aTv0UiInLk7L6b) | 4:26 | 2024-05-16 | 2024-11-22 |
 | [Tangise Sarangan](https://open.spotify.com/track/2NjOl7W9zT3ZnyUFsEyrmU) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Tangise Sarangan](https://open.spotify.com/album/70BN1abiYV64ksDeUF0zDB) | 6:55 | 2023-03-02 | 2023-08-11 |
 | [Tanpo Walesan](https://open.spotify.com/track/1AK4Fb4DP1WVgISoFPm0gT) | [Adhimas Dewa Tricahya](https://open.spotify.com/artist/2EYDh9L9Mz6EMjbcfXTanv) | [Tanpo Walesan](https://open.spotify.com/album/5ahQGcFrIIviXDZcqbOdhc) | 5:41 | 2024-11-28 | 2025-01-24 |
+| [TANSAH](https://open.spotify.com/track/4iMnxYIOqRQvSSyZzvQZ6b) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [TANSAH](https://open.spotify.com/album/4Zbq0ytX4zb4CbRZ14yMjR) | 4:18 | 2026-07-03 |  |
 | [Tatu](https://open.spotify.com/track/6Mp5wge6ri9XgqcQqMJVyb) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [Tatu](https://open.spotify.com/album/2u8kGA8Duva5Dxruf7NyxH) | 4:46 | 2022-05-26 | 2022-09-16 |
 | [TAU DADI CERITO](https://open.spotify.com/track/3JjKkwQ3SVDpPqTyNeFiRE) | [SKA 86](https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg), [Siti Aliyah](https://open.spotify.com/artist/5odREY5RWPqh6QMXDovkR5) | [TAU DADI CERITO](https://open.spotify.com/album/3dBzJxlkW6VgYiqkNUaCWX) | 6:33 | 2024-06-13 | 2024-10-11 |
 | [Teko Lungo \- From "Cidro Asmoro"](https://open.spotify.com/track/1LJZ90voZTcuNzVbe0qRh5) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Teko Lungo \(From "Cidro Asmoro"\)](https://open.spotify.com/album/3wxVo3tsPVoDz7ju9TWEd7) | 5:09 | 2022-06-16 | 2022-11-14 |

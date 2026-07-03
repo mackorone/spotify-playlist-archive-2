@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 676891,
+  "num_followers": 676935,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akMHAAAAAADfh7tmIFe5HATkvc4t4NEy",
+  "snapshot_id": "akRYgAAAAAD1187kefktrxLi1KecWM+e",
   "tracks": [
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILL YOURSELF Part IX: The Soulseek Saga",
-        "url": "https://open.spotify.com/album/1nWTr9q2FWYUm512ZhoLXd"
+        "name": "KILL YOURSELF Part XII: The Dark Glacier Saga",
+        "url": "https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 136997,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD"
+      "duration_ms": 134962,
+      "name": "Audubon",
+      "url": "https://open.spotify.com/track/3UcyaCWLsc0XDhzXHUuH1S"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILL YOURSELF Part XII: The Dark Glacier Saga",
-        "url": "https://open.spotify.com/album/0Jbf4eYSaqLj4OW0xCrJlj"
+        "name": "KILL YOURSELF Part IX: The Soulseek Saga",
+        "url": "https://open.spotify.com/album/1nWTr9q2FWYUm512ZhoLXd"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 134962,
-      "name": "Audubon",
-      "url": "https://open.spotify.com/track/3UcyaCWLsc0XDhzXHUuH1S"
+      "duration_ms": 136997,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/1ejyx2kXWFY6QuYHu7yOyD"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
+        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 133920,
+      "name": "A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun",
+      "url": "https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THY KINGDOM COME",
         "url": "https://open.spotify.com/album/7HxLze2RiYrM9f2un8HZUp"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 254734,
       "name": "Now and at the Hour of Our Death (feat. BONES)",
       "url": "https://open.spotify.com/track/2KrpmVncX2Ht0Lw8zqpVaT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I No Longer Fear The Razor Guarding My Heel (V)",
-        "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 133920,
-      "name": "A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun",
-      "url": "https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v"
     },
     {
       "added_at": null,

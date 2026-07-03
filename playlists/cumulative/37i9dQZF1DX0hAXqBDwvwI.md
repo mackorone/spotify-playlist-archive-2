@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-852 songs - 2 day 7 hr 0 min
+853 songs - 2 day 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2024-01-18 | 2025-07-07 |
 | [Broken Sky \(TVアニメ「無能なナナ」オープニングテーマ\)](https://open.spotify.com/track/4FW8KupupiKGSBRKdXJYgu) | [富田美憂](https://open.spotify.com/artist/1wEom777vdHnxPv3HxHwg0) | [Broken Sky \(TVアニメ「無能なナナ」オープニングテーマ\)](https://open.spotify.com/album/1gpVVTBYOuE4Aw5YXfKKGu) | 3:54 | 2022-06-03 | 2022-07-29 |
 | [Bubble \(feat\. Uta\)](https://open.spotify.com/track/13EtMetztrji5zrka6Uzd3) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf), [Uta](https://open.spotify.com/artist/4pkAI4ZpW8IhBWEEbjHq81) | [Bubble \(feat\. Uta\)](https://open.spotify.com/album/2GvuX2gJEmPYiWpn2eAzfB) | 3:46 | 2022-07-07 | 2022-10-19 |
+| [Bubee](https://open.spotify.com/track/3Y2pwdrZKIOUqK0HvsWf0c) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Bubee](https://open.spotify.com/album/1Tisomh3VWj3TeI8bFG5Tr) | 3:02 | 2026-07-02 |  |
 | [BURN](https://open.spotify.com/track/6NYHXyWnurns3vjIsohSGX) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BURN](https://open.spotify.com/album/0QZoJceyKXNb33SEmFMlr4) | 2:16 | 2025-04-18 | 2025-05-10 |
 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 | 2024-10-17 | 2025-10-22 |
 | [Call of Silence](https://open.spotify.com/track/1fN2JjN9Sj2kOPJXLDovSe) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人」Season 2 オリジナルサウンドトラック](https://open.spotify.com/album/5SRHGqmW4mzRrFMUtwF2kg) | 2:58 | 2022-06-03 | 2022-07-28 |
@@ -304,7 +305,7 @@
 | [PINK BLOOD](https://open.spotify.com/track/39lq5gU4lPc0rYVaRo0stH) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [PINK BLOOD](https://open.spotify.com/album/4eQs3mcSejRAVTWmaYXNYl) | 3:17 | 2022-06-03 | 2022-07-26 |
 | [Plastic Smile](https://open.spotify.com/track/3y7FUgB8mwJSo37YmDouYq) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Plastic Smile](https://open.spotify.com/album/6EKzeS69OIX5zvT57wWkrd) | 4:21 | 2022-06-03 | 2022-07-21 |
 | [Plazma](https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Plazma](https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp) | 3:00 | 2025-07-14 |  |
-| [PROVANT](https://open.spotify.com/track/5g7WLWOwspQqTnqVZv0XQ8) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE), [TAKUMA](https://open.spotify.com/artist/7CcCUhKZWvb3tvXtcMAb45) | [PROVANT](https://open.spotify.com/album/5Na4qNt1ZaTzXwqXAdTogk) | 2:50 | 2026-04-14 |  |
+| [PROVANT](https://open.spotify.com/track/5g7WLWOwspQqTnqVZv0XQ8) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE), [TAKUMA](https://open.spotify.com/artist/7CcCUhKZWvb3tvXtcMAb45) | [PROVANT](https://open.spotify.com/album/5Na4qNt1ZaTzXwqXAdTogk) | 2:50 | 2026-04-14 | 2026-07-03 |
 | [PUNKS](https://open.spotify.com/track/3KCvdwzkUI1iyLWfhWws0o) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [PUNKS](https://open.spotify.com/album/2WdU0ESaT3y6lhdtW2KXrh) | 3:55 | 2025-10-21 | 2025-11-19 |
 | [PUPPET'S](https://open.spotify.com/track/0miO0TfAYiIJVaL7Fj7Uao) | [TOKYO MONSTERS](https://open.spotify.com/artist/6OyL8IIcy7b1W20SkMpvNQ) | [PUPPET'S](https://open.spotify.com/album/2NwZuLUH5M1AGC1pJmMux3) | 3:30 | 2022-06-21 | 2022-07-20 |
 | [Q?](https://open.spotify.com/track/02l4CnXJXM2KE8IN99whsX) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [Q?](https://open.spotify.com/album/4eInzp36x0Vjaif6ic8rDf) | 3:15 | 2022-06-03 | 2022-07-24 |

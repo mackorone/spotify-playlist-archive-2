@@ -2,9 +2,9 @@
 
 ### [R&B UK](https://open.spotify.com/playlist/37i9dQZF1DX942d1NzGgzk)
 
-> The latest of R&B rising in the UK\. Cover: AMARIA BB
+> The latest of R&B rising in the UK\. Cover: JayO
 
-636 songs - 1 day 8 hr 53 min
+637 songs - 1 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [I wish I could](https://open.spotify.com/track/280k6BZx1nJGhkUmWP6c2R) | [Tia Gordon](https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc) | [I wish I could](https://open.spotify.com/album/7xHmtO7YlCUhDvZ2QTW7X9) | 3:20 | 2025-09-25 | 2026-05-08 |
 | [I'll Be Loving You](https://open.spotify.com/track/1LqUHH9yacnl8xMBO3dx4d) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [I'll Be Loving You](https://open.spotify.com/album/5z5rwDtEocaatg3fEtXiWV) | 4:06 | 2022-07-17 | 2023-05-19 |
 | [I'll Still Be Here](https://open.spotify.com/track/49nMhwc4XFYhUsl9BDZEBq) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [No Hard Feelings](https://open.spotify.com/album/2RSNvfNgodiGerFWq3ETci) | 3:11 | 2024-05-31 | 2024-09-25 |
+| [I'll Take Care Of U \(ITCOU\)](https://open.spotify.com/track/3g3w1cpcgFS6QEPrjfAAZn) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [I’ll Take Care Of U \(ITCOU\)](https://open.spotify.com/album/4BMkaqDj1ckCqsD5smAuhp) | 2:55 | 2026-07-02 |  |
 | [I'm Sure](https://open.spotify.com/track/0CNp4DbUZ6yBzQVnF6jCZY) | [Enigma](https://open.spotify.com/artist/1p33V6IQmus6qSftQL0HCV) | [Love Language 2](https://open.spotify.com/album/0gnQ7bzwd67CHRPmcuWavE) | 2:49 | 2025-04-25 | 2025-12-11 |
 | [I'm Trouble](https://open.spotify.com/track/0mAUDnOZO6Fu5N8PXwd2oT) | [Zitah](https://open.spotify.com/artist/134jXtTPAypiWMWs2OozFJ) | [I'm Trouble](https://open.spotify.com/album/0vPj3McQb6DhvNpBht9tiz) | 2:48 | 2025-10-09 | 2026-04-24 |
 | [If I Have to Change](https://open.spotify.com/track/6sBHJyktb4PAbrQ2lj3w9T) | [Melina Malone](https://open.spotify.com/artist/605KmpfOyF5FrdSfQkHnq3) | [If I Have to Change](https://open.spotify.com/album/0TuZUq16Z7K84CQ3H8xNEp) | 3:56 | 2025-07-24 | 2026-02-13 |
@@ -396,7 +397,7 @@
 | [MY LOVER'S MIND](https://open.spotify.com/track/4RkLa4Nq85JWnDLtYHG9hq) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [MY LOVER'S MIND](https://open.spotify.com/album/04bqoDJgId1vDqzPbgk5Is) | 3:23 | 2024-05-31 | 2024-06-15 |
 | [My Man](https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [My Man](https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg) | 2:07 | 2024-06-07 | 2025-03-21 |
 | [My My My](https://open.spotify.com/track/6ZyNjet9xpwdqyHwJaIFii) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [My My My](https://open.spotify.com/album/2TDqfZlVX1a55onkNt2rqs) | 3:20 | 2025-04-25 | 2026-03-27 |
-| [My Type](https://open.spotify.com/track/2STn48rKSuwKc5SdwpAslT) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [My Type](https://open.spotify.com/album/74RhE1JGTExeB44bXPuwXd) | 2:52 | 2026-03-20 |  |
+| [My Type](https://open.spotify.com/track/2STn48rKSuwKc5SdwpAslT) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [My Type](https://open.spotify.com/album/74RhE1JGTExeB44bXPuwXd) | 2:52 | 2026-03-20 | 2026-07-03 |
 | [My Way](https://open.spotify.com/track/4YIVPG1e2m9moeCRdc3w0E) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [When Everything Is Better, I'll Let You Know](https://open.spotify.com/album/3gW4LjXtOZkjxmdHxBABpx) | 3:37 | 2022-10-23 | 2023-05-15 |
 | [My Way](https://open.spotify.com/track/7v98cyeI1bIR2kCoRuoaWG) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [My Way](https://open.spotify.com/album/3VBondIyQLQMKAOCEPKoRO) | 3:33 | 2025-05-08 | 2025-12-11 |
 | [Natural](https://open.spotify.com/track/3v0RwYzI5WlW7lKTTtJWT0) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Natural](https://open.spotify.com/album/1UWO7Rgw5ciLeQPc4uvyBG) | 3:09 | 2024-10-24 | 2025-04-05 |

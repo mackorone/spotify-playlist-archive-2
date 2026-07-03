@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : Stony",
+  "description": "Les hits zouk & kompa du moment. Photo : Leto x Kim x DJ Ken",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -382,7 +382,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 154991,
       "name": "APPELLE",
       "url": "https://open.spotify.com/track/6L27pDITnDV01LA8V5YlQb"
@@ -1092,6 +1092,24 @@
       "duration_ms": 179937,
       "name": "Ce que tu veux de nous - Baby boo",
       "url": "https://open.spotify.com/track/2woFHVE5BQmaoDfNtlN6Ln"
+    },
+    {
+      "album": {
+        "name": "Ce Soir",
+        "url": "https://open.spotify.com/album/5z9ciR0ejGN614p9i9CBi7"
+      },
+      "artists": [
+        {
+          "name": "R Dydy",
+          "url": "https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225384,
+      "name": "Ce Soir",
+      "url": "https://open.spotify.com/track/5JoiT8yPlAtYMmYhF2DSLL"
     },
     {
       "album": {
@@ -3927,6 +3945,28 @@
     },
     {
       "album": {
+        "name": "La mari\u00e9e",
+        "url": "https://open.spotify.com/album/7bMB30HAX5XSJSjbWIkhtx"
+      },
+      "artists": [
+        {
+          "name": "Beverly Bardo",
+          "url": "https://open.spotify.com/artist/2zy9CTdiQNRBLOJiyH5Zol"
+        },
+        {
+          "name": "R Dydy",
+          "url": "https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "La mari\u00e9e",
+      "url": "https://open.spotify.com/track/2JcTelFLWDlFQ3UQ2xix2j"
+    },
+    {
+      "album": {
         "name": "LA PLUS BELLE",
         "url": "https://open.spotify.com/album/2GCwWrc84skmUHojmjzbZQ"
       },
@@ -4092,7 +4132,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 158017,
       "name": "Lets Go",
       "url": "https://open.spotify.com/track/5M9h9QcZIodUWPZ5neMSGe"
@@ -4594,7 +4634,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 187142,
       "name": "Mauvaise",
       "url": "https://open.spotify.com/track/4asc7kedlFKBQcrGL5OO2A"
@@ -5559,6 +5599,32 @@
     },
     {
       "album": {
+        "name": "Otage",
+        "url": "https://open.spotify.com/album/7GOLClLmSWqDCUWDVZqXHU"
+      },
+      "artists": [
+        {
+          "name": "DJ Ken",
+          "url": "https://open.spotify.com/artist/1qyIUGgexI2Qi0NRweEVgf"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159069,
+      "name": "Otage",
+      "url": "https://open.spotify.com/track/0vPOsFdOxppDqH8HgwcA89"
+    },
+    {
+      "album": {
         "name": "Ou ek mwin",
         "url": "https://open.spotify.com/album/1vdWYpytr6NqXUtGAZkQfa"
       },
@@ -5778,7 +5844,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 167007,
       "name": "Oublions le pass\u00e9",
       "url": "https://open.spotify.com/track/5JbxLDSMJSgA43VfR9nKRX"
@@ -6300,7 +6366,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 156521,
       "name": "Plus La",
       "url": "https://open.spotify.com/track/4Ryoc3My3qE1KtOZUTCnR9"
@@ -6481,6 +6547,24 @@
     },
     {
       "album": {
+        "name": "PREND",
+        "url": "https://open.spotify.com/album/30ChMtPPnx5wRKUszbAQ7e"
+      },
+      "artists": [
+        {
+          "name": "Lu City",
+          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "PREND",
+      "url": "https://open.spotify.com/track/7l0O6ayNgvnYLbHyiXlwRe"
+    },
+    {
+      "album": {
         "name": "Projecteurs",
         "url": "https://open.spotify.com/album/5I0ZrO1lILQ5kVCbucDHHD"
       },
@@ -6590,6 +6674,28 @@
       "duration_ms": 158918,
       "name": "Rekomanse",
       "url": "https://open.spotify.com/track/5zd2ins9CVO1T0W1c0xQ10"
+    },
+    {
+      "album": {
+        "name": "Relou",
+        "url": "https://open.spotify.com/album/5EWCre9KILsuCbV6q5NZya"
+      },
+      "artists": [
+        {
+          "name": "Laconi",
+          "url": "https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67"
+        },
+        {
+          "name": "Lorenz",
+          "url": "https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206666,
+      "name": "Relou",
+      "url": "https://open.spotify.com/track/3g3DRVGahKUq02yl1XfTgv"
     },
     {
       "album": {

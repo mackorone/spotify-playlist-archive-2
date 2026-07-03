@@ -1325,6 +1325,28 @@
     },
     {
       "album": {
+        "name": "Ivangeli",
+        "url": "https://open.spotify.com/album/249JJMW3R8hNiFgOzpkCTz"
+      },
+      "artists": [
+        {
+          "name": "Spirit of Praise Choir",
+          "url": "https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG"
+        },
+        {
+          "name": "Nhlanhla Sibisi",
+          "url": "https://open.spotify.com/artist/0IVAeXQr9He3cUd2QTdsHK"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325559,
+      "name": "Ivangeli",
+      "url": "https://open.spotify.com/track/3Dty5aNckcIkJdBhBl81ml"
+    },
+    {
+      "album": {
         "name": "Izindlela Zakhe (Live at The Playhouse)",
         "url": "https://open.spotify.com/album/44qTX6pyLy6y5TNrhy3SzW"
       },
@@ -3308,7 +3330,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 504666,
       "name": "Sekgabile",
       "url": "https://open.spotify.com/track/03i77NTIKBUvQoKEEgsVaV"
@@ -4141,6 +4163,32 @@
     },
     {
       "album": {
+        "name": "Uphakeme (Ngcwele Ngcwele) [feat. Nuri]",
+        "url": "https://open.spotify.com/album/4mOPL8z2w94xB9rTFrsFNO"
+      },
+      "artists": [
+        {
+          "name": "Brenden Praise",
+          "url": "https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU"
+        },
+        {
+          "name": "Free 2 Wrshp",
+          "url": "https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt"
+        },
+        {
+          "name": "Nuri",
+          "url": "https://open.spotify.com/artist/5oSkPEVFq2AQnJPVgFgdv5"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306775,
+      "name": "Uphakeme (Ngcwele Ngcwele) [feat. Nuri]",
+      "url": "https://open.spotify.com/track/1rCtd414DIuzx8XqWzEmZ8"
+    },
+    {
+      "album": {
         "name": "Uhambo II, Vol. 2",
         "url": "https://open.spotify.com/album/79ivuCRDMWvhZ5NBKAT5fP"
       },
@@ -4720,7 +4768,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 363000,
       "name": "Yehlis'uMoya (Live)",
       "url": "https://open.spotify.com/track/0Slb0OZ6AErNcYYAhErEIt"

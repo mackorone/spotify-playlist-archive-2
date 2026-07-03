@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > Hot Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,056 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,997 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tomma glas \(feat\. Molly Sandén & Dante\)](https://open.spotify.com/track/6XBKxNfb7kmxoGXyicHYHz) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Tomma glas \(feat\. Molly Sandén & Dante\)](https://open.spotify.com/album/2zSpEzpWaPkCjjFLXtM1JP) | 2:22 |
-| 2 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
-| 3 | [Det ligger nåt i luften](https://open.spotify.com/track/4okV0gcEkY1BlqQNDvaQCw) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Det ligger nåt i luften](https://open.spotify.com/album/5CrGCx8NwnkfYlqJv7DXXE) | 2:30 |
-| 4 | [Atom](https://open.spotify.com/track/24j5pHISv4r7Au45ueiZ8r) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Atom](https://open.spotify.com/album/2PH7ApIbAdLECzTi0iX5yB) | 2:41 |
-| 5 | [När vi gräver guld i USA \- Spotify Singles](https://open.spotify.com/track/3vKjA3z6VhX5A6kppUOkHV) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Simon Strömstedt](https://open.spotify.com/artist/29gZaii4lX0oXppmZEpT7W), [Julia Glenmark](https://open.spotify.com/artist/2Jv6a3XMpqHemoAGdpaiuK) | [När vi gräver guld i USA \- Spotify Singles](https://open.spotify.com/album/7pH41TuSykueUvJElnq0go) | 3:19 |
+| 1 | [När vi gräver guld i USA \- Spotify Singles](https://open.spotify.com/track/3vKjA3z6VhX5A6kppUOkHV) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Simon Strömstedt](https://open.spotify.com/artist/29gZaii4lX0oXppmZEpT7W), [Julia Glenmark](https://open.spotify.com/artist/2Jv6a3XMpqHemoAGdpaiuK) | [När vi gräver guld i USA \- Spotify Singles](https://open.spotify.com/album/7pH41TuSykueUvJElnq0go) | 3:19 |
+| 2 | [Tomma glas \(feat\. Molly Sandén & Dante\)](https://open.spotify.com/track/6XBKxNfb7kmxoGXyicHYHz) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Tomma glas \(feat\. Molly Sandén & Dante\)](https://open.spotify.com/album/2zSpEzpWaPkCjjFLXtM1JP) | 2:22 |
+| 3 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
+| 4 | [Det ligger nåt i luften](https://open.spotify.com/track/4okV0gcEkY1BlqQNDvaQCw) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF) | [Det ligger nåt i luften](https://open.spotify.com/album/5CrGCx8NwnkfYlqJv7DXXE) | 2:30 |
+| 5 | [Atom](https://open.spotify.com/track/24j5pHISv4r7Au45ueiZ8r) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK), [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Atom](https://open.spotify.com/album/2PH7ApIbAdLECzTi0iX5yB) | 2:41 |
 | 6 | [hate that i made you love me](https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [hate that i made you love me](https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z) | 3:17 |
 | 7 | [360](https://open.spotify.com/track/1qSKSqfJ3eLWeSEb9phekc) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [360](https://open.spotify.com/album/7bjLLZrVTfWp0RrYfWhfNy) | 2:02 |
 | 8 | [Bangaranga](https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26) | [DARA](https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi) | [Bangaranga](https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8) | 2:57 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 44 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
 | 45 | [Svagare än jag](https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC) | [Ida\-Lova](https://open.spotify.com/artist/6RGIHfTrYarvgEAOTB7itO) | [Svagare än jag](https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr) | 3:07 |
 | 46 | [Övertänker](https://open.spotify.com/track/3U573wJbbipFNpkGGE2pQh) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Övertänker](https://open.spotify.com/album/38tGxDfs43Mnsip0jruENW) | 3:23 |
-| 47 | [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 |
+| 47 | [stupid song](https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:29 |
 | 48 | [The Fate of Ophelia](https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl](https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9) | 3:46 |
 | 49 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 | 50 | [Tusen spänn](https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Fanny Avonne](https://open.spotify.com/artist/3TwYZ3UPAb6MI7e1dkbiF8) | [Tusen spänn](https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL) | 3:10 |
 
-Snapshot ID: `AAAAAJpzf9W5TC1h6X+tjBnNCmldFV0N`
+Snapshot ID: `AAAAAJnfAj2WSASELzQZ3krgW3R5iKi8`

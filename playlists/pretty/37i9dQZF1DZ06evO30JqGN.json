@@ -1,12 +1,12 @@
 {
   "description": "This is Summer Walker. The essential tracks, all in one playlist.",
-  "num_followers": 138626,
+  "num_followers": 138641,
   "original_name": "This Is Summer Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akMHAAAAAAAfIxCO+K7SzM3ZR5UtKYX5",
+  "snapshot_id": "akRYgAAAAABxltc4hnPX1n18dbG9nH0t",
   "tracks": [
     {
       "added_at": null,
@@ -739,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "KILL THE KING",
+        "url": "https://open.spotify.com/album/7n2pr72Wvg7ZPHN3wFLSfd"
+      },
+      "artists": [
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 194321,
+      "name": "AND WON'T (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/5jN3vA2ChJqtaybZ1SfocT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FROM FLORIDA'S FINEST DELU/XXX [for my delusional ex]",
         "url": "https://open.spotify.com/album/4cwTNbK4eKfA98HHIdh4m0"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 173294,
       "name": "POOKIE\u2019S REQUIEM (feat. Summer Walker) - hehe look y'all I made it longer",
       "url": "https://open.spotify.com/track/01tJdgc6dDerW6IhWiVghO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Finally Over It",
-        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
-        }
-      ],
-      "duration_ms": 133060,
-      "name": "How Sway (with SAILORR)",
-      "url": "https://open.spotify.com/track/7Jx99doIpK62aedrblVeMB"
     },
     {
       "added_at": null,
@@ -799,22 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "KILL THE KING",
-        "url": "https://open.spotify.com/album/7n2pr72Wvg7ZPHN3wFLSfd"
+        "name": "Finally Over It",
+        "url": "https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx"
       },
       "artists": [
         {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        },
-        {
           "name": "Summer Walker",
           "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
         }
       ],
-      "duration_ms": 194321,
-      "name": "AND WON'T (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/5jN3vA2ChJqtaybZ1SfocT"
+      "duration_ms": 133060,
+      "name": "How Sway (with SAILORR)",
+      "url": "https://open.spotify.com/track/7Jx99doIpK62aedrblVeMB"
     },
     {
       "added_at": null,

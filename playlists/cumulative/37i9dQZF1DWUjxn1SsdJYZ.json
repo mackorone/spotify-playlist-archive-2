@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The best new AUS & NZ Rap. Cover: The 046",
+  "description": "The best new AUS & NZ Rap. Cover: Miles Nautu",
   "name": "Local Hype",
   "tracks": [
     {
@@ -9079,6 +9079,32 @@
     },
     {
       "album": {
+        "name": "Game Over",
+        "url": "https://open.spotify.com/album/506VK9Z11vLpZ1msS5ETu4"
+      },
+      "artists": [
+        {
+          "name": "JKER",
+          "url": "https://open.spotify.com/artist/1xiqG6r14RglSrPNOBLUUw"
+        },
+        {
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X"
+        },
+        {
+          "name": "Krypsis",
+          "url": "https://open.spotify.com/artist/6znlmp2DyDUPbri27Us7Ab"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148732,
+      "name": "Figure It Out Pt. 2",
+      "url": "https://open.spotify.com/track/4t0WjbUt3DuM9lYfPvPBZt"
+    },
+    {
+      "album": {
         "name": "Film Star Prelude",
         "url": "https://open.spotify.com/album/3ExiqZ6YzsZVasfpqiDSYN"
       },
@@ -11302,7 +11328,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 245052,
       "name": "green eyes",
       "url": "https://open.spotify.com/track/3WwHdeYbevafqyeePaASmn"
@@ -12262,7 +12288,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 182464,
       "name": "Hit For The Summer",
       "url": "https://open.spotify.com/track/1C0Jze7rETmEE4KHiI0DiK"
@@ -16434,6 +16460,28 @@
       "duration_ms": 102889,
       "name": "lose it",
       "url": "https://open.spotify.com/track/1iY2em6shEKPCAZ37mspPU"
+    },
+    {
+      "album": {
+        "name": "the front",
+        "url": "https://open.spotify.com/album/4XuThfY9Mnx3JrXxAdTa6O"
+      },
+      "artists": [
+        {
+          "name": "Miles Nautu",
+          "url": "https://open.spotify.com/artist/0o5U1p6ZUurte1gamdqmLI"
+        },
+        {
+          "name": "Coops",
+          "url": "https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/110127WJIyOYQOyik6DkQL"
     },
     {
       "album": {
@@ -21470,7 +21518,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 138468,
       "name": "Play My Part (SLIDE) (feat. Stone II)",
       "url": "https://open.spotify.com/track/6yeGECrisgtHSWaYDZBA7h"
@@ -26708,6 +26756,28 @@
       "duration_ms": 167553,
       "name": "SUMMERTIME IN THE 09",
       "url": "https://open.spotify.com/track/5HE5OMb5ip0h7YBKzcl2ej"
+    },
+    {
+      "album": {
+        "name": "Sun In My Eyes",
+        "url": "https://open.spotify.com/album/333u5Na3LSYnxUhA7IWc1r"
+      },
+      "artists": [
+        {
+          "name": "Celly",
+          "url": "https://open.spotify.com/artist/7hNCr6bA6G1HiWjooQzCuz"
+        },
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143673,
+      "name": "Sun In My Eyes",
+      "url": "https://open.spotify.com/track/01d2YJG6A7w0NsgcxYi9tT"
     },
     {
       "album": {
@@ -32042,6 +32112,24 @@
       "duration_ms": 153725,
       "name": "YNG",
       "url": "https://open.spotify.com/track/4xnAIsiUNXdismYrBrhyF0"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/74HmO3F1gVILdXsDhkLGf4"
+      },
+      "artists": [
+        {
+          "name": "Nerve",
+          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230211,
+      "name": "You",
+      "url": "https://open.spotify.com/track/3OGhY7gLnDbilSiSfIKt4g"
     },
     {
       "album": {

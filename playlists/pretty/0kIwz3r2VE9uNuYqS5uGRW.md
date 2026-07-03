@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 268 songs - 14 hr 12 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 270 songs - 14 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -276,5 +276,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 266 | [FRESA](https://open.spotify.com/track/6MW4bg0ThytV9jELeTYkI2) | [Jack SS](https://open.spotify.com/artist/2oQMY35cF4L9Xvaksl8ifB) | [FRESA](https://open.spotify.com/album/4uqqB0p3BjugeFdIVzvdD1) | 1:54 |
 | 267 | [Northwoods](https://open.spotify.com/track/3q9YV0kullF1IIEUoKTadq) | [Simon Alexander](https://open.spotify.com/artist/4i4s4cwfzGvsURbt6rzKTA) | [A Place to Call Home](https://open.spotify.com/album/5XnHiDa8vkJc95wnLw74mx) | 3:47 |
 | 268 | [MAJJIK CAT EARS](https://open.spotify.com/track/0fNuqRQWwAnLMndmWFtjlq) | [Screaming Lord Byron](https://open.spotify.com/artist/3o2K8R7odtpShOCa08g5Hk) | [MAJJIK CAT EARS](https://open.spotify.com/album/0UvSfg6f8TuwkNC3jjU2aN) | 5:32 |
+| 269 | [Deadline](https://open.spotify.com/track/7m4aYJfsylAXqh7ubCBAYu) | [Dylan Debiase](https://open.spotify.com/artist/31BVM6BLaoSP8ad00i8m25) | [Deadline](https://open.spotify.com/album/0F90Lm1VW1f7YNQ0BRHwQd) | 2:54 |
+| 270 | [Again Please](https://open.spotify.com/track/1V5yJAm6tdr4u7WqSWipyL) | [Crumb Catcher](https://open.spotify.com/artist/5zAP2alk6lWFK14KVvKkgB) | [Big Crunch](https://open.spotify.com/album/6k0iGiN9qufQrIEP70PY0l) | 2:54 |
 
-Snapshot ID: `AAAWEkIh21Q1/BAaqvvQIoZRu30inSBf`
+Snapshot ID: `AAAWFOESFjCBtpmyuSBkDCldwL+69dW7`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: BIBIZA",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: Emma Rose",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -2860,7 +2860,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 157357,
       "name": "aufn sack",
       "url": "https://open.spotify.com/track/6VAVWjLEIw39ytztumagau"
@@ -4000,6 +4000,24 @@
       "duration_ms": 155218,
       "name": "Bevor du gehst",
       "url": "https://open.spotify.com/track/2DJcz0DpjMYQOAKqUanU6F"
+    },
+    {
+      "album": {
+        "name": "bhs&lilien (checkt ihr wegen brasilien und so?)",
+        "url": "https://open.spotify.com/album/6WyfhSpgvoyWqWMaYXjJYi"
+      },
+      "artists": [
+        {
+          "name": "luisa schweig",
+          "url": "https://open.spotify.com/artist/0xh4h2jM3Iv58jGpeTGj5I"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "bhs&lilien (checkt ihr wegen brasilien und so?)",
+      "url": "https://open.spotify.com/track/1N6uQb1zuKHrKm7sgmJBaj"
     },
     {
       "album": {
@@ -8305,6 +8323,24 @@
     },
     {
       "album": {
+        "name": "einmal um die Welt mit dir",
+        "url": "https://open.spotify.com/album/4F3nq1TgWq80H0tuKQsWIB"
+      },
+      "artists": [
+        {
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150218,
+      "name": "einmal um die Welt mit dir",
+      "url": "https://open.spotify.com/track/0CLQTEJgtzvT5wkDUwSkW5"
+    },
+    {
+      "album": {
         "name": "Wenn du weinst / Einmal verliebt (Outro)",
         "url": "https://open.spotify.com/album/6BC1PLrKcbHzvTv36uNZas"
       },
@@ -8464,7 +8500,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 226756,
       "name": "Eismarillenkn\u00f6del",
       "url": "https://open.spotify.com/track/1OFajQnPQjFsT14jFsBFKa"
@@ -12694,7 +12730,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 142608,
       "name": "halbe sachen",
       "url": "https://open.spotify.com/track/1CxKNERZr6gi9oGHJ6CbeJ"
@@ -16677,6 +16713,42 @@
     },
     {
       "album": {
+        "name": "Keine Sorgen",
+        "url": "https://open.spotify.com/album/1zd16dHnUau3ceAcg55M6L"
+      },
+      "artists": [
+        {
+          "name": "JAS",
+          "url": "https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205094,
+      "name": "Keine Sorgen",
+      "url": "https://open.spotify.com/track/2pQVXKRtNAdRzk2jukS1jH"
+    },
+    {
+      "album": {
+        "name": "keine story",
+        "url": "https://open.spotify.com/album/7dLcoHlJuG6dbKW1goV004"
+      },
+      "artists": [
+        {
+          "name": "pako peng",
+          "url": "https://open.spotify.com/artist/4TcHjciZ5CaAna38txoxJn"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127000,
+      "name": "keine story",
+      "url": "https://open.spotify.com/track/2SKagz65SWuyFKkAIkMnjO"
+    },
+    {
+      "album": {
         "name": "Anonymer Melancholiker",
         "url": "https://open.spotify.com/album/1rrCRI2fHoe26xoxhsAc4L"
       },
@@ -19897,6 +19969,24 @@
     },
     {
       "album": {
+        "name": "marie",
+        "url": "https://open.spotify.com/album/6FhxvQfSYvQn1pQVExw0i4"
+      },
+      "artists": [
+        {
+          "name": "lovehead",
+          "url": "https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188764,
+      "name": "marie",
+      "url": "https://open.spotify.com/track/5Qzigqughy9Wi40tdMATo5"
+    },
+    {
+      "album": {
         "name": "Marlboro",
         "url": "https://open.spotify.com/album/5sHOBlcohfiJD02j2JlXTj"
       },
@@ -20534,7 +20624,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 157280,
       "name": "Midsommar",
       "url": "https://open.spotify.com/track/5FC1EYofuu7LkF8DJNuwG1"
@@ -21714,7 +21804,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 147673,
       "name": "Nickelodeon",
       "url": "https://open.spotify.com/track/6IR7O4OtqO7cNIXWsy6Ain"
@@ -23008,7 +23098,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 190183,
       "name": "Panorama (mit Levin Liam)",
       "url": "https://open.spotify.com/track/00Zusnc9F5oQktRpM3UiKT"
@@ -24466,7 +24556,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 188728,
       "name": "Romeo",
       "url": "https://open.spotify.com/track/2NTqEI0iCeSYvHRElRZBMk"
@@ -25392,7 +25482,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 181423,
       "name": "Schlangenhaut",
       "url": "https://open.spotify.com/track/7KfVtjIYOF0tx6MfR6IHvd"
@@ -25428,7 +25518,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 136207,
       "name": "schmetterlinge fangen",
       "url": "https://open.spotify.com/track/2iiEvGTxZ1u9XjlDC8mCTM"
@@ -25685,6 +25775,28 @@
     },
     {
       "album": {
+        "name": "Schwerelos",
+        "url": "https://open.spotify.com/album/4B2cqjCgqcDdripE2e574R"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        },
+        {
+          "name": "Paula Engels",
+          "url": "https://open.spotify.com/artist/1tO0z6nFsDt5mHYNrSPC0b"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126513,
+      "name": "Schwerelos",
+      "url": "https://open.spotify.com/track/2RM8WPg6KhG3SIxtzpYyr3"
+    },
+    {
+      "album": {
         "name": "schwerelos",
         "url": "https://open.spotify.com/album/4Vrt92Pk03lHUqG3spK7Pp"
       },
@@ -25776,6 +25888,24 @@
       "duration_ms": 156253,
       "name": "Sch\u00f6n",
       "url": "https://open.spotify.com/track/1nkFAgkqyQyF2mAsQvhJ91"
+    },
+    {
+      "album": {
+        "name": "Sch\u00f6n sein (ist fun)",
+        "url": "https://open.spotify.com/album/3bTXklMs8lwDmdqMhmKQnH"
+      },
+      "artists": [
+        {
+          "name": "Emma Rose",
+          "url": "https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145641,
+      "name": "Sch\u00f6n sein (ist fun)",
+      "url": "https://open.spotify.com/track/6MWNjVkitGbptqNPrXt3Y5"
     },
     {
       "album": {
@@ -25914,6 +26044,24 @@
       "duration_ms": 173205,
       "name": "seht ihr nicht",
       "url": "https://open.spotify.com/track/1vN8sBtdKTaP72Gi8pW5rD"
+    },
+    {
+      "album": {
+        "name": "Seide",
+        "url": "https://open.spotify.com/album/2UVbiVnU9JAadC1fk7y2rf"
+      },
+      "artists": [
+        {
+          "name": "Taubenraucher",
+          "url": "https://open.spotify.com/artist/5S9ZXP1ahpEL15EhanRbKn"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "Seide",
+      "url": "https://open.spotify.com/track/6pWQeb7U0oxQGcGIB5ITmu"
     },
     {
       "album": {
@@ -27737,6 +27885,24 @@
     },
     {
       "album": {
+        "name": "Sp\u00fclmaschine",
+        "url": "https://open.spotify.com/album/4GR0IRCEggbOb8mPxevk4U"
+      },
+      "artists": [
+        {
+          "name": "Udo West",
+          "url": "https://open.spotify.com/artist/6LjOtJ9U1bUN331ChKrw8q"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215142,
+      "name": "Sp\u00fclmaschine",
+      "url": "https://open.spotify.com/track/5YgFPzy8TA91NxWs2bGZUx"
+    },
+    {
+      "album": {
         "name": "Stabil",
         "url": "https://open.spotify.com/album/1XX3bFP2jetOXBMv7sDmze"
       },
@@ -29126,7 +29292,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 249207,
       "name": "tiefer fallen",
       "url": "https://open.spotify.com/track/5MXRDnpV7dWy1X0WvUiFBE"
@@ -30502,6 +30668,28 @@
       "duration_ms": 115986,
       "name": "Verlieben",
       "url": "https://open.spotify.com/track/1tHnYCUqIsTE7Gm5iTpSPt"
+    },
+    {
+      "album": {
+        "name": "verlieben ist einfach",
+        "url": "https://open.spotify.com/album/0s6bIWK1xBsSldMEXaGCJe"
+      },
+      "artists": [
+        {
+          "name": "falcke",
+          "url": "https://open.spotify.com/artist/2mnJSF6QbV1jn2QB4QARuf"
+        },
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156636,
+      "name": "verlieben ist einfach",
+      "url": "https://open.spotify.com/track/1haXkasNxxWNdV8szCXxsk"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Disco Lines",
-  "num_followers": 1313077,
+  "num_followers": 1313057,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1333,6 +1333,22 @@
       "url": "https://open.spotify.com/track/0bqk4OO4XN7nqW44PTMbdB"
     },
     {
+      "added_at": "2026-05-15 15:18:31",
+      "album": {
+        "name": "I Wanna Dance",
+        "url": "https://open.spotify.com/album/7CnlupDtx0fe7Z1ZZ9MbqR"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "duration_ms": 183998,
+      "name": "I Wanna Dance",
+      "url": "https://open.spotify.com/track/2DqGfTYbejCSIe0DGsqClz"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Fashion From France",
@@ -1355,22 +1371,6 @@
       "duration_ms": 132760,
       "name": "Fashion From France",
       "url": "https://open.spotify.com/track/3CapV3APaBIJKtg65nbefT"
-    },
-    {
-      "added_at": "2026-05-15 15:18:31",
-      "album": {
-        "name": "I Wanna Dance",
-        "url": "https://open.spotify.com/album/7CnlupDtx0fe7Z1ZZ9MbqR"
-      },
-      "artists": [
-        {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
-        }
-      ],
-      "duration_ms": 183998,
-      "name": "I Wanna Dance",
-      "url": "https://open.spotify.com/track/2DqGfTYbejCSIe0DGsqClz"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1579,6 +1579,26 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "Sam Silver",
+          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
+        }
+      ],
+      "duration_ms": 152288,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
         "url": "https://open.spotify.com/album/09lXuOKN6H7VoiYY6BgTYN"
       },
@@ -1599,26 +1619,6 @@
       "duration_ms": 181384,
       "name": "SHAKE A LIL\u2019 SOMETHIN\u2019",
       "url": "https://open.spotify.com/track/79731bpTWayIgYcrNynym3"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/1oE0OceAJ497lJgVI6xsje"
-      },
-      "artists": [
-        {
-          "name": "Kelland",
-          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
-        },
-        {
-          "name": "Sam Silver",
-          "url": "https://open.spotify.com/artist/1hhCo32XBkw8H0iqTSnkx0"
-        }
-      ],
-      "duration_ms": 152288,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1789,6 +1789,26 @@
       "url": "https://open.spotify.com/track/79lJ78VF91JSP4mQz44feU"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "Datti",
+          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
+        }
+      ],
+      "duration_ms": 193655,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
+    },
+    {
       "added_at": "2026-04-17 04:02:12",
       "album": {
         "name": "Fotopaparazzi",
@@ -1811,26 +1831,6 @@
       "duration_ms": 140770,
       "name": "Fotopaparazzi",
       "url": "https://open.spotify.com/track/2XXOFINEkzVaszziVzRQj2"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/0AneBzWKn1gf3K5oK6t9OD"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "Datti",
-          "url": "https://open.spotify.com/artist/0QJjhIiIMNvHGyltsojy5Q"
-        }
-      ],
-      "duration_ms": 193655,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/0N4X1hvBtjRkF8zbD1FOGc"
     },
     {
       "added_at": "2026-01-23 05:00:24",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 229384,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
         "name": "BABYLON",
         "url": "https://open.spotify.com/album/3zqVGulkXSmIWOSoXGN2VW"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 200712,
       "name": "BABYLON",
       "url": "https://open.spotify.com/track/7uM6anPIQpJdxt4v2Dis81"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "That Girl",
-        "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 229384,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
     },
     {
       "added_at": "2026-01-30 05:00:51",
@@ -2041,6 +2041,22 @@
       "url": "https://open.spotify.com/track/4Ai9gnhoWnixcZCSg0R9OC"
     },
     {
+      "added_at": "2026-05-22 04:01:19",
+      "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/4p6EfGZqcdYmzg9ZVlGpHv"
+      },
+      "artists": [
+        {
+          "name": "MARTA",
+          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
+        }
+      ],
+      "duration_ms": 145036,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/6nwRjqqtZTHYkoxxXImIda"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Circus",
@@ -2057,20 +2073,20 @@
       "url": "https://open.spotify.com/track/0vswyChRwvb8oSsevapdZd"
     },
     {
-      "added_at": "2026-05-22 04:01:19",
+      "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/4p6EfGZqcdYmzg9ZVlGpHv"
+        "name": "Off The Hook",
+        "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
       },
       "artists": [
         {
-          "name": "MARTA",
-          "url": "https://open.spotify.com/artist/1Qa6ZBZZK7Z1Zx7MiDTJQS"
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
         }
       ],
-      "duration_ms": 145036,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/6nwRjqqtZTHYkoxxXImIda"
+      "duration_ms": 154384,
+      "name": "Off The Hook",
+      "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
     },
     {
       "added_at": "2026-04-24 04:01:50",
@@ -2099,22 +2115,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Off The Hook",
-        "url": "https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA"
-        }
-      ],
-      "duration_ms": 154384,
-      "name": "Off The Hook",
-      "url": "https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "That's the Spot",
         "url": "https://open.spotify.com/album/2d3Y8KwRfNbfj96Low2s4H"
       },
@@ -2131,22 +2131,6 @@
       "duration_ms": 182769,
       "name": "That's the Spot",
       "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Sound of da Police",
-        "url": "https://open.spotify.com/album/5l514VFmvgMm3DJwMEjwe4"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 140624,
-      "name": "Sound of da Police",
-      "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2171,6 +2155,22 @@
       "duration_ms": 179537,
       "name": "Healing",
       "url": "https://open.spotify.com/track/0LPcQK0wDigAqAkgs939cK"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Sound of da Police",
+        "url": "https://open.spotify.com/album/5l514VFmvgMm3DJwMEjwe4"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 140624,
+      "name": "Sound of da Police",
+      "url": "https://open.spotify.com/track/3dqb5yqVo6Oq8OCDOKx8o2"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2217,6 +2217,26 @@
       "url": "https://open.spotify.com/track/4wfrI5vr5YpNY23VTcoXJS"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
+        "url": "https://open.spotify.com/album/2NcPGuR61r8Hjl0yqxz9mf"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Dave Summer",
+          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
+        }
+      ],
+      "duration_ms": 167633,
+      "name": "Cocaine Inside My Blunts - Dave Summer Remix",
+      "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
+    },
+    {
       "added_at": "2026-02-13 05:00:34",
       "album": {
         "name": "3AM",
@@ -2243,26 +2263,6 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "Cocaine Inside My Blunts (Dave Summer Remix)",
-        "url": "https://open.spotify.com/album/2NcPGuR61r8Hjl0yqxz9mf"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
-        },
-        {
-          "name": "Dave Summer",
-          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
-        }
-      ],
-      "duration_ms": 167633,
-      "name": "Cocaine Inside My Blunts - Dave Summer Remix",
-      "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
         "name": "Freedom (Body Ocean Remix)",
         "url": "https://open.spotify.com/album/2g8I6KJqkdMtRmbwRjeT2O"
       },
@@ -2285,26 +2285,6 @@
       "url": "https://open.spotify.com/track/20c8JyEhYuPFOH2qZ0CwDZ"
     },
     {
-      "added_at": "2026-04-03 04:01:48",
-      "album": {
-        "name": "SHE TOXIC",
-        "url": "https://open.spotify.com/album/5pt9g3iJNSmBxwBs69bwEC"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 158222,
-      "name": "SHE TOXIC",
-      "url": "https://open.spotify.com/track/6IHUVOd7zmRYkZdrAYWNMF"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Sweating",
@@ -2323,6 +2303,26 @@
       "duration_ms": 207425,
       "name": "Sweating",
       "url": "https://open.spotify.com/track/2KBwVJtziqVgNRTPUPQ6Zc"
+    },
+    {
+      "added_at": "2026-04-03 04:01:48",
+      "album": {
+        "name": "SHE TOXIC",
+        "url": "https://open.spotify.com/album/5pt9g3iJNSmBxwBs69bwEC"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 158222,
+      "name": "SHE TOXIC",
+      "url": "https://open.spotify.com/track/6IHUVOd7zmRYkZdrAYWNMF"
     },
     {
       "added_at": "2026-03-06 05:00:10",
@@ -2393,22 +2393,6 @@
       "url": "https://open.spotify.com/track/7v0FrXXKGnVelJsJQubUxV"
     },
     {
-      "added_at": "2026-05-08 04:01:56",
-      "album": {
-        "name": "In Tha Back",
-        "url": "https://open.spotify.com/album/3ooCig1TJGcagGVYX1g8ia"
-      },
-      "artists": [
-        {
-          "name": "Gold Lemonade",
-          "url": "https://open.spotify.com/artist/7FRrxvFEPbNCEJt0E7O7UD"
-        }
-      ],
-      "duration_ms": 157153,
-      "name": "In Tha Back",
-      "url": "https://open.spotify.com/track/0Xj20dNaoVKokediIXCx3a"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "F*CK THAT",
@@ -2423,6 +2407,22 @@
       "duration_ms": 191818,
       "name": "F*CK THAT",
       "url": "https://open.spotify.com/track/3HxaXZ9pS1r3GFgv4Eh5sI"
+    },
+    {
+      "added_at": "2026-05-08 04:01:56",
+      "album": {
+        "name": "In Tha Back",
+        "url": "https://open.spotify.com/album/3ooCig1TJGcagGVYX1g8ia"
+      },
+      "artists": [
+        {
+          "name": "Gold Lemonade",
+          "url": "https://open.spotify.com/artist/7FRrxvFEPbNCEJt0E7O7UD"
+        }
+      ],
+      "duration_ms": 157153,
+      "name": "In Tha Back",
+      "url": "https://open.spotify.com/track/0Xj20dNaoVKokediIXCx3a"
     },
     {
       "added_at": "2026-05-22 04:01:19",

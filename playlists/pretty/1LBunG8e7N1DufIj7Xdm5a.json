@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAJBR3FopArTap44OgjQxuNinqmaimn",
+  "snapshot_id": "AAAJB+8OYBP4yS+unXDBIygixg6vRO1x",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -74319,6 +74319,38 @@
       "duration_ms": 226400,
       "name": "In a Room",
       "url": "https://open.spotify.com/track/3qYp9cawHGwLqJdpnayztC"
+    },
+    {
+      "added_at": "2026-07-02 08:52:42",
+      "album": {
+        "name": "EL TERCERO",
+        "url": "https://open.spotify.com/album/7dVx9QQdEJ4MSlGg1M7l6a"
+      },
+      "artists": [
+        {
+          "name": "OVE MARQUESIN",
+          "url": "https://open.spotify.com/artist/0plb8N6XwOKnXuQFxHiD0t"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "EL TERCERO",
+      "url": "https://open.spotify.com/track/6ccrFhU3dzwbAiQlDIBrRQ"
+    },
+    {
+      "added_at": "2026-07-03 00:57:29",
+      "album": {
+        "name": "By Design",
+        "url": "https://open.spotify.com/album/4uGCOrttUEiOQpkvoBLFSo"
+      },
+      "artists": [
+        {
+          "name": "Richie Cross",
+          "url": "https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT"
+        }
+      ],
+      "duration_ms": 205769,
+      "name": "By Design",
+      "url": "https://open.spotify.com/track/7KLLbirr3zrlOmCAXNu8lb"
     }
   ],
   "unique_name": "playlist spotify free",

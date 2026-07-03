@@ -2,7 +2,7 @@
 
 ### [Hot Hits Italia](https://open.spotify.com/playlist/37i9dQZF1DX6wfQutivYYr)
 
-> Artie 5ive sulla cover della playlist con tutte le hit più 🔥🔥🔥
+> Geolier sulla cover della playlist con tutte le hit più 🔥🔥🔥
 
 355 songs - 18 hr 30 min
 

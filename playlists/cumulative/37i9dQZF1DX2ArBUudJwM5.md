@@ -4,7 +4,7 @@
 
 > Mujeres a todo volumen x  BB ASUL ♥︎
 
-1,580 songs - 3 day 14 hr 9 min
+1,581 songs - 3 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,6 +296,7 @@
 | [Cobarde](https://open.spotify.com/track/0Eb0IgyKJF7llW3UxG6gVV) | [Antho Mattei](https://open.spotify.com/artist/4Pnl3TKhOZWqZoulVNYWDl) | [Ella Es Como Vos](https://open.spotify.com/album/4C2lbsiWvZAVxNB9tN4bOn) | 4:31 | 2022-11-07 | 2022-12-01 |
 | [COLAPSO](https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr) | [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [COLAPSO](https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo) | 3:29 | 2022-05-04 | 2024-08-08 |
 | [Colchón](https://open.spotify.com/track/50DbH3a3NuD6imG7imC1Bt) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [2020](https://open.spotify.com/album/5PiGqB14PQ9GWPeVWC2tC0) | 3:15 | 2022-06-01 | 2022-07-07 |
+| [colmillos](https://open.spotify.com/track/54OKtgmsxS97sFTHz1R4Sj) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [colmillos](https://open.spotify.com/album/5l4rtYwjjmGYjH3Jqk2roQ) | 3:02 | 2026-07-02 |  |
 | [Color](https://open.spotify.com/track/6yPdKUk3kSelyKc15Ix0sV) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Secreto](https://open.spotify.com/album/1LSA3VWGCtvzGUE0z0C8RV) | 3:49 | 2022-02-02 | 2022-03-09 |
 | [Come Around](https://open.spotify.com/track/7iO8C8WokR1folp9mPdN2t) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Kala](https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu) | 3:54 | 2024-04-05 | 2024-05-08 |
 | [Como Dos Extraños](https://open.spotify.com/track/6u14b3JnkqTc1W3hTLNtJ9) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Vuelve el Tango](https://open.spotify.com/album/6Ew5SpAE83uV8grDDawz5m) | 2:48 | 2024-12-04 | 2025-01-09 |

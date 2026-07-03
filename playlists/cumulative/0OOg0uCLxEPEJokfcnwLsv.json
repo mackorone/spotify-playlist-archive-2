@@ -637,6 +637,28 @@
     },
     {
       "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/1k0XsNgnsoDugVwrsGhyBq"
+      },
+      "artists": [
+        {
+          "name": "Ben Trexel",
+          "url": "https://open.spotify.com/artist/6sQxhU4AP13xu7ikPmGvZu"
+        },
+        {
+          "name": "Amanda Willis-Brice",
+          "url": "https://open.spotify.com/artist/6L76Th9R1cPMH2a2VsQMUF"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229498,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/6kUcyywiYhzavba2AZKSdm"
+    },
+    {
+      "album": {
         "name": "Another Road",
         "url": "https://open.spotify.com/album/1ns78XX82aqpqIKgdLkxAB"
       },
@@ -1628,6 +1650,24 @@
       "duration_ms": 146227,
       "name": "C.A.R.O.L (Can't Always Rely On Logic)",
       "url": "https://open.spotify.com/track/6xl56wh97kK5kdTvrpw3qH"
+    },
+    {
+      "album": {
+        "name": "Cage",
+        "url": "https://open.spotify.com/album/5DwSWfbBq628mkcHtn4VaP"
+      },
+      "artists": [
+        {
+          "name": "Wave Raiders",
+          "url": "https://open.spotify.com/artist/3gHc7IjiVFconlcRcSpXXn"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203135,
+      "name": "Cage",
+      "url": "https://open.spotify.com/track/3TurCW23kV3k57o4L96Y8R"
     },
     {
       "album": {

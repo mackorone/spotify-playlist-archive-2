@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Lo mejor del rock de aqu\u00ed, como Silo\u00e9.",
+  "description": "Lo mejor del rock de aqu\u00ed, como Robe y Leiva.",
   "name": "Rock Espa\u00f1ol",
   "tracks": [
     {
@@ -172,7 +172,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 182346,
       "name": "A Contracorriente",
       "url": "https://open.spotify.com/track/2MgIaPj0sYk1XS4CjXxgAz"
@@ -190,7 +190,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 261862,
       "name": "A contraluz",
       "url": "https://open.spotify.com/track/2AWqAyzKpKS83r4kpJxDmt"
@@ -6558,7 +6558,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 233350,
       "name": "Huella",
       "url": "https://open.spotify.com/track/0UiEfMscxb4PR7uTP7qZI3"
@@ -9322,7 +9322,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 210465,
       "name": "Me acuerdo del Li",
       "url": "https://open.spotify.com/track/7KamUQq7UQC9Te5Sniywm7"
@@ -9784,7 +9784,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 208605,
       "name": "Miss Dinamarca",
       "url": "https://open.spotify.com/track/1YRl7r8LKZvpR8XQExBOMS"
@@ -9930,7 +9930,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 188893,
       "name": "Mundo imperfecto",
       "url": "https://open.spotify.com/track/7hlytak131AgmPYe8JsYws"
@@ -10212,6 +10212,14 @@
         {
           "name": "Medina Azahara",
           "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
+        },
+        {
+          "name": "Francisco Ventura",
+          "url": "https://open.spotify.com/artist/6LggnRCQyNaL0zqKnEMsDe"
+        },
+        {
+          "name": "Manuel Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/6hHsPFPs8O0jq2HpudqjSR"
         }
       ],
       "date_added": "2022-05-19",
@@ -10500,6 +10508,24 @@
       "duration_ms": 178468,
       "name": "No Hay Tregua",
       "url": "https://open.spotify.com/track/40lauWDcbFQgigWgrVyoqM"
+    },
+    {
+      "album": {
+        "name": "No Me Arrepiento",
+        "url": "https://open.spotify.com/album/6WsKpzuwvHmDTHvH4v5aU8"
+      },
+      "artists": [
+        {
+          "name": "Elefantes",
+          "url": "https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256026,
+      "name": "No Me Arrepiento",
+      "url": "https://open.spotify.com/track/5rGQYEbV5H6RFzG5afFwz3"
     },
     {
       "album": {
@@ -10793,6 +10819,32 @@
     },
     {
       "album": {
+        "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
+        "url": "https://open.spotify.com/album/1IlYdxr6kQ1SuzAN1xQWRf"
+      },
+      "artists": [
+        {
+          "name": "Melon Diesel",
+          "url": "https://open.spotify.com/artist/7vL2cUa3hRkdJzxxDsKHyF"
+        },
+        {
+          "name": "Gabriel De La Rosa",
+          "url": "https://open.spotify.com/artist/6ax61YDjkDzWEr0Wdls9uX"
+        },
+        {
+          "name": "Shinova",
+          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262465,
+      "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
+      "url": "https://open.spotify.com/track/4apjmILh9SIf1jtbI36xDC"
+    },
+    {
+      "album": {
         "name": "Nuestra revoluci\u00f3n",
         "url": "https://open.spotify.com/album/7pY8tV8FQYR1w8Jdjq3xrm"
       },
@@ -10990,6 +11042,28 @@
       "duration_ms": 286167,
       "name": "Oro Irland\u00e9s",
       "url": "https://open.spotify.com/track/6gesNT3gtru3WI4nB4jZDr"
+    },
+    {
+      "album": {
+        "name": "Otra Vez Tus Ojos",
+        "url": "https://open.spotify.com/album/4UGXizV5TyRRFpBa49Jkxj"
+      },
+      "artists": [
+        {
+          "name": "La Piojera",
+          "url": "https://open.spotify.com/artist/2y10Zc9dxnYdyoToA8xeq4"
+        },
+        {
+          "name": "Estrago",
+          "url": "https://open.spotify.com/artist/5xtCZLuxMQuLUhO5s6Gr0D"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269072,
+      "name": "Otra Vez Tus Ojos",
+      "url": "https://open.spotify.com/track/3xFZZQkxtfzdOqgr2KTg9P"
     },
     {
       "album": {
@@ -11210,7 +11284,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 191231,
       "name": "Para volverte a decir",
       "url": "https://open.spotify.com/track/55quatI4AI4K0Tj3XNAxy7"
@@ -11522,7 +11596,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-17",
+      "date_removed": null,
       "duration_ms": 269373,
       "name": "Por la boca vive el pez",
       "url": "https://open.spotify.com/track/1mOOMcUSzzsyzKmlukM1m4"
@@ -11742,7 +11816,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 242005,
       "name": "Punto de Colisi\u00f3n",
       "url": "https://open.spotify.com/track/0W5WdG9xYM22G2GbJEanNd"
@@ -12598,6 +12672,36 @@
       "duration_ms": 158857,
       "name": "Rumbapop",
       "url": "https://open.spotify.com/track/1sLotMFghANlkVzI4ln2uW"
+    },
+    {
+      "album": {
+        "name": "Sad Men Moustache",
+        "url": "https://open.spotify.com/album/3a8n8AGWMX2SXWCBUfsPjn"
+      },
+      "artists": [
+        {
+          "name": "Chiquita Movida",
+          "url": "https://open.spotify.com/artist/7chkUZGYVGXjl19G8Di1Rr"
+        },
+        {
+          "name": "Rayden",
+          "url": "https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa"
+        },
+        {
+          "name": "Mediyama",
+          "url": "https://open.spotify.com/artist/4AvBrqytoNTLyrxvmmTR6o"
+        },
+        {
+          "name": "Skiz7",
+          "url": "https://open.spotify.com/artist/2v7G5QXX2BqCnHRil1IVKZ"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162638,
+      "name": "Sad Men Moustache",
+      "url": "https://open.spotify.com/track/161V6VIxfXO4WBs0nGnLhg"
     },
     {
       "album": {
@@ -13883,6 +13987,28 @@
     },
     {
       "album": {
+        "name": "TODO O NADA (feat. Bunbury)",
+        "url": "https://open.spotify.com/album/0VLPByInwnBNttWEeo68XC"
+      },
+      "artists": [
+        {
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208046,
+      "name": "TODO O NADA (feat. Bunbury)",
+      "url": "https://open.spotify.com/track/3CJFWQ1WNZhZWOsYvYG3lQ"
+    },
+    {
+      "album": {
         "name": "Todo Parece Mentira",
         "url": "https://open.spotify.com/album/6YgNpTo1cLEpT5zlVcpeHn"
       },
@@ -13948,6 +14074,10 @@
         {
           "name": "Medina Azahara",
           "url": "https://open.spotify.com/artist/72XPmW6k6HZT6K2BaUUOhl"
+        },
+        {
+          "name": "J. G Reyzabal",
+          "url": "https://open.spotify.com/artist/07ZsqQJJDJDX8M84ERWWWr"
         }
       ],
       "date_added": "2022-05-19",
@@ -14162,6 +14292,24 @@
       "duration_ms": 182169,
       "name": "Trocito de Cielo",
       "url": "https://open.spotify.com/track/4Cr2O3m84McsJNOT1IRclx"
+    },
+    {
+      "album": {
+        "name": "Tu Eres La Respuesta",
+        "url": "https://open.spotify.com/album/53PlBI2GKp9bvcD4Cb6eDD"
+      },
+      "artists": [
+        {
+          "name": "Iguana Tango",
+          "url": "https://open.spotify.com/artist/5P4gTu22GQje4EDwps9cht"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194988,
+      "name": "Tu Eres La Respuesta",
+      "url": "https://open.spotify.com/track/52iBEylgUX8wbfbrLyvdUw"
     },
     {
       "album": {
@@ -14408,7 +14556,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 203493,
       "name": "Un mundo m\u00e1gico",
       "url": "https://open.spotify.com/track/5QhxbQvJNaQ2VXSp7JlfzR"

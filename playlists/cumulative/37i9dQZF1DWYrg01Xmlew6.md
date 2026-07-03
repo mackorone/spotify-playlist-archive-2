@@ -4,7 +4,7 @@
 
 > Solo rap da Napoli e dalla Campania\. Dipinto in cover.
 
-626 songs - 1 day 4 hr 13 min
+628 songs - 1 day 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [CAMPIONE](https://open.spotify.com/track/3wZL6hn0h1f8jkjSEc3LF3) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [CAMPIONE](https://open.spotify.com/album/6mBDZmSyWiRvjPkabUgkSF) | 2:25 | 2025-11-13 | 2025-12-19 |
 | [Campioni In Italia \(Red Bull 64 Bars\)](https://open.spotify.com/track/0lmmsw2Z7uN1e5q93AHXbd) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Dat Boi Dee](https://open.spotify.com/artist/3wDn3kW2zDRLnaQAnX0S3x), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK) | [Campioni In Italia \(Red Bull 64 Bars\)](https://open.spotify.com/album/4pZLLjPkLo3LXhkxlOU4OX) | 3:54 | 2023-11-23 | 2024-06-07 |
 | [CANNABIS](https://open.spotify.com/track/3CgrumOfnBFaDu5fcDbjtc) | [BADMAN](https://open.spotify.com/artist/5UylpZwZKc12wY1kBQuC3p) | [CANNABIS](https://open.spotify.com/album/2nS3CEKU4PolUtOuF7pmig) | 2:03 | 2026-03-12 | 2026-04-02 |
+| [CARACAS](https://open.spotify.com/track/46qBqierqPc0ilaD0sHkqV) | [Kalionte](https://open.spotify.com/artist/4EXgod8ey7HXn2o8zAOcAQ), [CLAVO](https://open.spotify.com/artist/1qHMq6qI0GjOVzrj5BpfV0) | [CARACAS](https://open.spotify.com/album/6lZIFCI3QgDXp5Woakmw7G) | 2:06 | 2026-07-02 |  |
 | [CARCERATO](https://open.spotify.com/track/5BgszYO7jQz6qOUPq88ef7) | [Dufedi](https://open.spotify.com/artist/3RGXsJiyKUeeTcGtRMsll3), [Kabvki](https://open.spotify.com/artist/4nS14korvlcnH1zXKgSwmw) | [CARCERATO](https://open.spotify.com/album/6rXFhqzxwv5eX1TGzj2mJq) | 2:47 | 2025-07-03 | 2025-07-18 |
 | [Carmela](https://open.spotify.com/track/3FYCZKF3OvOfwrm0sbPuHT) | [MOWGLI](https://open.spotify.com/artist/048wJUTvO90bEipRqJlpfa), [musa](https://open.spotify.com/artist/0TA41Vre17wBa5qsPU0Xno) | [Carmela](https://open.spotify.com/album/07KakC2ufUXrzA7Dhe4PzI) | 2:36 | 2026-01-14 | 2026-02-06 |
 | [Carne e ossa](https://open.spotify.com/track/51MHkF1fo45LhKjtVPiEY0) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 2:34 | 2024-08-29 | 2024-10-11 |
@@ -106,6 +107,7 @@
 | [CHAMPIONS LEAGUE](https://open.spotify.com/track/06Zq6HSD1O6XpblP1jXkMB) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W) | [CHAMPIONS LEAGUE](https://open.spotify.com/album/0lXnDC17PrUn7US2iy8sa4) | 3:04 | 2025-10-09 |  |
 | [Chance](https://open.spotify.com/track/7qvI1RnRmIzQ52r5WN8TI5) | [Lil Tony](https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ) | [Chance](https://open.spotify.com/album/06iLcirNazg1Nb0hFzYDAd) | 3:19 | 2024-09-19 | 2024-10-04 |
 | [Chanel](https://open.spotify.com/track/7pDIFkymxnMAGzCdvICFb3) | [Peppe Soks](https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT), [Nathys](https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf) | [Chanel](https://open.spotify.com/album/69WeTXYxLFMrOKrCgYqTlR) | 3:06 | 2022-09-15 | 2022-10-14 |
+| [CHAPO](https://open.spotify.com/track/14TsNrxyopRFvQI86o7ui4) | [EYKEY](https://open.spotify.com/artist/3aOWq3jfuEv9aBQXqW8iTe), [LM219](https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ) | [CHAPO](https://open.spotify.com/album/72hyZxGu9Ou2OaX60WQSZY) | 2:46 | 2026-07-02 |  |
 | [CHARME \(feat\. Christian Revo, Vale Lambo\)](https://open.spotify.com/track/1c6eHnBBBIV3isAHk2KO4X) | [Plug](https://open.spotify.com/artist/0PWa13NHPcTgfyBlIkjjBx), [Christian Revo](https://open.spotify.com/artist/0s3k3E7SlZqDN0rXnijV7F), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [CHARME \(feat\. Christian Revo, Vale Lambo\)](https://open.spotify.com/album/36I0lzxgz7mraZM0dP3GDt) | 2:52 | 2025-06-12 | 2025-09-19 |
 | [CHE ME NE FÓ](https://open.spotify.com/track/0lk4E9MaC4mIRAo6smiQUS) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7), [Wiz Hard](https://open.spotify.com/artist/5OjSUnU9En0SbctPV5pd47) | [CHE ME NE FÓ](https://open.spotify.com/album/0bfXiQpr4NLnom25HshAkw) | 1:39 | 2024-07-04 | 2024-07-19 |
 | [Che Stai Dicenn \(feat\. Paky\)](https://open.spotify.com/track/1gwdAaUlJPkDso1qFgPrdm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Che Stai Dicenn \(feat\. Paky\)](https://open.spotify.com/album/0cUj7puIeZuZwomUGrJkAY) | 3:07 | 2022-06-30 | 2023-05-10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : RnBoi",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Aya Nakamura",
   "name": "R&Bae",
   "tracks": [
     {
@@ -50,6 +50,24 @@
       "duration_ms": 227380,
       "name": "1h55",
       "url": "https://open.spotify.com/track/36kPlvgOwqbdMqMyeioRJN"
+    },
+    {
+      "album": {
+        "name": "2 min",
+        "url": "https://open.spotify.com/album/54GJMDQ2ahSAxe3lmCq9qg"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153290,
+      "name": "2 min",
+      "url": "https://open.spotify.com/track/7J8OTRdXb6noyWoKwlnjk6"
     },
     {
       "album": {
@@ -1536,7 +1554,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 186382,
       "name": "Bris\u00e9",
       "url": "https://open.spotify.com/track/2rY0g6mJFSAGjs14SEwaA8"
@@ -2594,7 +2612,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 146976,
       "name": "COMME TOI",
       "url": "https://open.spotify.com/track/1YkZYS4VYMahZZSchaGJUz"
@@ -12950,6 +12968,24 @@
       "duration_ms": 160800,
       "name": "Te cache pas",
       "url": "https://open.spotify.com/track/6cMIBxAIcvgFvcXM4iDxoj"
+    },
+    {
+      "album": {
+        "name": "SEASON 226",
+        "url": "https://open.spotify.com/album/7MLspWQGKddHUYsH5fPLCp"
+      },
+      "artists": [
+        {
+          "name": "Tayron Kwidan's",
+          "url": "https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "TELECOMMANDE",
+      "url": "https://open.spotify.com/track/2ktUhX6j6vRgv3RWdof7I9"
     },
     {
       "album": {

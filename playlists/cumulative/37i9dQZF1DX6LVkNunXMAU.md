@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6LVkNunXMAU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6LVkNunXMAU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6LVkNunXMAU)
 
-### [folk & otoño](https://open.spotify.com/playlist/37i9dQZF1DX6LVkNunXMAU)
+### [folk & invierno](https://open.spotify.com/playlist/37i9dQZF1DX6LVkNunXMAU)
 
-> Folk latino de estación\. Foto: El Mulu
+> Folk latino de estación\. Foto: Yorka & Feli Colina
 
-379 songs - 20 hr 43 min
+381 songs - 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Cariñito](https://open.spotify.com/track/6PK0iRqWsE94o36yiszQCh) | [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh), [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW) | [Cariñito](https://open.spotify.com/album/7Lw1CPKpaL8npiEd35ebWW) | 3:13 | 2022-05-20 | 2023-07-08 |
 | [Carretera Austral](https://open.spotify.com/track/5xtCrCYy7q5od2jx0GHkdg) | [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo), [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [Carretera Austral](https://open.spotify.com/album/09aNyCG1HL7eBxvJSpDpWg) | 4:24 | 2024-10-11 |  |
 | [Cartas a Walter Xenón](https://open.spotify.com/track/0c4Irfn4lxeyOdjZNY3wDv) | [Delfi Moore](https://open.spotify.com/artist/0iwS8u0GYTStXRUtoTAthe) | [Amiga](https://open.spotify.com/album/5qP82oprnVkwjHHMlzvl59) | 2:25 | 2022-05-20 | 2024-10-18 |
-| [Casa \- Reversión](https://open.spotify.com/track/74GJTdXb7EoftKV913OHfE) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/2zZmuHTWDf1TRgiTt4DigW) | 4:08 | 2025-08-01 |  |
+| [Casa \- Reversión](https://open.spotify.com/track/74GJTdXb7EoftKV913OHfE) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/2zZmuHTWDf1TRgiTt4DigW) | 4:08 | 2025-08-01 | 2026-07-03 |
 | [Casualidad](https://open.spotify.com/track/3qs4Pq7AwvrYhddiLUmUtJ) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Casualidad](https://open.spotify.com/album/5NmrgtARnyTFbmgTxoGhki) | 2:48 | 2023-07-07 | 2023-08-30 |
 | [Chimenea](https://open.spotify.com/track/7HiJ4XNyZyE6fyRnXzDXLP) | [Ine Güemes](https://open.spotify.com/artist/6eT4EH9YSy7e4y1EY1XibR) | [Guardar](https://open.spotify.com/album/51bFySJK14qeoQc6NBECBj) | 2:59 | 2026-04-20 |  |
 | [Coastin' \(with Alemán\)](https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Coastin' \(with Alemán\)](https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH) | 4:04 | 2023-08-25 | 2024-09-27 |
@@ -87,6 +87,7 @@
 | [Coquimbo, Mazatlán](https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Coquimbo, Mazatlán](https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd) | 4:24 | 2022-07-15 | 2025-11-29 |
 | [Corazón](https://open.spotify.com/track/57druALZuNFipo15C2uiHQ) | [Imaina](https://open.spotify.com/artist/2LCUXnW5e5TubrF6OJJwCu) | [Corazón](https://open.spotify.com/album/4TmwigR6q4r2S26W1McDed) | 3:18 | 2022-05-20 | 2023-05-20 |
 | [Corazón](https://open.spotify.com/track/0aeHXi14tu9wCtOth0lLH6) | [Sofía Viola](https://open.spotify.com/artist/4sJIwgaLC0VVZpK3LriAtT), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Sofía Viola y la Muchacha, Vol\. 1](https://open.spotify.com/album/2TyyYkOUt0IbdZfswuzee0) | 3:02 | 2026-05-22 |  |
+| [Corazón con Tinta China](https://open.spotify.com/track/3Se3lkVCswMUVPT6M0x2JJ) | [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g) | [Súper Folk](https://open.spotify.com/album/5wz1LFoDgt9sd7oDkpG8hB) | 3:17 | 2026-07-03 |  |
 | [Corazón de Metal](https://open.spotify.com/track/2WfjpO5nlmUHSN0NLQs6IQ) | [Bárbara Jorcin](https://open.spotify.com/artist/4DQnZeuDDLSiEOcLFrKLT6) | [Corazón de Metal](https://open.spotify.com/album/6akKOPEnC76tjH5SaSCVns) | 2:55 | 2024-04-12 |  |
 | [Coronita](https://open.spotify.com/track/75Wc9CxJw4Oc60cj5LT6eV) | [Ignacio Arocena](https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9) | [Coronita](https://open.spotify.com/album/0Bb7ls4MVOjHWAqYae8kms) | 3:43 | 2022-05-20 | 2023-05-20 |
 | [Cosas raras \(feat\. Pimp Flaco\)](https://open.spotify.com/track/6b7U0cQstqjoRLA2Xpd3Dg) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Pimp Flaco](https://open.spotify.com/artist/3UZFWMkyLElpRsLPdButSC) | [Pinta y Colorea](https://open.spotify.com/album/2WfExJBJdOzCEKTksL9DuI) | 4:17 | 2022-05-20 | 2023-04-15 |
@@ -188,6 +189,7 @@
 | [La Poesia Intermitente](https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Tranki Town](https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk) | 3:53 | 2022-05-20 | 2023-04-15 |
 | [La razón](https://open.spotify.com/track/0qmmbCIDtqIo5UANUF7UhX) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [La razón](https://open.spotify.com/album/10rovyKmiXi763COyBP9oz) | 3:47 | 2023-10-06 | 2023-12-03 |
 | [La Tormenta](https://open.spotify.com/track/4JEY3vlTlb1byFbI6OgYBg) | [Metalengua](https://open.spotify.com/artist/3gIGCGSknVNY5D17w3CCqh), [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [La Tormenta](https://open.spotify.com/album/7lchNWI4NFNWRou6FXovnh) | 2:21 | 2026-06-26 |  |
+| [La Torpeza \- Reversión](https://open.spotify.com/track/4sIakhIDONACHNWGMkTgqG) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/0VnKh4aSjhxcGRjCoH538m) | 3:52 | 2026-07-03 |  |
 | [Las Cosas Simples](https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr) | [Adrián Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Las Cosas Simples](https://open.spotify.com/album/4gq30p37s9VgAovyUtfDqz) | 4:07 | 2024-03-07 |  |
 | [Las Risas Caen](https://open.spotify.com/track/3kVciV1r3KxJSmHI15LLJA) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [Estructuras Inestables](https://open.spotify.com/album/1THM2S2ulfKF94Iq03MyG8) | 3:27 | 2023-05-12 | 2023-06-11 |
 | [Lento](https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [\(un poco + de\) FE](https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ) | 3:24 | 2022-05-20 | 2022-07-16 |
@@ -386,6 +388,6 @@
 | [Yo Invito](https://open.spotify.com/track/0RYDPGXliFYXfRgs4mj7Ka) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX) | [Yo Invito](https://open.spotify.com/album/7qlKCd3D9RgF9NOq9vQeyH) | 3:11 | 2022-05-20 | 2023-04-15 |
 | [Ándate \- Reversión](https://open.spotify.com/track/38Oju5aqwHRAageQuYfrdL) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn), [Ketekalles](https://open.spotify.com/artist/32opeIbCeLG1LiAkmwiiof) | [Chao \(Remix Reversiones\)](https://open.spotify.com/album/1sQOiViouYbWFukqN2iNxi) | 3:14 | 2025-07-18 |  |
 | [Árboles](https://open.spotify.com/track/5y4J5an3AUHCgyAdi7a7Iq) | [Micaela Basadoni](https://open.spotify.com/artist/387j8PTLEmNKehaqkFBlnU) | [Árboles](https://open.spotify.com/album/3m0R7fX6Gsd7fd7nyQ3FJd) | 2:34 | 2023-07-14 | 2023-08-12 |
-| [Último Ritual](https://open.spotify.com/track/6RbGBrDpyZNup77t5ekWDQ) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Último Ritual](https://open.spotify.com/album/0jrUjBftHGzdyzqON203h3) | 3:27 | 2025-10-27 |  |
+| [Último Ritual](https://open.spotify.com/track/6RbGBrDpyZNup77t5ekWDQ) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Último Ritual](https://open.spotify.com/album/0jrUjBftHGzdyzqON203h3) | 3:27 | 2025-10-27 | 2026-07-03 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

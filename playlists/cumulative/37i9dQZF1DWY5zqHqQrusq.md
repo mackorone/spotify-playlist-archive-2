@@ -4,7 +4,7 @@
 
 > Chill, take a long walk and clear your mind\. Cover: Maali
 
-145 songs - 8 hr 13 min
+147 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [dawa](https://open.spotify.com/track/6DywLDHN945BpPggycAYYW) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE), [Junior Nyong'o](https://open.spotify.com/artist/6imCo4PzrfhOcKgLubOyXW) | [dawa](https://open.spotify.com/album/567zkX4DjYyss366DTflSG) | 2:38 | 2023-04-28 | 2025-03-07 |
 | [Dear Irene](https://open.spotify.com/track/1ZkB1206T0Thw3VRxXrg2y) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Genge Soul](https://open.spotify.com/album/17Mcjhdk3I8T20i6qwW2ad) | 3:43 | 2026-03-06 |  |
 | [Deja](https://open.spotify.com/track/3mcWzMKiK9QjwNrtIXzWSr) | [X.O](https://open.spotify.com/artist/2zu7sut23i4vR8OZPAxWyJ) | [Deja](https://open.spotify.com/album/5Wx3w6fhKT9sxwLxEyZbT1) | 2:35 | 2024-10-11 |  |
-| [Don’t Play](https://open.spotify.com/track/0QWeUCZEQ6ftUjWqghO5tV) | [Rita Wangui](https://open.spotify.com/artist/5cuAJxgVSsEtfaE5HozJ3C), [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB) | [Don’t Play](https://open.spotify.com/album/2Ny8cbedZfgUGpI2HcJvkO) | 2:29 | 2025-05-01 |  |
+| [Don't Chase Me Away](https://open.spotify.com/track/41UIC44Fw79UUdwlt9Vgqs) | [Cheruu](https://open.spotify.com/artist/1WWEewaDImH7Ty4qpHyPGB), [Chris Barr](https://open.spotify.com/artist/4RCcD8VHtHFG79JbhkBcpo) | [Don't Chase Me Away](https://open.spotify.com/album/3DeMDwnfny4OTTfSdkStY0) | 4:20 | 2026-07-02 |  |
+| [Don’t Play](https://open.spotify.com/track/0QWeUCZEQ6ftUjWqghO5tV) | [Rita Wangui](https://open.spotify.com/artist/5cuAJxgVSsEtfaE5HozJ3C), [Kxffy](https://open.spotify.com/artist/25ri60pzSMYa2YOUZlumhB) | [Don’t Play](https://open.spotify.com/album/2Ny8cbedZfgUGpI2HcJvkO) | 2:29 | 2025-05-01 | 2026-07-03 |
 | [EAST2HWOOD](https://open.spotify.com/track/7nsQGkE4LbDnGCp9lDs83t) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [EAST2HWOOD](https://open.spotify.com/album/2hpKS3D3i4J0UK9vkGmuVV) | 3:28 | 2025-10-09 |  |
 | [either way](https://open.spotify.com/track/3hTPxwM0qCSLW0TsV5lZGR) | [DENO](https://open.spotify.com/artist/6JnP9a6TJjhR0yexwK0MrK) | [Deno](https://open.spotify.com/album/1TS7cLIg70rJCzxNRYk83t) | 3:26 | 2024-10-17 |  |
 | [Enough](https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Enough](https://open.spotify.com/album/5GvLqmGHBeQ82Yo4TQ6Sgc) | 3:37 | 2022-11-11 | 2024-03-08 |
@@ -55,7 +56,7 @@
 | [Hope](https://open.spotify.com/track/5DALMIl0HFU351kCmSBbbY) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Mwīhoko: Ûtheri wa Ngoro](https://open.spotify.com/album/27n0r1a10eltqzoFqYMyqg) | 5:21 | 2025-02-27 | 2026-05-29 |
 | [HOW FAR](https://open.spotify.com/track/5UFBcKCxVaP7vEbD0BIOnl) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [GR!](https://open.spotify.com/artist/3OLtlWxh8Ht9pL5ke6gFkd), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [HOW FAR](https://open.spotify.com/album/3G1SyZ8rYlbONtvTRtmo0W) | 3:40 | 2024-05-16 | 2025-10-17 |
 | [Hujawahi Nipenda](https://open.spotify.com/track/1KpsGQ1CE8jOHBSAyqIz5e) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Hujawahi Nipenda](https://open.spotify.com/album/3FsC48Ey5w01pDux5ec2Um) | 2:30 | 2025-03-07 |  |
-| [I Choose You](https://open.spotify.com/track/3H1UMEoJkP8B4uW30pHIqY) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Salt & Water](https://open.spotify.com/album/0mJTNFNZLRK28lI0N7kXBW) | 3:14 | 2025-01-23 |  |
+| [I Choose You](https://open.spotify.com/track/3H1UMEoJkP8B4uW30pHIqY) | [Ochiko](https://open.spotify.com/artist/33hRHDCTA20GjDaJaCIEXi), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Salt & Water](https://open.spotify.com/album/0mJTNFNZLRK28lI0N7kXBW) | 3:14 | 2025-01-23 | 2026-07-03 |
 | [I HATED YOUR RELATIONSHIP](https://open.spotify.com/track/7fl8eAcXmlSiKH0fsaKglK) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [I WISH I WAS HONEST](https://open.spotify.com/album/1Tv0ZJXSTMZ7lI47lFvY1J) | 1:42 | 2025-11-10 | 2026-02-27 |
 | [i know](https://open.spotify.com/track/3ZVZLVsnBgO9ZnUhW7T2vo) | [The.wav](https://open.spotify.com/artist/1OiTKR7t69UAVnJYfbOPf4) | [i know](https://open.spotify.com/album/2AW9K8AgMIMT7dnXxYtQ1A) | 3:36 | 2025-10-16 |  |
 | [I'm Here](https://open.spotify.com/track/7joutRkcXCkujSPf9x5WB3) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [I'm Here](https://open.spotify.com/album/2Rj3tI88QYmUcSiC1Mqsp6) | 3:25 | 2024-03-08 | 2024-05-17 |
@@ -69,6 +70,7 @@
 | [Jane](https://open.spotify.com/track/3zFJ8238lGHVMA8oJoCyHf) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Muthoni Njoroge](https://open.spotify.com/artist/3UmkRFAyY476ELymys1RUP) | [Jane](https://open.spotify.com/album/04nFAFPbSLiJQRGPUIyi9i) | 2:57 | 2024-03-28 | 2025-02-28 |
 | [Jua Tua](https://open.spotify.com/track/0h8qRIECcUeHdGIlTviijb) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Zawadi Mukami](https://open.spotify.com/artist/49UnEPh42EMERfMtt6jf6v) | [Jua Tua](https://open.spotify.com/album/78jUt3tL1Vnm5M7I9qQvpY) | 1:47 | 2025-01-09 |  |
 | [Karma](https://open.spotify.com/track/6TWmMuc8pofbqBJA0jn4GW) | [Israel Onyach](https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK) | [Karma](https://open.spotify.com/album/6vxjwodaQOfH0QI2LJ63Qu) | 2:50 | 2022-11-11 | 2023-12-03 |
+| [Kidege](https://open.spotify.com/track/2WbEO8DRGaGuZUiawdVoDZ) | [Garvin Mungai](https://open.spotify.com/artist/1ySToM2gqZ2iLR89TBJX81) | [Leta Ngoma](https://open.spotify.com/album/1rX8TJwwfaEfhjp2v41emq) | 3:32 | 2026-07-02 |  |
 | [Kitanda Baridi](https://open.spotify.com/track/2eTVkoIsvzRmiOd1FiXwn5) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Kitanda Baridi](https://open.spotify.com/album/37koEdQDcJf6odt9woXGUu) | 2:56 | 2023-09-15 | 2026-04-03 |
 | [Kitanda Baridi](https://open.spotify.com/track/6pKPr8Q8DPtQ5HI0JMfTmx) | [Nasibi](https://open.spotify.com/artist/1XdK619e8CJcR5D5nxGF0h) | [Kitanda Baridi](https://open.spotify.com/album/7hJjPkoexYN13yHx7W7XhI) | 2:56 | 2024-02-23 | 2024-04-19 |
 | [Kizungu](https://open.spotify.com/track/6IOwNDCwz8TZ1MUpiI5nr9) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Ceke](https://open.spotify.com/artist/4mVKiUZ9zJwWX2p4wmNgO3) | [Kizungu](https://open.spotify.com/album/3QtoYICiNK1G0wE6SAHOaU) | 1:00 | 2025-10-16 |  |

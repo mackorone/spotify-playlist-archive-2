@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Linn da Quebrada",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Clau",
   "name": "Palco POP",
   "tracks": [
     {
@@ -3084,7 +3084,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 136089,
       "name": "Bem Bem",
       "url": "https://open.spotify.com/track/4NrrOkdXOKs1Wpwhr7iwQm"
@@ -3828,7 +3828,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 162339,
       "name": "Cada Linha",
       "url": "https://open.spotify.com/track/49gSrZDPSaWtmLZzkMW9Wt"
@@ -5964,7 +5964,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 161419,
       "name": "Deixa eu te sentir",
       "url": "https://open.spotify.com/track/3oE47KzHTOBEA5utcirjGy"
@@ -7893,6 +7893,24 @@
     },
     {
       "album": {
+        "name": "acho que sou rom\u00e2ntica",
+        "url": "https://open.spotify.com/album/7wuDPrpaqH1SSR2hbBqPbJ"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152042,
+      "name": "eu me entendo mal",
+      "url": "https://open.spotify.com/track/0bUkkwW1as6wy2ca6qkgtD"
+    },
+    {
+      "album": {
         "name": "Clube dos Cora\u00e7\u00f5es Partidos",
         "url": "https://open.spotify.com/album/5d7BXUEK9UPxdWYEP2KCXI"
       },
@@ -8340,7 +8358,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 146086,
       "name": "FAL",
       "url": "https://open.spotify.com/track/4Rs3vSQPDnvnQBmbw9pVY6"
@@ -8788,7 +8806,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 148571,
       "name": "Fim Do Mundo",
       "url": "https://open.spotify.com/track/1TXGRZDEFUtF58mLjsB5Gm"
@@ -9479,6 +9497,32 @@
     },
     {
       "album": {
+        "name": "F\u00faria",
+        "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
+      },
+      "artists": [
+        {
+          "name": "Mari Merenda",
+          "url": "https://open.spotify.com/artist/07FaEsHIaVZAFFHvNElpbQ"
+        },
+        {
+          "name": "Coral",
+          "url": "https://open.spotify.com/artist/6SzRzynHLo6kgimRw5k3cs"
+        },
+        {
+          "name": "Fervo Unboxing",
+          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193610,
+      "name": "F\u00faria",
+      "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
+    },
+    {
+      "album": {
         "name": "Gamadona",
         "url": "https://open.spotify.com/album/6DoLETGyvHHQekJP7gSkME"
       },
@@ -9900,7 +9944,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 152000,
       "name": "GPS",
       "url": "https://open.spotify.com/track/3lVIndILaskUQfGRVqDvrc"
@@ -13190,7 +13234,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 134755,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/75JqbHbQztZgSS3nZEcHU7"
@@ -13514,7 +13558,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 164000,
       "name": "MINA",
       "url": "https://open.spotify.com/track/6bms1AEgjJDu6TQaSTAEcR"
@@ -14594,7 +14638,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 146538,
       "name": "Noites de Neon",
       "url": "https://open.spotify.com/track/427JHB9CmpmxSten7B2isW"
@@ -15082,7 +15126,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 188556,
       "name": "N\u00e3o Solta Minha M\u00e3o",
       "url": "https://open.spotify.com/track/6xpnSqg4C2NRNke03phRFd"
@@ -15350,6 +15394,24 @@
       "duration_ms": 158620,
       "name": "O Quanto Foi Real",
       "url": "https://open.spotify.com/track/3EUNNrGiTcy5nRbhcSgiG2"
+    },
+    {
+      "album": {
+        "name": "4TOS",
+        "url": "https://open.spotify.com/album/3k3Vtq9NjtkO20JjqZuEC5"
+      },
+      "artists": [
+        {
+          "name": "Thomaz",
+          "url": "https://open.spotify.com/artist/2Y9JJi5tsqEFAzr1NY9Mag"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179277,
+      "name": "O Que Eu Fa\u00e7o Agora?",
+      "url": "https://open.spotify.com/track/2TljaRKmDH3pWvzL2t0I9s"
     },
     {
       "album": {
@@ -15999,6 +16061,24 @@
     },
     {
       "album": {
+        "name": "Intimidade",
+        "url": "https://open.spotify.com/album/7qy5aY3pd86WAZ4fcHBmOg"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169806,
+      "name": "Ontem",
+      "url": "https://open.spotify.com/track/5hTvRRMr5FajVMIHfuoss8"
+    },
+    {
+      "album": {
         "name": "Oops!...I did it again",
         "url": "https://open.spotify.com/album/461OzAXwOEkJizU1lbjePv"
       },
@@ -16540,7 +16620,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 161764,
       "name": "Pedacin de Mim",
       "url": "https://open.spotify.com/track/3a4c19yPZKQaSShh6KiwYG"
@@ -18354,7 +18434,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 190453,
       "name": "Prova Final - Lance de Escola 4: Cora\u00e7\u00f5es em Jogo",
       "url": "https://open.spotify.com/track/4xu0GjtwzvqdxZWPCXRCmB"
@@ -18424,7 +18504,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Pura Poesia",
       "url": "https://open.spotify.com/track/1ShgI2Qw5D1QeHGscqojEi"
@@ -20118,7 +20198,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 236495,
       "name": "Saudade",
       "url": "https://open.spotify.com/track/7GG0LrteBlJ1Rvkn33S4tf"
@@ -22096,6 +22176,24 @@
       "duration_ms": 132351,
       "name": "T \u00d3 X I C O",
       "url": "https://open.spotify.com/track/7a0ik6D4mG9zqQqOGunsPA"
+    },
+    {
+      "album": {
+        "name": "TALVEZ",
+        "url": "https://open.spotify.com/album/50T4v8yCb0Goip3Jw5RLuo"
+      },
+      "artists": [
+        {
+          "name": "Pri Jardim",
+          "url": "https://open.spotify.com/artist/5KdNzdjfk8cr8cttGMzkg1"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156694,
+      "name": "TALVEZ",
+      "url": "https://open.spotify.com/track/4BuvuVojKBW8jLiTdLStkY"
     },
     {
       "album": {
@@ -24322,7 +24420,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 185333,
       "name": "Vida N\u00e3o Termina",
       "url": "https://open.spotify.com/track/7rxzphWZZtbafKVESNRpbi"

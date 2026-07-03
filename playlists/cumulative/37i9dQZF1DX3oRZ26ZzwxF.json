@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : 3xdavs",
+  "description": "Le meilleur du rap africain francophone. Photo : Tazeboy",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -1609,6 +1609,32 @@
     },
     {
       "album": {
+        "name": "Choquer (Remix)",
+        "url": "https://open.spotify.com/album/7mGIl85U1wp5bykcTy5CSq"
+      },
+      "artists": [
+        {
+          "name": "CJ Tell'm",
+          "url": "https://open.spotify.com/artist/2fAo6honVWkCul5xO8y97T"
+        },
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
+          "name": "Westye Hemsley",
+          "url": "https://open.spotify.com/artist/7qyDU2GYP53VlSmu8QFQxP"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Choquer - Remix",
+      "url": "https://open.spotify.com/track/52IpZCKuXoJR0dtRVjIXr8"
+    },
+    {
+      "album": {
         "name": "Ciastyle 4",
         "url": "https://open.spotify.com/album/0oK4NXfFg9FRPoWWsgo71G"
       },
@@ -1736,6 +1762,28 @@
       "duration_ms": 170400,
       "name": "Commando",
       "url": "https://open.spotify.com/track/2x8SaiCPgnkqakvBn5ovk6"
+    },
+    {
+      "album": {
+        "name": "Comme \u00e7a",
+        "url": "https://open.spotify.com/album/4lI2S1yGoRB7QiLdiXUNac"
+      },
+      "artists": [
+        {
+          "name": "Miedjia",
+          "url": "https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX"
+        },
+        {
+          "name": "Suspect 95",
+          "url": "https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183508,
+      "name": "Comme \u00e7a",
+      "url": "https://open.spotify.com/track/6cAfOKQQULYogHO1KiHoHK"
     },
     {
       "album": {
@@ -2470,7 +2518,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 192000,
       "name": "D\u00e9brancher Drill",
       "url": "https://open.spotify.com/track/0HqvJZowFcAqlI85veoDhO"
@@ -2794,6 +2842,28 @@
       "duration_ms": 112156,
       "name": "Faut Bouai !",
       "url": "https://open.spotify.com/track/5UFVfnSCRM3bEN4j5IMRTp"
+    },
+    {
+      "album": {
+        "name": "FAUT LAISSER \u00c7A",
+        "url": "https://open.spotify.com/album/3m7qetSTNepED01bjPRYUG"
+      },
+      "artists": [
+        {
+          "name": "IB-RA",
+          "url": "https://open.spotify.com/artist/0Y1Oe1ueiQzwkunkwWT9MF"
+        },
+        {
+          "name": "gbon lion",
+          "url": "https://open.spotify.com/artist/7LN8MqS4KaUvgLsACYweZY"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155250,
+      "name": "FAUT LAISSER \u00c7A",
+      "url": "https://open.spotify.com/track/2MaX9mFvrZnSVE2VuSMAGG"
     },
     {
       "album": {
@@ -3284,7 +3354,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 208380,
       "name": "Gros Nerfs",
       "url": "https://open.spotify.com/track/5KR5mC0IKDrnStz30QsErS"
@@ -3582,7 +3652,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 154971,
       "name": "JENSHIMIDJEKA",
       "url": "https://open.spotify.com/track/3t69WkD5eIjRP1x32CmgvK"
@@ -3644,7 +3714,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 169491,
       "name": "Juice",
       "url": "https://open.spotify.com/track/3FKMnb3BpxnPtLviwtNz1v"
@@ -5560,7 +5630,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 183652,
       "name": "PAS COMME NOUS",
       "url": "https://open.spotify.com/track/0QTIYn0tbSyUg9a4JsZEXJ"
@@ -5600,7 +5670,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 201980,
       "name": "Pein\u00e9",
       "url": "https://open.spotify.com/track/6XbRYqWGuc93IvNO0itIav"
@@ -5880,7 +5950,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 124178,
       "name": "PTC - Pas Ton Camarade",
       "url": "https://open.spotify.com/track/0chCdnKhMHGNfzsqK8yQkZ"
@@ -6767,6 +6837,24 @@
     },
     {
       "album": {
+        "name": "BAO BANGA",
+        "url": "https://open.spotify.com/album/5YGM1GFxEz7tIYTsyrw9ju"
+      },
+      "artists": [
+        {
+          "name": "Cash Crime",
+          "url": "https://open.spotify.com/artist/7ycoKUNT2nsxYHaJMJBOyn"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147754,
+      "name": "TOP SHOTTA",
+      "url": "https://open.spotify.com/track/2CH52qHiWiOhwD7T1moWZq"
+    },
+    {
+      "album": {
         "name": "BABI TAPE Vol.1",
         "url": "https://open.spotify.com/album/2U7lnGy6lvqtL4v5prqaPZ"
       },
@@ -7223,6 +7311,28 @@
     },
     {
       "album": {
+        "name": "VERS BABI",
+        "url": "https://open.spotify.com/album/12fSbASWi5g2Vx5JMso2Q0"
+      },
+      "artists": [
+        {
+          "name": "El Mvnolo",
+          "url": "https://open.spotify.com/artist/2o4gVgLrZwTpXTZvi6KZcS"
+        },
+        {
+          "name": "TRK.",
+          "url": "https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "VERS BABI",
+      "url": "https://open.spotify.com/track/0CzKp4E4QuKXmUfC3e7BDE"
+    },
+    {
+      "album": {
         "name": "LOVE CONTENT (Pt. 1)",
         "url": "https://open.spotify.com/album/708N6j6rRage0rjl7p0qC4"
       },
@@ -7404,6 +7514,24 @@
       "duration_ms": 190000,
       "name": "WOLOLO",
       "url": "https://open.spotify.com/track/23l3SynQyICHQSUT3TK4br"
+    },
+    {
+      "album": {
+        "name": "REINE MARLA",
+        "url": "https://open.spotify.com/album/5m5OTC6SVzEidWQP87lO7Q"
+      },
+      "artists": [
+        {
+          "name": "Marla",
+          "url": "https://open.spotify.com/artist/0mucJeDL0Mvb5KES4NhiHG"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "WOLOSSO",
+      "url": "https://open.spotify.com/track/1R04AZROC1WGL7oWQ4v81E"
     },
     {
       "album": {

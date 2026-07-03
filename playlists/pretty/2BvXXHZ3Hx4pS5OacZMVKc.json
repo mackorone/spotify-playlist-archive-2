@@ -1,13 +1,29 @@
 {
   "description": "NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming",
-  "num_followers": 130805,
+  "num_followers": 130801,
   "original_name": "Gaming Music 2026",
   "owner": {
     "name": "NCS",
     "url": "https://open.spotify.com/user/nocopyrightsounds"
   },
-  "snapshot_id": "AAAMkaNSmfqhhLGgocETJCA/CSfMD7Qi",
+  "snapshot_id": "AAAMk0RewnuWgoez5zWFQkWf1uEOZoUL",
   "tracks": [
+    {
+      "added_at": "2026-07-02 14:59:12",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/4KffaEW9LYPlX8X05GAsEh"
+      },
+      "artists": [
+        {
+          "name": "Yere",
+          "url": "https://open.spotify.com/artist/4lzDszfgtJrnmeBfDu9dt7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/4TyACVjpkAm349tginl3V6"
+    },
     {
       "added_at": "2026-06-23 09:05:42",
       "album": {

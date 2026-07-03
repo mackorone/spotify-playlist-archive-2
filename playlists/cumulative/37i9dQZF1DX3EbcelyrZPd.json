@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Darassa",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Jux & Mbosso",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -2248,7 +2248,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 149230,
       "name": "DUNIA",
       "url": "https://open.spotify.com/track/3Psi2mv83ZwmHSegwbEgI3"
@@ -4589,6 +4589,36 @@
     },
     {
       "album": {
+        "name": "kama kawa",
+        "url": "https://open.spotify.com/album/6fCL3uxX3PjlxaGNyiaqfd"
+      },
+      "artists": [
+        {
+          "name": "Rody Joh",
+          "url": "https://open.spotify.com/artist/2g9iMz4DMuBmhpfardxfjr"
+        },
+        {
+          "name": "Santana Beatz",
+          "url": "https://open.spotify.com/artist/4pPIzitTZTF69SzA2FxHaE"
+        },
+        {
+          "name": "Blvcq",
+          "url": "https://open.spotify.com/artist/0rr6ch0Jablm2gheqvTj6Q"
+        },
+        {
+          "name": "Johmarley",
+          "url": "https://open.spotify.com/artist/1ZCdxDw1ymcutdLDAPdpHV"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265747,
+      "name": "kama kawa",
+      "url": "https://open.spotify.com/track/612wlLKIahLYeTq1BhGcNi"
+    },
+    {
+      "album": {
         "name": "Kama Sio",
         "url": "https://open.spotify.com/album/3jlIsMfVbLH2l8aS8EgDvJ"
       },
@@ -4884,6 +4914,28 @@
       "duration_ms": 179467,
       "name": "Kijiti",
       "url": "https://open.spotify.com/track/1zyYGhm0hcsiAeez7izNQY"
+    },
+    {
+      "album": {
+        "name": "Kipepeo",
+        "url": "https://open.spotify.com/album/1sE6KMceLHz58hOeMvJqpJ"
+      },
+      "artists": [
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        },
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215399,
+      "name": "Kipepeo",
+      "url": "https://open.spotify.com/track/7wgDADTAOcEh6H3RRjo6PX"
     },
     {
       "album": {
@@ -5262,6 +5314,24 @@
       "duration_ms": 140016,
       "name": "Kula Bia",
       "url": "https://open.spotify.com/track/2q9edzSzOQbeb01gZJ8rcL"
+    },
+    {
+      "album": {
+        "name": "Kumbe",
+        "url": "https://open.spotify.com/album/20hCsxkV1X5ipI9g1Yojh3"
+      },
+      "artists": [
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207373,
+      "name": "Kumbe",
+      "url": "https://open.spotify.com/track/2Xcvr4o54F8lib8ptIgSDO"
     },
     {
       "album": {
@@ -6090,7 +6160,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 146000,
       "name": "MAJO",
       "url": "https://open.spotify.com/track/3iNaSkn53KpB0DM6MvC64r"
@@ -6884,7 +6954,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 155933,
       "name": "Moyo",
       "url": "https://open.spotify.com/track/4d6BHR0B4oyD7EeJ3L7qCs"
@@ -8210,7 +8280,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 158918,
       "name": "Ni Mungu (feat. Mr Seed)",
       "url": "https://open.spotify.com/track/2VD8MBSd3atd6ynnkn4vW4"

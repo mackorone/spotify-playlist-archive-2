@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 
 > La playlist des artistes LGBTQIA+\. Photo : Bilal Hassani
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,643 likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,645 likes - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2D4YSkCZ0rP.md) - [plain]
 | 39 | [Time To Start Again](https://open.spotify.com/track/3WMXnozHORJk2Ztxr3UWpa) | [JANIS](https://open.spotify.com/artist/6yUYZsMTveUZ8yo8wsKSLN) | [Dolls](https://open.spotify.com/album/7d2hcNTA1ACfT3bgqMvTiG) | 3:16 |
 | 40 | [Game Boy](https://open.spotify.com/track/6C84xFZxi1COpM5e9DhVLo) | [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Turbostérone](https://open.spotify.com/album/5lEqVN5cXAIOQgH2aLttnm) | 3:12 |
 
-Snapshot ID: `AAAAAAP1R+dCBffdCJTltX8Lk9GGRYmm`
+Snapshot ID: `AAAAAKavgyBc42hYCValPWWu2TBxSEBT`

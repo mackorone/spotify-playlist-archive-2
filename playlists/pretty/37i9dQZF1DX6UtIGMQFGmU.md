@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UtIGMQFGmU.md) - [plain]
 
 > Gamma waves at 40 Hz and above\. For concentration and studying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 957 likes - 85 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023 likes - 85 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UtIGMQFGmU.md) - [plain]
 | 84 | [Idea Clarity](https://open.spotify.com/track/2p8M0dJ01lCNqWIdmWvVrS) | [Brain Floss](https://open.spotify.com/artist/03KCPs5hK1dddITbxrGMmf) | [40 Hz Idea Spark](https://open.spotify.com/album/795nqZJTk1rdvSZ0GHUBPO) | 2:00 |
 | 85 | [Gamma Insight Nexus](https://open.spotify.com/track/7g2zwkyvNX22uNgDTSKVhj) | [Brain Waves Frequencies](https://open.spotify.com/artist/6BXvU4PUfDo4DfVP3t6lUN), [Binaural Vibrations](https://open.spotify.com/artist/6ng7nKHtEtKK9E6c43Ehmk) | [Gamma Waves: Cognitive Enhancement](https://open.spotify.com/album/4SIkXMhOLBOxBc13YpZ6Nt) | 2:09 |
 
-Snapshot ID: `AAAAALpiaQm8Oyx+9rFyTCVR3yVh9bek`
+Snapshot ID: `AAAAAPeBo8qRSWUGHtaBVbOt8EtSwFR3`

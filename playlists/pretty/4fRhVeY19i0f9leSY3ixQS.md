@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,438 likes - 310 songs - 17 hr 8 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,438 likes - 312 songs - 17 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -308,15 +308,17 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 298 | [Stopper](https://open.spotify.com/track/7vEEf6XAbvgZyU2yqSRoVV) | [Rubber Block](https://open.spotify.com/artist/45JwohjuGbElTpuk8Kqjuk) | [Stopper](https://open.spotify.com/album/69u0Ga3XbXrLv8AUZNUzJF) | 5:24 |
 | 299 | [Dancing With Vampires \(radio edit\)](https://open.spotify.com/track/3Y34fyL6LOtIBTKfaWkL8Y) | [The Tirith](https://open.spotify.com/artist/6maMrnItmcybGcOkYqSQKT) | [Dancing With Vampires \(radio edit\)](https://open.spotify.com/album/3g0SmmfQVbNY7T4UPXnTjA) | 3:54 |
 | 300 | [Tony Cock's Pro Skater 4](https://open.spotify.com/track/25oXthXP9SRfrSXSNyNCOu) | [Crash Babes](https://open.spotify.com/artist/6asewEumtDuEwZ0LqQGx59) | [Tony Cock's Pro Skater 4](https://open.spotify.com/album/3VyqhbCx15VQMLqHkz987u) | 2:59 |
-| 301 | [The One](https://open.spotify.com/track/4H2PVXZMwH0TnSTuMfHHs2) | [Iettry](https://open.spotify.com/artist/0SaKqSGuTUgkjd3ms0iBMB) | [The One](https://open.spotify.com/album/70kBGUnNybdymYnu6x2oz4) | 2:42 |
-| 302 | [Gone](https://open.spotify.com/track/5blvbL1nnzJiPwNkcFNrp4) | [Melexo](https://open.spotify.com/artist/5rOtSodS6Uf2sAWsjhjHXM) | [Gone](https://open.spotify.com/album/3PMzLzF9eXpcTGfPiB0HMm) | 3:08 |
-| 303 | [She's Undone Me \- Remaster](https://open.spotify.com/track/19nHBw5kkMfz5PA9Fs4fCy) | [4est Fleur](https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK) | [She's Undone Me \(Remaster\)](https://open.spotify.com/album/7fTqYSdlh9k57M6I3gxU4f) | 2:50 |
-| 304 | [He´s Coming For You](https://open.spotify.com/track/4IWccZBLqKHQcG3mXGpl0y) | [One Step Further](https://open.spotify.com/artist/6fH2lrvMgsYCJdBIvgjgm0) | [He´s Coming For You](https://open.spotify.com/album/6hfLj6CeayrFKAP6SPad95) | 4:54 |
-| 305 | [La Tua Mamma è Una Stronza](https://open.spotify.com/track/7cvbWbnySdvq89pCkM2ob0) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [La Tua Mamma è Una Stronza](https://open.spotify.com/album/14zghGQAgrWa10SV4zEAeh) | 2:12 |
-| 306 | [Gun Alba](https://open.spotify.com/track/1mAJfO1yatGtqRKjdc8JIp) | [Gun Ghaol](https://open.spotify.com/artist/1Wx6yzsgdgwB65T3uvEXux) | [Gun \| Alba](https://open.spotify.com/album/0IROZYfxprDGloGEbkzcd6) | 3:11 |
-| 307 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 |
-| 308 | [Museum](https://open.spotify.com/track/5O8eoERqd2cbvn887Gyfjt) | [Spill](https://open.spotify.com/artist/2tC6hqb6gqpLnCoZ5fI323) | [Museum](https://open.spotify.com/album/7zlJLNqmekNYTbT0azdiBT) | 4:09 |
-| 309 | [Television War](https://open.spotify.com/track/4YvWj5XMgtHAqORatyJuVP) | [Brenso](https://open.spotify.com/artist/56W6bwD2W4blOzdXURs1DE) | [Television War](https://open.spotify.com/album/2cZkYUiZXfQ3XLhUxsuFVm) | 2:09 |
-| 310 | [Spinning](https://open.spotify.com/track/0xDyesueEZRtm8GMV7PjW3) | [Vaudevilles](https://open.spotify.com/artist/0Zh7mPNzbGkS6F5rgXPrfX) | [Spinning](https://open.spotify.com/album/5779jVW9nZJopL21dLqLyy) | 3:19 |
+| 301 | [Cage](https://open.spotify.com/track/3TurCW23kV3k57o4L96Y8R) | [Wave Raiders](https://open.spotify.com/artist/3gHc7IjiVFconlcRcSpXXn) | [Cage](https://open.spotify.com/album/5DwSWfbBq628mkcHtn4VaP) | 3:23 |
+| 302 | [The One](https://open.spotify.com/track/4H2PVXZMwH0TnSTuMfHHs2) | [Iettry](https://open.spotify.com/artist/0SaKqSGuTUgkjd3ms0iBMB) | [The One](https://open.spotify.com/album/70kBGUnNybdymYnu6x2oz4) | 2:42 |
+| 303 | [Gone](https://open.spotify.com/track/5blvbL1nnzJiPwNkcFNrp4) | [Melexo](https://open.spotify.com/artist/5rOtSodS6Uf2sAWsjhjHXM) | [Gone](https://open.spotify.com/album/3PMzLzF9eXpcTGfPiB0HMm) | 3:08 |
+| 304 | [She's Undone Me \- Remaster](https://open.spotify.com/track/19nHBw5kkMfz5PA9Fs4fCy) | [4est Fleur](https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK) | [She's Undone Me \(Remaster\)](https://open.spotify.com/album/7fTqYSdlh9k57M6I3gxU4f) | 2:50 |
+| 305 | [He´s Coming For You](https://open.spotify.com/track/4IWccZBLqKHQcG3mXGpl0y) | [One Step Further](https://open.spotify.com/artist/6fH2lrvMgsYCJdBIvgjgm0) | [He´s Coming For You](https://open.spotify.com/album/6hfLj6CeayrFKAP6SPad95) | 4:54 |
+| 306 | [La Tua Mamma è Una Stronza](https://open.spotify.com/track/7cvbWbnySdvq89pCkM2ob0) | [PIMPLES MARMALADE](https://open.spotify.com/artist/0vWyPJdGVvJeEgyvCOUUGI) | [La Tua Mamma è Una Stronza](https://open.spotify.com/album/14zghGQAgrWa10SV4zEAeh) | 2:12 |
+| 307 | [Gun Alba](https://open.spotify.com/track/1mAJfO1yatGtqRKjdc8JIp) | [Gun Ghaol](https://open.spotify.com/artist/1Wx6yzsgdgwB65T3uvEXux) | [Gun \| Alba](https://open.spotify.com/album/0IROZYfxprDGloGEbkzcd6) | 3:11 |
+| 308 | [Leave](https://open.spotify.com/track/24eQ0gaztPwAT44pHozFI5) | [The Color Blew](https://open.spotify.com/artist/6mnHAaGTCbeNA07xwFbWvz) | [Leave](https://open.spotify.com/album/2CadloDYbh46qgdzOWfoQ0) | 3:08 |
+| 309 | [Museum](https://open.spotify.com/track/5O8eoERqd2cbvn887Gyfjt) | [Spill](https://open.spotify.com/artist/2tC6hqb6gqpLnCoZ5fI323) | [Museum](https://open.spotify.com/album/7zlJLNqmekNYTbT0azdiBT) | 4:09 |
+| 310 | [Television War](https://open.spotify.com/track/4YvWj5XMgtHAqORatyJuVP) | [Brenso](https://open.spotify.com/artist/56W6bwD2W4blOzdXURs1DE) | [Television War](https://open.spotify.com/album/2cZkYUiZXfQ3XLhUxsuFVm) | 2:09 |
+| 311 | [Spinning](https://open.spotify.com/track/0xDyesueEZRtm8GMV7PjW3) | [Vaudevilles](https://open.spotify.com/artist/0Zh7mPNzbGkS6F5rgXPrfX) | [Spinning](https://open.spotify.com/album/5779jVW9nZJopL21dLqLyy) | 3:19 |
+| 312 | [Just a Little](https://open.spotify.com/track/5gTqfu1tnwW4FRWVPWwAHB) | [Touch of Red](https://open.spotify.com/artist/07GYobUq3xeoOIhrqJ2Bc1) | [In Our Nature](https://open.spotify.com/album/3OpeVn7ARilpWiXIgZS6j3) | 4:34 |
 
-Snapshot ID: `AAARKkCUSItVu4761VYYCsiUqzWkcJUO`
+Snapshot ID: `AAARLOX48DJdTf88vRieWb3DqYNTI9dN`

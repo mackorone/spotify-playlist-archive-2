@@ -1,6 +1,6 @@
 {
   "description": "Are you afraid of the dark?",
-  "num_followers": 460046,
+  "num_followers": 460059,
   "original_name": "Spooky",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Hazards",
-        "url": "https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy"
-      },
-      "artists": [
-        {
-          "name": "Penelope Scott",
-          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
-        }
-      ],
-      "duration_ms": 199496,
-      "name": "Dead Girls",
-      "url": "https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "My Love Is Cool",
         "url": "https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 243986,
       "name": "Silk",
       "url": "https://open.spotify.com/track/5VWtavZNYlK6m6MQY6YRg1"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Hazards",
+        "url": "https://open.spotify.com/album/6JkLfqjyQrRAmhCE6J9QTy"
+      },
+      "artists": [
+        {
+          "name": "Penelope Scott",
+          "url": "https://open.spotify.com/artist/3u6lPufHw4Oww6D88rv6sB"
+        }
+      ],
+      "duration_ms": 199496,
+      "name": "Dead Girls",
+      "url": "https://open.spotify.com/track/2sVltS0DdwGGRphHfDtV3j"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "Blurrr",
-        "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
-      },
-      "artists": [
-        {
-          "name": "Joanne Robertson",
-          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
-        }
-      ],
-      "duration_ms": 268194,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/35TWPLjC6Iak3kAaA5yldE"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "They Moved In Shadow All Together",
         "url": "https://open.spotify.com/album/2SuFHw70l56dvXHijLQUK1"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 279000,
       "name": "Nightmares on Repeat",
       "url": "https://open.spotify.com/track/5j86pOXbQwoJUmTJj3xiUc"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "Blurrr",
+        "url": "https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D"
+      },
+      "artists": [
+        {
+          "name": "Joanne Robertson",
+          "url": "https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L"
+        }
+      ],
+      "duration_ms": 268194,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/35TWPLjC6Iak3kAaA5yldE"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "How Are You Feeling?",
-        "url": "https://open.spotify.com/album/3ACiWjaBoShElZRG9btFRc"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 269140,
-      "name": "How Are You Feeling?",
-      "url": "https://open.spotify.com/track/0mZfp1Sdj9zLJGbNykMnZd"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "Spelling",
         "url": "https://open.spotify.com/album/4h5jADzyNAA7MlHOpoMNoN"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 182778,
       "name": "Valley Ghoul",
       "url": "https://open.spotify.com/track/4Gpvffa23tFfBjbusONE01"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "How Are You Feeling?",
+        "url": "https://open.spotify.com/album/3ACiWjaBoShElZRG9btFRc"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 269140,
+      "name": "How Are You Feeling?",
+      "url": "https://open.spotify.com/track/0mZfp1Sdj9zLJGbNykMnZd"
     },
     {
       "added_at": "2026-02-19 15:33:55",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-02-19 15:33:55",
       "album": {
-        "name": "So Medieval",
-        "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
-      },
-      "artists": [
-        {
-          "name": "Blue Bendy",
-          "url": "https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG"
-        }
-      ],
-      "duration_ms": 200281,
-      "name": "Darp 2 / Exorcism",
-      "url": "https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn"
-    },
-    {
-      "added_at": "2026-02-19 15:33:55",
-      "album": {
         "name": "...and she's still listening",
         "url": "https://open.spotify.com/album/1PQDwOUx0dHqhBsWPeSDMr"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 189260,
       "name": "anything at all",
       "url": "https://open.spotify.com/track/2UbB04Qygii9CL3WLdsXvb"
+    },
+    {
+      "added_at": "2026-02-19 15:33:55",
+      "album": {
+        "name": "So Medieval",
+        "url": "https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C"
+      },
+      "artists": [
+        {
+          "name": "Blue Bendy",
+          "url": "https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG"
+        }
+      ],
+      "duration_ms": 200281,
+      "name": "Darp 2 / Exorcism",
+      "url": "https://open.spotify.com/track/4peyXn5Y2L8m8nKFdCfNOn"
     },
     {
       "added_at": "2026-02-19 15:33:55",

@@ -2228,7 +2228,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 308268,
       "name": "Aldrei f\u00f3r \u00e9g su\u00f0ur",
       "url": "https://open.spotify.com/track/3kfDamWWa5tQXdS3Kgu0xi"
@@ -14380,7 +14380,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -32476,7 +32476,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 206812,
       "name": "LAS \u00c1 MILLI L\u00cdNANNA",
       "url": "https://open.spotify.com/track/4bVRfUL52xfL8Yh9W5mgSp"
@@ -35174,7 +35174,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-07",
+      "date_removed": null,
       "duration_ms": 212520,
       "name": "LXS",
       "url": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
@@ -37178,7 +37178,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 144775,
       "name": "Miklu betri einn",
       "url": "https://open.spotify.com/track/5DFkMQKi0vlTWoILzaFpc4"
@@ -37582,7 +37582,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 184212,
       "name": "Mitt Litla Leyndarm\u00e1l",
       "url": "https://open.spotify.com/track/4pXl4BU2KqwsplN0tCJX4U"
@@ -53050,7 +53050,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -59866,7 +59866,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 215945,
       "name": "Undir \u00fe\u00ednum \u00e1hrifum",
       "url": "https://open.spotify.com/track/39hxADdgW2sGdUn0xBqWDb"
@@ -61512,7 +61512,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 200106,
       "name": "Vopn",
       "url": "https://open.spotify.com/track/7fc5fotKDfgeD8v0NPEG3g"
@@ -66377,6 +66377,24 @@
     },
     {
       "album": {
+        "name": "\u00d3 elsku \u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0",
+        "url": "https://open.spotify.com/album/7hmnusXkuvxdcrccySE5js"
+      },
+      "artists": [
+        {
+          "name": "PATR!K",
+          "url": "https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "\u00d3 elsku \u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0",
+      "url": "https://open.spotify.com/track/4qKYw6OL6eBlmKDau5NPWS"
+    },
+    {
+      "album": {
         "name": "ORS\u00d6K // AFLEI\u00d0ING",
         "url": "https://open.spotify.com/album/5YjMWFYk4T5OlNy5BKrspX"
       },
@@ -66854,7 +66872,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-05",
+      "date_removed": null,
       "duration_ms": 189197,
       "name": "\u00deA\u00d0 ER",
       "url": "https://open.spotify.com/track/4cNNvGljdj1Y8dithkD6XR"
@@ -66890,7 +66908,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 286348,
       "name": "\u00dea\u00f0 er gott a\u00f0 elska",
       "url": "https://open.spotify.com/track/6I8wic0mBs7uEvwiCTOTlt"

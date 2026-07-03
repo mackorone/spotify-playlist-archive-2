@@ -1825,6 +1825,28 @@
     },
     {
       "album": {
+        "name": "CARACAS",
+        "url": "https://open.spotify.com/album/6lZIFCI3QgDXp5Woakmw7G"
+      },
+      "artists": [
+        {
+          "name": "Kalionte",
+          "url": "https://open.spotify.com/artist/4EXgod8ey7HXn2o8zAOcAQ"
+        },
+        {
+          "name": "CLAVO",
+          "url": "https://open.spotify.com/artist/1qHMq6qI0GjOVzrj5BpfV0"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126861,
+      "name": "CARACAS",
+      "url": "https://open.spotify.com/track/46qBqierqPc0ilaD0sHkqV"
+    },
+    {
+      "album": {
         "name": "CARCERATO",
         "url": "https://open.spotify.com/album/6rXFhqzxwv5eX1TGzj2mJq"
       },
@@ -2126,6 +2148,28 @@
       "duration_ms": 186988,
       "name": "Chanel",
       "url": "https://open.spotify.com/track/7pDIFkymxnMAGzCdvICFb3"
+    },
+    {
+      "album": {
+        "name": "CHAPO",
+        "url": "https://open.spotify.com/album/72hyZxGu9Ou2OaX60WQSZY"
+      },
+      "artists": [
+        {
+          "name": "EYKEY",
+          "url": "https://open.spotify.com/artist/3aOWq3jfuEv9aBQXqW8iTe"
+        },
+        {
+          "name": "LM219",
+          "url": "https://open.spotify.com/artist/0SEG7Ff6V4mtPLDpR9KuEZ"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "CHAPO",
+      "url": "https://open.spotify.com/track/14TsNrxyopRFvQI86o7ui4"
     },
     {
       "album": {

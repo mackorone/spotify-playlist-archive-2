@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-598 songs - 1 day 13 hr 16 min
+599 songs - 1 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Dance Like Fire](https://open.spotify.com/track/0lD3Yvnwpl68HXdnK5USQY) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Dance Like Fire](https://open.spotify.com/album/6o6tQVzAm3bMaPNvHGNxwC) | 3:42 | 2025-11-17 | 2025-12-17 |
 | [Dandelion](https://open.spotify.com/track/3PHi0kUawFptkqvvKhhMb6) | [The Multides](https://open.spotify.com/artist/7HqgbkLWNLbSNK7BjCU6Sq) | [Dark Skies](https://open.spotify.com/album/2f1rOpD32zEodoeo2a9B3d) | 3:10 | 2025-11-08 | 2025-12-17 |
 | [Dans l'ombre des heures](https://open.spotify.com/track/6siro0UcA1DAOiHGxpMYCb) | [Zaré](https://open.spotify.com/artist/7bSj4WmjeZYWoUnRSG8yz1) | [Dans l'ombre des heures](https://open.spotify.com/album/69LAwjnFepT1M6CKhXd4KK) | 2:52 | 2026-04-23 | 2026-06-25 |
-| [Day After Day](https://open.spotify.com/track/6JqRwcxebRnLzJBxaqNxcS) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 5:50 | 2025-09-21 |  |
+| [Day After Day](https://open.spotify.com/track/6JqRwcxebRnLzJBxaqNxcS) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 5:50 | 2025-09-21 | 2026-07-03 |
 | [Day by Day](https://open.spotify.com/track/2X8QZIyTwBxrrdDJBCcK9q) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw) | [Home \(10 Years\)](https://open.spotify.com/album/2IGD8K4B7qiREEIJFLaJ0j) | 4:44 | 2025-09-21 |  |
 | [De sol a sol](https://open.spotify.com/track/6zthGcyvorLaeLgfIhxVvM) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:47 | 2025-10-04 | 2025-11-28 |
 | [Deadly Bargain](https://open.spotify.com/track/2GcKDv6tEGW1It3WTTxbxQ) | [The Thick Uns'](https://open.spotify.com/artist/6ccHRbcIouqzsSExLYiRCq) | [Deadly Bargain](https://open.spotify.com/album/5vphnozEZ5bBylR35UxvG2) | 3:35 | 2025-11-22 | 2025-12-17 |
@@ -220,7 +220,7 @@
 | [Green Giants March](https://open.spotify.com/track/6EfCto1xF9NLpZt8469sbX) | [Jaxx.13](https://open.spotify.com/artist/1pV2GA9n5xplcSgg58F3Xn), [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Alex.13](https://open.spotify.com/artist/74kwMd6oJzppv5s1b6RhVV) | [Green Giants March](https://open.spotify.com/album/0ZXdBFVaPAfzZNrleHHvIM) | 2:30 | 2026-01-06 | 2026-03-18 |
 | [Grinder Minder](https://open.spotify.com/track/7nmyUuAJDJ0O9VRF7Lv8NR) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Grinder Minder](https://open.spotify.com/album/1SperF6SKGWOeLHv3kG5gl) | 3:06 | 2026-01-29 | 2026-03-18 |
 | [Groove of the Soul](https://open.spotify.com/track/661nbgxeFKG1G90ZZ6blQR) | [Carlito Home](https://open.spotify.com/artist/0txTwV2vs7SBaepqBjalf0) | [Groove of the Soul](https://open.spotify.com/album/2wbyS7AgWdskZAJmkJiQFB) | 4:31 | 2026-05-25 |  |
-| [Guerrero](https://open.spotify.com/track/4WcNVDm7F46de4XaCZiO5B) | [Wilson Ramírez](https://open.spotify.com/artist/7lPZcZVYj28uttO8cLsJ3Z) | [Guerrero](https://open.spotify.com/album/025nIW94c2Tsf5xx1Fbhp7) | 4:34 | 2025-09-21 |  |
+| [Guerrero](https://open.spotify.com/track/4WcNVDm7F46de4XaCZiO5B) | [Wilson Ramírez](https://open.spotify.com/artist/7lPZcZVYj28uttO8cLsJ3Z) | [Guerrero](https://open.spotify.com/album/025nIW94c2Tsf5xx1Fbhp7) | 4:34 | 2025-09-21 | 2026-07-03 |
 | [Half\-Life of a Heartbeat](https://open.spotify.com/track/2P9XNblTIpL9ioNcCbQymA) | [Billy Zain](https://open.spotify.com/artist/4Ee9brJj365XxmzTtgz3cA) | [Ink and Amber](https://open.spotify.com/album/7FvBEOcjFPjcma46YjY8XL) | 3:48 | 2026-04-28 | 2026-05-26 |
 | [Halfway Down The Road](https://open.spotify.com/track/5lkJZmsHA2dTQLNUB4Otka) | [Lark](https://open.spotify.com/artist/7IkbUEUIzEVuwxLo42da5n) | [Halfway Down The Road](https://open.spotify.com/album/6ZIyRpkF61BJtdLSSP7nIq) | 4:39 | 2026-02-22 |  |
 | [Halle klebt](https://open.spotify.com/track/3mL5eUXyowIDKW6hOTzgrf) | [NAPOCK](https://open.spotify.com/artist/77ED2nkxoyZuvzbrFqbjqG) | [Halle klebt](https://open.spotify.com/album/0FQX4LCBCuGwbVENoCEPz2) | 2:37 | 2026-04-27 | 2026-05-26 |
@@ -537,7 +537,7 @@
 | [To blues tis monaksias](https://open.spotify.com/track/0i1sZjx82aJ1rOe6bPqWqy) | [Giorgos Martos](https://open.spotify.com/artist/3P8DI56L3cFZ7rEzoCoCVl) | [Psaks'to vathia](https://open.spotify.com/album/5fYs3dSNay0mHopgunjVXq) | 3:57 | 2026-06-21 |  |
 | [Tonight](https://open.spotify.com/track/5WeH9AfJ8rXgojFe2Ljgpf) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [Tonight](https://open.spotify.com/album/1je3MKYL9fqv0leNc02zfr) | 3:05 | 2025-10-28 | 2025-12-17 |
 | [Too Good To Ignore](https://open.spotify.com/track/1oTPNzxF7XROhYe6AEvTfz) | [Penny Deluxe](https://open.spotify.com/artist/4IqTVknJLCF3Z1gjDPKe2t) | [Too Good To Ignore](https://open.spotify.com/album/42CINCmx63mfUPpe1floNp) | 6:43 | 2026-03-14 | 2026-04-21 |
-| [Too Late](https://open.spotify.com/track/13MB9XtESMGSWZfwpo4Z3G) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 3:44 | 2025-09-21 |  |
+| [Too Late](https://open.spotify.com/track/13MB9XtESMGSWZfwpo4Z3G) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [See the Sun](https://open.spotify.com/album/6ezu2PIyB2NK6twZUcJzTs) | 3:44 | 2025-09-21 | 2026-07-03 |
 | [Too Late](https://open.spotify.com/track/7LEdMzwSF2nVOl6z5tmiDK) | [The Cellar Doors](https://open.spotify.com/artist/3p3yvQb5e3beH9kkk9iIve) | [The Cellar Doors II](https://open.spotify.com/album/7kgu4rRNCXT19dUEd84BZ4) | 3:33 | 2026-05-08 | 2026-05-26 |
 | [Trainliner \- Sweet Country](https://open.spotify.com/track/423mrCTB07MUDpNAnGrjx7) | [Mary Wiles](https://open.spotify.com/artist/1U4MNNHHmj3YK2weAeiUTl) | [Why Not Take A Chance](https://open.spotify.com/album/5KsoXtKHhjGc8bPgSjjQey) | 3:39 | 2026-04-23 | 2026-05-26 |
 | [Tren del Duende](https://open.spotify.com/track/7vWA6eNTUvjQvZx8HtmsId) | [Juan Pablo Vitali](https://open.spotify.com/artist/0U0rAvWfvb3NUwiROiUgis), [LUME](https://open.spotify.com/artist/6xc8tjyFxxVYmBlp2slFuW) | [Barcaza Boreal Plus Ultra](https://open.spotify.com/album/28JDXeqpl4jxkA6iXv0OK1) | 4:19 | 2026-02-24 | 2026-03-18 |
@@ -567,6 +567,7 @@
 | [Warrior Chords"](https://open.spotify.com/track/4QfErx2XCCmGaONPiBxTLF) | [Armen Matevosyan](https://open.spotify.com/artist/65TwqYuEHIn9qyoI4DvSve) | [Warrior Chords"](https://open.spotify.com/album/6QZYjJl43YHX3sQjI0kxaO) | 5:12 | 2025-11-03 | 2025-12-17 |
 | [Wasting My Time](https://open.spotify.com/track/09b5kXOEsKtC42qD5AJNcA) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Wasting My Time](https://open.spotify.com/album/0V4qWW8XqxvGrEFttE3Bus) | 2:52 | 2025-11-27 |  |
 | [We Always Lie](https://open.spotify.com/track/79fDWHvwxHnX64TWVuWqej) | [Tony Mecca](https://open.spotify.com/artist/3FEarLAYejR4vLifQcpiRb) | [Everyday Revolt](https://open.spotify.com/album/0rrZYzBjRlMdbTErbrkqdq) | 3:28 | 2025-12-24 | 2026-04-21 |
+| [We're OK](https://open.spotify.com/track/6Jhxaci8qh03EBM56A9lr4) | [The Vandal Elite](https://open.spotify.com/artist/4Pe0o6D1qEFWwtTP6vZN4a) | [...and here I slip.](https://open.spotify.com/album/22KyIH6kuAlLPUKfxuyrA0) | 3:42 | 2026-07-02 |  |
 | [Weather Girl](https://open.spotify.com/track/34ZINOLIRBp9QHgaHzkeim) | [Jesse Matthew Long](https://open.spotify.com/artist/38vER1abYC7JkSKCvqsFRW) | [Weather Girl](https://open.spotify.com/album/2yFaAJl3gkiA7hTB6EHDGx) | 3:14 | 2026-05-31 | 2026-06-18 |
 | [Werewolves of London](https://open.spotify.com/track/0zYtpXjgqkKKQOpsl3y9qE) | [Highway Wolf](https://open.spotify.com/artist/6WKdYl11XpIoIGJCV6AeXE) | [Werewolves of London](https://open.spotify.com/album/3hKZcu4BOd9ZP8knghvahJ) | 4:24 | 2025-11-06 | 2025-12-17 |
 | [What I Need](https://open.spotify.com/track/4Pyo1AIDTHsEXJnyDc5Ew1) | [The Fading Wish](https://open.spotify.com/artist/5sy66wBuZP3PpDgArbuItr) | [What I Need](https://open.spotify.com/album/6D24DlYbh2JJUPrxbKPaMo) | 2:42 | 2025-11-26 | 2025-12-17 |

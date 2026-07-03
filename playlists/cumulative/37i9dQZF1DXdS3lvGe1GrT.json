@@ -19089,6 +19089,24 @@
     },
     {
       "album": {
+        "name": "Tell Your Mother I Saved Your Life",
+        "url": "https://open.spotify.com/album/3Fgc1Z61QpGNkFZeN44okt"
+      },
+      "artists": [
+        {
+          "name": "Rua R\u00ed",
+          "url": "https://open.spotify.com/artist/2QDqviufSdQFiUgF6HsvfM"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216026,
+      "name": "Johnny Workman",
+      "url": "https://open.spotify.com/track/7MAFfhdDQMSyb0wvA6eVhS"
+    },
+    {
+      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/42v75RcvfsCVtlYrzXR3RF"
       },
@@ -36300,6 +36318,24 @@
       "duration_ms": 288000,
       "name": "Vino",
       "url": "https://open.spotify.com/track/1BtDwiCEJdkLZTNOzy34T0"
+    },
+    {
+      "album": {
+        "name": "Vinyl Spinning",
+        "url": "https://open.spotify.com/album/3o9I6K90GAd4L0Yh6DdnTp"
+      },
+      "artists": [
+        {
+          "name": "Essy Sparrow",
+          "url": "https://open.spotify.com/artist/0SKfJH94hxcbotdBSIvTRj"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252944,
+      "name": "Vinyl Spinning",
+      "url": "https://open.spotify.com/track/4VG0Pd2MaaoBZprgUJV2Nn"
     },
     {
       "album": {

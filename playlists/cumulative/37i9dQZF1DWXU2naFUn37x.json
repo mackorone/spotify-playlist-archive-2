@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Astro in cover della playlist dello street rap italiano \u26d3\ufe0f",
+  "description": "Nabi in cover della playlist dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -3832,6 +3832,28 @@
       "duration_ms": 92911,
       "name": "Blue Pillss",
       "url": "https://open.spotify.com/track/1NwdXzNpQgdwtv93NEUZjf"
+    },
+    {
+      "album": {
+        "name": "BOBO",
+        "url": "https://open.spotify.com/album/1cAm9HkidKfhQaTf6wrjgS"
+      },
+      "artists": [
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        },
+        {
+          "name": "IDUA",
+          "url": "https://open.spotify.com/artist/10MRM6SOHyREmzwlDFbXof"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134558,
+      "name": "BOBO",
+      "url": "https://open.spotify.com/track/5gYRQlaVLI9ElFPvddbzOi"
     },
     {
       "album": {
@@ -12691,6 +12713,28 @@
     },
     {
       "album": {
+        "name": "MAFIA COCO (feat. Paky)",
+        "url": "https://open.spotify.com/album/0XytEmY7acJU0z9da6Telr"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        },
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "MAFIA COCO (feat. Paky)",
+      "url": "https://open.spotify.com/track/10TkqPWcmci21OmdxRrhlf"
+    },
+    {
+      "album": {
         "name": "PENSIERI CATTIVI",
         "url": "https://open.spotify.com/album/5SCrMyqREI1Qybkqp7HxoP"
       },
@@ -14613,6 +14657,28 @@
     },
     {
       "album": {
+        "name": "C\u00d4TE D\u2019AZUR",
+        "url": "https://open.spotify.com/album/7uqbSPazo2QeUnu1fYR6S8"
+      },
+      "artists": [
+        {
+          "name": "Baby Kirua",
+          "url": "https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN"
+        },
+        {
+          "name": "Pyrex",
+          "url": "https://open.spotify.com/artist/4ELZUuHRIUrAkko2cjpWB1"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150352,
+      "name": "MUSICA TAGLIATA (feat. Pyrex)",
+      "url": "https://open.spotify.com/track/0V5V48MVxiDVZ0HJMXB7F1"
+    },
+    {
+      "album": {
         "name": "MUSTANG",
         "url": "https://open.spotify.com/album/0JDhmVdj8E8fdUvPan7fcw"
       },
@@ -15026,6 +15092,24 @@
       "duration_ms": 148452,
       "name": "NESSUNO (feat. Geolier)",
       "url": "https://open.spotify.com/track/0HdrGJfHWYG5A0cNhiMDG4"
+    },
+    {
+      "album": {
+        "name": "NEW YORK",
+        "url": "https://open.spotify.com/album/0vOCi6Ur9juHEintKbSb98"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198709,
+      "name": "NEW YORK",
+      "url": "https://open.spotify.com/track/2a9BZHsbrUeOxEbatUdust"
     },
     {
       "album": {
@@ -20742,7 +20826,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 140571,
       "name": "Spring Breaker",
       "url": "https://open.spotify.com/track/063sIXbAOj1QS6feDrGnWz"
@@ -20830,7 +20914,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 135000,
       "name": "Stamm Chin",
       "url": "https://open.spotify.com/track/4JuXGa27SZ6VuoJmS07XsU"
@@ -21256,7 +21340,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 196562,
       "name": "SUICIDEROOM (feat. 18K)",
       "url": "https://open.spotify.com/track/73181fRFgeN6UpKe3FZcce"
@@ -23708,7 +23792,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 156959,
       "name": "WAR",
       "url": "https://open.spotify.com/track/4VgCoWwGOglwXOTaCqszXV"

@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day\. Cover: Tracy Melon
 
-186 songs - 10 hr 17 min
+187 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [LOML](https://open.spotify.com/track/2HfrpJfxPzGwbGQSWOW33f) | [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV) | [Rush](https://open.spotify.com/album/7xWYTujEJTUvd26ddqrwCA) | 2:10 | 2025-07-24 |  |
 | [LONELY IN THE MORNING](https://open.spotify.com/track/2E9TRhcXedk2PBvrpiPlO0) | [Kavali King](https://open.spotify.com/artist/72NnAw7RD362zfQsBPvoPn), [Tungi](https://open.spotify.com/artist/4SsqtdEL2Ahe4u331D0efV), [Njovu](https://open.spotify.com/artist/3GBx2ug5FaA74dkpC4SYZj) | [LONELY IN THE MORNING](https://open.spotify.com/album/5QyWgWMNpGmnOhfFXbvD74) | 3:06 | 2025-10-30 |  |
 | [Love Letter](https://open.spotify.com/track/4p6jxHgZuMPL8fbv5oEg5X) | [UNiTY Originaal](https://open.spotify.com/artist/485fRmt9X7md56mWTeen5V), [Lilly Ahabwe](https://open.spotify.com/artist/4amT8UkGYYhiKiylL76EVl) | [Love Letter](https://open.spotify.com/album/7IasjQ1vyIPAPlOhvsM6S6) | 3:14 | 2023-08-25 | 2023-11-11 |
+| [Love Like That](https://open.spotify.com/track/3ulbAcstspFbIoqo4jIeyt) | [Lilian Mbabazi](https://open.spotify.com/artist/3D2otsWvaxitDohO6yZbC7) | [Love Like That](https://open.spotify.com/album/2BVt6g9T1A2DREvMFSb6CI) | 3:27 | 2026-07-02 |  |
 | [Love So Hard](https://open.spotify.com/track/0wziWY68BtP0cCoysabecJ) | [Neliah](https://open.spotify.com/artist/3q7yaZhoTuqkL9Ku1aPcx5) | [Love So Hard](https://open.spotify.com/album/6ZeXSuv1si3Mobh4Z446Wz) | 3:40 | 2024-05-16 | 2024-06-22 |
 | [Lover Girl](https://open.spotify.com/track/3xvordMfsFsbPsuCWEdnAf) | [Ceee](https://open.spotify.com/artist/2lLAmI8Hqtx7lvD9tDSFgT) | [Lover Girl](https://open.spotify.com/album/6ZPwy1sInfO5kbh6G9N9n6) | 3:21 | 2023-02-10 | 2024-11-23 |
 | [Luberera](https://open.spotify.com/track/4tWynXHlhctDDWr0Spw6Zn) | [Izabelug](https://open.spotify.com/artist/0J3dUYKRMkCBAN0vL0mteJ) | [Luberera](https://open.spotify.com/album/2ekWdKwqx2qzbqsECQcn8h) | 3:51 | 2022-06-06 | 2023-11-18 |
@@ -168,7 +169,7 @@
 | [SURROUND ME](https://open.spotify.com/track/2EHGGn5xdVtItCZTuv5cQ6) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [THIS IS HAPPENING](https://open.spotify.com/album/1QmRLdcCJRlMKpkRqaaH9I) | 3:27 | 2025-11-27 |  |
 | [Sweat](https://open.spotify.com/track/7FIHui4Mu8rczCTtlQfc8G) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [Nick Souza](https://open.spotify.com/artist/1O8j2yoItrx52KzYSdAlrt) | [Sweat](https://open.spotify.com/album/1oopAtqogP3gYfkyw9H5L5) | 3:10 | 2023-08-11 | 2025-07-19 |
 | [Tanimba](https://open.spotify.com/track/2Hafw2FRF7RAHyRPnxPgpm) | [Vyroota](https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R) | [Tanimba](https://open.spotify.com/album/4w8Gb7vP6EK6glctX9NyiE) | 2:20 | 2025-02-21 |  |
-| [Taste](https://open.spotify.com/track/0o2JkkMi9aZGWyKuVYZVDl) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Taste](https://open.spotify.com/album/1aA4jvgiLPJWc8prxyEUse) | 2:51 | 2025-02-14 |  |
+| [Taste](https://open.spotify.com/track/0o2JkkMi9aZGWyKuVYZVDl) | [Kofee Bean](https://open.spotify.com/artist/59mXEixRJuNUOOmCichSyV), [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b) | [Taste](https://open.spotify.com/album/1aA4jvgiLPJWc8prxyEUse) | 2:51 | 2025-02-14 | 2026-07-03 |
 | [Teach Me](https://open.spotify.com/track/3g08psCbQyJhxel56KYsAF) | [K!MERA](https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN) | [Teach Me](https://open.spotify.com/album/4mHUQjlllJE7u2KELbIT5x) | 4:19 | 2022-09-01 | 2025-03-14 |
 | [TEACH ME](https://open.spotify.com/track/14Tcb1m5MQL8Glsm76pDmF) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729), [Praiz](https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd) | [TEACH ME](https://open.spotify.com/album/3zipPMhfcRzyGaLLC4jQzf) | 3:05 | 2024-11-22 |  |
 | [Tebamanyi](https://open.spotify.com/track/1qcs9CDAWmO1bE3BQ6qAvn) | [Ancient Astronauts](https://open.spotify.com/artist/09JW90QIws2Z3H8hxL5fFN), [MoRoots](https://open.spotify.com/artist/7iLAy1NF90To847mXghSUQ) | [Zik Zak](https://open.spotify.com/album/5lKS2ToJ2YrL044VH6UnF1) | 3:45 | 2022-06-06 | 2022-07-26 |

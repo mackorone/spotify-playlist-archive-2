@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-577 songs - 1 day 11 hr 0 min
+579 songs - 1 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Funzy Funky Hairy \(Or Not\)](https://open.spotify.com/track/7t7H5scydMumOPBrGPDwB0) | [Yan Fiorello](https://open.spotify.com/artist/31Gtsk3J6xqKNy2NilBiN6) | [Jazz for Guignol](https://open.spotify.com/album/6gtJnpVQXFABVHamrFFzQX) | 5:08 | 2023-03-14 |  |
 | [G6](https://open.spotify.com/track/4GPXn9CdhywOTp9v25RNgJ) | [ciggy sunday](https://open.spotify.com/artist/0QwvTI58dfvAdVnuJggykY) | [G6](https://open.spotify.com/album/51I4SCFeObyHhPIBv2YB7H) | 4:01 | 2024-12-09 |  |
 | [Ganância](https://open.spotify.com/track/52exrDs5KivzWvtg4e7LEc) | [BRAVA HC](https://open.spotify.com/artist/5xCfJYUnnIkUjjuIA0tfUn) | [Ganância](https://open.spotify.com/album/5bvIVnNAxlGJLVcKpm2pWY) | 3:16 | 2025-03-08 |  |
+| [Get Around \- Live](https://open.spotify.com/track/6FRUWqJX0eKWb7hl2bpBSi) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [The Fuzes Live](https://open.spotify.com/album/7oQFiHr8GQNjH2g2ZBofAK) | 3:00 | 2026-07-02 |  |
 | [Giganti](https://open.spotify.com/track/1ZSnyK7bm8jbSeNlgZd9Ig) | [Nosexfor](https://open.spotify.com/artist/5cSqNiNzNdO1juc0qXx7lU) | [Giganti](https://open.spotify.com/album/7cufzZ6Kk5t8s9WJNAcdTv) | 3:02 | 2024-10-03 |  |
 | [Girl](https://open.spotify.com/track/1hVXKdgZSoZJrvCoJL3OeW) | [Clixé](https://open.spotify.com/artist/7afbJErY3XznRo0LOv1CIx) | [Girl](https://open.spotify.com/album/1zwTPOKt5DEom2E35RnOQK) | 2:01 | 2026-05-05 |  |
 | [Godforsaken Town](https://open.spotify.com/track/3dhkHlAOSF65ZZgNKaUbuZ) | [Arthur Smith And The Skycruisers](https://open.spotify.com/artist/5oxjtUm1DYNBYPJP2GVneD) | [Godforsaken Town](https://open.spotify.com/album/084WXGY2xz5xSJOxaXuIhw) | 3:35 | 2025-10-28 |  |
@@ -215,6 +216,7 @@
 | [Holiday](https://open.spotify.com/track/2mwdsoEdDqCUAVYpwBbqbg) | [Brad Mac](https://open.spotify.com/artist/2upz21QrLKJcoWf8pBHfc7) | [Burn It Down](https://open.spotify.com/album/1ccezpepQuCcX1fhgbvihl) | 3:06 | 2023-05-03 |  |
 | [Home](https://open.spotify.com/track/4PfVcF3LNCgcqqlqdgz7vF) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Lifelike Figures](https://open.spotify.com/album/2eRVXNj2T29DPJqFsB7A7H) | 3:55 | 2025-10-25 |  |
 | [Home](https://open.spotify.com/track/6cyeOHmTWv4PXrdZkBKCSi) | [The Multides](https://open.spotify.com/artist/7HqgbkLWNLbSNK7BjCU6Sq) | [I Have No Legs](https://open.spotify.com/album/0xxsEy17UxM9oMRdKxGACA) | 2:44 | 2023-03-13 |  |
+| [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/track/2fOEqrTstwxNfNQsPT0vsO) | [The Elysian Lovers](https://open.spotify.com/artist/1FP9jgyDPwtyyl5bUel8Gu) | [Home \(Now That The Sun Shines The Light Of Your Smile\)](https://open.spotify.com/album/0HoxniOgZpOe2x5t8oD72k) | 3:22 | 2026-07-02 |  |
 | [Home Wrecker](https://open.spotify.com/track/5SZxOWEajHq2WvtORTNamD) | [Chaotic Theory](https://open.spotify.com/artist/31gpKRgdTK5zmnMYH1uyKg) | [Home Wrecker](https://open.spotify.com/album/5At8TUMBfUrNkZVKsf6hu1) | 2:11 | 2025-03-24 |  |
 | [Homework Forever](https://open.spotify.com/track/5EBAcYsLz8yVFBjzNirEt7) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Homework Forever](https://open.spotify.com/album/4ZV5lF2tPgdP36xQH1lLSQ) | 2:56 | 2025-02-03 |  |
 | [Honey](https://open.spotify.com/track/0oyaBm9tsmIat1BxnEHbCJ) | [Paxton Pennington](https://open.spotify.com/artist/1nZqNMvEUF9r1Nyzf0MT3q) | [Honey](https://open.spotify.com/album/0pPSplclacWruhlUXu7j7H) | 4:10 | 2024-10-08 |  |

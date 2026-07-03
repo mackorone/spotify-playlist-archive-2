@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet.  Cover: Magixx",
+  "description": "The hottest Afropop records on the planet.  Cover: Joshua Baraka",
   "name": "Afropop",
   "tracks": [
     {
@@ -978,7 +978,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 146823,
       "name": "Arike - Remix",
       "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
@@ -4898,7 +4898,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 157487,
       "name": "Feel Am",
       "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
@@ -15649,6 +15649,28 @@
     },
     {
       "album": {
+        "name": "treat u right",
+        "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177565,
+      "name": "treat u right",
+      "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
+    },
+    {
+      "album": {
         "name": "True Love",
         "url": "https://open.spotify.com/album/0Le8c3YsUvdoB8EsWEN6K5"
       },
@@ -15778,7 +15800,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 148269,
       "name": "Uche Jumbo",
       "url": "https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW"
@@ -16078,7 +16100,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 184800,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/0J5MVukFbIMD36WKfxTVGP"
@@ -16248,6 +16270,24 @@
       "duration_ms": 220588,
       "name": "Wewe Ni Fire",
       "url": "https://open.spotify.com/track/5ySyEvtnyaA0tOxJzUowBE"
+    },
+    {
+      "album": {
+        "name": "what do i know",
+        "url": "https://open.spotify.com/album/5zt3FqkSfRiMLSbUPbaMaF"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158374,
+      "name": "what do i know",
+      "url": "https://open.spotify.com/track/4f8n33TNaDSEl9alg3OyPF"
     },
     {
       "album": {

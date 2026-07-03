@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12710,
+  "num_followers": 12713,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-06-29 08:22:20",
       "album": {
-        "name": "You're Mine, You're My Man",
-        "url": "https://open.spotify.com/album/0NiqEEPrA84nbbGePlY2EW"
-      },
-      "artists": [
-        {
-          "name": "LEE JI MIN",
-          "url": "https://open.spotify.com/artist/1dZV5erlwYTKluFJJUCkGA"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "You're Mine, You're My Man",
-      "url": "https://open.spotify.com/track/3Vz2Jtj6j1XHQqHbJavHdG"
-    },
-    {
-      "added_at": "2026-06-29 08:22:20",
-      "album": {
         "name": "Episode 25",
         "url": "https://open.spotify.com/album/53voGtFVLwlW8CbkbDeIQx"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 195000,
       "name": "HICCUP",
       "url": "https://open.spotify.com/track/6BMNPNij62XvOMQF5BPGym"
+    },
+    {
+      "added_at": "2026-06-29 08:22:20",
+      "album": {
+        "name": "You're Mine, You're My Man",
+        "url": "https://open.spotify.com/album/0NiqEEPrA84nbbGePlY2EW"
+      },
+      "artists": [
+        {
+          "name": "LEE JI MIN",
+          "url": "https://open.spotify.com/artist/1dZV5erlwYTKluFJJUCkGA"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "You're Mine, You're My Man",
+      "url": "https://open.spotify.com/track/3Vz2Jtj6j1XHQqHbJavHdG"
     },
     {
       "added_at": "2026-06-29 08:22:20",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-06-29 08:22:20",
       "album": {
-        "name": "It\u2019s secret",
-        "url": "https://open.spotify.com/album/7LRix9cnSnWsQYrv80nPaW"
-      },
-      "artists": [
-        {
-          "name": "Martin Smith",
-          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
-        }
-      ],
-      "duration_ms": 188506,
-      "name": "It\u2019s secret",
-      "url": "https://open.spotify.com/track/5DAGe7xZYZhrS6FQUnSflc"
-    },
-    {
-      "added_at": "2026-06-29 08:22:20",
-      "album": {
         "name": "STAYC Special Single [I WANT IT]",
         "url": "https://open.spotify.com/album/252AHBq3W65lTnnELHIi4y"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 181972,
       "name": "BOY",
       "url": "https://open.spotify.com/track/2UjpQS69PkI3YqzYH0Zksi"
+    },
+    {
+      "added_at": "2026-06-29 08:22:20",
+      "album": {
+        "name": "It\u2019s secret",
+        "url": "https://open.spotify.com/album/7LRix9cnSnWsQYrv80nPaW"
+      },
+      "artists": [
+        {
+          "name": "Martin Smith",
+          "url": "https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd"
+        }
+      ],
+      "duration_ms": 188506,
+      "name": "It\u2019s secret",
+      "url": "https://open.spotify.com/track/5DAGe7xZYZhrS6FQUnSflc"
     },
     {
       "added_at": "2026-06-29 08:22:20",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-06-29 08:22:20",
       "album": {
+        "name": "Raindrop",
+        "url": "https://open.spotify.com/album/3RmqqwLUcn9q2IDy3HVOct"
+      },
+      "artists": [
+        {
+          "name": "HYUN SEO",
+          "url": "https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Raindrop",
+      "url": "https://open.spotify.com/track/249anPnRxbDIAERScEBEkK"
+    },
+    {
+      "added_at": "2026-06-29 08:22:20",
+      "album": {
         "name": "Before the Petals Fall",
         "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
       },
@@ -843,26 +859,6 @@
       "duration_ms": 229346,
       "name": "Before the Petals Fall",
       "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
-    },
-    {
-      "added_at": "2026-06-29 08:22:20",
-      "album": {
-        "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
-        "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
-      },
-      "artists": [
-        {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
-        },
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
-        }
-      ],
-      "duration_ms": 205050,
-      "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
-      "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
     }
   ],
   "unique_name": "\uc378 !",

@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: SUPER BEAVER
 
-597 songs - 1 day 10 hr 3 min
+598 songs - 1 day 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,9 +365,10 @@
 | [おしゃれ番長](https://open.spotify.com/track/0lmhzoftBzz9ft8wu66vxd) | [ORANGE RANGE](https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD), [ソイソース](https://open.spotify.com/artist/0nZwtI3AkeAQCPaxIDyxuj) | [ALL the SINGLES](https://open.spotify.com/album/5wvpcNgNQhd7jhoel4gMyT) | 3:08 | 2025-07-10 | 2025-09-01 |
 | [おつかれSUMMER](https://open.spotify.com/track/3clPsjTbx4UOPMeQn7FZkV) | [HALCALI](https://open.spotify.com/artist/4W9M5MNUsI9uoIfvzND8Fa) | [ハルカリベーコン](https://open.spotify.com/album/34DlUyrOTrblC8MYGPKO7c) | 3:59 | 2025-05-08 |  |
 | [おともだち](https://open.spotify.com/track/1nfNIGVbtFTodN5iynMIQj) | [edhiii boi](https://open.spotify.com/artist/7oKpMBLgwvatKFjcFV6oHf) | [おともだち](https://open.spotify.com/album/38hnmtLRwYhBFtpgaNUAmk) | 3:05 | 2023-11-16 | 2025-01-17 |
-| [おやすみTaxi](https://open.spotify.com/track/5gU52B9mqwvxi0XD8bfKWJ) | [MON7A](https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi) | [おやすみTaxi](https://open.spotify.com/album/3S9qiC6GPD71gOg5hMrQZe) | 2:43 | 2025-08-14 |  |
+| [おやすみTaxi](https://open.spotify.com/track/5gU52B9mqwvxi0XD8bfKWJ) | [MON7A](https://open.spotify.com/artist/1Ypw6Y7ks3rw8EUPIE1Iqi) | [おやすみTaxi](https://open.spotify.com/album/3S9qiC6GPD71gOg5hMrQZe) | 2:43 | 2025-08-14 | 2026-07-03 |
 | [お返事まだカナ？おじさん構文！ \(feat\. 雨衣\)](https://open.spotify.com/track/3MDuA12HzorT65LovtOMKr) | [吉本おじさん](https://open.spotify.com/artist/4MIxktyK7yU1k2cKcER5t0), [雨衣](https://open.spotify.com/artist/1pXvfbuuuSHDAQTHPqIaUK) | [お返事まだカナ？おじさん構文！ \(feat\. 雨衣\)](https://open.spotify.com/album/2Coxc7T3PLMWJlBXy9as2h) | 3:04 | 2025-08-21 | 2026-07-01 |
 | [かわいいだけじゃだめですか？](https://open.spotify.com/track/3KtwMkj9gml6BDeYlyS8nG) | [CUTIE STREET](https://open.spotify.com/artist/3PLCOySHJ9zwED5yZvDtPZ) | [かわいいだけじゃだめですか？](https://open.spotify.com/album/1cJaqr9y6AvJqQgNpwVNRD) | 4:11 | 2024-10-10 | 2025-07-18 |
+| [きゃわぽっぴんどぅー](https://open.spotify.com/track/52gvDFxowUMDEctb3OAxaL) | [iLiFE!](https://open.spotify.com/artist/539GTPlYhFLCL6eh4jnbYy) | [きゃわぽっぴんどぅー](https://open.spotify.com/album/57vcfOByCgGmKJc09gmlke) | 3:10 | 2026-07-02 |  |
 | [ぎゅっとして、](https://open.spotify.com/track/7EgrXPzuIqfr4a3soz8Dwk) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [ぎゅっとして、](https://open.spotify.com/album/4LzD5Xdc0hq088OeuA0JCH) | 3:21 | 2023-07-20 | 2023-11-11 |
 | [ぐらでーしょん](https://open.spotify.com/track/7a0XxV7vR9HwvbdhwQ5KSE) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd), [北澤ゆうほ](https://open.spotify.com/artist/16GairTgKufSywJwInf6O7) | [ぐらでーしょん](https://open.spotify.com/album/1YF3kyuNc1dpRorHlxqRu1) | 3:17 | 2023-04-03 | 2023-05-02 |
 | [けーたいみしてよ](https://open.spotify.com/track/2lM1Qox6qq2bU7zKJyVt9p) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [けーたいみしてよ](https://open.spotify.com/album/4DHNe9ihe9Lnc9i5RkbgX7) | 2:12 | 2023-08-24 | 2023-11-11 |

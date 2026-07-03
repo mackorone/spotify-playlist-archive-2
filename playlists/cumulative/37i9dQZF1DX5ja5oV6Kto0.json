@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Sarah Phenom, Maleigh Zan, Brazy",
+  "description": "The new wave of alternative, genre-bending and creative afro-fusion music. Cover: Boj & NO11",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -2523,6 +2523,24 @@
     },
     {
       "album": {
+        "name": "Blas\u00e9",
+        "url": "https://open.spotify.com/album/7B7V3zfuIULU6nXWmvgf6N"
+      },
+      "artists": [
+        {
+          "name": "Anabel Rose",
+          "url": "https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175422,
+      "name": "Blas\u00e9",
+      "url": "https://open.spotify.com/track/59wNMcbn0WWsQj5TnGEyrj"
+    },
+    {
+      "album": {
         "name": "BLESSINGS",
         "url": "https://open.spotify.com/album/4UeIGRcGHjtrzfbU8RWlFB"
       },
@@ -3623,6 +3641,36 @@
     },
     {
       "album": {
+        "name": "Arewa Rockstar",
+        "url": "https://open.spotify.com/album/5jaXB5pxa9NM9mKoCir61A"
+      },
+      "artists": [
+        {
+          "name": "Makama",
+          "url": "https://open.spotify.com/artist/7bCkjQmnjF6zkOrFXDKW9s"
+        },
+        {
+          "name": "PsychoYP",
+          "url": "https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr"
+        },
+        {
+          "name": "pa1n",
+          "url": "https://open.spotify.com/artist/6ywMMlco7Ew9bieZHPBGke"
+        },
+        {
+          "name": "Jesse Jagz",
+          "url": "https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Catch U",
+      "url": "https://open.spotify.com/track/7yM6y1bZUFYvwZgPkbYVzo"
+    },
+    {
+      "album": {
         "name": "Catch Up! // Lights",
         "url": "https://open.spotify.com/album/0nf3qQAlrY59xIDSV4ug7f"
       },
@@ -3752,6 +3800,32 @@
       "duration_ms": 181368,
       "name": "Chargie",
       "url": "https://open.spotify.com/track/6uc4JPPkkoRy0qMGA4XdXC"
+    },
+    {
+      "album": {
+        "name": "Chasing Calm",
+        "url": "https://open.spotify.com/album/0GGEcDp9FSwWebvpaPpj5X"
+      },
+      "artists": [
+        {
+          "name": "BasicCity",
+          "url": "https://open.spotify.com/artist/6sBa5SlBIv8SOvupaE3gBY"
+        },
+        {
+          "name": "Rita Wangui",
+          "url": "https://open.spotify.com/artist/5cuAJxgVSsEtfaE5HozJ3C"
+        },
+        {
+          "name": "M. Rumbi",
+          "url": "https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124137,
+      "name": "Chasing Calm",
+      "url": "https://open.spotify.com/track/6pqqNSy7lLntkb66q4ZZ6b"
     },
     {
       "album": {
@@ -4014,7 +4088,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 160000,
       "name": "Clear Mind",
       "url": "https://open.spotify.com/track/1LW3d8wiel1KrGM8MgxIXy"
@@ -4468,7 +4542,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 116400,
       "name": "Consistency",
       "url": "https://open.spotify.com/track/1Dhy1cYiYuKvgLsOgq2zME"
@@ -6587,6 +6661,24 @@
     },
     {
       "album": {
+        "name": "FAR FAR",
+        "url": "https://open.spotify.com/album/16hDeNiQvyub7XlznsQEBN"
+      },
+      "artists": [
+        {
+          "name": "ALAN1",
+          "url": "https://open.spotify.com/artist/4XXFhIKvQx1IGimq47oJEt"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114337,
+      "name": "FAR FAR",
+      "url": "https://open.spotify.com/track/7mTaiqErgC0Crzd0GmlMqR"
+    },
+    {
+      "album": {
         "name": "Faya",
         "url": "https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk"
       },
@@ -8020,7 +8112,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 249812,
       "name": "Gorilla",
       "url": "https://open.spotify.com/track/4aVaZe9w1fWrGERmJKPzsk"
@@ -8122,7 +8214,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 85349,
       "name": "green mile",
       "url": "https://open.spotify.com/track/3tT9tgQ5VaobAVITOyOr8S"
@@ -10200,7 +10292,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 172634,
       "name": "Italawa",
       "url": "https://open.spotify.com/track/3P2eWhx3G91lOwuv95NHw9"
@@ -12881,6 +12973,28 @@
     },
     {
       "album": {
+        "name": "Money (feat. Scottyolorin)",
+        "url": "https://open.spotify.com/album/19LOy9jhWSbcmKU50Ql196"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Money (feat. Scottyolorin)",
+      "url": "https://open.spotify.com/track/5xHTQE15LbvdqtfNdBTIqF"
+    },
+    {
+      "album": {
         "name": "Tha Gawd - Side A",
         "url": "https://open.spotify.com/album/72FBV70oygMH6ELBZ4Zod6"
       },
@@ -14928,7 +15042,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 90671,
       "name": "Only for the night",
       "url": "https://open.spotify.com/track/5pGRGUVqwGM6JJfNjqjRbl"
@@ -16112,7 +16226,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 118974,
       "name": "Princessa",
       "url": "https://open.spotify.com/track/75uaXl3fE1nny7OFA6SCZh"
@@ -17732,7 +17846,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 137692,
       "name": "Second Thoughts",
       "url": "https://open.spotify.com/track/1LKGPZBZTeFrsSevbGqVz9"
@@ -19336,6 +19450,24 @@
       "duration_ms": 133714,
       "name": "Steady Raging",
       "url": "https://open.spotify.com/track/3PAY5N7jcGGfgtZY6RrBfc"
+    },
+    {
+      "album": {
+        "name": "Stop It",
+        "url": "https://open.spotify.com/album/2SsU7ZWMzTVM5y4Od5A0Xi"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159344,
+      "name": "Stop It",
+      "url": "https://open.spotify.com/track/4d1VFhVgEluNnHttOaZtCf"
     },
     {
       "album": {
@@ -21435,6 +21567,24 @@
     },
     {
       "album": {
+        "name": "Uche Jumbo",
+        "url": "https://open.spotify.com/album/6HWoNUfkHlTokQFzGtZk5Y"
+      },
+      "artists": [
+        {
+          "name": "taves",
+          "url": "https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148269,
+      "name": "Uche Jumbo",
+      "url": "https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW"
+    },
+    {
+      "album": {
         "name": "4LUV",
         "url": "https://open.spotify.com/album/2SGGNsEIuL5zM0NHiO5dBd"
       },
@@ -21468,6 +21618,28 @@
       "duration_ms": 164571,
       "name": "UNDER THE SUN",
       "url": "https://open.spotify.com/track/3TDzJLTVGhfoLp6iNrrFCo"
+    },
+    {
+      "album": {
+        "name": "Understand Me",
+        "url": "https://open.spotify.com/album/08wSUNoBVnufVVXiR0uXao"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Understand Me",
+      "url": "https://open.spotify.com/track/7r1JAS1VyNY522GJhnIUCL"
     },
     {
       "album": {

@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 219000,
       "name": "Bansanka",
       "url": "https://open.spotify.com/track/0KgetoSLg8qfJWIwoAQxBf"
@@ -8154,7 +8154,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Heavy Serenade",
       "url": "https://open.spotify.com/track/1404zSB6dqMIiStHLI7gg4"
@@ -21720,7 +21720,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 207301,
       "name": "\u4e0d\u5728\u4e4e",
       "url": "https://open.spotify.com/track/1t2mpO9GpLjRHDDX6SFWRn"
@@ -25919,6 +25919,24 @@
     },
     {
       "album": {
+        "name": "\u7955\u5bc6\u57fa\u5730",
+        "url": "https://open.spotify.com/album/1QzeKMGHBfMKye9WSKokwS"
+      },
+      "artists": [
+        {
+          "name": "Zhang Zhen Yue",
+          "url": "https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284466,
+      "name": "\u611b\u6211\u5225\u8d70",
+      "url": "https://open.spotify.com/track/2fc2vUA5H3mTAr9rQoBDKt"
+    },
+    {
+      "album": {
         "name": "\u611b\u6211\u7684\u6642\u5019",
         "url": "https://open.spotify.com/album/6kXiZM2u6c5VdmYcGhtxmh"
       },
@@ -26046,6 +26064,24 @@
       "duration_ms": 289604,
       "name": "\u6162\u51b7",
       "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
+    },
+    {
+      "album": {
+        "name": "\u6211\u5011\u5728\u4e2d\u5834\u76f8\u9047",
+        "url": "https://open.spotify.com/album/7Af29PKaPGe1ali29ogX8l"
+      },
+      "artists": [
+        {
+          "name": "Karen Mok",
+          "url": "https://open.spotify.com/artist/6jlz5QSUqbKE4vnzo2qfP1"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221447,
+      "name": "\u6162\u6162\u559c\u6b61\u4f60",
+      "url": "https://open.spotify.com/track/79LVKCDq5n3N2k6dtWP4gP"
     },
     {
       "album": {
@@ -28138,10 +28174,6 @@
         {
           "name": "\u9a6c\u4e5f_Crabbit",
           "url": "https://open.spotify.com/artist/1V6Bl7Ny5loHozQUalAd6M"
-        },
-        {
-          "name": "Cole\u5148\u751f",
-          "url": "https://open.spotify.com/artist/0OJb6KlotkxqFC3on7vtpy"
         }
       ],
       "date_added": "2026-03-08",
@@ -30802,7 +30834,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 333546,
       "name": "\u9023\u540d\u5e36\u59d3",
       "url": "https://open.spotify.com/track/3LlQoKvVnkVvq3KC8anUn8"

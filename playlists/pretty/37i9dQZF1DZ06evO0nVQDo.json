@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akMHAAAAAACZ34giDU7sxwzjhec07Oa5",
+  "snapshot_id": "akRYgAAAAABSg//fbmk5H/BR6I2rkIRt",
   "tracks": [
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 108680,
-      "name": "Night Bloomer",
-      "url": "https://open.spotify.com/track/4WWcRgLAW5QgIga6uQuuTX"
+      "duration_ms": 72096,
+      "name": "The Point",
+      "url": "https://open.spotify.com/track/3jeCSQI7Wm2luryIfZjV3B"
     },
     {
       "added_at": null,
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 160651,
-      "name": "9:02 AM",
-      "url": "https://open.spotify.com/track/6nngjm3eqHmAh8adSMYgNB"
+      "duration_ms": 152508,
+      "name": "6:58 PM",
+      "url": "https://open.spotify.com/track/1DtTh0W0xqJuZSS3RsuIAS"
     },
     {
       "added_at": null,
@@ -224,9 +224,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 110883,
-      "name": "Messenger",
-      "url": "https://open.spotify.com/track/1Bxq46gZWqxJLTYgX8Smyy"
+      "duration_ms": 108680,
+      "name": "Night Bloomer",
+      "url": "https://open.spotify.com/track/4WWcRgLAW5QgIga6uQuuTX"
     },
     {
       "added_at": null,
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 152508,
-      "name": "6:58 PM",
-      "url": "https://open.spotify.com/track/1DtTh0W0xqJuZSS3RsuIAS"
+      "duration_ms": 160651,
+      "name": "9:02 AM",
+      "url": "https://open.spotify.com/track/6nngjm3eqHmAh8adSMYgNB"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 155294,
-      "name": "Earth / Air",
-      "url": "https://open.spotify.com/track/7jKsMSQHza9Pt7FVf4RkcK"
+      "duration_ms": 252857,
+      "name": "Air / Earth",
+      "url": "https://open.spotify.com/track/1gQXtJnmO1w3LCpBATX6RU"
     },
     {
       "added_at": null,
@@ -292,73 +292,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 72096,
-      "name": "The Point",
-      "url": "https://open.spotify.com/track/3jeCSQI7Wm2luryIfZjV3B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Timekeeper",
-        "url": "https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "1:17 PM",
-      "url": "https://open.spotify.com/track/7gKej7VfNxa70InVtO8fn3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Recent Futures",
-        "url": "https://open.spotify.com/album/2IbeTTdPfRgsuW15b8DT9q"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 66000,
-      "name": "You Have 3 New Telepathic Messages",
-      "url": "https://open.spotify.com/track/3FMu8kzYmpw7pw84FcJY7y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Conditions",
-        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 60534,
-      "name": "Earth / Water",
-      "url": "https://open.spotify.com/track/6vbANraif8b0DaaJI7ELuZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2nd Draft",
-        "url": "https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 31816,
-      "name": "First Sustain",
-      "url": "https://open.spotify.com/track/5QN78sb8FUoWJffvxiuOKE"
+      "duration_ms": 110883,
+      "name": "Messenger",
+      "url": "https://open.spotify.com/track/1Bxq46gZWqxJLTYgX8Smyy"
     },
     {
       "added_at": null,
@@ -388,9 +324,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 304000,
-      "name": "Surround Sound Me",
-      "url": "https://open.spotify.com/track/11GY4EepFz4HKrH3JcR7hD"
+      "duration_ms": 66000,
+      "name": "You Have 3 New Telepathic Messages",
+      "url": "https://open.spotify.com/track/3FMu8kzYmpw7pw84FcJY7y"
     },
     {
       "added_at": null,
@@ -404,9 +340,41 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 252857,
-      "name": "Air / Earth",
-      "url": "https://open.spotify.com/track/1gQXtJnmO1w3LCpBATX6RU"
+      "duration_ms": 155294,
+      "name": "Earth / Air",
+      "url": "https://open.spotify.com/track/7jKsMSQHza9Pt7FVf4RkcK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2nd Draft",
+        "url": "https://open.spotify.com/album/4mv6oCtJD78x7RGXcoMlTT"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 344500,
+      "name": "2nd Wind",
+      "url": "https://open.spotify.com/track/12ywSB3U66OMMHE23p57uK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timekeeper",
+        "url": "https://open.spotify.com/album/718aNoN4DV4gJcC2THKYdo"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "1:17 PM",
+      "url": "https://open.spotify.com/track/7gKej7VfNxa70InVtO8fn3"
     },
     {
       "added_at": null,
@@ -431,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 60534,
+      "name": "Earth / Water",
+      "url": "https://open.spotify.com/track/6vbANraif8b0DaaJI7ELuZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recent Futures",
         "url": "https://open.spotify.com/album/2IbeTTdPfRgsuW15b8DT9q"
       },
@@ -443,22 +427,6 @@
       "duration_ms": 229625,
       "name": "Vacant & Encouraging My Trophy Houseplant",
       "url": "https://open.spotify.com/track/2ofVGkLXke0899o5TmbWUk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Conditions",
-        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
-      },
-      "artists": [
-        {
-          "name": "Celia Hollander",
-          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
-        }
-      ],
-      "duration_ms": 114551,
-      "name": "Water / Fire",
-      "url": "https://open.spotify.com/track/0z1HLe2IOp8rGwfeQgkIKy"
     },
     {
       "added_at": null,
@@ -483,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfect Conditions",
+        "url": "https://open.spotify.com/album/3Jgs7mLKJ87ZvgpQf17wmX"
+      },
+      "artists": [
+        {
+          "name": "Celia Hollander",
+          "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
+        }
+      ],
+      "duration_ms": 114551,
+      "name": "Water / Fire",
+      "url": "https://open.spotify.com/track/0z1HLe2IOp8rGwfeQgkIKy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recent Futures",
         "url": "https://open.spotify.com/album/2IbeTTdPfRgsuW15b8DT9q"
       },
@@ -492,9 +476,9 @@
           "url": "https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA"
         }
       ],
-      "duration_ms": 381120,
-      "name": "Santa Ana Wind Burn",
-      "url": "https://open.spotify.com/track/6kFiQFLoxhBexCDquCFqlc"
+      "duration_ms": 304000,
+      "name": "Surround Sound Me",
+      "url": "https://open.spotify.com/track/11GY4EepFz4HKrH3JcR7hD"
     }
   ],
   "unique_name": "This Is Celia Hollander",

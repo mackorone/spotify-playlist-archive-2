@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Gowry Lekshmi
 
-512 songs - 1 day 7 hr 33 min
+514 songs - 1 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,8 +17,10 @@
 | [Aakasham](https://open.spotify.com/track/2sKNMV4SfPYWbsUeWjUFGX) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Hope](https://open.spotify.com/album/18rt3txit31UqKoC7rI6D9) | 3:18 | 2022-06-23 | 2023-10-11 |
 | [Aakasham](https://open.spotify.com/track/4s7FOn8Vubr8CvHCkHFpDu) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Aakasham](https://open.spotify.com/album/0lsfdxX9UkuIYhoqKX0EK3) | 3:21 | 2024-01-15 | 2024-07-02 |
 | [Aanandam Aanandame](https://open.spotify.com/track/5cKvhS5YD93kGRKCDav2eK) | [Sithara Krishnakumar](https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c), [Sreejith Edavana](https://open.spotify.com/artist/1m9rpvDVv7rftegCQDIESg) | [Aanandam Aanandame](https://open.spotify.com/album/3aWkF9mfuR3jG3r7EPML1e) | 3:32 | 2025-10-09 | 2026-06-20 |
+| [Aardram](https://open.spotify.com/track/6OgVAaUP7en823TphjJJgh) | [Afzal Yusuff](https://open.spotify.com/artist/5aLx8IMz29yKNh4WFnogsm), [Sreelakshmi Santhosh](https://open.spotify.com/artist/13PCQ5Kzf6gA25QG6zdu0P), [Aman Paul George](https://open.spotify.com/artist/1qGQx9Mff5WqDiap3IVZzJ) | [Aardram](https://open.spotify.com/album/088jk7Y32lDsXwb0DaOUrn) | 3:06 | 2026-07-02 |  |
 | [Aare](https://open.spotify.com/track/7FeVLlzrI2ju3rJte0n2IE) | [Sanjay Sukumaran](https://open.spotify.com/artist/7GHQmiNnYfUMRZE0VOEz5S), [Anila Rajeev](https://open.spotify.com/artist/7mi6f1vSUFgxYOQVcsWWx6), [Arjun B Nair](https://open.spotify.com/artist/3NbZnrvIDwlSlTdEw6Hl32) | [Aare](https://open.spotify.com/album/5RQHOfd4nzZtJMBW3hL2XD) | 2:20 | 2024-10-14 | 2025-03-18 |
 | [Aaru Nee](https://open.spotify.com/track/2gVg3Df0dKsV35t8HN1EqF) | [Vocal Dude](https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI), [Hesham Luca](https://open.spotify.com/artist/5UvqCjykzX8sm8VCo9COmb), [Sourav Suresh](https://open.spotify.com/artist/4bl4dLgJ5NQezTcREd7ECu) | [Aaru Nee](https://open.spotify.com/album/7GjRnGovDsIqY1MjTVx68w) | 2:41 | 2024-12-06 | 2025-03-18 |
+| [Aayiram](https://open.spotify.com/track/0jcRhGAfDQqmjaYXlJm2ao) | [mubasssok](https://open.spotify.com/artist/0WYTnBzklB1EUwdBNYO53l), [musicbymango](https://open.spotify.com/artist/0k9smpG7LlLwBjSZA5rFpc) | [Aayiram](https://open.spotify.com/album/4B05JKi6Q5B1kByEI4NKao) | 3:47 | 2026-07-02 |  |
 | [Adiyaan](https://open.spotify.com/track/57THESM0sQvIsh3hTTDvtE) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Adiyaan](https://open.spotify.com/album/2XpeONOREylCh7qPMjMNIC) | 5:02 | 2024-06-18 | 2024-12-19 |
 | [After](https://open.spotify.com/track/2yEFOflbc0IWIUwwLtfaZV) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [After](https://open.spotify.com/album/4RZMjr9xwxRAv0Nz8L2lkW) | 3:31 | 2023-10-10 | 2024-02-19 |
 | [Aham](https://open.spotify.com/track/2A8tC8QsRMIvhGpwySJ8rK) | [Baheej](https://open.spotify.com/artist/2zTtb5zrOuFRb3YFPcXiC3), [Javad Ali](https://open.spotify.com/artist/654obrgvs7v0Bj4QS8XxeM) | [Aham](https://open.spotify.com/album/78ih9eHYQjDjKm3mI6VKn5) | 3:35 | 2024-09-30 | 2025-03-25 |

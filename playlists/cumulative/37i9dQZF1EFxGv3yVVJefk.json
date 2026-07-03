@@ -251,6 +251,24 @@
     },
     {
       "album": {
+        "name": "Best Of All The Worst",
+        "url": "https://open.spotify.com/album/4J0Wp5xSXKCPBuIrAgo4sz"
+      },
+      "artists": [
+        {
+          "name": "Power of Three",
+          "url": "https://open.spotify.com/artist/2X9kK2mdRUNiUed2yuhhEI"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244815,
+      "name": "Best of All the Worst",
+      "url": "https://open.spotify.com/track/4goN8Bu1d2tMfXdkrjbtLE"
+    },
+    {
+      "album": {
         "name": "Elvis Presley",
         "url": "https://open.spotify.com/album/7GXP5OhYyPVLmcVfO9Iqin"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108627,
+  "num_followers": 108634,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akMHAAAAAADbThVQlXCCdrkzrpehWtha",
+  "snapshot_id": "akRYgAAAAAC/oocepK1wm9tzMP95J3hL",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 221626,
-      "name": "Laat Me",
-      "url": "https://open.spotify.com/track/642MewtIduLhhM5CPbrE3O"
+      "duration_ms": 227693,
+      "name": "Diep In Mijn Hart",
+      "url": "https://open.spotify.com/track/64Q455tYVAbZsRsPuqpW8s"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 227693,
-      "name": "Diep In Mijn Hart",
-      "url": "https://open.spotify.com/track/64Q455tYVAbZsRsPuqpW8s"
+      "duration_ms": 221626,
+      "name": "Laat Me",
+      "url": "https://open.spotify.com/track/642MewtIduLhhM5CPbrE3O"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kleine Jongen",
-        "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
+        "name": "Zonder Zorgen",
+        "url": "https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 194640,
-      "name": "Hoogste Tijd",
-      "url": "https://open.spotify.com/track/6LQXoQIP2Ijz143UWP6chf"
+      "duration_ms": 194426,
+      "name": "De Wereld Is Van Ons Allemaal",
+      "url": "https://open.spotify.com/track/63JiuKoXwlQGBVSRXMbxEc"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zonder Zorgen",
-        "url": "https://open.spotify.com/album/3ybsR0gB9lBGKTXVBn0q1S"
+        "name": "Kleine Jongen",
+        "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 194426,
-      "name": "De Wereld Is Van Ons Allemaal",
-      "url": "https://open.spotify.com/track/63JiuKoXwlQGBVSRXMbxEc"
+      "duration_ms": 194640,
+      "name": "Hoogste Tijd",
+      "url": "https://open.spotify.com/track/6LQXoQIP2Ijz143UWP6chf"
     },
     {
       "added_at": null,

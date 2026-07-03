@@ -10011,6 +10011,24 @@
     },
     {
       "album": {
+        "name": "Gotta Be Cool",
+        "url": "https://open.spotify.com/album/5ECZBzFKBBdBYtkyi3KUeS"
+      },
+      "artists": [
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231774,
+      "name": "Gotta Be Cool",
+      "url": "https://open.spotify.com/track/0BYTKcBcRU9w9S8QqbTIUR"
+    },
+    {
+      "album": {
         "name": "Gotta Move",
         "url": "https://open.spotify.com/album/0ateZxJtP3B6zMX0zpMa9x"
       },
@@ -27292,6 +27310,24 @@
       "duration_ms": 467145,
       "name": "Uzizwa Kanjan",
       "url": "https://open.spotify.com/track/73MJ65QLIfsU2GyCt5KQ3a"
+    },
+    {
+      "album": {
+        "name": "Vaal / Spacer",
+        "url": "https://open.spotify.com/album/6MbsmXz5fGDV7WlNPaAb3i"
+      },
+      "artists": [
+        {
+          "name": "OLING",
+          "url": "https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275905,
+      "name": "Vaal",
+      "url": "https://open.spotify.com/track/2vLzxI56he3XskMDUgBDcY"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Cultura Prof\u00e9tica. The essential tracks, all in one playlist.",
-  "num_followers": 250610,
+  "num_followers": 250663,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akMHAAAAAABoB6pWciDRNXNZqGy8cSTq",
+  "snapshot_id": "akRYgAAAAAAh7OQWT3z3BV5MuQCXlqfK",
   "tracks": [
     {
       "added_at": null,
@@ -126,11 +126,15 @@
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        },
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
         }
       ],
-      "duration_ms": 316026,
-      "name": "En bucle",
-      "url": "https://open.spotify.com/track/6Fclh8eoItr2T0QulGtZyO"
+      "duration_ms": 276445,
+      "name": "Malherido",
+      "url": "https://open.spotify.com/track/1yFC4LX61Ur3Lw8peefrIO"
     },
     {
       "added_at": null,
@@ -194,15 +198,11 @@
         {
           "name": "Cultura Prof\u00e9tica",
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        },
-        {
-          "name": "Dread Mar I",
-          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
         }
       ],
-      "duration_ms": 276445,
-      "name": "Malherido",
-      "url": "https://open.spotify.com/track/1yFC4LX61Ur3Lw8peefrIO"
+      "duration_ms": 316026,
+      "name": "En bucle",
+      "url": "https://open.spotify.com/track/6Fclh8eoItr2T0QulGtZyO"
     },
     {
       "added_at": null,

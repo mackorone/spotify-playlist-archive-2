@@ -1,6 +1,6 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Blondshell",
-  "num_followers": 304236,
+  "num_followers": 304233,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
@@ -106,6 +106,10 @@
         {
           "name": "Royel Otis",
           "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        },
+        {
+          "name": "triple j",
+          "url": "https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1"
         }
       ],
       "duration_ms": 180872,
@@ -246,6 +250,10 @@
         {
           "name": "Djo",
           "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        },
+        {
+          "name": "triple j",
+          "url": "https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1"
         }
       ],
       "duration_ms": 202706,
@@ -706,6 +714,10 @@
         {
           "name": "Tove Lo",
           "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "triple j",
+          "url": "https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1"
         }
       ],
       "duration_ms": 230553,
@@ -1031,22 +1043,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Pure Shores",
-        "url": "https://open.spotify.com/album/486DSBXpSuq1Zd7tsTQhkZ"
-      },
-      "artists": [
-        {
-          "name": "Hearts Hearts",
-          "url": "https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH"
-        }
-      ],
-      "duration_ms": 233795,
-      "name": "Pure Shores",
-      "url": "https://open.spotify.com/track/1OxLfcffM9xguphe8lxRgE"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Back To Black",
         "url": "https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7"
       },
@@ -1059,6 +1055,22 @@
       "duration_ms": 242181,
       "name": "Back To Black",
       "url": "https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Pure Shores",
+        "url": "https://open.spotify.com/album/486DSBXpSuq1Zd7tsTQhkZ"
+      },
+      "artists": [
+        {
+          "name": "Hearts Hearts",
+          "url": "https://open.spotify.com/artist/5kRhbeMGVzAciRwnQzyesH"
+        }
+      ],
+      "duration_ms": 233795,
+      "name": "Pure Shores",
+      "url": "https://open.spotify.com/track/1OxLfcffM9xguphe8lxRgE"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1447,22 +1459,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Reptilia",
-        "url": "https://open.spotify.com/album/5O4v55zC7ya6mxjiQ2xJRU"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 221296,
-      "name": "Reptilia",
-      "url": "https://open.spotify.com/track/2NeitqclMuX4Xyj1M1mmTp"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Making Breakfast",
         "url": "https://open.spotify.com/album/6gZ2JwFSMQsllwM2XJjZIh"
       },
@@ -1475,6 +1471,22 @@
       "duration_ms": 140973,
       "name": "Making Breakfast",
       "url": "https://open.spotify.com/track/2slU3LSs6yFAsit4blFSjA"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Reptilia",
+        "url": "https://open.spotify.com/album/5O4v55zC7ya6mxjiQ2xJRU"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 221296,
+      "name": "Reptilia",
+      "url": "https://open.spotify.com/track/2NeitqclMuX4Xyj1M1mmTp"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1511,22 +1523,6 @@
     {
       "added_at": "2026-03-06 05:00:19",
       "album": {
-        "name": "Let's Dance to Joy Division",
-        "url": "https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8"
-      },
-      "artists": [
-        {
-          "name": "Lemony Rug",
-          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Let's Dance to Joy Division",
-      "url": "https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI"
-    },
-    {
-      "added_at": "2026-03-06 05:00:19",
-      "album": {
         "name": "Tonight, Tonight",
         "url": "https://open.spotify.com/album/6uA83XxtcMRScfFCt0xV8m"
       },
@@ -1539,6 +1535,22 @@
       "duration_ms": 261088,
       "name": "Tonight, Tonight",
       "url": "https://open.spotify.com/track/2bhGrMTnI2Rv1qiuJl4k2V"
+    },
+    {
+      "added_at": "2026-03-06 05:00:19",
+      "album": {
+        "name": "Let's Dance to Joy Division",
+        "url": "https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8"
+      },
+      "artists": [
+        {
+          "name": "Lemony Rug",
+          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Let's Dance to Joy Division",
+      "url": "https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI"
     },
     {
       "added_at": "2026-03-06 05:00:19",
@@ -1566,6 +1578,10 @@
         {
           "name": "Nick Ward",
           "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        },
+        {
+          "name": "triple j",
+          "url": "https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1"
         },
         {
           "name": "E^ST",

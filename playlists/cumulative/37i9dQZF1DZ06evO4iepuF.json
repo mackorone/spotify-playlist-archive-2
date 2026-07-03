@@ -70,7 +70,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 103440,
       "name": "a world",
       "url": "https://open.spotify.com/track/5qDFGZrvFVRsYldi2ujNdq"
@@ -570,7 +570,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 74893,
       "name": "damn beautiful",
       "url": "https://open.spotify.com/track/2eRjZFtoYEiVFf4IPUD8n0"
@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "kd 2019-2022 sc songs (compilation)",
+        "url": "https://open.spotify.com/album/7CTDYGKWvh45e7nOrXZyl3"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45923,
+      "name": "i just want hatena back",
+      "url": "https://open.spotify.com/track/1fO02v3WrF0V71AyelziNg"
+    },
+    {
+      "album": {
         "name": "kd 2016-18 sc songs (compilation)",
         "url": "https://open.spotify.com/album/1OgQ6zQhHTQzvuzrtzxyoH"
       },
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 113131,
       "name": "jus make it go boom",
       "url": "https://open.spotify.com/track/7yXLbFH6bK48Fng7HMWdT3"
@@ -1780,7 +1798,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 53775,
       "name": "only fl i need is flipnote",
       "url": "https://open.spotify.com/track/6pbybtxU2bndDV2n0kXScS"
@@ -2334,7 +2352,7 @@
       ],
       "date_added": "2025-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 103111,
       "name": "this ts pmo me off",
       "url": "https://open.spotify.com/track/4MGbrzC5f3dLfSXdjhz4Es"

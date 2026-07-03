@@ -1,6 +1,6 @@
 {
   "description": "\u723d\u3084\u304b\u306a1\u65e5\u3092\u3001\u30b9\u30ed\u30fc\u301c\u30df\u30c3\u30c9\u30c6\u30f3\u30dd\u306a\u97f3\u697d\u3068\u5171\u306b\u5fc3\u5730\u3088\u304f\u30b9\u30bf\u30fc\u30c8\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 88973,
+  "num_followers": 88974,
   "original_name": "Mid Tempo Magic",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,26 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/7sPl6AbM7tKDmBkJfDQduP"
+      },
+      "artists": [
+        {
+          "name": "Hngle",
+          "url": "https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ"
+        },
+        {
+          "name": "Zer Nguy\u1ec5n",
+          "url": "https://open.spotify.com/artist/62WhadRyBmRJO56wP9oyPz"
+        }
+      ],
+      "duration_ms": 219434,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/61PnittYgKfF3xeaalv1kk"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
         "name": "\u3084\u3055\u3057\u3044\u307e\u307e\u3067",
         "url": "https://open.spotify.com/album/6JEsb8Gr0a1RyY4zSTMApM"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 218493,
       "name": "Close to you",
       "url": "https://open.spotify.com/track/1KPm0gak2346hzH2TeZhir"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "One More Time",
-        "url": "https://open.spotify.com/album/7sPl6AbM7tKDmBkJfDQduP"
-      },
-      "artists": [
-        {
-          "name": "Hngle",
-          "url": "https://open.spotify.com/artist/7kBsX15IDun9YxuVmKCMYJ"
-        },
-        {
-          "name": "Zer Nguy\u1ec5n",
-          "url": "https://open.spotify.com/artist/62WhadRyBmRJO56wP9oyPz"
-        }
-      ],
-      "duration_ms": 219434,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/61PnittYgKfF3xeaalv1kk"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u30a2\u30a4\u30a6\u30bf",
-        "url": "https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52"
-      },
-      "artists": [
-        {
-          "name": "\u97f3\u7530 \u96c5\u5247",
-          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
-        }
-      ],
-      "duration_ms": 292917,
-      "name": "\u30a2\u30a4\u30a6\u30bf",
-      "url": "https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
         "url": "https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 195652,
       "name": "\u30de\u30b7\u304b\u3082\u3057\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "\u30a2\u30a4\u30a6\u30bf",
+        "url": "https://open.spotify.com/album/7BeFwx8a2LsM1tVJVqAO52"
+      },
+      "artists": [
+        {
+          "name": "\u97f3\u7530 \u96c5\u5247",
+          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
+        }
+      ],
+      "duration_ms": 292917,
+      "name": "\u30a2\u30a4\u30a6\u30bf",
+      "url": "https://open.spotify.com/track/7xR4VYpFQmNoDEkNfkezO2"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u5504\u304c\u6b69\u304f\u6642",
-        "url": "https://open.spotify.com/album/4VAkCYiPGkPOPGdloGVZwY"
+        "name": "lovlaine (The Deluxe Album)",
+        "url": "https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na"
       },
       "artists": [
         {
-          "name": "YONA YONA WEEKENDERS",
-          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
+          "name": "lovlaine",
+          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
         }
       ],
-      "duration_ms": 230571,
-      "name": "\u5504\u304c\u6b69\u304f\u6642",
-      "url": "https://open.spotify.com/track/79EUfmvj3VwRlbzke3s4HO"
+      "duration_ms": 218513,
+      "name": "all my perfects",
+      "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "lovlaine (The Deluxe Album)",
-        "url": "https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na"
+        "name": "\u5504\u304c\u6b69\u304f\u6642",
+        "url": "https://open.spotify.com/album/4VAkCYiPGkPOPGdloGVZwY"
       },
       "artists": [
         {
-          "name": "lovlaine",
-          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
+          "name": "YONA YONA WEEKENDERS",
+          "url": "https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR"
         }
       ],
-      "duration_ms": 218513,
-      "name": "all my perfects",
-      "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
+      "duration_ms": 230571,
+      "name": "\u5504\u304c\u6b69\u304f\u6642",
+      "url": "https://open.spotify.com/track/79EUfmvj3VwRlbzke3s4HO"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1193,6 +1193,22 @@
       "url": "https://open.spotify.com/track/2vLeNRYH7SaI1nNFzef2lA"
     },
     {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "Love me tender",
+        "url": "https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf"
+      },
+      "artists": [
+        {
+          "name": "Uniolla",
+          "url": "https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU"
+        }
+      ],
+      "duration_ms": 271266,
+      "name": "So am I",
+      "url": "https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9"
+    },
+    {
       "added_at": "2026-05-14 15:00:30",
       "album": {
         "name": "I Love Me Now",
@@ -1223,22 +1239,6 @@
       "duration_ms": 276756,
       "name": "I Love Me Now",
       "url": "https://open.spotify.com/track/1QSXVxycWcuBbQXAyeXK6T"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
-        "name": "Love me tender",
-        "url": "https://open.spotify.com/album/4twbnqqyzbe5X8AitewvVf"
-      },
-      "artists": [
-        {
-          "name": "Uniolla",
-          "url": "https://open.spotify.com/artist/46FRoaRwYgXPq0HGAdTRDU"
-        }
-      ],
-      "duration_ms": 271266,
-      "name": "So am I",
-      "url": "https://open.spotify.com/track/2f1exvQg0PWmi8d4mlQKb9"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "\u30aa\u30ea\u30b8\u30ca\u30eb\u30e9\u30f4\u30fb\u30a2\u30fc\u30ea\u30fc\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
-        "url": "https://open.spotify.com/album/6HlglVJs9ZhhqlN42ocK26"
-      },
-      "artists": [
-        {
-          "name": "Original Love",
-          "url": "https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck"
-        }
-      ],
-      "duration_ms": 303533,
-      "name": "\u671d\u65e5\u306e\u3042\u305f\u308b\u9053",
-      "url": "https://open.spotify.com/track/5jEMga8fWv3tNHVq2EISKr"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 2 - \u9ad8\u6728\u6b63\u52dd \u3046\u305f\u306e\u6642\u9593",
         "url": "https://open.spotify.com/album/5nV7q6plyHYqgHdWlTHDl4"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 211358,
       "name": "Tanana",
       "url": "https://open.spotify.com/track/5U1bU8Km0S3jrMfY0udtsu"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "\u30aa\u30ea\u30b8\u30ca\u30eb\u30e9\u30f4\u30fb\u30a2\u30fc\u30ea\u30fc\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/6HlglVJs9ZhhqlN42ocK26"
+      },
+      "artists": [
+        {
+          "name": "Original Love",
+          "url": "https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck"
+        }
+      ],
+      "duration_ms": 303533,
+      "name": "\u671d\u65e5\u306e\u3042\u305f\u308b\u9053",
+      "url": "https://open.spotify.com/track/5jEMga8fWv3tNHVq2EISKr"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "burn blister",
-        "url": "https://open.spotify.com/album/2shLrT8Uep0RA7uDq2GxEY"
-      },
-      "artists": [
-        {
-          "name": "cehryl",
-          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
-        }
-      ],
-      "duration_ms": 189493,
-      "name": "burn blister",
-      "url": "https://open.spotify.com/track/6osnNgkB3IkVFYeeDJqi88"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "\u30e6\u30e1\u306e\u306f\u3058\u307e\u308a\u3002",
         "url": "https://open.spotify.com/album/3b3WoVqAc6zcXApOjchHvj"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 245680,
       "name": "\u30e6\u30e1\u306e\u306f\u3058\u307e\u308a\u3002",
       "url": "https://open.spotify.com/track/66oYFwtVhj0zSayFxcNaSj"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "burn blister",
+        "url": "https://open.spotify.com/album/2shLrT8Uep0RA7uDq2GxEY"
+      },
+      "artists": [
+        {
+          "name": "cehryl",
+          "url": "https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "burn blister",
+      "url": "https://open.spotify.com/track/6osnNgkB3IkVFYeeDJqi88"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "LIGHTHOUSE",
-        "url": "https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD"
-      },
-      "artists": [
-        {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Responder (Live Session)",
-      "url": "https://open.spotify.com/track/4VYZuxJh4HwZgvWiPmcvSV"
-    },
-    {
-      "added_at": "2026-02-19 15:16:11",
-      "album": {
         "name": "pineapple bun",
         "url": "https://open.spotify.com/album/6IB4yLzaoA1Lp7bX1b30Md"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 209655,
       "name": "pineapple bun",
       "url": "https://open.spotify.com/track/4vONiFTguBZdq4BntZCuXd"
+    },
+    {
+      "added_at": "2026-02-19 15:16:11",
+      "album": {
+        "name": "LIGHTHOUSE",
+        "url": "https://open.spotify.com/album/4F9zqfgck0CJyuym96hLpD"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Responder (Live Session)",
+      "url": "https://open.spotify.com/track/4VYZuxJh4HwZgvWiPmcvSV"
     },
     {
       "added_at": "2026-02-19 15:16:11",
@@ -1663,18 +1663,22 @@
     {
       "added_at": "2026-02-19 15:16:11",
       "album": {
-        "name": "I know",
-        "url": "https://open.spotify.com/album/705uQ9r4jJSE9xXGUfVNSs"
+        "name": "APOLLO (feat. \u6843\u5b50A1J)",
+        "url": "https://open.spotify.com/album/4lJ4z4ne9vY7BcwCrBLZsL"
       },
       "artists": [
         {
-          "name": "SOIII",
-          "url": "https://open.spotify.com/artist/6IIpHaS29YrhmK1uQnEtOp"
+          "name": "aint lindy",
+          "url": "https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC"
+        },
+        {
+          "name": "\u6843\u5b50A1J",
+          "url": "https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC"
         }
       ],
-      "duration_ms": 232820,
-      "name": "I know",
-      "url": "https://open.spotify.com/track/1eRwmWB269meD0JlNDDM60"
+      "duration_ms": 244465,
+      "name": "APOLLO (feat. \u6843\u5b50A1J)",
+      "url": "https://open.spotify.com/track/7sREJmvhWTOjcYgLTTgSOg"
     }
   ],
   "unique_name": "Mid Tempo Magic",

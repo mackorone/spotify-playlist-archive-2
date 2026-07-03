@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 502562,
+  "num_followers": 502556,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Evaluasi (Reprise)",
-        "url": "https://open.spotify.com/album/723Jl0tmQVzNuXbblsMkpF"
-      },
-      "artists": [
-        {
-          "name": "Hindia",
-          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-        }
-      ],
-      "duration_ms": 193421,
-      "name": "Evaluasi (Reprise)",
-      "url": "https://open.spotify.com/track/6ZJ2PCDZVTPB392n3rkKzU"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "My Happy Life",
         "url": "https://open.spotify.com/album/26dXMvMY7SSrfGfvMYFmxe"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 213213,
       "name": "Menghujam Jantungku",
       "url": "https://open.spotify.com/track/6VmfI8TnfhrFHqImmvubvZ"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Evaluasi (Reprise)",
+        "url": "https://open.spotify.com/album/723Jl0tmQVzNuXbblsMkpF"
+      },
+      "artists": [
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "duration_ms": 193421,
+      "name": "Evaluasi (Reprise)",
+      "url": "https://open.spotify.com/track/6ZJ2PCDZVTPB392n3rkKzU"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "RAYA",
-        "url": "https://open.spotify.com/album/6xBlB6lznV9ZjVlPq7Xd80"
-      },
-      "artists": [
-        {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        }
-      ],
-      "duration_ms": 269300,
-      "name": "Semoga",
-      "url": "https://open.spotify.com/track/6cMVQgMRy4pMpSEyg2xd5z"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Keajaiban",
         "url": "https://open.spotify.com/album/57qz9fO792T8n6ndrprJ5j"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 325973,
       "name": "Satu Yang Tak Bisa Lepas",
       "url": "https://open.spotify.com/track/1dmndEbqNwm4dv7ZDSmXaq"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "RAYA",
+        "url": "https://open.spotify.com/album/6xBlB6lznV9ZjVlPq7Xd80"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 269300,
+      "name": "Semoga",
+      "url": "https://open.spotify.com/track/6cMVQgMRy4pMpSEyg2xd5z"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "1st (Special Edition)",
-        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
-      },
-      "artists": [
-        {
-          "name": "MALIQ & D'Essentials",
-          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Teman Bahagia",
         "url": "https://open.spotify.com/album/4BqJFRg9Id95pDcb8ml84b"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 208104,
       "name": "Teman Bahagia",
       "url": "https://open.spotify.com/track/0KeK6xqEcTT1VWhHf5iw2d"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "1st (Special Edition)",
+        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
+      },
+      "artists": [
+        {
+          "name": "MALIQ & D'Essentials",
+          "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Satu-Satu",
-        "url": "https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C"
-      },
-      "artists": [
-        {
-          "name": "Idgitaf",
-          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
-        }
-      ],
-      "duration_ms": 284988,
-      "name": "Satu-Satu",
-      "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Pelukku Untuk Pelikmu (OST Imperfect: Karier, Cinta, & Timbangan)",
         "url": "https://open.spotify.com/album/3srKBIcoP2Q9VA1cDHARUh"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 249503,
       "name": "Pelukku Untuk Pelikmu - OST Imperfect: Karier, Cinta, & Timbangan",
       "url": "https://open.spotify.com/track/5sgRYOTpFZRROlndD460KI"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Satu-Satu",
+        "url": "https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "duration_ms": 284988,
+      "name": "Satu-Satu",
+      "url": "https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL"
     },
     {
       "added_at": "2026-02-27 14:15:43",

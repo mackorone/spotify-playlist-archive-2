@@ -21039,6 +21039,24 @@
     },
     {
       "album": {
+        "name": "curtains",
+        "url": "https://open.spotify.com/album/13itaA5Koqxnrqkyb3lPIN"
+      },
+      "artists": [
+        {
+          "name": "snafu",
+          "url": "https://open.spotify.com/artist/6D9QrghftPFUTOPkxAJfSp"
+        }
+      ],
+      "date_added": "2023-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 76708,
+      "name": "intro",
+      "url": "https://open.spotify.com/track/760Y4cz8AyJjCcJpHDbHA1"
+    },
+    {
+      "album": {
         "name": "KILL YOURSELF Part XIX: The Deep End Saga",
         "url": "https://open.spotify.com/album/6zFDOD1SXs27ERSlm1q7kY"
       },
@@ -21867,7 +21885,7 @@
     },
     {
       "album": {
-        "name": "songs about self hatred",
+        "name": "curtains",
         "url": "https://open.spotify.com/album/13itaA5Koqxnrqkyb3lPIN"
       },
       "artists": [
@@ -21880,7 +21898,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 157575,
-      "name": "kawaii way to cut yourself",
+      "name": "kawaii way",
       "url": "https://open.spotify.com/track/7LwyheyiGDcSlRg2MO1a07"
     },
     {
@@ -45426,24 +45444,6 @@
       "duration_ms": 316653,
       "name": "You Are My Music",
       "url": "https://open.spotify.com/track/4NXTg4Wzw1u7E0wErQxdhr"
-    },
-    {
-      "album": {
-        "name": "songs about self hatred",
-        "url": "https://open.spotify.com/album/13itaA5Koqxnrqkyb3lPIN"
-      },
-      "artists": [
-        {
-          "name": "snafu",
-          "url": "https://open.spotify.com/artist/6D9QrghftPFUTOPkxAJfSp"
-        }
-      ],
-      "date_added": "2023-01-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 76708,
-      "name": "you arent all cool and edgy just cuz you like lain",
-      "url": "https://open.spotify.com/track/760Y4cz8AyJjCcJpHDbHA1"
     },
     {
       "album": {

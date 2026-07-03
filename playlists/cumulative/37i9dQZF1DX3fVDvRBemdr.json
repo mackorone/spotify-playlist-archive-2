@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop releases. Cover: Yves Berendse",
+  "description": "De nieuwste Hollands & Volkspop releases. Cover: Afro Bros, John West, Billy Dans & Monq",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -2367,6 +2367,28 @@
     },
     {
       "album": {
+        "name": "De Avond Is Van Ons",
+        "url": "https://open.spotify.com/album/7cdN5GOJroOJoARrfyxAAt"
+      },
+      "artists": [
+        {
+          "name": "Willem Huisman",
+          "url": "https://open.spotify.com/artist/0z26rX79N8arGB1aQFSM1I"
+        },
+        {
+          "name": "Harrie Snijders",
+          "url": "https://open.spotify.com/artist/34FVUX7HgK45ek1hEXBX7S"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "De Avond Is Van Ons",
+      "url": "https://open.spotify.com/track/2gjiYuQ2y15tDZIOU8qFx8"
+    },
+    {
+      "album": {
         "name": "De Bon Is Van Mij",
         "url": "https://open.spotify.com/album/0GSCRfKg3ILfgpBloMDBe1"
       },
@@ -2634,6 +2656,24 @@
       "duration_ms": 196193,
       "name": "De Nacht Is Mijn Leven",
       "url": "https://open.spotify.com/track/1VBEhXmsOk839WvzgpvW5m"
+    },
+    {
+      "album": {
+        "name": "De Nachtploeg Van De Kroeg",
+        "url": "https://open.spotify.com/album/2SKluOYTbDf2OR1lIbOHe2"
+      },
+      "artists": [
+        {
+          "name": "Robin van Herwijnen",
+          "url": "https://open.spotify.com/artist/6DSV2sKcDI7lJHmNqBTkRG"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168693,
+      "name": "De Nachtploeg Van De Kroeg",
+      "url": "https://open.spotify.com/track/34rxDKCkOrFUrdzh7PB2w9"
     },
     {
       "album": {
@@ -3251,6 +3291,24 @@
     },
     {
       "album": {
+        "name": "Door Jou",
+        "url": "https://open.spotify.com/album/2T91vuxDi3S8fIu2RDZhV2"
+      },
+      "artists": [
+        {
+          "name": "Dennis Schaper",
+          "url": "https://open.spotify.com/artist/46Rq2I19vNkOlXJcgNUnxw"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Door Jou",
+      "url": "https://open.spotify.com/track/1dfWzfmMq3pxZGFw0pQNHo"
+    },
+    {
+      "album": {
         "name": "Door Tot De Kater Komt",
         "url": "https://open.spotify.com/album/1cc61bYlWdhOmN6klkUHUM"
       },
@@ -3840,6 +3898,24 @@
       "duration_ms": 174503,
       "name": "Feesten dag en nacht",
       "url": "https://open.spotify.com/track/3wqVebtRtBfoquNH8CHFih"
+    },
+    {
+      "album": {
+        "name": "Feestje",
+        "url": "https://open.spotify.com/album/25omnEwBe9qcWD1AgjGlhZ"
+      },
+      "artists": [
+        {
+          "name": "Femke Hengeveld",
+          "url": "https://open.spotify.com/artist/4UK3zaAUen6v98wEdv0gL5"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158277,
+      "name": "Feestje",
+      "url": "https://open.spotify.com/track/3qSOnPQwf2YmGjIKdipwaQ"
     },
     {
       "album": {
@@ -4582,7 +4658,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 205423,
       "name": "Grote Vriend",
       "url": "https://open.spotify.com/track/5J6Em734K2GJydW55PnZZD"
@@ -5340,7 +5416,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 181124,
       "name": "Iedereen Weet",
       "url": "https://open.spotify.com/track/72zIkM1LsXaIgKWPaYDiqd"
@@ -5448,7 +5524,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 173308,
       "name": "Ik Ben Nog Lang Niet Klaar",
       "url": "https://open.spotify.com/track/6WN2QFqYxQOe9uGRb63sg9"
@@ -5704,7 +5780,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 169191,
       "name": "Ik Kom Terug",
       "url": "https://open.spotify.com/track/1wiBI0OGxVOzGPAyJFr7dy"
@@ -5798,6 +5874,24 @@
       "duration_ms": 160800,
       "name": "Ik laat je niet alleen",
       "url": "https://open.spotify.com/track/2CcIbOJhD8b0sPcs7UgM98"
+    },
+    {
+      "album": {
+        "name": "Ik lach als een clown",
+        "url": "https://open.spotify.com/album/4wc7CphBGPoKzRrbU09I7u"
+      },
+      "artists": [
+        {
+          "name": "Henk Bernard",
+          "url": "https://open.spotify.com/artist/6DEJqlSyKBB7mYf2v59dVO"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165179,
+      "name": "Ik lach als een clown",
+      "url": "https://open.spotify.com/track/74INZxZT35HrTfiOo2jqX1"
     },
     {
       "album": {
@@ -6116,7 +6210,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 167166,
       "name": "Ik Wil Je Helemaal",
       "url": "https://open.spotify.com/track/3QxvbBt6GnNZ8AbWNO8CoN"
@@ -6232,10 +6326,28 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 162250,
       "name": "Ik Zeg Je Eerlijk",
       "url": "https://open.spotify.com/track/5HJH8rVHZBPxXS0FQFRljp"
+    },
+    {
+      "album": {
+        "name": "Ik Zou 't Willen Schreeuwen van de Toren",
+        "url": "https://open.spotify.com/album/42Fb7i6uyLHAyZVLPvRjfB"
+      },
+      "artists": [
+        {
+          "name": "Etienne Alvares",
+          "url": "https://open.spotify.com/artist/2tNzZt83uv71HN7uXeoaym"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174447,
+      "name": "Ik Zou 't Willen Schreeuwen van de Toren",
+      "url": "https://open.spotify.com/track/2qsO92L3d4thlTaiLp3278"
     },
     {
       "album": {
@@ -6804,6 +6916,24 @@
       "duration_ms": 149849,
       "name": "Jij Bent Alles",
       "url": "https://open.spotify.com/track/1zZjvCZIq6ed9BDyRcuIc6"
+    },
+    {
+      "album": {
+        "name": "Jij Bent Een Kanjer",
+        "url": "https://open.spotify.com/album/2eS2rHiVSLE3dc5R1CVaPC"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Weerdenburg",
+          "url": "https://open.spotify.com/artist/6tQjOM32Oogx8gDLPQFwna"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183314,
+      "name": "Jij Bent Een Kanjer",
+      "url": "https://open.spotify.com/track/37pdFFdvtJbcXuJDvupYPs"
     },
     {
       "album": {
@@ -8914,7 +9044,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 164015,
       "name": "Morgen is niet beloofd",
       "url": "https://open.spotify.com/track/7v90Wr8y9y79WatVLBUB0H"
@@ -9356,7 +9486,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 191109,
       "name": "Ogen Op De Prijs",
       "url": "https://open.spotify.com/track/4PWNEjo3FeGVXJMf0VO7Dj"
@@ -9642,6 +9772,24 @@
       "duration_ms": 156249,
       "name": "Op E\u00e9n Been",
       "url": "https://open.spotify.com/track/2qmTTThvPnjOnLe8DyfaRR"
+    },
+    {
+      "album": {
+        "name": "Op Het Kamp",
+        "url": "https://open.spotify.com/album/2dhgZvK8bmXpGFj2OnUYxa"
+      },
+      "artists": [
+        {
+          "name": "Bernardo",
+          "url": "https://open.spotify.com/artist/7sZWSUeB1cIPLNbrOwSwWY"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164409,
+      "name": "Op Het Kamp",
+      "url": "https://open.spotify.com/track/0j695IIQ1oxli4l7KGN735"
     },
     {
       "album": {
@@ -10170,7 +10318,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 164653,
       "name": "Samen Uit Samen Thuis",
       "url": "https://open.spotify.com/track/23DJ7OaJ4iOAeYkPuln5gM"
@@ -10897,6 +11045,24 @@
     },
     {
       "album": {
+        "name": "Tinto de Verano",
+        "url": "https://open.spotify.com/album/4nRx85n55feU3DcUj6rJ0p"
+      },
+      "artists": [
+        {
+          "name": "Joey Nicolay",
+          "url": "https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146769,
+      "name": "Tinto de Verano",
+      "url": "https://open.spotify.com/track/6jG5fEJ1UEznTOpbV2y6ZP"
+    },
+    {
+      "album": {
         "name": "Toen De Euro Nog Een Gulden Was",
         "url": "https://open.spotify.com/album/0ByXYGsuwWtuXQpPW1Idy5"
       },
@@ -11161,6 +11327,28 @@
     },
     {
       "album": {
+        "name": "Vamos",
+        "url": "https://open.spotify.com/album/3VFLOwzSK9dJwJcyAkWPL1"
+      },
+      "artists": [
+        {
+          "name": "Tommy Costa",
+          "url": "https://open.spotify.com/artist/0bWS5y3DvLEICPEdHWDJQ5"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188758,
+      "name": "Vamos",
+      "url": "https://open.spotify.com/track/7lDR3jmyiy63sKfkI21s9Q"
+    },
+    {
+      "album": {
         "name": "Van boer tot zigeuner",
         "url": "https://open.spotify.com/album/0VWAPDqAoACO131G8GcTW1"
       },
@@ -11346,6 +11534,24 @@
       "duration_ms": 177893,
       "name": "Vandaag Ben Ik Van Jou",
       "url": "https://open.spotify.com/track/1DhAbQBX3GtlSH2qnZPei9"
+    },
+    {
+      "album": {
+        "name": "Vandaag Is Van Ons",
+        "url": "https://open.spotify.com/album/738zpU1qnNL1mnBlPJVGve"
+      },
+      "artists": [
+        {
+          "name": "Gizbey",
+          "url": "https://open.spotify.com/artist/7GTD2ivDEWSYlwjfIdnkGq"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189848,
+      "name": "Vandaag Is Van Ons",
+      "url": "https://open.spotify.com/track/0i1gsUxyYITnQtybzFlKxP"
     },
     {
       "album": {
@@ -11851,6 +12057,28 @@
     },
     {
       "album": {
+        "name": "Vuurwerk",
+        "url": "https://open.spotify.com/album/6Q3K5puUGxM4OChACZbBPf"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        },
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Vuurwerk",
+      "url": "https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh"
+    },
+    {
+      "album": {
         "name": "Waar Blijf Je Nou",
         "url": "https://open.spotify.com/album/5bVeC1xSb9cerOTLbVCKDJ"
       },
@@ -11920,7 +12148,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 216890,
       "name": "Waarom Ben Jij Gegaan - Akoestisch",
       "url": "https://open.spotify.com/track/6f8Nda8vkpFrwsMX5l320t"

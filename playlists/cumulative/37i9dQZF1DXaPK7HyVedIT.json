@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: Beltran",
+  "description": "Eletr\u00f4nico do momento para curtir onde estiver. Foto: GOBAITH",
   "name": "Dance Paradise",
   "tracks": [
     {
@@ -610,6 +610,24 @@
       "duration_ms": 232858,
       "name": "Alcalina",
       "url": "https://open.spotify.com/track/4NNfMsL0JnIZXi16qF9HAM"
+    },
+    {
+      "album": {
+        "name": "Alibi",
+        "url": "https://open.spotify.com/album/0vnvOnKMuz5aRGIo7vmGzw"
+      },
+      "artists": [
+        {
+          "name": "GOBAITH",
+          "url": "https://open.spotify.com/artist/7m7cqf2HQsPXvAhfU2e320"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144590,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/1o0Nz5XSGGWIYcgptpV3ev"
     },
     {
       "album": {
@@ -4324,7 +4342,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 192230,
       "name": "Dark Love",
       "url": "https://open.spotify.com/track/272zNOGMxYSxDP9kAaCnPn"
@@ -4364,7 +4382,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 147692,
       "name": "De Vista",
       "url": "https://open.spotify.com/track/0R1JOzdNBEvdIDUs0SgMVM"
@@ -5562,7 +5580,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 131385,
       "name": "Electric",
       "url": "https://open.spotify.com/track/6fTZI4QbJXMJqIN0i7FJqJ"
@@ -6167,6 +6185,28 @@
     },
     {
       "album": {
+        "name": "Express",
+        "url": "https://open.spotify.com/album/6ncCdEYUdWGnvDZVzKGc2Q"
+      },
+      "artists": [
+        {
+          "name": "Juicce",
+          "url": "https://open.spotify.com/artist/63arbh8ZF2mvGFINe50Byi"
+        },
+        {
+          "name": "Faiolli",
+          "url": "https://open.spotify.com/artist/6oBVe2YK3rG8pS4eLf36wO"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "Express",
+      "url": "https://open.spotify.com/track/7vFHfIq0siDHZoCcQwgbj4"
+    },
+    {
+      "album": {
         "name": "Eyes",
         "url": "https://open.spotify.com/album/5n40WLofQwmG7dsgewDyzR"
       },
@@ -6650,7 +6690,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 155076,
       "name": "Fendi",
       "url": "https://open.spotify.com/track/1vZaCYgIlaIIA7z5wuaCVW"
@@ -6832,7 +6872,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 226467,
       "name": "Firme Forte e Fiel",
       "url": "https://open.spotify.com/track/7gjdw7zbEnF9gdlpl1IKxO"
@@ -6880,6 +6920,24 @@
       "duration_ms": 212812,
       "name": "Flex",
       "url": "https://open.spotify.com/track/5xEkS8jl0DwBNMU7uBEm7e"
+    },
+    {
+      "album": {
+        "name": "Flex/Cardio",
+        "url": "https://open.spotify.com/album/3575akg0Xr8XWOz2L83hR2"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/1TtkiapicAnn1NxK2aARnp"
     },
     {
       "album": {
@@ -7457,6 +7515,24 @@
     },
     {
       "album": {
+        "name": "Get Funky, Get Down",
+        "url": "https://open.spotify.com/album/1yGDIQO2LixM0r9jPbgnIN"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215246,
+      "name": "Get Funky, Get Down",
+      "url": "https://open.spotify.com/track/0WbmmCsVyoZlOBxK3N9N8d"
+    },
+    {
+      "album": {
         "name": "Get Naughty",
         "url": "https://open.spotify.com/album/3nKxR0KC6khTVASw8yFckY"
       },
@@ -7740,6 +7816,24 @@
       "duration_ms": 188731,
       "name": "Go Mode",
       "url": "https://open.spotify.com/track/0Rxn4PqpW2wiNhj5a3Sjgd"
+    },
+    {
+      "album": {
+        "name": "God Complex",
+        "url": "https://open.spotify.com/album/70AuVBXEEwDaSprdXbyf2O"
+      },
+      "artists": [
+        {
+          "name": "GREG 99",
+          "url": "https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205312,
+      "name": "God Complex",
+      "url": "https://open.spotify.com/track/3ujrxclgI5IGFpGGcid37R"
     },
     {
       "album": {
@@ -8771,6 +8865,28 @@
     },
     {
       "album": {
+        "name": "Housin Blues",
+        "url": "https://open.spotify.com/album/6TQYSQduzUbFhYMiux8N69"
+      },
+      "artists": [
+        {
+          "name": "Afterclapp",
+          "url": "https://open.spotify.com/artist/6SOIDTPmPScMiJYBm75gRC"
+        },
+        {
+          "name": "CIDO",
+          "url": "https://open.spotify.com/artist/5fwNfJ7qI8reJFxpL3TaPL"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344516,
+      "name": "Housin Blues",
+      "url": "https://open.spotify.com/track/6u2KLujg40qvoBTAj1LiYX"
+    },
+    {
+      "album": {
         "name": "How Does It Feel",
         "url": "https://open.spotify.com/album/5UM3WxDcuJxZ494yrvP37S"
       },
@@ -8914,6 +9030,28 @@
       "duration_ms": 173334,
       "name": "I Can Feel It",
       "url": "https://open.spotify.com/track/6gJoL56dfaOwv5nZ8gunrz"
+    },
+    {
+      "album": {
+        "name": "Future's Back",
+        "url": "https://open.spotify.com/album/1Qrh5U9VQnrJYycSGPhUjd"
+      },
+      "artists": [
+        {
+          "name": "Douth!",
+          "url": "https://open.spotify.com/artist/3YGDb5v2LDFC9eNap5mpLz"
+        },
+        {
+          "name": "Mr. Talkbox",
+          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196602,
+      "name": "I Can't Stop",
+      "url": "https://open.spotify.com/track/1p8VsUibH1b4HpgfOEmfrk"
     },
     {
       "album": {
@@ -10568,7 +10706,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 269090,
       "name": "Keeper",
       "url": "https://open.spotify.com/track/5FXXTHsic6gGowjoF4orSR"
@@ -10776,10 +10914,32 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 270000,
       "name": "Kura",
       "url": "https://open.spotify.com/track/5h2IBXZRH8GYrA0LnQMYGb"
+    },
+    {
+      "album": {
+        "name": "La La Land",
+        "url": "https://open.spotify.com/album/3TnpuENSFAIqhSzxizdFu8"
+      },
+      "artists": [
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Special M",
+          "url": "https://open.spotify.com/artist/0rzSdpejrKjBJ9FK5kqvgX"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "La La Land",
+      "url": "https://open.spotify.com/track/5IgJUA97PVz1HC2l7efeOo"
     },
     {
       "album": {
@@ -10938,6 +11098,28 @@
       "duration_ms": 226352,
       "name": "Lately - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/3GGSTIZzyCAhTDL96G0RD1"
+    },
+    {
+      "album": {
+        "name": "Latin Tricks",
+        "url": "https://open.spotify.com/album/3Ry234k8HvfxxgOAz2eEeO"
+      },
+      "artists": [
+        {
+          "name": "Chemical Surf",
+          "url": "https://open.spotify.com/artist/7LgAW1ZiEd8f3HtCMGFaGx"
+        },
+        {
+          "name": "Marcelo Sangalo",
+          "url": "https://open.spotify.com/artist/1cb9uppYRysRLdr47AeIEJ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137343,
+      "name": "Latin Tricks",
+      "url": "https://open.spotify.com/track/3j5wNFjOnsoTxKvwCVwqAI"
     },
     {
       "album": {
@@ -12873,6 +13055,24 @@
     },
     {
       "album": {
+        "name": "Money Stash",
+        "url": "https://open.spotify.com/album/49f1dJgv4xUNgEUKM4efDh"
+      },
+      "artists": [
+        {
+          "name": "Felguk",
+          "url": "https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168984,
+      "name": "Money Stash",
+      "url": "https://open.spotify.com/track/5rmgbzlco0mNoqmLaUZQjc"
+    },
+    {
+      "album": {
         "name": "Monster (with Alok)",
         "url": "https://open.spotify.com/album/58KYzcUrRpFM6ycYZLKBFX"
       },
@@ -13378,7 +13578,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 178153,
       "name": "My Own Thang (To The Beat)",
       "url": "https://open.spotify.com/track/675XtSIBWY5q5D5lxdp40M"
@@ -14090,7 +14290,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 364724,
       "name": "Nunca",
       "url": "https://open.spotify.com/track/2QT4b2LhsnKTQwlBsI12wI"
@@ -14116,6 +14316,24 @@
       "duration_ms": 205500,
       "name": "N\u00e3o Sei Parar",
       "url": "https://open.spotify.com/track/620eMyji7XM9zf0kHwDsys"
+    },
+    {
+      "album": {
+        "name": "O DJ Te Convoca",
+        "url": "https://open.spotify.com/album/5kELhdKyNdX06S5o7fSC7V"
+      },
+      "artists": [
+        {
+          "name": "Jaca Beats",
+          "url": "https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182850,
+      "name": "O DJ Te Convoca",
+      "url": "https://open.spotify.com/track/72YWCeiJ2AD7GGX2aAStLr"
     },
     {
       "album": {
@@ -14664,7 +14882,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 185859,
       "name": "Pa Ca",
       "url": "https://open.spotify.com/track/5CWPDL3gvV8xq3VBwjNrTR"
@@ -15030,7 +15248,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 160644,
       "name": "Physical",
       "url": "https://open.spotify.com/track/73nIuR6rG9ZZv23xcSDHOU"
@@ -17080,7 +17298,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 210000,
       "name": "SIDE2SIDE",
       "url": "https://open.spotify.com/track/2u2MtR8eSvBWjQ8831TyWp"
@@ -17343,6 +17561,24 @@
     },
     {
       "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/0xGrzY3jWCS8CzAEuEC8Jy"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/7MBqAHCpO3ETl6JpNI8mye"
+    },
+    {
+      "album": {
         "name": "Solution",
         "url": "https://open.spotify.com/album/2i0FUUGIVB57bQHrLG0Tut"
       },
@@ -17354,7 +17590,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 189937,
       "name": "Solution",
       "url": "https://open.spotify.com/track/2YgRCkLRsdW2HbWw8qjB9H"
@@ -19423,6 +19659,28 @@
     },
     {
       "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/3eMB7eDSuklusjzYAMyVIb"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "DEPARTAMENTO",
+          "url": "https://open.spotify.com/artist/3Cu5XeR4o1V8atLssDZUl1"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191655,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/4mloPBa6kT7U2b6ok2TvZe"
+    },
+    {
+      "album": {
         "name": "Trajad\u00e3o / Everybody",
         "url": "https://open.spotify.com/album/5vXC2kXKghDQeXT33Sv3Au"
       },
@@ -19434,7 +19692,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 188906,
       "name": "Trajad\u00e3o",
       "url": "https://open.spotify.com/track/3DNROV85RpzdQP7E1Erpa0"
@@ -21352,6 +21610,24 @@
       "duration_ms": 302362,
       "name": "Ypsilon",
       "url": "https://open.spotify.com/track/0uwUEWkwJTIgWLKD1VHZMr"
+    },
+    {
+      "album": {
+        "name": "ZIPLOCK",
+        "url": "https://open.spotify.com/album/5Sk0ZlH92suFxrjJ6aLh7b"
+      },
+      "artists": [
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210053,
+      "name": "ZIPLOCK",
+      "url": "https://open.spotify.com/track/2obGMUH9QL8cgyj6bBM58h"
     },
     {
       "album": {

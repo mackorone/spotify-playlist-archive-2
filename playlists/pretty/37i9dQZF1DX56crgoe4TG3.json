@@ -1,6 +1,6 @@
 {
   "description": "A mix of folk and bluegrass covers of pop, rock, hip-hop, folk, and indie songs. Cover: I'm With Her",
-  "num_followers": 285563,
+  "num_followers": 285554,
   "original_name": "Bluegrass Covers",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,30 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
+        "name": "Old Cane Back Rocker",
+        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
+      },
+      "artists": [
+        {
+          "name": "Darrell Scott",
+          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
+        },
+        {
+          "name": "Darrell Scott String Band",
+          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
+        },
+        {
+          "name": "John Cowan",
+          "url": "https://open.spotify.com/artist/6aOabUkAto0WT1xZ5qLBZY"
+        }
+      ],
+      "duration_ms": 315345,
+      "name": "Southern Cross",
+      "url": "https://open.spotify.com/track/0rWkEKB7L5oUroW0KFwOgX"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/6HmVQtiQBu2PUeZchpJLrP"
       },
@@ -687,30 +711,6 @@
       "duration_ms": 189877,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/6e5W9y8PcwJtZpmEzCy1pW"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
-        "name": "Old Cane Back Rocker",
-        "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
-      },
-      "artists": [
-        {
-          "name": "Darrell Scott",
-          "url": "https://open.spotify.com/artist/1qMgGon16RoDAfujk41Em0"
-        },
-        {
-          "name": "Darrell Scott String Band",
-          "url": "https://open.spotify.com/artist/34QTjkXRoFVafdZLCIlyQh"
-        },
-        {
-          "name": "John Cowan",
-          "url": "https://open.spotify.com/artist/6aOabUkAto0WT1xZ5qLBZY"
-        }
-      ],
-      "duration_ms": 315345,
-      "name": "Southern Cross",
-      "url": "https://open.spotify.com/track/0rWkEKB7L5oUroW0KFwOgX"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": ".",
-        "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 298250,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Old Cane Back Rocker",
         "url": "https://open.spotify.com/album/6iUD7V9RCB0End8bgyk4ik"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 267690,
       "name": "It's a Great Day to Be Alive",
       "url": "https://open.spotify.com/track/64lQoUgmhvS8KqstWlg4J9"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": ".",
+        "url": "https://open.spotify.com/album/76MzjkhMULN2M1Ae1Dd9cP"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 298250,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/1E5Th7qqtzSdqapUW16nYD"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Hits of Newgrass",
-        "url": "https://open.spotify.com/album/3xS4XeyzLdRN58BwJEoBeE"
-      },
-      "artists": [
-        {
-          "name": "The Seldom Scene",
-          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "Bad Moon Rising",
-      "url": "https://open.spotify.com/track/21PHpRAPpmSUIICiFNq5mb"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "We Just Disagree",
         "url": "https://open.spotify.com/album/4ugzG0tOdg2rFmLN8S8fLd"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 191600,
       "name": "We Just Disagree",
       "url": "https://open.spotify.com/track/787fid8wl4wfd4UpIaI2Gz"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Hits of Newgrass",
+        "url": "https://open.spotify.com/album/3xS4XeyzLdRN58BwJEoBeE"
+      },
+      "artists": [
+        {
+          "name": "The Seldom Scene",
+          "url": "https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Bad Moon Rising",
+      "url": "https://open.spotify.com/track/21PHpRAPpmSUIICiFNq5mb"
     },
     {
       "added_at": "2026-02-04 05:00:53",
@@ -1779,26 +1779,6 @@
     {
       "added_at": "2026-02-04 05:00:53",
       "album": {
-        "name": "Love Is Alive",
-        "url": "https://open.spotify.com/album/09ETIPG6cNhUjqd9wWqUbg"
-      },
-      "artists": [
-        {
-          "name": "Shar Carillo",
-          "url": "https://open.spotify.com/artist/7wAk74eumCQ0AeYMt3AA2a"
-        },
-        {
-          "name": "Loke",
-          "url": "https://open.spotify.com/artist/6WmiUXwxT0ICHHz3oPWJgw"
-        }
-      ],
-      "duration_ms": 243789,
-      "name": "Love Is Alive",
-      "url": "https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX"
-    },
-    {
-      "added_at": "2026-02-04 05:00:53",
-      "album": {
         "name": "Jukebox",
         "url": "https://open.spotify.com/album/2yJmDsF4W09gny2QzDlftH"
       },
@@ -1815,6 +1795,26 @@
       "duration_ms": 193000,
       "name": "Speed of the Sound of Loneliness",
       "url": "https://open.spotify.com/track/7xDbOxIUd57NFyLG3lfmF7"
+    },
+    {
+      "added_at": "2026-02-04 05:00:53",
+      "album": {
+        "name": "Love Is Alive",
+        "url": "https://open.spotify.com/album/09ETIPG6cNhUjqd9wWqUbg"
+      },
+      "artists": [
+        {
+          "name": "Shar Carillo",
+          "url": "https://open.spotify.com/artist/7wAk74eumCQ0AeYMt3AA2a"
+        },
+        {
+          "name": "Loke",
+          "url": "https://open.spotify.com/artist/6WmiUXwxT0ICHHz3oPWJgw"
+        }
+      ],
+      "duration_ms": 243789,
+      "name": "Love Is Alive",
+      "url": "https://open.spotify.com/track/0WaBhRYUqed3o4lbCGcUGX"
     }
   ],
   "unique_name": "Bluegrass Covers",

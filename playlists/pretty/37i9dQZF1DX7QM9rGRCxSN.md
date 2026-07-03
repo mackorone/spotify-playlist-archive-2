@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Tristeza latina
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,925 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,942 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Estética Unisex](https://open.spotify.com/track/7cyaNzIBHiKiUj9qYYc7MV) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Estética Unisex](https://open.spotify.com/album/17yFPNdiIHiEbyg8heJyOS) | 1:53 |
-| 2 | [Quieres darme un beso?](https://open.spotify.com/track/3ZJx8bxPfs1D7nsNtrdIDS) | [Quemarlo Todo Por Error](https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG) | [Quieres darme un beso?](https://open.spotify.com/album/2KRplOwcKL3SCTtts8dHMW) | 2:49 |
+| 2 | [Canciones Tristes](https://open.spotify.com/track/5ZsQpjV1QPglW8R9ANYsPh) | [Cursi no muere](https://open.spotify.com/artist/6UQZ3J3hDBh29n2DUYRmMR) | [De Canciones Tristes](https://open.spotify.com/album/6pAkobibIhGzAiHEkvyfMS) | 2:01 |
 | 3 | [minet](https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv) | [archipiélagos](https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d) | [split](https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN) | 3:45 |
-| 4 | [Canciones Tristes](https://open.spotify.com/track/5ZsQpjV1QPglW8R9ANYsPh) | [Cursi no muere](https://open.spotify.com/artist/6UQZ3J3hDBh29n2DUYRmMR) | [De Canciones Tristes](https://open.spotify.com/album/6pAkobibIhGzAiHEkvyfMS) | 2:01 |
+| 4 | [Quieres darme un beso?](https://open.spotify.com/track/3ZJx8bxPfs1D7nsNtrdIDS) | [Quemarlo Todo Por Error](https://open.spotify.com/artist/2uBBnvNK2YBWL8Q4f4W8GG) | [Quieres darme un beso?](https://open.spotify.com/album/2KRplOwcKL3SCTtts8dHMW) | 2:49 |
 | 5 | [La Noche](https://open.spotify.com/track/1jpP9y8UW2BMBAYYy4QCqQ) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Todo Va Hacia el Mar](https://open.spotify.com/album/3hUBWCquWieokQRa0Yzvmx) | 3:33 |
 | 6 | [Pont des Arts \(Todo por ti\)](https://open.spotify.com/track/60cIaGeOltpsQuvdehmylx) | [Honey Pot!](https://open.spotify.com/artist/2ChMQHl50BYiWfrN0OxqY7) | [Apicultura para principiantes](https://open.spotify.com/album/4347ivXcsLTFkPFnL8ZXqP) | 4:08 |
 | 7 | [Todos Preguntaron por Ti](https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw) | [Nunca Pasa Nada](https://open.spotify.com/artist/3Cl3fuQkAki9QL1lVUWK6T) | [Guía para Comprender los Sueños](https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2) | 2:29 |

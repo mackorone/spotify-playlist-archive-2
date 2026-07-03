@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,659 likes - 90 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,672 likes - 90 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 40 | [Taipero Poriahu](https://open.spotify.com/track/2Aja7cmI4MrJUz5aTtX3Ci) | [Antonio Tarragó Ros](https://open.spotify.com/artist/65jGZiPXVWGDlLhnICMfvI) | [Taipero Poriahu](https://open.spotify.com/album/4V74DbM1ZAQepwoXCpvooE) | 3:09 |
 | 41 | [Bien Correntino / Lágrima de Cocodrilo / Masticando / Conocerte a Ti](https://open.spotify.com/track/6VtBkcpEWpPBCRinLmVmV4) | [Los Criollitos del Chamamé](https://open.spotify.com/artist/1uTJBtek1AfeL07ev0Lg4r) | [Con Estilo Mbareté](https://open.spotify.com/album/6eUSdhrjS2jxvJElvx5M4C) | 7:54 |
 | 42 | [Por Tus Besos](https://open.spotify.com/track/0R7kBSEhMqPekZWVGngBBr) | [Hermanos Barrios](https://open.spotify.com/artist/0PyKIePrPdDS9FT1pPbm9X) | [Las Nuevas Estrellas del Chamamé](https://open.spotify.com/album/6xanqDBG1dHjgEpEG409xW) | 2:47 |
-| 43 | [Neique Chamigo](https://open.spotify.com/track/0VkAlxNs8vUcgWjlDD6dd2) | [Carlos Talavera con el Cuarteto Santa Ana](https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I), [Ernesto Montiel](https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd) | [Los 55 Anos del Cuarteto Santa Ana](https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr) | 2:26 |
-| 44 | [La Calandria](https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ) | [Cuarteto Santa Ana](https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu) | [20 Superexitos Originales](https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx) | 2:55 |
+| 43 | [La Calandria](https://open.spotify.com/track/33txRH4sE8ujbZH1yhHWRQ) | [Cuarteto Santa Ana](https://open.spotify.com/artist/0eyxxdeZq2CE2oMvmuceBu) | [20 Superexitos Originales](https://open.spotify.com/album/7hAwpXNoZFW3AFby9tsSYx) | 2:55 |
+| 44 | [Neique Chamigo](https://open.spotify.com/track/0VkAlxNs8vUcgWjlDD6dd2) | [Carlos Talavera con el Cuarteto Santa Ana](https://open.spotify.com/artist/6KmWYyLeQgz4DIQvxLZm9I), [Ernesto Montiel](https://open.spotify.com/artist/0kps7D5aSOND65MD33m9Pd) | [Los 55 Anos del Cuarteto Santa Ana](https://open.spotify.com/album/07WYgRf0q9zz4TuFPXaBhr) | 2:26 |
 | 45 | [De Pájaros y Campanas](https://open.spotify.com/track/5L5R6NMMGc6HiTTbOHZqeO) | [Juan Carlos Jensen](https://open.spotify.com/artist/1GBfQ2cHEpXyGiHBlSjVfi) | [Su Poesía y Su Voz, Vol\. 2](https://open.spotify.com/album/4l5nvz2OokGtlEgNCLxupu) | 2:47 |
 | 46 | [Virgencita de Itatí](https://open.spotify.com/track/6myPU49XhJGyE95Ec22ked) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [20 Grandes Exitos](https://open.spotify.com/album/7sUOgQelTmG2R9yWcgu4F0) | 2:35 |
 | 47 | [Lluvia Correntina](https://open.spotify.com/track/7iahshvxDbg0bG7FWMn1yU) | [Mateo Villalba](https://open.spotify.com/artist/52bjhGQEhXetxBJWJ1F9kc) | [Antología](https://open.spotify.com/album/6RaH8HIyiwCMfLN3iDuaEM) | 3:19 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 59 | [Siento haberte perdido](https://open.spotify.com/track/2CvVaPngxQLpn8UQqiXl7Y) | [Monchito Merlo](https://open.spotify.com/artist/35C2ZfgMovQotan3rNrYT3) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:15 |
 | 60 | [A villa Guillermina](https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg) | [Paquito Aranda](https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:50 |
 | 61 | [Al Gaucho Gil](https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc) | [Los Chaqueñísimos Cardozo](https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY) | [21 Grandes Exitos](https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W) | 3:26 |
-| 62 | [Mi ponchillo colorado](https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP) | [Mario Millán Medina](https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:24 |
-| 63 | [Bien picadito](https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN) | [Los Taitas](https://open.spotify.com/artist/2h6aLldQBBQT14eZt0vXPU) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 2:48 |
+| 62 | [Bien picadito](https://open.spotify.com/track/7eGEktGlPx393Ttet2J8nN) | [Los Taitas](https://open.spotify.com/artist/2h6aLldQBBQT14eZt0vXPU) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 2:48 |
+| 63 | [Mi ponchillo colorado](https://open.spotify.com/track/7tHIM5cMZgcSvTZPaoAzFP) | [Mario Millán Medina](https://open.spotify.com/artist/6Uq6uzRcaA7db0ZZzZtVTJ) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:24 |
 | 64 | [Jamás Te Podré Olvidar](https://open.spotify.com/track/1ckEDMHvvZTZxWAUINDPoh) | [Rosendo y Ofelia](https://open.spotify.com/artist/6VvdYwVXudhCWKn8sVo22j) | [Los 20 Años de Rosendo y Ofelia](https://open.spotify.com/album/3LrNb43QWmWZZIvHB1r5HC) | 2:23 |
 | 65 | [Malvita](https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:05 |
 | 66 | [Un simbronazo](https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO) | [Los Cate](https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 2:03 |

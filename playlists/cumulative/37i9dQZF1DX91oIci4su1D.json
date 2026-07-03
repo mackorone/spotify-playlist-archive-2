@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "When everything lifts to a higher state. <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">Trance and progressive</a> with Armin van Buuren & Hannah Laing",
-  "name": "Trance Mission",
+  "description": "\ud83e\udee7  when everything lifts to a higher state \ud83e\udee7 <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a> with KI/KI",
+  "name": "trance mission",
   "tracks": [
     {
       "album": {
@@ -224,7 +224,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 204324,
       "name": "5AM",
       "url": "https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY"
@@ -2558,7 +2558,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 281250,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/75JEQxjvZKEBCSAIFEkZnz"
@@ -6087,6 +6087,24 @@
     },
     {
       "album": {
+        "name": "44024",
+        "url": "https://open.spotify.com/album/1s2FHooyT4QaTOvHC61QMf"
+      },
+      "artists": [
+        {
+          "name": "Ueberrest",
+          "url": "https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230427,
+      "name": "Disturbing Paradise",
+      "url": "https://open.spotify.com/track/3ajiaigek9IkTjYXJzIMDY"
+    },
+    {
+      "album": {
         "name": "Divergent",
         "url": "https://open.spotify.com/album/0phnZ39wLh4zd4tLRZkrpQ"
       },
@@ -6168,6 +6186,28 @@
       "duration_ms": 236223,
       "name": "Do You Want Me",
       "url": "https://open.spotify.com/track/5GXT1Qz6oMmvJalrPntZ4b"
+    },
+    {
+      "album": {
+        "name": "Domino (Space 92 Remix)",
+        "url": "https://open.spotify.com/album/3RVpReOX57xE9g6OdqaXtF"
+      },
+      "artists": [
+        {
+          "name": "Oxia",
+          "url": "https://open.spotify.com/artist/2zgFYHwSEYOc1KnldGsBXK"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232500,
+      "name": "Domino - Space 92 Remix",
+      "url": "https://open.spotify.com/track/2sksm6zC7U7fRmAGSQICiF"
     },
     {
       "album": {
@@ -6580,7 +6620,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 184737,
       "name": "Each Other",
       "url": "https://open.spotify.com/track/7L9XqPFJeHkl6g8fdjyHUA"
@@ -7072,7 +7112,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 260353,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP"
@@ -10942,6 +10982,24 @@
       "duration_ms": 196521,
       "name": "Here I Am",
       "url": "https://open.spotify.com/track/0MUbxQzL04ftYyR8qsCRNj"
+    },
+    {
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/7nelv3ZYPwq30wiugEJkJr"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199864,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/4lGvzUh0fApdiJ4hMPvkF5"
     },
     {
       "album": {
@@ -19606,7 +19664,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 200826,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/7Lu42P39lHOpozgCUBP0SW"
@@ -20320,7 +20378,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 209516,
       "name": "Rule the World",
       "url": "https://open.spotify.com/track/40CYx4lfcMUF1TgYCm55MO"
@@ -21158,7 +21216,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 195000,
       "name": "Seven Seas / The Poem",
       "url": "https://open.spotify.com/track/7dub73ADzBTXTuN6ONhfWM"
@@ -23130,6 +23188,40 @@
       "duration_ms": 233043,
       "name": "Sugarphoria",
       "url": "https://open.spotify.com/track/7hT5j60wxz2u9INdnY5FOM"
+    },
+    {
+      "album": {
+        "name": "Summer Jam",
+        "url": "https://open.spotify.com/album/6wdCgtpAuoLv5w5FAQJ2Rg"
+      },
+      "artists": [
+        {
+          "name": "TLM",
+          "url": "https://open.spotify.com/artist/7wV0mwdNBRSZ7vCaEPCGME"
+        },
+        {
+          "name": "Tjade",
+          "url": "https://open.spotify.com/artist/2XgDjvneRRotQu4r9lTRuh"
+        },
+        {
+          "name": "Lucky Done Gone",
+          "url": "https://open.spotify.com/artist/1eKMhcfR1J5oGdmcOiVA1n"
+        },
+        {
+          "name": "Moody Mehran",
+          "url": "https://open.spotify.com/artist/1FtldHhVu3BpGvaiwaPE5K"
+        },
+        {
+          "name": "Merely",
+          "url": "https://open.spotify.com/artist/3R0EMFbUS5NaombX9GQOn7"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229720,
+      "name": "Summer Jam",
+      "url": "https://open.spotify.com/track/0hPJu90W3jFiTSogvXTm3A"
     },
     {
       "album": {
@@ -25619,6 +25711,32 @@
     },
     {
       "album": {
+        "name": "Known Universe",
+        "url": "https://open.spotify.com/album/72ut3VSlGusGRv2CHhXMlB"
+      },
+      "artists": [
+        {
+          "name": "Push",
+          "url": "https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR"
+        },
+        {
+          "name": "M.I.K.E.",
+          "url": "https://open.spotify.com/artist/2FClSTHSkbKYByTy7dnBQq"
+        },
+        {
+          "name": "M.I.K.E. Push",
+          "url": "https://open.spotify.com/artist/1FLWivyoqKrhsxokChtUnI"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236430,
+      "name": "Trance-Fixation",
+      "url": "https://open.spotify.com/track/67eukpKAAe4QVc0vCQ61Y8"
+    },
+    {
+      "album": {
         "name": "Transience",
         "url": "https://open.spotify.com/album/2JMJaKZdIZN3SIbQP26L2C"
       },
@@ -25864,6 +25982,28 @@
       "duration_ms": 220698,
       "name": "Turn! Turn! Turn!",
       "url": "https://open.spotify.com/track/2V3NVm4RWFjb6gXrfTFjkb"
+    },
+    {
+      "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/4O9WOdJy4A0pnThxt3t5dm"
+      },
+      "artists": [
+        {
+          "name": "Scott Mac",
+          "url": "https://open.spotify.com/artist/2zqfQIxdnzR0JwC5bRmTYw"
+        },
+        {
+          "name": "De-Progression",
+          "url": "https://open.spotify.com/artist/5cjQgiwJE3lzINYO0plJ0b"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208244,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/1ze7w0PmdZVvXJSXjY1JHM"
     },
     {
       "album": {
@@ -26200,7 +26340,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 240000,
       "name": "Universal Nation - Charlotte de Witte Rework - Edit",
       "url": "https://open.spotify.com/track/1NhCSHNxAyFb00yI1Am68e"

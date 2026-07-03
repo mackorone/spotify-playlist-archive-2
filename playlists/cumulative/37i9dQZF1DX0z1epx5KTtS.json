@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Ste Milano",
+  "description": "The best of Coup\u00e9 D\u00e9cal\u00e9 and Biama from the continent to Paris. Photo : Dydy Yeman",
   "name": "Coup\u00e9 D\u00e9cal\u00e9",
   "tracks": [
     {
@@ -2378,7 +2378,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 155515,
       "name": "Eusseu toi tu me connais",
       "url": "https://open.spotify.com/track/5E0fsHZn7rKdrwguOZ7au7"
@@ -3180,6 +3180,28 @@
       "duration_ms": 148933,
       "name": "Kess Mouler",
       "url": "https://open.spotify.com/track/3LZGhKB0tbzjNnPixZn29b"
+    },
+    {
+      "album": {
+        "name": "Ketebo",
+        "url": "https://open.spotify.com/album/7jMCPgy8e0guBeCpSI8Rpj"
+      },
+      "artists": [
+        {
+          "name": "Bigyne wiz",
+          "url": "https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9"
+        },
+        {
+          "name": "Momo Hayek",
+          "url": "https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172323,
+      "name": "Ketebo",
+      "url": "https://open.spotify.com/track/5OsYorTnhNm1Ur8GEBE6EM"
     },
     {
       "album": {
@@ -4424,6 +4446,32 @@
       "duration_ms": 227294,
       "name": "On a pris balle",
       "url": "https://open.spotify.com/track/3VqaDBt6C9pNns6didf0QM"
+    },
+    {
+      "album": {
+        "name": "On cherche",
+        "url": "https://open.spotify.com/album/66ZRr2721oUC72HVNvIzIR"
+      },
+      "artists": [
+        {
+          "name": "Momo Hayek",
+          "url": "https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski"
+        },
+        {
+          "name": "Azazou Satelite",
+          "url": "https://open.spotify.com/artist/4IvJKBoOsYWf433rkicglV"
+        },
+        {
+          "name": "La Team Gbozon",
+          "url": "https://open.spotify.com/artist/35mGvtGQqhlBOQV0UlvgrC"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174837,
+      "name": "On cherche",
+      "url": "https://open.spotify.com/track/3JbKyQ1ebDGbl4drpUiR33"
     },
     {
       "album": {

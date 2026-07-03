@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> Omarion's got that big energy.
+> Aitch's got that big energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,173 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,182 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Could Do It](https://open.spotify.com/track/7AEJOlZZamhM9I32JUsNnF) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [O2 \- Part 1](https://open.spotify.com/album/38fs18fUgnA1ESHegI7OXG) | 3:32 |
-| 2 | [Dancing Nonstop](https://open.spotify.com/track/4T3FFjfzTvVtP7vXHl9CmY) | [SHEBAD](https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK) | [Dancing Nonstop](https://open.spotify.com/album/73oBCUqIN9iqsXdsfEQefi) | 4:33 |
-| 3 | [Cheetah Print \(feat\. Sexyy Red\)](https://open.spotify.com/track/1AFW3QBDjBmb4EL9gyiYhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [MAID OF HONOUR](https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk) | 3:22 |
-| 4 | [Go Ladies](https://open.spotify.com/track/4pWlEdLIy2tQ3hQY1agXLh) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Wave Gods 2: Cosmos Brothers](https://open.spotify.com/album/1xrYyIlIIW1GbTsmbog6DU) | 2:27 |
-| 5 | [6IXSIDE](https://open.spotify.com/track/7mTqte91ND3ETnfLdUPfkD) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [6IXSIDE](https://open.spotify.com/album/6URB0TDgSZfAiJTzAYnRGw) | 2:23 |
-| 6 | [Too Easy](https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Too Easy](https://open.spotify.com/album/69KTB2HVrTKtY8eIPLcHTc) | 1:54 |
-| 7 | [point blank](https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [point blank](https://open.spotify.com/album/2jJpukwwcs7tfNQFGq8iLr) | 4:26 |
-| 8 | [Mile High Club](https://open.spotify.com/track/78Vr8tpu5JZHOaZdwwUWi5) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Mile High Club](https://open.spotify.com/album/37vFZU991EBptdZsgGfy4M) | 3:31 |
-| 9 | [What's Done Is Done](https://open.spotify.com/track/5W1gRMS6kU0AVzcQSobcD1) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/3WLBFuDDgcytF5eAfTdZ1C) | 2:53 |
-| 10 | [RMB \(Ring My Bell\)](https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [RMB \(Ring My Bell\)](https://open.spotify.com/album/4pkAMeqsWDN1YtFHsKoD1g) | 2:54 |
+| 1 | [RMB \(Ring My Bell\)](https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [RMB \(Ring My Bell\)](https://open.spotify.com/album/4pkAMeqsWDN1YtFHsKoD1g) | 2:54 |
+| 2 | [I Could Do It](https://open.spotify.com/track/7AEJOlZZamhM9I32JUsNnF) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [O2 \- Part 1](https://open.spotify.com/album/38fs18fUgnA1ESHegI7OXG) | 3:32 |
+| 3 | [Dancing Nonstop](https://open.spotify.com/track/4T3FFjfzTvVtP7vXHl9CmY) | [SHEBAD](https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK) | [Dancing Nonstop](https://open.spotify.com/album/73oBCUqIN9iqsXdsfEQefi) | 4:33 |
+| 4 | [Cheetah Print \(feat\. Sexyy Red\)](https://open.spotify.com/track/1AFW3QBDjBmb4EL9gyiYhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [MAID OF HONOUR](https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk) | 3:22 |
+| 5 | [Go Ladies](https://open.spotify.com/track/4pWlEdLIy2tQ3hQY1agXLh) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Max B](https://open.spotify.com/artist/7f35VZGDpomj11PXdNn5D9) | [Wave Gods 2: Cosmos Brothers](https://open.spotify.com/album/1xrYyIlIIW1GbTsmbog6DU) | 2:27 |
+| 6 | [6IXSIDE](https://open.spotify.com/track/7mTqte91ND3ETnfLdUPfkD) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [6IXSIDE](https://open.spotify.com/album/6URB0TDgSZfAiJTzAYnRGw) | 2:23 |
+| 7 | [Too Easy](https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Too Easy](https://open.spotify.com/album/69KTB2HVrTKtY8eIPLcHTc) | 1:54 |
+| 8 | [point blank](https://open.spotify.com/track/3iVIWU9iGw8bJ8x2mfwXnI) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [point blank](https://open.spotify.com/album/2jJpukwwcs7tfNQFGq8iLr) | 4:26 |
+| 9 | [Mile High Club](https://open.spotify.com/track/78Vr8tpu5JZHOaZdwwUWi5) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Mile High Club](https://open.spotify.com/album/37vFZU991EBptdZsgGfy4M) | 3:31 |
+| 10 | [What's Done Is Done](https://open.spotify.com/track/5W1gRMS6kU0AVzcQSobcD1) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [What's Done Is Done](https://open.spotify.com/album/3WLBFuDDgcytF5eAfTdZ1C) | 2:53 |
 | 11 | [Go Down](https://open.spotify.com/track/1CCM47jkk3lJiwbpgpjP6M) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Go Down](https://open.spotify.com/album/2wd1faA0AzscGfuCJ7vkUq) | 2:26 |
 | 12 | [RUNWAY](https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [RUNWAY](https://open.spotify.com/album/0WY1wVmchFYlH4f1yZMc90) | 2:51 |
 | 13 | [passport picture](https://open.spotify.com/track/786J186GBhQ9z0jJvH18Vu) | [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [mango heist](https://open.spotify.com/artist/0oYE6kpwZgMzyOj7zIebWs) | [passport picture](https://open.spotify.com/album/4Mwjj2PJsvXBSg7KOFF2Np) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAZ0XePuYqW.md) - [plain]
 | 49 | [Brand New](https://open.spotify.com/track/20bwjMLtBeWBu5AGvyUoKJ) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Brand New](https://open.spotify.com/album/0u3xhApvlJaSq0z8GHswV5) | 2:05 |
 | 50 | [Remember \(feat\. Ravyn Lenae & Scrufizzer\)](https://open.spotify.com/track/2HlT1qcOgxlnbzBFirVz0K) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [INFINITY CLUB II](https://open.spotify.com/album/65rerxGdYHjGKB9Fx26rYK) | 2:45 |
 
-Snapshot ID: `AAAAAONLtK9jFl3bt+zOnGEC8LNBTQyB`
+Snapshot ID: `AAAAADc1jlUG+Vqmj7gSfF0zoCPL03it`

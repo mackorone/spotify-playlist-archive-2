@@ -135,6 +135,32 @@
     },
     {
       "album": {
+        "name": "Athiradi",
+        "url": "https://open.spotify.com/album/7LZ0qM8tCmY9eLwEDqRbND"
+      },
+      "artists": [
+        {
+          "name": "Vishnu Vijay",
+          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
+        },
+        {
+          "name": "Vineeth Sreenivasan",
+          "url": "https://open.spotify.com/artist/2uocTdMBXjTsS7QmAj7src"
+        },
+        {
+          "name": "Suhail Koya",
+          "url": "https://open.spotify.com/artist/1d3zWx1pD19ZF60KcVUPYv"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Ammaputhappe",
+      "url": "https://open.spotify.com/track/6Ae25tEEtHNQVaDfgqiqts"
+    },
+    {
+      "album": {
         "name": "Amsham - \u0d05\u0d02\u0d36\u0d02",
         "url": "https://open.spotify.com/album/2S8ZSnpmlReMfteHNp3zju"
       },
@@ -740,10 +766,32 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 343111,
       "name": "Elelam Kili - Malayalam",
       "url": "https://open.spotify.com/track/3EwVRpzsoeXQeAZCTXkoSr"
+    },
+    {
+      "album": {
+        "name": "Engotta (From \"Balan - The Boy\")",
+        "url": "https://open.spotify.com/album/6ssQ39B1AZhU71M6hfQhCi"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Anwar Ali",
+          "url": "https://open.spotify.com/artist/6ccDjsU6h03TcrKOvBeiu2"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203743,
+      "name": "Engotta - From \"Balan - The Boy\"",
+      "url": "https://open.spotify.com/track/2HGBTVv2WPLXuTbF2FoHyw"
     },
     {
       "album": {
@@ -1066,6 +1114,36 @@
       "duration_ms": 210261,
       "name": "Ithale Nee",
       "url": "https://open.spotify.com/track/6XRzFosRlKVzYU9UD1kkZN"
+    },
+    {
+      "album": {
+        "name": "Athiradi",
+        "url": "https://open.spotify.com/album/7LZ0qM8tCmY9eLwEDqRbND"
+      },
+      "artists": [
+        {
+          "name": "Vishnu Vijay",
+          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
+        },
+        {
+          "name": "Fejo",
+          "url": "https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3"
+        },
+        {
+          "name": "Poornima Kannan",
+          "url": "https://open.spotify.com/artist/2qqvEAKc5lcAjraG7dSCSm"
+        },
+        {
+          "name": "Suhail Koya",
+          "url": "https://open.spotify.com/artist/1d3zWx1pD19ZF60KcVUPYv"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143460,
+      "name": "IYKYK",
+      "url": "https://open.spotify.com/track/383xMizNBhAk7WYVknlNop"
     },
     {
       "album": {
@@ -2170,7 +2248,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 282812,
       "name": "Nebulakal - Travel Song - From \"Manjummel Boys\"",
       "url": "https://open.spotify.com/track/1jxFfazgOVIJeYbhBm2ENV"
@@ -3226,7 +3304,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 192500,
       "name": "Vatteppam (From \"Mandakini\")",
       "url": "https://open.spotify.com/track/2mFXx4D49RdesixfLSsoU0"

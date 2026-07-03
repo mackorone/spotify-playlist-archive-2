@@ -2,7 +2,7 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover: Davido
+> The tracks heating up the continent right now!  Cover: Asake & Wizkid
 
 701 songs - 1 day 17 hr 51 min
 

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-866 songs - 1 day 19 hr 0 min
+867 songs - 1 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -709,6 +709,7 @@
 | [soulforge](https://open.spotify.com/track/1Hs54M8NA5vCBPj9a786TN) | [dezoliar](https://open.spotify.com/artist/0KRNE8E0XAJKKHtSakLr85), [glossier](https://open.spotify.com/artist/0NS84XuaSPJTVRebjWQi7v), [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [soulforge](https://open.spotify.com/album/3QLh11hZLqxnad5iseuVQY) | 2:14 | 2025-07-22 |  |
 | [Soundclash](https://open.spotify.com/track/2RI50gVvlJUjr6v3pZxYrk) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt) | [Soundclash](https://open.spotify.com/album/3WhTR2g9NgJvZawTpwutM2) | 3:39 | 2024-05-17 | 2025-01-08 |
 | [Spark](https://open.spotify.com/track/4EXmIFpNVoe3syAh51AA5d) | [Raptures.](https://open.spotify.com/artist/37H2zWHT07jLwDF8ddpu6m) | [Spark](https://open.spotify.com/album/1HZQDlfcWvNcCPP49YPrFv) | 2:55 | 2022-05-17 | 2023-04-28 |
+| [Special](https://open.spotify.com/track/4TyACVjpkAm349tginl3V6) | [Yere](https://open.spotify.com/artist/4lzDszfgtJrnmeBfDu9dt7) | [Special](https://open.spotify.com/album/4KffaEW9LYPlX8X05GAsEh) | 2:30 | 2026-07-02 |  |
 | [Spend It All](https://open.spotify.com/track/0RD2pGHqPMJ3RBfCRhHUSK) | [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP) | [Spend It All](https://open.spotify.com/album/3H4sajgFpoIlEzSHVLvxRJ) | 2:35 | 2023-05-16 | 2023-08-10 |
 | [Spicy](https://open.spotify.com/track/5vW5kWcgzgxEO28b2yaNJj) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Southby](https://open.spotify.com/artist/30UL7vK03suadfI9eqNYLA), [Siimi](https://open.spotify.com/artist/1MrdhnQwCwxH52IlEhB657), [Conni](https://open.spotify.com/artist/3V0uGOh5VeIp99phDIgWqU) | [Cartoon & Friends](https://open.spotify.com/album/2V7zOBOVXHNo3gMx2zLTPC) | 2:44 | 2025-07-25 |  |
 | [SPINNING](https://open.spotify.com/track/6S2x7Yuaz0koabEMabL32E) | [Sam Day](https://open.spotify.com/artist/2PY7Tnti22LPC3beiiqN1U), [Zeli](https://open.spotify.com/artist/76XUcSGE6JZ8pbCxnBd1iz) | [SPINNING](https://open.spotify.com/album/1TY1VOy9ESMbjAC0F7LHv0) | 3:41 | 2025-12-04 |  |

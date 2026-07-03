@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 143696,
+  "num_followers": 143702,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-06-26 04:02:58",
       "album": {
-        "name": "Les joailliers (piano, voix)",
-        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
-      },
-      "artists": [
-        {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
-        }
-      ],
-      "duration_ms": 197111,
-      "name": "Les joailliers (piano, voix)",
-      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
-    },
-    {
-      "added_at": "2026-06-26 04:02:58",
-      "album": {
         "name": "Parmi les autres",
         "url": "https://open.spotify.com/album/7M02faB1kBH4NqOXX3ssBw"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 219000,
       "name": "Parmi les autres",
       "url": "https://open.spotify.com/track/6IXmkaf0KvW2cFcsPvFMaz"
+    },
+    {
+      "added_at": "2026-06-26 04:02:58",
+      "album": {
+        "name": "Les joailliers (piano, voix)",
+        "url": "https://open.spotify.com/album/53pkrZogQ17By0kgkf9D4o"
+      },
+      "artists": [
+        {
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+        }
+      ],
+      "duration_ms": 197111,
+      "name": "Les joailliers (piano, voix)",
+      "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
     },
     {
       "added_at": "2026-06-26 04:02:58",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-06-26 04:02:58",
       "album": {
-        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
-        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
-      },
-      "artists": [
-        {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
-        }
-      ],
-      "duration_ms": 235910,
-      "name": "Une version am\u00e9lior\u00e9e de la tristesse",
-      "url": "https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S"
-    },
-    {
-      "added_at": "2026-06-26 04:02:58",
-      "album": {
         "name": "Bright Green Vibrant Gray",
         "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
       },
@@ -1191,34 +1175,18 @@
     {
       "added_at": "2026-06-26 04:02:58",
       "album": {
-        "name": "Quand vient le soir",
-        "url": "https://open.spotify.com/album/7JVCoH5a44JEupaJdMbN5R"
+        "name": "Une Version Am\u00e9lior\u00e9e De La Tristesse",
+        "url": "https://open.spotify.com/album/6LEzxNkoWFGGDEOErpG8jr"
       },
       "artists": [
         {
-          "name": "Bye Parula",
-          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
         }
       ],
-      "duration_ms": 225998,
-      "name": "Quand vient le soir",
-      "url": "https://open.spotify.com/track/4ElgKVuLY1tLvImEqFjpMh"
-    },
-    {
-      "added_at": "2026-06-26 04:02:58",
-      "album": {
-        "name": "Disparition",
-        "url": "https://open.spotify.com/album/6eieaysfbghuloWpmlBgp2"
-      },
-      "artists": [
-        {
-          "name": "Guillaume Beauregard",
-          "url": "https://open.spotify.com/artist/1XnUQWVOlMnmexDpFVbp9T"
-        }
-      ],
-      "duration_ms": 272910,
-      "name": "Nos larmes",
-      "url": "https://open.spotify.com/track/3gGFmjQbjwQT6wWGcFuzzs"
+      "duration_ms": 235910,
+      "name": "Une version am\u00e9lior\u00e9e de la tristesse",
+      "url": "https://open.spotify.com/track/3QpRq1JRHYn4T07ifdtP0S"
     },
     {
       "added_at": "2026-06-26 04:02:58",
@@ -1239,6 +1207,38 @@
       "duration_ms": 195000,
       "name": "Fleuron (feat. Helena Deland)",
       "url": "https://open.spotify.com/track/4fgp7Ase2eu8dnkQZ73AkT"
+    },
+    {
+      "added_at": "2026-06-26 04:02:58",
+      "album": {
+        "name": "Disparition",
+        "url": "https://open.spotify.com/album/6eieaysfbghuloWpmlBgp2"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Beauregard",
+          "url": "https://open.spotify.com/artist/1XnUQWVOlMnmexDpFVbp9T"
+        }
+      ],
+      "duration_ms": 272910,
+      "name": "Nos larmes",
+      "url": "https://open.spotify.com/track/3gGFmjQbjwQT6wWGcFuzzs"
+    },
+    {
+      "added_at": "2026-06-26 04:02:58",
+      "album": {
+        "name": "Quand vient le soir",
+        "url": "https://open.spotify.com/album/7JVCoH5a44JEupaJdMbN5R"
+      },
+      "artists": [
+        {
+          "name": "Bye Parula",
+          "url": "https://open.spotify.com/artist/3CokWxStGaVakZGwOmIZjm"
+        }
+      ],
+      "duration_ms": 225998,
+      "name": "Quand vient le soir",
+      "url": "https://open.spotify.com/track/4ElgKVuLY1tLvImEqFjpMh"
     },
     {
       "added_at": "2026-06-26 04:02:58",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2026-06-26 04:02:58",
       "album": {
-        "name": "Diff\u00e9rent",
-        "url": "https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk"
+        "name": "Cloudless Sky Of None",
+        "url": "https://open.spotify.com/album/32ZEv6QQSFtC5NRAve0kFU"
       },
       "artists": [
         {
-          "name": "Minou",
-          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
+          "name": "Korovo",
+          "url": "https://open.spotify.com/artist/4sfnIK0CpZEovyUqHX3hE2"
         }
       ],
-      "duration_ms": 239047,
-      "name": "Diff\u00e9rent",
-      "url": "https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw"
+      "duration_ms": 206574,
+      "name": "Cloudless Sky Of None",
+      "url": "https://open.spotify.com/track/1TGT9DVmsPxmNpUpGyf90y"
     },
     {
       "added_at": "2026-06-26 04:02:58",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2026-06-26 04:02:58",
       "album": {
-        "name": "Cloudless Sky Of None",
-        "url": "https://open.spotify.com/album/32ZEv6QQSFtC5NRAve0kFU"
+        "name": "Diff\u00e9rent",
+        "url": "https://open.spotify.com/album/361keo8iWC2C1JP2tnFpCk"
       },
       "artists": [
         {
-          "name": "Korovo",
-          "url": "https://open.spotify.com/artist/4sfnIK0CpZEovyUqHX3hE2"
+          "name": "Minou",
+          "url": "https://open.spotify.com/artist/468dk8gLCBl8Hwobfg4PZM"
         }
       ],
-      "duration_ms": 206574,
-      "name": "Cloudless Sky Of None",
-      "url": "https://open.spotify.com/track/1TGT9DVmsPxmNpUpGyf90y"
+      "duration_ms": 239047,
+      "name": "Diff\u00e9rent",
+      "url": "https://open.spotify.com/track/6AYPK55XV15ky76ylAttXw"
     },
     {
       "added_at": "2026-06-26 04:02:58",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-06-26 04:02:58",
       "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
-    },
-    {
-      "added_at": "2026-06-26 04:02:58",
-      "album": {
         "name": "Ya s\u00e9 ya s\u00e9",
         "url": "https://open.spotify.com/album/1jrV8hSISzYtwjugMPGDVe"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 223689,
       "name": "Ya s\u00e9 ya s\u00e9",
       "url": "https://open.spotify.com/track/35nSQRBBDMhSm0m6alg068"
+    },
+    {
+      "added_at": "2026-06-26 04:02:58",
+      "album": {
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
     },
     {
       "added_at": "2026-06-26 04:02:58",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-06-26 04:02:58",
       "album": {
+        "name": "Ce que je te donne ne dispara\u00eet pas",
+        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Des histoires qui ne seront jamais finies",
+      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
+    },
+    {
+      "added_at": "2026-06-26 04:02:58",
+      "album": {
         "name": "Les mots que tu chantes",
         "url": "https://open.spotify.com/album/4DqPIbudxuN6AG308NCKqm"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 178208,
       "name": "Les mots que tu chantes",
       "url": "https://open.spotify.com/track/62pMWesW7OeH2xZACewgyX"
-    },
-    {
-      "added_at": "2026-06-26 04:02:58",
-      "album": {
-        "name": "Ce que je te donne ne dispara\u00eet pas",
-        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phanie Boulay",
-          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Des histoires qui ne seront jamais finies",
-      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
     },
     {
       "added_at": "2026-06-26 04:02:58",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2026-06-26 04:02:58",
       "album": {
+        "name": "Les oiseaux",
+        "url": "https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu"
+      },
+      "artists": [
+        {
+          "name": "Fleur de Peau",
+          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
+        }
+      ],
+      "duration_ms": 244083,
+      "name": "Les oiseaux",
+      "url": "https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP"
+    },
+    {
+      "added_at": "2026-06-26 04:02:58",
+      "album": {
         "name": "River Run (with Lila Dupont)",
         "url": "https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 205959,
       "name": "River Run (with Lila Dupont)",
       "url": "https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES"
-    },
-    {
-      "added_at": "2026-06-26 04:02:58",
-      "album": {
-        "name": "Les oiseaux",
-        "url": "https://open.spotify.com/album/6mwxPyeT0gkLxj1MGwWDyu"
-      },
-      "artists": [
-        {
-          "name": "Fleur de Peau",
-          "url": "https://open.spotify.com/artist/6EoKem2HNXbpL23782Daoi"
-        }
-      ],
-      "duration_ms": 244083,
-      "name": "Les oiseaux",
-      "url": "https://open.spotify.com/track/4meeC3HOeSgQenFRtxpLrP"
     },
     {
       "added_at": "2026-06-26 04:02:58",

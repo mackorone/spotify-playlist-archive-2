@@ -964,7 +964,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-22",
+      "date_removed": null,
       "duration_ms": 369359,
       "name": "Ahki Ya Tareekh",
       "url": "https://open.spotify.com/track/2yjOEcmukC84C56uEoDn3k"
@@ -1556,13 +1556,13 @@
       },
       "artists": [
         {
-          "name": "Nasrat Al Bader",
-          "url": "https://open.spotify.com/artist/3LTg1uDlzgeNpapZviVVAF"
+          "name": "Nasrat Al Badr",
+          "url": "https://open.spotify.com/artist/3fPWjGqkBchYXNmr18J5n5"
         }
       ],
       "date_added": "2025-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-03",
+      "date_removed": null,
       "duration_ms": 262345,
       "name": "Almahzala",
       "url": "https://open.spotify.com/track/6U8KgbZQ57P7cpzkOLL7va"
@@ -3684,7 +3684,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -10293,6 +10293,28 @@
     },
     {
       "album": {
+        "name": "FREAKED OUT",
+        "url": "https://open.spotify.com/album/7rlCLUxXi7iAxL1kmiOHxm"
+      },
+      "artists": [
+        {
+          "name": "Fat Papi",
+          "url": "https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov"
+        },
+        {
+          "name": "prodshushy",
+          "url": "https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158117,
+      "name": "FREAKED OUT",
+      "url": "https://open.spotify.com/track/7pBzCp7qNLlsH6rzEFkSwN"
+    },
+    {
+      "album": {
         "name": "Freaks",
         "url": "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5"
       },
@@ -11780,7 +11802,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 295157,
       "name": "Habibi Howa",
       "url": "https://open.spotify.com/track/3rWC89eFiYAC5enhaRLZ5X"
@@ -13940,7 +13962,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
@@ -24248,7 +24270,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/2pB49wD5LpB8gYmqOIybTC"
@@ -30822,7 +30844,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 247719,
       "name": "Wanet Mn Frkakom",
       "url": "https://open.spotify.com/track/6xG5Akfn6HIBexqV5RF22q"
@@ -32220,7 +32242,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 297000,
       "name": "Ya Nas",
       "url": "https://open.spotify.com/track/6ssHId6BHybw1g53s9CLkm"
@@ -33012,6 +33034,24 @@
       "duration_ms": 200436,
       "name": "\u0627\u0631\u0634\u064a\u0641 \u0639\u0631\u0627\u0642\u064a , \u0634\u0644\u0648\u0646 \u0645\u0627\u0644\u062d\u0642\u062a \u0627\u0648\u062f\u0639\u0643 \u0648\u0644\u0627\u0642\u0648\u0644\u0643 \u0628\u0627\u0644\u0633\u0644\u0627\u0645\u0647 , \u0634\u0644\u0648\u0646 \u0627\u0639\u064a\u0634 \u0627\u0644\u062f\u0646\u064a\u0627 \u0628\u0639\u062f\u0643 #\u0639\u0631\u0627\u0642\u064a",
       "url": "https://open.spotify.com/track/5RFzpnbQ7674UAmZ0fXZar"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0631\u064a\u062f\u0643",
+        "url": "https://open.spotify.com/album/3tZ2twM4OcubjdN745NNYO"
+      },
+      "artists": [
+        {
+          "name": "Louay Adnan",
+          "url": "https://open.spotify.com/artist/25KexOOkjeW9KBFu2jorUD"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251768,
+      "name": "\u0627\u0631\u064a\u062f\u0643",
+      "url": "https://open.spotify.com/track/2VWhRxRYJzlWzUXuniC01a"
     },
     {
       "album": {
@@ -34022,7 +34062,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 321689,
       "name": "\u0628\u0627\u0639\u0646\u064a \u0648\u0631\u0627\u062d",
       "url": "https://open.spotify.com/track/6Yyou08EWcxFXJVL7gnGeD"
@@ -35732,7 +35772,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 219071,
       "name": "\u0637\u0634\u0631\u0646\u0647 \u0627\u0644\u0648\u0643\u062a",
       "url": "https://open.spotify.com/track/634GtSlGRtSpmOdsR4x96Q"

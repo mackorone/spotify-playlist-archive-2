@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,114 likes - 106 songs - 6 hr 32 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,118 likes - 108 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,5 +114,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 104 | [Two Souls](https://open.spotify.com/track/0y0ykZ1dkGc38jen90qV1j) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Two Souls](https://open.spotify.com/album/3j90ztJwBxuyHuXoibG5Pa) | 4:00 |
 | 105 | [Torre Pendente](https://open.spotify.com/track/3kfznZr0BRYko86AjlFrPj) | [Bobby Wallisch Jr.](https://open.spotify.com/artist/3ZrBfXIxxaZcLYFs7XGWfQ) | [Man Made Machine](https://open.spotify.com/album/52IsEG2HxMOefw8ES1hyyG) | 5:07 |
 | 106 | [Lay Me Down](https://open.spotify.com/track/6zSniKNMTVgqQIbwcp4NMG) | [Dimestore Freud](https://open.spotify.com/artist/1B7AZ6JiZQr6bflYaBD2g6) | [It's a Bit Fuzzy](https://open.spotify.com/album/2wpFHMzqhqjCKXtCCenuq4) | 2:31 |
+| 107 | [Another Life](https://open.spotify.com/track/6kUcyywiYhzavba2AZKSdm) | [Ben Trexel](https://open.spotify.com/artist/6sQxhU4AP13xu7ikPmGvZu), [Amanda Willis\-Brice](https://open.spotify.com/artist/6L76Th9R1cPMH2a2VsQMUF) | [Another Life](https://open.spotify.com/album/1k0XsNgnsoDugVwrsGhyBq) | 3:49 |
+| 108 | [Cage](https://open.spotify.com/track/3TurCW23kV3k57o4L96Y8R) | [Wave Raiders](https://open.spotify.com/artist/3gHc7IjiVFconlcRcSpXXn) | [Cage](https://open.spotify.com/album/5DwSWfbBq628mkcHtn4VaP) | 3:23 |
 
-Snapshot ID: `AAAGj85Itgdg0wzEMmPtZL2noh7njSwb`
+Snapshot ID: `AAAGkfwkYrYp+Mm0L8zUIC/pjuZ9k9CO`

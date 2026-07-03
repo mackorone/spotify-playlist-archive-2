@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Marseaux",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Helena Paparizou",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -276,6 +276,24 @@
       "duration_ms": 244600,
       "name": "Aigaio",
       "url": "https://open.spotify.com/track/7fjXdCjbcpxRxCbTJHEiOi"
+    },
+    {
+      "album": {
+        "name": "Alitheia Tora",
+        "url": "https://open.spotify.com/album/4pm0OLRaeMviiqkukbDjgb"
+      },
+      "artists": [
+        {
+          "name": "Helena Paparizou",
+          "url": "https://open.spotify.com/artist/7D7k550IB6EszWmzVVCJSK"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206015,
+      "name": "Alitheia Tora",
+      "url": "https://open.spotify.com/track/00A3yDONz9b3wIgpnT9a5Y"
     },
     {
       "album": {
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 200412,
       "name": "DIO KARDIES",
       "url": "https://open.spotify.com/track/6aWGBnKRmgH7pBpEhRMnPy"
@@ -1694,7 +1712,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 211717,
       "name": "EDO",
       "url": "https://open.spotify.com/track/7wv6l1qAMRJywQtxZuhMIc"
@@ -3041,6 +3059,28 @@
     },
     {
       "album": {
+        "name": "JALLA (Anastasia Remix)",
+        "url": "https://open.spotify.com/album/531LCZEK6sLeGRr68QBgKy"
+      },
+      "artists": [
+        {
+          "name": "Antigoni",
+          "url": "https://open.spotify.com/artist/1w3S0hfHSbOupc4EVLRGrW"
+        },
+        {
+          "name": "Anastasia",
+          "url": "https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125950,
+      "name": "JALLA - Anastasia Remix",
+      "url": "https://open.spotify.com/track/5xN4Opih4KEMTJlww6yDMM"
+    },
+    {
+      "album": {
         "name": "Kaigomai",
         "url": "https://open.spotify.com/album/2sWotPDlxvtwKk5fhvkrqD"
       },
@@ -4171,6 +4211,24 @@
     },
     {
       "album": {
+        "name": "ohmygod",
+        "url": "https://open.spotify.com/album/4VID1SSZAScXGqK6S6olpT"
+      },
+      "artists": [
+        {
+          "name": "TEO.x3",
+          "url": "https://open.spotify.com/artist/1lvRWwow7gpc1VKBGxebHH"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143181,
+      "name": "ohmygod",
+      "url": "https://open.spotify.com/track/2kur125fjl7251RlmsYdZX"
+    },
+    {
+      "album": {
         "name": "Ola Gia Sena",
         "url": "https://open.spotify.com/album/57WnUjl1PHGbqpruNoyYUb"
       },
@@ -4186,6 +4244,24 @@
       "duration_ms": 196406,
       "name": "Ola Gia Sena",
       "url": "https://open.spotify.com/track/2J62CRR3KSpd9zkZrjbXpn"
+    },
+    {
+      "album": {
+        "name": "Ola Magika",
+        "url": "https://open.spotify.com/album/6UZBssgKA8gO16dpcOdOU3"
+      },
+      "artists": [
+        {
+          "name": "Michalis Hatzigiannis",
+          "url": "https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263841,
+      "name": "Ola Magika",
+      "url": "https://open.spotify.com/track/77lMJ52oex6UM1TbafMD7y"
     },
     {
       "album": {
@@ -4302,7 +4378,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 202917,
       "name": "OUD",
       "url": "https://open.spotify.com/track/7lnUfMqY7VnGPj4KUVHhGP"
@@ -5938,7 +6014,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 173544,
       "name": "Vrexei",
       "url": "https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl"

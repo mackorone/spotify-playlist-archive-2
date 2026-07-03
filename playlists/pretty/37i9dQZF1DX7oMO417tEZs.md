@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > ⁺‧₊˚ A curated space for the avant\-garde + und3rground⋆ ˚₊‧⁺ Cover: ACHEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,432 likes - 69 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,444 likes - 69 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

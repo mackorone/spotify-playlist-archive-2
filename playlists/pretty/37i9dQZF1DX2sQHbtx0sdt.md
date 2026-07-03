@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > Our picks for the best global hip\-hop songs this year\. Cover: Central Cee 🇬🇧
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,746 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,897 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 51 | [Obsessed](https://open.spotify.com/track/3CaLAEZ5u8PEiylYQVIv10) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:00 |
 | 52 | [YSL Sweats](https://open.spotify.com/track/1Vla18zl8sK8gMWdWvpYpg) | [Kromow](https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA), [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz) | [YSL Sweats](https://open.spotify.com/album/7M2UAHARJ5Yjxw7LtUnp9o) | 2:51 |
 | 53 | [Fright](https://open.spotify.com/track/0KOwIxuylidjOSllJAINxO) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Fright](https://open.spotify.com/album/3UVYg0VPKbfbrB60W26fGI) | 2:25 |
-| 54 | [my love](https://open.spotify.com/track/1E2cVJd7UDWoGGOw971JNt) | [OKI](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [REKLAMACJA'47: CD1](https://open.spotify.com/album/0PRUPTPf0yRQDFjpwasJ4Y) | 2:58 |
+| 54 | [my love](https://open.spotify.com/track/1E2cVJd7UDWoGGOw971JNt) | [OKI](https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [@atutowy](https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a) | [REKLAMACJA'47: CD1](https://open.spotify.com/album/0PRUPTPf0yRQDFjpwasJ4Y) | 2:58 |
 | 55 | [G6](https://open.spotify.com/track/7GgQTXEGAMD34M4RFhc3PR) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k), [Yung Fazo](https://open.spotify.com/artist/2UuVqmRzuGdHQB7BKACEW4) | [G6](https://open.spotify.com/album/2RFa13DGzhCdnavFnrcldD) | 2:24 |
 | 56 | [こんな日は](https://open.spotify.com/track/7HKhGLOcEBQoRLOCZqhcg5) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [こんな日は](https://open.spotify.com/album/2G0dlVPEasPaP53aWvS9Z9) | 3:07 |
 | 57 | [Must Be](https://open.spotify.com/track/5TJtMHbfSSHrWPcnMHdjUy) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Must Be](https://open.spotify.com/album/1FUgbYn6lHaVS4RrpAEMSE) | 2:55 |

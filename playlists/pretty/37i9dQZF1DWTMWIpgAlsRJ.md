@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The Ultimate EA SPORTS FC Germany Playlist: bringing together the sounds of Germany in celebration of The World's Game\. Curated specially for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,497 likes - 39 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,453 likes - 39 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 8 | [Circles](https://open.spotify.com/track/4ifDOv0SK8rya4GrIGZ7r9) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [I Love You, Dude](https://open.spotify.com/album/0gABXB4fFsI1a5cg4TPvpf) | 3:48 |
 | 9 | [Take Me Home](https://open.spotify.com/track/4sEmzYN4u5TqD5fAUrlSb5) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [Take Me Home](https://open.spotify.com/album/2V4riUyELekYW4yYGBm2ti) | 2:59 |
 | 10 | [Drama](https://open.spotify.com/track/7ekwVcE1f7aWi7ZUBRbhZW) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw), [Big Data](https://open.spotify.com/artist/4S1nvNHWiZLP4rzwmULmUa) | [They Might've Even Loved Me](https://open.spotify.com/album/17lrjQt4jEcU3YN41qocce) | 3:38 |
-| 11 | [Pressure](https://open.spotify.com/track/4Iaj6S75mnpxIM3mUlto8F) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [THABO](https://open.spotify.com/artist/0Xby6OpjBTxkbiGyhJU8RA) | [Glow](https://open.spotify.com/album/6lp3jWrAdZwPwkwih20qzX) | 2:54 |
-| 12 | [Gute Laune feat\. Tweed](https://open.spotify.com/track/1m5AAIjn6qwDa7eqTUVfBn) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Dehli 9](https://open.spotify.com/album/7gKiWmCIkf7ID3k9fnOWHh) | 4:56 |
+| 11 | [Gute Laune feat\. Tweed](https://open.spotify.com/track/1m5AAIjn6qwDa7eqTUVfBn) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Dehli 9](https://open.spotify.com/album/7gKiWmCIkf7ID3k9fnOWHh) | 4:56 |
+| 12 | [Pressure](https://open.spotify.com/track/4Iaj6S75mnpxIM3mUlto8F) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [THABO](https://open.spotify.com/artist/0Xby6OpjBTxkbiGyhJU8RA) | [Glow](https://open.spotify.com/album/6lp3jWrAdZwPwkwih20qzX) | 2:54 |
 | 13 | [Release](https://open.spotify.com/track/1ONYfnVyrmuf4D29hTbKTk) | [Seeed](https://open.spotify.com/artist/5ISjkNS17JpCwiFtW80lpV) | [Music Monks \(Limited Edition\)](https://open.spotify.com/album/2RXNaqJGqHUntHve09bKZ9) | 3:45 |
 | 14 | [Killa](https://open.spotify.com/track/5LeiVdGtVjwRocR3TDQvcN) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [Killa](https://open.spotify.com/album/09p7lpjGd806fwNVzAlhGi) | 2:48 |
 | 15 | [Am Ende](https://open.spotify.com/track/3Xxy7Mt3QsnjOESgVp2uDO) | [OK KID](https://open.spotify.com/artist/5syyAQTWJ2BaLtjOKE99MK) | [OK KID](https://open.spotify.com/album/0oK1glMIKcHmAsDzhnxNpO) | 3:33 |

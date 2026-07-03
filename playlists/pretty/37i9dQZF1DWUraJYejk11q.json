@@ -1,6 +1,6 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 469677,
+  "num_followers": 469688,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
@@ -207,18 +207,18 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "DATA (Instrumental)",
-        "url": "https://open.spotify.com/album/1PueylpRcNPGRgr8i8tbXR"
+        "name": "Tahara",
+        "url": "https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS"
       },
       "artists": [
         {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "Jacana People",
+          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
         }
       ],
-      "duration_ms": 180103,
-      "name": "VOLVER (instrumental)",
-      "url": "https://open.spotify.com/track/7yXlGX1tlIYn5wZcJbJB6f"
+      "duration_ms": 213850,
+      "name": "Tahara",
+      "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -239,6 +239,22 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
+        "name": "DATA (Instrumental)",
+        "url": "https://open.spotify.com/album/1PueylpRcNPGRgr8i8tbXR"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 180103,
+      "name": "VOLVER (instrumental)",
+      "url": "https://open.spotify.com/track/7yXlGX1tlIYn5wZcJbJB6f"
+    },
+    {
+      "added_at": "2026-05-01 00:15:05",
+      "album": {
         "name": "3FOR82",
         "url": "https://open.spotify.com/album/5bOzaa9qvH7q8rEl3fg5nE"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 185060,
       "name": "H0N3Y",
       "url": "https://open.spotify.com/track/6TJd0gtqzG3KYVtYtGuaUV"
-    },
-    {
-      "added_at": "2026-05-01 00:15:05",
-      "album": {
-        "name": "Tahara",
-        "url": "https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS"
-      },
-      "artists": [
-        {
-          "name": "Jacana People",
-          "url": "https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY"
-        }
-      ],
-      "duration_ms": 213850,
-      "name": "Tahara",
-      "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
     },
     {
       "added_at": "2026-05-01 00:15:05",
@@ -863,18 +863,18 @@
     {
       "added_at": "2026-05-01 00:15:05",
       "album": {
-        "name": "Minena",
-        "url": "https://open.spotify.com/album/0IWOooqWyw1lf5xqYGGs3H"
+        "name": "chronopolis",
+        "url": "https://open.spotify.com/album/2G7YVIV1SrDBJ5avK6jC5Q"
       },
       "artists": [
         {
-          "name": "Ranma Entero",
-          "url": "https://open.spotify.com/artist/779eiS92bExNWIAWxmiWIB"
+          "name": "derek muro",
+          "url": "https://open.spotify.com/artist/5e9VQPsieMhftq5hhAlReY"
         }
       ],
-      "duration_ms": 275574,
-      "name": "Minena",
-      "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
+      "duration_ms": 193655,
+      "name": "realcopy",
+      "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
     }
   ],
   "unique_name": "Genre Glitch",

@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: The Paradox",
-  "num_followers": 604253,
+  "num_followers": 604246,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Give or Take",
-        "url": "https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu"
-      },
-      "artists": [
-        {
-          "name": "Cartel",
-          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
-        }
-      ],
-      "duration_ms": 203444,
-      "name": "Give or Take",
-      "url": "https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "You Should See Me Now",
         "url": "https://open.spotify.com/album/45Hi3e8WGVcpjTiYx8vvth"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 224004,
       "name": "You Should See Me Now",
       "url": "https://open.spotify.com/track/2F9c0gRcMvPm8AinfcuJek"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "Give or Take",
+        "url": "https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu"
+      },
+      "artists": [
+        {
+          "name": "Cartel",
+          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
+        }
+      ],
+      "duration_ms": 203444,
+      "name": "Give or Take",
+      "url": "https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Still There\u2019s a Glow",
-        "url": "https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd"
-      },
-      "artists": [
-        {
-          "name": "Sweet Pill",
-          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
-        }
-      ],
-      "duration_ms": 168365,
-      "name": "Sunblind",
-      "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "RESTORATION",
         "url": "https://open.spotify.com/album/3Y0CjoyiaZ3sCuMykBaewf"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 177349,
       "name": "WOLVES",
       "url": "https://open.spotify.com/track/5LopAKz9awEI5j1CIABwg4"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "Still There\u2019s a Glow",
+        "url": "https://open.spotify.com/album/6Xx2GugbRprNzLpleBpepd"
+      },
+      "artists": [
+        {
+          "name": "Sweet Pill",
+          "url": "https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa"
+        }
+      ],
+      "duration_ms": 168365,
+      "name": "Sunblind",
+      "url": "https://open.spotify.com/track/22dSB54PbIpU2mgGqYhCaT"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -1123,38 +1123,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt"
-      },
-      "artists": [
-        {
-          "name": "Lina-Mariah",
-          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
-        }
-      ],
-      "duration_ms": 168552,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/0GMTrpJfT9tGbL4sfeyptj"
-      },
-      "artists": [
-        {
-          "name": "Bike Routes",
-          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
-        }
-      ],
-      "duration_ms": 197627,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/5pf9ubEtF0feNcDK50En35"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC"
       },
@@ -1167,6 +1135,22 @@
       "duration_ms": 172506,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/1BaR0QSNMtVK3mn0fIyDlt"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "duration_ms": 168552,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Before We Go",
-        "url": "https://open.spotify.com/album/6YfCG65Zj6tFvsLGSFNbMh"
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/0GMTrpJfT9tGbL4sfeyptj"
       },
       "artists": [
         {
-          "name": "Youth Fountain",
-          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+          "name": "Bike Routes",
+          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
         }
       ],
-      "duration_ms": 154571,
-      "name": "Before We Go",
-      "url": "https://open.spotify.com/track/3UZ27Jo1YVIg40IjRcVTEY"
+      "duration_ms": 197627,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/5pf9ubEtF0feNcDK50En35"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
+        "name": "Before We Go",
+        "url": "https://open.spotify.com/album/6YfCG65Zj6tFvsLGSFNbMh"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "duration_ms": 154571,
+      "name": "Before We Go",
+      "url": "https://open.spotify.com/track/3UZ27Jo1YVIg40IjRcVTEY"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
         "name": "The Hart",
         "url": "https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4"
       },
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Fast Forward, Rewind",
-        "url": "https://open.spotify.com/album/34wGqmggdRFxX9goi6Cx3q"
-      },
-      "artists": [
-        {
-          "name": "Sincere Engineer",
-          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
-        }
-      ],
-      "duration_ms": 212960,
-      "name": "Fast Forward, Rewind",
-      "url": "https://open.spotify.com/track/5SM45bUFDAvjXenEQO569u"
-    },
-    {
-      "added_at": "2026-06-05 10:35:57",
-      "album": {
         "name": "when we were friends",
         "url": "https://open.spotify.com/album/0EKr0IF82LGWsTFMJJygT3"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 145800,
       "name": "when we were friends",
       "url": "https://open.spotify.com/track/6VleKNFc2xxqiQSAPUBnRR"
+    },
+    {
+      "added_at": "2026-06-05 10:35:57",
+      "album": {
+        "name": "Fast Forward, Rewind",
+        "url": "https://open.spotify.com/album/34wGqmggdRFxX9goi6Cx3q"
+      },
+      "artists": [
+        {
+          "name": "Sincere Engineer",
+          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+        }
+      ],
+      "duration_ms": 212960,
+      "name": "Fast Forward, Rewind",
+      "url": "https://open.spotify.com/track/5SM45bUFDAvjXenEQO569u"
     },
     {
       "added_at": "2026-06-05 10:35:57",
@@ -1319,18 +1319,22 @@
     {
       "added_at": "2026-06-05 10:35:57",
       "album": {
-        "name": "Oxy Moron",
-        "url": "https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6"
+        "name": "Incomplete",
+        "url": "https://open.spotify.com/album/1rP0gaeFG2Fd4e89cRUMLu"
       },
       "artists": [
         {
-          "name": "Cartel",
-          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
+          "name": "408",
+          "url": "https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT"
+        },
+        {
+          "name": "Rivals",
+          "url": "https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR"
         }
       ],
-      "duration_ms": 246433,
-      "name": "Oxy Moron",
-      "url": "https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn"
+      "duration_ms": 216338,
+      "name": "Incomplete",
+      "url": "https://open.spotify.com/track/3yOuUbbP1bcpA79Z6U694p"
     }
   ],
   "unique_name": "Pop Punk's Not Dead",

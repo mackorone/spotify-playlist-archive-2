@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-18",
-  "description": "Descubre los nuevos \u00e1lbumes del 2026. Hit shuffle for a mixed listening experience. Cover: Rels B",
+  "description": "Descubre los nuevos \u00e1lbumes del 2026. Hit shuffle for a mixed listening experience. Cover: Eslabon Armado",
   "name": "New Latin Albums",
   "tracks": [
     {
@@ -1078,6 +1078,24 @@
       "duration_ms": 199466,
       "name": "A Pesar de Ti",
       "url": "https://open.spotify.com/track/0B02WbDz0jc8zYYRTgk7xX"
+    },
+    {
+      "album": {
+        "name": "Femme Fatale Vol. 2",
+        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249124,
+      "name": "A Pesar De Ti y De Mi",
+      "url": "https://open.spotify.com/track/5Mj8nBsQg04h33UXNfEONY"
     },
     {
       "album": {
@@ -2314,6 +2332,28 @@
       "duration_ms": 233755,
       "name": "Amigos (con Maria Becerra)",
       "url": "https://open.spotify.com/track/20NeR3CwuyGfRktTncKRU7"
+    },
+    {
+      "album": {
+        "name": "NOCTURNO",
+        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168890,
+      "name": "AMIGOS CON DERECHOS",
+      "url": "https://open.spotify.com/track/3NYyi0nCnxhuChr6V5yaJn"
     },
     {
       "album": {
@@ -3897,6 +3937,28 @@
     },
     {
       "album": {
+        "name": "LOS ANGELITOS",
+        "url": "https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223200,
+      "name": "BailandoNosConocimos",
+      "url": "https://open.spotify.com/track/6f20NBvGmXAWZWXQwI646K"
+    },
+    {
+      "album": {
         "name": "Insomnio",
         "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
       },
@@ -5197,6 +5259,28 @@
     },
     {
       "album": {
+        "name": "NOCTURNO",
+        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210499,
+      "name": "B\u00c9SAME",
+      "url": "https://open.spotify.com/track/3KlTDGWYHS5usD0EYYDeDo"
+    },
+    {
+      "album": {
         "name": "Caballero",
         "url": "https://open.spotify.com/album/4Nc7ExTZ5cuLkrKXbRWUP5"
       },
@@ -5463,6 +5547,24 @@
     },
     {
       "album": {
+        "name": "En Bucle",
+        "url": "https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270667,
+      "name": "Camanance",
+      "url": "https://open.spotify.com/track/5P1LE2M9yWPDDs4pHJJvZN"
+    },
+    {
+      "album": {
         "name": "Miss Misogyny",
         "url": "https://open.spotify.com/album/2XCLHKZxCU9hKsenQR72di"
       },
@@ -5598,6 +5700,24 @@
       "duration_ms": 239324,
       "name": "capricho",
       "url": "https://open.spotify.com/track/78TrnidSykO6jvZjZzPGb6"
+    },
+    {
+      "album": {
+        "name": "babylona blue",
+        "url": "https://open.spotify.com/album/6Q4c6DexERmNLUyDeTj738"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134867,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/4OxCCJYzYUnk5GhwcjSMzp"
     },
     {
       "album": {
@@ -12551,6 +12671,24 @@
     },
     {
       "album": {
+        "name": "En Bucle",
+        "url": "https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316026,
+      "name": "En bucle",
+      "url": "https://open.spotify.com/track/7lU3uhjjv9PBpgYQNSaHlr"
+    },
+    {
+      "album": {
         "name": "El Silencio Del Ruido",
         "url": "https://open.spotify.com/album/3CB6CuXulfgqnVNSpfSEfT"
       },
@@ -14266,6 +14404,28 @@
       "duration_ms": 134516,
       "name": "FLA",
       "url": "https://open.spotify.com/track/3v3nabIFa3PxGCL4w1NiHp"
+    },
+    {
+      "album": {
+        "name": "En Bucle",
+        "url": "https://open.spotify.com/album/2RVm6gZ80SiSd9SEEc9mn2"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255875,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/1rANpxB9ZtlcGTvandJAzI"
     },
     {
       "album": {
@@ -16044,6 +16204,24 @@
       "duration_ms": 181500,
       "name": "Hellen",
       "url": "https://open.spotify.com/track/389n7zY8nFkGKwZcBILKxX"
+    },
+    {
+      "album": {
+        "name": "Femme Fatale Vol. 2",
+        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247396,
+      "name": "Hello Monserrat",
+      "url": "https://open.spotify.com/track/4GeGkrJZHLok2EMqnJt7bS"
     },
     {
       "album": {
@@ -21017,6 +21195,28 @@
     },
     {
       "album": {
+        "name": "EL PEOR HOMBRE DEL MUNDO",
+        "url": "https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126593,
+      "name": "MACDONALDS",
+      "url": "https://open.spotify.com/track/6QgHxnYJaNZNPrnajo9VpT"
+    },
+    {
+      "album": {
         "name": "EL REY DEL MORBO",
         "url": "https://open.spotify.com/album/681DcPhvLvbBF6ceOKECmL"
       },
@@ -22828,6 +23028,32 @@
       "duration_ms": 238915,
       "name": "Mereng\u00f3n",
       "url": "https://open.spotify.com/track/3LZJoLaRpja9mt7A1GQLJs"
+    },
+    {
+      "album": {
+        "name": "EL PEOR HOMBRE DEL MUNDO",
+        "url": "https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Los Money Makers",
+          "url": "https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212783,
+      "name": "MERO TOTE",
+      "url": "https://open.spotify.com/track/26wRv00loYD9urTl85LFbI"
     },
     {
       "album": {
@@ -27975,6 +28201,28 @@
     },
     {
       "album": {
+        "name": "LOS ANGELITOS",
+        "url": "https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218372,
+      "name": "PaToLasGyales",
+      "url": "https://open.spotify.com/track/7AFCPBLMPF2SLHAPY5PMae"
+    },
+    {
+      "album": {
         "name": "ESQUINAS",
         "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
       },
@@ -29591,6 +29839,24 @@
     },
     {
       "album": {
+        "name": "babylona blue",
+        "url": "https://open.spotify.com/album/6Q4c6DexERmNLUyDeTj738"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112694,
+      "name": "Por qu\u00e9 dudas de mi?",
+      "url": "https://open.spotify.com/track/6VEWNOA9aKe2ZtOfk7HeDA"
+    },
+    {
+      "album": {
         "name": "Perla Rosa",
         "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
       },
@@ -30256,6 +30522,32 @@
       "duration_ms": 175477,
       "name": "PROTAGONISTAS",
       "url": "https://open.spotify.com/track/3EAKy7Tc7ZuUg9Q8APgYDa"
+    },
+    {
+      "album": {
+        "name": "EL PEOR HOMBRE DEL MUNDO",
+        "url": "https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "PROV\u00d3CATE",
+      "url": "https://open.spotify.com/track/0dpV9WOqhZJqoFQDD9d9Eu"
     },
     {
       "album": {
@@ -32521,6 +32813,32 @@
     },
     {
       "album": {
+        "name": "LOS ANGELITOS",
+        "url": "https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215400,
+      "name": "SandungueaaA",
+      "url": "https://open.spotify.com/track/06fq9M4ysqWtLVdi0S9aKD"
+    },
+    {
+      "album": {
         "name": "El Viaje",
         "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
       },
@@ -33488,6 +33806,24 @@
       "duration_ms": 150315,
       "name": "SI T\u00da SUPIERAS",
       "url": "https://open.spotify.com/track/3INmM0AM2XyIdK6G77ZISz"
+    },
+    {
+      "album": {
+        "name": "babylona blue",
+        "url": "https://open.spotify.com/album/6Q4c6DexERmNLUyDeTj738"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140952,
+      "name": "Si t\u00fa supieras\u2026",
+      "url": "https://open.spotify.com/track/6aPlrDbqDmON1KAkUn4D6U"
     },
     {
       "album": {
@@ -34938,6 +35274,24 @@
       "duration_ms": 150423,
       "name": "suite",
       "url": "https://open.spotify.com/track/3PhvVXdkwUyI9oIQj7eTmJ"
+    },
+    {
+      "album": {
+        "name": "Femme Fatale Vol. 2",
+        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224890,
+      "name": "Sunset Boulevard",
+      "url": "https://open.spotify.com/track/1V8SlskAwHaON0SpE4lnWY"
     },
     {
       "album": {
@@ -40144,6 +40498,28 @@
       "duration_ms": 159157,
       "name": "X TI",
       "url": "https://open.spotify.com/track/1pBDaaDRA8f4kNsP6x83tL"
+    },
+    {
+      "album": {
+        "name": "NOCTURNO",
+        "url": "https://open.spotify.com/album/2C4S3ib7Unj3ibkTWBXCmk"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194021,
+      "name": "X TI",
+      "url": "https://open.spotify.com/track/65zEkNLbIn9Idf2NmcYSVt"
     },
     {
       "album": {

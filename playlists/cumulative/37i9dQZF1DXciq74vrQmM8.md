@@ -4,7 +4,7 @@
 
 > welcome to our universe ft\. Pussy Riot
 
-1,308 songs - 2 day 16 hr 28 min
+1,313 songs - 2 day 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [COME SAY SUM](https://open.spotify.com/track/4s0xKRDzWDrTGjGpJg6xvR) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [COME SAY SUM](https://open.spotify.com/album/05quqi2QPlESRpPPcMShfQ) | 2:25 | 2026-03-27 |  |
 | [Coming Up](https://open.spotify.com/track/35xajnbGwbIiPf0QBU0O68) | [Patriarchy](https://open.spotify.com/artist/6iA1dQ8FgTN96un4zy5eki) | [Manual For Dying](https://open.spotify.com/album/0DmvGf7Xj0u6aAS6Mde2Yu) | 3:07 | 2025-09-18 | 2026-01-15 |
 | [complicated](https://open.spotify.com/track/4J65QmTZvsq9SCvuY8ej3W) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [complicated](https://open.spotify.com/album/0ktZQAbl5PPYU9UOXoJ0aM) | 2:12 | 2023-02-24 | 2023-03-03 |
+| [Computer Daydream](https://open.spotify.com/track/4NkzVazz02wOQEsFTvUcnK) | [Westislonely](https://open.spotify.com/artist/4aLDZqT6rZaIMWRtXaCH69) | [Man's Ruin](https://open.spotify.com/album/0GQCYO6NgjJJnMd0ScoyaY) | 4:03 | 2026-07-03 |  |
 | [CONCRETE](https://open.spotify.com/track/7l2NInPwslS8CaEPQdhKdx) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [CONCRETE](https://open.spotify.com/album/6gL9iXYs1SD0VNLaPKwIhB) | 3:16 | 2025-03-07 | 2025-10-17 |
 | [Conquests](https://open.spotify.com/track/2bftvpU1GIxsy2mEtM1RJ1) | [Bellzzz](https://open.spotify.com/artist/4qxIpRSvXWpN4f1Y5QQ2gg) | [Dear Elizabeth,](https://open.spotify.com/album/1xlAMd57AlCYXuZ6UrkTNK) | 2:32 | 2025-04-10 | 2025-05-02 |
 | [contort](https://open.spotify.com/track/47a1THBFA7bDEPzgAL4sqm) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [contort](https://open.spotify.com/album/1lVbdlkxRU2EOVT5FzpTrg) | 2:16 | 2023-11-10 | 2024-01-26 |
@@ -457,6 +458,7 @@
 | [Gaunt](https://open.spotify.com/track/07WXShmsAvKUVK3QYUubJ9) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Gaunt](https://open.spotify.com/album/3hj2N8CIJ67hejzX5XcMRs) | 3:29 | 2023-09-14 | 2024-04-05 |
 | [Gazer](https://open.spotify.com/track/65sHwFYUKAMO4Wg3pJVZOZ) | [Cold Hart](https://open.spotify.com/artist/1fsCfvdiomqjKJFR6xI8e4) | [Rap Show](https://open.spotify.com/album/3eKcI5l768doNCbs6lo6xI) | 3:13 | 2024-05-23 | 2024-07-12 |
 | [GBS, XOXO](https://open.spotify.com/track/3nn5LMCjVIxGC1KwSsgCoC) | [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [MONSTAR](https://open.spotify.com/album/2F8FdkVzAfetGVuBRn8zyJ) | 2:11 | 2022-11-11 | 2023-01-13 |
+| [Get Fucked](https://open.spotify.com/track/6kMX0d6mvaKuN1t3v98LhQ) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Get Fucked](https://open.spotify.com/album/0wii5098i1s7iTiCwFFALk) | 3:50 | 2026-07-03 |  |
 | [GET LOOSE](https://open.spotify.com/track/4MjnnyZZqtpjKM5MSbVvkY) | [Sadzilla](https://open.spotify.com/artist/6B6IodMdAjoGX2fZuYyGpc), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [RESPECT THE THRONE](https://open.spotify.com/album/3WHurOAvX7XoE5WiRCdKkd) | 2:35 | 2022-07-14 | 2022-09-23 |
 | [GET MINE](https://open.spotify.com/track/01pkZKRRRGCcW0EoHxbnDl) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [GET MINE](https://open.spotify.com/album/36KVNZ2nT8UTyqU43WMEty) | 2:50 | 2021-12-27 | 2022-03-11 |
 | [GET MONEY](https://open.spotify.com/track/5uXJvaSOdz8wp6dGEdjBUj) | [BVDLVD](https://open.spotify.com/artist/1BhfikyrtSTch1r9upYGlS) | [GET MONEY](https://open.spotify.com/album/7kUYdpXOoegsJvgdseRXVZ) | 1:49 | 2024-02-02 | 2024-04-26 |
@@ -515,6 +517,7 @@
 | [Happy Kid](https://open.spotify.com/track/0wtKHFtA9WC8if4CMZMqT4) | [CHELJI](https://open.spotify.com/artist/2ESWgVDISqTfO10g1OjXRO) | [Happy Kid](https://open.spotify.com/album/16qOzv35W20lADEUlUd2Zl) | 2:22 | 2022-11-18 | 2023-03-03 |
 | [HAPPY NEVER AFTER](https://open.spotify.com/track/3o3gTvHOGeBqyzS0PtraTH) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [SCARYTALE](https://open.spotify.com/album/1AxVUJ0eJ0lyOzgRYXIP5g) | 3:39 | 2024-02-23 | 2024-05-10 |
 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 | 2022-01-28 | 2022-04-29 |
+| [Hate My Mom](https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Feel Like Shit And It's All Your Fault](https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn) | 2:57 | 2026-07-03 |  |
 | [HATE PARTY](https://open.spotify.com/track/2NoH5sopROxmX9qVm6h09z) | [bodyimage](https://open.spotify.com/artist/7pn8MYeH0VgKGDnYAiS7Pg), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [HATE PARTY](https://open.spotify.com/album/6L4voUmXNjOw6fTimrXJnn) | 2:28 | 2023-03-24 | 2023-08-18 |
 | [Hated](https://open.spotify.com/track/2NNq2V3PD8u55LqGs8ImU1) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Hated](https://open.spotify.com/album/1Ifo5BrgTcBaUtwWj1ynhD) | 3:09 | 2023-08-24 | 2024-01-12 |
 | [HAUNT ME](https://open.spotify.com/track/0zCi2lF3bGHIIj4SECIOG9) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [HAUNT ME](https://open.spotify.com/album/40WQidG0DwwRXQl6mokYph) | 3:38 | 2023-09-21 | 2024-02-16 |
@@ -545,6 +548,7 @@
 | [Hide Your Kids](https://open.spotify.com/track/7nRuVjmhfYCraHEhfgNv1j) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Hide Your Kids](https://open.spotify.com/album/7cM1dj0HtCAGN85Fr7a7yc) | 2:15 | 2024-01-26 | 2024-07-12 |
 | [HIGH BY THE BEACH \- SIRENCORE Version](https://open.spotify.com/track/1bLROPTSiepDvid3Q0CzH5) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [HIGH BY THE BEACH \(SIRENCORE Version\)](https://open.spotify.com/album/2KvPr9Ewd7RSC4r2fwd28Z) | 3:10 | 2024-02-02 | 2024-03-08 |
 | [High Voltage Anxiety](https://open.spotify.com/track/6AQwb0d5wgyNQEwIpsjd4y) | [Cry Club](https://open.spotify.com/artist/41KaTg5AhCYSn2MUUJq0P3) | [High Voltage Anxiety](https://open.spotify.com/album/3KfGy5Pp106mG5wgdaMX8b) | 3:40 | 2024-11-29 | 2025-05-02 |
+| [Hills](https://open.spotify.com/track/5rYljsBhSYb1pSPBWg8Lhn) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Hills](https://open.spotify.com/album/3PXs10CFjZCsW4pRoceGXN) | 2:20 | 2026-07-03 |  |
 | [Holiday Capsules!!](https://open.spotify.com/track/2fxsZuNi8s8HrTmbXVCl0v) | [YukoEXE](https://open.spotify.com/artist/62gUqdlgqXPpTiYdenThLs) | [Holiday Capsules!!](https://open.spotify.com/album/7KTQUCb8Went1ZcIjv572K) | 1:46 | 2022-09-22 | 2022-11-11 |
 | [Holier](https://open.spotify.com/track/0ewIZOESd4pSqDqpCsJlox) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [PERMANENT.RADIANT](https://open.spotify.com/album/0ed3rpztAl3N3swyRLwn0C) | 3:47 | 2022-12-09 | 2023-01-20 |
 | [HOLLOWMAN TING](https://open.spotify.com/track/0rCHNHRd93LgnFXNrj1cJ3) | [Frozemode](https://open.spotify.com/artist/2BhOQjsvbHRatFkBLkjmu5) | [HOLLOWMAN TING](https://open.spotify.com/album/6jGd3b9hTP2carBrxXVtln) | 3:08 | 2025-07-31 | 2025-10-17 |
@@ -589,6 +593,7 @@
 | [I Really Like You pt2](https://open.spotify.com/track/01RpmdGOUoBzrLsC46BSyv) | [Sewerslvt](https://open.spotify.com/artist/30F64wQIHvLiFTGaNZ73nU) | [The World Is Fvcked](https://open.spotify.com/album/4n4bolCBHA2HzbXyf64uI3) | 7:03 | 2022-04-19 | 2022-04-29 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-09-23 | 2022-11-11 |
 | [I Spit On Your Grave](https://open.spotify.com/track/1Nlr6AqQHfh79yFabmu2EF) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [I Spit On Your Grave](https://open.spotify.com/album/7CfzmC5Xq20b1UQbO4fHkM) | 3:39 | 2021-12-27 | 2022-07-29 |
+| [I STILL KNOW YOU](https://open.spotify.com/track/73G7FMzRimBDLnuZ9v72M1) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [And You Who Drowned in the Grief of a Golden Thing \(The Director's Cut\)](https://open.spotify.com/album/14boQaEdORXEpj4CJNvepV) | 3:54 | 2026-07-03 |  |
 | [I used to blame God](https://open.spotify.com/track/4q7czdLANisXeTGijaTv3H) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [I used to blame God](https://open.spotify.com/album/22KfDfOI5CrGMagXr3vgHY) | 3:57 | 2025-12-08 | 2026-06-13 |
 | [I Walk Alone](https://open.spotify.com/track/3Na7kN9eIAbKvk92W4kdZ7) | [EMMETH](https://open.spotify.com/artist/1C4YaCx7UmWLQrycPwu7Dy), [Kid Carrillo](https://open.spotify.com/artist/0VVdOJecUbGnpL4n3pgswJ), [Nataliaa](https://open.spotify.com/artist/27IA0FAUWyGLiT4q7QnUoY) | [I Walk Alone](https://open.spotify.com/album/7wY6USlOWZL3wUJkI0aSVx) | 3:05 | 2023-01-13 | 2023-02-17 |
 | [I Wanna Be Software](https://open.spotify.com/track/6Qnw1wRWCxdpKV7xlv0706) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Illangelo](https://open.spotify.com/artist/1aji1uMIIghmeNmhanEqyD) | [I Wanna Be Software](https://open.spotify.com/album/53t7HLPMqdHgtJCMmiQkvL) | 3:38 | 2023-07-27 | 2024-01-19 |

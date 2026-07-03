@@ -9607,6 +9607,24 @@
     },
     {
       "album": {
+        "name": "FREESTYLE",
+        "url": "https://open.spotify.com/album/5qdYZfdi99cXaqgi61bG8B"
+      },
+      "artists": [
+        {
+          "name": "DENNYH",
+          "url": "https://open.spotify.com/artist/3hfYUtuERUNyMTi8OKvE5u"
+        }
+      ],
+      "date_added": "2026-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176009,
+      "name": "FREESTYLE",
+      "url": "https://open.spotify.com/track/3xsFXbSOXpjUfVzVav58jI"
+    },
+    {
+      "album": {
         "name": "Friend Zone",
         "url": "https://open.spotify.com/album/4nyYQUcbQiFIoeWKx6ra23"
       },

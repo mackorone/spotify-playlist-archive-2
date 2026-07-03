@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "About Us / PROTO",
+        "url": "https://open.spotify.com/album/3DiQvUkn7guUReKXzgNBeL"
+      },
+      "artists": [
+        {
+          "name": "fingerbleed",
+          "url": "https://open.spotify.com/artist/2DtH8PLe1dGAAzpNPbgVd5"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119333,
+      "name": "About Us",
+      "url": "https://open.spotify.com/track/431TEfCxX6oZaQX3wPTmmN"
+    },
+    {
+      "album": {
         "name": "Microtransitions EP",
         "url": "https://open.spotify.com/album/5BbxXYvcQOAbPaBWdiZgsP"
       },
@@ -1340,7 +1358,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 214600,
       "name": "Act Right",
       "url": "https://open.spotify.com/track/64cawGqiZJWzjZhfjcfubU"
@@ -9334,7 +9352,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 217249,
       "name": "C'MON",
       "url": "https://open.spotify.com/track/1UdhMXlrK5xeH7cKEdIvRA"
@@ -13692,7 +13710,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 155076,
       "name": "dance 4 infinity",
       "url": "https://open.spotify.com/track/4jBjwCXgvAJNPYluVDb3uJ"
@@ -16024,7 +16042,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 110139,
       "name": "don't call",
       "url": "https://open.spotify.com/track/6p0HlaC4VdYZGxew0OLBP7"
@@ -16629,6 +16647,24 @@
     },
     {
       "album": {
+        "name": "don't you miss me",
+        "url": "https://open.spotify.com/album/3926g3gdPUSeCr8oILWFVG"
+      },
+      "artists": [
+        {
+          "name": "Aki Oke",
+          "url": "https://open.spotify.com/artist/7d76hQbV3M2NOwec3e16bv"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203230,
+      "name": "don't you miss me",
+      "url": "https://open.spotify.com/track/52zrmEuyescE1mlhBPtdkA"
+    },
+    {
+      "album": {
         "name": "DoNe WIth U",
         "url": "https://open.spotify.com/album/2KBV2mmv8BboYNMIm2H6nl"
       },
@@ -16896,6 +16932,24 @@
       "duration_ms": 175556,
       "name": "Dream",
       "url": "https://open.spotify.com/track/3a0AsqDY11P66dLEKy1Mzf"
+    },
+    {
+      "album": {
+        "name": "Dream",
+        "url": "https://open.spotify.com/album/0kcsgxUs7feGZXwGOU8qfT"
+      },
+      "artists": [
+        {
+          "name": "Ontonic",
+          "url": "https://open.spotify.com/artist/2ubj9n9jrEgvG6pbegX06x"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3s7tZDGRWJ4wL8x9na9MKE"
     },
     {
       "album": {
@@ -19970,7 +20024,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 142529,
       "name": "Fast Money",
       "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
@@ -20894,7 +20948,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 154232,
       "name": "finest girl",
       "url": "https://open.spotify.com/track/2hoksN8fT30jKOYqVeqCth"
@@ -25199,6 +25253,24 @@
     },
     {
       "album": {
+        "name": "Got 2 Feel",
+        "url": "https://open.spotify.com/album/0lLUEQHmNgzO5IVmFV6BM0"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203478,
+      "name": "Got 2 Feel",
+      "url": "https://open.spotify.com/track/7cBZW1LSEFaLi47GL9wIG5"
+    },
+    {
+      "album": {
         "name": "Worth the Wait",
         "url": "https://open.spotify.com/album/4ZFEINeqtOlUVVcly0ODdK"
       },
@@ -26212,7 +26284,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 239119,
       "name": "Heart",
       "url": "https://open.spotify.com/track/2woJDJD5c1smpFdkWa4kpu"
@@ -30249,6 +30321,24 @@
     },
     {
       "album": {
+        "name": "Ice Cream / Lethal",
+        "url": "https://open.spotify.com/album/04jx9OvFId3TcXvt6NBHKG"
+      },
+      "artists": [
+        {
+          "name": "Casmalia",
+          "url": "https://open.spotify.com/artist/0FjiqQ7BLtYmZ7ONpS7cTT"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169523,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/6N7Tq65n26SvIVGiLwSzYE"
+    },
+    {
+      "album": {
         "name": "Loves&Cults",
         "url": "https://open.spotify.com/album/4N8YhEmhvmSBlunbdjTKdL"
       },
@@ -30758,6 +30848,24 @@
       "duration_ms": 260000,
       "name": "In The Lights",
       "url": "https://open.spotify.com/track/17gufJUkfkS3OeBKe7vPAZ"
+    },
+    {
+      "album": {
+        "name": "in ya mind",
+        "url": "https://open.spotify.com/album/3IA89nBSaPsGzCOss1NDSm"
+      },
+      "artists": [
+        {
+          "name": "sim0ne",
+          "url": "https://open.spotify.com/artist/68sBUNLfzCGR5n2nImhFCV"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192153,
+      "name": "in ya mind",
+      "url": "https://open.spotify.com/track/1rkJzNdMyI2n9C0Y0FQDu2"
     },
     {
       "album": {
@@ -32808,7 +32916,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 187725,
       "name": "Keep It Movin'",
       "url": "https://open.spotify.com/track/3jXZzQIDIe2IiJC6mXzeVG"
@@ -47675,6 +47783,24 @@
     },
     {
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0oEmpsIHbFKHuAJrEw5hqL"
+      },
+      "artists": [
+        {
+          "name": "SKYTOPIA",
+          "url": "https://open.spotify.com/artist/56jEGEMS3yWgdUKCWuacqM"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179750,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/2iIgPKqAgsJY8mv9hUKiKw"
+    },
+    {
+      "album": {
         "name": "RAINFACE pt. ll",
         "url": "https://open.spotify.com/album/0B4FnVugMTQ9xLbFYJlnsV"
       },
@@ -50086,6 +50212,24 @@
       "duration_ms": 302919,
       "name": "SATOSHI'S NIGHTMARE",
       "url": "https://open.spotify.com/track/2Qm5EB1sSlUK2LeWr3wKYD"
+    },
+    {
+      "album": {
+        "name": "Saturday Night",
+        "url": "https://open.spotify.com/album/0KwucAD832VabSOp8jCMLs"
+      },
+      "artists": [
+        {
+          "name": "Osmosis Jones",
+          "url": "https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225671,
+      "name": "Saturday Night",
+      "url": "https://open.spotify.com/track/6MgKWOjWJTfvZhB8ExU7Rg"
     },
     {
       "album": {
@@ -56752,6 +56896,24 @@
       "duration_ms": 255000,
       "name": "Talk 2 The Deejay",
       "url": "https://open.spotify.com/track/699iI6trQdW6AQ2LHD0hSO"
+    },
+    {
+      "album": {
+        "name": "Talk Of The Town",
+        "url": "https://open.spotify.com/album/3BrAMSGwliHL4h29trbFHc"
+      },
+      "artists": [
+        {
+          "name": "Butters",
+          "url": "https://open.spotify.com/artist/2bJsNg3FLooqOymiRx2F1e"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170649,
+      "name": "Talk Of The Town",
+      "url": "https://open.spotify.com/track/0ljpW4YHCAPv2xfwPkyxhh"
     },
     {
       "album": {

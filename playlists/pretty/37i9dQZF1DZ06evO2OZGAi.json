@@ -1,12 +1,12 @@
 {
   "description": "This is Am\u00e9n. The essential tracks, all in one playlist.",
-  "num_followers": 7202,
+  "num_followers": 7203,
   "original_name": "This Is Am\u00e9n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akMHAAAAAABlDk4qcBrGOPYgG7MxFBtb",
+  "snapshot_id": "akRYgAAAAABcpLjF+Jq5erjRuleW7enW",
   "tracks": [
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMEN",
-        "url": "https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr"
+        "name": "Pagando el precio",
+        "url": "https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 221425,
-      "name": "Paz",
-      "url": "https://open.spotify.com/track/37SWujvnljLVBPuIqE3I66"
+      "duration_ms": 215076,
+      "name": "Pagando el precio",
+      "url": "https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagando el precio",
-        "url": "https://open.spotify.com/album/68DUrpCWFKIsRjynDOQdXg"
+        "name": "AMEN",
+        "url": "https://open.spotify.com/album/2iIIUngMOuIPviHZH02fjr"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/4OgbQT8E2mFbXTJAYIUFTp"
         }
       ],
-      "duration_ms": 215076,
-      "name": "Pagando el precio",
-      "url": "https://open.spotify.com/track/6STWRUlgr4kxD4N2WLgipr"
+      "duration_ms": 221425,
+      "name": "Paz",
+      "url": "https://open.spotify.com/track/37SWujvnljLVBPuIqE3I66"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Cover: Shobee",
-  "num_followers": 386769,
+  "num_followers": 386792,
   "original_name": "ABAT\u2211RA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADJCndYtYRsGM+H2cnPMGz2Gkelb",
+  "snapshot_id": "AAAAAF6SkBygp17ulZqe4w+pxxoGDHwE",
   "tracks": [
     {
       "added_at": "2026-06-25 23:00:28",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "DESPERADO",
-        "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "KILOWAT",
-      "url": "https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
         "name": "AGOGO",
         "url": "https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 187969,
       "name": "AGOGO",
       "url": "https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
+        "name": "DESPERADO",
+        "url": "https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "KILOWAT",
+      "url": "https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -163,6 +163,26 @@
       "duration_ms": 150857,
       "name": "CANDYSHOP",
       "url": "https://open.spotify.com/track/6USOPDKalJAI5Zcu0T1RNt"
+    },
+    {
+      "added_at": "2026-07-02 20:26:51",
+      "album": {
+        "name": "Milla",
+        "url": "https://open.spotify.com/album/1OO5afx1oVmZlbZ3YVUc8P"
+      },
+      "artists": [
+        {
+          "name": "Yo Asel",
+          "url": "https://open.spotify.com/artist/4DWssq4DfReHOpK7BEVPgo"
+        },
+        {
+          "name": "Fetah",
+          "url": "https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu"
+        }
+      ],
+      "duration_ms": 184178,
+      "name": "Milla",
+      "url": "https://open.spotify.com/track/1X26SMokRoXeWhpTT9ZKA3"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -699,22 +719,6 @@
       "duration_ms": 174000,
       "name": "boh\u00e8me",
       "url": "https://open.spotify.com/track/2cUoF6XU7X7pXVYJ8bHaxX"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
-        "name": "STATIC",
-        "url": "https://open.spotify.com/album/5iOBsUfxDyUV1IoCPqfblm"
-      },
-      "artists": [
-        {
-          "name": "Tagne",
-          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
-        }
-      ],
-      "duration_ms": 151034,
-      "name": "STATIC",
-      "url": "https://open.spotify.com/track/0ladW63XRPbOj3Nf9MBoI3"
     },
     {
       "added_at": "2026-06-25 23:00:28",

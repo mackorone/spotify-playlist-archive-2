@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-595 songs - 1 day 11 hr 14 min
+597 songs - 1 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [All My Life](https://open.spotify.com/track/3E1R7Y8GnRHJcLPelaiiWI) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [All My Life](https://open.spotify.com/album/1yz0XQiokSATLkqDCqgBnO) | 3:53 | 2026-01-15 |  |
 | [ALL MY LOVE](https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:42 | 2024-10-03 | 2025-04-25 |
 | [All The Things That I Am](https://open.spotify.com/track/6NgWT6JeT2ph0giyZG19zZ) | [Greczula](https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4) | [Greczula](https://open.spotify.com/album/35buME4leeedtOi2bB3pEZ) | 2:46 | 2025-10-02 |  |
-| [All These Years](https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [All These Years](https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1) | 3:48 | 2025-09-11 |  |
+| [All These Years](https://open.spotify.com/track/79SPu1VplDqde3ONfxvS4w) | [Robert Pettersson](https://open.spotify.com/artist/1w2HnLBup1zCyrQ0AJ0HZZ) | [All These Years](https://open.spotify.com/album/6GLddY1ROJ42TaJ3z8Unm1) | 3:48 | 2025-09-11 | 2026-07-03 |
 | [All vår dans](https://open.spotify.com/track/6UBN3gqdmJwz6hdaDaCxAv) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [All vår dans](https://open.spotify.com/album/1XSg5n8WaCQ3y5QM25CZ0K) | 3:28 | 2024-08-29 | 2024-09-27 |
 | [Alla minnen kvar](https://open.spotify.com/track/0sXv5C6EEag4ATQmeSYw9e) | [Viktor Norén](https://open.spotify.com/artist/16iB35jaW8fuKzq3iTIYQe), [Andreas Mattsson](https://open.spotify.com/artist/4Vff2nZMDC6c3GBrVL2y8n) | [I mina drömmars land](https://open.spotify.com/album/1yclSKg2FVF7t6bXcDc2XJ) | 2:51 | 2025-05-08 | 2025-08-31 |
 | [Alla Tittar På Mig](https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Alla Tittar På Mig](https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr) | 2:24 | 2025-01-16 | 2025-05-30 |
@@ -66,6 +66,7 @@
 | [Blinka lilla stjärna](https://open.spotify.com/track/5HXuijWZHkCjEl6xsbLEY7) | [Shirley Clamp](https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7) | [Blinka lilla stjärna](https://open.spotify.com/album/7ES7EtUdXvCp06E5RgW3t2) | 3:35 | 2024-12-12 | 2025-01-05 |
 | [Blommor](https://open.spotify.com/track/5wpnwZOuMkSpycPXm9Y44A) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Blommor](https://open.spotify.com/album/4Sy5Yfq6twunvZhjlW4E9L) | 3:20 | 2025-05-22 | 2025-12-17 |
 | [Blåjeans och stjärnljus](https://open.spotify.com/track/7J2qPzgtpEoJUSmOYvkcKQ) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Blåjeans och stjärnljus](https://open.spotify.com/album/5v6DDbvPr8wOCJ0ydCt6GF) | 3:29 | 2025-04-10 | 2026-02-13 |
+| [Bonjour, Pardon, Merci](https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Bonjour, Pardon, Merci](https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ) | 3:10 | 2026-07-02 |  |
 | [Bortom Månen Och Mars](https://open.spotify.com/track/2SRSndKLAcT0Z0XeszqO0x) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Bortom Månen Och Mars](https://open.spotify.com/album/17UP3Jye7PhGo8GfR64XXi) | 3:05 | 2024-11-07 | 2025-01-17 |
 | [BRA](https://open.spotify.com/track/3HStj5Zz9zuRNCMnQZDQIE) | [Di Leva](https://open.spotify.com/artist/4L82oD5L2XQPwkHWOAJSad) | [BRA](https://open.spotify.com/album/0LeXjerovBNmqNvqTgBTWf) | 2:43 | 2025-05-08 | 2025-09-25 |
 | [Bra för dig](https://open.spotify.com/track/0uSBYTlQw9tR6H2HzcUXji) | [Per Persson](https://open.spotify.com/artist/1qjjYA1iR05mJf0QmfAVP0), [Karin Wistrand](https://open.spotify.com/artist/6LHbFvsdTSwsk5Tn4O7PNB) | [Så mycket bättre 2024 \- Tolkningarna](https://open.spotify.com/album/07tHAQSKDA4CnmNWn1U3kA) | 4:07 | 2025-01-02 | 2025-05-09 |
@@ -373,6 +374,7 @@
 | [Nattvarden](https://open.spotify.com/track/1IjMd90FeQohKCBHQw51DE) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Nattvarden](https://open.spotify.com/album/2AwHOKdct7NhCOyvVLeczR) | 4:32 | 2025-05-15 | 2025-06-01 |
 | [Need You](https://open.spotify.com/track/3uxYhXV0mZimmqvRbZbpX7) | [ELMA](https://open.spotify.com/artist/6KOsVFKDwAaTwdmOek0a2c) | [Need You](https://open.spotify.com/album/4vk66a9MvfT6Zz1NGhfVh0) | 3:14 | 2024-06-27 | 2024-08-30 |
 | [Need Your Love](https://open.spotify.com/track/3FK9wVJHNdJhqVPbIcoZsn) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Need Your Love](https://open.spotify.com/album/3UZVtXHg8FsA3Y9H1S1NbI) | 3:58 | 2026-04-02 |  |
+| [Neverending Love \(8\-track Remix by MP\)](https://open.spotify.com/track/1ljz808fIH4BgIeg02uZyE) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Mats M.P\. Persson](https://open.spotify.com/artist/4ScmtjFfoYphSATf7FlZbq) | [Neverending Love \(40th Anniversary Edition\)](https://open.spotify.com/album/68fW8pj3fzuthylZYPtYLD) | 2:29 | 2026-07-02 |  |
 | [No More Blues](https://open.spotify.com/track/1Y8FFe5ZLw3k002uBeXQJU) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Portrait](https://open.spotify.com/album/7sH4icMotSET9zBcbR5Gz4) | 5:46 | 2024-10-10 | 2025-04-25 |
 | [No More You](https://open.spotify.com/track/14JcmOiq1Tvn7zhTNLMQ8d) | [Sophie Zelmani](https://open.spotify.com/artist/59hh4MU8JBy0tvPlhz5fzk) | [No More You](https://open.spotify.com/album/2IIeIVpzwNhDfmhhzuDNBq) | 2:56 | 2024-10-10 | 2025-04-25 |
 | [Not With You](https://open.spotify.com/track/5TVRqKHORb3AhjwaLxOqct) | [Brolle](https://open.spotify.com/artist/67Lz9CWEfBpcH7myXeRb0b) | [Not With You](https://open.spotify.com/album/6C87WyxHXIgupIrGXlY1JJ) | 3:28 | 2024-06-27 | 2024-09-13 |
@@ -389,7 +391,7 @@
 | [Nöd och lust](https://open.spotify.com/track/3HhGWw77PZRn7k4YMku96d) | [Axel Schylström](https://open.spotify.com/artist/0Oomam5yjtfqVPnscjx8GT) | [Nöd och lust](https://open.spotify.com/album/6Y7RhVGnwyJxpTgKIGeNYP) | 2:51 | 2025-06-05 | 2025-09-26 |
 | [Of All People](https://open.spotify.com/track/1jhI5gfOIA2iGOWk6gp1xc) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Of All People](https://open.spotify.com/album/1Df1pG5H92VbkhbTehf6Sn) | 2:34 | 2026-04-09 |  |
 | [Okie From Muskogee](https://open.spotify.com/track/4Z9ToMQNS4J2MPIQgmItMU) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Sommarkort](https://open.spotify.com/album/7qWuV2Fbd7Lsg11p49gZvM) | 3:14 | 2026-06-25 |  |
-| [Older](https://open.spotify.com/track/13dyKTy1OGspz1EcoPnyqw) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Older \(From the TV series ”Tystnaden”\)](https://open.spotify.com/album/0Y9R3xwuHbFqcD75ukOgIF) | 3:34 | 2025-11-06 |  |
+| [Older](https://open.spotify.com/track/13dyKTy1OGspz1EcoPnyqw) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Older \(From the TV series ”Tystnaden”\)](https://open.spotify.com/album/0Y9R3xwuHbFqcD75ukOgIF) | 3:34 | 2025-11-06 | 2026-07-03 |
 | [Om igen](https://open.spotify.com/track/6tx6iWDAZP2iZjnXxY07Tq) | [Sannex](https://open.spotify.com/artist/7mTV1xDo95GO6Bc7ttBFm8) | [Om igen](https://open.spotify.com/album/1CVTxlicj7olEclcGV7HUD) | 3:01 | 2025-04-24 | 2025-08-08 |
 | [Once In A Lifetime](https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Once In A Lifetime](https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT) | 1:57 | 2024-12-05 | 2025-05-16 |
 | [One and Only](https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Private Blizzard](https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze) | 3:54 | 2024-08-22 | 2025-04-11 |

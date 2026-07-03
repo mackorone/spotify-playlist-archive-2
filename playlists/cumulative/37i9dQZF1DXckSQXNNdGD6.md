@@ -4,7 +4,7 @@
 
 > La banda sonora de tu orgullo\. Foto: Guitarricadelafuente.
 
-337 songs - 16 hr 32 min
+338 songs - 16 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Conexión](https://open.spotify.com/track/4cyWCJlJmLB5C4ArEC9KhN) | [AXHE](https://open.spotify.com/artist/0Yd11KNwQqqx6kEmuuSfEe) | [Conexión](https://open.spotify.com/album/4hGUrh2bJTWGAEW5C5hG7e) | 2:33 | 2024-07-02 | 2024-09-04 |
 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 | 2024-06-05 | 2025-04-02 |
 | [contigo aquí](https://open.spotify.com/track/7gExhLJOIdDcxdyZdnCFjI) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [contigo aquí](https://open.spotify.com/album/1xFKu31XFXJtGMwSDK4XqF) | 2:53 | 2025-03-04 | 2025-03-17 |
-| [corazón distante](https://open.spotify.com/track/1Db7H5M0JHVrSjeA8uufwS) | [Tatiana Delalvz](https://open.spotify.com/artist/4rFr57FRQgkd7FSwvQxBNP) | [corazón distante](https://open.spotify.com/album/0399cbykPgf4TRwqeu3x0J) | 2:18 | 2026-06-08 |  |
+| [corazón distante](https://open.spotify.com/track/1Db7H5M0JHVrSjeA8uufwS) | [Tatiana Delalvz](https://open.spotify.com/artist/4rFr57FRQgkd7FSwvQxBNP) | [corazón distante](https://open.spotify.com/album/0399cbykPgf4TRwqeu3x0J) | 2:18 | 2026-06-08 | 2026-07-03 |
 | [costa brava](https://open.spotify.com/track/7MmdTcUDVkk0TkD1ImJOVj) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [costa brava](https://open.spotify.com/album/3aH9pg37osLiuR4siGSLxJ) | 2:58 | 2025-07-01 | 2025-07-22 |
 | [Crisis](https://open.spotify.com/track/7AXbYamdqfw14MQZGeYlDM) | [Celia Becks](https://open.spotify.com/artist/50WyUnAV5BUImbldUlW5e1), [Chica Sobresalto](https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML) | [Crisis](https://open.spotify.com/album/0fb9EJam0LRXtnKfxGndYL) | 3:22 | 2024-12-04 | 2025-03-05 |
 | [Cuando acabe el verano](https://open.spotify.com/track/6y4MFrp5vwd4uJAI9e3UQ7) | [Miss Caffeina](https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb) | [Cuando acabe el verano](https://open.spotify.com/album/2Y5z8prM08SNZYm8rqhHSW) | 2:47 | 2024-09-03 | 2026-04-03 |
@@ -180,6 +180,7 @@
 | [LOKADEMÁS](https://open.spotify.com/track/5ZCQ2vkUFgvFx3ERJSOYOo) | [RUSLANA](https://open.spotify.com/artist/0Hx5M9oJbPM1sGqQ6iNgkB) | [LOKADEMÁS](https://open.spotify.com/album/2J1qfhngZEoIXhzyIsQOtB) | 3:13 | 2025-06-03 | 2026-02-04 |
 | [Los que me salvaron](https://open.spotify.com/track/4xY1WAvXeGrsB3dA20kxJr) | [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Los que me salvaron](https://open.spotify.com/album/3p2TdjupbCBuWbqatEmBpL) | 3:20 | 2026-01-13 | 2026-04-08 |
 | [Lunytunes](https://open.spotify.com/track/1lmkmlTumrbOU8cayYaGBr) | [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [Lunytunes](https://open.spotify.com/album/2BFNt7qe37chxGZQcaLn7v) | 2:35 | 2025-07-01 | 2025-10-02 |
+| [M'agrada, I like it, J'adore](https://open.spotify.com/track/2EHcivRAATzFC6ZZTPel2M) | [FADES](https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO) | [M'agrada, I like it, J'adore](https://open.spotify.com/album/66sCpNTloVw5JUK8NPlUao) | 3:12 | 2026-06-08 |  |
 | [MADRE](https://open.spotify.com/track/4j2e7idC7I4WOsHkp365aO) | [DeTeresa](https://open.spotify.com/artist/31zeUTZRXGIPUzzszUm4FK) | [MADRE](https://open.spotify.com/album/2sxtDcyhOrPUaImvlyXIYy) | 2:06 | 2025-08-05 | 2026-01-28 |
 | [MADRE MÍA EL ASCO QUE ME DAS](https://open.spotify.com/track/30J1epk1XS8p0pFttAPZ4b) | [Ladilla Rusa](https://open.spotify.com/artist/1JwhzFROpPDbDbstMTY7cF) | [MADRE MÍA EL ASCO QUE ME DAS](https://open.spotify.com/album/4aCUBRVvC3l1aFMZ1Vp9Yr) | 3:39 | 2024-06-05 | 2024-12-07 |
 | [Madres Solteras Buscan Polla](https://open.spotify.com/track/5HBKJZOUmNM6EDHbIF8K5V) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [DICTADURA TRAVESTI](https://open.spotify.com/album/4wyhnwydBRXCxjzhlMqT1D) | 3:40 | 2024-06-05 | 2024-07-03 |

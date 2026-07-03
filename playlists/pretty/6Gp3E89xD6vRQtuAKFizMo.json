@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43393,
+  "num_followers": 43395,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAavO1CEj+FoOlQ+1OhPgnGrU8h/JCL",
+  "snapshot_id": "AAAavtuOa6qjV8NrSzHgpEZX+qKdUg9W",
   "tracks": [
+    {
+      "added_at": "2026-07-03 04:00:45",
+      "album": {
+        "name": "Gravity (feat. SACHA)",
+        "url": "https://open.spotify.com/album/79aF8LZe8qAienSve3qjTo"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "duration_ms": 180849,
+      "name": "Gravity (feat. SACHA)",
+      "url": "https://open.spotify.com/track/05vUCrcaRvSjLzb0WbmVDk"
+    },
+    {
+      "added_at": "2026-07-03 04:00:45",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/5F3oIYcDNrKPZGRGQNgOQv"
+      },
+      "artists": [
+        {
+          "name": "Dannic",
+          "url": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/40mqx07fQYXMrjRJXfLwNy"
+    },
     {
       "added_at": "2026-06-26 04:00:45",
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "BIG ROOM NEVER DIES - big room - bigroom - bigroom songs - big room music - festival music - future rave songs - big room dance - party music - mainstage songs - mainstage music - rave songs - new edm - edm songs",
-  "num_followers": 211954,
+  "num_followers": 211946,
   "original_name": "Big Room 2026 \ud83d\udd25 Bigroom Mainstage",
   "owner": {
     "name": "Revealed Recordings",
     "url": "https://open.spotify.com/user/revealedrec"
   },
-  "snapshot_id": "AAAWTo4FqeU+Wbfr+GrBQLL/9MSvuv/t",
+  "snapshot_id": "AAAWUSDOsHwkCYkuKF78Jy9cUevnh2M1",
   "tracks": [
     {
       "added_at": "2026-06-25 16:58:33",
@@ -175,26 +175,6 @@
     {
       "added_at": "2026-06-25 23:43:48",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/0L3wBtrZKS8eLGu6BseDMD"
-      },
-      "artists": [
-        {
-          "name": "Joey Dale",
-          "url": "https://open.spotify.com/artist/3QjbhhPrW6clls3VPRGkXu"
-        },
-        {
-          "name": "Dirty Signal",
-          "url": "https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ"
-        }
-      ],
-      "duration_ms": 217741,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/6Ehx4fcQL2EgnAb1sj5wAl"
-    },
-    {
-      "added_at": "2026-06-25 23:43:48",
-      "album": {
         "name": "Secrets (Radio Edit)",
         "url": "https://open.spotify.com/album/4p3CULd5VeCSikL0PYkoP3"
       },
@@ -235,6 +215,38 @@
       "duration_ms": 198000,
       "name": "Countdown 2026",
       "url": "https://open.spotify.com/track/2uAXkhR8wqW2w4KJAPvP7I"
+    },
+    {
+      "added_at": "2026-07-02 19:58:15",
+      "album": {
+        "name": "The Night",
+        "url": "https://open.spotify.com/album/1NXzmPhN84ap5bSs3cJG1C"
+      },
+      "artists": [
+        {
+          "name": "Digital X",
+          "url": "https://open.spotify.com/artist/3Dtxw1PMmpzH5QFy0lf95c"
+        }
+      ],
+      "duration_ms": 147327,
+      "name": "The Night",
+      "url": "https://open.spotify.com/track/3WlMvPbUWW3D4RUyUKAdD9"
+    },
+    {
+      "added_at": "2026-07-02 20:00:24",
+      "album": {
+        "name": "Where I'm From",
+        "url": "https://open.spotify.com/album/7AFYrSvWh3CZXZR0TAjUxv"
+      },
+      "artists": [
+        {
+          "name": "Domeno",
+          "url": "https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y"
+        }
+      ],
+      "duration_ms": 147857,
+      "name": "Where I'm From",
+      "url": "https://open.spotify.com/track/7xej2gR07HgZOEwrAgGUDA"
     },
     {
       "added_at": "2026-06-25 23:43:48",
@@ -291,6 +303,26 @@
       "duration_ms": 161142,
       "name": "Heavy On My Heart",
       "url": "https://open.spotify.com/track/7lMEsgC7KiaLQ3FtBQEK1d"
+    },
+    {
+      "added_at": "2026-06-25 23:43:48",
+      "album": {
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/0L3wBtrZKS8eLGu6BseDMD"
+      },
+      "artists": [
+        {
+          "name": "Joey Dale",
+          "url": "https://open.spotify.com/artist/3QjbhhPrW6clls3VPRGkXu"
+        },
+        {
+          "name": "Dirty Signal",
+          "url": "https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ"
+        }
+      ],
+      "duration_ms": 217741,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/6Ehx4fcQL2EgnAb1sj5wAl"
     },
     {
       "added_at": "2026-06-25 23:43:48",

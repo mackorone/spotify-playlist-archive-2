@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : TH\u00c9A",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : MDNS",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 131960,
       "name": "Camille",
       "url": "https://open.spotify.com/track/5GK1CetggLaP1FoVZyQBsy"
@@ -2177,6 +2177,24 @@
     },
     {
       "album": {
+        "name": "derniers souvenirs du futur",
+        "url": "https://open.spotify.com/album/4GC6uXzn1gyP2sACCErlhV"
+      },
+      "artists": [
+        {
+          "name": "Adrien Gallo",
+          "url": "https://open.spotify.com/artist/784dNRnP2BcgctoGnFKsZl"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141809,
+      "name": "derniers souvenirs du futur",
+      "url": "https://open.spotify.com/track/4VgdcxOhDQQbkbJW48kFvk"
+    },
+    {
+      "album": {
         "name": "Des b\u00eatises (part I)",
         "url": "https://open.spotify.com/album/58N0JewhvuJxBYc7uj99hk"
       },
@@ -2704,7 +2722,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 135000,
       "name": "Ex",
       "url": "https://open.spotify.com/track/4VVqf8rxt0CDVRUzDtEEij"
@@ -2990,6 +3008,24 @@
       "duration_ms": 156914,
       "name": "fragile hardcore",
       "url": "https://open.spotify.com/track/223MDZteznzgYiVX9QT5vB"
+    },
+    {
+      "album": {
+        "name": "Fucked Up",
+        "url": "https://open.spotify.com/album/1WKTadb3dZbjTEtWZkHtM2"
+      },
+      "artists": [
+        {
+          "name": "Blaame",
+          "url": "https://open.spotify.com/artist/40eNfkD7ZldjqnmTm4fbdl"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Fucked Up",
+      "url": "https://open.spotify.com/track/0IyTGXvTJ3vRDC7cS9wi9J"
     },
     {
       "album": {
@@ -3845,6 +3881,24 @@
     },
     {
       "album": {
+        "name": "Je m'en fous",
+        "url": "https://open.spotify.com/album/3N3acClUyVjKLl7i4N1b1S"
+      },
+      "artists": [
+        {
+          "name": "SOCIAL DANCE",
+          "url": "https://open.spotify.com/artist/64OIuqnoThjTpSVPFUyyLz"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182666,
+      "name": "Je m'en fous",
+      "url": "https://open.spotify.com/track/5MXnHVg8xcGfXHuAnqTJKn"
+    },
+    {
+      "album": {
         "name": "JE ME SENS BIEN",
         "url": "https://open.spotify.com/album/2Cqb4Z1Ab01rppyWSnGoti"
       },
@@ -4000,7 +4054,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 232986,
       "name": "Je sais que tu m'aimes",
       "url": "https://open.spotify.com/track/7ELZNRJoR691y62jyy7kqr"
@@ -4224,7 +4278,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 209786,
       "name": "Kalashnikov girl",
       "url": "https://open.spotify.com/track/2jgLFjckEsoVHYO4yUJ7Zx"
@@ -4264,6 +4318,24 @@
       "duration_ms": 177133,
       "name": "Keskia",
       "url": "https://open.spotify.com/track/4bXWo43kD5yjlQ3oFCGVWo"
+    },
+    {
+      "album": {
+        "name": "Kill It With The Beat",
+        "url": "https://open.spotify.com/album/45In5WyfJ6yOq24bVd6WOl"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173066,
+      "name": "Kill It With The Beat",
+      "url": "https://open.spotify.com/track/2oN4lORHOZdxyPeTLEvn9S"
     },
     {
       "album": {
@@ -4426,6 +4498,24 @@
       "duration_ms": 141985,
       "name": "L'Usine",
       "url": "https://open.spotify.com/track/6gPrgMobziEaMU1E8w8K5T"
+    },
+    {
+      "album": {
+        "name": "LA BARMAID!",
+        "url": "https://open.spotify.com/album/2TYKS2Jei8xXffz2ROffwQ"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115426,
+      "name": "LA BARMAID!",
+      "url": "https://open.spotify.com/track/2WbfIgFaOqMOwWyAzIqVyC"
     },
     {
       "album": {
@@ -8962,7 +9052,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 172466,
       "name": "Trop Instable",
       "url": "https://open.spotify.com/track/3qglIdcFgSVNKMZw5UzzwR"

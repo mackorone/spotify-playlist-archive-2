@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rXL3w.md) - [plain]
 | 23 | [Eloise & Theo \- From the Netflix Series “Bridgerton Season Two”](https://open.spotify.com/track/1nqAZQ2aEWWl7m367vlMyH) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton Season Two \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4qhHu94GUvuG0WSxFilOte) | 0:47 |
 | 24 | [Thank You \- from the Netflix Series "Queen Charlotte"](https://open.spotify.com/track/7DLgRYCtEARiOuZPYoWYfJ) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Queen Charlotte: A Bridgerton Story \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo) | 2:32 |
 
-Snapshot ID: `akMHAAAAAABW7B07OHxP7FYb46Sw6z2d`
+Snapshot ID: `akRYgAAAAADH2B8X2wstQ7PyoSIgb46z`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,267 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,264 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 78 | [Password](https://open.spotify.com/track/3Th1HFNWilrRJyIvjBxNj5) | [Fever](https://open.spotify.com/artist/78emMqMZWaWiYUGSlXwIxw) | [Password](https://open.spotify.com/album/4rgVJF3Omwi23EJ0Nvc8ec) | 3:59 |
 | 79 | [Shadowless Dance](https://open.spotify.com/track/5KV9NvMZzZ57pEwSCr4Sm9) | [百頁與好心人](https://open.spotify.com/artist/2w5KGACKyeQ9o5Q8k0qMjg) | [Shadowless Dance](https://open.spotify.com/album/73xj05nSCflpkAWZoHba2y) | 2:52 |
 | 80 | [Summum Bonum](https://open.spotify.com/track/09bEFRkwyd648AXubqQxir) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [CASSA NOVA](https://open.spotify.com/album/6ElKO6Gwlw0xV4Nt6tBvoH) | 4:41 |
-| 81 | [不標準情人](https://open.spotify.com/track/5TlQjk6LfvsGbnNOR555va) | [Freckle](https://open.spotify.com/artist/0LWVgqTRkGQkN6Txprc6LF), [Leo王](https://open.spotify.com/artist/5Zn94mKQQYVZUvhiIXeXdP) | [不標準情人](https://open.spotify.com/album/5ue5bCo48QRPUOi7y8Egj1) | 4:35 |
+| 81 | [不標準情人](https://open.spotify.com/track/5TlQjk6LfvsGbnNOR555va) | [Freckle](https://open.spotify.com/artist/0LWVgqTRkGQkN6Txprc6LF) | [不標準情人](https://open.spotify.com/album/5ue5bCo48QRPUOi7y8Egj1) | 4:35 |
 | 82 | [Hunky Dory](https://open.spotify.com/track/79s8CsG6AxcfPxyLVvlFqf) | [Ray Viera Laxmana](https://open.spotify.com/artist/4d71lT61WEn2SsjEgeSbBf), [Monsdim](https://open.spotify.com/artist/4TSyT8NNuZfgzHVAfsnkQv) | [The Noir Scene and The White Sheep Before I Sleep](https://open.spotify.com/album/551bI1L2hl1saZBLyALX0t) | 4:09 |
 | 83 | [discohaze](https://open.spotify.com/track/7x7CRaBCFtmKFAbc9N3iwx) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [no\-vacancy](https://open.spotify.com/album/5DrKVvCMN1ail6mAmnobXq) | 3:18 |
 | 84 | [Manila](https://open.spotify.com/track/32OLhhBNdDypGemTbxDavN) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Manila](https://open.spotify.com/album/0W2sFOFR8ZRKjJ520qFyR6) | 3:35 |

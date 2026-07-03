@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 119189,
+  "num_followers": 119226,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2026-06-25 22:01:48",
       "album": {
+        "name": "Maracuya",
+        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        }
+      ],
+      "duration_ms": 170476,
+      "name": "Maracuya",
+      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
+    },
+    {
+      "added_at": "2026-06-25 22:01:48",
+      "album": {
         "name": "Si Vas Al mar",
         "url": "https://open.spotify.com/album/180iVVSyWKcPtT4RoPIMy4"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 256475,
       "name": "Si Vas Al mar",
       "url": "https://open.spotify.com/track/1oU2mTReAEUNlQdC6e4IAp"
-    },
-    {
-      "added_at": "2026-06-25 22:01:48",
-      "album": {
-        "name": "Maracuya",
-        "url": "https://open.spotify.com/album/1WdOhzT6Wc46jKegklKBgp"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        }
-      ],
-      "duration_ms": 170476,
-      "name": "Maracuya",
-      "url": "https://open.spotify.com/track/3SIGASmke2qRU6oJV3y1iR"
     },
     {
       "added_at": "2026-06-25 22:01:48",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2026-06-25 22:01:48",
       "album": {
-        "name": "Matadora (Radio Edit)",
-        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
-      },
-      "artists": [
-        {
-          "name": "Maahez",
-          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
-        },
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Matadora - Radio Edit",
-      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
-    },
-    {
-      "added_at": "2026-06-25 22:01:48",
-      "album": {
         "name": "Vida",
         "url": "https://open.spotify.com/album/49WSoPCFjeCJPcLxkyYrrI"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 152903,
       "name": "Vida",
       "url": "https://open.spotify.com/track/7Jy94rhQOwizzFMRop4xBc"
+    },
+    {
+      "added_at": "2026-06-25 22:01:48",
+      "album": {
+        "name": "Matadora (Radio Edit)",
+        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
+      },
+      "artists": [
+        {
+          "name": "Maahez",
+          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Matadora - Radio Edit",
+      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
     },
     {
       "added_at": "2026-06-25 22:01:48",
@@ -1979,18 +1979,22 @@
     {
       "added_at": "2026-06-25 22:01:48",
       "album": {
-        "name": "Kiki",
-        "url": "https://open.spotify.com/album/3O3z1T3hEIwrXl5ED0gViH"
+        "name": "Besito",
+        "url": "https://open.spotify.com/album/4Dw4ysGv4Rp3YuJeclkIRU"
       },
       "artists": [
         {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+          "name": "Kill Them With Colour",
+          "url": "https://open.spotify.com/artist/51YdmMVkUtAJnXacxyBZdU"
+        },
+        {
+          "name": "Daniel Matheus",
+          "url": "https://open.spotify.com/artist/1ixkcp1yCF8kWwat8HGz4I"
         }
       ],
-      "duration_ms": 180109,
-      "name": "Kiki",
-      "url": "https://open.spotify.com/track/7qpHYfkq07k5LhAT1eqCsL"
+      "duration_ms": 200975,
+      "name": "Besito",
+      "url": "https://open.spotify.com/track/6iatlE4HaOG382ZljmBNdb"
     },
     {
       "added_at": "2026-06-25 22:01:48",

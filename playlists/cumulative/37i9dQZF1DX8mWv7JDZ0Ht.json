@@ -10120,7 +10120,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 173365,
       "name": "Meu corpo pede",
       "url": "https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u"
@@ -15268,6 +15268,28 @@
       "duration_ms": 189713,
       "name": "SERENA",
       "url": "https://open.spotify.com/track/4ZxM1fRBKH1IdiKWPE6eZc"
+    },
+    {
+      "album": {
+        "name": "Sess\u00e3o Da Tarde",
+        "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
+      },
+      "artists": [
+        {
+          "name": "Voraz",
+          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
+        },
+        {
+          "name": "Julies",
+          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182784,
+      "name": "Sess\u00e3o Da Tarde",
+      "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
     },
     {
       "album": {

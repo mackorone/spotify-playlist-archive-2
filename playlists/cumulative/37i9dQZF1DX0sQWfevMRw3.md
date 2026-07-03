@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,675 songs - 2 day 21 hr 30 min
+1,676 songs - 2 day 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1412,6 +1412,7 @@
 | [STUREPLAN](https://open.spotify.com/track/6LlBUPrRLJURMBGk97UlfH) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [Mozby](https://open.spotify.com/artist/6kxzjvqTwQHtqzObBTJHh6), [Dj Papiljottan](https://open.spotify.com/artist/6wLNEtETDrWp288YzyqTvp) | [STUREPLAN](https://open.spotify.com/album/4lrJfbpvZILhobbR113DZW) | 1:56 | 2023-06-29 | 2023-09-22 |
 | [Står upp igen](https://open.spotify.com/track/4AqmMaj3uBbEjpcFJ51X96) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [YWB](https://open.spotify.com/artist/5lBsK5xIl9HCUgSYtgUuBi) | [Står upp igen](https://open.spotify.com/album/0c5YRjkhK17A9gELoDvpPQ) | 1:55 | 2025-03-27 | 2026-02-17 |
 | [STÖRA HELA STADEN \(Hela Flaskan\)](https://open.spotify.com/track/5X6uvFjoC1nxofjP4BIswk) | [Erik Meduza](https://open.spotify.com/artist/4zZY1aZuZugxyhDzZlMphr), [Hugge](https://open.spotify.com/artist/1U17tqE6Kaphway5gmRD9g), [Lirare](https://open.spotify.com/artist/29fjkix5tB2c3s7Vfdn2wh) | [STÖRA HELA STADEN \(Hela Flaskan\)](https://open.spotify.com/album/1yaXcpZKZUIcjeJf0WJ92I) | 2:22 | 2024-03-14 | 2024-04-05 |
+| [STÖRD](https://open.spotify.com/track/1FJTj1IQfejgdNJB44l0oJ) | [KYPARN](https://open.spotify.com/artist/2p9OeruY0AAgWRu84YZMPw), [DIREKTÖREN](https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY), [OKVH](https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ) | [STÖRD](https://open.spotify.com/album/4yVljNTuC3juvmr1D4tq8u) | 2:41 | 2026-07-02 |  |
 | [StörningsjoureN^](https://open.spotify.com/track/0lOAHTwpvcADdVjd0YdUJx) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [StörningsjoureN^](https://open.spotify.com/album/0fGwRfap26vLmXmWwJvOOS) | 2:44 | 2025-03-20 | 2026-02-17 |
 | [STÖRTLOPP](https://open.spotify.com/track/4uoYs01HjSL6uAVAKwKXGZ) | [TRIPPEL TRUBBEL](https://open.spotify.com/artist/6mpgc1oXQGoAY6X08CGOoE) | [STÖRTLOPP](https://open.spotify.com/album/0zQC4zzbGFIaSHDG5n6ugh) | 2:45 | 2024-02-08 | 2024-03-08 |
 | [Støgg melodi](https://open.spotify.com/track/1C7SZAlPxN0E3fh90JYqgS) | [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [Støgg melodi](https://open.spotify.com/album/2B4VbCa7gsJS2bg2wUkYIC) | 2:21 | 2026-03-12 |  |

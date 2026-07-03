@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "rock alternativo argentino. \n\ud83d\udcf7 Catalina Ammaturo",
+  "description": "rock alternativo argentino. \n\ud83d\udcf7 MUGRE",
   "name": "alt.rock",
   "tracks": [
     {
@@ -2187,6 +2187,24 @@
     },
     {
       "album": {
+        "name": "La larga risa de todos estos a\u00f1os",
+        "url": "https://open.spotify.com/album/3HLmq1A0Q8tTJDnWVt0Z76"
+      },
+      "artists": [
+        {
+          "name": "Ciruelo",
+          "url": "https://open.spotify.com/artist/5CO9M2qdkLeY8cBAgS1xMf"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207226,
+      "name": "El mundo no te debe nada",
+      "url": "https://open.spotify.com/track/4VDMscJmYSAc8W3Ke7KeJq"
+    },
+    {
+      "album": {
         "name": "Los Movimientos",
         "url": "https://open.spotify.com/album/7KgdvgQmOCuasSXfnjolgp"
       },
@@ -2343,6 +2361,24 @@
     },
     {
       "album": {
+        "name": "En el Margen",
+        "url": "https://open.spotify.com/album/6ymtX68lzLvTQCDCfKvTKj"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174801,
+      "name": "En el Margen",
+      "url": "https://open.spotify.com/track/6STAyEiJGoM5pLFpyAO5Be"
+    },
+    {
+      "album": {
         "name": "Calendario",
         "url": "https://open.spotify.com/album/25yfGAtfakJoBCIKE0K7AZ"
       },
@@ -2438,6 +2474,24 @@
       "duration_ms": 178857,
       "name": "Era un D\u00eda Perfecto",
       "url": "https://open.spotify.com/track/2p4q16NmSsr8vobCRfigQl"
+    },
+    {
+      "album": {
+        "name": "Puesta en Escena",
+        "url": "https://open.spotify.com/album/4dZfGS9am40TJtu0tPcEeJ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Volante",
+          "url": "https://open.spotify.com/artist/2t3xODO0BCFvpYNjUKI3Gi"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166250,
+      "name": "Es Tarde (Genio)",
+      "url": "https://open.spotify.com/track/2ExUs5aok1Yex1mtaDSPot"
     },
     {
       "album": {
@@ -4404,7 +4458,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 197570,
       "name": "Nubes de Alcohol",
       "url": "https://open.spotify.com/track/7LBjclxGuOUl3S2Bflr2s8"
@@ -5277,6 +5331,24 @@
     },
     {
       "album": {
+        "name": "Gloria Morir",
+        "url": "https://open.spotify.com/album/3x53N8oPi0pXoq0CCJK8wA"
+      },
+      "artists": [
+        {
+          "name": "Viuda Federal",
+          "url": "https://open.spotify.com/artist/0P66TdA6UAEVqjz6P9xNZl"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216092,
+      "name": "Rompan Todo",
+      "url": "https://open.spotify.com/track/5PZUbiba1yYXW8Y0Utb6YY"
+    },
+    {
+      "album": {
         "name": "Sal chivo",
         "url": "https://open.spotify.com/album/6n85JjMfghPhCttGoo9U6p"
       },
@@ -5686,6 +5758,24 @@
       "duration_ms": 242186,
       "name": "Such A Witch",
       "url": "https://open.spotify.com/track/33BD4qBJIAxOIeneCcvo2O"
+    },
+    {
+      "album": {
+        "name": "MUGRE",
+        "url": "https://open.spotify.com/album/668uUY9P6tEPIcZOkHLHaZ"
+      },
+      "artists": [
+        {
+          "name": "MUGRE",
+          "url": "https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170304,
+      "name": "SUS GRITOS",
+      "url": "https://open.spotify.com/track/5bdxfSNKT2Faz39FyGLrSK"
     },
     {
       "album": {
@@ -6100,7 +6190,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 100160,
       "name": "UN PLAN B",
       "url": "https://open.spotify.com/track/5YKlZSo139XFVe5IWTXKcK"

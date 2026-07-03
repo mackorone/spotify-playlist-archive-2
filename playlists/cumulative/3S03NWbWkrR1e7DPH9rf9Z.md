@@ -4,7 +4,7 @@
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-249 songs - 12 hr 11 min
+251 songs - 12 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [The Last Standing](https://open.spotify.com/track/1OMvHzjGMufKVXRy6jKLYJ) | [J.C.Zhou](https://open.spotify.com/artist/1sFuJZ0Jb9VuGpD19g580l) | [The Last Standing](https://open.spotify.com/album/0MvgqXy67k9g2ekumbpBIu) | 3:10 | 2025-07-04 |  |
 | [The Light](https://open.spotify.com/track/5IVEBBkuAscVnEwfroexOZ) | [Dyro](https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9) | [The Light](https://open.spotify.com/album/1Gw2vUSjEihUAU7TbRJ6xd) | 2:56 | 2026-05-29 |  |
 | [The Motto \- Tiësto’s VIP Mix](https://open.spotify.com/track/6NNpXXkpPDZKxdavZbVhwJ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto \(Tiësto’s VIP Mix\)](https://open.spotify.com/album/7meBQmZlwafCUPOAXAaYOQ) | 3:26 | 2025-07-04 | 2026-06-12 |
+| [The Night](https://open.spotify.com/track/3WlMvPbUWW3D4RUyUKAdD9) | [Digital X](https://open.spotify.com/artist/3Dtxw1PMmpzH5QFy0lf95c) | [The Night](https://open.spotify.com/album/1NXzmPhN84ap5bSs3cJG1C) | 2:27 | 2026-07-02 |  |
 | [The Oldskool](https://open.spotify.com/track/7E6PttMltdug1odSoOUaLg) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Oldskool](https://open.spotify.com/album/1s7HIcHIZ1XFwRF4dZ32Km) | 2:43 | 2025-07-04 |  |
 | [The Partycrasher](https://open.spotify.com/track/2uHGci4XJywAICJ1D54Xgq) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Chuckie](https://open.spotify.com/artist/4x7gxsrTH3gThvSKZPPwaQ) | [The Partycrasher](https://open.spotify.com/album/4rwbRBvVsKL96gZQcaHTCT) | 2:47 | 2025-12-04 |  |
 | [The Underground](https://open.spotify.com/track/1Tc3d5Dy9W3dlZ6yi22Aph) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [RYOS](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [The Underground](https://open.spotify.com/album/6T9qtE0RP4nPe6eZsGMMu7) | 2:27 | 2025-07-04 |  |
@@ -248,6 +249,7 @@
 | [We Don't Care \- SaberZ Remix](https://open.spotify.com/track/0ZP7z0N7Fui5YWs6g1kHYF) | [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [We Don’t Care \(Incl\. SaberZ Remix\)](https://open.spotify.com/album/2ZhZGTgIcuySWBOYqQwK1X) | 3:10 | 2025-07-04 | 2026-06-12 |
 | [We Will Stay Young](https://open.spotify.com/track/3Rs1aN33HRG6foIgM2TNjC) | [Rene Rodrigezz](https://open.spotify.com/artist/74KsNtV6tvDuIwI9V2JfQO), [Tommic](https://open.spotify.com/artist/6jzHADOzVu22oYfiNJ2Ewr) | [We Will Stay Young](https://open.spotify.com/album/2FHeRhhrOxiJdcF9VSxuqy) | 2:34 | 2026-05-29 |  |
 | [Welcome To The Weekend](https://open.spotify.com/track/16TlP5h8EAcM3umJfAV5jT) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk) | [Welcome To The Weekend](https://open.spotify.com/album/1ySr3refuNS1FVvYTxwIO9) | 2:54 | 2025-07-04 |  |
+| [Where I'm From](https://open.spotify.com/track/7xej2gR07HgZOEwrAgGUDA) | [Domeno](https://open.spotify.com/artist/7yMAFCnx0clryFBMwaQI3Y) | [Where I'm From](https://open.spotify.com/album/7AFYrSvWh3CZXZR0TAjUxv) | 2:27 | 2026-07-02 |  |
 | [Why \- BLK RSE Remix](https://open.spotify.com/track/3pasvjHpIOyUEIuFgB9KaD) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [BLK RSE](https://open.spotify.com/artist/2caQqGZcs7vbmAEE0uAWBz) | [Why \(BLK RSE Remix\)](https://open.spotify.com/album/3UQ5fqGMimlIULruwBMZhf) | 2:52 | 2025-07-04 |  |
 | [Wild](https://open.spotify.com/track/3kKq8JKvGEGSJwd3aChRRb) | [MatricK](https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH), [Nick Havsen](https://open.spotify.com/artist/1MISHmlS06R8ba7RVsn0A3), [Jessie Lee Thetford](https://open.spotify.com/artist/2bLOeO0xeK04raTh2PaBTZ) | [Wild](https://open.spotify.com/album/5yDDif1Lxqfheltsy5Cb4u) | 2:51 | 2025-07-04 |  |
 | [Wild Ride \(Ryos Remix\)](https://open.spotify.com/track/0Qe6yEMaWsmynN3eTA9Bxd) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [RYOS](https://open.spotify.com/artist/7us9kFadl2fztbHSvlNk6M) | [Wild Ride \(Ryos Remix\)](https://open.spotify.com/album/1RJOptnhicG5FsZRzpT5YF) | 3:04 | 2025-08-22 |  |

@@ -1190,7 +1190,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 138947,
       "name": "coraz\u00f3n distante",
       "url": "https://open.spotify.com/track/1Db7H5M0JHVrSjeA8uufwS"
@@ -3366,6 +3366,24 @@
       "duration_ms": 155749,
       "name": "Lunytunes",
       "url": "https://open.spotify.com/track/1lmkmlTumrbOU8cayYaGBr"
+    },
+    {
+      "album": {
+        "name": "M'agrada, I like it, J'adore",
+        "url": "https://open.spotify.com/album/66sCpNTloVw5JUK8NPlUao"
+      },
+      "artists": [
+        {
+          "name": "FADES",
+          "url": "https://open.spotify.com/artist/2GbjEKkwENPIzGzGU4haSO"
+        }
+      ],
+      "date_added": "2026-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192988,
+      "name": "M'agrada, I like it, J'adore",
+      "url": "https://open.spotify.com/track/2EHcivRAATzFC6ZZTPel2M"
     },
     {
       "album": {

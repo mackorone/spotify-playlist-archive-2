@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tous les hits latino du moment sont ici. Photo : Ana Mena x Lola Indigo",
+  "description": "Tous les hits latino du moment sont ici. Photo : Ozuna",
   "name": "Caliente",
   "tracks": [
     {
@@ -3754,7 +3754,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 232941,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/7EqulVHbWDM0SR2e2IFpDv"
@@ -4578,7 +4578,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 202386,
       "name": "Ingl\u00e9s En Miami",
       "url": "https://open.spotify.com/track/3Y1xjjepdqMP141ipYCAqA"
@@ -4974,6 +4974,28 @@
       "duration_ms": 201644,
       "name": "La G96",
       "url": "https://open.spotify.com/track/7dBbMyRm5ZbvZRAMFM7mOT"
+    },
+    {
+      "album": {
+        "name": "LA GUARACHA (Oh Oh Oh)",
+        "url": "https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199807,
+      "name": "LA GUARACHA (Oh Oh Oh)",
+      "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
     },
     {
       "album": {
@@ -9286,6 +9308,24 @@
       "duration_ms": 197933,
       "name": "TQG",
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
+    },
+    {
+      "album": {
+        "name": "LA FOLLE DU BUS",
+        "url": "https://open.spotify.com/album/45tA00tQMMUdTPoOqMqn3l"
+      },
+      "artists": [
+        {
+          "name": "Filiz",
+          "url": "https://open.spotify.com/artist/5IotvmXP4j1DikGWocffKz"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/2CTxXSQSfNzSRdlfQhekul"
     },
     {
       "album": {

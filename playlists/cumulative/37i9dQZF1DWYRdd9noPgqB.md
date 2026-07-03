@@ -4,7 +4,7 @@
 
 > La playlist qui fait du bien ☀️
 
-495 songs - 1 day 3 hr 15 min
+497 songs - 1 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Favourite Girl](https://open.spotify.com/track/4O2lcMh4Y5MaElHa2ec7WZ) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Favourite Girl](https://open.spotify.com/album/5Om1STRZEXN7z8O7leJEAR) | 2:39 | 2024-10-24 | 2025-03-14 |
 | [Feel Alive](https://open.spotify.com/track/2nPXfUVFzIlhN4SokXg6O7) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Feel Alive](https://open.spotify.com/album/4MfK4qyG0xxWjQtrb0fwvI) | 2:49 | 2026-06-26 |  |
 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 | 2025-07-24 | 2026-04-03 |
+| [FEEL THE NIGHT](https://open.spotify.com/track/7EzQ54GP7TtEfd9QMbWZzV) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49) | [FEEL THE NIGHT](https://open.spotify.com/album/5oCyQWYNOeNB6jM8EY2vyo) | 3:09 | 2026-07-02 |  |
 | [Fio Maravilha](https://open.spotify.com/track/1W9TsPRxMfhnI0bmfg3Kwh) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD), [Nicoletta](https://open.spotify.com/artist/1XspV6teuaJMwVq0QBXZA0) | [Fio Maravilha](https://open.spotify.com/album/5mZM6qQfT8347Sn0WngPK4) | 3:08 | 2024-02-01 | 2024-06-21 |
 | [Fior di Latte](https://open.spotify.com/track/1NJJObY1QxJhs5Xphq837L) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Ti Amo](https://open.spotify.com/album/4CWDyUN5jukEwwc2Fo4xzy) | 4:03 | 2023-09-28 | 2023-10-20 |
 | [Fish in a Bowl](https://open.spotify.com/track/5MjlhiqSDgSValAXvEd1w7) | [Annie Lalalove](https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL) | [Fish in a Bowl](https://open.spotify.com/album/4EjoAF2w6uCqttZAgko5Cp) | 3:42 | 2026-05-21 |  |
@@ -261,6 +262,7 @@
 | [Madwoman](https://open.spotify.com/track/0UqHzMvRQnaOXEPKgFVhxN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [A Matter of Time: The Final Hour](https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7) | 3:59 | 2026-04-09 |  |
 | [MAGIC](https://open.spotify.com/track/3hB6fPgud6yt1MRKHJ58Mg) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [MAGIC](https://open.spotify.com/album/1GD5LEi9PqcG53COfp3LsQ) | 2:57 | 2024-02-08 | 2024-03-15 |
 | [Makes Me Wanna Dance](https://open.spotify.com/track/0wLCc3EWV2CV6mb9Nz40hH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Makes Me Wanna Dance](https://open.spotify.com/album/493Cvff5YSUUvYkYqdSj8g) | 2:41 | 2025-06-06 | 2026-02-20 |
+| [Malibu](https://open.spotify.com/track/4PzjQpUlb2uPlsB6U1MgHr) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo), [Side One](https://open.spotify.com/artist/02Ni6QKLqoq8wfx846M2GZ) | [Malibu](https://open.spotify.com/album/1qnAHpyTVSkXo8Oh57Appo) | 2:52 | 2026-07-02 |  |
 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 | 2025-08-21 | 2026-01-30 |
 | [Many Lives](https://open.spotify.com/track/3RGO73FmSCNy4ttRjuRZIJ) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Many Lives](https://open.spotify.com/album/59bHilulRFxXPtzqocpXoX) | 3:38 | 2023-10-26 | 2024-10-11 |
 | [Marguerita](https://open.spotify.com/track/6epwUk5pVSWjnYGNJgYNzm) | [Rémi Klein](https://open.spotify.com/artist/06JZ26vMJOjeIjwG35mP7e) | [Marguerita](https://open.spotify.com/album/4ReX9ZxdlLE3AeVnqfjTxc) | 3:34 | 2025-04-24 | 2025-08-29 |
@@ -357,7 +359,7 @@
 | [Promises](https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Promises](https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA) | 3:16 | 2026-03-26 |  |
 | [R.I.P.](https://open.spotify.com/track/1KSPuERBxyErKcJDhlyRJ8) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k), [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [R.I.P.](https://open.spotify.com/album/31GGW5v48kh1vAZ6FSyqZk) | 3:04 | 2025-03-27 | 2025-07-18 |
 | [Radio](https://open.spotify.com/track/64TQd94FEEFJbpnYs9Jfqd) | [Lilly Wood and The Prick](https://open.spotify.com/artist/50OApTJurDusIo9dGTqSU4) | [Radio](https://open.spotify.com/album/6zNUofPP2SkaBZ0Eg9AtIt) | 3:23 | 2024-02-15 | 2024-05-03 |
-| [radio star](https://open.spotify.com/track/7ypdaPAJf6PxFMZ6a6tdpl) | [Lost In Pacific](https://open.spotify.com/artist/1oC7D0CrT7bABXQXFCGltP) | [certified beach boy](https://open.spotify.com/album/4HuTqzAd3jTIRS6H6SksDj) | 3:17 | 2026-06-26 |  |
+| [radio star](https://open.spotify.com/track/7ypdaPAJf6PxFMZ6a6tdpl) | [Lost In Pacific](https://open.spotify.com/artist/1oC7D0CrT7bABXQXFCGltP) | [certified beach boy](https://open.spotify.com/album/4HuTqzAd3jTIRS6H6SksDj) | 3:17 | 2026-06-26 | 2026-07-03 |
 | [Radiosoul](https://open.spotify.com/track/6A5qBgLBLWgQCpON8rR420) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Radiosoul](https://open.spotify.com/album/5doIyRFTqHfAgqu8oy0rXE) | 5:15 | 2024-04-11 | 2024-05-10 |
 | [Raze the Bar](https://open.spotify.com/track/35rrbssZ9Bqm3jk7E9uVmo) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [Raze the Bar](https://open.spotify.com/album/2dgQcPmMYnsuscr2YbLQex) | 3:05 | 2024-05-16 | 2024-08-23 |
 | [Ready Baby](https://open.spotify.com/track/0W27iECtGTgI94wQOiJGEm) | [Jeanne Added](https://open.spotify.com/artist/5TEGxYftTkeKmLXkZjHNUE) | [Ready Baby](https://open.spotify.com/album/1acFnL6yQpen1hzMX2RGyT) | 3:19 | 2023-11-23 | 2024-02-02 |
@@ -449,7 +451,7 @@
 | [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 | 2023-09-28 | 2023-11-08 |
 | [The World](https://open.spotify.com/track/5tVq3U1jHqxLmE5EbF7Ly9) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/7qNttLERG60jtBqhMsLA7J) | 3:06 | 2023-09-28 | 2023-10-27 |
 | [The world of yesterday](https://open.spotify.com/track/6dUdc18Q4zlRIrNcBnbMZ9) | [Ed Mount](https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92), [M.I.L.K.](https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx) | [The world of yesterday](https://open.spotify.com/album/3j2tB7H1Ez1HHP8dO1e5nr) | 3:32 | 2024-10-10 | 2025-01-10 |
-| [These Are The Days](https://open.spotify.com/track/2QVRjz1nWhN8FCAHgnrTE4) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [These Are The Days](https://open.spotify.com/album/1lPcCdFXh4j7Yy4u0bzYVY) | 3:07 | 2026-06-26 |  |
+| [These Are The Days](https://open.spotify.com/track/2QVRjz1nWhN8FCAHgnrTE4) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [These Are The Days](https://open.spotify.com/album/1lPcCdFXh4j7Yy4u0bzYVY) | 3:07 | 2026-06-26 | 2026-07-03 |
 | [These Nights](https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [These Nights](https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7) | 4:39 | 2026-02-19 |  |
 | [Things I Thought Were Mine](https://open.spotify.com/track/0Y8OIyvMvyTpEUhfLupDoh) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4ljntV811kHlKHhtIctvcG) | 3:13 | 2023-10-19 | 2024-02-09 |
 | [this is what forever feels like \(with Nick Jonas\)](https://open.spotify.com/track/3uTsiaNxy6h6EAd7MsCf9D) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi) | [this is what forever feels like](https://open.spotify.com/album/71fJ7EFsAMMKkfnZMIbtKI) | 2:34 | 2024-09-12 | 2024-10-04 |

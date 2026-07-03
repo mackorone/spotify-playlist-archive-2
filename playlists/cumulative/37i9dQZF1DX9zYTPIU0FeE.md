@@ -2,7 +2,7 @@
 
 ### [Jazz NEXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the sounds of South African Jazz\. Cover: Nduduzo Makhathini
+> Journey through the sounds of South African Jazz\. Cover: Skyjack
 
 367 songs - 1 day 12 hr 22 min
 

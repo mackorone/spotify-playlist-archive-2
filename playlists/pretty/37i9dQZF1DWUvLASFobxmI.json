@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. ",
-  "num_followers": 530770,
+  "num_followers": 530768,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
-        "name": "El Proximo Viernes",
-        "url": "https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5"
-      },
-      "artists": [
-        {
-          "name": "Elio Vega",
-          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
-        }
-      ],
-      "duration_ms": 198073,
-      "name": "El Proximo Viernes",
-      "url": "https://open.spotify.com/track/3FtfWtSnJL2ZF8hDVC4207"
-    },
-    {
-      "added_at": "2026-06-26 06:59:05",
-      "album": {
         "name": "El Peor De Mis Fracasos",
         "url": "https://open.spotify.com/album/65cJJr6gZYn8snv8nvxkkR"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 219733,
       "name": "El Peor De Mis Fracasos",
       "url": "https://open.spotify.com/track/4MYLhfLke4k2leJnHthOmq"
+    },
+    {
+      "added_at": "2026-06-26 06:59:05",
+      "album": {
+        "name": "El Proximo Viernes",
+        "url": "https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5"
+      },
+      "artists": [
+        {
+          "name": "Elio Vega",
+          "url": "https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg"
+        }
+      ],
+      "duration_ms": 198073,
+      "name": "El Proximo Viernes",
+      "url": "https://open.spotify.com/track/3FtfWtSnJL2ZF8hDVC4207"
     },
     {
       "added_at": "2026-06-26 06:59:05",
@@ -511,18 +511,18 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
-        "name": "Para Que Ya No Duela",
-        "url": "https://open.spotify.com/album/3w1jOpPuhpmHIb5pd1C7Aw"
+        "name": "La G\u00fcera",
+        "url": "https://open.spotify.com/album/5DxwSbjWmLXV6JFPWHjSSY"
       },
       "artists": [
         {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 213066,
-      "name": "Para Que Ya No Duela",
-      "url": "https://open.spotify.com/track/3CukRzz5yx3Ey6E9DNdeSI"
+      "duration_ms": 158242,
+      "name": "La G\u00fcera",
+      "url": "https://open.spotify.com/track/33A0Pj4Yw2cqPbgypFzkg0"
     },
     {
       "added_at": "2026-06-26 06:59:05",
@@ -547,18 +547,18 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
-        "name": "La G\u00fcera",
-        "url": "https://open.spotify.com/album/5DxwSbjWmLXV6JFPWHjSSY"
+        "name": "Para Que Ya No Duela",
+        "url": "https://open.spotify.com/album/3w1jOpPuhpmHIb5pd1C7Aw"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
         }
       ],
-      "duration_ms": 158242,
-      "name": "La G\u00fcera",
-      "url": "https://open.spotify.com/track/33A0Pj4Yw2cqPbgypFzkg0"
+      "duration_ms": 213066,
+      "name": "Para Que Ya No Duela",
+      "url": "https://open.spotify.com/track/3CukRzz5yx3Ey6E9DNdeSI"
     },
     {
       "added_at": "2026-06-26 06:59:05",
@@ -611,6 +611,26 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
+        "name": "TMS",
+        "url": "https://open.spotify.com/album/6oqZJRc2yor8igHIayg5sq"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Villegas",
+          "url": "https://open.spotify.com/artist/6q8Pg7R3cevAcZjiVsawPn"
+        }
+      ],
+      "duration_ms": 161824,
+      "name": "TMS",
+      "url": "https://open.spotify.com/track/5VzwO9WrXtlcOgdMxCsT44"
+    },
+    {
+      "added_at": "2026-06-26 06:59:05",
+      "album": {
         "name": "Covers De Mi Gusto, Vol. 3 (En Vivo)",
         "url": "https://open.spotify.com/album/6Eb7L6i4a2S0YsALJiY3Be"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 183562,
       "name": "Cosas Del Amor - Live",
       "url": "https://open.spotify.com/track/75Zpnnp1WamqToMagVqEPC"
-    },
-    {
-      "added_at": "2026-06-26 06:59:05",
-      "album": {
-        "name": "TMS",
-        "url": "https://open.spotify.com/album/6oqZJRc2yor8igHIayg5sq"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Villegas",
-          "url": "https://open.spotify.com/artist/6q8Pg7R3cevAcZjiVsawPn"
-        }
-      ],
-      "duration_ms": 161824,
-      "name": "TMS",
-      "url": "https://open.spotify.com/track/5VzwO9WrXtlcOgdMxCsT44"
     },
     {
       "added_at": "2026-06-26 06:59:05",
@@ -935,18 +935,18 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
-        "name": "TAN FACIL",
-        "url": "https://open.spotify.com/album/7HdSQ3SMFDG3CTlvbZqyhn"
+        "name": "Etapa Migajera",
+        "url": "https://open.spotify.com/album/2aMU9bhTZcxAEKkpJeTu9o"
       },
       "artists": [
         {
-          "name": "Jonathan Caro",
-          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
         }
       ],
-      "duration_ms": 162711,
-      "name": "TAN FACIL",
-      "url": "https://open.spotify.com/track/3mkgaNXg8UHd537YsUWQQj"
+      "duration_ms": 172202,
+      "name": "Etapa Migajera",
+      "url": "https://open.spotify.com/track/0I6KsitFbY198prwE5gEP3"
     },
     {
       "added_at": "2026-06-26 06:59:05",
@@ -971,18 +971,18 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
-        "name": "Etapa Migajera",
-        "url": "https://open.spotify.com/album/2aMU9bhTZcxAEKkpJeTu9o"
+        "name": "TAN FACIL",
+        "url": "https://open.spotify.com/album/7HdSQ3SMFDG3CTlvbZqyhn"
       },
       "artists": [
         {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+          "name": "Jonathan Caro",
+          "url": "https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I"
         }
       ],
-      "duration_ms": 172202,
-      "name": "Etapa Migajera",
-      "url": "https://open.spotify.com/track/0I6KsitFbY198prwE5gEP3"
+      "duration_ms": 162711,
+      "name": "TAN FACIL",
+      "url": "https://open.spotify.com/track/3mkgaNXg8UHd537YsUWQQj"
     },
     {
       "added_at": "2026-06-26 06:59:05",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
-        "name": "El Arrepentido",
-        "url": "https://open.spotify.com/album/6L2ZoxR7iuBak07fE8AHjs"
-      },
-      "artists": [
-        {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
-        }
-      ],
-      "duration_ms": 183271,
-      "name": "El Arrepentido",
-      "url": "https://open.spotify.com/track/4Klrqyf3uu6yTxmysjyiYi"
-    },
-    {
-      "added_at": "2026-06-26 06:59:05",
-      "album": {
         "name": "Conexiones",
         "url": "https://open.spotify.com/album/2ab6F4iMqEruwNzNEGfizr"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 225314,
       "name": "Estoy Aqu\u00ed",
       "url": "https://open.spotify.com/track/02ETb44PXYJdTqoD9I5CRa"
+    },
+    {
+      "added_at": "2026-06-26 06:59:05",
+      "album": {
+        "name": "El Arrepentido",
+        "url": "https://open.spotify.com/album/6L2ZoxR7iuBak07fE8AHjs"
+      },
+      "artists": [
+        {
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+        }
+      ],
+      "duration_ms": 183271,
+      "name": "El Arrepentido",
+      "url": "https://open.spotify.com/track/4Klrqyf3uu6yTxmysjyiYi"
     },
     {
       "added_at": "2026-06-26 06:59:05",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
-        "name": "Tengo Que Olvidar",
-        "url": "https://open.spotify.com/album/7au1GwjIJH9nkuDfuPeEgg"
-      },
-      "artists": [
-        {
-          "name": "El Cartel De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/7bkfGzqtHdzcvjy15JC7G7"
-        }
-      ],
-      "duration_ms": 159016,
-      "name": "Tengo Que Olvidar",
-      "url": "https://open.spotify.com/track/6YR24esZ2MpgBuzP6ey9Re"
-    },
-    {
-      "added_at": "2026-06-26 06:59:05",
-      "album": {
         "name": "Jammin' sessions",
         "url": "https://open.spotify.com/album/1pahXinIrDupTLh26l1A4g"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 171506,
       "name": "Gotas De Agua Dulce - Live",
       "url": "https://open.spotify.com/track/2GTj69Y6CI9UNjiFNRSb3C"
+    },
+    {
+      "added_at": "2026-06-26 06:59:05",
+      "album": {
+        "name": "Tengo Que Olvidar",
+        "url": "https://open.spotify.com/album/7au1GwjIJH9nkuDfuPeEgg"
+      },
+      "artists": [
+        {
+          "name": "El Cartel De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/7bkfGzqtHdzcvjy15JC7G7"
+        }
+      ],
+      "duration_ms": 159016,
+      "name": "Tengo Que Olvidar",
+      "url": "https://open.spotify.com/track/6YR24esZ2MpgBuzP6ey9Re"
     },
     {
       "added_at": "2026-06-26 06:59:05",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
-        "name": "EL CHAVALON",
-        "url": "https://open.spotify.com/album/6T80qFUIxL19njTbB4iUCw"
-      },
-      "artists": [
-        {
-          "name": "Linea M",
-          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
-        }
-      ],
-      "duration_ms": 170454,
-      "name": "EL CHAVALON",
-      "url": "https://open.spotify.com/track/070iYUd4a6hmqpLZiikJV3"
-    },
-    {
-      "added_at": "2026-06-26 06:59:05",
-      "album": {
         "name": "IMPERIO",
         "url": "https://open.spotify.com/album/1BTjfD9iXvnGQxUBuUPOKS"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 238463,
       "name": "Las Drzl",
       "url": "https://open.spotify.com/track/01JKMAdkL6PAG0F4SFYL0E"
+    },
+    {
+      "added_at": "2026-06-26 06:59:05",
+      "album": {
+        "name": "EL CHAVALON",
+        "url": "https://open.spotify.com/album/6T80qFUIxL19njTbB4iUCw"
+      },
+      "artists": [
+        {
+          "name": "Linea M",
+          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
+        }
+      ],
+      "duration_ms": 170454,
+      "name": "EL CHAVALON",
+      "url": "https://open.spotify.com/track/070iYUd4a6hmqpLZiikJV3"
     },
     {
       "added_at": "2026-06-26 06:59:05",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-06-26 06:59:05",
       "album": {
-        "name": "Vivir con ella",
-        "url": "https://open.spotify.com/album/5HsY1UVumFj3q4njaxApeU"
-      },
-      "artists": [
-        {
-          "name": "Los Valedores de la Sierra",
-          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
-        }
-      ],
-      "duration_ms": 184960,
-      "name": "Vivir con ella",
-      "url": "https://open.spotify.com/track/6E0FinAlvA6nUUWQaIrPN5"
-    },
-    {
-      "added_at": "2026-06-26 06:59:05",
-      "album": {
         "name": "Mi Condena",
         "url": "https://open.spotify.com/album/6r7a3JoNpGCo9uqaM7hLFx"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 193784,
       "name": "Mi Condena",
       "url": "https://open.spotify.com/track/2t1hPaHuynRaY3GrANTch4"
+    },
+    {
+      "added_at": "2026-06-26 06:59:05",
+      "album": {
+        "name": "Vivir con ella",
+        "url": "https://open.spotify.com/album/5HsY1UVumFj3q4njaxApeU"
+      },
+      "artists": [
+        {
+          "name": "Los Valedores de la Sierra",
+          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "Vivir con ella",
+      "url": "https://open.spotify.com/track/6E0FinAlvA6nUUWQaIrPN5"
     },
     {
       "added_at": "2026-06-26 06:59:05",

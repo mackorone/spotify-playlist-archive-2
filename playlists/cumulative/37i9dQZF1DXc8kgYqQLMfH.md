@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,326 songs - 2 day 2 hr 43 min
+1,327 songs - 2 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -819,6 +819,7 @@
 | [night sky](https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [night sky](https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf) | 1:46 | 2023-09-01 |  |
 | [Night Walk](https://open.spotify.com/track/7xzikC3nNzN0NEM8M9oD8p) | [Kokomiko](https://open.spotify.com/artist/1Tl7kataLF4lZip5jfVd7D), [Kuba](https://open.spotify.com/artist/28WkyS3nwct2W3sHjPg4xo) | [Night Walk](https://open.spotify.com/album/3EC2kOMzMFAHL4TwSGIRjY) | 2:03 | 2022-04-15 | 2023-04-28 |
 | [night walk](https://open.spotify.com/track/4X9OLjeDCUTr39baLOSMlQ) | [mood.](https://open.spotify.com/artist/3fL0KDSqNCWDtbu1wfIaVo) | [night walk](https://open.spotify.com/album/6HXpBu0Dk9XuJ0zkicvFIr) | 1:48 | 2021-11-10 | 2022-08-19 |
+| [night walk](https://open.spotify.com/track/6O1vOhc580LSaIzJ9g9ttr) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [night walk](https://open.spotify.com/album/3uxYAT9KUlzz05fXFYES1g) | 2:33 | 2026-07-02 |  |
 | [Nightfade](https://open.spotify.com/track/3Gv80WP1W59BKI2N9mmfG6) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Nylon](https://open.spotify.com/album/4hkOQue9O8fVariqAdrAyY) | 2:41 | 2023-02-17 | 2025-07-16 |
 | [Nightfall](https://open.spotify.com/track/1zBbaX88WI9bPXochk6Uw3) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Nightfall](https://open.spotify.com/album/1sp1kOcBZv60kZMRNmxsLJ) | 2:27 | 2022-09-02 | 2023-08-04 |
 | [nightfalling](https://open.spotify.com/track/2cQWH9iQfh0epKQa4xhd7Q) | [Lily of The Valley](https://open.spotify.com/artist/5aaaOy8v47CPgiLzGZriXH) | [nightfalling](https://open.spotify.com/album/3SWGuY3dVRctObeoEB9Y2d) | 2:10 | 2026-05-22 |  |
@@ -828,7 +829,7 @@
 | [No Fit](https://open.spotify.com/track/2i8fxnwJUyaIk2IYpgF4YO) | [Moody Bit](https://open.spotify.com/artist/7F90wIqOv8QEFM83OaIOWl) | [XYZ](https://open.spotify.com/album/7JaUHqa9wMR11LiFmXCGqe) | 1:28 | 2021-11-10 | 2022-06-03 |
 | [No More](https://open.spotify.com/track/19QV2tu1yq7Zj04E9uBjNo) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [No More](https://open.spotify.com/album/2CeZulROg6ShtnJhPFW687) | 2:35 | 2023-08-03 | 2023-10-13 |
 | [no new messages](https://open.spotify.com/track/5ULfgK782GmbzTvb0E3Bf7) | [foursite](https://open.spotify.com/artist/52zHyZn0uVtMXDhJXVIRma) | [no new messages](https://open.spotify.com/album/1NEqij97eu34cCcELhJJ2l) | 2:16 | 2021-11-10 | 2023-03-02 |
-| [no ones around me](https://open.spotify.com/track/5Bfeylck7OB5c254v58G5D) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [no ones around me](https://open.spotify.com/album/4qawotHp9FiLYtTW9bmqBG) | 2:14 | 2025-07-15 |  |
+| [no ones around me](https://open.spotify.com/track/5Bfeylck7OB5c254v58G5D) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [no ones around me](https://open.spotify.com/album/4qawotHp9FiLYtTW9bmqBG) | 2:14 | 2025-07-15 | 2026-07-03 |
 | [no rain today](https://open.spotify.com/track/0EJ4R1FWyczgGsdlIKgjyX) | [Avenue Arts](https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl) | [no rain today](https://open.spotify.com/album/0m36fSjMw8zlqjdJH2VQYg) | 1:24 | 2023-09-29 | 2025-07-16 |
 | [no stress](https://open.spotify.com/track/0lYQNQEUcPIIpiAo00x58l) | [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [no stress](https://open.spotify.com/album/00IcnpcG1Kqt7RhCRUlwiy) | 2:21 | 2023-03-16 |  |
 | [no way back](https://open.spotify.com/track/72vhwaCoLwzCACdcqOaWAO) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [no way back](https://open.spotify.com/album/1xJN1I3OjDaIMKUOtToyMY) | 1:58 | 2022-05-13 | 2022-05-20 |

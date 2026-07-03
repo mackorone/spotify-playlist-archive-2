@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 57 | [Jungle](https://open.spotify.com/track/2IMdH9o5l1jymsTmnGqGCY) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl), [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [Jungle](https://open.spotify.com/album/0TQ4FlnMczKtTAm8TglTmj) | 4:10 |
 | 58 | [Emotional](https://open.spotify.com/track/5SjS3N1ZzKebtqb9DU2Kya) | [Sarah Barrios](https://open.spotify.com/artist/0HJsX1aTdgG1VDIRDiseSJ) | [Emotional \(Luca Schreiner Remix\)](https://open.spotify.com/album/6leKozOwOa98kVfEg9sbGc) | 3:05 |
 | 59 | [If You Want My Love](https://open.spotify.com/track/4VuAFs8t8WeII3llfere9c) | [Maria Hazell](https://open.spotify.com/artist/44pv88VpkRu39v0lupR2gZ), [Hitimpulse](https://open.spotify.com/artist/2dMO34aTE4wTRQZkgDehMF) | [If You Want My Love](https://open.spotify.com/album/17mK4vS6qkRodr54XQR8Kc) | 2:34 |
-| 60 | [Waste A Tear](https://open.spotify.com/track/6EtZTJwgigLwYQdsi30H71) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Waste A Tear](https://open.spotify.com/album/3IgDLxqDbFHBF56ZDvFjvf) | 2:27 |
-| 61 | [Boys In The Sea](https://open.spotify.com/track/4j31U5bwTpzRXH9cK9FZdf) | [Bianca Ingrosso](https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa) | [Boys In The Sea](https://open.spotify.com/album/03vSTMCwvCQSp6uq3dsfmN) | 3:10 |
+| 60 | [Boys In The Sea](https://open.spotify.com/track/4j31U5bwTpzRXH9cK9FZdf) | [Bianca Ingrosso](https://open.spotify.com/artist/3VhdRFPzyb8huDuJkxpLFa) | [Boys In The Sea](https://open.spotify.com/album/03vSTMCwvCQSp6uq3dsfmN) | 3:10 |
+| 61 | [Waste A Tear](https://open.spotify.com/track/6EtZTJwgigLwYQdsi30H71) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Waste A Tear](https://open.spotify.com/album/3IgDLxqDbFHBF56ZDvFjvf) | 2:27 |
 | 62 | [Emergency](https://open.spotify.com/track/6RTmELNwmVKSKSLxCCWNRT) | [HAUZ](https://open.spotify.com/artist/3deknuVSj6038SM4afSQpu), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn), [bryska](https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh) | [Emergency](https://open.spotify.com/album/0746zc1RtLRAS6ucRz0aXI) | 3:07 |
 | 63 | [Love Me America](https://open.spotify.com/track/5a6N1TItnXbphH8dcwnlQF) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Ride](https://open.spotify.com/album/16oaTuuuBPHxviN8VA6iJ9) | 4:29 |
 | 64 | [Sucker for You](https://open.spotify.com/track/15AhbX3z27BVNYMdW0VCnm) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Sucker for You](https://open.spotify.com/album/4G8vvpRiV5k99TGg5gD4Pz) | 3:20 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 107 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 108 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcVuhAAAAACxoe9dEJnT6l9gz5e//pLY`
+Snapshot ID: `AcVz3gAAAACyywBji+/JLWzGnMWjoOZb`

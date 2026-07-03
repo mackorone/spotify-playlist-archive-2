@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Anderson M\u00e1rio",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: DENNYH",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 407423,
       "name": "A Nossa Dan\u00e7a - Live At Est\u00e1dio Da Luz",
       "url": "https://open.spotify.com/track/5YlT0JXamR3yG0F0W20SgP"
@@ -3627,6 +3627,28 @@
     },
     {
       "album": {
+        "name": "DODNABO",
+        "url": "https://open.spotify.com/album/3cm1rNzKDC15VTmKn39Vz6"
+      },
+      "artists": [
+        {
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
+        },
+        {
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/5tZc1l4IxL0vFrTyYJdkl0"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193043,
+      "name": "DODNABO",
+      "url": "https://open.spotify.com/track/5VSk3DSCKkr7XZYY5qCcD5"
+    },
+    {
+      "album": {
         "name": "Don't Forget About Me",
         "url": "https://open.spotify.com/album/6KZ2G3ba4Yn1tZYGKITYn7"
       },
@@ -3854,7 +3876,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 207500,
       "name": "Elavoko",
       "url": "https://open.spotify.com/track/4qXWdphJIdbn30k1rwMSUR"
@@ -4138,6 +4160,24 @@
       "duration_ms": 174000,
       "name": "Etnias",
       "url": "https://open.spotify.com/track/1yQ3ZpnTm0vwueEjUvJUc4"
+    },
+    {
+      "album": {
+        "name": "Eu Aceito",
+        "url": "https://open.spotify.com/album/0ikkXnUTYB4sazp41V2RQe"
+      },
+      "artists": [
+        {
+          "name": "Jey V",
+          "url": "https://open.spotify.com/artist/02aXxScVRfbF0xFjGvi1mu"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173051,
+      "name": "Eu Aceito",
+      "url": "https://open.spotify.com/track/5r6LFt6e22ozJx4dmmkV0B"
     },
     {
       "album": {
@@ -4809,6 +4849,24 @@
     },
     {
       "album": {
+        "name": "FREESTYLE",
+        "url": "https://open.spotify.com/album/5qdYZfdi99cXaqgi61bG8B"
+      },
+      "artists": [
+        {
+          "name": "DENNYH",
+          "url": "https://open.spotify.com/artist/3hfYUtuERUNyMTi8OKvE5u"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176009,
+      "name": "FREESTYLE",
+      "url": "https://open.spotify.com/track/3xsFXbSOXpjUfVzVav58jI"
+    },
+    {
+      "album": {
         "name": "F\u00e9",
         "url": "https://open.spotify.com/album/2GDBdMFXsZRxL5fe7GnL5a"
       },
@@ -4864,7 +4922,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 202986,
       "name": "GBB",
       "url": "https://open.spotify.com/track/7tdtvi7LWBoR9OTTjxd46A"
@@ -11566,7 +11624,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 183958,
       "name": "TANTO PR\u2019A VIVER (feat. Matias Dam\u00e1sio)",
       "url": "https://open.spotify.com/track/3gom9XHytg4YnDKzOVDVI4"
@@ -12726,7 +12784,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 151423,
       "name": "T\u00e1 Na Moda",
       "url": "https://open.spotify.com/track/3jJlb1Q5xrZjcCVhf1UnJP"

@@ -1696,7 +1696,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 148105,
       "name": "Baatein Teri",
       "url": "https://open.spotify.com/track/3YV34wAHMQ7NLxmEy761Lc"
@@ -2630,7 +2630,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 241327,
       "name": "Bharat Bhhagya Viddhaata Title Track - From \"Bharat Bhhagya Viddhaata\"",
       "url": "https://open.spotify.com/track/02JNeCvVW5dGLUUDh1fjoI"
@@ -4639,6 +4639,32 @@
     },
     {
       "album": {
+        "name": "Dil Pe Zakham",
+        "url": "https://open.spotify.com/album/2nKocz1AeFbqf23xiG0IDX"
+      },
+      "artists": [
+        {
+          "name": "Madhur Sharma",
+          "url": "https://open.spotify.com/artist/2kfi47LWmlXzQ3p3kWonfQ"
+        },
+        {
+          "name": "Moin",
+          "url": "https://open.spotify.com/artist/7xgtUknw8tyUhWkSnMjhti"
+        },
+        {
+          "name": "Nusrat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294705,
+      "name": "Dil Pe Zakham",
+      "url": "https://open.spotify.com/track/6aTBPgtPLm0lSFf5ugCF6I"
+    },
+    {
+      "album": {
         "name": "Dil Se",
         "url": "https://open.spotify.com/album/3zNP4DAxYiFqVJikeGchYg"
       },
@@ -4932,6 +4958,24 @@
       "duration_ms": 220002,
       "name": "DOBARA",
       "url": "https://open.spotify.com/track/1hL3oTpFn4QJnS5gBro7eY"
+    },
+    {
+      "album": {
+        "name": "Dooriyan",
+        "url": "https://open.spotify.com/album/2tyl3fdhWAv9FOsQQayozu"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149204,
+      "name": "Dooriyan",
+      "url": "https://open.spotify.com/track/6lYgncGGqgrtxkNfTOY003"
     },
     {
       "album": {
@@ -7434,6 +7478,22 @@
         {
           "name": "Dee MC",
           "url": "https://open.spotify.com/artist/21x3ja7RPjkjLoaJhQmw9C"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+        },
+        {
+          "name": "Mohsin Shaikh",
+          "url": "https://open.spotify.com/artist/1iIb9xv4HoY94O9IJWAFUj"
         }
       ],
       "date_added": "2026-07-01",
@@ -8246,7 +8306,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 266665,
       "name": "Jawani Iraqi",
       "url": "https://open.spotify.com/track/7DN3TsyWgLDY2tgUzczg1h"
@@ -8506,7 +8566,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 254282,
       "name": "Jhagmag Jhagmag Jhilmil Jhilmil - From \"Governor\"",
       "url": "https://open.spotify.com/track/1YhjwSNp4vl74umrYYBtbb"
@@ -13930,7 +13990,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 234893,
       "name": "Pinjara",
       "url": "https://open.spotify.com/track/6j88SAULcmm5tZo4hA1k8v"
@@ -15525,6 +15585,36 @@
     },
     {
       "album": {
+        "name": "Saath",
+        "url": "https://open.spotify.com/album/3EjBLaJ8rDfRaHyIE62GMb"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        },
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185052,
+      "name": "Saath",
+      "url": "https://open.spotify.com/track/7iYTsZuUo1gFMjs0gV8SMA"
+    },
+    {
+      "album": {
         "name": "Saathi Re (From \"The Kerala Story 2 Goes Beyond\") - Single",
         "url": "https://open.spotify.com/album/4Eio9swXJO4QdddhVb9jya"
       },
@@ -15812,7 +15902,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 158400,
       "name": "Saiyonee",
       "url": "https://open.spotify.com/track/1wgJy9zGdOLRHGEkzpD5f0"
@@ -17683,6 +17773,36 @@
     },
     {
       "album": {
+        "name": "Tera Yaar Hoon Main Title Track (From \"Tera Yaar Hoon Main\")",
+        "url": "https://open.spotify.com/album/5IXInVpmtdQEmZ3lGnp6G2"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218858,
+      "name": "Tera Yaar Hoon Main Title Track - From \"Tera Yaar Hoon Main\"",
+      "url": "https://open.spotify.com/track/7EbEeGxCLas28jD7jFy7bL"
+    },
+    {
+      "album": {
         "name": "Tere Bin Na Chale Saansein",
         "url": "https://open.spotify.com/album/1YNWOMWkMNASBKsldA6GiK"
       },
@@ -19090,6 +19210,36 @@
       "duration_ms": 342400,
       "name": "Tujhko - From \u201cCocktail 2\u201d",
       "url": "https://open.spotify.com/track/34bZqssAITx04EAzcffySn"
+    },
+    {
+      "album": {
+        "name": "Tum Hi Se Pyaar (From \"Tera Yaar Hoon Main\")",
+        "url": "https://open.spotify.com/album/5XxzbCnzajEjQNGrvjQrCd"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Payal Dev",
+          "url": "https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        },
+        {
+          "name": "Kunaal Vermaa",
+          "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269711,
+      "name": "Tum Hi Se Pyaar - From \"Tera Yaar Hoon Main\"",
+      "url": "https://open.spotify.com/track/2OM5Da2HOpGAvzuyoVFxlE"
     },
     {
       "album": {

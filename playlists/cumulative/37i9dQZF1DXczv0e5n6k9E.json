@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Fy",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: YungKapa",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -370,7 +370,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 140952,
       "name": "4YOU",
       "url": "https://open.spotify.com/track/1AEcnXDp6GjkF5mXOugTpQ"
@@ -562,6 +562,28 @@
       "duration_ms": 172577,
       "name": "9ARI",
       "url": "https://open.spotify.com/track/6vlH3qCZn1PjuBww5Z0e5I"
+    },
+    {
+      "album": {
+        "name": "10 (PART 2)",
+        "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "ObieDaz",
+          "url": "https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "A$$AP",
+      "url": "https://open.spotify.com/track/7v1BQ1smP2OnG8HpaLzKkg"
     },
     {
       "album": {
@@ -1525,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "ASSOTOS MANH",
+        "url": "https://open.spotify.com/album/74fXm0U5bxy6XZZExiq8Wk"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151870,
+      "name": "ASSOTOS MANH",
+      "url": "https://open.spotify.com/track/63BjRZBr7D1vL0vZq4pcgZ"
+    },
+    {
+      "album": {
         "name": "Lilith Tape 2",
         "url": "https://open.spotify.com/album/4Y9fHUK7IKvbbkDv6CyH5S"
       },
@@ -1718,7 +1758,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 250212,
       "name": "AVASIMA STOIXEIA",
       "url": "https://open.spotify.com/track/3Nb7cNFSCPpr8FAyNNxUq7"
@@ -2006,7 +2046,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 162750,
       "name": "BALKANIA",
       "url": "https://open.spotify.com/track/2em4xTRYA34i6QVJ1kCpXH"
@@ -2172,7 +2212,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 128766,
       "name": "BARRACUDA",
       "url": "https://open.spotify.com/track/5DtuCWsCKUbEIZgowcmSpL"
@@ -3038,6 +3078,28 @@
     {
       "album": {
         "name": "CASABLANCA",
+        "url": "https://open.spotify.com/album/1EU20NM5pVRHOXKkfRkCVR"
+      },
+      "artists": [
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "PAR1S",
+          "url": "https://open.spotify.com/artist/6rZK15LxP7rOo0npKh0biK"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "CASABLANCA",
+      "url": "https://open.spotify.com/track/7HEbypIv6QQ0F85r2pAxYs"
+    },
+    {
+      "album": {
+        "name": "CASABLANCA",
         "url": "https://open.spotify.com/album/7e42PdTgxPdTnL8UJEc9BD"
       },
       "artists": [
@@ -3280,6 +3342,32 @@
       "duration_ms": 104489,
       "name": "City Hot",
       "url": "https://open.spotify.com/track/0eDbMy8fsF1ceP2xGjbi1l"
+    },
+    {
+      "album": {
+        "name": "CLICK",
+        "url": "https://open.spotify.com/album/1ZZgEfnK28RSHeMQUMK0bu"
+      },
+      "artists": [
+        {
+          "name": "Gucci.MPG",
+          "url": "https://open.spotify.com/artist/1lrv8qsR6x7TIIhiP6wzYd"
+        },
+        {
+          "name": "SKEZ",
+          "url": "https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH"
+        },
+        {
+          "name": "Derv",
+          "url": "https://open.spotify.com/artist/3tEJAzaw0N5nNS3m8eixl3"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154151,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/5diLlqtaVPe2fBPllCFvMi"
     },
     {
       "album": {
@@ -4240,6 +4328,28 @@
       "duration_ms": 237916,
       "name": "Dokimasia",
       "url": "https://open.spotify.com/track/2wbBqDHV8Lv4XyBhBnakNx"
+    },
+    {
+      "album": {
+        "name": "FROM THE BOTTOM (Deluxe)",
+        "url": "https://open.spotify.com/album/1iDxZFXxj7mnHhFuxNtGRp"
+      },
+      "artists": [
+        {
+          "name": "YungKapa",
+          "url": "https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG"
+        },
+        {
+          "name": "Corteo",
+          "url": "https://open.spotify.com/artist/7vHwSdqnwKnxJiMHFr0Edd"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121846,
+      "name": "DOLCE CABBANA",
+      "url": "https://open.spotify.com/track/15rlWA5UmAyLKAKvIoXyJi"
     },
     {
       "album": {
@@ -5726,7 +5836,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 188108,
       "name": "FUCK LOVE",
       "url": "https://open.spotify.com/track/4ArBFP1logojblsR2c3r4d"
@@ -6054,6 +6164,32 @@
       "duration_ms": 145401,
       "name": "Geitonia",
       "url": "https://open.spotify.com/track/0I54D7Yg3jbE2PCpCDbyu9"
+    },
+    {
+      "album": {
+        "name": "10 (PART 2)",
+        "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "GEITONIA KAI TILEFONO",
+      "url": "https://open.spotify.com/track/3DqnrR1bD21LufNyXJLIsz"
     },
     {
       "album": {
@@ -7970,7 +8106,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 178285,
       "name": "Kara Tepe",
       "url": "https://open.spotify.com/track/6pHdnVVeWPLvRR4H4WF6Vf"
@@ -9407,6 +9543,28 @@
     },
     {
       "album": {
+        "name": "MANA",
+        "url": "https://open.spotify.com/album/5H2KdSyII5URjcPmPPzVkT"
+      },
+      "artists": [
+        {
+          "name": "iLLEOo",
+          "url": "https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj"
+        },
+        {
+          "name": "soundcheck",
+          "url": "https://open.spotify.com/artist/14v1eazvDhKhERmXrdtMdW"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152243,
+      "name": "MANA",
+      "url": "https://open.spotify.com/track/1ILngKJ6ch1BiR93zH3miq"
+    },
+    {
+      "album": {
         "name": "BAD BOY 3",
         "url": "https://open.spotify.com/album/4DXYeuH5LDPoN8MA8ZOO31"
       },
@@ -9740,6 +9898,28 @@
       "duration_ms": 127058,
       "name": "MAXAIRIA KAI GLOCK",
       "url": "https://open.spotify.com/track/5cmtBXdKq8BfztlEDTY0ii"
+    },
+    {
+      "album": {
+        "name": "MAZI SOU",
+        "url": "https://open.spotify.com/album/6bZOPD3dqM4oRUSbfIM2O0"
+      },
+      "artists": [
+        {
+          "name": "SARIGIAN",
+          "url": "https://open.spotify.com/artist/71Fi48sWYjiSsjvLGRZzCB"
+        },
+        {
+          "name": "GLS",
+          "url": "https://open.spotify.com/artist/25om2GMeTAyCA6qyw40ncG"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186141,
+      "name": "MAZI SOU",
+      "url": "https://open.spotify.com/track/1Uk26mbvJAUWNypJdIRThS"
     },
     {
       "album": {
@@ -10478,7 +10658,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 123750,
       "name": "Motive",
       "url": "https://open.spotify.com/track/0syuSzSOMd6u28Yy8tecen"
@@ -12414,6 +12594,36 @@
       "duration_ms": 155789,
       "name": "PATEK",
       "url": "https://open.spotify.com/track/4hP3SgO11Vn5ZPW2UfK73q"
+    },
+    {
+      "album": {
+        "name": "PAYBACK",
+        "url": "https://open.spotify.com/album/2EttXSmCTuNmauiknYTZue"
+      },
+      "artists": [
+        {
+          "name": "HGEMONA$",
+          "url": "https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm"
+        },
+        {
+          "name": "Bruno",
+          "url": "https://open.spotify.com/artist/5S57Ox2rP3fJ2ICRCFSlWn"
+        },
+        {
+          "name": "Mike G",
+          "url": "https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9"
+        },
+        {
+          "name": "BTK 187",
+          "url": "https://open.spotify.com/artist/5oTpSJMk6So6QV9SDqBPpz"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153230,
+      "name": "PAYBACK",
+      "url": "https://open.spotify.com/track/72HlnO1Do21a4BUK3AAWd8"
     },
     {
       "album": {
@@ -17048,7 +17258,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 167741,
       "name": "VROXI",
       "url": "https://open.spotify.com/track/6IqG2lk4zHOowOMUUmEWin"
@@ -17494,7 +17704,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 193500,
       "name": "XXX",
       "url": "https://open.spotify.com/track/4FpBBFpqO2fsThvlrwYWWr"

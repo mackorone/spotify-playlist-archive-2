@@ -4,7 +4,7 @@
 
 > Les nouveautés rap franco sans frontières\. Photo: Le Mano 1.9, Gazo, La Rvfleuze
 
-667 songs - 1 day 8 hr 19 min
+668 songs - 1 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Alexander](https://open.spotify.com/track/5IcKyyMQ4Zu4DsFc6wQHob) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Alexander](https://open.spotify.com/album/7LkX28lX479pICwCk4mIy9) | 2:40 | 2025-10-10 | 2025-11-29 |
 | [Alicia Ariana](https://open.spotify.com/track/1xIyEVFDMdgetvA9fYxjZL) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [FRANKLIN](https://open.spotify.com/artist/20VhaQlc16VUPbf1xTiTG5) | [Alicia Ariana](https://open.spotify.com/album/4JXSeCWXdrdYLTGqfIs1dx) | 2:08 | 2025-11-28 | 2026-02-21 |
 | [All 4 One](https://open.spotify.com/track/7JfPP0GzJkYeryhv6Gh1Es) | [John Sadeq](https://open.spotify.com/artist/1nnK6yIZweZ92njHqHovKF), [St\-Saoul](https://open.spotify.com/artist/3FiLC4bXGyrzdtdqDJPmZZ), [DJ Horg](https://open.spotify.com/artist/2KqmShIrj1DYdVI9jgvURR) | [All 4 One](https://open.spotify.com/album/0R3HKnBeovS8c8SEajh2ol) | 2:49 | 2026-01-16 | 2026-03-21 |
+| [Allo Doudou](https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV), [litleboy lsbeats767](https://open.spotify.com/artist/63eOPc8OECJcJQDoNrD4zY), [Miimii KDS](https://open.spotify.com/artist/0mpZpEH8VcL0tYoGLhR8sd) | [Allo Doudou](https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U) | 2:50 | 2026-06-26 |  |
 | [Alpha](https://open.spotify.com/track/1y7dY7Xu4nWM4SK2dEnoAT) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [J'AI MENTI.](https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr) | 2:48 | 2024-11-22 | 2025-10-11 |
 | [AMBER](https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4) | [AMBER](https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD) | 3:02 | 2023-03-03 | 2023-05-06 |
 | [AMIRI](https://open.spotify.com/track/5Xi0QzClnRQcakCBLX7x7v) | [Lamatrix](https://open.spotify.com/artist/5eAv3bvAehIJEOMLtzAtaE), [Zed](https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq) | [SEREIN, PT\. 2](https://open.spotify.com/album/1qV7ub1BHpw36XHWjZZ4Va) | 3:43 | 2026-02-13 | 2026-03-07 |
@@ -646,7 +647,7 @@
 | [Validé](https://open.spotify.com/track/7qABSVRa8kvEdgeMuI5Oaa) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Validé](https://open.spotify.com/album/2EwEMw0rf3hmoyI4ztCkzD) | 3:53 | 2023-03-03 | 2023-03-11 |
 | [Vallée](https://open.spotify.com/track/3QclXdf8qAKb4Kux5YpGS9) | [FRE5H](https://open.spotify.com/artist/3wHBt5vw5plrufZh1DdQVe) | [Vallée](https://open.spotify.com/album/54G50PwrOcrmBuBuUmtrYj) | 3:14 | 2026-02-06 | 2026-03-28 |
 | [Van Dijk](https://open.spotify.com/track/7EYQIzoZ6TNLXK9F4j04Sy) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [Van Dijk](https://open.spotify.com/album/6QvvKuSocVNX7CrUCqidu3) | 3:37 | 2025-11-07 | 2026-01-17 |
-| [Velar](https://open.spotify.com/track/0cYBP022NcGl6DOmSPhv5h) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [DRAKKAR](https://open.spotify.com/album/24v0IedAru6yCDoqE3X6Th) | 2:30 | 2026-06-05 |  |
+| [Velar](https://open.spotify.com/track/0cYBP022NcGl6DOmSPhv5h) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [DRAKKAR](https://open.spotify.com/album/24v0IedAru6yCDoqE3X6Th) | 2:30 | 2026-06-05 | 2026-07-03 |
 | [Vendredi 13 Mars](https://open.spotify.com/track/1BAFwMW6iE4Wp4PJR4KEJy) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Vendredi 13 Mars](https://open.spotify.com/album/4x52IEnc7jR2kHxIinAtmx) | 3:17 | 2026-02-13 | 2026-02-21 |
 | [VERISURE](https://open.spotify.com/track/41Jgfm85d6tiZ3Fifhv2bY) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Numéro d'écrou](https://open.spotify.com/album/5d0BjgEFwZpszVVLbAbDBf) | 2:28 | 2026-03-27 | 2026-06-27 |
 | [VERNISSAGE](https://open.spotify.com/track/6POYZKs3nkPksqp0yvloDS) | [Nicky Savage](https://open.spotify.com/artist/1yG7xAkT8v6Ora2dBdkrgq), [KaMa](https://open.spotify.com/artist/3rblgHbQPHtt6CKgR9ykrH), [Faire les Choses](https://open.spotify.com/artist/03HhpNxb5lzCo52TsP33FE), [5inq](https://open.spotify.com/artist/7koHUiO2F4PHi0PDV4gycT) | [VERNISSAGE](https://open.spotify.com/album/142c3qM3X4qgG8TS8IuMwR) | 2:41 | 2025-12-19 | 2026-03-21 |

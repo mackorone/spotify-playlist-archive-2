@@ -1,6 +1,6 @@
 {
   "description": "mood:  \ud83d\ude0e\u2708\ufe0f",
-  "num_followers": 71718,
+  "num_followers": 71725,
   "original_name": "Tayer \u0637\u0627\u064a\u0631\u200e",
   "owner": {
     "name": "Spotify",
@@ -575,18 +575,22 @@
     {
       "added_at": "2026-01-28 06:22:05",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12"
+        "name": "Sabab 3lach",
+        "url": "https://open.spotify.com/album/2dMv65A4Mqo5xeB92siRSS"
       },
       "artists": [
         {
-          "name": "Smallx",
-          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/2XpZQtDxSrLnxHBcVNfE8q"
+        },
+        {
+          "name": "7ari",
+          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
         }
       ],
-      "duration_ms": 196000,
-      "name": "B&M",
-      "url": "https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW"
+      "duration_ms": 220327,
+      "name": "Sabab 3lach",
+      "url": "https://open.spotify.com/track/2chwhxtQEALppccwv7FsWI"
     },
     {
       "added_at": "2026-01-28 06:22:05",
@@ -607,22 +611,18 @@
     {
       "added_at": "2026-01-28 06:22:05",
       "album": {
-        "name": "Sabab 3lach",
-        "url": "https://open.spotify.com/album/2dMv65A4Mqo5xeB92siRSS"
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/6Xmpgs3PqfYMBsILATKj12"
       },
       "artists": [
         {
-          "name": "Izi",
-          "url": "https://open.spotify.com/artist/2XpZQtDxSrLnxHBcVNfE8q"
-        },
-        {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
+          "name": "Smallx",
+          "url": "https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS"
         }
       ],
-      "duration_ms": 220327,
-      "name": "Sabab 3lach",
-      "url": "https://open.spotify.com/track/2chwhxtQEALppccwv7FsWI"
+      "duration_ms": 196000,
+      "name": "B&M",
+      "url": "https://open.spotify.com/track/5wvxFn82MAGbhGvmpYwbAW"
     },
     {
       "added_at": "2026-01-28 06:22:05",

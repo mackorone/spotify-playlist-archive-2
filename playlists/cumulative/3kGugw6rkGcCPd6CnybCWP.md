@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-428 songs - 1 day 0 hr 48 min
+431 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Don't Give Up On Me](https://open.spotify.com/track/2GhvGTzsq4Q5Uts53zNali) | [IAMDWX](https://open.spotify.com/artist/7w2jiVgHPyBIahw5NZkPHU), [Kevin Hadley](https://open.spotify.com/artist/4nBjWiNV8ofFeQdnMbijqk) | [Don't Give Up On Me](https://open.spotify.com/album/2WGUdDm9QTCnzFhXOwERi7) | 2:49 | 2026-03-04 | 2026-04-16 |
 | [don't know better](https://open.spotify.com/track/6OPNg2fvD1f2HIPj4Tfh7x) | [Nathan Etes](https://open.spotify.com/artist/11WVY9LG4XWkOptquaXJ71) | [juniper](https://open.spotify.com/album/5e49oVu5bURuKYCej31uVw) | 2:45 | 2025-12-02 | 2026-01-17 |
 | [Don't Let Me Go](https://open.spotify.com/track/02h0GTr7iO4JUUu5Vy2cfZ) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Don't Let Me Go](https://open.spotify.com/album/3Kg1v6AGrwbxB1D8MqPZTF) | 2:13 | 2026-04-09 | 2026-05-14 |
+| [Don't Look Away](https://open.spotify.com/track/7JKSRwQE2JdzUtcZ3a4Prh) | [Empty Melon](https://open.spotify.com/artist/1u5HkdqkmbCZD4R5FJK6Rq), [Leo Bagel](https://open.spotify.com/artist/1dQ15Hx2wVHyoTro6o5hIx) | [Don't Look Away](https://open.spotify.com/album/1nfuO8I1Za0HuHjQQnvqJ8) | 3:22 | 2026-07-02 |  |
 | [Don't Look Down](https://open.spotify.com/track/2rChoCLrXcHGrLW5l4lya6) | [Beth Seymour & The Lizzies](https://open.spotify.com/artist/04kwM7mgN8lfQPfnwukpUX) | [Don't Look Down](https://open.spotify.com/album/2LD7xfQB1uIHkluQfz7mJH) | 3:42 | 2025-11-21 | 2026-01-17 |
 | [Don't Play The Victim](https://open.spotify.com/track/2dO4SWMeHylOKCZ4FURomS) | [Crawford Mack](https://open.spotify.com/artist/6CKMgHCNRQ5bQTV0Nx4LuM) | [Don't Play The Victim](https://open.spotify.com/album/40BGz92PxQmrSKYoIAX4P7) | 3:31 | 2026-05-15 |  |
 | [don't take this all for granted](https://open.spotify.com/track/5pvppfDcw3BsHX4shNCSPi) | [rose wallace goldaline](https://open.spotify.com/artist/1aTuWr7rN5BbsrvjnFqNfD) | [don't take this all for granted](https://open.spotify.com/album/6eDX4FYAEP6F6maCPCSz35) | 3:22 | 2026-06-03 |  |
@@ -219,6 +220,7 @@
 | [Juvenile](https://open.spotify.com/track/4KnXS53TqnWKPAHgkDE7kC) | [Elandra](https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK) | [Juvenile](https://open.spotify.com/album/6mjFTZyrqWIhnRoDsTSbgj) | 2:58 | 2026-01-22 | 2026-03-10 |
 | [Kawaii](https://open.spotify.com/track/59tXTeEQ7G7koxQg5MyB1d) | [Talking to Sophie](https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC) | [Of Foxes And Tofu](https://open.spotify.com/album/4dpkrcOzw7t95AqZDgMRJV) | 4:55 | 2026-04-21 | 2026-07-02 |
 | [Kijk Dieper](https://open.spotify.com/track/4it5QdcZcP1ruTRDX1ixcT) | [FIERE](https://open.spotify.com/artist/27flAoHPs3qOBdlNsKM4Sr) | [Kijk Dieper](https://open.spotify.com/album/2HYMcDe1YbU0uk00boepWr) | 2:30 | 2025-11-21 | 2026-07-01 |
+| [kim jesteś?](https://open.spotify.com/track/3WRp5WLnxae0voLTrDSFz1) | [oswojeni](https://open.spotify.com/artist/6HSaeoRmLRRCdymdtKFsfh) | [kim jesteś?](https://open.spotify.com/album/3AEbonO8ZDawTrqzwU6ozw) | 3:33 | 2026-07-02 |  |
 | [La Ciudad de las Estrellas](https://open.spotify.com/track/677GnwOJwoEG51xaRdYMe4) | [Pablopatodo](https://open.spotify.com/artist/14owTErTcmgIPS30z27tBA) | [La Ciudad de las Estrellas](https://open.spotify.com/album/7GSkEzkfsVnoy4uIykt7XE) | 3:48 | 2026-01-28 | 2026-03-10 |
 | [Last Man On Earth](https://open.spotify.com/track/55P8rIE0Lva9mR2QYLFeE3) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Goodbye \(If You Call That Gone\)](https://open.spotify.com/album/1svJQc2WYWqzXp75ZaxFH4) | 3:36 | 2026-03-10 | 2026-04-16 |
 | [Lawless \- Live](https://open.spotify.com/track/5ITVgTTBvXKfljsjnH32bP) | [Daisy Dooks](https://open.spotify.com/artist/14FaxA5641sUwJ48atvveo) | [Live at The Albany](https://open.spotify.com/album/3GorY4S66WCmQ1hiuzPDoC) | 3:56 | 2025-10-30 | 2025-12-12 |
@@ -325,6 +327,7 @@
 | [Sick of Myself](https://open.spotify.com/track/4AcTSN3jrGYKnDhlPvU5Ws) | [Ellie Heath](https://open.spotify.com/artist/4jDhGLOdqlN8casEgCnnjW) | [Sick of Myself](https://open.spotify.com/album/5Z7he63upehCw75oRrZvuN) | 4:16 | 2026-05-10 |  |
 | [sidewalk](https://open.spotify.com/track/4FnSCqwqISEZxG1WUBPxuS) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [sidewalk](https://open.spotify.com/album/08UfJUC1e5YkwXNbo3xAZI) | 2:48 | 2026-02-06 | 2026-03-20 |
 | [Sinking Into The Ocean](https://open.spotify.com/track/30DebVQG34KpyNWMZm2VNx) | [Maia and the Squires](https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq) | [Sinking Into The Ocean](https://open.spotify.com/album/1RSTKvRHsWAuvnTAO9Bpmc) | 4:25 | 2026-06-06 |  |
+| [Smells like teen spirit \- Rock Version](https://open.spotify.com/track/1ldzLB7XNziPQDUx9BE3H8) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Smells like teen spirit](https://open.spotify.com/album/6MXU2P8IunEnPkgr4k0dA4) | 5:39 | 2026-07-02 |  |
 | [Smother](https://open.spotify.com/track/4M2MoGCdAiOUlwh8rZHvDR) | [Elemantra](https://open.spotify.com/artist/30cstQS8jxG42BPQ3beYin) | [Smother](https://open.spotify.com/album/18E6W0b5XeJ22DDRJr4Yxm) | 3:57 | 2026-02-08 | 2026-03-29 |
 | [Soapbox](https://open.spotify.com/track/5dF2so4iVS7MjyUaqoeSkD) | [Spensir](https://open.spotify.com/artist/67aFZmd5O1su4iCxh5z3UN) | [Soapbox](https://open.spotify.com/album/6AxHeLtZC6Vsc4sF0lfFBt) | 4:05 | 2026-02-25 | 2026-04-16 |
 | [Softly](https://open.spotify.com/track/3AJZARxMi3iPi6vPQxPTKN) | [St\. Kio](https://open.spotify.com/artist/44tH5nFTBxBPR1Dxuu17a0) | [INFINITY MIRROR](https://open.spotify.com/album/0STCjSbjF9Zv2scLY7LS2B) | 3:41 | 2025-10-26 | 2025-12-12 |

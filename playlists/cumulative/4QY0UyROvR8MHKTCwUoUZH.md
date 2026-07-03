@@ -4,7 +4,7 @@
 
 > Rustige achtergrond muziek voor tijdens je werk, studeren of relaxen \| Morning coffee 2026 \| Koffie Chill \| Café Music
 
-275 songs - 15 hr 17 min
+276 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Bigger Than The Song \- Piano Demo](https://open.spotify.com/track/7BrxPPY9EVpgo9YzjCGADB) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Bigger Than The Song \(Piano Demo\)](https://open.spotify.com/album/3jPAbSqVDqgHHDfxXsNQVG) | 3:09 | 2025-07-18 | 2025-10-18 |
 | [Birthday Makeup](https://open.spotify.com/track/3dV2zlpwJBCyQ9saGkBExd) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Birthday Makeup](https://open.spotify.com/album/5GEtta9qkKWmoWVZxbsq8t) | 2:54 | 2026-04-24 |  |
 | [blind](https://open.spotify.com/track/0iYYv7euzTEuJ0BlZpjiI6) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [blind](https://open.spotify.com/album/3gBJbIQe4XQSiShh6Mgw8n) | 3:30 | 2025-07-18 | 2025-09-20 |
+| [bloodstream](https://open.spotify.com/track/3a73v6zIh1LYLZP8vbv61B) | [Alyssa Grace](https://open.spotify.com/artist/4eZer1QvRM8Pna0rLToV1K) | [bloodstream](https://open.spotify.com/album/0HQrGrcpDO6GE5vFpr8pEb) | 2:57 | 2026-07-02 |  |
 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 | 2026-04-17 |  |
 | [Boy and the Swan](https://open.spotify.com/track/1RZSLpEvLkZ0mhYygJT6tZ) | [Aqua Riyaz](https://open.spotify.com/artist/1byg6yqO001L4j7Zw7fuHm) | [Boy and the Swan](https://open.spotify.com/album/5aZ6bNwi9LwOujAYVBBjN6) | 3:38 | 2025-11-07 |  |
 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 | 2026-04-10 |  |

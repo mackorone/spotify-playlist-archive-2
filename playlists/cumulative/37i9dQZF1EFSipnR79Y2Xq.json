@@ -1685,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "Mi Rancho Querido",
+        "url": "https://open.spotify.com/album/59gJhuVtFK9Szi2PrJQ3NT"
+      },
+      "artists": [
+        {
+          "name": "Inolvidables Jrs",
+          "url": "https://open.spotify.com/artist/28WGwBiOwpR2elcc4JOvSn"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152337,
+      "name": "No Que No",
+      "url": "https://open.spotify.com/track/2PBZeVvkiZ1VZef46e9hRr"
+    },
+    {
+      "album": {
         "name": "El Rey del Despecho",
         "url": "https://open.spotify.com/album/7CEWrRab3cJhCPJ7MGQOKt"
       },

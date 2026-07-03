@@ -4,7 +4,7 @@
 
 > Öll bestu lögin í augnablikinu!
 
-283 songs - 14 hr 59 min
+284 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [I Ain't Comin' Back \(feat\. Post Malone\)](https://open.spotify.com/track/5ceKWhT3J34xxw5uzIzgU9) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Ain't Comin' Back](https://open.spotify.com/album/7mY1h0bOuFvMBAyRJ6fxHB) | 2:55 | 2025-04-18 | 2025-09-12 |
 | [I Don't Wanna Talk](https://open.spotify.com/track/3iwU0ayGmLRR4tndbBAAWL) | [Daði Freyr](https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL) | [I Don't Wanna Talk](https://open.spotify.com/album/5lQljp3QFWHdAeAZHwFOvK) | 2:55 | 2025-04-18 | 2025-08-15 |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-06-21 | 2025-04-18 |
-| [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-15 |  |
+| [I Just Might](https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [I Just Might](https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih) | 3:32 | 2026-01-15 | 2026-07-03 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-06-21 | 2024-10-04 |
 | [i wish i knew how to quit you](https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [I Barely Know Her](https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA) | 3:52 | 2025-08-22 | 2025-11-07 |
 | [I'm A Little Crazy](https://open.spotify.com/track/7igCS2ZsfV7bvxuhF4XgiQ) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I'm A Little Crazy](https://open.spotify.com/album/2X9QdcBHMkoj4ekbZa3QId) | 3:19 | 2025-03-21 | 2025-05-16 |
@@ -287,6 +287,7 @@
 | [Ég er farinn](https://open.spotify.com/track/78WfDuDCfJzUhOiD9vzsIf) | [Úlfur Úlfur](https://open.spotify.com/artist/5viGHhUi0l9iemcUI3nE57) | [Föstudagurinn langi](https://open.spotify.com/album/3Njj4OSymSFbEYxshHrtU2) | 3:19 | 2026-04-10 |  |
 | [ÉG MYNDI LÍKA HATA MIG](https://open.spotify.com/track/5x5co4f7pHOWzYcnponeMk) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [TÓNLIST TIL AÐ SIGRA VIÐ](https://open.spotify.com/album/2yqwaUL7NiAtvNGYRTlWCW) | 2:45 | 2026-04-23 |  |
 | [Íslenski draumurinn](https://open.spotify.com/track/1bsaJvHRfM8xxgLGa2PUVQ) | [Unnsteinn](https://open.spotify.com/artist/2OsysEFABxUiubXfbfmrWF), [Logi Pedro](https://open.spotify.com/artist/1FiwIhKqE7vKkRLj1Ict4H), [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Íslenski draumurinn](https://open.spotify.com/album/4yrNXXxVHzJ5wSpXVSLFhg) | 3:23 | 2025-01-31 | 2025-04-18 |
+| [Ó elsku Þjóðhátíð](https://open.spotify.com/track/4qKYw6OL6eBlmKDau5NPWS) | [PATR!K](https://open.spotify.com/artist/6TBRY5HueSwE3yVgBIHcy2) | [Ó elsku Þjóðhátíð](https://open.spotify.com/album/7hmnusXkuvxdcrccySE5js) | 3:34 | 2026-07-03 |  |
 | [Ómótstæðileg](https://open.spotify.com/track/6Ms1VXrDvwYbJzgX0siMkX) | [Herra Hnetusmjör](https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4) | [KBE kynnir: Legend í Leiknum](https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3) | 3:08 | 2024-08-16 | 2024-08-23 |
 | [Þarft að vita](https://open.spotify.com/track/6PtlJ55rxv8mI1YHC9Y7M9) | [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK), [ELVAR](https://open.spotify.com/artist/4COSsEVMsaxH9XC1mI8aQY) | [Þarft að vita](https://open.spotify.com/album/2dmWvkkqgLoU5s5LjiPBBD) | 2:02 | 2025-08-08 | 2026-06-12 |
 | [Þessum bar](https://open.spotify.com/track/5wAqnybeSKhZtxPkMgDwzU) | [Maron Birnir](https://open.spotify.com/artist/5ZND8KTohJiibAgLwfkpXK) | [Þessum bar](https://open.spotify.com/album/3zGBuDlBdtIvt5DIlZK0Sd) | 2:23 | 2026-03-13 |  |

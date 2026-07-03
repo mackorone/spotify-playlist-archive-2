@@ -1631,6 +1631,32 @@
     },
     {
       "album": {
+        "name": "AMANH\u00c3 TRABALHAS",
+        "url": "https://open.spotify.com/album/7lWoaxJ11avux4ChkF93XT"
+      },
+      "artists": [
+        {
+          "name": "Wine TKK",
+          "url": "https://open.spotify.com/artist/4z82basJVVCSjAoZVkb7Rx"
+        },
+        {
+          "name": "B1",
+          "url": "https://open.spotify.com/artist/5v1vIsZCUl7WPhVzhsyquv"
+        },
+        {
+          "name": "Kuptz",
+          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190631,
+      "name": "AMANH\u00c3 TRABALHAS",
+      "url": "https://open.spotify.com/track/5YWEif2g5ZlaP1qqz7Ytra"
+    },
+    {
+      "album": {
         "name": "Amar De Cor",
         "url": "https://open.spotify.com/album/5ZPiexjhraYvJ8j1rh11vu"
       },
@@ -2682,7 +2708,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 207500,
       "name": "Batota",
       "url": "https://open.spotify.com/track/3Hyz45EN8Bc4rBGj6VjGKF"
@@ -6423,6 +6449,32 @@
     },
     {
       "album": {
+        "name": "D\u00e1 Ou N\u00e3o D\u00e1",
+        "url": "https://open.spotify.com/album/1T8GLl5khAnmcqFN1zX1R4"
+      },
+      "artists": [
+        {
+          "name": "Puro L",
+          "url": "https://open.spotify.com/artist/2qGDFd5cXDkCsP20UpBXQ5"
+        },
+        {
+          "name": "Dekor",
+          "url": "https://open.spotify.com/artist/5rT0GUFrcQnqyosutpnfa4"
+        },
+        {
+          "name": "SAMSACION",
+          "url": "https://open.spotify.com/artist/2O0bb83YNpR6g3CUk694pf"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193654,
+      "name": "D\u00e1 Ou N\u00e3o D\u00e1",
+      "url": "https://open.spotify.com/track/1raTDevZ0qoQddaSVphDUX"
+    },
+    {
+      "album": {
         "name": "D\u00e1-Me Vida",
         "url": "https://open.spotify.com/album/0oDZJi1VHzJKXugWQKJ2Vg"
       },
@@ -10134,7 +10186,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 143392,
       "name": "Ku Nos N\u00e3o",
       "url": "https://open.spotify.com/track/7FbQJpVBWKzWKU5PH36jIp"
@@ -14686,7 +14738,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 201601,
       "name": "OU N\u00c3O?",
       "url": "https://open.spotify.com/track/2zsRuvYrRnGWJhmu3LAjhP"
@@ -16216,6 +16268,24 @@
       "duration_ms": 195918,
       "name": "Processo",
       "url": "https://open.spotify.com/track/6YfyyE6hkWe2avbhFPDY0a"
+    },
+    {
+      "album": {
+        "name": "PURPPWORLD VOL.1",
+        "url": "https://open.spotify.com/album/4iOTfeMy1Wt4Gab2dmh4JL"
+      },
+      "artists": [
+        {
+          "name": "Sippinpurpp",
+          "url": "https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148250,
+      "name": "PROGRESSO",
+      "url": "https://open.spotify.com/track/4OvAaSIG0HzNliWU0Y4XBb"
     },
     {
       "album": {

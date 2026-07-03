@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 816530,
+  "num_followers": 816572,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2026-06-05 00:00:39",
       "album": {
-        "name": "Jace Everett",
-        "url": "https://open.spotify.com/album/0C5MT9P1lTRrVsUcQ8YLjx"
-      },
-      "artists": [
-        {
-          "name": "Jace Everett",
-          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
-        }
-      ],
-      "duration_ms": 164440,
-      "name": "Bad Things",
-      "url": "https://open.spotify.com/track/3H0XRfbPaBqLd1UjzRMVnt"
-    },
-    {
-      "added_at": "2026-06-05 00:00:39",
-      "album": {
         "name": "Spirit's Furnace",
         "url": "https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 169254,
       "name": "Hammers and Nails",
       "url": "https://open.spotify.com/track/5QWvi6JbRVpeFm1Db7ZMok"
+    },
+    {
+      "added_at": "2026-06-05 00:00:39",
+      "album": {
+        "name": "Jace Everett",
+        "url": "https://open.spotify.com/album/0C5MT9P1lTRrVsUcQ8YLjx"
+      },
+      "artists": [
+        {
+          "name": "Jace Everett",
+          "url": "https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs"
+        }
+      ],
+      "duration_ms": 164440,
+      "name": "Bad Things",
+      "url": "https://open.spotify.com/track/3H0XRfbPaBqLd1UjzRMVnt"
     },
     {
       "added_at": "2026-06-05 00:00:39",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-06-05 00:00:39",
       "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
+      },
+      "artists": [
+        {
+          "name": "Delta Rae",
+          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
+        }
+      ],
+      "duration_ms": 180920,
+      "name": "The Beast",
+      "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
+    },
+    {
+      "added_at": "2026-06-05 00:00:39",
+      "album": {
         "name": "Six Shades of Grey",
         "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 203757,
       "name": "Six Shades of Grey",
       "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
-    },
-    {
-      "added_at": "2026-06-05 00:00:39",
-      "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
-      },
-      "artists": [
-        {
-          "name": "Delta Rae",
-          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
-        }
-      ],
-      "duration_ms": 180920,
-      "name": "The Beast",
-      "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
     },
     {
       "added_at": "2026-06-05 00:00:39",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-06-05 00:00:39",
       "album": {
-        "name": "Moving",
-        "url": "https://open.spotify.com/album/375h96EtVWRecmNSwvqXRG"
-      },
-      "artists": [
-        {
-          "name": "The Deslondes",
-          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
-        }
-      ],
-      "duration_ms": 180253,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc"
-    },
-    {
-      "added_at": "2026-06-05 00:00:39",
-      "album": {
         "name": "3",
         "url": "https://open.spotify.com/album/1hMuNxqnxcC35yTBMgQw4P"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 234146,
       "name": "God Of Love",
       "url": "https://open.spotify.com/track/1haOmT0ndDABp11zNK92ot"
+    },
+    {
+      "added_at": "2026-06-05 00:00:39",
+      "album": {
+        "name": "Moving",
+        "url": "https://open.spotify.com/album/375h96EtVWRecmNSwvqXRG"
+      },
+      "artists": [
+        {
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+        }
+      ],
+      "duration_ms": 180253,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/5HAfUxI8HS1V3cvuiEBSyc"
     },
     {
       "added_at": "2026-06-05 00:00:39",

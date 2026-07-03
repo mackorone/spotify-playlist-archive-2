@@ -2,9 +2,9 @@
 
 ### [Who We Be](https://open.spotify.com/playlist/37i9dQZF1DXcDoDDetPsEg)
 
-> The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Nemzzz
+> The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Jorja Smith
 
-1,809 songs - 3 day 18 hr 31 min
+1,810 songs - 3 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Ain't No Way](https://open.spotify.com/track/4PHVjllNCuhpWjbjjT3IOt) | [Dréya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP) | [Ain't No Way](https://open.spotify.com/album/1R6sAftRlznlHuNh34chl0) | 2:25 | 2022-04-21 | 2022-05-20 |
 | [Air Force](https://open.spotify.com/track/2k9RFuhZTNLyWGu6sMkxEY) | [Yung TS](https://open.spotify.com/artist/4pSznn96jRDqtz3DjalDcn) | [Air Force](https://open.spotify.com/album/6s9AtSAMNHib87xoY9HWNW) | 2:40 | 2023-04-14 | 2023-05-19 |
 | [Airmax's](https://open.spotify.com/track/07o36Fp4DVMIhidvTHQHDe) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Airmax's](https://open.spotify.com/album/6G4RAC2zxyKq85Z9k8zIVH) | 2:49 | 2022-03-25 | 2022-05-06 |
+| [Alive \(feat\. Wizkid\)](https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive \(feat\. Wizkid\)](https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR) | 3:27 | 2026-07-02 |  |
 | [All Alone](https://open.spotify.com/track/7h4WdSxVKr8uciqXs3zAXw) | [Ryder](https://open.spotify.com/artist/2Lr6UcfZWL1Ur5spOaduOb), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Dré Six](https://open.spotify.com/artist/5eLN24mJrfPvsHv7tqJpA4) | [48 Hours](https://open.spotify.com/album/7B8hgK92g5E2WnKkKjEzRp) | 2:27 | 2023-12-01 | 2024-01-26 |
 | [All Eyes On Me](https://open.spotify.com/track/6jBy6OXWqs0UphUSUtOa8P) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [All Eyes On Me](https://open.spotify.com/album/2nrWRrICuGJOEdmzTL5m18) | 1:58 | 2025-03-14 | 2025-06-06 |
 | [All I Need](https://open.spotify.com/track/5V5MLWpaH416tfZl5e5z84) | [Miss Lafamilia](https://open.spotify.com/artist/5RUIxQGzPzXUD19Rb3W4e9) | [All I Need](https://open.spotify.com/album/1CjPP5G4HZ9AuiJrMLHm6A) | 2:53 | 2023-10-19 | 2023-11-18 |
@@ -1258,7 +1259,7 @@
 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 | 2022-03-25 | 2022-06-04 |
 | [Playdoh](https://open.spotify.com/track/5q4BwNIFR4n5d2vGMbyg6Q) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Playdoh](https://open.spotify.com/album/7uVB9tRYHBjMyUHqqyhMN1) | 2:18 | 2026-01-30 | 2026-04-24 |
 | [Players](https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Players](https://open.spotify.com/album/4cAAsw7mPkGt15GXQzWlrM) | 2:19 | 2023-01-20 | 2023-04-29 |
-| [Point To Prove](https://open.spotify.com/track/33aOtS134ourFh9cLtx0rs) | [Digga](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Point To Prove](https://open.spotify.com/album/0Ol9zAyCJMU86fDjdodJpK) | 2:18 | 2026-02-27 |  |
+| [Point To Prove](https://open.spotify.com/track/33aOtS134ourFh9cLtx0rs) | [Digga](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Point To Prove](https://open.spotify.com/album/0Ol9zAyCJMU86fDjdodJpK) | 2:18 | 2026-02-27 | 2026-07-03 |
 | [Poison](https://open.spotify.com/track/0334KVZTMvvQiRNIWKbVFh) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Poison](https://open.spotify.com/album/7mpxiz4HeVmH48bs2XIRsf) | 2:51 | 2023-08-17 | 2024-03-09 |
 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-12 | 2022-11-12 |
 | [Ponzi Scheme](https://open.spotify.com/track/62vOHpsasi6KeqRkraeM6x) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Ponzi Scheme](https://open.spotify.com/album/02jFqBkHjMJY5z4BX56Y6d) | 2:05 | 2024-06-21 | 2024-09-06 |

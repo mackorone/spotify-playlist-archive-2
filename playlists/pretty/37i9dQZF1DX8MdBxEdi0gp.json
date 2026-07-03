@@ -1,6 +1,6 @@
 {
   "description": "Con el mismo saz\u00f3n y amor que una sopita de fideo.",
-  "num_followers": 177195,
+  "num_followers": 177226,
   "original_name": "La Cocina de la Abuela",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Tiempo de oto\u00f1o",
-        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 275066,
-      "name": "Me Llamas",
-      "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Alma, coraz\u00f3n y vida",
         "url": "https://open.spotify.com/album/4eiylM6nVpoQYl7kIkcKrY"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 198000,
       "name": "Coraz\u00f3n m\u00e1gico",
       "url": "https://open.spotify.com/track/2LGNlsFbufs6T6no1w8kfZ"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Tiempo de oto\u00f1o",
+        "url": "https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 275066,
+      "name": "Me Llamas",
+      "url": "https://open.spotify.com/track/0WFatRyMXS4JVP9jSfO1Fe"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Mujer De Todos Mujer De Nadie",
         "url": "https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 210440,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Serie Diamante (USA)",
-        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
+        "name": "30 Anos De Exitos",
+        "url": "https://open.spotify.com/album/0jHdI5wc8aCPFlV1lNHWn0"
       },
       "artists": [
         {
-          "name": "Los Solitarios",
-          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
+          "name": "Los Brios",
+          "url": "https://open.spotify.com/artist/7sTzOfwrd0viYUuUu26a2N"
         }
       ],
-      "duration_ms": 168866,
-      "name": "Nunca digas",
-      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
+      "duration_ms": 161386,
+      "name": "Tengo Miedo",
+      "url": "https://open.spotify.com/track/7vFpaAMjGGFTP0BhYrtE9c"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -759,18 +759,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "30 Anos De Exitos",
-        "url": "https://open.spotify.com/album/0jHdI5wc8aCPFlV1lNHWn0"
+        "name": "Serie Diamante (USA)",
+        "url": "https://open.spotify.com/album/2fgUn3x6HujXAP2AXxMoer"
       },
       "artists": [
         {
-          "name": "Los Brios",
-          "url": "https://open.spotify.com/artist/7sTzOfwrd0viYUuUu26a2N"
+          "name": "Los Solitarios",
+          "url": "https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj"
         }
       ],
-      "duration_ms": 161386,
-      "name": "Tengo Miedo",
-      "url": "https://open.spotify.com/track/7vFpaAMjGGFTP0BhYrtE9c"
+      "duration_ms": 168866,
+      "name": "Nunca digas",
+      "url": "https://open.spotify.com/track/4pMyhL7qpkgIquLtn8ukUa"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Las Estrellas De La Matancera",
-        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
-      },
-      "artists": [
-        {
-          "name": "Celio Gonzalez",
-          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
-        }
-      ],
-      "duration_ms": 174213,
-      "name": "Total",
-      "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "17 Super Exitos",
         "url": "https://open.spotify.com/album/4T3cjmsFQWzFkJaeDU2IUu"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 206000,
       "name": "Como Me Gusta Quererte",
       "url": "https://open.spotify.com/track/1HZ95xv94RiBl0hwjs4EpY"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Las Estrellas De La Matancera",
+        "url": "https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1"
+      },
+      "artists": [
+        {
+          "name": "Celio Gonzalez",
+          "url": "https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y"
+        }
+      ],
+      "duration_ms": 174213,
+      "name": "Total",
+      "url": "https://open.spotify.com/track/3VHDcEGlFuiFGBRsdhWtA9"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "La Coleccion Del Siglo",
-        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
-        }
-      ],
-      "duration_ms": 149506,
-      "name": "El Andariego",
-      "url": "https://open.spotify.com/track/7DJt78nE0IFZLMcpumIfiA"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Recuerdos Y Algo M\u00e1s (De Colecci\u00f3n)",
         "url": "https://open.spotify.com/album/3FE9HECgHCfBxIvKb77GCz"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 221840,
       "name": "Silueta De Cristal",
       "url": "https://open.spotify.com/track/6Aimve3yqbs53npo902VvE"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "La Coleccion Del Siglo",
+        "url": "https://open.spotify.com/album/0hJxKcq8Di5cAYpHDSaOUT"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
+        }
+      ],
+      "duration_ms": 149506,
+      "name": "El Andariego",
+      "url": "https://open.spotify.com/track/7DJt78nE0IFZLMcpumIfiA"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Gracias Por La Musica (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 278386,
-      "name": "Estoy So\u00f1ando - Spanish Version",
-      "url": "https://open.spotify.com/track/4fK0R7wwuSzAz8fhp3JwMU"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Una Vida De Cine",
         "url": "https://open.spotify.com/album/6FkZm0HYNuPm4eEhLKVZ6r"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 135520,
       "name": "Amor En El Aire",
       "url": "https://open.spotify.com/track/4SpymdQGOUzDEsOGSlwDR0"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Gracias Por La Musica (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 278386,
+      "name": "Estoy So\u00f1ando - Spanish Version",
+      "url": "https://open.spotify.com/track/4fK0R7wwuSzAz8fhp3JwMU"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Hip\u00f3crita y Otros \u00c9xitos de Fernando Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/54UtU7kuWdd7kEb6VYl0SX"
-      },
-      "artists": [
-        {
-          "name": "Fernando Fernandez",
-          "url": "https://open.spotify.com/artist/5c1i7WEYcHjAGxDQMYSWkS"
-        }
-      ],
-      "duration_ms": 169240,
-      "name": "Hip\u00f3crita",
-      "url": "https://open.spotify.com/track/5YhyWVea591buoQxYS5Fwx"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Mi Historia",
         "url": "https://open.spotify.com/album/0C4pX9Q4zwFNvMvYOsiaSa"
       },
@@ -1711,18 +1695,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Los \u00c9xitos de Mayte Gaos",
-        "url": "https://open.spotify.com/album/1wTS67I6XW53fxL2TvJiC3"
+        "name": "Hip\u00f3crita y Otros \u00c9xitos de Fernando Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/54UtU7kuWdd7kEb6VYl0SX"
       },
       "artists": [
         {
-          "name": "Mayte Gaos",
-          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
+          "name": "Fernando Fernandez",
+          "url": "https://open.spotify.com/artist/5c1i7WEYcHjAGxDQMYSWkS"
         }
       ],
-      "duration_ms": 173560,
-      "name": "Vete Con Ella (Chappel of Love)",
-      "url": "https://open.spotify.com/track/3YjwaunKJ7iXhXj98eRRsM"
+      "duration_ms": 169240,
+      "name": "Hip\u00f3crita",
+      "url": "https://open.spotify.com/track/5YhyWVea591buoQxYS5Fwx"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1743,6 +1727,22 @@
       "duration_ms": 218426,
       "name": "El Reencuentro",
       "url": "https://open.spotify.com/track/53Af346CFsAjqvluCJud6T"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Los \u00c9xitos de Mayte Gaos",
+        "url": "https://open.spotify.com/album/1wTS67I6XW53fxL2TvJiC3"
+      },
+      "artists": [
+        {
+          "name": "Mayte Gaos",
+          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
+        }
+      ],
+      "duration_ms": 173560,
+      "name": "Vete Con Ella (Chappel of Love)",
+      "url": "https://open.spotify.com/track/3YjwaunKJ7iXhXj98eRRsM"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Serie Coleccion 15 Autenticos Exitos",
-        "url": "https://open.spotify.com/album/2Lo23n1S3pOdT99UJgveNf"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 174426,
-      "name": "En Mi Viejo San Juan",
-      "url": "https://open.spotify.com/track/4r7TBJamYMddI4OfJJFbkj"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Solo Por Ti",
         "url": "https://open.spotify.com/album/3WwQkMGD0RviYHhRV8GQZd"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 215280,
       "name": "Qu\u00e9 Es La Libertad",
       "url": "https://open.spotify.com/track/56izv6YwNBNErqnCpglZLF"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "Serie Coleccion 15 Autenticos Exitos",
+        "url": "https://open.spotify.com/album/2Lo23n1S3pOdT99UJgveNf"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 174426,
+      "name": "En Mi Viejo San Juan",
+      "url": "https://open.spotify.com/track/4r7TBJamYMddI4OfJJFbkj"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "Lo Mejor de Leo Dan Ahora con Mariachi",
+        "url": "https://open.spotify.com/album/4fDFnEA8wMJ4gekOh3HC1b"
+      },
+      "artists": [
+        {
+          "name": "Leo Dan",
+          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+        }
+      ],
+      "duration_ms": 192546,
+      "name": "Mary Es Mi Amor",
+      "url": "https://open.spotify.com/track/4nSFJLuvWnrsUd12ylpj2m"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "15 Canciones Favoritas",
         "url": "https://open.spotify.com/album/1lDKPKdPnDIAiNw5T3Lp8C"
       },
@@ -2003,18 +2019,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "Lo Mejor de Leo Dan Ahora con Mariachi",
-        "url": "https://open.spotify.com/album/4fDFnEA8wMJ4gekOh3HC1b"
+        "name": "La M\u00e1s Completa Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/67aE1BSpSmbkOsfyea2rMT"
       },
       "artists": [
         {
-          "name": "Leo Dan",
-          "url": "https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2"
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
         }
       ],
-      "duration_ms": 192546,
-      "name": "Mary Es Mi Amor",
-      "url": "https://open.spotify.com/track/4nSFJLuvWnrsUd12ylpj2m"
+      "duration_ms": 229306,
+      "name": "Hoy Te Confieso",
+      "url": "https://open.spotify.com/track/3JKIPPWFQALCZj7TOagabC"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2035,18 +2051,18 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/67aE1BSpSmbkOsfyea2rMT"
+        "name": "Canci\u00f3n para una esposa triste",
+        "url": "https://open.spotify.com/album/0L5mZ1bD6QWx3Fx2wZgai7"
       },
       "artists": [
         {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+          "name": "Clemencia Torres",
+          "url": "https://open.spotify.com/artist/0c1FTsFR3DaD71wT3Ax4F7"
         }
       ],
-      "duration_ms": 229306,
-      "name": "Hoy Te Confieso",
-      "url": "https://open.spotify.com/track/3JKIPPWFQALCZj7TOagabC"
+      "duration_ms": 223746,
+      "name": "Canci\u00f3n para una esposa triste",
+      "url": "https://open.spotify.com/track/4ko8FYjfliwHI1GrjY5YjE"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2063,22 +2079,6 @@
       "duration_ms": 233293,
       "name": "Una L\u00e1grima (Una Lacrima)",
       "url": "https://open.spotify.com/track/4aUsqDkhFNG0IADV9SkaSY"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Canci\u00f3n para una esposa triste",
-        "url": "https://open.spotify.com/album/0L5mZ1bD6QWx3Fx2wZgai7"
-      },
-      "artists": [
-        {
-          "name": "Clemencia Torres",
-          "url": "https://open.spotify.com/artist/0c1FTsFR3DaD71wT3Ax4F7"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Canci\u00f3n para una esposa triste",
-      "url": "https://open.spotify.com/track/4ko8FYjfliwHI1GrjY5YjE"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
-        "name": "La M\u00fasica Que Inspir\u00f3 La Serie Original De Netflix, La Casa De Las Flores (Creada Por Manolo Caro)",
-        "url": "https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH"
-      },
-      "artists": [
-        {
-          "name": "Victor Yturbe \"El Piruli\"",
-          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Se\u00f1ora",
-      "url": "https://open.spotify.com/track/4H6RqawSBZ78Dmlb6Oc49W"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
         "name": "Lo Mejor De",
         "url": "https://open.spotify.com/album/3ZZ58IiyV1tioHIkvhYAlu"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 167506,
       "name": "Por Si el Amor",
       "url": "https://open.spotify.com/track/6I8M7biJ2PouHIIOnQfK09"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
+        "name": "La M\u00fasica Que Inspir\u00f3 La Serie Original De Netflix, La Casa De Las Flores (Creada Por Manolo Caro)",
+        "url": "https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH"
+      },
+      "artists": [
+        {
+          "name": "Victor Yturbe \"El Piruli\"",
+          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Se\u00f1ora",
+      "url": "https://open.spotify.com/track/4H6RqawSBZ78Dmlb6Oc49W"
     },
     {
       "added_at": "2024-07-11 01:42:53",
@@ -2387,6 +2387,22 @@
     {
       "added_at": "2024-07-11 01:42:53",
       "album": {
+        "name": "Serie de Colecci\u00f3n de la Nueva Ola en el Per\u00fa",
+        "url": "https://open.spotify.com/album/738VKlMASfWSgL7xVgOEcB"
+      },
+      "artists": [
+        {
+          "name": "Regina Alcover",
+          "url": "https://open.spotify.com/artist/4KLsvXkmpe7TOzwush9YLh"
+        }
+      ],
+      "duration_ms": 144133,
+      "name": "Yo,T\u00fa y las Rosas",
+      "url": "https://open.spotify.com/track/26bc0h5bngOkWEv5944ZEA"
+    },
+    {
+      "added_at": "2024-07-11 01:42:53",
+      "album": {
         "name": "Grandes de la Musica Instrumental",
         "url": "https://open.spotify.com/album/2ZYPcXGFMkEnwcrTjxXgUP"
       },
@@ -2415,22 +2431,6 @@
       "duration_ms": 236333,
       "name": "Antes De Que Te Vayas",
       "url": "https://open.spotify.com/track/7DewwHhdPazof5cOYwrLQw"
-    },
-    {
-      "added_at": "2024-07-11 01:42:53",
-      "album": {
-        "name": "Serie de Colecci\u00f3n de la Nueva Ola en el Per\u00fa",
-        "url": "https://open.spotify.com/album/738VKlMASfWSgL7xVgOEcB"
-      },
-      "artists": [
-        {
-          "name": "Regina Alcover",
-          "url": "https://open.spotify.com/artist/4KLsvXkmpe7TOzwush9YLh"
-        }
-      ],
-      "duration_ms": 144133,
-      "name": "Yo,T\u00fa y las Rosas",
-      "url": "https://open.spotify.com/track/26bc0h5bngOkWEv5944ZEA"
     }
   ],
   "unique_name": "La Cocina de la Abuela",

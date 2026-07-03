@@ -465,6 +465,24 @@
     },
     {
       "album": {
+        "name": "BRUCKSWEAT",
+        "url": "https://open.spotify.com/album/2m3HYs6Ojn3jXuA6DcLJYj"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188756,
+      "name": "BRUCKSWEAT",
+      "url": "https://open.spotify.com/track/4RgwqFlAfzSiDC71CQrZRF"
+    },
+    {
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/4TGkpeR5mcuh4C3Nnw1gM8"
       },
@@ -512,7 +530,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 165480,
       "name": "Budum",
       "url": "https://open.spotify.com/track/4yGNNviGXeLZlf70IwWwEK"
@@ -2441,6 +2459,24 @@
     },
     {
       "album": {
+        "name": "NERVOUS",
+        "url": "https://open.spotify.com/album/43sikXY0GVXf17J5A88YKu"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161874,
+      "name": "NERVOUS",
+      "url": "https://open.spotify.com/track/2tKgNrygongIZ3Ava9xW0x"
+    },
+    {
+      "album": {
         "name": "The Red Room Intro (Yard Gyal Inna Britain)",
         "url": "https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH"
       },
@@ -3606,7 +3642,7 @@
       ],
       "date_added": "2021-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 193548,
       "name": "The Sidechick Song",
       "url": "https://open.spotify.com/track/75Z53FMCvlupjHfAh9XgDo"

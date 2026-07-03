@@ -29673,6 +29673,32 @@
     },
     {
       "album": {
+        "name": "ST\u00d6RD",
+        "url": "https://open.spotify.com/album/4yVljNTuC3juvmr1D4tq8u"
+      },
+      "artists": [
+        {
+          "name": "KYPARN",
+          "url": "https://open.spotify.com/artist/2p9OeruY0AAgWRu84YZMPw"
+        },
+        {
+          "name": "DIREKT\u00d6REN",
+          "url": "https://open.spotify.com/artist/1pATe4JpMAfVn2UKNNTwHY"
+        },
+        {
+          "name": "OKVH",
+          "url": "https://open.spotify.com/artist/2KlhZOYTfG8pidklQFSSRQ"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161841,
+      "name": "ST\u00d6RD",
+      "url": "https://open.spotify.com/track/1FJTj1IQfejgdNJB44l0oJ"
+    },
+    {
+      "album": {
         "name": "St\u00f6rningsjoureN^",
         "url": "https://open.spotify.com/album/0fGwRfap26vLmXmWwJvOOS"
       },

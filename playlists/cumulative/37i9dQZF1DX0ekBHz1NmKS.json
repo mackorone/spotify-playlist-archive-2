@@ -6402,7 +6402,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 185386,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3L8WeELmAzaauECXkirrah"
@@ -9105,6 +9105,24 @@
     },
     {
       "album": {
+        "name": "Dum i huvudet",
+        "url": "https://open.spotify.com/album/4KZpcQo4tYOjGfu8KZFgeL"
+      },
+      "artists": [
+        {
+          "name": "Anis Don Demina",
+          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174150,
+      "name": "Dum i huvudet",
+      "url": "https://open.spotify.com/track/4nX11i2MNHnznqfx3YxAPd"
+    },
+    {
+      "album": {
         "name": "Little Things",
         "url": "https://open.spotify.com/album/2iFS8uewUG1gkseKzBzsbQ"
       },
@@ -10084,7 +10102,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 208212,
       "name": "En gammal v\u00e4n",
       "url": "https://open.spotify.com/track/5kYgXxyo4fVI6EqkBgKSGE"
@@ -11334,7 +11352,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 197938,
       "name": "Fantomsm\u00e4rta",
       "url": "https://open.spotify.com/track/5Js7P4JCIoRJa4yhC5QZYQ"
@@ -20544,7 +20562,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 181818,
       "name": "Katarina",
       "url": "https://open.spotify.com/track/566PQ4uTqoDP8z7k3UpfUZ"
@@ -34306,7 +34324,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 167243,
       "name": "Stay the night",
       "url": "https://open.spotify.com/track/7DmN7TkryZZXguVrf0OZ6P"

@@ -4,7 +4,7 @@
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-1,122 songs - 2 day 5 hr 30 min
+1,123 songs - 2 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,7 +462,7 @@
 | [Hollow](https://open.spotify.com/track/5sxeqxnsXBMRO6OONTUKXJ) | [Astrail](https://open.spotify.com/artist/3Pl5lSDAk1JTRyr06eCLyS) | [Hollow](https://open.spotify.com/album/7y0ppUYUQCMmkl1RLXiAGI) | 2:36 | 2026-02-27 | 2026-03-21 |
 | [Hope Revived](https://open.spotify.com/track/2LwI8aXNTImWLGQL7oXwF8) | [Eztebe Matia](https://open.spotify.com/artist/3n2j9RLqJFPzyI8WGn94bm) | [Hope Revived](https://open.spotify.com/album/5NUCTUE7K0bNsG17LSKIih) | 2:43 | 2025-10-23 | 2026-04-04 |
 | [Hopeful](https://open.spotify.com/track/6pnhLxKJShRqP5YeXdtkWc) | [Asher Francis](https://open.spotify.com/artist/7A3PJ0HRctOwwSLMIwFDte) | [Hopeful](https://open.spotify.com/album/5qNrPIDJil1rGVkiO8LI9A) | 2:11 | 2023-10-20 | 2024-02-09 |
-| [Hoshikuzu no Michi](https://open.spotify.com/track/7cqjOWkvm8Nav61IckL5fi) | [Juliette Laveaux](https://open.spotify.com/artist/4OhNusW3mnw1DJ1DuMph9A) | [Hoshikuzu no Michi](https://open.spotify.com/album/7nrMcC2QXVlGqmj2TX7Gbq) | 2:08 | 2026-01-29 |  |
+| [Hoshikuzu no Michi](https://open.spotify.com/track/7cqjOWkvm8Nav61IckL5fi) | [Juliette Laveaux](https://open.spotify.com/artist/4OhNusW3mnw1DJ1DuMph9A) | [Hoshikuzu no Michi](https://open.spotify.com/album/7nrMcC2QXVlGqmj2TX7Gbq) | 2:08 | 2026-01-29 | 2026-07-03 |
 | [Huayna Potosi](https://open.spotify.com/track/2PWHrFAlSGROVbJEE4ZEEV) | [Connie Li](https://open.spotify.com/artist/2pQHm9K7nA97zJGOYhfXau) | [Huayna Potosi](https://open.spotify.com/album/047WHL1HMDdjZOnSp3JOxP) | 3:41 | 2023-10-20 | 2024-03-21 |
 | [Hue](https://open.spotify.com/track/0mndpCHKhI3DOiLl46BQai) | [Soothing Dreamscapes](https://open.spotify.com/artist/2E7ynirvqKf8ZF7ATxFkTG) | [Hue](https://open.spotify.com/album/3HDk7a49Sb28um15lvBhN0) | 3:09 | 2024-02-08 | 2024-07-16 |
 | [Hugsanir](https://open.spotify.com/track/1N04HuVRqVu0uV2I6LSYqt) | [Elvar Arngrimsson](https://open.spotify.com/artist/5DChGYPOwgULNzFMzw0TIb) | [Hugsanir](https://open.spotify.com/album/7Gfes73tSe0PPwhAaPY3ST) | 2:42 | 2023-10-20 | 2024-02-09 |
@@ -591,6 +591,7 @@
 | [Matte Dreams](https://open.spotify.com/track/2S9nxEBURjnZ6JCcol3qJO) | [Aemilune](https://open.spotify.com/artist/1WMy5EVJKar2JzCjAPv8m9) | [Matte Dreams](https://open.spotify.com/album/48MhnWcgtQOKDC4IXhYSq6) | 2:27 | 2026-01-29 |  |
 | [Mauve](https://open.spotify.com/track/3tc3x8wNTJJoceu7vvATJC) | [Lumen Sonitus](https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW) | [Mauve](https://open.spotify.com/album/7yVG1QAybAc5uBn3ekVoOo) | 2:27 | 2025-08-20 |  |
 | [Me and the Stars](https://open.spotify.com/track/3tQH5jtcy2iXBLv34SJ6WR) | [Silas Luminance](https://open.spotify.com/artist/1DIbK2TCw2wS7DagbMu8jp) | [Me and the Stars](https://open.spotify.com/album/10R1HL4Y4cVXE3w5p4BW1X) | 2:08 | 2025-03-05 | 2026-03-12 |
+| [Meadow Dreams](https://open.spotify.com/track/7rKFCfBGJaP2APTYB0eaXw) | [Blundstoft](https://open.spotify.com/artist/2VvQi6CusXMIBImj5uNaTq) | [Meadow Dreams](https://open.spotify.com/album/6csrZX05UZrWKoX5e6Fv1e) | 2:13 | 2026-07-02 |  |
 | [Meditations Pt 4](https://open.spotify.com/track/7KerNojT5v12nQjmk9OGbm) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Meditations Pt 4](https://open.spotify.com/album/0EVBf4Gj6ot7u6LCRUHUeY) | 3:00 | 2024-11-21 | 2025-03-28 |
 | [Melantonia](https://open.spotify.com/track/4QRKoVrx2OIfEOUamco5Uz) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Melantonia](https://open.spotify.com/album/0AY0gNMt9YcZ9F6YVfDJSy) | 3:43 | 2023-10-20 | 2024-02-09 |
 | [Meliora](https://open.spotify.com/track/4UUTtDXBx9GiedPVzTNL5F) | [Vendela Rose](https://open.spotify.com/artist/31fLMu6uyged4QpGx1VqA0) | [Meliora](https://open.spotify.com/album/7sxxKRZ8YByAttAbVJiUSp) | 3:17 | 2023-10-20 | 2024-03-21 |

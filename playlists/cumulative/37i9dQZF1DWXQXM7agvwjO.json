@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sounds from Asia. Cover: Rol3ert (Japan)",
+  "description": "Hottest indie sounds from Asia. Cover: Song Dongye ",
   "name": ".ORG",
   "tracks": [
     {
@@ -7708,7 +7708,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 281218,
       "name": "cold/mess",
       "url": "https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN"
@@ -8602,7 +8602,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 242791,
       "name": "C\u00f9ng H\u00ecnh Dung",
       "url": "https://open.spotify.com/track/4OloVKBtVNYIasfKk8t12X"
@@ -9060,7 +9060,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 147746,
       "name": "Day One",
       "url": "https://open.spotify.com/track/6wldZLtGqvQ8vUiy11FtTt"
@@ -16327,6 +16327,24 @@
     },
     {
       "album": {
+        "name": "HER",
+        "url": "https://open.spotify.com/album/7ellKD5ev785kJVlBIAbmM"
+      },
+      "artists": [
+        {
+          "name": "Melatonin",
+          "url": "https://open.spotify.com/artist/5fSNBTjFKAurSN1H4L2Fus"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182059,
+      "name": "HER",
+      "url": "https://open.spotify.com/track/4DmYzQOrhGouzL8tbhuqmt"
+    },
+    {
+      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/1KcaoSte2JZ9SuAr2IDdOX"
       },
@@ -16844,7 +16862,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 235501,
       "name": "Home",
       "url": "https://open.spotify.com/track/4Jh1j1eW0QHit7mDXnU9mA"
@@ -17852,6 +17870,24 @@
       "duration_ms": 221413,
       "name": "I Don't Wanna Feel Anything",
       "url": "https://open.spotify.com/track/2tePOGmZuxLqHGD2prNDab"
+    },
+    {
+      "album": {
+        "name": "I Feel Confused",
+        "url": "https://open.spotify.com/album/0LvxGcjyJnbhlh7L8mSxJ7"
+      },
+      "artists": [
+        {
+          "name": "Tailwhip",
+          "url": "https://open.spotify.com/artist/5wJsd8TW2LlUZwD5bv6vEk"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232143,
+      "name": "I Feel Confused",
+      "url": "https://open.spotify.com/track/45K064wDkfUy7GIhfnnUCL"
     },
     {
       "album": {
@@ -21560,7 +21596,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 243514,
       "name": "Lambing",
       "url": "https://open.spotify.com/track/6lka2hyRKdR9JRyhsrK3je"
@@ -23210,6 +23246,24 @@
       "duration_ms": 247446,
       "name": "Love is so Unreal",
       "url": "https://open.spotify.com/track/6way0VicE5Og0xQDtKG5tl"
+    },
+    {
+      "album": {
+        "name": "Love Languages",
+        "url": "https://open.spotify.com/album/3mvX0ne7FG2ZQlpoNYqsK1"
+      },
+      "artists": [
+        {
+          "name": "Isaac Foong",
+          "url": "https://open.spotify.com/artist/4QKPqsXsLnmtNmSL6SQwpB"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Love Languages",
+      "url": "https://open.spotify.com/track/5j8foc196VmGFP3lPpe244"
     },
     {
       "album": {
@@ -25598,6 +25652,24 @@
       "duration_ms": 241285,
       "name": "MOKUME",
       "url": "https://open.spotify.com/track/3bdUeyaMEK5GOrasxqQCmy"
+    },
+    {
+      "album": {
+        "name": "Molecular Gastronomy",
+        "url": "https://open.spotify.com/album/35sglSFwKtTasoxq1xfQh7"
+      },
+      "artists": [
+        {
+          "name": "Silica Gel",
+          "url": "https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192972,
+      "name": "Molecular Gastronomy",
+      "url": "https://open.spotify.com/track/2931vEcoEFWljb7Xas1ASK"
     },
     {
       "album": {
@@ -30211,6 +30283,28 @@
     },
     {
       "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/0xzuxYRWSdjudAoWaoiy0l"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Pixie",
+          "url": "https://open.spotify.com/artist/29CGcIUOgYJZQ6WF4WbjHB"
+        },
+        {
+          "name": "Off The Record",
+          "url": "https://open.spotify.com/artist/0h2lW8O3gilzdOjbgLYivM"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261000,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/1YN1lbZfKks2gUBAuDJuzN"
+    },
+    {
+      "album": {
         "name": "petrol & matches",
         "url": "https://open.spotify.com/album/7hDAgHyyfgXLE6DLhNvDi8"
       },
@@ -32784,7 +32878,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 1102737,
       "name": "S G T A P E - 03",
       "url": "https://open.spotify.com/track/0VELcxzskuExJTuqpiTPdk"
@@ -33230,7 +33324,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 179909,
       "name": "Sanha Express",
       "url": "https://open.spotify.com/track/2RrPNyH9ncokySNU3wJnQ1"
@@ -33438,6 +33532,24 @@
       "duration_ms": 223187,
       "name": "Say Hello",
       "url": "https://open.spotify.com/track/3mW60TGPwzkLxCTqK0grhR"
+    },
+    {
+      "album": {
+        "name": "SAYONARA PENGUIN",
+        "url": "https://open.spotify.com/album/0u2IUCYS6AOwLuOF7ulAXP"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111096,
+      "name": "SAYONARA PENGUIN",
+      "url": "https://open.spotify.com/track/2xJ66XR7lbKqL55J70cXqJ"
     },
     {
       "album": {
@@ -35312,7 +35424,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 161086,
       "name": "someone to hold",
       "url": "https://open.spotify.com/track/1OzVgesO7hRNH4uZKzVkZR"
@@ -35674,6 +35786,24 @@
       "duration_ms": 216934,
       "name": "South East",
       "url": "https://open.spotify.com/track/2CiWIw60PWOYliSOk2iZKk"
+    },
+    {
+      "album": {
+        "name": "Liquid Fire",
+        "url": "https://open.spotify.com/album/45Wua7XMdr2jDLDciTfOkA"
+      },
+      "artists": [
+        {
+          "name": "Rosalyn",
+          "url": "https://open.spotify.com/artist/0eBxT8cgP2efRvTQWyomVY"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302407,
+      "name": "Space Between",
+      "url": "https://open.spotify.com/track/3tMd2EbpFTb2OFdmdztIa8"
     },
     {
       "album": {
@@ -41804,7 +41934,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 220000,
       "name": "victim mentality",
       "url": "https://open.spotify.com/track/48GvrfUWFnrxOxkiSthRIO"
@@ -45684,7 +45814,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 239646,
       "name": "\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19\u0e2b\u0e19\u0e36\u0e48\u0e07 (Someday)",
       "url": "https://open.spotify.com/track/2hMTyuTMniu9l0StZ9RZNW"
@@ -45980,7 +46110,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 325338,
       "name": "\u0e40\u0e25\u0e37\u0e2d\u0e19 \u0e25\u0e32\u0e07 \u0e08\u0e32\u0e07 \u0e2b\u0e32\u0e22 (Cloud)",
       "url": "https://open.spotify.com/track/72o3NLBBolOURzBWaM9IxQ"
@@ -47128,7 +47258,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 220994,
       "name": "\u4e0d\u5e78\u7684\u6211 \u00b7 \u628a\u5e78\u904b\u503c\u9ede\u6eff\u9047\u4e0a\u4f60",
       "url": "https://open.spotify.com/track/2lJ5w764IDTrqkSa56pflG"
@@ -47168,6 +47298,24 @@
       "duration_ms": 209139,
       "name": "\u4e0d\u7a00\u7f55\u5225\u4eba\u7d66\u7684\u5b8c\u6574 / \u72c2\u5954",
       "url": "https://open.spotify.com/track/1ybhaEBjWHBWzXyZO8Wtay"
+    },
+    {
+      "album": {
+        "name": "\u518d\u60f3\u60f3",
+        "url": "https://open.spotify.com/album/10ybjitbVIXwzgwfW7HLRc"
+      },
+      "artists": [
+        {
+          "name": "\u5b8b\u51ac\u91ce",
+          "url": "https://open.spotify.com/artist/5aJFmaCc09jEz9ghzppUxo"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344473,
+      "name": "\u4e0d\u964c\u751f\u7684\u4eba",
+      "url": "https://open.spotify.com/track/6KerDOunco6o3ilBye5LQQ"
     },
     {
       "album": {
@@ -47812,6 +47960,24 @@
       "duration_ms": 226394,
       "name": "\u5728\u6182\u9b31\u7684\u71b1\u5e36",
       "url": "https://open.spotify.com/track/1USIBsCwsHlRNlddUWhLC3"
+    },
+    {
+      "album": {
+        "name": "\u6c88\u9ed8\u7684\u9245\u4f5c",
+        "url": "https://open.spotify.com/album/03EoCbW2Hhj6XAUV9Otnii"
+      },
+      "artists": [
+        {
+          "name": "Shallow Lev\u00e9e",
+          "url": "https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250946,
+      "name": "\u5728\u7a7a\u6a94\u5beb\u8a69",
+      "url": "https://open.spotify.com/track/046tamz6yQT7mXXBwh0t1x"
     },
     {
       "album": {
@@ -48772,7 +48938,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 320000,
       "name": "\u63a5\u543b -kiss- (ORIGINAL LOVE 1993)",
       "url": "https://open.spotify.com/track/0oUwQhusb5Uzdf64Wf3R04"
@@ -49856,6 +50022,24 @@
       "duration_ms": 275925,
       "name": "\u8a00\u4f1d",
       "url": "https://open.spotify.com/track/28O58Xm1nOFvVOERz1JCpx"
+    },
+    {
+      "album": {
+        "name": "\u8a0e\u53ad\u60f3\u4f60\u7684\u6642\u5019",
+        "url": "https://open.spotify.com/album/3zu4T598pQMVBTU7F0fcxc"
+      },
+      "artists": [
+        {
+          "name": "Mango Street Papa \u8292\u679c\u8857\u8001\u7238",
+          "url": "https://open.spotify.com/artist/7L3ELK3RL1ghTrhVo3dwS0"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "\u8a0e\u53ad\u60f3\u4f60\u7684\u6642\u5019",
+      "url": "https://open.spotify.com/track/3npvcimJh6cf7A9znNYwYv"
     },
     {
       "album": {

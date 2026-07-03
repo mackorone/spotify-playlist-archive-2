@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes & Ulises Bueno.",
-  "num_followers": 268763,
+  "num_followers": 268817,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ7pYC50PprLmov9viUTuFKauA7X",
+  "snapshot_id": "AAAAAJFzRsw4yjqx46v7o2z+Lpds0aXP",
   "tracks": [
     {
       "added_at": "2026-06-23 12:55:28",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
-        "name": "Amiga Traidora (En Vivo)",
-        "url": "https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 236736,
-      "name": "Amiga Traidora - En Vivo",
-      "url": "https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
         "name": "Pega la Vuelta / La Ventanita",
         "url": "https://open.spotify.com/album/3jvZ8vULiCTJDWhgE8ZGN9"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 278301,
       "name": "Pega la Vuelta / La Ventanita",
       "url": "https://open.spotify.com/track/1oXR7VdMGW1iSnOeVcCZ6W"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
+        "name": "Amiga Traidora (En Vivo)",
+        "url": "https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 236736,
+      "name": "Amiga Traidora - En Vivo",
+      "url": "https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM"
     },
     {
       "added_at": "2026-06-23 12:55:28",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-06-23 12:55:28",
       "album": {
+        "name": "En Vivo Estadio Luna Park",
+        "url": "https://open.spotify.com/album/6xYnpeN2izdbOVKbEIJs1z"
+      },
+      "artists": [
+        {
+          "name": "Angela Leiva",
+          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
+        }
+      ],
+      "duration_ms": 278811,
+      "name": "Amiga Traidora - En Vivo Estadio Luna Park",
+      "url": "https://open.spotify.com/track/6LFz8eGFPl3Wl7RGSS8HBc"
+    },
+    {
+      "added_at": "2026-06-23 12:55:28",
+      "album": {
         "name": "Serrana Mia",
         "url": "https://open.spotify.com/album/18ZdeNrG5NURFYLc0MrEqs"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 246593,
       "name": "Serrana Mia",
       "url": "https://open.spotify.com/track/4AXXFjxunayz1nO5saIy7v"
-    },
-    {
-      "added_at": "2026-06-23 12:55:28",
-      "album": {
-        "name": "En Vivo Estadio Luna Park",
-        "url": "https://open.spotify.com/album/6xYnpeN2izdbOVKbEIJs1z"
-      },
-      "artists": [
-        {
-          "name": "Angela Leiva",
-          "url": "https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d"
-        }
-      ],
-      "duration_ms": 278811,
-      "name": "Amiga Traidora - En Vivo Estadio Luna Park",
-      "url": "https://open.spotify.com/track/6LFz8eGFPl3Wl7RGSS8HBc"
     },
     {
       "added_at": "2026-06-23 12:55:28",

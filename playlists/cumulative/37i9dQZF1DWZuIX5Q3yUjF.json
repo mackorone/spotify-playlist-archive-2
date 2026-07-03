@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "JANAKI in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "seraphiel in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2025-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 160276,
       "name": "+ fuori",
       "url": "https://open.spotify.com/track/4DU9uwudZcIQ7E2MtBXtbr"
@@ -1261,6 +1261,24 @@
     },
     {
       "album": {
+        "name": "Non siamo soli",
+        "url": "https://open.spotify.com/album/2DBJBniyrnSo7XhEZaBCKM"
+      },
+      "artists": [
+        {
+          "name": "Camaiani",
+          "url": "https://open.spotify.com/artist/4KmFA2B3F3AipCFr7HYFXM"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184035,
+      "name": "Angeli",
+      "url": "https://open.spotify.com/track/3qTBVHpP3r8hEPJsaSUdWn"
+    },
+    {
+      "album": {
         "name": "Anima mundi",
         "url": "https://open.spotify.com/album/7pSPAplcwIKW6HxUUNhIRu"
       },
@@ -1784,7 +1802,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 184875,
       "name": "Atlantide",
       "url": "https://open.spotify.com/track/1mP024sin4qRJS0C0VW7GX"
@@ -3283,6 +3301,24 @@
     },
     {
       "album": {
+        "name": "La Sana Entropia",
+        "url": "https://open.spotify.com/album/3zri9NPgfhVyO5OWU7Tsil"
+      },
+      "artists": [
+        {
+          "name": "JANAKI",
+          "url": "https://open.spotify.com/artist/5x9yExrQoWWxIruKCWIMip"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192114,
+      "name": "Casa di pietra",
+      "url": "https://open.spotify.com/track/1bUE1mHUT1oCHRJ0FQ2WIG"
+    },
+    {
+      "album": {
         "name": "casa nostra",
         "url": "https://open.spotify.com/album/1bwnI5Xx4kiG1vrSchI7Rk"
       },
@@ -4046,6 +4082,24 @@
       "duration_ms": 146000,
       "name": "Colpi di Fulmine",
       "url": "https://open.spotify.com/track/02sS5kjMdtWnl5mxWQu6Vf"
+    },
+    {
+      "album": {
+        "name": "Come Acqua",
+        "url": "https://open.spotify.com/album/7L6NIbwasNXxu7ylF9krQ1"
+      },
+      "artists": [
+        {
+          "name": "Primo Amore",
+          "url": "https://open.spotify.com/artist/6vqyGm4tSHrerJwKwQm7jo"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194482,
+      "name": "Come Acqua",
+      "url": "https://open.spotify.com/track/1bJNcPNJubRbehEEyyZGbx"
     },
     {
       "album": {
@@ -5125,6 +5179,32 @@
     },
     {
       "album": {
+        "name": "Decidere non so (Amore Audio remix)",
+        "url": "https://open.spotify.com/album/0FujK0LmFalu7bbRVPvY2J"
+      },
+      "artists": [
+        {
+          "name": "Lauryyn",
+          "url": "https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4"
+        },
+        {
+          "name": "Filippo Bubbico",
+          "url": "https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw"
+        },
+        {
+          "name": "Amore Audio",
+          "url": "https://open.spotify.com/artist/03OiOe7Bfr3XTNnbjvwjTT"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203030,
+      "name": "Decidere non so - Amore Audio remix",
+      "url": "https://open.spotify.com/track/7C8m1Joc9rkF8Kd7xPYiJH"
+    },
+    {
+      "album": {
         "name": "Essere Uomo",
         "url": "https://open.spotify.com/album/2aEOb5jk0T8mi1PzbdnzHh"
       },
@@ -6188,7 +6268,7 @@
       ],
       "date_added": "2026-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 150303,
       "name": "ECO",
       "url": "https://open.spotify.com/track/7xdHyWvJ07kbgBf9yiyEC0"
@@ -6240,7 +6320,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 171962,
       "name": "Elodie",
       "url": "https://open.spotify.com/track/3jVjU6iokZmcq7ypeEooBV"
@@ -7954,7 +8034,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 232500,
       "name": "Grafite",
       "url": "https://open.spotify.com/track/6xD5G4nPobgMmu0CsiOP8m"
@@ -9264,7 +9344,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 181176,
       "name": "L'Amore \u00c8 Re",
       "url": "https://open.spotify.com/track/1aNzG5PUkwuuDMJDFdZx5P"
@@ -11680,7 +11760,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 235824,
       "name": "Milite Ignoto",
       "url": "https://open.spotify.com/track/08iWg44KrpLHFRo2TOvc4U"
@@ -17582,7 +17662,7 @@
       ],
       "date_added": "2025-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 152500,
       "name": "So What",
       "url": "https://open.spotify.com/track/2SBKzqeS4JBGoUwGWdlIEj"

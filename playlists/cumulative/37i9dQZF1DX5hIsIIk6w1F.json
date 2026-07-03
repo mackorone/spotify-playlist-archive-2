@@ -1255,6 +1255,28 @@
     },
     {
       "album": {
+        "name": "ALCOBA",
+        "url": "https://open.spotify.com/album/34gdrNNgq2cWmlt4vIl4GK"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237545,
+      "name": "ALCOBA",
+      "url": "https://open.spotify.com/track/4OX6VWwow4Ta12RvUMwlVT"
+    },
+    {
+      "album": {
         "name": "ALMAS GEMELAS",
         "url": "https://open.spotify.com/album/4eAvdv0NnEDQj34dvOb1Ma"
       },
@@ -2780,7 +2802,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 142942,
       "name": "Beba",
       "url": "https://open.spotify.com/track/770aw6BFuQymlFxnsFSEbr"
@@ -3350,7 +3372,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 169436,
       "name": "Bmw",
       "url": "https://open.spotify.com/track/5v4OgFxhCat9uXE75CdfF5"
@@ -5229,6 +5251,24 @@
     },
     {
       "album": {
+        "name": "CUANDO Y DONDE?",
+        "url": "https://open.spotify.com/album/2bOfLRxwS74m8Vqskv86f7"
+      },
+      "artists": [
+        {
+          "name": "Simon la Letra",
+          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147710,
+      "name": "CUANDO Y DONDE?",
+      "url": "https://open.spotify.com/track/5Rg4GShgcz9r1Cmt6IubbA"
+    },
+    {
+      "album": {
         "name": "Cuchi Cuchi",
         "url": "https://open.spotify.com/album/6YlYVw9UwdrACAYPwAZnqf"
       },
@@ -7072,7 +7112,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 205862,
       "name": "Ella Es La M\u00eda",
       "url": "https://open.spotify.com/track/2FlLSE725G8coEIW4hMTKp"
@@ -16935,6 +16975,48 @@
     },
     {
       "album": {
+        "name": "Es Bueno el Dinero Pero Es Mejor la Conexi\u00f3n",
+        "url": "https://open.spotify.com/album/3isOzEDet5FQ202Ya3nlrE"
+      },
+      "artists": [
+        {
+          "name": "Piero 47",
+          "url": "https://open.spotify.com/artist/4xZrvfK8khgRIXk63gSFeB"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        },
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "benjitalkapone",
+          "url": "https://open.spotify.com/artist/3omZHuj9aPMD1QNIsJQds4"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Simon la Letra",
+          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
+        },
+        {
+          "name": "JhonAlex",
+          "url": "https://open.spotify.com/artist/7CM7B0HfAsji2JCPipgQaI"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394285,
+      "name": "Pa la Uni V2 - V2",
+      "url": "https://open.spotify.com/track/3NIBylC6T3FWI9f9gYSI4B"
+    },
+    {
+      "album": {
         "name": "Pa las girlas",
         "url": "https://open.spotify.com/album/5yGeyYQfUhdQUvk0yVTVkY"
       },
@@ -17856,7 +17938,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 146400,
       "name": "Pelirroja",
       "url": "https://open.spotify.com/track/2lb7h169BHaAUdXSP0VJkZ"
@@ -24818,6 +24900,28 @@
       "duration_ms": 274974,
       "name": "Un Beso Tuyo",
       "url": "https://open.spotify.com/track/2ZLusQxisKJoUdfn6q2agZ"
+    },
+    {
+      "album": {
+        "name": "G\u00e9nesis",
+        "url": "https://open.spotify.com/album/3emn9mTsDGSGG5t9A0w6nj"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178829,
+      "name": "Un Cl\u00e1sico",
+      "url": "https://open.spotify.com/track/2yytJT4iyWa0KY2H2JlCRC"
     },
     {
       "album": {

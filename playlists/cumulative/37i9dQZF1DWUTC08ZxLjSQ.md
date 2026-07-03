@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Sine\. Artwork: Isu Kim
 
-535 songs - 1 day 4 hr 2 min
+537 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Dahab](https://open.spotify.com/track/0PlRoi7FmoL2d9yY1H2hEZ) | [Syco](https://open.spotify.com/artist/7E4EnfxLfQkcMdPKrWxlxH), [Dekv](https://open.spotify.com/artist/2IkwG2Xq4Rn90snBMjZCOy) | [Dahab](https://open.spotify.com/album/5XokvpN2Rl5HGZGPNaUVJZ) | 3:13 | 2026-05-05 |  |
 | [Dalida](https://open.spotify.com/track/4Bw1x4YbA4XzGevMbkXtpV) | [S13](https://open.spotify.com/artist/0dLg7JuytJrkyJ9M841KYC), [Shr](https://open.spotify.com/artist/31G6pp1Vk8pLxASeTsGRCp), [LHAJ](https://open.spotify.com/artist/1Rn9VGYBgWB83nWmPAU0I7) | [The Plug](https://open.spotify.com/album/5VqYWDvAaCb7OdNW0qy0Km) | 2:44 | 2025-12-17 |  |
 | [DAMEER!](https://open.spotify.com/track/5FP2wHFoWlA80LNTFNEdRU) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw) | [DAMEER!](https://open.spotify.com/album/7KGjRjpARm8HMm87LgdXJ6) | 2:12 | 2024-01-16 | 2024-06-27 |
+| [Dance Alone](https://open.spotify.com/track/3sc82QBKHxvlrfViVcB0Y3) | [Shargeeya](https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK) | [Dance Alone](https://open.spotify.com/album/0Ts002kjMTggkzlrM0oaVa) | 2:29 | 2026-07-02 |  |
 | [DARWIN](https://open.spotify.com/track/2GWgo7f6OoHeyTxVb1GCWT) | [ELOSTAR](https://open.spotify.com/artist/484KAzc1DrK9bEQSre9h7a) | [DARWIN](https://open.spotify.com/album/0w0DiMTpyCepzJLOVnQxiP) | 2:24 | 2025-10-16 |  |
 | [DAWAMA](https://open.spotify.com/track/5NZ8tIcWKIyrJvSJBOc485) | [Mazyn](https://open.spotify.com/artist/1MJhIfVlwyrtzcrC9x2IaA) | [HOWA](https://open.spotify.com/album/4NkoVXTwjGoMCdVfc54w6p) | 2:43 | 2026-05-05 |  |
 | [Dayman Faker](https://open.spotify.com/track/3xVm2gJc4IiA9JZ48VWNyp) | [Sine](https://open.spotify.com/artist/1MQryKKB1q19LauQsB4GzI) | [Dayman Faker](https://open.spotify.com/album/0tHDV5WZRAv3Zo4Q0Mbm4m) | 3:11 | 2024-01-31 | 2024-06-27 |
@@ -190,6 +191,7 @@
 | [Hostage](https://open.spotify.com/track/0lJAsKOeHSBFj6X5msB21b) | [Areej](https://open.spotify.com/artist/08Dn6q1Vgbc3Vg16tRx2Ef) | [GBOF EP](https://open.spotify.com/album/1Ypxz2UMMhqVbrM48yNCQP) | 3:38 | 2022-11-08 | 2023-04-05 |
 | [Hours Before](https://open.spotify.com/track/09q1UGBV3en2NpEjeiK70A) | [Laila Beshara](https://open.spotify.com/artist/1jLZGIAr5dV3MrPxe4EKJD) | [Hours Before](https://open.spotify.com/album/3gUN37tZtyrH6kvabudnF7) | 2:13 | 2023-01-24 | 2023-03-02 |
 | [How stupid is this?](https://open.spotify.com/track/3dcRnj7wvnhpSdEE3fyTzL) | [The C!rcle](https://open.spotify.com/artist/0O2a7rwD6h8c5atrT84A5F) | [How stupid is this?](https://open.spotify.com/album/3ZxRnhdZ5hJbrrZfPveQDL) | 4:32 | 2023-03-14 | 2023-08-02 |
+| [Hurricane](https://open.spotify.com/track/3mYWELVxu1PlXqAziN4cES) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [Hurricane](https://open.spotify.com/album/6eadTAgMKpk7EAVRvWXazJ) | 2:23 | 2026-07-02 |  |
 | [HYSTERIA](https://open.spotify.com/track/0GBdCAzoO1nQdTl0ajJCul) | [PAPII](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [HYSTERIA](https://open.spotify.com/album/4EKOsj9YWElPfGuDNaxM48) | 2:28 | 2023-03-21 | 2023-08-02 |
 | [I Ask Nothing Of You](https://open.spotify.com/track/7LrMz49Z4NeadIuUA6Gtgn) | [HanyMust](https://open.spotify.com/artist/74gb4hJFDs0sGCwa5Zhxfp) | [I Ask Nothing Of You](https://open.spotify.com/album/2cauSAqpSU8lH3Y5Ntyl1i) | 3:55 | 2023-08-01 | 2023-10-05 |
 | [I DON'T MIND](https://open.spotify.com/track/2yeO5NYsvOJxMSpjpR6LwJ) | [Groovy Naj](https://open.spotify.com/artist/6d2Syl3W8TINc6MSCoQc0W) | [I DON'T MIND](https://open.spotify.com/album/2bMbRYeZN47qNdQy9ofTQk) | 3:19 | 2022-12-13 | 2023-03-15 |
@@ -287,7 +289,7 @@
 | [MAYBE](https://open.spotify.com/track/3CvYWahCnpUZENXen3KuRm) | [Khaleeji Blonde](https://open.spotify.com/artist/7CQ4LU9FOCvhabssN8fbYt), [REDD Nine](https://open.spotify.com/artist/3RZ8kpxXH8uKpzQI6Rt1pt) | [MAYBE](https://open.spotify.com/album/6Pxc7DoXnVBuHvFBcBODPJ) | 3:03 | 2022-09-20 | 2023-01-18 |
 | [Maybelline](https://open.spotify.com/track/1MDTKxx1WtO0kqXg0wbwTP) | [Mosalem](https://open.spotify.com/artist/0GAz4YKcVJUZHWQxvQit51), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [Maybelline](https://open.spotify.com/album/29BLOMEe1K0m2BDyQfBLPk) | 3:07 | 2025-02-17 | 2025-12-25 |
 | [Me & I](https://open.spotify.com/track/4mTtIpMRM24YE2wXQjqB20) | [Delrady](https://open.spotify.com/artist/3xIa8QlZN7Qy7HVEyN1iVP) | [Me & I](https://open.spotify.com/album/5yFRQNF9WFXhtQwmHH4lvn) | 3:20 | 2024-07-09 | 2024-10-31 |
-| [Me vs Me](https://open.spotify.com/track/5CMUepX7SK54Qcu9Izwbyr) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [Me vs Me](https://open.spotify.com/album/155Q6KeC5LqtwdFTFYKVUa) | 1:57 | 2026-06-16 |  |
+| [Me vs Me](https://open.spotify.com/track/5CMUepX7SK54Qcu9Izwbyr) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [Me vs Me](https://open.spotify.com/album/155Q6KeC5LqtwdFTFYKVUa) | 1:57 | 2026-06-16 | 2026-07-03 |
 | [Mermaid datni l'darha](https://open.spotify.com/track/5DUguL7lB4cREG7LUjntlU) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r) | [ODE.](https://open.spotify.com/album/0pZ3DLUZg5QWIFHTpRUmWM) | 3:16 | 2022-12-13 | 2023-05-10 |
 | [Mesh assef](https://open.spotify.com/track/0IpW4bdat4oWMYc1zLGkaW) | [Kahareb](https://open.spotify.com/artist/4aTviAzgeJt2fOMZF1FXnB) | [Mesh assef](https://open.spotify.com/album/7ebyUIpo86c9WqIYZfeSQI) | 3:36 | 2022-09-20 | 2022-09-28 |
 | [Mesh Gaya](https://open.spotify.com/track/3ztuvByx4cybDWeKGJ4uZ6) | [Malak Badawi](https://open.spotify.com/artist/3M5I3VKr6qexIoscSAWaUm) | [Mesh Gaya](https://open.spotify.com/album/6glWVUQgbdgoVsyByML0O6) | 2:36 | 2024-05-22 | 2024-09-12 |
@@ -399,7 +401,7 @@
 | [Shams](https://open.spotify.com/track/28SXiBx1PK0E8cnpxBuZoq) | [3yooni](https://open.spotify.com/artist/6YoB73qJnT7MgkHcV53x1d) | [Shams](https://open.spotify.com/album/0KeHPXmyhc0OnogTjL0ALf) | 3:41 | 2024-08-13 | 2024-11-07 |
 | [Shams](https://open.spotify.com/track/2cxPQqNhII3kta4S1Wq0ga) | [Nour Harkati](https://open.spotify.com/artist/0LFvN0ZSf92CMb00teZdYJ) | [Shams](https://open.spotify.com/album/6ZUBxaMA0lBhepxO0tERaJ) | 2:22 | 2024-06-26 | 2024-10-02 |
 | [Shar](https://open.spotify.com/track/3P2kcZwsngegqgCMyfiEtE) | [Zelci](https://open.spotify.com/artist/0yuuL1bDTmVwdqpKzVAkUx) | [Shar](https://open.spotify.com/album/3RfZOrxXtIjR0aaR7OIsQs) | 2:36 | 2024-09-11 | 2024-11-27 |
-| [Shargeeya!](https://open.spotify.com/track/2SRGSFyInuOAIdJmzGOlWp) | [Shargeeya](https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK) | [Shargeeya!](https://open.spotify.com/album/3ZwKkJtBjpTaexWlF5QPiV) | 2:11 | 2025-12-17 |  |
+| [Shargeeya!](https://open.spotify.com/track/2SRGSFyInuOAIdJmzGOlWp) | [Shargeeya](https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK) | [Shargeeya!](https://open.spotify.com/album/3ZwKkJtBjpTaexWlF5QPiV) | 2:11 | 2025-12-17 | 2026-07-03 |
 | [SHI YOUM](https://open.spotify.com/track/5tRkSiBQIratndFW0vEyYp) | [Nawal](https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV) | [SHI YOUM](https://open.spotify.com/album/2ywLVuySYv49ljRVcGRbdh) | 3:17 | 2025-01-22 | 2025-09-25 |
 | [SHIKA SHYAKA](https://open.spotify.com/track/7q38eXaAnnVFZPLFZNu1e5) | [Shikago](https://open.spotify.com/artist/54LaKdog6976vaviJ1JoWH) | [SHIKA SHYAKA](https://open.spotify.com/album/0CpyR13JBqQuX5zxuuzzzR) | 2:27 | 2025-02-17 | 2025-10-08 |
 | [Shoot](https://open.spotify.com/track/5G6GMEcuuw92z2Co6YhYBv) | [Dony](https://open.spotify.com/artist/5SPuVApDsQW9TH1UyFWtWu) | [SWITCH](https://open.spotify.com/album/3sMRt8a54GIJliuYwdnv0K) | 2:24 | 2025-08-07 | 2026-05-06 |

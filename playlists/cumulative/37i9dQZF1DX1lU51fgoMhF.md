@@ -2,9 +2,9 @@
 
 ### [Summer K\-Pop Hits \(썸머 히트\)](https://open.spotify.com/playlist/37i9dQZF1DX1lU51fgoMhF)
 
-> Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: Hearts2Hearts\)
+> Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: Dayoung\)
 
-411 songs - 22 hr 18 min
+412 songs - 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [REALLY REALLY](https://open.spotify.com/track/02UNF1uo5f0UNgc1qx5XGt) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [FATE NUMBER FOR](https://open.spotify.com/album/5hmezEZaQ7D0ntBA9J76kb) | 3:23 | 2021-11-17 | 2026-05-26 |
 | [REALLY REALLY](https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [FATE NUMBER FOR](https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0) | 3:23 | 2022-07-27 | 2024-04-19 |
 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 | 2021-11-17 | 2026-05-26 |
-| [Red Hot Chili Summer](https://open.spotify.com/track/0lQmvAEjJsdt8u2dO0NOGN) | [YEOJIN\(L∞na\)](https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe) | [Lv2](https://open.spotify.com/album/7MFsCPjOUFHtLZu87S9yWw) | 2:46 | 2026-06-24 |  |
+| [Red Hot Chili Summer](https://open.spotify.com/track/0lQmvAEjJsdt8u2dO0NOGN) | [YEOJIN\(L∞na\)](https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe) | [Lv2](https://open.spotify.com/album/7MFsCPjOUFHtLZu87S9yWw) | 2:46 | 2026-06-24 | 2026-07-03 |
 | [RED SUN \(With LOTTE DEPARTMENT STORE\)](https://open.spotify.com/track/3HIAlVUMAsg2WzSvxETFbi) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [RED SUN \(With LOTTE DEPARTMENT STORE\)](https://open.spotify.com/album/5NdzPZhyIA3JaEpSqq9JM3) | 3:23 | 2021-11-17 | 2023-07-21 |
 | [Reference](https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Room Vol.1](https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt) | 3:41 | 2022-07-04 | 2024-06-17 |
 | [RIDE OR DIE](https://open.spotify.com/track/5KqAJUGnfeUgBOdEGoYL7J) | [KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [Eric Minz](https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo) | [RIDE OR DIE](https://open.spotify.com/album/63bRGOQ1sHPNltuaF51LDW) | 3:15 | 2024-06-07 | 2024-07-03 |
@@ -402,6 +402,7 @@
 | [What I Want](https://open.spotify.com/track/252hKOfH7papkuhNV8oq7o) | [NiiHWA](https://open.spotify.com/artist/1OY65G9NJJHsSt1lGLZU6q) | [Mad Dog, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/762yxxN19ca3Gvw2O3BJhx) | 3:18 | 2021-11-17 | 2022-06-13 |
 | [What If](https://open.spotify.com/track/0KMhnkCiGtCQhYtAy7QS9l) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [There And Back Again](https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1) | 2:44 | 2022-01-09 | 2024-06-29 |
 | [What You Waiting For](https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/59iiiARciChm70cn85wxuH) | 2:55 | 2021-11-17 | 2026-05-26 |
+| [What's a girl to do](https://open.spotify.com/track/1JymZBT39MAPXffPcKkaPW) | [DAYOUNG](https://open.spotify.com/artist/5SQHuBLqaasC50vOL9s8Mz) | [What's a girl to do](https://open.spotify.com/album/1hywbmcXqc373aldNqWUIS) | 2:10 | 2026-07-02 |  |
 | [When You Call My Name](https://open.spotify.com/track/1e6OozrLhrFOit0DsCPTv2) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [GATEWAY](https://open.spotify.com/album/5mSkyxRRofx2WkVaij09sW) | 3:29 | 2021-11-17 | 2024-06-06 |
 | [Whistle](https://open.spotify.com/track/7iKbV28gTF43LAeovwznXT) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:43 | 2022-06-08 | 2022-08-13 |
 | [Who Am I](https://open.spotify.com/track/05FIKEv2c1TiKGzx6uK37S) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [MOMENT](https://open.spotify.com/album/5Lfy8FTaRJzo7vMgnwyuOD) | 3:26 | 2021-11-17 | 2022-07-23 |

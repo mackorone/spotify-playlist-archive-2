@@ -4,7 +4,7 @@
 
 > The best in Dancehall for the gyaldem\. Cover: Jada Kingdom
 
-214 songs - 10 hr 53 min
+216 songs - 10 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,9 +32,10 @@
 | [Blessed \(with Tyga\)](https://open.spotify.com/track/5imCvF3VHty1TZ0qaE1JEj) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Blessed \(with Tyga\)](https://open.spotify.com/album/7aTeShQY6NnCiFmjYluvcl) | 2:28 | 2021-10-24 | 2022-07-29 |
 | [Bouncing \(feat\. Jada Kingdom\)](https://open.spotify.com/track/5t1niULed9CjX17UXs17e6) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Scorcha](https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5) | 3:00 | 2022-08-18 | 2023-05-16 |
 | [Brik Pan Brik](https://open.spotify.com/track/5HaRoqxb0Y4aMW347qhTPG) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Brik Pan Brik](https://open.spotify.com/album/3L6LtJCp5c3O3X7K2NMkDW) | 2:40 | 2023-05-15 | 2025-10-11 |
+| [BRUCKSWEAT](https://open.spotify.com/track/4RgwqFlAfzSiDC71CQrZRF) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [BRUCKSWEAT](https://open.spotify.com/album/2m3HYs6Ojn3jXuA6DcLJYj) | 3:08 | 2026-07-02 |  |
 | [Bubble](https://open.spotify.com/track/0Wszs6jrBwK0YO2vYLb1We) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Gemini](https://open.spotify.com/album/4TGkpeR5mcuh4C3Nnw1gM8) | 3:20 | 2023-05-15 | 2024-04-19 |
 | [Bubble](https://open.spotify.com/track/2kksFG87MypmLRTw8laNY9) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Gemini](https://open.spotify.com/album/4zpuo5gvZ9Ncqliyl5ReeH) | 3:20 | 2021-10-24 | 2022-08-19 |
-| [Budum](https://open.spotify.com/track/4yGNNviGXeLZlf70IwWwEK) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Budum](https://open.spotify.com/album/63u5t3q4Bxvpy2DTvOWaVo) | 2:45 | 2021-10-24 |  |
+| [Budum](https://open.spotify.com/track/4yGNNviGXeLZlf70IwWwEK) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Budum](https://open.spotify.com/album/63u5t3q4Bxvpy2DTvOWaVo) | 2:45 | 2021-10-24 | 2026-07-03 |
 | [Bumpa](https://open.spotify.com/track/3tZEeX4uToXoW3xeUQWin8) | [Lisa Mercedez](https://open.spotify.com/artist/2uL8gbwzpTKZKSNcCTHm0p) | [Bumpa](https://open.spotify.com/album/3nccXj310EwGo2VYTjjpMU) | 2:02 | 2021-10-24 | 2022-06-29 |
 | [Bun Fi Bun \(Fast\)](https://open.spotify.com/track/4Ta2BdlUeRsSdQARipaDTq) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/71ktd6XTxLmI4VoQ8q7w5Z) | 2:29 | 2023-05-15 |  |
 | [Bun Fi Bun \- Fast](https://open.spotify.com/track/4ZpTLINWb1RLoHluCLwkeT) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/322pCqxSFt8u8938IUrFC3) | 2:29 | 2023-05-15 | 2024-04-19 |
@@ -130,6 +131,7 @@
 | [Nah Stress](https://open.spotify.com/track/1tuBVTFKYa8IRV2Ytqjuq0) | [Starrr Doll](https://open.spotify.com/artist/5P55RMLldbMtwYzUjtwkxt) | [Naked Weapon Riddim](https://open.spotify.com/album/3erQkmWoGbhs6n0xVhygNy) | 2:36 | 2022-08-18 | 2022-11-12 |
 | [Nah Stress](https://open.spotify.com/track/6rYAP7Aelt5szvBQRiUvwp) | [Starrr Doll](https://open.spotify.com/artist/5P55RMLldbMtwYzUjtwkxt) | [Naked Weapon Riddim](https://open.spotify.com/album/47QoJ4DrFTgwpzLZxEklwv) | 2:36 | 2022-08-18 | 2023-05-16 |
 | [Needle Eye](https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Needle Eye](https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv) | 3:05 | 2021-10-24 |  |
+| [NERVOUS](https://open.spotify.com/track/2tKgNrygongIZ3Ava9xW0x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [NERVOUS](https://open.spotify.com/album/43sikXY0GVXf17J5A88YKu) | 2:41 | 2026-07-02 |  |
 | [No Gyal](https://open.spotify.com/track/1ImihjOlex6Hj7eH4Zhujs) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [The Red Room Intro \(Yard Gyal Inna Britain\)](https://open.spotify.com/album/0x2r34IBmG1VXaOZK7TRTH) | 2:58 | 2021-10-24 | 2022-07-28 |
 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 | 2023-05-15 |  |
 | [No Limit](https://open.spotify.com/track/5D8ChOpWBYGR5R1NFDhL1z) | [Moyann](https://open.spotify.com/artist/5XV9d7Ee7IuJrday4LIpKc), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [No Limit](https://open.spotify.com/album/48yig5ryaViHZ3Rh3itItz) | 2:38 | 2021-10-24 |  |
@@ -187,7 +189,7 @@
 | [Tek It To Dem](https://open.spotify.com/track/3zcWzER3p0LGZtk37wF1qj) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Tek It To Dem](https://open.spotify.com/album/6MmmobXINMtOkz7yfSaknm) | 3:19 | 2021-10-24 |  |
 | [Tek Weh Yuhself](https://open.spotify.com/track/6PWhaGqUfwAXX7MyRluOAu) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [The Biggest Ragga Dancehall Anthems 2007](https://open.spotify.com/album/7ddsTEh3W8FDNKQx0QJrxx) | 2:56 | 2021-10-24 |  |
 | [Temptation Overdrive](https://open.spotify.com/track/5zf0CYU9MiRH6Ejc5FXWq4) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Temptation Overdrive](https://open.spotify.com/album/1i56EpwFCUPthAsOFqouzg) | 3:09 | 2021-10-24 | 2022-07-28 |
-| [The Sidechick Song](https://open.spotify.com/track/75Z53FMCvlupjHfAh9XgDo) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [The Sidechick Song](https://open.spotify.com/album/0LUbxj9I4VJIVui4m2UGhC) | 3:13 | 2021-10-24 |  |
+| [The Sidechick Song](https://open.spotify.com/track/75Z53FMCvlupjHfAh9XgDo) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [The Sidechick Song](https://open.spotify.com/album/0LUbxj9I4VJIVui4m2UGhC) | 3:13 | 2021-10-24 | 2026-07-03 |
 | [TIP \(The Party\)](https://open.spotify.com/track/7JN94B0MwRWK4GuX7n7dhM) | [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [TIP \(The Party\)](https://open.spotify.com/album/6xe51V9sFd0wq04oXxa7Gy) | 2:20 | 2021-10-24 | 2022-07-28 |
 | [Toast](https://open.spotify.com/track/3VEpRXloN4rbzNRPSQzZFW) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Toast](https://open.spotify.com/album/5wrjX4P4iirfltdwKC3VOc) | 3:11 | 2021-10-24 | 2022-07-29 |
 | [Toast](https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Rapture EP](https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI) | 3:11 | 2021-10-24 | 2025-01-10 |

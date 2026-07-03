@@ -1,12 +1,12 @@
 {
   "description": "New music by Future, Tyler The Creator and Pooh Shiesty with GloRilla. ",
-  "num_followers": 15698235,
+  "num_followers": 15697137,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFAOQCgxiWQO7C1kNUqEvDWY/QiY",
+  "snapshot_id": "AAAAAOLbH4/exZKRh3PY7zT/MdkX6Wu4",
   "tracks": [
     {
       "added_at": "2026-06-29 18:10:40",
@@ -167,6 +167,26 @@
       "duration_ms": 225954,
       "name": "Piece Of Your Love",
       "url": "https://open.spotify.com/track/2hlmmhPIYS8XkRxq2Que6U"
+    },
+    {
+      "added_at": "2026-07-02 04:00:37",
+      "album": {
+        "name": "It Was Written",
+        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
+      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
     },
     {
       "added_at": "2026-06-29 18:10:40",

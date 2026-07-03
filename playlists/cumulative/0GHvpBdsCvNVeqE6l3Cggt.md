@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-133 songs - 7 hr 42 min
+134 songs - 7 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 | 2021-03-29 |  |
 | [TimeCrime](https://open.spotify.com/track/1WElW0gy1V24q1fBgpkY2t) | [ANGELO](https://open.spotify.com/artist/6TDcDHUYcKAmqdabRHToIG) | [TimeCrime](https://open.spotify.com/album/5yY39wwz23Q12w97VdlwKY) | 3:34 | 2026-03-02 | 2026-03-17 |
 | [Toadstool Fairies](https://open.spotify.com/track/2Vjpi5uwnbtdTNDzbfW3sI) | [Maya Malik](https://open.spotify.com/artist/0Rz4fK9N5rV5Sjsu5RLwtF) | [Toadstool Fairies](https://open.spotify.com/album/3qdgFm8fC6VQxuWYylDUTT) | 3:06 | 2025-11-08 | 2025-11-27 |
+| [Torn Apart](https://open.spotify.com/track/51OI5w469NmM9ryTo4NUnQ) | [Elastic Skies](https://open.spotify.com/artist/4jkUxKT4fAB0Dl63hZqiNc) | [II](https://open.spotify.com/album/3jEGsiUz61h7REHkE2cMJt) | 2:18 | 2026-07-02 |  |
 | [Train Tracks](https://open.spotify.com/track/2F772qCRXyHYKvAKTIXXud) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Enchanted](https://open.spotify.com/album/3ClfQCfOsysGWFKSQGN2bt) | 2:24 | 2025-10-13 |  |
 | [True Love In A Box](https://open.spotify.com/track/2YF9ebvz0WC8WKc1JhLJMZ) | [Poppet](https://open.spotify.com/artist/5NxeyUJjImfscVwBPw1LF1) | [True Love In A Box](https://open.spotify.com/album/3DfrbTALDG6bBRHlA0rILy) | 2:07 | 2026-02-13 | 2026-03-06 |
 | [True North](https://open.spotify.com/track/092Z1yGLAFCEBtqmRtpWaX) | [MEERKEIME](https://open.spotify.com/artist/1jDLEyYY7Y17UFRFixE0vT) | [Unmoored](https://open.spotify.com/album/7seOQf6Fwg0G8K4n1ceQo4) | 4:03 | 2026-02-03 | 2026-02-22 |

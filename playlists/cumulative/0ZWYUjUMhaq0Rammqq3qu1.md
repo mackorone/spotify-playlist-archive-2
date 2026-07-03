@@ -4,7 +4,7 @@
 
 > It's time to go: Breakup\. New job\. Death of a loved one\. New state \- or new country\. Whatever sparks YOUR Moving Day, this is your soundtrack for all the fond farewells, the act of leaving the past behind, the fresh starts, the new beginnings \- and the complete unknown ahead\. Move on!
 
-1,441 songs - 3 day 14 hr 10 min
+1,442 songs - 3 day 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -988,6 +988,7 @@
 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 | 2026-02-03 | 2026-03-04 |
 | [rockstar \(feat\. 21 Savage\)](https://open.spotify.com/track/0e7ipj03S05BNilyu5bRzt) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [beerbongs & bentleys](https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR) | 3:38 | 2021-07-02 | 2022-09-13 |
 | [ROCKSTAR \(feat\. Roddy Ricch\)](https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:01 | 2021-07-02 | 2022-09-13 |
+| [Roll Me Away](https://open.spotify.com/track/3MqgFVRerrpqWHdRopk247) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [The Distance](https://open.spotify.com/album/0uaavZx8ako3Kb6GFpb1G1) | 4:39 | 2026-07-02 |  |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2025-09-16 | 2025-11-06 |
 | [Romeo and Juliet](https://open.spotify.com/track/7r9Fix8OaMvWDqRegk1bPu) | [Loren Heat](https://open.spotify.com/artist/43Fg9z6zfjmsHQOwexx7wt) | [Romeo and Juliet](https://open.spotify.com/album/4zbim017hQnJr4c9eyvMwN) | 3:14 | 2026-04-16 | 2026-05-02 |
 | [Room On The Porch \[Feat\. Ruby Amanfu\]](https://open.spotify.com/track/0H1wDrRjC8VBO0mQNwQM9l) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F), [Ruby Amanfu](https://open.spotify.com/artist/1lpu6LF7kS0bfnu43pi2u0) | [Room On The Porch](https://open.spotify.com/album/6EALtPtZMwrtaKVOtvJFg7) | 4:05 | 2026-07-01 |  |

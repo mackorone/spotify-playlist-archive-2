@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "Be Your Own Light",
+        "url": "https://open.spotify.com/album/1josl5iemh7bLwOudMYZtj"
+      },
+      "artists": [
+        {
+          "name": "Catch A Glimpse",
+          "url": "https://open.spotify.com/artist/4J13Jfs2DcCPH6YETlpquK"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282352,
+      "name": "Be Your Own Light",
+      "url": "https://open.spotify.com/track/7IWEy1oMlW4Ua2YG8t0Kms"
+    },
+    {
+      "album": {
         "name": "D\u0103 Mai Tare",
         "url": "https://open.spotify.com/album/5pTjaoL3v19LE6bQ8a0SNO"
       },
@@ -1048,7 +1066,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 386261,
       "name": "Blue",
       "url": "https://open.spotify.com/track/5BRv38laitXilURqULV2nH"
@@ -1470,6 +1488,24 @@
       "duration_ms": 298000,
       "name": "Catastrophism",
       "url": "https://open.spotify.com/track/20oqsLciQZKyK4KIhRa9nZ"
+    },
+    {
+      "album": {
+        "name": "House Of Shadows",
+        "url": "https://open.spotify.com/album/2ET2fVloindvlCrtVAu84g"
+      },
+      "artists": [
+        {
+          "name": "Dan Fearon",
+          "url": "https://open.spotify.com/artist/3qGPLapNg04OVN7m8gQoaW"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Cave Of Sorrows",
+      "url": "https://open.spotify.com/track/0EGn0yNC0BCD8CsSLbMOhW"
     },
     {
       "album": {
@@ -2530,7 +2566,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 192796,
       "name": "Dissipate",
       "url": "https://open.spotify.com/track/7A4hYrGdnScu1Z6sZMqA8b"
@@ -3676,7 +3712,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 168263,
       "name": "Fade",
       "url": "https://open.spotify.com/track/3jWK5AftB2MVpdVLQ0d5BV"
@@ -3964,7 +4000,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 192214,
       "name": "Farlig",
       "url": "https://open.spotify.com/track/7iJWmbm3MOQrJt2GTqbG0r"
@@ -4476,7 +4512,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 149538,
       "name": "Gin N Tonic",
       "url": "https://open.spotify.com/track/4lRrtbKHGIYXWGtP0i7F9K"
@@ -4928,7 +4964,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 190080,
       "name": "Henda i v\u00e6ret",
       "url": "https://open.spotify.com/track/3ZkTnTIwiOP5PZ9SQLgUdH"
@@ -5476,7 +5512,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 223862,
       "name": "I've been There",
       "url": "https://open.spotify.com/track/3GwfRlpH6Fo1w6DUWRxDj1"
@@ -5656,7 +5692,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 366389,
       "name": "Insecurity",
       "url": "https://open.spotify.com/track/5DvTDrVcrfsfUWRQ9THC85"
@@ -5692,7 +5728,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 206400,
       "name": "InstantFamous",
       "url": "https://open.spotify.com/track/1UWvvHX3bsjWvPek8odHae"
@@ -5836,7 +5872,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 191525,
       "name": "It's Just A Photograph",
       "url": "https://open.spotify.com/track/5xGHNR6pRld5A2hC0ZpQT8"
@@ -7884,7 +7920,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 299896,
       "name": "My Remains",
       "url": "https://open.spotify.com/track/2CgUeZgikS4M19YwxgxLte"
@@ -8458,7 +8494,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 380040,
       "name": "Oar on the Mooring",
       "url": "https://open.spotify.com/track/5HmC1C2dsvkJrVTKzFhhD8"
@@ -8664,7 +8700,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-15",
+      "date_removed": null,
       "duration_ms": 223663,
       "name": "One Chance",
       "url": "https://open.spotify.com/track/7eJiTUS9FthmhEL9qOrisn"
@@ -8916,7 +8952,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 338747,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/3ErzdaWtq7GJvLN0VfPFh5"
@@ -10320,7 +10356,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 242946,
       "name": "Skuggorna p\u00e5 v\u00e4gen hem",
       "url": "https://open.spotify.com/track/3W5sENHWeCZzchAAzaqVNG"
@@ -10590,7 +10626,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 161036,
       "name": "Song For The Hanged Man - 2023 Remaster",
       "url": "https://open.spotify.com/track/4SN0uYAxfgbKyruepzAvEs"
@@ -12008,7 +12044,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 193500,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/60tVvB34IfKDBqq0lbAdZr"
@@ -12026,7 +12062,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -12272,7 +12308,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 174481,
       "name": "The Year Of The Snake",
       "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
@@ -12438,7 +12474,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 206083,
       "name": "Time",
       "url": "https://open.spotify.com/track/67dBdEclgI36iWZmd9YjRU"
@@ -12608,7 +12644,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 168574,
       "name": "Touch The Sky",
       "url": "https://open.spotify.com/track/2mwTI5QWepywqsrp4YG6QL"
@@ -13172,7 +13208,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 282133,
       "name": "Verschworen (Metropolis Remaster)",
       "url": "https://open.spotify.com/track/3nmFptZo0VDSeIps4eL6SO"
@@ -13742,7 +13778,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 186458,
       "name": "When Will It Be",
       "url": "https://open.spotify.com/track/2akBaHPtjCrlIkH1sP2ICN"
@@ -14150,7 +14186,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 129210,
       "name": "You Wanted War",
       "url": "https://open.spotify.com/track/77IBEDDiQn7theCjCciL4v"
@@ -14222,7 +14258,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 190128,
       "name": "Your Voice",
       "url": "https://open.spotify.com/track/5IxEX1Y98L9087btcAQ6n0"
@@ -14356,7 +14392,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 217667,
       "name": "Zwischen Dreck Und Licht",
       "url": "https://open.spotify.com/track/4B55PaipFFMirV00ewuTmE"

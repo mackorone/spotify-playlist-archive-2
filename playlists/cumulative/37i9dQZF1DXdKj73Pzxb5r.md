@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Pertunjukan
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: FILM.
 
-556 songs - 1 day 11 hr 24 min
+557 songs - 1 day 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -252,6 +252,7 @@
 | [Kami menunggu di rumah](https://open.spotify.com/track/0NzelkE62thDbPrqHnFWvC) | [CVX](https://open.spotify.com/artist/3YDAdiXuKjmL0SsiCr1eyz) | [Kami menunggu di rumah](https://open.spotify.com/album/32v4lS8SJTglQQcQ2VbvcP) | 3:27 | 2024-12-13 | 2025-03-15 |
 | [Kamu Makannya Apa Kok Cakep Gini](https://open.spotify.com/track/0CyR3bo7ZN5yVxX8UeRKp1) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Kamu Makannya Apa Kok Cakep Gini](https://open.spotify.com/album/5QY2H0YEbkn1CsJh6oQQq8) | 1:35 | 2025-04-25 | 2025-10-24 |
 | [Kanvas Abadi](https://open.spotify.com/track/1mDKprPxJ192KWJAfhPa7j) | [kidunghara](https://open.spotify.com/artist/6aNEwNrod9qI0UZO69awmo), [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS) | [Kanvas Abadi](https://open.spotify.com/album/5uIPiOk9zYLhZOhA6cZElU) | 4:06 | 2025-06-12 | 2025-08-22 |
+| [Karena \(Ku Tak Tahu\)](https://open.spotify.com/track/2ihXhGecD4eWgHORk03DLN) | [FILM.](https://open.spotify.com/artist/68nVbpdYAVfDDejsFw53k8) | [Manuskrip](https://open.spotify.com/album/6i5FXTvYFvPClPtyRj0Q7P) | 5:01 | 2026-07-03 |  |
 | [Kasian](https://open.spotify.com/track/1lbwSWK60uOB2QSdRLCt79) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi), [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Kasian](https://open.spotify.com/album/6Tx905hXzlQb53nciXKlXH) | 2:37 | 2024-06-27 | 2024-09-06 |
 | [Kau Juga Semua Orang](https://open.spotify.com/track/1kHwwUrZcYFJEvrHXs033s) | [tradeto](https://open.spotify.com/artist/6Sp5KtLrCKSA0eLp0sHptK) | [Kau Juga Semua Orang](https://open.spotify.com/album/0adacAyhmRl1AxSOpKpLOc) | 3:15 | 2025-07-03 | 2025-10-03 |
 | [Kebosanan Usia Dini](https://open.spotify.com/track/3BWtIkxLAflGxVjEdxP2uB) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum) | [Fase I : Disonansi](https://open.spotify.com/album/2m40Y6zQKB6o8CbyhoUtKX) | 2:45 | 2026-06-05 |  |

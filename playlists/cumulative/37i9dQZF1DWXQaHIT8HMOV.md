@@ -2,9 +2,9 @@
 
 ### [Made In Uganda](https://open.spotify.com/playlist/37i9dQZF1DWXQaHIT8HMOV)
 
-> Homegrown Ugandan gems in one playlist\. Cover: Nessim, Ava Peace & Elijah Kitaka
+> Homegrown Ugandan gems in one playlist\. Cover: Joshua Baraka
 
-586 songs - 1 day 5 hr 43 min
+590 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Hear My Voice](https://open.spotify.com/track/7MLfFJqkurN7OCdzvrDg8o) | [Jon Muq](https://open.spotify.com/artist/5zAZlJoWriAEhhOlm96vPe) | [Hear My Voice](https://open.spotify.com/album/5delMUtBzP4fopPU2iwu49) | 2:31 | 2025-03-28 | 2025-08-15 |
 | [Heaven](https://open.spotify.com/track/08NbaJzQmSLatzDlLpJNK8) | [Chxf Barry](https://open.spotify.com/artist/4vMmIzBBucgN0Hend2wz0S), [Soundlykbb](https://open.spotify.com/artist/2izHnGuv9KzbPbfX6KsoTG) | [Heaven](https://open.spotify.com/album/7DxPLFSU3FjpaRAYad3sPN) | 2:21 | 2025-04-11 | 2025-07-04 |
 | [Hey](https://open.spotify.com/track/5xUqCEP8fRDq1EBJb5IJC6) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Hey](https://open.spotify.com/album/6NDwf4CASUqLMn55RoslsR) | 2:47 | 2022-09-30 | 2022-12-01 |
+| [Higher](https://open.spotify.com/track/1yEKQX8sfr2cFg9tefoeo1) | [Omega 256](https://open.spotify.com/artist/4fqAceCbd2x3635AFs6nmD) | [Higher](https://open.spotify.com/album/3WP9YgY6pINPUd8hAdZqst) | 3:15 | 2026-07-02 |  |
 | [Hooked \- Radio Edit](https://open.spotify.com/track/7DMW3nH4tB10ybyaOa45in) | [Kyle Simbwa](https://open.spotify.com/artist/4sOo09fZMkwujtUh9PU4Nn) | [Hooked \(Radio Edit\)](https://open.spotify.com/album/2r1lCVrMGtBvXz43uYYSJC) | 2:32 | 2024-10-03 | 2025-03-07 |
 | [Hoozambe](https://open.spotify.com/track/2wUYg8gvMUnx1jbekCUso7) | [Mudra D'Viral](https://open.spotify.com/artist/5QYFEa8H6MtxI6FC2jC4MR), [D Star Music](https://open.spotify.com/artist/2yAfPHamEOSCHGu4sBTYW5), [King Toppa](https://open.spotify.com/artist/0R70tgeUv5WB6GWxAUawO3) | [Hoozambe](https://open.spotify.com/album/7aAvoYl2zoRldwWiS8i2od) | 2:46 | 2026-01-15 | 2026-03-20 |
 | [Hope & Love](https://open.spotify.com/track/0UVcJBW1VTyZdatMIIZDSm) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Mehran Matin](https://open.spotify.com/artist/1KACciSrDXwslNgUAqefUg) | [Hope & Love](https://open.spotify.com/album/4oUaOH6S4AXEPK8BTQCY1M) | 3:05 | 2025-08-15 | 2026-03-27 |
@@ -273,6 +274,7 @@
 | [Love \- Remix](https://open.spotify.com/track/5yef0whc1psSC6RDmE5ObC) | [Teslah](https://open.spotify.com/artist/29d1gtSpXDMaZLyvHIZw4u), [Jaz On The Beat](https://open.spotify.com/artist/4K9uuaA2QxgKJtSX7uSwkf) | [Love \(Remix\)](https://open.spotify.com/album/7e5K2OZi6p0jEVRySYDEU0) | 3:02 | 2022-05-12 | 2022-08-20 |
 | [Love Elinye](https://open.spotify.com/track/5jNgRd1BxQfdvcHUZzqOjO) | [Sheem Mwanje](https://open.spotify.com/artist/6kAKlTejAGPE7GBPYGsTDm) | [Love Elinye](https://open.spotify.com/album/3RIGBO58QA7ai6bLnna6jR) | 2:41 | 2025-08-08 | 2025-09-26 |
 | [Love Ganja](https://open.spotify.com/track/2openNGxPDRNjXFH1gA2Y1) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Song Boss](https://open.spotify.com/artist/4RSS0a9hCcQaAADJ67MxtG) | [Love Ganja](https://open.spotify.com/album/6oYTwznr45f7cUSgMT5iCK) | 2:13 | 2024-02-02 | 2024-03-13 |
+| [Love Like That](https://open.spotify.com/track/3ulbAcstspFbIoqo4jIeyt) | [Lilian Mbabazi](https://open.spotify.com/artist/3D2otsWvaxitDohO6yZbC7) | [Love Like That](https://open.spotify.com/album/2BVt6g9T1A2DREvMFSb6CI) | 3:27 | 2026-07-02 |  |
 | [Love Marijuana](https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS) | [C\. Wyne Nalukalala](https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Love Marijuana](https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1) | 3:48 | 2022-12-02 | 2023-08-12 |
 | [Love Me Louder](https://open.spotify.com/track/744ZnCPlVjykfTcKtG6CkY) | [Caxah](https://open.spotify.com/artist/4MwwSASxavJVh1l0um3etk) | [Love Me Louder](https://open.spotify.com/album/32r6gRBRcK6L67CVRNkhzN) | 3:06 | 2026-06-18 |  |
 | [Love Panic](https://open.spotify.com/track/6GsmmktXyxR506YZ2xzmvm) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Love Panic](https://open.spotify.com/album/71DOoQ56te8DF7tqQq7rn3) | 3:04 | 2024-03-15 | 2024-04-06 |
@@ -414,6 +416,7 @@
 | [Onina](https://open.spotify.com/track/5QvxlKXDj7yaYU5gUkXbWM) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Onina](https://open.spotify.com/album/5FAG9hafjiW7PQhAAzK4rR) | 2:47 | 2025-08-21 |  |
 | [Only You](https://open.spotify.com/track/6G7pOzNocRnRigGynUgrKP) | [Tracie UG](https://open.spotify.com/artist/3aiGkLgNvUdSQjPdlXelw6), [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Only You](https://open.spotify.com/album/1X7VdpscX61RBRxZJzwDFl) | 3:04 | 2023-02-03 | 2023-03-26 |
 | [Onoozina](https://open.spotify.com/track/7CKNfjd9FA3ll9MrF5xEJb) | [Nina Roz](https://open.spotify.com/artist/5kLs8AtvdqLkXMRJtbhdXh) | [Onoozina](https://open.spotify.com/album/4YOy8mwEBEM98SbTIfoAG3) | 3:22 | 2024-06-13 | 2025-04-18 |
+| [Onzise](https://open.spotify.com/track/7cU1fpwLnqy0e6KO2Zk1yl) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT), [Rema namakula](https://open.spotify.com/artist/2444nM3S18PKjvdsXNNLdr) | [Onzise](https://open.spotify.com/album/7d9jpcUHr9VTG2LyNYRqRx) | 2:51 | 2026-07-02 |  |
 | [Oouuh](https://open.spotify.com/track/3UuGbtOErjt3X0gQiIPO67) | [Mugaba](https://open.spotify.com/artist/1EBLonfYVb5s9f047W2CS6), [Vinci Vybz](https://open.spotify.com/artist/6N7PI6eQUaQm4lZHDqnQuW) | [Oouuh](https://open.spotify.com/album/0hrr3LFE855N3EZ0cNHEoK) | 2:12 | 2025-10-17 | 2026-01-16 |
 | [Osobola](https://open.spotify.com/track/3Bz6rWbCF6dPyGZUWnfq4q) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb) | [Osobola](https://open.spotify.com/album/6Y0mGvsjLUQUb2E7twJlws) | 3:13 | 2022-08-05 | 2022-10-06 |
 | [Osobola](https://open.spotify.com/track/6YelPUEUNYf0o7vipnvZgl) | [Emilian Starz](https://open.spotify.com/artist/2S7N3sP6mqXp5yyu82QWOb) | [Osobola](https://open.spotify.com/album/7o055OuUVkYJlLrmDE0SMC) | 3:13 | 2022-09-30 | 2022-10-07 |
@@ -577,6 +580,7 @@
 | [Wendi](https://open.spotify.com/track/3UgrtbRvmUyDbaarznoFmm) | [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [Wendi](https://open.spotify.com/album/17KmXQUvQCcKua31joQiwf) | 2:53 | 2026-04-16 |  |
 | [WEPIME](https://open.spotify.com/track/2fLiZwIebf7QCvId2iJFe1) | [Pallaso](https://open.spotify.com/artist/6U4AfG84hnUE6pzjoS1cz5) | [WEPIME](https://open.spotify.com/album/2NolbbbRQxdohbAjAOQ9Zo) | 2:33 | 2026-04-02 | 2026-06-19 |
 | [Wesudiya](https://open.spotify.com/track/6k856Fpj5VGtxwRdni0kcz) | [Deejay Crim](https://open.spotify.com/artist/3qYLieejswTVwmM04g4DHR), [Roger Kent](https://open.spotify.com/artist/37UJ1iyn5ShgY90OGMpxPy) | [Wesudiya](https://open.spotify.com/album/19z4YtKy1zu1Chk8bUuUye) | 3:01 | 2024-06-21 | 2024-08-09 |
+| [what do i know](https://open.spotify.com/track/4f8n33TNaDSEl9alg3OyPF) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [what do i know](https://open.spotify.com/album/5zt3FqkSfRiMLSbUPbaMaF) | 2:38 | 2026-07-02 |  |
 | [Where I Go](https://open.spotify.com/track/2FU8JRZMQ6il2cj4iqbH4Z) | [Jesse10s](https://open.spotify.com/artist/6oOIGUtyWVdPoJmgOE1bGH), [DJ Victor256](https://open.spotify.com/artist/3enYxNCiWcZ1ad6K5QIioX) | [Where I Go](https://open.spotify.com/album/7I7WhvKLyyg0ZdN0VdiE4L) | 2:55 | 2022-09-30 | 2023-02-01 |
 | [Where You Are](https://open.spotify.com/track/1apSJXGmuUZliVfkdpKnXg) | [Jozzi Uganda](https://open.spotify.com/artist/3H4d85m6pJn0VfXvCl3vC3), [Dny Beats](https://open.spotify.com/artist/593Mfhbg9mGoxnOtU9nzfP), [ZEUS BNM](https://open.spotify.com/artist/7f6OK6Hhaha76pJL0AjPr2) | [Where You Are](https://open.spotify.com/album/5gLYplsE0rg5935U23lvCH) | 3:22 | 2023-09-07 | 2024-05-10 |
 | [Whine](https://open.spotify.com/track/4pTML0pgOyaVCtD1FUUi9A) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Weasel](https://open.spotify.com/artist/6bbBW2Vzm66qGixSATiwJs) | [Whine](https://open.spotify.com/album/5K24e3yL1z69UyCIg73XBj) | 2:41 | 2024-06-13 | 2024-10-11 |

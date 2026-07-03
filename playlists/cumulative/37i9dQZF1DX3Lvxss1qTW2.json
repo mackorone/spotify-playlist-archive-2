@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. Up Next: Taves",
+  "description": "The future hits of today. Up Next: Ekene",
   "name": "NXT",
   "tracks": [
     {
@@ -356,6 +356,24 @@
       "duration_ms": 141609,
       "name": "Accelerate",
       "url": "https://open.spotify.com/track/5xJah6P5U51Y4iytUIiUGV"
+    },
+    {
+      "album": {
+        "name": "Achalugo",
+        "url": "https://open.spotify.com/album/4ycq8yiWE613U1GdpZdsJL"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167941,
+      "name": "Achalugo",
+      "url": "https://open.spotify.com/track/4FurdNM9yVvG1yY2JuUH6o"
     },
     {
       "album": {
@@ -1833,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6A8NgDp8BJR3tZEi268RiP"
+      },
+      "artists": [
+        {
+          "name": "Amaeya",
+          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "BE",
+      "url": "https://open.spotify.com/track/2RMChoPeNN7CaPUD4QfsED"
+    },
+    {
+      "album": {
         "name": "Be There",
         "url": "https://open.spotify.com/album/0loewuIMEtSl5gKPzQmfpM"
       },
@@ -2222,7 +2258,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 205128,
       "name": "BOBO",
       "url": "https://open.spotify.com/track/3ojkCh9xRGNUihupY3Tb8o"
@@ -2452,7 +2488,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 180959,
       "name": "Bother Me (feat. Victony)",
       "url": "https://open.spotify.com/track/2JpcOAR1EGQSxFOVnYCMl0"
@@ -7580,7 +7616,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 128495,
       "name": "JIGGLE",
       "url": "https://open.spotify.com/track/6kSNvau2G1L3qxsyMB3LaT"
@@ -9591,6 +9627,28 @@
     },
     {
       "album": {
+        "name": "Money (feat. Scottyolorin)",
+        "url": "https://open.spotify.com/album/19LOy9jhWSbcmKU50Ql196"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Money (feat. Scottyolorin)",
+      "url": "https://open.spotify.com/track/5xHTQE15LbvdqtfNdBTIqF"
+    },
+    {
+      "album": {
         "name": "Niggas From The South",
         "url": "https://open.spotify.com/album/7MUP19rxDwxNnNlD69dyAe"
       },
@@ -9832,7 +9890,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 244210,
       "name": "Mufasa",
       "url": "https://open.spotify.com/track/1saZkUqEDDsyk8WAWEP4XL"
@@ -11361,6 +11419,28 @@
     },
     {
       "album": {
+        "name": "Baby Thug",
+        "url": "https://open.spotify.com/album/1ZH9KYQn8yCLh4FBlkGNw1"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Pami",
+      "url": "https://open.spotify.com/track/5HKje6lrhbvyyeVfZqWGlU"
+    },
+    {
+      "album": {
         "name": "Panic",
         "url": "https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv"
       },
@@ -12113,6 +12193,28 @@
     },
     {
       "album": {
+        "name": "Little Us",
+        "url": "https://open.spotify.com/album/2LV09CJsc3g7pf5IiODyB4"
+      },
+      "artists": [
+        {
+          "name": "EKENE",
+          "url": "https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP"
+        },
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172303,
+      "name": "Relations (feat. Braye)",
+      "url": "https://open.spotify.com/track/017OPL77HUwYyPONagEQ2E"
+    },
+    {
+      "album": {
         "name": "Reset (feat. Crayon & Bella Shmurda)",
         "url": "https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA"
       },
@@ -12748,7 +12850,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 121729,
       "name": "Sexxy",
       "url": "https://open.spotify.com/track/0ygRuI0xU5t6z4wCekD8UW"
@@ -13034,6 +13136,40 @@
       "duration_ms": 166730,
       "name": "Side",
       "url": "https://open.spotify.com/track/6HsnEHAUGWzjnbbBdcWq11"
+    },
+    {
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/6Cc8Wz02Yz6fOdk7myVXT4"
+      },
+      "artists": [
+        {
+          "name": "Mavins",
+          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
+        },
+        {
+          "name": "Sevn",
+          "url": "https://open.spotify.com/artist/7xmYqgsWMr5KmKmS2IU6KZ"
+        },
+        {
+          "name": "Lovn",
+          "url": "https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws"
+        },
+        {
+          "name": "Egertton",
+          "url": "https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV"
+        },
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186902,
+      "name": "Signs",
+      "url": "https://open.spotify.com/track/6LyFvZ6wvb6nac7WaO2bLC"
     },
     {
       "album": {
@@ -13338,7 +13474,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 142709,
       "name": "Sorry I'm Busy",
       "url": "https://open.spotify.com/track/7MsGvKF7W1W07vlp7cbEsZ"
@@ -13572,7 +13708,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 150873,
       "name": "Stormy",
       "url": "https://open.spotify.com/track/3DzpYzuUkuQwnCMJ2xThwD"
@@ -14292,7 +14428,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 144020,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/1yjQwZznEOdV0A2MxcWLgw"

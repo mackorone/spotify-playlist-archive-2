@@ -920,7 +920,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 173367,
       "name": "Scintillate",
       "url": "https://open.spotify.com/track/0I8lF4sOSnxssc99KxcBqU"
@@ -1004,6 +1004,36 @@
       "duration_ms": 112013,
       "name": "Stories & Studies",
       "url": "https://open.spotify.com/track/0tKmZJqFwmQ539WrqWrMYM"
+    },
+    {
+      "album": {
+        "name": "Sunrise at Mount Fuji",
+        "url": "https://open.spotify.com/album/1fyTJhCf41lyaM3lva5rTd"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
+        },
+        {
+          "name": "Hideyuki Mochizuki",
+          "url": "https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139506,
+      "name": "Sunrise at Mount Fuji",
+      "url": "https://open.spotify.com/track/3wtEF6gOrkS1DTT3BPMWdA"
     },
     {
       "album": {

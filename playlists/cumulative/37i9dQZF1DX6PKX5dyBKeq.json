@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: EsDeeKid",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: J Hus",
   "name": "Rap UK",
   "tracks": [
     {
@@ -24522,7 +24522,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 113142,
       "name": "LIFE IN THE BABYLON",
       "url": "https://open.spotify.com/track/1fZcX51UcKzTgWZ1iALi6V"
@@ -28316,6 +28316,24 @@
       "duration_ms": 140733,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB"
+    },
+    {
+      "album": {
+        "name": "Moonlight / Clean Run",
+        "url": "https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200477,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ"
     },
     {
       "album": {
@@ -38755,6 +38773,24 @@
     },
     {
       "album": {
+        "name": "SKATE WHEELS",
+        "url": "https://open.spotify.com/album/5ygRwirPPMuGcDHWbQyoKT"
+      },
+      "artists": [
+        {
+          "name": "Paul Stephan",
+          "url": "https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156606,
+      "name": "SKATE WHEELS",
+      "url": "https://open.spotify.com/track/43RnMZpOmhV28qnQNQ15hD"
+    },
+    {
+      "album": {
         "name": "Skeem Set",
         "url": "https://open.spotify.com/album/5rQM7qRMF6Yqdy4hTyzcrh"
       },
@@ -41240,7 +41276,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 140800,
       "name": "Survival",
       "url": "https://open.spotify.com/track/0IHOkJ0NcDJRPBoCJJbyij"

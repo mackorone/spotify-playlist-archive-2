@@ -1,6 +1,6 @@
 {
   "description": "Conc\u00e9ntrate al m\u00e1ximo, sin distracciones.",
-  "num_followers": 436368,
+  "num_followers": 436389,
   "original_name": "Concentraci\u00f3n Perfecta",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Inside A Dream",
-        "url": "https://open.spotify.com/album/4fBcXrjPHQBdmeYLJELc0l"
-      },
-      "artists": [
-        {
-          "name": "Thiago Izan",
-          "url": "https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "Inside A Dream",
-      "url": "https://open.spotify.com/track/0zq6pkcCyyzmzOz6EF6EY2"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Lysithea",
         "url": "https://open.spotify.com/album/0j6dhJ8LwkmtCbTOYMdTH3"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 134512,
       "name": "Lysithea",
       "url": "https://open.spotify.com/track/4XBdquxpnwZRjFiM55TRkQ"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Inside A Dream",
+        "url": "https://open.spotify.com/album/4fBcXrjPHQBdmeYLJELc0l"
+      },
+      "artists": [
+        {
+          "name": "Thiago Izan",
+          "url": "https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt"
+        }
+      ],
+      "duration_ms": 145952,
+      "name": "Inside A Dream",
+      "url": "https://open.spotify.com/track/0zq6pkcCyyzmzOz6EF6EY2"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Br\u00fblante",
-        "url": "https://open.spotify.com/album/61xylbaTzrl6BCKITSXEFN"
-      },
-      "artists": [
-        {
-          "name": "Lucien Valli\u00e8re",
-          "url": "https://open.spotify.com/artist/4JmBqZlqb5nwbJYRYe4l5G"
-        }
-      ],
-      "duration_ms": 144434,
-      "name": "Br\u00fblante",
-      "url": "https://open.spotify.com/track/1odAiMcVPK2ICByCZ47Uxk"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Nostrella",
         "url": "https://open.spotify.com/album/6mnbS5euvB84IagWWvESNB"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 156321,
       "name": "Nostrella",
       "url": "https://open.spotify.com/track/0LH9FWqGcPXzwZ3yTDhjXS"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Br\u00fblante",
+        "url": "https://open.spotify.com/album/61xylbaTzrl6BCKITSXEFN"
+      },
+      "artists": [
+        {
+          "name": "Lucien Valli\u00e8re",
+          "url": "https://open.spotify.com/artist/4JmBqZlqb5nwbJYRYe4l5G"
+        }
+      ],
+      "duration_ms": 144434,
+      "name": "Br\u00fblante",
+      "url": "https://open.spotify.com/track/1odAiMcVPK2ICByCZ47Uxk"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "The Seventh Wave",
-        "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
-      },
-      "artists": [
-        {
-          "name": "Colias Fieldii",
-          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
-        }
-      ],
-      "duration_ms": 128088,
-      "name": "The Seventh Wave",
-      "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Time Is a River",
         "url": "https://open.spotify.com/album/35yjbZXzQHCSflB1ocHKub"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 162116,
       "name": "Time Is a River",
       "url": "https://open.spotify.com/track/6V2bLU0kshksarML59YS4U"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "The Seventh Wave",
+        "url": "https://open.spotify.com/album/2fuIB47RUiieeW834wdide"
+      },
+      "artists": [
+        {
+          "name": "Colias Fieldii",
+          "url": "https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v"
+        }
+      ],
+      "duration_ms": 128088,
+      "name": "The Seventh Wave",
+      "url": "https://open.spotify.com/track/4rRjQydi87TheoZVntdiER"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -971,18 +971,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Noct\u00e9",
-        "url": "https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK"
+        "name": "The Opening",
+        "url": "https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb"
       },
       "artists": [
         {
-          "name": "Van Kahloo",
-          "url": "https://open.spotify.com/artist/2We8E0eZ1LBJexjxeMFzCn"
+          "name": "M\u00f3ret Labino",
+          "url": "https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP"
         }
       ],
-      "duration_ms": 141818,
-      "name": "Noct\u00e9",
-      "url": "https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7"
+      "duration_ms": 140558,
+      "name": "The Opening",
+      "url": "https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "The Opening",
-        "url": "https://open.spotify.com/album/0bsAKVLQlW0IpVYZtOmCxb"
+        "name": "Noct\u00e9",
+        "url": "https://open.spotify.com/album/6c93p8mX7rQtckEI2waoYK"
       },
       "artists": [
         {
-          "name": "M\u00f3ret Labino",
-          "url": "https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP"
+          "name": "Van Kahloo",
+          "url": "https://open.spotify.com/artist/2We8E0eZ1LBJexjxeMFzCn"
         }
       ],
-      "duration_ms": 140558,
-      "name": "The Opening",
-      "url": "https://open.spotify.com/track/5usmLdjDelMj2inEm5MmAP"
+      "duration_ms": 141818,
+      "name": "Noct\u00e9",
+      "url": "https://open.spotify.com/track/0o83HI5x861cqRsFcRT3U7"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Sogni di Positano",
-        "url": "https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x"
+        "name": "In Case",
+        "url": "https://open.spotify.com/album/2SyTi9C27bjnovD0Ba8WB5"
       },
       "artists": [
         {
-          "name": "Nascondiglio",
-          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
         }
       ],
-      "duration_ms": 207111,
-      "name": "Sogni di Positano",
-      "url": "https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY"
+      "duration_ms": 166817,
+      "name": "In Case",
+      "url": "https://open.spotify.com/track/3VBHL1iyA6xSym5kRBvng1"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "In Case",
-        "url": "https://open.spotify.com/album/2SyTi9C27bjnovD0Ba8WB5"
+        "name": "Sogni di Positano",
+        "url": "https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x"
       },
       "artists": [
         {
-          "name": "Ren Lockhart",
-          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
         }
       ],
-      "duration_ms": 166817,
-      "name": "In Case",
-      "url": "https://open.spotify.com/track/3VBHL1iyA6xSym5kRBvng1"
+      "duration_ms": 207111,
+      "name": "Sogni di Positano",
+      "url": "https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
+        "name": "Felt Improvisations",
+        "url": "https://open.spotify.com/album/4hjtToG3IRrxVpfo6BiQaX"
+      },
+      "artists": [
+        {
+          "name": "Elias Kiefer",
+          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
+        }
+      ],
+      "duration_ms": 163812,
+      "name": "Felt Improv No. 10",
+      "url": "https://open.spotify.com/track/67821VRXVngHwGDcs2IKy3"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
         "name": "Making peace",
         "url": "https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 143034,
       "name": "Making peace",
       "url": "https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
-        "name": "Into the Unknown",
-        "url": "https://open.spotify.com/album/38EOJDVjA48a1OsabohitZ"
-      },
-      "artists": [
-        {
-          "name": "Lexi Bradley",
-          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
-        }
-      ],
-      "duration_ms": 159739,
-      "name": "Into the Unknown",
-      "url": "https://open.spotify.com/track/6xhu6te5zJFLn4sgavp5Xz"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1339,34 +1339,18 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Felt Improvisations",
-        "url": "https://open.spotify.com/album/4hjtToG3IRrxVpfo6BiQaX"
+        "name": "Into the Unknown",
+        "url": "https://open.spotify.com/album/38EOJDVjA48a1OsabohitZ"
       },
       "artists": [
         {
-          "name": "Elias Kiefer",
-          "url": "https://open.spotify.com/artist/1zCiyHNwt0y29fTHrBvamB"
+          "name": "Lexi Bradley",
+          "url": "https://open.spotify.com/artist/1CvuYflvQR5lwg1WzrhKAm"
         }
       ],
-      "duration_ms": 163812,
-      "name": "Felt Improv No. 10",
-      "url": "https://open.spotify.com/track/67821VRXVngHwGDcs2IKy3"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
-        "name": "Campania",
-        "url": "https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8"
-      },
-      "artists": [
-        {
-          "name": "Gilded Reverie",
-          "url": "https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym"
-        }
-      ],
-      "duration_ms": 141014,
-      "name": "Campania",
-      "url": "https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9"
+      "duration_ms": 159739,
+      "name": "Into the Unknown",
+      "url": "https://open.spotify.com/track/6xhu6te5zJFLn4sgavp5Xz"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1383,6 +1367,22 @@
       "duration_ms": 146515,
       "name": "Only Illusions",
       "url": "https://open.spotify.com/track/4012c458CqXwqUCv4RLlRj"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Campania",
+        "url": "https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8"
+      },
+      "artists": [
+        {
+          "name": "Gilded Reverie",
+          "url": "https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym"
+        }
+      ],
+      "duration_ms": 141014,
+      "name": "Campania",
+      "url": "https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Daffodils",
-        "url": "https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs"
-      },
-      "artists": [
-        {
-          "name": "Chad Hammond",
-          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Daffodils",
-      "url": "https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Southern Air",
         "url": "https://open.spotify.com/album/6q7W9ZSRvSUvxR8PF1be6G"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 226835,
       "name": "Southern Air",
       "url": "https://open.spotify.com/track/1WiDUpSUjuQkOzOCvbSkzY"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Daffodils",
+        "url": "https://open.spotify.com/album/2McYGbue7ucLoac2dHLYWs"
+      },
+      "artists": [
+        {
+          "name": "Chad Hammond",
+          "url": "https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Daffodils",
+      "url": "https://open.spotify.com/track/4JHlWtvac2EIxLMa8mMyQc"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Sound Of Mind",
-        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
-      },
-      "artists": [
-        {
-          "name": "Macan Moreira",
-          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
-        }
-      ],
-      "duration_ms": 122998,
-      "name": "Sound Of Mind",
-      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Autumnal",
         "url": "https://open.spotify.com/album/7a7f6qmks202aOFuAfomMM"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 124416,
       "name": "Autumnal",
       "url": "https://open.spotify.com/track/6i653T49GCokF7aFcgG76h"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Sound Of Mind",
+        "url": "https://open.spotify.com/album/2dqXzH1k1etLj9Bmx17Rjk"
+      },
+      "artists": [
+        {
+          "name": "Macan Moreira",
+          "url": "https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ"
+        }
+      ],
+      "duration_ms": 122998,
+      "name": "Sound Of Mind",
+      "url": "https://open.spotify.com/track/4zLErnaWoRXh91YcWZ2LKy"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "It Rained Last Night",
-        "url": "https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo"
-      },
-      "artists": [
-        {
-          "name": "Casimir Roux",
-          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
-        }
-      ],
-      "duration_ms": 132509,
-      "name": "It Rained Last Night",
-      "url": "https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Quiet Steps",
         "url": "https://open.spotify.com/album/5MvMdWhiBnZj815YxnQvqP"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 125968,
       "name": "D\u00e9lise",
       "url": "https://open.spotify.com/track/7sTIuY89Vgtb67PdM1awJK"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "It Rained Last Night",
+        "url": "https://open.spotify.com/album/73mKfLumY5sjLlVD0B6gVo"
+      },
+      "artists": [
+        {
+          "name": "Casimir Roux",
+          "url": "https://open.spotify.com/artist/1IOFwDA1p2w7uEVaKXvHXW"
+        }
+      ],
+      "duration_ms": 132509,
+      "name": "It Rained Last Night",
+      "url": "https://open.spotify.com/track/6qyDcsKoXj1wI26xlXSljM"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "fallen leaves",
-        "url": "https://open.spotify.com/album/5WACx3ToU3nizu4plI5ldW"
-      },
-      "artists": [
-        {
-          "name": "Koshun Nakao",
-          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
-        }
-      ],
-      "duration_ms": 151900,
-      "name": "fallen leaves",
-      "url": "https://open.spotify.com/track/0sYfmKsl5ebxiUhJHLxmeK"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Steady",
         "url": "https://open.spotify.com/album/5vXDx8lXDSDCz4TGJ3Yahp"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 140592,
       "name": "Steady",
       "url": "https://open.spotify.com/track/6Wo45l5WHTJzJsc2JwvsuF"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "fallen leaves",
+        "url": "https://open.spotify.com/album/5WACx3ToU3nizu4plI5ldW"
+      },
+      "artists": [
+        {
+          "name": "Koshun Nakao",
+          "url": "https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz"
+        }
+      ],
+      "duration_ms": 151900,
+      "name": "fallen leaves",
+      "url": "https://open.spotify.com/track/0sYfmKsl5ebxiUhJHLxmeK"
     },
     {
       "added_at": "2026-05-29 04:00:30",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-05-29 04:00:30",
       "album": {
-        "name": "Nowhere",
-        "url": "https://open.spotify.com/album/6qKgI8XrspuFdKoIMZx8OQ"
-      },
-      "artists": [
-        {
-          "name": "Aubrey Lo",
-          "url": "https://open.spotify.com/artist/4elUDNmdnkDoBslirNXZf5"
-        }
-      ],
-      "duration_ms": 136750,
-      "name": "Nowhere",
-      "url": "https://open.spotify.com/track/13ZdrqLb7T8qeZktOecD6I"
-    },
-    {
-      "added_at": "2026-05-29 04:00:30",
-      "album": {
         "name": "Emanate",
         "url": "https://open.spotify.com/album/7Eb7FSjOX0Tf9GTtHW8XuS"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 179281,
       "name": "Emanate",
       "url": "https://open.spotify.com/track/0X4e6EoRi8NyVoCsJIbYz8"
+    },
+    {
+      "added_at": "2026-05-29 04:00:30",
+      "album": {
+        "name": "Nowhere",
+        "url": "https://open.spotify.com/album/6qKgI8XrspuFdKoIMZx8OQ"
+      },
+      "artists": [
+        {
+          "name": "Aubrey Lo",
+          "url": "https://open.spotify.com/artist/4elUDNmdnkDoBslirNXZf5"
+        }
+      ],
+      "duration_ms": 136750,
+      "name": "Nowhere",
+      "url": "https://open.spotify.com/track/13ZdrqLb7T8qeZktOecD6I"
     },
     {
       "added_at": "2026-05-29 04:00:30",

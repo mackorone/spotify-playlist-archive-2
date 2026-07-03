@@ -8551,6 +8551,24 @@
     },
     {
       "album": {
+        "name": "There I Go",
+        "url": "https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156555,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/4NUEiSUy1L3HhIEteIcJeB"
+    },
+    {
+      "album": {
         "name": "Wish You Well",
         "url": "https://open.spotify.com/album/0kSjjQeVeJRmfZzochjKIO"
       },
@@ -8562,7 +8580,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 156640,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/4ohvE3g8odEvv3aIZ3T70n"

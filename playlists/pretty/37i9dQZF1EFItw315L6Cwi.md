@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 | 28 | [AUF ERNST](https://open.spotify.com/track/0DECiuzVbz9t52gx3qNzO0) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Wilmersdorfs Kind](https://open.spotify.com/album/1bhPhPgQJxQS7KvDQa4tDd) | 2:29 |
 | 29 | [Lindenberg](https://open.spotify.com/track/2chjwLPFuaT95BbYYqjHNm) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [Freitag der 13.](https://open.spotify.com/album/2bu4H49Po6Jk5NDXInKdEM) | 2:27 |
 | 30 | [Dreh den auf](https://open.spotify.com/track/6AJxMwlPrmTOpSpYL2XJko) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 2:40 |
-| 31 | [Mr\. Olympia \- Bonus](https://open.spotify.com/track/4d9lc7Tpskg2i7rNVHhWSh) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Eljero Winchester](https://open.spotify.com/artist/4QdW2CcWnjVdq3deGqX1ZJ) | [Say Less \(Bonus\)](https://open.spotify.com/album/14S5zqF3K8R0XX15aKEXoV) | 3:37 |
-| 32 | [ZAHLTAG](https://open.spotify.com/track/4iIHvqwjvL4MW2KDmatV0H) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:17 |
+| 31 | [ZAHLTAG](https://open.spotify.com/track/4iIHvqwjvL4MW2KDmatV0H) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz) | [KULT](https://open.spotify.com/album/7CIFDR37hKi31m5jfratbz) | 2:17 |
+| 32 | [Mr\. Olympia \- Bonus](https://open.spotify.com/track/4d9lc7Tpskg2i7rNVHhWSh) | [Boondawg](https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz), [Eljero Winchester](https://open.spotify.com/artist/4QdW2CcWnjVdq3deGqX1ZJ) | [Say Less \(Bonus\)](https://open.spotify.com/album/14S5zqF3K8R0XX15aKEXoV) | 3:37 |
 | 33 | [Glitch](https://open.spotify.com/track/1sMIJnKvXXp6SXB0Ko6vPM) | [Gzuz](https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs) | [SCHERBENHAUS](https://open.spotify.com/album/6NmkkyoVSFlXVCHEoT8I7M) | 2:49 |
 | 34 | [YingYang](https://open.spotify.com/track/7qYZK0nHb5HP9wQspRUPvf) | [Gianni Suave](https://open.spotify.com/artist/1krJvMu9OkhIxX5cMoZGLb), [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Ich falle in Frieden](https://open.spotify.com/album/2TRia3Wovx6z3CKqX3wdcX) | 2:45 |
 | 35 | [Nichts hittet mehr](https://open.spotify.com/track/02yiCq5hKu0U8NWdqJDKRv) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [traence](https://open.spotify.com/album/3Oxkc0e9D6eTJUL4e1yiEE) | 3:28 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFItw315L6Cwi.md) - [plain]
 | 98 | [Gas nur mit dir](https://open.spotify.com/track/58m3LEsLbH2ZBJqLZ87vHB) | [Yous39](https://open.spotify.com/artist/5dLEzOHOPykRTvRoan7DBK), [eightyoneace](https://open.spotify.com/artist/6aLtq5w4tLiDEMMBtyDluE) | [Gas nur mit dir](https://open.spotify.com/album/7s3S0KPiQJkpCOhWAUj182) | 2:11 |
 | 99 | [Catwoman](https://open.spotify.com/track/4p2zIDZA4oglBJuPJl6oOF) | [Jano](https://open.spotify.com/artist/7L47OSdJj97aLcHuHVm6k3) | [Catwoman](https://open.spotify.com/album/52SI4Qw2cWcwRV0YNIFHqJ) | 2:16 |
 
-Snapshot ID: `AcVucAAAAABTk0Wog2e9O4sd+kTfC5vu`
+Snapshot ID: `AcV0BgAAAAAhIL3GvbPf3+bNH/PFTsjD`

@@ -141,6 +141,24 @@
     },
     {
       "album": {
+        "name": "50 KM/H",
+        "url": "https://open.spotify.com/album/6HB9QCNuyTlcg5aYfQFb2a"
+      },
+      "artists": [
+        {
+          "name": "YAMAS",
+          "url": "https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171176,
+      "name": "50 KM/H",
+      "url": "https://open.spotify.com/track/23HrCcNRnuPNlAWdQ7tXDj"
+    },
+    {
+      "album": {
         "name": "61 Grad (Deep House RMX)",
         "url": "https://open.spotify.com/album/4lT60ivI572gAiaChQ6cCw"
       },
@@ -230,6 +248,24 @@
       "duration_ms": 162352,
       "name": "About You Now (How I Feel)",
       "url": "https://open.spotify.com/track/3Ipu6e4dwxdt8lmSI27ZFx"
+    },
+    {
+      "album": {
+        "name": "Abriss",
+        "url": "https://open.spotify.com/album/4O37B2tEx4vQQbQwmSLVW7"
+      },
+      "artists": [
+        {
+          "name": "Kai Baum",
+          "url": "https://open.spotify.com/artist/5kp4UMsrN5oZxPnsef59iQ"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136086,
+      "name": "Abriss",
+      "url": "https://open.spotify.com/track/01c8thoi5URg3iWPilFroB"
     },
     {
       "album": {
@@ -850,7 +886,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 139800,
       "name": "BACARDI",
       "url": "https://open.spotify.com/track/2qVhzkAsvytR6K5vXN2K2C"
@@ -1038,6 +1074,24 @@
       "duration_ms": 179805,
       "name": "Bass Boys",
       "url": "https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm"
+    },
+    {
+      "album": {
+        "name": "BASS IST GEIL",
+        "url": "https://open.spotify.com/album/32mRXn7p6ICsNoYf0LAzuJ"
+      },
+      "artists": [
+        {
+          "name": "Filow",
+          "url": "https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170371,
+      "name": "BASS IST GEIL",
+      "url": "https://open.spotify.com/track/3Ms2fk0SbBwqGYP3U1yvRK"
     },
     {
       "album": {
@@ -1960,7 +2014,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 187466,
       "name": "Das allerletzte Mal",
       "url": "https://open.spotify.com/track/0QCqpJMIFxBXwJ7uVPx48T"
@@ -2004,7 +2058,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 160814,
       "name": "Dein Ex",
       "url": "https://open.spotify.com/track/4yeGkxl3AX6duKvU1mk3Jj"
@@ -3238,7 +3292,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 143846,
       "name": "Girl Dinner",
       "url": "https://open.spotify.com/track/5ByU1TXNh8wkeDcpdULcyi"
@@ -4174,7 +4228,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 140326,
       "name": "J\u00dcRGEN KLINSMANN",
       "url": "https://open.spotify.com/track/7tq1Vmap2HLusP6b5rO1y2"
@@ -4446,6 +4500,28 @@
       "duration_ms": 163940,
       "name": "Kommissar",
       "url": "https://open.spotify.com/track/0djjZQPlvpOPNgnWTMVvli"
+    },
+    {
+      "album": {
+        "name": "LA PLENA",
+        "url": "https://open.spotify.com/album/0IuvSeeJ7YWHRbvLnGkK1d"
+      },
+      "artists": [
+        {
+          "name": "Tream",
+          "url": "https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp"
+        },
+        {
+          "name": "Solita",
+          "url": "https://open.spotify.com/artist/5Ob7GHZjaHoaPqHWTD3bvP"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157052,
+      "name": "LA PLENA",
+      "url": "https://open.spotify.com/track/3IBKYKqk4PM7Y3EBv2QsKR"
     },
     {
       "album": {
@@ -5768,7 +5844,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 153614,
       "name": "noch einmal",
       "url": "https://open.spotify.com/track/4X5miU9XyqLBNVzuo7Vo0W"
@@ -7363,6 +7439,24 @@
     },
     {
       "album": {
+        "name": "AUSSENSEiTER SPiTZENREiTER",
+        "url": "https://open.spotify.com/album/6ZarJ2JWZ7fuL2TwKzJrKv"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188698,
+      "name": "TANKE",
+      "url": "https://open.spotify.com/track/10ZR8FehMQghhd9ENZdoNh"
+    },
+    {
+      "album": {
         "name": "tanz tanz tanz",
         "url": "https://open.spotify.com/album/4LpSzszB2gOQ4gSeQ0M6Ki"
       },
@@ -7746,7 +7840,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 176516,
       "name": "Transgender",
       "url": "https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra"
@@ -8055,6 +8149,32 @@
     },
     {
       "album": {
+        "name": "Vielleicht",
+        "url": "https://open.spotify.com/album/2gUY3yVLYly38AP31T638z"
+      },
+      "artists": [
+        {
+          "name": "$ONO$ CLIQ",
+          "url": "https://open.spotify.com/artist/2p0GGGDaJg2xsfwSFBfxWI"
+        },
+        {
+          "name": "Jonko2x",
+          "url": "https://open.spotify.com/artist/6chEDyQBsFDKtHLRLIU4Ke"
+        },
+        {
+          "name": "Radrik Gee",
+          "url": "https://open.spotify.com/artist/4L8VUCcp2bL2swKEBigiaF"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158778,
+      "name": "Vielleicht",
+      "url": "https://open.spotify.com/track/5ZFQvHGT7YzHXjL0m4X4Em"
+    },
+    {
+      "album": {
         "name": "Vielleicht Vielleicht (Holy Priest & elMefti Remix)",
         "url": "https://open.spotify.com/album/11AgvfRovHCABNaX85Ymh1"
       },
@@ -8154,6 +8274,24 @@
       "duration_ms": 168801,
       "name": "Wackelkontakt",
       "url": "https://open.spotify.com/track/4x7j9ed3FRH6CHj27kiTQ3"
+    },
+    {
+      "album": {
+        "name": "Wahnsinn",
+        "url": "https://open.spotify.com/album/0fQliHHAjCjQwywvzWSMkY"
+      },
+      "artists": [
+        {
+          "name": "Mehnersmoos",
+          "url": "https://open.spotify.com/artist/4v1lRzkxvSsxo1JVUxXEOK"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178581,
+      "name": "Wahnsinn",
+      "url": "https://open.spotify.com/track/2pD8Z7SJbz8ROkYDfNOdft"
     },
     {
       "album": {
@@ -8487,6 +8625,28 @@
     },
     {
       "album": {
+        "name": "Wo ist mein Aperol?",
+        "url": "https://open.spotify.com/album/1Y9PlpY9prfmF89eDcg1Gs"
+      },
+      "artists": [
+        {
+          "name": "Fabiasco",
+          "url": "https://open.spotify.com/artist/198MDKtLBeB88c4wAkC2h8"
+        },
+        {
+          "name": "Laura Janik",
+          "url": "https://open.spotify.com/artist/09Sq3GSbfjG1xxkmJRmq0e"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132461,
+      "name": "Wo ist mein Aperol?",
+      "url": "https://open.spotify.com/track/6jSZTv7ITss4tFpDjB1xFE"
+    },
+    {
+      "album": {
         "name": "Won't Forget You",
         "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
       },
@@ -8624,7 +8784,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 137837,
       "name": "Zelten auf Kies",
       "url": "https://open.spotify.com/track/3879mntZAUN5J9ejHjjvpr"

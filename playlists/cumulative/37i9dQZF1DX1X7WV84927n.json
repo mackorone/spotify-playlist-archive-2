@@ -1861,6 +1861,24 @@
     },
     {
       "album": {
+        "name": "Arriba La L",
+        "url": "https://open.spotify.com/album/6RY9EtwiB0SI7vZNcHIPiT"
+      },
+      "artists": [
+        {
+          "name": "Ladrones",
+          "url": "https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223076,
+      "name": "Arriba La L",
+      "url": "https://open.spotify.com/track/1Hl32N6x9KEsSn7FndpDCe"
+    },
+    {
+      "album": {
         "name": "Arrogant Boy",
         "url": "https://open.spotify.com/album/00q7zRjca6khksgPKQoi5F"
       },
@@ -21092,7 +21110,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 224615,
       "name": "Power",
       "url": "https://open.spotify.com/track/0souAacIZZ6PPSSyayapSq"
@@ -26692,7 +26710,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 329723,
       "name": "The End of Us (feat. Black Veil Brides)",
       "url": "https://open.spotify.com/track/22FVOBc45wL0pOUFluCbY7"
@@ -28490,6 +28508,28 @@
       "duration_ms": 211000,
       "name": "To The End",
       "url": "https://open.spotify.com/track/0lPdPLiA9e3fGKHGqIuEvm"
+    },
+    {
+      "album": {
+        "name": "To The End (Feat. Brandon Saller Of Atreyu)",
+        "url": "https://open.spotify.com/album/5b0P4YP5Nya73RYVdZ0V5m"
+      },
+      "artists": [
+        {
+          "name": "Silent Theory",
+          "url": "https://open.spotify.com/artist/5BKEV71K0K8ZhTbNRVRAXR"
+        },
+        {
+          "name": "Brandon Saller",
+          "url": "https://open.spotify.com/artist/12x8XI7ZYpGnKPUzifOxL6"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "To The End (Feat. Brandon Saller Of Atreyu)",
+      "url": "https://open.spotify.com/track/0AdYQs9NMYDE9Cod6KUsr1"
     },
     {
       "album": {

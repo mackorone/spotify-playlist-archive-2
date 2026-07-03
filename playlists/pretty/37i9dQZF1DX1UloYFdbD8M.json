@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Gowry Lekshmi",
-  "num_followers": 40788,
+  "num_followers": 40797,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABt+ZzPG7b63Q/iGy2Yh+z42l/27",
+  "snapshot_id": "AAAAAJNUnNN0ZLnfFpq2VUZlvAQ/Q6T+",
   "tracks": [
     {
       "added_at": "2026-06-24 11:39:34",
@@ -181,6 +181,26 @@
       "url": "https://open.spotify.com/track/4Z0cF2rUYt94lgbM20OaQ8"
     },
     {
+      "added_at": "2026-07-02 11:44:43",
+      "album": {
+        "name": "Aayiram",
+        "url": "https://open.spotify.com/album/4B05JKi6Q5B1kByEI4NKao"
+      },
+      "artists": [
+        {
+          "name": "mubasssok",
+          "url": "https://open.spotify.com/artist/0WYTnBzklB1EUwdBNYO53l"
+        },
+        {
+          "name": "musicbymango",
+          "url": "https://open.spotify.com/artist/0k9smpG7LlLwBjSZA5rFpc"
+        }
+      ],
+      "duration_ms": 227586,
+      "name": "Aayiram",
+      "url": "https://open.spotify.com/track/0jcRhGAfDQqmjaYXlJm2ao"
+    },
+    {
       "added_at": "2026-05-04 12:01:04",
       "album": {
         "name": "Madhaka",
@@ -235,6 +255,30 @@
       "duration_ms": 166153,
       "name": "Ravil Melle",
       "url": "https://open.spotify.com/track/5lBRUGwkC8irqHyIKQRkF9"
+    },
+    {
+      "added_at": "2026-07-02 05:00:32",
+      "album": {
+        "name": "Aardram",
+        "url": "https://open.spotify.com/album/088jk7Y32lDsXwb0DaOUrn"
+      },
+      "artists": [
+        {
+          "name": "Afzal Yusuff",
+          "url": "https://open.spotify.com/artist/5aLx8IMz29yKNh4WFnogsm"
+        },
+        {
+          "name": "Sreelakshmi Santhosh",
+          "url": "https://open.spotify.com/artist/13PCQ5Kzf6gA25QG6zdu0P"
+        },
+        {
+          "name": "Aman Paul George",
+          "url": "https://open.spotify.com/artist/1qGQx9Mff5WqDiap3IVZzJ"
+        }
+      ],
+      "duration_ms": 186124,
+      "name": "Aardram",
+      "url": "https://open.spotify.com/track/6OgVAaUP7en823TphjJJgh"
     },
     {
       "added_at": "2026-06-24 11:39:34",

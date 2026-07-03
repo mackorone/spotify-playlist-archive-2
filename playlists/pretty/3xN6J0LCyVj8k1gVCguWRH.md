@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,424 likes - 208 songs - 12 hr 17 min
+[SoundsDeli](https://open.spotify.com/user/soundsdeli) - 132,430 likes - 187 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,26 +195,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 185 | [Reach](https://open.spotify.com/track/0AWSqrxaIb9sYZ9QN92QQp) | [J Shep](https://open.spotify.com/artist/1rQeh4hmkhuQUE0BNAwOKW) | [REACH](https://open.spotify.com/album/0FtZA9rym4e0EQkmdT4HbT) | 3:07 |
 | 186 | [Chain Of Grace](https://open.spotify.com/track/7dOHBe5zqHBn6QH6JRAFoP) | [Pete Hedrick](https://open.spotify.com/artist/4bLuJ9TdSspsCPQdGTSO5I) | [I Took It All](https://open.spotify.com/album/5Gg4rquBHN3X5c1n6Nwgqt) | 4:38 |
 | 187 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 |
-| 188 | [Step Your Game Up](https://open.spotify.com/track/5umscgErQG678sMrEN09wK) | [Karmàe](https://open.spotify.com/artist/3UpFQ0C3BLzwpwWElWug3p) | [Step Your Game Up](https://open.spotify.com/album/3rihiH3NPEqcPy2gOFIXSn) | 2:09 |
-| 189 | [Told You So](https://open.spotify.com/track/7yTEXnWT1iK4yZDnjcXW44) | [Nashville Exile](https://open.spotify.com/artist/0xj40klGyZ9O4IuPsEUnoc) | [Told You So](https://open.spotify.com/album/4ostMTDnHdFpFpTDoCVrBg) | 5:00 |
-| 190 | [Mourning Light](https://open.spotify.com/track/2wLVS7g0ENJmtrBQxFb3xF) | [Mynd Reader](https://open.spotify.com/artist/2976jTq74lJjk558IAKu2r) | [Mourning Light](https://open.spotify.com/album/4tv7wq0NDZ4WPM6KviIN1O) | 4:14 |
-| 191 | [I Am Meditation](https://open.spotify.com/track/3akIgBB1whZtj7VDSHpbRY) | [Shahla The Artist](https://open.spotify.com/artist/1Dbmvmx3EWny7r3sQKnyEJ) | [I Am Meditation](https://open.spotify.com/album/4XmK6RVaYWighGLmG4Kv9C) | 5:16 |
-| 192 | [IMY](https://open.spotify.com/track/7dI1JNwGGIQMxm3kuTEzcy) | [John Consalvo](https://open.spotify.com/artist/5OdFLNLK6vbX1wZ1U31X2P) | [Voyage on Soulmate Seas](https://open.spotify.com/album/4Us5GDhaaInwhuPXOPPrsT) | 2:31 |
-| 193 | [Over You](https://open.spotify.com/track/0jieIxZJoak92aTmIZUuah) | [Devan](https://open.spotify.com/artist/1PHDGsPZDO6zxPW6nPL4dV) | [Over You](https://open.spotify.com/album/72YYdgyo9TNGb4rsfNqdX0) | 3:41 |
-| 194 | [Lately \- The Club Mix](https://open.spotify.com/track/3o3MNxa5ZFjdNWW8PNqH4t) | [James Gittins](https://open.spotify.com/artist/1fFG6p9ef7TpbVW6t0DLWc) | [Lately \(The Club Mix\)](https://open.spotify.com/album/7wwSpskEsFoZTEmTOEYkgd) | 3:08 |
-| 195 | [In This Video](https://open.spotify.com/track/4yuyTK0x7Ay7RMjbubG1xE) | [Adrian TEMPLAR](https://open.spotify.com/artist/0QJC1sk69pomwnjMOJJcxn) | [In This Video](https://open.spotify.com/album/0WHxoi3UuaqdxCOfWQtvEy) | 4:11 |
-| 196 | [Halfway To Heartache](https://open.spotify.com/track/2YoeO5qYIjSqOqKShgY8Xn) | [AJ Atiee](https://open.spotify.com/artist/6IGCacWEU1RfCxL7Bxxhr6) | [Halfway To Heartache](https://open.spotify.com/album/2mcub0kmJT4K5QT04zCyGs) | 4:04 |
-| 197 | [Love You More](https://open.spotify.com/track/2evhh6YL3clfnunLjeg4ir) | [Clarity Liao](https://open.spotify.com/artist/3z3PRo3Pc9CEAQCPNSHQ0b) | [Love You More](https://open.spotify.com/album/5a1jJARsr9AHhDzRM6dQDI) | 3:44 |
-| 198 | [Whoa Momma](https://open.spotify.com/track/1ikt80KOZVELuF0e5GEESr) | [Frank Lazo](https://open.spotify.com/artist/04bJ3v1VLUrFz24jXHQd9J) | [Whoa Momma](https://open.spotify.com/album/3wTOophBZlzyru6kWUOTtR) | 3:17 |
-| 199 | [New Boots](https://open.spotify.com/track/3Il6GfLRKIRPEzpy4Z8oRv) | [Melissa Quinn Fox](https://open.spotify.com/artist/5ro6qaElOK1HdUJBNgTvtX) | [New Boots](https://open.spotify.com/album/29O2zlviELoVrBQH444cz1) | 3:24 |
-| 200 | [Tell Me I'm Wrong](https://open.spotify.com/track/1yAusybD26fAd88SC4h5oq) | [John F Martin](https://open.spotify.com/artist/5IUP5fYToGhEX2QxIWnQ48) | [Tell Me I'm Wrong](https://open.spotify.com/album/21oH1D0btMrm5x0xnUDfMJ) | 3:38 |
-| 201 | [Feel Everything](https://open.spotify.com/track/3Dsuq8vJG0wWxPgu0eIt4m) | [Diego Fragnaud](https://open.spotify.com/artist/3xmCcjDOVSSJNOHRCMSXET) | [Feel Everything](https://open.spotify.com/album/6VWwhf4OhgObX7NLpbV1iI) | 3:16 |
-| 202 | [Pole Barn](https://open.spotify.com/track/2GrUS1vqVg87sYYs1I9wvW) | [NASH FORD](https://open.spotify.com/artist/61y0LgZN8TlZviKmH1ncrf) | [Pole Barn](https://open.spotify.com/album/4ndTtqwArENGTvn0orO6IV) | 2:14 |
-| 203 | [Big Girl Money](https://open.spotify.com/track/4TKqvlOiZ4NMbN8nrnG1vm) | [HuneyFire](https://open.spotify.com/artist/0sQfQ0RFg4PD4pewfWt4Tc) | [Big Girl Money](https://open.spotify.com/album/0JSm2JXqgWbNy8qbmW33bO) | 2:51 |
-| 204 | [Taking a Gummy](https://open.spotify.com/track/7jxY1frke7sgEOx2ihJVcS) | [jeffrey Stedman](https://open.spotify.com/artist/6XYheIXcQ9qwGHCOtX7YeO) | [Taking a Gummy](https://open.spotify.com/album/2y7pBWCzuyjBy9PQELUbd3) | 2:26 |
-| 205 | [O Tú O Ninguna](https://open.spotify.com/track/6y5YJ9XqCOJ7AeBGRmHkHT) | [CÓRDOBA](https://open.spotify.com/artist/0oRLUzT0ANyp5EXAAo7Vj6) | [O Tú O Ninguna](https://open.spotify.com/album/3sV4ieBptTv4z0aEMh2jWi) | 4:15 |
-| 206 | [Too Much to Ask](https://open.spotify.com/track/0wxso65Z0LIui7YgctlSQP) | [Morning Verses](https://open.spotify.com/artist/3tR3QE3ESLGJ58ZK1P49gV) | [Too Much to Ask](https://open.spotify.com/album/1X3lPuPiM4x2LXrQ6eoBMd) | 3:02 |
-| 207 | [tá bom](https://open.spotify.com/track/1I2SnMggnU9O06CkqFtDaI) | [Lèo Ovalle](https://open.spotify.com/artist/2Zg8wROHfwvag3Qa3ZuD5f) | [tá bom](https://open.spotify.com/album/2FkBNznkpRTydjiAeR0D97) | 2:09 |
-| 208 | [Last Time In Your Eyes](https://open.spotify.com/track/2OrH56dKfhJ5hAgCbq60Wu) | [Maverick First](https://open.spotify.com/artist/2pyYRE2Mw6ZmmxJaFzrA7J) | [Shift My Focus](https://open.spotify.com/album/2fKIYtqDrIXehoi6DdxTrw) | 3:19 |
 
-Snapshot ID: `AAA8OygPR17eFj7Ro7eJwbCmn2GqN/oc`
+Snapshot ID: `AAA8PFcAynFtOXYOF7gHzGwwEMzOsu0d`

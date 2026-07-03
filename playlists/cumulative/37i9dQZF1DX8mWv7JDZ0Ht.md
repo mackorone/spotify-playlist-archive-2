@@ -4,7 +4,7 @@
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Bryan Behr
 
-956 songs - 1 day 23 hr 50 min
+957 songs - 1 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -512,7 +512,7 @@
 | [meu amô chegou](https://open.spotify.com/track/3OQCoAzGLMflBKEML4RLDe) | [Amanda Coronha](https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z), [Tritom](https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg), [Mar.iana](https://open.spotify.com/artist/48vcFBrAdtdJXjVWZKuuwH) | [meu amô chegou](https://open.spotify.com/album/0l3M2JIfMna1QGYI4zZu4Y) | 3:40 | 2024-06-21 | 2024-08-31 |
 | [Meu Bem](https://open.spotify.com/track/75JqbHbQztZgSS3nZEcHU7) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu), [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Meu Bem](https://open.spotify.com/album/1IJ4gunXDSfzjxloxvWY07) | 2:14 | 2025-12-19 | 2026-05-29 |
 | [Meu Bem](https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [A Mágica Por Trás Da Forma](https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE) | 2:13 | 2023-03-17 | 2023-12-02 |
-| [Meu corpo pede](https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u) | [Estevão Félix](https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui) | [Meu Corpo Pede](https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu) | 2:53 | 2025-03-21 |  |
+| [Meu corpo pede](https://open.spotify.com/track/145xL4bCzmtUDz8JBfP18u) | [Estevão Félix](https://open.spotify.com/artist/4KKwxa2esB1M0euBbBDAui) | [Meu Corpo Pede](https://open.spotify.com/album/6GyMWHsdiT8h6G6olgh1Iu) | 2:53 | 2025-03-21 | 2026-07-03 |
 | [Meu Esquema](https://open.spotify.com/track/40vRChgwsAB5kfPlN0Q9wS) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Meu Esquema](https://open.spotify.com/album/47XggkKShQh1cLWhGYOjmi) | 3:08 | 2025-02-21 | 2025-08-16 |
 | [Meu Lugar Preferido](https://open.spotify.com/track/3NV9yZRay0t7MdgtZhDrKq) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Meu Lugar Preferido](https://open.spotify.com/album/6Gr1teEljYdbOU07MxcJ4j) | 2:22 | 2023-12-15 | 2024-04-19 |
 | [Meu Quesito é Saber Viver \- Ao Vivo](https://open.spotify.com/track/27UDhlspddipfQ4y5bE2j1) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [A Bolha Ao Vivo em São Paulo, Pt\. 3](https://open.spotify.com/album/7G7KssIGmmCFxf57ry7Hi1) | 3:19 | 2023-10-27 | 2023-11-18 |
@@ -775,6 +775,7 @@
 | [sera que esse é mesmo o nosso fim?](https://open.spotify.com/track/2Xc19fnMBgpE2ZbguFEApF) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [BASEADO EM FATOS REAIS \(menos as partes que eu inventei\)](https://open.spotify.com/album/5JtKh2HM4KGLj6K0q2hdf1) | 3:03 | 2025-07-18 | 2025-12-05 |
 | [Sereia](https://open.spotify.com/track/4Vp6fTExWK3hPTrY9AkXyq) | [Benziê](https://open.spotify.com/artist/1YC2sOHtayOjFp3hQ8GeSH) | [Pelo mundo](https://open.spotify.com/album/1LdtvPmNJBTpAAKG6ttpym) | 3:16 | 2023-11-10 | 2024-05-18 |
 | [SERENA](https://open.spotify.com/track/4ZxM1fRBKH1IdiKWPE6eZc) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [SERENA](https://open.spotify.com/album/73rAawCkZdweVXlMfHkB51) | 3:09 | 2024-03-22 | 2024-06-01 |
+| [Sessão Da Tarde](https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb), [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN) | [Sessão Da Tarde](https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y) | 3:02 | 2026-07-03 |  |
 | [seu chá](https://open.spotify.com/track/0YpTUiaIrG1Sv5ICeFJGqj) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f) | [seu chá](https://open.spotify.com/album/1JaHjB6V9kTODWTk0t4p55) | 2:48 | 2023-08-22 | 2023-09-16 |
 | [Seu e Só](https://open.spotify.com/track/1RYsDCcabDoTOYN73xVT3l) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Seu e Só](https://open.spotify.com/album/1T7dvcAcWOuBqmzmGF4zCR) | 2:33 | 2026-06-19 |  |
 | [Seu Herói](https://open.spotify.com/track/4fjX60Go7EkJNuUPz2Snqq) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy) | [TUDO VAI SER COMO DEVE SER \(Deluxe\)](https://open.spotify.com/album/33uSEqj6YybfciJaKJlHsb) | 3:22 | 2025-05-16 |  |

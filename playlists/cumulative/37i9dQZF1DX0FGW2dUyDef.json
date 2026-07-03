@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Dinlemekten vazge\u00e7emediklerin ve en yeni hitler.  Kapak: BLOK3",
+  "description": "Dinlemekten vazge\u00e7emediklerin ve en yeni hitler.  Kapak: Hadise",
   "name": "Hot Hits T\u00fcrkiye",
   "tracks": [
     {
@@ -324,6 +324,24 @@
       "duration_ms": 147888,
       "name": "AQUAFINA",
       "url": "https://open.spotify.com/track/2cbgLYxRK6exbeKyz4YrD3"
+    },
+    {
+      "album": {
+        "name": "H.",
+        "url": "https://open.spotify.com/album/5ORtYNxS04uyDd1LnTLKsi"
+      },
+      "artists": [
+        {
+          "name": "Hadise",
+          "url": "https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144374,
+      "name": "Ara Beni",
+      "url": "https://open.spotify.com/track/2avZvyhP3vKSXUGKIjpDSr"
     },
     {
       "album": {
@@ -2802,7 +2820,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 149626,
       "name": "Her Nerdeysen",
       "url": "https://open.spotify.com/track/65txmqjijZoGYs1irX6tBU"
@@ -3286,7 +3304,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 172245,
       "name": "Kara Yaz\u0131",
       "url": "https://open.spotify.com/track/3baJJpuPE2m59HQWRRCPEy"
@@ -3696,7 +3714,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 160639,
       "name": "K\u0131rg\u0131n\u0131m",
       "url": "https://open.spotify.com/track/2CTeRSttI3Jwx7gj4egqKe"
@@ -4656,7 +4674,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 179657,
       "name": "R\u00fcya Gibiydin",
       "url": "https://open.spotify.com/track/4JHGcwZZo5yodlq5qQbSQw"
@@ -4885,6 +4903,28 @@
     },
     {
       "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/2gqMqf9niKqBUXYS15w9bv"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144079,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/7ePFgZKyrd38XLTOasoEjk"
+    },
+    {
+      "album": {
         "name": "\u0130kinci Hal",
         "url": "https://open.spotify.com/album/7kbrSSi5xv57YkwkyiijFe"
       },
@@ -4900,6 +4940,42 @@
       "duration_ms": 271210,
       "name": "Sayg\u0131mdan",
       "url": "https://open.spotify.com/track/4E10qEzOmTIVmrg6Wz2RHj"
+    },
+    {
+      "album": {
+        "name": "KAYIP PERSONA",
+        "url": "https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp"
+      },
+      "artists": [
+        {
+          "name": "BLOK3",
+          "url": "https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186475,
+      "name": "Sebebi Yar",
+      "url": "https://open.spotify.com/track/1gd1TicErR4bwjR3CYxyra"
+    },
+    {
+      "album": {
+        "name": "Nokta",
+        "url": "https://open.spotify.com/album/7qU1wsdRbnLXCkNEjotc2p"
+      },
+      "artists": [
+        {
+          "name": "Ersay \u00dcner",
+          "url": "https://open.spotify.com/artist/6kf7koRM31Dgsj2WbByZpB"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265994,
+      "name": "Selam",
+      "url": "https://open.spotify.com/track/5ujFCaNhNEWlM9TERC0FXm"
     },
     {
       "album": {
@@ -5488,6 +5564,24 @@
       "duration_ms": 215172,
       "name": "T\u0131rna\u011f\u0131n K\u0131r\u0131lmas\u0131n",
       "url": "https://open.spotify.com/track/36SKXwHlE1zYin3xwPRDnU"
+    },
+    {
+      "album": {
+        "name": "Umrumd\u0131\u015f\u0131",
+        "url": "https://open.spotify.com/album/71VuUzbv9T5vXkLTnf8iKq"
+      },
+      "artists": [
+        {
+          "name": "Mabel Matiz",
+          "url": "https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218251,
+      "name": "Umrumd\u0131\u015f\u0131",
+      "url": "https://open.spotify.com/track/14xSndBPmB5bsYmKbwkhnB"
     },
     {
       "album": {
@@ -6198,7 +6292,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 258931,
       "name": "Y\u00fcz\u00fck",
       "url": "https://open.spotify.com/track/657FCK2qs1P6DV8caSlWWY"

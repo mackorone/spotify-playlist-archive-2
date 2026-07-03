@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: KRIST",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PERSES",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "APE",
+        "url": "https://open.spotify.com/album/5k4t8Cx6mgZf3gqGDt1PD7"
+      },
+      "artists": [
+        {
+          "name": "THX",
+          "url": "https://open.spotify.com/artist/37IoruZVv6afp3q77AFYwB"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211970,
+      "name": "APE",
+      "url": "https://open.spotify.com/track/02TrL37a5FQ5PqxG5cmov7"
+    },
+    {
+      "album": {
         "name": "BABY CRUSH - Single",
         "url": "https://open.spotify.com/album/4ezQoCT0KJLhQITo8yOqgE"
       },
@@ -592,6 +610,24 @@
       "duration_ms": 197948,
       "name": "BILLIONAIRE",
       "url": "https://open.spotify.com/track/1p8mwct2l6gTGSkI5YfQAu"
+    },
+    {
+      "album": {
+        "name": "BIRTHDAY BUT WITH ME (From \"\u0e0b\u0e2d\u0e42\u0e0b\u0e48\u0e25\u0e48\u0e32\u0e21\u0e18\u0e35\u0e23\u0e4c\")",
+        "url": "https://open.spotify.com/album/3FFCgopasTiPu6DXt0xWuZ"
+      },
+      "artists": [
+        {
+          "name": "PROXIE",
+          "url": "https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212380,
+      "name": "BIRTHDAY BUT WITH ME (From \"\u0e0b\u0e2d\u0e42\u0e0b\u0e48\u0e25\u0e48\u0e32\u0e21\u0e18\u0e35\u0e23\u0e4c\")",
+      "url": "https://open.spotify.com/track/7niNkagHSxm3poyNBmlpfp"
     },
     {
       "album": {
@@ -1684,7 +1720,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 193846,
       "name": "guilty pleasure",
       "url": "https://open.spotify.com/track/6NX2cVq78nBb6YWYkfr2BW"
@@ -3314,6 +3350,24 @@
       "duration_ms": 177999,
       "name": "Our Night - Ost. \u0e02\u0e49\u0e32\u0e21\u0e1f\u0e49\u0e32\u0e40\u0e04\u0e35\u0e22\u0e07\u0e40\u0e18\u0e2d The Next Prince Series",
       "url": "https://open.spotify.com/track/0zWwwgSpuCyNMqUwy4EzjE"
+    },
+    {
+      "album": {
+        "name": "OVERHOPED",
+        "url": "https://open.spotify.com/album/4qBzeSyDBshUeZ0ao0CU8L"
+      },
+      "artists": [
+        {
+          "name": "SVRN",
+          "url": "https://open.spotify.com/artist/2d4QIH8IXzqoWwHp4zy18G"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203812,
+      "name": "OVERHOPED",
+      "url": "https://open.spotify.com/track/1lU1eiiKqkzxfDRsxygGlP"
     },
     {
       "album": {
@@ -4968,7 +5022,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 212307,
       "name": "WHY",
       "url": "https://open.spotify.com/track/2qbOKuUAeJs7MSqw2XRFBh"
@@ -5228,7 +5282,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 230320,
       "name": "Your FAV",
       "url": "https://open.spotify.com/track/4cKFEuMoa9wV9AvD8F1Tx3"
@@ -5394,7 +5448,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 181551,
       "name": "\u0e01\u0e25\u0e34\u0e48\u0e19\u0e1d\u0e19 (When It Rains)",
       "url": "https://open.spotify.com/track/7l5xRO0s5RsxGdCm6faQmA"
@@ -7796,10 +7850,28 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 228000,
       "name": "\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49\u0e17\u0e35\u0e48\u0e23\u0e2d\u0e1d\u0e19 (spring)",
       "url": "https://open.spotify.com/track/4kE80JWRissrodmXuo0xYi"
+    },
+    {
+      "album": {
+        "name": "\u0e14\u0e31\u0e07\u0e43\u0e19\u0e43\u0e08 (Rain Fall) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"Ticket to Heaven \u0e40\u0e14\u0e47\u0e01\u0e0a\u0e32\u0e22\u0e44\u0e21\u0e48\u0e44\u0e1b\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c\"]",
+        "url": "https://open.spotify.com/album/1h0Wmkp5cmcm7vAzDuCuUm"
+      },
+      "artists": [
+        {
+          "name": "FOURTH",
+          "url": "https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209913,
+      "name": "\u0e14\u0e31\u0e07\u0e43\u0e19\u0e43\u0e08 (Rain Fall) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"Ticket to Heaven \u0e40\u0e14\u0e47\u0e01\u0e0a\u0e32\u0e22\u0e44\u0e21\u0e48\u0e44\u0e1b\u0e2a\u0e27\u0e23\u0e23\u0e04\u0e4c\"",
+      "url": "https://open.spotify.com/track/6mP1n3YcWFq7kpvZmFLbEP"
     },
     {
       "album": {
@@ -11782,7 +11854,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 251538,
       "name": "\u0e27\u0e34\u0e07\u0e27\u0e2d\u0e19",
       "url": "https://open.spotify.com/track/6d8gjGmu1uNrjjJbLvgyaH"
@@ -14861,6 +14933,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e2a\u0e35\u0e22\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/2UAmW4HxU7nMNfNUpDbFQG"
+      },
+      "artists": [
+        {
+          "name": "PS",
+          "url": "https://open.spotify.com/artist/5mPMimurGk9ARZM3FV12x0"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249285,
+      "name": "\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32\u0e40\u0e2a\u0e35\u0e22\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/4DIqAVapAAive5AILNtOj8"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e2a\u0e35\u0e22\u0e43\u0e08\u0e44\u0e21\u0e48\u0e40\u0e2a\u0e35\u0e22\u0e14\u0e32\u0e22 (No Love)",
         "url": "https://open.spotify.com/album/2R4hww1wYXvKb5Yu3EGL2n"
       },
@@ -16902,6 +16992,24 @@
       "duration_ms": 166914,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19\u0e14\u0e34 (No Cap)",
       "url": "https://open.spotify.com/track/2kZN6KlhK2S9AP0I1312yg"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e41\u0e1e\u0e49\u0e43\u0e04\u0e23 (Hotter than ur X)",
+        "url": "https://open.spotify.com/album/0umpKcPUyVl4gzIXVfHoTP"
+      },
+      "artists": [
+        {
+          "name": "PERSES",
+          "url": "https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204566,
+      "name": "\u0e44\u0e21\u0e48\u0e41\u0e1e\u0e49\u0e43\u0e04\u0e23 (Hotter than ur X)",
+      "url": "https://open.spotify.com/track/02BhVARYsGU1xLzVodgf9L"
     },
     {
       "album": {

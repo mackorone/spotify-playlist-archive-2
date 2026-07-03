@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With David Von Beahm, MIK's Reaction, Shane Embury and more",
+  "description": "With Shane Embury, David Von Beahm, MIK's Reaction and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -590,7 +590,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 236412,
       "name": "Air",
       "url": "https://open.spotify.com/track/68aV0LAtm1AlefVKodPTDz"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 313549,
       "name": "Ambrosia",
       "url": "https://open.spotify.com/track/6UCBjjduLh0jqKr1PjkRG2"
@@ -902,6 +902,24 @@
       "duration_ms": 246842,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/4rJNXbSPVNZhG7XlwAVb6u"
+    },
+    {
+      "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/3NP5vSAhnYpwYlzZvXJuyV"
+      },
+      "artists": [
+        {
+          "name": "David Von Beahm",
+          "url": "https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278108,
+      "name": "Another Life",
+      "url": "https://open.spotify.com/track/1XkFICmCusitYkiiAFREeG"
     },
     {
       "album": {
@@ -2238,7 +2256,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 264623,
       "name": "Caesar (I'll Haunt You Now)",
       "url": "https://open.spotify.com/track/4aSxg19eWsCun6tyzrYeWP"
@@ -2518,6 +2536,24 @@
       "duration_ms": 239827,
       "name": "CATCH & KILL",
       "url": "https://open.spotify.com/track/2NMjHf9JLPcn7xcNDXBGCk"
+    },
+    {
+      "album": {
+        "name": "Captive Youth",
+        "url": "https://open.spotify.com/album/2u0Bi2oiLHPmvdLmTWNFlb"
+      },
+      "artists": [
+        {
+          "name": "Crush of Souls",
+          "url": "https://open.spotify.com/artist/6lrYlq9d2alpuagPfXzSne"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326746,
+      "name": "Cemetery Days",
+      "url": "https://open.spotify.com/track/4W2tlMpTfSfuMFnuZO3PBl"
     },
     {
       "album": {
@@ -3012,7 +3048,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 272565,
       "name": "Consolamentum Day",
       "url": "https://open.spotify.com/track/0HhhtfqmQTzeYeIj5rG5Jw"
@@ -3030,7 +3066,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 221679,
       "name": "contact",
       "url": "https://open.spotify.com/track/4huCxiN2GsEG6mY6yb73ih"
@@ -3196,6 +3232,24 @@
       "duration_ms": 355519,
       "name": "Cracks",
       "url": "https://open.spotify.com/track/3HSAeGmuCZYP8ZFGZ7RNtw"
+    },
+    {
+      "album": {
+        "name": "Where the Thunder Breaks",
+        "url": "https://open.spotify.com/album/2GARGVtwjuKpZDsT02VmkB"
+      },
+      "artists": [
+        {
+          "name": "David Von Beahm",
+          "url": "https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183192,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/0Ka2wSdo1u8ypAMrK8CtcZ"
     },
     {
       "album": {
@@ -4334,7 +4388,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 253000,
       "name": "Down",
       "url": "https://open.spotify.com/track/38lBgZ8eHPTPhp6pWrsxnB"
@@ -5046,7 +5100,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 161800,
       "name": "Factory",
       "url": "https://open.spotify.com/track/6Pq6iVSIIK8O5UFMs5d2uk"
@@ -6332,7 +6386,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 294068,
       "name": "Grenn Eyes",
       "url": "https://open.spotify.com/track/7d8owlmuILQ1APlw5fyApY"
@@ -6694,7 +6748,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 414740,
       "name": "Her-To-Get (To-Get-Her)",
       "url": "https://open.spotify.com/track/6NcSlHDEbD72raPykWCmJi"
@@ -6788,7 +6842,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 199311,
       "name": "Hidden",
       "url": "https://open.spotify.com/track/4WmzoBRVjSsDpzXrt7CJED"
@@ -7928,7 +7982,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 293466,
       "name": "It Comes and Goes",
       "url": "https://open.spotify.com/track/5C3PhbcBxUr1SmjEQtCwff"
@@ -8664,7 +8718,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 173792,
       "name": "LBS",
       "url": "https://open.spotify.com/track/4Ml081k9JSdOfSPfzcwyS1"
@@ -9068,7 +9122,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 123376,
       "name": "Little Green Dots",
       "url": "https://open.spotify.com/track/50ers5l5Zlk6mOZone9KVv"
@@ -9306,6 +9360,24 @@
       "duration_ms": 295113,
       "name": "Lucy's On The Lake",
       "url": "https://open.spotify.com/track/5vhyjnJsnxnkazlUiMFH6K"
+    },
+    {
+      "album": {
+        "name": "Machine Gun",
+        "url": "https://open.spotify.com/album/1E3fmolBGBwR8XEUHyzL9A"
+      },
+      "artists": [
+        {
+          "name": "Matt McJunkins",
+          "url": "https://open.spotify.com/artist/7JpkZ8Gs2TrW5feG0oy8Kr"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203134,
+      "name": "Machine Gun",
+      "url": "https://open.spotify.com/track/0itEBCji9ajAhu3lIewqPU"
     },
     {
       "album": {
@@ -11693,6 +11765,24 @@
     },
     {
       "album": {
+        "name": "Red Rover",
+        "url": "https://open.spotify.com/album/5j0z1f6PhDcVJ0BEfpE0xN"
+      },
+      "artists": [
+        {
+          "name": "Human Hollow",
+          "url": "https://open.spotify.com/artist/2vxsQ43nrzfRqxJkQ0y80J"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221142,
+      "name": "Red Rover",
+      "url": "https://open.spotify.com/track/1wrAsvyHGsiR5gnSOwfUf1"
+    },
+    {
+      "album": {
         "name": "Remember The Exit Might Be Right Behind You",
         "url": "https://open.spotify.com/album/4c0WhY4PjjFy0QyAFLrJgM"
       },
@@ -13700,7 +13790,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 202135,
       "name": "Steel Butterflies",
       "url": "https://open.spotify.com/track/48bvLtjiWAWwaKSHrC5NF2"
@@ -14246,7 +14336,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Takin' Out The Trash",
       "url": "https://open.spotify.com/track/4ssET8R9IELNKsXXHkbMil"
@@ -15514,7 +15604,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 187252,
       "name": "This Elegant Deal",
       "url": "https://open.spotify.com/track/4Xq0EMZ7jFlJixF8L7WssA"
@@ -15738,7 +15828,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 135724,
       "name": "TIME 2 DIE",
       "url": "https://open.spotify.com/track/6a5BA53BYbraUQAV65jn4v"
@@ -15796,7 +15886,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 242973,
       "name": "To Follow",
       "url": "https://open.spotify.com/track/6rIQbbnOzzhqvSRKvmTXq1"
@@ -17280,7 +17370,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"

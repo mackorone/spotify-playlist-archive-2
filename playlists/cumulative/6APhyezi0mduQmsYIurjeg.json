@@ -3035,6 +3035,24 @@
     },
     {
       "album": {
+        "name": "The Fuzes Live",
+        "url": "https://open.spotify.com/album/7oQFiHr8GQNjH2g2ZBofAK"
+      },
+      "artists": [
+        {
+          "name": "The Fuzes",
+          "url": "https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180874,
+      "name": "Get Around - Live",
+      "url": "https://open.spotify.com/track/6FRUWqJX0eKWb7hl2bpBSi"
+    },
+    {
+      "album": {
         "name": "Giganti",
         "url": "https://open.spotify.com/album/7cufzZ6Kk5t8s9WJNAcdTv"
       },
@@ -3808,6 +3826,24 @@
       "duration_ms": 164586,
       "name": "Home",
       "url": "https://open.spotify.com/track/6cyeOHmTWv4PXrdZkBKCSi"
+    },
+    {
+      "album": {
+        "name": "Home (Now That The Sun Shines The Light Of Your Smile)",
+        "url": "https://open.spotify.com/album/0HoxniOgZpOe2x5t8oD72k"
+      },
+      "artists": [
+        {
+          "name": "The Elysian Lovers",
+          "url": "https://open.spotify.com/artist/1FP9jgyDPwtyyl5bUel8Gu"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202258,
+      "name": "Home (Now That The Sun Shines The Light Of Your Smile)",
+      "url": "https://open.spotify.com/track/2fOEqrTstwxNfNQsPT0vsO"
     },
     {
       "album": {

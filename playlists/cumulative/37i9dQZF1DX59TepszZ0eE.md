@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=glHBHJpWRtmJpm62ielH0w>Xolly Mncwango</a>"
 
-468 songs - 2 day 1 hr 42 min
+469 songs - 2 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [Intro \(Mudzimu Uyavhuya\) \[feat\. Lebo Sekgobela\]](https://open.spotify.com/track/31O7XS9siV7dbPwk8ngvMN) | [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma), [Lebo Sekgobela](https://open.spotify.com/artist/1s806zCT9QwrPEKEa0EEsx) | [Miracle Child](https://open.spotify.com/album/1glMg9IGPAlUCFduzoU04V) | 6:14 | 2024-10-04 | 2025-02-14 |
 | [Isazelo Singishiye Ngedwa](https://open.spotify.com/track/7LWLrnHh0nMayLZblimXMy) | [Mpumelelo Dumisa](https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN) | [Isazelo Singishiye Ngedwa](https://open.spotify.com/album/4CXvH3FjVBhDiLKiEcjjLe) | 11:15 | 2023-09-22 | 2024-02-02 |
 | [Isinqumo](https://open.spotify.com/track/2bwuBjjf8N1jKv6eWSBlQF) | [Reginald Jabu](https://open.spotify.com/artist/7JH7vnM5DFedm2lcpddAj4) | [Isinqumo](https://open.spotify.com/album/0x1vIEmngKKTXTECnvTVIg) | 6:07 | 2024-08-23 | 2024-10-18 |
+| [Ivangeli](https://open.spotify.com/track/3Dty5aNckcIkJdBhBl81ml) | [Spirit of Praise Choir](https://open.spotify.com/artist/598iFL4vIXJNBPQHcB8jDG), [Nhlanhla Sibisi](https://open.spotify.com/artist/0IVAeXQr9He3cUd2QTdsHK) | [Ivangeli](https://open.spotify.com/album/249JJMW3R8hNiFgOzpkCTz) | 5:25 | 2026-07-03 |  |
 | [Izandla Zethu Ziyakubanjwa](https://open.spotify.com/track/3l8KixA9Yzo4WlGSSkmFQ2) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Izandla Zethu Ziyakubanjwa](https://open.spotify.com/album/1ZF3qPtV1Hx0pRquLM6oYX) | 5:05 | 2023-12-29 | 2024-05-17 |
 | [Izindlela Zakhe](https://open.spotify.com/track/1rNykgPiUeIbxGVzDXL6t3) | [Ntokozo Ngongoma](https://open.spotify.com/artist/5IGR73moHopegctzMOpM10) | [Izindlela Zakhe](https://open.spotify.com/album/24xdSohbhBFnCyBG82EqYq) | 6:51 | 2024-03-29 | 2024-04-05 |
 | [Izindlela Zakhe \- Live at The Playhouse](https://open.spotify.com/track/3rOm6rtALrqKEoBjwhY9Rr) | [Ntokozo Ngongoma](https://open.spotify.com/artist/5IGR73moHopegctzMOpM10) | [Izindlela Zakhe \(Live at The Playhouse\)](https://open.spotify.com/album/44qTX6pyLy6y5TNrhy3SzW) | 6:28 | 2025-12-05 |  |

@@ -1031,6 +1031,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Brez besed",
+        "url": "https://open.spotify.com/album/17XZ6Nn2VQ1xbnUU27d8U9"
+      },
+      "artists": [
+        {
+          "name": "Berta Ambroz",
+          "url": "https://open.spotify.com/artist/04mSp2LAR4PNf4nWSJTXWq"
+        }
+      ],
+      "duration_ms": 165293,
+      "name": "Brez besed - Evrovizija 1966",
+      "url": "https://open.spotify.com/track/3OZqPWY86jhuv6DV5TV0kK"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "Tsarli Tsaplin",
         "url": "https://open.spotify.com/album/6PQTUHJ7dqG3mz1Qzi0DXM"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 142552,
       "name": "Le chant de Mallory",
       "url": "https://open.spotify.com/track/5ATFYzJdCMISJUUVRDUHMA"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Brez besed",
-        "url": "https://open.spotify.com/album/17XZ6Nn2VQ1xbnUU27d8U9"
-      },
-      "artists": [
-        {
-          "name": "Berta Ambroz",
-          "url": "https://open.spotify.com/artist/04mSp2LAR4PNf4nWSJTXWq"
-        }
-      ],
-      "duration_ms": 165293,
-      "name": "Brez besed - Evrovizija 1966",
-      "url": "https://open.spotify.com/track/3OZqPWY86jhuv6DV5TV0kK"
     },
     {
       "added_at": "2025-03-14 16:55:23",

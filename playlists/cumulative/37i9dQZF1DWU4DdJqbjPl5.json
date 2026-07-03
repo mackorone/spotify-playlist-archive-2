@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Intersection of R&B and afrobeats. Cover:  Africaine",
+  "description": "Intersection of R&B and afrobeats. Cover:  FOLA and Ayra Starr",
   "name": "afro&b ",
   "tracks": [
     {
@@ -1763,6 +1763,28 @@
     },
     {
       "album": {
+        "name": "T's & C's Apply",
+        "url": "https://open.spotify.com/album/6DoiLrHITwH7KRzqoNXfIr"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206529,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/3mcfpjbuhVHCAdNvbEXAQS"
+    },
+    {
+      "album": {
         "name": "Carry Me",
         "url": "https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs"
       },
@@ -1928,6 +1950,32 @@
       "duration_ms": 180350,
       "name": "Close To Me",
       "url": "https://open.spotify.com/track/6TyFIUgedV7EkYdk6nS4aw"
+    },
+    {
+      "album": {
+        "name": "COCA BODY",
+        "url": "https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153055,
+      "name": "COCA BODY",
+      "url": "https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG"
     },
     {
       "album": {
@@ -4707,6 +4755,24 @@
     },
     {
       "album": {
+        "name": "Hurts 2b Reminded",
+        "url": "https://open.spotify.com/album/1IJYY1v0FO4pXB0C9ggOLd"
+      },
+      "artists": [
+        {
+          "name": "Rowlene",
+          "url": "https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175598,
+      "name": "Hurts 2b Reminded",
+      "url": "https://open.spotify.com/track/7epfsvfTAOcYmExhWtSPG1"
+    },
+    {
+      "album": {
         "name": "For The Love of R&B Vol 1",
         "url": "https://open.spotify.com/album/14Vvfpl0hS8n1r3GGIKzoZ"
       },
@@ -4978,6 +5044,24 @@
       "duration_ms": 163813,
       "name": "I Wish (feat. Libianca)",
       "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
+    },
+    {
+      "album": {
+        "name": "I\u2019ll Take Care Of U (ITCOU)",
+        "url": "https://open.spotify.com/album/4BMkaqDj1ckCqsD5smAuhp"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175182,
+      "name": "I'll Take Care Of U (ITCOU)",
+      "url": "https://open.spotify.com/track/3g3w1cpcgFS6QEPrjfAAZn"
     },
     {
       "album": {
@@ -8541,6 +8625,28 @@
     },
     {
       "album": {
+        "name": "Little Us",
+        "url": "https://open.spotify.com/album/2LV09CJsc3g7pf5IiODyB4"
+      },
+      "artists": [
+        {
+          "name": "EKENE",
+          "url": "https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP"
+        },
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172303,
+      "name": "Relations (feat. Braye)",
+      "url": "https://open.spotify.com/track/017OPL77HUwYyPONagEQ2E"
+    },
+    {
+      "album": {
         "name": "REMEMBER",
         "url": "https://open.spotify.com/album/5OBuRoSxAydiHNkG0YAB5q"
       },
@@ -10562,6 +10668,28 @@
       "duration_ms": 287908,
       "name": "Toxic Arms",
       "url": "https://open.spotify.com/track/4I2IFTF3PzcpnP3q6J2GHS"
+    },
+    {
+      "album": {
+        "name": "treat u right",
+        "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177565,
+      "name": "treat u right",
+      "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
     },
     {
       "album": {

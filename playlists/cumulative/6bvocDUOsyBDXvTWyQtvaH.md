@@ -2,7 +2,7 @@
 
 ### [christmas lofi 2026 ⛄❄️🕯️](https://open.spotify.com/playlist/6bvocDUOsyBDXvTWyQtvaH)
 
-> christmas lofi \| lofi cozy christmas \| lofi instrumentals \| lofi winter \| holiday lofi \| lofi chill beats \| winter jazz chillhop beats \|  xmas lofi 🎄🎹
+> christmas lofi \| lofi cozy christmas \| lofi instrumentals \| lofi winter \| holiday lofi \| lofi chill beats \| winter jazz chillhop beats \|  xmas lofi 🎄🎹 christmas in july
 
 171 songs - 6 hr 54 min
 

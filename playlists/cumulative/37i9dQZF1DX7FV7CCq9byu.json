@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "100 Decibel",
+        "url": "https://open.spotify.com/album/1j7dRiURpx65NsZ8vrLjBB"
+      },
+      "artists": [
+        {
+          "name": "Tim Lidman",
+          "url": "https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144855,
+      "name": "100 Decibel",
+      "url": "https://open.spotify.com/track/6gS6PBCrvrY9ZZhG7dCY2R"
+    },
+    {
+      "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/1zml0unk1vmOVPhYlpExW7"
       },
@@ -4477,6 +4495,24 @@
     },
     {
       "album": {
+        "name": "Careless",
+        "url": "https://open.spotify.com/album/66bTdjG8C6q9KtB9GlD7Mz"
+      },
+      "artists": [
+        {
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145732,
+      "name": "Careless",
+      "url": "https://open.spotify.com/track/4JP5g7hhIZjvquzHfa3Ebz"
+    },
+    {
+      "album": {
         "name": "Caroline",
         "url": "https://open.spotify.com/album/3YKj6eNHkDjsDlSXiBw1Dj"
       },
@@ -5757,6 +5793,24 @@
     },
     {
       "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235771,
+      "name": "Danceteria",
+      "url": "https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ"
+    },
+    {
+      "album": {
         "name": "Dancing Around The Truth",
         "url": "https://open.spotify.com/album/2OCDNEGYq55vhBAMwkIoVe"
       },
@@ -6396,7 +6450,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 178695,
       "name": "Det ligger n\u00e5t i luften",
       "url": "https://open.spotify.com/track/5VkLIDTLPYm3x0tk5QrK97"
@@ -7545,6 +7599,24 @@
     },
     {
       "album": {
+        "name": "Dum i huvudet",
+        "url": "https://open.spotify.com/album/4KZpcQo4tYOjGfu8KZFgeL"
+      },
+      "artists": [
+        {
+          "name": "Anis Don Demina",
+          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174150,
+      "name": "Dum i huvudet",
+      "url": "https://open.spotify.com/track/4nX11i2MNHnznqfx3YxAPd"
+    },
+    {
+      "album": {
         "name": "Little Things",
         "url": "https://open.spotify.com/album/2iFS8uewUG1gkseKzBzsbQ"
       },
@@ -8174,7 +8246,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 218236,
       "name": "End of an Era",
       "url": "https://open.spotify.com/track/4tif5uslc2gjyZ6LCOKxNV"
@@ -10728,7 +10800,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 180345,
       "name": "Goals",
       "url": "https://open.spotify.com/track/3hdGyxmW0eNskNwTwmXOIQ"
@@ -11042,6 +11114,24 @@
       "duration_ms": 170208,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd"
+    },
+    {
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
       "album": {
@@ -18980,7 +19070,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 188733,
       "name": "MATRIARCHY",
       "url": "https://open.spotify.com/track/4s4nzLVGWvguhQ31038ofZ"
@@ -28136,6 +28226,24 @@
       "duration_ms": 176383,
       "name": "Sunday My Heart Hurts",
       "url": "https://open.spotify.com/track/7jHZ78k0uz8h2CpXO2oZda"
+    },
+    {
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/085BCn8A8f0RIVLiKvsJ3A"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214778,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7hKd8osKVrmehhIx1FP6Lz"
     },
     {
       "album": {

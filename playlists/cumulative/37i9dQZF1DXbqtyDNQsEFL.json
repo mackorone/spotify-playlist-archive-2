@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 395555,
       "name": "Aileyipada",
       "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
@@ -2178,7 +2178,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 217385,
       "name": "Control",
       "url": "https://open.spotify.com/track/0nHzBpcPbGM1sR9KTAQe6Y"
@@ -2894,7 +2894,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 346500,
       "name": "Ebenezer (My Helper)",
       "url": "https://open.spotify.com/track/0vZuT1xmdfAiPS2MHrAwTE"
@@ -3552,7 +3552,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 432288,
       "name": "Eze Ebube II",
       "url": "https://open.spotify.com/track/4fRi4MMb7bB1nRny2BpqMd"
@@ -3956,6 +3956,24 @@
       "duration_ms": 324375,
       "name": "Follow the Lamb",
       "url": "https://open.spotify.com/track/2K6opDsFVe9w9YHhIczSGk"
+    },
+    {
+      "album": {
+        "name": "Follow Yeshua (Live)",
+        "url": "https://open.spotify.com/album/11MycYuDq6vDBUNnOYiW6s"
+      },
+      "artists": [
+        {
+          "name": "Oncemore Six",
+          "url": "https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 554613,
+      "name": "Follow Yeshua - Live",
+      "url": "https://open.spotify.com/track/6iL5DaueYNSR8LPjFtkuMv"
     },
     {
       "album": {
@@ -6094,7 +6112,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 301008,
       "name": "I Will Wait",
       "url": "https://open.spotify.com/track/0tMRJTLAoxozAPwZOXCLuF"
@@ -9140,7 +9158,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 538000,
       "name": "NEVER BOW TO BAAL",
       "url": "https://open.spotify.com/track/4bL7qOqEwsqhQsDZzah3Yd"
@@ -11186,6 +11204,28 @@
       "duration_ms": 219212,
       "name": "PATTERN",
       "url": "https://open.spotify.com/track/0NVQddRYQiWhw5AunMZVIB"
+    },
+    {
+      "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/7w38vAO2LbUzzp7wIxNTIY"
+      },
+      "artists": [
+        {
+          "name": "Awinnah",
+          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
+        },
+        {
+          "name": "Bumerey",
+          "url": "https://open.spotify.com/artist/4ApBtcqa0zwteyosj177zu"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203135,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/35T2hC2SKsxXfuh4Nz9U4G"
     },
     {
       "album": {

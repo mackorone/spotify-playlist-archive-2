@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3904132,
+  "num_followers": 3903961,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -703,38 +703,6 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "YOUR EYES",
-        "url": "https://open.spotify.com/album/6EH22I1ThZ1bBlbg5KlOmc"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "YOUR EYES",
-      "url": "https://open.spotify.com/track/5uxwxuFRvmwYr3rLn81k8G"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 177206,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ"
       },
@@ -755,6 +723,22 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2TpmFkzdJfVPkNzSsCnQMh"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 177206,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/47JnKvBQFj4kFNs3sancVJ"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
         "name": "Stay Alive",
         "url": "https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi"
       },
@@ -767,6 +751,46 @@
       "duration_ms": 233978,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
+        "name": "YOUR EYES",
+        "url": "https://open.spotify.com/album/6EH22I1ThZ1bBlbg5KlOmc"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "YOUR EYES",
+      "url": "https://open.spotify.com/track/5uxwxuFRvmwYr3rLn81k8G"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/7b2xbeiyfj5UsT4G06ac8G"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Lilly",
+          "url": "https://open.spotify.com/artist/4d6vYcZhMIvOLuCHA7Y6Wb"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/1wF9Iw4lkksoUg55kCsiPm"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -843,30 +867,6 @@
       "duration_ms": 200637,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/7b2xbeiyfj5UsT4G06ac8G"
-      },
-      "artists": [
-        {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
-        },
-        {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Lilly",
-          "url": "https://open.spotify.com/artist/4d6vYcZhMIvOLuCHA7Y6Wb"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/1wF9Iw4lkksoUg55kCsiPm"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "I Just Needed This",
-        "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
-      },
-      "artists": [
-        {
-          "name": "Polar Inc.",
-          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
-        },
-        {
-          "name": "Keepa",
-          "url": "https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "I Just Needed This",
-      "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/4K96SVUxHrerdL8nWqbUsQ"
       },
@@ -1091,22 +1071,22 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "Twilight",
-        "url": "https://open.spotify.com/album/6TH6mDJgdPL1cp6q5oJou4"
+        "name": "I Just Needed This",
+        "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
       "artists": [
         {
-          "name": "Sultan + Shepard",
-          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+          "name": "Polar Inc.",
+          "url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI"
         },
         {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+          "name": "Keepa",
+          "url": "https://open.spotify.com/artist/5cW3W1SgE0AQaCdDRPBo7h"
         }
       ],
-      "duration_ms": 359040,
-      "name": "Twilight",
-      "url": "https://open.spotify.com/track/2Lkbzbxnyu25NVlV1uiaYb"
+      "duration_ms": 244000,
+      "name": "I Just Needed This",
+      "url": "https://open.spotify.com/track/13tazuEkVNXdCVXV9S6vFl"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1131,6 +1111,26 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
+        "name": "Twilight",
+        "url": "https://open.spotify.com/album/6TH6mDJgdPL1cp6q5oJou4"
+      },
+      "artists": [
+        {
+          "name": "Sultan + Shepard",
+          "url": "https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 359040,
+      "name": "Twilight",
+      "url": "https://open.spotify.com/track/2Lkbzbxnyu25NVlV1uiaYb"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
         "name": "Of Joy",
         "url": "https://open.spotify.com/album/54A3tApoB5vr52YinrOeV7"
       },
@@ -1147,26 +1147,6 @@
       "duration_ms": 199636,
       "name": "Of Joy",
       "url": "https://open.spotify.com/track/3mcbuLRA6q4MO3KJZiARXQ"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "sicklysweet (Tobiahs Remix)",
-        "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
-      },
-      "artists": [
-        {
-          "name": "Jetta",
-          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
-        },
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 137888,
-      "name": "sicklysweet - Tobiahs Remix",
-      "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1191,6 +1171,26 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
+        "name": "sicklysweet (Tobiahs Remix)",
+        "url": "https://open.spotify.com/album/3hCHGxMG8nSjjdCdlEZtBh"
+      },
+      "artists": [
+        {
+          "name": "Jetta",
+          "url": "https://open.spotify.com/artist/51V0E9ipJyIj7yFDkaLx96"
+        },
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 137888,
+      "name": "sicklysweet - Tobiahs Remix",
+      "url": "https://open.spotify.com/track/4Bl7u2Q9Tj3VQn89i3aNYm"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
         "name": "Somewhere In Between",
         "url": "https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk"
       },
@@ -1203,6 +1203,26 @@
       "duration_ms": 172631,
       "name": "Electric Soul",
       "url": "https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
+        "name": "Something Right",
+        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
+      },
+      "artists": [
+        {
+          "name": "Eric Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        },
+        {
+          "name": "Molly Moonwater",
+          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Something Right",
+      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1231,26 +1251,6 @@
       "duration_ms": 300487,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "Something Right",
-        "url": "https://open.spotify.com/album/3NgRCeEQNc1mSlcbQBUnEI"
-      },
-      "artists": [
-        {
-          "name": "Eric Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        },
-        {
-          "name": "Molly Moonwater",
-          "url": "https://open.spotify.com/artist/0z8KcRUs0oUnn9fdQ3jn7O"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Something Right",
-      "url": "https://open.spotify.com/track/4m7n8fwmFXIopFBzWbmlzj"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1351,6 +1351,30 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
+        "name": "I Cared For You",
+        "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        },
+        {
+          "name": "Noah Kulaga",
+          "url": "https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj"
+        }
+      ],
+      "duration_ms": 270476,
+      "name": "I Cared For You",
+      "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
         "name": "Fire To The Water",
         "url": "https://open.spotify.com/album/04iAq9moWG9qAJhTfeiRUV"
       },
@@ -1367,6 +1391,26 @@
       "duration_ms": 222148,
       "name": "Fire To The Water",
       "url": "https://open.spotify.com/track/27UCnwXjQnIhBaqdJgYvCi"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/7vavYaLLnp7BSEVt66XBGl"
+      },
+      "artists": [
+        {
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/7wE3go8w9wqqvWpN5aDpXR"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1411,30 +1455,6 @@
       "duration_ms": 153875,
       "name": "Out Of Ten - Shingo Nakamura & before saudade Remix",
       "url": "https://open.spotify.com/track/6EU7osUcQJSBc5dHiNTlPj"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "I Cared For You",
-        "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        },
-        {
-          "name": "Mont Rouge",
-          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
-        },
-        {
-          "name": "Noah Kulaga",
-          "url": "https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj"
-        }
-      ],
-      "duration_ms": 270476,
-      "name": "I Cared For You",
-      "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1515,26 +1535,6 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/7vavYaLLnp7BSEVt66XBGl"
-      },
-      "artists": [
-        {
-          "name": "Ashibah",
-          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/7wE3go8w9wqqvWpN5aDpXR"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
         "name": "Call You Mine",
         "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
       },
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
+      },
+      "artists": [
+        {
+          "name": "Romain Garcia",
+          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
+        }
+      ],
+      "duration_ms": 203572,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
         "name": "Let You Know",
         "url": "https://open.spotify.com/album/6V7GNffcfF3oOumBPNNqmv"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 219923,
       "name": "Let You Know",
       "url": "https://open.spotify.com/track/609FRLY8f3c7CXqsloE09P"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/6M6bP82QvaUCx7AanqLBub"
-      },
-      "artists": [
-        {
-          "name": "Romain Garcia",
-          "url": "https://open.spotify.com/artist/7iCW4xyVOIklzZ2qc7pS5h"
-        }
-      ],
-      "duration_ms": 203572,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/0Zo0QQMAV1zsImiaol6pI7"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
+      },
+      "artists": [
+        {
+          "name": "Eric Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
         "name": "the art of letting go",
         "url": "https://open.spotify.com/album/5WCpvkfEHDsZ1dF63DwLcG"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 274000,
       "name": "the art of letting go",
       "url": "https://open.spotify.com/track/30qrn4P5XelUYPsDWSa6yB"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
-      },
-      "artists": [
-        {
-          "name": "Eric Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
     },
     {
       "added_at": "2026-06-26 04:01:21",
@@ -1731,26 +1731,6 @@
     {
       "added_at": "2026-06-26 04:01:21",
       "album": {
-        "name": "edges",
-        "url": "https://open.spotify.com/album/5DsdSbCVFUJdT5I61zZB4g"
-      },
-      "artists": [
-        {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        },
-        {
-          "name": "FARLEY",
-          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "edges",
-      "url": "https://open.spotify.com/track/3Y0GPlTTGhUvkX9gLbeB3F"
-    },
-    {
-      "added_at": "2026-06-26 04:01:21",
-      "album": {
         "name": "alone",
         "url": "https://open.spotify.com/album/2dbqZ73x35PhZrEGiDgCXL"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 265408,
       "name": "alone",
       "url": "https://open.spotify.com/track/53xTITGQAR4vklxEoP6qwZ"
+    },
+    {
+      "added_at": "2026-06-26 04:01:21",
+      "album": {
+        "name": "edges",
+        "url": "https://open.spotify.com/album/5DsdSbCVFUJdT5I61zZB4g"
+      },
+      "artists": [
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "edges",
+      "url": "https://open.spotify.com/track/3Y0GPlTTGhUvkX9gLbeB3F"
     },
     {
       "added_at": "2026-06-26 04:01:21",

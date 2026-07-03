@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,488 songs - 10 day 0 hr 16 min
+4,490 songs - 10 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,6 +513,7 @@
 | [Button](https://open.spotify.com/track/5cSbMYYSuPvQIs4TwqbuXO) | [Punch 11](https://open.spotify.com/artist/1LuxznMngBLfxBab8QSvI0) | [Alive And Well](https://open.spotify.com/album/40eg7z9ewjLTVTusesgx9V) | 3:15 | 2025-12-31 |  |
 | [Buzzing Fly](https://open.spotify.com/track/6iZnkpte3oN6j7RvnPfluv) | [Digsby](https://open.spotify.com/artist/2svG4IsrYb68sAGhIQ9UXA) | [Buzzing Fly](https://open.spotify.com/album/5vHjLliEPPxZ9bzVB7e3hp) | 3:30 | 2025-05-12 |  |
 | [Bwelera](https://open.spotify.com/track/50gtSEXSbQ2oMMXogHIbnh) | [Kay Krush](https://open.spotify.com/artist/1NTEEE22b4tOhZQvMctIlT) | [First Step Album](https://open.spotify.com/album/1e2FCaY21cGjSkfn6cr8y9) | 2:46 | 2025-06-05 |  |
+| [By Design](https://open.spotify.com/track/7KLLbirr3zrlOmCAXNu8lb) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [By Design](https://open.spotify.com/album/4uGCOrttUEiOQpkvoBLFSo) | 3:25 | 2026-07-03 |  |
 | [By Myself](https://open.spotify.com/track/6QeFYrM2ZXXkokIIhNYqt5) | [Nyakstar](https://open.spotify.com/artist/4sIGvBMOHQSdtFKsE8JAIT) | [By Myself](https://open.spotify.com/album/3RtHk7TJajJQ8Gsm8lr14r) | 2:35 | 2025-08-12 |  |
 | [Bye Bye](https://open.spotify.com/track/5SQdTy8JRcswaGnm5LQ8Bh) | [Post Atomic Nuclear Waste](https://open.spotify.com/artist/4GowJGrhr4lZKlPxDYOLqY) | [Il Primo Esperimento del Dott\. Stranamore](https://open.spotify.com/album/2IxDzqiMyPKfPug8YEPKGW) | 2:34 | 2025-06-01 |  |
 | [Bye Bye Bye](https://open.spotify.com/track/4r8lRYnoOGdEi6YyI5OC1o) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/5hMd4vAfSUT1cbYCnRUako) | 3:20 | 2025-08-01 |  |
@@ -1214,6 +1215,7 @@
 | [El malo](https://open.spotify.com/track/51DplGFhF8bURUMRPOjM8l) | [Ivan Cortes](https://open.spotify.com/artist/15aPeDSL8oBv1kJamlqkWo), [VOLTA](https://open.spotify.com/artist/59SRrEj64XmlhIriTtOgZP) | [El malo](https://open.spotify.com/album/4JS5YtrJx6cb2ts0Vgieio) | 3:26 | 2025-05-27 |  |
 | [El Mismo Sol](https://open.spotify.com/track/1R8xHhsBJiKlSiejjjL6R1) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Radio Cincinnati](https://open.spotify.com/album/4ryhhEUfUyguu3ZISxTGwy) | 3:35 | 2025-11-24 |  |
 | [El Propi Misteri](https://open.spotify.com/track/3C0fym92Uhi7PyWfNXjQVr) | [The Foxholes](https://open.spotify.com/artist/24IuJuUEzisrkHQSvpzlE2) | [Flora i Fauna](https://open.spotify.com/album/1uN30RsiOCF8Z96pyESgvn) | 5:28 | 2025-11-24 |  |
+| [EL TERCERO](https://open.spotify.com/track/6ccrFhU3dzwbAiQlDIBrRQ) | [OVE MARQUESIN](https://open.spotify.com/artist/0plb8N6XwOKnXuQFxHiD0t) | [EL TERCERO](https://open.spotify.com/album/7dVx9QQdEJ4MSlGg1M7l6a) | 3:04 | 2026-07-02 |  |
 | [Elec](https://open.spotify.com/track/4d07qywgTBH26LwxNVKCbe) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pink lights](https://open.spotify.com/album/6Kis8f5yfMdTfT5d8hzjGM) | 3:19 | 2025-09-17 |  |
 | [Elec \(another\)](https://open.spotify.com/track/4Pb0z8oMFdTBVVaPtRkDVa) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pink lights](https://open.spotify.com/album/6Kis8f5yfMdTfT5d8hzjGM) | 2:44 | 2025-09-17 |  |
 | [Electr h](https://open.spotify.com/track/0PgcCUPoL2REk9NVIIN0mw) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pink lights](https://open.spotify.com/album/6Kis8f5yfMdTfT5d8hzjGM) | 3:14 | 2025-09-17 |  |

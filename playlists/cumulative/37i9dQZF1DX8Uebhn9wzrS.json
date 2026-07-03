@@ -2716,7 +2716,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 88275,
       "name": "At Rest",
       "url": "https://open.spotify.com/track/5vhky6i1maKCDSVeaSlgv9"
@@ -4585,6 +4585,24 @@
     },
     {
       "album": {
+        "name": "bliss",
+        "url": "https://open.spotify.com/album/4UKyNyYrjGimsxetNCFg4q"
+      },
+      "artists": [
+        {
+          "name": "Echo Ilun\u00e9",
+          "url": "https://open.spotify.com/artist/6vzGGgNN6e9AZN12dm6Pso"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113571,
+      "name": "bliss",
+      "url": "https://open.spotify.com/track/6D0HVmyleRoGFYTPCPW5gz"
+    },
+    {
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/0tXIIM7OPMIuMFB8MeqrrM"
       },
@@ -5222,6 +5240,24 @@
       "duration_ms": 126315,
       "name": "Borrowed Car",
       "url": "https://open.spotify.com/track/3wwUV04m85SsAqbn04dpnR"
+    },
+    {
+      "album": {
+        "name": "Botanic",
+        "url": "https://open.spotify.com/album/19P2a6SCOyQ7aA9aovMExj"
+      },
+      "artists": [
+        {
+          "name": "Papi Pier",
+          "url": "https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129729,
+      "name": "Botanic",
+      "url": "https://open.spotify.com/track/3byChw9Mclt1SJHnxNzB0I"
     },
     {
       "album": {
@@ -8888,6 +8924,24 @@
       "duration_ms": 148306,
       "name": "Copa De Mare",
       "url": "https://open.spotify.com/track/2IaHq4eqO6VmlUELqFGmnv"
+    },
+    {
+      "album": {
+        "name": "coral night",
+        "url": "https://open.spotify.com/album/0Tju0cd3KK5gQBJTuLmwKF"
+      },
+      "artists": [
+        {
+          "name": "nearly monday",
+          "url": "https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135341,
+      "name": "coral night",
+      "url": "https://open.spotify.com/track/5rlazXeH3ZsW1Uk7D1TCJb"
     },
     {
       "album": {
@@ -13060,6 +13114,24 @@
     {
       "album": {
         "name": "Faded",
+        "url": "https://open.spotify.com/album/6KUpY2QYPrkyDifJeHjpJq"
+      },
+      "artists": [
+        {
+          "name": "hinako fukushi",
+          "url": "https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106028,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/7uBcjAKw8u0irOWB7PlDxY"
+    },
+    {
+      "album": {
+        "name": "Faded",
         "url": "https://open.spotify.com/album/1fW2IY3l2x9kkGGhk416GU"
       },
       "artists": [
@@ -13670,7 +13742,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 140800,
       "name": "Feelin' 2D",
       "url": "https://open.spotify.com/track/0MPqiieMX7ou7Kk8p2FPpi"
@@ -18112,7 +18184,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 183720,
       "name": "Hidden Cataract",
       "url": "https://open.spotify.com/track/7kvIF3LgW4rUbwUhk1auws"
@@ -18752,7 +18824,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 96000,
       "name": "horizon",
       "url": "https://open.spotify.com/track/6Cg95Z9BbsoylM4DKPF0qu"
@@ -20936,6 +21008,24 @@
       "duration_ms": 120000,
       "name": "kernel",
       "url": "https://open.spotify.com/track/5UpkSwbQixikbbJvG5GnOV"
+    },
+    {
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/0HOozkiI4OpT9KmD7q3GG8"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e9lian",
+          "url": "https://open.spotify.com/artist/6x8XkVA1HlZjLuHaD5NaE0"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102447,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/3RjAv5yesDSOOZHricohtS"
     },
     {
       "album": {
@@ -25927,6 +26017,24 @@
     },
     {
       "album": {
+        "name": "Mildew",
+        "url": "https://open.spotify.com/album/0AOc3TTcGhd7XZPmElP0la"
+      },
+      "artists": [
+        {
+          "name": "Pines Peak",
+          "url": "https://open.spotify.com/artist/7ovmqPwgZ9qszSckHYPgdI"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123399,
+      "name": "Mildew",
+      "url": "https://open.spotify.com/track/5XwzX4vHNcG5wJyoPFywV5"
+    },
+    {
+      "album": {
         "name": "Milk",
         "url": "https://open.spotify.com/album/4ZU0Xr2ha6fCyOVSECtp9G"
       },
@@ -28674,7 +28782,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 152812,
       "name": "nothing to lose",
       "url": "https://open.spotify.com/track/33zke8d6rCkng1Brt3LjlH"
@@ -37974,7 +38082,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 138915,
       "name": "Sparks Down",
       "url": "https://open.spotify.com/track/4HfrXnXrj1fyTnNRdTMLqy"

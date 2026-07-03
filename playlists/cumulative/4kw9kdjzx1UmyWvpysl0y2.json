@@ -1443,6 +1443,28 @@
     },
     {
       "album": {
+        "name": "Angel City",
+        "url": "https://open.spotify.com/album/2FWh27L0O25GlrvcmDzEqy"
+      },
+      "artists": [
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Beachcrimes",
+          "url": "https://open.spotify.com/artist/5xWycgZa4Oul2kU6o1QVo7"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163660,
+      "name": "Angel City",
+      "url": "https://open.spotify.com/track/1wqVFC38UMEYUrB6HlnUep"
+    },
+    {
+      "album": {
         "name": "Angel Montreal",
         "url": "https://open.spotify.com/album/2jDJH1Ck7dyWEu8JxfFPt4"
       },
@@ -5678,6 +5700,32 @@
       "duration_ms": 185220,
       "name": "Disco Kissing",
       "url": "https://open.spotify.com/track/6MECIOnMn0h1mdJfey9BOx"
+    },
+    {
+      "album": {
+        "name": "Disconnected Again",
+        "url": "https://open.spotify.com/album/74bPKYf8j7XgTng3w6sRVG"
+      },
+      "artists": [
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        },
+        {
+          "name": "Teminite",
+          "url": "https://open.spotify.com/artist/5EEuae5uigQnwgYCl0s8EF"
+        },
+        {
+          "name": "VGR",
+          "url": "https://open.spotify.com/artist/3pCoHlohSNQdXBNDxuWd12"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172204,
+      "name": "Disconnected Again",
+      "url": "https://open.spotify.com/track/3dgiAgyOipqxrEg3M18Xzh"
     },
     {
       "album": {
@@ -14880,6 +14928,28 @@
       "duration_ms": 251428,
       "name": "My Mind - Badjokes Remix",
       "url": "https://open.spotify.com/track/7uF9c7MgOQryPCXa7We2xM"
+    },
+    {
+      "album": {
+        "name": "HOME WAS ALWAYS ME (Chillhop Remixes)",
+        "url": "https://open.spotify.com/album/62aL0yOeujbiC36hlNMgQ3"
+      },
+      "artists": [
+        {
+          "name": "Evil Needle",
+          "url": "https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS"
+        },
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154999,
+      "name": "my mind - Evil Needle Remix",
+      "url": "https://open.spotify.com/track/0JapVHRhTu5fBZ4ar0T5y9"
     },
     {
       "album": {

@@ -7155,6 +7155,28 @@
     },
     {
       "album": {
+        "name": "For The Girls",
+        "url": "https://open.spotify.com/album/52KpLYqodi1WCoHL4Cljdq"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150922,
+      "name": "For The Girls",
+      "url": "https://open.spotify.com/track/2FcpOyFM5JRkKW7Y5xB3vX"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/6B5LA5m4bNlH1lTI91biWb"
       },
@@ -7498,6 +7520,24 @@
       "duration_ms": 174000,
       "name": "Freestyler (Rock The Microphone)",
       "url": "https://open.spotify.com/track/5Axl2Rjg3wOC3JHju1Gess"
+    },
+    {
+      "album": {
+        "name": "FRICTION",
+        "url": "https://open.spotify.com/album/23c0nGQhv2XXZ6SSQcZbvV"
+      },
+      "artists": [
+        {
+          "name": "Ben Gerrans",
+          "url": "https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164285,
+      "name": "FRICTION",
+      "url": "https://open.spotify.com/track/2tyuXpv3CarzWKm3CtcumY"
     },
     {
       "album": {
@@ -11752,7 +11792,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 229714,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/2zGn6hwGCnANDoSsAxlnRx"
@@ -14464,6 +14504,24 @@
       "duration_ms": 137065,
       "name": "Other Boys",
       "url": "https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd"
+    },
+    {
+      "album": {
+        "name": "Out My Body",
+        "url": "https://open.spotify.com/album/0PUCTG6UZVmyECMr5OjYZh"
+      },
+      "artists": [
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169968,
+      "name": "Out My Body",
+      "url": "https://open.spotify.com/track/1pA3PUVtJALwxZIQ6wj42X"
     },
     {
       "album": {
@@ -17626,7 +17684,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 204285,
       "name": "SMOOTH",
       "url": "https://open.spotify.com/track/4OizxOdBbiKXPFAHTVb8vp"
@@ -20482,7 +20540,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 210000,
       "name": "UGETME?",
       "url": "https://open.spotify.com/track/7k9QjWexvVU4668f4UhsBH"

@@ -4,7 +4,7 @@
 
 > The biggest Country hits of the year w Morgan Wallen, Tucker Wetmore, and Josh Ross! Cover: Taylor Swift
 
-469 songs - 1 day 1 hr 39 min
+470 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,7 +463,8 @@
 | [Wind Up Missin’ You](https://open.spotify.com/track/7iQMm50NNwlUIRWhONZR2k) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [Wind Up Missin’ You](https://open.spotify.com/album/4PphroUvQrXLzeLQKEtZOj) | 2:46 | 2024-06-17 | 2026-05-04 |
 | [Winning Streak](https://open.spotify.com/track/6dibjdPRlDUZabs8aokY4D) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 3:14 | 2024-10-11 | 2025-04-26 |
 | [Wish I Could Stay](https://open.spotify.com/track/79Zz9rFCSDhsSClr0M5Pzj) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Wish I Could Stay](https://open.spotify.com/album/72BoN6dPfgi95DQ7tcctFH) | 3:41 | 2024-03-22 | 2024-05-25 |
-| [Wish You Well](https://open.spotify.com/track/4ohvE3g8odEvv3aIZ3T70n) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Wish You Well](https://open.spotify.com/album/0kSjjQeVeJRmfZzochjKIO) | 2:36 | 2025-02-14 |  |
+| [Wish You Well](https://open.spotify.com/track/4NUEiSUy1L3HhIEteIcJeB) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [There I Go](https://open.spotify.com/album/1BuczKI8NR9VdbRkjP0KZg) | 2:36 | 2026-07-02 |  |
+| [Wish You Well](https://open.spotify.com/track/4ohvE3g8odEvv3aIZ3T70n) | [Vincent Mason](https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS) | [Wish You Well](https://open.spotify.com/album/0kSjjQeVeJRmfZzochjKIO) | 2:36 | 2025-02-14 | 2026-07-03 |
 | [Woman](https://open.spotify.com/track/6fWBVn4vwRnaOZiu5292Gd) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Woman](https://open.spotify.com/album/34Ya6PWAG8aOVRjUNIkmzq) | 2:36 | 2024-03-08 | 2024-05-18 |
 | [Word On The Street](https://open.spotify.com/track/5QGm7LwjBITwR0y9rLGM5i) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Word On The Street](https://open.spotify.com/album/4ey8hPgW4djj2mGXh9kllD) | 2:56 | 2026-02-20 |  |
 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 | 2023-11-10 | 2025-01-11 |

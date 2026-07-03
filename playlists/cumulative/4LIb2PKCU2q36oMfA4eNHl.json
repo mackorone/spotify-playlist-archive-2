@@ -597,6 +597,24 @@
     },
     {
       "album": {
+        "name": "Aspect of a Dream",
+        "url": "https://open.spotify.com/album/2BCyncsY49ch9VeF8fb36h"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252203,
+      "name": "Aspect of a Dream",
+      "url": "https://open.spotify.com/track/7rzSovbvOSupVvLIMdjFDe"
+    },
+    {
+      "album": {
         "name": "Reflections 08",
         "url": "https://open.spotify.com/album/49U4QIM62pLsUATN0ATjtP"
       },
@@ -1420,6 +1438,28 @@
       "duration_ms": 83410,
       "name": "Coffee In The Morning",
       "url": "https://open.spotify.com/track/3d1USIeQb0IGcOc8MatxAp"
+    },
+    {
+      "album": {
+        "name": "coherence",
+        "url": "https://open.spotify.com/album/5EJfDiECe8wG2qFqkxTaL6"
+      },
+      "artists": [
+        {
+          "name": "Cephas Azariah",
+          "url": "https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG"
+        },
+        {
+          "name": "josh & sam who are twins",
+          "url": "https://open.spotify.com/artist/3eFJwmWWuiOiGlzW0CAjIM"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190474,
+      "name": "coherence",
+      "url": "https://open.spotify.com/track/6rnkk96ksemA01lKy89kck"
     },
     {
       "album": {
@@ -2464,7 +2504,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 158651,
       "name": "Forever Held",
       "url": "https://open.spotify.com/track/1xp8KLwH1VbCcWSE1RtrBf"
@@ -3602,7 +3642,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 273032,
       "name": "Joy Paradox",
       "url": "https://open.spotify.com/track/0jtYpBdQgmlOJzuwUyFVyB"
@@ -4736,7 +4776,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 192695,
       "name": "Maggio",
       "url": "https://open.spotify.com/track/0lB1xFv2aTRhJJDQMD7EkK"
@@ -4960,6 +5000,28 @@
       "duration_ms": 184149,
       "name": "Mercury - Durante Ambient Edit",
       "url": "https://open.spotify.com/track/3XhJvC5B0smhtRZxJJ0xEI"
+    },
+    {
+      "album": {
+        "name": "Portraits",
+        "url": "https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218357,
+      "name": "Midas",
+      "url": "https://open.spotify.com/track/6VNooTY5w9A9wg1YUsEbKB"
     },
     {
       "album": {
@@ -6195,6 +6257,24 @@
     },
     {
       "album": {
+        "name": "Retrospective",
+        "url": "https://open.spotify.com/album/2Q5SwtIIfhYWpdQpiYisAR"
+      },
+      "artists": [
+        {
+          "name": "Applefish",
+          "url": "https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Retrospective",
+      "url": "https://open.spotify.com/track/4xzwdVGq4tMj4nV2EfgSx4"
+    },
+    {
+      "album": {
         "name": "Mango Figaro EP",
         "url": "https://open.spotify.com/album/3OO24YiKKcfiUUqqKMa18U"
       },
@@ -6456,7 +6536,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 207000,
       "name": "Shall We Begin",
       "url": "https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6"

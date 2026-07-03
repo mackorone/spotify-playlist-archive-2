@@ -19323,24 +19323,6 @@
     },
     {
       "album": {
-        "name": "songs about self hatred",
-        "url": "https://open.spotify.com/album/13itaA5Koqxnrqkyb3lPIN"
-      },
-      "artists": [
-        {
-          "name": "snafu",
-          "url": "https://open.spotify.com/artist/6D9QrghftPFUTOPkxAJfSp"
-        }
-      ],
-      "date_added": "2023-03-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 194029,
-      "name": "dreaming about how good things used to be",
-      "url": "https://open.spotify.com/track/1NNPaOqeQH9Uofh9WYtRN4"
-    },
-    {
-      "album": {
         "name": "DREAMING IN BINARY",
         "url": "https://open.spotify.com/album/3R0cfytoPJYO1AdT66m6UI"
       },
@@ -60170,6 +60152,24 @@
       "duration_ms": 173160,
       "name": "skype memories",
       "url": "https://open.spotify.com/track/7xhtIHNLf8cXmUvUUVZ3RD"
+    },
+    {
+      "album": {
+        "name": "curtains",
+        "url": "https://open.spotify.com/album/13itaA5Koqxnrqkyb3lPIN"
+      },
+      "artists": [
+        {
+          "name": "snafu",
+          "url": "https://open.spotify.com/artist/6D9QrghftPFUTOPkxAJfSp"
+        }
+      ],
+      "date_added": "2023-03-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194029,
+      "name": "sleep",
+      "url": "https://open.spotify.com/track/1NNPaOqeQH9Uofh9WYtRN4"
     },
     {
       "album": {

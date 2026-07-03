@@ -1,15 +1,35 @@
 {
-  "description": "Taking it way back! Cover: Jay-Z",
-  "num_followers": 4014194,
+  "description": "Taking it way back! Cover: Nas",
+  "num_followers": 4014147,
   "original_name": "Gold School",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI0MAGXECX2FV121jnuD3oQSGfQN",
+  "snapshot_id": "AAAAAH7QbTKuFsRZUrpoZvPjEDUkNPnG",
   "tracks": [
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
+      "album": {
+        "name": "It Was Written",
+        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 282373,
+      "name": "If I Ruled the World (Imagine That) (feat. Lauryn Hill)",
+      "url": "https://open.spotify.com/track/5PQmSHzWnlgG4EBuIqjac2"
+    },
+    {
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Stankonia",
         "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
@@ -25,7 +45,7 @@
       "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Pink Friday",
         "url": "https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl"
@@ -45,7 +65,7 @@
       "url": "https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Rolling Papers",
         "url": "https://open.spotify.com/album/6ZOXiVL8rmk2ATHJiFJhiD"
@@ -61,7 +81,7 @@
       "url": "https://open.spotify.com/track/5A6OHHy73AR5tLxgTc98zz"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
@@ -77,23 +97,7 @@
       "url": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
-      "album": {
-        "name": "Reasonable Doubt",
-        "url": "https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR"
-      },
-      "artists": [
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 266066,
-      "name": "Dead Presidents II",
-      "url": "https://open.spotify.com/track/3nDYsXggRQxf7PCNUjR4rz"
-    },
-    {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Scorpion",
         "url": "https://open.spotify.com/album/6ZWL1xSTEvqs5A6dBh8vZw"
@@ -113,7 +117,7 @@
       "url": "https://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
@@ -141,27 +145,23 @@
       "url": "https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
-        "name": "Hell: The Sequel (Deluxe)",
-        "url": "https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P"
+        "name": "Reasonable Doubt",
+        "url": "https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR"
       },
       "artists": [
         {
-          "name": "Bad Meets Evil",
-          "url": "https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
         }
       ],
-      "duration_ms": 303813,
-      "name": "Lighters",
-      "url": "https://open.spotify.com/track/5zpDHEU12zATwLGvozxPw2"
+      "duration_ms": 266066,
+      "name": "Dead Presidents II",
+      "url": "https://open.spotify.com/track/3nDYsXggRQxf7PCNUjR4rz"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "All Eyez On Me",
         "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
@@ -177,7 +177,23 @@
       "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
+      "album": {
+        "name": "It Was Written",
+        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        }
+      ],
+      "duration_ms": 279933,
+      "name": "Street Dreams",
+      "url": "https://open.spotify.com/track/0QnGI4OgY8ReggLWvEXdgD"
+    },
+    {
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "New Joc City",
         "url": "https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn"
@@ -197,7 +213,7 @@
       "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "MMG Presents: Self Made, Vol. 1",
         "url": "https://open.spotify.com/album/1xE3Obhzdpw4aIqPDMf4I4"
@@ -217,7 +233,7 @@
       "url": "https://open.spotify.com/track/7sjwaBQ6M3aVigYfBjm1sL"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "The Big Bang",
         "url": "https://open.spotify.com/album/3lT0XTcteJfBbPNoPAmNRq"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Lasers",
         "url": "https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D"
@@ -249,7 +265,35 @@
       "url": "https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
+      "album": {
+        "name": "It Was Written",
+        "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
+      },
+      "artists": [
+        {
+          "name": "Nas",
+          "url": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+        },
+        {
+          "name": "AZ",
+          "url": "https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg"
+        },
+        {
+          "name": "Cormega",
+          "url": "https://open.spotify.com/artist/4vQLu6vYK0hp8k0fsAzsU8"
+        },
+        {
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
+        }
+      ],
+      "duration_ms": 259800,
+      "name": "Affirmative Action (feat. AZ, Cormega & Foxy Brown)",
+      "url": "https://open.spotify.com/track/2Ja3UauMDeQnq4sI8a64Ys"
+    },
+    {
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Reasonable Doubt",
         "url": "https://open.spotify.com/album/3YPK0bNOuayhmSrs0sIIBR"
@@ -269,7 +313,7 @@
       "url": "https://open.spotify.com/track/68WCiBa9dfDU5PBhTl6MYe"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "The Saga Continues...",
         "url": "https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv"
@@ -293,7 +337,7 @@
       "url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Views",
         "url": "https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb"
@@ -309,7 +353,7 @@
       "url": "https://open.spotify.com/track/3NxAG2ni1lLa8RKL6a0INc"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
@@ -329,7 +373,7 @@
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "The Score (Expanded Edition)",
         "url": "https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb"
@@ -349,7 +393,7 @@
       "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "All Eyez On Me",
         "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
@@ -369,7 +413,7 @@
       "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Still Brazy (Deluxe)",
         "url": "https://open.spotify.com/album/5xYelOucTX5yIB93L6CVo4"
@@ -393,7 +437,7 @@
       "url": "https://open.spotify.com/track/4ezAjoV01phDz1SqO6SzEU"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Lupe Fiasco's Food & Liquor",
         "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
@@ -409,7 +453,7 @@
       "url": "https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Stakes Is High",
         "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
@@ -425,7 +469,7 @@
       "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Stankonia",
         "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
@@ -441,7 +485,7 @@
       "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Diary of a Sinner: 1st Entry",
         "url": "https://open.spotify.com/album/5HRSHdifYk7QXStjKB0SJZ"
@@ -457,7 +501,7 @@
       "url": "https://open.spotify.com/track/02GwPAncasVL82yC7y2hmN"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Devils Night",
         "url": "https://open.spotify.com/album/22CVoj4sxsAGO02OONbkQA"
@@ -473,7 +517,7 @@
       "url": "https://open.spotify.com/track/5IweeQZdY5XEzStLzUJG5t"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Paid Tha Cost To Be Da Bo$$",
         "url": "https://open.spotify.com/album/7F9hfZKh6WLOKME4LwCPZI"
@@ -497,7 +541,7 @@
       "url": "https://open.spotify.com/track/7FrJV8tydWEv1Mxu2mIQrm"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "My Ghetto Report Card",
         "url": "https://open.spotify.com/album/3VqKqWHOHYfZqttJ0WwQHl"
@@ -521,7 +565,7 @@
       "url": "https://open.spotify.com/track/7g7M96UGiA7OR79H86gV4m"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
@@ -541,7 +585,7 @@
       "url": "https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Legal Drug Money",
         "url": "https://open.spotify.com/album/6DciMZgZkLpqsjJUd5XgpF"
@@ -557,7 +601,7 @@
       "url": "https://open.spotify.com/track/71mNLAZsr1frFhpCa3JI8G"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Lupe Fiasco's Food & Liquor",
         "url": "https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED"
@@ -577,7 +621,7 @@
       "url": "https://open.spotify.com/track/50M2QjfSM82wkJ1d0iV4mh"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Tha Carter II",
         "url": "https://open.spotify.com/album/5qyUw6x9fjZPoQHUwuDu39"
@@ -593,7 +637,7 @@
       "url": "https://open.spotify.com/track/5X69MOmlbEJQA49rwn2tjd"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
@@ -609,23 +653,7 @@
       "url": "https://open.spotify.com/track/4LE8fR53Pjd6xmHBUlxArg"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
-      "album": {
-        "name": "Block Music",
-        "url": "https://open.spotify.com/album/60JjM21U15tdaMbiYv3naR"
-      },
-      "artists": [
-        {
-          "name": "Shawnna",
-          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
-        }
-      ],
-      "duration_ms": 202760,
-      "name": "Gettin' Some",
-      "url": "https://open.spotify.com/track/4uNisev7PGUAixBOagpgyY"
-    },
-    {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Hell: The Sequel (Deluxe)",
         "url": "https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P"
@@ -641,7 +669,7 @@
       "url": "https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "MMG Presents: Self Made, Vol. 1",
         "url": "https://open.spotify.com/album/1xE3Obhzdpw4aIqPDMf4I4"
@@ -661,7 +689,7 @@
       "url": "https://open.spotify.com/track/48tybOd2kxWaMjnYrEWTvY"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Flockaveli",
         "url": "https://open.spotify.com/album/6MQtWELG7aRX7CkAzQ6nLM"
@@ -685,7 +713,7 @@
       "url": "https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Country Grammar",
         "url": "https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE"
@@ -705,23 +733,7 @@
       "url": "https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
-      "album": {
-        "name": "Cali Iz Active",
-        "url": "https://open.spotify.com/album/6SVGws5zQnEfwkg2ov8HjV"
-      },
-      "artists": [
-        {
-          "name": "Tha Dogg Pound",
-          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
-        }
-      ],
-      "duration_ms": 284200,
-      "name": "Cali Iz Active",
-      "url": "https://open.spotify.com/track/4SmYdNUTXHUJrZyk7AR74B"
-    },
-    {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/2X7s6Gt8Xz2qEwlw4GVcQo"
@@ -737,7 +749,7 @@
       "url": "https://open.spotify.com/track/0CAJdthKDdRjB2h8YOguN6"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Coloring Book",
         "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
@@ -761,7 +773,7 @@
       "url": "https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Let's Get It: Thug Motivation 101",
         "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
@@ -781,7 +793,7 @@
       "url": "https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Nocturnal",
         "url": "https://open.spotify.com/album/6ZWiiTI0sHXAuzkv8x4Tth"
@@ -797,7 +809,7 @@
       "url": "https://open.spotify.com/track/3RvFnZZz1x00l8FIHE5wxx"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Face Off",
         "url": "https://open.spotify.com/album/4wDdJjtzFKzjo9neJhaTlU"
@@ -813,7 +825,7 @@
       "url": "https://open.spotify.com/track/6KoK723c5pmYKiHvH69JDr"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Tha Carter II",
         "url": "https://open.spotify.com/album/5qyUw6x9fjZPoQHUwuDu39"
@@ -829,7 +841,7 @@
       "url": "https://open.spotify.com/track/0V8Lfj3q1JyiKNBkHiQR4k"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Under Construction",
         "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
@@ -845,7 +857,7 @@
       "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "All Eyez On Me",
         "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
@@ -865,7 +877,7 @@
       "url": "https://open.spotify.com/track/6LwrEZNkvFTOypNwSLjuaJ"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Pain Is Love",
         "url": "https://open.spotify.com/album/2iIIgsaTEtVjDhrV7HKDJC"
@@ -885,7 +897,7 @@
       "url": "https://open.spotify.com/track/39w4Xgs8FvY2SJmZsHKn2K"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Tha Carter III (MTV Bonus Version)",
         "url": "https://open.spotify.com/album/4fRZNOawjx1uzGLN3VhAZ4"
@@ -905,7 +917,7 @@
       "url": "https://open.spotify.com/track/1pm7lQGl6mvKWDxesZTVFp"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "UGK (Underground Kingz)",
         "url": "https://open.spotify.com/album/4GXlMz68LyGZeHzJcetFi1"
@@ -925,7 +937,7 @@
       "url": "https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD"
     },
     {
-      "added_at": "2026-06-25 23:41:30",
+      "added_at": "2026-07-02 18:32:04",
       "album": {
         "name": "Stay Schemin",
         "url": "https://open.spotify.com/album/33bJwRLv35ynnhhFyj96hK"

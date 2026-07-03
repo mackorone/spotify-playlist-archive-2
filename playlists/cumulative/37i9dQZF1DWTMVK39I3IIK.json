@@ -2483,6 +2483,24 @@
     },
     {
       "album": {
+        "name": "F\u00f8r du siger farvel",
+        "url": "https://open.spotify.com/album/0fdDLy5cZ6jo4Tznlibbby"
+      },
+      "artists": [
+        {
+          "name": "Loui Henderson",
+          "url": "https://open.spotify.com/artist/6rkkXp7EUJhyE9K4jDFuc0"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185719,
+      "name": "F\u00f8r du siger farvel",
+      "url": "https://open.spotify.com/track/4jiTmYrDMu2B8DH2Np3o2e"
+    },
+    {
+      "album": {
         "name": "F\u00f8rhen",
         "url": "https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR"
       },
@@ -5998,7 +6016,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 164734,
       "name": "Satellitter",
       "url": "https://open.spotify.com/track/6DNt0db6d4ILFcUfSv47xe"

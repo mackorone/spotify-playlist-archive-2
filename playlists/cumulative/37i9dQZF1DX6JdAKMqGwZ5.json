@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Alba Morena.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: Teo Planell.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 184653,
       "name": "(es posible)",
       "url": "https://open.spotify.com/track/4CtDnjoCgSHnxwTgutzRMt"
+    },
+    {
+      "album": {
+        "name": "0MG!",
+        "url": "https://open.spotify.com/album/32nXbktyEcNoQDB7u18gJx"
+      },
+      "artists": [
+        {
+          "name": "Mira Paula",
+          "url": "https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166621,
+      "name": "0MG!",
+      "url": "https://open.spotify.com/track/11YB2ERzv4xO7BBmtNFyPQ"
     },
     {
       "album": {
@@ -718,6 +736,24 @@
       "duration_ms": 187300,
       "name": "Ahora Qu\u00e9",
       "url": "https://open.spotify.com/track/5dZ5xLXPB02NrOku9Vc0XP"
+    },
+    {
+      "album": {
+        "name": "AIRE",
+        "url": "https://open.spotify.com/album/1CWPd3kiyiRNxDeoUrZuh9"
+      },
+      "artists": [
+        {
+          "name": "Ana Farelo",
+          "url": "https://open.spotify.com/artist/6Z2XTS8Tp7ED98GdCtP5Tm"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180840,
+      "name": "AIRE",
+      "url": "https://open.spotify.com/track/2d4PhoTChOsnrulab9Q9Dw"
     },
     {
       "album": {
@@ -2123,6 +2159,24 @@
     },
     {
       "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2tQFs7w7GqTfGFS8uT1Ev8"
+      },
+      "artists": [
+        {
+          "name": "Teo Planell",
+          "url": "https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123375,
+      "name": "Camila",
+      "url": "https://open.spotify.com/track/2C4GuNW7SzpQth4I17xUgY"
+    },
+    {
+      "album": {
         "name": "de Sol en Sol",
         "url": "https://open.spotify.com/album/16ugOIf3psA88gt1oqFtpf"
       },
@@ -2846,6 +2900,28 @@
       "duration_ms": 201386,
       "name": "Confesi\u00f3n",
       "url": "https://open.spotify.com/track/6BRuMsCCWQ0pMqH2LhGJgT"
+    },
+    {
+      "album": {
+        "name": "conf\u00eda / \u062a\u064a\u0642",
+        "url": "https://open.spotify.com/album/3dRxnek361DeKuvS4Mco12"
+      },
+      "artists": [
+        {
+          "name": "Sabah",
+          "url": "https://open.spotify.com/artist/6ioCCK1VodUI3DEL0d5Kau"
+        },
+        {
+          "name": "LUCYCALYS",
+          "url": "https://open.spotify.com/artist/3DRfvyZVFYa87h4DXgSVOI"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172689,
+      "name": "conf\u00eda / \u062a\u064a\u0642",
+      "url": "https://open.spotify.com/track/0PO79qSW7afeqvDbVHH7VE"
     },
     {
       "album": {
@@ -3673,6 +3749,24 @@
     },
     {
       "album": {
+        "name": "ATL\u00c1NTICO",
+        "url": "https://open.spotify.com/album/4pkWNa2blLWxTPPTOQXwoz"
+      },
+      "artists": [
+        {
+          "name": "West Srk",
+          "url": "https://open.spotify.com/artist/0M0cPEB7uDiRRc22XtyRBZ"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "DESASTRE",
+      "url": "https://open.spotify.com/track/5NMlBtIr4iJ5mPrh4b9lfN"
+    },
+    {
+      "album": {
         "name": "Descuidarme",
         "url": "https://open.spotify.com/album/5zPX4zvXObI2Vmbd24ZsnR"
       },
@@ -3774,7 +3868,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 201153,
       "name": "Desde que t\u00fa te has ido",
       "url": "https://open.spotify.com/track/3Oq1INrQqyrOZoQaiRpF8N"
@@ -3796,6 +3890,24 @@
       "duration_ms": 173290,
       "name": "Desencantada",
       "url": "https://open.spotify.com/track/1C9zWuj9iiiWqNrfsdxso1"
+    },
+    {
+      "album": {
+        "name": "desespero",
+        "url": "https://open.spotify.com/album/5R4cWGgf5Gkee4ISJouCaX"
+      },
+      "artists": [
+        {
+          "name": "BALONCESTO",
+          "url": "https://open.spotify.com/artist/37KpgwJAlQfKRRwdEkv1CO"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132303,
+      "name": "desespero",
+      "url": "https://open.spotify.com/track/01LTw1am3qHNvSWogwZMK5"
     },
     {
       "album": {
@@ -3958,7 +4070,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 172363,
       "name": "Dime que me quieres",
       "url": "https://open.spotify.com/track/5eKkRAGDeLbXBBdRTb9V0Z"
@@ -8573,6 +8685,32 @@
     },
     {
       "album": {
+        "name": "LOS SUBE Y BAJA",
+        "url": "https://open.spotify.com/album/6ZV9gbgxaZfdd4nJYgaNlR"
+      },
+      "artists": [
+        {
+          "name": "HORROCRUX",
+          "url": "https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW"
+        },
+        {
+          "name": "mrq",
+          "url": "https://open.spotify.com/artist/4l7G9iUE2qw7QzZdr33ICw"
+        },
+        {
+          "name": "AMARILLO VERANO",
+          "url": "https://open.spotify.com/artist/5tN67sOL2yhsIfCSD8VnL2"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143414,
+      "name": "LOS SUBE Y BAJA",
+      "url": "https://open.spotify.com/track/2sVcGvbZuE9uXHjN1uTcPp"
+    },
+    {
+      "album": {
         "name": "Love Is The Answer",
         "url": "https://open.spotify.com/album/5HRJWH5QAxAuZSVrMeWlCY"
       },
@@ -8880,7 +9018,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 193829,
       "name": "Mar Menor",
       "url": "https://open.spotify.com/track/05ayk6fobIziUqX3BSslaK"
@@ -9746,6 +9884,40 @@
       "duration_ms": 166906,
       "name": "MODO VENGANZA!!!",
       "url": "https://open.spotify.com/track/2litFxJmP3G7NnR0fCDFJ3"
+    },
+    {
+      "album": {
+        "name": "Momentos",
+        "url": "https://open.spotify.com/album/1BnR9S6ZQxdPEp5HscGTyM"
+      },
+      "artists": [
+        {
+          "name": "Anni B Sweet",
+          "url": "https://open.spotify.com/artist/0S2pLaAtWA8lyNyLSdpnbw"
+        },
+        {
+          "name": "Pedro de Dios",
+          "url": "https://open.spotify.com/artist/52TgpYE2nVGzH2uNpAllxt"
+        },
+        {
+          "name": "Popi Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/7qNLNOQxhUbNH0UI7PinLo"
+        },
+        {
+          "name": "Antonio Arias",
+          "url": "https://open.spotify.com/artist/0kIv007LrwflJrXfMq2jEI"
+        },
+        {
+          "name": "Zeke Olmo",
+          "url": "https://open.spotify.com/artist/1T91dtHVNwZSH3p5nPiBKH"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242091,
+      "name": "Momentos",
+      "url": "https://open.spotify.com/track/2RNLqUB20UQgbfURhcgXlS"
     },
     {
       "album": {
@@ -12344,7 +12516,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 196529,
       "name": "Que Le Jodan Al Mundo",
       "url": "https://open.spotify.com/track/4Ps6AWhKeKw718RdeYI37H"
@@ -13190,7 +13362,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 179408,
       "name": "Salvavidas",
       "url": "https://open.spotify.com/track/5YGrazDskXyeiUFhGLjHj1"
@@ -13280,7 +13452,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 151000,
       "name": "se te ve feliz",
       "url": "https://open.spotify.com/track/7L9ct6NyuHjrU3tO12CJWZ"
@@ -14962,7 +15134,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 147187,
       "name": "Todo lo que dura se marchita",
       "url": "https://open.spotify.com/track/3iwwak9JY3wHprPr0ca5Eh"
@@ -15042,6 +15214,24 @@
       "duration_ms": 134556,
       "name": "Tormenta de Verano",
       "url": "https://open.spotify.com/track/2VxJ25Mth6Sgo1s8gJJmcL"
+    },
+    {
+      "album": {
+        "name": "Toujours oui <3",
+        "url": "https://open.spotify.com/album/641w6gi2pPsJG6kcQU6vcA"
+      },
+      "artists": [
+        {
+          "name": "Yoly Saa",
+          "url": "https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205738,
+      "name": "Toujours oui <3",
+      "url": "https://open.spotify.com/track/0G2h1Z7o0xLIkhCyPnUrGO"
     },
     {
       "album": {
@@ -15136,7 +15326,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 154178,
       "name": "Tu Cama",
       "url": "https://open.spotify.com/track/6d703PKCsvMKo71Jv0QcE9"
@@ -16132,7 +16322,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 198920,
       "name": "Voy a pensar en ti",
       "url": "https://open.spotify.com/track/7j0X2ye2TMNaa8gIrVoN89"

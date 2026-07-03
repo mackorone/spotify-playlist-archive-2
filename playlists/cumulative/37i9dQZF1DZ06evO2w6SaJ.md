@@ -4,7 +4,7 @@
 
 > This is Crazy Town\. The essential tracks, all in one playlist.
 
-52 songs - 3 hr 0 min
+53 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Lighthouse](https://open.spotify.com/track/0hGCYEqYNOjNT31wHPy4HX) | [Silos](https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB), [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [Lighthouse](https://open.spotify.com/album/7iisWcs9RmyaQqoXdZjogz) | 3:42 | 2024-09-17 | 2025-05-10 |
 | [Lighthouse](https://open.spotify.com/track/5VVSJqGpIKPVGntd7qFUeI) | [Silos](https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB), [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [APOCALIPS](https://open.spotify.com/album/72F2zT9lAbEBuvWuzeUpLH) | 3:42 | 2025-05-10 | 2025-09-05 |
 | [Lighthouse](https://open.spotify.com/track/5lwvkxtVrTn0RRAFaK2CL7) | [Silos](https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9), [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB), [Ray Garrison](https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64) | [APOCALIPS](https://open.spotify.com/album/5OMpybxIvoGyyFHj9hCTof) | 3:42 | 2025-09-05 |  |
-| [Lollipop Porn](https://open.spotify.com/track/1PgJo1TIsiiYIpnzrLAmrz) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:54 | 2024-09-17 |  |
+| [Lollipop Porn](https://open.spotify.com/track/1PgJo1TIsiiYIpnzrLAmrz) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:54 | 2024-09-17 | 2026-07-03 |
+| [Lollipop Porn \- Explicit Album Version](https://open.spotify.com/track/5DFOPFAEKax83BRIJefrV6) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/4hLQA4V348qQjKKDGlYEYV) | 3:54 | 2026-07-03 |  |
 | [Megatron](https://open.spotify.com/track/1NcZGjLqdy6EjTikupoHsf) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se), [Boondock](https://open.spotify.com/artist/2VJcsmmDtLZshqPz98C50N) | [The Brimstone Sluggers](https://open.spotify.com/album/39d86x9uCuHaMr8kt9uxAp) | 3:41 | 2024-09-17 |  |
 | [Only When I'm Drunk](https://open.spotify.com/track/7DfixNv2EXmgksXmse0BXs) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 2:48 | 2024-12-11 | 2025-01-06 |
 | [Revolving Door](https://open.spotify.com/track/29BNwy4DiJbLSf796C337g) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:40 | 2024-09-17 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,905 likes - 62 songs - 3 hr 26 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,908 likes - 63 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 60 | [Bedroom Eyes](https://open.spotify.com/track/3qOzschVOffCPjbac03qyB) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Bedroom Eyes](https://open.spotify.com/album/39WBNLBTWcHWdik02WZUy8) | 3:36 |
 | 61 | [Anotherwave](https://open.spotify.com/track/10WZEaaJ2MsKMgPJpxgaRO) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Anotherwave](https://open.spotify.com/album/4RUBLJUANaWzNZSJV7Xmox) | 4:06 |
 | 62 | [Do You Mind](https://open.spotify.com/track/7wP2y4niJpt6ddP7dYULMC) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Do You Mind](https://open.spotify.com/album/1xpJNh2AczS0XSKaf01uyJ) | 3:07 |
+| 63 | [Jera](https://open.spotify.com/track/5P8xG7b988v4t8fom6Go0s) | [Narasimha](https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV) | [Jera](https://open.spotify.com/album/4hjOgPTQYAukouOCspVRiC) | 2:55 |
 
-Snapshot ID: `AAARt9oaUcmo+fz8iB6UoVwNFcnOE0Qa`
+Snapshot ID: `AAARuGOmJLwdR50+Dkrv/PhoUi7F0l2O`

@@ -4,7 +4,7 @@
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: Keyveatz\)
 
-1,927 songs - 4 day 6 hr 53 min
+1,928 songs - 4 day 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,6 +664,7 @@
 | [Have your Way](https://open.spotify.com/track/7EtCi9XE0F4A7oGYvhLIZZ) | [OXYNOVA](https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa) | [ALL IN A WEEK](https://open.spotify.com/album/5mu1d7Fu4XosbzAgRFk46B) | 1:55 | 2025-10-21 | 2025-12-31 |
 | [HBD](https://open.spotify.com/track/4A1ebEAzG7zN385y88Rs5F) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [HBD](https://open.spotify.com/album/3elyXc4qG16WZfqXAomDZ6) | 3:02 | 2024-05-21 | 2024-09-20 |
 | [Head & Heart](https://open.spotify.com/track/1DJuyzLqHAwgR52PFfVIe8) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC) | [Beautiful Street](https://open.spotify.com/album/2vr1wblFAvzgsLT8USDUfb) | 3:24 | 2022-10-03 | 2023-01-18 |
+| [Headrock](https://open.spotify.com/track/2mup9ZJa9brkbC6ly7qOIO) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Headrock](https://open.spotify.com/album/66aBGecLMEXKyhOcr6Ec8V) | 2:39 | 2026-07-02 |  |
 | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/track/4NxaAErB1ylDeFr6kSFxDF) | [Lil Cherry](https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [HEART DODUMI 2 \(feat\. Moon Sujin\)](https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV) | 2:21 | 2023-02-08 | 2023-09-08 |
 | [HEAT](https://open.spotify.com/track/4NGxERsvOQ2ok6Co4LJfS4) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Street Woman Fighter2 \(SWF2\) \(Original Television Soundtrack\)](https://open.spotify.com/album/46YdNSoIhb5AM8KOn3dana) | 3:14 | 2023-09-12 | 2024-03-09 |
 | [HEAT](https://open.spotify.com/track/4MDdvtd216XIXnewQ0WunH) | [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [HEAT](https://open.spotify.com/album/3WYkzPgdmVamYYAxR6W4Bk) | 3:13 | 2021-12-21 | 2022-07-07 |

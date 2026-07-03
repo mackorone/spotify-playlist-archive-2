@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Tomlin. The essential tracks, all in one playlist.",
-  "num_followers": 141385,
+  "num_followers": 141389,
   "original_name": "This Is Chris Tomlin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akMHAAAAAAD5S6t3buZsw/U2b6ho4yJ7",
+  "snapshot_id": "akRYgAAAAAB8K48GQfuTgB2OqFRGDJSk",
   "tracks": [
     {
       "added_at": null,
@@ -899,6 +899,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Ran Red",
+        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
+      },
+      "artists": [
+        {
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+        }
+      ],
+      "duration_ms": 211506,
+      "name": "Jesus Loves Me",
+      "url": "https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Passion: God Of This City (Live)",
         "url": "https://open.spotify.com/album/24z98dXXubMZqaRUq2FwWa"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 305992,
       "name": "God Of This City - Live",
       "url": "https://open.spotify.com/track/5sVuyUiMySYdKGXKRROd52"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Ran Red",
-        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
-      },
-      "artists": [
-        {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
-        }
-      ],
-      "duration_ms": 211506,
-      "name": "Jesus Loves Me",
-      "url": "https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE"
     },
     {
       "added_at": null,

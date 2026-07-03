@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Todo lo nuevo de m\u00fasica tropical \ud83d\udcf8 Los Herrera\n",
+  "description": "Todo lo nuevo de m\u00fasica tropical \ud83d\udcf8 Sebasti\u00e1n Mendoza & Luciano Pereyra",
   "name": "Novedades Tropicales",
   "tracks": [
     {
@@ -840,6 +840,28 @@
       "duration_ms": 234338,
       "name": "A Beber - Remix",
       "url": "https://open.spotify.com/track/1JuVdA20hFGqSs07owrgMb"
+    },
+    {
+      "album": {
+        "name": "A Besitos",
+        "url": "https://open.spotify.com/album/7nrr35dod68fylZ4caxIz2"
+      },
+      "artists": [
+        {
+          "name": "Koke Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/1u4gsAu037b7wFfPCI0Att"
+        },
+        {
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163139,
+      "name": "A Besitos",
+      "url": "https://open.spotify.com/track/35YoCiW3LhnzO0t5HBPGKe"
     },
     {
       "album": {
@@ -10161,6 +10183,24 @@
     },
     {
       "album": {
+        "name": "BESANDOTE",
+        "url": "https://open.spotify.com/album/0gZXfrcUIc6E9zZQKbTH3d"
+      },
+      "artists": [
+        {
+          "name": "La Pleyer",
+          "url": "https://open.spotify.com/artist/2aNUpJ7j735QzVplzYdlRJ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156003,
+      "name": "BESANDOTE",
+      "url": "https://open.spotify.com/track/1MqsBPNwF5miUDdxTYGxmX"
+    },
+    {
+      "album": {
         "name": "Besar Tu Piel (Sesiones Ac\u00fasticas)",
         "url": "https://open.spotify.com/album/7ufX2ZSk6aF2zgRYUctUPO"
       },
@@ -16764,7 +16804,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 201722,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/16gAt60A84EuNptJYRN6zY"
@@ -19574,6 +19614,32 @@
       "duration_ms": 165692,
       "name": "Cumbia Cumbia Cumbia",
       "url": "https://open.spotify.com/track/6TGMcOJ33TcHL3rAJuREMp"
+    },
+    {
+      "album": {
+        "name": "MEDIA NARANJA / Zapada EN VIVO en UN POCO DE RUIDO !",
+        "url": "https://open.spotify.com/album/4GX9be3tcee1TlMPwY6qwi"
+      },
+      "artists": [
+        {
+          "name": "Media Naranja",
+          "url": "https://open.spotify.com/artist/1CPCudqABxMYzF2PFEfQme"
+        },
+        {
+          "name": "Un Poco de Ruido",
+          "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
+        },
+        {
+          "name": "Pinky SD",
+          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129708,
+      "name": "Cumbia De La Pura",
+      "url": "https://open.spotify.com/track/6yn1nwvlXunbYmzCOWPk7o"
     },
     {
       "album": {
@@ -28044,7 +28110,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 226013,
       "name": "El Jard\u00edn del Placer",
       "url": "https://open.spotify.com/track/675zc522RkFW7lXIJ59mbd"
@@ -39772,7 +39838,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 187833,
       "name": "Insomnio",
       "url": "https://open.spotify.com/track/6HvCnnpczfz1FQ98DK7QWZ"
@@ -40676,6 +40742,28 @@
       "duration_ms": 184148,
       "name": "KE FISURA",
       "url": "https://open.spotify.com/track/6Lzb44fUxU8mbBUsw3IKff"
+    },
+    {
+      "album": {
+        "name": "Ke T Pari\u00f3",
+        "url": "https://open.spotify.com/album/1hjMAgGi9RzOYZDPi8HHmR"
+      },
+      "artists": [
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+        },
+        {
+          "name": "Dale Q\u00b4Va",
+          "url": "https://open.spotify.com/artist/0lVTgkEB6pTVpULFQQkRzp"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177096,
+      "name": "Ke T Pari\u00f3",
+      "url": "https://open.spotify.com/track/19Wfayji3BXPOjvU0GXu8N"
     },
     {
       "album": {
@@ -43386,6 +43474,28 @@
       "duration_ms": 207214,
       "name": "La Historia de Amor",
       "url": "https://open.spotify.com/track/7DirVnIy9Lae6QsZX5pT8j"
+    },
+    {
+      "album": {
+        "name": "La Historia | Variet\u00e9 #8",
+        "url": "https://open.spotify.com/album/1xcFvlXXmF0eEjpr7R6JXD"
+      },
+      "artists": [
+        {
+          "name": "Tincho & Javi",
+          "url": "https://open.spotify.com/artist/0mDd8pZbNfiDNBrL1qybaK"
+        },
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "La Historia | Variet\u00e9 #8",
+      "url": "https://open.spotify.com/track/4wjM89LjqX8eStqmjGmUk0"
     },
     {
       "album": {
@@ -47448,7 +47558,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 169000,
       "name": "Lento",
       "url": "https://open.spotify.com/track/2vTtSHTr22CtcXL27MkHPv"
@@ -52661,6 +52771,28 @@
     },
     {
       "album": {
+        "name": "Me das cada d\u00eda m\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/6UqKdGO27oihu4A0Hlf5pO"
+      },
+      "artists": [
+        {
+          "name": "Valeria Lynch",
+          "url": "https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM"
+        },
+        {
+          "name": "Cumbia Club",
+          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199827,
+      "name": "Me das cada d\u00eda m\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/0FOZMbihjlBYlROGEWjJF0"
+    },
+    {
+      "album": {
         "name": "Me Declaro Borrach@",
         "url": "https://open.spotify.com/album/5CDEA02p0n6uRaVmDOkwCd"
       },
@@ -53170,6 +53302,28 @@
       "duration_ms": 183500,
       "name": "Me Enamor\u00e9 De Ti - Versi\u00f3n Cumbia",
       "url": "https://open.spotify.com/track/6cbg48sd1la7bvrX0KB0KA"
+    },
+    {
+      "album": {
+        "name": "Me Enamor\u00e9 De Ti - Versi\u00f3n Cumbia (En Vivo)",
+        "url": "https://open.spotify.com/album/6aokeaeEcGuARIX5hmQJPA"
+      },
+      "artists": [
+        {
+          "name": "Luciano Pereyra",
+          "url": "https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU"
+        },
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200296,
+      "name": "Me Enamor\u00e9 De Ti - Versi\u00f3n Cumbia (En Vivo)",
+      "url": "https://open.spotify.com/track/1MnVM3E3t4GcpwuPS2Ndfo"
     },
     {
       "album": {
@@ -58302,7 +58456,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 283222,
       "name": "Muchacha Encantadora",
       "url": "https://open.spotify.com/track/6b8dLvzkL8v1swutvtVrfs"
@@ -61758,7 +61912,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 136208,
       "name": "No Me Pidas Perd\u00f3n",
       "url": "https://open.spotify.com/track/5LVfLuWwNmHKGpo9X16vRY"
@@ -67862,7 +68016,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 258079,
       "name": "Pase lo que pase",
       "url": "https://open.spotify.com/track/6XgW5ANJalpPTDAHku7bTu"
@@ -72706,7 +72860,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 167866,
       "name": "Pueblerina",
       "url": "https://open.spotify.com/track/6wUQKXGhcXYoUODXTLjQ1c"
@@ -73412,6 +73566,32 @@
       "duration_ms": 180440,
       "name": "Que La Mantenga Su Madre",
       "url": "https://open.spotify.com/track/7HSS7cGprkuXJttHwmVXjr"
+    },
+    {
+      "album": {
+        "name": "LOS \u00c1NGELES DE CHARLY / Zapada EN VIVO en UN POCO DE RUIDO !",
+        "url": "https://open.spotify.com/album/1UEmPChUuFcO45q6biyELi"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles De Charly",
+          "url": "https://open.spotify.com/artist/01pQZzNIPRiVaCozNUrnyL"
+        },
+        {
+          "name": "Un Poco de Ruido",
+          "url": "https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0"
+        },
+        {
+          "name": "Pinky SD",
+          "url": "https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Que Levante La Mano",
+      "url": "https://open.spotify.com/track/1FyeAyvE67mlSXVnDnqi9f"
     },
     {
       "album": {
@@ -74392,6 +74572,28 @@
       "duration_ms": 160610,
       "name": "Quedamos solo amigos",
       "url": "https://open.spotify.com/track/29ImtnW7jPW3JsnF9RtUrX"
+    },
+    {
+      "album": {
+        "name": "Quedate",
+        "url": "https://open.spotify.com/album/7Gm8oZkRAkGrnAH8JsFsPp"
+      },
+      "artists": [
+        {
+          "name": "El Tecla",
+          "url": "https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH"
+        },
+        {
+          "name": "BANDIDO",
+          "url": "https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132034,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/3ptfCePUOelp3nr6uPagIV"
     },
     {
       "album": {
@@ -81018,7 +81220,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 289578,
       "name": "Si T\u00fa Est\u00e1s Aqu\u00ed",
       "url": "https://open.spotify.com/track/1PCsiUdJn4x7UyIWWRmQRE"
@@ -86854,6 +87056,28 @@
     {
       "album": {
         "name": "Te Perd\u00ed",
+        "url": "https://open.spotify.com/album/768NM4jv1lZAJl5jMYBC69"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        },
+        {
+          "name": "Simon Aguirre",
+          "url": "https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194048,
+      "name": "Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/1cCPEjlC2OGUKSOGLvaoWC"
+    },
+    {
+      "album": {
+        "name": "Te Perd\u00ed",
         "url": "https://open.spotify.com/album/1paBhKhEZcoImQbt03qhng"
       },
       "artists": [
@@ -90372,7 +90596,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 185672,
       "name": "Tu Copia de la Llave",
       "url": "https://open.spotify.com/track/6P7TCdBhj7cxqYs0v4VcI2"
@@ -92676,6 +92900,28 @@
       "duration_ms": 184864,
       "name": "Un Besito M\u00e1s",
       "url": "https://open.spotify.com/track/15EbEcyVuKFKsQFLVQPjrr"
+    },
+    {
+      "album": {
+        "name": "Un Beso",
+        "url": "https://open.spotify.com/album/7gG5gsMVGNnPfDBZENVoJ8"
+      },
+      "artists": [
+        {
+          "name": "Marilina",
+          "url": "https://open.spotify.com/artist/7qSLLZ3ZwUQUgY9KdN9IHE"
+        },
+        {
+          "name": "Lauta",
+          "url": "https://open.spotify.com/artist/5ELYwDwhy00ecTXhfsKWci"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128275,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/5jTCk2kCYZoxABaPn5L6U8"
     },
     {
       "album": {
@@ -97660,7 +97906,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 199630,
       "name": "XQ Te Pones As\u00ed / Prohibidox",
       "url": "https://open.spotify.com/track/4usUx7odW8Z1BCOIQQayZN"

@@ -1,13 +1,53 @@
 {
   "description": "Playlist",
-  "num_followers": 18079,
+  "num_followers": 18080,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMg+tmoB35EkuUFgcGhhgiJXXKpfUx",
+  "snapshot_id": "AAAMhREsxl+aSRm9tAms1i0uNObwFL9C",
   "tracks": [
+    {
+      "added_at": "2026-07-02 10:39:01",
+      "album": {
+        "name": "Ar Fresco",
+        "url": "https://open.spotify.com/album/3X7cwZY7OQlkq2BZvfXSCF"
+      },
+      "artists": [
+        {
+          "name": "Golf Trip",
+          "url": "https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A"
+        },
+        {
+          "name": "Rachel Kitchlew",
+          "url": "https://open.spotify.com/artist/5EkOHfxgVoxfKQu1b89W7C"
+        },
+        {
+          "name": "Sreya",
+          "url": "https://open.spotify.com/artist/3dr0bDqmElcH4qBAN5j5GV"
+        }
+      ],
+      "duration_ms": 242701,
+      "name": "Ar Fresco",
+      "url": "https://open.spotify.com/track/2n2J1IyAZQcAJZnekdnEPM"
+    },
+    {
+      "added_at": "2026-07-02 10:38:49",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
+    },
     {
       "added_at": "2026-05-22 09:14:07",
       "album": {

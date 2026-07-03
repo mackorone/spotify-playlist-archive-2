@@ -4,7 +4,7 @@
 
 > Playlist
 
-648 songs - 1 day 14 hr 20 min
+650 songs - 1 day 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Alive](https://open.spotify.com/track/2zAzuCsqsZkSkozxTXqtSn) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Alive](https://open.spotify.com/album/3EfT0FhcsFzflCWBTxJd2k) | 3:00 | 2023-10-25 |  |
 | [All in Vision](https://open.spotify.com/track/1w173PQRDHJ8FFXrnQndCl) | [Pasiflorez](https://open.spotify.com/artist/1AoUutm6HXbWfMIvdF9QIm) | [All in Vision](https://open.spotify.com/album/4Smx26vI5kJIlp1OSkV7ol) | 3:53 | 2023-10-25 |  |
 | [All in Vision](https://open.spotify.com/track/6UnsutmGe4e7PizoQOPqOk) | [Pasiflorez](https://open.spotify.com/artist/1AoUutm6HXbWfMIvdF9QIm) | [Passion Flower](https://open.spotify.com/album/7zOE5ULHKnMUP3DaPaSd16) | 3:53 | 2023-10-25 |  |
+| [All Night](https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [All Night](https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td) | 3:16 | 2026-07-02 |  |
 | [All this Time](https://open.spotify.com/track/28hyoNNWSj0FXp4De6wRu7) | [Marcoca](https://open.spotify.com/artist/4gGuwY7KzJNNyA0JMlMvt4) | [Homage to Delusion](https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76) | 3:42 | 2024-09-20 |  |
 | [All You Gotta Do Is Wait](https://open.spotify.com/track/6ZU9YUeXRY7NIAuZyEvew8) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [So Sweet So Nice](https://open.spotify.com/album/15mLrCaxxDCyMrMfdr8sRy) | 4:53 | 2023-10-25 |  |
 | [Almost Gone](https://open.spotify.com/track/41V6CmvsziCMhKL1hy8o4L) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Essential John Moods](https://open.spotify.com/album/6yluHZ4EXwXBrjecaBcgwP) | 3:55 | 2023-10-25 |  |
@@ -43,6 +44,7 @@
 | [Any Old](https://open.spotify.com/track/4SC5Cv1FXWkElwyLngWJs2) | [Joe Ghatt](https://open.spotify.com/artist/2YiwZQDl2NHiYXTggmtDZ3) | [Banana Sludge](https://open.spotify.com/album/1UukPqBYfdN54f5RSvSxt0) | 3:34 | 2023-10-25 |  |
 | [Anyone](https://open.spotify.com/track/6QUapJmmyhbu8lLhH1zD5A) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Great Design](https://open.spotify.com/album/5jW4cU4BBp9z1nthhvPiNR) | 4:11 | 2023-10-25 |  |
 | [Anywhere](https://open.spotify.com/track/3xtF1dMTPN999P3G0GNeGP) | [RALPH TV](https://open.spotify.com/artist/4ClXiGv8w47iekyGEmtAyy) | [Anywhere](https://open.spotify.com/album/2RCiMMAvgpvgWMTx9wgTcB) | 3:19 | 2023-10-25 |  |
+| [Ar Fresco](https://open.spotify.com/track/2n2J1IyAZQcAJZnekdnEPM) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A), [Rachel Kitchlew](https://open.spotify.com/artist/5EkOHfxgVoxfKQu1b89W7C), [Sreya](https://open.spotify.com/artist/3dr0bDqmElcH4qBAN5j5GV) | [Ar Fresco](https://open.spotify.com/album/3X7cwZY7OQlkq2BZvfXSCF) | 4:02 | 2026-07-02 |  |
 | [Are You Ready?](https://open.spotify.com/track/0f6mkOsTAsAdjZEca7uNed) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [So Sweet So Nice](https://open.spotify.com/album/15mLrCaxxDCyMrMfdr8sRy) | 2:49 | 2023-10-25 | 2024-11-21 |
 | [As Summer Comes](https://open.spotify.com/track/5yTxOMGd0yI1kefxyk4SzJ) | [George Bloomfield](https://open.spotify.com/artist/2KORQIjhKGBWEtfxSSW7vg) | [Space Between](https://open.spotify.com/album/0onQ6IDvY0CdmfAfFzkU1D) | 3:48 | 2023-10-25 |  |
 | [Asc\. Scorpio](https://open.spotify.com/track/3Af0Uw9IfaJzb6ZBi2Jdl6) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Asc\. Scorpio](https://open.spotify.com/album/7JU9R2cwpftETvz94nhUfR) | 2:46 | 2023-10-25 |  |

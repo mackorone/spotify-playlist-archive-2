@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Sweet afro melodies. Cover:  Joeboy",
+  "description": "Sweet afro melodies. Cover:  Reekado Banks",
   "name": "Ginja",
   "tracks": [
     {
@@ -6056,7 +6056,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 157487,
       "name": "Feel Am",
       "url": "https://open.spotify.com/track/7yzAJ1TZp7unjQGwOgE6Fi"
@@ -8006,7 +8006,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 119347,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/2mHSiO1I0L8VlvXXMBdoNU"
@@ -18355,6 +18355,24 @@
     },
     {
       "album": {
+        "name": "Worthy Challenger",
+        "url": "https://open.spotify.com/album/0WKTcQ4BvpNVKWYswVm1gU"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/1lKPYCHbsmfviBbUq6xyZB"
+    },
+    {
+      "album": {
         "name": "Next Rated",
         "url": "https://open.spotify.com/album/7kw7JdzgwwbvKPjznLpabZ"
       },
@@ -18370,6 +18388,28 @@
       "duration_ms": 232070,
       "name": "Track 3",
       "url": "https://open.spotify.com/track/0DIRNsqKK3Vng8f4B23BAF"
+    },
+    {
+      "album": {
+        "name": "treat u right",
+        "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177565,
+      "name": "treat u right",
+      "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
     },
     {
       "album": {
@@ -18580,7 +18620,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 148269,
       "name": "Uche Jumbo",
       "url": "https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW"
@@ -18660,7 +18700,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 144000,
       "name": "Understand Me",
       "url": "https://open.spotify.com/track/7r1JAS1VyNY522GJhnIUCL"

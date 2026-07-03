@@ -1,6 +1,6 @@
 {
   "description": "Discover the path back to an era of enlightenment \ud83c\udf05\u2728\ud83e\uddd8\u200d\u2642\ufe0f",
-  "num_followers": 123080,
+  "num_followers": 123102,
   "original_name": "New Age: The Dawning",
   "owner": {
     "name": "Spotify",
@@ -555,8 +555,8 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "New Age Of Earth",
-        "url": "https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1"
+        "name": "Blackouts",
+        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
         }
       ],
-      "duration_ms": 762666,
-      "name": "Ocean Of Tenderness",
-      "url": "https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW"
+      "duration_ms": 410666,
+      "name": "77 Slightly Delayed",
+      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -635,8 +635,8 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Blackouts",
-        "url": "https://open.spotify.com/album/140BMrMHrJKORgGdutEFde"
+        "name": "New Age Of Earth",
+        "url": "https://open.spotify.com/album/5mzjUmksmRKYZ3WvzAGaA1"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/4qzIpmopZ2KVodpmw7uJKe"
         }
       ],
-      "duration_ms": 410666,
-      "name": "77 Slightly Delayed",
-      "url": "https://open.spotify.com/track/1TmlYsvU6XoXn0Bs6p5CNC"
+      "duration_ms": 762666,
+      "name": "Ocean Of Tenderness",
+      "url": "https://open.spotify.com/track/7K390g1jaEEG634ILDD4mW"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
+        "name": "Alpha Centauri",
+        "url": "https://open.spotify.com/album/4r0Rkjd3C9czpc3NbDDdCK"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 261906,
+      "name": "Sunrise in the Third System",
+      "url": "https://open.spotify.com/track/2a6MJ2RcR4uNuNTbQq0FvZ"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
         "name": "Passage",
         "url": "https://open.spotify.com/album/6g0mQNCdaaKBhwt9vGBckB"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 754103,
       "name": "Prism",
       "url": "https://open.spotify.com/track/5R5UMzC5qCkpCB6Q8ZMaFK"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
-        "name": "Alpha Centauri",
-        "url": "https://open.spotify.com/album/4r0Rkjd3C9czpc3NbDDdCK"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 261906,
-      "name": "Sunrise in the Third System",
-      "url": "https://open.spotify.com/track/2a6MJ2RcR4uNuNTbQq0FvZ"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Ki",
-        "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
-      },
-      "artists": [
-        {
-          "name": "Kitaro",
-          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
-        }
-      ],
-      "duration_ms": 418666,
-      "name": "Chi",
-      "url": "https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Open Like a Flute",
         "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 348880,
       "name": "Arrival - Remastered",
       "url": "https://open.spotify.com/track/3Cl55s20Th5GHbu56Sltz7"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Ki",
+        "url": "https://open.spotify.com/album/3ctES7AdFJN5fbxs331VP9"
+      },
+      "artists": [
+        {
+          "name": "Kitaro",
+          "url": "https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY"
+        }
+      ],
+      "duration_ms": 418666,
+      "name": "Chi",
+      "url": "https://open.spotify.com/track/3kqSsqFv7wOY0yzR1pnXld"
     },
     {
       "added_at": "2023-08-18 14:02:54",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-08-18 14:02:54",
       "album": {
-        "name": "Quiet Joy / Domestic Peace",
-        "url": "https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Quiet Joy",
-      "url": "https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI"
-    },
-    {
-      "added_at": "2023-08-18 14:02:54",
-      "album": {
         "name": "Open Like a Flute",
         "url": "https://open.spotify.com/album/0TrS3HBuDtFY8E912RmRpP"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 254626,
       "name": "Boreale - Remastered",
       "url": "https://open.spotify.com/track/2rskwmXeE2OdTXrs54sop7"
+    },
+    {
+      "added_at": "2023-08-18 14:02:54",
+      "album": {
+        "name": "Quiet Joy / Domestic Peace",
+        "url": "https://open.spotify.com/album/0iJZHB9TZjhwVz1MGc75Pb"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Quiet Joy",
+      "url": "https://open.spotify.com/track/0WUugSL8obdj33uav8PsEI"
     },
     {
       "added_at": "2023-08-18 14:02:54",

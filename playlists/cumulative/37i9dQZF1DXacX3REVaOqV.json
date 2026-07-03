@@ -476,7 +476,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-08",
+      "date_removed": null,
       "duration_ms": 370375,
       "name": "All About Housemusic - Sebb Junior Extended Remix",
       "url": "https://open.spotify.com/track/3xdo51RS1UWyb60xervgi2"
@@ -2121,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/4B0VzHsM5uYLhq9C4Dw6W0"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319882,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/68nYFINrWVFTJ23ukqGcPt"
+    },
+    {
+      "album": {
         "name": "Call Me (You Man Remix)",
         "url": "https://open.spotify.com/album/0TpFIuX7ks5TMZzCw6ZCLM"
       },
@@ -2638,7 +2656,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-21",
+      "date_removed": null,
       "duration_ms": 185625,
       "name": "Chimba",
       "url": "https://open.spotify.com/track/2dKvLdpxFhLzPeRLSZ6tZF"
@@ -3580,7 +3598,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 209577,
       "name": "Do What You Want",
       "url": "https://open.spotify.com/track/41akEmAPSACPFpeUhTdvvt"
@@ -3874,7 +3892,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 123446,
       "name": "Dopamine (feat. Malou)",
       "url": "https://open.spotify.com/track/4rG7VqNRA9NxXoGD0FKnzD"
@@ -4304,7 +4322,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 285786,
       "name": "Everything",
       "url": "https://open.spotify.com/track/1BJyVpblYEmeYberEVmOWM"
@@ -5077,6 +5095,24 @@
     },
     {
       "album": {
+        "name": "Free in this House",
+        "url": "https://open.spotify.com/album/2JsFKeINbWGIw5NJO29VV9"
+      },
+      "artists": [
+        {
+          "name": "Malix",
+          "url": "https://open.spotify.com/artist/4qlZWwvpGlUWkRE2Yvot4c"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "Free in this House",
+      "url": "https://open.spotify.com/track/4WTBMXwdrklK66gC3h68DR"
+    },
+    {
+      "album": {
         "name": "Free Jam EP",
         "url": "https://open.spotify.com/album/0Co0cFsKWJfnCvzaK7hXBd"
       },
@@ -5330,6 +5366,32 @@
       "duration_ms": 226086,
       "name": "Front To The Back",
       "url": "https://open.spotify.com/track/45r4fPK9j4DN867pipmmXx"
+    },
+    {
+      "album": {
+        "name": "Funky",
+        "url": "https://open.spotify.com/album/62O79Bz2hgnMBxEItDCepg"
+      },
+      "artists": [
+        {
+          "name": "Lucky",
+          "url": "https://open.spotify.com/artist/1FQPIdgxuXaEIYuCbWjTcF"
+        },
+        {
+          "name": "Kingdom Sound",
+          "url": "https://open.spotify.com/artist/3uJ7KPTQ4PpqvNC6HKh0u9"
+        },
+        {
+          "name": "Camtrao",
+          "url": "https://open.spotify.com/artist/02k7zSi7ko65usp8Kmr89Y"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213978,
+      "name": "Funky",
+      "url": "https://open.spotify.com/track/5R94fJwcK8nFiIBmVFQ4Du"
     },
     {
       "album": {
@@ -5796,6 +5858,24 @@
       "duration_ms": 232734,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/3Lvl7l2EY2yWXPO2HqFLZN"
+    },
+    {
+      "album": {
+        "name": "good times",
+        "url": "https://open.spotify.com/album/6fE5oaJCrfA9yZdduqeQwF"
+      },
+      "artists": [
+        {
+          "name": "Matrefakt",
+          "url": "https://open.spotify.com/artist/6RkLsuBe0imAJH9uZrWgNI"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199396,
+      "name": "good times",
+      "url": "https://open.spotify.com/track/6Z1Spguh697bM6cn7vK86f"
     },
     {
       "album": {
@@ -6656,7 +6736,7 @@
       ],
       "date_added": "2025-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 241061,
       "name": "Hold On, Let Go (ft. WAYNE SNOW & 3DDY)",
       "url": "https://open.spotify.com/track/68tOdKX9bNXD2MCFVsE5OF"
@@ -8344,7 +8424,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 159500,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
@@ -9642,7 +9722,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 226890,
       "name": "Luv U",
       "url": "https://open.spotify.com/track/5mMJdBqQu2VvHrkmpTeFTP"
@@ -9992,7 +10072,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 195923,
       "name": "Medellin",
       "url": "https://open.spotify.com/track/1mR45Dp6MAsfKiSOtkOacS"
@@ -10584,6 +10664,28 @@
       "duration_ms": 211029,
       "name": "My Paradise",
       "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
+    },
+    {
+      "album": {
+        "name": "My Place",
+        "url": "https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159615,
+      "name": "My Place",
+      "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
     },
     {
       "album": {
@@ -12360,7 +12462,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 202615,
       "name": "Remember",
       "url": "https://open.spotify.com/track/2aOGFvvUB5XPo6TXkgA7Sw"
@@ -13595,6 +13697,24 @@
     },
     {
       "album": {
+        "name": "So What",
+        "url": "https://open.spotify.com/album/0xGrzY3jWCS8CzAEuEC8Jy"
+      },
+      "artists": [
+        {
+          "name": "unfazed",
+          "url": "https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204878,
+      "name": "So What",
+      "url": "https://open.spotify.com/track/7MBqAHCpO3ETl6JpNI8mye"
+    },
+    {
+      "album": {
         "name": "Sofia Sophia (Maria Mariah)",
         "url": "https://open.spotify.com/album/6QP00C9sCVoLS5dOhYcSwp"
       },
@@ -13708,7 +13828,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 240000,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/2GfazHqLLJQ6AfwuMFrrXv"
@@ -14021,6 +14141,28 @@
     },
     {
       "album": {
+        "name": "State Of Mind (with Camden Cox)",
+        "url": "https://open.spotify.com/album/1S2rG0Tl6kf9vorqpbPIoe"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "State Of Mind (with Camden Cox)",
+      "url": "https://open.spotify.com/track/1myIzdJMe0NLZPW07ICp9s"
+    },
+    {
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/0Xt2vlSkNKlx1aI9M7aBDc"
       },
@@ -14207,6 +14349,28 @@
     },
     {
       "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/565vp1WmDggkWRygKv21Pb"
+      },
+      "artists": [
+        {
+          "name": "Mo'Cream",
+          "url": "https://open.spotify.com/artist/0nCPA6DdymwcXNZ2jMmYEe"
+        },
+        {
+          "name": "Sebb Junior",
+          "url": "https://open.spotify.com/artist/0oP6v3SuOC5jPc5pGUQdsD"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224517,
+      "name": "Sugar - Radio Edit",
+      "url": "https://open.spotify.com/track/7CWNGKYq4dFJhiVk5SNcad"
+    },
+    {
+      "album": {
         "name": "Summer 91 (Looking Back)",
         "url": "https://open.spotify.com/album/4QCh5emLRWuIg8CUzprNXm"
       },
@@ -14280,7 +14444,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 199939,
       "name": "Sunrise (Butch's Balearic Touch)",
       "url": "https://open.spotify.com/track/2sKwP9sFf8b7hSjuOxjbOP"
@@ -15314,7 +15478,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 181875,
       "name": "There Is A Light",
       "url": "https://open.spotify.com/track/1oGX6s0SjBSMz1Z4I9a8zN"
@@ -15890,7 +16054,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 195661,
       "name": "Uncomfortable",
       "url": "https://open.spotify.com/track/5qAwZr4jOrI0SueP421ivO"
@@ -16282,6 +16446,28 @@
       "duration_ms": 191733,
       "name": "Water",
       "url": "https://open.spotify.com/track/4Q2IUQo8YuoCqiRrDazKK4"
+    },
+    {
+      "album": {
+        "name": "Waves of Luv",
+        "url": "https://open.spotify.com/album/58QnUMgXPJy7Dm1pXSardY"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Waves of Luv",
+      "url": "https://open.spotify.com/track/4kmxETbclaI5PF9uqKKM8q"
     },
     {
       "album": {
@@ -16984,7 +17170,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 148571,
       "name": "You",
       "url": "https://open.spotify.com/track/0S2tBY157RTWpFmedvnBVS"

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,306 songs - 4 day 23 hr 38 min
+2,307 songs - 4 day 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,7 @@
 | [Covered By The Clouds](https://open.spotify.com/track/6qOd4FxG2FvYGCq9gqIwGA) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Covered By The Clouds](https://open.spotify.com/album/4gnX8BqbSdUdcIzpkMa8sX) | 3:19 | 2024-04-04 | 2024-04-19 |
 | [Crash](https://open.spotify.com/track/0CoKakshKgdDSDhb1pzWdZ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Crash](https://open.spotify.com/album/3jUPJ9cVv8woNRpqwn3JwN) | 3:10 | 2021-12-16 | 2022-03-10 |
 | [Crash](https://open.spotify.com/track/4gJdZtzkAx877Q3T6zdt4T) | [Daniel Gidlund](https://open.spotify.com/artist/16MsIlrZeMWpSAk1RlULB6) | [Crash](https://open.spotify.com/album/4TDoinDsR2KzvdrqzBMrId) | 3:26 | 2024-08-22 | 2024-09-08 |
-| [Crazy](https://open.spotify.com/track/3L8WeELmAzaauECXkirrah) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Crazy](https://open.spotify.com/album/0dlS4uaRTu87m5YeH9TqT0) | 3:05 | 2026-06-25 |  |
+| [Crazy](https://open.spotify.com/track/3L8WeELmAzaauECXkirrah) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Crazy](https://open.spotify.com/album/0dlS4uaRTu87m5YeH9TqT0) | 3:05 | 2026-06-25 | 2026-07-03 |
 | [Crazy](https://open.spotify.com/track/0hbHIyjHstT9nXy1frfdoM) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Crazy](https://open.spotify.com/album/7IP8sUzagDg6erM28zt11h) | 2:55 | 2025-10-23 | 2026-01-18 |
 | [CRISIS](https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Night at Ezeh's](https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl) | 3:13 | 2022-05-12 | 2023-02-01 |
 | [Crumbs](https://open.spotify.com/track/6HzhsHoGBLP63zISjDM0sz) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Crumbs](https://open.spotify.com/album/1WchsrtjxiZ7QjmLSHKuVq) | 4:13 | 2026-03-05 | 2026-03-20 |
@@ -494,6 +494,7 @@
 | [Du är tagen](https://open.spotify.com/track/7cm3FaZaouRmDKJmJ3jhGe) | [Laura Toth](https://open.spotify.com/artist/7je1BJ0ktL1zQbQSJhMU22) | [Du är tagen](https://open.spotify.com/album/59N0HnARGMC1Tvy6nUy94y) | 2:05 | 2024-04-04 | 2024-05-03 |
 | [Duktig flicka](https://open.spotify.com/track/1xMUDBB8ZkfI9kQBzrE0eP) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Duktig flicka](https://open.spotify.com/album/7shSAZOh7CFRhNZs2MNLq7) | 3:04 | 2024-11-07 | 2025-02-08 |
 | [Dum](https://open.spotify.com/track/4kadw7GlPL8BZYk9yzWqLx) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Dum](https://open.spotify.com/album/5N7hT3FpW2SiFNz7iqrtpY) | 2:34 | 2024-06-13 | 2024-08-16 |
+| [Dum i huvudet](https://open.spotify.com/track/4nX11i2MNHnznqfx3YxAPd) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Dum i huvudet](https://open.spotify.com/album/4KZpcQo4tYOjGfu8KZFgeL) | 2:54 | 2026-07-02 |  |
 | [Dumb](https://open.spotify.com/track/4T4TEH8gefIzE81kDop98h) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Little Things](https://open.spotify.com/album/2iFS8uewUG1gkseKzBzsbQ) | 2:41 | 2026-01-08 | 2026-04-24 |
 | [Dumb](https://open.spotify.com/track/4iEJ3AXbzJYSK59SkH3DMu) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [Dumb](https://open.spotify.com/album/6doM5nAPNGBRo8yoPM3q9r) | 3:12 | 2021-12-16 | 2022-03-11 |
 | [Dumba Nengue](https://open.spotify.com/track/2PBWMips0ip5rBS5rhzpjI) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Du Gamla Du Nya](https://open.spotify.com/album/5jphm8Wj2TcNQi1PLjksV7) | 3:58 | 2021-12-16 | 2022-03-10 |
@@ -546,7 +547,7 @@
 | [EN DÖENDE PLANET](https://open.spotify.com/track/4iIMcHdfjBRxRpwNqlhQoP) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [EN DÖENDE PLANET](https://open.spotify.com/album/2uON2qr3GabunZjUG0f4V8) | 4:03 | 2025-04-10 | 2025-08-16 |
 | [En fattig munk från Skara](https://open.spotify.com/track/3PRcVDJ6sb0XNF0ZNUHQfT) | [Gustaf & Viktor Norén](https://open.spotify.com/artist/7wgjhOBlEERCRSA6iloMvt) | [Samlade sånger](https://open.spotify.com/album/53W6Wvkzo0eWW2YcwWX0CL) | 4:29 | 2021-12-16 | 2022-07-22 |
 | [En Första Dans](https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer) | [UPPENBARA](https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7) | [En Första Dans](https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R) | 2:10 | 2024-06-27 | 2024-10-01 |
-| [En gammal vän](https://open.spotify.com/track/5kYgXxyo4fVI6EqkBgKSGE) | [Kid](https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8) | [En gammal vän](https://open.spotify.com/album/17LDkKiXOp18KdtAAsmy2C) | 3:28 | 2026-06-25 |  |
+| [En gammal vän](https://open.spotify.com/track/5kYgXxyo4fVI6EqkBgKSGE) | [Kid](https://open.spotify.com/artist/2dvySwyn4aQRc0zb9ZHGe8) | [En gammal vän](https://open.spotify.com/album/17LDkKiXOp18KdtAAsmy2C) | 3:28 | 2026-06-25 | 2026-07-03 |
 | [EN GÅNG TILL](https://open.spotify.com/track/2Yx3zbKVkim7W19MWm06Up) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [EN GÅNG TILL](https://open.spotify.com/album/3yu6mnpWIbRyYmddifko1A) | 2:21 | 2024-05-09 | 2024-06-07 |
 | [En jättefin dag](https://open.spotify.com/track/3FafZFF96FlznVIYBUEbwG) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Salta diamanter](https://open.spotify.com/album/6phTBfeufGdFLoBksORckf) | 2:20 | 2022-06-30 | 2022-09-26 |
 | [en katt som jag](https://open.spotify.com/track/6dUFDWTFxywblnwqLEScQS) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [en katt som jag](https://open.spotify.com/album/4eVW687h5JRtREiYLMXJko) | 2:55 | 2024-03-21 | 2024-05-03 |
@@ -613,7 +614,7 @@
 | [Fancy](https://open.spotify.com/track/7snkms1XxrZzmac3dFbks6) | [IRMELI](https://open.spotify.com/artist/7cEc46TFuOcBiE04sy33jv) | [Fancy](https://open.spotify.com/album/6V42SnghxJXBlmwNfAPdfv) | 2:12 | 2024-10-10 | 2024-10-18 |
 | [Fantasi](https://open.spotify.com/track/5KImNJ1eFcH1J7sbRcwnWS) | [Norlie & KKV](https://open.spotify.com/artist/2u8P7EawurNYoIzRtr5Knk) | [Fantasi](https://open.spotify.com/album/0LirSVW5JLGusEimyUv0rt) | 3:36 | 2022-03-10 | 2022-05-13 |
 | [Fantiserar](https://open.spotify.com/track/6Iacj2942oCDNmDrcr51nu) | [Eah Jé](https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc) | [Fantiserar](https://open.spotify.com/album/1I5rl1epHuk0wEahddMPfL) | 2:36 | 2026-06-04 |  |
-| [Fantomsmärta](https://open.spotify.com/track/5Js7P4JCIoRJa4yhC5QZYQ) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fantomsmärta](https://open.spotify.com/album/2eYfKVmCZo3EdIFNWijToG) | 3:17 | 2026-04-09 | 2026-06-29 |
+| [Fantomsmärta](https://open.spotify.com/track/5Js7P4JCIoRJa4yhC5QZYQ) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Fantomsmärta](https://open.spotify.com/album/2eYfKVmCZo3EdIFNWijToG) | 3:17 | 2026-04-09 |  |
 | [Farligaste](https://open.spotify.com/track/3EMO5vkEN7sFkDUyKNaD1Y) | [Newkid](https://open.spotify.com/artist/5wXRHaEx8AvtUv0gyZHGf6) | [POWERBALLADER](https://open.spotify.com/album/278kUvgRBmXIOjp0tOO8FE) | 2:42 | 2026-05-28 |  |
 | [Farstaglitter](https://open.spotify.com/track/2vNZOd1Yj32A5dfonkf2vB) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Rathana Club](https://open.spotify.com/album/25S91oeTVaNfdmvSuk17Vw) | 2:51 | 2021-12-16 | 2022-03-10 |
 | [Fartdårar](https://open.spotify.com/track/7KxEJiz9780bNowu0ukBb0) | [Albin Johnsén](https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj) | [Fartdårar](https://open.spotify.com/album/5Y1MsRF1YHUv5Vzfk8tIJU) | 2:40 | 2026-04-16 | 2026-05-05 |
@@ -1106,7 +1107,7 @@
 | [kanske lika bra att vi lägger av när vi ligger bra](https://open.spotify.com/track/3VtnMvL2Tpq56AmitlTFYh) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [kanske lika bra att vi lägger av när vi ligger bra](https://open.spotify.com/album/3SNoO3phfgMtYdnWCzR7OF) | 3:05 | 2025-04-24 | 2025-09-17 |
 | [Kaprifol](https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Kaprifol](https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP) | 3:55 | 2025-01-09 | 2025-12-07 |
 | [Karlavagnen](https://open.spotify.com/track/7rZ3Gqfwh5SuM5tvHK1eAq) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Karlavagnen](https://open.spotify.com/album/1sqRHRlSZ1rJQwTeGP5en5) | 3:10 | 2022-04-28 | 2023-10-06 |
-| [Katarina](https://open.spotify.com/track/566PQ4uTqoDP8z7k3UpfUZ) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Katarina](https://open.spotify.com/album/5epaKDwWfLtyHoe5dKPdSY) | 3:01 | 2026-05-04 |  |
+| [Katarina](https://open.spotify.com/track/566PQ4uTqoDP8z7k3UpfUZ) | [Herman Silow](https://open.spotify.com/artist/3I0osKUHYFoSJdBFeseDcO) | [Katarina](https://open.spotify.com/album/5epaKDwWfLtyHoe5dKPdSY) | 3:01 | 2026-05-04 | 2026-07-03 |
 | [Katterna](https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Vilken del av oss gick fel?](https://open.spotify.com/album/7MI6vd647X46blgIjyhhsa) | 2:58 | 2024-06-27 | 2024-10-06 |
 | [Kenneth](https://open.spotify.com/track/4ps9Hugwa38njNmedG9c4K) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Kenneth](https://open.spotify.com/album/4C4t410jpJg0H7pBptTuN4) | 3:49 | 2023-05-04 | 2023-06-26 |
 | [Kevin](https://open.spotify.com/track/4dudT3PA7LO8x95l9oMsLb) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Svanesång](https://open.spotify.com/album/6lV5CFB3QiE3voHW1oO6ig) | 3:52 | 2022-04-28 | 2023-01-15 |
@@ -1841,7 +1842,7 @@
 | [Stars](https://open.spotify.com/track/4m4PB6MrwkCe7tSCTJqGtA) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [God Bless Sweden](https://open.spotify.com/album/58fHScs4YWTociyx6ekWff) | 3:05 | 2026-02-05 |  |
 | [Start Walking](https://open.spotify.com/track/4UEzD2NPm9yZ0cLTB9Lo6z) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Start Walking](https://open.spotify.com/album/4JhxpPwRhUf0RzHuHSsZ3O) | 3:14 | 2021-12-16 | 2022-03-09 |
 | [Stay Awake](https://open.spotify.com/track/67rLEjVfBaTus10bbL8zLN) | [Ulrik Munther](https://open.spotify.com/artist/3mlNO7nX9wkXiB3kw7oExM) | [Put Your Self Out There](https://open.spotify.com/album/55zVsU9v9bo3P253vEhMDi) | 4:20 | 2021-12-16 | 2022-01-09 |
-| [Stay the night](https://open.spotify.com/track/7DmN7TkryZZXguVrf0OZ6P) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Stay the night](https://open.spotify.com/album/5K8feSbLR4ICxuJh1hmTCV) | 2:47 | 2026-02-19 | 2026-06-19 |
+| [Stay the night](https://open.spotify.com/track/7DmN7TkryZZXguVrf0OZ6P) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Stay the night](https://open.spotify.com/album/5K8feSbLR4ICxuJh1hmTCV) | 2:47 | 2026-02-19 |  |
 | [Stay The Same](https://open.spotify.com/track/1x2HCmiEv5CSEltweAkOW8) | [Vide](https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539) | [Stay The Same](https://open.spotify.com/album/74i4fawNhn1B7aXv2s6BSa) | 2:58 | 2024-01-25 | 2024-03-15 |
 | [Stay.](https://open.spotify.com/track/3vqnnGl5PYzj0eRXEuDVNb) | [GERD](https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr) | [Stay.](https://open.spotify.com/album/7kpupdVQCbCdiVp0B8bMn8) | 3:19 | 2023-02-09 | 2023-02-17 |
 | [Steep Hills](https://open.spotify.com/track/6Ie9IKWu7PRwW80gTbSxKP) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Steep Hills](https://open.spotify.com/album/0G3wnAeXMgPqWvE4ZyH4AS) | 3:07 | 2025-09-25 | 2026-02-13 |

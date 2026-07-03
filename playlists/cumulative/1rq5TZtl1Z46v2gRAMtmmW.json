@@ -5505,6 +5505,24 @@
     },
     {
       "album": {
+        "name": "Jera",
+        "url": "https://open.spotify.com/album/4hjOgPTQYAukouOCspVRiC"
+      },
+      "artists": [
+        {
+          "name": "Narasimha",
+          "url": "https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175524,
+      "name": "Jera",
+      "url": "https://open.spotify.com/track/5P8xG7b988v4t8fom6Go0s"
+    },
+    {
+      "album": {
         "name": "JGS",
         "url": "https://open.spotify.com/album/09134EF46MKmsFGuFU4lZj"
       },

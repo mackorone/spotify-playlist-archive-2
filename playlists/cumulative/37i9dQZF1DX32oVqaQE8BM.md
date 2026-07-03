@@ -4,7 +4,7 @@
 
 > The ultimate chill out playlist.
 
-831 songs - 1 day 11 hr 20 min
+836 songs - 1 day 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A World of Difference \(remix\)](https://open.spotify.com/track/5JRIw1FFK7Zt9dlmN4bl2h) | [Fred Jayson](https://open.spotify.com/artist/7pt8uu5aZjCWmDtR23Bb60) | [A World of Difference \- Remix](https://open.spotify.com/album/0Um4wqNFZuRgHLqsi1yvFd) | 3:10 | 2021-11-10 | 2022-07-08 |
 | [Abandoned](https://open.spotify.com/track/42HAxEUm5y4tqDCqRzH82A) | [Pi Teddy](https://open.spotify.com/artist/12BlQzNeSJJOSrPciICYFu) | [In My Head](https://open.spotify.com/album/1vWG2w9kWm5V9ll3ys7ARs) | 2:22 | 2022-09-09 | 2023-02-08 |
 | [Above or Afar](https://open.spotify.com/track/47ZF3hjb1uOe6pQT7rll6w) | [The Pleasure Principle](https://open.spotify.com/artist/2P9Z65sQszXemqiA6s71es) | [Above or Afar](https://open.spotify.com/album/51x0qhbHoXdb5K2wE4QcFM) | 2:22 | 2025-12-05 |  |
+| [Aconchego](https://open.spotify.com/track/4d3L6lxeTkwE0EE0GBpr69) | [Alex Caipirinha](https://open.spotify.com/artist/1usKVVJQ2IcqqB8RjvpGKv) | [Aconchego](https://open.spotify.com/album/6tfkI3VqSfdnjzeeMk11Yl) | 2:44 | 2026-07-02 |  |
 | [Adriatica](https://open.spotify.com/track/37k4ukRm7nCkyU6ymyCx0t) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Adriatica](https://open.spotify.com/album/7gEZSVeGcPDXmRk0LsJbr3) | 2:24 | 2021-11-10 | 2022-07-29 |
 | [Affection](https://open.spotify.com/track/0Cm5MlCWLBckpkdHWnDxrD) | [Closest Cloud](https://open.spotify.com/artist/2QfBfWsylKXit3b3yugeMP) | [Affection](https://open.spotify.com/album/4uaJo8uPzTiAXiwEkmRBr9) | 2:44 | 2025-02-28 |  |
 | [after a while](https://open.spotify.com/track/0VZ1zeperKNOmRP1Q2DdoJ) | [cxlt.](https://open.spotify.com/artist/1TFqjcoVis5TzVQxrHMSfA), [herman.](https://open.spotify.com/artist/3WyJSGYPoo86oOCSCcWNr6) | [after a while](https://open.spotify.com/album/6J6B75xjID00XXrVfO0Qm6) | 2:25 | 2023-09-08 | 2025-11-18 |
@@ -332,6 +333,7 @@
 | [Human](https://open.spotify.com/track/1OdyF8TKLozvztgR4Mwy0w) | [Ebende](https://open.spotify.com/artist/0DOiT9J5OrviDfUhBAkJAE) | [Human](https://open.spotify.com/album/5lQJwFSf6G5RTpyCYt5kSW) | 4:13 | 2022-05-20 | 2024-12-21 |
 | [hymn](https://open.spotify.com/track/2fstidjX52u0PGrvEf00Ox) | [Da Sacnite](https://open.spotify.com/artist/3qaJDADj8HdXCWcYL7O6g9) | [hymn](https://open.spotify.com/album/6gyrxxudYoLOll7qWRWWHM) | 1:44 | 2021-11-10 | 2023-01-13 |
 | [I Am Here With You](https://open.spotify.com/track/1cQCJHU2UkaaUEKqCZjpXT) | [Some Guy I Know](https://open.spotify.com/artist/04PHmOO2YEDLmkcuEM8vzP) | [I Feel Like Flying](https://open.spotify.com/album/5hO3Y5UmKSHnagOsZabvUn) | 1:53 | 2022-04-15 | 2023-07-29 |
+| [I Choose You](https://open.spotify.com/track/1URQNNZ4XQZZOvSTRmyOwq) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [I Choose You](https://open.spotify.com/album/2PRf4gPKnvHLgEq1QLhBMF) | 3:40 | 2026-07-02 |  |
 | [I Feel Warmer Already](https://open.spotify.com/track/5dvXFPoyEo4KM6BumvypbA) | [Fryst](https://open.spotify.com/artist/4uX8CtNxSK7yqTTTKWngAS) | [I Feel Warmer Already](https://open.spotify.com/album/72jLh8lLAIG07SY7m1cADS) | 2:30 | 2023-01-06 | 2025-11-18 |
 | [I Hope You Find What You're Looking For](https://open.spotify.com/track/70Uq01vP7RqyF3QB3wM3lI) | [PRFCT BLU3](https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen) | [I Hope You Find What You're Looking For](https://open.spotify.com/album/0T31ndqyniqxMKSfVsGBlb) | 3:16 | 2024-01-19 | 2024-07-15 |
 | [I Like When We're Together](https://open.spotify.com/track/4R93fGIpZ5uGVCxpUiNDDd) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [I Like When We're Together](https://open.spotify.com/album/49QD6y5E5WiNojnW7gRlUb) | 3:20 | 2026-01-16 |  |
@@ -348,6 +350,7 @@
 | [in the blossoms](https://open.spotify.com/track/5jaTCdcEMe7JJj6aOK5dim) | [Mikayl Blu](https://open.spotify.com/artist/42UG0bGjBkNaCgvigyqPzj) | [in the blossoms](https://open.spotify.com/album/26OUgJJjfAvnmIvscwATCn) | 3:01 | 2024-08-01 | 2025-02-15 |
 | [In The Clouds](https://open.spotify.com/track/0NlVqWHgp2b7y79OC9ocEG) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [In The Clouds](https://open.spotify.com/album/1UCX6cttCUpNf3wbepwOU9) | 2:04 | 2022-10-28 | 2025-04-12 |
 | [Infinite](https://open.spotify.com/track/7BlFnkY76uwDT9fvoeWEFZ) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Infinite](https://open.spotify.com/album/1f45mE7umvGUb9OpAhW9ke) | 1:59 | 2022-09-02 | 2023-07-29 |
+| [Infinity](https://open.spotify.com/track/5fuybsyPtOCKgWg1Vwmp4S) | [rigii](https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU) | [Infinity](https://open.spotify.com/album/5qU8XSjWkFgyerBX2tT71y) | 2:53 | 2026-07-02 |  |
 | [Inner Circle](https://open.spotify.com/track/2PHONNW4Knw22LQ9o3EvIo) | [Nitta' Gritta'](https://open.spotify.com/artist/55psXqpj00WvVubriLCEet) | [Inner Circle](https://open.spotify.com/album/6Oa5m0iCnUyBGue9WmeBcA) | 2:26 | 2022-09-23 | 2026-02-26 |
 | [Inner Peace](https://open.spotify.com/track/6rvX0JYhkqJivixXp40sJn) | [akanekuro](https://open.spotify.com/artist/1KyLdid5oA2QFMEzAwo3ZJ) | [Inner Peace](https://open.spotify.com/album/1YaaERFCQV7GvtMRQZMcww) | 2:18 | 2023-04-21 | 2025-06-25 |
 | [inspire](https://open.spotify.com/track/1CuL2X0K0BUV460hf0LUlt) | [MayDance](https://open.spotify.com/artist/3kxIpmExJ6PbxU7qzqOEa4) | [inspire](https://open.spotify.com/album/5Q4fxuKSzgGmK6DEkzk1qz) | 2:21 | 2025-05-23 | 2026-06-13 |
@@ -453,6 +456,7 @@
 | [Mile End](https://open.spotify.com/track/73e2KnyW7F0IOuqADicuyo) | [Villa Maria](https://open.spotify.com/artist/5AxZSSot8isQTBuIYRlCxK) | [Mile End](https://open.spotify.com/album/56fc4W1TueHKbPECplMSn5) | 2:44 | 2022-07-29 | 2023-01-13 |
 | [Mind Massage](https://open.spotify.com/track/1vFAE2GL7YqPalMDan8BN4) | [Phlo X](https://open.spotify.com/artist/7wpjhdiboISbPKE8SBwCet) | [Mind Massage](https://open.spotify.com/album/3qhrSaDI24kXJhIcBS1K3a) | 2:24 | 2022-06-03 | 2024-11-23 |
 | [Mindset](https://open.spotify.com/track/2ZGICIKWqBHejKbRzz6DPn) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [Mindset](https://open.spotify.com/album/0yxVS7Ggym9TQZpRDSDzc8) | 2:06 | 2026-02-09 |  |
+| [Minor Feelings](https://open.spotify.com/track/0Y9A3Hwd3ayZ3vzjcgvtoH) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Minor Feelings](https://open.spotify.com/album/28LTkuD3udpRdK9tF9vUmH) | 2:27 | 2026-07-02 |  |
 | [Miyako](https://open.spotify.com/track/5aCdHO6JC7MqExMCPjLHUG) | [DJ Daww](https://open.spotify.com/artist/41avBfwtlGgskYqrJOGGM6) | [Miyako](https://open.spotify.com/album/6H6yWpYPxyrwQN8B4FXCzf) | 2:14 | 2021-11-10 | 2022-01-22 |
 | [Mockingbirds](https://open.spotify.com/track/6kfFIKQp1CWCq7BLCsdJ0L) | [Natasha Fierce](https://open.spotify.com/artist/281dPcxZwBbfyWO1foC6bV) | [Mockingbirds](https://open.spotify.com/album/4oQqeJyd6TLiJEgh2pDSls) | 2:12 | 2024-12-20 |  |
 | [mode station](https://open.spotify.com/track/12BJChhHFzQDnT8FnrGHXb) | [Hayzei](https://open.spotify.com/artist/4Fr8mwKk9GLHkjlNrxFNAX) | [mode station](https://open.spotify.com/album/3D9xQpxQ1snGCQtqU6rZXb) | 3:06 | 2022-06-24 | 2025-02-01 |
@@ -796,6 +800,7 @@
 | [Views from Yamashita Park](https://open.spotify.com/track/1A6cccEj6qKdj4O0qbYSL9) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Morning\-Evening](https://open.spotify.com/album/7KoIdddL9V7auQaffvseFl) | 1:40 | 2022-10-28 | 2022-11-13 |
 | [Views from Yamashita Park](https://open.spotify.com/track/55F8bO2fpwlUyFa4AFPJQa) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [Nostalgia](https://open.spotify.com/album/2kYA0R4YLdmHFUQ4gDfYEd) | 1:40 | 2022-07-29 | 2023-07-29 |
 | [Vilt](https://open.spotify.com/track/2grom1VkzViZwJ1y2e0qAB) | [Chill Motion](https://open.spotify.com/artist/7uxTNkHkgq1ZLC9tNCxgde) | [Vilt](https://open.spotify.com/album/0C2F1rwIPka00gIbi2KlRE) | 2:58 | 2025-06-13 |  |
+| [Violet](https://open.spotify.com/track/6XTaHGzwO2RJ3LTR9YRLb6) | [Astraley](https://open.spotify.com/artist/2nBlMka4XkNYVqTmazHwpI) | [Violet](https://open.spotify.com/album/2hJzQsxUIpL4juFCbqU1sN) | 1:58 | 2026-07-02 |  |
 | [Vital](https://open.spotify.com/track/2m9QssdUKhoQPWcrq9Zcck) | [Drawing With Numbers](https://open.spotify.com/artist/3BB6ImhQEX91DbeiIMyVYZ) | [Vital](https://open.spotify.com/album/2jM4lWQ1CI7F9XGqmc0zDK) | 3:28 | 2021-11-10 | 2022-07-22 |
 | [Vivid Sun](https://open.spotify.com/track/38JnXkAb2MzcvniBlsGo7W) | [Goland](https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA) | [Vivid Sun](https://open.spotify.com/album/03U9wcy983LlGrEJO2hPIe) | 2:16 | 2026-06-12 |  |
 | [volcano view](https://open.spotify.com/track/4yNCMQjKFCYLhLolCByf9r) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [volcano view](https://open.spotify.com/album/2G2miDSSOobbl2LuiUDE1a) | 2:12 | 2022-07-15 | 2023-10-15 |

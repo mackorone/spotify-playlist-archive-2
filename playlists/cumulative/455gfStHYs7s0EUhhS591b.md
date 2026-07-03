@@ -4,7 +4,7 @@
 
 > Feel\-good summer throwbacks and chilled lounge mixes to bring the summer vibe all year round.
 
-280 songs - 16 hr 25 min
+282 songs - 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Another Day On The Terrace \- Chill Out Edit](https://open.spotify.com/track/3vpvV9qK6Y0gc3EHGYnQgF) | [Sunlounger](https://open.spotify.com/artist/39xJyKl2iYCAQywsUk4aWg) | [Armada Collected: Roger Shah presents Sunlounger \(Bonus Track Version\)](https://open.spotify.com/album/3PKZwyMninRgEQ0mcPEGHt) | 4:42 | 2025-06-19 |  |
 | [Another Day On The Terrace \- Radio Edit](https://open.spotify.com/track/4EDXttlqcOg308UzgvPGHA) | [Sunlounger](https://open.spotify.com/artist/39xJyKl2iYCAQywsUk4aWg) | [Armada Collected: Roger Shah presents Sunlounger \(Deluxe Version\)](https://open.spotify.com/album/3woVR8enL08XlQCV0Mk9Y6) | 3:59 | 2025-06-19 |  |
 | [Are You With Me \- Harold van Lennep Piano Edit](https://open.spotify.com/track/1fJO9mclIZFu6AFPwldcDF) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Harold van Lennep](https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg) | [Are You With Me \(Incl\. Kungs Remix\)](https://open.spotify.com/album/5eBuJ7ZwObo9XUOxHiLXOP) | 2:56 | 2025-07-18 | 2025-09-05 |
+| [Augment](https://open.spotify.com/track/4WUU44j7I8GyFI2yGvYJri) | [CEAUS](https://open.spotify.com/artist/16312wc5ERKYDDBVwRSAi4), [Run Rivers](https://open.spotify.com/artist/2VxxKYEtuy6JnDDB2hpoOH) | [Augment](https://open.spotify.com/album/6kButoMoDOk11Bn907ZoCI) | 3:13 | 2026-07-03 |  |
 | [Aura](https://open.spotify.com/track/0B2GWovtxzsh0a02PBbNl7) | [Avoure](https://open.spotify.com/artist/37S9qlW44AiakSF45Vra1E) | [U](https://open.spotify.com/album/01iKVCYJMpU65vZRIAQWu7) | 8:41 | 2025-07-18 | 2026-04-18 |
 | [Autumn Tactics \- Jody Wisternoff Remix](https://open.spotify.com/track/5gA4m8DC9vxw0SBqmPCCgV) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Justine Suissa](https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj), [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL) | [Chill Executive Officer \(CEO\), Vol\. 5 \[Selected by Maykel Piron\]](https://open.spotify.com/album/6wIcjGvUtv9tKw2EcpJhIn) | 3:47 | 2025-07-18 | 2026-04-18 |
 | [Away From Here](https://open.spotify.com/track/1nR5Jw4jq8XLJPhY1iLVh9) | [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Away From Here](https://open.spotify.com/album/4pczezUlRRikJ39YRt1SHu) | 2:26 | 2025-07-18 | 2026-04-18 |
@@ -147,6 +148,7 @@
 | [Lines](https://open.spotify.com/track/0xXKBial2Oc7HnRoAqOzT8) | [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Lines](https://open.spotify.com/album/41RncdoLzWmK2GwtjbOLez) | 3:00 | 2025-07-18 | 2026-04-18 |
 | [Lonely Ones \- Daniele Davoli Ibiza Extended Remix](https://open.spotify.com/track/1KJBEX8g8NTSvdGYwaGs1U) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Tawiah](https://open.spotify.com/artist/6n5RQFZJKZNaa9nUuh8muo), [Daniele Davoli](https://open.spotify.com/artist/6a1kuFE7uThR7ExjJxtit8) | [Lonely Ones \(Remixes\)](https://open.spotify.com/album/3VZZrCAl8rDDGAzocYR0Fb) | 6:13 | 2025-06-19 |  |
 | [Lost](https://open.spotify.com/track/5jAHG0rFTEWF627eCwy2Wa) | [Sunlounger](https://open.spotify.com/artist/39xJyKl2iYCAQywsUk4aWg), [Zara Taylor](https://open.spotify.com/artist/6wrD0NOeNUdjXAOJdA2J38), [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ) | [Lost](https://open.spotify.com/album/4rf68Put0shM1lRzMPrAsX) | 4:00 | 2026-03-13 |  |
+| [Lost in Cancún](https://open.spotify.com/track/2whwHdlrjo7rF9uj0b2WVS) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Lost in Cancún](https://open.spotify.com/album/3fPiqu2q34UuZr1FkxyFa1) | 2:26 | 2026-07-03 |  |
 | [Lost In The Deep](https://open.spotify.com/track/5egezAR8xyEY1wzPx0AWZG) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Josha Daniel](https://open.spotify.com/artist/3U0iFfS4kjiAkS1oCUOmuN) | [Lost In The Deep](https://open.spotify.com/album/5bW1a6bSPtkynm9z9u2LeF) | 3:40 | 2025-06-19 |  |
 | [Lost Souls \- Nora En Pure Remix](https://open.spotify.com/track/5LTeqr4WhuXG6ctnIjVj3t) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Ost](https://open.spotify.com/artist/6nd2xPiNkapZHlg6UvIVVx), [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Moments Of Clarity \(The Remixes\)](https://open.spotify.com/album/3uUhGP880QEhqoMYGYKpII) | 3:41 | 2025-07-18 | 2026-04-18 |
 | [Lost Tonight](https://open.spotify.com/track/1xD8hBK99rAPgcwjWWnxwf) | [Saje](https://open.spotify.com/artist/3I2596dGk4K3e4qKjwpzQb) | [Lost Tonight](https://open.spotify.com/album/3tzWmKo39Q3OypyD9UbNZl) | 3:18 | 2025-07-18 | 2026-04-18 |

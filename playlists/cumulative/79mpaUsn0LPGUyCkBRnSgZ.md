@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,170 songs - 3 day 3 hr 34 min
+1,171 songs - 3 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1080,7 +1080,7 @@
 | [Under The Pressure](https://open.spotify.com/track/5j58jhAFzAy0keSuQYsQBn) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Lost In The Dream](https://open.spotify.com/album/51VxHZphGLsI7aUPqIkJaz) | 8:52 | 2022-01-11 |  |
 | [Under The Sun \(with J\. Cole & Lute feat\. DaBaby\)](https://open.spotify.com/track/6MF4tRr5lU8qok8IKaFOBE) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lute](https://open.spotify.com/artist/75WcpJKWXBV3o3cfluWapK), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 3:22 | 2023-04-24 |  |
 | [Undesigned](https://open.spotify.com/track/671aKYHCinUvphO3iL6u9H) | [James Krivchenia](https://open.spotify.com/artist/4eEDUmQbFKt7p4UNEwuUUi) | [Performing Belief](https://open.spotify.com/album/46lAvJ3wAf4lE27vCUMwPW) | 4:59 | 2025-09-09 |  |
-| [Unified Field](https://open.spotify.com/track/7c9jGex5KrGBLhkiDFF5D1) | [Emperor X](https://open.spotify.com/artist/7taxbHlqWyBiQEc38vNT9z) | [Unified Field](https://open.spotify.com/album/40c4P9P3cVt3n2SphxEZbp) | 2:49 | 2026-07-01 |  |
+| [Unified Field](https://open.spotify.com/track/7c9jGex5KrGBLhkiDFF5D1) | [Emperor X](https://open.spotify.com/artist/7taxbHlqWyBiQEc38vNT9z) | [Unified Field](https://open.spotify.com/album/40c4P9P3cVt3n2SphxEZbp) | 2:49 | 2026-07-01 | 2026-07-03 |
 | [Unluck](https://open.spotify.com/track/7wL42r11vcEhohThbDVz7Y) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 3:00 | 2026-03-23 | 2026-03-26 |
 | [Untitled](https://open.spotify.com/track/2Ndz0uCpTqsDvJtARKTDpS) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Untrue](https://open.spotify.com/album/1CI5OW60s9W41YLI80Jjdr) | 0:46 | 2022-12-18 |  |
 | [Untitled](https://open.spotify.com/track/0VsjkAEkZvaUoDt0PAzJxC) | [Swirlies](https://open.spotify.com/artist/0Zk7We5BZoDR40himAI86D) | [Blonder Tongue Audio Baton](https://open.spotify.com/album/0bOwhaZsDgLWVIUd4mU7U5) | 0:12 | 2025-10-19 |  |
@@ -1169,9 +1169,10 @@
 | [You Want It Darker](https://open.spotify.com/track/5zb7npjQqoJ7Kcpq4yD9qn) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [You Want It Darker](https://open.spotify.com/album/3jeTB3j3QmUs8SPIVleHtU) | 4:44 | 2024-01-18 |  |
 | [YouUgly \(with Westside Gunn\)](https://open.spotify.com/track/2m2AbCpeWgms32FdLfBBdk) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [God Does Like Ugly](https://open.spotify.com/album/2tU04u3hxtziB4sOVJKak3) | 4:43 | 2025-08-08 | 2025-08-13 |
 | [Zion I](https://open.spotify.com/track/2noAezCPjG8U5W5hi1smLK) | [Cymande](https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG) | [Cymande](https://open.spotify.com/album/06vHyS1KFTcMIyxKzuRAbK) | 3:30 | 2026-05-05 |  |
+| [Zoom 97](https://open.spotify.com/track/0aW3FQZlYWyj1gTn7mlc8t) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Philadelphia's been good to me](https://open.spotify.com/album/5AfELtBFbN1hM75hgqc7FI) | 4:54 | 2026-07-02 |  |
 | [¿Cómo Así?](https://open.spotify.com/track/54KEm0VI9i3ic7VHHKHKRx) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:49 | 2024-01-29 |  |
 | [★](https://open.spotify.com/track/1Xb5UAKg5OdTHkg48FdQou) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Blackstar](https://open.spotify.com/album/0vxg8oJKDu3i0bXQu7vEpi) | 9:57 | 2024-01-18 |  |
-| [ようこそ、夏の王国へ](https://open.spotify.com/track/2H7gT6zL5qSeAqTpfDqlWu) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [夏・全・開](https://open.spotify.com/album/1amISkdWujGVaDuLJPfDt9) | 4:01 | 2026-05-18 |  |
+| [ようこそ、夏の王国へ](https://open.spotify.com/track/2H7gT6zL5qSeAqTpfDqlWu) | [Masayoshi Takanaka](https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d) | [夏・全・開](https://open.spotify.com/album/1amISkdWujGVaDuLJPfDt9) | 4:01 | 2026-05-18 | 2026-07-03 |
 | [太陽とダァリヤ\(2021 Remastered\)](https://open.spotify.com/track/1kVfpUDx3ofFV71kPQZYQx) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [WORLD STANDARD（2021 Remastered）](https://open.spotify.com/album/4MUXGPluCvXfqz943sE7Oc) | 3:48 | 2026-06-17 |  |
 | [忘れる女](https://open.spotify.com/track/4JnKSfRE4sM1LVHRwkDNEM) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [勇気](https://open.spotify.com/album/1XNE6xQzrlW6qce2rWC14z) | 4:42 | 2025-12-31 |  |
 | [正しい街](https://open.spotify.com/track/6HV4pHx1HpJxV8tYf5Fp4q) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:52 | 2024-07-02 |  |

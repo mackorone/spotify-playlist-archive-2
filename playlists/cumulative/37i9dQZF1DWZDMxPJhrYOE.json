@@ -1095,6 +1095,28 @@
     },
     {
       "album": {
+        "name": "Alle Mine Veninder",
+        "url": "https://open.spotify.com/album/3kdyZzd7lzpmsRZbltmsbB"
+      },
+      "artists": [
+        {
+          "name": "Rune Rask",
+          "url": "https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0"
+        },
+        {
+          "name": "Medina",
+          "url": "https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206616,
+      "name": "Alle Mine Veninder",
+      "url": "https://open.spotify.com/track/4qbVKrjy8c0DyfpKLBSUX4"
+    },
+    {
+      "album": {
         "name": "Alle Pigerne Herinde",
         "url": "https://open.spotify.com/album/0XXFSpRpYNzk0GBWvpDZXl"
       },
@@ -5388,6 +5410,24 @@
       "duration_ms": 119393,
       "name": "Du Min",
       "url": "https://open.spotify.com/track/4kTFwVrxwwqj9yZoSEqoAV"
+    },
+    {
+      "album": {
+        "name": "DU M\u00c5 IK G\u00c5",
+        "url": "https://open.spotify.com/album/47XpL93JCsPWssZ450ebjI"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147451,
+      "name": "DU M\u00c5 IK G\u00c5",
+      "url": "https://open.spotify.com/track/4t0hAlq0Zsy0kc6ctvJEEm"
     },
     {
       "album": {
@@ -11296,7 +11336,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 185875,
       "name": "Jordsk\u00e6lv",
       "url": "https://open.spotify.com/track/2yDRyz5yfHz62FkFeb6Ybn"
@@ -12544,7 +12584,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 172111,
       "name": "Louisiana",
       "url": "https://open.spotify.com/track/3fxQ8GkReHrrN4zTYpQ1ex"
@@ -15970,7 +16010,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 185721,
       "name": "Puss Puss - Girls Trip",
       "url": "https://open.spotify.com/track/2nYpEIZbqk9Pj3UCXbwtpM"
@@ -19214,6 +19254,24 @@
       "duration_ms": 150190,
       "name": "S\u00e5 l\u00e6nge jeg er sexy.",
       "url": "https://open.spotify.com/track/0fFMt9cc1EEQDIWLGDcqKd"
+    },
+    {
+      "album": {
+        "name": "S\u00e6t Det Fri",
+        "url": "https://open.spotify.com/album/7i0etg8EnmIQm69MysY5Nr"
+      },
+      "artists": [
+        {
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164533,
+      "name": "S\u00e6t Det Fri",
+      "url": "https://open.spotify.com/track/2YFG7K2csOO1GqPTQkQbTz"
     },
     {
       "album": {

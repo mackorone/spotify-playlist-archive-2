@@ -67,6 +67,28 @@
     },
     {
       "album": {
+        "name": "1942",
+        "url": "https://open.spotify.com/album/0UQVPwJSTbFw06wBgV09OS"
+      },
+      "artists": [
+        {
+          "name": "WV",
+          "url": "https://open.spotify.com/artist/2xWvtE4mK5ZQTT86pB99Mh"
+        },
+        {
+          "name": "FJ",
+          "url": "https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183912,
+      "name": "1942",
+      "url": "https://open.spotify.com/track/3qKvzuwafg9yd3nUlErJJz"
+    },
+    {
+      "album": {
         "name": "24 Hours",
         "url": "https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP"
       },
@@ -276,6 +298,28 @@
       "duration_ms": 152048,
       "name": "AIN'T 50/50 (GIMME!)",
       "url": "https://open.spotify.com/track/5xzhfNL0EU8lImndhgpyFL"
+    },
+    {
+      "album": {
+        "name": "Alive (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207085,
+      "name": "Alive (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH"
     },
     {
       "album": {
@@ -684,7 +728,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 139393,
       "name": "BADDIES",
       "url": "https://open.spotify.com/track/1C8vNuukSe9ioABOBkoZdK"
@@ -1274,10 +1318,36 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 178000,
       "name": "Closure (feat. Leigh-Anne)",
       "url": "https://open.spotify.com/track/1pEgkIlcPmDBuH4YQ5gMqS"
+    },
+    {
+      "album": {
+        "name": "COCA BODY",
+        "url": "https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153055,
+      "name": "COCA BODY",
+      "url": "https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG"
     },
     {
       "album": {
@@ -3408,6 +3478,24 @@
     {
       "album": {
         "name": "Leugens",
+        "url": "https://open.spotify.com/album/5Ex8ZMG7MW2Z19akiW5loV"
+      },
+      "artists": [
+        {
+          "name": "Afriki",
+          "url": "https://open.spotify.com/artist/7wplUIsQsBY2x6E6XSZDAB"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153440,
+      "name": "Leugens",
+      "url": "https://open.spotify.com/track/6bMruMD3gkRHKidzSnzoFb"
+    },
+    {
+      "album": {
+        "name": "Leugens",
         "url": "https://open.spotify.com/album/5ptuKXWOSfHCbLkeIL7FYC"
       },
       "artists": [
@@ -4286,7 +4374,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 116800,
       "name": "Niet Nodig",
       "url": "https://open.spotify.com/track/2jSjvE1cFcQcepowmwF7Kd"
@@ -4642,7 +4730,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 140870,
       "name": "One Of A Kind (feat. Dylisa)",
       "url": "https://open.spotify.com/track/7eGphDUd2YeKQ4F3qD17UH"
@@ -5006,7 +5094,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 178854,
       "name": "PIJNSTILLER",
       "url": "https://open.spotify.com/track/6AmRGd8UlazU7NnPirJYTA"
@@ -5342,6 +5430,28 @@
       "duration_ms": 149027,
       "name": "Richer",
       "url": "https://open.spotify.com/track/5d0UKo4nZGWlOaPYQfWZCD"
+    },
+    {
+      "album": {
+        "name": "Ride it",
+        "url": "https://open.spotify.com/album/1Uo2mVqKqn69SOvXteGkjZ"
+      },
+      "artists": [
+        {
+          "name": "Pearl Ramos",
+          "url": "https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh"
+        },
+        {
+          "name": "PD.",
+          "url": "https://open.spotify.com/artist/7rz9p10il5iQGYxeYHLNns"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194666,
+      "name": "Ride it",
+      "url": "https://open.spotify.com/track/7DXF7TggrJ7dkKqizP9jIs"
     },
     {
       "album": {
@@ -5689,6 +5799,28 @@
     },
     {
       "album": {
+        "name": "So Amazing",
+        "url": "https://open.spotify.com/album/4lpKhHcpX7Cq2Z70z9rhFt"
+      },
+      "artists": [
+        {
+          "name": "Dylisa",
+          "url": "https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2"
+        },
+        {
+          "name": "FJ",
+          "url": "https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148172,
+      "name": "So Amazing",
+      "url": "https://open.spotify.com/track/2K4g1jqXcHov6GBfSaBd25"
+    },
+    {
+      "album": {
         "name": "So Much Sense",
         "url": "https://open.spotify.com/album/6f3POMzo8K8SZfy0mVGl0V"
       },
@@ -5894,7 +6026,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 177315,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/0UdTXAEjausMH1PcSZtiRH"

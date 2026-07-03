@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-14",
-  "description": "Bringing out the best of latest love tracks\nCover : EPIC - First Semester",
+  "description": "Bringing out the best of latest love tracks\nCover : Vintara Saradaga - VISA",
   "name": "Latest Romance Telugu",
   "tracks": [
     {
@@ -1533,6 +1533,36 @@
     },
     {
       "album": {
+        "name": "Chingari (From \"VISA - Vintara Saradaga\")",
+        "url": "https://open.spotify.com/album/4vllh0l0jwoA9x15BLZHBz"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Lipsika Bhashyam",
+          "url": "https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1"
+        },
+        {
+          "name": "Sanare",
+          "url": "https://open.spotify.com/artist/5OBBWXv2u5ZODe8odcEHbl"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233739,
+      "name": "Chingari (From \"VISA - Vintara Saradaga\")",
+      "url": "https://open.spotify.com/track/4pdqNcjVz9sPjBg1mJY0rS"
+    },
+    {
+      "album": {
         "name": "Chinni Gundelo (From \"Andhra King Taluka\")",
         "url": "https://open.spotify.com/album/2YsJF3plTQyCecg2NwFlnW"
       },
@@ -1694,6 +1724,32 @@
       "duration_ms": 222063,
       "name": "Chuttamalle (From \"Devara Part 1\")",
       "url": "https://open.spotify.com/track/1bxzr3JK05fMTcweGAZUHp"
+    },
+    {
+      "album": {
+        "name": "Crush Song (From \"Summer Holidays\")",
+        "url": "https://open.spotify.com/album/1xJsI9RDwnr2lxj42BwZXV"
+      },
+      "artists": [
+        {
+          "name": "Sinjith Yerramilli",
+          "url": "https://open.spotify.com/artist/30p5WaPxeojOvFem2XwJtd"
+        },
+        {
+          "name": "Anurag Kulkarni",
+          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215207,
+      "name": "Crush Song - From \"Summer Holidays\"",
+      "url": "https://open.spotify.com/track/5BrghXpf2wv88Tdz74jBtD"
     },
     {
       "album": {
@@ -9152,7 +9208,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 220581,
       "name": "Seetha Kalyanam (From \"Vaibhavam Thanyasmi\")",
       "url": "https://open.spotify.com/track/4HzhEvOCzOBDGRcsnpwG9z"
@@ -10404,7 +10460,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 200067,
       "name": "Yedha Okka Prayamu",
       "url": "https://open.spotify.com/track/2Zk5LZcAKwtEigIuQsZP7l"

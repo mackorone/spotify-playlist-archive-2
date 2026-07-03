@@ -1,6 +1,6 @@
 {
   "description": "Tracks crediting NATURE support its conservation.",
-  "num_followers": 14914,
+  "num_followers": 14924,
   "original_name": "feat. NATURE",
   "owner": {
     "name": "Spotify",
@@ -353,6 +353,26 @@
       "url": "https://open.spotify.com/track/6vs3zn3RZXdnehXKsXhDmJ"
     },
     {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Gamayun (feat. NATURE)",
+        "url": "https://open.spotify.com/album/1BvErgSo0WBpR4KsvUNDw9"
+      },
+      "artists": [
+        {
+          "name": "Evgeny Grinko",
+          "url": "https://open.spotify.com/artist/69RwhKw37lY73bMGaSts7C"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 184305,
+      "name": "Gamayun (feat. NATURE)",
+      "url": "https://open.spotify.com/track/7p71aA3y7iukaUzqfGvcgK"
+    },
+    {
       "added_at": "2026-04-21 10:00:28",
       "album": {
         "name": "A Shared Pulse",
@@ -375,26 +395,6 @@
       "duration_ms": 192000,
       "name": "Breathing As One with the Earth",
       "url": "https://open.spotify.com/track/3wCCUWI2898Gly0JF4Q78G"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Gamayun (feat. NATURE)",
-        "url": "https://open.spotify.com/album/1BvErgSo0WBpR4KsvUNDw9"
-      },
-      "artists": [
-        {
-          "name": "Evgeny Grinko",
-          "url": "https://open.spotify.com/artist/69RwhKw37lY73bMGaSts7C"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 184305,
-      "name": "Gamayun (feat. NATURE)",
-      "url": "https://open.spotify.com/track/7p71aA3y7iukaUzqfGvcgK"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Orange Skies - Chapter 2 (feat. NATURE)",
-        "url": "https://open.spotify.com/album/4jgHswvb5geQh6pI6EBRur"
-      },
-      "artists": [
-        {
-          "name": "Rozzi",
-          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 206877,
-      "name": "Orange Skies - Chapter 2 (feat. NATURE)",
-      "url": "https://open.spotify.com/track/4Y2ZhE91YTh1LCZfbW7LhW"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
         "name": "Darkness In Me (feat. NATURE and Modern Tales)",
         "url": "https://open.spotify.com/album/3YGvow5IPpEFripmURapJ7"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 210094,
       "name": "Darkness In Me (feat. NATURE and Modern Tales) - Regn Edit",
       "url": "https://open.spotify.com/track/0lezNKxBACQImI2PvSJLfK"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Orange Skies - Chapter 2 (feat. NATURE)",
+        "url": "https://open.spotify.com/album/4jgHswvb5geQh6pI6EBRur"
+      },
+      "artists": [
+        {
+          "name": "Rozzi",
+          "url": "https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 206877,
+      "name": "Orange Skies - Chapter 2 (feat. NATURE)",
+      "url": "https://open.spotify.com/track/4Y2ZhE91YTh1LCZfbW7LhW"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1351,6 +1351,34 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "Oregon Rain (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7jSTzL0Nco71gqnp2PLTXA"
+      },
+      "artists": [
+        {
+          "name": "David Allred",
+          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Fay Funk",
+          "url": "https://open.spotify.com/artist/6mj7MG08uhdgK9zvG0nyI6"
+        },
+        {
+          "name": "Gentle Millennials",
+          "url": "https://open.spotify.com/artist/3OlaO238BrZB7fZSVvnXCK"
+        }
+      ],
+      "duration_ms": 260657,
+      "name": "Oregon Rain (feat. NATURE)",
+      "url": "https://open.spotify.com/track/4QXodwucoCLns2sp22Azvo"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "We Are More (feat. NATURE)",
         "url": "https://open.spotify.com/album/3SgH8eZY5U8EvhtIQkjjct"
       },
@@ -1367,54 +1395,6 @@
       "duration_ms": 181007,
       "name": "We Are More (feat. NATURE)",
       "url": "https://open.spotify.com/track/6f4L4gG1eI2jAQBhJ4SfY2"
-    },
-    {
-      "added_at": "2026-04-21 10:00:28",
-      "album": {
-        "name": "Passerine",
-        "url": "https://open.spotify.com/album/33o9VUfULBRNX4dAeFLD69"
-      },
-      "artists": [
-        {
-          "name": "IL\u0100",
-          "url": "https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Anna Phoebe",
-          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
-        },
-        {
-          "name": "Sam Lee",
-          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
-        }
-      ],
-      "duration_ms": 298720,
-      "name": "Nightingale",
-      "url": "https://open.spotify.com/track/3PEKolpJBZNKo1zMROP0pV"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Lesser Spotted (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3MN0OGSZUjsetEhOHlDdX8"
-      },
-      "artists": [
-        {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 202122,
-      "name": "Lesser Spotted (feat. NATURE)",
-      "url": "https://open.spotify.com/track/0KP19nnFanB8K2h8bQp1Yv"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1439,6 +1419,26 @@
       "duration_ms": 291461,
       "name": "Metropolis (feat. NATURE)",
       "url": "https://open.spotify.com/track/2eisqIatF58br1F2BA6b3N"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
+        "name": "Lesser Spotted (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3MN0OGSZUjsetEhOHlDdX8"
+      },
+      "artists": [
+        {
+          "name": "I. JORDAN",
+          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 202122,
+      "name": "Lesser Spotted (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0KP19nnFanB8K2h8bQp1Yv"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1469,24 +1469,32 @@
       "url": "https://open.spotify.com/track/0cc6MJ4oHnWJdOImTcU1d0"
     },
     {
-      "added_at": "2026-02-05 08:45:41",
+      "added_at": "2026-04-21 10:00:28",
       "album": {
-        "name": "Midnight Bloom (feat. NATURE)",
-        "url": "https://open.spotify.com/album/6cTnArs64JjhfcrNJGMePc"
+        "name": "Passerine",
+        "url": "https://open.spotify.com/album/33o9VUfULBRNX4dAeFLD69"
       },
       "artists": [
         {
-          "name": "Jocelyn Chan",
-          "url": "https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd"
+          "name": "IL\u0100",
+          "url": "https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Anna Phoebe",
+          "url": "https://open.spotify.com/artist/1838KFlgy3zBrQOqiwagod"
+        },
+        {
+          "name": "Sam Lee",
+          "url": "https://open.spotify.com/artist/3W9jGHrOdrrv01cVtRhZa7"
         }
       ],
-      "duration_ms": 254896,
-      "name": "Midnight Bloom (feat. NATURE)",
-      "url": "https://open.spotify.com/track/1gbEHtoFeV1zDFnY1Sk4O7"
+      "duration_ms": 298720,
+      "name": "Nightingale",
+      "url": "https://open.spotify.com/track/3PEKolpJBZNKo1zMROP0pV"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1559,30 +1567,22 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
-        "name": "Oregon Rain (feat. NATURE)",
-        "url": "https://open.spotify.com/album/7jSTzL0Nco71gqnp2PLTXA"
+        "name": "Midnight Bloom (feat. NATURE)",
+        "url": "https://open.spotify.com/album/6cTnArs64JjhfcrNJGMePc"
       },
       "artists": [
         {
-          "name": "David Allred",
-          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
+          "name": "Jocelyn Chan",
+          "url": "https://open.spotify.com/artist/54X296HPEBGKumudEbWLRd"
         },
         {
           "name": "NATURE",
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Fay Funk",
-          "url": "https://open.spotify.com/artist/6mj7MG08uhdgK9zvG0nyI6"
-        },
-        {
-          "name": "Gentle Millennials",
-          "url": "https://open.spotify.com/artist/3OlaO238BrZB7fZSVvnXCK"
         }
       ],
-      "duration_ms": 260657,
-      "name": "Oregon Rain (feat. NATURE)",
-      "url": "https://open.spotify.com/track/4QXodwucoCLns2sp22Azvo"
+      "duration_ms": 254896,
+      "name": "Midnight Bloom (feat. NATURE)",
+      "url": "https://open.spotify.com/track/1gbEHtoFeV1zDFnY1Sk4O7"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "I Don\u2019t Wanna Be Strong (feat. NATURE)",
+        "url": "https://open.spotify.com/album/3uYcFZ6EAYLY2lXJYhpmz4"
+      },
+      "artists": [
+        {
+          "name": "Magnus M\u00fcnster",
+          "url": "https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 197809,
+      "name": "I Don\u2019t Wanna Be Strong (feat. NATURE)",
+      "url": "https://open.spotify.com/track/7qWReEoqggN71VzO58JnV2"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "Koth Biro (feat. NATURE)",
         "url": "https://open.spotify.com/album/4xaTZKFTLjP5GaGLX4ZEO3"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 374634,
       "name": "Koth Biro (feat. NATURE)",
       "url": "https://open.spotify.com/track/0Qhrpf41orOWGIS0Fzayqs"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "I Don\u2019t Wanna Be Strong (feat. NATURE)",
-        "url": "https://open.spotify.com/album/3uYcFZ6EAYLY2lXJYhpmz4"
-      },
-      "artists": [
-        {
-          "name": "Magnus M\u00fcnster",
-          "url": "https://open.spotify.com/artist/1B5Ve8nZVrz3iRMwFnqEtn"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 197809,
-      "name": "I Don\u2019t Wanna Be Strong (feat. NATURE)",
-      "url": "https://open.spotify.com/track/7qWReEoqggN71VzO58JnV2"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1743,26 +1743,6 @@
     {
       "added_at": "2026-04-21 10:00:28",
       "album": {
-        "name": "Passerine",
-        "url": "https://open.spotify.com/album/33o9VUfULBRNX4dAeFLD69"
-      },
-      "artists": [
-        {
-          "name": "IL\u0100",
-          "url": "https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        }
-      ],
-      "duration_ms": 398133,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/6K4kynMqegNNHeidkG2Y91"
-    },
-    {
-      "added_at": "2026-04-21 10:00:28",
-      "album": {
         "name": "Love Letters from Brooklyn",
         "url": "https://open.spotify.com/album/5IlMxjE5DrUhQzEwbdceFl"
       },
@@ -1783,6 +1763,26 @@
       "duration_ms": 95223,
       "name": "All in All",
       "url": "https://open.spotify.com/track/4W07zjSq18Ucew1BFHGguk"
+    },
+    {
+      "added_at": "2026-04-21 10:00:28",
+      "album": {
+        "name": "Passerine",
+        "url": "https://open.spotify.com/album/33o9VUfULBRNX4dAeFLD69"
+      },
+      "artists": [
+        {
+          "name": "IL\u0100",
+          "url": "https://open.spotify.com/artist/2vHCmNtVE5TAEgVn024QTF"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 398133,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/6K4kynMqegNNHeidkG2Y91"
     },
     {
       "added_at": "2026-02-05 08:45:41",
@@ -1855,6 +1855,30 @@
     {
       "added_at": "2026-02-05 08:45:41",
       "album": {
+        "name": "Brightest Blue - Nature Remix (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7BMvrXesDbR2n1vW8vErav"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        },
+        {
+          "name": "Joe Kearns",
+          "url": "https://open.spotify.com/artist/7Eh6OUut4HFx3P6wWZBFGQ"
+        }
+      ],
+      "duration_ms": 282702,
+      "name": "Brightest Blue - Nature Remix (feat. NATURE)",
+      "url": "https://open.spotify.com/track/7a5bG69omTngxpqXo01wqi"
+    },
+    {
+      "added_at": "2026-02-05 08:45:41",
+      "album": {
         "name": "Passerine",
         "url": "https://open.spotify.com/album/33o9VUfULBRNX4dAeFLD69"
       },
@@ -1879,30 +1903,6 @@
       "duration_ms": 214546,
       "name": "Philomel",
       "url": "https://open.spotify.com/track/6Xf9xCtsSgwWAJ31gmYmS9"
-    },
-    {
-      "added_at": "2026-02-05 08:45:41",
-      "album": {
-        "name": "Brightest Blue - Nature Remix (feat. NATURE)",
-        "url": "https://open.spotify.com/album/7BMvrXesDbR2n1vW8vErav"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "NATURE",
-          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
-        },
-        {
-          "name": "Joe Kearns",
-          "url": "https://open.spotify.com/artist/7Eh6OUut4HFx3P6wWZBFGQ"
-        }
-      ],
-      "duration_ms": 282702,
-      "name": "Brightest Blue - Nature Remix (feat. NATURE)",
-      "url": "https://open.spotify.com/track/7a5bG69omTngxpqXo01wqi"
     },
     {
       "added_at": "2026-02-05 08:45:41",

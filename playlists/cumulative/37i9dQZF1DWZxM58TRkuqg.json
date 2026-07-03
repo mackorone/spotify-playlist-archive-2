@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Rony Parulian",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover:  Aruma, Meiska, Prinsa Mandagie ",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -1744,7 +1744,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 152374,
       "name": "Bila",
       "url": "https://open.spotify.com/track/5vUHyNdyf058fWhnUY5nIr"
@@ -2472,6 +2472,24 @@
       "duration_ms": 225000,
       "name": "CEO (Menyala Queen)",
       "url": "https://open.spotify.com/track/5dTGdrFASArfsRjVAslt3T"
+    },
+    {
+      "album": {
+        "name": "Ceritanya Jatuh Cinta",
+        "url": "https://open.spotify.com/album/11Qt4sKWAfJBfQQwtbDox0"
+      },
+      "artists": [
+        {
+          "name": "Aku Jeje",
+          "url": "https://open.spotify.com/artist/4FZ6V3q8zMyFvSMeT2ld2f"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186570,
+      "name": "Ceritanya Jatuh Cinta",
+      "url": "https://open.spotify.com/track/0f9J5rMcMhCQiPGSJHvr7G"
     },
     {
       "album": {
@@ -4288,7 +4306,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 260884,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/4eL2vw4mQswrIC9bmIbMgO"
@@ -5176,6 +5194,32 @@
       "duration_ms": 286698,
       "name": "Kamu Adalah",
       "url": "https://open.spotify.com/track/6tdlq9QCsOCI8KyBsPTLpb"
+    },
+    {
+      "album": {
+        "name": "Kamu Bukan Kekasihku",
+        "url": "https://open.spotify.com/album/5xznSAiRmKYU5q1UxBKqG3"
+      },
+      "artists": [
+        {
+          "name": "Aruma",
+          "url": "https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1"
+        },
+        {
+          "name": "Meiska",
+          "url": "https://open.spotify.com/artist/1ZT1OfVAO3kpOEHVejBxV8"
+        },
+        {
+          "name": "Prinsa Mandagie",
+          "url": "https://open.spotify.com/artist/2a5iLHTui2soMRrOQf2Dsr"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244524,
+      "name": "Kamu Bukan Kekasihku",
+      "url": "https://open.spotify.com/track/7I20jfqXQo4F3VKUqF4luc"
     },
     {
       "album": {
@@ -8304,7 +8348,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 223504,
       "name": "On Our Own",
       "url": "https://open.spotify.com/track/7t8u3NnkMUcOTvhtuUEGRh"
@@ -12314,6 +12358,24 @@
       "duration_ms": 198324,
       "name": "Tegar",
       "url": "https://open.spotify.com/track/2Og0MMoa1xYEBDpUIlzLgy"
+    },
+    {
+      "album": {
+        "name": "Teh Hijau",
+        "url": "https://open.spotify.com/album/7A38wbAswxuZGB5aFvK9Qn"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212879,
+      "name": "Teh Hijau",
+      "url": "https://open.spotify.com/track/4R9G7azXaZe93KTX65P9fU"
     },
     {
       "album": {

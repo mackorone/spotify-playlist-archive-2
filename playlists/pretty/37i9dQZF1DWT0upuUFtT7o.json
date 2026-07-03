@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Cover: @",
-  "num_followers": 256623,
+  "num_followers": 256647,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE19Nf4ErX07V5rLTwt5SQghYvMM",
+  "snapshot_id": "AAAAADF9bujUlf+ffiN/7wxSGcdIAxNm",
   "tracks": [
     {
       "added_at": "2026-06-24 22:07:04",
@@ -25,6 +25,54 @@
       "url": "https://open.spotify.com/track/5zg2SLq4J1w0y7n9TWP8s4"
     },
     {
+      "added_at": "2026-07-02 19:48:03",
+      "album": {
+        "name": "Bluebells",
+        "url": "https://open.spotify.com/album/2lCJzQPWUMuRYZBc0IS5Hs"
+      },
+      "artists": [
+        {
+          "name": "Whisper Doll",
+          "url": "https://open.spotify.com/artist/5WqfNE3lDiQ7auVGw4lbuU"
+        }
+      ],
+      "duration_ms": 173250,
+      "name": "Bluebells",
+      "url": "https://open.spotify.com/track/12UNcq0piKgV5VxhxOSRpz"
+    },
+    {
+      "added_at": "2026-07-02 19:48:03",
+      "album": {
+        "name": "ceiling / moonchild",
+        "url": "https://open.spotify.com/album/7wKOe1WMyVSFAUGKq7GoEC"
+      },
+      "artists": [
+        {
+          "name": "backyardaughter",
+          "url": "https://open.spotify.com/artist/0cxWOtF4A8OGrziwQa3wtR"
+        }
+      ],
+      "duration_ms": 208888,
+      "name": "ceiling",
+      "url": "https://open.spotify.com/track/7ajua99z1yxJH29aRvgkaa"
+    },
+    {
+      "added_at": "2026-07-02 19:48:03",
+      "album": {
+        "name": "Stew",
+        "url": "https://open.spotify.com/album/2Rwca3mHmAeP6fEkbXCVHO"
+      },
+      "artists": [
+        {
+          "name": "Yangze",
+          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
+        }
+      ],
+      "duration_ms": 344820,
+      "name": "Stew",
+      "url": "https://open.spotify.com/track/1bDwvHbDgtCvr2TcZIpQyn"
+    },
+    {
       "added_at": "2026-06-24 22:07:04",
       "album": {
         "name": "Autosmile",
@@ -39,6 +87,38 @@
       "duration_ms": 399026,
       "name": "Autosmile",
       "url": "https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr"
+    },
+    {
+      "added_at": "2026-07-02 19:48:03",
+      "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/7icnlFXNkm8hA74GEwzwKu"
+      },
+      "artists": [
+        {
+          "name": "Teilz",
+          "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
+        }
+      ],
+      "duration_ms": 189307,
+      "name": "17",
+      "url": "https://open.spotify.com/track/189ITo3VyfZjaXNKusxNht"
+    },
+    {
+      "added_at": "2026-07-02 19:48:03",
+      "album": {
+        "name": "To That or to This",
+        "url": "https://open.spotify.com/album/7Dlbv9yUgUoqXfg7kmxM4o"
+      },
+      "artists": [
+        {
+          "name": "Over Under",
+          "url": "https://open.spotify.com/artist/1eTNgJMyODOGBZpcDsWXwe"
+        }
+      ],
+      "duration_ms": 197509,
+      "name": "To That or to This",
+      "url": "https://open.spotify.com/track/6XXzZXFhRCwWMkGbv2VH4J"
     },
     {
       "added_at": "2026-06-24 22:07:04",
@@ -71,6 +151,26 @@
       "duration_ms": 184615,
       "name": "guitarsonG",
       "url": "https://open.spotify.com/track/1r6bs2UKpMimp9g076FUTc"
+    },
+    {
+      "added_at": "2026-07-02 19:48:03",
+      "album": {
+        "name": "Time Will Help",
+        "url": "https://open.spotify.com/album/1UDR8zmbOrEuRg83q1wbRU"
+      },
+      "artists": [
+        {
+          "name": "Tigeroak",
+          "url": "https://open.spotify.com/artist/5438LSbtMXzEmfe0qZRff0"
+        },
+        {
+          "name": "Teis Ortved",
+          "url": "https://open.spotify.com/artist/5GgzMnW2NLZDoCtR2K3S5X"
+        }
+      ],
+      "duration_ms": 239648,
+      "name": "Time Will Help",
+      "url": "https://open.spotify.com/track/1C0LH8rIuyoPQVzBJNhxwm"
     },
     {
       "added_at": "2026-05-27 04:00:16",
@@ -263,6 +363,22 @@
       "duration_ms": 151428,
       "name": "Tastes Like",
       "url": "https://open.spotify.com/track/250iYG82IKXiN4vQ76CzbL"
+    },
+    {
+      "added_at": "2026-07-02 19:48:03",
+      "album": {
+        "name": "Endless Sundays",
+        "url": "https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 248281,
+      "name": "Endless Sundays",
+      "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
     },
     {
       "added_at": "2026-06-10 16:09:57",
@@ -1053,22 +1169,6 @@
       "url": "https://open.spotify.com/track/2U7v0lH247K8d57q1tWAHE"
     },
     {
-      "added_at": "2026-04-22 16:16:37",
-      "album": {
-        "name": "sad song",
-        "url": "https://open.spotify.com/album/3M4kVE1218U6n9Qh6JQ03I"
-      },
-      "artists": [
-        {
-          "name": "miaw",
-          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
-        }
-      ],
-      "duration_ms": 183488,
-      "name": "sad song",
-      "url": "https://open.spotify.com/track/550U3xKjOwcHU36I47JX5P"
-    },
-    {
       "added_at": "2026-04-29 18:30:29",
       "album": {
         "name": "Barrons Hotel/Yellow Bones",
@@ -1119,102 +1219,6 @@
       "duration_ms": 160616,
       "name": "Better Angels",
       "url": "https://open.spotify.com/track/4dVmB6Y60E2U5tK79G2dhK"
-    },
-    {
-      "added_at": "2026-04-29 18:30:29",
-      "album": {
-        "name": "Mean Girl",
-        "url": "https://open.spotify.com/album/5dzFw2ll8liIK17jSCHi2z"
-      },
-      "artists": [
-        {
-          "name": "TOAST CLUB",
-          "url": "https://open.spotify.com/artist/7Fxkd4fNZApzhdE10tlixG"
-        }
-      ],
-      "duration_ms": 331713,
-      "name": "Mean Girl",
-      "url": "https://open.spotify.com/track/2THJMekCUeQDK7VQ8FoRSp"
-    },
-    {
-      "added_at": "2026-04-29 18:30:29",
-      "album": {
-        "name": "Criminal Kissing",
-        "url": "https://open.spotify.com/album/5rLPF3X7izZap4WFPav7Yb"
-      },
-      "artists": [
-        {
-          "name": "IAN SWEET",
-          "url": "https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Criminal Kissing",
-      "url": "https://open.spotify.com/track/1rQtRwgx4vB2reixMAoHsR"
-    },
-    {
-      "added_at": "2026-04-22 16:16:37",
-      "album": {
-        "name": "Sun after rain",
-        "url": "https://open.spotify.com/album/0KDmZawPnFYKTYL2PbSkT9"
-      },
-      "artists": [
-        {
-          "name": "ZK king",
-          "url": "https://open.spotify.com/artist/0mXeqEE6ZBHM6B9CPpB9PS"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Sun after rain",
-      "url": "https://open.spotify.com/track/1uoeixxLW14fGVBt6e3vQ1"
-    },
-    {
-      "added_at": "2026-04-29 18:30:29",
-      "album": {
-        "name": "there's an atm inside",
-        "url": "https://open.spotify.com/album/73jAMZpl5U6duG0wrw83jZ"
-      },
-      "artists": [
-        {
-          "name": "ps goner",
-          "url": "https://open.spotify.com/artist/2NvW7opzLcyUzwUCpYEacp"
-        }
-      ],
-      "duration_ms": 265387,
-      "name": "broken dream",
-      "url": "https://open.spotify.com/track/3z2lxgazaDUONf4CISarud"
-    },
-    {
-      "added_at": "2026-04-29 18:30:29",
-      "album": {
-        "name": "SUEDE",
-        "url": "https://open.spotify.com/album/0E7McFVupFPcGrtULqE5ny"
-      },
-      "artists": [
-        {
-          "name": "Alex Banin",
-          "url": "https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "SUEDE",
-      "url": "https://open.spotify.com/track/2YdZ5tObXI4c5AXOwzK0PJ"
-    },
-    {
-      "added_at": "2026-04-29 19:25:30",
-      "album": {
-        "name": "Don't Kill the Vibe",
-        "url": "https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N"
-      },
-      "artists": [
-        {
-          "name": "Jordan Joy",
-          "url": "https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv"
-        }
-      ],
-      "duration_ms": 262459,
-      "name": "Don't Kill the Vibe",
-      "url": "https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd"
     }
   ],
   "unique_name": "Fresh Finds Indie",

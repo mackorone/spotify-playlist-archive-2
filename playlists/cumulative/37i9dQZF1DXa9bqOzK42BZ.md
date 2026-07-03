@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-338 songs - 1 day 5 hr 30 min
+339 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [SEMA ASANTE](https://open.spotify.com/track/2TZ4fabbGN00FOuAP2Hl1p) | [Wyse Tz](https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8) | [SEMA ASANTE](https://open.spotify.com/album/0kmO8vsAYqPMPEPj25gXPs) | 2:35 | 2024-02-02 | 2024-02-16 |
 | [Sema Asante](https://open.spotify.com/track/4YNwDgPLqaUDlTZKUWPWs4) | [Wyse Tz](https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8) | [Sema Asante](https://open.spotify.com/album/5x6r4x0WijAPuL6G3U3COc) | 2:35 | 2024-02-02 | 2024-10-18 |
 | [Shida](https://open.spotify.com/track/1DwIdpfjh50nhswAniJpQW) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Shida](https://open.spotify.com/album/6A83CUr0UmsmAZu8PahRe7) | 4:02 | 2023-08-18 | 2025-02-21 |
-| [Shuka Tukuone](https://open.spotify.com/track/3SdAyRhdxFiSf1w6vwr6yX) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Shuka Tukuone](https://open.spotify.com/album/4Hx5Wma6dz3Bg4MqPNvHCi) | 5:01 | 2025-11-28 |  |
+| [Shuka Tukuone](https://open.spotify.com/track/3SdAyRhdxFiSf1w6vwr6yX) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Shuka Tukuone](https://open.spotify.com/album/4Hx5Wma6dz3Bg4MqPNvHCi) | 5:01 | 2025-11-28 | 2026-07-03 |
 | [Shukrani](https://open.spotify.com/track/0rlCvJeYrVmei9ZcySimqk) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Shukrani](https://open.spotify.com/album/350ih6c5bnbgPAYcX13FUO) | 3:57 | 2024-10-04 | 2025-08-16 |
 | [Shukurani](https://open.spotify.com/track/1kcmPNrOkYJY1wJuwuRbZC) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Shukurani](https://open.spotify.com/album/2zrVtAaSEUhuo6oQgjji97) | 4:39 | 2022-06-24 |  |
 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 | 2023-06-16 |  |
@@ -263,6 +263,7 @@
 | [Sijali](https://open.spotify.com/track/6ivExYTqEyEJUJsfhULEbI) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU), [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Sijali](https://open.spotify.com/album/5wA3LfZewhNi8sKQKa7aXq) | 4:24 | 2026-01-15 |  |
 | [Sijaona Kama Wewe](https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Sijaona Kama Wewe](https://open.spotify.com/album/5uVEa8Deiqpir6q7iHE4yU) | 11:13 | 2022-06-24 |  |
 | [Sikiliza](https://open.spotify.com/track/4UxKRFNRxmjMZ6kFrcUUNS) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Sikiliza](https://open.spotify.com/album/56nRuFA8ngZ3mDIFyRt0FS) | 11:28 | 2024-09-20 |  |
+| [Sina](https://open.spotify.com/track/4MCpezgY7YBrYRIVSbXNdk) | [Dan Mogore](https://open.spotify.com/artist/1kXWa1Sm47CnIF75qJPMlb), [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Sina](https://open.spotify.com/album/6jHthNnOMILdIeuYOLKklG) | 3:25 | 2026-07-03 |  |
 | [Sing Hallelujah](https://open.spotify.com/track/6laQTk4NLBBAPjP6Lyba2N) | [Lovern Music](https://open.spotify.com/artist/67YTFMApjFgqL8DDMp4cVg) | [Nguvu ya Imani](https://open.spotify.com/album/4L3fq2Ug30EOBywc0ZMg9o) | 2:38 | 2026-01-09 |  |
 | [Sisi Ndio Wale](https://open.spotify.com/track/7GtbWZzckE9diKrKYSQ4Gi) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Sisi Ndio Wale](https://open.spotify.com/album/5DyJwA7sacoreQVSlDaBYo) | 4:23 | 2023-11-10 | 2023-11-25 |
 | [Sisi Ni Wale](https://open.spotify.com/track/7fw4Nzwa0FB7Qwu3zyFaY9) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Sisi Ni Wale](https://open.spotify.com/album/62kTShyCsFUxCyrqcs5Rb3) | 3:48 | 2023-10-13 |  |

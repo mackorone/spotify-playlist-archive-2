@@ -2,9 +2,9 @@
 
 ### [Rock Out.](https://open.spotify.com/playlist/37i9dQZF1DX7VfcxcuiL8Z)
 
-> The best in new rock\. Cover: beabadoobee
+> The best in new rock\. Cover: BIG NOTER
 
-663 songs - 1 day 14 hr 49 min
+665 songs - 1 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Ain’t For The Faint](https://open.spotify.com/track/6SQuxwoBbp8DlAUStjJ5vB) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Top Heavy](https://open.spotify.com/album/3rUIQo9YmO0tgg7X0tT0TT) | 3:23 | 2025-06-26 | 2026-01-30 |
 | [Alfie](https://open.spotify.com/track/16JaagIYYfUYHaJUEQPnE2) | [The Living End](https://open.spotify.com/artist/3ExT45ORJ8pT516HRZbr7G) | [Alfie](https://open.spotify.com/album/3DiI2BURC83sNETpWmWch6) | 3:40 | 2025-05-15 | 2025-08-08 |
 | [Alive](https://open.spotify.com/track/50FZC0TxQwpitGlQIufSfQ) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [L.A\. Times](https://open.spotify.com/album/7wYyR1xrLO0uWxBlanysNT) | 2:48 | 2024-07-11 | 2024-11-22 |
-| [Alive After Death \(Last Plane Out\)](https://open.spotify.com/track/49PG0rD4WocV3Swhkc4et1) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Alive After Death \(Last Plane Out\)](https://open.spotify.com/album/6RDXbeog920l0aeMyaeCd7) | 3:30 | 2026-04-23 |  |
+| [Alive After Death \(Last Plane Out\)](https://open.spotify.com/track/49PG0rD4WocV3Swhkc4et1) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Alive After Death \(Last Plane Out\)](https://open.spotify.com/album/6RDXbeog920l0aeMyaeCd7) | 3:30 | 2026-04-23 | 2026-07-03 |
 | [All](https://open.spotify.com/track/4ma7pLckA3BHTb2STtAMrc) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [All](https://open.spotify.com/album/708D6WkdNPfM91oo4dbZWp) | 4:18 | 2024-08-08 | 2025-01-17 |
 | [All I Ever Am](https://open.spotify.com/track/6eUWC6rP8Rcd9TfpjCbEJG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Songs Of A Lost World](https://open.spotify.com/album/4wjxmqXnSQvBZWL3IbYngX) | 5:21 | 2024-10-31 | 2025-01-17 |
 | [All I'll Ever Know](https://open.spotify.com/track/2zSMcbwXJ6aRpb5nx56psa) | [Sonic Reducer](https://open.spotify.com/artist/4fSqBIjaypPHHyGIkrebEL) | [Living Room](https://open.spotify.com/album/6xTiV4aeEdyG9HPYDotzaK) | 3:06 | 2026-06-18 |  |
@@ -315,6 +315,7 @@
 | [Keep on Moving](https://open.spotify.com/track/78QbRv8ek0BCKvLN8PXtmb) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Keep on Moving](https://open.spotify.com/album/6yoQ4DhCRvnd9KqXwnuCdE) | 2:51 | 2024-08-15 | 2024-09-27 |
 | [Kickboxer](https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [House of Cards](https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5) | 2:46 | 2026-04-23 | 2026-06-12 |
 | [Kickin' Stones](https://open.spotify.com/track/3WPvPjDakz0hoE4VASyr6z) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Endemic Intelligence in Multiple Dimensions](https://open.spotify.com/album/1N2LHCJgUEy8GzXItAuNKg) | 3:07 | 2025-09-25 | 2025-12-12 |
+| [Kid In A Candy Store](https://open.spotify.com/track/4PVg0EjwywuSYHm8MqCG5y) | [Airbourne](https://open.spotify.com/artist/6urzdpGY5yUimWZsgJUoTb) | [Kid In A Candy Store](https://open.spotify.com/album/1rIgwnBWlFTwfMfsMMzHVq) | 4:08 | 2026-07-02 |  |
 | [Kill You Back](https://open.spotify.com/track/08FMKTqe5CUHAPSmUb9r4q) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Kill You Back](https://open.spotify.com/album/18NnUYDOwB07EFJTIroiW5) | 2:54 | 2026-06-18 |  |
 | [Killing Fields](https://open.spotify.com/track/2TaoUoqmerQ8jxjsQguVdX) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Killing Fields](https://open.spotify.com/album/0bitrBOkeCj6Zzy7yl2Ijx) | 3:45 | 2025-07-17 | 2025-10-17 |
 | [KILLING ME](https://open.spotify.com/track/0pUhjwRcebbqwe8RmICp6d) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [KILLING ME](https://open.spotify.com/album/0NGSjSPlCLyv2y2ALMDwX9) | 3:43 | 2024-09-19 | 2025-02-28 |
@@ -338,6 +339,7 @@
 | [Let You Fade](https://open.spotify.com/track/3GZt2N9dSfNCL6ArCFDpOc) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero \(Deluxe Edition\)](https://open.spotify.com/album/5QfFvOMOJ0CrIDmu33RmSJ) | 3:28 | 2025-05-15 | 2025-06-20 |
 | [Letters](https://open.spotify.com/track/1WpML49J52wtI6B7cEfoRP) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Letters](https://open.spotify.com/album/63YZiViTBsGpNT25ZCz4FK) | 3:13 | 2024-04-09 | 2024-07-12 |
 | [Lie To Me](https://open.spotify.com/track/4JqgMXSKfk9eHLM9vuO18T) | [Kisschasy](https://open.spotify.com/artist/21wuAm9OFJEeN7h3EozO0r) | [Lie To Me](https://open.spotify.com/album/2gz4vPQUeVLT8cnKtJnyKz) | 2:44 | 2025-05-22 | 2025-08-15 |
+| [LIFE](https://open.spotify.com/track/2piZnAQmdM4kwdKTdeKevR) | [Adam Newling](https://open.spotify.com/artist/6P727EkBvvBKIrMHEu83eT) | [LIFE](https://open.spotify.com/album/11UH2nnKfxCzdhWXkffIOE) | 3:16 | 2026-07-02 |  |
 | [Life's a Dream](https://open.spotify.com/track/7aKPErDLvieg4nJTWqCrNc) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [An Eraser And A Maze](https://open.spotify.com/album/0lJPeenR7JbVGYIj1g4d3g) | 5:31 | 2026-06-04 |  |
 | [Light It Up](https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Light It Up](https://open.spotify.com/album/0raE7obxWT1ITXeAC756uC) | 2:52 | 2024-08-01 | 2025-02-28 |
 | [Light Up The Path](https://open.spotify.com/track/0fuvxtyhFjrWFJYxg6fFUq) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Light Up The Path](https://open.spotify.com/album/3yqg1fo5jnijZk6cm4k4oM) | 3:58 | 2024-10-10 | 2025-04-25 |
@@ -460,7 +462,7 @@
 | [Proud Daddy](https://open.spotify.com/track/7GYhyz8hQ8btugI4Uj0wZH) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Beneath The Surface](https://open.spotify.com/album/1iGRMwv01LJb3nJLeoQDh5) | 3:54 | 2026-04-16 |  |
 | [PTRCK](https://open.spotify.com/track/0IhSSRDZyXYZ63KK83O8Fn) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [PTRCK](https://open.spotify.com/album/5GyYnIKSicvq3ogUg15Lev) | 2:32 | 2025-07-03 | 2025-08-21 |
 | [PTRCK](https://open.spotify.com/track/32GOdJModoO0lIO40uMIYw) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [F U IN MORSE CODE](https://open.spotify.com/album/2GbYbt9hZVZlMA8jP13ihR) | 2:32 | 2025-08-20 | 2025-08-22 |
-| [Punching the Flowers](https://open.spotify.com/track/56es3ImztwXSwpYmtS6c4A) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Punching the Flowers](https://open.spotify.com/album/7M1MydZE4a34uIo3iQrthu) | 3:11 | 2026-04-30 |  |
+| [Punching the Flowers](https://open.spotify.com/track/56es3ImztwXSwpYmtS6c4A) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Punching the Flowers](https://open.spotify.com/album/7M1MydZE4a34uIo3iQrthu) | 3:11 | 2026-04-30 | 2026-07-03 |
 | [PUSH PIN](https://open.spotify.com/track/42HAEL264uHwYLbQV5Y9Io) | [RAGEFLOWER](https://open.spotify.com/artist/0jHAwb83XpyQCuKAsrNaNG) | [PUSH PIN](https://open.spotify.com/album/4OWcPaOG3bxKOIOmOywInK) | 3:09 | 2026-05-14 |  |
 | [Quiet When You’re Listening](https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg) | [Rum Jungle](https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm) | [Marginalia](https://open.spotify.com/album/24tPRjQC2xJJBHiQlu65ot) | 2:58 | 2026-06-04 |  |
 | [R U Happy Now](https://open.spotify.com/track/4XGNzQ0JdnV27LPXVPvHWV) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Let All That We Imagine Be The Light](https://open.spotify.com/album/3SVwtqCeeVLPdnxipKxgIj) | 3:39 | 2025-06-19 | 2025-10-03 |

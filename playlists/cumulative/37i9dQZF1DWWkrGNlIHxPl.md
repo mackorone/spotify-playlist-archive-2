@@ -2,9 +2,9 @@
 
 ### [Arab X](https://open.spotify.com/playlist/37i9dQZF1DWWkrGNlIHxPl)
 
-> Global crossovers by Arab artists\. Cover: Nory & Nadine El Roubi
+> Global crossovers by Arab artists\. Cover: Shargeeya
 
-386 songs - 20 hr 59 min
+388 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Damaged Feelings](https://open.spotify.com/track/4qZe0XLKkEuNS1JS3xHKVI) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [Damaged Feelings](https://open.spotify.com/album/7ArpHBuiW0jpHrG8tKdIVx) | 3:17 | 2021-12-16 | 2022-11-20 |
 | [Damn Son](https://open.spotify.com/track/6EVVPT2x5Ow5bNmoZagZO6) | [Sammy Shiblaq](https://open.spotify.com/artist/7edxEDtHLLCarGwzp5lpIG) | [Damn Son](https://open.spotify.com/album/7toSxaZza0RCvR3c9Tvuhq) | 2:33 | 2021-12-16 | 2022-11-20 |
 | [Dance Alone](https://open.spotify.com/track/6oKrqdkszicFfmZ7gT55zM) | [saüd](https://open.spotify.com/artist/3pYZIM4PKTsP20sNSSLs0m), [pre kai ro](https://open.spotify.com/artist/0oXFTo5u9yH1zht6gIt4wY) | [Dance Alone](https://open.spotify.com/album/2gw0OZjHyvvwMODWy9fovU) | 2:58 | 2021-12-16 | 2022-09-15 |
+| [Dance Alone](https://open.spotify.com/track/3sc82QBKHxvlrfViVcB0Y3) | [Shargeeya](https://open.spotify.com/artist/3d3ra9wZ8mOWqIV04cNSVK) | [Dance Alone](https://open.spotify.com/album/0Ts002kjMTggkzlrM0oaVa) | 2:29 | 2026-07-02 |  |
 | [decompose](https://open.spotify.com/track/7bCD7NDkiRs5Hu9EqA72Wc) | [fulana](https://open.spotify.com/artist/2CSVXPqF7glLJsWNWpCwGe), [Input/Output](https://open.spotify.com/artist/0w3WSSamJcgfrVKiXfYphM) | [ground:from](https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k) | 3:12 | 2024-12-31 |  |
 | [Deep End](https://open.spotify.com/track/1tBGCQUfN4d7iUJC7xMsJE) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Deep End](https://open.spotify.com/album/3sgMt6ZHu0nANSXV19zdsU) | 3:23 | 2021-12-16 | 2022-11-20 |
 | [deeper me](https://open.spotify.com/track/2GjnmIxiLh9wvIpigtek5C) | [Ss.hh.a.n.a](https://open.spotify.com/artist/7paUluJ7hvCKRvaz7JOppE) | [deeper me](https://open.spotify.com/album/70ST2gVUiX0N0wGEld6cxh) | 3:15 | 2022-07-28 | 2022-09-23 |
@@ -297,7 +298,7 @@
 | [Saudi Most Wanted](https://open.spotify.com/track/6k2J7DVv8lwAW0XXUPMVQv) | [$kinny](https://open.spotify.com/artist/1DwFdML6JPf7SSeXmSRnVN) | [Saudi Most Wanted](https://open.spotify.com/album/2so57oOfGe2N1p42xc4qg7) | 2:28 | 2022-03-11 | 2022-12-08 |
 | [Say Hi To My Demons \(feat\. Dounia\)](https://open.spotify.com/track/1QzEynjWm4RPAmFUZsYZVN) | [Felukah](https://open.spotify.com/artist/0nmukaO2zzwRPEevPJph1F), [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [Say Hi To My Demons \(feat\. Dounia\)](https://open.spotify.com/album/6kvEYQBniePtBTOTXYukBC) | 3:18 | 2022-05-13 | 2022-12-08 |
 | [Sbaart Ou Tal Adabi](https://open.spotify.com/track/7HhieX1dqISjpteFs5w7Xb) | [Cheb Hasni](https://open.spotify.com/artist/6AqjzYRx9TeJDzKhkSSHFx) | [Le Roi De La Chanson Sentimentale](https://open.spotify.com/album/0TVQRDpUZSicrhCoG65XAA) | 5:46 | 2022-06-06 | 2022-06-24 |
-| [Scarred Hearts Love Better =○<](https://open.spotify.com/track/5HZK9QjVSAHdoxXw8J8YHM) | [Hadi X](https://open.spotify.com/artist/6IoMp72EAMD3JogASNYTLa) | [Scarred Hearts Love Better =○<](https://open.spotify.com/album/3ujSdcdB2xTbwTCS93dBBC) | 3:50 | 2024-09-17 |  |
+| [Scarred Hearts Love Better =○<](https://open.spotify.com/track/5HZK9QjVSAHdoxXw8J8YHM) | [Hadi X](https://open.spotify.com/artist/6IoMp72EAMD3JogASNYTLa) | [Scarred Hearts Love Better =○<](https://open.spotify.com/album/3ujSdcdB2xTbwTCS93dBBC) | 3:50 | 2024-09-17 | 2026-07-03 |
 | [Scorsese](https://open.spotify.com/track/750DwBev1112r16elo8Mom) | [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [Scorsese](https://open.spotify.com/album/61Lt1vrqJn88KCCozyklla) | 3:10 | 2023-05-07 | 2023-06-15 |
 | [Season One](https://open.spotify.com/track/5RExNfLho0l9WtHNXpAiof) | [Jana Diab](https://open.spotify.com/artist/04U5nHCnl5ykOPWVrfHHZq) | [Season One](https://open.spotify.com/album/09DOEdhTpnzRcSpqLM3AI2) | 2:05 | 2024-09-20 |  |
 | [Selfish](https://open.spotify.com/track/1hzlrszIYah7vFitAl5cji) | [NOVO](https://open.spotify.com/artist/430UrfL5PTV5Y5elsZtq6a) | [Love or Madness](https://open.spotify.com/album/49ICK38Ot22Q0F0Hw3njDD) | 3:05 | 2021-12-16 | 2022-11-20 |
@@ -327,7 +328,7 @@
 | [Streets](https://open.spotify.com/track/0HrYRWreDtgwG420WzvS6w) | [Moh Flow](https://open.spotify.com/artist/4mZSevA0QZtMWxZTGhLw9p) | [Streets](https://open.spotify.com/album/5dffWaAYExvHrnLOAgtDUb) | 3:53 | 2023-01-12 | 2023-03-15 |
 | [Strong Enough](https://open.spotify.com/track/6HBSPmhSQfD2ftLDcQnoye) | [kiiko](https://open.spotify.com/artist/4Ep8X40XkFWjCDSViceiQy) | [Strong Enough](https://open.spotify.com/album/3dYM0BYJAqAFdlyWoGrKXM) | 3:08 | 2024-10-21 |  |
 | [Styla Jamaiki](https://open.spotify.com/track/1ontuN6ddlysEYXzoYkLID) | [ARXP Cartel](https://open.spotify.com/artist/62rWseD8dlUp2w77shBrD1), [Eslam Jawaad](https://open.spotify.com/artist/3y7vb47gzj692Slqa8cKbv), [Seidosimba](https://open.spotify.com/artist/0IYctk4zZNrGlxLmWgQ88H), [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG) | [Styla Jamaiki](https://open.spotify.com/album/601BizZRIf2pr5QsnR6gDA) | 4:05 | 2022-06-23 | 2023-03-15 |
-| [SUMMER GLOW \(feat\. NBL\)](https://open.spotify.com/track/3uiOGSMGTj2QPjBoJEqq3J) | [AZIZ.wav](https://open.spotify.com/artist/31hBwYTq1BDVU9Yr1eD3aQ), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF), [NBL](https://open.spotify.com/artist/5mEoje9uiOkieG0o7eKZ5D) | [SUMMER GLOW \(feat\. NBL\)](https://open.spotify.com/album/1FRtoshJo9OLt6TMrVooQj) | 3:53 | 2024-09-13 |  |
+| [SUMMER GLOW \(feat\. NBL\)](https://open.spotify.com/track/3uiOGSMGTj2QPjBoJEqq3J) | [AZIZ.wav](https://open.spotify.com/artist/31hBwYTq1BDVU9Yr1eD3aQ), [Ntitled](https://open.spotify.com/artist/1IlPPRHXWaxkyNiboLlCjd), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF), [NBL](https://open.spotify.com/artist/5mEoje9uiOkieG0o7eKZ5D) | [SUMMER GLOW \(feat\. NBL\)](https://open.spotify.com/album/1FRtoshJo9OLt6TMrVooQj) | 3:53 | 2024-09-13 | 2026-07-03 |
 | [Summer Rain](https://open.spotify.com/track/4MOUAKzdy6wa2AJHuuxIi8) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Summer Rain](https://open.spotify.com/album/6I3925ZMh8gJ4rSTovgSDp) | 3:20 | 2021-12-16 | 2022-11-20 |
 | [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 | 2022-04-07 | 2022-12-08 |
 | [SUPERMAN](https://open.spotify.com/track/2SdbZDrOiJ41HrS67Js3fn) | [Mishaal Tamer](https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g) | [SUPERMAN](https://open.spotify.com/album/2Hgv3eRA7Nv4NQpsFxH0sc) | 2:43 | 2023-06-24 | 2023-09-20 |
@@ -378,6 +379,7 @@
 | [what if i took it off for you?](https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [what if i took it off for you?](https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM) | 2:16 | 2021-12-16 | 2022-11-20 |
 | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/track/4DkNc7OeBsd4a95Sb86Xnt) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j), [Jeed](https://open.spotify.com/artist/6O5okGW7N019Tinwive4IF) | [Who Pulled Up? \(feat\. Jeed\)](https://open.spotify.com/album/7FYFckeLTVNxOzCHsMLuNC) | 2:18 | 2022-12-07 | 2026-06-12 |
 | [Why Lie to Me ?](https://open.spotify.com/track/5goo9FGyGlOMD24BdippCs) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [Why Lie to Me ?](https://open.spotify.com/album/0Ne2F8JgYKBxjY1zVYA6aA) | 2:33 | 2022-06-23 | 2022-12-08 |
+| [Why Would You](https://open.spotify.com/track/3lOwrp40DhQqlXEhnVAEUd) | [kiiko](https://open.spotify.com/artist/4Ep8X40XkFWjCDSViceiQy) | [LYRA](https://open.spotify.com/album/0i5uw2suIppeIcZGCLuPJB) | 3:53 | 2026-07-02 |  |
 | [Wild Things](https://open.spotify.com/track/0PHHyXwgVznLS35CqxZbIT) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [Wild Things](https://open.spotify.com/album/7hwGpdnsIK7vnmbiaSXXVD) | 3:11 | 2022-03-29 | 2023-06-15 |
 | [Wild Trance](https://open.spotify.com/track/3v6BuQKmmwaWxuaKX4O7Lq) | [Nader Khalil](https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi) | [Wild Trance](https://open.spotify.com/album/4KY5L36S4tzI3lX5lXxdML) | 1:44 | 2022-01-24 | 2022-12-08 |
 | [WORK](https://open.spotify.com/track/72gAZIf8wnbOuz1GqGUtGF) | [Zahraa](https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr) | [WORK](https://open.spotify.com/album/7rFFhUon9lIWtvSSH5XYHy) | 2:44 | 2023-08-29 |  |

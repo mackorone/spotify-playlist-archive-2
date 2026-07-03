@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/27oxH68ZhwZ4Td6jZztQqs">Caza</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-125 songs - 5 hr 46 min
+126 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Openen](https://open.spotify.com/track/4m1LUEkx0rKHOOfDoGO3MS) | [Two Crooks](https://open.spotify.com/artist/0KbxWTWxxOTbm3eiCAEYVV), [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7) | [Openen](https://open.spotify.com/album/3H35wgfNBb0kOn0B5z5v0V) | 3:23 | 2024-01-29 | 2025-10-04 |
 | [Overdreven](https://open.spotify.com/track/7ItnRSZeH4FcMbUj3i3BHO) | [Selma Omari](https://open.spotify.com/artist/2gLdG0pJEOmwWf6eDrbtyg) | [Overdreven](https://open.spotify.com/album/3ezgG56ERjnRH1kZpz1wgc) | 2:43 | 2024-01-29 | 2024-02-12 |
 | [P2](https://open.spotify.com/track/6UnLRaw0n7Esvq7byKTnwI) | [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [P2](https://open.spotify.com/album/3xyPnvAmJLL9h9vNZg2GPg) | 2:02 | 2024-01-29 |  |
-| [PGS](https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [PGS](https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3) | 2:31 | 2024-11-09 |  |
+| [PGS](https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [PGS](https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3) | 2:31 | 2024-11-09 | 2026-07-03 |
+| [PGS](https://open.spotify.com/track/6A95j2gXVe97TNwELlHyz7) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [PGS](https://open.spotify.com/album/3rVAAh9BFhTbOnBnNGpkc8) | 2:31 | 2026-07-02 |  |
 | [Piepen In Je Mind](https://open.spotify.com/track/1DzGF2PddgXFWY8HEbXmmC) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9), [Jordan Wayne](https://open.spotify.com/artist/3xq3F6vVN9QKcnEgpCDvQJ) | [SDL 1](https://open.spotify.com/album/73xmQcgQYxMRXsL2aLE6I7) | 2:11 | 2025-06-14 |  |
 | [Ping Pong](https://open.spotify.com/track/42GlLOlvrkjaP3zLPfFJdH) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Ping Pong](https://open.spotify.com/album/7HfVLB0nKCC7HNVNGtbdSQ) | 2:23 | 2024-01-29 | 2025-09-05 |
 | [Ping Pong](https://open.spotify.com/track/7qozHTvmrULGbTTRlJnlZi) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Caza](https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9) | [Ping Pong](https://open.spotify.com/album/0nN5vrZiQq6rqa7WikeABk) | 2:23 | 2025-09-04 |  |

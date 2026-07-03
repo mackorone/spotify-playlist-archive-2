@@ -6957,6 +6957,28 @@
     },
     {
       "album": {
+        "name": "Party Hard",
+        "url": "https://open.spotify.com/album/03RRx8eDCzVLz3pUblOhib"
+      },
+      "artists": [
+        {
+          "name": "Kazden",
+          "url": "https://open.spotify.com/artist/3YUHQ4bns40UJaTsXpzq2y"
+        },
+        {
+          "name": "Alan Krevo",
+          "url": "https://open.spotify.com/artist/2OCSKB9Ayw2jwxxZhVnw4z"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143011,
+      "name": "Party Hard",
+      "url": "https://open.spotify.com/track/3XhbjMZ0WAtKNbDltkrRK6"
+    },
+    {
+      "album": {
         "name": "Party People (Giuseppe Ottaviani Retouch)",
         "url": "https://open.spotify.com/album/0Al0nM4JKtlq0dAaM5Hbn9"
       },

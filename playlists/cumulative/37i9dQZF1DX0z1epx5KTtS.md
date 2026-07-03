@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Ste Milano
+> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Dydy Yeman
 
-304 songs - 16 hr 27 min
+306 songs - 16 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Enfant de Dieu](https://open.spotify.com/track/6vuHEKtooN9wuoGMMt3NcY) | [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp) | [Allumez la lumière](https://open.spotify.com/album/67M8L0PH2ijmmshYMgdaui) | 3:23 | 2021-12-20 | 2023-01-13 |
 | [Enfants préférés](https://open.spotify.com/track/2oXPRdfajXsuvSNzQQLxQJ) | [Force One](https://open.spotify.com/artist/4quqBaZRHb1VeG3dAPucPS), [Elow'n](https://open.spotify.com/artist/0Gzh0CiahP7loDQP9cn8wt) | [Enfants préférés](https://open.spotify.com/album/2n3a5j2w1qlsQ4NEsN0PJu) | 3:25 | 2021-12-20 | 2022-05-27 |
 | [Enjaillement](https://open.spotify.com/track/1wmrKgGI7jHvsNUqJqMsQF) | [Ramses Tikaya](https://open.spotify.com/artist/0q00AIYSAbXj18rBqWCYT1), [Mix Premier](https://open.spotify.com/artist/7E4tPSohzAp4dXEnNuab75) | [Enjaillement](https://open.spotify.com/album/3kX7u6RihaZK11a5plv3LO) | 3:30 | 2022-09-29 | 2022-10-28 |
-| [Eusseu toi tu me connais](https://open.spotify.com/track/5E0fsHZn7rKdrwguOZ7au7) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [Jolina Verdigo](https://open.spotify.com/artist/25DUsTo92CWw5pklzFEMyO), [Le Grand Homme](https://open.spotify.com/artist/3gX7vHBOQDEPYfBaryvhWN) | [Roi de L’ambiance \- Begin](https://open.spotify.com/album/6bJMKOkZ01GVq9NA2W4hTg) | 2:35 | 2026-05-28 |  |
+| [Eusseu toi tu me connais](https://open.spotify.com/track/5E0fsHZn7rKdrwguOZ7au7) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [Jolina Verdigo](https://open.spotify.com/artist/25DUsTo92CWw5pklzFEMyO), [Le Grand Homme](https://open.spotify.com/artist/3gX7vHBOQDEPYfBaryvhWN) | [Roi de L’ambiance \- Begin](https://open.spotify.com/album/6bJMKOkZ01GVq9NA2W4hTg) | 2:35 | 2026-05-28 | 2026-07-03 |
 | [Fais comme ça](https://open.spotify.com/track/2eL618WYaelRjzAQRK97Uw) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Fais comme ça](https://open.spotify.com/album/3VhjrK60nuPqWOJpvix2IH) | 2:58 | 2024-11-07 | 2024-12-06 |
 | [FAIS OH FAIS \(1 COUP KO\)](https://open.spotify.com/track/6myxZn56qXV2JBDWZkCqJe) | [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd) | [FAIS OH FAIS \(1 COUP KO\)](https://open.spotify.com/album/3j4tdBgUxLNwYJVw0KYfOW) | 2:30 | 2026-02-12 |  |
 | [Fan ou Amoureux](https://open.spotify.com/track/0HB11vrRhhiZrdIoenOVMS) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Fan ou Amoureux](https://open.spotify.com/album/3tUmrMOkfaf03TTiFn6QIy) | 3:55 | 2022-03-22 | 2022-09-09 |
@@ -163,6 +163,7 @@
 | [Kabato](https://open.spotify.com/track/0umgit0awfo3yy5qy1wmqA) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ), [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Kabato](https://open.spotify.com/album/0fbnFf6YWQa9blwHrvMh1v) | 3:25 | 2023-04-13 | 2023-05-19 |
 | [Kabato](https://open.spotify.com/track/5sQ8C2QYSJPtkx4cDperWl) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ), [Safarel Obiang](https://open.spotify.com/artist/6AmjB7L0xr4B5iriGwHjxK) | [Kabato](https://open.spotify.com/album/1T1kSNDG0W34MKT9E2eY6I) | 3:25 | 2023-05-18 | 2023-11-24 |
 | [Kess Mouler](https://open.spotify.com/track/3LZGhKB0tbzjNnPixZn29b) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [Kess Mouler](https://open.spotify.com/album/6lV3QdEjHlAC8jUyJdnlab) | 2:28 | 2023-11-23 | 2024-09-27 |
+| [Ketebo](https://open.spotify.com/track/5OsYorTnhNm1Ur8GEBE6EM) | [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [Momo Hayek](https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski) | [Ketebo](https://open.spotify.com/album/7jMCPgy8e0guBeCpSI8Rpj) | 2:52 | 2026-07-02 |  |
 | [Ketebo](https://open.spotify.com/track/2jQsq7YctsPXWrEqdBgLbU) | [Jr La Melo](https://open.spotify.com/artist/66zu5ZivCIIEf7agz4ZMrU) | [Ketebo](https://open.spotify.com/album/7qfS1oh8pMTb5mBwKbFA7A) | 2:54 | 2023-03-23 | 2023-09-15 |
 | [Kindotila \- Remix](https://open.spotify.com/track/0ZxIKjaUl31uLgla5QJILZ) | [Yvane Kouame](https://open.spotify.com/artist/3C5aa2x3FFL4JdVjXKJYwP), [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Kindotila \(Remix\)](https://open.spotify.com/album/1TMpL7PorVe5YKhc2zlf3L) | 2:41 | 2023-01-05 | 2023-05-19 |
 | [Kiniwara](https://open.spotify.com/track/0G6pdgRWKkgcTudR5gYqmv) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Kiniwara](https://open.spotify.com/album/5xhHfQT7gG3l5Y8VD0ufv1) | 2:51 | 2023-06-29 | 2023-11-10 |
@@ -227,6 +228,7 @@
 | [Oko Lelela Nani](https://open.spotify.com/track/7kUUkcFtQGLB7STqDgMCvk) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Oko Lelela Nani](https://open.spotify.com/album/3Mclnp6RQ7HRHtUGpOt9Jz) | 3:41 | 2021-12-20 | 2022-05-27 |
 | [OLUWA OSHE](https://open.spotify.com/track/0ocKa3ZwyFVGfm2pb1xaUc) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM), [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [OLUWA OSHE](https://open.spotify.com/album/5sQZ8G7IXc9SkjdgOuAikB) | 3:41 | 2022-11-24 | 2023-03-10 |
 | [On a pris balle](https://open.spotify.com/track/3VqaDBt6C9pNns6didf0QM) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [On a pris balle](https://open.spotify.com/album/5m5yg13KGziSTHUsOpuBOo) | 3:47 | 2022-05-05 | 2023-06-09 |
+| [On cherche](https://open.spotify.com/track/3JbKyQ1ebDGbl4drpUiR33) | [Momo Hayek](https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski), [Azazou Satelite](https://open.spotify.com/artist/4IvJKBoOsYWf433rkicglV), [La Team Gbozon](https://open.spotify.com/artist/35mGvtGQqhlBOQV0UlvgrC) | [On cherche](https://open.spotify.com/album/66ZRr2721oUC72HVNvIzIR) | 2:54 | 2026-07-02 |  |
 | [ON EST EN CHÉKÉTÉ](https://open.spotify.com/track/4jLmG7pmRcLMsPjBVaXkMo) | [Arii](https://open.spotify.com/artist/62QwKcRFb9gwWH5YsUTY5N), [Toto le Banzou](https://open.spotify.com/artist/6biltZdfZXfwvPkrKQItmh), [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [ON EST EN CHÉKÉTÉ](https://open.spotify.com/album/4bSKhPMBMCrIBYWh9GRn5Z) | 2:34 | 2026-01-08 | 2026-04-10 |
 | [On Est Puissant](https://open.spotify.com/track/4mWZwZ51xakJxKs9sMbASX) | [Revolution](https://open.spotify.com/artist/599jagD7OBej5DjDC24Ext) | [On Est Puissant](https://open.spotify.com/album/6uCH7SU24RiZ1qIlkdsTOO) | 3:25 | 2023-09-07 | 2024-05-24 |
 | [On me guette](https://open.spotify.com/track/7bKZl8qe0BnKh7rchIRSgt) | [Anaconda 512](https://open.spotify.com/artist/26taS43MiYz1bsD7q1QKQ9) | [On me guette](https://open.spotify.com/album/3ZHGhTQS1hYrIYQTeyxDu1) | 3:58 | 2023-04-06 | 2023-08-25 |

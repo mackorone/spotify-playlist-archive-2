@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 
 > The best songs from the new shows and the buzziest hits\. Cover: Original Broadway Cast of The Lost Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,644 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,652 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUakt2wHhaeT.md) - [plain]
 | 49 | [I Do](https://open.spotify.com/track/4hkPIQY5aulr2uH19cyVJl) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Jeevan Braich](https://open.spotify.com/artist/6LopWizUGU7UICdQ7MEkGr), [Kayna Montecillo](https://open.spotify.com/artist/2IHsK4JgDj7rDVHQkLQ4Kx) | [Starlight Express](https://open.spotify.com/album/4QUyvzfxm7Njf88dFYSrr9) | 4:17 |
 | 50 | [How Do You Sleep](https://open.spotify.com/track/5O1KUF2pfaDvWG42z8927P) | [JC Chasez](https://open.spotify.com/artist/3p3U04w2DaiBzuYMZnYr00), [Jimmy Harry](https://open.spotify.com/artist/6mj5tiQROS79JXR9cfODHv), [Cardamon Rozzi](https://open.spotify.com/artist/3CWOdAXmL8NQGG6eC4nPbu) | [Playing With Fire \(World Premiere Recording\)](https://open.spotify.com/album/2BSWztobDwPRNdoICigWNY) | 3:55 |
 
-Snapshot ID: `AAAAAIfmN2ttuQ9+4f0I9yVI88aqAzvs`
+Snapshot ID: `AAAAAOQaWD2e68K3Q3RRb8+Sw+BcX/3G`

@@ -980,7 +980,7 @@
       ],
       "date_added": "2025-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 224763,
       "name": "BIG 45",
       "url": "https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 238400,
       "name": "Carnival Contract",
       "url": "https://open.spotify.com/track/4YkuP5Y0dOighZCxkoOtg2"
@@ -7359,6 +7359,24 @@
     },
     {
       "album": {
+        "name": "Money Bounce Riddim",
+        "url": "https://open.spotify.com/album/5qJu0aZcs8YI9iaRp7orQq"
+      },
+      "artists": [
+        {
+          "name": "Nadia Batson",
+          "url": "https://open.spotify.com/artist/1m1PGW9tdZRXYn85Bh3w9t"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234337,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/63dsxfAwjhBQ21xlNEeDBx"
+    },
+    {
+      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/45ALj9Nvh4V4l0V6sIckQv"
       },
@@ -8614,6 +8632,24 @@
       "duration_ms": 216405,
       "name": "Splinters",
       "url": "https://open.spotify.com/track/2E3BdaSwkiothKUGZqbOry"
+    },
+    {
+      "album": {
+        "name": "Test Yuh Waistline",
+        "url": "https://open.spotify.com/album/5OXuhp2QL9WoZyjewzmyCm"
+      },
+      "artists": [
+        {
+          "name": "Freezy",
+          "url": "https://open.spotify.com/artist/4suXYeRdmqURfBOpvTwViF"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137376,
+      "name": "Split in De Middle",
+      "url": "https://open.spotify.com/track/4P0Y7CqzSpSvRNQjSUJxdv"
     },
     {
       "album": {
@@ -10193,6 +10229,28 @@
     },
     {
       "album": {
+        "name": "Van Cleef",
+        "url": "https://open.spotify.com/album/3DJPjXWaeUcxqeAdRoGD6a"
+      },
+      "artists": [
+        {
+          "name": "Malie Donn",
+          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
+        },
+        {
+          "name": "Attomatic",
+          "url": "https://open.spotify.com/artist/5QkYxKkEofNkQc82SgamSb"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141187,
+      "name": "Van Cleef",
+      "url": "https://open.spotify.com/track/6bjkO1d4c5lt6iBlvUxZHe"
+    },
+    {
+      "album": {
         "name": "Vent",
         "url": "https://open.spotify.com/album/37VNibWW91ZQfBCtCS9BIc"
       },
@@ -10362,7 +10420,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 245240,
       "name": "We Caa Done (feat. Drake)",
       "url": "https://open.spotify.com/track/11pzZVbS8g6g2tfgSQR4uG"

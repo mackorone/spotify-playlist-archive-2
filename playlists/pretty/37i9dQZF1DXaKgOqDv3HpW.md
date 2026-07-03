@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 
 > Respira, inspira..\. Uma seleção musical ideal para você relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 667,086 likes - 160 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 667,045 likes - 160 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaKgOqDv3HpW.md) - [plain]
 | 159 | [morning again](https://open.spotify.com/track/2OsIqk2maqGN9Oz23pwIYi) | [Soothing Spore](https://open.spotify.com/artist/2qVPIhHmtBA79wJk9rWzln) | [morning again](https://open.spotify.com/album/6BucuP7XUZvA0oAtdhh3w7) | 2:41 |
 | 160 | [Forgotten Memories](https://open.spotify.com/track/0ubTMbsYK5wnoSGhzMUD2w) | [The Endity](https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm) | [Forgotten Memories](https://open.spotify.com/album/51AuwMNupaeJ0guXR97oMG) | 2:42 |
 
-Snapshot ID: `AAAAAJjstaxyhBgmWDV/lwCxarsMeHki`
+Snapshot ID: `AAAAAFduBrI8zm6CjeOxj/Ld7P5+E1CT`

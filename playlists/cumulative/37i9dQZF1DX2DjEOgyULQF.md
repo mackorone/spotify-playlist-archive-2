@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-458 songs - 21 hr 36 min
+459 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Gentle River Flow](https://open.spotify.com/track/3T5nOnIbdJMrdgmyMW0SFo) | [Alón Celestia](https://open.spotify.com/artist/1dFdXfh5wj3Z4bExZeLIDf) | [Gentle River Flow](https://open.spotify.com/album/4rjsv5OQA5vxTTI3DDU90r) | 2:58 | 2025-05-21 |  |
 | [Gentle Streams](https://open.spotify.com/track/7Jubc6htXiZnuTHz3UKUBj) | [Moonlab](https://open.spotify.com/artist/4bRJSASvzWmN0kH61LUBSu) | [Gentle Streams](https://open.spotify.com/album/6hEx1Yy7xipUYNG4glF8lV) | 3:19 | 2023-11-24 | 2026-04-04 |
 | [Glistening](https://open.spotify.com/track/3gMfpMNUgNIyG3blV26249) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Glistening](https://open.spotify.com/album/5OmofbHR6FOIq0EccUdv8Y) | 2:49 | 2026-04-03 |  |
+| [Glistening Creek](https://open.spotify.com/track/73GSYyBnRXNq5ZO0dhqzKF) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [Glistening Creek](https://open.spotify.com/album/3xFWyfWNk038eJuIeN9C4n) | 2:09 | 2026-06-26 |  |
 | [Glitching](https://open.spotify.com/track/5mGFbVJPUbx8ml6o3gFzcI) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Glitching](https://open.spotify.com/album/5tEOEdmq5hskUT0cNQlEj8) | 2:27 | 2023-04-28 |  |
 | [Gloom](https://open.spotify.com/track/0KfCNOZ5t6pld3BPrsclKW) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Gloom](https://open.spotify.com/album/2oW7DPtkYty3pzxB5UsB3u) | 2:50 | 2024-12-12 |  |
 | [Golden Feathers](https://open.spotify.com/track/2oSak1wBwlBR7AGDc0wO3T) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Golden Feathers](https://open.spotify.com/album/0rmGK1QUqNxXAPgVZermWj) | 2:47 | 2026-04-03 | 2026-06-27 |
@@ -289,7 +290,7 @@
 | [Noctilucent Clouds \(meditation\)](https://open.spotify.com/track/2Fcun7FZ4vH3kBPbdtw6uZ) | [SKEN](https://open.spotify.com/artist/4034dofwaqvTYb10Ss1jrv) | [Noctilucent Clouds](https://open.spotify.com/album/7dAEq5Vvaz8l259C5BHv7q) | 2:41 | 2023-11-10 | 2025-12-19 |
 | [Nordic Nocturne](https://open.spotify.com/track/1Wo6XOh9N9EuDxluPHesrE) | [Armonía Astral](https://open.spotify.com/artist/4SFy2zTDkBKrQ8vzuINBVf) | [Nordic Nocturne](https://open.spotify.com/album/5qFYQt2sGxzz0xnrAd07wl) | 2:45 | 2026-02-17 | 2026-04-04 |
 | [Not quite there yet](https://open.spotify.com/track/5uUKuVWqa2xF1TqNaBqJkw) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Insomnia Tamer](https://open.spotify.com/album/1XELmRwGmVDmehuINfxmZ2) | 1:54 | 2023-04-28 | 2023-07-29 |
-| [Of Younger Days](https://open.spotify.com/track/53iiQlHiSIFooiJthGCaQ7) | [Sky's Memoirs](https://open.spotify.com/artist/7qMHZInw2IFsTan4o7lZKh) | [Of Younger Days](https://open.spotify.com/album/0cw8E6kq8cc7cEnh1dWXDh) | 3:17 | 2026-06-26 |  |
+| [Of Younger Days](https://open.spotify.com/track/53iiQlHiSIFooiJthGCaQ7) | [Sky's Memoirs](https://open.spotify.com/artist/7qMHZInw2IFsTan4o7lZKh) | [Of Younger Days](https://open.spotify.com/album/0cw8E6kq8cc7cEnh1dWXDh) | 3:17 | 2026-06-26 | 2026-07-03 |
 | [Ok Now](https://open.spotify.com/track/5TxpjKtcv5DPHClGoIbwxJ) | [Everlights](https://open.spotify.com/artist/000HQdx4eaeWmI51PZmeMZ) | [Ok Now](https://open.spotify.com/album/5KrQEiHgtcfvG6OQWw79Gd) | 4:18 | 2023-04-28 | 2025-05-22 |
 | [Onwards](https://open.spotify.com/track/0Hzikv1GwB1MdJwqFl9iVf) | [Sinnesro](https://open.spotify.com/artist/3CHM9Tbf0hM4MBzWGAcGPc) | [Onwards](https://open.spotify.com/album/2ViDH9sOAqf6poxE0d3aMz) | 2:44 | 2025-10-24 |  |
 | [Orange forest](https://open.spotify.com/track/1mzIEmytObAhAdQh4kkqsQ) | [Caleb Carter](https://open.spotify.com/artist/7MSWYPvWEDTCTnhA8CU6MN) | [Orange forest](https://open.spotify.com/album/3j8yo62JDzTlPjBplERqjF) | 2:38 | 2024-08-23 | 2025-09-11 |

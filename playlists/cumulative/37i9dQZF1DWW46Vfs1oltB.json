@@ -15009,6 +15009,28 @@
     },
     {
       "album": {
+        "name": "Headrock",
+        "url": "https://open.spotify.com/album/66aBGecLMEXKyhOcr6Ec8V"
+      },
+      "artists": [
+        {
+          "name": "1300",
+          "url": "https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159598,
+      "name": "Headrock",
+      "url": "https://open.spotify.com/track/2mup9ZJa9brkbC6ly7qOIO"
+    },
+    {
+      "album": {
         "name": "HEART DODUMI 2 (feat. Moon Sujin)",
         "url": "https://open.spotify.com/album/2gTchgyLLpF4uRAyExmzvV"
       },

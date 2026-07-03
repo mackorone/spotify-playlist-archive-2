@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,556 songs - 10 day 3 hr 45 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,558 songs - 10 day 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4564,5 +4564,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4554 | [Want](https://open.spotify.com/track/6HPqzgtJtCVTyxfadXusPZ) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:21 |
 | 4555 | [Eternamente](https://open.spotify.com/track/6WsVGrldsAKOhXU53kd808) | [Mc Kno](https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk), [beats weedbrela](https://open.spotify.com/artist/7GZaDg6n6mAl9otSuuhUOX), [Freeman Rap](https://open.spotify.com/artist/5NlFf7NZfSwNZL9UOKtqR0), [EL MOCHO ELC](https://open.spotify.com/artist/4N2t6ALevyPCB1ZwvbYTFM) | [Eternamente](https://open.spotify.com/album/55OwZJvPyn1iWF5UWQlRQW) | 3:30 |
 | 4556 | [In a Room](https://open.spotify.com/track/3qYp9cawHGwLqJdpnayztC) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [In a Room](https://open.spotify.com/album/0hrL4GILIgeWKuFlmgY9me) | 3:46 |
+| 4557 | [EL TERCERO](https://open.spotify.com/track/6ccrFhU3dzwbAiQlDIBrRQ) | [OVE MARQUESIN](https://open.spotify.com/artist/0plb8N6XwOKnXuQFxHiD0t) | [EL TERCERO](https://open.spotify.com/album/7dVx9QQdEJ4MSlGg1M7l6a) | 3:04 |
+| 4558 | [By Design](https://open.spotify.com/track/7KLLbirr3zrlOmCAXNu8lb) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [By Design](https://open.spotify.com/album/4uGCOrttUEiOQpkvoBLFSo) | 3:25 |
 
-Snapshot ID: `AAAJBR3FopArTap44OgjQxuNinqmaimn`
+Snapshot ID: `AAAJB+8OYBP4yS+unXDBIygixg6vRO1x`

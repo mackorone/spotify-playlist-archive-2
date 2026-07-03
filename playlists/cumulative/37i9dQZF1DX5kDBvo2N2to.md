@@ -4,7 +4,7 @@
 
 > låtarna som inte går att få nog av.
 
-602 songs - 1 day 8 hr 5 min
+603 songs - 1 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [DÖ](https://open.spotify.com/track/6xQhvjACkxeuaRIH25UizF) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [DÖ](https://open.spotify.com/album/2nkEqixxTmd9E7umk0OUwG) | 2:35 | 2024-11-08 | 2025-06-27 |
 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-04-23 |  |
 | [Eaten by Worms](https://open.spotify.com/track/6BP7AAUtI2GU9wUVFBMWB6) | [Varas](https://open.spotify.com/artist/7cqV19335f0Yhf76d76D8I), [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff) | [Eaten by Worms](https://open.spotify.com/album/2B10ChD0Pr0MW5ljca4jIS) | 3:49 | 2025-02-21 | 2025-03-08 |
+| [Edge of the Earth](https://open.spotify.com/track/4Zy6m1QjUivLl8Zt7E8uxr) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 2:40 | 2026-07-02 |  |
 | [EGO](https://open.spotify.com/track/0kIhtDAUHCIw8V8vWC738L) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:35 | 2026-04-02 |  |
 | [EGO](https://open.spotify.com/track/6KfyfEiMAQJrMhRrP2Epm4) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [EGO](https://open.spotify.com/album/5YYgM8HfCKUsWkT4vwWmL8) | 3:36 | 2025-09-04 | 2026-03-20 |
 | [Ekko](https://open.spotify.com/track/1KtiKEGGrhnNqGN7Hc84qb) | [GOLF](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm), [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Ekko](https://open.spotify.com/album/1Pf5ozCbeVb0pAYcQu4FCA) | 2:36 | 2026-04-02 |  |

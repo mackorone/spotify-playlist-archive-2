@@ -1,6 +1,6 @@
 {
   "description": "Sommerferien, Eis in der Hand und ganz viel Badespa\u00df!",
-  "num_followers": 60979,
+  "num_followers": 60990,
   "original_name": "Familienzeit: Sommer",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,22 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
-        "name": "Giraffenaffen 7 - Die gro\u00dfe Geburtstagsfeier (Party mit Schlagerstars)",
-        "url": "https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy"
+        "name": "Radio Bikini Bottom",
+        "url": "https://open.spotify.com/album/4NuiuZxmMrPItU9ZeEZkal"
       },
       "artists": [
         {
-          "name": "voXXclub",
-          "url": "https://open.spotify.com/artist/1MTZLkTHs5s3jUV5ezuSIu"
+          "name": "SpongeBob Schwammkopf",
+          "url": "https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w"
         },
         {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+          "name": "Sandy Cheeks",
+          "url": "https://open.spotify.com/artist/5ojB40V0H7NlfEC9iBIRFO"
         }
       ],
-      "duration_ms": 214546,
-      "name": "Hakuna Matata",
-      "url": "https://open.spotify.com/track/2C91VnXhPNC6jVFgWObd7t"
+      "duration_ms": 214920,
+      "name": "Ferien!",
+      "url": "https://open.spotify.com/track/3Yi0KHkf6ngSK78cCLDX9T"
     },
     {
       "added_at": "2026-06-18 22:01:02",
@@ -395,22 +395,22 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
-        "name": "Radio Bikini Bottom",
-        "url": "https://open.spotify.com/album/4NuiuZxmMrPItU9ZeEZkal"
+        "name": "Giraffenaffen 7 - Die gro\u00dfe Geburtstagsfeier (Party mit Schlagerstars)",
+        "url": "https://open.spotify.com/album/6YZONXa0vRpQoqNBclZtIy"
       },
       "artists": [
         {
-          "name": "SpongeBob Schwammkopf",
-          "url": "https://open.spotify.com/artist/4nzfncntC1DiwIFMARUT2w"
+          "name": "voXXclub",
+          "url": "https://open.spotify.com/artist/1MTZLkTHs5s3jUV5ezuSIu"
         },
         {
-          "name": "Sandy Cheeks",
-          "url": "https://open.spotify.com/artist/5ojB40V0H7NlfEC9iBIRFO"
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
         }
       ],
-      "duration_ms": 214920,
-      "name": "Ferien!",
-      "url": "https://open.spotify.com/track/3Yi0KHkf6ngSK78cCLDX9T"
+      "duration_ms": 214546,
+      "name": "Hakuna Matata",
+      "url": "https://open.spotify.com/track/2C91VnXhPNC6jVFgWObd7t"
     },
     {
       "added_at": "2026-06-18 22:01:02",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
-        "name": "Meine Lieblingskinderlieder",
-        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 147374,
-      "name": "LiederTiger Lied",
-      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
-    },
-    {
-      "added_at": "2026-06-18 22:01:02",
-      "album": {
         "name": "Sommer",
         "url": "https://open.spotify.com/album/07lh3EusxSMocrboK796JF"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 185840,
       "name": "Sommer",
       "url": "https://open.spotify.com/track/4fqDukYPhU2b4fwPXl2vNc"
+    },
+    {
+      "added_at": "2026-06-18 22:01:02",
+      "album": {
+        "name": "Meine Lieblingskinderlieder",
+        "url": "https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 147374,
+      "name": "LiederTiger Lied",
+      "url": "https://open.spotify.com/track/7rgPG4aQ0s7J5hspb7Zc6w"
     },
     {
       "added_at": "2026-06-18 22:01:02",
@@ -963,34 +963,38 @@
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
-        "name": "Kinderlieder - umgedacht & neu gemacht",
-        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
+        "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
+        "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
       },
       "artists": [
         {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+          "name": "KIDDINX Music",
+          "url": "https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8"
         }
       ],
-      "duration_ms": 140186,
-      "name": "Auf einem Baum ein Kuckuck sa\u00df",
-      "url": "https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ"
+      "duration_ms": 95173,
+      "name": "Bl\u00fcht ein Bl\u00fcmlein",
+      "url": "https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW"
     },
     {
       "added_at": "2026-06-18 22:01:02",
       "album": {
-        "name": "Zusammen sind wir doppelt stark-Unser Freundschaftsalbum",
-        "url": "https://open.spotify.com/album/6VDjPoe7YZFBNkCntEfkQS"
+        "name": "Unter meinem Bett. Best Of",
+        "url": "https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz"
       },
       "artists": [
         {
-          "name": "Die Lollipops",
-          "url": "https://open.spotify.com/artist/6rZqH8GxGkk8qoDVwjC8Nt"
+          "name": "Laing",
+          "url": "https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC"
+        },
+        {
+          "name": "Unter meinem Bett",
+          "url": "https://open.spotify.com/artist/7y89sMv0ADqEMEOo2tOIM7"
         }
       ],
-      "duration_ms": 213413,
-      "name": "Urlaub unter Freunden",
-      "url": "https://open.spotify.com/track/3eZrUbyFij1Kzk4hVMBroR"
+      "duration_ms": 191400,
+      "name": "M\u00fccken nerven Leute",
+      "url": "https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w"
     }
   ],
   "unique_name": "Familienzeit: Sommer",

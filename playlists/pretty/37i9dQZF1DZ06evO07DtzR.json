@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 41294,
+  "num_followers": 41295,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akMHAAAAAADs6bpAtmCrvIHZAVFdcrZp",
+  "snapshot_id": "akRYgAAAAADT7nC5xOEi3QrqAAalbRxG",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 243506,
-      "name": "Lovely Icecream Princess Sweetie",
-      "url": "https://open.spotify.com/track/5fgPoYpE1cphb5f0pRqm9P"
+      "duration_ms": 271586,
+      "name": "LoveStruck",
+      "url": "https://open.spotify.com/track/4ts45vwSYcZJdIZdlt5OUz"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KABANERI OF THE IRON FORTRESS",
-        "url": "https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 247586,
-      "name": "It's all about you",
-      "url": "https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welcome to the *fam",
         "url": "https://open.spotify.com/album/46PkELmjCUUhWBXW2a3vuz"
       },
@@ -459,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "KABANERI OF THE IRON FORTRESS",
+        "url": "https://open.spotify.com/album/08MF5DFbIV3DjEo9MfDLW2"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 247586,
+      "name": "It's all about you",
+      "url": "https://open.spotify.com/track/3mJUvJ1gTQytrTdUh6yeVa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Extra terrestrial Biological Entities",
         "url": "https://open.spotify.com/album/1VihbCScbhSnObSiflsRhi"
       },
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 271586,
-      "name": "LoveStruck",
-      "url": "https://open.spotify.com/track/4ts45vwSYcZJdIZdlt5OUz"
+      "duration_ms": 243506,
+      "name": "Lovely Icecream Princess Sweetie",
+      "url": "https://open.spotify.com/track/5fgPoYpE1cphb5f0pRqm9P"
     },
     {
       "added_at": null,

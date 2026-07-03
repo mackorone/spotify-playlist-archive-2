@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Leto au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Tiakola au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -2851,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "FENG SHUI",
+        "url": "https://open.spotify.com/album/3pJk3LGl7GsxDA7KhnUouv"
+      },
+      "artists": [
+        {
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160320,
+      "name": "FENG SHUI",
+      "url": "https://open.spotify.com/track/5ZHK4qZbm9JR1AZ8FeePna"
+    },
+    {
+      "album": {
         "name": "FEU VERT",
         "url": "https://open.spotify.com/album/36Dawe6S16jFv0DQQtS4X6"
       },
@@ -3921,6 +3939,24 @@
     },
     {
       "album": {
+        "name": "JET SET",
+        "url": "https://open.spotify.com/album/3smO8kZ2tt7EsHv6UzqFPu"
+      },
+      "artists": [
+        {
+          "name": "La Mano 1.9",
+          "url": "https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "JET SET",
+      "url": "https://open.spotify.com/track/5lUGD5wlB44y2DPFEi79vL"
+    },
+    {
+      "album": {
         "name": "Vrai 2 vrai",
         "url": "https://open.spotify.com/album/0dzxf2H7rACEaNpta7XjWg"
       },
@@ -4248,7 +4284,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 160000,
       "name": "La Ch\u00e8vre",
       "url": "https://open.spotify.com/track/0PC4NdVKfQoz0yDTJA9v1E"
@@ -8940,7 +8976,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 150213,
       "name": "Velar",
       "url": "https://open.spotify.com/track/0cYBP022NcGl6DOmSPhv5h"
@@ -9220,6 +9256,24 @@
       "duration_ms": 190384,
       "name": "\u00c0 L'AUBE",
       "url": "https://open.spotify.com/track/1aOy9aPUFFE73cPPUJ2kNW"
+    },
+    {
+      "album": {
+        "name": "\u00c0 tes c\u00f4t\u00e9s",
+        "url": "https://open.spotify.com/album/1TnTcUJwKAquK4VFysI4YA"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147462,
+      "name": "\u00c0 tes c\u00f4t\u00e9s",
+      "url": "https://open.spotify.com/track/27MfyUGrOwMG6BIofE63N3"
     },
     {
       "album": {

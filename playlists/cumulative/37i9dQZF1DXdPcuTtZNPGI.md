@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-169 songs - 11 hr 10 min
+170 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Kura Kura](https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kura Kura](https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen) | 3:11 | 2023-10-05 | 2024-02-09 |
 | [Liner Voice+ Ado「狂言」](https://open.spotify.com/episode/2Smx3XvRVuNqjJLbed4du2) | [Liner Voice+](https://open.spotify.com/show/78s9JnT4Kp3Uv1tU4DSGWP) | [Liner Voice+](https://open.spotify.com/show/78s9JnT4Kp3Uv1tU4DSGWP) | 1:03:16 | 2022-10-09 | 2023-01-20 |
 | [Love ka?](https://open.spotify.com/track/1HVKbxwcF6VeP7n9CBzO9k) | [HiiragiKirai](https://open.spotify.com/artist/2GRRmz1dTswdlbdmpsveqK), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Love ka?](https://open.spotify.com/album/60kWJEUezrtiM3czq7ubDI) | 3:05 | 2022-10-09 | 2024-04-19 |
+| [Love me forever!](https://open.spotify.com/track/2j7w4Q2yMxa9ekzCdGhKUc) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Love me forever!](https://open.spotify.com/album/66nqLuytRYSI9We2q35XOG) | 4:09 | 2026-07-02 |  |
 | [Lucky Bruto](https://open.spotify.com/track/5PxHyC1Wdth4CxlMsBSklO) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kyougen](https://open.spotify.com/album/4muEF5biWb506ZojGMfHb7) | 3:29 | 2022-10-09 | 2024-04-19 |
 | [MAGIC](https://open.spotify.com/track/6hsBxoVdj9mg9m4tHlYE5K) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MAGIC](https://open.spotify.com/album/2wzfAqKAR8tXWovPNbjqLM) | 2:52 | 2025-10-30 |  |
 | [MIRROR](https://open.spotify.com/track/0NtfH5RUt4V3Vzh18Wuc23) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [MIRROR](https://open.spotify.com/album/4bIo5w5xKztinGjv11NoOQ) | 2:58 | 2024-05-30 | 2024-07-10 |

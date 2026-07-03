@@ -2,9 +2,9 @@
 
 ### [rap dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> kun det nyeste danske rap 👀 ozzy på cover
+> kun det nyeste danske rap 👀 ZUUZ på cover
 
-584 songs - 1 day 1 hr 1 min
+586 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Hold Mit Tempo](https://open.spotify.com/track/1AiduuJNTQikQ4edzuTcUM) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [WAVY](https://open.spotify.com/album/6i7FhriSAJMckXNjqy1K5E) | 2:43 | 2026-06-19 |  |
 | [Holddamagle](https://open.spotify.com/track/6mCX1dL0vG71HxcI1OdRBe) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [PÅ GEN5YN](https://open.spotify.com/album/1UwgdrQVaJBueo48c2GM8x) | 1:52 | 2024-06-27 | 2024-09-13 |
 | [HONEYMOON](https://open.spotify.com/track/6D6N8pH1B0K2FI6DC2bxeY) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [NODE](https://open.spotify.com/artist/03WNJB1zKyqW8DimkHP4Bg) | [HONEYMOON](https://open.spotify.com/album/5Dgf2urRgPtWByAz7hILGA) | 2:39 | 2023-09-21 | 2023-12-14 |
+| [Hop Ind I](https://open.spotify.com/track/7eo5owFb9jeDNyuSe0ivlE) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml) | [Hop Ind I](https://open.spotify.com/album/1NbdMZC0KBEFK75XRQWmE5) | 2:09 | 2026-07-02 |  |
 | [Hustlers Ambition](https://open.spotify.com/track/4XdCz4OmpJG8boHyXaeg7v) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Hustlers Ambition](https://open.spotify.com/album/2UHksnhp9qVmHqXM8GKPCS) | 2:01 | 2024-10-24 | 2024-11-08 |
 | [Hva Du På \(feat\. Gilli\)](https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [De Her Timer](https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo) | 2:38 | 2024-05-30 | 2025-02-28 |
 | [hva fuck mener du](https://open.spotify.com/track/06lfv6CwYPnlpXfguvYiCA) | [Speedy](https://open.spotify.com/artist/6yumHfMcbCfI1QyBUHGvOB) | [hva fuck mener du](https://open.spotify.com/album/3x6kS96DcexsPthxCIVvo6) | 2:40 | 2026-06-19 | 2026-06-26 |
@@ -447,6 +448,7 @@
 | [Refleks \(feat\. Noah Carter\)](https://open.spotify.com/track/3b7vV6z96LzkMXHDHFnI98) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Refleks \(feat\. Noah Carter\)](https://open.spotify.com/album/2pJqGNMut48lMvxFWu8A99) | 2:26 | 2024-10-04 | 2025-05-16 |
 | [Remontada](https://open.spotify.com/track/2SVWPpH1edfYve9fiDKBhn) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Remontada](https://open.spotify.com/album/3JcDTRMCskUc1pp3pNBaW9) | 2:05 | 2025-02-06 | 2026-04-10 |
 | [Reposado](https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:41 | 2024-07-11 | 2025-04-18 |
+| [Reykjavík](https://open.spotify.com/track/32CbA0gI0HvFjdXOLjkHoa) | [JEFF3](https://open.spotify.com/artist/07hSeMihvB08l7F5ojpPkW) | [Reykjavík](https://open.spotify.com/album/5YPOVLkiXvw7dnAWlJhfoK) | 2:25 | 2026-07-02 |  |
 | [Rich Porter](https://open.spotify.com/track/3EVPeziBwtX2wwJUMJFEQm) | [Cezar](https://open.spotify.com/artist/1oSPTV9V3PDN07g72qq9tK) | [Rich Porter](https://open.spotify.com/album/6pWzVPKp2obWtt69IFkRO9) | 2:27 | 2025-09-18 | 2025-10-03 |
 | [Rider](https://open.spotify.com/track/3OKI9yggHapQONX0k8xtlD) | [Lii Fuego](https://open.spotify.com/artist/5rZWktOlVarOV0j2AXkasF), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Rider](https://open.spotify.com/album/7rsFe7IgBjlh2TCd23lX4t) | 3:12 | 2023-09-21 | 2024-02-23 |
 | [RISKY](https://open.spotify.com/track/7BpwoWDzAVlj2RII5dtfAG) | [Tyrees](https://open.spotify.com/artist/7FXMEeXMVK0qPi84nttz1o) | [RISKY](https://open.spotify.com/album/64jddqsaTbstwj1gcxyMJp) | 2:01 | 2025-07-03 | 2025-08-01 |
@@ -470,7 +472,7 @@
 | [Settings](https://open.spotify.com/track/6nQqtUIELq6zQWld6UwhDn) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Settings](https://open.spotify.com/album/4c9XYiW6vT5hS8c4Pofmjp) | 2:01 | 2023-09-21 | 2024-01-19 |
 | [Showtime](https://open.spotify.com/track/6nUOeJtgyhDwbBUbzThKkP) | [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun), [OK OK](https://open.spotify.com/artist/0h4efFgEzH6VH5DP5Yqtqt) | [Showtime](https://open.spotify.com/album/4oCrBpoXAqUo8hHmdB7ikg) | 2:54 | 2025-08-14 | 2025-08-29 |
 | [Siden Start \(feat\. OLIVVER & Merro8\)](https://open.spotify.com/track/1pnUOhAme8mJoclC7tZXM2) | [Mike Lowrey](https://open.spotify.com/artist/1Ty16CxXn9CapBAn9bt4Hv), [Willy](https://open.spotify.com/artist/6Ex4qMJYjLpfDpxDinHC82), [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Siden Start \(feat\. OLIVVER & Merro8\)](https://open.spotify.com/album/0Z5OvShv9JmPhxPwPzCmE8) | 2:36 | 2026-06-19 |  |
-| [Sig Det](https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV) | [Fed](https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr), [Phil](https://open.spotify.com/artist/3FDHZRQQME4R1BFXqGugLp) | [DOUBLEPEACE](https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ) | 3:05 | 2026-04-23 | 2026-06-30 |
+| [Sig Det](https://open.spotify.com/track/3AEuNKucsjnPGvgOQRKMMV) | [Fed](https://open.spotify.com/artist/3iNAYojNoEixhavOvoW1Pr), [Phil](https://open.spotify.com/artist/3FDHZRQQME4R1BFXqGugLp) | [DOUBLEPEACE](https://open.spotify.com/album/5wtOAaJF1O5d7faLR2gUcZ) | 3:05 | 2026-04-23 |  |
 | [Sig Du Vil](https://open.spotify.com/track/2P7mah38G2Lf8DvSw51Bhe) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [Sig Du Vil](https://open.spotify.com/album/6Nyi6KAIjoSeZFSOxiWjdM) | 2:08 | 2023-11-10 | 2024-01-19 |
 | [Sig Hva Du Vil Ha \(feat\. Branco\)](https://open.spotify.com/track/56gHLVbUHM9haGcBD6ZZuH) | [Mads Christian](https://open.spotify.com/artist/3Ehbg1qhRKHshR8H2BoR8N), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Sig Hva Du Vil Ha \(feat\. Branco\)](https://open.spotify.com/album/6To8DUVf0SX146d4ToVRIh) | 2:45 | 2025-06-12 | 2025-07-04 |
 | [Signaler](https://open.spotify.com/track/689NPKXoBKWnqJif3uUVre) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr), [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Signaler](https://open.spotify.com/album/2RMpD5fPqxyyugiPgCxg2e) | 2:30 | 2024-08-29 | 2024-11-01 |

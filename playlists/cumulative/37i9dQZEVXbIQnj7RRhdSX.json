@@ -832,10 +832,36 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 211250,
       "name": "2 GIORNI DI FILA (feat. Sfera Ebbasta, ANNA)",
       "url": "https://open.spotify.com/track/6S9jhAReGPzub7RkRbv8HM"
+    },
+    {
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/0LX0TCYflredDlV7BZt4P2"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211250,
+      "name": "2 GIORNI DI FILA (feat. Sfera Ebbasta, ANNA)",
+      "url": "https://open.spotify.com/track/7C5jPQjXlBf7TxcN45HMH5"
     },
     {
       "album": {
@@ -4820,6 +4846,28 @@
     {
       "album": {
         "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/0LX0TCYflredDlV7BZt4P2"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193667,
+      "name": "ARCOBALENO (feat. Anuel AA)",
+      "url": "https://open.spotify.com/track/01UfimkR2ZYwjZ2sbT2iEO"
+    },
+    {
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
         "url": "https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB"
       },
       "artists": [
@@ -4856,7 +4904,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 193667,
       "name": "ARCOBALENO (feat. Anuel AA)",
       "url": "https://open.spotify.com/track/7os93Vpc5gJ40Fm0QC48a8"
@@ -7382,7 +7430,7 @@
       ],
       "date_added": "2025-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 175200,
       "name": "BERLINO",
       "url": "https://open.spotify.com/track/3l109GEhkVYrTvDoKuNGlu"
@@ -9167,6 +9215,24 @@
     },
     {
       "album": {
+        "name": "SANTISSIMO",
+        "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187254,
+      "name": "BUONA DOMENICA",
+      "url": "https://open.spotify.com/track/4oYTKjG6JYD0Fn8xxAZy2w"
+    },
+    {
+      "album": {
         "name": "IO NON HO PAURA",
         "url": "https://open.spotify.com/album/5QFiKIdFebg1TPv3qjcsAZ"
       },
@@ -9996,6 +10062,24 @@
     {
       "album": {
         "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/0LX0TCYflredDlV7BZt4P2"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "CANZONE D'AMORE",
+      "url": "https://open.spotify.com/track/2bcOFjF1YMDY2aIbKbRaKB"
+    },
+    {
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
         "url": "https://open.spotify.com/album/58OUscdI2nOUKFpoPlp2eb"
       },
       "artists": [
@@ -10006,7 +10090,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 180000,
       "name": "CANZONE D'AMORE",
       "url": "https://open.spotify.com/track/3WL6jUG9qR8rhOOVlD51JE"
@@ -30156,7 +30240,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 211453,
       "name": "L'Amore Non Mi Basta",
       "url": "https://open.spotify.com/track/01PuEcSSxP84CO9yaXtsyp"
@@ -36634,7 +36718,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 218536,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/1i41RQ2km1sO8JD6fFVCxX"
@@ -40624,7 +40708,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 226906,
       "name": "NEON",
       "url": "https://open.spotify.com/track/0jkAr7eZsvWDLYiQCfaxak"
@@ -43452,7 +43536,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 207230,
       "name": "Ogni Male",
       "url": "https://open.spotify.com/track/28v57vssZ488EEIBivY3NF"
@@ -56704,6 +56788,24 @@
     {
       "album": {
         "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/0LX0TCYflredDlV7BZt4P2"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "STELLE",
+      "url": "https://open.spotify.com/track/3kr4ANdB4PPT4A6gHIYNwN"
+    },
+    {
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
         "url": "https://open.spotify.com/album/58OUscdI2nOUKFpoPlp2eb"
       },
       "artists": [
@@ -56714,7 +56816,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 206400,
       "name": "STELLE",
       "url": "https://open.spotify.com/track/5ukcsJ6xFum4aGyd4s2clw"
@@ -61722,6 +61824,24 @@
     {
       "album": {
         "name": "TUTTO \u00c8 POSSIBILE",
+        "url": "https://open.spotify.com/album/0LX0TCYflredDlV7BZt4P2"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196681,
+      "name": "UN RICCO E UN POVERO",
+      "url": "https://open.spotify.com/track/5IR9UiTqoJCGJRBUO34cIA"
+    },
+    {
+      "album": {
+        "name": "TUTTO \u00c8 POSSIBILE",
         "url": "https://open.spotify.com/album/58OUscdI2nOUKFpoPlp2eb"
       },
       "artists": [
@@ -61732,7 +61852,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 196681,
       "name": "UN RICCO E UN POVERO",
       "url": "https://open.spotify.com/track/5tbxu15sktA6QVsrQOIk8M"

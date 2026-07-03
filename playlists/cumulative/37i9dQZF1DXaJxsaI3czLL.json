@@ -985,6 +985,32 @@
     },
     {
       "album": {
+        "name": "Danjyu Kariyushi",
+        "url": "https://open.spotify.com/album/2RhfRTiLPCSzzeMI73Wqjx"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+        },
+        {
+          "name": "Yukino Inamine",
+          "url": "https://open.spotify.com/artist/7GNZu3NeOX80ikSBdgclwX"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Danjyu Kariyushi",
+      "url": "https://open.spotify.com/track/4umjscMrLTBsMKxW40cRcz"
+    },
+    {
+      "album": {
         "name": "Windswept Adan",
         "url": "https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA"
       },
@@ -2836,6 +2862,24 @@
       "duration_ms": 152915,
       "name": "Machibito",
       "url": "https://open.spotify.com/track/3JqO1F4xQ9t14M9nqs76RS"
+    },
+    {
+      "album": {
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/70wkdAf3KQic9wAGpVvyHv"
+      },
+      "artists": [
+        {
+          "name": "Kawabe Moto",
+          "url": "https://open.spotify.com/artist/0BcWtTLPn8svqCdk4FnetR"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240508,
+      "name": "Mature Fruit",
+      "url": "https://open.spotify.com/track/5muyKSTyy91xeXKlOsPRJI"
     },
     {
       "album": {
@@ -4872,7 +4916,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 230204,
       "name": "Tokyo Family Restaurant",
       "url": "https://open.spotify.com/track/18UGSP9lcwe1661N9K10hE"
@@ -5110,7 +5154,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 244748,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/3ymmhmikPwzb3ZdDZ8GBgl"
@@ -8655,6 +8699,24 @@
     },
     {
       "album": {
+        "name": "\u6df1\u6d77 - Single",
+        "url": "https://open.spotify.com/album/5thhZaiHOO6olQh9mOB3hN"
+      },
+      "artists": [
+        {
+          "name": "\u70cf\u514e -uto-",
+          "url": "https://open.spotify.com/artist/1mRH8Ts0ab2eegJfZsqPwc"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390500,
+      "name": "\u6df1\u6d77",
+      "url": "https://open.spotify.com/track/7CGH4VjZ8YsAaXYTd0pGtZ"
+    },
+    {
+      "album": {
         "name": "\u767d\u8a71\u97f3\u697d",
         "url": "https://open.spotify.com/album/2RLpsxngkOFILRZTGkMavr"
       },
@@ -8854,7 +8916,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 502585,
       "name": "\u751f\u304d\u3066\u3044\u308b",
       "url": "https://open.spotify.com/track/5itxLFk0IqJNJ6omfUTqbG"

@@ -2,9 +2,9 @@
 
 ### [Ny Pop \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX8hNBsFKBtPu)
 
-> We got you! Den bedste nye pop er samlet her 💖 Gracie Abrams
+> We got you! Den bedste nye pop er samlet her 💖 SIENNA SPIRO
 
-936 songs - 1 day 23 hr 45 min
+940 songs - 1 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Agnes](https://open.spotify.com/track/3ueuKx5ItkRoIinsjUtN14) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Hate Me For This](https://open.spotify.com/album/3AWwgYgmsw5BzxKEpF3Nyr) | 2:32 | 2025-01-02 | 2025-01-17 |
 | [Alene Og In Love](https://open.spotify.com/track/1Cb8Xzy5ixO9DSqAoZnzdQ) | [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Alene Og In Love](https://open.spotify.com/album/7EPoKpsSdGQrw1kEQaM99m) | 2:46 | 2025-08-21 | 2025-09-06 |
 | [Alibi](https://open.spotify.com/track/00DabHCrqGpBSictyJ7pA9) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Alibi](https://open.spotify.com/album/5TBoKcvVVdO6hqiUQJyJTs) | 2:55 | 2025-08-28 | 2025-09-26 |
+| [Alive \(feat\. Wizkid\)](https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Alive \(feat\. Wizkid\)](https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR) | 3:27 | 2026-07-02 |  |
 | [All I Ever Wanted](https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [All I Ever Wanted](https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ) | 3:09 | 2024-06-27 | 2024-11-08 |
 | [All I need](https://open.spotify.com/track/0DLnqDq2PvM2SNxBUgAnlU) | [Giift](https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p) | [Desires](https://open.spotify.com/album/5a8vdQ9RT5KvGmwGqWy3jD) | 2:42 | 2025-02-20 | 2025-04-11 |
 | [All My Life](https://open.spotify.com/track/7KvTwW9i8f6RYk5hdcq32z) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [All My Life](https://open.spotify.com/album/2TLYWMHBDYn3Qor0pC0Rjp) | 3:02 | 2024-08-08 | 2024-10-04 |
@@ -209,6 +210,7 @@
 | [Du ligner din mor](https://open.spotify.com/track/5wmH2yEMgerF4bGh87TQZA) | [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Du ligner din mor](https://open.spotify.com/album/3F9tNqTRRrq7l5ZlLuGfL0) | 3:06 | 2025-01-02 | 2025-08-15 |
 | [Du Min](https://open.spotify.com/track/4kTFwVrxwwqj9yZoSEqoAV) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [Du Min](https://open.spotify.com/album/7DemS03wH7rndSG5MAeAdS) | 1:59 | 2024-08-29 | 2024-10-04 |
 | [Du må hade mig](https://open.spotify.com/track/3KB0gNdAOeTk4E3EY1OMyC) | [VILMA](https://open.spotify.com/artist/5b1UUYvy8FEX9SRgMnAJaK) | [Du må hade mig](https://open.spotify.com/album/08wGweVvug9QZ2206WnqqQ) | 3:21 | 2025-08-28 | 2025-09-19 |
+| [DU MÅ IK GÅ](https://open.spotify.com/track/4t0hAlq0Zsy0kc6ctvJEEm) | [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [DU MÅ IK GÅ](https://open.spotify.com/album/47XpL93JCsPWssZ450ebjI) | 2:27 | 2026-07-02 |  |
 | [Du og jeg](https://open.spotify.com/track/12RzHH3ZiYmBP6ehh33L20) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Du og jeg](https://open.spotify.com/album/0iyzRhtKLaGhdm4oZylw6O) | 3:55 | 2024-09-05 | 2025-04-18 |
 | [Du Ved Det \(feat\. Gunge\)](https://open.spotify.com/track/7cxaUKtOG7xYvSTskhEgwm) | [Gunge](https://open.spotify.com/artist/2jCpr1LrI4wriiCyiqqyDN), [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Du Ved Det \(feat\. Gunge\)](https://open.spotify.com/album/7ElC88rZmveuh3zypr6vcQ) | 2:49 | 2026-01-29 | 2026-02-20 |
 | [d£aler](https://open.spotify.com/track/2MZeoO5my5Z2opiQHm150R) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [d£aler](https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde) | 2:40 | 2025-07-24 | 2025-10-03 |
@@ -259,6 +261,7 @@
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-06-27 | 2024-10-04 |
 | [Ferrari](https://open.spotify.com/track/6pIQxaY3KwmYSAowTxssZW) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [the last 90s bitch](https://open.spotify.com/album/3iuUD5t9JpxeISE6LNYafg) | 2:41 | 2024-06-27 | 2024-07-06 |
 | [Festa Festa](https://open.spotify.com/track/5VQuouliEnPnqPsNc0mzrD) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Festa Festa](https://open.spotify.com/album/2g0RRlYHi2IEMfD9U4H7sy) | 2:24 | 2025-01-30 | 2025-04-11 |
+| [Festen Stopper Aldrig](https://open.spotify.com/track/4TozgzAGYtM598Ne0dXxXP) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Festen Stopper Aldrig](https://open.spotify.com/album/7njR7D35Dqw99pOHoy8NWg) | 2:53 | 2026-07-02 |  |
 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 | 2026-02-26 |  |
 | [fight the urge](https://open.spotify.com/track/5KUlDf4UFCYNn8unodLPNp) | [Ana Juél](https://open.spotify.com/artist/1iHkVAKq12mQH5fZHmKPaU) | [fight the urge](https://open.spotify.com/album/5WACqjLHPiOn1PxK9qWG7b) | 2:27 | 2024-10-03 | 2025-01-17 |
 | [Finde Tilbage](https://open.spotify.com/track/1UNf3igHn4Gvl0YApRbbZP) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS) | [Finde Tilbage](https://open.spotify.com/album/6cIiFImHSjUAOj4C4UUniJ) | 2:51 | 2024-06-27 | 2024-11-08 |
@@ -331,6 +334,7 @@
 | [GPS](https://open.spotify.com/track/2jlHjepQ8HqqjhDTWCiGYe) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [MEN SÅ KOM I MORGEN](https://open.spotify.com/album/5HmaNurZnck6BJxwpujM4y) | 2:49 | 2026-05-07 | 2026-06-12 |
 | [Grandma Calls The Boy Bad News](https://open.spotify.com/track/7taeEaTx9QbbtRDPJv3iHq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [F1 The Album \(Cinematic Edition\)](https://open.spotify.com/album/5TNQ53hp55WtBA1H8LYtMw) | 3:26 | 2025-06-26 | 2025-07-18 |
 | [Gravity](https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Gravity](https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd) | 2:50 | 2024-12-05 | 2025-01-24 |
+| [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 | 2026-07-02 |  |
 | [GREEN GRASS](https://open.spotify.com/track/1NUvIIhVZU0lKyZ3aP40SC) | [BATHSHEBA](https://open.spotify.com/artist/76bDEeabrfohMhoWwm4av7) | [GREEN GRASS](https://open.spotify.com/album/51wIsfEe3WpdylzHhcowHj) | 3:11 | 2024-06-27 | 2024-10-04 |
 | [Guilty](https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 2\)](https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o) | 2:56 | 2025-01-23 | 2025-08-08 |
 | [Gå Itu](https://open.spotify.com/track/093ZqmWXxzNLVqM1eyNk3P) | [Dahlin](https://open.spotify.com/artist/3LGM6yqdD8CMx2y2PzAe2P) | [Gå Itu](https://open.spotify.com/album/6Rv0DjkTV0ASGrOqtGFEu7) | 3:34 | 2025-02-13 | 2025-08-01 |

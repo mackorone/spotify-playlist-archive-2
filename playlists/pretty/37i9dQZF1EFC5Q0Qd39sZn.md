@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,622 likes - 590 songs - 1 day 16 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,624 likes - 590 songs - 1 day 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,8 +180,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 170 | [Why Goodbye](https://open.spotify.com/track/5QHCpzyo4arFLPPpM2UnwP) | [Peabo Bryson](https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0) | [Through The Fire](https://open.spotify.com/album/7trZWGxj0elTVSBisiuCqy) | 4:23 |
 | 171 | [Your Letter](https://open.spotify.com/track/1NSCBsrYgjkmNiNSgiMLzK) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 5:20 |
 | 172 | [New Love](https://open.spotify.com/track/4qVCAQpmMHrorwQI6L7FAI) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Time, Love & Tenderness](https://open.spotify.com/album/4wQ6v4Q5YidrpC85KuBlTL) | 4:32 |
-| 173 | [Every Time You Walk Away](https://open.spotify.com/track/0tUYkDafsrHR12unxfFQ5D) | [D.A\. Wallach](https://open.spotify.com/artist/0NrYD7GlHbFixu0iknQ2xn) | [Time Machine](https://open.spotify.com/album/2Dobv4jeXllRUhEb8Ite5e) | 3:13 |
-| 174 | [Tears in the Rain](https://open.spotify.com/track/21SxSkte44lujQBTfRuSwq) | [Bonfire](https://open.spotify.com/artist/7gqKcfoY25do9k18uCCgIT) | [Legends](https://open.spotify.com/album/4Yn2tIGnNwUcfahxGvw1Vb) | 4:35 |
+| 173 | [Tears in the Rain](https://open.spotify.com/track/21SxSkte44lujQBTfRuSwq) | [Bonfire](https://open.spotify.com/artist/7gqKcfoY25do9k18uCCgIT) | [Legends](https://open.spotify.com/album/4Yn2tIGnNwUcfahxGvw1Vb) | 4:35 |
+| 174 | [Every Time You Walk Away](https://open.spotify.com/track/0tUYkDafsrHR12unxfFQ5D) | [D.A\. Wallach](https://open.spotify.com/artist/0NrYD7GlHbFixu0iknQ2xn) | [Time Machine](https://open.spotify.com/album/2Dobv4jeXllRUhEb8Ite5e) | 3:13 |
 | 175 | [You Will \(The OWN Song\)](https://open.spotify.com/track/769uYIA20wOeEA9Bi6C4jB) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5), [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [You Will \(The OWN Song\)](https://open.spotify.com/album/0oC849A1AhYbiZw1TKRTsY) | 3:32 |
 | 176 | [Feels Like Forever](https://open.spotify.com/track/0ygfFhs5y9Zr9eWAxDfFV1) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Night Calls](https://open.spotify.com/album/61HuqPzUcoc940Bf7Ss0ob) | 4:41 |
 | 177 | [Are You Gonna Be There](https://open.spotify.com/track/3K2lg4fY3CunPMeNlMnR32) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [The Essential \*NSYNC](https://open.spotify.com/album/3bhFoH4PFnY4ifK4981U8X) | 4:06 |
@@ -371,8 +371,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 361 | [In Walked Love](https://open.spotify.com/track/5UzPgmMKEwsxZsQbwXQFkY) | [Exposé](https://open.spotify.com/artist/5nPz5R1FDPTMI3Dw4JnTGb) | [Exposé](https://open.spotify.com/album/4O0YlGNpMCAPXsWOiivJJd) | 4:54 |
 | 362 | [The Day I Stop Loving You](https://open.spotify.com/track/38uNbRy3dodbNYx78I0Tuu) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Evolution](https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug) | 5:02 |
 | 363 | [I Want Somebody \(Bitch About\)](https://open.spotify.com/track/4jDX3Zk4eVsRGbXwmpBCqn) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Some Lessons Learned](https://open.spotify.com/album/563p0cCXffZYFVHOYRFLK5) | 3:10 |
-| 364 | [Love Will Lead You Back](https://open.spotify.com/track/7g0HwJR6bTDafnWGYcTnmY) | [Dominique](https://open.spotify.com/artist/0sNNIBEGza7dI940L14LDj) | [Love Will Lead You Back](https://open.spotify.com/album/2dfgc5hkjQzRI5dpB2QLoM) | 4:36 |
-| 365 | [Someone That You Loved Before](https://open.spotify.com/track/2hUOxRQa0WBLnbJEI1GJmv) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Every Day Is a New Day](https://open.spotify.com/album/06Oz3WGqsrMwHz4VmtUORF) | 3:48 |
+| 364 | [Someone That You Loved Before](https://open.spotify.com/track/2hUOxRQa0WBLnbJEI1GJmv) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Every Day Is a New Day](https://open.spotify.com/album/06Oz3WGqsrMwHz4VmtUORF) | 3:48 |
+| 365 | [Love Will Lead You Back](https://open.spotify.com/track/7g0HwJR6bTDafnWGYcTnmY) | [Dominique](https://open.spotify.com/artist/0sNNIBEGza7dI940L14LDj) | [Love Will Lead You Back](https://open.spotify.com/album/2dfgc5hkjQzRI5dpB2QLoM) | 4:36 |
 | 366 | [Do You Know the Way It Feels](https://open.spotify.com/track/3xpCXjw2j8eD8AgbJTMCFt) | [Alesha Dixon](https://open.spotify.com/artist/5jLwURKdEPDvuYnac74s9c) | [The Alesha Show \- Encore](https://open.spotify.com/album/6XgOQ5hjniqXJvKoacFTvQ) | 4:04 |
 | 367 | [Safe Place From The Storm \- Radio Mix](https://open.spotify.com/track/783pbFxtjCh946QCVr75iw) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Jon Gass](https://open.spotify.com/artist/7fkqSrrXRdljTJMdEjqlNQ) | [All That Matters](https://open.spotify.com/album/7IkFQ66wAlgoNTAKUyRXcw) | 5:20 |
 | 368 | [Como Vivir Sin Verte](https://open.spotify.com/track/6kZZ5SRJry04kVh66RvO4d) | [Millie](https://open.spotify.com/artist/58gEIyWzfX7TWUavPnOGzW) | [Amar Es Un Juego \(Remastered\)](https://open.spotify.com/album/30D5RlGF3jfBu8iwFj27ws) | 4:37 |
@@ -461,8 +461,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 451 | [Quitte\-moi](https://open.spotify.com/track/0KSuovcivqc10FWHWFUURH) | [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Pelchat](https://open.spotify.com/album/4miX4q7EY2QNryx8j7H8bS) | 4:03 |
 | 452 | [Work Me Down](https://open.spotify.com/track/2Oign5NCNEgk5OsDyl733V) | [The Jagged Edges](https://open.spotify.com/artist/134sHCB9XXwaf7En8ZwTWl) | [80's Revival](https://open.spotify.com/album/4ObiMqIu8DKqplcSB1jpY6) | 4:56 |
 | 453 | [To Get Here](https://open.spotify.com/track/549Sv1sewmEpAai5QaZCTd) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Last Movie Star Original Motion Picture Soundtrack](https://open.spotify.com/album/0jmKUjTFXhaf7Eialk8efy) | 3:38 |
-| 454 | [Gently](https://open.spotify.com/track/4kj31RH60b7uWxEfLcaJ4m) | [Toshi Kubota](https://open.spotify.com/artist/3t2YGPlRfxGNhDTwTwyHPb) | [NOTHING BUT YOUR LOVE](https://open.spotify.com/album/5wlTeR34vv69owNdWR7lVt) | 4:49 |
-| 455 | [Get A Hold Of My Heart](https://open.spotify.com/track/4Korx62LE7rjq0zVEXBifn) | [The Smithereens](https://open.spotify.com/artist/06KgaEpSluofkcChSo7TNr) | [Blow Up](https://open.spotify.com/album/4TZDVaaWNQlukUdhwAgBUd) | 4:22 |
+| 454 | [Get A Hold Of My Heart](https://open.spotify.com/track/4Korx62LE7rjq0zVEXBifn) | [The Smithereens](https://open.spotify.com/artist/06KgaEpSluofkcChSo7TNr) | [Blow Up](https://open.spotify.com/album/4TZDVaaWNQlukUdhwAgBUd) | 4:22 |
+| 455 | [Gently](https://open.spotify.com/track/4kj31RH60b7uWxEfLcaJ4m) | [Toshi Kubota](https://open.spotify.com/artist/3t2YGPlRfxGNhDTwTwyHPb) | [NOTHING BUT YOUR LOVE](https://open.spotify.com/album/5wlTeR34vv69owNdWR7lVt) | 4:49 |
 | 456 | [5 Minutes With God](https://open.spotify.com/track/3rDfxnKleq6lP8acGEalio) | [Take 6](https://open.spotify.com/artist/31zQEL3ARiYe63jn3jtM18) | [Believe](https://open.spotify.com/album/2OGryqFC301zzdxgacYSbq) | 3:31 |
 | 457 | [Fatal Distraction](https://open.spotify.com/track/74mzeu6A1lTjgYRZEW8kcG) | [IF YOU DARE](https://open.spotify.com/artist/24LhTHlri6WopEv4StByYo) | [IF YOU DARE VOL\. 1](https://open.spotify.com/album/4bqo5KzYrGTaiehKdyRJ3S) | 3:22 |
 | 458 | [Fistibal \- Festival](https://open.spotify.com/track/4BgyQHLsjTIf7R3z4RmlP3) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Tuge](https://open.spotify.com/artist/2mE1cHocWbynDUIJFcruHT) | [Creole 101 \- Welcome To Haiti](https://open.spotify.com/album/274HvIfpOTSegdX30cCuOL) | 4:28 |
@@ -599,4 +599,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 589 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 590 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcVucAAAAABLTTAb2wsq7FnJhnPdWdGP`
+Snapshot ID: `AcVz1AAAAABhLpWEcuXFAuJNaytqdGzZ`

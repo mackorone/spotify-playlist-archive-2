@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Folie's",
-  "num_followers": 402078,
+  "num_followers": 402069,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Juin 2026",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
+        "name": "Plan B",
+        "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Plan B",
+      "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
         "name": "Osimhen .OP_6",
         "url": "https://open.spotify.com/album/7AUoDL9m27TyDF6xwZpE3V"
       },
@@ -455,18 +471,22 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
-        "name": "Plan B",
-        "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
+        "name": "MR. DJ",
+        "url": "https://open.spotify.com/album/7hoDStNiGH3g9HEQaaKVVf"
       },
       "artists": [
         {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        },
+        {
+          "name": "Luzyqv",
+          "url": "https://open.spotify.com/artist/3GYNJkUcMPkHNBDwZZh1Yb"
         }
       ],
-      "duration_ms": 200826,
-      "name": "Plan B",
-      "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
+      "duration_ms": 173513,
+      "name": "MR. DJ",
+      "url": "https://open.spotify.com/track/0suDHHudfeGh1yFVGgvzat"
     },
     {
       "added_at": "2026-06-30 22:00:27",
@@ -491,22 +511,18 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
-        "name": "MR. DJ",
-        "url": "https://open.spotify.com/album/7hoDStNiGH3g9HEQaaKVVf"
+        "name": "OAMPD",
+        "url": "https://open.spotify.com/album/20vW9zgw5DdNuPfOynKXPl"
       },
       "artists": [
         {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        },
-        {
-          "name": "Luzyqv",
-          "url": "https://open.spotify.com/artist/3GYNJkUcMPkHNBDwZZh1Yb"
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl"
         }
       ],
-      "duration_ms": 173513,
-      "name": "MR. DJ",
-      "url": "https://open.spotify.com/track/0suDHHudfeGh1yFVGgvzat"
+      "duration_ms": 120000,
+      "name": "OAMPD",
+      "url": "https://open.spotify.com/track/47aEofUzey1BNJ1rvkWrxl"
     },
     {
       "added_at": "2026-06-30 22:00:27",
@@ -547,38 +563,6 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
-        "name": "OAMPD",
-        "url": "https://open.spotify.com/album/20vW9zgw5DdNuPfOynKXPl"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "OAMPD",
-      "url": "https://open.spotify.com/track/47aEofUzey1BNJ1rvkWrxl"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
-        "name": "SEUL COMME LES AUTRES",
-        "url": "https://open.spotify.com/album/6bv69bkNcVdOCpSZFpyWTb"
-      },
-      "artists": [
-        {
-          "name": "Tisma",
-          "url": "https://open.spotify.com/artist/5rLEiw2qUDAWnYCXGvxxPu"
-        }
-      ],
-      "duration_ms": 121641,
-      "name": "SCLA",
-      "url": "https://open.spotify.com/track/5JWBjUhdKMKxkHl1uRkaed"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
         "name": "Les Abeilles",
         "url": "https://open.spotify.com/album/1kAtPqcZ1HyN1n3Y0W7t9o"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 214290,
       "name": "Les Abeilles",
       "url": "https://open.spotify.com/track/1mS4dKIpZbQRclIIfUmt5J"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
+        "name": "SEUL COMME LES AUTRES",
+        "url": "https://open.spotify.com/album/6bv69bkNcVdOCpSZFpyWTb"
+      },
+      "artists": [
+        {
+          "name": "Tisma",
+          "url": "https://open.spotify.com/artist/5rLEiw2qUDAWnYCXGvxxPu"
+        }
+      ],
+      "duration_ms": 121641,
+      "name": "SCLA",
+      "url": "https://open.spotify.com/track/5JWBjUhdKMKxkHl1uRkaed"
     },
     {
       "added_at": "2026-06-30 22:00:27",

@@ -4,7 +4,7 @@
 
 > best festival music \- summer festival \- best festivals \- festival summer \- mainstage music \- tomorrowland festival \- awakenings festival \- zomer festivals \- festival vibes
 
-473 songs - 23 hr 47 min
+474 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -322,6 +322,7 @@
 | [Paradise](https://open.spotify.com/track/6ZWmIaUhfHx6FQljCbgDeI) | [Going Deeper](https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4), [KDH](https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx), [Yasmin Jane](https://open.spotify.com/artist/7vyJodZNJWzk9YzTzxo4I4) | [Paradise](https://open.spotify.com/album/3Eg9YMYHbSQXNqN6tyQamS) | 3:43 | 2024-02-15 | 2025-02-01 |
 | [Paradise](https://open.spotify.com/track/2InkR3RbQnVc9EMHP9VRqY) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Paradise](https://open.spotify.com/album/6tGXsBn9Oqo2uYcmILI6fb) | 3:16 | 2022-08-04 | 2023-09-09 |
 | [Paradise](https://open.spotify.com/track/4bruCU0ILLoOfF3iE27opD) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Paradise](https://open.spotify.com/album/7fshDHj8Sayc1AwggqjKot) | 3:22 | 2023-10-19 |  |
+| [Party Hard](https://open.spotify.com/track/3XhbjMZ0WAtKNbDltkrRK6) | [Kazden](https://open.spotify.com/artist/3YUHQ4bns40UJaTsXpzq2y), [Alan Krevo](https://open.spotify.com/artist/2OCSKB9Ayw2jwxxZhVnw4z) | [Party Hard](https://open.spotify.com/album/03RRx8eDCzVLz3pUblOhib) | 2:23 | 2026-07-02 |  |
 | [Party People \- Giuseppe Ottaviani Retouch](https://open.spotify.com/track/7blISEsPn1iU2y3Cf8o7ua) | [MR.BLACK](https://open.spotify.com/artist/7tGP2lCt2Xkoc3BCN13NWU), [Ale Mora](https://open.spotify.com/artist/6bsbLjG9kdODP0wVaM1WXM), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv) | [Party People \(Giuseppe Ottaviani Retouch\)](https://open.spotify.com/album/0Al0nM4JKtlq0dAaM5Hbn9) | 3:13 | 2024-01-11 | 2024-11-30 |
 | [Phoenix](https://open.spotify.com/track/2IsmnQVMlumwHQ4vAkaVIa) | [NAEMS](https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO), [LostVolts](https://open.spotify.com/artist/4Immb1MDqUWYJgqmvaehef), [Arvenius](https://open.spotify.com/artist/0SuO4XuTPgJigDrvnsaOQq) | [Phoenix](https://open.spotify.com/album/6NPTOBUvyTYxn2X3Mo1taQ) | 3:15 | 2022-07-29 | 2023-04-14 |
 | [Piece Of Your Heart \- Alok Remix](https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart \(Alok Remix\)](https://open.spotify.com/album/6RlifxGX8F3IijsJXkTIlq) | 2:46 | 2023-12-08 |  |

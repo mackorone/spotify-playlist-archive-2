@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,366 songs - 2 day 10 hr 50 min
+1,368 songs - 2 day 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Colours](https://open.spotify.com/track/2J5zHk5cmM1lG2xhYGRX16) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [Dohdo](https://open.spotify.com/artist/1mJodmcNOJqBItwNVdofvU), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Colours](https://open.spotify.com/album/3g8FjQwA2h3jfq0Hc93yqO) | 2:29 | 2025-06-05 | 2026-02-16 |
 | [Colours](https://open.spotify.com/track/3q2zWRbuRQfvWst5geq7DB) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Colours](https://open.spotify.com/album/3Rgcj7SOsdSUSSR7iX98PU) | 3:25 | 2026-02-22 | 2026-06-08 |
 | [Come Along](https://open.spotify.com/track/2Yj6saJ5EcnzIsxQbkQX45) | [John Von Dusk](https://open.spotify.com/artist/4JeAtwRoOrbTED0kN8D4jz), [Holly Terrens](https://open.spotify.com/artist/3qtADNwGleL4IDaLbuc1uD), [one more cig](https://open.spotify.com/artist/58xxhAwEQi1Gx6XxU5Nqm5) | [Come Along](https://open.spotify.com/album/2xliqZ8RDALc7KGCRXPGBN) | 3:02 | 2026-04-12 |  |
+| [Come Around](https://open.spotify.com/track/3BIwy46uY7GPXRKhyWc3ux) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Come Around](https://open.spotify.com/album/0TqvRFeCR9OFLhXxipbNwR) | 2:26 | 2026-07-02 |  |
 | [Come Back](https://open.spotify.com/track/3qUKagwiBJl4fYfjB6g2Aj) | [nineveh.](https://open.spotify.com/artist/73AdEqHxLEDFFXecpOXrbU), [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z) | [Come Back](https://open.spotify.com/album/3i8qrJdKsUhMxzgwlYuUOK) | 2:47 | 2024-09-02 | 2025-04-07 |
 | [Comeback](https://open.spotify.com/track/1yjS1ilQGRHz4tBWSuOs0f) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [Comeback](https://open.spotify.com/album/53beMOOUXueIBxRBJJqRrt) | 3:01 | 2024-04-07 | 2024-04-16 |
 | [Coming Home](https://open.spotify.com/track/25g3oz2lI2H9sUeFWfw4YA) | [Starzun](https://open.spotify.com/artist/0t5KQtd9bQ4vRgLn4Rr1l4), [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9) | [Coming Home](https://open.spotify.com/album/3jIi4BSJfVI0xbA15zJSs3) | 2:18 | 2023-10-20 | 2024-05-13 |
@@ -349,6 +350,7 @@
 | [Falling For You](https://open.spotify.com/track/3K5bLH0CXxOryLya5140iU) | [Chullo](https://open.spotify.com/artist/2qmnnOcCrlxJjgZOQcFbjH) | [Falling For You](https://open.spotify.com/album/4tZIwanqosafbzVRuYc0oy) | 2:42 | 2025-10-03 |  |
 | [Falling For You](https://open.spotify.com/track/2ftHuVrHLl4HkBQfdBmj59) | [Gobi](https://open.spotify.com/artist/7HVeJy9nWQU8jtIxV7poaF) | [Falling For You](https://open.spotify.com/album/14panjJnZTXVIxMwxQ8eHX) | 2:30 | 2024-08-18 | 2024-09-09 |
 | [Falling In Love](https://open.spotify.com/track/2a8Pzj0iurArPqFrig3op9) | [Alex Keeper](https://open.spotify.com/artist/4hxy6gamr697jKBPSmHcpB), [Matthew Abapo](https://open.spotify.com/artist/3x9F6VXefKXbu0iNEChJvb) | [Falling In Love](https://open.spotify.com/album/74Azuc2PrBMthPSWUtQN7c) | 3:08 | 2023-12-04 | 2025-06-30 |
+| [Falling In Love](https://open.spotify.com/track/31CovvAWSS5Qg6H83Rkr5x) | [Nico Sol](https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ) | [Falling In Love](https://open.spotify.com/album/27pL34eJm4UrO776o43nLg) | 2:10 | 2026-07-02 |  |
 | [Falling In Love](https://open.spotify.com/track/1XHVcapurdhEB39TaktK8I) | [Nostalgic Feeling](https://open.spotify.com/artist/7ugUmmaKYg6071bjHsRx2Y), [Margad](https://open.spotify.com/artist/0q9Rikyw58WDoqfQpp70kM) | [Falling In Love](https://open.spotify.com/album/21epMUHqRrpJpyZybGJIe3) | 2:42 | 2024-04-14 | 2024-07-05 |
 | [Falling In Love](https://open.spotify.com/track/0eSGt98YmHlgOm6LJuLZCi) | [VLX](https://open.spotify.com/artist/5oBC97ajnMULQn5N81Y0kA) | [Falling In Love](https://open.spotify.com/album/6vkuOUgB67FGlEm1aglgCa) | 2:22 | 2025-08-21 | 2026-04-20 |
 | [Far Away](https://open.spotify.com/track/5ShuuZOSBSsxum0V8V3yLr) | [Braaten](https://open.spotify.com/artist/0odPXKGYqtTpiWJFBhqyVB), [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [Far Away](https://open.spotify.com/album/6f6EbUml598DUWr0R9QZvZ) | 2:38 | 2026-02-15 | 2026-03-23 |

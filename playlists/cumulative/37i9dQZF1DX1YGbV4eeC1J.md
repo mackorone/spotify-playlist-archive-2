@@ -4,7 +4,7 @@
 
 > What is your love language? Say it in Swahili\.  Cover: Vanilla
 
-371 songs - 20 hr 46 min
+372 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Dear X](https://open.spotify.com/track/6mDZAjYfa5VG7hFoqF9mb2) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Grace](https://open.spotify.com/album/5SkSitVZlbjhckkWzEyvzj) | 3:47 | 2024-02-22 | 2024-09-21 |
 | [Dharau](https://open.spotify.com/track/2UiH7lUXyxtccytHCixKQX) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Dharau](https://open.spotify.com/album/4fAfuvu9kF55EA8uqlhwcy) | 3:32 | 2024-02-22 | 2024-10-04 |
 | [Doli Doli](https://open.spotify.com/track/0n1T4qBjCeVjeNYFS7jjHy) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU) | [Doli Doli](https://open.spotify.com/album/0RIHyHLfX9QqyAhOmbk81T) | 2:56 | 2023-09-21 | 2023-12-23 |
-| [Don't Wanna Lose You \(From Kito the Soundtrack\)](https://open.spotify.com/track/7ktsnwhy3hVAIzR4ItrS5q) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Don't Wanna Lose You \(From Kito the Soundtrack\)](https://open.spotify.com/album/1dcRWf7n33BMslTRIONwO0) | 3:16 | 2026-02-12 |  |
+| [Don't Wanna Lose You \(From Kito the Soundtrack\)](https://open.spotify.com/track/7ktsnwhy3hVAIzR4ItrS5q) | [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Don't Wanna Lose You \(From Kito the Soundtrack\)](https://open.spotify.com/album/1dcRWf7n33BMslTRIONwO0) | 3:16 | 2026-02-12 | 2026-07-03 |
 | [Dont Love Me](https://open.spotify.com/track/71CY96EAelYWqxJqSPDd9p) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Dont Love Me](https://open.spotify.com/album/7kGVsKtToOCvkkRnJ6vdn7) | 3:26 | 2025-05-30 | 2026-01-30 |
 | [Dusuma](https://open.spotify.com/track/35riG35oLwfgvv8j5tSY9V) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Just In Love](https://open.spotify.com/album/61iIaWu85Ga1TtnIqIM4M1) | 3:33 | 2022-05-26 | 2024-01-26 |
 | [Enjoy](https://open.spotify.com/track/1qiHxdihSes6DA9hkAKFyg) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Enjoy](https://open.spotify.com/album/2r2GgPbTjjPB8OclFfiFGY) | 3:36 | 2024-03-14 | 2024-03-22 |
@@ -134,6 +134,7 @@
 | [Kiss Me](https://open.spotify.com/track/1qrVUKrKLldnlYsvMA1STE) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd) | [Time](https://open.spotify.com/album/7j261kEXqE8RLUe6Qjnao4) | 3:03 | 2025-08-14 | 2026-04-10 |
 | [Komando](https://open.spotify.com/track/4H8j1OrVUVGk9b7lkyfJHf) | [G Nako](https://open.spotify.com/artist/0ywwwX8jcXj6HW4l0xOzMC), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Komando](https://open.spotify.com/album/57ejAmwWLxZD6qviYZ9etd) | 3:08 | 2024-03-14 | 2024-03-22 |
 | [Kukupenda](https://open.spotify.com/track/56lZHXU9dMCIEPSEAsY0zP) | [Vii Sugar Boy](https://open.spotify.com/artist/2BE2wbegLNKCxfPe7jgXA3) | [Kukupenda](https://open.spotify.com/album/1nsDxtG4GX7aMgAQ1QTTo7) | 3:32 | 2024-06-14 | 2024-06-21 |
+| [Kumbe](https://open.spotify.com/track/2Xcvr4o54F8lib8ptIgSDO) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm) | [Kumbe](https://open.spotify.com/album/20hCsxkV1X5ipI9g1Yojh3) | 3:27 | 2026-07-02 |  |
 | [Kupenda](https://open.spotify.com/track/4lzsQhqooYugTKwymQ6KHE) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Kupenda](https://open.spotify.com/album/6GzRBHBJs4SG8AoaGwAaTe) | 2:55 | 2025-01-09 | 2026-03-20 |
 | [Lala \(feat\. Abigail Chams\)](https://open.spotify.com/track/759DS4sknbTnQXgSsz1i2I) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Lala \(feat\. Abigail Chams\)](https://open.spotify.com/album/0pTKNetIIghEtDHembZlje) | 2:10 | 2025-08-14 |  |
 | [Lalala](https://open.spotify.com/track/1DpJxlcNKo8b9JEA2Mu1uq) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3), [Mordecai Dex](https://open.spotify.com/artist/7itqo8Vno3ohE3Ce85aHBL) | [Lalala](https://open.spotify.com/album/5MtivQv9xtPdnXnf4E7zxl) | 2:40 | 2024-02-29 | 2024-06-14 |

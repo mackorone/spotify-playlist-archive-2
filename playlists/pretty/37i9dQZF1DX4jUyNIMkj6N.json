@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 223558,
+  "num_followers": 223577,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-06-25 22:01:15",
       "album": {
-        "name": "The Man Who Lost it All",
-        "url": "https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA"
-      },
-      "artists": [
-        {
-          "name": "Boy In Space",
-          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-        }
-      ],
-      "duration_ms": 199712,
-      "name": "The Man Who Lost it All",
-      "url": "https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze"
-    },
-    {
-      "added_at": "2026-06-25 22:01:15",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0YneOS1OMqNFfnOTtccqwv"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 304226,
       "name": "Emmylou - Spotify Sessions",
       "url": "https://open.spotify.com/track/7exdcu9SmgcrZ7hW9ZdcYo"
+    },
+    {
+      "added_at": "2026-06-25 22:01:15",
+      "album": {
+        "name": "The Man Who Lost it All",
+        "url": "https://open.spotify.com/album/7DvL5aHAGTW4sliUCDvXDA"
+      },
+      "artists": [
+        {
+          "name": "Boy In Space",
+          "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
+        }
+      ],
+      "duration_ms": 199712,
+      "name": "The Man Who Lost it All",
+      "url": "https://open.spotify.com/track/3hrL1naeO9Z02XjKD44Mze"
     },
     {
       "added_at": "2026-06-25 22:01:15",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-06-25 22:01:15",
       "album": {
-        "name": "v\u00e1r",
-        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
+        "name": "Laminar Flow",
+        "url": "https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42"
       },
       "artists": [
         {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+          "name": "AKA lisa",
+          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
         }
       ],
-      "duration_ms": 231586,
-      "name": "v\u00e1r",
-      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
+      "duration_ms": 133613,
+      "name": "forever, for a while",
+      "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
     },
     {
       "added_at": "2026-06-25 22:01:15",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-06-25 22:01:15",
       "album": {
+        "name": "v\u00e1r",
+        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
+      },
+      "artists": [
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "v\u00e1r",
+      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
+    },
+    {
+      "added_at": "2026-06-25 22:01:15",
+      "album": {
         "name": "Viking Fair",
         "url": "https://open.spotify.com/album/22FZK52VbGzyPtzBpBK5D4"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 67112,
       "name": "Viking Fair",
       "url": "https://open.spotify.com/track/4WDhZnRugs36yOeqdvNMAP"
-    },
-    {
-      "added_at": "2026-06-25 22:01:15",
-      "album": {
-        "name": "Laminar Flow",
-        "url": "https://open.spotify.com/album/5kPtNtdTsetojNrljTLF42"
-      },
-      "artists": [
-        {
-          "name": "AKA lisa",
-          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
-        }
-      ],
-      "duration_ms": 133613,
-      "name": "forever, for a while",
-      "url": "https://open.spotify.com/track/3TXIqqudMSSS0kkQ3sQV0S"
     },
     {
       "added_at": "2026-06-25 22:01:15",

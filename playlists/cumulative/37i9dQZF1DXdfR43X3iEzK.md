@@ -4,7 +4,7 @@
 
 > my alt/pop could mean anything ⚔️ cover: Charli xcx
 
-698 songs - 1 day 13 hr 36 min
+703 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,6 +271,7 @@
 | [Great White Sharks](https://open.spotify.com/track/1ILOpSQ9QqKGY8ISNueZou) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Great White Sharks](https://open.spotify.com/album/6SvD1F9Gey9kY9GVaJkhbm) | 3:19 | 2025-05-09 | 2025-07-25 |
 | [Green](https://open.spotify.com/track/6WbhQCkDF5z1UosH9tOP3C) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Green](https://open.spotify.com/album/0rRFSUlfc5TPXuKbQx2tk3) | 3:57 | 2025-03-07 | 2025-03-28 |
 | [grit](https://open.spotify.com/track/3iXoBLx65Bpwyf4iyGvZk1) | [su i think](https://open.spotify.com/artist/0naoKcKsqj169ZzvaW4OR1), [s.g.cackle](https://open.spotify.com/artist/33sxw11HypPoCgM7wUaB3z) | [grit](https://open.spotify.com/album/5ubmNyomB7Z2H3BopcWbNr) | 2:13 | 2025-03-07 | 2025-04-18 |
+| [Guard Dog](https://open.spotify.com/track/0RUyZdKIHM6Y3NzOIXgnDa) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Sparkwheel](https://open.spotify.com/album/70QvIZ8tI02Fxvq4YyjgaE) | 4:29 | 2026-07-02 |  |
 | [Guess featuring billie eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring billie eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-08 | 2025-03-14 |
 | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/track/3NsqsLwmAxIhduuV9gK7SH) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Habits \(Stay High\) \- Spotify Singles](https://open.spotify.com/album/0M0MROPnqYuHEK5R16YCxk) | 3:31 | 2024-10-10 | 2025-03-14 |
 | [hairgrow](https://open.spotify.com/track/4nTEc1faMmppqH4VTKp99i) | [Clyde Crooks](https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm) | [hairgrow](https://open.spotify.com/album/7xANhiEuS5U9exd4f56uQk) | 4:43 | 2025-07-10 | 2026-03-13 |
@@ -609,7 +610,9 @@
 | [Suburbs](https://open.spotify.com/track/27u8qju8fKBCOTgF6DjmuY) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Suburbs](https://open.spotify.com/album/3Xeqn3JzMbK4loAu8Cm6t9) | 3:04 | 2025-07-10 | 2025-08-01 |
 | [Succession](https://open.spotify.com/track/5z36ukvizWU3XtEubO5r4b) | [vincent's last summer](https://open.spotify.com/artist/7FiGSKxy5ZCK0hzf81tjm3) | [Succession](https://open.spotify.com/album/4sv0E1Y682Uee8LEkmxKTE) | 2:18 | 2025-10-23 | 2026-02-06 |
 | [summer of love](https://open.spotify.com/track/5ttv8rhr5AxHSqAN5xg7zT) | [Two Another](https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs) | [SOPHOMORE](https://open.spotify.com/album/1eN6QlgyGlf1hHkr04rLS8) | 2:46 | 2024-06-07 | 2024-07-19 |
+| [Sunflower](https://open.spotify.com/track/7hKd8osKVrmehhIx1FP6Lz) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Sunflower](https://open.spotify.com/album/085BCn8A8f0RIVLiKvsJ3A) | 3:34 | 2026-07-02 |  |
 | [Sunshine Song](https://open.spotify.com/track/4UuCVPaGrR2sbCOdeJiNie) | [Prima Queen](https://open.spotify.com/artist/52fhNGn51RhUvjlapHT5T2) | [Sunshine Song](https://open.spotify.com/album/39Pk90tueJmkZEnf67TUak) | 2:25 | 2025-04-17 | 2025-08-08 |
+| [Superfriend](https://open.spotify.com/track/1CfkuZz1p1xwBCqKK6GNrl) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Superfriend](https://open.spotify.com/album/0rRcN12PuaaMexuaQ2Gyt9) | 3:21 | 2026-07-02 |  |
 | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/track/5Gy0Ax4gGHm3N6bePpe8Ql) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [SWEET \(feat\. Biig Piig\)](https://open.spotify.com/album/5pTkSi9le0LQr2ymC3TSqU) | 2:56 | 2025-02-14 | 2025-03-28 |
 | [swim](https://open.spotify.com/track/3TRP1MEDDkUw0YDsi8iQ3F) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [swim](https://open.spotify.com/album/4h4L56LbVAXREBss215iRB) | 6:11 | 2026-06-18 |  |
 | [swimming in pity](https://open.spotify.com/track/2cBLY3kNAJ2IjygBLpRrli) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [swimming in pity](https://open.spotify.com/album/6ySG6aUUn6g8xujn2xKaM6) | 2:56 | 2025-03-28 | 2025-08-01 |
@@ -625,6 +628,7 @@
 | [The Alibi](https://open.spotify.com/track/4JyS3WGxalmpzgEbVyTycL) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [The Alibi](https://open.spotify.com/album/3P6qBjL0wCjcMsKWAAvQ3x) | 3:15 | 2024-06-07 | 2025-03-08 |
 | [the beginning of the end](https://open.spotify.com/track/3LcxAYnhIVamB09yYzJR7n) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the beginning of the end](https://open.spotify.com/album/3ZBg25ekvOHG3jG6nIHQqc) | 2:51 | 2025-09-04 | 2025-11-14 |
 | [The Blue](https://open.spotify.com/track/2fAyPHPYdDoIADhRQgwoEh) | [Mumble Tide](https://open.spotify.com/artist/2EsJCBlZQSKzOj8lcxr9N8) | [Might As Well Play Another One](https://open.spotify.com/album/7MnQccSxmibUd0405fOpYy) | 4:28 | 2025-05-01 | 2025-07-25 |
+| [THE CINEMA](https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [PAREIDOLIA](https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5) | 3:22 | 2026-07-02 |  |
 | [The Conflict Of The Mind](https://open.spotify.com/track/5lxZ3KmRdRn6iW5tE1Fwjp) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Conflict Of The Mind](https://open.spotify.com/album/3IcTqH3eggpX1ODT8l535d) | 4:15 | 2024-06-07 | 2025-02-14 |
 | [The Deep Blue Okay](https://open.spotify.com/track/5hojXeDbIX1Q3USfoqyQ2Y) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [A Complicated Woman](https://open.spotify.com/album/3dJJU7f7Ab81xAmUvCT0o9) | 5:32 | 2025-04-24 | 2025-05-10 |
 | [The First and Last of the Perfect Parties](https://open.spotify.com/track/2fyyltBHLMwFRKgpOpLLCs) | [Ren Martinez](https://open.spotify.com/artist/7jwt0XqTVstELcOeS8F8zf) | [The First and Last of the Perfect Parties](https://open.spotify.com/album/4c08Ec8CktaVauOyAmiNZ2) | 4:08 | 2025-04-17 | 2025-06-27 |
@@ -634,6 +638,7 @@
 | [The Olympics](https://open.spotify.com/track/0nhJsrLBDfByF9JmnDrUaU) | [Max Winter](https://open.spotify.com/artist/2FFtfqQnru4p3XGHYIfJ1A) | [The Olympics](https://open.spotify.com/album/4s7WwIo5LaShH6h5BtNLUA) | 3:02 | 2025-09-19 | 2026-01-23 |
 | [the party !](https://open.spotify.com/track/01XMrHNnC0GTyldXN36HVo) | [es.cher](https://open.spotify.com/artist/2gdp9EASFocvbsj2MV7lU7) | [the party !](https://open.spotify.com/album/1a8NeHCWazUCV4Iccy7TUS) | 3:43 | 2025-09-19 | 2026-02-20 |
 | [The Sofa](https://open.spotify.com/track/0GXtn7xnJlySfJJznk800I) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Bloom Baby Bloom](https://open.spotify.com/album/2jKqk91xmXtQWlPrzI7r3w) | 4:26 | 2025-07-10 | 2025-08-22 |
+| [The Test](https://open.spotify.com/track/15c7gjax5Wx5cGgTdNW5Dz) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Lola Leon](https://open.spotify.com/artist/7pKmOKc49BWyfcbcFqBLBL) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 3:38 | 2026-07-02 |  |
 | [The Wire](https://open.spotify.com/track/7FLGXwVFkWqXoVUj74A2xt) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo) | [The Wire](https://open.spotify.com/album/56zZxidyORZK9iUENzY0MP) | 3:24 | 2026-06-11 |  |
 | [Therapy](https://open.spotify.com/track/3llajBO66S19lFJIUM7xaY) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Therapy](https://open.spotify.com/album/32ZGCR778iVBZwQlZeG5mp) | 2:55 | 2025-04-03 | 2025-05-23 |
 | [There's A Rhythmn](https://open.spotify.com/track/7uWS4zoWMNU9fUPojMYilC) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 | 2025-04-10 | 2025-05-16 |

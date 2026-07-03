@@ -2290,7 +2290,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 775840,
       "name": "Eclypso",
       "url": "https://open.spotify.com/track/7IB1N0jwIj4CPOflC6kgfc"
@@ -7088,7 +7088,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 215675,
       "name": "SS",
       "url": "https://open.spotify.com/track/58OgWxqe2FKEiFrgltr1Cw"
@@ -7318,6 +7318,28 @@
       "duration_ms": 218160,
       "name": "Suddenly Lovers",
       "url": "https://open.spotify.com/track/5EBcZJPbv1hSlkvpy9fruG"
+    },
+    {
+      "album": {
+        "name": "Sun Song",
+        "url": "https://open.spotify.com/album/2yMNKUmAZqSS68LuwuUBOE"
+      },
+      "artists": [
+        {
+          "name": "Yusuke Shima",
+          "url": "https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8"
+        },
+        {
+          "name": "Silent Jazz Case",
+          "url": "https://open.spotify.com/artist/2Lb2ekkosMFpLOTNrq41mP"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282500,
+      "name": "Sun Song",
+      "url": "https://open.spotify.com/track/1vI6hByp1E5irhrv1w55YG"
     },
     {
       "album": {
@@ -9562,6 +9584,28 @@
       "duration_ms": 253093,
       "name": "\u30b5\u30f3\u30c0\u30fc\u30dc\u30eb\u30c8\u30fb\u30e1\u30a4\u30f3\u30c6\u30fc\u30de\u7528",
       "url": "https://open.spotify.com/track/2kNRdLNryDeX4xBYiKCm02"
+    },
+    {
+      "album": {
+        "name": "\u30b7\u30e3\u30de\u30ea\u30e2\u30b2 (feat.\u5225\u6240\u548c\u6d0b)",
+        "url": "https://open.spotify.com/album/4ph6doua3CAx66BEGma7yA"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u5c71\u6e09",
+          "url": "https://open.spotify.com/artist/6kXkLYLppYzk6ufjUWTao9"
+        },
+        {
+          "name": "\u5225\u6240\u548c\u6d0b",
+          "url": "https://open.spotify.com/artist/6e3Tonxpt5Foe3b3PhQvjo"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313649,
+      "name": "\u30b7\u30e3\u30de\u30ea\u30e2\u30b2 - feat.\u5225\u6240\u548c\u6d0b",
+      "url": "https://open.spotify.com/track/42911JXZa7A8c3tl7yoqfz"
     },
     {
       "album": {

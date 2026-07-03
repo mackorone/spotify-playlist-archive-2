@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Clean Bandit, Biig Piig",
+  "description": "New music off the beaten track. Cover: K\u00c4SSY",
   "name": "OFF POP",
   "tracks": [
     {
@@ -548,6 +548,24 @@
       "duration_ms": 218000,
       "name": "A World Away",
       "url": "https://open.spotify.com/track/2cxUrTL4IMCyNzXYACq7np"
+    },
+    {
+      "album": {
+        "name": "About Us / PROTO",
+        "url": "https://open.spotify.com/album/3DiQvUkn7guUReKXzgNBeL"
+      },
+      "artists": [
+        {
+          "name": "fingerbleed",
+          "url": "https://open.spotify.com/artist/2DtH8PLe1dGAAzpNPbgVd5"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119333,
+      "name": "About Us",
+      "url": "https://open.spotify.com/track/431TEfCxX6oZaQX3wPTmmN"
     },
     {
       "album": {
@@ -1917,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Babyline",
+        "url": "https://open.spotify.com/album/47AXiuVNP3ShLjhVjep2TW"
+      },
+      "artists": [
+        {
+          "name": "La Roux",
+          "url": "https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242345,
+      "name": "Babyline",
+      "url": "https://open.spotify.com/track/4Y6qlDD9AQ6BfDHqloSeP4"
+    },
+    {
+      "album": {
         "name": "Volcano",
         "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
       },
@@ -2164,7 +2200,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 185000,
       "name": "Be All Mine",
       "url": "https://open.spotify.com/track/19DmBcyPdrQ2gxapgTAvZF"
@@ -3362,7 +3398,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 209854,
       "name": "Cabin Fever",
       "url": "https://open.spotify.com/track/5AFbc8LHppmNeqx6nF3VlC"
@@ -3870,7 +3906,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 322346,
       "name": "Chalk",
       "url": "https://open.spotify.com/track/5HdeMdzAlNKwCM4L9cjehN"
@@ -4800,6 +4836,28 @@
       "duration_ms": 209868,
       "name": "Cowboy Mouth",
       "url": "https://open.spotify.com/track/7qgYR8fHsHyyS5WKvA9srS"
+    },
+    {
+      "album": {
+        "name": "CPR (horsegiirL remix)",
+        "url": "https://open.spotify.com/album/4lrANjEunaeYNOQDiUYgvC"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        },
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201999,
+      "name": "CPR - horsegiirL remix",
+      "url": "https://open.spotify.com/track/7zqKqQAH2UNmlmMTxBFlvo"
     },
     {
       "album": {
@@ -7329,6 +7387,24 @@
     },
     {
       "album": {
+        "name": "END OF THE SKY",
+        "url": "https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45"
+      },
+      "artists": [
+        {
+          "name": "JVLY",
+          "url": "https://open.spotify.com/artist/52flspAUwzY59cow3QC53f"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159807,
+      "name": "END OF THE SKY",
+      "url": "https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z"
+    },
+    {
+      "album": {
         "name": "Endit",
         "url": "https://open.spotify.com/album/1AVmZmj8pjRRuLoP4KF5pc"
       },
@@ -8794,7 +8870,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 184062,
       "name": "Flicker (Faro)",
       "url": "https://open.spotify.com/track/2OZrgf8j8yC67YQfYfLk70"
@@ -10478,7 +10554,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 205031,
       "name": "heal me (on the floor)",
       "url": "https://open.spotify.com/track/08A2cRNwOrx2FstlXIylKp"
@@ -14041,6 +14117,24 @@
     },
     {
       "album": {
+        "name": "Joyride",
+        "url": "https://open.spotify.com/album/5VuP9sCqxjO6STRu9w90cq"
+      },
+      "artists": [
+        {
+          "name": "French 79",
+          "url": "https://open.spotify.com/artist/6MJKlN8ya42Agsw3iQZs6e"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233618,
+      "name": "Joyride",
+      "url": "https://open.spotify.com/track/4ccGNvE5wRTVmBgH5zToDE"
+    },
+    {
+      "album": {
         "name": "Break Out (1983 Version - Expanded Edition)",
         "url": "https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM"
       },
@@ -14362,7 +14456,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 278456,
       "name": "Keep Me Closer",
       "url": "https://open.spotify.com/track/4s0XSWm954pnhMdVGqJc3w"
@@ -15584,7 +15678,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 133310,
       "name": "Live",
       "url": "https://open.spotify.com/track/1gsotXTOgjdbReDxNpXDqE"
@@ -16787,6 +16881,24 @@
     },
     {
       "album": {
+        "name": "magnetised",
+        "url": "https://open.spotify.com/album/5JQ94eHb4C4pEMvoT9HmwE"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201683,
+      "name": "magnetised",
+      "url": "https://open.spotify.com/track/25xpRp8CiiZRj9yfuUSa8F"
+    },
+    {
+      "album": {
         "name": "Major Love",
         "url": "https://open.spotify.com/album/70EaDCxfBUAk0WCnIbiQJ5"
       },
@@ -17162,7 +17274,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 175330,
       "name": "Massacre",
       "url": "https://open.spotify.com/track/473ImsIIIX3XxE5fr79wQ3"
@@ -20571,6 +20683,32 @@
     },
     {
       "album": {
+        "name": "Paris Worldwide",
+        "url": "https://open.spotify.com/album/4wGaridxAfo5wH67JBLyw1"
+      },
+      "artists": [
+        {
+          "name": "Busy P",
+          "url": "https://open.spotify.com/artist/3coXUO5EiwR37nzX4xWjIV"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        },
+        {
+          "name": "twinsmatic",
+          "url": "https://open.spotify.com/artist/3gYoYSbWPhxA0zY9lZ4Ldv"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247106,
+      "name": "Paris Worldwide",
+      "url": "https://open.spotify.com/track/0ZKT7SvligG7WRzPSiYUjk"
+    },
+    {
+      "album": {
         "name": "Party Woman (Crazy P Remix)",
         "url": "https://open.spotify.com/album/04UFwo4ylbMJuk2EKfapUg"
       },
@@ -20924,6 +21062,24 @@
       "duration_ms": 373600,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/41DTJjf2ZT7dTuZOKBNKbb"
+    },
+    {
+      "album": {
+        "name": "DJ-Kicks: TEED",
+        "url": "https://open.spotify.com/album/0JBsu60WuAjdgmNwBsqeDD"
+      },
+      "artists": [
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271852,
+      "name": "Please Don\u2019t Go",
+      "url": "https://open.spotify.com/track/3Vts3XadQYgFxql1hSyu3f"
     },
     {
       "album": {
@@ -23852,7 +24008,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 185660,
       "name": "Soft Focus",
       "url": "https://open.spotify.com/track/3Mt1lCEvVenbds2U8LNLhI"
@@ -24238,7 +24394,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 175158,
       "name": "Space Invaders",
       "url": "https://open.spotify.com/track/0WI6ycLsTx3BUYXDZzaBMx"
@@ -25498,6 +25654,24 @@
       "duration_ms": 265800,
       "name": "S\u00e9quences - Parcels Remix",
       "url": "https://open.spotify.com/track/46Yk35nGRNyvoAhBOIF8n6"
+    },
+    {
+      "album": {
+        "name": "T-Shirt",
+        "url": "https://open.spotify.com/album/1b4eJNwRwScUEyJuNXrVHJ"
+      },
+      "artists": [
+        {
+          "name": "K\u00c4SSY",
+          "url": "https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "T-Shirt",
+      "url": "https://open.spotify.com/track/6Ee9NgRkDfZoqPiXDCHmvr"
     },
     {
       "album": {
@@ -30088,6 +30262,28 @@
       "duration_ms": 240156,
       "name": "Winter Solstice - Braxe + Falcon Remix",
       "url": "https://open.spotify.com/track/5Wa4A6bu00160DzJWdyiC7"
+    },
+    {
+      "album": {
+        "name": "Wo, man (Edit)",
+        "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "Wo, man - Edit",
+      "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
     },
     {
       "album": {

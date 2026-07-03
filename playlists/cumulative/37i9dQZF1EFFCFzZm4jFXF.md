@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-146 songs - 7 hr 59 min
+147 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Start Of Me](https://open.spotify.com/track/6VyO0ltZLsfjVRI8aJXTJL) | [No Mondays](https://open.spotify.com/artist/7cSIDO4sCKFSTHP4Soan5t), [Haverklap](https://open.spotify.com/artist/2FhJxps0HPHf7Jwhi84Sig), [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D) | [Start Of Me](https://open.spotify.com/album/1wyXlIXSXcPwuWou3ZWZLG) | 3:09 | 2026-06-22 |  |
 | [Start Of Me \(feat\. Brad Mair\)](https://open.spotify.com/track/7g8xeIDcQfN0j2WaLHKYxy) | [No Mondays](https://open.spotify.com/artist/7cSIDO4sCKFSTHP4Soan5t), [Haverklap](https://open.spotify.com/artist/2FhJxps0HPHf7Jwhi84Sig), [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D) | [Start Of Me \(feat\. Brad Mair\)](https://open.spotify.com/album/6RMYulo6FcirlMOoTECJEt) | 3:09 | 2024-06-13 | 2026-06-23 |
 | [Still Around](https://open.spotify.com/track/0Hq59Tzh4STCnCdokgbqJb) | [Justin Mylo](https://open.spotify.com/artist/7MFJyevu6jq0shwDuVLymu), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Still Around](https://open.spotify.com/album/4NEFNu7aGFVM6ASDHmbacA) | 2:55 | 2024-06-13 |  |
+| [Stockholm](https://open.spotify.com/track/6ey4WncmCwNDailvLTUZCm) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Stockholm](https://open.spotify.com/album/3NNlYaqNHWxBhdKUJaPpcj) | 3:21 | 2026-07-02 |  |
 | [Strangers](https://open.spotify.com/track/3gvhr2lER4orcdXJD9uM9n) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Strangers](https://open.spotify.com/album/3NfgRNjjFzEK2yVk4hwuug) | 3:18 | 2024-06-13 |  |
 | [Take Me Back](https://open.spotify.com/track/1Fb7WZxrXaws0NwEWZ6dV9) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [ODYSSEY](https://open.spotify.com/album/4nPyFynQj3tGWz1xNUiL5t) | 3:02 | 2026-02-08 | 2026-02-10 |
 | [Take Me Back](https://open.spotify.com/track/4ktOL5ShhTQ2zl8YNnES2b) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [ODYSSEY](https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC) | 3:02 | 2026-02-09 |  |

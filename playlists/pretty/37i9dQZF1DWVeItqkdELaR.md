@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > Ouve os hits do verão de 2026! 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,829 likes - 59 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,905 likes - 59 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 50 | [Chuva De Amor](https://open.spotify.com/track/0NUKgPv3y7seN48Ipm6HUM) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Chuva De Amor](https://open.spotify.com/album/6pJMUzRz6QHarHAV4CRbE0) | 3:50 |
 | 51 | [Carta De Despejo](https://open.spotify.com/track/5Y4F4vmrDh1OMfdBpUWm4G) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Carta De Despejo](https://open.spotify.com/album/48il9SDcT48up45p76yGzD) | 3:20 |
 | 52 | [Onde É Que Eu Tinha a Cabeça](https://open.spotify.com/track/78gj0hNtrkZITSudLFfJmF) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Só Se Estraga uma Casa](https://open.spotify.com/album/6EOhRsOSNynBykeiAZ0avh) | 2:50 |
-| 53 | [SOZINHO](https://open.spotify.com/track/4WqePRcR6a4MzUpg9k4vph) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [SOZINHO](https://open.spotify.com/album/54lkuV8McOqnmPbUZR7MYF) | 3:13 |
-| 54 | [Dona De Si](https://open.spotify.com/track/4YNKRfYZfnviDQ6ICmL1Ra) | [Os Alentons](https://open.spotify.com/artist/4l0cDeXPYEksWKHCk424K2) | [Dona De Si](https://open.spotify.com/album/7dfgDaCjkhPs49Yaj3xmCZ) | 2:47 |
+| 53 | [Dona De Si](https://open.spotify.com/track/4YNKRfYZfnviDQ6ICmL1Ra) | [Os Alentons](https://open.spotify.com/artist/4l0cDeXPYEksWKHCk424K2) | [Dona De Si](https://open.spotify.com/album/7dfgDaCjkhPs49Yaj3xmCZ) | 2:47 |
+| 54 | [SOZINHO](https://open.spotify.com/track/4WqePRcR6a4MzUpg9k4vph) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [SOZINHO](https://open.spotify.com/album/54lkuV8McOqnmPbUZR7MYF) | 3:13 |
 | 55 | [Xê Dama](https://open.spotify.com/track/45P31dabxkY0NzFGo4Y5Us) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Xê Dama](https://open.spotify.com/album/47Nebu1RN8AXDGywJ2QG4J) | 2:40 |
 | 56 | [Rosa](https://open.spotify.com/track/6djCOY8krAnQw8JFK4fbYa) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Rosa](https://open.spotify.com/album/2HZk8OFg1Ua8yEQj2sj7Vx) | 2:59 |
 | 57 | [N'Essa Rua](https://open.spotify.com/track/5pLswAEkSlHzRG1tReA4Zt) | [Branko](https://open.spotify.com/artist/1lEBJGJgdoevi1Clv9CqLT), [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [N'Essa Rua](https://open.spotify.com/album/1tuRXXqeJYoMSNk2njecsT) | 2:45 |

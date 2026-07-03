@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj zwycięzców i  nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,752 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,749 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 58 | [Samiec beta](https://open.spotify.com/track/063bdnZfIfQ9Kya60Fv8um) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99), [Słoń](https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV) | [Samiec beta](https://open.spotify.com/album/2vQvjQibvojh1TBx2VpU37) | 2:24 |
 | 59 | [RAPUJ KURWO \(BEDOES DISS\)](https://open.spotify.com/track/0vXFqNThA5L4SPGvdda9xq) | [Eripe](https://open.spotify.com/artist/2E2h76dKcZsiyHgrQqEeyL) | [RAPUJ KURWO \(BEDOES DISS\)](https://open.spotify.com/album/6cdw3VdG2rPjpRx7VNcy9R) | 2:58 |
 | 60 | [K\-R\-Ó\-L](https://open.spotify.com/track/2JyhAYl6cwkUwsLJkAo52a) | [W.E.N.A.](https://open.spotify.com/artist/183C4P5B8pmW1zmI4himpF), [Amatowsky](https://open.spotify.com/artist/4RTruGcOVuIPiDVxOJbG7q), [Dj Qmak](https://open.spotify.com/artist/2LUyULm4hu6KViQeXRUAkJ) | [Wytrych](https://open.spotify.com/album/34nYNHsFR8qVWAEzHSBP1a) | 2:55 |
-| 61 | [DAW](https://open.spotify.com/track/5P4uwcftTRTxywyscGVfHJ) | [VBS](https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ), [Kwiatek HAZE](https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk) | [3](https://open.spotify.com/album/22SiXjbw6WwEpXowkjl8zo) | 3:20 |
-| 62 | [To się więcej nie powtórzy](https://open.spotify.com/track/6d8QmWWjIuwxCjpWwnr5NE) | [Gruby Mielzky](https://open.spotify.com/artist/6f3oixxZSgRKOW2CSqOFqM), [The Returners](https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk) | [To się więcej nie powtórzy](https://open.spotify.com/album/7kUwGONLTpdhpykSIbantV) | 2:53 |
+| 61 | [To się więcej nie powtórzy](https://open.spotify.com/track/6d8QmWWjIuwxCjpWwnr5NE) | [Gruby Mielzky](https://open.spotify.com/artist/6f3oixxZSgRKOW2CSqOFqM), [The Returners](https://open.spotify.com/artist/4zO6WqG8mu49ek0ZDIptTk) | [To się więcej nie powtórzy](https://open.spotify.com/album/7kUwGONLTpdhpykSIbantV) | 2:53 |
+| 62 | [DAW](https://open.spotify.com/track/5P4uwcftTRTxywyscGVfHJ) | [VBS](https://open.spotify.com/artist/6dLmkDJ0rahtzUgcpUyxGQ), [Kwiatek HAZE](https://open.spotify.com/artist/4q06j2wJJG6LmjdDg2O4pk) | [3](https://open.spotify.com/album/22SiXjbw6WwEpXowkjl8zo) | 3:20 |
 | 63 | [DZIECI MIASTA](https://open.spotify.com/track/4KdIikzAuPEWITf3CpG08y) | [Frosti](https://open.spotify.com/artist/1gy83FHMv1GVuqYu3sxYxY), [Pedro](https://open.spotify.com/artist/2LI7lXaNJU420lffFWJUcT) | [DZIECI MIASTA](https://open.spotify.com/album/6rEqhIQmkqaMiwiUC18Qr7) | 2:48 |
 | 64 | [Nie ma takiego numeru](https://open.spotify.com/track/4KwrwRXSWlY95QccTUxiD5) | [Bober](https://open.spotify.com/artist/03rREATXGWcD2CfG3OXDZY), [shhieda](https://open.spotify.com/artist/3SmlmvX2qQzGJDn2QZkMFW) | [ALBUM ALPHA \(DEMO\)](https://open.spotify.com/album/3B5gMNPmUMIpn05rwuitV6) | 2:39 |
 | 65 | [Czwarta Rano](https://open.spotify.com/track/3GMbyrZOt6OsEq8id8jU4h) | [Małolat](https://open.spotify.com/artist/4OKOsK6RUI0hFfxEXjt1kH), [Kukon](https://open.spotify.com/artist/3U5Oag04Yl2WnvPULOlsMD), [NOSTALG1A](https://open.spotify.com/artist/6MviuPgk8R2ZJBwY9yHxOS), [SHDØW](https://open.spotify.com/artist/1k4FU2VP9e8I3yY9tz3Stt) | [Czwarta Rano](https://open.spotify.com/album/6U5SqvclMhXUaI0lWlJxgp) | 2:40 |

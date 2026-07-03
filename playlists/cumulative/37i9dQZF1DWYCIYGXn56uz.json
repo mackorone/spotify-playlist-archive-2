@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "6 \ud83e\udd37 7 - VTR, LILCR, Mida in cover",
+  "description": "6 \ud83e\udd37 7 - SALLY CRUZ in cover",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -436,7 +436,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 140007,
       "name": "A ME A ME",
       "url": "https://open.spotify.com/track/5vQ90JpH1JiakWUwAkBH5z"
@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 148695,
       "name": "Bacio alla fran\u00e7ais",
       "url": "https://open.spotify.com/track/1Sqfmqc9kfb3pDMiur1hcl"
@@ -3301,6 +3301,24 @@
     },
     {
       "album": {
+        "name": "CARMELA",
+        "url": "https://open.spotify.com/album/4OgKuiT92uG0W52qQ6YccE"
+      },
+      "artists": [
+        {
+          "name": "Cioffi",
+          "url": "https://open.spotify.com/artist/7icODmmdn2ve06h2HvOfPa"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "CARMELA",
+      "url": "https://open.spotify.com/track/439QmtZOPb9bGObA7sTWT6"
+    },
+    {
+      "album": {
         "name": "CARNALE . bagnarci",
         "url": "https://open.spotify.com/album/54y3vA8M4g3BAfOrYj32Ir"
       },
@@ -4608,7 +4626,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 163421,
       "name": "Controcorrente",
       "url": "https://open.spotify.com/track/1mFKpK2i6Ls3oKPEWQDBa4"
@@ -5007,6 +5025,24 @@
     },
     {
       "album": {
+        "name": "Cuore Sul Freno",
+        "url": "https://open.spotify.com/album/4Zi7CAldbiJew2DwWm1vRi"
+      },
+      "artists": [
+        {
+          "name": "Ube",
+          "url": "https://open.spotify.com/artist/2SBLpl3UnwEIwNIs8306nt"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196477,
+      "name": "Cuore Sul Freno",
+      "url": "https://open.spotify.com/track/46COs9C05cY3idYSHOLknY"
+    },
+    {
+      "album": {
         "name": "Cuori di ghiaccio",
         "url": "https://open.spotify.com/album/3CmNrgMOnTXUfLQY7TDRtd"
       },
@@ -5348,7 +5384,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 149714,
       "name": "DENTRO DILUVIA",
       "url": "https://open.spotify.com/track/6Vt4pPtxaARaxI0dAuYhbR"
@@ -6044,6 +6080,24 @@
     {
       "album": {
         "name": "dove sei?",
+        "url": "https://open.spotify.com/album/6AOIs6stjhzM0XVsgCXn8z"
+      },
+      "artists": [
+        {
+          "name": "CoCo",
+          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156031,
+      "name": "dove sei?",
+      "url": "https://open.spotify.com/track/38wTGBn01pzfeL9GSwjTNl"
+    },
+    {
+      "album": {
+        "name": "dove sei?",
         "url": "https://open.spotify.com/album/4X248CxumS9wGej2da24JP"
       },
       "artists": [
@@ -6142,6 +6196,24 @@
       "duration_ms": 197142,
       "name": "DUE ALTALENE",
       "url": "https://open.spotify.com/track/6m4z69VDQ7zB2JQzTeWNom"
+    },
+    {
+      "album": {
+        "name": "DUE SETTIMANE",
+        "url": "https://open.spotify.com/album/1K9zQt6GJPwwY885MqBhHX"
+      },
+      "artists": [
+        {
+          "name": "SETTEMBRE",
+          "url": "https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217611,
+      "name": "DUE SETTIMANE",
+      "url": "https://open.spotify.com/track/5No1FtxyDFpuvroVqIOhjK"
     },
     {
       "album": {
@@ -7648,7 +7720,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 143076,
       "name": "Galleggiare",
       "url": "https://open.spotify.com/track/6BwRjiVBkVdZ8YooSUyBgC"
@@ -8399,6 +8471,24 @@
     },
     {
       "album": {
+        "name": "BORDERLINE",
+        "url": "https://open.spotify.com/album/7CUofE6kXDEF1gT8GiIGP0"
+      },
+      "artists": [
+        {
+          "name": "opi",
+          "url": "https://open.spotify.com/artist/2dApd5nlMJKpHGNUqWT1L2"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147777,
+      "name": "Harley Quinn",
+      "url": "https://open.spotify.com/track/6A3G2m9kNhevjdJIC6ht6c"
+    },
+    {
+      "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
       },
@@ -8650,7 +8740,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 156000,
       "name": "I NOSTRI ANNI BELLISSIMI",
       "url": "https://open.spotify.com/track/2f4CbyefNHxmqpC717xNbs"
@@ -11506,7 +11596,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 148293,
       "name": "Mannaggia a me",
       "url": "https://open.spotify.com/track/3vJNyW4Y6heR2TxASZv2th"
@@ -13179,6 +13269,32 @@
     },
     {
       "album": {
+        "name": "NOI (Mai Come Gli Altri)",
+        "url": "https://open.spotify.com/album/1PXhtEdIVK6sPWR0qwMgeA"
+      },
+      "artists": [
+        {
+          "name": "Poli Ok",
+          "url": "https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E"
+        },
+        {
+          "name": "RE4L",
+          "url": "https://open.spotify.com/artist/3lm0KzdIq3Tp7jjo18GN5o"
+        },
+        {
+          "name": "Otalay",
+          "url": "https://open.spotify.com/artist/3RuR9IVE8ErUJaeI2FCY8b"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "NOI (Mai Come Gli Altri)",
+      "url": "https://open.spotify.com/track/3sccPpGGP3lWLulvzInQG2"
+    },
+    {
+      "album": {
         "name": "TUTTA VITA",
         "url": "https://open.spotify.com/album/4QpLnSupGsuYYJYYoj29Q7"
       },
@@ -13818,7 +13934,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 192325,
       "name": "NOTTE SELVAGGIA",
       "url": "https://open.spotify.com/track/27ja4IhpnZvjdpNT84xnPp"
@@ -14466,7 +14582,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 192510,
       "name": "Ora d'aria",
       "url": "https://open.spotify.com/track/4ldjglZiJZLsXbYwy2F4wJ"
@@ -14972,6 +15088,24 @@
       "duration_ms": 169181,
       "name": "Parlami",
       "url": "https://open.spotify.com/track/00QN58Gx571pB1MEuBAcmL"
+    },
+    {
+      "album": {
+        "name": "PAROLE AL VENTO",
+        "url": "https://open.spotify.com/album/4GUb7g0PDX2dBLGYVG96Oi"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177561,
+      "name": "PAROLE AL VENTO",
+      "url": "https://open.spotify.com/track/1hH3NZI3u7ripOZDu4HPA1"
     },
     {
       "album": {
@@ -15849,6 +15983,24 @@
     },
     {
       "album": {
+        "name": "Polinesia",
+        "url": "https://open.spotify.com/album/02pM5QWZExUZzjYkevdB1Q"
+      },
+      "artists": [
+        {
+          "name": "Sierra",
+          "url": "https://open.spotify.com/artist/5LxvWvFRXBDQBVI9LwwmVp"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134181,
+      "name": "Polinesia",
+      "url": "https://open.spotify.com/track/3FjVhne7zMiM1Zl1csIXIv"
+    },
+    {
+      "album": {
         "name": "Politically Correct",
         "url": "https://open.spotify.com/album/0mDVO5vkZxoTgVG6HCu2ZZ"
       },
@@ -16086,6 +16238,24 @@
       "duration_ms": 204300,
       "name": "Precipitando",
       "url": "https://open.spotify.com/track/66dPIcMkaUhlPiknMRwSS8"
+    },
+    {
+      "album": {
+        "name": "PRENDI LA MIRA E BASTA",
+        "url": "https://open.spotify.com/album/0csK30chHho12GO4HfYrnm"
+      },
+      "artists": [
+        {
+          "name": "KLAUS NOIR",
+          "url": "https://open.spotify.com/artist/49IamDbZMOj9GPux8Z4i9e"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146774,
+      "name": "PRENDI LA MIRA E BASTA",
+      "url": "https://open.spotify.com/track/70FQOnXMKq3ZDUNPVJmeYR"
     },
     {
       "album": {
@@ -17048,6 +17218,24 @@
       "duration_ms": 144278,
       "name": "Ricordarmi di scordarti",
       "url": "https://open.spotify.com/track/7HfIA6XWVZWsLC7SSBdavy"
+    },
+    {
+      "album": {
+        "name": "Ragazzi di Campagna",
+        "url": "https://open.spotify.com/album/4IKJCcwiM1Bgm3PLhWI0p1"
+      },
+      "artists": [
+        {
+          "name": "PRINCIPE",
+          "url": "https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189750,
+      "name": "Ricordati di Noi",
+      "url": "https://open.spotify.com/track/6s9N7TO6NHrI0CNDwNarNO"
     },
     {
       "album": {
@@ -19297,6 +19485,32 @@
     },
     {
       "album": {
+        "name": "Sto con Ferro",
+        "url": "https://open.spotify.com/album/4Ig2RnwxZN9NTs1JXwrD8A"
+      },
+      "artists": [
+        {
+          "name": "Wemme Flow",
+          "url": "https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny"
+        },
+        {
+          "name": "Sonni Uno",
+          "url": "https://open.spotify.com/artist/3IMvrBv5cuWJjb7GbwhMsq"
+        },
+        {
+          "name": "Zenit",
+          "url": "https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174358,
+      "name": "Sto con Ferro",
+      "url": "https://open.spotify.com/track/0lwVEZ62c56bODYXkgouNa"
+    },
+    {
+      "album": {
         "name": "Storia Stupida",
         "url": "https://open.spotify.com/album/1UVVFhQwRZpfG0HzSns7Ur"
       },
@@ -19594,7 +19808,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 163000,
       "name": "Sweet Panorama",
       "url": "https://open.spotify.com/track/2BOL025Qdl4IU0o48irbED"
@@ -19984,6 +20198,36 @@
       "duration_ms": 224000,
       "name": "TI HO VISTO ENTRARE NELLA MIA VITA",
       "url": "https://open.spotify.com/track/01zwb3TqJG9A6rZlxBsoiF"
+    },
+    {
+      "album": {
+        "name": "TI PORTO A VEDERE IL MARE",
+        "url": "https://open.spotify.com/album/3Vt9oYZQiXLnbu56WfKhYP"
+      },
+      "artists": [
+        {
+          "name": "PRIMA ALBA",
+          "url": "https://open.spotify.com/artist/7JBiKcvAbC3B9LlnLr2KBv"
+        },
+        {
+          "name": "Molo",
+          "url": "https://open.spotify.com/artist/3orzMpb0hF6UNoP2mPXBol"
+        },
+        {
+          "name": "Mile",
+          "url": "https://open.spotify.com/artist/0YfrIvbDrpW1PdjB0WvZqQ"
+        },
+        {
+          "name": "Luvi",
+          "url": "https://open.spotify.com/artist/0cPBV0vRFQYE3ikRRh3Xr0"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "TI PORTO A VEDERE IL MARE",
+      "url": "https://open.spotify.com/track/6zPPe6WwGtFa8MQM1VwyfN"
     },
     {
       "album": {
@@ -20574,7 +20818,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 194676,
       "name": "tulipani",
       "url": "https://open.spotify.com/track/394weSN7QOcqtOqFGZPJPG"
@@ -21600,7 +21844,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 174762,
       "name": "VAFFA*AMORE",
       "url": "https://open.spotify.com/track/64OZcsJXegk5359S2nCe9D"
@@ -21932,7 +22176,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 172368,
       "name": "Via Santini",
       "url": "https://open.spotify.com/track/01KKOPgoAusZyenqQoNUdg"

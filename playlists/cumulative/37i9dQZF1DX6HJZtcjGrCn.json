@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Tain\u00e1",
+  "description": "M\u00fasica independente. A tua alternativa ao mainstream. Foto: Benjamim",
   "name": "Cena Indie",
   "tracks": [
     {
@@ -1010,6 +1010,24 @@
       "duration_ms": 189015,
       "name": "Bem-Vindo",
       "url": "https://open.spotify.com/track/4TlczOCrWemdAfWjf5oEU2"
+    },
+    {
+      "album": {
+        "name": "BESITO",
+        "url": "https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179720,
+      "name": "BESITO",
+      "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
     },
     {
       "album": {
@@ -5780,7 +5798,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 152312,
       "name": "NIGHT OUT",
       "url": "https://open.spotify.com/track/2I0d5mI7uU4NqJJ9uD9fmK"
@@ -5982,6 +6000,32 @@
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Canto Porque Sonho",
+        "url": "https://open.spotify.com/album/1FW4Zl8cuSF7jxfc5MaxPu"
+      },
+      "artists": [
+        {
+          "name": "Pedro Branco",
+          "url": "https://open.spotify.com/artist/7BCNNSSoCrteCcRoEKlm0g"
+        },
+        {
+          "name": "Noiserv",
+          "url": "https://open.spotify.com/artist/2DLUyAtFcP1bEOd8l6ZMys"
+        },
+        {
+          "name": "Tipo",
+          "url": "https://open.spotify.com/artist/6i09xszvXLDEQps4uMzqck"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254011,
+      "name": "N\u00e3o Canto Porque Sonho",
+      "url": "https://open.spotify.com/track/3mG6GWAF7XlQxSD8pIWV3F"
     },
     {
       "album": {
@@ -6246,7 +6290,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 170731,
       "name": "Onde Andas",
       "url": "https://open.spotify.com/track/1JPt39zcrLBOO1DbPKgTQk"
@@ -6352,6 +6396,24 @@
       "duration_ms": 247244,
       "name": "Os Bravos \u2013 II. RAIA",
       "url": "https://open.spotify.com/track/2xNr71RUJ0Q6o6rsN4fwfb"
+    },
+    {
+      "album": {
+        "name": "Os Dias do Nada",
+        "url": "https://open.spotify.com/album/02hvdmED4xI0aGqLZGh7aw"
+      },
+      "artists": [
+        {
+          "name": "Benjamim",
+          "url": "https://open.spotify.com/artist/1Il7ZCAkjBtdsg9skLwlOc"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225142,
+      "name": "Os Dias do Nada",
+      "url": "https://open.spotify.com/track/13LHHRZ43IXJjdmlzeyLW5"
     },
     {
       "album": {
@@ -8428,7 +8490,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 281988,
       "name": "The Old Law",
       "url": "https://open.spotify.com/track/1JeJ5XwrM2qPa7tDS2CRQx"
@@ -8742,6 +8804,24 @@
       "duration_ms": 233289,
       "name": "To Space",
       "url": "https://open.spotify.com/track/356x2OD1llA9NfOMXVmGSk"
+    },
+    {
+      "album": {
+        "name": "Tokyo",
+        "url": "https://open.spotify.com/album/3GS5aZSUe7yTIORIdlkKmt"
+      },
+      "artists": [
+        {
+          "name": "Carl Karlsson",
+          "url": "https://open.spotify.com/artist/12QWmTkEzcCYekpdF1CuoQ"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285294,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/5Jl9wgWYzZXZHxmiIJwPFr"
     },
     {
       "album": {
@@ -9072,7 +9152,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 154878,
       "name": "Uma Vida A Menos",
       "url": "https://open.spotify.com/track/4dFQijCjXWu6Vkr6kHT5VO"

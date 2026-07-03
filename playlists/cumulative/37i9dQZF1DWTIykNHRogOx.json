@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Lisa Pariente.",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Nikola.",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -646,7 +646,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 145500,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/21voZTmJ9CUaws5PnW8eqb"
@@ -996,7 +996,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 209935,
       "name": "Corps tambour",
       "url": "https://open.spotify.com/track/2f5NdeISuxxzNyqfhm9A7E"
@@ -1115,6 +1115,24 @@
     },
     {
       "album": {
+        "name": "DANS LE LOINTAIN DE TA VOIX,",
+        "url": "https://open.spotify.com/album/4RZKuT6mq1LPZCMZ5yvtVF"
+      },
+      "artists": [
+        {
+          "name": "Lonepsi",
+          "url": "https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285334,
+      "name": "DANS LE LOINTAIN DE TA VOIX",
+      "url": "https://open.spotify.com/track/1OpHQ93V8O2l4v3tmqKGdx"
+    },
+    {
+      "album": {
         "name": "Henri Salvador est un Voyou",
         "url": "https://open.spotify.com/album/5TaWjDpvxAjFvcfJejgy9q"
       },
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 181080,
       "name": "Demain",
       "url": "https://open.spotify.com/track/2bIVLEhxZxDJNZfY6o12EY"
@@ -1506,7 +1524,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 142468,
       "name": "Erreur de casting",
       "url": "https://open.spotify.com/track/5B9yNDhrABnTpYWGDCZGRY"
@@ -3203,6 +3221,24 @@
     },
     {
       "album": {
+        "name": "Le oui de trop",
+        "url": "https://open.spotify.com/album/0QeRyd738esLR0TzLAOybQ"
+      },
+      "artists": [
+        {
+          "name": "Hermance",
+          "url": "https://open.spotify.com/artist/06pkb3CsbufVE05fENCofS"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Le oui de trop",
+      "url": "https://open.spotify.com/track/5ScGdXCeK36i7hQKGzei4D"
+    },
+    {
+      "album": {
         "name": "Le penseur",
         "url": "https://open.spotify.com/album/5q90PSSaosWpyeeH0f6QM7"
       },
@@ -4809,6 +4845,24 @@
     },
     {
       "album": {
+        "name": "peut-\u00eatre!",
+        "url": "https://open.spotify.com/album/7H0o3mZFS288K63YELh7wC"
+      },
+      "artists": [
+        {
+          "name": "Nikola",
+          "url": "https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194039,
+      "name": "peut-\u00eatre!",
+      "url": "https://open.spotify.com/track/3xDh5B7TIgptIOr3zCzTNA"
+    },
+    {
+      "album": {
         "name": "Plastique",
         "url": "https://open.spotify.com/album/3nRIj7ie5Fg81SmrXwCP0r"
       },
@@ -4842,6 +4896,24 @@
       "duration_ms": 130727,
       "name": "playlist",
       "url": "https://open.spotify.com/track/3VunM8L63XtLS4KcCPG0WO"
+    },
+    {
+      "album": {
+        "name": "Plein les doigts (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/5R4u4I8pRnfwSlFZI5GuCS"
+      },
+      "artists": [
+        {
+          "name": "Clio",
+          "url": "https://open.spotify.com/artist/0TMi4dfaeWLOtRybyX09XW"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191360,
+      "name": "Plein les doigts - R\u00e9\u00e9dition",
+      "url": "https://open.spotify.com/track/43ufIB4oms2QvkJm5soukC"
     },
     {
       "album": {
@@ -5160,7 +5232,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 149364,
       "name": "Rappelle-Toi",
       "url": "https://open.spotify.com/track/7ICmLw2Y5hm91bV4KgqVmI"
@@ -5196,7 +5268,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 198546,
       "name": "Rendez-vous",
       "url": "https://open.spotify.com/track/71hIA7hPCWal1J1l2JskIG"
@@ -5828,6 +5900,24 @@
       "duration_ms": 160346,
       "name": "Thelma et Louise",
       "url": "https://open.spotify.com/track/4WabBsw8o8lgMmJeSNirUz"
+    },
+    {
+      "album": {
+        "name": "Toi",
+        "url": "https://open.spotify.com/album/1huu5TEpezbYR6LB77ZFAL"
+      },
+      "artists": [
+        {
+          "name": "Alex Montembault",
+          "url": "https://open.spotify.com/artist/7Fbx8FniPmKUR3MfZCzh9a"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249733,
+      "name": "Toi",
+      "url": "https://open.spotify.com/track/0Ix8alLELEPvqszzB8RBvm"
     },
     {
       "album": {

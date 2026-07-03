@@ -477,6 +477,28 @@
     },
     {
       "album": {
+        "name": "Augment",
+        "url": "https://open.spotify.com/album/6kButoMoDOk11Bn907ZoCI"
+      },
+      "artists": [
+        {
+          "name": "CEAUS",
+          "url": "https://open.spotify.com/artist/16312wc5ERKYDDBVwRSAi4"
+        },
+        {
+          "name": "Run Rivers",
+          "url": "https://open.spotify.com/artist/2VxxKYEtuy6JnDDB2hpoOH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193531,
+      "name": "Augment",
+      "url": "https://open.spotify.com/track/4WUU44j7I8GyFI2yGvYJri"
+    },
+    {
+      "album": {
         "name": "U",
         "url": "https://open.spotify.com/album/01iKVCYJMpU65vZRIAQWu7"
       },
@@ -2916,6 +2938,24 @@
       "duration_ms": 240750,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5jAHG0rFTEWF627eCwy2Wa"
+    },
+    {
+      "album": {
+        "name": "Lost in Canc\u00fan",
+        "url": "https://open.spotify.com/album/3fPiqu2q34UuZr1FkxyFa1"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146557,
+      "name": "Lost in Canc\u00fan",
+      "url": "https://open.spotify.com/track/2whwHdlrjo7rF9uj0b2WVS"
     },
     {
       "album": {

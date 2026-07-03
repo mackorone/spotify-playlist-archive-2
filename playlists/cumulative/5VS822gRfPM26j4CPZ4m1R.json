@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196813,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
+    },
+    {
+      "album": {
         "name": "Homage to Delusion",
         "url": "https://open.spotify.com/album/1s0Yfn4xl4SWjPcVQBWg76"
       },
@@ -640,6 +658,32 @@
       "duration_ms": 199935,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/3xtF1dMTPN999P3G0GNeGP"
+    },
+    {
+      "album": {
+        "name": "Ar Fresco",
+        "url": "https://open.spotify.com/album/3X7cwZY7OQlkq2BZvfXSCF"
+      },
+      "artists": [
+        {
+          "name": "Golf Trip",
+          "url": "https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A"
+        },
+        {
+          "name": "Rachel Kitchlew",
+          "url": "https://open.spotify.com/artist/5EkOHfxgVoxfKQu1b89W7C"
+        },
+        {
+          "name": "Sreya",
+          "url": "https://open.spotify.com/artist/3dr0bDqmElcH4qBAN5j5GV"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242701,
+      "name": "Ar Fresco",
+      "url": "https://open.spotify.com/track/2n2J1IyAZQcAJZnekdnEPM"
     },
     {
       "album": {

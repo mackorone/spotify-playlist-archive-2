@@ -4,7 +4,7 @@
 
 > Ouve estas extraordinárias artistas, numa edição especial co curada com Neyna
 
-1,465 songs - 3 day 8 hr 4 min
+1,466 songs - 3 day 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [Foste Tu](https://open.spotify.com/track/2PXsBeMD7keJXGze51QkcC) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [Foste Tu](https://open.spotify.com/album/1sBd7eUBEOglhPGeIqPkra) | 3:14 | 2025-12-03 | 2026-01-15 |
 | [Foste Tu](https://open.spotify.com/track/2aQUqkcVAQgCPmsXOQ9Zkj) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [Foste Tu](https://open.spotify.com/album/5EcFzVIvBhlgBmYuwX7lWR) | 3:14 | 2025-04-01 | 2025-05-07 |
 | [francisco](https://open.spotify.com/track/5NYioJMw5k6b4yY88l2c3m) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU), [Rodrigo Correia](https://open.spotify.com/artist/1GJqIcqg2aB979wl5TIORC) | [cantar as dores baixinho \(vol\. 1\)](https://open.spotify.com/album/7GkCQaJ2CSTApEaOFlo5Wx) | 3:35 | 2026-04-07 | 2026-06-03 |
+| [FREESTYLE](https://open.spotify.com/track/3xsFXbSOXpjUfVzVav58jI) | [DENNYH](https://open.spotify.com/artist/3hfYUtuERUNyMTi8OKvE5u) | [FREESTYLE](https://open.spotify.com/album/5qdYZfdi99cXaqgi61bG8B) | 2:56 | 2026-06-30 |  |
 | [Friend Zone](https://open.spotify.com/track/4miuy3pvA6hu4P064319An) | [AYCIRE](https://open.spotify.com/artist/0TaEbExGFUq0KXTfQyaiDJ), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [MEM](https://open.spotify.com/artist/6Hfk8OlN3fiMSad3IxCNTy) | [Friend Zone](https://open.spotify.com/album/4nyYQUcbQiFIoeWKx6ra23) | 2:59 | 2023-03-01 | 2023-04-05 |
 | [Frágil](https://open.spotify.com/track/6xPENxX8GHL5OAw6jqRcHx) | [Aurea](https://open.spotify.com/artist/752oCkLr3xnW9IVBnAhMMn) | [Frágil](https://open.spotify.com/album/2cVN0QPHJL90rv9NtVEzAP) | 3:47 | 2026-03-19 | 2026-04-08 |
 | [Fuck Up Person](https://open.spotify.com/track/6F6gfbhqgoTEzDcpDt6LgT) | [Nana Lourdes](https://open.spotify.com/artist/3LEjiFgpLbT1F0UgOE9qbg) | [Fuck Up Person](https://open.spotify.com/album/6K4cXrRcWBLBJrZWyFFP0X) | 4:15 | 2022-11-02 | 2022-11-14 |

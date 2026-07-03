@@ -2,9 +2,9 @@
 
 ### [Rap UK](https://open.spotify.com/playlist/37i9dQZF1DX6PKX5dyBKeq)
 
-> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: EsDeeKid
+> The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: J Hus
 
-2,347 songs - 4 day 19 hr 42 min
+2,349 songs - 4 day 19 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1191,7 +1191,7 @@
 | [levels](https://open.spotify.com/track/5WnAF1Vh2byZgn0KwOT5in) | [Pozzy](https://open.spotify.com/artist/4QmxfpwoGK3BHPGCfZ3A5G), [Saiming](https://open.spotify.com/artist/7iIrU7sHGT5yo0TOKIe6D9), [t.o](https://open.spotify.com/artist/3VPVf2I5XVZGmTp5WHva68) | [levels](https://open.spotify.com/album/1fI4KwMxN0uRh3yA3XvmZJ) | 3:54 | 2026-06-25 |  |
 | [Lies](https://open.spotify.com/track/2mXZYJ4XD0SpOEdyaA37Gj) | [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT), [Marnz Malone](https://open.spotify.com/artist/0mxo01LgzQUpNf8KFMGHe4) | [A Gangster's Holiday](https://open.spotify.com/album/0nXqWdunKlI94USB0QSiUS) | 2:32 | 2024-11-15 | 2025-03-28 |
 | [Life](https://open.spotify.com/track/6KzWSubE5CRqvCnikxdYI2) | [Alika](https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf), [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5) | [Wiz](https://open.spotify.com/album/2r8qkT7gcYSxiQw8E25Lfv) | 2:36 | 2022-03-08 | 2022-03-09 |
-| [LIFE IN THE BABYLON](https://open.spotify.com/track/1fZcX51UcKzTgWZ1iALi6V) | [JAY10!](https://open.spotify.com/artist/7C2XkaumLolC29VScZQw9S) | [LIFE IN THE BABYLON](https://open.spotify.com/album/1OefUuFHDAbOH7UKjWalsG) | 1:53 | 2026-04-30 |  |
+| [LIFE IN THE BABYLON](https://open.spotify.com/track/1fZcX51UcKzTgWZ1iALi6V) | [JAY10!](https://open.spotify.com/artist/7C2XkaumLolC29VScZQw9S) | [LIFE IN THE BABYLON](https://open.spotify.com/album/1OefUuFHDAbOH7UKjWalsG) | 1:53 | 2026-04-30 | 2026-07-03 |
 | [Life of a Immigrant](https://open.spotify.com/track/7wTQB9Xs09KJj4j2Z7Pkfc) | [Cashh](https://open.spotify.com/artist/1CTdJErNqnCWNwtxJmleua) | [Return of the Immigrant](https://open.spotify.com/album/4gEtWWdmA8kPjrpMaUzYsq) | 3:41 | 2021-11-05 | 2021-12-08 |
 | [life&death](https://open.spotify.com/track/7s6HHNHxLMX1nGDflQazC8) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [fools&errands](https://open.spotify.com/album/32G0PERRm3OOv4k6zwuMx6) | 2:04 | 2024-07-19 | 2024-10-25 |
 | [Lifestyle](https://open.spotify.com/track/0WYR0Q3Qpl60DoWW5uXM2N) | [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Lifestyle](https://open.spotify.com/album/0BJZbxTDSxPb3rbRQ1mAvm) | 2:49 | 2021-05-29 | 2021-07-09 |
@@ -1373,6 +1373,7 @@
 | [Monster](https://open.spotify.com/track/6Ivt32PqWx9ZbCyvLaD9LN) | [AM](https://open.spotify.com/artist/6qYIqnnJM4TkFtVKiqQgmm) | [Mally](https://open.spotify.com/album/78cyvXKaRlMT34auGj8rfW) | 2:46 | 2020-11-03 | 2020-11-23 |
 | [Mood](https://open.spotify.com/track/1BgONKEmEw2BkWbPBrM9Zn) | [Fizzler](https://open.spotify.com/artist/3vyuuoDKTcHVWVfkQd5aMV) | [Mood](https://open.spotify.com/album/0peOP5M3wbmce0a3tLk70P) | 3:43 | 2022-02-18 | 2022-03-11 |
 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 | 2024-03-08 | 2024-03-16 |
+| [Moonlight](https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Moonlight / Clean Run](https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1) | 3:20 | 2026-07-02 |  |
 | [Moonwalk Slide](https://open.spotify.com/track/2VC3ZUbhSCQ1jS789gN3lh) | [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Moonwalk Slide](https://open.spotify.com/album/3WWYl6lNy4nExBWJf63NIN) | 2:37 | 2021-01-23 | 2021-02-27 |
 | [MOP](https://open.spotify.com/track/6vKzxT4FXGHECZEw3tIIge) | [Squeeks](https://open.spotify.com/artist/52jwaLGrYTCFAEwDW0rI52), [Kwengface](https://open.spotify.com/artist/5O1YiYFy3CEWD2lkOmoerV) | [MOP](https://open.spotify.com/album/5KZLDvg135ffnDcl6IRaja) | 3:32 | 2023-05-05 | 2023-06-02 |
 | [More](https://open.spotify.com/track/5wziXDWMpxHn8AWNLfLMH9) | [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw), [Shorty](https://open.spotify.com/artist/4vAQghcnpz5V7zsPKy9Jpy), [Norf Face](https://open.spotify.com/artist/2vx0BQk6J282s1fpwyhGA0) | [Norf Face](https://open.spotify.com/album/7o6bhqYxz0nWyjwCYsmARy) | 3:03 | 2021-03-06 | 2021-04-09 |
@@ -1887,6 +1888,7 @@
 | [Sip](https://open.spotify.com/track/5yxKSaUDhMf8QSRIDdUzZY) | [Horrid1](https://open.spotify.com/artist/6BmZMwPlspsjzleRVb8rTZ) | [Sip](https://open.spotify.com/album/1EHpoiEWsmYygRX3NuoVBZ) | 3:25 | 2021-03-26 | 2021-04-26 |
 | [Sirens \(From Ireland\)](https://open.spotify.com/track/218C0McVUM1UPcTzODMRhi) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Finessekid](https://open.spotify.com/artist/3V0BdWlUGoiNckM4Ivt8HL) | [Sirens \(From Ireland\)](https://open.spotify.com/album/2z5XKtvHNg17QxNwGTVomp) | 2:40 | 2025-10-09 | 2026-04-10 |
 | [Skarzz](https://open.spotify.com/track/5L1Xa7s1YPqyE8gjcoMejU) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Novelty / Skarzz Freestyle](https://open.spotify.com/album/2XzTs6Xj0LBiQDCGij88wI) | 2:42 | 2023-03-10 | 2023-04-07 |
+| [SKATE WHEELS](https://open.spotify.com/track/43RnMZpOmhV28qnQNQ15hD) | [Paul Stephan](https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF) | [SKATE WHEELS](https://open.spotify.com/album/5ygRwirPPMuGcDHWbQyoKT) | 2:36 | 2026-07-02 |  |
 | [Skeem Set](https://open.spotify.com/track/0CrZGWJgOdWYDXxuM48gCe) | [Milli Major](https://open.spotify.com/artist/3W9YITTXHsmQBGXJqTXLvJ), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc), [Safone](https://open.spotify.com/artist/48lG9Do8JhbK2RxFTGpGlU), [So Large](https://open.spotify.com/artist/5wUWJullIwzFc4VZl9WSEK), [Chronik](https://open.spotify.com/artist/7kgvZ3N2rEUcJQ4ubHo2MG) | [Skeem Set](https://open.spotify.com/album/5rQM7qRMF6Yqdy4hTyzcrh) | 3:09 | 2023-05-26 | 2023-06-09 |
 | [Skeletons](https://open.spotify.com/track/6YM72VCuP1kunsV8wCHHHh) | [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL) | [Skeletons](https://open.spotify.com/album/0VRUKCf6RoV1ZgYlGh577Z) | 3:49 | 2021-05-15 | 2021-06-19 |
 | [Skengdo \- No Miming](https://open.spotify.com/track/28Yy1LOuvPoM4RpRlc49TH) | [Skengdo](https://open.spotify.com/artist/3LmkRGuUav9Un8TDMjwKSg), [Tim & Barry](https://open.spotify.com/artist/7MdhgOG14jdWpchQuE14Ce) | [Skengdo \- No Miming](https://open.spotify.com/album/1rZfnKtECwgX01BKTfRnKl) | 2:56 | 2022-09-30 | 2022-10-22 |
@@ -2010,7 +2012,7 @@
 | [Superstar](https://open.spotify.com/track/0zvjP7DPywMIp4Y560HV6l) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [Superstar](https://open.spotify.com/album/5B8p0jHvnW0faG62vTuHWk) | 2:41 | 2024-04-26 | 2024-09-06 |
 | [Sure](https://open.spotify.com/track/5JHehbppclia5DIpzgNLRP) | [Nito NB](https://open.spotify.com/artist/68aKxCNCC9CLaAkMXbbaSD) | [Sure](https://open.spotify.com/album/2u20IMNvMoEXHWrdIfCY13) | 2:28 | 2024-06-07 | 2024-07-27 |
 | [Surveillance \(feat\. NSG\)](https://open.spotify.com/track/7e3kGLWypJKI68GcMLuibR) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Surveillance \(feat\. NSG\)](https://open.spotify.com/album/5zY56A2o54CfxAhkFLmQT1) | 4:00 | 2021-07-23 | 2021-08-20 |
-| [Survival](https://open.spotify.com/track/0IHOkJ0NcDJRPBoCJJbyij) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Job's Still Not Done](https://open.spotify.com/album/30PhAtPiYPW8roxkSYjA0J) | 2:20 | 2026-04-02 |  |
+| [Survival](https://open.spotify.com/track/0IHOkJ0NcDJRPBoCJJbyij) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Job's Still Not Done](https://open.spotify.com/album/30PhAtPiYPW8roxkSYjA0J) | 2:20 | 2026-04-02 | 2026-07-03 |
 | [Survival Freestyle](https://open.spotify.com/track/2gj1sVUJJZ155lBOpBLCGK) | [Jimmy](https://open.spotify.com/artist/06w8gYYjCLGIK8Cp4ltMJo) | [Survival Freestyle](https://open.spotify.com/album/1mFAO2oqfSuiL8ArQ0tGdo) | 2:09 | 2023-03-17 | 2023-05-05 |
 | [SURVIVAL MODE](https://open.spotify.com/track/6SKpv3Vmz7TGgq45pYXQqu) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [SURVIVAL MODE](https://open.spotify.com/album/2IoaBhnabgu8EpR5Nn7Jj5) | 5:44 | 2024-09-06 | 2025-01-31 |
 | [Survival Mode](https://open.spotify.com/track/5kjKORZCeOZcEBhahKrFDi) | [Rv](https://open.spotify.com/artist/4VylF3B1rKCL5tdOJ8VL8o) | [Inconspicuous](https://open.spotify.com/album/4jpYJSFhqRIhuqHd5WVPFO) | 2:32 | 2023-02-24 | 2023-04-07 |

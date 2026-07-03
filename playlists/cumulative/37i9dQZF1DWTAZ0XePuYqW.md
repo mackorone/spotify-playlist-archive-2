@@ -2,7 +2,7 @@
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> Omarion's got that big energy.
+> Aitch's got that big energy.
 
 669 songs - 1 day 9 hr 33 min
 

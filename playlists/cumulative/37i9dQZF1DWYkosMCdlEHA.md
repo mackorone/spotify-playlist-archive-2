@@ -4,7 +4,7 @@
 
 > Versões desplugadas para curtir um reggae com os pés na areia!
 
-108 songs - 6 hr 50 min
+109 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Sentimento Bom](https://open.spotify.com/track/0vyKzl0o1lem1sHg5wXgSD) | [Circuito Reggae](https://open.spotify.com/artist/07N5hTxdi3rA5cyaf469Ly), [Filosofia Reggae](https://open.spotify.com/artist/3UuKVWKt06WkHABc5arEXD) | [Circuito Reggae, Vol\. 8](https://open.spotify.com/album/3RuibytHE3NZnO7OgS2iN3) | 4:01 | 2024-04-19 |  |
 | [Sentimento Bom](https://open.spotify.com/track/1FfIyMHfZKzGkJRE76pz9O) | [Circuito Reggae](https://open.spotify.com/artist/07N5hTxdi3rA5cyaf469Ly), [Filosofia Reggae](https://open.spotify.com/artist/3UuKVWKt06WkHABc5arEXD) | [Circuito Reggae, Vol\. 7](https://open.spotify.com/album/3MpDXGTk8iSBPa5arnlAg5) | 4:02 | 2023-07-07 | 2024-04-19 |
 | [Serenou/Nosso Mundo \- Acoustic Sessions](https://open.spotify.com/track/69VrPLeXiiQsIgZofFA7tn) | [Yeti Reggae Club](https://open.spotify.com/artist/5VxPLGujYalBJdAOlU5bfs) | [Serenou/Nosso Mundo \(Acoustic Sessions\)](https://open.spotify.com/album/4SfiSAjkRpxELEOsOEskNJ) | 3:41 | 2023-07-07 |  |
+| [Sessão Da Tarde](https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w) | [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb), [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN) | [Sessão Da Tarde](https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y) | 3:02 | 2026-07-02 |  |
 | [Seu Jeitin](https://open.spotify.com/track/064y5o2Nm1EuVqHcKolwcE) | [Genaro Magri](https://open.spotify.com/artist/5ByMmjmBD13R0JQGzq6fL3), [Bê Vieira](https://open.spotify.com/artist/2XMYiJtz0qpZcPkfdOZKrj) | [Seu Jeitin](https://open.spotify.com/album/1DCI7d5N8XGGwZud3dKTdu) | 2:24 | 2026-03-27 |  |
 | [Sobradinho \- Acústico](https://open.spotify.com/track/1cHnd1MgTR5uhhaf6fz662) | [Alma Djem](https://open.spotify.com/artist/4B8KF3OtiyDkloMmJ4qCm0), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Acústico Alma Djem \- Harmonia \(EP 3\)](https://open.spotify.com/album/6l1GWyhEfZSETe6XDjHx1Q) | 2:22 | 2025-05-16 | 2025-07-05 |
 | [Solstício de Verão \- Acústico](https://open.spotify.com/track/0zRto7Wtn1J6cUfUQzxGlS) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Solstício de Verão \(acústico\)](https://open.spotify.com/album/6DONyw3OmEpeUxUumx0Fcw) | 3:11 | 2023-07-07 |  |
@@ -101,7 +102,7 @@
 | [Tranquila \- Versão Acústica](https://open.spotify.com/track/0I70H9PTeywaND8P80R5fP) | [Mariana Coelho](https://open.spotify.com/artist/39dsFcF29ENLVm7zRQuQAv) | [Tranquila \(Versão Acústica\)](https://open.spotify.com/album/4cMpYRT2XAgI8eiLpQUr42) | 2:48 | 2024-04-19 |  |
 | [True Love](https://open.spotify.com/track/1HnriuDThLq7bEl1QKiaJL) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [Peace in a Time of War](https://open.spotify.com/album/3fmRr51BQGbdFUeFfyGn04) | 4:16 | 2023-07-07 | 2024-04-19 |
 | [True Love](https://open.spotify.com/track/2Y9WfjpGt3kzv7cbRl3s3O) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE) | [Peace in a Time of War](https://open.spotify.com/album/4Wps42vdfVXj2aJW4mf2yn) | 4:16 | 2024-04-19 |  |
-| [True To Myself](https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:45 | 2023-07-07 |  |
+| [True To Myself](https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:45 | 2023-07-07 | 2026-07-03 |
 | [True To Myself](https://open.spotify.com/track/6Lamfb7pARZtIVYhVqFAaw) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [We Are The People Tour](https://open.spotify.com/album/7FQqRd0kh49AShH75FiT61) | 3:57 | 2023-10-13 | 2024-04-19 |
 | [True to Myself \- Live in Saratoga, CA, 2019](https://open.spotify.com/track/2SniUy1DxVuBGxb6jacmYJ) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Road to Rebellion, Vol\. 3 \(Live\)](https://open.spotify.com/album/2moVoeaHLXICs5SF4UD1z7) | 3:57 | 2024-04-19 |  |
 | [True to Myself \- Live in Saratoga, CA, 2019](https://open.spotify.com/track/3SIcm5aQsxVfjB2rly20tV) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [We Are the People Tour \(Live\)](https://open.spotify.com/album/6GiFk4Ep2wpwXgeMEQTh2k) | 3:57 | 2023-07-07 | 2023-11-10 |

@@ -4,12 +4,13 @@
 
 > Cutting\-edge dance music emerging from Japan.
 
-94 songs - 6 hr 42 min
+95 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Attracted to you](https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [AFAMoo](https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl), [Lily June](https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6) | [Attracted to you](https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z) | 2:42 | 2026-02-10 |  |
 | [Baiu mirage \- Risa Taniguchi Remix](https://open.spotify.com/track/2flDw7wtTynOUH4kSY5gfQ) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [TIMER](https://open.spotify.com/artist/2GxhgZGDysB1Q0l75SgViY), [SHIHAL](https://open.spotify.com/artist/4sYuxxYvMAQxfXpTNK0EZP), [Risa Taniguchi](https://open.spotify.com/artist/44HyyC4bGo2Z30zoaaeTxy) | [Baiu mirage \(Risa Taniguchi Remix\)](https://open.spotify.com/album/6Fgpvb7eVxGrsxAekAgkzB) | 5:53 | 2025-11-07 | 2026-03-09 |
+| [BAMBOO](https://open.spotify.com/track/2q2XA70NRreC33odqvghf9) | [勢喜遊](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs), [HANATANI](https://open.spotify.com/artist/5JFuHcjL9v7XhGmakhTOak), [Cota Mori](https://open.spotify.com/artist/17kRKqQs7JMrBKCzIGBk37) | [BAMBOO](https://open.spotify.com/album/18FMxfzDfynb8iaND3adcy) | 2:45 | 2026-06-26 |  |
 | [BARTRACK](https://open.spotify.com/track/6po2cdbkS2KF5EfgOa9uNi) | [DJ DISK](https://open.spotify.com/artist/7BhAnkcfEJZNZNBsGXj9Jr) | [RIOT IN SILENCE](https://open.spotify.com/album/45LpEs9L4qtRyLcbdOHKEa) | 3:32 | 2026-05-30 | 2026-06-28 |
 | [Beautiful Moment \- Original Floor Mix](https://open.spotify.com/track/0DpqLVjEXKrH0eo9kzlkCe) | [Hideo Kobayashi](https://open.spotify.com/artist/0gV5bvZtcmDvLJb1IUD9MM), [Christa](https://open.spotify.com/artist/4Eig764BKXeMMzJ3tKTuHp) | [Republica Cafe Gold \(Compiled by Marco Fullone\)](https://open.spotify.com/album/1RZEMH8G4czKTZBauBLDHy) | 5:26 | 2025-10-24 | 2025-12-01 |
 | [Big Love \(feat\. Liset Alea\)](https://open.spotify.com/track/68pJqdXyk4996aQXp9dNln) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r), [Liset Alea](https://open.spotify.com/artist/3a8PdRbZ7j6TigKKUukGqv) | [Big Love \(feat\. Liset Alea\)](https://open.spotify.com/album/2yFPmvj6zgFrobJisTuubC) | 4:53 | 2026-02-10 | 2026-03-22 |
@@ -30,7 +31,7 @@
 | [Dry Action Pump](https://open.spotify.com/track/0nonTTE1UucPmcFJOyns1n) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [ALL HAZE](https://open.spotify.com/album/6rQIB992oYHKN1TZvf1DsJ) | 4:19 | 2025-10-24 |  |
 | [Echoes feat\. Aile The Shota](https://open.spotify.com/track/1iw02L4YO5K6wlcDM0rAcp) | [YOSA & TAAR](https://open.spotify.com/artist/1z48rMKnmB9lBHx895J0jY), [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [Echoes feat\. Aile The Shota](https://open.spotify.com/album/3wh9fOOwGxXmjicOYbFKtn) | 5:22 | 2025-10-24 | 2026-03-09 |
 | [Electricity \(salute Remix\)](https://open.spotify.com/track/6OBBLO7lE3E2EaqIv3bJ0i) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2), [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Electricity \(salute Remix\)](https://open.spotify.com/album/53vQYSInh7uqhuUd5y6gdk) | 4:10 | 2025-10-24 |  |
-| [Fabric](https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [Love Flutter](https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z) | 4:03 | 2025-10-24 |  |
+| [Fabric](https://open.spotify.com/track/2SFQD2ZQ6NVrn7zKTy3Fsp) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye) | [Love Flutter](https://open.spotify.com/album/7Fnt5RXowlmGbfdnWtjj2z) | 4:03 | 2025-10-24 | 2026-07-03 |
 | [Feeling](https://open.spotify.com/track/16vnGjVUbGeniz8aXAxUxk) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Warung](https://open.spotify.com/artist/2V1Ub5tTf23y9LkBjLT5hz) | [Feeling](https://open.spotify.com/album/1j5koOWuY2kIoCX3hsPayx) | 3:20 | 2025-10-24 |  |
 | [Fleeting\_637](https://open.spotify.com/track/4f0X3Zpey98T9apmYnO9Tj) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [Fleeting\_637](https://open.spotify.com/album/6zNmicdavPerAaLDcXrGx3) | 7:26 | 2025-10-24 | 2025-11-15 |
 | [Free](https://open.spotify.com/track/7DKyhfk7PQdjRFWUA0eQYA) | [Big Animal Theory](https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4) | [Twofold](https://open.spotify.com/album/4mJ1nmkF2RanEbD3r62fSN) | 3:29 | 2025-10-24 | 2026-06-26 |

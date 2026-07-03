@@ -1,6 +1,6 @@
 {
   "description": "Os grandes artistas da MPB. Foto: Gal Costa",
-  "num_followers": 1474296,
+  "num_followers": 1474301,
   "original_name": "O Melhor da MPB",
   "owner": {
     "name": "Spotify",
@@ -225,7 +225,7 @@
         }
       ],
       "duration_ms": 131426,
-      "name": "Devolva-Me (Ao Vivo)",
+      "name": "Devolva-me - Ao Vivo",
       "url": "https://open.spotify.com/track/5sz2LrG6jY6u7U0g2k7kws"
     },
     {
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-05-22 11:20:59",
       "album": {
+        "name": "Elis Regina Em Falso Brilhante",
+        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
+      },
+      "artists": [
+        {
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Como Nossos Pais",
+      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
+    },
+    {
+      "added_at": "2026-05-22 11:20:59",
+      "album": {
         "name": "Rosa Morena",
         "url": "https://open.spotify.com/album/2v0e82jPJ6kjipDhCKu0Aq"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 275906,
       "name": "Olhos Nos Olhos",
       "url": "https://open.spotify.com/track/30F630HDvFOckjhqBZfl9L"
-    },
-    {
-      "added_at": "2026-05-22 11:20:59",
-      "album": {
-        "name": "Elis Regina Em Falso Brilhante",
-        "url": "https://open.spotify.com/album/1F57xqKnbpTQB2SPoovTGJ"
-      },
-      "artists": [
-        {
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Como Nossos Pais",
-      "url": "https://open.spotify.com/track/4dIWbsYRqqTcLKf4bVU4kk"
     },
     {
       "added_at": "2026-05-22 11:20:59",

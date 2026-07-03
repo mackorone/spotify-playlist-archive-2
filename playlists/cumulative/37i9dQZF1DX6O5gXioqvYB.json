@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "tutte le migliori novit\u00e0 indie \ud83c\uddee\ud83c\uddf9  (p.s. siamo un po' invisios* delle treccine di Emili Kasa)",
+  "description": "tutte le migliori novit\u00e0 indie \ud83c\uddee\ud83c\uddf9  SANO in cover tutto allucinato \ud83c\udf00",
   "name": "Novit\u00e0 Indie Italiano",
   "tracks": [
     {
@@ -2834,7 +2834,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 189247,
       "name": "architettura ostile",
       "url": "https://open.spotify.com/track/2f3jQZMCOP2RrD5VUze6iK"
@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 273786,
       "name": "as I age",
       "url": "https://open.spotify.com/track/7Kj72ZtAjE39P0lA2mWwyo"
@@ -6249,6 +6249,24 @@
     },
     {
       "album": {
+        "name": "chiodi",
+        "url": "https://open.spotify.com/album/4jWuzzc9AvqSmF5anPrJXy"
+      },
+      "artists": [
+        {
+          "name": "vilesangue",
+          "url": "https://open.spotify.com/artist/3Cbai4Yx6R1B2nb6oRi6ym"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "chiodi",
+      "url": "https://open.spotify.com/track/1uoDHrmCbOJOVqo8TQ5lDh"
+    },
+    {
+      "album": {
         "name": "Chiss\u00e0",
         "url": "https://open.spotify.com/album/4OO79WVVkGbVTm2bYXjJqn"
       },
@@ -8301,6 +8319,32 @@
     },
     {
       "album": {
+        "name": "Decidere non so (Amore Audio remix)",
+        "url": "https://open.spotify.com/album/0FujK0LmFalu7bbRVPvY2J"
+      },
+      "artists": [
+        {
+          "name": "Lauryyn",
+          "url": "https://open.spotify.com/artist/5TkF5Y1V2uSipijbarlcx4"
+        },
+        {
+          "name": "Filippo Bubbico",
+          "url": "https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw"
+        },
+        {
+          "name": "Amore Audio",
+          "url": "https://open.spotify.com/artist/03OiOe7Bfr3XTNnbjvwjTT"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203030,
+      "name": "Decidere non so - Amore Audio remix",
+      "url": "https://open.spotify.com/track/7C8m1Joc9rkF8Kd7xPYiJH"
+    },
+    {
+      "album": {
         "name": "Dell'io e delle cose",
         "url": "https://open.spotify.com/album/6lDZ05bXovoE4a625RcQOE"
       },
@@ -9410,7 +9454,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 172972,
       "name": "Dove ce ne andiamo stasera?",
       "url": "https://open.spotify.com/track/2Qx1zvbDc3oYcLRNFI1s8Z"
@@ -10430,7 +10474,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 156444,
       "name": "EUFORIA X SEMPRE",
       "url": "https://open.spotify.com/track/3N71nzozIIXSfJEmhFCy2s"
@@ -11623,6 +11667,24 @@
     },
     {
       "album": {
+        "name": "MIGLIA",
+        "url": "https://open.spotify.com/album/1SkkyFd0rINYF4qIhQNN99"
+      },
+      "artists": [
+        {
+          "name": "43.Nove",
+          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198897,
+      "name": "Formula 1",
+      "url": "https://open.spotify.com/track/44LEr0Wn872hRhOzjL3zeH"
+    },
+    {
+      "album": {
         "name": "Forse",
         "url": "https://open.spotify.com/album/3hIRufsYu9Zz40cXfjNgmg"
       },
@@ -12378,7 +12440,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 186461,
       "name": "Gioconda",
       "url": "https://open.spotify.com/track/3x9kkN7c4XRhrF7UPyI0uj"
@@ -12605,6 +12667,24 @@
     },
     {
       "album": {
+        "name": "Una Nuova Fine",
+        "url": "https://open.spotify.com/album/3tmk2AyDEyPSY2JhfLjF3I"
+      },
+      "artists": [
+        {
+          "name": "H\u00c5N",
+          "url": "https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178800,
+      "name": "girotondo",
+      "url": "https://open.spotify.com/track/3kYGjV7BajkpHI1Pw2Wbt8"
+    },
+    {
+      "album": {
         "name": "giulia",
         "url": "https://open.spotify.com/album/2vgxlY0tJkAQRaWbeGtQkh"
       },
@@ -12620,6 +12700,24 @@
       "duration_ms": 217734,
       "name": "giulia",
       "url": "https://open.spotify.com/track/0t1B56EzLni93nHIk5qTiq"
+    },
+    {
+      "album": {
+        "name": "Gli inutili",
+        "url": "https://open.spotify.com/album/6aESLUg30yPh3J2Dl4CQtD"
+      },
+      "artists": [
+        {
+          "name": "Pablo America",
+          "url": "https://open.spotify.com/artist/3VxU0EXOZcuAEVsi0dhKWV"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190368,
+      "name": "Gli inutili",
+      "url": "https://open.spotify.com/track/56TRSjSWlrG3KQSemL2wu0"
     },
     {
       "album": {
@@ -12798,7 +12896,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 191858,
       "name": "Gonfie Vele",
       "url": "https://open.spotify.com/track/0aMeW00zhQTW4abGOc0QTI"
@@ -13008,6 +13106,24 @@
       "duration_ms": 170921,
       "name": "GRANITA",
       "url": "https://open.spotify.com/track/6ZhGp7dHJihrfCACOWIvNM"
+    },
+    {
+      "album": {
+        "name": "Grattacieli",
+        "url": "https://open.spotify.com/album/3nwbXaTJOSrKHV1tfpOGzk"
+      },
+      "artists": [
+        {
+          "name": "Francesca Sevi",
+          "url": "https://open.spotify.com/artist/7ILGqAwMoLZMPOcRWykavM"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219093,
+      "name": "Grattacieli",
+      "url": "https://open.spotify.com/track/7keLzMGocBTJTcKo0fgpxo"
     },
     {
       "album": {
@@ -14294,7 +14410,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 188336,
       "name": "IMMAGINAZIONE PURA",
       "url": "https://open.spotify.com/track/3iXFbd9GvQg56NdHSWAJBE"
@@ -14865,6 +14981,24 @@
     },
     {
       "album": {
+        "name": "io e te",
+        "url": "https://open.spotify.com/album/4vZw75ox41e5WmF0e0zyjT"
+      },
+      "artists": [
+        {
+          "name": "hotelcasino",
+          "url": "https://open.spotify.com/artist/5Or3IONhWnfvHdGEYdkDs0"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109909,
+      "name": "io e te",
+      "url": "https://open.spotify.com/track/3r7IaZHDFSOfOnuzNb2fFk"
+    },
+    {
+      "album": {
         "name": "io fotografo i miei amici",
         "url": "https://open.spotify.com/album/7zfNvN6DiGe6hlCJx8kRny"
       },
@@ -15090,6 +15224,24 @@
       "duration_ms": 212353,
       "name": "Italiani all'estero (feat. Dutch Nazari)",
       "url": "https://open.spotify.com/track/0omAAzmIF0nij42XvLgtYp"
+    },
+    {
+      "album": {
+        "name": "Jesce Sole",
+        "url": "https://open.spotify.com/album/6hSmZu2w1Rt9atUxonFriX"
+      },
+      "artists": [
+        {
+          "name": "Imma",
+          "url": "https://open.spotify.com/artist/0GejYG3f7QA2VSFXLi8dFo"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184042,
+      "name": "Jesce Sole",
+      "url": "https://open.spotify.com/track/0VETDtz3nTM4JdLFB2gJsx"
     },
     {
       "album": {
@@ -16102,6 +16254,28 @@
       "duration_ms": 194174,
       "name": "LA PRIMA VOLTA",
       "url": "https://open.spotify.com/track/1ZBjjOIkLfOQBS0yPWg2Dp"
+    },
+    {
+      "album": {
+        "name": "La pulsazione della selva",
+        "url": "https://open.spotify.com/album/2F7LO45dwLokS0n24cJliZ"
+      },
+      "artists": [
+        {
+          "name": "Cacao Mental",
+          "url": "https://open.spotify.com/artist/55TTNNGcTGIAQxEgycdq4D"
+        },
+        {
+          "name": "Mefisto Brass",
+          "url": "https://open.spotify.com/artist/4o80wdLKsjTke6wFkQdC47"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275754,
+      "name": "La pulsazione della selva",
+      "url": "https://open.spotify.com/track/43skUoYyzgqfq90Uf5YPp3"
     },
     {
       "album": {
@@ -17422,7 +17596,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 135057,
       "name": "Look At Us",
       "url": "https://open.spotify.com/track/0v1fSjFGyeSWamTEnh6LwM"
@@ -18292,7 +18466,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 154006,
       "name": "Maledette parole",
       "url": "https://open.spotify.com/track/19AjcostKmym7FTREFGTdL"
@@ -19044,7 +19218,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 234124,
       "name": "Matador",
       "url": "https://open.spotify.com/track/7sC6znYWJHJkWLFkvIZTCX"
@@ -19276,7 +19450,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 221157,
       "name": "Melograno",
       "url": "https://open.spotify.com/track/73vjfThTnXEnVmY6O5UwST"
@@ -20210,7 +20384,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 178500,
       "name": "Muchacha dove sei?",
       "url": "https://open.spotify.com/track/46tZoNCjpnyB7g1h67rBmh"
@@ -20330,6 +20504,28 @@
       "duration_ms": 169261,
       "name": "Musica Leggera",
       "url": "https://open.spotify.com/track/7mXPJ6NdjuaMbPAKeaGkpM"
+    },
+    {
+      "album": {
+        "name": "MUSICA VELOCE",
+        "url": "https://open.spotify.com/album/1QXJNpTQO8doVPIdmTKQn8"
+      },
+      "artists": [
+        {
+          "name": "TELLMEWISE",
+          "url": "https://open.spotify.com/artist/2YeePXfhr0Be7X84n7ot3U"
+        },
+        {
+          "name": "prxddom",
+          "url": "https://open.spotify.com/artist/0HH1FNMGbKb7botxWTTDSe"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "MUSICA VELOCE",
+      "url": "https://open.spotify.com/track/6X8tOMUlOOOAeI3AOyxKng"
     },
     {
       "album": {
@@ -20562,6 +20758,24 @@
       "duration_ms": 173965,
       "name": "Nel Frigo Con Te",
       "url": "https://open.spotify.com/track/5LfWdXCkFwUjMaLEosoEoJ"
+    },
+    {
+      "album": {
+        "name": "LA BOLLA",
+        "url": "https://open.spotify.com/album/3eLkx6MqSkzxlyIgBFMHHp"
+      },
+      "artists": [
+        {
+          "name": "Guido Cagiva",
+          "url": "https://open.spotify.com/artist/6h3roggb1pYLe0Ei1HcSwK"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193980,
+      "name": "NELLA BOLLA",
+      "url": "https://open.spotify.com/track/2hgTPOOfRoRTUejLf9g2qJ"
     },
     {
       "album": {
@@ -26040,7 +26254,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 178064,
       "name": "Quando voglio dormire",
       "url": "https://open.spotify.com/track/6CvlWAIcSayWAfkXbWX7vF"
@@ -26492,6 +26706,24 @@
       "duration_ms": 159958,
       "name": "Questa voglia di svanire",
       "url": "https://open.spotify.com/track/3JkES43WUkhlzRrd0bYRea"
+    },
+    {
+      "album": {
+        "name": "questione di tempo",
+        "url": "https://open.spotify.com/album/2exWfVKC1ycrKTJrBPsv1h"
+      },
+      "artists": [
+        {
+          "name": "LYSA",
+          "url": "https://open.spotify.com/artist/1KcTkBvL86LqPDfxwHrTA5"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234374,
+      "name": "questione di tempo",
+      "url": "https://open.spotify.com/track/7bAPCO5Z2PiJSSXfQsaEUj"
     },
     {
       "album": {
@@ -27432,6 +27664,24 @@
       "duration_ms": 191000,
       "name": "Run Like Hell",
       "url": "https://open.spotify.com/track/1uftj5jWJ9VcQrARuwLgi0"
+    },
+    {
+      "album": {
+        "name": "R\u00c0RECHE",
+        "url": "https://open.spotify.com/album/5irYFPsqPMiV6ramtSx3al"
+      },
+      "artists": [
+        {
+          "name": "LA NI\u00d1A",
+          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171360,
+      "name": "R\u00c0RECHE",
+      "url": "https://open.spotify.com/track/5jZOwQ089xk0b3UUPK9169"
     },
     {
       "album": {
@@ -30688,7 +30938,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 196213,
       "name": "Stars App",
       "url": "https://open.spotify.com/track/1PgbZmzPc0jYY4YU0j0GtO"
@@ -30996,6 +31246,24 @@
       "duration_ms": 145066,
       "name": "SU E GI\u00d9 (feat. Piccolo & Clams Casino)",
       "url": "https://open.spotify.com/track/0gysKxbEM9DDzUhZTUicX9"
+    },
+    {
+      "album": {
+        "name": "Su x gi\u00f9",
+        "url": "https://open.spotify.com/album/3jBVpCL4ePAQp4dXTGf66x"
+      },
+      "artists": [
+        {
+          "name": "Giuse The Lizia",
+          "url": "https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194264,
+      "name": "Su x gi\u00f9",
+      "url": "https://open.spotify.com/track/4wGp5RxRZ5xNPsLMIWyzby"
     },
     {
       "album": {
@@ -31565,6 +31833,28 @@
     },
     {
       "album": {
+        "name": "Quando voi forse, allora noi gi\u00e0",
+        "url": "https://open.spotify.com/album/0arPXyU9CLStmTexNaqr3W"
+      },
+      "artists": [
+        {
+          "name": "SANO",
+          "url": "https://open.spotify.com/artist/1PZyTe8GphPoqw95oY5of3"
+        },
+        {
+          "name": "IRBIS",
+          "url": "https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167530,
+      "name": "tfat (con Irbis)",
+      "url": "https://open.spotify.com/track/3MPxsEhPN1CaDOkkHbYfJ2"
+    },
+    {
+      "album": {
         "name": "The Drama, Pt. 1",
         "url": "https://open.spotify.com/album/3QyBwNGJj3UO0qyYMo1WiW"
       },
@@ -31620,7 +31910,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 264000,
       "name": "The Fog",
       "url": "https://open.spotify.com/track/1dRHaqYPUG78Agd8eBCFmk"
@@ -33676,7 +33966,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 179212,
       "name": "un'ora",
       "url": "https://open.spotify.com/track/7MkxEWKTLTxpJH4N3xBZfc"
@@ -35420,6 +35710,24 @@
       "duration_ms": 206020,
       "name": "XFAREAMENODIME",
       "url": "https://open.spotify.com/track/24TprdI7C2bMrEirRfbKP9"
+    },
+    {
+      "album": {
+        "name": "Demos, B-sides, Acoustics, Vol.1",
+        "url": "https://open.spotify.com/album/4pcAmgTSpM8J9LcKMgrWS1"
+      },
+      "artists": [
+        {
+          "name": "LENORE",
+          "url": "https://open.spotify.com/artist/3AvVz3t2SmErEakXenKwbT"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255246,
+      "name": "XIII",
+      "url": "https://open.spotify.com/track/3F5BYvaK9Xh5h9Rx9Wdppb"
     },
     {
       "album": {

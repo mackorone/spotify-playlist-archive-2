@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover:   Adekunle Gold x Yam\u00ea",
+  "description": "Tracks popping off in the Afro scene. Cover:   Wizkid x Jorja Smith",
   "name": "Afro Station",
   "tracks": [
     {
@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Where Did Love Go?",
+        "url": "https://open.spotify.com/album/5xWSSeDji25D0lKQS66JyS"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154077,
+      "name": "Adaeze",
+      "url": "https://open.spotify.com/track/4dMP8nk9hEmfU9Qzb1KQ20"
+    },
+    {
+      "album": {
         "name": "EMOTIONS",
         "url": "https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI"
       },
@@ -550,7 +568,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 123582,
       "name": "AFRICAN GIRLS",
       "url": "https://open.spotify.com/track/1pDVWzY2lp3Y7Qi0WTY4Ad"
@@ -772,6 +790,28 @@
       "duration_ms": 149387,
       "name": "Alinko",
       "url": "https://open.spotify.com/track/0aUYRTlB5OkYf2MIpjWVgm"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1eJstMWIHyldQcIlv2RURH"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207085,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/6UvjCPYE9rZ6B5AIlLMJEi"
     },
     {
       "album": {
@@ -2338,7 +2378,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 210373,
       "name": "BACKKA",
       "url": "https://open.spotify.com/track/0vgRoHUufPIKoIStgC0ZRm"
@@ -2922,7 +2962,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 150151,
       "name": "Beaut\u00e9 De Fou",
       "url": "https://open.spotify.com/track/39VM22t1rBIdZxtcrvfPHR"
@@ -3690,7 +3730,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 161656,
       "name": "Body Tea (feat. J Hus)",
       "url": "https://open.spotify.com/track/4foa1MtTVcTboTIigCbjJv"
@@ -4148,6 +4188,28 @@
       "duration_ms": 185479,
       "name": "Bye bye delali",
       "url": "https://open.spotify.com/track/7cKWe1vy5xWWQv8v68ZUE5"
+    },
+    {
+      "album": {
+        "name": "B\u00e9b\u00e9",
+        "url": "https://open.spotify.com/album/2YqZNeSP6eeV2kSDQGLWJw"
+      },
+      "artists": [
+        {
+          "name": "AKIM PAPICHULO",
+          "url": "https://open.spotify.com/artist/4YoNTFyTQlpPs0y603bBS6"
+        },
+        {
+          "name": "Lil Jay Bingerack",
+          "url": "https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "B\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/12QlMyoM88o9L590cWUNVI"
     },
     {
       "album": {
@@ -4830,7 +4892,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 152880,
       "name": "Champs-Elys\u00e9es",
       "url": "https://open.spotify.com/track/0L0EUIiVNMHGAoMkxKiZAc"
@@ -4892,7 +4954,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 150260,
       "name": "Chanel (feat. Asake)",
       "url": "https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT"
@@ -5281,6 +5343,32 @@
     },
     {
       "album": {
+        "name": "COCA BODY",
+        "url": "https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153055,
+      "name": "COCA BODY",
+      "url": "https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG"
+    },
+    {
+      "album": {
         "name": "Coco Money",
         "url": "https://open.spotify.com/album/5GvOTinb8iMTUwUFw0Ci3i"
       },
@@ -5358,7 +5446,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 224684,
       "name": "Colorado",
       "url": "https://open.spotify.com/track/7C2IUngL0Xp8MsD575v2cJ"
@@ -5935,6 +6023,28 @@
     },
     {
       "album": {
+        "name": "Cyril Gane",
+        "url": "https://open.spotify.com/album/5Bpkat2IWMInJ43yViTMDD"
+      },
+      "artists": [
+        {
+          "name": "H Magnum",
+          "url": "https://open.spotify.com/artist/63hFhXYW3r2q8uW2Rf3LUw"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150337,
+      "name": "Cyril Gane",
+      "url": "https://open.spotify.com/track/6pLsGc4Qd9jajvlsVfGfPl"
+    },
+    {
+      "album": {
         "name": "C\u00e2lin",
         "url": "https://open.spotify.com/album/1PYfLY7mmLIEpD0u9UowAS"
       },
@@ -6148,7 +6258,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 200948,
       "name": "Dance for Jesus",
       "url": "https://open.spotify.com/track/7ARtgoelqoU6QGi7fuoQnR"
@@ -8090,7 +8200,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 167938,
       "name": "ENCORE",
       "url": "https://open.spotify.com/track/5v6JLnos4CRP1nPyxQzghC"
@@ -8148,7 +8258,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 143568,
       "name": "Energy",
       "url": "https://open.spotify.com/track/0EhDGbsM0ApYVcOrSPI2u4"
@@ -10154,7 +10264,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 139760,
       "name": "God Bless",
       "url": "https://open.spotify.com/track/4Elfhk6PhvnapBAwe0yMiI"
@@ -11344,7 +11454,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 141600,
       "name": "ILLIMIT\u00c9",
       "url": "https://open.spotify.com/track/4b9Z3twr11YoLsK2iEgztD"
@@ -15145,6 +15255,24 @@
     },
     {
       "album": {
+        "name": "Maudite",
+        "url": "https://open.spotify.com/album/2wFDjxH1l6mWVOcRyem3ly"
+      },
+      "artists": [
+        {
+          "name": "Kokosvoice",
+          "url": "https://open.spotify.com/artist/2z7DJIoCCkzCqCjBhKXzHB"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168446,
+      "name": "Maudite",
+      "url": "https://open.spotify.com/track/4QGgX1bzmA0mOicaGHz8GJ"
+    },
+    {
+      "album": {
         "name": "Mauvais",
         "url": "https://open.spotify.com/album/41563zjsTgUaCXTvhglrUE"
       },
@@ -16002,6 +16130,24 @@
       "duration_ms": 181778,
       "name": "MOOD (In the House Pt.2)",
       "url": "https://open.spotify.com/track/7qJuFjsvsqP4XxDDPAZAOf"
+    },
+    {
+      "album": {
+        "name": "Moonlight / Clean Run",
+        "url": "https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200477,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ"
     },
     {
       "album": {
@@ -17966,7 +18112,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 174297,
       "name": "Ololo",
       "url": "https://open.spotify.com/track/60MmRAvElnYsbDv7fF4Lg3"
@@ -18590,6 +18736,32 @@
       "duration_ms": 156756,
       "name": "Osadebe",
       "url": "https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5"
+    },
+    {
+      "album": {
+        "name": "Otage",
+        "url": "https://open.spotify.com/album/7GOLClLmSWqDCUWDVZqXHU"
+      },
+      "artists": [
+        {
+          "name": "DJ Ken",
+          "url": "https://open.spotify.com/artist/1qyIUGgexI2Qi0NRweEVgf"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        },
+        {
+          "name": "Kim",
+          "url": "https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159069,
+      "name": "Otage",
+      "url": "https://open.spotify.com/track/0vPOsFdOxppDqH8HgwcA89"
     },
     {
       "album": {
@@ -19322,6 +19494,28 @@
       "duration_ms": 190212,
       "name": "Petit Bonbon",
       "url": "https://open.spotify.com/track/35rWz1MYgLrwJ2LK38yGis"
+    },
+    {
+      "album": {
+        "name": "Petit jeu",
+        "url": "https://open.spotify.com/album/3D1MZvuSuLODI6sx0OVoaB"
+      },
+      "artists": [
+        {
+          "name": "Dr. Yaro",
+          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
+        },
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132857,
+      "name": "Petit jeu",
+      "url": "https://open.spotify.com/track/3jTEyLRWyCyPiJLDeGZvS0"
     },
     {
       "album": {
@@ -20820,6 +21014,24 @@
       "duration_ms": 185093,
       "name": "Rush",
       "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
+    },
+    {
+      "album": {
+        "name": "Identity (Acte 1)",
+        "url": "https://open.spotify.com/album/5UqF6ma1iRyqmNfXgCEU5x"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164026,
+      "name": "R\u00e9unis",
+      "url": "https://open.spotify.com/track/5EmY8iYQJDQE2o1h4BaGE3"
     },
     {
       "album": {
@@ -24045,6 +24257,28 @@
     },
     {
       "album": {
+        "name": "treat u right",
+        "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177565,
+      "name": "treat u right",
+      "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
+    },
+    {
+      "album": {
         "name": "Tribunal",
         "url": "https://open.spotify.com/album/4VxNEkqrXfgK4x9WQafHnt"
       },
@@ -25111,6 +25345,24 @@
     },
     {
       "album": {
+        "name": "what do i know",
+        "url": "https://open.spotify.com/album/5zt3FqkSfRiMLSbUPbaMaF"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158374,
+      "name": "what do i know",
+      "url": "https://open.spotify.com/track/4f8n33TNaDSEl9alg3OyPF"
+    },
+    {
+      "album": {
         "name": "For All The Right Reasons Vol. 1",
         "url": "https://open.spotify.com/album/36KvnNSPeyCHUrAQVpgwwN"
       },
@@ -25700,6 +25952,24 @@
       "duration_ms": 156080,
       "name": "ZAAZAA",
       "url": "https://open.spotify.com/track/3s4WNh0WnfhwvIlrp6RTBj"
+    },
+    {
+      "album": {
+        "name": "Zingelemalo",
+        "url": "https://open.spotify.com/album/5k12DKycLiKkvVda0jVNkM"
+      },
+      "artists": [
+        {
+          "name": "Chily",
+          "url": "https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141735,
+      "name": "Zingelemalo",
+      "url": "https://open.spotify.com/track/7aKWN0ta3ODi6jRolrIE9V"
     },
     {
       "album": {

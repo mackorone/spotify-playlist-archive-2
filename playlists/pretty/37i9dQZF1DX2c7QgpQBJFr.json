@@ -1,31 +1,31 @@
 {
-  "description": "la nuova scena pop italiana \ud83c\uddee\ud83c\uddf9 cover: sethu",
+  "description": "la nuova scena pop italiana \ud83c\uddee\ud83c\uddf9 cover: prima stanza a destra",
   "num_followers": 15522,
   "original_name": "nuovo pop \ud83c\uddee\ud83c\uddf9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANyEaGbRSYSJddirXeN14K+tFvXJ",
+  "snapshot_id": "AAAAAAhYnCDICK/B2xzmw0/nga0pFhOZ",
   "tracks": [
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
-        "name": "Sorry Scusa Lo Siento",
-        "url": "https://open.spotify.com/album/6fsms67vLncXwehxDegR5I"
+        "name": "la ragazza che suonava il piano",
+        "url": "https://open.spotify.com/album/4TW1W2WwtayQV9HWXFDoUM"
       },
       "artists": [
         {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+          "name": "prima stanza a destra",
+          "url": "https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5"
         }
       ],
-      "duration_ms": 200134,
-      "name": "Sorry Scusa Lo Siento",
-      "url": "https://open.spotify.com/track/6Y1SibRCnVlbaa7dS8slzr"
+      "duration_ms": 150093,
+      "name": "l'unico ricordo",
+      "url": "https://open.spotify.com/track/7LSt8i9gLiQbNulp92v46j"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Bossa Nostra",
         "url": "https://open.spotify.com/album/3jCG9BHzeIC5m4ifWQozsS"
@@ -41,27 +41,7 @@
       "url": "https://open.spotify.com/track/7EFFg3umzGzCnOIHG6Fr6V"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
-      "album": {
-        "name": "smetto quando voglio",
-        "url": "https://open.spotify.com/album/4PEpoNGuKNJ2a0rSNP6Jbb"
-      },
-      "artists": [
-        {
-          "name": "Sethu",
-          "url": "https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5"
-        },
-        {
-          "name": "Jiz",
-          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "smetto quando voglio",
-      "url": "https://open.spotify.com/track/694An7ujUB5QBYKSysXw8H"
-    },
-    {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Aranciata",
         "url": "https://open.spotify.com/album/58oNEAAdQ2eFvX2GZNBL8x"
@@ -77,7 +57,7 @@
       "url": "https://open.spotify.com/track/6Ytq1UqEa7M6JU3viWheCO"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "M'AMA NON M'AMA",
         "url": "https://open.spotify.com/album/3AtmmwCyWNlimeMrEC8rq7"
@@ -93,7 +73,39 @@
       "url": "https://open.spotify.com/track/62Fhtd4RS4ZJFeuIflGKyg"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
+      "album": {
+        "name": "R\u00c0RECHE",
+        "url": "https://open.spotify.com/album/5irYFPsqPMiV6ramtSx3al"
+      },
+      "artists": [
+        {
+          "name": "LA NI\u00d1A",
+          "url": "https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj"
+        }
+      ],
+      "duration_ms": 171360,
+      "name": "R\u00c0RECHE",
+      "url": "https://open.spotify.com/track/5jZOwQ089xk0b3UUPK9169"
+    },
+    {
+      "added_at": "2026-07-02 22:02:40",
+      "album": {
+        "name": "Sorry Scusa Lo Siento",
+        "url": "https://open.spotify.com/album/6fsms67vLncXwehxDegR5I"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 200134,
+      "name": "Sorry Scusa Lo Siento",
+      "url": "https://open.spotify.com/track/6Y1SibRCnVlbaa7dS8slzr"
+    },
+    {
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Da Dio",
         "url": "https://open.spotify.com/album/1XjzMjgg0ktZSGrUv3j1bs"
@@ -109,7 +121,7 @@
       "url": "https://open.spotify.com/track/7pzx95tPu1njhmM6IoR6Al"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "WHITE GIRL WASTED",
         "url": "https://open.spotify.com/album/1MdbSkPqc1AeqWJQBk3Weq"
@@ -125,7 +137,7 @@
       "url": "https://open.spotify.com/track/3d56FH7ZlHf9tjojZSwv8U"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "AMATORE",
         "url": "https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f"
@@ -145,7 +157,7 @@
       "url": "https://open.spotify.com/track/549DrPfwUQuZB3q53WQh1z"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/229v8g1TKywgdNKqoKYp4t"
@@ -161,7 +173,7 @@
       "url": "https://open.spotify.com/track/0Ldpmfvni7AO19NtpY2Xbq"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "SANTISSIMO",
         "url": "https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF"
@@ -181,7 +193,7 @@
       "url": "https://open.spotify.com/track/7lLSzMu2EKwIJ4co0sJSEe"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "SENZA FIATO",
         "url": "https://open.spotify.com/album/1SG8l9HK7JW4ECmURSPLVX"
@@ -197,23 +209,7 @@
       "url": "https://open.spotify.com/track/6CpzsTZfjcLBVLhCmEKI1v"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
-      "album": {
-        "name": "la ragazza che suonava il piano",
-        "url": "https://open.spotify.com/album/4TW1W2WwtayQV9HWXFDoUM"
-      },
-      "artists": [
-        {
-          "name": "prima stanza a destra",
-          "url": "https://open.spotify.com/artist/2mCfJF2n60STC46nVkhuq5"
-        }
-      ],
-      "duration_ms": 150093,
-      "name": "l'unico ricordo",
-      "url": "https://open.spotify.com/track/7LSt8i9gLiQbNulp92v46j"
-    },
-    {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Goodbye (rabbia, ti giuro, come stai)",
         "url": "https://open.spotify.com/album/2TlHQ2CyD17BEPeXC5cuim"
@@ -229,7 +225,7 @@
       "url": "https://open.spotify.com/track/36GWAY6ThW9k0dxQsvjXNA"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Amore Mio",
         "url": "https://open.spotify.com/album/16paxUbOzbSJPs21qcIDp7"
@@ -245,7 +241,7 @@
       "url": "https://open.spotify.com/track/7BeDxg0gxPargyAeyXiyfr"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "SENZA FIATO",
         "url": "https://open.spotify.com/album/0gZdzP3fDtPZmxZbf3iX6Z"
@@ -261,7 +257,7 @@
       "url": "https://open.spotify.com/track/5NPY05T2iSHZpGnK5f6tmS"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Tana",
         "url": "https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh"
@@ -277,7 +273,7 @@
       "url": "https://open.spotify.com/track/5kAqhOUfi3ku5jZREYRFti"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "OSSESSIONE",
         "url": "https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK"
@@ -297,7 +293,7 @@
       "url": "https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "il dolce ricordo della nostra disperata giovent\u00f9",
         "url": "https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD"
@@ -313,7 +309,23 @@
       "url": "https://open.spotify.com/track/39J4IyWQJWcBPU6tMnlD07"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
+      "album": {
+        "name": "Su x gi\u00f9",
+        "url": "https://open.spotify.com/album/3jBVpCL4ePAQp4dXTGf66x"
+      },
+      "artists": [
+        {
+          "name": "Giuse The Lizia",
+          "url": "https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK"
+        }
+      ],
+      "duration_ms": 194264,
+      "name": "Su x gi\u00f9",
+      "url": "https://open.spotify.com/track/4wGp5RxRZ5xNPsLMIWyzby"
+    },
+    {
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Obbligo o Verit\u00e0",
         "url": "https://open.spotify.com/album/2HwsJ4g5ieIAYDCBJzhiMG"
@@ -329,7 +341,7 @@
       "url": "https://open.spotify.com/track/42rkEnDZG3nErSDRDCHJeR"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "CALCINACCI",
         "url": "https://open.spotify.com/album/0idasMxjLcTfRitXmkvJ93"
@@ -345,7 +357,7 @@
       "url": "https://open.spotify.com/track/0RkFzXmEJzSv4Bu6YwZJx6"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "AMATORE",
         "url": "https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f"
@@ -369,7 +381,7 @@
       "url": "https://open.spotify.com/track/1KgUHU7VzyR7vq5ZwtgGaD"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Cascasse Il Duomo",
         "url": "https://open.spotify.com/album/4mNw3HYDZe49zSj0OO3NfE"
@@ -385,7 +397,7 @@
       "url": "https://open.spotify.com/track/6AFPE4sLD8DxQktt0tPf7v"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "CRAZY LOVE",
         "url": "https://open.spotify.com/album/6uCLDh7bl5WYHtTysllFOp"
@@ -405,7 +417,27 @@
       "url": "https://open.spotify.com/track/2KYWxo2C1Hg8oE579jc2eV"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
+      "album": {
+        "name": "smetto quando voglio",
+        "url": "https://open.spotify.com/album/4PEpoNGuKNJ2a0rSNP6Jbb"
+      },
+      "artists": [
+        {
+          "name": "Sethu",
+          "url": "https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "smetto quando voglio",
+      "url": "https://open.spotify.com/track/694An7ujUB5QBYKSysXw8H"
+    },
+    {
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "te non ci 6",
         "url": "https://open.spotify.com/album/4QfRRjyC5y0b421M248kB5"
@@ -421,7 +453,7 @@
       "url": "https://open.spotify.com/track/1DfOGGwDiLYPJVcdvXYV4H"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/1Zk8SeGbiblrofT1YgVpGP"
@@ -437,7 +469,7 @@
       "url": "https://open.spotify.com/track/0m11wpIhoeJl159Y8z78Cv"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Robina",
         "url": "https://open.spotify.com/album/7iofPm3WPwtrbdiwr7mMl0"
@@ -453,7 +485,7 @@
       "url": "https://open.spotify.com/track/2xxrn3RNEILOq300esEVXE"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "tu non vuoi nessuno",
         "url": "https://open.spotify.com/album/7nI3aZbxTT2xcDzvbMTp9Z"
@@ -469,7 +501,23 @@
       "url": "https://open.spotify.com/track/5BIjciSrUoa2sPirUFZsgr"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
+      "album": {
+        "name": "PAROLE AL VENTO",
+        "url": "https://open.spotify.com/album/4GUb7g0PDX2dBLGYVG96Oi"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        }
+      ],
+      "duration_ms": 177561,
+      "name": "PAROLE AL VENTO",
+      "url": "https://open.spotify.com/track/1hH3NZI3u7ripOZDu4HPA1"
+    },
+    {
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "WATERPROOF",
         "url": "https://open.spotify.com/album/2fEU0zMNnMwgvnayvExM5S"
@@ -489,7 +537,7 @@
       "url": "https://open.spotify.com/track/6CcUVqibJgJjNMl6TFfoO7"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Miss Italia",
         "url": "https://open.spotify.com/album/7HheU4nDcKmy9yVv02sGmL"
@@ -505,7 +553,7 @@
       "url": "https://open.spotify.com/track/3cDXvyqP0weh4a666mQNtu"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "AMATORE",
         "url": "https://open.spotify.com/album/0Put06lJPKgGFHmMntdV7f"
@@ -525,7 +573,7 @@
       "url": "https://open.spotify.com/track/3fr8SqIWgQfqZcFijWN4re"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Per Niente",
         "url": "https://open.spotify.com/album/1TwXTetpXgCL01gOUh0HIx"
@@ -541,7 +589,23 @@
       "url": "https://open.spotify.com/track/5PsGLywECNS5El8KEEjxEK"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
+      "album": {
+        "name": "MIGLIA",
+        "url": "https://open.spotify.com/album/1SkkyFd0rINYF4qIhQNN99"
+      },
+      "artists": [
+        {
+          "name": "43.Nove",
+          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+        }
+      ],
+      "duration_ms": 198897,
+      "name": "Formula 1",
+      "url": "https://open.spotify.com/track/44LEr0Wn872hRhOzjL3zeH"
+    },
+    {
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "punto g",
         "url": "https://open.spotify.com/album/0SjuhJroqP3NmQKhHFtxJa"
@@ -557,7 +621,7 @@
       "url": "https://open.spotify.com/track/2sqMq6LHcwdzPD60oAMeaD"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Ora Nona",
         "url": "https://open.spotify.com/album/59LL01psEwfrNAuDXThdg4"
@@ -573,7 +637,63 @@
       "url": "https://open.spotify.com/track/2Dr8MIlPxPFVpeKcjRkn5V"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
+      "album": {
+        "name": "Sto con Ferro",
+        "url": "https://open.spotify.com/album/4Ig2RnwxZN9NTs1JXwrD8A"
+      },
+      "artists": [
+        {
+          "name": "Wemme Flow",
+          "url": "https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny"
+        },
+        {
+          "name": "Sonni Uno",
+          "url": "https://open.spotify.com/artist/3IMvrBv5cuWJjb7GbwhMsq"
+        },
+        {
+          "name": "Zenit",
+          "url": "https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN"
+        }
+      ],
+      "duration_ms": 174358,
+      "name": "Sto con Ferro",
+      "url": "https://open.spotify.com/track/0lwVEZ62c56bODYXkgouNa"
+    },
+    {
+      "added_at": "2026-07-02 22:02:40",
+      "album": {
+        "name": "BORDERLINE",
+        "url": "https://open.spotify.com/album/7CUofE6kXDEF1gT8GiIGP0"
+      },
+      "artists": [
+        {
+          "name": "opi",
+          "url": "https://open.spotify.com/artist/2dApd5nlMJKpHGNUqWT1L2"
+        }
+      ],
+      "duration_ms": 147777,
+      "name": "Harley Quinn",
+      "url": "https://open.spotify.com/track/6A3G2m9kNhevjdJIC6ht6c"
+    },
+    {
+      "added_at": "2026-07-02 22:02:40",
+      "album": {
+        "name": "PRENDI LA MIRA E BASTA",
+        "url": "https://open.spotify.com/album/0csK30chHho12GO4HfYrnm"
+      },
+      "artists": [
+        {
+          "name": "KLAUS NOIR",
+          "url": "https://open.spotify.com/artist/49IamDbZMOj9GPux8Z4i9e"
+        }
+      ],
+      "duration_ms": 146774,
+      "name": "PRENDI LA MIRA E BASTA",
+      "url": "https://open.spotify.com/track/70FQOnXMKq3ZDUNPVJmeYR"
+    },
+    {
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/0piXGpmV6Xx0Vm542TsG0Q"
@@ -593,7 +713,7 @@
       "url": "https://open.spotify.com/track/1vwiqgddmKWo3Fqkk1UVqn"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "LOVE ME",
         "url": "https://open.spotify.com/album/58arh5Ywb3hxmzDReTVuyJ"
@@ -609,7 +729,7 @@
       "url": "https://open.spotify.com/track/6Xd1mqYyMIK9LWrGUciP80"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "SCORPIONE",
         "url": "https://open.spotify.com/album/0Fh9y5aOLOQ4xDlgw498eo"
@@ -629,7 +749,7 @@
       "url": "https://open.spotify.com/track/2GnoZvHQ7mNEljUvInZXpE"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "ONDA BLU",
         "url": "https://open.spotify.com/album/1OgyUFXElwsJCjzAtQPqqi"
@@ -645,7 +765,23 @@
       "url": "https://open.spotify.com/track/3DgaXWyyyn6A2vWmDpo2Gw"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
+      "album": {
+        "name": "Grattacieli",
+        "url": "https://open.spotify.com/album/3nwbXaTJOSrKHV1tfpOGzk"
+      },
+      "artists": [
+        {
+          "name": "Francesca Sevi",
+          "url": "https://open.spotify.com/artist/7ILGqAwMoLZMPOcRWykavM"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Grattacieli",
+      "url": "https://open.spotify.com/track/7keLzMGocBTJTcKo0fgpxo"
+    },
+    {
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Mi farei sparare (per trovare l'amore)",
         "url": "https://open.spotify.com/album/2HOZjzE1euhvpzKCgSMvQ9"
@@ -661,7 +797,7 @@
       "url": "https://open.spotify.com/track/1ImaKXYhMrRC1gAasVY6rf"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Solamente tu",
         "url": "https://open.spotify.com/album/5u8mNHSFnOs0CnEcrIuNi1"
@@ -677,7 +813,7 @@
       "url": "https://open.spotify.com/track/0aCCNqDZAoCP5TIGXrnh2e"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "CATALINA",
         "url": "https://open.spotify.com/album/7fqG8FHvN56MVDBZy08u1F"
@@ -697,7 +833,7 @@
       "url": "https://open.spotify.com/track/3oFDugsZh7LccP3xzhOvYe"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "non sto andando da nessuna parte",
         "url": "https://open.spotify.com/album/6zkzMxGBYWUxAojez4gRSU"
@@ -713,7 +849,7 @@
       "url": "https://open.spotify.com/track/4zkZy0r72BlBOR1tZWC9qz"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Non ci si ama solo in primavera",
         "url": "https://open.spotify.com/album/4O4w4WbUZvNxPZ2ijhHCdw"
@@ -729,7 +865,7 @@
       "url": "https://open.spotify.com/track/6P0Bmiv2zEEroMtD3cBrAk"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Stasera",
         "url": "https://open.spotify.com/album/6juP7dJMSaxA6XOvDn79Va"
@@ -749,7 +885,7 @@
       "url": "https://open.spotify.com/track/2Qcm0bkXHHP4PvrmTImdlo"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Gocce di Limone",
         "url": "https://open.spotify.com/album/4y6pS9mKNDr24VK42gilJK"
@@ -765,7 +901,7 @@
       "url": "https://open.spotify.com/track/0Dsds6g9icuWLzjZ26q2QR"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "dietro le stelle",
         "url": "https://open.spotify.com/album/5kNUUfrwDPLEeXSQ3ei70q"
@@ -781,7 +917,7 @@
       "url": "https://open.spotify.com/track/51dGbJWbyLKPyV9u8WoQ7K"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "TU MI PIACI TANTO",
         "url": "https://open.spotify.com/album/0fRRdNGgVZ1tiPjfDPlD8k"
@@ -805,7 +941,7 @@
       "url": "https://open.spotify.com/track/1ByC6cNyFHMIrqTDVf8Urf"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Gatti",
         "url": "https://open.spotify.com/album/0nbeL6zELxhyONSkTosGqA"
@@ -821,7 +957,7 @@
       "url": "https://open.spotify.com/track/7HdVSBG6fqXYyEbizxIQwJ"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "guerrilla",
         "url": "https://open.spotify.com/album/0hqO1ZuUvtDl7AycMEyC8p"
@@ -837,7 +973,7 @@
       "url": "https://open.spotify.com/track/6u27XZezH7efSRvQkQYH1K"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "NON MI CHIEDERE DI RESTARE",
         "url": "https://open.spotify.com/album/3q5EwEWlpIvbAOhAgEmrGJ"
@@ -853,7 +989,7 @@
       "url": "https://open.spotify.com/track/4i3kLmZTadLwFQZBRWIjpj"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "mai +",
         "url": "https://open.spotify.com/album/6Fo4IrWwMg38mXtoxiXWTB"
@@ -869,7 +1005,7 @@
       "url": "https://open.spotify.com/track/1WXgUq1MCu3gOhMAitw3J8"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "disco rotto",
         "url": "https://open.spotify.com/album/1cZkofOOV3yetYpHFO8kzL"
@@ -893,7 +1029,7 @@
       "url": "https://open.spotify.com/track/1U2b1Mh2tkxc6EbOKnaZQz"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Che fastidio!",
         "url": "https://open.spotify.com/album/1sIUqfQsBmRIlSmhDnkB0u"
@@ -909,7 +1045,7 @@
       "url": "https://open.spotify.com/track/1k3pzheXrbtHgvvOsQeMkU"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Atlantide (from the Netflix film \u201cNon abbiam bisogno di parole\u201d)",
         "url": "https://open.spotify.com/album/4UMfdw3HSm7SeWurM5fgok"
@@ -925,7 +1061,7 @@
       "url": "https://open.spotify.com/track/57KzV95Th155vud4KmLqLN"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Act III: Ti guardo / Do You Want it? / Nessuno come te",
         "url": "https://open.spotify.com/album/4j5Wcyvab3eB5oSGjkCYjJ"
@@ -941,7 +1077,7 @@
       "url": "https://open.spotify.com/track/3JRy0SB3nA8ReiGcLKVJm3"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "California mediterranea",
         "url": "https://open.spotify.com/album/0Xc419MxKwQok6BoBXD9U7"
@@ -957,7 +1093,7 @@
       "url": "https://open.spotify.com/track/1n2Y4UUAyeHCwVsGf3jEgx"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Affogare in acque amiche",
         "url": "https://open.spotify.com/album/5F2kSi2GtRppSODIp96ODX"
@@ -973,7 +1109,7 @@
       "url": "https://open.spotify.com/track/5JwSMoUHbLk5jMojwXJRD1"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/5siUBN5orlCphWK9AMxgJ9"
@@ -989,7 +1125,7 @@
       "url": "https://open.spotify.com/track/5YF7DGsobUiG5SzvJ3FH7F"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Irrecuperabile (feat. Ermal Meta)",
         "url": "https://open.spotify.com/album/7IuYVPDOBdMc385R8kERVZ"
@@ -1009,7 +1145,7 @@
       "url": "https://open.spotify.com/track/3lIPaUNQjz4wS8jW8j2Jsf"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "ZERO DRAMA",
         "url": "https://open.spotify.com/album/5aNXaNv8aatFXnJ60pmUkh"
@@ -1029,7 +1165,7 @@
       "url": "https://open.spotify.com/track/0rOW3sgu5lyphtsibz1sQ0"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "TI HO VISTO ENTRARE NELLA MIA VITA",
         "url": "https://open.spotify.com/album/12l8jpz0HIffBdQZjHJNRN"
@@ -1045,7 +1181,7 @@
       "url": "https://open.spotify.com/track/01zwb3TqJG9A6rZlxBsoiF"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Fascistissime (con Tutti Fenomeni)",
         "url": "https://open.spotify.com/album/052LfiaiYvnnV8rBygQyOl"
@@ -1065,7 +1201,7 @@
       "url": "https://open.spotify.com/track/55mudLy5uajbzC2jfDnipo"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "BABY BANANA",
         "url": "https://open.spotify.com/album/3ehegyncFwhNrQzMTXU23f"
@@ -1089,7 +1225,7 @@
       "url": "https://open.spotify.com/track/52et5l2RCMKC4wcRgtwLZv"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Roma mi vuoi bene",
         "url": "https://open.spotify.com/album/4lX67hqIsSGtXpyXnq4snw"
@@ -1105,7 +1241,7 @@
       "url": "https://open.spotify.com/track/0IivL40udxE62iThmodCYU"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "RADIO LIBERATO",
         "url": "https://open.spotify.com/album/3yrz1WE1LgTBTXJzLW7pd6"
@@ -1125,7 +1261,7 @@
       "url": "https://open.spotify.com/track/0IeBpmyCLOSdvDMqsgxM7q"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "DISINCANTO",
         "url": "https://open.spotify.com/album/5uUhwToRipr5CJerXxNz8K"
@@ -1141,7 +1277,7 @@
       "url": "https://open.spotify.com/track/4lxrVDGmkUTivSFDylC26Z"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Ora d'aria",
         "url": "https://open.spotify.com/album/2VvPKwIsIA9YeERq4ijr1G"
@@ -1157,7 +1293,7 @@
       "url": "https://open.spotify.com/track/4ldjglZiJZLsXbYwy2F4wJ"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Fuori dai club",
         "url": "https://open.spotify.com/album/4bjmH3BjCCBa76ppWoZQ7p"
@@ -1173,7 +1309,7 @@
       "url": "https://open.spotify.com/track/5VsSViJxzisps3s74WI3VP"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "chi me l'ha fatto fare",
         "url": "https://open.spotify.com/album/7BCsu7yLJlA7AwbSWvcv3Q"
@@ -1189,7 +1325,7 @@
       "url": "https://open.spotify.com/track/5ZZK9Wvwc555cD6b6wFHLY"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Scappi",
         "url": "https://open.spotify.com/album/5uOtODPniyQ78W5sn6KsIN"
@@ -1205,7 +1341,7 @@
       "url": "https://open.spotify.com/track/74QnhKI6fr33OfqS7jQeLH"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Mediterraneo (Dopo il Mare)",
         "url": "https://open.spotify.com/album/4OaPU3DM8Mr7yOnVPXeCuh"
@@ -1221,7 +1357,7 @@
       "url": "https://open.spotify.com/track/3L9wipeeSlOjBGHVJyykhd"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Gioielli Neri",
         "url": "https://open.spotify.com/album/6tNSiiQ7xp1an19SzdFRQt"
@@ -1237,7 +1373,7 @@
       "url": "https://open.spotify.com/track/1RwFjtqHnZAlVbZmupmSkK"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "TU ME QUE",
         "url": "https://open.spotify.com/album/0XqLmm5MohTZ6C8QTdRyNj"
@@ -1257,7 +1393,7 @@
       "url": "https://open.spotify.com/track/1QADSwIqwagfd2UMRzY68H"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Aiuto!",
         "url": "https://open.spotify.com/album/1qNpqM25KdSh1atXEji6cb"
@@ -1273,7 +1409,7 @@
       "url": "https://open.spotify.com/track/6fBGeFwDXuR4sJ8lG9xBXG"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "ANCORA CC\u00c0",
         "url": "https://open.spotify.com/album/3W3ahqAu9dz8YOcUMJSZ4s"
@@ -1289,7 +1425,7 @@
       "url": "https://open.spotify.com/track/0YVQYUNm8x8bHCg9bKcJMY"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "OMBRA AL SOLE",
         "url": "https://open.spotify.com/album/4DhZX7IbvjxAQspYmRbA22"
@@ -1309,7 +1445,7 @@
       "url": "https://open.spotify.com/track/4Ca2HsMObWWXr64bi8oc91"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Scintille",
         "url": "https://open.spotify.com/album/4ZIa78n4qGSHudQnp4SMes"
@@ -1325,7 +1461,7 @@
       "url": "https://open.spotify.com/track/0bFh6PzFx4myg4fegZ447C"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Un Bel Casino",
         "url": "https://open.spotify.com/album/7IDEKTMviDwAp2sDpzToBG"
@@ -1341,7 +1477,7 @@
       "url": "https://open.spotify.com/track/3qXwghIzrCe8io8SYGfiWz"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Io tu lei lui",
         "url": "https://open.spotify.com/album/75sgiq4mJQ9yetWJNv2HWd"
@@ -1357,7 +1493,7 @@
       "url": "https://open.spotify.com/track/2Ml2ScloFiOMlK2ixg9vnU"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "IMMAGINAZIONE PURA",
         "url": "https://open.spotify.com/album/6TT8ZC4NVrEhpL3UG1x1Mw"
@@ -1373,7 +1509,7 @@
       "url": "https://open.spotify.com/track/3iXFbd9GvQg56NdHSWAJBE"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "AMORE X3",
         "url": "https://open.spotify.com/album/2KH9ZGfmNFUP3NYcW1gvL7"
@@ -1389,7 +1525,7 @@
       "url": "https://open.spotify.com/track/60O9RVj2LGZuLQrFepZ9v4"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "fuochi d'artificio",
         "url": "https://open.spotify.com/album/5jvTmLOpJ3JnQzldb0inNQ"
@@ -1409,7 +1545,7 @@
       "url": "https://open.spotify.com/track/0SnPvhpVF3iackU6yX7Fc3"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Nostrissimi Momenti",
         "url": "https://open.spotify.com/album/0ZAf34kub3EunezI1fbZLu"
@@ -1425,7 +1561,7 @@
       "url": "https://open.spotify.com/track/3RD0cMmoA3ZJR4SSUIEt6k"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "olio di cocco (feat Miast\u00f9)",
         "url": "https://open.spotify.com/album/32ag8UTrsRbbKeCzEoLz48"
@@ -1445,7 +1581,7 @@
       "url": "https://open.spotify.com/track/0zJHoWhFScT1w6fkxAd1Za"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/5wLTEEwgrfC3jtQ7PYjOQX"
@@ -1461,7 +1597,7 @@
       "url": "https://open.spotify.com/track/0B0Zfc6F9TXAwb9y8Zix6B"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Istruzioni",
         "url": "https://open.spotify.com/album/5lzeimyJ2yLa7B6lz77VE0"
@@ -1477,7 +1613,7 @@
       "url": "https://open.spotify.com/track/0s0PMCHKuqZrnypRt2a44D"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Piume",
         "url": "https://open.spotify.com/album/1pA2qbqQGtEVTaOIzXUzGG"
@@ -1493,7 +1629,7 @@
       "url": "https://open.spotify.com/track/3e6NpgKdxjOhzjJPVReisy"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "I NOSTRI ANNI BELLISSIMI",
         "url": "https://open.spotify.com/album/6ZmiAU158DbYNq9vxkmgp3"
@@ -1509,7 +1645,7 @@
       "url": "https://open.spotify.com/track/2f4CbyefNHxmqpC717xNbs"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "sabato sera (feat. Enrico Nigiotti)",
         "url": "https://open.spotify.com/album/0JPqbUEKqS5oDwQn4WqN74"
@@ -1529,23 +1665,7 @@
       "url": "https://open.spotify.com/track/4KVkqDpNaSW9av9kKPRMoe"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
-      "album": {
-        "name": "un'ora",
-        "url": "https://open.spotify.com/album/6CjsMl52J6wT6icErsSQDB"
-      },
-      "artists": [
-        {
-          "name": "fluente",
-          "url": "https://open.spotify.com/artist/6l4tbTRTSxsnEubYgnd2u9"
-        }
-      ],
-      "duration_ms": 179212,
-      "name": "un'ora",
-      "url": "https://open.spotify.com/track/7MkxEWKTLTxpJH4N3xBZfc"
-    },
-    {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "solo un uomo",
         "url": "https://open.spotify.com/album/5QPVLyAN2j6g1lliuvuaz4"
@@ -1561,7 +1681,7 @@
       "url": "https://open.spotify.com/track/1fCl4CsvGV6PqPG9Y7hGqe"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "Strega Comanda",
         "url": "https://open.spotify.com/album/20yiJvjwK9Qm02fmtyuxKx"
@@ -1577,39 +1697,7 @@
       "url": "https://open.spotify.com/track/40F8nRyZUKKg2R80BtQ6cV"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
-      "album": {
-        "name": "Sweet Panorama",
-        "url": "https://open.spotify.com/album/20mUgc86HD7BsTvjtrHDO7"
-      },
-      "artists": [
-        {
-          "name": "Emma Muscat",
-          "url": "https://open.spotify.com/artist/112CaF6ayJD0CIe64FjhhX"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Sweet Panorama",
-      "url": "https://open.spotify.com/track/2BOL025Qdl4IU0o48irbED"
-    },
-    {
-      "added_at": "2026-06-25 22:02:48",
-      "album": {
-        "name": "PENSAMI + FORTE",
-        "url": "https://open.spotify.com/album/7bVQZGfsaoNASKRS9H8Hlp"
-      },
-      "artists": [
-        {
-          "name": "Elteep",
-          "url": "https://open.spotify.com/artist/0eoUjdIgU7Heid0Mv3EjLB"
-        }
-      ],
-      "duration_ms": 143863,
-      "name": "PENSAMI + FORTE",
-      "url": "https://open.spotify.com/track/68YhFfjXOORniqsSL1wCPT"
-    },
-    {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "per un attimo",
         "url": "https://open.spotify.com/album/1DgcoWogDVwK01roxXn5IW"
@@ -1625,71 +1713,7 @@
       "url": "https://open.spotify.com/track/3fQHuM9tZX1FaOCqLCEEGP"
     },
     {
-      "added_at": "2026-06-25 22:02:48",
-      "album": {
-        "name": "Ossessivo Compulsivo",
-        "url": "https://open.spotify.com/album/0dMtwh2pnLkRaiA906MAgJ"
-      },
-      "artists": [
-        {
-          "name": "AyEm",
-          "url": "https://open.spotify.com/artist/6EmlTOLU2nKoltjhXC1oqS"
-        }
-      ],
-      "duration_ms": 135555,
-      "name": "Ossessivo Compulsivo",
-      "url": "https://open.spotify.com/track/6CuJknQ8PaMHOzXw0P74mn"
-    },
-    {
-      "added_at": "2026-06-25 22:02:48",
-      "album": {
-        "name": "passo a due",
-        "url": "https://open.spotify.com/album/7zH9zdtnUu3V10l6QmckvP"
-      },
-      "artists": [
-        {
-          "name": "Alec Temple",
-          "url": "https://open.spotify.com/artist/0vRy2jN13Cf9RzO9yt5p4k"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "passo a due",
-      "url": "https://open.spotify.com/track/7J1GcVSFbtweVTdRjR1Wrc"
-    },
-    {
-      "added_at": "2026-06-25 22:02:48",
-      "album": {
-        "name": "\u00bfme o te?",
-        "url": "https://open.spotify.com/album/5LwF0db7EfOBsUwycyK6iB"
-      },
-      "artists": [
-        {
-          "name": "Najma",
-          "url": "https://open.spotify.com/artist/0XqMXRWagj3oufGzaSBCqk"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "\u00bfme o te?",
-      "url": "https://open.spotify.com/track/7gpYnizh2jOTnFWKNQcNT9"
-    },
-    {
-      "added_at": "2026-06-25 22:02:48",
-      "album": {
-        "name": "Grafite",
-        "url": "https://open.spotify.com/album/7hkITURNk7GvgS3hzjXrpy"
-      },
-      "artists": [
-        {
-          "name": "JANAKI",
-          "url": "https://open.spotify.com/artist/5x9yExrQoWWxIruKCWIMip"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Grafite",
-      "url": "https://open.spotify.com/track/6xD5G4nPobgMmu0CsiOP8m"
-    },
-    {
-      "added_at": "2026-06-25 22:02:48",
+      "added_at": "2026-07-02 22:02:40",
       "album": {
         "name": "VAFFA*AMORE",
         "url": "https://open.spotify.com/album/46jdR3PctmC8zIu06hpvt8"
@@ -1703,22 +1727,6 @@
       "duration_ms": 174762,
       "name": "VAFFA*AMORE",
       "url": "https://open.spotify.com/track/64OZcsJXegk5359S2nCe9D"
-    },
-    {
-      "added_at": "2026-06-25 22:02:48",
-      "album": {
-        "name": "Nn So + Che Effetto fa",
-        "url": "https://open.spotify.com/album/5wA74yb43n7RA3504INQy2"
-      },
-      "artists": [
-        {
-          "name": "Yaraki",
-          "url": "https://open.spotify.com/artist/6NEJLQRMkIN8ud5ng05XIX"
-        }
-      ],
-      "duration_ms": 148385,
-      "name": "Nn So + Che Effetto fa",
-      "url": "https://open.spotify.com/track/2UcYbqv0DqmamHU2ZesV5i"
     }
   ],
   "unique_name": "nuovo pop \ud83c\uddee\ud83c\uddf9",

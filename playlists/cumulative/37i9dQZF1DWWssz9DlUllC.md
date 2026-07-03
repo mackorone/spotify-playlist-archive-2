@@ -2,9 +2,9 @@
 
 ### [afro\-piano](https://open.spotify.com/playlist/37i9dQZF1DWWssz9DlUllC)
 
-> Where afrobeats meets amapiano.<br/>Cover:  Wande Coal
+> Where afrobeats meets amapiano.<br/>Cover:  Amaeya
 
-193 songs - 9 hr 26 min
+194 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Bad Guyz](https://open.spotify.com/track/2ldT01LXWYnfhqnwidnEgG) | [Champz](https://open.spotify.com/artist/2fZXMOwo3wPF5TcA48sKKs), [Paranormal Dj](https://open.spotify.com/artist/6bKy2XbvM7GiQJjzxZsy68) | [Young Poet](https://open.spotify.com/album/0nHn9AApVFtQ0exBt9Gf4Q) | 2:35 | 2026-03-20 |  |
 | [Baddi Ah](https://open.spotify.com/track/2cwXgbiBHguLs0gxjxjj8a) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [CIZA](https://open.spotify.com/artist/71hPkbyih5bdlHVPBgav33), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Tripcy](https://open.spotify.com/artist/5O7sGyn3CPojVAPQAtVApn), [Mega EJ](https://open.spotify.com/artist/0sac58AQB9s0LOKuzxZ4LO), [P.M.F](https://open.spotify.com/artist/4Q3f5yoExJeuxMn9ahhXDX) | [Baddi Ah](https://open.spotify.com/album/1WYAWx6W9tjCtzjiIsLkNV) | 3:48 | 2025-12-19 | 2026-03-17 |
 | [Bank Alert](https://open.spotify.com/track/4wEpSkZ9V6CNZu8gwiOw1a) | [Muyeez](https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6), [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [Bank Alert](https://open.spotify.com/album/6gbIE8I2TYRVU23PoIltaS) | 2:22 | 2026-04-17 |  |
+| [BE](https://open.spotify.com/track/2RMChoPeNN7CaPUD4QfsED) | [Amaeya](https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56) | [BE](https://open.spotify.com/album/6A8NgDp8BJR3tZEi268RiP) | 2:34 | 2026-07-03 |  |
 | [Be There Still](https://open.spotify.com/track/5hohPxxNfGRbW0PG2R0mhd) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Be There Still](https://open.spotify.com/album/5VcdmNX0QGqDLPscRygfeL) | 3:15 | 2025-10-24 | 2026-03-17 |
 | [Beautiful](https://open.spotify.com/track/1xHsqXJ8WZmPFvBELDxmzD) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Metal Hearts](https://open.spotify.com/album/6b8wauCqk5Qspur5xLizjQ) | 3:32 | 2025-11-14 | 2025-12-05 |
 | [Belinda](https://open.spotify.com/track/03pv8d28pqb7edfT6JvwzD) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Belinda](https://open.spotify.com/album/2o0OJkBfmEt8CzHRAXfyO3) | 3:17 | 2025-11-07 | 2025-12-05 |
@@ -183,7 +184,7 @@
 | [Slogodo](https://open.spotify.com/track/5WQnzL9Phe9clUJ9lKSGEQ) | [St\. Seii](https://open.spotify.com/artist/3WchDhIvtJqPB9zIVk48SV) | [Slogodo](https://open.spotify.com/album/3Z78cjTSFtGrt51uLa6OGS) | 2:18 | 2026-02-20 | 2026-03-06 |
 | [Something Something \- Remix](https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3) | [Tspykes](https://open.spotify.com/artist/04qW0qIvhP5JIUU8z34uaw), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [Something Something \(Remix\)](https://open.spotify.com/album/6jPutLhafLfSu78EZkqfZs) | 2:57 | 2025-12-05 | 2025-12-11 |
 | [SORRY IM NOT SORRY](https://open.spotify.com/track/4pLRyM0kyB3neTK4O9s1dj) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [SORRY IM NOT SORRY](https://open.spotify.com/album/2oPOFm0L1MvMeBwJZwXnv2) | 2:11 | 2025-12-12 |  |
-| [Speed](https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed](https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo) | 2:54 | 2025-11-14 |  |
+| [Speed](https://open.spotify.com/track/5NzJQcALCxkwV8BUrFUtDS) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Speed](https://open.spotify.com/album/5I386VD2f5rXpvuKwzmxBo) | 2:54 | 2025-11-14 | 2026-07-03 |
 | [Stack](https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd), [Jenerall](https://open.spotify.com/artist/3hbTC1Tq9rBt0w7Bf2Ln6x), [Tega Boi Dc](https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M) | [ROAD TO PARATI](https://open.spotify.com/album/4hrsqASn4jdNwpEB3xhq2f) | 2:52 | 2026-03-27 |  |
 | [STATE OF MIND](https://open.spotify.com/track/6jHxHUv9jF1ss5NAkG6JPo) | [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [STATE OF MIND](https://open.spotify.com/album/5qTP3Akjr05OV0ZdSH7Mcx) | 3:12 | 2026-05-18 |  |
 | [Stronger](https://open.spotify.com/track/4KZMoDuxwSYP63bhbnMqe3) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:21 | 2025-10-24 |  |

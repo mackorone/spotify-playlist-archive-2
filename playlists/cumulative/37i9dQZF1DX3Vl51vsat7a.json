@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Magda",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Lina-Mariah",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 198500,
       "name": "35",
       "url": "https://open.spotify.com/track/1ZFuZQo00dMlO9TD6oXAMi"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 148000,
       "name": "50 stufen grau",
       "url": "https://open.spotify.com/track/5byb8ihCSCwtDnmCxjJl2q"
@@ -2763,6 +2763,24 @@
     },
     {
       "album": {
+        "name": "erst recht",
+        "url": "https://open.spotify.com/album/2y0yqDdEMm3TcX4CGODbTC"
+      },
+      "artists": [
+        {
+          "name": "Maiva",
+          "url": "https://open.spotify.com/artist/5DluYS6gq7pRws9o6EgVd5"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163995,
+      "name": "erst recht",
+      "url": "https://open.spotify.com/track/0ZKIhZ5jljuJLbRCK5H9Ky"
+    },
+    {
+      "album": {
         "name": "Explaining Men",
         "url": "https://open.spotify.com/album/1X8ehV7zFRKkN46jp4ZYdo"
       },
@@ -2846,7 +2864,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 164002,
       "name": "Feel Myself",
       "url": "https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99"
@@ -3261,6 +3279,24 @@
     },
     {
       "album": {
+        "name": "gespenst",
+        "url": "https://open.spotify.com/album/3gPpx1Da0u90mR0WhEsfqb"
+      },
+      "artists": [
+        {
+          "name": "emma",
+          "url": "https://open.spotify.com/artist/51ieLxbDHuLCPctHogtVQw"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139296,
+      "name": "gespenst",
+      "url": "https://open.spotify.com/track/65pvdGSYLDAhUKrArfi0WR"
+    },
+    {
+      "album": {
         "name": "get better!",
         "url": "https://open.spotify.com/album/44DDyYBv1WXPKfStRoCXPl"
       },
@@ -3582,6 +3618,24 @@
       "duration_ms": 219162,
       "name": "HAPPY NEVER AFTER",
       "url": "https://open.spotify.com/track/3o3gTvHOGeBqyzS0PtraTH"
+    },
+    {
+      "album": {
+        "name": "I Feel Like Shit And It's All Your Fault",
+        "url": "https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn"
+      },
+      "artists": [
+        {
+          "name": "Lina-Mariah",
+          "url": "https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177236,
+      "name": "Hate My Mom",
+      "url": "https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O"
     },
     {
       "album": {
@@ -3914,7 +3968,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 159315,
       "name": "I Don't Wanna Go!",
       "url": "https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0"
@@ -4178,6 +4232,24 @@
       "duration_ms": 200752,
       "name": "I'm Boring",
       "url": "https://open.spotify.com/track/40Xc96R5OS3s0zacs6wPte"
+    },
+    {
+      "album": {
+        "name": "i'm not here for you",
+        "url": "https://open.spotify.com/album/28FKhG2juuloRcJE3uA5xq"
+      },
+      "artists": [
+        {
+          "name": "Malou Lovis",
+          "url": "https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "i'm not here for you",
+      "url": "https://open.spotify.com/track/6klzatwC5cmgTCzQ1n1o31"
     },
     {
       "album": {
@@ -9530,7 +9602,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 137240,
       "name": "Worst Day",
       "url": "https://open.spotify.com/track/34WEgaMkqYHT9316Pf9gxT"
@@ -9834,6 +9906,24 @@
       "duration_ms": 204367,
       "name": "Zwei Menschen",
       "url": "https://open.spotify.com/track/1XB2S5i8oJKiCq1ABLJeYz"
+    },
+    {
+      "album": {
+        "name": "Zwilling",
+        "url": "https://open.spotify.com/album/2kZQkjTic3M1mG1dVIB0Av"
+      },
+      "artists": [
+        {
+          "name": "Souly",
+          "url": "https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104709,
+      "name": "Zwilling",
+      "url": "https://open.spotify.com/track/28eswYbPQEl1dCvxz5lWQc"
     },
     {
       "album": {

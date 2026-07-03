@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > tasha on the cover <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,486 likes - 146 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,502 likes - 146 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

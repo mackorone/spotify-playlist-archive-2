@@ -1,6 +1,6 @@
 {
   "description": "Nowe przeboje i ponadczasowe klasyki o  mi\u0142o\u015bci. Tylko po polsku.",
-  "num_followers": 75803,
+  "num_followers": 75811,
   "original_name": "Polskie hity o mi\u0142o\u015bci",
   "owner": {
     "name": "Spotify",
@@ -791,18 +791,18 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Nic dwa razy (W. Szymborska)",
-        "url": "https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t"
+        "name": "Ma\u0142omiasteczkowy",
+        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
       },
       "artists": [
         {
-          "name": "sanah",
-          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Nic dwa razy (W. Szymborska)",
-      "url": "https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1"
+      "duration_ms": 195666,
+      "name": "Nie K\u0142ami",
+      "url": "https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -827,6 +827,22 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
+        "name": "Nic dwa razy (W. Szymborska)",
+        "url": "https://open.spotify.com/album/3gZB6h09sZvWlhzZaqtf6t"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Nic dwa razy (W. Szymborska)",
+      "url": "https://open.spotify.com/track/6C5A0xV8tvW8NqzLUb2xt1"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
         "name": "Wkr\u0119ceni nie ufaj mi",
         "url": "https://open.spotify.com/album/6LrjH2C1uuYPgqktMpKcWU"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 178725,
       "name": "Wkr\u0119ceni nie ufaj mi",
       "url": "https://open.spotify.com/track/4Wjdk72dzEOynrdTQGBac8"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
-        "name": "Ma\u0142omiasteczkowy",
-        "url": "https://open.spotify.com/album/00hXe7ttZI4gjjWYqKAdMX"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Nie K\u0142ami",
-      "url": "https://open.spotify.com/track/3FwWzOCkDwhu1RWTz3CSxJ"
     },
     {
       "added_at": "2025-10-16 09:34:51",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2025-10-16 09:34:51",
       "album": {
-        "name": "Ksiega Urodzaju",
-        "url": "https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr"
-      },
-      "artists": [
-        {
-          "name": "Marcin Rozynek",
-          "url": "https://open.spotify.com/artist/0K0Sa7amVwCmQKz7ZHRRim"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Silacz",
-      "url": "https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9"
-    },
-    {
-      "added_at": "2025-10-16 09:34:51",
-      "album": {
         "name": "Kayah & Bregovic",
         "url": "https://open.spotify.com/album/20ewUNNrxkKjMgNd2Ax7lX"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 271760,
       "name": "\u015apij Kochanie \u015apij",
       "url": "https://open.spotify.com/track/77ppwEoKPhNZx8h3Nskr7H"
+    },
+    {
+      "added_at": "2025-10-16 09:34:51",
+      "album": {
+        "name": "Ksiega Urodzaju",
+        "url": "https://open.spotify.com/album/5OWhE19fiFeQLFY9mD0UQr"
+      },
+      "artists": [
+        {
+          "name": "Marcin Rozynek",
+          "url": "https://open.spotify.com/artist/0K0Sa7amVwCmQKz7ZHRRim"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Silacz",
+      "url": "https://open.spotify.com/track/2anIL8mQb31ZlxLMEjwhG9"
     },
     {
       "added_at": "2025-10-16 09:34:51",

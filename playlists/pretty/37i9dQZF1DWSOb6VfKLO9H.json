@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 109709,
+  "num_followers": 109728,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,18 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Jonathan",
-        "url": "https://open.spotify.com/album/3ldx38ztwhkyPeKH8fuYVK"
+        "name": "Hella Cash",
+        "url": "https://open.spotify.com/album/2WZfGDZheVpQX8DweaJayk"
       },
       "artists": [
         {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
         }
       ],
-      "duration_ms": 205243,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/5bznfV59JXjzobL625Da2v"
+      "duration_ms": 175663,
+      "name": "Catch Up",
+      "url": "https://open.spotify.com/track/34IUrlhbMSYf5tniU2kHJF"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -435,18 +431,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Hella Cash",
-        "url": "https://open.spotify.com/album/2WZfGDZheVpQX8DweaJayk"
+        "name": "Jonathan",
+        "url": "https://open.spotify.com/album/3ldx38ztwhkyPeKH8fuYVK"
       },
       "artists": [
         {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
         }
       ],
-      "duration_ms": 175663,
-      "name": "Catch Up",
-      "url": "https://open.spotify.com/track/34IUrlhbMSYf5tniU2kHJF"
+      "duration_ms": 205243,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/5bznfV59JXjzobL625Da2v"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1203,6 +1203,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Gimma",
+        "url": "https://open.spotify.com/album/5ATCipUwa5czhdXxJWLMRh"
+      },
+      "artists": [
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        },
+        {
+          "name": "Mula B",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        },
+        {
+          "name": "Yung Felix",
+          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
+        }
+      ],
+      "duration_ms": 148428,
+      "name": "Waarom Zoeken Naar Liefde",
+      "url": "https://open.spotify.com/track/7xprYJg18VvGOXqg8RgHau"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "IDALY",
         "url": "https://open.spotify.com/album/1UFy580iiYLKbgqjVEMzSA"
       },
@@ -1227,30 +1251,6 @@
       "duration_ms": 225175,
       "name": "wine slow - remix",
       "url": "https://open.spotify.com/track/0zhMdm2j0y1NmJAQN3GhsZ"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Gimma",
-        "url": "https://open.spotify.com/album/5ATCipUwa5czhdXxJWLMRh"
-      },
-      "artists": [
-        {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
-        },
-        {
-          "name": "Mula B",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        },
-        {
-          "name": "Yung Felix",
-          "url": "https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu"
-        }
-      ],
-      "duration_ms": 148428,
-      "name": "Waarom Zoeken Naar Liefde",
-      "url": "https://open.spotify.com/track/7xprYJg18VvGOXqg8RgHau"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1511,30 +1511,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE"
-      },
-      "artists": [
-        {
-          "name": "Frenna",
-          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
-        },
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        },
-        {
-          "name": "Emms",
-          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
-        }
-      ],
-      "duration_ms": 243024,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/6FsZjiiklXIG1XvveAuOKF"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Reloaded",
         "url": "https://open.spotify.com/album/17XPSLkKR1xQKTgXpNJqOu"
       },
@@ -1555,6 +1531,30 @@
       "duration_ms": 184421,
       "name": "Op De Weg (feat. Adje & CHO)",
       "url": "https://open.spotify.com/track/7D973n9XquEXreSZOvAhOs"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "My Love",
+        "url": "https://open.spotify.com/album/2hq9K0REN6y1rvK3f1MEeE"
+      },
+      "artists": [
+        {
+          "name": "Frenna",
+          "url": "https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        }
+      ],
+      "duration_ms": 243024,
+      "name": "My Love",
+      "url": "https://open.spotify.com/track/6FsZjiiklXIG1XvveAuOKF"
     },
     {
       "added_at": "2024-07-19 06:38:33",

@@ -2,14 +2,15 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : RnBoi
+> Le R&B français, nouvelle ère\. Photo : Aya Nakamura
 
-744 songs - 1 day 11 hr 3 min
+746 songs - 1 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1 Minute](https://open.spotify.com/track/7LhktSmPFZ2NT5CJlBZftB) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb), [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [1 Minute](https://open.spotify.com/album/0rwmRwc7DQwZi55PLPOiGK) | 3:06 | 2024-11-21 | 2025-04-04 |
 | [1h55](https://open.spotify.com/track/36kPlvgOwqbdMqMyeioRJN) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 3:47 | 2025-08-14 | 2025-11-21 |
+| [2 min](https://open.spotify.com/track/7J8OTRdXb6noyWoKwlnjk6) | [Fallon](https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I) | [2 min](https://open.spotify.com/album/54GJMDQ2ahSAxe3lmCq9qg) | 2:33 | 2026-07-02 |  |
 | [20ème symphonie](https://open.spotify.com/track/2DQOu0QGjeRPJ8NzyUO4l2) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [20ème symphonie](https://open.spotify.com/album/441i6kpJyPZw9A0zAd5Eqd) | 2:15 | 2023-02-23 | 2023-03-18 |
 | [21](https://open.spotify.com/track/0UzGB980ZKeN3J5SfqKi2B) | [HARON](https://open.spotify.com/artist/7z43TluM9EYBKS5io7OYVr) | [21](https://open.spotify.com/album/6siQKB9fIqYJYerGT2lgIC) | 2:01 | 2026-03-05 | 2026-04-10 |
 | [3AM in San Francisco](https://open.spotify.com/track/1fHl2iP3wNPBVIj6RUjXue) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [3AM in San Francisco](https://open.spotify.com/album/4pSkt6nxEHn3LBrKf6XpQ2) | 2:26 | 2025-11-06 | 2025-12-05 |
@@ -86,7 +87,7 @@
 | [Bourbier](https://open.spotify.com/track/590mLwj3O9Jg2wc5qOlc44) | [Davy One](https://open.spotify.com/artist/3QCQdyKtg9Yx1rYYnMb7pz), [Liim’s](https://open.spotify.com/artist/2XpsF0ZQfBV08auUoRnNJE) | [Prémices](https://open.spotify.com/album/0923F8kfzpouUmutVzceuH) | 3:06 | 2022-11-24 | 2022-12-16 |
 | [BOUT DU MONDE](https://open.spotify.com/track/2pqYrkOIjpN2Yh6ScE715H) | [Fallon](https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I), [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [WINTER PRINCESS](https://open.spotify.com/album/6Vm796gOTerZXdEIY9SWOo) | 3:15 | 2026-02-26 | 2026-04-24 |
 | [BPM](https://open.spotify.com/track/35y5UFEPUZ6jTwGV6e160l) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [BPM](https://open.spotify.com/album/6QGicMRG9TIxpTqmkRWCvu) | 3:19 | 2025-08-28 | 2025-12-12 |
-| [Brisé](https://open.spotify.com/track/2rY0g6mJFSAGjs14SEwaA8) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Brisé](https://open.spotify.com/album/02zU6q3K8vjk24dpE4Ubae) | 3:06 | 2026-05-07 |  |
+| [Brisé](https://open.spotify.com/track/2rY0g6mJFSAGjs14SEwaA8) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX) | [Brisé](https://open.spotify.com/album/02zU6q3K8vjk24dpE4Ubae) | 3:06 | 2026-05-07 | 2026-07-03 |
 | [Brûler](https://open.spotify.com/track/1ruP1lNZ6OqgEm4oPsjz4G) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [Brûler](https://open.spotify.com/album/3DXrpHTK1QllgmpJ3RGeR8) | 2:50 | 2023-03-09 | 2023-05-05 |
 | [Buggy](https://open.spotify.com/track/1tdw03JuoGckGhRhHXP3PY) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Buggy](https://open.spotify.com/album/4RucnCxQeWCuiuhOwFw7w9) | 3:04 | 2025-02-06 | 2025-06-13 |
 | [Bunker 09](https://open.spotify.com/track/4t7KDvE1AO02Jr0uDIJYY6) | [Minissia](https://open.spotify.com/artist/7grHO7fIKR0mfOLo5BEFBl) | [Bunker 09](https://open.spotify.com/album/12PLqI9BiLCPlLihhoEExV) | 3:12 | 2023-08-24 | 2023-09-15 |
@@ -143,7 +144,7 @@
 | [COMME EUX](https://open.spotify.com/track/037SK54EClxv9eS01Frb4m) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [COMME EUX](https://open.spotify.com/album/5Gv8Vf1MW5diOA1ju69d5N) | 2:46 | 2024-11-28 | 2025-01-17 |
 | [Comme moi](https://open.spotify.com/track/5ogkWkQnbMXxSlPbt9p8hB) | [Gaëlle](https://open.spotify.com/artist/1uN3byO6WUB2dSDg6XpsEw) | [Comme moi](https://open.spotify.com/album/4egWqTez7UKNZkliNvLWMT) | 2:28 | 2025-02-06 | 2025-02-28 |
 | [Comme mon ex](https://open.spotify.com/track/1PxBGLSGiK7X5RmmoDVaPr) | [Melina](https://open.spotify.com/artist/5Igaoo9WzRGgvEV3pXNuZA) | [Comme mon ex](https://open.spotify.com/album/7lvJSlimzqJliHEwJb1VHh) | 2:40 | 2023-04-06 | 2023-05-19 |
-| [COMME TOI](https://open.spotify.com/track/1YkZYS4VYMahZZSchaGJUz) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [COMME TOI](https://open.spotify.com/album/1AnOl1ER7GWSmRsynxVXKf) | 2:26 | 2026-05-14 |  |
+| [COMME TOI](https://open.spotify.com/track/1YkZYS4VYMahZZSchaGJUz) | [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [COMME TOI](https://open.spotify.com/album/1AnOl1ER7GWSmRsynxVXKf) | 2:26 | 2026-05-14 | 2026-07-03 |
 | [Comme toi \(Acoustique\)](https://open.spotify.com/track/1acFKTNboEq5oBVI0BumWX) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Comme toi \(Acoustique\)](https://open.spotify.com/album/3jIvEB8gjgp40VnFJFBl9s) | 2:34 | 2023-09-07 | 2024-01-12 |
 | [Comme toi \- Acoustique](https://open.spotify.com/track/1Hc4GdYRgEZIPpdmopnAui) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Comme toi \(Acoustique\)](https://open.spotify.com/album/30Zdh9wOGIaWvotg9Cno5e) | 2:34 | 2023-09-07 | 2023-11-02 |
 | [Comment faire](https://open.spotify.com/track/0om4QY2l97Cdju4zBlbTVl) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Comment faire](https://open.spotify.com/album/6j1HTQ19MZq9KzNY5KyfKG) | 2:54 | 2026-01-29 | 2026-04-24 |
@@ -680,6 +681,7 @@
 | [TE AMO](https://open.spotify.com/track/1aFQ1KEjMNBb1N0BGmnTUT) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [LES DERNIÈRES VOLONTÉS DE MOZART \(SYMPHONY\)](https://open.spotify.com/album/4u1S2O3WTGIj53GqtpVjlI) | 3:17 | 2022-12-01 | 2023-02-10 |
 | [TE AMO \(en duo avec Tayc\)](https://open.spotify.com/track/3ofDyMOUeUqotT8C2ZmScK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [LDVM SYMPHONY](https://open.spotify.com/album/3azKfgAZRJXGiqQNFz1jfd) | 3:17 | 2022-12-01 | 2022-12-03 |
 | [Te cache pas](https://open.spotify.com/track/6cMIBxAIcvgFvcXM4iDxoj) | [Jieska](https://open.spotify.com/artist/5ajpgkPPCisyyNOd1WBc2d), [Agatchu](https://open.spotify.com/artist/5ZQuf1hFcYWTqEJoWSkp65) | [Te cache pas](https://open.spotify.com/album/0EwECAAhWWQtMnpxB6BUTZ) | 2:40 | 2026-04-23 | 2026-05-15 |
+| [TELECOMMANDE](https://open.spotify.com/track/2ktUhX6j6vRgv3RWdof7I9) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [SEASON 226](https://open.spotify.com/album/7MLspWQGKddHUYsH5fPLCp) | 2:45 | 2026-07-02 |  |
 | [Tell me](https://open.spotify.com/track/4MNbrLnpXppygkZJL7BzVB) | [Asma](https://open.spotify.com/artist/0GAbpRBkxeFvT9d5yjOMrB) | [Tell me](https://open.spotify.com/album/7tGpXXG4o3WHnIo7lXCUNG) | 3:17 | 2025-05-22 | 2025-06-27 |
 | [Tenez\-les](https://open.spotify.com/track/37ESM3vFbqd9AufCc2Lo8E) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Tenez\-les](https://open.spotify.com/album/33rtoexxM8t9yLuqCIJOO9) | 3:03 | 2023-01-26 | 2023-04-21 |
 | [Terminer](https://open.spotify.com/track/4bpOS8QJ4tT0eeOnKOAOPU) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [Terminer](https://open.spotify.com/album/22XjIC4uwawUAK0m6lcmh2) | 3:03 | 2024-01-25 | 2024-03-29 |

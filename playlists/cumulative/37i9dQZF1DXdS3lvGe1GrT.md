@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Ivy Knight
 
-2,135 songs - 5 day 7 hr 39 min
+2,137 songs - 5 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1056,6 +1056,7 @@
 | [Jimi On The Wall](https://open.spotify.com/track/0pcue2aASz7Knfg21QvXbS) | [Kenzo Divic](https://open.spotify.com/artist/3Pkd3Xh7WZcuf3bNSaxYyF) | [Jimi On The Wall](https://open.spotify.com/album/1RBTY3iHZhSREQjFXJaFMy) | 3:04 | 2023-08-30 | 2023-11-11 |
 | [joe](https://open.spotify.com/track/5AvrnnwmR5flF6IGifvg5U) | [COULOU](https://open.spotify.com/artist/218vhB0brgQIVn4ldcXXUl) | [joe](https://open.spotify.com/album/1BElGS28qatUuYmELNpPxn) | 4:44 | 2025-10-15 | 2025-12-04 |
 | [John's Song](https://open.spotify.com/track/4bpJDRLCQFD2P69M6CvJn5) | [Maddy Davis](https://open.spotify.com/artist/0N1XijsQLptT42ERtHfKsZ) | [John's Song](https://open.spotify.com/album/4j7eJl344QnIwHORzthFN1) | 2:37 | 2025-06-11 | 2025-09-04 |
+| [Johnny Workman](https://open.spotify.com/track/7MAFfhdDQMSyb0wvA6eVhS) | [Rua Rí](https://open.spotify.com/artist/2QDqviufSdQFiUgF6HsvfM) | [Tell Your Mother I Saved Your Life](https://open.spotify.com/album/3Fgc1Z61QpGNkFZeN44okt) | 3:36 | 2026-07-02 |  |
 | [Joy](https://open.spotify.com/track/5LBDwYixyKIc1GVnhgYDNy) | [Annie Stela](https://open.spotify.com/artist/6L2LACunZv5Bk1pyQdYCU0) | [Joy](https://open.spotify.com/album/42v75RcvfsCVtlYrzXR3RF) | 3:10 | 2022-10-26 | 2022-12-01 |
 | [Joy and Despair](https://open.spotify.com/track/1viACvU6BoSNO0VEziw9QT) | [Charlie Noordewier](https://open.spotify.com/artist/0SDfEluak7Z8ML7o1K2Ljk) | [Joy and Despair](https://open.spotify.com/album/3PGbpvjDxnIdiTLbfcNYJy) | 4:00 | 2026-01-28 | 2026-04-23 |
 | [Jubilee](https://open.spotify.com/track/4OTML4Q8BLVGfVFlF8cvpE) | [Palmyra](https://open.spotify.com/artist/088hvWlXHIipa6ZYe0N664) | [Jubilee](https://open.spotify.com/album/2PPW5S3v5yPWteb51bmJO5) | 3:21 | 2025-10-29 | 2026-01-15 |
@@ -2003,6 +2004,7 @@
 | [Vessel](https://open.spotify.com/track/4gkTNUit67mZlRMadhbMX4) | [Emily Izen Row](https://open.spotify.com/artist/6SV73vTipMWJYYDmHxQKK6) | [Vessel](https://open.spotify.com/album/3wHiVUNd5o031NpArPFgwd) | 4:10 | 2025-05-07 | 2025-07-10 |
 | [Villain](https://open.spotify.com/track/7tbJLOSjSOeq7ZPOuclI2W) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Villain](https://open.spotify.com/album/4j3HkXtgfYfRMMb8yIU8OJ) | 3:43 | 2023-09-27 | 2024-01-11 |
 | [Vino](https://open.spotify.com/track/1BtDwiCEJdkLZTNOzy34T0) | [Michael Stevens](https://open.spotify.com/artist/4zhtWLmd8goEurT8obHTJe), [Annamarie Rosanio](https://open.spotify.com/artist/7LtYuMQ3wFY4fGX8Rvq6gD) | [Vino](https://open.spotify.com/album/7rPUkB1LD7HKRZuLWLKrbP) | 4:48 | 2022-11-23 | 2023-03-02 |
+| [Vinyl Spinning](https://open.spotify.com/track/4VG0Pd2MaaoBZprgUJV2Nn) | [Essy Sparrow](https://open.spotify.com/artist/0SKfJH94hxcbotdBSIvTRj) | [Vinyl Spinning](https://open.spotify.com/album/3o9I6K90GAd4L0Yh6DdnTp) | 4:12 | 2026-07-02 |  |
 | [Violent Jubilee](https://open.spotify.com/track/5gPw1XHtkUbEb7Nvn0dWZH) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv), [Michael Cormier\-O'Leary](https://open.spotify.com/artist/6CevQ5Yk15A1z2cGprzaDr) | [Genevieve](https://open.spotify.com/album/28ubUYxqNy4imV9jfWsSsH) | 5:09 | 2023-06-28 | 2023-09-15 |
 | [violet](https://open.spotify.com/track/33Qa5hM4hSlJY3bbpoFl9G) | [Marianne Ross](https://open.spotify.com/artist/3N8pECzlNdVgozhW0SEp9j) | [violet](https://open.spotify.com/album/4vRjnRTAH2w8Xy17CegJWN) | 1:50 | 2024-01-10 | 2025-01-16 |
 | [Virginia Pastoral](https://open.spotify.com/track/6QVqAns8QLt0ykYY7Z27Jc) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [The Crowning](https://open.spotify.com/album/5RKs56AFtKc48TwoMk6620) | 3:32 | 2026-05-20 |  |

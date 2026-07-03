@@ -2796,7 +2796,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 166705,
       "name": "CRASH OUT (feat. Tommy Lindgren)",
       "url": "https://open.spotify.com/track/2UZJGkrSO8e0TN87fHBlE2"
@@ -5156,7 +5156,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 165000,
       "name": "Fuckboy",
       "url": "https://open.spotify.com/track/2Qh7UnNlnI17NLDKi71VM9"
@@ -14745,6 +14745,24 @@
     },
     {
       "album": {
+        "name": "My Slime",
+        "url": "https://open.spotify.com/album/1zFpduRYrpUZOd1zZzZUZw"
+      },
+      "artists": [
+        {
+          "name": "Mjay",
+          "url": "https://open.spotify.com/artist/4LyW2oFLhrNAMsNo7QzHE1"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126078,
+      "name": "My Slime",
+      "url": "https://open.spotify.com/track/6u2dGJIX2e98IrEGgT0st1"
+    },
+    {
+      "album": {
         "name": "My Type",
         "url": "https://open.spotify.com/album/76xn8VPNXTOoB1Q1x7QcIj"
       },
@@ -17134,7 +17152,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 172700,
       "name": "Pelleilly",
       "url": "https://open.spotify.com/track/2eJfHgk5cCQYcHjh4om5SZ"
@@ -20653,6 +20671,24 @@
     },
     {
       "album": {
+        "name": "Stanley Cup",
+        "url": "https://open.spotify.com/album/7tNOxHEspPK1w9No03RRut"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Stanley Cup",
+      "url": "https://open.spotify.com/track/5trRDAvsLKQkRnfe0aTfVX"
+    },
+    {
+      "album": {
         "name": "STARTED",
         "url": "https://open.spotify.com/album/5zLrcqHBJNI0ciAdhj60YP"
       },
@@ -22833,6 +22869,28 @@
     },
     {
       "album": {
+        "name": "Tunnistaa",
+        "url": "https://open.spotify.com/album/5AeDWXtzzqrtNU6oikxTKE"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        },
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "Tunnistaa",
+      "url": "https://open.spotify.com/track/0jT9FkCRLH0QLx7hvPpNBP"
+    },
+    {
+      "album": {
         "name": "Tunteet",
         "url": "https://open.spotify.com/album/0iNgh1yMSaT4vaR0WozMcz"
       },
@@ -23298,6 +23356,28 @@
       "duration_ms": 171455,
       "name": "T\u00e4n\u00e4 y\u00f6n",
       "url": "https://open.spotify.com/track/2XxF52QQrTVBj7WI92mPrc"
+    },
+    {
+      "album": {
+        "name": "T\u00c4N\u00c4\u00c4",
+        "url": "https://open.spotify.com/album/2Ft0kaIxeIfxUJp54f3NbS"
+      },
+      "artists": [
+        {
+          "name": "Dw",
+          "url": "https://open.spotify.com/artist/15Z5mFdFBkUbtTZhI0DDVP"
+        },
+        {
+          "name": "Gettomasa",
+          "url": "https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198115,
+      "name": "T\u00c4N\u00c4\u00c4",
+      "url": "https://open.spotify.com/track/4g9YOdkSfnxAevpVkworIy"
     },
     {
       "album": {

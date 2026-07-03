@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Moriah Mensah",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Junior Simba",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -6240,6 +6240,28 @@
       "duration_ms": 196000,
       "name": "Void",
       "url": "https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu"
+    },
+    {
+      "album": {
+        "name": "Walter White",
+        "url": "https://open.spotify.com/album/19rcS3uaCIqEzFXfS94kTn"
+      },
+      "artists": [
+        {
+          "name": "Junior Simba",
+          "url": "https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn"
+        },
+        {
+          "name": "Manz",
+          "url": "https://open.spotify.com/artist/737If524ZtvW15VK4u5q1e"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205227,
+      "name": "Walter White",
+      "url": "https://open.spotify.com/track/1htbje7tSIZTXgEKpqKr4Q"
     },
     {
       "album": {

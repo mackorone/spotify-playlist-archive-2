@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Malik Montana, Kizo",
+  "description": "Najwi\u0119ksze rapowe kawa\u0142ki w tej chwili. Cover: Avi",
   "name": "RAP GENERACJA",
   "tracks": [
     {
@@ -522,7 +522,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 104013,
       "name": "30K",
       "url": "https://open.spotify.com/track/5cO1zsixnj2MmjM3YVnwom"
@@ -1986,6 +1986,10 @@
         {
           "name": "OKI",
           "url": "https://open.spotify.com/artist/1oxn6cQ37twQ7yGnlE3ETd"
+        },
+        {
+          "name": "bvdy47",
+          "url": "https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4"
         }
       ],
       "date_added": "2026-05-28",
@@ -2394,7 +2398,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 117818,
       "name": "BIA\u0141Y PIASEK",
       "url": "https://open.spotify.com/track/4PW0DWhK5eyDEVhC6hM0dx"
@@ -2670,6 +2674,10 @@
         {
           "name": "Dawid Podsiad\u0142o",
           "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
+        },
+        {
+          "name": "bvdy47",
+          "url": "https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4"
         }
       ],
       "date_added": "2026-06-11",
@@ -4960,6 +4968,28 @@
       "duration_ms": 222857,
       "name": "CZUJ\u0118 \u017bE CHC\u0118 ZAB**",
       "url": "https://open.spotify.com/track/1A2DkusE7Ntd7xoHVn2rsC"
+    },
+    {
+      "album": {
+        "name": "Czy Ty to widzisz?",
+        "url": "https://open.spotify.com/album/5aYmDXwbYjF4oYJMQmWu99"
+      },
+      "artists": [
+        {
+          "name": "PRO8L3M",
+          "url": "https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7"
+        },
+        {
+          "name": "M\u0119skie Granie Orkiestra",
+          "url": "https://open.spotify.com/artist/6PE9YfygcKpsaMOqiBx6JG"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184421,
+      "name": "Czy Ty to widzisz?",
+      "url": "https://open.spotify.com/track/5U6UeZPPiCNqr4c50GNbE0"
     },
     {
       "album": {
@@ -9702,6 +9732,14 @@
         {
           "name": "Otsochodzi",
           "url": "https://open.spotify.com/artist/4zvO09rVUIVTeALhs6xLoB"
+        },
+        {
+          "name": "bvdy47",
+          "url": "https://open.spotify.com/artist/5nmW2FD84UdLOIj391WVQ4"
+        },
+        {
+          "name": "lohleq",
+          "url": "https://open.spotify.com/artist/7Djt5FHbKywvcpV4yplfcF"
         }
       ],
       "date_added": "2026-05-28",
@@ -10012,7 +10050,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 163089,
       "name": "Karnawa\u0142",
       "url": "https://open.spotify.com/track/3WG84tIcqiA14QCDOwFWiV"
@@ -11628,7 +11666,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 226115,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/4QvB8FMhIVkg3fLLLpggo8"
@@ -16637,6 +16675,32 @@
     },
     {
       "album": {
+        "name": "Ot tak",
+        "url": "https://open.spotify.com/album/5nNYihZjcVQHbfI5H9BfsC"
+      },
+      "artists": [
+        {
+          "name": "DZIARMA",
+          "url": "https://open.spotify.com/artist/6LwJ1zgqEFyIwXzDD44Qsn"
+        },
+        {
+          "name": "Siles",
+          "url": "https://open.spotify.com/artist/3eXp28Gf4fOTq0HH1wK2ul"
+        },
+        {
+          "name": "Miroff",
+          "url": "https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162545,
+      "name": "Ot tak",
+      "url": "https://open.spotify.com/track/5fzLjnVS7A90JDYmaC730L"
+    },
+    {
+      "album": {
         "name": "Otwarty dach",
         "url": "https://open.spotify.com/album/7LM3t98W5V1A49NMtEmE27"
       },
@@ -18308,7 +18372,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 163489,
       "name": "PRZESTA\u0143 P\u0141AKA\u0106",
       "url": "https://open.spotify.com/track/2HAHGWTgHTY4LjmQior7w4"
@@ -18966,6 +19030,28 @@
       "duration_ms": 179400,
       "name": "Recepta na sukces",
       "url": "https://open.spotify.com/track/6EKZhAqJuZhtoI5Tlxgs7o"
+    },
+    {
+      "album": {
+        "name": "RED BULL 64 BARS",
+        "url": "https://open.spotify.com/album/6u2Z9QYUM5VLbyIJTM3EU1"
+      },
+      "artists": [
+        {
+          "name": "Avi",
+          "url": "https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl"
+        },
+        {
+          "name": "Favst",
+          "url": "https://open.spotify.com/artist/16TsNPlesuA1R9kPLS6nta"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197938,
+      "name": "RED BULL 64 BARS",
+      "url": "https://open.spotify.com/track/7mJjmRVtuECyQyqhkBR9MM"
     },
     {
       "album": {
@@ -20895,6 +20981,32 @@
     },
     {
       "album": {
+        "name": "Sweet home",
+        "url": "https://open.spotify.com/album/2UQBpGgytLLjri8As4pYjh"
+      },
+      "artists": [
+        {
+          "name": "Opa\u0142",
+          "url": "https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy"
+        },
+        {
+          "name": "Blinders",
+          "url": "https://open.spotify.com/artist/26JVnujQQ3lEML8t9p3X1J"
+        },
+        {
+          "name": ".voodoo people",
+          "url": "https://open.spotify.com/artist/3Z4rxaiMpSD2nMIvfEPeqk"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205781,
+      "name": "Sweet home",
+      "url": "https://open.spotify.com/track/008HCnPWFXsFqw3nDB4Lbd"
+    },
+    {
+      "album": {
         "name": "04",
         "url": "https://open.spotify.com/album/3yYE4jrsc2PjbMYvTYhSbB"
       },
@@ -22499,6 +22611,40 @@
     },
     {
       "album": {
+        "name": "UUU AAA",
+        "url": "https://open.spotify.com/album/7BOodNz3JdDUkILsYPcF3M"
+      },
+      "artists": [
+        {
+          "name": "Tax Free",
+          "url": "https://open.spotify.com/artist/1TdOWV3JFAGmZ1466aKbg5"
+        },
+        {
+          "name": "Malik Montana",
+          "url": "https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E"
+        },
+        {
+          "name": "Kazior",
+          "url": "https://open.spotify.com/artist/3bSbo5ZCbrTle7S2q8nqf8"
+        },
+        {
+          "name": "CUZCO$",
+          "url": "https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei"
+        },
+        {
+          "name": "Lot808",
+          "url": "https://open.spotify.com/artist/2aNeuKW2ShJIZpLrYsZ3yW"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116571,
+      "name": "UUU AAA",
+      "url": "https://open.spotify.com/track/1T4doR3wMh5bSCDpn9ai25"
+    },
+    {
+      "album": {
         "name": "Uzi",
         "url": "https://open.spotify.com/album/4XNsonogcCgCijh0FOzQ9e"
       },
@@ -22874,6 +23020,10 @@
         {
           "name": "Sobel",
           "url": "https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH"
+        },
+        {
+          "name": "@atutowy",
+          "url": "https://open.spotify.com/artist/53UpeT3katrOaJmhSiRp2a"
         }
       ],
       "date_added": "2026-05-28",
@@ -23644,7 +23794,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 126720,
       "name": "Wszystkie Marzenia",
       "url": "https://open.spotify.com/track/27U2BDVyqjDasMVX01a0jz"
@@ -25026,6 +25176,24 @@
       "duration_ms": 115801,
       "name": "\u017badnych SI",
       "url": "https://open.spotify.com/track/5Ka9M7lwUGe1lVjSPSCQhy"
+    },
+    {
+      "album": {
+        "name": "sie porobi\u0142o\u2026",
+        "url": "https://open.spotify.com/album/0dwMoFJ3Sb2akOMQxh82kp"
+      },
+      "artists": [
+        {
+          "name": "Hubert.",
+          "url": "https://open.spotify.com/artist/7dlH4L7i8CtRUZMQDSuXqH"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206829,
+      "name": "\u017cyjemy w symulacji",
+      "url": "https://open.spotify.com/track/0MVK5nZ1uXw3SoTk6XfOV7"
     },
     {
       "album": {

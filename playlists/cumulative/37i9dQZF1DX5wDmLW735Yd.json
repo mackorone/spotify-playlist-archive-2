@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Hedex",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Sudley, Ekko & Sidetrack,  WHAT EVA",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -877,6 +877,28 @@
     },
     {
       "album": {
+        "name": "All We Do Is Dance",
+        "url": "https://open.spotify.com/album/442cl4RtWxDrTvT53dArPG"
+      },
+      "artists": [
+        {
+          "name": "Luude",
+          "url": "https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg"
+        },
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "All We Do Is Dance",
+      "url": "https://open.spotify.com/track/5kAc1kyicFH5rqH6pksl2K"
+    },
+    {
+      "album": {
         "name": "All We Ever Do / Womp Machine",
         "url": "https://open.spotify.com/album/4DNi8YR4BYRuNB4alN4ihc"
       },
@@ -1300,7 +1322,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 173793,
       "name": "Argument Done",
       "url": "https://open.spotify.com/track/6Bl9y5bmUQxwzqrgp8zKJO"
@@ -3778,7 +3800,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 182621,
       "name": "Bye Bye Officer",
       "url": "https://open.spotify.com/track/1MHZc2umxjPn6Ql0VijVVp"
@@ -5786,7 +5808,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 177932,
       "name": "Decline",
       "url": "https://open.spotify.com/track/5SyxjVD4NGe6uWIAnW9AfG"
@@ -8294,6 +8316,28 @@
     {
       "album": {
         "name": "Fingerprints",
+        "url": "https://open.spotify.com/album/6gcWtSB8Pi9aVAXuaIyAzM"
+      },
+      "artists": [
+        {
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+        },
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160465,
+      "name": "Fingerprints",
+      "url": "https://open.spotify.com/track/0DcJIz0MnMqpGNXsbAbh9Y"
+    },
+    {
+      "album": {
+        "name": "Fingerprints",
         "url": "https://open.spotify.com/album/4ABIVST2di5nUzxsT0EZtb"
       },
       "artists": [
@@ -9348,7 +9392,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 176914,
       "name": "Get a Grip",
       "url": "https://open.spotify.com/track/0QzlVsUCN8UMPBmVNX7PVS"
@@ -11006,7 +11050,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 228000,
       "name": "Higher than Heaven",
       "url": "https://open.spotify.com/track/6CJuuNkd3c1Mzat7Xhhmn8"
@@ -12604,6 +12648,32 @@
       "duration_ms": 230475,
       "name": "Junglist (DJ KARA Remix)",
       "url": "https://open.spotify.com/track/6vXHxK6DzrllQBrAKQe9yo"
+    },
+    {
+      "album": {
+        "name": "Just Love",
+        "url": "https://open.spotify.com/album/4CVZ1KT74BU4BwPs3vxgsN"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "SHY FX",
+          "url": "https://open.spotify.com/artist/5oDtp2FC8VqBjTx1aT4P5j"
+        },
+        {
+          "name": "CLIPZ",
+          "url": "https://open.spotify.com/artist/6b0TSaLAeLXilOPoId8udE"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183922,
+      "name": "Just Love",
+      "url": "https://open.spotify.com/track/7cOUAzSxknlzBK3nc8zbvQ"
     },
     {
       "album": {
@@ -16441,6 +16511,28 @@
     },
     {
       "album": {
+        "name": "New Life",
+        "url": "https://open.spotify.com/album/2d4ZLJf4s8WuBZLja7SqBk"
+      },
+      "artists": [
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        },
+        {
+          "name": "Whiney",
+          "url": "https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170157,
+      "name": "New Life",
+      "url": "https://open.spotify.com/track/4kChQPTV6rUnbRcFXK5Deg"
+    },
+    {
+      "album": {
         "name": "Night Is Gone",
         "url": "https://open.spotify.com/album/0wrPEOht7VPrp6VJlYkKOF"
       },
@@ -18686,6 +18778,28 @@
       "duration_ms": 252360,
       "name": "Program",
       "url": "https://open.spotify.com/track/5xI6XC2Qc3eez4lbbIMZzF"
+    },
+    {
+      "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/7oV1yJxIcerRaNQZC6vOUu"
+      },
+      "artists": [
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        {
+          "name": "M\u00c6DM",
+          "url": "https://open.spotify.com/artist/3f2JHeVMJvkFQbH8O81178"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/1XKfL5E1ieKCzNyKkJgoHa"
     },
     {
       "album": {

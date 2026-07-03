@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Vintage Culture, Volkoder",
+  "description": "Vem com as tracks dos maiores nomes da m\u00fasica eletr\u00f4nica nacional. Foto: Illusionize, DJ Glen, Nana Torres",
   "name": "mint brasil",
   "tracks": [
     {
@@ -278,6 +278,24 @@
       "duration_ms": 181417,
       "name": "Amor en Miami",
       "url": "https://open.spotify.com/track/0AGXJn0vNyFHJNA4B5oF13"
+    },
+    {
+      "album": {
+        "name": "Anaconda",
+        "url": "https://open.spotify.com/album/3bYo2FlkgCAdGQxsKbu3lq"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216861,
+      "name": "Anaconda",
+      "url": "https://open.spotify.com/track/2ZAWKUdW7jcRwYsQgKWheu"
     },
     {
       "album": {
@@ -2043,6 +2061,28 @@
     },
     {
       "album": {
+        "name": "Feel Alive",
+        "url": "https://open.spotify.com/album/4zJULJTLglrEPu1tIrxm7o"
+      },
+      "artists": [
+        {
+          "name": "Fancy Inc",
+          "url": "https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh"
+        },
+        {
+          "name": "ZARO",
+          "url": "https://open.spotify.com/artist/5cJZAC1qGuGBqk1kAKvQCk"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187142,
+      "name": "Feel Alive",
+      "url": "https://open.spotify.com/track/7KIVzPQHkwaLkCafnDF4pz"
+    },
+    {
+      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/5XuKcuWfhlgvNSwylIQu0e"
       },
@@ -3421,6 +3461,32 @@
     },
     {
       "album": {
+        "name": "Infinity (ANNA Remix)",
+        "url": "https://open.spotify.com/album/3Ly57GJ0ZuI7hTAsKEVkyP"
+      },
+      "artists": [
+        {
+          "name": "Captain Hook",
+          "url": "https://open.spotify.com/artist/5xnZNDl118VvPTvthujxpx"
+        },
+        {
+          "name": "Ritmo",
+          "url": "https://open.spotify.com/artist/0wMIF9I7QQ57UFojC0KQRT"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401777,
+      "name": "Infinity - ANNA remix",
+      "url": "https://open.spotify.com/track/5sdjTwc8YOrgGCV7sl7jq5"
+    },
+    {
+      "album": {
         "name": "Inner Wars",
         "url": "https://open.spotify.com/album/2fKFnbJnUOt3fVcCs1TnnW"
       },
@@ -3539,6 +3605,24 @@
     },
     {
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/4mQiX0seWI4JlFTYIWPuJB"
+      },
+      "artists": [
+        {
+          "name": "Almanac",
+          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236307,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/0PzuMwaIVK0qJTEY7Me3Wx"
+    },
+    {
+      "album": {
         "name": "Just Stay The Night",
         "url": "https://open.spotify.com/album/76YgJrJg5YM6k97AztAlUC"
       },
@@ -3646,7 +3730,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 121846,
       "name": "Kickback",
       "url": "https://open.spotify.com/track/0TuLNGHdtIpokrteWvJRkI"
@@ -4216,7 +4300,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 186614,
       "name": "Malabaris",
       "url": "https://open.spotify.com/track/0hLNnH60GDK1TZxDNxhVfT"
@@ -6624,7 +6708,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 205000,
       "name": "This House",
       "url": "https://open.spotify.com/track/3WEC8jQPjFxwFxNknGGzMm"
@@ -6864,7 +6948,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 152709,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/26V7N5MGSUfYILIRGLtW5C"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Pertunjukan",
+  "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: FILM.",
   "name": "Skena Gres",
   "tracks": [
     {
@@ -4614,6 +4614,24 @@
       "duration_ms": 246000,
       "name": "Kanvas Abadi",
       "url": "https://open.spotify.com/track/1mDKprPxJ192KWJAfhPa7j"
+    },
+    {
+      "album": {
+        "name": "Manuskrip",
+        "url": "https://open.spotify.com/album/6i5FXTvYFvPClPtyRj0Q7P"
+      },
+      "artists": [
+        {
+          "name": "FILM.",
+          "url": "https://open.spotify.com/artist/68nVbpdYAVfDDejsFw53k8"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301505,
+      "name": "Karena (Ku Tak Tahu)",
+      "url": "https://open.spotify.com/track/2ihXhGecD4eWgHORk03DLN"
     },
     {
       "album": {

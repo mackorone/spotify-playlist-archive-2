@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/4vPiWniwBZwYFQHhyC14Xn"
+      },
+      "artists": [
+        {
+          "name": "Ayjay bobo",
+          "url": "https://open.spotify.com/artist/5L1Xcdtf6MxLmEvpGMw3g4"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115278,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/2fb0bz1Px5hMjbOQgssHHm"
+    },
+    {
+      "album": {
         "name": "ANY GIVEN MONDAY III",
         "url": "https://open.spotify.com/album/0rKiUKuJeVT67WzL0OsEaW"
       },
@@ -2734,7 +2752,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 179961,
       "name": "Built Different",
       "url": "https://open.spotify.com/track/4c7tC5eg31bBezb76301Xt"
@@ -6722,7 +6740,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 130000,
       "name": "HOW E DEY BE (HEDB)",
       "url": "https://open.spotify.com/track/6MsDsumoFvRLxawfZtOhw1"
@@ -9537,6 +9555,28 @@
     },
     {
       "album": {
+        "name": "Money (feat. Scottyolorin)",
+        "url": "https://open.spotify.com/album/19LOy9jhWSbcmKU50Ql196"
+      },
+      "artists": [
+        {
+          "name": "TAR1Q",
+          "url": "https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq"
+        },
+        {
+          "name": "scottyolorin",
+          "url": "https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Money (feat. Scottyolorin)",
+      "url": "https://open.spotify.com/track/5xHTQE15LbvdqtfNdBTIqF"
+    },
+    {
+      "album": {
         "name": "Money Takes Away the Pain.",
         "url": "https://open.spotify.com/album/3lM6CqTPsvohn0BQ4ebPaP"
       },
@@ -11823,6 +11863,28 @@
     },
     {
       "album": {
+        "name": "Baby Thug",
+        "url": "https://open.spotify.com/album/1ZH9KYQn8yCLh4FBlkGNw1"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Pami",
+      "url": "https://open.spotify.com/track/5HKje6lrhbvyyeVfZqWGlU"
+    },
+    {
+      "album": {
         "name": "Cincinnati Pumpin!!",
         "url": "https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3"
       },
@@ -11956,7 +12018,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-03",
       "duration_ms": 131592,
       "name": "Pay Day",
       "url": "https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ"
