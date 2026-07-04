@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 33 | [Drunk Enough To](https://open.spotify.com/track/1cgvB6KaL16ibyrJHhZeG0) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Some Say \- EP](https://open.spotify.com/album/05I0k7IIbI8gDc6ONo5E0E) | 3:18 |
 | 34 | [Domino](https://open.spotify.com/track/6SmfBvW4JgsoZPhagI0N3L) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Awaken The World \- The 1st Album](https://open.spotify.com/album/0XldHBFjCgxRMTXmjUj6cx) | 3:16 |
 | 35 | [DIABLO](https://open.spotify.com/track/3UZq0tLE3gNlnYQbpa7Veo) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [DIABLO](https://open.spotify.com/album/6tNmyp4ay7hhthomKB65gW) | 2:45 |
-| 36 | [So Faded](https://open.spotify.com/track/2FNbkIMCOf6W6uoFQa36UX) | [Phlake](https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay) | [Slush Hours](https://open.spotify.com/album/1Uf0MmrF3BJRaglRpUdtZn) | 3:12 |
-| 37 | [Lush Life \- Retro Version](https://open.spotify.com/track/4O5ygqTjiXLWo9HASGsk8E) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lush Life \(Retro Version\)](https://open.spotify.com/album/329TF77PAYo1NqXsAskjfu) | 3:13 |
+| 36 | [Lush Life \- Retro Version](https://open.spotify.com/track/4O5ygqTjiXLWo9HASGsk8E) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lush Life \(Retro Version\)](https://open.spotify.com/album/329TF77PAYo1NqXsAskjfu) | 3:13 |
+| 37 | [So Faded](https://open.spotify.com/track/2FNbkIMCOf6W6uoFQa36UX) | [Phlake](https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay) | [Slush Hours](https://open.spotify.com/album/1Uf0MmrF3BJRaglRpUdtZn) | 3:12 |
 | 38 | [Crime \(with Skott\)](https://open.spotify.com/track/59QVRLzAYdNiuOFCrR6tlh) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Crime \(with Skott\)](https://open.spotify.com/album/6p7Uxsq9sa6o5MkOmw28ge) | 2:55 |
 | 39 | [Bleed It Out](https://open.spotify.com/track/2H0p4zNfhaF2ZfidkmGTZ4) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Places We Don't Know](https://open.spotify.com/album/7v5PnPxKBVwKVQ6tytgUzG) | 3:38 |
 | 40 | [Don't Deserve This](https://open.spotify.com/track/1rh2CkzgCba4p8o7BldVuk) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Don't Deserve This](https://open.spotify.com/album/6la5gP1N1B6gIipTa7AwIG) | 2:49 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ7FIErJiGPT.md) - [plain]
 | 107 | [Take It As a Man](https://open.spotify.com/track/7D0NNAhOm46YZneCCplG2Z) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 2:46 |
 | 108 | [Dance With Myself](https://open.spotify.com/track/1w0yZ491kumXS2qSJUawHz) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [TRANSPARENT](https://open.spotify.com/album/5Y5vhnNmouWotSd0Qj2jRK) | 3:34 |
 
-Snapshot ID: `AcVz3gAAAACyywBji+/JLWzGnMWjoOZb`
+Snapshot ID: `AcV5iAAAAADhH1ry5yy5GRAiAaBJGrvV`

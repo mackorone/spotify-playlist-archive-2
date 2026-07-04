@@ -4,7 +4,7 @@
 
 > Rising stars and new releases from sunny Singapore\. Cover: Axel Brizzy
 
-1,496 songs - 3 day 9 hr 36 min
+1,496 songs - 3 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1157,7 +1157,6 @@
 | [touch](https://open.spotify.com/track/1nEczAnjXD3Jvbau01ee0x) | [quiet morning](https://open.spotify.com/artist/2I7lhkczBjeJ8aTrrZfTgz) | [touch](https://open.spotify.com/album/62CpwDDgZotecv71VLERpm) | 2:42 | 2025-11-13 | 2026-01-31 |
 | [Touch Yourself](https://open.spotify.com/track/4FOrfiTwMXgS41g9L5GN3I) | [Kartik Kuna](https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du) | [Touch Yourself](https://open.spotify.com/album/5nZPMnu5Z6Zjj7e3or4cwZ) | 3:16 | 2024-10-10 | 2024-11-09 |
 | [Town](https://open.spotify.com/track/6gUN5zMyyUEYkoqbC7ildh) | [Ishbel Warifa](https://open.spotify.com/artist/3wSh7x4BzctCWKfp2lujCD) | [Town](https://open.spotify.com/album/3CyudN7tuOl6p9VjNYMpWU) | 3:30 | 2024-07-11 | 2024-09-27 |
-| [Track 5](https://open.spotify.com/track/0GSQngd31eW9efro6XrJNA) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [WHAT'S THE POINT](https://open.spotify.com/album/579Do65Kg2oJGN3KwPVIcN) | 0:00 | 2026-07-02 |  |
 | [TRACK D](https://open.spotify.com/track/0twJwDIxrl7c2z6UGDTNiq) | [DAC](https://open.spotify.com/artist/7pE2X4frEyOmquxv8QFoZA), [ABANGSAPAU](https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw), [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251) | [TRACK D](https://open.spotify.com/album/1garuMkV5LtsyoPJ9DifbB) | 2:10 | 2024-12-12 | 2025-01-24 |
 | [Transportation Blues](https://open.spotify.com/track/5ndaof6VTnydQJaYliSHYG) | [Stopgap](https://open.spotify.com/artist/60dCRxcmRMSw9WovWPtI8g) | [Transportation Blues](https://open.spotify.com/album/53h0nva44FuOhRdSAULeYb) | 4:35 | 2024-11-08 | 2024-11-29 |
 | [Trial & Error](https://open.spotify.com/track/3XFbOVSEIjHN2ZGRcoWqU1) | [The Benjamin Daniels](https://open.spotify.com/artist/4Wy7nvuhxWC7w6Qk0yombI) | [Awake For Too Long](https://open.spotify.com/album/1cVq9N3vJcsYcrZ3t6XmWF) | 4:33 | 2024-11-21 | 2025-01-03 |
@@ -1225,6 +1224,7 @@
 | [What the Hell](https://open.spotify.com/track/7KjbNAe7ZxqJxiFEh7PB2o) | [KIARA](https://open.spotify.com/artist/3ereOrrDplpipPoEhHYFeI) | [What the Hell](https://open.spotify.com/album/2nHnUJ5dd1bfhd0CsJ28MK) | 2:04 | 2026-05-28 |  |
 | [what would it take?](https://open.spotify.com/track/42dN635ODJ8gaBbtXKONAN) | [Elaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [what would it take?](https://open.spotify.com/album/4KhlJQ8lWDfuwOGvntAo7D) | 4:10 | 2024-06-27 | 2024-07-19 |
 | [What You Gon Do 你该怎么办](https://open.spotify.com/track/2ILasPbLhnkUQ267mTaMbN) | [ShiGGa Shay](https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV) | [What You Gon Do 你该怎么办](https://open.spotify.com/album/7I8In6vtoH2xd6ZNXH85FS) | 2:35 | 2024-06-27 | 2024-08-16 |
+| [WHAT'S THE POINT](https://open.spotify.com/track/0GSQngd31eW9efro6XrJNA) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [WHAT'S THE POINT](https://open.spotify.com/album/579Do65Kg2oJGN3KwPVIcN) | 2:37 | 2026-07-02 |  |
 | [What3vr](https://open.spotify.com/track/5jqRZna4pjmgETTNo349Rk) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Evangelic Girl is a Gun](https://open.spotify.com/album/0YYPOxN7WrWD3ygAP5KB50) | 2:47 | 2025-05-29 | 2025-06-20 |
 | [Whatever You Want](https://open.spotify.com/track/34iSFXTjWg4ZkbW2feEvre) | [Riqqo](https://open.spotify.com/artist/67mdtrE7Nu0hjg3wJDtXRc) | [Whatever You Want](https://open.spotify.com/album/1KUwNjAgYtW62pxrxdUoyn) | 2:22 | 2025-06-26 | 2025-08-01 |
 | [WHATNOW?](https://open.spotify.com/track/2bkdNME59oGBSMXuazqd3T) | [Mark Bonafide](https://open.spotify.com/artist/5H9ZgwXcTFdubyzrUcCjus), [Don Aaron](https://open.spotify.com/artist/7yZk3ndNXj6yeOxxafjEFU), [St Midnight](https://open.spotify.com/artist/0BNgrXB1tXFeCUgf2ZErNc) | [WHATNOW?](https://open.spotify.com/album/2mmdgoZA6twaAFf6gEWNG6) | 3:20 | 2026-02-26 | 2026-05-01 |

@@ -2,9 +2,9 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: CURS
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: YMY
 
-353 songs - 1 day 1 hr 20 min
+355 songs - 1 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [ความรักไม่หมดไปเพราะค่าพลังใจที่เป็นอนันต์](https://open.spotify.com/track/3dbpBB3rHghndlXrXb5TF0) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X), [Ks9](https://open.spotify.com/artist/46DFyukmM1JtTNnb4DEFYS) | [ความรักไม่หมดไปเพราะค่าพลังใจที่เป็นอนันต์](https://open.spotify.com/album/5lXNZwQloNLvEItL5FC77c) | 4:10 | 2024-06-21 | 2025-06-28 |
 | [ความสวยงาม](https://open.spotify.com/track/3ToiAXUfifY3rxIZ01AjYb) | [The Publish](https://open.spotify.com/artist/1dkiRgFFVF7XmX4vo0NEEh) | [ความสวยงาม](https://open.spotify.com/album/3qFFLMsfrlGZKP4ggBC8iq) | 3:58 | 2024-10-25 | 2024-11-16 |
 | [คอนเสิร์ตเล็ก \(our concert\)](https://open.spotify.com/track/5ml3Eo88k00gSP1ZwWQEZT) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [คอนเสิร์ตเล็ก \(our concert\)](https://open.spotify.com/album/1CnobFpjURpP4JmJbvmgXJ) | 2:30 | 2025-10-03 | 2026-06-11 |
+| [คันคังเกา](https://open.spotify.com/track/1UvdJeJlrLZvMfwTRFDgK6) | [WATCHI](https://open.spotify.com/artist/6aP6XysKhtM5DGjtRbtcQz) | [คันคังเกา](https://open.spotify.com/album/2TiOttmwVO4CuUlhbfecQx) | 2:56 | 2026-07-03 |  |
 | [คำตอบของความรักที่สวยงาม \(fleck.\)](https://open.spotify.com/track/5GU6wJbKgBOLJRrcK8DhJO) | [Syrup](https://open.spotify.com/artist/5l6R9L8qJTRP2kFfxtmjGm) | [คำตอบของความรักที่สวยงาม \(fleck.\)](https://open.spotify.com/album/351cCT7UIXXgcWoF1Lpkxw) | 5:48 | 2025-02-21 | 2025-03-29 |
 | [คำถามครั้งสุดท้าย](https://open.spotify.com/track/0NXI3kNFrJTzElpDYp3K0D) | [Driver Boy](https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi) | [คำถามครั้งสุดท้าย](https://open.spotify.com/album/0fgd40r10UVQZP9h1w3cxX) | 4:30 | 2026-05-29 | 2026-06-11 |
 | [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/track/4lBQGMyb8kKOic9ZRtkoK5) | [FAHLITHH](https://open.spotify.com/artist/3aAcqoGEAiCQD4LSdTR473) | [คิดผิด \(YOU’RE WRONG!\) \[and I’m done waiting\]](https://open.spotify.com/album/5aZoshdk9gwpBXXtRWz48k) | 3:45 | 2025-07-11 | 2025-11-22 |
@@ -242,6 +243,7 @@
 | [สมปรารถนา](https://open.spotify.com/track/3Qrr2iIBzsUxiN2iRgLxMu) | [Something Sweet](https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX) | [สมปรารถนา](https://open.spotify.com/album/3MfpyPBmw4TqD4fQbevTt4) | 4:03 | 2026-03-27 |  |
 | [สวัสดีวันจันทร์](https://open.spotify.com/track/2KMsKOuGAZZQNdUTnldl8K) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [สวัสดีวันจันทร์](https://open.spotify.com/album/641D7PcblWi9Bby8rsMz78) | 4:08 | 2026-05-29 |  |
 | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS) | 4:20 | 2024-06-21 | 2025-07-19 |
+| [สาวข้างบ้าน \(A Crush!\)](https://open.spotify.com/track/0o2rFdaAJjo76DwTnHC5jX) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [สาวข้างบ้าน \(A Crush!\)](https://open.spotify.com/album/6LyYsdiAd9QndNgdlQHepq) | 3:32 | 2026-07-03 |  |
 | [สำหรับฉัน \(Allergy\-Drinks\)](https://open.spotify.com/track/39gUtXus8zaLBwNM0hETg7) | [Vaals](https://open.spotify.com/artist/1W4ji89xxXpuCdX4YhMS5u) | [สำหรับฉัน \(Allergy\-Drinks\)](https://open.spotify.com/album/6m1eyBH8wQbzLNTDjtYtFc) | 3:08 | 2025-12-07 | 2026-03-28 |
 | [สิ่งดีดี](https://open.spotify.com/track/40LuIeGWNzSQnQVIicYDC7) | [gizzdear](https://open.spotify.com/artist/3P3Q12jeu49wXQ7GaL85gp) | [สิ่งดีดี](https://open.spotify.com/album/7CVh4hdg1GD0CzPzGwZZEV) | 3:52 | 2026-03-27 | 2026-04-04 |
 | [สิ่งมหัศจรรย์อันดับหนึ่ง](https://open.spotify.com/track/5PwxUIurBN6rV4DTfaVyYx) | [Something Sweet](https://open.spotify.com/artist/23jeOBgBz08Ew2A3bfGnKX), [WHATFALSE\)](https://open.spotify.com/artist/1oKUUKTRXdkOTRnVRlwuRh) | [สิ่งมหัศจรรย์อันดับหนึ่ง](https://open.spotify.com/album/4SvTTGi0gRbZq894bmYzCz) | 3:59 | 2025-08-15 | 2025-09-06 |
@@ -288,7 +290,7 @@
 | [เงินตรา](https://open.spotify.com/track/4BbmLTx2Pp6biPZ0ZOqlKp) | [Sukid458](https://open.spotify.com/artist/6dWH3SSe9rYb2KvunPIvf4) | [เงินตรา](https://open.spotify.com/album/0l4y5bv8IoeqXEaPCSclzB) | 4:45 | 2026-06-24 |  |
 | [เจ็บเก่ง](https://open.spotify.com/track/2m91Zioo3qjub8B5TpO8DC) | [di age](https://open.spotify.com/artist/64Qg3S5n50whgpMon8JwI3) | [เจ็บเก่ง \(Hurt\)](https://open.spotify.com/album/4xBWcKwOOeW1K1laHIhT5C) | 3:45 | 2024-06-21 | 2025-12-08 |
 | [เจ็บเจียนตาย](https://open.spotify.com/track/6zohPB1L4PuKKa6R12KzXs) | [WORRX](https://open.spotify.com/artist/50VGLmwFlxj5vehNFmMc9l) | [เจ็บเจียนตาย](https://open.spotify.com/album/5bMYyPH1NNjjIndYf1xL7r) | 4:10 | 2024-10-18 | 2025-09-13 |
-| [เจ๋งเป้ง](https://open.spotify.com/track/6DIh4W9AhBe0AwIhBOKtTK) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [เจ๋งเป้ง](https://open.spotify.com/album/3gaKrAChWoHe5SbFw9Gi2j) | 3:06 | 2026-06-10 |  |
+| [เจ๋งเป้ง](https://open.spotify.com/track/6DIh4W9AhBe0AwIhBOKtTK) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [เจ๋งเป้ง](https://open.spotify.com/album/3gaKrAChWoHe5SbFw9Gi2j) | 3:06 | 2026-06-10 | 2026-07-04 |
 | [เตียงสีขาว \(ROM\)](https://open.spotify.com/track/4W3wTU3qXwR9BdTqMZacXB) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [เตียงสีขาว \(ROM\)](https://open.spotify.com/album/6yBvzGc1gAp5ytTORtcjua) | 5:33 | 2025-06-20 | 2025-11-08 |
 | [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/track/0vlOayuyvmAubvpuikwni8) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [เธอคือความทรงจำ \(memorize\)](https://open.spotify.com/album/3ai9E8B5K9LTbr4IVxQ8wK) | 3:51 | 2025-06-06 | 2025-10-18 |
 | [เธอที่คิดถึง \(about you\)](https://open.spotify.com/track/1XTnPEPekA4VvA0uMtpgC8) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [เธอที่คิดถึง \(about you\)](https://open.spotify.com/album/5Hc4DEVAgvwGFkTVUK4LGO) | 5:45 | 2024-06-28 | 2024-08-03 |
@@ -347,7 +349,7 @@
 | [ให้เธอนึกถึงวันที่เรารักกัน](https://open.spotify.com/track/2xw1GhY4UfIWBgNSzdbY0Z) | [Plantpot](https://open.spotify.com/artist/5wdw7vic45pUX1PtuZ4x7R) | [ให้เธอนึกถึงวันที่เรารักกัน](https://open.spotify.com/album/3sYhNmotfWyLJYVGUdzNjn) | 4:40 | 2024-06-21 | 2025-04-26 |
 | [ให้เธอเป็นแกนซีกโลกใต้ที่เอียงเข้าหาดวงอาทิตย์](https://open.spotify.com/track/4XTL8HO23v0GJL4GH2zhpa) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ให้เธอเป็นแกนซีกโลกใต้ที่เอียงเข้าหาดวงอาทิตย์](https://open.spotify.com/album/6KInBVDs388QnNiFrcj97Y) | 3:42 | 2024-06-21 | 2024-11-29 |
 | [ให้เราลาจากกัน](https://open.spotify.com/track/7iTEtdRrFCy2FczyQ5HRK0) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [ให้เราลาจากกัน \(Leave\)](https://open.spotify.com/album/7DIhrVbrxIlKZb6fMtbDWF) | 4:09 | 2024-06-21 | 2024-11-23 |
-| [ให้เราห่างกัน](https://open.spotify.com/track/7t7ObygKKyBNmBJlBPBvAM) | [ROUSE](https://open.spotify.com/artist/42wCcg6q3NRhi0vQQ7JvNB) | [ให้เราห่างกัน](https://open.spotify.com/album/086E64hdsvFU8qg9UiXzDa) | 6:15 | 2026-05-29 |  |
+| [ให้เราห่างกัน](https://open.spotify.com/track/7t7ObygKKyBNmBJlBPBvAM) | [ROUSE](https://open.spotify.com/artist/42wCcg6q3NRhi0vQQ7JvNB) | [ให้เราห่างกัน](https://open.spotify.com/album/086E64hdsvFU8qg9UiXzDa) | 6:15 | 2026-05-29 | 2026-07-04 |
 | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/track/4le5G5RlMj1YWygXTinvRx) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/album/3zZ4G3SpnWIfl3MxG85km0) | 3:48 | 2024-06-21 | 2025-12-08 |
 | [ไม่ทันบอกลา](https://open.spotify.com/track/3sMyAULEGLFPaeBOieYs2s) | [SOK](https://open.spotify.com/artist/2RcrQpcnnhqYCxJhul3mUa) | [ไม่ทันบอกลา](https://open.spotify.com/album/4QUYkCMmPL62aE2Ct3eBIV) | 6:00 | 2026-04-03 |  |
 | [ไม่รู้เธอลืมได้ยังไง \(Oblivion\)](https://open.spotify.com/track/40iWwQzs0TALQaTPu8L2lc) | [SOUNDSLEEP](https://open.spotify.com/artist/6s1SgkazTTQy1i0fs6ZIGw) | [ไม่รู้เธอลืมได้ยังไง \(Oblivion\)](https://open.spotify.com/album/3yEhe0j7XHRHJEAuhoj7Rj) | 4:52 | 2025-05-09 |  |

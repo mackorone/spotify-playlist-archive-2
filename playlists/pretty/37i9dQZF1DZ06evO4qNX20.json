@@ -1,12 +1,12 @@
 {
   "description": "This is Chalino Sanchez. The essential tracks, all in one playlist.",
-  "num_followers": 347707,
+  "num_followers": 347768,
   "original_name": "This Is Chalino Sanchez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAACxtXsGvwJZLMvUZuzeGk4T",
+  "snapshot_id": "akWqAAAAAABNHrylkrIrntAVMqUDy+1b",
   "tracks": [
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Pela Vacas (Remastered 2025)",
+        "url": "https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 207907,
+      "name": "El Dos Dedos - Remastered 2025",
+      "url": "https://open.spotify.com/track/6GtZB79gVl90m00jf2lYoa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chalino S\u00e1nchez Con Banda Brava",
         "url": "https://open.spotify.com/album/3m1i4eksY9hyC35jgnuRiF"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 212613,
       "name": "Rigo Coria",
       "url": "https://open.spotify.com/track/6j3HK6QW74vBoIYmzWYrQz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Pela Vacas (Remastered 2025)",
-        "url": "https://open.spotify.com/album/3kqaoP6prh0lMtb9VtPbVV"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 207907,
-      "name": "El Dos Dedos - Remastered 2025",
-      "url": "https://open.spotify.com/track/6GtZB79gVl90m00jf2lYoa"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermos\u00edsimo Lucero",
-        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
-      },
-      "artists": [
-        {
-          "name": "Chalino Sanchez",
-          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
-        }
-      ],
-      "duration_ms": 202666,
-      "name": "Lucero Negro",
-      "url": "https://open.spotify.com/track/4jFiwrmMjzyawUvrjzLQU9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puros \u00c9xitos de Colecci\u00f3n!",
         "url": "https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 161373,
       "name": "El Branco Fajiado",
       "url": "https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hermos\u00edsimo Lucero",
+        "url": "https://open.spotify.com/album/5QNjrUgXwBtY6c3aArcCfT"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "duration_ms": 202666,
+      "name": "Lucero Negro",
+      "url": "https://open.spotify.com/track/4jFiwrmMjzyawUvrjzLQU9"
     },
     {
       "added_at": null,

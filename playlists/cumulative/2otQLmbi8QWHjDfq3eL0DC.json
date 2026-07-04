@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-08",
-  "description": "The hottest House Music of 2026! This electrifying House playlist features the biggest Dance Hits &amp; future anthems from David Guetta, Fred again.., Sonny Fodera, &amp; Prospa. Dive into pulsating beats, fresh grooves, and an unforgettable vibe. Uprdated Weekly! Like &amp; Save for your next dance session!",
+  "description": "The best House Music of 2026! Featuring pulsating beats, high-energy electronic dance tracks, and a mix of iconic artists like David Guetta, FISHER, Peggy Gou, and emerging talents. Perfect for parties, workouts, or just chilling. Updated weekly! Like and save this ultimate House playlist!",
   "name": "HOUSE MUSIC 2026: Future Dance Hits, House & Deep Beats  \ud83c\udfb6",
   "tracks": [
     {
@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 155272,
       "name": "Cola",
       "url": "https://open.spotify.com/track/0pcbM85AHWo70ZkHa356z6"
@@ -3154,7 +3154,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 205517,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/297ySrktTXj5A0Zjc37GGM"
@@ -4550,7 +4550,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 170435,
       "name": "Horny Dub",
       "url": "https://open.spotify.com/track/64WXDifwCNu1BuZHEsHi4M"
@@ -6730,6 +6730,28 @@
       "duration_ms": 170213,
       "name": "My Loving",
       "url": "https://open.spotify.com/track/49sL5BeNMirG6Fy4mBd8Fg"
+    },
+    {
+      "album": {
+        "name": "My Place",
+        "url": "https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159615,
+      "name": "My Place",
+      "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
     },
     {
       "album": {
@@ -9800,7 +9822,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 176114,
       "name": "The Less I Know The Better",
       "url": "https://open.spotify.com/track/7lDGg8CFySbkKUrjgzcLlY"

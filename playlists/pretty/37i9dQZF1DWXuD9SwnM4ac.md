@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Adam Newling
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,276 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,276 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 24 | [Billy Came Back](https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [Billy Came Back](https://open.spotify.com/album/5PWPGFNrbIuXQoLcI8FsAe) | 3:09 |
 | 25 | [Lovesick](https://open.spotify.com/track/1sbUpyzfqdSSthfycDcf0e) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Lovesick](https://open.spotify.com/album/0ndzE2uEr9PRIUqu7C7lgQ) | 3:22 |
 | 26 | [Leviathan](https://open.spotify.com/track/5aszFyUeoKHAI4FxaQ7lPy) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Leviathan](https://open.spotify.com/album/41f1PgklBN9dmuc3FHfobl) | 3:01 |
-| 27 | [Track 1](https://open.spotify.com/track/6il65sxXP5anUslAK7zCZ8) | [Cleopold](https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe) | [Fountain EP](https://open.spotify.com/album/6X62G6hAptr3vRSDpmhsQh) | 0:00 |
+| 27 | [Feel](https://open.spotify.com/track/6il65sxXP5anUslAK7zCZ8) | [Cleopold](https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe) | [Fountain EP](https://open.spotify.com/album/6X62G6hAptr3vRSDpmhsQh) | 2:38 |
 | 28 | [Skyline](https://open.spotify.com/track/03qYsxDMf1PpCvtOPUy4cM) | [Borderline](https://open.spotify.com/artist/2VHeXzEg1gCfwYf3oADlUQ) | [Borderline](https://open.spotify.com/album/1OvPquRf6N1RhATUOen0K6) | 3:02 |
 | 29 | [Molly In The Club](https://open.spotify.com/track/1ngbCM8cVBEcE3yCFdelAU) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Molly In The Club](https://open.spotify.com/album/1Z5c4jEcH46WtxXhAE7lCw) | 3:36 |
 | 30 | [landscaper](https://open.spotify.com/track/7FCAR9JMJ29OmljgBJHMy1) | [koady](https://open.spotify.com/artist/2DsFGIoVB23DBOaTG43HYG) | [landscaper](https://open.spotify.com/album/56cyoqPfH3kOxVrA9eHXoI) | 2:51 |

@@ -2,9 +2,9 @@
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> Your guide to R&B in Canada, with Pino from Toronto, ON.
+> Your guide to R&B in Canada, with Savannah Ré from Scarborough ON.
 
-1,705 songs - 3 day 16 hr 21 min
+1,706 songs - 3 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -648,6 +648,7 @@
 | [honest.](https://open.spotify.com/track/2LkGA3WjkbtMrlBDsR7AKM) | [GOODBADUGLY](https://open.spotify.com/artist/1lhpezG9iqq6YgLFcKlIA9) | [honest.](https://open.spotify.com/album/7sQr6AKQsUuc0AJTtRNUFg) | 2:46 | 2025-04-04 | 2025-04-18 |
 | [Hooked](https://open.spotify.com/track/5pqG9n8GviAw4bKXL6iF5q) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Hooked](https://open.spotify.com/album/3yhKFjz9G1bZRWpIVXjkH8) | 2:26 | 2024-01-05 | 2024-04-06 |
 | [Hooked On](https://open.spotify.com/track/0xnDhi7ehA9Y21gAUirwlZ) | [JRDN](https://open.spotify.com/artist/2YVjMQPHJLrs0zA0ILNoEs), [Lane Hall](https://open.spotify.com/artist/2ZfKm6iXzDQqNBmotXFoAc) | [Hooked On](https://open.spotify.com/album/6NM9vVJcg0MxIjfiRoz5bd) | 2:51 | 2026-04-03 | 2026-05-09 |
+| [HOPE THIS FINDS U WELL](https://open.spotify.com/track/6omhGSjnKBfb0WIV9OnPhg) | [Mikey Jose](https://open.spotify.com/artist/3rJEy2vNlsmWO5JHxKEaP8) | [HOPE THIS FINDS U WELL](https://open.spotify.com/album/0d32gre7n7pjOKXGFEVlRJ) | 3:03 | 2026-07-03 |  |
 | [Hope U Find](https://open.spotify.com/track/5vS2MTI8r3DcjSfz4U3A8e) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA) | [Hope U Find](https://open.spotify.com/album/7BgcpFE0IaaVY2rnAfszlF) | 2:51 | 2024-10-18 | 2024-12-07 |
 | [Hopeless Dreams](https://open.spotify.com/track/5FnRhAsZ49bWT959RnXtmJ) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Hopeless Dreams](https://open.spotify.com/album/4NxlfS6ZSFv4BPRGPCdF5s) | 2:53 | 2025-01-17 | 2025-02-08 |
 | [Hot](https://open.spotify.com/track/1PYzbO75HFtcX9xa210DFF) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Eastend Confessions](https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ) | 2:42 | 2024-04-05 | 2024-12-07 |
@@ -827,7 +828,7 @@
 | [Like Nobody Does](https://open.spotify.com/track/6TRmk0QPUR6AvgWhjWZKUD) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [一](https://open.spotify.com/album/1JhvivCnXEpWf5f2Xq7hO5) | 3:32 | 2025-02-28 | 2025-04-26 |
 | [Like This](https://open.spotify.com/track/0GFTRiJNBQFJ8rjdsIBQYf) | [Hunnah](https://open.spotify.com/artist/5ALJQTH4K9eghzib4UhiqV) | [Like This](https://open.spotify.com/album/3M9hNGeopiVi6Dzww2GBlX) | 3:49 | 2023-09-22 | 2023-10-21 |
 | [like u](https://open.spotify.com/track/6xQ4rD1wJqsMGod1op0PW4) | [Chris LaRocca](https://open.spotify.com/artist/5fFB1hBz2L4anAGavq3NxW) | [like u](https://open.spotify.com/album/3Q7ntjuAdwCjXhgLnbf2qt) | 2:27 | 2023-06-30 | 2023-10-28 |
-| [Like U Do](https://open.spotify.com/track/3BldMFvkpXPeLf9d8vVUTT) | [Leila Dey](https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp) | [Like U Do](https://open.spotify.com/album/3PQcIXt5GMZ3UCjQkx1cKc) | 2:44 | 2026-06-26 |  |
+| [Like U Do](https://open.spotify.com/track/3BldMFvkpXPeLf9d8vVUTT) | [Leila Dey](https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp) | [Like U Do](https://open.spotify.com/album/3PQcIXt5GMZ3UCjQkx1cKc) | 2:44 | 2026-06-26 | 2026-07-04 |
 | [Limbo](https://open.spotify.com/track/0S9JTiTJwZwkHI0VyoDeGn) | [Aqyila](https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4) | [Limbo](https://open.spotify.com/album/3MQzzTzLhhGqPRJTyMCgqj) | 3:03 | 2024-10-11 | 2025-03-01 |
 | [Limbo](https://open.spotify.com/track/2CxwqktUwLHo0XtgMaI9Qc) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Limbo](https://open.spotify.com/album/22PJnohZYZdtqexRDkX6Qs) | 2:45 | 2023-09-08 | 2023-09-30 |
 | [Limbo](https://open.spotify.com/track/4BMhR515OiK2TII7qzQujj) | [Yoko Gold](https://open.spotify.com/artist/24WdRSLiIlFrqK2FqxGLVm) | [Limbo](https://open.spotify.com/album/5pXEHD47zKV9KyUcEAuRlV) | 2:45 | 2023-07-07 | 2023-09-15 |

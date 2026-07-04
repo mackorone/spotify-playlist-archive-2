@@ -2,9 +2,9 @@
 
 ### [Norteño\-Banda](https://open.spotify.com/playlist/37i9dQZF1DWU6iy0O1kuqg)
 
-> ¡Lo mejor de dos mundos! Qué retumbe la tuba y arremangue el acordeón\. Beto Vega en portada.
+> ¡Lo mejor de dos mundos! Qué retumbe la tuba y arremangue el acordeón\. Clave Especial y Los Parras en portada.
 
-74 songs - 4 hr 5 min
+75 songs - 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [La Canelera](https://open.spotify.com/track/3PzzOKzjFrTSP2DREIfgQm) | [Los Gfez](https://open.spotify.com/artist/21oKCrUHWbio1GrIP6zpcF) | [Bien Servida](https://open.spotify.com/album/3lTpVrs96jPer7Q9CLWYfr) | 4:01 | 2023-12-01 |  |
 | [La Canelera](https://open.spotify.com/track/7iAZRDACuQWUMoLff58NIU) | [Los Gfez](https://open.spotify.com/artist/21oKCrUHWbio1GrIP6zpcF) | [Bien Servida](https://open.spotify.com/album/1O3O4TeDqMIJe44arc3ePQ) | 4:01 | 2023-02-24 | 2024-04-19 |
 | [La Fuga Del Dorian](https://open.spotify.com/track/5DgIgLz265MAoaBulWlV5f) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga Del Dorian](https://open.spotify.com/album/36mJ5VoUwMC3MFQHcUt68T) | 4:37 | 2023-02-24 | 2024-04-19 |
-| [La Fuga del Dorian \(feat\. Ariel Camacho & Regulo Caro\)](https://open.spotify.com/track/0aKMglFhqmZzJXiNdT0BGK) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga del Dorian](https://open.spotify.com/album/5JTve2kpwniH9fmvXiwO0z) | 4:37 | 2023-02-24 |  |
+| [La Fuga del Dorian \(feat\. Ariel Camacho & Regulo Caro\)](https://open.spotify.com/track/0aKMglFhqmZzJXiNdT0BGK) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga del Dorian](https://open.spotify.com/album/5JTve2kpwniH9fmvXiwO0z) | 4:37 | 2023-02-24 | 2026-07-04 |
 | [La Mb](https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Mb](https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl) | 3:23 | 2023-02-24 | 2023-12-02 |
 | [La Plebada Belica](https://open.spotify.com/track/0Liq4rybSdxhZ5oCeVZWup) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Plebada Belica](https://open.spotify.com/album/64Dj5lN4cxi8nacidPCbvs) | 2:45 | 2023-02-24 |  |
 | [La Plebada Belica](https://open.spotify.com/track/1I05Oi3owEMe0nu9oG6bkF) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Plebada Belica](https://open.spotify.com/album/6sSNTGCrVNvggz9tJm0rcH) | 2:45 | 2023-02-24 | 2024-04-19 |
@@ -76,6 +76,7 @@
 | [Te Amo \- En vivo](https://open.spotify.com/track/2aJKZn5EEgu3ktMrkN9t3A) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Te Amo \(En vivo\)](https://open.spotify.com/album/5SMUfi5QkPbnaaUhBIvw92) | 3:07 | 2023-02-24 | 2025-09-20 |
 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/3PVrycV05knnR92Lgyqwrb) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 3:45 | 2023-02-24 |  |
 | [Terrenal](https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Lo Intentes](https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0) | 3:57 | 2023-02-24 |  |
+| [Tu Culpa](https://open.spotify.com/track/71fEdsATrEMneN7WtPHOKm) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Tu Culpa](https://open.spotify.com/album/5xjSsGHh00cq4aUQ4oEUg6) | 2:54 | 2026-07-03 |  |
 | [Volví a Creer](https://open.spotify.com/track/2yOfYBPbdI0mi1nTyc9npI) | [Los Caliz](https://open.spotify.com/artist/4S7g1b3zVElT70kZGKkXiz) | [Volví a Creer](https://open.spotify.com/album/70Lc4xSgJ1jAxS5G4GlgxC) | 3:10 | 2023-02-24 | 2026-02-07 |
 | [Y de Repente](https://open.spotify.com/track/56Bvs8Rn1SedqQuuMsXFBS) | [Francisco El Gallo Elizalde](https://open.spotify.com/artist/4MdLjs618SVsOLaxdm1vBb) | [Y de Repente](https://open.spotify.com/album/1qPTt3cxLSg69dREKy9jpD) | 3:09 | 2026-02-06 |  |
 | [Y Yo Sin Ti](https://open.spotify.com/track/33mNMJ2UUE9uLPMNabxgGq) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Y Yo Sin Ti](https://open.spotify.com/album/3jCQKwXBTIMy13TfEAxKhl) | 3:18 | 2023-02-24 |  |

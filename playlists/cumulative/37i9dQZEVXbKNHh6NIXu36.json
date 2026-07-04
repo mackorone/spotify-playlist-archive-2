@@ -25186,7 +25186,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 202200,
       "name": "Glaub an dich",
       "url": "https://open.spotify.com/track/09hSAIOP4b4GhBfhRoO5KU"
@@ -25222,7 +25222,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 202240,
       "name": "Glaub an dich",
       "url": "https://open.spotify.com/track/3ZleCKWBDOfCcZ2Ld31mXP"
@@ -28976,7 +28976,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 226760,
       "name": "I Am From Austria",
       "url": "https://open.spotify.com/track/4k6YVbT54FVcFI5dKqKWPZ"
@@ -30968,7 +30968,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 216880,
       "name": "In the End",
       "url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq"
@@ -36508,7 +36508,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 233653,
       "name": "Locked out of Heaven",
       "url": "https://open.spotify.com/track/5g7sDjBhZ4I3gcFIpkrLuI"
@@ -56902,7 +56902,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 167956,
       "name": "Sprite",
       "url": "https://open.spotify.com/track/33GWazvVeU0AjantuvL6Z7"
@@ -64306,7 +64306,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -66488,7 +66488,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 156207,
       "name": "Way Too Self Aware",
       "url": "https://open.spotify.com/track/2rkUhGw5iWbBY1PE5AnCl8"
@@ -69302,7 +69302,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 141650,
       "name": "Willkommen in Autriche",
       "url": "https://open.spotify.com/track/0V3aF1AzXM09yHxdPjVPY4"
@@ -69494,6 +69494,24 @@
       "duration_ms": 137500,
       "name": "Wittenbergplatz",
       "url": "https://open.spotify.com/track/020fQowWGE54urxH67pgFx"
+    },
+    {
+      "album": {
+        "name": "WM Song \u00d6sterreich 2026",
+        "url": "https://open.spotify.com/album/1VcSgdrV5UrZvHFOl7SrP0"
+      },
+      "artists": [
+        {
+          "name": "Flipperino",
+          "url": "https://open.spotify.com/artist/4NQd3ejeHbC3JYRryC7QiT"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133457,
+      "name": "WM Song \u00d6sterreich 2026",
+      "url": "https://open.spotify.com/track/6dLXvBS9qeRo1or0E8CA80"
     },
     {
       "album": {

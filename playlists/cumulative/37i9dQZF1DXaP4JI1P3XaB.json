@@ -264,7 +264,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 598002,
       "name": "Chimes in the Garden",
       "url": "https://open.spotify.com/track/4532RaXEys5YCZQDl4Z7tr"
@@ -692,7 +692,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 180000,
       "name": "Her Coming In",
       "url": "https://open.spotify.com/track/5y3IuJJpEYKJrLP4Wrfr6t"
@@ -788,6 +788,24 @@
       "duration_ms": 1041494,
       "name": "Late Autumn (feat. Anna Butterss, Jay Bellerose & Josh Johnson)",
       "url": "https://open.spotify.com/track/47yettQYYWSbrLOYDr7osZ"
+    },
+    {
+      "album": {
+        "name": "Themes for Dreams",
+        "url": "https://open.spotify.com/album/06G06OL909oEZdjS1pGLEm"
+      },
+      "artists": [
+        {
+          "name": "Resavoir",
+          "url": "https://open.spotify.com/artist/4Sl3fpSDeo9cMb3ouKm0rV"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190969,
+      "name": "Lilacs",
+      "url": "https://open.spotify.com/track/3h3QT6qUma6os10H5CHAKw"
     },
     {
       "album": {
@@ -1089,6 +1107,28 @@
     },
     {
       "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/3iDUeJcLrBeCnvhyixNnNZ"
+      },
+      "artists": [
+        {
+          "name": "Cito Kaling",
+          "url": "https://open.spotify.com/artist/04uApbJsV0gK6slyX8b2vC"
+        },
+        {
+          "name": "Shusty Bones",
+          "url": "https://open.spotify.com/artist/0dum3gPF36BAH4BH15cwhu"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260395,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/6l5YOAgwknzbzvsk2QA9j4"
+    },
+    {
+      "album": {
         "name": "Resavoir",
         "url": "https://open.spotify.com/album/2Uw4MweEcRO4UwKRNM5biI"
       },
@@ -1100,7 +1140,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 260026,
       "name": "Plantasy",
       "url": "https://open.spotify.com/track/4UBg1SHTCbPQGi6KyUu7pC"
@@ -1143,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "Elements of Nature",
+        "url": "https://open.spotify.com/album/6APSKFyKCqqb6Fh8zV7sx7"
+      },
+      "artists": [
+        {
+          "name": "Felbm",
+          "url": "https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135553,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/4QvVrqtHzZNwhm8Dnmb1nC"
+    },
+    {
+      "album": {
         "name": "Plexus Plexus",
         "url": "https://open.spotify.com/album/0Ft57BsIB0sN2BeIlUtXoV"
       },
@@ -1166,6 +1224,28 @@
       "duration_ms": 113033,
       "name": "Royal Princess",
       "url": "https://open.spotify.com/track/3YLBjuLNtkZ0zIjXhMfA2H"
+    },
+    {
+      "album": {
+        "name": "Seeing Is Forgetting",
+        "url": "https://open.spotify.com/album/3HKaS5uR80yGC1SW34d4ll"
+      },
+      "artists": [
+        {
+          "name": "Elori Saxl",
+          "url": "https://open.spotify.com/artist/6ToGjPfiUS10Zds9xirvm0"
+        },
+        {
+          "name": "Henry Solomon",
+          "url": "https://open.spotify.com/artist/65dR9mWSEKojt3aFbevjrR"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216373,
+      "name": "Seeing Is Forgetting",
+      "url": "https://open.spotify.com/track/19iE95ZowwXzcMaLZNcWyn"
     },
     {
       "album": {
@@ -1264,6 +1344,28 @@
       "duration_ms": 1052000,
       "name": "Space 8",
       "url": "https://open.spotify.com/track/1vDr33ErpWkmSc29e7eXIL"
+    },
+    {
+      "album": {
+        "name": "Loam",
+        "url": "https://open.spotify.com/album/3CcZHtvv8KgDSUrBcagCt8"
+      },
+      "artists": [
+        {
+          "name": "Corey Gordon",
+          "url": "https://open.spotify.com/artist/0L1ETgZO2x7XAJSwXWTdN5"
+        },
+        {
+          "name": "Nathanial Young",
+          "url": "https://open.spotify.com/artist/60v3K7UhzLbEnVws8zWNBm"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282580,
+      "name": "Swan",
+      "url": "https://open.spotify.com/track/36WNSoX1fLaiG0Gw005a4k"
     },
     {
       "album": {
@@ -1482,7 +1584,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 152216,
       "name": "Wave I",
       "url": "https://open.spotify.com/track/0XUveuz26OSQAnOvaAuAzz"
@@ -1580,7 +1682,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 233826,
       "name": "Windswept - Reprise",
       "url": "https://open.spotify.com/track/0wBYMy6HFpLG7V7063GIT3"

@@ -115410,7 +115410,7 @@
           "url": "https://open.spotify.com/artist/2j3IddNViRSr6U3yZO4AUO"
         },
         {
-          "name": "Goldmax",
+          "name": "GoldMax",
           "url": "https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl"
         },
         {
@@ -145672,6 +145672,28 @@
       "duration_ms": 203210,
       "name": "Naledi",
       "url": "https://open.spotify.com/track/73XTer5tuPKNstPEW1eKwL"
+    },
+    {
+      "album": {
+        "name": "Year Of The Pen",
+        "url": "https://open.spotify.com/album/3X9ADdGjlXeD7R1iwsO6q4"
+      },
+      "artists": [
+        {
+          "name": "King Kaka",
+          "url": "https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS"
+        },
+        {
+          "name": "Okello Max",
+          "url": "https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339692,
+      "name": "Nalingi Yo",
+      "url": "https://open.spotify.com/track/1ABmyUibzK9hC9S66mBcFk"
     },
     {
       "album": {
@@ -180119,6 +180141,24 @@
     },
     {
       "album": {
+        "name": "Worthy Challenger",
+        "url": "https://open.spotify.com/album/0WKTcQ4BvpNVKWYswVm1gU"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144487,
+      "name": "Samankwe",
+      "url": "https://open.spotify.com/track/1lKPYCHbsmfviBbUq6xyZB"
+    },
+    {
+      "album": {
         "name": "SAMBA",
         "url": "https://open.spotify.com/album/3fgLE2W9tcJSsna2DulvBs"
       },
@@ -187297,7 +187337,7 @@
       "artists": [
         {
           "name": "SKIIPS",
-          "url": "https://open.spotify.com/artist/1bwoQplm4kt5fCDo8SMGor"
+          "url": "https://open.spotify.com/artist/1QquCeba1W051sM56tKu0Y"
         },
         {
           "name": "Lowfeye",
@@ -215671,60 +215711,6 @@
     },
     {
       "album": {
-        "name": "Worthy Challenger",
-        "url": "https://open.spotify.com/album/0WKTcQ4BvpNVKWYswVm1gU"
-      },
-      "artists": [
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "date_added": "2026-07-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/1lKPYCHbsmfviBbUq6xyZB"
-    },
-    {
-      "album": {
-        "name": "Year Of The Pen",
-        "url": "https://open.spotify.com/album/3X9ADdGjlXeD7R1iwsO6q4"
-      },
-      "artists": [
-        {
-          "name": "King Kaka",
-          "url": "https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS"
-        }
-      ],
-      "date_added": "2026-07-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/1ABmyUibzK9hC9S66mBcFk"
-    },
-    {
-      "album": {
-        "name": "ISIKHIYA SEMPILO",
-        "url": "https://open.spotify.com/album/16E90UWPnMF2E5Fncneqof"
-      },
-      "artists": [
-        {
-          "name": "UMatollgate",
-          "url": "https://open.spotify.com/artist/0TtLcYUD2r9OIGDNDRC2rZ"
-        }
-      ],
-      "date_added": "2026-07-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/6TcgwEYhglUcbjOB7MgotX"
-    },
-    {
-      "album": {
         "name": "Monica",
         "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
       },
@@ -223384,6 +223370,28 @@
       "duration_ms": 486428,
       "name": "uMuntu (feat. Tumilemang)",
       "url": "https://open.spotify.com/track/3FnOgZMYQJSoOrQTVfSyHn"
+    },
+    {
+      "album": {
+        "name": "ISIKHIYA SEMPILO",
+        "url": "https://open.spotify.com/album/16E90UWPnMF2E5Fncneqof"
+      },
+      "artists": [
+        {
+          "name": "UMatollgate",
+          "url": "https://open.spotify.com/artist/0TtLcYUD2r9OIGDNDRC2rZ"
+        },
+        {
+          "name": "Mjolisi",
+          "url": "https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208718,
+      "name": "Umuntu Wokuqala",
+      "url": "https://open.spotify.com/track/6TcgwEYhglUcbjOB7MgotX"
     },
     {
       "album": {

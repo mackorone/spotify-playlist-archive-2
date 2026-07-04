@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: James Barker Band",
+  "description": "The home of Canadian country music. Cover: Trudy",
   "name": "North Country",
   "tracks": [
     {
@@ -142,7 +142,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 215002,
       "name": "A Man Without A Woman",
       "url": "https://open.spotify.com/track/0qAuzgQAd3jdfYLm7Z4NdO"
@@ -910,7 +910,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 201600,
       "name": "Be This Good",
       "url": "https://open.spotify.com/track/3IDu5U0jODmIG5DxQ5l0aC"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 198024,
       "name": "Beauty Queen Bandit",
       "url": "https://open.spotify.com/track/74avE5feXKPnvCs9aJQmH8"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 152000,
       "name": "Better Get Movin' - Version Fran\u00e7aise",
       "url": "https://open.spotify.com/track/4WD2027AkDz69kSOYCmR8M"
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 217690,
       "name": "Can't Sleep",
       "url": "https://open.spotify.com/track/5WDxgMzBzalu5QpWlKZa9b"
@@ -2956,7 +2956,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 198351,
       "name": "Drive By",
       "url": "https://open.spotify.com/track/13neS0U8XvBBxg0CakYena"
@@ -3364,7 +3364,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 218000,
       "name": "fence sitter",
       "url": "https://open.spotify.com/track/3EOlgESZdhj7hSHEwR4r5T"
@@ -3596,7 +3596,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 202255,
       "name": "For The Record",
       "url": "https://open.spotify.com/track/6Vt0ybRcsCNOuDJwdp6NDL"
@@ -4112,7 +4112,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 214942,
       "name": "Good Old Days",
       "url": "https://open.spotify.com/track/3NpwbBi1yPjQS1YbXTdsDK"
@@ -4310,7 +4310,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 202133,
       "name": "GWYH",
       "url": "https://open.spotify.com/track/5QxnG4nH3YRFLepPt6Jyh2"
@@ -4328,7 +4328,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 181273,
       "name": "Half Hearted",
       "url": "https://open.spotify.com/track/7sZkWXjTJYjzeZj9DVLmOV"
@@ -5117,6 +5117,24 @@
     },
     {
       "album": {
+        "name": "I Ain't Crazy",
+        "url": "https://open.spotify.com/album/628DIU2SdRrY389XLcXxv6"
+      },
+      "artists": [
+        {
+          "name": "Kyle McKearney",
+          "url": "https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201487,
+      "name": "I Ain't Crazy",
+      "url": "https://open.spotify.com/track/4ZJ6oanHufLf1kBDloOipa"
+    },
+    {
+      "album": {
         "name": "I Believe In You",
         "url": "https://open.spotify.com/album/1SevZzrPL8CFIi6lwSlyfH"
       },
@@ -5164,7 +5182,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 218383,
       "name": "I Don't",
       "url": "https://open.spotify.com/track/6a4lUHHTBXUunpOuraoEnz"
@@ -5830,7 +5848,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 182532,
       "name": "If You Ain\u2019t In Love By Now",
       "url": "https://open.spotify.com/track/2fvv8455RiAIie3YY6oxxF"
@@ -5884,7 +5902,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 250998,
       "name": "In The Feeling",
       "url": "https://open.spotify.com/track/6O88XHRzbDCOB4Ov30qW8C"
@@ -6400,7 +6418,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 196446,
       "name": "Leavin' on My Lips",
       "url": "https://open.spotify.com/track/31aeLzAogtMnsby1kgRm4q"
@@ -7422,7 +7440,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 173388,
       "name": "Must Be Listening",
       "url": "https://open.spotify.com/track/4Q7460eF0zC7PZN2voDMvy"
@@ -7632,7 +7650,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 179567,
       "name": "Neon Midnight Mass",
       "url": "https://open.spotify.com/track/5wGPCeEUzGXYWJ1RlNVRZD"
@@ -8155,6 +8173,44 @@
     },
     {
       "album": {
+        "name": "On va veiller toute la nuit",
+        "url": "https://open.spotify.com/album/7qda1MBlYz2KIHn2ZdtJmD"
+      },
+      "artists": [
+        {
+          "name": "Classe Moyenne",
+          "url": "https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v"
+        },
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        },
+        {
+          "name": "Zach Chico",
+          "url": "https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37"
+        },
+        {
+          "name": "Justin Roy",
+          "url": "https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc"
+        },
+        {
+          "name": "Phil Rxcket",
+          "url": "https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt"
+        },
+        {
+          "name": "Francis Degrandpr\u00e9",
+          "url": "https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199453,
+      "name": "On va veiller toute la nuit (feat. Francis Degrandpr\u00e9)",
+      "url": "https://open.spotify.com/track/35BamCZ36Pz5wtUrF9go0g"
+    },
+    {
+      "album": {
         "name": "One Beer Away",
         "url": "https://open.spotify.com/album/4PrVEVTs11WAhVm1k4Q7pd"
       },
@@ -8447,6 +8503,24 @@
     },
     {
       "album": {
+        "name": "Out of the Blue",
+        "url": "https://open.spotify.com/album/6kdepnqmr1hB6DUgyF8tBP"
+      },
+      "artists": [
+        {
+          "name": "Kelsi Mayne",
+          "url": "https://open.spotify.com/artist/6uv2fPLMbVveROjIuS1WER"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171891,
+      "name": "Out of the Blue",
+      "url": "https://open.spotify.com/track/6wPDPOfdDr3SsMsoUnI6Eu"
+    },
+    {
+      "album": {
         "name": "Outliving (For Mom)",
         "url": "https://open.spotify.com/album/49L9I4n7kIxGBOjakpxuCo"
       },
@@ -8566,7 +8640,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 177851,
       "name": "Panic Years",
       "url": "https://open.spotify.com/track/11lqToYePXmYJSf1sGLcNZ"
@@ -8584,7 +8658,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 178513,
       "name": "Paper Plane",
       "url": "https://open.spotify.com/track/03DUnMtoZqg8KWaiwLZ8p2"
@@ -8656,7 +8730,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 201884,
       "name": "Penny",
       "url": "https://open.spotify.com/track/6lxyUYrbj4S628Ue6d4g1x"
@@ -8924,7 +8998,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 156562,
       "name": "Put It On Me",
       "url": "https://open.spotify.com/track/2JZDyIQLudHyPupl7P9eDW"
@@ -9158,7 +9232,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 193621,
       "name": "RENT FREE",
       "url": "https://open.spotify.com/track/0aVHXmSUizaqth5OswMMUE"
@@ -9392,7 +9466,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 189431,
       "name": "Ruin Your Bar",
       "url": "https://open.spotify.com/track/5P1hRtdbq8Oyw5me30rrj1"
@@ -9464,7 +9538,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 165417,
       "name": "Said My Name",
       "url": "https://open.spotify.com/track/6tmOYJ9KXfFroloCTj3Rt4"
@@ -9580,6 +9654,24 @@
       "duration_ms": 201388,
       "name": "Second Wind",
       "url": "https://open.spotify.com/track/71UKlf9OjnkhyPXUNyDeDk"
+    },
+    {
+      "album": {
+        "name": "seen enough",
+        "url": "https://open.spotify.com/album/0vlWL2GHdD970RvEDBs9N9"
+      },
+      "artists": [
+        {
+          "name": "Trudy",
+          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209698,
+      "name": "seen enough",
+      "url": "https://open.spotify.com/track/51uPCxApVvtuYkc2lFP1E0"
     },
     {
       "album": {
@@ -9720,7 +9812,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 199250,
       "name": "She'll Come Back Around",
       "url": "https://open.spotify.com/track/187cW7kMU74S7mISzjUjO1"
@@ -9814,7 +9906,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 196472,
       "name": "Si demain",
       "url": "https://open.spotify.com/track/7uYXdlu7yyD3nQ1xnObsah"
@@ -10578,7 +10670,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 193501,
       "name": "Strangers Don't",
       "url": "https://open.spotify.com/track/5ifMD7ZWXHBkB27IDIU3ML"
@@ -10942,7 +11034,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 188615,
       "name": "That's Gonna Leave A Memory",
       "url": "https://open.spotify.com/track/2zXUfh8jRLZoT1MttcUPrM"
@@ -11000,7 +11092,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 185000,
       "name": "The Backroad of Memory Lane",
       "url": "https://open.spotify.com/track/1nzc2DRbyaueJ9cYKcGdgW"
@@ -11693,6 +11785,24 @@
     },
     {
       "album": {
+        "name": "Traveling Blues",
+        "url": "https://open.spotify.com/album/4CEWvUJ9YjEQF1apGtPTju"
+      },
+      "artists": [
+        {
+          "name": "Evan Roderick",
+          "url": "https://open.spotify.com/artist/7bw5PTECn2uhtnzlssXeHE"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215250,
+      "name": "Traveling Blues",
+      "url": "https://open.spotify.com/track/45fEI8uXWhqDdo7JkBm73i"
+    },
+    {
+      "album": {
         "name": "Traverser les saisons (remix)",
         "url": "https://open.spotify.com/album/61VRoHVp4jL00SmS99NRpm"
       },
@@ -11708,7 +11818,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 178378,
       "name": "Traverser les saisons - remix",
       "url": "https://open.spotify.com/track/75nwaoi4yo4yOTn3t6WQgy"
@@ -12653,6 +12763,24 @@
     },
     {
       "album": {
+        "name": "Wild One",
+        "url": "https://open.spotify.com/album/3hso24A17CvR3XtHsQtyam"
+      },
+      "artists": [
+        {
+          "name": "Brandi Caroline",
+          "url": "https://open.spotify.com/artist/4W3vgO5COtH2sUKrPJUcjQ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208210,
+      "name": "Wild One",
+      "url": "https://open.spotify.com/track/1hzhwqaH1z72vzbihRF3No"
+    },
+    {
+      "album": {
         "name": "Wild West",
         "url": "https://open.spotify.com/album/1kxBDv8EZP84fpagF10KoW"
       },
@@ -12852,7 +12980,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 181148,
       "name": "Worship",
       "url": "https://open.spotify.com/track/03N9OR43va8nurQNeUDcgR"
@@ -13000,7 +13128,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 166173,
       "name": "You and Me",
       "url": "https://open.spotify.com/track/0vuj9C2EaijzROiGd4yAvz"

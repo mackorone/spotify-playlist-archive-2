@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : Jean-Jacques Goldman",
-  "num_followers": 501844,
+  "num_followers": 501858,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
-        "name": "La symphonie des \u00e9clairs",
-        "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
-      },
-      "artists": [
-        {
-          "name": "Zaho de Sagazan",
-          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
-        }
-      ],
-      "duration_ms": 198789,
-      "name": "La symphonie des \u00e9clairs",
-      "url": "https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn"
-    },
-    {
-      "added_at": "2026-05-19 09:22:08",
-      "album": {
         "name": "Le chemin",
         "url": "https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i"
       },
@@ -259,18 +243,18 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
-        "name": "Babacar (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
+        "name": "La symphonie des \u00e9clairs",
+        "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
       },
       "artists": [
         {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+          "name": "Zaho de Sagazan",
+          "url": "https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq"
         }
       ],
-      "duration_ms": 291400,
-      "name": "Ella, elle l'a - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/67CfbIKKTCKFqmQLJwUftX"
+      "duration_ms": 198789,
+      "name": "La symphonie des \u00e9clairs",
+      "url": "https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn"
     },
     {
       "added_at": "2026-05-19 09:22:08",
@@ -287,6 +271,22 @@
       "duration_ms": 206920,
       "name": "Caravane",
       "url": "https://open.spotify.com/track/2UXjdnCvgGGIXLrAwCVVQT"
+    },
+    {
+      "added_at": "2026-05-19 09:22:08",
+      "album": {
+        "name": "Babacar (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "Ella, elle l'a - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/67CfbIKKTCKFqmQLJwUftX"
     },
     {
       "added_at": "2026-05-19 09:22:08",
@@ -795,26 +795,6 @@
     {
       "added_at": "2026-05-19 09:22:08",
       "album": {
-        "name": "MESDAMES deluxe",
-        "url": "https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh"
-      },
-      "artists": [
-        {
-          "name": "Grand Corps Malade",
-          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
-        },
-        {
-          "name": "Camille Lellouche",
-          "url": "https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Mais je t'aime",
-      "url": "https://open.spotify.com/track/17NQyo1HsqDX7mbzsTWMuX"
-    },
-    {
-      "added_at": "2026-05-19 09:22:08",
-      "album": {
         "name": "Un autre monde (Remasteris\u00e9 en 2015)",
         "url": "https://open.spotify.com/album/5DiavRKmdRpqdzgBjoNEF3"
       },
@@ -827,6 +807,22 @@
       "duration_ms": 273920,
       "name": "Un autre monde - Remasteris\u00e9 en 2015",
       "url": "https://open.spotify.com/track/3I4ecHrrMuD8FFfFCVy4g5"
+    },
+    {
+      "added_at": "2026-05-19 09:22:08",
+      "album": {
+        "name": "Toi + Moi",
+        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e9goire",
+          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Toi + Moi",
+      "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
     }
   ],
   "unique_name": "Culture Tubes",

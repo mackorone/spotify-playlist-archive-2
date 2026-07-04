@@ -31738,7 +31738,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 202200,
       "name": "Glaub an dich",
       "url": "https://open.spotify.com/track/09hSAIOP4b4GhBfhRoO5KU"
@@ -31774,7 +31774,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 202240,
       "name": "Glaub an dich",
       "url": "https://open.spotify.com/track/3ZleCKWBDOfCcZ2Ld31mXP"
@@ -43564,7 +43564,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 138224,
       "name": "KOMM N\u00c4HER",
       "url": "https://open.spotify.com/track/5bw4N8amK7DNOshwCDMgIJ"
@@ -57368,7 +57368,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -61596,7 +61596,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 156076,
       "name": "Pil\u00e9",
       "url": "https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo"
@@ -65182,7 +65182,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 129640,
       "name": "Rhythm",
       "url": "https://open.spotify.com/track/3DJXImQZvUqOPgB7gFdl9n"
@@ -72137,6 +72137,32 @@
     },
     {
       "album": {
+        "name": "Johnny's Tape",
+        "url": "https://open.spotify.com/album/3jfyew5NDe2kYjkYdxQFTD"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Gzuz",
+          "url": "https://open.spotify.com/artist/5eioJDe26lOqkAMbuhzZYs"
+        },
+        {
+          "name": "JUGGLERZ",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167956,
+      "name": "Sprite",
+      "url": "https://open.spotify.com/track/0MGuqtAe7UZ2THAbEqWHO9"
+    },
+    {
+      "album": {
         "name": "Sprite",
         "url": "https://open.spotify.com/album/3WaDchMGNAs1Vi93JxYLnJ"
       },
@@ -72156,7 +72182,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 167956,
       "name": "Sprite",
       "url": "https://open.spotify.com/track/33GWazvVeU0AjantuvL6Z7"
@@ -80750,7 +80776,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -86216,7 +86242,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 144101,
       "name": "White Keys",
       "url": "https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI"

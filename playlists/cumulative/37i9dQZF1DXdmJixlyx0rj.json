@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: Peggy Gou, Ayra Starr)",
+  "description": "New & best K-Electronic music is here. (Cover: Silly Silky (\uc2e4\ub9ac\uc2e4\ud0a4))",
   "name": "Electronii[K]",
   "tracks": [
     {
@@ -4373,6 +4373,24 @@
     },
     {
       "album": {
+        "name": "Sequence",
+        "url": "https://open.spotify.com/album/3jiqaGVsEHvgYoVDP4IsY2"
+      },
+      "artists": [
+        {
+          "name": "XXOK",
+          "url": "https://open.spotify.com/artist/4mNaf6h2zBKJvFsTATvB5E"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271818,
+      "name": "NOW HERE",
+      "url": "https://open.spotify.com/track/6dsFCeO89AwO6lB53BqS5C"
+    },
+    {
+      "album": {
         "name": "O.Y.S.T.E.R",
         "url": "https://open.spotify.com/album/5v71xpMsua2dco9yQVtFhV"
       },
@@ -4896,7 +4914,7 @@
       ],
       "date_added": "2024-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 262090,
       "name": "Priya",
       "url": "https://open.spotify.com/track/10eVKI5N6suUUxkeG5dTBV"
@@ -5839,6 +5857,24 @@
     },
     {
       "album": {
+        "name": "silkysmooth 06",
+        "url": "https://open.spotify.com/album/0ruOKA3oxsRvAbW5rX06EG"
+      },
+      "artists": [
+        {
+          "name": "Silly Silky",
+          "url": "https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213852,
+      "name": "Tangerine Fade",
+      "url": "https://open.spotify.com/track/4kkwW5Zx780EgDKf4vMSYv"
+    },
+    {
+      "album": {
         "name": "Techno Drop",
         "url": "https://open.spotify.com/album/6H77wIORIEe2156QVDgWzC"
       },
@@ -6238,7 +6274,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 216896,
       "name": "Victory",
       "url": "https://open.spotify.com/track/2osyzRNIOMXUoW4gJLrRxl"

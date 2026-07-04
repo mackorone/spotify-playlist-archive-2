@@ -1,6 +1,6 @@
 {
   "description": "The hottest Hip-Hop of today all over the world. (Cover: 1300)",
-  "num_followers": 458853,
+  "num_followers": 458859,
   "original_name": "Beats & Rhymes",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,30 @@
       "duration_ms": 159598,
       "name": "Headrock",
       "url": "https://open.spotify.com/track/2mup9ZJa9brkbC6ly7qOIO"
+    },
+    {
+      "added_at": "2026-07-02 15:00:12",
+      "album": {
+        "name": "All Summer (feat. BH)",
+        "url": "https://open.spotify.com/album/7lwZOYiPIJKkin7LsxG2KL"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "BH",
+          "url": "https://open.spotify.com/artist/77EDqy4AyUvtLGhIqOy3Dc"
+        }
+      ],
+      "duration_ms": 239640,
+      "name": "All Summer (feat. BH)",
+      "url": "https://open.spotify.com/track/23wBbnEZdCdnPNynMZeLpg"
     },
     {
       "added_at": "2026-07-02 15:00:12",
@@ -191,6 +215,22 @@
       "duration_ms": 153103,
       "name": "Gameboi",
       "url": "https://open.spotify.com/track/0zF18WMaq0TvSGvUcU6F0n"
+    },
+    {
+      "added_at": "2026-07-02 15:00:12",
+      "album": {
+        "name": "That's That",
+        "url": "https://open.spotify.com/album/46UuSEizvFsUec3uBDaXOR"
+      },
+      "artists": [
+        {
+          "name": "DB.Boutabag",
+          "url": "https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr"
+        }
+      ],
+      "duration_ms": 121338,
+      "name": "That's That",
+      "url": "https://open.spotify.com/track/42D4wXZjIdDtINUCYu8t7a"
     },
     {
       "added_at": "2026-07-02 15:00:12",

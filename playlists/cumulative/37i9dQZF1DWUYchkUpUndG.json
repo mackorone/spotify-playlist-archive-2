@@ -22703,6 +22703,28 @@
     },
     {
       "album": {
+        "name": "Check Am",
+        "url": "https://open.spotify.com/album/6D8OsnhxfkWaqYcrD5o49q"
+      },
+      "artists": [
+        {
+          "name": "TMAX",
+          "url": "https://open.spotify.com/artist/7Hj8PN0nPrxtolUWesbhii"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "Check Am",
+      "url": "https://open.spotify.com/track/5fEXpt1fF14LGodXmBen4N"
+    },
+    {
+      "album": {
         "name": "Chenw 'Ke Tumino",
         "url": "https://open.spotify.com/album/6LcfSYpGZH1LOPSkUJPZ5y"
       },
@@ -61604,6 +61626,24 @@
       "duration_ms": 326136,
       "name": "Holy Holy Are You Lord",
       "url": "https://open.spotify.com/track/4SaoWxJ7Ii7kB2vLFzflgH"
+    },
+    {
+      "album": {
+        "name": "Holy Holy Holy",
+        "url": "https://open.spotify.com/album/0pxjDuWhj4F6LZLpiKZOIA"
+      },
+      "artists": [
+        {
+          "name": "Daniel Aikhomu",
+          "url": "https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 728857,
+      "name": "Holy Holy Holy",
+      "url": "https://open.spotify.com/track/5WH2UuWLvRSoMqKvABTJm7"
     },
     {
       "album": {
@@ -150103,42 +150143,6 @@
     },
     {
       "album": {
-        "name": "Holy Holy Holy",
-        "url": "https://open.spotify.com/album/0pxjDuWhj4F6LZLpiKZOIA"
-      },
-      "artists": [
-        {
-          "name": "Daniel Aikhomu",
-          "url": "https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d"
-        }
-      ],
-      "date_added": "2026-07-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5WH2UuWLvRSoMqKvABTJm7"
-    },
-    {
-      "album": {
-        "name": "Assurance",
-        "url": "https://open.spotify.com/album/1tcMzoel1OUbK3to92ngFV"
-      },
-      "artists": [
-        {
-          "name": "Labisi",
-          "url": "https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8"
-        }
-      ],
-      "date_added": "2026-07-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/1adeZmxXG7aqyZOaeJhult"
-    },
-    {
-      "album": {
         "name": "Transitions",
         "url": "https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9"
       },
@@ -151202,6 +151206,24 @@
       "duration_ms": 552000,
       "name": "Tua Presen\u00e7a",
       "url": "https://open.spotify.com/track/6sOdxCrTKPr04gloYhqmac"
+    },
+    {
+      "album": {
+        "name": "Assurance",
+        "url": "https://open.spotify.com/album/1tcMzoel1OUbK3to92ngFV"
+      },
+      "artists": [
+        {
+          "name": "Labisi",
+          "url": "https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310000,
+      "name": "Tuale",
+      "url": "https://open.spotify.com/track/1adeZmxXG7aqyZOaeJhult"
     },
     {
       "album": {

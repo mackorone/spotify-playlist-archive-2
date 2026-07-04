@@ -4,7 +4,7 @@
 
 > Your ears on the ground in Music City\. Cover: Max Alan
 
-4,197 songs - 9 day 9 hr 26 min
+4,203 songs - 9 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [American Dream](https://open.spotify.com/track/5ERwxnaMQKOnSPD4Odayg7) | [Jonathan Hutcherson](https://open.spotify.com/artist/1hOBbdBjbeXf3uO1ik4G43) | [American Dream](https://open.spotify.com/album/5AHDW1DFSiGIs6USHhaWJl) | 3:06 | 2025-04-25 | 2025-06-28 |
 | [American Dream](https://open.spotify.com/track/3VnFk87TXGjpfuStmK3mhu) | [Tim Montana](https://open.spotify.com/artist/5RM955coCWa6UkFtlMapwC) | [Reno](https://open.spotify.com/album/5iiEBI9SRW5JtljCEBR9pM) | 3:26 | 2022-05-06 | 2022-07-16 |
 | [American Dream Truck](https://open.spotify.com/track/152TIXJ0UwKuf7j6nL0HFa) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [The Country And The Coast Side A](https://open.spotify.com/album/1ElweYFwJ8U3meh38gMa8R) | 3:33 | 2021-12-31 | 2022-01-29 |
+| [AMERICAN DREAMIN'](https://open.spotify.com/track/0wUpJcrA4MciH8ocysjAfd) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [AMERICAN DREAMIN'](https://open.spotify.com/album/33ObDIyaMmDbgQCtP1OSzB) | 3:20 | 2026-07-03 |  |
 | [AMERICAN DREAMS](https://open.spotify.com/track/6qZmQu0eIzO7VErrOVUCPc) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [Drugstore Cowgirl](https://open.spotify.com/album/2gfUHArIC05tLSlaB0rYj6) | 3:20 | 2025-02-21 | 2025-07-05 |
 | [American Heartbreak](https://open.spotify.com/track/2dpG47Qz0pQLjVO5EHozj4) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Solitary Tracks \(Deluxe\)](https://open.spotify.com/album/6lSkoF9k0vQ0FEKmfsiUHF) | 3:57 | 2025-08-15 | 2025-09-28 |
 | [American Made](https://open.spotify.com/track/0hLp6YwRC0pALE8IoruAxS) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [American Made](https://open.spotify.com/album/2PXeBIPphyBJcWtXsQ3QyJ) | 3:32 | 2026-01-16 | 2026-02-07 |
@@ -432,6 +433,7 @@
 | [Bolo Blues](https://open.spotify.com/track/7HYP4xwvB28nd5iRSnPAdN) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Bolo Blues](https://open.spotify.com/album/38zPrueVMw4hOgGryi9mhn) | 2:30 | 2025-12-05 | 2026-01-31 |
 | [Bonfire In My Soul](https://open.spotify.com/track/3RamTjAVCKQuh7Phfw5Xd0) | [Crowe Boys](https://open.spotify.com/artist/5k7X7qq43uKpB09FSYS5id) | [Bonfire In My Soul](https://open.spotify.com/album/4SNkbhCzp3YPlPYxMcJvq1) | 3:29 | 2025-03-28 | 2025-05-03 |
 | [Bonfire On The Beach](https://open.spotify.com/track/0gitJl2DwkWujNwIfXd2zp) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Bonfire On The Beach](https://open.spotify.com/album/1YBZjZMyFMOgZHV1YQEryO) | 2:27 | 2025-08-22 | 2025-11-22 |
+| [Bonfire Song](https://open.spotify.com/track/5P3EgSC205od7UiPeZFLYm) | [The Shires](https://open.spotify.com/artist/48hCuDf2HUMGTgMhqLfic3) | [Bonfire](https://open.spotify.com/album/7ykptwGIziNHsLgDguOOjZ) | 2:52 | 2026-07-03 |  |
 | [Boomerang](https://open.spotify.com/track/7fdd7LGLR4vXh4n2xwfVbu) | [Nick Cain](https://open.spotify.com/artist/0LrH2W3LOjfejn4NNPlGeH) | [Boomerang](https://open.spotify.com/album/16YolncqOAM6EC9uALKxp7) | 3:07 | 2025-11-07 | 2026-02-14 |
 | [Boots](https://open.spotify.com/track/3XMpepxWLZFbU2lG9Yt5RG) | [Noah West](https://open.spotify.com/artist/1Lh1fsAZIPhk4bbFgL1LZl) | [Boots](https://open.spotify.com/album/3klvQHz0fcnp7ur2m25I20) | 3:34 | 2021-12-31 | 2022-02-12 |
 | [Boots in a Bar](https://open.spotify.com/track/4xJLaoaxdR3cUkp9tpvAuK) | [Jordan Rowe](https://open.spotify.com/artist/2aWgB3AXREinyBrJHxJ3ji) | [Boots in a Bar](https://open.spotify.com/album/3q45XJgtkEbJDUGb6bP0tl) | 3:16 | 2023-12-08 | 2024-03-30 |
@@ -1934,6 +1936,7 @@
 | [Jesus Saves](https://open.spotify.com/track/2fgP2l1YoefcEtBd3FtKEW) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Jesus Saves](https://open.spotify.com/album/6H9XvSMB9qWOoGWyRwcWsZ) | 2:56 | 2024-08-16 | 2024-08-24 |
 | [Jesus, I'm Jealous](https://open.spotify.com/track/1e7KFDSUv6kE7rGkK8jvcw) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Jesus, I'm Jealous](https://open.spotify.com/album/6uNPYxIfCkMtBXtGVDrVuU) | 3:31 | 2023-01-06 | 2023-02-11 |
 | [Jesus, Momma, Country Radio](https://open.spotify.com/track/2MN308Z97up5fJy2hV5osh) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [Jesus, Momma, Country Radio](https://open.spotify.com/album/0QBZvl8WU0wGlArE42UNjk) | 2:33 | 2025-08-15 | 2025-09-21 |
+| [Jimmy Buffett Summer](https://open.spotify.com/track/2ulolciuJb9TC46yX1urcl) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Jimmy Buffett Summer](https://open.spotify.com/album/1xWQHAX5TojEcZu89l4TyO) | 2:33 | 2026-07-03 |  |
 | [John Deere Blue](https://open.spotify.com/track/3QvqHzOkTYiLDRB2GI7keH) | [McCoy Moore](https://open.spotify.com/artist/5dvAwczYPvisoJu4cfWRxO) | [John Deere Blue](https://open.spotify.com/album/6yr0KOtmHpi4kPvM8fKURI) | 3:21 | 2025-05-16 | 2025-05-24 |
 | [John Wayne](https://open.spotify.com/track/3ZOlkxeXqpVem2gqiO2O6R) | [Ray Fulcher](https://open.spotify.com/artist/7abk76xILIuWQIcPooclLp) | [Spray Painted Line](https://open.spotify.com/album/7hrp7eYQWeY7FSSa4625WF) | 3:04 | 2022-06-10 | 2022-09-24 |
 | [Johnny Got A Girl](https://open.spotify.com/track/3i25WGFJifBVmY10bxGcFk) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Johnny Got A Girl](https://open.spotify.com/album/0AMHeo5YnTQDvlBgF4toUg) | 3:21 | 2022-03-04 | 2022-04-16 |
@@ -3078,6 +3081,7 @@
 | [She Ain't Texas](https://open.spotify.com/track/4IAWirIRsQjiAKu2KcTuai) | [Ashley Anne](https://open.spotify.com/artist/4oAZAzn6NKRzLM8LTtrVsw) | [She Ain't Texas](https://open.spotify.com/album/297jbOqoveR3ebqvGL3zzh) | 4:05 | 2023-09-15 | 2023-10-14 |
 | [She Ain't That Girl](https://open.spotify.com/track/1SXFg2fhv7dBEGrYvt4oBW) | [Tainted Lyric](https://open.spotify.com/artist/2BiELkFkvJAaCy7ewkk0Ns) | [She Ain't That Girl](https://open.spotify.com/album/2DX89CZhyAHjSlFeTSda8j) | 3:26 | 2022-08-05 | 2022-11-12 |
 | [she broke up with the boy](https://open.spotify.com/track/3LutNfuBjGJXLHHCem7JjB) | [MaRynn Taylor](https://open.spotify.com/artist/40oKC5KWScA0TPIiKAofI8) | [MaRynn](https://open.spotify.com/album/6hzqUtFEkgtH3f7L7vudUc) | 2:50 | 2025-08-22 | 2025-11-22 |
+| [SHE DOES](https://open.spotify.com/track/6tr9rgFiFXYsWuBWutlmW8) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [SHE DOES](https://open.spotify.com/album/1xlyMWq0mMheZZj0GwNW9Z) | 3:24 | 2026-07-03 |  |
 | [She Don’t Know](https://open.spotify.com/track/7itpOy1ioRAQ65qA6NFoLU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [She Don't Know](https://open.spotify.com/album/0zJHPS083IYpj5HunA3eha) | 3:29 | 2022-05-20 | 2022-07-02 |
 | [She Gone](https://open.spotify.com/track/3UxQz1Ozzv88S5sBzvimGF) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Keepin' Country Alive](https://open.spotify.com/album/5HSjmqFMFffzXxgSL69unj) | 3:03 | 2025-06-13 | 2025-09-28 |
 | [She Got It](https://open.spotify.com/track/1pYqjfBoWA5d0pPAgPXioF) | [Blake Proehl](https://open.spotify.com/artist/1RgYPu8VR3b5sXupFPGMAO) | [She Got It](https://open.spotify.com/album/4SyLN3eCGzvLJx266WTo6P) | 2:34 | 2026-06-05 |  |
@@ -3881,6 +3885,7 @@
 | [Welcome To The Plains](https://open.spotify.com/track/2r3iuOTqRdsmkwkIXSdleg) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Welcome To The Plains](https://open.spotify.com/album/0h3vj5DWxigIYGJ5roPAif) | 3:44 | 2024-10-18 | 2025-03-22 |
 | [West On 34](https://open.spotify.com/track/7vfPggC0WdyIBD0QQ95K6z) | [Scott Wolverton](https://open.spotify.com/artist/6oClxjKHw0mac570Gx7Tw3) | [West On 34](https://open.spotify.com/album/4YXpcWMpFJUBufMeeOZWPF) | 4:44 | 2026-03-27 | 2026-05-16 |
 | [Western Woman](https://open.spotify.com/track/2UdRjQnS6NYPoHhJzEd9T0) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Western Woman](https://open.spotify.com/album/4QR5Uzegokr4uEHvVhDGh1) | 3:29 | 2024-09-20 | 2025-02-01 |
+| [We’re American Made](https://open.spotify.com/track/4LHCFUtfVzFt8hoOy8ZTBl) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n), [Rhett Akins](https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24) | [We’re American Made](https://open.spotify.com/album/0JMjSBFZiFoEXb6zbOwtPn) | 2:57 | 2026-07-03 |  |
 | [We’ve Never Danced](https://open.spotify.com/track/0kHAc1CqVguXkbxhEXZpaa) | [Tony Evans Jr.](https://open.spotify.com/artist/3PvNwJTtWwtnkwW01JkNeE) | [Tony Evans Jr.](https://open.spotify.com/album/5dxhrIBcP8E8AKkiUDN601) | 3:24 | 2022-05-20 | 2022-09-17 |
 | [What A High](https://open.spotify.com/track/26DYLCTNnjpUvpP4vKI8jB) | [Tyler Dial](https://open.spotify.com/artist/48h7yHsfBqw7A2Asj60mQP) | [What A High](https://open.spotify.com/album/4VyHzfWj6WkAnf70iZyZa6) | 3:45 | 2022-10-21 | 2023-01-21 |
 | [What A Woman Can Do](https://open.spotify.com/track/7FckptVIUWYk9FCRbQkB7Q) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [What A Woman Can Do](https://open.spotify.com/album/64scWzDubokEsmpMDSuepM) | 3:05 | 2024-09-13 | 2025-01-25 |
@@ -4106,6 +4111,7 @@
 | [Worth The Double](https://open.spotify.com/track/32u476jmlwUrcHKxEyIvdy) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Worth The Double](https://open.spotify.com/album/5K1tVgF54JxYcCx4ZMII1d) | 2:51 | 2024-10-18 | 2025-03-01 |
 | [Worth Your Wild](https://open.spotify.com/track/7c4H3NjLkRjsEnUDAhWSbu) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Worth Your Wild](https://open.spotify.com/album/2bE01W3obZxGgYfwy7B5wj) | 2:49 | 2025-08-01 | 2025-08-16 |
 | [Wranglin' the Wind](https://open.spotify.com/track/2fJZ896flvh1Wt6CebqggW) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Wranglin' the Wind](https://open.spotify.com/album/3mz4VIBIRfg98W6QHotL7c) | 3:15 | 2026-05-29 |  |
+| [Wrap My Porch Around](https://open.spotify.com/track/5LoP1GFVws8vgH9SputOmN) | [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Wrap My Porch Around](https://open.spotify.com/album/0XOCPyFuFezqCZL3AOfHRD) | 2:41 | 2026-07-03 |  |
 | [Wreck My Weekend](https://open.spotify.com/track/0UgIMluUbhIarzpk5vO3Hs) | [David James](https://open.spotify.com/artist/6JKG9xGqoyj7oMHF0ta147) | [Wreck My Weekend](https://open.spotify.com/album/75hBOD4hSerKKYRr1Ujl8R) | 2:41 | 2022-06-10 | 2022-09-10 |
 | [Write About You](https://open.spotify.com/track/4OiBrTvW98VevYyRGWVoes) | [Parker Graye](https://open.spotify.com/artist/5od7G79jgG9IA9ZOruwxM8) | [Write About You](https://open.spotify.com/album/4hBVxzzLZoFO6eTn7dA4ix) | 2:24 | 2025-04-04 | 2025-06-28 |
 | [Write To Me](https://open.spotify.com/track/6v1pDnzoghdolKn8NBO8tH) | [Emmett Jerome](https://open.spotify.com/artist/5uvOvO0vk9HpLTWHS5reLN) | [Write To Me](https://open.spotify.com/album/3ZTCe3Lselo4gQXETOs0wX) | 4:51 | 2025-09-05 | 2026-01-17 |

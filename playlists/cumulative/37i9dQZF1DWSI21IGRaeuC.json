@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 221250,
       "name": "Be Back",
       "url": "https://open.spotify.com/track/0MlssTGVIJzcZ67R2yEc3B"
@@ -2610,7 +2610,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 344937,
       "name": "Break It Down - Original Mix",
       "url": "https://open.spotify.com/track/2B6mfpUuuYd2HOyrYpScRT"
@@ -5188,7 +5188,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 171964,
       "name": "Down To The Bone",
       "url": "https://open.spotify.com/track/0d2Ad8j1DftVrZENtEA0fj"
@@ -7893,6 +7893,28 @@
     },
     {
       "album": {
+        "name": "Golden Eyes EP",
+        "url": "https://open.spotify.com/album/0lxbtm8G29O60hUlH66i3V"
+      },
+      "artists": [
+        {
+          "name": "Di Chiara Brothers",
+          "url": "https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H"
+        },
+        {
+          "name": "Romita Raiz",
+          "url": "https://open.spotify.com/artist/4XhmPkmzA8y2n3QfncDtK6"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Golden Eyes",
+      "url": "https://open.spotify.com/track/1d8w8ahMR2HwECpQ5ksjZB"
+    },
+    {
+      "album": {
         "name": "The Mess",
         "url": "https://open.spotify.com/album/4zUcTJo5GAdsocXUmwY1C7"
       },
@@ -9480,6 +9502,24 @@
       "duration_ms": 176744,
       "name": "ICY",
       "url": "https://open.spotify.com/track/1qaaFy5sfatOAocriMqmEd"
+    },
+    {
+      "album": {
+        "name": "If Its Real",
+        "url": "https://open.spotify.com/album/5DPzHVof5XijoRlsmK4BGJ"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "If Its Real",
+      "url": "https://open.spotify.com/track/0vgA7Avux3faFKOmUHTHvo"
     },
     {
       "album": {
@@ -11569,6 +11609,24 @@
     },
     {
       "album": {
+        "name": "Look Into My Eyes",
+        "url": "https://open.spotify.com/album/1tneLNsSg6WqawX5eDGwF9"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176969,
+      "name": "Look Into My Eyes",
+      "url": "https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja"
+    },
+    {
+      "album": {
         "name": "Looney Tune EP",
         "url": "https://open.spotify.com/album/2VKncZx8RWGVx7OWaRJrFs"
       },
@@ -11708,7 +11766,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 221706,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/2K4ZCttA5SRyfDqmEzINfv"
@@ -12519,6 +12577,28 @@
     },
     {
       "album": {
+        "name": "Misbehaving",
+        "url": "https://open.spotify.com/album/6ixenUpILxc0iM3MRS0f2f"
+      },
+      "artists": [
+        {
+          "name": "Mad.Again",
+          "url": "https://open.spotify.com/artist/0N3Cd61UD4Y0ED9YXFGa5V"
+        },
+        {
+          "name": "Tom Did It",
+          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "Misbehaving",
+      "url": "https://open.spotify.com/track/6WcoFEjaMaCcgBJQ4E790k"
+    },
+    {
+      "album": {
         "name": "Misleading",
         "url": "https://open.spotify.com/album/4a47UgngMFU3wHG12oPQN5"
       },
@@ -13016,6 +13096,28 @@
       "duration_ms": 205984,
       "name": "My Love - Radio Edit",
       "url": "https://open.spotify.com/track/0MN24lsEJgp2JzERRv1naj"
+    },
+    {
+      "album": {
+        "name": "My Place",
+        "url": "https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159615,
+      "name": "My Place",
+      "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
     },
     {
       "album": {
@@ -14214,7 +14316,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 184019,
       "name": "One Question",
       "url": "https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY"
@@ -15996,7 +16098,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 187272,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/0ZZWyT8ppn9PxVe17WX2DR"
@@ -22150,6 +22252,24 @@
       "duration_ms": 200307,
       "name": "Wise Words",
       "url": "https://open.spotify.com/track/4p8OpNGI6qHShupdCApP1J"
+    },
+    {
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0Q92nebW1oGdgpoNtiwcq3"
+      },
+      "artists": [
+        {
+          "name": "Mat Eclair",
+          "url": "https://open.spotify.com/artist/42lEg1ppWhuHrBKLKdVdSa"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182255,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/3Ry5upRqMd9UhbiKrwPVDI"
     },
     {
       "album": {

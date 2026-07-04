@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-29",
-  "description": "With Yeat, Autumn!, Ken Carson and more",
+  "description": "With Yeat, Cuo Zay, Duwap Kaine and more",
   "name": "Taewitdak Radio",
   "tracks": [
     {
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 109736,
       "name": "Deal Wit It",
       "url": "https://open.spotify.com/track/6tz1HzUoykWlrqCzBpp6kM"
@@ -1476,7 +1476,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 229738,
       "name": "Fire in my heart",
       "url": "https://open.spotify.com/track/5XZN4J4EQeNYfxWBb9kBog"
@@ -1735,6 +1735,24 @@
     },
     {
       "album": {
+        "name": "Liber Regum",
+        "url": "https://open.spotify.com/album/6lb6pZDW0pltXcApw96zml"
+      },
+      "artists": [
+        {
+          "name": "BBE Spazz",
+          "url": "https://open.spotify.com/artist/6BPALNcunGApURCYG3IEd9"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150816,
+      "name": "Hard Times",
+      "url": "https://open.spotify.com/track/4jwW9bNxx84FiE22yN293I"
+    },
+    {
+      "album": {
         "name": "Hardy Boyz (feat. Bloodhound Lil Jeff)",
         "url": "https://open.spotify.com/album/3tzKkC8md0MnmsWVAcFhhz"
       },
@@ -1844,7 +1862,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 174666,
       "name": "HiTTiN",
       "url": "https://open.spotify.com/track/7FRpiyRMF0mw4OdM3BGhim"
@@ -2940,7 +2958,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 160000,
       "name": "No Blickout",
       "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
@@ -3356,7 +3374,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 161075,
       "name": "Price I Pay",
       "url": "https://open.spotify.com/track/6PKAfJPbZMOk2Zz9D8g0w4"
@@ -4834,7 +4852,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 143112,
       "name": "Which 1 / Klueless",
       "url": "https://open.spotify.com/track/2jpXew4tUnqHiH7Uaj4Ioq"
@@ -4914,6 +4932,24 @@
       "duration_ms": 112106,
       "name": "Wish Wash",
       "url": "https://open.spotify.com/track/4iJi7gi85QzVBolEpCChyf"
+    },
+    {
+      "album": {
+        "name": "Wok Doc",
+        "url": "https://open.spotify.com/album/6zHfeUfDGybyqwLmPLCAwT"
+      },
+      "artists": [
+        {
+          "name": "Whit3B0y",
+          "url": "https://open.spotify.com/artist/3tLZrcybns73sE3D3mB6Zv"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105602,
+      "name": "Wok Doc",
+      "url": "https://open.spotify.com/track/7yxn9ThhBulmNVnKVWXlAl"
     },
     {
       "album": {

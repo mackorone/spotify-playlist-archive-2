@@ -4457,6 +4457,28 @@
     },
     {
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/1eJstMWIHyldQcIlv2RURH"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207085,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/6UvjCPYE9rZ6B5AIlLMJEi"
+    },
+    {
+      "album": {
         "name": "Yonder: Book II",
         "url": "https://open.spotify.com/album/0glRKCnBK7HVqaaeu04vmA"
       },
@@ -5294,6 +5316,32 @@
       "duration_ms": 195715,
       "name": "All She Wanna Do (with Saweetie)",
       "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
+    },
+    {
+      "album": {
+        "name": "All Summer (feat. BH)",
+        "url": "https://open.spotify.com/album/7lwZOYiPIJKkin7LsxG2KL"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "BH",
+          "url": "https://open.spotify.com/artist/77EDqy4AyUvtLGhIqOy3Dc"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239640,
+      "name": "All Summer (feat. BH)",
+      "url": "https://open.spotify.com/track/23wBbnEZdCdnPNynMZeLpg"
     },
     {
       "album": {
@@ -19746,7 +19794,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 253250,
       "name": "Caught In A Jam",
       "url": "https://open.spotify.com/track/67aVjLV3z4QqlXMBrGoOOJ"
@@ -24534,6 +24582,24 @@
       "duration_ms": 216000,
       "name": "Cream Soda",
       "url": "https://open.spotify.com/track/4mVkJEBoEpI3fQ4QOyIjwO"
+    },
+    {
+      "album": {
+        "name": "Creatine",
+        "url": "https://open.spotify.com/album/4OfUzZfsruhmh5fvjkGzDM"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109782,
+      "name": "Creatine",
+      "url": "https://open.spotify.com/track/0SHBUfTIyN3Rv3uTjfJ3rf"
     },
     {
       "album": {
@@ -41751,6 +41817,24 @@
     },
     {
       "album": {
+        "name": "Rise Against My Broken Odds",
+        "url": "https://open.spotify.com/album/5pgROviZjBPRfjxwIBk5rB"
+      },
+      "artists": [
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178285,
+      "name": "Ghetto Love Story",
+      "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
+    },
+    {
+      "album": {
         "name": "Ghetto Praise",
         "url": "https://open.spotify.com/album/5kMV844MGwO03ZBF4iAOyc"
       },
@@ -41796,6 +41880,28 @@
       "duration_ms": 244853,
       "name": "Ghetto Superstar (feat. G Herbo & Doe Boy)",
       "url": "https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6"
+    },
+    {
+      "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233335,
+      "name": "ghost (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5l2JiMegRp9HTtnlVDDdJb"
     },
     {
       "album": {
@@ -52050,7 +52156,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 233976,
       "name": "I Know Who I Be",
       "url": "https://open.spotify.com/track/1TglprKNjHw9rmTNgVZpUu"
@@ -66812,7 +66918,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 251911,
       "name": "Manic Depression",
       "url": "https://open.spotify.com/track/6d1P9nP8GD8lHp5510nOwQ"
@@ -73300,6 +73406,24 @@
       "duration_ms": 104115,
       "name": "Neighbors Know My Name",
       "url": "https://open.spotify.com/track/4H9pCqPKc11WCbfILZSYTt"
+    },
+    {
+      "album": {
+        "name": "NERVOUS",
+        "url": "https://open.spotify.com/album/43sikXY0GVXf17J5A88YKu"
+      },
+      "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161874,
+      "name": "NERVOUS",
+      "url": "https://open.spotify.com/track/2tKgNrygongIZ3Ava9xW0x"
     },
     {
       "album": {
@@ -111973,6 +112097,28 @@
     },
     {
       "album": {
+        "name": "treat u right",
+        "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177565,
+      "name": "treat u right",
+      "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
+    },
+    {
+      "album": {
         "name": "Treesha",
         "url": "https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy"
       },
@@ -113956,6 +114102,24 @@
       "duration_ms": 213818,
       "name": "Undress You",
       "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
+    },
+    {
+      "album": {
+        "name": "THE GOOD SIDE OF THINGS",
+        "url": "https://open.spotify.com/album/2L1ARTeGZ31DWtuPS9FJ2j"
+      },
+      "artists": [
+        {
+          "name": "Kelissa",
+          "url": "https://open.spotify.com/artist/7yO5rUbDIUN1RDKMJcHeeg"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194479,
+      "name": "Uneasy",
+      "url": "https://open.spotify.com/track/0NDkfrZxZUVrN1iLI96zIE"
     },
     {
       "album": {

@@ -2759,6 +2759,24 @@
     },
     {
       "album": {
+        "name": "End Of Beginning",
+        "url": "https://open.spotify.com/album/4L3Xa9Lk16N9Nu0E37TewI"
+      },
+      "artists": [
+        {
+          "name": "December 10",
+          "url": "https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "End Of Beginning",
+      "url": "https://open.spotify.com/track/46UeEKObJ4Et3ZRFDc4dNl"
+    },
+    {
+      "album": {
         "name": "Everybody Wants To Rule The World",
         "url": "https://open.spotify.com/album/4vNTnk9ZwBi2zIJlAiOYms"
       },
@@ -7762,7 +7780,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 243035,
       "name": "Time to Pretend - Spotify Singles",
       "url": "https://open.spotify.com/track/2fyn9gJRCGG6o2u3EIGBjg"

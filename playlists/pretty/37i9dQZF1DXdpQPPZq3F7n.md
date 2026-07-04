@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\.  Cover \- Saiyaara
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,844,152 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,844,610 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Jaate Hue Lamhon \(From "BORDER 2"\)](https://open.spotify.com/track/0BPm2ZCYW1DBMNfQKLSNpi) | [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Jaate Hue Lamhon \(From "BORDER 2"\)](https://open.spotify.com/album/4CVNevhXz2vS2g8sA4iLl9) | 5:43 |
 | 75 | [Qayde Se \(From "Metro ..\. In Dino"\)](https://open.spotify.com/track/1iiVX4OJ6vo3a4sT3Fe7Ix) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Qayde Se \(From "Metro ..\. In Dino"\)](https://open.spotify.com/album/0n6vwaRFABSyqtdaJafZW5) | 3:35 |
 
-Snapshot ID: `AAAAAPJD9R4O5AMs5iK7xGLxgOLwSEob`
+Snapshot ID: `AAAAAOj5aJOmQ2dmgRpNyqb1We9xudcT`

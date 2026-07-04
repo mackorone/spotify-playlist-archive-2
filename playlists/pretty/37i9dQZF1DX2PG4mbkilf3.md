@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 ### [Mood Ring ](https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3)
 
-> Your guide to R&B in Canada, with Pino from Toronto, ON.
+> Your guide to R&B in Canada, with Savannah Ré from Scarborough ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,968 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,010 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pay The Price](https://open.spotify.com/track/7zvMiiBpCcz3Uqm5yBoTzD) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [’02 \(Deluxe Edition\)](https://open.spotify.com/album/54oXviXcqjqb1L3p2BvwSw) | 3:56 |
-| 2 | [Another Heartbreak](https://open.spotify.com/track/29CQnZlg4xzTqdaZaYnGZ7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Another Heartbreak](https://open.spotify.com/album/0PY6nhGDYTVIQdf2XmRFhj) | 3:37 |
+| 1 | [Another Heartbreak](https://open.spotify.com/track/29CQnZlg4xzTqdaZaYnGZ7) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Another Heartbreak](https://open.spotify.com/album/0PY6nhGDYTVIQdf2XmRFhj) | 3:37 |
+| 2 | [Pay The Price](https://open.spotify.com/track/7zvMiiBpCcz3Uqm5yBoTzD) | [Pino](https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu) | [’02 \(Deluxe Edition\)](https://open.spotify.com/album/54oXviXcqjqb1L3p2BvwSw) | 3:56 |
 | 3 | [Rich Luv](https://open.spotify.com/track/6YrAxkgmhRDIFQfO2ofbk7) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx), [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8) | [Make You Feel](https://open.spotify.com/album/3PWr26JU2Q7LKhf5TqDc5Y) | 2:44 |
 | 4 | [See You Again](https://open.spotify.com/track/3xy4wL1GcLWZ8VNYGfnTYf) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [See You Again](https://open.spotify.com/album/1C22AuImu7TeIpFZMlIqEv) | 2:59 |
 | 5 | [Craving](https://open.spotify.com/track/3W20jmVQZaiCnmVN9qsxDn) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [Craving](https://open.spotify.com/album/15ucu5Kz9pC9T1k4MmeQZJ) | 3:10 |
 | 6 | [Waiting](https://open.spotify.com/track/4ZuWgH2xw0T3vbkHDGchXv) | [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Overture](https://open.spotify.com/album/173YEGDpbqDZ6FFd5N9oiy) | 2:46 |
-| 7 | [Suddenly](https://open.spotify.com/track/23jMmesMkvNstAt0m5lR1W) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Suddenly](https://open.spotify.com/album/6QVu2pywpuoATTXnuGqilj) | 2:23 |
-| 8 | [Ole](https://open.spotify.com/track/2z1DTHOawvhWrHFFAGZqOg) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Ole](https://open.spotify.com/album/3Nc4U7DbWgEt0bbTJZ48Er) | 2:46 |
-| 9 | [GIA](https://open.spotify.com/track/1ptcGWDgUZk1UHVG8NlJG1) | [Kuzi Cee](https://open.spotify.com/artist/64lkoPycQSYTify0c5wekf) | [GIA](https://open.spotify.com/album/6Dr6gIJO5nSDOxEfxgDpf4) | 2:12 |
-| 10 | [DUSTY \(with Ty Dolla $ign\)](https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [A LITTLE VENGEANCE](https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44) | 3:13 |
-| 11 | [Trust and Believe](https://open.spotify.com/track/6hZNetGru859NdFTrzVq2l) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Trust and Believe](https://open.spotify.com/album/4RmiyoWrOY0MnJPg7bREhg) | 2:53 |
-| 12 | [Centerfold](https://open.spotify.com/track/1DZExFaytfOj1iFJW6XbvT) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Centerfold](https://open.spotify.com/album/1tXMKm3r18f0712G4sQKFK) | 3:08 |
-| 13 | [Summer Breeze](https://open.spotify.com/track/1B5nJYVSGFcD4R1uQOCMPq) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Summer Breeze](https://open.spotify.com/album/0R3REA67N2ODvAdL5REyZy) | 3:15 |
+| 7 | [DUSTY \(with Ty Dolla $ign\)](https://open.spotify.com/track/1beqlvVHUHp27ZqQutkreu) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [A LITTLE VENGEANCE](https://open.spotify.com/album/2Jue67msVNiM6BK6hnJG44) | 3:13 |
+| 8 | [Trust and Believe](https://open.spotify.com/track/6hZNetGru859NdFTrzVq2l) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Trust and Believe](https://open.spotify.com/album/4RmiyoWrOY0MnJPg7bREhg) | 2:53 |
+| 9 | [Centerfold](https://open.spotify.com/track/1DZExFaytfOj1iFJW6XbvT) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Centerfold](https://open.spotify.com/album/1tXMKm3r18f0712G4sQKFK) | 3:08 |
+| 10 | [Summer Breeze](https://open.spotify.com/track/1B5nJYVSGFcD4R1uQOCMPq) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Summer Breeze](https://open.spotify.com/album/0R3REA67N2ODvAdL5REyZy) | 3:15 |
+| 11 | [GIA](https://open.spotify.com/track/1ptcGWDgUZk1UHVG8NlJG1) | [Kuzi Cee](https://open.spotify.com/artist/64lkoPycQSYTify0c5wekf) | [GIA](https://open.spotify.com/album/6Dr6gIJO5nSDOxEfxgDpf4) | 2:12 |
+| 12 | [HOPE THIS FINDS U WELL](https://open.spotify.com/track/6omhGSjnKBfb0WIV9OnPhg) | [Mikey Jose](https://open.spotify.com/artist/3rJEy2vNlsmWO5JHxKEaP8) | [HOPE THIS FINDS U WELL](https://open.spotify.com/album/0d32gre7n7pjOKXGFEVlRJ) | 3:03 |
+| 13 | [Ole](https://open.spotify.com/track/2z1DTHOawvhWrHFFAGZqOg) | [Sofia Ly](https://open.spotify.com/artist/7iET9fffY6L2FC9vojK9a4) | [Ole](https://open.spotify.com/album/3Nc4U7DbWgEt0bbTJZ48Er) | 2:46 |
 | 14 | [Groupie](https://open.spotify.com/track/220ha2YAksZhJzuMXvc8wX) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [U, Me & My Ego](https://open.spotify.com/album/57esSZdPuChqy2bso66lwX) | 2:30 |
-| 15 | [Like U Do](https://open.spotify.com/track/3BldMFvkpXPeLf9d8vVUTT) | [Leila Dey](https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp) | [Like U Do](https://open.spotify.com/album/3PQcIXt5GMZ3UCjQkx1cKc) | 2:44 |
+| 15 | [Suddenly](https://open.spotify.com/track/23jMmesMkvNstAt0m5lR1W) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Suddenly](https://open.spotify.com/album/6QVu2pywpuoATTXnuGqilj) | 2:23 |
 | 16 | [Not So Sweet](https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [Not So Sweet](https://open.spotify.com/album/6Zr7GLxnNwy9vVod25bpux) | 3:55 |
 | 17 | [UR HEARTBEAT \(WHO DO U THINK ABOUT AT 2AM?\)](https://open.spotify.com/track/0jj2mcsNyuWb0a3uSjrw67) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [UR HEARTBEAT \(WHO DO U THINK ABOUT AT 2AM?\)](https://open.spotify.com/album/58ELdOBLnCOlXM49zBO6AR) | 2:50 |
 | 18 | [Fortworth \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/0F1rlXkOcI1Iqfz9Y3BdO4) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [HABIBTI](https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [NOBODY ELSE](https://open.spotify.com/track/3yABhcucUufptBWbGqVrSo) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG), [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [The Sky Is Recording Me: 100 Years Later, Vol\. 3](https://open.spotify.com/album/2ghjL5JT1VKSNcshmqjrbM) | 2:37 |
 | 100 | [Sweet Sensation](https://open.spotify.com/track/08lMm17NyaTxqE2pnyLNi8) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Sweet Sensation](https://open.spotify.com/album/0jKFVbAav1wfa5smwIY0bd) | 3:43 |
 
-Snapshot ID: `AAAAANn4kSWHyJ2j8Kbt1GU1OCxG0fOV`
+Snapshot ID: `AAAAAK7/jkfUHdKtT0vemCIUyhdQNWBq`

@@ -590,7 +590,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 236412,
       "name": "Air",
       "url": "https://open.spotify.com/track/68aV0LAtm1AlefVKodPTDz"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 262736,
       "name": "BEWARE THE PROMISE",
       "url": "https://open.spotify.com/track/1HP6lE1hvZf147vnHepMa4"
@@ -2550,7 +2550,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 326746,
       "name": "Cemetery Days",
       "url": "https://open.spotify.com/track/4W2tlMpTfSfuMFnuZO3PBl"
@@ -2904,7 +2904,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 196447,
       "name": "Cold Sweats",
       "url": "https://open.spotify.com/track/4xAbFkGcPhdws0Xu3lCYhG"
@@ -3246,7 +3246,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 183192,
       "name": "Crash",
       "url": "https://open.spotify.com/track/0Ka2wSdo1u8ypAMrK8CtcZ"
@@ -3648,6 +3648,24 @@
       "duration_ms": 287265,
       "name": "Dancing At Your Funeral",
       "url": "https://open.spotify.com/track/3YoDIncK2ZLGyxBe2leno7"
+    },
+    {
+      "album": {
+        "name": "Alveola mercy",
+        "url": "https://open.spotify.com/album/2YusK6zvA2Fdn1cbYE83Y8"
+      },
+      "artists": [
+        {
+          "name": "The Birch",
+          "url": "https://open.spotify.com/artist/0f1yccwMizgOv0fVWIRo83"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216895,
+      "name": "Dancing in the graveyard",
+      "url": "https://open.spotify.com/track/2jeEmAjcM0EGu5o0BAZLlk"
     },
     {
       "album": {
@@ -4388,7 +4406,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 253000,
       "name": "Down",
       "url": "https://open.spotify.com/track/38lBgZ8eHPTPhp6pWrsxnB"
@@ -5100,7 +5118,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 161800,
       "name": "Factory",
       "url": "https://open.spotify.com/track/6Pq6iVSIIK8O5UFMs5d2uk"
@@ -6842,7 +6860,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 199311,
       "name": "Hidden",
       "url": "https://open.spotify.com/track/4WmzoBRVjSsDpzXrt7CJED"
@@ -11776,7 +11794,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 221142,
       "name": "Red Rover",
       "url": "https://open.spotify.com/track/1wrAsvyHGsiR5gnSOwfUf1"
@@ -11870,7 +11888,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 202927,
       "name": "Rest Your Halo",
       "url": "https://open.spotify.com/track/4q1fAT2JA4Dx26EqYKA2rQ"
@@ -15611,6 +15629,24 @@
     },
     {
       "album": {
+        "name": "Bridge To Resolution",
+        "url": "https://open.spotify.com/album/2OSr27QfHJTFwmJVB2NI4G"
+      },
+      "artists": [
+        {
+          "name": "Shane Embury",
+          "url": "https://open.spotify.com/artist/5lt1owDarS9D3uSR2deq0x"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296586,
+      "name": "Thorns In Despair",
+      "url": "https://open.spotify.com/track/3wZX3CoSWVuUSG1SrpoBE8"
+    },
+    {
+      "album": {
         "name": "Threats",
         "url": "https://open.spotify.com/album/44Z7Gf8lHHBUq66SaDDYIT"
       },
@@ -15828,7 +15864,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 135724,
       "name": "TIME 2 DIE",
       "url": "https://open.spotify.com/track/6a5BA53BYbraUQAV65jn4v"
@@ -16868,7 +16904,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 216315,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/5NHyCuTxgo9P49EL7cy5kg"
@@ -17312,7 +17348,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"
@@ -17370,7 +17406,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"

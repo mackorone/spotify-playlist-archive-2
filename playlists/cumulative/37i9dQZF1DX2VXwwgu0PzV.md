@@ -4,7 +4,7 @@
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: CalledOut Music
 
-1,779 songs - 3 day 22 hr 17 min
+1,780 songs - 3 day 22 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [change me](https://open.spotify.com/track/2g891NqR60cX6EVNcjNzeD) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [change me](https://open.spotify.com/album/7eIDiSM5QwkWQ8JXWs7kTS) | 2:08 | 2023-10-13 | 2023-11-17 |
 | [Chante](https://open.spotify.com/track/5IR1HN5u67s98hxOf9w8ci) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Chante](https://open.spotify.com/album/4p7agkJ4UNNfmA9AGpx7y9) | 3:43 | 2025-06-13 | 2025-07-18 |
 | [Chasing me](https://open.spotify.com/track/5zUvsVXlcWhSIxB4qQXRQH) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [Chasing me](https://open.spotify.com/album/62JiAcdMHjpoHBUQ9yGm5r) | 2:28 | 2025-08-22 | 2025-09-26 |
+| [Check Am](https://open.spotify.com/track/5fEXpt1fF14LGodXmBen4N) | [TMAX](https://open.spotify.com/artist/7Hj8PN0nPrxtolUWesbhii), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Check Am](https://open.spotify.com/album/6D8OsnhxfkWaqYcrD5o49q) | 3:14 | 2026-07-03 |  |
 | [Chibeuleni](https://open.spotify.com/track/5NpjA7DqfBV105GKuT3KM2) | [Geo Musiwa](https://open.spotify.com/artist/4LuXTovCGYwbeZQCx15PxW), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Chibeuleni](https://open.spotify.com/album/26CtTmqNScBkg8TyjrKv3q) | 2:10 | 2023-07-07 | 2023-07-28 |
 | [Child of the Lion](https://open.spotify.com/track/4HbTegUOWyZ8jRe6pHwlQ1) | [Awinnah](https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX), [WalahiSteph](https://open.spotify.com/artist/0gI9NFZBoTewszjVE9Rol6) | [Child of the Lion](https://open.spotify.com/album/2xd6RuH4WuSRiZVGpMDxuW) | 3:42 | 2026-01-23 | 2026-03-13 |
 | [Children Of God](https://open.spotify.com/track/5zLMWMh0ezQx5ViHTDg3dp) | [Rehmahz](https://open.spotify.com/artist/2n4Cjxgsst568zKdsmsEnY), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Children Of God](https://open.spotify.com/album/2H9zdb01cFY4JkCIPMBLrL) | 3:00 | 2026-02-27 | 2026-04-10 |

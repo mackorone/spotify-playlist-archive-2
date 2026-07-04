@@ -1,12 +1,12 @@
 {
   "description": "the best underground club tracks for party criminals \u2694\ufe0f featuring Surusinghe \u2694\ufe0f ",
-  "num_followers": 69135,
+  "num_followers": 69152,
   "original_name": "Club Culture",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOixicPLB+x8G2iqxoy9yiZOhAUD",
+  "snapshot_id": "AAAAAIvN/jLm+RixqNxu6xK44peTPn4T",
   "tracks": [
     {
       "added_at": "2026-06-25 22:01:45",
@@ -27,26 +27,6 @@
       "duration_ms": 194568,
       "name": "Party Criminal",
       "url": "https://open.spotify.com/track/3fRURTdeiyrZMRKpyFtDbE"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "Attenuation EP",
-        "url": "https://open.spotify.com/album/0Ha3XGv6XE8c0aODehJHuW"
-      },
-      "artists": [
-        {
-          "name": "Main Phase",
-          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
-        },
-        {
-          "name": "Talons",
-          "url": "https://open.spotify.com/artist/0qiRTNQwfvA91BL30UBRu1"
-        }
-      ],
-      "duration_ms": 278260,
-      "name": "Artificial",
-      "url": "https://open.spotify.com/track/2DG2EhND9DmbXOsOJjOo5F"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -105,6 +85,26 @@
       "url": "https://open.spotify.com/track/68Y4z8FEhHDStugmExZpuB"
     },
     {
+      "added_at": "2026-07-03 04:02:00",
+      "album": {
+        "name": "Boiling Point",
+        "url": "https://open.spotify.com/album/6NGDKwQLs9AjJWwF8odt54"
+      },
+      "artists": [
+        {
+          "name": "Muddyoush",
+          "url": "https://open.spotify.com/artist/66ufdnoY06SAK2zHcHjo0G"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "duration_ms": 125988,
+      "name": "only one way",
+      "url": "https://open.spotify.com/track/5MSZXgbUYRthFMP2FEvZaM"
+    },
+    {
       "added_at": "2026-06-25 22:01:45",
       "album": {
         "name": "stop&watch",
@@ -119,6 +119,22 @@
       "duration_ms": 232000,
       "name": "stop&watch",
       "url": "https://open.spotify.com/track/2UfHZghoano6GlB1WkSz60"
+    },
+    {
+      "added_at": "2026-07-03 04:02:00",
+      "album": {
+        "name": "I Wander (IV + V)",
+        "url": "https://open.spotify.com/album/2llnA988XlEflLbh7FgXco"
+      },
+      "artists": [
+        {
+          "name": "DjRUM",
+          "url": "https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ"
+        }
+      ],
+      "duration_ms": 206776,
+      "name": "I Wander (IV + V)",
+      "url": "https://open.spotify.com/track/1MfOMpg9fTsBWRbOdy8aqx"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -157,6 +173,26 @@
       "url": "https://open.spotify.com/track/6pkkVyRGtIEIIsYU253DxK"
     },
     {
+      "added_at": "2026-07-03 04:02:00",
+      "album": {
+        "name": "Guestlist",
+        "url": "https://open.spotify.com/album/2bIh4drRvSgOkDo9C1ncjc"
+      },
+      "artists": [
+        {
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        },
+        {
+          "name": "Pat Lok",
+          "url": "https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Guestlist",
+      "url": "https://open.spotify.com/track/2nyuc8Ic9LbpnZB7DDE40O"
+    },
+    {
       "added_at": "2026-06-25 22:01:45",
       "album": {
         "name": "All Crews",
@@ -191,6 +227,26 @@
     {
       "added_at": "2026-06-25 22:01:45",
       "album": {
+        "name": "Attenuation EP",
+        "url": "https://open.spotify.com/album/0Ha3XGv6XE8c0aODehJHuW"
+      },
+      "artists": [
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        },
+        {
+          "name": "Talons",
+          "url": "https://open.spotify.com/artist/0qiRTNQwfvA91BL30UBRu1"
+        }
+      ],
+      "duration_ms": 278260,
+      "name": "Artificial",
+      "url": "https://open.spotify.com/track/2DG2EhND9DmbXOsOJjOo5F"
+    },
+    {
+      "added_at": "2026-06-25 22:01:45",
+      "album": {
         "name": "HA HA HA",
         "url": "https://open.spotify.com/album/4NX0ZjSayrZDwRKLu0yDdR"
       },
@@ -203,6 +259,26 @@
       "duration_ms": 288069,
       "name": "HA HA HA",
       "url": "https://open.spotify.com/track/6MePkdJLUWUb6DY3ptvLXx"
+    },
+    {
+      "added_at": "2026-07-03 04:02:00",
+      "album": {
+        "name": "S.C.M.",
+        "url": "https://open.spotify.com/album/1Z3UIBxtnLAZ4qL2qwWy1O"
+      },
+      "artists": [
+        {
+          "name": "Evissimax",
+          "url": "https://open.spotify.com/artist/3KRbZfhEbntEDFNV3b48Cv"
+        },
+        {
+          "name": "Luca Eck",
+          "url": "https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz"
+        }
+      ],
+      "duration_ms": 126404,
+      "name": "S.C.M.",
+      "url": "https://open.spotify.com/track/6lAqESDdO468t5psntzN8m"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -235,6 +311,22 @@
       "duration_ms": 238285,
       "name": "VILLAGER RUN THAT AGAIN",
       "url": "https://open.spotify.com/track/6Zq31r061bYdQyqO0s6oda"
+    },
+    {
+      "added_at": "2026-07-03 04:02:00",
+      "album": {
+        "name": "head space",
+        "url": "https://open.spotify.com/album/4PhHqhRBdY2N9UHcJvJEib"
+      },
+      "artists": [
+        {
+          "name": "RONI",
+          "url": "https://open.spotify.com/artist/3ACB6pQFKxf7vsmm5Tl39g"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "head space",
+      "url": "https://open.spotify.com/track/2fQw85bsefLmWX1gR9QBbj"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -287,6 +379,26 @@
       "duration_ms": 233296,
       "name": "Media Vuelta",
       "url": "https://open.spotify.com/track/0Y9bPzog6xoyDvOYOpUZMN"
+    },
+    {
+      "added_at": "2026-07-03 04:02:00",
+      "album": {
+        "name": "Vestibule Remixes",
+        "url": "https://open.spotify.com/album/0KcVRvsOeaMD4cEIDZbpln"
+      },
+      "artists": [
+        {
+          "name": "Galcher Lustwerk",
+          "url": "https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf"
+        },
+        {
+          "name": "Saoirse",
+          "url": "https://open.spotify.com/artist/7AZxq55YIas0vYM7L82XKX"
+        }
+      ],
+      "duration_ms": 393077,
+      "name": "Shorty Out - Saoirse Remix",
+      "url": "https://open.spotify.com/track/1Ae07Zbn304HtNVv6VMwrC"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -371,6 +483,22 @@
       "duration_ms": 291588,
       "name": "Those Sundays - Tim Reaper Remix",
       "url": "https://open.spotify.com/track/53XjUnqqVfPJne5l9qBBnD"
+    },
+    {
+      "added_at": "2026-07-03 04:02:00",
+      "album": {
+        "name": "Tuttomondo vol.1",
+        "url": "https://open.spotify.com/album/6KGORB1SHP8fQnqqBe47ZF"
+      },
+      "artists": [
+        {
+          "name": "Bawrut",
+          "url": "https://open.spotify.com/artist/15naE0RS2asDfn93USLJqV"
+        }
+      ],
+      "duration_ms": 348091,
+      "name": "El Afilador",
+      "url": "https://open.spotify.com/track/1yXqyQbXsQTLeVZOAFeD36"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -831,22 +959,6 @@
     {
       "added_at": "2026-06-25 22:01:45",
       "album": {
-        "name": "Crevasse",
-        "url": "https://open.spotify.com/album/6lZtJ5pnXS9YwCese5d4u5"
-      },
-      "artists": [
-        {
-          "name": "Stones Taro",
-          "url": "https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB"
-        }
-      ],
-      "duration_ms": 298285,
-      "name": "Crevasse",
-      "url": "https://open.spotify.com/track/4FYsslPSB0RlJzbGVLLKZe"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
         "name": "Plastic Camelia / Laurel",
         "url": "https://open.spotify.com/album/12PCtvnkWhvr5RRPXrFxyP"
       },
@@ -875,30 +987,6 @@
       "duration_ms": 337658,
       "name": "Grain",
       "url": "https://open.spotify.com/track/2cdx2u1EO1BtPaWrWyvPpn"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "Hunted EP",
-        "url": "https://open.spotify.com/album/4zBznU2YvrAMgZYu66z75c"
-      },
-      "artists": [
-        {
-          "name": "Hypho",
-          "url": "https://open.spotify.com/artist/2ODMudAd86RorKe9wTJPs7"
-        },
-        {
-          "name": "Samurai Breaks",
-          "url": "https://open.spotify.com/artist/5X8xxAPGx1ouTGDlgE5ray"
-        },
-        {
-          "name": "Logan_olm",
-          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
-        }
-      ],
-      "duration_ms": 195922,
-      "name": "Rough",
-      "url": "https://open.spotify.com/track/2Lwu8DK5t5hxzMy5Bi4ko9"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -1167,22 +1255,6 @@
     {
       "added_at": "2026-06-25 22:01:45",
       "album": {
-        "name": "ElectroMagnetic Field",
-        "url": "https://open.spotify.com/album/2FORcH68aUSzlNxsiM9lSM"
-      },
-      "artists": [
-        {
-          "name": "Fran LF",
-          "url": "https://open.spotify.com/artist/0BtNHI9EQwfngxEqz0PwOg"
-        }
-      ],
-      "duration_ms": 301730,
-      "name": "ElectroMagnetic Field",
-      "url": "https://open.spotify.com/track/49guBjgiiDiErr40gFhY6G"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
         "name": "Dark Web Pinger",
         "url": "https://open.spotify.com/album/4jhsNapiEPLqFvJzFaLSp3"
       },
@@ -1315,26 +1387,6 @@
       "duration_ms": 353060,
       "name": "In The Mood For Love",
       "url": "https://open.spotify.com/track/1SJUDmxkiTQgLg1JgBOc75"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "Pyrexia",
-        "url": "https://open.spotify.com/album/6l19kXn1mdGZnA5zyvmiLF"
-      },
-      "artists": [
-        {
-          "name": "Ehua",
-          "url": "https://open.spotify.com/artist/6mmklLsukQYQBIfS7WJw50"
-        },
-        {
-          "name": "Flore",
-          "url": "https://open.spotify.com/artist/14LfGaytRuKLzIjUP6SXMM"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "Pyrexia",
-      "url": "https://open.spotify.com/track/6Ak32tQsO50YLQxmyJhu9p"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -1503,22 +1555,6 @@
       "duration_ms": 209000,
       "name": "Waiting Game",
       "url": "https://open.spotify.com/track/3rfoHc8ARICdqBtnIDtrym"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "ONDAS",
-        "url": "https://open.spotify.com/album/5iIc0ZZnzXf6POnkJNQdJX"
-      },
-      "artists": [
-        {
-          "name": "QRTR",
-          "url": "https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj"
-        }
-      ],
-      "duration_ms": 182647,
-      "name": "Self-Sabotage",
-      "url": "https://open.spotify.com/track/0EGT9hBhHs9FdiXn3YHxU0"
     },
     {
       "added_at": "2026-06-25 22:01:45",
@@ -1727,22 +1763,6 @@
     {
       "added_at": "2026-06-25 22:01:45",
       "album": {
-        "name": "Fractal",
-        "url": "https://open.spotify.com/album/3PdJISbzxn2PjNSg6jaAP5"
-      },
-      "artists": [
-        {
-          "name": "Shinichi Atobe",
-          "url": "https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv"
-        }
-      ],
-      "duration_ms": 481360,
-      "name": "Fractal",
-      "url": "https://open.spotify.com/track/6BbOVr3jZN7JAQQF5ynPQb"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
         "name": "HEY MISTER DEEJAY",
         "url": "https://open.spotify.com/album/35vauJf2FeghU7u57kZLwm"
       },
@@ -1891,22 +1911,6 @@
       "duration_ms": 234835,
       "name": "Dark Cloud",
       "url": "https://open.spotify.com/track/3Yu7YWkRIx3DaZflhEsbwE"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "Night Truths",
-        "url": "https://open.spotify.com/album/2y3EuqREWThOAm8wSTeEPA"
-      },
-      "artists": [
-        {
-          "name": "Eamon Harkin",
-          "url": "https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC"
-        }
-      ],
-      "duration_ms": 428093,
-      "name": "Night Truths",
-      "url": "https://open.spotify.com/track/1adKxjTGjk9h001b9WYLzD"
     },
     {
       "added_at": "2026-06-25 22:01:45",

@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS?si=WFKSTC4oSD\-oTy7edA3fQA"> King Kaka</a>
 
-516 songs - 1 day 3 hr 33 min
+516 songs - 1 day 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Sikujui](https://open.spotify.com/track/2Qv7yBfqY8CNfBdVzgISWv) | [8th Street Gang](https://open.spotify.com/artist/2dBpYnIr6v0mfiMIFMkHIO) | [Sikujui](https://open.spotify.com/album/7fx6hYDxSRicroSqTi8PCC) | 2:37 | 2025-06-26 | 2026-01-30 |
 | [Sikutambui](https://open.spotify.com/track/4Gl3dMkubYB2rEn3tOfduY) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [NDANI YA COCKPIT 3](https://open.spotify.com/album/4p5Ob7OdZxOp4rzHF12qKk) | 3:44 | 2023-08-25 | 2025-01-18 |
 | [Sikutambui](https://open.spotify.com/track/5v8L1VibzgRfDCyPdPxGbv) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [NDANI YA COCKPIT 3](https://open.spotify.com/album/3NvCDHqPpNi1y3lVhmAAsy) | 3:44 | 2023-04-27 | 2023-07-08 |
+| [Silence](https://open.spotify.com/track/4afgxom9wIYBaEBy6KImMk) | [King Kaka](https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Year Of The Pen](https://open.spotify.com/album/3X9ADdGjlXeD7R1iwsO6q4) | 3:05 | 2026-07-02 |  |
 | [Similani](https://open.spotify.com/track/0eYHEDUKHrdPxNpxETNL6c) | [Kaa La Moto](https://open.spotify.com/artist/7jvdp7S94qyfvChivF4ua9), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Similani](https://open.spotify.com/album/1FTLLUkn2LSv4VVH1T1LUH) | 3:22 | 2023-11-17 | 2024-05-03 |
 | [Siogopi](https://open.spotify.com/track/7uxdeUTOgW6IoNpUYNzkOL) | [Katapilla](https://open.spotify.com/artist/2sV5D5jVpZCszKEyvSbuET) | [Siogopi](https://open.spotify.com/album/38DCdcJ2WSL4UsXhGMoXHz) | 4:30 | 2025-04-24 | 2025-12-05 |
 | [Situation Sticky](https://open.spotify.com/track/4UMUYdkPJTXml0XOXiH1AR) | [On Safari](https://open.spotify.com/artist/7C4Sna90V9C5gRrtZNh8kZ), [Bryvvn](https://open.spotify.com/artist/1YcGi2JIfTzbotFBDiysfS), [7AY](https://open.spotify.com/artist/3MiRH0LK3bcno7nZa6QtLm), [Prince.Wasabi](https://open.spotify.com/artist/2Gaxo8kmFvgNJvNmg6ZsGH), [CHozenAfitra](https://open.spotify.com/artist/3ezTcPg7Z7zY1p1XbVuRiQ), [Vandrel](https://open.spotify.com/artist/6nYKLho6i0KRNEEqffoJfv) | [Situation Sticky](https://open.spotify.com/album/20aSo6Bl2IP2Qku5aFAx5i) | 3:35 | 2022-06-30 | 2022-11-11 |
@@ -470,7 +471,6 @@
 | [Toka DM](https://open.spotify.com/track/6oh6IXKCefpxvUd9EizU82) | [MAD G](https://open.spotify.com/artist/3i55n15iAnDbfy60FX053E) | [Toka DM](https://open.spotify.com/album/5N0RZBpJm8LYdZ4A3WxZ76) | 2:55 | 2025-12-18 | 2026-06-19 |
 | [Tom Mboya](https://open.spotify.com/track/2y5CIx4aoIGMoJilesf2yA) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [Tom Mboya](https://open.spotify.com/album/1FC8uWdB2v0vgMiLFqbnH9) | 3:40 | 2022-07-07 | 2023-04-21 |
 | [Too Much](https://open.spotify.com/track/0KeypJHo1vNcEUR5cQSBHz) | [GTA](https://open.spotify.com/artist/5ja1GRgYKlXJNpcCLB3mxh), [NATTY](https://open.spotify.com/artist/4eNDlXIuO29xtFWoqRmcli) | [Nattorius](https://open.spotify.com/album/1ixq1wEqfuauhtyVe8X8OT) | 2:12 | 2023-01-19 | 2023-06-30 |
-| [Track 6](https://open.spotify.com/track/4afgxom9wIYBaEBy6KImMk) | [King Kaka](https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS) | [Year Of The Pen](https://open.spotify.com/album/3X9ADdGjlXeD7R1iwsO6q4) | 0:00 | 2026-07-02 |  |
 | [Trap Harakati](https://open.spotify.com/track/5zqzBnWP6dLTNLp7zT0jXx) | [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ) | [Trap Harakati](https://open.spotify.com/album/5uSLpHtIbUEAQyb1F2pHvo) | 2:49 | 2026-04-16 |  |
 | [Tsunami](https://open.spotify.com/track/0Z412tcJhHWjmU7q05qI7T) | [Khaligraph Jones](https://open.spotify.com/artist/1xxXRVpuEm3X3p1QEm61Az), [Scar](https://open.spotify.com/artist/4jNWY4AuhaqlwrKsYpYPhH) | [Invisible Currency](https://open.spotify.com/album/3bMnNtT3KDro78bMlWiq8a) | 6:14 | 2022-03-17 | 2023-05-19 |
 | [Tukawake](https://open.spotify.com/track/11w3BiPcMqNq0peyzPmx6Q) | [K\-Rupt](https://open.spotify.com/artist/1l2O926MJtrHhSgDGRayJ4) | [Ogopa 2 \- Strictly For The Hanyee In You](https://open.spotify.com/album/6ZJyOUYH9xf2VhfADsYvNl) | 3:57 | 2025-08-07 | 2025-08-15 |

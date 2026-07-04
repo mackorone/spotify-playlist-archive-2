@@ -1,13 +1,53 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123637,
+  "num_followers": 123632,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAViuDczVQsaj8NyJYgk2NPkHrnGYSY",
+  "snapshot_id": "AAAVjH+TebmFmJce8Sfsv9nfOZ2ZV4zi",
   "tracks": [
+    {
+      "added_at": "2026-07-03 14:19:27",
+      "album": {
+        "name": "Nevada (Gabry Ponte Remix)",
+        "url": "https://open.spotify.com/album/0sjEQUMAMBxh9Nzar11bKv"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "Cozi Zuehlsdorff",
+          "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
+        }
+      ],
+      "duration_ms": 138655,
+      "name": "Nevada - Gabry Ponte Remix",
+      "url": "https://open.spotify.com/track/6rJhZVoNyBHxJrir42TFVp"
+    },
+    {
+      "added_at": "2026-07-03 14:18:54",
+      "album": {
+        "name": "FEAR",
+        "url": "https://open.spotify.com/album/7eSlYvS41yQ0OW767FJSHN"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "FEAR",
+      "url": "https://open.spotify.com/track/4baB7bmvoAs6FV81d2TAua"
+    },
     {
       "added_at": "2026-07-02 15:23:00",
       "album": {

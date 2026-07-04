@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,912 songs - 5 day 9 hr 48 min
+1,913 songs - 5 day 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,7 +288,7 @@
 | [Cimmerian](https://open.spotify.com/track/0dmXGQ2zRVOm6N60S0UdHK) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Wishing Well / Cimmerian](https://open.spotify.com/album/1a0g4P7lv4e9Mw9IjNxNLf) | 3:36 | 2022-02-11 | 2023-09-09 |
 | [Cindy Goes to a Party](https://open.spotify.com/track/4MYK3rV2c8Pg6dh9eLa1rR) | [Closed Paradise](https://open.spotify.com/artist/0YZ8P1HorExdSXoONm7tFB) | [Something Else](https://open.spotify.com/album/39tHyB5rgbkZNBMqfcYqk0) | 5:42 | 2020-03-20 | 2021-12-21 |
 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 | 2020-05-22 | 2020-07-18 |
-| [Civilian World](https://open.spotify.com/track/0UFSRShQ5xVoojuNbFSD9i) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Civilian World](https://open.spotify.com/album/7xxQ6IO8IeqOY7hPxs9cDH) | 7:36 | 2026-03-13 |  |
+| [Civilian World](https://open.spotify.com/track/0UFSRShQ5xVoojuNbFSD9i) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Civilian World](https://open.spotify.com/album/7xxQ6IO8IeqOY7hPxs9cDH) | 7:36 | 2026-03-13 | 2026-07-04 |
 | [Clair de Tulum](https://open.spotify.com/track/3ATqHnrwMf3kAyjEfchWME) | [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 2:35 | 2020-03-20 | 2022-08-20 |
 | [Clear Mind](https://open.spotify.com/track/5GjPEyBoZHLA4xytXahbAx) | [Ryyta](https://open.spotify.com/artist/6oePW0Lmf0O9f5xUU24O8c) | [Clear Mind](https://open.spotify.com/album/0F0iFf9Y7Xjh1gerGdcECz) | 7:32 | 2020-05-19 | 2020-10-19 |
 | [Clearest Blue \- Gryffin Remix](https://open.spotify.com/track/5JNOYtRd2E9QiwosqMCBmZ) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Every Open Eye \(Extended Edition\)](https://open.spotify.com/album/0ytgAfCjv6U5BMEDrQgCwX) | 4:19 | 2020-05-18 | 2020-07-03 |
@@ -1671,6 +1671,7 @@
 | [The Frowner](https://open.spotify.com/track/49T23jJvNLh5BjSAnyMmRf) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [The Frowner](https://open.spotify.com/album/1ddDO0FzL6M6CB9mF0ALbL) | 3:08 | 2021-10-22 | 2022-12-29 |
 | [The Future](https://open.spotify.com/track/5KTHurbkWElVh4KkOmGn7S) | [Tom Flynn](https://open.spotify.com/artist/3lSeZGCmgYasoeYml0hQY8), [Amp Fiddler](https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU) | [The Future](https://open.spotify.com/album/2qn2rf4ZYjyNhNP4eOPAY8) | 5:59 | 2020-03-20 | 2020-10-09 |
 | [The Kind of Love](https://open.spotify.com/track/7CyStHLAihLyfUX738UElG) | [heylucas](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [The Kind of Love](https://open.spotify.com/album/0t0kSDHpIfUDaMOYuc1aZQ) | 3:07 | 2024-06-14 | 2025-08-30 |
+| [The last dance...](https://open.spotify.com/track/5MLawmtoMCQEPx7kt44IFn) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [The last dance...](https://open.spotify.com/album/1OwHW1ICmMkp9dGSmHLLjN) | 3:04 | 2026-07-03 |  |
 | [The Last Dinosaur](https://open.spotify.com/track/6YaNs6tDlpacfu1jwuOqM0) | [Little Foot](https://open.spotify.com/artist/55HmugLcdhmDg6XgceLQr1), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [The Last Dinosaur](https://open.spotify.com/album/6deCJtdK5ZWJnbTLQypO6U) | 3:30 | 2022-10-14 | 2023-02-04 |
 | [The Last Goodbye](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:58 | 2022-02-11 |  |
 | [The Letter](https://open.spotify.com/track/6Drks6dbqYCZ303NPH4c6T) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Letter EP](https://open.spotify.com/album/5eYaBLIloQrnSXeJsv0nms) | 3:55 | 2020-11-13 | 2022-12-29 |

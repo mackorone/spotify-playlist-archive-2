@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Preto no Branco
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,609 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,775 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 24 | [Grande Deus \(Ao Vivo\)](https://open.spotify.com/track/1GAMWJProJlALZ88a5IA3l) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk), [Lauriete](https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e) | [Grande Deus \(Ao Vivo\)](https://open.spotify.com/album/6mjtLyXknZFRYpBWhNXIYh) | 4:43 |
 | 25 | [Direto ao Ponto \(Ao Vivo\)](https://open.spotify.com/track/2Mff8qW5Boe70xgwuMzd4j) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK), [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Direto ao Ponto \(Ao Vivo\)](https://open.spotify.com/album/36s2RlwcFY9prgoFAwL8TI) | 4:47 |
 | 26 | [Aurora](https://open.spotify.com/track/01AGwjzOhTMdwLycDdKTgr) | [Gerson Borges](https://open.spotify.com/artist/5oVAfxApcM67olFFGpQGEe), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Calmará](https://open.spotify.com/artist/2NCFdDa6TX1WWI1r1HxpYE) | [Aurora](https://open.spotify.com/album/11S9V4E6RuRwTrI5LsGOoh) | 4:14 |
-| 27 | [Track 2](https://open.spotify.com/track/02LbqQyAsa8vosfO95Vd8h) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO) | [Seu Som Ressoa](https://open.spotify.com/album/5MQJTt66SKHHhuER2OWlzG) | 0:00 |
+| 27 | [Voltei](https://open.spotify.com/track/02LbqQyAsa8vosfO95Vd8h) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO) | [Seu Som Ressoa](https://open.spotify.com/album/5MQJTt66SKHHhuER2OWlzG) | 3:55 |
 | 28 | [Canção do Apocalipse](https://open.spotify.com/track/6G0eJ6Lnf9FT8SuTfyjvsR) | [Rebeca Salles](https://open.spotify.com/artist/1giliqwlMJUvPYqANiUfKs), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI) | [Canção do Apocalipse](https://open.spotify.com/album/1XBwIV9v2cLJlllKYB2mWQ) | 7:50 |
 | 29 | [O Que Eu Sou Sem Deus Comigo](https://open.spotify.com/track/6LQ6SgXQWAi353OiTHIDfO) | [Banda Gratidão](https://open.spotify.com/artist/4ri0muoRAKGbHu6JU86SdV), [A COMUNHÃO](https://open.spotify.com/artist/5tlU9rKQJPXyfGGnDrtizI), [Louvor Eterno](https://open.spotify.com/artist/2vLe8zH15xtqw8jKRmmKAw) | [O Que Eu Sou Sem Deus Comigo \(A Comunhão \- Um Projeto Louvor Eterno\)](https://open.spotify.com/album/5u2ui0OBgKGirSBCNQlrDI) | 3:30 |
 | 30 | [Você Não Pode Desistir \- Ao Vivo](https://open.spotify.com/track/2M52qkTAmA3MGIP7ueLaf1) | [Rodrigo Torres](https://open.spotify.com/artist/7d39sb27yeZFIV3QhEjaQ9) | [Você Não Pode Desistir \(Ao Vivo\)](https://open.spotify.com/album/1njT7tJrm826HjB7Sp8Kp0) | 5:10 |

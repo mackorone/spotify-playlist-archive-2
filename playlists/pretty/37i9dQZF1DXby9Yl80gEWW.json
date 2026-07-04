@@ -1,6 +1,6 @@
 {
   "description": "No words, just chops. Cover: Matt Combs",
-  "num_followers": 62641,
+  "num_followers": 62651,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -523,30 +523,6 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Polly Put the Kettle On",
-        "url": "https://open.spotify.com/album/1nil98RN5PcogAKkhkllpo"
-      },
-      "artists": [
-        {
-          "name": "Lonesome Ace Stringband",
-          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
-        },
-        {
-          "name": "John Showman",
-          "url": "https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN"
-        },
-        {
-          "name": "Chris Coole",
-          "url": "https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o"
-        }
-      ],
-      "duration_ms": 136804,
-      "name": "Polly Put the Kettle On",
-      "url": "https://open.spotify.com/track/2CAZBZhbBdMEAyHPIX2P4J"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
         "name": "Fork In The Road",
         "url": "https://open.spotify.com/album/3u5KHo4q2j8QEsp1mePjes"
       },
@@ -559,26 +535,6 @@
       "duration_ms": 288480,
       "name": "No Resolution",
       "url": "https://open.spotify.com/track/1ZkurUyIfW1wESFJp7GXgK"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
-        "name": "West Dakota Rose",
-        "url": "https://open.spotify.com/album/6Va8ak1h09QQzxhtk0estU"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Christopher Henry",
-          "url": "https://open.spotify.com/artist/15csOLyjT4bpb5UdSwDuM9"
-        }
-      ],
-      "duration_ms": 354847,
-      "name": "West Dakota Rose",
-      "url": "https://open.spotify.com/track/0FptQUU4KsvEb71zjt3JAY"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -599,22 +555,22 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Songs from Horizon",
-        "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
+        "name": "West Dakota Rose",
+        "url": "https://open.spotify.com/album/6Va8ak1h09QQzxhtk0estU"
       },
       "artists": [
         {
-          "name": "Matt Combs",
-          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
         },
         {
-          "name": "Teddy Morgan",
-          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
+          "name": "Christopher Henry",
+          "url": "https://open.spotify.com/artist/15csOLyjT4bpb5UdSwDuM9"
         }
       ],
-      "duration_ms": 132794,
-      "name": "Winds Forever Blow",
-      "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
+      "duration_ms": 354847,
+      "name": "West Dakota Rose",
+      "url": "https://open.spotify.com/track/0FptQUU4KsvEb71zjt3JAY"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -643,18 +599,46 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Dan Tyminski: Live From The Ryman",
-        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
+        "name": "Songs from Horizon",
+        "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
       },
       "artists": [
         {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+          "name": "Matt Combs",
+          "url": "https://open.spotify.com/artist/4E5CVA3tAALpUH7Zi3dAj9"
+        },
+        {
+          "name": "Teddy Morgan",
+          "url": "https://open.spotify.com/artist/2JZSVgCSD6OJrfey6lggwU"
         }
       ],
-      "duration_ms": 127261,
-      "name": "Cumberland Gap - Live",
-      "url": "https://open.spotify.com/track/23hTNYbTG1CORmhOtxYZim"
+      "duration_ms": 132794,
+      "name": "Winds Forever Blow",
+      "url": "https://open.spotify.com/track/0WypF2XHukG52xgiSmKP3h"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
+        "name": "Polly Put the Kettle On",
+        "url": "https://open.spotify.com/album/1nil98RN5PcogAKkhkllpo"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
+        },
+        {
+          "name": "John Showman",
+          "url": "https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN"
+        },
+        {
+          "name": "Chris Coole",
+          "url": "https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o"
+        }
+      ],
+      "duration_ms": 136804,
+      "name": "Polly Put the Kettle On",
+      "url": "https://open.spotify.com/track/2CAZBZhbBdMEAyHPIX2P4J"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -671,6 +655,22 @@
       "duration_ms": 140970,
       "name": "30 Turkeys",
       "url": "https://open.spotify.com/track/4vEFH6wGu3wRW1lLqfsGex"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
+        "name": "Dan Tyminski: Live From The Ryman",
+        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "duration_ms": 127261,
+      "name": "Cumberland Gap - Live",
+      "url": "https://open.spotify.com/track/23hTNYbTG1CORmhOtxYZim"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Woven",
-        "url": "https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh"
+        "name": "Crossing the Junction / Deer River",
+        "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
       },
       "artists": [
         {
-          "name": "Whalebone",
-          "url": "https://open.spotify.com/artist/6bN45WFcpPaxtX2UCFufx9"
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
         }
       ],
-      "duration_ms": 149369,
-      "name": "Wayfarer",
-      "url": "https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA"
+      "duration_ms": 218120,
+      "name": "Crossing the Junction / Deer River",
+      "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Crossing the Junction / Deer River",
-        "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
+        "name": "Woven",
+        "url": "https://open.spotify.com/album/0SrR4hBqZUsdJGAQ05Xwzh"
       },
       "artists": [
         {
-          "name": "Lonesome Ace Stringband",
-          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
+          "name": "Whalebone",
+          "url": "https://open.spotify.com/artist/6bN45WFcpPaxtX2UCFufx9"
         }
       ],
-      "duration_ms": 218120,
-      "name": "Crossing the Junction / Deer River",
-      "url": "https://open.spotify.com/track/4hWEq0e6dil1M4u49UZWiL"
+      "duration_ms": 149369,
+      "name": "Wayfarer",
+      "url": "https://open.spotify.com/track/3vrCfQgVvsa3ZE1CkDrgvA"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -815,6 +815,38 @@
       "duration_ms": 238000,
       "name": "Tsali's Run",
       "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
+        "name": "Taxland (feat. Sierra Hull)",
+        "url": "https://open.spotify.com/album/2iLeCeTTnWphyWDZfXnOrn"
+      },
+      "artists": [
+        {
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+        },
+        {
+          "name": "Barry Bales",
+          "url": "https://open.spotify.com/artist/04csPEQnhfQ5zY6vPMvwds"
+        },
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        },
+        {
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 205586,
+      "name": "Taxland (feat. Sierra Hull)",
+      "url": "https://open.spotify.com/track/7rYO8GdgPhBot0vfZQNizW"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -855,54 +887,6 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Taxland (feat. Sierra Hull)",
-        "url": "https://open.spotify.com/album/2iLeCeTTnWphyWDZfXnOrn"
-      },
-      "artists": [
-        {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
-        },
-        {
-          "name": "Barry Bales",
-          "url": "https://open.spotify.com/artist/04csPEQnhfQ5zY6vPMvwds"
-        },
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        },
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 205586,
-      "name": "Taxland (feat. Sierra Hull)",
-      "url": "https://open.spotify.com/track/7rYO8GdgPhBot0vfZQNizW"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
-        "name": "Jubilation",
-        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
-      },
-      "artists": [
-        {
-          "name": "Appalachian Road Show",
-          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
-        }
-      ],
-      "duration_ms": 179140,
-      "name": "Graveyard Fields",
-      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
         "name": "Putting on the Ring",
         "url": "https://open.spotify.com/album/4ja6mlvSRJ4YvCE3Q7YzAm"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 161309,
       "name": "Putting on the Ring",
       "url": "https://open.spotify.com/track/0bSMmTb6gIoC2wCOmcKSJW"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
+        "name": "Jubilation",
+        "url": "https://open.spotify.com/album/2pMmU3fvjvXpS8F7OhsDqh"
+      },
+      "artists": [
+        {
+          "name": "Appalachian Road Show",
+          "url": "https://open.spotify.com/artist/2QbK1N86iI11jUiRG2JgSM"
+        }
+      ],
+      "duration_ms": 179140,
+      "name": "Graveyard Fields",
+      "url": "https://open.spotify.com/track/1ONtkZXZZQSluHq68xq90p"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -1195,22 +1195,18 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Cedar Pass / Peanut Peak / Prairie Chicken",
-        "url": "https://open.spotify.com/album/6YJVaYIaF2BY4ejSMdn6qy"
+        "name": "The Song of the Banjo",
+        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
       },
       "artists": [
         {
-          "name": "Natalie Haas",
-          "url": "https://open.spotify.com/artist/41sqaarfB2kCWssI6jM10V"
-        },
-        {
-          "name": "Brittany Haas",
-          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
         }
       ],
-      "duration_ms": 328126,
-      "name": "Cedar Pass / Peanut Peak / Prairie Chicken",
-      "url": "https://open.spotify.com/track/0hXjtN8OmAj7Wg5FzthLJk"
+      "duration_ms": 257640,
+      "name": "Airish",
+      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -1283,18 +1279,22 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "The Song of the Banjo",
-        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
+        "name": "Cedar Pass / Peanut Peak / Prairie Chicken",
+        "url": "https://open.spotify.com/album/6YJVaYIaF2BY4ejSMdn6qy"
       },
       "artists": [
         {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+          "name": "Natalie Haas",
+          "url": "https://open.spotify.com/artist/41sqaarfB2kCWssI6jM10V"
+        },
+        {
+          "name": "Brittany Haas",
+          "url": "https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP"
         }
       ],
-      "duration_ms": 257640,
-      "name": "Airish",
-      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
+      "duration_ms": 328126,
+      "name": "Cedar Pass / Peanut Peak / Prairie Chicken",
+      "url": "https://open.spotify.com/track/0hXjtN8OmAj7Wg5FzthLJk"
     },
     {
       "added_at": "2026-06-26 04:01:29",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-06-26 04:01:29",
       "album": {
-        "name": "Elizabeth Brown / Sail Away",
-        "url": "https://open.spotify.com/album/5thncZARxiTdu2we7s45r6"
-      },
-      "artists": [
-        {
-          "name": "Tyler Ramsey",
-          "url": "https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK"
-        },
-        {
-          "name": "Carl Broemel",
-          "url": "https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Elizabeth Brown",
-      "url": "https://open.spotify.com/track/1PG4aEBIfXsa5LPxzj59MA"
-    },
-    {
-      "added_at": "2026-06-26 04:01:29",
-      "album": {
         "name": "North Node",
         "url": "https://open.spotify.com/album/5TZgPRIK5ouWBJQhntTmTZ"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 231626,
       "name": "Groundhog Hotel",
       "url": "https://open.spotify.com/track/3fe7KhXDQIdfgFJPI7XFoE"
+    },
+    {
+      "added_at": "2026-06-26 04:01:29",
+      "album": {
+        "name": "Elizabeth Brown / Sail Away",
+        "url": "https://open.spotify.com/album/5thncZARxiTdu2we7s45r6"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ramsey",
+          "url": "https://open.spotify.com/artist/1Ga71MIHyTN9VVuEtW57GK"
+        },
+        {
+          "name": "Carl Broemel",
+          "url": "https://open.spotify.com/artist/2kWhbqyjKw16929nBXzSWR"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Elizabeth Brown",
+      "url": "https://open.spotify.com/track/1PG4aEBIfXsa5LPxzj59MA"
     },
     {
       "added_at": "2026-06-26 04:01:29",

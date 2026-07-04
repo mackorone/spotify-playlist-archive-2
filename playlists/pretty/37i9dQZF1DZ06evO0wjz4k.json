@@ -1,12 +1,12 @@
 {
   "description": "This is Parker McCollum. The essential tracks, all in one playlist.",
-  "num_followers": 35674,
+  "num_followers": 35687,
   "original_name": "This Is Parker McCollum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAACcQySdldtsy9aLg7gQAH7m",
+  "snapshot_id": "akWqAAAAAABizg4H2RKAMzBVzYG7bzG0",
   "tracks": [
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Between: The Collection",
-        "url": "https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        },
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 207746,
-      "name": "Shallow",
-      "url": "https://open.spotify.com/track/5faEa8OZmHnxRbBAYC2gWZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paper Umbrellas",
         "url": "https://open.spotify.com/album/1alHcx2t1SKjGgF4P9Q0pz"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 209968,
       "name": "Paper Umbrellas",
       "url": "https://open.spotify.com/track/52MQYkbFuv9UzA8wz927xO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Between: The Collection",
+        "url": "https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        },
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/5faEa8OZmHnxRbBAYC2gWZ"
     },
     {
       "added_at": null,

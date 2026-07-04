@@ -4,7 +4,7 @@
 
 > Music from "That Time I Got Reincarnated as a Slime"! © Taiki Kawakami, Fuse, KODANSHA/“Ten\-Sura” Project
 
-95 songs - 4 hr 42 min
+96 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [STORYSEEKER](https://open.spotify.com/track/53YZ1QIAyE2BxaPM2aGiyx) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [STEREO DIVE 02](https://open.spotify.com/album/65Y5inrQKPzYs26Qz2M0ee) | 3:53 | 2023-11-22 | 2024-04-19 |
 | [STORYSEEKER](https://open.spotify.com/track/45B2iVHSz2b0dDgZ6nvPL4) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP) | [STORYSEEKER](https://open.spotify.com/album/4lmMC3XbvbonVeXJf4q8Cw) | 3:55 | 2022-11-25 |  |
 | [Storyteller](https://open.spotify.com/track/1bylyPZfjMgMEi92lW8nEt) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Storyteller](https://open.spotify.com/album/1FBcRbgIIl21R7VemvQPon) | 4:34 | 2022-11-25 |  |
+| [TACTIC](https://open.spotify.com/track/2afdDEOkeioSUIwIpx2MPv) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC) | [TACTIC](https://open.spotify.com/album/3BsfhYaVDDmUBwYLFv4Hfr) | 3:14 | 2026-07-03 |  |
 | [Trinity](https://open.spotify.com/track/49QeAxuycVFeAGXz6x1ct6) | [STEREO DIVE FOUNDATION](https://open.spotify.com/artist/6yLTrq59HxfE6aTq8r4gVP), [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF), [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Trinity](https://open.spotify.com/album/0yOgazoyJCJiOzjWM6b5NH) | 3:43 | 2024-10-23 |  |
 | [VISIONS \(feat\. 寺島拓篤\)](https://open.spotify.com/track/3x3A39JV2eNNqyOrYvWCg1) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb), [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [VISIONS \(feat\. 寺島拓篤\)](https://open.spotify.com/album/0hYzLWKc546vSOTimwWMyY) | 3:35 | 2022-11-25 |  |
 | [おやすみオレンジ](https://open.spotify.com/track/27moDRtTrQ7TV7ePsIDxhp) | [リムル \(CV.岡咲美保\)](https://open.spotify.com/artist/5YJkxVkHk22vOzHY2qDnOa) | [カモナ・テンペスト！／おやすみオレンジ](https://open.spotify.com/album/3WqqIxRHTGcAPg9TlFUWUP) | 4:13 | 2022-11-25 | 2024-04-19 |

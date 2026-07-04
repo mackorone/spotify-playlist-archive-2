@@ -8753,6 +8753,24 @@
     },
     {
       "album": {
+        "name": "Souls Rite",
+        "url": "https://open.spotify.com/album/73fUN4KHBJzueBUGefT3E0"
+      },
+      "artists": [
+        {
+          "name": "A VIOLET IN YOUTH",
+          "url": "https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284558,
+      "name": "Souls Rite",
+      "url": "https://open.spotify.com/track/6RFJCFlKwY4JzVpWgbnqrQ"
+    },
+    {
+      "album": {
         "name": "Zero Hour: Genesis",
         "url": "https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r"
       },

@@ -7649,6 +7649,24 @@
     },
     {
       "album": {
+        "name": "Radiating",
+        "url": "https://open.spotify.com/album/2uxpG3g0dlK5tVOGGipRHE"
+      },
+      "artists": [
+        {
+          "name": "gamut inc",
+          "url": "https://open.spotify.com/artist/4EdVJ9U7ITPGJUmpJWbvzK"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199616,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/1aaB7ZOHEUm8uuPoesaUlx"
+    },
+    {
+      "album": {
         "name": "Coat of Arms",
         "url": "https://open.spotify.com/album/24HBtg1ai9EOEWlTma2Rui"
       },
@@ -14540,6 +14558,24 @@
       "duration_ms": 169172,
       "name": "Gentle - draag me Remix",
       "url": "https://open.spotify.com/track/3LQi2numktKhVzerIlY0y6"
+    },
+    {
+      "album": {
+        "name": "GET UP AND GO OUT",
+        "url": "https://open.spotify.com/album/4X7sOElaeXt4kZqHeTrx4j"
+      },
+      "artists": [
+        {
+          "name": "wing!",
+          "url": "https://open.spotify.com/artist/17zzsvpeBPUpP5XittRxEs"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264357,
+      "name": "GET UP AND GO OUT",
+      "url": "https://open.spotify.com/track/6rbZYE14DriaJM9fm8gLm1"
     },
     {
       "album": {
@@ -26937,6 +26973,24 @@
     },
     {
       "album": {
+        "name": "perspective",
+        "url": "https://open.spotify.com/album/0ocAnfYYo4xqKuzccHTd7i"
+      },
+      "artists": [
+        {
+          "name": "heartbleeder",
+          "url": "https://open.spotify.com/artist/50ILRM1ASU9bh0NxSCiLih"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186805,
+      "name": "perspective",
+      "url": "https://open.spotify.com/track/3aMW4lkNyt8DprkhSRPWB0"
+    },
+    {
+      "album": {
         "name": "Petals",
         "url": "https://open.spotify.com/album/2dvdzQpXvoqeh8MShZupIy"
       },
@@ -34141,6 +34195,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/75j4MCwiUguw0TPsAHvhXp"
+      },
+      "artists": [
+        {
+          "name": "Yung Singh",
+          "url": "https://open.spotify.com/artist/47lrOrvCYsOUCEQQsj119K"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353757,
+      "name": "Tabla Trouble",
+      "url": "https://open.spotify.com/track/27RpDOjJDvKj0hxLT8WJI7"
+    },
+    {
+      "album": {
         "name": "Espuma de Mar ~ remixes",
         "url": "https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0"
       },
@@ -34630,6 +34702,24 @@
       "duration_ms": 173826,
       "name": "Ten\u00eda Raz\u00f3n",
       "url": "https://open.spotify.com/track/13byK69wHdWtPt0QdgDPfw"
+    },
+    {
+      "album": {
+        "name": "Terra Sigillata",
+        "url": "https://open.spotify.com/album/3GIWCJRQGMZUTvt7C4EDKh"
+      },
+      "artists": [
+        {
+          "name": "Secret Bisous",
+          "url": "https://open.spotify.com/artist/4SdvkIy4PnLyLMQLrb3QvF"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210526,
+      "name": "Terra Sigillata",
+      "url": "https://open.spotify.com/track/4nBo834VksEonZPymzdOpb"
     },
     {
       "album": {
@@ -42416,10 +42506,28 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 212535,
       "name": "\uff0d\uff0d \uff65\uff65\uff0d \uff65\uff0d\uff65\uff65 \uff0d \uff65\uff65 \uff65\uff0d\uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff65\uff0d \uff0d\uff65\uff0d\uff0d",
       "url": "https://open.spotify.com/track/7bL84oIvqZ0IZJ4lWacv9J"
+    },
+    {
+      "album": {
+        "name": "\uff0d\uff0d\uff0d \uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff0d\uff65\uff0d\uff0d",
+        "url": "https://open.spotify.com/album/7p8WjXvUzAa4MThnghq0bw"
+      },
+      "artists": [
+        {
+          "name": "\uff65 \uff65\uff0d\uff65 \uff65\uff0d \uff65\uff65\uff65 \uff65 \uff0d\uff65\uff65",
+          "url": "https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278000,
+      "name": "\uff0d\uff0d\uff0d \uff0d\uff65 \uff65\uff0d\uff65\uff65 \uff0d\uff65\uff0d\uff0d",
+      "url": "https://open.spotify.com/track/4XupTIpXQXHehljGjLkiwl"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8C585qnMYHP"

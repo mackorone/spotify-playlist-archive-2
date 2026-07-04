@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 주니\(JUNNY\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: BIG Naughty \(빅나티\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,666 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,676 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 49 | [IYWO](https://open.spotify.com/track/48Ct2tqAYz1hYmhI5mUPUt) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd), [YOONSEOK](https://open.spotify.com/artist/0P5G96iQQvqCzjwxDsB0gN), [WOOKI](https://open.spotify.com/artist/7tSYbIaNoMwMZeJClFLENN), [OF'F](https://open.spotify.com/artist/27fHByJiC6XivKddq30jWG) | [IYWO](https://open.spotify.com/album/4ZqHinL6SXK9zokOUUkdDy) | 3:54 |
 | 50 | [Like an Aurora \(feat\. Deyy\)](https://open.spotify.com/track/4ipy46xLfDylH7tq111EqA) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [Deyy](https://open.spotify.com/artist/6GX63krfPZbfBjdaJC36Y8) | [Aurora](https://open.spotify.com/album/69qk6zg4bhMd51px13WN80) | 2:53 |
 
-Snapshot ID: `AAAAAHZmtQkkBu0cg5+1rmnBx5vZr58S`
+Snapshot ID: `AAAAAEbsxouXmCjK8WuPVM/w8ZIWk/Xo`

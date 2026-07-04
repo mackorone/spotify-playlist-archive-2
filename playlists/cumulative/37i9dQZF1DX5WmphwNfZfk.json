@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "50 artists who are the future of Canadian music, according to our editors. Cover: Jahson Paynter",
+  "description": "50 artists who are the future of Canadian music, according to our editors. Cover: GUS",
   "name": "RADAR Canada",
   "tracks": [
     {
@@ -2516,6 +2516,24 @@
       "duration_ms": 228310,
       "name": "ANNIE, PICK A FLOWER.. (MY HOUSE)",
       "url": "https://open.spotify.com/track/2KHIUDMyKpCoatqCwDAtD4"
+    },
+    {
+      "album": {
+        "name": "Pathways",
+        "url": "https://open.spotify.com/album/0qBNUB2o096UWhfb4PttT6"
+      },
+      "artists": [
+        {
+          "name": "Meltt",
+          "url": "https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278173,
+      "name": "Another Elegy",
+      "url": "https://open.spotify.com/track/6a5ATztIXFVMAyGnI4umb4"
     },
     {
       "album": {
@@ -10234,7 +10252,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 188459,
       "name": "delete you.",
       "url": "https://open.spotify.com/track/2xcBeONsMsXFS7HffJ1lMw"
@@ -23218,7 +23236,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 135275,
       "name": "Le bon choix",
       "url": "https://open.spotify.com/track/0V2DYyeSvQeiMfq10ED6M6"
@@ -24192,7 +24210,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 147300,
       "name": "Like you mean it",
       "url": "https://open.spotify.com/track/4DCz1jb9Me9dn12CqqFk6N"
@@ -30866,7 +30884,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 160723,
       "name": "Overtime",
       "url": "https://open.spotify.com/track/5WwvrJP8Fsd4PY85pNjtyU"
@@ -32395,6 +32413,24 @@
     },
     {
       "album": {
+        "name": "Pour nous",
+        "url": "https://open.spotify.com/album/74qDA0yGIWzlcZaSQXRINC"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Fredette",
+          "url": "https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156144,
+      "name": "Pour nous",
+      "url": "https://open.spotify.com/track/2Y4UvhwD2ASHcnPtlZUwWt"
+    },
+    {
+      "album": {
         "name": "Pourquoi",
         "url": "https://open.spotify.com/album/7octbaqwUajyIePHuALwAi"
       },
@@ -33874,6 +33910,24 @@
       "duration_ms": 166711,
       "name": "Read The Room",
       "url": "https://open.spotify.com/track/1Vm75Mw5XfvrT7NEgM9W8p"
+    },
+    {
+      "album": {
+        "name": "read your mind",
+        "url": "https://open.spotify.com/album/0onCJbdgABgF0mRTVSvFkt"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123506,
+      "name": "read your mind",
+      "url": "https://open.spotify.com/track/6pOhb1mEs5TVfdscGN0Bm9"
     },
     {
       "album": {
@@ -35576,6 +35630,24 @@
       "duration_ms": 193942,
       "name": "Safe Ground",
       "url": "https://open.spotify.com/track/3Bt0GlzLP4O0UUyii2FmzV"
+    },
+    {
+      "album": {
+        "name": "Greyhound",
+        "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193942,
+      "name": "Safe Ground",
+      "url": "https://open.spotify.com/track/721sOrJTqrQtvyagEgFqSd"
     },
     {
       "album": {
@@ -45097,6 +45169,24 @@
     },
     {
       "album": {
+        "name": "First Times",
+        "url": "https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196433,
+      "name": "Vivian",
+      "url": "https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl"
+    },
+    {
+      "album": {
         "name": "Vogue on Vogue",
         "url": "https://open.spotify.com/album/1lG700JHWJEZ1ItPImmKh8"
       },
@@ -45264,7 +45354,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 202010,
       "name": "WAHALA RIDDIM",
       "url": "https://open.spotify.com/track/6cDoUJQTi3yANsfEQRh2x8"
@@ -46508,7 +46598,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 293293,
       "name": "Where Do You Want To Be?",
       "url": "https://open.spotify.com/track/6i93cFNQRYkfDYUyQFrnzf"
@@ -47846,6 +47936,24 @@
       "duration_ms": 110666,
       "name": "YOUNG SAIYAN FREESTYLE",
       "url": "https://open.spotify.com/track/1PcIh8JN2j60CFLdveNIQE"
+    },
+    {
+      "album": {
+        "name": "When the lights turn on",
+        "url": "https://open.spotify.com/album/5qkXXP4wQ0Ope0ebh0fToi"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209267,
+      "name": "Your favorite flowers",
+      "url": "https://open.spotify.com/track/2krsl94ohFuchOMv4zsMux"
     },
     {
       "album": {

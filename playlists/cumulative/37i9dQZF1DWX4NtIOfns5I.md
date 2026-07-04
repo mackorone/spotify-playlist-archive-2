@@ -2,9 +2,9 @@
 
 ### [juniper](https://open.spotify.com/playlist/37i9dQZF1DWX4NtIOfns5I)
 
-> tasha on the cover <3
+> ella woolsey on the cover <3
 
-836 songs - 2 day 2 hr 34 min
+841 songs - 2 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [2008](https://open.spotify.com/track/6P9k0dC9CP1g4ZlSzQn90M) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [2008](https://open.spotify.com/album/5KC7HD8Zt9kF088rA3SLl4) | 2:33 | 2024-09-06 | 2025-04-05 |
 | [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 | 2024-01-12 | 2024-02-10 |
 | [4 foot 2](https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [4 foot 2](https://open.spotify.com/album/1IoUGFTNFZPzBuMFq6UDUz) | 2:34 | 2024-07-08 | 2024-08-10 |
+| [4th of july](https://open.spotify.com/track/5D9hscmOav9Iw8U3yox9UO) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [4th of july](https://open.spotify.com/album/0LFm0KK5gD8kvyiedtQv2W) | 2:58 | 2026-07-03 |  |
 | [5 More Minutes](https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [I Know What I Want](https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va) | 3:50 | 2025-04-04 | 2025-11-08 |
 | [A Little at a Time](https://open.spotify.com/track/29tZfTb09xQTjo7zMpVPj7) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [Face The Feeling](https://open.spotify.com/album/0nbOE96i0mvngykkXaQew0) | 4:16 | 2026-05-15 |  |
 | [A Lot More Free](https://open.spotify.com/track/0duALa6UlxVWqEqpmhv73p) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [A Lot More Free](https://open.spotify.com/album/3Sh0mtX324JgZ6UXvzgD47) | 3:18 | 2024-01-05 | 2025-05-10 |
@@ -255,6 +256,7 @@
 | [forgive](https://open.spotify.com/track/5o1hmgXrZVssht9hZLjhEu) | [Abby Powledge](https://open.spotify.com/artist/5H2vu7amXrDfVapz04U8LJ) | [forgive](https://open.spotify.com/album/7ce4lWzKblWtwCZPJH0wx4) | 4:48 | 2025-01-31 | 2025-08-09 |
 | [Found](https://open.spotify.com/track/4IeGLYWTUvuqaLjBWGxix2) | [Zach Webb](https://open.spotify.com/artist/7xY48N1Fs8R9DDKcUrevke) | [Found](https://open.spotify.com/album/1mx8fRTJbyrN8MUZu8Zlg1) | 5:11 | 2023-10-17 | 2024-02-10 |
 | [Foundry](https://open.spotify.com/track/1CjRmbOw9rR7AiH4s8xa32) | [Son of the Challenger](https://open.spotify.com/artist/5ArUOljpeiuePVYkK6KFmG) | [Foundry](https://open.spotify.com/album/0Gx7vzTl7o7ZMmM15EWbe9) | 3:05 | 2023-10-06 | 2024-02-10 |
+| [Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:39 | 2026-07-03 |  |
 | [Foxglove](https://open.spotify.com/track/17SmldXJpdYPwaTIhJk4Sn) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [Foxglove](https://open.spotify.com/album/49RGfGmL4UzjQdiVGL88Kp) | 2:40 | 2024-09-20 | 2025-08-09 |
 | [Frances](https://open.spotify.com/track/01VATSJaCq2JZneLFkIKBN) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:52 | 2024-08-09 | 2025-04-05 |
 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-03-18 | 2024-04-27 |
@@ -278,6 +280,7 @@
 | [God Needs The Devil](https://open.spotify.com/track/3nEotpBFeXq0OJstuHzwDP) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [God Needs The Devil](https://open.spotify.com/album/6m9iHuaCahIjbToXBybxnl) | 3:12 | 2024-05-10 | 2025-02-08 |
 | [God's A Different Sword](https://open.spotify.com/track/0Yfjj5pPl87buJkfMawmW0) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [God's A Different Sword](https://open.spotify.com/album/5UOWbEUwHarGCuQ91Rd3U2) | 3:19 | 2024-11-15 | 2025-05-17 |
 | [Golden Chain](https://open.spotify.com/track/7gwDV78DGbiCzEuA5foUgU) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Golden Chain](https://open.spotify.com/album/5dHNcyLX9WwAcHm2lQtp53) | 2:49 | 2026-05-01 |  |
+| [Good At Leaving](https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Is This Heaven? \(Extended\)](https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK) | 2:49 | 2026-07-03 |  |
 | [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 | 2025-09-19 | 2026-02-21 |
 | [Good Faith](https://open.spotify.com/track/0UZzkBF9GdsHx71iy1HzcC) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [is a Folk Artist](https://open.spotify.com/album/373bkruQ61S0eMgL8dFAOG) | 4:02 | 2025-11-21 | 2026-03-21 |
 | [Good Game](https://open.spotify.com/track/1uC6yl3BVOOyieOooYDeq7) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Good Game](https://open.spotify.com/album/3hAi8jMZcfpvmqnbV1yvNx) | 3:20 | 2025-08-08 | 2026-02-07 |
@@ -816,8 +819,10 @@
 | [Wimbledon White](https://open.spotify.com/track/7rRc6t3n1e2pibEWSICPBq) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Second Dinner](https://open.spotify.com/album/00RY3jnU6ElMOxJR7AasY7) | 4:07 | 2024-07-19 | 2024-10-12 |
 | [Windbreaker](https://open.spotify.com/track/0lAcU9RMSrFYKuum4wj1Ki) | [Symbol Soup](https://open.spotify.com/artist/10GZjzJnxuL9DuVcNYUyal) | [Windbreaker](https://open.spotify.com/album/20OA2uoifkZSAbZJq3Enls) | 4:11 | 2026-03-06 |  |
 | [Wings](https://open.spotify.com/track/5S1BO9BS02VIBBDjh2ybEA) | [Betty](https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs) | [Wings](https://open.spotify.com/album/39Nt75yWLYPHOma4OdNwZr) | 4:08 | 2026-03-20 |  |
+| [winner](https://open.spotify.com/track/7bXqaPGlz0irAUcmqMnHuP) | [Ella Woolsey](https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9) | [winner](https://open.spotify.com/album/48QRF24jEiOeQGNqJ77c3q) | 2:48 | 2026-07-03 |  |
 | [Wishes](https://open.spotify.com/track/7aQcp936NYgjF1vQOnuKGi) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Wishes](https://open.spotify.com/album/5SGGfUHXyfzxU11aAby1S1) | 4:09 | 2024-04-26 | 2024-06-01 |
 | [wishing for you](https://open.spotify.com/track/70d8qFo2LNeMTouj0ka2TG) | [deeper sleeper](https://open.spotify.com/artist/641zDmmghbd2tTMqrj3HBZ) | [wishing for you](https://open.spotify.com/album/3NtTQnCzZ9WzYPlE8BPQQl) | 4:07 | 2024-08-30 | 2024-10-19 |
+| [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 | 2026-07-03 |  |
 | [Wolf In Sheep’s Clothes](https://open.spotify.com/track/7oUiQH66dtqxiUuRgrRrz6) | [Ken Pomeroy](https://open.spotify.com/artist/0iGCVyBwI59sh7Nejb8wrF) | [Cruel Joke](https://open.spotify.com/album/6bsixeIRweFGPSo3RHqpQH) | 3:25 | 2025-05-16 | 2026-01-15 |
 | [Wolves of Worry](https://open.spotify.com/track/22LyAuD1vzB0sjJWDSYq3I) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Wolves of Worry](https://open.spotify.com/album/1jPBK8y3CHlUCM0z4sTCux) | 3:38 | 2025-08-29 | 2026-02-21 |
 | [Woman of the Hour](https://open.spotify.com/track/7dueFJQSm2gjWZ8etx024G) | [Emma Harner](https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ) | [Evening Star](https://open.spotify.com/album/197taNYjpikHAPjkOWctWk) | 3:02 | 2026-04-03 |  |

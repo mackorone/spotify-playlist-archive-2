@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 
 > インスタ音楽メディア『<a href="https://www.instagram.com/playlist\_of/">PLAYLIST</a>』が失恋をテーマに選曲。<br/>音楽はいつでもあなたに寄り添ってくれるから今はこのプレイリストを聴いてたくさん泣こう。
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,499 likes - 40 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,502 likes - 40 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFuzhIOyS7z.md) - [plain]
 | 39 | [ベテルギウス](https://open.spotify.com/track/4ide8QfQyO6MlDLo8OmckI) | [さよならユニバース](https://open.spotify.com/artist/7jvX504mg9396VtsLHfthy) | [夜明けを待って](https://open.spotify.com/album/1xQaPHJT0uKgWyItUCgYfP) | 0:51 |
 | 40 | [シャッター](https://open.spotify.com/track/48fPGj6jJOz3MI8IjellVY) | [dramastore](https://open.spotify.com/artist/4m7NpM6ekl26IgjouiqfwJ) | [白紙台本](https://open.spotify.com/album/0iieUWajLDySKP4FMouUSU) | 3:22 |
 
-Snapshot ID: `AAAAAL0nfn/6oild1t/3RAiDXRGC71wr`
+Snapshot ID: `AAAAAGUqm2YU574SdZxjQ2ZDhrbsMUJE`

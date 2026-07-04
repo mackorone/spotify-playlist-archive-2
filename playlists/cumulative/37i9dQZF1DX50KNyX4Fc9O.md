@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Will Swinton
 
-2,870 songs - 6 day 4 hr 19 min
+2,871 songs - 6 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1525,6 +1525,7 @@
 | [Love Language](https://open.spotify.com/track/1E5JV3mlDVqHEpQAtOV0RZ) | [Amila](https://open.spotify.com/artist/1aov4dgX0qVZVjIseA9LCh) | [Life Changes](https://open.spotify.com/album/6L8DCQG5Y91672wEjXXYL3) | 3:08 | 2023-08-31 | 2023-10-06 |
 | [Love Language](https://open.spotify.com/track/1GRwEsNUPJ8iTUyeYy0YQM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Love Language](https://open.spotify.com/album/4sh3Yk0ITqd0brs7mmFL1T) | 2:57 | 2025-06-06 | 2025-07-25 |
 | [Love Letter](https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Love Letter](https://open.spotify.com/album/11koFUb2flCfP4dELQ388y) | 2:56 | 2026-03-12 | 2026-04-24 |
+| [Love Like A Hobby](https://open.spotify.com/track/3Ce2UwnIE9clxZp94hkAGp) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Love Like A Hobby](https://open.spotify.com/album/4FhYzCXg5OeNGBT0NvjVvg) | 3:42 | 2026-07-02 |  |
 | [Love Like This](https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Love Like This](https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7) | 2:53 | 2023-07-20 | 2023-09-15 |
 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ) | 3:12 | 2025-01-30 | 2025-03-14 |
 | [Love Me Alive](https://open.spotify.com/track/0Upay8wgPd30hQPjeWXHOC) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Revelation](https://open.spotify.com/album/3My0taql4cY6yHpY1bZILJ) | 3:25 | 2025-06-06 | 2025-07-18 |
@@ -1806,6 +1807,7 @@
 | [On The Line](https://open.spotify.com/track/2FmdOegR6nF8SJLGYb3Y7Z) | [Logan Priest](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j), [KIAN](https://open.spotify.com/artist/1TulCA2zO3YxAjQ7ZsvtDq) | [On The Line](https://open.spotify.com/album/68tz2MPmMKmk3ynt8yw19G) | 3:03 | 2024-06-13 | 2024-07-27 |
 | [On Wires](https://open.spotify.com/track/29KCgoJwNofk7hF4Z1wsEB) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [On Wires](https://open.spotify.com/album/1jDVjyRRcIBJceVWSM76eH) | 3:22 | 2026-06-25 |  |
 | [on ya mind](https://open.spotify.com/track/6zdi0okbY79mOlXq56PFSQ) | [atkins](https://open.spotify.com/artist/3v744e1xfczA6Yim7gkFmI) | [on ya mind](https://open.spotify.com/album/0ReeiLytcqdKMW4ba7TlZO) | 2:47 | 2024-03-28 | 2024-04-19 |
+| [ONCE](https://open.spotify.com/track/5fWJxZsUDzFjzcwBRgu9LK) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [ONCE](https://open.spotify.com/album/1k4eEzf9s2RAjJPJ3IWcii) | 4:13 | 2026-07-02 |  |
 | [Once I Was A Good Girl](https://open.spotify.com/track/7m8meWnPim7LUGBlWFzfIM) | [3Quency](https://open.spotify.com/artist/0Im6nZsuvL1W8yJg39xROA) | [Once I Was A Good Girl](https://open.spotify.com/album/4r8a3ytRZLzYHtuMPw0nbQ) | 2:52 | 2025-11-20 | 2026-02-06 |
 | [One and Only](https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Private Blizzard](https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze) | 3:54 | 2024-08-22 | 2024-09-13 |
 | [One By One \(feat\. Oaks\)](https://open.spotify.com/track/2D1P2Y9RUxZW2Ch9A1rwHA) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [One By One \(feat\. Oaks\)](https://open.spotify.com/album/0RkpyjWCTL4fkYUNSSbjwF) | 2:41 | 2024-01-18 | 2024-02-16 |
@@ -2587,7 +2589,6 @@
 | [Touchy Subject](https://open.spotify.com/track/5oquffCDI8BAXP7jBewlll) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Touchy Subject](https://open.spotify.com/album/7E6LnPGLCbh5yZMb5sjWEk) | 3:47 | 2024-05-23 | 2024-06-28 |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-06-13 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-02-14 |
-| [Track 8](https://open.spotify.com/track/5fWJxZsUDzFjzcwBRgu9LK) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [ONCE](https://open.spotify.com/album/1k4eEzf9s2RAjJPJ3IWcii) | 0:00 | 2026-07-02 |  |
 | [Tracy](https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC) | [PASH](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [Tracy](https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0) | 2:20 | 2025-11-13 | 2026-02-06 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-15 | 2024-03-22 |
 | [training wheels](https://open.spotify.com/track/15JC7KI98dZxwWCfz1LiH7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [training wheels](https://open.spotify.com/album/4fDKMftKwXRPw7LJwuEs9h) | 3:30 | 2025-01-09 | 2025-02-21 |

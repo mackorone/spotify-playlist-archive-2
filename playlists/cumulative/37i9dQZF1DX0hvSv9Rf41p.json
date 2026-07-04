@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring T-Pain & DJ DIESEL",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Zeds Dead",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -4470,6 +4470,32 @@
     {
       "album": {
         "name": "Bodybag",
+        "url": "https://open.spotify.com/album/2RTt2Rls9gk9Li1XRfKg6T"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        },
+        {
+          "name": "B Live",
+          "url": "https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170057,
+      "name": "Bodybag",
+      "url": "https://open.spotify.com/track/3z4PR5rouZvYh7QSOVflts"
+    },
+    {
+      "album": {
+        "name": "Bodybag",
         "url": "https://open.spotify.com/album/2yuXJrAl2fv23yrONBcHwB"
       },
       "artists": [
@@ -5388,7 +5414,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 193479,
       "name": "Broken Calculator",
       "url": "https://open.spotify.com/track/7sjwnLjMRgSq4EQCzLveaa"
@@ -7008,6 +7034,28 @@
       "duration_ms": 188444,
       "name": "CLOSE2ME",
       "url": "https://open.spotify.com/track/6WwBF7AhJJWhHULZPEDRmM"
+    },
+    {
+      "album": {
+        "name": "Club XL",
+        "url": "https://open.spotify.com/album/0EXxFwQwohLNoOjOpqdmYd"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153206,
+      "name": "Club XL",
+      "url": "https://open.spotify.com/track/7rSzIocuSBn819F5o7BRJ3"
     },
     {
       "album": {
@@ -10540,7 +10588,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 119172,
       "name": "Earthquake",
       "url": "https://open.spotify.com/track/4xBQW0iZhjl7mSpse69gn5"
@@ -11794,6 +11842,28 @@
       "duration_ms": 253260,
       "name": "Fall Away",
       "url": "https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7"
+    },
+    {
+      "album": {
+        "name": "Fall Back to Nothing (feat. Saint Monet)",
+        "url": "https://open.spotify.com/album/1wTrrTGokRFfWFDsLDhZgV"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Saint Monet",
+          "url": "https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223663,
+      "name": "Fall Back to Nothing (feat. Saint Monet)",
+      "url": "https://open.spotify.com/track/2BKaOhRDmln79AvTiZecSm"
     },
     {
       "album": {
@@ -13453,6 +13523,24 @@
     },
     {
       "album": {
+        "name": "Forever & Always",
+        "url": "https://open.spotify.com/album/4GwGVnX3g43iKuyjxd1s8o"
+      },
+      "artists": [
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Forever & Always",
+      "url": "https://open.spotify.com/track/0nLGprBGH6Znj5CzRHdBpX"
+    },
+    {
+      "album": {
         "name": "Forever Young",
         "url": "https://open.spotify.com/album/6OaJgXqBhNUJJkEP7CP8zS"
       },
@@ -15004,7 +15092,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 180000,
       "name": "Good Vibrations",
       "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
@@ -15830,7 +15918,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 200000,
       "name": "HEADLOCK",
       "url": "https://open.spotify.com/track/6lnuGOIpbDljQaP9YxADOG"
@@ -18310,7 +18398,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 181301,
       "name": "In The Mirror",
       "url": "https://open.spotify.com/track/0oXhhzaJi5RzWoEeEBLTOz"
@@ -26250,6 +26338,28 @@
       "duration_ms": 171884,
       "name": "Out of Order",
       "url": "https://open.spotify.com/track/4WVQXOAV6OzmI475ZMpbSa"
+    },
+    {
+      "album": {
+        "name": "Return to the Return (of the Spectrum of Intergalactic Happiness)",
+        "url": "https://open.spotify.com/album/2suK6AyM6XGaWHo9hHqiMz"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198012,
+      "name": "Out of Time",
+      "url": "https://open.spotify.com/track/6QpcvSJ5hjc3N9Eyp2SDu3"
     },
     {
       "album": {
@@ -35798,7 +35908,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 235034,
       "name": "Thistle",
       "url": "https://open.spotify.com/track/7bqe0mNTl2Ql9JwmM8nkFg"
@@ -35938,6 +36048,32 @@
       "duration_ms": 140142,
       "name": "Throw It Back",
       "url": "https://open.spotify.com/track/6mjAMJjMb5FUvRFOyBLeKv"
+    },
+    {
+      "album": {
+        "name": "Throw Ya Body",
+        "url": "https://open.spotify.com/album/4TADJ1eEDYHdmMfUN9fWwg"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Tej",
+          "url": "https://open.spotify.com/artist/23wNcGsGxFCpKLs1KoLiHL"
+        },
+        {
+          "name": "Avani Satra",
+          "url": "https://open.spotify.com/artist/0jSQsnwKwjMY1x4xqDZ6Vp"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Throw Ya Body",
+      "url": "https://open.spotify.com/track/5f3KMJbhhUJl1S3deq0P6C"
     },
     {
       "album": {
@@ -37683,6 +37819,28 @@
     },
     {
       "album": {
+        "name": "Valley Of Violence (Borgore Remix)",
+        "url": "https://open.spotify.com/album/6zFLKBNw1kEKJSbJPBL4Co"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        },
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Valley Of Violence - Borgore Remix",
+      "url": "https://open.spotify.com/track/7b1HBFEWhCtlNnlr2Y4jIV"
+    },
+    {
+      "album": {
         "name": "Awakening Compilation 01",
         "url": "https://open.spotify.com/album/3711bSb5rWJ2gABaMUporo"
       },
@@ -38106,7 +38264,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 195517,
       "name": "wakeup(crazy) [feat. Angst]",
       "url": "https://open.spotify.com/track/3IR1kOzcLjPbSipZyp1o30"

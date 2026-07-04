@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,144 songs - 3 day 21 hr 17 min
+1,145 songs - 3 day 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Better Off Alone](https://open.spotify.com/track/2BFa2yuyuoNe3YalZLkefR) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [Better Off Alone](https://open.spotify.com/album/3xHEASPayOb9AxWAOuDE33) | 4:53 | 2024-01-05 | 2024-10-26 |
 | [Beyond The Maps](https://open.spotify.com/track/0KFNu8NLtJYsMuhwXce8CH) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Arâm](https://open.spotify.com/artist/0MDj0UusjwHAAmMkFEY9Pj) | [Beyond The Maps](https://open.spotify.com/album/513KOBWnhqx1MIQsnqjs55) | 4:00 | 2026-03-13 | 2026-04-11 |
 | [Beyond Us \- Hatshepsut Version, Alex Wann Remix](https://open.spotify.com/track/72cQXgoxWZqqdstvqOZ34D) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Eynka](https://open.spotify.com/artist/0yG65Hobg0EEGfxqfFq4Jg), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Beyond Us \(Hatshepsut Version, Alex Wann Remix\)](https://open.spotify.com/album/4BZMQm2r4EB5rbRL9i2nLp) | 3:39 | 2024-04-26 | 2025-03-01 |
+| [BIG DRIP](https://open.spotify.com/track/54kjuFG2o22RrtAlCSwDdJ) | [KARABA](https://open.spotify.com/artist/1Pc6cL3vajo5Vx0XhguGWy), [Dr\. Chaii](https://open.spotify.com/artist/608Tz9GUNqRDkHGprJv3Og), [Emily Apollo](https://open.spotify.com/artist/7x9mpQNiBxVDLeJjtmXqyw) | [BIG DRIP](https://open.spotify.com/album/3GtsCwOjMOKhWMv8AKRmTu) | 3:20 | 2026-07-03 |  |
 | [Big Jet Plane](https://open.spotify.com/track/4nYH1XzdmEroDn9aOpO33f) | [No Relation](https://open.spotify.com/artist/4f7pPE64wmPVoqmkeReJpy) | [Big Jet Plane](https://open.spotify.com/album/4QmXejemlP9hnkj59WAsrL) | 3:56 | 2024-03-29 | 2025-05-07 |
 | [Big Mouth](https://open.spotify.com/track/78k9qKc7z34nuPGesONAJ4) | [MADI](https://open.spotify.com/artist/6X80kEoRJvuJrrKQCuyL1T) | [Big Mouth](https://open.spotify.com/album/5NxOjr8MukjRCJWZe4FCvn) | 4:19 | 2025-09-12 | 2026-04-04 |
 | [Bilmirem](https://open.spotify.com/track/1V0mY5kWhCbUJYil8PVGUJ) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Metty](https://open.spotify.com/artist/0vsssjIOJPKcAfG0oUjHVs) | [Bilmirem](https://open.spotify.com/album/43ZP1eMhyK58ki4mGeEuy0) | 2:42 | 2026-01-16 |  |
@@ -813,7 +814,7 @@
 | [Quetzal](https://open.spotify.com/track/3onp9CePJ7sNcJjIARM5YG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Quetzal](https://open.spotify.com/album/0GB8eQGSI1PgdPqV7IrLMK) | 7:37 | 2021-04-21 | 2023-02-01 |
 | [Radiance](https://open.spotify.com/track/26Ei09sNb2GAUlKhSMb6n4) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [PÆDE](https://open.spotify.com/artist/0q9ulkly0h5gV9BLdyQGnQ) | [Radiance](https://open.spotify.com/album/1YhHRHvLm1M7gb2vzrGgeQ) | 3:30 | 2025-05-30 | 2025-06-27 |
 | [Rainchecks In Montreal \- Roy Rosenfeld Remix](https://open.spotify.com/track/5GkhUSAoSz7Pp4F6VIUbVw) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC), [Roy Rosenfeld](https://open.spotify.com/artist/4YklksA8yDtpluCCh945Sk) | [Rainchecks In Montreal](https://open.spotify.com/album/7hyqsbXob3bcwk8Jml4rfP) | 8:00 | 2023-09-22 | 2024-08-20 |
-| [Raiz Brasileira](https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Amazone Project](https://open.spotify.com/album/3ji4mFEmZ5Kl8cNJxeoB64) | 3:50 | 2026-02-13 |  |
+| [Raiz Brasileira](https://open.spotify.com/track/1PE2n13pbdv5GiSRibgfj3) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Carlinhos Brown](https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Amazone Project](https://open.spotify.com/album/3ji4mFEmZ5Kl8cNJxeoB64) | 3:50 | 2026-02-13 | 2026-07-04 |
 | [Ramona](https://open.spotify.com/track/1EroNKATh80TwDZLtPKPNN) | [Fort Romeau](https://open.spotify.com/artist/5MKqWyqq5CStK7AhkTvzQF) | [Ramona](https://open.spotify.com/album/25bJfT3QJehxDxwSAOkKIc) | 7:03 | 2021-10-15 | 2022-07-17 |
 | [Rational Utopia](https://open.spotify.com/track/1zZrBI8daxuMRJQqE0CkaO) | [Toto Chiavetta](https://open.spotify.com/artist/0DBwNrdGSluzJl24pHRiOk) | [Rational Utopia](https://open.spotify.com/album/0FFLuWqNeJc2HxROaNDH99) | 8:18 | 2022-06-10 | 2022-08-04 |
 | [Raven](https://open.spotify.com/track/3DSz44pPAfri3xhLvoGLaY) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C) | [Lux EP](https://open.spotify.com/album/5U8s00tqXWFwUfXD8eprtV) | 7:19 | 2021-04-21 | 2022-07-29 |

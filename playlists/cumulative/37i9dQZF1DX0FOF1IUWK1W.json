@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Henry Freitas o e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Panda o e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -2004,6 +2004,24 @@
       "duration_ms": 140307,
       "name": "Baile no Morro",
       "url": "https://open.spotify.com/track/0i4UV3HjjvsUuV3BajEXoD"
+    },
+    {
+      "album": {
+        "name": "Bala Alojada",
+        "url": "https://open.spotify.com/album/4mFeX8UBFJ1KAyvfboPI7d"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218107,
+      "name": "Bala Alojada",
+      "url": "https://open.spotify.com/track/2VqS3nosBtSzujuUP6EoKq"
     },
     {
       "album": {
@@ -11698,6 +11716,36 @@
       "duration_ms": 113448,
       "name": "Patrai",
       "url": "https://open.spotify.com/track/3TzANwXYkLsjIY9CT7prcL"
+    },
+    {
+      "album": {
+        "name": "Pau Pra Toda Obra",
+        "url": "https://open.spotify.com/album/0W66hHCN1cRJitO1dHEbUQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Pau Pra Toda Obra",
+      "url": "https://open.spotify.com/track/2zUC2BnjdVkB0OWvFQkKHa"
     },
     {
       "album": {

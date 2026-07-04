@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "Little Dove",
+        "url": "https://open.spotify.com/album/0oQjdHvLzIEB2kcHpnOlVD"
+      },
+      "artists": [
+        {
+          "name": "James Quinn",
+          "url": "https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110860,
+      "name": "Little Dove",
+      "url": "https://open.spotify.com/track/0XSZ0ROOhFRnsHweQxFPAK"
+    },
+    {
+      "album": {
         "name": "Little House In Silver Lake",
         "url": "https://open.spotify.com/album/6hXIKTf62eL65rGo6GshIs"
       },
@@ -1611,6 +1629,24 @@
     },
     {
       "album": {
+        "name": "Soft Remains",
+        "url": "https://open.spotify.com/album/4KSGCtwTfz11gWnLc1OWOJ"
+      },
+      "artists": [
+        {
+          "name": "Lyraen",
+          "url": "https://open.spotify.com/artist/0UWho9zZbWeCzDCPKaebro"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213460,
+      "name": "Soft Remains",
+      "url": "https://open.spotify.com/track/2aCCSgGdfxQhFG959qfvXc"
+    },
+    {
+      "album": {
         "name": "Sole In Viso",
         "url": "https://open.spotify.com/album/6spKUg9mnuj7UNvjOR5w7S"
       },
@@ -2094,6 +2130,24 @@
       "duration_ms": 141993,
       "name": "Truth Within",
       "url": "https://open.spotify.com/track/3mRO22aXY2HAdEVFluFrXI"
+    },
+    {
+      "album": {
+        "name": "Waltz on Golden Pond",
+        "url": "https://open.spotify.com/album/0jh7GHk1n9YD3zcycfIbjI"
+      },
+      "artists": [
+        {
+          "name": "Elle Lumen",
+          "url": "https://open.spotify.com/artist/5M2t3TVUYEXiklrH4k1Rk8"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176940,
+      "name": "Waltz on Golden Pond",
+      "url": "https://open.spotify.com/track/0cWiwm6Y1TSlaThkwp9zw1"
     },
     {
       "album": {

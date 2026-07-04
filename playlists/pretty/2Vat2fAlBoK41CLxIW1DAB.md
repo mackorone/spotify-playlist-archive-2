@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 
 > 
 
-[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,590 likes - 1,061 songs - 2 day 18 hr 56 min
+[Nitro Square](https://open.spotify.com/user/31axnmyfs3rzdpedj6kiuibxqy6a) - 1,588 likes - 1,075 songs - 2 day 19 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1069,5 +1069,19 @@ pretty - [cumulative](/playlists/cumulative/2Vat2fAlBoK41CLxIW1DAB.md) - [plain]
 | 1059 | [Dreams](https://open.spotify.com/track/7tNtLGxW11tKE70wB4BWPD) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Dreams](https://open.spotify.com/album/429o17nGxNDexcp42affUn) | 3:15 |
 | 1060 | [Ona Na](https://open.spotify.com/track/7eI6QVRXPEUytmItubRHVJ) | [Palocoman & Elkeike](https://open.spotify.com/artist/6bcBCvk3tT6JMLaMMPqNLD) | [Ona Na](https://open.spotify.com/album/47jda06wUBpfhG608J6FgV) | 3:26 |
 | 1061 | [I Love the NiteTime \- Instrumental](https://open.spotify.com/track/71EtEiC81m2XGqTtbIho9t) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [I Love the NiteTime \(Instrumental\)](https://open.spotify.com/album/3l4SxjWPTqCkfk3do9lvPC) | 2:30 |
+| 1062 | [there is no war in Ba Sing Se](https://open.spotify.com/track/1fPADWrVVP3L2rKa2TcdHQ) | [Four Stars](https://open.spotify.com/artist/2tdl7uw2qVGiuAk0AjUpGG) | [there is no war in Ba Sing Se](https://open.spotify.com/album/77PqBYTLSidzdJ0fd4huqF) | 3:09 |
+| 1063 | [Dog Daze Haze](https://open.spotify.com/track/5UfjfOt3mwzpaGeO1Hwgdw) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [yukigloom](https://open.spotify.com/artist/6JGwAjF1SceQb8y5mMVuha) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:14 |
+| 1064 | [Climate](https://open.spotify.com/track/7ccukurfHBNqH7vPfLyIe1) | [DirtBasement](https://open.spotify.com/artist/5Tkdd3BzpV96DMDdrR2k4v) | [Smash or Pass](https://open.spotify.com/album/7MAEkzmsXAZCmR3ZZg1fZE) | 3:50 |
+| 1065 | [Middle Finger](https://open.spotify.com/track/49z0vk7gRVI5N5ENKQ1iys) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68) | [Too Broke For Money](https://open.spotify.com/album/7MX4Q2DfTrscHAIl5SoUtZ) | 1:57 |
+| 1066 | [100 Hod](https://open.spotify.com/track/0iV71apxpIvDdd4vLdj4wr) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [100 Hod](https://open.spotify.com/album/62pqGsxT3FIQJdCv6unCH9) | 2:31 |
+| 1067 | [Pay & Obey](https://open.spotify.com/track/6mcOiLKX3q2MNo8BFnMVwA) | [Nukore](https://open.spotify.com/artist/76hPQa6sCQSpbMsSzLVSAw) | [Pay & Obey](https://open.spotify.com/album/3TREww5YIu9EtitsaifdSK) | 3:33 |
+| 1068 | [Emotional Bloodstorm](https://open.spotify.com/track/2hAppVdjgJipmobwvTqvVX) | [Nukehole](https://open.spotify.com/artist/68Qg8Ukjg5zs3PimhwUBKZ) | [Emotional Bloodstorm](https://open.spotify.com/album/6KMHZnoonR5kH2qs3siGW6) | 4:52 |
+| 1069 | [The Winners](https://open.spotify.com/track/4cikIn262lsH38P0xAvdxY) | [GM Jon](https://open.spotify.com/artist/37lunlezmWmUxEd3oc5Xz3) | [The Winners](https://open.spotify.com/album/1f5KqdIi1FTOt96poj2QJp) | 3:55 |
+| 1070 | [Scherben Und Kies](https://open.spotify.com/track/7JG8rGb2MFSuxdCi3rqlHn) | [BYRA\*](https://open.spotify.com/artist/6ukaxuDTaqB6Q3wntFMjKI) | [Scherben Und Kies](https://open.spotify.com/album/095IMoDGHnMcKndKLJWFni) | 2:43 |
+| 1071 | [L.U.C.A.](https://open.spotify.com/track/6hswQyVbmci2ZGk4pIflqa) | [Oddplay](https://open.spotify.com/artist/3Q2aDOByhFp4efTBsjMgJJ) | [Inertia](https://open.spotify.com/album/5FyHFasnU9CXwPxzVsHdYF) | 4:08 |
+| 1072 | [Sweet Talk](https://open.spotify.com/track/1ON1YnDKFsSaDXCRG2AorD) | [Slackrr](https://open.spotify.com/artist/17JbSCGvIPoMMl9xGcR8lu) | [A Light On The Horizon](https://open.spotify.com/album/6zRSgRECoeWvyG6UQq2Fdw) | 3:36 |
+| 1073 | [Void Side](https://open.spotify.com/track/5h2qXbZScJHi1TDqdPfeCR) | [Rubber Block](https://open.spotify.com/artist/45JwohjuGbElTpuk8Kqjuk) | [Void Side](https://open.spotify.com/album/27qTc6V8t9S61yKKXk6les) | 4:23 |
+| 1074 | [Spark Mandrill Mega Man X \- Vocal Version](https://open.spotify.com/track/61GCtHUH83JJazDKrnSLFa) | [Vocal Game Orchestra](https://open.spotify.com/artist/4LvoFWmhUT7CNWjppMoaUK) | [Spark Mandrill Mega Man X \(Vocal Version\)](https://open.spotify.com/album/7d1TDCvSIGNkYlR7Husnyp) | 3:42 |
+| 1075 | [Ocho de Oros](https://open.spotify.com/track/6h3Vdl2vHTmqeXPTvPEa9M) | [MENENDEZ](https://open.spotify.com/artist/4ufs2hcQ5G3tGnLiCsrXxz) | [Ocho de Oros](https://open.spotify.com/album/4MTSkVcrOe5QjGfHOsZN2X) | 2:37 |
 
-Snapshot ID: `AAAETTXr0Y+qVLYqTX4p0kfbJ0ew7M7H`
+Snapshot ID: `AAAEXFvNbuDTeaoXIGTrAM19BS65LDze`

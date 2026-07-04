@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00a1Rock para cantar en todos lados! ANASOF en portada.",
+  "description": "\u00a1Rock para cantar en todos lados! Azul de Viena en portada.",
   "name": "Pop Rock Latino",
   "tracks": [
     {
@@ -274,7 +274,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 212313,
       "name": "Aeropuerto",
       "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
@@ -2000,7 +2000,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 266066,
       "name": "El M\u00e9ndigo D\u00eda Del Padre",
       "url": "https://open.spotify.com/track/6KwKCsC05vg2RbhF5rVmc3"
@@ -2204,6 +2204,28 @@
       "duration_ms": 235141,
       "name": "EN LO TOTAL",
       "url": "https://open.spotify.com/track/3y48Sa22j19xNtlnUMX9CR"
+    },
+    {
+      "album": {
+        "name": "Es para siempre",
+        "url": "https://open.spotify.com/album/33UmtlNckldmgeXDEB0aPZ"
+      },
+      "artists": [
+        {
+          "name": "Azul de Viena",
+          "url": "https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ"
+        },
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Es para siempre",
+      "url": "https://open.spotify.com/track/2YRn2M7jQ9IcrAhkkQXNOV"
     },
     {
       "album": {
@@ -2494,6 +2516,24 @@
       "duration_ms": 189551,
       "name": "Hablar de Flores",
       "url": "https://open.spotify.com/track/5Kl2aRgbzHQGpzMgCmpWAS"
+    },
+    {
+      "album": {
+        "name": "D\u00edscolo",
+        "url": "https://open.spotify.com/album/22MYjYwCITSV9lJQfkPiJw"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183506,
+      "name": "Haditas",
+      "url": "https://open.spotify.com/track/6Rqc7r9cZ7IG8c8xvPyQvK"
     },
     {
       "album": {
@@ -3058,7 +3098,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 153109,
       "name": "Lo Que No Quieres Saber",
       "url": "https://open.spotify.com/track/5YaN0wsDgYpdE4pCRm0Wbt"
@@ -3741,6 +3781,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9xico",
+        "url": "https://open.spotify.com/album/3In8wq12OytIlnLyLLpsaj"
+      },
+      "artists": [
+        {
+          "name": "Malva",
+          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
+        },
+        {
+          "name": "Esau Ortiz",
+          "url": "https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158155,
+      "name": "M\u00e9xico",
+      "url": "https://open.spotify.com/track/1aByOuYpAC4LQtdn1Az3ky"
+    },
+    {
+      "album": {
         "name": "Nada por Hecho (feat. Leiva)",
         "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
       },
@@ -4042,7 +4104,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 183157,
       "name": "No, No Est\u00e1 Tan Mal",
       "url": "https://open.spotify.com/track/4hAVYIOCApCkxZIgHarN8r"
@@ -4086,6 +4148,32 @@
       "duration_ms": 180000,
       "name": "Nublado",
       "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
+    },
+    {
+      "album": {
+        "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
+        "url": "https://open.spotify.com/album/1IlYdxr6kQ1SuzAN1xQWRf"
+      },
+      "artists": [
+        {
+          "name": "Melon Diesel",
+          "url": "https://open.spotify.com/artist/7vL2cUa3hRkdJzxxDsKHyF"
+        },
+        {
+          "name": "Gabriel De La Rosa",
+          "url": "https://open.spotify.com/artist/6ax61YDjkDzWEr0Wdls9uX"
+        },
+        {
+          "name": "Shinova",
+          "url": "https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262465,
+      "name": "Nuestra Historia (feat. Gabriel De La Rosa, Shinova)",
+      "url": "https://open.spotify.com/track/4apjmILh9SIf1jtbI36xDC"
     },
     {
       "album": {
@@ -4238,6 +4326,24 @@
       "duration_ms": 152794,
       "name": "Origami",
       "url": "https://open.spotify.com/track/7GDVpCGJ3aOp4j4AVnhLoV"
+    },
+    {
+      "album": {
+        "name": "Otra Vez (Versi\u00f3n Noel)",
+        "url": "https://open.spotify.com/album/48Yv2WsZohdS1lD7H4I5xV"
+      },
+      "artists": [
+        {
+          "name": "Noel Schajris",
+          "url": "https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243173,
+      "name": "Otra Vez - Versi\u00f3n Noel",
+      "url": "https://open.spotify.com/track/0QdukVzXodUD5ESNAaIVQ0"
     },
     {
       "album": {
@@ -4922,7 +5028,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 179527,
       "name": "Quito",
       "url": "https://open.spotify.com/track/5I7HzntcnFHekSHJNrngcn"
@@ -5455,6 +5561,28 @@
     },
     {
       "album": {
+        "name": "Sigo Buscando",
+        "url": "https://open.spotify.com/album/4KMZmsGlXKUTfd1Uf1CMvP"
+      },
+      "artists": [
+        {
+          "name": "The Mills",
+          "url": "https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143996,
+      "name": "Sigo Buscando",
+      "url": "https://open.spotify.com/track/0fbj2shzxswLJ4hPnpxoFy"
+    },
+    {
+      "album": {
         "name": "Silencio",
         "url": "https://open.spotify.com/album/3OImMIbnVXy6OV1yJHSYeH"
       },
@@ -5604,7 +5732,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 159227,
       "name": "Soy Tuyo",
       "url": "https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3"
@@ -5764,7 +5892,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 196365,
       "name": "Te Extra\u00f1ar\u00e9",
       "url": "https://open.spotify.com/track/4jNEAv50XJge80AocPZYWB"
@@ -5902,6 +6030,28 @@
       "duration_ms": 184453,
       "name": "Todo Regresa",
       "url": "https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf"
+    },
+    {
+      "album": {
+        "name": "Todos piensan que ya te olvid\u00e9",
+        "url": "https://open.spotify.com/album/3RyeFvRc6zDhuvOq4jKNeI"
+      },
+      "artists": [
+        {
+          "name": "Biela",
+          "url": "https://open.spotify.com/artist/3V4eTmIv1fY1zTRSOFOjEH"
+        },
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184338,
+      "name": "Todos piensan que ya te olvid\u00e9",
+      "url": "https://open.spotify.com/track/3Yep9HySEW2mDnfUbEclDo"
     },
     {
       "album": {

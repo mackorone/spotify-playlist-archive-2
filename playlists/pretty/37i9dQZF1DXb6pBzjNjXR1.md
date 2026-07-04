@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech as it travels the world's dancefloors\. Cover: <a href="https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE?si=IDV6FFKHTZqZY6esFdH2\-A">Thakzin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,198 likes - 61 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,208 likes - 61 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bozza Mthathe](https://open.spotify.com/track/4TVq89a085gdNh8QZps0h1) | [Thakzin](https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE) | [Bozza Mthathe / Release & Sustain](https://open.spotify.com/album/5qGLCLdPiBmizIwl5cnbjC) | 6:24 |
-| 2 | [VAR](https://open.spotify.com/track/72V7ipYJNBUkLWc2ZR49z0) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl) | [Finally Famous Too](https://open.spotify.com/album/2fJHuylS0WyxccTNW1nwU9) | 6:32 |
+| 2 | [VAR](https://open.spotify.com/track/72V7ipYJNBUkLWc2ZR49z0) | [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [GoldMax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl) | [Finally Famous Too](https://open.spotify.com/album/2fJHuylS0WyxccTNW1nwU9) | 6:32 |
 | 3 | [Nzara \- CLARAA Remix](https://open.spotify.com/track/68LffvHeeRRrd4wnuiauCk) | [Stones & Bones](https://open.spotify.com/artist/5dBe8LtEp62lNMgDOFx7l4), [Gino Brown](https://open.spotify.com/artist/7hAFqypJQMJwOYdidATue1), [Ruvimbo](https://open.spotify.com/artist/0H9hyTkCwELLroC9zTODuz), [CLARAA](https://open.spotify.com/artist/0hzvjvnzkOTFNgVrLTwiM4) | [Nzara \(CLARAA Remix\)](https://open.spotify.com/album/3NeEeOpMtzzobn9EZQ8OVA) | 6:47 |
 | 4 | [Zaya](https://open.spotify.com/track/0QBSUWfddnwtBSY5p6Fsxt) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Chaleee](https://open.spotify.com/artist/5VyfwlNlfq9jAFWB6nSL4c) | [Zaya](https://open.spotify.com/album/31WLM1lVSpA5nn2HTeh72j) | 7:39 |
 | 5 | [Cries Of The Motherland](https://open.spotify.com/track/2k46iqHrhqENRkHSukPpD4) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Sam K](https://open.spotify.com/artist/48bm9IjMTyMQjNmcFnqcBn) | [First Impressions](https://open.spotify.com/album/1Po1pJ8v81cEzbfxCk52Dm) | 7:22 |

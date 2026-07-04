@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,355 songs - 5 day 18 hr 52 min
+2,357 songs - 5 day 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1788,6 +1788,7 @@
 | [She Bangs the Drums \- Remastered 2009](https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 3:52 | 2024-03-04 |  |
 | [She Doesn't Text Anymore](https://open.spotify.com/track/7bor0vbDztidkuV1T1fEvC) | [Edren](https://open.spotify.com/artist/60dVRzJKHt26v1lJLTszSG) | [She Doesn't Text Anymore](https://open.spotify.com/album/6O90FEC2InnvcfapMZp5Lg) | 2:04 | 2025-08-01 |  |
 | [She Wants To Walk Away \(Distribution\)](https://open.spotify.com/track/4bzxN8X4P0vLf60nNOxeRn) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [She Wants To Walk Away](https://open.spotify.com/album/2j7luFA0VH7aMbwF70JHCk) | 3:14 | 2026-04-28 |  |
+| [She's Undone Me \- Remaster](https://open.spotify.com/track/19nHBw5kkMfz5PA9Fs4fCy) | [4est Fleur](https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK) | [She's Undone Me \(Remaster\)](https://open.spotify.com/album/7fTqYSdlh9k57M6I3gxU4f) | 2:50 | 2026-07-03 |  |
 | [She’s Not Me](https://open.spotify.com/track/4RsLQfam90aUyVSIFucWuY) | [$av](https://open.spotify.com/artist/1W7VZerq9bQnkKI7Z9YpNQ) | [$](https://open.spotify.com/album/55KUPIRKLKBlzZ7dWIKIoF) | 2:59 | 2025-11-05 |  |
 | [Shifting Sands](https://open.spotify.com/track/2j2KYoqL7VYecE4sMngorf) | [Demy DeLee](https://open.spotify.com/artist/0Wp2MufD7Cprl4Xf2JQMIz) | [Shifting Sands](https://open.spotify.com/album/7MCrmOgAHpZ8pAm9f33dJO) | 2:45 | 2026-03-21 |  |
 | [Shimmer](https://open.spotify.com/track/6UapzbH1YAoQI1wPuGwQBQ) | [Dan'G](https://open.spotify.com/artist/1IvkmplVCQqVz7Ee2oISef) | [Ear the Worm](https://open.spotify.com/album/5xPWIGOvtnTeMIj0Au40va) | 3:38 | 2025-07-20 |  |
@@ -2323,6 +2324,7 @@
 | [¿Y dónde estabas tú?](https://open.spotify.com/track/69FVpltpyAvHeiXHg2BK9C) | [Noelia Malta](https://open.spotify.com/artist/1B0tklWQ7QFvUo05d5mE3C) | [¿Y dónde estabas tú?](https://open.spotify.com/album/3mPWjGkzXd8LAxlKt0Z4i6) | 3:04 | 2026-06-09 |  |
 | [À Strasbourg](https://open.spotify.com/track/0TKoTFDu0ZI7UzwesMNhGG) | [Dominique Daumann](https://open.spotify.com/artist/1Nm0cvOQp7njIOVzZ3Wqe6) | [À Strasbourg](https://open.spotify.com/album/2YEwaDLh3wJbTTVfni8HJg) | 3:35 | 2026-06-03 |  |
 | [Último Día de Playa](https://open.spotify.com/track/6NAJNGtKdGlomwElyk9Wfb) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Último Día de Playa](https://open.spotify.com/album/53jVLMm40xLGS3l4Bwpk5g) | 3:48 | 2026-02-05 |  |
+| [Καληνύχτα, Αγάπη Μου](https://open.spotify.com/track/5VLd3gLSovJaAb6WElCwGW) | [Pepi](https://open.spotify.com/artist/1JcqlMEa8HWxcRm8zM5oUR) | [Καληνύχτα, Αγάπη Μου](https://open.spotify.com/album/5kCjV38E6MZoDSqGmASqUr) | 3:18 | 2026-07-03 |  |
 | [Больше Букв](https://open.spotify.com/track/0Q4wO9zQapT6lpx6LT5Qkk) | [NeuroKolyan](https://open.spotify.com/artist/4p2EYQIpWi6Fg378pB75C8) | [Больше Букв](https://open.spotify.com/album/6qZzTo28vHipxaZJGqO3rQ) | 4:31 | 2026-06-25 |  |
 | [Буду с тобой](https://open.spotify.com/track/59IGh75jcZX5dytjWQ6zHX) | [ΛNZZ](https://open.spotify.com/artist/3TWeuhaLtXwVABFag0rOLK) | [Буду с тобой](https://open.spotify.com/album/0PuSC7RFOlqwUkw6r0nNhd) | 2:18 | 2025-05-16 |  |
 | [Вдыхая](https://open.spotify.com/track/5wCJdxThWor3Zt8JP7jEOf) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Вдыхая](https://open.spotify.com/album/135EW2AzzOC1uUHc7AXasA) | 3:03 | 2025-07-01 |  |

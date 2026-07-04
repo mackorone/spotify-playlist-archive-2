@@ -4652,7 +4652,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 181495,
       "name": "DEARLY",
       "url": "https://open.spotify.com/track/3QfF2sGXISaMK4ClAnVYYN"
@@ -11490,7 +11490,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 170191,
       "name": "Luvaluvah",
       "url": "https://open.spotify.com/track/00uXDC6A3RK2HJlTK6h0Ak"
@@ -15777,6 +15777,24 @@
     },
     {
       "album": {
+        "name": "Worthy Challenger",
+        "url": "https://open.spotify.com/album/0WKTcQ4BvpNVKWYswVm1gU"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144487,
+      "name": "Samankwe",
+      "url": "https://open.spotify.com/track/1lKPYCHbsmfviBbUq6xyZB"
+    },
+    {
+      "album": {
         "name": "Sankofa (5 Star Remix)",
         "url": "https://open.spotify.com/album/7vuWMKZUPRYEy5YWdloX5K"
       },
@@ -18352,24 +18370,6 @@
       "duration_ms": 135157,
       "name": "Toxic Love",
       "url": "https://open.spotify.com/track/09YR7RkTuIjWl6vKwFGTe5"
-    },
-    {
-      "album": {
-        "name": "Worthy Challenger",
-        "url": "https://open.spotify.com/album/0WKTcQ4BvpNVKWYswVm1gU"
-      },
-      "artists": [
-        {
-          "name": "Reekado Banks",
-          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
-        }
-      ],
-      "date_added": "2026-07-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/1lKPYCHbsmfviBbUq6xyZB"
     },
     {
       "album": {

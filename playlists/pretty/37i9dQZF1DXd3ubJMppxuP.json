@@ -1,6 +1,6 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 88458,
+  "num_followers": 88475,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
@@ -543,26 +543,6 @@
     {
       "added_at": "2026-06-25 22:00:27",
       "album": {
-        "name": "In De Hemel Is Geen Bier",
-        "url": "https://open.spotify.com/album/38CP1Z2uXZI4u7CWmmHsCc"
-      },
-      "artists": [
-        {
-          "name": "Boer Harm",
-          "url": "https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os"
-        },
-        {
-          "name": "Dr Phunk",
-          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "In De Hemel Is Geen Bier",
-      "url": "https://open.spotify.com/track/28Qvlhqa98uwiO8ZQj8T6U"
-    },
-    {
-      "added_at": "2026-06-25 22:00:27",
-      "album": {
         "name": "Bietje Bas",
         "url": "https://open.spotify.com/album/1G8kfnaA7hEeyTNXMNcw0P"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 154616,
       "name": "Bietje Bas",
       "url": "https://open.spotify.com/track/2ZThLTNBFvgJx7H2yV4cVL"
+    },
+    {
+      "added_at": "2026-06-25 22:00:27",
+      "album": {
+        "name": "In De Hemel Is Geen Bier",
+        "url": "https://open.spotify.com/album/38CP1Z2uXZI4u7CWmmHsCc"
+      },
+      "artists": [
+        {
+          "name": "Boer Harm",
+          "url": "https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os"
+        },
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "In De Hemel Is Geen Bier",
+      "url": "https://open.spotify.com/track/28Qvlhqa98uwiO8ZQj8T6U"
     },
     {
       "added_at": "2026-06-25 22:00:27",

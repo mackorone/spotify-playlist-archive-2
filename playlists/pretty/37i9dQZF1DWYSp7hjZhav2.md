@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 
 > <a href="spotify:artist:4iBwchw0U0GZv5RfVYSMxN">Anyma</a>'s favorite tracks\. Updated regularly\. Curated by Anyma\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,438 likes - 53 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,456 likes - 53 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSp7hjZhav2.md) - [plain]
 | 21 | [Do For Your Love](https://open.spotify.com/track/3kg6XwcUY1eRJ3ntWvZeSY) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [Do For Your Love](https://open.spotify.com/album/3bXzAamzshpdQlDn3ijyCT) | 4:05 |
 | 22 | [Fuel](https://open.spotify.com/track/5JNHMsnjSkx7LUiHuD1RZY) | [Baset](https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Quantum Echoes, Pt\. I](https://open.spotify.com/album/0YjED0Yy3wOIiJhW3ole1U) | 2:47 |
 | 23 | [567AM](https://open.spotify.com/track/1Ib3NLoWJ5yev5BVzHLQHA) | [BL3SS](https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI) | [567AM](https://open.spotify.com/album/0ekpmMf9L0YDnR6tuGFY95) | 2:08 |
-| 24 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 |
+| 24 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sybil](https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 |
 | 25 | [Gate](https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx) | [Gate / Masterplan](https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI) | 5:43 |
 | 26 | [Human Now \(feat\. Luke Steele\)](https://open.spotify.com/track/7GX6nuYYW39aQpvCeBtMQu) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Luke Steele](https://open.spotify.com/artist/0CliOhi161ZCRIVw60prp0) | [The End Of Genesys \(Deluxe\)](https://open.spotify.com/album/2SmN1Ac10MPhwvaSOrzobT) | 3:10 |
 | 27 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 |

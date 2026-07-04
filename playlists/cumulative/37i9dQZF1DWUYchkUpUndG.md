@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Mercy Chinwo & Nathaniel Bassey
 
-8,399 songs - 26 day 0 hr 37 min
+8,400 songs - 26 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1117,6 +1117,7 @@
 | [Chasing me](https://open.spotify.com/track/5zUvsVXlcWhSIxB4qQXRQH) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [Chasing me](https://open.spotify.com/album/62JiAcdMHjpoHBUQ9yGm5r) | 2:28 | 2025-08-22 | 2025-09-05 |
 | [Chasing me \- Essential](https://open.spotify.com/track/1sj0IzJl24H3d6D7jxPkNE) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy) | [Chasing me \(Essential\)](https://open.spotify.com/album/21s2bazxjJqpzzWyY73yDH) | 2:28 | 2025-10-24 | 2025-10-31 |
 | [Check am](https://open.spotify.com/track/5RlxvFBTGYRvGIbon1XhC7) | [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc), [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu) | [Check am](https://open.spotify.com/album/3Uoot5uNSUtwK9PwspuV8P) | 2:27 | 2025-02-21 | 2025-03-08 |
+| [Check Am](https://open.spotify.com/track/5fEXpt1fF14LGodXmBen4N) | [TMAX](https://open.spotify.com/artist/7Hj8PN0nPrxtolUWesbhii), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Check Am](https://open.spotify.com/album/6D8OsnhxfkWaqYcrD5o49q) | 3:14 | 2026-07-03 |  |
 | [Chenw 'Ke Tumino](https://open.spotify.com/track/1GTwooTKHA7WPUEe0fQ88a) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH) | [Chenw 'Ke Tumino](https://open.spotify.com/album/6LcfSYpGZH1LOPSkUJPZ5y) | 2:43 | 2024-02-16 | 2024-03-01 |
 | [CHERIE NA NGA](https://open.spotify.com/track/09myAtr8Juocq2VdIox9DQ) | [Sarah Kalume](https://open.spotify.com/artist/4hsGIQkG9TREkjWoXFRlAa) | [SK](https://open.spotify.com/album/4pRJVA3gBtQIyGBaDP9jkP) | 3:04 | 2024-11-29 | 2024-12-13 |
 | [CHERUBIM & SERAPHIM](https://open.spotify.com/track/4amQVTKzJH9dHwPhxiiG9a) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS) | [CHERUBIM & SERAPHIM](https://open.spotify.com/album/40nb190vayLnW6la0nkfHx) | 6:52 | 2026-03-13 | 2026-03-27 |
@@ -3021,6 +3022,7 @@
 | [Holy Holy \- Deep Worship Chant](https://open.spotify.com/track/7A5vCT8jIExs23AFUWLv90) | [Minstrel Myra](https://open.spotify.com/artist/39acn6Mvi2cfu678x357z1) | [Holy Holy \- Deep Worship Chant](https://open.spotify.com/album/2A863Man9dbk8E8mRerdRY) | 5:43 | 2024-11-29 | 2024-12-13 |
 | [Holy Holy \- Revisited](https://open.spotify.com/track/4F27Sv0lG1bwpgB77uxmK8) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Lizzie Noiki](https://open.spotify.com/artist/6PC9kNSWd9WufkroWEiUrh) | [Holy Holy \(Revisited\)](https://open.spotify.com/album/1An2JPT8HL3wmBmdc2Ztw2) | 8:44 | 2025-01-03 | 2025-01-17 |
 | [Holy Holy Are You Lord](https://open.spotify.com/track/4SaoWxJ7Ii7kB2vLFzflgH) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Holy Holy Are You Lord](https://open.spotify.com/album/1VE4cBM00NJYLim8Nd8jA6) | 5:26 | 2026-04-03 | 2026-04-17 |
+| [Holy Holy Holy](https://open.spotify.com/track/5WH2UuWLvRSoMqKvABTJm7) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Holy Holy Holy](https://open.spotify.com/album/0pxjDuWhj4F6LZLpiKZOIA) | 12:08 | 2026-07-03 |  |
 | [Holy Holy Holy](https://open.spotify.com/track/2Wu5AAJTzdJKcXR1YwoFji) | [DappyTKeys](https://open.spotify.com/artist/6QHA0Ju1zeevkCUGlFG04w) | [Dew of Heaven](https://open.spotify.com/album/435xpwO7CbjpmxjpfKbg1s) | 5:20 | 2025-09-26 | 2025-10-03 |
 | [Holy Holy Holy](https://open.spotify.com/track/6zJ972ZRRqDPo6M1GkL9Sl) | [Elijah Oyelade](https://open.spotify.com/artist/2oRaSHeT9xVpXFvon3U4ak), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Holy Holy Holy](https://open.spotify.com/album/3HKQFWTTarCEjp20HAjHns) | 15:23 | 2023-09-08 | 2023-09-22 |
 | [Holy Holy Holy](https://open.spotify.com/track/0GZnSrvOBOb8UlnApqQJAN) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Holy Holy Holy](https://open.spotify.com/album/6BVmi5r9mjTNMJy1ZZvHTN) | 10:09 | 2024-08-02 | 2024-08-16 |
@@ -7351,8 +7353,6 @@
 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 | 2024-01-19 | 2024-02-02 |
 | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/track/5U4Ovjih4AkPzm6qKgRSHs) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/album/4rMQD6m79Z10fLzHwWUaKs) | 3:22 | 2024-03-08 | 2024-03-16 |
 | [TPC](https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL) | [Da Voice](https://open.spotify.com/artist/5Dc9tfmomwFNnBY10xj0kj) | [TPC](https://open.spotify.com/album/3s7VHDyi99q9iFlxY1slbq) | 3:48 | 2024-09-27 | 2024-10-11 |
-| [Track 1](https://open.spotify.com/track/5WH2UuWLvRSoMqKvABTJm7) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Holy Holy Holy](https://open.spotify.com/album/0pxjDuWhj4F6LZLpiKZOIA) | 0:00 | 2026-07-03 |  |
-| [Track 2](https://open.spotify.com/track/1adeZmxXG7aqyZOaeJhult) | [Labisi](https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8) | [Assurance](https://open.spotify.com/album/1tcMzoel1OUbK3to92ngFV) | 0:00 | 2026-07-03 |  |
 | [Transitions](https://open.spotify.com/track/6Hz9LQZ6Ojoa3a5DmVVP4N) | [Rohi Shaapera](https://open.spotify.com/artist/10C5zzyN7mS8BBJLqyTYUr) | [Transitions](https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9) | 2:42 | 2025-07-04 | 2025-07-18 |
 | [Traumatized](https://open.spotify.com/track/4IuztXrOUvnDUONYGT5pc3) | [2Larni](https://open.spotify.com/artist/0OEREBZdg9v3W9w1L5xY4d) | [Traumatized](https://open.spotify.com/album/5dhM2pMbxRKCn65QwKccw9) | 1:28 | 2024-02-09 | 2024-02-16 |
 | [Traveller](https://open.spotify.com/track/0mCxma7UENksj35Hxm1k88) | [Father Ankrah Music](https://open.spotify.com/artist/0yt8H7q2YCQi8kUi1KeK6N) | [Traveller](https://open.spotify.com/album/19Xf6cvv5NKVkMDuZiesH2) | 3:13 | 2025-03-28 | 2025-04-11 |
@@ -7404,6 +7404,7 @@
 | [Tu mérites nos louanges](https://open.spotify.com/track/0ql4g097d8xJ5MTngY9m0T) | [Gerald Moueri](https://open.spotify.com/artist/6vndRy4mh3ZHh3rEuvT1RN), [Ennerick Abaga](https://open.spotify.com/artist/39rlMM2VIH4DTZJ3dxrHnp) | [Tu mérites nos louanges](https://open.spotify.com/album/7LItBBaawKwlK0GxNcu2h3) | 3:30 | 2023-07-14 | 2023-07-21 |
 | [TUA LUZ EM MIM](https://open.spotify.com/track/4ZpwMUaMab8tSWgEyQT2Ve) | [Lakander Emotions](https://open.spotify.com/artist/4dVpnKc2gtVieMENq7XKH8), [Dream Studio](https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v) | [TUA LUZ EM MIM](https://open.spotify.com/album/3RyPUQuKI9Nna6DERX1NW6) | 2:14 | 2026-03-20 | 2026-03-27 |
 | [Tua Presença](https://open.spotify.com/track/6sOdxCrTKPr04gloYhqmac) | [Eunice Zumbuca](https://open.spotify.com/artist/23Kx0j8nIsQ7J7PcvWfV1p) | [Tua Presença](https://open.spotify.com/album/7iU8JZlOufuovq04pLQZj6) | 9:12 | 2026-03-27 | 2026-04-03 |
+| [Tuale](https://open.spotify.com/track/1adeZmxXG7aqyZOaeJhult) | [Labisi](https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8) | [Assurance](https://open.spotify.com/album/1tcMzoel1OUbK3to92ngFV) | 5:10 | 2026-07-03 |  |
 | [Tuale](https://open.spotify.com/track/6XgoCyZZtwChb0LiJvOXdc) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ) | [Lagos Lover Boy](https://open.spotify.com/album/7C3bmmUT99wEnbrtSJjC4e) | 5:05 | 2025-08-02 | 2025-08-15 |
 | [Tudo o Que Sou](https://open.spotify.com/track/1dqywAyR0E5xasRAq9BWdA) | [Vocal Renascer](https://open.spotify.com/artist/3khrOLayDDtaAbUBeUQDd2), [Naielly](https://open.spotify.com/artist/0fNnCnzmzMDAmxUgPygioi) | [Tudo o Que Sou](https://open.spotify.com/album/3Dq6FiMfBjEgodbEsOWBBs) | 3:29 | 2023-07-21 | 2023-08-04 |
 | [TUGENDE](https://open.spotify.com/track/5Cp4D4FoZZnLG4vjwi4yTK) | [Zabuli](https://open.spotify.com/artist/49F1ySnnJNMIel2svBtkCh) | [TUGENDE](https://open.spotify.com/album/6qsOrFSd5tyvRJr4YbCGD7) | 3:00 | 2026-01-30 | 2026-02-13 |

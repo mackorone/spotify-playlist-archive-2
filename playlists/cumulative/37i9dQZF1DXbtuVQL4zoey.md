@@ -4,7 +4,7 @@
 
 > Beach vibes and summer jams only.
 
-681 songs - 1 day 2 hr 6 min
+683 songs - 1 day 2 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@
 | [Chili is hot](https://open.spotify.com/track/7JnFdD5M4sKv4j26plgBPy) | [Lofidelity Habanero](https://open.spotify.com/artist/5N7C6JFjoEsCGskSYYGbq1) | [Chili is hot](https://open.spotify.com/album/1UisVUTos5X3wOpcDZUo1F) | 1:55 | 2022-05-20 | 2025-07-01 |
 | [Chilldays](https://open.spotify.com/track/4gfN9LjHUny5viWlFCfF0n) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy) | [Chilldays](https://open.spotify.com/album/3jnE7wNkDY4SsQU50KWzZQ) | 2:08 | 2025-07-25 |  |
 | [Chillin'](https://open.spotify.com/track/54G7nglEzYJdrIfCcur3El) | [Slacker Boy](https://open.spotify.com/artist/4jII3hmI346hnrWtf7jx3A) | [From Above](https://open.spotify.com/album/7AzyGdeuLj3yYOMgCahejP) | 2:08 | 2022-05-20 | 2025-08-02 |
-| [Chips](https://open.spotify.com/track/2cXdC5qNqc5Gk0X6JtjUqH) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Chips & Dip](https://open.spotify.com/album/1wIX39AruT1zSwkSldKSQR) | 1:30 | 2022-05-20 |  |
+| [Chips](https://open.spotify.com/track/2cXdC5qNqc5Gk0X6JtjUqH) | [Beat Oven](https://open.spotify.com/artist/57nxKbKZ4Uc9jzTkcCfRRq) | [Chips & Dip](https://open.spotify.com/album/1wIX39AruT1zSwkSldKSQR) | 1:30 | 2022-05-20 | 2026-07-04 |
 | [cicada](https://open.spotify.com/track/2oUg0uJXtNDownLGl6ElWk) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [cicada](https://open.spotify.com/album/4OJbgFW3kP1feBf35xOK2I) | 2:07 | 2023-12-08 | 2025-02-22 |
 | [Cinnamon Tree](https://open.spotify.com/track/1JatTobpZIzETrBiixL4wf) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Porcel](https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G) | [Cinnamon Tree](https://open.spotify.com/album/0IdhU7PE6vg2RSgNxPVhBx) | 1:56 | 2024-09-06 |  |
 | [Circle](https://open.spotify.com/track/5TYYZj4y8tmHSeCnDWUyNO) | [Glow Down](https://open.spotify.com/artist/1gWqPuL3TnL7maQnhHAZhn) | [Circle](https://open.spotify.com/album/24Z9hGdUbD9Ht3G7SlLuVC) | 2:27 | 2024-06-28 |  |
@@ -217,6 +217,7 @@
 | [Evening Cool](https://open.spotify.com/track/76PWGkQYyMhz4TlGuDkb75) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [Evening Cool](https://open.spotify.com/album/3XOAlDXBSqPhlETWq4ho7x) | 3:00 | 2024-08-09 |  |
 | [Falling Leaves](https://open.spotify.com/track/1LpLdL8nYXqSwaGOcx1CDo) | [Major 7th](https://open.spotify.com/artist/1eKUGFWkjbCNgqzmEkUpq4) | [Falling Leaves](https://open.spotify.com/album/0uDA4G2xvMChwOwyXZb4ey) | 2:30 | 2022-05-20 |  |
 | [Fandango](https://open.spotify.com/track/69Q3BvKjpIeCJkCcvPxs7R) | [MAGICMINT](https://open.spotify.com/artist/7j9F86nfXHaXafSysyXi2w) | [Fandango](https://open.spotify.com/album/4cZZmm6GTU65XQGffLWeaS) | 2:07 | 2022-05-20 | 2025-07-01 |
+| [Fast Forward](https://open.spotify.com/track/4JnttsOvAIELoiO29BAyRX) | [Jazzdroid](https://open.spotify.com/artist/5oHXx18DkyL0MSytwm6LEO) | [Fast Forward](https://open.spotify.com/album/3ZystoppzqyD5lobrc0bqJ) | 2:26 | 2026-07-03 |  |
 | [Faster](https://open.spotify.com/track/74HsEuxWpgnH0osQ3LT7UP) | [LelleXCX](https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t) | [Youth](https://open.spotify.com/album/6EsM3MnrEP0kcCf73zoHlF) | 2:29 | 2022-05-20 | 2024-11-07 |
 | [Feeling Good](https://open.spotify.com/track/5woq04bPb5fZ4bB8wfOkuC) | [Leo Motta](https://open.spotify.com/artist/6ugB87XnwqEwHL5s6ovPAP), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf) | [Feeling Good](https://open.spotify.com/album/04KGyqHLNP0cl3rjshLuOo) | 2:36 | 2022-08-19 | 2024-09-07 |
 | [feeling tropical](https://open.spotify.com/track/7Gob0f79Tu0ZmguwVXhMHP) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [feeling tropical](https://open.spotify.com/album/1jsJNt80DVzl4dKWcz5HqL) | 2:09 | 2022-10-14 | 2024-08-10 |
@@ -278,6 +279,7 @@
 | [Hi and Lo\(fi\)](https://open.spotify.com/track/5DBgbH2SxV3XNYanN82cKV) | [Bonham Style](https://open.spotify.com/artist/0nme6ZQPv94Iurg3BfTp2o) | [Bonham Style](https://open.spotify.com/album/3FmlOBtlTIv3ShunS2b0T7) | 3:38 | 2022-05-20 | 2022-07-01 |
 | [Hiber Nation](https://open.spotify.com/track/1E8dmRocWJY7TMk908wpH9) | [Stekt](https://open.spotify.com/artist/5n6ZPmuIiA4rjI0BI20xBD) | [Hiber Nation](https://open.spotify.com/album/4IkDYVJ79vXbyUTUcynndN) | 2:42 | 2024-02-09 | 2025-08-23 |
 | [High Coast Beat](https://open.spotify.com/track/1uqbepnCPGf5eZZFKDKvQG) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Rhythmic Flows](https://open.spotify.com/album/5hRbJOC7CcZwjL6xhcFkNE) | 2:46 | 2022-07-15 | 2025-07-26 |
+| [higher, lower](https://open.spotify.com/track/4dGNNenJ3nNV1vS0HqobBm) | [luzzy fogic](https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut) | [higher, lower](https://open.spotify.com/album/29fBzfvMu1H5Vy3dgruKhp) | 2:21 | 2026-07-03 |  |
 | [highway one](https://open.spotify.com/track/2tQXKumBH3TcShaJcCC6X0) | [low&slow](https://open.spotify.com/artist/5nRIouNA5T37sVSDEjbhAL) | [highway one](https://open.spotify.com/album/47pqF590k2anGL5Jl0HuRs) | 2:11 | 2025-06-19 |  |
 | [Hokkaido Breeze](https://open.spotify.com/track/20aWMDQFYgx0da54JctdZd) | [Furry Beats](https://open.spotify.com/artist/74JcB9y2kqee7Fm3rrlAe5) | [Hokkaido Breeze](https://open.spotify.com/album/2FuriS42295H1EzGOwZV6x) | 2:20 | 2023-10-13 | 2024-08-31 |
 | [Home](https://open.spotify.com/track/4sXh3eo15M3C5TTPWzo52L) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Home](https://open.spotify.com/album/0ulwOH308qSJ5dcoUnehtV) | 2:27 | 2023-05-01 | 2023-10-13 |
@@ -306,7 +308,7 @@
 | [Jazz Hands](https://open.spotify.com/track/5XHdUoAA96TKnA4NObcGtj) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Technological Jazz](https://open.spotify.com/album/0z71M5doa8M9G39UIWiSTl) | 1:09 | 2023-03-27 | 2025-07-19 |
 | [JazzJoint](https://open.spotify.com/track/1BcKCvfTMW3gVOw0TAkAqI) | [Lamar Azul](https://open.spotify.com/artist/3dW0pC8Ra3zhpntjvBbD34) | [JazzJoint](https://open.spotify.com/album/1HrIClYxvKNhJJ6LaRNin6) | 1:57 | 2022-06-24 | 2022-07-01 |
 | [jazzy gyal](https://open.spotify.com/track/0uban5XYHLYwQQIOPLpwEZ) | [beosound](https://open.spotify.com/artist/5PxwgwToqzdaFKSQhYVDre) | [straight no chaser](https://open.spotify.com/album/56xRWuR1WApF2n8IItVVQX) | 1:33 | 2022-05-20 | 2022-09-17 |
-| [Jetlag](https://open.spotify.com/track/0HFPMPIPGy0o9ocbHMNz2P) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Cloudscape](https://open.spotify.com/album/1fN2VRfRVaRSJCn6hS4bgo) | 2:26 | 2024-07-26 |  |
+| [Jetlag](https://open.spotify.com/track/0HFPMPIPGy0o9ocbHMNz2P) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Cloudscape](https://open.spotify.com/album/1fN2VRfRVaRSJCn6hS4bgo) | 2:26 | 2024-07-26 | 2026-07-04 |
 | [Joao](https://open.spotify.com/track/3JuBTWJDNuiyfBCaZHUs2I) | [Teknicolores](https://open.spotify.com/artist/1xXraGRML6j3iypdaZDvQk) | [Joao](https://open.spotify.com/album/1gFmVLrF9Zakob9dlHCHXL) | 2:21 | 2022-07-29 | 2025-07-26 |
 | [Jonde](https://open.spotify.com/track/0hvhmLGNOEy6qlNodaGTWX) | [Melatone](https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [Noé Mina](https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF) | [Jonde](https://open.spotify.com/album/2PAu7Dzy32vksH99LQho5k) | 2:47 | 2022-07-29 | 2023-09-16 |
 | [Journey](https://open.spotify.com/track/0EFgBCfmXaGqYEtEKKlUR5) | [Lushi](https://open.spotify.com/artist/4MRjAi54TejLIantGPlDZv) | [Journey](https://open.spotify.com/album/0DRxb6GXinHFR02rYbR9D8) | 2:20 | 2022-09-02 |  |

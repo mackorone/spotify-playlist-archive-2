@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "AAAghkHNrWyrPMKni9sQz8VZn8Y2Wrmj",
+  "snapshot_id": "AAAgiF6xtgjZAW1kkR9XVHHgHrXerFaw",
   "tracks": [
     {
       "added_at": "2022-05-03 16:09:53",
@@ -5371,6 +5371,38 @@
       "duration_ms": 197963,
       "name": "King James",
       "url": "https://open.spotify.com/track/5ri4b7YQp2PWn8tl3MRYgE"
+    },
+    {
+      "added_at": "2026-07-04 01:10:15",
+      "album": {
+        "name": "Change Today?",
+        "url": "https://open.spotify.com/album/6jpMPZ4Wjk9t9u9A3piXV8"
+      },
+      "artists": [
+        {
+          "name": "T.S.O.L.",
+          "url": "https://open.spotify.com/artist/01PtFYBOBK0tlxt4WZXiYw"
+        }
+      ],
+      "duration_ms": 182666,
+      "name": "Flowers by the Door",
+      "url": "https://open.spotify.com/track/0S7ILu8uGua2llPFY7psqu"
+    },
+    {
+      "added_at": "2026-07-04 01:12:25",
+      "album": {
+        "name": "Static Age",
+        "url": "https://open.spotify.com/album/51tAz06EJxwhsk8uNfWxBo"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "duration_ms": 102266,
+      "name": "Hybrid Moments",
+      "url": "https://open.spotify.com/track/3gN4UFoOnRHlMl3K4kU5zG"
     }
   ],
   "unique_name": "main ",

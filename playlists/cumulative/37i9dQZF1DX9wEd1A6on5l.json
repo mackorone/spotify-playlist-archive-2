@@ -3855,6 +3855,24 @@
     },
     {
       "album": {
+        "name": "Color / Wulo",
+        "url": "https://open.spotify.com/album/3MPAuxza590Bd2JbPfxA56"
+      },
+      "artists": [
+        {
+          "name": "Ashidapo",
+          "url": "https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122142,
+      "name": "Color",
+      "url": "https://open.spotify.com/track/1bEpSnr5xX4QoyyXaOKq9b"
+    },
+    {
+      "album": {
         "name": "Colors (My Baby) / Loyal",
         "url": "https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B"
       },
@@ -11138,7 +11156,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 169541,
       "name": "Matter",
       "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"

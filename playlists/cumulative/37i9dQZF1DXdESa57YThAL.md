@@ -4,7 +4,7 @@
 
 > Music from "Mushoku Tensei: Jobless Reincarnation" ©理不尽な孫の手/MFブックス/「無職転生Ⅱ」製作委員会
 
-115 songs - 5 hr 18 min
+116 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [無詠唱魔術](https://open.spotify.com/track/2hGjDO3JSEh4haZlRTFrPd) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/7Hj3o4iLjM6UeDxd9qTC5i) | 2:32 | 2023-10-02 | 2024-04-19 |
 | [目覚めの唄](https://open.spotify.com/track/2loRIjWRFlYZQ8chj6ho8O) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [目覚めの唄](https://open.spotify.com/album/7B5KRvXCSEsKlHdr8u5FyY) | 4:44 | 2024-04-16 |  |
 | [目覚めの唄](https://open.spotify.com/track/4RFQ9L0V7l1EDKHR6WJ4gA) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [TVアニメ『無職転生 \~異世界行ったら本気だす\~』Theme Song Collection](https://open.spotify.com/album/7mRTg2rytQTQynsJOGWkMQ) | 4:44 | 2023-10-02 | 2024-04-19 |
+| [祈り、終われば](https://open.spotify.com/track/1JelF7yfO3pDABPmOxLoVl) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [祈り、終われば](https://open.spotify.com/album/0hvpMj6z0amzqaVhhHmsD8) | 3:57 | 2026-07-03 |  |
 | [祈りの唄](https://open.spotify.com/track/1bdukq5Iu0S63kxAz5sAaU) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [祈りの唄](https://open.spotify.com/album/69GvKOEbjLN0SPQIxw3py0) | 4:29 | 2024-04-16 |  |
 | [祈りの唄](https://open.spotify.com/track/4DQO8UYR0ZXX2YJg1SN0g5) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [TVアニメ『無職転生 \~異世界行ったら本気だす\~』Theme Song Collection](https://open.spotify.com/album/7mRTg2rytQTQynsJOGWkMQ) | 4:29 | 2023-10-02 | 2024-04-19 |
 | [継承の唄](https://open.spotify.com/track/2oLOXEzFIS5z9BC8q4mJGV) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [継承の唄](https://open.spotify.com/album/4QVq2tbFIGhGxFcNRHSoT4) | 5:11 | 2024-04-16 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 245118,
+  "num_followers": 245103,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,26 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "La Bondad de Dios",
+        "url": "https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7"
+      },
+      "artists": [
+        {
+          "name": "Essential Worship",
+          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
+        },
+        {
+          "name": "Marcela Gandara",
+          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        }
+      ],
+      "duration_ms": 263731,
+      "name": "Rey de Reyes",
+      "url": "https://open.spotify.com/track/3GzWdBxKgTxxdmnQ3Bk0u2"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "Resucit\u00f3",
         "url": "https://open.spotify.com/album/3q5SSAhsZNIZqnW7IxVLex"
       },
@@ -427,22 +447,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "El Eco De Su Voz",
-        "url": "https://open.spotify.com/album/20Jz9tXb633PF9nGukskgE"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 329133,
-      "name": "Alabar\u00e9 Al Se\u00f1or (An\u00e1stasis)",
-      "url": "https://open.spotify.com/track/2AXa3PWYEyeRo80AAqJLXJ"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Toma Tu Lugar",
         "url": "https://open.spotify.com/album/6OhBPWPiBpYb1oro29GLNo"
       },
@@ -463,22 +467,18 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "La Bondad de Dios",
-        "url": "https://open.spotify.com/album/3U0BIC0ghYKKuEzuXXaYF7"
+        "name": "El Eco De Su Voz",
+        "url": "https://open.spotify.com/album/20Jz9tXb633PF9nGukskgE"
       },
       "artists": [
         {
-          "name": "Essential Worship",
-          "url": "https://open.spotify.com/artist/5ovBCDCRU118CMxJ1KpAOw"
-        },
-        {
-          "name": "Marcela Gandara",
-          "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
         }
       ],
-      "duration_ms": 263731,
-      "name": "Rey de Reyes",
-      "url": "https://open.spotify.com/track/3GzWdBxKgTxxdmnQ3Bk0u2"
+      "duration_ms": 329133,
+      "name": "Alabar\u00e9 Al Se\u00f1or (An\u00e1stasis)",
+      "url": "https://open.spotify.com/track/2AXa3PWYEyeRo80AAqJLXJ"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "En Esto Creo",
-        "url": "https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 327626,
-      "name": "Aquella Cruz",
-      "url": "https://open.spotify.com/track/2azhse6GOi0eFATf9uQw9g"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Jes\u00fas",
         "url": "https://open.spotify.com/album/5M4JXbkdCzKij4fwOCELqC"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 260295,
       "name": "El No Pereci\u00f3",
       "url": "https://open.spotify.com/track/5chE8rPKomf8QxhllFujhi"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "En Esto Creo",
+        "url": "https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 327626,
+      "name": "Aquella Cruz",
+      "url": "https://open.spotify.com/track/2azhse6GOi0eFATf9uQw9g"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "En Esto Creo",
-        "url": "https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 347826,
-      "name": "Gracias Cristo",
-      "url": "https://open.spotify.com/track/7ygwj3GsJoPm1CV8F5RkWk"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Tetelestai (Todo hecho est\u00e1)",
         "url": "https://open.spotify.com/album/2kJ9Wkj82r6N9rq8XAAkzc"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 288266,
       "name": "Creemos",
       "url": "https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "En Esto Creo",
+        "url": "https://open.spotify.com/album/2bjV5XKKD0g4wDFnsWBVhi"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 347826,
+      "name": "Gracias Cristo",
+      "url": "https://open.spotify.com/track/7ygwj3GsJoPm1CV8F5RkWk"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "Somos Iglesia",
+        "url": "https://open.spotify.com/album/0hpOmncVbSSfbec3IZGL9T"
+      },
+      "artists": [
+        {
+          "name": "Un Coraz\u00f3n",
+          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
+        },
+        {
+          "name": "Kim Richards",
+          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
+        }
+      ],
+      "duration_ms": 288800,
+      "name": "Jesucristo basta",
+      "url": "https://open.spotify.com/track/6aIiv3gW1ZwtST6nXG6SRd"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "Gente Comun Sue\u00f1os Extraordinarios",
         "url": "https://open.spotify.com/album/5Yj2mPciYoTKNEP3WadauI"
       },
@@ -1211,26 +1231,6 @@
       "duration_ms": 510586,
       "name": "Tu presencia es el Cielo",
       "url": "https://open.spotify.com/track/2iBDNtyifH3CtG7Y5VDeAz"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Somos Iglesia",
-        "url": "https://open.spotify.com/album/0hpOmncVbSSfbec3IZGL9T"
-      },
-      "artists": [
-        {
-          "name": "Un Coraz\u00f3n",
-          "url": "https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm"
-        },
-        {
-          "name": "Kim Richards",
-          "url": "https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi"
-        }
-      ],
-      "duration_ms": 288800,
-      "name": "Jesucristo basta",
-      "url": "https://open.spotify.com/track/6aIiv3gW1ZwtST6nXG6SRd"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Mi Casa Y Yo",
-        "url": "https://open.spotify.com/album/0i512i22eafJqbKfbC8x0k"
-      },
-      "artists": [
-        {
-          "name": "Tercer Cielo",
-          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
-        }
-      ],
-      "duration_ms": 223735,
-      "name": "Mi Casa Y Yo",
-      "url": "https://open.spotify.com/track/43n69z6ySqLtXjkmeWeBEe"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
         "name": "Amanece (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy"
       },
@@ -1303,18 +1287,34 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
-        "name": "Me Has Hecho Libre",
-        "url": "https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI"
+        "name": "Mi Casa Y Yo",
+        "url": "https://open.spotify.com/album/0i512i22eafJqbKfbC8x0k"
       },
       "artists": [
         {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+          "name": "Tercer Cielo",
+          "url": "https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz"
         }
       ],
-      "duration_ms": 380316,
-      "name": "Precioso Jes\u00fas",
-      "url": "https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm"
+      "duration_ms": 223735,
+      "name": "Mi Casa Y Yo",
+      "url": "https://open.spotify.com/track/43n69z6ySqLtXjkmeWeBEe"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
+      },
+      "artists": [
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
+        }
+      ],
+      "duration_ms": 423173,
+      "name": "Creo En Ti",
+      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
     },
     {
       "added_at": "2026-04-04 05:56:44",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-04-04 05:56:44",
       "album": {
+        "name": "Me Has Hecho Libre",
+        "url": "https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI"
+      },
+      "artists": [
+        {
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+        }
+      ],
+      "duration_ms": 380316,
+      "name": "Precioso Jes\u00fas",
+      "url": "https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm"
+    },
+    {
+      "added_at": "2026-04-04 05:56:44",
+      "album": {
         "name": "25 Concierto Conmemorativo",
         "url": "https://open.spotify.com/album/05f8DnleuhszCNSDe2YGCW"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 305626,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/38GjgoCoXBStVNBBgl6Ove"
-    },
-    {
-      "added_at": "2026-04-04 05:56:44",
-      "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy"
-      },
-      "artists": [
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
-        }
-      ],
-      "duration_ms": 423173,
-      "name": "Creo En Ti",
-      "url": "https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7"
     },
     {
       "added_at": "2026-04-04 05:56:44",

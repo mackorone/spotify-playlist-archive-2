@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Coi Leray",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Trim & Monaleo",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -3756,6 +3756,24 @@
       "duration_ms": 228725,
       "name": "Crying On Your Birthday",
       "url": "https://open.spotify.com/track/5wNhm1LOZHZRdTcTk3rpZh"
+    },
+    {
+      "album": {
+        "name": "Cupcake",
+        "url": "https://open.spotify.com/album/6qts20zdlXIj0lu42qjbD6"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146564,
+      "name": "Cupcake",
+      "url": "https://open.spotify.com/track/2bknsnLPCEMMKCVrYdTfAV"
     },
     {
       "album": {
@@ -13248,7 +13266,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 170760,
       "name": "Sexy Ladies (feat. UCB (Uncalled 4 Band))",
       "url": "https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2"

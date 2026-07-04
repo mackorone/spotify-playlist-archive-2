@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 
 > Dans pisti hazır! Mix yalnızca Premium'da\. Kapak: Mahmut Orhan
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,669 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,675 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 | 20 | [Gaia](https://open.spotify.com/track/01bXsqzSqUMAcXLwm6xTVw) | [Arodes](https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Jamek Ortega](https://open.spotify.com/artist/0z4954ccQLUdwTHCSMXtem) | [Gaia](https://open.spotify.com/album/7qZc8wlaQ6NqffIGwDNDeC) | 3:13 |
 | 21 | [Blower](https://open.spotify.com/track/0fC67A99zxU0gzhLibyTsK) | [JANAKEY](https://open.spotify.com/artist/24udzsxakjNTTMYETGtOMx), [Cem Seckin](https://open.spotify.com/artist/7mPKbXLm5SyzOwTQ99hel4) | [Blower](https://open.spotify.com/album/2pK3RhDVE9XvD12aZGJJUE) | 3:28 |
 | 22 | [House Every Weekend](https://open.spotify.com/track/3uFFW9qGPALr8oOhhFBZ43) | [Berat Oz](https://open.spotify.com/artist/3d9HQNZBdTS1yMG7CetZf1), [ODY](https://open.spotify.com/artist/0Zso9LonvLaUYEHCsdkkgq) | [House Every Weekend](https://open.spotify.com/album/00JDvhkt2lyzlIpYvG7Vof) | 5:40 |
-| 23 | [Takutam](https://open.spotify.com/track/6QPwwrTDmbalT1g1b2esbX) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3), [YOZÉ](https://open.spotify.com/artist/5XBh3fpITlhkBrId3sCiN6) | [Takutam](https://open.spotify.com/album/55OCq0TfxZ7x74PEIctGhY) | 4:00 |
-| 24 | [Never Lose Again](https://open.spotify.com/track/6WP4bAIJfpUr6KX6yHx04W) | [HIFEER](https://open.spotify.com/artist/6GeGlqXLFlsmEsFSSGRHht), [Kremor](https://open.spotify.com/artist/5hooLu5iEWwbYUWt8Kjibl), [Margad](https://open.spotify.com/artist/0q9Rikyw58WDoqfQpp70kM) | [Never Lose Again](https://open.spotify.com/album/3VP4UrCTo2IxR3ACyo1TGO) | 2:06 |
+| 23 | [Ay Ay Ay](https://open.spotify.com/track/4RcB7AthmJA3kQbCBEcdBS) | [Ben Hims](https://open.spotify.com/artist/2xChRGmRz7vH7Z0x7GLAZ6), [Merve Ekinci](https://open.spotify.com/artist/75W38iHuJolKCZDgl2vh20), [Baris Turna](https://open.spotify.com/artist/4lsdKwzGkJkmC7b68Myb6Q) | [Ay Ay Ay](https://open.spotify.com/album/0NdY2CFq3wr7lXPCCqHOW1) | 3:36 |
+| 24 | [Waves of Luv](https://open.spotify.com/track/4kmxETbclaI5PF9uqKKM8q) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4) | [Waves of Luv](https://open.spotify.com/album/58QnUMgXPJy7Dm1pXSardY) | 2:33 |
 | 25 | [TESLA](https://open.spotify.com/track/6qJhrI2BMuA8qHcmycD3fL) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [TESLA](https://open.spotify.com/album/2dOvYQS8loEBLISp9MNRNn) | 3:06 |
 | 26 | [See It As A Sign](https://open.spotify.com/track/2rsTdV5sQmTTfX4SDsgT3o) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [See It As A Sign](https://open.spotify.com/album/5W5TUPcIhBMZJAU7aGAkOp) | 2:54 |
 | 27 | [BURN WITH YOU \- Kijo Remix](https://open.spotify.com/track/3W8mAmdDUA9jHe3RxXxiol) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf), [Kijo](https://open.spotify.com/artist/1B7a9juKKXTXhW0hcKQTL8) | [BURN WITH YOU \(Kijo Remix\)](https://open.spotify.com/album/2EXSnmMnnLAijMpANh3mjx) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxFrpWsbL4P.md) - [plain]
 | 49 | [All You Children](https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [All You Children](https://open.spotify.com/album/5mBSawja8ThkqKHqMagoCk) | 4:14 |
 | 50 | [Bubblegum Moonlight](https://open.spotify.com/track/6xP0ntDwDUHZPtdrKJfBDx) | [Cagan Tunali](https://open.spotify.com/artist/4J4jrBN4VwLUYCrZ0I0L69) | [Bubblegum Moonlight](https://open.spotify.com/album/4AkOPYDLYRHcPj9nkxwUe5) | 4:08 |
 
-Snapshot ID: `AAAAAHB8xUrtmHLhLsoGIksBxOUrgUvd`
+Snapshot ID: `AAAAALy/1co9xOxQpW4u1hBxmMuC20Wh`

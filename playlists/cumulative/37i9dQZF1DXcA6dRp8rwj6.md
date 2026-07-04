@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: 1300\)
 
-3,464 songs - 7 day 6 hr 22 min
+3,466 songs - 7 day 6 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [ALL RED](https://open.spotify.com/track/2cZOYofOX4d6g0OXxkaIjA) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [ALL RED](https://open.spotify.com/album/3cdcIcidzGHVQW5e9qQgtx) | 2:28 | 2024-09-13 | 2024-11-15 |
 | [ALL RED](https://open.spotify.com/track/1zbRbve38eciZiTKRcdVte) | [SOWUT](https://open.spotify.com/artist/7moEUZ6Zu2o5F8XQxQphRn) | [ALL RED](https://open.spotify.com/album/5KoaCl2PzPkAjom3dRofzs) | 2:22 | 2022-03-10 | 2022-04-01 |
 | [All Star](https://open.spotify.com/track/1icK5QdlrYMkwsm8ToTSHU) | [Roland Greco](https://open.spotify.com/artist/7h6uTil5mr70DNlITCJZka), [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [All Star](https://open.spotify.com/album/3WPaM8liapA7kWJQx4Odmq) | 3:07 | 2022-05-26 | 2022-06-17 |
+| [All Summer \(feat\. BH\)](https://open.spotify.com/track/23wBbnEZdCdnPNynMZeLpg) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [BH](https://open.spotify.com/artist/77EDqy4AyUvtLGhIqOy3Dc) | [All Summer \(feat\. BH\)](https://open.spotify.com/album/7lwZOYiPIJKkin7LsxG2KL) | 3:59 | 2026-07-02 |  |
 | [ALL TEN \(feat\. Lil Baby\)](https://open.spotify.com/track/5jol33TYJ3H5v5zRD9fOtv) | [Tay B](https://open.spotify.com/artist/1bPS827zEKbtWhNcWUMTpO), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [ALL TEN \(feat\. Lil Baby\)](https://open.spotify.com/album/5KWhVrUd9CvZMuGya680x4) | 3:16 | 2024-08-01 | 2024-10-04 |
 | [All The Smoke](https://open.spotify.com/track/7kXipA4rWZrcdxOiZCQVI0) | [Mistah Lefty](https://open.spotify.com/artist/7eyFrCQySwCVAi5g8YgV4X) | [SOLO LEVELING](https://open.spotify.com/album/4MB8YuFrMl6AmRAJ15MxD2) | 3:59 | 2026-05-21 |  |
 | [All The Sudden](https://open.spotify.com/track/3cj95iGe8aqvL5iGl6o0R9) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY) | [All The Sudden](https://open.spotify.com/album/5HpsKp4lE5qi48D77jL4JS) | 2:06 | 2022-04-14 | 2022-05-20 |
@@ -2941,6 +2942,7 @@
 | [That's Just Tips](https://open.spotify.com/track/2cqHOnrzsE6JzBzkNADIA1) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [That's Just Tips](https://open.spotify.com/album/6o26foZmRZFOI13LhzNCZS) | 3:54 | 2022-04-29 | 2022-06-03 |
 | [That's My Girl](https://open.spotify.com/track/2V0Vlkbb6fUEHl1gk8Lwr6) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [That's My Girl & Tired](https://open.spotify.com/album/1kfbsMBtTpCrrXqUnBYjjH) | 2:14 | 2024-04-18 | 2024-05-17 |
 | [That's Not Your Path \(feat\. Babyface Ray & Sango\)](https://open.spotify.com/track/3cIfKwCzegyZoGjUTq5KQX) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [In Rhythm](https://open.spotify.com/album/1C2wi3G7Kcw4pWP4Ll8jzv) | 3:12 | 2025-08-01 | 2025-09-27 |
+| [That's That](https://open.spotify.com/track/42D4wXZjIdDtINUCYu8t7a) | [DB.Boutabag](https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr) | [That's That](https://open.spotify.com/album/46UuSEizvFsUec3uBDaXOR) | 2:01 | 2026-07-02 |  |
 | [That's We](https://open.spotify.com/track/0ELxYNhnn8OPywuQT00GEc) | [gamma](https://open.spotify.com/artist/0wwLWUeZfiDyXncBoBYkQ3), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [영독](https://open.spotify.com/artist/4dVGwChUNSKQBsCWuVwkop), [Young Chang](https://open.spotify.com/artist/10Q98X72E0f5yLez0jEbQt), [obiegogle](https://open.spotify.com/artist/7A90OUMBG7u61jxhAuz6to), [achillo](https://open.spotify.com/artist/0r5yZki2ePDv8EZ7ah01RA) | [That's We](https://open.spotify.com/album/1ydKFtQJ6R5zXrt9fCTOAg) | 4:31 | 2022-05-12 | 2022-06-10 |
 | [The Abyss](https://open.spotify.com/track/20PDyFm8UqZwrHvjHVinVp) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39) | [What is life?](https://open.spotify.com/album/7ykz0afInygEfdlOVuDy70) | 3:12 | 2023-08-17 | 2023-09-22 |
 | [The Bachelor](https://open.spotify.com/track/4IGDtD7LR1WCmueuHuy1Wq) | [BabyChiefDoit](https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg) | [The Bachelor](https://open.spotify.com/album/0IefPaHezPDdCsdn9MNbcU) | 1:33 | 2024-12-19 | 2025-02-14 |

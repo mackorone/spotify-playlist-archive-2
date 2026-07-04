@@ -30485,6 +30485,24 @@
     },
     {
       "album": {
+        "name": "chrome steps",
+        "url": "https://open.spotify.com/album/3dAN78XZhyzftv2FNyB53m"
+      },
+      "artists": [
+        {
+          "name": "Beneath My Shade",
+          "url": "https://open.spotify.com/artist/7aADBYuRxT4V57iwqzUiPP"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179486,
+      "name": "chrome steps",
+      "url": "https://open.spotify.com/track/3trdGs3c1PgZOAc1jUsEt6"
+    },
+    {
+      "album": {
         "name": "Chubby Bunny",
         "url": "https://open.spotify.com/album/63lhgnWXeuHUwAUJY176ow"
       },
@@ -113884,6 +113902,24 @@
       "duration_ms": 176054,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4"
+    },
+    {
+      "album": {
+        "name": "Love Like A Hobby",
+        "url": "https://open.spotify.com/album/4FhYzCXg5OeNGBT0NvjVvg"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222614,
+      "name": "Love Like A Hobby",
+      "url": "https://open.spotify.com/track/3Ce2UwnIE9clxZp94hkAGp"
     },
     {
       "album": {
@@ -202353,24 +202389,6 @@
     },
     {
       "album": {
-        "name": "chrome steps",
-        "url": "https://open.spotify.com/album/3dAN78XZhyzftv2FNyB53m"
-      },
-      "artists": [
-        {
-          "name": "Beneath My Shade",
-          "url": "https://open.spotify.com/artist/7aADBYuRxT4V57iwqzUiPP"
-        }
-      ],
-      "date_added": "2026-07-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3trdGs3c1PgZOAc1jUsEt6"
-    },
-    {
-      "album": {
         "name": "Track and Field",
         "url": "https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA"
       },
@@ -218506,12 +218524,12 @@
       },
       "artists": [
         {
-          "name": "Alexandra Stan",
-          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
-        },
-        {
           "name": "TR3NACRIA",
           "url": "https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH"
+        },
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
         }
       ],
       "date_added": "2026-07-02",
@@ -228268,6 +228286,24 @@
       "duration_ms": 204273,
       "name": "Your Way",
       "url": "https://open.spotify.com/track/3t6kVz1NgnzcHX063XjCh9"
+    },
+    {
+      "album": {
+        "name": "YOUtopia",
+        "url": "https://open.spotify.com/album/4KHPTZ0Cad5ZJvZW614XUe"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150150,
+      "name": "YOUtopia",
+      "url": "https://open.spotify.com/track/35NaaOPzsTWOWM47PzRuaY"
     },
     {
       "album": {

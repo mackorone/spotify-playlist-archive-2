@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the South. Cover: T.I.",
+  "description": "The hottest out the South. Cover: Ken Carson",
   "name": "No Cap",
   "tracks": [
     {
@@ -8154,7 +8154,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 183941,
       "name": "Bruddas",
       "url": "https://open.spotify.com/track/1ZNxDMwgQXmFUTfeVEAtL9"
@@ -8798,7 +8798,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 151160,
       "name": "Calling My Line",
       "url": "https://open.spotify.com/track/08aFoOhHs04Qp7PiSRQD1I"
@@ -12339,6 +12339,28 @@
     },
     {
       "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198410,
+      "name": "deaf note (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
+    },
+    {
+      "album": {
         "name": "Dear God (feat. Kevin Gates)",
         "url": "https://open.spotify.com/album/3AocIGXpIRlNgd2BSoETUH"
       },
@@ -13581,6 +13603,28 @@
     },
     {
       "album": {
+        "name": "Do What I Wanna",
+        "url": "https://open.spotify.com/album/7rxAVTUyPuJ9qT0hpLHL0n"
+      },
+      "artists": [
+        {
+          "name": "Big Moochie Grape",
+          "url": "https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa"
+        },
+        {
+          "name": "Fetty P Franklin",
+          "url": "https://open.spotify.com/artist/2DAkZwVRDGLyC4fS29OuHq"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180693,
+      "name": "Do What I Wanna",
+      "url": "https://open.spotify.com/track/1rPkYdAKkPolii1jxqFjpb"
+    },
+    {
+      "album": {
         "name": "Dogshit",
         "url": "https://open.spotify.com/album/24exYgCHgxek76UsvUQZb4"
       },
@@ -14600,6 +14644,28 @@
       "duration_ms": 133475,
       "name": "DROP TOP",
       "url": "https://open.spotify.com/track/5LF0f602GWSAxZfmwRvUUI"
+    },
+    {
+      "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207114,
+      "name": "drug kit (with Young Thug)",
+      "url": "https://open.spotify.com/track/1QW7B0KaSknMeHfhBTRWky"
     },
     {
       "album": {
@@ -26163,6 +26229,28 @@
     },
     {
       "album": {
+        "name": "Just Tweakin",
+        "url": "https://open.spotify.com/album/60UIoI6PXNBjhp1Vm6gE1B"
+      },
+      "artists": [
+        {
+          "name": "Jdot Breezy",
+          "url": "https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ"
+        },
+        {
+          "name": "Whoppa Wit Da Choppa",
+          "url": "https://open.spotify.com/artist/482lFlWgAXTKFGC8C6imWq"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Just Tweakin",
+      "url": "https://open.spotify.com/track/3HOankECihM4vm5EhAQIN9"
+    },
+    {
+      "album": {
         "name": "ScoreGod",
         "url": "https://open.spotify.com/album/3eKHkdcf33yfe3y26Iego9"
       },
@@ -28068,7 +28156,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 154357,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/4zorXcdszJzve2hxTX5rCn"
@@ -28928,7 +29016,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 219726,
       "name": "LLOGCLAY (feat. YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/4qLdsKtJwSkYHYCnSXHmqc"
@@ -30186,6 +30274,24 @@
       "duration_ms": 213433,
       "name": "Mahogany Caskets",
       "url": "https://open.spotify.com/track/6mgAuBeRhO2xu31A7IKDXm"
+    },
+    {
+      "album": {
+        "name": "Make America Trap Again",
+        "url": "https://open.spotify.com/album/045oSPujEHcokW1xXp4lXU"
+      },
+      "artists": [
+        {
+          "name": "Fatt Macc",
+          "url": "https://open.spotify.com/artist/0NSQBZzUfj9X6iV2D47Uo4"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145296,
+      "name": "Make America Trap Again",
+      "url": "https://open.spotify.com/track/4jSyFCQ5aqrVbkWa7FgjMQ"
     },
     {
       "album": {
@@ -33230,6 +33336,32 @@
       "duration_ms": 209837,
       "name": "Neighborhood (feat. Lil Jairmy)",
       "url": "https://open.spotify.com/track/73NzrjMqjG2SttXgXqUToG"
+    },
+    {
+      "album": {
+        "name": "S.K.A.T.E.",
+        "url": "https://open.spotify.com/album/4G3clQWXvxQUHUTLjvXWhl"
+      },
+      "artists": [
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Kevin Gates",
+          "url": "https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255142,
+      "name": "Neighborhood Starz (feat. Lil Baby & Kevin Gates)",
+      "url": "https://open.spotify.com/track/4luf83uxcWMZPK6r9nSszp"
     },
     {
       "album": {
@@ -39176,7 +39308,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 178413,
       "name": "Popular",
       "url": "https://open.spotify.com/track/74RED1gaWYRnb2AgEFh3ES"
@@ -40764,7 +40896,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 216056,
       "name": "RANT",
       "url": "https://open.spotify.com/track/3VkcmU2lWinjkMKTPX9Wpr"
@@ -43154,7 +43286,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 196372,
       "name": "Secret Indictment",
       "url": "https://open.spotify.com/track/4rD5qxURCWoEjlqTAccepX"
@@ -44146,6 +44278,24 @@
       "duration_ms": 128146,
       "name": "Shoot It Out",
       "url": "https://open.spotify.com/track/5hYEXv4i4saqJMo4YEv0Zq"
+    },
+    {
+      "album": {
+        "name": "HIM",
+        "url": "https://open.spotify.com/album/2hlgpgDCuWqydJkwjBpIgP"
+      },
+      "artists": [
+        {
+          "name": "Nettspend",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140168,
+      "name": "shootin",
+      "url": "https://open.spotify.com/track/7jF5xbNm34tuuKu4ELGnnh"
     },
     {
       "album": {
@@ -47746,7 +47896,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 168476,
       "name": "Sunday to Sunday",
       "url": "https://open.spotify.com/track/33zoNwp7d6ohVvXIRcm7wp"
@@ -49058,7 +49208,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 256866,
       "name": "TEST ME (feat. JID)",
       "url": "https://open.spotify.com/track/7DHS2ac4HjmfLUjo9hbva9"
@@ -56564,6 +56714,28 @@
       "duration_ms": 133333,
       "name": "You Mad",
       "url": "https://open.spotify.com/track/5R7XiF3Wgn2nE2zhYSvdig"
+    },
+    {
+      "album": {
+        "name": "No Biggie",
+        "url": "https://open.spotify.com/album/14TqMCSbaLGaVCBkI1wJK1"
+      },
+      "artists": [
+        {
+          "name": "Enphamus",
+          "url": "https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb"
+        },
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123814,
+      "name": "You Scared",
+      "url": "https://open.spotify.com/track/68eiQ5iwCawZq88Z5K4RA2"
     },
     {
       "album": {

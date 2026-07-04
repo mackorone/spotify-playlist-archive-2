@@ -729,6 +729,28 @@
     },
     {
       "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198410,
+      "name": "deaf note (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
+    },
+    {
+      "album": {
         "name": "delusional",
         "url": "https://open.spotify.com/album/2LHNo0LDY2AszQvSuAMXWy"
       },
@@ -1234,6 +1256,28 @@
       "duration_ms": 142027,
       "name": "Get Out My Way!",
       "url": "https://open.spotify.com/track/3PjaLvrmPhg3tdJ9xeXuaO"
+    },
+    {
+      "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233335,
+      "name": "ghost (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5l2JiMegRp9HTtnlVDDdJb"
     },
     {
       "album": {
@@ -2262,7 +2306,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 138165,
       "name": "margiela",
       "url": "https://open.spotify.com/track/0RJaSzzb7t8kaEb5LzPFJC"
@@ -4023,6 +4067,28 @@
     },
     {
       "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222848,
+      "name": "wedidit (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/7ijEnS2juTHSM7tD8byqrD"
+    },
+    {
+      "album": {
         "name": "What It Is?!",
         "url": "https://open.spotify.com/album/2hpdfZUyxtuLLi5PHGC6nJ"
       },
@@ -4092,7 +4158,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 156798,
       "name": "Whole crowd",
       "url": "https://open.spotify.com/track/4J5i7bjvtnkTPJ3jpXrU5R"
@@ -4132,7 +4198,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 143673,
       "name": "WITH THE MAFIA",
       "url": "https://open.spotify.com/track/15G9tLK5NV68VPCwcFHJ1f"

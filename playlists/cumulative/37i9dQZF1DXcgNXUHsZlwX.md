@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-615 songs - 1 day 12 hr 38 min
+616 songs - 1 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Douceur du mois d'aout](https://open.spotify.com/track/1MvELfNVnESM9z5JONi9qI) | [Jeando](https://open.spotify.com/artist/0R5yr84EzZRFxrF4GFloAO) | [Toutes les étoiles me l'ont dit](https://open.spotify.com/album/4m6vgWkQ14w9EeYM2UXzXi) | 3:06 | 2021-01-03\* | 2021-01-25 |
 | [Doux](https://open.spotify.com/track/1ShsVA7nrhUVGFWXWU3M8T) | [Mariko](https://open.spotify.com/artist/4R9sMVAPeFyuPxtK2mBY0V) | [La fin du printemps](https://open.spotify.com/album/2r332ksd9Zuwv1cu5c2eQB) | 4:07 | 2021-01-03\* | 2022-07-25 |
 | [Doux](https://open.spotify.com/track/5JPj0yjiqe7B3kzGYN900F) | [Sarah Villeneuve](https://open.spotify.com/artist/2KKuXLeQXtuOKKiWP1xdRE) | [Doux](https://open.spotify.com/album/7wBkEWvGeAvdQBeVV5uG4o) | 4:00 | 2022-04-01 | 2022-06-28 |
-| [Du temps](https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Du temps](https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno) | 3:42 | 2023-10-06 |  |
+| [Du temps](https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Du temps](https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno) | 3:42 | 2023-10-06 | 2026-07-04 |
 | [Désordre insensé](https://open.spotify.com/track/0LG9F3iWjlzR6q6RpbyJNS) | [Désirée](https://open.spotify.com/artist/7igTH5z3uoVbKRvQ3M10fG) | [Les souvenirs flous](https://open.spotify.com/album/2qiD7xcB164I74T1fzHb6c) | 3:30 | 2023-02-17 | 2023-03-12 |
 | [Easy](https://open.spotify.com/track/5jS4a8pDTk5rHG8eQOPSGt) | [Bella Galasso](https://open.spotify.com/artist/0xOHwnESa9ODHYNWMLgZCI) | [Easy](https://open.spotify.com/album/2NH9ifK4WaQoA2SXmFrZlG) | 3:55 | 2026-04-17 | 2026-05-25 |
 | [El Cosechero](https://open.spotify.com/track/0ntjfU9QOdA0SpmmbDg588) | [Lhasa De Sela](https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI), [Yves Desrosiers](https://open.spotify.com/artist/2VK0ucevGNDKSx7v3Y62cC) | [El Cosechero](https://open.spotify.com/album/0CWkBZSdtcmS6oOZzOjtUv) | 3:17 | 2024-06-07 | 2025-10-18 |
@@ -237,6 +237,7 @@
 | [Je t'aime \- take 2](https://open.spotify.com/track/2vpKRYwOB0bri9HP3oe2zH) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [Je t'aime \(take 2\)](https://open.spotify.com/album/0Ol7EUSY7zEgLX59Zb1pOe) | 5:34 | 2026-06-05 |  |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2021-06-23 | 2022-01-08 |
 | [Je vais te faire danser](https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Je vais te faire danser](https://open.spotify.com/album/3gOUfR7gIsMaKQHaMWVGjd) | 3:11 | 2022-09-09 | 2026-05-02 |
+| [JVTPM](https://open.spotify.com/track/0MLcOFQ1tFQwXuJZTO03O4) | [Lysandre](https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh) | [Portrait de l'invisible](https://open.spotify.com/album/71PkjAcz0cvoAMtcMTwgfG) | 3:50 | 2026-07-03 |  |
 | [Kenny U\-Pull](https://open.spotify.com/track/0n7Zu9yVuPqMYz4oJU25z1) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [PISSENLIT](https://open.spotify.com/album/3MxL97tOzerdtCi366hhZe) | 1:24 | 2021-12-17 | 2022-07-22 |
 | [Kil](https://open.spotify.com/track/2jSkD2rXLAEca1yPY7yRaD) | [Kahtolin](https://open.spotify.com/artist/6dq3Mq1XLJjQbczbsyoQSd) | [Kil](https://open.spotify.com/album/1mHMRc2dTJ3xG7qNMxNk9K) | 4:04 | 2021-11-14 | 2025-10-20 |
 | [Kindergarten Heart](https://open.spotify.com/track/2GH4jJMwqftLSj09POboHO) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Kindergarten Heart](https://open.spotify.com/album/7HJS2A7JWTfHu4arcFcvmC) | 2:57 | 2024-03-08 | 2025-02-08 |

@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,844 songs - 4 day 1 hr 45 min
+1,845 songs - 4 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -673,6 +673,7 @@
 | [Heat](https://open.spotify.com/track/0areojbnyM4jm0jQ6fU6ko) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds) | [Heat](https://open.spotify.com/album/2kYla7qUsfm8fHbS2ODxP0) | 2:30 | 2025-04-24 |  |
 | [Heaven](https://open.spotify.com/track/1tY5yzx4n1A6ugSOrT1MlF) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Heaven](https://open.spotify.com/album/4Czr2eLWiUt10jmlulnhrm) | 2:45 | 2024-05-03 | 2024-10-19 |
 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 | 2022-06-09 | 2023-03-10 |
+| [Heavenly](https://open.spotify.com/track/3wQ0Yr35FL0m37QEhpmat0) | [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M), [Mojave Grey](https://open.spotify.com/artist/4RHpnWpQb7IkQLmp10YKRI) | [Heavenly](https://open.spotify.com/album/4IfsNTaCXQos0Ht5FjSx3J) | 3:25 | 2026-07-03 |  |
 | [Heavenly](https://open.spotify.com/track/4qHJ6esYqVPGYnMfwy1nWN) | [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF), [Lena Sue](https://open.spotify.com/artist/5rU1E0lbqZTJiUiPTMbv30) | [Heavenly](https://open.spotify.com/album/07qnXHRVgmay6OySA2IvAD) | 3:12 | 2026-01-26 | 2026-01-30 |
 | [Heavy](https://open.spotify.com/track/00kTtwFuoRVfFiH8wJabBu) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Heavy](https://open.spotify.com/album/5U6bJLke6HXBUp6Q40caJN) | 2:51 | 2025-07-25 |  |
 | [HELLO 2K22](https://open.spotify.com/track/50iCAV06s0g1cPOoZSNR77) | [Laurent Wolf](https://open.spotify.com/artist/0U2M5hyVn2T78XKlRHJFcn) | [HELLO 2K22](https://open.spotify.com/album/6TAXMd648Ma2FmiEY6w9gN) | 3:25 | 2022-06-30 | 2022-08-12 |

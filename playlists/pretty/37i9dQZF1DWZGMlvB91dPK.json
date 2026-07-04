@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 4002,
+  "num_followers": 4004,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
@@ -115,18 +115,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "25 EUROS",
-        "url": "https://open.spotify.com/album/162WefLM0ISqUY9rB6HwcG"
+        "name": "Dog Day",
+        "url": "https://open.spotify.com/album/70vSMHeeSJ9Z2xmOX08RBr"
       },
       "artists": [
         {
-          "name": "James Loup",
-          "url": "https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE"
+          "name": "Gen",
+          "url": "https://open.spotify.com/artist/5TF46e3BqrK9NAOAUm608G"
         }
       ],
-      "duration_ms": 124126,
-      "name": "25 EUROS",
-      "url": "https://open.spotify.com/track/7CuqqjkW4d0BDelI7bpofl"
+      "duration_ms": 87406,
+      "name": "No Rnb",
+      "url": "https://open.spotify.com/track/3ISk54mlwwOqYvb8QkASqn"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -147,18 +147,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Dog Day",
-        "url": "https://open.spotify.com/album/70vSMHeeSJ9Z2xmOX08RBr"
+        "name": "25 EUROS",
+        "url": "https://open.spotify.com/album/162WefLM0ISqUY9rB6HwcG"
       },
       "artists": [
         {
-          "name": "Gen",
-          "url": "https://open.spotify.com/artist/5TF46e3BqrK9NAOAUm608G"
+          "name": "James Loup",
+          "url": "https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE"
         }
       ],
-      "duration_ms": 87406,
-      "name": "No Rnb",
-      "url": "https://open.spotify.com/track/3ISk54mlwwOqYvb8QkASqn"
+      "duration_ms": 124126,
+      "name": "25 EUROS",
+      "url": "https://open.spotify.com/track/7CuqqjkW4d0BDelI7bpofl"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Un chant d'amour",
-        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 168027,
-      "name": "Ce n'est pas ici, ce n'est pas ailleurs",
-      "url": "https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Head Out",
         "url": "https://open.spotify.com/album/5OtP813E52dTO5fiakbt87"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 197264,
       "name": "Head Out",
       "url": "https://open.spotify.com/track/4R6Wr2BlePYCbdHuQL3527"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Un chant d'amour",
+        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 168027,
+      "name": "Ce n'est pas ici, ce n'est pas ailleurs",
+      "url": "https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -523,22 +523,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "SOMA",
-        "url": "https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW"
-      },
-      "artists": [
-        {
-          "name": "Elena Copsi",
-          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
-        }
-      ],
-      "duration_ms": 165378,
-      "name": "La rivi\u00e8re",
-      "url": "https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "FOR\u00caT",
         "url": "https://open.spotify.com/album/6oImWMoSomesMXGBFsndc9"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 172867,
       "name": "Lib\u00e8re",
       "url": "https://open.spotify.com/track/6sMdVBONIF9twV6egGfU2y"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW"
+      },
+      "artists": [
+        {
+          "name": "Elena Copsi",
+          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
+        }
+      ],
+      "duration_ms": 165378,
+      "name": "La rivi\u00e8re",
+      "url": "https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M"
     },
     {
       "added_at": "2025-11-20 17:00:08",

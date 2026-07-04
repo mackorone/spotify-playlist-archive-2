@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。 Madonna, SIENNA SPIRO, Ado, マカロニえんぴつ and more!
 
-14,258 songs - 33 day 4 hr 1 min
+14,259 songs - 33 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4207,6 +4207,7 @@
 | [Gateway Drug](https://open.spotify.com/track/0I4uW77D32nbDGG12R9P7x) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Gateway Drug](https://open.spotify.com/album/6d3GJAtOlhJDS6aK24Yf9v) | 3:00 | 2024-10-10 | 2024-10-18 |
 | [GATSBY \(feat\. Hideyoshi, JP THE WAVY & VIGORMAN\)](https://open.spotify.com/track/5r3yLJ8u9ye1ldvcqk2HAV) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [VIGORMAN](https://open.spotify.com/artist/3Wwm0jHrjg72MWRt545OqJ) | [GATSBY \(feat\. Hideyoshi, JP THE WAVY & VIGORMAN\)](https://open.spotify.com/album/14WBzca2oznGsXUIIvg0MI) | 2:56 | 2026-05-21 | 2026-05-29 |
 | [gauche](https://open.spotify.com/track/1BQpylIOzyQqlQb08nhjmF) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [gauche](https://open.spotify.com/album/6ymHFX28InwLHNnEgY7EGh) | 2:56 | 2023-10-19 | 2023-11-11 |
+| [GAVE U RACKS](https://open.spotify.com/track/4vyJJrWfIrIy7VCFceAML4) | [$TARFACE](https://open.spotify.com/artist/1aAFxL6yILr1przXto9eyl), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [GAVE U RACKS](https://open.spotify.com/album/4SLvX8SIf7hkx5kYAj8Ph0) | 3:19 | 2026-07-02 |  |
 | [GBAD](https://open.spotify.com/track/3OxVaGUYKdSAXqIp8x7VgC) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [GBAD](https://open.spotify.com/album/3zd28IonbElPm1abU4G6Ve) | 3:10 | 2025-03-27 | 2025-04-04 |
 | [GBAD \(Number\_i Remix\)](https://open.spotify.com/track/0Sc93x1NGL4SbWFlMOvDkN) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [GBAD \(Number\_i Remix\)](https://open.spotify.com/album/76C1D2sECFpW0lWOuhcZak) | 3:07 | 2025-04-17 | 2025-04-25 |
 | [gbesoke](https://open.spotify.com/track/0VCnH45PSB8fIMG1w779gV) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Peter Xan](https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP) | [gbesoke](https://open.spotify.com/album/79TzsN0X2I2O4khudMIslP) | 4:15 | 2025-06-12 | 2025-06-20 |

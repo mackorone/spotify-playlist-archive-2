@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Before we go",
+        "url": "https://open.spotify.com/album/04LVhlIxYTW9HwWAuRetxD"
+      },
+      "artists": [
+        {
+          "name": "Xoi Xoi",
+          "url": "https://open.spotify.com/artist/2sn3KUN2HhvxV2SLWMWxKl"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151251,
+      "name": "Before we go",
+      "url": "https://open.spotify.com/track/69fdiIF5PznTdZNhupGI10"
+    },
+    {
+      "album": {
         "name": "Beyond",
         "url": "https://open.spotify.com/album/6LSpdPraDW0a3Azl3sFOmn"
       },
@@ -653,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Chasing Bliss",
+        "url": "https://open.spotify.com/album/4E9YXCYgitSRg3TwgSbEz8"
+      },
+      "artists": [
+        {
+          "name": "Andrew Mays",
+          "url": "https://open.spotify.com/artist/5kKg8zR0hqhwZoaGvsw13I"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157364,
+      "name": "Chasing Bliss",
+      "url": "https://open.spotify.com/track/38U0JoCJAUu0uDEUKkNgyQ"
+    },
+    {
+      "album": {
         "name": "Clear And Calm",
         "url": "https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv"
       },
@@ -664,7 +700,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 130802,
       "name": "Clear And Calm",
       "url": "https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7"
@@ -794,6 +830,24 @@
       "duration_ms": 140241,
       "name": "Compass",
       "url": "https://open.spotify.com/track/7uN2L2nq8gfUBOUfHtSkQX"
+    },
+    {
+      "album": {
+        "name": "Complete",
+        "url": "https://open.spotify.com/album/59La0fwcbgKlaa1evfBqHC"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/0OHO8bpZ2kCqXnA3pIICie"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163614,
+      "name": "Complete",
+      "url": "https://open.spotify.com/track/0TVVSh5z1gErm5tHqMII5A"
     },
     {
       "album": {
@@ -2599,6 +2653,24 @@
     },
     {
       "album": {
+        "name": "Misty Fields",
+        "url": "https://open.spotify.com/album/6yja74O0y3iU26REbyakBu"
+      },
+      "artists": [
+        {
+          "name": "Ludovic Agnes",
+          "url": "https://open.spotify.com/artist/4l07zQkuiR10PftXNbieYZ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138819,
+      "name": "Misty Fields",
+      "url": "https://open.spotify.com/track/332ZM0ja6BlhmaB7a4eum1"
+    },
+    {
+      "album": {
         "name": "Moment of Solace",
         "url": "https://open.spotify.com/album/3lfxt3RbtFUOXppPwUgHW1"
       },
@@ -2672,6 +2744,24 @@
       "duration_ms": 191250,
       "name": "Mystic Rivers",
       "url": "https://open.spotify.com/track/24qUwzHcqj4x9JIJ5FP5JO"
+    },
+    {
+      "album": {
+        "name": "Neue Mode",
+        "url": "https://open.spotify.com/album/19Y8rP5wDFdkNssisT47gJ"
+      },
+      "artists": [
+        {
+          "name": "Sander Von",
+          "url": "https://open.spotify.com/artist/0RVOnkqRPANxZjA0PWhY6t"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144240,
+      "name": "Neue Mode",
+      "url": "https://open.spotify.com/track/0KVy4i0BTHUElC6HCGJVyf"
     },
     {
       "album": {
@@ -3147,6 +3237,24 @@
     },
     {
       "album": {
+        "name": "Reclined",
+        "url": "https://open.spotify.com/album/63ejfiiNwhnQI6CLjA2Eul"
+      },
+      "artists": [
+        {
+          "name": "Rellendum",
+          "url": "https://open.spotify.com/artist/35Dv8voHOrXTBT26FFYTxY"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Reclined",
+      "url": "https://open.spotify.com/track/28JPAfn7GrCkx5yiHBV5xC"
+    },
+    {
+      "album": {
         "name": "Residue",
         "url": "https://open.spotify.com/album/0r7pTejrU8nkzap2IroW2z"
       },
@@ -3162,6 +3270,24 @@
       "duration_ms": 146000,
       "name": "Residue",
       "url": "https://open.spotify.com/track/1G8rGktpVVsVB6k15w8VKk"
+    },
+    {
+      "album": {
+        "name": "Revelations",
+        "url": "https://open.spotify.com/album/6Vhv1wbp54xcR3YtxFO2o7"
+      },
+      "artists": [
+        {
+          "name": "Simon Strella",
+          "url": "https://open.spotify.com/artist/0oUJgwFn9WchGSTdT7ODyZ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145632,
+      "name": "Revelations",
+      "url": "https://open.spotify.com/track/0yWAXojIUz6zPGAUGpkgeo"
     },
     {
       "album": {
@@ -3345,6 +3471,24 @@
     },
     {
       "album": {
+        "name": "Shape of Decay",
+        "url": "https://open.spotify.com/album/7FP5bruzRNbDjY3TPULNxf"
+      },
+      "artists": [
+        {
+          "name": "Orphea Nyx",
+          "url": "https://open.spotify.com/artist/2GpH3SIs7R1MlgFgnFQLRq"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153280,
+      "name": "Shape of Decay",
+      "url": "https://open.spotify.com/track/6FjXWKusgtMM4GBhdsLVKA"
+    },
+    {
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/6FKCRBpmy5c8ejELaFfFt5"
       },
@@ -3471,6 +3615,24 @@
     },
     {
       "album": {
+        "name": "Sleepwalking",
+        "url": "https://open.spotify.com/album/6C7o4KZqh94E1zFIWDamlH"
+      },
+      "artists": [
+        {
+          "name": "Siri Eijde",
+          "url": "https://open.spotify.com/artist/2ND34rpSifp76bnMDtffEV"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139517,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/0QLCSAa0apQA5M9nX5LJsY"
+    },
+    {
+      "album": {
         "name": "Slow Fall",
         "url": "https://open.spotify.com/album/77O8mS4PmfryxmsKuMrM2S"
       },
@@ -3576,6 +3738,24 @@
       "duration_ms": 125365,
       "name": "Sophisticated",
       "url": "https://open.spotify.com/track/2PgpHY9g9k6ER1qEbwwFSJ"
+    },
+    {
+      "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/4a892E96kDDuRFc59KQexM"
+      },
+      "artists": [
+        {
+          "name": "Joseph Pichon",
+          "url": "https://open.spotify.com/artist/1e8hr3rVp1diUWI9mXkHhD"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130355,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/6V6ExUdwttsNvKavU0HtBi"
     },
     {
       "album": {
@@ -3781,6 +3961,24 @@
     },
     {
       "album": {
+        "name": "The Long Way",
+        "url": "https://open.spotify.com/album/1sfqizeKZkBGAuKB7Ri8yC"
+      },
+      "artists": [
+        {
+          "name": "Noah Foem",
+          "url": "https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148832,
+      "name": "The Long Way",
+      "url": "https://open.spotify.com/track/1KLF3K36DFqtgvO21IV3FY"
+    },
+    {
+      "album": {
         "name": "The Old Garden",
         "url": "https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM"
       },
@@ -3828,7 +4026,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 127588,
       "name": "The Path",
       "url": "https://open.spotify.com/track/7eH0X2RvMtR963S3oSJiRN"
@@ -4390,6 +4588,24 @@
       "duration_ms": 170608,
       "name": "What Time Reveals",
       "url": "https://open.spotify.com/track/4Zz8LPaZgjdw2z8s9ZMCU8"
+    },
+    {
+      "album": {
+        "name": "Where Silence Begins",
+        "url": "https://open.spotify.com/album/7FM7gTxkStCFzX0Hsto8aD"
+      },
+      "artists": [
+        {
+          "name": "Jacob Hall",
+          "url": "https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100000,
+      "name": "Where Silence Begins",
+      "url": "https://open.spotify.com/track/6N19DEFhX7HjwdmPtzJecp"
     },
     {
       "album": {

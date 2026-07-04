@@ -1109,6 +1109,40 @@
     },
     {
       "album": {
+        "name": "Blood, Sweat & Billz",
+        "url": "https://open.spotify.com/album/0tONlwqnJyuZWBaHxQw3rK"
+      },
+      "artists": [
+        {
+          "name": "Dee Billz",
+          "url": "https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        },
+        {
+          "name": "Kai Swervo",
+          "url": "https://open.spotify.com/artist/1frmN1C7BmO6wKo7iQhar2"
+        },
+        {
+          "name": "KJ Swervo",
+          "url": "https://open.spotify.com/artist/3VzzWMyEQci155HpLwKVZc"
+        },
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124931,
+      "name": "Beckham",
+      "url": "https://open.spotify.com/track/4UaYeoRZVif641P0FcgkNL"
+    },
+    {
+      "album": {
         "name": "Beckham",
         "url": "https://open.spotify.com/album/1GNQ8Lr4qLa6XTTm7Xuwgw"
       },
@@ -1588,6 +1622,24 @@
       "duration_ms": 160383,
       "name": "Bobby Bitch",
       "url": "https://open.spotify.com/track/6j8lAie0mdUNreql5d5Ejz"
+    },
+    {
+      "album": {
+        "name": "We Outside by Sidetalk",
+        "url": "https://open.spotify.com/album/7tdfSaK0d8dcQQFhAL1p1k"
+      },
+      "artists": [
+        {
+          "name": "We Outside by Sidetalk",
+          "url": "https://open.spotify.com/show/7tdfSaK0d8dcQQFhAL1p1k"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2102996,
+      "name": "Bobby Shmurda on Prison Girlfriends, His Missing Hat, & Tom Cruise",
+      "url": "https://open.spotify.com/episode/4KhBadDMj5ZiKPwNmHniO3"
     },
     {
       "album": {
@@ -2206,7 +2258,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 165404,
       "name": "Clueless (with Pop Smoke & Fivio Foreign)",
       "url": "https://open.spotify.com/track/4CPcZHzSvIBM8AKhdHUwnL"
@@ -2290,7 +2342,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 198620,
       "name": "COM\u00cb N GO",
       "url": "https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9"
@@ -2716,6 +2768,24 @@
       "duration_ms": 148816,
       "name": "Die Young (feat. 347aidan)",
       "url": "https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH"
+    },
+    {
+      "album": {
+        "name": "Slime Season 3",
+        "url": "https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176386,
+      "name": "Digits",
+      "url": "https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q"
     },
     {
       "album": {
@@ -3760,7 +3830,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-02",
+      "date_removed": null,
       "duration_ms": 158693,
       "name": "Flexin'",
       "url": "https://open.spotify.com/track/7mpoOB5YMpPnbllsALgSfr"
@@ -4998,7 +5068,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 194561,
       "name": "Hot N*gga",
       "url": "https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m"
@@ -5658,7 +5728,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -8302,7 +8372,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -8904,7 +8974,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 212658,
       "name": "Paranoia (feat. Gunna & Young Thug)",
       "url": "https://open.spotify.com/track/3QqJ44HiM84iyZS0G2IKIP"
@@ -9374,7 +9444,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 459072,
       "name": "problem (feat. Laila!, Fabolous, Big Sean, Kenzo B, Lay Bankz, Luh Tyler, Anycia, Chow Lee, Kaliii, 6lack, Flo Milli, Yn Jay, Flee, Don Q & Rob49)",
       "url": "https://open.spotify.com/track/62DOQC3exqebSVLWyN2mWa"
@@ -9738,7 +9808,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 232093,
       "name": "Really Really",
       "url": "https://open.spotify.com/track/10I3CmmwT0BkOVhduDy53o"
@@ -10352,7 +10422,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 188722,
       "name": "Shabang",
       "url": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
@@ -10536,7 +10606,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 176316,
       "name": "SHIRT",
       "url": "https://open.spotify.com/track/3umJNfPLBiNmIsDg0Ebcuy"
@@ -12358,7 +12428,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 225132,
       "name": "U My Everything",
       "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"
@@ -12528,7 +12598,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 164571,
       "name": "Viking",
       "url": "https://open.spotify.com/track/1TUHiLBQ6CVYZQOgnLjHbM"
@@ -13120,7 +13190,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-02",
+      "date_removed": null,
       "duration_ms": 132003,
       "name": "Whateva",
       "url": "https://open.spotify.com/track/4xvErq6z7rzhXkhY00J8xF"
@@ -13146,7 +13216,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-04",
+      "date_removed": null,
       "duration_ms": 201398,
       "name": "What\u2019s My Name (with Queen Naija & Coi Leray)",
       "url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ"
@@ -13455,6 +13525,28 @@
     },
     {
       "album": {
+        "name": "Merry Wickmas",
+        "url": "https://open.spotify.com/album/3z1fhDWdsAGptjFtQIgA9Y"
+      },
+      "artists": [
+        {
+          "name": "Shawny Binladen",
+          "url": "https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL"
+        },
+        {
+          "name": "Bizzy Banks",
+          "url": "https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131186,
+      "name": "Wockhardt (feat. Bizzy Banks)",
+      "url": "https://open.spotify.com/track/52zvpjKTr6k90nznOg9n1y"
+    },
+    {
+      "album": {
         "name": "Meet The Woo 2 (Deluxe)",
         "url": "https://open.spotify.com/album/5NTOvCGu7HT4DgJGLXtKUU"
       },
@@ -13550,7 +13642,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-08",
+      "date_removed": null,
       "duration_ms": 181714,
       "name": "Woo Year (feat. Dread Woo)",
       "url": "https://open.spotify.com/track/3liqOtIOxObydJiqru2wr8"

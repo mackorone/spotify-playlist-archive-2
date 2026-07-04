@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0B0BPkmlJbG5tsDwTUUcBq">Blush</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-112 songs - 5 hr 59 min
+113 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Kettle](https://open.spotify.com/track/5LwGInwOgFjIIVer2kPxxW) | [enobe](https://open.spotify.com/artist/3LjyIM1dlfms7kJUqrBTXI), [Blush](https://open.spotify.com/artist/31rc0iQFBQBf1PcS7L3wIN) | [Fuck the Numbers](https://open.spotify.com/album/1kWoB4QqqP1Y30PAzEIGo7) | 2:40 | 2025-11-07 |  |
 | [Kickin' Pushin'](https://open.spotify.com/track/1ge67dpLAdg7HQzFxSjMGH) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Great Escape](https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps) | 3:16 | 2025-11-07 |  |
 | [Leaving](https://open.spotify.com/track/71PF1sL6JiNmeoMXcnquae) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:40 | 2026-06-28 |  |
+| [Light My Soul](https://open.spotify.com/track/0Ii3RfMvpW0IgfYusSfHLT) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:30 | 2026-07-03 |  |
 | [lighthouse](https://open.spotify.com/track/7KwHA6VxQUonpOzCFpi0eD) | [NAO AIHARA](https://open.spotify.com/artist/42u8PGWT2Ic13eOIsvRNM2) | [lighthouse](https://open.spotify.com/album/6Dd2pFTUprxK1FZbQtpxVk) | 3:44 | 2025-11-07 |  |
 | [Love Me or Not](https://open.spotify.com/track/6035rfVUNlzOG5uwQaWJMc) | [Heather Small](https://open.spotify.com/artist/3tnTlR2MCaYNQqV3v1908x) | [Love Me or Not](https://open.spotify.com/album/4Xh4TboT7xRuUMIZHNNwVi) | 3:38 | 2026-02-19 |  |
 | [Love Me or Not](https://open.spotify.com/track/6Rfr4KVHrKa7QSCbGMUiyQ) | [Heather Small](https://open.spotify.com/artist/0E1D9dQmYK7cMg1mySzeOu) | [Colour My Life](https://open.spotify.com/album/5M0NgaZetwIpgCQuaJtiB4) | 3:38 | 2025-11-07 | 2026-02-20 |

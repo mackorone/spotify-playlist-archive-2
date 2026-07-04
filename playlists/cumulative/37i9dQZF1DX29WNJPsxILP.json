@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: Emiway Bantai",
+  "description": "Best of Hindi Hip-Hop! Cover: Rawal",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -4155,6 +4155,28 @@
     },
     {
       "album": {
+        "name": "Ambassador",
+        "url": "https://open.spotify.com/album/7E6mP3cf6JeKJaG2k0IwXJ"
+      },
+      "artists": [
+        {
+          "name": "Rawal",
+          "url": "https://open.spotify.com/artist/3XbsFoxsYfrJyo9VZrbM16"
+        },
+        {
+          "name": "Suhavi Kalsi",
+          "url": "https://open.spotify.com/artist/2yW096GBZkULuSAJnF4yRL"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "Mann Ke Raaz",
+      "url": "https://open.spotify.com/track/5eKN0T4WY8P4ZhqpO78BOm"
+    },
+    {
+      "album": {
         "name": "Mashooka",
         "url": "https://open.spotify.com/album/5YIfNbv6RRMIdjP2hvF1Nc"
       },
@@ -4472,7 +4494,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 171787,
       "name": "MUDDA (feat. Seedhe Maut)",
       "url": "https://open.spotify.com/track/3usqexd5uUTl5SkLme0HKX"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Nabi in cover della playlist dello street rap italiano ⛓️
 
-[Spotify](https://open.spotify.com/user/spotify) - 922,514 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,496 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 17 | [Babyface](https://open.spotify.com/track/5LN0gLSxSEaigog3VjCci3) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 2:57 |
 | 18 | [TIMMY TURNER](https://open.spotify.com/track/53Jdi1wxkc6IEBN2hUrBUM) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [TIMMY TURNER](https://open.spotify.com/album/3lPXMLjefi0HYSFY3QsxyG) | 2:32 |
 | 19 | [SEX TRAP REPEAT](https://open.spotify.com/track/7jhVsioCwQDGQSXFL35cEF) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [SEX TRAP REPEAT](https://open.spotify.com/album/5nPq2Nmm3NU2BNCrWBcFep) | 2:25 |
-| 20 | [MUSICA TAGLIATA \(feat\. Pyrex\)](https://open.spotify.com/track/0V5V48MVxiDVZ0HJMXB7F1) | [Baby Kirua](https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN), [Pyrex](https://open.spotify.com/artist/4ELZUuHRIUrAkko2cjpWB1) | [CÔTE D’AZUR](https://open.spotify.com/album/7uqbSPazo2QeUnu1fYR6S8) | 2:30 |
+| 20 | [MUSICA TAGLIATA \(feat\. Pyrex\)](https://open.spotify.com/track/0V5V48MVxiDVZ0HJMXB7F1) | [Baby Kirua](https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [CÔTE D’AZUR](https://open.spotify.com/album/7uqbSPazo2QeUnu1fYR6S8) | 2:30 |
 | 21 | [Felpa Nera \(feat\. ANNA\)](https://open.spotify.com/track/168t3ud7jZIslO0P5ZDKnj) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:04 |
 | 22 | [4 Gambe](https://open.spotify.com/track/5nEWSUWRc3xjpJn25xbXFY) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h) | [4 Gambe](https://open.spotify.com/album/3CIAryrsaEFI1hPdPsUPvQ) | 2:21 |
 | 23 | [9MILLIMETRI](https://open.spotify.com/track/5WwZG4HIxAEF5flOeoG4Bn) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [9MILLIMETRI](https://open.spotify.com/album/1fNoI35Kz2ImcqXOzat0br) | 2:48 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-01",
-  "description": "The latest in world music. From the continent, to the islands with Yam\u00ea.",
+  "description": "The latest in world music. From the continent, to the islands with Shenseea.",
   "name": "Crxss Current",
   "tracks": [
     {
@@ -1076,6 +1076,28 @@
       "duration_ms": 142628,
       "name": "Alive",
       "url": "https://open.spotify.com/track/0pmWLzvjXtoKo8L8Yr9i9K"
+    },
+    {
+      "album": {
+        "name": "Alive (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/0b1wTKStMRshCOhUnhfPXR"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207085,
+      "name": "Alive (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/7KeboxD6ciOo8MHlkTgqMH"
     },
     {
       "album": {
@@ -5209,6 +5231,24 @@
     },
     {
       "album": {
+        "name": "BRUCKSWEAT",
+        "url": "https://open.spotify.com/album/2m3HYs6Ojn3jXuA6DcLJYj"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188756,
+      "name": "BRUCKSWEAT",
+      "url": "https://open.spotify.com/track/4RgwqFlAfzSiDC71CQrZRF"
+    },
+    {
+      "album": {
         "name": "Bruk Luv",
         "url": "https://open.spotify.com/album/2kIWopEkww09IPHUcKIHk8"
       },
@@ -8218,7 +8258,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 146488,
       "name": "Dis-moi (feat. Shenseea)",
       "url": "https://open.spotify.com/track/2Xv8PNeeu80fyj4kBVGPvp"
@@ -8982,6 +9022,28 @@
       "duration_ms": 181747,
       "name": "Dutty Flex",
       "url": "https://open.spotify.com/track/7dWScjpbcrKwY2rVYpm0WC"
+    },
+    {
+      "album": {
+        "name": "Dweet & Done",
+        "url": "https://open.spotify.com/album/1OQSrRNseSypWakkabr0zB"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        },
+        {
+          "name": "Notnice",
+          "url": "https://open.spotify.com/artist/3xE5Mbgql6pnTTaTifw8UX"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165751,
+      "name": "Dweet & Done",
+      "url": "https://open.spotify.com/track/3flrUNxaX5GNPvA8PQ3vXX"
     },
     {
       "album": {
@@ -11264,7 +11326,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 230973,
       "name": "From The Mud",
       "url": "https://open.spotify.com/track/2Sr3tAjpSrHGyi3U54soJP"
@@ -11418,7 +11480,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 206948,
       "name": "Funds (feat. ODUMODUBLVCK & Chike)",
       "url": "https://open.spotify.com/track/6zZixF6uYbtG8uiNzDO2LH"
@@ -15173,6 +15235,28 @@
     },
     {
       "album": {
+        "name": "Island Ting",
+        "url": "https://open.spotify.com/album/4G4wodZltyimp0x7xhYnjP"
+      },
+      "artists": [
+        {
+          "name": "Kevin Lyttle",
+          "url": "https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba"
+        },
+        {
+          "name": "Charly Black",
+          "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250775,
+      "name": "Island Ting",
+      "url": "https://open.spotify.com/track/5ymi7qR26ntxYbcwPFT9Lg"
+    },
+    {
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/47FGKv6DgcDj9YwvoQuTMN"
       },
@@ -16950,6 +17034,32 @@
       "duration_ms": 170666,
       "name": "Lalalala",
       "url": "https://open.spotify.com/track/2i2IqwDNYuZj5rdMkJhdHF"
+    },
+    {
+      "album": {
+        "name": "Lambo",
+        "url": "https://open.spotify.com/album/1dCxh6mKSGZ4s6bq9TDQmG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Dre Skull",
+          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
+        },
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156734,
+      "name": "Lambo",
+      "url": "https://open.spotify.com/track/1rpShKnZmMlS1myDAtC0c8"
     },
     {
       "album": {
@@ -20077,6 +20187,24 @@
     },
     {
       "album": {
+        "name": "Moonlight / Clean Run",
+        "url": "https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1"
+      },
+      "artists": [
+        {
+          "name": "J Hus",
+          "url": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200477,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ"
+    },
+    {
+      "album": {
         "name": "NY Girls Riddim",
         "url": "https://open.spotify.com/album/3fqweGKk2VroGPgxqYuPdA"
       },
@@ -20192,6 +20320,28 @@
       "duration_ms": 178579,
       "name": "MOTO",
       "url": "https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5"
+    },
+    {
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/4jXabD8vFA9rAM5bZ3SPDH"
+      },
+      "artists": [
+        {
+          "name": "Cham",
+          "url": "https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK"
+        },
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159081,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/69gFnAsozsQYeqfOVMZbl9"
     },
     {
       "album": {
@@ -23768,7 +23918,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 167355,
       "name": "PARTYGYAL",
       "url": "https://open.spotify.com/track/46Cu4xavDB7pcejde1ldMA"
@@ -34478,7 +34628,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 172912,
       "name": "Who\u2019s Dat Girl",
       "url": "https://open.spotify.com/track/6XaN4trfoMvRFEy8HoB4nC"
@@ -34888,7 +35038,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 136036,
       "name": "With You (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"
@@ -35856,7 +36006,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 161938,
       "name": "\u2060Morocco",
       "url": "https://open.spotify.com/track/1BSMV4VRi2jJFc8R1YGPta"

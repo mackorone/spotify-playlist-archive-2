@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 239040,
+  "num_followers": 239076,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAADawwroVjBnQXV9Txo/BC4z",
+  "snapshot_id": "akWqAAAAAAADou7iHhCstK+hQNURMOiI",
   "tracks": [
     {
       "added_at": null,
@@ -23,26 +23,6 @@
       "duration_ms": 140750,
       "name": "Amado Carrillo",
       "url": "https://open.spotify.com/track/227X7GnGSMjX57IbSTSZmX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enojada y Ardida",
-        "url": "https://open.spotify.com/album/4Jpnk2SSlVaV7Yi1QlnMJ5"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        }
-      ],
-      "duration_ms": 154233,
-      "name": "Enojada y Ardida",
-      "url": "https://open.spotify.com/track/0NecORiq1EX71MEx80OGWI"
     },
     {
       "added_at": null,
@@ -887,6 +867,26 @@
       "duration_ms": 154357,
       "name": "El Empresario",
       "url": "https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Movimiento Alterado, Vol. 4",
+        "url": "https://open.spotify.com/album/0fz09SJ60rombnWshTctXP"
+      },
+      "artists": [
+        {
+          "name": "Los Buitres De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 152032,
+      "name": "Recordando a Michoacan",
+      "url": "https://open.spotify.com/track/3YRuSPcawwlpF4YcYtyClC"
     }
   ],
   "unique_name": "This Is El Komander",

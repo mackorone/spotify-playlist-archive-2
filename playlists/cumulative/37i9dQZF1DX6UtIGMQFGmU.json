@@ -965,6 +965,24 @@
     },
     {
       "album": {
+        "name": "En Sincro (Gamma 76.5-107hz)",
+        "url": "https://open.spotify.com/album/07POvAKYLvGRZ9MrFOR1Aj"
+      },
+      "artists": [
+        {
+          "name": "Lotus Immersion",
+          "url": "https://open.spotify.com/artist/3sJgk8g7fLcFuvSVWpLlCH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142181,
+      "name": "En Sincro (Gamma 76.5-107hz)",
+      "url": "https://open.spotify.com/track/7fqUGEtQMebr7ONaaK72eh"
+    },
+    {
+      "album": {
         "name": "Koi Pond Gamma",
         "url": "https://open.spotify.com/album/1BVsgUX3OIsMzTwhtmKPPp"
       },
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 129283,
       "name": "Illuminated Intelligence",
       "url": "https://open.spotify.com/track/7LfrEmRcWaqi4FBruu8QTE"
@@ -1588,7 +1606,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 208471,
       "name": "Perfect Brainwave Entrainment - 41.2 Hz Gamma Frequency Binaural Beats",
       "url": "https://open.spotify.com/track/7dxtpCn9Kt4nrFzwYKyVgD"
@@ -1650,6 +1668,24 @@
       "duration_ms": 168000,
       "name": "Spectral Awareness Gamma 87-175hz",
       "url": "https://open.spotify.com/track/7GVgwmW1LBXGgkb6hOI9ui"
+    },
+    {
+      "album": {
+        "name": "Synesthesia (Gamma 56Hz - 112Hz)",
+        "url": "https://open.spotify.com/album/35rsVtWxzvPBbocDLBLuFO"
+      },
+      "artists": [
+        {
+          "name": "Synaptc Waves",
+          "url": "https://open.spotify.com/artist/1B6lhoVCQSa0yrnhvfNXZJ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132346,
+      "name": "Synesthesia (Gamma 56Hz - 112Hz)",
+      "url": "https://open.spotify.com/track/0BYOB93DDc3HqIKZtu5H8V"
     },
     {
       "album": {

@@ -2175,6 +2175,24 @@
     },
     {
       "album": {
+        "name": "Sol\u00edsima",
+        "url": "https://open.spotify.com/album/0ItBNQik8SX7z3s0NcuTPh"
+      },
+      "artists": [
+        {
+          "name": "Suena",
+          "url": "https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223001,
+      "name": "Sol\u00edsima",
+      "url": "https://open.spotify.com/track/7wq7AfOqPgAB1iJ8gBVwYX"
+    },
+    {
+      "album": {
         "name": "Stars of Sand (From \"Trigun\")",
         "url": "https://open.spotify.com/album/3WgUeU8tkVAPokG4h62H2s"
       },

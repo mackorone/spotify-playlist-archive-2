@@ -1,13 +1,33 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 89095,
+  "num_followers": 89113,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ4iUkd0PfGsYkbXWqcMzhuNSlFm",
+  "snapshot_id": "AAAAAP+m8rElj1eoZNNpYH5Xzfor6SEf",
   "tracks": [
+    {
+      "added_at": "2026-07-03 04:00:32",
+      "album": {
+        "name": "High Five",
+        "url": "https://open.spotify.com/album/440UBvtxJWED7EcuT3Vw0x"
+      },
+      "artists": [
+        {
+          "name": "James 'PJ' Spraggins",
+          "url": "https://open.spotify.com/artist/5uOh9FFj1NoL3n4tbS6lyV"
+        },
+        {
+          "name": "Kelley Oneal",
+          "url": "https://open.spotify.com/artist/5BUoEMqf9Tl885uNvGqOcG"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/5ywdA7l8O1bZKMz4LJK7Pi"
+    },
     {
       "added_at": "2026-06-12 04:00:20",
       "album": {
@@ -1775,22 +1795,6 @@
       "duration_ms": 136695,
       "name": "Do You Really Trust Yourself",
       "url": "https://open.spotify.com/track/5clox4JjNfESuyBpyZTXqx"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Slo Jam",
-        "url": "https://open.spotify.com/album/4SAoXnz4DCmySmIL3zdUy6"
-      },
-      "artists": [
-        {
-          "name": "kcvibes",
-          "url": "https://open.spotify.com/artist/08jmaxbo2cTgTqQgBN7MQZ"
-        }
-      ],
-      "duration_ms": 201231,
-      "name": "Slo Jam",
-      "url": "https://open.spotify.com/track/2YjGlENEEurq5Pd6mCl1tJ"
     }
   ],
   "unique_name": "New Smooth Jazz",

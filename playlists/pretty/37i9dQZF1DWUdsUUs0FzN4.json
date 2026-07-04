@@ -1,6 +1,6 @@
 {
   "description": "bailando en el antro con Karlo hasta el amanecer ",
-  "num_followers": 24485,
+  "num_followers": 24484,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
@@ -255,34 +255,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "Otra Cosa",
-        "url": "https://open.spotify.com/album/3QLasL9GBu5vdVmk8hnt1c"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "LOOJAN",
-          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
-        },
-        {
-          "name": "Martinwhite",
-          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
-        },
-        {
-          "name": "Santiago Berrio",
-          "url": "https://open.spotify.com/artist/3poRvxocbLlXT9rER89tAs"
-        }
-      ],
-      "duration_ms": 132923,
-      "name": "Otra Cosa",
-      "url": "https://open.spotify.com/track/1CZE56TyhNwIffdDr4GyCC"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "Bendecido",
         "url": "https://open.spotify.com/album/0Jd73PdKqfSHavt7gU9PCQ"
       },
@@ -315,6 +287,34 @@
       "duration_ms": 199846,
       "name": "la vuelta",
       "url": "https://open.spotify.com/track/1u41eVZyEYWh1FxzPS55mD"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "Otra Cosa",
+        "url": "https://open.spotify.com/album/3QLasL9GBu5vdVmk8hnt1c"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        },
+        {
+          "name": "Santiago Berrio",
+          "url": "https://open.spotify.com/artist/3poRvxocbLlXT9rER89tAs"
+        }
+      ],
+      "duration_ms": 132923,
+      "name": "Otra Cosa",
+      "url": "https://open.spotify.com/track/1CZE56TyhNwIffdDr4GyCC"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -375,26 +375,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "FR\u00cdO",
-        "url": "https://open.spotify.com/album/1TLTudCTEvRM8pnyGQT5qu"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "Alanis Yuki",
-          "url": "https://open.spotify.com/artist/78wDefnHex943QL32ggbx6"
-        }
-      ],
-      "duration_ms": 142173,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/56njQssbrZ77sYzmNWRE0e"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "Ya no te quiero ver",
         "url": "https://open.spotify.com/album/1cZiPR4BvIiTr0x9P0zzP8"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 213555,
       "name": "Ya no te quiero ver",
       "url": "https://open.spotify.com/track/2DByHCKGgd1J66nJvChvtl"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "FR\u00cdO",
+        "url": "https://open.spotify.com/album/1TLTudCTEvRM8pnyGQT5qu"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "Alanis Yuki",
+          "url": "https://open.spotify.com/artist/78wDefnHex943QL32ggbx6"
+        }
+      ],
+      "duration_ms": 142173,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/56njQssbrZ77sYzmNWRE0e"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "Explicaci\u00f3n",
-        "url": "https://open.spotify.com/album/2nJGIhn24efI0YQVCvAxDp"
-      },
-      "artists": [
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        },
-        {
-          "name": "PBJ",
-          "url": "https://open.spotify.com/artist/4dkYg7BkqHtFtAYb5JsDsP"
-        }
-      ],
-      "duration_ms": 162980,
-      "name": "Explicaci\u00f3n",
-      "url": "https://open.spotify.com/track/3EmPNpenfX19hm2eIBIsoe"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "NO LO ENtENDER\u00cdAS!",
         "url": "https://open.spotify.com/album/3LFli0vb9jOAyL3cxknDak"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 148928,
       "name": "OBVIAMENTE!",
       "url": "https://open.spotify.com/track/1w53VeDC57O0jNw7Hfb9Q7"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "Explicaci\u00f3n",
+        "url": "https://open.spotify.com/album/2nJGIhn24efI0YQVCvAxDp"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        },
+        {
+          "name": "PBJ",
+          "url": "https://open.spotify.com/artist/4dkYg7BkqHtFtAYb5JsDsP"
+        }
+      ],
+      "duration_ms": 162980,
+      "name": "Explicaci\u00f3n",
+      "url": "https://open.spotify.com/track/3EmPNpenfX19hm2eIBIsoe"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
+        "name": "ai nostalgia",
+        "url": "https://open.spotify.com/album/1lzvc6Q7bjThtfFjP4J5PE"
+      },
+      "artists": [
+        {
+          "name": "iuky",
+          "url": "https://open.spotify.com/artist/0DSyNVb6qcsOmbTTN1Yzs9"
+        }
+      ],
+      "duration_ms": 138559,
+      "name": "superloved!",
+      "url": "https://open.spotify.com/track/24LSHVR39KTK8Y0kQngmBv"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
         "name": "Todav\u00eda No",
         "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 245669,
       "name": "Todav\u00eda No",
       "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "ai nostalgia",
-        "url": "https://open.spotify.com/album/1lzvc6Q7bjThtfFjP4J5PE"
-      },
-      "artists": [
-        {
-          "name": "iuky",
-          "url": "https://open.spotify.com/artist/0DSyNVb6qcsOmbTTN1Yzs9"
-        }
-      ],
-      "duration_ms": 138559,
-      "name": "superloved!",
-      "url": "https://open.spotify.com/track/24LSHVR39KTK8Y0kQngmBv"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1167,6 +1167,26 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
+        "name": "ROKALETA!",
+        "url": "https://open.spotify.com/album/0lvjK0WwoO0eKXScQaPQlI"
+      },
+      "artists": [
+        {
+          "name": "RIXXIA",
+          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
+        },
+        {
+          "name": "RIVVAA",
+          "url": "https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5"
+        }
+      ],
+      "duration_ms": 168058,
+      "name": "ROKALETA!",
+      "url": "https://open.spotify.com/track/0lt39TTaP09rUJspqQxvQa"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
         "name": "La Ocasi\u00f3n",
         "url": "https://open.spotify.com/album/1b31iLB0KUcUq9NCtHPu6V"
       },
@@ -1187,26 +1207,6 @@
       "duration_ms": 157464,
       "name": "La Ocasi\u00f3n",
       "url": "https://open.spotify.com/track/3iIeSkdQB6mXQ8HUGhkZgU"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
-        "name": "ROKALETA!",
-        "url": "https://open.spotify.com/album/0lvjK0WwoO0eKXScQaPQlI"
-      },
-      "artists": [
-        {
-          "name": "RIXXIA",
-          "url": "https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn"
-        },
-        {
-          "name": "RIVVAA",
-          "url": "https://open.spotify.com/artist/1EJ9teYCbzR1V2uGOaqzK5"
-        }
-      ],
-      "duration_ms": 168058,
-      "name": "ROKALETA!",
-      "url": "https://open.spotify.com/track/0lt39TTaP09rUJspqQxvQa"
     },
     {
       "added_at": "2026-06-26 06:00:38",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-06-26 06:00:38",
       "album": {
-        "name": "Par\u00eds (Junto a Ti)",
-        "url": "https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "Par\u00eds (Junto a Ti)",
-      "url": "https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1"
-    },
-    {
-      "added_at": "2026-06-26 06:00:38",
-      "album": {
         "name": "ENTE VIRTUAL",
         "url": "https://open.spotify.com/album/0b99jXx0r365IFJFdsaf6I"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 173400,
       "name": "Pens\u00e1ndote",
       "url": "https://open.spotify.com/track/5vdtdW6gXrJKzHQZp5CICO"
+    },
+    {
+      "added_at": "2026-06-26 06:00:38",
+      "album": {
+        "name": "Par\u00eds (Junto a Ti)",
+        "url": "https://open.spotify.com/album/1qcti4BO471pTYWMFzS7J3"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "Par\u00eds (Junto a Ti)",
+      "url": "https://open.spotify.com/track/60OhKzwpGr8zNuMij0mbk1"
     },
     {
       "added_at": "2026-06-26 06:00:38",

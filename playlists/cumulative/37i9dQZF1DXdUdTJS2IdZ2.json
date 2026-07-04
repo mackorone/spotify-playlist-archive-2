@@ -22495,24 +22495,6 @@
     },
     {
       "album": {
-        "name": "WHAT'S THE POINT",
-        "url": "https://open.spotify.com/album/579Do65Kg2oJGN3KwPVIcN"
-      },
-      "artists": [
-        {
-          "name": "LAYYI",
-          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
-        }
-      ],
-      "date_added": "2026-07-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/0GSQngd31eW9efro6XrJNA"
-    },
-    {
-      "album": {
         "name": "TRACK D",
         "url": "https://open.spotify.com/album/1garuMkV5LtsyoPJ9DifbB"
       },
@@ -23840,6 +23822,24 @@
       "duration_ms": 155904,
       "name": "What You Gon Do \u4f60\u8be5\u600e\u4e48\u529e",
       "url": "https://open.spotify.com/track/2ILasPbLhnkUQ267mTaMbN"
+    },
+    {
+      "album": {
+        "name": "WHAT'S THE POINT",
+        "url": "https://open.spotify.com/album/579Do65Kg2oJGN3KwPVIcN"
+      },
+      "artists": [
+        {
+          "name": "LAYYI",
+          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157037,
+      "name": "WHAT'S THE POINT",
+      "url": "https://open.spotify.com/track/0GSQngd31eW9efro6XrJNA"
     },
     {
       "album": {

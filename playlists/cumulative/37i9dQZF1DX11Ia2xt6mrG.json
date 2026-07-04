@@ -45,6 +45,32 @@
     },
     {
       "album": {
+        "name": "+ (P\u00e9gate)",
+        "url": "https://open.spotify.com/album/5HOk8T09vl9OkFKW2Z1usW"
+      },
+      "artists": [
+        {
+          "name": "Mark Cast",
+          "url": "https://open.spotify.com/artist/7o1RnLhpTffmSY3znC9WJ1"
+        },
+        {
+          "name": "Bante",
+          "url": "https://open.spotify.com/artist/4AUecIjIQVp9N21mVvi2mj"
+        },
+        {
+          "name": "Chris Fr\u00edas",
+          "url": "https://open.spotify.com/artist/5lA7vZCZmYEIw2SBcy8Dxx"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "+ (P\u00e9gate)",
+      "url": "https://open.spotify.com/track/5QkrXCbEBoks6FBEJJThaA"
+    },
+    {
+      "album": {
         "name": "123 HYPE!!!",
         "url": "https://open.spotify.com/album/2wCOagrfilkWKnlzukDI9r"
       },
@@ -404,7 +430,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 193846,
       "name": "Ancara Messi",
       "url": "https://open.spotify.com/track/1aQS0CQAONJqpO2zZi0ZSr"
@@ -1368,7 +1394,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 151680,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/6OMiBOznxQaUbNUWGWrvFv"
@@ -7086,6 +7112,36 @@
       "duration_ms": 166956,
       "name": "Polos Opuestos",
       "url": "https://open.spotify.com/track/4MV1iXML2gwkk4haby8ygZ"
+    },
+    {
+      "album": {
+        "name": "pAL_veranito.mp3",
+        "url": "https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "pongo remix (feat. Rvssian, Rauw Alejandro & Wizkid)",
+      "url": "https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x"
     },
     {
       "album": {

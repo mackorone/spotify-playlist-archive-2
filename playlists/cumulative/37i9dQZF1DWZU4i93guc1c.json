@@ -1709,60 +1709,6 @@
     },
     {
       "album": {
-        "name": "\u0422\u0438\u0433\u0440\u043e\u043b\u043e\u0432\u0438",
-        "url": "https://open.spotify.com/album/0YPhuzPuIdNC1k8xI4L1UD"
-      },
-      "artists": [
-        {
-          "name": "Aircraft",
-          "url": "https://open.spotify.com/artist/6lXlMyoAYN845deOonN7Q0"
-        }
-      ],
-      "date_added": "2026-07-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/1xKHKVB63j2t6qdnU1o6la"
-    },
-    {
-      "album": {
-        "name": "\u041b\u0456\u043c\u0435\u0440\u0435\u043d\u0446\u0456\u044f",
-        "url": "https://open.spotify.com/album/7C5gLSpEUktobRjo19eSdf"
-      },
-      "artists": [
-        {
-          "name": "POPIL",
-          "url": "https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he"
-        }
-      ],
-      "date_added": "2026-07-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/0dArIpepE9oNWD5AaYEwbu"
-    },
-    {
-      "album": {
-        "name": "\u041c\u0435\u0442\u0435\u043b\u0438\u043a\u0438",
-        "url": "https://open.spotify.com/album/3p1Dzyer3DtJ5cb6ROUiDd"
-      },
-      "artists": [
-        {
-          "name": "mercurikill",
-          "url": "https://open.spotify.com/artist/2TlE3Qe38b9xHDrjTkO2Kl"
-        }
-      ],
-      "date_added": "2026-07-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/11jHxfLyRMFljo0usU3CCS"
-    },
-    {
-      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/0C7ONMoxtbn9bJmEQlx1vw"
       },
@@ -2080,7 +2026,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 168000,
       "name": "\u0430\u0432\u0430\u043b\u043e\u043d",
       "url": "https://open.spotify.com/track/1hgWG8gZMFICHirqr3LB5Q"
@@ -3724,6 +3670,24 @@
       "duration_ms": 188719,
       "name": "\u0413\u0430\u0440\u044f\u0447\u0430 \u041b\u0456\u043d\u0456\u044f",
       "url": "https://open.spotify.com/track/33y0CASQGQrFGsaKbCjL6Z"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0438\u0433\u0440\u043e\u043b\u043e\u0432\u0438",
+        "url": "https://open.spotify.com/album/0YPhuzPuIdNC1k8xI4L1UD"
+      },
+      "artists": [
+        {
+          "name": "Aircraft",
+          "url": "https://open.spotify.com/artist/6lXlMyoAYN845deOonN7Q0"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224451,
+      "name": "\u0413\u0430\u044e \u0427\u0430\u0441",
+      "url": "https://open.spotify.com/track/1xKHKVB63j2t6qdnU1o6la"
     },
     {
       "album": {
@@ -6722,7 +6686,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 123974,
       "name": "\u041b\u044e",
       "url": "https://open.spotify.com/track/2JYssUgcMqmlZO5VMkQNdq"
@@ -7400,6 +7364,24 @@
       "duration_ms": 155000,
       "name": "\u041c\u0435\u0442\u0435\u043b\u0438\u043a, \u043b\u0435\u0442\u0438",
       "url": "https://open.spotify.com/track/5Gv1cYDAXvMyupCja1UHyW"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0435\u0442\u0435\u043b\u0438\u043a\u0438",
+        "url": "https://open.spotify.com/album/3p1Dzyer3DtJ5cb6ROUiDd"
+      },
+      "artists": [
+        {
+          "name": "mercurikill",
+          "url": "https://open.spotify.com/artist/2TlE3Qe38b9xHDrjTkO2Kl"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100173,
+      "name": "\u041c\u0435\u0442\u0435\u043b\u0438\u043a\u0438",
+      "url": "https://open.spotify.com/track/11jHxfLyRMFljo0usU3CCS"
     },
     {
       "album": {
@@ -9960,6 +9942,24 @@
       "duration_ms": 190970,
       "name": "\u041f\u043e \u043a\u043e\u043b\u0443",
       "url": "https://open.spotify.com/track/6QEFjqybF3b0SKQaiJA2hl"
+    },
+    {
+      "album": {
+        "name": "\u041b\u0456\u043c\u0435\u0440\u0435\u043d\u0446\u0456\u044f",
+        "url": "https://open.spotify.com/album/7C5gLSpEUktobRjo19eSdf"
+      },
+      "artists": [
+        {
+          "name": "POPIL",
+          "url": "https://open.spotify.com/artist/24aU0N7zrhEXFJkl48F1he"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238288,
+      "name": "\u041f\u043e\u0432\u0435\u0440\u0442\u0430\u0442\u0438\u0441\u044c",
+      "url": "https://open.spotify.com/track/0dArIpepE9oNWD5AaYEwbu"
     },
     {
       "album": {

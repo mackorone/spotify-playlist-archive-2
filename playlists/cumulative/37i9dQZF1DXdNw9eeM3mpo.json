@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "100% ska en espa\u00f1ol. Vicente Cifuentes y Joselo Osses en portada.",
+  "description": "100% ska en espa\u00f1ol. Los Calzones en portada.",
   "name": "Ska Latino ",
   "tracks": [
     {
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 190580,
       "name": "Caras y Caretas",
       "url": "https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O"
@@ -1124,6 +1124,24 @@
       "duration_ms": 329026,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/0udUVjtkBzlCvZcfcYQzS4"
+    },
+    {
+      "album": {
+        "name": "Combativo",
+        "url": "https://open.spotify.com/album/5AoXmqZUAQM1ahgEmSlt3b"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194315,
+      "name": "Combativo",
+      "url": "https://open.spotify.com/track/4M35ty1GY7heFrHhgMqXzP"
     },
     {
       "album": {
@@ -2528,7 +2546,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 167128,
       "name": "Este Ritmo",
       "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
@@ -2768,7 +2786,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 241306,
       "name": "Fuera de Control - En Vivo",
       "url": "https://open.spotify.com/track/1XRXgTDztVIYcgGY6iwEzd"
@@ -3244,7 +3262,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 196018,
       "name": "La Bacha",
       "url": "https://open.spotify.com/track/0uoCp44J9zDIp0YiU3Q9Gu"
@@ -3608,7 +3626,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 171693,
       "name": "La Manifestacion",
       "url": "https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9"
@@ -3876,6 +3894,24 @@
       "duration_ms": 227144,
       "name": "Living Comedor",
       "url": "https://open.spotify.com/track/2QHU3AYBtxfbFZn4Ms2uer"
+    },
+    {
+      "album": {
+        "name": "Lleva",
+        "url": "https://open.spotify.com/album/1BR4Osr3Z5BJ8bssSZS2Hj"
+      },
+      "artists": [
+        {
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214997,
+      "name": "Lleva",
+      "url": "https://open.spotify.com/track/1vqNsN90UbNY7oyIF9VGBn"
     },
     {
       "album": {
@@ -7660,10 +7696,28 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 175434,
       "name": "Todo Crazy",
       "url": "https://open.spotify.com/track/00xO4aLAM1baaX7HX3y1Dw"
+    },
+    {
+      "album": {
+        "name": "Todo Lo Que Sube",
+        "url": "https://open.spotify.com/album/6IbyN4aEkhnapmICyDajvl"
+      },
+      "artists": [
+        {
+          "name": "LaNuestra",
+          "url": "https://open.spotify.com/artist/5BwGhYFDQSAfXkSSFGAPkC"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Todo Lo Que Sube",
+      "url": "https://open.spotify.com/track/26hHZPHrNp12BTrq430u78"
     },
     {
       "album": {
@@ -8241,6 +8295,24 @@
     },
     {
       "album": {
+        "name": "Viernes",
+        "url": "https://open.spotify.com/album/0n7xEqwDiExRMpa0fcDNZY"
+      },
+      "artists": [
+        {
+          "name": "Gallo Rojo",
+          "url": "https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182685,
+      "name": "Viernes",
+      "url": "https://open.spotify.com/track/59WXiEW01y6F99VhmLfodS"
+    },
+    {
+      "album": {
         "name": "Vira-Lata",
         "url": "https://open.spotify.com/album/4Wy6qLOygnSQ6MGKHqNC0Z"
       },
@@ -8339,6 +8411,24 @@
     },
     {
       "album": {
+        "name": "VOY DE NUEVO",
+        "url": "https://open.spotify.com/album/5PZ6IrrJSrF1u1DtjX49O8"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158122,
+      "name": "VOY DE NUEVO",
+      "url": "https://open.spotify.com/track/3cfXsdfx4P5qDZMUn5euy0"
+    },
+    {
+      "album": {
         "name": "Latin Ska Force",
         "url": "https://open.spotify.com/album/0nqw5cvwdXNtyGv0H9WEDt"
       },
@@ -8406,6 +8496,28 @@
       "duration_ms": 225826,
       "name": "Y Que",
       "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
+    },
+    {
+      "album": {
+        "name": "Y Te Aprovechas",
+        "url": "https://open.spotify.com/album/66wBwAxoEJ2unPLW8zluEA"
+      },
+      "artists": [
+        {
+          "name": "Baby Aventurero",
+          "url": "https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/1Fo5k1osxJ1VG92yHXMkxL"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208909,
+      "name": "Y Te Aprovechas",
+      "url": "https://open.spotify.com/track/7wvzKAujTdye9Elv6lySCJ"
     },
     {
       "album": {

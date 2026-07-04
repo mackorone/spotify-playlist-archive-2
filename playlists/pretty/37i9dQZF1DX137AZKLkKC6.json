@@ -1,13 +1,33 @@
 {
-  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Con Sebasti\u00e1n Ayala y Jhonny Rivera en portada.",
-  "num_followers": 269513,
+  "description": "Las grandes del Despecho y el G\u00e9nero Popular. Con Luis Alfonso y Piso 21 en portada.",
+  "num_followers": 269545,
   "original_name": "La + Popular",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF60x383PT+xDNDpIkGVQK+YyWSF",
+  "snapshot_id": "AAAAAJIHXaOeb0y4jwReLbmFWrcUaWV/",
   "tracks": [
+    {
+      "added_at": "2026-07-03 04:59:22",
+      "album": {
+        "name": "D\u00e9jame Entrar",
+        "url": "https://open.spotify.com/album/73HVb8XPSHInVgAds4YBUt"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        },
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 171439,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/3U0v6ZLymzqPNgPP8jwaF1"
+    },
     {
       "added_at": "2026-06-19 04:59:05",
       "album": {

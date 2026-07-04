@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Eslabon Armado en portada.\n",
+  "description": "guitarras ag\u00fcitadas pa' cantarle al amor y al desamor \ud83d\udc94\ud83d\ude41 Adrian L Santos y T3R Elemento en portada.\n",
   "name": "sad sierre\u00f1o",
   "tracks": [
     {
@@ -488,6 +488,24 @@
       "duration_ms": 194275,
       "name": "Al No Tenerte",
       "url": "https://open.spotify.com/track/5TOSj4RD0DP9ntUD4ng3p1"
+    },
+    {
+      "album": {
+        "name": "ALL THE THINGS SHE SAID",
+        "url": "https://open.spotify.com/album/3FCtH80ntWTVqDYkDsbfSm"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215114,
+      "name": "ALL THE THINGS SHE SAID",
+      "url": "https://open.spotify.com/track/2hlaYHZUhF9yYqo1o71h4X"
     },
     {
       "album": {
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 161368,
       "name": "cienmilkilos",
       "url": "https://open.spotify.com/track/1iWUXJAiffOM422L1SCB4K"
@@ -6322,7 +6340,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 171176,
       "name": "Mr. Lonely",
       "url": "https://open.spotify.com/track/3YT3IRkNg5MASgmQTo2l8R"
@@ -7366,7 +7384,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 246357,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/7CdoGE5Kprr9nFiYLMivrf"
@@ -10107,6 +10125,24 @@
     },
     {
       "album": {
+        "name": "Tanto Dolor",
+        "url": "https://open.spotify.com/album/2aScIzD3NiJHrdvxSm1vQk"
+      },
+      "artists": [
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240597,
+      "name": "Tanto Dolor",
+      "url": "https://open.spotify.com/track/59sxYBYwmm0q9HYwwYA5nT"
+    },
+    {
+      "album": {
         "name": "TBT",
         "url": "https://open.spotify.com/album/0VVBEKAI3GHTim1prz7ZMS"
       },
@@ -12018,6 +12054,28 @@
       "duration_ms": 262310,
       "name": "Ya No Est\u00e1s",
       "url": "https://open.spotify.com/track/60nOmFyaDvEeb8v8D6Y6gx"
+    },
+    {
+      "album": {
+        "name": "Ya No Me Duele Tanto",
+        "url": "https://open.spotify.com/album/0gWb3xqFfk27f5emLC111j"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        },
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169537,
+      "name": "Ya No Me Duele Tanto",
+      "url": "https://open.spotify.com/track/0iNIe5802Xv0U5S7yxKNA1"
     },
     {
       "album": {

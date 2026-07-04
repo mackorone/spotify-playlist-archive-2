@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 185694,
+  "num_followers": 185718,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -127,18 +127,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Sarah",
-        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
+        "name": "O Dom da Vida",
+        "url": "https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG"
       },
       "artists": [
         {
-          "name": "Sarah Oliveira",
-          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
+          "name": "Fabi Oliveira",
+          "url": "https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp"
+        },
+        {
+          "name": "Carol Oliveira",
+          "url": "https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe"
         }
       ],
-      "duration_ms": 172480,
-      "name": "Deus Est\u00e1 No Controle",
-      "url": "https://open.spotify.com/track/6ycM0D2SAlyxwl40Y10AlZ"
+      "duration_ms": 228000,
+      "name": "O Dom da Vida",
+      "url": "https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -159,22 +163,18 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "O Dom da Vida",
-        "url": "https://open.spotify.com/album/2xMHnMhpOtkx98lntR8SbG"
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
       },
       "artists": [
         {
-          "name": "Fabi Oliveira",
-          "url": "https://open.spotify.com/artist/1zV1AexfyOs2uWahMc7wSp"
-        },
-        {
-          "name": "Carol Oliveira",
-          "url": "https://open.spotify.com/artist/5e4zMhIzmAQBMv6nCzMNIe"
+          "name": "Sarah Oliveira",
+          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
         }
       ],
-      "duration_ms": 228000,
-      "name": "O Dom da Vida",
-      "url": "https://open.spotify.com/track/4Qj5S80XSf4JihF2IebtVG"
+      "duration_ms": 172480,
+      "name": "Deus Est\u00e1 No Controle",
+      "url": "https://open.spotify.com/track/6ycM0D2SAlyxwl40Y10AlZ"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -207,22 +207,6 @@
       "duration_ms": 257586,
       "name": "Far\u00e1 Outra Vez",
       "url": "https://open.spotify.com/track/18Z4Wpr3NlbTM572Btu3qa"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Sarah",
-        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
-      },
-      "artists": [
-        {
-          "name": "Sarah Oliveira",
-          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
-        }
-      ],
-      "duration_ms": 333746,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -263,6 +247,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
+      },
+      "artists": [
+        {
+          "name": "Sarah Oliveira",
+          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
+        }
+      ],
+      "duration_ms": 333746,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Laborat\u00f3rio Do Groove",
         "url": "https://open.spotify.com/album/1h9kmu7im7RoAwJ5NwiFem"
       },
@@ -295,22 +295,6 @@
       "duration_ms": 397762,
       "name": "Tudo Posso",
       "url": "https://open.spotify.com/track/4UEfjgS7wC89PGIP2XFGzP"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Sarah",
-        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
-      },
-      "artists": [
-        {
-          "name": "Sarah Oliveira",
-          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
-        }
-      ],
-      "duration_ms": 212240,
-      "name": "Eu Sou De Jesus",
-      "url": "https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -351,6 +335,22 @@
       "duration_ms": 332160,
       "name": "Sossegai - Ao Vivo",
       "url": "https://open.spotify.com/track/6iZdTEd3zJ8UpO6hFQMvTG"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H"
+      },
+      "artists": [
+        {
+          "name": "Sarah Oliveira",
+          "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
+        }
+      ],
+      "duration_ms": 212240,
+      "name": "Eu Sou De Jesus",
+      "url": "https://open.spotify.com/track/7nMczhGdlDHc4a3CBu6t7N"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -519,18 +519,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Luz - Parte 1",
-        "url": "https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX"
+        "name": "Luz - Parte 2",
+        "url": "https://open.spotify.com/album/2tdSId5wIGiu4xmvUSuNWa"
       },
       "artists": [
         {
           "name": "Thalles Roberto",
           "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        },
+        {
+          "name": "Coral Black To Black",
+          "url": "https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC"
         }
       ],
-      "duration_ms": 221193,
-      "name": "Zanzando",
-      "url": "https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr"
+      "duration_ms": 298787,
+      "name": "Ele vem (feat. Coral Black To Black)",
+      "url": "https://open.spotify.com/track/05qebGDq1nIgunyCj3W5Ey"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -603,38 +607,18 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
-        "name": "Luz - Parte 2",
-        "url": "https://open.spotify.com/album/2tdSId5wIGiu4xmvUSuNWa"
+        "name": "Luz - Parte 1",
+        "url": "https://open.spotify.com/album/1gobDPGHKYfG2yFf3jlCRX"
       },
       "artists": [
         {
           "name": "Thalles Roberto",
           "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
-        },
-        {
-          "name": "Coral Black To Black",
-          "url": "https://open.spotify.com/artist/70l6zlqQSQ7ldQ5eoyLuEC"
         }
       ],
-      "duration_ms": 298787,
-      "name": "Ele vem (feat. Coral Black To Black)",
-      "url": "https://open.spotify.com/track/05qebGDq1nIgunyCj3W5Ey"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Eu Vou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7BwR0SwGwuCPoyO1fD0yX0"
-      },
-      "artists": [
-        {
-          "name": "ONE Service",
-          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
-        }
-      ],
-      "duration_ms": 220786,
-      "name": "Eu Vou - Ao Vivo",
-      "url": "https://open.spotify.com/track/7ENkZ79SYi2boALhzp4NFB"
+      "duration_ms": 221193,
+      "name": "Zanzando",
+      "url": "https://open.spotify.com/track/48hX8UdgWHuTcvamPbYDqr"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -659,6 +643,22 @@
       "duration_ms": 269714,
       "name": "Ele Me Amou",
       "url": "https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
+        "name": "Eu Vou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7BwR0SwGwuCPoyO1fD0yX0"
+      },
+      "artists": [
+        {
+          "name": "ONE Service",
+          "url": "https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP"
+        }
+      ],
+      "duration_ms": 220786,
+      "name": "Eu Vou - Ao Vivo",
+      "url": "https://open.spotify.com/track/7ENkZ79SYi2boALhzp4NFB"
     },
     {
       "added_at": "2026-06-12 03:01:51",

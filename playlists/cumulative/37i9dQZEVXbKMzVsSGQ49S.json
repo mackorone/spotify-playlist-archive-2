@@ -4554,7 +4554,7 @@
       ],
       "date_added": "2026-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -14380,7 +14380,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -18034,7 +18034,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 246874,
       "name": "Fallegur dagur",
       "url": "https://open.spotify.com/track/0VUH43O5GBZDsVuphW1IAQ"
@@ -32476,7 +32476,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 206812,
       "name": "LAS \u00c1 MILLI L\u00cdNANNA",
       "url": "https://open.spotify.com/track/4bVRfUL52xfL8Yh9W5mgSp"
@@ -53050,7 +53050,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -59837,6 +59837,28 @@
     },
     {
       "album": {
+        "name": "Undir bleikum himni",
+        "url": "https://open.spotify.com/album/58lUhoKhdlrtqIkic79Yx8"
+      },
+      "artists": [
+        {
+          "name": "Ey\u00fe\u00f3r W\u00f6hler",
+          "url": "https://open.spotify.com/artist/3p4wDJw74esi6V7GsAk27b"
+        },
+        {
+          "name": "Logi Pedro",
+          "url": "https://open.spotify.com/artist/1FiwIhKqE7vKkRLj1Ict4H"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155478,
+      "name": "Undir bleikum himni",
+      "url": "https://open.spotify.com/track/3GgKYXWWeV2adbGUqc3Bo5"
+    },
+    {
+      "album": {
         "name": "SNZ",
         "url": "https://open.spotify.com/album/3QFCLaBEfCRQTbDGn0fVAr"
       },
@@ -65656,7 +65678,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 199505,
       "name": "\u00c9g er farinn",
       "url": "https://open.spotify.com/track/78WfDuDCfJzUhOiD9vzsIf"
@@ -66388,7 +66410,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 214000,
       "name": "\u00d3 elsku \u00dej\u00f3\u00f0h\u00e1t\u00ed\u00f0",
       "url": "https://open.spotify.com/track/4qKYw6OL6eBlmKDau5NPWS"
@@ -66872,7 +66894,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 189197,
       "name": "\u00deA\u00d0 ER",
       "url": "https://open.spotify.com/track/4cNNvGljdj1Y8dithkD6XR"
@@ -66908,7 +66930,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 286348,
       "name": "\u00dea\u00f0 er gott a\u00f0 elska",
       "url": "https://open.spotify.com/track/6I8wic0mBs7uEvwiCTOTlt"

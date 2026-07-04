@@ -380,7 +380,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 246265,
       "name": "Black Patterns",
       "url": "https://open.spotify.com/track/4EK267kkQX5ZegOGukcYmm"
@@ -4582,6 +4582,24 @@
       "duration_ms": 116166,
       "name": "waxed & sealed",
       "url": "https://open.spotify.com/track/5cYSLRDc9jRWaPfxcR5LjJ"
+    },
+    {
+      "album": {
+        "name": "Way Back",
+        "url": "https://open.spotify.com/album/32VUBvZqb4fVLPpj4TuUbS"
+      },
+      "artists": [
+        {
+          "name": "Bella Ora",
+          "url": "https://open.spotify.com/artist/5t9ptsHIO1pxuSTESz14df"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158415,
+      "name": "Way Back",
+      "url": "https://open.spotify.com/track/0oLlzWApQnhOjpi52CT9Y2"
     },
     {
       "album": {

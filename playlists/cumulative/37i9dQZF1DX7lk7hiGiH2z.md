@@ -4,14 +4,15 @@
 
 > Sommerferien, Eis in der Hand und ganz viel Badespaß!
 
-496 songs - 23 hr 8 min
+497 songs - 23 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1,2,3 im Sauseschritt \(feat\. Detlev Jöcker & Sarah Schiffer\) \- Bauernhof Version](https://open.spotify.com/track/55yKBlLIGnBj1zW1fDqVYV) | [Der singende Bauernhof](https://open.spotify.com/artist/1phaLooaZs3k7XOl7mCKeo), [Detlev Jöcker](https://open.spotify.com/artist/4UiTe5uwHKDUddmV8yQeY4), [Sarah Schiffer](https://open.spotify.com/artist/3Lc3iBAHvaR0LVKVF881oP) | [Sommer auf dem singenden Bauernhof](https://open.spotify.com/album/5ULQfQ92DZp1mX1AkRmA4f) | 2:14 | 2023-08-04 | 2023-09-01 |
 | [24 Türchen](https://open.spotify.com/track/3BXBI1g61AtNE0xIhJ6ONE) | [Familie Sonntag](https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR) | [Unsere schönsten Weihnachtslieder](https://open.spotify.com/album/1Bs8R1MlRykYywXeH0dEvJ) | 3:31 | 2023-11-14 | 2024-12-05 |
 | [A, B, C, das Häschen sitzt im Klee](https://open.spotify.com/track/1oFKQ9dnl9tgAXok64HZ4E) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Oster\- und Frühlingslieder](https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi) | 2:17 | 2024-03-01 | 2026-06-03 |
-| [Ab in den Urlaub](https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für den Urlaub \- EP](https://open.spotify.com/album/73hrF5ImI2miqjrzQlk3J0) | 2:06 | 2024-06-07 |  |
+| [Ab in den Urlaub](https://open.spotify.com/track/1iGU9C4NYoIzrtMVrOvPeA) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Meine Lieblingskinderlieder](https://open.spotify.com/album/5OZ0HZZkWb2DiHf1sjNanb) | 2:06 | 2026-07-03 |  |
+| [Ab in den Urlaub](https://open.spotify.com/track/7vQrNHZjGHQqrsXpCSXh89) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für den Urlaub \- EP](https://open.spotify.com/album/73hrF5ImI2miqjrzQlk3J0) | 2:06 | 2024-06-07 | 2026-07-04 |
 | [Ab zum Meer / Към морето](https://open.spotify.com/track/1mTbOFrGaEaLA9RwXV1EB7) | [Team Karacho](https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR), [Senta](https://open.spotify.com/artist/7uVDfCKp96l3xCHFYf39vU) | [Ab zum Meer / Към морето](https://open.spotify.com/album/62ZBqsYXJUUVvKJ7lbPkxg) | 1:59 | 2025-06-02 |  |
 | [Abends, wenn es dunkel wird](https://open.spotify.com/track/4gkkfbLfHnqPprH5ym6HhZ) | [Kati Breuer](https://open.spotify.com/artist/3vgsqpOJq62z2UjnRO2liy) | [Sankt Martin ritt durch Schnee und Wind \- Die 25 schönsten Laternenlieder](https://open.spotify.com/album/1WqaJkBlsb8fEz7xAI2P5Y) | 3:05 | 2023-11-05 | 2025-11-15 |
 | [Abrakadabra](https://open.spotify.com/track/0KpZtDCGTHDZtzWILKm7bO) | [herrH](https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ) | [Meine Mütze und Ich](https://open.spotify.com/album/6vSRPCkAhubRtCVxCR30R5) | 3:28 | 2024-10-21 | 2025-11-04 |

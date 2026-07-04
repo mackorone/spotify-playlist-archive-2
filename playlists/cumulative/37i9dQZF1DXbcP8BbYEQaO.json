@@ -3718,7 +3718,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 213887,
       "name": "DON\u2019T YOU SEE ME TRYING?",
       "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
@@ -4042,7 +4042,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 202240,
       "name": "EDEN",
       "url": "https://open.spotify.com/track/1tm0wcb70ojuKjvFUo1Tsd"
@@ -4486,7 +4486,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 155848,
       "name": "Fall with Me",
       "url": "https://open.spotify.com/track/2vylf7rmqNdkIQkwTeAjnc"
@@ -6651,6 +6651,24 @@
     },
     {
       "album": {
+        "name": "HOW TO BE A LOVER",
+        "url": "https://open.spotify.com/album/0apMpMpEBEqdZj2X51ay62"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266103,
+      "name": "HOW TO BE A LOVER",
+      "url": "https://open.spotify.com/track/1xbP92TbLVfUlS2BtkTidi"
+    },
+    {
+      "album": {
         "name": "Human",
         "url": "https://open.spotify.com/album/5f1PQzjf5sGfcVrPCr9yBK"
       },
@@ -7940,7 +7958,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 202951,
       "name": "Keep M\u00f8ving",
       "url": "https://open.spotify.com/track/01P4zWU44Rsk4XIME4hsTd"
@@ -8835,6 +8853,24 @@
     },
     {
       "album": {
+        "name": "Love is a River",
+        "url": "https://open.spotify.com/album/02xQjuOzBOSqitEpP2sc7U"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Ryan",
+          "url": "https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192023,
+      "name": "Love is a River",
+      "url": "https://open.spotify.com/track/2EjyzHhiUd8guMdfJ20c6i"
+    },
+    {
+      "album": {
         "name": "LOVE IS A...",
         "url": "https://open.spotify.com/album/4t2uQMc6hW16fiIAY1Cx2K"
       },
@@ -9324,6 +9360,24 @@
       "duration_ms": 206653,
       "name": "Mathematics",
       "url": "https://open.spotify.com/track/0LGyz7yfuD5ttvy7kOcEKp"
+    },
+    {
+      "album": {
+        "name": "Maze",
+        "url": "https://open.spotify.com/album/0SKsEbiIcf5p48T9q5drmw"
+      },
+      "artists": [
+        {
+          "name": "Vera Blue",
+          "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217586,
+      "name": "Maze",
+      "url": "https://open.spotify.com/track/26RvvjRGW1XHfGfrAgHKdw"
     },
     {
       "album": {
@@ -13297,6 +13351,24 @@
     },
     {
       "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/085BCn8A8f0RIVLiKvsJ3A"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214778,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/7hKd8osKVrmehhIx1FP6Lz"
+    },
+    {
+      "album": {
         "name": "Sunglasses At Night",
         "url": "https://open.spotify.com/album/7K28YTMpPAEEAP0oSrlOmi"
       },
@@ -13872,7 +13944,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"

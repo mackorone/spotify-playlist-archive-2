@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: BE:FIRST
 
-1,032 songs - 2 day 8 hr 2 min
+1,033 songs - 2 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -616,7 +616,7 @@
 | [Play Back](https://open.spotify.com/track/35vMXuNLXjIlOWvpVpx7gh) | [Ren Zotto](https://open.spotify.com/artist/01vosgL49wVuUILMj9K4zX), [Doppio Dropscythe](https://open.spotify.com/artist/5WwGFvg1ymGn0um34gY1Tu) | [Play Back](https://open.spotify.com/album/5yTCOHjGcPIfhArrvcIHVH) | 3:11 | 2024-06-12 | 2024-06-19 |
 | [PLAY BACK \- 『仮面ライダーゼッツ』主題歌](https://open.spotify.com/track/5Bd6eE8y5XlO7inQj16QuR) | [YUTA](https://open.spotify.com/artist/4WndMgZGitK4uQdKcmVHua) | [PLAY BACK \(『仮面ライダーゼッツ』主題歌\)](https://open.spotify.com/album/5HQBzhcl8zJ2JhyO4i3kJx) | 3:06 | 2026-05-12 | 2026-06-02 |
 | [PLAY THAT'24 \- ALAN ver.](https://open.spotify.com/track/1yJp6r67jyZx3cD7tYquUy) | [PKCZ\(R\)](https://open.spotify.com/artist/1Pzt7WyaiqfngZpWFA5Lts) | [Put Your Hearts Up, Everybody Jump Up](https://open.spotify.com/album/7oaukHyBhCaMkGeUaSYfDj) | 4:28 | 2024-06-04 | 2024-07-10 |
-| [PLEASE](https://open.spotify.com/track/7nF28VNC10CzMaSZfDHazu) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [PLEASE](https://open.spotify.com/album/4mr6CoQGOzPyB5i7D03AIO) | 2:42 | 2026-05-19 |  |
+| [PLEASE](https://open.spotify.com/track/7nF28VNC10CzMaSZfDHazu) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [PLEASE](https://open.spotify.com/album/4mr6CoQGOzPyB5i7D03AIO) | 2:42 | 2026-05-19 | 2026-07-04 |
 | [Please Stay](https://open.spotify.com/track/4E0cUMTCA2QlYZxQj4AcWh) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [BTODAY](https://open.spotify.com/album/6zL4ZHKGmKkzQktkjGOq1K) | 3:21 | 2025-06-02 | 2025-06-10 |
 | [plot twist \- Japanese ver.](https://open.spotify.com/track/5AzgeaSYAIU53pTFgw3G1h) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [plot twist \(Japanese ver.\)](https://open.spotify.com/album/6mJvNtf0v8a1g7xe3KLzSL) | 2:32 | 2025-05-19 | 2025-06-02 |
 | [Poet \| Artist](https://open.spotify.com/track/2cCoa7dwECGNlmLVV1Fgjf) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Poet \| Artist](https://open.spotify.com/album/2ZrLQa73Q3wW2SXZPkSVED) | 3:24 | 2025-05-26 | 2026-03-26 |
@@ -791,7 +791,7 @@
 | [TAKE A SHOT](https://open.spotify.com/track/1JTPqGG7hHzLsBWK6caGQz) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [TAKE A SHOT](https://open.spotify.com/album/06qgEuyha6pNcBJvglOGha) | 2:28 | 2025-09-18 | 2025-11-14 |
 | [TAKE IT BACK](https://open.spotify.com/track/2Xq5v9lRy6kxaLL3fJq4Fm) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [MUSi\-aM](https://open.spotify.com/album/5T7DFjBp74VsO5eHFT3Kie) | 2:22 | 2024-10-01 | 2024-11-13 |
 | [TALK TO ME NICE feat\. TAMP](https://open.spotify.com/track/4iS5v1tumGszKVPkxo1Yrt) | [PSYCHIC FEVER from EXILE TRIBE](https://open.spotify.com/artist/0PgE39BqM3dTVk5lyttaBb), [TAMP](https://open.spotify.com/artist/6DFcdAH3sXdGCQqy1KHc8m) | [TALK TO ME NICE feat\. TAMP](https://open.spotify.com/album/2T8j6iR7DYVhSnZdy74RN3) | 3:46 | 2024-11-05 | 2025-01-15 |
-| [Talk to You](https://open.spotify.com/track/6Oag0XXglYu48Cd8EufeTw) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 01](https://open.spotify.com/album/4tv1yPD1RAs8Zg5oOjthNF) | 2:30 | 2025-11-07 |  |
+| [Talk to You](https://open.spotify.com/track/6Oag0XXglYu48Cd8EufeTw) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 01](https://open.spotify.com/album/4tv1yPD1RAs8Zg5oOjthNF) | 2:30 | 2025-11-07 | 2026-07-04 |
 | [TALKIN'](https://open.spotify.com/track/2BZcMGnMHydT4heylUMrrk) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [TALKIN'](https://open.spotify.com/album/6KaE7SAZv0WhVISS6eOaG6) | 3:16 | 2024-02-29 | 2024-04-24 |
 | [Tasty Beating Sound](https://open.spotify.com/track/3mhRrC2EL3MyjdiCZriVQj) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [Tasty Beating Sound](https://open.spotify.com/album/7lbdsaOBjPHj92gNlWK2BX) | 2:42 | 2025-09-23 | 2025-10-22 |
 | [Teenage Blue](https://open.spotify.com/track/2nFwNBc9E3gef537c6Xtgf) | [Hi\-Fi Un!corn](https://open.spotify.com/artist/6095rKDrPnRCro0ckAe9hY) | [Teenage Blue](https://open.spotify.com/album/36GX0wb6H2BCTPj63SE5QQ) | 3:50 | 2025-08-19 | 2025-10-08 |
@@ -952,6 +952,7 @@
 | [キミノトコマデ](https://open.spotify.com/track/43cEuCJTfJFHMDEBYqkgkk) | [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk) | [キミノトコマデ](https://open.spotify.com/album/2EIVEU0l83fLtfn4kGQMPb) | 3:17 | 2025-04-23 | 2025-05-02 |
 | [ギラギラサマー](https://open.spotify.com/track/2sHxORfEwQLuFCINxl0znD) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [ギラギラサマー](https://open.spotify.com/album/02HW2ZpiMq4sURnpLKJ5Im) | 3:24 | 2025-06-02 | 2025-06-18 |
 | [ギリスト！](https://open.spotify.com/track/44uiC9r2lNtWHMx3yp5qDg) | [上田竜也](https://open.spotify.com/artist/4s1pQdzt4S8cLMXDD19qG0) | [ギリスト！](https://open.spotify.com/album/4nr0X5zAvguICJI22rvMXg) | 3:15 | 2024-02-13 | 2024-03-20 |
+| [ココニイル](https://open.spotify.com/track/6UPSzADDU3wztV9Jf3gCZr) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [ココニイル](https://open.spotify.com/album/3IqFv5B0H9UlD1ZNZj7M1k) | 3:25 | 2026-07-03 |  |
 | [コトノハ](https://open.spotify.com/track/0jNEPqWXbouIlDCEhghFXZ) | [LAST FIRST](https://open.spotify.com/artist/55KR3eoKZN5BiquvkzHl6m) | [コトノハ \(Type\-B\)](https://open.spotify.com/album/0wPo0S4BOzf72jK5BCEJoF) | 4:43 | 2024-02-06 | 2024-02-14 |
 | [サンタさんへ。](https://open.spotify.com/track/0wrgXZ4dSl8LPm3ddP0YRz) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [サンタさんへ。](https://open.spotify.com/album/335QvsExORHN7FSMC2xxOs) | 3:55 | 2025-12-04 | 2026-01-15 |
 | [シブヤ 午後6時](https://open.spotify.com/track/48u2iW5oJKCzTHdP1d6bNc) | [ICEx](https://open.spotify.com/artist/36eLruAH70vIII9ppzQ5QP) | [シブヤ 午後6時](https://open.spotify.com/album/67FCElXIveudgnyB5o908R) | 3:50 | 2023-12-12 | 2023-12-14 |

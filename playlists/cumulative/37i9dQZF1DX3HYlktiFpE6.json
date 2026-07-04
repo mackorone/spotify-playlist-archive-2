@@ -2216,7 +2216,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 150459,
       "name": "Problem",
       "url": "https://open.spotify.com/track/3H3uzC93i5XXChUev0wHI8"
@@ -2720,6 +2720,28 @@
       "duration_ms": 170154,
       "name": "Sleeping In The Cold Below",
       "url": "https://open.spotify.com/track/4ZqqDHKO0vUhiyrHhS4DM2"
+    },
+    {
+      "album": {
+        "name": "In My Room (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/07ECvLpnUHGLe2ntFJckIi"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "13-Year-Old Jacob",
+          "url": "https://open.spotify.com/artist/5frOPLslS2GZ9R9PsFQWoK"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214504,
+      "name": "Smoke Gets In Your Eyes (with 13-Year-Old Jacob)",
+      "url": "https://open.spotify.com/track/455wWwbwn6itJkl1Kp52ng"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. Cover: Janine Berdin",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: TJ Monterde",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -3563,6 +3563,24 @@
     },
     {
       "album": {
+        "name": "hulog",
+        "url": "https://open.spotify.com/album/7xu1kdp7A9oUVx887hS1gp"
+      },
+      "artists": [
+        {
+          "name": "KAIA",
+          "url": "https://open.spotify.com/artist/5UWPjwwieMFFohWLHe4Usy"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171093,
+      "name": "hulog",
+      "url": "https://open.spotify.com/track/3qIqMxhU45MJeXQ0mZVb7k"
+    },
+    {
+      "album": {
         "name": "Hunyo '97",
         "url": "https://open.spotify.com/album/3ha1EK7hAQbQlGHow0HgQe"
       },
@@ -6100,7 +6118,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 246000,
       "name": "Multo (Stripped Down)",
       "url": "https://open.spotify.com/track/1GSv3y0eL50grXOaro8BTn"
@@ -6528,6 +6546,24 @@
       "duration_ms": 147916,
       "name": "Napagod Na",
       "url": "https://open.spotify.com/track/4UZdLLW8Pn5xPrvNdnZJQ4"
+    },
+    {
+      "album": {
+        "name": "Nasa Ulap",
+        "url": "https://open.spotify.com/album/4UcDLHwuR5hEKlpTx1SEA5"
+      },
+      "artists": [
+        {
+          "name": "The Red Strings",
+          "url": "https://open.spotify.com/artist/1OReprh6WpboerPxNxuQjO"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198048,
+      "name": "Nasa Ulap",
+      "url": "https://open.spotify.com/track/2QL0YcVoACpQrfVeMSfDfR"
     },
     {
       "album": {
@@ -8472,7 +8508,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 250058,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/7o1BMqnl3zLTd7RrF4oVTg"
@@ -8614,6 +8650,24 @@
       "duration_ms": 233268,
       "name": "Sa Walang Hanggan",
       "url": "https://open.spotify.com/track/51M0GSzpTPuCBK2pQIiVcc"
+    },
+    {
+      "album": {
+        "name": "Sa'yo Bumabalik",
+        "url": "https://open.spotify.com/album/3yLYzhoE0Sbk6dQoBO8xVq"
+      },
+      "artists": [
+        {
+          "name": "Ice Seguerra",
+          "url": "https://open.spotify.com/artist/19X3R5eJguNYE8lwDZZWV9"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227401,
+      "name": "Sa'yo Bumabalik",
+      "url": "https://open.spotify.com/track/35YfRQNWOs5xxkfOkP1LsG"
     },
     {
       "album": {
@@ -9248,7 +9302,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 226728,
       "name": "Sinungaling",
       "url": "https://open.spotify.com/track/0DaEuZBzjBabTkbsnCZPs0"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > The new wave of Latin pop 🌊 Cover: ALMAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,302 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,375 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [TU SUPITE](https://open.spotify.com/track/0sYxmetxv0rmnLB1epKWUu) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [AMOR, QUIÉN ERES?](https://open.spotify.com/album/5EwAecivTZp1yYcXpbHq8h) | 3:05 |
 | 50 | [Dos Lunas](https://open.spotify.com/track/241T0LgkefRZw84wxgexrM) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Apambichao](https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT) | 2:58 |
 
-Snapshot ID: `AAAAAPoP2WCrEqgK4lTYktU6Z2LRiMn/`
+Snapshot ID: `AAAAAINHpQGcLkFdqra//f63fPg4MEnj`

@@ -6815,6 +6815,24 @@
     },
     {
       "album": {
+        "name": "Holy Holy Holy",
+        "url": "https://open.spotify.com/album/0pxjDuWhj4F6LZLpiKZOIA"
+      },
+      "artists": [
+        {
+          "name": "Daniel Aikhomu",
+          "url": "https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 728857,
+      "name": "Holy Holy Holy",
+      "url": "https://open.spotify.com/track/5WH2UuWLvRSoMqKvABTJm7"
+    },
+    {
+      "album": {
         "name": "Holy Lion",
         "url": "https://open.spotify.com/album/0iPF450yj9uArQB1dzYGwP"
       },
@@ -15950,24 +15968,6 @@
       "duration_ms": 204600,
       "name": "TOTORI (The Name of Jesus)",
       "url": "https://open.spotify.com/track/21rTE3IBtnxuVE1tmt90Ac"
-    },
-    {
-      "album": {
-        "name": "Holy Holy Holy",
-        "url": "https://open.spotify.com/album/0pxjDuWhj4F6LZLpiKZOIA"
-      },
-      "artists": [
-        {
-          "name": "Daniel Aikhomu",
-          "url": "https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d"
-        }
-      ],
-      "date_added": "2026-07-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/5WH2UuWLvRSoMqKvABTJm7"
     },
     {
       "album": {

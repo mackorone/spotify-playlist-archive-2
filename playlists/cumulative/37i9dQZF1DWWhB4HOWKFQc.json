@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Ariana Grande",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Naykilla",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -334,7 +334,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 169929,
       "name": "2.0",
       "url": "https://open.spotify.com/track/3bmpXHVie1GTy37OkXJ7Vc"
@@ -392,6 +392,24 @@
       "duration_ms": 356612,
       "name": "2112",
       "url": "https://open.spotify.com/track/5Gxwk3TSekI4GVMpFvPBEc"
+    },
+    {
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/4Aobf2Roz9dxfaA2Vsj88X"
+      },
+      "artists": [
+        {
+          "name": "Romaria",
+          "url": "https://open.spotify.com/artist/0SA5cjTKYZqmXdgIH9IeE6"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195344,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/6Sxc16RahhmIrVsN34uPUm"
     },
     {
       "album": {
@@ -2863,6 +2881,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217869,
+      "name": "begged",
+      "url": "https://open.spotify.com/track/3BnMfPPWs59CVfcQ8CcdfR"
+    },
+    {
+      "album": {
         "name": "CAN MACHINES FALL IN LOVE?",
         "url": "https://open.spotify.com/album/163yHPYgK5ScZO4YF1fYeB"
       },
@@ -2990,7 +3026,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 240866,
       "name": "Benci Untuk Mencinta",
       "url": "https://open.spotify.com/track/65PjFLm6X567f52At4CI1N"
@@ -3204,6 +3240,24 @@
       "duration_ms": 202502,
       "name": "Berlari",
       "url": "https://open.spotify.com/track/3xQx7JqDSUk8q36W68BVEM"
+    },
+    {
+      "album": {
+        "name": "berlin",
+        "url": "https://open.spotify.com/album/1mXjIwi4b31mObcZ5Mr0s8"
+      },
+      "artists": [
+        {
+          "name": "Kendis",
+          "url": "https://open.spotify.com/artist/5HLrlI5LdULY9s740CsAFZ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216877,
+      "name": "berlin",
+      "url": "https://open.spotify.com/track/716EFADuhOuYUCLRltcwnC"
     },
     {
       "album": {
@@ -3737,6 +3791,24 @@
     },
     {
       "album": {
+        "name": "Dehumanized",
+        "url": "https://open.spotify.com/album/3EtyZfsxMwbL7xyWAh5xPi"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272967,
+      "name": "Black & Blue - 2026 Repented",
+      "url": "https://open.spotify.com/track/69hnN62W706AbF4y8cORae"
+    },
+    {
+      "album": {
         "name": "HER",
         "url": "https://open.spotify.com/album/3sbZ4PoHTIZL8bLSLwt84h"
       },
@@ -4178,7 +4250,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 282300,
       "name": "Bread & Circus",
       "url": "https://open.spotify.com/track/689hLwFoFMvii9OA7CJZOA"
@@ -5052,7 +5124,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 211069,
       "name": "Child",
       "url": "https://open.spotify.com/track/5HaYRuf3zAfCb8RSO9LLea"
@@ -5582,6 +5654,24 @@
       "duration_ms": 168461,
       "name": "Come My Way",
       "url": "https://open.spotify.com/track/7kKg9yiwhnzw2FgPIfRq4K"
+    },
+    {
+      "album": {
+        "name": "Come Over",
+        "url": "https://open.spotify.com/album/2xXG0abKT34biU7L9siPde"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178603,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/6uvw8GFIqdqaJ4Nr3kN8Rs"
     },
     {
       "album": {
@@ -7688,7 +7778,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 181000,
       "name": "Dulu Kita Masih Remaja - Original Soundtrack Dilan ITB 1997",
       "url": "https://open.spotify.com/track/6WzOu0UnyfFSxOLw2Rs5nY"
@@ -8604,7 +8694,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 213569,
       "name": "Finish Me",
       "url": "https://open.spotify.com/track/45nGWJRXJmYF4g3l4iuUyN"
@@ -11003,6 +11093,24 @@
     },
     {
       "album": {
+        "name": "Hompimpa",
+        "url": "https://open.spotify.com/album/05IfOdDr0KqGCW80njvArX"
+      },
+      "artists": [
+        {
+          "name": "Marbles",
+          "url": "https://open.spotify.com/artist/5f5BQHYqjKGpSrgawqYWHQ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139223,
+      "name": "Hompimpa",
+      "url": "https://open.spotify.com/track/5Nk61wJGbPJNBIbnQG9vNl"
+    },
+    {
+      "album": {
         "name": "Honey & Lemon",
         "url": "https://open.spotify.com/album/7lPx68pcQwM3rHUd4zqhZ9"
       },
@@ -11018,6 +11126,24 @@
       "duration_ms": 158250,
       "name": "Honey & Lemon",
       "url": "https://open.spotify.com/track/4pRg9Bf1NkWPRczJWSXFvY"
+    },
+    {
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223013,
+      "name": "honeybee",
+      "url": "https://open.spotify.com/track/407LgLkk1uM3wMO6jVRe0a"
     },
     {
       "album": {
@@ -11743,6 +11869,32 @@
     },
     {
       "album": {
+        "name": "ICONIC BY MISTAKE",
+        "url": "https://open.spotify.com/album/7yys068oxBNuFHNbF8HMam"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "ILLIT",
+          "url": "https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN"
+        },
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177982,
+      "name": "ICONIC BY MISTAKE",
+      "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
+    },
+    {
+      "album": {
         "name": "NEVER SAY NEVER",
         "url": "https://open.spotify.com/album/6zfGu7WflAzOzsC2Dxgu5I"
       },
@@ -12082,7 +12234,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 163874,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA"
@@ -12694,7 +12846,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 277700,
       "name": "Jefferson",
       "url": "https://open.spotify.com/track/4DrODtZd9yTDNRCsMs8fiI"
@@ -12994,7 +13146,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 210070,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/7K3Lc3TfSR14aTOjIH7TUj"
@@ -14120,7 +14272,7 @@
       ],
       "date_added": "2025-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 139323,
       "name": "Kosong",
       "url": "https://open.spotify.com/track/4EhTIOXTXafB1aUwWy3T7N"
@@ -14615,6 +14767,42 @@
     },
     {
       "album": {
+        "name": "Lemon Tang - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Lemon Tang",
+      "url": "https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I"
+    },
+    {
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193848,
+      "name": "less",
+      "url": "https://open.spotify.com/track/1LmRAxdZUEM9xc2wNivy1y"
+    },
+    {
+      "album": {
         "name": "Lesung Pipi",
         "url": "https://open.spotify.com/album/5HKEezqSNuJSD5Nbrs9bhG"
       },
@@ -14930,7 +15118,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 180300,
       "name": "like JENNIE - Extended Remix",
       "url": "https://open.spotify.com/track/1053UWA7fTbVLxBX8R9ClO"
@@ -15090,7 +15278,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 331866,
       "name": "Location Unknown - feat. NIKI (10 Years)",
       "url": "https://open.spotify.com/track/4NWrXSfKtXX5FCPqwpCuwT"
@@ -16637,6 +16825,24 @@
     },
     {
       "album": {
+        "name": "Mbak Billie",
+        "url": "https://open.spotify.com/album/0GMZI9zMpfryW7Sc3r7dGa"
+      },
+      "artists": [
+        {
+          "name": "6sentani",
+          "url": "https://open.spotify.com/artist/6XWioGZWHFjIvuDZIc3oT1"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133952,
+      "name": "Mbak Billie",
+      "url": "https://open.spotify.com/track/3lGPSS7Q9Npu81v4RZcvdp"
+    },
+    {
+      "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
       },
@@ -17485,6 +17691,24 @@
     },
     {
       "album": {
+        "name": "MMG (My Mine Gueh)",
+        "url": "https://open.spotify.com/album/45k1vV0vkspETDlmA8nxZM"
+      },
+      "artists": [
+        {
+          "name": "Naykilla",
+          "url": "https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193090,
+      "name": "MMG (My Mine Gueh)",
+      "url": "https://open.spotify.com/track/2AtJq58CHh4qBUqTpU75vU"
+    },
+    {
+      "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
@@ -17706,7 +17930,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 234000,
       "name": "Moth To A Flame (with The Weeknd)",
       "url": "https://open.spotify.com/track/7kfOEMJBJwdCYqyJeEnNhr"
@@ -19382,7 +19606,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
@@ -19418,7 +19642,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 167589,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/6s3w7SUVtmm68Bw5KrKMh0"
@@ -19839,6 +20063,24 @@
     },
     {
       "album": {
+        "name": "eternal sunshine deluxe: brighter days ahead",
+        "url": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215834,
+      "name": "past life",
+      "url": "https://open.spotify.com/track/2MIpkAQVJqQIDf9k4YWoHR"
+    },
+    {
+      "album": {
         "name": "Past Won't Leave My Bed",
         "url": "https://open.spotify.com/album/5JJpyK4SILx6UXJBiT1twN"
       },
@@ -20060,6 +20302,24 @@
       "duration_ms": 259095,
       "name": "Pegang Kendali",
       "url": "https://open.spotify.com/track/2cZndbv4I030w3vfXdE7Ck"
+    },
+    {
+      "album": {
+        "name": "Kereta Kencan",
+        "url": "https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw"
+      },
+      "artists": [
+        {
+          "name": "Hivi!",
+          "url": "https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217626,
+      "name": "Pelangi",
+      "url": "https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR"
     },
     {
       "album": {
@@ -21616,7 +21876,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 163001,
       "name": "REDRED",
       "url": "https://open.spotify.com/track/2fCwv2ppU5nTRTckomIGsd"
@@ -22038,6 +22298,28 @@
       "duration_ms": 114056,
       "name": "rollerblade",
       "url": "https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf"
+    },
+    {
+      "album": {
+        "name": "rollerblade remix (Jebung)",
+        "url": "https://open.spotify.com/album/1MVP9xMh8dr5wXEdwu0qtr"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        },
+        {
+          "name": "Jebung",
+          "url": "https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "rollerblade remix - Jebung",
+      "url": "https://open.spotify.com/track/4kLQd1onq9VkWAme7VOG8b"
     },
     {
       "album": {
@@ -23482,6 +23764,24 @@
       "duration_ms": 238514,
       "name": "semua lagu cinta terdengar sama",
       "url": "https://open.spotify.com/track/63VnhcHMnTPCcd24oVajL6"
+    },
+    {
+      "album": {
+        "name": "SEMUA LAGU CINTA UNTUKMU SAJA",
+        "url": "https://open.spotify.com/album/65lCSVpAKhnJeOqQtKsWEZ"
+      },
+      "artists": [
+        {
+          "name": "Calvilas",
+          "url": "https://open.spotify.com/artist/0AwvxxxlxPwObczyyPiP1i"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199285,
+      "name": "SEMUA LAGU CINTA UNTUKMU SAJA",
+      "url": "https://open.spotify.com/track/1BrTZQ0KscBhBblQAQO3Du"
     },
     {
       "album": {
@@ -26835,6 +27135,24 @@
     },
     {
       "album": {
+        "name": "Teh Hijau",
+        "url": "https://open.spotify.com/album/7A38wbAswxuZGB5aFvK9Qn"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212879,
+      "name": "Teh Hijau",
+      "url": "https://open.spotify.com/track/4R9G7azXaZe93KTX65P9fU"
+    },
+    {
+      "album": {
         "name": "Tejano Blue",
         "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
       },
@@ -27906,7 +28224,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 164241,
       "name": "they don\u2019t know \u2019bout us",
       "url": "https://open.spotify.com/track/0b61A7v9agI08BG21jJPQ9"
@@ -29695,6 +30013,28 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        },
+        {
+          "name": "Robert Smith",
+          "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224906,
+      "name": "what\u2019s wrong with me",
+      "url": "https://open.spotify.com/track/1W7023CuJrWPbD4q2Sipoh"
+    },
+    {
+      "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
       },
@@ -31038,7 +31378,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 282320,
       "name": "\u6211\u5c0d\u7de3\u5206\u5c0f\u5fc3\u7ffc\u7ffc (\u5287\u96c6\u300a\u9010\u7389\u300b\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/6pCp8j2MmywUs8vygmqNQ1"

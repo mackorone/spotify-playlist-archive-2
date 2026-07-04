@@ -1,12 +1,12 @@
 {
   "description": "This is Pop Smoke. The essential tracks, all in one playlist.",
-  "num_followers": 497536,
+  "num_followers": 497572,
   "original_name": "This Is Pop Smoke",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAADXnTOdbK8t+CMeu6F+oLjP",
+  "snapshot_id": "akWqAAAAAABsh1WrDG0EvAcbwXIs5kpf",
   "tracks": [
     {
       "added_at": null,
@@ -655,30 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "State of Emergency",
-        "url": "https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        },
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 214825,
-      "name": "Zoo York (feat. Fivio Foreign & Pop Smoke)",
-      "url": "https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE"
       },
@@ -703,22 +679,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Know NIGO!",
-        "url": "https://open.spotify.com/album/14CQcafIVPmyMXbqZvU79T"
+        "name": "State of Emergency",
+        "url": "https://open.spotify.com/album/26d9EFfi2YSvhQv7KKcrNw"
       },
       "artists": [
         {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         },
         {
-          "name": "Nigo",
-          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         }
       ],
-      "duration_ms": 135111,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/1Q7sbHZrWpvaww9XjV26KA"
+      "duration_ms": 214825,
+      "name": "Zoo York (feat. Fivio Foreign & Pop Smoke)",
+      "url": "https://open.spotify.com/track/3Ddny34bFoYBb8dIGq5lwp"
     },
     {
       "added_at": null,
@@ -743,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith (Deluxe)",
-        "url": "https://open.spotify.com/album/4Cp6J4hJ0FMExUB5zairUD"
+        "name": "I Know NIGO!",
+        "url": "https://open.spotify.com/album/14CQcafIVPmyMXbqZvU79T"
       },
       "artists": [
         {
@@ -752,13 +732,13 @@
           "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
         },
         {
-          "name": "Rah Swish",
-          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
+          "name": "Nigo",
+          "url": "https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn"
         }
       ],
-      "duration_ms": 111699,
-      "name": "Don\u2019t Know Em",
-      "url": "https://open.spotify.com/track/5anxr6abawSgMj6HJTvU1d"
+      "duration_ms": 135111,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/1Q7sbHZrWpvaww9XjV26KA"
     },
     {
       "added_at": null,
@@ -775,6 +755,26 @@
       "duration_ms": 123549,
       "name": "Coupe",
       "url": "https://open.spotify.com/track/7AMsqVsxf8mnKbmRfXrLeu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith (Deluxe)",
+        "url": "https://open.spotify.com/album/4Cp6J4hJ0FMExUB5zairUD"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Rah Swish",
+          "url": "https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH"
+        }
+      ],
+      "duration_ms": 111699,
+      "name": "Don\u2019t Know Em",
+      "url": "https://open.spotify.com/track/5anxr6abawSgMj6HJTvU1d"
     },
     {
       "added_at": null,
@@ -819,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faith (Deluxe)",
-        "url": "https://open.spotify.com/album/4Cp6J4hJ0FMExUB5zairUD"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 229253,
-      "name": "Mr. Jones",
-      "url": "https://open.spotify.com/track/4XBYx8alo2XYPSXN5LINuf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/33H34WJU0h0QqGFZvMZqfE"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 215000,
       "name": "Tell The Vision",
       "url": "https://open.spotify.com/track/4KAsDy2wUBQCx41kseXU1L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faith (Deluxe)",
+        "url": "https://open.spotify.com/album/4Cp6J4hJ0FMExUB5zairUD"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 229253,
+      "name": "Mr. Jones",
+      "url": "https://open.spotify.com/track/4XBYx8alo2XYPSXN5LINuf"
     },
     {
       "added_at": null,

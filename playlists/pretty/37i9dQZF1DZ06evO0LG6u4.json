@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c9liane Radigue. The essential tracks, all in one playlist.",
-  "num_followers": 413,
+  "num_followers": 414,
   "original_name": "This Is \u00c9liane Radigue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAAA1wFDUI51ZexKalbxyxxU4",
+  "snapshot_id": "akWqAAAAAADTS0pVMNG7q/4lP/HyUMlv",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 44700,
-      "name": "Son miroir",
-      "url": "https://open.spotify.com/track/4GltqtOOK8KxgORA00fHQo"
+      "duration_ms": 86362,
+      "name": "Sur Adnos",
+      "url": "https://open.spotify.com/track/48E7jZljAcsGWf2UDKmTp3"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/1oG3G8tFIIseWu474ardvh"
         }
       ],
-      "duration_ms": 80745,
-      "name": "Commande musicale",
-      "url": "https://open.spotify.com/track/2eQYadzPjRQ44OjjY6wvtW"
+      "duration_ms": 44700,
+      "name": "Son miroir",
+      "url": "https://open.spotify.com/track/4GltqtOOK8KxgORA00fHQo"
     }
   ],
   "unique_name": "This Is \u00c9liane Radigue",

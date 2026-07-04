@@ -926,7 +926,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 160645,
       "name": "All With You",
       "url": "https://open.spotify.com/track/4OGvzHjQfR4WLwUzplLPJR"
@@ -3072,7 +3072,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 135995,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/77Sm1oar22gMXxGBJHB5HI"
@@ -3558,6 +3558,24 @@
       "duration_ms": 138305,
       "name": "Bring Me Home",
       "url": "https://open.spotify.com/track/3Z01gZjYKXLfRl4mRBxbqU"
+    },
+    {
+      "album": {
+        "name": "Broken",
+        "url": "https://open.spotify.com/album/4BoC4X4JU25E66XheB4HnV"
+      },
+      "artists": [
+        {
+          "name": "D-TREX",
+          "url": "https://open.spotify.com/artist/35xASBaFUnR7KSNgZVSK2T"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195255,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/5x8I86ixA3KajkhEE8wikD"
     },
     {
       "album": {
@@ -5442,6 +5460,24 @@
       "duration_ms": 146186,
       "name": "Come Alive",
       "url": "https://open.spotify.com/track/4uqls8UNqKMx34XMwvUrGm"
+    },
+    {
+      "album": {
+        "name": "Come Around",
+        "url": "https://open.spotify.com/album/0TqvRFeCR9OFLhXxipbNwR"
+      },
+      "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146617,
+      "name": "Come Around",
+      "url": "https://open.spotify.com/track/3BIwy46uY7GPXRKhyWc3ux"
     },
     {
       "album": {
@@ -7965,6 +8001,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/3994hu8R6G6aZcNFeAgRny"
+      },
+      "artists": [
+        {
+          "name": "Stirmouth",
+          "url": "https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137583,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/29mFDGIEr6HmUyewk263Rr"
+    },
+    {
+      "album": {
         "name": "Early Days",
         "url": "https://open.spotify.com/album/39YSaiB38Fs1miQPLdLL8i"
       },
@@ -8200,7 +8254,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 180030,
       "name": "Eileen",
       "url": "https://open.spotify.com/track/0vzoHOYliDo966frCgXUPF"
@@ -9776,7 +9830,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 164036,
       "name": "Fields Of Gold",
       "url": "https://open.spotify.com/track/03RUoZl8yGHMwM86baBEpB"
@@ -10026,7 +10080,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 150967,
       "name": "First Call",
       "url": "https://open.spotify.com/track/3WvNrgfrjVjhdVEhafT4BY"
@@ -15003,6 +15057,24 @@
     },
     {
       "album": {
+        "name": "In the Morning",
+        "url": "https://open.spotify.com/album/4r1bZpqweN9FZSefufSydf"
+      },
+      "artists": [
+        {
+          "name": "Avira",
+          "url": "https://open.spotify.com/artist/1wytsm0cwx7Vw9kIVyyWWI"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161548,
+      "name": "In the Morning",
+      "url": "https://open.spotify.com/track/5G6ifBiDnn6ZQIxqJfz56C"
+    },
+    {
+      "album": {
         "name": "In The Shadows",
         "url": "https://open.spotify.com/album/0YzgSXrb8YhFvsXZb2Lq5x"
       },
@@ -15156,7 +15228,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 153333,
       "name": "Infatuation",
       "url": "https://open.spotify.com/track/4DCvSq0xOOKOmGAm0XSMTG"
@@ -16400,7 +16472,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 163384,
       "name": "Lesson",
       "url": "https://open.spotify.com/track/6kALgn5Ww66sjeMwN3uMl1"
@@ -17894,7 +17966,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 132000,
       "name": "Love",
       "url": "https://open.spotify.com/track/2B0APDbnZ7MbLGxHOVPYR4"
@@ -19069,6 +19141,32 @@
     },
     {
       "album": {
+        "name": "Mind's Eye",
+        "url": "https://open.spotify.com/album/4fmiBmsury5Xf82ys55BxE"
+      },
+      "artists": [
+        {
+          "name": "Luke Taylor",
+          "url": "https://open.spotify.com/artist/2DxAWfvhrcylvjEZILMyhR"
+        },
+        {
+          "name": "JEANS",
+          "url": "https://open.spotify.com/artist/5TDZkWlv0QtAQa2gy4SpC2"
+        },
+        {
+          "name": "mirae",
+          "url": "https://open.spotify.com/artist/7zuiST8aPQz7wGZlRzPUY8"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124076,
+      "name": "Mind's Eye",
+      "url": "https://open.spotify.com/track/4ByhYx6cripFqdwOkML9xT"
+    },
+    {
+      "album": {
         "name": "Miracle",
         "url": "https://open.spotify.com/album/42ejBimCpB07sLsGenE7Ro"
       },
@@ -20186,6 +20284,24 @@
       "duration_ms": 162980,
       "name": "Need",
       "url": "https://open.spotify.com/track/2a12zAH8K7OtI8KisWwUmy"
+    },
+    {
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/35moMFfSel77hZv6IPRKfF"
+      },
+      "artists": [
+        {
+          "name": "P.A.V",
+          "url": "https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132892,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/43a1O7HFonXm6mZtptmFFA"
     },
     {
       "album": {
@@ -22156,7 +22272,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 127894,
       "name": "Only We Know",
       "url": "https://open.spotify.com/track/3g7e4OAkNJdXTBXe6cfiSA"
@@ -22218,7 +22334,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 145573,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/4ZOX00MgPbzgXLtFFnrEs9"
@@ -24412,6 +24528,32 @@
       "duration_ms": 129600,
       "name": "Run Away",
       "url": "https://open.spotify.com/track/70yvajJ19TJWJH3g50TveP"
+    },
+    {
+      "album": {
+        "name": "Run Away",
+        "url": "https://open.spotify.com/album/7CBGRbmc0vVXxNh55rMoG4"
+      },
+      "artists": [
+        {
+          "name": "Voyagge",
+          "url": "https://open.spotify.com/artist/7hdi5hHftwIBqHPBUYBF7K"
+        },
+        {
+          "name": "Bru Campos",
+          "url": "https://open.spotify.com/artist/4ISyGOozdGp5uzhaWiOI4k"
+        },
+        {
+          "name": "Mateus Marra",
+          "url": "https://open.spotify.com/artist/6l5YTWs2XKzITLffieiA6K"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193548,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/206hcU4cnf8FnyKJY1qIJ9"
     },
     {
       "album": {
@@ -29361,6 +29503,24 @@
     },
     {
       "album": {
+        "name": "Think of You",
+        "url": "https://open.spotify.com/album/6L87JdrWaPPXYYfDp3x8Tw"
+      },
+      "artists": [
+        {
+          "name": "Cozy Sky",
+          "url": "https://open.spotify.com/artist/7ATXYbIzRyHBKJeAUGnO8u"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135717,
+      "name": "Think of You",
+      "url": "https://open.spotify.com/track/4bw146hjUlJX0zvwWOZ1yR"
+    },
+    {
+      "album": {
         "name": "Think Of You",
         "url": "https://open.spotify.com/album/29UeSRbflXTItUqTKO5QZs"
       },
@@ -30144,7 +30304,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 168050,
       "name": "Turn The Lights Off",
       "url": "https://open.spotify.com/track/393cmbXj9vM8AzflL3hOln"
@@ -30652,7 +30812,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 184000,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/1rnoolfNEHYTQKAuc8Yha4"
@@ -32881,6 +33041,24 @@
     },
     {
       "album": {
+        "name": "you make it beautiful",
+        "url": "https://open.spotify.com/album/0WL5ICa1gha3gEILtGUWru"
+      },
+      "artists": [
+        {
+          "name": "bailey",
+          "url": "https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203346,
+      "name": "you make it beautiful",
+      "url": "https://open.spotify.com/track/5ITvBWI1ZIDDCtL1he3TOE"
+    },
+    {
+      "album": {
         "name": "You Say",
         "url": "https://open.spotify.com/album/77neC6Npqb6nUsN5MapOzU"
       },
@@ -33060,7 +33238,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 144000,
       "name": "Young Again",
       "url": "https://open.spotify.com/track/6GqqR8FPSBuAMJYqJfkWgj"

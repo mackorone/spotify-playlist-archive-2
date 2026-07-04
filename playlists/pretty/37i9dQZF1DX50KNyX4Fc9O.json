@@ -1,6 +1,6 @@
 {
   "description": "Keep your finger on the pulse of pop. Cover: Will Swinton",
-  "num_followers": 130407,
+  "num_followers": 130405,
   "original_name": "Pop n' Fresh",
   "owner": {
     "name": "Spotify",
@@ -264,8 +264,8 @@
           "url": "https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 253644,
+      "name": "ONCE",
       "url": "https://open.spotify.com/track/5fWJxZsUDzFjzcwBRgu9LK"
     },
     {
@@ -299,6 +299,22 @@
       "duration_ms": 187871,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/2QVRjz1nWhN8FCAHgnrTE4"
+    },
+    {
+      "added_at": "2026-07-02 14:00:24",
+      "album": {
+        "name": "Love Like A Hobby",
+        "url": "https://open.spotify.com/album/4FhYzCXg5OeNGBT0NvjVvg"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "duration_ms": 222614,
+      "name": "Love Like A Hobby",
+      "url": "https://open.spotify.com/track/3Ce2UwnIE9clxZp94hkAGp"
     },
     {
       "added_at": "2026-07-02 14:00:24",

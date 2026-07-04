@@ -11412,7 +11412,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 162566,
       "name": "PLEASE",
       "url": "https://open.spotify.com/track/7nF28VNC10CzMaSZfDHazu"
@@ -14690,7 +14690,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 150200,
       "name": "Talk to You",
       "url": "https://open.spotify.com/track/6Oag0XXglYu48Cd8EufeTw"
@@ -17654,6 +17654,24 @@
       "duration_ms": 195074,
       "name": "\u30ae\u30ea\u30b9\u30c8\uff01",
       "url": "https://open.spotify.com/track/44uiC9r2lNtWHMx3yp5qDg"
+    },
+    {
+      "album": {
+        "name": "\u30b3\u30b3\u30cb\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/3IqFv5B0H9UlD1ZNZj7M1k"
+      },
+      "artists": [
+        {
+          "name": "WOLF HOWL HARMONY from EXILE TRIBE",
+          "url": "https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205700,
+      "name": "\u30b3\u30b3\u30cb\u30a4\u30eb",
+      "url": "https://open.spotify.com/track/6UPSzADDU3wztV9Jf3gCZr"
     },
     {
       "album": {

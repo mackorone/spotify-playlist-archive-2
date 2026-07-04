@@ -2,9 +2,9 @@
 
 ### [la pop\~wave](https://open.spotify.com/playlist/37i9dQZF1DWYEIx04mlcFR)
 
-> la nueva ola de artistas con Gonzalo Genek en portada\. 🌊✨
+> la nueva ola de artistas con BB ASUL y TAICHU en portada\. 🌊✨
 
-894 songs - 1 day 21 hr 43 min
+896 songs - 1 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Claro](https://open.spotify.com/track/0SepGV9acagoqgbxEA0Yvg) | [RNDN](https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn), [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [Claro](https://open.spotify.com/album/19fxTjEVWgJI367drWYTyn) | 1:43 | 2025-09-19 | 2025-11-29 |
 | [click \(nitro\)](https://open.spotify.com/track/0SfHUNhv1vZt0Wznl0g5tg) | [GRLS](https://open.spotify.com/artist/6hH7QHJ88Vy6KKiWANlIam) | [click \(nitro\)](https://open.spotify.com/album/6MUWbbMFVavocD14M21Y6b) | 3:20 | 2026-02-06 | 2026-04-11 |
 | [Coastin' \(with Alemán\)](https://open.spotify.com/track/3UCyLYeUJUrt7aE1yzqjqf) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Coastin' \(with Alemán\)](https://open.spotify.com/album/1Vxwqwvz1yO72jFTQ7O5aH) | 4:04 | 2023-08-25 | 2024-03-09 |
+| [colmillos](https://open.spotify.com/track/54OKtgmsxS97sFTHz1R4Sj) | [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [colmillos](https://open.spotify.com/album/5l4rtYwjjmGYjH3Jqk2roQ) | 3:02 | 2026-07-03 |  |
 | [Come&Go \(funnynoiseclub002\)](https://open.spotify.com/track/7pkBZWpr9BActeFhWeWtVO) | [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Come&Go \(funnynoiseclub002\)](https://open.spotify.com/album/2BDAa2AXTSSJuUJQSNhN06) | 2:22 | 2024-07-20 | 2024-12-05 |
 | [Como las Aves](https://open.spotify.com/track/27bBykUqwr8sdKtXfVQqGY) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/44uhTcHqT2A2ksmAIl0hWY) | 2:18 | 2023-05-26 | 2024-02-24 |
 | [Como las Aves](https://open.spotify.com/track/7CKkmL3rfnchJtVvGuRoyH) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Como las Aves](https://open.spotify.com/album/7kFNNJpZqL9HEUa2Sj3gxC) | 2:18 | 2023-11-29 | 2024-01-13 |
@@ -344,6 +345,7 @@
 | [hoy no me encuentro para nadie](https://open.spotify.com/track/3QUpCA4ibwwf7B5xVIXd3t) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [Bambú](https://open.spotify.com/album/1ZSczNCwD6RB33ORwaRoD1) | 2:44 | 2024-12-04 | 2025-03-22 |
 | [Hoy te Dejo de Soñar](https://open.spotify.com/track/6xaPt9l6Uk6i72f10GezEM) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Hoy te Dejo de Soñar](https://open.spotify.com/album/2H7dZJggkMv3MXH7ZKSzQm) | 3:11 | 2021-12-10 | 2022-03-26 |
 | [Huella](https://open.spotify.com/track/1jGPestjbACKCQzvNL8eJg) | [Abraham GÜ](https://open.spotify.com/artist/1nlD2cwx9JW48o2obtOvVc), [Amori](https://open.spotify.com/artist/0DqJKNdYD842qcWpmHkw0m) | [Huella](https://open.spotify.com/album/2RmGhu8m9fSbPuiUKeCNT0) | 3:00 | 2025-08-29 | 2025-10-11 |
+| [Háblame Bonito \- Spotify Sessions](https://open.spotify.com/track/6ZRTzseik9o5DkxOslogUJ) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Blnko \- Spotify Sessions](https://open.spotify.com/album/6V6HtJXX8gJ581hynR0Q3H) | 3:29 | 2026-07-03 |  |
 | [I Like 2 Be](https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I Like 2 Be](https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8) | 2:54 | 2022-02-18 | 2022-07-23 |
 | [I Like 2 Be](https://open.spotify.com/track/7ilN3oN8goL5nJF6aA48zc) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:54 | 2022-11-30 | 2023-07-08 |
 | [Idiota](https://open.spotify.com/track/3bHZsUnYWWjDgAbBK9KuKa) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Idiota](https://open.spotify.com/album/3LCaWH5lNjftW6IHgxV4sT) | 2:59 | 2022-07-11 | 2023-02-25 |
@@ -548,7 +550,7 @@
 | [No Te Quiero Perder](https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:46 | 2022-09-02 | 2023-02-04 |
 | [no voy a estar mañana](https://open.spotify.com/track/0MOKVcgy5F8WwYfQ62Py4c) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [no voy a estar mañana](https://open.spotify.com/album/1wFTNFddZkNd2XXceMvMbX) | 2:57 | 2025-08-15 | 2025-10-25 |
 | [no vuelvas más](https://open.spotify.com/track/63cTQft6nDUhlalZMiFlOY) | [Iván Ivengo](https://open.spotify.com/artist/4oiI7JbuL1TKEO6skc1B5x), [Aldo Carpes](https://open.spotify.com/artist/6KOP9WgxzpC7hW1sEHgjdJ) | [no vuelvas más](https://open.spotify.com/album/17k9gj1PMi8aljSFy2o67o) | 2:21 | 2025-05-23 | 2026-02-21 |
-| [Noche](https://open.spotify.com/track/42AStJYmglTAHAgER92gxv) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Noche](https://open.spotify.com/album/3IpjbBkyfU8jHG69ch0Y2l) | 2:35 | 2026-03-27 |  |
+| [Noche](https://open.spotify.com/track/42AStJYmglTAHAgER92gxv) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB) | [Noche](https://open.spotify.com/album/3IpjbBkyfU8jHG69ch0Y2l) | 2:35 | 2026-03-27 | 2026-07-04 |
 | [Noche en LA](https://open.spotify.com/track/1FLiL8ETgtjbWOWrlLwLVS) | [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Noche en LA](https://open.spotify.com/album/7tusQcdm6cndTKQUwtK7Iw) | 3:29 | 2022-02-04 | 2022-07-12 |
 | [Noche Estrellada](https://open.spotify.com/track/6P0GxVzKMq6i2ivtdt8OkG) | [Lulú Bulos](https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj), [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Noche Estrellada](https://open.spotify.com/album/28hIv6Ed2QvHGnFsSZhupO) | 3:41 | 2024-09-20 | 2025-03-22 |
 | [Noches](https://open.spotify.com/track/2UjsowCzfBcEGLbtmy4amt) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Noches](https://open.spotify.com/album/1osB0AMsvdhhUi9To2mYOV) | 2:49 | 2023-07-28 | 2024-01-13 |
@@ -785,7 +787,7 @@
 | [Toda La Luz](https://open.spotify.com/track/1NwrCHoC2PwaEHaz58JSVb) | [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG) | [Toda La Luz](https://open.spotify.com/album/5lEKtWkjp3KvB6GLwZOW0p) | 2:12 | 2024-06-21 | 2024-12-05 |
 | [todas las veces](https://open.spotify.com/track/0ewXHTVuuJ2vi4DKzTyHNQ) | [niño viejo](https://open.spotify.com/artist/3lqwBqukon1qKszWWfSvz9), [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [todas las veces](https://open.spotify.com/album/4K0r165T0jVW6YhieiyGgj) | 2:50 | 2025-07-04 | 2025-10-11 |
 | [todavía dueles](https://open.spotify.com/track/7n9xkY2W8QEQyBBuR2aLdB) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todavía dueles](https://open.spotify.com/album/6BjsUk9eHecrsCmPiSCf3g) | 2:54 | 2023-06-09 | 2023-07-07 |
-| [Todavía No](https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq) | [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Todavía No](https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq) | 4:05 | 2026-05-22 |  |
+| [Todavía No](https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq) | [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL), [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Todavía No](https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq) | 4:05 | 2026-05-22 | 2026-07-04 |
 | [todo bien :\-\)](https://open.spotify.com/track/7Fp82vLuGKV6xYv9z3W9F2) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A), [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [todo bien :\-\)](https://open.spotify.com/album/0pqsmplZSZwf7iLoj9P2pS) | 2:56 | 2022-08-26 | 2023-05-06 |
 | [Todo Está Bien](https://open.spotify.com/track/38eAUn1uCsiFDVtcqleR0k) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2), [Urbøi](https://open.spotify.com/artist/4THv7qQa82UNW5DTtEqNOy) | [Todo Está Bien](https://open.spotify.com/album/7kHy0i2Knq8XMqHDHH3lbf) | 2:50 | 2022-09-23 | 2023-04-15 |
 | [TODO HA CAMBIAO'](https://open.spotify.com/track/7sdfEPzucmtbOAdKnmRUlR) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [TODO HA CAMBIAO'](https://open.spotify.com/album/0pGaWq5M4SMxXbgL3ILETy) | 3:49 | 2022-04-13 | 2022-09-24 |

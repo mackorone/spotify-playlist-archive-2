@@ -4,7 +4,7 @@
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-175 songs - 9 hr 27 min
+176 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Painkiller](https://open.spotify.com/track/6ubO6MOkkPoKWCy7P16suW) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Touch the Sky](https://open.spotify.com/album/046qJmAfnKS0QtBbNbmDiO) | 3:22 | 2023-05-03 |  |
 | [Party In The U.S.A.](https://open.spotify.com/track/7c2KF18pPpaN8Hy5MiNNWs) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Ultimate Pitch Perfect \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C81mDhWllB5q56pfvik3U) | 1:02 | 2021-12-24 | 2024-04-19 |
 | [Party In The U.S.A.](https://open.spotify.com/track/1est72o2prNA80flC5ncoN) | [The Barden Bellas](https://open.spotify.com/artist/2BaKphge9AdjZIxQqv7WoQ) | [Pitch Perfect Soundtrack](https://open.spotify.com/album/1FM961WpKV92hHzDk7GiU2) | 1:03 | 2021-12-24 |  |
-| [Problem](https://open.spotify.com/track/3H3uzC93i5XXChUev0wHI8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Problem](https://open.spotify.com/album/11tXKKKp6WelxkqSpNUQLW) | 2:30 | 2021-12-24 |  |
+| [Problem](https://open.spotify.com/track/3H3uzC93i5XXChUev0wHI8) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [Problem](https://open.spotify.com/album/11tXKKKp6WelxkqSpNUQLW) | 2:30 | 2021-12-24 | 2026-07-04 |
 | [Problem \(Ariana Grande Cover\)](https://open.spotify.com/track/5wHUvSe3ALlFfp8VsWmvIA) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) | 2:28 | 2021-12-24 | 2024-04-19 |
 | [Pumped Up Kicks](https://open.spotify.com/track/544Vnwfg8YSUP6An38yUsT) | [Hullabahoos](https://open.spotify.com/artist/3S1DEHnGNfWmamdZEyLs8I) | [Morning Warriors](https://open.spotify.com/album/1ZdIwfFXaKiPolBEBp1kqs) | 3:53 | 2021-12-24 | 2023-06-24 |
 | [Radioactive](https://open.spotify.com/track/7dJGehjbhJvs3K4fWwYTW1) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [PTX](https://open.spotify.com/album/77RBn8pRsfXlZdfTQh221D) | 3:46 | 2021-12-24 | 2023-05-04 |
@@ -147,6 +147,7 @@
 | [Shut up and Dance](https://open.spotify.com/track/4Q4G6wehDTKF8iHFC7L5pT) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [The New Old Fashioned \(Deluxe\)](https://open.spotify.com/album/4WqVsi6JHlj6w2cBbE8nS7) | 2:47 | 2021-12-24 |  |
 | [Sing for Myself](https://open.spotify.com/track/6iqsJo7oYOIuIFmXi4crwT) | [Voices in Your Head](https://open.spotify.com/artist/44v8JgDySt9tkgfV3AWxBJ) | [Sing for Myself](https://open.spotify.com/album/3A9VjcAIbropthKKmQT40d) | 2:07 | 2022-12-09 | 2024-04-13 |
 | [Sleeping In The Cold Below](https://open.spotify.com/track/4ZqqDHKO0vUhiyrHhS4DM2) | [VoicePlay](https://open.spotify.com/artist/4RuHLdmbr1G9BD5aN63Go3), [Omar Cardona](https://open.spotify.com/artist/5NGEpKKqd2W689g9Ts9wMX) | [Sleeping In The Cold Below](https://open.spotify.com/album/4kPeTuVsq3fOa7YtdG0IRa) | 2:50 | 2024-02-16 |  |
+| [Smoke Gets In Your Eyes \(with 13\-Year\-Old Jacob\)](https://open.spotify.com/track/455wWwbwn6itJkl1Kp52ng) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [13\-Year\-Old Jacob](https://open.spotify.com/artist/5frOPLslS2GZ9R9PsFQWoK) | [In My Room \(10 Year Anniversary Edition\)](https://open.spotify.com/album/07ECvLpnUHGLe2ntFJckIi) | 3:34 | 2026-07-03 |  |
 | [Some Nights](https://open.spotify.com/track/6SJ7e6SzmytWXe8hWdPnTn) | [The Pitchforks](https://open.spotify.com/artist/5IPABE7EhPLvUVsgM3dlZ8) | [Refraction](https://open.spotify.com/album/353JLV23qo2OALKeG4R73Z) | 4:03 | 2022-12-09 |  |
 | [Somebody That I Used to Know](https://open.spotify.com/track/5XPSElbh3y0S1Jl0ggpwQr) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53) | [PTX, Vol\. 1](https://open.spotify.com/album/5wGlP6EqF7akh6N3UGfKVZ) | 3:19 | 2021-12-24 |  |
 | [Stacey's Mom](https://open.spotify.com/track/2REesWs353uf4aQz09I2HG) | [On The Rocks](https://open.spotify.com/artist/00IjdWQ46sSBP4gZYObAMx) | [Full Coverage](https://open.spotify.com/album/3GXMH3QsXm4gO7uMfEc2mJ) | 3:21 | 2021-12-24 | 2024-04-19 |

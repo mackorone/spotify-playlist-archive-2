@@ -1,13 +1,69 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Mack Keane",
-  "num_followers": 240085,
+  "num_followers": 240087,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPLqWj/cVHqtSNgavA1Qsq8V6G4w",
+  "snapshot_id": "AAAAAFlGK0/fffQ+UiOQctVO3f1+4dZz",
   "tracks": [
+    {
+      "added_at": "2026-07-03 04:28:14",
+      "album": {
+        "name": "Me Without U - Spotify Singles",
+        "url": "https://open.spotify.com/album/6JeC64NyEwq3Q25BNgO9iV"
+      },
+      "artists": [
+        {
+          "name": "FELICIA",
+          "url": "https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa"
+        },
+        {
+          "name": "Edward Maya",
+          "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+        },
+        {
+          "name": "Vika Jigulina",
+          "url": "https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB"
+        }
+      ],
+      "duration_ms": 137431,
+      "name": "Me Without U - Spotify Singles",
+      "url": "https://open.spotify.com/track/2qcOgRGOYqYfPqJukUcWZr"
+    },
+    {
+      "added_at": "2026-07-03 04:28:14",
+      "album": {
+        "name": "Mr. Saxobeat - Spotify Singles",
+        "url": "https://open.spotify.com/album/4INWAlhyOBANA8GUB7Iugy"
+      },
+      "artists": [
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "duration_ms": 177707,
+      "name": "Mr. Saxobeat - Spotify Singles",
+      "url": "https://open.spotify.com/track/78PyhOfbHt3mA4Jhz8M9tW"
+    },
+    {
+      "added_at": "2026-07-03 04:28:14",
+      "album": {
+        "name": "REACH - Spotify Singles",
+        "url": "https://open.spotify.com/album/6BCQ9Lqm0SgUjHOglMFJJ5"
+      },
+      "artists": [
+        {
+          "name": "AMIRAE",
+          "url": "https://open.spotify.com/artist/2T6IiO1IXfZhvWsaIJGnFm"
+        }
+      ],
+      "duration_ms": 181335,
+      "name": "REACH - Spotify Singles",
+      "url": "https://open.spotify.com/track/6LyKzG5zgv2WE92s8OX6Ct"
+    },
     {
       "added_at": "2026-05-27 16:43:43",
       "album": {

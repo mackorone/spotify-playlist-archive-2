@@ -6111,6 +6111,24 @@
     },
     {
       "album": {
+        "name": "Ocean Floor",
+        "url": "https://open.spotify.com/album/7qMJHefVxa2LLZ9AH4HHO0"
+      },
+      "artists": [
+        {
+          "name": "Cam Get'm",
+          "url": "https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244401,
+      "name": "Ocean Floor",
+      "url": "https://open.spotify.com/track/1Ftf2kYACoXtuBXiqh8Y8K"
+    },
+    {
+      "album": {
         "name": "Catalyst",
         "url": "https://open.spotify.com/album/3Mdlq7baYKAOflVaIP9Poa"
       },
@@ -8160,6 +8178,24 @@
       "duration_ms": 218059,
       "name": "The Show Must Go On",
       "url": "https://open.spotify.com/track/5vz5HR8tJJwTMobjNIrM6w"
+    },
+    {
+      "album": {
+        "name": "Seconds of Silence",
+        "url": "https://open.spotify.com/album/61NTznU5cgJ0v64hsabqTo"
+      },
+      "artists": [
+        {
+          "name": "Alice Sonia-Michael",
+          "url": "https://open.spotify.com/artist/5vx9u71vt3SlGjMuKcgOqr"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "The Spell",
+      "url": "https://open.spotify.com/track/1wcNxPDExKr3EdfePoFgmw"
     },
     {
       "album": {

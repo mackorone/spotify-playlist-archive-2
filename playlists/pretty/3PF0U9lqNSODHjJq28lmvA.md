@@ -4,29 +4,23 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,627 likes - 20 songs - 1 hr 10 min
+[Record Union](https://open.spotify.com/user/recordunion) - 2,627 likes - 14 songs - 47 min 39 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [A Very Very Loud Lullaby](https://open.spotify.com/track/6Txp7zLuzD87rpY5vLbbBP) | [Megahit](https://open.spotify.com/artist/31r426ivwXMoZRDpTOTLLA) | [Reflections On Society](https://open.spotify.com/album/5ZNRdJFauuRiJCRGNNdWd0) | 3:23 |
-| 2 | [Champagne Supernova](https://open.spotify.com/track/4gGsT5LYl2BntHpUGZb37e) | [JD Casper](https://open.spotify.com/artist/5Q0G3Qz3SZiB9OvGwaPMRL) | [Champagne Supernova](https://open.spotify.com/album/2BhRKpPwZGQgl0xmzVLfi6) | 3:20 |
-| 3 | [Blood Relics of Old](https://open.spotify.com/track/3snDNChFoW7AS0AzlvBY2v) | [Doomherre](https://open.spotify.com/artist/2ZDwJpB1ruc7Pnatp53WY2) | [Four Altars of Sin](https://open.spotify.com/album/17rPrgwQLm1nNQ08kviv2E) | 6:50 |
-| 4 | [rivers](https://open.spotify.com/track/4ZuZvheVp5chJnabtUvzbX) | [Mara Liddle](https://open.spotify.com/artist/2PaZwJzCnxNoIwXj2kROEy) | [EXTREME CONFIDENCE](https://open.spotify.com/album/2d91lmj6c6OIr2vSSYdIHm) | 2:51 |
-| 5 | [I Love Dancing](https://open.spotify.com/track/2wV2fR2ov8I0DJeMFoudJu) | [Master Of Puppets](https://open.spotify.com/artist/5x7trSzFlz3t27hFr9taRs) | [I Love Dancing](https://open.spotify.com/album/19KnhiqEiqrOFfFWfOwY5X) | 2:50 |
-| 6 | [HULDRA](https://open.spotify.com/track/4O8IEszLYdUO7DwO1KZXU6) | [Nephila](https://open.spotify.com/artist/5ZbjP0UFo6aonRXctRA4ju) | [HULDRA](https://open.spotify.com/album/7K18ZaszMGPkLwOGWWuY2R) | 3:24 |
-| 7 | [Hot Summer](https://open.spotify.com/track/5s07W85pAUI9ibpOrgHtho) | [Fredrik Olén](https://open.spotify.com/artist/4sj8U5GLXlKvAo0BhDqe1O) | [Hot Summer](https://open.spotify.com/album/0RQd5CyMU3cksNQNC90GAy) | 2:59 |
-| 8 | [Going down](https://open.spotify.com/track/610Yj0LegFO0D8rFtzeiBu) | [Overhead Compartments](https://open.spotify.com/artist/1l1Ybjg552x1F7EcgmEzYH) | [Going down](https://open.spotify.com/album/6CyG7LpcB6j184P7C4fxlY) | 3:26 |
-| 9 | [Byn jag kallar hemma](https://open.spotify.com/track/4gjeABUX8krvrnUwAjxPJB) | [Mikael Ivarsson](https://open.spotify.com/artist/4d9tSm7JD6nSok1r0W25yb) | [Byn jag kallar hemma](https://open.spotify.com/album/4DZsvyslyFvw0QEHyqwHnm) | 4:11 |
-| 10 | [Different skin](https://open.spotify.com/track/4yr9bdgEOIHOC05fQa4L7z) | [The Loner Collective](https://open.spotify.com/artist/2gS2jUS2xz5bTIb8W8holO) | [Different skin](https://open.spotify.com/album/0Fwj6Gwg5v0zOJUx8NVYOl) | 3:37 |
-| 11 | [Space Warr](https://open.spotify.com/track/0TQbyffTxOzmVYxPbNZxIj) | [Ondřej Urban](https://open.spotify.com/artist/0OJqmhqhMjDCYcqezve177), [Andre The Sun](https://open.spotify.com/artist/6uXRimFckTsyuyJfH6Kboz) | [Space Warr](https://open.spotify.com/album/7z1aHIxGXnPg2sdAK9tA0l) | 2:27 |
-| 12 | [Diva](https://open.spotify.com/track/3CFHkiTF27bmT3TAMcomjt) | [Edviq](https://open.spotify.com/artist/7zqgRIhXuVIcXPi3AMvnUj), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Diva](https://open.spotify.com/album/6Kn8hQjHNLPGjsDoBjTeSC) | 4:02 |
-| 13 | [Pretender](https://open.spotify.com/track/32ROI3TuqwOsT9VRV8E2y8) | [Valeria Frattini](https://open.spotify.com/artist/5RkNVwHWnEpdI5vnIcC1P9) | [Pretender](https://open.spotify.com/album/7vXoQIOz7YumEai0BBCFE2) | 2:49 |
-| 14 | [WAS IST MIT MIR LOS?](https://open.spotify.com/track/1pyoylHCA6uWGUA5wyJdZ2) | [LOSTBOIPERO](https://open.spotify.com/artist/2jhcyVMawes691hqOove5o) | [WAS IST MIT MIR LOS?](https://open.spotify.com/album/0BHAqqyj6f2L6tc8QH7Vnz) | 2:26 |
-| 15 | [Give me the simple life](https://open.spotify.com/track/2PSrJ5eD4cOEf5SUVG6dLR) | [Lena Fagerström](https://open.spotify.com/artist/3crOkmWE3A11g1qJ3jMkDO) | [Everybody's song but my own\. Twelve unthreaded beads](https://open.spotify.com/album/5gLxrd0lbPoiZrRdARM3DA) | 5:41 |
-| 16 | [Kommer När Du Går](https://open.spotify.com/track/14Ghy929Xm7aGSRMUPYwsp) | [Anders Ekblad](https://open.spotify.com/artist/5B4gH5IO4IAyAHag75iNyE) | [Kommer När Du Går](https://open.spotify.com/album/7e5QdiDnSn7YlZtJqDE0r6) | 3:24 |
-| 17 | [Amazonchaufför](https://open.spotify.com/track/63P2jNAi8Er3U58j1p3xku) | [Ulf Edlund](https://open.spotify.com/artist/06L5kd3ZgdanXoSKYoYksb) | [Amazonchaufför](https://open.spotify.com/album/27qg7hh9AKpGFT9uGdLFhu) | 2:41 |
-| 18 | [Mr\. Sincere](https://open.spotify.com/track/0B4qbVe0n2qWpEFDObhwkg) | [The Riverstones](https://open.spotify.com/artist/2oFDCmtK2WsxKg2CenFiiF) | [Mr\. Sincere](https://open.spotify.com/album/4mNyA0Xr5AsrZsk7zCzykp) | 2:40 |
-| 19 | [Screaming @ my TV](https://open.spotify.com/track/7DWN7ZvBvL3L6clKHm1Bsm) | [Why The Hell Knot](https://open.spotify.com/artist/2b5JtPdLt8prXEufNj9aZh) | [Screaming @ my TV](https://open.spotify.com/album/00HFcmEZh4gAdRoyMfwnKM) | 2:06 |
-| 20 | [Zombieapokalypsen](https://open.spotify.com/track/66ki9ZWoh6O3gDM9Jje0ns) | [Joakim Linder](https://open.spotify.com/artist/3v0JN2zJrQX75xioUixQk2) | [Zombieapokalypsen](https://open.spotify.com/album/76kC71kHzvPX7WcA1IAE8b) | 4:46 |
+| 1 | [Het Laatste Liedje](https://open.spotify.com/track/54us9QhzQmCJUz3I3gQR10) | [Onkruid](https://open.spotify.com/artist/74Yus6IHfa3tWZzXXAYtS2) | [Het Laatste Liedje](https://open.spotify.com/album/4LMX0rl4lKHuyBroLARL8h) | 4:26 |
+| 2 | [I Trust In You](https://open.spotify.com/track/0PNYxX37hAwFtObsJca4zV) | [Peter Saint Paul](https://open.spotify.com/artist/4iadmqrhLR7PBzLzAqyeZz) | [I Trust In You](https://open.spotify.com/album/44SADmNnhgjLb51TZJAA7e) | 3:16 |
+| 3 | [En sån som du](https://open.spotify.com/track/3HzmMVGU6u6c4RqF2cKBGs) | [Maja Amcoff](https://open.spotify.com/artist/1rsfJb1udp1uOyUDKbxwsl) | [En sån som du](https://open.spotify.com/album/7HeOylG4ztZdoEruRb5BWh) | 2:53 |
+| 4 | [A New Life](https://open.spotify.com/track/5SD5DVPlgkiufkfiS5XlgN) | [Alban Bentein](https://open.spotify.com/artist/5QwCteqkggJLF2lndR1v41) | [A New Life](https://open.spotify.com/album/6t653Gxh4ERigmzsiG3416) | 4:46 |
+| 5 | [Super Fly](https://open.spotify.com/track/5ezfN1m4ewKSTbUDlOQIc8) | [Johnnypump](https://open.spotify.com/artist/1phLwjTTswF8V7dY2xWDPB) | [Echoes In My Head](https://open.spotify.com/album/3gkxL9zn7vZNhnKiZT6oDP) | 3:28 |
+| 6 | [Father Told Me](https://open.spotify.com/track/5XsHbICzsP7APx3zHbydpw) | [Johnnypump](https://open.spotify.com/artist/1phLwjTTswF8V7dY2xWDPB) | [Echoes In My Head](https://open.spotify.com/album/3gkxL9zn7vZNhnKiZT6oDP) | 3:31 |
+| 7 | [Soft Collision](https://open.spotify.com/track/17VkQCohrbRhJYGFkNQPW9) | [TypingtoLeila](https://open.spotify.com/artist/0RXdAvGg73qgsLLt4ecwFD) | [Soft Collision](https://open.spotify.com/album/5ujJFhEg2Ut3Cdvg70uNci) | 4:56 |
+| 8 | [WAR](https://open.spotify.com/track/2wKCkoefmH4oXBtYGCIcLH) | [PWEKEH](https://open.spotify.com/artist/6B8pOmiTugPlGpxmX0JmGn) | [WAR](https://open.spotify.com/album/0QLBr0P0H7vIFPq3y0YFtz) | 2:18 |
+| 9 | [I'm Feeling Good Today](https://open.spotify.com/track/0VoDlX2eOR2CGbEXLtpnJW) | [Gina Meredith](https://open.spotify.com/artist/7cZOakhcvAEweuWua2SCvp) | [I'm Feeling Good Today](https://open.spotify.com/album/67VL20P880MeI7Yf8pHc0m) | 3:10 |
+| 10 | [somehow, it's beautiful](https://open.spotify.com/track/1GTaJ8pJbaLplQWdg1KWSg) | [julight](https://open.spotify.com/artist/3T0kTom3QV3DECP1Y7Ae5I), [chanmin](https://open.spotify.com/artist/2oalcsPozrfPCN09fmPY14) | [somehow, it's beautiful](https://open.spotify.com/album/30MbqfSu5RN7qJgf1XK2ZY) | 2:57 |
+| 11 | [Paint the Scene](https://open.spotify.com/track/1iQ0YGKVdaIjM8lKjwZ6tk) | [Hovering Orville](https://open.spotify.com/artist/3HUBII1Hw6CWLJj6QLxF5o) | [Paint the Scene](https://open.spotify.com/album/2rpwkWAGCiBIsLF1ZNuPW8) | 3:26 |
+| 12 | [NO VOLVERAS](https://open.spotify.com/track/1MQzhAV3VLPv0xGzLHQSHF) | [Paulina Villalobos](https://open.spotify.com/artist/4gJVJMii1MAM1px2ncCFdz) | [NO VOLVERAS](https://open.spotify.com/album/7Kd3ZiDCcYnOiUuCVJlQtj) | 3:06 |
+| 13 | [Kampene](https://open.spotify.com/track/2ba2INDcM3US8h9HUBFuKB) | [Trassalder'n](https://open.spotify.com/artist/1Tue9AopquwerXO0gTzzif) | [Kampene](https://open.spotify.com/album/4k9x3zVYquzlL9G751cW3F) | 1:41 |
+| 14 | [Riviera Girl](https://open.spotify.com/track/3SBWCd3P267RQkAXlf9ymV) | [Remi Miles](https://open.spotify.com/artist/40IOAWGkiOk059AYcr74P1) | [Riviera Girl](https://open.spotify.com/album/7pHwPu4jcnEo4VserhAbay) | 3:40 |
 
-Snapshot ID: `AAAF6KjFvqm1GlGacPwcTpgPgtiONigK`
+Snapshot ID: `AAAF61u1ouwYm9d2ebR1+N89fZRW5qU5`

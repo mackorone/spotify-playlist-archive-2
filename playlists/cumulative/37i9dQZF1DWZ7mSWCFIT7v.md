@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-603 songs - 2 day 0 hr 19 min
+606 songs - 2 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,11 +199,12 @@
 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 | 2023-08-29 | 2025-06-07 |
 | [Fast Forward](https://open.spotify.com/track/5zdVpoDxG32whKcaUVKL6Q) | [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3) | [In Memory](https://open.spotify.com/album/2PnP9SF40IrUcC7V8vgYrV) | 3:47 | 2025-07-09 | 2026-02-05 |
 | [Felt compute, might delete](https://open.spotify.com/track/4euYmucoRKixWMTtg2Yan7) | [Jas Shaw](https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV) | [Felt compute, might delete](https://open.spotify.com/album/5bVViDPthJW16lx3kO2IS8) | 3:49 | 2021-10-06 | 2023-05-13 |
-| [Fena](https://open.spotify.com/track/6aO8Nz4Q4sY0LFoF19woBM) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [Fena](https://open.spotify.com/album/7dyMd5Q323re0dsPrbMldv) | 4:44 | 2025-06-13 |  |
+| [Fena](https://open.spotify.com/track/6aO8Nz4Q4sY0LFoF19woBM) | [Impérieux](https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK) | [Fena](https://open.spotify.com/album/7dyMd5Q323re0dsPrbMldv) | 4:44 | 2025-06-13 | 2026-07-04 |
 | [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 | 2021-10-06 | 2025-06-07 |
 | [Fi](https://open.spotify.com/track/65oqnwkByGPqrSghuq3cEw) | [Bby Eco](https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu) | [Fi ⋰ Sol](https://open.spotify.com/album/0P0ugNHZL6uEpEiP1o1p4Y) | 2:22 | 2025-07-30 | 2025-12-01 |
-| [Fibre Axis](https://open.spotify.com/track/7oi0tg1vbaS8AtgpXBGfwV) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX), [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm) | [Cross Passage](https://open.spotify.com/album/62oPpbxnbmg0fi0TUAoUAP) | 6:18 | 2025-11-03 |  |
+| [Fibre Axis](https://open.spotify.com/track/7oi0tg1vbaS8AtgpXBGfwV) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX), [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm) | [Cross Passage](https://open.spotify.com/album/62oPpbxnbmg0fi0TUAoUAP) | 6:18 | 2025-11-03 | 2026-07-04 |
 | [Flatworm Meets Sea Slug](https://open.spotify.com/track/2SVKNL8UJ0s5r2VwTc81E2) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worm](https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0) | 3:18 | 2024-10-25 | 2025-08-12 |
+| [Flicker](https://open.spotify.com/track/4OlmBjwcjlj5swE6Q1RIEQ) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr), [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Exhale](https://open.spotify.com/album/22jowoaOweuYui1WgFZvvB) | 6:03 | 2026-07-03 |  |
 | [Flickering Shadows](https://open.spotify.com/track/7p184ALKyLhtJb8IhmX8qy) | [Laughing Ears](https://open.spotify.com/artist/459p6MR7jigJ8AuqdSYMoj) | [Blood](https://open.spotify.com/album/4ONOBiVS1bbOzYo05uVgT8) | 4:39 | 2021-10-06 | 2025-07-17 |
 | [FlimFlam](https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO), [I Am Robot And Proud](https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA) | [FlimFlam](https://open.spotify.com/album/00lTgznpnHiEYA9xEY9nHD) | 3:11 | 2021-10-06 | 2025-07-17 |
 | [Fluo](https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Inkjet / Fluo](https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl) | 8:22 | 2021-10-06 | 2025-07-17 |
@@ -242,6 +243,7 @@
 | [I Can't Die As Well](https://open.spotify.com/track/2raPU3XehkE9fu9i7nPm45) | [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [I Can't Die As Well](https://open.spotify.com/album/2EnPEXGeSR82AuXVVUA7ok) | 2:25 | 2023-02-16 | 2025-07-17 |
 | [I Don't Know If That's Just Dreaming](https://open.spotify.com/track/01pY3jX6Sqc4iEBgdHXXH1) | [Anthony Naples](https://open.spotify.com/artist/20bB5IFRjHw1EIAHvZ3tgd) | [Chameleon](https://open.spotify.com/album/58eIjs7Jdv4fsnW10Jwehe) | 5:16 | 2021-10-06 | 2025-07-17 |
 | [I Exist Inside This Machine](https://open.spotify.com/track/4H3bAliffBEGwr1tKkHheR) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Aneek Thapar](https://open.spotify.com/artist/7ib2ZAqoKc68C2Uks3aN24) | [I Exist Inside This Machine](https://open.spotify.com/album/73Id9hBvdlVdQnftlULeDn) | 5:02 | 2025-02-21 | 2025-07-24 |
+| [I Wander \(IV + V\)](https://open.spotify.com/track/1MfOMpg9fTsBWRbOdy8aqx) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [I Wander \(IV + V\)](https://open.spotify.com/album/2llnA988XlEflLbh7FgXco) | 3:26 | 2026-07-03 |  |
 | [I Wish I Had Something To Say But I Don't](https://open.spotify.com/track/7hPsHelRDnWPc5eu2EtLGL) | [That bb](https://open.spotify.com/artist/1EeNood6FrkpWHqrHUNMGF) | [I Wish I Had Something To Say But I Don't](https://open.spotify.com/album/6j4Txn6EYXnKVJrza1pEhL) | 4:01 | 2025-06-09 | 2026-02-14 |
 | [Idios Kosmos](https://open.spotify.com/track/1C0IakWejLOv4J46VyxZ0O) | [Anoesis](https://open.spotify.com/artist/4VXldnZulewPMTxIT6wySQ) | [Idios Kosmos EP](https://open.spotify.com/album/7yNmrSX3ZwDotyyHfPkifk) | 4:50 | 2026-03-20 |  |
 | [Image of You](https://open.spotify.com/track/3Q2NYGJZI7UIl7cXmr2BRQ) | [Swami Sound](https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII), [gum.mp3](https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa), [m.e.h.](https://open.spotify.com/artist/34qZFVOVlhAXCN4ZNB9CQQ) | [Image of You](https://open.spotify.com/album/2Q7U980j3l9ACcw4zRDeap) | 4:37 | 2025-08-01 | 2026-04-18 |
@@ -409,7 +411,7 @@
 | [Rejser](https://open.spotify.com/track/2zHDLkyEqwup69ZCR2mOAX) | [Emil Mark](https://open.spotify.com/artist/1qlDl83uNVefTibpCIvCoa) | [Rejser](https://open.spotify.com/album/0qA1RVPxi208LwgJU8p8X0) | 4:46 | 2026-02-04 |  |
 | [Reluctant Memory](https://open.spotify.com/track/168TsA6bdm7pt73KVyVyZM) | [DJ Sports](https://open.spotify.com/artist/7EJ8xVXZJezYW7Y1xvJ2Yb) | [Modern Species](https://open.spotify.com/album/4sZvkjrogy7HbQ0M5CNCEL) | 5:58 | 2021-10-06 | 2025-07-17 |
 | [Remaining](https://open.spotify.com/track/65aUooGV1yBpAwg868XHKK) | [Niels Orens](https://open.spotify.com/artist/56HzUkOrdunCoUYH2w25Xu) | [Remaining](https://open.spotify.com/album/0VfO1FISG5LLtjx5sBIzNI) | 4:13 | 2026-02-27 |  |
-| [Remove Fear](https://open.spotify.com/track/3gp09N5BSTauvrPBEVtwTd) | [John Bryars](https://open.spotify.com/artist/11lKgHtYOHyg6QTafxD7Id) | [Invariant](https://open.spotify.com/album/03ybXhJPVcgzaG7KbCs8uk) | 2:54 | 2026-03-18 |  |
+| [Remove Fear](https://open.spotify.com/track/3gp09N5BSTauvrPBEVtwTd) | [John Bryars](https://open.spotify.com/artist/11lKgHtYOHyg6QTafxD7Id) | [Invariant](https://open.spotify.com/album/03ybXhJPVcgzaG7KbCs8uk) | 2:54 | 2026-03-18 | 2026-07-04 |
 | [Replica](https://open.spotify.com/track/4JvZ9aZDSG1vQigKPHGpaG) | [Aloka](https://open.spotify.com/artist/4UbgpaTDik0SDhBQq5Ucmt) | [Strange Forms](https://open.spotify.com/album/0gnnKS26a9maxCXGwuwAWn) | 4:48 | 2026-01-30 | 2026-04-18 |
 | [Resonances From The D \- Bonus Track](https://open.spotify.com/track/2qza3GP3Bp4dowRBd6lk1Y) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [fabric presents Laurent Garnier: Rhythmic Resonance \(Mixed\)](https://open.spotify.com/album/4GR1hk1LnQ7Qq4ZWonzfiw) | 8:20 | 2025-05-20 | 2025-10-25 |
 | [Resounding](https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs) | [Hotspring](https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G) | [Obit For Sunshade](https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2) | 2:51 | 2021-10-06 | 2025-07-17 |
@@ -610,6 +612,7 @@
 | [ニイミ](https://open.spotify.com/track/6uXnpJHSF3kWKMdy3EX1tU) | [Kentaro Minoura](https://open.spotify.com/artist/0xzPunBbhUsUCfv5WaxYGb) | [御徒街徒御](https://open.spotify.com/album/00NDibpwFIVSYsD9DRR4H1) | 5:22 | 2021-10-06 | 2025-07-17 |
 | [悲哀](https://open.spotify.com/track/7pNYDevPRpNiBewv99EdOq) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [新しい日の誕生](https://open.spotify.com/album/01m2bictEiKiVzFjk0h28N) | 9:23 | 2021-10-06 | 2025-06-07 |
 | [－－ ･･－ ･－･･ － ･･ ･－－･ ･－･･ ･－ －･－－](https://open.spotify.com/track/7bL84oIvqZ0IZJ4lWacv9J) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－ ･･－ ･－･･ － ･･ ･－－･ ･－･･ ･－ －･－－](https://open.spotify.com/album/4tBwdh6WoPWNPZXddWw1y3) | 3:32 | 2026-03-06 |  |
+| [－－－ －･ ･－･･ －･－－](https://open.spotify.com/track/4XupTIpXQXHehljGjLkiwl) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－－ －･ ･－･･ －･－－](https://open.spotify.com/album/7p8WjXvUzAa4MThnghq0bw) | 4:38 | 2026-07-03 |  |
 | [･･･ ･－ ･･ ･－･･ ･ －･･](https://open.spotify.com/track/2puMGofzX4oeRpZRNPL6Ms) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [･･･ ･－ ･･ ･－･･ ･ －･･](https://open.spotify.com/album/1wlPVruRAiEOIFWLQahnJx) | 4:21 | 2026-05-08 |  |
 
 \*This playlist was first scraped on 2022-02-17. Prior content cannot be recovered.

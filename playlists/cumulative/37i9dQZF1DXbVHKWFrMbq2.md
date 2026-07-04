@@ -4,7 +4,7 @@
 
 > canciones para chillear con Mon Laferte
 
-239 songs - 12 hr 54 min
+240 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Rotonda](https://open.spotify.com/track/5pyrz5N78YAqu8lRWqeTTw) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Antes de saltar](https://open.spotify.com/album/0s0qKu5A9V7uwxiAjs0Cig) | 3:49 | 2026-02-27 |  |
 | [SABOR A MÍ \(La Gloria Eres Tú\)](https://open.spotify.com/track/6cvRJMy82kZbhnwVSLspJR) | [Eve Calletti](https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP) | [SABOR A MÍ \(La Gloria Eres Tú\)](https://open.spotify.com/album/32NSNxumROUNYVCTobz6eR) | 3:59 | 2026-06-26 | 2026-07-03 |
 | [Satellite](https://open.spotify.com/track/1G9hDB1bmxz131N9svQ8pY) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Satellite](https://open.spotify.com/album/1NmhmrcrG143ODfGk9myHE) | 3:06 | 2023-10-17 | 2025-03-21 |
+| [Se Acabó](https://open.spotify.com/track/05dNNUYbOk97NSMS4zLdhi) | [Mimi Leclercq](https://open.spotify.com/artist/5jROvsAhZsmmETG67HIyYC), [Pumba Dos Santos](https://open.spotify.com/artist/0gdjAXFsHUD66t1fLVBw5h) | [Se Acabó](https://open.spotify.com/album/3venbc3z2HDQ6UYzLQPA6w) | 3:05 | 2026-07-03 |  |
 | [SER AMIGOS \(olvida\)](https://open.spotify.com/track/1Hgqs710QBTM5lp7Tbv8ad) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [SER AMIGOS \(olvida\)](https://open.spotify.com/album/6fjvO0I7QKkKLrpr4esvh1) | 4:07 | 2026-04-24 |  |
 | [Será Mi Culpa?](https://open.spotify.com/track/0e5wmUTalS4NiyNjMYmBIA) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Será Mi Culpa?](https://open.spotify.com/album/4A1s03L5Tw52zY0FamWkDW) | 2:19 | 2023-10-17 | 2024-03-30 |
 | [Será Mi Culpa? \- Remix](https://open.spotify.com/track/1T3viKR66WWgdexUxBhN45) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz) | [Será Mi Culpa? \(Remix\)](https://open.spotify.com/album/11vGF7By6oRKcFvfYikj1N) | 3:17 | 2023-10-17 | 2024-03-30 |

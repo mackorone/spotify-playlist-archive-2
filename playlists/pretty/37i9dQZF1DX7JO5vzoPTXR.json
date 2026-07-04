@@ -1,13 +1,349 @@
 {
-  "description": "Songs that are 100% written, produced, and performed by Women! Co-Curated this month by:  Andrea Rocha",
-  "num_followers": 89667,
+  "description": "Songs that are 100% written, produced, and performed by Women! Co-Curated this month by:  Carrie K",
+  "num_followers": 89703,
   "original_name": "Created by Women",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANsqMykcoQrSPBCT6p6OJIQy1XqK",
+  "snapshot_id": "AAAAAEGQn6bIiz7SC0s1e0qjv++lYmog",
   "tracks": [
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "Triple Shooting Star",
+        "url": "https://open.spotify.com/album/1aKpJBuspv01k8rfpD4wqR"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "duration_ms": 188097,
+      "name": "Big House On A Mountain",
+      "url": "https://open.spotify.com/track/2WF9Q4boqpB5EGnKUb00YF"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "Some Things Never Leave",
+        "url": "https://open.spotify.com/album/6SjTebu5erz22LeboDHsML"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Dinda",
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+        }
+      ],
+      "duration_ms": 190476,
+      "name": "The Hand",
+      "url": "https://open.spotify.com/track/7mFYoVfIh5JXfiUAQqSRYu"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "19 MASTERS",
+        "url": "https://open.spotify.com/album/71XSXeqU8507mW0raHyeUN"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 206374,
+      "name": "IF THERE\u2019S NO SEAT IN THE SKY (WILL YOU FORGIVE ME???)",
+      "url": "https://open.spotify.com/track/7HZBcgvSFZ7A6nYxM5ygvF"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "Speak for Yourself (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "duration_ms": 180303,
+      "name": "Just for Now",
+      "url": "https://open.spotify.com/track/64kEBCPbeV06af3omyh1Ju"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "I BELIEVE",
+        "url": "https://open.spotify.com/album/52vIwZaFvtkqjKRVL9gFAX"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "I BELIEVE",
+      "url": "https://open.spotify.com/track/65wnRdFa9Hjl3Qw46zijJy"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "Court and Spark",
+        "url": "https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 204186,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/0tVzXGFyNPusa1VkHmYDLd"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "Addison",
+        "url": "https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 152495,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "Rhinestoned",
+        "url": "https://open.spotify.com/album/5XEFMMgAByAZq8rYn6hE6t"
+      },
+      "artists": [
+        {
+          "name": "Maggie Antone",
+          "url": "https://open.spotify.com/artist/6mEP6006jfAcrzLbxyEZxp"
+        }
+      ],
+      "duration_ms": 256881,
+      "name": "High Standards",
+      "url": "https://open.spotify.com/track/66A7J1dZ2mKWXB6EODRZaH"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "Saves The World",
+        "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 245854,
+      "name": "Taken",
+      "url": "https://open.spotify.com/track/1DCf4TQUJdWWXLM8LOIWA7"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "Mess of Me",
+        "url": "https://open.spotify.com/album/46JFJGCzC0dQorrEOHlyU2"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "duration_ms": 201613,
+      "name": "Mess of Me",
+      "url": "https://open.spotify.com/track/3u4DrwbtucduFIMaUZtgwk"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "Good Boy",
+        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "Good Boy",
+      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "rain",
+        "url": "https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 254230,
+      "name": "rain",
+      "url": "https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "The Diary Of Alicia Keys",
+        "url": "https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        }
+      ],
+      "duration_ms": 228706,
+      "name": "If I Ain't Got You",
+      "url": "https://open.spotify.com/track/3XVBdLihbNbxUwZosxcGuJ"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "All Good Men",
+        "url": "https://open.spotify.com/album/43cC6Wx7CTKWC25ByXQJXl"
+      },
+      "artists": [
+        {
+          "name": "Kathryn Gallagher",
+          "url": "https://open.spotify.com/artist/3ih5Zv6GiMsezuTQy6zflD"
+        }
+      ],
+      "duration_ms": 138846,
+      "name": "Excuse Me, I'm Speaking",
+      "url": "https://open.spotify.com/track/46l6HTqqNBysg4IokCKET9"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/6zkM9aXglPHVXWz5UoIf7T"
+      },
+      "artists": [
+        {
+          "name": "PYTKO",
+          "url": "https://open.spotify.com/artist/2vH1O5Nw59lQVEhX9BeIfr"
+        },
+        {
+          "name": "Waterbaby",
+          "url": "https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Justice",
+      "url": "https://open.spotify.com/track/2YngYkcu2jlUOIRsrR4KJF"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "Pretty Little Highs",
+        "url": "https://open.spotify.com/album/3tfd8zy3hbStwGhRbNa4Fi"
+      },
+      "artists": [
+        {
+          "name": "Noriella",
+          "url": "https://open.spotify.com/artist/3YGi8XIyDp51urKGTTLOhe"
+        }
+      ],
+      "duration_ms": 150882,
+      "name": "Pretty Little Highs",
+      "url": "https://open.spotify.com/track/4RpKKP65SNUHFfCK2uRSoY"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "GUTTER",
+        "url": "https://open.spotify.com/album/50DHOda8sOEfaxQJfhzyhT"
+      },
+      "artists": [
+        {
+          "name": "FACTORY",
+          "url": "https://open.spotify.com/artist/1n14UqdErWRuhHPO3oWTf4"
+        },
+        {
+          "name": "Murielle",
+          "url": "https://open.spotify.com/artist/5UQjojCaZvw1XFLA9lodTS"
+        },
+        {
+          "name": "Von",
+          "url": "https://open.spotify.com/artist/4I6ModFVv3BWDsjMqzYcMc"
+        },
+        {
+          "name": "Sophie Hintze",
+          "url": "https://open.spotify.com/artist/2PuvS2BroRdS81r09CCnPH"
+        },
+        {
+          "name": "Halima",
+          "url": "https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap"
+        }
+      ],
+      "duration_ms": 179408,
+      "name": "GUTTER",
+      "url": "https://open.spotify.com/track/2dBek4NrMAlfpqPgnYo2kH"
+    },
+    {
+      "added_at": "2026-07-03 04:23:31",
+      "album": {
+        "name": "Accidental Tattoo",
+        "url": "https://open.spotify.com/album/3OwghTltlARrWaoSIhnQCM"
+      },
+      "artists": [
+        {
+          "name": "case/lang/veirs",
+          "url": "https://open.spotify.com/artist/63I02CqRt2xKO0o5QvmHs5"
+        },
+        {
+          "name": "Neko Case",
+          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
+        },
+        {
+          "name": "k.d. lang",
+          "url": "https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586"
+        },
+        {
+          "name": "Laura Veirs",
+          "url": "https://open.spotify.com/artist/0jkK3K1ATFFHofEWjd2i00"
+        }
+      ],
+      "duration_ms": 195862,
+      "name": "Accidental Tattoo",
+      "url": "https://open.spotify.com/track/0JxUqyj3Zum5eT9fY7MJjd"
+    },
     {
       "added_at": "2026-06-12 04:01:20",
       "album": {
@@ -661,164 +997,24 @@
       "url": "https://open.spotify.com/track/4oe7YRTpx8in784w0Ggxn1"
     },
     {
-      "added_at": "2026-04-03 17:14:05",
+      "added_at": "2026-07-03 04:23:31",
       "album": {
-        "name": "Almost Did",
-        "url": "https://open.spotify.com/album/4t8FPBUkiUwOjJhXJzjIsj"
+        "name": "Triple Shooting Star",
+        "url": "https://open.spotify.com/album/1aKpJBuspv01k8rfpD4wqR"
       },
       "artists": [
         {
-          "name": "Julia Campbell",
-          "url": "https://open.spotify.com/artist/0WiKqOGwY43CFTWlz23Yud"
-        }
-      ],
-      "duration_ms": 145129,
-      "name": "Almost Did",
-      "url": "https://open.spotify.com/track/3eO4Rgv1UiBJRFXsXGUngq"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "SELFISH",
-        "url": "https://open.spotify.com/album/4Zp3fMgfdt9oElTyErCEA0"
-      },
-      "artists": [
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        },
         {
-          "name": "KANNER",
-          "url": "https://open.spotify.com/artist/6QNIXiyRL2CanldN3Qx7qh"
+          "name": "Carol Ades",
+          "url": "https://open.spotify.com/artist/3WuoKYR1zeLGxR29c53Vdr"
         }
       ],
-      "duration_ms": 158863,
-      "name": "WHEN IT'S ALL HAPPENING",
-      "url": "https://open.spotify.com/track/4XYKiljJ1RfGaJrbJ3QvgS"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "silent treatment",
-        "url": "https://open.spotify.com/album/0Hkt9Zqu1AHn51EBjh5mpt"
-      },
-      "artists": [
-        {
-          "name": "Freya Skye",
-          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
-        }
-      ],
-      "duration_ms": 142030,
-      "name": "silent treatment",
-      "url": "https://open.spotify.com/track/4T5bTjkZ5Ig3SPJnovf5GN"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/4utJOX1ShFfRa6oQA1ADh0"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Baggage",
-      "url": "https://open.spotify.com/track/1ubHDF8Y9eM6ptjsNROEJa"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "Golden Child",
-        "url": "https://open.spotify.com/album/4GYDIRP2U4z9Fko0GPznct"
-      },
-      "artists": [
-        {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
-        }
-      ],
-      "duration_ms": 208420,
-      "name": "Whether You Love Me or Not",
-      "url": "https://open.spotify.com/track/6zi7wW6xFHIMwMdpRAu2VH"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "No Tellin'",
-        "url": "https://open.spotify.com/album/3LWZnGXOjgtyjJxgMg61yR"
-      },
-      "artists": [
-        {
-          "name": "Caroline Jones",
-          "url": "https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y"
-        }
-      ],
-      "duration_ms": 228926,
-      "name": "No Tellin'",
-      "url": "https://open.spotify.com/track/6Bn2EMEGYss8PpdDhCmSYH"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "Girl to Girl",
-        "url": "https://open.spotify.com/album/4KOYQ5wkg84yhv2klrUNGN"
-      },
-      "artists": [
-        {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
-        }
-      ],
-      "duration_ms": 195293,
-      "name": "That's My Friend You're Talkin' About",
-      "url": "https://open.spotify.com/track/1nBjKKmiRT9xgr7oMhY76J"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "Stay The Night",
-        "url": "https://open.spotify.com/album/01ZXm2k9PdMIJE8I01gRqM"
-      },
-      "artists": [
-        {
-          "name": "l\u00f9isa",
-          "url": "https://open.spotify.com/artist/0we7IYHF0G5i1j934KBxUa"
-        }
-      ],
-      "duration_ms": 238282,
-      "name": "Stay The Night",
-      "url": "https://open.spotify.com/track/3CsUFsUp5guMgzaU9zSPj9"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "24 Songs of Christmas",
-        "url": "https://open.spotify.com/album/5DUzxLyznbSzGmtq7hEEkI"
-      },
-      "artists": [
-        {
-          "name": "GIRLSHOUSE",
-          "url": "https://open.spotify.com/artist/7f6pMdin7P3lrIO8Ux0d47"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "Mistletoe",
-      "url": "https://open.spotify.com/track/58g2fd2QbtWanV150Aomvt"
-    },
-    {
-      "added_at": "2026-04-03 17:14:05",
-      "album": {
-        "name": "Love Is A Kingdom",
-        "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Is There A Reason",
-      "url": "https://open.spotify.com/track/5WukHjLReaDzCm2ilksKix"
+      "duration_ms": 171684,
+      "name": "Like My Mother",
+      "url": "https://open.spotify.com/track/2zNuLLWvkMehRLKL1N3CTw"
     }
   ],
   "unique_name": "Created by Women",

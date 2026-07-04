@@ -178,7 +178,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 160874,
       "name": "Aeon",
       "url": "https://open.spotify.com/track/6Vo2knh1o9GQY72A2GJzok"
@@ -2194,7 +2194,7 @@
       ],
       "date_added": "2025-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 183157,
       "name": "Dawnveil",
       "url": "https://open.spotify.com/track/26jd2KNGSt3cHuM25yWjOG"
@@ -4163,6 +4163,24 @@
     },
     {
       "album": {
+        "name": "Gentle Foster",
+        "url": "https://open.spotify.com/album/7wyAntQOmF63ewsmTamJIa"
+      },
+      "artists": [
+        {
+          "name": "Claddagh Glas",
+          "url": "https://open.spotify.com/artist/5bN4xLWNDmClCk5kO9tPfi"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Gentle Foster",
+      "url": "https://open.spotify.com/track/5kD5OMyAAfdWmHXX7s43Ff"
+    },
+    {
+      "album": {
         "name": "Glass Moons, Quiet Orbits",
         "url": "https://open.spotify.com/album/6oMyrPpbGBK7nRQe4rW0l2"
       },
@@ -4524,6 +4542,24 @@
       "duration_ms": 200000,
       "name": "Hohenbol",
       "url": "https://open.spotify.com/track/6TYZYNqAoYfE64csvrZyoy"
+    },
+    {
+      "album": {
+        "name": "Hollowed",
+        "url": "https://open.spotify.com/album/35aT2nI5Q3Y9himybvaI2x"
+      },
+      "artists": [
+        {
+          "name": "Aurelia Drift",
+          "url": "https://open.spotify.com/artist/1yIF1xY9YyuJmbmIBtGuAT"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Hollowed",
+      "url": "https://open.spotify.com/track/2U9Kw2pKihvPNE4CXnZYXu"
     },
     {
       "album": {
@@ -5330,7 +5366,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 153437,
       "name": "Light",
       "url": "https://open.spotify.com/track/7aBoJSeSWakraNsxKk2xBs"
@@ -5406,6 +5442,24 @@
       "duration_ms": 162857,
       "name": "Lingering Dust",
       "url": "https://open.spotify.com/track/4uoFqBHR8YeFTADZeYRDik"
+    },
+    {
+      "album": {
+        "name": "Lioraen",
+        "url": "https://open.spotify.com/album/51gKqYfluVLF9ge5xHBM6F"
+      },
+      "artists": [
+        {
+          "name": "Embershine Air",
+          "url": "https://open.spotify.com/artist/0t0Tr9gZYNykV3EIFHSkUt"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168565,
+      "name": "Lioraen",
+      "url": "https://open.spotify.com/track/67I1gdIUPs3YhUzS5o6OcK"
     },
     {
       "album": {
@@ -5769,6 +5823,24 @@
     },
     {
       "album": {
+        "name": "Meadow Dreams",
+        "url": "https://open.spotify.com/album/6csrZX05UZrWKoX5e6Fv1e"
+      },
+      "artists": [
+        {
+          "name": "Blundstoft",
+          "url": "https://open.spotify.com/artist/2VvQi6CusXMIBImj5uNaTq"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Meadow Dreams",
+      "url": "https://open.spotify.com/track/7rKFCfBGJaP2APTYB0eaXw"
+    },
+    {
+      "album": {
         "name": "Meaningful Existence",
         "url": "https://open.spotify.com/album/2vfx3tT8Gv3a5BvRKksf8H"
       },
@@ -5928,6 +6000,24 @@
       "duration_ms": 193179,
       "name": "Memory in Still Air",
       "url": "https://open.spotify.com/track/2DHFpmwkPtc7Uq6iFIM9eN"
+    },
+    {
+      "album": {
+        "name": "Memory Palace",
+        "url": "https://open.spotify.com/album/3JA7aIbwppD1uBEkmi0v6g"
+      },
+      "artists": [
+        {
+          "name": "Lucent Fields",
+          "url": "https://open.spotify.com/artist/4SveGWyOHZ04gIYWm5baRC"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Memory Palace",
+      "url": "https://open.spotify.com/track/3Uzj7Nzr9TsnwF5OmO0l3t"
     },
     {
       "album": {
@@ -6198,6 +6288,24 @@
       "duration_ms": 90000,
       "name": "Morning Energy",
       "url": "https://open.spotify.com/track/43lvXJ34YtEwW2GWkFM8wT"
+    },
+    {
+      "album": {
+        "name": "Morning Glow",
+        "url": "https://open.spotify.com/album/09KckEMotdvUTIx1t1ZbO9"
+      },
+      "artists": [
+        {
+          "name": "August Cole",
+          "url": "https://open.spotify.com/artist/6eHsrWVVrIr0IlQTbMJE8O"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Morning Glow",
+      "url": "https://open.spotify.com/track/6lFTI52bgQ1Y8aABzzvSis"
     },
     {
       "album": {
@@ -7605,6 +7713,24 @@
     },
     {
       "album": {
+        "name": "Quiet Phase",
+        "url": "https://open.spotify.com/album/14pg4pkXtY9dM6tMVKBAw4"
+      },
+      "artists": [
+        {
+          "name": "Aquaimo",
+          "url": "https://open.spotify.com/artist/0TVxrxLRIiSOUrJdmjgg4f"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139838,
+      "name": "Quiet Phase",
+      "url": "https://open.spotify.com/track/4jBefxc0cusHAm21FJjn5p"
+    },
+    {
+      "album": {
         "name": "Quiet Stars",
         "url": "https://open.spotify.com/album/1160mTTHoFxFl3wFuIkUGX"
       },
@@ -8178,7 +8304,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 104000,
       "name": "Seamless",
       "url": "https://open.spotify.com/track/4wGb7Ia41shWuPARmbbFxD"
@@ -8635,6 +8761,24 @@
     },
     {
       "album": {
+        "name": "Slow Glow",
+        "url": "https://open.spotify.com/album/0gN1miOUF2h6H7Eqa13mGw"
+      },
+      "artists": [
+        {
+          "name": "Stella Solstice",
+          "url": "https://open.spotify.com/artist/7FSm6WuCSQ8l2Gq6hUphpM"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Slow Glow",
+      "url": "https://open.spotify.com/track/6kgRfqKWTEbEtVvLhQJjTy"
+    },
+    {
+      "album": {
         "name": "Slow Reverie",
         "url": "https://open.spotify.com/album/3zeHd2ekBpVIPdKxIrRgPv"
       },
@@ -8758,6 +8902,24 @@
       "duration_ms": 164175,
       "name": "Soft Orange",
       "url": "https://open.spotify.com/track/4ppEHoUyU8H9NH7tf1941Y"
+    },
+    {
+      "album": {
+        "name": "Soft Sky",
+        "url": "https://open.spotify.com/album/6uK20Ot6zllADVfMruvFbk"
+      },
+      "artists": [
+        {
+          "name": "Siestaphonic",
+          "url": "https://open.spotify.com/artist/0Yq3eHs1DRXkUOwMoJyfap"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163874,
+      "name": "Soft Sky",
+      "url": "https://open.spotify.com/track/4fQVzBgjBG5EgGOpW7IDLe"
     },
     {
       "album": {
@@ -9384,7 +9546,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 153375,
       "name": "Tao Flow",
       "url": "https://open.spotify.com/track/1b1A04shw3TfRZwbOPQd2Y"
@@ -10072,6 +10234,24 @@
       "duration_ms": 235624,
       "name": "Ventures",
       "url": "https://open.spotify.com/track/68t8OemDQYMtMlKj2dWezV"
+    },
+    {
+      "album": {
+        "name": "Vernal",
+        "url": "https://open.spotify.com/album/0xN7VLbL10RZCV4jBdaTtv"
+      },
+      "artists": [
+        {
+          "name": "Fhye",
+          "url": "https://open.spotify.com/artist/4OkwpFJVN2Zp05JhlkDnGb"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Vernal",
+      "url": "https://open.spotify.com/track/3ZIKJyWSsS6yYdU3CMUieO"
     },
     {
       "album": {

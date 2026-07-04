@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 62375,
+  "num_followers": 62381,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAAD+/DzXr2TqX1JXSG4whrr2",
+  "snapshot_id": "akWqAAAAAABsWOBwBambERhgNgtTtoxf",
   "tracks": [
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 95693,
-      "name": "Real Wild Child",
-      "url": "https://open.spotify.com/track/5bjjrtqrwNXi7mqigEnBr9"
+      "duration_ms": 211280,
+      "name": "Light of Day",
+      "url": "https://open.spotify.com/track/5n07f4xhDJbLPfeJUiJmsT"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 211280,
-      "name": "Light of Day",
-      "url": "https://open.spotify.com/track/5n07f4xhDJbLPfeJUiJmsT"
+      "duration_ms": 95693,
+      "name": "Real Wild Child",
+      "url": "https://open.spotify.com/track/5bjjrtqrwNXi7mqigEnBr9"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "A.C.D.C.",
-      "url": "https://open.spotify.com/track/094d5lrmlKxKyNGDaAR9Go"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
         "url": "https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 173853,
       "name": "New Orleans",
       "url": "https://open.spotify.com/track/23HlNoDhdGInIMcg4U9vuA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "A.C.D.C.",
+      "url": "https://open.spotify.com/track/094d5lrmlKxKyNGDaAR9Go"
     },
     {
       "added_at": null,
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa"
+        "name": "First Sessions",
+        "url": "https://open.spotify.com/album/7i1OFBJxdffF2n51eE8DWv"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 310640,
-      "name": "I Wanna Be Your Dog",
-      "url": "https://open.spotify.com/track/2q9E4H2F41UU6tAGGnQLPY"
+      "duration_ms": 161066,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/3k3HYJsn50Gq3dEwD43tA1"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Sessions",
-        "url": "https://open.spotify.com/album/7i1OFBJxdffF2n51eE8DWv"
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 161066,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/3k3HYJsn50Gq3dEwD43tA1"
+      "duration_ms": 310640,
+      "name": "I Wanna Be Your Dog",
+      "url": "https://open.spotify.com/track/2q9E4H2F41UU6tAGGnQLPY"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
-        "url": "https://open.spotify.com/album/1p3KuU8VZEjN6t9jcl0ccl"
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 302760,
-      "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
-      "url": "https://open.spotify.com/track/4hioZPeQC25oPzJvmP2mMY"
+      "duration_ms": 188053,
+      "name": "Androgynous",
+      "url": "https://open.spotify.com/track/6Dks5KMCopv8WqhzXJ3Urm"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
+        "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
+        "url": "https://open.spotify.com/album/1p3KuU8VZEjN6t9jcl0ccl"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 188053,
-      "name": "Androgynous",
-      "url": "https://open.spotify.com/track/6Dks5KMCopv8WqhzXJ3Urm"
+      "duration_ms": 302760,
+      "name": "Season of the Witch (From the Netflix Series The Sons of Sam: A Descent Into Darkness)",
+      "url": "https://open.spotify.com/track/4hioZPeQC25oPzJvmP2mMY"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
       "duration_ms": 140066,
       "name": "Wooly Bully",
       "url": "https://open.spotify.com/track/0FDzI3JpnrDxYyaxJU6AwN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tank Girl Soundtrack",
-        "url": "https://open.spotify.com/album/5EmkiJMTXyVyQnOO84hKz7"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 143360,
-      "name": "Let's Do It - O.S.T.",
-      "url": "https://open.spotify.com/track/0AsgPWO44bOT7Bo4oArEEW"
     },
     {
       "added_at": null,
@@ -579,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tank Girl Soundtrack",
+        "url": "https://open.spotify.com/album/5EmkiJMTXyVyQnOO84hKz7"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 143360,
+      "name": "Let's Do It - O.S.T.",
+      "url": "https://open.spotify.com/track/0AsgPWO44bOT7Bo4oArEEW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dr. Demento Covered In Punk",
         "url": "https://open.spotify.com/album/2uGft4b3hT4lbPEeg89wh3"
       },
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 223986,
+      "name": "You Don't Know What You've Got",
+      "url": "https://open.spotify.com/track/2ikFuUAyiFxsnPxHI0o7mD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/2JaDeYoIt0NUOFuiPaLs51"
       },
@@ -635,54 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Little Liar",
-      "url": "https://open.spotify.com/track/78IlMYdaAwoR4cTPqPgMax"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "You Don't Know What You've Got",
-      "url": "https://open.spotify.com/track/2ikFuUAyiFxsnPxHI0o7mD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Music",
-        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 345000,
-      "name": "Good Music",
-      "url": "https://open.spotify.com/track/3H3e9wWaEjGDjPxZYVkNHp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Changeup (Acoustic)",
         "url": "https://open.spotify.com/album/4WC5cA9ntbziydoSV7bMlT"
       },
@@ -699,6 +667,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Little Liar",
+      "url": "https://open.spotify.com/track/78IlMYdaAwoR4cTPqPgMax"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Music",
+        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 139173,
+      "name": "Fun, Fun, Fun",
+      "url": "https://open.spotify.com/track/0zp6Byr3O05jhRYFhgTKSV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flashback",
         "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
       },
@@ -711,6 +711,22 @@
       "duration_ms": 215440,
       "name": "Activity Grrrl",
       "url": "https://open.spotify.com/track/2AcF2eTslhoR8ktNt03rlc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Hit List",
+        "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 141773,
+      "name": "Tush",
+      "url": "https://open.spotify.com/track/12tFpmVUAaQTrTbxGJUlTI"
     },
     {
       "added_at": null,
@@ -740,25 +756,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 139173,
-      "name": "Fun, Fun, Fun",
-      "url": "https://open.spotify.com/track/0zp6Byr3O05jhRYFhgTKSV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Hit List",
-        "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 141773,
-      "name": "Tush",
-      "url": "https://open.spotify.com/track/12tFpmVUAaQTrTbxGJUlTI"
+      "duration_ms": 345000,
+      "name": "Good Music",
+      "url": "https://open.spotify.com/track/3H3e9wWaEjGDjPxZYVkNHp"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Bring Me the Horizon are on top of today's best Metal playlist.
+> Ladrones are on top of today's best Metal playlist.
 
-1,382 songs - 3 day 17 hr 48 min
+1,385 songs - 3 day 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,12 +89,13 @@
 | [Anything at All](https://open.spotify.com/track/5p144lbzJw9kMCMOG61SF3) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Anything at All](https://open.spotify.com/album/62VQpaKM1gEjzZye2K7oQn) | 4:06 | 2021-12-20 | 2022-01-28 |
 | [Armageddon Eyes](https://open.spotify.com/track/7uzHcVdVNeUpNDdo56yMN2) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt), [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Bloom In Heaven](https://open.spotify.com/album/3f895XnoWWhMeM31qE3qS0) | 4:03 | 2025-03-28 | 2025-07-12 |
 | [Around Again](https://open.spotify.com/track/4F1dxX5lITUmxLG477eSap) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [The Host](https://open.spotify.com/album/5Y8k73BTYY8bPKCacVI8jW) | 2:45 | 2025-05-02 | 2025-07-05 |
+| [Arriba La L](https://open.spotify.com/track/1Hl32N6x9KEsSn7FndpDCe) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Arriba La L](https://open.spotify.com/album/6RY9EtwiB0SI7vZNcHIPiT) | 3:43 | 2026-07-03 |  |
 | [Arrow of Love](https://open.spotify.com/track/6IkcTpdDbL4OVg7skLdUyF) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [TEKKNO](https://open.spotify.com/album/1RCinQ2MnD8yNRsXKpeKFg) | 3:42 | 2022-09-30 | 2022-12-03 |
 | [ARTIFICIAL SUICIDE](https://open.spotify.com/track/65pi8lRBcEEyFCEa74rLug) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V) | [What do you want from me? + ARTIFICIAL SUICIDE + THE DEATH OF PEACE OF MIND](https://open.spotify.com/album/3UmYFTJACoS1VzbSDtWL1t) | 3:15 | 2021-12-20 | 2022-01-21 |
 | [Atonement \- feat\. Will Ramos](https://open.spotify.com/track/6WuWxcSMhQ6ntve4zT84RF) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64), [Will Ramos](https://open.spotify.com/artist/0LQyNolD82BRJeXoEr4bwa) | [Atonement \(feat\. Will Ramos\)](https://open.spotify.com/album/0pKIUiz87ZuuqW98B2NRuf) | 3:52 | 2025-01-24 | 2025-04-19 |
 | [Atropos](https://open.spotify.com/track/5LmeXeJ8McsxWZXgPkyhxs) | [Periphery](https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc) | [Atropos](https://open.spotify.com/album/3B1hA33fuFZKtet8TbZg9M) | 8:23 | 2023-03-03 | 2023-09-23 |
 | [Awen](https://open.spotify.com/track/2zYSX6VrJLcLhGKydo5asu) | [Eluveitie](https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT) | [Awen](https://open.spotify.com/album/6ZxBSS6hPV1IDtnAQ2Cjuw) | 4:22 | 2025-03-14 | 2025-07-12 |
-| [Ay Ay Ay](https://open.spotify.com/track/5WpfJrnqAtUqoGIRjJ8e7l) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Ay Ay Ay](https://open.spotify.com/album/5SIzBNK2TOYizzkc6PriUu) | 3:47 | 2026-05-01 |  |
+| [Ay Ay Ay](https://open.spotify.com/track/5WpfJrnqAtUqoGIRjJ8e7l) | [Ladrones](https://open.spotify.com/artist/5KGNQQzk32VSQv9If4X7A6) | [Ay Ay Ay](https://open.spotify.com/album/5SIzBNK2TOYizzkc6PriUu) | 3:47 | 2026-05-01 | 2026-07-04 |
 | [Back 2 Basics](https://open.spotify.com/track/4yY4tbcSXziTwr0UnC1bvq) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K), [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Back 2 Basics](https://open.spotify.com/album/3oum1Hu4K5hxkFTyEq9PDA) | 3:47 | 2025-08-22 | 2025-11-01 |
 | [Backfire](https://open.spotify.com/track/6qA3JeQaSLng3XmIFr7IC0) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu) | [Backfire](https://open.spotify.com/album/4DBR3CJvtw972fOYg93ndQ) | 4:22 | 2023-02-03 | 2023-03-04 |
 | [backfire](https://open.spotify.com/track/2Tt5CzJzz53tVCicnDwh2a) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [backfire](https://open.spotify.com/album/2KqvKZtVLgLolUw2AMMWB6) | 2:00 | 2024-02-16 | 2024-04-19 |
@@ -744,6 +745,7 @@
 | [Masks](https://open.spotify.com/track/21gKKYTUokTJQtJ2UeO9sd) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Masks](https://open.spotify.com/album/1MKBmgSsTf8RUtqHr2ckGT) | 3:35 | 2026-02-20 | 2026-03-28 |
 | [Master of Puppets \(Remastered\)](https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered Deluxe Box Set\)](https://open.spotify.com/album/7CGhx630DIjdJqaBDVKc5j) | 8:35 | 2022-08-05 | 2022-09-24 |
 | [Masterpiece](https://open.spotify.com/track/2gF7u3yLBTy6vGrxwQBoGF) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Masterpiece](https://open.spotify.com/album/43DSae6Eotlll1LnAsFXAo) | 3:26 | 2022-04-15 | 2022-05-13 |
+| [May this pain never leave](https://open.spotify.com/track/2nVtRRozQdPbCTOM3lKtcp) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [May this pain never leave](https://open.spotify.com/album/4LJ6GrSBOuG5cez5VrWnXa) | 3:25 | 2026-07-03 |  |
 | [May Your Memory Rot](https://open.spotify.com/track/6EHY0hgV1zrmAgPfBGzNuP) | [Bodysnatcher](https://open.spotify.com/artist/2tCl0ipvwJJRJLAuIGf6tm) | [Hell Is Here, Hell Is Home](https://open.spotify.com/album/7a0roKzewgD3kl7xaTQXZf) | 3:00 | 2026-04-17 |  |
 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 | 2024-08-30 | 2025-04-05 |
 | [Meat & Greet](https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Meat & Greet](https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp) | 3:30 | 2023-10-13 | 2024-05-04 |
@@ -844,7 +846,7 @@
 | [one by one](https://open.spotify.com/track/4vWjhclo8wnfpllXhiefxx) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [ALL IS BEAUTIFUL… BECAUSE WE'RE DOOMED](https://open.spotify.com/album/42KPmh26BJtkXWEQqsfIQ3) | 3:18 | 2025-08-22 | 2025-09-13 |
 | [One Foot In The Grave](https://open.spotify.com/track/54fPJ9UDx68KkayeuskyAJ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [One Foot In The Grave](https://open.spotify.com/album/1WMolNCGsDhGvhD0Nd0phw) | 3:42 | 2024-05-31 | 2025-01-18 |
 | [ONE HIT WONDER](https://open.spotify.com/track/13EORAL3cSWZmSRgRmEGI5) | [Attack Attack!](https://open.spotify.com/artist/1FcRUsTmnEQfVCH5OIKSpb) | [ONE HIT WONDER](https://open.spotify.com/album/2vgVnJmeHSZFOun6qyr0oH) | 3:06 | 2025-06-20 | 2025-10-11 |
-| [Only endless](https://open.spotify.com/track/4J7nXEIgYTeFOH2sb9MLtk) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [Only endless](https://open.spotify.com/album/1hLhvYGxOvyrbRGrFaFBHQ) | 4:01 | 2026-05-29 |  |
+| [Only endless](https://open.spotify.com/track/4J7nXEIgYTeFOH2sb9MLtk) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [Only endless](https://open.spotify.com/album/1hLhvYGxOvyrbRGrFaFBHQ) | 4:01 | 2026-05-29 | 2026-07-04 |
 | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/track/4AsbaXQRctKkAJ8IWGAarU) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf), [AJ Channer](https://open.spotify.com/artist/0mTRdMo44irGKR85VtzGKd) | [Only Human \(feat\. AJ Channer\)](https://open.spotify.com/album/1xMtCT2yCsr6GtSTOGh6iE) | 3:02 | 2022-04-01 | 2022-04-29 |
 | [Opaline](https://open.spotify.com/track/3LMWOBPxDCAdJXaQfcSjk1) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Devoured by the Mouth of Hell](https://open.spotify.com/album/4vZr6vNAUHUjLNmbjGI62l) | 3:21 | 2024-10-04 | 2025-03-01 |
 | [Ophelia](https://open.spotify.com/track/6OIwsCSyyx1IVodHI8qAX1) | [Balmora](https://open.spotify.com/artist/4thpVPtc68xxR1kilVSPPN), [holder](https://open.spotify.com/artist/0La7dwvDr7tD8omdqnkLpw) | [Ophelia](https://open.spotify.com/album/7xTB6UYpQjNWJOsFQxF9PH) | 4:29 | 2026-04-10 | 2026-05-02 |
@@ -934,6 +936,7 @@
 | [Red Fur](https://open.spotify.com/track/1jj922BgyJexH19yoHd23L) | [Veil Of Maya](https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1) | [Red Fur](https://open.spotify.com/album/0QouGNBQ8cnRBNBkKXrXgc) | 3:31 | 2023-03-24 | 2023-10-14 |
 | [Red Goliath](https://open.spotify.com/track/0FoeiOdqYxq9WemWs2jO7Q) | [Archspire](https://open.spotify.com/artist/7F9ZL4TJNr8AoU0UUQX8ih) | [Red Goliath](https://open.spotify.com/album/1wla1Wb8b8sJfCl8VD9bij) | 5:01 | 2026-03-13 | 2026-04-18 |
 | [Redemption Denied](https://open.spotify.com/track/4wyKOe2YG7urjGbxnKXu1L) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO) | [Redemption Denied](https://open.spotify.com/album/7G5Gjy1iTX9wU7lfkKRFfv) | 3:01 | 2025-03-07 | 2025-04-19 |
+| [rehearsed](https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [rehearsed](https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD) | 1:50 | 2026-07-03 |  |
 | [Relapse](https://open.spotify.com/track/4e69lTH22mwlIa6YTOg0PA) | [Dead Eyes](https://open.spotify.com/artist/0iuYfd0EWw6Itf957PU5U2) | [Relapse](https://open.spotify.com/album/0PBayHrHYSyUJshMzyDpXJ) | 3:14 | 2025-06-27 | 2025-09-06 |
 | [Relic of Damnation](https://open.spotify.com/track/0etLulfmYxPOTyznvesnt6) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY) | 2:27 | 2023-03-03 | 2023-05-13 |
 | [Remember Me](https://open.spotify.com/track/1xqt7wT0YY9YpP9jrTuVgG) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Remember Me](https://open.spotify.com/album/7daOpSeAgyfQMEd3YbIGPZ) | 4:04 | 2023-03-03 | 2023-11-04 |
@@ -1071,7 +1074,7 @@
 | [Spit](https://open.spotify.com/track/35UePqF4pjXRtIsF7jLBFi) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Spit](https://open.spotify.com/album/1A1imsxjEk8FxR6w31vjdh) | 2:30 | 2023-05-12 | 2023-10-07 |
 | [SPIT](https://open.spotify.com/track/19D6BVc07OVZpIMdOdq4AN) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [motionblur](https://open.spotify.com/album/3zXbRvUa5RiqdGUeB1Od40) | 2:28 | 2025-07-11 | 2025-10-18 |
 | [Spit XXV](https://open.spotify.com/track/0PCH56B4BPJuD7qikh6Y7e) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS) | 2:45 | 2025-10-31 | 2026-02-28 |
-| [split](https://open.spotify.com/track/5Sl5nxwOOREn5pBoZyPomu) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [split](https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m) | 2:11 | 2026-04-17 |  |
+| [split](https://open.spotify.com/track/5Sl5nxwOOREn5pBoZyPomu) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [split](https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m) | 2:11 | 2026-04-17 | 2026-07-04 |
 | [St\. Catherine's Wheel](https://open.spotify.com/track/0i3gZrr7j8WYvjDbhcR1oB) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Into Oblivion](https://open.spotify.com/album/5aI0bwD4XS3UGMP4Kx4wNl) | 4:05 | 2026-03-13 | 2026-04-11 |
 | [Stand Down](https://open.spotify.com/track/2tpiHcSSFCnpIH8HFzIUEa) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Shrine](https://open.spotify.com/album/6weRZNkcgMFxKcr98KC6Dg) | 4:06 | 2022-06-06 | 2022-08-06 |
 | [Stand Down](https://open.spotify.com/track/2ugULOhXNVpIvksyagm9Qr) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Stand Down](https://open.spotify.com/album/3YmIQSVKDgvDkDAdU03vEs) | 4:06 | 2022-04-15 | 2022-05-13 |

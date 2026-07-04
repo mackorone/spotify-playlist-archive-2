@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di LA NIÑA, Madonna, SETTEMBRE, Gianna Nannini con Marracash, Manuel Turizo e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,007 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,362 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 38 | [espiral](https://open.spotify.com/track/1BGmn3of8EaszOvSdnASwY) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [espiral](https://open.spotify.com/album/4ZHMWkHggFiceto49B8oJQ) | 3:39 |
 | 39 | [These Alarms](https://open.spotify.com/track/2IH6UvesVbl5dhFwf7syup) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [These Alarms](https://open.spotify.com/album/18yaAGsRMPGG24SxLPhu0K) | 3:21 |
 | 40 | [Timothée Chalamet \(feat\. 18K\)](https://open.spotify.com/track/4nZ8p1D1vWRE4F0O0wMz2y) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [4997](https://open.spotify.com/artist/0wBVwV8gukXKLSrVjQVJTE), [d/rose](https://open.spotify.com/artist/6h0OZeWlXrzF2akE3yNBta) | [OASI](https://open.spotify.com/album/2q8PFePAkviShkjh8eOoDm) | 2:38 |
-| 41 | [MUSICA TAGLIATA \(feat\. Pyrex\)](https://open.spotify.com/track/0V5V48MVxiDVZ0HJMXB7F1) | [Baby Kirua](https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN), [Pyrex](https://open.spotify.com/artist/4ELZUuHRIUrAkko2cjpWB1) | [CÔTE D’AZUR](https://open.spotify.com/album/7uqbSPazo2QeUnu1fYR6S8) | 2:30 |
+| 41 | [MUSICA TAGLIATA \(feat\. Pyrex\)](https://open.spotify.com/track/0V5V48MVxiDVZ0HJMXB7F1) | [Baby Kirua](https://open.spotify.com/artist/6O2qQMtMDB9JJjNhDaXjNN), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg) | [CÔTE D’AZUR](https://open.spotify.com/album/7uqbSPazo2QeUnu1fYR6S8) | 2:30 |
 | 42 | [MAFIA COCO \(feat\. Paky\)](https://open.spotify.com/track/10TkqPWcmci21OmdxRrhlf) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [MAFIA COCO \(feat\. Paky\)](https://open.spotify.com/album/0XytEmY7acJU0z9da6Telr) | 2:26 |
 | 43 | [Egoismo Altruista](https://open.spotify.com/track/6j4BEZHVjkA2ycoJ1LcXgG) | [Gallas](https://open.spotify.com/artist/0trWmturcmhrIVeVWbn1OT) | [Egoismo Altruista](https://open.spotify.com/album/1JquO74Ir8cugvk8IbWK63) | 4:09 |
 | 44 | [PUTT\*\*A \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/track/4Z7KWzHtc9rpS9wCiYTuLT) | [THYNA](https://open.spotify.com/artist/7yah06bwmQDOwfp80ddBci), [Nuova Scena](https://open.spotify.com/artist/6BvbuCQioYZUBH1z4vm37u) | [PUTT\*\*A \(From the Netflix Rap Show "Nuova Scena"\)](https://open.spotify.com/album/6QNUbZTI9mq1izRydhQawh) | 2:38 |

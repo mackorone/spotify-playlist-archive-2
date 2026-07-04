@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hngle
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,934 likes - 31 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,939 likes - 31 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 | 30 | [Không Thử Sao Biết](https://open.spotify.com/track/0PCmfXVEN74USLLa0P5qOa) | [Wren Evans](https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu), [itsnk](https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn) | [NỔ](https://open.spotify.com/album/4CNU1B2QHdFryQ0jl9a00J) | 2:22 |
 | 31 | [đưa em về nhàa](https://open.spotify.com/track/08ULi904W2Po6pVj8nN7KC) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [đưa em về nhàa](https://open.spotify.com/album/5ED6WiHXLHGTBITUv6ayAy) | 4:00 |
 
-Snapshot ID: `AAAAAKxPRB/D1ECAjbuEsZTjRNyuhd4m`
+Snapshot ID: `AAAAADkmlHetMm9VJ0CvhReAMPbpSpyr`

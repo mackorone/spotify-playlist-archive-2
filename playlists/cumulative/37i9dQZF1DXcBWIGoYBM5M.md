@@ -2,7 +2,7 @@
 
 ### [Today’s Top Hits](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 
-> The hottest 50\. Cover: Taylor Swift
+> The hottest 50\. Cover: Ariana Grande
 
 1,396 songs - 3 day 2 hr 57 min
 

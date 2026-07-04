@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
-  "num_followers": 170987,
+  "num_followers": 171045,
   "original_name": "techno party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK4x7wL+nCVJtAp+nSWqYe3Cdou4",
+  "snapshot_id": "AAAAAFn0uGZfVsH5G8TBRdbMSwMMRkCV",
   "tracks": [
     {
       "added_at": "2026-06-26 04:04:16",
@@ -471,26 +471,22 @@
     {
       "added_at": "2026-06-26 04:04:16",
       "album": {
-        "name": "The Age Of Love (Charlotte de Witte & Enrico Sangiuliano Remix) [Charlotte de Witte & Enrico Sangiuliano Remix - Edit]",
-        "url": "https://open.spotify.com/album/7CXTNkULXDTd2oHt4S9dp7"
+        "name": "Tarantella",
+        "url": "https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq"
       },
       "artists": [
         {
-          "name": "Age Of Love",
-          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
         },
         {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        },
-        {
-          "name": "Enrico Sangiuliano",
-          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
+          "name": "KEL",
+          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
         }
       ],
-      "duration_ms": 489480,
-      "name": "The Age Of Love (Charlotte de Witte & Enrico Sangiuliano Remix)",
-      "url": "https://open.spotify.com/track/6R84ZlQF7gGkPB6o3GLZXB"
+      "duration_ms": 145553,
+      "name": "Tarantella",
+      "url": "https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N"
     },
     {
       "added_at": "2026-06-26 04:04:16",
@@ -519,22 +515,26 @@
     {
       "added_at": "2026-06-26 04:04:16",
       "album": {
-        "name": "Tarantella",
-        "url": "https://open.spotify.com/album/0nxNoLQWFwsRqTfLh7R0sq"
+        "name": "The Age Of Love (Charlotte de Witte & Enrico Sangiuliano Remix) [Charlotte de Witte & Enrico Sangiuliano Remix - Edit]",
+        "url": "https://open.spotify.com/album/7CXTNkULXDTd2oHt4S9dp7"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Age Of Love",
+          "url": "https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn"
         },
         {
-          "name": "KEL",
-          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Enrico Sangiuliano",
+          "url": "https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90"
         }
       ],
-      "duration_ms": 145553,
-      "name": "Tarantella",
-      "url": "https://open.spotify.com/track/4pBuhoBxgwBpkkOhfT6p6N"
+      "duration_ms": 489480,
+      "name": "The Age Of Love (Charlotte de Witte & Enrico Sangiuliano Remix)",
+      "url": "https://open.spotify.com/track/6R84ZlQF7gGkPB6o3GLZXB"
     },
     {
       "added_at": "2026-06-26 04:04:16",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-06-26 04:04:16",
       "album": {
-        "name": "Move It",
-        "url": "https://open.spotify.com/album/1IxDiKZoA2gGfoQMC3EJ4n"
-      },
-      "artists": [
-        {
-          "name": "POLTERGST",
-          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
-        }
-      ],
-      "duration_ms": 185437,
-      "name": "Move It",
-      "url": "https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN"
-    },
-    {
-      "added_at": "2026-06-26 04:04:16",
-      "album": {
         "name": "Spring VIP",
         "url": "https://open.spotify.com/album/2oOrAtdzUtg2UCXlEzzn3u"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 155066,
       "name": "Spring VIP",
       "url": "https://open.spotify.com/track/6W2Otw9em8mMhoWsOcE05m"
+    },
+    {
+      "added_at": "2026-06-26 04:04:16",
+      "album": {
+        "name": "Move It",
+        "url": "https://open.spotify.com/album/1IxDiKZoA2gGfoQMC3EJ4n"
+      },
+      "artists": [
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        }
+      ],
+      "duration_ms": 185437,
+      "name": "Move It",
+      "url": "https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN"
     },
     {
       "added_at": "2026-06-26 04:04:16",
@@ -1240,7 +1240,7 @@
       },
       "artists": [
         {
-          "name": "Gigi D'Agostino",
+          "name": "GIGI D'AGOSTINO",
           "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
         },
         {
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-06-26 04:04:16",
       "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov"
+    },
+    {
+      "added_at": "2026-06-26 04:04:16",
+      "album": {
         "name": "Hekataia EP",
         "url": "https://open.spotify.com/album/6OqYMy7da8pAJmnLvMmpiW"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 292693,
       "name": "Reality Check",
       "url": "https://open.spotify.com/track/4RB7S3C5A6ziH6Jni0Jlxv"
-    },
-    {
-      "added_at": "2026-06-26 04:04:16",
-      "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/4j4FvdCqehgLaiNVBdA3jW"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/3yyWrz4CsVzkWPuxtZflov"
     },
     {
       "added_at": "2026-06-26 04:04:16",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2026-06-26 04:04:16",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/7BUxsv49YApxUBSwfYgG0e"
-      },
-      "artists": [
-        {
-          "name": "Somewhen",
-          "url": "https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy"
-        }
-      ],
-      "duration_ms": 244755,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/02iid7jLIDPuI4JyHTtyBz"
-    },
-    {
-      "added_at": "2026-06-26 04:04:16",
-      "album": {
         "name": "SexyBack (TechnoBack)",
         "url": "https://open.spotify.com/album/5EGHrNs3I7o9voBxiUeWyf"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 146029,
       "name": "SexyBack - TechnoBack",
       "url": "https://open.spotify.com/track/5sJ6PXZEyar0VfEgBt6HnN"
+    },
+    {
+      "added_at": "2026-06-26 04:04:16",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/7BUxsv49YApxUBSwfYgG0e"
+      },
+      "artists": [
+        {
+          "name": "Somewhen",
+          "url": "https://open.spotify.com/artist/0k47nZgznsmnNkSIJvjbVy"
+        }
+      ],
+      "duration_ms": 244755,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/02iid7jLIDPuI4JyHTtyBz"
     },
     {
       "added_at": "2026-06-26 04:04:16",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2026-06-26 04:04:16",
       "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/73NqmT9ULMEra22oCQYeNd"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        }
-      ],
-      "duration_ms": 126153,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/1xDoxgBWey42TdlfUMQvof"
-    },
-    {
-      "added_at": "2026-06-26 04:04:16",
-      "album": {
         "name": "To The Beat",
         "url": "https://open.spotify.com/album/5oQhNodcymcsrbL5rAckJw"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 152218,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/36BkC8zH3aNXtlf21HqtjN"
+    },
+    {
+      "added_at": "2026-06-26 04:04:16",
+      "album": {
+        "name": "In My Mind",
+        "url": "https://open.spotify.com/album/73NqmT9ULMEra22oCQYeNd"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "duration_ms": 126153,
+      "name": "In My Mind",
+      "url": "https://open.spotify.com/track/1xDoxgBWey42TdlfUMQvof"
     },
     {
       "added_at": "2026-06-26 04:04:16",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2026-06-26 04:04:16",
       "album": {
-        "name": "The Ketchup Song (Aserej\u00e9)",
-        "url": "https://open.spotify.com/album/26bNeSIqRIR07yvPW1K2h7"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        }
-      ],
-      "duration_ms": 145945,
-      "name": "The Ketchup Song (Aserej\u00e9)",
-      "url": "https://open.spotify.com/track/0F0yYh9U7guh1TWuViZY25"
-    },
-    {
-      "added_at": "2026-06-26 04:04:16",
-      "album": {
         "name": "Techno Sound",
         "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
       },
@@ -1911,6 +1895,22 @@
       "duration_ms": 189960,
       "name": "Techno Sound",
       "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
+    },
+    {
+      "added_at": "2026-06-26 04:04:16",
+      "album": {
+        "name": "The Ketchup Song (Aserej\u00e9)",
+        "url": "https://open.spotify.com/album/26bNeSIqRIR07yvPW1K2h7"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "duration_ms": 145945,
+      "name": "The Ketchup Song (Aserej\u00e9)",
+      "url": "https://open.spotify.com/track/0F0yYh9U7guh1TWuViZY25"
     },
     {
       "added_at": "2026-06-26 04:04:16",

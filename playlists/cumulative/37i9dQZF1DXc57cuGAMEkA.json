@@ -83611,6 +83611,28 @@
     },
     {
       "album": {
+        "name": "GAVE U RACKS",
+        "url": "https://open.spotify.com/album/4SLvX8SIf7hkx5kYAj8Ph0"
+      },
+      "artists": [
+        {
+          "name": "$TARFACE",
+          "url": "https://open.spotify.com/artist/1aAFxL6yILr1przXto9eyl"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199757,
+      "name": "GAVE U RACKS",
+      "url": "https://open.spotify.com/track/4vyJJrWfIrIy7VCFceAML4"
+    },
+    {
+      "album": {
         "name": "GBAD",
         "url": "https://open.spotify.com/album/3zd28IonbElPm1abU4G6Ve"
       },

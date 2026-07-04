@@ -4,7 +4,7 @@
 
 > Deutschpop, der jetzt passiert\. Cover: Ella Stern
 
-600 songs - 1 day 3 hr 0 min
+601 songs - 1 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [mädchen von nebenan](https://open.spotify.com/track/5pUAUBe4uvCCbStDSAo69l) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [mädchen von nebenan](https://open.spotify.com/album/3yx1JBsuKOCLA8bTqpLk7n) | 1:57 | 2026-03-26 | 2026-04-10 |
 | [Männlichkeit](https://open.spotify.com/track/0kv8gkS5xsleRmeq8kGDxX) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Männlichkeit](https://open.spotify.com/album/1E4AUVojoMBgXbiZyr5CCq) | 3:49 | 2026-04-16 | 2026-05-29 |
 | [Märchen aus Hollywood](https://open.spotify.com/track/2V7MwHRxzmImYP3HeGOY1a) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K), [Sarah Connor](https://open.spotify.com/artist/7e52Ytzjj1q71DUj2cSlch) | [Märchen aus Hollywood](https://open.spotify.com/album/4uioPKee37JpLak8Dyhy6Z) | 4:39 | 2026-02-12 | 2026-02-27 |
-| [müde](https://open.spotify.com/track/6XfDVm6QczCYrLBuGfBpIp) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [müde](https://open.spotify.com/album/05vrUtHhnNEqy2WNGPY8T9) | 2:33 | 2026-07-02 |  |
+| [Müde](https://open.spotify.com/track/6XfDVm6QczCYrLBuGfBpIp) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Müde](https://open.spotify.com/album/05vrUtHhnNEqy2WNGPY8T9) | 2:33 | 2026-07-02 |  |
 | [müde träume](https://open.spotify.com/track/4l87fKjREeMI9xGrPo8YjI) | [Cosima Kiby](https://open.spotify.com/artist/1hm4J3Mp8Yh2TDhOp6u7sM) | [müde träume](https://open.spotify.com/album/5J58mtPQwfHEVnwCnBzhFs) | 2:32 | 2026-05-28 |  |
 | [Na und ?!](https://open.spotify.com/track/6pNeV9j1tHgMtUXbJ7N6RA) | [Tokio Hotel](https://open.spotify.com/artist/46aNfN89JrOQTCy97GoCHa) | [Na und ?!](https://open.spotify.com/album/4wSoeHuzlwZczor5a2r2SL) | 2:52 | 2026-04-30 | 2026-05-22 |
 | [nah am meer gebaut](https://open.spotify.com/track/3aH8nXElsyu37eyDeF17Es) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [nah am meer gebaut](https://open.spotify.com/album/5X1zsY94AwE2ZvPvTlnsQh) | 2:38 | 2025-10-30 | 2025-12-19 |
@@ -587,6 +587,7 @@
 | [Wir tanzen den Regen weg](https://open.spotify.com/track/7tnm7BOAvYriNjqfZ199bm) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Sommerregen EP](https://open.spotify.com/album/5dMr2rimlo62V5xRFOC4o4) | 3:33 | 2025-10-24 | 2025-12-19 |
 | [Wo diese Liebe hinfällt \(Krater\)](https://open.spotify.com/track/5pZgHJlcOqAfwbYvef8fLx) | [Jupiter Jones](https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL) | [Wo diese Liebe hinfällt \(Krater\)](https://open.spotify.com/album/4ewZqTSmsqygHZf0ywDm7I) | 3:09 | 2026-06-04 |  |
 | [wofür es sich zu leben lohnt](https://open.spotify.com/track/0lhvWUPpRFqP6ySKAU0qd6) | [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [wofür es sich zu leben lohnt](https://open.spotify.com/album/3IzDuDVKBjUCXADamU2LaB) | 2:32 | 2026-05-07 | 2026-06-05 |
+| [Wolke 4](https://open.spotify.com/track/7cEISyO6QWsik3mbO9nUFC) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [Philipp Dittberner](https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa) | [Wolke 4](https://open.spotify.com/album/4ZVi8tzbQDvb49jXMQYEKn) | 2:16 | 2026-07-03 |  |
 | [Wolken](https://open.spotify.com/track/3igno2ABnksfkx1YWeofwx) | [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K), [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Wolken](https://open.spotify.com/album/32tN42Jos8D21ffOiqmaD0) | 3:38 | 2026-03-12 | 2026-03-27 |
 | [Worte wie Messer](https://open.spotify.com/track/7Cw8a0S1JHDCGWUh5M6aBV) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [Worte wie Messer](https://open.spotify.com/album/7qYzPkns7NCmTi6H0xQan5) | 2:32 | 2025-10-30 | 2025-12-05 |
 | [Wunder geschehen](https://open.spotify.com/track/5qJr02pkHbCEcIv0101e2l) | [Nico Gomez](https://open.spotify.com/artist/0gQm7HDLwdjFHpDwiBMV8c) | [Wunder geschehen](https://open.spotify.com/album/3lucIpPPjeDMSLj27ct8FD) | 2:38 | 2025-12-04 | 2026-02-13 |

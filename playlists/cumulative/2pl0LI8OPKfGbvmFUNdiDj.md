@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-522 songs - 1 day 5 hr 34 min
+524 songs - 1 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Northwest Cold Front](https://open.spotify.com/track/68wLXJHCHHJDQFvaz80M2V) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [Northwest Cold Front](https://open.spotify.com/album/2WG2iFsEYOA97j8aVikg6c) | 3:07 | 2026-03-09 | 2026-05-26 |
 | [Not a Moment](https://open.spotify.com/track/3xJfZkI3APO8NYKKGCPiZu) | [Rob De Santis](https://open.spotify.com/artist/6u32qUBZnBH6bZFxm0kemC) | [Not a Moment](https://open.spotify.com/album/6Bn0R6sA52tNWW2P4eRpPU) | 2:26 | 2025-11-01 | 2025-12-01 |
 | [Note To Myself](https://open.spotify.com/track/5gicU7deaXdsF7tY9Ofy7y) | [Satya](https://open.spotify.com/artist/3AuLKYl8ryJkeclCUJDniJ) | [Note To Myself](https://open.spotify.com/album/1dZvMqXdqPtlWV50cRIlMU) | 3:41 | 2026-01-24 | 2026-02-21 |
+| [Ocean Floor](https://open.spotify.com/track/1Ftf2kYACoXtuBXiqh8Y8K) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Ocean Floor](https://open.spotify.com/album/7qMJHefVxa2LLZ9AH4HHO0) | 4:04 | 2026-07-03 |  |
 | [omw?](https://open.spotify.com/track/0E6XbtAElPNaZklrg7TISP) | [Cody Caprice](https://open.spotify.com/artist/5RvimT5xpoT9hv0rgKRFXL) | [Catalyst](https://open.spotify.com/album/3Mdlq7baYKAOflVaIP9Poa) | 2:39 | 2025-11-05 | 2025-12-01 |
 | [On The Loose](https://open.spotify.com/track/4z8PnK63CWW1WL879iGpbH) | [Miquelangelo](https://open.spotify.com/artist/4h9QOAPn546KMLAgaxUEwQ) | [Verdwaald In De Stad](https://open.spotify.com/album/6iopEbHYcwJIY6fibuhFf4) | 2:41 | 2025-12-24 | 2026-01-15 |
 | [Once](https://open.spotify.com/track/6dcxUyu84kv5PMl3IEbZOx) | [Eddie Bowers](https://open.spotify.com/artist/269LsjukFfnnXjShOB2iiU) | [Once](https://open.spotify.com/album/6OBF7DsCR7Hu7tkUHsjWEj) | 2:45 | 2026-01-01 | 2026-01-25 |
@@ -449,6 +450,7 @@
 | [The Price of Not Being Me](https://open.spotify.com/track/5QEcw5tlMYZlbmTq1qxjdV) | [Donkey Shots](https://open.spotify.com/artist/30je3FKxjeqo7gHq3VYVNx) | [The Price of Not Being Me](https://open.spotify.com/album/7dUP5R8LClZXSqEuSOVdUA) | 3:34 | 2026-01-24 | 2026-02-21 |
 | [The Red Cha Cha](https://open.spotify.com/track/10DZ0KHJmt1PS0hVNIf6PT) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo) | [The Red Cha Cha](https://open.spotify.com/album/0wBE98iV9c9xym1kQFK5b6) | 2:23 | 2025-11-30 | 2026-01-05 |
 | [The Show Must Go On](https://open.spotify.com/track/5vz5HR8tJJwTMobjNIrM6w) | [Madam Radar](https://open.spotify.com/artist/6ujUWoIlmlQWODAb46LmE8) | [The Show Must Go On](https://open.spotify.com/album/64oFLRTDDU3PiNPsv1Pidj) | 3:38 | 2026-06-23 |  |
+| [The Spell](https://open.spotify.com/track/1wcNxPDExKr3EdfePoFgmw) | [Alice Sonia\-Michael](https://open.spotify.com/artist/5vx9u71vt3SlGjMuKcgOqr) | [Seconds of Silence](https://open.spotify.com/album/61NTznU5cgJ0v64hsabqTo) | 4:00 | 2026-07-03 |  |
 | [The Summit](https://open.spotify.com/track/1j0RFvDArOtl2P19hAD62t) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [The Summit](https://open.spotify.com/album/17EQOZPmfmbWsIU5bfu9ou) | 2:44 | 2026-03-16 |  |
 | [The Thinker And The Prover](https://open.spotify.com/track/271dv3OBpfRS1YmHqubWZQ) | [Jason Waroff](https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77) | [The Thinker And The Prover](https://open.spotify.com/album/3RnQntICT9Zskt7fckchwt) | 2:12 | 2026-04-24 |  |
 | [The Thinker And The Prover](https://open.spotify.com/track/3EjFDIbZj4y5VJjW7Jxc9H) | [Jason Waroff](https://open.spotify.com/artist/1tAoX2x3TC1kp4eIewKZ77) | [The Thinker And The Prover](https://open.spotify.com/album/66gGHDPKfLxjss96Sj4lnM) | 6:01 | 2025-08-24 | 2026-01-25 |

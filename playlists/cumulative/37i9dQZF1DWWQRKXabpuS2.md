@@ -4,7 +4,7 @@
 
 > تدوّر أجدد الأغاني الخليجية؟ وصلت خير
 
-470 songs - 1 day 8 hr 4 min
+472 songs - 1 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,6 +340,7 @@
 | [Ya Galbi يا قلبي](https://open.spotify.com/track/2ovHJYDE1TRLa408yGdEfS) | [Jawad Al Ali](https://open.spotify.com/artist/2rYfn64Ri8zWtfyo2jGR8Z) | [Ya Galbi يا قلبي](https://open.spotify.com/album/2lM194nFCsFIBmtzWvZZ7H) | 4:47 | 2023-01-18 | 2023-07-01 |
 | [Ya Ghaeba](https://open.spotify.com/track/133pYgsSCKjNL09LSOSZ2r) | [Abdullah Tariq](https://open.spotify.com/artist/5ZZAY6x3JLcusD13tjQzQg) | [Ya Ghaeba](https://open.spotify.com/album/3vde6lu7iLNycIgcjJ0FIX) | 5:01 | 2022-03-17 | 2022-08-27 |
 | [Ya Hala](https://open.spotify.com/track/4u7De1AMztuLzjVwZFdcXr) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ya Hala](https://open.spotify.com/album/1sHmK0R4eKbi56B3B0ejw8) | 5:04 | 2022-04-01 | 2022-11-08 |
+| [Ya Hay Haltallah](https://open.spotify.com/track/1UhWZhEdKF4rQha6Bdv6Gs) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Ya Hay Haltallah](https://open.spotify.com/album/1cgQIG8QswqJbnFnJOAlIl) | 8:05 | 2026-07-03 |  |
 | [Ya Hazzah](https://open.spotify.com/track/4tV8tnkKmJCrwcahK0wmPw) | [Hamad Alameri](https://open.spotify.com/artist/7jAccRfAodnAyF3D9kQ4lo) | [Ya Hazzah](https://open.spotify.com/album/0ZImrERkWcbMs5F1G96DJA) | 4:32 | 2022-02-17 | 2022-07-07 |
 | [Ya Hob](https://open.spotify.com/track/6OOd1KZo9qEXLvhdUqrZto) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Ya Hob](https://open.spotify.com/album/0veyUyHuLWTMr5IuNjm67h) | 4:03 | 2021-12-30 | 2022-06-30 |
 | [Ya Labba Soutak](https://open.spotify.com/track/7pqCy96fz2S4QM4v2lsNme) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Ya Labba Soutak](https://open.spotify.com/album/6tlwjwtnF7WqRFDx6lc2n4) | 5:03 | 2023-06-13 | 2024-01-03 |
@@ -415,6 +416,7 @@
 | [سواليف الوله](https://open.spotify.com/track/6sX47nT4v24OVf2FbfGE70) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [سواليف الوله](https://open.spotify.com/album/6a2aQVXeBNvHM9ovsnWuor) | 3:23 | 2023-05-26 | 2023-12-22 |
 | [شسوي لي](https://open.spotify.com/track/60qhwVunSyTH1HjIWkw4CM) | [هدى الفهد](https://open.spotify.com/artist/0PIckHaNLdTeZbmA8Vstn5) | [شسوي لي](https://open.spotify.com/album/4r2L12xyazKM27S6I9OOJr) | 3:50 | 2023-03-14 | 2023-05-16 |
 | [شوفلك احد](https://open.spotify.com/track/6nNy3ACYBEag8BIqOotcr8) | [Salah Al Zadjali](https://open.spotify.com/artist/2zrCAcIqROY4WLtgtLzbwh) | [شوفلك احد](https://open.spotify.com/album/1HhiRCWFmdQZ2jNUfEmPPx) | 4:02 | 2025-04-07 | 2025-07-01 |
+| [شي ثاني](https://open.spotify.com/track/0FkijfcNa4zuIS3BxevW2x) | [Rashed Al\-Majed](https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX) | [شي ثاني](https://open.spotify.com/album/2RP6QusLZy0OhRuxtZBXKy) | 2:36 | 2026-07-03 |  |
 | [صاحي إنت](https://open.spotify.com/track/5k3lV9HQgXaH7UhWFaNGf1) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [صاحي إنت](https://open.spotify.com/album/75oqfhopGFZ5thgCAqzxYd) | 3:44 | 2025-05-23 | 2025-07-01 |
 | [صباح الخير](https://open.spotify.com/track/0hbXM5XVlf3WDMPALubBvz) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK) | [صباح الخير](https://open.spotify.com/album/7aereiI6s6wKGHdMW6sQnn) | 3:40 | 2025-11-06 |  |
 | [صديت متعمد](https://open.spotify.com/track/7iPJRYfIweht1DarqVXjMc) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [صديت متعمد](https://open.spotify.com/album/28HpliU9DG4RUjaZN5XBTg) | 3:35 | 2026-05-13 |  |

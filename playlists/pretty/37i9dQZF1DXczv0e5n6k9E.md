@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: YungKapa
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,325 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,358 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DOLCE CABBANA](https://open.spotify.com/track/15rlWA5UmAyLKAKvIoXyJi) | [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG), [Corteo](https://open.spotify.com/artist/7vHwSdqnwKnxJiMHFr0Edd) | [FROM THE BOTTOM \(Deluxe\)](https://open.spotify.com/album/1iDxZFXxj7mnHhFuxNtGRp) | 2:01 |
+| 1 | [DOLCE CABBANA](https://open.spotify.com/track/15rlWA5UmAyLKAKvIoXyJi) | [YungKapa](https://open.spotify.com/artist/23iVXbj5uK4e3MtRQLNPdG), [Corteo](https://open.spotify.com/artist/7vHwSdqnwKnxJiMHFr0Edd) | [FROM THE BOTTOM DELUXE](https://open.spotify.com/album/1iDxZFXxj7mnHhFuxNtGRp) | 2:01 |
 | 2 | [A$$AP](https://open.spotify.com/track/7v1BQ1smP2OnG8HpaLzKkg) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG), [ObieDaz](https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP) | [10 \(PART 2\)](https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X) | 2:26 |
 | 3 | [Karamela](https://open.spotify.com/track/6jMMuFomYt1LgwETDhg5Ro) | [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [BLVD](https://open.spotify.com/artist/3XVSWUdVDon1RGgHdPuqzR) | [Karamela](https://open.spotify.com/album/5fNkd9rUc91atQuhSaFLRX) | 2:18 |
 | 4 | [omw](https://open.spotify.com/track/4uLodgH5AnP3mgXMyZHPDO) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [Romeo II](https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e) | 4:04 |

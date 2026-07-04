@@ -1797,6 +1797,24 @@
     },
     {
       "album": {
+        "name": "Para Que Seas Feliz",
+        "url": "https://open.spotify.com/album/2vxfgYfznHunbCkzyLaZYv"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Montaner",
+          "url": "https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222805,
+      "name": "Para Que Seas Feliz",
+      "url": "https://open.spotify.com/track/72gnC2EYGniydXcALe7JGz"
+    },
+    {
+      "album": {
         "name": "Catarsis",
         "url": "https://open.spotify.com/album/6VOicOVSb15t7plM3aGn0v"
       },

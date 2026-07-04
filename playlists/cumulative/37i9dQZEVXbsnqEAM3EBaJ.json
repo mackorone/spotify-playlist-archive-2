@@ -837,6 +837,24 @@
     },
     {
       "album": {
+        "name": "51st State",
+        "url": "https://open.spotify.com/album/3tlGE7GK1iMdeCprCsOmls"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136297,
+      "name": "51st State",
+      "url": "https://open.spotify.com/track/2jat9vx2P0tfqWpPD5knDB"
+    },
+    {
+      "album": {
         "name": "6 Pieces, Op. 19: No. 4 in C-Sharp Minor. Nocturne. Andante sentimentale",
         "url": "https://open.spotify.com/album/5jI4Grc0G0Jqoekh3t28Tj"
       },
@@ -1498,7 +1516,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 402266,
       "name": "A Hard Lesson - Dark-Side Mix",
       "url": "https://open.spotify.com/track/5utOJmodZB4zaxbTeKm2mq"
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 198480,
       "name": "A Waltz for Forgotten Dreams",
       "url": "https://open.spotify.com/track/6WMMuKgug9ucbDHulMD3Lc"
@@ -3180,7 +3198,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 184000,
       "name": "Alejandra",
       "url": "https://open.spotify.com/track/3dGkOQk5Ac81hpd03M7egy"
@@ -3658,6 +3676,32 @@
       "duration_ms": 176129,
       "name": "All To You - Draper Remix",
       "url": "https://open.spotify.com/track/1SjRvG97MSkufnTaaFl6YQ"
+    },
+    {
+      "album": {
+        "name": "All Will Be (N)One (feat. Ricky Myers of Suffocation)",
+        "url": "https://open.spotify.com/album/1O0OgkBfMzvNWZ3kX7coP3"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        },
+        {
+          "name": "Ricky Myers",
+          "url": "https://open.spotify.com/artist/7eMEcGfedACipZozbc0Rf1"
+        },
+        {
+          "name": "Suffocation",
+          "url": "https://open.spotify.com/artist/4ItRDIouodpnW6nm4TYDk1"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211022,
+      "name": "All Will Be (N)One (feat. Ricky Myers of Suffocation)",
+      "url": "https://open.spotify.com/track/2ri9JmFgqdffPJ5s4PCck1"
     },
     {
       "album": {
@@ -5446,6 +5490,28 @@
       "duration_ms": 210909,
       "name": "Ascension (Alesso Remix)",
       "url": "https://open.spotify.com/track/3dVfQl8ZXN12zIRUfqC5bT"
+    },
+    {
+      "album": {
+        "name": "Ashen World (feat. Ignacia Fern\u00e1ndez)",
+        "url": "https://open.spotify.com/album/16OykIMBMJqnlHuNjqwRde"
+      },
+      "artists": [
+        {
+          "name": "Kamelot",
+          "url": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
+        },
+        {
+          "name": "Ignacia Fernandez",
+          "url": "https://open.spotify.com/artist/28yWMqrjdCiN1roUqkXXNs"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253200,
+      "name": "Ashen World (feat. Ignacia Fern\u00e1ndez)",
+      "url": "https://open.spotify.com/track/68pL4Ecm6unJat7BxqLJtA"
     },
     {
       "album": {
@@ -11865,6 +11931,28 @@
     },
     {
       "album": {
+        "name": "Como Todos Los Domingos",
+        "url": "https://open.spotify.com/album/3dr25O0nPFE2FyUJ99VhPh"
+      },
+      "artists": [
+        {
+          "name": "Valija Diplomatica",
+          "url": "https://open.spotify.com/artist/2euAtk0firHMqPFDJHLJCV"
+        },
+        {
+          "name": "Jorge Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/4Dqwi7dnhN0j8X1i98mdKG"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197250,
+      "name": "Como Todos Los Domingos",
+      "url": "https://open.spotify.com/track/4xLy4NZXhRUVKyIYjIsPO2"
+    },
+    {
+      "album": {
         "name": "Como un Rayo",
         "url": "https://open.spotify.com/album/5pIR00URS8Wn6g5UZBGzSd"
       },
@@ -12710,6 +12798,24 @@
       "duration_ms": 263253,
       "name": "Cuarto Camino",
       "url": "https://open.spotify.com/track/0lY06zw4KXJGlb2BekKoT8"
+    },
+    {
+      "album": {
+        "name": "Cue the Sun / Alba Del Orate",
+        "url": "https://open.spotify.com/album/3TUz7us7VV1rrtHlwcWHsL"
+      },
+      "artists": [
+        {
+          "name": "The Mars Volta",
+          "url": "https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352552,
+      "name": "Cue the Sun / Alba Del Orate",
+      "url": "https://open.spotify.com/track/3nuJtnriaOSBVAPCjFxvhf"
     },
     {
       "album": {
@@ -21219,6 +21325,24 @@
     },
     {
       "album": {
+        "name": "Love (Meditation Mixes)",
+        "url": "https://open.spotify.com/album/2mQhxhcZqnZEqXFEDewtTp"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357000,
+      "name": "Free - Love Meditation Mix",
+      "url": "https://open.spotify.com/track/6mLkClPmHX9lEVcpRCxmJR"
+    },
+    {
+      "album": {
         "name": "To The Faithful Departed (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0cg6OTD0VxMSAzQghLeecH"
       },
@@ -21620,6 +21744,36 @@
       "duration_ms": 75911,
       "name": "Fuerza Interior",
       "url": "https://open.spotify.com/track/3N3FTtOoWXsUOznzwPB2kh"
+    },
+    {
+      "album": {
+        "name": "Fumando Yerba",
+        "url": "https://open.spotify.com/album/7lYmBur3ivnZrZyw7Y8R52"
+      },
+      "artists": [
+        {
+          "name": "Yayo Killah",
+          "url": "https://open.spotify.com/artist/2x7CQskWemQRb3FLW1NrOJ"
+        },
+        {
+          "name": "Juan Sativo",
+          "url": "https://open.spotify.com/artist/5r1jg68q488YQ9R7SLirBL"
+        },
+        {
+          "name": "SEB",
+          "url": "https://open.spotify.com/artist/06y4T9eG1mLN2i5ojNx8Cu"
+        },
+        {
+          "name": "Tiro De Gracia",
+          "url": "https://open.spotify.com/artist/3yIbPI61iAhMptDnfnyScb"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228098,
+      "name": "Fumando Yerba",
+      "url": "https://open.spotify.com/track/7KP0jZAviJv8QUESNW9Y5T"
     },
     {
       "album": {
@@ -23484,7 +23638,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 292293,
       "name": "Guilt Trippin'",
       "url": "https://open.spotify.com/track/4YPhSDiB3tS9bn2TNBE7uP"
@@ -24244,6 +24398,36 @@
       "duration_ms": 125109,
       "name": "Have You Ever Seen The Rain",
       "url": "https://open.spotify.com/track/1yzgMzhlFNdGAlL5Mopdoq"
+    },
+    {
+      "album": {
+        "name": "HAVE YOU SEEN ME DANCE ALONE? (Rosa Pistola Remix)",
+        "url": "https://open.spotify.com/album/1ICzceE9whNDfaa7i7lTX9"
+      },
+      "artists": [
+        {
+          "name": "TOMORA",
+          "url": "https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Tom Rowlands",
+          "url": "https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW"
+        },
+        {
+          "name": "Rosa Pistola",
+          "url": "https://open.spotify.com/artist/06fEHseCklFEuDgM5dccHX"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243851,
+      "name": "HAVE YOU SEEN ME DANCE ALONE? - Rosa Pistola Remix",
+      "url": "https://open.spotify.com/track/6Ni3ftx7WG99FOcLKROIQ2"
     },
     {
       "album": {
@@ -26650,6 +26834,24 @@
       "duration_ms": 205393,
       "name": "I Believe (Alternate Edit)",
       "url": "https://open.spotify.com/track/3lLXCf8wmwk3qIHGLEzUDI"
+    },
+    {
+      "album": {
+        "name": "I Belong to the Sky (Bright-Side Mix)",
+        "url": "https://open.spotify.com/album/6W6xmbyFjQxnv1SGcFiPzH"
+      },
+      "artists": [
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443907,
+      "name": "I Belong to the Sky - Bright-Side Mix",
+      "url": "https://open.spotify.com/track/1yFOL8IHl4lhewcOgRvsaB"
     },
     {
       "album": {
@@ -32233,6 +32435,36 @@
     },
     {
       "album": {
+        "name": "Francis Poulenc: La voix humaine, FP 171, \"Souviens-toi du dimanche de Versailles\"",
+        "url": "https://open.spotify.com/album/2f7gMYry0fBiNOlvBWBqdY"
+      },
+      "artists": [
+        {
+          "name": "Francis Poulenc",
+          "url": "https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY"
+        },
+        {
+          "name": "Franz Welser-M\u00f6st",
+          "url": "https://open.spotify.com/artist/7JlPzWR6kQ48ZPLDixTTQ0"
+        },
+        {
+          "name": "Sarah Aristidou",
+          "url": "https://open.spotify.com/artist/3GScYjZRtmXAlVnQq8I0pq"
+        },
+        {
+          "name": "The Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163413,
+      "name": "La voix humaine, FP 171: \"Souviens-toi du dimanche de Versailles\"",
+      "url": "https://open.spotify.com/track/3QkSGiFUlaJ0IB1THQYpgU"
+    },
+    {
+      "album": {
         "name": "Labyrinth",
         "url": "https://open.spotify.com/album/5Kuwp2cLjCBCSjU9USGdQI"
       },
@@ -33092,6 +33324,28 @@
       "duration_ms": 292661,
       "name": "Legs - Live from the Blockbuster Pavilion San Bernardino, California on September 15, 1993, 2023 Remaster",
       "url": "https://open.spotify.com/track/1IGRPsbQuIF5F9dyoi67Xt"
+    },
+    {
+      "album": {
+        "name": "Leo Cat\u00e1n",
+        "url": "https://open.spotify.com/album/0WhofC92Jyr563LB4BXHpn"
+      },
+      "artists": [
+        {
+          "name": "Los Miserables",
+          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
+        },
+        {
+          "name": "Tom\u00e1s Maldonado",
+          "url": "https://open.spotify.com/artist/6prihyniSR9AcgzNKRIX7p"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142310,
+      "name": "Leo Cat\u00e1n",
+      "url": "https://open.spotify.com/track/7zUZCaSFSJC72oVKjkREiG"
     },
     {
       "album": {
@@ -39885,6 +40139,28 @@
     },
     {
       "album": {
+        "name": "Neverending Love (40th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/68fW8pj3fzuthylZYPtYLD"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        },
+        {
+          "name": "Mats M.P. Persson",
+          "url": "https://open.spotify.com/artist/4ScmtjFfoYphSATf7FlZbq"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149508,
+      "name": "Neverending Love (8-track Remix by MP)",
+      "url": "https://open.spotify.com/track/1ljz808fIH4BgIeg02uZyE"
+    },
+    {
+      "album": {
         "name": "Tomorrow Never Comes",
         "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
       },
@@ -40472,6 +40748,32 @@
       "duration_ms": 193423,
       "name": "No Pido Mucho",
       "url": "https://open.spotify.com/track/4eajko0uHHHnxd7gYjVUgL"
+    },
+    {
+      "album": {
+        "name": "Official FIFA World Cup 2026\u2122 Album",
+        "url": "https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155172,
+      "name": "No Place Like Home",
+      "url": "https://open.spotify.com/track/6Ont2yPAfGzgK5deUADb2v"
     },
     {
       "album": {
@@ -41736,6 +42038,24 @@
       "duration_ms": 216384,
       "name": "On The Cross",
       "url": "https://open.spotify.com/track/25xrdLy1EL8uj3cyPKbmWK"
+    },
+    {
+      "album": {
+        "name": "ReLoad (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/4ogbSOvBvqT0kqCO0fI1rW"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60266,
+      "name": "On the Phone with Mike Piazza - Live at KSJO Studios, San Jose, CA / December 18th 1997",
+      "url": "https://open.spotify.com/track/0LWnQP85Du1aPguaVBKuYD"
     },
     {
       "album": {
@@ -43428,6 +43748,24 @@
       "duration_ms": 200963,
       "name": "Parasocial Christ",
       "url": "https://open.spotify.com/track/5v2qSbA4BeIKhhBSHbfH6i"
+    },
+    {
+      "album": {
+        "name": "PARASYTE (BITE)",
+        "url": "https://open.spotify.com/album/50pYqfSYrWxzN9B2V7KIj8"
+      },
+      "artists": [
+        {
+          "name": "Massacre",
+          "url": "https://open.spotify.com/artist/10tKMKG6F95zDrJOxqtjhA"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187002,
+      "name": "PARASYTE (BITE)",
+      "url": "https://open.spotify.com/track/11zDBt6MfjjyYkTEucAdBE"
     },
     {
       "album": {
@@ -45241,6 +45579,28 @@
     },
     {
       "album": {
+        "name": "Profit",
+        "url": "https://open.spotify.com/album/406PlzR7JVNr5GF3OEQUPB"
+      },
+      "artists": [
+        {
+          "name": "Stone Brady",
+          "url": "https://open.spotify.com/artist/6oN7cDYlWS5SWeWGL4m6g3"
+        },
+        {
+          "name": "Overkill",
+          "url": "https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193619,
+      "name": "Profit",
+      "url": "https://open.spotify.com/track/4vEhBkMOnQDrh39NLtZVMM"
+    },
+    {
+      "album": {
         "name": "Promise Me (09 | 26)",
         "url": "https://open.spotify.com/album/32V3ZOZSMDG2lQMTu17S3P"
       },
@@ -46127,6 +46487,36 @@
     },
     {
       "album": {
+        "name": "Focusing Piano Sounds",
+        "url": "https://open.spotify.com/album/0ceUdoZVKKtubUa33URf8D"
+      },
+      "artists": [
+        {
+          "name": "Yoko\u00f2",
+          "url": "https://open.spotify.com/artist/4Jv0rTuUT83SIkqo5rsuKh"
+        },
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183959,
+      "name": "Quiet Notes",
+      "url": "https://open.spotify.com/track/33mMXkzTCPExjVMzS6Hk0a"
+    },
+    {
+      "album": {
         "name": "Quitte (feat. La Fouine, Chabodo, Stone Flexance, Canardo, 13or, Poison, Pouf-pouf, Nosiiila, Weedy, H double L, Gued\u20191)",
         "url": "https://open.spotify.com/album/3EU9icPHbU96omPY6nRleD"
       },
@@ -46989,6 +47379,28 @@
     },
     {
       "album": {
+        "name": "Reckoning",
+        "url": "https://open.spotify.com/album/1JQ8cmqQi2Z8Fzuri3Hnlq"
+      },
+      "artists": [
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        },
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349218,
+      "name": "Reckoning",
+      "url": "https://open.spotify.com/track/0rpc7hLrZi8n1aLVwavwrp"
+    },
+    {
+      "album": {
         "name": "Reconocerte en sus calles",
         "url": "https://open.spotify.com/album/4s7IfjFmqj7IqzBTqGY1xH"
       },
@@ -47564,6 +47976,24 @@
       "duration_ms": 277023,
       "name": "Richter und Henker",
       "url": "https://open.spotify.com/track/5QXz214BK8Q1mEq6Gf9kOV"
+    },
+    {
+      "album": {
+        "name": "Ride A White Swan (\u2018MARC\u2019 version)",
+        "url": "https://open.spotify.com/album/4nPwjO4YIrqjx6pHzEwyhp"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124733,
+      "name": "Ride A White Swan (\u2018MARC\u2019 version)",
+      "url": "https://open.spotify.com/track/2fLCVrOdKqzusOSaKRZFfN"
     },
     {
       "album": {
@@ -53787,6 +54217,28 @@
     },
     {
       "album": {
+        "name": "Spirit Helper",
+        "url": "https://open.spotify.com/album/61hsIanUYEyfr5Vt59ETWo"
+      },
+      "artists": [
+        {
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+        },
+        {
+          "name": "Kevin Kicking Woman",
+          "url": "https://open.spotify.com/artist/4mTbBB7BOYcOG8zHVv4MDh"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292373,
+      "name": "Spirit Helper",
+      "url": "https://open.spotify.com/track/5Xm1vq2jyQqaMBhBOSbOIE"
+    },
+    {
+      "album": {
         "name": "Spirit of Olympus",
         "url": "https://open.spotify.com/album/1lBudSeOxtbRvHdYKC8yPG"
       },
@@ -58033,6 +58485,28 @@
     },
     {
       "album": {
+        "name": "The Great Wolf in the Sky (feat. Alicia Nuhro)",
+        "url": "https://open.spotify.com/album/6bXz0y5JukCUpwQIqVuKWg"
+      },
+      "artists": [
+        {
+          "name": "Moonspell",
+          "url": "https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6"
+        },
+        {
+          "name": "Alicia Nurho",
+          "url": "https://open.spotify.com/artist/2Nir6sw0HjownrLyBnhraD"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350066,
+      "name": "The Great Wolf in the Sky (feat. Alicia Nuhro)",
+      "url": "https://open.spotify.com/track/1OzwbadCEmuYg73BZ6LbUU"
+    },
+    {
+      "album": {
         "name": "The Green Willow Tree",
         "url": "https://open.spotify.com/album/1ErYH78IVjcfor1UtQcDea"
       },
@@ -59480,6 +59954,24 @@
       "duration_ms": 185704,
       "name": "The Riddle (feat. Visions Of Atlantis)",
       "url": "https://open.spotify.com/track/3ucn4ytlqkm4Shw4LnGEpw"
+    },
+    {
+      "album": {
+        "name": "SPLAT!",
+        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236720,
+      "name": "The Rider",
+      "url": "https://open.spotify.com/track/0By1Ubg8IXu0JaMUZyDIWB"
     },
     {
       "album": {
@@ -61427,6 +61919,24 @@
     },
     {
       "album": {
+        "name": "Tityus",
+        "url": "https://open.spotify.com/album/6pe7sZQHLvnE6qawhpOII5"
+      },
+      "artists": [
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187654,
+      "name": "Tityus",
+      "url": "https://open.spotify.com/track/12fUK0Tnavq8NzyJKTE8jU"
+    },
+    {
+      "album": {
         "name": "To Live Deliciously",
         "url": "https://open.spotify.com/album/0eiDwrA7pBFuIr9V9JyzHB"
       },
@@ -62152,6 +62662,36 @@
       "duration_ms": 0,
       "name": "Track 1",
       "url": "https://open.spotify.com/track/0Y8SvOwjZJRetOycgRAoSg"
+    },
+    {
+      "album": {
+        "name": "C\u00faspide",
+        "url": "https://open.spotify.com/album/6QPdlz4i8qKXzoSGPvVRgK"
+      },
+      "artists": [
+        {
+          "name": "Gran Rah",
+          "url": "https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ"
+        },
+        {
+          "name": "Jesteinritmos",
+          "url": "https://open.spotify.com/artist/3ui11f5hyaFWgBjEkZxDak"
+        },
+        {
+          "name": "Gonem Beats",
+          "url": "https://open.spotify.com/artist/15dlqhwACW4PoQRIsSQUYJ"
+        },
+        {
+          "name": "Dj Oezy",
+          "url": "https://open.spotify.com/artist/3uubFb0JoOUKWwSaClwd7g"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230215,
+      "name": "Traigo Rap",
+      "url": "https://open.spotify.com/track/53q8Xw7lnCQLHZ79kI28zx"
     },
     {
       "album": {
@@ -69486,6 +70026,28 @@
       "duration_ms": 300000,
       "name": "\u042f \u0422\u0430\u043a \u0423\u0441\u0442\u0430\u043b / Ya Tak Ustal",
       "url": "https://open.spotify.com/track/3ag2DJeXtr55wbwyXz17YH"
+    },
+    {
+      "album": {
+        "name": "\u042f\u0415\u0412\u0412\u0420",
+        "url": "https://open.spotify.com/album/2B8NBCVPpdFzyhtf6KB339"
+      },
+      "artists": [
+        {
+          "name": "\u0422\u0420\u0418/\u0421\u0415\u041c\u042c",
+          "url": "https://open.spotify.com/artist/5d8VFLkhKK5PqvGpItPcA3"
+        },
+        {
+          "name": "Fen",
+          "url": "https://open.spotify.com/artist/1MlFNDlH2naWutA9C0nNVB"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105125,
+      "name": "\u042f\u0415\u0412\u0412\u0420",
+      "url": "https://open.spotify.com/track/0S5Wp3jXKPasDKWeLnZ4co"
     },
     {
       "album": {

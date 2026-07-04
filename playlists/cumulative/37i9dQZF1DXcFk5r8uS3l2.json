@@ -2845,6 +2845,28 @@
     },
     {
       "album": {
+        "name": "Hand It Over (feat. Soweto Gospel Choir)",
+        "url": "https://open.spotify.com/album/7hAjtZyH70skknhXFjxcRI"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203232,
+      "name": "Hand It Over (feat. Soweto Gospel Choir)",
+      "url": "https://open.spotify.com/track/01SSG2COqot9jpxRBS9kLU"
+    },
+    {
+      "album": {
         "name": "Hands To Myself",
         "url": "https://open.spotify.com/album/1LZsurY09ulZSI36RYZxmB"
       },
@@ -3610,7 +3632,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 199174,
       "name": "I Guess I\u2019ll Get The Papers And Go Home",
       "url": "https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0"
@@ -5030,7 +5052,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 185133,
       "name": "Make It All Work Out",
       "url": "https://open.spotify.com/track/19FzdCwxA7hIsbmF8DLac5"
@@ -7625,6 +7647,24 @@
     },
     {
       "album": {
+        "name": "Take Time",
+        "url": "https://open.spotify.com/album/77VscOfK2fjWN7jkgD3Skn"
+      },
+      "artists": [
+        {
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273666,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/0IuJfBQlL7H9GbhvIPVRMu"
+    },
+    {
+      "album": {
         "name": "Taking Me Higher",
         "url": "https://open.spotify.com/album/61hTKXeRPanocUk0xi1RUP"
       },
@@ -8942,6 +8982,24 @@
       "duration_ms": 248051,
       "name": "What's Real",
       "url": "https://open.spotify.com/track/3348jTrURKkc0WYEypzWG3"
+    },
+    {
+      "album": {
+        "name": "Wheel Inside A Well",
+        "url": "https://open.spotify.com/album/2za5hGrgMw3P1NgycTMEWc"
+      },
+      "artists": [
+        {
+          "name": "Pressing Strings",
+          "url": "https://open.spotify.com/artist/26ZMJzyOeTTQzwImKFsKHR"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242103,
+      "name": "Wheel Inside A Well",
+      "url": "https://open.spotify.com/track/7MKADeenxWBDuSVt2sWAov"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158471,
+  "num_followers": 158465,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,18 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "A Casa \u00c9 Tua",
-        "url": "https://open.spotify.com/album/5CcBTXf82yYrTeBhPPZfLG"
+        "name": "Balan\u00e7o de Rede",
+        "url": "https://open.spotify.com/album/4NGgX3eEortOZHBjqdM3dc"
       },
       "artists": [
         {
-          "name": "Pedro Qualy",
-          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
-        },
-        {
-          "name": "CJota",
-          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
-        },
-        {
-          "name": "Blood Beatz",
-          "url": "https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc"
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
         }
       ],
-      "duration_ms": 198667,
-      "name": "A Casa \u00c9 Tua",
-      "url": "https://open.spotify.com/track/1Tbw36Nl3NzY0xVsokaV1Q"
+      "duration_ms": 199680,
+      "name": "Balan\u00e7o de Rede",
+      "url": "https://open.spotify.com/track/0qaEgZu9Qq9D41zyiAiiro"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -279,18 +271,26 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "Balan\u00e7o de Rede",
-        "url": "https://open.spotify.com/album/4NGgX3eEortOZHBjqdM3dc"
+        "name": "A Casa \u00c9 Tua",
+        "url": "https://open.spotify.com/album/5CcBTXf82yYrTeBhPPZfLG"
       },
       "artists": [
         {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+          "name": "Pedro Qualy",
+          "url": "https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        },
+        {
+          "name": "Blood Beatz",
+          "url": "https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc"
         }
       ],
-      "duration_ms": 199680,
-      "name": "Balan\u00e7o de Rede",
-      "url": "https://open.spotify.com/track/0qaEgZu9Qq9D41zyiAiiro"
+      "duration_ms": 198667,
+      "name": "A Casa \u00c9 Tua",
+      "url": "https://open.spotify.com/track/1Tbw36Nl3NzY0xVsokaV1Q"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -655,30 +655,6 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "replay",
-        "url": "https://open.spotify.com/album/5PvhVMVRXCUyjKrTCfILI4"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 151360,
-      "name": "replay",
-      "url": "https://open.spotify.com/track/4INHlf0BAwHWVr0LCBHmWa"
-    },
-    {
-      "added_at": "2026-06-17 15:55:31",
-      "album": {
         "name": "Jangada",
         "url": "https://open.spotify.com/album/45Mu8p9khZQVZCgO0PE23f"
       },
@@ -699,6 +675,30 @@
       "duration_ms": 130285,
       "name": "Jangada",
       "url": "https://open.spotify.com/track/04s5nBXVzrFSmpQYsU1AvH"
+    },
+    {
+      "added_at": "2026-06-17 15:55:31",
+      "album": {
+        "name": "replay",
+        "url": "https://open.spotify.com/album/5PvhVMVRXCUyjKrTCfILI4"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 151360,
+      "name": "replay",
+      "url": "https://open.spotify.com/track/4INHlf0BAwHWVr0LCBHmWa"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -847,6 +847,26 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
+        "name": "Garotas s\u00e3o Confusas (Deluxe)",
+        "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
+      },
+      "artists": [
+        {
+          "name": "Chase",
+          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        }
+      ],
+      "duration_ms": 139780,
+      "name": "A Festa",
+      "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
+    },
+    {
+      "added_at": "2026-06-17 15:55:31",
+      "album": {
         "name": "Original MTK #2 - Se Voc\u00ea Vier",
         "url": "https://open.spotify.com/album/420rc6s3uRgnBnogGrjAfP"
       },
@@ -871,46 +891,22 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "Garotas s\u00e3o Confusas (Deluxe)",
-        "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
+        "name": "BAHAMAS & Solteira N\u00e3o Sente",
+        "url": "https://open.spotify.com/album/7BGvfYK3JA7LDGHapHtBv9"
       },
       "artists": [
         {
-          "name": "Chase",
-          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
         },
         {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+          "name": "Caetanoprod",
+          "url": "https://open.spotify.com/artist/6R5xxWSl6srqCua6mUy6jy"
         }
       ],
-      "duration_ms": 139780,
-      "name": "A Festa",
-      "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
-    },
-    {
-      "added_at": "2026-06-17 15:55:31",
-      "album": {
-        "name": "Moz\u00e3o",
-        "url": "https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb"
-      },
-      "artists": [
-        {
-          "name": "Taylan",
-          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
-        },
-        {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
-        },
-        {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Moz\u00e3o",
-      "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
+      "duration_ms": 137952,
+      "name": "BAHAMAS",
+      "url": "https://open.spotify.com/track/6lraraCxXGQL6tlczq9ulj"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -935,22 +931,26 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "BAHAMAS & Solteira N\u00e3o Sente",
-        "url": "https://open.spotify.com/album/7BGvfYK3JA7LDGHapHtBv9"
+        "name": "Moz\u00e3o",
+        "url": "https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb"
       },
       "artists": [
         {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+          "name": "Taylan",
+          "url": "https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu"
         },
         {
-          "name": "Caetanoprod",
-          "url": "https://open.spotify.com/artist/6R5xxWSl6srqCua6mUy6jy"
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+        },
+        {
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
         }
       ],
-      "duration_ms": 137952,
-      "name": "BAHAMAS",
-      "url": "https://open.spotify.com/track/6lraraCxXGQL6tlczq9ulj"
+      "duration_ms": 160500,
+      "name": "Moz\u00e3o",
+      "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
     },
     {
       "added_at": "2026-06-17 15:55:31",
@@ -1327,26 +1327,18 @@
     {
       "added_at": "2026-06-17 15:55:31",
       "album": {
-        "name": "MIXTRAPISEIRO",
-        "url": "https://open.spotify.com/album/4IBhSedpc4IpQu93Gd9TTY"
+        "name": "Certo pra Voc\u00ea",
+        "url": "https://open.spotify.com/album/5P4NC7RHetv1NH9OrHcQDv"
       },
       "artists": [
         {
-          "name": "Arthurzim",
-          "url": "https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri"
-        },
-        {
-          "name": "Mateca",
-          "url": "https://open.spotify.com/artist/6PCKJU7fu36U4fRl7354wU"
-        },
-        {
-          "name": "EDNOBEAT",
-          "url": "https://open.spotify.com/artist/0MJkG7M060AolSuKV01UIV"
+          "name": "MTK",
+          "url": "https://open.spotify.com/artist/6Wovvjcj6QZTEyKRkXdLL9"
         }
       ],
-      "duration_ms": 189687,
-      "name": "BEM VINDO A 4TAL",
-      "url": "https://open.spotify.com/track/5RkgebjAEJ8hHboAzE3Zl1"
+      "duration_ms": 211549,
+      "name": "Certo pra Voc\u00ea",
+      "url": "https://open.spotify.com/track/4lPvpx8AgI31GsZP9HjkGI"
     }
   ],
   "unique_name": "Resenha na Praia",

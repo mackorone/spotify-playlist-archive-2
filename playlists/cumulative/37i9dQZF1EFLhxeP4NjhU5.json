@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Amigos en las Buenas Amigos en las Malas",
+        "url": "https://open.spotify.com/album/6ini5EnZBfwOTjkalk0p5L"
+      },
+      "artists": [
+        {
+          "name": "Kendo Kaponi",
+          "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255306,
+      "name": "Amigos en las Buenas Amigos en las Malas",
+      "url": "https://open.spotify.com/track/0nucuBimALu7ke43X8hMun"
+    },
+    {
+      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },

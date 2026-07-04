@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The latest releases from bluegrass and string bands alike. Cover: Steep Canyon Rangers",
+  "description": "The latest releases from bluegrass and string bands alike. Cover: Mountain Grass Unit",
   "name": "New Grass",
   "tracks": [
     {
@@ -284,7 +284,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 219269,
       "name": "Annie Moved On",
       "url": "https://open.spotify.com/track/0PI01kUDFXITjLh0tLNqqh"
@@ -758,7 +758,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 210986,
       "name": "Black Eyed Susie",
       "url": "https://open.spotify.com/track/3BWZBPXVGssEhpaJhHKoyT"
@@ -1198,6 +1198,24 @@
       "duration_ms": 220640,
       "name": "Broken Angels",
       "url": "https://open.spotify.com/track/2ZKZrxcDj3kQitLwiPzivQ"
+    },
+    {
+      "album": {
+        "name": "Burn the Other End",
+        "url": "https://open.spotify.com/album/79zAUIumzYPW7LQJLpbubq"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279706,
+      "name": "Burn the Other End",
+      "url": "https://open.spotify.com/track/7urOsD8qQUQdCsG85XTo7f"
     },
     {
       "album": {
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 218967,
       "name": "Don\u2019t Let Your Deal Go Down",
       "url": "https://open.spotify.com/track/6xshRwvEkTAJQoClIFGyFS"
@@ -3530,7 +3548,7 @@
       ],
       "date_added": "2025-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 205180,
       "name": "Heading For the Mountains",
       "url": "https://open.spotify.com/track/1EvuCqS9c1IetUeIPrbiTv"
@@ -8643,6 +8661,24 @@
     },
     {
       "album": {
+        "name": "The Darker Side Of Me",
+        "url": "https://open.spotify.com/album/1x8CxghcIPuHbytXcQsMoY"
+      },
+      "artists": [
+        {
+          "name": "Otis Gibbs",
+          "url": "https://open.spotify.com/artist/28ArvZS9yIxIPnPCDD5IXD"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263020,
+      "name": "The Darker Side Of Me",
+      "url": "https://open.spotify.com/track/2ELvyBdtsFUntm965s7v83"
+    },
+    {
+      "album": {
         "name": "Instrumentals, Vol. 2: Mandolin Mysteries",
         "url": "https://open.spotify.com/album/1qnypzzfDpbxtVOgXuyUoo"
       },
@@ -9636,6 +9672,24 @@
       "duration_ms": 433563,
       "name": "Wagon Wheel",
       "url": "https://open.spotify.com/track/2c3UKDNpkzj1qmSRWMDpcC"
+    },
+    {
+      "album": {
+        "name": "Wait for Me",
+        "url": "https://open.spotify.com/album/3aqhSf5zaau2YHObAV5tjR"
+      },
+      "artists": [
+        {
+          "name": "Mountain Grass Unit",
+          "url": "https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194116,
+      "name": "Wait for Me",
+      "url": "https://open.spotify.com/track/71kKENGIksn2X2VfBI05Nc"
     },
     {
       "album": {

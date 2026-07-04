@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-15",
-  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Gera MX y Nanpa  B\u00e1sico en portada. ",
+  "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! 008RACCA en portada. ",
   "name": "Rimas Frescas ",
   "tracks": [
     {
@@ -5191,6 +5191,32 @@
     },
     {
       "album": {
+        "name": "Chambonean",
+        "url": "https://open.spotify.com/album/0nr5Ulgvh8se8YaIiRbt9y"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Token'one",
+          "url": "https://open.spotify.com/artist/23dkmyBb5NdKdjokpPjT9l"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315200,
+      "name": "Chambonean",
+      "url": "https://open.spotify.com/track/28sXa6bJgr6TCijFG4ZwVW"
+    },
+    {
+      "album": {
         "name": "CHAMPA\u00d1A",
         "url": "https://open.spotify.com/album/060NCFx1JIcE28T6zjvGHO"
       },
@@ -6442,7 +6468,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 214342,
       "name": "Cuando Pienso",
       "url": "https://open.spotify.com/track/69WHa8WfluUXsfwbwc0NyH"
@@ -17334,7 +17360,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 164000,
       "name": "MI CALLE MI EDUCACION",
       "url": "https://open.spotify.com/track/1roAys2sloggpm6OnNKErm"
@@ -20498,6 +20524,36 @@
       "duration_ms": 118548,
       "name": "Otro Horizonte",
       "url": "https://open.spotify.com/track/67R3YDJ6IvnPRAtVBZFkL6"
+    },
+    {
+      "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/4RJSMonVjz3emASXcg37Lr"
+      },
+      "artists": [
+        {
+          "name": "Irving O.D",
+          "url": "https://open.spotify.com/artist/2KHb42WxjhX5EbLrXi2RmB"
+        },
+        {
+          "name": "Cannabeats",
+          "url": "https://open.spotify.com/artist/015XtOmFfkk7YTNfxh7Mv0"
+        },
+        {
+          "name": "Wend",
+          "url": "https://open.spotify.com/artist/3ExS6GHsHORXBWJenjiuk5"
+        },
+        {
+          "name": "Yxung lost",
+          "url": "https://open.spotify.com/artist/3s2MFhxCSKuxS1e3QZaZi9"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300664,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/5WfksmJFwtlrKRFvjRXj4S"
     },
     {
       "album": {
@@ -24288,7 +24344,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 218181,
       "name": "Scratchin' Souls",
       "url": "https://open.spotify.com/track/4SWr3MhL4SowgBsObNvUat"
@@ -25744,6 +25800,24 @@
       "duration_ms": 262000,
       "name": "Soy",
       "url": "https://open.spotify.com/track/6Nxnq5jVYlJ3SSCFP6bSQa"
+    },
+    {
+      "album": {
+        "name": "Soy la Voz",
+        "url": "https://open.spotify.com/album/5Rj0eSZ75Scc5RsVOXmaxK"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lee",
+          "url": "https://open.spotify.com/artist/4xYRQAYVpIJvtM28VM76cz"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118695,
+      "name": "Soy la Voz",
+      "url": "https://open.spotify.com/track/5B6NvNw7dRiIiZ5xNlSuO9"
     },
     {
       "album": {
@@ -29418,7 +29492,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 134769,
       "name": "Yuzu",
       "url": "https://open.spotify.com/track/7uDlSSOTrXYaz48GzkT24f"
@@ -29466,6 +29540,24 @@
       "duration_ms": 152655,
       "name": "Zambombazo",
       "url": "https://open.spotify.com/track/4ps4tXsQlKjRCB5jmnaEnQ"
+    },
+    {
+      "album": {
+        "name": "ZAPATOS",
+        "url": "https://open.spotify.com/album/5iLzs8Od50z0LnxT473EDa"
+      },
+      "artists": [
+        {
+          "name": "008RACCA",
+          "url": "https://open.spotify.com/artist/4V8v5JEf8rsMh9g90GZBLM"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153043,
+      "name": "ZAPATOS",
+      "url": "https://open.spotify.com/track/05y0gZhdZPsOCwSUIv1nXb"
     },
     {
       "album": {

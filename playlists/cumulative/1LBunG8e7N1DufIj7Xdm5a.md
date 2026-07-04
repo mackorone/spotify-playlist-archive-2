@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,490 songs - 10 day 0 hr 23 min
+4,496 songs - 10 day 0 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Avveleno il cuore](https://open.spotify.com/track/1XOmGrimuFXbKX8dKUhLNX) | [LATLETA](https://open.spotify.com/artist/2dupSU3huHKivDrB6cDYW9), [Vittorio Cane](https://open.spotify.com/artist/5ZW3lcKiL6nmgIRkEw2bqb) | [Avveleno il cuore](https://open.spotify.com/album/3XR1lmCRRudn5HEwZglmTr) | 3:31 | 2025-08-02 |  |
 | [Away](https://open.spotify.com/track/77ZqEqtJJvvAMfTAzMNNVs) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Ambient relax](https://open.spotify.com/album/2fvUa9kuMg4oUWzm9vyyZO) | 4:34 | 2025-09-15 |  |
 | [Away \(another\)](https://open.spotify.com/track/75c2odKi9p6zdp5MBbrPTt) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Ambient relax](https://open.spotify.com/album/2fvUa9kuMg4oUWzm9vyyZO) | 4:58 | 2025-09-15 |  |
+| [Ayer](https://open.spotify.com/track/0qGoYf2qfDaCyYmdbJ2Zob) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [Ayer](https://open.spotify.com/album/6eUq14dAiPYN12aNeK22So) | 3:23 | 2026-07-03 |  |
 | [B.U.G Antman "On The Radar" Freestyle](https://open.spotify.com/track/20vsgMlTXM7u2YdLRMTD5V) | [On The Radar](https://open.spotify.com/artist/24dIBlB22aVJyMNmLSEVZz), [B.U.G Antman](https://open.spotify.com/artist/3D3yRZ4aUoxlTZd2fef9C7) | [B.U.G Antman "On The Radar" Freestyle](https://open.spotify.com/album/1Y9RwE2iK7U5a6mfoHWLZz) | 2:18 | 2025-07-28 |  |
 | [Babbo Natale](https://open.spotify.com/track/5QQRo3aUGqs25MOid0lOZz) | [LEONE PRIMO](https://open.spotify.com/artist/0IlaTQDcOlHYtNdnSoUYfe) | [Grandi Bugie Legalizzate](https://open.spotify.com/album/5plR5qER6ZLx0CRmLaegEW) | 2:42 | 2025-04-04 |  |
 | [Babbo Natale Trap](https://open.spotify.com/track/3Sy33SrWCHoyI2h2VKySKH) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Babbo Natale Trap](https://open.spotify.com/album/4oQlx9ml5V4mIWSAevAjSK) | 2:17 | 2025-12-10 |  |
@@ -941,6 +942,7 @@
 | [Decisive](https://open.spotify.com/track/5dq5nUnV7vkd3dUYdOm9nQ) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Decisive](https://open.spotify.com/album/6dJcTXMtunwNwFpGlIwXk7) | 4:07 | 2025-07-03 |  |
 | [deep down](https://open.spotify.com/track/5I5vatsJd4PPZRNgEMyonX) | [APRIL](https://open.spotify.com/artist/23cdrivHH2nRJCNn0zuSSc) | [deep down](https://open.spotify.com/album/7sdPbYbpSjyz5vZGI2mIfe) | 1:13 | 2025-05-16 |  |
 | [Deep Down](https://open.spotify.com/track/1T38O6C6ZoZ6vjDSrDy6Eo) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Overdrive](https://open.spotify.com/album/2enRTMrOe25fNz0EtZ3rBp) | 3:25 | 2025-09-26 |  |
+| [Deeper Love \- Remix Extended Mix](https://open.spotify.com/track/6W22t218rsOMTImDKaKUN1) | [Roni Sadgan](https://open.spotify.com/artist/6P2EMT02pMK8xCpPamli1p), [Mou5ZyZZ](https://open.spotify.com/artist/6H2LGB5CAdk0wlV0ehb0B2) | [Trance Party Electric 2026](https://open.spotify.com/album/0hwkXUMMBvv71AnV2YKKqU) | 6:14 | 2026-07-03 |  |
 | [Del amor](https://open.spotify.com/track/3sF7J0py0ME0auMHyW4kzi) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 1:54 | 2026-03-15 |  |
 | [Del Odio Al Amor](https://open.spotify.com/track/1kmpfz6ZPnXrPMS8EQetzX) | [Jumpen Daniel](https://open.spotify.com/artist/1cRpMLp1aO4V7HvOBAJfk0) | [Del Odio Al Amor](https://open.spotify.com/album/39UPCNkZSt9B8AdrvDCQqd) | 2:03 | 2026-05-03 |  |
 | [Del Otro Lado](https://open.spotify.com/track/1sXtzJyluZo3Gu9Tf9YbxI) | [VKT´s](https://open.spotify.com/artist/1qOiDXpZ89u1u9GqenW4Tf) | [Del Otro Lado](https://open.spotify.com/album/3rVlNTxDyv4VgSFbiRe6kw) | 4:03 | 2025-07-03 |  |
@@ -1201,6 +1203,7 @@
 | [eighteen](https://open.spotify.com/track/5LZFWcu0C196GuVnYV5myW) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 4:12 | 2025-08-20 |  |
 | [Eighties love](https://open.spotify.com/track/6CmDuE9d71d2I5rrtwsATJ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [80's music inspired](https://open.spotify.com/album/52EpTauHULa82DwbMx0Pdh) | 3:05 | 2025-08-28 |  |
 | [Eins, zwei, drei… PROST!](https://open.spotify.com/track/2ku2pmw8xz2wFjHSkw5TLl) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [Eins, zwei, drei… PROST!](https://open.spotify.com/album/0GGL99juAuKOzqbT2gTPJi) | 2:05 | 2025-12-10 |  |
+| [El Andén](https://open.spotify.com/track/17rqrw2bas8EocpJ5aRtfO) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [El Andén](https://open.spotify.com/album/78hZJe3e6hOJaplUZjehn4) | 4:09 | 2026-07-03 |  |
 | [El Aroma](https://open.spotify.com/track/2ybADiuLbB1QmHl7OCwr0d) | [Macías](https://open.spotify.com/artist/12tb38v6ePm4N3MSLWQVzu) | [El Aroma](https://open.spotify.com/album/1rXoeuRFsnBsUbpsTJWW6b) | 5:16 | 2025-07-02 |  |
 | [El Camino](https://open.spotify.com/track/4jcSd18Facs6e8aA9CkE5i) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Fractal](https://open.spotify.com/album/6DBdgU939bZqH9lEJnczSO) | 3:45 | 2025-07-29 |  |
 | [El Camino](https://open.spotify.com/track/45OF12sFrMP8pnK3UCrhhl) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [El Camino](https://open.spotify.com/album/0UNEhnKevuAa8fAfUcPN1F) | 4:30 | 2025-10-25 |  |
@@ -2140,6 +2143,7 @@
 | [La prima volta](https://open.spotify.com/track/5gOg4FxhLLUTjchLVXiYZC) | [Mimì Scano](https://open.spotify.com/artist/0GsT5bKZFG4ECfrFS25S4Q) | [La prima volta](https://open.spotify.com/album/3kKeEbj1Uny2bDDT8WHEW7) | 3:16 | 2026-02-13 |  |
 | [La Rivolta del Barista](https://open.spotify.com/track/0nnbeNrSW9vpsaNnKahQr2) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano](https://open.spotify.com/album/31T2HdAXWX1xRStHgoSPoH) | 2:04 | 2025-09-14 |  |
 | [La Rivolta del Barista \(another\)](https://open.spotify.com/track/2nBQH0jr302t4HKgXrUqFL) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Punk rock italiano](https://open.spotify.com/album/31T2HdAXWX1xRStHgoSPoH) | 1:49 | 2025-09-14 |  |
+| [La Solana](https://open.spotify.com/track/6iEyn7CWhzedR9vcVJgwEE) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [La Solana](https://open.spotify.com/album/45dwsvHLQ75ifTInMqmyAx) | 4:32 | 2026-07-03 |  |
 | [La stessa storia](https://open.spotify.com/track/1X0CIkH1jlGi7mGAOiz8jq) | [Tanganica](https://open.spotify.com/artist/5LGDEz7coiJyU938LEwzG1) | [La stessa storia](https://open.spotify.com/album/52QTaL5pL0NhU5jI3Zyk3Y) | 2:54 | 2026-02-13 |  |
 | [La Strada Brilla](https://open.spotify.com/track/1h3QTAoISDmjGx1TI62Jun) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Flow Italiano Giovani e Virali](https://open.spotify.com/album/3LAJ2vLO6ZSHa3iKOHUHjv) | 2:30 | 2025-08-19 |  |
 | [La Strada Brilla \(another\)](https://open.spotify.com/track/684014VQBCc8xx6MoNP1An) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Flow Italiano Giovani e Virali](https://open.spotify.com/album/3LAJ2vLO6ZSHa3iKOHUHjv) | 1:50 | 2025-08-19 |  |
@@ -3727,6 +3731,7 @@
 | [Summer of the Shark](https://open.spotify.com/track/5UcbZB06vuCDRaG4EflhBc) | [DITZ](https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ) | [The Great Regression](https://open.spotify.com/album/7CHysqi9XojKnr2DpqfHG1) | 2:49 | 2025-11-04 |  |
 | [Sun On My Brain](https://open.spotify.com/track/6Pm6sScJg8Z2xGoaMt8hAg) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac), [Cyber Bully](https://open.spotify.com/artist/0COIH4xHDEcFfN0x0p2x7e) | [Daylight Upon Magic \(Deluxe\)](https://open.spotify.com/album/0uuswDGuMCXwx99GAd9rlr) | 3:34 | 2025-07-01 |  |
 | [sun&moon](https://open.spotify.com/track/1gmOkIOhtOu0NYfJ2NOJiB) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 3:41 | 2026-02-01 |  |
+| [Sunburn](https://open.spotify.com/track/0SFsQqSAU2FzW7h8ZLe7qv) | [Frequency Overload](https://open.spotify.com/artist/5ENQmvhqRDwkp5IdF9U3Ia) | [Sunburn](https://open.spotify.com/album/7D3U1gc3zT2RaPWGGniSEA) | 4:47 | 2026-07-03 |  |
 | [Sunday](https://open.spotify.com/track/1rBSCtZ1wkeFATpnZ9bTKL) | [Myqwan](https://open.spotify.com/artist/6Gnc30gwlxqy5XcHKAAdYW) | [Sunday](https://open.spotify.com/album/1KSuUHadYkDa2ofZWbQvjU) | 2:04 | 2025-10-07 |  |
 | [Sunny Laxx \- Instrumental Version](https://open.spotify.com/track/4YsBNrob4b0iJqiEjKfZMj) | [Bryte London](https://open.spotify.com/artist/65cvaHkkZKLwKf59Iek0Z2) | [Can't please everyone \(Instrumental Versions\)](https://open.spotify.com/album/7cmbPn2zMRLL1gJf3UlTle) | 3:52 | 2025-07-02 |  |
 | [Sunrise](https://open.spotify.com/track/2s7VCqMcb8QGrV0EibS9Zn) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4), [Luh Rocket Bang](https://open.spotify.com/artist/7gUANljCj7r0zIjRE83Xdm) | [Sunrise](https://open.spotify.com/album/60QAGbK2rS6skUvNkOtyi1) | 2:00 | 2026-02-16 |  |
@@ -4047,6 +4052,7 @@
 | [Truman Show](https://open.spotify.com/track/1ydnnYfGssqlnLsfJX3Ked) | [Guida Galattica](https://open.spotify.com/artist/6dALgmDuM8lbsYjTRh7xlv) | [Truman Show](https://open.spotify.com/album/3zvQuQUm2qMwDOD49kRNi1) | 3:29 | 2025-05-27 |  |
 | [Truth Shows Up](https://open.spotify.com/track/7L3KxmC2uRc6fRL3lheVL2) | [PaSK](https://open.spotify.com/artist/0ubHnI1tYSkVVxslIkr3gO) | [Truth Shows Up](https://open.spotify.com/album/5DYRpTEVeQOoaClbDLMmZS) | 3:35 | 2025-03-03 |  |
 | [Truth Without A Voice](https://open.spotify.com/track/6VWCYsFaSzmtdmzSrTKMW7) | [Changeover](https://open.spotify.com/artist/2u4GX0Bif1sfEzNfj6ehmg) | [Truth Without A Voice](https://open.spotify.com/album/3zEX5kzLx0JYkhFhyW9ZVt) | 3:10 | 2026-05-11 |  |
+| [Try](https://open.spotify.com/track/1wa2z0DVUphZcmfxUVvaeN) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [Try](https://open.spotify.com/album/4UlGGdntkH7WIS8UfAy5cR) | 4:24 | 2026-07-03 |  |
 | [Tränen](https://open.spotify.com/track/5QMOsZYAXmC74zyNA6MVY1) | [Bierkenstock](https://open.spotify.com/artist/6EpNThKCVl7Fs0ebxfbQNJ) | [Tränen](https://open.spotify.com/album/3vqsRlHgBSdKnWWUziTpji) | 3:12 | 2025-05-26 |  |
 | [Tu dors](https://open.spotify.com/track/1Gxj17JyqnTezJkK62eVrM) | [Osah](https://open.spotify.com/artist/1AeKlQFE3f4jMoiJyuhyM1), [Weedlack](https://open.spotify.com/artist/01BvBbo2LhDw1fwCnr7iYL) | [Tu dors](https://open.spotify.com/album/4FPji3VCeIl6Um0xkKZEOk) | 2:56 | 2025-06-05 |  |
 | [Tu Hai Toh](https://open.spotify.com/track/3BjYRmww0BVPv28wfGkWJv) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Tu Hai Toh](https://open.spotify.com/album/1c0jWhoRT6biZMrqxUYx4g) | 4:11 | 2026-06-19 |  |

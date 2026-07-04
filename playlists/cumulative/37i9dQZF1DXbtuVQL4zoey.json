@@ -2380,7 +2380,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 90666,
       "name": "Chips",
       "url": "https://open.spotify.com/track/2cXdC5qNqc5Gk0X6JtjUqH"
@@ -3975,6 +3975,24 @@
     },
     {
       "album": {
+        "name": "Fast Forward",
+        "url": "https://open.spotify.com/album/3ZystoppzqyD5lobrc0bqJ"
+      },
+      "artists": [
+        {
+          "name": "Jazzdroid",
+          "url": "https://open.spotify.com/artist/5oHXx18DkyL0MSytwm6LEO"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146062,
+      "name": "Fast Forward",
+      "url": "https://open.spotify.com/track/4JnttsOvAIELoiO29BAyRX"
+    },
+    {
+      "album": {
         "name": "Youth",
         "url": "https://open.spotify.com/album/6EsM3MnrEP0kcCf73zoHlF"
       },
@@ -5165,6 +5183,24 @@
     },
     {
       "album": {
+        "name": "higher, lower",
+        "url": "https://open.spotify.com/album/29fBzfvMu1H5Vy3dgruKhp"
+      },
+      "artists": [
+        {
+          "name": "luzzy fogic",
+          "url": "https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "higher, lower",
+      "url": "https://open.spotify.com/track/4dGNNenJ3nNV1vS0HqobBm"
+    },
+    {
+      "album": {
         "name": "highway one",
         "url": "https://open.spotify.com/album/47pqF590k2anGL5Jl0HuRs"
       },
@@ -5712,7 +5748,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 146328,
       "name": "Jetlag",
       "url": "https://open.spotify.com/track/0HFPMPIPGy0o9ocbHMNz2P"

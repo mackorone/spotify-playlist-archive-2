@@ -1,13 +1,37 @@
 {
   "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
-  "num_followers": 117078,
+  "num_followers": 117083,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAAB4IV7f0hToznS1Ea5eD1e0",
+  "snapshot_id": "akWqAAAAAADkJzlOaZMPHArNNqZ0G51q",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Os Sonhos de Deus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ixU3Qh1Lob6kEI02SeGQM"
+      },
+      "artists": [
+        {
+          "name": "Carol Tauber",
+          "url": "https://open.spotify.com/artist/6rK1HFXiEMatdQGeQQA1VK"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        },
+        {
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+        }
+      ],
+      "duration_ms": 322130,
+      "name": "Os Sonhos de Deus - Ao Vivo",
+      "url": "https://open.spotify.com/track/0tIeWlRo1s3R2R83GLzXN3"
+    },
     {
       "added_at": null,
       "album": {
@@ -235,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Nome de Jesus",
-        "url": "https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 307741,
-      "name": "O Nome de Jesus",
-      "url": "https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus Faz Al\u00e9m (Ao Vivo)",
         "url": "https://open.spotify.com/album/2WPOOdQp05sOWXcbHVEs9B"
       },
@@ -271,6 +279,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Nome de Jesus",
+        "url": "https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 307741,
+      "name": "O Nome de Jesus",
+      "url": "https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pra Te Contar Os Meus Segredos (Ao Vivo)",
         "url": "https://open.spotify.com/album/0yzFwrBgTavltGMMfwS4p5"
       },
@@ -287,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Nunca Antes",
-        "url": "https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 283360,
-      "name": "Como Nunca Antes",
-      "url": "https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oi, Jesus",
         "url": "https://open.spotify.com/album/1mQXcTWqbRM5DNgOPN70N4"
       },
@@ -315,6 +323,22 @@
       "duration_ms": 233766,
       "name": "Oi, Jesus",
       "url": "https://open.spotify.com/track/24yMODgKNyQDvvCKlbwlxR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Nunca Antes",
+        "url": "https://open.spotify.com/album/3bbpurLdQMfiC7KgQPU4F9"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 283360,
+      "name": "Como Nunca Antes",
+      "url": "https://open.spotify.com/track/6Z3Hm5K81QquaY8nh83TST"
     },
     {
       "added_at": null,
@@ -883,22 +907,6 @@
       "duration_ms": 252352,
       "name": "N\u00e3o H\u00e1 o Que Temer",
       "url": "https://open.spotify.com/track/0OF4D4FGn9epxkXAJKFD86"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dependente de Deus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0dQX1IZI82UCXg47zWJNvh"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 242602,
-      "name": "Lindo Jesus - Ao Vivo",
-      "url": "https://open.spotify.com/track/6ObQ2PQrSK01d7MwSIzpAW"
     }
   ],
   "unique_name": "This Is Isadora Pompeo",

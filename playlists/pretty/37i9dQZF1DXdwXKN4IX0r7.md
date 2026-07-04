@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwXKN4IX0r7.md) - [plain]
 
 > <a href="spotify:artist:7MdlXmq2HViAJWo9cf30sR">Cloonee</a>'s favorite tracks\. Curated by Cloonee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,870 likes - 71 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,890 likes - 71 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [One Question](https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Groove Theory](https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj) | [One Question](https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU) | 3:04 |
-| 2 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 |
+| 2 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sybil](https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 |
 | 3 | [Voicemail \- Original Mix](https://open.spotify.com/track/2IhRmHI7pDzhpF9c8iCT6x) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [The Chapters of Green Velvet](https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4) | 7:16 |
 | 4 | [XXX Funk](https://open.spotify.com/track/3pgwmvkf1hczvQDN8r6pwl) | [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [Brothas Doobie](https://open.spotify.com/album/33SkKSM72vyJvx5oc13351) | 3:55 |
 | 5 | [Rare Tape](https://open.spotify.com/track/2giWqPJA5P3iZk07mBuZZ4) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu) | [Wacamama EP](https://open.spotify.com/album/6KVSnQMgY94Uq8enKxvAoK) | 3:20 |

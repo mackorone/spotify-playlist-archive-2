@@ -15261,6 +15261,24 @@
     },
     {
       "album": {
+        "name": "In Love With The Feeling",
+        "url": "https://open.spotify.com/album/1nrBwTsNTTypGtInESzrOo"
+      },
+      "artists": [
+        {
+          "name": "The Aston Shuffle",
+          "url": "https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "In Love With The Feeling",
+      "url": "https://open.spotify.com/track/2wh4iyfqsJJgpuCEFVRbJe"
+    },
+    {
+      "album": {
         "name": "In Love With You (Radio Edit)",
         "url": "https://open.spotify.com/album/6uKD5yITNbZRNfix9NTcbE"
       },

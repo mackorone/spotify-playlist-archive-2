@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 
 > Escucha mujeres a todo volumen\. Foto: Ángeles Toledano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,363 likes - 55 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,362 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dANf8jNW4z.md) - [plain]
 | 45 | [Cambio de Piel](https://open.spotify.com/track/2K5hFPzHaesgNZu4iSvEtO) | [Sara Del Valle](https://open.spotify.com/artist/0d6kWpmLFqfaoYwEiz85XX) | [Cambio de Piel](https://open.spotify.com/album/7odA6A7ee1zpNj1GVolnyx) | 3:51 |
 | 46 | [curita sana](https://open.spotify.com/track/1rIjpwW0KaaSRPJzFd454z) | [Tatiana Delalvz](https://open.spotify.com/artist/4rFr57FRQgkd7FSwvQxBNP) | [curita sana](https://open.spotify.com/album/6rv3Abs1sdpEYahhgNdhR9) | 2:14 |
 | 47 | [se te ve feliz](https://open.spotify.com/track/7L9ct6NyuHjrU3tO12CJWZ) | [Farga](https://open.spotify.com/artist/17O0sOUnzCVMrJyKrKLYY7) | [ex/cusas](https://open.spotify.com/album/5jHtHGicQinajiAzIcjd5j) | 2:31 |
-| 48 | [El Coco](https://open.spotify.com/track/382M4P1H8fojWzGtaSZoAo) | [Rosalinda Galán](https://open.spotify.com/artist/3FusAoozQGNW9vNSUsfgkW) | [El Coco](https://open.spotify.com/album/2v4w0PwiM5Y8sszNYnsjXF) | 3:00 |
+| 48 | [El Coco \(neo\-zambra\)](https://open.spotify.com/track/382M4P1H8fojWzGtaSZoAo) | [Rosalinda Galán](https://open.spotify.com/artist/3FusAoozQGNW9vNSUsfgkW) | [El Coco \(neo\-zambra\)](https://open.spotify.com/album/2v4w0PwiM5Y8sszNYnsjXF) | 3:00 |
 | 49 | [Alguien Habrá](https://open.spotify.com/track/06fi0UOJyE9PPsOvsfbTUQ) | [Alba Morena](https://open.spotify.com/artist/6wTv4tZgFHEWy8MyTaP9E5) | [Alguien Habrá](https://open.spotify.com/album/49kgk3acNciC3tcSwyVA2g) | 2:36 |
 | 50 | [TRAGEDIA](https://open.spotify.com/track/1FnRaQDk3s7RkWBXKmnuLv) | [Marta Sango](https://open.spotify.com/artist/4rVronLhqEXcfu8CjCmLQv) | [TRAGEDIA](https://open.spotify.com/album/6zTRAEX6goxJb5wXBqoSLO) | 2:30 |
 | 51 | [GLOSS](https://open.spotify.com/track/7oIEKUjH1nahrnfYMnFsID) | [Lara Taylor](https://open.spotify.com/artist/138Upp7TCwBT2txbgqJfZl), [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl), [Deivvbb](https://open.spotify.com/artist/41CFEd48bGmJKWs8PVpGpu) | [GLOSS](https://open.spotify.com/album/6njRm8wooZvN1dhSgkb3Vj) | 2:47 |

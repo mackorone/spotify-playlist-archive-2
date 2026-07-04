@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 141145,
+  "num_followers": 141134,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "Season of Freaks",
-        "url": "https://open.spotify.com/album/4WGqGwUleATixVRxGRvKKd"
-      },
-      "artists": [
-        {
-          "name": "Eli",
-          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
-        }
-      ],
-      "duration_ms": 230501,
-      "name": "Season of Freaks",
-      "url": "https://open.spotify.com/track/2zXMvhx7FN3KMumYFxkXaE"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "Four Words to Stand On",
         "url": "https://open.spotify.com/album/6MG0XArKf08UY3LfLaavp5"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 211480,
       "name": "Standing on Ghosts",
       "url": "https://open.spotify.com/track/3Hae7QZVTET77QI7zSYc1g"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "Season of Freaks",
+        "url": "https://open.spotify.com/album/4WGqGwUleATixVRxGRvKKd"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1"
+        }
+      ],
+      "duration_ms": 230501,
+      "name": "Season of Freaks",
+      "url": "https://open.spotify.com/track/2zXMvhx7FN3KMumYFxkXaE"
     },
     {
       "added_at": "2026-04-24 13:27:34",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-04-24 13:27:34",
       "album": {
-        "name": "My Lover's on the Run",
-        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
-      },
-      "artists": [
-        {
-          "name": "Year of Dogs",
-          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
-        }
-      ],
-      "duration_ms": 217980,
-      "name": "My Lover's on the Run",
-      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
-    },
-    {
-      "added_at": "2026-04-24 13:27:34",
-      "album": {
         "name": "Shake, Shook, Shaken",
         "url": "https://open.spotify.com/album/3GGJlh7y7yWax4SY3n9cag"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 173300,
       "name": "Omen",
       "url": "https://open.spotify.com/track/5q8fHfyTc63KlySBCP8DFH"
+    },
+    {
+      "added_at": "2026-04-24 13:27:34",
+      "album": {
+        "name": "My Lover's on the Run",
+        "url": "https://open.spotify.com/album/0fodre1CbDBfizXVYRECjZ"
+      },
+      "artists": [
+        {
+          "name": "Year of Dogs",
+          "url": "https://open.spotify.com/artist/3Saa5KJsXbh58Lw1ePyufj"
+        }
+      ],
+      "duration_ms": 217980,
+      "name": "My Lover's on the Run",
+      "url": "https://open.spotify.com/track/425jUIuqLd2GP92ffTMuBt"
     },
     {
       "added_at": "2026-04-24 13:27:34",

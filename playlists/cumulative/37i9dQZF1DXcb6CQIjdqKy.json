@@ -1086,7 +1086,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 266822,
       "name": "All This In A Name",
       "url": "https://open.spotify.com/track/60V25Kw5kvRayqtpwDtng5"
@@ -3295,6 +3295,24 @@
     },
     {
       "album": {
+        "name": "Bye Bye",
+        "url": "https://open.spotify.com/album/5XJ9YAEZsQxl0yRLNx1EBX"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214872,
+      "name": "Bye Bye",
+      "url": "https://open.spotify.com/track/115KAd9VbsmqjrGVRbsIVC"
+    },
+    {
+      "album": {
         "name": "Call Your Name",
         "url": "https://open.spotify.com/album/4vaSuASnMqTwnG8wIAfAPg"
       },
@@ -5095,6 +5113,28 @@
     },
     {
       "album": {
+        "name": "Don't Runaway",
+        "url": "https://open.spotify.com/album/3LlsY3HphvGLJ5OIAygyrn"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        },
+        {
+          "name": "Gloria Kim",
+          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205371,
+      "name": "Don't Runaway",
+      "url": "https://open.spotify.com/track/5YkTu7GZrtSNfKfTLDCyJO"
+    },
+    {
+      "album": {
         "name": "Don't Stop Praying (Acoustic)",
         "url": "https://open.spotify.com/album/28oHlQ8LW9kzgaZjB0Uc8L"
       },
@@ -6460,7 +6500,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 277600,
       "name": "Flowers (with Jamie MacDonald)",
       "url": "https://open.spotify.com/track/5UG7WoVM0PrPJbeKpyJ6mD"
@@ -11964,7 +12004,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 221767,
       "name": "If God Lives Here",
       "url": "https://open.spotify.com/track/3UF6qUVCkDROF8dnpiRHBG"
@@ -12656,7 +12696,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 254000,
       "name": "It Really Is Amazing Grace",
       "url": "https://open.spotify.com/track/5AyPki0wWZWid3L75qtNPZ"
@@ -16562,7 +16602,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 140487,
       "name": "NED FLANDERS",
       "url": "https://open.spotify.com/track/2W6PC29zRbBuJwI3G8eBzB"
@@ -19646,7 +19686,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 219400,
       "name": "Remember",
       "url": "https://open.spotify.com/track/0VgkDPY3jHMxr3Q4kVYjfU"
@@ -21870,7 +21910,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 167065,
       "name": "Steady",
       "url": "https://open.spotify.com/track/6Tbgv6lIzTGPsXlTIBvb1E"
@@ -25760,7 +25800,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 251913,
       "name": "Valley Of Worship",
       "url": "https://open.spotify.com/track/7BDMHvOfOWSyPRs5DzklJL"

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Axel Brizzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,283 likes - 105 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,286 likes - 105 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OXFORD](https://open.spotify.com/track/36zo0XK1uoVp8u5TA6cDSi) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [OXFORD](https://open.spotify.com/album/6YSLU17lrAjWtBRKqb6afv) | 2:37 |
 | 2 | [KOLLURE \- From "Must Date The Playboy"](https://open.spotify.com/track/5jaXSWih6Mg6oi8SBe5e1x) | [Shabir Sulthan](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng), [Vishnupriya Ravi](https://open.spotify.com/artist/0znqmX3tzZ55FFTmlffAlv), [Mazhaimegan](https://open.spotify.com/artist/0rXfJ6VTsAgBFdncbk6vGA) | [KOLLURE \(From "Must Date The Playboy"\)](https://open.spotify.com/album/1aDhfTPfEk78idjxV2aIsi) | 2:45 |
 | 3 | [來不及想你](https://open.spotify.com/track/12YF3vD8E6wu5JVLnVBtow) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4) | [來不及想你](https://open.spotify.com/album/3j6UiewfD8D9sJ25tzcqGV) | 3:42 |
-| 4 | [Track 5](https://open.spotify.com/track/0GSQngd31eW9efro6XrJNA) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [WHAT'S THE POINT](https://open.spotify.com/album/579Do65Kg2oJGN3KwPVIcN) | 0:00 |
+| 4 | [WHAT'S THE POINT](https://open.spotify.com/track/0GSQngd31eW9efro6XrJNA) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [WHAT'S THE POINT](https://open.spotify.com/album/579Do65Kg2oJGN3KwPVIcN) | 2:37 |
 | 5 | [party's over \(party pooper\)](https://open.spotify.com/track/0lUWd3setb9dtgHPn89LVx) | [Sun Cell](https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef) | [party's over \(party pooper\)](https://open.spotify.com/album/4FKcEEL28rjsnPdVY92QlA) | 3:43 |
 | 6 | [王子的新衣](https://open.spotify.com/track/0ByCm3QWBWeshuDmpSMToW) | [Calvin 李忠伦](https://open.spotify.com/artist/1vJpjk0BTpwo8fJ6OEtl0C) | [王子的新衣](https://open.spotify.com/album/1e1n3ymihZHeWdBNH04x7E) | 3:22 |
 | 7 | [Why do tears fall from our eyes when we cry?](https://open.spotify.com/track/2dFka6qvgbz35Vsy7iy7m4) | [Mark Ho](https://open.spotify.com/artist/0aDloVdAf1IqGtU0BJavF2) | [LESSONS IN LETTING GO](https://open.spotify.com/album/358umKN66YJO2LbpY9l1GM) | 4:01 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Fresh Latin Indie you should know. Cover: YoSoyMatt",
+  "description": "Fresh Latin Indie you should know. Cover: Manu Beker",
   "name": "el nuevo indie",
   "tracks": [
     {
@@ -798,7 +798,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 109977,
       "name": "Ah! Ah! Ah!",
       "url": "https://open.spotify.com/track/0mwnRupwX7ep5ODNbi7feR"
@@ -1492,7 +1492,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 189584,
       "name": "Anestesia",
       "url": "https://open.spotify.com/track/6sq9dpQPWpConDT9nYEvLW"
@@ -1756,7 +1756,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 302080,
       "name": "Aqu\u00ed nadie se puede morir (feat. Santi Balmes)",
       "url": "https://open.spotify.com/track/53GtlAClp7NMb0KrDEq766"
@@ -1814,7 +1814,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 158464,
       "name": "ARTIFICIAL",
       "url": "https://open.spotify.com/track/6iCxNKdmmEb4lgBelgl0mX"
@@ -2412,6 +2412,24 @@
       "duration_ms": 153176,
       "name": "BES4ME",
       "url": "https://open.spotify.com/track/4YoHssP1wgFxKIrgkAJRDD"
+    },
+    {
+      "album": {
+        "name": "BESITO",
+        "url": "https://open.spotify.com/album/43WGkYXN5ZQE3i8wvk7qqa"
+      },
+      "artists": [
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179720,
+      "name": "BESITO",
+      "url": "https://open.spotify.com/track/389oMzXEijK20cCw6pFfYl"
     },
     {
       "album": {
@@ -4285,6 +4303,24 @@
     },
     {
       "album": {
+        "name": "Crimson",
+        "url": "https://open.spotify.com/album/6S30CrJ1gKdiz1ELMPtxf5"
+      },
+      "artists": [
+        {
+          "name": "Andria Rose",
+          "url": "https://open.spotify.com/artist/7pyFoUaznDd4Bxq5PmPKnK"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178208,
+      "name": "Crimson",
+      "url": "https://open.spotify.com/track/2mKEG9RpekxyT8ZyZ37gjx"
+    },
+    {
+      "album": {
         "name": "crisis EXistencial",
         "url": "https://open.spotify.com/album/74wxSYpQK3BjuzWybyvMin"
       },
@@ -4739,6 +4775,28 @@
     },
     {
       "album": {
+        "name": "De M\u00ed",
+        "url": "https://open.spotify.com/album/23h6icLPD6r3lXwFIJWqEO"
+      },
+      "artists": [
+        {
+          "name": "La Hipocres\u00eda Mat\u00f3 al Gato",
+          "url": "https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe"
+        },
+        {
+          "name": "SOULFIA",
+          "url": "https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180073,
+      "name": "De M\u00ed",
+      "url": "https://open.spotify.com/track/6kaadx17OCu6h4E92Gqpu7"
+    },
+    {
+      "album": {
         "name": "De noche me cuesta m\u00e1s",
         "url": "https://open.spotify.com/album/1G5R8Vx4NhbZcLecnNjQ79"
       },
@@ -4838,7 +4896,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 200710,
       "name": "Delicately",
       "url": "https://open.spotify.com/track/7mkOcvOoftO2BvSzvto7ID"
@@ -4914,6 +4972,24 @@
       "duration_ms": 214304,
       "name": "Desastre",
       "url": "https://open.spotify.com/track/692umRQ6QU5eHI91aEJTgA"
+    },
+    {
+      "album": {
+        "name": "ATL\u00c1NTICO",
+        "url": "https://open.spotify.com/album/4pkWNa2blLWxTPPTOQXwoz"
+      },
+      "artists": [
+        {
+          "name": "West Srk",
+          "url": "https://open.spotify.com/artist/0M0cPEB7uDiRRc22XtyRBZ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185379,
+      "name": "DESASTRE",
+      "url": "https://open.spotify.com/track/5NMlBtIr4iJ5mPrh4b9lfN"
     },
     {
       "album": {
@@ -12212,7 +12288,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 202226,
       "name": "Mentiroso",
       "url": "https://open.spotify.com/track/4ZjoijowK4pzDTAcoIczxf"
@@ -14378,7 +14454,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 228535,
       "name": "Nuestra Casa",
       "url": "https://open.spotify.com/track/32PLngqOwuA7jZzfZVk6Wb"
@@ -16418,6 +16494,24 @@
       "duration_ms": 220479,
       "name": "Puro",
       "url": "https://open.spotify.com/track/4rNzJte4Z9YynG79FEjyZC"
+    },
+    {
+      "album": {
+        "name": "P\u00e1lpitos",
+        "url": "https://open.spotify.com/album/06uW4Tpzo7ReViEgT7cigw"
+      },
+      "artists": [
+        {
+          "name": "Teo",
+          "url": "https://open.spotify.com/artist/4bv5cRKu2eAjm1mGDPGkeq"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "P\u00e1lpitos",
+      "url": "https://open.spotify.com/track/0Ul68G3EApaALwWqOeB4nl"
     },
     {
       "album": {
@@ -21681,6 +21775,28 @@
     },
     {
       "album": {
+        "name": "Verano Lento",
+        "url": "https://open.spotify.com/album/3ajZB9dy7Yk03dXJxDzYhS"
+      },
+      "artists": [
+        {
+          "name": "Carlos Sadness",
+          "url": "https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq"
+        },
+        {
+          "name": "J\u00f3sean Log",
+          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184442,
+      "name": "Verano Lento",
+      "url": "https://open.spotify.com/track/5mKqhC0IrB2oLvUgFi5naH"
+    },
+    {
+      "album": {
         "name": "Verbenas",
         "url": "https://open.spotify.com/album/7n3EUXlrYCr7fGydlXtRBC"
       },
@@ -22672,6 +22788,24 @@
       "duration_ms": 153189,
       "name": "\u00a1p\u00e1rate!",
       "url": "https://open.spotify.com/track/6UbrU43q0ECnVSrSGwNOCb"
+    },
+    {
+      "album": {
+        "name": "\u00bfC\u00f3mo te fue hoy?",
+        "url": "https://open.spotify.com/album/3quu7ZMH8JdSgObLD5ZBHV"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123478,
+      "name": "\u00bfC\u00f3mo te fue hoy?",
+      "url": "https://open.spotify.com/track/2JKyg4A5zmEJTBugXX77EQ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-2,086 songs - 4 day 19 hr 6 min
+2,087 songs - 4 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,7 +558,7 @@
 | [E Depois Do Adeus](https://open.spotify.com/track/5kbSrcu9v1mCgJ1xBu7zHJ) | [Paulo de Carvalho](https://open.spotify.com/artist/7KZq6Dnxz9nVtLg45UMGEJ) | [A Arte E A Música De Paulo De Carvalho](https://open.spotify.com/album/2Un774WbQeGD7k3FfrEjum) | 3:23 | 2026-04-26 | 2026-04-28 |
 | [E No Eazi](https://open.spotify.com/track/1whDEEq8EhwQCKozFQh1C4) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Fofo](https://open.spotify.com/artist/6CmPnqcPOSL1YGYlbbSIhE) | [E No Eazi](https://open.spotify.com/album/2AV8YlXjnmB2ENud83fwE4) | 3:18 | 2023-03-07 | 2023-03-09 |
 | [E85](https://open.spotify.com/track/3B4cjvGlPvyBLNG3AzEgkZ) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 2:33 | 2026-01-31 | 2026-02-02 |
-| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-06-09 |  |
+| [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-06-09 | 2026-07-04 |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2022-04-30 |
 | [Eenie Meenie](https://open.spotify.com/track/4vVTI94F9uJ8lHNDWKv0i2) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Eenie Meenie](https://open.spotify.com/album/7yCXgxWLZZEAiVsISKN3BF) | 3:21 | 2026-04-15 | 2026-04-17 |
@@ -1397,6 +1397,7 @@
 | [Paradise](https://open.spotify.com/track/7wBrglFVTNCcW6IhdgBkm1) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Mylo Xyloto](https://open.spotify.com/album/5GykKNn2KjofEoA8SpNnuw) | 4:38 | 2022-08-26 | 2023-05-26 |
 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2021-03-27\* | 2021-05-07 |
 | [PARASAIL](https://open.spotify.com/track/2Q0aElTZQtEUsoiaQfizu6) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:34 | 2023-07-29 | 2023-07-31 |
+| [Pau Pra Toda Obra](https://open.spotify.com/track/2zUC2BnjdVkB0OWvFQkKHa) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Lele JP](https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY), [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN) | [Pau Pra Toda Obra](https://open.spotify.com/album/0W66hHCN1cRJitO1dHEbUQ) | 3:48 | 2026-07-03 |  |
 | [País das Maravilhas](https://open.spotify.com/track/0VBFANoEYSrWF3lOEGsAqC) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Carta de Alforria](https://open.spotify.com/album/4Ez4z45AAG56Ms3tu305pL) | 4:05 | 2024-11-09 | 2024-11-16 |
 | [País das Maravilhas](https://open.spotify.com/track/0qGRWcPOMkkt7edm4wMVRf) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Carta de Alforria](https://open.spotify.com/album/6i3SrOREpyMOAs6771y7tm) | 4:05 | 2024-11-15 | 2026-03-21 |
 | [País das Maravilhas](https://open.spotify.com/track/7emz59Wuv1QEDx0CJCzsaL) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [País das Maravilhas](https://open.spotify.com/album/5ZLPamhiA1VRwzPr8qEWv6) | 4:05 | 2024-11-01 | 2024-11-10 |

@@ -3561,6 +3561,28 @@
     },
     {
       "album": {
+        "name": "Se Acab\u00f3",
+        "url": "https://open.spotify.com/album/3venbc3z2HDQ6UYzLQPA6w"
+      },
+      "artists": [
+        {
+          "name": "Mimi Leclercq",
+          "url": "https://open.spotify.com/artist/5jROvsAhZsmmETG67HIyYC"
+        },
+        {
+          "name": "Pumba Dos Santos",
+          "url": "https://open.spotify.com/artist/0gdjAXFsHUD66t1fLVBw5h"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185545,
+      "name": "Se Acab\u00f3",
+      "url": "https://open.spotify.com/track/05dNNUYbOk97NSMS4zLdhi"
+    },
+    {
+      "album": {
         "name": "SER AMIGOS (olvida)",
         "url": "https://open.spotify.com/album/6fjvO0I7QKkKLrpr4esvh1"
       },

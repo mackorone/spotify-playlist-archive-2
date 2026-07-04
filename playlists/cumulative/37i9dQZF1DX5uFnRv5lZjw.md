@@ -4,7 +4,7 @@
 
 > doom scrolling is out, off\-grid is in.
 
-120 songs - 5 hr 2 min
+123 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Leggere](https://open.spotify.com/track/6YrLhDigWAMubVqnY3wtBj) | [Gioia Pisano](https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8) | [Leggere](https://open.spotify.com/album/4QzaKdPJYa0iJT4iyNH8V4) | 2:29 | 2025-05-02 | 2025-06-11 |
 | [Li](https://open.spotify.com/track/3Pfj28ILjwTSgBsIXSxYlo) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [Li](https://open.spotify.com/album/1xOxD86o1JwiJ7YHeVxDKc) | 2:40 | 2025-05-30 |  |
 | [Light Beyond the Sea](https://open.spotify.com/track/04NDnHXLfZI2opryvLW2o5) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Light Beyond the Sea](https://open.spotify.com/album/5wyOeH6huy4171uMSekTgw) | 2:06 | 2025-07-16 |  |
+| [Little Dove](https://open.spotify.com/track/0XSZ0ROOhFRnsHweQxFPAK) | [James Quinn](https://open.spotify.com/artist/5snx16ErkhOi5bNc2mLx5V) | [Little Dove](https://open.spotify.com/album/0oQjdHvLzIEB2kcHpnOlVD) | 1:50 | 2026-07-03 |  |
 | [Little House In Silver Lake](https://open.spotify.com/track/1QQXKivwrfMS3ma2ZBUGyr) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Little House In Silver Lake](https://open.spotify.com/album/6hXIKTf62eL65rGo6GshIs) | 2:52 | 2025-03-07 |  |
 | [Lost in the Library](https://open.spotify.com/track/6OegSW1Xm2gyfwU9zZUkwU) | [Claude Leon](https://open.spotify.com/artist/6CaYrWBRxJNLRd95uQ6uLC) | [Lost in the Library](https://open.spotify.com/album/1y2cH530QIZ5EAveiJZOlP) | 2:34 | 2025-03-07 |  |
 | [Meadows](https://open.spotify.com/track/3lbUG1o2SurxnJkijry5dI) | [Adrian Solen](https://open.spotify.com/artist/0YXmGTBUBq6Pikq8MvNngn) | [Meadows](https://open.spotify.com/album/5ny5NcwkfOoChD522hi6j0) | 2:19 | 2025-07-18 |  |
@@ -97,6 +98,7 @@
 | [Skylight](https://open.spotify.com/track/03Rhfj6DZLmkvfa4dHcvzt) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Skylight](https://open.spotify.com/album/27Lf5zIyUMM8WR6LXWkC6A) | 2:37 | 2025-05-13 |  |
 | [Skyline Sonnet](https://open.spotify.com/track/5IqPPFogK8Quw9iKgnvqxl) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [Skyline Sonnet](https://open.spotify.com/album/0pLZ2ao9Gg7nKiIWewdlVh) | 2:36 | 2025-03-07 |  |
 | [Soar](https://open.spotify.com/track/510zxCdlRrbJ1w2iSLnHrR) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Soar](https://open.spotify.com/album/7Mpo6kNCqKZ3MRd3IfGtAW) | 2:13 | 2025-08-05 |  |
+| [Soft Remains](https://open.spotify.com/track/2aCCSgGdfxQhFG959qfvXc) | [Lyraen](https://open.spotify.com/artist/0UWho9zZbWeCzDCPKaebro) | [Soft Remains](https://open.spotify.com/album/4KSGCtwTfz11gWnLc1OWOJ) | 3:33 | 2026-07-03 |  |
 | [Sole In Viso](https://open.spotify.com/track/46o8PS9zl4HryzFZEVgtwm) | [Emilio Abruzzo](https://open.spotify.com/artist/3Cmm3KzKAdZM69mMxxLaDK) | [Sole In Viso](https://open.spotify.com/album/6spKUg9mnuj7UNvjOR5w7S) | 2:23 | 2025-03-07 | 2025-06-11 |
 | [something familiar](https://open.spotify.com/track/49AZECHl99ZaUVgHa4JjqM) | [reinë](https://open.spotify.com/artist/4KMRoxw1UPjNsfY53yIfYR) | [something familiar](https://open.spotify.com/album/4oB5z70NjRTQTaoI4QtZau) | 2:51 | 2025-09-17 |  |
 | [Sonnenstrahl](https://open.spotify.com/track/2aXvROAzTzbFK7HQ5ML2Gh) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Sonnenstrahl](https://open.spotify.com/album/6VUDEyOIb2fIC6XHq5Y41f) | 2:50 | 2025-12-01 |  |
@@ -124,6 +126,7 @@
 | [Token](https://open.spotify.com/track/0hB3bysyufVO1pUCj1rYwS) | [Farsjön](https://open.spotify.com/artist/1JVGbsUCqcTgrQP6qc3LEe) | [Token](https://open.spotify.com/album/4uL1RDBqy4Ji6D8UaEUwlE) | 3:16 | 2025-03-18 |  |
 | [Towards the Shore](https://open.spotify.com/track/195aAohMByp0f6hufXYYMP) | [Joseph Pichon](https://open.spotify.com/artist/1e8hr3rVp1diUWI9mXkHhD) | [Towards the Shore](https://open.spotify.com/album/39oMc7uBAcX9LiwqOvSOvt) | 2:40 | 2025-11-05 |  |
 | [Truth Within](https://open.spotify.com/track/3mRO22aXY2HAdEVFluFrXI) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Truth Within](https://open.spotify.com/album/0LW4Hr1eiR2BodmRD9iDev) | 2:21 | 2025-03-26 |  |
+| [Waltz on Golden Pond](https://open.spotify.com/track/0cWiwm6Y1TSlaThkwp9zw1) | [Elle Lumen](https://open.spotify.com/artist/5M2t3TVUYEXiklrH4k1Rk8) | [Waltz on Golden Pond](https://open.spotify.com/album/0jh7GHk1n9YD3zcycfIbjI) | 2:56 | 2026-07-03 |  |
 | [Warm Embrace](https://open.spotify.com/track/4jD1QL2kqZMzRjOfm0cf1R) | [Lyrius Roy](https://open.spotify.com/artist/6hfGxYTz2BLoQEclMC2UBs) | [Warm Embrace](https://open.spotify.com/album/5NW5Yoc70ytFG8HzOAYgfM) | 2:04 | 2025-12-01 |  |
 | [we just keep on going](https://open.spotify.com/track/6X47Ep7oQ6d692X9KWPusw) | [Goratie](https://open.spotify.com/artist/3WuT8leyL0ikW55vAra4rD) | [we just keep on going](https://open.spotify.com/album/7mbdKkcux9ZJMD5bgQnWjx) | 2:10 | 2025-06-10 |  |
 | [When you know, you know](https://open.spotify.com/track/4CsFtHD9LKRpBHmj9rowFq) | [Cameron Segal](https://open.spotify.com/artist/2rgYNZpfRVo4CwX3Kxybwj) | [When you know, you know](https://open.spotify.com/album/3q8ciLZpMajLdjS9i7oUpm) | 2:40 | 2025-03-07 | 2026-05-30 |

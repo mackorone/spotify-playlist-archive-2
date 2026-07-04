@@ -1482,7 +1482,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 233182,
       "name": "FREE - THE FREEMIX",
       "url": "https://open.spotify.com/track/7mqIYgcie3WNVvbdjPfqN7"
@@ -2224,7 +2224,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-05",
+      "date_removed": null,
       "duration_ms": 226893,
       "name": "Immortal, Pt. 2 (feat. Sky Keeton)",
       "url": "https://open.spotify.com/track/5jWj79MwRzNp6qH6FG8BVG"
@@ -4212,7 +4212,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 198922,
       "name": "Son of God",
       "url": "https://open.spotify.com/track/2w9UDH6xXAxWPXkICnbF2m"
@@ -4980,7 +4980,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 174602,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/4IV4gSHLrVzTsMUaatmYZg"
@@ -5182,7 +5182,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 174979,
       "name": "Want It",
       "url": "https://open.spotify.com/track/5hBQcL2Zoo21tjkq8yMZfr"
@@ -5452,6 +5452,32 @@
       "duration_ms": 216520,
       "name": "Young Noble",
       "url": "https://open.spotify.com/track/524l3Ew39laEvY137ZmxSq"
+    },
+    {
+      "album": {
+        "name": "Thug Brothers",
+        "url": "https://open.spotify.com/album/6RQMdcI0S4puobgZ62MbvD"
+      },
+      "artists": [
+        {
+          "name": "Layzie Bone",
+          "url": "https://open.spotify.com/artist/6wAO5FJZZ5PJoRBSpBic7M"
+        },
+        {
+          "name": "Outlawz",
+          "url": "https://open.spotify.com/artist/2jp3Fk52x0HbymU0lNYbSC"
+        },
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276346,
+      "name": "Young Soldier",
+      "url": "https://open.spotify.com/track/3KKfgWCtai40Cp2X8kB26J"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO31hh6s"

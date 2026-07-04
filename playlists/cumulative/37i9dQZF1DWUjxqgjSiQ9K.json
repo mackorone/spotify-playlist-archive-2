@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Tercer Cielo",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Diante do Trono",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -937,6 +937,24 @@
     },
     {
       "album": {
+        "name": "NUEVA TEMPORADA",
+        "url": "https://open.spotify.com/album/1yFyZGzzt5b9AiGPFtMv1K"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Napoles",
+          "url": "https://open.spotify.com/artist/0amncpo70dLifUC89b67Qh"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "ALABALE",
+      "url": "https://open.spotify.com/track/5OC1b8xqnl0eFO4eDeOHUQ"
+    },
+    {
+      "album": {
         "name": "Alabar\u00e9",
         "url": "https://open.spotify.com/album/12aSgasx2xbjTNcQKI6u0C"
       },
@@ -1378,7 +1396,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 171697,
       "name": "Amen Sin Tilde - Versi\u00f3n Cuarteto",
       "url": "https://open.spotify.com/track/7eVogGr2n24X907EJ2fQDd"
@@ -6086,6 +6104,24 @@
       "duration_ms": 379282,
       "name": "El Que Volver\u00e1",
       "url": "https://open.spotify.com/track/4tr4XXcT6aoAOr0Lhv6yhQ"
+    },
+    {
+      "album": {
+        "name": "El Rey Gobierna Todo",
+        "url": "https://open.spotify.com/album/6iFeTg8WkudQepNuOqtULs"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 970154,
+      "name": "El Rey Gobierna Todo",
+      "url": "https://open.spotify.com/track/7m7ZbXWjwlrUlvx6ensvM2"
     },
     {
       "album": {
@@ -12121,6 +12157,24 @@
     },
     {
       "album": {
+        "name": "Nadota",
+        "url": "https://open.spotify.com/album/7jrGs0xE6TSq7prPBCMOyW"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155801,
+      "name": "Nadota",
+      "url": "https://open.spotify.com/track/5ovLe6Tpv9yHPd94wC5AfR"
+    },
+    {
+      "album": {
         "name": "NCB 20A",
         "url": "https://open.spotify.com/album/3gtgcIfZdL1OrdkCrplLMP"
       },
@@ -12176,7 +12230,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 368360,
       "name": "Necesito de Ti",
       "url": "https://open.spotify.com/track/6ULOqUHh5kI9UE5dDuDqsi"
@@ -14274,7 +14328,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 665454,
       "name": "Que Vuelva Lo Santo Al Altar",
       "url": "https://open.spotify.com/track/4CaukGrux3GEkAss6N96hM"
@@ -15452,6 +15506,32 @@
       "duration_ms": 220911,
       "name": "Si Me Acompa\u00f1as",
       "url": "https://open.spotify.com/track/5uKaFXdVaMJPsukmGmJxCY"
+    },
+    {
+      "album": {
+        "name": "Delante Del Trono",
+        "url": "https://open.spotify.com/album/69RkCPLA8ZK3cCHsZf1A6K"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        },
+        {
+          "name": "Johnny Rez",
+          "url": "https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314941,
+      "name": "Si Mi Padre / Salmo 27:10",
+      "url": "https://open.spotify.com/track/4v4KrXdiO1kD99FCaMoDeB"
     },
     {
       "album": {
@@ -17498,7 +17578,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 402637,
       "name": "Todo Va Estar Bien - Live In Rep\u00fablica Dominicana",
       "url": "https://open.spotify.com/track/0uySaNZfyLbtx8TtyGfuiY"
@@ -18381,6 +18461,28 @@
     },
     {
       "album": {
+        "name": "Una Iglesia Sin Mancha",
+        "url": "https://open.spotify.com/album/2EBdytDboyMh3QYobnEhOF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Grace",
+          "url": "https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb"
+        },
+        {
+          "name": "Luis Moreno",
+          "url": "https://open.spotify.com/artist/7ojKdNQTBGpyaitLrqelJV"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 512857,
+      "name": "Una Iglesia Sin Mancha",
+      "url": "https://open.spotify.com/track/1ucpyBDhmnWrXb4pUN4bBw"
+    },
+    {
+      "album": {
         "name": "Una Nueva Historia (Espanhol)",
         "url": "https://open.spotify.com/album/75GTKHL6mcZG5B4Yx6bxG5"
       },
@@ -19034,7 +19136,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 169396,
       "name": "Vivo la Vida",
       "url": "https://open.spotify.com/track/3ugW4PZsWeAjdiu92zZL0N"

@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108634,
+  "num_followers": 108635,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAAC/oocepK1wm9tzMP95J3hL",
+  "snapshot_id": "akWqAAAAAAAJcJ7czPwr2thDTjjrNWII",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 168760,
-      "name": "Zeg Maar Niets Meer",
-      "url": "https://open.spotify.com/track/2x7VFpoHN8eutpliLKFfuh"
+      "duration_ms": 229973,
+      "name": "Zij Gelooft In Mij",
+      "url": "https://open.spotify.com/track/4GrQPpjaZmBf67b9Uh83T8"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 229973,
-      "name": "Zij Gelooft In Mij",
-      "url": "https://open.spotify.com/track/4GrQPpjaZmBf67b9Uh83T8"
+      "duration_ms": 168760,
+      "name": "Zeg Maar Niets Meer",
+      "url": "https://open.spotify.com/track/2x7VFpoHN8eutpliLKFfuh"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Hazes 100",
-        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
+        "name": "Samen",
+        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 197800,
-      "name": "De Glimlach Van Een Kind",
-      "url": "https://open.spotify.com/track/3rmeMUVPieGjJDFPZ2SurK"
+      "duration_ms": 234533,
+      "name": "Leef Nu Maar Je Eigen Leven",
+      "url": "https://open.spotify.com/track/3ZAvKrfjxPKvzrxxgywVe8"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Samen",
-        "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
+        "name": "De Hazes 100",
+        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 234533,
-      "name": "Leef Nu Maar Je Eigen Leven",
-      "url": "https://open.spotify.com/track/3ZAvKrfjxPKvzrxxgywVe8"
+      "duration_ms": 197800,
+      "name": "De Glimlach Van Een Kind",
+      "url": "https://open.spotify.com/track/3rmeMUVPieGjJDFPZ2SurK"
     },
     {
       "added_at": null,
@@ -663,6 +663,26 @@
       "duration_ms": 244106,
       "name": "Al Jouw Woorden Zijn Teveel",
       "url": "https://open.spotify.com/track/6AmRofHZG72v4ATIsD8Rj1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorry (Holland Zingt Hazes)",
+        "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
+      },
+      "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        },
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 220879,
+      "name": "Sorry - Holland Zingt Hazes",
+      "url": "https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW"
     },
     {
       "added_at": null,
@@ -699,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry (Holland Zingt Hazes)",
-        "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
-      },
-      "artists": [
-        {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
-        },
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 220879,
-      "name": "Sorry - Holland Zingt Hazes",
-      "url": "https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Op De Schoorsteen Staat Een Foto",
         "url": "https://open.spotify.com/album/0Nk4GNiqWreg8WsiAqO3xF"
       },
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Hazes 100",
-        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "Zo Heb Ik Het Nooit Bedoeld",
-      "url": "https://open.spotify.com/track/1xDJChqZ4KB7aWFBrOvfLT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Kleine Jongen",
         "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 194640,
       "name": "Hoogste Tijd",
       "url": "https://open.spotify.com/track/6LQXoQIP2Ijz143UWP6chf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Hazes 100",
+        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 264146,
+      "name": "Zo Heb Ik Het Nooit Bedoeld",
+      "url": "https://open.spotify.com/track/1xDJChqZ4KB7aWFBrOvfLT"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Hazes 100",
-        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
+        "name": "Jij Bent Alles",
+        "url": "https://open.spotify.com/album/15mOfcMsTYi6chFIA0jyXH"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 267360,
-      "name": "Buona Sera / Oh Marie - Live",
-      "url": "https://open.spotify.com/track/4TuIZQYLVAQMUorEEH0FOm"
+      "duration_ms": 210173,
+      "name": "'T Is Voorbij",
+      "url": "https://open.spotify.com/track/1Vfyx8K5ccwCcIaTMUuDsZ"
     }
   ],
   "unique_name": "This Is Andre Hazes",

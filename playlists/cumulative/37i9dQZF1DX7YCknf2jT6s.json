@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Tyreek McDole",
+  "description": "New jazz for open minds. Cover: Jacob Collier",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -2096,7 +2096,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 291120,
       "name": "Ancestros Futuros",
       "url": "https://open.spotify.com/track/7epyCKvpOaA5yrn7fTXGHV"
@@ -5800,7 +5800,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 483363,
       "name": "Bost\u00e9",
       "url": "https://open.spotify.com/track/5qE37tGLNDz5eip472RywN"
@@ -6192,6 +6192,24 @@
       "duration_ms": 439188,
       "name": "Burden",
       "url": "https://open.spotify.com/track/5xB8B2YnZE6VxIxYsKP1JI"
+    },
+    {
+      "album": {
+        "name": "In My Room (10 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/07ECvLpnUHGLe2ntFJckIi"
+      },
+      "artists": [
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192015,
+      "name": "But Not For Me (2015)",
+      "url": "https://open.spotify.com/track/2Z9OxLAF2vu0AOGqlQ0niN"
     },
     {
       "album": {
@@ -8884,7 +8902,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 238875,
       "name": "Curumim",
       "url": "https://open.spotify.com/track/2ptbfHymgf1oK8HNjRnXNx"
@@ -8986,7 +9004,7 @@
       ],
       "date_added": "2025-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 228385,
       "name": "Da Du Dah",
       "url": "https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB"
@@ -13640,7 +13658,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 188280,
       "name": "For Maxwell",
       "url": "https://open.spotify.com/track/33q0xisDdB5YyjFcllFoQv"
@@ -19322,7 +19340,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 308733,
       "name": "Jai Ganga",
       "url": "https://open.spotify.com/track/4UkTSN3gcExV90koLrwKd6"
@@ -20560,7 +20578,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 366933,
       "name": "La Ceiba",
       "url": "https://open.spotify.com/track/5rAMwNK5oJZcKqqu0BULfw"
@@ -31981,6 +31999,24 @@
     },
     {
       "album": {
+        "name": "Sangam & Friends",
+        "url": "https://open.spotify.com/album/1Jm3KSmqeij3dcksUYwM1I"
+      },
+      "artists": [
+        {
+          "name": "Charles Lloyd",
+          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431266,
+      "name": "Sam on the Ganges",
+      "url": "https://open.spotify.com/track/6ZIjXziCir2H7zzcWdAr4K"
+    },
+    {
+      "album": {
         "name": "Sammy Jammy (Bunker Sesh)",
         "url": "https://open.spotify.com/album/7rXS5qI7AOQRNEMSmIrqgy"
       },
@@ -32500,7 +32536,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 401568,
       "name": "Seuss Pants",
       "url": "https://open.spotify.com/track/2vD9cvmBGOn3r6tNFuxrwG"
@@ -32752,6 +32788,24 @@
       "duration_ms": 322786,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/5zwHcZ9vP08DtES92dJU4Z"
+    },
+    {
+      "album": {
+        "name": "Shake Down",
+        "url": "https://open.spotify.com/album/2PbQgPKGJ5clOcuQXHwoqK"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262383,
+      "name": "Shake Down",
+      "url": "https://open.spotify.com/track/6jQ2AEAq0BKtaYgKNb5Gdz"
     },
     {
       "album": {
@@ -39020,7 +39074,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 366478,
       "name": "The Time Bender",
       "url": "https://open.spotify.com/track/1GnquVOVTWIjOTJG2sB0gp"
@@ -44578,7 +44632,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 483946,
       "name": "Y\u00e8k\u00e8rmo S\u00e8w",
       "url": "https://open.spotify.com/track/0oFChZRso5GydtIoSCv9Kz"

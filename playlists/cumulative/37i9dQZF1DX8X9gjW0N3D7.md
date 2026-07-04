@@ -4,7 +4,7 @@
 
 > De la musique québécoise pour tous les goûts\.  Photo: Le Ren
 
-536 songs - 1 day 5 hr 59 min
+537 songs - 1 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [monsieur Quan](https://open.spotify.com/track/5JvgShGpd6azGj7JO9XpxY) | [Alphonse Bisaillon](https://open.spotify.com/artist/2D6FbkaHZ4AYvKzp2E2Plt) | [monsieur Quan](https://open.spotify.com/album/0qiMtfdSUDzTDOkwgn6ZSM) | 5:17 | 2026-01-23 | 2026-03-07 |
 | [Moucherons](https://open.spotify.com/track/7MKcEo1tspRup4Ci2uDK2k) | [Grégoire Lemån](https://open.spotify.com/artist/3XvUHowr5b2j7xekM989Qi) | [Moucherons](https://open.spotify.com/album/0k5sogOb9BX47fxCTsMhpF) | 4:03 | 2025-10-17 | 2026-02-14 |
 | [Mourir ensemble](https://open.spotify.com/track/5cnFw5edGRri2cmWysHkuG) | [Mantisse](https://open.spotify.com/artist/20iPdUZMRpNULtRfv9mJP7) | [Mourir ensemble](https://open.spotify.com/album/0nH1KOHq6HogQGhIlNn3Lz) | 1:38 | 2026-02-20 | 2026-05-16 |
+| [Mourir pour le rock](https://open.spotify.com/track/7lZi1WeqLO7ERuhfnMetFi) | [Noé Talbot](https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU) | [Mourir pour le rock](https://open.spotify.com/album/5nL9m5VKdFp9eKUWPzoVev) | 3:09 | 2026-07-03 |  |
 | [My lady](https://open.spotify.com/track/3hPuz7OkmKyXDBwKZPyZoC) | [Jeunes rêveurs](https://open.spotify.com/artist/1tuBg1N91RQQ5boP7N9UYY) | [Notre chez Nous](https://open.spotify.com/album/3vhk5iBXhXlthsJMUgqtgP) | 2:35 | 2025-12-12 | 2026-03-21 |
 | [My Love](https://open.spotify.com/track/2ozuVNKw0Sy6nqEOXWZaDO) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [Tout ce qui compte](https://open.spotify.com/album/42mi3DpqsjtKTrm4IvX2MU) | 2:26 | 2025-11-07 | 2026-01-15 |
 | [Mâcher tes bottes](https://open.spotify.com/track/6m10tqV7JardUKNPItH94C) | [Avec pas d'casque](https://open.spotify.com/artist/2B8PoAfMwmcONoQTgiLzgn) | [Mâcher tes bottes](https://open.spotify.com/album/7z0TPSAbjN7fSaDu63j4Rz) | 3:27 | 2024-08-09 | 2025-09-13 |

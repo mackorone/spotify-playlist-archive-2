@@ -1,6 +1,6 @@
 {
   "description": "The essential pop rock songs from the 80s. Cover: The Go-Go's",
-  "num_followers": 568494,
+  "num_followers": 568733,
   "original_name": "80s Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2024-06-26 01:58:02",
       "album": {
+        "name": "Sports",
+        "url": "https://open.spotify.com/album/5jyfyM8Cinnh05OswtWv41"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "duration_ms": 304920,
+      "name": "The Heart Of Rock And Roll",
+      "url": "https://open.spotify.com/track/0o4e5Tt4vorx2012FrGIjV"
+    },
+    {
+      "added_at": "2024-06-26 01:58:02",
+      "album": {
         "name": "Warrior (feat. Patty Smyth)",
         "url": "https://open.spotify.com/album/5i0kVvDtDgmorQXqX9rdaK"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 240826,
       "name": "The Warrior (feat. Patty Smyth)",
       "url": "https://open.spotify.com/track/2hQnLzly0jRPpLPp23sA4i"
-    },
-    {
-      "added_at": "2024-06-26 01:58:02",
-      "album": {
-        "name": "Sports",
-        "url": "https://open.spotify.com/album/5jyfyM8Cinnh05OswtWv41"
-      },
-      "artists": [
-        {
-          "name": "Huey Lewis & The News",
-          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
-        }
-      ],
-      "duration_ms": 304920,
-      "name": "The Heart Of Rock And Roll",
-      "url": "https://open.spotify.com/track/0o4e5Tt4vorx2012FrGIjV"
     },
     {
       "added_at": "2024-06-26 01:58:02",

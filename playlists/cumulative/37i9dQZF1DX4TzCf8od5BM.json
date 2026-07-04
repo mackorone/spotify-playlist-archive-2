@@ -684,7 +684,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 118733,
       "name": "Choo Choo Express",
       "url": "https://open.spotify.com/track/1rAoksjU0W2EMPvhda7J53"
@@ -1622,7 +1622,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 148626,
       "name": "Here Comes the Lion Guard",
       "url": "https://open.spotify.com/track/00JwpdGOIcUwFsDKfQCciK"
@@ -1648,6 +1648,40 @@
       "duration_ms": 49632,
       "name": "Hey AJ! Theme Song - From \"Disney Jr. Music: Hey AJ!\"",
       "url": "https://open.spotify.com/track/6SCNUfVfrd8xkgYMNUyVYQ"
+    },
+    {
+      "album": {
+        "name": "Hoedown Throwdown (From \"Disney Jr. Music: Mickey Mouse Clubhouse+ - Mickey's Country Farm\")",
+        "url": "https://open.spotify.com/album/0EFhfHZEMMic4T9xZ528dk"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        },
+        {
+          "name": "Megan Hilty",
+          "url": "https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk"
+        },
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Daisy Duck",
+          "url": "https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151607,
+      "name": "Hoedown Throwdown - From \"Disney Jr. Music: Mickey Mouse Clubhouse+ - Mickey's Country Farm\"",
+      "url": "https://open.spotify.com/track/77K012lHTUC2Lq3Fb9dW8N"
     },
     {
       "album": {
@@ -1728,7 +1762,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 83750,
       "name": "Hot Dog! Dance Break 2019 - From \"Mickey Mouse Mixed-Up Adventures\"",
       "url": "https://open.spotify.com/track/3496wR3HlANisZ2PnCSW7r"
@@ -1746,7 +1780,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 85433,
       "name": "I Brush My Teeth",
       "url": "https://open.spotify.com/track/21CcXAr0c0aXyq7wFRhw6t"
@@ -2214,7 +2248,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 72462,
       "name": "L-O-V-E",
       "url": "https://open.spotify.com/track/4dQqlmAhCdmRmUmcsvHPqC"
@@ -3342,7 +3376,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 59840,
       "name": "Plain and Fancy",
       "url": "https://open.spotify.com/track/3w92mWSiXZYfM8wyYar7m1"
@@ -3538,7 +3572,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 85957,
       "name": "Rhyme Time",
       "url": "https://open.spotify.com/track/0AKVAACGh7TtvmUnBy5JuZ"
@@ -4968,7 +5002,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 154775,
       "name": "Wind in My Hair - From \"Tangled: Before Ever After\"",
       "url": "https://open.spotify.com/track/7xRIPGewMZdh63k3p6YTQi"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "50% techno, 50% house \ud83d\udc9c Tech house operators, featuring DJ Tennis",
+  "description": "50% techno, 50% house \ud83d\udc9c Tech house operators, featuring Ferreck Dawn",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -818,7 +818,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 225230,
       "name": "Acid Britney",
       "url": "https://open.spotify.com/track/0BrT12hdMJx2ypBjEAnCEo"
@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 219047,
       "name": "Affection",
       "url": "https://open.spotify.com/track/44nG4fWJf3QnqBepcKtmxt"
@@ -6568,7 +6568,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 206428,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/70q857tiye8tZ57Tau00jW"
@@ -10786,7 +10786,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 196904,
       "name": "Creep",
       "url": "https://open.spotify.com/track/4N36NogKsO1HSTTgZK6T1Q"
@@ -12762,6 +12762,28 @@
       "duration_ms": 193710,
       "name": "Different Side",
       "url": "https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr"
+    },
+    {
+      "album": {
+        "name": "Digital Detox",
+        "url": "https://open.spotify.com/album/1HcCn0yMDY09PbG3yYZL66"
+      },
+      "artists": [
+        {
+          "name": "NO STATIC",
+          "url": "https://open.spotify.com/artist/0L0qL52Z7atqrLIw4nOR29"
+        },
+        {
+          "name": "NAAR (US)",
+          "url": "https://open.spotify.com/artist/2MNWqxfraxtx61tyxwzyqq"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189767,
+      "name": "Digital Detox",
+      "url": "https://open.spotify.com/track/6GD3yCUUwoFD6Lge4hHxPZ"
     },
     {
       "album": {
@@ -18177,6 +18199,24 @@
     },
     {
       "album": {
+        "name": "Flex/Cardio",
+        "url": "https://open.spotify.com/album/3575akg0Xr8XWOz2L83hR2"
+      },
+      "artists": [
+        {
+          "name": "Viot",
+          "url": "https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "Flex",
+      "url": "https://open.spotify.com/track/1TtkiapicAnn1NxK2aARnp"
+    },
+    {
+      "album": {
         "name": "Flex Like Ouu",
         "url": "https://open.spotify.com/album/2mPi4QKkX5os4cI6AVXmzH"
       },
@@ -18498,7 +18538,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 214161,
       "name": "For the Music",
       "url": "https://open.spotify.com/track/36OMSWCG4S0OOnqSbEHmq0"
@@ -21017,6 +21057,24 @@
     },
     {
       "album": {
+        "name": "God Complex",
+        "url": "https://open.spotify.com/album/70AuVBXEEwDaSprdXbyf2O"
+      },
+      "artists": [
+        {
+          "name": "GREG 99",
+          "url": "https://open.spotify.com/artist/68ocQOFVB9wvLiC1C1WjYp"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205312,
+      "name": "God Complex",
+      "url": "https://open.spotify.com/track/3ujrxclgI5IGFpGGcid37R"
+    },
+    {
+      "album": {
         "name": "Godzilla",
         "url": "https://open.spotify.com/album/0n8I49rtExzhlmOXuLcqYz"
       },
@@ -23372,7 +23430,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 214269,
       "name": "HOTS 4 U",
       "url": "https://open.spotify.com/track/5nMrR3Ed99WcQ4Vv0wy8Bf"
@@ -29196,10 +29254,40 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 202790,
       "name": "Life Is Just 4 Fun",
       "url": "https://open.spotify.com/track/27jDEKr90ftNzfXnQwZLlL"
+    },
+    {
+      "album": {
+        "name": "Life Is Simple (Move Your Body) [Local Singles Remix]",
+        "url": "https://open.spotify.com/album/6hPVQkHE1ZokBIeuC0Rt1Q"
+      },
+      "artists": [
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "Local Singles",
+          "url": "https://open.spotify.com/artist/14P4DGZruzTjyQsglomkYp"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "Salom\u00e9 Das",
+          "url": "https://open.spotify.com/artist/6OZuVLUPd9v4yEOTjwZz77"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207619,
+      "name": "Life Is Simple (Move Your Body) - Local Singles Remix",
+      "url": "https://open.spotify.com/track/2XGhVmLYV4FOSfY5biaPsG"
     },
     {
       "album": {
@@ -29880,7 +29968,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 194883,
       "name": "Loaded Gun",
       "url": "https://open.spotify.com/track/19PBU0nWYBOMzHOAxDBEcg"
@@ -30586,6 +30674,24 @@
       "duration_ms": 170624,
       "name": "Lost",
       "url": "https://open.spotify.com/track/08rASU8hp7fUAWmQ8CLOgD"
+    },
+    {
+      "album": {
+        "name": "Lost At The End",
+        "url": "https://open.spotify.com/album/39CghkcH7i9AsOLbu7ozMz"
+      },
+      "artists": [
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181289,
+      "name": "Lost At The End",
+      "url": "https://open.spotify.com/track/0pO2cOA50glGKqVAOc6lqE"
     },
     {
       "album": {
@@ -34876,7 +34982,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 223456,
       "name": "My Trip",
       "url": "https://open.spotify.com/track/42hUQoFsI40hEjeMiwkaHI"
@@ -39122,7 +39228,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 180019,
       "name": "Party Over Here (feat. Detroit's Filthiest)",
       "url": "https://open.spotify.com/track/43gnaKewGiyWvK4qyypoJR"
@@ -39300,7 +39406,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 181417,
       "name": "Pecado",
       "url": "https://open.spotify.com/track/3NHMDiOQ3ZUKdPQXrOYyI2"
@@ -40258,6 +40364,24 @@
       "duration_ms": 187741,
       "name": "POPPIN",
       "url": "https://open.spotify.com/track/2zQDHAgYLtXRLhxY2gVc1N"
+    },
+    {
+      "album": {
+        "name": "POPSTAR",
+        "url": "https://open.spotify.com/album/4BgUEOTPKpnxmMTt48sXEZ"
+      },
+      "artists": [
+        {
+          "name": "Juan Dileju",
+          "url": "https://open.spotify.com/artist/00es8O5qsOBGlhNSvPJtS0"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139500,
+      "name": "POPSTAR",
+      "url": "https://open.spotify.com/track/1ZE9cfIrNtX057cWZzi7Eq"
     },
     {
       "album": {
@@ -42730,7 +42854,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 146769,
       "name": "Right Move",
       "url": "https://open.spotify.com/track/1kISH8UIi3O5s8kajLi5y2"
@@ -47519,6 +47643,24 @@
     },
     {
       "album": {
+        "name": "Something For Ya / Outta Control",
+        "url": "https://open.spotify.com/album/710HnVJlGXSkAwrBUFO4zt"
+      },
+      "artists": [
+        {
+          "name": "Mati Astroza",
+          "url": "https://open.spotify.com/artist/1MzA4VczafczbCi64Rjieq"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193740,
+      "name": "Something For Ya",
+      "url": "https://open.spotify.com/track/2sS7P9EYgMkiYNvT9uZXh5"
+    },
+    {
+      "album": {
         "name": "Something Fresh",
         "url": "https://open.spotify.com/album/32SFNhZoeh2Tax77hAqWzr"
       },
@@ -50397,6 +50539,24 @@
     },
     {
       "album": {
+        "name": "TCFS",
+        "url": "https://open.spotify.com/album/0292ICJLqncZerKgvuT7cw"
+      },
+      "artists": [
+        {
+          "name": "Rafael Cerato",
+          "url": "https://open.spotify.com/artist/3NUcxMYt10f6cx567crDk2"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196345,
+      "name": "TCFS",
+      "url": "https://open.spotify.com/track/4V3SzxQdZxMgxj2Db6OHoT"
+    },
+    {
+      "album": {
         "name": "TDB",
         "url": "https://open.spotify.com/album/7mHZzgbOpwZHypoxkfmots"
       },
@@ -50884,6 +51044,24 @@
       "duration_ms": 221904,
       "name": "That Groove",
       "url": "https://open.spotify.com/track/2XyfRkQOXeseaXBT946SIf"
+    },
+    {
+      "album": {
+        "name": "That Look",
+        "url": "https://open.spotify.com/album/4dclXC6XLXo0C9Stxttx9W"
+      },
+      "artists": [
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200595,
+      "name": "That Look",
+      "url": "https://open.spotify.com/track/43tpqOhoFgQtYIrYX8gT1L"
     },
     {
       "album": {
@@ -53485,6 +53663,28 @@
     },
     {
       "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/3eMB7eDSuklusjzYAMyVIb"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "DEPARTAMENTO",
+          "url": "https://open.spotify.com/artist/3Cu5XeR4o1V8atLssDZUl1"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191655,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/4mloPBa6kT7U2b6ok2TvZe"
+    },
+    {
+      "album": {
         "name": "Toxic Trip",
         "url": "https://open.spotify.com/album/1smrsh3yY34Qns03zwEZOQ"
       },
@@ -53628,7 +53828,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 188906,
       "name": "Trajad\u00e3o",
       "url": "https://open.spotify.com/track/3DNROV85RpzdQP7E1Erpa0"
@@ -55520,7 +55720,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 171692,
       "name": "Voce",
       "url": "https://open.spotify.com/track/44j8usDuYZaz6zx6WtDDpy"
@@ -57496,7 +57696,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 222249,
       "name": "Wild",
       "url": "https://open.spotify.com/track/3d7kMkIJe0bt4NDOdaoC69"
@@ -57764,7 +57964,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 191703,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/30LAaJpoP4d1GCw0HQl171"
@@ -59006,6 +59206,24 @@
       "duration_ms": 203487,
       "name": "Zigazigahhhh",
       "url": "https://open.spotify.com/track/4fvB8nwX0JRxdv3gLZeqwC"
+    },
+    {
+      "album": {
+        "name": "ZIPLOCK",
+        "url": "https://open.spotify.com/album/5Sk0ZlH92suFxrjJ6aLh7b"
+      },
+      "artists": [
+        {
+          "name": "Roddy Lima",
+          "url": "https://open.spotify.com/artist/0Bg1joLOL52mJS0kf0pIDx"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210053,
+      "name": "ZIPLOCK",
+      "url": "https://open.spotify.com/track/2obGMUH9QL8cgyj6bBM58h"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ"

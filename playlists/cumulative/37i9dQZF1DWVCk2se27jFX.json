@@ -582,7 +582,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 231050,
       "name": "Cuando Te Veo",
       "url": "https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2025-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 180330,
       "name": "Es Mucho Pedir",
       "url": "https://open.spotify.com/track/4p27JzaRCBkd2AUTqyAS82"
@@ -1247,6 +1247,28 @@
     },
     {
       "album": {
+        "name": "Hor\u00f3scopo",
+        "url": "https://open.spotify.com/album/1XxiRnTrdm6Wk0jrLEwacx"
+      },
+      "artists": [
+        {
+          "name": "Piel Camale\u00f3n",
+          "url": "https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq"
+        },
+        {
+          "name": "Marina Tuset",
+          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157318,
+      "name": "Hor\u00f3scopo",
+      "url": "https://open.spotify.com/track/6in90Zm49vdieem8XUw6ku"
+    },
+    {
+      "album": {
         "name": "Imag\u00ednate",
         "url": "https://open.spotify.com/album/7utdMWkT64sYeDoeTvNBI5"
       },
@@ -1388,7 +1410,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 203659,
       "name": "La cara de la ortiga",
       "url": "https://open.spotify.com/track/27OPxcqyTABukHAiZ34Pb6"
@@ -1738,7 +1760,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 293738,
       "name": "M\u00fasica Gigante (Anti-Anti)",
       "url": "https://open.spotify.com/track/0SgoBed7vjSKnYecYl5rOw"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > Dos and D is a podcast to get on your RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,458 likes - 10 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,459 likes - 10 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

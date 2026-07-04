@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Viviann Baeza en portada \ud83c\udf39",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. NXNNI en portada \ud83c\udf39",
   "name": "La Miscel\u00e1nea",
   "tracks": [
     {
@@ -428,6 +428,24 @@
       "duration_ms": 174853,
       "name": "Algo Bien",
       "url": "https://open.spotify.com/track/30rJOT2ceu7Fz3RnRWAukU"
+    },
+    {
+      "album": {
+        "name": "ALL THE THINGS SHE SAID",
+        "url": "https://open.spotify.com/album/3FCtH80ntWTVqDYkDsbfSm"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215114,
+      "name": "ALL THE THINGS SHE SAID",
+      "url": "https://open.spotify.com/track/2hlaYHZUhF9yYqo1o71h4X"
     },
     {
       "album": {
@@ -2382,7 +2400,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 177038,
       "name": "EL SENTRITA",
       "url": "https://open.spotify.com/track/1RDegRqPNWTRSqFWfJ5Qho"
@@ -3007,6 +3025,28 @@
     },
     {
       "album": {
+        "name": "holanda (Remix)",
+        "url": "https://open.spotify.com/album/1WJ07xKsqJgU9TDkKSBkMQ"
+      },
+      "artists": [
+        {
+          "name": "EL DE LA TINTA",
+          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187386,
+      "name": "holanda - Remix",
+      "url": "https://open.spotify.com/track/5ZZT0sywNVtrYhpbVER8lO"
+    },
+    {
+      "album": {
         "name": "Homenaje a Valent\u00edn Elizalde (En Vivo)",
         "url": "https://open.spotify.com/album/19DgV16VnXhykPotSNd6T0"
       },
@@ -3467,6 +3507,24 @@
     },
     {
       "album": {
+        "name": "DOKI DOKI",
+        "url": "https://open.spotify.com/album/5rHHRLJt8pPoy6QN6wFNx8"
+      },
+      "artists": [
+        {
+          "name": "NXNNI",
+          "url": "https://open.spotify.com/artist/7c3WfapyPAyyBvchugCGvK"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "La Cuenta",
+      "url": "https://open.spotify.com/track/5cPsXEPJ0R7e6jcioFdnDE"
+    },
+    {
+      "album": {
         "name": "La Cumbia Triste",
         "url": "https://open.spotify.com/album/2GKBfuu1ab0QKzOpyrvMva"
       },
@@ -3838,7 +3896,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 166347,
       "name": "LABERINTO",
       "url": "https://open.spotify.com/track/6VML7jhukVfsspoeOFaDye"
@@ -4270,7 +4328,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 167302,
       "name": "Lo Tienes Todo - Live",
       "url": "https://open.spotify.com/track/1ITjtIekTFl1wv3HHx5P3M"
@@ -5887,6 +5945,24 @@
     },
     {
       "album": {
+        "name": "Estilo R'S Vol. 4",
+        "url": "https://open.spotify.com/album/6CUjEk5E7YGQbfob4X1Z2u"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124764,
+      "name": "Pajuelazo",
+      "url": "https://open.spotify.com/track/7v9L3VNQjmRKZ4DjGd7OLT"
+    },
+    {
+      "album": {
         "name": "En Vivo Desde El Rancho (En Vivo)",
         "url": "https://open.spotify.com/album/2LTuEHsFLJUfCqqyfSV8Po"
       },
@@ -6490,7 +6566,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 141869,
       "name": "Qu\u00e9 Vida Tan Rara",
       "url": "https://open.spotify.com/track/27x9K9d2hCELfnxmj2gvKx"

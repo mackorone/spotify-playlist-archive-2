@@ -754,7 +754,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 125434,
       "name": "flight path",
       "url": "https://open.spotify.com/track/0bdfkB4rsoUl3hPYpfkxGI"
@@ -812,6 +812,24 @@
       "duration_ms": 114222,
       "name": "havana",
       "url": "https://open.spotify.com/track/0W0Hp3h3pEDV7W5JV0yfxD"
+    },
+    {
+      "album": {
+        "name": "higher, lower",
+        "url": "https://open.spotify.com/album/29fBzfvMu1H5Vy3dgruKhp"
+      },
+      "artists": [
+        {
+          "name": "luzzy fogic",
+          "url": "https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "higher, lower",
+      "url": "https://open.spotify.com/track/4dGNNenJ3nNV1vS0HqobBm"
     },
     {
       "album": {
@@ -2260,6 +2278,32 @@
       "duration_ms": 98464,
       "name": "Tangerina",
       "url": "https://open.spotify.com/track/1MJDVQzsNw9bK6VekgdW74"
+    },
+    {
+      "album": {
+        "name": "Terra Dourada",
+        "url": "https://open.spotify.com/album/4NCUz3cJ1BtqPhwqIL2DPS"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Cavalcanti",
+          "url": "https://open.spotify.com/artist/2CLLtlHM5RuNUdDe7b7YwL"
+        },
+        {
+          "name": "fnonose",
+          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
+        },
+        {
+          "name": "okinami",
+          "url": "https://open.spotify.com/artist/5SulT12uH9qQMQsGCBMzoH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121643,
+      "name": "Terra Dourada",
+      "url": "https://open.spotify.com/track/2vkPvz1jvgkSQkYAvqH9hx"
     },
     {
       "album": {

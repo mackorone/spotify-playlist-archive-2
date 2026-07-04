@@ -2,7 +2,7 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 주니\(JUNNY\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: BIG Naughty \(빅나티\)\)
 
 654 songs - 1 day 11 hr 2 min
 

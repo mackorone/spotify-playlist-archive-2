@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 
 > Listen to <a href="spotify:artist:3dE92yGWcrboP1kC5SWyqu">Todd Terry</a>'s favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,683 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,704 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7N1p58R7iUl.md) - [plain]
 | 10 | [Say What \- Radio Edit](https://open.spotify.com/track/6ZPLh8aqBDq3FzxXXxmihz) | [Janika Tenn](https://open.spotify.com/artist/5JJ2mNTKFgulclDJxMIyOC) | [Say What](https://open.spotify.com/album/2txjpkPrtL4PZMGdtqaLC8) | 2:49 |
 | 11 | [Like That](https://open.spotify.com/track/2G9EQucmyuipl9wXCO1oNx) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [Like That](https://open.spotify.com/album/7eqyGW51r1BKDIV9z17n5Z) | 3:14 |
 | 12 | [Never Let You Go](https://open.spotify.com/track/6Rh7AIaRBiP8tnCEblMS5j) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Illyus Barrientos](https://open.spotify.com/artist/6n5ccknvteaKfN4WA2qf3C) | [Never Let You Go](https://open.spotify.com/album/5x3GXN1EHpPWz4QwIIWd9Q) | 3:01 |
-| 13 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 |
+| 13 | [Free Your Mind](https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Sybil](https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1) | [Free Your Mind](https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU) | 3:21 |
 | 14 | [I Need U \(feat\. Ellie Maxwell\)](https://open.spotify.com/track/1qCF9etZgBLbaNQlgkXFZf) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Ellie Maxwell](https://open.spotify.com/artist/7FBLZFylhcXi86QYEEXVv4) | [I Need U \(feat\. Ellie Maxwell\)](https://open.spotify.com/album/6UClC9nN6aQddmQ3dRKyPS) | 2:56 |
 | 15 | [Outta My Mind \- Herve Jacks The Disco Original Mix](https://open.spotify.com/track/7zItV0nRTtJa3w9hjZxKdZ) | [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Outta My Mind \(Herve Jacks The Disco Mix\)](https://open.spotify.com/album/4y30bBlIWKZNocS4GN15jP) | 3:25 |
 | 16 | [Mexico Is Magic](https://open.spotify.com/track/59gKNInMEur4gaJhYQMkN8) | [DJ Sneak](https://open.spotify.com/artist/5He9yPmPv0Du9hASUlTUjr), [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG) | [Mexico Is Magic](https://open.spotify.com/album/4vLxhnqUw0FWYfxK0thIBN) | 5:15 |

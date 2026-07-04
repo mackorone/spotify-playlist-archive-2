@@ -2,9 +2,9 @@
 
 ### [Novedades Tropicales](https://open.spotify.com/playlist/37i9dQZF1DXatk5BgNhCd7)
 
-> Todo lo nuevo de música tropical 📸 Sebastián Mendoza & Luciano Pereyra
+> Todo lo nuevo de música tropical 📸  Luciano Pereyra & Sebastián Mendoza
 
-4,959 songs - 11 day 22 hr 20 min
+4,960 songs - 11 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,7 +519,7 @@
 | [Bienvenida](https://open.spotify.com/track/5tqVOJflvBaxKomRtxT9lJ) | [Vesta Lugg](https://open.spotify.com/artist/4BMCoatjMD45S9nDzLVa3c) | [Bienvenida](https://open.spotify.com/album/31ctw5ZHZu8xpBB3QuoBwB) | 2:13 | 2025-01-31 | 2025-02-22 |
 | [Bienvenidos a Mi Barrio](https://open.spotify.com/track/4uRBz2dXQnwi0GyZzvijyM) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Bienvenidos a Mi Barrio](https://open.spotify.com/album/7c6XRLWcvCYf5slViBDKmF) | 2:53 | 2023-10-20 | 2023-11-18 |
 | [Bilú Bilú](https://open.spotify.com/track/5VIU0pNUmmIEF54my1hd5t) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Bilú Bilú](https://open.spotify.com/album/45eeHLEvaOO5UoGmWmOdHW) | 3:49 | 2023-09-15 | 2023-09-23 |
-| [Bingo](https://open.spotify.com/track/3W9cyjAeiXQP2cHsmAtImn) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 2:35 | 2026-05-08 |  |
+| [Bingo](https://open.spotify.com/track/3W9cyjAeiXQP2cHsmAtImn) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [MUDA](https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut) | 2:35 | 2026-05-08 | 2026-07-04 |
 | [Bingo \- Live](https://open.spotify.com/track/1eNpai7eyMZvEJ1Gz8hrHC) | [Alain Pérez](https://open.spotify.com/artist/71MILvcLWofhqgXKEVrn0a), [Issac Delgado](https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ) | [Bingo \(Live\)](https://open.spotify.com/album/7bc7Kggvph8g9oqnFBwWlA) | 9:07 | 2026-05-08 | 2026-06-20 |
 | [BLA BLA](https://open.spotify.com/track/3BlS5ZP7Rp1QKHrGh4VgYt) | [More Con Flow](https://open.spotify.com/artist/5NS2B9GuroT6TrPoxRKd4t) | [BLA BLA](https://open.spotify.com/album/6CCuf2TDHj7Tc9DjNDrqag) | 2:11 | 2025-10-24 | 2025-12-06 |
 | [Bloqueado](https://open.spotify.com/track/48LTBvuLbha2kmKzNAbdQM) | [Damián Córdoba](https://open.spotify.com/artist/7e3BSeFzlCGyAdbsUbgUaD) | [Bloqueado](https://open.spotify.com/album/2gqepayLnMGpDgjbV2LPJo) | 2:48 | 2024-05-24 | 2024-06-01 |
@@ -4031,6 +4031,7 @@
 | [Sistema](https://open.spotify.com/track/0mcdl5mY8qvOxk7pqLyv8v) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Sistema](https://open.spotify.com/album/53C2m73R5MYy2b4KfHvmC5) | 2:53 | 2024-09-13 | 2024-09-28 |
 | [SNDA](https://open.spotify.com/track/0ZVqhn9lLVVj0tcGSVjw3i) | [Gaby Zambrano](https://open.spotify.com/artist/4jIRqX8X6rSrmxIIl1ytFX) | [Camaleónica](https://open.spotify.com/album/1lEuD7jDpzBax13ZBhuMUk) | 4:34 | 2024-03-08 | 2024-03-16 |
 | [Sobra y Falta](https://open.spotify.com/track/6jiLRYgMeBMq2u4wRD2HZW) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Sobra y Falta](https://open.spotify.com/album/269KIvvBFS87o2fPtvPocU) | 3:10 | 2025-03-14 | 2025-03-21 |
+| [Sobria No Me Aguanto \- Remix](https://open.spotify.com/track/21WvhIm5nmBJlx8xdFIVz5) | [Valentina Olguin](https://open.spotify.com/artist/4bFcNlqngm7XibeU7HW3IR), [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC), [Pablo Daniel Rodriguez Medina](https://open.spotify.com/artist/2eVVFvavOtfJ4xry7ly5v9) | [Sobria No Me Aguanto \(Remix\)](https://open.spotify.com/album/5gzsle4fkBaHli6YIJEItD) | 2:33 | 2026-07-03 |  |
 | [Sobrio](https://open.spotify.com/track/2s6Msf6JuH7rQP6QauANU1) | [El Arrebato](https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg) | [Sobrio](https://open.spotify.com/album/2jREwOReGpbsTX3sTyPyas) | 3:41 | 2022-08-05 | 2022-08-13 |
 | [Sol Negro](https://open.spotify.com/track/0xV04jMTXZmX6k7TXzgk2J) | [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Sol Negro](https://open.spotify.com/album/2hro2XPX4iGmQ8NJUakyAq) | 4:25 | 2024-04-19 | 2024-04-27 |
 | [Sol y Arena](https://open.spotify.com/track/3UfFeBvJ4Q69FpmkQFYO9n) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Sol y Arena](https://open.spotify.com/album/5297qnCFS1XQ0gzFAb933d) | 2:51 | 2025-10-10 | 2025-11-08 |

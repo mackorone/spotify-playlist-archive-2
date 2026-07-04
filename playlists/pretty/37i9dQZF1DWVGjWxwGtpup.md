@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 
 > Tous les hits latino du moment sont ici\. Photo : Ozuna
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,799 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,828 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGjWxwGtpup.md) - [plain]
 | 21 | [OSSESSIONE](https://open.spotify.com/track/63sQFPGkKfzcK5qEZVefpu) | [Samurai Jay](https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH), [Vito Salamanca](https://open.spotify.com/artist/2QJ1AReDewmz4fcRhGxW6Y) | [OSSESSIONE](https://open.spotify.com/album/2DbfTApmD8EQye9mNgVpcK) | 3:08 |
 | 22 | [YAPAQUE](https://open.spotify.com/track/67kmVaXtdmcy856hKjHb3y) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [YAPAQUE](https://open.spotify.com/album/29FOwp0vsOM1V3ybDRFL5v) | 3:57 |
 | 23 | [Godzila \- W Sound 09](https://open.spotify.com/track/3H8XilnD0LdRkT7RChDDUS) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Godzila \(W Sound 09\)](https://open.spotify.com/album/5eRPFOY3oXbS25ok1yXON7) | 3:00 |
-| 24 | [Track 3](https://open.spotify.com/track/2CTxXSQSfNzSRdlfQhekul) | [Filiz](https://open.spotify.com/artist/5IotvmXP4j1DikGWocffKz) | [LA FOLLE DU BUS](https://open.spotify.com/album/45tA00tQMMUdTPoOqMqn3l) | 0:00 |
+| 24 | [après l’amour](https://open.spotify.com/track/2CTxXSQSfNzSRdlfQhekul) | [Filiz](https://open.spotify.com/artist/5IotvmXP4j1DikGWocffKz) | [LA FOLLE DU BUS](https://open.spotify.com/album/45tA00tQMMUdTPoOqMqn3l) | 2:26 |
 | 25 | [ALGO TÚ](https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [ALGO TÚ](https://open.spotify.com/album/7jpTAGolkBbMuFyegBwBNo) | 3:33 |
 | 26 | [Caramel](https://open.spotify.com/track/0VkehLUYXLieeTgHTC3quR) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Caramel](https://open.spotify.com/album/2zoELihgdzNwMCftYhosAI) | 2:14 |
 | 27 | [Tu recuerdo](https://open.spotify.com/track/1RqUyxhNCRqfXOzA2Z2NEf) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Tu recuerdo](https://open.spotify.com/album/6mZb6eIfSgtTrqs0G6fQSw) | 3:55 |

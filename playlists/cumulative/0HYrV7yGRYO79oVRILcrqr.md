@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-599 songs - 1 day 13 hr 19 min
+600 songs - 1 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,6 +482,7 @@
 | [Sonnenbrille im Club](https://open.spotify.com/track/5Jf9zLu8K5JYqFU9MK1bEW) | [ENFYS](https://open.spotify.com/artist/6mHsW7x3l8WQb2LQC1xAXd), [BrainDamage](https://open.spotify.com/artist/4SlcBG3iScSBYLtfoYpDDk) | [Sonnenbrille im Club](https://open.spotify.com/album/3C9W4naev7opKIi9mknkLJ) | 4:08 | 2026-04-27 | 2026-05-26 |
 | [Sons of Gondor](https://open.spotify.com/track/6hqcv7K8f3QaoQF8acXZMP) | [Echoes & Wine](https://open.spotify.com/artist/3CETJ19bzJyAxO7Alv7Xp7) | [Sons of Gondor](https://open.spotify.com/album/79niMGbAoMuNwF4iJS2idh) | 4:47 | 2025-12-31 | 2026-03-18 |
 | [Sorry Not Sorry](https://open.spotify.com/track/4qBf2gBewjF1tnoUzR6n3g) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Sorry Not Sorry](https://open.spotify.com/album/1bHQETnkpeyWRLFJSbBuOt) | 3:41 | 2026-01-13 | 2026-03-18 |
+| [Souls Rite](https://open.spotify.com/track/6RFJCFlKwY4JzVpWgbnqrQ) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Souls Rite](https://open.spotify.com/album/73fUN4KHBJzueBUGefT3E0) | 4:44 | 2026-07-03 |  |
 | [Spaceship L\-U\-V](https://open.spotify.com/track/7F42O7dbgst9G1Z2Hkut5w) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Zero Hour: Genesis](https://open.spotify.com/album/4TRnRuOoJeCcsQNRTuLd2r) | 2:20 | 2026-05-31 | 2026-06-18 |
 | [Sparks in this Town](https://open.spotify.com/track/3RqIdENWmSSxFVbkAYNFnZ) | [Fionn Camp](https://open.spotify.com/artist/2zlENRxJLJxwUaKpKBT38L), [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Sparks in this Town](https://open.spotify.com/album/4WXHNk60Qd7lnwzWpjgsAZ) | 3:43 | 2026-05-24 |  |
 | [Spine](https://open.spotify.com/track/23DvAjrBATcWGDy6U9CqDB) | [Les Hommes Crabes](https://open.spotify.com/artist/4ULwrrKmZDTybXbNDC3xGL) | [GALAK 51](https://open.spotify.com/album/5advJux4HnBDXaLvUovkq6) | 4:29 | 2026-01-25 |  |

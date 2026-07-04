@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain](/playlists/plain/37i9dQZF1DX8IeJ8CDjZpj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8IeJ8CDjZpj)
 
-### [Festejo Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX8IeJ8CDjZpj)
+### [México Lindo y Querido](https://open.spotify.com/playlist/37i9dQZF1DX8IeJ8CDjZpj)
 
-> No entenderías la fuc\*\*\*g vibra.
+> Canta los goles, baila los triunfos\. Así suena México cuando gana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,331 likes - 66 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,313 likes - 66 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8IeJ8CDjZpj.md) - [plain]
 | 65 | [Sergio el Bailador](https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Sergio El Bailador](https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y) | 2:49 |
 | 66 | [El Colesterol](https://open.spotify.com/track/6hmHJJd4h81u40rCi45Wjv) | [Fito Olivares Y La Pura Sabrosura](https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o) | [30 Exitos Inolvidables](https://open.spotify.com/album/6qIZrfwZxb4bMB9rcNGbV6) | 2:24 |
 
-Snapshot ID: `AAAAAKtSwnqygnVbIHRT7pBsn44Dt9Zo`
+Snapshot ID: `AAAAANrFlE+dIJ8JPjuIHUmcBjnpdAee`

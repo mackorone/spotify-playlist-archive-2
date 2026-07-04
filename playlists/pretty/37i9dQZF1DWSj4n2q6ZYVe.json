@@ -1,6 +1,6 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 772089,
+  "num_followers": 772344,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
@@ -84,7 +84,7 @@
       },
       "artists": [
         {
-          "name": "Gigi D'Agostino",
+          "name": "GIGI D'AGOSTINO",
           "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
         }
       ],
@@ -915,22 +915,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "We Are The Night",
-        "url": "https://open.spotify.com/album/59BUTEyxgum2KPZMwrJjVr"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "The Salmon Dance",
-      "url": "https://open.spotify.com/track/3vRYtf5xgPrYeVzAmqvzTd"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "See Clear Now",
         "url": "https://open.spotify.com/album/6jyCINx0IQwks3MnchgcOR"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 170480,
       "name": "Wearing My Rolex - Radio Edit",
       "url": "https://open.spotify.com/track/5liQj4sVRmEEESvvcb64o8"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "We Are The Night",
+        "url": "https://open.spotify.com/album/59BUTEyxgum2KPZMwrJjVr"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 220226,
+      "name": "The Salmon Dance",
+      "url": "https://open.spotify.com/track/3vRYtf5xgPrYeVzAmqvzTd"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Invaders Must Die",
-        "url": "https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 216026,
-      "name": "Omen",
-      "url": "https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/7KHjkfgCVwog38yBI0NcmR"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 184586,
       "name": "Voyage voyage",
       "url": "https://open.spotify.com/track/4HsvdyB7HDERx46V8Q8dV8"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Invaders Must Die",
+        "url": "https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 216026,
+      "name": "Omen",
+      "url": "https://open.spotify.com/track/144adL7pGHEWRwute2wxzZ"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "First Contact",
-        "url": "https://open.spotify.com/album/6qu9ns8pdYAWJphzLszkny"
-      },
-      "artists": [
-        {
-          "name": "Roger Sanchez",
-          "url": "https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ"
-        }
-      ],
-      "duration_ms": 452906,
-      "name": "Another Chance",
-      "url": "https://open.spotify.com/track/08fMRujpKhEDTanKN9l2ud"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Platinum",
         "url": "https://open.spotify.com/album/5BIDwo7ClpVhC031QNKTuY"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 191843,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/4preSlFr0bYsRHm9WxAcE9"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "First Contact",
+        "url": "https://open.spotify.com/album/6qu9ns8pdYAWJphzLszkny"
+      },
+      "artists": [
+        {
+          "name": "Roger Sanchez",
+          "url": "https://open.spotify.com/artist/1HT9k1ZSUL9IczSstOAgWJ"
+        }
+      ],
+      "duration_ms": 452906,
+      "name": "Another Chance",
+      "url": "https://open.spotify.com/track/08fMRujpKhEDTanKN9l2ud"
     },
     {
       "added_at": "2021-10-06 04:50:26",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Invaders Must Die",
-        "url": "https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM"
-      },
-      "artists": [
-        {
-          "name": "The Prodigy",
-          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
-        }
-      ],
-      "duration_ms": 295026,
-      "name": "Invaders Must Die",
-      "url": "https://open.spotify.com/track/1j6lrR4BzRGKwvAPfrIcbf"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "LOL (International version)",
         "url": "https://open.spotify.com/album/4cHjA2C6N5h5rIKQYojMLU"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 207066,
       "name": "Boten Anna - Radio edit",
       "url": "https://open.spotify.com/track/1Y73xpxMMWInxiAHG6INCK"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Invaders Must Die",
+        "url": "https://open.spotify.com/album/13PiGMs22YuX1kq7w8WNGM"
+      },
+      "artists": [
+        {
+          "name": "The Prodigy",
+          "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+        }
+      ],
+      "duration_ms": 295026,
+      "name": "Invaders Must Die",
+      "url": "https://open.spotify.com/track/1j6lrR4BzRGKwvAPfrIcbf"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Belle Epoque",
-        "url": "https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr"
-      },
-      "artists": [
-        {
-          "name": "French Affair",
-          "url": "https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2Dvz88PooQPZDvjDAyN6in"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 184846,
       "name": "Show Me Love - Radio Edit",
       "url": "https://open.spotify.com/track/2WIwmd809qDTOn4UJgDnNi"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Belle Epoque",
+        "url": "https://open.spotify.com/album/0ZUU0rETCIdO13CCmQnKfr"
+      },
+      "artists": [
+        {
+          "name": "French Affair",
+          "url": "https://open.spotify.com/artist/6ja9fzugcFkIEIXRw3Ie1E"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/3FgrXi0L9lkaFJlNy5NZ0k"
     },
     {
       "added_at": "2021-04-29 18:40:15",

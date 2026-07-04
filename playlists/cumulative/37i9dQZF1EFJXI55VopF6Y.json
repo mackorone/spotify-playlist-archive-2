@@ -887,6 +887,28 @@
     },
     {
       "album": {
+        "name": "SHARK baiT",
+        "url": "https://open.spotify.com/album/4XjXxxYLgl2AyVIYIB7lkX"
+      },
+      "artists": [
+        {
+          "name": "TeaMarrr",
+          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
+        },
+        {
+          "name": "Tommy Parker",
+          "url": "https://open.spotify.com/artist/1GSmDgjAARIKP0x1m4De6J"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170655,
+      "name": "SHARK baiT",
+      "url": "https://open.spotify.com/track/5EeHNCGHkWSDeFXThp59Cl"
+    },
+    {
+      "album": {
         "name": "Sl\u00f6sa din tid",
         "url": "https://open.spotify.com/album/6voTr5oLmoPGejsEYQ29mw"
       },
@@ -1198,6 +1220,24 @@
       "duration_ms": 185333,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/1tgFUm1rKdUFzqelAe3NE3"
+    },
+    {
+      "album": {
+        "name": "White",
+        "url": "https://open.spotify.com/album/6HflvcsTk8MGHctD3OwGdW"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149803,
+      "name": "White",
+      "url": "https://open.spotify.com/track/1kVBKVPXEJKNgnfvO52BKb"
     },
     {
       "album": {

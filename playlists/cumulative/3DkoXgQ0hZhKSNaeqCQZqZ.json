@@ -2373,6 +2373,24 @@
     },
     {
       "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204209,
+      "name": "Do It All",
+      "url": "https://open.spotify.com/track/21m4G0iFptQHoLZy8RngNg"
+    },
+    {
+      "album": {
         "name": "Keychain",
         "url": "https://open.spotify.com/album/0YTa3pfGMUMjqtlfC3tp8I"
       },
@@ -2606,10 +2624,28 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 237558,
       "name": "Eat Me Alive",
       "url": "https://open.spotify.com/track/1m9upNm8FhtRYfcgbSshH2"
+    },
+    {
+      "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237558,
+      "name": "Eat Me Alive",
+      "url": "https://open.spotify.com/track/7GOHw06yKrMFF5UuesDKIf"
     },
     {
       "album": {
@@ -4133,6 +4169,24 @@
     },
     {
       "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197044,
+      "name": "I Always Lose",
+      "url": "https://open.spotify.com/track/6Wd1Hpn3sjCRmubqEd57A0"
+    },
+    {
+      "album": {
         "name": "D.Y.H.H.",
         "url": "https://open.spotify.com/album/0Ehm7iU4wjsp0wuYizhzmA"
       },
@@ -4752,6 +4806,24 @@
       "duration_ms": 167735,
       "name": "inconsequential",
       "url": "https://open.spotify.com/track/6IPfsgy50gRIuCHA2PkZFp"
+    },
+    {
+      "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260522,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/5pRTfoPISfQjSiFI9l4R5Y"
     },
     {
       "album": {
@@ -6583,6 +6655,24 @@
     },
     {
       "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245995,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/5qNUf9PYWMl1T8v4OvlvvW"
+    },
+    {
+      "album": {
         "name": "ALLORNOTHING",
         "url": "https://open.spotify.com/album/3cx10yx8jmSZfKo2PZefBO"
       },
@@ -8183,6 +8273,24 @@
     },
     {
       "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217879,
+      "name": "Say The Words",
+      "url": "https://open.spotify.com/track/0SFYPKipfy0G1R7Y6oAkqO"
+    },
+    {
+      "album": {
         "name": "Say The Words",
         "url": "https://open.spotify.com/album/7KkEQMbrmpVsXzUtbrMYyO"
       },
@@ -8194,7 +8302,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 217879,
       "name": "Say The Words",
       "url": "https://open.spotify.com/track/5zpo6JR8D1lO7iuypju0ZB"
@@ -8720,6 +8828,24 @@
       "duration_ms": 238053,
       "name": "Solstice",
       "url": "https://open.spotify.com/track/0pvk4XW3NGJ0lXZvt1r5Qx"
+    },
+    {
+      "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157281,
+      "name": "Some Years",
+      "url": "https://open.spotify.com/track/7nhuibhCjq3sSrnpT4pgow"
     },
     {
       "album": {
@@ -10396,6 +10522,24 @@
       "duration_ms": 98668,
       "name": "what would my phone do without me",
       "url": "https://open.spotify.com/track/3MBBdWC2F0OdPEtEMsWGwu"
+    },
+    {
+      "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212044,
+      "name": "What You Like",
+      "url": "https://open.spotify.com/track/74QyY8DDPgme7qlLm1H8dM"
     },
     {
       "album": {

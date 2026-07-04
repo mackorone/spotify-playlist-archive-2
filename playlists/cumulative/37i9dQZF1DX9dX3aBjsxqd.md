@@ -4,7 +4,7 @@
 
 > Relax to these mellow cello melodies.
 
-152 songs - 10 hr 34 min
+153 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Fantasiestücke](https://open.spotify.com/track/2nmrVF0Wuytjbum7IhDCvV) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Christian\-Pierre La Marca](https://open.spotify.com/artist/5nRDtK82lHmYRXnKjAzI9j), [Jean\-Frédéric Neuburger](https://open.spotify.com/artist/6jsH3z7JbQRNQjjmTcy7Wy) | [Robert Schumann: Zart und mit Ausdruck \(from Fantasiestücke Op\. 73\)](https://open.spotify.com/album/0ZZrIPEcOXSDgQ84RjJewG) | 3:12 | 2024-10-15 |  |
 | [Flow](https://open.spotify.com/track/4kPjycSu2K6IAlVVu5TuwP) | [Anja Lechner](https://open.spotify.com/artist/0SGPrWBKXE2DfxLX4GbtBN), [François Couturier](https://open.spotify.com/artist/4Zt9Fpz2Zw4j5JckmwnL76) | [Flow](https://open.spotify.com/album/53YngitfGka6Bt402uaLsV) | 6:20 | 2021-03-08 |  |
 | [Gardermoen](https://open.spotify.com/track/1WEGB2t1ZYHjQODNPaiftb) | [Julia Kent](https://open.spotify.com/artist/2YJXo1ERQAO7r4hQtu2vFc) | [Delay](https://open.spotify.com/album/5E7fIzAOnhdt3mSyjUYb1j) | 4:10 | 2021-03-08 |  |
+| [Gnossienne No\. 1](https://open.spotify.com/track/0ynuGyHWvy8DXz6ODjvM9G) | [Laudinum](https://open.spotify.com/artist/39GaDG2pFTiWqsBeWyl47q), [Oliver Patrice Weder](https://open.spotify.com/artist/0InzETPzx4u2fVgldqQOcd) | [Gnossienne No\. 1](https://open.spotify.com/album/7Hdearqe2iK3RoOoXoN202) | 2:56 | 2026-07-03 |  |
 | [Hallelujah \(Arr\. Hodge for Cello & Strings\)](https://open.spotify.com/track/7q2DehTTvivpurQfe41iCy) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV), [Sheku Kanneh\-Mason](https://open.spotify.com/artist/6OTr0YwLwGdv7mlmX27hRX), [Didier Osindero](https://open.spotify.com/artist/6uf0epRD4tMrwtScv7Z4Vz), [Alinka Rowe](https://open.spotify.com/artist/5243VBdvvdhbG099nuIgvw), [Yong Jun Lee](https://open.spotify.com/artist/2emz7eqpRaUd6D87co8p0t) | [Inspiration](https://open.spotify.com/album/5n2aAsMFp4NhWn64pCGCtK) | 3:26 | 2021-03-08 |  |
 | [I Capuleti e i Montecchi: Oh quante volte \(Arr\. for Cello & Orchestra\)](https://open.spotify.com/track/4ZhgvIKQ8PM06VTb8ozcl0) | [Vincenzo Bellini](https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV), [Ophélie Gaillard](https://open.spotify.com/artist/2iV0Qpl8GsF2IDqFP9mwpj), [Morphing Chamber Orchestra](https://open.spotify.com/artist/3NJaau60IyYeDGWI0cxI0W), [Frédéric Chaslin](https://open.spotify.com/artist/0J7QS77wF39iGgyWIiMJaV) | [Cellopera \(Deluxe Edition\)](https://open.spotify.com/album/170NOpTvClHxlcMH1Sjol6) | 4:24 | 2021-03-08 |  |
 | [I Capuleti e i Montecchi: Oh quante volte \(Arr\. for Cello & Orchestra\)](https://open.spotify.com/track/6k9L1XDzkuIO2OMg9FLptR) | [Vincenzo Bellini](https://open.spotify.com/artist/6AphpMkKDU4I3Z6XaGu1UV), [Ophélie Gaillard](https://open.spotify.com/artist/2iV0Qpl8GsF2IDqFP9mwpj), [Morphing Chamber Orchestra](https://open.spotify.com/artist/3NJaau60IyYeDGWI0cxI0W), [Frédéric Chaslin](https://open.spotify.com/artist/0J7QS77wF39iGgyWIiMJaV) | [Cellopera \(Deluxe Edition\)](https://open.spotify.com/album/1Dlh0VppQJPDECDmK18SM9) | 4:24 | 2022-06-16 | 2024-04-19 |

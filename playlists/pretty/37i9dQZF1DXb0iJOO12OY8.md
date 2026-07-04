@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 
 > Heia Norge 🇳🇴⚽️🏟️
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,749 likes - 35 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,872 likes - 35 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0iJOO12OY8.md) - [plain]
 | 34 | [Ulveham](https://open.spotify.com/track/4XemBGzkhN7HNvh72Q0Ijk) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Vandrar](https://open.spotify.com/album/6xvtfFPph3AcwJjb5TT68j) | 3:00 |
 | 35 | [Golden Ticket](https://open.spotify.com/track/6VZlC8CPKAEZkbLrphZYkC) | [Highasakite](https://open.spotify.com/artist/5awQWdBpLqN2KFVRN8w56T) | [Camp Echo](https://open.spotify.com/album/4aVzMODuSWbYPnMxNvjby0) | 3:52 |
 
-Snapshot ID: `AAAAAOaAgNFHJXyjVBOhXgXem3MMM0dL`
+Snapshot ID: `AAAAAMwpcoTaot9FvPrPigVeQzGMoThG`

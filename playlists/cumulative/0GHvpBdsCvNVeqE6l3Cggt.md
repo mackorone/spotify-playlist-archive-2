@@ -4,7 +4,7 @@
 
 > The Ultimate List of Banging Alternative Pop Tunes\. Covering Famous and Independent Acts From All Over The World \| Alternative Pop Artists \| Alternative Rock Indie Pop Artists \| Female Indie Pop Artists \| Best Indie Pop Artists \| Best Indie Pop Songs \| Indie Pop Bands With Female Singers \|
 
-134 songs - 7 hr 45 min
+135 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [GROWING](https://open.spotify.com/track/7zbLzzH7GOOAKcNtnr3hcR) | [Lupo Prospero](https://open.spotify.com/artist/2oW8dDaeHsnelFSYrnhs5J) | [GROWING](https://open.spotify.com/album/1oIE9MRFPl6IZdZFQESkcW) | 2:49 | 2025-12-29 | 2026-01-29 |
 | [Heading Home](https://open.spotify.com/track/0f8GYw2QMENtiJcGKnqsbq) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Washed Away](https://open.spotify.com/album/7FVNnbmjeSSrcKGSoErBre) | 2:10 | 2021-10-30 |  |
 | [Heat Waves](https://open.spotify.com/track/14gtvVSuPdEMjMEPzoZ3mo) | [Mizumi Hanako](https://open.spotify.com/artist/0YIaBn2xawhZU41y6Qw8Ni) | [Heat Waves](https://open.spotify.com/album/15VpR4eExdUCyULMe0WZum) | 2:59 | 2025-12-24 | 2026-01-29 |
+| [I Have Myself](https://open.spotify.com/track/23VrT5eYArnddWOUZNwxVK) | [Brave The Storm](https://open.spotify.com/artist/6DPd6AkhKbj2qYKHULOU77), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [I Have Myself](https://open.spotify.com/album/34v9wtjbxHZ1qz4SY6UbPl) | 3:07 | 2026-07-03 |  |
 | [I Told You She's Mental](https://open.spotify.com/track/5gTEjXDkpMHIZwPatbmzx9) | [Glorification](https://open.spotify.com/artist/5VAtjGCSSccAG7AoeyxM5I) | [Two](https://open.spotify.com/album/5fVZjOtZae0991fzloTglF) | 2:51 | 2025-10-13 |  |
 | [I Want More](https://open.spotify.com/track/0BSQD6UgS8k2zzZjED2tNP) | [The Sunshine Kidz](https://open.spotify.com/artist/0hX8vqzEXKOHSl0Gc93RhQ) | [I Want Your Soul](https://open.spotify.com/album/5AOdeWFBM5nXSDqLic94Sv) | 4:25 | 2026-02-13 | 2026-03-06 |
 | [I WON'T BE HERE FOREVER](https://open.spotify.com/track/2d4on1kn0sHj94lAF3IKlY) | [Mainframe Bird](https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt) | [BLURRY](https://open.spotify.com/album/58mFWI4ZlgDeQLleTCZ3do) | 3:47 | 2025-11-17 | 2025-12-07 |

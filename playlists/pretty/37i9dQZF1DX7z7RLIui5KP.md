@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 
 > Proudly Kenyan gems made for the entire family\. Cover: Ssaru & Scar Mkadinali
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,940 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,960 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7z7RLIui5KP.md) - [plain]
 | 6 | [Ulinihukumu](https://open.spotify.com/track/21u6bShXJLrxwkoPSmpgue) | [Jovial](https://open.spotify.com/artist/2iULDphri5hyIfw6Z1HhcH), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Ulinihukumu](https://open.spotify.com/album/6uCFSii5b893UkrDaUzX1S) | 4:00 |
 | 7 | [Longo Longo](https://open.spotify.com/track/7C4ld0CYlWSHk7hovq3xpn) | [We are Nubia](https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Longo Longo](https://open.spotify.com/album/2nCEA6ak90czRS3KLWEZcm) | 3:26 |
 | 8 | [Hell Of A Night](https://open.spotify.com/track/2T7mz68Ha96CFfYVhJ6Fiw) | [Domani Munga](https://open.spotify.com/artist/5QzkdCjCrO3OpfLTHvqnNb), [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba) | [Hell Of A Night](https://open.spotify.com/album/0Lru0GcgdZnMcU3J1MgtVV) | 3:33 |
-| 9 | [Track 4](https://open.spotify.com/track/1ABmyUibzK9hC9S66mBcFk) | [King Kaka](https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS) | [Year Of The Pen](https://open.spotify.com/album/3X9ADdGjlXeD7R1iwsO6q4) | 0:00 |
+| 9 | [Nalingi Yo](https://open.spotify.com/track/1ABmyUibzK9hC9S66mBcFk) | [King Kaka](https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS), [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp) | [Year Of The Pen](https://open.spotify.com/album/3X9ADdGjlXeD7R1iwsO6q4) | 5:39 |
 | 10 | [PM](https://open.spotify.com/track/4WadEom9ypAUL8a3Ppx5c3) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [PM](https://open.spotify.com/album/0r3S6mCeav8JDaUsFKuE0x) | 3:08 |
 | 11 | [NaEnjoy](https://open.spotify.com/track/5HYDoscfBYwQhLxkMY2dXs) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [NaEnjoy](https://open.spotify.com/album/3X0ByBetVJ3YDL5tSTgjRt) | 3:30 |
 | 12 | [Baddest Vibes](https://open.spotify.com/track/3VtYIGMMoSpgrU5tWGXgaU) | [Calvo Mistari](https://open.spotify.com/artist/6w4t3pnu0u5aDfnkDzN4vA), [Naiboi](https://open.spotify.com/artist/4IbACJyPBYxvIJAJh8KOi6) | [Baddest](https://open.spotify.com/album/0Ml09yO6GgYHTSbjeFUoVR) | 3:57 |

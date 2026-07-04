@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-445 songs - 1 day 0 hr 26 min
+446 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Fire Up](https://open.spotify.com/track/66aRjw9DruRf9J40t1Wm9i) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Fire Up](https://open.spotify.com/album/6LsnwhszwrWSHWQh9f4kv6) | 3:39 | 2024-03-21 | 2024-08-09 |
 | [First Time](https://open.spotify.com/track/6cE3BMT0MTw9M1GCm5gBxX) | [DOKO](https://open.spotify.com/artist/7y5E5llLKviR9WIXK5lrag) | [First Time](https://open.spotify.com/album/7m6vC7ZtP4496dbJA4n33v) | 3:32 | 2022-04-12 | 2022-04-21 |
 | [Fling](https://open.spotify.com/track/3WdgA44BJij5X8qYdynTXO) | [DIVE](https://open.spotify.com/artist/57wwJWPNlKaN300irTjaM9) | [Fling](https://open.spotify.com/album/46bhJQcDLQhGs2kFPGx5UJ) | 2:54 | 2023-01-13 | 2023-01-26 |
+| [Flo Flo \(feat\. Dopein\)](https://open.spotify.com/track/63puD8m1sZCxlmcxiqhAII) | [LODiVE](https://open.spotify.com/artist/4u60k8zXBWzInzqVLekWyJ), [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt) | [Flo Flo](https://open.spotify.com/album/7rJYhTMF4sVpYKEO48zapy) | 3:19 | 2026-07-03 |  |
 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 | 2022-07-22 | 2025-04-12 |
 | [Foggy](https://open.spotify.com/track/3IEl9Hb4Wx1gtVF6op4LUc) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:33 | 2024-03-21 | 2024-05-10 |
 | [fool](https://open.spotify.com/track/41c8b3Nj6DCoaKrdaim47d) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [fool](https://open.spotify.com/album/16YHVI5MAqFtYOLqrJAB9j) | 2:10 | 2022-04-12 | 2022-07-27 |
@@ -438,7 +439,7 @@
 | [Your Dog Loves You \(Feat\. Crush\)](https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Your Dog Loves You](https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq) | 4:33 | 2022-07-22 |  |
 | [YOUR SONG \(with Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/1paEGBBeqDYfb9AppAt7BO) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/0etVkROh5WOl6OdYqRHPP9) | 4:19 | 2022-04-21 | 2022-07-19 |
 | [Youuuuu \(feat.moim\)](https://open.spotify.com/track/5l08nP7qRxrDfUqHVJ76XE) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx), [moim](https://open.spotify.com/artist/1sr5uaXiCwEqIh26gTWBtP) | [Youuuuu \(feat.moim\)](https://open.spotify.com/album/1mhPtEgmmMqGANAhm50iA1) | 3:09 | 2025-09-16 | 2025-10-14 |
-| [You’re my summer](https://open.spotify.com/track/1umthbyIYNuzjLSRiJESMY) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [You’re my summer](https://open.spotify.com/album/0uDar1M8hqUsDDQeJtRRTw) | 2:51 | 2026-06-16 |  |
+| [You’re my summer](https://open.spotify.com/track/1umthbyIYNuzjLSRiJESMY) | [KIM PUREUM](https://open.spotify.com/artist/5lzn05sB0L0EtuTHBAhTpJ) | [You’re my summer](https://open.spotify.com/album/0uDar1M8hqUsDDQeJtRRTw) | 2:51 | 2026-06-16 | 2026-07-04 |
 | [zigzag \(feat\. Dawon\)](https://open.spotify.com/track/5GYwkAqLzyLNYMIa7zyQ6B) | [dusom](https://open.spotify.com/artist/3lPoUXYIkvdtQ6g6xYIdtR), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [zigzag](https://open.spotify.com/album/1GrAYJIPeYgp34ptuLwVXu) | 3:08 | 2022-07-22 | 2022-07-29 |
 | [그게 그렇게 잘못인가](https://open.spotify.com/track/42EXD9JX1ltMXQogRpkcYS) | [Terry](https://open.spotify.com/artist/0uf72fxnxE08DbNIHsxEwb) | [그게 그렇게 잘못인가](https://open.spotify.com/album/41S5fV0UKBmzD14eRHADPs) | 2:49 | 2025-05-26 | 2025-06-17 |
 | [너는 어떤지](https://open.spotify.com/track/25zIWPoiOJF8czNbSTVYbm) | [Pre'Melo](https://open.spotify.com/artist/59jyRPrPkL8QIR0wfaJMWl) | [너는 어떤지](https://open.spotify.com/album/5NinVusj6f29Ewv5F5i9ad) | 3:50 | 2022-04-12 | 2022-04-21 |

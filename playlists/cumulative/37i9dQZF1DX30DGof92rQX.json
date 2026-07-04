@@ -1487,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "Bhuldi Nai",
+        "url": "https://open.spotify.com/album/4mNFfTIpRWz2BvpS61hd79"
+      },
+      "artists": [
+        {
+          "name": "Saad Sultan",
+          "url": "https://open.spotify.com/artist/1OBBbn5fM7Lj0zhlChlgi3"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205048,
+      "name": "Bhuldi Nai",
+      "url": "https://open.spotify.com/track/1Xw6qI3zzbu1tkyTcsrNdQ"
+    },
+    {
+      "album": {
         "name": "Biba Sada Dil",
         "url": "https://open.spotify.com/album/3cIdb5C0FLa49DmoQzTAcj"
       },
@@ -4782,6 +4800,24 @@
       "duration_ms": 146000,
       "name": "Judai",
       "url": "https://open.spotify.com/track/74HUAcGhQ0WFwHD0qAiMwn"
+    },
+    {
+      "album": {
+        "name": "Judai",
+        "url": "https://open.spotify.com/album/2ktS1jruDiSf9eBF7snNWz"
+      },
+      "artists": [
+        {
+          "name": "Saad Hassan",
+          "url": "https://open.spotify.com/artist/3mHp9Ih5L1ramMAddBND3T"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173684,
+      "name": "Judai",
+      "url": "https://open.spotify.com/track/0dIc1TF9GOxbtZtl1lmr5c"
     },
     {
       "album": {
@@ -8702,6 +8738,24 @@
       "duration_ms": 205910,
       "name": "Rehmat",
       "url": "https://open.spotify.com/track/4r8mhO7cHAztTNMGxpq46g"
+    },
+    {
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/4GZxnXeQbB84bZsl04jH8y"
+      },
+      "artists": [
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126593,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/65ARiqajzzTBPc2QPR1QtA"
     },
     {
       "album": {

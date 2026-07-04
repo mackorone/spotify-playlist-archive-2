@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: Tyler, The Creator",
+  "description": "Holdin' it down for the westside. Cover: Nipsey Hussle and \nBino Rideaux",
   "name": "Westside",
   "tracks": [
     {
@@ -1795,6 +1795,32 @@
     },
     {
       "album": {
+        "name": "All Summer (feat. BH)",
+        "url": "https://open.spotify.com/album/7lwZOYiPIJKkin7LsxG2KL"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "BH",
+          "url": "https://open.spotify.com/artist/77EDqy4AyUvtLGhIqOy3Dc"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239640,
+      "name": "All Summer (feat. BH)",
+      "url": "https://open.spotify.com/track/23wBbnEZdCdnPNynMZeLpg"
+    },
+    {
+      "album": {
         "name": "All That",
         "url": "https://open.spotify.com/album/0LPNDHInvkvdxtnUL0XMn2"
       },
@@ -2600,7 +2626,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 179340,
       "name": "Baby, Pt. 2",
       "url": "https://open.spotify.com/track/2ZCJfPz2eSQPrQ3XIhDmsz"
@@ -11805,6 +11831,28 @@
     },
     {
       "album": {
+        "name": "Rich Rapping II",
+        "url": "https://open.spotify.com/album/2HzEIHx4raKJbL4pK9f7re"
+      },
+      "artists": [
+        {
+          "name": "R3 DA Chilliman",
+          "url": "https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e"
+        },
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111908,
+      "name": "Front & Bacc",
+      "url": "https://open.spotify.com/track/0ryLK6sqGWmTd3P1GD7hFf"
+    },
+    {
+      "album": {
         "name": "A Good Night in the Ghetto",
         "url": "https://open.spotify.com/album/5fjjHAxUCbr7Z1Pj2flqHs"
       },
@@ -11980,7 +12028,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 176053,
       "name": "G Gangstaz",
       "url": "https://open.spotify.com/track/3cc02IKh7vH8FLL2JSAqL5"
@@ -13140,6 +13188,28 @@
       "duration_ms": 179873,
       "name": "Go Pro",
       "url": "https://open.spotify.com/track/3wzAAc6yhKtQs7nQLwMJjf"
+    },
+    {
+      "album": {
+        "name": "Go Slow",
+        "url": "https://open.spotify.com/album/6WQqAC6wM6PUrzNAaVBeKN"
+      },
+      "artists": [
+        {
+          "name": "Chef Boy",
+          "url": "https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj"
+        },
+        {
+          "name": "Steven G",
+          "url": "https://open.spotify.com/artist/3v1Qow1OPaxC0DLMocMIVj"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158293,
+      "name": "Go Slow",
+      "url": "https://open.spotify.com/track/0SBbd4yR6KzPxxnkiuidYO"
     },
     {
       "album": {
@@ -17138,6 +17208,24 @@
       "duration_ms": 151424,
       "name": "Kaboom",
       "url": "https://open.spotify.com/track/05CkiUUE3PZz1s1Hv4gevH"
+    },
+    {
+      "album": {
+        "name": "Kash Doll",
+        "url": "https://open.spotify.com/album/0nOtOPhPTF1uoyKBNZdWoH"
+      },
+      "artists": [
+        {
+          "name": "EBK Young Joc",
+          "url": "https://open.spotify.com/artist/4lPU30QB53QTUVhkjcb0WS"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Kash Doll",
+      "url": "https://open.spotify.com/track/1wXFyliPt3sD506SUdSFKH"
     },
     {
       "album": {
@@ -21740,7 +21828,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 158406,
       "name": "No Diss",
       "url": "https://open.spotify.com/track/63naECcOWuTpH57PmJ716Q"
@@ -23484,6 +23572,24 @@
       "duration_ms": 128810,
       "name": "Options (feat. 24kGoldn)",
       "url": "https://open.spotify.com/track/6bhgpD7OkCATudfKJ50JB6"
+    },
+    {
+      "album": {
+        "name": "Organic Motion",
+        "url": "https://open.spotify.com/album/5SdeOFSHrOBR6LikAiD7rU"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155990,
+      "name": "Organic Motion",
+      "url": "https://open.spotify.com/track/0YJuBcj5bl9HGqMOBnthHC"
     },
     {
       "album": {
@@ -26278,7 +26384,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 162947,
       "name": "Right Back",
       "url": "https://open.spotify.com/track/6I7cqrhX3DNKQYIoRXgvjS"
@@ -26326,6 +26432,24 @@
       "duration_ms": 201869,
       "name": "Ring Ring Ring",
       "url": "https://open.spotify.com/track/1lTqq0aC6r2bXLviQ3oaVt"
+    },
+    {
+      "album": {
+        "name": "Ringin",
+        "url": "https://open.spotify.com/album/7BULccnerd1Gg0uhYGjcLb"
+      },
+      "artists": [
+        {
+          "name": "Yonny",
+          "url": "https://open.spotify.com/artist/6FHpiparqe3BdjjfHyNXNJ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161082,
+      "name": "Ringin",
+      "url": "https://open.spotify.com/track/6YvKDYJg5NwaK7K35qOD7D"
     },
     {
       "album": {
@@ -26944,7 +27068,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 268331,
       "name": "Sacrifices (feat. James Fauntleroy)",
       "url": "https://open.spotify.com/track/3s75C1nQTml1i3zOyXaMGw"
@@ -31325,6 +31449,24 @@
     },
     {
       "album": {
+        "name": "That's That",
+        "url": "https://open.spotify.com/album/46UuSEizvFsUec3uBDaXOR"
+      },
+      "artists": [
+        {
+          "name": "DB.Boutabag",
+          "url": "https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121338,
+      "name": "That's That",
+      "url": "https://open.spotify.com/track/42D4wXZjIdDtINUCYu8t7a"
+    },
+    {
+      "album": {
         "name": "THATS LIQUOR",
         "url": "https://open.spotify.com/album/66Cyb9Ql5zo0Bwy3cxKFCd"
       },
@@ -31748,7 +31890,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 181200,
       "name": "The Machinist",
       "url": "https://open.spotify.com/track/5tjMNGX2VF3bZ3xYqin3em"
@@ -32078,7 +32220,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 135080,
       "name": "This Yo Shhh",
       "url": "https://open.spotify.com/track/2O6D6wJFdTWc5GrpqQb8KD"
@@ -34268,7 +34410,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 121183,
       "name": "What If",
       "url": "https://open.spotify.com/track/4lSUGB0KYqTu7JpyNWTLtG"
@@ -34544,6 +34686,28 @@
       "duration_ms": 150865,
       "name": "What's What (feat. BabyTron)",
       "url": "https://open.spotify.com/track/7DWrnxiwVJ87Kdhzg9IxOx"
+    },
+    {
+      "album": {
+        "name": "WHAT'S YOUR INFO",
+        "url": "https://open.spotify.com/album/7alyP24cbv0UaJBRW24c4j"
+      },
+      "artists": [
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        },
+        {
+          "name": "Wallie the Sensei",
+          "url": "https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154357,
+      "name": "WHAT'S YOUR INFO",
+      "url": "https://open.spotify.com/track/0SRNkniakIBS4TWmWhfCR1"
     },
     {
       "album": {

@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 171507,
       "name": "Cry about it! (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/6Vj5GNXyZPXZ6Hh5NASfHH"
@@ -5939,6 +5939,24 @@
     },
     {
       "album": {
+        "name": "Make Up",
+        "url": "https://open.spotify.com/album/7h7oXkx5EOMYh2cfmu3Gq1"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Make Up",
+      "url": "https://open.spotify.com/track/25fgqMC5JX8A9du5YeqREN"
+    },
+    {
+      "album": {
         "name": "WEDNESDAY'S CHILD (SIDE A)",
         "url": "https://open.spotify.com/album/0Xab1cM6Bk1KxUBpn3cCtC"
       },
@@ -7783,6 +7801,24 @@
     },
     {
       "album": {
+        "name": "Reignite",
+        "url": "https://open.spotify.com/album/3KCgsqsAfMoDCDtKyTGkeP"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201723,
+      "name": "Reignite",
+      "url": "https://open.spotify.com/track/3zN8glApKznq24oqZ9uWAG"
+    },
+    {
+      "album": {
         "name": "Rock Bottom",
         "url": "https://open.spotify.com/album/4kbZDkaXMCU5cebbHbm13E"
       },
@@ -7902,7 +7938,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 225870,
       "name": "Running From Nothing",
       "url": "https://open.spotify.com/track/5xYGysFGDhSt2775wubs6Z"

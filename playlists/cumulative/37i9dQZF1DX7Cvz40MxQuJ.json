@@ -1327,6 +1327,24 @@
     },
     {
       "album": {
+        "name": "Rain (from Water Suite in C# Minor) - Solo",
+        "url": "https://open.spotify.com/album/1tK2GY0XHPJWWEDGtTAZWs"
+      },
+      "artists": [
+        {
+          "name": "Alex Chang",
+          "url": "https://open.spotify.com/artist/4p28xmVZojNt13ydjxdT5m"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187012,
+      "name": "Rain (from Water Suite in C# Minor) - Solo",
+      "url": "https://open.spotify.com/track/2RftMtwFML5ysunTplw1Bx"
+    },
+    {
+      "album": {
         "name": "Ravel: Pavane pour une infante d\u00e9funte",
         "url": "https://open.spotify.com/album/07tVnBuVpav8OYVmCotKah"
       },
@@ -1508,6 +1526,28 @@
       "duration_ms": 134266,
       "name": "Sinfonia (3-Part Invention) No. 11 in G Minor, BWV 797 (Transcr. for Harp)",
       "url": "https://open.spotify.com/track/6NKrz1n8qHb2a2ZrKnzBCb"
+    },
+    {
+      "album": {
+        "name": "Sleep",
+        "url": "https://open.spotify.com/album/6taub2sWbgCGEAf5rJjKUt"
+      },
+      "artists": [
+        {
+          "name": "Eric Whitacre",
+          "url": "https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL"
+        },
+        {
+          "name": "Lavinia Meijer",
+          "url": "https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277664,
+      "name": "Sleep",
+      "url": "https://open.spotify.com/track/2nPlkIpLB3LBcqnqG2XoAY"
     },
     {
       "album": {

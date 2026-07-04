@@ -2466,7 +2466,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 316453,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/3VzeSqVwct8obcWD7vXx2i"
@@ -4084,6 +4084,28 @@
       "duration_ms": 243773,
       "name": "Too Marvelous For Words",
       "url": "https://open.spotify.com/track/6SADSETc4qePUy1XdLRaUC"
+    },
+    {
+      "album": {
+        "name": "under a blanket of blue",
+        "url": "https://open.spotify.com/album/1PJlNK88NJuMHq4X6M73bG"
+      },
+      "artists": [
+        {
+          "name": "Richard Cortez",
+          "url": "https://open.spotify.com/artist/1a2UhBSkoQW9aWceDP6RF4"
+        },
+        {
+          "name": "Jacob Chung",
+          "url": "https://open.spotify.com/artist/0HMaTCDiKbVx1x6kzzAywv"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261130,
+      "name": "under a blanket of blue (feat. Jacob Chung)",
+      "url": "https://open.spotify.com/track/2kXMVlBLppsMe5u8QNkEmK"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 168668,
+  "num_followers": 168680,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-07-02 21:45:02",
       "album": {
+        "name": "Loucura: Adriana Calcanhotto Canta Lupic\u00ednio Rodrigues (Ao Vivo)",
+        "url": "https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Nervos de A\u00e7o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V"
+    },
+    {
+      "added_at": "2026-07-02 21:45:02",
+      "album": {
         "name": "Papo Final",
         "url": "https://open.spotify.com/album/4RAvbjlgTKKlWTfX2XOGmQ"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 153507,
       "name": "Papo Final",
       "url": "https://open.spotify.com/track/1S8iDtct4TXU3AbZYW5BIp"
-    },
-    {
-      "added_at": "2026-07-02 21:45:02",
-      "album": {
-        "name": "Loucura: Adriana Calcanhotto Canta Lupic\u00ednio Rodrigues (Ao Vivo)",
-        "url": "https://open.spotify.com/album/11wB3oHSDq1chRBqegtLa2"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Nervos de A\u00e7o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0CmDA5WHBM2qk7pKkaao3V"
     },
     {
       "added_at": "2026-07-02 21:45:02",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:3YGjCVq7bfP2wT3jzbaxab">Lynn</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,078 likes - 80 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,107 likes - 80 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

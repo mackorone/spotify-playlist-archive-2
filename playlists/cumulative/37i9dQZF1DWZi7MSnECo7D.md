@@ -2,9 +2,9 @@
 
 ### [alt BR](https://open.spotify.com/playlist/37i9dQZF1DWZi7MSnECo7D)
 
-> Música brasileira fora da curva\. Foto: Bruno Berle
+> Música brasileira fora da curva\. Foto: boasorte
 
-924 songs - 2 day 4 hr 34 min
+925 songs - 2 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [amanhã eu durmo](https://open.spotify.com/track/28hlY3G6T278H0ib6OYmUN) | [saudade](https://open.spotify.com/artist/5vjVK0Y2CBuicKqg4BgryA), [enzo dicarlo](https://open.spotify.com/artist/2pHcjPecYYnna8IQyiBYR2), [adieu](https://open.spotify.com/artist/6UzTLaO4vzhybwSrD6Mnik) | [amanhã eu durmo](https://open.spotify.com/album/5zIuk4e5RIJiFosVzJERVC) | 1:51 | 2023-06-09 | 2023-06-24 |
 | [Amantes](https://open.spotify.com/track/01B03FVsHGw6qjarubRPTP) | [YMA](https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9), [Jadsa](https://open.spotify.com/artist/4oUOFvDf1ZPokXgkcFC4pj) | [Zelena](https://open.spotify.com/album/4IsAans9YBrgY1lznXCEgX) | 3:23 | 2023-05-26 | 2023-09-23 |
 | [amarga](https://open.spotify.com/track/4HAIHkDRNvEdLQpIzrxCxH) | [Adorável Clichê](https://open.spotify.com/artist/4mRFZ6ovRHoxsRBE3uymPY) | [amarga](https://open.spotify.com/album/2HrEpViiZOxx6fLFpw6uwb) | 3:45 | 2024-06-21 | 2025-01-25 |
+| [Amiga do Tempo](https://open.spotify.com/track/24lyQ8f2VScw0E36XDtxjO) | [boasorte](https://open.spotify.com/artist/5io1VxUi0EDMOxkZqfrEE6) | [Amiga do Tempo](https://open.spotify.com/album/2pO6Ut3Xva2Dx7tlVcL36S) | 3:39 | 2026-07-03 |  |
 | [Amo Vc](https://open.spotify.com/track/7CNs8lKsrgfObcnedQZ05C) | [Jova](https://open.spotify.com/artist/5DETkZU3Alp5yzyLmB5rnw) | [Amo Vc](https://open.spotify.com/album/2ooIuDuCLwEWyjkOK3A7jI) | 2:51 | 2023-09-22 | 2023-11-25 |
 | [amor de cinema](https://open.spotify.com/track/6DVNpadsa9AjlIDCi2b6Gn) | [Chico e o Mar](https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ), [sofi frozza](https://open.spotify.com/artist/7ycozuv4AEKRZ85WLz6tEy) | [amor de cinema](https://open.spotify.com/album/5ShatqMuYDeJXHBHqB2URO) | 2:51 | 2024-11-01 | 2026-01-31 |
 | [Amor De Verão](https://open.spotify.com/track/55F2q4R6l1m5hxCJaqw96o) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Amor De Verão](https://open.spotify.com/album/4NovKLUlybz2zMuBiTcfiy) | 2:59 | 2022-05-20 | 2022-06-11 |
@@ -156,7 +157,7 @@
 | [Cançãodanoite](https://open.spotify.com/track/6MiHfJb68mrr1YaW3gExeK) | [Mombojó](https://open.spotify.com/artist/2pbePWVNtbsPWxUgYg7a79) | [Cançãodanoite](https://open.spotify.com/album/2XNsQVjn7Aoz7qcyElHU4m) | 6:48 | 2025-08-01 | 2026-03-21 |
 | [Capeta](https://open.spotify.com/track/7z3sKadtOn8qN2yUJ44a7c) | [Salma e Mac](https://open.spotify.com/artist/6bqMZJqVqEaMjCR1DbvlOh) | [Capeta](https://open.spotify.com/album/50HzrLIj0SXxm2jkKQsSXg) | 4:12 | 2024-07-05 | 2025-02-01 |
 | [Capixabilidade](https://open.spotify.com/track/1PK3xVCMaRJkvubVWhlTLn) | [Lisergia Tropical](https://open.spotify.com/artist/0uxlJVn4F65jyEI4NaxZNd) | [Capixabilidade](https://open.spotify.com/album/7FfLwljV6EqVYaxCfwsqIC) | 5:21 | 2022-01-14 | 2022-02-12 |
-| [Cara Estranho](https://open.spotify.com/track/1ukMk2i7sWmDtmO66h3KO7) | [sopa não é janta](https://open.spotify.com/artist/5ELYWYL0QcLqn3B11OU25B), [DONDÁ](https://open.spotify.com/artist/6Cj3oSSADH8dyg5kd8c8Vz) | [Cara Estranho](https://open.spotify.com/album/0XnW33ne09BNEfh2azXWBd) | 2:51 | 2026-06-19 |  |
+| [Cara Estranho](https://open.spotify.com/track/1ukMk2i7sWmDtmO66h3KO7) | [sopa não é janta](https://open.spotify.com/artist/5ELYWYL0QcLqn3B11OU25B), [DONDÁ](https://open.spotify.com/artist/6Cj3oSSADH8dyg5kd8c8Vz) | [Cara Estranho](https://open.spotify.com/album/0XnW33ne09BNEfh2azXWBd) | 2:51 | 2026-06-19 | 2026-07-04 |
 | [Carótida](https://open.spotify.com/track/2YEbThOcqkFKDE5yRTx0ta) | [Besouro Mulher](https://open.spotify.com/artist/24bEVJfL5KhIf4fYZeIfg7) | [Volto Amanhã](https://open.spotify.com/album/7g9258jE0mO1lyxmIvDV55) | 1:57 | 2023-07-14 | 2023-07-29 |
 | [Casa Amarela](https://open.spotify.com/track/1pOQA335PsUEYaJ4Q33kjg) | [Phill Veras](https://open.spotify.com/artist/3BwypqKeCj1DVIoEFwoz3S) | [Casa Amarela](https://open.spotify.com/album/0l9kvFYLXMskezFJ8mD8x2) | 4:27 | 2022-09-09 | 2022-12-10 |
 | [Casca](https://open.spotify.com/track/7y4aQ9TBqOot08yUtglTE1) | [Marcelo Callado](https://open.spotify.com/artist/5PPXLAl96nllrxUESPD64E), [Guilherme Lirio](https://open.spotify.com/artist/0OSjVMA23gcjqqm6lkpgFe) | [Casca](https://open.spotify.com/album/7MElLSV72WuGzovGuuofil) | 3:54 | 2026-01-16 | 2026-06-12 |

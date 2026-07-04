@@ -1,13 +1,221 @@
 {
-  "description": "The best new music every Friday. Cover: Phoebe Bridgers",
-  "num_followers": 1291045,
+  "description": "The best new music every Friday. Cover: mary in the junkyard",
+  "num_followers": 1291200,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJq8A94ip5AMS44DX38T0r3fNMZ2",
+  "snapshot_id": "AAAAAClMboVvZw4oqpaJp0/uFk1m9W3F",
   "tracks": [
+    {
+      "added_at": "2026-07-03 04:01:43",
+      "album": {
+        "name": "Role Model Hermit",
+        "url": "https://open.spotify.com/album/0r5nmjIvD8FmcgWsILF1Eh"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 236807,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/5qKD8WTc5qIZW96rIcgzXE"
+    },
+    {
+      "added_at": "2026-07-03 04:01:43",
+      "album": {
+        "name": "The Clearing (B Sides)",
+        "url": "https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Gospel Oak",
+      "url": "https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81"
+    },
+    {
+      "added_at": "2026-07-03 04:01:43",
+      "album": {
+        "name": "Pin Up Boys",
+        "url": "https://open.spotify.com/album/7Feu6eSNgcapqZrYOMHUpe"
+      },
+      "artists": [
+        {
+          "name": "Westside Cowboy",
+          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
+        }
+      ],
+      "duration_ms": 165135,
+      "name": "Pin Up Boys",
+      "url": "https://open.spotify.com/track/7yOJ44Mql1jwHRUjziYZYo"
+    },
+    {
+      "added_at": "2026-07-03 04:01:43",
+      "album": {
+        "name": "whole thing",
+        "url": "https://open.spotify.com/album/0x9KWdKPTHfzF96ygr6qB5"
+      },
+      "artists": [
+        {
+          "name": "Sadurn",
+          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
+        }
+      ],
+      "duration_ms": 265413,
+      "name": "whole thing",
+      "url": "https://open.spotify.com/track/6eR78hfwTyGcuoe9y8btOn"
+    },
+    {
+      "added_at": "2026-07-03 04:01:43",
+      "album": {
+        "name": "Come On",
+        "url": "https://open.spotify.com/album/6ZJfqMj8FwDh9wVk7Mxf1N"
+      },
+      "artists": [
+        {
+          "name": "Yana",
+          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
+        }
+      ],
+      "duration_ms": 193319,
+      "name": "Come On",
+      "url": "https://open.spotify.com/track/6ZD1BmXJAUKR301UGCor5e"
+    },
+    {
+      "added_at": "2026-07-03 11:50:55",
+      "album": {
+        "name": "Anemone [(Live) | Spotify RADAR]",
+        "url": "https://open.spotify.com/album/0roMMJOvMk1VpKCI3g65Th"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 295253,
+      "name": "Anemone - (Live) | Spotify RADAR",
+      "url": "https://open.spotify.com/track/3xZjubjuKuitzOk4jlHfnA"
+    },
+    {
+      "added_at": "2026-07-03 04:01:43",
+      "album": {
+        "name": "remember my name",
+        "url": "https://open.spotify.com/album/5xylOGmCjHPVBpPpo0SpbN"
+      },
+      "artists": [
+        {
+          "name": "MOIO",
+          "url": "https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb"
+        }
+      ],
+      "duration_ms": 221459,
+      "name": "remember my name",
+      "url": "https://open.spotify.com/track/5xmNuWZX1YTmuqH0V8Nlw3"
+    },
+    {
+      "added_at": "2026-07-03 04:01:43",
+      "album": {
+        "name": "4th of july",
+        "url": "https://open.spotify.com/album/0LFm0KK5gD8kvyiedtQv2W"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5D9hscmOav9Iw8U3yox9UO"
+    },
+    {
+      "added_at": "2026-07-03 04:01:43",
+      "album": {
+        "name": "Cancel Me (I'm Tired)",
+        "url": "https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "duration_ms": 222596,
+      "name": "Cancel Me (I\u2019m Tired)",
+      "url": "https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6"
+    },
+    {
+      "added_at": "2026-07-03 04:01:43",
+      "album": {
+        "name": "Sparkwheel",
+        "url": "https://open.spotify.com/album/70QvIZ8tI02Fxvq4YyjgaE"
+      },
+      "artists": [
+        {
+          "name": "ella jane",
+          "url": "https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J"
+        }
+      ],
+      "duration_ms": 269906,
+      "name": "Guard Dog",
+      "url": "https://open.spotify.com/track/0RUyZdKIHM6Y3NzOIXgnDa"
+    },
+    {
+      "added_at": "2026-07-03 04:01:43",
+      "album": {
+        "name": "winner",
+        "url": "https://open.spotify.com/album/48QRF24jEiOeQGNqJ77c3q"
+      },
+      "artists": [
+        {
+          "name": "Ella Woolsey",
+          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "winner",
+      "url": "https://open.spotify.com/track/7bXqaPGlz0irAUcmqMnHuP"
+    },
+    {
+      "added_at": "2026-07-03 04:01:43",
+      "album": {
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/5OYzWz1q5ZYhmoZj8yk5Ky"
+      },
+      "artists": [
+        {
+          "name": "Molly Otto",
+          "url": "https://open.spotify.com/artist/64Cs2xNbEo5QWaWmBJsv1Q"
+        }
+      ],
+      "duration_ms": 129748,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/2hYhZWlyEExKRflXlUd8f6"
+    },
+    {
+      "added_at": "2026-07-03 04:01:43",
+      "album": {
+        "name": "My Age in Angel Years",
+        "url": "https://open.spotify.com/album/67XOyspqEneL7udid3hdpF"
+      },
+      "artists": [
+        {
+          "name": "spiderhouse",
+          "url": "https://open.spotify.com/artist/2Sexagaht1OswVUg9Kw1ZM"
+        }
+      ],
+      "duration_ms": 220802,
+      "name": "These Are My Magic Powers",
+      "url": "https://open.spotify.com/track/6wyISoTWrnCn78oUkFVYkK"
+    },
     {
       "added_at": "2026-06-26 04:01:55",
       "album": {

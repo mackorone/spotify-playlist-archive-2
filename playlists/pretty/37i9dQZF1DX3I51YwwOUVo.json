@@ -1,6 +1,6 @@
 {
   "description": "Get to know our 2026 Artists to Watch.",
-  "num_followers": 10167,
+  "num_followers": 10171,
   "original_name": "Artists To Watch 2026",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2026-01-12 16:30:22",
       "album": {
-        "name": "Blizzard",
-        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
-      },
-      "artists": [
-        {
-          "name": "Dove Ellis",
-          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
-        }
-      ],
-      "duration_ms": 165460,
-      "name": "Pale Song",
-      "url": "https://open.spotify.com/track/4eaWT26MQU3xfjni9MySYF"
-    },
-    {
-      "added_at": "2026-01-12 16:30:22",
-      "album": {
         "name": "soulless",
         "url": "https://open.spotify.com/album/3jGZXvQfjP1PUehR25z6T1"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 128306,
       "name": "soulless",
       "url": "https://open.spotify.com/track/0MR7Cb6TlNaQgs0vXDaK0W"
+    },
+    {
+      "added_at": "2026-01-12 16:30:22",
+      "album": {
+        "name": "Blizzard",
+        "url": "https://open.spotify.com/album/3Brw2Xdmo6VRPWwOBNye0i"
+      },
+      "artists": [
+        {
+          "name": "Dove Ellis",
+          "url": "https://open.spotify.com/artist/6tGT6SMlubqjTWDxBhSgg9"
+        }
+      ],
+      "duration_ms": 165460,
+      "name": "Pale Song",
+      "url": "https://open.spotify.com/track/4eaWT26MQU3xfjni9MySYF"
     },
     {
       "added_at": "2026-01-12 16:30:22",

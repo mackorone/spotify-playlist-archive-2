@@ -1,6 +1,6 @@
 {
   "description": "Country music that rocks. Cover: Chris Stapleton",
-  "num_followers": 667540,
+  "num_followers": 667642,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
-        "name": "three twenty four",
-        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
-      },
-      "artists": [
-        {
-          "name": "Ole 60",
-          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
-        }
-      ],
-      "duration_ms": 189048,
-      "name": "smoke & a light",
-      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
-    },
-    {
-      "added_at": "2026-06-26 04:01:34",
-      "album": {
         "name": "Chief",
         "url": "https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 158634,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/4cfJwDxcinpg5gYUZ4qysj"
+    },
+    {
+      "added_at": "2026-06-26 04:01:34",
+      "album": {
+        "name": "three twenty four",
+        "url": "https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc"
+      },
+      "artists": [
+        {
+          "name": "Ole 60",
+          "url": "https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O"
+        }
+      ],
+      "duration_ms": 189048,
+      "name": "smoke & a light",
+      "url": "https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV"
     },
     {
       "added_at": "2026-06-26 04:01:34",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
-      },
-      "artists": [
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "Between Jennings And Jones",
-      "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
-    },
-    {
-      "added_at": "2026-06-26 04:01:34",
-      "album": {
         "name": "Heart",
         "url": "https://open.spotify.com/album/5aWReU8nqP0WiJPRwiNTyt"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 258799,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/0ysCB1Jg4hli0XlEWlipo7"
+    },
+    {
+      "added_at": "2026-06-26 04:01:34",
+      "album": {
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 251960,
+      "name": "Between Jennings And Jones",
+      "url": "https://open.spotify.com/track/2Jq2KzxOvLrlH16hlcnm7d"
     },
     {
       "added_at": "2026-06-26 04:01:34",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
-        "name": "Fire On The Hillside",
-        "url": "https://open.spotify.com/album/3SQ6pt50V0QVZeeLZ4xpdv"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "Fire On The Hillside",
-      "url": "https://open.spotify.com/track/0uAPJlac7akHjkU4tJmacm"
-    },
-    {
-      "added_at": "2026-06-26 04:01:34",
-      "album": {
         "name": "Up To No Good",
         "url": "https://open.spotify.com/album/0kqS0orSS5DX8QseZAPAQW"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 133629,
       "name": "Up To No Good",
       "url": "https://open.spotify.com/track/1ONzSL8Plw5xoFmmDPl0zA"
+    },
+    {
+      "added_at": "2026-06-26 04:01:34",
+      "album": {
+        "name": "Fire On The Hillside",
+        "url": "https://open.spotify.com/album/3SQ6pt50V0QVZeeLZ4xpdv"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "Fire On The Hillside",
+      "url": "https://open.spotify.com/track/0uAPJlac7akHjkU4tJmacm"
     },
     {
       "added_at": "2026-06-26 04:01:34",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
-        "name": "AMERICAN MOTOR SPORTS",
-        "url": "https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz"
-      },
-      "artists": [
-        {
-          "name": "Bilmuri",
-          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
-        }
-      ],
-      "duration_ms": 164795,
-      "name": "SPINNIN' YOU AROUND",
-      "url": "https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD"
-    },
-    {
-      "added_at": "2026-06-26 04:01:34",
-      "album": {
         "name": "Living Proof (with Jelly Roll)",
         "url": "https://open.spotify.com/album/68pwsK1qpyqCrwSNy5NJF2"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 218986,
       "name": "Living Proof (with Jelly Roll)",
       "url": "https://open.spotify.com/track/08G3FAarAmXbX5szqZ3vwV"
+    },
+    {
+      "added_at": "2026-06-26 04:01:34",
+      "album": {
+        "name": "AMERICAN MOTOR SPORTS",
+        "url": "https://open.spotify.com/album/1HrM3lPorHLHWPApviVRRz"
+      },
+      "artists": [
+        {
+          "name": "Bilmuri",
+          "url": "https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89"
+        }
+      ],
+      "duration_ms": 164795,
+      "name": "SPINNIN' YOU AROUND",
+      "url": "https://open.spotify.com/track/3Kc9IdvNTmjH1fO0MFzwAD"
     },
     {
       "added_at": "2026-06-26 04:01:34",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
-        "name": "With or Without Me",
-        "url": "https://open.spotify.com/album/1tUWUYVM1TertVwChOCW7D"
-      },
-      "artists": [
-        {
-          "name": "Gannon Fremin & CCREV",
-          "url": "https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8"
-        }
-      ],
-      "duration_ms": 222294,
-      "name": "With or Without Me",
-      "url": "https://open.spotify.com/track/5FweRtm4C4IxNDFP2aHdXy"
-    },
-    {
-      "added_at": "2026-06-26 04:01:34",
-      "album": {
         "name": "Made It This Far",
         "url": "https://open.spotify.com/album/4YWnZxfLD36E9tFhAfBqzx"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 164313,
       "name": "Made It This Far",
       "url": "https://open.spotify.com/track/59CfGhdkuJ9ufOcu43Alh7"
+    },
+    {
+      "added_at": "2026-06-26 04:01:34",
+      "album": {
+        "name": "With or Without Me",
+        "url": "https://open.spotify.com/album/1tUWUYVM1TertVwChOCW7D"
+      },
+      "artists": [
+        {
+          "name": "Gannon Fremin & CCREV",
+          "url": "https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8"
+        }
+      ],
+      "duration_ms": 222294,
+      "name": "With or Without Me",
+      "url": "https://open.spotify.com/track/5FweRtm4C4IxNDFP2aHdXy"
     },
     {
       "added_at": "2026-06-26 04:01:34",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-06-26 04:01:34",
       "album": {
+        "name": "The Tenth Album (Side A)",
+        "url": "https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD"
+      },
+      "artists": [
+        {
+          "name": "Dean Brody",
+          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
+        }
+      ],
+      "duration_ms": 144790,
+      "name": "Death Of Me",
+      "url": "https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs"
+    },
+    {
+      "added_at": "2026-06-26 04:01:34",
+      "album": {
         "name": "The Better Me",
         "url": "https://open.spotify.com/album/29ryaHa8XIbX6bPJ8KmfRm"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 226048,
       "name": "Found",
       "url": "https://open.spotify.com/track/10jUv8AkCnxNcCc4NkxGu1"
-    },
-    {
-      "added_at": "2026-06-26 04:01:34",
-      "album": {
-        "name": "The Tenth Album (Side A)",
-        "url": "https://open.spotify.com/album/6hE8XsXc342nRFRc1bSKyD"
-      },
-      "artists": [
-        {
-          "name": "Dean Brody",
-          "url": "https://open.spotify.com/artist/0ryF1Gy87xVCOF0Jb666ak"
-        }
-      ],
-      "duration_ms": 144790,
-      "name": "Death Of Me",
-      "url": "https://open.spotify.com/track/0y1dRDH0ygZFRznBaJaLGs"
     },
     {
       "added_at": "2026-06-26 04:01:34",

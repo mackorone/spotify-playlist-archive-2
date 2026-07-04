@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,327 songs - 2 day 2 hr 45 min
+1,328 songs - 2 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,6 +463,7 @@
 | [Glass](https://open.spotify.com/track/2gx2bef7PMjgiygG3NXAx2) | [Prod\. By Outtake](https://open.spotify.com/artist/6NMa9jf0w0gIw0vEQyCuqc) | [Glass](https://open.spotify.com/album/49rHX7Q8M5HbqWhDtuKI24) | 2:00 | 2022-05-27 | 2023-09-22 |
 | [Glowing Lights](https://open.spotify.com/track/3KunPHIvhxrUaHny2Z1J9w) | [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX) | [3 Am\. Study Session](https://open.spotify.com/album/7rrt4vAwMsCDl5cIbn7NJA) | 2:45 | 2021-11-10 | 2022-10-15 |
 | [Gold](https://open.spotify.com/track/7IdPBPwuiemoNSbkck8rRx) | [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx), [Ezra Skys](https://open.spotify.com/artist/2Ay5ctNDFzQQz4fWV3DGMT), [soave lofi](https://open.spotify.com/artist/0QuTX3mzksvtwoQru6tiF8) | [Gold](https://open.spotify.com/album/5vvp53egItvYzHUmIyckzG) | 2:31 | 2024-06-21 | 2025-07-16 |
+| [Golden Curl](https://open.spotify.com/track/1H19PkLI4rQiTkh3eGU6Ei) | [rden.96](https://open.spotify.com/artist/7s88vlh8bM08TBlu8GgAlR) | [Golden Curl](https://open.spotify.com/album/3HcZpVdYbVD7zXQPz6wQFH) | 2:12 | 2026-07-02 |  |
 | [Golden Gardens](https://open.spotify.com/track/3k7afHN7Gc9vdIFJovkv8G) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Golden Gardens](https://open.spotify.com/album/3MnvFHRNCoyHnoagZq48qt) | 3:16 | 2021-11-10 | 2022-07-22 |
 | [Golden Hour](https://open.spotify.com/track/2JWwwEa2Hz5FxhU0XWXLLs) | [BNMO](https://open.spotify.com/artist/0K93FFKHhvSVG654YlexpR), [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d) | [Golden Hour](https://open.spotify.com/album/1xi605kHdMrLZzXZQsMdc6) | 2:18 | 2023-09-01 | 2023-11-18 |
 | [Goodbye, Winter](https://open.spotify.com/track/70pzhyvQhWMKiNWrK3GXJ2) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G), [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Goodbye, Winter](https://open.spotify.com/album/7001DpuFjPmlJE4YjewGwp) | 2:16 | 2022-05-13 | 2022-05-27 |
@@ -819,7 +820,7 @@
 | [night sky](https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [night sky](https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf) | 1:46 | 2023-09-01 |  |
 | [Night Walk](https://open.spotify.com/track/7xzikC3nNzN0NEM8M9oD8p) | [Kokomiko](https://open.spotify.com/artist/1Tl7kataLF4lZip5jfVd7D), [Kuba](https://open.spotify.com/artist/28WkyS3nwct2W3sHjPg4xo) | [Night Walk](https://open.spotify.com/album/3EC2kOMzMFAHL4TwSGIRjY) | 2:03 | 2022-04-15 | 2023-04-28 |
 | [night walk](https://open.spotify.com/track/4X9OLjeDCUTr39baLOSMlQ) | [mood.](https://open.spotify.com/artist/3fL0KDSqNCWDtbu1wfIaVo) | [night walk](https://open.spotify.com/album/6HXpBu0Dk9XuJ0zkicvFIr) | 1:48 | 2021-11-10 | 2022-08-19 |
-| [night walk](https://open.spotify.com/track/6O1vOhc580LSaIzJ9g9ttr) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [night walk](https://open.spotify.com/album/3uxYAT9KUlzz05fXFYES1g) | 2:33 | 2026-07-02 |  |
+| [night walk](https://open.spotify.com/track/6O1vOhc580LSaIzJ9g9ttr) | [sad notes](https://open.spotify.com/artist/6LlMF86oZBZG1nvkIkso0A) | [night walk](https://open.spotify.com/album/3uxYAT9KUlzz05fXFYES1g) | 2:33 | 2026-07-02 | 2026-07-04 |
 | [Nightfade](https://open.spotify.com/track/3Gv80WP1W59BKI2N9mmfG6) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Nylon](https://open.spotify.com/album/4hkOQue9O8fVariqAdrAyY) | 2:41 | 2023-02-17 | 2025-07-16 |
 | [Nightfall](https://open.spotify.com/track/1zBbaX88WI9bPXochk6Uw3) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Nightfall](https://open.spotify.com/album/1sp1kOcBZv60kZMRNmxsLJ) | 2:27 | 2022-09-02 | 2023-08-04 |
 | [nightfalling](https://open.spotify.com/track/2cQWH9iQfh0epKQa4xhd7Q) | [Lily of The Valley](https://open.spotify.com/artist/5aaaOy8v47CPgiLzGZriXH) | [nightfalling](https://open.spotify.com/album/3SWGuY3dVRctObeoEB9Y2d) | 2:10 | 2026-05-22 |  |

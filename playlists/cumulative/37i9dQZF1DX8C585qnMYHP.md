@@ -4,7 +4,7 @@
 
 > The best new music by independent Experimental artists\. <a href="spotify:artist:4bt8JAxE4tksg2VBgMCvIe">NZIRIA</a> on cover\. Artwork by Thami Nabil.
 
-2,225 songs - 7 day 4 hr 3 min
+2,231 songs - 7 day 4 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Clouded Temper \| Small Steps](https://open.spotify.com/track/3V0M0Sw0xNb6p4k8gxhAex) | [Surgeons Girl](https://open.spotify.com/artist/7CXSuH40c4n4hVbP1JDBFP) | [A Violet Sleep EP](https://open.spotify.com/album/2Sean6tGeNquVJS5jIHxMn) | 7:03 | 2020-12-03 | 2021-01-15 |
 | [Cloudmachine](https://open.spotify.com/track/30cMAIWhCQ6xH4oVDgJxbA) | [Julinko](https://open.spotify.com/artist/6lNOkTaZelvuZ4GLhtgr02) | [Naebula](https://open.spotify.com/album/4IKt9jfbLdpEFnN9Pnn8ri) | 3:32 | 2026-04-22 | 2026-05-28 |
 | [Cmad](https://open.spotify.com/track/5PuEiHEqmV72PSPxrV36He) | [Long Legged Creatures](https://open.spotify.com/artist/7gayjJRBZkCP9mxgYCyf67) | [Cmad](https://open.spotify.com/album/6EwXI5ZxoVH8KwBxuFXiC7) | 4:55 | 2024-09-11 | 2024-12-05 |
+| [Coasting](https://open.spotify.com/track/1aaB7ZOHEUm8uuPoesaUlx) | [gamut inc](https://open.spotify.com/artist/4EdVJ9U7ITPGJUmpJWbvzK) | [Radiating](https://open.spotify.com/album/2uxpG3g0dlK5tVOGGipRHE) | 3:19 | 2026-07-03 |  |
 | [Coat of Arms](https://open.spotify.com/track/4stozFL4dSnWNakPG44z8P) | [Some Exercise](https://open.spotify.com/artist/6es4qGZzFYIjk75owf8rPt) | [Coat of Arms](https://open.spotify.com/album/24HBtg1ai9EOEWlTma2Rui) | 3:02 | 2023-10-18 | 2023-11-30 |
 | [Cockpit](https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Cockpit](https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i) | 4:16 | 2024-07-17 | 2024-09-12 |
 | [Cocoon](https://open.spotify.com/track/6D4ggqizOhkUMbVVBvoHlB) | [Fight Pausa](https://open.spotify.com/artist/1BkdvKE1YNIAAWrLNzLWKU) | [Cocoon](https://open.spotify.com/album/2uwbXDzfDu2CIU4nfCklvH) | 2:49 | 2025-11-18 | 2026-04-03 |
@@ -771,6 +772,7 @@
 | [Gel & Gewalt](https://open.spotify.com/track/3fxMGtWsPlHvPlTanYlrAF) | [Kenji Araki](https://open.spotify.com/artist/19Gr6pqjMgeXgPlin5QoEi) | [Leidenzwang](https://open.spotify.com/album/4K6I05xVWVreQTMwG3oSy8) | 4:20 | 2022-06-29 | 2022-08-11 |
 | [Genesis, To Overcome \(Messiah\)](https://open.spotify.com/track/0VcypcIJ9EWwVXpoN3EIoq) | [Autarkic](https://open.spotify.com/artist/7phOvwBANyuRvVKTInnbxJ) | [The Leibowitz Files](https://open.spotify.com/album/0CzxZpspYSxj9hkSpbDB5i) | 5:06 | 2022-07-27 | 2022-09-01 |
 | [Gentle \- draag me Remix](https://open.spotify.com/track/3LQi2numktKhVzerIlY0y6) | [Disq](https://open.spotify.com/artist/5EmT8U3SucK9KYXbVEdu5K), [draag me](https://open.spotify.com/artist/3c78RGXMpRW2lwP8NQeUQ2) | [Gentle \(draag me Remix\)](https://open.spotify.com/album/3ibtnDoZvdrve6iIMFkHwN) | 2:49 | 2021-07-23 | 2021-09-29 |
+| [GET UP AND GO OUT](https://open.spotify.com/track/6rbZYE14DriaJM9fm8gLm1) | [wing!](https://open.spotify.com/artist/17zzsvpeBPUpP5XittRxEs) | [GET UP AND GO OUT](https://open.spotify.com/album/4X7sOElaeXt4kZqHeTrx4j) | 4:24 | 2026-07-03 |  |
 | [GHK](https://open.spotify.com/track/3tm8TAxIBc4mD7zvvPJP1S) | [Waon\-P](https://open.spotify.com/artist/2QYExcHuchet2ypxwArkkv) | [Air Texture VIII Anthony Naples + DJ Python](https://open.spotify.com/album/6Vj1Pi89N2wqNqHFhEw4cB) | 6:00 | 2022-06-29 | 2022-09-01 |
 | [Ghost Ryder](https://open.spotify.com/track/1fd3A5zfvQFtbQR46wa9P3) | [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [SCORPIO FALLING](https://open.spotify.com/album/24Q9MlJDWfjif0Qaos88ub) | 2:06 | 2025-09-24 | 2026-03-09 |
 | [Ghuya](https://open.spotify.com/track/1TB9uBVmmbe3p23pkWvuXe) | [Nonsensical](https://open.spotify.com/artist/46CTbZFALieRoYmA64Pn5A) | [Momentum EP](https://open.spotify.com/album/21vsrqtLuytEvZyLnUZFdw) | 4:09 | 2023-04-05 | 2023-07-19 |
@@ -1420,6 +1422,7 @@
 | [Penetración](https://open.spotify.com/track/5lx2oEML9ZXAuhAzATmHPT) | [Isabel Do Diego](https://open.spotify.com/artist/76aOiLV9GaZi0muWfIkhmZ) | [Penetración](https://open.spotify.com/album/5aF1l32Q5aeh4gZpzTTyYc) | 3:19 | 2023-04-12 | 2024-03-07 |
 | [Peronospera](https://open.spotify.com/track/20Inl2dtYzvW7PekmKHOX5) | [DDUMA](https://open.spotify.com/artist/0IpuoeEIxyOxBICJVARGzG) | [Peronospera](https://open.spotify.com/album/2QxFIXJB8u6hLTm0xauquL) | 3:03 | 2025-07-23 | 2025-11-03 |
 | [Persone Fragili](https://open.spotify.com/track/4YlUqfyJ6IasiVEZ5D4GZE) | [Dori Sorride](https://open.spotify.com/artist/6GPToISoYK67RIQxS29KfS) | [A Catturare I Raggi](https://open.spotify.com/album/7sMkpgnSLtMZE3SIa5FROR) | 4:37 | 2022-07-27 | 2022-09-01 |
+| [perspective](https://open.spotify.com/track/3aMW4lkNyt8DprkhSRPWB0) | [heartbleeder](https://open.spotify.com/artist/50ILRM1ASU9bh0NxSCiLih) | [perspective](https://open.spotify.com/album/0ocAnfYYo4xqKuzccHTd7i) | 3:06 | 2026-07-03 |  |
 | [Petals](https://open.spotify.com/track/2s8I0xkAKxruP1QxcQrAm7) | [Toumba](https://open.spotify.com/artist/2BX3Brla1PKdsoIUg0HoaF) | [Petals](https://open.spotify.com/album/2dvdzQpXvoqeh8MShZupIy) | 4:20 | 2023-02-15 | 2023-03-29 |
 | [Phantom Lung](https://open.spotify.com/track/21gatVucgMyP4RYRehVlQm) | [Asemix](https://open.spotify.com/artist/5AOXKiQd7Xt0gQl5BcW87l) | [Asemix](https://open.spotify.com/album/6hl3njylj2iP3trC0Ccx0Q) | 7:29 | 2021-07-29 | 2021-10-20 |
 | [Phare](https://open.spotify.com/track/4N92mYGzWCFp8X925TUdSI) | [Troth](https://open.spotify.com/artist/35zT3zevS4o8FiFCu1ug0r) | [Forget The Curse](https://open.spotify.com/album/1sBp31x3G9tdag3Xjmw0pa) | 6:19 | 2023-02-15 | 2023-03-29 |
@@ -1796,6 +1799,7 @@
 | [Synapse](https://open.spotify.com/track/3iQoEV281XLrAVp9mEVPmV) | [House Of Tapes](https://open.spotify.com/artist/40vP7vx1UAkMTSSGcoalPY) | [Phantom of Eden](https://open.spotify.com/album/17KovENSr872390SmpvK5l) | 5:04 | 2022-02-09 | 2022-04-07 |
 | [Synth Spirit](https://open.spotify.com/track/1NGSf4OOcZaorLoH0DVcMp) | [AshRamus](https://open.spotify.com/artist/3o6p4MvUQmLHmxtjDGvzST) | [Synth Spirit](https://open.spotify.com/album/4IP9MB3gCJKcrtayUfrECI) | 2:51 | 2023-10-04 | 2023-11-30 |
 | [Süss Choc](https://open.spotify.com/track/4Ks13JocTWUqymDUJaVHpd) | [Caldera](https://open.spotify.com/artist/4Nhu6YZ1PktzEW8MnDGI4V), [Yushh](https://open.spotify.com/artist/4XRVdIpPrTnyXwvYGv63ew) | [Süss Choc](https://open.spotify.com/album/7pUhBzOr3jnaSe7Gu3em1j) | 6:28 | 2023-03-15 | 2023-04-13 |
+| [Tabla Trouble](https://open.spotify.com/track/27RpDOjJDvKj0hxLT8WJI7) | [Yung Singh](https://open.spotify.com/artist/47lrOrvCYsOUCEQQsj119K) | [Bloom](https://open.spotify.com/album/75j4MCwiUguw0TPsAHvhXp) | 5:53 | 2026-07-03 |  |
 | [Tac Tac Tac \- Joaquín Cornejo Remix](https://open.spotify.com/track/3MAmbpBgfYnOkaw0i8IF8A) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p), [Joaquín Cornejo](https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx) | [Espuma de Mar \~ remixes](https://open.spotify.com/album/2EUVw7Ft8Fnbku8lRwiwv0) | 3:44 | 2024-03-13 | 2025-05-16 |
 | [Taivshral](https://open.spotify.com/track/0Q6JH1gDVsDRiDpES28Dqc) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Ulaan](https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat) | 3:07 | 2023-11-29 | 2025-07-31 |
 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 | 2023-06-07 | 2023-10-05 |
@@ -1822,6 +1826,7 @@
 | [Tendril](https://open.spotify.com/track/7qSTy4Qfzve3ZGAtsnWGLz) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm) | [Fountain](https://open.spotify.com/album/1wL3qXTeiRKUhEJM1tOf5q) | 4:36 | 2021-02-04 | 2021-04-15 |
 | [Tentli](https://open.spotify.com/track/7F2pSq1EgbfrTTHinZ7AXx) | [Uriel VIllalobos Alva](https://open.spotify.com/artist/7bWtjxmBs2HQH4A4iO8LmA), [Uriel Villalobos](https://open.spotify.com/artist/0xszix5WIkPOTjBrXlJQfu) | [Tentli](https://open.spotify.com/album/36w1GVfl1LF3LJdaXdV9LI) | 4:18 | 2022-11-09 | 2022-12-01 |
 | [Tenía Razón](https://open.spotify.com/track/13byK69wHdWtPt0QdgDPfw) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Tenía Razón](https://open.spotify.com/album/3PJCE4qTFbyW9XXFyR0wO9) | 2:53 | 2022-09-21 | 2022-12-01 |
+| [Terra Sigillata](https://open.spotify.com/track/4nBo834VksEonZPymzdOpb) | [Secret Bisous](https://open.spotify.com/artist/4SdvkIy4PnLyLMQLrb3QvF) | [Terra Sigillata](https://open.spotify.com/album/3GIWCJRQGMZUTvt7C4EDKh) | 3:30 | 2026-07-03 |  |
 | [Tesla Beats Exclusive](https://open.spotify.com/track/1v8UQ531InoIGcpXgqFslf) | [Raed Raees](https://open.spotify.com/artist/7CknUKzfJxqgKAI1ZPhBGk), [BABYNYMPH](https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB) | [Tesla Beats Exclusive](https://open.spotify.com/album/4M9n6ly1D7oa9zYCzT8iTN) | 2:15 | 2023-02-15 | 2023-03-29 |
 | [Tessalonica](https://open.spotify.com/track/4j4WXhP8UMeDnfN7U2TOsR) | [TETUAN](https://open.spotify.com/artist/58M2gboaUILpBh7S0tKPRq), [Laura Agnusdei](https://open.spotify.com/artist/4YifuXxngq8oFkWNWVUi7J) | [Tessalonica](https://open.spotify.com/album/0FaZwDS0LjD5lHocxuuxtW) | 4:24 | 2025-07-30 | 2026-03-21 |
 | [Testimony](https://open.spotify.com/track/0cpRnGfZlkTGYRYCDQYW0s) | [Clemency](https://open.spotify.com/artist/4yY8t7B15jpOVwF4256Ft5) | [Testimony](https://open.spotify.com/album/7dT0p08Wr5yFhQL9Rqjb59) | 5:14 | 2020-10-30\* | 2020-11-15 |
@@ -2232,6 +2237,7 @@
 | [茈](https://open.spotify.com/track/3M8rZyevOLlW8hazsAhZ1V) | [WOZNIAK](https://open.spotify.com/artist/1jrlC8PxkV1Lh1LIjPgdwj) | [茈](https://open.spotify.com/album/0hfJL5SVoz8nP7Vr1yWTkP) | 3:24 | 2024-09-11 | 2024-12-05 |
 | [記憶喪失](https://open.spotify.com/track/4WEAePpTJMIxwhiboOyOp9) | [SAI](https://open.spotify.com/artist/26CHm3gYd2zeEfTZeyZzal) | [記憶喪失](https://open.spotify.com/album/5qzHgZ7lHe3JtLHxrDbSO8) | 2:20 | 2021-05-03 | 2021-06-04 |
 | [風のように](https://open.spotify.com/track/4R6iLmupfyrt4PrvaxMifX) | [武田理沙](https://open.spotify.com/artist/6bxmnPmX3y00HkdYaJA697) | [風のように](https://open.spotify.com/album/4v1rmFqeN2zX6MEB2oJD5F) | 6:23 | 2024-05-29 | 2024-08-22 |
-| [－－ ･･－ ･－･･ － ･･ ･－－･ ･－･･ ･－ －･－－](https://open.spotify.com/track/7bL84oIvqZ0IZJ4lWacv9J) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－ ･･－ ･－･･ － ･･ ･－－･ ･－･･ ･－ －･－－](https://open.spotify.com/album/4tBwdh6WoPWNPZXddWw1y3) | 3:32 | 2026-03-06 |  |
+| [－－ ･･－ ･－･･ － ･･ ･－－･ ･－･･ ･－ －･－－](https://open.spotify.com/track/7bL84oIvqZ0IZJ4lWacv9J) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－ ･･－ ･－･･ － ･･ ･－－･ ･－･･ ･－ －･－－](https://open.spotify.com/album/4tBwdh6WoPWNPZXddWw1y3) | 3:32 | 2026-03-06 | 2026-07-04 |
+| [－－－ －･ ･－･･ －･－－](https://open.spotify.com/track/4XupTIpXQXHehljGjLkiwl) | [･ ･－･ ･－ ･･･ ･ －･･](https://open.spotify.com/artist/0EUOiLsLpv9g7H9YCzUnBS) | [－－－ －･ ･－･･ －･－－](https://open.spotify.com/album/7p8WjXvUzAa4MThnghq0bw) | 4:38 | 2026-07-03 |  |
 
 \*This playlist was first scraped on 2020-10-30. Prior content cannot be recovered.

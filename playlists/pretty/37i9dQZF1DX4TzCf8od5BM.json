@@ -1,12 +1,12 @@
 {
   "description": "Sofia the First: Royal Magic is now available to watch on Disney Jr. and Disney+!",
-  "num_followers": 60303,
+  "num_followers": 60313,
   "original_name": "Disney Junior Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEAkmGLAdMB3rkhb9+bEANjfbj1C",
+  "snapshot_id": "AAAAAPH14P26VND8ySyKRptnJ51j/0Kb",
   "tracks": [
     {
       "added_at": "2026-05-29 13:00:03",
@@ -123,6 +123,38 @@
       "duration_ms": 53568,
       "name": "Add a Little Fancy (Fancy Nancy Main Title)",
       "url": "https://open.spotify.com/track/5LSwDFDfLqpUgJtQPITfr3"
+    },
+    {
+      "added_at": "2026-07-03 13:00:34",
+      "album": {
+        "name": "Hoedown Throwdown (From \"Disney Jr. Music: Mickey Mouse Clubhouse+ - Mickey's Country Farm\")",
+        "url": "https://open.spotify.com/album/0EFhfHZEMMic4T9xZ528dk"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        },
+        {
+          "name": "Megan Hilty",
+          "url": "https://open.spotify.com/artist/7ks2IcGrojAKIxnUdkHBGk"
+        },
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        },
+        {
+          "name": "Minnie Mouse",
+          "url": "https://open.spotify.com/artist/0UOuBqKAookZ3EopZFlNL7"
+        },
+        {
+          "name": "Daisy Duck",
+          "url": "https://open.spotify.com/artist/3VR3ZcAA45yBP6dWY145bB"
+        }
+      ],
+      "duration_ms": 151607,
+      "name": "Hoedown Throwdown - From \"Disney Jr. Music: Mickey Mouse Clubhouse+ - Mickey's Country Farm\"",
+      "url": "https://open.spotify.com/track/77K012lHTUC2Lq3Fb9dW8N"
     },
     {
       "added_at": "2026-05-29 13:00:03",
@@ -2763,38 +2795,6 @@
     {
       "added_at": "2026-05-29 13:00:03",
       "album": {
-        "name": "Wind in My Hair (From \"Tangled: Before Ever After\")",
-        "url": "https://open.spotify.com/album/7oHt9z1qdgmw5oNHidfTRI"
-      },
-      "artists": [
-        {
-          "name": "Rapunzel",
-          "url": "https://open.spotify.com/artist/03VzZ67Mxp1ePKvCAMl6VS"
-        }
-      ],
-      "duration_ms": 154775,
-      "name": "Wind in My Hair - From \"Tangled: Before Ever After\"",
-      "url": "https://open.spotify.com/track/7xRIPGewMZdh63k3p6YTQi"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
-        "name": "The Lion Guard (Music from the TV Series)",
-        "url": "https://open.spotify.com/album/1gcdxovxYoZ9xJtIT72FF0"
-      },
-      "artists": [
-        {
-          "name": "Beau Black",
-          "url": "https://open.spotify.com/artist/1awJjjL5ucGBcu48LZCeco"
-        }
-      ],
-      "duration_ms": 148626,
-      "name": "Here Comes the Lion Guard",
-      "url": "https://open.spotify.com/track/00JwpdGOIcUwFsDKfQCciK"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
         "name": "Elena of Avalor (Original Soundtrack)",
         "url": "https://open.spotify.com/album/42OLLIcdDeCiLitu9o3FYw"
       },
@@ -2827,102 +2827,6 @@
       "duration_ms": 157649,
       "name": "Elena of Avalor (Main Title) / My Time Mashup - From \"Elena of Avalor\"",
       "url": "https://open.spotify.com/track/4FNoMwQTkWyVd28EimU00i"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
-        "name": "Disney Junior Music: Ready for Preschool Vol. 1",
-        "url": "https://open.spotify.com/album/7EmFGJEsdiXwYZACc5wy2o"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Goings",
-          "url": "https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN"
-        }
-      ],
-      "duration_ms": 85957,
-      "name": "Rhyme Time",
-      "url": "https://open.spotify.com/track/0AKVAACGh7TtvmUnBy5JuZ"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
-        "name": "Disney Junior Music: Ready for Preschool Vol. 2",
-        "url": "https://open.spotify.com/album/5pGWhGWIzd5AjlLDk6ZJuZ"
-      },
-      "artists": [
-        {
-          "name": "Rob Cantor",
-          "url": "https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I"
-        }
-      ],
-      "duration_ms": 85433,
-      "name": "I Brush My Teeth",
-      "url": "https://open.spotify.com/track/21CcXAr0c0aXyq7wFRhw6t"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
-        "name": "Disney Junior Music: T.O.T.S. (Vol. 1)",
-        "url": "https://open.spotify.com/album/2387gp9mfOvJPBYNqb59MG"
-      },
-      "artists": [
-        {
-          "name": "T.O.T.S. - Cast",
-          "url": "https://open.spotify.com/artist/6hShWHQzwCdaFrKl1gUBe4"
-        }
-      ],
-      "duration_ms": 72462,
-      "name": "L-O-V-E",
-      "url": "https://open.spotify.com/track/4dQqlmAhCdmRmUmcsvHPqC"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
-        "name": "Disney Junior Music: Fancy Nancy",
-        "url": "https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N"
-      },
-      "artists": [
-        {
-          "name": "Fancy Nancy - Cast",
-          "url": "https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34"
-        }
-      ],
-      "duration_ms": 59840,
-      "name": "Plain and Fancy",
-      "url": "https://open.spotify.com/track/3w92mWSiXZYfM8wyYar7m1"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
-        "name": "Mickey Mouse Clubhouse: Meeska, Mooska, Mickey Mouse",
-        "url": "https://open.spotify.com/album/5JELCeixADV7FQBTgSkqlr"
-      },
-      "artists": [
-        {
-          "name": "They Might Be Giants (For Kids)",
-          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
-        }
-      ],
-      "duration_ms": 118733,
-      "name": "Choo Choo Express",
-      "url": "https://open.spotify.com/track/1rAoksjU0W2EMPvhda7J53"
-    },
-    {
-      "added_at": "2026-05-29 13:00:03",
-      "album": {
-        "name": "Hot Dog! Dance Break 2019 (From \u201cMickey Mouse Mixed-Up Adventures\u201d)",
-        "url": "https://open.spotify.com/album/0uPKxPvPWaKl5NvXwETJFA"
-      },
-      "artists": [
-        {
-          "name": "They Might Be Giants (For Kids)",
-          "url": "https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O"
-        }
-      ],
-      "duration_ms": 83750,
-      "name": "Hot Dog! Dance Break 2019 - From \"Mickey Mouse Mixed-Up Adventures\"",
-      "url": "https://open.spotify.com/track/3496wR3HlANisZ2PnCSW7r"
     }
   ],
   "unique_name": "Disney Junior Music",

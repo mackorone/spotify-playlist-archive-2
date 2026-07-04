@@ -1,12 +1,12 @@
 {
   "description": "Dosis musical para disfrutar el momento. Foto: Danny Ocean",
-  "num_followers": 66678,
+  "num_followers": 66682,
   "original_name": "Parchadito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJMX1ygNj1qQJevYQVk4x48ThGSb",
+  "snapshot_id": "AAAAAB3NfbaVyhzpa/FZeGHMSJz7BYFD",
   "tracks": [
     {
       "added_at": "2026-06-19 04:59:02",
@@ -119,6 +119,26 @@
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
+    },
+    {
+      "added_at": "2026-07-03 04:59:23",
+      "album": {
+        "name": "ZONA SEGURA",
+        "url": "https://open.spotify.com/album/2WP6tVcj5i32vDztD0RjHG"
+      },
+      "artists": [
+        {
+          "name": "Taymez",
+          "url": "https://open.spotify.com/artist/55eWX5MpFWbC29i8BoaHDZ"
+        },
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        }
+      ],
+      "duration_ms": 143454,
+      "name": "ZONA SEGURA",
+      "url": "https://open.spotify.com/track/5zy9E1pTDyBsGDnC3fFj9E"
     },
     {
       "added_at": "2026-06-19 04:59:02",

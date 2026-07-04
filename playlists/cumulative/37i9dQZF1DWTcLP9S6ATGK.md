@@ -4,7 +4,7 @@
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Good Morning Everyone, Fiersa Besari
 
-977 songs - 2 day 15 hr 36 min
+978 songs - 2 day 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -278,7 +278,7 @@
 | [Gara Gara](https://open.spotify.com/track/7kcXgnVbzINLV01fnoai6P) | [3 Composers](https://open.spotify.com/artist/145zDAbvELoocgZ4bZrSXe) | [Gara Gara](https://open.spotify.com/album/3peFznPS4vpWZBoum5YbUE) | 3:07 | 2026-06-26 |  |
 | [Gelap Yang Terang](https://open.spotify.com/track/7fYP9QIs8W9nGIofho4U4D) | [Panji Sakti](https://open.spotify.com/artist/1zJG0BbOnVVijQXfYYibvD) | [Gelap Yang Terang](https://open.spotify.com/album/6mlkjSMKOl1q2F20fmkOPy) | 3:48 | 2025-02-20 | 2025-05-09 |
 | [Gelora Api Cinta](https://open.spotify.com/track/0YTZxhWbGXYngtEkkA2INc) | [Dian Piesesha](https://open.spotify.com/artist/1VXrpcuRNWPy5Ev4PZTKlY) | [Cinta dan Waktu](https://open.spotify.com/album/79SBy5CuVNBAYhdA3ELvRP) | 4:30 | 2024-11-22 | 2025-03-07 |
-| [Geram](https://open.spotify.com/track/4AihnQANO1NNQx3YagzToS) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Geram](https://open.spotify.com/album/1436FpDhmJzFNUTeRQtGVQ) | 4:09 | 2026-04-16 |  |
+| [Geram](https://open.spotify.com/track/4AihnQANO1NNQx3YagzToS) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Geram](https://open.spotify.com/album/1436FpDhmJzFNUTeRQtGVQ) | 4:09 | 2026-04-16 | 2026-07-04 |
 | [Gigih \- OST\. Film Keluarga Suami Adalah Hama](https://open.spotify.com/track/3LgU7PLOa5u7XAPQmSdai9) | [Xeva Al Gazel](https://open.spotify.com/artist/6eJAxZZ18R9bsueqikw05i), [Shal](https://open.spotify.com/artist/0hzuiCJBgX8VGzqF2gmAHa) | [Gigih \(OST\. Film Keluarga Suami Adalah Hama\)](https://open.spotify.com/album/6zJV6LguHMWv4krpbYyfmU) | 3:49 | 2026-04-23 | 2026-06-19 |
 | [Gila Dangdut](https://open.spotify.com/track/4mBvGFKZRYo10ff44lzhoP) | [The Virgin](https://open.spotify.com/artist/7tXc4Tew6Bnr4moD7OeBfJ) | [Gila Dangdut](https://open.spotify.com/album/4kbsfq2Ef92ZNZ74K458Pa) | 3:40 | 2026-05-21 |  |
 | [Gila Dunia Ini Bercandanya](https://open.spotify.com/track/5GVRVN0vBsdqpVDazuquaI) | [SAIVA](https://open.spotify.com/artist/21aguPG8NYw56jG3qwIQZG) | [Gila Dunia Ini Bercandanya](https://open.spotify.com/album/4xJozwYdmfpZZYM9wvDIv4) | 4:15 | 2025-07-03 | 2025-09-26 |
@@ -734,6 +734,7 @@
 | [Satu Hari Tanpa Kita](https://open.spotify.com/track/511lgmyXJ2BApxUU6mKAYd) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Satu Hari Tanpa Kita](https://open.spotify.com/album/0aJ7G5YyWHt2kWG9kOxxKZ) | 4:32 | 2025-07-17 | 2025-09-26 |
 | [Satu Langkah](https://open.spotify.com/track/44rBEhQW7SWAHVqlpIg1Ff) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Satu Langkah](https://open.spotify.com/album/1aj2lSnEfnoqWjAutYy3Tq) | 3:37 | 2025-05-01 | 2025-08-09 |
 | [Satu Mimpiku](https://open.spotify.com/track/2qdaaqZLXjPbJLj6tfQTiN) | [Anjelia Dom](https://open.spotify.com/artist/7AiZ5XZ49xLKToi5dtQ5lJ), [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp) | [Satu Mimpiku](https://open.spotify.com/album/7zQZXfqafLRyy1XQoqBS3S) | 3:12 | 2025-06-05 | 2025-11-28 |
+| [Satu\-Satunya](https://open.spotify.com/track/3rk3ToZt4Hi2kZcbwtrJCq) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Sementara, Selamanya](https://open.spotify.com/album/47wF2oUGXvb44j1Wo1aLfD) | 4:03 | 2026-07-03 |  |
 | [Say Less](https://open.spotify.com/track/1gbZdQdvmptiBWchWrMsv0) | [Cece Caramel](https://open.spotify.com/artist/1AGoLYap5zJzPMHu2lO5EY) | [Say Less](https://open.spotify.com/album/5aXu6qbQmwLFk1f8tlEfUS) | 3:09 | 2026-03-05 | 2026-05-29 |
 | [Sayang Segera Pulang](https://open.spotify.com/track/2FzAxscJuxvvHACabMnLm4) | [Langit Sore](https://open.spotify.com/artist/2p8EGJCCavN09PyTOKY9Lj), [Aesha Clara](https://open.spotify.com/artist/17JxKMTscR0CSCcRaflnvI), [GFRN](https://open.spotify.com/artist/6R8uzu1AcNhc7IgwzCqSsP) | [Sayang Segera Pulang](https://open.spotify.com/album/3Y8CQYyOORxgn035ofr9TP) | 2:38 | 2024-08-08 | 2024-10-11 |
 | [Sayap Kecil](https://open.spotify.com/track/49YghntQ4wzPSlGnciw1vq) | [Arden Wiebowo](https://open.spotify.com/artist/3NHnbJMUpUMR7L5Vji3qOn) | [Sayap Kecil](https://open.spotify.com/album/4tMZmcrkbKOBQtt9G0SwF4) | 4:44 | 2024-10-10 | 2024-11-29 |

@@ -2768,7 +2768,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 151406,
       "name": "Break This Tension",
       "url": "https://open.spotify.com/track/7iGNzOfyHhJ8HUgp5FHT1l"
@@ -6746,7 +6746,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 161250,
       "name": "Fight Machine (feat. NAIIM)",
       "url": "https://open.spotify.com/track/7oKpSQxF9V2XMsFRrQ76P9"
@@ -7078,6 +7078,24 @@
       "duration_ms": 187669,
       "name": "Free Ya",
       "url": "https://open.spotify.com/track/4wrFwrWLiTB51uBTTAEmXY"
+    },
+    {
+      "album": {
+        "name": "Frequencies",
+        "url": "https://open.spotify.com/album/3Pp8UT03E41W5JtyAzedJw"
+      },
+      "artists": [
+        {
+          "name": "CYRUS",
+          "url": "https://open.spotify.com/artist/5Xs2GcYWkOIUYMF2l19ZNq"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197985,
+      "name": "Frequencies",
+      "url": "https://open.spotify.com/track/0nZD761LAKZimzIJI9RFc9"
     },
     {
       "album": {
@@ -9032,7 +9050,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 190945,
       "name": "HOT WIFE",
       "url": "https://open.spotify.com/track/7Ehjne6Dao0AXr5D6GaHSa"
@@ -9178,7 +9196,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 155483,
       "name": "Howweroll",
       "url": "https://open.spotify.com/track/6SKKgLq9lnoDsWVBltoZ5f"
@@ -9368,6 +9386,24 @@
       "duration_ms": 249461,
       "name": "Hypnotic (feat. Kyozo)",
       "url": "https://open.spotify.com/track/1KdVxthsHJ2J2jf3EPdtVi"
+    },
+    {
+      "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/0NSeLoZHwYfMWCaEHV2BzD"
+      },
+      "artists": [
+        {
+          "name": "NUNCHUX",
+          "url": "https://open.spotify.com/artist/1QO3Nd8cDuDjcDBLu1x13a"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135952,
+      "name": "Hypnotized",
+      "url": "https://open.spotify.com/track/6onHYroGsPxpWbmtNNeTTG"
     },
     {
       "album": {
@@ -19401,6 +19437,28 @@
     },
     {
       "album": {
+        "name": "THAT BITCH",
+        "url": "https://open.spotify.com/album/40dKeA4bShMM1P1sWDobjN"
+      },
+      "artists": [
+        {
+          "name": "Lektrique",
+          "url": "https://open.spotify.com/artist/2ZZE8SPVWBysGWL1pRDHEy"
+        },
+        {
+          "name": "R.E.N",
+          "url": "https://open.spotify.com/artist/58TsAwrUciW625dXeNmRXc"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138827,
+      "name": "THAT BITCH",
+      "url": "https://open.spotify.com/track/3d7NdUFynMC18UzR0dv8GU"
+    },
+    {
+      "album": {
         "name": "That Sound (feat. Dope Earth Alien)",
         "url": "https://open.spotify.com/album/0DcVggpeCNz0CpQnK4vJgj"
       },
@@ -20680,6 +20738,28 @@
       "duration_ms": 432000,
       "name": "Up Down Jumper",
       "url": "https://open.spotify.com/track/0evYoPRWnnQ6ACNC0LJPul"
+    },
+    {
+      "album": {
+        "name": "Up The Tempo",
+        "url": "https://open.spotify.com/album/6TZ47AbAm3HpFFxi8MbRq8"
+      },
+      "artists": [
+        {
+          "name": "Titus1",
+          "url": "https://open.spotify.com/artist/4dCWLsP4fsgMjs3zcNq3TU"
+        },
+        {
+          "name": "Kontraband",
+          "url": "https://open.spotify.com/artist/0YPnPeWNWBvHrtCF6hCxcS"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173430,
+      "name": "Up The Tempo",
+      "url": "https://open.spotify.com/track/5Ge0typ7XdcWYgOjvn4m8A"
     },
     {
       "album": {

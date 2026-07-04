@@ -1,13 +1,29 @@
 {
   "description": "All live, all blues. Cover: Samantha Fish",
-  "num_followers": 204910,
+  "num_followers": 204933,
   "original_name": "Blues Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALT/F/1JGwUCOeBoYLF65rZ7r80J",
+  "snapshot_id": "AAAAAOjnD+yMIR2c6Hh0oyW0NJVDQfny",
   "tracks": [
+    {
+      "added_at": "2026-07-03 04:00:34",
+      "album": {
+        "name": "Nobody Loves Me Like You (Live at the Omeara London)",
+        "url": "https://open.spotify.com/album/2V8H60zT5RPJwuvShGmGIa"
+      },
+      "artists": [
+        {
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
+        }
+      ],
+      "duration_ms": 300599,
+      "name": "Nobody Loves Me Like You - Live at the Omeara London",
+      "url": "https://open.spotify.com/track/2TdWLZgW3BtdbIS9C8EWjB"
+    },
     {
       "added_at": "2026-01-30 05:00:37",
       "album": {
@@ -371,26 +387,6 @@
       "duration_ms": 449120,
       "name": "Just Won\u2019t Burn - Live at the Beacon Theatre / 2022",
       "url": "https://open.spotify.com/track/3wl59CVUAS8IL3FfPwfGSB"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Blues From The Heart Live (Live)",
-        "url": "https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 349573,
-      "name": "Summertime (Live)",
-      "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
     },
     {
       "added_at": "2023-02-03 05:01:00",

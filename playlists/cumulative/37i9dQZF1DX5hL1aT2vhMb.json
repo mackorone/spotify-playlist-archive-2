@@ -27,6 +27,32 @@
     },
     {
       "album": {
+        "name": "British Music for Strings, Vol. 5",
+        "url": "https://open.spotify.com/album/1BcJFpYlmNjxJ0Q0QkvpgI"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Howell",
+          "url": "https://open.spotify.com/artist/76s6KDHeBT20zvGDNVzNuK"
+        },
+        {
+          "name": "S\u00fcdwestdeutsches Kammerorchester Pforzheim",
+          "url": "https://open.spotify.com/artist/4rc1nxbzNmD80AuHQvZv9K"
+        },
+        {
+          "name": "Douglas Bostock",
+          "url": "https://open.spotify.com/artist/6FmaORLrKkv4EgbiX7eLXR"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309399,
+      "name": "2 Pieces for Muted Strings: No. 1, Nocturne. Allegretto",
+      "url": "https://open.spotify.com/track/5InyEa3WwrleGP6WMFAYhO"
+    },
+    {
+      "album": {
         "name": "24 Preludes, Op. 11: No. 11 in B Major - Allegro assai",
         "url": "https://open.spotify.com/album/1XySkB32VZYjd0Rb8KjTIs"
       },
@@ -418,6 +444,32 @@
       "duration_ms": 310413,
       "name": "Albinoni: Oboe Concerto in D Minor, Op. 9 No. 2: II. Adagio (Transcr. for Piccolo Trumpet and Baroque Orchestra by Simon Wright)",
       "url": "https://open.spotify.com/track/4eWZELYwV6R9laMmzPScA1"
+    },
+    {
+      "album": {
+        "name": "Bonis: Allegretto non troppo, Op. 84",
+        "url": "https://open.spotify.com/album/2nWKkAPPt5yQwpM01dYjkF"
+      },
+      "artists": [
+        {
+          "name": "Mel Bonis",
+          "url": "https://open.spotify.com/artist/1LauM5YBWB1nIe6KRwKNdG"
+        },
+        {
+          "name": "Elena Urioste",
+          "url": "https://open.spotify.com/artist/1PMibp1HV8tdZaib2DXOdH"
+        },
+        {
+          "name": "Tom Poster",
+          "url": "https://open.spotify.com/artist/4dL1DCP6U0O89sIQc5hUHV"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158266,
+      "name": "Allegretto non troppo, Op. 84",
+      "url": "https://open.spotify.com/track/7JECSKMUh4E11yFl3Lr3q1"
     },
     {
       "album": {
@@ -4070,6 +4122,24 @@
       "duration_ms": 369360,
       "name": "Serenade in D Major: II. Scherzo. Allegro vivace - Allegro molto",
       "url": "https://open.spotify.com/track/1UtAlIatgUY1BNMRXT2pks"
+    },
+    {
+      "album": {
+        "name": "Shine You No More (Arr. Parkin)",
+        "url": "https://open.spotify.com/album/7srH6rea2OtI3ALZjmSIbf"
+      },
+      "artists": [
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226413,
+      "name": "Shine You No More (Arr. Parkin)",
+      "url": "https://open.spotify.com/track/0obbLgyzQyzpNkoVTzFgNU"
     },
     {
       "album": {

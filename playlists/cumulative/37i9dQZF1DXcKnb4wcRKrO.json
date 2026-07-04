@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Afternoon",
+        "url": "https://open.spotify.com/album/1KE0kARXiJ0f0JUvkdkH7l"
+      },
+      "artists": [
+        {
+          "name": "Triple Notice",
+          "url": "https://open.spotify.com/artist/5COnDTR85vmKxA3DHbJ3Rv"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135849,
+      "name": "Afternoon",
+      "url": "https://open.spotify.com/track/1Kwv3ZEXoyOiy0RcEajVtI"
+    },
+    {
+      "album": {
         "name": "Aishiteru",
         "url": "https://open.spotify.com/album/2nXIJK982tSqSTg5JZYdu9"
       },
@@ -266,7 +284,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 143275,
       "name": "As If",
       "url": "https://open.spotify.com/track/3QiPB7sjCdwBFbI24ewr5s"
@@ -386,7 +404,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 143347,
       "name": "Beauty In Imperfection",
       "url": "https://open.spotify.com/track/3n3QkTkGqcVM0qHCNFKUAw"
@@ -462,7 +480,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 165517,
       "name": "Beyond Jazz",
       "url": "https://open.spotify.com/track/3g9mEIJmCysi8XzRAdjcTu"
@@ -527,6 +545,32 @@
     },
     {
       "album": {
+        "name": "Boca do Rio",
+        "url": "https://open.spotify.com/album/0MedwaHRHuOb1awcvpMLbe"
+      },
+      "artists": [
+        {
+          "name": "Erwo",
+          "url": "https://open.spotify.com/artist/5mVyynSAENFM48yJi70Fsq"
+        },
+        {
+          "name": "philocalie",
+          "url": "https://open.spotify.com/artist/2xSEBQojyWTfoZ637ZjiZm"
+        },
+        {
+          "name": "Lennex",
+          "url": "https://open.spotify.com/artist/2eu54IIOLXr91ZaCG05vJK"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120495,
+      "name": "Boca do Rio",
+      "url": "https://open.spotify.com/track/1ekxla19aYS9T3nF4ioGou"
+    },
+    {
+      "album": {
         "name": "Boulangerie",
         "url": "https://open.spotify.com/album/59Pz1L0gL30rltM1EiQo1S"
       },
@@ -553,6 +597,24 @@
     },
     {
       "album": {
+        "name": "bouquet",
+        "url": "https://open.spotify.com/album/2xpqWNcIrz2L3kMCCAIMdV"
+      },
+      "artists": [
+        {
+          "name": "MAC MAY",
+          "url": "https://open.spotify.com/artist/3UrJQ0mp4sFhOzqC1GKjti"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137894,
+      "name": "bouquet",
+      "url": "https://open.spotify.com/track/3RlRe3DiT55TiWG71EcBJa"
+    },
+    {
+      "album": {
         "name": "Jazz Dance",
         "url": "https://open.spotify.com/album/2Oeil5d7b7EV2bzUJYYCgF"
       },
@@ -564,7 +626,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 183652,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/76FMB6uZRjaIFpDetn3oha"
@@ -951,6 +1013,32 @@
     },
     {
       "album": {
+        "name": "concord",
+        "url": "https://open.spotify.com/album/791rejuyzwpFD1oUKgS0Oj"
+      },
+      "artists": [
+        {
+          "name": "the wine is ok",
+          "url": "https://open.spotify.com/artist/5Ojm75z0EwHqk2e4W90bak"
+        },
+        {
+          "name": "Gaston",
+          "url": "https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr"
+        },
+        {
+          "name": "Jordan Burnett",
+          "url": "https://open.spotify.com/artist/6imbNsJzMgJ3fNSnqKSu7e"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181710,
+      "name": "concord",
+      "url": "https://open.spotify.com/track/5KRyZUBbRwMjEeT3A3ROZh"
+    },
+    {
+      "album": {
         "name": "Cool Heat",
         "url": "https://open.spotify.com/album/0CT03mD0cj9N8q0uEGgeCI"
       },
@@ -1154,7 +1242,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 136000,
       "name": "Dimmed Lights",
       "url": "https://open.spotify.com/track/2W95IQmxs3PBkHJgXcM7AI"
@@ -1180,6 +1268,24 @@
       "duration_ms": 154576,
       "name": "DIVINE",
       "url": "https://open.spotify.com/track/5TIaas9eCLlkV1zjqdNwN8"
+    },
+    {
+      "album": {
+        "name": "Do You Even Care",
+        "url": "https://open.spotify.com/album/3nfOw9MOY1kfuc0PeANjoI"
+      },
+      "artists": [
+        {
+          "name": "gabriel",
+          "url": "https://open.spotify.com/artist/0Hm7cDeuRoPAqqRfnHYpu2"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115183,
+      "name": "Do You Even Care",
+      "url": "https://open.spotify.com/track/1jPnxZYyIilNP8GzPqPnHM"
     },
     {
       "album": {
@@ -1364,7 +1470,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 132816,
       "name": "Energy",
       "url": "https://open.spotify.com/track/7mlUXgeLNbqTB2qRzBNeJp"
@@ -1632,7 +1738,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 149590,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1DDbGjCrqbLoaFPrTj0gAS"
@@ -1708,7 +1814,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 168000,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/3gAHCl8RdLe68oZgv45xbY"
@@ -1806,6 +1912,24 @@
       "duration_ms": 130580,
       "name": "Gone",
       "url": "https://open.spotify.com/track/2IqmeyoyM1Do3tm5amPBQU"
+    },
+    {
+      "album": {
+        "name": "Good Vibes",
+        "url": "https://open.spotify.com/album/4CWgflM8veQWc8T1pbhBq0"
+      },
+      "artists": [
+        {
+          "name": "Hausward",
+          "url": "https://open.spotify.com/artist/23v5l9Xt9MklrDy9475aW0"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163048,
+      "name": "Good Vibes",
+      "url": "https://open.spotify.com/track/2uTfCcoIeFJMgw9tYjPGUg"
     },
     {
       "album": {
@@ -2399,6 +2523,24 @@
     },
     {
       "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/212DIANsjr72ca0cctb8kR"
+      },
+      "artists": [
+        {
+          "name": "Bliques",
+          "url": "https://open.spotify.com/artist/5HGkz2qKMEMXyL34ngcrGq"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139801,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/54z9WnBPJSfWtgFNNHsTB4"
+    },
+    {
+      "album": {
         "name": "Low Light Service",
         "url": "https://open.spotify.com/album/6q7xHlohvGvjIK6oU9ORv3"
       },
@@ -2504,6 +2646,28 @@
       "duration_ms": 149508,
       "name": "Meanwhile 2AM",
       "url": "https://open.spotify.com/track/287Ot460eVvSzycavOSqNw"
+    },
+    {
+      "album": {
+        "name": "Medina",
+        "url": "https://open.spotify.com/album/44Fjv8vcZNDzkR7NdTe7nh"
+      },
+      "artists": [
+        {
+          "name": "house red",
+          "url": "https://open.spotify.com/artist/6SheSUxv8x6bB5Dn8lIWlp"
+        },
+        {
+          "name": "muscato",
+          "url": "https://open.spotify.com/artist/1F6tBDXjLyv3jmoonckbvR"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183206,
+      "name": "Medina",
+      "url": "https://open.spotify.com/track/0RBj69Adc3P2CzJkV5Z5Nn"
     },
     {
       "album": {
@@ -2686,6 +2850,24 @@
       "duration_ms": 146804,
       "name": "Morning Walls",
       "url": "https://open.spotify.com/track/4zHfsSdbQxnlwX2JImul7U"
+    },
+    {
+      "album": {
+        "name": "Motif",
+        "url": "https://open.spotify.com/album/5jHfgFALKihhGHRAMXMqDP"
+      },
+      "artists": [
+        {
+          "name": "Skylume",
+          "url": "https://open.spotify.com/artist/5ziyzSB8oVGmN8DOiW5BPW"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131882,
+      "name": "Motif",
+      "url": "https://open.spotify.com/track/6VuQ4SvUX9CM7S4Nc02a0S"
     },
     {
       "album": {
@@ -2912,7 +3094,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 149217,
       "name": "Noir",
       "url": "https://open.spotify.com/track/2TFSp4GiFir4rWOJhN7yuU"
@@ -3238,7 +3420,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 137362,
       "name": "pinot noir",
       "url": "https://open.spotify.com/track/7quKy7lopBm3VTCjYTmUvK"
@@ -3264,7 +3446,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 122347,
       "name": "please hold",
       "url": "https://open.spotify.com/track/21mIgzDEPx1du5sWpWCrtN"
@@ -3618,7 +3800,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 156982,
       "name": "she loves jazz",
       "url": "https://open.spotify.com/track/6OwJpp1cHkaq9j6v3wqYCp"
@@ -3662,7 +3844,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 230758,
       "name": "Sleeping Norboo - Moods Remix",
       "url": "https://open.spotify.com/track/3Fgpy0rBMZNP4vvJM4ZYEs"
@@ -3822,7 +4004,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 177049,
       "name": "Solf\u00e9rino",
       "url": "https://open.spotify.com/track/40TUBTCP5yIDzwQAsQqxq4"
@@ -3992,7 +4174,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 168113,
       "name": "Stencils",
       "url": "https://open.spotify.com/track/463Lbeh622AWB00MTqxcZs"
@@ -4317,6 +4499,24 @@
     },
     {
       "album": {
+        "name": "Tumble",
+        "url": "https://open.spotify.com/album/4FCb7IFcBUvsMdvLZwu7mP"
+      },
+      "artists": [
+        {
+          "name": "Henrik Vale",
+          "url": "https://open.spotify.com/artist/7Jb3U8fHBZgAjhYfvhzNPU"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Tumble",
+      "url": "https://open.spotify.com/track/1IhUCBUtsyNQ46Gd6jE3WE"
+    },
+    {
+      "album": {
         "name": "Turquoise",
         "url": "https://open.spotify.com/album/1OAA2a1kmc4eRzxY17FvvM"
       },
@@ -4458,6 +4658,24 @@
       "duration_ms": 196601,
       "name": "Velvety",
       "url": "https://open.spotify.com/track/4duiRZYrTr4oqINndygEv8"
+    },
+    {
+      "album": {
+        "name": "Violet",
+        "url": "https://open.spotify.com/album/2hJzQsxUIpL4juFCbqU1sN"
+      },
+      "artists": [
+        {
+          "name": "Astraley",
+          "url": "https://open.spotify.com/artist/2nBlMka4XkNYVqTmazHwpI"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118235,
+      "name": "Violet",
+      "url": "https://open.spotify.com/track/6XTaHGzwO2RJ3LTR9YRLb6"
     },
     {
       "album": {
@@ -4638,7 +4856,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 160000,
       "name": "Wind",
       "url": "https://open.spotify.com/track/1N9LqPAyzDNi4mQaoMOLNf"

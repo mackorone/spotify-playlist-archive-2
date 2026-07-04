@@ -4,7 +4,7 @@
 
 > 신나는 트로트 멜로디를 즐겨보세요! \(커버: 손태진\)<br/>Let's party with cheerful Korean trot medley.
 
-1,104 songs - 2 day 15 hr 10 min
+1,105 songs - 2 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [No\. No.](https://open.spotify.com/track/1l0EyIx2pWlJejdzX9pwee) | [Park Kwang Hyun](https://open.spotify.com/artist/6DJASsWTgPlD8VIY2AtIr5) | [Music Source of Mr\. Trot3 Preliminary Match Best PART2](https://open.spotify.com/album/7BdjjF2NXAZ0XMrRNtwGGz) | 3:22 | 2025-02-11 | 2025-06-27 |
 | [Non, Je Ne Regrette Rien](https://open.spotify.com/track/36OIjIK9H11ah60x2U23eP) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Bongsungah school PART13](https://open.spotify.com/album/0ELT34v0t3dM1JrCuwK3d2) | 2:28 | 2022-04-22 |  |
 | [Nostalgia \(guitar by Ham Chun Ho\)](https://open.spotify.com/track/0LxAh1jzHt7nOhQa6RgcD6) | [Cho Youngnam](https://open.spotify.com/artist/2buYSyVLRSRpDtKB0JzWiR), [Song Changsik](https://open.spotify.com/artist/5UwskDVGUqto8Ce11hMZvB), [Kim Sehwan](https://open.spotify.com/artist/2uXOiRKJZUpiaUFFxUycWv), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART15](https://open.spotify.com/album/06ONAyDAqBtnpcx8hWSkHt) | 4:25 | 2022-04-22 |  |
+| [Not a flower \[Jilgyeong\-i\]](https://open.spotify.com/track/1y82vMbcvrOkKLkt5uBwpV) | [Song Ga In](https://open.spotify.com/artist/5t5zmsIdTDRqDeI17tilpd) | [Not a flower \[Jilgyeong\-i\]](https://open.spotify.com/album/7nXaAr2Mo2rS8sxqAEQ3ys) | 3:33 | 2026-07-03 |  |
 | [Not anyone can love](https://open.spotify.com/track/7guX7wWoaOr10upuUBxKF4) | [TAE JIN A](https://open.spotify.com/artist/7Hm7HaPth1NwFOU9BJXbhG), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Love call center premium](https://open.spotify.com/album/0Xn5gjlbJrqc9NjPb3VCB4) | 3:09 | 2022-04-07 | 2022-07-09 |
 | [Now](https://open.spotify.com/track/6gOe05PT9c5ZXL1C2jhtEC) | [A joint Team \(Entering 30s\)](https://open.spotify.com/artist/0hkJOCIPIy9ha1KIcenyj5) | [MISS TROT2 Team Mission BEST](https://open.spotify.com/album/2boKluSGypyQmx614Xktvj) | 4:05 | 2022-05-03 | 2022-07-28 |
 | [Oh my](https://open.spotify.com/track/2PWRydDRMhbuMYQeW1yY3E) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki), [Lim Do Hyung](https://open.spotify.com/artist/01IMroZZ4i6caycqnYaY0B) | [Love call center PART23](https://open.spotify.com/album/5YIfFi4cR1FIkrFWiu6Ot1) | 3:12 | 2022-04-22 | 2022-05-19 |

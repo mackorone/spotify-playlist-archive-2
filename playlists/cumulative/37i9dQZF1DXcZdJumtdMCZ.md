@@ -2,7 +2,7 @@
 
 ### [RAP 91 Tamil](https://open.spotify.com/playlist/37i9dQZF1DXcZdJumtdMCZ)
 
-> Best of Tamil Hip\-Hop!<br/>Cover : Asal Kolaar
+> Best of Tamil Hip\-Hop!<br/>Cover : Ofro and Vaasi
 
 348 songs - 18 hr 15 min
 

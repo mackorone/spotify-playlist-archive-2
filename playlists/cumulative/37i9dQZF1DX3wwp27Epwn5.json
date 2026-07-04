@@ -128,10 +128,40 @@
       ],
       "date_added": "2025-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-05",
+      "date_removed": null,
       "duration_ms": 279659,
       "name": "Aaya Re Toofan (From \"Chhaava\")",
       "url": "https://open.spotify.com/track/1E4eyxteUpXpwThyARHrVJ"
+    },
+    {
+      "album": {
+        "name": "Alpha",
+        "url": "https://open.spotify.com/album/5IoNBfhKWaH7YGhvxAPFpJ"
+      },
+      "artists": [
+        {
+          "name": "Rohansh & Abeer",
+          "url": "https://open.spotify.com/artist/29chcgLzEwBHYK7Jtuol4q"
+        },
+        {
+          "name": "Rohansh Pandit",
+          "url": "https://open.spotify.com/artist/6iNqU9VWAjoLk2TjLzJ8Uy"
+        },
+        {
+          "name": "Abeer Pandit",
+          "url": "https://open.spotify.com/artist/1ozk9HrVfLsGEyTdyOohaz"
+        },
+        {
+          "name": "RANJ",
+          "url": "https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183443,
+      "name": "Agni",
+      "url": "https://open.spotify.com/track/1PuntS0egNsYIXQDtNCOfD"
     },
     {
       "album": {
@@ -440,7 +470,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-24",
+      "date_removed": null,
       "duration_ms": 241304,
       "name": "Bhaag D.K. Bose, Aandhi Aayi",
       "url": "https://open.spotify.com/track/1sxh0eqIb8ulYypPuq6ZRu"
@@ -518,7 +548,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 207692,
       "name": "Bom Diggy",
       "url": "https://open.spotify.com/track/0O7jVsX1Sp98fV3802ccjY"
@@ -588,7 +618,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-17",
+      "date_removed": null,
       "duration_ms": 353669,
       "name": "Brothers Anthem",
       "url": "https://open.spotify.com/track/3uZiNvBNQldjl4OJiKsuxe"
@@ -1068,11 +1098,23 @@
         {
           "name": "Ikka",
           "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Shabbir Ahmed",
+          "url": "https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1"
+        },
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
         }
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 184432,
       "name": "Dilbar",
       "url": "https://open.spotify.com/track/0Ms1V2flsPzr2bVqImelCB"
@@ -1396,7 +1438,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-31",
+      "date_removed": null,
       "duration_ms": 209393,
       "name": "Hauli Hauli (From \"De De Pyaar De\")",
       "url": "https://open.spotify.com/track/60XrRbNjDMAGUZ2xLkU9W3"
@@ -1444,7 +1486,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-10",
+      "date_removed": null,
       "duration_ms": 179099,
       "name": "High Rated Gabru",
       "url": "https://open.spotify.com/track/4dJWik0ax9bRFXl0HqbFjT"
@@ -1654,7 +1696,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-25",
+      "date_removed": null,
       "duration_ms": 230557,
       "name": "Jai Jai Shivshankar (From \"War\")",
       "url": "https://open.spotify.com/track/6lfSsCL894Qw15xbt7cSUy"
@@ -1724,7 +1766,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-01",
+      "date_removed": null,
       "duration_ms": 188102,
       "name": "Jawan Title Track",
       "url": "https://open.spotify.com/track/0lZhDg6xVjHLwL5zYd6nkL"
@@ -1836,7 +1878,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-09",
+      "date_removed": null,
       "duration_ms": 251640,
       "name": "Kamariya",
       "url": "https://open.spotify.com/track/5HJvDTnAaDWqhsE841I1QR"
@@ -1892,7 +1934,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-25",
+      "date_removed": null,
       "duration_ms": 312157,
       "name": "Kar Har Maidaan Fateh",
       "url": "https://open.spotify.com/track/7gZwhDmzciskHbZemjf931"
@@ -1910,11 +1952,15 @@
         {
           "name": "Neeti Mohan",
           "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+        },
+        {
+          "name": "Rajat Nagpal",
+          "url": "https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB"
         }
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 183373,
       "name": "Kaun Nachdi",
       "url": "https://open.spotify.com/track/7r8QeC6Uy3AbIXqH7W9y0K"
@@ -2000,7 +2046,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-15",
+      "date_removed": null,
       "duration_ms": 248034,
       "name": "Kissik (From \"Pushpa 2 The Rule\") [HINDI]",
       "url": "https://open.spotify.com/track/3E2alxlOoe5EURfec217Uu"
@@ -2078,7 +2124,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-06",
+      "date_removed": null,
       "duration_ms": 375706,
       "name": "Lakshya",
       "url": "https://open.spotify.com/track/7o1yzUVkQt2Gto5yYvzo2T"
@@ -2224,7 +2270,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-28",
+      "date_removed": null,
       "duration_ms": 258785,
       "name": "Maay Bhavani (From \"Tanhaji - The Unsung Warrior\")",
       "url": "https://open.spotify.com/track/4kBlS162jP01b4uFMbGx3A"
@@ -2422,7 +2468,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 199584,
       "name": "Mera Wala Dance (From \"Simmba\")",
       "url": "https://open.spotify.com/track/2WDNxbQejWu16O44FcMEFM"
@@ -2506,7 +2552,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 198025,
       "name": "Morni Banke",
       "url": "https://open.spotify.com/track/5XxzNB2CnNrySvyVLwyobq"
@@ -2677,6 +2723,36 @@
     },
     {
       "album": {
+        "name": "Nachan Nu Jee Karda (From \"Angrezi Medium\")",
+        "url": "https://open.spotify.com/album/0GrVV09R7votIjQBpBLwLC"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Tigerstyle",
+          "url": "https://open.spotify.com/artist/5DPXmKUA7F5ZKDNww9jWIS"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167946,
+      "name": "Nachan Nu Jee Karda (From \"Angrezi Medium\")",
+      "url": "https://open.spotify.com/track/2zQeAeH3q0K7U2AWEcVOsF"
+    },
+    {
+      "album": {
         "name": "Nadiyon Paar (Let the Music Play Again) [From \"Roohi\"]",
         "url": "https://open.spotify.com/album/2O5eyYEtqdbdixyQxDzCxi"
       },
@@ -2700,7 +2776,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 164045,
       "name": "Nadiyon Paar (Let the Music Play Again) (From \"Roohi\")",
       "url": "https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt"
@@ -2730,7 +2806,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-02",
+      "date_removed": null,
       "duration_ms": 222738,
       "name": "Nain Matakka - From \"Baby John\"",
       "url": "https://open.spotify.com/track/2We0kZg7AZaIMsrBkqp2SI"
@@ -2756,7 +2832,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 261558,
       "name": "O Gujariya",
       "url": "https://open.spotify.com/track/22EimU5vjrNYV9A3aIGqso"
@@ -2850,7 +2926,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-23",
+      "date_removed": null,
       "duration_ms": 195397,
       "name": "Odhani (From \"Made in China\")",
       "url": "https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD"
@@ -3022,7 +3098,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-18",
+      "date_removed": null,
       "duration_ms": 216300,
       "name": "Raaj Karega Maalik (From \"Maalik\")",
       "url": "https://open.spotify.com/track/3Beoodh5jmfEnPiJAXNlFo"
@@ -3254,7 +3330,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 226615,
       "name": "Sawan Mein Lag Gayi Aag",
       "url": "https://open.spotify.com/track/6oloWgrErtc8dG2WiV55gn"
@@ -3324,6 +3400,32 @@
       "duration_ms": 220738,
       "name": "Singham Again Title Track (From \"Singham Again\")",
       "url": "https://open.spotify.com/track/5a72qQj4KnwUTSI5LVAPVE"
+    },
+    {
+      "album": {
+        "name": "Slow Motion (From \"Bharat\")",
+        "url": "https://open.spotify.com/album/4diGvPbCRRQDh3VQMY88Iz"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247247,
+      "name": "Slow Motion (From \"Bharat\")",
+      "url": "https://open.spotify.com/track/7yEuRloGyxyu1KaWBTPP1Z"
     },
     {
       "album": {
@@ -3702,7 +3804,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-22",
+      "date_removed": null,
       "duration_ms": 215483,
       "name": "Urvashi",
       "url": "https://open.spotify.com/track/342pJxy678kgQrZXCL9RG7"

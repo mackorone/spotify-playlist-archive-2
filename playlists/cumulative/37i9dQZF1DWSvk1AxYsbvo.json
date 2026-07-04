@@ -200,7 +200,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 207000,
       "name": "After the rain",
       "url": "https://open.spotify.com/track/0iHSBbDOd5JnwLu1o0y1u4"
@@ -352,6 +352,28 @@
       "duration_ms": 203866,
       "name": "All My Love - Korean Ver.",
       "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
+    },
+    {
+      "album": {
+        "name": "Almost",
+        "url": "https://open.spotify.com/album/4XtWsRvS6odiRbtS9VJpra"
+      },
+      "artists": [
+        {
+          "name": "Norwegian Wood",
+          "url": "https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3"
+        },
+        {
+          "name": "Yooin",
+          "url": "https://open.spotify.com/artist/5xS0mno5CiTJzrdEROGsCn"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178999,
+      "name": "Almost",
+      "url": "https://open.spotify.com/track/0e8IPLkIQkk5uBfQB4T4UO"
     },
     {
       "album": {
@@ -1718,7 +1740,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 184050,
       "name": "GREEN",
       "url": "https://open.spotify.com/track/4GcEkKSyXhdJiUAAtRRQBu"
@@ -2302,6 +2324,24 @@
       "duration_ms": 193000,
       "name": "It\u2032s You",
       "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
+    },
+    {
+      "album": {
+        "name": "Ivy",
+        "url": "https://open.spotify.com/album/2SWsW9JZ3fHmfpifUP6kDL"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275373,
+      "name": "Ivy",
+      "url": "https://open.spotify.com/track/6wAJpkOPk0mZRCsue9W6X1"
     },
     {
       "album": {
@@ -4182,7 +4222,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 186155,
       "name": "summerless",
       "url": "https://open.spotify.com/track/5mK4gz7F6zRv0cJP4HlWRl"
@@ -4258,7 +4298,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 195013,
       "name": "Sweet Lullaby",
       "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"

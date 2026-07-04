@@ -14704,6 +14704,28 @@
     {
       "album": {
         "name": "Heavenly",
+        "url": "https://open.spotify.com/album/4IfsNTaCXQos0Ht5FjSx3J"
+      },
+      "artists": [
+        {
+          "name": "Black Circle",
+          "url": "https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M"
+        },
+        {
+          "name": "Mojave Grey",
+          "url": "https://open.spotify.com/artist/4RHpnWpQb7IkQLmp10YKRI"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205526,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/3wQ0Yr35FL0m37QEhpmat0"
+    },
+    {
+      "album": {
+        "name": "Heavenly",
         "url": "https://open.spotify.com/album/07qnXHRVgmay6OySA2IvAD"
       },
       "artists": [

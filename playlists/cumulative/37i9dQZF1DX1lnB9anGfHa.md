@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-322 songs - 21 hr 50 min
+323 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Patterns](https://open.spotify.com/track/7hP1frR53QoyVsDnlypOdm) | [Just Bee](https://open.spotify.com/artist/1bd502sofLQ6fHDPnU5JPx), [David Boring](https://open.spotify.com/artist/3jlBKVMzOyLuwLWxkkiwKj) | [Patterns](https://open.spotify.com/album/5VF24DhApN026eJJMMWrW6) | 3:51 | 2023-11-22 | 2024-03-07 |
 | [Penance](https://open.spotify.com/track/5KhXlSbrNF3MgP4SkzgDL7) | [Cruel Diagonals](https://open.spotify.com/artist/0C7jgMYmKXPmy5bHH5ebEN) | [Fractured Whole](https://open.spotify.com/album/4LLeRNBrcuwxj6QrhMmQ0K) | 5:22 | 2023-03-28 | 2024-05-19 |
 | [Penarabadan](https://open.spotify.com/track/0E1bAb4uZ97SRmOBCQnx7m) | [KUNTARI](https://open.spotify.com/artist/5qK8WYVzvkaBcoe4CDfuyY) | [Penarabadan](https://open.spotify.com/album/0yDvQFvxAZj9JXmfvHsi1b) | 3:53 | 2023-09-21 | 2025-03-08 |
+| [Piazza Centrale](https://open.spotify.com/track/5o7L3qD86zgexWUSbshUed) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [La Maccaia](https://open.spotify.com/album/4atG7yAO3KzgNissARQQM4) | 3:38 | 2026-07-03 |  |
 | [Pillar](https://open.spotify.com/track/4c0OdyBHSCqfs0tv4HdaKs) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [Pillar / New Sun](https://open.spotify.com/album/2RqvxTcNYJdxiHtwULBXPg) | 9:45 | 2020-10-20 | 2024-04-19 |
 | [Pillar](https://open.spotify.com/track/6vloZ2bNS9EnmOBTu3xksl) | [２８１４](https://open.spotify.com/artist/2wBpW4bAGYVe0yJcBeCTyd) | [Pillar / New Sun](https://open.spotify.com/album/2Ij95MZMwYFLiGUI0xhIZS) | 9:45 | 2020-10-20 | 2023-02-02 |
 | [Pillow Fight at Sandwich Bay](https://open.spotify.com/track/33KypzTjc6TL2jPTkxXDU8) | [Ciro Vitiello](https://open.spotify.com/artist/750ohCN5oKj9vhLdfTYX7s), [CRÆBABE](https://open.spotify.com/artist/6QD8kdNaNHM4dXu03a9zUo) | [Pillow Fight At Sandwich Bay](https://open.spotify.com/album/5FVE08vFPuatuXZmgfZH7r) | 2:25 | 2024-02-13 | 2024-03-23 |
@@ -293,7 +294,7 @@
 | [Unknown Tokyo](https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Unknown Tokyo](https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh) | 4:05 | 2022-02-18 | 2026-07-03 |
 | [Unworthy Praise](https://open.spotify.com/track/1ILeR76sajhQsCN8KdoWQw) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx) | [Unworthy Praise](https://open.spotify.com/album/1Nub6Wwu3Fr1c5sC2YUndT) | 3:32 | 2024-08-23 | 2024-12-14 |
 | [V](https://open.spotify.com/track/3Sk8oGy02QK1eZ52A2BYyI) | [Of The Muses](https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch) | [V](https://open.spotify.com/album/6I2ZYYta7J2bTkh1UMe8zm) | 8:46 | 2023-10-10 | 2024-01-22 |
-| [Vajranala](https://open.spotify.com/track/0262OfotysNpIAs6R1meEI) | [Senyawa](https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ) | [Vajranala](https://open.spotify.com/album/7iIu8O2ueBqIuhWDKQorYO) | 8:42 | 2024-02-29 |  |
+| [Vajranala](https://open.spotify.com/track/0262OfotysNpIAs6R1meEI) | [Senyawa](https://open.spotify.com/artist/0F0QctWhGzgl1Ih560JzWJ) | [Vajranala](https://open.spotify.com/album/7iIu8O2ueBqIuhWDKQorYO) | 8:42 | 2024-02-29 | 2026-07-04 |
 | [Venus](https://open.spotify.com/track/1U7J6OLQ04AGWgGtj4U9ph) | [Millie Turner](https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD) | [Venus](https://open.spotify.com/album/1qyW4qDLsCmI8Vj8BY4bu3) | 3:42 | 2024-02-02 | 2024-11-22 |
 | [Viconian Cycles](https://open.spotify.com/track/7iFWNZWamXLZBtQjCV07AO) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx), [Sin Maldita](https://open.spotify.com/artist/1HkwulQDUEiddSaIqlWTFJ) | [Accela](https://open.spotify.com/album/36RmzcuTO4QTi7FaKW4QtX) | 3:19 | 2023-10-25 |  |
 | [Vizio](https://open.spotify.com/track/3obbCnT8ZoQBfJBMyrLoEW) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [Lytos](https://open.spotify.com/artist/4D6SZOeCXxbUpnJyxQfufX) | [VIZIO](https://open.spotify.com/album/0hUuaQgTtfn8UdUDSzXPAQ) | 3:53 | 2022-09-02 | 2022-11-26 |

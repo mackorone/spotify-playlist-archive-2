@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: KAIA",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: John Roa, Dash Calzado",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -1074,7 +1074,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 221500,
       "name": "Antipara",
       "url": "https://open.spotify.com/track/1IB4iOHvUzpfRKGiPyATde"
@@ -1438,7 +1438,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 218863,
       "name": "AYOS",
       "url": "https://open.spotify.com/track/68dmr672B6cZq1LXrhFToX"
@@ -1920,7 +1920,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 178225,
       "name": "Batang Ina",
       "url": "https://open.spotify.com/track/02seytlmOquWNejh1njGy9"
@@ -3693,6 +3693,28 @@
     },
     {
       "album": {
+        "name": "Dun Ka Na",
+        "url": "https://open.spotify.com/album/256bni8wpTNegtFKPCrMUe"
+      },
+      "artists": [
+        {
+          "name": "John Roa",
+          "url": "https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y"
+        },
+        {
+          "name": "Dash Calzado",
+          "url": "https://open.spotify.com/artist/3CsvOKrHAkWV1ABxia2kJW"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Dun Ka Na",
+      "url": "https://open.spotify.com/track/49EciH2ERqVPlBmXpg6y2o"
+    },
+    {
+      "album": {
         "name": "Simula at Wakas",
         "url": "https://open.spotify.com/album/04tWizEPzUimMQaZKdZwzJ"
       },
@@ -4008,7 +4030,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 150381,
       "name": "FACE CARD",
       "url": "https://open.spotify.com/track/0fE8rVTWeUG86ch2VTEVkP"
@@ -4150,6 +4172,24 @@
       "duration_ms": 204000,
       "name": "Find Another Love",
       "url": "https://open.spotify.com/track/4t8bCIdlwY7Qdp2gqY4MtD"
+    },
+    {
+      "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/6djgr7KlFFIKZ6Oy3g7YvZ"
+      },
+      "artists": [
+        {
+          "name": "Kasane",
+          "url": "https://open.spotify.com/artist/58GgU26kgH6KBhDx8pT3PO"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237966,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/0nlszapPcBiTBrl1CM7MAJ"
     },
     {
       "album": {
@@ -5506,7 +5546,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 242777,
       "name": "Hinga",
       "url": "https://open.spotify.com/track/3kyCL9iWjdYDhkEQboYeJN"
@@ -7668,7 +7708,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 238500,
       "name": "Kung Kailangan Mo Ako",
       "url": "https://open.spotify.com/track/3Z8mJqJl2f85fer0YXvQbh"
@@ -7798,7 +7838,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 183024,
       "name": "Kupido",
       "url": "https://open.spotify.com/track/2ORqUATcWTPab0J6a0cEya"
@@ -14059,6 +14099,46 @@
     },
     {
       "album": {
+        "name": "I'm Okay (Deluxe)",
+        "url": "https://open.spotify.com/album/75PaR3zGJnWznnTqnF1KWy"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        },
+        {
+          "name": "Parokya Ni Edgar",
+          "url": "https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247611,
+      "name": "San Ka Na (feat. Parokya Ni Edgar)",
+      "url": "https://open.spotify.com/track/0Smt6A0cK41SSCdsOCaZv9"
+    },
+    {
+      "album": {
+        "name": "Sana",
+        "url": "https://open.spotify.com/album/4wo4Ajr7uuyqBBI8p2f2fL"
+      },
+      "artists": [
+        {
+          "name": "Letter Day Story",
+          "url": "https://open.spotify.com/artist/2DQsTcDI6YQaIKgY1FjH1M"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206805,
+      "name": "Sana",
+      "url": "https://open.spotify.com/track/0UIeyQRmzp9O7Q9IX9drEV"
+    },
+    {
+      "album": {
         "name": "Sana",
         "url": "https://open.spotify.com/album/4AOvZVCcgB0C78K7lOPRrl"
       },
@@ -14442,6 +14522,28 @@
       "duration_ms": 201728,
       "name": "sayo lang",
       "url": "https://open.spotify.com/track/589sRoAc07OF2Xdx1ANFl1"
+    },
+    {
+      "album": {
+        "name": "Sayong Sayo",
+        "url": "https://open.spotify.com/album/5NWfYxfjEXgQLzYIVnmK0C"
+      },
+      "artists": [
+        {
+          "name": "Daniel Paringit",
+          "url": "https://open.spotify.com/artist/2mpQg7knqekGlqdFzmyZqZ"
+        },
+        {
+          "name": "Project: Romeo",
+          "url": "https://open.spotify.com/artist/3Y4E0sWmWrd7930e3F3I55"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260571,
+      "name": "Sayong Sayo",
+      "url": "https://open.spotify.com/track/7Lwo3zXi4pJChA7DtGQH6B"
     },
     {
       "album": {
@@ -15031,6 +15133,24 @@
     },
     {
       "album": {
+        "name": "someday,",
+        "url": "https://open.spotify.com/album/5JKo4CCFrJNpD8kT6aUwUP"
+      },
+      "artists": [
+        {
+          "name": "Fly Mama!",
+          "url": "https://open.spotify.com/artist/79bsx38e5AAvAb8d0FEuQK"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339862,
+      "name": "someday,",
+      "url": "https://open.spotify.com/track/4nmV9f2eC3r60bnAAE3nZZ"
+    },
+    {
+      "album": {
         "name": "Sori",
         "url": "https://open.spotify.com/album/1wiC2nEgJOw7RCT0v5G22i"
       },
@@ -15172,6 +15292,28 @@
       "duration_ms": 207857,
       "name": "Sticking Around",
       "url": "https://open.spotify.com/track/3rZmlXwviLbmsic2ehhMHM"
+    },
+    {
+      "album": {
+        "name": "Still Missing",
+        "url": "https://open.spotify.com/album/5iGyj9JYGlEPC8rroZvKY7"
+      },
+      "artists": [
+        {
+          "name": "Kai Buizon",
+          "url": "https://open.spotify.com/artist/5E0ONvPoq9Y6C6BI0uz430"
+        },
+        {
+          "name": "crwn",
+          "url": "https://open.spotify.com/artist/6Z7JSzWmroQi34J1yz833c"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "Still Missing",
+      "url": "https://open.spotify.com/track/1kYQKiIcKlb50gdGV0bQgI"
     },
     {
       "album": {
@@ -16282,7 +16424,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 270720,
       "name": "Tayo Na, Dali!",
       "url": "https://open.spotify.com/track/6C0a6xiNq9LNUQpQJfLbgn"
@@ -17183,6 +17325,36 @@
     },
     {
       "album": {
+        "name": "ULAP",
+        "url": "https://open.spotify.com/album/3u4bBpOV8OOSCAcZhcgP6c"
+      },
+      "artists": [
+        {
+          "name": "Jrldm",
+          "url": "https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB"
+        },
+        {
+          "name": "Guddhist Gunatita",
+          "url": "https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL"
+        },
+        {
+          "name": "Alisson Shore",
+          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
+        },
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290249,
+      "name": "ULAP",
+      "url": "https://open.spotify.com/track/0eS0KVhvXkklVVzdhmOrHp"
+    },
+    {
+      "album": {
         "name": "Umaaligid",
         "url": "https://open.spotify.com/album/40dRtBQzDiou9BAZMOqFGd"
       },
@@ -17408,6 +17580,24 @@
       "duration_ms": 299459,
       "name": "Uwi Ka Na (Sa Akin)",
       "url": "https://open.spotify.com/track/6UrifhMFxklwSPuHSZF0BO"
+    },
+    {
+      "album": {
+        "name": "Uwi Na Tayo",
+        "url": "https://open.spotify.com/album/5YO1rEBrMEu5xMg6fQNPdS"
+      },
+      "artists": [
+        {
+          "name": "Amiel Sol",
+          "url": "https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300400,
+      "name": "Uwi Na Tayo",
+      "url": "https://open.spotify.com/track/3gDAJkljWl6C30fw4vfS1E"
     },
     {
       "album": {
@@ -18068,7 +18258,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 135246,
       "name": "Young Stunna",
       "url": "https://open.spotify.com/track/277r2K987DGP10pPO7U1Er"

@@ -1693,6 +1693,28 @@
     },
     {
       "album": {
+        "name": "Gnossienne No. 1",
+        "url": "https://open.spotify.com/album/7Hdearqe2iK3RoOoXoN202"
+      },
+      "artists": [
+        {
+          "name": "Laudinum",
+          "url": "https://open.spotify.com/artist/39GaDG2pFTiWqsBeWyl47q"
+        },
+        {
+          "name": "Oliver Patrice Weder",
+          "url": "https://open.spotify.com/artist/0InzETPzx4u2fVgldqQOcd"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176880,
+      "name": "Gnossienne No. 1",
+      "url": "https://open.spotify.com/track/0ynuGyHWvy8DXz6ODjvM9G"
+    },
+    {
+      "album": {
         "name": "Inspiration",
         "url": "https://open.spotify.com/album/5n2aAsMFp4NhWn64pCGCtK"
       },

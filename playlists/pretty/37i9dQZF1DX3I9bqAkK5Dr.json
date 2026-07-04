@@ -1,12 +1,12 @@
 {
   "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Anirudh Ravichander",
-  "num_followers": 44433,
+  "num_followers": 44446,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAqzbLolTJih6m1ikk4aY5K6fZi6",
+  "snapshot_id": "AAAAAOfGKtBsi8ikyQRfmy4oFS1VE6RA",
   "tracks": [
     {
       "added_at": "2026-07-01 06:10:30",
@@ -143,6 +143,26 @@
       "duration_ms": 165227,
       "name": "Naa Valla Kaademo",
       "url": "https://open.spotify.com/track/4xtn0WiAAMmuzvoKN52Uwd"
+    },
+    {
+      "added_at": "2026-07-03 09:04:25",
+      "album": {
+        "name": "Ishq Edo Maayale (Rewind)",
+        "url": "https://open.spotify.com/album/3gjWW6yZNom1Neq1J9H3JO"
+      },
+      "artists": [
+        {
+          "name": "Avishek Majumder",
+          "url": "https://open.spotify.com/artist/2zw5aIyhFyxnCoU5rVpbeO"
+        },
+        {
+          "name": "Arpita Mukherjee",
+          "url": "https://open.spotify.com/artist/5ncTuEg7Nr4mL0SqlXLy8P"
+        }
+      ],
+      "duration_ms": 199821,
+      "name": "Ishq Edo Maayale (Rewind)",
+      "url": "https://open.spotify.com/track/7qOIRBJ80YxMjtS38n1Bgx"
     },
     {
       "added_at": "2026-06-19 05:43:05",
@@ -1295,30 +1315,6 @@
       "duration_ms": 308000,
       "name": "Naa Rakshasi",
       "url": "https://open.spotify.com/track/5Edz52y2OPRDfuukFNiZXx"
-    },
-    {
-      "added_at": "2026-01-02 09:49:41",
-      "album": {
-        "name": "Pichi Pichi",
-        "url": "https://open.spotify.com/album/2HMNk2L48fFRMbMHXXypYd"
-      },
-      "artists": [
-        {
-          "name": "Durga Prasad Mittireddi",
-          "url": "https://open.spotify.com/artist/5lAeMjuerzOFy6h8LXZ74o"
-        },
-        {
-          "name": "Lakshmi Meghana",
-          "url": "https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN"
-        },
-        {
-          "name": "Nimshi Zacchaeus",
-          "url": "https://open.spotify.com/artist/0YQIokZUhvSY7WtIDgTrcz"
-        }
-      ],
-      "duration_ms": 220153,
-      "name": "Pichi Pichi",
-      "url": "https://open.spotify.com/track/2vXAuKhjRYyUl7iutWOT6O"
     },
     {
       "added_at": "2026-02-14 00:30:30",

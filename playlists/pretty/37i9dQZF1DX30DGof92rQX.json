@@ -1,29 +1,13 @@
 {
   "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Asim Azhar",
-  "num_followers": 19635,
+  "num_followers": 19696,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADAQ6oGqH5a65d6iTIi7yc46MY9a",
+  "snapshot_id": "AAAAACUMGIKasSOfXIBDLplgOskN6U/s",
   "tracks": [
-    {
-      "added_at": "2026-06-12 04:01:24",
-      "album": {
-        "name": "Guzaarishein (Piano Version)",
-        "url": "https://open.spotify.com/album/0vKubTLDJglB9UwVbH1ZEL"
-      },
-      "artists": [
-        {
-          "name": "Samar Jafri",
-          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
-        }
-      ],
-      "duration_ms": 108169,
-      "name": "Guzaarishein - Piano Version",
-      "url": "https://open.spotify.com/track/2KTQJBI3bslOKFuTypl1JI"
-    },
     {
       "added_at": "2026-06-11 11:23:53",
       "album": {
@@ -39,6 +23,70 @@
       "duration_ms": 149599,
       "name": "Tu Hai Wohi",
       "url": "https://open.spotify.com/track/3hrvVVBKL6jfpqGzR2WSlH"
+    },
+    {
+      "added_at": "2026-07-03 04:01:27",
+      "album": {
+        "name": "Judai",
+        "url": "https://open.spotify.com/album/2ktS1jruDiSf9eBF7snNWz"
+      },
+      "artists": [
+        {
+          "name": "Saad Hassan",
+          "url": "https://open.spotify.com/artist/3mHp9Ih5L1ramMAddBND3T"
+        }
+      ],
+      "duration_ms": 173684,
+      "name": "Judai",
+      "url": "https://open.spotify.com/track/0dIc1TF9GOxbtZtl1lmr5c"
+    },
+    {
+      "added_at": "2026-07-03 04:01:27",
+      "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/4GZxnXeQbB84bZsl04jH8y"
+      },
+      "artists": [
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        }
+      ],
+      "duration_ms": 126593,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/65ARiqajzzTBPc2QPR1QtA"
+    },
+    {
+      "added_at": "2026-07-03 04:01:27",
+      "album": {
+        "name": "Bhuldi Nai",
+        "url": "https://open.spotify.com/album/4mNFfTIpRWz2BvpS61hd79"
+      },
+      "artists": [
+        {
+          "name": "Saad Sultan",
+          "url": "https://open.spotify.com/artist/1OBBbn5fM7Lj0zhlChlgi3"
+        }
+      ],
+      "duration_ms": 205048,
+      "name": "Bhuldi Nai",
+      "url": "https://open.spotify.com/track/1Xw6qI3zzbu1tkyTcsrNdQ"
+    },
+    {
+      "added_at": "2026-06-12 04:01:24",
+      "album": {
+        "name": "Guzaarishein (Piano Version)",
+        "url": "https://open.spotify.com/album/0vKubTLDJglB9UwVbH1ZEL"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "duration_ms": 108169,
+      "name": "Guzaarishein - Piano Version",
+      "url": "https://open.spotify.com/track/2KTQJBI3bslOKFuTypl1JI"
     },
     {
       "added_at": "2026-06-19 04:01:13",

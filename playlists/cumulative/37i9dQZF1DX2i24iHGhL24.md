@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Mikayla Geier
 
-472 songs - 1 day 3 hr 7 min
+473 songs - 1 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [drivers license \- Spotify Singles](https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Spotify Singles](https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9) | 4:22 | 2022-09-22 |  |
 | [Dynamite \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/2kWMnHc8iORF5b8BctKxpU) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Dynamite \(from "Emily in Paris" Soundtrack\)](https://open.spotify.com/album/2XEBvWxf5c5LQwAJTINM7Q) | 2:02 | 2022-01-14 | 2023-10-17 |
 | [Elliot's Song](https://open.spotify.com/track/0ZpMlIPfnFzVn3qVNeMMev) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Elliot's Song](https://open.spotify.com/album/3rCeLP9YZJ8UXvbrS3EMyy) | 2:33 | 2022-07-29 | 2022-12-30 |
+| [End Of Beginning](https://open.spotify.com/track/46UeEKObJ4Et3ZRFDc4dNl) | [December 10](https://open.spotify.com/artist/3QvfzWcCo67s7bhOYEz5Tr) | [End Of Beginning](https://open.spotify.com/album/4L3Xa9Lk16N9Nu0E37TewI) | 3:27 | 2026-07-03 |  |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/3lAzdfubFCfgrmSPUWBh4b) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Everybody Wants To Rule The World](https://open.spotify.com/album/4vNTnk9ZwBi2zIJlAiOYms) | 2:47 | 2021-12-17 | 2023-10-17 |
 | [everything i wanted](https://open.spotify.com/track/3kHPYnFzwQCPF7RaJs8Ezv) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Covers](https://open.spotify.com/album/56I8Oktz4fuZ58HYg1sXAe) | 4:34 | 2021-12-17 | 2023-10-17 |
 | [Everything I Wanted](https://open.spotify.com/track/0fWp96wvMSJRyz1gKY0GQD) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [Everything I Wanted](https://open.spotify.com/album/34RAxbFdvO9mbNWnj3r10E) | 4:08 | 2023-01-12 | 2023-12-02 |
@@ -423,7 +424,7 @@
 | [Tim McGraw \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:10 | 2021-12-17 | 2022-12-30 |
 | [Time After Time \- From The McDonald’s Christmas Advert 2021](https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Time After Time \(From The McDonald’s Christmas Advert 2021\)](https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm) | 2:43 | 2021-12-17 | 2023-10-17 |
 | [Time After Time \- Spotify Singles](https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Time After Time \(Spotify Singles\)](https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop) | 3:39 | 2023-10-16 |  |
-| [Time to Pretend \- Spotify Singles](https://open.spotify.com/track/2fyn9gJRCGG6o2u3EIGBjg) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Time to Pretend \(Spotify Singles\)](https://open.spotify.com/album/1WNVeIIhcUl4dU2TerEdz7) | 4:03 | 2024-05-20 |  |
+| [Time to Pretend \- Spotify Singles](https://open.spotify.com/track/2fyn9gJRCGG6o2u3EIGBjg) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Time to Pretend \(Spotify Singles\)](https://open.spotify.com/album/1WNVeIIhcUl4dU2TerEdz7) | 4:03 | 2024-05-20 | 2026-07-04 |
 | [Titanium](https://open.spotify.com/track/0knwYd0kPonZMwaNWLLudK) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:47 | 2022-07-08 | 2022-10-29 |
 | [Titanium](https://open.spotify.com/track/7vEX2DuGfeyH2RRV3XZdHJ) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [New Acoustic Sessions, Vol\. 4](https://open.spotify.com/album/6olVyDyIS9W67adbR23ypX) | 3:47 | 2022-03-25 | 2022-07-29 |
 | [Too Funky](https://open.spotify.com/track/6DGujQojYKebtgnq9SGT0B) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb), [808 BEACH](https://open.spotify.com/artist/7LiLZltLf7oBTbpxJYd0gH) | [Red Hot + Free: Mixtape](https://open.spotify.com/album/1NoGWWVyxGoKfTKAhLc3Xz) | 3:45 | 2024-06-19 | 2025-03-01 |

@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 170859,
       "name": "Boston",
       "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
@@ -3423,6 +3423,24 @@
     },
     {
       "album": {
+        "name": "Forever Right Now",
+        "url": "https://open.spotify.com/album/5ALkxykxvvDD3oB2OUQvYp"
+      },
+      "artists": [
+        {
+          "name": "JERUB",
+          "url": "https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152064,
+      "name": "Forever Right Now",
+      "url": "https://open.spotify.com/track/0pjTGFaKhQ7X5JEp1YbN28"
+    },
+    {
+      "album": {
         "name": "Franklin House",
         "url": "https://open.spotify.com/album/7FvCQcq1nnenLdOl6xolpU"
       },
@@ -3782,6 +3800,24 @@
       "duration_ms": 169641,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/28vZIcjA9gDI7BYZnwDzNm"
+    },
+    {
+      "album": {
+        "name": "Is This Heaven? (Extended)",
+        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169121,
+      "name": "Good At Leaving",
+      "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
     },
     {
       "album": {
@@ -4434,7 +4470,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 124661,
       "name": "hideaway",
       "url": "https://open.spotify.com/track/5mfEcAbAcufmTpMQJrq6K5"
@@ -5656,7 +5692,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 237744,
       "name": "labour",
       "url": "https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG"
@@ -5804,7 +5840,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 149835,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/1bkKjMzqeMG3knxBhDaKc0"
@@ -8907,6 +8943,24 @@
     },
     {
       "album": {
+        "name": "Take A Drink",
+        "url": "https://open.spotify.com/album/7jMnT6irYdrAb1APfm2LcN"
+      },
+      "artists": [
+        {
+          "name": "Abigail Osborn",
+          "url": "https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177695,
+      "name": "Take A Drink",
+      "url": "https://open.spotify.com/track/2rclzl0GGH1bDM3pP34NWm"
+    },
+    {
+      "album": {
         "name": "Take a trip",
         "url": "https://open.spotify.com/album/0K6gjjwKxkwlwBWHOfYxMB"
       },
@@ -10596,7 +10650,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 251784,
       "name": "Wherever I Go",
       "url": "https://open.spotify.com/track/4ahVNbbhPycMPbW5ZMNuCo"
@@ -10716,7 +10770,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 157207,
       "name": "Why Wouldn't We",
       "url": "https://open.spotify.com/track/1dBVto20nOkaZpazejlChu"

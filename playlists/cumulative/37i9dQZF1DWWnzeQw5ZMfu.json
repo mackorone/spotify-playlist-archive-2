@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Gracie Abrams",
+  "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Justin Bieber",
   "name": "Pop Live",
   "tracks": [
     {
@@ -358,7 +358,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 225047,
       "name": "Before You Go - Live from Brixton Academy, London, 2019",
       "url": "https://open.spotify.com/track/0ORxaRgjYlOosxtMIg63CW"
@@ -1798,6 +1798,24 @@
       "duration_ms": 289200,
       "name": "How Am I Supposed To Live Without You - Bolton Live! Royal Albert Hall, London",
       "url": "https://open.spotify.com/track/6gwepzUdnGY46ZWtQ4iayD"
+    },
+    {
+      "album": {
+        "name": "Zara Larsson - Spotify Live Room",
+        "url": "https://open.spotify.com/album/5SZW71fufjCWXvTRiAn2ae"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132166,
+      "name": "How Deep Is Your Love (Live) - Spotify Live Room",
+      "url": "https://open.spotify.com/track/2yI5b5B4pwmahsOMGTgua1"
     },
     {
       "album": {
@@ -3687,6 +3705,24 @@
     },
     {
       "album": {
+        "name": "SWAG LIVE FROM COACHELLA (Weekend II)",
+        "url": "https://open.spotify.com/album/4Wa07ZTBEshnd57JomGmij"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210373,
+      "name": "SPEED DEMON",
+      "url": "https://open.spotify.com/track/5ct38jIA1t8lDvrj8Oy2xY"
+    },
+    {
+      "album": {
         "name": "SWAG LIVE FROM COACHELLA (Weekend I)",
         "url": "https://open.spotify.com/album/3oPUIxsRBq2riLShD6V2m8"
       },
@@ -3698,7 +3734,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 211546,
       "name": "SPEED DEMON",
       "url": "https://open.spotify.com/track/47qjplCUKeyBeAe4nVKhEi"
@@ -3774,6 +3810,24 @@
       "duration_ms": 245944,
       "name": "Stars - Live at Sydney Opera House",
       "url": "https://open.spotify.com/track/6geJhBG56BPyH1tG9FvFoO"
+    },
+    {
+      "album": {
+        "name": "Live From North America",
+        "url": "https://open.spotify.com/album/7v4G4vrrNLWnUkn3S52Xe0"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205242,
+      "name": "Stay Love - From Red Rocks, Morrison, CO",
+      "url": "https://open.spotify.com/track/5TzisIulDANkCs0wSoGTQV"
     },
     {
       "album": {
@@ -4322,7 +4376,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 357760,
       "name": "Viva Forever - Live In Manchester, UK / 1998",
       "url": "https://open.spotify.com/track/22p96UmEjgBGkoxQb505jS"
@@ -4600,6 +4654,28 @@
       "duration_ms": 251378,
       "name": "Woman Like Me (feat. Ms Banks) - Live from the BRITs 2019",
       "url": "https://open.spotify.com/track/1uPPsGRjwqyWGTZ7TDy674"
+    },
+    {
+      "album": {
+        "name": "Friends From Your Hometown",
+        "url": "https://open.spotify.com/album/4xyhhzhRAm1u4lstjybyWk"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207133,
+      "name": "Wouldn't Change A Thing (feat. Demi Lovato) - Live",
+      "url": "https://open.spotify.com/track/0cmHsoZnUcbIfaEnLjqnlP"
     },
     {
       "album": {

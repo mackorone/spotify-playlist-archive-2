@@ -114615,6 +114615,24 @@
     },
     {
       "album": {
+        "name": "Uendelig Solskin",
+        "url": "https://open.spotify.com/album/6qmTfYnTeX1ZFVLT5N0nLJ"
+      },
+      "artists": [
+        {
+          "name": "Milbo",
+          "url": "https://open.spotify.com/artist/7hdXOb76rDsDAe3ZdDstT3"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152820,
+      "name": "Link up",
+      "url": "https://open.spotify.com/track/02mgnJbKfPDvgZI2G1QSSD"
+    },
+    {
+      "album": {
         "name": "Link Up (feat. Balken)",
         "url": "https://open.spotify.com/album/0qjHmH51NBXYzUThpE5XDM"
       },
@@ -118608,6 +118626,24 @@
       "duration_ms": 176887,
       "name": "Love Letter",
       "url": "https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa"
+    },
+    {
+      "album": {
+        "name": "Love Like A Hobby",
+        "url": "https://open.spotify.com/album/4FhYzCXg5OeNGBT0NvjVvg"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222614,
+      "name": "Love Like A Hobby",
+      "url": "https://open.spotify.com/track/3Ce2UwnIE9clxZp94hkAGp"
     },
     {
       "album": {
@@ -157114,6 +157150,28 @@
     {
       "album": {
         "name": "Rich",
+        "url": "https://open.spotify.com/album/3tikyoZV9znFY04kRm68Ho"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        },
+        {
+          "name": "Betty Michaels",
+          "url": "https://open.spotify.com/artist/1BhnNe00irqmdbyijyTZMk"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205046,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/3XEXlFmBu3JOUe9VMK0zh7"
+    },
+    {
+      "album": {
+        "name": "Rich",
         "url": "https://open.spotify.com/album/6lwxh0r3dmw2mQ5LBH4UOG"
       },
       "artists": [
@@ -173416,6 +173474,24 @@
       "duration_ms": 134769,
       "name": "Sommervejr",
       "url": "https://open.spotify.com/track/2UHTQ0ocyjr0JsNzbOXt0g"
+    },
+    {
+      "album": {
+        "name": "Segundo Acto: \u00bfPor Qu\u00e9 No Sales?",
+        "url": "https://open.spotify.com/album/0kjGO3TVRvfsNglZfJyUG1"
+      },
+      "artists": [
+        {
+          "name": "Torreblanca",
+          "url": "https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Somos Tan Peque\u00f1os",
+      "url": "https://open.spotify.com/track/3abLps0dV4fNkE6OHkpADs"
     },
     {
       "album": {
@@ -195625,42 +195701,6 @@
     },
     {
       "album": {
-        "name": "Segundo Acto: \u00bfPor Qu\u00e9 No Sales?",
-        "url": "https://open.spotify.com/album/0kjGO3TVRvfsNglZfJyUG1"
-      },
-      "artists": [
-        {
-          "name": "Torreblanca",
-          "url": "https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE"
-        }
-      ],
-      "date_added": "2026-07-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3abLps0dV4fNkE6OHkpADs"
-    },
-    {
-      "album": {
-        "name": "Uendelig Solskin",
-        "url": "https://open.spotify.com/album/6qmTfYnTeX1ZFVLT5N0nLJ"
-      },
-      "artists": [
-        {
-          "name": "Milbo",
-          "url": "https://open.spotify.com/artist/7hdXOb76rDsDAe3ZdDstT3"
-        }
-      ],
-      "date_added": "2026-07-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/02mgnJbKfPDvgZI2G1QSSD"
-    },
-    {
-      "album": {
         "name": "d.a.t.a.d.e.a.t.h.",
         "url": "https://open.spotify.com/album/4enVd9gDj0jRvGRZvyWjhd"
       },
@@ -216460,6 +216500,24 @@
       "duration_ms": 165096,
       "name": "Yourself",
       "url": "https://open.spotify.com/track/4GhSPHwC6Ye5Vns747Gk4p"
+    },
+    {
+      "album": {
+        "name": "YOUtopia",
+        "url": "https://open.spotify.com/album/4KHPTZ0Cad5ZJvZW614XUe"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150150,
+      "name": "YOUtopia",
+      "url": "https://open.spotify.com/track/35NaaOPzsTWOWM47PzRuaY"
     },
     {
       "album": {

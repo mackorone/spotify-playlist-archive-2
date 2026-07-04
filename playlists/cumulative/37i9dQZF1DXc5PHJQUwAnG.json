@@ -5860,7 +5860,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 190331,
       "name": "LaPOBREbanda",
       "url": "https://open.spotify.com/track/4o4XnIFMS3IOuvqgj0sScp"
@@ -6780,6 +6780,28 @@
       "duration_ms": 183512,
       "name": "Mill\u00f3n",
       "url": "https://open.spotify.com/track/64WAtGEW18TZJypuDepkxe"
+    },
+    {
+      "album": {
+        "name": "MILQUI",
+        "url": "https://open.spotify.com/album/4JSnCP9LANDZ7Dl1b2shQs"
+      },
+      "artists": [
+        {
+          "name": "Arturo Challa",
+          "url": "https://open.spotify.com/artist/5hbTewixuDJk5PGugClaj6"
+        },
+        {
+          "name": "Luuke",
+          "url": "https://open.spotify.com/artist/6Rgm8uFOZpS6FnnAm9DJfn"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122800,
+      "name": "MILQUI",
+      "url": "https://open.spotify.com/track/3PIKqHTqTOQ5OeSoTIOjOd"
     },
     {
       "album": {
@@ -8023,6 +8045,28 @@
     },
     {
       "album": {
+        "name": "CR\u00d3NICAS DEL CHUGG",
+        "url": "https://open.spotify.com/album/0wNdLM5y0xrP23AZJR9Vx6"
+      },
+      "artists": [
+        {
+          "name": "Onemillionkisses",
+          "url": "https://open.spotify.com/artist/6VFfbiFmNQ9pmbUxHL7F1c"
+        },
+        {
+          "name": "Freddy Moreno",
+          "url": "https://open.spotify.com/artist/2kLRl0AbP8D7Fqyohb0Shf"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159666,
+      "name": "P R I A N",
+      "url": "https://open.spotify.com/track/01CZeMZBYSSV5Hw0CCZbtm"
+    },
+    {
+      "album": {
         "name": "Ni\u00f1a Buena",
         "url": "https://open.spotify.com/album/1kmpefOeR8l3dasGIUbIgd"
       },
@@ -8942,7 +8986,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 144000,
       "name": "Rapido",
       "url": "https://open.spotify.com/track/4MkxPCtJaX27e29hUu19dl"
@@ -9240,7 +9284,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 116571,
       "name": "RG$",
       "url": "https://open.spotify.com/track/7hLxuI59D033g3XTETWobD"
@@ -9934,7 +9978,7 @@
           "url": "https://open.spotify.com/artist/3Zaq4wjYJCghs8zn0CXYeo"
         },
         {
-          "name": "Toni lozano",
+          "name": "Toni Lozano",
           "url": "https://open.spotify.com/artist/0pGjSJa0SsDl3XGOd50cTX"
         }
       ],
@@ -10208,6 +10252,24 @@
       "duration_ms": 172248,
       "name": "Tiempos de Guerra",
       "url": "https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4"
+    },
+    {
+      "album": {
+        "name": "Tiene Que Ser Amor",
+        "url": "https://open.spotify.com/album/2lbDjXEBtfrcoKg9GLSWpu"
+      },
+      "artists": [
+        {
+          "name": "Coko Yamasaki",
+          "url": "https://open.spotify.com/artist/1txbs9MMkT4FszkaA96atm"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163053,
+      "name": "Tiene Que Ser Amor",
+      "url": "https://open.spotify.com/track/2B3l5EZKW4OkFtBG5f4tyB"
     },
     {
       "album": {
@@ -11438,7 +11500,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 186000,
-      "name": "ZUMBANDO",
+      "name": "Zumbando",
       "url": "https://open.spotify.com/track/0eyQrJBitRm6DZfdQ7Ssnc"
     },
     {

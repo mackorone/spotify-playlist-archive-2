@@ -1,12 +1,12 @@
 {
   "description": "Driving songs acoustic style! Sit back and enjoy the ride!",
-  "num_followers": 8630,
+  "num_followers": 8627,
   "original_name": "Acoustic Driving Songs",
   "owner": {
     "name": "Matt Johnson",
     "url": "https://open.spotify.com/user/117687144"
   },
-  "snapshot_id": "AAAGI6yzRjj9BMUns9/Z54lOuRqcXFr8",
+  "snapshot_id": "AAAGJ2WGFCeFwkQkwzoQwYyPzbtuzr8J",
   "tracks": [
     {
       "added_at": "2025-02-09 18:37:35",
@@ -737,6 +737,22 @@
       "url": "https://open.spotify.com/track/1EvKNWy03koO00YezaSYLv"
     },
     {
+      "added_at": "2026-07-03 19:08:39",
+      "album": {
+        "name": "Right Here Waiting",
+        "url": "https://open.spotify.com/album/6iXzacQMaLGrYFEEblyH6N"
+      },
+      "artists": [
+        {
+          "name": "Mysha Didi",
+          "url": "https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI"
+        }
+      ],
+      "duration_ms": 183407,
+      "name": "Right Here Waiting",
+      "url": "https://open.spotify.com/track/1l3FgHdJMLD9cJuJe3ICP7"
+    },
+    {
       "added_at": "2025-02-09 18:37:35",
       "album": {
         "name": "Issues (Acoustic)",
@@ -935,22 +951,6 @@
       "duration_ms": 167000,
       "name": "Lovely Day - Acoustic Live Session",
       "url": "https://open.spotify.com/track/01pPSz0tquPLuIze7UHjsd"
-    },
-    {
-      "added_at": "2025-09-27 18:25:43",
-      "album": {
-        "name": "Man I Need",
-        "url": "https://open.spotify.com/album/1jzpZY2NUWuPT4yghLAe3k"
-      },
-      "artists": [
-        {
-          "name": "Mateo Oxley",
-          "url": "https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r"
-        }
-      ],
-      "duration_ms": 182428,
-      "name": "Man I Need",
-      "url": "https://open.spotify.com/track/3LLjSgVjQ6XPeE6b6yC7Jq"
     },
     {
       "added_at": "2025-02-09 18:37:35",
@@ -2075,26 +2075,6 @@
     {
       "added_at": "2025-02-09 18:37:35",
       "album": {
-        "name": "I Can See Clearly Now (Acoustic)",
-        "url": "https://open.spotify.com/album/5FE5FwlNEBA9pTjWbezsJO"
-      },
-      "artists": [
-        {
-          "name": "Callum J Wright",
-          "url": "https://open.spotify.com/artist/47KiS7rrEXolpFicX0aTGe"
-        },
-        {
-          "name": "Mysha Didi",
-          "url": "https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI"
-        }
-      ],
-      "duration_ms": 146021,
-      "name": "I Can See Clearly Now - Acoustic",
-      "url": "https://open.spotify.com/track/2txpvBA1zpZAfWS5AUZYLR"
-    },
-    {
-      "added_at": "2025-02-09 18:37:35",
-      "album": {
         "name": "All I Want",
         "url": "https://open.spotify.com/album/2CCjWEsPiaGoFrlTJUruCc"
       },
@@ -2111,22 +2091,6 @@
       "duration_ms": 217415,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/10MfRY0BlY64cFKsmNWbzw"
-    },
-    {
-      "added_at": "2025-02-09 18:37:35",
-      "album": {
-        "name": "All I Have to Do Is Dream (Acoustic)",
-        "url": "https://open.spotify.com/album/0kG9UJ3SqUt8vAq7g9jRcs"
-      },
-      "artists": [
-        {
-          "name": "Mysha Didi",
-          "url": "https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI"
-        }
-      ],
-      "duration_ms": 132490,
-      "name": "All I Have to Do Is Dream - Acoustic",
-      "url": "https://open.spotify.com/track/1ZInn6dKkIyQv8YFDgmsBD"
     },
     {
       "added_at": "2025-02-09 18:37:35",

@@ -1,13 +1,33 @@
 {
   "description": "The best in blues right now. Cover: Ruthie Foster",
-  "num_followers": 154643,
+  "num_followers": 154718,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD00imbG/WG95eCELCtRRqr7QfcD",
+  "snapshot_id": "AAAAAJ+u6W0xtfPUJT5AqywscL6UV5V1",
   "tracks": [
+    {
+      "added_at": "2026-07-03 04:00:32",
+      "album": {
+        "name": "BLUES NOW",
+        "url": "https://open.spotify.com/album/192KqimgEdVHiTOJaTe7xr"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 170689,
+      "name": "I\u2019ll Change My Style",
+      "url": "https://open.spotify.com/track/1XuAdZ0BlvGSp7eXlECoU3"
+    },
     {
       "added_at": "2026-06-19 04:00:33",
       "album": {
@@ -51,6 +71,26 @@
       "duration_ms": 236693,
       "name": "Solidarity Song",
       "url": "https://open.spotify.com/track/2EUuB8eqBKC9FHDI5ZMESQ"
+    },
+    {
+      "added_at": "2026-07-03 04:00:32",
+      "album": {
+        "name": "Hand It Over (feat. Soweto Gospel Choir)",
+        "url": "https://open.spotify.com/album/7hAjtZyH70skknhXFjxcRI"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "duration_ms": 203232,
+      "name": "Hand It Over (feat. Soweto Gospel Choir)",
+      "url": "https://open.spotify.com/track/01SSG2COqot9jpxRBS9kLU"
     },
     {
       "added_at": "2026-06-26 04:00:26",
@@ -227,26 +267,6 @@
       "duration_ms": 235306,
       "name": "You Can't Heal What You Hide",
       "url": "https://open.spotify.com/track/4Utooqc94lpk1RfWT2jSJu"
-    },
-    {
-      "added_at": "2026-05-29 04:00:36",
-      "album": {
-        "name": "I Can\u2019t Hold Out",
-        "url": "https://open.spotify.com/album/12kopSY2LCMFSGcmlVaGmv"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        },
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 148005,
-      "name": "I Can\u2019t Hold Out",
-      "url": "https://open.spotify.com/track/2PjKjXdPcYn155olSIFIcM"
     },
     {
       "added_at": "2026-05-29 04:00:36",

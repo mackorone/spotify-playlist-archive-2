@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 80. Photo : France Gall",
-  "num_followers": 406139,
+  "num_followers": 406186,
   "original_name": "Hits Fran\u00e7ais 80",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-05-19 09:20:45",
       "album": {
+        "name": "Nonchalances",
+        "url": "https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr"
+      },
+      "artists": [
+        {
+          "name": "Philippe Lavil",
+          "url": "https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw"
+        }
+      ],
+      "duration_ms": 179333,
+      "name": "Elle pr\u00e9f\u00e8re l'amour en mer",
+      "url": "https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H"
+    },
+    {
+      "added_at": "2026-05-19 09:20:45",
+      "album": {
         "name": "Two Feldman",
         "url": "https://open.spotify.com/album/1nHQK7vhvM4WZgKI825yr9"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 251026,
       "name": "Joue pas",
       "url": "https://open.spotify.com/track/4DhapD9hNxw9vAT7RKbWZH"
-    },
-    {
-      "added_at": "2026-05-19 09:20:45",
-      "album": {
-        "name": "Nonchalances",
-        "url": "https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr"
-      },
-      "artists": [
-        {
-          "name": "Philippe Lavil",
-          "url": "https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw"
-        }
-      ],
-      "duration_ms": 179333,
-      "name": "Elle pr\u00e9f\u00e8re l'amour en mer",
-      "url": "https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H"
     },
     {
       "added_at": "2026-05-19 09:20:45",

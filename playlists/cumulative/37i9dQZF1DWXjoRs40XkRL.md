@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-422 songs - 1 day 14 hr 30 min
+423 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Barse Badariya](https://open.spotify.com/track/6bzSij587sWRb0KtBrtgId) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Barse Badariya](https://open.spotify.com/album/0eLSHpbVhqOiflg2rCm2zo) | 3:03 | 2022-05-17 | 2023-10-07 |
 | [Barse Badariya](https://open.spotify.com/track/60l7qOaFTNccb7AX51U27k) | [prithviraj singh sisodiya](https://open.spotify.com/artist/1hFBrEVmvnO6xMKgP9z5zd), [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Barse Badariya](https://open.spotify.com/album/1N5lJDZXeReW3mDVpTr009) | 3:24 | 2024-10-21 |  |
 | [Barse More Naina](https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Barse More Naina](https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg) | 3:18 | 2023-07-05 |  |
+| [Bawari](https://open.spotify.com/track/614p2ertmVVbTvbKPwMQGM) | [Zeeshan Khan](https://open.spotify.com/artist/3Um0W0Z5SJPOThaxwq6Il5), [DAMAN](https://open.spotify.com/artist/35vmrpnx9K7ycuzgG2fxso) | [Bawari](https://open.spotify.com/album/70C6dfYXF7J2fUid991quq) | 3:01 | 2026-07-03 |  |
 | [BeHaya Humre Saiyaan Bedardi](https://open.spotify.com/track/3ifdiDHwuODTgVPmshKYan) | [Sanah Moidutty](https://open.spotify.com/artist/5PRw7B1MlnXte2taK1ePlC), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [BeHaya Humre Saiyaan Bedardi](https://open.spotify.com/album/5tbx0NpfcoEU1LUSrmPoEt) | 4:30 | 2024-10-22 | 2025-04-16 |
 | [Bhagwaan](https://open.spotify.com/track/2dJtvlQNYOyblWQlWjZynb) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Bhagwaan](https://open.spotify.com/album/7MrqeUhJJfwDk45JztAF9j) | 4:34 | 2024-07-30 |  |
 | [Bheeji Jaaun Main](https://open.spotify.com/track/3K1tRdMtJl2Jvzk5H1IRXy) | [Rachana Kaura](https://open.spotify.com/artist/7Eqim29q20JDpjncFAIES7), [Abhimanyu\-Pragya](https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr) | [Bheeji Jaaun Main](https://open.spotify.com/album/2XEC4SbUA9qtP4dGrRe9L7) | 3:05 | 2025-02-06 | 2025-02-26 |
@@ -138,7 +139,7 @@
 | [Jaanu Na \- Jodi Tare](https://open.spotify.com/track/1VRrV5xVD5iuI38NQSdwg1) | [Anweshaa](https://open.spotify.com/artist/785G4rs8cdeU7kKM2XgoI3) | [Tagore Songs \- Hindi Adaptations](https://open.spotify.com/album/4QuenfmhzueuIbon28NOiR) | 4:45 | 2022-05-17 | 2023-05-24 |
 | [Jabse Tum Sana Lag Li \- Bhoopali](https://open.spotify.com/track/6zFQPuWAkXBEN2h3ytYJLx) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Jabse Tum Sana Lag Li \(Bhoopali\)](https://open.spotify.com/album/6Bm1pY8Lg5vDmRzxOjC22l) | 3:03 | 2023-12-15 |  |
 | [Jagaave Saari Raina](https://open.spotify.com/track/4Y5YYrofXOcGZnrH03AhvF) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Dedh Ishqiya](https://open.spotify.com/album/23R1Rdt3MDu5aHYh9FFGBp) | 5:38 | 2024-01-31 | 2024-04-19 |
-| [Jagaave Saari Raina](https://open.spotify.com/track/7CQ0O1bdOHZINqyOf1W3kz) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Dedh Ishqiya](https://open.spotify.com/album/0x33kdKVOuPpUNyuQdX1LR) | 5:38 | 2023-03-02 |  |
+| [Jagaave Saari Raina](https://open.spotify.com/track/7CQ0O1bdOHZINqyOf1W3kz) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Dedh Ishqiya](https://open.spotify.com/album/0x33kdKVOuPpUNyuQdX1LR) | 5:38 | 2023-03-02 | 2026-07-04 |
 | [Jamuna Kinaare](https://open.spotify.com/track/5EMzjJF46nOPU9kmM1jatd) | [Abby V](https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Jamuna Kinaare](https://open.spotify.com/album/3UFK1vbFH3sKk1auE0f9v7) | 4:03 | 2026-02-25 |  |
 | [Jamuna Kinaare](https://open.spotify.com/track/7JRBFFMp0VpGoFmEMGLJ9w) | [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B), [Yashika Sikka](https://open.spotify.com/artist/0lve5IC1Fy0kxyzy8deBih) | [Jamuna Kinaare](https://open.spotify.com/album/6FoH3QGoYMwNlnPW6TkPNP) | 7:41 | 2025-07-04 | 2025-09-05 |
 | [Jamuna Kinare](https://open.spotify.com/track/4CXTIuPWk4ArUANlD5k3Af) | [Sooryagayathri](https://open.spotify.com/artist/5qfJHcOsAD4qaRzxUJzr2K) | [Jamuna Kinare](https://open.spotify.com/album/2augZUhTpR5kFbuXZRzZut) | 7:41 | 2022-12-07 | 2023-04-22 |

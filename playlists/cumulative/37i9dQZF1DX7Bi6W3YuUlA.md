@@ -4,7 +4,7 @@
 
 > Inspirational hip\-hop\. Cover: Lecrae
 
-560 songs - 1 day 4 hr 11 min
+561 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Change The Channel](https://open.spotify.com/track/5CSmjkOlfKgu2TfTkAKm0D) | [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD) | [Change the Channel](https://open.spotify.com/album/7BsU7piQMlUAv8MZ6IvaiW) | 4:30 | 2021-12-11 | 2022-07-29 |
 | [Chasing\_\(Demo\)](https://open.spotify.com/track/4f80SteKqaB6M2JytEUrwT) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz), [Mikayla Sippel](https://open.spotify.com/artist/4XRSNOy4w4E4euNeu3aIfr) | [Chasing\_\(Demo\)](https://open.spotify.com/album/1wo8JeDRslm23n6rqpb3jk) | 3:01 | 2021-12-11 | 2022-04-16 |
 | [CHECK!](https://open.spotify.com/track/3Oyx8qq8PlRhGnDxMA4cdR) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [CHECK!](https://open.spotify.com/album/2ap4EkuxDV83miHllb0IZ4) | 2:26 | 2024-06-25 | 2024-06-29 |
-| [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 | 2023-02-18 |  |
+| [Cheers](https://open.spotify.com/track/5KOiFHii9i6Ly8l0h3iSFL) | [Phil J.](https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9) | [Tale of a Free Man](https://open.spotify.com/album/486Jn45SQX3AOPeWjw0XKh) | 3:42 | 2023-02-18 | 2026-07-04 |
 | [Child of God](https://open.spotify.com/track/0oGl8U34a4tiAZPj5MMI2e) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/2vDhDijaeq5rZciPo0aQ7w) | 4:15 | 2022-03-25 | 2026-04-25 |
 | [Child of God](https://open.spotify.com/track/4N7NekylBrZjnGQmitWo6k) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Child of God](https://open.spotify.com/album/4Zuof4EsJMgxsi7iGAQ1wJ) | 4:15 | 2023-02-18 | 2024-04-19 |
 | [Child of the King](https://open.spotify.com/track/3Cvks0VMX3eIndlabjb0Fd) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [Child of the King](https://open.spotify.com/album/4oWD49fwlJZ19S2IRPLqIi) | 1:41 | 2022-11-18 | 2024-06-26 |
@@ -297,6 +297,7 @@
 | [LORD JESUS](https://open.spotify.com/track/3fhJOOW5qVGpdUWbogQZOx) | [Trendsetter Sense](https://open.spotify.com/artist/2zcu7rparMOCBU7ZaBMb4N), [1K Phew](https://open.spotify.com/artist/6CQGrt3AJ2gx5oMSR0mwbl), [Young Dro](https://open.spotify.com/artist/3ZooCJzNMTLpmJaIRUEorI), [Zaytoven](https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41) | [LORD JESUS](https://open.spotify.com/album/49xq5t53YZm4bKkPqaQ9B7) | 2:42 | 2026-01-30 |  |
 | [Lord Knows](https://open.spotify.com/track/1Agr2KQtfDzfY7rjL6Dcy8) | [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Lord Knows](https://open.spotify.com/album/1N1KIgC9XvEArNaMAy5A4o) | 3:02 | 2022-11-18 | 2026-04-25 |
 | [Lord Please](https://open.spotify.com/track/4ThwaFCGRYzpquKHFxAqvC) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Scarred B4 Fame](https://open.spotify.com/album/2QhUE3nQN7lYRFZ2yOfzXJ) | 3:52 | 2025-06-20 |  |
+| [Low Top Vanz](https://open.spotify.com/track/384mFYERldsNdnpf4ehd7m) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [S.K.A.T.E.](https://open.spotify.com/album/4G3clQWXvxQUHUTLjvXWhl) | 3:47 | 2026-07-03 |  |
 | [Loyal Til The End \(feat\. Jon Keith\)](https://open.spotify.com/track/0XDdbGVWoomccMBmkkkPs9) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 4:02 | 2021-12-11 | 2022-05-25 |
 | [M.I.A](https://open.spotify.com/track/0K8B3du7m7vKt7HOVSd6jo) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo) | [M.I.A](https://open.spotify.com/album/6TNEfEoTnAGI5z3PNCglnP) | 3:42 | 2024-06-25 | 2024-08-27 |
 | [MAD 2 THE MAX](https://open.spotify.com/track/6y6hyRiHnfwHKd2D8oy00W) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7) | [TRANSCENDENT](https://open.spotify.com/album/6rIfLRsHOsNEsLsRV3V5RG) | 2:24 | 2022-11-18 | 2024-06-26 |

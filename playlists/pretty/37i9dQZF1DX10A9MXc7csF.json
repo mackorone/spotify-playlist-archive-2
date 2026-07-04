@@ -1,13 +1,121 @@
 {
-  "description": "The new school of M\u00fasica Mexicana. Hermanos Espinoza \ud83d\udcf8",
-  "num_followers": 196734,
+  "description": "The new school of M\u00fasica Mexicana. El de las R's \ud83d\udcf8",
+  "num_followers": 196758,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEgoPfcKQgbiOTnjNSaRitQ0z64/",
+  "snapshot_id": "AAAAAIJD1XGnZRW37Y36syDrnRP5emt7",
   "tracks": [
+    {
+      "added_at": "2026-07-03 06:00:18",
+      "album": {
+        "name": "Estilo R'S Vol. 4",
+        "url": "https://open.spotify.com/album/6CUjEk5E7YGQbfob4X1Z2u"
+      },
+      "artists": [
+        {
+          "name": "El De Las R's",
+          "url": "https://open.spotify.com/artist/6LRccuxVVYoqRQif85sG9j"
+        }
+      ],
+      "duration_ms": 124764,
+      "name": "Pajuelazo",
+      "url": "https://open.spotify.com/track/7v9L3VNQjmRKZ4DjGd7OLT"
+    },
+    {
+      "added_at": "2026-07-03 06:00:18",
+      "album": {
+        "name": "Abnormal",
+        "url": "https://open.spotify.com/album/2naRWnBWVvxoBu1MdoikyA"
+      },
+      "artists": [
+        {
+          "name": "Moreno X4",
+          "url": "https://open.spotify.com/artist/2hsRaESCvrQfxYf5cCjZxN"
+        },
+        {
+          "name": "Omy de Oro",
+          "url": "https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Cenizas",
+      "url": "https://open.spotify.com/track/79yEct1P9ZLUXUH1E8x3Dd"
+    },
+    {
+      "added_at": "2026-07-03 06:00:18",
+      "album": {
+        "name": "holanda (Remix)",
+        "url": "https://open.spotify.com/album/1WJ07xKsqJgU9TDkKSBkMQ"
+      },
+      "artists": [
+        {
+          "name": "EL DE LA TINTA",
+          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 187386,
+      "name": "holanda - Remix",
+      "url": "https://open.spotify.com/track/5ZZT0sywNVtrYhpbVER8lO"
+    },
+    {
+      "added_at": "2026-07-03 06:00:18",
+      "album": {
+        "name": "Tu Culpa",
+        "url": "https://open.spotify.com/album/5xjSsGHh00cq4aUQ4oEUg6"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        },
+        {
+          "name": "Los Parras",
+          "url": "https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp"
+        }
+      ],
+      "duration_ms": 174641,
+      "name": "Tu Culpa",
+      "url": "https://open.spotify.com/track/71fEdsATrEMneN7WtPHOKm"
+    },
+    {
+      "added_at": "2026-07-03 06:00:18",
+      "album": {
+        "name": "Tanto Dolor",
+        "url": "https://open.spotify.com/album/2aScIzD3NiJHrdvxSm1vQk"
+      },
+      "artists": [
+        {
+          "name": "Los Lara",
+          "url": "https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4"
+        }
+      ],
+      "duration_ms": 240597,
+      "name": "Tanto Dolor",
+      "url": "https://open.spotify.com/track/59sxYBYwmm0q9HYwwYA5nT"
+    },
+    {
+      "added_at": "2026-07-03 06:00:18",
+      "album": {
+        "name": "Del Este Soy",
+        "url": "https://open.spotify.com/album/31koaKnmeybOZ56I7F5PYx"
+      },
+      "artists": [
+        {
+          "name": "El Rabbanito",
+          "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+        }
+      ],
+      "duration_ms": 166954,
+      "name": "Del Este Soy",
+      "url": "https://open.spotify.com/track/3aQO6IFQT3zW34HAxZLBvA"
+    },
     {
       "added_at": "2026-07-01 20:47:04",
       "album": {
@@ -611,30 +719,6 @@
       "duration_ms": 182000,
       "name": "q sentido tiene??? :(",
       "url": "https://open.spotify.com/track/2kt28Xq4B5N4jkJpL0uJP7"
-    },
-    {
-      "added_at": "2026-07-01 20:47:04",
-      "album": {
-        "name": "holanda",
-        "url": "https://open.spotify.com/album/1l3EH2CGRWrHziaFV4uGTP"
-      },
-      "artists": [
-        {
-          "name": "EL DE LA TINTA",
-          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
-        },
-        {
-          "name": "Angel Cervantes",
-          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
-        },
-        {
-          "name": "Sahir Montoya",
-          "url": "https://open.spotify.com/artist/7x5TwK8zGLmVk8k8zIEIrX"
-        }
-      ],
-      "duration_ms": 224454,
-      "name": "holanda",
-      "url": "https://open.spotify.com/track/08ryHOM7OrGGcdrqFqNXxe"
     },
     {
       "added_at": "2026-07-01 20:47:04",

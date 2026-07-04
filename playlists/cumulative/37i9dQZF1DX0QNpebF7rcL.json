@@ -3621,6 +3621,28 @@
     },
     {
       "album": {
+        "name": "Hand It Over (feat. Soweto Gospel Choir)",
+        "url": "https://open.spotify.com/album/7hAjtZyH70skknhXFjxcRI"
+      },
+      "artists": [
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        },
+        {
+          "name": "Soweto Gospel Choir",
+          "url": "https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203232,
+      "name": "Hand It Over (feat. Soweto Gospel Choir)",
+      "url": "https://open.spotify.com/track/01SSG2COqot9jpxRBS9kLU"
+    },
+    {
+      "album": {
         "name": "Hangover Blues",
         "url": "https://open.spotify.com/album/5tVLK620Eepr8FfUFvYmkz"
       },
@@ -4506,7 +4528,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 148005,
       "name": "I Can\u2019t Hold Out",
       "url": "https://open.spotify.com/track/2PjKjXdPcYn155olSIFIcM"
@@ -5322,6 +5344,28 @@
       "duration_ms": 206920,
       "name": "Issa",
       "url": "https://open.spotify.com/track/01WyqI4Qnh4gvUFVGp2C9r"
+    },
+    {
+      "album": {
+        "name": "BLUES NOW",
+        "url": "https://open.spotify.com/album/192KqimgEdVHiTOJaTe7xr"
+      },
+      "artists": [
+        {
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170689,
+      "name": "I\u2019ll Change My Style",
+      "url": "https://open.spotify.com/track/1XuAdZ0BlvGSp7eXlECoU3"
     },
     {
       "album": {

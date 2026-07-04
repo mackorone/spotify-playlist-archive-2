@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Folie's",
-  "num_followers": 402069,
+  "num_followers": 402073,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Juin 2026",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
-        "name": "Lost Boys",
-        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 254614,
-      "name": "Lost Boys",
-      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
         "name": "is it cool? (feat. SZA)",
         "url": "https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 174230,
       "name": "is it cool? (feat. SZA)",
       "url": "https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
+        "name": "Lost Boys",
+        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 254614,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
     },
     {
       "added_at": "2026-06-30 22:00:27",
@@ -451,26 +451,6 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
-        "name": "Osimhen .OP_6",
-        "url": "https://open.spotify.com/album/7AUoDL9m27TyDF6xwZpE3V"
-      },
-      "artists": [
-        {
-          "name": "Assaf",
-          "url": "https://open.spotify.com/artist/1KGon0Ouf2sVDUghQCOigS"
-        },
-        {
-          "name": "Zeu",
-          "url": "https://open.spotify.com/artist/36MWnDH4kn3Sx79LLtLpjF"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Osimhen .OP_6",
-      "url": "https://open.spotify.com/track/6x2PkNJw2mfko2i9h0oRX6"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
         "name": "MR. DJ",
         "url": "https://open.spotify.com/album/7hoDStNiGH3g9HEQaaKVVf"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 173513,
       "name": "MR. DJ",
       "url": "https://open.spotify.com/track/0suDHHudfeGh1yFVGgvzat"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
+        "name": "Osimhen .OP_6",
+        "url": "https://open.spotify.com/album/7AUoDL9m27TyDF6xwZpE3V"
+      },
+      "artists": [
+        {
+          "name": "Assaf",
+          "url": "https://open.spotify.com/artist/1KGon0Ouf2sVDUghQCOigS"
+        },
+        {
+          "name": "Zeu",
+          "url": "https://open.spotify.com/artist/36MWnDH4kn3Sx79LLtLpjF"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Osimhen .OP_6",
+      "url": "https://open.spotify.com/track/6x2PkNJw2mfko2i9h0oRX6"
     },
     {
       "added_at": "2026-06-30 22:00:27",
@@ -527,22 +527,6 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
-        "name": "Chaque fois",
-        "url": "https://open.spotify.com/album/1sxyuQ4ewVOtzOgEfgg4U2"
-      },
-      "artists": [
-        {
-          "name": "2TH",
-          "url": "https://open.spotify.com/artist/5FK0v12GGmqj8kzmiWDPRT"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Chaque fois",
-      "url": "https://open.spotify.com/track/7dclFha2hgMXhxlph3OUQV"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
         "name": "Entracte",
         "url": "https://open.spotify.com/album/5WgGolnUP1YwxluwOEzrzg"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 173235,
       "name": "Grandir",
       "url": "https://open.spotify.com/track/5pzj7LLz8VrbThEKwIPFkg"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
+        "name": "Chaque fois",
+        "url": "https://open.spotify.com/album/1sxyuQ4ewVOtzOgEfgg4U2"
+      },
+      "artists": [
+        {
+          "name": "2TH",
+          "url": "https://open.spotify.com/artist/5FK0v12GGmqj8kzmiWDPRT"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Chaque fois",
+      "url": "https://open.spotify.com/track/7dclFha2hgMXhxlph3OUQV"
     },
     {
       "added_at": "2026-06-30 22:00:27",

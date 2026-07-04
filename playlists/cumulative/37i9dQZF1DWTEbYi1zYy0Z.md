@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-552 songs - 1 day 15 hr 5 min
+553 songs - 1 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,13 +416,14 @@
 | [SHINE!](https://open.spotify.com/track/2MBoLsxCadKKMNTcpt8yGU) | [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP), [Blake Aaron](https://open.spotify.com/artist/5DnSgdQvmYD6yU1Sp7Ik56) | [SHINE!](https://open.spotify.com/album/2GRUv4x9DaAnH8tc9fMBxt) | 4:21 | 2022-01-21 | 2023-03-25 |
 | [Shore Thing](https://open.spotify.com/track/4bSWGX8MISGps0O6u6RWXJ) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [The Collaborations](https://open.spotify.com/album/7M0tYO1VeOg9TjIUDe5Ik6) | 4:02 | 2023-09-29 |  |
 | [Side by Side Radio Edit](https://open.spotify.com/track/0mWrMcMOWIB5w5ilmWKkwB) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [David Sanborn](https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE) | [Side by Side Radio Edit](https://open.spotify.com/album/74R005FKgC9qS7AniLVX0C) | 4:01 | 2020-10-30 | 2022-03-18 |
+| [Silver Lining](https://open.spotify.com/track/5ywdA7l8O1bZKMz4LJK7Pi) | [James 'PJ' Spraggins](https://open.spotify.com/artist/5uOh9FFj1NoL3n4tbS6lyV), [Kelley Oneal](https://open.spotify.com/artist/5BUoEMqf9Tl885uNvGqOcG) | [High Five](https://open.spotify.com/album/440UBvtxJWED7EcuT3Vw0x) | 3:50 | 2026-07-03 |  |
 | [Simplified Era](https://open.spotify.com/track/017Sl0IMG6IGeMftMUC6fY) | [CrazyJaZz](https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm) | [Simplified Era](https://open.spotify.com/album/6S4WLXjXX9QpT6DBRWgQrQ) | 2:12 | 2024-04-19 | 2024-08-03 |
 | [Sir Charles \- Calypso](https://open.spotify.com/track/2rLvRE09NWrBUefhtf1NKH) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Robert Greenidge](https://open.spotify.com/artist/0qLI2jjlYqBgeJqgOqJaSR) | [Sir Charles \(Calypso\)](https://open.spotify.com/album/08qVwxWNjGvtHJBB1pSOlx) | 6:18 | 2025-11-07 |  |
 | [Skyway](https://open.spotify.com/track/1FGGYZhdSmyCNuu4jFPljf) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Skyway](https://open.spotify.com/album/5rlf26FLZWrcLBZWzxT6Z6) | 3:41 | 2023-04-28 | 2024-03-16 |
 | [Slick \- radio single](https://open.spotify.com/track/1v6OP1ljBqa2EGWL8FgDlL) | [Craig Sharmat](https://open.spotify.com/artist/7AOYuTczmJd2pICRBxEPn4) | [Slick](https://open.spotify.com/album/3keeHfxRE4zD6YahhiyEY8) | 4:11 | 2022-04-15 | 2023-08-12 |
 | [Slide](https://open.spotify.com/track/6z4Cu6II2XqXQIWyOq1Gg3) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Slide](https://open.spotify.com/album/23x3m2khS0B4AcqjQkN05I) | 3:55 | 2024-09-27 | 2024-10-19 |
 | [Slingshot](https://open.spotify.com/track/4nEwNR21Iycvix4l5opfmM) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Slingshot](https://open.spotify.com/album/0YocPxGvt5sccdAsZKqvgX) | 3:52 | 2021-10-15 | 2022-09-17 |
-| [Slo Jam](https://open.spotify.com/track/2YjGlENEEurq5Pd6mCl1tJ) | [kcvibes](https://open.spotify.com/artist/08jmaxbo2cTgTqQgBN7MQZ) | [Slo Jam](https://open.spotify.com/album/4SAoXnz4DCmySmIL3zdUy6) | 3:21 | 2023-06-30 |  |
+| [Slo Jam](https://open.spotify.com/track/2YjGlENEEurq5Pd6mCl1tJ) | [kcvibes](https://open.spotify.com/artist/08jmaxbo2cTgTqQgBN7MQZ) | [Slo Jam](https://open.spotify.com/album/4SAoXnz4DCmySmIL3zdUy6) | 3:21 | 2023-06-30 | 2026-07-04 |
 | [Smile On](https://open.spotify.com/track/3E5R4LsArWWhWOQ74XN9Pz) | [Isaiah Katumwa](https://open.spotify.com/artist/6OPe0VU4tE6WsIyYZatf1l) | [Smile On](https://open.spotify.com/album/6codHNBSOUzn7aXVb45ohX) | 3:56 | 2020-10-30 | 2022-03-18 |
 | [Smooth Talk](https://open.spotify.com/track/3DyEzqcRDZho9dTQEN7Qx4) | [Anders Paulsson](https://open.spotify.com/artist/7ckFJ4mBSnZE1HYuF9DL2y), [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Smooth Talk](https://open.spotify.com/album/65ZyOsyXo3fEz5XcArYCgd) | 5:38 | 2020-10-30 | 2022-02-24 |
 | [Smoothin'](https://open.spotify.com/track/50ZmHXALKOhouCsYXXH9ps) | [Christophe Goze](https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H) | [Smoothin'](https://open.spotify.com/album/0JmnQpoXh1lL4y7FlDRjN0) | 4:34 | 2023-10-27 |  |

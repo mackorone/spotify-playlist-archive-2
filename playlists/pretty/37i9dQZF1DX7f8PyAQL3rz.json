@@ -1,6 +1,6 @@
 {
   "description": "no drill e na bola \u00e9 \ud83c\udde7\ud83c\uddf7 , tlgd",
-  "num_followers": 1442761,
+  "num_followers": 1442653,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,30 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
+        "name": "COLAPSO GLOBAL",
+        "url": "https://open.spotify.com/album/214OaJv3XycWX4oqydN2Ic"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        }
+      ],
+      "duration_ms": 199685,
+      "name": "FACECARD",
+      "url": "https://open.spotify.com/track/0qotc7S3TQU4uLtnfTrM3w"
+    },
+    {
+      "added_at": "2026-07-02 22:00:07",
+      "album": {
         "name": "Beck e Sexo",
         "url": "https://open.spotify.com/album/79ffKOg9PSwNHghrRMjSz3"
       },
@@ -379,30 +403,6 @@
       "duration_ms": 330491,
       "name": "Beck e Sexo",
       "url": "https://open.spotify.com/track/6qpeFSXG1J8xAVXUJVoNh5"
-    },
-    {
-      "added_at": "2026-07-02 22:00:07",
-      "album": {
-        "name": "COLAPSO GLOBAL",
-        "url": "https://open.spotify.com/album/214OaJv3XycWX4oqydN2Ic"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        }
-      ],
-      "duration_ms": 199685,
-      "name": "FACECARD",
-      "url": "https://open.spotify.com/track/0qotc7S3TQU4uLtnfTrM3w"
     },
     {
       "added_at": "2026-07-02 22:00:07",
@@ -471,6 +471,34 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
+        "name": "A Favela N\u00e3o Venceu",
+        "url": "https://open.spotify.com/album/6Aouhk989GyFqOhOtJLPrP"
+      },
+      "artists": [
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        }
+      ],
+      "duration_ms": 269268,
+      "name": "Neguin Desaforado",
+      "url": "https://open.spotify.com/track/3gbpdmzWYwqumooISINF9S"
+    },
+    {
+      "added_at": "2026-07-02 22:00:07",
+      "album": {
         "name": "Presentinho",
         "url": "https://open.spotify.com/album/24nlfVasQri1ennoqY0SRb"
       },
@@ -503,34 +531,6 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
-        "name": "A Favela N\u00e3o Venceu",
-        "url": "https://open.spotify.com/album/6Aouhk989GyFqOhOtJLPrP"
-      },
-      "artists": [
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        },
-        {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
-        }
-      ],
-      "duration_ms": 269268,
-      "name": "Neguin Desaforado",
-      "url": "https://open.spotify.com/track/3gbpdmzWYwqumooISINF9S"
-    },
-    {
-      "added_at": "2026-07-02 22:00:07",
-      "album": {
         "name": "S\u00f3 Lazer",
         "url": "https://open.spotify.com/album/3Md1QIrZ8uJcL3kc7r2Lha"
       },
@@ -555,6 +555,30 @@
       "duration_ms": 156000,
       "name": "S\u00f3 Lazer",
       "url": "https://open.spotify.com/track/4ZB2u5sSF8TVCrQRsSJHTE"
+    },
+    {
+      "added_at": "2026-07-02 22:00:07",
+      "album": {
+        "name": "BOMBOCLATT (REMIX)",
+        "url": "https://open.spotify.com/album/4A24PsSv0IDrilceG6Mfou"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "BOMBOCLATT (REMIX)",
+      "url": "https://open.spotify.com/track/1B2ce5cV00pzS17Ynvc0RA"
     },
     {
       "added_at": "2026-07-02 22:00:07",
@@ -603,30 +627,6 @@
       "duration_ms": 156461,
       "name": "Confiss\u00f5es",
       "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
-    },
-    {
-      "added_at": "2026-07-02 22:00:07",
-      "album": {
-        "name": "BOMBOCLATT (REMIX)",
-        "url": "https://open.spotify.com/album/4A24PsSv0IDrilceG6Mfou"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Andr\u00e9 Miquelotti",
-          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "BOMBOCLATT (REMIX)",
-      "url": "https://open.spotify.com/track/1B2ce5cV00pzS17Ynvc0RA"
     },
     {
       "added_at": "2026-07-02 22:00:07",
@@ -1087,34 +1087,6 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
-        "name": "Advinha o CEP",
-        "url": "https://open.spotify.com/album/5mdlGL58bjvPlwegK3J7N9"
-      },
-      "artists": [
-        {
-          "name": "IKNOWFELIPE",
-          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        }
-      ],
-      "duration_ms": 131368,
-      "name": "Advinha o CEP",
-      "url": "https://open.spotify.com/track/6zx4f2OiSKrgOcromQsngp"
-    },
-    {
-      "added_at": "2026-07-02 22:00:07",
-      "album": {
         "name": "DOISMILEVINTEHOJE",
         "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
       },
@@ -1143,6 +1115,34 @@
       "duration_ms": 162461,
       "name": "Monop\u00f3lio",
       "url": "https://open.spotify.com/track/4N3LI6Agfo5feFoVJHx5ti"
+    },
+    {
+      "added_at": "2026-07-02 22:00:07",
+      "album": {
+        "name": "Advinha o CEP",
+        "url": "https://open.spotify.com/album/5mdlGL58bjvPlwegK3J7N9"
+      },
+      "artists": [
+        {
+          "name": "IKNOWFELIPE",
+          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        }
+      ],
+      "duration_ms": 131368,
+      "name": "Advinha o CEP",
+      "url": "https://open.spotify.com/track/6zx4f2OiSKrgOcromQsngp"
     },
     {
       "added_at": "2026-07-02 22:00:07",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
+        "name": "Linha de frente",
+        "url": "https://open.spotify.com/album/1zex66YgFMYOjTzU26uPft"
+      },
+      "artists": [
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "Linha de frente",
+      "url": "https://open.spotify.com/track/7Hc2jOYT9YbZuaGvdur8Yg"
+    },
+    {
+      "added_at": "2026-07-02 22:00:07",
+      "album": {
         "name": "dedin na boca",
         "url": "https://open.spotify.com/album/1u9MYHRtdhwc0RINHD8Qe4"
       },
@@ -1335,22 +1355,22 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
-        "name": "Linha de frente",
-        "url": "https://open.spotify.com/album/1zex66YgFMYOjTzU26uPft"
+        "name": "Milimetricamente",
+        "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
       },
       "artists": [
         {
-          "name": "KayG",
-          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+          "name": "Luana Maia",
+          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
         },
         {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+          "name": "DJ Caio Santos",
+          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
         }
       ],
-      "duration_ms": 165428,
-      "name": "Linha de frente",
-      "url": "https://open.spotify.com/track/7Hc2jOYT9YbZuaGvdur8Yg"
+      "duration_ms": 122834,
+      "name": "Milimetricamente",
+      "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
     },
     {
       "added_at": "2026-07-02 22:00:07",
@@ -1383,26 +1403,6 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
-        "name": "Milimetricamente",
-        "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
-      },
-      "artists": [
-        {
-          "name": "Luana Maia",
-          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
-        },
-        {
-          "name": "DJ Caio Santos",
-          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
-        }
-      ],
-      "duration_ms": 122834,
-      "name": "Milimetricamente",
-      "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
-    },
-    {
-      "added_at": "2026-07-02 22:00:07",
-      "album": {
         "name": "Amor \u00c9 F*Da",
         "url": "https://open.spotify.com/album/4aMSzbiq9wIcn47n0xCkwU"
       },
@@ -1419,6 +1419,26 @@
       "duration_ms": 151058,
       "name": "Amor \u00c9 F*Da",
       "url": "https://open.spotify.com/track/44cucY54ZnzHEiujvB60LZ"
+    },
+    {
+      "added_at": "2026-07-02 22:00:07",
+      "album": {
+        "name": "Open Mic",
+        "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
+      },
+      "artists": [
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 222692,
+      "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
     },
     {
       "added_at": "2026-07-02 22:00:07",
@@ -1451,26 +1471,6 @@
       "duration_ms": 126923,
       "name": "MANDAQUI MANDELA",
       "url": "https://open.spotify.com/track/4AsA4y2IXGDXGwrlcxGw2l"
-    },
-    {
-      "added_at": "2026-07-02 22:00:07",
-      "album": {
-        "name": "Open Mic",
-        "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
-      },
-      "artists": [
-        {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 222692,
-      "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
-      "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
     },
     {
       "added_at": "2026-07-02 22:00:07",

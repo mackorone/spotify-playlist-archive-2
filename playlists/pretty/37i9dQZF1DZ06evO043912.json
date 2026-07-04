@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAADBTZ65PLUDVljTSYDiYaTq",
+  "snapshot_id": "akWqAAAAAAC94CtDRl31nqpztVjsM7IL",
   "tracks": [
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 581400,
-      "name": "Suku Suku Bam Bam",
-      "url": "https://open.spotify.com/track/5MY2shxqQ4bFBPUeYB5azo"
+      "duration_ms": 228266,
+      "name": "Odema Ti P'Ogidan S'oko",
+      "url": "https://open.spotify.com/track/71y1uCM1llGeWRSdPVYSPI"
     },
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 228266,
-      "name": "Odema Ti P'Ogidan S'oko",
-      "url": "https://open.spotify.com/track/71y1uCM1llGeWRSdPVYSPI"
+      "duration_ms": 581400,
+      "name": "Suku Suku Bam Bam",
+      "url": "https://open.spotify.com/track/5MY2shxqQ4bFBPUeYB5azo"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E Dide [Get Up]",
-        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Ode La Alaga",
-      "url": "https://open.spotify.com/track/3MjF9ApEZlJXKQrPTU14Mv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sunny Ade, Vol. 1 (Re-Mastered)",
         "url": "https://open.spotify.com/album/451tu4BZrkyaK68jhITSWW"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 301574,
       "name": "Eni Nbinu Wa - Re-Mastered",
       "url": "https://open.spotify.com/track/6TfJRvvkHBCRGizvticbBG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Ode La Alaga",
+      "url": "https://open.spotify.com/track/3MjF9ApEZlJXKQrPTU14Mv"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E Dide [Get Up]",
-        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "E Dide E Mujo",
-      "url": "https://open.spotify.com/track/5sHSZQIZhpjXjVmOAagkPt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sunny Ade, Vol. 1 (Re-Mastered)",
         "url": "https://open.spotify.com/album/451tu4BZrkyaK68jhITSWW"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 394122,
       "name": "Esubiri Ebo Mi - Re-Mastered",
       "url": "https://open.spotify.com/track/5kA97lf7rl6lMab9BGgr3Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "E Dide [Get Up]",
+        "url": "https://open.spotify.com/album/1yux0Sk1jn4lzHCoqoUKjT"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "E Dide E Mujo",
+      "url": "https://open.spotify.com/track/5sHSZQIZhpjXjVmOAagkPt"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
         }
       ],
-      "duration_ms": 213523,
-      "name": "Ona Mi La",
-      "url": "https://open.spotify.com/track/0r2TRSTlmL6mwPbS8GlkKt"
+      "duration_ms": 116515,
+      "name": "Bo Se Nse Oju Yen",
+      "url": "https://open.spotify.com/track/3MCBOEPgvJFfJ694FIeKAm"
     },
     {
       "added_at": null,
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
         }
       ],
-      "duration_ms": 116515,
-      "name": "Bo Se Nse Oju Yen",
-      "url": "https://open.spotify.com/track/3MCBOEPgvJFfJ694FIeKAm"
+      "duration_ms": 213523,
+      "name": "Ona Mi La",
+      "url": "https://open.spotify.com/track/0r2TRSTlmL6mwPbS8GlkKt"
     },
     {
       "added_at": null,
@@ -679,22 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunny Ade and His Green Spot Band, Vol. 4",
-        "url": "https://open.spotify.com/album/6KKQUN5rh80KfwyvlnlkSh"
+        "name": "The Best of the Classic Years",
+        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
       },
       "artists": [
         {
           "name": "King Sunny Ade",
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        },
-        {
-          "name": "His Green Spot Band",
-          "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
         }
       ],
-      "duration_ms": 165459,
-      "name": "Akure Nile",
-      "url": "https://open.spotify.com/track/0v0XDTadZVjgo0BY3gWG4P"
+      "duration_ms": 424266,
+      "name": "Afai Bowon",
+      "url": "https://open.spotify.com/track/7wvmy07qOM1oCkxfEcPqLz"
     },
     {
       "added_at": null,
@@ -735,8 +731,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best of the Classic Years",
-        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
+        "name": "Sunny Ade and His Green Spot Band, Vol. 4",
+        "url": "https://open.spotify.com/album/6KKQUN5rh80KfwyvlnlkSh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "His Green Spot Band",
+          "url": "https://open.spotify.com/artist/3mpGdNsr8V4u4I0LofKAkF"
+        }
+      ],
+      "duration_ms": 165459,
+      "name": "Akure Nile",
+      "url": "https://open.spotify.com/track/0v0XDTadZVjgo0BY3gWG4P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Check \"E\"",
+        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
       },
       "artists": [
         {
@@ -744,9 +760,29 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 424266,
-      "name": "Afai Bowon",
-      "url": "https://open.spotify.com/track/7wvmy07qOM1oCkxfEcPqLz"
+      "duration_ms": 107963,
+      "name": "Enia Se Rere",
+      "url": "https://open.spotify.com/track/0AghXNy7vtEWLMayWe3jVc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Banana",
+        "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        },
+        {
+          "name": "The Golden Mecury of Africa",
+          "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
+        }
+      ],
+      "duration_ms": 251925,
+      "name": "Jinginrin",
+      "url": "https://open.spotify.com/track/4BkTPEZlsJQc8TOT1eSIV7"
     },
     {
       "added_at": null,
@@ -783,42 +819,6 @@
       "duration_ms": 464549,
       "name": "Chief George Oyedele",
       "url": "https://open.spotify.com/track/11ScdgNDCBPXziBKtF8GIH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sweet Banana",
-        "url": "https://open.spotify.com/album/1XtMZC0EDRmxmVEXX0q3D4"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        },
-        {
-          "name": "The Golden Mecury of Africa",
-          "url": "https://open.spotify.com/artist/5CNQ36IhfJFd52Wcc6hnSl"
-        }
-      ],
-      "duration_ms": 251925,
-      "name": "Jinginrin",
-      "url": "https://open.spotify.com/track/4BkTPEZlsJQc8TOT1eSIV7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Check \"E\"",
-        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 107963,
-      "name": "Enia Se Rere",
-      "url": "https://open.spotify.com/track/0AghXNy7vtEWLMayWe3jVc"
     }
   ],
   "unique_name": "This Is King Sunny Ade",

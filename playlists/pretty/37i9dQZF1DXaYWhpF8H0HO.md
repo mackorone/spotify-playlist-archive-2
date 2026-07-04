@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover:  VVYND
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,590 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,604 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [COUNTRY BARS](https://open.spotify.com/track/5ZaGRpVDkykhk0TolMhDVp) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [PACK UR BAGS, IM COMING W U](https://open.spotify.com/album/1wH1xREfb13k1Pi0Y2gmBa) | 4:46 |
-| 2 | [REAL](https://open.spotify.com/track/5awnj3tCy0UnuIZrehuK0l) | [VVYND](https://open.spotify.com/artist/0hDWNMM9BA6hluuxoqDWwQ) | [REAL](https://open.spotify.com/album/7KaYlccq2L1eWKhXMRlLGl) | 4:22 |
-| 3 | [Rain Pour Out](https://open.spotify.com/track/7duiQfpsL49c8UlRMqgUE4) | [Nathalie Ezmeralda](https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0) | [Rain Pour Out](https://open.spotify.com/album/1nGaGKOThSNt35oLBBtno9) | 3:43 |
-| 4 | [D\(is\)pleasing](https://open.spotify.com/track/3izN9L8dmuvFz8mdaVvWEp) | [Bhanu Marais](https://open.spotify.com/artist/0lNHnWpu3fCw1Hb2y0QOSj) | [\(½\) Biograph](https://open.spotify.com/album/3cvo1VOztfBcc92nbS9HjZ) | 4:14 |
-| 5 | [Smoking Kills](https://open.spotify.com/track/20ciYCUgWW2cHd2o3IFqJ8) | [Spoor](https://open.spotify.com/artist/1N3I8swNljC6MYZBbGiAvt) | [Smoking Kills](https://open.spotify.com/album/37Y3qG25896rWczKABldFa) | 3:15 |
-| 6 | [be you!](https://open.spotify.com/track/4KBf2A1ArfnffhKl0qkygj) | [Hezki](https://open.spotify.com/artist/20cCgx6phklJ86okkQr5zp) | [be you!](https://open.spotify.com/album/4xVNvePxYZlIL38quLzIyc) | 4:56 |
-| 7 | [Bad Connection](https://open.spotify.com/track/01jCjvoD62Kxmf6BsFERTp) | [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Bad Connection](https://open.spotify.com/album/3Lds5O77bMWR62dUPCZ3XC) | 3:25 |
-| 8 | [FIRST OF JULY \(bonus\)](https://open.spotify.com/track/095jg430uBIRwVX3FOC6Qb) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [FIRST OF JULY \(bonus\)](https://open.spotify.com/album/23Lq2WE477u8Q1rB2WLyjq) | 3:35 |
-| 9 | [I Feel Confused](https://open.spotify.com/track/45K064wDkfUy7GIhfnnUCL) | [Tailwhip](https://open.spotify.com/artist/5wJsd8TW2LlUZwD5bv6vEk) | [I Feel Confused](https://open.spotify.com/album/0LvxGcjyJnbhlh7L8mSxJ7) | 3:52 |
-| 10 | [things i'd do for you](https://open.spotify.com/track/1gAAHNHRu8UTvVWBswBdG3) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [things i'd do for you](https://open.spotify.com/album/6CpqiJm7c5opBCu1eJqxB8) | 3:24 |
-| 11 | [rules](https://open.spotify.com/track/7ejU4GI4daNv4z9KJVdVvs) | [mirui](https://open.spotify.com/artist/7z8aDURXvmFa2j4FKjiLOm) | [rules](https://open.spotify.com/album/3sgBia6DDJv30NQDPHLPYp) | 2:21 |
-| 12 | [CRAZY](https://open.spotify.com/track/3O42CJ446as7PaeKo3XkE0) | [ALWIN](https://open.spotify.com/artist/2Onn4kfCetvJLn4yN446l6) | [CRAZY](https://open.spotify.com/album/5FENdg4lez8K2u6MoH4svV) | 2:35 |
-| 13 | [Momentary Pleasure](https://open.spotify.com/track/3uOBIFr4hnyxXdyaHmEwDO) | [The Midnight Darlings](https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI) | [Momentary Pleasure](https://open.spotify.com/album/0Dy9YBdzfrChQrULfPvjqj) | 3:33 |
-| 14 | [Trip To The Sun](https://open.spotify.com/track/4AUcAncRMjnhcVPbw3RMrw) | [Leonardo Ringo](https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL), [Miyane Soemitro](https://open.spotify.com/artist/3RLBh8sYkQLAFDoAcpcN6t) | [Trip To The Sun](https://open.spotify.com/album/6KXMjXHgpno1WhL8Ew4LsF) | 7:23 |
-| 15 | [Something On Your Mind](https://open.spotify.com/track/4d8mYo1J66ro1l0vk7YPJo) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI), [The Soul & Rollers](https://open.spotify.com/artist/0oOKNUtbLhBGyq7ALH6ZMu) | [Something on Your Mind](https://open.spotify.com/album/5DnLaYwlXBwFQfQaey3jZV) | 4:43 |
+| 1 | [REAL](https://open.spotify.com/track/5awnj3tCy0UnuIZrehuK0l) | [VVYND](https://open.spotify.com/artist/0hDWNMM9BA6hluuxoqDWwQ) | [REAL](https://open.spotify.com/album/7KaYlccq2L1eWKhXMRlLGl) | 4:22 |
+| 2 | [Rain Pour Out](https://open.spotify.com/track/7duiQfpsL49c8UlRMqgUE4) | [Nathalie Ezmeralda](https://open.spotify.com/artist/317pXIcioJR0xIA5PnBUk0) | [Rain Pour Out](https://open.spotify.com/album/1nGaGKOThSNt35oLBBtno9) | 3:43 |
+| 3 | [D\(is\)pleasing](https://open.spotify.com/track/3izN9L8dmuvFz8mdaVvWEp) | [Bhanu Marais](https://open.spotify.com/artist/0lNHnWpu3fCw1Hb2y0QOSj) | [\(½\) Biograph](https://open.spotify.com/album/3cvo1VOztfBcc92nbS9HjZ) | 4:14 |
+| 4 | [Smoking Kills](https://open.spotify.com/track/20ciYCUgWW2cHd2o3IFqJ8) | [Spoor](https://open.spotify.com/artist/1N3I8swNljC6MYZBbGiAvt) | [Smoking Kills](https://open.spotify.com/album/37Y3qG25896rWczKABldFa) | 3:15 |
+| 5 | [be you!](https://open.spotify.com/track/4KBf2A1ArfnffhKl0qkygj) | [Hezki](https://open.spotify.com/artist/20cCgx6phklJ86okkQr5zp) | [be you!](https://open.spotify.com/album/4xVNvePxYZlIL38quLzIyc) | 4:56 |
+| 6 | [Bad Connection](https://open.spotify.com/track/01jCjvoD62Kxmf6BsFERTp) | [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Bad Connection](https://open.spotify.com/album/3Lds5O77bMWR62dUPCZ3XC) | 3:25 |
+| 7 | [FIRST OF JULY \(bonus\)](https://open.spotify.com/track/095jg430uBIRwVX3FOC6Qb) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [FIRST OF JULY \(bonus\)](https://open.spotify.com/album/23Lq2WE477u8Q1rB2WLyjq) | 3:35 |
+| 8 | [I Feel Confused](https://open.spotify.com/track/45K064wDkfUy7GIhfnnUCL) | [Tailwhip](https://open.spotify.com/artist/5wJsd8TW2LlUZwD5bv6vEk) | [I Feel Confused](https://open.spotify.com/album/0LvxGcjyJnbhlh7L8mSxJ7) | 3:52 |
+| 9 | [things i'd do for you](https://open.spotify.com/track/1gAAHNHRu8UTvVWBswBdG3) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [things i'd do for you](https://open.spotify.com/album/6CpqiJm7c5opBCu1eJqxB8) | 3:24 |
+| 10 | [rules](https://open.spotify.com/track/7ejU4GI4daNv4z9KJVdVvs) | [mirui](https://open.spotify.com/artist/7z8aDURXvmFa2j4FKjiLOm) | [rules](https://open.spotify.com/album/3sgBia6DDJv30NQDPHLPYp) | 2:21 |
+| 11 | [CRAZY](https://open.spotify.com/track/3O42CJ446as7PaeKo3XkE0) | [ALWIN](https://open.spotify.com/artist/2Onn4kfCetvJLn4yN446l6) | [CRAZY](https://open.spotify.com/album/5FENdg4lez8K2u6MoH4svV) | 2:35 |
+| 12 | [Momentary Pleasure](https://open.spotify.com/track/3uOBIFr4hnyxXdyaHmEwDO) | [The Midnight Darlings](https://open.spotify.com/artist/4ue4vWE4ZBHmdurM0PsiAI) | [Momentary Pleasure](https://open.spotify.com/album/0Dy9YBdzfrChQrULfPvjqj) | 3:33 |
+| 13 | [Trip To The Sun](https://open.spotify.com/track/4AUcAncRMjnhcVPbw3RMrw) | [Leonardo Ringo](https://open.spotify.com/artist/1cV83LJVLHfAMTNGJUvsnL), [Miyane Soemitro](https://open.spotify.com/artist/3RLBh8sYkQLAFDoAcpcN6t) | [Trip To The Sun](https://open.spotify.com/album/6KXMjXHgpno1WhL8Ew4LsF) | 7:23 |
+| 14 | [Something On Your Mind](https://open.spotify.com/track/4d8mYo1J66ro1l0vk7YPJo) | [Jordan Susanto](https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI), [The Soul & Rollers](https://open.spotify.com/artist/0oOKNUtbLhBGyq7ALH6ZMu) | [Something on Your Mind](https://open.spotify.com/album/5DnLaYwlXBwFQfQaey3jZV) | 4:43 |
+| 15 | [COUNTRY BARS](https://open.spotify.com/track/5ZaGRpVDkykhk0TolMhDVp) | [Weda Mauve](https://open.spotify.com/artist/1Gug2KeUuhhVUW8WTIYIH6) | [PACK UR BAGS, IM COMING W U](https://open.spotify.com/album/1wH1xREfb13k1Pi0Y2gmBa) | 4:46 |
 | 16 | [Lit in Shanghai](https://open.spotify.com/track/5w6lZ3jwgZqGN9xkT4CdIG) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [PSY.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR) | [Lit in Shanghai](https://open.spotify.com/album/4ijEWtNSDE0ltcpJeFq0Bh) | 2:59 |
 | 17 | [lose](https://open.spotify.com/track/6muxq0hXyW4m6rPR102PFc) | [Ridh](https://open.spotify.com/artist/0tqCMm24TzsA9pbhqbjbv1) | [lose](https://open.spotify.com/album/0gOdeAwXicLZ9BgHkyLYDy) | 3:29 |
 | 18 | [I SHOULD'VE LOVED YOU MORE](https://open.spotify.com/track/4egaOQ3EwLtWe50dz46iBI) | [Irzhal Efadh](https://open.spotify.com/artist/4cok0Kl5xGtjJxTLuRtFsv) | [I SHOULD'VE LOVED YOU MORE](https://open.spotify.com/album/12BLNxPEBmPIy8dT1yPCbJ) | 3:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 99 | [Together Again](https://open.spotify.com/track/1PlIoVo7NhFgZljTA4Vhvm) | [Bona Pascal](https://open.spotify.com/artist/0ujG1cBXUHF00YhR8pT4MS) | [Again](https://open.spotify.com/album/2o4CnjRswEp6ZD8CbbZid7) | 3:00 |
 | 100 | [20 Weeks](https://open.spotify.com/track/7wtxZi4uh6btGrYmARXxOr) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [20 Weeks](https://open.spotify.com/album/6q3foGDuNxly38t01i8KoD) | 2:58 |
 
-Snapshot ID: `AAAAANoZbFWdlY5nQtZSADZ3S6mr+/1J`
+Snapshot ID: `AAAAAFx5Pdv2nvcK+QPQTam39WAWfajI`

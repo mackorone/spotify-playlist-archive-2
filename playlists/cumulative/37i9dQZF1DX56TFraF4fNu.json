@@ -6093,6 +6093,28 @@
     },
     {
       "album": {
+        "name": "ZONA SEGURA",
+        "url": "https://open.spotify.com/album/2WP6tVcj5i32vDztD0RjHG"
+      },
+      "artists": [
+        {
+          "name": "Taymez",
+          "url": "https://open.spotify.com/artist/55eWX5MpFWbC29i8BoaHDZ"
+        },
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143454,
+      "name": "ZONA SEGURA",
+      "url": "https://open.spotify.com/track/5zy9E1pTDyBsGDnC3fFj9E"
+    },
+    {
+      "album": {
         "name": "\u00a1Ya no me pregunten por mi ex!",
         "url": "https://open.spotify.com/album/5id7Y3fY4e2ZxP43yquSxK"
       },

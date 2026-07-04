@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 971 likes - 59 songs - 3 hr 26 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 971 likes - 61 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,5 +67,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 57 | [Burn It Faster](https://open.spotify.com/track/3boHJrQo46C772vzvsWXyf) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 3:45 |
 | 58 | [Hard Times](https://open.spotify.com/track/6angzYOTphFEZ8n22bjYW2) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Hard Times](https://open.spotify.com/album/1kD8bZJET4LUZ6EgNABQoB) | 3:38 |
 | 59 | [Composed](https://open.spotify.com/track/6nAY8qfduqInslOiaId3Vu) | [Paradox](https://open.spotify.com/artist/0Pch3Ue1mQmhop3hfKptd8), [Dj Sean P](https://open.spotify.com/artist/4P08e76i9aRYNoE5c7otBB), [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Composed](https://open.spotify.com/album/4HoHSBzQBNGyQxfYdpVr6K) | 2:38 |
+| 60 | [The Spell](https://open.spotify.com/track/1wcNxPDExKr3EdfePoFgmw) | [Alice Sonia\-Michael](https://open.spotify.com/artist/5vx9u71vt3SlGjMuKcgOqr) | [Seconds of Silence](https://open.spotify.com/album/61NTznU5cgJ0v64hsabqTo) | 4:00 |
+| 61 | [Ocean Floor](https://open.spotify.com/track/1Ftf2kYACoXtuBXiqh8Y8K) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Ocean Floor](https://open.spotify.com/album/7qMJHefVxa2LLZ9AH4HHO0) | 4:04 |
 
-Snapshot ID: `AAAEExmpogXS3swU4QzQW0wgjGj7b9do`
+Snapshot ID: `AAAEFWK9fPI3oyVr4jlSbmtEX4qAdGIV`

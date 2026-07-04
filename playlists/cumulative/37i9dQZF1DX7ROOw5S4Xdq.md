@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Preto no Branco
 
-3,510 songs - 12 day 9 hr 31 min
+3,510 songs - 12 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3110,7 +3110,6 @@
 | [Tome Posse da Vitória \(Ao Vivo\)](https://open.spotify.com/track/0dPhAYC73cQPAfCDg9yj5T) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Tome Posse da Vitória \(Ao Vivo\)](https://open.spotify.com/album/4FqY2NSYlpamvnQosMuwVJ) | 4:31 | 2025-12-05 | 2025-12-19 |
 | [Toque](https://open.spotify.com/track/1afnYuwXwdmO4akkdvPdFq) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00), [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Toque](https://open.spotify.com/album/4kQFY6U8Z976Zh8rS7toHV) | 2:53 | 2026-05-22 | 2026-06-19 |
 | [Trabalho Duro \- Deluxe](https://open.spotify.com/track/4GmyRRbamtB2G39PK7jhk7) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Trabalho Duro \- Deluxe](https://open.spotify.com/album/0JTucnGKKHiCUlUF1c3W9T) | 3:26 | 2024-08-30 | 2024-09-07 |
-| [Track 2](https://open.spotify.com/track/02LbqQyAsa8vosfO95Vd8h) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO) | [Seu Som Ressoa](https://open.spotify.com/album/5MQJTt66SKHHhuER2OWlzG) | 0:00 | 2026-07-03 |  |
 | [Tragam Suas Vasilhas \- Ao vivo](https://open.spotify.com/track/4ixDVetdu4PkAHQuojumDM) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Zoe Lilly](https://open.spotify.com/artist/65XV4wYM95HcitXnKDOFkp) | [Tragam Suas Vasilhas \(Ao Vivo\)](https://open.spotify.com/album/7IISqDRueMy006SHDOFWIO) | 7:19 | 2024-06-14 | 2024-06-29 |
 | [TRAIÇÃO NA MESA](https://open.spotify.com/track/5klH9yQ6VRFvfdP654eIg4) | [Israel Santos](https://open.spotify.com/artist/4YI34fXVNnt3gsRhXjRcSu) | [TRAIÇÃO NA MESA](https://open.spotify.com/album/0Eqbeu7lWpuIW2Kgsy3MOo) | 3:03 | 2025-09-05 | 2025-09-26 |
 | [Trajeto de Uma Oração](https://open.spotify.com/track/4oFTo955xdpdewPdkQUbh6) | [Pr\. Lucas](https://open.spotify.com/artist/5uBdPagL8e7AwfIzrM8zuS) | [Trajeto de Uma Oração](https://open.spotify.com/album/2KbS1m4cfGgPnolOC6KK7x) | 4:50 | 2024-09-27 | 2024-10-12 |
@@ -3417,6 +3416,7 @@
 | [Voltando ao Início \- Medley Harpa \- Ao Vivo em Salvador](https://open.spotify.com/track/3gc569GFX8bLWA70tScYup) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Voltando ao Início \- Medley Harpa \(Ao Vivo em Salvador\)](https://open.spotify.com/album/1ihNZ7wADrdgAnCQBUFdUK) | 9:02 | 2025-12-12 | 2025-12-27 |
 | [Voltar](https://open.spotify.com/track/7nGWHqmxy7YbXSW2bQ3gwM) | [Eric Cortes](https://open.spotify.com/artist/7Mvuu6yhnhyYtZATxe5C8F) | [Voltar](https://open.spotify.com/album/7IhZtnkevW11CFBDn0MtMw) | 4:16 | 2023-10-20 | 2023-11-04 |
 | [Volte a Orar \- Ao Vivo](https://open.spotify.com/track/5r8vpwFqXUu4T7sjXDWH3D) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Dalete Hungria](https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd) | [Volte a Orar \(Ao Vivo\)](https://open.spotify.com/album/3Ohbs1wMdZI79L2u4X4YkL) | 6:35 | 2023-09-25 | 2023-10-07 |
+| [Voltei](https://open.spotify.com/track/02LbqQyAsa8vosfO95Vd8h) | [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO) | [Seu Som Ressoa](https://open.spotify.com/album/5MQJTt66SKHHhuER2OWlzG) | 3:55 | 2026-07-03 |  |
 | [Voltemos](https://open.spotify.com/track/6Gabb1FeNiHFI1JyN7BXXN) | [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn) | [Voltemos](https://open.spotify.com/album/2oZwBEN9bjB8gTRNM7joCT) | 3:38 | 2026-01-02 | 2026-01-24 |
 | [Voltemos ao Início + O Bálsamo de Gileade](https://open.spotify.com/track/4bLQAk7MqLB3tMeYm4USNe) | [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [As Minhas Orações Cantadas \- Vol 1](https://open.spotify.com/album/11NNFMy26D8SgEFuHZJml0) | 10:12 | 2025-07-19 | 2025-08-15 |
 | [Vontade de Adorar + Vitória no Deserto \(Ao Vivo\)](https://open.spotify.com/track/2wrQ9dUssv5cSsuwPTRUTP) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Vontade de Adorar \(Ao Vivo\)](https://open.spotify.com/album/2eOgN1t4doKDiqNbzQ7xMZ) | 4:21 | 2025-10-10 | 2025-10-24 |

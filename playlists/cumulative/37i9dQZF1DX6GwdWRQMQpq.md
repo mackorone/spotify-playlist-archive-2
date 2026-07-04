@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Coi Leray
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Trim & Monaleo
 
-844 songs - 1 day 13 hr 28 min
+845 songs - 1 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 | 2022-04-08 | 2022-06-11 |
 | [Crazy Bout Me](https://open.spotify.com/track/5ZWOnARwK6B46d2xJQOveR) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [Crazy Bout Me](https://open.spotify.com/album/0Y6IpiA84fDCMfhHa2Ky1j) | 2:02 | 2024-11-22 | 2025-02-08 |
 | [Crying On Your Birthday](https://open.spotify.com/track/5wNhm1LOZHZRdTcTk3rpZh) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Crying On Your Birthday](https://open.spotify.com/album/7H0ZaJMQRQTquLuFN2jXqn) | 3:48 | 2023-09-29 | 2023-10-14 |
+| [Cupcake](https://open.spotify.com/track/2bknsnLPCEMMKCVrYdTfAV) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Cupcake](https://open.spotify.com/album/6qts20zdlXIj0lu42qjbD6) | 2:26 | 2026-07-03 |  |
 | [DADE](https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [DADE](https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad) | 1:44 | 2025-09-12 | 2025-10-11 |
 | [Dancing Queen](https://open.spotify.com/track/65HXJWOYBX2pFpdtusWRiV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Dancing Queen / Yasss Queen](https://open.spotify.com/album/47QCUgKloZqFa0ldcUZiff) | 3:13 | 2022-04-29 | 2022-08-27 |
 | [Dat Girl](https://open.spotify.com/track/25Yec8hwjxT2YZbpSrDyBT) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Dat Girl](https://open.spotify.com/album/6BVqqZYdMGRuixm5myTorO) | 2:35 | 2025-06-27 | 2025-10-04 |
@@ -672,7 +673,7 @@
 | [Self Love \(Spider\-Man: Across the Spider\-Verse\) \(Metro Boomin & Coi Leray\)](https://open.spotify.com/track/0AAMnNeIc6CdnfNU85GwCH) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:09 | 2023-06-02 | 2023-09-02 |
 | [Self Made](https://open.spotify.com/track/6I0vBiTtWTVJ0P6tH2y7Qo) | [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [Self Made](https://open.spotify.com/album/3pu3OJfmpdpGXmf6tHYZxl) | 2:48 | 2022-01-11 | 2022-04-29 |
 | [Sexxy](https://open.spotify.com/track/7DGr8RxLyy0ofCtSLmZtxW) | [Breskii](https://open.spotify.com/artist/2wVt4s4eHizk62Er2CLunw) | [Sexxy](https://open.spotify.com/album/49OujRbYAHaPrUj6kFBqRg) | 3:17 | 2026-05-15 | 2026-06-13 |
-| [Sexy Ladies \(feat\. UCB \(Uncalled 4 Band\)\)](https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [UCB \(Uncalled 4 Band\)](https://open.spotify.com/artist/3B9swkXOxcCCEEnuak3oIF) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:50 | 2026-06-05 |  |
+| [Sexy Ladies \(feat\. UCB \(Uncalled 4 Band\)\)](https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [UCB \(Uncalled 4 Band\)](https://open.spotify.com/artist/3B9swkXOxcCCEEnuak3oIF) | [BITCH](https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk) | 2:50 | 2026-06-05 | 2026-07-04 |
 | [Sexy Soulaan](https://open.spotify.com/track/0xH565ykWKUrYdcizBbz30) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Sexy Soulaan](https://open.spotify.com/album/3ChMIwC91eiIA6KMJNq8EK) | 2:02 | 2025-09-26 | 2025-10-25 |
 | [Shabooya](https://open.spotify.com/track/6PphODv2LB2b9BWK9lhWuY) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz) | [Shabooya](https://open.spotify.com/album/1CGE1Yx45ZHuxkw95NXpyU) | 2:58 | 2022-09-30 | 2023-03-18 |
 | [Shabooya \- Remix](https://open.spotify.com/track/3phHsBW2j2Asxk4Q5BwzSS) | [Hitkidd](https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf), [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y), [Slimeroni](https://open.spotify.com/artist/1aSHAWLQKX1Ln5yoHh8mTq), [Aleza](https://open.spotify.com/artist/0cTIgkgGfLEoAAKV7tJnRz) | [Shabooya \(Remix\)](https://open.spotify.com/album/3p8eDNbBqnrlEIoUCoLM2Y) | 3:51 | 2023-03-17 | 2023-03-25 |

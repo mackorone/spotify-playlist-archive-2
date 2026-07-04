@@ -1,6 +1,6 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 203762,
+  "num_followers": 203787,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
-        "name": "\u0648\u0645\u0639\u0627\u0643",
-        "url": "https://open.spotify.com/album/271cKJeVqEaiCFJleoaw10"
-      },
-      "artists": [
-        {
-          "name": "Nedaa Shrara",
-          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
-        }
-      ],
-      "duration_ms": 235750,
-      "name": "\u0648\u0645\u0639\u0627\u0643",
-      "url": "https://open.spotify.com/track/1IBDW2nrAVzFXCH5vIdt2d"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
         "name": "Lealy Nahary",
         "url": "https://open.spotify.com/album/09ZgqimPMu3VdlvZn5WpZg"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 264228,
       "name": "Qusad Einy",
       "url": "https://open.spotify.com/track/4k9cMYGwCfSNa0wFCN0uDo"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
+        "name": "\u0648\u0645\u0639\u0627\u0643",
+        "url": "https://open.spotify.com/album/271cKJeVqEaiCFJleoaw10"
+      },
+      "artists": [
+        {
+          "name": "Nedaa Shrara",
+          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
+        }
+      ],
+      "duration_ms": 235750,
+      "name": "\u0648\u0645\u0639\u0627\u0643",
+      "url": "https://open.spotify.com/track/1IBDW2nrAVzFXCH5vIdt2d"
     },
     {
       "added_at": "2026-06-17 12:04:55",

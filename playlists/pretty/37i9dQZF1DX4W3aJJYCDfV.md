@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Madonna, SIENNA SPIRO, Jorja Smith and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030,621 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,565 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,13 +71,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 61 | [espiral](https://open.spotify.com/track/1BGmn3of8EaszOvSdnASwY) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [espiral](https://open.spotify.com/album/4ZHMWkHggFiceto49B8oJQ) | 3:39 |
 | 62 | [Ever No](https://open.spotify.com/track/1EvaploZid3ViWXYKwOZk9) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX) | [Ever No](https://open.spotify.com/album/35iOxvtjd2EhrQ5ISjDd5N) | 4:00 |
 | 63 | [Better For The Worse](https://open.spotify.com/track/3ySa3g3dJiglX5VuXT7f73) | [Lucia & The Best Boys](https://open.spotify.com/artist/3hihvmS048d6bb8YlZaTU1) | [Better For The Worse](https://open.spotify.com/album/0dFoGtjL6FLnEeMk5RLu9Q) | 4:02 |
-| 64 | [Track 5](https://open.spotify.com/track/1MY06Ndfegza0SDyEeOEHM) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4) | [Grouchism](https://open.spotify.com/album/6NpnNKqsppcobQB1IXzsuA) | 0:00 |
+| 64 | [Cubase](https://open.spotify.com/track/1MY06Ndfegza0SDyEeOEHM) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl), [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Grouchism](https://open.spotify.com/album/6NpnNKqsppcobQB1IXzsuA) | 1:51 |
 | 65 | [ZEN](https://open.spotify.com/track/7yD6lpfVNDV8L37M7NTAqT) | [Molly and the Dolly Shop](https://open.spotify.com/artist/2nkAAzvVVl8pBfjlJ3sZJs) | [ZEN](https://open.spotify.com/album/3lk4XgGxF9v1XKkIHTsLql) | 2:18 |
 | 66 | [Bodybag](https://open.spotify.com/track/3z4PR5rouZvYh7QSOVflts) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [B Live](https://open.spotify.com/artist/5Dyi0c3gAWXi520W10rX1U) | [Bodybag](https://open.spotify.com/album/2RTt2Rls9gk9Li1XRfKg6T) | 2:50 |
 | 67 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 |
 | 68 | [MY SEARCH IS OVER](https://open.spotify.com/track/2VYe0pDgMUNk0wlzOPxEoT) | [Scotti Dee](https://open.spotify.com/artist/07UnmA48SWTKJCC5t5ns7W), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [MY SEARCH IS OVER](https://open.spotify.com/album/3JKBPf7DZzxTUJBPoMwajy) | 5:43 |
 | 69 | [Superfriend](https://open.spotify.com/track/1CfkuZz1p1xwBCqKK6GNrl) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Superfriend](https://open.spotify.com/album/0rRcN12PuaaMexuaQ2Gyt9) | 3:21 |
-| 70 | [Easy Does It](https://open.spotify.com/track/0Vu83oUXy0mRy9PBLaAYeg) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [chameleon](https://open.spotify.com/artist/5F8XCTyivrgX7o3rghj8vO) | [Easy Does It](https://open.spotify.com/album/3GFs7Ptq8dohpYJxywo8Va) | 2:56 |
+| 70 | [Easy Does It](https://open.spotify.com/track/0Vu83oUXy0mRy9PBLaAYeg) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [Easy Does It](https://open.spotify.com/album/3GFs7Ptq8dohpYJxywo8Va) | 2:56 |
 | 71 | [Slush Puppy](https://open.spotify.com/track/5esPnS3J0c0x94yZuCxukj) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Slush Puppy](https://open.spotify.com/album/6lik4v0FwZyEZ0VPKui5z0) | 2:46 |
 | 72 | [Human \(Feat\. John Martin\)](https://open.spotify.com/track/426LH4RVp0WvxX69NQCTGl) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Human \(Feat\. John Martin\)](https://open.spotify.com/album/4FOIeI7EpeHdrQxKSxKc8s) | 3:19 |
 | 73 | [Make Up](https://open.spotify.com/track/25fgqMC5JX8A9du5YeqREN) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Make Up](https://open.spotify.com/album/7h7oXkx5EOMYh2cfmu3Gq1) | 3:46 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 91 | [The Time is Now](https://open.spotify.com/track/2EmhB0nDjLxuunk7TaSYNY) | [The Flints](https://open.spotify.com/artist/4yJmzmjRodRbsqgOVpHD1v) | [The Time is Now](https://open.spotify.com/album/3mTxuvhCocAOe4cTDf0wsw) | 3:51 |
 | 92 | [Got Me Trippin'](https://open.spotify.com/track/5zq6VcgMlvGZcERQeptF8X) | [Hugh Hardie](https://open.spotify.com/artist/0ZlH3VG6iAeC1KVzNz6rqW), [Makoto](https://open.spotify.com/artist/4CBavfYzjrTvV7xCIq6WQu) | [Got Me Trippin'](https://open.spotify.com/album/3L7A3EpYxK7eFe97JPc1ti) | 4:02 |
 | 93 | [solo](https://open.spotify.com/track/5tmv0I8TqzOie4jLCf0za0) | [808vic](https://open.spotify.com/artist/0kzNGCruksB28DRbqhEfPM) | [solo + ways](https://open.spotify.com/album/15YRI0nyUzfHLHt3uwBnsf) | 2:18 |
-| 94 | [Get on Up \(Main\)](https://open.spotify.com/track/0J4le9XNkoy9dGk7qUJaMy) | [REESE](https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX), [Futosé](https://open.spotify.com/artist/6FeeyXqknRHo5IhqaqKe4L) | [Get On Up](https://open.spotify.com/album/4FOQLPK1UqhgMFlvRGg0lQ) | 2:38 |
+| 94 | [Get on Up](https://open.spotify.com/track/0J4le9XNkoy9dGk7qUJaMy) | [REESE](https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX), [Futosé](https://open.spotify.com/artist/6FeeyXqknRHo5IhqaqKe4L) | [Get On Up](https://open.spotify.com/album/4FOQLPK1UqhgMFlvRGg0lQ) | 2:38 |
 | 95 | [If Ever Your Devil Is Kind](https://open.spotify.com/track/1sSfmIq7bjpRblOojnJQXb) | [The Guest List](https://open.spotify.com/artist/3MlBGzJspD6CjrHRYbR4OQ) | [If Ever Your Devil Is Kind](https://open.spotify.com/album/1gCoLjmlGPuPufOzF7edWv) | 3:16 |
 | 96 | [Here We Go](https://open.spotify.com/track/265XXidWV1oR3ee31J5rrQ) | [Ben Reggie](https://open.spotify.com/artist/1D3MW7YQ7OzV2nUR4tVNkE) | [Here We Go](https://open.spotify.com/album/7ExYB9eoDxZ1rKbuRMDkRD) | 4:23 |
 | 97 | [GIZMO](https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt) | [Pussy Heaven](https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK) | [HYMN](https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf) | 3:04 |

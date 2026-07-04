@@ -1,6 +1,6 @@
 {
   "description": "\bTrendy & Chill Korean R&B music. (Cover: Dodree(\ub3c4\ub4dc\ub9ac))",
-  "num_followers": 1099477,
+  "num_followers": 1099614,
   "original_name": "TrenChill K-R&B",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,6 @@
     {
       "added_at": "2026-07-02 15:36:23",
       "album": {
-        "name": "4SHOBOIZ MIXTAPE",
-        "url": "https://open.spotify.com/album/3XzKcbKfLPWSOG7BJbC98O"
-      },
-      "artists": [
-        {
-          "name": "WOOJIN of LNGSHOT",
-          "url": "https://open.spotify.com/artist/03EbJpxyuSdoxVkaOr7gKY"
-        },
-        {
-          "name": "LOUIS of LNGSHOT",
-          "url": "https://open.spotify.com/artist/7dC5JED2uhOrtxILEGcecT"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "My Side",
-      "url": "https://open.spotify.com/track/6yiVxaYx9AkYD54tK5IhSE"
-    },
-    {
-      "added_at": "2026-07-02 15:36:23",
-      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 229359,
       "name": "D (Half Moon)",
       "url": "https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD"
+    },
+    {
+      "added_at": "2026-07-02 15:36:23",
+      "album": {
+        "name": "4SHOBOIZ MIXTAPE",
+        "url": "https://open.spotify.com/album/3XzKcbKfLPWSOG7BJbC98O"
+      },
+      "artists": [
+        {
+          "name": "WOOJIN of LNGSHOT",
+          "url": "https://open.spotify.com/artist/03EbJpxyuSdoxVkaOr7gKY"
+        },
+        {
+          "name": "LOUIS of LNGSHOT",
+          "url": "https://open.spotify.com/artist/7dC5JED2uhOrtxILEGcecT"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "My Side",
+      "url": "https://open.spotify.com/track/6yiVxaYx9AkYD54tK5IhSE"
     },
     {
       "added_at": "2026-07-02 15:36:23",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-07-02 15:36:23",
       "album": {
-        "name": "ANTIDOTE",
-        "url": "https://open.spotify.com/album/1lNfCl6zXEhb84RSOGTzGu"
-      },
-      "artists": [
-        {
-          "name": "DIMO REX",
-          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
-        }
-      ],
-      "duration_ms": 147299,
-      "name": "SAY MY NAME",
-      "url": "https://open.spotify.com/track/5Rh1Uh43TL5maI0LQaR818"
-    },
-    {
-      "added_at": "2026-07-02 15:36:23",
-      "album": {
         "name": "Aftertaste (Inspired by the Original Motion Picture K-POPS!)",
         "url": "https://open.spotify.com/album/5wZ5I06szDqpZL5hfjNwtd"
       },
@@ -783,22 +767,6 @@
     {
       "added_at": "2026-07-02 15:36:23",
       "album": {
-        "name": "Bambi - The 3rd Mini Album",
-        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 213053,
-      "name": "Bambi",
-      "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
-    },
-    {
-      "added_at": "2026-07-02 15:36:23",
-      "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS"
       },
@@ -815,6 +783,38 @@
       "duration_ms": 205101,
       "name": "Shoong! (feat. LISA of BLACKPINK)",
       "url": "https://open.spotify.com/track/0oJRiblEiQgTg2hRfnacIt"
+    },
+    {
+      "added_at": "2026-07-02 15:36:23",
+      "album": {
+        "name": "ANTIDOTE",
+        "url": "https://open.spotify.com/album/1lNfCl6zXEhb84RSOGTzGu"
+      },
+      "artists": [
+        {
+          "name": "DIMO REX",
+          "url": "https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH"
+        }
+      ],
+      "duration_ms": 147299,
+      "name": "SAY MY NAME",
+      "url": "https://open.spotify.com/track/5Rh1Uh43TL5maI0LQaR818"
+    },
+    {
+      "added_at": "2026-07-02 15:36:23",
+      "album": {
+        "name": "Bambi - The 3rd Mini Album",
+        "url": "https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 213053,
+      "name": "Bambi",
+      "url": "https://open.spotify.com/track/60VaORSJ5x1D4ZPSc0g2En"
     },
     {
       "added_at": "2026-07-02 15:36:23",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-07-02 15:36:23",
       "album": {
-        "name": "Savage - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Lucid Dream",
-      "url": "https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH"
-    },
-    {
-      "added_at": "2026-07-02 15:36:23",
-      "album": {
         "name": "Moodswings In This Order",
         "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 195013,
       "name": "Nerves",
       "url": "https://open.spotify.com/track/2qwplOI7upNGwg2mLVrraw"
+    },
+    {
+      "added_at": "2026-07-02 15:36:23",
+      "album": {
+        "name": "Savage - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Lucid Dream",
+      "url": "https://open.spotify.com/track/285Bh5EkbxGGE76ge8JDbH"
     },
     {
       "added_at": "2026-07-02 15:36:23",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-07-02 15:36:23",
       "album": {
+        "name": "Moodswings In This Order",
+        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 200373,
+      "name": "Dope Lovers",
+      "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
+    },
+    {
+      "added_at": "2026-07-02 15:36:23",
+      "album": {
         "name": "130 Mood : TRBL",
         "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 224098,
       "name": "What 2 Do",
       "url": "https://open.spotify.com/track/6GS3lnAVy5w6AHWEKYzYeS"
-    },
-    {
-      "added_at": "2026-07-02 15:36:23",
-      "album": {
-        "name": "Moodswings In This Order",
-        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Dope Lovers",
-      "url": "https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86"
     },
     {
       "added_at": "2026-07-02 15:36:23",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-07-02 15:36:23",
       "album": {
-        "name": "Bam Yang Gang",
-        "url": "https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O"
-      },
-      "artists": [
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 146197,
-      "name": "Bam Yang Gang",
-      "url": "https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy"
-    },
-    {
-      "added_at": "2026-07-02 15:36:23",
-      "album": {
         "name": "Moodswings In To Order",
         "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 182480,
       "name": "Mood",
       "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg"
+    },
+    {
+      "added_at": "2026-07-02 15:36:23",
+      "album": {
+        "name": "Bam Yang Gang",
+        "url": "https://open.spotify.com/album/4QJZzFdGz2YlPZEHAlAJ6O"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 146197,
+      "name": "Bam Yang Gang",
+      "url": "https://open.spotify.com/track/5juCu4WFTFRZ2XilopAMTy"
     },
     {
       "added_at": "2026-07-02 15:36:23",

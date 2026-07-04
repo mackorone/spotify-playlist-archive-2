@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 32031,
+  "num_followers": 32036,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAAByisJTwBu3cwQeKaRXUj0w",
+  "snapshot_id": "akWqAAAAAACcOUEaLlZ5mAS78niQosFl",
   "tracks": [
     {
       "added_at": null,
@@ -375,6 +375,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Full Moon (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3Xnjlj4aJadxwLfdd1QYkF"
+      },
+      "artists": [
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        },
+        {
+          "name": "Rita Coolidge",
+          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Loving Arms",
+      "url": "https://open.spotify.com/track/2BR7FF7KdaL1ygxVJ39Iad"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -435,26 +455,6 @@
       "duration_ms": 305506,
       "name": "City of New Orleans - Live at Nassau Coliseum, Uniondale, NY - March 1990",
       "url": "https://open.spotify.com/track/6FaNaSx1Z2WwdQIeqePjto"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Full Moon (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3Xnjlj4aJadxwLfdd1QYkF"
-      },
-      "artists": [
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        },
-        {
-          "name": "Rita Coolidge",
-          "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Loving Arms",
-      "url": "https://open.spotify.com/track/2BR7FF7KdaL1ygxVJ39Iad"
     },
     {
       "added_at": null,
@@ -1191,6 +1191,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "On My Way to Heaven",
+        "url": "https://open.spotify.com/album/33cycgV7UVqjr7S4qxGRXP"
+      },
+      "artists": [
+        {
+          "name": "Tanya Tucker",
+          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
+        },
+        {
+          "name": "Dennis Quaid",
+          "url": "https://open.spotify.com/artist/4Xc8wZYmacomrp1afX6ajP"
+        },
+        {
+          "name": "Kris Kristofferson",
+          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
+        }
+      ],
+      "duration_ms": 249711,
+      "name": "On My Way to Heaven",
+      "url": "https://open.spotify.com/track/3jxm3qgTSupK8sjlqgqPl6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ralph Emery's Country Legends Series (Vol. 2 / Live)",
         "url": "https://open.spotify.com/album/1RG0AMBjxcmbDzceUpR9L3"
       },
@@ -1235,30 +1259,6 @@
       "duration_ms": 264266,
       "name": "From Here To The Moon and Back",
       "url": "https://open.spotify.com/track/3dH70eSrjCoWNl9VGX5Giq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On My Way to Heaven",
-        "url": "https://open.spotify.com/album/33cycgV7UVqjr7S4qxGRXP"
-      },
-      "artists": [
-        {
-          "name": "Tanya Tucker",
-          "url": "https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB"
-        },
-        {
-          "name": "Dennis Quaid",
-          "url": "https://open.spotify.com/artist/4Xc8wZYmacomrp1afX6ajP"
-        },
-        {
-          "name": "Kris Kristofferson",
-          "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
-        }
-      ],
-      "duration_ms": 249711,
-      "name": "On My Way to Heaven",
-      "url": "https://open.spotify.com/track/3jxm3qgTSupK8sjlqgqPl6"
     },
     {
       "added_at": null,

@@ -82937,7 +82937,7 @@
         },
         {
           "name": "Masodaprod",
-          "url": "https://open.spotify.com/artist/1chqvoCBBPzbXzm8vQyLvV"
+          "url": "https://open.spotify.com/artist/50BQVyaoPmx79p6M3EepVb"
         }
       ],
       "date_added": "2026-07-02",
@@ -93647,7 +93647,7 @@
         },
         {
           "name": "Pyrex",
-          "url": "https://open.spotify.com/artist/4ELZUuHRIUrAkko2cjpWB1"
+          "url": "https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg"
         }
       ],
       "date_added": "2026-07-02",
@@ -143810,6 +143810,36 @@
       "duration_ms": 152156,
       "name": "TIMMY TURNER",
       "url": "https://open.spotify.com/track/53Jdi1wxkc6IEBN2hUrBUM"
+    },
+    {
+      "album": {
+        "name": "OASI",
+        "url": "https://open.spotify.com/album/2q8PFePAkviShkjh8eOoDm"
+      },
+      "artists": [
+        {
+          "name": "Fiore Akamono",
+          "url": "https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB"
+        },
+        {
+          "name": "18K",
+          "url": "https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB"
+        },
+        {
+          "name": "4997",
+          "url": "https://open.spotify.com/artist/0wBVwV8gukXKLSrVjQVJTE"
+        },
+        {
+          "name": "d/rose",
+          "url": "https://open.spotify.com/artist/6h0OZeWlXrzF2akE3yNBta"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158677,
+      "name": "Timoth\u00e9e Chalamet (feat. 18K)",
+      "url": "https://open.spotify.com/track/4nZ8p1D1vWRE4F0O0wMz2y"
     },
     {
       "album": {

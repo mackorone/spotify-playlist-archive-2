@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Oscar Mayd\u00f3n y Omar Camacho en cover",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Joss ML en cover",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -1691,6 +1691,28 @@
     },
     {
       "album": {
+        "name": "a\u00f1os, no meses",
+        "url": "https://open.spotify.com/album/5O4uOZL9D8L6HXlSmqZwKV"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "KEVIN ROLDAN",
+          "url": "https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162333,
+      "name": "a\u00f1os, no meses",
+      "url": "https://open.spotify.com/track/3eQjXNfkhr6bAr8sPvXJlr"
+    },
+    {
+      "album": {
         "name": "B de Bellako",
         "url": "https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB"
       },
@@ -2760,7 +2782,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 176810,
       "name": "Bolsita Cara",
       "url": "https://open.spotify.com/track/63RoO5slbFtgk6lPGZkgbC"
@@ -3800,7 +3822,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 147789,
       "name": "Chakita y a la linea",
       "url": "https://open.spotify.com/track/6GJAJ9D51IVUY1f448F1Uj"
@@ -5674,7 +5696,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 132064,
       "name": "descontrol",
       "url": "https://open.spotify.com/track/5BimcGZWyx0ArOozA1niJK"
@@ -13815,6 +13837,28 @@
     },
     {
       "album": {
+        "name": "Melo como too",
+        "url": "https://open.spotify.com/album/3XwsXoM3bZIuswE4hugBnx"
+      },
+      "artists": [
+        {
+          "name": "Asmed",
+          "url": "https://open.spotify.com/artist/03LtkSHCEhzQtKTdt7R1Ad"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172693,
+      "name": "Melo como too",
+      "url": "https://open.spotify.com/track/69RPpZhHjzksdWiaDxh48v"
+    },
+    {
+      "album": {
         "name": "Tiempos (Re-Issue)",
         "url": "https://open.spotify.com/album/2gSgn4VsIQzuoXC6b27GNH"
       },
@@ -15200,7 +15244,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 133100,
       "name": "Ni\u00f1a Bien (SLS-007)",
       "url": "https://open.spotify.com/track/7yt5TPj7jGPs09iITMzAuw"
@@ -15940,6 +15984,36 @@
       "duration_ms": 209989,
       "name": "Nutela",
       "url": "https://open.spotify.com/track/26O1NVPNk922Ihf5K49M7f"
+    },
+    {
+      "album": {
+        "name": "KHEPRI",
+        "url": "https://open.spotify.com/album/2fdhEkSj62tBTt6AF7a48y"
+      },
+      "artists": [
+        {
+          "name": "Joss ML",
+          "url": "https://open.spotify.com/artist/1iwzxDCn3LikHvzTC3OFZA"
+        },
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "LOOJAN",
+          "url": "https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI"
+        },
+        {
+          "name": "Enayy",
+          "url": "https://open.spotify.com/artist/6NxJgAQlIO7Tgs0AKGkMXZ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143400,
+      "name": "Obvi",
+      "url": "https://open.spotify.com/track/5J5w38Nz6WmwHshtQKWJZM"
     },
     {
       "album": {
@@ -16702,7 +16776,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 163000,
       "name": "Palo Favorito",
       "url": "https://open.spotify.com/track/6oUpLBqoPmjNN9C31yZNTK"
@@ -19052,6 +19126,32 @@
       "duration_ms": 146472,
       "name": "Que Chimba",
       "url": "https://open.spotify.com/track/5N8yKNvOR49PkfJjwbleE6"
+    },
+    {
+      "album": {
+        "name": "QUE FUE",
+        "url": "https://open.spotify.com/album/15mYhqGsgKnBjawCwnaD1J"
+      },
+      "artists": [
+        {
+          "name": "El Mini",
+          "url": "https://open.spotify.com/artist/4I5bs1BXz3JsItL4pze2GN"
+        },
+        {
+          "name": "Dj Sue\u00f1o",
+          "url": "https://open.spotify.com/artist/33t1v6wkuctEHPQ4356j87"
+        },
+        {
+          "name": "La Zowi",
+          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158735,
+      "name": "QUE FUE",
+      "url": "https://open.spotify.com/track/4Wq7u6MQTyoFGnAOrJ6l8T"
     },
     {
       "album": {
@@ -23336,6 +23436,28 @@
       "duration_ms": 180000,
       "name": "Tu Foto",
       "url": "https://open.spotify.com/track/6sbE1uNp4efoI3vR41d0uD"
+    },
+    {
+      "album": {
+        "name": "Tu Me Celas",
+        "url": "https://open.spotify.com/album/63dTAcd7Xkd8WmNfDbF1PA"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Tu Me Celas",
+      "url": "https://open.spotify.com/track/3i0LuBOaoSL9B9rssNF1NC"
     },
     {
       "album": {

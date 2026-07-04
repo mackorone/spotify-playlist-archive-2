@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: miaw
 
-307 songs - 17 hr 48 min
+308 songs - 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Bitches Talk Shit](https://open.spotify.com/track/2zeOTTt5w7lSwKtbUXcnTQ) | [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [Bitches Talk Shit](https://open.spotify.com/album/7qpKgKDoZQhrvnZIeIaRKq) | 3:39 | 2026-04-23 |  |
 | [blade bird](https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [choke enough](https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt) | 3:18 | 2025-03-13 |  |
 | [Blinkmoth \(July Mix\)](https://open.spotify.com/track/6kvYlDN7rVedMOE7VxeQGg) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Hypersoft Lovejinx Junkdream](https://open.spotify.com/album/59V4YNExoSF8HH4JVEtn6k) | 7:03 | 2025-03-13 | 2025-09-06 |
+| [Blo](https://open.spotify.com/track/65Ja8ZfxVKPlhMbQtHpjO1) | [never\-never](https://open.spotify.com/artist/4TR28DVlsvth6WIPlcxoKP) | [Blo](https://open.spotify.com/album/2mq28v3vkhlh1SbVDb0x0f) | 1:52 | 2026-07-03 |  |
 | [Blu](https://open.spotify.com/track/7p4XQTjHv9uSXUxQnPmPSV) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [Mount Crystal](https://open.spotify.com/album/5qiZBMIgAH1lqylwi0FC8h) | 3:09 | 2025-09-12 | 2026-05-01 |
 | [Blue Flame](https://open.spotify.com/track/5R9utrfWW0T6GqAe3koh3o) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Play](https://open.spotify.com/album/4mveLQ3t7GKHwuKDShwgzx) | 3:03 | 2026-05-22 |  |
 | [blue+green](https://open.spotify.com/track/7cLHzL62KYEIDvqhmml7fx) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [blue+green](https://open.spotify.com/album/7dskID1nsNKIaBuA7Kze02) | 4:05 | 2026-05-29 |  |

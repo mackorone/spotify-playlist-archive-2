@@ -808,7 +808,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 154233,
       "name": "Enojada y Ardida",
       "url": "https://open.spotify.com/track/0NecORiq1EX71MEx80OGWI"
@@ -1752,6 +1752,28 @@
       "duration_ms": 128580,
       "name": "Rancho viejo",
       "url": "https://open.spotify.com/track/0dMGyiQgusmc6baZG2q4P5"
+    },
+    {
+      "album": {
+        "name": "El Movimiento Alterado, Vol. 4",
+        "url": "https://open.spotify.com/album/0fz09SJ60rombnWshTctXP"
+      },
+      "artists": [
+        {
+          "name": "Los Buitres De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152032,
+      "name": "Recordando a Michoacan",
+      "url": "https://open.spotify.com/track/3YRuSPcawwlpF4YcYtyClC"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1874656,
+  "num_followers": 1874557,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Under The Streetlights",
-        "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 213483,
-      "name": "I Should Know Better",
-      "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Grow Up",
         "url": "https://open.spotify.com/album/2Pr2RQKoF6y9HI2ytleeM3"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 228064,
       "name": "Grow Up",
       "url": "https://open.spotify.com/track/3Qt3A2x143Eo3PeZb0rRfH"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Under The Streetlights",
+        "url": "https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 213483,
+      "name": "I Should Know Better",
+      "url": "https://open.spotify.com/track/2Y782Ab77v8vq7QT8ZZzap"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Celia",
-        "url": "https://open.spotify.com/album/2Va2fcsc6K3k9q0YZv2K9M"
-      },
-      "artists": [
-        {
-          "name": "Alex Ebert",
-          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
-        }
-      ],
-      "duration_ms": 200538,
-      "name": "Celia",
-      "url": "https://open.spotify.com/track/71vTcEAzho6KibO9OyG4GL"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 205600,
       "name": "Better Angels",
       "url": "https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Celia",
+        "url": "https://open.spotify.com/album/2Va2fcsc6K3k9q0YZv2K9M"
+      },
+      "artists": [
+        {
+          "name": "Alex Ebert",
+          "url": "https://open.spotify.com/artist/1me05HW5s7TShHra5nN7uE"
+        }
+      ],
+      "duration_ms": 200538,
+      "name": "Celia",
+      "url": "https://open.spotify.com/track/71vTcEAzho6KibO9OyG4GL"
     },
     {
       "added_at": "2026-06-05 20:48:48",

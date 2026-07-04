@@ -241,6 +241,32 @@
     },
     {
       "album": {
+        "name": "2001",
+        "url": "https://open.spotify.com/album/2QOa2OfzGzpOZC8gsi5pH2"
+      },
+      "artists": [
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198115,
+      "name": "2001",
+      "url": "https://open.spotify.com/track/3lXFCv64yKOqac9z7mAJSA"
+    },
+    {
+      "album": {
         "name": "2003",
         "url": "https://open.spotify.com/album/2E928WZPSSBAmGPhujvSdF"
       },

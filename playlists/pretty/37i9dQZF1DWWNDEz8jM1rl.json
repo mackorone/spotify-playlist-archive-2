@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 159118,
+  "num_followers": 159164,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Esta VIDA es una SOLA",
+        "url": "https://open.spotify.com/album/2fhqjbwXudU64GrGc7Vyk1"
+      },
+      "artists": [
+        {
+          "name": "Madiel Lara",
+          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
+        }
+      ],
+      "duration_ms": 171444,
+      "name": "Esta VIDA es una SOLA",
+      "url": "https://open.spotify.com/track/6om1gtHJvJjC7cUZK6djoE"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "De Cabeza",
         "url": "https://open.spotify.com/album/4oNqFYO3fDYfMS4jWbPZnM"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 189130,
       "name": "De Cabeza",
       "url": "https://open.spotify.com/track/6hkWVRUBzzKGtJG8V7dDtr"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Esta VIDA es una SOLA",
-        "url": "https://open.spotify.com/album/2fhqjbwXudU64GrGc7Vyk1"
-      },
-      "artists": [
-        {
-          "name": "Madiel Lara",
-          "url": "https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42"
-        }
-      ],
-      "duration_ms": 171444,
-      "name": "Esta VIDA es una SOLA",
-      "url": "https://open.spotify.com/track/6om1gtHJvJjC7cUZK6djoE"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -423,22 +423,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Mqb",
-        "url": "https://open.spotify.com/album/5p3zVMHk7f7a3IhELZ3Dfy"
-      },
-      "artists": [
-        {
-          "name": "Prop\u00f3sito Con Estilo",
-          "url": "https://open.spotify.com/artist/0G8dfwHkfphIgvtXx980jN"
-        }
-      ],
-      "duration_ms": 164722,
-      "name": "Blindada",
-      "url": "https://open.spotify.com/track/54040tP5vp9wThDM8tPo6P"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "DIOS es el que SABE",
         "url": "https://open.spotify.com/album/4LDQzDoBvcbkNCc9DUsKKg"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 166779,
       "name": "DIOS es el que SABE",
       "url": "https://open.spotify.com/track/7oRUdU5tPb4CRKnFILi8qL"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Mqb",
+        "url": "https://open.spotify.com/album/5p3zVMHk7f7a3IhELZ3Dfy"
+      },
+      "artists": [
+        {
+          "name": "Prop\u00f3sito Con Estilo",
+          "url": "https://open.spotify.com/artist/0G8dfwHkfphIgvtXx980jN"
+        }
+      ],
+      "duration_ms": 164722,
+      "name": "Blindada",
+      "url": "https://open.spotify.com/track/54040tP5vp9wThDM8tPo6P"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "If You Let Go",
-        "url": "https://open.spotify.com/album/25uX1A4hZ3VZO7dFZUSTpN"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 156101,
-      "name": "If You Let Go",
-      "url": "https://open.spotify.com/track/6ZG5oKmJewOSOyzrjljTkp"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/6BhuGOZh7HucgeEhZTECJc"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 179690,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/3UjG1O5avEgsYVAMXSBeg5"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "If You Let Go",
+        "url": "https://open.spotify.com/album/25uX1A4hZ3VZO7dFZUSTpN"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "duration_ms": 156101,
+      "name": "If You Let Go",
+      "url": "https://open.spotify.com/track/6ZG5oKmJewOSOyzrjljTkp"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "ANTES ERA NADA",
-        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 154421,
-      "name": "ANTES ERA NADA",
-      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Un Gran Dia",
         "url": "https://open.spotify.com/album/353SIr2Ugbnl5727ineTTW"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 139428,
       "name": "Un Gran Dia",
       "url": "https://open.spotify.com/track/4x0HkTnTaQiwH5h8b8BAYJ"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "ANTES ERA NADA",
+        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "duration_ms": 154421,
+      "name": "ANTES ERA NADA",
+      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Gracia Divina",
-        "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
-      },
-      "artists": [
-        {
-          "name": "Kev Miranda",
-          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
-        }
-      ],
-      "duration_ms": 142306,
-      "name": "Gracia Divina",
-      "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Eco",
         "url": "https://open.spotify.com/album/6kErvhmAdGhtkoDJAQzZsA"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 157685,
       "name": "Eco",
       "url": "https://open.spotify.com/track/2BkFIWHhqzl2zA3ImMvJtO"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Gracia Divina",
+        "url": "https://open.spotify.com/album/4FpUoAVaGePYjOZyR7ZehE"
+      },
+      "artists": [
+        {
+          "name": "Kev Miranda",
+          "url": "https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR"
+        }
+      ],
+      "duration_ms": 142306,
+      "name": "Gracia Divina",
+      "url": "https://open.spotify.com/track/2l6KQQHMrrdbgZLNzJfSke"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -831,26 +831,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Esto es Otra Cosa",
-        "url": "https://open.spotify.com/album/6lowaja53FwTaGjHnc3she"
-      },
-      "artists": [
-        {
-          "name": "Emanuel Lara",
-          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
-        },
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        }
-      ],
-      "duration_ms": 231013,
-      "name": "Nueva Temporada",
-      "url": "https://open.spotify.com/track/0xCF4lhRRnqgrm9Ey1FCDx"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Prepararse para la Buena",
         "url": "https://open.spotify.com/album/7oEHPS2X62dX0izKEwVU65"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 176437,
       "name": "Prepararse para la Buena",
       "url": "https://open.spotify.com/track/1FQoR8pCLfPiagLG8YcdQB"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Esto es Otra Cosa",
+        "url": "https://open.spotify.com/album/6lowaja53FwTaGjHnc3she"
+      },
+      "artists": [
+        {
+          "name": "Emanuel Lara",
+          "url": "https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "duration_ms": 231013,
+      "name": "Nueva Temporada",
+      "url": "https://open.spotify.com/track/0xCF4lhRRnqgrm9Ey1FCDx"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Lo Mejor De La Vida (Cumbia Remix)",
+        "url": "https://open.spotify.com/album/0BL7USChao0tMiffVUpQYC"
+      },
+      "artists": [
+        {
+          "name": "R Nova",
+          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Lo Mejor De La Vida - Cumbia Remix",
+      "url": "https://open.spotify.com/track/0CjGHa8FenJHKslMThGEyf"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Cubana",
         "url": "https://open.spotify.com/album/5605UFRgEq28zlWSa5Q0K5"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 186750,
       "name": "Cubana",
       "url": "https://open.spotify.com/track/6LcXSW7D6XH5BzBFeCM9OX"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Lo Mejor De La Vida (Cumbia Remix)",
-        "url": "https://open.spotify.com/album/0BL7USChao0tMiffVUpQYC"
-      },
-      "artists": [
-        {
-          "name": "R Nova",
-          "url": "https://open.spotify.com/artist/7rXuCCgw2Intfg2EJdQypx"
-        }
-      ],
-      "duration_ms": 179346,
-      "name": "Lo Mejor De La Vida - Cumbia Remix",
-      "url": "https://open.spotify.com/track/0CjGHa8FenJHKslMThGEyf"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Lamento En Baile",
+        "url": "https://open.spotify.com/album/5LdXcCYjU2cU4kVZ5kGTme"
+      },
+      "artists": [
+        {
+          "name": "Misael J",
+          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
+        }
+      ],
+      "duration_ms": 222715,
+      "name": "Lamento En Baile",
+      "url": "https://open.spotify.com/track/4saQuK5mH4rp0C2TqJiuEi"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "La Verdad EP",
         "url": "https://open.spotify.com/album/27nCwqrnUIZ0HnIKIUV5Di"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 182474,
       "name": "Quema",
       "url": "https://open.spotify.com/track/2ckUEfBAWstCQb5CV8gVqB"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Lamento En Baile",
-        "url": "https://open.spotify.com/album/5LdXcCYjU2cU4kVZ5kGTme"
-      },
-      "artists": [
-        {
-          "name": "Misael J",
-          "url": "https://open.spotify.com/artist/2pLxPDg7GPkgozOJLBrfQD"
-        }
-      ],
-      "duration_ms": 222715,
-      "name": "Lamento En Baile",
-      "url": "https://open.spotify.com/track/4saQuK5mH4rp0C2TqJiuEi"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 171703,
-      "name": "Rumbo Pa La Iglesia",
-      "url": "https://open.spotify.com/track/0MVtttqLPqQkogMIji8bpz"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
         "name": "Llegaron Los Cristianos",
         "url": "https://open.spotify.com/album/55az5nrLm5ZJmLbCOMJDjG"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2026-04-25 04:59:02",
       "album": {
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/2PiqQiq61HCKiK0LPzdptP"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 171703,
+      "name": "Rumbo Pa La Iglesia",
+      "url": "https://open.spotify.com/track/0MVtttqLPqQkogMIji8bpz"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
         "name": "Envero",
         "url": "https://open.spotify.com/album/5zeb46Zz4HGEiZWvAhVQ13"
       },
@@ -1319,26 +1319,6 @@
       "duration_ms": 219955,
       "name": "Subiendo",
       "url": "https://open.spotify.com/track/3RrOsiqtBqZkA23q1rkroe"
-    },
-    {
-      "added_at": "2026-04-25 04:59:02",
-      "album": {
-        "name": "Abatido",
-        "url": "https://open.spotify.com/album/50FppiB6Br1QKbBWWxMcRk"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Makaco el Cerebro",
-          "url": "https://open.spotify.com/artist/12DPlIOb9roEIgp5LqkJfH"
-        }
-      ],
-      "duration_ms": 289043,
-      "name": "Abatido",
-      "url": "https://open.spotify.com/track/6S3sKgRoBiwvG0FilXcmaI"
     },
     {
       "added_at": "2026-04-25 04:59:02",
@@ -1383,6 +1363,26 @@
       "duration_ms": 221350,
       "name": "Pero Tengo a Cristo - Remix",
       "url": "https://open.spotify.com/track/5nGxRkdnZIUmXg5Dkvv39C"
+    },
+    {
+      "added_at": "2026-04-25 04:59:02",
+      "album": {
+        "name": "Abatido",
+        "url": "https://open.spotify.com/album/50FppiB6Br1QKbBWWxMcRk"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Makaco el Cerebro",
+          "url": "https://open.spotify.com/artist/12DPlIOb9roEIgp5LqkJfH"
+        }
+      ],
+      "duration_ms": 289043,
+      "name": "Abatido",
+      "url": "https://open.spotify.com/track/6S3sKgRoBiwvG0FilXcmaI"
     },
     {
       "added_at": "2026-04-25 04:59:02",

@@ -771,6 +771,28 @@
     },
     {
       "album": {
+        "name": "Music Inspired by Philippe Garrel\u2019s Le R\u00e9v\u00e9lateur",
+        "url": "https://open.spotify.com/album/6XYdP4VoTa853Xg4T5Gtgy"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9ka Csisz\u00e9r",
+          "url": "https://open.spotify.com/artist/7rvLhdfumftTTcvicIu66i"
+        },
+        {
+          "name": "Radwan Ghazi Moumneh",
+          "url": "https://open.spotify.com/artist/6VPw06OXQa7qshp0Ki4bvo"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163009,
+      "name": "arba'a \u2013 \u0623\u0631\u0628\u0639\u0629",
+      "url": "https://open.spotify.com/track/2rkkLpQbGjF5UQcwGTs2en"
+    },
+    {
+      "album": {
         "name": "Are We Done Now",
         "url": "https://open.spotify.com/album/2ENFJZImWg3QhBqCfwiVK4"
       },
@@ -3997,6 +4019,24 @@
     },
     {
       "album": {
+        "name": "Dying On The Vine",
+        "url": "https://open.spotify.com/album/0uVpHpVpcw1P2ZBpd9ef9W"
+      },
+      "artists": [
+        {
+          "name": "Spike",
+          "url": "https://open.spotify.com/artist/39uMUO8aGb1e8smPZBb6fd"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180594,
+      "name": "Dying On The Vine",
+      "url": "https://open.spotify.com/track/3gRRAHaU8D01tnweUCfhhf"
+    },
+    {
+      "album": {
         "name": "Easier Listening",
         "url": "https://open.spotify.com/album/5B7PPJqSjkjHyBPmRoFjeC"
       },
@@ -4448,6 +4488,24 @@
       "duration_ms": 116000,
       "name": "Eve Of The End",
       "url": "https://open.spotify.com/track/20e1DTLwqe1iiM65PIe4Xb"
+    },
+    {
+      "album": {
+        "name": "Everybody Needs Somebody",
+        "url": "https://open.spotify.com/album/0splmbIlfsAwNbPZBWTByS"
+      },
+      "artists": [
+        {
+          "name": "Aerial Salad",
+          "url": "https://open.spotify.com/artist/7eq7Gy7wawqSKSYMiN4m3e"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182160,
+      "name": "Everybody Needs Somebody",
+      "url": "https://open.spotify.com/track/61KmrTpRKB7jAYz0gr8Oqs"
     },
     {
       "album": {
@@ -8531,6 +8589,24 @@
     },
     {
       "album": {
+        "name": "Losey",
+        "url": "https://open.spotify.com/album/7osOM8n8zoK94A75M77jNF"
+      },
+      "artists": [
+        {
+          "name": "Gnoomes",
+          "url": "https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348266,
+      "name": "Losey",
+      "url": "https://open.spotify.com/track/1m0AhzZuT9MXmEQXb41gFA"
+    },
+    {
+      "album": {
         "name": "Brightly Shone the Moon",
         "url": "https://open.spotify.com/album/5aU2mYV3oRvHp2iO1m6v0d"
       },
@@ -11101,6 +11177,24 @@
     },
     {
       "album": {
+        "name": "Putrescence",
+        "url": "https://open.spotify.com/album/4HWkOHv1K9OR6yjgv1G52Z"
+      },
+      "artists": [
+        {
+          "name": "Coprolith",
+          "url": "https://open.spotify.com/artist/2OHT7PCvxwZirHGA8hNPOz"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326469,
+      "name": "Putrescence",
+      "url": "https://open.spotify.com/track/17tRyWetm0laS1P8bNYzfq"
+    },
+    {
+      "album": {
         "name": "Rabia's Dream",
         "url": "https://open.spotify.com/album/47soFDZzjiILDQVNDegyfJ"
       },
@@ -12938,6 +13032,24 @@
       "duration_ms": 108078,
       "name": "Squirming Like Disgusting Maggots",
       "url": "https://open.spotify.com/track/4Pzjiy86htgLLzt5OSIvwA"
+    },
+    {
+      "album": {
+        "name": "Stalker",
+        "url": "https://open.spotify.com/album/6shFs9KUtSpnDAz6ObeheK"
+      },
+      "artists": [
+        {
+          "name": "The Breedling",
+          "url": "https://open.spotify.com/artist/0NldlxCOpbroIKLIAzfWG2"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233231,
+      "name": "Stalker",
+      "url": "https://open.spotify.com/track/2nPNyIvcKjAdAKj2SiO9vB"
     },
     {
       "album": {
@@ -15655,6 +15767,28 @@
     },
     {
       "album": {
+        "name": "Vanishing",
+        "url": "https://open.spotify.com/album/5Vl6eZiySrxnaMoi9YeY9S"
+      },
+      "artists": [
+        {
+          "name": "The Bug",
+          "url": "https://open.spotify.com/artist/213i4NKah1DX9q0FNiKsuw"
+        },
+        {
+          "name": "Dis Fig",
+          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210297,
+      "name": "Vanishing",
+      "url": "https://open.spotify.com/track/7mkaHMnfl2liX2tLpCanxw"
+    },
+    {
+      "album": {
         "name": "Vatten",
         "url": "https://open.spotify.com/album/22sD8xTn4oPjdZQgajFJ9O"
       },
@@ -16131,6 +16265,28 @@
     },
     {
       "album": {
+        "name": "Sub Zero - Refractions (The Bug / Ghost Dubs Remixes)",
+        "url": "https://open.spotify.com/album/6NgW59GTJuo0kcq9AB5ZeJ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Richard Martin",
+          "url": "https://open.spotify.com/artist/4UmR7UaeXgqjJwweJxGyZT"
+        },
+        {
+          "name": "Ghost Dubs",
+          "url": "https://open.spotify.com/artist/0nEbx8lIbqkO08rKkXqQ05"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249047,
+      "name": "When I'm Gone - Ghost Dubs Remix",
+      "url": "https://open.spotify.com/track/5d6yuUAyIVnk0psBEzFdlj"
+    },
+    {
+      "album": {
         "name": "When You Said Goodbye",
         "url": "https://open.spotify.com/album/3XVBlo9gaKyjRStoSoRmzt"
       },
@@ -16528,6 +16684,24 @@
       "duration_ms": 286888,
       "name": "You Got To Call Me",
       "url": "https://open.spotify.com/track/1yhCAnQEi1bvIyDQ2Nh8Ry"
+    },
+    {
+      "album": {
+        "name": "You Woke Up On My Side Of Time",
+        "url": "https://open.spotify.com/album/3ygmfWXsv6fstz9shGCc5A"
+      },
+      "artists": [
+        {
+          "name": "Dez Dare",
+          "url": "https://open.spotify.com/artist/1elbB348tXNuC92QkZlHLF"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153957,
+      "name": "You Woke Up On My Side Of Time",
+      "url": "https://open.spotify.com/track/1A625Al3jd1bkfoY8mSoEk"
     },
     {
       "album": {

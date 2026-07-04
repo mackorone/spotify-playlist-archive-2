@@ -2,9 +2,9 @@
 
 ### [UNTITLED](https://open.spotify.com/playlist/37i9dQZF1DX4FuvFkGbjhs)
 
-> Beyond titles, beyond genre\. Cover: Alewya
+> Beyond titles, beyond genre\. Cover: Ibeyi
 
-901 songs - 2 day 4 hr 2 min
+902 songs - 2 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [How to Win at Rock Paper Scissors](https://open.spotify.com/track/4mE8wA3Mt34C4g3vc4hiFe) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [How to Win at Rock Paper Scissors](https://open.spotify.com/album/1zJmlI0t6fsP5sLUce4ima) | 3:23 | 2025-02-21 | 2025-05-09 |
 | [How?](https://open.spotify.com/track/14zjPpctBiO8up0jD4vSOu) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [How?](https://open.spotify.com/album/6Ej0Fd2aH4lVXRJBicYlSn) | 2:47 | 2025-04-11 | 2025-07-18 |
 | [Human Happens](https://open.spotify.com/track/40ATtBjYoYuJxKGfrqJwJl) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Human Happens / Paint Me A Picture](https://open.spotify.com/album/4cvjkU5iJWhAJUWELB05l1) | 4:03 | 2025-10-16 |  |
+| [Hurry Hurry](https://open.spotify.com/track/4BGA7VW330Eu1kaFNi98cG) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Offering](https://open.spotify.com/album/2KrpEIIVUU7AMtTsCOzkAj) | 3:06 | 2026-07-03 |  |
 | [Hurt](https://open.spotify.com/track/1i18b7rRxYr3XBI32LMgao) | [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv) | [Love Worth Believing](https://open.spotify.com/album/20ytKvRFBexNfIPs5s4qkM) | 3:09 | 2024-08-01 | 2024-08-09 |
 | [I Am Going Through Hell \(Bittersweet\)](https://open.spotify.com/track/4OmY7XHG4xGHMov01G9QZd) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [StarX Lover](https://open.spotify.com/album/6UPECmrrwiBjY0KhRHDNiG) | 3:16 | 2025-04-03 | 2025-05-16 |
 | [I am the King](https://open.spotify.com/track/5BD2sRwZBmAcS649vipoAq) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [I am the King](https://open.spotify.com/album/0MmY7xbuJNiyICbIgJaDrO) | 3:03 | 2024-06-27 | 2024-11-01 |
@@ -419,7 +420,7 @@
 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 | 2025-04-11 | 2025-06-20 |
 | [Joker](https://open.spotify.com/track/3HyD8c5C8C7P5TgmNfc8YK) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Joker](https://open.spotify.com/album/3C5hemEZFqLPsfbiW1tm70) | 2:20 | 2024-06-27 | 2024-07-19 |
 | [July](https://open.spotify.com/track/6LzxjnLFFlk639Xw43MDB9) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [July](https://open.spotify.com/album/3sbAIbwlBjdUt1GD1iteHO) | 2:32 | 2026-04-09 | 2026-04-21 |
-| [July](https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Forever Ends Someday](https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y) | 2:32 | 2026-04-16 |  |
+| [July](https://open.spotify.com/track/7LwR08L58CiifSFw7tqdOl) | [Wesley Joseph](https://open.spotify.com/artist/1uf6plWcu7QbKiASVlTUPa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Forever Ends Someday](https://open.spotify.com/album/7GVpOkI5do8Hb8NOtqb39y) | 2:32 | 2026-04-16 | 2026-07-04 |
 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 | 2024-07-19 | 2024-11-08 |
 | [Just Calm Down](https://open.spotify.com/track/793UbfkNYn3HvepbOphss5) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Just Calm Down](https://open.spotify.com/album/0XPI47Ym4BJj3mmVEQp67G) | 3:06 | 2024-09-20 | 2025-02-14 |
 | [Just My Luck](https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just My Luck / Tomorrow Man](https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW) | 3:00 | 2024-10-10 | 2025-02-14 |

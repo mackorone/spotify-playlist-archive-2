@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,250 songs - 3 day 0 hr 41 min
+1,254 songs - 3 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Crying \(HARDER\) At The Discothèque.](https://open.spotify.com/track/5p07LhnFP7OhYYEX73eMjD) | [Travie Austin](https://open.spotify.com/artist/059jVWIqXVJvAskIuJyScN) | [Crying \(HARDER\) At The Discothèque.](https://open.spotify.com/album/1z1ug5OlTgCk25NEub0htE) | 3:52 | 2026-01-20 | 2026-02-20 |
 | [Cuando llegue la noche](https://open.spotify.com/track/0hZuzpkcpgYhHbAV22Wiwn) | [Raida M](https://open.spotify.com/artist/0Daw8dqrPbm3kyvk3XN4em) | [Cuando llegue la noche](https://open.spotify.com/album/5jkZfIJPU7XTRtfB82hbqL) | 3:48 | 2026-03-02 | 2026-03-25 |
 | [Cucumber](https://open.spotify.com/track/7yxTfhAdHajAjEZD6Vin5V) | [Vann's Nebula](https://open.spotify.com/artist/3weSFV7MGGpEDX60DTEzlM) | [Rain](https://open.spotify.com/album/77K2J6UtMZJiWvbFVuPUQB) | 2:23 | 2026-01-15 | 2026-02-20 |
+| [Cullato Dal Vento](https://open.spotify.com/track/7r4THaXNzkXeWyllJe0RGU) | [Matteo Madafferi](https://open.spotify.com/artist/1fJOfwAeepTyvkLwDHYxWk) | [Cullato Dal Vento](https://open.spotify.com/album/7bA63wgERT3gi975sa9Ef8) | 2:50 | 2026-07-03 |  |
 | [Cut You Off](https://open.spotify.com/track/5OQ74RnqKC3l3wpjoRxpAG) | [Maren Schlicht](https://open.spotify.com/artist/6Oxro0jNNoWSiHuIJfeYuh) | [Cut You Off](https://open.spotify.com/album/58DLFT6hE64zU4hElyDYmi) | 2:20 | 2026-03-15 | 2026-04-12 |
 | [Czarny świat](https://open.spotify.com/track/1pgIUKJKQhh4q1U9gBKaj1) | [Biker](https://open.spotify.com/artist/7edqs6CgLIQ0KUNUP1guyo) | [Czarny świat](https://open.spotify.com/album/3NpJbHzvkqGCJXgxjE1qwn) | 4:54 | 2026-03-03 | 2026-03-25 |
 | [Cómo sería el mundo](https://open.spotify.com/track/4vhK9VrrM6rWSCSm6CiGJy) | [Dafne Usorach](https://open.spotify.com/artist/2mUE0CMwA9P56QO5lIaRUE), [Masilva](https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK) | [Cómo sería el mundo](https://open.spotify.com/album/2LIAHgOKpMRD18KCqR8WLi) | 3:21 | 2026-04-21 | 2026-06-05 |
@@ -535,6 +536,7 @@
 | [Kavanagh](https://open.spotify.com/track/2mxMn8pXBqlkAAQEXbFIgx) | [Alejandro Fernandez Lecce](https://open.spotify.com/artist/5gaUw9fLlbZiMuLE00w8re) | [Buenos Aires Lounge Deluxe Vol\. 1](https://open.spotify.com/album/66LHz8fhFosaTNeBl8A02G) | 3:19 | 2024-09-19 | 2025-12-21 |
 | [Kawaii](https://open.spotify.com/track/59tXTeEQ7G7koxQg5MyB1d) | [Talking to Sophie](https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC) | [Of Foxes And Tofu](https://open.spotify.com/album/4dpkrcOzw7t95AqZDgMRJV) | 4:55 | 2026-04-19 | 2026-06-05 |
 | [Kaya Ko Pa Ba?](https://open.spotify.com/track/5NkCctniqgusYrxrlBDykB) | [Dylan Danielle](https://open.spotify.com/artist/01500LhjmKYiaMWhabOsmi) | [Kaya Ko Pa Ba?](https://open.spotify.com/album/6D7Ecbqbkw2yw7TH2td3P1) | 5:14 | 2026-06-08 |  |
+| [Kayıp](https://open.spotify.com/track/3B0xXpnk85hIE0qa1e8xlf) | [Hakan Karatan](https://open.spotify.com/artist/7n2HqsgOITEXwzHUJQ3NRu) | [Macera](https://open.spotify.com/album/4AXpwPfcaHrIxwAtft48q1) | 2:59 | 2026-07-03 |  |
 | [Keep Ya Head Up](https://open.spotify.com/track/1y8VIFmWviYhZkTc3lgktb) | [T\-WINNN](https://open.spotify.com/artist/5DgJEIByQ2L0y5Nmzw4zq0), [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x) | [Keep Ya Head Up](https://open.spotify.com/album/50J4ReZnLGOakOMXfpFpJs) | 4:58 | 2026-05-22 | 2026-07-03 |
 | [Kick It Up!](https://open.spotify.com/track/2bfz9V3I3qeS4LPpH69M0i) | [Surrounded by Spiders](https://open.spotify.com/artist/2Sr0bSlexNwK35NfqoaVIb) | [Kick It Up!](https://open.spotify.com/album/0WRK6ZmshiLHNN24ulWCqR) | 3:19 | 2025-10-23 | 2025-12-21 |
 | [King Of My Soul](https://open.spotify.com/track/5JcfggaYvguzdOOY2qzxZJ) | [Myastina](https://open.spotify.com/artist/21PeFB5FzDLwG262iRvJLE) | [King Of My Soul](https://open.spotify.com/album/3k5qIWauXLlk4Wpl5laNOE) | 3:22 | 2026-06-02 | 2026-07-03 |
@@ -1138,6 +1140,7 @@
 | [Un dia más](https://open.spotify.com/track/5CoArSA5E3RF9oCC8rre89) | [Raúl Cabo](https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2) | [Un dia más](https://open.spotify.com/album/1OLDwFDUrKgP5pEItqi2bj) | 3:27 | 2026-05-05 | 2026-06-05 |
 | [Un Gringo Tonto \- Aceleró](https://open.spotify.com/track/0JeEMvyeweVd1BCECBYXKS) | [4est Fleur](https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK) | [Speedy Boy](https://open.spotify.com/album/5Qa1vozoeYtdDbiXYzfEPo) | 2:08 | 2026-06-30 |  |
 | [Un'altra lacrima](https://open.spotify.com/track/7Dhz8HBG6kELvHBxrvrIvB) | [Aranini](https://open.spotify.com/artist/6Kj7garqqGAHTTJ1hPiKid), [Bruggio](https://open.spotify.com/artist/07I8xA92ygY3jQMthS2hcu) | [Un'altra lacrima](https://open.spotify.com/album/6QOZ48cHPFvruAI8kvyu1m) | 3:03 | 2026-02-11 | 2026-03-15 |
+| [Una Storia di Ieri](https://open.spotify.com/track/0xeqmYt2i8JiBkXARy1hOB) | [SantoMusic](https://open.spotify.com/artist/4sK9bEEEmGTR9mZSlkJCNT) | [Una Storia di Ieri](https://open.spotify.com/album/6sAk5OQJVogh2ytrQt60HF) | 2:34 | 2026-07-03 |  |
 | [Una Volta Sola](https://open.spotify.com/track/3bJeBzbGUQfTEyAyeYQtKV) | [Cabi Jr](https://open.spotify.com/artist/2bDwLhQgYUDqaqSOobCPh2) | [Una Volta Sola](https://open.spotify.com/album/09KVL9lKEndRLy72CL0f4I) | 2:47 | 2026-05-27 | 2026-07-03 |
 | [Una vuelta y otra vuelta](https://open.spotify.com/track/6rih8Qvk2LiFtUXEt6BfSe) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Un instante en el Universo](https://open.spotify.com/album/6c52Siwl8gupGfEyPehVBs) | 2:32 | 2026-01-18 | 2026-02-20 |
 | [Under Lights](https://open.spotify.com/track/06xGJQvhoCRMRAgxAVmibS) | [Malik Amer](https://open.spotify.com/artist/7z3kPDsuDBE57RW9dvcpar), [Adam Kriss](https://open.spotify.com/artist/7CsFi8k6B9I5S9WOMG49y6) | [Under Lights](https://open.spotify.com/album/710QolV0ATHswo1zkLdRfD) | 3:13 | 2025-11-11 | 2025-12-21 |
@@ -1228,6 +1231,7 @@
 | [Xcelerator](https://open.spotify.com/track/4pwG55htnBxt3BhnNkPswM) | [LEVEREVE](https://open.spotify.com/artist/3PCqb3zsCW7PEBqW3i3Lgs) | [BREAK ARTS III Original Soundtrack](https://open.spotify.com/album/1IrgMTbMDRAp0IVJwhviWA) | 3:02 | 2026-01-15 | 2026-02-20 |
 | [Xmas](https://open.spotify.com/track/0T8M5XbkqHUB99ZkbZDOHD) | [Andrea Bardelli](https://open.spotify.com/artist/0sjMrTuxISK7GfQRKy8FEE) | [The poets work at night](https://open.spotify.com/album/1mNoFSF448LaNDXIFThFnA) | 5:08 | 2025-12-13 | 2026-01-15 |
 | [Yalla Harrek \(Remastered\)](https://open.spotify.com/track/7MInmuALtoO10dOUOzP6Fo) | [Milagro Acustico](https://open.spotify.com/artist/3DGNC89jMak25ZrNzdfnjs), [Agnese Sielli](https://open.spotify.com/artist/0ooKJgxHk4AcUgB5GmIXsn), [Carlo Cossu](https://open.spotify.com/artist/6L8CiWpUGlQwWVS63LMiQE), [Pakhi Adhikari Kalipada](https://open.spotify.com/artist/7ozw5g9CS05d0lgbhPAmNv) | [Sicilia Araba: Arabic Poets of Sicily 827\-1091 \(Remastered\)](https://open.spotify.com/album/5d75AmGNOpM2U2hBrPuFeA) | 4:53 | 2023-04-20 | 2025-11-29 |
+| [Yellow Crumbs](https://open.spotify.com/track/5e2fORoGAFaPFBb4QWNIvu) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [The Moon Loses Its Memory](https://open.spotify.com/album/7HA63McJqMeqENqRPH8fxo) | 2:51 | 2026-07-03 |  |
 | [Yesterday](https://open.spotify.com/track/2VUFOhph4XxIiiR2Fuqudi) | [Pedro Maré](https://open.spotify.com/artist/0v3pBPPUXwbZBNzH6KABkR) | [Yesterday](https://open.spotify.com/album/3zWSg2gQ6DIPtjV0lGMqFo) | 2:28 | 2026-01-04 | 2026-02-03 |
 | [you accommodate my apprehensions](https://open.spotify.com/track/0Z16iELCJ6NeglcntvvzeY) | [pato](https://open.spotify.com/artist/287WS6RoocMlJfeVu5GiCg) | [you accommodate my apprehensions](https://open.spotify.com/album/4Hse10Gucm3iSkrBWUUpCT) | 3:30 | 2026-01-26 | 2026-03-09 |
 | [You are the One \- Radio Edit](https://open.spotify.com/track/1HABHQzYK4TPCcmqy4vqpI) | [Martin Music](https://open.spotify.com/artist/5Y1uMD9d4HYryBiBvhssUW) | [You are the One \(Radio Edit\)](https://open.spotify.com/album/3rkqxkNEBNuESSSeWPTKwz) | 3:54 | 2025-12-22 | 2026-01-24 |

@@ -31353,6 +31353,28 @@
     },
     {
       "album": {
+        "name": "Silly/ Eshey",
+        "url": "https://open.spotify.com/album/1DCenOUzpUZC53FulkKYmW"
+      },
+      "artists": [
+        {
+          "name": "PKG Vntz",
+          "url": "https://open.spotify.com/artist/4yxQydQCmkReK5P5B1IbuM"
+        },
+        {
+          "name": "Diamond Boy",
+          "url": "https://open.spotify.com/artist/2Mr8ln1UwCpIFb1KeeS5TE"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "Eshey",
+      "url": "https://open.spotify.com/track/0qMaisy3JYZdg90CVuZR8g"
+    },
+    {
+      "album": {
         "name": "Mystic Lady",
         "url": "https://open.spotify.com/album/2TG3Ki0MTGyy2uGVGJsEU6"
       },
@@ -39468,6 +39490,24 @@
       "duration_ms": 216000,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/7kSM4ah3qZ5KhQUfuytqxu"
+    },
+    {
+      "album": {
+        "name": "Ginger Me",
+        "url": "https://open.spotify.com/album/2A531LSQOQ1e3Utllld9VO"
+      },
+      "artists": [
+        {
+          "name": "WizzyVybzWave",
+          "url": "https://open.spotify.com/artist/7w9J4v53cJ5hJxk52T2DZo"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224199,
+      "name": "Ginger Me",
+      "url": "https://open.spotify.com/track/1Rm3JZ6UJiqr5B34NvrN39"
     },
     {
       "album": {
@@ -79377,6 +79417,24 @@
     },
     {
       "album": {
+        "name": "poco a poco (martes)",
+        "url": "https://open.spotify.com/album/0OvEI6txfInZdXLrhmOI6L"
+      },
+      "artists": [
+        {
+          "name": "Fide",
+          "url": "https://open.spotify.com/artist/3GV9NJUhuczfuuPBVA3uzH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "poco a poco (martes)",
+      "url": "https://open.spotify.com/track/0gwwUAP8ZtDGUC2KD6Cap1"
+    },
+    {
+      "album": {
         "name": "Polaroid Thoughts",
         "url": "https://open.spotify.com/album/3iPud34mLO87HLt8jLhZMB"
       },
@@ -109648,7 +109706,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 189893,
       "name": "WAIT FOR U (feat. Drake & Tems)",
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
@@ -112680,6 +112738,24 @@
       "duration_ms": 167500,
       "name": "When I Can't Speak",
       "url": "https://open.spotify.com/track/0N8VA9KCl48txU1kHNGtKv"
+    },
+    {
+      "album": {
+        "name": "When I Go Low",
+        "url": "https://open.spotify.com/album/7MvDK88cNYvEYRGOxqJk1Y"
+      },
+      "artists": [
+        {
+          "name": "Velour",
+          "url": "https://open.spotify.com/artist/2gnFFtzPgBpwBepDNSPZO7"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160937,
+      "name": "When I Go Low",
+      "url": "https://open.spotify.com/track/3EBCW1JJGYbbjKFhN9oyTy"
     },
     {
       "album": {

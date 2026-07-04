@@ -1,12 +1,12 @@
 {
   "description": "This is Jennifer Lopez. The essential tracks, all in one playlist.",
-  "num_followers": 467766,
+  "num_followers": 467746,
   "original_name": "This Is Jennifer Lopez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAAAsS2mSL4fhe1tyMYxmoY3U",
+  "snapshot_id": "akWqAAAAAACWGMU7SR5XBoKqNJnEUR05",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "Waiting for Tonight",
-      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J.Lo",
         "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 221226,
       "name": "Love Don't Cost a Thing",
       "url": "https://open.spotify.com/track/1fgvJXlcZ7uIddMpqsqw0L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "Waiting for Tonight",
+      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "If You Had My Love",
-      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J.Lo",
         "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 262133,
       "name": "I'm Real (feat. Ja Rule) - Murder Remix",
       "url": "https://open.spotify.com/track/6MLsahMK3VvH9NUwXOktdS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 266000,
+      "name": "If You Had My Love",
+      "url": "https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor Sin L\u00edmite",
-        "url": "https://open.spotify.com/album/0ZqDgVix0ojjXBc1ypqKVN"
+        "name": "Pa Ti + Lonely",
+        "url": "https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt"
       },
       "artists": [
         {
@@ -776,13 +776,13 @@
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         },
         {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 236413,
-      "name": "Llegaste",
-      "url": "https://open.spotify.com/track/303QCzQP10nYoAE8wsWtRF"
+      "duration_ms": 230026,
+      "name": "Pa Ti",
+      "url": "https://open.spotify.com/track/4agLM5EfiWR2AKMq7gFwcM"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Ti + Lonely",
-        "url": "https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt"
+        "name": "Amor Sin L\u00edmite",
+        "url": "https://open.spotify.com/album/0ZqDgVix0ojjXBc1ypqKVN"
       },
       "artists": [
         {
@@ -820,13 +820,13 @@
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
         },
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
         }
       ],
-      "duration_ms": 230026,
-      "name": "Pa Ti",
-      "url": "https://open.spotify.com/track/4agLM5EfiWR2AKMq7gFwcM"
+      "duration_ms": 236413,
+      "name": "Llegaste",
+      "url": "https://open.spotify.com/track/303QCzQP10nYoAE8wsWtRF"
     },
     {
       "added_at": null,
@@ -847,26 +847,6 @@
       "duration_ms": 245755,
       "name": "Cambia el Paso",
       "url": "https://open.spotify.com/track/6w0hTf98ZNQm5GpfWeuoAk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Olv\u00eddame y Pega la Vuelta",
-        "url": "https://open.spotify.com/album/7i0IU9ewVxt4do3QZZLXzN"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 211054,
-      "name": "Olv\u00eddame y Pega la Vuelta",
-      "url": "https://open.spotify.com/track/2tergQtVsHUBYlL76Kx93c"
     },
     {
       "added_at": null,
@@ -899,6 +879,26 @@
       "duration_ms": 192571,
       "name": "On My Way (Marry Me)",
       "url": "https://open.spotify.com/track/0PjqDT5SzI91kgzGnylyOd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Olv\u00eddame y Pega la Vuelta",
+        "url": "https://open.spotify.com/album/7i0IU9ewVxt4do3QZZLXzN"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 211054,
+      "name": "Olv\u00eddame y Pega la Vuelta",
+      "url": "https://open.spotify.com/track/2tergQtVsHUBYlL76Kx93c"
     },
     {
       "added_at": null,
@@ -983,22 +983,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor, Amor, Amor (feat. Wisin)",
-        "url": "https://open.spotify.com/album/0iAdCXRBzxH01SbuLvvO2Y"
+        "name": "This Is Me...Then",
+        "url": "https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM"
       },
       "artists": [
         {
           "name": "Jennifer Lopez",
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         }
       ],
-      "duration_ms": 198586,
-      "name": "Amor, Amor, Amor (feat. Wisin)",
-      "url": "https://open.spotify.com/track/7h9sdbDEBfkWSmO4mzGED6"
+      "duration_ms": 222040,
+      "name": "I'm Glad",
+      "url": "https://open.spotify.com/track/1hdjVrERYnp4FsjtJaXlB6"
     },
     {
       "added_at": null,
@@ -1027,18 +1023,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Me...Then",
-        "url": "https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM"
+        "name": "Amor, Amor, Amor (feat. Wisin)",
+        "url": "https://open.spotify.com/album/0iAdCXRBzxH01SbuLvvO2Y"
       },
       "artists": [
         {
           "name": "Jennifer Lopez",
           "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         }
       ],
-      "duration_ms": 222040,
-      "name": "I'm Glad",
-      "url": "https://open.spotify.com/track/1hdjVrERYnp4FsjtJaXlB6"
+      "duration_ms": 198586,
+      "name": "Amor, Amor, Amor (feat. Wisin)",
+      "url": "https://open.spotify.com/track/7h9sdbDEBfkWSmO4mzGED6"
     },
     {
       "added_at": null,

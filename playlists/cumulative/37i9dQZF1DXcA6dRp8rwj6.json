@@ -3983,6 +3983,32 @@
     },
     {
       "album": {
+        "name": "All Summer (feat. BH)",
+        "url": "https://open.spotify.com/album/7lwZOYiPIJKkin7LsxG2KL"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "BH",
+          "url": "https://open.spotify.com/artist/77EDqy4AyUvtLGhIqOy3Dc"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239640,
+      "name": "All Summer (feat. BH)",
+      "url": "https://open.spotify.com/track/23wBbnEZdCdnPNynMZeLpg"
+    },
+    {
+      "album": {
         "name": "ALL TEN (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/5KWhVrUd9CvZMuGya680x4"
       },
@@ -63352,6 +63378,24 @@
       "duration_ms": 192071,
       "name": "That's Not Your Path (feat. Babyface Ray & Sango)",
       "url": "https://open.spotify.com/track/3cIfKwCzegyZoGjUTq5KQX"
+    },
+    {
+      "album": {
+        "name": "That's That",
+        "url": "https://open.spotify.com/album/46UuSEizvFsUec3uBDaXOR"
+      },
+      "artists": [
+        {
+          "name": "DB.Boutabag",
+          "url": "https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121338,
+      "name": "That's That",
+      "url": "https://open.spotify.com/track/42D4wXZjIdDtINUCYu8t7a"
     },
     {
       "album": {

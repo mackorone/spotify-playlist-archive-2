@@ -2,9 +2,9 @@
 
 ### [RAP 91 Hindi](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Best of Hindi Hip\-Hop! Cover: Emiway Bantai
+> Best of Hindi Hip\-Hop! Cover: Rawal
 
-331 songs - 16 hr 48 min
+332 songs - 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [Machayenge 4](https://open.spotify.com/track/71VXewVKFs0HcwEom489zH) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Machayenge 4](https://open.spotify.com/album/75500cJSqQKQafI8VAKxO2) | 6:38 | 2023-03-10 | 2024-10-01 |
 | [Mafia](https://open.spotify.com/track/0Z8kwhMDaj9lAlukRDNfXV) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:22 | 2025-09-26 | 2026-04-29 |
 | [Main Sochi Jaavan](https://open.spotify.com/track/2s17eFnO0RayQYOitJj2xQ) | [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [Mtv Hustle 03 Represent Episode 3](https://open.spotify.com/album/5U4uel42AQiVrBGKmijYNA) | 3:57 | 2023-11-08 | 2023-12-07 |
+| [Mann Ke Raaz](https://open.spotify.com/track/5eKN0T4WY8P4ZhqpO78BOm) | [Rawal](https://open.spotify.com/artist/3XbsFoxsYfrJyo9VZrbM16), [Suhavi Kalsi](https://open.spotify.com/artist/2yW096GBZkULuSAJnF4yRL) | [Ambassador](https://open.spotify.com/album/7E6mP3cf6JeKJaG2k0IwXJ) | 3:28 | 2026-07-03 |  |
 | [Mashooka](https://open.spotify.com/track/78iOfBb1DWPhKzihpDGZf5) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Mashooka](https://open.spotify.com/album/5YIfNbv6RRMIdjP2hvF1Nc) | 2:28 | 2023-10-06 | 2025-01-07 |
 | [Mast](https://open.spotify.com/track/5o3STtBAtkeqPBw69ZUZWs) | [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf), [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl) | [Mast](https://open.spotify.com/album/3FfJhcVHUd5lZJjOE5wi37) | 2:35 | 2025-01-06 |  |
 | [Mastikhor](https://open.spotify.com/track/05s9rHSjYuhM5jWL7OWMro) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Jai](https://open.spotify.com/artist/0mNpRIxJZqQmcB0UCTU59S) | [Midtown Madness](https://open.spotify.com/album/1HNeKGeOzyTWpLVxZJexRL) | 3:10 | 2024-02-08 | 2025-10-15 |
@@ -210,7 +211,7 @@
 | [MOOSA](https://open.spotify.com/track/3FNHdfTPtmxlalX7NtNhoP) | [Harjas Harjaayi](https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ), [UZI](https://open.spotify.com/artist/7im09Cyz6yOSGGUWRVJ2uh) | [MOOSA](https://open.spotify.com/album/0HD6W00T91a8Hmm9Wok6wX) | 2:34 | 2023-03-10 | 2023-04-22 |
 | [MP3](https://open.spotify.com/track/3tw4ri5orliO3MgB16zhin) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Hurricane](https://open.spotify.com/artist/6OvPeLnrLk4v7X7tmjnOiO), [DL91 Era](https://open.spotify.com/artist/3mWqCmX0xuzBJN648XSBrE) | [DL91 FM](https://open.spotify.com/album/2Jc0evKv7asNZMx32rQHrF) | 2:51 | 2025-05-16 | 2025-10-15 |
 | [MR\. RAMBO](https://open.spotify.com/track/3YVxblHOR89srfFJ30liuz) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [DESI TRILL](https://open.spotify.com/artist/22FwGMhBDU8drx91GTxkxJ), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [MR\. RAMBO](https://open.spotify.com/album/03Mg1MxsoIbNZMeso2Zc3L) | 2:14 | 2025-04-15 |  |
-| [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/track/3usqexd5uUTl5SkLme0HKX) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/album/0AqcoHygWykLi0IqNp95vn) | 2:51 | 2025-10-17 |  |
+| [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/track/3usqexd5uUTl5SkLme0HKX) | [YUNG SAMMY](https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [MUDDA \(feat\. Seedhe Maut\)](https://open.spotify.com/album/0AqcoHygWykLi0IqNp95vn) | 2:51 | 2025-10-17 | 2026-07-04 |
 | [Mujhe Ye Gaana Pasand Hai](https://open.spotify.com/track/4B0ZooeBJvDsNzRRm3V5o3) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [NEVERSOBER](https://open.spotify.com/artist/4QWgs64BJEmTH6OfcBsEvO) | [Mujhe Ye Gaana Pasand Hai](https://open.spotify.com/album/2b6rsPy47iFnQcveub0xEE) | 2:48 | 2026-04-10 |  |
 | [Mumbai Rap](https://open.spotify.com/track/6VokTxf7VkJdOzgZEjM2Gn) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Mumbai Rap](https://open.spotify.com/album/0aGLkE9zu36Gv52wmL0DFT) | 2:38 | 2025-01-06 | 2025-08-23 |
 | [Muqaddar Ka Sikandar](https://open.spotify.com/track/4PDPr18EeyfsQyira9klel) | [Harkat Wala Fardin](https://open.spotify.com/artist/78A6Tn77F89utlqYx2CiaF), [MC OM](https://open.spotify.com/artist/2r9y92Rk3mPiBNnmDLBWxo), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Muqaddar Ka Sikandar](https://open.spotify.com/album/6UH7crRQNBniy5Yn9MLnLp) | 2:35 | 2025-01-06 | 2025-01-14 |

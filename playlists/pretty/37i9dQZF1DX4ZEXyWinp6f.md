@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 
 > Fold time and space through sound to reach imaginary universes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,903 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,933 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ZEXyWinp6f.md) - [plain]
 | 99 | [Yucon](https://open.spotify.com/track/58QASUiIYdw8JzCduRhhEF) | [Nathan Fake](https://open.spotify.com/artist/5rZVjGkZZI4TnpMHQwrxfG) | [Evaporator](https://open.spotify.com/album/0uB9jp5XGssp3jbEpWdSId) | 2:49 |
 | 100 | [everything is going to be ok](https://open.spotify.com/track/5WGNe8og1I3uiinrijoDRU) | [Eleftherios](https://open.spotify.com/artist/6z7DDiVB1Cca0P1VcsvxM9) | [everything is going to be ok](https://open.spotify.com/album/7fSwB12ObDLZbhYrODXCek) | 2:27 |
 
-Snapshot ID: `AAAAACnJNRRVP08WxWhRazXs3+YTvZAf`
+Snapshot ID: `AAAAAI/qC7qMfTvSjJJI1bq1kO89CCFt`

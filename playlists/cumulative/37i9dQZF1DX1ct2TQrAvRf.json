@@ -3325,6 +3325,28 @@
     },
     {
       "album": {
+        "name": "Bipolar",
+        "url": "https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        },
+        {
+          "name": "Haakam",
+          "url": "https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308804,
+      "name": "Headliner",
+      "url": "https://open.spotify.com/track/6USFWgoM3skctkeaKAsHEd"
+    },
+    {
+      "album": {
         "name": "PRAA",
         "url": "https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis"
       },
@@ -4018,6 +4040,28 @@
       "duration_ms": 123252,
       "name": "Kaathu Mela - From \"Think Indie\"",
       "url": "https://open.spotify.com/track/2YMxiPx0Mu7ap1TYcLtBKE"
+    },
+    {
+      "album": {
+        "name": "Kadaya Saathu",
+        "url": "https://open.spotify.com/album/0IHCidk3LUuQEFzClZpxvs"
+      },
+      "artists": [
+        {
+          "name": "ofRO",
+          "url": "https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts"
+        },
+        {
+          "name": "Vaasi",
+          "url": "https://open.spotify.com/artist/5vlliAPuYaEl9AC4AzO8eJ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159374,
+      "name": "Kadaya Saathu",
+      "url": "https://open.spotify.com/track/75Evj1BuXZ1wFrvqyYjzap"
     },
     {
       "album": {
@@ -4964,6 +5008,28 @@
       "duration_ms": 178424,
       "name": "Losing Myself (feat. Gunna)",
       "url": "https://open.spotify.com/track/1RBKibhjmaVoBj4L3AuUhz"
+    },
+    {
+      "album": {
+        "name": "Low Fade",
+        "url": "https://open.spotify.com/album/4OMBxFEkBo4MHCTTRP90Jf"
+      },
+      "artists": [
+        {
+          "name": "Karan Aujla",
+          "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175772,
+      "name": "Low Fade",
+      "url": "https://open.spotify.com/track/4CZl2BQkGPIFK99cf6jTAz"
     },
     {
       "album": {
@@ -7082,7 +7148,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 173502,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8"
@@ -8378,7 +8444,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 142666,
       "name": "Vazhikatti - Kizhakku Suryan",
       "url": "https://open.spotify.com/track/1UpbpQDIKTc1XxRyF3Xgi0"
@@ -8980,7 +9046,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 247272,
       "name": "ZILL",
       "url": "https://open.spotify.com/track/12wlJpuAbgMv0OaYmY3r5x"

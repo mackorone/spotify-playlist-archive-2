@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "LA FOLLE DU BUS",
+        "url": "https://open.spotify.com/album/45tA00tQMMUdTPoOqMqn3l"
+      },
+      "artists": [
+        {
+          "name": "Filiz",
+          "url": "https://open.spotify.com/artist/5IotvmXP4j1DikGWocffKz"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146206,
+      "name": "apr\u00e8s l\u2019amour",
+      "url": "https://open.spotify.com/track/2CTxXSQSfNzSRdlfQhekul"
+    },
+    {
+      "album": {
         "name": "Do Not Disturb: Late Checkout",
         "url": "https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO"
       },
@@ -9308,24 +9326,6 @@
       "duration_ms": 197933,
       "name": "TQG",
       "url": "https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf"
-    },
-    {
-      "album": {
-        "name": "LA FOLLE DU BUS",
-        "url": "https://open.spotify.com/album/45tA00tQMMUdTPoOqMqn3l"
-      },
-      "artists": [
-        {
-          "name": "Filiz",
-          "url": "https://open.spotify.com/artist/5IotvmXP4j1DikGWocffKz"
-        }
-      ],
-      "date_added": "2026-07-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/2CTxXSQSfNzSRdlfQhekul"
     },
     {
       "album": {

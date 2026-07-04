@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 
 > Os indicados na maior celebração da música latina em 2025.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,452 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,449 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 28 | [Ahí Estabas Tú](https://open.spotify.com/track/2IzEVy7GK3Y71N1HOvzwso) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's \(Seca\)](https://open.spotify.com/album/37R1JCesvIct4jBsS4bW8P) | 1:52 |
 | 29 | [Azul, Bebê](https://open.spotify.com/track/6EGGqJCJgR1wD7Z39OD6O5) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Beleza\. Mas agora a gente faz o que com isso?](https://open.spotify.com/album/0cOW8fhryMaZZG4Mo0VuEf) | 3:29 |
 | 30 | [Bogotá](https://open.spotify.com/track/42xEJ2PHDrVa8lGRr8DIci) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [BOGOTÁ](https://open.spotify.com/album/74imuWw1wN5lI4hiX57410) | 3:15 |
-| 31 | [Transe](https://open.spotify.com/track/6GagMYkmbSakx79Eta9RIh) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/4gtQPnisgFKDkNEKTU74YJ) | 3:10 |
-| 32 | [Deixa Eu Gostar de Você](https://open.spotify.com/track/34eAx5jQcSo7D7WR5pon31) | [5 a Seco](https://open.spotify.com/artist/1R9QfzgBmhk1spLg3BiU1f), [Pedro Altério](https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td) | [Sentido](https://open.spotify.com/album/7FQ9WvPmxXdG7gWH3H4Yn0) | 3:02 |
+| 31 | [Deixa Eu Gostar de Você](https://open.spotify.com/track/34eAx5jQcSo7D7WR5pon31) | [5 a Seco](https://open.spotify.com/artist/1R9QfzgBmhk1spLg3BiU1f), [Pedro Altério](https://open.spotify.com/artist/1O8mpR5WQPL6AbixaSZ5td) | [Sentido](https://open.spotify.com/album/7FQ9WvPmxXdG7gWH3H4Yn0) | 3:02 |
+| 32 | [Transe](https://open.spotify.com/track/6GagMYkmbSakx79Eta9RIh) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/4gtQPnisgFKDkNEKTU74YJ) | 3:10 |
 | 33 | [Rota](https://open.spotify.com/track/2PfuIcBIEvArGhn10S46Rc) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Lucs Romero](https://open.spotify.com/artist/1yw5PZ4ceYDZWiptutFaAN) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 3:35 |
 | 34 | [Lucidez \- Ao Vivo](https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Eu Gosto no Pagode Vol\. 3 \- Homenagem ao Fundo de Quintal \(Gravado em Londres\) \[Ao Vivo\]](https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR) | 4:18 |
 | 35 | [pesimista](https://open.spotify.com/track/4h3UlQtw65wj5tiYZ4TZ3s) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja](https://open.spotify.com/album/1LSYcBB35ODdWSVRm7imVM) | 3:54 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbJvW0PWMXVv.md) - [plain]
 | 56 | [Longe De Mim](https://open.spotify.com/track/1vA8qPRhgd9pv2egwvwPjW) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [IRADOH](https://open.spotify.com/album/4WgX6CsBHsZ8D3QzQEYFdS) | 2:49 |
 | 57 | [Liberem os Brigadeiros Antes dos Parabéns](https://open.spotify.com/track/14DBuiss0102bbNBhLNGzu) | [Palavra Cantada](https://open.spotify.com/artist/44RRgJcFWyW7kfeEkgFPGT) | [Cenas Infantis](https://open.spotify.com/album/1cZVnIh1nC0tghnaBO7yCu) | 3:12 |
 | 58 | [Marra de Feroz](https://open.spotify.com/track/5rlt8sbM3GUGYegd66j96E) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Alcione](https://open.spotify.com/album/6QCBlpGOO4UD9SgmCciYMK) | 3:21 |
-| 59 | [Sapato Velho](https://open.spotify.com/track/75Q1mLVkgFXNyun49mYxA3) | [Rafael Beck](https://open.spotify.com/artist/02SrHZQcFFDx6SOLBE32pd), [Felipe Montanaro](https://open.spotify.com/artist/5IanW65y5AvKBjUgOue9Bn) | [Fantasia Brasil 2](https://open.spotify.com/album/3H4U6MjrJmz5OToGC2O73n) | 3:27 |
-| 60 | [Transeunte](https://open.spotify.com/track/2j5BojmxdaszcSAU3m4QQt) | [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [JAZZWOMAN](https://open.spotify.com/album/6Tt3u8kvUixtRFCxENtrdG) | 4:12 |
+| 59 | [Transeunte](https://open.spotify.com/track/2j5BojmxdaszcSAU3m4QQt) | [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [JAZZWOMAN](https://open.spotify.com/album/6Tt3u8kvUixtRFCxENtrdG) | 4:12 |
+| 60 | [Sapato Velho](https://open.spotify.com/track/75Q1mLVkgFXNyun49mYxA3) | [Rafael Beck](https://open.spotify.com/artist/02SrHZQcFFDx6SOLBE32pd), [Felipe Montanaro](https://open.spotify.com/artist/5IanW65y5AvKBjUgOue9Bn) | [Fantasia Brasil 2](https://open.spotify.com/album/3H4U6MjrJmz5OToGC2O73n) | 3:27 |
 | 61 | [Bolinha Azul](https://open.spotify.com/track/5w1vjzU1xvgEIp1gwGT9rA) | [Antonio Caramelo](https://open.spotify.com/artist/2iCmceKgCskEfeiw0lWhfF), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Malibu Kids](https://open.spotify.com/artist/2VQHINk1AordxUvaQplYM7) | [Aventuras de Caramelo](https://open.spotify.com/album/1iZLM6uFvP1OP1D4SwMm9Q) | 2:34 |
 | 62 | [Suíte Ameríndia](https://open.spotify.com/track/2mhaDGmKW0SAd23QLs1emM) | [Yamandu Costa](https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV), [Martín Sued & Orquestra Assintomática](https://open.spotify.com/artist/67x6qUvregPsZZQcXvAPbx), [Orquestra Assintomática](https://open.spotify.com/artist/6aO53sBfidfLeCPuxVmnUm), [Martin Sued](https://open.spotify.com/artist/2tHlPF8Z3LhEA2rBrrEWOI) | [Saga](https://open.spotify.com/album/1n2sWBGetGhjVOIC8cO1kv) | 14:01 |
 | 63 | [Queixa das almas jovens censuradas \- Ao Vivo](https://open.spotify.com/track/5u1OOYi33ZxZ5eXWJKOhDo) | [Camané](https://open.spotify.com/artist/3MLPFTe4BrpEV2eOVG0gLK) | [Camané Ao Vivo No CCB \- Homenagem a José Mário Branco](https://open.spotify.com/album/6nMDZpZ7j1AjZ5oQqNg074) | 5:14 |

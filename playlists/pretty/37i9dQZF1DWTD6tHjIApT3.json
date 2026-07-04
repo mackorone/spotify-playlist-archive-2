@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: \u9234\u6728\u771f\u6d77\u5b50",
-  "num_followers": 137587,
+  "num_followers": 137662,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-06-30 15:00:14",
       "album": {
+        "name": "Twilight Twilight",
+        "url": "https://open.spotify.com/album/5xYb49Dtwuz5sAVKqtcpaO"
+      },
+      "artists": [
+        {
+          "name": "PiKi",
+          "url": "https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T"
+        }
+      ],
+      "duration_ms": 202221,
+      "name": "Twilight Twilight",
+      "url": "https://open.spotify.com/track/2zDsbKzHDrxMeeDCasEHg6"
+    },
+    {
+      "added_at": "2026-06-30 15:00:14",
+      "album": {
         "name": "\u30b3\u30fc\u30eb\u30c9\u30b9\u30ea\u30fc\u30d7",
         "url": "https://open.spotify.com/album/5SNBn4vaEK5MRFFOaz4HGG"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 277000,
       "name": "\u305f\u3060\u7f8e\u3057\u3044\u546a\u3044",
       "url": "https://open.spotify.com/track/1U6rQ5PUF7XMtttxXEFIeq"
-    },
-    {
-      "added_at": "2026-06-30 15:00:14",
-      "album": {
-        "name": "Twilight Twilight",
-        "url": "https://open.spotify.com/album/5xYb49Dtwuz5sAVKqtcpaO"
-      },
-      "artists": [
-        {
-          "name": "PiKi",
-          "url": "https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "Twilight Twilight",
-      "url": "https://open.spotify.com/track/2zDsbKzHDrxMeeDCasEHg6"
     },
     {
       "added_at": "2026-06-30 15:00:14",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-06-30 15:00:14",
       "album": {
-        "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
-        "url": "https://open.spotify.com/album/3o7fMvUbIBPcXLR7EK0xzL"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 244781,
-      "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
-      "url": "https://open.spotify.com/track/4jeG0pnEjEFIphK0oLnGaW"
-    },
-    {
-      "added_at": "2026-06-30 15:00:14",
-      "album": {
         "name": "PLAY",
         "url": "https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 206493,
       "name": "Not a Goodbye",
       "url": "https://open.spotify.com/track/4s91z1CjRTXnehoFfmIA4E"
+    },
+    {
+      "added_at": "2026-06-30 15:00:14",
+      "album": {
+        "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
+        "url": "https://open.spotify.com/album/3o7fMvUbIBPcXLR7EK0xzL"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 244781,
+      "name": "\u30a4\u30af\u30b8\u30ca\u30b7",
+      "url": "https://open.spotify.com/track/4jeG0pnEjEFIphK0oLnGaW"
     },
     {
       "added_at": "2026-06-30 15:00:14",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-06-30 15:00:14",
       "album": {
-        "name": "\u30af\u30ed\u30fc\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/3IVDFFnyJdNRrZoPHthYwY"
-      },
-      "artists": [
-        {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
-        }
-      ],
-      "duration_ms": 297000,
-      "name": "\u30af\u30ed\u30fc\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/6RbK8eVJ2Zo1VifYN7EFTw"
-    },
-    {
-      "added_at": "2026-06-30 15:00:14",
-      "album": {
         "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
         "url": "https://open.spotify.com/album/48VLTTkyHcbwfvyR0B74gB"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 193430,
       "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
       "url": "https://open.spotify.com/track/3nIeP2B5O1uwKeKVUiYjo6"
+    },
+    {
+      "added_at": "2026-06-30 15:00:14",
+      "album": {
+        "name": "\u30af\u30ed\u30fc\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/3IVDFFnyJdNRrZoPHthYwY"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "duration_ms": 297000,
+      "name": "\u30af\u30ed\u30fc\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/6RbK8eVJ2Zo1VifYN7EFTw"
     },
     {
       "added_at": "2026-06-30 15:00:14",
@@ -999,18 +999,18 @@
     {
       "added_at": "2026-06-30 15:00:14",
       "album": {
-        "name": "\u611b\u6669\u9910",
-        "url": "https://open.spotify.com/album/5wXOLbRU1CP6FHK8w6iWOM"
+        "name": "dedede",
+        "url": "https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI"
       },
       "artists": [
         {
-          "name": "ano",
-          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
         }
       ],
-      "duration_ms": 185830,
-      "name": "\u611b\u6669\u9910",
-      "url": "https://open.spotify.com/track/5WlQyOu63g9BMfNXb81xWq"
+      "duration_ms": 175247,
+      "name": "dedede",
+      "url": "https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB"
     },
     {
       "added_at": "2026-06-30 15:00:14",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2026-06-30 15:00:14",
       "album": {
-        "name": "dedede",
-        "url": "https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI"
+        "name": "\u611b\u6669\u9910",
+        "url": "https://open.spotify.com/album/5wXOLbRU1CP6FHK8w6iWOM"
       },
       "artists": [
         {
-          "name": "Haku.",
-          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+          "name": "ano",
+          "url": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z"
         }
       ],
-      "duration_ms": 175247,
-      "name": "dedede",
-      "url": "https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB"
+      "duration_ms": 185830,
+      "name": "\u611b\u6669\u9910",
+      "url": "https://open.spotify.com/track/5WlQyOu63g9BMfNXb81xWq"
     },
     {
       "added_at": "2026-06-30 15:00:14",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2026-06-30 15:00:14",
       "album": {
-        "name": "OK! GO!",
-        "url": "https://open.spotify.com/album/1cXPneXLMQLpz1ScS3VQmY"
+        "name": "MINE",
+        "url": "https://open.spotify.com/album/4b51KDoNVNisbHS4cu2Tdo"
       },
       "artists": [
         {
-          "name": "ayaka",
-          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+          "name": "SWEET REVENGE",
+          "url": "https://open.spotify.com/artist/5Bey3ulvK5ExyT5SHZUUgh"
         }
       ],
-      "duration_ms": 215958,
-      "name": "OK! GO!",
-      "url": "https://open.spotify.com/track/61OAIwTrH9C5oITjPOkrCD"
+      "duration_ms": 149760,
+      "name": "MINE",
+      "url": "https://open.spotify.com/track/4AVQ6xQez2NA0lDlzALXis"
     },
     {
       "added_at": "2026-06-30 15:00:14",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2026-06-30 15:00:14",
       "album": {
-        "name": "MINE",
-        "url": "https://open.spotify.com/album/4b51KDoNVNisbHS4cu2Tdo"
+        "name": "OK! GO!",
+        "url": "https://open.spotify.com/album/1cXPneXLMQLpz1ScS3VQmY"
       },
       "artists": [
         {
-          "name": "SWEET REVENGE",
-          "url": "https://open.spotify.com/artist/5Bey3ulvK5ExyT5SHZUUgh"
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
         }
       ],
-      "duration_ms": 149760,
-      "name": "MINE",
-      "url": "https://open.spotify.com/track/4AVQ6xQez2NA0lDlzALXis"
+      "duration_ms": 215958,
+      "name": "OK! GO!",
+      "url": "https://open.spotify.com/track/61OAIwTrH9C5oITjPOkrCD"
     },
     {
       "added_at": "2026-06-30 15:00:14",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-06-30 15:00:14",
       "album": {
+        "name": "tone (Special Edition)",
+        "url": "https://open.spotify.com/album/2hlKSjcjfBda3i8YDDSlt9"
+      },
+      "artists": [
+        {
+          "name": "Uru",
+          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+        }
+      ],
+      "duration_ms": 292490,
+      "name": "\u3055\u3059\u3089\u3044\u306e\u5504",
+      "url": "https://open.spotify.com/track/6fksx9m3Pn9jbvnEYyLtej"
+    },
+    {
+      "added_at": "2026-06-30 15:00:14",
+      "album": {
         "name": "\u304a\u306f\u3088\u3046",
         "url": "https://open.spotify.com/album/10XtjZqcqjXxRdUf0zH5tU"
       },
@@ -1423,18 +1439,18 @@
     {
       "added_at": "2026-06-30 15:00:14",
       "album": {
-        "name": "tone (Special Edition)",
-        "url": "https://open.spotify.com/album/2hlKSjcjfBda3i8YDDSlt9"
+        "name": "\u50d5\u3089\u3058\u3083\u306a\u304d\u3083\u30c0\u30e1\u306b\u306a\u3063\u3066",
+        "url": "https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s"
       },
       "artists": [
         {
-          "name": "Uru",
-          "url": "https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k"
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
         }
       ],
-      "duration_ms": 292490,
-      "name": "\u3055\u3059\u3089\u3044\u306e\u5504",
-      "url": "https://open.spotify.com/track/6fksx9m3Pn9jbvnEYyLtej"
+      "duration_ms": 235837,
+      "name": "\u81ea\u7531\u306e\u30b7\u30e7\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/1MhyoLnjXzv00R4SYtfnH9"
     },
     {
       "added_at": "2026-06-30 15:00:14",
@@ -1451,22 +1467,6 @@
       "duration_ms": 197066,
       "name": "\u3042\u308f",
       "url": "https://open.spotify.com/track/6O0LyEm9dwtPlG3KsNu6Ao"
-    },
-    {
-      "added_at": "2026-06-30 15:00:14",
-      "album": {
-        "name": "\u50d5\u3089\u3058\u3083\u306a\u304d\u3083\u30c0\u30e1\u306b\u306a\u3063\u3066",
-        "url": "https://open.spotify.com/album/0FNYLT5Un2W0XpLx3YQ86s"
-      },
-      "artists": [
-        {
-          "name": "Haku.",
-          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
-        }
-      ],
-      "duration_ms": 235837,
-      "name": "\u81ea\u7531\u306e\u30b7\u30e7\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/1MhyoLnjXzv00R4SYtfnH9"
     },
     {
       "added_at": "2026-06-30 15:00:14",
@@ -1635,18 +1635,22 @@
     {
       "added_at": "2026-06-30 15:00:14",
       "album": {
-        "name": "Ray",
-        "url": "https://open.spotify.com/album/0bs97BumdpbyYhcfHWE9hg"
+        "name": "Going",
+        "url": "https://open.spotify.com/album/1WNLDLMUXMw9vcGVX0WF4N"
       },
       "artists": [
         {
-          "name": "YU-KA",
-          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+          "name": "Manaka",
+          "url": "https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN"
+        },
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
         }
       ],
-      "duration_ms": 276200,
-      "name": "Ray",
-      "url": "https://open.spotify.com/track/7yx5pbQGDEXtpPifMy8u5d"
+      "duration_ms": 169400,
+      "name": "Going",
+      "url": "https://open.spotify.com/track/0ooR1VXfwVvPVxfMAqKnUn"
     }
   ],
   "unique_name": "Women's Voice",

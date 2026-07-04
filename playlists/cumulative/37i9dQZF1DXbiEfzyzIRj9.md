@@ -4,7 +4,7 @@
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\.   Cover: 勢喜遊 & Yohji Igarashi
 
-2,332 songs - 7 day 2 hr 24 min
+2,333 songs - 7 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1647,6 +1647,7 @@
 | [Realise](https://open.spotify.com/track/3oU4TS377kyUrtrbZCSwtB) | [Save Me The Trouble](https://open.spotify.com/artist/3qRE812oXiyzvUZyo7csj7) | [Realise](https://open.spotify.com/album/5ubjvSkFF4fMFoeG0sG9Ze) | 5:57 | 2024-07-04 | 2024-08-23 |
 | [Really Works](https://open.spotify.com/track/4kZFD8wkXMkBwBcW69aEWx) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Really Works](https://open.spotify.com/album/0Meej6kMeW5Dzt1z38LiyD) | 2:57 | 2026-06-25 |  |
 | [Reason](https://open.spotify.com/track/2O9NEC7T5nwhxdRdkoQOcq) | [andrew](https://open.spotify.com/artist/2LMkCtzEvQYGAhXvXiwGCr), [Stupid Kozo](https://open.spotify.com/artist/3f012UB1Piib4r7kKfixDF) | [Reason EP](https://open.spotify.com/album/1DQJ48DnUMiPiVagQWlgbP) | 6:25 | 2026-01-15 | 2026-05-09 |
+| [Reason](https://open.spotify.com/track/3HHu9EZCNRaOwe55ro83rE) | [Hiroyuki Kato](https://open.spotify.com/artist/23CiJirD3cbTXeVTFysAgq) | [Tien Shinhan EP](https://open.spotify.com/album/4uO9woQGb6DDsrtwefs43M) | 5:09 | 2026-07-03 |  |
 | [Reason \(with Paige Cavell\)](https://open.spotify.com/track/4OQL3tmaCuh2j6K29GgT37) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Paige Cavell](https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24) | [Reason \(with Paige Cavell\)](https://open.spotify.com/album/5QWzNf3o2kqWwYeZo1ZKjE) | 2:34 | 2023-06-16 | 2023-08-25 |
 | [Rebu](https://open.spotify.com/track/3ijK81UPJIRRCgonkggrpE) | [Pee J Anderson](https://open.spotify.com/artist/338O4TkgrWM4mq1hkYEItx) | [Rebu](https://open.spotify.com/album/7L8IJFz2a43Seo8hGl4TYT) | 5:11 | 2024-11-14 | 2025-01-31 |
 | [Receipts & LoLo \(Guchon Remix\)](https://open.spotify.com/track/1I2vOUkyxW4uu5QnA4z18N) | [Fetus](https://open.spotify.com/artist/4fb3tegVhFiF0C8hFWMCBA), [Guchon](https://open.spotify.com/artist/1Xa4Ob475n3X1O1kkpgw99) | [b1 b2 Remixes](https://open.spotify.com/album/3Jd9xUy3SrD7Tkns5JJKar) | 4:24 | 2024-12-05 | 2025-01-31 |
@@ -2324,7 +2325,7 @@
 | [ZERO \(feat\. Yohji Igarashi\)](https://open.spotify.com/track/3HGbKsXFrszzquGkhLUnnX) | [Rave Racers](https://open.spotify.com/artist/7cAx8raTkmzauwfJqGj0Ug), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [FORMULA\-R](https://open.spotify.com/album/0TjCpGIswbqqge26xYpOmg) | 3:56 | 2025-09-19 | 2025-10-25 |
 | [ZiGGY \(DJ\-Kicks\)](https://open.spotify.com/track/1ustsXRV9SzZMuFnozNE6e) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [ZiGGY \(DJ\-Kicks\)](https://open.spotify.com/album/3sWZKvKbMl5eJcTHzD045K) | 5:41 | 2023-09-21 | 2023-12-09 |
 | [ZOOM](https://open.spotify.com/track/5BrX72zkxJaowRZwgM8wyB) | [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [ZOOM](https://open.spotify.com/album/1sh6E8cJ0BOG5aN4jQ1MiK) | 3:45 | 2024-03-07 | 2024-06-28 |
-| [Zoubi \- Radio Edit](https://open.spotify.com/track/2N2dkOyN6F916NiWnDerkE) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Zoubi](https://open.spotify.com/album/3LeicMUfmGvmsOs35Q2i8R) | 3:47 | 2026-05-21 |  |
+| [Zoubi \- Radio Edit](https://open.spotify.com/track/2N2dkOyN6F916NiWnDerkE) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Léon Phal](https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Zoubi](https://open.spotify.com/album/3LeicMUfmGvmsOs35Q2i8R) | 3:47 | 2026-05-21 | 2026-07-04 |
 | [Zélé \- Palms Trax Remix](https://open.spotify.com/track/6U77Knjl2iJLdwodnemxLP) | [Praktika](https://open.spotify.com/artist/1T7ryJ2DVYsmVtEtUHUZ12), [Palms Trax](https://open.spotify.com/artist/52XSRQqTAfZ8ZrIqkQvQyA), [Jahelle](https://open.spotify.com/artist/7j8orzAAWuc1DHaWlCtssm) | [Zélé \- Palms Trax Remix](https://open.spotify.com/album/7DF0SPIGOC2Ke9OPaEIgLO) | 8:15 | 2024-09-19 | 2024-10-12 |
 | [Şașkın](https://open.spotify.com/track/19ueEPBwOhHPqX6VPnn9g8) | [Ilkay Sencan](https://open.spotify.com/artist/5deLgmgAEgy8UHOfJ9Dj8w), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Şașkın](https://open.spotify.com/album/5Dw4RpIKnML93JmfRNE0il) | 2:27 | 2025-08-08 | 2025-09-26 |
 | [ʅ\(\):::\(\)̵̳̗̊\( l̡̡̡ ̡͌ Ɵʅ\(\)vȯ\)\) ̷̨ʅ l̡̡̡ ̡͌ ʅ\(\)ʃ ꐑȯ\)࿃ूੂ✧⃛✧⃛\) \(\):::\(\) ̴̤̚ \(ཀ ඊູ ఠీੂ\)\) ̷̨ʅ l̡̡̡ ̡͌](https://open.spotify.com/track/5aznBpTeBCELEsNz6m0gZ5) | [⣎⡇ꉺლ༽இ•̛\)ྀ◞ ༎ຶ ༽ৣৢ؞ৢ؞ؖ ꉺლ](https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf) | [ʅ\(\) ʅ\(\)ʃ ꐑ\(ఠీੂ೧ູȯ\)vȯ\)࿃ूੂ✧⃛✧⃛\) \(\):::\(\) ̴̤̚](https://open.spotify.com/album/54NMdoKJtx3kjZdSXmnW1s) | 4:21 | 2024-10-04 | 2024-12-27 |

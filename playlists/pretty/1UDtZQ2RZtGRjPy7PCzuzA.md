@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > life too short love the one you got
 
-[𝓁𝒾𝒶](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,003 songs - 2 day 9 hr 14 min
+[𝓁𝒾𝒶](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,004 songs - 2 day 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1011,5 +1011,6 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1001 | [Ain't It Fun](https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:56 |
 | 1002 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 1003 | [August Underground](https://open.spotify.com/track/3JuoY84eCBqfDPb0Caggcg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 3:40 |
+| 1004 | [OMG](https://open.spotify.com/track/5vYjTN8d0DZ2SosbKSx5Nj) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Memoir of a Sparklemuffin](https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX) | 2:58 |
 
-Snapshot ID: `AAAK68AjV2JVakLZLmeG+q8MKLYv2Db5`
+Snapshot ID: `AAAK7ERfTXYlznaoKeg6MqlOqapkDwm5`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-03",
-  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. SOULFIA en portada.",
+  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. BB ASUL y TAICHU en portada.",
   "name": "sentimiento r&b.",
   "tracks": [
     {
@@ -1383,6 +1383,28 @@
     },
     {
       "album": {
+        "name": "colmillos",
+        "url": "https://open.spotify.com/album/5l4rtYwjjmGYjH3Jqk2roQ"
+      },
+      "artists": [
+        {
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182570,
+      "name": "colmillos",
+      "url": "https://open.spotify.com/track/54OKtgmsxS97sFTHz1R4Sj"
+    },
+    {
+      "album": {
         "name": "Cardellino",
         "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
       },
@@ -1540,7 +1562,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 226285,
       "name": "Coraz\u00f3n Puro",
       "url": "https://open.spotify.com/track/1yNYyCDT267YVxs5qSmnYZ"
@@ -2999,6 +3021,24 @@
     },
     {
       "album": {
+        "name": "HEY SHORTY",
+        "url": "https://open.spotify.com/album/5uZ8MdZ6jcbqNBkJ9ycoZg"
+      },
+      "artists": [
+        {
+          "name": "Gonzalo Genek",
+          "url": "https://open.spotify.com/artist/4h0s1nZFTuIRkkTpAI1F7I"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140869,
+      "name": "HEY SHORTY",
+      "url": "https://open.spotify.com/track/4ak2hzD5LPgt18mm1wnWoh"
+    },
+    {
+      "album": {
         "name": "RZNHA na Pineapple",
         "url": "https://open.spotify.com/album/0dtjgYoTx1cfgbj5HjqcEJ"
       },
@@ -4038,7 +4078,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 156764,
       "name": "mineminemine",
       "url": "https://open.spotify.com/track/5LspgGqZ9jI2JNSfTShgoL"
@@ -6449,6 +6489,32 @@
     },
     {
       "album": {
+        "name": "TENTAR DE NOVO",
+        "url": "https://open.spotify.com/album/67b4a9HNZelF5QRmOjF6vM"
+      },
+      "artists": [
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134249,
+      "name": "TENTAR DE NOVO",
+      "url": "https://open.spotify.com/track/055Lxzpk9MFO8HsKpKFjjv"
+    },
+    {
+      "album": {
         "name": "Terrestre",
         "url": "https://open.spotify.com/album/5Tt6fQR8tjNh6Evwce7Z2f"
       },
@@ -6686,7 +6752,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 160037,
       "name": "Tu No Vas",
       "url": "https://open.spotify.com/track/0CeQmY0t87WSDBgq1mkLEF"

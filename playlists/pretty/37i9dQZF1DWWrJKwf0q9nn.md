@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Raphi
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,579 likes - 102 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,613 likes - 102 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 28 | [Summer Jam](https://open.spotify.com/track/0hPJu90W3jFiTSogvXTm3A) | [TLM](https://open.spotify.com/artist/7wV0mwdNBRSZ7vCaEPCGME), [Tjade](https://open.spotify.com/artist/2XgDjvneRRotQu4r9lTRuh), [Lucky Done Gone](https://open.spotify.com/artist/1eKMhcfR1J5oGdmcOiVA1n), [Moody Mehran](https://open.spotify.com/artist/1FtldHhVu3BpGvaiwaPE5K), [Merely](https://open.spotify.com/artist/3R0EMFbUS5NaombX9GQOn7) | [Summer Jam](https://open.spotify.com/album/6wdCgtpAuoLv5w5FAQJ2Rg) | 3:49 |
 | 29 | [ResuRection](https://open.spotify.com/track/3avXtcd0oJNUVB7prZEDYn) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Planet Perfecto Knights](https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs) | [ResuRection](https://open.spotify.com/album/1huuNXEaRU60RRZ2T4x5LI) | 2:59 |
 | 30 | [Satisfaction](https://open.spotify.com/track/3GMBov7LERGh3oZYOsyOzQ) | [FAULHABER](https://open.spotify.com/artist/49T8i1paijMAK9rYtjO4lu), [Kooyman](https://open.spotify.com/artist/1Gn5U6wVzl2lrwMfcAfkan) | [Satisfaction](https://open.spotify.com/album/7K9dTV4lMscnwctV0bL6HS) | 2:09 |
-| 31 | [You Make Me Feel Alive \- Radio Edit](https://open.spotify.com/track/7qyyRciWnIXp1Bv56xnFrm) | [Bobby & Djenko](https://open.spotify.com/artist/66FPEh7FWHOM30bckLmOux) | [Burning Up EP](https://open.spotify.com/album/0BaMRGO3uK8zIa6SESoVjq) | 3:47 |
+| 31 | [You Make Me Feel Alive](https://open.spotify.com/track/7qyyRciWnIXp1Bv56xnFrm) | [Bobby & Djenko](https://open.spotify.com/artist/66FPEh7FWHOM30bckLmOux) | [Burning Up EP](https://open.spotify.com/album/0BaMRGO3uK8zIa6SESoVjq) | 3:47 |
 | 32 | [Arriba](https://open.spotify.com/track/1De64hyRaLVuef35R9mAyE) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Arriba](https://open.spotify.com/album/3o7BNIsHMzdnjuUMCkOJMj) | 1:53 |
 | 33 | [Into The Storm](https://open.spotify.com/track/1fJANBj0gLCLcCKlAyAAhM) | [DÂVINØ](https://open.spotify.com/artist/5S7oiAcfKX87nwd1kqgvfh) | [Into The Storm](https://open.spotify.com/album/5cE3OvUzmWXL9SxDnLOlvs) | 4:07 |
 | 34 | [Tshanduko](https://open.spotify.com/track/7Lo8J2w9i9l3vCVQjVjHNo) | [Junerule](https://open.spotify.com/artist/2K63bqHDSj7JSW60BSGcur), [Jordy Wess](https://open.spotify.com/artist/6zEOPtIsNzR1O6fKKWWJDX), [Mavhungu](https://open.spotify.com/artist/464BYDcWpoLKSNpQxHLuTT) | [Tshanduko](https://open.spotify.com/album/1zunE8X7YMvL8fHWLWiRy6) | 3:16 |

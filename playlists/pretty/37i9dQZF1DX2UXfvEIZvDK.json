@@ -1,6 +1,6 @@
 {
   "description": "Even rockers need a break.",
-  "num_followers": 943852,
+  "num_followers": 943895,
   "original_name": "Chill Rock",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-04-24 04:01:49",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2026-04-24 04:01:49",
-      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 225980,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
+    },
+    {
+      "added_at": "2026-04-24 04:01:49",
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2026-04-24 04:01:49",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-04-24 04:01:49",
       "album": {
-        "name": "Break the Cycle",
-        "url": "https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE"
-      },
-      "artists": [
-        {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
-        }
-      ],
-      "duration_ms": 264706,
-      "name": "It's Been Awhile",
-      "url": "https://open.spotify.com/track/1BExV8JprNJLvLeDE9qdEW"
-    },
-    {
-      "added_at": "2026-04-24 04:01:49",
-      "album": {
         "name": "blink-182",
         "url": "https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 227250,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/1AdYZ6X00nXmO613Y7GJOl"
+    },
+    {
+      "added_at": "2026-04-24 04:01:49",
+      "album": {
+        "name": "Break the Cycle",
+        "url": "https://open.spotify.com/album/0HogGfosAvj4tF3GTv2KIE"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "duration_ms": 264706,
+      "name": "It's Been Awhile",
+      "url": "https://open.spotify.com/track/1BExV8JprNJLvLeDE9qdEW"
     },
     {
       "added_at": "2026-04-24 04:01:49",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-04-24 04:01:49",
       "album": {
-        "name": "Pisces Iscariot (Deluxe)",
-        "url": "https://open.spotify.com/album/7glwer1Pzyns4h32fHbl53"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Landslide - Remastered",
-      "url": "https://open.spotify.com/track/6N7JMoaUYgo4pwPgsnSobr"
-    },
-    {
-      "added_at": "2026-04-24 04:01:49",
-      "album": {
         "name": "Koi No Yokan",
         "url": "https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 233706,
       "name": "What Happened to You?",
       "url": "https://open.spotify.com/track/3GXmLpYjgpjXFtDkS4wtJ7"
+    },
+    {
+      "added_at": "2026-04-24 04:01:49",
+      "album": {
+        "name": "Pisces Iscariot (Deluxe)",
+        "url": "https://open.spotify.com/album/7glwer1Pzyns4h32fHbl53"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Landslide - Remastered",
+      "url": "https://open.spotify.com/track/6N7JMoaUYgo4pwPgsnSobr"
     },
     {
       "added_at": "2026-04-24 04:01:49",

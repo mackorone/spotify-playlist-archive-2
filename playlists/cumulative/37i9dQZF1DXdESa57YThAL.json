@@ -1679,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "\u7948\u308a\u3001\u7d42\u308f\u308c\u3070",
+        "url": "https://open.spotify.com/album/0hvpMj6z0amzqaVhhHmsD8"
+      },
+      "artists": [
+        {
+          "name": "Mika Nakashima",
+          "url": "https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237188,
+      "name": "\u7948\u308a\u3001\u7d42\u308f\u308c\u3070",
+      "url": "https://open.spotify.com/track/1JelF7yfO3pDABPmOxLoVl"
+    },
+    {
+      "album": {
         "name": "\u7948\u308a\u306e\u5504",
         "url": "https://open.spotify.com/album/69GvKOEbjLN0SPQIxw3py0"
       },

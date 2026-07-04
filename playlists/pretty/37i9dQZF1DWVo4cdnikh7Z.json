@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Vishwanath & Sons",
-  "num_followers": 752486,
+  "num_followers": 752586,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHFYI5fREpVWhsahEuPmjpU/XWFu",
+  "snapshot_id": "AAAAABY4h7TzueCcvwAWWnyxDPAe2LmI",
   "tracks": [
     {
       "added_at": "2026-06-19 13:18:18",
@@ -197,6 +197,26 @@
       "url": "https://open.spotify.com/track/21sbfmwfNXEHraQkJqSuZn"
     },
     {
+      "added_at": "2026-07-03 11:16:04",
+      "album": {
+        "name": "One Name (From \"Jailer 2\")",
+        "url": "https://open.spotify.com/album/7KWPGNpGsoCAkxdnXR49s4"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "One Name (From \"Jailer 2\")",
+      "url": "https://open.spotify.com/track/4NMe76giWnRILo6nTfvPeP"
+    },
+    {
       "added_at": "2026-05-21 07:50:03",
       "album": {
         "name": "Goindhamma (From \"Meesaya Murukku 2\")",
@@ -227,6 +247,26 @@
       "duration_ms": 192961,
       "name": "Goindhamma (From \"Meesaya Murukku 2\")",
       "url": "https://open.spotify.com/track/4pibaSwz8vWyQQcFlDafFz"
+    },
+    {
+      "added_at": "2026-07-03 06:26:19",
+      "album": {
+        "name": "Allipoove (From \"Arulvaan\")",
+        "url": "https://open.spotify.com/album/7co5FQWWMr98307nwfDB0w"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        }
+      ],
+      "duration_ms": 239294,
+      "name": "Allipoove (From \"Arulvaan\")",
+      "url": "https://open.spotify.com/track/0c1wb2AcT9Fgm4suQWDNtn"
     },
     {
       "added_at": "2026-07-01 13:35:26",
@@ -477,30 +517,6 @@
       "url": "https://open.spotify.com/track/7r1h6IXj1l1PFGXnwaiyiA"
     },
     {
-      "added_at": "2026-06-30 11:23:33",
-      "album": {
-        "name": "Saami Thandha Varamea (From \"Arjunan Per Paththu\")",
-        "url": "https://open.spotify.com/album/36lSRr4aroJhLOQbAtF8Gx"
-      },
-      "artists": [
-        {
-          "name": "Malvi Sundaresan",
-          "url": "https://open.spotify.com/artist/0kuJvSWvqLidbIjQaJh8DA"
-        },
-        {
-          "name": "D. Imman",
-          "url": "https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0"
-        },
-        {
-          "name": "Karthik Netha",
-          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
-        }
-      ],
-      "duration_ms": 277532,
-      "name": "Saami Thandha Varamea (From \"Arjunan Per Paththu\")",
-      "url": "https://open.spotify.com/track/1hkz8Puone5K8mEZk2ctDx"
-    },
-    {
       "added_at": "2026-06-30 11:37:56",
       "album": {
         "name": "Hello Bossuu (From \"Sing Geetham\")",
@@ -739,26 +755,6 @@
       "duration_ms": 115022,
       "name": "Pere Illa (From \"Sing Geetham\")",
       "url": "https://open.spotify.com/track/2BE4jPjayJDCIT6WokulaT"
-    },
-    {
-      "added_at": "2026-06-24 12:37:11",
-      "album": {
-        "name": "In the Name of Blood (From \"Karathey Babu\")",
-        "url": "https://open.spotify.com/album/0ws4BhBlmjvbpnmseHCEP0"
-      },
-      "artists": [
-        {
-          "name": "Sam C.S.",
-          "url": "https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa"
-        },
-        {
-          "name": "Meenakshi Elayaraja",
-          "url": "https://open.spotify.com/artist/5daBau8I9vfgnEtu3UzA7M"
-        }
-      ],
-      "duration_ms": 124704,
-      "name": "In the Name of Blood (From \"Karathey Babu\")",
-      "url": "https://open.spotify.com/track/4nRi7EYAtsMLjbOoOI70eB"
     },
     {
       "added_at": "2026-06-29 09:27:39",
@@ -1453,26 +1449,6 @@
       "url": "https://open.spotify.com/track/7cSkc5AH2xD79I0LyHGxwH"
     },
     {
-      "added_at": "2026-06-08 12:08:14",
-      "album": {
-        "name": "Folk Kuthu Dance (From \"Texas Tiger\")",
-        "url": "https://open.spotify.com/album/42Qt2tTgiRITVWjzqI7O6T"
-      },
-      "artists": [
-        {
-          "name": "Osho Venkat",
-          "url": "https://open.spotify.com/artist/4z1Pb5nNxIT4c9nEr66523"
-        },
-        {
-          "name": "A.Pa. Raja",
-          "url": "https://open.spotify.com/artist/2H4vHdyT6dnwnLcG1VQNun"
-        }
-      ],
-      "duration_ms": 108833,
-      "name": "Folk Kuthu Dance (From \"Texas Tiger\")",
-      "url": "https://open.spotify.com/track/04iMormwYIi9bkg07NfUSq"
-    },
-    {
       "added_at": "2026-04-30 15:23:31",
       "album": {
         "name": "Vari Vari (Unna Kaadhaliche)",
@@ -1903,22 +1879,6 @@
       "duration_ms": 143505,
       "name": "Psilo Vibin",
       "url": "https://open.spotify.com/track/2ALVcPPNaLzXcF4mbTp0Qs"
-    },
-    {
-      "added_at": "2026-04-20 05:47:25",
-      "album": {
-        "name": "Kara (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JmgWvFTDB51BAhlhciVt9"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        }
-      ],
-      "duration_ms": 33620,
-      "name": "The Name is Kara",
-      "url": "https://open.spotify.com/track/76CnUY4y5Sbrk527rSwNrM"
     }
   ],
   "unique_name": "Latest Tamil",

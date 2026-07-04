@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Riordan & AlunaGeorge",
-  "num_followers": 85408,
+  "num_followers": 85460,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG6XyYW7+KiSdda3EZXA6jvdji0g",
+  "snapshot_id": "AAAAAIA8idWsfahrO0ycaGvsdkZCpzhJ",
   "tracks": [
     {
       "added_at": "2026-07-01 03:14:17",
@@ -27,6 +27,22 @@
       "duration_ms": 183036,
       "name": "Run (feat. O.MMY)",
       "url": "https://open.spotify.com/track/1gI05lrka4qQy2p00eW7Rw"
+    },
+    {
+      "added_at": "2026-07-03 04:01:53",
+      "album": {
+        "name": "Look Into My Eyes",
+        "url": "https://open.spotify.com/album/1tneLNsSg6WqawX5eDGwF9"
+      },
+      "artists": [
+        {
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
+        }
+      ],
+      "duration_ms": 176969,
+      "name": "Look Into My Eyes",
+      "url": "https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja"
     },
     {
       "added_at": "2026-06-19 04:01:17",
@@ -61,22 +77,6 @@
       "url": "https://open.spotify.com/track/30pPf3bjXSL07zF613iHLF"
     },
     {
-      "added_at": "2026-06-19 04:01:17",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/2U07xqRus8Vm96YT2YZsSy"
-      },
-      "artists": [
-        {
-          "name": "Ryan Nicholls",
-          "url": "https://open.spotify.com/artist/4XraXXQSAaQ5Sn9hNEim2Q"
-        }
-      ],
-      "duration_ms": 190909,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/5X8ir6VRntSttQwkDAncjn"
-    },
-    {
       "added_at": "2026-07-01 03:14:17",
       "album": {
         "name": "Other Side of the Phone",
@@ -95,6 +95,42 @@
     {
       "added_at": "2026-06-19 04:01:17",
       "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/2U07xqRus8Vm96YT2YZsSy"
+      },
+      "artists": [
+        {
+          "name": "Ryan Nicholls",
+          "url": "https://open.spotify.com/artist/4XraXXQSAaQ5Sn9hNEim2Q"
+        }
+      ],
+      "duration_ms": 190909,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/5X8ir6VRntSttQwkDAncjn"
+    },
+    {
+      "added_at": "2026-07-03 04:01:53",
+      "album": {
+        "name": "Golden Eyes EP",
+        "url": "https://open.spotify.com/album/0lxbtm8G29O60hUlH66i3V"
+      },
+      "artists": [
+        {
+          "name": "Di Chiara Brothers",
+          "url": "https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H"
+        },
+        {
+          "name": "Romita Raiz",
+          "url": "https://open.spotify.com/artist/4XhmPkmzA8y2n3QfncDtK6"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Golden Eyes",
+      "url": "https://open.spotify.com/track/1d8w8ahMR2HwECpQ5ksjZB"
+    },
+    {
+      "added_at": "2026-06-19 04:01:17",
+      "album": {
         "name": "Feel",
         "url": "https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1"
       },
@@ -107,6 +143,26 @@
       "duration_ms": 158769,
       "name": "Feel",
       "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
+    },
+    {
+      "added_at": "2026-07-03 04:01:53",
+      "album": {
+        "name": "My Place",
+        "url": "https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 159615,
+      "name": "My Place",
+      "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
     },
     {
       "added_at": "2026-06-05 04:01:30",
@@ -123,6 +179,22 @@
       "duration_ms": 177230,
       "name": "Choose or Lose",
       "url": "https://open.spotify.com/track/5jUIGwxb8jznbYXL64nIX0"
+    },
+    {
+      "added_at": "2026-07-03 04:01:53",
+      "album": {
+        "name": "Wish",
+        "url": "https://open.spotify.com/album/0Q92nebW1oGdgpoNtiwcq3"
+      },
+      "artists": [
+        {
+          "name": "Mat Eclair",
+          "url": "https://open.spotify.com/artist/42lEg1ppWhuHrBKLKdVdSa"
+        }
+      ],
+      "duration_ms": 182255,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/3Ry5upRqMd9UhbiKrwPVDI"
     },
     {
       "added_at": "2026-07-01 03:14:17",
@@ -155,6 +227,38 @@
       "duration_ms": 198805,
       "name": "Mesmerize",
       "url": "https://open.spotify.com/track/0oDbO6K2eYSobaJmDM1cNw"
+    },
+    {
+      "added_at": "2026-07-03 04:01:53",
+      "album": {
+        "name": "If Its Real",
+        "url": "https://open.spotify.com/album/5DPzHVof5XijoRlsmK4BGJ"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "If Its Real",
+      "url": "https://open.spotify.com/track/0vgA7Avux3faFKOmUHTHvo"
+    },
+    {
+      "added_at": "2026-05-01 04:01:14",
+      "album": {
+        "name": "What Did You Come For ?",
+        "url": "https://open.spotify.com/album/6UPddPLVGe8DJmabcnSNWe"
+      },
+      "artists": [
+        {
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+        }
+      ],
+      "duration_ms": 221572,
+      "name": "Trapped - Radio-Edit",
+      "url": "https://open.spotify.com/track/7A5lQnbimaAolqrVqVGSbl"
     },
     {
       "added_at": "2026-06-19 04:01:17",
@@ -237,6 +341,26 @@
       "url": "https://open.spotify.com/track/5eABSV4aDk5irs5DVz9VIG"
     },
     {
+      "added_at": "2026-07-03 04:01:53",
+      "album": {
+        "name": "Misbehaving",
+        "url": "https://open.spotify.com/album/6ixenUpILxc0iM3MRS0f2f"
+      },
+      "artists": [
+        {
+          "name": "Mad.Again",
+          "url": "https://open.spotify.com/artist/0N3Cd61UD4Y0ED9YXFGa5V"
+        },
+        {
+          "name": "Tom Did It",
+          "url": "https://open.spotify.com/artist/3EoEOfPPbvev26JtNAXEdJ"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Misbehaving",
+      "url": "https://open.spotify.com/track/6WcoFEjaMaCcgBJQ4E790k"
+    },
+    {
       "added_at": "2026-03-20 04:00:44",
       "album": {
         "name": "Shinjuku",
@@ -251,22 +375,6 @@
       "duration_ms": 167905,
       "name": "Shinjuku",
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
-    },
-    {
-      "added_at": "2026-05-01 04:01:14",
-      "album": {
-        "name": "What Did You Come For ?",
-        "url": "https://open.spotify.com/album/6UPddPLVGe8DJmabcnSNWe"
-      },
-      "artists": [
-        {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
-        }
-      ],
-      "duration_ms": 221572,
-      "name": "Trapped - Radio-Edit",
-      "url": "https://open.spotify.com/track/7A5lQnbimaAolqrVqVGSbl"
     },
     {
       "added_at": "2026-06-19 04:01:17",
@@ -663,26 +771,6 @@
     {
       "added_at": "2026-05-01 04:01:14",
       "album": {
-        "name": "One Question",
-        "url": "https://open.spotify.com/album/6TCTJ5ZlutXnHBbVtPk5VU"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Groove Theory",
-          "url": "https://open.spotify.com/artist/7opRqRgF9lvnVraBFCMvIj"
-        }
-      ],
-      "duration_ms": 184019,
-      "name": "One Question",
-      "url": "https://open.spotify.com/track/7JvaT4FTTF0aYyacmfbHRY"
-    },
-    {
-      "added_at": "2026-05-01 04:01:14",
-      "album": {
         "name": "Face Bass",
         "url": "https://open.spotify.com/album/0zVP42K9yiy36j8i6J1XIb"
       },
@@ -1025,22 +1113,6 @@
       "url": "https://open.spotify.com/track/5cvN9da2nLf0sVUgfYhqeu"
     },
     {
-      "added_at": "2026-05-01 04:01:14",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/1Giq4kCBXCOqpJYaKGdVoo"
-      },
-      "artists": [
-        {
-          "name": "IDEMI",
-          "url": "https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT"
-        }
-      ],
-      "duration_ms": 187272,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/0ZZWyT8ppn9PxVe17WX2DR"
-    },
-    {
       "added_at": "2026-05-15 04:02:22",
       "album": {
         "name": "Uh Huh",
@@ -1231,42 +1303,6 @@
       "duration_ms": 185454,
       "name": "Our House - Ellis Garner Remix",
       "url": "https://open.spotify.com/track/2825nvJcEiZLugLg06ovwU"
-    },
-    {
-      "added_at": "2026-05-01 04:01:14",
-      "album": {
-        "name": "Break It Down EP",
-        "url": "https://open.spotify.com/album/4HjIk35VK90hG0z00YsVS8"
-      },
-      "artists": [
-        {
-          "name": "Chinonegro",
-          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
-        },
-        {
-          "name": "Rob The Bank",
-          "url": "https://open.spotify.com/artist/1eBcxIHWPHZT4Xczskhgcw"
-        }
-      ],
-      "duration_ms": 344937,
-      "name": "Break It Down - Original Mix",
-      "url": "https://open.spotify.com/track/2B6mfpUuuYd2HOyrYpScRT"
-    },
-    {
-      "added_at": "2026-05-01 04:01:14",
-      "album": {
-        "name": "Love Me / Here We Go",
-        "url": "https://open.spotify.com/album/07EHEKqpc5xHak2NhneCGk"
-      },
-      "artists": [
-        {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        }
-      ],
-      "duration_ms": 221706,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/2K4ZCttA5SRyfDqmEzINfv"
     },
     {
       "added_at": "2026-04-10 04:02:13",
@@ -1503,26 +1539,6 @@
       "duration_ms": 181817,
       "name": "Buzzin",
       "url": "https://open.spotify.com/track/2blaFgkbntstxZBGEmXITG"
-    },
-    {
-      "added_at": "2026-03-27 17:45:51",
-      "album": {
-        "name": "Down To The Bone",
-        "url": "https://open.spotify.com/album/6RvCMgBqGhHSdvGlP7SNBa"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        },
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        }
-      ],
-      "duration_ms": 171964,
-      "name": "Down To The Bone",
-      "url": "https://open.spotify.com/track/0d2Ad8j1DftVrZENtEA0fj"
     },
     {
       "added_at": "2026-03-13 04:00:43",
@@ -1923,22 +1939,6 @@
       "duration_ms": 172089,
       "name": "Concrete Bass",
       "url": "https://open.spotify.com/track/1veEHr0b99P7eXBcfUMPWp"
-    },
-    {
-      "added_at": "2026-02-06 17:43:48",
-      "album": {
-        "name": "ENDZ062",
-        "url": "https://open.spotify.com/album/4HlNIzzVqMG0OF1FWy2kHI"
-      },
-      "artists": [
-        {
-          "name": "Di Chiara Brothers",
-          "url": "https://open.spotify.com/artist/5JywRcVtRJR2yVvjCb2O5H"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "Be Back",
-      "url": "https://open.spotify.com/track/0MlssTGVIJzcZ67R2yEc3B"
     },
     {
       "added_at": "2026-01-12 16:33:49",

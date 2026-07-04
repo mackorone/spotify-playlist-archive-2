@@ -4,7 +4,7 @@
 
 > Homegrown Ugandan gems in one playlist\. Cover: Joshua Baraka
 
-590 songs - 1 day 5 hr 55 min
+591 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Love Ganja](https://open.spotify.com/track/2openNGxPDRNjXFH1gA2Y1) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Song Boss](https://open.spotify.com/artist/4RSS0a9hCcQaAADJ67MxtG) | [Love Ganja](https://open.spotify.com/album/6oYTwznr45f7cUSgMT5iCK) | 2:13 | 2024-02-02 | 2024-03-13 |
 | [Love Like That](https://open.spotify.com/track/3ulbAcstspFbIoqo4jIeyt) | [Lilian Mbabazi](https://open.spotify.com/artist/3D2otsWvaxitDohO6yZbC7) | [Love Like That](https://open.spotify.com/album/2BVt6g9T1A2DREvMFSb6CI) | 3:27 | 2026-07-02 |  |
 | [Love Marijuana](https://open.spotify.com/track/7GctU12PSvlJfcBvPAa5wS) | [C\. Wyne Nalukalala](https://open.spotify.com/artist/6GfmHbp4fk5dVif11Efbly), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Love Marijuana](https://open.spotify.com/album/5pj7QvTw5ZgQ9iQtJGOwl1) | 3:48 | 2022-12-02 | 2023-08-12 |
-| [Love Me Louder](https://open.spotify.com/track/744ZnCPlVjykfTcKtG6CkY) | [Caxah](https://open.spotify.com/artist/4MwwSASxavJVh1l0um3etk) | [Love Me Louder](https://open.spotify.com/album/32r6gRBRcK6L67CVRNkhzN) | 3:06 | 2026-06-18 |  |
+| [Love Me Louder](https://open.spotify.com/track/744ZnCPlVjykfTcKtG6CkY) | [Caxah Diet](https://open.spotify.com/artist/1q854nDzMdqEarEJI8vq8c) | [Love Me Louder](https://open.spotify.com/album/32r6gRBRcK6L67CVRNkhzN) | 3:06 | 2026-06-18 |  |
 | [Love Panic](https://open.spotify.com/track/6GsmmktXyxR506YZ2xzmvm) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Love Panic](https://open.spotify.com/album/71DOoQ56te8DF7tqQq7rn3) | 3:04 | 2024-03-15 | 2024-04-06 |
 | [Low](https://open.spotify.com/track/1sHswMDDPk44WSkMh3lJN6) | [Eddy Kenzo](https://open.spotify.com/artist/3eTpitQsrNQdmkQJHS2v2j), [Latinum](https://open.spotify.com/artist/4L3ta0ADfVnBdi04utLTqA) | [Low](https://open.spotify.com/album/60yKgbxVfxilQTFfxQ5SLb) | 3:21 | 2022-09-22 | 2023-04-22 |
 | [Lucky Day](https://open.spotify.com/track/35eelQcBjSxSVUq41Ip1el) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR) | [SANKOFA](https://open.spotify.com/album/1zSyQiZdfsczxs84VVghKC) | 2:09 | 2023-10-12 | 2024-10-04 |
@@ -397,6 +397,7 @@
 | [Obinkola](https://open.spotify.com/track/69UyO55KUY7xMsuEmj6nlY) | [Deejay Xp](https://open.spotify.com/artist/7gmTONU8S6bnoJN21uHNMj), [Recho Ray](https://open.spotify.com/artist/7pChsFrLjhslGKSfnYWIve) | [Second of All](https://open.spotify.com/album/6fQ2qZ4ebEVMb8JExLVPvh) | 2:26 | 2022-10-06 | 2023-03-22 |
 | [Obukya Buziba](https://open.spotify.com/track/6ySvbriTe1oFF5G83pUTwR) | [Jenesis Kimera](https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c) | [Obukya Buziba](https://open.spotify.com/album/5vCJ27NW5seuPzLG526Ler) | 3:06 | 2026-05-28 |  |
 | [Offline](https://open.spotify.com/track/1RG1d70HrUzbGljyF2wjlI) | [Riff](https://open.spotify.com/artist/2T29CQjXjyp2RAEXUVz6Qh) | [Offline](https://open.spotify.com/album/4BtgtXxG8BujT1B8qVZNRL) | 2:43 | 2024-05-03 | 2024-05-25 |
+| [Oh My](https://open.spotify.com/track/3PsNq9iGZ59lIDB4d5L3op) | [Dre Cali](https://open.spotify.com/artist/2U0aIJmjYUZZ26kIE0KxM1) | [Oh My](https://open.spotify.com/album/6ISSikJJwj4uxZoMWbMAEO) | 3:26 | 2026-07-02 |  |
 | [Olaba Otya](https://open.spotify.com/track/4cEulGWNUME4qgxvoSY62g) | [Jenesis Kimera](https://open.spotify.com/artist/6YmseNp2UAHXEbAepWOv4c), [Yung Mulo](https://open.spotify.com/artist/0rD5D5T04ObkUSE2o9hHTh) | [Olaba Otya](https://open.spotify.com/album/2ZLFgnR7YuN5sWsIuDPajD) | 3:22 | 2025-02-07 | 2025-07-04 |
 | [Oli Wa Maanyi](https://open.spotify.com/track/0ukyr8KY2vOBRjzcEJcAHO) | [Juliana Kanyomozi](https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a) | [Oli Wa Maanyi](https://open.spotify.com/album/4uQC6gdVIxP9a0WO3m07Wp) | 3:12 | 2024-03-15 | 2024-04-06 |
 | [OLUUSI NEBOWA](https://open.spotify.com/track/3Mt4KMbbeX3um1Fi2t0Paj) | [Maurice Kirya](https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729) | [OLUUSI NEBOWA](https://open.spotify.com/album/33k8MXxtGacejkSBxmuRiV) | 3:25 | 2025-02-21 | 2025-05-23 |

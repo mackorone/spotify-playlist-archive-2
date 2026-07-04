@@ -8879,6 +8879,24 @@
     },
     {
       "album": {
+        "name": "Fountain EP",
+        "url": "https://open.spotify.com/album/6X62G6hAptr3vRSDpmhsQh"
+      },
+      "artists": [
+        {
+          "name": "Cleopold",
+          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158120,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/6il65sxXP5anUslAK7zCZ8"
+    },
+    {
+      "album": {
         "name": "Feel It Change",
         "url": "https://open.spotify.com/album/4Z7qH3efEunPe1LfrezSHN"
       },
@@ -27410,24 +27428,6 @@
       "duration_ms": 187500,
       "name": "traces (feat. Molina)",
       "url": "https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa"
-    },
-    {
-      "album": {
-        "name": "Fountain EP",
-        "url": "https://open.spotify.com/album/6X62G6hAptr3vRSDpmhsQh"
-      },
-      "artists": [
-        {
-          "name": "Cleopold",
-          "url": "https://open.spotify.com/artist/2BeARYDF52QQk5S2zgiVHe"
-        }
-      ],
-      "date_added": "2026-07-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/6il65sxXP5anUslAK7zCZ8"
     },
     {
       "album": {

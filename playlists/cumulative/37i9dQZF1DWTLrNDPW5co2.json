@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of electronic music culture. Featuring Josh Caff\u00e9. ",
+  "description": "Bold and pioneering. LGBTQIA+ artists and allies at the center of electronic music culture. Featuring Madonna. ",
   "name": "Club Resistance",
   "tracks": [
     {
@@ -1875,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235771,
+      "name": "Danceteria",
+      "url": "https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ"
+    },
+    {
+      "album": {
         "name": "Day After A Night With U / Stars & Water",
         "url": "https://open.spotify.com/album/4nUTzJAy2s8e9TLt3f0mMx"
       },
@@ -3094,7 +3112,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 152280,
       "name": "GAGATRON",
       "url": "https://open.spotify.com/track/1ZdXNI5ikXs83y0eFKWJAc"
@@ -6564,7 +6582,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 225671,
       "name": "paris (to get you out my head)",
       "url": "https://open.spotify.com/track/5Xs3pJnUTcXcxBMnMGoNyI"
@@ -7555,6 +7573,28 @@
     },
     {
       "album": {
+        "name": "S.C.M.",
+        "url": "https://open.spotify.com/album/1Z3UIBxtnLAZ4qL2qwWy1O"
+      },
+      "artists": [
+        {
+          "name": "Evissimax",
+          "url": "https://open.spotify.com/artist/3KRbZfhEbntEDFNV3b48Cv"
+        },
+        {
+          "name": "Luca Eck",
+          "url": "https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126404,
+      "name": "S.C.M.",
+      "url": "https://open.spotify.com/track/6lAqESDdO468t5psntzN8m"
+    },
+    {
+      "album": {
         "name": "Sabor a Disco EP",
         "url": "https://open.spotify.com/album/1iS9OMb0rKSTzofKta7zvY"
       },
@@ -8324,7 +8364,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 174296,
       "name": "Sugar Water Cyanide",
       "url": "https://open.spotify.com/track/5o8owuQvK4fjGv6QFRZTvN"
@@ -9072,6 +9112,28 @@
       "duration_ms": 151351,
       "name": "Tu Me Das",
       "url": "https://open.spotify.com/track/5NdTp3GzFaBYOiVzV2K2s2"
+    },
+    {
+      "album": {
+        "name": "Two Juliets Don't Need A Romeo (Love Nouveau At The Club)",
+        "url": "https://open.spotify.com/album/3UneVetG7TZWU4jmCOyBrW"
+      },
+      "artists": [
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8"
+        },
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234875,
+      "name": "Two Juliets Don't Need A Romeo (Love Nouveau At The Club)",
+      "url": "https://open.spotify.com/track/3Xe9aLM9xwFnNg4WZR3jFM"
     },
     {
       "album": {

@@ -479,6 +479,28 @@
     },
     {
       "album": {
+        "name": "dnd",
+        "url": "https://open.spotify.com/album/44fqkzaV0q6XLan7MXf2fL"
+      },
+      "artists": [
+        {
+          "name": "Garry Sandhu",
+          "url": "https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75"
+        },
+        {
+          "name": "AAZZAD",
+          "url": "https://open.spotify.com/artist/5nKtqAfzif2POIB7V94U4L"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "532",
+      "url": "https://open.spotify.com/track/1Oy4z47SHdUV18tfqG619O"
+    },
+    {
+      "album": {
         "name": "P-POP CULTURE",
         "url": "https://open.spotify.com/album/56ojNOZ9rz0PnhSaHHTL7y"
       },
@@ -2256,7 +2278,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 197333,
       "name": "DESI GANN",
       "url": "https://open.spotify.com/track/72sBOZVBWsfgKRWAF61jDA"

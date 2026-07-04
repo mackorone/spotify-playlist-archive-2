@@ -4,7 +4,7 @@
 
 > Äntligen fredag och ny musik från Tove Styrke, Anis Don Demina och Haley Bridge med flera\. Happy New Music Friday!
 
-24,902 songs - 53 day 18 hr 15 min
+24,903 songs - 53 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23630,7 +23630,7 @@
 | [We Ain't Here For Long](https://open.spotify.com/track/427747J57kLmFjqk7PZrpp) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [We Ain't Here For Long](https://open.spotify.com/album/574kAUsaWDdlVm8Fb2HfB9) | 2:55 | 2024-02-02 | 2024-02-09 |
 | [We Ain't Here For Long](https://open.spotify.com/track/7La5MwfZp7t0oKCYbhIMXj) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p) | [We Ain't Here For Long](https://open.spotify.com/album/1Mc6KVLxv3JsxeqfB16jAD) | 2:55 | 2024-02-01 | 2024-02-03 |
 | [We All Fall Down](https://open.spotify.com/track/2YfAHXcBU0RkhHcqxsYsjv) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [We All Fall Down](https://open.spotify.com/album/5diHOhr2IQQmk2ELr2VixN) | 2:30 | 2023-08-31 | 2023-09-08 |
-| [We Are Free](https://open.spotify.com/track/0AtDLb9eqZq85G33yYPiwc) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH) | [We Are Free](https://open.spotify.com/album/4pWqBvWBFXpfoC3mXDwD7e) | 2:28 | 2026-07-02 |  |
+| [We Are Free](https://open.spotify.com/track/0AtDLb9eqZq85G33yYPiwc) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [We Are Free](https://open.spotify.com/album/4pWqBvWBFXpfoC3mXDwD7e) | 2:28 | 2026-07-02 |  |
 | [We Are Making Out](https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [We Are Making Out](https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs) | 2:50 | 2024-06-20 | 2024-06-28 |
 | [We Are Not The Same](https://open.spotify.com/track/0XbBXztseCaIBZmbDmGpnv) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [We Are Not The Same](https://open.spotify.com/album/4DQfCCE6Rp1k27FtGQFHR9) | 2:25 | 2024-01-25 | 2024-02-02 |
 | [We Are The Rest](https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [We Are The Rest](https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE) | 3:02 | 2023-09-14 | 2023-09-22 |
@@ -24751,6 +24751,7 @@
 | [Yours](https://open.spotify.com/track/0ADyw9trqLWFrstpPVQd8Y) | [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [Yours](https://open.spotify.com/album/2w9oISdB9Gp5dO068DHzWm) | 3:21 | 2026-05-29 | 2026-06-05 |
 | [Yours](https://open.spotify.com/track/1EXvc1bJdpFkivWpj3vTcL) | [Tennessee Tears](https://open.spotify.com/artist/1OepmLWhBeEx78WuUhnuHp) | [Yours](https://open.spotify.com/album/7m0N8uMzB2p04FVIdDl76i) | 2:46 | 2025-02-20 | 2025-02-28 |
 | [Yours & Mine](https://open.spotify.com/track/1HqyMnHvVcdMmymVsX1jws) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL) | [Yours & Mine](https://open.spotify.com/album/7oCg99IGtU6l1qRSaqtJKz) | 2:11 | 2026-03-05 | 2026-03-13 |
+| [YOUtopia](https://open.spotify.com/track/35NaaOPzsTWOWM47PzRuaY) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [YOUtopia](https://open.spotify.com/album/4KHPTZ0Cad5ZJvZW614XUe) | 2:30 | 2026-07-03 |  |
 | [YOUYOUYOU](https://open.spotify.com/track/3pcXeak63CYJcn5KddRxz1) | [IGA](https://open.spotify.com/artist/194PQAWwypriEsRab3Ly6D) | [YOUYOUYOU](https://open.spotify.com/album/4r8S48bruG4AhPSLfGFTUL) | 2:13 | 2022-09-29 | 2022-10-07 |
 | [YouYouYou](https://open.spotify.com/track/1p6Q3r89gsQAg1EBaNHvZl) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [YouYouYou](https://open.spotify.com/album/5qngAxc71Qsxq1vChF0hzm) | 3:03 | 2022-05-05 | 2022-05-13 |
 | [You’ll Be Back \(On Christmas Day\)](https://open.spotify.com/track/0EbiHSrUSCmsxfWqhJyOc0) | [Chloe Parker](https://open.spotify.com/artist/3ktRfibm6YsJ8Dc3CDEx8W) | [You’ll Be Back \(On Christmas Day\)](https://open.spotify.com/album/7omsJl5hJtnCk4IUeeakyu) | 3:14 | 2023-12-28 | 2024-01-05 |

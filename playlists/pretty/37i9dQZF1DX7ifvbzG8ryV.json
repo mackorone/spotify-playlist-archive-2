@@ -1,13 +1,81 @@
 {
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:5QSfJ3Ny5A3AAmv2gg1pCk\">Bimini</a>",
-  "num_followers": 5765,
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:6prmLEyn4LfHlD9NnXWlf7\">Adam Lambert</a>",
+  "num_followers": 5771,
   "original_name": "GLOW Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAACnpj2Jco7YB+yf0LhlHm7cew8T",
+  "snapshot_id": "AAAAAPTICpMOG5mgy8eTegd9ZZ571MOK",
   "tracks": [
+    {
+      "added_at": "2026-07-03 04:26:40",
+      "album": {
+        "name": "EAT U ALIVE",
+        "url": "https://open.spotify.com/album/1KnVvQD6Ocog6Zeq3NgCXz"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 168883,
+      "name": "EAT U ALIVE",
+      "url": "https://open.spotify.com/track/44LDn5P547NAnNmJGX9BzK"
+    },
+    {
+      "added_at": "2026-07-03 04:26:40",
+      "album": {
+        "name": "UNDER THE RHYTHM",
+        "url": "https://open.spotify.com/album/57o1oYWFqqV8X3M6Au9y4j"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "UNDER THE RHYTHM",
+      "url": "https://open.spotify.com/track/1XgTPwIdU5LawlT6IQOLsa"
+    },
+    {
+      "added_at": "2026-07-03 04:26:40",
+      "album": {
+        "name": "The Original High",
+        "url": "https://open.spotify.com/album/6hN2y18fg4KVGMaltxfdXZ"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "duration_ms": 208330,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/0ALTA9qTr8AQ8BmGifY2O8"
+    },
+    {
+      "added_at": "2026-07-03 04:26:40",
+      "album": {
+        "name": "The Machine",
+        "url": "https://open.spotify.com/album/6SR2jCLdkMVNSHso9g4J6J"
+      },
+      "artists": [
+        {
+          "name": "Samantha Togni",
+          "url": "https://open.spotify.com/artist/2wVCP4V6swQTH7hy4Bc3eC"
+        },
+        {
+          "name": "Skin",
+          "url": "https://open.spotify.com/artist/0HIhHN1AjF18APmk5yIEZY"
+        }
+      ],
+      "duration_ms": 267974,
+      "name": "The Machine",
+      "url": "https://open.spotify.com/track/6vSaxMtq2NbDwImb3OQ6pZ"
+    },
     {
       "added_at": "2026-06-05 04:12:45",
       "album": {
@@ -847,70 +915,6 @@
       "duration_ms": 227600,
       "name": "Filthy / Gorgeous",
       "url": "https://open.spotify.com/track/2NNiCmCyITuhyYblpmhRWA"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Night Work",
-        "url": "https://open.spotify.com/album/60reR4muRZj5MRsI9giZjk"
-      },
-      "artists": [
-        {
-          "name": "Scissor Sisters",
-          "url": "https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o"
-        }
-      ],
-      "duration_ms": 374306,
-      "name": "Invisible Light",
-      "url": "https://open.spotify.com/track/2BKp5xjA6Y6ZfN1eyY0hNg"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Cheers to the Fall",
-        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 253342,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "you ruined new york city for me",
-        "url": "https://open.spotify.com/album/4aGGhfTv8mJ9JAiz8dsa0L"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 193599,
-      "name": "All Love",
-      "url": "https://open.spotify.com/track/7iv32XEy2HlM7PqQO4lp5f"
-    },
-    {
-      "added_at": "2026-04-03 17:39:53",
-      "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 196760,
-      "name": "High",
-      "url": "https://open.spotify.com/track/2LseyBkPJv7r7wCt2yMEgX"
     }
   ],
   "unique_name": "GLOW Songwriters",

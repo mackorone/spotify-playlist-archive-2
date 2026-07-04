@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 59619,
+  "num_followers": 59642,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAABc5kZ8Uq58xbUUsj4LFCfh",
+  "snapshot_id": "akWqAAAAAACDNMfp6MbYLpTYMNSp9EaH",
   "tracks": [
     {
       "added_at": null,
@@ -919,22 +919,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "HDTPM",
-        "url": "https://open.spotify.com/album/3LEGUBBcYTvxISyzxYanZ1"
+        "name": "El Scrappy",
+        "url": "https://open.spotify.com/album/2G32KZDrfUv4cpf4BJD959"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
         }
       ],
-      "duration_ms": 157874,
-      "name": "HDTPM",
-      "url": "https://open.spotify.com/track/0V1Pq0ToZh1ZP5VCSxgWA5"
+      "duration_ms": 227551,
+      "name": "El Scrappy",
+      "url": "https://open.spotify.com/track/1AN1Jemy82iQlzbxMezAAG"
     }
   ],
   "unique_name": "This Is Edgardo Nu\u00f1ez",

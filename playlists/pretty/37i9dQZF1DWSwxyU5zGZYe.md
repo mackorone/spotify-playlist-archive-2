@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 
 > Tender, thoughtful & stripped down versions of your favourite Bollywood songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,694 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,717 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwxyU5zGZYe.md) - [plain]
 | 45 | [Atak Gaya \- Acoustic](https://open.spotify.com/track/7cR0Wtv9wfrxjSBJcohLpZ) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr) | [Badhaai Do \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6aoSVvw7A1ULSKXCkn4Kl3) | 3:10 |
 | 46 | [Dil Diyan Gallan \(Unplugged\)](https://open.spotify.com/track/1As58Rpu8oZtLDAeVFHVyq) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Tiger Zinda Hai](https://open.spotify.com/album/2q00VQKBQu6ZUesFREPFWc) | 4:03 |
 | 47 | [Aur Mohabbat Kitni Karoon \- Reprise](https://open.spotify.com/track/0d2VNQNLaNPwx195QyBPel) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Sandeep Shrivastava](https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd) | [Metro ..\. In Dino \(Side B\)](https://open.spotify.com/album/0Xenz5qY7LXiUVHvEQDoWr) | 4:02 |
-| 48 | [Satranga \(Stripped\)](https://open.spotify.com/track/2dYyMsXlyTwJgWXUAWVjZj) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ) | [ANIMAL \(Deluxe Edition Album\)](https://open.spotify.com/album/2OvmWeSaHWe4q6Ru4Myo52) | 3:14 |
+| 48 | [Satranga \(Stripped\)](https://open.spotify.com/track/2dYyMsXlyTwJgWXUAWVjZj) | [Shreyas Puranik](https://open.spotify.com/artist/5o36rLQd78Zh8CaT8rn59d), [Siddharth \- Garima](https://open.spotify.com/artist/6k6TIai4KyKG1DeIMftSmJ), [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [ANIMAL \(Deluxe Edition Album\)](https://open.spotify.com/album/2OvmWeSaHWe4q6Ru4Myo52) | 3:14 |
 | 49 | [Phoolon Ka Taaro Ka \(From "Jigra"\)](https://open.spotify.com/track/5p9Ni0WWlyxk7zyStiyMlP) | [Vedang Raina](https://open.spotify.com/artist/1X95l2wU2j5wskoTNOwfLB), [Achint](https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk), [Varun Grover](https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g), [Anand Bakshi](https://open.spotify.com/artist/3Bku4b0uiR8KJSXu7U8Iyy) | [Phoolon Ka Taaro Ka \(From "Jigra"\)](https://open.spotify.com/album/4Y8KvYnq4rTOjANoxX7uTo) | 2:27 |
 | 50 | [Roya Jab Tu \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/0IKoHIQ1CshjtvYIOu5hwB) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Azeem Dayani](https://open.spotify.com/artist/3LS9qSMFoF810jMMBGf4fU) | [Mr\. And Mrs\. Mahi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA) | 5:00 |
 

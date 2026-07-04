@@ -850,7 +850,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 313240,
       "name": "La Cazadora",
       "url": "https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP"
@@ -988,6 +988,24 @@
       "duration_ms": 233497,
       "name": "Llegar\u00e1",
       "url": "https://open.spotify.com/track/6WUDIML61rMTnuxRlNVcJL"
+    },
+    {
+      "album": {
+        "name": "Cenotes",
+        "url": "https://open.spotify.com/album/290Qd3iRmfn85z6YGpCE7X"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Manana Tepotzlan",
+      "url": "https://open.spotify.com/track/6o5CnQ64kggC3sEnIUpEl5"
     },
     {
       "album": {

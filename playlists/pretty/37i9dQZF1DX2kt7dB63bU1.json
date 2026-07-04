@@ -1,32 +1,28 @@
 {
   "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
-  "num_followers": 171445,
+  "num_followers": 171493,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHEyADB1fGYQv9Lr5ViixbE4PQq2",
+  "snapshot_id": "AAAAANidIPgcBQMRHHja+dP33+QyPsGB",
   "tracks": [
     {
-      "added_at": "2026-06-26 04:00:11",
+      "added_at": "2026-07-03 04:00:31",
       "album": {
-        "name": "Love Takes Time",
-        "url": "https://open.spotify.com/album/1HtcgIj9tRSFc4P4erHYL0"
+        "name": "Sermonette",
+        "url": "https://open.spotify.com/album/0QMF7Rxodm3jWEFJjivbbQ"
       },
       "artists": [
         {
-          "name": "Jason LaPierre",
-          "url": "https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060"
-        },
-        {
-          "name": "Sarah Kang",
-          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+          "name": "Kurt Elling",
+          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
         }
       ],
-      "duration_ms": 177093,
-      "name": "Love Takes Time",
-      "url": "https://open.spotify.com/track/4laUJxMzApsF6NaCYbNUYP"
+      "duration_ms": 321528,
+      "name": "Sermonette",
+      "url": "https://open.spotify.com/track/5HVF9CbZU2wWVY5q7u4JFC"
     },
     {
       "added_at": "2026-06-26 04:00:11",
@@ -51,6 +47,42 @@
       "duration_ms": 380604,
       "name": "Being Alive",
       "url": "https://open.spotify.com/track/5LMmLbumXcvBjtqvOZNDwC"
+    },
+    {
+      "added_at": "2026-07-03 04:00:31",
+      "album": {
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/0aGNp8GjnQQYnbbTHGwYMR"
+      },
+      "artists": [
+        {
+          "name": "Bria Skonberg",
+          "url": "https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm"
+        }
+      ],
+      "duration_ms": 204906,
+      "name": "Between the Devil and the Deep Blue Sea",
+      "url": "https://open.spotify.com/track/2fan0ngjXFnhBtnnltRB7K"
+    },
+    {
+      "added_at": "2026-06-26 04:00:11",
+      "album": {
+        "name": "Love Takes Time",
+        "url": "https://open.spotify.com/album/1HtcgIj9tRSFc4P4erHYL0"
+      },
+      "artists": [
+        {
+          "name": "Jason LaPierre",
+          "url": "https://open.spotify.com/artist/5hE928rKzyMW5IqBy0a060"
+        },
+        {
+          "name": "Sarah Kang",
+          "url": "https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj"
+        }
+      ],
+      "duration_ms": 177093,
+      "name": "Love Takes Time",
+      "url": "https://open.spotify.com/track/4laUJxMzApsF6NaCYbNUYP"
     },
     {
       "added_at": "2026-06-26 04:00:11",
@@ -447,26 +479,6 @@
       "duration_ms": 349228,
       "name": "In The Still Of The Night",
       "url": "https://open.spotify.com/track/2EsvJgqybdGiwFdViEvPgr"
-    },
-    {
-      "added_at": "2026-02-13 05:00:20",
-      "album": {
-        "name": "In The Brass Palace",
-        "url": "https://open.spotify.com/album/724NffDLMHiaQkmHh6jt3o"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "WDR Big Band",
-          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
-        }
-      ],
-      "duration_ms": 491638,
-      "name": "They Speak No Evil",
-      "url": "https://open.spotify.com/track/14EugpqQJyjh1q414fjXhL"
     },
     {
       "added_at": "2026-02-13 05:00:20",
@@ -1827,22 +1839,6 @@
       "duration_ms": 279749,
       "name": "Inner City Blues",
       "url": "https://open.spotify.com/track/2B0Wn7n7pmBEqCpKaVH8CC"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "How I Wish",
-        "url": "https://open.spotify.com/album/7mi2Td5xgke6KBnfDjP4ao"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "How I Wish",
-      "url": "https://open.spotify.com/track/5HK4yDAEmmUA1588782PD5"
     }
   ],
   "unique_name": "Vocal Jazz",

@@ -402,7 +402,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 156181,
       "name": "As-tu des cigarettes",
       "url": "https://open.spotify.com/track/2RKK7gsT1oGk4Ftdmn2nMZ"
@@ -576,7 +576,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 206470,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/6joa4w2yIUVroOguntE5s4"
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 188066,
       "name": "Dog",
       "url": "https://open.spotify.com/track/7EhOrPGj3Tfc4CPoDiA8rl"
@@ -2484,7 +2484,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 140506,
       "name": "DUMB",
       "url": "https://open.spotify.com/track/30iQqVmUyPxyDPTby3KjwM"
@@ -3706,7 +3706,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 254919,
       "name": "girls like girls (from the motion picture)",
       "url": "https://open.spotify.com/track/6iYFgzRp6PQmbTgVCoxMGA"
@@ -4830,7 +4830,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 299479,
       "name": "I Feel So Free",
       "url": "https://open.spotify.com/track/04o2ES37jkiK5Qy8PR5XLk"
@@ -6338,7 +6338,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 213514,
       "name": "MAKE IT OUT ALIVE - Choral Version",
       "url": "https://open.spotify.com/track/27pu3BRxnArxaFl3wGIX5I"
@@ -6660,7 +6660,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 179866,
       "name": "Miss Congeniality",
       "url": "https://open.spotify.com/track/2AxudteZqvoRrxLL6PiWpE"
@@ -8762,7 +8762,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 196227,
       "name": "Should've Known Better",
       "url": "https://open.spotify.com/track/5W5d518pSKjB8JtscaU3ZL"
@@ -10192,7 +10192,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 131868,
       "name": "Time Is Up",
       "url": "https://open.spotify.com/track/1F9t0oeQnfbcTGD2QroYkA"
@@ -10373,6 +10373,28 @@
     },
     {
       "album": {
+        "name": "Two Juliets Don't Need A Romeo (Love Nouveau At The Club)",
+        "url": "https://open.spotify.com/album/3UneVetG7TZWU4jmCOyBrW"
+      },
+      "artists": [
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8"
+        },
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234875,
+      "name": "Two Juliets Don't Need A Romeo (Love Nouveau At The Club)",
+      "url": "https://open.spotify.com/track/3Xe9aLM9xwFnNg4WZR3jFM"
+    },
+    {
+      "album": {
         "name": "u-haul",
         "url": "https://open.spotify.com/album/2A7t413liTBl6nxw54L8mA"
       },
@@ -10474,7 +10496,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 144635,
       "name": "Univers",
       "url": "https://open.spotify.com/track/4b5mmyOtZQZR8RsmKuKohL"
@@ -10684,6 +10706,24 @@
       "duration_ms": 291979,
       "name": "Violence",
       "url": "https://open.spotify.com/track/5e2ydjRaOjau1Atnv9zZ3Z"
+    },
+    {
+      "album": {
+        "name": "First Times",
+        "url": "https://open.spotify.com/album/3Lh4u3OOmnUC9FagpS0H5V"
+      },
+      "artists": [
+        {
+          "name": "GUS",
+          "url": "https://open.spotify.com/artist/3SdiTECGpryAOC4TKsA2ij"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196433,
+      "name": "Vivian",
+      "url": "https://open.spotify.com/track/0wQiyvojpc89Joy8EF7hnl"
     },
     {
       "album": {

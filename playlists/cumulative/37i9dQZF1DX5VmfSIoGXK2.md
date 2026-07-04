@@ -4,7 +4,7 @@
 
 > the glorious sounds of Jazz House, from Montreal, Lagos, & beyond 🌎 featuring KALLITECHNIS
 
-244 songs - 15 hr 23 min
+245 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Belle](https://open.spotify.com/track/19MuwU5fHAmlSjqXSfILhR) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Belle](https://open.spotify.com/album/6405dSaBJmxm2tMEDaeBbz) | 2:25 | 2025-02-21 | 2025-05-03 |
 | [Ben Days](https://open.spotify.com/track/67hs9rQxAVvq9mfyTOhPQj) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy) | [Ben Days](https://open.spotify.com/album/4JSUbHlKDPlHJlu5CxWq8J) | 3:20 | 2025-04-04 |  |
 | [bianca](https://open.spotify.com/track/6220GDztdVktDOvs48Rw0d) | [Gaston](https://open.spotify.com/artist/5PV5HJ0ndL74ZdqKA1PqAr), [the wine is ok](https://open.spotify.com/artist/5Ojm75z0EwHqk2e4W90bak) | [bianca](https://open.spotify.com/album/0ClcyQk8ZXFRwPQyNnKQZI) | 2:35 | 2025-05-30 | 2026-05-30 |
-| [Black Patterns](https://open.spotify.com/track/4EK267kkQX5ZegOGukcYmm) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [DJ Bone](https://open.spotify.com/artist/5nAtXl2yhbQubn2gT9lhIg) | [Black Patterns](https://open.spotify.com/album/1tcQO3FBKp0zGptbrg55Sp) | 4:06 | 2026-03-20 |  |
+| [Black Patterns](https://open.spotify.com/track/4EK267kkQX5ZegOGukcYmm) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [DJ Bone](https://open.spotify.com/artist/5nAtXl2yhbQubn2gT9lhIg) | [Black Patterns](https://open.spotify.com/album/1tcQO3FBKp0zGptbrg55Sp) | 4:06 | 2026-03-20 | 2026-07-04 |
 | [Blanc](https://open.spotify.com/track/06BAAawbsllT2PAhsqIsiJ) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Blanc](https://open.spotify.com/album/5klbjenisysJ9KqsgLm4r1) | 6:18 | 2025-02-21 | 2026-03-21 |
 | [Blazing Sun](https://open.spotify.com/track/0xIWvMGKcg7HX1onH3g7nf) | [DAWSON](https://open.spotify.com/artist/5cC8kBz37XOqvQ1uuptA02), [HIGH HØØPS](https://open.spotify.com/artist/4awgEb2pQYbDOC6OFuPy9x) | [Blazing Sun](https://open.spotify.com/album/5Qq7BVraUnIqDmrC0JLAwW) | 3:44 | 2026-04-03 |  |
 | [Blowfish](https://open.spotify.com/track/7GwwEpaKaIaOptVWDVjyKX) | [Tar Blanche](https://open.spotify.com/artist/7bEipnF8YKYRRIga66A6Xl) | [Blowfish](https://open.spotify.com/album/0RQXcwL88odlEhRiT7S6Kn) | 3:48 | 2025-03-14 | 2025-10-11 |
@@ -236,6 +236,7 @@
 | [Wake Up My People](https://open.spotify.com/track/0ZM7JpbMHM0Df1UFe9PCFB) | [Kareem Ali](https://open.spotify.com/artist/4Uhgu5miW68A3eqRl26xtf) | [Renewal](https://open.spotify.com/album/1Dg60bcPKZ6qBBIjU2vF2S) | 5:30 | 2026-02-13 |  |
 | [Waving](https://open.spotify.com/track/2qiZjjUdKL5cFQJ3GUdczo) | [Godblesscomputers](https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT) | [Waving](https://open.spotify.com/album/61mMPhinXrwLSvD85xhcSN) | 2:56 | 2025-05-09 | 2025-08-30 |
 | [waxed & sealed](https://open.spotify.com/track/5cYSLRDc9jRWaPfxcR5LjJ) | [birdnote](https://open.spotify.com/artist/7MYkDdtnQI7XS31ohILPVY) | [waxed & sealed](https://open.spotify.com/album/37BirUtJ0E36jf0uuLsZAb) | 1:56 | 2025-05-09 |  |
+| [Way Back](https://open.spotify.com/track/0oLlzWApQnhOjpi52CT9Y2) | [Bella Ora](https://open.spotify.com/artist/5t9ptsHIO1pxuSTESz14df) | [Way Back](https://open.spotify.com/album/32VUBvZqb4fVLPpj4TuUbS) | 2:38 | 2026-07-03 |  |
 | [Ways of Jazz](https://open.spotify.com/track/6oy9r5m8vFxKivwtgLN5hs) | [Nebulae Waves](https://open.spotify.com/artist/1b3LQfWsgZxMeJOiuUriP2), [Moryla](https://open.spotify.com/artist/679Cu2GnI3RBdkgaPxAsY0) | [Ways of Jazz](https://open.spotify.com/album/2snz15qb2jAmpYN8E7Fu5W) | 2:57 | 2025-08-01 | 2026-03-21 |
 | [We and The Sea](https://open.spotify.com/track/65B61dm7yda9zq0DE6QZCO) | [S\-Pazz](https://open.spotify.com/artist/1ffTeCgQT9dcVyl4Cm3M0L) | [We and The Sea](https://open.spotify.com/album/4PEoNVQo1eFLtJUEVPfRmD) | 5:24 | 2025-02-21 | 2026-05-23 |
 | [We Can Make It Happen](https://open.spotify.com/track/4lrCbQ95wplebijZj2PnCk) | [lovetempo](https://open.spotify.com/artist/0OypB7arfOmIwUP9C5z2GY) | [Live Or Die By Love](https://open.spotify.com/album/5MfghNciw5uWTAtcdh5fO2) | 4:32 | 2025-02-21 | 2025-03-22 |

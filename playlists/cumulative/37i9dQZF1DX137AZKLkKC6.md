@@ -2,9 +2,9 @@
 
 ### [La + Popular](https://open.spotify.com/playlist/37i9dQZF1DX137AZKLkKC6)
 
-> Las grandes del Despecho y el Género Popular\. Con Sebastián Ayala y Jhonny Rivera en portada.
+> Las grandes del Despecho y el Género Popular\. Con Luis Alfonso y Piso 21 en portada.
 
-337 songs - 17 hr 19 min
+338 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Dos Extraños](https://open.spotify.com/track/5O3btmRRSh4kE6uuxMnHQK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed Pt\. 2](https://open.spotify.com/album/29AuXQGyOpvyLWCngpNbd0) | 3:17 | 2023-09-08 | 2024-02-24 |
 | [Dulce Pecado](https://open.spotify.com/track/6dESHIzqYPl9TXwjNvpWY7) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Dulce Pecado](https://open.spotify.com/album/4uKTBb1RCAHdxo5kGeT3q3) | 2:55 | 2023-02-24 | 2023-03-04 |
 | [Dulce Pecado](https://open.spotify.com/track/7al6OaakdGoXtEGRy05lgu) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 2:55 | 2022-08-12 | 2023-02-25 |
+| [Déjame Entrar](https://open.spotify.com/track/3U0v6ZLymzqPNgPP8jwaF1) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Déjame Entrar](https://open.spotify.com/album/73HVb8XPSHInVgAds4YBUt) | 2:51 | 2026-07-03 |  |
 | [El Amor De Mi Herida](https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 2:07 | 2025-01-17 |  |
 | [El atrevimiento](https://open.spotify.com/track/1OMjCkMpT8xdjIacSUq4lL) | [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw) | [El atrevimiento](https://open.spotify.com/album/5fysK9TQ4HlLDJnIxNhYZI) | 3:33 | 2024-07-12 | 2024-09-27 |
 | [El Aventurero En El Cielo \(feat\. Jhon Alex Castaño, Pipe Bueno, Jessi Uribe, Ciro Quiñonez, Luis Alfonso, Francy, Jhonny Rivera, Alzate, Paola Jara, Arelys Henao, El Charrito Negro, Alexis Escobar & Alan Ramirez\)](https://open.spotify.com/track/0B3P870RC9X4c2JymZJI9a) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Jhon Alex Castaño](https://open.spotify.com/artist/5pbzj8JGUpUCMHESd1yHFv), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Ciro Quiñonez](https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Arelys Henao](https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC), [El Charrito Negro](https://open.spotify.com/artist/4e8vIrZBkqRocfY0TrT0s6), [Alexis Escobar](https://open.spotify.com/artist/5WJINRAYLwCnLBp9tzaE98), [Alan Ramirez](https://open.spotify.com/artist/1yHjFDDYePdq3KcGBEJkRw) | [El Aventurero En El Cielo \(feat\. Jhon Alex Castaño, Pipe Bueno, Jessi Uribe, Ciro Quiñonez, Luis Alfonso, Francy, Jhonny Rivera, Alzate, Paola Jara, Arelys Henao, El Charrito Negro, Alexis Escobar & Alan Ramirez\)](https://open.spotify.com/album/1rjAr2tgFavr1VIaj4Dgr9) | 4:01 | 2026-02-02 |  |

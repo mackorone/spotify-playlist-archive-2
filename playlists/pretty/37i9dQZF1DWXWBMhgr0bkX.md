@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟<br/>cover: Florrie
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,278 likes - 85 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,289 likes - 85 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 84 | [Nobody Can Know](https://open.spotify.com/track/2Bfb8eFJ4aQUL41FmiptD6) | [Will Parker](https://open.spotify.com/artist/6PorgpBDSP5w9zPpgjHlGR) | [Nobody Can Know](https://open.spotify.com/album/5mLM1EYeykDD8AmQrj6X8n) | 3:26 |
 | 85 | [Kiss My Levi's](https://open.spotify.com/track/3EOc927LqursoU8Qx1zZxX) | [Bellah Mae](https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT) | [Keep It Peachy](https://open.spotify.com/album/6kaUbA3snbhNGbkc5T2e4x) | 2:26 |
 
-Snapshot ID: `AAAAAO6chlYxHaAWJIA+vReFKhiLwtD4`
+Snapshot ID: `AAAAAETbCdNI6sObwc6rFcbrP947yJuE`

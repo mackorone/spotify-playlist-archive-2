@@ -6887,7 +6887,7 @@
     },
     {
       "album": {
-        "name": "m\u00fcde",
+        "name": "M\u00fcde",
         "url": "https://open.spotify.com/album/05vrUtHhnNEqy2WNGPY8T9"
       },
       "artists": [
@@ -6900,7 +6900,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153428,
-      "name": "m\u00fcde",
+      "name": "M\u00fcde",
       "url": "https://open.spotify.com/track/6XfDVm6QczCYrLBuGfBpIp"
     },
     {
@@ -10840,6 +10840,28 @@
       "duration_ms": 152724,
       "name": "wof\u00fcr es sich zu leben lohnt",
       "url": "https://open.spotify.com/track/0lhvWUPpRFqP6ySKAU0qd6"
+    },
+    {
+      "album": {
+        "name": "Wolke 4",
+        "url": "https://open.spotify.com/album/4ZVi8tzbQDvb49jXMQYEKn"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "Philipp Dittberner",
+          "url": "https://open.spotify.com/artist/7oaSITFPadI3fnIxbv7hTa"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136572,
+      "name": "Wolke 4",
+      "url": "https://open.spotify.com/track/7cEISyO6QWsik3mbO9nUFC"
     },
     {
       "album": {

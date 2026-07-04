@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Tove Styrke, Anis Don Demina och Haley Bridge med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,614 likes - 73 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,785 likes - 74 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,15 +71,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 61 | [Fendi everywhere](https://open.spotify.com/track/1LfXau33R0h8NGYyKC3fOu) | [Cgull](https://open.spotify.com/artist/05Pl4dyPSaO2PzumFIT86a), [eerie](https://open.spotify.com/artist/2o7KVwl8puKBqpkzurw3a3), [Swoopy](https://open.spotify.com/artist/5TzVqLypdQ0XDPxb4QtB6n) | [European Tragics](https://open.spotify.com/album/5Jicqcgy9omylA6RC1nH4i) | 3:20 |
 | 62 | [LA GUARACHA \(Oh Oh Oh\)](https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [LA GUARACHA \(Oh Oh Oh\)](https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN) | 3:19 |
 | 63 | [Karusell](https://open.spotify.com/track/7z1fmEL7wZDCc5PxYD4V5h) | [Pariserhjulet](https://open.spotify.com/artist/4xnk1YuZFFumY6XeDXWAcA), [Dogge Doggelito](https://open.spotify.com/artist/4nqYfDP6BoiVWj8mqzp2dw) | [Karusell](https://open.spotify.com/album/6GOmigCRn0rmhOGXqaFQZN) | 2:50 |
-| 64 | [51st State](https://open.spotify.com/track/2jat9vx2P0tfqWpPD5knDB) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [51st State](https://open.spotify.com/album/3tlGE7GK1iMdeCprCsOmls) | 2:16 |
-| 65 | [We Are Free](https://open.spotify.com/track/0AtDLb9eqZq85G33yYPiwc) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH) | [We Are Free](https://open.spotify.com/album/4pWqBvWBFXpfoC3mXDwD7e) | 2:28 |
-| 66 | [THAT HEALING](https://open.spotify.com/track/0RRi9JdHUTQk1FcwhBE9je) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js) | [THAT HEALING](https://open.spotify.com/album/33I4YsWdTeeYCmaz4v98yM) | 2:12 |
-| 67 | [BACK TO IBIZA](https://open.spotify.com/track/6629i7gorrK6ziMHnPAOw2) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [BROSA](https://open.spotify.com/artist/7u5FoxjVdLM8hoqkRndNiR) | [BACK TO IBIZA](https://open.spotify.com/album/6zHoANtI3JgBOgdLDJEfHn) | 2:46 |
-| 68 | [Safari](https://open.spotify.com/track/6wzYZolko13wHExx65YFBA) | [Gedion](https://open.spotify.com/artist/3bh8KnKLpcwJYA9NCJehEw) | [Safari](https://open.spotify.com/album/1HzH59goO1lZiOh9vS2vfK) | 2:31 |
-| 69 | [DiVE](https://open.spotify.com/track/0RuyEnBfYn7W7ZanTrR5kQ) | [Sigge](https://open.spotify.com/artist/6tO5i7fnLASqZ6b00iG6On), [Pelle Alfredsson](https://open.spotify.com/artist/5zY7wgm5Acq8TJbQwdn53h) | [A LIVING ROOM IS A KINGDOM](https://open.spotify.com/album/1QOtRU4uH8SAA2KhjiFULK) | 4:15 |
-| 70 | [prada](https://open.spotify.com/track/2EXkJ8BO7wOxgbVCi79C0w) | [PreGame](https://open.spotify.com/artist/0MeqrNMZbF4Nv9HCwmi0qC) | [prada](https://open.spotify.com/album/2DbawXNkzCyJpNCvX05R5z) | 2:24 |
-| 71 | [Sweet July](https://open.spotify.com/track/4HtJMfSYfpvCgYTudNH4ry) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Sweet July](https://open.spotify.com/album/29QH5L670D93DWN1AL2Z0B) | 2:23 |
-| 72 | [Medal Man](https://open.spotify.com/track/447MyOsHPRkKtg0TNeRnts) | [Tengil](https://open.spotify.com/artist/5xoEhh8lF3uEl45Q7fqBWK) | [Medal Man](https://open.spotify.com/album/6VjLhmfNmPEpBuvDWJvjtE) | 1:52 |
-| 73 | [Sun Boy](https://open.spotify.com/track/7LFT8nKnDogg7EcYDNVSFg) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Sun Boy](https://open.spotify.com/album/4Vv2B9nJspaK0vOw6jBSAC) | 3:20 |
+| 64 | [YOUtopia](https://open.spotify.com/track/35NaaOPzsTWOWM47PzRuaY) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [YOUtopia](https://open.spotify.com/album/4KHPTZ0Cad5ZJvZW614XUe) | 2:30 |
+| 65 | [51st State](https://open.spotify.com/track/2jat9vx2P0tfqWpPD5knDB) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [51st State](https://open.spotify.com/album/3tlGE7GK1iMdeCprCsOmls) | 2:16 |
+| 66 | [We Are Free](https://open.spotify.com/track/0AtDLb9eqZq85G33yYPiwc) | [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [We Are Free](https://open.spotify.com/album/4pWqBvWBFXpfoC3mXDwD7e) | 2:28 |
+| 67 | [THAT HEALING](https://open.spotify.com/track/0RRi9JdHUTQk1FcwhBE9je) | [Naarly](https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js) | [THAT HEALING](https://open.spotify.com/album/33I4YsWdTeeYCmaz4v98yM) | 2:12 |
+| 68 | [BACK TO IBIZA](https://open.spotify.com/track/6629i7gorrK6ziMHnPAOw2) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [BROSA](https://open.spotify.com/artist/7u5FoxjVdLM8hoqkRndNiR) | [BACK TO IBIZA](https://open.spotify.com/album/6zHoANtI3JgBOgdLDJEfHn) | 2:46 |
+| 69 | [Safari](https://open.spotify.com/track/6wzYZolko13wHExx65YFBA) | [Gedion](https://open.spotify.com/artist/3bh8KnKLpcwJYA9NCJehEw) | [Safari](https://open.spotify.com/album/1HzH59goO1lZiOh9vS2vfK) | 2:31 |
+| 70 | [DiVE](https://open.spotify.com/track/0RuyEnBfYn7W7ZanTrR5kQ) | [Sigge](https://open.spotify.com/artist/6tO5i7fnLASqZ6b00iG6On), [Pelle Alfredsson](https://open.spotify.com/artist/5zY7wgm5Acq8TJbQwdn53h) | [A LIVING ROOM IS A KINGDOM](https://open.spotify.com/album/1QOtRU4uH8SAA2KhjiFULK) | 4:15 |
+| 71 | [prada](https://open.spotify.com/track/2EXkJ8BO7wOxgbVCi79C0w) | [PreGame](https://open.spotify.com/artist/0MeqrNMZbF4Nv9HCwmi0qC) | [prada](https://open.spotify.com/album/2DbawXNkzCyJpNCvX05R5z) | 2:24 |
+| 72 | [Sweet July](https://open.spotify.com/track/4HtJMfSYfpvCgYTudNH4ry) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Sweet July](https://open.spotify.com/album/29QH5L670D93DWN1AL2Z0B) | 2:23 |
+| 73 | [Medal Man](https://open.spotify.com/track/447MyOsHPRkKtg0TNeRnts) | [Tengil](https://open.spotify.com/artist/5xoEhh8lF3uEl45Q7fqBWK) | [Medal Man](https://open.spotify.com/album/6VjLhmfNmPEpBuvDWJvjtE) | 1:52 |
+| 74 | [Sun Boy](https://open.spotify.com/track/7LFT8nKnDogg7EcYDNVSFg) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Sun Boy](https://open.spotify.com/album/4Vv2B9nJspaK0vOw6jBSAC) | 3:20 |
 
-Snapshot ID: `AAAAALwNCIMg6bxgV2UbQZOeQd2jGobY`
+Snapshot ID: `AAAAAPAzZak0BUXah6uJeeZJa2hzZ991`

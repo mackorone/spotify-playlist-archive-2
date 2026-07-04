@@ -2007,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "Nobody Loves Me Like You (Live at the Omeara London)",
+        "url": "https://open.spotify.com/album/2V8H60zT5RPJwuvShGmGIa"
+      },
+      "artists": [
+        {
+          "name": "Laura Evans",
+          "url": "https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300599,
+      "name": "Nobody Loves Me Like You - Live at the Omeara London",
+      "url": "https://open.spotify.com/track/2TdWLZgW3BtdbIS9C8EWjB"
+    },
+    {
+      "album": {
         "name": "Scorched Earth, Vol. 2 (Live from LA and London)",
         "url": "https://open.spotify.com/album/6BahOagyF2uJF4cMqh5QmS"
       },
@@ -2636,7 +2654,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 349573,
       "name": "Summertime (Live)",
       "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"

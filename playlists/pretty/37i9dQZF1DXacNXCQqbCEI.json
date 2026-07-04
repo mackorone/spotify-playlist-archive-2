@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 342625,
+  "num_followers": 342606,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -763,26 +763,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Remixeado a Lo Bien",
-        "url": "https://open.spotify.com/album/5Z7B0vlfjT6ddaoPajl36c"
-      },
-      "artists": [
-        {
-          "name": "De Juepuchas",
-          "url": "https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC"
-        },
-        {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "A Lo Bien - CERO39 rmx",
-      "url": "https://open.spotify.com/track/1s1JGQTxw1amjcucQTzX9a"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Hijo de Tigre",
         "url": "https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 261240,
       "name": "Mapal\u00e9",
       "url": "https://open.spotify.com/track/4FYOLa4OMokaDwZCUVXZvz"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Remixeado a Lo Bien",
+        "url": "https://open.spotify.com/album/5Z7B0vlfjT6ddaoPajl36c"
+      },
+      "artists": [
+        {
+          "name": "De Juepuchas",
+          "url": "https://open.spotify.com/artist/7oVSI0ddXNkjEtvLoh0SRC"
+        },
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "A Lo Bien - CERO39 rmx",
+      "url": "https://open.spotify.com/track/1s1JGQTxw1amjcucQTzX9a"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Trending Tropics",
-        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
-      },
-      "artists": [
-        {
-          "name": "Trending Tropics",
-          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 312623,
-      "name": "Reasons to Fight (feat. Ziggy Marley)",
-      "url": "https://open.spotify.com/track/1828klsRwI6LODnQ7dg5jG"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Chureito en la Ma\u00f1ana",
         "url": "https://open.spotify.com/album/5B9smDQD7JTx7n6XPhqD6V"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 278528,
       "name": "Chureito en la ma\u00f1ana",
       "url": "https://open.spotify.com/track/1mRkO12GcDopMRRW9o4p5c"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Trending Tropics",
+        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
+      },
+      "artists": [
+        {
+          "name": "Trending Tropics",
+          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
+        },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 312623,
+      "name": "Reasons to Fight (feat. Ziggy Marley)",
+      "url": "https://open.spotify.com/track/1828klsRwI6LODnQ7dg5jG"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

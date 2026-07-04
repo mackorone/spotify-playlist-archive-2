@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YOUNGOHM",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: ASIA7",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 155624,
       "name": "DMMA",
       "url": "https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q"
@@ -1554,6 +1554,24 @@
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
       "album": {
@@ -4594,7 +4612,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
@@ -7089,6 +7107,24 @@
     },
     {
       "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/3ZWAluCz0vtsq1ie2KlSJK"
+      },
+      "artists": [
+        {
+          "name": "Loso",
+          "url": "https://open.spotify.com/artist/68ASbzKA9iG2gd7JRfPD71"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235946,
+      "name": "\u0e04\u0e37\u0e19\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/5G9QIsPENzaSjyipcQQAqL"
+    },
+    {
+      "album": {
         "name": "\u0e04\u0e37\u0e19\u0e17\u0e35\u0e48\u0e2b\u0e21\u0e32\u0e40\u0e15\u0e47\u0e21\u0e27\u0e31\u0e14 (Temple Dogs)",
         "url": "https://open.spotify.com/album/0WTgKXMcmtQRjnvyxuknEK"
       },
@@ -7126,10 +7162,28 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 188877,
       "name": "\u0e04\u0e38\u0e13\u0e08\u0e30\u0e0a\u0e2d\u0e1a\u0e1c\u0e21\u0e44\u0e2b\u0e21 (Your Type?)",
       "url": "https://open.spotify.com/track/7ApNdlOBsjvmG4IiRZEpuP"
+    },
+    {
+      "album": {
+        "name": "MCB : Blonde Do It Better",
+        "url": "https://open.spotify.com/album/49qzkCIVXuEu9vPqgN9UYJ"
+      },
+      "artists": [
+        {
+          "name": "YUNGTARR",
+          "url": "https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142952,
+      "name": "\u0e04\u0e38\u0e13\u0e19\u0e32\u0e22\u0e08\u0e31\u0e01\u0e23\u0e27\u0e32\u0e25",
+      "url": "https://open.spotify.com/track/7IW4BkaGY2ageuJP6uoZeP"
     },
     {
       "album": {
@@ -7730,7 +7784,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 218811,
       "name": "\u0e0b\u0e34\u0e07\u0e40\u0e01\u0e34\u0e25\u0e04\u0e2d\u0e22 - Single Coil",
       "url": "https://open.spotify.com/track/4LtijQfypWSsmAM0t6ooK6"
@@ -13317,6 +13371,24 @@
     },
     {
       "album": {
+        "name": "Unlocked 'n' Roll",
+        "url": "https://open.spotify.com/album/0DU7UYmxwOKJVE1TvGfGPV"
+      },
+      "artists": [
+        {
+          "name": "Bedroom Audio",
+          "url": "https://open.spotify.com/artist/5NTMa7YJCseQqw70zgF7b5"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292511,
+      "name": "\u0e41\u0e2a\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
+      "url": "https://open.spotify.com/track/35mKMMSq2zSWW5D0tTrR7d"
+    },
+    {
+      "album": {
         "name": "\u0e41\u0e2a\u0e07\u0e14\u0e32\u0e27",
         "url": "https://open.spotify.com/album/6MmLyMbQMNKYnGPMxtZZOL"
       },
@@ -13444,7 +13516,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 115555,
       "name": "\u0e42\u0e14\u0e19\u0e08\u0e31\u0e07(\u0e2b)\u0e27\u0e30 | Your Swipe, your vibe",
       "url": "https://open.spotify.com/track/7ni6qZVu5iABDqH2itlXwd"
@@ -14262,6 +14334,24 @@
       "duration_ms": 293225,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e23\u0e2d\u0e07",
       "url": "https://open.spotify.com/track/38uarkAk3Y13onWxwj0MIq"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e41\u0e1a\u0e48\u0e07\u0e43\u0e04\u0e23 (Mine)",
+        "url": "https://open.spotify.com/album/63jEw2OFHhTUDVlesmuCXy"
+      },
+      "artists": [
+        {
+          "name": "ASIA7",
+          "url": "https://open.spotify.com/artist/5ghOUzxpnQmnPQDwC1thIz"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "\u0e44\u0e21\u0e48\u0e41\u0e1a\u0e48\u0e07\u0e43\u0e04\u0e23 (Mine)",
+      "url": "https://open.spotify.com/track/3tyMR3PR22Zl4arWBydCf2"
     },
     {
       "album": {

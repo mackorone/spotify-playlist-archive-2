@@ -1,6 +1,6 @@
 {
   "description": "you up?",
-  "num_followers": 2195541,
+  "num_followers": 2195781,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
@@ -1441,22 +1441,6 @@
       "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
     },
     {
-      "added_at": "2026-05-25 21:42:21",
-      "album": {
-        "name": "Angel Eyes",
-        "url": "https://open.spotify.com/album/3K7zpVgBTbQMAGMFuKd8yx"
-      },
-      "artists": [
-        {
-          "name": "Jared Benjamin",
-          "url": "https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne"
-        }
-      ],
-      "duration_ms": 164906,
-      "name": "Angel Eyes",
-      "url": "https://open.spotify.com/track/5T0arBnfDpk9Svm1S6wiHG"
-    },
-    {
       "added_at": "2025-09-05 04:00:04",
       "album": {
         "name": "Addicted",
@@ -1471,6 +1455,22 @@
       "duration_ms": 192124,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/6K1NOaqhgsV2kfNKrkgAR6"
+    },
+    {
+      "added_at": "2026-05-25 21:42:21",
+      "album": {
+        "name": "Angel Eyes",
+        "url": "https://open.spotify.com/album/3K7zpVgBTbQMAGMFuKd8yx"
+      },
+      "artists": [
+        {
+          "name": "Jared Benjamin",
+          "url": "https://open.spotify.com/artist/0pu0ZEMZtgePMOE6m19Cne"
+        }
+      ],
+      "duration_ms": 164906,
+      "name": "Angel Eyes",
+      "url": "https://open.spotify.com/track/5T0arBnfDpk9Svm1S6wiHG"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/2g1QPpTd4o8gTAapxEUPnz"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Her Love Still Haunts Me Like a Ghost",
-        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Bathroom",
-      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
-    },
-    {
       "added_at": "2026-02-20 05:35:55",
       "album": {
         "name": "So Good",
@@ -1633,20 +1617,20 @@
       "url": "https://open.spotify.com/track/2e1XOTyNwFenng3U4hVWqi"
     },
     {
-      "added_at": "2026-03-20 04:00:31",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "more than just a little bit",
-        "url": "https://open.spotify.com/album/3F8UGnSi7OTQg03Ag3xtxv"
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 160382,
-      "name": "more than just a little bit",
-      "url": "https://open.spotify.com/track/4lAH08gTc08QbUDFakKXTG"
+      "duration_ms": 208000,
+      "name": "Bathroom",
+      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
     },
     {
       "added_at": "2025-02-14 05:00:31",
@@ -1663,6 +1647,22 @@
       "duration_ms": 192946,
       "name": "LOVE LOOKS PRETTY ON YOU",
       "url": "https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj"
+    },
+    {
+      "added_at": "2026-03-20 04:00:31",
+      "album": {
+        "name": "more than just a little bit",
+        "url": "https://open.spotify.com/album/3F8UGnSi7OTQg03Ag3xtxv"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 160382,
+      "name": "more than just a little bit",
+      "url": "https://open.spotify.com/track/4lAH08gTc08QbUDFakKXTG"
     },
     {
       "added_at": "2025-02-04 01:02:45",

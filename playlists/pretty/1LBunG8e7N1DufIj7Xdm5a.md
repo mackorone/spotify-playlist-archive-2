@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,558 songs - 10 day 3 hr 52 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,565 songs - 10 day 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4566,5 +4566,12 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4556 | [In a Room](https://open.spotify.com/track/3qYp9cawHGwLqJdpnayztC) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [In a Room](https://open.spotify.com/album/0hrL4GILIgeWKuFlmgY9me) | 3:46 |
 | 4557 | [EL TERCERO](https://open.spotify.com/track/6ccrFhU3dzwbAiQlDIBrRQ) | [OVE MARQUESIN](https://open.spotify.com/artist/0plb8N6XwOKnXuQFxHiD0t) | [EL TERCERO](https://open.spotify.com/album/7dVx9QQdEJ4MSlGg1M7l6a) | 3:04 |
 | 4558 | [By Design](https://open.spotify.com/track/7KLLbirr3zrlOmCAXNu8lb) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [By Design](https://open.spotify.com/album/4uGCOrttUEiOQpkvoBLFSo) | 3:25 |
+| 4559 | [Deeper Love \- Remix Extended Mix](https://open.spotify.com/track/6W22t218rsOMTImDKaKUN1) | [Roni Sadgan](https://open.spotify.com/artist/6P2EMT02pMK8xCpPamli1p), [Mou5ZyZZ](https://open.spotify.com/artist/6H2LGB5CAdk0wlV0ehb0B2) | [Trance Party Electric 2026](https://open.spotify.com/album/0hwkXUMMBvv71AnV2YKKqU) | 6:14 |
+| 4560 | [El Andén](https://open.spotify.com/track/17rqrw2bas8EocpJ5aRtfO) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [El Andén](https://open.spotify.com/album/78hZJe3e6hOJaplUZjehn4) | 4:09 |
+| 4561 | [Believe me](https://open.spotify.com/track/5OTEbscf89tdmjZIsEnxmk) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [Believe me](https://open.spotify.com/album/32V4BnKEwnMr3QmIObawlA) | 2:47 |
+| 4562 | [La Solana](https://open.spotify.com/track/6iEyn7CWhzedR9vcVJgwEE) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [La Solana](https://open.spotify.com/album/45dwsvHLQ75ifTInMqmyAx) | 4:32 |
+| 4563 | [Try](https://open.spotify.com/track/1wa2z0DVUphZcmfxUVvaeN) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [Try](https://open.spotify.com/album/4UlGGdntkH7WIS8UfAy5cR) | 4:24 |
+| 4564 | [Sunburn](https://open.spotify.com/track/0SFsQqSAU2FzW7h8ZLe7qv) | [Frequency Overload](https://open.spotify.com/artist/5ENQmvhqRDwkp5IdF9U3Ia) | [Sunburn](https://open.spotify.com/album/7D3U1gc3zT2RaPWGGniSEA) | 4:47 |
+| 4565 | [Ayer](https://open.spotify.com/track/0qGoYf2qfDaCyYmdbJ2Zob) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [Ayer](https://open.spotify.com/album/6eUq14dAiPYN12aNeK22So) | 3:23 |
 
-Snapshot ID: `AAAJB+8OYBP4yS+unXDBIygixg6vRO1x`
+Snapshot ID: `AAAJDj6EUA5/8+U3ygKwLqN9DdCgA16c`

@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: CURS
+> เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: YMY
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,106 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,104 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [เขาไม่กลับมาแล้ว \(Flow\)](https://open.spotify.com/track/5lMSabl9pbXxxW6IM7GCPB) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [เขาไม่กลับมาแล้ว \(Flow\)](https://open.spotify.com/album/69NG9x27wj8Jt3bD1QWhW3) | 3:25 |
-| 2 | [สุขสันต์วันเลิกรา \(Farewall\)](https://open.spotify.com/track/0bPEFj9SX6MQbAet6jfKfI) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [สุขสันต์วันเลิกรา \(Farewall\)](https://open.spotify.com/album/00keaZw1TAM5szqXRcR83A) | 4:27 |
-| 3 | [หากฉันได้รักใครอีกครั้ง](https://open.spotify.com/track/49RkE1kVmRI2HOL8U2Answ) | [YMY](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [YEP MAY YEP](https://open.spotify.com/album/00sYILXJKkxOVNILEgLjm7) | 4:18 |
-| 4 | [คืนสุดท้าย \(Dry Tears\)](https://open.spotify.com/track/7b4UykY12qcPV6B2QGq3ps) | [JOYE](https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C) | [คืนสุดท้าย \(Dry Tears\)](https://open.spotify.com/album/4Ok5y1q66hdEGLABRODRk4) | 4:22 |
-| 5 | [โลกความจริง \(REALITY HITS\)](https://open.spotify.com/track/5WjIzVculbw1st9OdhHq2K) | [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [โลกความจริง \(REALITY HITS\)](https://open.spotify.com/album/3KZ7gawGVh6uGnEPrbFN6I) | 4:47 |
-| 6 | [Baby Bye Bye](https://open.spotify.com/track/7D8QbOudfxxdt5Zi20tQso) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ), [Ant LANDOKMAI](https://open.spotify.com/artist/1d4UYb5mZPmdJQLQME6Bw8) | [Baby Bye Bye](https://open.spotify.com/album/63XEQ2qaHtEfrrG1Prk1GG) | 3:26 |
-| 7 | [ดิ่ง \(Deep\)](https://open.spotify.com/track/20EMMATUtWu4rs6IMOXkfK) | [Enter The Joy](https://open.spotify.com/artist/2FA1UgZXy5OoXBB6CNgCQk) | [ดิ่ง \(Deep\)](https://open.spotify.com/album/1zOfH1aSjAKLOSiFLyqoUH) | 5:33 |
-| 8 | [ถ้าเราบังเอิญได้พบกัน \(What If\)](https://open.spotify.com/track/5AEAu3zGi43VzBfgiUJvzE) | [SaltySalmon](https://open.spotify.com/artist/3nk2SXIpTCKwG5GW8SuYxO) | [ถ้าเราบังเอิญได้พบกัน \(What If\)](https://open.spotify.com/album/7bJKCarxScjCO7CWATzwpe) | 3:48 |
-| 9 | [50/50](https://open.spotify.com/track/3wkjS9EyCPHrkJ0hkn5ozX) | [The Publish](https://open.spotify.com/artist/1dkiRgFFVF7XmX4vo0NEEh) | [50/50](https://open.spotify.com/album/6nO8T32fBPe8ffwq6HsR4S) | 5:01 |
-| 10 | [Luckyman](https://open.spotify.com/track/06gScNq7M3mjk0Le6kaBJ8) | [NINEOKMAI](https://open.spotify.com/artist/7GfWZzQStdnFvdbRqdsKYe) | [Luckyman](https://open.spotify.com/album/6oqDwqdxR1t2Z7t3dCeFmD) | 4:01 |
-| 11 | [เงินตรา](https://open.spotify.com/track/4BbmLTx2Pp6biPZ0ZOqlKp) | [Sukid458](https://open.spotify.com/artist/6dWH3SSe9rYb2KvunPIvf4) | [เงินตรา](https://open.spotify.com/album/0l4y5bv8IoeqXEaPCSclzB) | 4:45 |
-| 12 | [เจ๋งเป้ง](https://open.spotify.com/track/6DIh4W9AhBe0AwIhBOKtTK) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [เจ๋งเป้ง](https://open.spotify.com/album/3gaKrAChWoHe5SbFw9Gi2j) | 3:06 |
-| 13 | [พัก](https://open.spotify.com/track/1qY9qaO6me2UlGlZ2NX1sr) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [พัก](https://open.spotify.com/album/6aPG4ryFJoU8rU3HBUV47w) | 2:46 |
-| 14 | [สวัสดีวันจันทร์](https://open.spotify.com/track/2KMsKOuGAZZQNdUTnldl8K) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [สวัสดีวันจันทร์](https://open.spotify.com/album/641D7PcblWi9Bby8rsMz78) | 4:08 |
-| 15 | [ให้เราห่างกัน](https://open.spotify.com/track/7t7ObygKKyBNmBJlBPBvAM) | [ROUSE](https://open.spotify.com/artist/42wCcg6q3NRhi0vQQ7JvNB) | [ให้เราห่างกัน](https://open.spotify.com/album/086E64hdsvFU8qg9UiXzDa) | 6:15 |
+| 1 | [หากฉันได้รักใครอีกครั้ง](https://open.spotify.com/track/49RkE1kVmRI2HOL8U2Answ) | [YMY](https://open.spotify.com/artist/7M3iEQzqUhshIroT8hahga) | [YEP MAY YEP](https://open.spotify.com/album/00sYILXJKkxOVNILEgLjm7) | 4:18 |
+| 2 | [คืนสุดท้าย \(Dry Tears\)](https://open.spotify.com/track/7b4UykY12qcPV6B2QGq3ps) | [JOYE](https://open.spotify.com/artist/38oEcugQXZEzxG44gBhE2C) | [คืนสุดท้าย \(Dry Tears\)](https://open.spotify.com/album/4Ok5y1q66hdEGLABRODRk4) | 4:22 |
+| 3 | [Baby Bye Bye](https://open.spotify.com/track/7D8QbOudfxxdt5Zi20tQso) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ), [Ant LANDOKMAI](https://open.spotify.com/artist/1d4UYb5mZPmdJQLQME6Bw8) | [Baby Bye Bye](https://open.spotify.com/album/63XEQ2qaHtEfrrG1Prk1GG) | 3:26 |
+| 4 | [คันคังเกา](https://open.spotify.com/track/1UvdJeJlrLZvMfwTRFDgK6) | [WATCHI](https://open.spotify.com/artist/6aP6XysKhtM5DGjtRbtcQz) | [คันคังเกา](https://open.spotify.com/album/2TiOttmwVO4CuUlhbfecQx) | 2:56 |
+| 5 | [เขาไม่กลับมาแล้ว \(Flow\)](https://open.spotify.com/track/5lMSabl9pbXxxW6IM7GCPB) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [เขาไม่กลับมาแล้ว \(Flow\)](https://open.spotify.com/album/69NG9x27wj8Jt3bD1QWhW3) | 3:25 |
+| 6 | [สาวข้างบ้าน \(A Crush!\)](https://open.spotify.com/track/0o2rFdaAJjo76DwTnHC5jX) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [สาวข้างบ้าน \(A Crush!\)](https://open.spotify.com/album/6LyYsdiAd9QndNgdlQHepq) | 3:32 |
+| 7 | [Luckyman](https://open.spotify.com/track/06gScNq7M3mjk0Le6kaBJ8) | [NINEOKMAI](https://open.spotify.com/artist/7GfWZzQStdnFvdbRqdsKYe) | [Luckyman](https://open.spotify.com/album/6oqDwqdxR1t2Z7t3dCeFmD) | 4:01 |
+| 8 | [สุขสันต์วันเลิกรา \(Farewall\)](https://open.spotify.com/track/0bPEFj9SX6MQbAet6jfKfI) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [สุขสันต์วันเลิกรา \(Farewall\)](https://open.spotify.com/album/00keaZw1TAM5szqXRcR83A) | 4:27 |
+| 9 | [โลกความจริง \(REALITY HITS\)](https://open.spotify.com/track/5WjIzVculbw1st9OdhHq2K) | [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [โลกความจริง \(REALITY HITS\)](https://open.spotify.com/album/3KZ7gawGVh6uGnEPrbFN6I) | 4:47 |
+| 10 | [ดิ่ง \(Deep\)](https://open.spotify.com/track/20EMMATUtWu4rs6IMOXkfK) | [Enter The Joy](https://open.spotify.com/artist/2FA1UgZXy5OoXBB6CNgCQk) | [ดิ่ง \(Deep\)](https://open.spotify.com/album/1zOfH1aSjAKLOSiFLyqoUH) | 5:33 |
+| 11 | [ถ้าเราบังเอิญได้พบกัน \(What If\)](https://open.spotify.com/track/5AEAu3zGi43VzBfgiUJvzE) | [SaltySalmon](https://open.spotify.com/artist/3nk2SXIpTCKwG5GW8SuYxO) | [ถ้าเราบังเอิญได้พบกัน \(What If\)](https://open.spotify.com/album/7bJKCarxScjCO7CWATzwpe) | 3:48 |
+| 12 | [50/50](https://open.spotify.com/track/3wkjS9EyCPHrkJ0hkn5ozX) | [The Publish](https://open.spotify.com/artist/1dkiRgFFVF7XmX4vo0NEEh) | [50/50](https://open.spotify.com/album/6nO8T32fBPe8ffwq6HsR4S) | 5:01 |
+| 13 | [เงินตรา](https://open.spotify.com/track/4BbmLTx2Pp6biPZ0ZOqlKp) | [Sukid458](https://open.spotify.com/artist/6dWH3SSe9rYb2KvunPIvf4) | [เงินตรา](https://open.spotify.com/album/0l4y5bv8IoeqXEaPCSclzB) | 4:45 |
+| 14 | [พัก](https://open.spotify.com/track/1qY9qaO6me2UlGlZ2NX1sr) | [Wallry](https://open.spotify.com/artist/5Rfrdko5rmc0qMAcyCuDki) | [พัก](https://open.spotify.com/album/6aPG4ryFJoU8rU3HBUV47w) | 2:46 |
+| 15 | [สวัสดีวันจันทร์](https://open.spotify.com/track/2KMsKOuGAZZQNdUTnldl8K) | [HAPPILY](https://open.spotify.com/artist/3pwR3hHGD2dpXPZrtewhRD) | [สวัสดีวันจันทร์](https://open.spotify.com/album/641D7PcblWi9Bby8rsMz78) | 4:08 |
 | 16 | [หยาดหนึ่งฤดู \(Will O' the Wisp\)](https://open.spotify.com/track/7c0SVmG60e1bVo57QI0XeR) | [Sample Space](https://open.spotify.com/artist/35axjetyJmR4ERjLeuBCTP) | [หยาดหนึ่งฤดู \(Will O' the Wisp\)](https://open.spotify.com/album/1UY4Piwb5ruKSKQyhHkJTI) | 5:01 |
 | 17 | [เปรียบดั่งดอกไม้](https://open.spotify.com/track/0Cgi5fkIVF85qpwGCC3DuO) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [เปรียบดั่งดอกไม้](https://open.spotify.com/album/2hxjOSUqmLlbhD6Wn1JWeT) | 3:37 |
 | 18 | [ขอบคุณที่เธอเข้ามา \(thankyou\)](https://open.spotify.com/track/7x8Ah9Co2GFFyxwVXM3d63) | [TWINSHOUSE](https://open.spotify.com/artist/35DKkzJ2J2lRoLrgnoAhuD) | [ขอบคุณที่เธอเข้ามา \(thankyou\)](https://open.spotify.com/album/45dBrGEEczH3FBx6kw7RPA) | 4:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 49 | [หากคำนวณความน่าจะเป็น คงได้แค่ 0 เปอร์เซ็นเท่านั้น](https://open.spotify.com/track/0jivjpX81Baork8Sc1qXMr) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [หากคำนวณความน่าจะเป็น คงได้แค่ 0 เปอร์เซ็นเท่านั้น](https://open.spotify.com/album/2MovYY8AFgs6aeBk4pR9ym) | 5:01 |
 | 50 | [บนโลกที่เธอหายไป](https://open.spotify.com/track/376fYxmuLQZraEYczVUKcq) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [บนโลกที่เธอหายไป](https://open.spotify.com/album/03bWxSTBKbFHYgbfUFUmXP) | 4:42 |
 
-Snapshot ID: `AAAAANFeYyU52BdocI7zP+NZpuYm8Gfy`
+Snapshot ID: `AAAAAJBlead6Xrr8CQyh6y7Ehmbxp2+i`

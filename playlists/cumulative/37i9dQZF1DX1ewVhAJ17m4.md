@@ -2,9 +2,9 @@
 
 ### [Pop Punk's Not Dead](https://open.spotify.com/playlist/37i9dQZF1DX1ewVhAJ17m4)
 
-> All the best new songs from the pop punk scene\. Cover: The Paradox
+> All the best new songs from the pop punk scene\. Cover: Lina\-Mariah
 
-585 songs - 1 day 5 hr 22 min
+586 songs - 1 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [hair out](https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:40 | 2022-07-18 | 2022-10-14 |
 | [Hallways](https://open.spotify.com/track/6az05Q3tEYs5cKzrcW9z63) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Hallways](https://open.spotify.com/album/0RdXtpV2BpwrvApq3IxItb) | 3:38 | 2025-02-21 | 2025-05-26 |
 | [Hard to Explain](https://open.spotify.com/track/4Ptjci84oTDIh4iSkygdNC) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Covers Vol\. 1](https://open.spotify.com/album/7Mb0ExnQg3xbgj9OIdhelq) | 3:30 | 2021-12-22 | 2022-03-01 |
+| [Hate My Mom](https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Feel Like Shit And It's All Your Fault](https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn) | 2:57 | 2026-07-03 |  |
 | [Hate This Song](https://open.spotify.com/track/3keius8Oa84Xwul5LdvO1c) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Hate This Song](https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA) | 2:55 | 2024-11-18 | 2026-03-28 |
 | [Headstone](https://open.spotify.com/track/5xAx7QIRoW87IOcZuiy1He) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Headstone](https://open.spotify.com/album/2WzbLXv2rPrFcmnxtraFib) | 3:25 | 2021-12-20 | 2022-06-15 |
 | [Heartbreak Feels So Good](https://open.spotify.com/track/0Rw35DKIumkbbMC7XPOn5r) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Heartbreak Feels So Good](https://open.spotify.com/album/5GwtecGz0FCy9onGWtrVRS) | 3:37 | 2023-01-27 | 2023-05-19 |
@@ -278,7 +279,7 @@
 | [Imposter](https://open.spotify.com/track/0HDsndV2bSC8ffeF1St9L4) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Imposter](https://open.spotify.com/album/1NIHzCmCg3oYs602XSj9o8) | 3:03 | 2023-03-17 | 2023-09-15 |
 | [Imposter](https://open.spotify.com/track/4YHOZM2XTjZGR286V0DcJa) | [Ricky Himself](https://open.spotify.com/artist/5vz4AsHBUwAQ7qrhG5yyBS) | [Poser](https://open.spotify.com/album/5YGEBfoFAPoBJNGwiPERq3) | 3:29 | 2021-12-20 | 2022-06-15 |
 | [In my head](https://open.spotify.com/track/6535xdBUeKaJ6kEJ2tqoAJ) | [Cold Valley](https://open.spotify.com/artist/1w1u8ebvhNqRMCv2GeBRrQ) | [In my head](https://open.spotify.com/album/4aSa1IIOOsEkDydKDEkrRL) | 3:00 | 2021-12-20 | 2022-03-01 |
-| [Incomplete](https://open.spotify.com/track/3yOuUbbP1bcpA79Z6U694p) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Incomplete](https://open.spotify.com/album/1rP0gaeFG2Fd4e89cRUMLu) | 3:36 | 2025-02-21 |  |
+| [Incomplete](https://open.spotify.com/track/3yOuUbbP1bcpA79Z6U694p) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT), [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Incomplete](https://open.spotify.com/album/1rP0gaeFG2Fd4e89cRUMLu) | 3:36 | 2025-02-21 | 2026-07-04 |
 | [Intrepid](https://open.spotify.com/track/4Z1oDdcxC0AXpQlRKsLMrd) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Silk](https://open.spotify.com/album/6JLyoujI6g58xSefLjpT64) | 2:53 | 2025-05-15 | 2026-04-18 |
 | [Irreversible](https://open.spotify.com/track/4zenUHy8MFBqIX4EUSejkT) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Irreversible](https://open.spotify.com/album/7JvpUqWAxhlA6ydx7BWit5) | 3:13 | 2026-02-20 | 2026-05-19 |
 | [is this what you wanted](https://open.spotify.com/track/33WUbp3DX0VQJCLspApITe) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [is this what you wanted](https://open.spotify.com/album/5POEjUknLCeuqnRdLg7ewA) | 3:45 | 2023-05-18 | 2025-02-22 |

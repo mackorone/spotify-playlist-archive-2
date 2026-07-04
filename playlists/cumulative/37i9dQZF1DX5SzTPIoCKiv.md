@@ -2,9 +2,9 @@
 
 ### [Christian Hits](https://open.spotify.com/playlist/37i9dQZF1DX5SzTPIoCKiv)
 
-> Recent hits from your favorite Christian Contemporary artists\.  Cover: Phil Wickham
+> Recent hits from your favorite Christian Contemporary artists\.  Cover: Megan Woods
 
-303 songs - 19 hr 42 min
+304 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Different](https://open.spotify.com/track/4NTJ9sbakiYD1SyGWSMyCf) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch) | 3:17 | 2024-06-21 | 2024-11-30 |
 | [Do For Love](https://open.spotify.com/track/4ecGGCNfUtlOKLYGcxrsUp) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Do For Love](https://open.spotify.com/album/1u1h9JWh54EnDNoZkMlNDn) | 3:37 | 2021-10-15 | 2022-07-20 |
 | [Don't Quit](https://open.spotify.com/track/7Astyw7Pvb7a7VgmtZM25Y) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [Don't Quit](https://open.spotify.com/album/3N6aAb9jiFxqb1xDevsLdS) | 4:44 | 2021-10-15 | 2022-07-28 |
-| [Don't Stop Praying](https://open.spotify.com/track/0TH9LO1qmuXMtMYHZhT5gP) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Don't Stop Praying](https://open.spotify.com/album/1nV08vXokWpBYEkd1Mjdmz) | 3:53 | 2024-06-21 |  |
+| [Don't Stop Praying](https://open.spotify.com/track/0TH9LO1qmuXMtMYHZhT5gP) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Don't Stop Praying](https://open.spotify.com/album/1nV08vXokWpBYEkd1Mjdmz) | 3:53 | 2024-06-21 | 2026-07-04 |
 | [Don't You Dare](https://open.spotify.com/track/41Yp3rSMdCjPIaDFb0LSa5) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [Expressions II: Wonder](https://open.spotify.com/album/0Q78D0tJYKfFhIBRuEQaqu) | 4:17 | 2021-10-15 | 2022-07-27 |
 | [Dream Small](https://open.spotify.com/track/3tIosTCaD7OxaqMmNMqK39) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Dream Small](https://open.spotify.com/album/1tlLIwnTUvgQmc1qCR7Oxa) | 3:26 | 2024-06-21 | 2024-11-30 |
 | [Dusty Bibles](https://open.spotify.com/track/1GvJ35amuk7oGjcnoYSKFA) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:10 | 2025-12-05 |  |
@@ -103,6 +103,7 @@
 | [God Is Good](https://open.spotify.com/track/55u3TOux7B6QdoOOQ4KCWa) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [God Is Good](https://open.spotify.com/album/2NjwP5E285YasIUIQ6LPl0) | 3:17 | 2021-10-15 | 2024-06-06 |
 | [God Of Wonders](https://open.spotify.com/track/3SQ0Ki7UnQ6CkqWzonOl6I) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [God Of Wonders](https://open.spotify.com/album/5VLJAD7494p0RAXn1zITDT) | 2:41 | 2025-05-02 |  |
 | [God So Loved](https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:25 | 2021-10-15 | 2024-06-22 |
+| [Good](https://open.spotify.com/track/6S5BFmq9ypnHBY0kNm1lQ2) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Good](https://open.spotify.com/album/78jQXCHpDGQNaBsOVgrDmB) | 3:03 | 2026-07-03 |  |
 | [Good Memories](https://open.spotify.com/track/4XhrBsxPkuFNAPojs3svt0) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Good Memories](https://open.spotify.com/album/7uLIpkA9rqJIvEiMeDDkmH) | 3:11 | 2021-10-15 | 2022-07-29 |
 | [Good Memories](https://open.spotify.com/track/6OieTz3MN0a5jXsnkI6biW) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:13 | 2023-02-18 | 2024-04-19 |
 | [Good To Be Loved By You \(with Tyler Hubbard\)](https://open.spotify.com/track/62q03kZpF2r4d8rfLcExsu) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Chris Tomlin & Friends: Summer EP](https://open.spotify.com/album/7pfDAfc2EmNkl5TTVdVx5z) | 3:21 | 2021-10-15 | 2022-07-29 |

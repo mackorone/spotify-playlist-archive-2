@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-14",
-  "description": "A laid-back trip in the folk scene. Cover: Field Guide",
+  "description": "A laid-back trip in the folk scene. Cover: Rachel Bobbitt",
   "name": "Folk & Friends",
   "tracks": [
     {
@@ -236,6 +236,24 @@
       "duration_ms": 265453,
       "name": "4runner",
       "url": "https://open.spotify.com/track/3sIKldlKWC5TICO2Tcz7uu"
+    },
+    {
+      "album": {
+        "name": "4th of july",
+        "url": "https://open.spotify.com/album/0LFm0KK5gD8kvyiedtQv2W"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178823,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5D9hscmOav9Iw8U3yox9UO"
     },
     {
       "album": {
@@ -644,7 +662,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 127272,
       "name": "Acid Washed",
       "url": "https://open.spotify.com/track/0bla0kPTlY0r1M3tOY6BfS"
@@ -3738,7 +3756,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 262306,
       "name": "Bring Home My Man",
       "url": "https://open.spotify.com/track/1OeNu7kjS4MGCt1nTzgefU"
@@ -3900,7 +3918,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 168078,
       "name": "butterflies",
       "url": "https://open.spotify.com/track/52w9vFDgebB8OxdYL1BK1t"
@@ -5746,6 +5764,24 @@
       "duration_ms": 252602,
       "name": "Critics (Fifty Bucks)",
       "url": "https://open.spotify.com/track/3Rj0bNJuUI2X1XD3XxEhpf"
+    },
+    {
+      "album": {
+        "name": "Crosses",
+        "url": "https://open.spotify.com/album/3EXRrkaNEihtAT2Z1yMjEj"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243096,
+      "name": "Crosses",
+      "url": "https://open.spotify.com/track/5aQlF6MqVnYspN8j7h9gjQ"
     },
     {
       "album": {
@@ -10061,6 +10097,24 @@
     },
     {
       "album": {
+        "name": "From A Different Age",
+        "url": "https://open.spotify.com/album/5a4PZCMUGGZqRZRFnPRBK0"
+      },
+      "artists": [
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193519,
+      "name": "From A Different Age",
+      "url": "https://open.spotify.com/track/7gH6veWZGy3M05dHNkCYxY"
+    },
+    {
+      "album": {
         "name": "From Nowhere",
         "url": "https://open.spotify.com/album/09mXUKFhJsl02Sqe5Vj1ZT"
       },
@@ -12264,7 +12318,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 148786,
       "name": "How I Know I'm Home",
       "url": "https://open.spotify.com/track/37rHeA3LTQxdlHpllFVyz1"
@@ -16188,7 +16242,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 187661,
       "name": "Lost Leader",
       "url": "https://open.spotify.com/track/1qFxxFm82Z3kxVxNpr4pLj"
@@ -17820,7 +17874,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 162925,
       "name": "Mountain Girl",
       "url": "https://open.spotify.com/track/4trN0qlOUFzoNOYs7ezZNf"
@@ -17842,6 +17896,24 @@
       "duration_ms": 145134,
       "name": "mountain of a memory",
       "url": "https://open.spotify.com/track/2MDKyrewRChv3N6cYY1rI7"
+    },
+    {
+      "album": {
+        "name": "Mountain Stream",
+        "url": "https://open.spotify.com/album/1w9aXVzTGDxUmypnBcs204"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220032,
+      "name": "Mountain Stream",
+      "url": "https://open.spotify.com/track/2L5R8yONcCBNab4ZaKg8ks"
     },
     {
       "album": {
@@ -18018,7 +18090,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 202560,
       "name": "My Love",
       "url": "https://open.spotify.com/track/61nMcUOT94tvopjHlXsoZE"
@@ -18896,7 +18968,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 176963,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/1fKlw3VYpNwz2KUqUO0Kou"
@@ -22923,6 +22995,24 @@
     },
     {
       "album": {
+        "name": "Sea Jasmine",
+        "url": "https://open.spotify.com/album/3XtFgI1ot9qzlqNhwXBwQj"
+      },
+      "artists": [
+        {
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126590,
+      "name": "Sea Jasmine",
+      "url": "https://open.spotify.com/track/4lQDW82BfkJFd77rACinRh"
+    },
+    {
+      "album": {
         "name": "Sea to the Moon",
         "url": "https://open.spotify.com/album/1gEAi1OTC5hPLhZbvNn3TA"
       },
@@ -23352,7 +23442,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 162618,
       "name": "Signs",
       "url": "https://open.spotify.com/track/6MEvF7kFX4xTqmTIbrDHhk"
@@ -25758,7 +25848,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 255395,
       "name": "Taylor",
       "url": "https://open.spotify.com/track/49Ya4VAhgiUgABC0XnDhOE"
@@ -26955,6 +27045,24 @@
     },
     {
       "album": {
+        "name": "The Things I'm Not",
+        "url": "https://open.spotify.com/album/0FMcfWVEcnVOxOk9Qse0lH"
+      },
+      "artists": [
+        {
+          "name": "Clay Hazey",
+          "url": "https://open.spotify.com/artist/04Scak7bYYNS0lbexZ8dGP"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211991,
+      "name": "The Things I'm Not",
+      "url": "https://open.spotify.com/track/7zG10IqHws6sjVNoEDb8dl"
+    },
+    {
+      "album": {
         "name": "The Voyager",
         "url": "https://open.spotify.com/album/2HpGxytlx7PVMo03D5ufMg"
       },
@@ -28068,6 +28176,24 @@
       "duration_ms": 256070,
       "name": "Traveler Of Swords",
       "url": "https://open.spotify.com/track/5ThAnXfWPVc8IoCwsuj0r7"
+    },
+    {
+      "album": {
+        "name": "Traveling Blues",
+        "url": "https://open.spotify.com/album/4CEWvUJ9YjEQF1apGtPTju"
+      },
+      "artists": [
+        {
+          "name": "Evan Roderick",
+          "url": "https://open.spotify.com/artist/7bw5PTECn2uhtnzlssXeHE"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215250,
+      "name": "Traveling Blues",
+      "url": "https://open.spotify.com/track/45fEI8uXWhqDdo7JkBm73i"
     },
     {
       "album": {
@@ -29785,6 +29911,24 @@
     },
     {
       "album": {
+        "name": "When You Call",
+        "url": "https://open.spotify.com/album/0UsuGaWMGl03zvMJ9WjGH3"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207496,
+      "name": "When You Call",
+      "url": "https://open.spotify.com/track/4NWH1yGHAmVsKzF8am2Ju8"
+    },
+    {
+      "album": {
         "name": "When You Lose Her",
         "url": "https://open.spotify.com/album/4zJJ6j6z9K6FZhb5ssoZQl"
       },
@@ -30055,6 +30199,24 @@
     },
     {
       "album": {
+        "name": "whole thing",
+        "url": "https://open.spotify.com/album/0x9KWdKPTHfzF96ygr6qB5"
+      },
+      "artists": [
+        {
+          "name": "Sadurn",
+          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265413,
+      "name": "whole thing",
+      "url": "https://open.spotify.com/track/6eR78hfwTyGcuoe9y8btOn"
+    },
+    {
+      "album": {
         "name": "Whose face am I",
         "url": "https://open.spotify.com/album/5rAXZIxcvg96yLLT9M5atx"
       },
@@ -30291,6 +30453,24 @@
     },
     {
       "album": {
+        "name": "winner",
+        "url": "https://open.spotify.com/album/48QRF24jEiOeQGNqJ77c3q"
+      },
+      "artists": [
+        {
+          "name": "Ella Woolsey",
+          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168500,
+      "name": "winner",
+      "url": "https://open.spotify.com/track/7bXqaPGlz0irAUcmqMnHuP"
+    },
+    {
+      "album": {
         "name": "Wise Old Owl",
         "url": "https://open.spotify.com/album/5Y5LTUkigNOMdVm7Ep7CSW"
       },
@@ -30360,6 +30540,24 @@
       "duration_ms": 247826,
       "name": "wishing for you",
       "url": "https://open.spotify.com/track/70d8qFo2LNeMTouj0ka2TG"
+    },
+    {
+      "album": {
+        "name": "Wishing Stone",
+        "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228395,
+      "name": "Wishing Stone",
+      "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
     },
     {
       "album": {
@@ -30684,7 +30882,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 243348,
       "name": "Yet to Let Me Down",
       "url": "https://open.spotify.com/track/5OmgtVmWrq2RBh4Lkeu0L5"
@@ -31118,7 +31316,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 180128,
       "name": "You're Right",
       "url": "https://open.spotify.com/track/4UEjz6lD71GweiK1BXpUYC"

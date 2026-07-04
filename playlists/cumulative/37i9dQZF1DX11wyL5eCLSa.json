@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-22",
-  "description": "Sangre fresca en las escenas del indie y el rock. Electrify en portada. ",
+  "description": "Sangre fresca en las escenas del indie y el rock. Blnko en portada. ",
   "name": "EL ROCK NO HA MUERTO",
   "tracks": [
     {
@@ -634,7 +634,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 109977,
       "name": "Ah! Ah! Ah!",
       "url": "https://open.spotify.com/track/0mwnRupwX7ep5ODNbi7feR"
@@ -1482,6 +1482,24 @@
       "duration_ms": 146370,
       "name": "BANDO",
       "url": "https://open.spotify.com/track/2JEFRpSj148d2y5TnVHsxM"
+    },
+    {
+      "album": {
+        "name": "Bang!",
+        "url": "https://open.spotify.com/album/5Z2SeVfd3MbCHYQ6AMEKX0"
+      },
+      "artists": [
+        {
+          "name": "Rey Rata",
+          "url": "https://open.spotify.com/artist/0DiBgHVIgP7uCL4ivSIFsA"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146865,
+      "name": "Bang!",
+      "url": "https://open.spotify.com/track/3xVDqIG1dhl6bfbxsKODkZ"
     },
     {
       "album": {
@@ -4380,7 +4398,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 336920,
       "name": "D\u00edas Perfectos",
       "url": "https://open.spotify.com/track/4YJqajgA8lpqJv9mxhtV0Z"
@@ -6583,6 +6601,24 @@
     },
     {
       "album": {
+        "name": "Blnko - Spotify Sessions",
+        "url": "https://open.spotify.com/album/6V6HtJXX8gJ581hynR0Q3H"
+      },
+      "artists": [
+        {
+          "name": "Blnko",
+          "url": "https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209584,
+      "name": "H\u00e1blame Bonito - Spotify Sessions",
+      "url": "https://open.spotify.com/track/6ZRTzseik9o5DkxOslogUJ"
+    },
+    {
+      "album": {
         "name": "IGLESIAS, SHAKESPEARE Y EL S\u00cdNDROME DE TRAUMA RELIGIOSO",
         "url": "https://open.spotify.com/album/4MwdrU1HvzsTAShJaIbZEZ"
       },
@@ -7384,6 +7420,24 @@
       "duration_ms": 3229000,
       "name": "LA NUBE EN EL JARD\u00cdN",
       "url": "https://open.spotify.com/track/26SAoKWE9LyFHDfAkDzN0i"
+    },
+    {
+      "album": {
+        "name": "La Octava Noche (20 a\u00f1os)",
+        "url": "https://open.spotify.com/album/2zCbi1biQutTlYkln1djhp"
+      },
+      "artists": [
+        {
+          "name": "Aurum",
+          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219500,
+      "name": "La Octava Noche - Revisitada",
+      "url": "https://open.spotify.com/track/2FT5bSC9ujLGk8kaxPAlgM"
     },
     {
       "album": {
@@ -11801,6 +11855,24 @@
     },
     {
       "album": {
+        "name": "PPV",
+        "url": "https://open.spotify.com/album/3IJKpmDmGHCDdF6UVf2uyu"
+      },
+      "artists": [
+        {
+          "name": "PERRA BRAVA",
+          "url": "https://open.spotify.com/artist/4ODjjfjx4SqJixJYVqeUrE"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193700,
+      "name": "PPV",
+      "url": "https://open.spotify.com/track/6KS8bwPWTQdi6CHst8OpBu"
+    },
+    {
+      "album": {
         "name": "Preguntas si te Am\u00e9",
         "url": "https://open.spotify.com/album/4T5HiCLIRLthWhSIPAHk3F"
       },
@@ -14678,7 +14750,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 174663,
       "name": "Troleo",
       "url": "https://open.spotify.com/track/23LItei3DFF1Ny4l27lQgE"
@@ -15228,7 +15300,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 249520,
       "name": "Velur",
       "url": "https://open.spotify.com/track/605QBjMSUyvXD5DKgjm8dT"

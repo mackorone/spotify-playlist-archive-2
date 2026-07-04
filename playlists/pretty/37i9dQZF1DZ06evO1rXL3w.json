@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Bowers. The essential tracks, all in one playlist.",
-  "num_followers": 2671,
+  "num_followers": 2673,
   "original_name": "This Is Kris Bowers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAADH2B8X2wstQ7PyoSIgb46z",
+  "snapshot_id": "akWqAAAAAAAbEP4GNinVj8ueAI3SddqG",
   "tracks": [
     {
       "added_at": null,
@@ -284,9 +284,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 83301,
-      "name": "Almost Kiss - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL"
+      "duration_ms": 206185,
+      "name": "Meet Dr. Monro - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/6tyZytD0hsAKUVxerYiR2j"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 206185,
-      "name": "Meet Dr. Monro - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/6tyZytD0hsAKUVxerYiR2j"
+      "duration_ms": 83301,
+      "name": "Almost Kiss - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL"
     },
     {
       "added_at": null,

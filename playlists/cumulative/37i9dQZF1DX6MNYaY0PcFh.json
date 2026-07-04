@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Curvy",
+        "url": "https://open.spotify.com/album/1ItndGKJDLNuraeydCILKE"
+      },
+      "artists": [
+        {
+          "name": "Krafty Kuts",
+          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Curvy",
+      "url": "https://open.spotify.com/track/0XmQaH1RDHsyaddjoXUbf1"
+    },
+    {
+      "album": {
         "name": "Damager",
         "url": "https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB"
       },
@@ -6900,7 +6918,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 215538,
       "name": "Sober",
       "url": "https://open.spotify.com/track/4rlEqGtM0PXoYjQKL2vPLB"

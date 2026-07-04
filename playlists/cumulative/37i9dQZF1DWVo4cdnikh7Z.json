@@ -3513,6 +3513,28 @@
     },
     {
       "album": {
+        "name": "Allipoove (From \"Arulvaan\")",
+        "url": "https://open.spotify.com/album/7co5FQWWMr98307nwfDB0w"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239294,
+      "name": "Allipoove (From \"Arulvaan\")",
+      "url": "https://open.spotify.com/track/0c1wb2AcT9Fgm4suQWDNtn"
+    },
+    {
+      "album": {
         "name": "AMA",
         "url": "https://open.spotify.com/album/2drIyNd5kl5ypgSWGdtRYu"
       },
@@ -14566,7 +14588,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 108833,
       "name": "Folk Kuthu Dance (From \"Texas Tiger\")",
       "url": "https://open.spotify.com/track/04iMormwYIi9bkg07NfUSq"
@@ -17784,7 +17806,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 124704,
       "name": "In the Name of Blood (From \"Karathey Babu\")",
       "url": "https://open.spotify.com/track/4nRi7EYAtsMLjbOoOI70eB"
@@ -37471,6 +37493,28 @@
     },
     {
       "album": {
+        "name": "One Name (From \"Jailer 2\")",
+        "url": "https://open.spotify.com/album/7KWPGNpGsoCAkxdnXR49s4"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "One Name (From \"Jailer 2\")",
+      "url": "https://open.spotify.com/track/4NMe76giWnRILo6nTfvPeP"
+    },
+    {
+      "album": {
         "name": "Only Fans",
         "url": "https://open.spotify.com/album/1yiOp0VQox1dog9oRIgZng"
       },
@@ -45670,7 +45714,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 277532,
       "name": "Saami Thandha Varamea (From \"Arjunan Per Paththu\")",
       "url": "https://open.spotify.com/track/1hkz8Puone5K8mEZk2ctDx"
@@ -51762,7 +51806,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 33620,
       "name": "The Name is Kara",
       "url": "https://open.spotify.com/track/76CnUY4y5Sbrk527rSwNrM"

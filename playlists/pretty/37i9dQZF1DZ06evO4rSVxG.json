@@ -1,12 +1,12 @@
 {
   "description": "This is Tony! Toni! Ton\u00e9!. The essential tracks, all in one playlist.",
-  "num_followers": 15702,
+  "num_followers": 15701,
   "original_name": "This Is Tony! Toni! Ton\u00e9!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAADcPQAaCa7CxnEBQhTP8Vvv",
+  "snapshot_id": "akWqAAAAAABPO8v8rmswnmWL4bA1lzmz",
   "tracks": [
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 335666,
-      "name": "Wild Child",
-      "url": "https://open.spotify.com/track/3ZrEVZGGTNWtQMEW9xXkJU"
+      "duration_ms": 301800,
+      "name": "Holy Smokes & Gee Whiz",
+      "url": "https://open.spotify.com/track/6oy8I8FQl5riiH0zZKDoBU"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW"
         }
       ],
-      "duration_ms": 301800,
-      "name": "Holy Smokes & Gee Whiz",
-      "url": "https://open.spotify.com/track/6oy8I8FQl5riiH0zZKDoBU"
+      "duration_ms": 335666,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/3ZrEVZGGTNWtQMEW9xXkJU"
     },
     {
       "added_at": null,

@@ -1,13 +1,29 @@
 {
-  "description": "Les hits marocains du moment. Cover: Manal, Stormy",
-  "num_followers": 136096,
+  "description": "Les hits marocains du moment. Cover: Lazaro",
+  "num_followers": 136233,
   "original_name": "Hit Maghribi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK62026eEB7Uknu6kIDffVfhMHNs",
+  "snapshot_id": "AAAAANzY9wZHlMSGKPIWVzFAiU01Mywi",
   "tracks": [
+    {
+      "added_at": "2026-06-25 23:00:26",
+      "album": {
+        "name": "ZOMBIE",
+        "url": "https://open.spotify.com/album/2M5qbTJoasDJgZpOW7fvXa"
+      },
+      "artists": [
+        {
+          "name": "LAZARO",
+          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "ZOMBIE",
+      "url": "https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P"
+    },
     {
       "added_at": "2026-06-25 23:00:26",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 213750,
       "name": "SATA 9TTALA",
       "url": "https://open.spotify.com/track/2CxG2gBTQog41ZLJuFj5jo"
-    },
-    {
-      "added_at": "2026-06-25 23:00:26",
-      "album": {
-        "name": "ZOMBIE",
-        "url": "https://open.spotify.com/album/2M5qbTJoasDJgZpOW7fvXa"
-      },
-      "artists": [
-        {
-          "name": "LAZARO",
-          "url": "https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "ZOMBIE",
-      "url": "https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P"
     },
     {
       "added_at": "2026-06-25 23:00:26",

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,600 songs - 3 day 20 hr 14 min
+1,601 songs - 3 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,6 +714,7 @@
 | [Imma Love You](https://open.spotify.com/track/4I8Bk2MvKpZSaNkCJD2U5k) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Steerner](https://open.spotify.com/artist/1TMa2M8BSbJP1rqX83wALz) | [Imma Love You](https://open.spotify.com/album/6OxuyFTWch2iIRisoizBxh) | 2:30 | 2023-02-17 | 2025-08-30 |
 | [In Between](https://open.spotify.com/track/6rTayaf5TGzAfQB6OODOJd) | [LZRD](https://open.spotify.com/artist/6O2ODylN42JL651p1vcIYQ) | [In Between](https://open.spotify.com/album/4LcUx42GpsxkCJEILo5R1Y) | 2:52 | 2019-08-09\* | 2020-03-29 |
 | [In Flames](https://open.spotify.com/track/5W8DSMQe7cbTtKTHY0yEnP) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Lexi Norton](https://open.spotify.com/artist/4jjDncozkOf5MTdXPkBYdV) | [Pyres](https://open.spotify.com/album/6h654pdajm6rzUYVziSx2m) | 3:24 | 2019-08-09\* | 2020-03-29 |
+| [In Love With The Feeling](https://open.spotify.com/track/2wh4iyfqsJJgpuCEFVRbJe) | [The Aston Shuffle](https://open.spotify.com/artist/4Jv9I6DAbcjDa8HGFAjv94) | [In Love With The Feeling](https://open.spotify.com/album/1nrBwTsNTTypGtInESzrOo) | 3:41 | 2026-07-03 |  |
 | [In Love With You \- Radio Edit](https://open.spotify.com/track/7naQOLmmhhhLvDaXI4FH36) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Melo.Kids](https://open.spotify.com/artist/67zbXa7VOBhfFhM5n6AM33) | [In Love With You \(Radio Edit\)](https://open.spotify.com/album/6uKD5yITNbZRNfix9NTcbE) | 2:42 | 2021-02-26 | 2022-05-14 |
 | [In My Arms](https://open.spotify.com/track/0VxJZaBlDPR6Txoj1DubfO) | [Funk Machine](https://open.spotify.com/artist/6U9Xz6BOxbkbQpkSHvquzz), [Rakan](https://open.spotify.com/artist/5lzSBbiehAGDkNqhH3Ishd) | [In My Arms](https://open.spotify.com/album/4YivpKBIQDVwepnAYhKIhT) | 2:59 | 2020-02-22 | 2020-11-14 |
 | [In My Arms](https://open.spotify.com/track/6nJiqVmR1SyAu50GuDenIJ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [In My Arms](https://open.spotify.com/album/5QWkS6NoS33Nf3N0FomUzy) | 3:28 | 2025-05-16 |  |

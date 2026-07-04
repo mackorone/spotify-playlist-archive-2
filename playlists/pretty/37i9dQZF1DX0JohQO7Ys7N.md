@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Mutoriah
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,501 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,511 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 54 | [slow burning.](https://open.spotify.com/track/5U5lHDAuwPX1XjJ4cAWqps) | [3N!](https://open.spotify.com/artist/3FvZoL8GYFyC4AsZUxfAtc), [tugi ndichu](https://open.spotify.com/artist/6V5cXlR568MeLMKHEANbM7) | [slow burning.](https://open.spotify.com/album/7uf5Mi12fGexmZfETSpI1Y) | 3:32 |
 | 55 | [Mema](https://open.spotify.com/track/2FxMPsrwAuC6CS9G33U8Qr) | [Mordecai Dex](https://open.spotify.com/artist/7itqo8Vno3ohE3Ce85aHBL) | [Safari \- Journey Of 1000 Songs](https://open.spotify.com/album/28TW5zkQtpNv5Bz3Qn81HG) | 3:40 |
 | 56 | [Heartbreak Song](https://open.spotify.com/track/5EDdDNPEijkgv5ghNQK3Nl) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heartbreak Song](https://open.spotify.com/album/4s6PcuPpXiHS5XOcZduQJa) | 3:27 |
-| 57 | [Wajue ni wewe](https://open.spotify.com/track/0UPlAIbhAWe3haaO0jTjj0) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO), [Coster Ojwang](https://open.spotify.com/artist/5Enu81gcqNqHxFEYOOae1J) | [Sherehe Ya Disemba](https://open.spotify.com/album/42e58tqc1HUw9fHUqN32aV) | 3:06 |
+| 57 | [Wajue ni wewe](https://open.spotify.com/track/0UPlAIbhAWe3haaO0jTjj0) | [Shad Mziki](https://open.spotify.com/artist/6PeImNdckdZZXtOo2VrhUO) | [Sherehe Ya Disemba](https://open.spotify.com/album/42e58tqc1HUw9fHUqN32aV) | 3:06 |
 | 58 | [Sweetest Time](https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Sweetest Time](https://open.spotify.com/album/1hsqYq7l4qAkEUEbzl1qtW) | 2:34 |
 | 59 | [What I See](https://open.spotify.com/track/7jDkmNjxPQ0F2b7D4agmTG) | [Amara Tari](https://open.spotify.com/artist/03cHERVYQ8yOTu6Pu4DCxd), [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [What I See](https://open.spotify.com/album/1GeUTD1xqgMWH0qzOffTMX) | 2:54 |
 | 60 | [It's You](https://open.spotify.com/track/36Hssha8m6zhPXVjBly6AZ) | [Fancy Fingers](https://open.spotify.com/artist/6GKFK8rXiyBshmwi6CMm0y), [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Love Language](https://open.spotify.com/album/6MJnxLZxoWycbVHLLuejVr) | 3:01 |

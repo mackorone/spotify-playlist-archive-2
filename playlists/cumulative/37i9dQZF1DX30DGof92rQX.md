@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Asim Azhar
 
-547 songs - 1 day 5 hr 28 min
+550 songs - 1 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Bhool Nahi](https://open.spotify.com/track/7a0nFCjGdRWZUkEwDvdtSn) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz) | [Bhool Nahi](https://open.spotify.com/album/3m6kRxCVzKzGNttpkpLY2v) | 3:04 | 2026-03-27 | 2026-06-05 |
 | [Bhuladay](https://open.spotify.com/track/3kc9LG5neh1ReRDRdxJvqg) | [Hamza Akhund](https://open.spotify.com/artist/4jQFSxnugMPz4S9sB88Oiq) | [Bhuladay](https://open.spotify.com/album/4zFBlwlxhKTRJJe5QyW1JL) | 3:44 | 2024-09-27 | 2025-01-17 |
 | [Bhulana Mujhe](https://open.spotify.com/track/62JTgi11hwiuyJChCvKF56) | [ar wattoo](https://open.spotify.com/artist/3LJlHGlfGiibZSj7F5RmOx) | [Bhulana Mujhe](https://open.spotify.com/album/594tOvZMyveshfHdMY9lSw) | 3:00 | 2025-10-17 | 2026-04-11 |
+| [Bhuldi Nai](https://open.spotify.com/track/1Xw6qI3zzbu1tkyTcsrNdQ) | [Saad Sultan](https://open.spotify.com/artist/1OBBbn5fM7Lj0zhlChlgi3) | [Bhuldi Nai](https://open.spotify.com/album/4mNFfTIpRWz2BvpS61hd79) | 3:25 | 2026-07-03 |  |
 | [Biba Sada Dil](https://open.spotify.com/track/4MpxPfrHo6znvmJUwG1odK) | [Bismil](https://open.spotify.com/artist/1dU8OXH7zI79wpLxei4EDu), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Biba Sada Dil](https://open.spotify.com/album/3cIdb5C0FLa49DmoQzTAcj) | 4:09 | 2025-02-28 | 2025-09-18 |
 | [Birthday](https://open.spotify.com/track/2ZtHKspQgJ0NB4IaiFBuZx) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Dreams](https://open.spotify.com/album/2Dxh8OopbagzxRU4EqrYNs) | 2:55 | 2024-09-09 | 2024-09-28 |
 | [Bus Aik Pal](https://open.spotify.com/track/68HFPvONRDtkVycTQoIBhd) | [Bilal Khan](https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI) | [Bus Aik Pal](https://open.spotify.com/album/73KivnhTZwAFwiDar3aTS0) | 4:10 | 2026-05-15 |  |
@@ -232,6 +233,7 @@
 | [Juda](https://open.spotify.com/track/0OgPxgZ56SYtZvB3mxwmoU) | [Abeer Nomani](https://open.spotify.com/artist/45wayB3R3lVfU5AtZhF5Ux), [Ahad Husain](https://open.spotify.com/artist/4LeGmBrvNFs5lT5anM65s2) | [Juda](https://open.spotify.com/album/0TcBzYDROHu4ocr14HupBT) | 2:44 | 2024-06-28 | 2024-08-10 |
 | [Judai](https://open.spotify.com/track/2wZvpX0owdzYg8e8HSfIgV) | [Ali & Shjr](https://open.spotify.com/artist/7GquqOIWZX7FNjsUYNjOKy), [Ali Raza](https://open.spotify.com/artist/2URzIJH7QfPgMAEPErd0cC), [Shajjar Hussain](https://open.spotify.com/artist/485dW6YyuxW3kpnWmuFnnv) | [Judai](https://open.spotify.com/album/3IZe3XakLgSYMVsVcF4XlX) | 3:00 | 2025-05-02 | 2025-09-18 |
 | [Judai](https://open.spotify.com/track/74HUAcGhQ0WFwHD0qAiMwn) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Judai](https://open.spotify.com/album/64zUrOxD2z5irNZ99gZsxr) | 2:26 | 2025-10-03 | 2025-12-13 |
+| [Judai](https://open.spotify.com/track/0dIc1TF9GOxbtZtl1lmr5c) | [Saad Hassan](https://open.spotify.com/artist/3mHp9Ih5L1ramMAddBND3T) | [Judai](https://open.spotify.com/album/2ktS1jruDiSf9eBF7snNWz) | 2:53 | 2026-07-03 |  |
 | [JUNE](https://open.spotify.com/track/6LS6MOpng7zYCO3wfSKBTS) | [Muaz Sattar](https://open.spotify.com/artist/3wPSWZS5LyapP2x0kco8WP) | [JUNE](https://open.spotify.com/album/1qCd5sH6WGnmmSOzTqugA3) | 2:40 | 2024-06-28 | 2025-01-17 |
 | [kaash](https://open.spotify.com/track/2FO9i1iQw067Kxn6WDhd6t) | [RAAMIS](https://open.spotify.com/artist/004cRPgBOiWUUsu3mXXd1W), [Samar Jafri](https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq) | [her](https://open.spotify.com/album/0pye3GvMuudhjVYIvtq16Y) | 2:55 | 2024-06-28 | 2025-01-17 |
 | [Kaava](https://open.spotify.com/track/1LCvfc2SvDnxfIxkesDZEO) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Love Language](https://open.spotify.com/album/20Ar139mlrKYQWhCJS55iO) | 2:45 | 2025-08-01 | 2025-09-10 |
@@ -414,6 +416,7 @@
 | [Real Riders](https://open.spotify.com/track/4xQSrz6iso0WaBFoDVFjkA) | [Teesh Beats](https://open.spotify.com/artist/1Ozwo8oxF3WWaypWAUPiyX) | [Real Riders](https://open.spotify.com/album/3xwefpjYGKVRkFsFqZHsrK) | 3:39 | 2025-12-12 | 2026-01-31 |
 | [Regardless](https://open.spotify.com/track/1N5IwvKPg7PZeGi9Pvzvdo) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Regardless](https://open.spotify.com/album/6vbJkwWBaS7iKBHfQJM9ua) | 3:44 | 2025-06-23 | 2025-10-18 |
 | [Rehmat](https://open.spotify.com/track/4r8mhO7cHAztTNMGxpq46g) | [Aizaz Ahmad](https://open.spotify.com/artist/3xkvwr9tqSLpMjvQ9TCKmm), [Aqib Afzal](https://open.spotify.com/artist/2DywjxmlsN1lyybhEzBiJ9) | [Rehmat](https://open.spotify.com/album/3dVI0e0Zn6m08ZoNPQEXFc) | 3:25 | 2025-07-25 | 2025-08-16 |
+| [Restless](https://open.spotify.com/track/65ARiqajzzTBPc2QPR1QtA) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Restless](https://open.spotify.com/album/4GZxnXeQbB84bZsl04jH8y) | 2:06 | 2026-07-03 |  |
 | [Rocket Launcher](https://open.spotify.com/track/1oHlhSevYO99K6RG2w0RXN) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Rocket Launcher](https://open.spotify.com/album/0A65EHDQRYwVEB19JOhMKw) | 2:48 | 2025-06-26 | 2025-08-09 |
 | [ROCKIT](https://open.spotify.com/track/3DAiQK6TbhTbF7pEDEdqL1) | [Hamza Jahangir](https://open.spotify.com/artist/6JIeeCINgVPeCxowfoOBmo), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [ROCKIT](https://open.spotify.com/album/5JJLVNrPvXcwOqcUIZNksw) | 2:10 | 2025-05-16 | 2025-08-02 |
 | [Rog](https://open.spotify.com/track/7al2iAvG5sWAvK15NJgyIt) | [Rabi Ahmed](https://open.spotify.com/artist/7o7GKafH7LeVDLVzl2kTsn), [Zahid Jaggi](https://open.spotify.com/artist/56cO7nXqr5US1gvzghPUiZ), [Aalehaider Gillani](https://open.spotify.com/artist/36oQ9VCIlkevaIa1Mi6hmA), [Mehwish Chaudhary](https://open.spotify.com/artist/4cM4l4eswrLZH6v63br8wC) | [Rog](https://open.spotify.com/album/0ee9GTcwla0fJXzHMxqHu2) | 2:57 | 2026-04-24 |  |

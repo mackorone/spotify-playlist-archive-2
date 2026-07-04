@@ -1,12 +1,12 @@
 {
-  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with KETTAMA & Partiboi69",
-  "num_followers": 1828360,
+  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with Marlon Hoffstadt",
+  "num_followers": 1828198,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIfmaVpvrwFBBu3rMCHDbTLa03hv",
+  "snapshot_id": "AAAAAKGtC14uqbTlwVGRiyYD5a3am6ue",
   "tracks": [
     {
       "added_at": "2026-05-29 04:01:19",
@@ -33,6 +33,22 @@
       "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"
     },
     {
+      "added_at": "2026-07-03 04:01:30",
+      "album": {
+        "name": "Party People",
+        "url": "https://open.spotify.com/album/6Q7IXlfNjrI7S3oyc6lcLD"
+      },
+      "artists": [
+        {
+          "name": "Marlon Hoffstadt",
+          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+        }
+      ],
+      "duration_ms": 193653,
+      "name": "Party People",
+      "url": "https://open.spotify.com/track/4Rbj7CS2UJq6ehpZgiY7Kw"
+    },
+    {
       "added_at": "2026-06-26 04:00:59",
       "album": {
         "name": "Pumpin",
@@ -51,6 +67,30 @@
       "duration_ms": 211197,
       "name": "Pumpin",
       "url": "https://open.spotify.com/track/51KLyIiHMGywXh2yh9Lk5d"
+    },
+    {
+      "added_at": "2026-06-26 04:00:59",
+      "album": {
+        "name": "Can't Say Nah (feat. Benni Ola)",
+        "url": "https://open.spotify.com/album/0AuEj2bM9gDOf4tNzBpOjW"
+      },
+      "artists": [
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Benni Ola",
+          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Can't Say Nah (feat. Benni Ola)",
+      "url": "https://open.spotify.com/track/1wQYUksfWhqFKcoQzjHGHO"
     },
     {
       "added_at": "2026-06-19 04:00:39",
@@ -83,6 +123,22 @@
       "duration_ms": 217611,
       "name": "Best Be Believing",
       "url": "https://open.spotify.com/track/30pPf3bjXSL07zF613iHLF"
+    },
+    {
+      "added_at": "2026-07-03 04:01:30",
+      "album": {
+        "name": "Smalltown Boy",
+        "url": "https://open.spotify.com/album/1hwUID1QuiH75DSxJJhnwW"
+      },
+      "artists": [
+        {
+          "name": "Koti\u0113r",
+          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV"
     },
     {
       "added_at": "2026-06-19 04:00:39",
@@ -125,30 +181,6 @@
       "url": "https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V"
     },
     {
-      "added_at": "2026-06-26 04:00:59",
-      "album": {
-        "name": "Can't Say Nah (feat. Benni Ola)",
-        "url": "https://open.spotify.com/album/0AuEj2bM9gDOf4tNzBpOjW"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "Benni Ola",
-          "url": "https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Can't Say Nah (feat. Benni Ola)",
-      "url": "https://open.spotify.com/track/1wQYUksfWhqFKcoQzjHGHO"
-    },
-    {
       "added_at": "2026-06-19 04:00:39",
       "album": {
         "name": "Invisible",
@@ -169,20 +201,20 @@
       "url": "https://open.spotify.com/track/2dt5AmiiAA7dOhE1xws9qY"
     },
     {
-      "added_at": "2026-06-26 04:00:59",
+      "added_at": "2026-07-03 04:01:30",
       "album": {
-        "name": "Anaconda",
-        "url": "https://open.spotify.com/album/3bYo2FlkgCAdGQxsKbu3lq"
+        "name": "Look Into My Eyes",
+        "url": "https://open.spotify.com/album/1tneLNsSg6WqawX5eDGwF9"
       },
       "artists": [
         {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+          "name": "Obsk\u00fcr",
+          "url": "https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx"
         }
       ],
-      "duration_ms": 216861,
-      "name": "Anaconda",
-      "url": "https://open.spotify.com/track/2ZAWKUdW7jcRwYsQgKWheu"
+      "duration_ms": 176969,
+      "name": "Look Into My Eyes",
+      "url": "https://open.spotify.com/track/1zcK0NoULhS0ty8uimR5ja"
     },
     {
       "added_at": "2026-05-15 04:01:08",
@@ -219,6 +251,30 @@
       "duration_ms": 221805,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/4fZLc0wDQI58O19N5rkK2K"
+    },
+    {
+      "added_at": "2026-07-03 04:01:30",
+      "album": {
+        "name": "PLZ HOLD (feat. Tkay Maidza)",
+        "url": "https://open.spotify.com/album/1R2M8bDvkMwoJ7hazDb8tD"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 145592,
+      "name": "PLZ HOLD (feat. Tkay Maidza)",
+      "url": "https://open.spotify.com/track/1vKQshIjVUhyg99UbCyeMp"
     },
     {
       "added_at": "2026-06-19 04:00:39",
@@ -315,22 +371,6 @@
     {
       "added_at": "2026-06-19 04:00:39",
       "album": {
-        "name": "Feel",
-        "url": "https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Feel",
-      "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
-    },
-    {
-      "added_at": "2026-06-19 04:00:39",
-      "album": {
         "name": "Beautiful Noise In My Head",
         "url": "https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N"
       },
@@ -359,6 +399,38 @@
       "duration_ms": 231680,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf"
+    },
+    {
+      "added_at": "2026-06-19 04:00:39",
+      "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/2kVboAU8NCpgRBT7VyHcK1"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/3mxwrp5v4TcWK1T4MsXdcs"
+    },
+    {
+      "added_at": "2026-06-26 04:00:59",
+      "album": {
+        "name": "Anaconda",
+        "url": "https://open.spotify.com/album/3bYo2FlkgCAdGQxsKbu3lq"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 216861,
+      "name": "Anaconda",
+      "url": "https://open.spotify.com/track/2ZAWKUdW7jcRwYsQgKWheu"
     },
     {
       "added_at": "2026-05-29 04:01:19",
@@ -397,72 +469,20 @@
       "url": "https://open.spotify.com/track/4bqLhWkEv7csb51jN98YeT"
     },
     {
-      "added_at": "2026-06-05 04:00:40",
+      "added_at": "2026-07-03 04:01:30",
       "album": {
-        "name": "that's my beach!",
-        "url": "https://open.spotify.com/album/5k7qkM1p2MhUi4ES3uTtd6"
+        "name": "Ultramoon",
+        "url": "https://open.spotify.com/album/6O8GMEXbeYI10TNpsTVvKW"
       },
       "artists": [
         {
-          "name": "horsegiirL",
-          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
         }
       ],
-      "duration_ms": 198750,
-      "name": "that's my beach!",
-      "url": "https://open.spotify.com/track/1MtlL1N2wTI08qiMjcwEu7"
-    },
-    {
-      "added_at": "2026-06-19 04:00:39",
-      "album": {
-        "name": "Why Does It",
-        "url": "https://open.spotify.com/album/04YiGYUSKmO4qfScsWO0Qm"
-      },
-      "artists": [
-        {
-          "name": "Paperwater",
-          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
-        },
-        {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Why Does It",
-      "url": "https://open.spotify.com/track/6V7XAURee1enPt7ri3rJhx"
-    },
-    {
-      "added_at": "2026-06-26 04:00:59",
-      "album": {
-        "name": "ROUND & ROUND",
-        "url": "https://open.spotify.com/album/0eKrFiYJK5RhlqELhsSxqi"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 224841,
-      "name": "ROUND & ROUND",
-      "url": "https://open.spotify.com/track/3O70fX1mURzZI5lXd42JEq"
-    },
-    {
-      "added_at": "2026-06-12 04:00:58",
-      "album": {
-        "name": "U",
-        "url": "https://open.spotify.com/album/7q301yxHP0Ct6EmfRO88FK"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Calling Out For U",
-      "url": "https://open.spotify.com/track/7yal3wkT7U1BEDdKW9dZ9V"
+      "duration_ms": 256526,
+      "name": "Ultramoon",
+      "url": "https://open.spotify.com/track/5qbjYuBa1o7uHwMhl779jV"
     },
     {
       "added_at": "2026-06-26 04:00:59",
@@ -483,6 +503,58 @@
       "duration_ms": 176363,
       "name": "without U",
       "url": "https://open.spotify.com/track/3ywCS8EmyPkMYsnOs1wy7s"
+    },
+    {
+      "added_at": "2026-06-05 04:00:40",
+      "album": {
+        "name": "that's my beach!",
+        "url": "https://open.spotify.com/album/5k7qkM1p2MhUi4ES3uTtd6"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "that's my beach!",
+      "url": "https://open.spotify.com/track/1MtlL1N2wTI08qiMjcwEu7"
+    },
+    {
+      "added_at": "2026-06-12 04:00:58",
+      "album": {
+        "name": "U",
+        "url": "https://open.spotify.com/album/7q301yxHP0Ct6EmfRO88FK"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Calling Out For U",
+      "url": "https://open.spotify.com/track/7yal3wkT7U1BEDdKW9dZ9V"
+    },
+    {
+      "added_at": "2026-06-19 04:00:39",
+      "album": {
+        "name": "Why Does It",
+        "url": "https://open.spotify.com/album/04YiGYUSKmO4qfScsWO0Qm"
+      },
+      "artists": [
+        {
+          "name": "Paperwater",
+          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
+        },
+        {
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Why Does It",
+      "url": "https://open.spotify.com/track/6V7XAURee1enPt7ri3rJhx"
     },
     {
       "added_at": "2026-06-12 04:00:58",
@@ -631,6 +703,22 @@
       "duration_ms": 195480,
       "name": "Joy Without Sound",
       "url": "https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF"
+    },
+    {
+      "added_at": "2026-06-26 04:00:59",
+      "album": {
+        "name": "ROUND & ROUND",
+        "url": "https://open.spotify.com/album/0eKrFiYJK5RhlqELhsSxqi"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 224841,
+      "name": "ROUND & ROUND",
+      "url": "https://open.spotify.com/track/3O70fX1mURzZI5lXd42JEq"
     },
     {
       "added_at": "2026-06-12 04:00:58",
@@ -957,26 +1045,6 @@
       "url": "https://open.spotify.com/track/4Lgbp0ZVCTLLCf99bwPTVi"
     },
     {
-      "added_at": "2026-06-26 04:00:59",
-      "album": {
-        "name": "HANGOVER GIRL",
-        "url": "https://open.spotify.com/album/4KzO8wGVIUOguCqVWoG70t"
-      },
-      "artists": [
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
-        },
-        {
-          "name": "Miss Bashful",
-          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
-        }
-      ],
-      "duration_ms": 184225,
-      "name": "HANGOVER GIRL",
-      "url": "https://open.spotify.com/track/4IRpoipsrAESkDp5fxW4b9"
-    },
-    {
       "added_at": "2026-06-19 04:00:39",
       "album": {
         "name": "Thing About You",
@@ -1065,6 +1133,26 @@
       "url": "https://open.spotify.com/track/4JZCJxqwRond3dcrywlNnz"
     },
     {
+      "added_at": "2026-06-26 04:00:59",
+      "album": {
+        "name": "HANGOVER GIRL",
+        "url": "https://open.spotify.com/album/4KzO8wGVIUOguCqVWoG70t"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        },
+        {
+          "name": "Miss Bashful",
+          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
+        }
+      ],
+      "duration_ms": 184225,
+      "name": "HANGOVER GIRL",
+      "url": "https://open.spotify.com/track/4IRpoipsrAESkDp5fxW4b9"
+    },
+    {
       "added_at": "2026-05-01 04:00:20",
       "album": {
         "name": "No Rules EP",
@@ -1095,22 +1183,6 @@
       "duration_ms": 205161,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/27A97G7jTpRWeX3E4LpQEs"
-    },
-    {
-      "added_at": "2026-04-24 04:00:48",
-      "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/0zJrpG5MSBZ2qAiTYRFGmQ"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 137682,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/20uABzxxuEjNVbMYgHUPa6"
     },
     {
       "added_at": "2026-04-24 04:00:48",
@@ -1157,22 +1229,6 @@
       "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
     },
     {
-      "added_at": "2026-04-10 04:00:45",
-      "album": {
-        "name": "Ain't With That (Late Night Callin')",
-        "url": "https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh"
-      },
-      "artists": [
-        {
-          "name": "Julian Fijma",
-          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Ain't With That (Late Night Callin')",
-      "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH"
-    },
-    {
       "added_at": "2026-05-15 04:01:08",
       "album": {
         "name": "Journey EP",
@@ -1207,22 +1263,6 @@
       "duration_ms": 160025,
       "name": "Swagger Sound",
       "url": "https://open.spotify.com/track/3huOaiSWe9zJJYwu4M6MsP"
-    },
-    {
-      "added_at": "2026-05-22 04:01:06",
-      "album": {
-        "name": "EUROCLUB II",
-        "url": "https://open.spotify.com/album/1EponlkVtP06EVU7xEz1op"
-      },
-      "artists": [
-        {
-          "name": "EUROCLUB",
-          "url": "https://open.spotify.com/artist/0O4Hy2bjefsM76Enm55XkR"
-        }
-      ],
-      "duration_ms": 163034,
-      "name": "DEJA VU",
-      "url": "https://open.spotify.com/track/0OgheDXBeWdcSPNO7QkZPz"
     },
     {
       "added_at": "2026-06-26 04:00:59",
@@ -1317,26 +1357,6 @@
       "url": "https://open.spotify.com/track/1MttZtFQZkkCWbkeFfdKVQ"
     },
     {
-      "added_at": "2026-04-03 04:01:03",
-      "album": {
-        "name": "Let's Get Down",
-        "url": "https://open.spotify.com/album/0zCxFXy6hVSLLmXPDKfb0R"
-      },
-      "artists": [
-        {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
-        },
-        {
-          "name": "Supafly",
-          "url": "https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Let's Get Down",
-      "url": "https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx"
-    },
-    {
       "added_at": "2026-03-27 04:00:09",
       "album": {
         "name": "Spirit Higher",
@@ -1387,26 +1407,6 @@
       "duration_ms": 302044,
       "name": "EVERYTHING IN ITS RIGHT PLACE",
       "url": "https://open.spotify.com/track/03p9MCjq5ld1kRmqCGNXgs"
-    },
-    {
-      "added_at": "2026-02-27 05:00:40",
-      "album": {
-        "name": "Ghost Dance",
-        "url": "https://open.spotify.com/album/3OCShZ7NWWQIBte2YbBDZB"
-      },
-      "artists": [
-        {
-          "name": "Brunello",
-          "url": "https://open.spotify.com/artist/7FZIk8RSha4GBa4ZEPuytU"
-        },
-        {
-          "name": "Vargas",
-          "url": "https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb"
-        }
-      ],
-      "duration_ms": 372480,
-      "name": "Ghost Dance",
-      "url": "https://open.spotify.com/track/3x6CEyquRREaQ9ZBbBhrGe"
     },
     {
       "added_at": "2026-03-06 05:00:04",

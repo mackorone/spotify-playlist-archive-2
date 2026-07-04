@@ -4,7 +4,7 @@
 
 > Brand new music from Madonna, SIENNA SPIRO, Jorja Smith and more!
 
-22,529 songs - 50 day 20 hr 9 min
+22,529 songs - 50 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4237,6 +4237,7 @@
 | [CSI: Petralona](https://open.spotify.com/track/0HM1aGWYMpg6fa9745tIBX) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [CSI: Petralona](https://open.spotify.com/album/3vlnDPH2zbJl9fQ1S4MeIl) | 4:25 | 2023-02-03 | 2023-02-10 |
 | [CTB](https://open.spotify.com/track/20xxyjhCdDE9nlaZXy4jYX) | [Bola G](https://open.spotify.com/artist/1byq8HVOnl7zWHvVauL47Z), [Jrilla](https://open.spotify.com/artist/2PRaSVqPQoBgmpJfnliAgh) | [CTB](https://open.spotify.com/album/3ZpuOaOl59LWlU2Bz5Ufu4) | 2:56 | 2023-02-03 | 2023-02-10 |
 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 | 2023-02-10 | 2023-02-17 |
+| [Cubase](https://open.spotify.com/track/1MY06Ndfegza0SDyEeOEHM) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl), [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Grouchism](https://open.spotify.com/album/6NpnNKqsppcobQB1IXzsuA) | 1:51 | 2026-07-02 |  |
 | [cubicles](https://open.spotify.com/track/5WJFP7pf2fLjPdG5dqGRlY) | [Michael Aldag](https://open.spotify.com/artist/2e1NO2tyaMZajNoWe71ZiJ) | [cubicles](https://open.spotify.com/album/4UmbKE0B3q8Noz6hFA22Nr) | 2:48 | 2024-03-01 | 2024-03-08 |
 | [cul\-de\-sac](https://open.spotify.com/track/3oKp6fXFbkl9cySo4EGSc1) | [Maya J'an](https://open.spotify.com/artist/7znlSKgiiwunbWZyZbPpc0) | [cul\-de\-sac](https://open.spotify.com/album/0sKV8WbhYnyyh9A1OvWxgP) | 3:16 | 2026-01-09 | 2026-01-16 |
 | [Cult of Celebrity](https://open.spotify.com/track/2ptN3AC6mPNdtLrJaeOEQV) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Cult of Celebrity](https://open.spotify.com/album/0WI41FEVRdFwjcVdrTSBrm) | 2:13 | 2026-04-03 | 2026-04-10 |
@@ -5615,7 +5616,7 @@
 | [easy come, easy go](https://open.spotify.com/track/5PBgZay3xweMFXwFeOHt7l) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [easy come, easy go](https://open.spotify.com/album/4MipiuAkMUsERLt3w1A3H0) | 3:06 | 2025-08-14 | 2025-08-23 |
 | [Easy Days](https://open.spotify.com/track/5apw7C5z0XtCZlTex1HPcl) | [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [Easy Days](https://open.spotify.com/album/5POZKjHyuA4QRcKveNZZU9) | 2:28 | 2023-10-05 | 2023-10-13 |
 | [Easy Distraction](https://open.spotify.com/track/2zLek2ZAy5bZiLmiyUWcMw) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Easy Distraction](https://open.spotify.com/album/0zHgc3eS8X20SdPkJhPRgF) | 3:50 | 2024-08-29 | 2024-09-06 |
-| [Easy Does It](https://open.spotify.com/track/0Vu83oUXy0mRy9PBLaAYeg) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [chameleon](https://open.spotify.com/artist/5F8XCTyivrgX7o3rghj8vO) | [Easy Does It](https://open.spotify.com/album/3GFs7Ptq8dohpYJxywo8Va) | 2:56 | 2026-07-02 |  |
+| [Easy Does It](https://open.spotify.com/track/0Vu83oUXy0mRy9PBLaAYeg) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [Easy Does It](https://open.spotify.com/album/3GFs7Ptq8dohpYJxywo8Va) | 2:56 | 2026-07-02 |  |
 | [Easy Fun](https://open.spotify.com/track/12AeJUHzISOLC03kGHxUQJ) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Easy Fun](https://open.spotify.com/album/0tYGDDSXTd5aCbvK2fGjqy) | 2:49 | 2023-11-17 | 2023-11-24 |
 | [Easy Goodbye](https://open.spotify.com/track/1XLbwHRA90LSQMSiaJRhJN) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Easy Goodbye](https://open.spotify.com/album/6g3tbC8kDxONtGl1eYJwGx) | 4:14 | 2025-07-17 | 2025-07-25 |
 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 | 2025-05-29 | 2025-06-06 |
@@ -7364,7 +7365,7 @@
 | [Get On My Level](https://open.spotify.com/track/2GdjCj0PxUXzeRAEwcQlN5) | [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Get On My Level](https://open.spotify.com/album/4B27yyo5BXJC8hSCIc72rN) | 3:46 | 2026-05-07 | 2026-05-15 |
 | [Get On My Love](https://open.spotify.com/track/60REZmVNnLB2846rcsEoJJ) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Get On My Love](https://open.spotify.com/album/2O2RFVGO34vGbxo391JhdC) | 2:53 | 2022-11-25 | 2022-12-02 |
 | [Get On The Floor](https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Get On The Floor EP](https://open.spotify.com/album/78DyUWTOfsZW2VHnuTvIB4) | 6:28 | 2023-07-13 | 2023-07-21 |
-| [Get on Up \(Main\)](https://open.spotify.com/track/0J4le9XNkoy9dGk7qUJaMy) | [REESE](https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX), [Futosé](https://open.spotify.com/artist/6FeeyXqknRHo5IhqaqKe4L) | [Get On Up](https://open.spotify.com/album/4FOQLPK1UqhgMFlvRGg0lQ) | 2:38 | 2026-07-02 |  |
+| [Get on Up](https://open.spotify.com/track/0J4le9XNkoy9dGk7qUJaMy) | [REESE](https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX), [Futosé](https://open.spotify.com/artist/6FeeyXqknRHo5IhqaqKe4L) | [Get On Up](https://open.spotify.com/album/4FOQLPK1UqhgMFlvRGg0lQ) | 2:38 | 2026-07-02 |  |
 | [Get on You](https://open.spotify.com/track/4T6XbBGr4cnSfs0NhrzBgr) | [Winnie Ama](https://open.spotify.com/artist/4DJIumnofpauv3dYkgZSv1) | [Get on You](https://open.spotify.com/album/0tR7tgNy0OIi1siFxxmtIu) | 2:58 | 2023-06-01 | 2023-06-09 |
 | [Get Out](https://open.spotify.com/track/5ERyOjxbrhVZfwAPpX2O6G) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Get Out](https://open.spotify.com/album/4ckU05Gz1l6kf4buoNG4Ay) | 2:58 | 2024-04-19 | 2024-04-26 |
 | [Get Outta Here](https://open.spotify.com/track/495Wq1TcHmzEfDOym4BqCr) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0), [Basslayerz](https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew) | [Get Outta Here](https://open.spotify.com/album/21HJSnokIUBrff02ohoMGh) | 2:38 | 2025-02-21 | 2025-02-28 |
@@ -20309,7 +20310,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-08 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-07-04 |
 | [Tracing Lines](https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL) | [Deaf Havana](https://open.spotify.com/artist/0exhrQcReCdr11oPbOh22M) | [Tracing Lines](https://open.spotify.com/album/7EdSp9CD44UYEzHTbWiWBD) | 4:06 | 2025-09-18 | 2025-09-26 |
-| [Track 5](https://open.spotify.com/track/1MY06Ndfegza0SDyEeOEHM) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4) | [Grouchism](https://open.spotify.com/album/6NpnNKqsppcobQB1IXzsuA) | 0:00 | 2026-07-02 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-04-24 |
 | [Tracksuit](https://open.spotify.com/track/0QXNgg60Ck504AdrheBAox) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4) | [Tracksuit](https://open.spotify.com/album/0DMYE3JEGsx1qllM7ZjjMH) | 2:30 | 2026-05-07 | 2026-05-15 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-27 | 2026-04-03 |

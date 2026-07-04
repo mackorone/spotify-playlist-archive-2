@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-28",
-  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:5QSfJ3Ny5A3AAmv2gg1pCk\">Bimini</a>",
+  "description": "From the LGBTQIA+ songwriters that make the music happen. This month's cover: <a href=\"spotify:artist:6prmLEyn4LfHlD9NnXWlf7\">Adam Lambert</a>",
   "name": "GLOW Songwriters",
   "tracks": [
     {
@@ -260,7 +260,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 193599,
       "name": "All Love",
       "url": "https://open.spotify.com/track/7iv32XEy2HlM7PqQO4lp5f"
@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "EAT U ALIVE",
+        "url": "https://open.spotify.com/album/1KnVvQD6Ocog6Zeq3NgCXz"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168883,
+      "name": "EAT U ALIVE",
+      "url": "https://open.spotify.com/track/44LDn5P547NAnNmJGX9BzK"
+    },
+    {
+      "album": {
         "name": "who's loving you?",
         "url": "https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR"
       },
@@ -1479,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "The Original High",
+        "url": "https://open.spotify.com/album/6hN2y18fg4KVGMaltxfdXZ"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208330,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/0ALTA9qTr8AQ8BmGifY2O8"
+    },
+    {
+      "album": {
         "name": "Ego Death",
         "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
       },
@@ -1624,7 +1660,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 196760,
       "name": "High",
       "url": "https://open.spotify.com/track/2LseyBkPJv7r7wCt2yMEgX"
@@ -1982,7 +2018,7 @@
       ],
       "date_added": "2025-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 374306,
       "name": "Invisible Light",
       "url": "https://open.spotify.com/track/2BKp5xjA6Y6ZfN1eyY0hNg"
@@ -2890,7 +2926,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 253342,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
@@ -3461,6 +3497,28 @@
     },
     {
       "album": {
+        "name": "The Machine",
+        "url": "https://open.spotify.com/album/6SR2jCLdkMVNSHso9g4J6J"
+      },
+      "artists": [
+        {
+          "name": "Samantha Togni",
+          "url": "https://open.spotify.com/artist/2wVCP4V6swQTH7hy4Bc3eC"
+        },
+        {
+          "name": "Skin",
+          "url": "https://open.spotify.com/artist/0HIhHN1AjF18APmk5yIEZY"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267974,
+      "name": "The Machine",
+      "url": "https://open.spotify.com/track/6vSaxMtq2NbDwImb3OQ6pZ"
+    },
+    {
+      "album": {
         "name": "The Village",
         "url": "https://open.spotify.com/album/1tVsOrPK4fwQB6kN7jIZxy"
       },
@@ -3764,6 +3822,24 @@
       "duration_ms": 159402,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/6NbXVdpQep2wNcmVzWYOSt"
+    },
+    {
+      "album": {
+        "name": "UNDER THE RHYTHM",
+        "url": "https://open.spotify.com/album/57o1oYWFqqV8X3M6Au9y4j"
+      },
+      "artists": [
+        {
+          "name": "Adam Lambert",
+          "url": "https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170083,
+      "name": "UNDER THE RHYTHM",
+      "url": "https://open.spotify.com/track/1XgTPwIdU5LawlT6IQOLsa"
     },
     {
       "album": {

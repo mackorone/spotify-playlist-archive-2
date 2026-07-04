@@ -1,6 +1,6 @@
 {
   "description": "Le plus chauds d'Afrique Francophone. Cover: Aya Nakamura",
-  "num_followers": 16428,
+  "num_followers": 16486,
   "original_name": "Francophone.wav",
   "owner": {
     "name": "Spotify",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-06-26 00:01:48",
       "album": {
-        "name": "Champagne",
-        "url": "https://open.spotify.com/album/3SMcEleyk37pji0boeVbSg"
-      },
-      "artists": [
-        {
-          "name": "RJ Kanierra",
-          "url": "https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx"
-        }
-      ],
-      "duration_ms": 214777,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/02KQ3XZFUwq7B02nPS71fG"
-    },
-    {
-      "added_at": "2026-06-26 00:01:48",
-      "album": {
         "name": "C Komen ?",
         "url": "https://open.spotify.com/album/0vUMWwABXMTf5YBHGxB4CA"
       },
@@ -1111,18 +1095,34 @@
     {
       "added_at": "2026-06-26 00:01:48",
       "album": {
-        "name": "Chebaba",
-        "url": "https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74"
+        "name": "Champagne",
+        "url": "https://open.spotify.com/album/3SMcEleyk37pji0boeVbSg"
       },
       "artists": [
         {
-          "name": "DOUPI PAPILLON",
-          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
+          "name": "RJ Kanierra",
+          "url": "https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx"
         }
       ],
-      "duration_ms": 202058,
-      "name": "Chebaba",
-      "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
+      "duration_ms": 214777,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/02KQ3XZFUwq7B02nPS71fG"
+    },
+    {
+      "added_at": "2026-06-26 00:01:48",
+      "album": {
+        "name": "Ma nana",
+        "url": "https://open.spotify.com/album/5NY6ywibyRG6oAJK0qBCba"
+      },
+      "artists": [
+        {
+          "name": "Dk2fois",
+          "url": "https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ"
+        }
+      ],
+      "duration_ms": 197285,
+      "name": "Ma nana",
+      "url": "https://open.spotify.com/track/3WPz3d5hQwYRaAmYqQOFaj"
     },
     {
       "added_at": "2026-06-26 00:01:48",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2026-06-26 00:01:48",
       "album": {
-        "name": "Ma nana",
-        "url": "https://open.spotify.com/album/5NY6ywibyRG6oAJK0qBCba"
+        "name": "Chebaba",
+        "url": "https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74"
       },
       "artists": [
         {
-          "name": "Dk2fois",
-          "url": "https://open.spotify.com/artist/3532P4f6wikwfG2uvxXRnQ"
+          "name": "DOUPI PAPILLON",
+          "url": "https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le"
         }
       ],
-      "duration_ms": 197285,
-      "name": "Ma nana",
-      "url": "https://open.spotify.com/track/3WPz3d5hQwYRaAmYqQOFaj"
+      "duration_ms": 202058,
+      "name": "Chebaba",
+      "url": "https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO"
     },
     {
       "added_at": "2026-06-26 00:01:48",

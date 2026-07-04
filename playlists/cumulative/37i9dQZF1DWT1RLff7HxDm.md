@@ -4,7 +4,7 @@
 
 > All live, all blues\. Cover: Samantha Fish
 
-181 songs - 18 hr 28 min
+182 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [No Time For Cryin' \- Live](https://open.spotify.com/track/7ICAeoqGimtKtsO8uAzHD0) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Live in London](https://open.spotify.com/album/4BfLqEBgeWe4JTrUQ0O2mX) | 5:22 | 2020-10-30 | 2024-04-19 |
 | [Nobody Knows You When You're Down And Out \- Live at LOCKN' / 2019](https://open.spotify.com/track/4FMbcfFciaUaqkEqMFX3Yi) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO), [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Nobody Knows You When You're Down And Out \(Live at LOCKN' / 2019\)](https://open.spotify.com/album/4tLJMRwsUQdvjcbUUJx9Nu) | 4:59 | 2021-05-21 |  |
 | [Nobody Knows You When You're Down And Out \- Live at LOCKN' / 2019](https://open.spotify.com/track/5kV1sqmhNp1ScB6akb8SMJ) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO), [Trey Anastasio](https://open.spotify.com/artist/3Felk6Y6jjU00yE1XTOqKZ) | [Layla Revisited \(Live at LOCKN'\)](https://open.spotify.com/album/6O5gWyGfpV47SgllhnoaK2) | 4:59 | 2021-05-21 | 2024-04-19 |
+| [Nobody Loves Me Like You \- Live at the Omeara London](https://open.spotify.com/track/2TdWLZgW3BtdbIS9C8EWjB) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [Nobody Loves Me Like You \(Live at the Omeara London\)](https://open.spotify.com/album/2V8H60zT5RPJwuvShGmGIa) | 5:00 | 2026-07-03 |  |
 | [Once \(Live\)](https://open.spotify.com/track/6TRVGLQPkKtDr1JxKkEBXC) | [Philip Sayce](https://open.spotify.com/artist/5Npr4HpRE8YlsisRjN9T8h) | [Scorched Earth, Vol\. 2 \(Live from LA and London\)](https://open.spotify.com/album/6BahOagyF2uJF4cMqh5QmS) | 3:35 | 2026-05-01 |  |
 | [One of These Days \- Live](https://open.spotify.com/track/0wXQ6Q3WVH3gI2Ehh1Q8d6) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Naturally Live](https://open.spotify.com/album/1Bk5wDy1YL05cXyF794AwV) | 5:08 | 2020-10-30 | 2024-04-19 |
 | [One Of These Days \- live](https://open.spotify.com/track/73IqopuSeWo7YOUdVZHIVA) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Naturally Live](https://open.spotify.com/album/2hb6yr5wCkq1Zc5wznXzXQ) | 5:08 | 2020-10-30 |  |
@@ -148,7 +149,7 @@
 | [Stoop Down Baby \- Live](https://open.spotify.com/track/73QVbPlOgcRJ4uASFps0ZF) | [Popa Chubby](https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD) | [Big, Bad & Beautiful \- Live](https://open.spotify.com/album/6ndzdS57WqfMOkglqGMDDp) | 5:50 | 2020-10-30 |  |
 | [Stop Breakin' Down \- Live](https://open.spotify.com/track/27PHQJ30KsTvJWhPKOtGz4) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Live At Montreux 1999](https://open.spotify.com/album/0owj4Gjka5q4S5az5SL7kt) | 6:50 | 2020-10-30 |  |
 | [Stop Breakin' Down \- Live](https://open.spotify.com/track/6dB8978aNpxv00JwIY3gui) | [The Jeff Healey Band](https://open.spotify.com/artist/3d2hJTVTwo08F9b0ZFQukJ) | [Live At Montreux 1999](https://open.spotify.com/album/1dP8l4ixSJsI0T4au2j6ln) | 6:50 | 2020-10-30 | 2024-04-19 |
-| [Summertime \(Live\)](https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 5:49 | 2022-06-10 |  |
+| [Summertime \(Live\)](https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues From The Heart Live \(Live\)](https://open.spotify.com/album/3HhP20GmF6tYJWAkbc1Dvp) | 5:49 | 2022-06-10 | 2026-07-04 |
 | [Sweet Southern Sounds \- Live](https://open.spotify.com/track/2qAs9NIdn0SmIvJyHDXj1v) | [Samantha Fish](https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5) | [Sweet Southern Sounds \(Live\)](https://open.spotify.com/album/1iEo32X1EBmQRwIRdVwL4G) | 5:06 | 2026-04-10 | 2026-06-13 |
 | [Tattoo'd Lady \(Live\)](https://open.spotify.com/track/2F2MZqad3d1iWGqKh38HMu) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Tattoo'd Lady \(Live\)](https://open.spotify.com/album/3N8Z7hdXgunJUDNP0Nr5Yg) | 6:20 | 2026-04-24 |  |
 | [Tell Her You Belong To Me \(Live\)](https://open.spotify.com/track/1tKNTwcXiWWqRpU4YcbHxi) | [Beth Hart](https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC) | [Tell Her You Belong To Me \(Live\)](https://open.spotify.com/album/3yC3tT5PY3yeLUC8vJe7gc) | 6:36 | 2020-10-30 |  |

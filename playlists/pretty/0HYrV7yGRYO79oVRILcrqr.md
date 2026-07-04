@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,858 likes - 92 songs - 6 hr 8 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,858 likes - 93 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,5 +100,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 90 | [Lay Down Your Arms](https://open.spotify.com/track/7nWjyT8LzLPoY5iDZSBzvE) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Renegade \(Japan Edition\)](https://open.spotify.com/album/11Yy2KflENJe5ohjIIcVsm) | 4:27 |
 | 91 | [One Way Ticket](https://open.spotify.com/track/4xSvbsAmTdRAybIlgSxmgm) | [ThorE.E.K](https://open.spotify.com/artist/3X9i2Xfpf4CQjCeV6QMEps) | [One Way Ticket](https://open.spotify.com/album/05AC5D5nHXEdMa2Sq0k2Hd) | 3:58 |
 | 92 | [Curtain](https://open.spotify.com/track/4OQFLKyLqH6G1SUELSoIOJ) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Bunker Day](https://open.spotify.com/album/4PYVvoC2NXpNvHJ8UQZkFW) | 2:14 |
+| 93 | [Souls Rite](https://open.spotify.com/track/6RFJCFlKwY4JzVpWgbnqrQ) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Souls Rite](https://open.spotify.com/album/73fUN4KHBJzueBUGefT3E0) | 4:44 |
 
-Snapshot ID: `AAAL3f2QeEriMMKdbTj6v47RfgjmaeVR`
+Snapshot ID: `AAAL3h9TgNInmrPlwzzvJThZM9ayZFBe`

@@ -2,7 +2,7 @@
 
 ### [Christian Rock Hits](https://open.spotify.com/playlist/37i9dQZF1DX06wYNNUR5t6)
 
-> Recent hits from all your favorite Christian Rock artists!  Cover: Seventh Day Slumber
+> Recent hits from all your favorite Christian Rock artists!  Cover: Jeremy Camp
 
 109 songs - 6 hr 55 min
 

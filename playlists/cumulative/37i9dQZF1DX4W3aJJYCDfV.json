@@ -82611,6 +82611,32 @@
     },
     {
       "album": {
+        "name": "Grouchism",
+        "url": "https://open.spotify.com/album/6NpnNKqsppcobQB1IXzsuA"
+      },
+      "artists": [
+        {
+          "name": "Dimzy",
+          "url": "https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4"
+        },
+        {
+          "name": "67",
+          "url": "https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl"
+        },
+        {
+          "name": "Niko B",
+          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111946,
+      "name": "Cubase",
+      "url": "https://open.spotify.com/track/1MY06Ndfegza0SDyEeOEHM"
+    },
+    {
+      "album": {
         "name": "cubicles",
         "url": "https://open.spotify.com/album/4UmbKE0B3q8Noz6hFA22Nr"
       },
@@ -109549,7 +109575,7 @@
         },
         {
           "name": "chameleon",
-          "url": "https://open.spotify.com/artist/5F8XCTyivrgX7o3rghj8vO"
+          "url": "https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK"
         }
       ],
       "date_added": "2026-07-02",
@@ -143858,7 +143884,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158260,
-      "name": "Get on Up (Main)",
+      "name": "Get on Up",
       "url": "https://open.spotify.com/track/0J4le9XNkoy9dGk7qUJaMy"
     },
     {
@@ -396256,24 +396282,6 @@
       "duration_ms": 246078,
       "name": "Tracing Lines",
       "url": "https://open.spotify.com/track/3HD4vh1AGcy0ub2OMfzPJL"
-    },
-    {
-      "album": {
-        "name": "Grouchism",
-        "url": "https://open.spotify.com/album/6NpnNKqsppcobQB1IXzsuA"
-      },
-      "artists": [
-        {
-          "name": "Dimzy",
-          "url": "https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4"
-        }
-      ],
-      "date_added": "2026-07-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/1MY06Ndfegza0SDyEeOEHM"
     },
     {
       "album": {

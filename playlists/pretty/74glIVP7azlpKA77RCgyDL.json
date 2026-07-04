@@ -1,13 +1,113 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9157,
+  "num_followers": 9156,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAQa0HyE/YVh4P0qYgDFP8BmDdEjwD/",
+  "snapshot_id": "AAAQdssI5N7tyzWV0kd8B8SnCEWy70mm",
   "tracks": [
+    {
+      "added_at": "2026-07-03 17:25:50",
+      "album": {
+        "name": "All Will Be (N)One (feat. Ricky Myers of Suffocation)",
+        "url": "https://open.spotify.com/album/1O0OgkBfMzvNWZ3kX7coP3"
+      },
+      "artists": [
+        {
+          "name": "Distant",
+          "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
+        },
+        {
+          "name": "Ricky Myers",
+          "url": "https://open.spotify.com/artist/7eMEcGfedACipZozbc0Rf1"
+        },
+        {
+          "name": "Suffocation",
+          "url": "https://open.spotify.com/artist/4ItRDIouodpnW6nm4TYDk1"
+        }
+      ],
+      "duration_ms": 211022,
+      "name": "All Will Be (N)One (feat. Ricky Myers of Suffocation)",
+      "url": "https://open.spotify.com/track/2ri9JmFgqdffPJ5s4PCck1"
+    },
+    {
+      "added_at": "2026-07-03 17:26:12",
+      "album": {
+        "name": "Ashen World (feat. Ignacia Fern\u00e1ndez)",
+        "url": "https://open.spotify.com/album/16OykIMBMJqnlHuNjqwRde"
+      },
+      "artists": [
+        {
+          "name": "Kamelot",
+          "url": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
+        },
+        {
+          "name": "Ignacia Fernandez",
+          "url": "https://open.spotify.com/artist/28yWMqrjdCiN1roUqkXXNs"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "Ashen World (feat. Ignacia Fern\u00e1ndez)",
+      "url": "https://open.spotify.com/track/68pL4Ecm6unJat7BxqLJtA"
+    },
+    {
+      "added_at": "2026-07-03 17:27:37",
+      "album": {
+        "name": "Electric Mistress",
+        "url": "https://open.spotify.com/album/6qx6k8gL7868f3zdCO5298"
+      },
+      "artists": [
+        {
+          "name": "Stay Dead",
+          "url": "https://open.spotify.com/artist/4e1gFaSE7wziENNDO0wAI7"
+        },
+        {
+          "name": "Matt Pike",
+          "url": "https://open.spotify.com/artist/4yY9OqlgzRMs06Ytk1GndR"
+        }
+      ],
+      "duration_ms": 391445,
+      "name": "Electric Mistress",
+      "url": "https://open.spotify.com/track/68oj3vFZskkkZ0lqlt7yzM"
+    },
+    {
+      "added_at": "2026-07-03 17:26:24",
+      "album": {
+        "name": "The Leaving Process",
+        "url": "https://open.spotify.com/album/6lMuSh7q4aikPpLs1YQ11d"
+      },
+      "artists": [
+        {
+          "name": "Living Weapon",
+          "url": "https://open.spotify.com/artist/4NjxiFkFYR8PO2KJ54NgM8"
+        }
+      ],
+      "duration_ms": 146765,
+      "name": "The Leaving Process",
+      "url": "https://open.spotify.com/track/0dHW1nwMkqLQIIg4m6GlDb"
+    },
+    {
+      "added_at": "2026-07-03 17:26:02",
+      "album": {
+        "name": "Dust Storm (feat. Andrew Neufeld)",
+        "url": "https://open.spotify.com/album/41IsM4IoGqgDWcIKue2yDp"
+      },
+      "artists": [
+        {
+          "name": "Dead Tired",
+          "url": "https://open.spotify.com/artist/1H0jbitIBEtd1dayvgl2bT"
+        },
+        {
+          "name": "Andrew Neufeld",
+          "url": "https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq"
+        }
+      ],
+      "duration_ms": 214287,
+      "name": "Dust Storm (feat. Andrew Neufeld)",
+      "url": "https://open.spotify.com/track/2bO8Kt0qIczOUluXhDRILC"
+    },
     {
       "added_at": "2026-06-26 19:07:29",
       "album": {

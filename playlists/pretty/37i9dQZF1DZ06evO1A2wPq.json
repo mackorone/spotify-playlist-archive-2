@@ -1,12 +1,12 @@
 {
   "description": "This is kwn. The essential tracks, all in one playlist.",
-  "num_followers": 21633,
+  "num_followers": 21663,
   "original_name": "This Is kwn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAAC/ovpPSdgRil+4dj6ehTHH",
+  "snapshot_id": "akWqAAAAAAAquw3FrplwIXnxY0C9FR5l",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 181091,
+      "name": "good girl",
+      "url": "https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "with all due respect",
         "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
@@ -59,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "and all pride aside",
-        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+        "name": "eyes wide open",
+        "url": "https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV"
       },
       "artists": [
         {
@@ -68,9 +84,9 @@
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 181091,
-      "name": "good girl",
-      "url": "https://open.spotify.com/track/4dYhse0clrMQgMrCHyCnwR"
+      "duration_ms": 153648,
+      "name": "eyes wide open",
+      "url": "https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC"
     },
     {
       "added_at": null,
@@ -95,38 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "eyes wide open",
-        "url": "https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 153648,
-      "name": "eyes wide open",
-      "url": "https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 188562,
-      "name": "do what i say",
-      "url": "https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "and all pride aside",
         "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 191032,
       "name": "all fours (feat. DESTIN CONRAD)",
       "url": "https://open.spotify.com/track/4swgjjK6EDlUjjtRZrDaFI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 188562,
+      "name": "do what i say",
+      "url": "https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq"
     },
     {
       "added_at": null,
@@ -183,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 213571,
-      "name": "worst behaviour (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "and all pride aside",
         "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
       },
@@ -219,18 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "hopeless romantic",
-        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
       "artists": [
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 183692,
-      "name": "hopeless romantic",
-      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
+      "duration_ms": 213571,
+      "name": "worst behaviour (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici"
     },
     {
       "added_at": null,
@@ -255,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+        "name": "wn up",
+        "url": "https://open.spotify.com/album/4RVscQW0BIGHH8T6VdknFl"
       },
       "artists": [
         {
@@ -264,9 +248,9 @@
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 132368,
-      "name": "all the girls",
-      "url": "https://open.spotify.com/track/35LxnbeMImdQePFuaZgIjF"
+      "duration_ms": 203669,
+      "name": "wn up",
+      "url": "https://open.spotify.com/track/0nBSRIzgxIb08xXgiEBZWi"
     },
     {
       "added_at": null,
@@ -291,8 +275,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "wn up",
-        "url": "https://open.spotify.com/album/4RVscQW0BIGHH8T6VdknFl"
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
       "artists": [
         {
@@ -300,9 +284,9 @@
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 203669,
-      "name": "wn up",
-      "url": "https://open.spotify.com/track/0nBSRIzgxIb08xXgiEBZWi"
+      "duration_ms": 132368,
+      "name": "all the girls",
+      "url": "https://open.spotify.com/track/35LxnbeMImdQePFuaZgIjF"
     },
     {
       "added_at": null,
@@ -319,6 +303,38 @@
       "duration_ms": 143804,
       "name": "no cinderella",
       "url": "https://open.spotify.com/track/6MLRXGIIpGXOR7ZvQm3xHF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "lord i've tried",
+        "url": "https://open.spotify.com/album/1mrDB1CAtj69uKb9mxsAJa"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 106632,
+      "name": "lord i've tried",
+      "url": "https://open.spotify.com/track/6gAb03yQ9isxbYortJgAYq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "and all pride aside",
+        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 326341,
+      "name": "rather never love again",
+      "url": "https://open.spotify.com/track/06eYospB1uVxwSty0QCdhq"
     },
     {
       "added_at": null,
@@ -343,38 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "and all pride aside",
-        "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 326341,
-      "name": "rather never love again",
-      "url": "https://open.spotify.com/track/06eYospB1uVxwSty0QCdhq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "lord i've tried",
-        "url": "https://open.spotify.com/album/1mrDB1CAtj69uKb9mxsAJa"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 106632,
-      "name": "lord i've tried",
-      "url": "https://open.spotify.com/track/6gAb03yQ9isxbYortJgAYq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "sweetie (feat. Scribz Riley)",
         "url": "https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI"
       },
@@ -395,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "with all due respect",
-        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
+        "name": "wn way or another",
+        "url": "https://open.spotify.com/album/5EReNC5fgdNGRaNx5GGy9q"
       },
       "artists": [
         {
@@ -404,9 +388,9 @@
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 153103,
-      "name": "stand on it",
-      "url": "https://open.spotify.com/track/4Lt6z7rZq9UfKHZdC4a3uJ"
+      "duration_ms": 130932,
+      "name": "wn way or another",
+      "url": "https://open.spotify.com/track/2STQ1wZA3WYZXa9Jyj6ZSu"
     },
     {
       "added_at": null,
@@ -427,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "wn way or another",
-        "url": "https://open.spotify.com/album/5EReNC5fgdNGRaNx5GGy9q"
+        "name": "with all due respect",
+        "url": "https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN"
       },
       "artists": [
         {
@@ -436,9 +420,9 @@
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 130932,
-      "name": "wn way or another",
-      "url": "https://open.spotify.com/track/2STQ1wZA3WYZXa9Jyj6ZSu"
+      "duration_ms": 153103,
+      "name": "stand on it",
+      "url": "https://open.spotify.com/track/4Lt6z7rZq9UfKHZdC4a3uJ"
     },
     {
       "added_at": null,

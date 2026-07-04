@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-09",
-  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Le Mano 1.9, Gazo, La Rvfleuze",
+  "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Leto, Rim'K",
   "name": "Rap francophone",
   "tracks": [
     {
@@ -686,7 +686,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 148004,
       "name": "64BINKS",
       "url": "https://open.spotify.com/track/24kmCgHeEreDw16npFBbBE"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 179542,
       "name": "Adriana",
       "url": "https://open.spotify.com/track/2ahQZyNCXAIf47IVhmg6CR"
@@ -1683,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "BIGSTRaatos",
+        "url": "https://open.spotify.com/album/70Xeeo0SeyQhxbOyPeiEc4"
+      },
+      "artists": [
+        {
+          "name": "Huntrill",
+          "url": "https://open.spotify.com/artist/1Nm9adUt6D5iuhRgirlgF2"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193381,
+      "name": "BIGSTRaatos",
+      "url": "https://open.spotify.com/track/7svxm6EDaBXdfDnsouUuUQ"
+    },
+    {
+      "album": {
         "name": "Billets Mauves (feat. SDM)",
         "url": "https://open.spotify.com/album/3rkAyXIdYPtoyw7OCZ7WOF"
       },
@@ -1920,7 +1938,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 206068,
       "name": "BOH\u00c8ME",
       "url": "https://open.spotify.com/track/2GObLHNW4Dq1jioI4LCnEG"
@@ -2058,7 +2076,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 137296,
       "name": "BOUNCE DU GHETTO",
       "url": "https://open.spotify.com/track/2C9rQ7lvy67hvaIa7XEEcu"
@@ -2689,6 +2707,28 @@
     },
     {
       "album": {
+        "name": "Charbon & Diamant",
+        "url": "https://open.spotify.com/album/2Ihpl1sHO4bsbeOhqGPqTy"
+      },
+      "artists": [
+        {
+          "name": "Rim'K",
+          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159286,
+      "name": "Charbon & Diamant",
+      "url": "https://open.spotify.com/track/5oG155kA2TGH7ZghnnB6XG"
+    },
+    {
+      "album": {
         "name": "CHF",
         "url": "https://open.spotify.com/album/3CIHZeaAM5E1cC01mJfLGU"
       },
@@ -3126,6 +3166,28 @@
       "duration_ms": 198946,
       "name": "CORDILL\u00c8RE",
       "url": "https://open.spotify.com/track/50q0GexjZcu6EeIq1alMjb"
+    },
+    {
+      "album": {
+        "name": "crame",
+        "url": "https://open.spotify.com/album/6e4cmcVRk7TqnItWjad6a5"
+      },
+      "artists": [
+        {
+          "name": "Rounhaa",
+          "url": "https://open.spotify.com/artist/6jFcJYXzABu7Us9iwENUJe"
+        },
+        {
+          "name": "Kalash Criminel",
+          "url": "https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "crame",
+      "url": "https://open.spotify.com/track/64352UaTFPDIcNGVkAxgGn"
     },
     {
       "album": {
@@ -4020,7 +4082,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 157781,
       "name": "Dua L",
       "url": "https://open.spotify.com/track/5IfknW0NYsSS5aBYk0dorA"
@@ -4318,6 +4380,28 @@
       "duration_ms": 160551,
       "name": "EN ROTATION",
       "url": "https://open.spotify.com/track/7kuagnjuLZDtOLg0TG5F5i"
+    },
+    {
+      "album": {
+        "name": "ERA",
+        "url": "https://open.spotify.com/album/3Kz6gWnDwAknqI7ZQ8a1qX"
+      },
+      "artists": [
+        {
+          "name": "Taktika",
+          "url": "https://open.spotify.com/artist/5ArmvYVqg6FfX5Wmo8lBG3"
+        },
+        {
+          "name": "NA$-T",
+          "url": "https://open.spotify.com/artist/3eIngzdlD3RwDe6ngF0BN4"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192989,
+      "name": "ERA",
+      "url": "https://open.spotify.com/track/4gjNkDYdkcdn5GJxbYOHtH"
     },
     {
       "album": {
@@ -5299,6 +5383,24 @@
     },
     {
       "album": {
+        "name": "GROSEILLE",
+        "url": "https://open.spotify.com/album/6wmE0E3apoelhUyLxr95i3"
+      },
+      "artists": [
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173013,
+      "name": "GROSEILLE",
+      "url": "https://open.spotify.com/track/3j5YZKkYPMQLJP8K0WvOjo"
+    },
+    {
+      "album": {
         "name": "GTA 6",
         "url": "https://open.spotify.com/album/6hLjrWninGrni70jpBAgCK"
       },
@@ -5552,6 +5654,28 @@
       "duration_ms": 186348,
       "name": "Honeymoon",
       "url": "https://open.spotify.com/track/0LJPsB2L8oI2EIk1vW5ALF"
+    },
+    {
+      "album": {
+        "name": "Hood",
+        "url": "https://open.spotify.com/album/1QBGlcyJDKL0sDFBVJyPQz"
+      },
+      "artists": [
+        {
+          "name": "Hornet La Frappe",
+          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+        },
+        {
+          "name": "ZZ",
+          "url": "https://open.spotify.com/artist/51loVlVgRomkJwd04A6B1e"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137692,
+      "name": "Hood",
+      "url": "https://open.spotify.com/track/4C5lhCIgxjfRAChtMdXXeC"
     },
     {
       "album": {
@@ -5832,7 +5956,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 158776,
       "name": "INCOGNITO",
       "url": "https://open.spotify.com/track/2uoKEakNdnvTGA5YOgQKZx"
@@ -5966,7 +6090,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 131187,
       "name": "J'en Parle",
       "url": "https://open.spotify.com/track/1y37eoiaZnzDPkVoJ3773L"
@@ -6720,10 +6844,28 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 150466,
       "name": "la mm merde",
       "url": "https://open.spotify.com/track/2E65VzB28mJw8uH3SY5J1z"
+    },
+    {
+      "album": {
+        "name": "COUP D'\u00c9TAT",
+        "url": "https://open.spotify.com/album/7qjrdZ38IJN6xO1GRK99XB"
+      },
+      "artists": [
+        {
+          "name": "Cherry Pie",
+          "url": "https://open.spotify.com/artist/6CLK013UumRbFXYJIYvRnz"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "LA M\u00caME MERDE",
+      "url": "https://open.spotify.com/track/3xgttiQiecbAgnuywf1iQR"
     },
     {
       "album": {
@@ -7058,7 +7200,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 151000,
       "name": "Le pays de mon p\u00e8re",
       "url": "https://open.spotify.com/track/2zWdSsO3gvngZPKusXCFM0"
@@ -7858,7 +8000,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 180845,
       "name": "Mauvais",
       "url": "https://open.spotify.com/track/6xrOljXpEmbD1UlCedATEi"
@@ -9192,7 +9334,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 153578,
       "name": "Opps",
       "url": "https://open.spotify.com/track/4skLkknWXMeDy3H0Knl1zq"
@@ -9640,7 +9782,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 161277,
       "name": "Pas solo",
       "url": "https://open.spotify.com/track/5N3lIBZ88nTuerAuBgMK5u"
@@ -10180,6 +10322,24 @@
       "duration_ms": 178520,
       "name": "Prime",
       "url": "https://open.spotify.com/track/7E9hKUhfpbm4CNnlSdP407"
+    },
+    {
+      "album": {
+        "name": "Rien Ne Va Plus",
+        "url": "https://open.spotify.com/album/2zcJp80IohR9krgMisnOC9"
+      },
+      "artists": [
+        {
+          "name": "WIXO & LA2S",
+          "url": "https://open.spotify.com/artist/0VWHKHfSFwUhP0cuvVUfRN"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178210,
+      "name": "Prime",
+      "url": "https://open.spotify.com/track/5ynyV6EvdxJW3HlzSRoRHQ"
     },
     {
       "album": {
@@ -10798,7 +10958,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 171266,
       "name": "Riposter",
       "url": "https://open.spotify.com/track/0YdZPzbKtkQtTTe79UmdO9"
@@ -11028,7 +11188,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 181789,
       "name": "S70",
       "url": "https://open.spotify.com/track/6KHUM8AdNxx9feKujRrWLs"
@@ -11368,7 +11528,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 205000,
       "name": "Savage",
       "url": "https://open.spotify.com/track/70d4L0yzI02bOylHPHI77m"
@@ -12210,7 +12370,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 182992,
       "name": "Talbin",
       "url": "https://open.spotify.com/track/6qotpxzDLFbYDDkj5nXicF"
@@ -12754,7 +12914,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 180105,
       "name": "Tranch\u00e9es",
       "url": "https://open.spotify.com/track/4ojWmrrprVbyVU2zc7lOqf"
@@ -13046,7 +13206,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 174135,
       "name": "Vacances",
       "url": "https://open.spotify.com/track/73ze5SmdVM4nzTtp9O37Jf"
@@ -13586,7 +13746,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 131578,
       "name": "\u00c0 la base",
       "url": "https://open.spotify.com/track/5H9mpYdSxCKRp4bc4mLUcU"

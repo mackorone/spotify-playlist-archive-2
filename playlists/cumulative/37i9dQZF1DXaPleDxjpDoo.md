@@ -4,7 +4,7 @@
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-389 songs - 19 hr 21 min
+394 songs - 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [and finally, we reach the summit](https://open.spotify.com/track/5H3eECDA7nMacVuqr5At31) | [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT), [Good Weather For An Airstrike](https://open.spotify.com/artist/1LcsFT5fwJajcpAqmlitHX) | [AV // TH](https://open.spotify.com/album/452uPYouELxWeqwyap8Dyj) | 3:47 | 2026-04-03 |  |
 | [Angelic Waves](https://open.spotify.com/track/3uj0rDeSdN9xWN3GXQ53DS) | [Aroshanti](https://open.spotify.com/artist/1y6jeiJ1L8vwgt7lHDqRKd) | [Angelic Waves](https://open.spotify.com/album/52fu5J6B5UztithHQhrcXY) | 4:17 | 2022-10-07 | 2024-06-04 |
 | [Appalachia](https://open.spotify.com/track/2SINvQlELjLEpCxVZHjvrU) | [Divine Vibration](https://open.spotify.com/artist/0A4kwgSztRzeUGBrY8jR9c) | [Appalachia](https://open.spotify.com/album/261Bceoliberg12FO8LrNb) | 2:18 | 2026-04-03 |  |
+| [Aranyani](https://open.spotify.com/track/2PvCi67JVHZ6Lfw0rX0w41) | [Ka Wadhwa](https://open.spotify.com/artist/2dPkKU7aaKeFDICPMOduIv) | [Aranyani](https://open.spotify.com/album/6eA08BGSG8tDiqIShfv8Dy) | 2:27 | 2026-07-03 |  |
 | [Arboreal Honor](https://open.spotify.com/track/0MRSyPSHOUjasV1PegUcZY) | [Andrea Forejtek](https://open.spotify.com/artist/7yITKvbdNPCTDbF5Uzd9NW) | [Arboreal Honor](https://open.spotify.com/album/5hW2eMTTdFCkXJWGC7VLjr) | 3:20 | 2024-05-01 | 2025-02-11 |
 | [Arcane](https://open.spotify.com/track/1Xigm4SFXMQWr2cbnvL3Px) | [Sola Slavic](https://open.spotify.com/artist/24qzfEYRSQzJQL4ASv8rvq) | [Arcane](https://open.spotify.com/album/07tBVsAAVA7Z7yLMabbAXl) | 2:43 | 2024-11-18 |  |
 | [As I Dream](https://open.spotify.com/track/0sWE39QKRcEFzEkd4fiBDZ) | [Tranquil Journeys](https://open.spotify.com/artist/54FHbjddYi2zgSZ1QNgkPn) | [As I Dream](https://open.spotify.com/album/3rzsB1SKf06JVz94jRszfY) | 3:26 | 2022-10-14 | 2024-03-06 |
@@ -42,6 +43,7 @@
 | [Begin Again](https://open.spotify.com/track/0MkNtAwVgUDMUi30U1fqtU) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Begin Again](https://open.spotify.com/album/5a0o1VdNGU8JUI85cSyL7v) | 2:48 | 2025-05-16 |  |
 | [Behind And Below](https://open.spotify.com/track/0y5zjzrD9blUIZugvhUHAy) | [Hadat Ombra](https://open.spotify.com/artist/18Tjiig4UKv0xwLOgWyfAq) | [Behind And Below](https://open.spotify.com/album/2M4PVkOh9147t4aX2Kp5Nt) | 2:47 | 2025-10-15 | 2026-03-14 |
 | [Being](https://open.spotify.com/track/1EEDHsrBnIEwgv3Tx0f4mU) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Being](https://open.spotify.com/album/2XuXdx0PWF9MRZ6jI1jJrR) | 3:21 | 2022-11-11 | 2024-05-02 |
+| [Believe](https://open.spotify.com/track/6vHGmxJ2tKVqLI4n6le6WU) | [Max Blomqvist](https://open.spotify.com/artist/1fqwsCIQGiytw1c1zAbZ6a) | [Soulbound](https://open.spotify.com/album/3R0mMCObv6Ou93GFSv0BHZ) | 2:14 | 2026-07-03 |  |
 | [Birds In The Cul\-De\-Sac](https://open.spotify.com/track/6Vv7pOvG9e8zFWOwIKJTqA) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Birds In The Cul\-De\-Sac](https://open.spotify.com/album/7sUigBnrLRsr8JD3oCVNfq) | 1:05 | 2026-04-03 | 2026-06-13 |
 | [Birds Singing In The Park](https://open.spotify.com/track/6PvZUOTuc5K7hHawZv8FD9) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Birds Singing In The Park](https://open.spotify.com/album/2wdnVPooTFEX6h6N1OFoVV) | 1:02 | 2026-04-03 |  |
 | [Birdsong Revival](https://open.spotify.com/track/6revOhCNDkfUK0wpZPf2bY) | [Faded Grandeur](https://open.spotify.com/artist/64ODerOSP4aFrfGgTQ7nbe) | [Birdsong Revival](https://open.spotify.com/album/17I1wU1TrcZzMoqo3FZVqY) | 2:40 | 2026-01-21 |  |
@@ -107,6 +109,7 @@
 | [Everbound](https://open.spotify.com/track/3ukMCHjdNl8qExi9R9cydc) | [Lore](https://open.spotify.com/artist/5iAmH8roFlCIzK73jFSV5G) | [Everbound](https://open.spotify.com/album/173m3DmZedeHBdzJFY6Sws) | 2:54 | 2026-04-03 |  |
 | [Everwoods](https://open.spotify.com/track/0Ny6iToeNH1UGeYko2Hfmx) | [Peaceful Earth](https://open.spotify.com/artist/0VG3jBtRm8GbFcIU7M4M7m) | [Everwoods](https://open.spotify.com/album/4p4Kv6WhDa0ZgJsTGZX7RK) | 3:30 | 2022-09-15 | 2025-09-19 |
 | [Exploration Guide](https://open.spotify.com/track/00fWaaNmh4tHZH5hgye2SR) | [Vemedis](https://open.spotify.com/artist/5X885hQ57e8PHe88pms7ZR) | [Exploration Guide](https://open.spotify.com/album/5a3mMRmMHJUBy3pNurZeqC) | 2:25 | 2025-04-11 | 2026-03-04 |
+| [Fading Petals](https://open.spotify.com/track/3IJKGZ3iz4kdBcUru29Ucw) | [Classy Moon](https://open.spotify.com/artist/18XF0GkyaRiReG48B4UGJI) | [Silver Linen Note](https://open.spotify.com/album/4dqvUtMRYaUvocHdEPz8ca) | 3:14 | 2026-07-03 |  |
 | [Far Away](https://open.spotify.com/track/3vnJ6sp5LZC3FrvWovd1Bn) | [Ani](https://open.spotify.com/artist/3W5apiMDqy6v6ai4tP3SkX) | [Far Away](https://open.spotify.com/album/1i1qbq7Toqfq84FClzRrUK) | 2:49 | 2026-04-03 |  |
 | [Far From Noise](https://open.spotify.com/track/1YdXMi0Eue6N2aufgz7BPe) | [Richome](https://open.spotify.com/artist/7wT96tCUu2nwZ056pObwZS) | [Far From Noise](https://open.spotify.com/album/19FbzNUV668CzlRMa3dmDw) | 2:26 | 2026-01-21 |  |
 | [Feel the Forest](https://open.spotify.com/track/1XWWyO7yYj1636eT1VJeAz) | [Silva Minor](https://open.spotify.com/artist/2qCGBLSIAfV6EYofCDbVZk) | [Feel the Forest](https://open.spotify.com/album/3oOoxvI9pdac8KbD7C0YWJ) | 2:52 | 2025-12-03 | 2026-03-14 |
@@ -289,6 +292,7 @@
 | [Rumble in Peace](https://open.spotify.com/track/1KVOysjv01sx4N21q102kJ) | [Lula Dreamer](https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8) | [Rumble in Peace](https://open.spotify.com/album/3XRcZrKvzaQO3ONBBXof7N) | 2:58 | 2025-01-15 |  |
 | [Sacred Groves](https://open.spotify.com/track/04cZKVBULr2VKl7VwquEUF) | [Forest for Rest](https://open.spotify.com/artist/2ZM2iTRxvp6d9QnnJvKpt3) | [Silent Mind](https://open.spotify.com/album/45La9VqG8XymSR0sul7XAp) | 2:01 | 2022-09-15 | 2026-03-04 |
 | [Sacred Path](https://open.spotify.com/track/4ob4MXE4stsn9IDDjUDRwr) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Sacred Path](https://open.spotify.com/album/5TCKtjFz68VftcTyOnZue3) | 3:04 | 2025-12-18 | 2026-03-14 |
+| [Safe Pond](https://open.spotify.com/track/7avjFlXPuk3bnUWhxECdbC) | [Gyr](https://open.spotify.com/artist/2A1jbcxHxyQkW1uukhPrFQ) | [Safe Pond](https://open.spotify.com/album/2GqYiWbRJEIX4RzXuTdd8R) | 2:36 | 2026-07-03 |  |
 | [Sanctuary](https://open.spotify.com/track/2YKksuNNjRneaDHplGZkhJ) | [Eldrelder](https://open.spotify.com/artist/3TrVbyS2m9PyOxsjoPos7Z) | [Sanctuary](https://open.spotify.com/album/1Mm91Huwj8XSwn2Z6IqarA) | 3:03 | 2025-05-28 | 2026-03-04 |
 | [Sanguine](https://open.spotify.com/track/0jhlHVGBceEn76z6M7uTuC) | [Mei Wyatt](https://open.spotify.com/artist/3dlas5ivLc1UoaGKlWz7ak) | [Sanguine](https://open.spotify.com/album/0yJ6y7fatKw6R47DIhCQxj) | 2:59 | 2024-05-01 | 2026-06-26 |
 | [Scots Pine](https://open.spotify.com/track/2Ch4DARTYZSOHgK8yq9e7h) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Scots Pine](https://open.spotify.com/album/30XzQtgzdmpr23G81JvMFJ) | 2:51 | 2025-01-31 | 2026-03-14 |
@@ -327,6 +331,7 @@
 | [Sparkles Between Trees](https://open.spotify.com/track/1KivTompzOiBdFec5jkS8E) | [Ayala Cola](https://open.spotify.com/artist/5z98YuplLBTQttqAgkNyfA) | [Sparkles Between Trees](https://open.spotify.com/album/3lnKB5L6PHUGkFUCc3rskG) | 2:41 | 2025-09-18 | 2026-04-18 |
 | [Spiritual Being \- Loopable with No Fade](https://open.spotify.com/track/1NLsqHq8E9ATTvTvrGgLOy) | [Sweet Dreamer](https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7) | [Atmospheres For Yoga And Meditation](https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8) | 2:57 | 2022-09-15 | 2024-04-02 |
 | [Spiritual Forest](https://open.spotify.com/track/6MLAXN84m0ScmK5vZN2pMI) | [Bear Jonnes](https://open.spotify.com/artist/2C7SHsx4JHNJ09qz1sjatt) | [Spiritual Forest](https://open.spotify.com/album/0bPr4sm060Jpa0BorSdsoI) | 2:53 | 2025-04-11 | 2026-03-04 |
+| [Stargazing at Dawn](https://open.spotify.com/track/51WFbZpYir2eZGtXXrJDSY) | [Sorth](https://open.spotify.com/artist/5r7HLWLaJMF1MsqUVWveyG) | [Stargazing at Dawn](https://open.spotify.com/album/22WWcPFrv829QyTjjHU0aY) | 2:40 | 2026-07-03 |  |
 | [Still Meadow](https://open.spotify.com/track/3kRCB3hatlhH04TJd3mc5t) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Still Meadow](https://open.spotify.com/album/4A9oX0bimFi9jrIbMKXonL) | 2:36 | 2026-01-21 |  |
 | [Sun On Morning Dew](https://open.spotify.com/track/42dlh6AIW3p7O3e2HqKSxd) | [Sandman](https://open.spotify.com/artist/62Sld5bJeNx6PsO8ulAk2a) | [Sun On Morning Dew](https://open.spotify.com/album/5bQBCKGftByZW1stluFpI0) | 2:17 | 2026-06-12 |  |
 | [Sunray Meditation](https://open.spotify.com/track/0Sd3u27bXyYGW4mkRNOjeC) | [Astra Far](https://open.spotify.com/artist/1l8inXQNhMUFaDofdVS94T) | [Sunray Meditation](https://open.spotify.com/album/7yhDdHQVrlVMfuayOjVXyq) | 2:52 | 2026-02-18 | 2026-03-14 |

@@ -3855,6 +3855,24 @@
     },
     {
       "album": {
+        "name": "BREAK IT",
+        "url": "https://open.spotify.com/album/7aA46xGZl0Sef4BumlxQ1e"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190653,
+      "name": "BREAK IT",
+      "url": "https://open.spotify.com/track/3ocRE4rjwPl3sLGrjraVJh"
+    },
+    {
+      "album": {
         "name": "Break My Heart Myself (feat. YEJI & RYUJIN of ITZY)",
         "url": "https://open.spotify.com/album/6nHECY2OnWXVmd4QjGhJEm"
       },
@@ -8366,7 +8384,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 203000,
       "name": "EMOTIONS",
       "url": "https://open.spotify.com/track/5xG8q1HN3zJFVml6lttUbK"

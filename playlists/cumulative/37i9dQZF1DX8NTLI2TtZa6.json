@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 134109,
       "name": "Chasing lights",
       "url": "https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm"
@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 146874,
       "name": "Danse avec moi",
       "url": "https://open.spotify.com/track/6EJ1ZUorVQzjUIq2kaIBur"
@@ -2742,7 +2742,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 134004,
       "name": "Evoke",
       "url": "https://open.spotify.com/track/5nH4IicA1G7pxIfgHPZNp0"
@@ -3304,7 +3304,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 149800,
       "name": "From the Seas and the Streams",
       "url": "https://open.spotify.com/track/2AotVdY2lkRFWn0j5dQymP"
@@ -5592,7 +5592,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 185416,
       "name": "Mariposa De Oto\u00f1o",
       "url": "https://open.spotify.com/track/5nCzEybBLM2AOmmb8VbBxv"
@@ -5866,6 +5866,24 @@
       "duration_ms": 132000,
       "name": "Moments of movement",
       "url": "https://open.spotify.com/track/2hHiDZt7uHjaIIUa2H9qBU"
+    },
+    {
+      "album": {
+        "name": "Momentum",
+        "url": "https://open.spotify.com/album/6yLmEfUZKrE6I8qAinNFWw"
+      },
+      "artists": [
+        {
+          "name": "Li Zemin",
+          "url": "https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152531,
+      "name": "Momentum",
+      "url": "https://open.spotify.com/track/4wl7uUDTzJZ4nl8655DOfo"
     },
     {
       "album": {
@@ -6917,6 +6935,24 @@
     },
     {
       "album": {
+        "name": "Open Space",
+        "url": "https://open.spotify.com/album/7oWEnOGTNALsWlbJRCQMzr"
+      },
+      "artists": [
+        {
+          "name": "Carl Kaleo",
+          "url": "https://open.spotify.com/artist/4mcRi26s1KUkHVFcD3opEY"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139250,
+      "name": "Open Space",
+      "url": "https://open.spotify.com/track/3aOWG34igTfkPLR70fEtYD"
+    },
+    {
+      "album": {
         "name": "Opening Up",
         "url": "https://open.spotify.com/album/4tgCcjOjG3NsPnndyqrdLP"
       },
@@ -7850,7 +7886,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 132277,
       "name": "Redwood Forest",
       "url": "https://open.spotify.com/track/2Dcq0sHQ9PLeixqdyz3aCy"
@@ -9404,6 +9440,24 @@
       "duration_ms": 133624,
       "name": "The Emotion of Light - Revisited",
       "url": "https://open.spotify.com/track/1YOgykOfaRddTMVSxVyESp"
+    },
+    {
+      "album": {
+        "name": "The gap in between",
+        "url": "https://open.spotify.com/album/0t3WRiiBshd824LzuaNdzS"
+      },
+      "artists": [
+        {
+          "name": "Tom Leaman",
+          "url": "https://open.spotify.com/artist/2aCjyxAv55DqcgEBYNHS2l"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144187,
+      "name": "The gap in between",
+      "url": "https://open.spotify.com/track/3pTpkDdhvrXBdQkkzKqbPo"
     },
     {
       "album": {

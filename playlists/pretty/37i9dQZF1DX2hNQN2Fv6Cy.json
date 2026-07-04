@@ -1,6 +1,6 @@
 {
   "description": "90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.",
-  "num_followers": 291829,
+  "num_followers": 292193,
   "original_name": "R&B Classics Party",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Chapter II",
-        "url": "https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2"
-      },
-      "artists": [
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-        }
-      ],
-      "duration_ms": 209120,
-      "name": "Rock Wit U (Awww Baby)",
-      "url": "https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "It Ain't Safe No More. . .",
         "url": "https://open.spotify.com/album/3cBk22r1tb6omRQ4jr6SE8"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 324306,
       "name": "I Know What You Want (feat. Flipmode Squad)",
       "url": "https://open.spotify.com/track/0YImOCkIJ2PWhCXaURCZnY"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Chapter II",
+        "url": "https://open.spotify.com/album/4vjeaWsf9UH2ecdKXAZaq2"
+      },
+      "artists": [
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        }
+      ],
+      "duration_ms": 209120,
+      "name": "Rock Wit U (Awww Baby)",
+      "url": "https://open.spotify.com/track/6pWzCKTrKrwbUPzY8RLCoP"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Destiny Fulfilled",
-        "url": "https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 242013,
-      "name": "Lose My Breath",
-      "url": "https://open.spotify.com/track/2n4uOdMHzEvcZ0KP7iQnay"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Music Of The Sun",
         "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 208106,
       "name": "If It's Lovin' That You Want",
       "url": "https://open.spotify.com/track/4x2rgtSFOI4hRvEvDj02KP"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Destiny Fulfilled",
+        "url": "https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 242013,
+      "name": "Lose My Breath",
+      "url": "https://open.spotify.com/track/2n4uOdMHzEvcZ0KP7iQnay"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
-      },
-      "artists": [
-        {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
-        }
-      ],
-      "duration_ms": 238760,
-      "name": "1 Thing",
-      "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Loud",
         "url": "https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 263173,
       "name": "What's My Name?",
       "url": "https://open.spotify.com/track/5FTCKvxzqy72ceS4Ujux4N"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "duration_ms": 238760,
+      "name": "1 Thing",
+      "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Survivor",
-        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 221133,
-      "name": "Independent Women, Pt. 1",
-      "url": "https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "B'Day Deluxe Edition",
         "url": "https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 240280,
       "name": "Deja Vu (feat. JAY-Z)",
       "url": "https://open.spotify.com/track/423EcxblW9F4nnQkqcqMlK"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 221133,
+      "name": "Independent Women, Pt. 1",
+      "url": "https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Ideal",
-        "url": "https://open.spotify.com/album/0sCYqD1xXtAvHiYETuTP0K"
-      },
-      "artists": [
-        {
-          "name": "Ideal",
-          "url": "https://open.spotify.com/artist/2bK1rpFhmGkImiZNuUyHVT"
-        }
-      ],
-      "duration_ms": 228159,
-      "name": "Whatever - Radio Edit",
-      "url": "https://open.spotify.com/track/3tHAB8FI4rfULUHHG1d2Ct"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "This Is Me...Then",
         "url": "https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM"
       },
@@ -1903,6 +1887,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Ideal",
+        "url": "https://open.spotify.com/album/0sCYqD1xXtAvHiYETuTP0K"
+      },
+      "artists": [
+        {
+          "name": "Ideal",
+          "url": "https://open.spotify.com/artist/2bK1rpFhmGkImiZNuUyHVT"
+        }
+      ],
+      "duration_ms": 228159,
+      "name": "Whatever - Radio Edit",
+      "url": "https://open.spotify.com/track/3tHAB8FI4rfULUHHG1d2Ct"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "I Care 4 U",
         "url": "https://open.spotify.com/album/0vqRNgbh25rbYpiZ2Ejv6s"
       },
@@ -1915,30 +1915,6 @@
       "duration_ms": 265666,
       "name": "Are You That Somebody?",
       "url": "https://open.spotify.com/track/2TNaQWWTeTyig2wsr1BNaL"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Street Dreams (Bonus Track)",
-        "url": "https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl"
-      },
-      "artists": [
-        {
-          "name": "Fabolous",
-          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
-        },
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "Jagged Edge",
-          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
-        }
-      ],
-      "duration_ms": 275266,
-      "name": "Trade It All, Pt. 2 (feat. P. Diddy & Jagged Edge)",
-      "url": "https://open.spotify.com/track/6h7PQQIUQSNSAWqRe98MBU"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -1963,6 +1939,30 @@
       "duration_ms": 275600,
       "name": "One Minute Man (feat. Jay-Z) - Remix",
       "url": "https://open.spotify.com/track/4Z1GSvE92RKsxjzrrBJAIT"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Street Dreams (Bonus Track)",
+        "url": "https://open.spotify.com/album/46tIBaFs0Ov0HJsCDrq1Kl"
+      },
+      "artists": [
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Jagged Edge",
+          "url": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp"
+        }
+      ],
+      "duration_ms": 275266,
+      "name": "Trade It All, Pt. 2 (feat. P. Diddy & Jagged Edge)",
+      "url": "https://open.spotify.com/track/6h7PQQIUQSNSAWqRe98MBU"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2090,15 +2090,11 @@
         {
           "name": "The Notorious B.I.G.",
           "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
-        },
-        {
-          "name": "Mase & Puff Daddy",
-          "url": "https://open.spotify.com/artist/096CxgjMbKJzhbYrTAHrVx"
         }
       ],
-      "duration_ms": 253133,
-      "name": "Mo Money Mo Problems (feat. Mase & Puff Daddy)",
-      "url": "https://open.spotify.com/track/3kG2YgxjYnnPBlo7H08Xt3"
+      "duration_ms": 230053,
+      "name": "Hypnotize",
+      "url": "https://open.spotify.com/track/2ujbOwvdiH020TO5EucGiX"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2182,11 +2178,15 @@
         {
           "name": "The Notorious B.I.G.",
           "url": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        {
+          "name": "Mase & Puff Daddy",
+          "url": "https://open.spotify.com/artist/096CxgjMbKJzhbYrTAHrVx"
         }
       ],
-      "duration_ms": 230053,
-      "name": "Hypnotize",
-      "url": "https://open.spotify.com/track/2ujbOwvdiH020TO5EucGiX"
+      "duration_ms": 253133,
+      "name": "Mo Money Mo Problems (feat. Mase & Puff Daddy)",
+      "url": "https://open.spotify.com/track/3kG2YgxjYnnPBlo7H08Xt3"
     },
     {
       "added_at": "2024-07-15 07:37:26",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
-        "name": "Fear Of Flying",
-        "url": "https://open.spotify.com/album/6DOrJ531pbcGf3ZkrfayPD"
-      },
-      "artists": [
-        {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
-        }
-      ],
-      "duration_ms": 236906,
-      "name": "Case Of The Ex (Whatcha Gonna Do)",
-      "url": "https://open.spotify.com/track/3G6hxSp260RzGw4sOiDOQ3"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
         "name": "Rappa Ternt Sanga",
         "url": "https://open.spotify.com/album/67kj88d9xbscqqG8EdMpIu"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 231040,
       "name": "I'm Sprung",
       "url": "https://open.spotify.com/track/0F7rEdewJ6cSLylOZZpDu7"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
+        "name": "Fear Of Flying",
+        "url": "https://open.spotify.com/album/6DOrJ531pbcGf3ZkrfayPD"
+      },
+      "artists": [
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "Case Of The Ex (Whatcha Gonna Do)",
+      "url": "https://open.spotify.com/track/3G6hxSp260RzGw4sOiDOQ3"
     },
     {
       "added_at": "2024-07-15 07:37:26",

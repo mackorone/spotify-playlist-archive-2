@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! \(Cover: UAU\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,381 likes - 59 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 886,352 likes - 59 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [GENE](https://open.spotify.com/track/7mlJgNMZsmbiKRE3FvnoGS) | [UAU](https://open.spotify.com/artist/3zfokQW0XScTuGtTQkl682) | [Playlist \#Your Youth](https://open.spotify.com/album/0SXSJGq70vyCzasqsppeoa) | 3:33 |
 | 2 | [Molecular Gastronomy](https://open.spotify.com/track/2931vEcoEFWljb7Xas1ASK) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Molecular Gastronomy](https://open.spotify.com/album/35sglSFwKtTasoxq1xfQh7) | 3:12 |
 | 3 | [OXY](https://open.spotify.com/track/64OohQXYTPd5LA3wfJWAau) | [Keyveatz](https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF) | [OXY\_GEN](https://open.spotify.com/album/0hPyVToM2GSflSCIybG11c) | 2:34 |
-| 4 | [BAD \(Steve Aoki Ver.\)](https://open.spotify.com/track/1Wucg5F2sgxH5G1UtMNkR6) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [BAD \(Steve Aoki Ver.\)](https://open.spotify.com/album/0gI8v6pcOpciGbUO6TVhrw) | 3:16 |
-| 5 | [Perfect Target](https://open.spotify.com/track/0vVHDvDfYYVIz264bFoN9e) | [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [Perfect Target](https://open.spotify.com/album/6ANRoqd7mR7eezwpZSkiuc) | 2:28 |
-| 6 | [SUMMERTIME STORY](https://open.spotify.com/track/4gEayLXcxbZFoIVLoUUPpu) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [SUMMERTIME STORY](https://open.spotify.com/album/69KF67n03oFlMuDj6olUzP) | 3:11 |
-| 7 | [Caution: New Driver](https://open.spotify.com/track/2O5MJS2DSGT1R9LtVesdiE) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Caution: New Driver](https://open.spotify.com/album/78tFM0cEuQhoG3S8BmATwE) | 2:58 |
-| 8 | [GIRL \(Feat\. GIRIBOY\)](https://open.spotify.com/track/0Bjcxo2gPGTcW1sYQ5YASq) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [GIRL \(Feat\. GIRIBOY\)](https://open.spotify.com/album/3Bc9ZjfO481qkqqG9bUioN) | 2:35 |
-| 9 | [After work](https://open.spotify.com/track/0RsIMdiMbgHD5NWk3EMnRj) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [See You At Work Tomorrow! \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3XqrGW4WHJxzRs3I0nIbvA) | 2:41 |
-| 10 | [Don't Be](https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Don't Be](https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6) | 3:16 |
-| 11 | [HAWWAH](https://open.spotify.com/track/2BGgGlQy3mrrBZ5O9NFgNx) | [dodree](https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN) | [HAWWAH](https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0) | 2:53 |
-| 12 | [What Do I Steal?](https://open.spotify.com/track/3U0MrGAY4tmj0Q3etTrwhU) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Album 0](https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW) | 4:35 |
+| 4 | [What Do I Steal?](https://open.spotify.com/track/3U0MrGAY4tmj0Q3etTrwhU) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Album 0](https://open.spotify.com/album/6ymFQZHF3BsLeIdddZP9bW) | 4:35 |
+| 5 | [BAD \(Steve Aoki Ver.\)](https://open.spotify.com/track/1Wucg5F2sgxH5G1UtMNkR6) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [BAD \(Steve Aoki Ver.\)](https://open.spotify.com/album/0gI8v6pcOpciGbUO6TVhrw) | 3:16 |
+| 6 | [Perfect Target](https://open.spotify.com/track/0vVHDvDfYYVIz264bFoN9e) | [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648) | [Perfect Target](https://open.spotify.com/album/6ANRoqd7mR7eezwpZSkiuc) | 2:28 |
+| 7 | [SUMMERTIME STORY](https://open.spotify.com/track/4gEayLXcxbZFoIVLoUUPpu) | [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [SUMMERTIME STORY](https://open.spotify.com/album/69KF67n03oFlMuDj6olUzP) | 3:11 |
+| 8 | [Caution: New Driver](https://open.spotify.com/track/2O5MJS2DSGT1R9LtVesdiE) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [Caution: New Driver](https://open.spotify.com/album/78tFM0cEuQhoG3S8BmATwE) | 2:58 |
+| 9 | [GIRL \(Feat\. GIRIBOY\)](https://open.spotify.com/track/0Bjcxo2gPGTcW1sYQ5YASq) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [GIRL \(Feat\. GIRIBOY\)](https://open.spotify.com/album/3Bc9ZjfO481qkqqG9bUioN) | 2:35 |
+| 10 | [After work](https://open.spotify.com/track/0RsIMdiMbgHD5NWk3EMnRj) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [See You At Work Tomorrow! \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/3XqrGW4WHJxzRs3I0nIbvA) | 2:41 |
+| 11 | [Don't Be](https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Don't Be](https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6) | 3:16 |
+| 12 | [HAWWAH](https://open.spotify.com/track/2BGgGlQy3mrrBZ5O9NFgNx) | [dodree](https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN) | [HAWWAH](https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0) | 2:53 |
 | 13 | [Happy Depression](https://open.spotify.com/track/5DzZm8NYsDb8OlkAUbTPDL) | [POW](https://open.spotify.com/artist/3aycZMYDTnN0trM2XnTI4Y) | [Happy Depression](https://open.spotify.com/album/2PzcbjMsMzjlsK2KjX4Iba) | 2:55 |
 | 14 | [Little By Little](https://open.spotify.com/track/196Dx9vJHa7TOhjYCo9w0I) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [\[Things We Dream : Vol.2\]](https://open.spotify.com/album/390I24KGUAc9Fvzzw4Mlul) | 3:04 |
 | 15 | [LIFE \(Feat\. BOBBY\)](https://open.spotify.com/track/3MLnRHPDHsIwSiGlYHbwhi) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q), [NE:ON](https://open.spotify.com/artist/2bhYmlBehpmfopU0TroWem), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [SWITCH.zip](https://open.spotify.com/album/0GIgUx9OJbgSRlXfdVElP3) | 2:45 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 58 | [Curious](https://open.spotify.com/track/3rg00htlOp0UuBZcAMGkwJ) | [AND2BLE](https://open.spotify.com/artist/3vAHTO5HJ4FmzrLmVbOKRF) | [Sequence 01: Curiosity](https://open.spotify.com/album/5fCZmHJgVkaNIf2ZcmlmzD) | 2:58 |
 | 59 | [OMG!](https://open.spotify.com/track/2tMfEwk96cjTSRTelQkwx6) | [ALPHA DRIVE ONE](https://open.spotify.com/artist/1Sal7hVz3weo0mvYZPiWHT) | [No School Tomorrow](https://open.spotify.com/album/6nRIRE0BPMRd2lrixYYXjN) | 2:24 |
 
-Snapshot ID: `AAAAAEg1/Ls64bDFy0lprWUme89J4Z7a`
+Snapshot ID: `AAAAAPw8b3bJOxOc2oBfUP50L7WzNE2f`

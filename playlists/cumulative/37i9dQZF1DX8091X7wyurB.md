@@ -4,7 +4,7 @@
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-906 songs - 3 day 22 hr 22 min
+906 songs - 3 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [Holy Ghost Fire](https://open.spotify.com/track/2LndZcoSxFmf5NtG4w3yey) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Holy Ghost Fire](https://open.spotify.com/album/3ioOaZPBSPg90sKnp10WYw) | 8:05 | 2025-11-28 | 2025-12-12 |
 | [Holy Ghost Help Me Pray \- Live](https://open.spotify.com/track/3gLseUrjaS7SyMinAyuE1l) | [Jimmy D Psalmist](https://open.spotify.com/artist/6weeLM99JwrUAncX6igRcs) | [Holy Ghost Help Me Pray \(Live\)](https://open.spotify.com/album/5gMjpCYEzyy2FwOGR4Zb27) | 10:56 | 2025-10-24 | 2025-11-14 |
 | [Holy Ghost My Safe Zone](https://open.spotify.com/track/6eisBzfE1a6sxwFiZBW0Lj) | [Hubert Onuorah](https://open.spotify.com/artist/2pQj1Ma7lTVr7ec77obB4y) | [Holy Ghost My Safe Zone](https://open.spotify.com/album/4PeewXLsxJ53DZxdYto0b6) | 9:36 | 2026-01-30 | 2026-03-20 |
+| [Holy Holy Holy](https://open.spotify.com/track/5WH2UuWLvRSoMqKvABTJm7) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Holy Holy Holy](https://open.spotify.com/album/0pxjDuWhj4F6LZLpiKZOIA) | 12:08 | 2026-07-03 |  |
 | [Holy Lion \- Live](https://open.spotify.com/track/1a5o3ggaPXvJQ4jpJse1G7) | [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Holy Lion](https://open.spotify.com/album/0iPF450yj9uArQB1dzYGwP) | 8:36 | 2026-04-03 | 2026-05-15 |
 | [Holy Lord \(Live\)](https://open.spotify.com/track/38UeQ10f009YHdlJn4yJNw) | [Nana Amoah](https://open.spotify.com/artist/3EQe9YDfiBp4ZERkmjp6Fu) | [Holy Lord \(Live\)](https://open.spotify.com/album/5FlTnZYUQeV43Sej317op4) | 4:56 | 2025-10-10 | 2025-11-14 |
 | [Holy Spirit](https://open.spotify.com/track/77I6qSpZcwJoEhxNo0yCQ9) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Holy Spirit](https://open.spotify.com/album/0dcPOadAg4gyXkKiSoa6N0) | 5:51 | 2024-11-15 | 2026-05-28 |
@@ -786,7 +787,6 @@
 | [Tonight](https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW) | [Benjamin Kaggwa](https://open.spotify.com/artist/7LbOkDaLcWqMi4tXGCNPUF), [Johnmarie](https://open.spotify.com/artist/05tDEWwNTo2dZHNmeOKWUE) | [Tonight](https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr) | 3:10 | 2024-05-10 | 2024-06-07 |
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2023-12-05 |  |
 | [TOTORI \(The Name of Jesus\)](https://open.spotify.com/track/21rTE3IBtnxuVE1tmt90Ac) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [TOTORI \(The Name of Jesus\)](https://open.spotify.com/album/6QKDQjlkZlsm2V0T4gxjZj) | 3:24 | 2023-05-12 | 2023-06-23 |
-| [Track 1](https://open.spotify.com/track/5WH2UuWLvRSoMqKvABTJm7) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Holy Holy Holy](https://open.spotify.com/album/0pxjDuWhj4F6LZLpiKZOIA) | 0:00 | 2026-07-03 |  |
 | [Tremble \- Live](https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Glory & Wonder](https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU) | 5:09 | 2024-07-19 |  |
 | [Trust In God \- Radio Version](https://open.spotify.com/track/7mqEjKUiNZUfsDD9QQHqaw) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Trust In God \(Radio Version\)](https://open.spotify.com/album/6IW9jcM4HMToKGO1aE8dbv) | 4:03 | 2023-07-28 | 2024-02-16 |
 | [Turbulent Skies](https://open.spotify.com/track/42QA59YtaWyuRu3H94SUXY) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:33 | 2023-09-08 | 2024-10-02 |

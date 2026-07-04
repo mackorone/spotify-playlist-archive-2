@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest and recent Ghana party starters\. Cover:   Gyakie
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,387 likes - 86 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,423 likes - 86 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,4 +95,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 85 | [RARRI](https://open.spotify.com/track/6D2lZx4sPzNy3wPYnIgz2o) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [RARRI](https://open.spotify.com/album/6rv3Dz8xETv0F9exOfIv6C) | 2:10 |
 | 86 | [Masallaci](https://open.spotify.com/track/33VYsUAdBLXYfwDm657qpJ) | [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [Masallaci](https://open.spotify.com/album/0fZTCzdV6sxq4l2Ez6Bt6M) | 2:05 |
 
-Snapshot ID: `AAAAAAHKbzHsVAxWpuyreQ+lkZCUhbIP`
+Snapshot ID: `AAAAAHFqtBfbRbYaV7W4PfOnGYxxsFIQ`

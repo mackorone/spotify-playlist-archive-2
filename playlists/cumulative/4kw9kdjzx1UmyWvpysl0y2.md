@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,261 songs - 2 day 22 hr 1 min
+1,263 songs - 2 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [FAR OUT](https://open.spotify.com/track/0DT3f2Y9UEwGdJC7f4FOzH) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [FAR OUT](https://open.spotify.com/album/5RQAm3Nx1cpPzQzb1veOra) | 3:24 | 2023-02-21 | 2023-05-13 |
 | [FAR OUT \- VIP](https://open.spotify.com/track/7MkQcCKy90nZcoHGOdA7N8) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [FAR OUT \(VIP\)](https://open.spotify.com/album/1wIr5DAKLanHRO0E8DU7za) | 3:51 | 2023-12-06 | 2024-03-20 |
 | [FASTEST](https://open.spotify.com/track/2SFTvk2vpu26ZTpMuO3cjW) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [FASTEST](https://open.spotify.com/album/6PPdZI6Qg0AzTS10i2qxwl) | 2:30 | 2024-04-17 | 2024-07-06 |
+| [FEAR](https://open.spotify.com/track/4baB7bmvoAs6FV81d2TAua) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [FEAR](https://open.spotify.com/album/7eSlYvS41yQ0OW767FJSHN) | 2:58 | 2026-07-03 |  |
 | [Feed The Fire](https://open.spotify.com/track/0n4nWZZlJhoYKT3ivA0Tqw) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp) | [Feed The Fire](https://open.spotify.com/album/06K7RkgunV8m8Lonc9DtU4) | 3:15 | 2026-03-09 | 2026-06-27 |
 | [FEEL AGAIN](https://open.spotify.com/track/06R5NcXhfxHzw4b89lDB71) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [ellie d.](https://open.spotify.com/artist/1sb3Wnb1EfKjGrGZxC7uhh) | [FEEL AGAIN](https://open.spotify.com/album/4kHLkD35YdrfrJLdXeb3dW) | 2:47 | 2024-05-22 | 2024-08-14 |
 | [Feel Again](https://open.spotify.com/track/4kqikvllN5GRPrxf9vQ1SR) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:15 | 2022-11-19 | 2023-02-17 |
@@ -735,6 +736,7 @@
 | [Need You](https://open.spotify.com/track/6dAsiXhQrIYH4AAXuqyGWH) | [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [Need You](https://open.spotify.com/album/174i8xLnIubs0bYpOVqR9t) | 3:12 | 2024-01-09 | 2024-04-02 |
 | [Need You Now](https://open.spotify.com/track/52ehfM6Mn06xXhKbBpmE8a) | [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Need You Now](https://open.spotify.com/album/7Bmt7iOL8QI1CY2IDB75GK) | 3:22 | 2025-05-06 | 2025-07-30 |
 | [Nervous System](https://open.spotify.com/track/01ywNfttBNmwRESQd3RKGb) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Nervous System](https://open.spotify.com/album/2xoCvCKhj0dIyZz8bXdLnI) | 3:40 | 2024-09-27 | 2025-01-07 |
+| [Nevada \- Gabry Ponte Remix](https://open.spotify.com/track/6rJhZVoNyBHxJrir42TFVp) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada \(Gabry Ponte Remix\)](https://open.spotify.com/album/0sjEQUMAMBxh9Nzar11bKv) | 2:18 | 2026-07-03 |  |
 | [Nevada \- Sped Up](https://open.spotify.com/track/0tbfHEnclBgFV5O5SYgfSK) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/7eNKd847sotWHdAOKujY43) | 3:04 | 2023-09-08 | 2024-01-11 |
 | [Nevada \- TELYKAST Remix](https://open.spotify.com/track/1DruZpVMvPr1vfFeXhDBr6) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada \(TELYKAST Remix\)](https://open.spotify.com/album/4oML5U5XXyNqtZoshm6uud) | 3:08 | 2026-06-26 |  |
 | [Nevada \- Vicetone Lofi Mix](https://open.spotify.com/track/0ueILWV4Pvzx5hJCMCn975) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada \(Vicetone Lofi Mix\)](https://open.spotify.com/album/5S69WMh7mRHeLb8BQrq9sA) | 2:27 | 2022-02-18 | 2022-04-29 |

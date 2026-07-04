@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Young. The essential tracks, all in one playlist.",
-  "num_followers": 51595,
+  "num_followers": 51619,
   "original_name": "This Is Lola Young",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAAD8Y47UmzG4Rxr7qOGvn0uJ",
+  "snapshot_id": "akWqAAAAAAAqXMLoQMqTbl7mzU8PHmvD",
   "tracks": [
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 228790,
-      "name": "Blind Love",
-      "url": "https://open.spotify.com/track/1Tr2J2bbK9lS6tCs9LFoDo"
+      "duration_ms": 157066,
+      "name": "Grey And Lilac - Intro",
+      "url": "https://open.spotify.com/track/1TMF8DNwkbQLkBodN8Lgnu"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
         }
       ],
-      "duration_ms": 157066,
-      "name": "Grey And Lilac - Intro",
-      "url": "https://open.spotify.com/track/1TMF8DNwkbQLkBodN8Lgnu"
+      "duration_ms": 228790,
+      "name": "Blind Love",
+      "url": "https://open.spotify.com/track/1Tr2J2bbK9lS6tCs9LFoDo"
     },
     {
       "added_at": null,

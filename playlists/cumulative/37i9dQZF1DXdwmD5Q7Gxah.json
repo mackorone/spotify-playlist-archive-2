@@ -3611,6 +3611,24 @@
     },
     {
       "album": {
+        "name": "Fcukers - Spotify RADAR",
+        "url": "https://open.spotify.com/album/11i4mV1Y7fWUvuWjRh8JPR"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295140,
+      "name": "Anemone - (Live) | Spotify RADAR",
+      "url": "https://open.spotify.com/track/6UcZ2LnJwKB5lc8EOOWlw3"
+    },
+    {
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/14JBamalIC4mq2Yy2oTlLT"
       },

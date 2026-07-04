@@ -4373,6 +4373,28 @@
     },
     {
       "album": {
+        "name": "Something Real",
+        "url": "https://open.spotify.com/album/0fXscY5gJPEtpKxGl22P1i"
+      },
+      "artists": [
+        {
+          "name": "Craig Connelly",
+          "url": "https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL"
+        },
+        {
+          "name": "Dani Sylvia",
+          "url": "https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234169,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/2678BoumxAEUu69yEcu4bR"
+    },
+    {
+      "album": {
         "name": "Starry Eyed Surprise",
         "url": "https://open.spotify.com/album/6LxeSyeNHN43FcXrI2P0P1"
       },

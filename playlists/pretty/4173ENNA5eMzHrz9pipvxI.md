@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Timmy Trumpet x bradeazy
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Justė
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,114 likes - 264 songs - 13 hr 11 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 118,106 likes - 264 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -273,4 +273,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 263 | [Era](https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Era](https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp) | 4:44 |
 | 264 | [Fever Dream \- Extended Mix](https://open.spotify.com/track/0nBHXHM7VzucF8OtVJzAdE) | [Tuew](https://open.spotify.com/artist/0TEFGr4Bz2GgUhfDGsNx3r) | [Fever Dream](https://open.spotify.com/album/3M7b4WrkyiNENf3GNXKLuq) | 3:32 |
 
-Snapshot ID: `AAAhuVbYKzcqDk0gpl5zPRJveSyjry4J`
+Snapshot ID: `AAAhuioeiWepB+zez6udEOnf3zNgPgLP`

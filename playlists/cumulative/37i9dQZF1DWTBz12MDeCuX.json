@@ -42733,7 +42733,7 @@
     },
     {
       "album": {
-        "name": "m\u00fcde",
+        "name": "M\u00fcde",
         "url": "https://open.spotify.com/album/05vrUtHhnNEqy2WNGPY8T9"
       },
       "artists": [
@@ -42746,7 +42746,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153428,
-      "name": "m\u00fcde",
+      "name": "M\u00fcde",
       "url": "https://open.spotify.com/track/6XfDVm6QczCYrLBuGfBpIp"
     },
     {
@@ -55971,6 +55971,28 @@
     },
     {
       "album": {
+        "name": "NOTES FROM LATAM",
+        "url": "https://open.spotify.com/album/5KlPBzaaCHOTKS5rdN6bi7"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200298,
+      "name": "SOLITO (feat. maye)",
+      "url": "https://open.spotify.com/track/6vmLZbrfb6Zky8uShfVjhE"
+    },
+    {
+      "album": {
         "name": "Somebody New",
         "url": "https://open.spotify.com/album/59PAAx06alV3da3WBAO1NK"
       },
@@ -61858,24 +61880,6 @@
       "duration_ms": 326906,
       "name": "Track 10",
       "url": "https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc"
-    },
-    {
-      "album": {
-        "name": "NOTES FROM LATAM",
-        "url": "https://open.spotify.com/album/5KlPBzaaCHOTKS5rdN6bi7"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "date_added": "2026-07-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/6vmLZbrfb6Zky8uShfVjhE"
     },
     {
       "album": {

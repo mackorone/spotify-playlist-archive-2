@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in Africa\. Cover: Novex, Born Kxng, MOONLIGHT AFRIQA, S.N.E
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,253 likes - 50 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,298 likes - 50 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 19 | [Thula Thula](https://open.spotify.com/track/4dB7cVVakfGIT629qVYEwr) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Zawadi Yamungu](https://open.spotify.com/artist/1cfkRhGxegzAt8KlgVF0vl) | [OPEN YOUR EYES](https://open.spotify.com/album/688SQM8Cth3pbTyNWEYiXX) | 5:33 |
 | 20 | [Come To Me \(My Love\)](https://open.spotify.com/track/1ZCRAO91HC9X8d4WloR59a) | [Charisse C](https://open.spotify.com/artist/3t8cTcgOoxQb0K8gkyKC0n), [Khandasi](https://open.spotify.com/artist/4mDed0KOVrbDs2SfagQwZR), [TAPIWA](https://open.spotify.com/artist/18fxzBELWLV9RCCOqqjyEd) | [Come To Me \(My Love\)](https://open.spotify.com/album/2YkSQ0CGMyrvt4MLNg8N1M) | 5:27 |
 | 21 | [Sfede \- General C'mamane Remix](https://open.spotify.com/track/376p6zyHczxRSRR7DljBNU) | [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG), [General C'Mamane](https://open.spotify.com/artist/3EJuq3QjLiJfFc3SaTaN9g) | [Sfede \(Remix Pack\)](https://open.spotify.com/album/1Y6PfuxBIvj35wgsuTgTAD) | 4:47 |
-| 22 | [Ping Pong](https://open.spotify.com/track/5Uv914VDC2yiPp0n2JBfX8) | [Goldmax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr) | [Ogesi](https://open.spotify.com/album/4nzUvHqFaxqlJhxqOvXQJN) | 4:45 |
+| 22 | [Ping Pong](https://open.spotify.com/track/5Uv914VDC2yiPp0n2JBfX8) | [GoldMax](https://open.spotify.com/artist/3yWkz47Z8kE6z1xW6rjkAl), [Campmasters](https://open.spotify.com/artist/6b2HMbnP4SmYcpOL19fFmr) | [Ogesi](https://open.spotify.com/album/4nzUvHqFaxqlJhxqOvXQJN) | 4:45 |
 | 23 | [ZEP \(feat\. Uncool MC\)](https://open.spotify.com/track/1K0sOGQSOUflAyPPRBhTax) | [Dj Smallz](https://open.spotify.com/artist/4TvbQDO2cOQqr9oCKHaGTM), [ZinedinexSguche](https://open.spotify.com/artist/3p375AB4ZQn1HKupXuDCCX), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks), [Uncool MC](https://open.spotify.com/artist/6t3c6bpXVLzQGiKf00urM1) | [ZEP \(feat\. Uncool MC\)](https://open.spotify.com/album/6hmdlLccKNe9ORX8ZhXO39) | 5:08 |
 | 24 | [Awe Mah](https://open.spotify.com/track/6frSQIVkgpbSXmlR1l95Ut) | [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86), [Shakes & Les](https://open.spotify.com/artist/4bslbAAfObKnJI0G6FNcTp), [MK Productions](https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8) | [Awe Mah](https://open.spotify.com/album/2mqNnsJQQpq2leTMobs6kU) | 3:33 |
 | 25 | [when the party's over](https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [when the party's over](https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5) | 3:04 |

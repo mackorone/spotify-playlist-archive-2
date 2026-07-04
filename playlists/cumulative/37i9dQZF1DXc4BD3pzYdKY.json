@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of Christian Hip Hop today.  Cover: Canon",
+  "description": "The best of Christian Hip Hop today.  Cover: Wordsplayed  & Andy Mineo",
   "name": "The Flow",
   "tracks": [
     {
@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "400 Down",
+        "url": "https://open.spotify.com/album/6PXoM9qRW5BiS3WpEGKasf"
+      },
+      "artists": [
+        {
+          "name": "LANELL GRANT",
+          "url": "https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "400 Down",
+      "url": "https://open.spotify.com/track/1g4IKIdKCx12iox1JPD6bR"
+    },
+    {
+      "album": {
         "name": "4am",
         "url": "https://open.spotify.com/album/1kiAcreVmVDyfgjHIQeXt6"
       },
@@ -684,7 +702,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 123325,
       "name": "AGAIN?",
       "url": "https://open.spotify.com/track/5dcozUzBeKa3XWhcwYalPt"
@@ -6015,6 +6033,24 @@
     },
     {
       "album": {
+        "name": "Dance Like David",
+        "url": "https://open.spotify.com/album/0SE7b5oxuWuVu99tQYMi0Z"
+      },
+      "artists": [
+        {
+          "name": "Y Shadey",
+          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130403,
+      "name": "Dance Like David",
+      "url": "https://open.spotify.com/track/7C57mf9RevN9zFLwh9GhLa"
+    },
+    {
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/4jb9mnHKLY4YtTXPvT3ILL"
       },
@@ -8196,7 +8232,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 135858,
       "name": "FLEX",
       "url": "https://open.spotify.com/track/2bTY46Jc9FbovLFECJw0WM"
@@ -8214,7 +8250,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 178536,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0zdvgpPm6ge1eBNqWrZy2w"
@@ -10120,7 +10156,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 170000,
       "name": "GRADUATION",
       "url": "https://open.spotify.com/track/0M5tSUZOxAIoSYuPL8px6p"
@@ -10406,7 +10442,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 167667,
       "name": "GTA 6",
       "url": "https://open.spotify.com/track/2pTIbtODPQ9dtQuD3rPaTp"
@@ -15026,7 +15062,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 149333,
       "name": "Live For The Culture",
       "url": "https://open.spotify.com/track/4UdtxGQYQIpcVIqPoqSndJ"
@@ -19227,6 +19263,28 @@
     },
     {
       "album": {
+        "name": "PASS THE BLESSINGS",
+        "url": "https://open.spotify.com/album/15Z1azNj9eUvdEUx4tEP80"
+      },
+      "artists": [
+        {
+          "name": "Queen Lee",
+          "url": "https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS"
+        },
+        {
+          "name": "Anike",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144496,
+      "name": "PASS THE BLESSINGS",
+      "url": "https://open.spotify.com/track/4po7k2hurPAWWDqtNUSdii"
+    },
+    {
+      "album": {
         "name": "Passing Through | Make It Home Medley (for ESPYS)",
         "url": "https://open.spotify.com/album/1mgBvdZ9kbjsv6fId4QXq6"
       },
@@ -23216,6 +23274,32 @@
       "duration_ms": 163200,
       "name": "Squabble",
       "url": "https://open.spotify.com/track/0jYGdeobsBl0LExCcDugp8"
+    },
+    {
+      "album": {
+        "name": "MAGIC & BIRD 2: WHAT A RUSH!",
+        "url": "https://open.spotify.com/album/2iCU2e1GsUNc2qRfVALHgj"
+      },
+      "artists": [
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        },
+        {
+          "name": "Wordsplayed",
+          "url": "https://open.spotify.com/artist/0AKzJfX9rdEu8WOqeBLEaO"
+        },
+        {
+          "name": "Magic & Bird",
+          "url": "https://open.spotify.com/artist/3Sv0RnybkUFxZfPJJlSV2x"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105898,
+      "name": "STAMINA",
+      "url": "https://open.spotify.com/track/1DBsSoMo1UR8ntjVfLPOSq"
     },
     {
       "album": {
@@ -27369,6 +27453,32 @@
     },
     {
       "album": {
+        "name": "WAYMO",
+        "url": "https://open.spotify.com/album/7KrvwjzdOL299hS5RosKEh"
+      },
+      "artists": [
+        {
+          "name": "116",
+          "url": "https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72"
+        },
+        {
+          "name": "kappaa!",
+          "url": "https://open.spotify.com/artist/59qj4dTLo3tVzjVGNTvgPu"
+        },
+        {
+          "name": "Aklesso",
+          "url": "https://open.spotify.com/artist/7r3HxO330lmabOprT2MMFK"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165662,
+      "name": "WAYMO",
+      "url": "https://open.spotify.com/track/029soVXTbzYBkTVpAfMvpt"
+    },
+    {
+      "album": {
         "name": "Ways Pure",
         "url": "https://open.spotify.com/album/0tiPB0pmGvMogjdNOzrzJf"
       },
@@ -28750,6 +28860,28 @@
       "duration_ms": 150125,
       "name": "Would Ya?",
       "url": "https://open.spotify.com/track/4rBkUpHCkGraevSC4eo5Wb"
+    },
+    {
+      "album": {
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/7n8eQqwrJOVISqECjVV6do"
+      },
+      "artists": [
+        {
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
+        },
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/7wGizTRCLYwsLnTuCBbJ6t"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168696,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/3d373YpARRmF7kQ3fN9o4z"
     },
     {
       "album": {

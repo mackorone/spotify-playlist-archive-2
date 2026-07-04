@@ -1,12 +1,12 @@
 {
   "description": "De beste tunes op repeat. Cover: Langa",
-  "num_followers": 141450,
+  "num_followers": 141454,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOu8DhGxzJyLCYEYV6/EEkaIW3Nt",
+  "snapshot_id": "AAAAAMH+tS0lmceiDVoGs+wyEHJ80L23",
   "tracks": [
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "PGS",
-        "url": "https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3"
-      },
-      "artists": [
-        {
-          "name": "Yade Lauren",
-          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
-        }
-      ],
-      "duration_ms": 151016,
-      "name": "PGS",
-      "url": "https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
         "name": "Tuesday",
         "url": "https://open.spotify.com/album/0QvhqTigV3PbcHT93q3Sfn"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 174433,
       "name": "Tuesday",
       "url": "https://open.spotify.com/track/7zPOZujiZy4q0RYIx7mKKh"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
+        "name": "PGS",
+        "url": "https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "duration_ms": 151016,
+      "name": "PGS",
+      "url": "https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Je Bent Leuk",
-        "url": "https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt"
-      },
-      "artists": [
-        {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
-        },
-        {
-          "name": "LA$$A",
-          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
-        }
-      ],
-      "duration_ms": 122812,
-      "name": "Je Bent Leuk",
-      "url": "https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
         "name": "Don Julio Daddy",
         "url": "https://open.spotify.com/album/5vUg7yoxgbQKBNt2FLtKJH"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 176518,
       "name": "Don Julio Daddy",
       "url": "https://open.spotify.com/track/29OyY2QfQnTP9KgdAmNviU"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
+        "name": "Je Bent Leuk",
+        "url": "https://open.spotify.com/album/0ylQLQW9UUNOs0uINvTkgt"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        }
+      ],
+      "duration_ms": 122812,
+      "name": "Je Bent Leuk",
+      "url": "https://open.spotify.com/track/4ZI2g8wtdJOLdPf6TFwitA"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1283,30 +1283,6 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Dans Gewoon",
-        "url": "https://open.spotify.com/album/3PvUWA9XY1FQhKikmc5NK6"
-      },
-      "artists": [
-        {
-          "name": "Rijck",
-          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
-        },
-        {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Dans Gewoon",
-      "url": "https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
         "name": "Noncha",
         "url": "https://open.spotify.com/album/24JYo2Oexp5FVyvSpFVWNQ"
       },
@@ -1327,6 +1303,30 @@
       "duration_ms": 198750,
       "name": "Noncha",
       "url": "https://open.spotify.com/track/0eAi8M0qEFxa9EfCAuemKk"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
+        "name": "Dans Gewoon",
+        "url": "https://open.spotify.com/album/3PvUWA9XY1FQhKikmc5NK6"
+      },
+      "artists": [
+        {
+          "name": "Rijck",
+          "url": "https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ"
+        },
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Dans Gewoon",
+      "url": "https://open.spotify.com/track/3YrzQVu7wdv1d5MO2DvVdl"
     },
     {
       "added_at": "2026-06-11 07:46:46",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-06-11 07:46:46",
       "album": {
-        "name": "Niet Verstandig",
-        "url": "https://open.spotify.com/album/3oxxu47TjP2Krk6iz1dQ4B"
-      },
-      "artists": [
-        {
-          "name": "Kleine John",
-          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
-        }
-      ],
-      "duration_ms": 142875,
-      "name": "Niet Verstandig",
-      "url": "https://open.spotify.com/track/35BKAvxM6Thb2lN5dvqnfF"
-    },
-    {
-      "added_at": "2026-06-11 07:46:46",
-      "album": {
         "name": "Love = Scary",
         "url": "https://open.spotify.com/album/34mLUrlEQ8vjRYyDAXT4A8"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 147090,
       "name": "Love = Scary",
       "url": "https://open.spotify.com/track/39gFgXRPPZjv8HebmbT6rW"
+    },
+    {
+      "added_at": "2026-06-11 07:46:46",
+      "album": {
+        "name": "Niet Verstandig",
+        "url": "https://open.spotify.com/album/3oxxu47TjP2Krk6iz1dQ4B"
+      },
+      "artists": [
+        {
+          "name": "Kleine John",
+          "url": "https://open.spotify.com/artist/7bTUZU8QavxiW0GtvEVP0M"
+        }
+      ],
+      "duration_ms": 142875,
+      "name": "Niet Verstandig",
+      "url": "https://open.spotify.com/track/35BKAvxM6Thb2lN5dvqnfF"
     },
     {
       "added_at": "2026-06-11 07:46:46",

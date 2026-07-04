@@ -4,7 +4,7 @@
 
 > 
 
-260 songs - 13 hr 42 min
+261 songs - 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Falling Apart](https://open.spotify.com/track/38O5OYX7gXD2YAamTcW72t) | [ARK IDENTITY](https://open.spotify.com/artist/569UPpViTfeKYYJRjggAz8) | [Falling Apart](https://open.spotify.com/album/78h0okzrA3Z9rhln7vShrC) | 2:50 | 2025-12-11 |  |
 | [FAMOUS](https://open.spotify.com/track/4qEnIy1gg6nUNES2OxWr9N) | [MEanIngfUl](https://open.spotify.com/artist/5j62YtmsqrRgu7v49wDtrA), [w0nderthug](https://open.spotify.com/artist/4TaOqV1FUHnhkX67H25xJp) | [FAMOUS](https://open.spotify.com/album/1kNBfxOpHZ5JWiqixGLZXp) | 3:36 | 2026-01-02 |  |
 | [Fastlife](https://open.spotify.com/track/37X0LVMpjlxIeiW7mpre4I) | [Ovthex](https://open.spotify.com/artist/5GitDiJdtHyC7aHejcDn7s) | [Fastlife](https://open.spotify.com/album/17qINZKWn4KsLPIpiyZqV8) | 2:58 | 2025-04-06 |  |
+| [Feel Like I'm Brunson](https://open.spotify.com/track/4SQhdRS8ZGqBfrv5sHuAgB) | [LVLuck](https://open.spotify.com/artist/6I1V23yCf9NR48DNdniRd6) | [Feel Like I'm Brunson](https://open.spotify.com/album/4bPXWupAcwdH8olxYJZeWU) | 2:57 | 2026-07-03 |  |
 | [Fire](https://open.spotify.com/track/6s9qYXqxPCV2x2EJglACvd) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Steel II](https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd) | 4:04 | 2026-06-24 |  |
 | [Foolish](https://open.spotify.com/track/4Rx9hSHqsf7EnarIK4ogCq) | [Absorbingpersona](https://open.spotify.com/artist/19vhCix1RBZqXR9PqKZXAo) | [Foolish](https://open.spotify.com/album/0qu3zdChmXT5ByD9A9Y0Zw) | 3:22 | 2026-03-15 |  |
 | [Footsteps In The Snow](https://open.spotify.com/track/4rEIvYWAoxaJMQtn2Vxh22) | [TRUE VIOLENCE](https://open.spotify.com/artist/4Nd2abwG3lQaZFAOJkrKc5), [Semzo](https://open.spotify.com/artist/6B5ZIMPRas4DEOC5j9mGii) | [TRUE VIOLENCE II](https://open.spotify.com/album/675EWaERbVUkX532tpDywe) | 7:00 | 2026-06-24 |  |

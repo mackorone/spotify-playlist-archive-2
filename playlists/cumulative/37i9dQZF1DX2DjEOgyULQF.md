@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-459 songs - 21 hr 38 min
+461 songs - 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Benevolent](https://open.spotify.com/track/3Eq3PQV5GeqlmzqmcH1lJa) | [Waking Up Inside](https://open.spotify.com/artist/2nFUQ65Yx9UWldBxOmBKlG) | [Benevolent](https://open.spotify.com/album/41Mu0iwQolq2DhBo2VdAEP) | 2:24 | 2026-04-03 |  |
 | [Berolige](https://open.spotify.com/track/15dsm3bIFI6HLkvMcRdJ5I) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Berolige](https://open.spotify.com/album/0XRbQIYB0Zis5Onjac79SF) | 2:36 | 2024-04-01 | 2026-04-04 |
 | [Bewilderment](https://open.spotify.com/track/7JmTFcW5KDPZZyJyXHIgbE) | [Waves Of Wonder](https://open.spotify.com/artist/57lCW38CVKbL9zWSy7Ewpn) | [Bewilderment](https://open.spotify.com/album/0DrHkO9AXh9JRrpKSSMwTi) | 2:15 | 2026-06-12 |  |
-| [Bird Bath Opus](https://open.spotify.com/track/0JdkqE8WG3f638p5SRHhZ2) | [Infam Enn](https://open.spotify.com/artist/23AEFnMnAxHi3UfuJlR9R6) | [Bird Bath Opus](https://open.spotify.com/album/1LhDh8ViMClWffkyg1Gd0e) | 3:00 | 2025-05-21 |  |
+| [Bird Bath Opus](https://open.spotify.com/track/0JdkqE8WG3f638p5SRHhZ2) | [Infam Enn](https://open.spotify.com/artist/23AEFnMnAxHi3UfuJlR9R6) | [Bird Bath Opus](https://open.spotify.com/album/1LhDh8ViMClWffkyg1Gd0e) | 3:00 | 2025-05-21 | 2026-07-04 |
 | [Birds In The Cul\-De\-Sac](https://open.spotify.com/track/6Vv7pOvG9e8zFWOwIKJTqA) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Birds In The Cul\-De\-Sac](https://open.spotify.com/album/7sUigBnrLRsr8JD3oCVNfq) | 1:05 | 2026-04-03 | 2026-06-13 |
 | [Birds Singing In The Park](https://open.spotify.com/track/6PvZUOTuc5K7hHawZv8FD9) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Birds Singing In The Park](https://open.spotify.com/album/2wdnVPooTFEX6h6N1OFoVV) | 1:02 | 2026-04-03 |  |
 | [Blissed Out](https://open.spotify.com/track/2f87y9hlltwy95cG6FrTle) | [Soul Editor](https://open.spotify.com/artist/6ha711zIsbNRtnnoUF3rTU) | [Blissed Out](https://open.spotify.com/album/3Jy207hzZVAYlhiOskbDrD) | 2:32 | 2026-01-08 | 2026-04-04 |
@@ -132,7 +132,7 @@
 | [Eternal Now](https://open.spotify.com/track/4QQ8n1F9MwBLHnemQCoYob) | [Knot Released](https://open.spotify.com/artist/6uS1WmBHW9aJl8NkxoNaZY) | [Eternal Now](https://open.spotify.com/album/2Z1tt4Z8Jx6EGdZSAcuWoN) | 2:14 | 2026-04-03 |  |
 | [Eternally](https://open.spotify.com/track/6ee3Zz8m66BxfnB4ARUWSA) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Eternally](https://open.spotify.com/album/4ZXUEUdcDJEqKwdtXFxojg) | 3:04 | 2025-12-17 | 2026-04-04 |
 | [Eternals](https://open.spotify.com/track/1LZrsDo4MJaDPlOUvqp61c) | [Sweep Bliss](https://open.spotify.com/artist/55CnRvpF9JA5WhyNPemvY9) | [Eternals](https://open.spotify.com/album/6fmoSPgmDhT0vfblMgUT4z) | 2:14 | 2023-04-28 | 2025-11-03 |
-| [Eutony](https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Eutony](https://open.spotify.com/album/07AlM5Zxu1B4WYKLUtoZlP) | 2:38 | 2024-05-01 |  |
+| [Eutony](https://open.spotify.com/track/5HAdowEFhhgJw4q82GFDjt) | [Montbretia](https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA) | [Eutony](https://open.spotify.com/album/07AlM5Zxu1B4WYKLUtoZlP) | 2:38 | 2024-05-01 | 2026-07-04 |
 | [Everbound](https://open.spotify.com/track/3ukMCHjdNl8qExi9R9cydc) | [Lore](https://open.spotify.com/artist/5iAmH8roFlCIzK73jFSV5G) | [Everbound](https://open.spotify.com/album/173m3DmZedeHBdzJFY6Sws) | 2:54 | 2026-04-03 | 2026-05-28 |
 | [Everest](https://open.spotify.com/track/0zEsXbDQbh8dFoJ07XAy5Y) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Everest](https://open.spotify.com/album/0JfmGuV9OldmMVK1EYYoL9) | 2:27 | 2023-08-25 | 2026-04-04 |
 | [Exploring Textures](https://open.spotify.com/track/27KqGoyfodOPmOGt7Aw9Z6) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Exploring Textures](https://open.spotify.com/album/6uZUjhCErSJ1mlT7OSbbrv) | 2:57 | 2025-07-22 | 2026-04-04 |
@@ -354,6 +354,7 @@
 | [Serene Lake \(Spa\)](https://open.spotify.com/track/1gBPQ6xYTOszzZWng02LZZ) | [Mjuk](https://open.spotify.com/artist/1MI6YCbJfKv7EaTI8XcpM6) | [Serene Lake](https://open.spotify.com/album/5f4h7dEvqT2wJNknKEqDPo) | 2:37 | 2023-04-28 | 2025-05-22 |
 | [Serene Spa](https://open.spotify.com/track/7n8oXsxqPGZKUrhFK3zYHz) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Serene Spa](https://open.spotify.com/album/4vJY5vxJb2vWLTXxPSSUpz) | 2:10 | 2024-04-01 | 2025-08-14 |
 | [Serenity Flow](https://open.spotify.com/track/25oEmpvht5NM8M0LagktCx) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Serenity Flow](https://open.spotify.com/album/4IS6fz1Jjunk4MSAKNJcak) | 2:31 | 2023-11-24 | 2025-09-11 |
+| [Serenity River](https://open.spotify.com/track/02GCbTA03HQoXq38ZZPA5a) | [Fables From Mars](https://open.spotify.com/artist/2jIevUMKJWhRbcToBLJjqW) | [Serenity River](https://open.spotify.com/album/5K83tHQlzJmdUKWzZfI5bd) | 3:09 | 2026-07-03 |  |
 | [serulian](https://open.spotify.com/track/0k2ed287Ge88nyPcmuWOF2) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [serulian](https://open.spotify.com/album/0Hm83SrKUEQr2aQejt4I1p) | 2:07 | 2024-07-19 | 2026-04-04 |
 | [Shimmering Forest](https://open.spotify.com/track/6BLWC1NLcKc53MzfSQRvPG) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Shimmering Forest](https://open.spotify.com/album/1Y7mTexxu0dEAWw1OGfTR2) | 3:07 | 2023-04-28 | 2024-10-02 |
 | [Silent Forest](https://open.spotify.com/track/4RJ7NLf74ZcQwvVVSB29WO) | [Nails Meijer](https://open.spotify.com/artist/1eppraYB675IEGfk25zGhz) | [Silent Forest](https://open.spotify.com/album/4o58Zvl3itrlAyARSNIotq) | 3:22 | 2023-04-28 | 2025-05-22 |
@@ -383,6 +384,7 @@
 | [Stillness Within](https://open.spotify.com/track/49nLhd2akfHVZaYLgEg5lD) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [Stillness Within](https://open.spotify.com/album/1fs79wJdEOXxyv0GUxfOuJ) | 2:29 | 2026-01-08 | 2026-04-04 |
 | [Stone Lantern](https://open.spotify.com/track/3gGi0C9QGLwZmN2vbYorCB) | [Drimnix](https://open.spotify.com/artist/00Vox7JpuHc7lSrjY8zfSd) | [Stone Lantern](https://open.spotify.com/album/3Jl4h0y1fq5lpmPUejIzyu) | 2:25 | 2025-07-22 | 2026-04-04 |
 | [Stream of Harmony](https://open.spotify.com/track/2vsrtWukHPNJq6T0rt38rk) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Stream of Harmony](https://open.spotify.com/album/76eHssQQ8jisSTZwuiqC0R) | 2:57 | 2024-04-01 |  |
+| [Stream of Stars](https://open.spotify.com/track/1CRJnMODdN3FgF3bRz8Qa2) | [Far North](https://open.spotify.com/artist/5PsHx1QHRwGpw7tIvFVI9P) | [Stream of Stars](https://open.spotify.com/album/46FtPwAKC6t2sSJdrw6zqm) | 2:38 | 2026-07-03 |  |
 | [Sub Nubibus](https://open.spotify.com/track/7IoL1mOhd9J4yRQx5Rvq2n) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Sub Nubibus](https://open.spotify.com/album/5ruwT199WJvJDnlTRxfIk3) | 2:27 | 2023-04-28 | 2024-08-24 |
 | [Sunrise in a Jar](https://open.spotify.com/track/0e5XpVnnRRLrIYb1tcuBTE) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Sunrise in a Jar](https://open.spotify.com/album/1Nzkj2cu59W15lC5Ps3OLV) | 3:21 | 2024-04-01 | 2024-06-04 |
 | [Sunrise In Zen](https://open.spotify.com/track/15ykqWIK6EJzZZqOcClrtF) | [Lost Lumina](https://open.spotify.com/artist/6hxR80dFvGZxlRm3Sd33KQ) | [Sunrise In Zen](https://open.spotify.com/album/6mNo4Z9EMW0iAvCkbMwtPq) | 2:36 | 2026-04-03 |  |

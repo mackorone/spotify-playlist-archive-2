@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/6UGRY7ru8yUPoNLa0f4tWv.md) - [plain]
 
 > The Biggest Clubland tunes!
 
-[Clubland](https://open.spotify.com/user/clublandhq) - 295,370 likes - 99 songs - 5 hr 10 min
+[Clubland](https://open.spotify.com/user/clublandhq) - 295,375 likes - 99 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [L'Amour Toujours](https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/61hGQNFwmqGHXm5eeMkd4d) | 4:02 |
+| 1 | [L'Amour Toujours](https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE) | [GIGI D'AGOSTINO](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/61hGQNFwmqGHXm5eeMkd4d) | 4:02 |
 | 2 | [True Love Never Dies](https://open.spotify.com/track/2sNlv2IoUE9tvuWZAD1aGB) | [Flip & Fill](https://open.spotify.com/artist/0g202lpdrAgQdN4Z8wVrkV), [Kelly Llorenna](https://open.spotify.com/artist/4lllannDzyb2z1jAkNgBV1) | [True Love Never Dies](https://open.spotify.com/album/3WRj3YXIyqOhlUwttDF1x6) | 3:03 |
 | 3 | [Discolights \- \(with Darren Styles\)](https://open.spotify.com/track/0Pn5ylhLZTKopHKpNr0Ari) | [Ultrabeat](https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8) | [The Weekend Has Landed](https://open.spotify.com/album/76HsbLVNYEMaVm3zUR3twz) | 2:40 |
 | 4 | [Come With Me \- Radio Edit](https://open.spotify.com/track/3qLhHLgFCvq6YEzqZhCPEd) | [Special D.](https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt) | [Reckless](https://open.spotify.com/album/775zzjQA4YeBggn3uGddac) | 3:05 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/6UGRY7ru8yUPoNLa0f4tWv.md) - [plain]
 | 26 | [When Love Takes Over \(feat\. Kelly Rowland\)](https://open.spotify.com/track/1hRFVIy9As8OVRk8B7CrD5) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:11 |
 | 27 | [Nasty Girl \- Radio Edit](https://open.spotify.com/track/5RmzfC9KrMroIizbz5dtQA) | [Inaya Day](https://open.spotify.com/artist/0Uh7PxwmTPlbP3TbwBG41h) | [Nasty Girl](https://open.spotify.com/album/0Gca3yjsWnJBu0sgAk0eds) | 2:52 |
 | 28 | [Around the World \(La La La La La\)](https://open.spotify.com/track/7CvOnbFdnIoXMQ4eFCo5lB) | [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo), [Pete Konemann](https://open.spotify.com/artist/0PEfbjTw85CAN5G0lz9n3p) | [Planet Pop](https://open.spotify.com/album/2kBFECL9a71fNRXbRW5xO3) | 3:34 |
-| 29 | [Bla Bla Bla](https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV) | 4:15 |
+| 29 | [Bla Bla Bla](https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9) | [GIGI D'AGOSTINO](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV) | 4:15 |
 | 30 | [Talk That Talk](https://open.spotify.com/track/7goNyEd2JCqUkc402Z9VEL) | [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde), [Movada](https://open.spotify.com/artist/6DDphNWazbGLtmw2ARnqMp) | [Talk That Talk](https://open.spotify.com/album/44NN2OVBa6INT664H1B2PQ) | 2:19 |
 | 31 | [Shooting Star](https://open.spotify.com/track/1d1KyKiA2PSqDWGgGdbkla) | [Flip & Fill](https://open.spotify.com/artist/0g202lpdrAgQdN4Z8wVrkV), [Karen Parry](https://open.spotify.com/artist/2RQk2KJtUOvfWewjYnfUDB) | [100% Clubland Classix](https://open.spotify.com/album/5Rq6Y6uTyUQjHanxdMX9fv) | 3:14 |
 | 32 | [Feelin' Fine](https://open.spotify.com/track/1pdyjuLU2w1cCISBlyJc0G) | [Ultrabeat](https://open.spotify.com/artist/596ByjVYnslGJIHxEBGjF8) | [The Album](https://open.spotify.com/album/6AsKz5Ofh2mheArhZszs1p) | 2:59 |

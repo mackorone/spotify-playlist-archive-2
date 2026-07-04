@@ -4,7 +4,7 @@
 
 > Uplifting classical melodies to help you rise and shine.
 
-113 songs - 7 hr 22 min
+114 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Sinfonietta, FP 141: III\. Andante cantabile](https://open.spotify.com/track/4vii1l0Y3VZB2IrVkbRSs1) | [Francis Poulenc](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY), [Orchestre National de Lille](https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf), [Alexandre Bloch](https://open.spotify.com/artist/62bapfSobIHcr52G8fAjlG) | [Poulenc: La voix humaine](https://open.spotify.com/album/1ncMb3XT16iUBExxwNuNiY) | 6:46 | 2023-01-13 | 2023-04-06 |
 | [Sleepers, Awake, BWV 645 \(Transcr\. for Guitar\)](https://open.spotify.com/track/4ov3xGTdYtaIU6wR5O3khY) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Raphaël Feuillâtre](https://open.spotify.com/artist/7vaRQaj7oIVMzraSzbtSBa) | [J.S\. Bach: Sleepers, Awake, BWV 645 \(Transcr\. for Guitar\)](https://open.spotify.com/album/5tQEsGSfmYIHmqCiAhhgnk) | 3:05 | 2023-10-06 |  |
 | [Sleeping Lotus](https://open.spotify.com/track/6c7uYlmHJtZPnenPjqG7Ir) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Solipsism](https://open.spotify.com/album/2BGvT97OGSAivOsOb5PzMa) | 2:32 | 2024-09-05 |  |
+| [Solísima](https://open.spotify.com/track/7wq7AfOqPgAB1iJ8gBVwYX) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [Solísima](https://open.spotify.com/album/0ItBNQik8SX7z3s0NcuTPh) | 3:43 | 2026-07-03 |  |
 | [Stars of Sand \- From "Trigun"](https://open.spotify.com/track/601dCT51AL4c6JdlRQYaRr) | [Tsuneo Imahori](https://open.spotify.com/artist/5pfYZjQ34Czl0aQcWxQSmp), [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM) | [Stars of Sand \(From "Trigun"\)](https://open.spotify.com/album/3WgUeU8tkVAPokG4h62H2s) | 3:29 | 2024-04-12 |  |
 | [Suite bergamasque, CD 82: III\. Clair de lune \- Recorded 2017](https://open.spotify.com/track/26KykHLogeIep4OrurliDS) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Daniel Barenboim](https://open.spotify.com/artist/78sEozQOEJxzXegUuqRSgH) | [Debussy: Suite bergamasque, L\. 75: III\. Clair de lune](https://open.spotify.com/album/0y0G5l8ObushJUnTvlgj1O) | 4:23 | 2022-02-04 |  |
 | [Symphony No\. 2 in E Minor, Op\. 27: III\. Adagio](https://open.spotify.com/track/5zTWkWlF7rkHOiE7sI6AA6) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Philadelphia Orchestra](https://open.spotify.com/artist/6tdexW8bZTG8NgOFUCYQn1), [Yannick Nézet\-Séguin](https://open.spotify.com/artist/5ZGyCOrODWwaVtLSDjayl5) | [Rachmaninoff: Symphonies Nos\. 2 & 3; Isle of the Dead](https://open.spotify.com/album/2kmcu9Pz6PfNN6BpXxcBKf) | 16:12 | 2023-06-30 |  |

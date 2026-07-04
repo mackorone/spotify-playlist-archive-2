@@ -1,13 +1,153 @@
 {
-  "description": "Latest music from Shekhar Ravjiani, Paresh Pahuja, Akhil Sachdeva and more.",
-  "num_followers": 96996,
+  "description": "Latest music from Faheem Abdullah, Arslan Nizami, Qaiser Nizami, Sachet-Parampara and more.",
+  "num_followers": 97070,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPytKfDKYEVgNCIBNvAUG53EQlMt",
+  "snapshot_id": "AAAAAMLsgLlgliuKCDjaF43cJRw/IfUr",
   "tracks": [
+    {
+      "added_at": "2026-07-03 03:30:05",
+      "album": {
+        "name": "Hoor | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/7CWIrGsju5yTIo3jvXn8BV"
+      },
+      "artists": [
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        },
+        {
+          "name": "Qaiser Nizami",
+          "url": "https://open.spotify.com/artist/2TFelufhNan03C8eODRkbY"
+        }
+      ],
+      "duration_ms": 385882,
+      "name": "Hoor | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/0XiZEqOr2ZF4EzQaBzUGIg"
+    },
+    {
+      "added_at": "2026-07-03 03:30:05",
+      "album": {
+        "name": "Saath",
+        "url": "https://open.spotify.com/album/3EjBLaJ8rDfRaHyIE62GMb"
+      },
+      "artists": [
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Parampara Tandon",
+          "url": "https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        },
+        {
+          "name": "Sachet-Parampara",
+          "url": "https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25"
+        }
+      ],
+      "duration_ms": 185052,
+      "name": "Saath",
+      "url": "https://open.spotify.com/track/7iYTsZuUo1gFMjs0gV8SMA"
+    },
+    {
+      "added_at": "2026-07-03 03:30:05",
+      "album": {
+        "name": "Aakhri Saans",
+        "url": "https://open.spotify.com/album/6FUkumfogCFUNL6gZhd2Mm"
+      },
+      "artists": [
+        {
+          "name": "Iqlipse Nova",
+          "url": "https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk"
+        },
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        }
+      ],
+      "duration_ms": 193103,
+      "name": "Aakhri Saans",
+      "url": "https://open.spotify.com/track/1bZXjQGEB9Vvgf3U604H7b"
+    },
+    {
+      "added_at": "2026-07-03 03:30:05",
+      "album": {
+        "name": "Has Do Zara",
+        "url": "https://open.spotify.com/album/0MHt8B8uhXAzIJXGTMgmAs"
+      },
+      "artists": [
+        {
+          "name": "Sameer Anjaan",
+          "url": "https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH"
+        },
+        {
+          "name": "NIRAJ",
+          "url": "https://open.spotify.com/artist/3PBJ2C68OZBg9aPz3LJrIO"
+        },
+        {
+          "name": "Manasi Ghosh",
+          "url": "https://open.spotify.com/artist/1IFeFnEdb38sSk5CY4iRFU"
+        },
+        {
+          "name": "Neil-Niraj",
+          "url": "https://open.spotify.com/artist/6hbAORztbTtFWYgkyECsug"
+        }
+      ],
+      "duration_ms": 199821,
+      "name": "Has Do Zara",
+      "url": "https://open.spotify.com/track/45bw63cA87hmked0CCmYZk"
+    },
+    {
+      "added_at": "2026-07-03 03:30:05",
+      "album": {
+        "name": "Savere Savere",
+        "url": "https://open.spotify.com/album/5SUEFpuIEKW9owTuAcN97Q"
+      },
+      "artists": [
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Babli Haque",
+          "url": "https://open.spotify.com/artist/3JQTZpUXHS2iWfyF5LsMxx"
+        },
+        {
+          "name": "Meera Sarkar",
+          "url": "https://open.spotify.com/artist/7DWUly4SkETSp7WMq8G0P8"
+        }
+      ],
+      "duration_ms": 331251,
+      "name": "Savere Savere",
+      "url": "https://open.spotify.com/track/2N8Ja80ZE2w06VPBxuqj6d"
+    },
+    {
+      "added_at": "2026-07-03 03:30:05",
+      "album": {
+        "name": "giraft",
+        "url": "https://open.spotify.com/album/1qmVKxb0th57tObxxwaoLw"
+      },
+      "artists": [
+        {
+          "name": "Shalmali Kholgade",
+          "url": "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+        }
+      ],
+      "duration_ms": 168075,
+      "name": "giraft",
+      "url": "https://open.spotify.com/track/7xAAZ00Ijvf3sHQFjW39Nh"
+    },
     {
       "added_at": "2026-06-26 05:20:09",
       "album": {
@@ -615,26 +755,6 @@
     {
       "added_at": "2026-06-19 05:15:37",
       "album": {
-        "name": "Baat Phir Bhi Reh Gayi",
-        "url": "https://open.spotify.com/album/1RFlC6We3lYCqKtK28qbAR"
-      },
-      "artists": [
-        {
-          "name": "Shekhar Ravjiani",
-          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
-        },
-        {
-          "name": "Harshit Karnatak",
-          "url": "https://open.spotify.com/artist/0zCnHoMe8EbjFlRkPsdJKj"
-        }
-      ],
-      "duration_ms": 254166,
-      "name": "Baat Phir Bhi Reh Gayi",
-      "url": "https://open.spotify.com/track/26eFpzXEPPdwzTP5NJSZBT"
-    },
-    {
-      "added_at": "2026-06-19 05:15:37",
-      "album": {
         "name": "Aadat Nahi Hai",
         "url": "https://open.spotify.com/album/3rhaH15g0aU52u1VDR119k"
       },
@@ -647,26 +767,6 @@
       "duration_ms": 231320,
       "name": "Aadat Nahi Hai",
       "url": "https://open.spotify.com/track/67ZhLCUi7EzOjxZVPNhX3R"
-    },
-    {
-      "added_at": "2026-06-19 05:15:37",
-      "album": {
-        "name": "Apna Chehra Dikha",
-        "url": "https://open.spotify.com/album/2aGRIAMJlGrI7GVBXxEJOo"
-      },
-      "artists": [
-        {
-          "name": "The Rish",
-          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
-        },
-        {
-          "name": "Alka Yagnik",
-          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-        }
-      ],
-      "duration_ms": 204060,
-      "name": "Apna Chehra Dikha",
-      "url": "https://open.spotify.com/track/6Uxj82xWfL38sPMlcLHN9R"
     },
     {
       "added_at": "2026-06-19 05:15:37",
@@ -711,46 +811,6 @@
     {
       "added_at": "2026-06-19 05:15:37",
       "album": {
-        "name": "Mere Maahiya",
-        "url": "https://open.spotify.com/album/61M2R0qEQDN5Ji7fmvN2kf"
-      },
-      "artists": [
-        {
-          "name": "Abhiruchi Singh",
-          "url": "https://open.spotify.com/artist/5sXiybe3UfmLCx6RJygKg4"
-        },
-        {
-          "name": "Aasa Singh",
-          "url": "https://open.spotify.com/artist/1oJYWBIasyrnLv3jZYkIRF"
-        }
-      ],
-      "duration_ms": 234886,
-      "name": "Mere Maahiya",
-      "url": "https://open.spotify.com/track/1cjvSUS3FtUtpjf4Zejcbm"
-    },
-    {
-      "added_at": "2026-06-19 05:15:37",
-      "album": {
-        "name": "Laare Lappe",
-        "url": "https://open.spotify.com/album/1Em4ZBRpsDqpvi3aj9J1jg"
-      },
-      "artists": [
-        {
-          "name": "Simran Choudhary",
-          "url": "https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu"
-        },
-        {
-          "name": "Gurshabad",
-          "url": "https://open.spotify.com/artist/557gXmWZK1P5T3yNLjvLXP"
-        }
-      ],
-      "duration_ms": 209169,
-      "name": "Laare Lappe",
-      "url": "https://open.spotify.com/track/7mSDLw31N2QB4FfkOU7tSH"
-    },
-    {
-      "added_at": "2026-06-19 05:15:37",
-      "album": {
         "name": "Sunti Jao",
         "url": "https://open.spotify.com/album/6acBaDdglW7tOzVzF3CCpS"
       },
@@ -763,30 +823,6 @@
       "duration_ms": 155675,
       "name": "Sunti Jao",
       "url": "https://open.spotify.com/track/5RdQgQBB1GOVskYx7xAlKy"
-    },
-    {
-      "added_at": "2026-06-19 05:15:37",
-      "album": {
-        "name": "Passa Passa (Indian Version)",
-        "url": "https://open.spotify.com/album/4BcmIhQ3dFFaPGrnVFySMa"
-      },
-      "artists": [
-        {
-          "name": "Karl Wine",
-          "url": "https://open.spotify.com/artist/6vZKj9U4vIetFGznCpxVN5"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Tony Kakkar",
-          "url": "https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv"
-        }
-      ],
-      "duration_ms": 183092,
-      "name": "Passa Passa (Indian Version)",
-      "url": "https://open.spotify.com/track/3pDUFTucIY09rx5CqfeFsi"
     },
     {
       "added_at": "2026-06-19 05:15:37",
@@ -1051,34 +1087,6 @@
       "duration_ms": 151000,
       "name": "Bade Dino Baad",
       "url": "https://open.spotify.com/track/0p3yj8oOwTnCsncq3IEaE9"
-    },
-    {
-      "added_at": "2026-06-19 05:15:37",
-      "album": {
-        "name": "Laiyaan",
-        "url": "https://open.spotify.com/album/7v1vuvYPo1OLs7GSWBTKWM"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Ruaa Kayy",
-          "url": "https://open.spotify.com/artist/453JLa1zShRo3qMqna91v7"
-        },
-        {
-          "name": "RUTVXK",
-          "url": "https://open.spotify.com/artist/1GmpuAH0l3Z0AYj0vkGh2e"
-        },
-        {
-          "name": "Youngveer",
-          "url": "https://open.spotify.com/artist/7koNp45sADjnEc8orfYfNI"
-        }
-      ],
-      "duration_ms": 213093,
-      "name": "Laiyaan",
-      "url": "https://open.spotify.com/track/2ecDjOlGElRwIIhfpeg7Z6"
     }
   ],
   "unique_name": "New Music Friday I-Pop ",

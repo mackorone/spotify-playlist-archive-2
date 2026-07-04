@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-796 songs - 1 day 10 hr 5 min
+801 songs - 1 day 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Affection](https://open.spotify.com/track/3C9XQnp8aNwSoyPhf1by3z) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Affection](https://open.spotify.com/album/13FzOtSVQw5IaMhGabmVhR) | 3:27 | 2023-12-12 |  |
 | [After Dawn](https://open.spotify.com/track/1N62tCrFso6PZ8OfwsbH53) | [Herbert Campas](https://open.spotify.com/artist/4xviN6HgtlSmFSSoetwtMy) | [After Dawn](https://open.spotify.com/album/4ySd5ged3rmDZ2398Odkc6) | 2:00 | 2021-12-07 | 2023-08-06 |
 | [After The Rain](https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [After The Rain](https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k) | 2:29 | 2021-12-07 | 2025-02-27 |
+| [After the Rain](https://open.spotify.com/track/57KEwrwzkBRS5zqk6dGPA9) | [Samuel Lark](https://open.spotify.com/artist/2X9Uxv7yZawuYN5IwjXMcT) | [After the Rain](https://open.spotify.com/album/0aGruF9eYNMgrQIOFbUbDZ) | 2:09 | 2026-07-03 |  |
 | [Afterwords](https://open.spotify.com/track/2EnvnTDfN0U6zeCG2irqlt) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Afterwords](https://open.spotify.com/album/41jnOFEJPZi4tFATf8jKeo) | 2:21 | 2025-02-28 | 2025-07-08 |
 | [Again](https://open.spotify.com/track/5d2oRIkm7wSJAVrwUmrM2B) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Again](https://open.spotify.com/album/49C1JBmiZ27ltjFJU3WbcD) | 3:11 | 2022-04-07 | 2025-01-29 |
 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 | 2021-12-07 | 2023-01-27 |
@@ -403,6 +404,7 @@
 | [Lysithea](https://open.spotify.com/track/4XBdquxpnwZRjFiM55TRkQ) | [Stone Mirland](https://open.spotify.com/artist/7JhyuaeB60S8vsFRzcdN2o) | [Lysithea](https://open.spotify.com/album/0j6dhJ8LwkmtCbTOYMdTH3) | 2:14 | 2024-04-22 |  |
 | [Léana](https://open.spotify.com/track/4RjIFSjFbvR43htmAHW6Gf) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Léana](https://open.spotify.com/album/2IFpHSZQyD8Oxn8IBnJ8Ss) | 2:21 | 2021-12-07 | 2022-07-16 |
 | [Ma meilleure année](https://open.spotify.com/track/6cxJxS35yFpNdN40G9hIw5) | [Amour Lesauvage](https://open.spotify.com/artist/6qx6GDbg4utV2vDQvS2I4k) | [Ma meilleure année](https://open.spotify.com/album/30w5d5wLvQ3zkV9jXAAded) | 2:35 | 2022-01-04 | 2025-05-14 |
+| [Magnolia](https://open.spotify.com/track/7kz46FntkdA9zCdSLtPfr1) | [Jordan Mitchell\-Haines](https://open.spotify.com/artist/5xyZwXBV8D9F63Kiocws8R) | [Magnolia](https://open.spotify.com/album/1ZDoR28ShLeM7JODH9Jwog) | 2:52 | 2026-07-03 |  |
 | [Making peace](https://open.spotify.com/track/1F0zXMBvMOK2MgpLWD1knU) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Making peace](https://open.spotify.com/album/2EDyH9iFr81wOcIpj0PJ3Q) | 2:23 | 2024-03-05 |  |
 | [Marche Lente](https://open.spotify.com/track/3kLDZA1jJMdrqnejdjhPpB) | [Zander Shaelyn](https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy) | [Marche Lente](https://open.spotify.com/album/46NsQ6HlgrCGQsx2lK37wN) | 2:11 | 2023-08-15 | 2026-05-09 |
 | [Marginal Way](https://open.spotify.com/track/6CUBqFUFxIwiHAriS5DZbU) | [Jacob LaVallee](https://open.spotify.com/artist/6vv8DZKpEVRMWVPCy2u6gc) | [Marginal Way](https://open.spotify.com/album/4rbI0VO0b720o9jaz4686h) | 2:58 | 2021-12-07 | 2022-07-16 |
@@ -425,6 +427,7 @@
 | [Men At Sea](https://open.spotify.com/track/3ktwLVjBAskjuquAGlCrvu) | [Leon Bonné](https://open.spotify.com/artist/2D3hDe807j7HdaA9XqAYMk) | [Men At Sea](https://open.spotify.com/album/5mv6rGTFnZoN2OFqOMZsfp) | 1:49 | 2026-05-08 |  |
 | [Mer Noire](https://open.spotify.com/track/5iLMqDI5mRCdK2VSIQYf59) | [Jonathan Salmon](https://open.spotify.com/artist/3owpIJZNZCgXp7WLQJWObU) | [Mer Noire](https://open.spotify.com/album/7MFZbvPUX7G99LPMnyWZ4X) | 2:26 | 2021-12-07 | 2024-11-06 |
 | [Metanoia](https://open.spotify.com/track/5fRCo9FZmnE92j7BnY3Win) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Metanoia](https://open.spotify.com/album/1CiQYlksvhi8cgPaFno6kl) | 2:21 | 2022-12-22 | 2025-05-31 |
+| [Mind Flies](https://open.spotify.com/track/4VaFOmgwngkucqWpGkevYk) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Mind Flies](https://open.spotify.com/album/3IbNI5Q5iV1abpLtkoFySP) | 2:08 | 2026-07-03 |  |
 | [Minor Fable](https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Minor Fable](https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC) | 2:01 | 2024-03-19 | 2026-05-09 |
 | [Minorities](https://open.spotify.com/track/0WGxduCskRMRz2sBkHgpDg) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Minorities](https://open.spotify.com/album/48ludebOOiB7RpPpgtEhxs) | 2:49 | 2024-08-13 | 2025-05-31 |
 | [Minuit à Paris](https://open.spotify.com/track/4MEQkYg6D715wDzzm5r5K6) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Minuit à Paris](https://open.spotify.com/album/2OxcHeyTYMZ9vFOj2Ktml6) | 2:14 | 2021-12-07 | 2024-12-12 |
@@ -650,6 +653,7 @@
 | [Still Learning](https://open.spotify.com/track/26w3iwMrx0lGz6z0GxRrag) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Still Learning](https://open.spotify.com/album/1Mffxx3WlFQtHRdWQWBG2F) | 2:22 | 2025-08-05 |  |
 | [Still Water](https://open.spotify.com/track/63KkU73FviWsVToFs1LYRI) | [Dexter Osborne](https://open.spotify.com/artist/2qw3ztTjf7LHNKoTNvij4q) | [Still Water](https://open.spotify.com/album/0mgSTKjCwRcraBkXmIBteu) | 2:45 | 2021-12-07 | 2023-08-04 |
 | [Strejfer](https://open.spotify.com/track/2YabKanL5OYJLGosyYTWdR) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Strejfer](https://open.spotify.com/album/1aeDkp0m42y4wfJ69fX9H3) | 2:08 | 2021-12-07 | 2025-02-27 |
+| [Strimma](https://open.spotify.com/track/6hvia61VSRDGapzTphDgQD) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Strimma](https://open.spotify.com/album/5wcTrU4i8koQf6YUNXYwq3) | 2:18 | 2026-07-03 |  |
 | [Study for Proun](https://open.spotify.com/track/6NAPBc3ZdmIgftLDkxyZ5C) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [Study for Proun](https://open.spotify.com/album/3OfnZjtjNCgxpF01f7bVY8) | 2:45 | 2022-05-20 | 2025-02-27 |
 | [Stundom](https://open.spotify.com/track/1OJmKyPXayT4TID0XE2uxt) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K) | [Stundom](https://open.spotify.com/album/5WYK03J5fXQzuSx67C1Npu) | 2:28 | 2021-12-07 | 2024-12-18 |
 | [Sun Burst](https://open.spotify.com/track/4VWzleChE2O0hOED8WSwN8) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Sun Burst](https://open.spotify.com/album/3HwgvWlgKKUdxCRqUq645D) | 2:23 | 2021-12-07 | 2022-07-29 |
@@ -711,6 +715,7 @@
 | [Time Is a River](https://open.spotify.com/track/6V2bLU0kshksarML59YS4U) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Time Is a River](https://open.spotify.com/album/35yjbZXzQHCSflB1ocHKub) | 2:42 | 2025-11-26 |  |
 | [Time with Missing Parts](https://open.spotify.com/track/1KQOh22pVOlFjVtK0es8Re) | [Alouette Aster](https://open.spotify.com/artist/4WXKqgdxOT6hJuWEKjBs0u) | [Time with Missing Parts](https://open.spotify.com/album/2yANPPG7lI6w8WBI1cuVig) | 3:18 | 2026-05-08 |  |
 | [To Be Loved](https://open.spotify.com/track/4KiuT6lph1fSy19AFjHwYE) | [Day Blue](https://open.spotify.com/artist/1QIarBiWF3tRs6a1CXzN5w) | [To Be Loved](https://open.spotify.com/album/1Vx8qROy2bgDAjknfZfJSS) | 2:32 | 2022-02-01 | 2024-12-12 |
+| [Tonbridge Tea](https://open.spotify.com/track/3mVo8Nrpb9jaymezfBSdnw) | [JS Casa](https://open.spotify.com/artist/6Y8NoOdl0Z6s2nu8EuNKhQ) | [Tonbridge Tea](https://open.spotify.com/album/57hSOx0IzlYsBMYcjweycj) | 2:35 | 2026-07-03 |  |
 | [Tout a un sens](https://open.spotify.com/track/5VOhUrpLELS03TrEJsnL7X) | [Claire Pinette](https://open.spotify.com/artist/4cmV4jq8K9fFMqXdYQrtRP) | [Tout a un sens](https://open.spotify.com/album/76RPqIq2w4iW7G0NiWeouE) | 2:15 | 2023-05-03 | 2025-09-17 |
 | [Traces](https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07) | [Leyland Moore](https://open.spotify.com/artist/6B68z24fHjW2BFiwzthkzO) | [Traces](https://open.spotify.com/album/4lzXcaZXKBzk0aaX6fFzlE) | 3:13 | 2021-12-07 | 2024-04-04 |
 | [Trails In The Sand](https://open.spotify.com/track/2kNdebYESPkIXVcTxlNWMi) | [Marius Notar](https://open.spotify.com/artist/2XBVOEAwFri2h8RpBa2nqT) | [Trails In The Sand](https://open.spotify.com/album/3JDPEQbjLKJy86z3OkKk3H) | 2:31 | 2021-12-07 | 2025-02-19 |

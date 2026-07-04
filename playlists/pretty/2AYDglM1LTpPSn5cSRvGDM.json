@@ -1,12 +1,12 @@
 {
   "description": "The best Progressive House in the scene. <a href=\"https://ffm.link/9o81evb/\">Instagram</a>, <a href=\"https://ffm.link/xjgmb7\">Website, </a><a href=\"https://ffm.link/bknqm1j\">Merch</a>",
-  "num_followers": 108351,
+  "num_followers": 108387,
   "original_name": "Progressive House 2026",
   "owner": {
     "name": "Enhanced Music",
     "url": "https://open.spotify.com/user/enhanced_music"
   },
-  "snapshot_id": "AABApcaPsFhtQAA3aEu3Ia+YEnxdZRfv",
+  "snapshot_id": "AABAqZ8WZOKmUSQUctvouKe9aEpixl+f",
   "tracks": [
     {
       "added_at": "2026-06-26 08:34:39",
@@ -189,6 +189,26 @@
       "url": "https://open.spotify.com/track/7rE8HJFhRtI2P69ENWim6R"
     },
     {
+      "added_at": "2026-07-03 06:32:12",
+      "album": {
+        "name": "Something Real",
+        "url": "https://open.spotify.com/album/0fXscY5gJPEtpKxGl22P1i"
+      },
+      "artists": [
+        {
+          "name": "Craig Connelly",
+          "url": "https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL"
+        },
+        {
+          "name": "Dani Sylvia",
+          "url": "https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj"
+        }
+      ],
+      "duration_ms": 234169,
+      "name": "Something Real",
+      "url": "https://open.spotify.com/track/2678BoumxAEUu69yEcu4bR"
+    },
+    {
       "added_at": "2026-06-26 08:34:39",
       "album": {
         "name": "Elysium",
@@ -223,22 +243,6 @@
       "duration_ms": 166015,
       "name": "Inside Out",
       "url": "https://open.spotify.com/track/3TB6WN36We3P26W0WFmlfP"
-    },
-    {
-      "added_at": "2026-06-26 08:34:39",
-      "album": {
-        "name": "Noo Tacchi",
-        "url": "https://open.spotify.com/album/4wZUVcm9QRbrEyIqwWsWke"
-      },
-      "artists": [
-        {
-          "name": "Estiva",
-          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
-        }
-      ],
-      "duration_ms": 212913,
-      "name": "Noo Tacchi",
-      "url": "https://open.spotify.com/track/2EgGVjSk0q8wt5537tsJky"
     },
     {
       "added_at": "2026-06-26 08:34:39",
@@ -287,6 +291,22 @@
       "duration_ms": 188160,
       "name": "Cola - ARTBAT Remix",
       "url": "https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8"
+    },
+    {
+      "added_at": "2026-06-26 08:34:39",
+      "album": {
+        "name": "Noo Tacchi",
+        "url": "https://open.spotify.com/album/4wZUVcm9QRbrEyIqwWsWke"
+      },
+      "artists": [
+        {
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+        }
+      ],
+      "duration_ms": 212913,
+      "name": "Noo Tacchi",
+      "url": "https://open.spotify.com/track/2EgGVjSk0q8wt5537tsJky"
     },
     {
       "added_at": "2026-06-26 08:34:39",

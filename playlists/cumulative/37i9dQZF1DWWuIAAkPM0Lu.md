@@ -4,7 +4,7 @@
 
 > 💜 mille 💜 DU MÅ IK GÅ
 
-11,190 songs - 24 day 5 hr 15 min
+11,193 songs - 24 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5903,6 +5903,7 @@
 | [Limits](https://open.spotify.com/track/4lZy04COQZzUWwN4ZKXuVC) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Limits](https://open.spotify.com/album/1YyBANQKziol2tkaFCWsOp) | 2:42 | 2025-06-12 | 2025-06-20 |
 | [Linedanser](https://open.spotify.com/track/1vdp1FvUQbhDVPRn5iMlr5) | [Camma](https://open.spotify.com/artist/7hEvhIvkHIR8hik2Yeu1hj) | [Linedanser](https://open.spotify.com/album/2hZChlOx8hvrrqhGZfLYCC) | 2:28 | 2025-09-04 | 2025-09-13 |
 | [Linger](https://open.spotify.com/track/3ICWCYXPGnRLXS1iB0SzkR) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Linger](https://open.spotify.com/album/2YX2p7h92C7d7ISvDiz5qG) | 4:04 | 2025-02-13 | 2025-02-21 |
+| [Link up](https://open.spotify.com/track/02mgnJbKfPDvgZI2G1QSSD) | [Milbo](https://open.spotify.com/artist/7hdXOb76rDsDAe3ZdDstT3) | [Uendelig Solskin](https://open.spotify.com/album/6qmTfYnTeX1ZFVLT5N0nLJ) | 2:32 | 2026-07-02 |  |
 | [Link Up \(feat\. Balken\)](https://open.spotify.com/track/14b6fPizV5zoPb7j76rVWB) | [BRY](https://open.spotify.com/artist/4YPo2ZRPN4nyNLcLA7CThs), [Balken](https://open.spotify.com/artist/6HSzwxpDlQc3ysjM6HcTeF) | [Link Up \(feat\. Balken\)](https://open.spotify.com/album/0qjHmH51NBXYzUThpE5XDM) | 2:07 | 2025-06-19 | 2025-06-27 |
 | [linknb](https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [linknb](https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc) | 1:55 | 2026-05-07 | 2026-05-15 |
 | [Lion's Den](https://open.spotify.com/track/0td8R5CX5i3ypKqt6ob8Er) | [Jenny Berggren](https://open.spotify.com/artist/44YSqyZYMSDBJYRwUVOCPs) | [Lion's Den](https://open.spotify.com/album/5Mse7TYxLYodWlC3OJ6NYP) | 4:30 | 2024-11-28 | 2024-12-06 |
@@ -6103,6 +6104,7 @@
 | [Love Is Unkind](https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Love Is Unkind](https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU) | 3:33 | 2025-01-17 | 2025-01-24 |
 | [Love Language](https://open.spotify.com/track/1GRwEsNUPJ8iTUyeYy0YQM) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Love Language](https://open.spotify.com/album/4sh3Yk0ITqd0brs7mmFL1T) | 2:57 | 2025-06-05 | 2025-06-13 |
 | [Love Letter](https://open.spotify.com/track/4QcFLrc1uns09taWo7yFsa) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [Love Letter](https://open.spotify.com/album/11koFUb2flCfP4dELQ388y) | 2:56 | 2026-02-26 | 2026-03-06 |
+| [Love Like A Hobby](https://open.spotify.com/track/3Ce2UwnIE9clxZp94hkAGp) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Love Like A Hobby](https://open.spotify.com/album/4FhYzCXg5OeNGBT0NvjVvg) | 3:42 | 2026-07-03 |  |
 | [Love Like This](https://open.spotify.com/track/1eULGMOdkcFd3xTD1zh2f5) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Love Like This](https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw) | 4:20 | 2025-07-31 | 2025-08-08 |
 | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/track/3wUEBuJ4MaBLyvWztEr3mj) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [LOVE LOOKS PRETTY ON YOU](https://open.spotify.com/album/04ePsbupvv5MPe8CamGhKZ) | 3:12 | 2025-01-30 | 2025-02-07 |
 | [LOVE MAKE](https://open.spotify.com/track/308zMDLftUjMlZkODGUWvd) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [LOVE MAKE](https://open.spotify.com/album/7ksQrL66SNuch6lmxIlVzJ) | 3:34 | 2024-08-01 | 2024-08-09 |
@@ -8078,6 +8080,7 @@
 | [Rhetorical Questions](https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Rhetorical Questions](https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7) | 2:55 | 2024-10-03 | 2024-10-11 |
 | [Rhythm of Love](https://open.spotify.com/track/7fd4gTMhiTwKAcUxNG5dHO) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Rhythm of Love](https://open.spotify.com/album/0Uk5EHLANopfR4a7a8PjS0) | 3:06 | 2025-03-13 | 2025-03-21 |
 | [Ribena\. Rumskibet Session \#22](https://open.spotify.com/track/74vw3IjoVt8WILUrym94SF) | [Beefsupreme](https://open.spotify.com/artist/7AsUY0hvE7udbZG70a77mM), [Rumskibet](https://open.spotify.com/artist/6APSCFeKqehFz3rcTSLIfX) | [Ribena\. Rumskibet Session \#22](https://open.spotify.com/album/44l9W6NyMlc4TyRc1lLPzf) | 2:00 | 2025-11-06 | 2025-11-14 |
+| [Rich](https://open.spotify.com/track/3XEXlFmBu3JOUe9VMK0zh7) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [Betty Michaels](https://open.spotify.com/artist/1BhnNe00irqmdbyijyTZMk) | [Rich](https://open.spotify.com/album/3tikyoZV9znFY04kRm68Ho) | 3:25 | 2026-07-03 |  |
 | [Rich](https://open.spotify.com/track/4vhRYAg2gsHzcgb9mHxjN7) | [Bea and her Business](https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym) | [Rich](https://open.spotify.com/album/6lwxh0r3dmw2mQ5LBH4UOG) | 2:31 | 2025-04-10 | 2025-04-18 |
 | [Rich Porter](https://open.spotify.com/track/3EVPeziBwtX2wwJUMJFEQm) | [Cezar](https://open.spotify.com/artist/1oSPTV9V3PDN07g72qq9tK) | [Rich Porter](https://open.spotify.com/album/6pWzVPKp2obWtt69IFkRO9) | 2:27 | 2025-09-18 | 2025-09-27 |
 | [Richest](https://open.spotify.com/track/6JUObwBY69Zi8k5tOcUsch) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Richest](https://open.spotify.com/album/58IJMjXWxHRcE4p1HHTieI) | 3:39 | 2026-06-25 | 2026-07-03 |
@@ -8923,6 +8926,7 @@
 | [Sommerregn](https://open.spotify.com/track/1haBPCTX5PC7baqot4Jf4D) | [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM) | [Sommerregn](https://open.spotify.com/album/5CfKFxbSCzraCtUgUutANL) | 2:28 | 2024-08-22 | 2024-08-30 |
 | [Sommertid](https://open.spotify.com/track/4DNXdRThUaTSGblEZNdGFn) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM), [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW) | [Sommertid](https://open.spotify.com/album/2tm538G1L9QDH4UMcVl3mM) | 3:31 | 2025-09-18 | 2025-09-27 |
 | [Sommervejr](https://open.spotify.com/track/2UHTQ0ocyjr0JsNzbOXt0g) | [bare Benja](https://open.spotify.com/artist/5UAGq9u5BgZn7BkfMciocK) | [Sommervejr](https://open.spotify.com/album/21wsJPPvZ3ARAamfawAuKk) | 2:14 | 2025-06-26 | 2025-07-04 |
+| [Somos Tan Pequeños](https://open.spotify.com/track/3abLps0dV4fNkE6OHkpADs) | [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [Segundo Acto: ¿Por Qué No Sales?](https://open.spotify.com/album/0kjGO3TVRvfsNglZfJyUG1) | 3:11 | 2026-07-02 |  |
 | [Song and Dance Man](https://open.spotify.com/track/2BH6mThxOpVQ8XxPt2IMbX) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Song and Dance Man + Let's Go Camping](https://open.spotify.com/album/6tK0tx6jfHQ7HoHBxtRpUA) | 2:17 | 2026-05-28 | 2026-06-05 |
 | [Song In My Head](https://open.spotify.com/track/4Epo62T6JeylYH9tjV19y1) | [Marlen Tjøsvoll](https://open.spotify.com/artist/0lR9dVN1J2I13Pt02fTm5c) | [Song In My Head](https://open.spotify.com/album/4IMD9QWXBaJQGZ2KSGiRpx) | 3:37 | 2026-03-26 | 2026-04-03 |
 | [Songs I'd Rather Not Sing](https://open.spotify.com/track/0sdDCmGW4QomnHcLvd3KCh) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [Songs I'd Rather Not Sing](https://open.spotify.com/album/1g2lIajRkoTuD6NuEYp11X) | 2:44 | 2025-11-20 | 2025-11-28 |
@@ -10064,8 +10068,6 @@
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2024-12-13 |
 | [TOYBOY](https://open.spotify.com/track/0pu0wYSfAss9bofagK1A5T) | [Angela](https://open.spotify.com/artist/7eT4IZXb7W1FCsWO7u4l65) | [TOYBOY](https://open.spotify.com/album/1R7baT8Vnn3OTP4yl2fJg9) | 2:39 | 2026-04-30 | 2026-05-08 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-06-05 |
-| [Track 1](https://open.spotify.com/track/3abLps0dV4fNkE6OHkpADs) | [Torreblanca](https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE) | [Segundo Acto: ¿Por Qué No Sales?](https://open.spotify.com/album/0kjGO3TVRvfsNglZfJyUG1) | 0:00 | 2026-07-02 |  |
-| [Track 4](https://open.spotify.com/track/02mgnJbKfPDvgZI2G1QSSD) | [Milbo](https://open.spotify.com/artist/7hdXOb76rDsDAe3ZdDstT3) | [Uendelig Solskin](https://open.spotify.com/album/6qmTfYnTeX1ZFVLT5N0nLJ) | 0:00 | 2026-07-02 |  |
 | [TRACK 9 \(sometimes\)](https://open.spotify.com/track/3QYY4AgNdhVboaiTpif9oo) | [Alice Ai](https://open.spotify.com/artist/3Pst9XlmCk0NKGGy3kVvvP) | [d.a.t.a.d.e.a.t.h.](https://open.spotify.com/album/4enVd9gDj0jRvGRZvyWjhd) | 2:35 | 2025-11-27 | 2025-12-05 |
 | [TRACKE DO](https://open.spotify.com/track/0udl3HksPNxCu097pHNKfP) | [EHSXN](https://open.spotify.com/artist/02fcfzLNggFMt98YunsnYU), [PAYDAR](https://open.spotify.com/artist/4QXhX7CbOMy8HKl8rZNYEt) | [T\-TOWN](https://open.spotify.com/album/57cDk7ZMeJuDIllI2uJ7IF) | 2:27 | 2024-09-05 | 2024-09-13 |
 | [TRACKSUIT](https://open.spotify.com/track/2GPVSfBMy7WD6AZc8I99KE) | [Oskar Witt](https://open.spotify.com/artist/7pgsrrUoGrlw9qNtJsk4c4) | [TRACKSUIT](https://open.spotify.com/album/0HxUpNDh9DhsxeMJyRCeZJ) | 2:15 | 2025-12-04 | 2025-12-12 |
@@ -11145,6 +11147,7 @@
 | [Your Terms](https://open.spotify.com/track/3cOdIxIWmlnv06IG2vJBe8) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [Your Terms](https://open.spotify.com/album/4CIDq5fTuvuFCShnjBiUp9) | 2:49 | 2024-10-17 | 2024-10-25 |
 | [your time](https://open.spotify.com/track/75yQOshwRa0DiiCOylVwnV) | [Gabriela Bee](https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1) | [your time](https://open.spotify.com/album/0spRhGlADdVIuQZc2y2IqJ) | 3:09 | 2026-01-29 | 2026-02-06 |
 | [Yourself](https://open.spotify.com/track/4GhSPHwC6Ye5Vns747Gk4p) | [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Yourself](https://open.spotify.com/album/6nui1QBsq4FYx8R6ncaqNL) | 2:45 | 2025-07-31 | 2025-08-05 |
+| [YOUtopia](https://open.spotify.com/track/35NaaOPzsTWOWM47PzRuaY) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [YOUtopia](https://open.spotify.com/album/4KHPTZ0Cad5ZJvZW614XUe) | 2:30 | 2026-07-03 |  |
 | [You’ll End Up Hating Me](https://open.spotify.com/track/6XPib0aWOI5oo9C1l2FMTe) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [I'll Call You When I'm Home](https://open.spotify.com/album/2ICkFYDtOYuiOC41VAy7qi) | 2:46 | 2024-09-26 | 2024-10-04 |
 | [You’re Breaking My Heart](https://open.spotify.com/track/2tAGHHcz1YPbZRAfgS8DP9) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [You’re Breaking My Heart](https://open.spotify.com/album/6tlW066bFMZhLN0LHFUB59) | 3:29 | 2024-06-06 | 2024-06-14 |
 | [Yummy!](https://open.spotify.com/track/6b4XCqRViImhzlNNtpLZxM) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Yummy!](https://open.spotify.com/album/15DCneV8mubwhgihdvRXHF) | 2:20 | 2024-10-31 | 2024-11-08 |

@@ -4,7 +4,7 @@
 
 > Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장하은\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-681 songs - 1 day 15 hr 59 min
+683 songs - 1 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Confession](https://open.spotify.com/track/1eOYrl4zBoeluCngkJRSmi) | [YeoDongSaeng](https://open.spotify.com/artist/7qwYeaMsqrO3TFFHvwhEtg) | [Confession](https://open.spotify.com/album/0uJ4HZnqJCiWNaHgA23ZQh) | 3:53 | 2022-03-31 | 2022-04-07 |
 | [crescent moon \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 6\]](https://open.spotify.com/track/5cVbfYMOBF7Ktdisoa9wxV) | [SUNG DAM](https://open.spotify.com/artist/1JdJprpKvNgqBLGSDrMsv9) | [crescent moon \[From "Anonymous, I Know You!" \(Original Soundtrack\) Pt\. 6\]](https://open.spotify.com/album/2GVbStXkCtIeOhQ1zfjpWw) | 4:12 | 2022-03-31 | 2022-04-21 |
 | [Cruel Travel](https://open.spotify.com/track/3VWVdy2Il1Q5HHiMojL6rU) | [Han Hee Jung](https://open.spotify.com/artist/0NT4MXp9wF0x8dRglwueHi) | [NOTATE](https://open.spotify.com/album/3wr995VlVU9qqONc0k0pZ2) | 3:06 | 2022-03-31 | 2022-04-03 |
+| [Crushed](https://open.spotify.com/track/7qWMlEMiKxnrl1bFTOcVPT) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crushed](https://open.spotify.com/album/0sXjgH2vb0I2ifgstdSztt) | 4:02 | 2026-07-03 |  |
 | [Daisy](https://open.spotify.com/track/537iConeos2YqUkrmgYQWI) | [D.no](https://open.spotify.com/artist/65XxCQXyj2MZ99bQmxgavW) | [Daisy](https://open.spotify.com/album/0mItSTk5v5NyKnhKjsOUnr) | 2:55 | 2022-03-31 | 2022-04-21 |
 | [Dark Hearts Will Pass Away Tonight \(Prod\. by OKDAL\)](https://open.spotify.com/track/6bUUMau43KRkNpYmhkG9qW) | [KIM GO EUN](https://open.spotify.com/artist/4G0khHYSAyq05njsT39Vp5) | [YUMI's Cells 2, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/5uAxDKhSbh4cxPnvUX5fRf) | 3:20 | 2022-08-09 | 2022-08-13 |
 | [Darling](https://open.spotify.com/track/6ChPSpcpyuFT8C5HMTlezz) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Melancholia, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/0HaiAHJ2dETG2ezbTHDRi7) | 4:10 | 2021-12-10 | 2022-07-23 |
@@ -126,6 +127,7 @@
 | [Dear My All](https://open.spotify.com/track/2X71ww8wImSYbw4s0Mr2ur) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Dear My All](https://open.spotify.com/album/44ExesH5SiiFq3Kov4okDf) | 2:41 | 2023-01-03 |  |
 | [Dear my X](https://open.spotify.com/track/0UnOf7i44YK0ULpkEGHe4R) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Dear my X](https://open.spotify.com/album/5BOrfMmeO7t7pDqhZNIhej) | 3:07 | 2022-07-08 |  |
 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 | 2024-10-27 | 2026-01-05 |
+| [Dear.J \(Feat\. Jay Park\)](https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dear.J](https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek) | 3:21 | 2026-07-03 |  |
 | [Dearest mistake](https://open.spotify.com/track/0aW3xLOoD5aQAfpNc20oqu) | [본하](https://open.spotify.com/artist/26oPZPY5H08ViuL52JDqKS) | [Dearest mistake](https://open.spotify.com/album/2JD924d5IzKen3qm50bkAL) | 3:36 | 2026-02-23 | 2026-03-07 |
 | [Deeper Than I Thought](https://open.spotify.com/track/3MTSqosDP6EjfRCuxutzHV) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [Deeper Than I Thought](https://open.spotify.com/album/5WX2sfPA2KqqpSJymxxmnq) | 3:07 | 2025-07-11 | 2025-07-29 |
 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-02-18 |  |
@@ -186,7 +188,7 @@
 | [From Winter To Winter](https://open.spotify.com/track/704lNx7gCD6CooNMVp8tdl) | [Uhm Jung Hwa](https://open.spotify.com/artist/7xGZWuU7JrDQmJ00L9UzhB) | [Seoul Check\-in OST Part 3](https://open.spotify.com/album/6RPncLDPcNlnuFrxLNGmFx) | 3:17 | 2022-05-02 | 2022-05-12 |
 | [Frost](https://open.spotify.com/track/67MOlOhWOxq2hiK32nphc9) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Naturous Album](https://open.spotify.com/album/6Ow6ZukVE8reCHVZU7W5NK) | 3:14 | 2025-02-03 | 2025-02-19 |
 | [Fuel](https://open.spotify.com/track/0fzF35JGZANP4E3KKBNs6J) | [ASHER](https://open.spotify.com/artist/6fXfmVxyO2JZJApAM38BKl) | [FUEL](https://open.spotify.com/album/4SDu4Gt3aYP4uZaXR53R4e) | 3:59 | 2022-03-31 | 2022-04-04 |
-| [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 | 2021-12-10 |  |
+| [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 | 2021-12-10 | 2026-07-04 |
 | [Gently, By Your Side](https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [Gently, By Your Side](https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI) | 2:58 | 2022-03-21 | 2022-04-10 |
 | [Get Some Rest](https://open.spotify.com/track/7sFwQlJzLGtFTqRLiUhIRf) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Trip: playlist \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/1t8sSIbYtla3EA86W4Dkzs) | 2:42 | 2024-03-06 | 2024-03-16 |
 | [Getaway](https://open.spotify.com/track/4Cb6AY4bjiSz6zIJmK2gWD) | [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [Getaway](https://open.spotify.com/album/1UDjEv6O7uO6Mq9IQ3regW) | 1:56 | 2025-12-19 | 2026-01-15 |
@@ -301,7 +303,7 @@
 | [Keep This Moment](https://open.spotify.com/track/0ykk20f023G61Ds0IeF4KB) | [JINHO](https://open.spotify.com/artist/3hFLEV38JDeNr3L0HIkeG0) | [Keep This Moment \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.4](https://open.spotify.com/album/5j7JmzdgWs2VSyGLod2VKs) | 3:20 | 2022-05-13 | 2022-05-31 |
 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 | 2022-01-13 |  |
 | [knock \(Vocal by YOONA\)](https://open.spotify.com/track/7tARXrGfGoujF5wjwHYSW1) | [Epitone Project](https://open.spotify.com/artist/0RLe3YEakXpt0FEXyFtwgN) | [knock](https://open.spotify.com/album/1esBidl6GhZiW8qpsejsXT) | 3:17 | 2023-11-16 | 2023-12-06 |
-| [La Danse De La Joie](https://open.spotify.com/track/1PesmnG3M2KOjYnaq3ppR5) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [LOVE in the BIG CITY \(Special pre\-release \- Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7KkI5zdnZdJufxzDW1aGWp) | 2:28 | 2024-10-04 |  |
+| [La Danse De La Joie](https://open.spotify.com/track/1PesmnG3M2KOjYnaq3ppR5) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [LOVE in the BIG CITY \(Special pre\-release \- Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7KkI5zdnZdJufxzDW1aGWp) | 2:28 | 2024-10-04 | 2026-07-04 |
 | [laputa](https://open.spotify.com/track/6mWT5oEv9Wzo1KS6jKKv63) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [laputa](https://open.spotify.com/album/4D9zbUsH9mRlf5prtdu5fQ) | 3:02 | 2022-03-31 | 2022-04-21 |
 | [Last](https://open.spotify.com/track/2ZrKUv6I0r52XuDNYPULps) | [Eddy Kim](https://open.spotify.com/artist/1sVSMPPNMMSZ7cQNfbvMOe) | [Miles Apart](https://open.spotify.com/album/1OmyHS4uPSMbqeHWw2G5CK) | 4:06 | 2022-03-31 | 2022-04-13 |
 | [Late Night Walk](https://open.spotify.com/track/3pzyC2zklDL1GFW41lWoWm) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.6 \[Late Night Walk\]](https://open.spotify.com/album/5IP9ctHpvSgG0YmR2Y5rAg) | 3:54 | 2024-04-26 | 2025-02-12 |

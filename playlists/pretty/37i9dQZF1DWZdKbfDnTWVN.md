@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdKbfDnTWVN.md) - [plain]
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS?si=WFKSTC4oSD\-oTy7edA3fQA"> King Kaka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,829 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,838 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LAST DANCE](https://open.spotify.com/track/3D7wEIwqXryatRi2xeFM3j) | [Wakadinali](https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK) | [LAST DANCE](https://open.spotify.com/album/6bewDYyU8AYegfvIARuaLr) | 3:20 |
-| 2 | [Track 6](https://open.spotify.com/track/4afgxom9wIYBaEBy6KImMk) | [King Kaka](https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS) | [Year Of The Pen](https://open.spotify.com/album/3X9ADdGjlXeD7R1iwsO6q4) | 0:00 |
+| 2 | [Silence](https://open.spotify.com/track/4afgxom9wIYBaEBy6KImMk) | [King Kaka](https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Year Of The Pen](https://open.spotify.com/album/3X9ADdGjlXeD7R1iwsO6q4) | 3:05 |
 | 3 | [O.P.W](https://open.spotify.com/track/5NnjyoTQqukaz2cFWlUbxQ) | [GTB Emzee](https://open.spotify.com/artist/75pIMAgNt4bf8OWBW8eImv), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn), [Lecco](https://open.spotify.com/artist/7zLXHKSY0PTkpjE0KKQDy7), [AUGUST IV](https://open.spotify.com/artist/0rSI47DldAq15E6L5pUH6T) | [Shengspeare](https://open.spotify.com/album/3IgjIy4eLYkYQfB73q63NT) | 2:54 |
 | 4 | [Tension](https://open.spotify.com/track/5nMMVWEj28Zp2KOUbMyuEa) | [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW), [Scar Mkadinali](https://open.spotify.com/artist/61npyqrvQo2AGnjNqIV6E7) | [Tension](https://open.spotify.com/album/3vcdW0dMdsZLf7LtyAp6Iq) | 2:53 |
 | 5 | [RAPPER](https://open.spotify.com/track/1bEptGcMhhn1TluieCZegQ) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA), [Toxic Lyrikali](https://open.spotify.com/artist/53nMUZwbwGd2cdY8P8EsHD) | [Sounds of the Diaspora 2](https://open.spotify.com/album/2vWy5CWRpgfJ4GNTbbcocW) | 3:32 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Experience the powerful messages and sounds of recent hits in Gospel music.  Cover: Tamela Mann",
+  "description": "Experience the powerful messages and sounds of recent hits in Gospel music.  Cover: Jonathan McReynolds",
   "name": "Gospel Hits",
   "tracks": [
     {
@@ -2003,6 +2003,24 @@
     },
     {
       "album": {
+        "name": "Holy You (Fr\u0112ligious)",
+        "url": "https://open.spotify.com/album/0LDkdvozl55KUGYUFK4lcL"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243885,
+      "name": "Holy You (Fr\u0112ligious)",
+      "url": "https://open.spotify.com/track/55lD4Bw9nCYceU7TnVc82R"
+    },
+    {
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7iLY9qLmJN2Wq4q9hgwPqN"
       },
@@ -3171,6 +3189,28 @@
     },
     {
       "album": {
+        "name": "Love Never Fails",
+        "url": "https://open.spotify.com/album/5YGC1v6kJD7IH8EsCt8vvH"
+      },
+      "artists": [
+        {
+          "name": "The Choir Room",
+          "url": "https://open.spotify.com/artist/6PykrTPtMnj4H6EETYYOgK"
+        },
+        {
+          "name": "Fred Hammond",
+          "url": "https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196665,
+      "name": "Love Never Fails",
+      "url": "https://open.spotify.com/track/0O1wMWJUGcXe0PcnVwXtOX"
+    },
+    {
+      "album": {
         "name": "Love Theory",
         "url": "https://open.spotify.com/album/1iARIUsTUoK0KCsU4vA3h5"
       },
@@ -3586,7 +3626,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 195404,
       "name": "New",
       "url": "https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8"
@@ -5638,7 +5678,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 580125,
       "name": "Yahweh Flow - Live In San Francisco",
       "url": "https://open.spotify.com/track/6nn9pfbOHHmaQAYxn6H7WO"

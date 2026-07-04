@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 259137,
+  "num_followers": 259215,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2026-06-25 23:00:32",
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE"
+      },
+      "artists": [
+        {
+          "name": "Nosi",
+          "url": "https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R"
+        }
+      ],
+      "duration_ms": 219556,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4"
+    },
+    {
+      "added_at": "2026-06-25 23:00:32",
+      "album": {
         "name": "Could Have Been So Good",
         "url": "https://open.spotify.com/album/0TSPTOLyYN00EZ74iQelK8"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 206060,
       "name": "Could Have Been So Good",
       "url": "https://open.spotify.com/track/4QOi1ZUOxZzDXvKn7nm0Ro"
-    },
-    {
-      "added_at": "2026-06-25 23:00:32",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE"
-      },
-      "artists": [
-        {
-          "name": "Nosi",
-          "url": "https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R"
-        }
-      ],
-      "duration_ms": 219556,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4"
     },
     {
       "added_at": "2026-06-25 23:00:32",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-06-25 23:00:32",
       "album": {
+        "name": "Major Drop",
+        "url": "https://open.spotify.com/album/1d9yJiwV1gEhmmZJ7FqhVk"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "duration_ms": 190154,
+      "name": "Major Drop",
+      "url": "https://open.spotify.com/track/3oQcLTeM9dG7Yg3PaVv8rG"
+    },
+    {
+      "added_at": "2026-06-25 23:00:32",
+      "album": {
         "name": "Hide U",
         "url": "https://open.spotify.com/album/1M1V1AUFqCvUMqREoveuAG"
       },
@@ -475,26 +491,6 @@
     {
       "added_at": "2026-06-25 23:00:32",
       "album": {
-        "name": "Out Of My Body (feat. EJAE)",
-        "url": "https://open.spotify.com/album/2YidFYtb1VSsHdzodpnBIx"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "EJAE",
-          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
-        }
-      ],
-      "duration_ms": 159666,
-      "name": "Out Of My Body (feat. EJAE)",
-      "url": "https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb"
-    },
-    {
-      "added_at": "2026-06-25 23:00:32",
-      "album": {
         "name": "Back 2 U",
         "url": "https://open.spotify.com/album/37Z14iOrIe6W0EzhIkRMcC"
       },
@@ -511,18 +507,22 @@
     {
       "added_at": "2026-06-25 23:00:32",
       "album": {
-        "name": "Major Drop",
-        "url": "https://open.spotify.com/album/1d9yJiwV1gEhmmZJ7FqhVk"
+        "name": "Out Of My Body (feat. EJAE)",
+        "url": "https://open.spotify.com/album/2YidFYtb1VSsHdzodpnBIx"
       },
       "artists": [
         {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "EJAE",
+          "url": "https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY"
         }
       ],
-      "duration_ms": 190154,
-      "name": "Major Drop",
-      "url": "https://open.spotify.com/track/3oQcLTeM9dG7Yg3PaVv8rG"
+      "duration_ms": 159666,
+      "name": "Out Of My Body (feat. EJAE)",
+      "url": "https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb"
     },
     {
       "added_at": "2026-06-25 23:00:32",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-06-25 23:00:32",
       "album": {
+        "name": "Let Me Know",
+        "url": "https://open.spotify.com/album/4fwWUr4HeZd1D2XwpSadtd"
+      },
+      "artists": [
+        {
+          "name": "Nohr",
+          "url": "https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82"
+        }
+      ],
+      "duration_ms": 150879,
+      "name": "Let Me Know",
+      "url": "https://open.spotify.com/track/0Ot3POlahMEVLwzWKAFk1j"
+    },
+    {
+      "added_at": "2026-06-25 23:00:32",
+      "album": {
         "name": "Quicksand (Don't Go)",
         "url": "https://open.spotify.com/album/0WCqTOZHxoqdZBkwuyXZEC"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 192954,
       "name": "Quicksand (Don't Go)",
       "url": "https://open.spotify.com/track/31bZ1mzfyByfW5uPw1lxT7"
-    },
-    {
-      "added_at": "2026-06-25 23:00:32",
-      "album": {
-        "name": "Let Me Know",
-        "url": "https://open.spotify.com/album/4fwWUr4HeZd1D2XwpSadtd"
-      },
-      "artists": [
-        {
-          "name": "Nohr",
-          "url": "https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82"
-        }
-      ],
-      "duration_ms": 150879,
-      "name": "Let Me Know",
-      "url": "https://open.spotify.com/track/0Ot3POlahMEVLwzWKAFk1j"
     },
     {
       "added_at": "2026-06-25 23:00:32",
@@ -823,26 +823,6 @@
     {
       "added_at": "2026-06-25 23:00:32",
       "album": {
-        "name": "When I Look In Your Eyes",
-        "url": "https://open.spotify.com/album/4UzLPqPG3qQ18R7SzcJREj"
-      },
-      "artists": [
-        {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-        },
-        {
-          "name": "Justine Suissa",
-          "url": "https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj"
-        }
-      ],
-      "duration_ms": 213748,
-      "name": "When I Look In Your Eyes",
-      "url": "https://open.spotify.com/track/3WTvepgeDZ5Og5G5aNbIH8"
-    },
-    {
-      "added_at": "2026-06-25 23:00:32",
-      "album": {
         "name": "Eusexua (Anyma Remix)",
         "url": "https://open.spotify.com/album/3XNLi9xalekB3v4swIj7zN"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 198808,
       "name": "Eusexua - Anyma Remix",
       "url": "https://open.spotify.com/track/6uS58ykUmaKr8YWIecDPP6"
+    },
+    {
+      "added_at": "2026-06-25 23:00:32",
+      "album": {
+        "name": "When I Look In Your Eyes",
+        "url": "https://open.spotify.com/album/4UzLPqPG3qQ18R7SzcJREj"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Justine Suissa",
+          "url": "https://open.spotify.com/artist/6UKSvQC8EQZUOKtUaj5uCj"
+        }
+      ],
+      "duration_ms": 213748,
+      "name": "When I Look In Your Eyes",
+      "url": "https://open.spotify.com/track/3WTvepgeDZ5Og5G5aNbIH8"
     },
     {
       "added_at": "2026-06-25 23:00:32",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-06-25 23:00:32",
       "album": {
+        "name": "If You're Here With Me",
+        "url": "https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M"
+      },
+      "artists": [
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "If You're Here With Me",
+      "url": "https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc"
+    },
+    {
+      "added_at": "2026-06-25 23:00:32",
+      "album": {
         "name": "Bigger Than All Of Us",
         "url": "https://open.spotify.com/album/0EovqHtUM3sLB0IqlS3Xkm"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 229733,
       "name": "Start A Fire",
       "url": "https://open.spotify.com/track/1gZKuzj9GsuFl0IshqPPom"
-    },
-    {
-      "added_at": "2026-06-25 23:00:32",
-      "album": {
-        "name": "If You're Here With Me",
-        "url": "https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M"
-      },
-      "artists": [
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "If You're Here With Me",
-      "url": "https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc"
     },
     {
       "added_at": "2026-06-25 23:00:32",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-06-25 23:00:32",
       "album": {
-        "name": "Only Human",
-        "url": "https://open.spotify.com/album/0yRBPG7n4gLI1ZZ1OrH1vp"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 205833,
-      "name": "Only Human",
-      "url": "https://open.spotify.com/track/22uFagCnhvRwZ0zM1OtYbO"
-    },
-    {
-      "added_at": "2026-06-25 23:00:32",
-      "album": {
         "name": "Welcome To My World",
         "url": "https://open.spotify.com/album/0g85Ir9Nj7RWzQFJHU5cAe"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 218617,
       "name": "Tales From Beyond",
       "url": "https://open.spotify.com/track/2PZdZJCcKJ82mXN90CGGz0"
+    },
+    {
+      "added_at": "2026-06-25 23:00:32",
+      "album": {
+        "name": "Only Human",
+        "url": "https://open.spotify.com/album/0yRBPG7n4gLI1ZZ1OrH1vp"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        }
+      ],
+      "duration_ms": 205833,
+      "name": "Only Human",
+      "url": "https://open.spotify.com/track/22uFagCnhvRwZ0zM1OtYbO"
     },
     {
       "added_at": "2026-06-25 23:00:32",
@@ -1143,30 +1143,6 @@
     {
       "added_at": "2026-06-25 23:00:32",
       "album": {
-        "name": "Wander",
-        "url": "https://open.spotify.com/album/5GSOhfjkMp4JDEGguyrthM"
-      },
-      "artists": [
-        {
-          "name": "MXV",
-          "url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG"
-        },
-        {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        },
-        {
-          "name": "Courtney Storm",
-          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
-        }
-      ],
-      "duration_ms": 210967,
-      "name": "Wander",
-      "url": "https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr"
-    },
-    {
-      "added_at": "2026-06-25 23:00:32",
-      "album": {
         "name": "Just Can't Stop",
         "url": "https://open.spotify.com/album/4g6vXqmOf7qusOBDp5nWWJ"
       },
@@ -1187,6 +1163,30 @@
       "duration_ms": 220708,
       "name": "Just Can't Stop",
       "url": "https://open.spotify.com/track/0YoKDfUPlJLHGhItlEMMVv"
+    },
+    {
+      "added_at": "2026-06-25 23:00:32",
+      "album": {
+        "name": "Wander",
+        "url": "https://open.spotify.com/album/5GSOhfjkMp4JDEGguyrthM"
+      },
+      "artists": [
+        {
+          "name": "MXV",
+          "url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG"
+        },
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "Courtney Storm",
+          "url": "https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV"
+        }
+      ],
+      "duration_ms": 210967,
+      "name": "Wander",
+      "url": "https://open.spotify.com/track/5TK3Kzz7u3KT6LzUC8QXzr"
     }
   ],
   "unique_name": "Melodic & Euphoric",

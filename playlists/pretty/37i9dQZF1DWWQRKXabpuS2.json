@@ -1,13 +1,45 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 46765,
+  "num_followers": 46783,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALcl6acJId17GtdzGlC//UamlyWd",
+  "snapshot_id": "AAAAACtSbkyArjQyOQ2RzNmV1ArBJmd6",
   "tracks": [
+    {
+      "added_at": "2026-07-03 04:30:06",
+      "album": {
+        "name": "Ya Hay Haltallah",
+        "url": "https://open.spotify.com/album/1cgQIG8QswqJbnFnJOAlIl"
+      },
+      "artists": [
+        {
+          "name": "Sultan Al Murshed",
+          "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
+        }
+      ],
+      "duration_ms": 485692,
+      "name": "Ya Hay Haltallah",
+      "url": "https://open.spotify.com/track/1UhWZhEdKF4rQha6Bdv6Gs"
+    },
+    {
+      "added_at": "2026-07-03 04:30:06",
+      "album": {
+        "name": "\u0634\u064a \u062b\u0627\u0646\u064a",
+        "url": "https://open.spotify.com/album/2RP6QusLZy0OhRuxtZBXKy"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        }
+      ],
+      "duration_ms": 156345,
+      "name": "\u0634\u064a \u062b\u0627\u0646\u064a",
+      "url": "https://open.spotify.com/track/0FkijfcNa4zuIS3BxevW2x"
+    },
     {
       "added_at": "2026-06-29 06:57:12",
       "album": {

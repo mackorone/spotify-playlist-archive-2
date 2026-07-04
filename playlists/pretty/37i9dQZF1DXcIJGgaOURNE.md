@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,468 likes - 136 songs - 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,469 likes - 136 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 80 | [You Might Like It](https://open.spotify.com/track/0EOWHxyPx7mpD6gxxdNa0U) | [Sharif Laffrey](https://open.spotify.com/artist/3QEeHLDl1Pk9xlAOm7413Q) | [More of That Frightful Oompty Boompty Music](https://open.spotify.com/album/6cogKlCA92dtR5dmcR2PNg) | 9:05 |
 | 81 | [Pula](https://open.spotify.com/track/2DOeIdH8MIdnykM0H6sl8g) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [BLOOM](https://open.spotify.com/album/1EOFf1iDuHW3wVwf3lE2il) | 4:02 |
 | 82 | [KILL DEM](https://open.spotify.com/track/5CE0k1VmTXgCtaa5L288LP) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [KILL DEM](https://open.spotify.com/album/71iqkeqFNSiCgum1gPfeZo) | 3:43 |
-| 83 | [Elisir](https://open.spotify.com/track/6vH9EKZ3HYAigphODuoYlX) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV) | 5:34 |
+| 83 | [Elisir](https://open.spotify.com/track/6vH9EKZ3HYAigphODuoYlX) | [GIGI D'AGOSTINO](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujours](https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV) | 5:34 |
 | 84 | [Rat Alert](https://open.spotify.com/track/3NO12OKE4Ka7r8pyU2889A) | [Jan Driver](https://open.spotify.com/artist/4V9KFnehXmCaeMWJS3p0MM) | [Rat Alert](https://open.spotify.com/album/7AxtjjcZlqWImzgrIMbLMk) | 5:49 |
 | 85 | [Baixó](https://open.spotify.com/track/1MuLOil4Gsc5OMUxyy73hK) | [Os Pilukas](https://open.spotify.com/artist/7uXPagz72VIHtXoqERFvzG) | [Kuduro All Stars](https://open.spotify.com/album/2SmtSF0clgETxSCg2SbJOU) | 3:31 |
 | 86 | [Triplets III](https://open.spotify.com/track/03JhIYOoeng48jRJ5WvIMh) | [Sticky](https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH) | [UK Garage Beats V3](https://open.spotify.com/album/3QkSB90BVrIMwF869TWMtc) | 5:39 |

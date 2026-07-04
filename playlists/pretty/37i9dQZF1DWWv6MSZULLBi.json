@@ -1,13 +1,189 @@
 {
-  "description": "A laid-back trip in the folk scene. Cover: Field Guide",
-  "num_followers": 166716,
+  "description": "A laid-back trip in the folk scene. Cover: Rachel Bobbitt",
+  "num_followers": 166705,
   "original_name": "Folk & Friends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMurZHq1+GDkvUzsheYpQnt8jeel",
+  "snapshot_id": "AAAAAE2FkMM8Ww7IPFeWAznSaSnc3Ntb",
   "tracks": [
+    {
+      "added_at": "2026-07-03 04:03:19",
+      "album": {
+        "name": "Mountain Stream",
+        "url": "https://open.spotify.com/album/1w9aXVzTGDxUmypnBcs204"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "duration_ms": 220032,
+      "name": "Mountain Stream",
+      "url": "https://open.spotify.com/track/2L5R8yONcCBNab4ZaKg8ks"
+    },
+    {
+      "added_at": "2026-07-03 04:03:19",
+      "album": {
+        "name": "Crosses",
+        "url": "https://open.spotify.com/album/3EXRrkaNEihtAT2Z1yMjEj"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "duration_ms": 243096,
+      "name": "Crosses",
+      "url": "https://open.spotify.com/track/5aQlF6MqVnYspN8j7h9gjQ"
+    },
+    {
+      "added_at": "2026-07-03 04:03:19",
+      "album": {
+        "name": "whole thing",
+        "url": "https://open.spotify.com/album/0x9KWdKPTHfzF96ygr6qB5"
+      },
+      "artists": [
+        {
+          "name": "Sadurn",
+          "url": "https://open.spotify.com/artist/2uvre6qZ51Tc12CBizuzRI"
+        }
+      ],
+      "duration_ms": 265413,
+      "name": "whole thing",
+      "url": "https://open.spotify.com/track/6eR78hfwTyGcuoe9y8btOn"
+    },
+    {
+      "added_at": "2026-07-03 04:03:19",
+      "album": {
+        "name": "winner",
+        "url": "https://open.spotify.com/album/48QRF24jEiOeQGNqJ77c3q"
+      },
+      "artists": [
+        {
+          "name": "Ella Woolsey",
+          "url": "https://open.spotify.com/artist/6ZA874uHCLTNsLGKVUdbB9"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "winner",
+      "url": "https://open.spotify.com/track/7bXqaPGlz0irAUcmqMnHuP"
+    },
+    {
+      "added_at": "2026-07-03 04:03:19",
+      "album": {
+        "name": "Traveling Blues",
+        "url": "https://open.spotify.com/album/4CEWvUJ9YjEQF1apGtPTju"
+      },
+      "artists": [
+        {
+          "name": "Evan Roderick",
+          "url": "https://open.spotify.com/artist/7bw5PTECn2uhtnzlssXeHE"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "Traveling Blues",
+      "url": "https://open.spotify.com/track/45fEI8uXWhqDdo7JkBm73i"
+    },
+    {
+      "added_at": "2026-07-03 04:03:19",
+      "album": {
+        "name": "From A Different Age",
+        "url": "https://open.spotify.com/album/5a4PZCMUGGZqRZRFnPRBK0"
+      },
+      "artists": [
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "duration_ms": 193519,
+      "name": "From A Different Age",
+      "url": "https://open.spotify.com/track/7gH6veWZGy3M05dHNkCYxY"
+    },
+    {
+      "added_at": "2026-07-03 04:03:19",
+      "album": {
+        "name": "When You Call",
+        "url": "https://open.spotify.com/album/0UsuGaWMGl03zvMJ9WjGH3"
+      },
+      "artists": [
+        {
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
+        }
+      ],
+      "duration_ms": 207496,
+      "name": "When You Call",
+      "url": "https://open.spotify.com/track/4NWH1yGHAmVsKzF8am2Ju8"
+    },
+    {
+      "added_at": "2026-07-03 04:03:19",
+      "album": {
+        "name": "4th of july",
+        "url": "https://open.spotify.com/album/0LFm0KK5gD8kvyiedtQv2W"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5D9hscmOav9Iw8U3yox9UO"
+    },
+    {
+      "added_at": "2026-07-03 04:03:19",
+      "album": {
+        "name": "The Things I'm Not",
+        "url": "https://open.spotify.com/album/0FMcfWVEcnVOxOk9Qse0lH"
+      },
+      "artists": [
+        {
+          "name": "Clay Hazey",
+          "url": "https://open.spotify.com/artist/04Scak7bYYNS0lbexZ8dGP"
+        }
+      ],
+      "duration_ms": 211991,
+      "name": "The Things I'm Not",
+      "url": "https://open.spotify.com/track/7zG10IqHws6sjVNoEDb8dl"
+    },
+    {
+      "added_at": "2026-07-03 04:03:19",
+      "album": {
+        "name": "Sea Jasmine",
+        "url": "https://open.spotify.com/album/3XtFgI1ot9qzlqNhwXBwQj"
+      },
+      "artists": [
+        {
+          "name": "Mind Bath",
+          "url": "https://open.spotify.com/artist/6FdP93iZOV7BclbYDSlGOC"
+        }
+      ],
+      "duration_ms": 126590,
+      "name": "Sea Jasmine",
+      "url": "https://open.spotify.com/track/4lQDW82BfkJFd77rACinRh"
+    },
+    {
+      "added_at": "2026-07-03 04:03:19",
+      "album": {
+        "name": "Wishing Stone",
+        "url": "https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Julia",
+          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
+        }
+      ],
+      "duration_ms": 228395,
+      "name": "Wishing Stone",
+      "url": "https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz"
+    },
     {
       "added_at": "2026-06-26 04:03:07",
       "album": {
@@ -1615,22 +1791,6 @@
     {
       "added_at": "2026-06-19 04:03:01",
       "album": {
-        "name": "How I Know I'm Home",
-        "url": "https://open.spotify.com/album/3MlI5G3Hf4pXCtSGC3f2sh"
-      },
-      "artists": [
-        {
-          "name": "Nixon Boyd",
-          "url": "https://open.spotify.com/artist/6uCdumKzVD3qp3gOH9QwSM"
-        }
-      ],
-      "duration_ms": 148786,
-      "name": "How I Know I'm Home",
-      "url": "https://open.spotify.com/track/37rHeA3LTQxdlHpllFVyz1"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
       },
@@ -1643,22 +1803,6 @@
       "duration_ms": 231086,
       "name": "Doors",
       "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Signs",
-        "url": "https://open.spotify.com/album/3VESgbBAGsDA5wduX2QMnC"
-      },
-      "artists": [
-        {
-          "name": "Gabe Danto",
-          "url": "https://open.spotify.com/artist/6lgg1TIn8sWr6bVyz2KcFD"
-        }
-      ],
-      "duration_ms": 162618,
-      "name": "Signs",
-      "url": "https://open.spotify.com/track/6MEvF7kFX4xTqmTIbrDHhk"
     },
     {
       "added_at": "2026-06-19 04:03:01",
@@ -1835,22 +1979,6 @@
     {
       "added_at": "2026-06-19 04:03:01",
       "album": {
-        "name": "So The Sun Can Pour",
-        "url": "https://open.spotify.com/album/2FJNdtergBuQ1q2qOo5IBe"
-      },
-      "artists": [
-        {
-          "name": "Hayden Everett",
-          "url": "https://open.spotify.com/artist/6sIPNR4ZDctKr2OSiAVtBc"
-        }
-      ],
-      "duration_ms": 255395,
-      "name": "Taylor",
-      "url": "https://open.spotify.com/track/49Ya4VAhgiUgABC0XnDhOE"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
         "name": "So Long",
         "url": "https://open.spotify.com/album/4TS5qTWNuLDV8z37LvLltE"
       },
@@ -1899,22 +2027,6 @@
       "duration_ms": 229948,
       "name": "Apple",
       "url": "https://open.spotify.com/track/1KMhXTesfuZzoaeoFV4Jbq"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Acid Washed",
-        "url": "https://open.spotify.com/album/7ByICVrVB3zYNVoSfGbe7s"
-      },
-      "artists": [
-        {
-          "name": "Flowerboy",
-          "url": "https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS"
-        }
-      ],
-      "duration_ms": 127272,
-      "name": "Acid Washed",
-      "url": "https://open.spotify.com/track/0bla0kPTlY0r1M3tOY6BfS"
     },
     {
       "added_at": "2026-06-19 04:03:01",
@@ -2103,54 +2215,6 @@
       "duration_ms": 197372,
       "name": "Venus in the Zinnia",
       "url": "https://open.spotify.com/track/6X5ARfLepGTGntuFbc2Hpo"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Bring Home My Man",
-        "url": "https://open.spotify.com/album/2REPn6jp6zVP2xXf6VhWCy"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 262306,
-      "name": "Bring Home My Man",
-      "url": "https://open.spotify.com/track/1OeNu7kjS4MGCt1nTzgefU"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Yet to Let Me Down",
-        "url": "https://open.spotify.com/album/230eu0xSurQLfonPk0MIdP"
-      },
-      "artists": [
-        {
-          "name": "Logan Richard",
-          "url": "https://open.spotify.com/artist/0clafcEW9Npsrqo76bL13o"
-        }
-      ],
-      "duration_ms": 243348,
-      "name": "Yet to Let Me Down",
-      "url": "https://open.spotify.com/track/5OmgtVmWrq2RBh4Lkeu0L5"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Coming Back Home",
-        "url": "https://open.spotify.com/album/5vaB7XFJHkhn6a7GTyg8H4"
-      },
-      "artists": [
-        {
-          "name": "Late Night Thoughts",
-          "url": "https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN"
-        }
-      ],
-      "duration_ms": 176963,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/1fKlw3VYpNwz2KUqUO0Kou"
     },
     {
       "added_at": "2026-06-19 04:03:01",
@@ -2459,86 +2523,6 @@
       "duration_ms": 248437,
       "name": "Fleeting",
       "url": "https://open.spotify.com/track/3q99nHKtH9hs5n055NRhfd"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "butterflies",
-        "url": "https://open.spotify.com/album/12qM2XNUl5g1mhhNrrpIey"
-      },
-      "artists": [
-        {
-          "name": "runo plum",
-          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
-        }
-      ],
-      "duration_ms": 168078,
-      "name": "butterflies",
-      "url": "https://open.spotify.com/track/52w9vFDgebB8OxdYL1BK1t"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "You're Right",
-        "url": "https://open.spotify.com/album/4tNyCZlcp83pxK5ktfTx5Q"
-      },
-      "artists": [
-        {
-          "name": "Emma Harner",
-          "url": "https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ"
-        }
-      ],
-      "duration_ms": 180128,
-      "name": "You're Right",
-      "url": "https://open.spotify.com/track/4UEjz6lD71GweiK1BXpUYC"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "My Love",
-        "url": "https://open.spotify.com/album/6Cv0Ml05DyKjLJEV6jXJK6"
-      },
-      "artists": [
-        {
-          "name": "Cat Clyde",
-          "url": "https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "My Love",
-      "url": "https://open.spotify.com/track/61nMcUOT94tvopjHlXsoZE"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Mountain Girl",
-        "url": "https://open.spotify.com/album/7Gn4ahcxSuY4q0hE3dLkHu"
-      },
-      "artists": [
-        {
-          "name": "Josiah and the Bonnevilles",
-          "url": "https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC"
-        }
-      ],
-      "duration_ms": 162925,
-      "name": "Mountain Girl",
-      "url": "https://open.spotify.com/track/4trN0qlOUFzoNOYs7ezZNf"
-    },
-    {
-      "added_at": "2026-06-19 04:03:01",
-      "album": {
-        "name": "Lost Leader",
-        "url": "https://open.spotify.com/album/4SSWrhiUxYa3sikYDUtefB"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cornfield",
-          "url": "https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ"
-        }
-      ],
-      "duration_ms": 187661,
-      "name": "Lost Leader",
-      "url": "https://open.spotify.com/track/1qFxxFm82Z3kxVxNpr4pLj"
     }
   ],
   "unique_name": "Folk & Friends",

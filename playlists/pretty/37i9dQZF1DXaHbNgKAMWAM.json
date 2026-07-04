@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 20850,
+  "num_followers": 20853,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHpKV5fLWhZlfybM6vhRn35JgrK2",
+  "snapshot_id": "AAAAAMPosmVXkCs28PlRDr/CDjZMYegI",
   "tracks": [
     {
       "added_at": "2026-06-25 15:51:09",
@@ -435,6 +435,22 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
+        "name": "The 3rd Digital Single `Amazing You'",
+        "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
+      },
+      "artists": [
+        {
+          "name": "Han Dong Geun",
+          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
+        }
+      ],
+      "duration_ms": 296832,
+      "name": "Amazing You",
+      "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
         "name": "My Lovely Liar, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7yEfbgQkSzJi6L2Suoh8Pl"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 202173,
       "name": "Luv Luv Luv",
       "url": "https://open.spotify.com/track/5KgukBQlqxJrmFnrEVa5IZ"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
-        "name": "The 3rd Digital Single `Amazing You'",
-        "url": "https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy"
-      },
-      "artists": [
-        {
-          "name": "Han Dong Geun",
-          "url": "https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1"
-        }
-      ],
-      "duration_ms": 296832,
-      "name": "Amazing You",
-      "url": "https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -847,6 +847,22 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
+        "name": "Love Condition (Original Soundtrack from Even If This Love Disappears Tonight)",
+        "url": "https://open.spotify.com/album/1gmhYJRiDv9QBJhYcUMbS6"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Love Condition",
+      "url": "https://open.spotify.com/track/6kUhDtV7NM7JSZYl6xV5HI"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
         "name": "Boys And Girls (Feat. INFINITE)",
         "url": "https://open.spotify.com/album/56hCUWsbnZAepvNDa6vPm6"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 240000,
       "name": "Boys And Girls (Feat. INFINITE)",
       "url": "https://open.spotify.com/track/6lMpZSpZCurg1FY73gEcDx"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
-        "name": "Love Condition (Original Soundtrack from Even If This Love Disappears Tonight)",
-        "url": "https://open.spotify.com/album/1gmhYJRiDv9QBJhYcUMbS6"
-      },
-      "artists": [
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "Love Condition",
-      "url": "https://open.spotify.com/track/6kUhDtV7NM7JSZYl6xV5HI"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -931,6 +931,22 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
+        "name": "Could it be like this",
+        "url": "https://open.spotify.com/album/2Z2XT84FiYo3uAkXcWaOme"
+      },
+      "artists": [
+        {
+          "name": "doyouka",
+          "url": "https://open.spotify.com/artist/3Q7TyEIDVLFWfIYfARE9FB"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Could it be like this",
+      "url": "https://open.spotify.com/track/4raLqtvtshnCle1JqDowMo"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
         "name": "Ten Reasons I Love You(2021)",
         "url": "https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 250813,
       "name": "Ten Reasons I Love You(2021)",
       "url": "https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
-        "name": "Could it be like this",
-        "url": "https://open.spotify.com/album/2Z2XT84FiYo3uAkXcWaOme"
-      },
-      "artists": [
-        {
-          "name": "doyouka",
-          "url": "https://open.spotify.com/artist/3Q7TyEIDVLFWfIYfARE9FB"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Could it be like this",
-      "url": "https://open.spotify.com/track/4raLqtvtshnCle1JqDowMo"
     },
     {
       "added_at": "2026-06-25 15:51:09",

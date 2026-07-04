@@ -3035,6 +3035,32 @@
     },
     {
       "album": {
+        "name": "Chambonean",
+        "url": "https://open.spotify.com/album/0nr5Ulgvh8se8YaIiRbt9y"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Token'one",
+          "url": "https://open.spotify.com/artist/23dkmyBb5NdKdjokpPjT9l"
+        },
+        {
+          "name": "McKlopedia",
+          "url": "https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315200,
+      "name": "Chambonean",
+      "url": "https://open.spotify.com/track/28sXa6bJgr6TCijFG4ZwVW"
+    },
+    {
+      "album": {
         "name": "Champion",
         "url": "https://open.spotify.com/album/3eTeA1UVzik2N8uyGOs2ei"
       },
@@ -4752,7 +4778,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 251773,
       "name": "El Pana Deiby",
       "url": "https://open.spotify.com/track/0p5vebYEqSahFULjaYB8LY"
@@ -6632,7 +6658,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 138000,
       "name": "I Gotta Go",
       "url": "https://open.spotify.com/track/6KwCM5xpwiPNhZPxWIomev"
@@ -15978,6 +16004,24 @@
       "duration_ms": 161454,
       "name": "Zable",
       "url": "https://open.spotify.com/track/3seVe7b64NhH7mPqH6X4MK"
+    },
+    {
+      "album": {
+        "name": "ZAPATOS",
+        "url": "https://open.spotify.com/album/5iLzs8Od50z0LnxT473EDa"
+      },
+      "artists": [
+        {
+          "name": "008RACCA",
+          "url": "https://open.spotify.com/artist/4V8v5JEf8rsMh9g90GZBLM"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153043,
+      "name": "ZAPATOS",
+      "url": "https://open.spotify.com/track/05y0gZhdZPsOCwSUIv1nXb"
     },
     {
       "album": {

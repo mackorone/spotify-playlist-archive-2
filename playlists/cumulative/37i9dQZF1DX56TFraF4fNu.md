@@ -4,7 +4,7 @@
 
 > Dosis musical para disfrutar el momento\. Foto: Danny Ocean
 
-286 songs - 14 hr 54 min
+287 songs - 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [YOTULOKO](https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [YOTULOKO](https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW) | 3:33 | 2024-07-26 | 2024-08-17 |
 | [Young Rich & In Love \- KAYTRANADA Remix](https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \- Deluxe](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:52 | 2024-08-09 | 2024-08-24 |
 | [Zaza \(Chimbita\)](https://open.spotify.com/track/5oVdxjNUUjf9Q06LnPYYay) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Xantos](https://open.spotify.com/artist/3HPOnbuwLP2qlwWQ7cgxYW), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Zaza \(Chimbita\)](https://open.spotify.com/album/7tZYg2RzA4NSNFACxWhy9Y) | 3:08 | 2023-03-31 | 2023-07-22 |
+| [ZONA SEGURA](https://open.spotify.com/track/5zy9E1pTDyBsGDnC3fFj9E) | [Taymez](https://open.spotify.com/artist/55eWX5MpFWbC29i8BoaHDZ), [Miguel Bueno](https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT) | [ZONA SEGURA](https://open.spotify.com/album/2WP6tVcj5i32vDztD0RjHG) | 2:23 | 2026-07-03 |  |
 | [¡Ya no me pregunten por mi ex!](https://open.spotify.com/track/0gmZhxA8E5rDXUSwODW9X7) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [¡Ya no me pregunten por mi ex!](https://open.spotify.com/album/5id7Y3fY4e2ZxP43yquSxK) | 2:10 | 2024-08-16 | 2025-03-22 |
 | [¿Qué nos Pasó? \- Remix](https://open.spotify.com/track/6NpARqZJpHoknECMMpWqLG) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [¿Qué nos Pasó? \(Remix\)](https://open.spotify.com/album/4myQOfn2ZBEaD6tji4KHUy) | 3:21 | 2024-12-06 | 2025-01-25 |
 

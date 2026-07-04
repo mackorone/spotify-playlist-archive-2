@@ -1,12 +1,12 @@
 {
   "description": "This is Florence + The Machine. The essential tracks, all in one playlist.",
-  "num_followers": 587677,
+  "num_followers": 587760,
   "original_name": "This Is Florence + The Machine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAADsekHc1m72T+MseYGZglg4",
+  "snapshot_id": "akWqAAAAAACOJVb5CR8WtLQ+mhkoiTw/",
   "tracks": [
     {
       "added_at": null,
@@ -535,26 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "EDM Party",
-        "url": "https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2"
+        "name": "Ceremonials (Original Deluxe Version)",
+        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
       },
       "artists": [
         {
           "name": "Florence + The Machine",
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        },
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
         }
       ],
-      "duration_ms": 264574,
-      "name": "You Got The Love (Mark Knight Remix) / One",
-      "url": "https://open.spotify.com/track/70m0QxEfeSeeYlqDbZ1e6a"
+      "duration_ms": 303253,
+      "name": "Seven Devils",
+      "url": "https://open.spotify.com/track/6NmEbJz0hXsoe5mogu23it"
     },
     {
       "added_at": null,
@@ -575,18 +567,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ceremonials (Original Deluxe Version)",
-        "url": "https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5"
+        "name": "EDM Party",
+        "url": "https://open.spotify.com/album/3uoi0WSv99nejC8O0PYoB2"
       },
       "artists": [
         {
           "name": "Florence + The Machine",
           "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        },
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
         }
       ],
-      "duration_ms": 303253,
-      "name": "Seven Devils",
-      "url": "https://open.spotify.com/track/6NmEbJz0hXsoe5mogu23it"
+      "duration_ms": 264574,
+      "name": "You Got The Love (Mark Knight Remix) / One",
+      "url": "https://open.spotify.com/track/70m0QxEfeSeeYlqDbZ1e6a"
     },
     {
       "added_at": null,

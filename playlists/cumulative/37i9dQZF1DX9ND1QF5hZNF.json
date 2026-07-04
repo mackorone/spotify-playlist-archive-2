@@ -418,7 +418,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 239885,
       "name": "As Soon As I Get Home",
       "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
@@ -1789,6 +1789,24 @@
     },
     {
       "album": {
+        "name": "Dance With The Devil (Ocean Drive)",
+        "url": "https://open.spotify.com/album/37dAi8jpE78jBX6dHl3Nsl"
+      },
+      "artists": [
+        {
+          "name": "L.B. One",
+          "url": "https://open.spotify.com/artist/42D00VQsIgAb68LZK0zWYS"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153431,
+      "name": "Dance With The Devil (Ocean Drive)",
+      "url": "https://open.spotify.com/track/7GQ8LMlKaCKUluhmYWUwti"
+    },
+    {
+      "album": {
         "name": "Dans la ville endormie (Remix)",
         "url": "https://open.spotify.com/album/6kWR6an9Q2geLPAMhDLiTn"
       },
@@ -2579,6 +2597,24 @@
     },
     {
       "album": {
+        "name": "Gimon",
+        "url": "https://open.spotify.com/album/3HVHNEkW8N1ulyaEbqcLm0"
+      },
+      "artists": [
+        {
+          "name": "Les Gordon",
+          "url": "https://open.spotify.com/artist/4UqXejsLj7uwZmzQ9vkmg8"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163500,
+      "name": "Gimon",
+      "url": "https://open.spotify.com/track/7cZjChkERG4L07p43BUmTx"
+    },
+    {
+      "album": {
         "name": "Glassy Haze",
         "url": "https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf"
       },
@@ -3128,7 +3164,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 179555,
       "name": "how do i find you",
       "url": "https://open.spotify.com/track/1ipTK7lCKdr2I9ugA60HRd"
@@ -3384,7 +3420,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 131434,
       "name": "I'll Be There",
       "url": "https://open.spotify.com/track/5XfIN3XMYYCJgUtnuBfRr6"
@@ -5216,7 +5252,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 193776,
       "name": "Nobody Behind",
       "url": "https://open.spotify.com/track/2PagiIAx6vIoQe0V8LVWf1"
@@ -6223,6 +6259,28 @@
     },
     {
       "album": {
+        "name": "Reason",
+        "url": "https://open.spotify.com/album/5ZCM4NVCQXeWHKQOzP3HyS"
+      },
+      "artists": [
+        {
+          "name": "Youngmin",
+          "url": "https://open.spotify.com/artist/2w271WbWiCuYjWGz92Dzwb"
+        },
+        {
+          "name": "Polux",
+          "url": "https://open.spotify.com/artist/7xlYnInKi4qbUURqPRabJg"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139065,
+      "name": "Reason",
+      "url": "https://open.spotify.com/track/6JOPXWvT2Y4Cd5MYfeyctT"
+    },
+    {
+      "album": {
         "name": "Reckless Child",
         "url": "https://open.spotify.com/album/3hgRlpLt7y31c0KFUE4xcX"
       },
@@ -6380,7 +6438,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 160000,
       "name": "Sad Lines",
       "url": "https://open.spotify.com/track/24m0aYomJ3WK1rZ2CwbMZ3"
@@ -6920,7 +6978,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 154712,
       "name": "So Much Beauty (Around Us)",
       "url": "https://open.spotify.com/track/1QNK97rGcsv0EuG7b6Bdey"
@@ -7191,6 +7249,28 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/1CxcZow5xpjQgmyqCvNGWj"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "I'm Yours",
+          "url": "https://open.spotify.com/artist/1qPnPqJgsdITO3InYqGMhJ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184059,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6IJZXdUE2ByVm2maHRRqOr"
+    },
+    {
+      "album": {
         "name": "Stay With Me Through The Night",
         "url": "https://open.spotify.com/album/28EdPIAGo5czFuqTGseouO"
       },
@@ -7224,6 +7304,24 @@
       "duration_ms": 146250,
       "name": "Stereo",
       "url": "https://open.spotify.com/track/7lkCCTUKQFQiwOSVBXkEQM"
+    },
+    {
+      "album": {
+        "name": "Still Be Mine",
+        "url": "https://open.spotify.com/album/1uJcu9689O4PPZnIz2GNSd"
+      },
+      "artists": [
+        {
+          "name": "Tom Kha",
+          "url": "https://open.spotify.com/artist/7Jx4jOIIdp8GeoR2sA32fY"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Still Be Mine",
+      "url": "https://open.spotify.com/track/4UAQJ7mog6rkvoX6rRwqDU"
     },
     {
       "album": {
@@ -7360,6 +7458,24 @@
       "duration_ms": 150530,
       "name": "Summer In Your Arms",
       "url": "https://open.spotify.com/track/0ROfiWtyN3q5np44QqiCVA"
+    },
+    {
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/0LeVRcFdIWpxBhjkBsMIGV"
+      },
+      "artists": [
+        {
+          "name": "H:dn",
+          "url": "https://open.spotify.com/artist/4gD6ddSF1KwHyvk34XykYH"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178016,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/0ytDnkYrIbFCVu7kyE1XRV"
     },
     {
       "album": {

@@ -1,13 +1,65 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Curry",
-  "num_followers": 27152,
+  "num_followers": 27162,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHuiKDBy/5QeXqGRhEIPJSik4BIX",
+  "snapshot_id": "AAAAAItzc4FlDu6lmL3PV8oao3cLZ5la",
   "tracks": [
+    {
+      "added_at": "2026-07-03 16:55:34",
+      "album": {
+        "name": "Unfiltered",
+        "url": "https://open.spotify.com/album/11tiTS3M2Lo3Hs4Ylnbs0m"
+      },
+      "artists": [
+        {
+          "name": "NoKHaP",
+          "url": "https://open.spotify.com/artist/1oybubRGJerWEgszFgYCvj"
+        }
+      ],
+      "duration_ms": 145522,
+      "name": "Unfiltered",
+      "url": "https://open.spotify.com/track/3kWbC48Bl8wN5LAAtcYTzo"
+    },
+    {
+      "added_at": "2026-07-03 16:55:34",
+      "album": {
+        "name": "Made In Mysuru",
+        "url": "https://open.spotify.com/album/38O0djGzkdc9u1JmwWlI5X"
+      },
+      "artists": [
+        {
+          "name": "AGORAH",
+          "url": "https://open.spotify.com/artist/0MS0PxbrMlTrqjSVLIdCaE"
+        },
+        {
+          "name": "Rag",
+          "url": "https://open.spotify.com/artist/1FVLKwIMLYyjPTZvent2Zy"
+        }
+      ],
+      "duration_ms": 159143,
+      "name": "Nan Side",
+      "url": "https://open.spotify.com/track/6TX42UyfubUFS1NT90HiJ8"
+    },
+    {
+      "added_at": "2026-07-03 16:55:34",
+      "album": {
+        "name": "Preethi Kathe",
+        "url": "https://open.spotify.com/album/3zdCNmP4Zu2Qb8HjruqaoK"
+      },
+      "artists": [
+        {
+          "name": "Suraj KM",
+          "url": "https://open.spotify.com/artist/58YkQ1o2gTEje3E53rEAej"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Preethi Kathe",
+      "url": "https://open.spotify.com/track/1XQsVRqsqtmeh8YfmzaNpa"
+    },
     {
       "added_at": "2026-06-19 13:11:16",
       "album": {
@@ -75,6 +127,22 @@
       "duration_ms": 152347,
       "name": "Yerd Plate Dose",
       "url": "https://open.spotify.com/track/4PevvkDKE2ZibNCfj02p53"
+    },
+    {
+      "added_at": "2026-07-03 16:55:34",
+      "album": {
+        "name": "KODAGU RAP",
+        "url": "https://open.spotify.com/album/0eXDI1m5JG1gXuRSXQZK9N"
+      },
+      "artists": [
+        {
+          "name": "Hitesh High",
+          "url": "https://open.spotify.com/artist/3rSYZ6tJgkSf15X3Go4Dzb"
+        }
+      ],
+      "duration_ms": 155554,
+      "name": "KODAGU RAP",
+      "url": "https://open.spotify.com/track/0fbFGx9o2DpeoRjbMvPgln"
     },
     {
       "added_at": "2026-06-18 03:49:06",

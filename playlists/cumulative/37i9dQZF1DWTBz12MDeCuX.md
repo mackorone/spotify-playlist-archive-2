@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Lina\-Mariah
 
-3,579 songs - 6 day 22 hr 32 min
+3,579 songs - 6 day 22 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2148,7 +2148,7 @@
 | [MÄRCHEN](https://open.spotify.com/track/0AypocxfIhC4u8108zaAgJ) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [MÄRCHEN](https://open.spotify.com/album/38tnTzO4PSNTB4x8l5mD0a) | 2:27 | 2023-05-11 | 2023-06-02 |
 | [Märchenwald](https://open.spotify.com/track/5lsYXP02jd62YmG4iARPTK) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [Märchenwald](https://open.spotify.com/album/1swXRRje7xzfuTdFL5A5tz) | 3:03 | 2025-03-06 | 2025-06-20 |
 | [müde](https://open.spotify.com/track/71I89sp3uzWIWq9BGHZQTv) | [LUNA](https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7) | [müde](https://open.spotify.com/album/4MAkTfejQZEuVORff0WeYF) | 3:25 | 2022-07-21 | 2022-08-26 |
-| [müde](https://open.spotify.com/track/6XfDVm6QczCYrLBuGfBpIp) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [müde](https://open.spotify.com/album/05vrUtHhnNEqy2WNGPY8T9) | 2:33 | 2026-07-02 |  |
+| [Müde](https://open.spotify.com/track/6XfDVm6QczCYrLBuGfBpIp) | [Mark Forster](https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG) | [Müde](https://open.spotify.com/album/05vrUtHhnNEqy2WNGPY8T9) | 2:33 | 2026-07-02 |  |
 | [MÜNCHNER STR.](https://open.spotify.com/track/3PBJgXZm0rFkycauEIE4ph) | [Luna Antonia](https://open.spotify.com/artist/5wql7oielCnJBx098O8Thc) | [MÜNCHNER STR.](https://open.spotify.com/album/5xJckM22Vin7IOtXfQ7yfQ) | 2:21 | 2024-11-28 | 2025-01-24 |
 | [MÜTTER](https://open.spotify.com/track/6Ng0CIhBR7SndfW0LWYYOK) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Pintendari](https://open.spotify.com/artist/66Kv6hQepRROlkoN8nnpd4), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl), [GX488](https://open.spotify.com/artist/2vejmZVbfJvdE4xepeUqVa) | [MÜTTER](https://open.spotify.com/album/3C5SoJifuWhxVk4brEncKe) | 2:06 | 2024-12-12 | 2025-01-25 |
 | [Na Und](https://open.spotify.com/track/7Gu7rsUl0raesONlJIckyV) | [Carlo5](https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a), [Amaru](https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz) | [Na Und](https://open.spotify.com/album/4K6OhUxxptMBusRbwfwfJx) | 2:41 | 2025-06-06 | 2025-08-08 |
@@ -2805,6 +2805,7 @@
 | [Soho House](https://open.spotify.com/track/0tj5Cd8mLxAfbhM1ggMnwn) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Soho House](https://open.spotify.com/album/1M0j3ketO4FBzXXKsYC1Z2) | 2:36 | 2024-03-04 | 2024-03-29 |
 | [soho witch](https://open.spotify.com/track/0zJDnKfWvCYufAG88CsA5r) | [pazzy](https://open.spotify.com/artist/5EytKInN6062ur6NQfWvBh) | [soho witch](https://open.spotify.com/album/48jfcfQ1E7GOsHK475Cxas) | 2:21 | 2023-06-29 | 2023-07-14 |
 | [SOLANGE DAS NOCH GEHT](https://open.spotify.com/track/0zDRwSwqTdKzFjq8L9VxgC) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [F\*CK you](https://open.spotify.com/album/2qvrRdgLyWmYEevD9FH7mH) | 2:21 | 2023-10-19 | 2023-10-27 |
+| [SOLITO \(feat\. maye\)](https://open.spotify.com/track/6vmLZbrfb6Zky8uShfVjhE) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [NOTES FROM LATAM](https://open.spotify.com/album/5KlPBzaaCHOTKS5rdN6bi7) | 3:20 | 2026-07-02 |  |
 | [Somebody New](https://open.spotify.com/track/6Se74aLQWLjOsVvg5GRQY7) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Somebody New](https://open.spotify.com/album/59PAAx06alV3da3WBAO1NK) | 2:23 | 2024-02-01 | 2024-02-16 |
 | [someday i'll get it](https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY) | [Alek Olsen](https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8) | [someday i'll get it](https://open.spotify.com/album/2YXww1viuuKZPi458rdopk) | 1:34 | 2024-03-28 | 2024-04-26 |
 | [Something In The Way](https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 3:52 | 2022-07-14 | 2022-07-26 |
@@ -3098,7 +3099,6 @@
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-09-22 |
 | [toxic energy \(with The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-05 | 2022-08-12 |
 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 | 2025-04-17 | 2025-05-20 |
-| [Track 7](https://open.spotify.com/track/6vmLZbrfb6Zky8uShfVjhE) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [NOTES FROM LATAM](https://open.spotify.com/album/5KlPBzaaCHOTKS5rdN6bi7) | 0:00 | 2026-07-02 |  |
 | [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 | 2023-08-24 | 2023-09-01 |
 | [Tracksuit Velours](https://open.spotify.com/track/7zOsUnRGpQBAWNPLdYa0fE) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Tracksuit Velours](https://open.spotify.com/album/4JUe83xyCwP4TIiYBFu2Wc) | 2:30 | 2022-06-16 | 2022-09-02 |
 | [TRAPPER'S LULLABY](https://open.spotify.com/track/11zZDUazgO4zMrW03q2fWo) | [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [TRAPPER'S LULLABY](https://open.spotify.com/album/3BELR2rzU6HU14t2cShe3Z) | 4:12 | 2025-07-24 | 2025-09-19 |

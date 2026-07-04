@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Jon Drake, MIK's Reaction, Bad Scullianz and more",
+  "description": "With Jon Drake, MIK's Reaction, Dan Fearon and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -96,6 +96,28 @@
       "duration_ms": 247272,
       "name": "A Million Days",
       "url": "https://open.spotify.com/track/1gpvm8MQYZgrVPso4ygthU"
+    },
+    {
+      "album": {
+        "name": "A Million Years",
+        "url": "https://open.spotify.com/album/68hzmk6bccKVW6LKCBE8Ug"
+      },
+      "artists": [
+        {
+          "name": "Mick Clack",
+          "url": "https://open.spotify.com/artist/12f71TvR1n79OMni3MD3yB"
+        },
+        {
+          "name": "Paul Gibbon",
+          "url": "https://open.spotify.com/artist/0MeeEqW6mUxwcilSxKZ41y"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 404250,
+      "name": "A Million Years",
+      "url": "https://open.spotify.com/track/5YxpzSyf2WkDam290MzkGo"
     },
     {
       "album": {
@@ -796,7 +818,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 282352,
       "name": "Be Your Own Light",
       "url": "https://open.spotify.com/track/7IWEy1oMlW4Ua2YG8t0Kms"
@@ -886,7 +908,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1502,7 +1524,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 220000,
       "name": "Cave Of Sorrows",
       "url": "https://open.spotify.com/track/0EGn0yNC0BCD8CsSLbMOhW"
@@ -3712,7 +3734,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 168263,
       "name": "Fade",
       "url": "https://open.spotify.com/track/3jWK5AftB2MVpdVLQ0d5BV"
@@ -3964,7 +3986,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 285931,
       "name": "Farewell Romero",
       "url": "https://open.spotify.com/track/4G9PYgNCjj3PTw1sRoglWE"
@@ -4512,7 +4534,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 149538,
       "name": "Gin N Tonic",
       "url": "https://open.spotify.com/track/4lRrtbKHGIYXWGtP0i7F9K"
@@ -5692,7 +5714,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 366389,
       "name": "Insecurity",
       "url": "https://open.spotify.com/track/5DvTDrVcrfsfUWRQ9THC85"
@@ -6450,7 +6472,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 275670,
       "name": "Let the Rain Fall",
       "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
@@ -6526,6 +6548,24 @@
       "duration_ms": 201600,
       "name": "lies and deseption",
       "url": "https://open.spotify.com/track/0wljHgBxSS5BsVTzGRzDEL"
+    },
+    {
+      "album": {
+        "name": "Lies Behind The Afterlife (2026 remastered version)",
+        "url": "https://open.spotify.com/album/160iYP1o92Y46MquUbpqG4"
+      },
+      "artists": [
+        {
+          "name": "Last \"Ravage\" Opinion",
+          "url": "https://open.spotify.com/artist/3m5aTtO0Hj5KFaGianmeGn"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122666,
+      "name": "Lies Behind The Afterlife - 2026 remastered version",
+      "url": "https://open.spotify.com/track/3fneVquIhlM7TjjxckJ4jS"
     },
     {
       "album": {
@@ -7328,7 +7368,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 247994,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5TuY7LoTVng1mXt9yDYbZt"
@@ -8700,7 +8740,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 223663,
       "name": "One Chance",
       "url": "https://open.spotify.com/track/7eJiTUS9FthmhEL9qOrisn"
@@ -8772,7 +8812,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 237751,
       "name": "Onward We Go",
       "url": "https://open.spotify.com/track/5ua4KDUOuO0nRJfnYX5GiH"
@@ -8880,7 +8920,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 217295,
       "name": "Painting Princess",
       "url": "https://open.spotify.com/track/1fotqQEfQNkDV4Eb4Uk9ML"
@@ -10302,7 +10342,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "Silence between us",
       "url": "https://open.spotify.com/track/5SssF1jxwhh6dey6W17zbA"
@@ -12044,7 +12084,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 193500,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/60tVvB34IfKDBqq0lbAdZr"
@@ -12062,7 +12102,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 319892,
       "name": "The Scavengers",
       "url": "https://open.spotify.com/track/60CFVzMTsZhBZixZcMyGbC"
@@ -12474,7 +12514,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 206083,
       "name": "Time",
       "url": "https://open.spotify.com/track/67dBdEclgI36iWZmd9YjRU"
@@ -13778,7 +13818,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 186458,
       "name": "When Will It Be",
       "url": "https://open.spotify.com/track/2akBaHPtjCrlIkH1sP2ICN"
@@ -14226,6 +14266,24 @@
       "duration_ms": 256000,
       "name": "Your Breath",
       "url": "https://open.spotify.com/track/3tMfN6WdUINk6cR2vObP3W"
+    },
+    {
+      "album": {
+        "name": "Your Heart in My Soul",
+        "url": "https://open.spotify.com/album/2s8wrb9aSRvATGx0SuVZUB"
+      },
+      "artists": [
+        {
+          "name": "Armin F.",
+          "url": "https://open.spotify.com/artist/6J7s0zqShr52v68ASUClSm"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231936,
+      "name": "Your Heart in My Soul",
+      "url": "https://open.spotify.com/track/1rwQ3Ej9SsGD5FTlmnMqw8"
     },
     {
       "album": {

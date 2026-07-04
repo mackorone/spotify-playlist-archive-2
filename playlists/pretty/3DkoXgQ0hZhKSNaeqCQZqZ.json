@@ -1,18 +1,50 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1153,
+  "num_followers": 1155,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFb24ccKC8phRdHgWCELQBqsBhMLY1",
+  "snapshot_id": "AAAFch/31UOUkFIwOBd7pIrPcZtqqLtC",
   "tracks": [
     {
-      "added_at": "2026-06-21 07:18:50",
+      "added_at": "2026-07-03 08:13:48",
       "album": {
-        "name": "Say The Words",
-        "url": "https://open.spotify.com/album/7KkEQMbrmpVsXzUtbrMYyO"
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 197044,
+      "name": "I Always Lose",
+      "url": "https://open.spotify.com/track/6Wd1Hpn3sjCRmubqEd57A0"
+    },
+    {
+      "added_at": "2026-07-03 08:13:48",
+      "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 237558,
+      "name": "Eat Me Alive",
+      "url": "https://open.spotify.com/track/7GOHw06yKrMFF5UuesDKIf"
+    },
+    {
+      "added_at": "2026-07-03 08:13:48",
+      "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
       },
       "artists": [
         {
@@ -22,7 +54,87 @@
       ],
       "duration_ms": 217879,
       "name": "Say The Words",
-      "url": "https://open.spotify.com/track/5zpo6JR8D1lO7iuypju0ZB"
+      "url": "https://open.spotify.com/track/0SFYPKipfy0G1R7Y6oAkqO"
+    },
+    {
+      "added_at": "2026-07-03 08:13:48",
+      "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 157281,
+      "name": "Some Years",
+      "url": "https://open.spotify.com/track/7nhuibhCjq3sSrnpT4pgow"
+    },
+    {
+      "added_at": "2026-07-03 08:13:48",
+      "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 212044,
+      "name": "What You Like",
+      "url": "https://open.spotify.com/track/74QyY8DDPgme7qlLm1H8dM"
+    },
+    {
+      "added_at": "2026-07-03 08:13:48",
+      "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 245995,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/5qNUf9PYWMl1T8v4OvlvvW"
+    },
+    {
+      "added_at": "2026-07-03 08:13:48",
+      "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 204209,
+      "name": "Do It All",
+      "url": "https://open.spotify.com/track/21m4G0iFptQHoLZy8RngNg"
+    },
+    {
+      "added_at": "2026-07-03 08:13:48",
+      "album": {
+        "name": "Bite Me",
+        "url": "https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 260522,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/5pRTfoPISfQjSiFI9l4R5Y"
     },
     {
       "added_at": "2026-06-29 05:38:33",
@@ -191,22 +303,6 @@
       "duration_ms": 270373,
       "name": "HOMESICK WANDERLUST",
       "url": "https://open.spotify.com/track/23hzufyU9ufwaFTobzcNzH"
-    },
-    {
-      "added_at": "2026-05-30 20:49:39",
-      "album": {
-        "name": "Eat Me Alive",
-        "url": "https://open.spotify.com/album/4ZOHqRRTl4g9CkiCiB5tIA"
-      },
-      "artists": [
-        {
-          "name": "GABUISLOST",
-          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
-        }
-      ],
-      "duration_ms": 237558,
-      "name": "Eat Me Alive",
-      "url": "https://open.spotify.com/track/1m9upNm8FhtRYfcgbSshH2"
     },
     {
       "added_at": "2026-06-16 22:17:32",

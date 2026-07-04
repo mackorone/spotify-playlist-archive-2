@@ -1107,6 +1107,24 @@
     },
     {
       "album": {
+        "name": "BAGAY TAYO",
+        "url": "https://open.spotify.com/album/6J5NUlHD8yOqxopUPu9PB9"
+      },
+      "artists": [
+        {
+          "name": "Baby Blood",
+          "url": "https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212639,
+      "name": "BAGAY TAYO",
+      "url": "https://open.spotify.com/track/5pjNZ4Xy9qW0PL7TCNKYBM"
+    },
+    {
+      "album": {
         "name": "BAI NA BAI",
         "url": "https://open.spotify.com/album/3GQhCfio9Aec4AwVTUMdjD"
       },
@@ -1945,6 +1963,28 @@
     },
     {
       "album": {
+        "name": "D2H",
+        "url": "https://open.spotify.com/album/4O1M3XDP0ucTU1fqRMxeYX"
+      },
+      "artists": [
+        {
+          "name": "PRETTYMF9INE",
+          "url": "https://open.spotify.com/artist/5p4MVuxwwSJ0Ac0ZW8SIRn"
+        },
+        {
+          "name": "TFB",
+          "url": "https://open.spotify.com/artist/6utz2eT1c8N0nOW8wxV1gm"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208026,
+      "name": "D2H",
+      "url": "https://open.spotify.com/track/5Ym6nk1kbJpDWaHd9x3cgt"
+    },
+    {
+      "album": {
         "name": "DAB (Leaked interlude)",
         "url": "https://open.spotify.com/album/4ihyVo02StqInn6ZAVn60T"
       },
@@ -2528,6 +2568,24 @@
       "duration_ms": 199296,
       "name": "EMPILIGHT",
       "url": "https://open.spotify.com/track/6liHmUVmfhbXFG45ybCr96"
+    },
+    {
+      "album": {
+        "name": "EWAN KO BA",
+        "url": "https://open.spotify.com/album/67ByQsZ8rQxanKE913SqZE"
+      },
+      "artists": [
+        {
+          "name": "A$tro",
+          "url": "https://open.spotify.com/artist/5794gAYyVyxoZKIhyN9OUq"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187241,
+      "name": "EWAN KO BA",
+      "url": "https://open.spotify.com/track/5V0YrBtYVC3AtR4R7HJXzy"
     },
     {
       "album": {
@@ -5564,6 +5622,32 @@
       "duration_ms": 165981,
       "name": "Mossa Downtown",
       "url": "https://open.spotify.com/track/5kA5QMEgxW3VwwvAFjpgr4"
+    },
+    {
+      "album": {
+        "name": "Most HIGH",
+        "url": "https://open.spotify.com/album/232xRb3MjUlrbSjROCFxpi"
+      },
+      "artists": [
+        {
+          "name": "Slick V",
+          "url": "https://open.spotify.com/artist/1is3Qef9QssY4jS4Yfz8AM"
+        },
+        {
+          "name": "Sica",
+          "url": "https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B"
+        },
+        {
+          "name": "Ghoti Scale",
+          "url": "https://open.spotify.com/artist/50teFCw4EgxAKJ6boDbrJi"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Most HIGH",
+      "url": "https://open.spotify.com/track/3RP4BbtNSXCAFCtbYtfl32"
     },
     {
       "album": {
@@ -8840,6 +8924,24 @@
       "duration_ms": 288000,
       "name": "UZI NI LUCKY",
       "url": "https://open.spotify.com/track/1FttSFLE8KumSjYCwMYKNJ"
+    },
+    {
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/37QgURYpAO5OrHte70dtQW"
+      },
+      "artists": [
+        {
+          "name": "Alisson Shore",
+          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/2RlMqLQHI2TcHxZ0fjJmZR"
     },
     {
       "album": {

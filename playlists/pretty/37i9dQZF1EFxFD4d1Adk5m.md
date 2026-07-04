@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7q0jvGbuDLsmGvaRCU7F00">Maegan Cottone</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296 likes - 122 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 297 likes - 122 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 | 101 | [Girls In London](https://open.spotify.com/track/2vWkaAXqwTAbfzMe7lAXbc) | [Misunderstood](https://open.spotify.com/artist/4WYL3FlpuOq1TPtVu8rA1G) | [Girls In London](https://open.spotify.com/album/7dAtPBeMBOXFjTXiy258WM) | 3:26 |
 | 102 | [Cadillac](https://open.spotify.com/track/27vTsuK5jVQaYOnCp6egkc) | [Sweet California](https://open.spotify.com/artist/0D48D7HFC7NtWKftvsDIXq) | [3](https://open.spotify.com/album/2Esif7qCtdu8GaxVeLbMqN) | 2:56 |
 | 103 | [For You](https://open.spotify.com/track/4PlSswpXkBuB3zOQTamS2C) | [GLOWINTHEDARK](https://open.spotify.com/artist/2gLZZdgHD8ZbSAB2qQkr3P) | [Stars & Moon](https://open.spotify.com/album/0oBYOPV1hgt5H4mE50Ib6q) | 2:58 |
-| 104 | [Live It Up](https://open.spotify.com/track/1fzGTK2qoX10Xnm0tIr2nL) | [Miami Beatz](https://open.spotify.com/artist/7m7uZG6oF329yKI2FtptTA) | [Ultimate Summer Hits: 50 Party Anthems](https://open.spotify.com/album/2Yq0Bi84tBQ69lGKIBEdyD) | 3:28 |
-| 105 | [SWIPE LEFT](https://open.spotify.com/track/1HUZ8rtqtm2I6UtUAHJpTw) | [Karim Naas](https://open.spotify.com/artist/0CtbEQRf5QgHb89JgCl95n), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166), [Acko](https://open.spotify.com/artist/4jiOvEyAn2AHCd4wJuRsBi), [GREGG](https://open.spotify.com/artist/3Dd8hs6oduPlzzHhqtYAzM) | [SWIPE LEFT](https://open.spotify.com/album/4iuytjVmI31UQivEpVnNcz) | 2:02 |
+| 104 | [SWIPE LEFT](https://open.spotify.com/track/1HUZ8rtqtm2I6UtUAHJpTw) | [Karim Naas](https://open.spotify.com/artist/0CtbEQRf5QgHb89JgCl95n), [ZHIKO](https://open.spotify.com/artist/0zr2hUrgdQC7g7v2fpd166), [Acko](https://open.spotify.com/artist/4jiOvEyAn2AHCd4wJuRsBi), [GREGG](https://open.spotify.com/artist/3Dd8hs6oduPlzzHhqtYAzM) | [SWIPE LEFT](https://open.spotify.com/album/4iuytjVmI31UQivEpVnNcz) | 2:02 |
+| 105 | [Live It Up](https://open.spotify.com/track/1fzGTK2qoX10Xnm0tIr2nL) | [Miami Beatz](https://open.spotify.com/artist/7m7uZG6oF329yKI2FtptTA) | [Ultimate Summer Hits: 50 Party Anthems](https://open.spotify.com/album/2Yq0Bi84tBQ69lGKIBEdyD) | 3:28 |
 | 106 | [Sleep Alone \- RELECTO & Billy The Kit Radio Remix](https://open.spotify.com/track/73AwUcVAB7HaRIDOfbIFa4) | [Billy The Kit](https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ), [RELECTO](https://open.spotify.com/artist/0ZI3SANhOylOfMFdxiPXFh) | [Sleep Alone \(RELECTO & BILLY THE KIT REMIX\)](https://open.spotify.com/album/77HMLbAJK3ZsklCJGGDfs0) | 2:59 |
 | 107 | [Under Water](https://open.spotify.com/track/0aetbme5oUc323udTTuthX) | [ENISA](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Under Water](https://open.spotify.com/album/1jqkxytjxyNmEl4LbF5F7A) | 2:56 |
 | 108 | [Playing for Keeps](https://open.spotify.com/track/4o3evlZk3fHcIOTJ69tvCC) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Studio 24](https://open.spotify.com/album/46xiLhdGN2wYJk8km7Xnk5) | 3:15 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxFD4d1Adk5m.md) - [plain]
 | 121 | [The Greatest \- Vocal Mix](https://open.spotify.com/track/1lEeOgUqCTAYK9rBA3gPBc) | [Mell Tierra](https://open.spotify.com/artist/0mRnzQ57yTuNxmAQWqKzYO), [Maegan Cottone](https://open.spotify.com/artist/3d8BRJdkVQMFmdRu2eR3yg) | [The Greatest](https://open.spotify.com/album/6ssf0Pv7erh4z26k7Iu2Tl) | 5:37 |
 | 122 | [Girls \- Radio Edit](https://open.spotify.com/track/4R87R0NWr7o6kE7lYqRi6p) | [Yves Larock & Tony Sylla](https://open.spotify.com/artist/1hbYJOKyrqE7h6nxPlBpZu), [Tara Mcdonald](https://open.spotify.com/artist/2yWER4vAftcZCFPc7ednct) | [Girls \(Radio Edit\)](https://open.spotify.com/album/6Fc4SUyyITx6ZWy9v9p2Qc) | 3:25 |
 
-Snapshot ID: `AcVz6AAAAABf3gnSZwj6W1hnkakcDRW2`
+Snapshot ID: `AcV5iAAAAAAyTocA8Pa4qa2syb4sO7g6`

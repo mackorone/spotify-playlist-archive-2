@@ -1,6 +1,6 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1518972,
+  "num_followers": 1519267,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
@@ -200,7 +200,7 @@
       },
       "artists": [
         {
-          "name": "Gigi D'Agostino",
+          "name": "GIGI D'AGOSTINO",
           "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
         }
       ],
@@ -396,7 +396,7 @@
       },
       "artists": [
         {
-          "name": "Gigi D'Agostino",
+          "name": "GIGI D'AGOSTINO",
           "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
         }
       ],
@@ -480,7 +480,7 @@
       },
       "artists": [
         {
-          "name": "Gigi D'Agostino",
+          "name": "GIGI D'AGOSTINO",
           "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
         }
       ],
@@ -723,6 +723,22 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
+        "name": "Ten Top10 90s Hits",
+        "url": "https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz"
+      },
+      "artists": [
+        {
+          "name": "DJ Quicksilver",
+          "url": "https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew"
+        }
+      ],
+      "duration_ms": 194560,
+      "name": "Bellissima - Radio Edit",
+      "url": "https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
         "name": "Short Dick Man",
         "url": "https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 290933,
       "name": "Short Dick Man - Club Mix",
       "url": "https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
-        "name": "Ten Top10 90s Hits",
-        "url": "https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz"
-      },
-      "artists": [
-        {
-          "name": "DJ Quicksilver",
-          "url": "https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew"
-        }
-      ],
-      "duration_ms": 194560,
-      "name": "Bellissima - Radio Edit",
-      "url": "https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC"
     },
     {
       "added_at": "2024-07-15 19:54:53",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-07-15 19:54:53",
       "album": {
-        "name": "Captain Jack",
-        "url": "https://open.spotify.com/album/0hpZzIHtMqYBt6RDYnLLww"
-      },
-      "artists": [
-        {
-          "name": "Captain Jack",
-          "url": "https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf"
-        }
-      ],
-      "duration_ms": 248533,
-      "name": "Captain Jack - Short Mix",
-      "url": "https://open.spotify.com/track/09uma8kvpf699ailOSlzds"
-    },
-    {
-      "added_at": "2024-07-15 19:54:53",
-      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/61NPV53hdl13ljABTLGIfF"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 221280,
       "name": "United - Short Mix",
       "url": "https://open.spotify.com/track/79yxhRPydB5Zs0fWh3QICm"
+    },
+    {
+      "added_at": "2024-07-15 19:54:53",
+      "album": {
+        "name": "Captain Jack",
+        "url": "https://open.spotify.com/album/0hpZzIHtMqYBt6RDYnLLww"
+      },
+      "artists": [
+        {
+          "name": "Captain Jack",
+          "url": "https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf"
+        }
+      ],
+      "duration_ms": 248533,
+      "name": "Captain Jack - Short Mix",
+      "url": "https://open.spotify.com/track/09uma8kvpf699ailOSlzds"
     },
     {
       "added_at": "2024-07-15 19:54:53",

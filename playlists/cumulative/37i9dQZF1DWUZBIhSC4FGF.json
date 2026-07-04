@@ -38,7 +38,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 199630,
       "name": "A B S E N T I A - Udu & Hang Solo",
       "url": "https://open.spotify.com/track/33Q7gzXHp4DVXBgW5apr8o"
@@ -182,7 +182,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 213253,
       "name": "Alma",
       "url": "https://open.spotify.com/track/4adQ8bwjgVTuMbI7s9Ic4A"
@@ -204,6 +204,32 @@
       "duration_ms": 109963,
       "name": "Ancestral Wind",
       "url": "https://open.spotify.com/track/0kXxkSnLLIjsEi2CHH8sxW"
+    },
+    {
+      "album": {
+        "name": "Ancient Bark Echoes",
+        "url": "https://open.spotify.com/album/4DeEQblONBphWVFxMl24QS"
+      },
+      "artists": [
+        {
+          "name": "Sensory Meditation",
+          "url": "https://open.spotify.com/artist/6nsx3cKoJ9eF4KVvN5H8vb"
+        },
+        {
+          "name": "Jasper Whisper",
+          "url": "https://open.spotify.com/artist/1mVO71iTroCcLf7mg1uSo2"
+        },
+        {
+          "name": "Flame Timo",
+          "url": "https://open.spotify.com/artist/4rUIbE7K008AMLXBRYP8sR"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60497,
+      "name": "Ancient Bark Echoes",
+      "url": "https://open.spotify.com/track/1UPignKadUt5OsJEExcX4I"
     },
     {
       "album": {
@@ -1383,6 +1409,28 @@
     },
     {
       "album": {
+        "name": "Forest Breath",
+        "url": "https://open.spotify.com/album/01tMkz5johRsICdtXFPNcY"
+      },
+      "artists": [
+        {
+          "name": "Filippo Pigaiani",
+          "url": "https://open.spotify.com/artist/1SfFZ2bGu4yE4LonBjw7NX"
+        },
+        {
+          "name": "James Hunter Crossley",
+          "url": "https://open.spotify.com/artist/2gd6SDJAohdgKxctSkiV5x"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "Forest Breath",
+      "url": "https://open.spotify.com/track/25gz2nAXL8HtcfYx6QtPdH"
+    },
+    {
+      "album": {
         "name": "Interiorem",
         "url": "https://open.spotify.com/album/3j4uqYBWyOtbPSC41MKajy"
       },
@@ -1518,6 +1566,24 @@
       "duration_ms": 157000,
       "name": "Golden Path",
       "url": "https://open.spotify.com/track/7e2CFHVgLRaQxQwyqQosfo"
+    },
+    {
+      "album": {
+        "name": "Grains Of Sand",
+        "url": "https://open.spotify.com/album/6eKV4aaHOxa92zwMnbBqb6"
+      },
+      "artists": [
+        {
+          "name": "Fravula",
+          "url": "https://open.spotify.com/artist/4sO8xUAbF7Vfzoyiy5tYZj"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145565,
+      "name": "Grains Of Sand",
+      "url": "https://open.spotify.com/track/7cUI13csBQDgoJPqrnCtkN"
     },
     {
       "album": {
@@ -1687,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "Indian Tabla Meditation",
+        "url": "https://open.spotify.com/album/4vH1Scp5a0dtHiDFihuDq0"
+      },
+      "artists": [
+        {
+          "name": "Vic Vision",
+          "url": "https://open.spotify.com/artist/7sWJw6QdFcubpMrTamBKw0"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157296,
+      "name": "Indian Tabla Meditation",
+      "url": "https://open.spotify.com/track/2CS6YzRWMU1T3MZl4xKiIX"
+    },
+    {
+      "album": {
         "name": "The Last Apache: Shamanic Meditation - Native American Music, Tribal Journey of Indian Spirit",
         "url": "https://open.spotify.com/album/1GFvZKHPeGBbNXhBFQdPHj"
       },
@@ -1810,6 +1894,24 @@
       "duration_ms": 166932,
       "name": "Inner healing",
       "url": "https://open.spotify.com/track/79G4WIP4K1OglpFFOgcABb"
+    },
+    {
+      "album": {
+        "name": "Inner Mission",
+        "url": "https://open.spotify.com/album/6V6Jobx6VElr5gYA67aXH7"
+      },
+      "artists": [
+        {
+          "name": "Il Sognatore",
+          "url": "https://open.spotify.com/artist/7hmFAgrbDEAAIcGan0kxxM"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Inner Mission",
+      "url": "https://open.spotify.com/track/6ItuihZkiAMaIkj905qGnt"
     },
     {
       "album": {
@@ -2624,7 +2726,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 268000,
       "name": "Perhentian",
       "url": "https://open.spotify.com/track/6uwiYkV67uGEEeAGnpmVMC"
@@ -2848,6 +2950,24 @@
       "duration_ms": 199319,
       "name": "Rhythmic Odyssey",
       "url": "https://open.spotify.com/track/5iIJxhyD7Aile3v11sWZza"
+    },
+    {
+      "album": {
+        "name": "Rise of the Void Phoenix",
+        "url": "https://open.spotify.com/album/48TJiXVy67Dd3kZuis6nQ7"
+      },
+      "artists": [
+        {
+          "name": "Infinity Drifter",
+          "url": "https://open.spotify.com/artist/66Nsavr2JDxr4253JILk4B"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139047,
+      "name": "Rise of the Void Phoenix",
+      "url": "https://open.spotify.com/track/3MH8KUDeeoHms5MscyAmCO"
     },
     {
       "album": {
@@ -3157,6 +3277,24 @@
     },
     {
       "album": {
+        "name": "Shimmering Stage",
+        "url": "https://open.spotify.com/album/19cILzpfOWRWzkbMbWgg1m"
+      },
+      "artists": [
+        {
+          "name": "Inner Orbit",
+          "url": "https://open.spotify.com/artist/7CFzZCGAZQzMwamE5yNz81"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Shimmering Stage",
+      "url": "https://open.spotify.com/track/7zhKcKGqsMfCD97vTx9Irk"
+    },
+    {
+      "album": {
         "name": "Shooting Star",
         "url": "https://open.spotify.com/album/0JiBMAYQroXPn8YykRcQBo"
       },
@@ -3366,7 +3504,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 214595,
       "name": "Stress & Anxiety Recovery",
       "url": "https://open.spotify.com/track/1HygZkT4lkxOQHc6AD7JNs"
@@ -3579,6 +3717,24 @@
     },
     {
       "album": {
+        "name": "The Prana Pulse",
+        "url": "https://open.spotify.com/album/0rWAPxuE0ALLtWdEnitrY0"
+      },
+      "artists": [
+        {
+          "name": "ZoneMan",
+          "url": "https://open.spotify.com/artist/4mzinlkJyhkA2mAmZlZ07E"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118783,
+      "name": "The Prana Pulse",
+      "url": "https://open.spotify.com/track/2iNlvSKBo5dMv8QUk2Dlw2"
+    },
+    {
+      "album": {
         "name": "Luminous Emptiness",
         "url": "https://open.spotify.com/album/2XrJCq3Rkk9QIVOhp1UXW9"
       },
@@ -3612,6 +3768,24 @@
       "duration_ms": 537920,
       "name": "The Secret Kissing of the Sun and Moon",
       "url": "https://open.spotify.com/track/1xTMo9M0UWSarnMlRBCXXe"
+    },
+    {
+      "album": {
+        "name": "Thought Waves",
+        "url": "https://open.spotify.com/album/5aH0HxYiky3gAq61WLmJSu"
+      },
+      "artists": [
+        {
+          "name": "Minds Drift",
+          "url": "https://open.spotify.com/artist/4Eu4sufth9vpE719AWOYWA"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129245,
+      "name": "Thought Waves",
+      "url": "https://open.spotify.com/track/0oN0hPNKnGGXcHLfGDqdrr"
     },
     {
       "album": {

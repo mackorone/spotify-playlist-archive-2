@@ -162901,6 +162901,28 @@
     },
     {
       "album": {
+        "name": "Rich",
+        "url": "https://open.spotify.com/album/3tikyoZV9znFY04kRm68Ho"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        },
+        {
+          "name": "Betty Michaels",
+          "url": "https://open.spotify.com/artist/1BhnNe00irqmdbyijyTZMk"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205046,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/3XEXlFmBu3JOUe9VMK0zh7"
+    },
+    {
+      "album": {
         "name": "Rich As Fuck",
         "url": "https://open.spotify.com/album/64EdBaSuXqRFS7T8cTlvGr"
       },
@@ -193333,6 +193355,24 @@
     },
     {
       "album": {
+        "name": "SAINT",
+        "url": "https://open.spotify.com/album/54TWFwI3dv32281MsxHC12"
+      },
+      "artists": [
+        {
+          "name": "Philip Emilio",
+          "url": "https://open.spotify.com/artist/2GN0eor58XbyUUfQxWTgYn"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188725,
+      "name": "Tell Somebody",
+      "url": "https://open.spotify.com/track/4HKMTuthu9720qcyBLf3C0"
+    },
+    {
+      "album": {
         "name": "Tell them about you",
         "url": "https://open.spotify.com/album/6YFJDbYVLZ9AUNBDlAbESQ"
       },
@@ -203408,24 +203448,6 @@
       "duration_ms": 187500,
       "name": "traces (feat. Molina)",
       "url": "https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa"
-    },
-    {
-      "album": {
-        "name": "SAINT",
-        "url": "https://open.spotify.com/album/54TWFwI3dv32281MsxHC12"
-      },
-      "artists": [
-        {
-          "name": "Philip Emilio",
-          "url": "https://open.spotify.com/artist/2GN0eor58XbyUUfQxWTgYn"
-        }
-      ],
-      "date_added": "2026-07-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/4HKMTuthu9720qcyBLf3C0"
     },
     {
       "album": {
@@ -215030,12 +215052,12 @@
       },
       "artists": [
         {
-          "name": "Alexandra Stan",
-          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
-        },
-        {
           "name": "TR3NACRIA",
           "url": "https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH"
+        },
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
         }
       ],
       "date_added": "2026-07-02",
@@ -224136,6 +224158,24 @@
       "duration_ms": 214000,
       "name": "Yours Someday",
       "url": "https://open.spotify.com/track/2EDO8U61I5ZDAHU6rw0DmE"
+    },
+    {
+      "album": {
+        "name": "YOUtopia",
+        "url": "https://open.spotify.com/album/4KHPTZ0Cad5ZJvZW614XUe"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150150,
+      "name": "YOUtopia",
+      "url": "https://open.spotify.com/track/35NaaOPzsTWOWM47PzRuaY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > ¡Las propuestas independientes que marcan el sonido de Colombia! Foto: Paula Pera y el fin de los Tiempos
 
-156 songs - 9 hr 28 min
+157 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Como Si Nada](https://open.spotify.com/track/3qeEnBDyql3BF8ZRo1fbSU) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Como Si Nada](https://open.spotify.com/album/3gaqW9uYFzUf8Ah2tggT5K) | 3:30 | 2023-09-25 | 2024-06-29 |
 | [Corte Superior](https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb) | [Corte Superior](https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG) | 3:56 | 2023-09-25 | 2025-05-24 |
 | [Cosas que probablemente no van a pasar](https://open.spotify.com/track/2LDX3sOc24GduGMToJ4Q7v) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Cosas Que Probablemente No Van a Pasar](https://open.spotify.com/album/7Kr0Dfn3KWhFvqrMizaRpw) | 2:40 | 2023-09-25 |  |
-| [Cuando Te Veo](https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Caída Libre](https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH) | 3:51 | 2025-03-14 |  |
+| [Cuando Te Veo](https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Caída Libre](https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH) | 3:51 | 2025-03-14 | 2026-07-04 |
 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 | 2025-03-14 |  |
 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 | 2023-09-25 | 2025-05-24 |
 | [Del Arrunche](https://open.spotify.com/track/6r06T1bnhnMtDxQuXAICsk) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [Del Arrunche](https://open.spotify.com/album/3PFvu4Y17yBO8kV2ZLGHrI) | 3:54 | 2023-09-25 |  |
@@ -58,7 +58,7 @@
 | [En el Mar](https://open.spotify.com/track/1jm6grp2AKH1FGkD5Xf0dD) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [En el Mar](https://open.spotify.com/album/2iY7sXF0MJjtpfvRXkXU1X) | 3:44 | 2023-09-25 |  |
 | [Engáñate](https://open.spotify.com/track/6RGz1S7FWiya3aLDMUXnJV) | [Pirineos En Llamas](https://open.spotify.com/artist/522pAy9TuhE7aqrhl8tVFd) | [Engáñate](https://open.spotify.com/album/5HXkHlkENQcA6FIqwnmzSC) | 3:01 | 2024-06-28 |  |
 | [Enséñame a Bailar](https://open.spotify.com/track/2XZZenHGP8pjIL5ZEgrOie) | [Surcos](https://open.spotify.com/artist/2IW0xn9rXParsnatyDv2B7) | [Enséñame a Bailar](https://open.spotify.com/album/6AGdAuBmOpBM9yY0w7KlnI) | 3:09 | 2025-05-23 |  |
-| [Es Mucho Pedir](https://open.spotify.com/track/4p27JzaRCBkd2AUTqyAS82) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Es Mucho Pedir / 6PM](https://open.spotify.com/album/4YHLbK3WXqIHQgWKxoc2Jc) | 3:00 | 2025-03-14 |  |
+| [Es Mucho Pedir](https://open.spotify.com/track/4p27JzaRCBkd2AUTqyAS82) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Es Mucho Pedir / 6PM](https://open.spotify.com/album/4YHLbK3WXqIHQgWKxoc2Jc) | 3:00 | 2025-03-14 | 2026-07-04 |
 | [Esquinas](https://open.spotify.com/track/7znbenF3IGzqmpX6RIepwV) | [NERDS](https://open.spotify.com/artist/7Fl0E3KQtGAOl6TKRVssXP) | [Esquinas](https://open.spotify.com/album/0olqsQLCmq0Vm4dsxW7iWz) | 2:50 | 2023-09-25 |  |
 | [Estar Bien](https://open.spotify.com/track/1PQltLG8NezKxaW3cWAM57) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Expuesta](https://open.spotify.com/album/0jMDCpaptqMNvwuAJvHz9B) | 3:24 | 2023-09-25 | 2024-04-19 |
 | [Estar Bien](https://open.spotify.com/track/3MDp8AskpkUp8BVXMxmknR) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Expuesta](https://open.spotify.com/album/0JldJwdXISVEzlUH8POoxa) | 3:24 | 2024-04-12 |  |
@@ -75,6 +75,7 @@
 | [Gravedad](https://open.spotify.com/track/5mmn1cERQwJMmluPDkuEUG) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Gravedad](https://open.spotify.com/album/6u4Va84V6YrAToE4sj65I3) | 2:47 | 2025-03-14 |  |
 | [Grita](https://open.spotify.com/track/5MeHgKJfpKJd2awO1T5gCl) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Grita \- II](https://open.spotify.com/album/4z8CUoe6p3VIQewnjGJB10) | 3:38 | 2023-10-07 | 2024-04-19 |
 | [Grita](https://open.spotify.com/track/5hHnZ2ty9FpXiFen169sfk) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Grita](https://open.spotify.com/album/3tPjavyWfJ5TBihaEZQeGq) | 3:38 | 2023-09-25 |  |
+| [Horóscopo](https://open.spotify.com/track/6in90Zm49vdieem8XUw6ku) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq), [Marina Tuset](https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc) | [Horóscopo](https://open.spotify.com/album/1XxiRnTrdm6Wk0jrLEwacx) | 2:37 | 2026-07-03 |  |
 | [Imagínate](https://open.spotify.com/track/0qcWrXvAbelJOTmeFsCE5S) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb) | [Imagínate](https://open.spotify.com/album/7utdMWkT64sYeDoeTvNBI5) | 4:30 | 2023-09-25 | 2024-04-13 |
 | [Inmerso](https://open.spotify.com/track/1yT5pnA2Ixa9MM1etHmHDR) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Inmerso](https://open.spotify.com/album/6F3slBnojn36LwjYqPQRfW) | 3:00 | 2023-09-25 |  |
 | [Inmerso](https://open.spotify.com/track/79LhLAiCuY197jNWwEzeE5) | [Mad Tree](https://open.spotify.com/artist/7ozAaEiZsgJUvQ8TDm6X1h) | [Así Hablan Los Pájaros](https://open.spotify.com/album/3wTBXeIlfG8qeV1RQav0C2) | 3:00 | 2023-10-07 | 2024-01-13 |
@@ -82,7 +83,7 @@
 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 | 2023-09-25 |  |
 | [Juego](https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Juego](https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU) | 3:09 | 2023-09-25 |  |
 | [Juno \(Heridas Abiertas\)](https://open.spotify.com/track/1E6g38yUc5FgjO0DmxezLW) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq), [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Juno \(Heridas Abiertas\)](https://open.spotify.com/album/2Riv8GUr2oulH8wMknmSz0) | 2:59 | 2023-09-25 |  |
-| [La cara de la ortiga](https://open.spotify.com/track/27OPxcqyTABukHAiZ34Pb6) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Andariega](https://open.spotify.com/album/37AyRt0ezX4AFtmgJk5cIm) | 3:23 | 2025-05-23 |  |
+| [La cara de la ortiga](https://open.spotify.com/track/27OPxcqyTABukHAiZ34Pb6) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Andariega](https://open.spotify.com/album/37AyRt0ezX4AFtmgJk5cIm) | 3:23 | 2025-05-23 | 2026-07-04 |
 | [La Petite Mort](https://open.spotify.com/track/2f13BemQX8NnUJuuBoCSwk) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD) | [V](https://open.spotify.com/album/0dbTYcYItcpd8iPS3XLg3q) | 4:49 | 2025-03-14 |  |
 | [Las Olas](https://open.spotify.com/track/6uD9TBxKOcTERyinvPwtiF) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Las Olas](https://open.spotify.com/album/0LRqzDjRWb4MSPoDnaKnvJ) | 3:34 | 2024-10-04 |  |
 | [Lo Cura](https://open.spotify.com/track/3ilKo71h84ybq78up74ho0) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Lo Cura](https://open.spotify.com/album/3p11AWGzvHZL4o3Cm9jtba) | 3:30 | 2023-09-25 | 2025-03-15 |
@@ -101,7 +102,7 @@
 | [Mi Barco](https://open.spotify.com/track/2tNfuHQKqB6uQqrHtp7rbL) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Mi Barco](https://open.spotify.com/album/1MXWI2ZmGEPPzaFaxXOZnr) | 3:30 | 2023-09-25 |  |
 | [Mi Corazón de Miel](https://open.spotify.com/track/6WGpwvtVYk9Zl29EVk7VYw) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [El Principio](https://open.spotify.com/album/0ShhKUxpL3ZWQJJpN2gHW1) | 3:24 | 2025-10-10 |  |
 | [Mil Cartas](https://open.spotify.com/track/5VyGv0StDf6LE46h0l0Jv9) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Repetiría Todo](https://open.spotify.com/album/2oSfjx5ip4jvV52NTmu9jW) | 3:05 | 2024-06-28 |  |
-| [Música Gigante \(Anti\-Anti\)](https://open.spotify.com/track/0SgoBed7vjSKnYecYl5rOw) | [llilli](https://open.spotify.com/artist/4QXDj9kt5lBanHAtDi6yK0) | [Música Gigante \(Anti\-Anti\)](https://open.spotify.com/album/7Dh00B989MlLpQUpLxyabG) | 4:53 | 2024-06-28 |  |
+| [Música Gigante \(Anti\-Anti\)](https://open.spotify.com/track/0SgoBed7vjSKnYecYl5rOw) | [llilli](https://open.spotify.com/artist/4QXDj9kt5lBanHAtDi6yK0) | [Música Gigante \(Anti\-Anti\)](https://open.spotify.com/album/7Dh00B989MlLpQUpLxyabG) | 4:53 | 2024-06-28 | 2026-07-04 |
 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 | 2023-09-25 |  |
 | [Nada Que Extrañar](https://open.spotify.com/track/27SOl55VMSsvBTrNTmnBL6) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Nada Que Extrañar](https://open.spotify.com/album/26VRbNvZy0xLUdvmBYcBMb) | 3:24 | 2024-04-12 |  |
 | [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 | 2023-09-25 |  |

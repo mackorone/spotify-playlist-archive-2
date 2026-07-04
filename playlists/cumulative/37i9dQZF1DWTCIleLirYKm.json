@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-15",
-  "description": "a state of mind. Cover: Colby Acuff",
+  "description": "a state of mind. Cover: Charley Crockett",
   "name": "Outlaw ",
   "tracks": [
     {
@@ -448,6 +448,24 @@
       "duration_ms": 147666,
       "name": "Corralling the Blues",
       "url": "https://open.spotify.com/track/2DsHa2ozp5MveeKjylgKWF"
+    },
+    {
+      "album": {
+        "name": "Clovis",
+        "url": "https://open.spotify.com/album/2iEZyM7gH4R2pBCcY2Tt3Z"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255497,
+      "name": "Country Music",
+      "url": "https://open.spotify.com/track/36cKkUsVYg358dZtQ33Wh1"
     },
     {
       "album": {
@@ -2632,7 +2650,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 188998,
       "name": "Why You Been Gone so Long",
       "url": "https://open.spotify.com/track/33HkPcuNKgnPT81H9pO9SL"

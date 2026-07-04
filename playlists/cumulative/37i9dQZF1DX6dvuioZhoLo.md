@@ -2,9 +2,9 @@
 
 ### [Vintage Vibes](https://open.spotify.com/playlist/37i9dQZF1DX6dvuioZhoLo)
 
-> New makes old\. Cover: Willow Avalon
+> New makes old\. Cover: Lily Meola
 
-271 songs - 15 hr 58 min
+273 songs - 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Evangelina](https://open.spotify.com/track/6ChZogzAHtLAFh9OtG1rSL) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Evangelina](https://open.spotify.com/album/6icdCuxBDJTsRFwxQqU9ib) | 3:47 | 2023-07-14 |  |
 | [Fastest Gun Alive](https://open.spotify.com/track/4pYANf4zaNS1KG5u6eOjEt) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Fastest Gun Alive](https://open.spotify.com/album/3vTJF6ShAhmkuoBwQdSIi1) | 3:07 | 2026-03-27 |  |
 | [Femme Fatale](https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS) | [Skylar Gudasz](https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ) | [Cinema](https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w) | 4:46 | 2021-11-12 |  |
-| [Finger on the Button](https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3) | [Blue Cactus](https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n) | [Finger on the Button](https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r) | 3:44 | 2021-11-12 |  |
+| [Finger on the Button](https://open.spotify.com/track/50VFQDQZoTelHkraVW7jL3) | [Blue Cactus](https://open.spotify.com/artist/6rouro6xhJxK6NxCHLp26n) | [Finger on the Button](https://open.spotify.com/album/6M67smO8BLiTWRmCfny73r) | 3:44 | 2021-11-12 | 2026-07-04 |
 | [Finish Line](https://open.spotify.com/track/3PY2ZPSadkI2lTIspCGe4s) | [Jade Jackson](https://open.spotify.com/artist/2KklSK3N4XIGKfW1THLjLP) | [Finish Line](https://open.spotify.com/album/0h65AvQ69VMRgzi9SDSeV0) | 4:03 | 2021-11-12 | 2022-07-26 |
 | [Flat Top Guitar](https://open.spotify.com/track/5XMZFXDY5DQOSFLsW1ykDy) | [Ana Egge](https://open.spotify.com/artist/1dHhosKN9sgDJjFltalUch) | [Bright Shadow](https://open.spotify.com/album/5iPNtCubSl6R02RY4jFFrO) | 2:50 | 2021-11-12 | 2026-02-07 |
 | [Fly Away](https://open.spotify.com/track/2xtidTFlCS3gLFnrApMY6A) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Orphan Offering](https://open.spotify.com/album/70LZy0mMgmkaVYvC2F5rPk) | 5:38 | 2022-04-01 | 2024-04-19 |
@@ -149,6 +149,7 @@
 | [Light As a Fire](https://open.spotify.com/track/5pbu10jgX1LlVbJJ5iiFsY) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [Let It Pass](https://open.spotify.com/album/2tWv4fEUE5nkK39FiDmwCE) | 3:26 | 2022-04-01 | 2023-04-30 |
 | [Like a Wave](https://open.spotify.com/track/0p3bGYYZTf75CskrmGwpVi) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Ivory Castanets](https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le) | 3:10 | 2022-04-01 | 2024-04-19 |
 | [Like a Wave](https://open.spotify.com/track/71rSVRkRNj9nLPWjiqGmty) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Like a Wave](https://open.spotify.com/album/469vUuDh8YvLV3GDa2IwaB) | 3:10 | 2021-11-12 | 2026-03-07 |
+| [Linger On](https://open.spotify.com/track/1pnZYuIvsYzibsJ9sCy22k) | [credits](https://open.spotify.com/artist/4X5WAbZMXzUSWOJIfGbA4U) | [Linger On](https://open.spotify.com/album/4WxphCLSF3ZgIgCRYsAKuD) | 3:09 | 2026-07-03 |  |
 | [Livin’ In Shame](https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X) | [Emily Nenni](https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy) | [Livin’ In Shame](https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f) | 2:25 | 2026-03-06 |  |
 | [Lone Star](https://open.spotify.com/track/2bAgoYfWqEUIMeNPLvwtfg) | [Cactus Lee](https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4) | [Lone Star](https://open.spotify.com/album/347MekIQGAWp7mqyhiRNUe) | 5:35 | 2026-04-10 |  |
 | [Lonely Game \(feat\. Andrew Combs & Jessie Baylin\)](https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG) | [Steelism](https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco), [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11), [Jessie Baylin](https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT) | [ism](https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU) | 3:49 | 2021-11-12 |  |
@@ -221,6 +222,7 @@
 | [Shakedown](https://open.spotify.com/track/5TiFSXE1DInbcr0xYeM2k4) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Shakedown](https://open.spotify.com/album/6H2F39aTyw02VjBsUyYmUb) | 2:46 | 2021-11-12 | 2022-07-29 |
 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 | 2022-04-01 | 2024-04-19 |
 | [Shine On Me](https://open.spotify.com/track/0AlzSN8wxisdzlyd8m2Q12) | [Alex Amen](https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM) | [Shine On Me](https://open.spotify.com/album/1ztMEOs9UAIsrb6Dv9h8Tw) | 4:56 | 2026-03-27 |  |
+| [Should’ve Known Better](https://open.spotify.com/track/2e04cKbyM0Zpe3nDorXhV5) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Should've Known Better](https://open.spotify.com/album/30SjxeGj5ktDes6YFM6LBE) | 2:54 | 2026-07-03 |  |
 | [Snakelife](https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Snakelife](https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU) | 4:37 | 2023-08-11 |  |
 | [Sold My Soul](https://open.spotify.com/track/2xklhH0eIzxKyagF3XAOYL) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Sold My Soul](https://open.spotify.com/album/1nh6RFcSZx7lU2zLi9seOR) | 6:11 | 2021-11-12 | 2022-07-29 |
 | [Sold My Soul](https://open.spotify.com/track/7C6hHmGVWw4SzewfvFU2Hc) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Nobody Lives Here Anymore](https://open.spotify.com/album/28iSGTnbDa3i5wwEoCYg8c) | 6:11 | 2022-04-01 | 2024-04-19 |

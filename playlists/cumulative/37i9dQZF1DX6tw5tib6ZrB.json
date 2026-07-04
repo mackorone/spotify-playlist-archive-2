@@ -326,7 +326,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 128573,
       "name": "6WA",
       "url": "https://open.spotify.com/track/6fODAgyTJdN7ATeJOP81dj"
@@ -548,6 +548,32 @@
       "duration_ms": 223878,
       "name": "All My Life (feat. J. Cole)",
       "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "album": {
+        "name": "All Summer (feat. BH)",
+        "url": "https://open.spotify.com/album/7lwZOYiPIJKkin7LsxG2KL"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Bino Rideaux",
+          "url": "https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB"
+        },
+        {
+          "name": "BH",
+          "url": "https://open.spotify.com/artist/77EDqy4AyUvtLGhIqOy3Dc"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239640,
+      "name": "All Summer (feat. BH)",
+      "url": "https://open.spotify.com/track/23wBbnEZdCdnPNynMZeLpg"
     },
     {
       "album": {
@@ -1732,7 +1758,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 260799,
       "name": "Business & Personal (Intro)",
       "url": "https://open.spotify.com/track/7MuSU4AjQ9yW9Jl6eFIPTW"
@@ -1772,6 +1798,28 @@
       "duration_ms": 177789,
       "name": "California Breeze",
       "url": "https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM"
+    },
+    {
+      "album": {
+        "name": "T's & C's Apply",
+        "url": "https://open.spotify.com/album/6DoiLrHITwH7KRzqoNXfIr"
+      },
+      "artists": [
+        {
+          "name": "Nasty C",
+          "url": "https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj"
+        },
+        {
+          "name": "Tellaman",
+          "url": "https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206529,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/3mcfpjbuhVHCAdNvbEXAQS"
     },
     {
       "album": {
@@ -2596,6 +2644,28 @@
       "duration_ms": 208530,
       "name": "Dangerous II",
       "url": "https://open.spotify.com/track/7A15WOGrEJLCAwOilxJyxN"
+    },
+    {
+      "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198410,
+      "name": "deaf note (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
     },
     {
       "album": {
@@ -4646,7 +4716,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 194736,
       "name": "HANDOUT - Remix",
       "url": "https://open.spotify.com/track/0YYiKtYpWLa4FPtkzjqEQ1"

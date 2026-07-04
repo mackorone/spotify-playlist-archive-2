@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Frenna, Odeal & Wizkid
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,567 likes - 75 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,578 likes - 75 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 |
-| 2 | [Al Me Ladies \(feat\. Carel & Scarface\)](https://open.spotify.com/track/5xatt9NJdj7mAYE5ZxrpPo) | [ADF](https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX), [Scarface](https://open.spotify.com/artist/0AKfGRIDWDiLB8EHORfP8J) | [Al Me Ladies \(feat\. Carel & Scarface\)](https://open.spotify.com/album/3TuIkrTo6MZGWQLkchWExB) | 2:08 |
+| 2 | [Al Me Ladies \(feat\. Scarface\)](https://open.spotify.com/track/5xatt9NJdj7mAYE5ZxrpPo) | [ADF](https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX), [Scarface](https://open.spotify.com/artist/0AKfGRIDWDiLB8EHORfP8J) | [Al Me Ladies \(feat\. Scarface\)](https://open.spotify.com/album/3TuIkrTo6MZGWQLkchWExB) | 2:07 |
 | 3 | [So Amazing](https://open.spotify.com/track/2K4g1jqXcHov6GBfSaBd25) | [Dylisa](https://open.spotify.com/artist/1EZhPZUiU6c52gOAZLIcR2), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49) | [So Amazing](https://open.spotify.com/album/4lpKhHcpX7Cq2Z70z9rhFt) | 2:28 |
 | 4 | [R&B SH\*T](https://open.spotify.com/track/7m8PKvUkxutSYHsXOyY68Q) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw) | [R&B SH\*T](https://open.spotify.com/album/7LNisNMZx8RErvkiqSaKac) | 2:49 |
 | 5 | [OUTSIDE](https://open.spotify.com/track/5DGN8biFFZUiwLf3s6VVZc) | [Clep N Flyy](https://open.spotify.com/artist/5jX0t5N4lu8OfUFQDQURNq), [Bastosz](https://open.spotify.com/artist/6CtxmUMNLxhOEPh1S1mY4g) | [OUTSIDE](https://open.spotify.com/album/6tgGjpw12ylYB16461yf1L) | 2:52 |

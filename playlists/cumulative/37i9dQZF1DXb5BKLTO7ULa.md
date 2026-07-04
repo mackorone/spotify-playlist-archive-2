@@ -2,9 +2,9 @@
 
 ### [New Music Friday NL](https://open.spotify.com/playlist/37i9dQZF1DXb5BKLTO7ULa)
 
-> Nieuw: Senna & Sven Versteeg, The Opposites, Frenna, Odeal & Wizkid en meer..
+> Nieuw: Senna & Sven Versteeg, The Opposites, Frenna, Odeal & Wizkid, Madonna en meer..
 
-16,438 songs - 35 day 18 hr 18 min
+16,440 songs - 35 day 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,7 +478,7 @@
 | [Akon's Beautiful Day](https://open.spotify.com/track/5z7l1HQ9KzqT8yLcViRG1L) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Akon's Beautiful Day](https://open.spotify.com/album/3XA6fev8Ssr6jAfR8kd7Wa) | 2:37 | 2024-10-03 | 2024-10-11 |
 | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/track/4FoFIk9hoa38futUYCVAlC) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Al Heb Ik Mijn Dag Niet](https://open.spotify.com/album/00tIhm0Jr6Yu7AweGL9Qet) | 3:22 | 2023-11-09 | 2023-11-17 |
 | [Al Heb Je Niets](https://open.spotify.com/track/6cKvr0voNpYVq9i577qxoW) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Al Heb Je Niets](https://open.spotify.com/album/5wmuQkePwbFb0FS0cJuJSE) | 2:32 | 2026-01-29 | 2026-02-06 |
-| [Al Me Ladies \(feat\. Carel & Scarface\)](https://open.spotify.com/track/5xatt9NJdj7mAYE5ZxrpPo) | [ADF](https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX), [Scarface](https://open.spotify.com/artist/0AKfGRIDWDiLB8EHORfP8J) | [Al Me Ladies \(feat\. Carel & Scarface\)](https://open.spotify.com/album/3TuIkrTo6MZGWQLkchWExB) | 2:08 | 2026-07-02 |  |
+| [Al Me Ladies \(feat\. Scarface\)](https://open.spotify.com/track/5xatt9NJdj7mAYE5ZxrpPo) | [ADF](https://open.spotify.com/artist/6VT2Npi6yGDqn3H07qI1DY), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [ADF Samski](https://open.spotify.com/artist/5qeFPM2PZUCzcpkY4e4RC8), [Carel](https://open.spotify.com/artist/5qbldCiZAkn2KfwyUfithX), [Scarface](https://open.spotify.com/artist/0AKfGRIDWDiLB8EHORfP8J) | [Al Me Ladies \(feat\. Scarface\)](https://open.spotify.com/album/3TuIkrTo6MZGWQLkchWExB) | 2:07 | 2026-07-02 |  |
 | [Ala Day](https://open.spotify.com/track/0dBxxEhGVMH5EM9sjz3zxY) | [Typhoon](https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx), [Freez](https://open.spotify.com/artist/3Wg7xRNLUhziX8sgdRKEyg) | [Twintig I](https://open.spotify.com/album/5wkHqexQg1M5wNl7PtI3nU) | 3:11 | 2023-04-06 | 2023-04-14 |
 | [ALAMBRE PúA](https://open.spotify.com/track/0WDvsKwqhn9alx29Z80DmG) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ALAMBRE PúA](https://open.spotify.com/album/2Pw1HHDNXsOhHnhcRc6TwM) | 2:26 | 2025-07-17 | 2025-07-25 |
 | [Album Number Four](https://open.spotify.com/track/06LmmJfgiB5grS8gWNl7bz) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Chair](https://open.spotify.com/album/2LCioUNkd4Jvc479ar0GqJ) | 2:12 | 2025-04-03 | 2025-04-11 |
@@ -9445,6 +9445,7 @@
 | [Moon Over the Sun](https://open.spotify.com/track/0Wxroe5fnal7uO1diKstnv) | [Nina June](https://open.spotify.com/artist/1YyIIzRWYsa0kIJpqoSTRZ), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Paradigm](https://open.spotify.com/album/0owwf40By5ERcECUhbbJUb) | 3:49 | 2024-02-29 | 2024-03-08 |
 | [Moondog](https://open.spotify.com/track/1H26eTheLo3Flr7KIdtSce) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Moondog](https://open.spotify.com/album/0C6QY4CHawH4KPL6GmeTnK) | 5:05 | 2024-05-23 | 2024-06-01 |
 | [Moonlight](https://open.spotify.com/track/63Yj1dwN87V3qrCAGS9bLI) | [Benjamin Fro](https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6) | [Moonlight](https://open.spotify.com/album/0er3TINjvJTyj0iwcgebhS) | 3:01 | 2024-04-25 | 2024-05-03 |
+| [Moonlight](https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Moonlight / Clean Run](https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1) | 3:20 | 2026-07-03 |  |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-02-24 | 2023-03-03 |
 | [Moonlight](https://open.spotify.com/track/4aZM99V0pPCxOpHd092oZI) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC), [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Moonlight](https://open.spotify.com/album/6D0rdf5w5EcWmQJtT8vcXy) | 2:18 | 2026-05-14 | 2026-05-22 |
 | [Moonlight](https://open.spotify.com/track/0VFAxYv9PZYvVnuP6MVP8Q) | [Luna Lucci](https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp) | [TRIP](https://open.spotify.com/album/30OXFZPqZpqRKxpPgF0G3C) | 3:25 | 2025-05-08 | 2025-05-16 |
@@ -10930,6 +10931,7 @@
 | [Party All The Time](https://open.spotify.com/track/49iD1q5Z58aEDqCemEXpS1) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde) | [Party All The Time](https://open.spotify.com/album/4quE07XoEsKoWZpiCRCtlq) | 2:09 | 2023-08-24 | 2023-09-01 |
 | [Party Girl](https://open.spotify.com/track/0gxJCeAibDirwlBiFaZXhe) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI), [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK) | [Party Girl](https://open.spotify.com/album/4ilHJfh6jfOGY1kdfsJhWK) | 2:37 | 2026-06-26 | 2026-07-03 |
 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ) | 4:03 | 2023-05-11 | 2023-05-19 |
+| [Party Lines](https://open.spotify.com/track/2JbBTCHydjRliSvqMrZkhp) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Party Lines](https://open.spotify.com/album/3QaE8o1uk2xnqm3iSSYtno) | 2:59 | 2026-07-03 |  |
 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-03-17 | 2023-03-25 |
 | [party on me](https://open.spotify.com/track/2DCwH1Ut8eo39p8Gln4xzA) | [Luna Morgenstern](https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh) | [party on me](https://open.spotify.com/album/79DpUTr1mdB7QPr0meb5xv) | 2:52 | 2024-03-07 | 2024-03-15 |
 | [Party People](https://open.spotify.com/track/4Rbj7CS2UJq6ehpZgiY7Kw) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Party People](https://open.spotify.com/album/6Q7IXlfNjrI7S3oyc6lcLD) | 3:13 | 2026-07-02 |  |

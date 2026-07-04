@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: BE:FIRST
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,581 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,690 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 40 | [heal](https://open.spotify.com/track/34kczquuUdb7gLHhZGR8jp) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Unfold](https://open.spotify.com/album/1kQVnTWbUXu9xQ1zqczj06) | 3:59 |
 | 41 | [눈에 거슬리고 싶어 \(Eye\-Poppin'\)](https://open.spotify.com/track/5H5PDoPXLphAySmzKtpnbC) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [My First Kick](https://open.spotify.com/album/6w4EhlJd0BAXvE24KuaE8j) | 2:42 |
 | 42 | [OKay](https://open.spotify.com/track/6foASRSpeSLA5hbAA4OsMG) | [xikers](https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht) | [ROUTE ZERO : The ORA](https://open.spotify.com/album/5ocWWReACzuVlxlmFmOzRU) | 3:01 |
-| 43 | [HANDS UP](https://open.spotify.com/track/0ZGYPuD82YLwI0uppmFkuY) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [SUNFLOWER](https://open.spotify.com/album/5Ck6bwS4q5ZiadkzqaEoNB) | 3:40 |
+| 43 | [ココニイル](https://open.spotify.com/track/6UPSzADDU3wztV9Jf3gCZr) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [ココニイル](https://open.spotify.com/album/3IqFv5B0H9UlD1ZNZj7M1k) | 3:25 |
 | 44 | [PERMISSION](https://open.spotify.com/track/4o9rKegcsPEFeLt2TZNNpj) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [PERMISSION](https://open.spotify.com/album/3jMu5Qgsbr56M6p4yO9u5O) | 2:58 |
 | 45 | [Supa Bro](https://open.spotify.com/track/5gyxzhnH2RHC97qTEa5M7f) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [3XL](https://open.spotify.com/album/284dEwq0SACYMZWHhfirPy) | 3:07 |
 | 46 | [Born Savage](https://open.spotify.com/track/715UWzMdUnVbU30ZppNDYx) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Caligo Pt.2](https://open.spotify.com/album/3X6J7aZDwaAaKPxb3X8wyL) | 2:52 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 56 | [Wanna](https://open.spotify.com/track/1hRpw7vgb6ksXg0vKxvQBU) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Wanna](https://open.spotify.com/album/1TI1Y6xASZ45AcPpLuxezg) | 3:32 |
 | 57 | [FLY!](https://open.spotify.com/track/55DiPLEo61Kr6gba1XuKlj) | [IDID](https://open.spotify.com/artist/67PXCkgEZryiYFJw691hPn) | [FLY!](https://open.spotify.com/album/38EwYgNHM13ADWojsMBwjW) | 2:36 |
 | 58 | [HANAMARU](https://open.spotify.com/track/2ZWtv5EADTwWVWRMQpI4rE) | [VIBY](https://open.spotify.com/artist/6yEmYNNxZJSWa52gCezahN) | [HANAMARU](https://open.spotify.com/album/6cJi17BAY5dou4xC8OD1pP) | 2:36 |
-| 59 | [AWAKE](https://open.spotify.com/track/0roHd2LRFRPs9QE6bf4Tzi) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [ReDeFINE](https://open.spotify.com/album/2yTbiWOgajiIzxxn04qPsL) | 2:36 |
-| 60 | [PLEASE](https://open.spotify.com/track/7nF28VNC10CzMaSZfDHazu) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [PLEASE](https://open.spotify.com/album/4mr6CoQGOzPyB5i7D03AIO) | 2:42 |
+| 59 | [HANDS UP](https://open.spotify.com/track/0ZGYPuD82YLwI0uppmFkuY) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [SUNFLOWER](https://open.spotify.com/album/5Ck6bwS4q5ZiadkzqaEoNB) | 3:40 |
+| 60 | [AWAKE](https://open.spotify.com/track/0roHd2LRFRPs9QE6bf4Tzi) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [ReDeFINE](https://open.spotify.com/album/2yTbiWOgajiIzxxn04qPsL) | 2:36 |
 | 61 | [TOKYO DRIFT](https://open.spotify.com/track/3cHkS1oZDYBY31NXdqVCLw) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [GATHER](https://open.spotify.com/album/1RqbXoQpUaeNNRFYrV0WZD) | 3:08 |
 | 62 | [HOOK](https://open.spotify.com/track/2s8xjkUjilmy42qhdvuHio) | [MODYSSEY](https://open.spotify.com/artist/6R1ubSvhLgLg13yl4n6f5q) | [1.Got Hooked: An Addictive Symphony](https://open.spotify.com/album/4CwdD6lr6ITamrq6jHXa9l) | 2:59 |
 | 63 | [I DON'T BARGAIN](https://open.spotify.com/track/0auFYte8i9KPYvcsOUFk9Y) | [ALLDAY PROJECT](https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2) | [I DON'T BARGAIN](https://open.spotify.com/album/4WUHzPCu7BEuTxnjICJqpy) | 2:50 |
@@ -86,7 +86,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eP5ZmHlyY0.md) - [plain]
 | 76 | [ROOMBADOOMBA](https://open.spotify.com/track/41bu1PGsfhCY8G2RCGJwwb) | [DAILY:DIRECTION](https://open.spotify.com/artist/7tEX36hrHuwMnHXrZUkzx7) | [FIRST:DELIVERY](https://open.spotify.com/album/5CxAYLAw5dgSZLmCqOmoS6) | 2:28 |
 | 77 | [SANE](https://open.spotify.com/track/1xvKv2s1glXmM7r7onnU0s) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [1'ONLY](https://open.spotify.com/album/6Edlwp9FVbvlxF0JYAUqg9) | 2:18 |
 | 78 | [KEYVITUP](https://open.spotify.com/track/5BKwXFDUy903O85ATXdu5e) | [KEYVITUP](https://open.spotify.com/artist/5t5DHjgbcPnJGZJyz3YCnv) | [1ST EP ALBUM \[KEYVITUP\]](https://open.spotify.com/album/4LP65OY24zeyZRNd4GxhCH) | 2:38 |
-| 79 | [Talk to You](https://open.spotify.com/track/6Oag0XXglYu48Cd8EufeTw) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [NO LABELS: PART 01](https://open.spotify.com/album/4tv1yPD1RAs8Zg5oOjthNF) | 2:30 |
-| 80 | [Pretty Boy Swag](https://open.spotify.com/track/0CAp5YHw319gluaW2uCGJN) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<yesweare>](https://open.spotify.com/album/11LKBt6oAhxk5h5nEreqgE) | 2:59 |
+| 79 | [Pretty Boy Swag](https://open.spotify.com/track/0CAp5YHw319gluaW2uCGJN) | [idntt](https://open.spotify.com/artist/18eBHUF4EG1bXtbLZZ6g7M) | [<yesweare>](https://open.spotify.com/album/11LKBt6oAhxk5h5nEreqgE) | 2:59 |
 
-Snapshot ID: `AAAAAJ0Z71Dq8mNUnw6HTBzz1Wcmtdbd`
+Snapshot ID: `AAAAALLCexmVaNF+g3roy1SGZYdGrJ85`

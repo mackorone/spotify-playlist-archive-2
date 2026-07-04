@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: FOLA, Ayra Starr
 
-1,027 songs - 2 day 2 hr 11 min
+1,028 songs - 2 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Critical Condition](https://open.spotify.com/track/0R0jqZFMmcJfx7NBaY96Rh) | [Bellah](https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ) | [State Of Emergency Vol 1.](https://open.spotify.com/album/4jtVxQTmYdjIHLrOog4gmG) | 2:32 | 2026-03-27 | 2026-04-10 |
 | [Crocodile Woman](https://open.spotify.com/track/4UusBRHn8xwrFS9Uokutcz) | [Saam Sultan](https://open.spotify.com/artist/3SgILNFTHSwmacOonffY93) | [Crocodile Woman](https://open.spotify.com/album/26r8iB0XKZCFtRPW4w20uh) | 4:26 | 2026-03-20 | 2026-04-03 |
 | [Cry Against The Wind](https://open.spotify.com/track/0wzS6x5xC54yIeoOe9viGV) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Cry Against The Wind](https://open.spotify.com/album/0a2iIFMJnyOXzjYOmr9KNn) | 4:20 | 2025-12-05 | 2026-01-03 |
+| [Cubase](https://open.spotify.com/track/1MY06Ndfegza0SDyEeOEHM) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4), [67](https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl), [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Grouchism](https://open.spotify.com/album/6NpnNKqsppcobQB1IXzsuA) | 1:51 | 2026-07-02 |  |
 | [Cumulus / Memory](https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Cumulus / Memory](https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN) | 6:47 | 2025-10-23 | 2025-11-07 |
 | [Cyanide](https://open.spotify.com/track/26yJKtzmQLGRlhocFH18GL) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [Eddy Luna](https://open.spotify.com/artist/7gnObZHxWlF5E82KGlKHMM) | [Cyanide](https://open.spotify.com/album/6JBPy3m6HnqK0daHMg21eV) | 3:02 | 2026-04-24 | 2026-05-01 |
 | [D'ANGELO'S JOINT](https://open.spotify.com/track/5nuNdm8A47fAfUPoN9AMJQ) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [D'ANGELO'S JOINT](https://open.spotify.com/album/4nVw55ajuxDvJ7EKBgpNqN) | 2:43 | 2026-02-13 | 2026-02-27 |
@@ -304,7 +305,7 @@
 | [E.V.O.L](https://open.spotify.com/track/3QFe7h2cN5WkkNeKxs1T10) | [bib sama.](https://open.spotify.com/artist/5CSb8UNFfwDv80vbAIPEtu), [TayoLoxs](https://open.spotify.com/artist/4D1gckOVE54GdYpS7J4noB) | [GAIAAAAAAAAAA˚](https://open.spotify.com/album/2ADlAbG9esTnNb7ygXGsTe) | 3:02 | 2026-04-02 | 2026-04-17 |
 | [ear to the cocoon](https://open.spotify.com/track/5tC7DM52PIElQGpxnRVK5m) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [petal rock black](https://open.spotify.com/album/055CZXcGINxmZKxwQ9hroP) | 4:18 | 2026-02-20 | 2026-02-27 |
 | [Earth Cry](https://open.spotify.com/track/03HBhifYfbxhI83tRSKJTK) | [MADELEINE](https://open.spotify.com/artist/6MOSscAqWtCilwmEt4b5vm) | [Earth Cry](https://open.spotify.com/album/2D0fFbNSj5LIAVmTO18DmA) | 4:08 | 2026-06-18 | 2026-06-26 |
-| [Easy Does It](https://open.spotify.com/track/0Vu83oUXy0mRy9PBLaAYeg) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [chameleon](https://open.spotify.com/artist/5F8XCTyivrgX7o3rghj8vO) | [Easy Does It](https://open.spotify.com/album/3GFs7Ptq8dohpYJxywo8Va) | 2:56 | 2026-07-02 |  |
+| [Easy Does It](https://open.spotify.com/track/0Vu83oUXy0mRy9PBLaAYeg) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [Easy Does It](https://open.spotify.com/album/3GFs7Ptq8dohpYJxywo8Va) | 2:56 | 2026-07-02 |  |
 | [Easy Silence](https://open.spotify.com/track/3T8GmN1tKgSwWxlBMj0AM1) | [Sol Paradise](https://open.spotify.com/artist/5PihhSgYPtIRL4I0spglII) | [Desire Lines](https://open.spotify.com/album/4qbBgoBqWJoYS1SeY2bEcJ) | 3:06 | 2025-10-23 | 2025-11-07 |
 | [Easy To Love](https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom McFarland](https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7) | [Easy To Love](https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S) | 3:19 | 2026-02-20 | 2026-02-27 |
 | [EATERS](https://open.spotify.com/track/7JwB3nAxYjxvgsyKuqDp0D) | [Kairo Keyz](https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ) | [EATERS](https://open.spotify.com/album/018l6uL53tHGSYbUg1j6b5) | 2:10 | 2026-04-30 | 2026-05-15 |
@@ -870,6 +871,7 @@
 | [stuck](https://open.spotify.com/track/1nEzZ4l1LYmmaDNgWNzVCG) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [stuck](https://open.spotify.com/album/2WQhpOLkmPLPgrcBYjWmRK) | 2:41 | 2026-04-10 | 2026-04-17 |
 | [Stuntin](https://open.spotify.com/track/0kOIgPakbZqEDMoUX1qiSR) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Payback Is A Dog](https://open.spotify.com/album/0wcQqcmAoYqsp835JHZ6rV) | 3:18 | 2026-06-25 |  |
 | [suffer](https://open.spotify.com/track/2YZlu9U67zQQ6tAzaKZyG7) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [suffer](https://open.spotify.com/album/59ElFnfSof0iThMX1qLp1I) | 3:23 | 2026-05-21 | 2026-06-05 |
+| [SUN GO DOWN](https://open.spotify.com/track/77Wv5hF5raeNmMul9ykuwO) | [MC Fizzy](https://open.spotify.com/artist/1ZZUKscbDlYW7R6q6ZzAGC), [General Degree](https://open.spotify.com/artist/0CwVuGmnkIBc5uitBWkplO) | [United Jamdown](https://open.spotify.com/album/6XfqDVLIH7wnHOmYog7qce) | 3:06 | 2026-07-03 |  |
 | [Sunday Afternoon](https://open.spotify.com/track/5xYzP7BZkXSJfVcduPIbqq) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Sunday Afternoon](https://open.spotify.com/album/1dQeY1B5fEGOpY8f6heGWY) | 3:33 | 2026-06-11 | 2026-06-26 |
 | [Sunsets](https://open.spotify.com/track/2XAH08LV6ejGOpRsErzSXs) | [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc), [James Berkeley](https://open.spotify.com/artist/157f6KLF3Hafl4cNddKiMu), [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [Sunsets](https://open.spotify.com/album/5hZJCqJK5bzGefjwWltJkA) | 3:00 | 2026-01-23 | 2026-02-06 |
 | [SUNSHINE](https://open.spotify.com/track/0RdzunnFJPhsAUp1V4Xum2) | [Slew](https://open.spotify.com/artist/0kkFzERMQHK5WcWnACLby3), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [SUNSHINE](https://open.spotify.com/album/0PHQcIYl4SuJCjIT4AJQ8O) | 2:46 | 2026-04-02 | 2026-04-17 |
@@ -942,7 +944,6 @@
 | [Touch bby](https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Touch bby](https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd) | 2:05 | 2026-02-20 | 2026-02-27 |
 | [Touched](https://open.spotify.com/track/3YfTRQJUSvq6Ri3DzuDG3n) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Touched](https://open.spotify.com/album/2PeniNPiOgKpiFWEHNongC) | 2:58 | 2025-12-19 | 2026-01-15 |
 | [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-03-06 | 2026-03-20 |
-| [Track 5](https://open.spotify.com/track/1MY06Ndfegza0SDyEeOEHM) | [Dimzy](https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4) | [Grouchism](https://open.spotify.com/album/6NpnNKqsppcobQB1IXzsuA) | 0:00 | 2026-07-02 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-27 |
 | [Tralala \(feat\. JayO\)](https://open.spotify.com/track/56tncmDMcu6CdGfUmE6FSc) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:48 | 2025-11-21 | 2025-12-12 |
 | [Treading Water](https://open.spotify.com/track/2vy2VwvIHGUowBOvyTb9gg) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Treading Water](https://open.spotify.com/album/48TTmFUOAmJNVUSNzdiMjr) | 3:04 | 2026-04-24 | 2026-05-06 |

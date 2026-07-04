@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Hwang Chi Yeul \(황치열\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,767 songs - 4 day 18 hr 43 min
+1,768 songs - 4 day 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1098,7 +1098,7 @@
 | [Our Endgame](https://open.spotify.com/track/6gSx6Kx5jhsc1LBnwUFxxw) | [Jang Hye Jin](https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH), [ZO ZAZZ](https://open.spotify.com/artist/7oefVAcL2YuRdata5VCUzf) | [Our Endgame](https://open.spotify.com/album/3uO4kM9DnNNVHjgfK4oq7r) | 4:43 | 2026-03-30 |  |
 | [Our Memories](https://open.spotify.com/track/28o99oVARf9l6KxQch2iji) | [DAESUNG](https://open.spotify.com/artist/1OQxmfKN9UG5C7nr4MkasO) | [FlexxCop OST Part.4 \(Soundtrack\)](https://open.spotify.com/album/2J4x0PXLsk30EiHQGtIuBW) | 3:06 | 2024-03-15 | 2024-08-01 |
 | [Our Memories \(with JONGHO\)](https://open.spotify.com/track/0vIYoCVXGfuZX0xTo4w0jG) | [Kwon Soonkwan](https://open.spotify.com/artist/4QLDKHOPL4cISjOBek1ZP7), [Jong Ho](https://open.spotify.com/artist/5gecqU5FZgxVdz1AtLumT0) | [Our Memories \(with JONGHO\)](https://open.spotify.com/album/7JOkn4AF2p8e5V0tD6tjmU) | 4:09 | 2025-04-08 | 2025-07-08 |
-| [Our Memories Under the Stars](https://open.spotify.com/track/6TuJ8lNXcHuOEsjeMfC36m) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Our Memories Under the Stars](https://open.spotify.com/album/6kx6pXUpMq33wV7q6BKfvX) | 3:42 | 2026-02-10 |  |
+| [Our Memories Under the Stars](https://open.spotify.com/track/6TuJ8lNXcHuOEsjeMfC36m) | [Onestar](https://open.spotify.com/artist/6EmgTIhhXGtfAmYYTfdtlz) | [Our Memories Under the Stars](https://open.spotify.com/album/6kx6pXUpMq33wV7q6BKfvX) | 3:42 | 2026-02-10 | 2026-07-04 |
 | [Our Night is more beautiful than your Day](https://open.spotify.com/track/0SXsRcuTaWZAg6QyDhncpY) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Our Night is more beautiful than your Day](https://open.spotify.com/album/5GQw3mn3wr4asTSR73VHTq) | 3:19 | 2023-08-07 | 2023-11-03 |
 | [Our Past Time](https://open.spotify.com/track/1mWv0FjmPif2MaTn9DOqTx) | [The Daisy](https://open.spotify.com/artist/1bBlVhflmrgcdtHXZzyktI) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 26](https://open.spotify.com/album/1vzEYEf662HwKw3aVEcfiw) | 3:46 | 2023-10-20 | 2023-12-14 |
 | [Our Season](https://open.spotify.com/track/3yA7377j20H03qiukcBkjU) | [WSG WANNABE\(4FIRE\)](https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD) | [Our Season](https://open.spotify.com/album/5BwR3SR5PxOBdMG0kWUdjR) | 3:36 | 2022-12-16 | 2023-02-25 |
@@ -1590,6 +1590,7 @@
 | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/track/668e9vwoz1MhnFai3fNvHF) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd) | [Why break up? \(My love X Jeon Sang Keun\)](https://open.spotify.com/album/3fKPvx8jP5KFx7nTatm88K) | 4:31 | 2023-06-13 | 2023-10-20 |
 | [Why did you love me](https://open.spotify.com/track/46C4PaXcR0hM8LxXj5Di1L) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Why did you love me](https://open.spotify.com/album/5YEoXFoYQ40XXjnfGJtzW0) | 3:51 | 2025-08-18 | 2025-12-03 |
 | [Why didn't you tell me earlier?](https://open.spotify.com/track/1B3oAgDPCftYycpRyoAYNt) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [Why didn't you tell me earlier?](https://open.spotify.com/album/3fupbsn2bRYRYkZ8Ds16rX) | 3:38 | 2023-03-27 | 2023-07-18 |
+| [Why Does It Have to Rain](https://open.spotify.com/track/5wRpL8EUfdmyXvKMCWeuiT) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Why Does It Have to Rain](https://open.spotify.com/album/39fCnnW0WRb872v0QbWkUi) | 3:26 | 2026-07-03 |  |
 | [Why has your love changed](https://open.spotify.com/track/6XFHE9XLCzoBC4H9LZ7LIl) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9) | [Why has your love changed](https://open.spotify.com/album/5AsZEMJ9j2ijGfg6WpJkLO) | 4:30 | 2022-03-29 | 2022-04-01 |
 | [Why is love so hard for me \(feat.Jeon Gunho\)](https://open.spotify.com/track/2z4fAsRuoKve2M57Fuq5up) | [GyeongseoYeji](https://open.spotify.com/artist/5crpfIGj4lAUNuHYUY2TN9), [Jeon Gunho](https://open.spotify.com/artist/3WFFsW6pFOm0e2yVQLTYCX) | [Why is love so hard for me](https://open.spotify.com/album/62o72V2xoO8W3KBgMTQhaw) | 4:02 | 2025-02-16 | 2025-06-14 |
 | [Will Be Fine \(2022\)](https://open.spotify.com/track/1lxYYbfWmbcPV6zz58Xjic) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Will Be Fine \(2022\)](https://open.spotify.com/album/578WMHdZmBgacLBrX9tB1h) | 4:17 | 2022-03-22 | 2022-06-14 |

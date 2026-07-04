@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: VERNON, THE 8\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,459 songs - 39 day 1 hr 33 min
+16,463 songs - 39 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2323,6 +2323,7 @@
 | [Cherry Blossom](https://open.spotify.com/track/5jbWLkxaG4aXqVCBJxYp6q) | [HITGS](https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V) | [Things We Dream: Vol.1](https://open.spotify.com/album/3Vd8dh7UmmMnu48AM5f7YP) | 3:16 | 2026-04-15 | 2026-04-27 |
 | [Cherry Blossom's View](https://open.spotify.com/track/1CaUsmaJ2sEj36i5CSgObh) | [4 For](https://open.spotify.com/artist/43kUvYZdk5HaL74vk37Cbl) | [Cherry Blossom's View](https://open.spotify.com/album/0PnBq6kgQcygiDI43eGUwH) | 3:28 | 2026-03-19 | 2026-04-01 |
 | [Cherry Coke](https://open.spotify.com/track/6q4dPBNN9fCgW4H0tM7A4p) | [Yeeun](https://open.spotify.com/artist/4hMhbcPHd2nsZFhY1TNp8Y) | [The Beginning](https://open.spotify.com/album/5WKCkM2yH8iqlfefMW0Ol7) | 2:48 | 2023-04-13 | 2023-05-03 |
+| [Cherry Cola](https://open.spotify.com/track/1nqau4dspD8bkrNZuIcmQv) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Cherry Cola](https://open.spotify.com/album/1CdJ5zGeJ1irYnBZ59zZ5S) | 2:30 | 2026-07-03 |  |
 | [Cherry Gene 'Baddest Mix'](https://open.spotify.com/track/0DccKnQvYKaTpuy7UuOWl2) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [Acid Eyes <Cherry Gene>](https://open.spotify.com/album/3Ff3GZreBRA0140bFzpMgn) | 1:43 | 2023-07-07 | 2023-08-10 |
 | [Cherry Pie](https://open.spotify.com/track/2NMAj6elEzycoGestCzSgk) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [Just 15, Just Teen Top](https://open.spotify.com/album/2YpuTALGbvcsCQoFDfdhEv) | 3:06 | 2025-08-21 | 2025-09-08 |
 | [Cherry Pink](https://open.spotify.com/track/1v1BaddwAdO140TemWG1Yy) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Cherry Pink](https://open.spotify.com/album/7y70AqYlhTBHeeUucSv8WX) | 3:17 | 2024-05-27 | 2024-06-20 |
@@ -3192,6 +3193,7 @@
 | [Dissolve](https://open.spotify.com/track/1NpAxxKo9dwf9bwrDrobDb) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Dissolve](https://open.spotify.com/album/4gzT4CjcewVkpELipuuoRB) | 3:55 | 2025-02-24 | 2025-03-11 |
 | [Dissolve](https://open.spotify.com/track/1mNOwjEtZtxxJWGiYYYDiW) | [LEE BYEONGCHAN](https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s) | [Dissolve](https://open.spotify.com/album/3dkb6DTf2SbC1ai1IUX1Gy) | 3:25 | 2026-02-06 | 2026-02-17 |
 | [Distance](https://open.spotify.com/track/0y9ZTPlZ4xjezdWbqCbhdP) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [LEESEOKHOON Single Album ‘ALIVE’](https://open.spotify.com/album/66kJxpf6iFRLbV9ztE930d) | 3:17 | 2022-11-07 | 2022-12-22 |
+| [Distant Memories of You](https://open.spotify.com/track/6u5lfoEkh6cGQd7Up7jJi5) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Distant Memories of You](https://open.spotify.com/album/2P8YzhY2vP23Bfs9BjN3UM) | 4:49 | 2026-07-03 |  |
 | [Ditto](https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Ditto](https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe) | 3:05 | 2022-12-19 | 2023-01-11 |
 | [Dive](https://open.spotify.com/track/3b7odAg3MSxNapF29KCYu3) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Song For You](https://open.spotify.com/album/38RyVm53JzK8vL7lvuwIZ2) | 3:22 | 2025-06-10 | 2025-06-25 |
 | [Dive](https://open.spotify.com/track/4v6NKXnCs5G7MGKBHoUPVe) | [Eric Minz](https://open.spotify.com/artist/6981nmtM6lqzMOVvtwk2Wo), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [DIVE](https://open.spotify.com/album/6prw2Ra9C0MA7O1lzyfW0U) | 2:28 | 2025-10-30 | 2025-11-06 |
@@ -10787,6 +10789,7 @@
 | [Rainy Night](https://open.spotify.com/track/1rcJlPDNiRLcvqySDZV4HK) | [JOSEOBIN](https://open.spotify.com/artist/0MVuyeZLOvw6KzkcO7pbqv) | [Rainy Night](https://open.spotify.com/album/2Wk25wlsinIBgJADyvGuVS) | 3:58 | 2023-08-16 | 2023-09-06 |
 | [Rainy Season](https://open.spotify.com/track/1NCi8DZNihn2g2gB1f013f) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Rainy Season](https://open.spotify.com/album/1ypiDyanOalDds3IzedHEX) | 4:17 | 2023-06-29 | 2023-08-10 |
 | [Rainy Season \(The Last 10 Years X Whee In\)](https://open.spotify.com/track/3R0MJY27A02NNakf4Kgbka) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [Rainy Season \(The Last 10 Years X Whee In\)](https://open.spotify.com/album/06k52VffVztZNVAkF1fENg) | 4:08 | 2024-03-15 | 2024-05-01 |
+| [Rainy Street \(feat\. Hanhae\)](https://open.spotify.com/track/2ahZ8U2rpIsdQp02ZnNCak) | [Kanto](https://open.spotify.com/artist/1Pr77yszl1ikj6k9sy4Cju), [Hanhae](https://open.spotify.com/artist/1CjHzclPOS2unF1vRtgurF) | [Rainy Street \(feat\. Hanhae\)](https://open.spotify.com/album/7dDgAYswzZHpggAEpUvnhY) | 2:52 | 2026-07-03 |  |
 | [Raise Up The Flag](https://open.spotify.com/track/1bEAB19L71KbTpnRwMNS2U) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Flag](https://open.spotify.com/album/7E41RcfjFjRwQpDWn7s19f) | 3:44 | 2023-03-03 | 2023-03-28 |
 | [RALLY \(Feat\. Hawoong\)](https://open.spotify.com/track/7LWHuL0j87DTlFC4fMcKOI) | [Kelly](https://open.spotify.com/artist/5eZ3fm0O5EtxeFyQN5EEpg), [Hawoong](https://open.spotify.com/artist/57saO8Z8WQgBNCfhRc1i3G) | [RALLY](https://open.spotify.com/album/2MiZnXTRAiXOffqSYuLFFt) | 2:40 | 2024-11-04 | 2024-11-30 |
 | [Rambler \(feat\. Park Hyeli\)](https://open.spotify.com/track/0MgeXv156eYpJLHUdgHIL3) | [Summer of Thoughts](https://open.spotify.com/artist/0NZEV1Co2x9sXjH5DGhSQv), [Park Hey Li](https://open.spotify.com/artist/0P1jb22OjvDJM3j2RC83wE) | [손](https://open.spotify.com/album/6lh8vQtzUm2aaADqX3En4M) | 2:56 | 2022-07-24 | 2022-08-10 |
@@ -12797,6 +12800,7 @@
 | [Sunrise Industry](https://open.spotify.com/track/4nAjI7rfCVYpQR02a4lzji) | [FRML](https://open.spotify.com/artist/0vYxdixShfIGKkO4Pcvk8e) | [Sunrise Industry](https://open.spotify.com/album/3ja45MVPyHJlJ001FvtYgJ) | 3:30 | 2022-12-05 | 2022-12-22 |
 | [Sunset](https://open.spotify.com/track/1mK84yIVjqetpdWKYXFgLe) | [ecru](https://open.spotify.com/artist/2WR7q33JG2pvMcfHr594Y1) | [Sunset](https://open.spotify.com/album/4Pzqhiv572nBEY5ZyfhXWS) | 3:17 | 2023-05-29 | 2023-08-10 |
 | [Sunset](https://open.spotify.com/track/5i2zCzbBjcRKaDVTTjadfO) | [Gogohawk](https://open.spotify.com/artist/4TDsoTsndKAIJR7yCX78tl) | [Sunset](https://open.spotify.com/album/5hAyse1Yzk2tWtX2fJQIm4) | 5:26 | 2022-12-05 | 2022-12-22 |
+| [Sunset](https://open.spotify.com/track/1hx4HkO3bYg1y94EsRSES7) | [Nerd Connection](https://open.spotify.com/artist/5WKUZJPvN1SScyggtPFShK) | [On the Crest of a Wave](https://open.spotify.com/album/6LCY5x1exkVi5xkQaN9LWi) | 3:54 | 2026-07-03 |  |
 | [Sunset](https://open.spotify.com/track/1EF7d6WS3R82eyGh3v2ARf) | [POW](https://open.spotify.com/artist/3aycZMYDTnN0trM2XnTI4Y) | [Sunset](https://open.spotify.com/album/782GARC92lWiFeAlla11Fz) | 2:53 | 2024-09-23 | 2024-10-10 |
 | [Sunset](https://open.spotify.com/track/7HNXKqCXiyg3vbeSsNDVJG) | [SEVENHOURS](https://open.spotify.com/artist/3YvdG9sj7nwVip5ad3N8hT) | [i will](https://open.spotify.com/album/3wrb6f55JmsREG0NfWQXNM) | 4:51 | 2025-11-24 | 2025-12-04 |
 | [sunset drive](https://open.spotify.com/track/4PoVB8zTaT1eo05A6s29N5) | [Bangminhyeok](https://open.spotify.com/artist/1yjrug46OJhKhVB5brwaIm) | [Amb for yoga](https://open.spotify.com/album/1kHwH1IE4sVVZQT368g0iq) | 3:01 | 2024-09-26 | 2024-10-10 |

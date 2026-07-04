@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "\u207a\u2027\u208a\u02da A curated space for the avant-garde + und3rground\u22c6 \u02da\u208a\u2027\u207a Cover: ACHEL",
+  "description": "\u207a\u2027\u208a\u02da A curated space for the avant-garde + und3rground\u22c6 \u02da\u208a\u2027\u207a Cover: Zeds Dead",
   "name": "Proto-",
   "tracks": [
     {
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 529175,
       "name": "All, i have,,,",
       "url": "https://open.spotify.com/track/3THlNjQMTLqMqnLJ5y7aEt"
@@ -2968,7 +2968,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 159445,
       "name": "Baby I Forgive You",
       "url": "https://open.spotify.com/track/2jWOLxiICD1MVpUBSzBKdW"
@@ -3044,7 +3044,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 147491,
       "name": "babygirl",
       "url": "https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP"
@@ -3403,6 +3403,24 @@
     },
     {
       "album": {
+        "name": "barely alive",
+        "url": "https://open.spotify.com/album/1eWPUOs2dPqFGfcpJWIiIs"
+      },
+      "artists": [
+        {
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 61353,
+      "name": "barely alive",
+      "url": "https://open.spotify.com/track/44rUWCLrEwcjHjh2gbflZc"
+    },
+    {
+      "album": {
         "name": "BEFORE THE ALBUM 2: a brief overview",
         "url": "https://open.spotify.com/album/2eYcC9osTDcUIIpqo1SgMd"
       },
@@ -3466,7 +3484,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 108945,
       "name": "BD Baile",
       "url": "https://open.spotify.com/track/6Il2m8E46J4fu1WFbrIKfE"
@@ -8961,6 +8979,24 @@
     },
     {
       "album": {
+        "name": "CODEX",
+        "url": "https://open.spotify.com/album/5akApJuDS10hptpmJ3jVAz"
+      },
+      "artists": [
+        {
+          "name": "T.NO",
+          "url": "https://open.spotify.com/artist/0QyZldTsxCVm1nndBkoQQm"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213517,
+      "name": "DETONATE",
+      "url": "https://open.spotify.com/track/5fwhQ8Za5G5Ucd5yhNJM7X"
+    },
+    {
+      "album": {
         "name": "Devoted / Curve",
         "url": "https://open.spotify.com/album/19Ssa02PsG2lbPYSEoVc32"
       },
@@ -11626,6 +11662,24 @@
       "duration_ms": 182385,
       "name": "Fallin",
       "url": "https://open.spotify.com/track/3CrjWgbJm6M1wseXpCbTuw"
+    },
+    {
+      "album": {
+        "name": "Return to the Return (of the Spectrum of Intergalactic Happiness)",
+        "url": "https://open.spotify.com/album/2suK6AyM6XGaWHo9hHqiMz"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "Fallin Down",
+      "url": "https://open.spotify.com/track/3PGrYgvKnONZMeKU3oIP1a"
     },
     {
       "album": {
@@ -15984,7 +16038,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 187344,
       "name": "House Fire",
       "url": "https://open.spotify.com/track/1RFLkDNFSUKB9n7USEdw3X"
@@ -18750,7 +18804,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 237500,
       "name": "Kotshena",
       "url": "https://open.spotify.com/track/3qaV5Tj4wYD6PYPbDDehv1"
@@ -21959,6 +22013,24 @@
     },
     {
       "album": {
+        "name": "misery.",
+        "url": "https://open.spotify.com/album/6QJfoSZuiyqoKXXIXMyYO2"
+      },
+      "artists": [
+        {
+          "name": "pupsies",
+          "url": "https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166401,
+      "name": "misery.",
+      "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
+    },
+    {
+      "album": {
         "name": "Miss Kitoko",
         "url": "https://open.spotify.com/album/2pQHavhuewHL2GUZkjfaSR"
       },
@@ -24038,6 +24110,24 @@
       "duration_ms": 374767,
       "name": "Obomi Nga",
       "url": "https://open.spotify.com/track/1YthsroKCm3ebScYHHjoEo"
+    },
+    {
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/5Temir79WPxflPU00Tv4Qp"
+      },
+      "artists": [
+        {
+          "name": "Jersey",
+          "url": "https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226973,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/2yNe0KpyIimbKYeIhWrdKF"
     },
     {
       "album": {
@@ -30563,6 +30653,24 @@
     },
     {
       "album": {
+        "name": "Sniffles",
+        "url": "https://open.spotify.com/album/4iDDDuiYyYFj55tRySv6Ii"
+      },
+      "artists": [
+        {
+          "name": "B. Ames",
+          "url": "https://open.spotify.com/artist/4vTr4hPE8WSlvgo9dkSZNW"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203636,
+      "name": "Sniffles (The Bump Dub)",
+      "url": "https://open.spotify.com/track/0HiSLKG0lUvAUo6gYojUXP"
+    },
+    {
+      "album": {
         "name": "SNL",
         "url": "https://open.spotify.com/album/63BBbmGgghjnlOQs4SwoCn"
       },
@@ -31510,6 +31618,24 @@
       "duration_ms": 145413,
       "name": "Spyhopping",
       "url": "https://open.spotify.com/track/6kJEvDtOGOMGgzSQ0YugVQ"
+    },
+    {
+      "album": {
+        "name": "Vol. 1",
+        "url": "https://open.spotify.com/album/4ACJpfaytioiyHOYD0H575"
+      },
+      "artists": [
+        {
+          "name": "The Hellp",
+          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216198,
+      "name": "Ssx",
+      "url": "https://open.spotify.com/track/1AJHaJFNM2Q4UpJ1fG1bIi"
     },
     {
       "album": {
@@ -32722,6 +32848,32 @@
       "duration_ms": 160391,
       "name": "Tabom Riddim",
       "url": "https://open.spotify.com/track/2YFZ6IaFywtwTVFSBbaIdz"
+    },
+    {
+      "album": {
+        "name": "TAKA LA DENTRO",
+        "url": "https://open.spotify.com/album/1xaajkD1aUsMFIC24OkkUE"
+      },
+      "artists": [
+        {
+          "name": "SEKIMANE",
+          "url": "https://open.spotify.com/artist/1yevH7mkPMXeSTnA9SwHvq"
+        },
+        {
+          "name": "shonci",
+          "url": "https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89809,
+      "name": "TAKA LA DENTRO",
+      "url": "https://open.spotify.com/track/4SN97PWG1WzClH2W08x8dr"
     },
     {
       "album": {
@@ -34870,7 +35022,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 185808,
       "name": "TROUBLE MAKER",
       "url": "https://open.spotify.com/track/2za0rJlyOtqKjYEsZcDUnC"
@@ -37498,6 +37650,24 @@
       "duration_ms": 210698,
       "name": "With A Grain",
       "url": "https://open.spotify.com/track/41fXvEFSqLiVnTxSNhTXe1"
+    },
+    {
+      "album": {
+        "name": "WITH ME",
+        "url": "https://open.spotify.com/album/6u2iRjHkKMCiJdpnkYyEsk"
+      },
+      "artists": [
+        {
+          "name": "Paris Prestige",
+          "url": "https://open.spotify.com/artist/5KJbpQbPAeUkb34K73J6Sj"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119375,
+      "name": "WITH ME",
+      "url": "https://open.spotify.com/track/7CEqlMvyAJGPNtaEdCNIOz"
     },
     {
       "album": {

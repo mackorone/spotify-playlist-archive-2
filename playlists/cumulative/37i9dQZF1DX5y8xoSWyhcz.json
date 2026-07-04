@@ -6017,6 +6017,32 @@
     },
     {
       "album": {
+        "name": "Cut Me Loose",
+        "url": "https://open.spotify.com/album/1KEXOIhG6fd9wCpZ0leSTS"
+      },
+      "artists": [
+        {
+          "name": "Luka Ferraro",
+          "url": "https://open.spotify.com/artist/4KkhQ5lNxMhFBDHMsN79Zp"
+        },
+        {
+          "name": "Napoleon",
+          "url": "https://open.spotify.com/artist/2TmRKKybPl2tpi72ZgAY8y"
+        },
+        {
+          "name": "Mav Lovaine",
+          "url": "https://open.spotify.com/artist/0Iat05gQ06e0JyTW58Rqd5"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194215,
+      "name": "Cut Me Loose",
+      "url": "https://open.spotify.com/track/4ibXJLkmjowEgwUdZNRz5H"
+    },
+    {
+      "album": {
         "name": "CMYK",
         "url": "https://open.spotify.com/album/6skaWAKwWHwu2yiQgn6UQz"
       },
@@ -9818,7 +9844,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-06",
+      "date_removed": null,
       "duration_ms": 130116,
       "name": "Funny You Should Say That",
       "url": "https://open.spotify.com/track/2fupB8S9zIsa2KEIcRysTJ"
@@ -10132,7 +10158,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 179576,
       "name": "Ginger Lemonade",
       "url": "https://open.spotify.com/track/60XG382z7UHlLMXs0bOwRb"
@@ -10939,6 +10965,28 @@
     },
     {
       "album": {
+        "name": "autonomy+",
+        "url": "https://open.spotify.com/album/3wVtf0A7EYRwKuJqEz9gKA"
+      },
+      "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        },
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189538,
+      "name": "Hands On (feat. Aidan Bissett)",
+      "url": "https://open.spotify.com/track/6KNdmRSHpb7FJRsHXk96yA"
+    },
+    {
+      "album": {
         "name": "Burning Bridges Into Dust",
         "url": "https://open.spotify.com/album/6RMqbIJ7ffwBsUqJ3vXTV5"
       },
@@ -11296,7 +11344,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 162439,
       "name": "Have Your Lovin'",
       "url": "https://open.spotify.com/track/6eVxB3tYtM8Ddci76ODxcJ"
@@ -11372,6 +11420,24 @@
       "duration_ms": 190030,
       "name": "HEADSTART",
       "url": "https://open.spotify.com/track/4au9zOGq4UoV03sLuXFZZI"
+    },
+    {
+      "album": {
+        "name": "Heard You Say'n",
+        "url": "https://open.spotify.com/album/70PgFjODsMMrsBG5Hqa4ky"
+      },
+      "artists": [
+        {
+          "name": "The Grips",
+          "url": "https://open.spotify.com/artist/6I66jUeASO73KOKKLqVZI4"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150954,
+      "name": "Heard You Say'n",
+      "url": "https://open.spotify.com/track/5v8HNZUO5p3U3y8UP8w5Jw"
     },
     {
       "album": {
@@ -16458,7 +16524,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 219670,
       "name": "love is a mystery",
       "url": "https://open.spotify.com/track/1b17fnqmzjFDNjpv8ucBXw"
@@ -25560,6 +25626,24 @@
       "duration_ms": 162333,
       "name": "Sucr\u00e9 Sal\u00e9",
       "url": "https://open.spotify.com/track/2MSmsbSiFQjCmncU7XnRhY"
+    },
+    {
+      "album": {
+        "name": "SUGAR BOO",
+        "url": "https://open.spotify.com/album/4ewixGRVsgLq3iegQTg1PY"
+      },
+      "artists": [
+        {
+          "name": "Vinni Payne",
+          "url": "https://open.spotify.com/artist/0RACPsCniRLw69idP2ps59"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "SUGAR BOO",
+      "url": "https://open.spotify.com/track/38PNZWXNO1RTwPgpcjEOXV"
     },
     {
       "album": {

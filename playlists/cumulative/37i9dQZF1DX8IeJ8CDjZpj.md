@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8IeJ8CDjZpj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8IeJ8CDjZpj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX8IeJ8CDjZpj)
 
-### [Festejo Mexicano](https://open.spotify.com/playlist/37i9dQZF1DX8IeJ8CDjZpj)
+### [México Lindo y Querido](https://open.spotify.com/playlist/37i9dQZF1DX8IeJ8CDjZpj)
 
-> No entenderías la fuc\*\*\*g vibra.
+> Canta los goles, baila los triunfos\. Así suena México cuando gana.
 
 450 songs - 1 day 2 hr 31 min
 

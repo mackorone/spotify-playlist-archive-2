@@ -2,7 +2,7 @@
 
 ### [WorshipNow](https://open.spotify.com/playlist/37i9dQZF1DWVYgpMbMPJMz)
 
-> Experience the lastest and the greatest Worship music right here, right now\. Cover: DOE & Joe L Barnes
+> Experience the lastest and the greatest Worship music right here, right now\. Cover: Roosevelt Stewart & Naomi Raine
 
 1,045 songs - 4 day 2 hr 31 min
 

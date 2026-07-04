@@ -953,6 +953,28 @@
     },
     {
       "album": {
+        "name": "I Have Myself",
+        "url": "https://open.spotify.com/album/34v9wtjbxHZ1qz4SY6UbPl"
+      },
+      "artists": [
+        {
+          "name": "Brave The Storm",
+          "url": "https://open.spotify.com/artist/6DPd6AkhKbj2qYKHULOU77"
+        },
+        {
+          "name": "Medyk",
+          "url": "https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "I Have Myself",
+      "url": "https://open.spotify.com/track/23VrT5eYArnddWOUZNwxVK"
+    },
+    {
+      "album": {
         "name": "Two",
         "url": "https://open.spotify.com/album/5fVZjOtZae0991fzloTglF"
       },

@@ -5530,8 +5530,8 @@
       },
       "artists": [
         {
-          "name": "Caxah",
-          "url": "https://open.spotify.com/artist/4MwwSASxavJVh1l0um3etk"
+          "name": "Caxah Diet",
+          "url": "https://open.spotify.com/artist/1q854nDzMdqEarEJI8vq8c"
         }
       ],
       "date_added": "2026-06-18",
@@ -8000,6 +8000,24 @@
       "duration_ms": 163369,
       "name": "Offline",
       "url": "https://open.spotify.com/track/1RG1d70HrUzbGljyF2wjlI"
+    },
+    {
+      "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/6ISSikJJwj4uxZoMWbMAEO"
+      },
+      "artists": [
+        {
+          "name": "Dre Cali",
+          "url": "https://open.spotify.com/artist/2U0aIJmjYUZZ26kIE0KxM1"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206808,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/3PsNq9iGZ59lIDB4d5L3op"
     },
     {
       "album": {

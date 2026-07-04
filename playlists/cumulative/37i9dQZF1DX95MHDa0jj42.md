@@ -4,7 +4,7 @@
 
 > sunny bossa beats to chill, focus or study to.
 
-123 songs - 4 hr 33 min
+125 songs - 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,10 +45,11 @@
 | [Entre Ondas](https://open.spotify.com/track/3fgm666cvni96c7N93cDfO) | [Juju BB](https://open.spotify.com/artist/4bWUSOEk4qhaAM251pddKo) | [Entre Ondas](https://open.spotify.com/album/3MVqxNFQ4bgGIyVWuQQ0mX) | 1:51 | 2025-09-26 |  |
 | [finales de verano](https://open.spotify.com/track/5DNEpg5OyjjnGlOnhsyk1w) | [very noise person](https://open.spotify.com/artist/1YAZ1Efx4AY14uJAfsBEDv), [J.Kobee](https://open.spotify.com/artist/4F3XA2w5ms8U6nzgAujrl1), [Somebuddy](https://open.spotify.com/artist/6TfTpFTSQ6z6kQfBRcZvUO) | [finales de verano](https://open.spotify.com/album/1noI8TpKIxvJAoTENZO3Do) | 1:41 | 2025-05-16 |  |
 | [flickering shores](https://open.spotify.com/track/2JyVekVPdWIu72yF2YxOl0) | [May\-Flowa](https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr) | [flickering shores](https://open.spotify.com/album/2FhYI1s8iyPjor0zRndGHM) | 2:01 | 2025-08-01 |  |
-| [flight path](https://open.spotify.com/track/0bdfkB4rsoUl3hPYpfkxGI) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [flight path](https://open.spotify.com/album/5KLmw6elvvNBkmB0BRCDCv) | 2:05 | 2025-05-16 |  |
+| [flight path](https://open.spotify.com/track/0bdfkB4rsoUl3hPYpfkxGI) | [teylors](https://open.spotify.com/artist/71ZUjeK7Y7ELruTeS2Nd7X) | [flight path](https://open.spotify.com/album/5KLmw6elvvNBkmB0BRCDCv) | 2:05 | 2025-05-16 | 2026-07-04 |
 | [floating away](https://open.spotify.com/track/05um9z6sc9myCeKwNI4cgw) | [fourth cloud](https://open.spotify.com/artist/06b1HoxjfHzwgkn9tiYpjy) | [floating away](https://open.spotify.com/album/7ydnbHkTvhCSgx4Tfll76Q) | 2:38 | 2025-09-26 |  |
 | [Fortaleza](https://open.spotify.com/track/1BsTIFxYYiCbyFzXwUPJj0) | [Deiira](https://open.spotify.com/artist/4mYKKow09qwLyu72PTEMvx) | [Fortaleza](https://open.spotify.com/album/1HXRsq3UcSRkLfCY6XHJnP) | 2:24 | 2025-07-10 |  |
 | [havana](https://open.spotify.com/track/0W0Hp3h3pEDV7W5JV0yfxD) | [fourth cloud](https://open.spotify.com/artist/06b1HoxjfHzwgkn9tiYpjy) | [havana](https://open.spotify.com/album/1jHyXOjs19MRCB0f5dro4I) | 1:54 | 2025-08-20 |  |
+| [higher, lower](https://open.spotify.com/track/4dGNNenJ3nNV1vS0HqobBm) | [luzzy fogic](https://open.spotify.com/artist/1otffiT3xiIe9A8jw7LVut) | [higher, lower](https://open.spotify.com/album/29fBzfvMu1H5Vy3dgruKhp) | 2:21 | 2026-07-03 |  |
 | [Hot Coffee](https://open.spotify.com/track/5dAjSwAkqGNejqM1maF0vA) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [Hot Coffee](https://open.spotify.com/album/5Q4O9TKKEEdSQ3tQd1mWtz) | 2:15 | 2025-06-13 |  |
 | [Hotel Adriano](https://open.spotify.com/track/6GoWaqhyhOTHiJ93bXihoZ) | [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Hotel Adriano](https://open.spotify.com/album/1Y0w8JO21lbp4aTySncns8) | 2:13 | 2025-05-16 |  |
 | [i miss the beach](https://open.spotify.com/track/6kqBN8jn6MUIRGBBDkHid0) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy) | [i miss the beach](https://open.spotify.com/album/0ySAvyJwl3l1IF6EDXTLxn) | 1:59 | 2025-05-16 |  |
@@ -123,6 +124,7 @@
 | [Sway Away](https://open.spotify.com/track/0HAmT2Err55i2Zj5pO7mGF) | [Soul Siesta](https://open.spotify.com/artist/1RJwM6rGFTKka0YVoCrHn8) | [Sway Away](https://open.spotify.com/album/6vZKuraVHY5ro7mo3hxg49) | 1:29 | 2025-05-16 | 2026-06-10 |
 | [Swaying](https://open.spotify.com/track/6UADZ0D5NwibLNnz3XiIXj) | [bripp](https://open.spotify.com/artist/0d3thvBL4aAaPp5bFuHfrt) | [Swaying](https://open.spotify.com/album/3teKKsv3mnR7griYcohtKN) | 2:07 | 2025-05-16 | 2025-07-11 |
 | [Tangerina](https://open.spotify.com/track/1MJDVQzsNw9bK6VekgdW74) | [Homson](https://open.spotify.com/artist/4tFyFMcMdlqK8b4RoADlS2) | [Tangerina](https://open.spotify.com/album/04EtoUeyhhp3GR1rMp3Sc8) | 1:38 | 2025-05-16 |  |
+| [Terra Dourada](https://open.spotify.com/track/2vkPvz1jvgkSQkYAvqH9hx) | [Gabriel Cavalcanti](https://open.spotify.com/artist/2CLLtlHM5RuNUdDe7b7YwL), [fnonose](https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q), [okinami](https://open.spotify.com/artist/5SulT12uH9qQMQsGCBMzoH) | [Terra Dourada](https://open.spotify.com/album/4NCUz3cJ1BtqPhwqIL2DPS) | 2:01 | 2026-07-03 |  |
 | [the bay](https://open.spotify.com/track/6pgAOYWyyiHeky7zysISPL) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [the bay](https://open.spotify.com/album/0ewvXRQn5Kxw6KMJnjLIUE) | 2:03 | 2025-05-16 | 2025-06-14 |
 | [The Olive Tree](https://open.spotify.com/track/0efYrzlpwkyzBcsaIg1sMH) | [Belinellie](https://open.spotify.com/artist/5pQN7M94XWHOoRTYWHUBX5) | [The Olive Tree](https://open.spotify.com/album/6neumwcGKLr6cdBzaD2NIo) | 2:12 | 2025-05-16 |  |
 | [Triplo](https://open.spotify.com/track/5RpukHbnGDArxAsBV6Uk4W) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Triplo](https://open.spotify.com/album/5VqOQRx98N3whzppY6PvmO) | 2:08 | 2025-05-16 |  |

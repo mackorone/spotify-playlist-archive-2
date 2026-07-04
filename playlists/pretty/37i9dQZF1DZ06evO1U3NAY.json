@@ -1,12 +1,12 @@
 {
   "description": "This is Within Temptation. The essential tracks, all in one playlist.",
-  "num_followers": 170329,
+  "num_followers": 170330,
   "original_name": "This Is Within Temptation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akRYgAAAAACNbSP4mnuQhMGT3KtAoNxb",
+  "snapshot_id": "akWqAAAAAACIvOLCqeymX0oDMmsdkIkU",
   "tracks": [
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Silent Force",
-        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 291533,
-      "name": "See Who I Am",
-      "url": "https://open.spotify.com/track/5KRuT1HU5BtXELm6zXKhfQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "OPVS NOIR Vol. 1",
         "url": "https://open.spotify.com/album/30g6j2xuqynpAiohatDOW6"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 216653,
       "name": "Light Can Only Shine In The Darkness",
       "url": "https://open.spotify.com/track/2XvxeR6tniytTDVEPa3Agm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Silent Force",
+        "url": "https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 291533,
+      "name": "See Who I Am",
+      "url": "https://open.spotify.com/track/5KRuT1HU5BtXELm6zXKhfQ"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bleed Out",
+        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
+      },
+      "artists": [
+        {
+          "name": "Within Temptation",
+          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
+        }
+      ],
+      "duration_ms": 244706,
+      "name": "Cyanide Love",
+      "url": "https://open.spotify.com/track/7c5JuIrBDoaSbzIzAr7AxN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Fool's Parade",
         "url": "https://open.spotify.com/album/74uk0pmQPbVyZ5y4dlSF8h"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 222128,
       "name": "A Fool's Parade",
       "url": "https://open.spotify.com/track/1Okd6fnFsU1mZeiFcYSaTT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bleed Out",
-        "url": "https://open.spotify.com/album/1e6GqZoE8BqoGxRWQX6vJY"
-      },
-      "artists": [
-        {
-          "name": "Within Temptation",
-          "url": "https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a"
-        }
-      ],
-      "duration_ms": 244706,
-      "name": "Cyanide Love",
-      "url": "https://open.spotify.com/track/7c5JuIrBDoaSbzIzAr7AxN"
     },
     {
       "added_at": null,

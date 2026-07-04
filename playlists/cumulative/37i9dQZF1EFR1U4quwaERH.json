@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "No Sleep In Paradise",
+        "url": "https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210818,
+      "name": "Light My Soul",
+      "url": "https://open.spotify.com/track/0Ii3RfMvpW0IgfYusSfHLT"
+    },
+    {
+      "album": {
         "name": "lighthouse",
         "url": "https://open.spotify.com/album/6Dd2pFTUprxK1FZbQtpxVk"
       },

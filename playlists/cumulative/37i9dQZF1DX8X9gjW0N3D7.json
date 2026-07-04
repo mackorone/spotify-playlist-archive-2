@@ -6087,6 +6087,24 @@
     },
     {
       "album": {
+        "name": "Mourir pour le rock",
+        "url": "https://open.spotify.com/album/5nL9m5VKdFp9eKUWPzoVev"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Talbot",
+          "url": "https://open.spotify.com/artist/5NlqN0zhm9dM0WgtvKvsKU"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189996,
+      "name": "Mourir pour le rock",
+      "url": "https://open.spotify.com/track/7lZi1WeqLO7ERuhfnMetFi"
+    },
+    {
+      "album": {
         "name": "Notre chez Nous",
         "url": "https://open.spotify.com/album/3vhk5iBXhXlthsJMUgqtgP"
       },

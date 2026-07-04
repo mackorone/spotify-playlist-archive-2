@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today\u2019s pop, plugged into the culture w/ Carly Rae Jepsen",
+  "description": "Today\u2019s pop, plugged into the culture w/ Madonna",
   "name": "Pop All Day",
   "tracks": [
     {
@@ -6913,6 +6913,24 @@
     },
     {
       "album": {
+        "name": "born to lose",
+        "url": "https://open.spotify.com/album/4Zrqs3YaexpBNVQlErbyTA"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194934,
+      "name": "born to lose",
+      "url": "https://open.spotify.com/track/5LOqhjhFNQ4WzKvEUrT8s9"
+    },
+    {
+      "album": {
         "name": "Born With a Broken Heart",
         "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
       },
@@ -11564,6 +11582,24 @@
       "duration_ms": 180117,
       "name": "Dancer",
       "url": "https://open.spotify.com/track/04v7ZYv0TQHluugW9Tzccy"
+    },
+    {
+      "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235771,
+      "name": "Danceteria",
+      "url": "https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ"
     },
     {
       "album": {
@@ -20093,6 +20129,24 @@
     },
     {
       "album": {
+        "name": "Is This Heaven? (Extended)",
+        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169121,
+      "name": "Good At Leaving",
+      "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
+    },
+    {
+      "album": {
         "name": "Good Boy",
         "url": "https://open.spotify.com/album/0jlQOoi6XuQfOi5bBwqOUZ"
       },
@@ -20626,6 +20680,24 @@
       "duration_ms": 183075,
       "name": "Gravity (feat. Tyler Shaw)",
       "url": "https://open.spotify.com/track/2cGoqq76QeKeL8H5MSXIlS"
+    },
+    {
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
       "album": {
@@ -23521,6 +23593,24 @@
     },
     {
       "album": {
+        "name": "Honey Butter",
+        "url": "https://open.spotify.com/album/039ZZ4YdKRnEJqg2rDoHPp"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Reid",
+          "url": "https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133352,
+      "name": "Honey Butter",
+      "url": "https://open.spotify.com/track/53RRqhkCTbpMtHDJb7uFQV"
+    },
+    {
+      "album": {
         "name": "Hooked",
         "url": "https://open.spotify.com/album/0Eq2HvIBLUXerBacJTvEep"
       },
@@ -24146,6 +24236,24 @@
       "duration_ms": 219026,
       "name": "How Sweet",
       "url": "https://open.spotify.com/track/38tXZcL1gZRfbqfOG0VMTH"
+    },
+    {
+      "album": {
+        "name": "HOW TO BE A LOVER",
+        "url": "https://open.spotify.com/album/0apMpMpEBEqdZj2X51ay62"
+      },
+      "artists": [
+        {
+          "name": "Goldie Boutilier",
+          "url": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266103,
+      "name": "HOW TO BE A LOVER",
+      "url": "https://open.spotify.com/track/1xbP92TbLVfUlS2BtkTidi"
     },
     {
       "album": {
@@ -41422,7 +41530,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 169043,
       "name": "Popstar",
       "url": "https://open.spotify.com/track/2BEvkn9PNRctuqnQ0cLUUn"
@@ -43080,6 +43188,24 @@
       "duration_ms": 172721,
       "name": "redruM",
       "url": "https://open.spotify.com/track/0pnG6sIThf9kp9ebTqn44L"
+    },
+    {
+      "album": {
+        "name": "Reignite",
+        "url": "https://open.spotify.com/album/3KCgsqsAfMoDCDtKyTGkeP"
+      },
+      "artists": [
+        {
+          "name": "Elysia Biro",
+          "url": "https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201723,
+      "name": "Reignite",
+      "url": "https://open.spotify.com/track/3zN8glApKznq24oqZ9uWAG"
     },
     {
       "album": {
@@ -50379,6 +50505,24 @@
     },
     {
       "album": {
+        "name": "Telepatia",
+        "url": "https://open.spotify.com/album/1RRWG9WOC6npkd5yBrqtqU"
+      },
+      "artists": [
+        {
+          "name": "Enola Bedard",
+          "url": "https://open.spotify.com/artist/4FhVSiLEO4NPE3gZiaMg7Y"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131203,
+      "name": "Telepatia",
+      "url": "https://open.spotify.com/track/05tJga4K5eGK2sLPD2ZgCK"
+    },
+    {
+      "album": {
         "name": "Tell Mama",
         "url": "https://open.spotify.com/album/2pmblmIVSQPbU3qAJ8FtOg"
       },
@@ -51026,6 +51170,24 @@
       "duration_ms": 158933,
       "name": "The Boys",
       "url": "https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ"
+    },
+    {
+      "album": {
+        "name": "PAREIDOLIA",
+        "url": "https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202250,
+      "name": "THE CINEMA",
+      "url": "https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv"
     },
     {
       "album": {
@@ -52815,6 +52977,24 @@
     },
     {
       "album": {
+        "name": "Almost Always",
+        "url": "https://open.spotify.com/album/4rpOwNiGbKg4eAzWuAh16S"
+      },
+      "artists": [
+        {
+          "name": "Preston Pablo",
+          "url": "https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173031,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/3ZXFasPBi4CfSwqVX7VsHX"
+    },
+    {
+      "album": {
         "name": "Tied Up",
         "url": "https://open.spotify.com/album/4xcl5LB8A8iunVOLXUEwbh"
       },
@@ -54430,6 +54610,28 @@
       "duration_ms": 246796,
       "name": "Two Hearts",
       "url": "https://open.spotify.com/track/3rAZYyztPLBaQ7TTXdxk7m"
+    },
+    {
+      "album": {
+        "name": "Two Juliets Don't Need A Romeo (Love Nouveau At The Club)",
+        "url": "https://open.spotify.com/album/3UneVetG7TZWU4jmCOyBrW"
+      },
+      "artists": [
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/1Ss8sy3C3XXQgxYRwjDln8"
+        },
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234875,
+      "name": "Two Juliets Don't Need A Romeo (Love Nouveau At The Club)",
+      "url": "https://open.spotify.com/track/3Xe9aLM9xwFnNg4WZR3jFM"
     },
     {
       "album": {
@@ -56765,6 +56967,24 @@
     },
     {
       "album": {
+        "name": "what do i have to do?",
+        "url": "https://open.spotify.com/album/3wLjj4UQG1pMqsnwbGr36a"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153571,
+      "name": "what do i have to do?",
+      "url": "https://open.spotify.com/track/7E6ykIAPA7Tx5WgOZb6vQn"
+    },
+    {
+      "album": {
         "name": "What Do I Know? (Just A Girl) [feat. Shenseea]",
         "url": "https://open.spotify.com/album/17fU8owfXWqY0mlURQoLgE"
       },
@@ -58162,6 +58382,24 @@
       "duration_ms": 178027,
       "name": "Who's Gonna",
       "url": "https://open.spotify.com/track/2X3xur7x1K5PYiWrzJfM1O"
+    },
+    {
+      "album": {
+        "name": "Whole Lotta Talkin'",
+        "url": "https://open.spotify.com/album/4bt4gStS58TFuSUwA75OIn"
+      },
+      "artists": [
+        {
+          "name": "Lisa LeBlanc",
+          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163133,
+      "name": "Whole Lotta Talkin'",
+      "url": "https://open.spotify.com/track/2A5KiEwjnjihPdMlk1Ic7z"
     },
     {
       "album": {

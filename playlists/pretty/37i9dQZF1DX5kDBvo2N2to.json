@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 61120,
+  "num_followers": 61151,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-07-02 22:00:38",
       "album": {
+        "name": "BEAUTIFUL MADNESS",
+        "url": "https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "duration_ms": 215388,
+      "name": "EGO",
+      "url": "https://open.spotify.com/track/0kIhtDAUHCIw8V8vWC738L"
+    },
+    {
+      "added_at": "2026-07-02 22:00:38",
+      "album": {
         "name": "KNOCKED DOWN",
         "url": "https://open.spotify.com/album/5qNhnAH6Tg7n2BEA8EPGEt"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 163560,
       "name": "Fuck ditt liv",
       "url": "https://open.spotify.com/track/53goqbb9AgYdeUgH9y60h1"
-    },
-    {
-      "added_at": "2026-07-02 22:00:38",
-      "album": {
-        "name": "BEAUTIFUL MADNESS",
-        "url": "https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv"
-      },
-      "artists": [
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        }
-      ],
-      "duration_ms": 215388,
-      "name": "EGO",
-      "url": "https://open.spotify.com/track/0kIhtDAUHCIw8V8vWC738L"
     },
     {
       "added_at": "2026-07-02 22:00:38",

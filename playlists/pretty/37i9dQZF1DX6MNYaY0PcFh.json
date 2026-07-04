@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound. Cover: TOM LECHEF",
-  "num_followers": 105819,
+  "num_followers": 105864,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2026-07-02 23:00:13",
       "album": {
+        "name": "The Only Girl",
+        "url": "https://open.spotify.com/album/35f39zrLT2gOs0LdK9K7q1"
+      },
+      "artists": [
+        {
+          "name": "Faster Horses",
+          "url": "https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "The Only Girl",
+      "url": "https://open.spotify.com/track/7dYAexcUcOmhxbPFvuqFRP"
+    },
+    {
+      "added_at": "2026-07-02 23:00:13",
+      "album": {
         "name": "Driving Me Crazy",
         "url": "https://open.spotify.com/album/61uIK5lYT3NAlL9bTdouej"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 149006,
       "name": "Bludz & Cripz",
       "url": "https://open.spotify.com/track/09N6zRXA3FuLciYUnDCM4q"
-    },
-    {
-      "added_at": "2026-07-02 23:00:13",
-      "album": {
-        "name": "The Only Girl",
-        "url": "https://open.spotify.com/album/35f39zrLT2gOs0LdK9K7q1"
-      },
-      "artists": [
-        {
-          "name": "Faster Horses",
-          "url": "https://open.spotify.com/artist/3LpHT7su9Y4DLfV6NCfZKZ"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "The Only Girl",
-      "url": "https://open.spotify.com/track/7dYAexcUcOmhxbPFvuqFRP"
     },
     {
       "added_at": "2026-07-02 23:00:13",
@@ -691,6 +691,22 @@
     {
       "added_at": "2026-07-02 23:00:13",
       "album": {
+        "name": "Talking Nonsense",
+        "url": "https://open.spotify.com/album/4kzIIARfEc7NdB7U0evxBy"
+      },
+      "artists": [
+        {
+          "name": "Soul Mass Transit System",
+          "url": "https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC"
+        }
+      ],
+      "duration_ms": 339663,
+      "name": "Talking Nonsense",
+      "url": "https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV"
+    },
+    {
+      "added_at": "2026-07-02 23:00:13",
+      "album": {
         "name": "Just The Way You Are (Remixes Part Two)",
         "url": "https://open.spotify.com/album/7IuJ75kkCYnCnXg5EBS2Fi"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 204285,
       "name": "SMOOTH",
       "url": "https://open.spotify.com/track/4OizxOdBbiKXPFAHTVb8vp"
-    },
-    {
-      "added_at": "2026-07-02 23:00:13",
-      "album": {
-        "name": "Talking Nonsense",
-        "url": "https://open.spotify.com/album/4kzIIARfEc7NdB7U0evxBy"
-      },
-      "artists": [
-        {
-          "name": "Soul Mass Transit System",
-          "url": "https://open.spotify.com/artist/3mzdCW5WsS0kjHkG9neoGC"
-        }
-      ],
-      "duration_ms": 339663,
-      "name": "Talking Nonsense",
-      "url": "https://open.spotify.com/track/0UzqPZC6D8DAuuX11XPRwV"
     },
     {
       "added_at": "2026-07-02 23:00:13",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-07-02 23:00:13",
       "album": {
-        "name": "Naughties",
-        "url": "https://open.spotify.com/album/3vtgWRCNRarRGSj1nFDofe"
-      },
-      "artists": [
-        {
-          "name": "KiLLOWEN",
-          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
-        }
-      ],
-      "duration_ms": 146893,
-      "name": "Naughties",
-      "url": "https://open.spotify.com/track/7zzQAlN6An9YQfIK7KT8DP"
-    },
-    {
-      "added_at": "2026-07-02 23:00:13",
-      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/4Hebki4NfBurbLY2v9AyyW"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 204705,
       "name": "Changes",
       "url": "https://open.spotify.com/track/2ZuUriBVIxjBqvPVESAZHM"
+    },
+    {
+      "added_at": "2026-07-02 23:00:13",
+      "album": {
+        "name": "Naughties",
+        "url": "https://open.spotify.com/album/3vtgWRCNRarRGSj1nFDofe"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        }
+      ],
+      "duration_ms": 146893,
+      "name": "Naughties",
+      "url": "https://open.spotify.com/track/7zzQAlN6An9YQfIK7KT8DP"
     },
     {
       "added_at": "2026-07-02 23:00:13",
@@ -927,26 +927,6 @@
     {
       "added_at": "2026-07-02 23:00:13",
       "album": {
-        "name": "Motion Sickness",
-        "url": "https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8"
-      },
-      "artists": [
-        {
-          "name": "KiLLOWEN",
-          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
-        },
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 200571,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18"
-    },
-    {
-      "added_at": "2026-07-02 23:00:13",
-      "album": {
         "name": "Pull Up",
         "url": "https://open.spotify.com/album/6bBot7gb3Uu3sqDiiusSDu"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 196480,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/1MMFFS8ddSQbYVBclBZTZN"
+    },
+    {
+      "added_at": "2026-07-02 23:00:13",
+      "album": {
+        "name": "Motion Sickness",
+        "url": "https://open.spotify.com/album/0WfMQgxZsTquXJbqmj4Nj8"
+      },
+      "artists": [
+        {
+          "name": "KiLLOWEN",
+          "url": "https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO"
+        },
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/1XWmqyDgC9pZfAjkgMmj18"
     },
     {
       "added_at": "2026-07-02 23:00:13",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-07-02 23:00:13",
       "album": {
+        "name": "New Ting",
+        "url": "https://open.spotify.com/album/3kaBAySJbC9HBSC0p70PPt"
+      },
+      "artists": [
+        {
+          "name": "Krafty Kuts",
+          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
+        }
+      ],
+      "duration_ms": 179104,
+      "name": "New Ting",
+      "url": "https://open.spotify.com/track/1oQpq6RUVy06nfsjcZm4S8"
+    },
+    {
+      "added_at": "2026-07-02 23:00:13",
+      "album": {
         "name": "Rampage",
         "url": "https://open.spotify.com/album/4UPganXnN0vfGwvuHHrY82"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 225865,
       "name": "10 HRS",
       "url": "https://open.spotify.com/track/5gPo2F7Swj0goIYl7i6ASQ"
-    },
-    {
-      "added_at": "2026-07-02 23:00:13",
-      "album": {
-        "name": "New Ting",
-        "url": "https://open.spotify.com/album/3kaBAySJbC9HBSC0p70PPt"
-      },
-      "artists": [
-        {
-          "name": "Krafty Kuts",
-          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
-        }
-      ],
-      "duration_ms": 179104,
-      "name": "New Ting",
-      "url": "https://open.spotify.com/track/1oQpq6RUVy06nfsjcZm4S8"
     },
     {
       "added_at": "2026-07-02 23:00:13",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-07-02 23:00:13",
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/6yYuIVGsnusvBBAXWdmBbx"
+      },
+      "artists": [
+        {
+          "name": "Krafty Kuts",
+          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
+        }
+      ],
+      "duration_ms": 174705,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/1YmphBwn8ByJnWCRixZsxD"
+    },
+    {
+      "added_at": "2026-07-02 23:00:13",
+      "album": {
         "name": "Welcome 2 LDN (feat. Flowdan)",
         "url": "https://open.spotify.com/album/08s53yPAoXtWg29VLYK8Ju"
       },
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2026-07-02 23:00:13",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/6yYuIVGsnusvBBAXWdmBbx"
+        "name": "FRICTION",
+        "url": "https://open.spotify.com/album/23c0nGQhv2XXZ6SSQcZbvV"
       },
       "artists": [
         {
-          "name": "Krafty Kuts",
-          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
+          "name": "Ben Gerrans",
+          "url": "https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z"
         }
       ],
-      "duration_ms": 174705,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/1YmphBwn8ByJnWCRixZsxD"
+      "duration_ms": 164285,
+      "name": "FRICTION",
+      "url": "https://open.spotify.com/track/2tyuXpv3CarzWKm3CtcumY"
     },
     {
       "added_at": "2026-07-02 23:00:13",
@@ -1287,34 +1303,18 @@
     {
       "added_at": "2026-07-02 23:00:13",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/3tymonwB9JiWJPxypF6LAb"
+        "name": "Curvy",
+        "url": "https://open.spotify.com/album/1ItndGKJDLNuraeydCILKE"
       },
       "artists": [
         {
-          "name": "Re:um",
-          "url": "https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe"
+          "name": "Krafty Kuts",
+          "url": "https://open.spotify.com/artist/6Ebt7JHILWJCE7aR7JLFB2"
         }
       ],
-      "duration_ms": 215538,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/4rlEqGtM0PXoYjQKL2vPLB"
-    },
-    {
-      "added_at": "2026-07-02 23:00:13",
-      "album": {
-        "name": "FRICTION",
-        "url": "https://open.spotify.com/album/23c0nGQhv2XXZ6SSQcZbvV"
-      },
-      "artists": [
-        {
-          "name": "Ben Gerrans",
-          "url": "https://open.spotify.com/artist/6RBIwzXCWcZJwfNTSHPZ5Z"
-        }
-      ],
-      "duration_ms": 164285,
-      "name": "FRICTION",
-      "url": "https://open.spotify.com/track/2tyuXpv3CarzWKm3CtcumY"
+      "duration_ms": 175000,
+      "name": "Curvy",
+      "url": "https://open.spotify.com/track/0XmQaH1RDHsyaddjoXUbf1"
     }
   ],
   "unique_name": "New UK Garage",

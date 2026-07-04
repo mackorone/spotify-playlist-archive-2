@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Bruno Berle",
+  "description": "M\u00fasica brasileira fora da curva. Foto: boasorte",
   "name": "alt BR",
   "tracks": [
     {
@@ -950,6 +950,24 @@
       "duration_ms": 225589,
       "name": "amarga",
       "url": "https://open.spotify.com/track/4HAIHkDRNvEdLQpIzrxCxH"
+    },
+    {
+      "album": {
+        "name": "Amiga do Tempo",
+        "url": "https://open.spotify.com/album/2pO6Ut3Xva2Dx7tlVcL36S"
+      },
+      "artists": [
+        {
+          "name": "boasorte",
+          "url": "https://open.spotify.com/artist/5io1VxUi0EDMOxkZqfrEE6"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219250,
+      "name": "Amiga do Tempo",
+      "url": "https://open.spotify.com/track/24lyQ8f2VScw0E36XDtxjO"
     },
     {
       "album": {
@@ -2884,7 +2902,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-04",
       "duration_ms": 171200,
       "name": "Cara Estranho",
       "url": "https://open.spotify.com/track/1ukMk2i7sWmDtmO66h3KO7"

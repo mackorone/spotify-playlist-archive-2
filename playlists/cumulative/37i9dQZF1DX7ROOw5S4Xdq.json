@@ -64669,24 +64669,6 @@
     },
     {
       "album": {
-        "name": "Seu Som Ressoa",
-        "url": "https://open.spotify.com/album/5MQJTt66SKHHhuER2OWlzG"
-      },
-      "artists": [
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
-        }
-      ],
-      "date_added": "2026-07-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/02LbqQyAsa8vosfO95Vd8h"
-    },
-    {
-      "album": {
         "name": "Tragam Suas Vasilhas (Ao Vivo)",
         "url": "https://open.spotify.com/album/7IISqDRueMy006SHDOFWIO"
       },
@@ -71032,6 +71014,24 @@
       "duration_ms": 395864,
       "name": "Volte a Orar - Ao Vivo",
       "url": "https://open.spotify.com/track/5r8vpwFqXUu4T7sjXDWH3D"
+    },
+    {
+      "album": {
+        "name": "Seu Som Ressoa",
+        "url": "https://open.spotify.com/album/5MQJTt66SKHHhuER2OWlzG"
+      },
+      "artists": [
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235129,
+      "name": "Voltei",
+      "url": "https://open.spotify.com/track/02LbqQyAsa8vosfO95Vd8h"
     },
     {
       "album": {

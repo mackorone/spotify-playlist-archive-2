@@ -1,6 +1,6 @@
 {
   "description": "Discover new christian and gospel music. Cover: Mercy Chinwo & Nathaniel Bassey",
-  "num_followers": 60246,
+  "num_followers": 60415,
   "original_name": "Fresh Gospel Africa",
   "owner": {
     "name": "Spotify",
@@ -308,8 +308,8 @@
           "url": "https://open.spotify.com/artist/4AJSklNIYg4jQr5EaDvUR8"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 310000,
+      "name": "Tuale",
       "url": "https://open.spotify.com/track/1adeZmxXG7aqyZOaeJhult"
     },
     {
@@ -787,6 +787,26 @@
     {
       "added_at": "2026-07-03 00:01:33",
       "album": {
+        "name": "Check Am",
+        "url": "https://open.spotify.com/album/6D8OsnhxfkWaqYcrD5o49q"
+      },
+      "artists": [
+        {
+          "name": "TMAX",
+          "url": "https://open.spotify.com/artist/7Hj8PN0nPrxtolUWesbhii"
+        },
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        }
+      ],
+      "duration_ms": 194823,
+      "name": "Check Am",
+      "url": "https://open.spotify.com/track/5fEXpt1fF14LGodXmBen4N"
+    },
+    {
+      "added_at": "2026-07-03 00:01:33",
+      "album": {
         "name": "Haske na",
         "url": "https://open.spotify.com/album/2KZ4sNBwLTZE077ZsA2fEN"
       },
@@ -976,8 +996,8 @@
           "url": "https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 728857,
+      "name": "Holy Holy Holy",
       "url": "https://open.spotify.com/track/5WH2UuWLvRSoMqKvABTJm7"
     },
     {
