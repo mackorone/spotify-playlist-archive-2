@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,307 songs - 4 day 23 hr 41 min
+2,309 songs - 4 day 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Brighter Life](https://open.spotify.com/track/1UxaiijiAG3CLAhID10Cqo) | [Kristin Amparo](https://open.spotify.com/artist/2vxWDuk2inw00eo3Hag2QR) | [Brighter Life](https://open.spotify.com/album/1F3NJS50TEnU0RbLGV284n) | 3:05 | 2024-03-07 | 2024-04-19 |
 | [Bring it on, bring it all \- BIJI Remix](https://open.spotify.com/track/3RSnTjmCxNadbi4zKlrVWF) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc), [BIJI](https://open.spotify.com/artist/2spZzA9c41ahb6OIXkYJgy) | [Bring it on, bring it all \(BIJI Remix\)](https://open.spotify.com/album/4WfZemYndRi5j4INB3qC72) | 3:42 | 2025-05-22 | 2025-08-16 |
 | [Brinner](https://open.spotify.com/track/0emeZAXCygTTC6in4gEVtK) | [FILIPPA](https://open.spotify.com/artist/41WN1nz3GcBqnMZEwJCViG) | [Brinner](https://open.spotify.com/album/5xEDiyvCJ4v7SoepIV9Ne6) | 3:41 | 2023-03-30 | 2023-05-07 |
+| [Brogatan](https://open.spotify.com/track/2xDsMtle47sbnSTRM94XxO) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Brogatan](https://open.spotify.com/album/0DOsLquaCnBPZhJujGFidL) | 3:04 | 2026-07-02 |  |
 | [Broken Halo](https://open.spotify.com/track/3Gg8RDjN0ewyQ2mFWPpIYH) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Broken Halo](https://open.spotify.com/album/04j1OTKs16Db2n40x6Hrh4) | 2:56 | 2025-06-26 | 2025-09-19 |
 | [Bruises](https://open.spotify.com/track/4bUPB5OTmN7L6l82MC1pa4) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Bruises](https://open.spotify.com/album/7jgXloTEyFpZ3p366I0PO1) | 4:04 | 2023-10-19 | 2023-11-06 |
 | [Bryr du dig?](https://open.spotify.com/track/12SwCJOrLV1Kga1KvlFpV8) | [Frida Lif](https://open.spotify.com/artist/69qWf1qLvLjd5Pu9APRL0Y) | [Bryr du dig?](https://open.spotify.com/album/35uChkVg1hcrWAc0oC6HW8) | 3:42 | 2024-05-02 | 2024-05-24 |
@@ -320,7 +321,7 @@
 | [change](https://open.spotify.com/track/1uEkIgetYekD0SlhFCq4jd) | [.blank](https://open.spotify.com/artist/6CIY504cTi6MgI1ZHaxd7w) | [vol\. 1](https://open.spotify.com/album/6OVXBSdzPWg2c3enhPXkl1) | 2:39 | 2025-11-13 | 2026-02-22 |
 | [Change](https://open.spotify.com/track/6CK581mr24h7z7bFpwhHmm) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Change](https://open.spotify.com/album/2hxKPuoKlnH6ZMInQ3Xg9x) | 3:42 | 2021-12-16 | 2022-03-11 |
 | [Chasing \(feat\. NEIMY\)](https://open.spotify.com/track/4EdlKtTxltiqGEdiOd2AUE) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Chasing \(feat\. NEIMY\)](https://open.spotify.com/album/2x2wq5Et0dUu1lLnYv07vc) | 2:28 | 2023-01-19 | 2023-10-06 |
-| [Cherry Blossom Sky](https://open.spotify.com/track/63HUPODfR1TEcUNvMtYnkh) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Cherry Blossom Sky](https://open.spotify.com/album/1ZtzSXlEjlLwJLYlLjBSnB) | 2:32 | 2026-05-04 |  |
+| [Cherry Blossom Sky](https://open.spotify.com/track/63HUPODfR1TEcUNvMtYnkh) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Cherry Blossom Sky](https://open.spotify.com/album/1ZtzSXlEjlLwJLYlLjBSnB) | 2:32 | 2026-05-04 | 2026-07-05 |
 | [Cherry On Top](https://open.spotify.com/track/27prlvK4avPPpYntCg7wEo) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [Cherry On Top](https://open.spotify.com/album/1ThLpe0d8lTwMNRuSTtRqM) | 3:00 | 2024-03-21 | 2024-05-03 |
 | [Childhood](https://open.spotify.com/track/5ZfXfUXQ5BgGw7U8Y4nEfT) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Childhood](https://open.spotify.com/album/4NCx3ON0rvFuramqtPsbkk) | 3:02 | 2025-01-02 | 2025-05-02 |
 | [Childhood Dreams](https://open.spotify.com/track/4iVw5xhBCq3SE45d7K5T1O) | [Grandi](https://open.spotify.com/artist/4u6lKD8oK21c3hoWsz3thW) | [Childhood Dreams](https://open.spotify.com/album/2NyPWRjLfQZjejlgVidDAf) | 3:03 | 2023-08-25 | 2023-09-15 |
@@ -679,7 +680,7 @@
 | [Fruängen](https://open.spotify.com/track/5foc3SckhG8CWzTq3JQ7w1) | [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [Molly från Fruängen](https://open.spotify.com/album/2vQc4MLIdCDZzkSNdSwvB7) | 3:48 | 2024-09-26 | 2025-04-11 |
 | [Fräknar \(500 dagar\)](https://open.spotify.com/track/3Jy9HaBTPyXsfindjkGtsW) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Fräknar \(500 dagar\)](https://open.spotify.com/album/2O3LOCmrA39t1j8azoxKX0) | 3:43 | 2024-05-23 | 2024-06-21 |
 | [Fuck ditt liv](https://open.spotify.com/track/29w6XkR2SlXSd6avlHvejW) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Fuck ditt liv](https://open.spotify.com/album/2PUu9XBFuCzLw8lY2ZChq0) | 2:42 | 2024-08-15 | 2025-03-14 |
-| [Ful](https://open.spotify.com/track/6OWtOWPfwzPlahAaPPOnST) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Ful](https://open.spotify.com/album/5a5CnRPgGPDkiFPvwbAfWn) | 2:39 | 2026-04-30 |  |
+| [Ful](https://open.spotify.com/track/6OWtOWPfwzPlahAaPPOnST) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Ful](https://open.spotify.com/album/5a5CnRPgGPDkiFPvwbAfWn) | 2:39 | 2026-04-30 | 2026-07-05 |
 | [Full på dan](https://open.spotify.com/track/5od9GEWisg8lTv9jmQRz90) | [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1), [Jonas Teglund](https://open.spotify.com/artist/6WrDpCXVSYSwaMv3jhgpuT) | [Full på dan](https://open.spotify.com/album/2TqVA9ey7RvSCv8V6uJoeC) | 3:37 | 2024-03-21 | 2024-05-03 |
 | [Fumbling](https://open.spotify.com/track/30gu79HBDubdcbhmUJOjIy) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Fumbling](https://open.spotify.com/album/1yQnL9bEmohv6UQwiRTBko) | 3:20 | 2025-10-30 | 2026-02-13 |
 | [Funniest Thing](https://open.spotify.com/track/2750HhdibiPb7kY84SEtYX) | [Nomi Tales](https://open.spotify.com/artist/2kHbs6arBtyzIgY5l86m3K) | [Funniest Thing](https://open.spotify.com/album/65Qr7xBuGjO0x1iWicAuze) | 2:54 | 2025-02-06 | 2025-05-23 |
@@ -1886,6 +1887,7 @@
 | [Summertime](https://open.spotify.com/track/74rGeSKxOyoPlty2caAMFA) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C), [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Summertime / Can't Stop](https://open.spotify.com/album/34FVW2V09s0IXrcgjx1AmG) | 4:16 | 2023-09-14 | 2024-01-19 |
 | [Sun](https://open.spotify.com/track/4xMPJOd0L8RbrKVHW1x0t3) | [Name The Pet](https://open.spotify.com/artist/3ud4LE50NSFZxHYDSURGyM), [Janne Schaffer](https://open.spotify.com/artist/1FdRWg2tqR4I7jjA29vWYU) | [Sun](https://open.spotify.com/album/4thDfq25JgSDpeTdrypZLM) | 3:45 | 2021-12-16 | 2022-02-16 |
 | [Sun In Her Eyes](https://open.spotify.com/track/1xFmJ7p9z7p0QTG58NFclN) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Sun In Her Eyes](https://open.spotify.com/album/36RYVATZF9So7O4BLoNeQj) | 3:20 | 2023-06-08 | 2023-10-20 |
+| [Sunflower](https://open.spotify.com/track/7hKd8osKVrmehhIx1FP6Lz) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Sunflower](https://open.spotify.com/album/085BCn8A8f0RIVLiKvsJ3A) | 3:34 | 2026-07-02 |  |
 | [Sunnanvind](https://open.spotify.com/track/7MI98KtBpPqJSG0RcGMTXy) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [Sunnanvind](https://open.spotify.com/album/1WBQ4GY9SM9r3vMqwSOLf2) | 3:15 | 2025-06-16 | 2025-09-19 |
 | [Sunny Days](https://open.spotify.com/track/53sdGp5FZgcpVsg5NPbbiL) | [demekech](https://open.spotify.com/artist/1N6JyEBD4tbmqfLkXPP93l) | [sometime/Sunny Days](https://open.spotify.com/album/5qWgpA67k7vP42pW2RtHmd) | 4:03 | 2022-03-10 | 2022-04-25 |
 | [Sunny Philadelphia](https://open.spotify.com/track/2fXbCD1qSnIG0qbBooXgSU) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Mercedes](https://open.spotify.com/album/0o26UZjh2WtiM2XKTXhKWS) | 3:15 | 2023-10-19 | 2024-01-26 |

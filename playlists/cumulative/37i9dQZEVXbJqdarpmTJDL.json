@@ -4451,6 +4451,28 @@
     },
     {
       "album": {
+        "name": "10 (PART 2)",
+        "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "BoyPanda",
+          "url": "https://open.spotify.com/artist/5ef7ha77ippshsIdZzGnaN"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "ANASA",
+      "url": "https://open.spotify.com/track/11Armj1pAkue0iBdNbNRWp"
+    },
+    {
+      "album": {
         "name": "ANASAINO KAI ZALIZOMAI",
         "url": "https://open.spotify.com/album/2UgIdLydL04XUygE4rqF6j"
       },
@@ -5558,7 +5580,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 151870,
       "name": "ASSOTOS MANH",
       "url": "https://open.spotify.com/track/63BjRZBr7D1vL0vZq4pcgZ"
@@ -11222,7 +11244,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 203000,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/6AICejWzqrCsNSi6vBabb5"
@@ -11262,7 +11284,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 203244,
       "name": "CHATGPT",
       "url": "https://open.spotify.com/track/5m9pK3a3oMIbZHThbyraDi"
@@ -11740,7 +11762,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 154151,
       "name": "CLICK",
       "url": "https://open.spotify.com/track/5diLlqtaVPe2fBPllCFvMi"
@@ -16216,7 +16238,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-19",
+      "date_removed": null,
       "duration_ms": 166666,
       "name": "EILIKRINA",
       "url": "https://open.spotify.com/track/3lmhGDkaxD5rrr2Pqk8U9v"
@@ -22291,6 +22313,28 @@
     },
     {
       "album": {
+        "name": "10 (PART 2)",
+        "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "BoyPanda",
+          "url": "https://open.spotify.com/artist/5ef7ha77ippshsIdZzGnaN"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "GIA MENA",
+      "url": "https://open.spotify.com/track/2Qan3G4rKx7GchbQa5djcW"
+    },
+    {
+      "album": {
         "name": "Metropolis",
         "url": "https://open.spotify.com/album/0r5nD6gx0StXdEVLmdJFjV"
       },
@@ -24160,7 +24204,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 188233,
       "name": "HAHAHA",
       "url": "https://open.spotify.com/track/4agkvRh2xfTlFPfJ5ZpRTQ"
@@ -29142,7 +29186,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 193251,
       "name": "Ki Allo",
       "url": "https://open.spotify.com/track/1APBa1UnvvcrZJGfHNcRUB"
@@ -30312,7 +30356,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 154705,
       "name": "KOUKLA",
       "url": "https://open.spotify.com/track/46jdCQtmK4V8sfJVerFY7g"
@@ -31674,7 +31718,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 130093,
       "name": "Lemonia",
       "url": "https://open.spotify.com/track/3H30HSZsJIL6XK3a5bjQS6"
@@ -53018,7 +53062,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 191379,
       "name": "Sta Kalitera Pou Elkontai - Agapate Katallilous",
       "url": "https://open.spotify.com/track/7w3CkiZG4r01ZZgHjTPYZY"
@@ -59641,6 +59685,24 @@
     },
     {
       "album": {
+        "name": "10 (PART 2)",
+        "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196540,
+      "name": "VACE ZELA",
+      "url": "https://open.spotify.com/track/5h9COSkzE50NuqfLlYOaWg"
+    },
+    {
+      "album": {
         "name": "EYE OF THE TIGER",
         "url": "https://open.spotify.com/album/61sB6y1OGLHk585htCrZET"
       },
@@ -60524,7 +60586,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 167741,
       "name": "VROXI",
       "url": "https://open.spotify.com/track/6IqG2lk4zHOowOMUUmEWin"

@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,673 songs - 6 day 21 hr 3 min
+2,674 songs - 6 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2360,6 +2360,7 @@
 | [明日へ鳴らすリフレイン \- P's GR∞VE Ver.](https://open.spotify.com/track/14mDs8AcPxuMhXuFVPzq9l) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw), [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6), [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S), [Yurika Kubo](https://open.spotify.com/artist/1nip84eOO3g9fTxkaXf8rS), [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS), [立花日菜](https://open.spotify.com/artist/23wuLjb3fhVGMjeuWjmfrL), [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi), [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0), [harmoe](https://open.spotify.com/artist/4wegqzSv4E67Hjwsu0kpHt), [稗田寧々 from DIALOGUE+](https://open.spotify.com/artist/1elIH0yJTLlee5ntfYLFDg), [Suzuko Mimori](https://open.spotify.com/artist/0BNdkdR8pOiC1SYm415sYY), [守屋亨香 from DIALOGUE+](https://open.spotify.com/artist/0cerIM0Rbng5biYTcSQh83) | [明日へ鳴らすリフレイン \-P's GR∞VE Ver.\-](https://open.spotify.com/album/4JEzrS41phkvXxruUjZKDx) | 4:19 | 2025-02-18 | 2025-03-14 |
 | [明日世界が終わるとしても](https://open.spotify.com/track/5ySid9srGoH5flPquFNB3r) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [明日世界が終わるとしても](https://open.spotify.com/album/2Hf0qtnvGHnJxP7odu0aTX) | 3:36 | 2024-10-08 | 2024-11-28 |
 | [明日天気になぁれ](https://open.spotify.com/track/0VygsR73o2EUYL5rscSuhO) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [明日天気になぁれ](https://open.spotify.com/album/2mmSkmKfPhMBWCol28oC7T) | 3:35 | 2026-01-15 | 2026-02-04 |
+| [星](https://open.spotify.com/track/4pLn0el8riGCsXXiSrdZVe) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [星](https://open.spotify.com/album/5bnpi2Wvu789UClfRgENfO) | 3:44 | 2026-07-03 |  |
 | [星が泳ぐ](https://open.spotify.com/track/0MnPdlWm7MSSUnEamZp5lX) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [星が泳ぐ](https://open.spotify.com/album/7KgNsK5MtZJJSdNOFBu738) | 3:59 | 2022-05-28 | 2022-07-08 |
 | [星のクズ α](https://open.spotify.com/track/5MU5Ut06m3owitzqy5Bmvf) | [Salyu](https://open.spotify.com/artist/3hTzQ9eaYtycIY1LnpZp5W), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [星のクズ α](https://open.spotify.com/album/08saxS1jXzuIRnviE8EYi0) | 5:03 | 2023-01-12 | 2023-04-09 |
 | [星の伝言](https://open.spotify.com/track/0Z7iMy2lxYoYsSR0xKnzHs) | [Nao Toyama](https://open.spotify.com/artist/5FQ4vbNwpE1wFGoOPecJB9) | [星の伝言](https://open.spotify.com/album/0ZITtg5Sl3lvVR5Lx5QRQz) | 4:02 | 2024-10-11 | 2025-01-03 |

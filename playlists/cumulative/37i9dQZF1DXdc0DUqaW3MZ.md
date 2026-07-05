@@ -4,7 +4,7 @@
 
 > where future beats meet timeless soul.
 
-496 songs - 1 day 5 hr 1 min
+497 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Can't Even Love Myself](https://open.spotify.com/track/5afL9JeWbEWcs90XEYTHg5) | [Limelight Sound](https://open.spotify.com/artist/39vymr3LLNqqISal4a7yUi) | [Can't Even Love Myself](https://open.spotify.com/album/1ZaQNtm6Gx4dd1nx5PC0Jl) | 2:07 | 2026-02-12 |  |
 | [Can't Get Enough \(feat\. Rachel Chinouriri & Venna\)](https://open.spotify.com/track/7s47cTLl4j1JKawu308yId) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Forward](https://open.spotify.com/album/1pDgEvP1r2JI9HZl39clKx) | 3:17 | 2022-04-11 | 2024-07-19 |
 | [Can't Lie](https://open.spotify.com/track/2u0qxXtibsuJW8b3V8m2EG) | [J P Rose](https://open.spotify.com/artist/0srIcdeVQQaftAQnLSUcAq) | [Can't Lie](https://open.spotify.com/album/75mmw9lDt2DfnRLllkwN3A) | 2:41 | 2021-12-07 | 2022-04-28 |
+| [Carry On](https://open.spotify.com/track/4bChVnAp7U1HdwOQuHmFfh) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Carmy Love](https://open.spotify.com/artist/62oPJocZP6ReE9tuvjaa1t), [Tommy Peach](https://open.spotify.com/artist/0pAMM7OehSi8bjeTO7gfhG) | [Carry On](https://open.spotify.com/album/6lMuIxKOuMJHzJ5aivcvge) | 3:48 | 2026-06-25 |  |
 | [Cascade](https://open.spotify.com/track/1RIbEnRRMMgKxbpiGCV0FU) | [Hashira](https://open.spotify.com/artist/0gTFdxCPLzEUNtbML5pcFv) | [Cascade](https://open.spotify.com/album/7EFUTNFlhR41QUsEYL3KU6) | 5:10 | 2021-12-07 | 2022-04-17 |
 | [Caught in a Lie](https://open.spotify.com/track/0MfnCwZACV6szCJsHoCBAc) | [Fatima](https://open.spotify.com/artist/5uNCGgWH5Id1cW8kh9Sc67) | [And Yet It's All Love](https://open.spotify.com/album/4FlBSRTTHbylHFzVnai1Ul) | 3:32 | 2022-04-11 | 2022-07-12 |
 | [Ceilings](https://open.spotify.com/track/7mhsGyniumwlhCCzR9Tbxa) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Ceilings](https://open.spotify.com/album/4uZ4xeFp4yAzdbyXq9rupI) | 3:47 | 2021-12-07 | 2022-05-18 |
@@ -455,7 +456,7 @@
 | [Time With You](https://open.spotify.com/track/3UbgYcPVG6baxNXt38gLbn) | [Isaac Waddington](https://open.spotify.com/artist/4ebKlOJFmoNuBQLKSEGDuH) | [Time With You](https://open.spotify.com/album/3cC4PdXKIatjTon50clgfr) | 3:26 | 2022-04-11 | 2022-04-17 |
 | [Tomás](https://open.spotify.com/track/0DYtqHz0Rav6PyIWbS1gFa) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Tomás](https://open.spotify.com/album/19BB8M6tNxHMOUWKbxBL0c) | 3:02 | 2025-05-29 | 2025-12-12 |
 | [Too Good for a Bad Thing](https://open.spotify.com/track/42EtLWuJGvehSzXBUdmE3z) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Lessons in Love](https://open.spotify.com/album/17MS1oITaC8VbYmtpXplMV) | 3:11 | 2022-04-11 | 2022-04-13 |
-| [touch](https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [Bad Honey](https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu) | [touch](https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh) | 3:42 | 2024-09-19 |  |
+| [touch](https://open.spotify.com/track/20dwZjiulXW26Pux4Tm7Fh) | [Dejector](https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi), [Bad Honey](https://open.spotify.com/artist/1v6IttLt0U77JKr605EJUu) | [touch](https://open.spotify.com/album/6985sMUAYiGoVOKToO4ggh) | 3:42 | 2024-09-19 | 2026-07-05 |
 | [transcending \(Karen Nyame KG remix\) \- Remix](https://open.spotify.com/track/3IKM5Dt9fZA1CIVbM91CNY) | [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl), [Karen Nyame KG](https://open.spotify.com/artist/2TsxAQQq0xVbjBOPXozFVz) | [this is no longer a dream \[DELUXE\]](https://open.spotify.com/album/6jlID59b6Nin71hhY6DL6d) | 3:35 | 2024-01-03 | 2025-06-16 |
 | [Triangular Blue Marina](https://open.spotify.com/track/3ylgNkwA5u4NDJmVZIQWaz) | [GOVS](https://open.spotify.com/artist/5ZEAO3bZL6fTJU8tDT0eQS) | [Coast Guard](https://open.spotify.com/album/2khaSKQj5TAyYYYRQ2kbNl) | 2:21 | 2022-04-11 | 2022-04-21 |
 | [Trippin'](https://open.spotify.com/track/1yvrUbu1SHG3EHm3ZIVFt9) | [Joe Hertz](https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman), [Ryahn](https://open.spotify.com/artist/5Jy9GTHj3hkaEhsJQfCVAX) | [Trippin'](https://open.spotify.com/album/5b78Gr6BnjBAb2sg49uSVN) | 2:40 | 2022-04-11 | 2022-04-20 |

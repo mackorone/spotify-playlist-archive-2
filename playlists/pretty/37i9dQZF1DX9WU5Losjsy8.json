@@ -1,6 +1,6 @@
 {
   "description": "Mit dieser Playlist h\u00f6rt die Party nie auf!",
-  "num_followers": 497427,
+  "num_followers": 497481,
   "original_name": "Malle Party 2026",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,18 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
-        "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
-        "url": "https://open.spotify.com/album/2ne4bOGkdiZKbc7vO3Upfa"
+        "name": "Farbenspiel",
+        "url": "https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx"
       },
       "artists": [
         {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        },
-        {
-          "name": "Luca-Dante Spadafora",
-          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
         }
       ],
-      "duration_ms": 136551,
-      "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
-      "url": "https://open.spotify.com/track/7loscGnLhciYbQYJSuRyVW"
+      "duration_ms": 219720,
+      "name": "Atemlos durch die Nacht",
+      "url": "https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN"
     },
     {
       "added_at": "2026-06-25 22:00:54",
@@ -171,18 +167,22 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
-        "name": "Farbenspiel",
-        "url": "https://open.spotify.com/album/7MTjxNeS3N8XNuUm4BxjSx"
+        "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
+        "url": "https://open.spotify.com/album/2ne4bOGkdiZKbc7vO3Upfa"
       },
       "artists": [
         {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Luca-Dante Spadafora",
+          "url": "https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB"
         }
       ],
-      "duration_ms": 219720,
-      "name": "Atemlos durch die Nacht",
-      "url": "https://open.spotify.com/track/1cSXzDZt8vzuUp2XREQEJN"
+      "duration_ms": 136551,
+      "name": "WENN ICH N\u00dcCHTERN W\u00c4R",
+      "url": "https://open.spotify.com/track/7loscGnLhciYbQYJSuRyVW"
     },
     {
       "added_at": "2026-06-25 22:00:54",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
-        "name": "Dachdecker",
-        "url": "https://open.spotify.com/album/6txza9JeDWBc1MhyXu5vRi"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        }
-      ],
-      "duration_ms": 201103,
-      "name": "Dachdecker",
-      "url": "https://open.spotify.com/track/3cfI9iCdGgHTCxiZa6Q9AC"
-    },
-    {
-      "added_at": "2026-06-25 22:00:54",
-      "album": {
         "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
         "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 240761,
       "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
       "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
+    },
+    {
+      "added_at": "2026-06-25 22:00:54",
+      "album": {
+        "name": "Dachdecker",
+        "url": "https://open.spotify.com/album/6txza9JeDWBc1MhyXu5vRi"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        }
+      ],
+      "duration_ms": 201103,
+      "name": "Dachdecker",
+      "url": "https://open.spotify.com/track/3cfI9iCdGgHTCxiZa6Q9AC"
     },
     {
       "added_at": "2026-06-25 22:00:54",
@@ -347,6 +347,22 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
+        "name": "Helene Fischer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
+      },
+      "artists": [
+        {
+          "name": "Helene Fischer",
+          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "Herzbeben",
+      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
+    },
+    {
+      "added_at": "2026-06-25 22:00:54",
+      "album": {
         "name": "Schaukelpferd",
         "url": "https://open.spotify.com/album/0W9x3dzwrx05nF5aqAzq4k"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 181448,
       "name": "Schaukelpferd",
       "url": "https://open.spotify.com/track/7psH4sJy3YeNzTNnbQthjX"
-    },
-    {
-      "added_at": "2026-06-25 22:00:54",
-      "album": {
-        "name": "Helene Fischer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5xCP0uiTwilsEQpnnQQZuR"
-      },
-      "artists": [
-        {
-          "name": "Helene Fischer",
-          "url": "https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "Herzbeben",
-      "url": "https://open.spotify.com/track/5mWceciQV51RPCBQCLAm3U"
     },
     {
       "added_at": "2026-06-25 22:00:54",
@@ -891,34 +891,6 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
-        "name": "Auf uns",
-        "url": "https://open.spotify.com/album/4WlXgGmTpei2JSDB3cbhQU"
-      },
-      "artists": [
-        {
-          "name": "KALUMA",
-          "url": "https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw"
-        },
-        {
-          "name": "MXM",
-          "url": "https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4"
-        },
-        {
-          "name": "Chris van Dutch",
-          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
-        },
-        {
-          "name": "Marlon Falter",
-          "url": "https://open.spotify.com/artist/6h8wCD4lgiCGXNTvXlHYJC"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Auf uns",
-      "url": "https://open.spotify.com/track/6EtaQZ17DcFWychSvbLyAc"
-    },
-    {
-      "added_at": "2026-06-25 22:00:54",
-      "album": {
         "name": "VAMOS",
         "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
       },
@@ -955,6 +927,34 @@
       "duration_ms": 165520,
       "name": "Keine Freunde bleiben (feat. Mia Julia)",
       "url": "https://open.spotify.com/track/0EULWVqXc1O6SLccguCoTH"
+    },
+    {
+      "added_at": "2026-06-25 22:00:54",
+      "album": {
+        "name": "Auf uns",
+        "url": "https://open.spotify.com/album/4WlXgGmTpei2JSDB3cbhQU"
+      },
+      "artists": [
+        {
+          "name": "KALUMA",
+          "url": "https://open.spotify.com/artist/4dgLZMavMm3danubiJxbtw"
+        },
+        {
+          "name": "MXM",
+          "url": "https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4"
+        },
+        {
+          "name": "Chris van Dutch",
+          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
+        },
+        {
+          "name": "Marlon Falter",
+          "url": "https://open.spotify.com/artist/6h8wCD4lgiCGXNTvXlHYJC"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Auf uns",
+      "url": "https://open.spotify.com/track/6EtaQZ17DcFWychSvbLyAc"
     },
     {
       "added_at": "2026-06-25 22:00:54",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
+        "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
+        "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
+      },
+      "artists": [
+        {
+          "name": "Matthias Reim",
+          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
+        }
+      ],
+      "duration_ms": 217680,
+      "name": "Verdammt Ich lieb' dich",
+      "url": "https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj"
+    },
+    {
+      "added_at": "2026-06-25 22:00:54",
+      "album": {
         "name": "ANALYSiEREN",
         "url": "https://open.spotify.com/album/6LrbfDtYXHaAT4oiwa9LY2"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 155513,
       "name": "ANALYSiEREN",
       "url": "https://open.spotify.com/track/34buWaz6Az55gBmXCUajm2"
-    },
-    {
-      "added_at": "2026-06-25 22:00:54",
-      "album": {
-        "name": "D\u00e9j\u00e0 Vu - Das Beste Von Matthias Reim",
-        "url": "https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f"
-      },
-      "artists": [
-        {
-          "name": "Matthias Reim",
-          "url": "https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3"
-        }
-      ],
-      "duration_ms": 217680,
-      "name": "Verdammt Ich lieb' dich",
-      "url": "https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj"
     },
     {
       "added_at": "2026-06-25 22:00:54",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
-        "name": "K\u00e4pt'n Morgen",
-        "url": "https://open.spotify.com/album/7AxIlCtJ9HucWsmburWi9A"
-      },
-      "artists": [
-        {
-          "name": "Sch\u00fcrze",
-          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
-        }
-      ],
-      "duration_ms": 158785,
-      "name": "K\u00e4pt'n Morgen",
-      "url": "https://open.spotify.com/track/5uGacwxeGDV4RSDYqgMGmZ"
-    },
-    {
-      "added_at": "2026-06-25 22:00:54",
-      "album": {
         "name": "Wir eskalieren",
         "url": "https://open.spotify.com/album/2XgIdJXUCfdSJIbXAglyHA"
       },
@@ -1379,18 +1363,18 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
-        "name": "MDMA",
-        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
+        "name": "K\u00e4pt'n Morgen",
+        "url": "https://open.spotify.com/album/7AxIlCtJ9HucWsmburWi9A"
       },
       "artists": [
         {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+          "name": "Sch\u00fcrze",
+          "url": "https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ"
         }
       ],
-      "duration_ms": 128713,
-      "name": "MDMA",
-      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
+      "duration_ms": 158785,
+      "name": "K\u00e4pt'n Morgen",
+      "url": "https://open.spotify.com/track/5uGacwxeGDV4RSDYqgMGmZ"
     },
     {
       "added_at": "2026-06-25 22:00:54",
@@ -1407,6 +1391,22 @@
       "duration_ms": 149160,
       "name": "Bring mich nach Hause",
       "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
+    },
+    {
+      "added_at": "2026-06-25 22:00:54",
+      "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
+      },
+      "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 128713,
+      "name": "MDMA",
+      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
     },
     {
       "added_at": "2026-06-25 22:00:54",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2026-06-25 22:00:54",
       "album": {
-        "name": "Ich liebe das Leben (Stereoact #Remix)",
-        "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
-      },
-      "artists": [
-        {
-          "name": "Vicky Leandros",
-          "url": "https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ"
-        },
-        {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
-        }
-      ],
-      "duration_ms": 203900,
-      "name": "Ich liebe das Leben - Stereoact #Remix",
-      "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
-    },
-    {
-      "added_at": "2026-06-25 22:00:54",
-      "album": {
         "name": "Mond",
         "url": "https://open.spotify.com/album/6JrJM7ahscLMaqIClLDq85"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 164275,
       "name": "Mond",
       "url": "https://open.spotify.com/track/5wY5kS4pIvLHQqESdP4fbf"
+    },
+    {
+      "added_at": "2026-06-25 22:00:54",
+      "album": {
+        "name": "Chaos im Kopf",
+        "url": "https://open.spotify.com/album/0FIzghsHDMcpasJlE9VRdJ"
+      },
+      "artists": [
+        {
+          "name": "Isi Gl\u00fcck",
+          "url": "https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Chaos im Kopf",
+      "url": "https://open.spotify.com/track/1rrYKXHFlGuA9jBNoxok6C"
     }
   ],
   "unique_name": "Malle Party 2026",

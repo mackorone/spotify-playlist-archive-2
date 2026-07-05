@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-177 songs - 10 hr 17 min
+181 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,14 +130,18 @@
 | [save your words](https://open.spotify.com/track/1wQ2R6aecRThAisPlhXkLx) | [michelle gwod](https://open.spotify.com/artist/6b6RbgjmL09vWr2L9G2HyL) | [save your words](https://open.spotify.com/album/76rsI0ClezjwUCu4kQQIrx) | 2:30 | 2026-06-13 |  |
 | [Selfish Song](https://open.spotify.com/track/38lFq4m55EmIGIn39UqluL) | [Amedeo Orlandi](https://open.spotify.com/artist/0AjSSKpvPNGbs4MpUi3MXH) | [Selfish Song](https://open.spotify.com/album/6ItdXN8Nc1Rj3LnJ5QtW9k) | 3:55 | 2025-11-12 | 2026-03-15 |
 | [Semente \(Cê Mente\)](https://open.spotify.com/track/4GZhUYBuGmrfE9tUQ3weFN) | [Wolf Fechus](https://open.spotify.com/artist/75utKhzIijUveDLv1iSAhF), [Iza Molinari](https://open.spotify.com/artist/32oYjzL7UXoGkr75PWDST2) | [Semente \(Cê Mente\)](https://open.spotify.com/album/7vbzb6nkW7SUUOkaLgRiuy) | 3:10 | 2025-11-01 | 2025-12-09 |
+| [Sexy FreakA'Licious](https://open.spotify.com/track/0F6kLRMq4OACLAxyJhYNWk) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Voices In My Head](https://open.spotify.com/album/72DfBlLmdUjZw7r2WRRwBt) | 3:07 | 2026-07-04 |  |
 | [Shame](https://open.spotify.com/track/2fQOgFbGu8J4yq32HP4864) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Shame](https://open.spotify.com/album/4iKDad2F2gQyFU49uZ9not) | 3:12 | 2026-02-01 |  |
 | [Sixteen](https://open.spotify.com/track/5EhFJlJRwpP5WLYcslNRFG) | [Paris Heart](https://open.spotify.com/artist/1zd1nUPhQbqxICwQuxNPFA) | [Sixteen](https://open.spotify.com/album/0p2nPv9Es0lM55owbWi4b4) | 2:42 | 2026-06-02 |  |
 | [Slam Dunk](https://open.spotify.com/track/0asprWWnSSVaYhWvmRKDgb) | [Aishe](https://open.spotify.com/artist/6lXZYPpYrkt4jbBawRJ6qA) | [Slam Dunk](https://open.spotify.com/album/6IMcApH01rfqNtTdvWEoN6) | 2:03 | 2025-11-12 | 2026-03-15 |
+| [Someone Else's Day](https://open.spotify.com/track/721821c6VMPC4uRmUciT4I) | [Neatly Drawn Blinds](https://open.spotify.com/artist/1ZWxWqVwTX6GOuXNn9L4hY) | [Someone Else's Day](https://open.spotify.com/album/35u9wOG99ZNhkdkHOsGYsW) | 3:03 | 2026-07-04 |  |
 | [Songbird](https://open.spotify.com/track/7FKST7WmlWa4RKcr6RNEQE) | [DataBass](https://open.spotify.com/artist/2Rvog1SN7fG6KPC2KDbjM4) | [Songbird](https://open.spotify.com/album/63eb3gQjXxJUflcgKMTBy3) | 3:42 | 2025-11-24 | 2026-06-14 |
 | [Sorrow](https://open.spotify.com/track/03WwAoY5g9cuENQZ8STzXn) | [The Scree Fall](https://open.spotify.com/artist/34Sey5DRlJEnCm3TEEk7cE) | [Steel Birds Scream](https://open.spotify.com/album/5W6X8kOGx698haoq3iR8yO) | 4:35 | 2025-10-27 | 2025-12-09 |
 | [Sound of Light](https://open.spotify.com/track/71gkWgNLSZ5uDbS7M4C1nU) | [Regaid](https://open.spotify.com/artist/7rNlzcc9g3TcoHqMHfuFf3) | [ASCEND](https://open.spotify.com/album/3hTGLxsQvFuDnOgR6T47LT) | 2:26 | 2025-11-09 | 2025-12-09 |
 | [Spotkamy Się](https://open.spotify.com/track/0o8WYe52SJCuH6AJXfaqfl) | [Piglets DDeep Forest](https://open.spotify.com/artist/6yS1xH7mEPy1iKQliItoeY) | [Spotkamy Się](https://open.spotify.com/album/4XLheMiPz8YUwEL9Q1TXnG) | 6:34 | 2026-03-06 |  |
 | [Stand Up & Be Counted](https://open.spotify.com/track/1PQ0PlBi5kLbr5KwWgSQTL) | [Elysium](https://open.spotify.com/artist/2NC1GXUAZDH9D8uu809kXg) | [Stand Up & Be Counted](https://open.spotify.com/album/1Yq6WXlcFcTgksdh0UP9Ig) | 4:42 | 2026-06-16 |  |
+| [Starfalls](https://open.spotify.com/track/6ZovhFOyc06N6HIYXm0HiG) | [the sets](https://open.spotify.com/artist/3HmGzhNX02d5uG5ZSwI2my) | [Starfalls](https://open.spotify.com/album/0i15SKz5PoOeRv7NsgadK6) | 3:14 | 2026-07-04 |  |
+| [Stolen Youth](https://open.spotify.com/track/5L1ZtnPyztBReHpcSDhynz) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Stolen Youth](https://open.spotify.com/album/60sXsHPRz2Muij3B3NXeee) | 3:36 | 2026-07-04 |  |
 | [Stop Bugging Me](https://open.spotify.com/track/6vB5GtdaVnKxI9oKLSJp1I) | [A&A Music](https://open.spotify.com/artist/44JpteVluI2YY0TpZw3E2a) | [Stop Bugging Me](https://open.spotify.com/album/1cvkR5d7O9u6exG68IQjwi) | 2:54 | 2026-06-13 |  |
 | [Stuck](https://open.spotify.com/track/4oCcsKI1Ju2gBR3HrSMqIR) | [3Towns](https://open.spotify.com/artist/2ZX5qcRLXJik7H78HU5Kn9) | [11 Miles from Everywhere](https://open.spotify.com/album/2JnOzHgwdVHOMGceruB0We) | 4:01 | 2025-11-11 | 2026-03-15 |
 | [Sword And Shield](https://open.spotify.com/track/2R71lylNwv67mmPBwjTCYS) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Sword And Shield](https://open.spotify.com/album/7GIM4hfDcnStwIdShQnNym) | 3:26 | 2025-11-11 | 2026-03-15 |

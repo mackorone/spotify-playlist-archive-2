@@ -1,12 +1,12 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 112822,
+  "num_followers": 112819,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACiO+Q35LPvYmBOV950f/VoYTUrY",
+  "snapshot_id": "AAAAAC8plM/0wy92xudwUZaOegY3jfKX",
   "tracks": [
     {
       "added_at": "2026-06-26 08:33:43",
@@ -503,26 +503,6 @@
     {
       "added_at": "2026-06-26 08:33:43",
       "album": {
-        "name": "Decyzje",
-        "url": "https://open.spotify.com/album/6uYOJ4jwogpsfI4q80MS65"
-      },
-      "artists": [
-        {
-          "name": "Vito Bambino",
-          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
-        },
-        {
-          "name": "Zalia",
-          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Decyzje",
-      "url": "https://open.spotify.com/track/4LMQdvzEt5z4D14Rr2frwH"
-    },
-    {
-      "added_at": "2026-06-26 08:33:43",
-      "album": {
         "name": "P\u00f3\u017aniej Ci opowiem",
         "url": "https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 185346,
       "name": "P\u00f3\u017aniej Ci opowiem",
       "url": "https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon"
+    },
+    {
+      "added_at": "2026-06-26 08:33:43",
+      "album": {
+        "name": "Decyzje",
+        "url": "https://open.spotify.com/album/6uYOJ4jwogpsfI4q80MS65"
+      },
+      "artists": [
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        },
+        {
+          "name": "Zalia",
+          "url": "https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Decyzje",
+      "url": "https://open.spotify.com/track/4LMQdvzEt5z4D14Rr2frwH"
     },
     {
       "added_at": "2026-06-26 08:33:43",
@@ -895,26 +895,6 @@
     {
       "added_at": "2026-06-26 08:33:43",
       "album": {
-        "name": "\u015awiat\u0142ocienie EP",
-        "url": "https://open.spotify.com/album/2gT5d3yzS9w4wLEOiKLrKw"
-      },
-      "artists": [
-        {
-          "name": "Vixen",
-          "url": "https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO"
-        },
-        {
-          "name": "Tabb",
-          "url": "https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ"
-        }
-      ],
-      "duration_ms": 161656,
-      "name": "A Nu\u017c",
-      "url": "https://open.spotify.com/track/31TGp1ujsdzJ65Qql26Ijv"
-    },
-    {
-      "added_at": "2026-06-26 08:33:43",
-      "album": {
         "name": "Co mi tam",
         "url": "https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 167652,
       "name": "Co mi tam",
       "url": "https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7"
+    },
+    {
+      "added_at": "2026-06-26 08:33:43",
+      "album": {
+        "name": "\u015awiat\u0142ocienie EP",
+        "url": "https://open.spotify.com/album/2gT5d3yzS9w4wLEOiKLrKw"
+      },
+      "artists": [
+        {
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO"
+        },
+        {
+          "name": "Tabb",
+          "url": "https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ"
+        }
+      ],
+      "duration_ms": 161656,
+      "name": "A Nu\u017c",
+      "url": "https://open.spotify.com/track/31TGp1ujsdzJ65Qql26Ijv"
     },
     {
       "added_at": "2026-06-26 08:33:43",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-06-26 08:33:43",
       "album": {
+        "name": "Wo\u0142am",
+        "url": "https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41"
+      },
+      "artists": [
+        {
+          "name": "Maciej Skiba",
+          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
+        }
+      ],
+      "duration_ms": 166315,
+      "name": "Wo\u0142am",
+      "url": "https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y"
+    },
+    {
+      "added_at": "2026-06-26 08:33:43",
+      "album": {
         "name": "G\u0119sty dym (ca\u0142y Ty ca\u0142a ja)",
         "url": "https://open.spotify.com/album/1zqWYI1gG5OYSKxNTKeCfm"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 125624,
       "name": "G\u0119sty dym (ca\u0142y Ty ca\u0142a ja)",
       "url": "https://open.spotify.com/track/7o8FRyR08PuUMWRlW6jDsV"
-    },
-    {
-      "added_at": "2026-06-26 08:33:43",
-      "album": {
-        "name": "Wo\u0142am",
-        "url": "https://open.spotify.com/album/5OPhfeaaotZnwRn5fx0m41"
-      },
-      "artists": [
-        {
-          "name": "Maciej Skiba",
-          "url": "https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq"
-        }
-      ],
-      "duration_ms": 166315,
-      "name": "Wo\u0142am",
-      "url": "https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y"
     },
     {
       "added_at": "2026-06-26 08:33:43",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2026-06-26 08:33:43",
       "album": {
+        "name": "PARANOJA",
+        "url": "https://open.spotify.com/album/3QtM4vAwBExJsuWJSnx7dz"
+      },
+      "artists": [
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "duration_ms": 116885,
+      "name": "PARANOJA",
+      "url": "https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D"
+    },
+    {
+      "added_at": "2026-06-26 08:33:43",
+      "album": {
         "name": "Tylko My",
         "url": "https://open.spotify.com/album/199kLe1uSOlO4TwseBuOVl"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 181565,
       "name": "SEN",
       "url": "https://open.spotify.com/track/1Gc4ROFZUlEupmjMGKLSe2"
-    },
-    {
-      "added_at": "2026-06-26 08:33:43",
-      "album": {
-        "name": "PARANOJA",
-        "url": "https://open.spotify.com/album/3QtM4vAwBExJsuWJSnx7dz"
-      },
-      "artists": [
-        {
-          "name": "Hugo Tarres",
-          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
-        }
-      ],
-      "duration_ms": 116885,
-      "name": "PARANOJA",
-      "url": "https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D"
     }
   ],
   "unique_name": "... ale najpierw kawa",

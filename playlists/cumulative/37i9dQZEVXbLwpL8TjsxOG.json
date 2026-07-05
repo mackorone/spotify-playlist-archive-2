@@ -6566,7 +6566,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 231535,
       "name": "Gimme Gimme",
       "url": "https://open.spotify.com/track/39ExV9Bb9I07obU2GEvebh"
@@ -8944,7 +8944,7 @@
       ],
       "date_added": "2026-03-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 227660,
       "name": "Into the Sun",
       "url": "https://open.spotify.com/track/1ZNolq7VI7efGlh2hb2VVr"
@@ -14328,7 +14328,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 178241,
       "name": "Rude Boy",
       "url": "https://open.spotify.com/track/0QVZGqjKyP0rQveBZsCdEm"
@@ -17000,7 +17000,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 189941,
       "name": "Take That",
       "url": "https://open.spotify.com/track/2Q66ChjPr3wNvE1DvybiKf"
@@ -22441,6 +22441,24 @@
     },
     {
       "album": {
+        "name": "\u54c8\u59c6\u96f7\u7279\u4e0b\u73ed\u4e86",
+        "url": "https://open.spotify.com/album/1l3vTtRqKbP553A9v4a6EY"
+      },
+      "artists": [
+        {
+          "name": "Kiri T",
+          "url": "https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222091,
+      "name": "\u54c8\u59c6\u96f7\u7279\u4e0b\u73ed\u4e86",
+      "url": "https://open.spotify.com/track/4UGBeUliAqPmFhhtpDq8lT"
+    },
+    {
+      "album": {
         "name": "101",
         "url": "https://open.spotify.com/album/3einZWT5Kn6SEDLXiJ70BD"
       },
@@ -24310,7 +24328,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 257013,
       "name": "\u6211\u672c\u4eba",
       "url": "https://open.spotify.com/track/55z4ZnZNJEJBn9hPrekE4f"
@@ -28278,7 +28296,7 @@
       ],
       "date_added": "2026-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 182862,
       "name": "\u82b1\u908a\u7d30\u80de",
       "url": "https://open.spotify.com/track/6IsPYRqlNhhVLr9o3jWquT"
@@ -29936,7 +29954,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 219385,
       "name": "\u9ed1\u73bb\u7483",
       "url": "https://open.spotify.com/track/65TyCkIJtF8hDF599vCXwe"

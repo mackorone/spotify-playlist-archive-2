@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 11 | [Ride \(feat\. Young Thug\)](https://open.spotify.com/track/2H5bVnyhhffT7pKFvY04TB) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 3:00 |
 | 12 | [No Rest](https://open.spotify.com/track/3wEtRQY0YnKT9pkMDkpTeG) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Feed Tha Streets III](https://open.spotify.com/album/2ZiBfBw770CJC0f4SI1Tji) | 2:34 |
 | 13 | [Wanna Be Myself](https://open.spotify.com/track/38EMs44DpiWdDEk246yt8T) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [These Things Happen Too](https://open.spotify.com/album/4j7Y3vNhgBBRAujJl85UDk) | 4:36 |
-| 14 | [Justified](https://open.spotify.com/track/5oUjKkbMDkVUkQ4cirjHwF) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [STILL EMO](https://open.spotify.com/album/3CDhdWD9GZB7Sj0QNnZ78y) | 2:45 |
-| 15 | [Temblar](https://open.spotify.com/track/5y9L1Aq7sZPcomBgEdPRqT) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 2:51 |
+| 14 | [Temblar](https://open.spotify.com/track/5y9L1Aq7sZPcomBgEdPRqT) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 2:51 |
+| 15 | [Justified](https://open.spotify.com/track/5oUjKkbMDkVUkQ4cirjHwF) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C) | [STILL EMO](https://open.spotify.com/album/3CDhdWD9GZB7Sj0QNnZ78y) | 2:45 |
 | 16 | [Fuck You Too](https://open.spotify.com/track/27h3yBSFjfgWE3W3DKOknf) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [When I Was Dead](https://open.spotify.com/album/65SsQtOf5Cd25fanX62XRR) | 3:26 |
 | 17 | [Issues](https://open.spotify.com/track/73RF3sAfPudbZ57jChqhiv) | [Yung Pinch](https://open.spotify.com/artist/61qMnYXa1GxSBoV3IiYKjZ) | [Issues](https://open.spotify.com/album/1fXSKNUR40ajVJvD4inDly) | 2:46 |
 | 18 | [Life Goes On](https://open.spotify.com/track/1mXtEf59XtQ8mQtHL3Had6) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [Life Goes On](https://open.spotify.com/album/63a9YKa0yTquyvq3O1Ce5W) | 2:46 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPuUMfySOlJb.md) - [plain]
 | 39 | [Love Affair](https://open.spotify.com/track/5sMJBNiyvqN0UviPH4x3wu) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq) | [Hood Mona Lisa](https://open.spotify.com/album/2jYJnqma1UFlZz8OqTrsar) | 2:34 |
 | 40 | [FellInLoveWithAThug](https://open.spotify.com/track/1uVItMXV0MEM3h1XZSDQoH) | [Krimelife Ca$$](https://open.spotify.com/artist/0ZMIyR3pxywqRD66PVrhqj) | [Urban Legend](https://open.spotify.com/album/3dZFUb3lzP3U6sojUTYeme) | 1:53 |
 
-Snapshot ID: `AcV5iAAAAAD/TJP7689o8kzVDtHC3R2s`
+Snapshot ID: `AcV/KAAAAACnxa2TZA/o+qqgT/S2Q5uq`

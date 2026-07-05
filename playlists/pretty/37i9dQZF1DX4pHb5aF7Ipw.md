@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Varinder Brar, Garry Sandhu & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,206 likes - 74 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,230 likes - 74 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 22 | [Falling Stars](https://open.spotify.com/track/3lkyK6MyQ2Iz5PUx4kpO1k) | [Swarjit Singh](https://open.spotify.com/artist/6KHH8HuW6UQCGeBujB1jxN), [Toofan Singh Gill](https://open.spotify.com/artist/3BZO6xRKyeYhG6y0jXOUvz), [Star DX](https://open.spotify.com/artist/2VHg6ErNXxs0ARpTqlSF1b) | [Falling Stars](https://open.spotify.com/album/6FJe0puYDCg2bfyRrhwRgC) | 2:50 |
 | 23 | [FXCKOPPS](https://open.spotify.com/track/0WOvVDk9fkkkScmrbfLD6F) | [4tee7ven](https://open.spotify.com/artist/6EjilIQSEv30SRtJCx506v), [Jee Pro Beats](https://open.spotify.com/artist/05hXkdZe2i2rwXjnHsgChz) | [FXCKOPPS](https://open.spotify.com/album/0lLBNHkCSnlUKXJyJDUCWI) | 2:30 |
 | 24 | [West UP](https://open.spotify.com/track/70r3oXsMzg052Py3HQoPpz) | [CheemaBeatz](https://open.spotify.com/artist/3QEIlc0qx1Aq84jCd8RfXu), [RATED TG](https://open.spotify.com/artist/5rjheLV3CFsipqTV0EC3xg), [Basi The Rapper](https://open.spotify.com/artist/5JrmWeHLGI0UegFnQZWMd3) | [West UP](https://open.spotify.com/album/2xPPwc1Zb09SQUnK7nmjYF) | 2:19 |
-| 25 | [LOVE LOVE LOVE](https://open.spotify.com/track/1KNRRDELzF0qliP0HPLwXD) | [Jeet](https://open.spotify.com/artist/6IJNSJqNAZeRupt3fcmz0e) | [LOVE LOVE LOVE](https://open.spotify.com/album/7qrKnxml05K16UYmm0kin4) | 3:01 |
+| 25 | [LOVE LOVE LOVE](https://open.spotify.com/track/1KNRRDELzF0qliP0HPLwXD) | [Jeet](https://open.spotify.com/artist/6IJNSJqNAZeRupt3fcmz0e), [Franxccy](https://open.spotify.com/artist/2BH6sjIGE23EJh7tV3z2l7) | [LOVE LOVE LOVE](https://open.spotify.com/album/7qrKnxml05K16UYmm0kin4) | 3:01 |
 | 26 | [Sin Prisa](https://open.spotify.com/track/7JoyhHjWCPTFyGupqr7KWh) | [HARRY PB65](https://open.spotify.com/artist/5C7X8CsxBxF0thLdH4gYLE), [Akash Choubey](https://open.spotify.com/artist/2FOq5XCofJ7Ps5c8aMRRax) | [Sin Prisa](https://open.spotify.com/album/6xVFVjTb2xMx3tuTpGFDRG) | 1:23 |
 | 27 | [Tell Me More](https://open.spotify.com/track/5dDVFEirWAq0R1bp1MfvyR) | [Gavy Mann](https://open.spotify.com/artist/19nD2JfZACoHOQo9hqxkvP) | [Tell Me More](https://open.spotify.com/album/6k7J1BSNqdhitm5hbcknsD) | 2:38 |
 | 28 | [Low Fade](https://open.spotify.com/track/4CZl2BQkGPIFK99cf6jTAz) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Low Fade](https://open.spotify.com/album/4OMBxFEkBo4MHCTTRP90Jf) | 2:55 |

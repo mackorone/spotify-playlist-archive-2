@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,496 songs - 10 day 0 hr 50 min
+4,497 songs - 10 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1028,6 +1028,7 @@
 | [Digital Stardust \(another\)](https://open.spotify.com/track/1HiQzQgt8Gh9a3G0Hun3JN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Glitchy hyperpop pop electronic music](https://open.spotify.com/album/4UIMT4cWfdIo2ryLabHXYo) | 3:03 | 2025-09-12 |  |
 | [Dil Banjara](https://open.spotify.com/track/13b7r0ioPRxL8D1QCdfo0C) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Banjara](https://open.spotify.com/album/1wiGzAI2FYVNW07Ur8DU9b) | 3:26 | 2026-06-29 |  |
 | [Dil Ye Dhadakta Hi Nahin](https://open.spotify.com/track/55fZN6QYUzsBIdni2Gy1P7) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Ye Dhadakta Hi Nahin](https://open.spotify.com/album/2edQIILVtKKEpc56UC8m4H) | 3:57 | 2026-05-26 |  |
+| [Dil Ye Dhadakta Hi Nahin \- Extended Version](https://open.spotify.com/track/2EICWOdqnZYMmeNhLlD5df) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Ye Dhadakta Hi Nahin](https://open.spotify.com/album/5ER11kVPBVRPXgqIDsNwUV) | 3:01 | 2026-07-04 |  |
 | [Dil Ye Dhadakta Hi Nahin \- Reprise](https://open.spotify.com/track/55rkCD94THKPTUvsuifkq8) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Ye Dhadakta Hi Nahin \(Reprise\)](https://open.spotify.com/album/5h2xUzlizawzxOFfOxkHOm) | 4:36 | 2026-05-27 |  |
 | [Diluvio universale](https://open.spotify.com/track/6msU8Qt2FZ2HRuaLp51iAW) | [Artika](https://open.spotify.com/artist/0nhv8t4yAqnGrqQkeMyVh6) | [Diluvio universale](https://open.spotify.com/album/20LNSwv0uUgxQEJJWqQaIm) | 3:00 | 2025-01-27 |  |
 | [Dime](https://open.spotify.com/track/1x7nexEBA4cv0FDN4Jat8L) | [Duncan Dhu](https://open.spotify.com/artist/2MLHBMApNE5h8wIufiTPs7) | [Piedras](https://open.spotify.com/album/7JPVphExpPOjt0wVBkNBzb) | 4:55 | 2026-03-15 |  |

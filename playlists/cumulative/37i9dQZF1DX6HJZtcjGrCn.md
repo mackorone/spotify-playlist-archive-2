@@ -4,7 +4,7 @@
 
 > Música independente\. A tua alternativa ao mainstream\. Foto: Benjamim
 
-524 songs - 1 day 7 hr 3 min
+525 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Good Grief](https://open.spotify.com/track/6pFmi8RgLNHLB7nOan39RA) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\(\(\(\(\(ultraSOUND\)\)\)\)\)+](https://open.spotify.com/album/5Wa03W4vfkVvMETp0QOKcZ) | 4:21 | 2026-02-20 | 2026-04-10 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-09-20 |  |
 | [Good People](https://open.spotify.com/track/4Ybpltno0jRxFI4wH2yXOK) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Good People](https://open.spotify.com/album/7D1a13Dz2xlg4LY0avlTni) | 3:06 | 2024-06-20 | 2025-01-10 |
+| [Gospel Oak](https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing \(B Sides\)](https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib) | 2:35 | 2026-07-02 |  |
 | [Guitar Song](https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/3UiWB5zpOP7gUIhnpvRwW8) | 3:57 | 2024-07-18 | 2025-01-10 |
 | [Happen To Me](https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Hey u x](https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF) | 3:51 | 2026-02-13 | 2026-02-20 |
 | [Hazy](https://open.spotify.com/track/7DpRyhc5dbAYAiWalOu237) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Hazy](https://open.spotify.com/album/69HmW1adrp17cediFfhRtK) | 2:18 | 2025-03-07 | 2025-04-11 |
@@ -351,7 +352,7 @@
 | [Os Bravos – II\. RAIA](https://open.spotify.com/track/2xNr71RUJ0Q6o6rsN4fwfb) | [Mocho Gris](https://open.spotify.com/artist/6ZCivSkSKalzlPiD9bmrBD) | [Os Bravos – II\. RAIA](https://open.spotify.com/album/4xiWbEZJGnNx2MVL1E3VS9) | 4:07 | 2024-09-05 | 2024-10-15 |
 | [Os Dias do Nada](https://open.spotify.com/track/13LHHRZ43IXJjdmlzeyLW5) | [Benjamim](https://open.spotify.com/artist/1Il7ZCAkjBtdsg9skLwlOc) | [Os Dias do Nada](https://open.spotify.com/album/02hvdmED4xI0aGqLZGh7aw) | 3:45 | 2026-07-02 |  |
 | [outro fim](https://open.spotify.com/track/7AdFZaaQbSzJdpU0JtnRMm) | [Latte](https://open.spotify.com/artist/4hUwAsnHVXjrHIeI27HQ0Y) | [escrevi canções e são todas iguais](https://open.spotify.com/album/12S42c1GgDl8gkDpRxjuyN) | 2:49 | 2026-03-27 | 2026-05-01 |
-| [Palomino \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Palomino \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7) | 3:10 | 2025-10-09 |  |
+| [Palomino \- From the Netflix Series "Nobody Wants This" Season 2](https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Palomino \(From the Netflix Series "Nobody Wants This" Season 2\)](https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7) | 3:10 | 2025-10-09 | 2026-07-05 |
 | [Panther City](https://open.spotify.com/track/0ySkMC5CSdVFuBkiEDCQfF) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Leon](https://open.spotify.com/album/6mHNMtHrXIdUWWuZD9njsG) | 4:07 | 2024-10-03 | 2025-03-07 |
 | [Para Quê](https://open.spotify.com/track/0BDiIS9KM0sMu6L3E5P0iq) | [Pedro da Linha](https://open.spotify.com/artist/4vRdcYRuZQC84SzNnxSNLh), [Lucy Val](https://open.spotify.com/artist/5qRt6hfvseSt0Xn0V300vx) | [Para Quê](https://open.spotify.com/album/09R926bPszpeL9wxP9L6fn) | 2:26 | 2025-10-02 | 2025-10-24 |
 | [Parece Pouco](https://open.spotify.com/track/5KA1V80qHwba5lZUXthwaa) | [Luca Argel](https://open.spotify.com/artist/2ZDNfNtWDgHegtoD5yvHjt), [Pri Azevedo](https://open.spotify.com/artist/72PykpqsbT3XmUwPSpDg1u) | [Visita](https://open.spotify.com/album/63Xv1eNicvBdtlhGKuOFDU) | 2:53 | 2024-10-17 | 2024-11-22 |

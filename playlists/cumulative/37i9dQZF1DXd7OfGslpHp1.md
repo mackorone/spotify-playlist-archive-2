@@ -4,7 +4,7 @@
 
 > All the music and podcasts from "You and I Are Polar Opposites".
 
-78 songs - 4 hr 10 min
+80 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Pure \(feat\. Eriko Hashimoto\)](https://open.spotify.com/track/0qI9slgq5TJxNnkPFZcryt) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [Pure](https://open.spotify.com/album/38I9qOuRg17eRs0b8bgZCz) | 3:20 | 2026-01-27 |  |
 | [sakura\(cherry blossom\)](https://open.spotify.com/track/4ebXmkHj2GVLhSvI48DVXH) | [Nirgilis](https://open.spotify.com/artist/6kkPATxNypgTOflsy6D3LT) | [sakura](https://open.spotify.com/album/6rCZW9dqxsTecPKY8TD25h) | 4:35 | 2025-12-12 | 2026-02-01 |
 | [Talk](https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:38 | 2025-12-12 | 2026-02-01 |
-| [「最高のスポドリガンガンでした！」谷口夢奈さん（渡辺役）平林瑚夏さん（佐藤役）ゲスト](https://open.spotify.com/episode/62NbuDqXgQS5NDx3jaL0Cu) | [TVアニメ「正反対な君と僕」放課後ポッドキャスト](https://open.spotify.com/show/5o4eW3tBlQlBZohE1sglW3) | [TVアニメ「正反対な君と僕」放課後ポッドキャスト](https://open.spotify.com/album/5o4eW3tBlQlBZohE1sglW3) | 34:48 | 2026-01-31 |  |
+| [「…私が育てました」坂田将吾さん（谷役）ゲスト　＜ビデオポッドキャスト＞](https://open.spotify.com/episode/7ENGdjsJvnptktyRAfWNlI) | [TVアニメ「正反対な君と僕」放課後ポッドキャスト](https://open.spotify.com/show/5o4eW3tBlQlBZohE1sglW3) | [TVアニメ「正反対な君と僕」放課後ポッドキャスト](https://open.spotify.com/album/5o4eW3tBlQlBZohE1sglW3) | 47:15 | 2026-07-04 |  |
+| [「最高のスポドリガンガンでした！」谷口夢奈さん（渡辺役）平林瑚夏さん（佐藤役）ゲスト](https://open.spotify.com/episode/62NbuDqXgQS5NDx3jaL0Cu) | [TVアニメ「正反対な君と僕」放課後ポッドキャスト](https://open.spotify.com/show/5o4eW3tBlQlBZohE1sglW3) | [TVアニメ「正反対な君と僕」放課後ポッドキャスト](https://open.spotify.com/album/5o4eW3tBlQlBZohE1sglW3) | 34:48 | 2026-01-31 | 2026-07-05 |
 | [いつもの教室](https://open.spotify.com/track/0D1tjIpf8kD3t6iV9X4Qls) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 1:49 | 2026-01-31 |  |
 | [うまくできなくて](https://open.spotify.com/track/6aHw5VeAGviBuZgv7homVA) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 3:38 | 2026-01-31 |  |
 | [お弁当タイム](https://open.spotify.com/track/1L5JNcwsj7JfPlQiJFsYKw) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 1:29 | 2026-01-31 |  |
@@ -72,6 +73,7 @@
 | [抜き足差し足](https://open.spotify.com/track/2e1JBn5CcoUhBPr4Fq8VpX) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 1:26 | 2026-01-31 |  |
 | [正しい街](https://open.spotify.com/track/6HV4pHx1HpJxV8tYf5Fp4q) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [無罪モラトリアム](https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2) | 3:52 | 2025-12-12 | 2026-02-01 |
 | [歩いていこう](https://open.spotify.com/track/6tUfJ1mPuJlBs88PU2YYlB) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 3:01 | 2026-01-31 |  |
+| [猫じゃらし](https://open.spotify.com/track/5Qq7kURxLlKg0tu2ZTGGvs) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [猫じゃらし](https://open.spotify.com/album/2uYPJOuresrTw80IwTTuwr) | 2:47 | 2026-07-04 |  |
 | [自信が持てなくて](https://open.spotify.com/track/7Ki0jQwsGksk7oRwCRb67Q) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 1:14 | 2026-01-31 |  |
 | [若者のすべて](https://open.spotify.com/track/5dH4asCl80Mvbsoz6zJVyZ) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [TEENAGER](https://open.spotify.com/album/1m6tvZ9MycDDVxyGyZwb2d) | 4:56 | 2025-12-12 | 2026-02-01 |
 | [苦い思い出](https://open.spotify.com/track/7j47U7Ns71WTSp6T1dzpyX) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 2:44 | 2026-01-31 |  |

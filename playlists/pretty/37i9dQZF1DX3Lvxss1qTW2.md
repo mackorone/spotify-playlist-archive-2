@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Ekene
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,533 likes - 78 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,688 likes - 78 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 9 | [Achalugo](https://open.spotify.com/track/4FurdNM9yVvG1yY2JuUH6o) | [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Achalugo](https://open.spotify.com/album/4ycq8yiWE613U1GdpZdsJL) | 2:47 |
 | 10 | [Stars Misaligned II](https://open.spotify.com/track/0awbfWjQjaoogyh2VzUw9u) | [Shiloh Yodellé](https://open.spotify.com/artist/3jVOOhEKCtuDzhB8w1iLkH), [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA), [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Stars Misaligned II](https://open.spotify.com/album/25PT7y0EZbv1qdfctSmvzc) | 2:50 |
 | 11 | [Lameda](https://open.spotify.com/track/7DRJm0x4djOSGWLiAbRohe) | [SAMAD](https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB) | [LAMEDA / AWAY](https://open.spotify.com/album/6Pjh1WqGkR7CeV18XNJeky) | 2:16 |
-| 12 | [Signs](https://open.spotify.com/track/6LyFvZ6wvb6nac7WaO2bLC) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Sevn](https://open.spotify.com/artist/7xmYqgsWMr5KmKmS2IU6KZ), [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws), [Egertton](https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV), [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Signs](https://open.spotify.com/album/6Cc8Wz02Yz6fOdk7myVXT4) | 3:06 |
+| 12 | [Signs](https://open.spotify.com/track/6LyFvZ6wvb6nac7WaO2bLC) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Sevn](https://open.spotify.com/artist/31oth0hCsj7X96TO2FBBlo), [Lovn](https://open.spotify.com/artist/7yzmckMWwaSZdJQC5QZ7ws), [Egertton](https://open.spotify.com/artist/4Hz1UttsadDCW4xA41XKoV), [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq) | [Signs](https://open.spotify.com/album/6Cc8Wz02Yz6fOdk7myVXT4) | 3:06 |
 | 13 | [IDI AMIN](https://open.spotify.com/track/1RyMUK3FIuYkYGWNjcOEtp) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [IDI AMIN](https://open.spotify.com/album/66eJmwET9lBbVG5a4UR6uN) | 2:16 |
 | 14 | [Yori yori](https://open.spotify.com/track/3J7tMLaRYC6J8b2lBKEalx) | [Abefe](https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl) | [Yori yori](https://open.spotify.com/album/50wmIHgKLfTkZowFcxlKaF) | 2:43 |
 | 15 | [Money \(feat\. Scottyolorin\)](https://open.spotify.com/track/5xHTQE15LbvdqtfNdBTIqF) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [Money \(feat\. Scottyolorin\)](https://open.spotify.com/album/19LOy9jhWSbcmKU50Ql196) | 2:37 |

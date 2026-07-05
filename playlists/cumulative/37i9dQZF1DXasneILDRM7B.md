@@ -4,7 +4,7 @@
 
 > Please stand for your personal anthems\. Cover: blink\-182
 
-376 songs - 20 hr 43 min
+377 songs - 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Dead on Arrival](https://open.spotify.com/track/7naGWci9bflvfdzxphFjAw) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:14 | 2022-04-08 | 2022-11-13 |
 | [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:02 | 2022-06-16 | 2024-04-19 |
 | [Dear Maria, Count Me In](https://open.spotify.com/track/3ZsexY07D4t4HRq7ogeSAS) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right \(Deluxe Version\)](https://open.spotify.com/album/2e8m3glGL3xIuSrGGXzcIc) | 3:02 | 2021-09-02 |  |
-| [December \(again\) \[feat\. Mark Hoppus\]](https://open.spotify.com/track/1Ztka7fCyxUv46FW1mZH9T) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [December](https://open.spotify.com/album/6cAugG8D1T6q0qniM3bqsw) | 3:33 | 2021-09-02 |  |
+| [December \(again\) \[feat\. Mark Hoppus\]](https://open.spotify.com/track/1Ztka7fCyxUv46FW1mZH9T) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [December](https://open.spotify.com/album/6cAugG8D1T6q0qniM3bqsw) | 3:33 | 2021-09-02 | 2026-07-05 |
 | [Decode](https://open.spotify.com/track/1ZLtE9tSJdaUiIJ9YoKHQe) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Decode](https://open.spotify.com/album/70iJhodSPkl7FR1VW4n0KF) | 4:21 | 2022-06-16 | 2024-04-19 |
 | [Decode \- Twilight Soundtrack Version](https://open.spotify.com/track/6umX518VohIob6IipK3WYM) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes \(Deluxe Edition\)](https://open.spotify.com/album/7eTQgEAeaCqyXRD08qHty9) | 4:21 | 2022-04-08 | 2022-04-21 |
 | [Dial Tones](https://open.spotify.com/track/2iWCGAf3LeNGOLChbUc47R) | [AS IT IS](https://open.spotify.com/artist/3IXtskFMls8KXRipcIJT9y) | [Never Happy, Ever After](https://open.spotify.com/album/4rPtcFgCddhCOwKRnScxW7) | 3:19 | 2021-09-02 | 2022-07-29 |
@@ -284,6 +284,7 @@
 | [Something's Gotta Give](https://open.spotify.com/track/0BMGyqvrjuJExY6jcVAtX2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Something's Gotta Give](https://open.spotify.com/album/14UoZuxU0v9sNOK7THtNY8) | 3:09 | 2021-09-02 | 2022-06-05 |
 | [Somewhere On Fullerton](https://open.spotify.com/track/7qPYC9z7FSJIjDc3V2tBix) | [Allister](https://open.spotify.com/artist/6Bygk8YvDJTfJSuY5ccUJH) | [Last Stop Suburbia](https://open.spotify.com/album/5RckAEYpUDGYqGpn3OqRyz) | 2:39 | 2022-06-16 | 2022-12-06 |
 | [Somewhere On Fullerton](https://open.spotify.com/track/48bk2AUPHxf0gTWrmE5VH6) | [Allister](https://open.spotify.com/artist/6Bygk8YvDJTfJSuY5ccUJH) | [Last Stop Suburbia](https://open.spotify.com/album/4XiQyukjWkVocMLZK66uLG) | 2:39 | 2022-04-08 | 2022-07-29 |
+| [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 | 2023-02-10 |  |
 | [Stacy's Mom](https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW) | [Fountains Of Wayne](https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh) | [Welcome Interstate Managers](https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT) | 3:17 | 2021-09-02 |  |
 | [Stay Alive](https://open.spotify.com/track/7FKNUVrgyau621w3hUDRho) | [Andy Black](https://open.spotify.com/artist/09NYzWfQlunWS3XBZFaDEC), [Matt Skiba](https://open.spotify.com/artist/7qVz2CTVWQynqvLaaxZXw6) | [The Shadow Side](https://open.spotify.com/album/49MRU1ggalf6nWxNjSopID) | 4:08 | 2022-04-08 | 2022-04-21 |
 | [Stay Away \(feat\. Machine Gun Kelly & Goody Grace\)](https://open.spotify.com/track/00okrW9OfjmG0PZJSY3fJd) | [MOD SUN](https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Stay Away \(feat\. Machine Gun Kelly & Goody Grace\)](https://open.spotify.com/album/6zZPJvmylSQbrCYsWwW5rK) | 2:31 | 2021-09-02 | 2022-01-27 |

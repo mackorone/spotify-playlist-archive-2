@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,254 songs - 3 day 0 hr 53 min
+1,259 songs - 3 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [FURRY FRIENDS](https://open.spotify.com/track/2gnZmFxLw9by8BwV1k6BHa) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [FURRY FRIENDS](https://open.spotify.com/album/5HKaaPkVWWcxYZ9COjBxIX) | 2:34 | 2026-06-24 |  |
 | [Future Paranoia](https://open.spotify.com/track/0JkVP9dN0djsS4j1aKMwZO) | [Philip Morgan Lewis](https://open.spotify.com/artist/6dttJ9KPpPk9qoo8mEWkR5) | [Future Paranoia](https://open.spotify.com/album/1X5EWN85z3URtBr5A0Msyd) | 2:22 | 2026-06-23 |  |
 | [Gangster Shit](https://open.spotify.com/track/3D6rVmlwFJnTYHzeC1pF3o) | [Lance Mitchell](https://open.spotify.com/artist/42tYt31wuq2tI0umoOwsC4) | [Gangster Shit](https://open.spotify.com/album/0x2247BmfODK2ubsG0QLTs) | 1:54 | 2026-02-03 | 2026-03-07 |
+| [Gateway to the Abyss](https://open.spotify.com/track/4a2F5SBmUhsRjyXeVj5P8S) | [Magic Dragon](https://open.spotify.com/artist/0trHAWuVufxQLIZyPujytr) | [Metropolitan Degradation](https://open.spotify.com/album/1NyV58vxmbIYmhTGrIqmTg) | 6:06 | 2026-07-04 |  |
 | [Gather Ye Low Buzz](https://open.spotify.com/track/15e4jWmhuh6MXnsgEGgMWV) | [Huey Daze](https://open.spotify.com/artist/5WWaSxxDu0B6pDpeZJke3Y), [Ata Sato](https://open.spotify.com/artist/7c3ZuJHFKA2hYp5DtGXwLA) | [Gather Ye Low Buzz](https://open.spotify.com/album/59WESmGVeCeWQ3FIXCFkOI) | 2:07 | 2026-05-21 | 2026-07-03 |
 | [Gelir Gider](https://open.spotify.com/track/5rceAFRqiXKbfZ1c5H0HJJ) | [Berdush38](https://open.spotify.com/artist/1xLymL7zjs2w2PbCewdP3J) | [Gelir Gider](https://open.spotify.com/album/2DxOFl5paLb9KLQOq24ys2) | 2:38 | 2026-04-12 | 2026-05-14 |
 | [Gem](https://open.spotify.com/track/1k7zJz2uqSHZzHPjpiW9ps) | [Tone Travelers](https://open.spotify.com/artist/3UiAdgkPdYiGRgSUcK4FM8) | [Gem](https://open.spotify.com/album/1fAIo7nOtyYjxSTTRSMJui) | 3:44 | 2026-03-03 | 2026-03-25 |
@@ -420,6 +421,7 @@
 | [Heartbreak Saved My Life](https://open.spotify.com/track/0tAfNHLq08mZw3nOcmxi8H) | [Dina Renee](https://open.spotify.com/artist/39cseH5ONOhKNHd02PcxlJ) | [Heartbreak Saved My Life](https://open.spotify.com/album/0LNXda2B2cTyfdsyr5Ss13) | 3:23 | 2025-12-22 | 2026-01-24 |
 | [Hell Has a Garden with Angels](https://open.spotify.com/track/4qM7VTi6CpgP04QhOcdObD) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 2:46 | 2026-06-02 | 2026-07-03 |
 | [Her Light , Unseen](https://open.spotify.com/track/0twmDCQjmHIF5HutJ3UeMH) | [YAJAC](https://open.spotify.com/artist/2lGR7UnmXxxPwcWS74QQG4) | [Her Light , Unseen](https://open.spotify.com/album/7B3perMaBT7qFl59RWIOiZ) | 3:17 | 2026-02-20 | 2026-03-25 |
+| [Here In My Heart](https://open.spotify.com/track/71zw4eqnxWlnKuOF44XAoS) | [RECLVSION](https://open.spotify.com/artist/71jk85yahoqkc3dEba3xCX) | [Here In My Heart](https://open.spotify.com/album/0FWjikd3YsqUevAKkfW2Y0) | 2:53 | 2026-07-04 |  |
 | [Heroes Get Hurt](https://open.spotify.com/track/6b7WpA3GgmjyNoKcIdUSfk) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Terry Lupton](https://open.spotify.com/artist/5AnahQXYD6pptWAhpsuU9i) | [Heroes Get Hurt](https://open.spotify.com/album/3UxqFJUxb39E7sSFR4K9Kl) | 3:42 | 2026-06-09 |  |
 | [Hi, Mr\. President \- Rock Version](https://open.spotify.com/track/6RlHAU6gVXyz7prY6J9Fin) | [A.C.C.](https://open.spotify.com/artist/60HIwZ2n7gFMDB77rLfAYH) | [Hi, Mr\. President](https://open.spotify.com/album/3fSzwDSrsvwLRb1I9gKvQg) | 4:16 | 2026-02-22 | 2026-03-25 |
 | [Hi\-ya\-no](https://open.spotify.com/track/7oGZiK7KTyUjVu5NxHUoQW) | [Cosmic Tikis](https://open.spotify.com/artist/3FgOxm7zjtZfsgLhSrCmDR) | [Hi\-ya\-no](https://open.spotify.com/album/4lvmA2qn4KzZIomq7u0Rd7) | 6:00 | 2025-12-16 | 2026-01-15 |
@@ -681,6 +683,7 @@
 | [Midnight Heart](https://open.spotify.com/track/4GD5J5y0wjrk5hPNLkhiSY) | [DISSONANT](https://open.spotify.com/artist/3XYNgEne3ULFkzHdtXXUpl) | [AFTERDOPAMYNE](https://open.spotify.com/album/6KfgIIVc5kUvBnMmQzjob8) | 1:57 | 2026-06-15 |  |
 | [Midnight Summer](https://open.spotify.com/track/2Stharhd4jDWnR1eBunm7y) | [Alexander Campos](https://open.spotify.com/artist/3VrExr8mX2V9MgL01hbmvs), [Ian Cisneros](https://open.spotify.com/artist/1yLhfqzypopEBDH8qxGHZq) | [Midnight Summer](https://open.spotify.com/album/2XJcHDrPq1pT9A0DUna6AS) | 4:51 | 2026-03-16 | 2026-04-12 |
 | [Midnight Train](https://open.spotify.com/track/75ndxPSgPcezSP8xz2UuSb) | [RayOrbit](https://open.spotify.com/artist/1kG8I34nBNWoXtkp53JdT2) | [Midnight Train](https://open.spotify.com/album/6ia67fR6ixurUa0oysyGXn) | 4:50 | 2026-03-01 | 2026-03-25 |
+| [Might As Well](https://open.spotify.com/track/5RG0bjdZ3mGsuammzTobwS) | [Lucy Blu](https://open.spotify.com/artist/0zEgohBueDJpD4E4nz8sp1) | [Might As Well](https://open.spotify.com/album/4ZJtK4TIQk23LzdJC8NNpJ) | 3:42 | 2026-07-04 |  |
 | [MIGHT BE](https://open.spotify.com/track/3pzikv3e84YM3hZxqm4Rhw) | [Michael Paul Binz](https://open.spotify.com/artist/5O2KNKnPVqW5RcOwOvPCRl) | [LET ME BE](https://open.spotify.com/album/580qg1xelP5QfdPFDvJacY) | 2:49 | 2026-03-11 | 2026-04-12 |
 | [Milenios de Amor](https://open.spotify.com/track/5SKERroWJAtPprqyweRjuO) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [¿A dónde irá el amor?](https://open.spotify.com/album/70mPEYs6WVlLBIDXtP4m0R) | 3:28 | 2025-12-09 | 2026-01-05 |
 | [Milestones](https://open.spotify.com/track/5V5qXouUYJzfuiZoT9FmNN) | [Ryan woollard](https://open.spotify.com/artist/05GAeBHIoOtFhm6Or5d8kF) | [Milestones](https://open.spotify.com/album/2Zny4qnmZmJMx2T7YfCA30) | 4:56 | 2026-04-11 | 2026-05-14 |
@@ -780,6 +783,7 @@
 | [On My Way](https://open.spotify.com/track/5SajpJwLg8EFpHJ9dWUSDG) | [Snow64](https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ) | [On My Way](https://open.spotify.com/album/5tWElJ2aG2MSjd7XFwR8A9) | 3:18 | 2026-06-11 |  |
 | [One Big Love](https://open.spotify.com/track/1TacV2Z6hOXpC0Wxm4GeVx) | [Maria Maltseva](https://open.spotify.com/artist/19a7inyeBBxVwWxFY1n5Lf) | [One Big Love](https://open.spotify.com/album/5wEsY96xkxGfqsmoUM6Un6) | 3:45 | 2025-12-22 | 2026-01-24 |
 | [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 | 2026-03-26 | 2026-04-22 |
+| [One Moment In Time](https://open.spotify.com/track/1kpFGklu2GSzgDAp4jau48) | [Arbor Rose](https://open.spotify.com/artist/5xArhGFY5mmdgNX4fdDCpY) | [One Moment In Time](https://open.spotify.com/album/4Pb35D9TncvTjxNgxcUR6q) | 4:02 | 2026-07-04 |  |
 | [Open Range\_Master](https://open.spotify.com/track/5Mq4CqaYwa7znm7NQF4aou) | [Тульженко Евгений](https://open.spotify.com/artist/5Hxn6e8uErpJw2IxVsKGen) | [Open Range\_Master](https://open.spotify.com/album/2xMilzQcvvXXvGZxjACcTU) | 2:11 | 2026-05-06 | 2026-06-05 |
 | [Open Road](https://open.spotify.com/track/4qmM0P0zPzuk02vS0zwzVL) | [Melaku](https://open.spotify.com/artist/0pg8optqAPmdNYyiksFIJs) | [Open Road](https://open.spotify.com/album/2NaqfH12sP2B48uo1GyOUT) | 3:05 | 2026-03-10 | 2026-04-12 |
 | [Oración](https://open.spotify.com/track/4U1IuXpV9IQaLJ5tOObnpG) | [Ziara](https://open.spotify.com/artist/0obWSB8D1Q4TnshJIvXW4p) | [Oración](https://open.spotify.com/album/42PcjhcW1EaV2V2rX2CpND) | 2:39 | 2026-01-30 | 2026-02-28 |
@@ -910,6 +914,7 @@
 | [See You Soon](https://open.spotify.com/track/5u7dSBPo1HMfb2bnufsUsn) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx), [Kafiristan](https://open.spotify.com/artist/5YMvcsjHDQbAV9H5ScLyqK) | [See You Soon](https://open.spotify.com/album/0aKEb4gmgXCz5ITsextRK8) | 5:35 | 2026-05-07 |  |
 | [Sei il mio raggio di sole scuro](https://open.spotify.com/track/1ugUprOOHn9mvIUtwzVOwG) | [kreio](https://open.spotify.com/artist/3kRclwJ3uJqLsAYwLLjcZK) | [Sei il mio raggio di sole scuro](https://open.spotify.com/album/0TheDdyv0BfxCpZoRqWUNl) | 2:51 | 2026-03-26 | 2026-04-22 |
 | [SELF ACCEPT your way to inner respect](https://open.spotify.com/track/4H1iYrC1EvANMzo2mdjaTL) | [Nikiré](https://open.spotify.com/artist/3VIpivsIfU43eyG1HW2lFY) | [SELF ACCEPT your way to inner respect](https://open.spotify.com/album/1gYeNfczZilzcsHfVWasAW) | 4:34 | 2026-01-03 | 2026-02-03 |
+| [SELF CONTROL](https://open.spotify.com/track/2R64ux4w6jprMByqntPMwi) | [B33B5](https://open.spotify.com/artist/2nOb5m5HqTcILsSp5Ai94c) | [SELF CONTROL](https://open.spotify.com/album/0UAvCnzkVQbkCb8cI8sbFh) | 2:56 | 2026-07-04 |  |
 | [Sell me your soul](https://open.spotify.com/track/2ngkVoKICzKdLKhV0sWUbm) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Mary Ann Palermo](https://open.spotify.com/artist/1P5DDkoBymMyNn52dmMeoL), [Mediterranean Jazz Project](https://open.spotify.com/artist/2igMKABeT1z573MU6j9fXT) | [Sell me your soul](https://open.spotify.com/album/4NFlfPG00jKKsj3NysdT39) | 4:18 | 2024-03-07 | 2025-12-28 |
 | [Semi\-Virgin](https://open.spotify.com/track/2wiP9NxvKyFU3og9Ort1Bo) | [Jules Martinez](https://open.spotify.com/artist/4hn3AObsESMShZlS90Mt56) | [Raw And Older](https://open.spotify.com/album/0FStAceqeIATLvl6egELud) | 3:12 | 2026-03-31 | 2026-05-03 |
 | [Sen Bana Hep Yazsın](https://open.spotify.com/track/4raQYXieEX8ueVDYOOswGM) | [Ers Özlü](https://open.spotify.com/artist/4Sa1Xb4zLdRQ5NxXz6MxDz) | [Sen Bana Hep Yazsın](https://open.spotify.com/album/6fjHwVuhiFjDoQMZM1GFVi) | 2:45 | 2025-12-22 | 2026-01-24 |

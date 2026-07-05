@@ -1,12 +1,12 @@
 {
   "description": "This is Sophie Ellis-Bextor. The essential tracks, all in one playlist.",
-  "num_followers": 20957,
+  "num_followers": 20964,
   "original_name": "This Is Sophie Ellis-Bextor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akWqAAAAAADQddVPf608fe1+LEkifB8b",
+  "snapshot_id": "akb7gAAAAACNs8IPjSMVlNs/FUxWqGKp",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot From The Hip",
-        "url": "https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 223880,
-      "name": "Mixed Up World",
-      "url": "https://open.spotify.com/track/2MnVheZCrPYpS42HaCEY2t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HANA (Deluxe)",
         "url": "https://open.spotify.com/album/7qLSaa8bECEnHabElnugub"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 182799,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/12nbpyxZJ1WZW4KYXRD0Jk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoot From The Hip",
+        "url": "https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 223880,
+      "name": "Mixed Up World",
+      "url": "https://open.spotify.com/track/2MnVheZCrPYpS42HaCEY2t"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shoot From The Hip",
-        "url": "https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 219213,
-      "name": "I Won't Change You",
-      "url": "https://open.spotify.com/track/08T5Bx6CoJS45Q5qDXmM9M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wanderlust",
         "url": "https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 268213,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/26wfj0NDkkO2NIx1jPplPA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoot From The Hip",
+        "url": "https://open.spotify.com/album/75XTG3xz1tGYh2nAiNcs1P"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 219213,
+      "name": "I Won't Change You",
+      "url": "https://open.spotify.com/track/08T5Bx6CoJS45Q5qDXmM9M"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Taste",
-        "url": "https://open.spotify.com/album/1hpoTpHmAE3ERYXjrC84jA"
-      },
-      "artists": [
-        {
-          "name": "Sophie Ellis-Bextor",
-          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
-        }
-      ],
-      "duration_ms": 170393,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/5pe8674S8FnKW8tNpHFjAZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trip The Light Fantastic",
         "url": "https://open.spotify.com/album/7GYv8e5KITGMiVAz64BLbw"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 198066,
       "name": "Catch You",
       "url": "https://open.spotify.com/track/1LjXn0nG37aBWPPnDOq1nQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Taste",
+        "url": "https://open.spotify.com/album/1hpoTpHmAE3ERYXjrC84jA"
+      },
+      "artists": [
+        {
+          "name": "Sophie Ellis-Bextor",
+          "url": "https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE"
+        }
+      ],
+      "duration_ms": 170393,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5pe8674S8FnKW8tNpHFjAZ"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 102741,
+  "num_followers": 102777,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -927,18 +927,22 @@
     {
       "added_at": "2024-07-05 22:41:57",
       "album": {
-        "name": "BATEA",
-        "url": "https://open.spotify.com/album/3NTBnvRtqF6FAJrOUaDpUp"
+        "name": "Ecos del Pasado",
+        "url": "https://open.spotify.com/album/2KEWgKCGUVMA4YHXLTnVdG"
       },
       "artists": [
         {
-          "name": "XAVO",
-          "url": "https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM"
+          "name": "DJ Sadyer",
+          "url": "https://open.spotify.com/artist/4bx9K7JUhIZAmkZ08qK5Hs"
+        },
+        {
+          "name": "DjGiovanni R\u00edos",
+          "url": "https://open.spotify.com/artist/0Q0jSvqwRo0YKjUaTadFTo"
         }
       ],
-      "duration_ms": 143024,
-      "name": "BATEA",
-      "url": "https://open.spotify.com/track/61NpEwPUbobMiJ9cWgsDDb"
+      "duration_ms": 229149,
+      "name": "Hybrid",
+      "url": "https://open.spotify.com/track/4HTMzoGjUmu05fQv0EaEZE"
     }
   ],
   "unique_name": "Fiesta Tribal",

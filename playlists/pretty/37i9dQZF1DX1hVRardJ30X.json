@@ -1,6 +1,6 @@
 {
   "description": "New music by Judeline, Manuel Turizo, Natanael Cano, Cris MJ & Clarent &  more.",
-  "num_followers": 642618,
+  "num_followers": 642676,
   "original_name": "All New Latin",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,30 @@
       "duration_ms": 215273,
       "name": "Si No Te Vuelvo A Ver",
       "url": "https://open.spotify.com/track/1GiyfPeTzigYY1xz0sLO2x"
+    },
+    {
+      "added_at": "2026-07-03 04:01:47",
+      "album": {
+        "name": "In Lof",
+        "url": "https://open.spotify.com/album/1YaQUrGviYJ7rhqZcGi2Sn"
+      },
+      "artists": [
+        {
+          "name": "Lucianeka",
+          "url": "https://open.spotify.com/artist/6qlZ5BlB9CTm12NtjpWosx"
+        },
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        },
+        {
+          "name": "Once",
+          "url": "https://open.spotify.com/artist/47vDXGhyehyCE6DG7bgru6"
+        }
+      ],
+      "duration_ms": 244235,
+      "name": "In Lof",
+      "url": "https://open.spotify.com/track/2lFoeXEaAfihJy3T9Djzd0"
     },
     {
       "added_at": "2026-07-03 04:01:47",

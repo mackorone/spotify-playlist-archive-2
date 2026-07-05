@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: El Cuarteto de Nos",
-  "num_followers": 126695,
+  "num_followers": 126709,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,18 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Otras Canciones",
-        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
+        "name": "Gira Me Ver\u00e1s Volver",
+        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
       },
       "artists": [
         {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        },
-        {
-          "name": "Catalina Garc\u00eda de Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/2yaMat63VnQT2cwNvthCZv"
-        },
-        {
-          "name": "Flor de Toloache",
-          "url": "https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 289154,
-      "name": "Al Vac\u00edo",
-      "url": "https://open.spotify.com/track/4pGutablO7yfnXun3HW2qr"
+      "duration_ms": 225120,
+      "name": "Te Hacen Falta Vitaminas - Me Ver\u00e1s Volver Gira 2007",
+      "url": "https://open.spotify.com/track/3YqOTz8YqRKfxS64GyGUTB"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -363,18 +355,26 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Gira Me Ver\u00e1s Volver",
-        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
+        "name": "Otras Canciones",
+        "url": "https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        },
+        {
+          "name": "Catalina Garc\u00eda de Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/2yaMat63VnQT2cwNvthCZv"
+        },
+        {
+          "name": "Flor de Toloache",
+          "url": "https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD"
         }
       ],
-      "duration_ms": 225120,
-      "name": "Te Hacen Falta Vitaminas - Me Ver\u00e1s Volver Gira 2007",
-      "url": "https://open.spotify.com/track/3YqOTz8YqRKfxS64GyGUTB"
+      "duration_ms": 289154,
+      "name": "Al Vac\u00edo",
+      "url": "https://open.spotify.com/track/4pGutablO7yfnXun3HW2qr"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -391,6 +391,22 @@
       "duration_ms": 229360,
       "name": "El Cantar de los Anzuelos - En Vivo en Argentinos Jrs",
       "url": "https://open.spotify.com/track/2zwlozi5lP3AgAqKLloR8u"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Gira Me Ver\u00e1s Volver",
+        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 261680,
+      "name": "Sueles Dejarme Solo - Me Ver\u00e1s Volver Gira 2007",
+      "url": "https://open.spotify.com/track/4i3gnxuqstxIUvnIZVDarh"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -447,22 +463,6 @@
       "duration_ms": 293061,
       "name": "S\u00e9 Vos - En Vivo",
       "url": "https://open.spotify.com/track/1jmIpHXJVBKZZGOHVMvg9C"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
-        "name": "Gira Me Ver\u00e1s Volver",
-        "url": "https://open.spotify.com/album/1cwZmK0zXorTlALtgOajeC"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 261680,
-      "name": "Sueles Dejarme Solo - Me Ver\u00e1s Volver Gira 2007",
-      "url": "https://open.spotify.com/track/4i3gnxuqstxIUvnIZVDarh"
     },
     {
       "added_at": "2026-06-12 03:00:36",
@@ -677,7 +677,7 @@
         }
       ],
       "duration_ms": 284048,
-      "name": "Pac\u00edfico",
+      "name": "Pac\u00edfico - En Vivo en River Plate",
       "url": "https://open.spotify.com/track/4YDACzNhZTeo9YvYC533SP"
     },
     {
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2026-06-12 03:00:36",
       "album": {
-        "name": "Ni\u00f1o Abuelo (Vivo en Obras 20/12/2024)",
-        "url": "https://open.spotify.com/album/3CaxPS84kJiMTUWuK2GYiC"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 280661,
-      "name": "Ni\u00f1o Abuelo - Vivo en Obras 20/12/2024",
-      "url": "https://open.spotify.com/track/4Lk0Y7rY5tlE5C89aBpK56"
-    },
-    {
-      "added_at": "2026-06-12 03:00:36",
-      "album": {
         "name": "El Vuelo del Drag\u00f3n, Pt. 3",
         "url": "https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 289804,
       "name": "Ella Vendr\u00e1",
       "url": "https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU"
+    },
+    {
+      "added_at": "2026-06-12 03:00:36",
+      "album": {
+        "name": "Ni\u00f1o Abuelo (Vivo en Obras 20/12/2024)",
+        "url": "https://open.spotify.com/album/3CaxPS84kJiMTUWuK2GYiC"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 280661,
+      "name": "Ni\u00f1o Abuelo - Vivo en Obras 20/12/2024",
+      "url": "https://open.spotify.com/track/4Lk0Y7rY5tlE5C89aBpK56"
     },
     {
       "added_at": "2026-06-12 03:00:36",

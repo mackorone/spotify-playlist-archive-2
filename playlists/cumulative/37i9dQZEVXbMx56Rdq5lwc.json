@@ -310,7 +310,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
@@ -3448,7 +3448,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 127272,
       "name": "A\u0161ara",
       "url": "https://open.spotify.com/track/3HiFbGgC1kSvvoD0RGIs0J"
@@ -6694,7 +6694,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 230640,
       "name": "Can't Get You out of My Head",
       "url": "https://open.spotify.com/track/7m2g1kKuF7Tre2PzjK3Lnh"
@@ -10608,7 +10608,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
@@ -10938,7 +10938,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 205308,
       "name": "Dracula",
       "url": "https://open.spotify.com/track/1NXbNEAcPvY5G1xvfN57aA"
@@ -11491,6 +11491,28 @@
     },
     {
       "album": {
+        "name": "Liepa",
+        "url": "https://open.spotify.com/album/1woz9Ge4p5F2uNiFBKWETL"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        },
+        {
+          "name": "Gabija Li",
+          "url": "https://open.spotify.com/artist/47PNsVmpFDCiCx6WbXwMw7"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "D\u0117snis",
+      "url": "https://open.spotify.com/track/69IzEaype98TIVSN2Y4115"
+    },
+    {
+      "album": {
         "name": "EAEA",
         "url": "https://open.spotify.com/album/713ABLvroU275mKkUgr6ZJ"
       },
@@ -11896,7 +11918,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -13190,7 +13212,7 @@
       ],
       "date_added": "2025-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 144521,
       "name": "Fever",
       "url": "https://open.spotify.com/track/09xhawlPUifhftf8zuie7w"
@@ -18880,7 +18902,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 177982,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
@@ -20080,7 +20102,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 209640,
       "name": "JDS",
       "url": "https://open.spotify.com/track/0dCnCVKhxgU03PSMRsSlgd"
@@ -20178,6 +20200,24 @@
       "duration_ms": 207641,
       "name": "Jei Leisi",
       "url": "https://open.spotify.com/track/6sgzKRJ1C38I4pmI1TCnSN"
+    },
+    {
+      "album": {
+        "name": "Liepa",
+        "url": "https://open.spotify.com/album/1woz9Ge4p5F2uNiFBKWETL"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156052,
+      "name": "Jeigu B\u016b\u010diau",
+      "url": "https://open.spotify.com/track/45PA78s76MINw5hjGxkD2b"
     },
     {
       "album": {
@@ -21181,6 +21221,28 @@
     },
     {
       "album": {
+        "name": "Liepa",
+        "url": "https://open.spotify.com/album/1woz9Ge4p5F2uNiFBKWETL"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        },
+        {
+          "name": "Igoris Kofas",
+          "url": "https://open.spotify.com/artist/5TMHdkC9LaUmd60AYxrQkp"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Kas Kaltas",
+      "url": "https://open.spotify.com/track/5yQkJakm60muq0pyAvwQ4J"
+    },
+    {
+      "album": {
         "name": "Kas man be j\u016bros",
         "url": "https://open.spotify.com/album/5W2XwScS3yoHkazbF62fsR"
       },
@@ -21344,7 +21406,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 227375,
       "name": "Kely Sustoja Laikas",
       "url": "https://open.spotify.com/track/3NojqgEwViI2Q81SVD35i2"
@@ -23426,6 +23488,24 @@
       "duration_ms": 180479,
       "name": "Liekinheitin",
       "url": "https://open.spotify.com/track/0k2NxIVax5tnGSCeruFyEL"
+    },
+    {
+      "album": {
+        "name": "Liepa",
+        "url": "https://open.spotify.com/album/1woz9Ge4p5F2uNiFBKWETL"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156084,
+      "name": "Liepai (Outro)",
+      "url": "https://open.spotify.com/track/7gOpQl8NAs1Gic0tVeiX7p"
     },
     {
       "album": {
@@ -26126,7 +26206,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 160245,
       "name": "Meant to Be",
       "url": "https://open.spotify.com/track/1WoRPBYYIU54HFsh68C65H"
@@ -28907,6 +28987,24 @@
     },
     {
       "album": {
+        "name": "Liepa",
+        "url": "https://open.spotify.com/album/1woz9Ge4p5F2uNiFBKWETL"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Ne Ne Ne",
+      "url": "https://open.spotify.com/track/4y4RuPSpOdGRAvUFQjERAb"
+    },
+    {
+      "album": {
         "name": "PLANETA",
         "url": "https://open.spotify.com/album/26otOZ7hp2dUdrZZNif4eh"
       },
@@ -29038,6 +29136,24 @@
       "duration_ms": 142500,
       "name": "Nebijok",
       "url": "https://open.spotify.com/track/5soMXpvUtpNnWNDTVG013C"
+    },
+    {
+      "album": {
+        "name": "Liepa",
+        "url": "https://open.spotify.com/album/1woz9Ge4p5F2uNiFBKWETL"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128135,
+      "name": "Nedera",
+      "url": "https://open.spotify.com/track/2gEfg1xOqmBNieYnf7NmSO"
     },
     {
       "album": {
@@ -30912,7 +31028,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
@@ -31949,6 +32065,24 @@
     },
     {
       "album": {
+        "name": "Liepa",
+        "url": "https://open.spotify.com/album/1woz9Ge4p5F2uNiFBKWETL"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153684,
+      "name": "Pajaut\u0117",
+      "url": "https://open.spotify.com/track/2fesWCggJg6yDKPJteWiXa"
+    },
+    {
+      "album": {
         "name": "AKNB",
         "url": "https://open.spotify.com/album/3wQPASLOIG3r1PsLoyEU2e"
       },
@@ -32504,7 +32638,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "Pasilik Praeity",
       "url": "https://open.spotify.com/track/38grlitW19BsvUcEE5pz9Z"
@@ -35342,7 +35476,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -36573,6 +36707,24 @@
     },
     {
       "album": {
+        "name": "Liepa",
+        "url": "https://open.spotify.com/album/1woz9Ge4p5F2uNiFBKWETL"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169600,
+      "name": "Ruden\u012f Snaig\u0117s",
+      "url": "https://open.spotify.com/track/6Td1SOr7BEqZ7Uv5aTWuE8"
+    },
+    {
+      "album": {
         "name": "A Winter Romance",
         "url": "https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5"
       },
@@ -37504,10 +37656,28 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 135304,
       "name": "Saul\u0117 Nesileis",
       "url": "https://open.spotify.com/track/0OPoQUxVXTVKsezceGQ4MP"
+    },
+    {
+      "album": {
+        "name": "Liepa",
+        "url": "https://open.spotify.com/album/1woz9Ge4p5F2uNiFBKWETL"
+      },
+      "artists": [
+        {
+          "name": "Jessica Shy",
+          "url": "https://open.spotify.com/artist/0CinAWYkte8opxVAPI3nMu"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135304,
+      "name": "Saul\u0117 Nesileis",
+      "url": "https://open.spotify.com/track/13NmwjzeCKOUt0tOLyuncx"
     },
     {
       "album": {
@@ -41743,6 +41913,24 @@
     },
     {
       "album": {
+        "name": "Tada Kada",
+        "url": "https://open.spotify.com/album/4pxu7Rsu8hHa1yZwBdMxup"
+      },
+      "artists": [
+        {
+          "name": "Saul\u0117s Klio\u0161as",
+          "url": "https://open.spotify.com/artist/3uZBXvFcHJ31b4Ln9iI78w"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224413,
+      "name": "Tada Kada",
+      "url": "https://open.spotify.com/track/7iGrUyvALgI2WbHse2Evi6"
+    },
+    {
+      "album": {
         "name": "Taip Jau Gavosi",
         "url": "https://open.spotify.com/album/4JSMfg9oPo3lqbDqjA1AYM"
       },
@@ -43496,7 +43684,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 227333,
       "name": "The One That Got Away",
       "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N"

@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Amanda Magalh\u00e3es ",
-  "num_followers": 290440,
+  "num_followers": 290419,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-07-03 03:00:40",
       "album": {
-        "name": "Ib\u00e9rico (O Canto do Beija-Flor-de-Gravata-Verde)",
-        "url": "https://open.spotify.com/album/138YzrA0SuuS8fwiBs9Lua"
-      },
-      "artists": [
-        {
-          "name": "Fi Barreto",
-          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
-        }
-      ],
-      "duration_ms": 123600,
-      "name": "Ib\u00e9rico - O Canto do Beija-Flor-de-Gravata-Verde",
-      "url": "https://open.spotify.com/track/1bbShYj2Vz5n9NZ4TtkfYj"
-    },
-    {
-      "added_at": "2026-07-03 03:00:40",
-      "album": {
         "name": "Camisa Vintage",
         "url": "https://open.spotify.com/album/24537ToUynGliJJ9K0l23v"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 144095,
       "name": "Camisa Vintage",
       "url": "https://open.spotify.com/track/35REdBtOnxQnGNKqNcBEcb"
+    },
+    {
+      "added_at": "2026-07-03 03:00:40",
+      "album": {
+        "name": "Ib\u00e9rico (O Canto do Beija-Flor-de-Gravata-Verde)",
+        "url": "https://open.spotify.com/album/138YzrA0SuuS8fwiBs9Lua"
+      },
+      "artists": [
+        {
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+        }
+      ],
+      "duration_ms": 123600,
+      "name": "Ib\u00e9rico - O Canto do Beija-Flor-de-Gravata-Verde",
+      "url": "https://open.spotify.com/track/1bbShYj2Vz5n9NZ4TtkfYj"
     },
     {
       "added_at": "2026-07-03 03:00:40",
@@ -827,6 +827,26 @@
       "duration_ms": 219047,
       "name": "Avoad\u00e3o",
       "url": "https://open.spotify.com/track/5VTztuUlu65pn0ekooLio6"
+    },
+    {
+      "added_at": "2026-07-03 03:00:40",
+      "album": {
+        "name": "Open Mic",
+        "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
+      },
+      "artists": [
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 222692,
+      "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
     },
     {
       "added_at": "2026-07-03 03:00:40",
@@ -899,26 +919,6 @@
       "duration_ms": 92960,
       "name": "At\u00e9 o Fim",
       "url": "https://open.spotify.com/track/0uYL66M5jw4O1HmOpogXIC"
-    },
-    {
-      "added_at": "2026-07-03 03:00:40",
-      "album": {
-        "name": "Open Mic",
-        "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
-      },
-      "artists": [
-        {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 222692,
-      "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
-      "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
     },
     {
       "added_at": "2026-07-03 03:00:40",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2026-07-03 03:00:40",
       "album": {
+        "name": "tudo que voc\u00ea gostaria de ser, sou eu",
+        "url": "https://open.spotify.com/album/56l2vNLiG3dQJlxDiLnIwc"
+      },
+      "artists": [
+        {
+          "name": "D' Lucca",
+          "url": "https://open.spotify.com/artist/6TB6E84NVktrWTa1JXDyz0"
+        },
+        {
+          "name": "KAMACHO",
+          "url": "https://open.spotify.com/artist/4w0n2oYb0ZEuvlHa1Mnxci"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "garota problema",
+      "url": "https://open.spotify.com/track/45Cnuh6Q7nErLgcuhq9XFi"
+    },
+    {
+      "added_at": "2026-07-03 03:00:40",
+      "album": {
         "name": "Desliga",
         "url": "https://open.spotify.com/album/1zAYzdYPXrPS7JqQW7nIIx"
       },
@@ -1783,26 +1803,6 @@
       "duration_ms": 192001,
       "name": "Depois do Depois",
       "url": "https://open.spotify.com/track/49o6s1cJeFXcSyHMKtLnGg"
-    },
-    {
-      "added_at": "2026-07-03 03:00:40",
-      "album": {
-        "name": "tudo que voc\u00ea gostaria de ser, sou eu",
-        "url": "https://open.spotify.com/album/56l2vNLiG3dQJlxDiLnIwc"
-      },
-      "artists": [
-        {
-          "name": "D' Lucca",
-          "url": "https://open.spotify.com/artist/6TB6E84NVktrWTa1JXDyz0"
-        },
-        {
-          "name": "KAMACHO",
-          "url": "https://open.spotify.com/artist/4w0n2oYb0ZEuvlHa1Mnxci"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "garota problema",
-      "url": "https://open.spotify.com/track/45Cnuh6Q7nErLgcuhq9XFi"
     }
   ],
   "unique_name": "brisa",

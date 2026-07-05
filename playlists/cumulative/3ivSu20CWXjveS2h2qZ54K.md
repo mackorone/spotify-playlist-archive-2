@@ -4,7 +4,7 @@
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-8,581 songs - 19 day 19 hr 30 min
+8,582 songs - 19 day 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4961,6 +4961,7 @@
 | [Moreno](https://open.spotify.com/track/0fjLfvd70UrT4Gbx5krquK) | [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Moreno](https://open.spotify.com/album/4hk5ODgRTAVk9jv4Mo6n8N) | 2:59 | 2026-02-06 | 2026-02-14 |
 | [Morfina](https://open.spotify.com/track/226VEl98haK7eyOmJi76QA) | [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch), [Goa](https://open.spotify.com/artist/1jj0qqazY8R9qnrGAKneIh), [damnpablo](https://open.spotify.com/artist/4Ifc7Y6zo9tcnPVALBXjVI) | [Morfina](https://open.spotify.com/album/6KklQj8964uPtgXMuu7Pgr) | 3:45 | 2025-03-21 | 2025-03-29 |
 | [Morning Cry](https://open.spotify.com/track/6hs6fldhuYp37VBNUzHXS5) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [Honora](https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM) | 3:31 | 2026-03-27 | 2026-04-04 |
+| [MORNING DEW \(DONK\)](https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MORNING DEW \(DONK\)](https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ) | 4:03 | 2026-07-04 |  |
 | [MORTAL KOMBAT](https://open.spotify.com/track/2mJ3GtJzImwlmucY5Ffrno) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [MORTAL KOMBAT](https://open.spotify.com/album/6gOjy2B2NiAGiqPlVAKnTs) | 2:55 | 2025-03-14 | 2025-03-22 |
 | [Most Wanted](https://open.spotify.com/track/6HCuHO6mo1IHkVFP3MYhGc) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Most Wanted](https://open.spotify.com/album/3aYuquvInx2lScw9Nec6bP) | 2:15 | 2026-01-16 | 2026-01-24 |
 | [Moth To A Flame](https://open.spotify.com/track/78EK9fx47IpXsp0wqtONjK) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP), [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [GEWAH Selects \(DJ Mix\)](https://open.spotify.com/album/4dFQIf3DnBh6UhWSoGZOPU) | 3:10 | 2025-10-03 | 2025-10-11 |

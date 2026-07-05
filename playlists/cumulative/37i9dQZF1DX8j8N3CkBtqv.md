@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Iqlipse Nova, Aditya A , Deepika Seth and other exciting artists.
 
-1,503 songs - 3 day 10 hr 33 min
+1,504 songs - 3 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -934,6 +934,7 @@
 | [Myna](https://open.spotify.com/track/1eqsvDzOLogvzH3KnjkGcr) | [Secrets For Sale](https://open.spotify.com/artist/2hqCdgmng9ewquru5qzLVp), [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Myna](https://open.spotify.com/album/7yVyzBDkw83o8M26sVUclt) | 2:54 | 2024-02-02 | 2024-02-17 |
 | [Na Bol](https://open.spotify.com/track/1SmAhSbMTtjN2g2C8m2V4k) | [Vidhya Gopal](https://open.spotify.com/artist/0dXhihFK6rCZyag11hWJ2B) | [Par](https://open.spotify.com/album/4ck6HaPNKMaBXiEr5JfxwT) | 3:19 | 2023-09-29 | 2023-10-21 |
 | [Na Gul Na Gulistan](https://open.spotify.com/track/3mTMHsQBJRpfUaN4gTA3zt) | [Parvaaz](https://open.spotify.com/artist/6vwSAnfnlO6Sy37KubGrLh) | [Na Gul Na Gulistan](https://open.spotify.com/album/3iHvPWrqP5RrcMyp4yYzm7) | 4:55 | 2025-11-21 | 2026-01-25 |
+| [Na Hoke Tu](https://open.spotify.com/track/5mVzanSjzI5FIYYFnmON2W) | [Shallum Lama](https://open.spotify.com/artist/4ufyGQgkJxP92QPasJAmMv), [Riko Lama](https://open.spotify.com/artist/1D5sTl3UODrUV0dHXKNmvx) | [Na Hoke Tu](https://open.spotify.com/album/1mbGdH1YhNjEjyNYcY8Jfi) | 3:27 | 2026-07-03 |  |
 | [Na Ja](https://open.spotify.com/track/5PBms8xSMFFnTT9MShFQ6d) | [Raveena Mehta](https://open.spotify.com/artist/5II26ULdW25JT4tbUISamb), [Ysoblue](https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww) | [Na Ja](https://open.spotify.com/album/29fiUguzZwSeACPVhm9HtA) | 2:41 | 2024-05-10 | 2024-06-15 |
 | [Na Jaaney Kyun](https://open.spotify.com/track/7EZmoVJNJfda66TJ44aME6) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Love And Machines](https://open.spotify.com/album/0fWfU1WJh4pwIof4eSei9m) | 3:18 | 2026-04-10 | 2026-07-04 |
 | [Na Lage Nazar](https://open.spotify.com/track/28U6ckPA3oRItIEzVbe3j7) | [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Na Lage Nazar](https://open.spotify.com/album/0WNMMhuafd7o9XQzwtgLlY) | 3:00 | 2026-05-29 |  |
@@ -1427,7 +1428,7 @@
 | [Ud Chala](https://open.spotify.com/track/73jcoLvB2tUA8R2fOB8skM) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Ud Chala](https://open.spotify.com/album/01cnDRpYwguQFYD17oM37A) | 4:27 | 2023-04-14 | 2023-05-20 |
 | [Ud Ke Chali](https://open.spotify.com/track/0zVhqtuCf3QCozl1NewYyT) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Ud Ke Chali](https://open.spotify.com/album/2hkVPBR8j7cZWNmCdWer5f) | 3:55 | 2023-10-13 | 2023-11-25 |
 | [Udaan](https://open.spotify.com/track/5yL8CBAxa5ijWGKndCTG9T) | [Antariksh](https://open.spotify.com/artist/4RzIOJu74yNYeSHL3ri60l) | [Udaan](https://open.spotify.com/album/2IKuIWZXFYHQKRLnrbjx7L) | 3:40 | 2025-12-05 | 2026-02-28 |
-| [Udd Jaa Re](https://open.spotify.com/track/6PlB0dBiwLEWVLHbyKBmAn) | [Rishabh Shah](https://open.spotify.com/artist/1BVz5IvR4oVIdg5OiieDo8), [Junaid Ahmed](https://open.spotify.com/artist/59bhZii0sIi41aSgxXEK4E), [Soham Majumdar](https://open.spotify.com/artist/0iUhDzcPX7mex7q2G3BRvW) | [Udd Jaa Re](https://open.spotify.com/album/1UtISscye9zQhfgXFo7MEj) | 3:55 | 2026-06-19 |  |
+| [Udd Jaa Re](https://open.spotify.com/track/6PlB0dBiwLEWVLHbyKBmAn) | [Rishabh Shah](https://open.spotify.com/artist/1BVz5IvR4oVIdg5OiieDo8), [Junaid Ahmed](https://open.spotify.com/artist/59bhZii0sIi41aSgxXEK4E), [Soham Majumdar](https://open.spotify.com/artist/0iUhDzcPX7mex7q2G3BRvW) | [Udd Jaa Re](https://open.spotify.com/album/1UtISscye9zQhfgXFo7MEj) | 3:55 | 2026-06-19 | 2026-07-05 |
 | [Udd Jaaun](https://open.spotify.com/track/4yePaaiZkhSrJaTAPRt6R5) | [Kavya Singh](https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm) | [Udd Jaaun](https://open.spotify.com/album/5JZzrHeVJKDK5QjGWnuGft) | 2:43 | 2024-08-23 | 2024-09-28 |
 | [Udta Parinda](https://open.spotify.com/track/1gCuddnspi9GThFomI8dYb) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Udta Parinda](https://open.spotify.com/album/2bQOQBSdlI6Oh7rW5rah5T) | 2:58 | 2023-11-24 | 2024-01-13 |
 | [Uff](https://open.spotify.com/track/7rF3cZERZvYoPG7fRfBJ66) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK) | [Uff](https://open.spotify.com/album/7elw8oxe7Uh9oZldfemFih) | 2:56 | 2024-10-11 | 2025-01-18 |

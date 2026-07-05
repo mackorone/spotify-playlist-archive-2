@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7384,
+  "num_followers": 7396,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akWqAAAAAACPm2nRcIvLjT7yRhx4fci9",
+  "snapshot_id": "akb7gAAAAACfThnMEBa4cP4IKZhKjn4u",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EP 8",
-        "url": "https://open.spotify.com/album/5uerg4BPdbjGolQbku0DN4"
-      },
-      "artists": [
-        {
-          "name": "Qveen Herby",
-          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 184295,
-      "name": "Self Aware",
-      "url": "https://open.spotify.com/track/6EZhDRvp7JE0wb2wDsxkuc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DUR&",
         "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 261500,
       "name": "STUCK.",
       "url": "https://open.spotify.com/track/7EXvZP4EJrwD9dVKMyKeGz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EP 8",
+        "url": "https://open.spotify.com/album/5uerg4BPdbjGolQbku0DN4"
+      },
+      "artists": [
+        {
+          "name": "Qveen Herby",
+          "url": "https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 184295,
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/6EZhDRvp7JE0wb2wDsxkuc"
     },
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unblocked",
-        "url": "https://open.spotify.com/album/6omkx1K476nY2LZUexvgs5"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 315072,
-      "name": "Sam\u2019s Vibe",
-      "url": "https://open.spotify.com/track/2Ih6nTv0CN6VMm3IRrDmGR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "baby, can we?",
         "url": "https://open.spotify.com/album/3bgs7xRzqhbubFe4t1xoUZ"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 246422,
       "name": "baby, can we?",
       "url": "https://open.spotify.com/track/2VAqycb7wkoJvHjAg3GLdk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unblocked",
+        "url": "https://open.spotify.com/album/6omkx1K476nY2LZUexvgs5"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 315072,
+      "name": "Sam\u2019s Vibe",
+      "url": "https://open.spotify.com/track/2Ih6nTv0CN6VMm3IRrDmGR"
     },
     {
       "added_at": null,
@@ -483,18 +483,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUR&",
-        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
+        "name": "Completed - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5EMhgECFU4cV1B5WkwEhmX"
       },
       "artists": [
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 305218,
-      "name": "Company",
-      "url": "https://open.spotify.com/track/1SxojyK5aAEHRS2mnNgVhU"
+      "duration_ms": 349319,
+      "name": "Completed - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2VU9K6Cw4ocEaamg0iNkqr"
     },
     {
       "added_at": null,
@@ -519,22 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Completed - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5EMhgECFU4cV1B5WkwEhmX"
+        "name": "DUR&",
+        "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
       },
       "artists": [
         {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 349319,
-      "name": "Completed - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2VU9K6Cw4ocEaamg0iNkqr"
+      "duration_ms": 305218,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/1SxojyK5aAEHRS2mnNgVhU"
     },
     {
       "added_at": null,

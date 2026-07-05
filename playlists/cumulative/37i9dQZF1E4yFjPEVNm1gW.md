@@ -2,9 +2,9 @@
 
 ### [Taewitdak Radio](https://open.spotify.com/playlist/37i9dQZF1E4yFjPEVNm1gW)
 
-> With Yeat, Cuo Zay, Duwap Kaine and more
+> With Yeat, Cuo Zay, Autumn! and more
 
-260 songs - 10 hr 18 min
+262 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Great White](https://open.spotify.com/track/7Audfj7uXjCpZJbmu2ULut) | [Lil Zah](https://open.spotify.com/artist/2RHRcmzg69Qi8tfiBT6DKG), [Lukey Sunshine](https://open.spotify.com/artist/4gaqT1cSWzHMtf8uextSzZ) | [Great White](https://open.spotify.com/album/0jvmiGfGsEj1PjfOoP2WQF) | 2:23 | 2026-01-05 | 2026-01-15 |
 | [Guillotine](https://open.spotify.com/track/3YirUAtlK9nCzPp3CTaAg5) | [fallnluv](https://open.spotify.com/artist/1CnKbe2BryZ7vn19TKRzXu) | [Guillotine](https://open.spotify.com/album/42BOi5vIhZBxXp1fbDcgVh) | 3:25 | 2026-02-28 | 2026-03-01 |
 | [Hannah Montana](https://open.spotify.com/track/2JegRQblXBHcGA6oGpoxrn) | [LOOK KILLA](https://open.spotify.com/artist/4VJIWtFR6cPbxNSWEgkqxf), [user00xman](https://open.spotify.com/artist/4YkU1TtBH2NqSJC7QQzaQj) | [Blak Amerika 0.5](https://open.spotify.com/album/5vhfiGkD34WJLIhV65PK1L) | 2:24 | 2026-05-02 | 2026-05-22 |
-| [Hard Times](https://open.spotify.com/track/4jwW9bNxx84FiE22yN293I) | [BBE Spazz](https://open.spotify.com/artist/6BPALNcunGApURCYG3IEd9) | [Liber Regum](https://open.spotify.com/album/6lb6pZDW0pltXcApw96zml) | 2:30 | 2026-07-04 |  |
+| [Hard Times](https://open.spotify.com/track/4jwW9bNxx84FiE22yN293I) | [BBE Spazz](https://open.spotify.com/artist/6BPALNcunGApURCYG3IEd9) | [Liber Regum](https://open.spotify.com/album/6lb6pZDW0pltXcApw96zml) | 2:30 | 2026-07-04 | 2026-07-05 |
 | [Hardy Boyz \(feat\. Bloodhound Lil Jeff\)](https://open.spotify.com/track/3MIAujDDxkigmJfwHbFRyN) | [Bloodhound Lil Jeff](https://open.spotify.com/artist/7cLnKyXKfZJN3EAKlrCrhZ), [BloodHound Q50](https://open.spotify.com/artist/7DVSW8TAJdesr6KT5C0rZx) | [Hardy Boyz \(feat\. Bloodhound Lil Jeff\)](https://open.spotify.com/album/3tzKkC8md0MnmsWVAcFhhz) | 1:51 | 2026-02-10 |  |
 | [Hatër](https://open.spotify.com/track/7u48RjanhFy30zE8N5dOiw) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:32 | 2025-11-30 | 2026-06-26 |
 | [Hella Vibes \(feat TSAN\)](https://open.spotify.com/track/7ckQz5pK4N02ppA23PgW7Q) | [Dsaint](https://open.spotify.com/artist/1FEQirb937ThSgTB386hwi) | [Hella Vibes \(feat TSAN\)](https://open.spotify.com/album/4nI306COmaUP1Rdg4xh3nv) | 1:56 | 2026-05-08 | 2026-05-20 |
@@ -103,7 +103,7 @@
 | [Hollows Threw His Jacket](https://open.spotify.com/track/6LhuZdisWyTcMm4ZtLlaB5) | [Slimesito](https://open.spotify.com/artist/1fqzcp3dzZD1YGQ2RT5pYs), [BeezyB](https://open.spotify.com/artist/0beKhPdlNQhonFGiOOJHqi) | [Slimebeezy 3](https://open.spotify.com/album/0g8gja4ZdfXMVK2fWSCbWc) | 1:47 | 2026-01-23 | 2026-02-17 |
 | [HOMEGROWN](https://open.spotify.com/track/0pMwh56IqW62E9uqyod3LB) | [Eco$ystem](https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk), [Baakio](https://open.spotify.com/artist/36ws0N21AlYMI8YMyiz2Il), [Brw Zu](https://open.spotify.com/artist/53HWqdmmLnvZOKd9hfUiDp), [Lowkeyhitmaker](https://open.spotify.com/artist/4IO0VlLADpnIh3Ewvc8q9t), [NO HANDOUT](https://open.spotify.com/artist/0opfecIJbYw0DOgkvjjDw0) | [NHO:PARLAY BOYZ](https://open.spotify.com/album/37KdDPalzJJYobwfrq4vLi) | 2:45 | 2026-06-13 |  |
 | [Hoop Ass Nigga](https://open.spotify.com/track/5Fr3Tsw7WvayQ0ec1r6DaS) | [Nsg Rue](https://open.spotify.com/artist/6D4FdJFkaRNFwSdPe45Fu2), [Lil Reese](https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS) | [What They Want](https://open.spotify.com/album/5NkIQPzchxlzzrd6dj5AMh) | 2:06 | 2026-01-15 | 2026-01-21 |
-| [I Love Freaks](https://open.spotify.com/track/13HuPBcqaL4iHzZiWyjLl6) | [Lijay](https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ) | [I Love Freaks](https://open.spotify.com/album/1P9yQpoQrOW2LX9683Aepu) | 1:41 | 2026-05-08 |  |
+| [I Love Freaks](https://open.spotify.com/track/13HuPBcqaL4iHzZiWyjLl6) | [Lijay](https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ) | [I Love Freaks](https://open.spotify.com/album/1P9yQpoQrOW2LX9683Aepu) | 1:41 | 2026-05-08 | 2026-07-05 |
 | [I Might Drive](https://open.spotify.com/track/6DCrWJbZPqqmnd0WpoB7su) | [Nfe Tummy](https://open.spotify.com/artist/5kYpfTaZup3Da12sn2KKP8) | [So Im The Bad Guy](https://open.spotify.com/album/4HVNcXuZeQWbJFZd2vG34F) | 1:50 | 2026-04-24 | 2026-05-29 |
 | [i want](https://open.spotify.com/track/1y1f64rhNHqhxHf4b6t3iO) | [yit](https://open.spotify.com/artist/5WEPWwmJRjDOub8mfEs08r), [M71KE](https://open.spotify.com/artist/12TuXufr9APcDNTQ1SsCYu) | [yit.mp3](https://open.spotify.com/album/0GQgKhXbtJ3jJ8DnwfxKXj) | 2:43 | 2026-02-01 | 2026-03-19 |
 | [I'm Okay](https://open.spotify.com/track/5MQByQHR2Jxv8AjgGHiu0L) | [4TUNAT](https://open.spotify.com/artist/7xQ6sIYtLwD4JjZVddw9Jl), [Mascey](https://open.spotify.com/artist/2leeJ9Oskse9ySvoRgIYiY) | [YARDMAN: DELUXE](https://open.spotify.com/album/79St16B0at9aFJU0ga3v1X) | 2:03 | 2026-04-14 | 2026-04-21 |
@@ -198,7 +198,9 @@
 | [Rubbin Of The Pain x New Flesh](https://open.spotify.com/track/3bVaz8yj2aQfXnqqTTkm56) | [Srino n Fonda](https://open.spotify.com/artist/2PIEUOwnDW10QyRrbfFxBC) | [Rubbin Of The Pain x New Flesh](https://open.spotify.com/album/2qIliHR7ptRdTApAoTuDRP) | 2:21 | 2026-05-24 | 2026-05-27 |
 | [Rubbin Of The Pain x New Flesh](https://open.spotify.com/track/6SgxATkTjN7WVowticHoB5) | [Srino n Fonda](https://open.spotify.com/artist/2PIEUOwnDW10QyRrbfFxBC) | [Rubbin Of The Pain x New Flesh](https://open.spotify.com/album/3m7FCXWXfa8RgFdUxHNPEG) | 2:21 | 2026-01-26 | 2026-03-02 |
 | [Rubbin Off The Paint x New Flesh](https://open.spotify.com/track/6d42nLEA7M1HDs86A5IB2t) | [Srino n Fonda](https://open.spotify.com/artist/2PIEUOwnDW10QyRrbfFxBC) | [Rubbin Off The Paint x New Flesh](https://open.spotify.com/album/0CjOJ8rCpTr8EKc5fhjeSi) | 2:21 | 2025-11-29 | 2026-05-24 |
+| [Run We Chase Em](https://open.spotify.com/track/5A7jetXADVblT5s9KZa6Pn) | [Lor Tray](https://open.spotify.com/artist/7wJ50HCmWAlkK46YB0LOrB), [200 coldheart](https://open.spotify.com/artist/23oW8U8mPkg9LoFP9KPWdh) | [When The Hate Dont Work They Lie](https://open.spotify.com/album/3EBJgAhgnNwMuN4JDJdA32) | 2:33 | 2026-07-05 |  |
 | [scrimmage](https://open.spotify.com/track/63W9vpUPPWerUd96x3nx8c) | [TopOppGen](https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye) | [peace does not reside on my end](https://open.spotify.com/album/53UX0XsKynszKaz5kb570e) | 2:06 | 2026-05-17 |  |
+| [shimmy](https://open.spotify.com/track/2j9OmMArlj8DtRM0OE4aVH) | [fangmadesoso](https://open.spotify.com/artist/3ZmDpHju6Fg36kDgIIdHnl), [so so](https://open.spotify.com/artist/55TY2YdFmJ11CSGC5DkXQc), [up!r](https://open.spotify.com/artist/1GUHKMXKOywHEOIa8zShNm) | [fangmade](https://open.spotify.com/album/4YL7UDjOcbIzypja9OFMx7) | 1:39 | 2026-07-05 |  |
 | [sick](https://open.spotify.com/track/6IP5h91yInTxUqDBb9Buy3) | [jaydes](https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv) | [!?](https://open.spotify.com/album/6Q8NissAQlvTJKlqpzm5R4) | 2:05 | 2025-11-29 |  |
 | [Simple!](https://open.spotify.com/track/1LBl0ojqqA2hfLCrs3Vcn1) | [Autumn!](https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt) | [Ils Verront](https://open.spotify.com/album/2VLmqA6liyiWLQ7pu8d0na) | 3:03 | 2025-11-29 | 2026-04-22 |
 | [Sizzurp](https://open.spotify.com/track/1aED4pzjTZQRwEWGVIqFk2) | [luhdelf](https://open.spotify.com/artist/4igaC79J5tLhSZ8Qqo8zII) | [Hiatus](https://open.spotify.com/album/1B5dNX0AKfkPAcesNTBMjr) | 2:17 | 2026-05-17 | 2026-05-29 |

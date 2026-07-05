@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAMNiBBlC6X9BFeWBfh6eC8pU9cOUsn",
+  "snapshot_id": "AAAMOH2aIuq+fZtYs9yGS944ryFc/atO",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -54191,22 +54191,6 @@
       "duration_ms": 210893,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/78T9DulqSBWqkaxczcGBfk"
-    },
-    {
-      "added_at": "2025-01-03 01:25:28",
-      "album": {
-        "name": "Passion, Pain & Demon Slayin'",
-        "url": "https://open.spotify.com/album/5bCk3kWAy2JbbTfHqzZCII"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        }
-      ],
-      "duration_ms": 269226,
-      "name": "Swim In The Light",
-      "url": "https://open.spotify.com/track/5cjsgbZ8tZYD4f0LNpApnf"
     },
     {
       "added_at": "2025-01-03 01:25:28",
@@ -150639,6 +150623,22 @@
       "duration_ms": 182306,
       "name": "Replay",
       "url": "https://open.spotify.com/track/4E5P1XyAFtrjpiIxkydly4"
+    },
+    {
+      "added_at": "2026-07-04 11:18:24",
+      "album": {
+        "name": "Doki Doki Forever",
+        "url": "https://open.spotify.com/album/0Wh6w1t8XPBzvhufPvRXQL"
+      },
+      "artists": [
+        {
+          "name": "OR3O",
+          "url": "https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx"
+        }
+      ],
+      "duration_ms": 180280,
+      "name": "Doki Doki Forever",
+      "url": "https://open.spotify.com/track/4sFwijvwQBMvF8UAIklved"
     }
   ],
   "unique_name": "Purge",

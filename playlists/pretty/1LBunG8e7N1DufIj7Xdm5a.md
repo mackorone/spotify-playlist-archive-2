@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,565 songs - 10 day 4 hr 22 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,566 songs - 10 day 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4573,5 +4573,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4563 | [Try](https://open.spotify.com/track/1wa2z0DVUphZcmfxUVvaeN) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [Try](https://open.spotify.com/album/4UlGGdntkH7WIS8UfAy5cR) | 4:24 |
 | 4564 | [Sunburn](https://open.spotify.com/track/0SFsQqSAU2FzW7h8ZLe7qv) | [Frequency Overload](https://open.spotify.com/artist/5ENQmvhqRDwkp5IdF9U3Ia) | [Sunburn](https://open.spotify.com/album/7D3U1gc3zT2RaPWGGniSEA) | 4:47 |
 | 4565 | [Ayer](https://open.spotify.com/track/0qGoYf2qfDaCyYmdbJ2Zob) | [La Púa](https://open.spotify.com/artist/3xdGGLdM6K079LzmT4Z5sB) | [Ayer](https://open.spotify.com/album/6eUq14dAiPYN12aNeK22So) | 3:23 |
+| 4566 | [Dil Ye Dhadakta Hi Nahin \- Extended Version](https://open.spotify.com/track/2EICWOdqnZYMmeNhLlD5df) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Ye Dhadakta Hi Nahin](https://open.spotify.com/album/5ER11kVPBVRPXgqIDsNwUV) | 3:01 |
 
-Snapshot ID: `AAAJDj6EUA5/8+U3ygKwLqN9DdCgA16c`
+Snapshot ID: `AAAJD0GsUO2A5TIw0IxXan3nmMy1aP9F`

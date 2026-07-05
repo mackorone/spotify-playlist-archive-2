@@ -2887,6 +2887,28 @@
     },
     {
       "album": {
+        "name": "Movie Star",
+        "url": "https://open.spotify.com/album/5wvkrxiDZKUWaH7xXStpQz"
+      },
+      "artists": [
+        {
+          "name": "Peter Dallas",
+          "url": "https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh"
+        },
+        {
+          "name": "Shuttle",
+          "url": "https://open.spotify.com/artist/5QtW5ZhAsPzCUqZYldTWCh"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170657,
+      "name": "Movie Star",
+      "url": "https://open.spotify.com/track/7F7rB5cx9bFek4enhmoFKO"
+    },
+    {
+      "album": {
         "name": "Moving to Texas",
         "url": "https://open.spotify.com/album/0UsrULV6sHykPhDQ0CeCNN"
       },
@@ -4850,6 +4872,46 @@
       "duration_ms": 183405,
       "name": "Why did you Leave me?",
       "url": "https://open.spotify.com/track/5uZbQPdLJ7gnhpdecwNSgw"
+    },
+    {
+      "album": {
+        "name": "XPLAIN",
+        "url": "https://open.spotify.com/album/6NepNksFz502tlRuumDNze"
+      },
+      "artists": [
+        {
+          "name": "Liv Brokie",
+          "url": "https://open.spotify.com/artist/2zszPQfClIZIgqbZTASRox"
+        },
+        {
+          "name": "ceURR",
+          "url": "https://open.spotify.com/artist/6Y0WoIjWZioX80GDPiAirt"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99093,
+      "name": "XPLAIN",
+      "url": "https://open.spotify.com/track/0BQzBMDqey6HsgmuzB8U7q"
+    },
+    {
+      "album": {
+        "name": "Yahweh",
+        "url": "https://open.spotify.com/album/0i2g8DXKRAO6SzFLOVr4qr"
+      },
+      "artists": [
+        {
+          "name": "Gerald Harris",
+          "url": "https://open.spotify.com/artist/6hZTneb28osXbsR3PQ8FtC"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252376,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/1MVO7xPHCFYIZOZPX5NqtY"
     },
     {
       "album": {

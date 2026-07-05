@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover: Joepraize
 
-579 songs - 1 day 21 hr 51 min
+580 songs - 1 day 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Happiness Is Free](https://open.spotify.com/track/37ArjRef4CfvDMuQgTs1fx) | [Mike Aremu](https://open.spotify.com/artist/714vqy5IsHxOtHRvGIkIYX) | [Happiness Is Free](https://open.spotify.com/album/6LFSxhcEU6ITOS3fGcxHoG) | 3:19 | 2026-03-27 | 2026-05-22 |
 | [He Did It Again](https://open.spotify.com/track/3DnfU6JmmoKV4YK9gzCrk6) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [He Did It Again](https://open.spotify.com/album/4VXAAa1nfnwGBFvMAZLUbZ) | 5:03 | 2023-04-07 | 2023-07-28 |
 | [He Fights For Me](https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Grace Omosebi](https://open.spotify.com/artist/0MjHUPDq9KVCCqjAcTdVRQ), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 6:19 | 2023-05-19 | 2023-08-15 |
-| [He Is Enough](https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Enough](https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8) | 2:07 | 2024-03-29 |  |
+| [He Is Enough](https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Enough](https://open.spotify.com/album/3wh80jvwtIwEpPeXb0hgE8) | 2:07 | 2024-03-29 | 2026-07-05 |
 | [He Is Here](https://open.spotify.com/track/71WaxrZwN86EY4oZr2Z8pm) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Ibukun](https://open.spotify.com/artist/1JcySGJuBH1NiNXOCRnY51), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [He Is Here](https://open.spotify.com/album/6pzbXY00MdrbtrOywFw7SQ) | 9:00 | 2026-06-19 |  |
 | [He Is Here \(Live\)](https://open.spotify.com/track/5xTyw6RcRUIPbDPSXgl9h1) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Here \(Live\)](https://open.spotify.com/album/4yC2SG1jlzE9HumSAGdMx1) | 11:41 | 2025-04-18 | 2025-04-22 |
 | [Heaven Changes Everything](https://open.spotify.com/track/09K7v6EnuoR2TmjAEKUD71) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Heaven Changes Everything](https://open.spotify.com/album/2siQQnBK2IRSYMbjgdfvji) | 3:31 | 2023-12-29 | 2024-07-27 |
@@ -460,6 +460,7 @@
 | [Seen](https://open.spotify.com/track/0choVjlbcW5egLUqkPwOAe) | [Lola Ade](https://open.spotify.com/artist/1Dn5XPErF6q1w1sxxk8m6Y), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Seen](https://open.spotify.com/album/4B0oh0jk5PD3TfkyDls8pV) | 3:46 | 2025-11-21 | 2026-02-14 |
 | [Shelter](https://open.spotify.com/track/2i46KYvDeKGU0Gsc9WEV5C) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Shelter](https://open.spotify.com/album/47SqVj3WMJg7IubtrVGopx) | 4:12 | 2023-12-29 | 2024-03-09 |
 | [Shoulders](https://open.spotify.com/track/5MCG4XcVcvCOXWpSg2cfRC) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC) | [RUN WILD\. LIVE FREE\. LOVE STRONG\. \(Deluxe Anniversary Edition\)](https://open.spotify.com/album/3JgsuH1i4ddVP4Ke5zf87I) | 5:03 | 2025-04-18 | 2025-04-22 |
+| [Sing Hallelujah](https://open.spotify.com/track/6vuhl7uNuPXT2GkWCxORG2) | [Anisa Fowler](https://open.spotify.com/artist/2cNLP7g2aSAkVSYdfcQazv) | [Sing Hallelujah](https://open.spotify.com/album/1KzIax9CXuahfplIHbvLgn) | 7:04 | 2026-07-04 |  |
 | [So Good](https://open.spotify.com/track/0iaTMmga3aVAgYEWhk6EGn) | [Dr\. Prinz](https://open.spotify.com/artist/2vfO5rYj2XlUvUchSO1GOq), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [So Good](https://open.spotify.com/album/3rEGp31cARIIlik4WK9xyB) | 2:51 | 2025-09-26 | 2025-10-10 |
 | [So Good](https://open.spotify.com/track/3qggW9kMBkT34jXDHzEv6e) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D) | [So Good](https://open.spotify.com/album/7d6PpHVB0TjQbogPXJ23Ar) | 3:18 | 2025-08-29 | 2025-09-26 |
 | [Solid Ground \(Princeton’s Interlude\)](https://open.spotify.com/track/4x5Mak6vUYa8Zg0bGx18Ap) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Princeton South](https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn), [Ibquake](https://open.spotify.com/artist/71MYTepnDCNyybHqdcr40u) | [Solid Ground](https://open.spotify.com/album/48o7epnOBiRJrjRAi290qr) | 2:18 | 2026-03-27 | 2026-05-22 |

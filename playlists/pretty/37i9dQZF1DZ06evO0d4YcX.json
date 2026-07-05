@@ -1,12 +1,12 @@
 {
   "description": "This is Amber Mark. The essential tracks, all in one playlist.",
-  "num_followers": 16459,
+  "num_followers": 16460,
   "original_name": "This Is Amber Mark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akWqAAAAAABOf2hX52f5wpkCEq7A+rM/",
+  "snapshot_id": "akb7gAAAAAAqepbdBYlcjH3xZWHSQj3+",
   "tracks": [
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heatwave",
+        "url": "https://open.spotify.com/album/4g9FEP9LOTOblQ8ni00ymY"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 269523,
+      "name": "Heatwave",
+      "url": "https://open.spotify.com/track/5DQ45iTgC4PgcaYt89gg6y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MAKER'S DESIGN",
         "url": "https://open.spotify.com/album/2TunGa3NkPq54qjCozALUl"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 209773,
       "name": "GODDESS REIGN",
       "url": "https://open.spotify.com/track/1PTYb9Ta9dBHSXexc9etic"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heatwave",
-        "url": "https://open.spotify.com/album/4g9FEP9LOTOblQ8ni00ymY"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 269523,
-      "name": "Heatwave",
-      "url": "https://open.spotify.com/track/5DQ45iTgC4PgcaYt89gg6y"
     },
     {
       "added_at": null,

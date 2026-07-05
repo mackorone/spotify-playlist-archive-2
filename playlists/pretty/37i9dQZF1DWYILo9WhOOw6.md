@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 
 > Use Delta frequencies for the best night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,948 likes - 155 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,312 likes - 155 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 97 | [Delta Revive 92 Hz \- 93 Hz](https://open.spotify.com/track/1AuhhyzXXeYDwDAD7IIObH) | [Dreamlike States](https://open.spotify.com/artist/2dkyQx6iyFrb0ye8iGFz8L) | [Delta Revive 92 Hz \- 93 Hz](https://open.spotify.com/album/39AXFW1UN2uw6EUKXmXdAd) | 2:48 |
 | 98 | [Dissolve \(Delta Waves – 3 Hz Binaural Beat\)](https://open.spotify.com/track/5WrzYoyi6rOS8j7kFg8tbT) | [Oak Signum](https://open.spotify.com/artist/778Jcgt9K46ugLXd2DgsKy) | [Dissolve \(Delta Waves – 3 Hz Binaural Beat\)](https://open.spotify.com/album/2rCGKmmCnDGyFxZEhCwaZS) | 3:18 |
 | 99 | [Binaural Beats \(Delta Waves\)](https://open.spotify.com/track/2dsPYdcL9KKG0ZI2FStaWL) | [Binaural Beats Sleep](https://open.spotify.com/artist/5C95YXNLyaqbZjhwXMjZ4r) | [Sleeping Music: Soothing Binaural Beats and Dream Sleep Sounds for Deep Sleep, Relaxing Sleep Aid, Asmr and Sleep Music](https://open.spotify.com/album/22yQ8lgVEHKJyVrOvrMiNe) | 2:00 |
-| 100 | [Delta Healing](https://open.spotify.com/track/6xfB2UCADlA2BHYZCxZMAH) | [Driftwave](https://open.spotify.com/artist/2oUdsHCTyq7VbtEPSa7nWc) | [Binaural Sounds for Studying](https://open.spotify.com/album/6QXRYdfKCtYXKG0CiNK7Sc) | 3:24 |
+| 100 | [Delta Healing](https://open.spotify.com/track/6xfB2UCADlA2BHYZCxZMAH) | [Driftwave](https://open.spotify.com/artist/2oUdsHCTyq7VbtEPSa7nWc) | [The Gully Was Holding Still](https://open.spotify.com/album/6QXRYdfKCtYXKG0CiNK7Sc) | 3:24 |
 | 101 | [Stargazing \(Delta 4 Hz\)](https://open.spotify.com/track/3gxDOW6k1v5Bd7j8sEVhOT) | [Mind Medicine](https://open.spotify.com/artist/0nTfjHvGK38IUQ0Mx1BmF5) | [Stargazing \(Delta 4 Hz\)](https://open.spotify.com/album/3WWjaJ8Pl2QHNmfdWKLCHn) | 2:56 |
 | 102 | [Earths Wake Delta \(72\-76hz\)](https://open.spotify.com/track/1v4KSXsO4h3TdT3Rp5sfSy) | [Dream State](https://open.spotify.com/artist/1luJRbb6O7s7dczdofVIVs) | [Earths Wake Delta \(72\-76hz\)](https://open.spotify.com/album/13y50UYjCh75RQKq5YVLEZ) | 2:32 |
 | 103 | [Mystic Melodie \(Delta 79.3 \- 83.5 Hz\)](https://open.spotify.com/track/4x57yPzbKBubRutoe9rCHg) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Mystic Melodie \(Delta 79.3 \- 83.5 Hz\)](https://open.spotify.com/album/4fiARSvNosXQsXx9QNjb3R) | 2:50 |
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYILo9WhOOw6.md) - [plain]
 | 119 | [Ocean Wings \- Delta Sinus 156Hz \- 159Hz](https://open.spotify.com/track/4zkLAkhO367nuQEDoFGgEh) | [Binaural Shapers](https://open.spotify.com/artist/3DFcr29ML80ziXXllK7w7N) | [Binaural Ocean](https://open.spotify.com/album/4FqaMcjDOWjiA8n5ggwFGK) | 4:30 |
 | 120 | [Dream Portal 96.5Hz \- 99.5Hz](https://open.spotify.com/track/5szL06q7hgK28bqQOHzCgH) | [Synaptic Drift](https://open.spotify.com/artist/7qpGWvR4lZy3aQwjy9xcUC) | [Dream Portal 96.5Hz \- 99.5Hz](https://open.spotify.com/album/1DFmIu7vkjaU50lfmsdKYo) | 2:44 |
 | 121 | [Neue Space Delta \(56\-60hz\)](https://open.spotify.com/track/1JJzL7AEe57TjhuEL079Tp) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Neue Space Delta \(56\-60hz\)](https://open.spotify.com/album/5dYAju04MnC7WblInNrt6m) | 2:42 |
-| 122 | [Zen Delta Waves](https://open.spotify.com/track/5vrwJbrwiJRhLIin2qpoyn) | [Driftwave](https://open.spotify.com/artist/2oUdsHCTyq7VbtEPSa7nWc) | [Binaural Sounds for Studying](https://open.spotify.com/album/6QXRYdfKCtYXKG0CiNK7Sc) | 3:32 |
+| 122 | [Zen Delta Waves](https://open.spotify.com/track/5vrwJbrwiJRhLIin2qpoyn) | [Driftwave](https://open.spotify.com/artist/2oUdsHCTyq7VbtEPSa7nWc) | [The Gully Was Holding Still](https://open.spotify.com/album/6QXRYdfKCtYXKG0CiNK7Sc) | 3:32 |
 | 123 | [Lunar Light \(Delta 90.3 \- 93.6 Hz\)](https://open.spotify.com/track/5t3ld3RJSNiRqpPy0LETb1) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Lunar Light \(Delta 90.3 \- 93.6 Hz\)](https://open.spotify.com/album/5ZcqWhb29xTW3dr07FKgqp) | 2:24 |
 | 124 | [Binaural Delta Sinus 125 Hz \- 126 Hz](https://open.spotify.com/track/6JXlGLYJT2DnpM9yzmJSGG) | [Estonian Machine](https://open.spotify.com/artist/3T3PyxVgQxyzalpGZA4Paw) | [Binaural Delta Sinus 125 Hz \- 126 Hz](https://open.spotify.com/album/1pP5mixoFr0RTFJ3SzKQji) | 2:21 |
 | 125 | [Chaturanga : Delta Sinus Beats](https://open.spotify.com/track/7bHmwz4ZsxlAwzMeXQaMCS) | [Enlightened Spirits](https://open.spotify.com/artist/0Ii80W3VIHBgr211IUReM8) | [Sun Salutation : Delta Sinus Beats](https://open.spotify.com/album/2wdkJYEmhMdgmwyc9GXOmG) | 2:05 |

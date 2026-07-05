@@ -1087,6 +1087,28 @@
     },
     {
       "album": {
+        "name": "John Williams and \"The President's Own\", Vol. 3 (Live)",
+        "url": "https://open.spotify.com/album/5ihKdbQ9Dlq53lUDpTRjmP"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "United States Marine Band",
+          "url": "https://open.spotify.com/artist/3QeUCeRZhvSxjokyg2zImM"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509896,
+      "name": "Selections from \"Star Wars\": III. Throne Room and Finale - Live at the John F. Kennedy Center for the Performing Arts, 7/16/2023",
+      "url": "https://open.spotify.com/track/11vvffLR9vrKKqriVg4hOe"
+    },
+    {
+      "album": {
         "name": "Sound the Bells! (Version for Full Orchestra)",
         "url": "https://open.spotify.com/album/1hnHZtwCkiyGLpSQN2VVjM"
       },
@@ -1386,7 +1408,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 264293,
       "name": "Theme from Superman - Concert Version",
       "url": "https://open.spotify.com/track/4tABZngfyleLXr5wxHgRxZ"

@@ -1,12 +1,12 @@
 {
   "description": "everything olivia all of the time",
-  "num_followers": 2091776,
+  "num_followers": 2091732,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOlfx2wuit3iFchs7HQF7yjUcUMR",
+  "snapshot_id": "AAAAAKXqzUIBLsLeuxb8g/0WCtHlEaC/",
   "tracks": [
     {
       "added_at": "2026-06-26 04:02:21",
@@ -39,6 +39,22 @@
       "duration_ms": 217380,
       "name": "My Body Isn't Ready",
       "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
+    },
+    {
+      "added_at": "2026-07-04 04:38:13",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
     },
     {
       "added_at": "2026-07-03 04:02:26",

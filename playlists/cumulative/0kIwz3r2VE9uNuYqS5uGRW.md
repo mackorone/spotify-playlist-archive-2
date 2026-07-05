@@ -4,7 +4,7 @@
 
 > 
 
-261 songs - 13 hr 45 min
+264 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Miss you](https://open.spotify.com/track/2iOZyY6QNKmivaA09P7r7k) | [Vizi](https://open.spotify.com/artist/3V1gOrbofuLiTrwPzZLp8g) | [Miss you](https://open.spotify.com/album/0NRBaZWZkEJ8uTOtc8XjBB) | 2:42 | 2025-04-14 |  |
 | [MMA Rooky](https://open.spotify.com/track/4DNReWW0F9YaLDt6yqc2u1) | [32 Ohm](https://open.spotify.com/artist/1vgzRUPEZ8l3fszpEET43S) | [Figurants](https://open.spotify.com/album/08njCEqmT3aT9CW0knBFGt) | 3:05 | 2025-03-12 |  |
 | [Morena Bella](https://open.spotify.com/track/0hc3xjFAcuHRFIGgHgL09f) | [Onell](https://open.spotify.com/artist/2WHiJLWQrvMhJkqYCndpI1) | [Morena Bella](https://open.spotify.com/album/6BCvJS9b0WoYUb5rZBllYW) | 2:56 | 2026-01-02 |  |
+| [Movie Star](https://open.spotify.com/track/7F7rB5cx9bFek4enhmoFKO) | [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh), [Shuttle](https://open.spotify.com/artist/5QtW5ZhAsPzCUqZYldTWCh) | [Movie Star](https://open.spotify.com/album/5wvkrxiDZKUWaH7xXStpQz) | 2:50 | 2026-07-04 |  |
 | [Moving to Texas](https://open.spotify.com/track/78o1O6LcHo2wfJRWuzCvXZ) | [Tanya Winch](https://open.spotify.com/artist/0aWKzDAfDE0e9YAJ75fW51) | [Moving to Texas](https://open.spotify.com/album/0UsrULV6sHykPhDQ0CeCNN) | 3:50 | 2026-03-06 |  |
 | [Muse](https://open.spotify.com/track/7B5rT2i6JliL4fcxQRqDlk) | [Raphaela](https://open.spotify.com/artist/4fpakQ8unqqBifmsszha5F) | [Muse](https://open.spotify.com/album/6XWrC2jrmxLhdLtupCS0eq) | 3:09 | 2025-07-07 |  |
 | [Naomi](https://open.spotify.com/track/2YSdjfaZVGB09ZnUZNjrhp) | [Faint Images of the Radio Sky](https://open.spotify.com/artist/63BRCSvVdohSDgSUm19bPb) | [Itching Through the Permafrost](https://open.spotify.com/album/21aFPA1VXrE7OtKVCBNPyY) | 4:55 | 2026-06-16 |  |
@@ -264,6 +265,8 @@
 | [whiplash](https://open.spotify.com/track/5s6HZ7RY7kEH0HSzLC9jNe) | [Jonas Feurle](https://open.spotify.com/artist/0wu3fN6dTlMop83dDnMwke), [scrutch](https://open.spotify.com/artist/5ZgbUIDHqbDpf149oTHsaC) | [whiplash](https://open.spotify.com/album/6DsQlUk29PL4fO3RRyoq9k) | 3:37 | 2025-07-07 |  |
 | [Whiskey](https://open.spotify.com/track/0hnWQ00Z7cVWtcZDXLYq6x) | [Second Story Duo](https://open.spotify.com/artist/41awsJ9Gs9Ah8d5uX37r3h) | [Reflections](https://open.spotify.com/album/4PJ1P80qf9hVpFGchfhy13) | 3:02 | 2025-12-14 |  |
 | [Why did you Leave me?](https://open.spotify.com/track/5uZbQPdLJ7gnhpdecwNSgw) | [Callum Renshaw](https://open.spotify.com/artist/3Ujsrfs3QjtIok8isfMXej) | [Why did you Leave me?](https://open.spotify.com/album/29Ame1VezxvtLjQmbuHZxz) | 3:03 | 2026-05-16 |  |
+| [XPLAIN](https://open.spotify.com/track/0BQzBMDqey6HsgmuzB8U7q) | [Liv Brokie](https://open.spotify.com/artist/2zszPQfClIZIgqbZTASRox), [ceURR](https://open.spotify.com/artist/6Y0WoIjWZioX80GDPiAirt) | [XPLAIN](https://open.spotify.com/album/6NepNksFz502tlRuumDNze) | 1:39 | 2026-07-04 |  |
+| [Yahweh](https://open.spotify.com/track/1MVO7xPHCFYIZOZPX5NqtY) | [Gerald Harris](https://open.spotify.com/artist/6hZTneb28osXbsR3PQ8FtC) | [Yahweh](https://open.spotify.com/album/0i2g8DXKRAO6SzFLOVr4qr) | 4:12 | 2026-07-04 |  |
 | [You at First Sight](https://open.spotify.com/track/5Jb8z94wh7eUBUIhaqoKFm) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [You at First Sight](https://open.spotify.com/album/7zGHcgMh4hf5jUm0EgA1z6) | 3:04 | 2025-09-15 |  |
 | [You're not alone](https://open.spotify.com/track/1hXq4ig3y9UmN6DHFaTaGu) | [Basement](https://open.spotify.com/artist/3AJMnPzFJc7MIbaaajhqJw) | [You're not alone](https://open.spotify.com/album/4am4CNnz2fOXVHtQleDG99) | 3:23 | 2026-06-25 |  |
 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 | 2025-12-24 |  |

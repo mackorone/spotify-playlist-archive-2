@@ -4,7 +4,7 @@
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Ramón Ayala en portada.
 
-358 songs - 18 hr 30 min
+359 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [El Disgusto](https://open.spotify.com/track/1yhUCJgl0iUT9zX8UvEyPr) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Relampagueando \- En Memoria De Cornelio Reyna 25 Años Después](https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy) | 2:24 | 2024-08-28 |  |
 | [El Disgusto](https://open.spotify.com/track/4iqtAVs3kzqqPCri14en3D) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [40 Éxitos](https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd) | 2:27 | 2022-03-17 | 2024-08-28 |
 | [El Palomito](https://open.spotify.com/track/4C4YAtXuYVY3r07SP4CWYT) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Carretonero](https://open.spotify.com/album/1j746RZaEVvSR5t4NwxL5x) | 3:01 | 2022-03-17 | 2022-11-13 |
-| [El Palomito](https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 3:18 | 2022-03-17 |  |
+| [El Palomito](https://open.spotify.com/track/0qjKG2VxquPgZMh2pyxra8) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas de Exitos](https://open.spotify.com/album/7Gg9HwOnLZWtNHjxhq3s7m) | 3:18 | 2022-03-17 | 2026-07-05 |
+| [El Palomito](https://open.spotify.com/track/4GvAD2BDnil27Vd1nnFA60) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Los Dos Amigos](https://open.spotify.com/album/6mqogWSSMI2ILayL4oJ73d) | 3:19 | 2026-03-10 |  |
 | [El Palomito](https://open.spotify.com/track/776iIxEhuk4pjMl33PVQhT) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Exitos Originales](https://open.spotify.com/album/4Z45H8FuupXcq2xi2FAH41) | 3:19 | 2022-03-17 | 2024-08-28 |
 | [El Palomito](https://open.spotify.com/track/21hMcDiuVRW0AdCJYQnyvH) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [No Vuelvo A Amar](https://open.spotify.com/album/60R2QWiW8PC3rYatvKiuwL) | 3:19 | 2022-03-17 | 2022-11-12 |
 | [El Perro De Tu Marido](https://open.spotify.com/track/4xv7mwcq6os6dO5l3TtRqS) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:27 | 2023-06-07 |  |
@@ -338,8 +339,8 @@
 | [Un Idiota Como Yo](https://open.spotify.com/track/44evv7IRYiR0O6rQqok1gX) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Relaciones Conflictivas](https://open.spotify.com/album/74bjZLjDhzywJCyky6HyK3) | 3:25 | 2026-03-10 |  |
 | [Un Minuto Más](https://open.spotify.com/track/29QyPwjZKlSbDeMk3RGfWL) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Desde Hoy](https://open.spotify.com/album/6DeI66UvgFBjgrQKJ78soZ) | 3:27 | 2026-03-10 |  |
 | [Un Rinconcito En El Cielo](https://open.spotify.com/track/3Bab8rkL9ByngZwofNYQkt) | [Eliseo Robles Y Los Barbaros Del Norte](https://open.spotify.com/artist/4NEmR7zH9rp0sqovTevYOq) | [20 Exitos Historia Musical](https://open.spotify.com/album/5PTwoe4hUdLUXKTeVTPTOv) | 3:40 | 2022-03-17 | 2024-12-04 |
-| [Un Viejo Amor](https://open.spotify.com/track/7qhDB8S7ChisYhV2nqLdvV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:39 | 2026-03-10 |  |
-| [Un Viejo Amor](https://open.spotify.com/track/2ZulEcB2LuEgOMOvgUc1D0) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Un Viejo Amor](https://open.spotify.com/album/77ZW10v1TqyzscNCtw1TPY) | 2:39 | 2026-03-10 | 2026-04-08 |
+| [Un Viejo Amor](https://open.spotify.com/track/7qhDB8S7ChisYhV2nqLdvV) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:39 | 2026-03-10 | 2026-07-05 |
+| [Un Viejo Amor](https://open.spotify.com/track/2ZulEcB2LuEgOMOvgUc1D0) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [Un Viejo Amor](https://open.spotify.com/album/77ZW10v1TqyzscNCtw1TPY) | 2:39 | 2026-03-10 |  |
 | [Un Viejo Amor](https://open.spotify.com/track/20NJvnEVfiinje8E8Y1di3) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/37ftvMPjA81bYds5F0NKZs) | 2:40 | 2022-03-17 | 2022-07-29 |
 | [Un Viejo Amor](https://open.spotify.com/track/2crKAO9BmgxaCo98HhSAXP) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:40 | 2022-03-17 |  |
 | [Una Lagrima y un Recuerdo](https://open.spotify.com/track/04fiThYimEJvfWey1rOpEz) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:47 | 2024-08-28 | 2026-03-10 |

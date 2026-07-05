@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > sopra il beat di Flatinho, G\. Mineiro in cover 🇧🇷
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,412 likes - 55 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,387 likes - 55 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 12 | [Arricchiti \(feat\. Guè\)](https://open.spotify.com/track/7agE2kK4XZnjRrbwnVJV1T) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Arricchiti \(feat\. Guè\)](https://open.spotify.com/album/5r8qz3XZd9YULzc47y8Nd5) | 2:35 |
 | 13 | [Giovani Re](https://open.spotify.com/track/1YxG9XcjtJgxTN6OenRh1V) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Famoso](https://open.spotify.com/album/2nLyZRTwA9dJkXWoWBhBGL) | 2:48 |
 | 14 | [PIENXA EN MI](https://open.spotify.com/track/4MR5DmTbTZUA9asyyUmJgP) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [EL MOCO VERDE](https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH) | 2:53 |
-| 15 | [Devo Andare Con Le Mie Winx \(feat\. Rhove\)](https://open.spotify.com/track/5eVWsjUs8OUajXFUWk9fXo) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [È O G.](https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd) | 2:13 |
+| 15 | [Devo Andare Con Le Mie Winx \(feat\. Rhove\)](https://open.spotify.com/track/5eVWsjUs8OUajXFUWk9fXo) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg), [Balanta](https://open.spotify.com/artist/0UCRZg1uufYhRxQ6Gm3eij) | [È O G.](https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd) | 2:13 |
 | 16 | [DAL TACCO](https://open.spotify.com/track/1zrEskyOLXViiYdZgggiUI) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [DAL TACCO](https://open.spotify.com/album/1pkUZWvJtOTpsP5pP7gPBq) | 2:27 |
 | 17 | [BRATZ \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/10nZU1tAX7XepntuYDJUVO) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 2:58 |
 | 18 | [Parapluie](https://open.spotify.com/track/4JKX37OcxWbq2qL0eyVYs2) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Parapluie](https://open.spotify.com/album/5YMasNweSIcoJEVrBxVsbP) | 2:34 |

@@ -1127,6 +1127,28 @@
     },
     {
       "album": {
+        "name": "Contra el Mundo",
+        "url": "https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Scoop Jackson",
+          "url": "https://open.spotify.com/artist/6CqOz0VwbYc05bRVqikhCg"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127712,
+      "name": "Rodeo",
+      "url": "https://open.spotify.com/track/5yxnNW5Bmy4ABNa3G1u4Cd"
+    },
+    {
+      "album": {
         "name": "Nino de Oro",
         "url": "https://open.spotify.com/album/58gcWA2WJpH0VZvzTn6ecM"
       },

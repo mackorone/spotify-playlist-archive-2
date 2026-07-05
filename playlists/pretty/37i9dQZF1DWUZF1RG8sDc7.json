@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 165656,
+  "num_followers": 165678,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "De Primera",
-        "url": "https://open.spotify.com/album/35Adr7MPWQquMu26hgwnLc"
+        "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
+        "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
       "artists": [
         {
-          "name": "Los Gigantes Del Vallenato",
-          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+          "name": "Jose Luis Carrascal",
+          "url": "https://open.spotify.com/artist/0HfJ1yICQwR6jvdHST3SSh"
         }
       ],
-      "duration_ms": 307304,
-      "name": "Se Me Salen las Lagrimas",
-      "url": "https://open.spotify.com/track/7b55Rm9igzfmSO68M7msjG"
+      "duration_ms": 297746,
+      "name": "Como duele el frio",
+      "url": "https://open.spotify.com/track/7mu5YOeMeTQz8Vv8iE9HQx"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "De Primera",
+        "url": "https://open.spotify.com/album/35Adr7MPWQquMu26hgwnLc"
+      },
+      "artists": [
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 307304,
+      "name": "Se Me Salen las Lagrimas",
+      "url": "https://open.spotify.com/track/7b55Rm9igzfmSO68M7msjG"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
         "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 286640,
       "name": "Mi Diosa Humana",
       "url": "https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Uniendo Corazones",
-        "url": "https://open.spotify.com/album/5gIqgNNFJ8SggyYoOdco0X"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 259920,
-      "name": "Novios Cruzados",
-      "url": "https://open.spotify.com/track/0UwQDjsRywuRxFhjPjs5aB"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

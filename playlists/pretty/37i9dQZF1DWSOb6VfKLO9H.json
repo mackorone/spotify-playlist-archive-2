@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 109747,
+  "num_followers": 109784,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -891,6 +891,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Pit Stop",
+        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
+      },
+      "artists": [
+        {
+          "name": "Bridde Boys",
+          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
+        }
+      ],
+      "duration_ms": 253544,
+      "name": "Pit Stop",
+      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "POSITIE",
         "url": "https://open.spotify.com/album/5ZxrvhLBo8rYCB1V8vTguF"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 200970,
       "name": "POSITIE",
       "url": "https://open.spotify.com/track/5dVXY5359o7XBmfoNCBMxg"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Pit Stop",
-        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
-      },
-      "artists": [
-        {
-          "name": "Bridde Boys",
-          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
-        }
-      ],
-      "duration_ms": 253544,
-      "name": "Pit Stop",
-      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1023,30 +1023,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Cocaina (Remix)",
-        "url": "https://open.spotify.com/album/2Fsjpq6WBpu8J8kzLtVGIS"
+        "name": "Betasten",
+        "url": "https://open.spotify.com/album/0xaq04tzj37Dy61OqXQ7Xm"
       },
       "artists": [
         {
-          "name": "Kempi",
-          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
+          "name": "Team Rush Hour",
+          "url": "https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP"
         },
         {
-          "name": "The Blockparty",
-          "url": "https://open.spotify.com/artist/1zmmIiBBODh2QxbdUqYbdU"
+          "name": "F1rstman",
+          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
         },
         {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+          "name": "Giorgio Sanches",
+          "url": "https://open.spotify.com/artist/4czBYH5Cx0BFCXixmMsgyU"
         },
         {
-          "name": "Sevn Alias",
-          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+          "name": "Gio",
+          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
         }
       ],
-      "duration_ms": 219750,
-      "name": "Cocaina - Remix",
-      "url": "https://open.spotify.com/track/6OpKBghxyHSJ9lqqJ4EkJu"
+      "duration_ms": 185459,
+      "name": "Betasten",
+      "url": "https://open.spotify.com/track/7nwSbPfiDGGBCmYWOS4ezn"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1079,30 +1079,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Betasten",
-        "url": "https://open.spotify.com/album/0xaq04tzj37Dy61OqXQ7Xm"
+        "name": "Cocaina (Remix)",
+        "url": "https://open.spotify.com/album/2Fsjpq6WBpu8J8kzLtVGIS"
       },
       "artists": [
         {
-          "name": "Team Rush Hour",
-          "url": "https://open.spotify.com/artist/3GV34zJlfaSxsr8YZ1zEbP"
+          "name": "Kempi",
+          "url": "https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7"
         },
         {
-          "name": "F1rstman",
-          "url": "https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf"
+          "name": "The Blockparty",
+          "url": "https://open.spotify.com/artist/1zmmIiBBODh2QxbdUqYbdU"
         },
         {
-          "name": "Giorgio Sanches",
-          "url": "https://open.spotify.com/artist/4czBYH5Cx0BFCXixmMsgyU"
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
         },
         {
-          "name": "Gio",
-          "url": "https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS"
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
         }
       ],
-      "duration_ms": 185459,
-      "name": "Betasten",
-      "url": "https://open.spotify.com/track/7nwSbPfiDGGBCmYWOS4ezn"
+      "duration_ms": 219750,
+      "name": "Cocaina - Remix",
+      "url": "https://open.spotify.com/track/6OpKBghxyHSJ9lqqJ4EkJu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "MGSEASON 2",
+        "url": "https://open.spotify.com/album/3MpfM8o6cvwSM2l2Cs7XHQ"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Architrackz",
+          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
+        }
+      ],
+      "duration_ms": 156035,
+      "name": "Hard 2 Get",
+      "url": "https://open.spotify.com/track/3HL8nLF6RelXx4b3DOFDsR"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Dashawn",
         "url": "https://open.spotify.com/album/1Oxf0qjQqyYUvFDhLcKFb0"
       },
@@ -1295,26 +1315,6 @@
       "duration_ms": 167184,
       "name": "Chemistry (feat. Mula B)",
       "url": "https://open.spotify.com/track/32KaEzzoNXtjTyMT55ZT7y"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "MGSEASON 2",
-        "url": "https://open.spotify.com/album/3MpfM8o6cvwSM2l2Cs7XHQ"
-      },
-      "artists": [
-        {
-          "name": "Bryan Mg",
-          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
-        },
-        {
-          "name": "Architrackz",
-          "url": "https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq"
-        }
-      ],
-      "duration_ms": 156035,
-      "name": "Hard 2 Get",
-      "url": "https://open.spotify.com/track/3HL8nLF6RelXx4b3DOFDsR"
     },
     {
       "added_at": "2024-07-19 06:38:33",

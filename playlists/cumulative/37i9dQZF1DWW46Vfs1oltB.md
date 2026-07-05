@@ -4,7 +4,7 @@
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: Keyveatz\)
 
-1,928 songs - 4 day 6 hr 56 min
+1,929 songs - 4 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1844,6 +1844,7 @@
 | [Woof](https://open.spotify.com/track/53h22PaazdM3gIFSZnrPpL) | [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ) | [RAP:PUBLIC MASK OFF Special](https://open.spotify.com/album/41NJ14BEkm5HjQlJRrS4JT) | 1:38 | 2024-10-30 | 2025-03-09 |
 | [Woof](https://open.spotify.com/track/4mIsdCBMBICh149GHV4Kmn) | [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ), [northfacegawd](https://open.spotify.com/artist/620Vx5hEMowoa71wXk4bu1), [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva) | [Woof](https://open.spotify.com/album/792IXu80qNMlTEKzgHWBOt) | 3:41 | 2025-09-19 | 2025-12-31 |
 | [Woof Remix](https://open.spotify.com/track/4lBovgReWT7psGKYdwWSl3) | [J\-Tong](https://open.spotify.com/artist/70DqoppP3xK7LgtYiccxfZ), [Nosun](https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa), [Mckdaddy](https://open.spotify.com/artist/3jEfM7ePpwC5KcJHMseRqA), [Raf Sandou](https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8), [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim), [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [Woof](https://open.spotify.com/album/792IXu80qNMlTEKzgHWBOt) | 4:53 | 2025-09-19 | 2026-04-02 |
+| [Work](https://open.spotify.com/track/4iFNaPj7tamjteThofj8li) | [Potty Monkey](https://open.spotify.com/artist/4vy6l0BczucI2I2ax6tPhO), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Work](https://open.spotify.com/album/6V6vJoZLNIrPbV34tGlt70) | 3:22 | 2026-07-04 |  |
 | [WORK](https://open.spotify.com/track/0gINJfVy7dCxkSwrJmH0u2) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Upgrade V](https://open.spotify.com/album/1uukXrk6p4B3oNbgkmUgRk) | 2:39 | 2024-03-08 | 2024-06-05 |
 | [Work Hard](https://open.spotify.com/track/4DSwdZO1sw3etkTI8moYqc) | [DKB](https://open.spotify.com/artist/4DoedGw38ubJdAT1edFsIx) | [GROWTH](https://open.spotify.com/album/5Qxlt7a2djvLCXT2tD6mG0) | 3:24 | 2021-12-21 | 2022-07-08 |
 | [WORK HARD PLAY HARD](https://open.spotify.com/track/7m4Ney6RDEtKQf6n52F1qA) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [GOLDBUUDA](https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV) | [WORK HARD PLAY HARD](https://open.spotify.com/album/6Efi04Cj81zpJVsPxpWDul) | 3:33 | 2023-07-17 | 2023-11-16 |

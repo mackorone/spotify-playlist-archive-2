@@ -2,7 +2,7 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> The new & hottest K\-Pop is here! \(Cover: Stray Kids\)
+> The new & hottest K\-Pop is here! \(Cover:  ATEEZ\)
 
 893 songs - 1 day 22 hr 2 min
 

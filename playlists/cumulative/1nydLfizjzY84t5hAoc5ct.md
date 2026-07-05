@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-298 songs - 18 hr 28 min
+301 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Baby I've Got It](https://open.spotify.com/track/1HtjINsvc7zbq8HbYdGPp5) | [Florence Jack](https://open.spotify.com/artist/4pmpDqVKHxD5w8lCH7vCvv) | [Love Heist](https://open.spotify.com/album/74WfiAauEFf8nMY6WAeARN) | 3:39 | 2025-11-30 | 2026-06-20 |
 | [Bad Habits](https://open.spotify.com/track/3Xa8IgwILvTWDkgukI8qJm) | [Oceanless](https://open.spotify.com/artist/4yqBdaK0VWZGdwhwHHEBk8) | [JADED](https://open.spotify.com/album/3bFIkrKtLvf8UqGnvuzKDB) | 4:55 | 2025-11-16 | 2025-11-24 |
 | [BAD TIMING](https://open.spotify.com/track/7IB8AI963aZxOfH4MZDM1L) | [Ellijai](https://open.spotify.com/artist/5Co53lS8iBu9ZaH8S0yOoR) | [BAD TIMING](https://open.spotify.com/album/7r30dGYPsyxlfsj3AECJ7z) | 3:49 | 2025-11-30 | 2025-12-08 |
+| [Ballad of a Hollywood Dreamer](https://open.spotify.com/track/1BpmA3qrobgsMEgT7tTrFf) | [KATERINA.](https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c) | [Ballad of a Hollywood Dreamer](https://open.spotify.com/album/2aLGRM0lIjqF1tyANhBBhe) | 3:53 | 2026-07-04 |  |
 | [Ballots and Bullets](https://open.spotify.com/track/7ACTGMCh10RvLPYU9mUp8C) | [Charmian Devi](https://open.spotify.com/artist/5wd3mulMz93WJDdB7xROqP) | [Diamond Hour](https://open.spotify.com/album/7H3Pcia1b3TfXgji2VxcB6) | 3:26 | 2026-06-19 |  |
 | [Be Mine](https://open.spotify.com/track/7CneMoem8r2X4OD1LWQtOs) | [brittle](https://open.spotify.com/artist/6nTGjlKzh92A8qlAwQ0clg) | [Be Mine](https://open.spotify.com/album/7u3HEmstnUkwEyA4PRWDo7) | 4:50 | 2026-04-19 | 2026-06-20 |
 | [Be That Way](https://open.spotify.com/track/0QV8Rgw3puKgvODemZPVhX) | [The Demographic](https://open.spotify.com/artist/1krGl2BYNGaEmOnkOBor7L) | [The Change \- EP](https://open.spotify.com/album/5xosQhKjMOteD54hwmMpqk) | 3:55 | 2026-03-21 | 2026-06-20 |
@@ -194,6 +195,7 @@
 | [Melodrama](https://open.spotify.com/track/7IX9wj4hI9lv25rYC19UjZ) | [Dear Heather](https://open.spotify.com/artist/1mWoFKl5CsBCynbbLVh7kB) | [Get My Good Side](https://open.spotify.com/album/2ssdXflV2D83zpRBXy3Wnn) | 4:38 | 2025-11-16 | 2026-05-04 |
 | [Message Through Time](https://open.spotify.com/track/4BPrHDgqGxnWANdMphAbNQ) | [Groove Vultures](https://open.spotify.com/artist/4mxU5Dnd342CsqAS6viJuj) | [Message Through Time](https://open.spotify.com/album/45LoKgIdcZiDUrx7V5HbuC) | 5:21 | 2026-06-09 | 2026-06-20 |
 | [Mi Verdad](https://open.spotify.com/track/611xI7A5jwxuAElsmPhKom) | [Calum Baird](https://open.spotify.com/artist/04J4L4jowMcqbzD05TnGGk) | [Mi Verdad](https://open.spotify.com/album/7lEkYi10SDcYKjz1D5Rqih) | 3:03 | 2025-11-16 | 2026-02-02 |
+| [Mind of an Artist](https://open.spotify.com/track/18S1m21QhzfGbkYSjsk4SP) | [KATERINA.](https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c) | [Songs I Wrote When I Was 18](https://open.spotify.com/album/4u2iUgmXkwEnJ0ELTdAMWn) | 2:51 | 2026-07-04 |  |
 | [Miniature Self](https://open.spotify.com/track/5LHfXS9EJuG8phOzcVLon6) | [Aurora Engine](https://open.spotify.com/artist/42vP5ba92WbuzT9XOdXOzy) | [Secret Knock](https://open.spotify.com/album/73gFTINjF8MFwLtp1LN9de) | 3:48 | 2026-02-01 | 2026-02-09 |
 | [Mountainside](https://open.spotify.com/track/67pdwschvXYd3FnxYtvc5s) | [Shepherd Bridge](https://open.spotify.com/artist/7IWPSLFSNkPvI3upDX39f1) | [Lucy and the Voyager](https://open.spotify.com/album/7jHjn4K2XURXATynQZkrEv) | 3:43 | 2026-06-09 | 2026-06-20 |
 | [Mr\. Nice Guy](https://open.spotify.com/track/0MOSKnO19vgPMhc9QzFgUI) | [Eyes of Home](https://open.spotify.com/artist/16aEFcoSmQ0ho9CkcvPU55) | [Mr\. Nice Guy](https://open.spotify.com/album/3Mi9MfaBkL6nrJyHcobl8R) | 4:16 | 2025-11-16 | 2026-02-02 |
@@ -280,6 +282,7 @@
 | [The Talk](https://open.spotify.com/track/0b8nWFcEQJYfIhn2OV3lhm) | [Casual Drag](https://open.spotify.com/artist/3z9XFpIci19AIOf8QdK07N) | [The Talk](https://open.spotify.com/album/6fnNTeBCA5swa9xgIQ4TIU) | 2:57 | 2026-05-03 | 2026-05-11 |
 | [The World's Fairytale](https://open.spotify.com/track/3967kWoIKt352K1STgnNtS) | [Marc Miner](https://open.spotify.com/artist/1805X4Dsc005LhyxsQgu5A) | [Last Heroes](https://open.spotify.com/album/1fsRse0jMTidK4lzVSdgMF) | 2:57 | 2026-06-22 |  |
 | [These Dire Days](https://open.spotify.com/track/3zDaDP3FAbUc3P9aupg6Q1) | [Calum Baird](https://open.spotify.com/artist/04J4L4jowMcqbzD05TnGGk) | [These Dire Days](https://open.spotify.com/album/63Ry66N5f57UIkuVbIUhGs) | 3:29 | 2026-03-13 | 2026-05-04 |
+| [They're Trying to Sell My Books](https://open.spotify.com/track/6cdW00UZucISBmrywqflox) | [KATERINA.](https://open.spotify.com/artist/43Yvnw65fjs8L8FIhV2T1c) | [Songs I Wrote When I Was 18](https://open.spotify.com/album/4u2iUgmXkwEnJ0ELTdAMWn) | 3:41 | 2026-07-04 |  |
 | [Too Wild To Last, Too Rare To Die](https://open.spotify.com/track/1DoOr5SQmYMisdMcUy0MtE) | [FAEDA](https://open.spotify.com/artist/5fC6wqfNjhmkVh6cYB4Gru) | [Too Wild To Last, Too Rare To Die](https://open.spotify.com/album/0BCU1vqSSANQ0IDqBw0DR1) | 2:07 | 2025-11-16 | 2026-05-04 |
 | [Top \(I can see for miles\)](https://open.spotify.com/track/0kNruf2wYPoJHAzBiZIJT7) | [Delirium](https://open.spotify.com/artist/3OYzwHHHkiMSRo0bwhx8pO) | [Delirium \(home recordings\)](https://open.spotify.com/album/7KmenobD65pgvvV07IhcPl) | 4:48 | 2025-11-16 | 2025-11-24 |
 | [Treading Water](https://open.spotify.com/track/3hS9yNUGVXPll9amXpxiV1) | [Quiet Man](https://open.spotify.com/artist/3iR41vQVaeF8kXhOWjAv3J) | [Treading Water](https://open.spotify.com/album/7fNigTSU9ARHBXSxWlYZzi) | 4:12 | 2026-01-25 | 2026-02-01 |

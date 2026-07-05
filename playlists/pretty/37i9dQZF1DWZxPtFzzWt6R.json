@@ -1,6 +1,6 @@
 {
   "description": "A palavra de Jesus embalada pelo ritmo sertanejo. Foto: Andr\u00e9 e Felipe",
-  "num_followers": 113222,
+  "num_followers": 113256,
   "original_name": "Sertanejo Religioso",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,26 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
+        "name": "Deus Ouviu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2QrGXyQn83lcGEmuHWmgXb"
+      },
+      "artists": [
+        {
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
+        },
+        {
+          "name": "Tuca Nascimento",
+          "url": "https://open.spotify.com/artist/4TksVnQmXsjKlm9JjdzcWf"
+        }
+      ],
+      "duration_ms": 262854,
+      "name": "Deus Ouviu (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5iJsUblS3HGFWMfOK6nrHf"
+    },
+    {
+      "added_at": "2026-07-02 21:48:45",
+      "album": {
         "name": "Meu Filho (Ao Vivo)",
         "url": "https://open.spotify.com/album/3rSaMc6VjJNQxwD0tFo5zJ"
       },
@@ -827,22 +847,6 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
-        "name": "Amar \u00c9 F\u00e1cil",
-        "url": "https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8"
-      },
-      "artists": [
-        {
-          "name": "Lenno Maia",
-          "url": "https://open.spotify.com/artist/7h4qSS1HJt6i1Fws0qInTx"
-        }
-      ],
-      "duration_ms": 277514,
-      "name": "Amar \u00c9 F\u00e1cil",
-      "url": "https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU"
-    },
-    {
-      "added_at": "2026-07-02 21:48:45",
-      "album": {
         "name": "Do Meu Jeito (Majestade)",
         "url": "https://open.spotify.com/album/5Aqk6aOH8lylUt76YTxxQW"
       },
@@ -863,22 +867,18 @@
     {
       "added_at": "2026-07-02 21:48:45",
       "album": {
-        "name": "Deus Ouviu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2QrGXyQn83lcGEmuHWmgXb"
+        "name": "Amar \u00c9 F\u00e1cil",
+        "url": "https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8"
       },
       "artists": [
         {
-          "name": "Gisele Nascimento",
-          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
-        },
-        {
-          "name": "Tuca Nascimento",
-          "url": "https://open.spotify.com/artist/4TksVnQmXsjKlm9JjdzcWf"
+          "name": "Lenno Maia",
+          "url": "https://open.spotify.com/artist/7h4qSS1HJt6i1Fws0qInTx"
         }
       ],
-      "duration_ms": 262854,
-      "name": "Deus Ouviu (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5iJsUblS3HGFWMfOK6nrHf"
+      "duration_ms": 277514,
+      "name": "Amar \u00c9 F\u00e1cil",
+      "url": "https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU"
     },
     {
       "added_at": "2026-07-02 21:48:45",

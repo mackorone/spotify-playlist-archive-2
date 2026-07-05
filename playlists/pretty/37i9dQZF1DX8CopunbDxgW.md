@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > Sophia Stel is sooo smooth with it 🎶 metropolis is your home for the best indie dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,309 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,259 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 82 | [Sleepwalking](https://open.spotify.com/track/0vJKvYSIkSoTigjEgb1nkA) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Sleepwalking](https://open.spotify.com/album/1kWud8wo0loZ1y3d9rZqpM) | 2:14 |
 | 83 | [Turn It Around](https://open.spotify.com/track/5YdXaCrBhHWCMe9VUBCZ91) | [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [I know you're hurting, everyone is hurting, everyone is trying, you have got to try](https://open.spotify.com/album/0DcM6gjvAIGwlParaxKz8w) | 3:25 |
 | 84 | [if you wanna party, come over to my house](https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [if you wanna party, come over to my house](https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT) | 2:51 |
-| 85 | [Far Too Long](https://open.spotify.com/track/1OrOKPU1gkvREJenk6m7U4) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Far Too Long](https://open.spotify.com/album/20JmqCKJnP9Bxk3Qd5BJTv) | 3:58 |
+| 85 | [Far Too Long](https://open.spotify.com/track/1OrOKPU1gkvREJenk6m7U4) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy), [Sodade](https://open.spotify.com/artist/5fS6fDNPVPLybAvg7YIvFt) | [Far Too Long](https://open.spotify.com/album/20JmqCKJnP9Bxk3Qd5BJTv) | 3:58 |
 | 86 | [Our Way \(Pablo Versace Remix\)](https://open.spotify.com/track/6EgHNLI5ZoS5ZBIchlR9FG) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW), [Pablo Versace](https://open.spotify.com/artist/3ibKP9iukyMBXXrpVZmDfE) | [Our Way \(Pablo Versace Remix\)](https://open.spotify.com/album/0zFWMo74BwEee9k1ksWN7c) | 3:52 |
 | 87 | [Elktorn](https://open.spotify.com/track/7eNm3jioKKGq2XF7qiTesW) | [Loukeman](https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL) | [Elktorn / All I Could Think Of](https://open.spotify.com/album/3BxXWUYHyBQUpEwuXYCaqw) | 2:38 |
 | 88 | [Sunrise](https://open.spotify.com/track/37Qgd1Iyo8bSlK4kIZFLxL) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD), [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [Sunrise](https://open.spotify.com/album/2MnZjVl6VPmbmJ8KhGiDvf) | 2:23 |

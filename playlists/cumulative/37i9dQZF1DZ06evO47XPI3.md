@@ -4,7 +4,7 @@
 
 > This is The Delfonics\. The essential tracks, all in one playlist.
 
-113 songs - 6 hr 5 min
+114 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Love You Till I Die](https://open.spotify.com/track/31t93KUPU6GowlVUnT55u2) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Tell Me This Is a Dream \(Expanded Version\)](https://open.spotify.com/album/2jOEnosh3mYjrVAqPThwdw) | 3:13 | 2022-06-02 | 2024-06-24 |
 | [Love's Melody](https://open.spotify.com/track/2sgCv3E062DpMeIJZe14TZ) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/0ZZ5Hj5Ic5V21qpE84MV2M) | 2:38 | 2022-08-05 | 2022-10-12 |
 | [Love’s Melody](https://open.spotify.com/track/3T4GjP2tnpfd5dMF59tuQ2) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Adrian Younge Presents: The Delfonics](https://open.spotify.com/album/55rqzBkG60Gza2pczsXPJy) | 2:38 | 2024-12-07 |  |
-| [Loving Him \(aka You Can't Be Loving Him\)](https://open.spotify.com/track/01VYC2isnJ8FPczbH5U3sD) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You \(Expanded Version\)](https://open.spotify.com/album/2PaOO36fcDsy0jAgdfhbHM) | 2:03 | 2023-09-15 |  |
+| [Loving Him \(aka You Can't Be Loving Him\)](https://open.spotify.com/track/01VYC2isnJ8FPczbH5U3sD) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La La Means I Love You \(Expanded Version\)](https://open.spotify.com/album/2PaOO36fcDsy0jAgdfhbHM) | 2:03 | 2023-09-15 | 2026-07-05 |
+| [Loving Him \(aka You Can't Be Loving Him\)](https://open.spotify.com/track/1kzRVJJTAkCoNUOF8HGdKo) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [The Very Best Of](https://open.spotify.com/album/1wpMIDLFtpz8xrm37qY5MG) | 2:03 | 2026-07-05 |  |
 | [Lying To Myself](https://open.spotify.com/track/4oTR05VVXSgVEFmN374D61) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [Alive & Kicking](https://open.spotify.com/album/104FlqarJg6i3k5XZtWgOc) | 4:01 | 2025-05-10 |  |
 | [Lying To Myself \- Digitally Remastered 1997](https://open.spotify.com/track/1wNKxbMVz1l1TLoZclQxKV) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4) | [La\-La Means I Love You](https://open.spotify.com/album/661re5NCCdkxHaCG3xv8k5) | 4:01 | 2022-05-25 | 2025-05-10 |
 | [My Girl \- Live](https://open.spotify.com/track/4dQALx6SrbgW8kJVYPysBu) | [The Delfonics](https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4), [Ray, Goodman & Brown](https://open.spotify.com/artist/58U0OwuIViimy39WEbRbXh) | [The Delfonics vs Ray, Goodman & Brown Live In Concert](https://open.spotify.com/album/4VOJpxfPuOTxCxYBKe1QQ5) | 3:22 | 2022-11-05 | 2026-03-22 |

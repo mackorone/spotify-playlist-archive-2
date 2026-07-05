@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day. Cover: Latanya Alberto",
-  "num_followers": 1010631,
+  "num_followers": 1010577,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -1221,22 +1221,6 @@
       "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
     },
     {
-      "added_at": "2025-06-20 04:00:56",
-      "album": {
-        "name": "In The Moment",
-        "url": "https://open.spotify.com/album/2qEeyPLUMRbuKlXE30EokH"
-      },
-      "artists": [
-        {
-          "name": "JONES",
-          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
-        }
-      ],
-      "duration_ms": 233133,
-      "name": "In The Moment",
-      "url": "https://open.spotify.com/track/1WiiMZbCeTvNlHOUGYjFLY"
-    },
-    {
       "added_at": "2024-03-08 13:51:25",
       "album": {
         "name": "Maxwell's Urban Hang Suite",
@@ -1251,6 +1235,22 @@
       "duration_ms": 415742,
       "name": "...Til the Cops Come Knockin' - Remastered 2021",
       "url": "https://open.spotify.com/track/2x28X8t6xaomkkn1ssHJ5E"
+    },
+    {
+      "added_at": "2025-06-20 04:00:56",
+      "album": {
+        "name": "In The Moment",
+        "url": "https://open.spotify.com/album/2qEeyPLUMRbuKlXE30EokH"
+      },
+      "artists": [
+        {
+          "name": "JONES",
+          "url": "https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv"
+        }
+      ],
+      "duration_ms": 233133,
+      "name": "In The Moment",
+      "url": "https://open.spotify.com/track/1WiiMZbCeTvNlHOUGYjFLY"
     },
     {
       "added_at": "2025-03-07 06:27:51",

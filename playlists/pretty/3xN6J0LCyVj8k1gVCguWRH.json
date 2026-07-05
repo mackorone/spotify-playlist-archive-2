@@ -1,12 +1,12 @@
 {
   "description": "Summer has a way of slowing us down and bringing us together. This playlist is a mix of new favorites and familiar sounds \u2014 songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.",
-  "num_followers": 132443,
+  "num_followers": 132451,
   "original_name": "Obama\u2019s Summer Playlist 2026",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA8Q5rOY45gFEvS1ILvX0pzWnLOuNZw",
+  "snapshot_id": "AAA8SUPGpnhXlnZnIXlDkPJbYQZBX94I",
   "tracks": [
     {
       "added_at": "2026-02-05 14:21:48",
@@ -457,6 +457,58 @@
       "url": "https://open.spotify.com/track/0534vyjYglQyl7BGpl6oeB"
     },
     {
+      "added_at": "2026-07-04 06:03:26",
+      "album": {
+        "name": "The Ides of March",
+        "url": "https://open.spotify.com/album/2XrJJTibYl6JSrMd5IsLu7"
+      },
+      "artists": [
+        {
+          "name": "Saint Sulpice",
+          "url": "https://open.spotify.com/artist/3y5zh9y3262XjWRZxLLMBu"
+        }
+      ],
+      "duration_ms": 202645,
+      "name": "On the Floor",
+      "url": "https://open.spotify.com/track/5BUHIbZ7rYVHwgVMZAaUPC"
+    },
+    {
+      "added_at": "2026-07-04 06:03:30",
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/4MJay83IhZU0M9mYcVOkIC"
+      },
+      "artists": [
+        {
+          "name": "Tricia Battani",
+          "url": "https://open.spotify.com/artist/0OP38AbMLb2FQwwl41Z6s3"
+        },
+        {
+          "name": "Kid",
+          "url": "https://open.spotify.com/artist/2rte1QhwR7hAXmnLKBVYfU"
+        }
+      ],
+      "duration_ms": 229858,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3w7AA6hyIDO6o2nJ4monMx"
+    },
+    {
+      "added_at": "2026-07-04 23:06:20",
+      "album": {
+        "name": "While We Run Away",
+        "url": "https://open.spotify.com/album/7jJqag0QS1BWPYU82fwP29"
+      },
+      "artists": [
+        {
+          "name": "VaneSpacee",
+          "url": "https://open.spotify.com/artist/4iPPcPOepUvtBgNYvD6nUL"
+        }
+      ],
+      "duration_ms": 197996,
+      "name": "While We Run Away",
+      "url": "https://open.spotify.com/track/58bjFYN7mA5Go5YK8BiR27"
+    },
+    {
       "added_at": "2026-06-19 04:42:18",
       "album": {
         "name": "Identification Please",
@@ -603,6 +655,38 @@
       "duration_ms": 196551,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5HQc4F8Bgh7ldqtm4zJIGu"
+    },
+    {
+      "added_at": "2026-07-04 13:12:28",
+      "album": {
+        "name": "Twenty-Five",
+        "url": "https://open.spotify.com/album/5F4V19d77FaIsrRPIsiqyz"
+      },
+      "artists": [
+        {
+          "name": "Jason Wade",
+          "url": "https://open.spotify.com/artist/5Gn9hYd0IJiFntycrJhoIE"
+        }
+      ],
+      "duration_ms": 216266,
+      "name": "Twenty-Five",
+      "url": "https://open.spotify.com/track/7eOqUamC2PeCVf88P4IwEN"
+    },
+    {
+      "added_at": "2026-07-04 23:06:14",
+      "album": {
+        "name": "Get Me Out",
+        "url": "https://open.spotify.com/album/7mUn65wuSjFLKVbl2NG2UK"
+      },
+      "artists": [
+        {
+          "name": "Cesario",
+          "url": "https://open.spotify.com/artist/7Kiklhm5NnMvGES9cr6Gic"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Get Me Out",
+      "url": "https://open.spotify.com/track/7mpeImgGAkaeuK6sUkY4Jj"
     },
     {
       "added_at": "2026-07-01 13:41:58",

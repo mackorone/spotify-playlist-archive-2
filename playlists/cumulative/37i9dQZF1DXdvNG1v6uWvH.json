@@ -14298,7 +14298,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 230388,
       "name": "Baba",
       "url": "https://open.spotify.com/track/7C90rw1UI5iLrMIe9IGS9L"
@@ -23380,7 +23380,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 112941,
       "name": "Blo",
       "url": "https://open.spotify.com/track/65Ja8ZfxVKPlhMbQtHpjO1"
@@ -48476,7 +48476,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 255195,
       "name": "DiVE",
       "url": "https://open.spotify.com/track/0RuyEnBfYn7W7ZanTrR5kQ"
@@ -52698,7 +52698,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 213243,
       "name": "Dripping in Gold",
       "url": "https://open.spotify.com/track/7e3sY1OyCQHYFf6ndGR6rk"
@@ -119263,6 +119263,24 @@
     },
     {
       "album": {
+        "name": "Love Like A Hobby",
+        "url": "https://open.spotify.com/album/4FhYzCXg5OeNGBT0NvjVvg"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222614,
+      "name": "Love Like A Hobby",
+      "url": "https://open.spotify.com/track/3Ce2UwnIE9clxZp94hkAGp"
+    },
+    {
+      "album": {
         "name": "Love Like This",
         "url": "https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw"
       },
@@ -159251,6 +159269,28 @@
     },
     {
       "album": {
+        "name": "Rich",
+        "url": "https://open.spotify.com/album/3tikyoZV9znFY04kRm68Ho"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        },
+        {
+          "name": "Betty Michaels",
+          "url": "https://open.spotify.com/artist/1BhnNe00irqmdbyijyTZMk"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205046,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/3XEXlFmBu3JOUe9VMK0zh7"
+    },
+    {
+      "album": {
         "name": "Rich Men",
         "url": "https://open.spotify.com/album/2oCfxz18IwWDCtEgxICK9R"
       },
@@ -163626,7 +163666,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 246108,
       "name": "Salvarse de uno mismo",
       "url": "https://open.spotify.com/track/0eM6fxEtmA04I1oPhFDbRC"
@@ -165866,7 +165906,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 126590,
       "name": "Sea Jasmine",
       "url": "https://open.spotify.com/track/4lQDW82BfkJFd77rACinRh"
@@ -176298,6 +176338,24 @@
       "duration_ms": 211783,
       "name": "Sommertid",
       "url": "https://open.spotify.com/track/4DNXdRThUaTSGblEZNdGFn"
+    },
+    {
+      "album": {
+        "name": "Segundo Acto: \u00bfPor Qu\u00e9 No Sales?",
+        "url": "https://open.spotify.com/album/0kjGO3TVRvfsNglZfJyUG1"
+      },
+      "artists": [
+        {
+          "name": "Torreblanca",
+          "url": "https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Somos Tan Peque\u00f1os",
+      "url": "https://open.spotify.com/track/3abLps0dV4fNkE6OHkpADs"
     },
     {
       "album": {
@@ -201779,24 +201837,6 @@
     },
     {
       "album": {
-        "name": "Segundo Acto: \u00bfPor Qu\u00e9 No Sales?",
-        "url": "https://open.spotify.com/album/0kjGO3TVRvfsNglZfJyUG1"
-      },
-      "artists": [
-        {
-          "name": "Torreblanca",
-          "url": "https://open.spotify.com/artist/5sy13x4wGzkhvLeHr4HPEE"
-        }
-      ],
-      "date_added": "2026-07-03",
-      "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/3abLps0dV4fNkE6OHkpADs"
-    },
-    {
-      "album": {
         "name": "Tractor Beam",
         "url": "https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q"
       },
@@ -209712,7 +209752,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 180606,
       "name": "Walk All Over Me",
       "url": "https://open.spotify.com/track/2fLQ1WZGNmt1GrhKU1w785"

@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Quiet Houses
 
-2,458 songs - 5 day 10 hr 58 min
+2,460 songs - 5 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,6 +454,7 @@
 | [Come Around](https://open.spotify.com/track/3TpkcCHblOWMzalss4ug24) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Come Around](https://open.spotify.com/album/4uHx96O6wgOe0RN01ApoKT) | 2:53 | 2022-02-25 | 2022-07-02 |
 | [Come Home](https://open.spotify.com/track/4Hs0dbbWphP4ILaGaV9dYb) | [Jace June](https://open.spotify.com/artist/0Hsm1DHvcL8kNCWRlZAxkP) | [Come Home](https://open.spotify.com/album/2I8n3Hm1SWZz7HfOTP281M) | 2:48 | 2025-03-28 | 2026-02-21 |
 | [Come Home](https://open.spotify.com/track/6NpkEt1C0m5AnK13Y76qR5) | [Softee](https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy) | [Come Home](https://open.spotify.com/album/3sSmnR952IGjKyhsNZlcxJ) | 3:43 | 2023-02-04 | 2023-02-11 |
+| [Come On](https://open.spotify.com/track/6ZD1BmXJAUKR301UGCor5e) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Come On](https://open.spotify.com/album/6ZJfqMj8FwDh9wVk7Mxf1N) | 3:13 | 2026-07-03 |  |
 | [come on come on](https://open.spotify.com/track/0DtBLzMEDG3xWgr516VOM3) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [come on come on](https://open.spotify.com/album/56zGeV8gCqo1RXNiOx6JJo) | 2:47 | 2021-01-17 | 2021-06-03 |
 | [Come To God](https://open.spotify.com/track/3BR1VoYGdznLtRIhRUUZ0J) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Come To God](https://open.spotify.com/album/3LdJFujF3iS82kdG8KMNdo) | 2:37 | 2026-03-27 | 2026-06-09 |
 | [Coming For Ya](https://open.spotify.com/track/5jAfv9Pn47goB2LD67Yimh) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Coming For Ya](https://open.spotify.com/album/0BwHDNebdYqyqJlz4E5EXj) | 3:13 | 2021-06-03 | 2021-10-05 |
@@ -764,7 +765,7 @@
 | [Femininomenon](https://open.spotify.com/track/6kGoO1dbhARH8x60VlXg2B) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Femininomenon](https://open.spotify.com/album/6oBWAavlOmmymAZvQ8PzDX) | 3:39 | 2023-03-24 | 2023-07-01 |
 | [Ferris Wheel](https://open.spotify.com/track/0zX1fnVFXWE0zBSwoppHeg) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Alva Ravn](https://open.spotify.com/artist/4KAw10GL1lbhp4C9XfRv6y), [FENGSEL](https://open.spotify.com/artist/4KxviFeU2wjUOeMOICqJAq) | [Ferris Wheel](https://open.spotify.com/album/1voUvjiiXNLPjCB7XGzgri) | 3:05 | 2021-10-13 | 2021-10-14 |
 | [Ferris Wheel](https://open.spotify.com/track/3Hs0xJpEOcJsWeayaLbeXR) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Ferris Wheel](https://open.spotify.com/album/5jv2tzybXeTbZJ61jvYvqg) | 2:57 | 2021-02-28 | 2021-05-28 |
-| [figure it out](https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [figure it out](https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl) | 2:51 | 2026-06-12 |  |
+| [figure it out](https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [figure it out](https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl) | 2:51 | 2026-06-12 | 2026-07-05 |
 | [Fill The Spaces](https://open.spotify.com/track/2ddgzUXidxSXERP4LaLwtF) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [Fill The Spaces](https://open.spotify.com/album/1mkuFIINl4DRvMaqsI1bGN) | 2:50 | 2022-02-25 | 2022-04-18 |
 | [Fine](https://open.spotify.com/track/4dwoGWHlmtSHT42PCnLcMa) | [After Louise](https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W) | [Fine](https://open.spotify.com/album/0CQbOuXYpIQd5Ko7Ivkegh) | 3:21 | 2026-03-06 | 2026-05-16 |
 | [Fire & Fury](https://open.spotify.com/track/24KWPOD5dHhOfyAfgZTJMr) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [Fire & Fury](https://open.spotify.com/album/44HCNNxPv7q5KVYvPTNFix) | 3:45 | 2020-10-20 | 2021-06-03 |
@@ -1580,6 +1581,7 @@
 | [ocean view](https://open.spotify.com/track/7ossJoAkwNcV8pFzIyBb9j) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [ocean view](https://open.spotify.com/album/7xFL9NJq1twMOpD7XmIYQn) | 2:54 | 2021-06-03 | 2021-09-02 |
 | [Oceansize](https://open.spotify.com/track/3F3F2UtIm9wDUq6uPt42Jx) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Home Tapes](https://open.spotify.com/album/1bb0l92MxpV8hzI1xSomcS) | 3:43 | 2020-10-20 | 2021-06-03 |
 | [Odin St](https://open.spotify.com/track/6urr1jW4IyD8NTXWgijaCg) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [Odin St](https://open.spotify.com/album/4Gt7D6btN5S8sBltKTR3n1) | 3:08 | 2025-06-20 | 2025-06-25 |
+| [of everyone in the world…](https://open.spotify.com/track/40hiSrEnjRq1JyMeDf0Npo) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv), [love interest](https://open.spotify.com/artist/4kMil85uTMGXwotoyZhdBX) | [of everyone in the world…](https://open.spotify.com/album/3S2aWBkpy7MbV14L9yqB21) | 3:07 | 2026-07-03 |  |
 | [Off My Mind](https://open.spotify.com/track/6Rn74LzUZrzsNSB46uF8ML) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Off My Mind](https://open.spotify.com/album/6QlxMd4KIm1o27F3IyXW5F) | 3:09 | 2020-10-16 | 2021-02-28 |
 | [Off My Mind](https://open.spotify.com/track/3X91uoqAVtHmqv1bvZbNog) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Off My Mind](https://open.spotify.com/album/0AA6bmA8doXjHKUKM1cv8k) | 3:33 | 2021-06-02 | 2022-07-29 |
 | [Off My Mind](https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Emily Can't Sing](https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ) | 3:33 | 2022-06-17 | 2022-08-27 |
@@ -2055,7 +2057,7 @@
 | [Stuck in the Middle](https://open.spotify.com/track/0kJkiYAvGPwxcMgVznuS8T) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [When I Close My Eyes](https://open.spotify.com/album/2Hlkq5I3ntvKGPJq130yzF) | 2:21 | 2022-05-06 | 2022-06-20 |
 | [stuck on us](https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24), [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [stuck on us](https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN) | 2:55 | 2022-03-18 | 2022-12-02 |
 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-02 | 2024-04-27 |
-| [Stupid Bitches](https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Stupid Bitches](https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP) | 3:31 | 2026-02-20 |  |
+| [Stupid Bitches](https://open.spotify.com/track/4KELpaK3sQ5vEZX9nuK9lg) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Stupid Bitches](https://open.spotify.com/album/7eWy1iLXve9VJdPkr2h9dP) | 3:31 | 2026-02-20 | 2026-07-05 |
 | [Stupid Boys](https://open.spotify.com/track/3VVTR5byzYX15kSLhENnVN) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Stupid Boys](https://open.spotify.com/album/0njsUW4yb3wviV0Ulopvfk) | 2:13 | 2020-10-13\* | 2021-02-27 |
 | [Subject](https://open.spotify.com/track/2jI4keyUwCmnn6kqA4GlAc) | [Fran Vasilić](https://open.spotify.com/artist/08xR1XU2SWgC2K0yx6lEYm) | [The Very Last Thoughts on Earth](https://open.spotify.com/album/0dDAfkBPnOP70LE5IhqoPY) | 3:35 | 2022-07-22 | 2022-08-06 |
 | [Suburbia](https://open.spotify.com/track/5zYpWznknMJkx7ovNZLbuk) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Suburbia](https://open.spotify.com/album/4KxbjJWoj2GruaXllzGApE) | 3:34 | 2026-06-26 |  |

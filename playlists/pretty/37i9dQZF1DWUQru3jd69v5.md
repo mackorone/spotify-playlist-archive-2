@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Lubi in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,916 likes - 75 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,919 likes - 75 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 40 | [Party](https://open.spotify.com/track/3YC8ygdEEFGEZWRha72OLh) | [foocus](https://open.spotify.com/artist/1XYpSPrrhDCaqMWhRBOuk8) | [Party](https://open.spotify.com/album/7mbllKPLxL2pi0JffQbw5v) | 2:47 |
 | 41 | [Paracadute \(feat\. Disme\)](https://open.spotify.com/track/0KNg6V1jqBBy1bjK0zKi4e) | [SaintPaul](https://open.spotify.com/artist/6xg4tPVaXpFnl8Y7ejHSVT), [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [Frenkie G](https://open.spotify.com/artist/5KBHTyp1mAbp56Ph9G0K6k) | [Paracadute \(feat\. Disme\)](https://open.spotify.com/album/4BasOWs3Enbu2DcYZW0OKe) | 2:41 |
 | 42 | [IL PRIMO DEI PERDENTIE](https://open.spotify.com/track/2c9axBm59BBQxfh0jry8wh) | [Yandie Gotam](https://open.spotify.com/artist/12UoE3xYsxvEWaofNx00Jp), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH) | [IL PRIMO DEI PERDENTIE](https://open.spotify.com/album/5NFEXfjEKQFPFWGTXWfE8w) | 2:08 |
-| 43 | [Devo Andare Con Le Mie Winx \(feat\. Rhove\)](https://open.spotify.com/track/5eVWsjUs8OUajXFUWk9fXo) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg) | [È O G.](https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd) | 2:13 |
+| 43 | [Devo Andare Con Le Mie Winx \(feat\. Rhove\)](https://open.spotify.com/track/5eVWsjUs8OUajXFUWk9fXo) | [G.Mineiro](https://open.spotify.com/artist/1dlyjeDlgXalzt5oqbgWDs), [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Flatpearl](https://open.spotify.com/artist/2ifTEcQqKSPwijIEcPHQ1R), [Succo](https://open.spotify.com/artist/1l1A1U8VJM15W7zonFqKhg), [Balanta](https://open.spotify.com/artist/0UCRZg1uufYhRxQ6Gm3eij) | [È O G.](https://open.spotify.com/album/3vAjsYdC3b1kYWqmZaM4sd) | 2:13 |
 | 44 | [Barbados \(feat\. Leam & Fady\)](https://open.spotify.com/track/526mA52qgKovkCeOd6kPd3) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [Leam](https://open.spotify.com/artist/5unMeXu4SMNZXy64Ad48VO), [Fady](https://open.spotify.com/artist/1EeBagJ2amUXOSo5GQsfZN) | [Barbados \(feat\. Leam & Fady\)](https://open.spotify.com/album/2k9NcWXhjSVnSxA6cVITIv) | 2:22 |
 | 45 | [10 e Lode](https://open.spotify.com/track/0JRPh0aDHHgjhvIXWCzrUX) | [Don Said](https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO) | [10 e Lode](https://open.spotify.com/album/1NoegKYZKUcc8AjkvY5Mn1) | 2:37 |
 | 46 | [A Mille](https://open.spotify.com/track/61HktB3Swoc5cqNTM5huWs) | [Peter Napo](https://open.spotify.com/artist/78gBgd0qhvqdG79UAS3mj4) | [A Mille](https://open.spotify.com/album/3QYGyMGPrialGMi3jMF5y3) | 2:41 |

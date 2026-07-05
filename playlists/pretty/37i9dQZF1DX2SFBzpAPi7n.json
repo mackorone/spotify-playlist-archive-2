@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Nerd Connection) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 250868,
+  "num_followers": 250877,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -227,22 +227,6 @@
     {
       "added_at": "2026-07-03 09:16:13",
       "album": {
-        "name": "Can This Love Be Translated? (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/5Qg2iNuV6zTCGlIYunvvTd"
-      },
-      "artists": [
-        {
-          "name": "Kim Min Seok (MeloMance)",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
-        }
-      ],
-      "duration_ms": 185547,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/6w9SgpKIzB54R2xHml1UPP"
-    },
-    {
-      "added_at": "2026-07-03 09:16:13",
-      "album": {
         "name": "SUNRISE",
         "url": "https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 283160,
       "name": "You Were Beautiful",
       "url": "https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC"
+    },
+    {
+      "added_at": "2026-07-03 09:16:13",
+      "album": {
+        "name": "Can This Love Be Translated? (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/5Qg2iNuV6zTCGlIYunvvTd"
+      },
+      "artists": [
+        {
+          "name": "Kim Min Seok (MeloMance)",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "duration_ms": 185547,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/6w9SgpKIzB54R2xHml1UPP"
     },
     {
       "added_at": "2026-07-03 09:16:13",
@@ -307,6 +307,22 @@
     {
       "added_at": "2026-07-03 09:16:13",
       "album": {
+        "name": "The Show",
+        "url": "https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "The Show",
+      "url": "https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR"
+    },
+    {
+      "added_at": "2026-07-03 09:16:13",
+      "album": {
         "name": "can't love (feat. HAN (Stray Kids))",
         "url": "https://open.spotify.com/album/0fJoozKZUNh31IdKsZ8lnm"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 195000,
       "name": "can't love (feat. HAN (Stray Kids))",
       "url": "https://open.spotify.com/track/28his6ZYxU15m3bCUTUtFA"
-    },
-    {
-      "added_at": "2026-07-03 09:16:13",
-      "album": {
-        "name": "The Show",
-        "url": "https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "The Show",
-      "url": "https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR"
     },
     {
       "added_at": "2026-07-03 09:16:13",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-07-03 09:16:13",
       "album": {
-        "name": "\uc0ac\ub791\uc774\ub77c \ud588\ub358 \ub9d0 \uc18d\uc5d0\uc11c",
-        "url": "https://open.spotify.com/album/4aP0PyJ9kWQFDJiHb7f7hK"
-      },
-      "artists": [
-        {
-          "name": "can't be blue",
-          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
-        }
-      ],
-      "duration_ms": 199738,
-      "name": "\uc0ac\ub791\uc774\ub77c \ud588\ub358 \ub9d0 \uc18d\uc5d0\uc11c",
-      "url": "https://open.spotify.com/track/0XyClpdRwhN06hxTNgIVHI"
-    },
-    {
-      "added_at": "2026-07-03 09:16:13",
-      "album": {
         "name": "DEAR.",
         "url": "https://open.spotify.com/album/4f4E2S0S3Zq5XULNKyxvCm"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 236000,
       "name": "Goodbye, My Summer",
       "url": "https://open.spotify.com/track/2aicRlZiaAEteaPsti8Hls"
+    },
+    {
+      "added_at": "2026-07-03 09:16:13",
+      "album": {
+        "name": "\uc0ac\ub791\uc774\ub77c \ud588\ub358 \ub9d0 \uc18d\uc5d0\uc11c",
+        "url": "https://open.spotify.com/album/4aP0PyJ9kWQFDJiHb7f7hK"
+      },
+      "artists": [
+        {
+          "name": "can't be blue",
+          "url": "https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5"
+        }
+      ],
+      "duration_ms": 199738,
+      "name": "\uc0ac\ub791\uc774\ub77c \ud588\ub358 \ub9d0 \uc18d\uc5d0\uc11c",
+      "url": "https://open.spotify.com/track/0XyClpdRwhN06hxTNgIVHI"
     },
     {
       "added_at": "2026-07-03 09:16:13",

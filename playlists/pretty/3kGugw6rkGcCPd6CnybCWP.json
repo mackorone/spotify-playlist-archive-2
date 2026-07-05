@@ -6,7 +6,7 @@
     "name": "The Mushy Pea",
     "url": "https://open.spotify.com/user/1139243362"
   },
-  "snapshot_id": "AAAPaMqPt0BIkQs196oruvtt4hcS8rgt",
+  "snapshot_id": "AAAPbX0gCLpNnQYE972LkOFLU2Xv/Rwp",
   "tracks": [
     {
       "added_at": "2026-05-06 11:42:58",
@@ -1471,6 +1471,94 @@
       "duration_ms": 213529,
       "name": "kim jeste\u015b?",
       "url": "https://open.spotify.com/track/3WRp5WLnxae0voLTrDSFz1"
+    },
+    {
+      "added_at": "2026-07-04 16:03:38",
+      "album": {
+        "name": "Bring Back the Feeling",
+        "url": "https://open.spotify.com/album/4HKCUdRntwilj1Up7Iagn9"
+      },
+      "artists": [
+        {
+          "name": "Maxwell LeVan",
+          "url": "https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "Bring Back the Feeling",
+      "url": "https://open.spotify.com/track/09mfLrHrJZlJrzcogIIVCY"
+    },
+    {
+      "added_at": "2026-07-04 16:03:52",
+      "album": {
+        "name": "howl",
+        "url": "https://open.spotify.com/album/2fSe2rCrvNb8vFnaJF9dJN"
+      },
+      "artists": [
+        {
+          "name": "pssyclwz",
+          "url": "https://open.spotify.com/artist/0qwVNDyGW0vzX4kdskB7Rv"
+        },
+        {
+          "name": "Amelia Antoinette",
+          "url": "https://open.spotify.com/artist/54Y3v2EJgUoaYKvdbZ2gH8"
+        }
+      ],
+      "duration_ms": 148493,
+      "name": "howl",
+      "url": "https://open.spotify.com/track/34aQhZGv7oUqEyHwuXnBGq"
+    },
+    {
+      "added_at": "2026-07-04 16:04:16",
+      "album": {
+        "name": "Orange Juice",
+        "url": "https://open.spotify.com/album/4qvrJkItVxPMXEGoz4Jvc9"
+      },
+      "artists": [
+        {
+          "name": "House of Chords",
+          "url": "https://open.spotify.com/artist/1ZjddKtNpO02fybaiZyBC4"
+        },
+        {
+          "name": "TIMEA",
+          "url": "https://open.spotify.com/artist/53Ej9kFv9M01aJ8SW6QLFf"
+        }
+      ],
+      "duration_ms": 324326,
+      "name": "Orange Juice",
+      "url": "https://open.spotify.com/track/3SQBx6Y1krpXC3CAG3ykDL"
+    },
+    {
+      "added_at": "2026-07-04 16:04:37",
+      "album": {
+        "name": "Onomanosphere",
+        "url": "https://open.spotify.com/album/2dohHJ6ZCqeKfve1MqbiSA"
+      },
+      "artists": [
+        {
+          "name": "TIRED",
+          "url": "https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO"
+        }
+      ],
+      "duration_ms": 170810,
+      "name": "Onomanosphere",
+      "url": "https://open.spotify.com/track/49hjIuAb7VKotojvXPrmBd"
+    },
+    {
+      "added_at": "2026-07-04 16:04:50",
+      "album": {
+        "name": "a cosmic ballet",
+        "url": "https://open.spotify.com/album/6Lsj3aJbzRacjop57eei5L"
+      },
+      "artists": [
+        {
+          "name": "Jakob Welding",
+          "url": "https://open.spotify.com/artist/0qRmzN4h7LMZHoRwsLPbXe"
+        }
+      ],
+      "duration_ms": 228969,
+      "name": "Battlefield",
+      "url": "https://open.spotify.com/track/1K3uidXakgwiD3FgRlxZPl"
     }
   ],
   "unique_name": "INDI(E)VIDUAL",

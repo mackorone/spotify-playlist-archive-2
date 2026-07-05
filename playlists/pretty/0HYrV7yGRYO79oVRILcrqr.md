@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,858 likes - 93 songs - 6 hr 13 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,861 likes - 98 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,5 +101,10 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 91 | [One Way Ticket](https://open.spotify.com/track/4xSvbsAmTdRAybIlgSxmgm) | [ThorE.E.K](https://open.spotify.com/artist/3X9i2Xfpf4CQjCeV6QMEps) | [One Way Ticket](https://open.spotify.com/album/05AC5D5nHXEdMa2Sq0k2Hd) | 3:58 |
 | 92 | [Curtain](https://open.spotify.com/track/4OQFLKyLqH6G1SUELSoIOJ) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Bunker Day](https://open.spotify.com/album/4PYVvoC2NXpNvHJ8UQZkFW) | 2:14 |
 | 93 | [Souls Rite](https://open.spotify.com/track/6RFJCFlKwY4JzVpWgbnqrQ) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [Souls Rite](https://open.spotify.com/album/73fUN4KHBJzueBUGefT3E0) | 4:44 |
+| 94 | [Bluebird](https://open.spotify.com/track/7eqBDJSwQgck2gvHTsPcnl) | [Tom Burton](https://open.spotify.com/artist/4gHMj05Ks2ZFf4vQZHIFrX) | [Bluebird](https://open.spotify.com/album/2vDtIDLqXWqpDKyHbICKtP) | 3:38 |
+| 95 | [Só Mais Uma Vez](https://open.spotify.com/track/1ixX6NwJIRiZZux8aoozoZ) | [Woleisik](https://open.spotify.com/artist/2kjopW4bTcPLIgEV27InnP) | [Só Mais Uma Vez](https://open.spotify.com/album/2VLwXPkFaWwJk0lZlbRDsD) | 4:10 |
+| 96 | [Parassonia](https://open.spotify.com/track/4zIFbijlXlr7ZxD9bvHqcT) | [Woleisik](https://open.spotify.com/artist/2kjopW4bTcPLIgEV27InnP) | [Parassonia](https://open.spotify.com/album/5nCXkCNjBxkkEJ7TjlbAFp) | 3:35 |
+| 97 | [Querem te Sangrar \(KaVva\)](https://open.spotify.com/track/01QUv8IT64cWSmq4TafHYg) | [Banda KaVva](https://open.spotify.com/artist/0EF4MYnsNtVXBAi2yitscA) | [Querem te Sangrar \(KaVva\)](https://open.spotify.com/album/38dc7ED7uhnLSMdhn1w5TK) | 4:15 |
+| 98 | [Levanta el Iphone en el aire](https://open.spotify.com/track/3BE1WfyyKpMNdJ4dF1p6pr) | [Dale Jaguar](https://open.spotify.com/artist/1KOrPe34NvSqsXPUOZyoQJ) | [Levanta el Iphone en el aire](https://open.spotify.com/album/1B4rFcDUWsnK7J9dLc86ed) | 3:39 |
 
-Snapshot ID: `AAAL3h9TgNInmrPlwzzvJThZM9ayZFBe`
+Snapshot ID: `AAAL49F8w1pv6ptWNQg/mVkXz2s8CTGw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > it's a chanel beads summer bby 🫦
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,520 likes - 151 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,506 likes - 151 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 
 > 正宗 Spotify 原創全台最紅西洋歌單！熱門就此一張！Cover: Ruth B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,918 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,927 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUwDCgX0o26D.md) - [plain]
 | 49 | [Euphoria](https://open.spotify.com/track/33bvTLdmKTRzFwhONUWYHo) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Mother Of Pearl](https://open.spotify.com/album/5aUTUf4xWzBVUoUHHJ3nQO) | 2:51 |
 | 50 | [Bed on Fire](https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Dream Ride](https://open.spotify.com/album/0jLgfhtSr2LTdQFWfi4VB0) | 3:33 |
 
-Snapshot ID: `AAAAALZU/eKrxTO+i8VdbQXWr3pTEcvb`
+Snapshot ID: `AAAAAEON5RnBkNADaFRIMl0a+WWrGZjn`

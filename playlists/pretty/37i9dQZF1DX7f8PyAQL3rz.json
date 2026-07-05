@@ -1,6 +1,6 @@
 {
   "description": "no drill e na bola \u00e9 \ud83c\udde7\ud83c\uddf7 , tlgd",
-  "num_followers": 1442653,
+  "num_followers": 1442545,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,30 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
+        "name": "BOMBOCLATT (REMIX)",
+        "url": "https://open.spotify.com/album/4A24PsSv0IDrilceG6Mfou"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "BOMBOCLATT (REMIX)",
+      "url": "https://open.spotify.com/track/1B2ce5cV00pzS17Ynvc0RA"
+    },
+    {
+      "added_at": "2026-07-02 22:00:07",
+      "album": {
         "name": "S\u00f3 Lazer",
         "url": "https://open.spotify.com/album/3Md1QIrZ8uJcL3kc7r2Lha"
       },
@@ -555,30 +579,6 @@
       "duration_ms": 156000,
       "name": "S\u00f3 Lazer",
       "url": "https://open.spotify.com/track/4ZB2u5sSF8TVCrQRsSJHTE"
-    },
-    {
-      "added_at": "2026-07-02 22:00:07",
-      "album": {
-        "name": "BOMBOCLATT (REMIX)",
-        "url": "https://open.spotify.com/album/4A24PsSv0IDrilceG6Mfou"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Andr\u00e9 Miquelotti",
-          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "BOMBOCLATT (REMIX)",
-      "url": "https://open.spotify.com/track/1B2ce5cV00pzS17Ynvc0RA"
     },
     {
       "added_at": "2026-07-02 22:00:07",
@@ -855,6 +855,26 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
+        "name": "BOLA DE MEIA.",
+        "url": "https://open.spotify.com/album/6vXRIMIBzpOflkPY2agdON"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 213995,
+      "name": "BOLA DE MEIA.",
+      "url": "https://open.spotify.com/track/6gLZVkQfxtLb7Lw4yV1nM3"
+    },
+    {
+      "added_at": "2026-07-02 22:00:07",
+      "album": {
         "name": "AQUI \u00c9 BRASIL",
         "url": "https://open.spotify.com/album/43On3lmGHBNE9Mo0Lyjzx5"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 354461,
       "name": "AQUI \u00c9 BRASIL",
       "url": "https://open.spotify.com/track/78FNzEE7jtP3Lf5niaxAfH"
-    },
-    {
-      "added_at": "2026-07-02 22:00:07",
-      "album": {
-        "name": "BOLA DE MEIA.",
-        "url": "https://open.spotify.com/album/6vXRIMIBzpOflkPY2agdON"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 213995,
-      "name": "BOLA DE MEIA.",
-      "url": "https://open.spotify.com/track/6gLZVkQfxtLb7Lw4yV1nM3"
     },
     {
       "added_at": "2026-07-02 22:00:07",
@@ -963,6 +963,42 @@
       "duration_ms": 120000,
       "name": "Que toda dor vire dinheiro",
       "url": "https://open.spotify.com/track/3Zu5Qj8Vm1wEaaChmnsKOQ"
+    },
+    {
+      "added_at": "2026-07-02 22:00:07",
+      "album": {
+        "name": "PLATA O PLOMO",
+        "url": "https://open.spotify.com/album/04YE4SzQn55927shW5TDjA"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "MC Fr da Norte",
+          "url": "https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj"
+        },
+        {
+          "name": "Boaventura",
+          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
+        },
+        {
+          "name": "Ouroempessoa",
+          "url": "https://open.spotify.com/artist/7tdbteHDBsaDH29OAQvMBb"
+        },
+        {
+          "name": "Rucinni",
+          "url": "https://open.spotify.com/artist/7JGJNUGGZl51b98oCJErGj"
+        },
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        }
+      ],
+      "duration_ms": 200287,
+      "name": "CA\u00c7A DO TESOURO",
+      "url": "https://open.spotify.com/track/39ndb5aaoDJh5opNildstN"
     },
     {
       "added_at": "2026-07-02 22:00:07",
@@ -1063,30 +1099,6 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
-        "name": "NOVA: 2L's",
-        "url": "https://open.spotify.com/album/3NpuBxpNF0TBps3RmEBaZp"
-      },
-      "artists": [
-        {
-          "name": "Podpah Records",
-          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
-        },
-        {
-          "name": "Bia Soull",
-          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
-        },
-        {
-          "name": "DJ CARLOZS",
-          "url": "https://open.spotify.com/artist/1tdUkusb60eDS6p0fgXexU"
-        }
-      ],
-      "duration_ms": 136650,
-      "name": "NOVA: 2L's",
-      "url": "https://open.spotify.com/track/1upJCA58emV5XezZ7yS1pU"
-    },
-    {
-      "added_at": "2026-07-02 22:00:07",
-      "album": {
         "name": "DOISMILEVINTEHOJE",
         "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
       },
@@ -1115,6 +1127,30 @@
       "duration_ms": 162461,
       "name": "Monop\u00f3lio",
       "url": "https://open.spotify.com/track/4N3LI6Agfo5feFoVJHx5ti"
+    },
+    {
+      "added_at": "2026-07-02 22:00:07",
+      "album": {
+        "name": "NOVA: 2L's",
+        "url": "https://open.spotify.com/album/3NpuBxpNF0TBps3RmEBaZp"
+      },
+      "artists": [
+        {
+          "name": "Podpah Records",
+          "url": "https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829"
+        },
+        {
+          "name": "Bia Soull",
+          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
+        },
+        {
+          "name": "DJ CARLOZS",
+          "url": "https://open.spotify.com/artist/1tdUkusb60eDS6p0fgXexU"
+        }
+      ],
+      "duration_ms": 136650,
+      "name": "NOVA: 2L's",
+      "url": "https://open.spotify.com/track/1upJCA58emV5XezZ7yS1pU"
     },
     {
       "added_at": "2026-07-02 22:00:07",
@@ -1307,6 +1343,26 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
+        "name": "Milimetricamente",
+        "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
+      },
+      "artists": [
+        {
+          "name": "Luana Maia",
+          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
+        },
+        {
+          "name": "DJ Caio Santos",
+          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
+        }
+      ],
+      "duration_ms": 122834,
+      "name": "Milimetricamente",
+      "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
+    },
+    {
+      "added_at": "2026-07-02 22:00:07",
+      "album": {
         "name": "Linha de frente",
         "url": "https://open.spotify.com/album/1zex66YgFMYOjTzU26uPft"
       },
@@ -1355,22 +1411,22 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
-        "name": "Milimetricamente",
-        "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
+        "name": "Amor \u00c9 F*Da",
+        "url": "https://open.spotify.com/album/4aMSzbiq9wIcn47n0xCkwU"
       },
       "artists": [
         {
-          "name": "Luana Maia",
-          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
         },
         {
-          "name": "DJ Caio Santos",
-          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
+          "name": "Prod. 2t'",
+          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
         }
       ],
-      "duration_ms": 122834,
-      "name": "Milimetricamente",
-      "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
+      "duration_ms": 151058,
+      "name": "Amor \u00c9 F*Da",
+      "url": "https://open.spotify.com/track/44cucY54ZnzHEiujvB60LZ"
     },
     {
       "added_at": "2026-07-02 22:00:07",
@@ -1399,26 +1455,6 @@
       "duration_ms": 118153,
       "name": "DIXAVANDO",
       "url": "https://open.spotify.com/track/6slTSnYginVYk9Ubi90K3H"
-    },
-    {
-      "added_at": "2026-07-02 22:00:07",
-      "album": {
-        "name": "Amor \u00c9 F*Da",
-        "url": "https://open.spotify.com/album/4aMSzbiq9wIcn47n0xCkwU"
-      },
-      "artists": [
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        },
-        {
-          "name": "Prod. 2t'",
-          "url": "https://open.spotify.com/artist/2odDxuVA7vqMK2Mrrf7uRN"
-        }
-      ],
-      "duration_ms": 151058,
-      "name": "Amor \u00c9 F*Da",
-      "url": "https://open.spotify.com/track/44cucY54ZnzHEiujvB60LZ"
     },
     {
       "added_at": "2026-07-02 22:00:07",
@@ -1523,30 +1559,6 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
-        "name": "Deekapz FM Remixes",
-        "url": "https://open.spotify.com/album/7puIZzknO6IZie8NOSO5dH"
-      },
-      "artists": [
-        {
-          "name": "Deekapz",
-          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
-        },
-        {
-          "name": "Nego Bala",
-          "url": "https://open.spotify.com/artist/5d3x6gaDHdVESZLO5tB6mP"
-        },
-        {
-          "name": "th4ys",
-          "url": "https://open.spotify.com/artist/3LGFpNOWNjpvlkUmj304V3"
-        }
-      ],
-      "duration_ms": 107476,
-      "name": "Ego - th4ys Remix",
-      "url": "https://open.spotify.com/track/0JQIFWq4KVdmYjaqyMfYuk"
-    },
-    {
-      "added_at": "2026-07-02 22:00:07",
-      "album": {
         "name": "PLATA O PLOMO",
         "url": "https://open.spotify.com/album/04YE4SzQn55927shW5TDjA"
       },
@@ -1570,6 +1582,18 @@
         {
           "name": "Victor Thug",
           "url": "https://open.spotify.com/artist/5WLPymEZt8rupS3Aak9hAb"
+        },
+        {
+          "name": "Aizakz",
+          "url": "https://open.spotify.com/artist/7xWcVg3imdH4pHVfdjVggh"
+        },
+        {
+          "name": "Zayon",
+          "url": "https://open.spotify.com/artist/6knogOswFY0sL5qQsW7jG1"
+        },
+        {
+          "name": "OG Bahia",
+          "url": "https://open.spotify.com/artist/5sWSh5DCUgwN223DmJ1He1"
         }
       ],
       "duration_ms": 176360,
@@ -1579,38 +1603,26 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
-        "name": "PLATA O PLOMO",
-        "url": "https://open.spotify.com/album/04YE4SzQn55927shW5TDjA"
+        "name": "Deekapz FM Remixes",
+        "url": "https://open.spotify.com/album/7puIZzknO6IZie8NOSO5dH"
       },
       "artists": [
         {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+          "name": "Deekapz",
+          "url": "https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0"
         },
         {
-          "name": "MC Fr da Norte",
-          "url": "https://open.spotify.com/artist/4s6x9M7UXoKy12iOrDILhj"
+          "name": "Nego Bala",
+          "url": "https://open.spotify.com/artist/5d3x6gaDHdVESZLO5tB6mP"
         },
         {
-          "name": "Boaventura",
-          "url": "https://open.spotify.com/artist/0HNv7LfoPFCBtfdeiFIXPe"
-        },
-        {
-          "name": "Ouroempessoa",
-          "url": "https://open.spotify.com/artist/7tdbteHDBsaDH29OAQvMBb"
-        },
-        {
-          "name": "Rucinni",
-          "url": "https://open.spotify.com/artist/7JGJNUGGZl51b98oCJErGj"
-        },
-        {
-          "name": "Fahel",
-          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+          "name": "th4ys",
+          "url": "https://open.spotify.com/artist/3LGFpNOWNjpvlkUmj304V3"
         }
       ],
-      "duration_ms": 200287,
-      "name": "CA\u00c7A DO TESOURO",
-      "url": "https://open.spotify.com/track/39ndb5aaoDJh5opNildstN"
+      "duration_ms": 107476,
+      "name": "Ego - th4ys Remix",
+      "url": "https://open.spotify.com/track/0JQIFWq4KVdmYjaqyMfYuk"
     }
   ],
   "unique_name": "creme",

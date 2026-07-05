@@ -4,7 +4,7 @@
 
 > 
 
-8,696 songs - 22 day 3 hr 32 min
+8,697 songs - 22 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1682,6 +1682,7 @@
 | [DOGTOOTH](https://open.spotify.com/track/6OfOzTitafSnsaunQLuNFw) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 2:41 | 2025-01-15 |  |
 | [Doing It Wrong](https://open.spotify.com/track/4eSGSqP2TZvvX0kadZZttM) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 4:25 | 2025-01-03 |  |
 | [Doja](https://open.spotify.com/track/3zpGLSQ8QbbUnNjweWPLMD) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Doja](https://open.spotify.com/album/5Gk324K07rxU4Lq7ghWe2o) | 2:51 | 2024-12-05 |  |
+| [Doki Doki Forever](https://open.spotify.com/track/4sFwijvwQBMvF8UAIklved) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Doki Doki Forever](https://open.spotify.com/album/0Wh6w1t8XPBzvhufPvRXQL) | 3:00 | 2026-07-04 |  |
 | [Doki Doki Forever](https://open.spotify.com/track/5MHYkxRxkk3OUgdJHwm3rG) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Doki Doki Forever](https://open.spotify.com/album/5jUz1WljGky4hbD3K0XMd0) | 3:00 | 2025-03-22 | 2025-07-20 |
 | [Doll Knight Part.Ⅱ](https://open.spotify.com/track/0wpHglBgldNh1uMBXFAt8y) | [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [N.E.X.T Shin Hae Chul Reboot Yourself](https://open.spotify.com/album/2OOxpszLnHqUEOivIR9Eps) | 4:32 | 2025-01-15 |  |
 | [Dollar And A Dream](https://open.spotify.com/track/35se5TzzyQguW9kyMRMZRs) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Come Up Mixtape Vol\. 1](https://open.spotify.com/album/3YstvzydeKYGSHDI8J0l37) | 4:36 | 2025-01-03 |  |
@@ -6269,7 +6270,7 @@
 | [Sweet Yamz](https://open.spotify.com/track/6euX4JYLk4abJ2mCb4jzk4) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [King Zoo](https://open.spotify.com/album/6Ds2wViVkVRxXheowIZEjc) | 1:45 | 2025-07-27 |  |
 | [Sweetheart \(feat\. Fivio Foreign\)](https://open.spotify.com/track/1zCB57Q2Hp5PPWLTpgW3w2) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Meet The Woo 2](https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5) | 2:36 | 2025-01-15 |  |
 | [Swim Good](https://open.spotify.com/track/3CgZCQyuyxHRMWB9BTwmni) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Swim Good](https://open.spotify.com/album/3TLaFWQDhV1g39Qwd5sPAm) | 4:17 | 2025-01-03 |  |
-| [Swim In The Light](https://open.spotify.com/track/5cjsgbZ8tZYD4f0LNpApnf) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Passion, Pain & Demon Slayin'](https://open.spotify.com/album/5bCk3kWAy2JbbTfHqzZCII) | 4:29 | 2025-01-03 |  |
+| [Swim In The Light](https://open.spotify.com/track/5cjsgbZ8tZYD4f0LNpApnf) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Passion, Pain & Demon Slayin'](https://open.spotify.com/album/5bCk3kWAy2JbbTfHqzZCII) | 4:29 | 2025-01-03 | 2026-07-05 |
 | [Swimming Pools \(Drank\)](https://open.spotify.com/track/6REbwUNlppTfcnV4d4ZoZi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Swimming Pools \(Drank\)](https://open.spotify.com/album/2XPrwlaAHHXnJzP9tBcIzH) | 4:07 | 2025-01-03 |  |
 | [Swimming Pools \(Drank\) \- Extended Version](https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:13 | 2025-01-03 |  |
 | [Swing Lynn](https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ) | [Harmless](https://open.spotify.com/artist/5dYGaoCO0iaUZKfl9K8Gtd) | [I'm Sure](https://open.spotify.com/album/6KXHP4v4hYN887RGeQwc8b) | 5:21 | 2025-01-03 |  |

@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-431 songs - 1 day 1 hr 0 min
+436 songs - 1 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Badly Scripted Film](https://open.spotify.com/track/4Si8TfDhpe7nYnDbG0WMP2) | [Grae Taylor](https://open.spotify.com/artist/5CNQyudyZMr34ru2t7MlFf) | [Badly Scripted Film](https://open.spotify.com/album/4dZqhfjWiAI1Q19Q19ZZx7) | 3:23 | 2026-03-04 | 2026-04-16 |
 | [Balance Beam](https://open.spotify.com/track/2is6Cz1SwoK5fGHUWhP8w3) | [Western Jaguar](https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3) | [Balance Beam](https://open.spotify.com/album/0sZdU9ijHsmLCCAvruEESL) | 2:55 | 2026-03-09 | 2026-04-16 |
 | [Bandages and Promises](https://open.spotify.com/track/0zQDOqHLjwK2Hueyih0jkJ) | [not equal to](https://open.spotify.com/artist/0ULpVOsLdkHOUlA3006rnz) | [Bandages and Promises](https://open.spotify.com/album/1N9bcji8icEHSbhyVEfPG8) | 3:25 | 2026-02-08 | 2026-03-29 |
+| [Battlefield](https://open.spotify.com/track/1K3uidXakgwiD3FgRlxZPl) | [Jakob Welding](https://open.spotify.com/artist/0qRmzN4h7LMZHoRwsLPbXe) | [a cosmic ballet](https://open.spotify.com/album/6Lsj3aJbzRacjop57eei5L) | 3:48 | 2026-07-04 |  |
 | [Be the Star That You Are](https://open.spotify.com/track/48hhpEl3Q2f4sL4kMsHC8R) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Be the Star That You Are](https://open.spotify.com/album/1QcGdYC268jeVW185uD1L0) | 3:09 | 2026-04-18 | 2026-07-01 |
 | [Beautiful Fear](https://open.spotify.com/track/2Q5xpVC50J31TqReHVIWk0) | [Lillibet](https://open.spotify.com/artist/5y9NYCtVotuZjlA8wkPoDe) | [Beautiful Fear](https://open.spotify.com/album/2sAtb468bjoRr9YJsvSnpD) | 3:52 | 2026-01-28 | 2026-03-10 |
 | [Betrayer](https://open.spotify.com/track/3J0RBXEI8o0TFqYDiZr4RA) | [Echo Alexander](https://open.spotify.com/artist/0ghlorYK2vI8FZjkkeUEA1) | [Betrayer](https://open.spotify.com/album/4tOhZ6j1lludhTe8hueduQ) | 2:51 | 2026-07-01 |  |
@@ -54,6 +55,7 @@
 | [Bloodshot Eyes](https://open.spotify.com/track/4XzNILnHHcfJxtRtGn4Ow8) | [Ruth A Harris](https://open.spotify.com/artist/4TUBRIaMIcsQUgkIIl5Vz8) | [Bloodshot Eyes](https://open.spotify.com/album/5P9VKrEu11OUOb8Rxj6yla) | 3:33 | 2026-02-08 | 2026-03-29 |
 | [Bloodsport](https://open.spotify.com/track/66wM8T14qRselu34qFBhC2) | [Maruja](https://open.spotify.com/artist/71ISXR7gtIq5E2AdI3jGf0) | [Pain to Power](https://open.spotify.com/album/6wymdowW8HbQ4H3nVs93Hj) | 3:42 | 2025-11-01 | 2026-01-17 |
 | [Bored](https://open.spotify.com/track/5ZdQRH3xelBq4V6eSGLoya) | [Duvin](https://open.spotify.com/artist/3pWchKdjhpRAGDfdzxLup7) | [Bored](https://open.spotify.com/album/2w9wbLlzxGAVKYo2rWE4Wj) | 3:52 | 2026-05-08 |  |
+| [Bring Back the Feeling](https://open.spotify.com/track/09mfLrHrJZlJrzcogIIVCY) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [Bring Back the Feeling](https://open.spotify.com/album/4HKCUdRntwilj1Up7Iagn9) | 2:58 | 2026-07-04 |  |
 | [Bring The Light](https://open.spotify.com/track/3jGNfsL25ex9OXlBlz6GNR) | [Akashic Activation](https://open.spotify.com/artist/17SsNQMk1SdflR752pBvCy) | [Bring The Light](https://open.spotify.com/album/2ppC36tqivjAk4cd9C7dC0) | 3:15 | 2026-05-10 |  |
 | [Bruise \- made of glass version](https://open.spotify.com/track/1ViyTiiu8JELEBdkq9Ki7W) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Bruise \(made of glass version\)](https://open.spotify.com/album/5TfTDGWMnOpeyN2PK236fD) | 3:38 | 2026-04-24 | 2026-07-02 |
 | [California \- Radio Edit](https://open.spotify.com/track/00NvDiyBeyErGKoPKAW8GH) | [GCProductions](https://open.spotify.com/artist/524uMXhv7f1HWx04B6CsXj) | [California \(Radio Edit\)](https://open.spotify.com/album/3TuKbkTwwZvdpZ5lYyZJTo) | 3:24 | 2026-01-16 | 2026-02-11 |
@@ -186,6 +188,7 @@
 | [holdingontosafety](https://open.spotify.com/track/4OJBealebm7hhRuyj2xGyt) | [vixxen](https://open.spotify.com/artist/3qkdIvVd0yfwaW8VxHHxdE) | [holdingontosafety](https://open.spotify.com/album/122NulHFFZ34lnasM1rBnR) | 2:42 | 2025-10-28 | 2025-12-12 |
 | [Hoochie Coochie Man](https://open.spotify.com/track/1opCG28oAY864tTGjZB2je) | [The Blue Mules](https://open.spotify.com/artist/07uYlW7XK9oTaN2itp1M6e) | [Out to Pasture](https://open.spotify.com/album/4ACsBAnhKaZvgvhNKuZRms) | 5:46 | 2026-04-24 | 2026-07-02 |
 | [Hoping to Find](https://open.spotify.com/track/6RbmNoCjfOWlyyWe7nOVUX) | [Empty Melon](https://open.spotify.com/artist/1u5HkdqkmbCZD4R5FJK6Rq), [Samson Wrote](https://open.spotify.com/artist/4I9Z8sIw2vkXNvEptJ6klg) | [Hoping to Find](https://open.spotify.com/album/5jPUl5s7s3VQvnPaZfK3Wu) | 3:13 | 2026-03-21 | 2026-04-21 |
+| [howl](https://open.spotify.com/track/34aQhZGv7oUqEyHwuXnBGq) | [pssyclwz](https://open.spotify.com/artist/0qwVNDyGW0vzX4kdskB7Rv), [Amelia Antoinette](https://open.spotify.com/artist/54Y3v2EJgUoaYKvdbZ2gH8) | [howl](https://open.spotify.com/album/2fSe2rCrvNb8vFnaJF9dJN) | 2:28 | 2026-07-04 |  |
 | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/track/1QFmP5yTicfkV52OjzJRqD) | [The New Old](https://open.spotify.com/artist/0YPr7kEbKKF1wICVeL71tb) | [Hurts \(Dancing With Ghosts\)](https://open.spotify.com/album/1LttVa39jjMMHbKWXsKujT) | 3:59 | 2026-04-18 | 2026-07-01 |
 | [i chose \(you\)](https://open.spotify.com/track/43FMQXLgPcXdA8GVXxrIJc) | [wone](https://open.spotify.com/artist/2lVHLWuHbuXUoldxPjT0xt) | [i chose \(you\)](https://open.spotify.com/album/2kZv9QPZ6UwPXdNiSBdpjc) | 1:58 | 2026-02-08 | 2026-03-29 |
 | [I Cry](https://open.spotify.com/track/3vGxu5l9dKyhwhqCQPtUXR) | [P1nk Revolver](https://open.spotify.com/artist/5trY6ajCGzjdL36utbymIv) | [In Design We Trust](https://open.spotify.com/album/3wvdhTnOUZpgYSTSqk94hQ) | 2:25 | 2026-04-29 | 2026-07-02 |
@@ -284,8 +287,10 @@
 | [Online](https://open.spotify.com/track/6orF4Fdls3oyIIatwI4tLm) | [Western Jaguar](https://open.spotify.com/artist/71axwQvFwcRQJmwodhoGR3) | [Online](https://open.spotify.com/album/17FiFf2zK6GnULQt8lTAmh) | 2:38 | 2026-05-12 |  |
 | [Only Good Things Will Come](https://open.spotify.com/track/263iWFX37tqJlEdhiANAZ6) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [Only Good Things Will Come](https://open.spotify.com/album/1H3UTxWPBuzpZfuXew7rOB) | 3:06 | 2026-05-05 |  |
 | [Only One](https://open.spotify.com/track/5FByc9HBQYOzsFoT7m4N4r) | [MSM](https://open.spotify.com/artist/4u06Wa4QrslFL1taRRMrSy) | [Only One](https://open.spotify.com/album/4LgFge1w62Y2smeAgF819x) | 3:59 | 2026-06-30 |  |
+| [Onomanosphere](https://open.spotify.com/track/49hjIuAb7VKotojvXPrmBd) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [Onomanosphere](https://open.spotify.com/album/2dohHJ6ZCqeKfve1MqbiSA) | 2:50 | 2026-07-04 |  |
 | [Opening \- \|wa\|hia\|wa\|](https://open.spotify.com/track/4MhnSrDsVbd0EtXXp8bOkw) | [Niam Daia](https://open.spotify.com/artist/33Z86L54jqPDUxsx8u4PCZ) | [\|Invocation\|](https://open.spotify.com/album/7FeGBeSyXlSDnYis3bXDev) | 4:49 | 2026-05-10 |  |
 | [Ophelia](https://open.spotify.com/track/1yJUXqK5uC1FBJcH6mYlmr) | [Luciana Zogbi](https://open.spotify.com/artist/4ijejASaFZOolpZwK0XO9O) | [Ophelia](https://open.spotify.com/album/1lhbNpKc1sSnASkhi9T1NR) | 3:35 | 2026-03-08 | 2026-04-16 |
+| [Orange Juice](https://open.spotify.com/track/3SQBx6Y1krpXC3CAG3ykDL) | [House of Chords](https://open.spotify.com/artist/1ZjddKtNpO02fybaiZyBC4), [TIMEA](https://open.spotify.com/artist/53Ej9kFv9M01aJ8SW6QLFf) | [Orange Juice](https://open.spotify.com/album/4qvrJkItVxPMXEGoz4Jvc9) | 5:24 | 2026-07-04 |  |
 | [Over It](https://open.spotify.com/track/2kj6TZScNoIT7XkmHaNzf5) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Over It](https://open.spotify.com/album/2QMH3GnAnZDiHobPxWdlYI) | 3:11 | 2026-02-01 | 2026-03-10 |
 | [Over My Head](https://open.spotify.com/track/4clPHM4vzSpKU7nwqgz0LC) | [Aura Davis](https://open.spotify.com/artist/7phDlcL0THknSVzXipd3Vf) | [Over My Head](https://open.spotify.com/album/1V8aRGKGIbyTJ17ylo1fzT) | 2:39 | 2026-03-09 | 2026-04-16 |
 | [Patriarchy’s Dead](https://open.spotify.com/track/01L6rxptIyVvYm6epPJ00m) | [Kate Couriel](https://open.spotify.com/artist/30i6UykrCFZQaAkolPjuU2) | [Patriarchy’s Dead](https://open.spotify.com/album/0CVAz8jYZE5KSVmprWNOeB) | 2:12 | 2026-04-15 | 2026-05-28 |

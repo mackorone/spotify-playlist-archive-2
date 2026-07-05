@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,168 likes - 90 songs - 5 hr 21 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,168 likes - 95 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,5 +98,10 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 88 | [Don't Look Away](https://open.spotify.com/track/7JKSRwQE2JdzUtcZ3a4Prh) | [Empty Melon](https://open.spotify.com/artist/1u5HkdqkmbCZD4R5FJK6Rq), [Leo Bagel](https://open.spotify.com/artist/1dQ15Hx2wVHyoTro6o5hIx) | [Don't Look Away](https://open.spotify.com/album/1nfuO8I1Za0HuHjQQnvqJ8) | 3:22 |
 | 89 | [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 |
 | 90 | [kim jesteś?](https://open.spotify.com/track/3WRp5WLnxae0voLTrDSFz1) | [oswojeni](https://open.spotify.com/artist/6HSaeoRmLRRCdymdtKFsfh) | [kim jesteś?](https://open.spotify.com/album/3AEbonO8ZDawTrqzwU6ozw) | 3:33 |
+| 91 | [Bring Back the Feeling](https://open.spotify.com/track/09mfLrHrJZlJrzcogIIVCY) | [Maxwell LeVan](https://open.spotify.com/artist/6BAItgRso9SUbIyIpjcdm1) | [Bring Back the Feeling](https://open.spotify.com/album/4HKCUdRntwilj1Up7Iagn9) | 2:58 |
+| 92 | [howl](https://open.spotify.com/track/34aQhZGv7oUqEyHwuXnBGq) | [pssyclwz](https://open.spotify.com/artist/0qwVNDyGW0vzX4kdskB7Rv), [Amelia Antoinette](https://open.spotify.com/artist/54Y3v2EJgUoaYKvdbZ2gH8) | [howl](https://open.spotify.com/album/2fSe2rCrvNb8vFnaJF9dJN) | 2:28 |
+| 93 | [Orange Juice](https://open.spotify.com/track/3SQBx6Y1krpXC3CAG3ykDL) | [House of Chords](https://open.spotify.com/artist/1ZjddKtNpO02fybaiZyBC4), [TIMEA](https://open.spotify.com/artist/53Ej9kFv9M01aJ8SW6QLFf) | [Orange Juice](https://open.spotify.com/album/4qvrJkItVxPMXEGoz4Jvc9) | 5:24 |
+| 94 | [Onomanosphere](https://open.spotify.com/track/49hjIuAb7VKotojvXPrmBd) | [TIRED](https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO) | [Onomanosphere](https://open.spotify.com/album/2dohHJ6ZCqeKfve1MqbiSA) | 2:50 |
+| 95 | [Battlefield](https://open.spotify.com/track/1K3uidXakgwiD3FgRlxZPl) | [Jakob Welding](https://open.spotify.com/artist/0qRmzN4h7LMZHoRwsLPbXe) | [a cosmic ballet](https://open.spotify.com/album/6Lsj3aJbzRacjop57eei5L) | 3:48 |
 
-Snapshot ID: `AAAPaMqPt0BIkQs196oruvtt4hcS8rgt`
+Snapshot ID: `AAAPbX0gCLpNnQYE972LkOFLU2Xv/Rwp`

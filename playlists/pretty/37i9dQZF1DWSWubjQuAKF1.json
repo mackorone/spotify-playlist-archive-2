@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Hugo Tarres",
-  "num_followers": 26134,
+  "num_followers": 26132,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
+        "name": "Sen Multiplayer",
+        "url": "https://open.spotify.com/album/5ZkPA2Q81jb384KdAPBhAP"
+      },
+      "artists": [
+        {
+          "name": "Przebi\u015bniegi",
+          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Z cukru piach",
+      "url": "https://open.spotify.com/track/56FJDeFP8nB5pJfMd94VUv"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
         "name": "PRICE TAG",
         "url": "https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 166315,
       "name": "Wo\u0142am",
       "url": "https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
-        "name": "Sen Multiplayer",
-        "url": "https://open.spotify.com/album/5ZkPA2Q81jb384KdAPBhAP"
-      },
-      "artists": [
-        {
-          "name": "Przebi\u015bniegi",
-          "url": "https://open.spotify.com/artist/19lOxXnatl3J8HHKIqHoqx"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Z cukru piach",
-      "url": "https://open.spotify.com/track/56FJDeFP8nB5pJfMd94VUv"
     },
     {
       "added_at": "2026-06-25 22:01:43",
@@ -519,42 +519,6 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
-        "name": "bez s\u0142\u00f3w",
-        "url": "https://open.spotify.com/album/3Kqba8YFZCbkTJA77QtDzB"
-      },
-      "artists": [
-        {
-          "name": "Manya",
-          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
-        }
-      ],
-      "duration_ms": 117120,
-      "name": "bez s\u0142\u00f3w",
-      "url": "https://open.spotify.com/track/3Mf0raiHbeCis8RpJG1Aiq"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
-        "name": "narcyz",
-        "url": "https://open.spotify.com/album/3UHSRBAWsOVucoSl8uULCs"
-      },
-      "artists": [
-        {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
-        },
-        {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "narcyz",
-      "url": "https://open.spotify.com/track/44y8Xzr5pLcdaQDAN9R7LB"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
         "name": "Wieje",
         "url": "https://open.spotify.com/album/5tpWJuzhUJ4PrQp3WeZ8ap"
       },
@@ -595,6 +559,42 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
+        "name": "bez s\u0142\u00f3w",
+        "url": "https://open.spotify.com/album/3Kqba8YFZCbkTJA77QtDzB"
+      },
+      "artists": [
+        {
+          "name": "Manya",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "duration_ms": 117120,
+      "name": "bez s\u0142\u00f3w",
+      "url": "https://open.spotify.com/track/3Mf0raiHbeCis8RpJG1Aiq"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
+        "name": "narcyz",
+        "url": "https://open.spotify.com/album/3UHSRBAWsOVucoSl8uULCs"
+      },
+      "artists": [
+        {
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
+        },
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "narcyz",
+      "url": "https://open.spotify.com/track/44y8Xzr5pLcdaQDAN9R7LB"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
         "name": "ASFALT",
         "url": "https://open.spotify.com/album/0WmjnvRqQU6Pt4ZJ6cWPMF"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 153280,
       "name": "ASFALT",
       "url": "https://open.spotify.com/track/0Izx0GM7me01DxEZKLkRup"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
-        "name": "OdFiltruj Rzeczywisto\u015b\u0107",
-        "url": "https://open.spotify.com/album/7oE81fj7B3MCy68mvdW9OE"
-      },
-      "artists": [
-        {
-          "name": "Zuza Jab\u0142o\u0144ska",
-          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "OdFiltruj Rzeczywisto\u015b\u0107",
-      "url": "https://open.spotify.com/track/0zXXpAKmNuHbxsuJVMGnAM"
     },
     {
       "added_at": "2026-06-25 22:01:43",
@@ -647,6 +631,22 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
+        "name": "OdFiltruj Rzeczywisto\u015b\u0107",
+        "url": "https://open.spotify.com/album/7oE81fj7B3MCy68mvdW9OE"
+      },
+      "artists": [
+        {
+          "name": "Zuza Jab\u0142o\u0144ska",
+          "url": "https://open.spotify.com/artist/2obyllmx54A5zB0yZe5ikt"
+        }
+      ],
+      "duration_ms": 173400,
+      "name": "OdFiltruj Rzeczywisto\u015b\u0107",
+      "url": "https://open.spotify.com/track/0zXXpAKmNuHbxsuJVMGnAM"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
         "name": "kochaj mnie",
         "url": "https://open.spotify.com/album/3URaw7BgvY2vh5EtECHnta"
       },
@@ -663,6 +663,22 @@
       "duration_ms": 151547,
       "name": "kochaj mnie",
       "url": "https://open.spotify.com/track/6ZXczp4DXqMxbaVlEhtMCc"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
+        "name": "hyperl\u00f8ve",
+        "url": "https://open.spotify.com/album/5o3OssxepuFDEanRLOmZX6"
+      },
+      "artists": [
+        {
+          "name": "Crazy Oliwka",
+          "url": "https://open.spotify.com/artist/1iHUXA1Wbqfdw26OmA3X57"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "hyperl\u00f8ve",
+      "url": "https://open.spotify.com/track/3gN55NN5HOAxpqaR8Cwvqz"
     },
     {
       "added_at": "2026-06-25 22:01:43",
@@ -687,18 +703,18 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
-        "name": "hyperl\u00f8ve",
-        "url": "https://open.spotify.com/album/5o3OssxepuFDEanRLOmZX6"
+        "name": "Ziemia",
+        "url": "https://open.spotify.com/album/5whIBdiOSX0IVuhE5tJrSc"
       },
       "artists": [
         {
-          "name": "Crazy Oliwka",
-          "url": "https://open.spotify.com/artist/1iHUXA1Wbqfdw26OmA3X57"
+          "name": "SARGIS",
+          "url": "https://open.spotify.com/artist/114qvfOgYaQqBLv7Ta3WWL"
         }
       ],
-      "duration_ms": 157714,
-      "name": "hyperl\u00f8ve",
-      "url": "https://open.spotify.com/track/3gN55NN5HOAxpqaR8Cwvqz"
+      "duration_ms": 275593,
+      "name": "Ziemia",
+      "url": "https://open.spotify.com/track/43b6YCVseA2Ueb80ef1XT4"
     },
     {
       "added_at": "2026-06-25 22:01:43",
@@ -715,22 +731,6 @@
       "duration_ms": 222252,
       "name": "Do Ciebie",
       "url": "https://open.spotify.com/track/5JqcGrRcoFWmCbgLrTiswq"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
-        "name": "Ziemia",
-        "url": "https://open.spotify.com/album/5whIBdiOSX0IVuhE5tJrSc"
-      },
-      "artists": [
-        {
-          "name": "SARGIS",
-          "url": "https://open.spotify.com/artist/114qvfOgYaQqBLv7Ta3WWL"
-        }
-      ],
-      "duration_ms": 275593,
-      "name": "Ziemia",
-      "url": "https://open.spotify.com/track/43b6YCVseA2Ueb80ef1XT4"
     },
     {
       "added_at": "2026-06-25 22:01:43",
@@ -783,22 +783,6 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
-        "name": "Szeroko\u015bci!",
-        "url": "https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU"
-      },
-      "artists": [
-        {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
-        }
-      ],
-      "duration_ms": 157607,
-      "name": "Szeroko\u015bci!",
-      "url": "https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
         "name": "disco polo",
         "url": "https://open.spotify.com/album/7GbztmbuYf6NogISYjaD6P"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 184472,
       "name": "disco polo",
       "url": "https://open.spotify.com/track/5NbCT5QeNlMAx8ajdL1ujx"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
+        "name": "Szeroko\u015bci!",
+        "url": "https://open.spotify.com/album/2SIVV4JMG2Yfc8ZAo96nZU"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 157607,
+      "name": "Szeroko\u015bci!",
+      "url": "https://open.spotify.com/track/4EeBtVIBydAhMCXlykAUw8"
     },
     {
       "added_at": "2026-06-25 22:01:43",
@@ -943,6 +943,26 @@
     {
       "added_at": "2026-06-25 22:01:43",
       "album": {
+        "name": "Bez por\u00f3wna\u0144",
+        "url": "https://open.spotify.com/album/1MjltZhGjBpiaALMeN9t8p"
+      },
+      "artists": [
+        {
+          "name": "Faustyna Maciejczuk",
+          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
+        },
+        {
+          "name": "Rubens",
+          "url": "https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7"
+        }
+      ],
+      "duration_ms": 171111,
+      "name": "Bez por\u00f3wna\u0144",
+      "url": "https://open.spotify.com/track/2SRLhPy43D13cVR4qewxy2"
+    },
+    {
+      "added_at": "2026-06-25 22:01:43",
+      "album": {
         "name": "Kupi\u0142am bilet",
         "url": "https://open.spotify.com/album/57fmp0azwfpXlUklB5Amdh"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 175821,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/42ZIBzn36rjNhIg9TM6Bj4"
-    },
-    {
-      "added_at": "2026-06-25 22:01:43",
-      "album": {
-        "name": "Bez por\u00f3wna\u0144",
-        "url": "https://open.spotify.com/album/1MjltZhGjBpiaALMeN9t8p"
-      },
-      "artists": [
-        {
-          "name": "Faustyna Maciejczuk",
-          "url": "https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj"
-        },
-        {
-          "name": "Rubens",
-          "url": "https://open.spotify.com/artist/0f53X3udWEWIhMbmuWdxo7"
-        }
-      ],
-      "duration_ms": 171111,
-      "name": "Bez por\u00f3wna\u0144",
-      "url": "https://open.spotify.com/track/2SRLhPy43D13cVR4qewxy2"
     },
     {
       "added_at": "2026-06-25 22:01:43",

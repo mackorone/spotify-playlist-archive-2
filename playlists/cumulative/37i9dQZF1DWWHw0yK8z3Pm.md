@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Kyle McKearney
 
-735 songs - 1 day 20 hr 25 min
+736 songs - 1 day 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Death Valley Honeymoon \(feat\. Cat Clyde\)](https://open.spotify.com/track/7DlI8czdypGakdmOp0Xv2S) | [Dustin Kensrue](https://open.spotify.com/artist/0SuWOa14KQ9jBIwvqFbzo5), [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Death Valley Honeymoon \(feat\. Cat Clyde\)](https://open.spotify.com/album/2auQZXqoFzba9G30DCKCq1) | 3:36 | 2024-02-09 | 2024-05-21 |
 | [December](https://open.spotify.com/track/1mXGajS1lGOU7GHZuOIVYk) | [Meredith Lazowski](https://open.spotify.com/artist/2ArYHxQyNMtWFI7YpkQWPP) | [Other Way Home](https://open.spotify.com/album/18LCsG2QzCUtQhtP3p34yd) | 4:25 | 2022-06-17 | 2023-04-22 |
 | [Deep Talk](https://open.spotify.com/track/1967H4f0q93QGFHyB14mZa) | [Alysha Brilla](https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q) | [Deep Talk](https://open.spotify.com/album/5vRPv5tGYxtzNdyYwZTTg3) | 4:34 | 2022-08-12 | 2023-04-22 |
+| [Deportee \(Plane Wreck At Los Gatos\) \[Feat\. Joan Baez & Memphis Mariachi\]](https://open.spotify.com/track/6sHiv0apw8SIdIK4pXy2Dw) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Memphis Mariachi](https://open.spotify.com/artist/47oovDNJkP7a3m3dCLRM4E) | [Deportee / Oval Room](https://open.spotify.com/album/3GV4eATqhPkMEEj7bqHQM2) | 4:03 | 2026-07-03 |  |
 | [Devil's Wine feat\. Joe Newton](https://open.spotify.com/track/3FpxNZXWtkfTDCS18ItwlA) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg), [Joe Newton](https://open.spotify.com/artist/66DRCybnaEyb52neuFgE8Z) | [Devil's Wine](https://open.spotify.com/album/1omFDYbbRyTEz12vG0GEhJ) | 3:16 | 2024-08-30 | 2025-10-24 |
 | [Diamond](https://open.spotify.com/track/0opvyElQZPPq405LGzfe56) | [Daniel James McFadyen](https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9) | [Back to the Country](https://open.spotify.com/album/2qtHeHuUDLpyaz9KYPj3zI) | 4:10 | 2025-09-19 | 2026-01-31 |
 | [Diamond Wave](https://open.spotify.com/track/4SVCU3Ue6vcowvVrlPHzH5) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Diamond Wave](https://open.spotify.com/album/2p7x8swIp8A1WCJIy29Hp9) | 3:04 | 2022-11-18 | 2023-04-22 |
@@ -465,7 +466,7 @@
 | [Nashville Now](https://open.spotify.com/track/3QTEG2yYoNpmTnCWtFGrcn) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Nashville Now](https://open.spotify.com/album/2t9zjuvUc6VjgJyjpCnWzu) | 4:35 | 2025-09-19 | 2025-09-27 |
 | [Nautical Disaster](https://open.spotify.com/track/6wazfCfvmYBOprq7Zq6kLL) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Nautical Disaster](https://open.spotify.com/album/3NLfuDDCC5hvsUEVgknel2) | 5:00 | 2022-05-13 | 2022-05-20 |
 | [Neon Blue](https://open.spotify.com/track/6iivlt5obvMyejm91rfGgM) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Everywhere I Used to Be](https://open.spotify.com/album/5nwLpXKbM62DYP0phC6NBV) | 4:19 | 2022-08-12 | 2023-12-09 |
-| [Never Kissed a Cowboy](https://open.spotify.com/track/45OZMlld4rUYxi62rXvxv1) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Never Kissed a Cowboy](https://open.spotify.com/album/0LQY59aSfb5QmRFK1z6VRK) | 3:04 | 2026-01-30 |  |
+| [Never Kissed a Cowboy](https://open.spotify.com/track/45OZMlld4rUYxi62rXvxv1) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Never Kissed a Cowboy](https://open.spotify.com/album/0LQY59aSfb5QmRFK1z6VRK) | 3:04 | 2026-01-30 | 2026-07-05 |
 | [Never Love You Again \(Feat\. Sierra Ferrell\)](https://open.spotify.com/track/1hpeLq6qX83kCsfh9C8RNI) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [F\-1 Trillion](https://open.spotify.com/album/3gHZ4w03gbuZtGTEwztrtw) | 3:06 | 2024-08-23 | 2025-10-27 |
 | [New Highs](https://open.spotify.com/track/0HENdkCmHGj3u7XEsYAYsn) | [Genesis Ritchot](https://open.spotify.com/artist/3G7RNCad1xTbtGy4GYMZhm) | [New Highs, Pt\. 1](https://open.spotify.com/album/0aSUXrulSnrgnzyAzl2eBf) | 4:15 | 2025-10-06 | 2026-02-14 |
 | [Next Somewhere](https://open.spotify.com/track/2BUHojp3DLIExIWPB7fHCZ) | [Sweet Alibi](https://open.spotify.com/artist/1g4g3e7KmtiCWGIazim0A4) | [Make A Scene](https://open.spotify.com/album/6t71WvBFQJpWzVeg2IWA3h) | 4:09 | 2022-05-13 | 2023-03-11 |

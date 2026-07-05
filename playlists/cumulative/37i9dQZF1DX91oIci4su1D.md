@@ -4,7 +4,7 @@
 
 > 🫧  when everything lifts to a higher state 🫧 <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a> with KI/KI
 
-1,323 songs - 3 day 6 hr 59 min
+1,324 songs - 3 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,7 +344,7 @@
 | [Elevate](https://open.spotify.com/track/0iF3VTHA1QSrUZRjsaGpX2) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Elevate](https://open.spotify.com/album/7KbloOEzxIRrSzHobwFBLQ) | 3:46 | 2024-04-19 | 2025-05-17 |
 | [Ellipsis](https://open.spotify.com/track/4ItNI65feNcstJ0IzR8LWa) | [John Grand](https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy) | [Ellipsis](https://open.spotify.com/album/3dy2cumKj5MUB8PYNfruG8) | 3:39 | 2022-07-01 | 2023-04-22 |
 | [Elysium \[Transmission 2024 Theme\]](https://open.spotify.com/track/3tgzSZb9sHfTTmQXEnMpYE) | [Daxson](https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW) | [Elysium \[Transmission 2024 Theme\]](https://open.spotify.com/album/49bCIw1A3H9YoBYcLemVNi) | 2:38 | 2024-03-08 | 2025-05-17 |
-| [Embrace](https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Embrace](https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ) | 4:20 | 2025-10-10 |  |
+| [Embrace](https://open.spotify.com/track/2rioycV7h8P0ujiMy59bkP) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Embrace](https://open.spotify.com/album/45qnEf54HGMZxJKpS3slZQ) | 4:20 | 2025-10-10 | 2026-07-05 |
 | [Emotion FM](https://open.spotify.com/track/6KnFnI5Ki0DPLmR23AeDIb) | [Craig Connelly](https://open.spotify.com/artist/78UUH1buA0gDtDnkX2dPgL) | [Emotion FM](https://open.spotify.com/album/3SoYH9xcNQNNL696KIaU0S) | 4:49 | 2024-07-19 | 2024-08-31 |
 | [Emotions of Colour](https://open.spotify.com/track/6eBUO6Nb29FOvkIwkUc5li) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Emotions of Colour](https://open.spotify.com/album/0nH0K8vP8UTgZNHLYSGe5K) | 4:26 | 2023-03-03 | 2024-05-18 |
 | [Encounter](https://open.spotify.com/track/45oSgCJoDcQcXjxssQPVZg) | [Steve Dekay](https://open.spotify.com/artist/7lF2WmukgrCZa5pxW6q1IE), [Exouler](https://open.spotify.com/artist/0iGNYF6J9JmfpBHAmYAucM) | [Encounter](https://open.spotify.com/album/2LYnFQKvtPlKp36HCRGuRv) | 3:37 | 2021-12-17 | 2022-02-26 |
@@ -936,6 +936,7 @@
 | [Resource](https://open.spotify.com/track/2YTMUE6rM0HbYI6ZeF2M9r) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv) | [Resource](https://open.spotify.com/album/5FgkWUGEsLOuykvly4JXe6) | 3:56 | 2024-02-16 | 2025-03-22 |
 | [Rest Of Our Lives](https://open.spotify.com/track/1890XyLaHj9kjYEyOstCVp) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL) | [Rest Of Our Lives](https://open.spotify.com/album/4azAB79vLbLEJASKKNmP9d) | 4:00 | 2022-05-13 | 2022-11-12 |
 | [Rest Of Our Lives \- Paul Webster Remix](https://open.spotify.com/track/2T1AR6xRYEaHbcTdJBJT4s) | [Ben Gold](https://open.spotify.com/artist/4DXcK8M3bJkCFfhHIkudyL), [Paul Webster](https://open.spotify.com/artist/2xxQ1Dy2fyyhVqJodKB4OC) | [Rest Of Our Lives \(Paul Webster Remix\)](https://open.spotify.com/album/7uLQw2cvkglgIe1PkAUtLs) | 3:25 | 2023-07-21 | 2023-08-19 |
+| [ResuRection](https://open.spotify.com/track/3avXtcd0oJNUVB7prZEDYn) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Planet Perfecto Knights](https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs) | [ResuRection](https://open.spotify.com/album/1huuNXEaRU60RRZ2T4x5LI) | 2:59 | 2026-07-03 |  |
 | [ResuRection \(Call Me\)](https://open.spotify.com/track/7w5eVOIt7g0DhUWvoqvhq9) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Planet Perfecto Knights](https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs), [BE](https://open.spotify.com/artist/7ltj38mwTL9S8K0mYyXvWV) | [ResuRection \(Call Me\)](https://open.spotify.com/album/6MfwXxqZWKDS1B0nVMYrW6) | 2:44 | 2025-06-27 |  |
 | [Retrospection](https://open.spotify.com/track/63Gj7lvC3Lb2mWaMKsTCQz) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Greenhaven DJs](https://open.spotify.com/artist/6ny5YjOSAb1ESDtkQTQ1bo) | [Retrospection](https://open.spotify.com/album/5WivG5aBh4fXUB2ii0Wmfe) | 4:06 | 2022-02-18 | 2022-05-14 |
 | [Return from the Sand Sea](https://open.spotify.com/track/5zVvXq9yXpRFPv1yPvUItO) | [Markus Schulz](https://open.spotify.com/artist/6OO0PboZcIWUWL7j2IyeoL) | [Return from the Sand Sea](https://open.spotify.com/album/2jEuVcehJ4amdBoLa41iWf) | 3:33 | 2021-12-17 | 2023-02-25 |

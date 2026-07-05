@@ -158,7 +158,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 287512,
       "name": "Aaye Hain Samjhane Log",
       "url": "https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH"
@@ -5039,6 +5039,28 @@
     },
     {
       "album": {
+        "name": "Kamlee",
+        "url": "https://open.spotify.com/album/6aNA5eMx7ciwfiKQQi01zm"
+      },
+      "artists": [
+        {
+          "name": "Kailash Sudia",
+          "url": "https://open.spotify.com/artist/10UWt77YJ6YRgYkf18gTrz"
+        },
+        {
+          "name": "Pooja Meghvanshi",
+          "url": "https://open.spotify.com/artist/5Vll1xZcrxiGohn1e2trcY"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238746,
+      "name": "Mohe Satao Na",
+      "url": "https://open.spotify.com/track/7o0rQOYCWjWoon11BNl6x9"
+    },
+    {
+      "album": {
         "name": "Moko Kahan",
         "url": "https://open.spotify.com/album/3TKDcIp43A2db9vnK263xP"
       },
@@ -5138,7 +5160,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 124000,
       "name": "More Sajan",
       "url": "https://open.spotify.com/track/4ebzARJSxxzlvR7O5vtJ3S"
@@ -7746,6 +7768,28 @@
       "duration_ms": 255000,
       "name": "Saajan",
       "url": "https://open.spotify.com/track/2uiLL8F7KmQKnxiAXy0GkA"
+    },
+    {
+      "album": {
+        "name": "Saanjh",
+        "url": "https://open.spotify.com/album/3cgRZU6NFFHXPpMvI0YnLe"
+      },
+      "artists": [
+        {
+          "name": "Raveena Paul",
+          "url": "https://open.spotify.com/artist/3JShaTOiYkvAT6XoaU38se"
+        },
+        {
+          "name": "Aman Sharma",
+          "url": "https://open.spotify.com/artist/2jGsUaf3nyfgiIukPeX200"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164705,
+      "name": "Saanjh",
+      "url": "https://open.spotify.com/track/4sgBqGDsKiNzc65jGaEnr3"
     },
     {
       "album": {

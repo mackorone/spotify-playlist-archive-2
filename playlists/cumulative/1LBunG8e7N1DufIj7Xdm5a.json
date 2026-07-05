@@ -18693,6 +18693,24 @@
     },
     {
       "album": {
+        "name": "Dil Ye Dhadakta Hi Nahin",
+        "url": "https://open.spotify.com/album/5ER11kVPBVRPXgqIDsNwUV"
+      },
+      "artists": [
+        {
+          "name": "Digital Pandit",
+          "url": "https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181368,
+      "name": "Dil Ye Dhadakta Hi Nahin - Extended Version",
+      "url": "https://open.spotify.com/track/2EICWOdqnZYMmeNhLlD5df"
+    },
+    {
+      "album": {
         "name": "Dil Ye Dhadakta Hi Nahin (Reprise)",
         "url": "https://open.spotify.com/album/5h2xUzlizawzxOFfOxkHOm"
       },

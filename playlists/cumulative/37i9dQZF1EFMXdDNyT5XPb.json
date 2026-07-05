@@ -2400,10 +2400,28 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 159000,
       "name": "The Writing's On The Wall",
       "url": "https://open.spotify.com/track/0TBNJLc19JEr5PXwbyaWfX"
+    },
+    {
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/2F64gXAJF6Co7Ze5Ibvrn6"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "The Writing's On The Wall",
+      "url": "https://open.spotify.com/track/1EInmI4VqeXjySd4TvErMj"
     },
     {
       "album": {

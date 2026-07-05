@@ -1,6 +1,6 @@
 {
   "description": "Descubre el futuro de la m\u00fasica en M\u00e9xico en compa\u00f1\u00eda de iza tkm",
-  "num_followers": 93092,
+  "num_followers": 93108,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
+        "name": "i Music Listen",
+        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        }
+      ],
+      "duration_ms": 198545,
+      "name": "t escucho al pensar",
+      "url": "https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
         "name": "PVT0 VACIO",
         "url": "https://open.spotify.com/album/3fHRGNZdgIImWaAv07A8Br"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 231129,
       "name": "PVT0 VACIO",
       "url": "https://open.spotify.com/track/0YbULd63UGmfwLX0SjJMnY"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
-        "name": "i Music Listen",
-        "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
-      },
-      "artists": [
-        {
-          "name": "iza tkm",
-          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
-        }
-      ],
-      "duration_ms": 198545,
-      "name": "t escucho al pensar",
-      "url": "https://open.spotify.com/track/2iKDc7w7jeZwjfjYsJZz4x"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "pa que",
-        "url": "https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd"
-      },
-      "artists": [
-        {
-          "name": "bpuntito",
-          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
-        }
-      ],
-      "duration_ms": 196946,
-      "name": "pa que",
-      "url": "https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "i Music Listen",
         "url": "https://open.spotify.com/album/01b2y2M76Q5i4iqC9Q5NtJ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 107437,
       "name": "DRAMATIKA!",
       "url": "https://open.spotify.com/track/4snjC5yjWPQlodLW6iN2o9"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "pa que",
+        "url": "https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd"
+      },
+      "artists": [
+        {
+          "name": "bpuntito",
+          "url": "https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u"
+        }
+      ],
+      "duration_ms": 196946,
+      "name": "pa que",
+      "url": "https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -835,26 +835,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "Todav\u00eda No",
-        "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
-      },
-      "artists": [
-        {
-          "name": "Karlo",
-          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
-        },
-        {
-          "name": "Ivana",
-          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
-        }
-      ],
-      "duration_ms": 245669,
-      "name": "Todav\u00eda No",
-      "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "Tempestad",
         "url": "https://open.spotify.com/album/3ROgzkUpea1ABUTLIVgtuE"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 255605,
       "name": "Tempestad",
       "url": "https://open.spotify.com/track/26MgGRiHVchclnV6kR4jLL"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "Todav\u00eda No",
+        "url": "https://open.spotify.com/album/5ysZfMbmco9uRHe98XPiZq"
+      },
+      "artists": [
+        {
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 245669,
+      "name": "Todav\u00eda No",
+      "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "Vasito en mano",
-        "url": "https://open.spotify.com/album/0jVXNWFQvnJZG79v2YEDTw"
-      },
-      "artists": [
-        {
-          "name": "Mosmo",
-          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Vasito en mano",
-      "url": "https://open.spotify.com/track/04hKVjDuQZIKo1svV7JpLJ"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "ati!",
         "url": "https://open.spotify.com/album/7gXPJM8yYWrp9kqZZasOvc"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 148363,
       "name": "ati!",
       "url": "https://open.spotify.com/track/0k4pnNwerwfq20JsDqVjqF"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "Vasito en mano",
+        "url": "https://open.spotify.com/album/0jVXNWFQvnJZG79v2YEDTw"
+      },
+      "artists": [
+        {
+          "name": "Mosmo",
+          "url": "https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Vasito en mano",
+      "url": "https://open.spotify.com/track/04hKVjDuQZIKo1svV7JpLJ"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "HIPERSENTIMENTAL",
-        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
-      },
-      "artists": [
-        {
-          "name": "Jacinto",
-          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "HIPERSENTIMENTAL",
-      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "QUE SE JODAN SI NO PUEDEN ASUMIR UNA BROMA",
         "url": "https://open.spotify.com/album/1jf7Es2JD1smxFfXjH1X2f"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 213753,
       "name": "CADENAS",
       "url": "https://open.spotify.com/track/349Ydk9bqg7hrbQHgJRTUF"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "HIPERSENTIMENTAL",
+        "url": "https://open.spotify.com/album/5bincVY2lII0BNPSEDAN6f"
+      },
+      "artists": [
+        {
+          "name": "Jacinto",
+          "url": "https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "HIPERSENTIMENTAL",
+      "url": "https://open.spotify.com/track/5t0ZcTps5IkNBBaiFKoyD0"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
+        "name": "S\u00daPLICA",
+        "url": "https://open.spotify.com/album/6nRCtnVuAHAPiRhzqdYml2"
+      },
+      "artists": [
+        {
+          "name": "El Toed",
+          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
+        }
+      ],
+      "duration_ms": 207969,
+      "name": "S\u00daPLICA",
+      "url": "https://open.spotify.com/track/5kGoUV4bKVtMIDlmWMpWp4"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
         "name": "Ring Ring ft. Malo & Japanix",
         "url": "https://open.spotify.com/album/1nWZ8gWJVKfko5OdDVXpvq"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 124511,
       "name": "Ring Ring ft. Malo & Japanix",
       "url": "https://open.spotify.com/track/2agAnbaCqiwuEA0CF1xSfI"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
-        "name": "S\u00daPLICA",
-        "url": "https://open.spotify.com/album/6nRCtnVuAHAPiRhzqdYml2"
-      },
-      "artists": [
-        {
-          "name": "El Toed",
-          "url": "https://open.spotify.com/artist/1FtiJnQyLN1nHqWz6ALjyh"
-        }
-      ],
-      "duration_ms": 207969,
-      "name": "S\u00daPLICA",
-      "url": "https://open.spotify.com/track/5kGoUV4bKVtMIDlmWMpWp4"
     },
     {
       "added_at": "2026-06-22 17:58:29",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-06-22 17:58:29",
       "album": {
-        "name": "MONTAGEM BALENCI?",
-        "url": "https://open.spotify.com/album/21il8xM3gaZI08FHgTChWy"
-      },
-      "artists": [
-        {
-          "name": "BOWSY",
-          "url": "https://open.spotify.com/artist/6sdYo8XBiJTetz2XypUkCn"
-        }
-      ],
-      "duration_ms": 96471,
-      "name": "MONTAGEM BALENCI?",
-      "url": "https://open.spotify.com/track/6onwIzriGdWf16W2aDY2VE"
-    },
-    {
-      "added_at": "2026-06-22 17:58:29",
-      "album": {
         "name": "HISTORIAS DEL CERRO",
         "url": "https://open.spotify.com/album/1yRX0S6IXARwJ0e9cw6auj"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 158698,
       "name": "habitaci\u00f3n backwo0d",
       "url": "https://open.spotify.com/track/3Wa7Qee0YpucLgD6ehUClD"
+    },
+    {
+      "added_at": "2026-06-22 17:58:29",
+      "album": {
+        "name": "MONTAGEM BALENCI?",
+        "url": "https://open.spotify.com/album/21il8xM3gaZI08FHgTChWy"
+      },
+      "artists": [
+        {
+          "name": "BOWSY",
+          "url": "https://open.spotify.com/artist/6sdYo8XBiJTetz2XypUkCn"
+        }
+      ],
+      "duration_ms": 96471,
+      "name": "MONTAGEM BALENCI?",
+      "url": "https://open.spotify.com/track/6onwIzriGdWf16W2aDY2VE"
     },
     {
       "added_at": "2026-06-22 17:58:29",

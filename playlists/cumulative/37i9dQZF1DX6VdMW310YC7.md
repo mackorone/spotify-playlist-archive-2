@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,913 songs - 5 day 9 hr 51 min
+1,914 songs - 5 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,7 +361,7 @@
 | [Dead End Thrills](https://open.spotify.com/track/2Xmit6pfemEgNkcV9okUzH) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 4:28 | 2020-05-23 | 2020-07-03 |
 | [Deadstream \(Rostam Version\) \[feat\. Charli XCX\]](https://open.spotify.com/track/1Zeu77nt6pniRJ1eWZYMkJ) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Deadstream \(Rostam Version\) \[feat\. Charli XCX\]](https://open.spotify.com/album/5PSDGMf7lrY58jrQjPkiMG) | 3:16 | 2020-05-22 | 2020-07-03 |
 | [Deep Blue](https://open.spotify.com/track/7h46FIb7QrsLuhfGmmK0jW) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave005](https://open.spotify.com/album/493PElg9mW5MoF3elK9iaC) | 2:22 | 2020-08-06 | 2020-10-09 |
-| [Deep Blue](https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Deep Blue](https://open.spotify.com/album/2rwtT33vmqR6TNvIFH7ARe) | 3:52 | 2026-05-08 |  |
+| [Deep Blue](https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Deep Blue](https://open.spotify.com/album/2rwtT33vmqR6TNvIFH7ARe) | 3:52 | 2026-05-08 | 2026-07-05 |
 | [Deep Congo \- Original Mix](https://open.spotify.com/track/3fVE0KhW3QP5J3HKbD5j29) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [Deep Congo](https://open.spotify.com/album/6F5qy7qskbnsWW0XimIg4S) | 5:56 | 2020-05-22 | 2020-07-03 |
 | [Deep Of The Night](https://open.spotify.com/track/6CFrKYk3a0A8qa9knsRhaS) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Deep Of The Night](https://open.spotify.com/album/5pqSzYaGL8sxMzP2RKHlHp) | 3:21 | 2020-05-18 | 2020-07-03 |
 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 | 2021-02-17 | 2021-09-04 |
@@ -1242,6 +1242,7 @@
 | [One House](https://open.spotify.com/track/4ysvkVgbuSFCmRfFUTO06h) | [Blonde Maze](https://open.spotify.com/artist/7jKdwKEJDwdloy2X6fyk9Y) | [One House](https://open.spotify.com/album/0ojowZGAaJ71fFcHDF8rJw) | 3:37 | 2021-09-17 | 2022-07-28 |
 | [One Last Call](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [One Last Call](https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy) | 4:16 | 2023-10-13 | 2025-01-25 |
 | [One Last Dance](https://open.spotify.com/track/1nV6VafLPuRSsXgbDY3i6L) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [XIRA](https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ) | [One Last Dance](https://open.spotify.com/album/1AgyHcRwOcf0S0DahS869H) | 3:04 | 2022-02-18 | 2023-07-08 |
+| [One Love \(Nobody Else\)](https://open.spotify.com/track/1plh94yAIkbjOAH3cGXc7B) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [One Love \(Nobody Else\)](https://open.spotify.com/album/1jhsm4hCvQR4S6L1lMdCrV) | 3:37 | 2026-07-03 |  |
 | [Only Now](https://open.spotify.com/track/2uYVZv2juOm5MOEObqzLK7) | [Nikonn](https://open.spotify.com/artist/1IUR872zLRlWXAfr7Uls4Q), [Melllo](https://open.spotify.com/artist/78ks8w7ilnLHMKd3lLqNTc) | [Only Now](https://open.spotify.com/album/6vqSGhBOjbSnNeIZyHxtRb) | 3:44 | 2020-05-18 | 2022-04-21 |
 | [Only You](https://open.spotify.com/track/54iMHNHJpXhx0AHXNoAwPz) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Only You](https://open.spotify.com/album/2tUAhqGKehsZThAq0PBI4E) | 3:15 | 2022-10-24 | 2022-12-29 |
 | [Only You](https://open.spotify.com/track/4r0gbXXZ2IbGY8zrykzaPd) | [Phantoms](https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [This Can’t Be Everything](https://open.spotify.com/album/0S3K3wCAeOAzHueZHDlM1f) | 4:16 | 2022-08-26 | 2022-09-10 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > manifest ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,245 likes - 128 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,337 likes - 128 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Toz Pembe](https://open.spotify.com/track/24CSPGkF9QB1zW07dgtZhr) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Toz Pembe](https://open.spotify.com/album/5n0QmoUBEvSyIjDTwe4670) | 2:40 |
 | 2 | [Dava](https://open.spotify.com/track/6CoiPA6p82r6ZE5KwXVcPK) | [Funda Arar](https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW) | [Tüm Şehir Duydu](https://open.spotify.com/album/5bQd5d1PlCbqQi109imPDQ) | 3:18 |
 | 3 | [Bi' Şey Mi Dedin?](https://open.spotify.com/track/4Sn0YqqmO5urI89XjRMFf4) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Bi' Şey Mi Dedin?](https://open.spotify.com/album/1WYqUROtpwjq0Uy8mpDCIH) | 2:41 |
-| 4 | [Hay](https://open.spotify.com/track/4vEHd456ENAfaGVveY8hJ0) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Hay](https://open.spotify.com/album/7q8qUC3Yib6NMqofsaBG80) | 3:02 |
+| 4 | [Hay](https://open.spotify.com/track/4vEHd456ENAfaGVveY8hJ0) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Hay](https://open.spotify.com/album/7q8qUC3Yib6NMqofsaBG80) | 3:03 |
 | 5 | [Lafını Balla](https://open.spotify.com/track/01SaMbecMbxKKjfYSnq7Uc) | [Dolu Kadehi Ters Tut](https://open.spotify.com/artist/0PhqM7UAxtvWYi5j4MwxSl) | [Lafını Balla](https://open.spotify.com/album/74GKJkNn38YCue0LQAAinj) | 2:34 |
 | 6 | [Danceteria](https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 3:55 |
 | 7 | [Duysunlar](https://open.spotify.com/track/1ilWmey0DUru1SPH6tNjU9) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec), [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Gülden'e Geldik X Ece Seçkin](https://open.spotify.com/album/27I92ZrzIm9mleUJGRrHf1) | 4:23 |

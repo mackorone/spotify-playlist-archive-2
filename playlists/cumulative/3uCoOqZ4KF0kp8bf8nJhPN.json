@@ -399,6 +399,24 @@
     },
     {
       "album": {
+        "name": "six drinks deep. + arrhythmia.",
+        "url": "https://open.spotify.com/album/0vnJixrgZg0RUq4abZuorZ"
+      },
+      "artists": [
+        {
+          "name": "shteppi",
+          "url": "https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101682,
+      "name": "arrhythmia.",
+      "url": "https://open.spotify.com/track/1oGCX249fEmRjV28MDY4EI"
+    },
+    {
+      "album": {
         "name": "samurai champloo music record departure",
         "url": "https://open.spotify.com/album/3uNaLrScYulpXLRmQquP9I"
       },

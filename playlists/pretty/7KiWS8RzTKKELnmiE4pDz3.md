@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 292 songs - 18 hr 39 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 293 songs - 18 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -300,5 +300,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 290 | [King James](https://open.spotify.com/track/5ri4b7YQp2PWn8tl3MRYgE) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 3:17 |
 | 291 | [Flowers by the Door](https://open.spotify.com/track/0S7ILu8uGua2llPFY7psqu) | [T.S.O.L.](https://open.spotify.com/artist/01PtFYBOBK0tlxt4WZXiYw) | [Change Today?](https://open.spotify.com/album/6jpMPZ4Wjk9t9u9A3piXV8) | 3:02 |
 | 292 | [Hybrid Moments](https://open.spotify.com/track/3gN4UFoOnRHlMl3K4kU5zG) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Static Age](https://open.spotify.com/album/51tAz06EJxwhsk8uNfWxBo) | 1:42 |
+| 293 | [Mr\. Moustache](https://open.spotify.com/track/5TZbtpZcTWKEn81Du4hiTb) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:23 |
 
-Snapshot ID: `AAAgiF6xtgjZAW1kkR9XVHHgHrXerFaw`
+Snapshot ID: `AAAgicFvqGFqQ3/3L0UA/6GB7n7AHWWX`

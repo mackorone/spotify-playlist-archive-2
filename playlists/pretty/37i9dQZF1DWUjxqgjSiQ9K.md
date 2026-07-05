@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Diante do Trono
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,568 likes - 75 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,686 likes - 75 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 3 | [No Me Sueltes](https://open.spotify.com/track/2KIprcvBv1CU1NETVQMpGk) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [No Me Sueltes](https://open.spotify.com/album/1uJlORkhvuiSzqKUO9zZeE) | 3:15 |
 | 4 | [Sublime Gracia](https://open.spotify.com/track/5cqKXjSnfj1TakGzvIzQiO) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Eterno](https://open.spotify.com/album/2ue3bbdkXbjMM892PpXIqf) | 4:25 |
 | 5 | [Salvaste Mi Vida](https://open.spotify.com/track/5gXauaIBHrn4I6ZBackxnN) | [Enoc Parra](https://open.spotify.com/artist/2dXm6Fjb3OP6YKDyaF09jM) | [Salvaste Mi Vida](https://open.spotify.com/album/37o66RuaOtW8sNILXeG4jK) | 8:05 |
-| 6 | [El Rey Gobierna Todo](https://open.spotify.com/track/7m7ZbXWjwlrUlvx6ensvM2) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [El Rey Gobierna Todo](https://open.spotify.com/album/6iFeTg8WkudQepNuOqtULs) | 16:10 |
+| 6 | [El Rey Gobierna Todo \- Live at Church](https://open.spotify.com/track/7m7ZbXWjwlrUlvx6ensvM2) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [El Rey Gobierna Todo \(Live at Church\)](https://open.spotify.com/album/6iFeTg8WkudQepNuOqtULs) | 16:10 |
 | 7 | [Te Agradezco](https://open.spotify.com/track/4aLb2CB5a1crGi0Q1dyjo3) | [Marcos Yaroide](https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ) | [Te Agradezco](https://open.spotify.com/album/4ADzA0loYEx3rRoUhJiQeH) | 4:00 |
 | 8 | [Agradecido](https://open.spotify.com/track/3gWszzi2xdSG20o6WciB9b) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Agradecido](https://open.spotify.com/album/2u5Ss9YlEaDsMxUixQvr2Z) | 3:19 |
 | 9 | [Una Vida Contigo](https://open.spotify.com/track/0Ls3FcapjzMiSo54DWDbVR) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Emanuel Deliser](https://open.spotify.com/artist/43e6Co88ZgWpwzeMEaFI97) | [Una Vida Contigo](https://open.spotify.com/album/4L6pZx72tqO2FdKTrli1UN) | 3:02 |

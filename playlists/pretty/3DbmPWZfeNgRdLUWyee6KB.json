@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1310,
+  "num_followers": 1311,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAV1Kezh6AMRaVS7cPqFj/CoKnd0iRq",
+  "snapshot_id": "AAAV3S5kX6d9eXgqTTiC4EEOagTCWhbV",
   "tracks": [
     {
       "added_at": "2026-07-02 22:11:30",
@@ -87,6 +87,22 @@
       "duration_ms": 132832,
       "name": "lost in dubai",
       "url": "https://open.spotify.com/track/7ezHb4mmQ7gvyT46TCf1vm"
+    },
+    {
+      "added_at": "2026-07-04 07:05:15",
+      "album": {
+        "name": "One Moment In Time",
+        "url": "https://open.spotify.com/album/4Pb35D9TncvTjxNgxcUR6q"
+      },
+      "artists": [
+        {
+          "name": "Arbor Rose",
+          "url": "https://open.spotify.com/artist/5xArhGFY5mmdgNX4fdDCpY"
+        }
+      ],
+      "duration_ms": 242992,
+      "name": "One Moment In Time",
+      "url": "https://open.spotify.com/track/1kpFGklu2GSzgDAp4jau48"
     },
     {
       "added_at": "2026-05-22 06:14:34",
@@ -2119,6 +2135,70 @@
       "duration_ms": 154722,
       "name": "Una Storia di Ieri",
       "url": "https://open.spotify.com/track/0xeqmYt2i8JiBkXARy1hOB"
+    },
+    {
+      "added_at": "2026-07-04 07:04:53",
+      "album": {
+        "name": "Here In My Heart",
+        "url": "https://open.spotify.com/album/0FWjikd3YsqUevAKkfW2Y0"
+      },
+      "artists": [
+        {
+          "name": "RECLVSION",
+          "url": "https://open.spotify.com/artist/71jk85yahoqkc3dEba3xCX"
+        }
+      ],
+      "duration_ms": 173222,
+      "name": "Here In My Heart",
+      "url": "https://open.spotify.com/track/71zw4eqnxWlnKuOF44XAoS"
+    },
+    {
+      "added_at": "2026-07-04 07:04:55",
+      "album": {
+        "name": "Might As Well",
+        "url": "https://open.spotify.com/album/4ZJtK4TIQk23LzdJC8NNpJ"
+      },
+      "artists": [
+        {
+          "name": "Lucy Blu",
+          "url": "https://open.spotify.com/artist/0zEgohBueDJpD4E4nz8sp1"
+        }
+      ],
+      "duration_ms": 222049,
+      "name": "Might As Well",
+      "url": "https://open.spotify.com/track/5RG0bjdZ3mGsuammzTobwS"
+    },
+    {
+      "added_at": "2026-07-04 07:05:02",
+      "album": {
+        "name": "Metropolitan Degradation",
+        "url": "https://open.spotify.com/album/1NyV58vxmbIYmhTGrIqmTg"
+      },
+      "artists": [
+        {
+          "name": "Magic Dragon",
+          "url": "https://open.spotify.com/artist/0trHAWuVufxQLIZyPujytr"
+        }
+      ],
+      "duration_ms": 366250,
+      "name": "Gateway to the Abyss",
+      "url": "https://open.spotify.com/track/4a2F5SBmUhsRjyXeVj5P8S"
+    },
+    {
+      "added_at": "2026-07-04 07:05:07",
+      "album": {
+        "name": "SELF CONTROL",
+        "url": "https://open.spotify.com/album/0UAvCnzkVQbkCb8cI8sbFh"
+      },
+      "artists": [
+        {
+          "name": "B33B5",
+          "url": "https://open.spotify.com/artist/2nOb5m5HqTcILsSp5Ai94c"
+        }
+      ],
+      "duration_ms": 176017,
+      "name": "SELF CONTROL",
+      "url": "https://open.spotify.com/track/2R64ux4w6jprMByqntPMwi"
     }
   ],
   "unique_name": "New Indie Music",

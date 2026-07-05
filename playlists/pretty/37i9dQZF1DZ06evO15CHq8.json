@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 676999,
+  "num_followers": 677029,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akWqAAAAAACsdtNVZwqNdIavUw2l+zLz",
+  "snapshot_id": "akb7gAAAAACHfW5KVOFqcuWO1SybLnNb",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THY WILL BE DONE",
-        "url": "https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 204969,
-      "name": "2009 Reggie Bush",
-      "url": "https://open.spotify.com/track/4Jeaq2Tzhali3fSFjMezZy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I No Longer Fear The Razor Guarding My Heel (V)",
         "url": "https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 133920,
       "name": "A Little Trauma Can Be Illuminating, And I'm Shining Like The Sun",
       "url": "https://open.spotify.com/track/4sX6GorfHFAy9UdJM00c3v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THY WILL BE DONE",
+        "url": "https://open.spotify.com/album/7jtViL0H9WMUkCrsafE4xo"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 204969,
+      "name": "2009 Reggie Bush",
+      "url": "https://open.spotify.com/track/4Jeaq2Tzhali3fSFjMezZy"
     },
     {
       "added_at": null,

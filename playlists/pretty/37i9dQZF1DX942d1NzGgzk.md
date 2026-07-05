@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B rising in the UK\. Cover: JayO
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,536 likes - 79 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,552 likes - 79 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I'll Take Care Of U \(ITCOU\)](https://open.spotify.com/track/3g3w1cpcgFS6QEPrjfAAZn) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [I’ll Take Care Of U \(ITCOU\)](https://open.spotify.com/album/4BMkaqDj1ckCqsD5smAuhp) | 2:55 |
+| 1 | [I'll Take Care Of U \(ITCOFU\)](https://open.spotify.com/track/3g3w1cpcgFS6QEPrjfAAZn) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [I’ll Take Care Of U \(ITCOFU\)](https://open.spotify.com/album/4BMkaqDj1ckCqsD5smAuhp) | 2:55 |
 | 2 | [Closure \(feat\. Leigh\-Anne\)](https://open.spotify.com/track/1pEgkIlcPmDBuH4YQ5gMqS) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Comes to Light](https://open.spotify.com/album/081jLkJYWGp76MJTPu650Z) | 2:58 |
 | 3 | [Foreign](https://open.spotify.com/track/5LKYdatBy0QOV1ME8sHowf) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo) | [Foreign](https://open.spotify.com/album/5UMhrr7ZuhfzTqVqVb1rzk) | 3:23 |
 | 4 | [minute](https://open.spotify.com/track/1NdQrgrAKwEhhLVYFNytZo) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [ghosted \- EP](https://open.spotify.com/album/1FI0XA7lmm54RaMcucVBBe) | 2:59 |

@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-600 songs - 1 day 13 hr 24 min
+605 songs - 1 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Blue](https://open.spotify.com/track/60Opr83gQPHZd410ykHScx) | [People You Know](https://open.spotify.com/artist/3eMy8KyUvhwO3T2Nkl5FHz) | [Blue](https://open.spotify.com/album/6Eif0ayU6BbiWNVEidXcNc) | 4:30 | 2025-12-06 | 2026-04-21 |
 | [Blue Collar Swaller](https://open.spotify.com/track/04PTzfMWSBwwK2fG5wRxle) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Huckleberry](https://open.spotify.com/album/72jB7XjZSEevzrGC9GaikJ) | 2:50 | 2025-11-30 | 2026-05-26 |
 | [Blue Money Bills](https://open.spotify.com/track/3cNEkCAFg82SSWqkyNdwRp) | [Steve Larkman](https://open.spotify.com/artist/451tRc86Zp28twMLVHv22v) | [Blue Money Bills](https://open.spotify.com/album/36zqHa3fQZ0kROvyzvl33L) | 3:23 | 2025-10-23 | 2025-11-28 |
+| [Bluebird](https://open.spotify.com/track/7eqBDJSwQgck2gvHTsPcnl) | [Tom Burton](https://open.spotify.com/artist/4gHMj05Ks2ZFf4vQZHIFrX) | [Bluebird](https://open.spotify.com/album/2vDtIDLqXWqpDKyHbICKtP) | 3:38 | 2026-07-04 |  |
 | [Bonnie and Clyde](https://open.spotify.com/track/1uslmInwTqW0FTahkXRmUH) | [Destroy the Moon](https://open.spotify.com/artist/08fTPY5aK0E2zRxSN1Gbkt) | [Bonnie and Clyde](https://open.spotify.com/album/3YmN4v0QKlwRMqjc4veT4H) | 4:13 | 2026-02-22 |  |
 | [Bottle on the table](https://open.spotify.com/track/6gP8B1kKEaeY2OBUfYbfD8) | [Ario Nanaj](https://open.spotify.com/artist/3oxKAakkUQ02MoRb5Z6qrq) | [Echos From The Mountains](https://open.spotify.com/album/06rsDsZw8cpL50L92qtRmT) | 4:52 | 2026-03-23 | 2026-04-21 |
 | [Boxcar Baby](https://open.spotify.com/track/1Ox8zpsrDRNunN5zKRS2Fb) | [Matty Simpson](https://open.spotify.com/artist/4Nz1zj8jj9nWKqXkPMUiB9) | [Boxcar Baby](https://open.spotify.com/album/6ho0bkSgjLLZotxypyyJsG) | 4:49 | 2026-06-09 | 2026-06-25 |
@@ -298,6 +299,7 @@
 | [Let Your Body](https://open.spotify.com/track/3RaTqgsMjx1c6ZQ8Raz6f3) | [HYDEN](https://open.spotify.com/artist/2OiZJJdrzwKkFo2c9OF9bg) | [Let Your Body](https://open.spotify.com/album/4LMRvKAVjTeYW2nRWYlhm9) | 3:50 | 2025-09-29 | 2025-12-17 |
 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 | 2025-12-31 | 2026-03-18 |
 | [Let's Do Soap Lake](https://open.spotify.com/track/3LQBUJDSUny21OKZ2saHNQ) | [Soap Lake Better Together](https://open.spotify.com/artist/4SDAWGysmZrEJJrHFGPAhh) | [Let's Do Soap Lake](https://open.spotify.com/album/4375IpDbyY4cetTy1fWC9v) | 3:26 | 2025-12-25 | 2026-03-18 |
+| [Levanta el Iphone en el aire](https://open.spotify.com/track/3BE1WfyyKpMNdJ4dF1p6pr) | [Dale Jaguar](https://open.spotify.com/artist/1KOrPe34NvSqsXPUOZyoQJ) | [Levanta el Iphone en el aire](https://open.spotify.com/album/1B4rFcDUWsnK7J9dLc86ed) | 3:39 | 2026-07-05 |  |
 | [Libres](https://open.spotify.com/track/6FoHcurF0LjzhNpUfKBKS2) | [Mentes Extrañas](https://open.spotify.com/artist/5zs9HS2LJT78BM3fk60mCM) | [Libres](https://open.spotify.com/album/3U8pv2FDqE8YikJTvvYyMa) | 3:46 | 2026-05-25 | 2026-06-18 |
 | [Light](https://open.spotify.com/track/2wDu6ZakZVNsgUzQoesm7O) | [SOMEMISTAKES](https://open.spotify.com/artist/36UniZ3ECMH2GwkF7WQxpK) | [Light](https://open.spotify.com/album/7t7c9ePxVas9Y9cZGjuXA1) | 3:57 | 2025-11-08 | 2025-12-17 |
 | [Limitless](https://open.spotify.com/track/3d6SDGekSWy5FpiQx70d1C) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Heartland](https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY) | 3:42 | 2026-03-16 | 2026-04-21 |
@@ -396,6 +398,7 @@
 | [Paper Mache](https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Paper Mache](https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0) | 2:09 | 2025-11-30 | 2025-12-17 |
 | [Paralisia Do Sono](https://open.spotify.com/track/6IjUGACXqxZhz8ortWGDmU) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Entre O Sonho E O Acordado](https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI) | 2:39 | 2025-09-29 | 2025-12-17 |
 | [Parar respirar pensar y actuar](https://open.spotify.com/track/67E2Do4adYM1ynZRlLzbV5) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Parar respirar pensar y actuar](https://open.spotify.com/album/6WWPmTrcnyxbgAiLCstgsJ) | 5:00 | 2026-02-25 | 2026-03-18 |
+| [Parassonia](https://open.spotify.com/track/4zIFbijlXlr7ZxD9bvHqcT) | [Woleisik](https://open.spotify.com/artist/2kjopW4bTcPLIgEV27InnP) | [Parassonia](https://open.spotify.com/album/5nCXkCNjBxkkEJ7TjlbAFp) | 3:35 | 2026-07-04 |  |
 | [Pasadena](https://open.spotify.com/track/49pZFYgeo8gRIpmbar1iqs) | [Jeff Butler](https://open.spotify.com/artist/6hWNFESgxwPMms42T2Fu9x) | [Pasadena](https://open.spotify.com/album/2A3Q7e5APcgUwQexc95GBZ) | 4:35 | 2026-03-27 | 2026-04-21 |
 | [Peaks](https://open.spotify.com/track/25cll9Vk5Xvl6rto1IZ26w) | [Pepperwine](https://open.spotify.com/artist/5eV6FPrnJGZH8QTCiLAbOQ) | [Peaks](https://open.spotify.com/album/3rzZZFDbicYJ9x6fWhlKq7) | 3:45 | 2026-02-22 |  |
 | [Pena](https://open.spotify.com/track/5BPtFQzNSjbwhJZjg3UJBG) | [Mauro Valenti](https://open.spotify.com/artist/563ZISZgJhOJQglptYVvRp) | [Pena](https://open.spotify.com/album/1b8R6JAv2HLM16pMGAlmdO) | 2:38 | 2026-02-22 | 2026-03-18 |
@@ -418,6 +421,7 @@
 | [Put your love away](https://open.spotify.com/track/2nBW7kWB6Tkln9MLeP7Rj4) | [Barry Postlethwaite](https://open.spotify.com/artist/1xGEOSqUsYYL3SZCASwPEo) | [The Circle and the Stone](https://open.spotify.com/album/3R1XzgDWQ4Geeyl3YQeQTQ) | 4:25 | 2026-06-07 |  |
 | [Queen They Love to Hate](https://open.spotify.com/track/0LxQgHurPBLYKn2jHOHfDw) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Queen They Love to Hate](https://open.spotify.com/album/0W3b8fMEgK406kSTIz8PvC) | 2:37 | 2026-06-04 | 2026-06-18 |
 | [Quem Sou](https://open.spotify.com/track/05fXrnIC22Iz0lpg09jv0r) | [Rafael Zeferino](https://open.spotify.com/artist/31BZHZqE0MHlmHUSSxKQ9V) | [Quem Sou](https://open.spotify.com/album/2TeFatHS72Xv2zd1caUT0S) | 3:06 | 2026-05-01 | 2026-05-26 |
+| [Querem te Sangrar \(KaVva\)](https://open.spotify.com/track/01QUv8IT64cWSmq4TafHYg) | [Banda KaVva](https://open.spotify.com/artist/0EF4MYnsNtVXBAi2yitscA) | [Querem te Sangrar \(KaVva\)](https://open.spotify.com/album/38dc7ED7uhnLSMdhn1w5TK) | 4:15 | 2026-07-04 |  |
 | [QUIERO DECIRTE](https://open.spotify.com/track/36PDGZXQCtWfnCUpzVSTOP) | [ESTEBAN](https://open.spotify.com/artist/2Jmxf1QvEltShBfsb02gNr) | [QUIERO DECIRTE](https://open.spotify.com/album/76v6Ky3t1sLnnBmCQ7msUt) | 2:34 | 2026-06-06 | 2026-06-18 |
 | [Qué Pereza De Tío](https://open.spotify.com/track/0Kg4qmqoCOUYsLAO7mf0JJ) | [Sombras Olvidadas](https://open.spotify.com/artist/6rhnGBSM5IaE1uIRSwOD0Z) | [Qué Pereza De Tío](https://open.spotify.com/album/3RyKBLt6jofPpjSLkrzHNG) | 3:10 | 2026-03-20 | 2026-04-21 |
 | [Red Sea](https://open.spotify.com/track/65CBVvFFb0FxAGTrtIcpbB) | [Thesis](https://open.spotify.com/artist/2f2Lm3RVxYFYG2oqvbNxct) | [Red Sea](https://open.spotify.com/album/5Yw6aE5sMft2MrkeV3osUg) | 5:21 | 2026-06-18 |  |
@@ -506,6 +510,7 @@
 | [Sweet Journey \(Rock Version\)](https://open.spotify.com/track/6n6zlANFdFqP3u3DK4fJiJ) | [Mathias Neto](https://open.spotify.com/artist/5QrUJ71HRSZ4O2wVAJkKZG) | [Sweet Journey \(Rock Version\)](https://open.spotify.com/album/3AAjiTyB5rFtvouQnXNKdn) | 4:34 | 2026-03-16 | 2026-04-21 |
 | [Synchronicity](https://open.spotify.com/track/022SKr9Ibv4kGJz069ukGm) | [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Synchronicity](https://open.spotify.com/album/3ECpJVnGuYwyoQVywguY0B) | 4:09 | 2026-01-16 | 2026-03-18 |
 | [Systembruch \- Bonus \#raw](https://open.spotify.com/track/4okdQGGXx0dXhvQJjgnglF) | [FACEVOLT](https://open.spotify.com/artist/6pIqGqpnJZlIGDzwTsv9WH) | [LONG WAY](https://open.spotify.com/album/7uzLn5WRyAa5Ac5qhJgEKC) | 4:24 | 2026-05-02 | 2026-06-23 |
+| [Só Mais Uma Vez](https://open.spotify.com/track/1ixX6NwJIRiZZux8aoozoZ) | [Woleisik](https://open.spotify.com/artist/2kjopW4bTcPLIgEV27InnP) | [Só Mais Uma Vez](https://open.spotify.com/album/2VLwXPkFaWwJk0lZlbRDsD) | 4:10 | 2026-07-04 |  |
 | [Take me home](https://open.spotify.com/track/0mNlZQwMps3Uz9vGV0G2VO) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Haga Street Revisited](https://open.spotify.com/album/0Oc9CyF1n3yIzaXjR503hC) | 1:55 | 2025-11-02 | 2025-12-17 |
 | [Take My Love \- Live](https://open.spotify.com/track/1NOzIiQmn04RbHJI09odao) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY), [Wizard](https://open.spotify.com/artist/68mNlZyTChaGaUwoIjzMr8) | [Captured Live](https://open.spotify.com/album/2kkaEmuBrjwtB1ibO23MRr) | 3:29 | 2026-03-27 | 2026-04-21 |
 | [Tanzt mit mir](https://open.spotify.com/track/2jjw1QuN1pdPGXgQnjjygt) | [Pro\|Contra](https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0) | [Tanzt mit mir](https://open.spotify.com/album/19FUWJ7gwETtier4fAOpXQ) | 3:39 | 2026-06-08 | 2026-06-25 |

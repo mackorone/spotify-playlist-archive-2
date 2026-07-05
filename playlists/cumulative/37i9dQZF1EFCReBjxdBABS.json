@@ -474,10 +474,28 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 193186,
       "name": "Done With Me Yet",
       "url": "https://open.spotify.com/track/3ntOjvHBCg6gy3n6veGu3Y"
+    },
+    {
+      "album": {
+        "name": "New Kind of Emotion",
+        "url": "https://open.spotify.com/album/6A2ia0lGmrX0r6GOvCq5uO"
+      },
+      "artists": [
+        {
+          "name": "Runaway June",
+          "url": "https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193186,
+      "name": "Done With Me Yet",
+      "url": "https://open.spotify.com/track/7KaVbUUyWyzcNr79iNDVPZ"
     },
     {
       "album": {

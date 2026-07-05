@@ -2083,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "Equal Breathing",
+        "url": "https://open.spotify.com/album/7mIn7Hamhcsgpmjia45q9c"
+      },
+      "artists": [
+        {
+          "name": "Sunwell",
+          "url": "https://open.spotify.com/artist/1FZkHf5jmlpSdySTd8BUu2"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173006,
+      "name": "Equal Breathing",
+      "url": "https://open.spotify.com/track/66ofy4XJWfWQdQwrr5dtiZ"
+    },
+    {
+      "album": {
         "name": "Equilibrium",
         "url": "https://open.spotify.com/album/6wIxeFFgRbTgKQXuvUnny3"
       },
@@ -6440,7 +6458,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 137666,
       "name": "Slumber",
       "url": "https://open.spotify.com/track/4zE3EZNDuoLabKLlvWcuBw"

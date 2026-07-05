@@ -1,6 +1,6 @@
 {
   "description": "sommerurlaub f\u00fcr zwischendurch \u26f1\ufe0f",
-  "num_followers": 1099393,
+  "num_followers": 1099509,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "I Don't Want To Fall In Love Again",
-        "url": "https://open.spotify.com/album/2YfJNgBCdldfNP1IOwi4Io"
-      },
-      "artists": [
-        {
-          "name": "Isabel van Gelder",
-          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
-        }
-      ],
-      "duration_ms": 191962,
-      "name": "I Don't Want To Fall In Love Again",
-      "url": "https://open.spotify.com/track/54HHg1hkAWyJkS2QFeyOrY"
-    },
-    {
-      "added_at": "2026-06-25 22:01:05",
-      "album": {
         "name": "Rabbits Can Swim",
         "url": "https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 253675,
       "name": "Rabbits Can Swim",
       "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
+    },
+    {
+      "added_at": "2026-06-25 22:01:05",
+      "album": {
+        "name": "I Don't Want To Fall In Love Again",
+        "url": "https://open.spotify.com/album/2YfJNgBCdldfNP1IOwi4Io"
+      },
+      "artists": [
+        {
+          "name": "Isabel van Gelder",
+          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
+        }
+      ],
+      "duration_ms": 191962,
+      "name": "I Don't Want To Fall In Love Again",
+      "url": "https://open.spotify.com/track/54HHg1hkAWyJkS2QFeyOrY"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -719,6 +719,26 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
+        "name": "girls like girls the album",
+        "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 232934,
+      "name": "die 4 u",
+      "url": "https://open.spotify.com/track/6m23hIW0TYTnSdHJOHoZnl"
+    },
+    {
+      "added_at": "2026-06-25 22:01:05",
+      "album": {
         "name": "Claw Marks",
         "url": "https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 191250,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/7y572RoCEda0D8Wm8JUEha"
-    },
-    {
-      "added_at": "2026-06-25 22:01:05",
-      "album": {
-        "name": "girls like girls the album",
-        "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 232934,
-      "name": "die 4 u",
-      "url": "https://open.spotify.com/track/6m23hIW0TYTnSdHJOHoZnl"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "MI SUE\u00d1O",
-        "url": "https://open.spotify.com/album/69XK7T7UIWLq7h4cNOKKl3"
-      },
-      "artists": [
-        {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
-        }
-      ],
-      "duration_ms": 144867,
-      "name": "MI SUE\u00d1O",
-      "url": "https://open.spotify.com/track/520zZB2d3iCE04y7YIOaQF"
-    },
-    {
-      "added_at": "2026-06-25 22:01:05",
-      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "Cut In Half",
-        "url": "https://open.spotify.com/album/0LEFdPWcty1wzOYTBebazM"
+        "name": "MI SUE\u00d1O",
+        "url": "https://open.spotify.com/album/69XK7T7UIWLq7h4cNOKKl3"
       },
       "artists": [
         {
-          "name": "Sonny Tennet",
-          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 161684,
-      "name": "Cut In Half",
-      "url": "https://open.spotify.com/track/1aGnbst3HYuQ2Rq3bMXM53"
+      "duration_ms": 144867,
+      "name": "MI SUE\u00d1O",
+      "url": "https://open.spotify.com/track/520zZB2d3iCE04y7YIOaQF"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "Iman",
-        "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
+        "name": "Cut In Half",
+        "url": "https://open.spotify.com/album/0LEFdPWcty1wzOYTBebazM"
       },
       "artists": [
         {
-          "name": "Yuuf",
-          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+          "name": "Sonny Tennet",
+          "url": "https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd"
         }
       ],
-      "duration_ms": 240853,
-      "name": "Iman",
-      "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
+      "duration_ms": 161684,
+      "name": "Cut In Half",
+      "url": "https://open.spotify.com/track/1aGnbst3HYuQ2Rq3bMXM53"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -1327,6 +1311,22 @@
       "duration_ms": 226117,
       "name": "when i close my eyes",
       "url": "https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY"
+    },
+    {
+      "added_at": "2026-06-25 22:01:05",
+      "album": {
+        "name": "Iman",
+        "url": "https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN"
+      },
+      "artists": [
+        {
+          "name": "Yuuf",
+          "url": "https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Iman",
+      "url": "https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "Weit weg",
-        "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
-      },
-      "artists": [
-        {
-          "name": "Ivo Martin",
-          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
-        }
-      ],
-      "duration_ms": 161787,
-      "name": "Weit weg",
-      "url": "https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD"
-    },
-    {
-      "added_at": "2026-06-25 22:01:05",
-      "album": {
         "name": "1000 Tage",
         "url": "https://open.spotify.com/album/5TeTkaORghKxRZob0qxBqD"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "Julia",
-        "url": "https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si"
+        "name": "Weit weg",
+        "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
       },
       "artists": [
         {
-          "name": "\u00c1sgeir",
-          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
         }
       ],
-      "duration_ms": 285240,
-      "name": "Julia",
-      "url": "https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ"
+      "duration_ms": 161787,
+      "name": "Weit weg",
+      "url": "https://open.spotify.com/track/0xpxqgwLsMIJFQQKPGXclD"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -1439,6 +1423,22 @@
       "duration_ms": 257400,
       "name": "One in a Million",
       "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
+    },
+    {
+      "added_at": "2026-06-25 22:01:05",
+      "album": {
+        "name": "Julia",
+        "url": "https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si"
+      },
+      "artists": [
+        {
+          "name": "\u00c1sgeir",
+          "url": "https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "Blanc",
-        "url": "https://open.spotify.com/album/6Dsu7W8rO1eq2n2aYrLGPC"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 194026,
-      "name": "Blanc",
-      "url": "https://open.spotify.com/track/3rT4gJN45VHbkPguDsE4Op"
-    },
-    {
-      "added_at": "2026-06-25 22:01:05",
-      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/0UtpBQuMhN4yywit3yNb8B"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 213400,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/6tX47tfge8kgWJSFVoS7cg"
+    },
+    {
+      "added_at": "2026-06-25 22:01:05",
+      "album": {
+        "name": "Blanc",
+        "url": "https://open.spotify.com/album/6Dsu7W8rO1eq2n2aYrLGPC"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 194026,
+      "name": "Blanc",
+      "url": "https://open.spotify.com/track/3rT4gJN45VHbkPguDsE4Op"
     },
     {
       "added_at": "2026-06-25 22:01:05",

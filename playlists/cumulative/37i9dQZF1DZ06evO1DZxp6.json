@@ -694,6 +694,24 @@
     {
       "album": {
         "name": "Algo Sucede",
+        "url": "https://open.spotify.com/album/19mOSlFEaepEFYIRHrSvCH"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189786,
+      "name": "Ese Camino",
+      "url": "https://open.spotify.com/track/4ctOcpKsPnE0al921uUSBH"
+    },
+    {
+      "album": {
+        "name": "Algo Sucede",
         "url": "https://open.spotify.com/album/2nK2blM70FFCF1PMY22S1Q"
       },
       "artists": [
@@ -704,7 +722,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 189786,
       "name": "Ese Camino",
       "url": "https://open.spotify.com/track/5gR1hNKjMjJwXNONX38FK8"

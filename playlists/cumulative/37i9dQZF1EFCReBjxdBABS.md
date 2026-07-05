@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1SGzvyXf1Ctz00Sw5n9AVI">Trannie Anderson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-134 songs - 7 hr 18 min
+135 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Don't Know Myself](https://open.spotify.com/track/55rRGt3xJzmYMYbQMQ4Roo) | [Smithfield](https://open.spotify.com/artist/1aPmWgDU4JXEWg1d2BwH5M) | [Country With Heart \(Part One\)](https://open.spotify.com/album/5JMJALe7t4VoWpnXL4FdUY) | 2:57 | 2026-01-14 |  |
 | [Don't Say Goodnight](https://open.spotify.com/track/77Z79JhMPYNlHZaap9mm5W) | [CB30](https://open.spotify.com/artist/2PYT3wdKG3zn2sjztkf611) | [Don't Say Goodnight](https://open.spotify.com/album/6X1TomjwJtCv8uWMMKixRD) | 3:23 | 2026-01-14 |  |
 | [Don't We All \(Acoustic\)](https://open.spotify.com/track/7kwSLtR8B2XOtBtorr372O) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 2:41 | 2026-01-14 |  |
-| [Done With Me Yet](https://open.spotify.com/track/3ntOjvHBCg6gy3n6veGu3Y) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [New Kind of Emotion](https://open.spotify.com/album/1tZxqe7JAzEn9bukz2PbLN) | 3:13 | 2026-01-14 |  |
+| [Done With Me Yet](https://open.spotify.com/track/3ntOjvHBCg6gy3n6veGu3Y) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [New Kind of Emotion](https://open.spotify.com/album/1tZxqe7JAzEn9bukz2PbLN) | 3:13 | 2026-01-14 | 2026-07-05 |
+| [Done With Me Yet](https://open.spotify.com/track/7KaVbUUyWyzcNr79iNDVPZ) | [Runaway June](https://open.spotify.com/artist/7yPbJOX7olhT3ynAyuj3Zl) | [New Kind of Emotion](https://open.spotify.com/album/6A2ia0lGmrX0r6GOvCq5uO) | 3:13 | 2026-07-04 |  |
 | [Drive](https://open.spotify.com/track/0p8U2VbsRyfuokUx8IOaou) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [INTERTWINED](https://open.spotify.com/album/5HhHFZfsMFwampLhyKqxsW) | 3:34 | 2026-01-14 |  |
 | [Easy for You to Say](https://open.spotify.com/track/6l6AwR3Vp9tGt97OE1bdPs) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3cZg2kg86yLwTyMoBv5bBC) | 3:19 | 2026-01-14 |  |
 | [Everybody Wants](https://open.spotify.com/track/5KLICPIcMXzgpjxPNa2eWY) | [Brett Sheroky](https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB) | [ROCK PAPER SCISSORS](https://open.spotify.com/album/5PYt49y3rW7GYT9A2LRn36) | 2:52 | 2026-01-14 |  |

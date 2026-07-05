@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: FOLA, Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,138 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,149 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 7 | [NERVOUS](https://open.spotify.com/track/2tKgNrygongIZ3Ava9xW0x) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [NERVOUS](https://open.spotify.com/album/43sikXY0GVXf17J5A88YKu) | 2:41 |
 | 8 | [Lambo](https://open.spotify.com/track/1rpShKnZmMlS1myDAtC0c8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Dre Skull](https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK), [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Lambo](https://open.spotify.com/album/1dCxh6mKSGZ4s6bq9TDQmG) | 2:36 |
 | 9 | [SKATE WHEELS](https://open.spotify.com/track/43RnMZpOmhV28qnQNQ15hD) | [Paul Stephan](https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF) | [SKATE WHEELS](https://open.spotify.com/album/5ygRwirPPMuGcDHWbQyoKT) | 2:36 |
-| 10 | [I'll Take Care Of U \(ITCOU\)](https://open.spotify.com/track/3g3w1cpcgFS6QEPrjfAAZn) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [I’ll Take Care Of U \(ITCOU\)](https://open.spotify.com/album/4BMkaqDj1ckCqsD5smAuhp) | 2:55 |
+| 10 | [I'll Take Care Of U \(ITCOFU\)](https://open.spotify.com/track/3g3w1cpcgFS6QEPrjfAAZn) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [I’ll Take Care Of U \(ITCOFU\)](https://open.spotify.com/album/4BMkaqDj1ckCqsD5smAuhp) | 2:55 |
 | 11 | [what do i know](https://open.spotify.com/track/4f8n33TNaDSEl9alg3OyPF) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [what do i know](https://open.spotify.com/album/5zt3FqkSfRiMLSbUPbaMaF) | 2:38 |
 | 12 | [ten toes](https://open.spotify.com/track/31nmYWiPPyVHnYFoCH2kZs) | [KTmelodies](https://open.spotify.com/artist/10IVkptwI3f1wi8XYDl2hd) | [ten toes](https://open.spotify.com/album/5OVHJp0XgK9cMW32m4eOXz) | 1:54 |
 | 13 | [child of an immigrant](https://open.spotify.com/track/10VHgngkMOXJUSrt16Onaw) | [@WAR](https://open.spotify.com/artist/31EqzztLNVAKfqgIQ3O5qU) | [child of an immigrant](https://open.spotify.com/album/3EpvyKOOhwNAjl9lHyWq4o) | 1:57 |

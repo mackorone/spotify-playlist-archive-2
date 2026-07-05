@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "52 Bahane",
+        "url": "https://open.spotify.com/album/41hXC7pNwnO4xIwBm0qTWL"
+      },
+      "artists": [
+        {
+          "name": "MYNK",
+          "url": "https://open.spotify.com/artist/1vpBI2qjRp4GXz6s24fIsY"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214080,
+      "name": "52 Bahane",
+      "url": "https://open.spotify.com/track/0k283RGI7J8o0FS5rJ20rv"
+    },
+    {
+      "album": {
         "name": "90's Kid",
         "url": "https://open.spotify.com/album/2TeDSPSdj1UC36nj3G4nam"
       },
@@ -1024,7 +1042,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 181240,
       "name": "Baarish Mein Phir - Acoustic",
       "url": "https://open.spotify.com/track/0R0SrnCwc9cSZIgS7lqtRp"
@@ -12208,7 +12226,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 221351,
       "name": "Tum Banke Sitaraa",
       "url": "https://open.spotify.com/track/6kp1qfAkbaUuHCKMFF0OSt"
@@ -13198,6 +13216,24 @@
       "duration_ms": 235875,
       "name": "Yeh Shaam - Piano Version",
       "url": "https://open.spotify.com/track/74JiXrwafiTo4W1IH9ZvY7"
+    },
+    {
+      "album": {
+        "name": "You Are My Sunshine",
+        "url": "https://open.spotify.com/album/09liKG2Bfiv51BmB59eV9i"
+      },
+      "artists": [
+        {
+          "name": "Himanshu Pareek",
+          "url": "https://open.spotify.com/artist/0J6jTSteCba4UiHRRSqPC2"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195230,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/2uJK3UAq5qT6VjCOXSkwin"
     },
     {
       "album": {

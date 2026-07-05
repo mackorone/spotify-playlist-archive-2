@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Stank face activated\. Cover: Dave Summer
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,176 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,165 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Frequencies](https://open.spotify.com/track/0nZD761LAKZimzIJI9RFc9) | [CYRUS](https://open.spotify.com/artist/5Xs2GcYWkOIUYMF2l19ZNq) | [Frequencies](https://open.spotify.com/album/3Pp8UT03E41W5JtyAzedJw) | 3:17 |
-| 2 | [Hypnotized](https://open.spotify.com/track/6onHYroGsPxpWbmtNNeTTG) | [NUNCHUX](https://open.spotify.com/artist/1QO3Nd8cDuDjcDBLu1x13a) | [Hypnotized](https://open.spotify.com/album/0NSeLoZHwYfMWCaEHV2BzD) | 2:15 |
+| 2 | [Hypnotized](https://open.spotify.com/track/6onHYroGsPxpWbmtNNeTTG) | [NUNCHUX](https://open.spotify.com/artist/1QO3Nd8cDuDjcDBLu1x13a), [AdamDarling](https://open.spotify.com/artist/3ymgkFheVJc8RE98s1yMM6) | [Hypnotized](https://open.spotify.com/album/0NSeLoZHwYfMWCaEHV2BzD) | 2:15 |
 | 3 | [Y I'M HOT](https://open.spotify.com/track/653o0WYz9lwVwEG4TlUg9I) | [.EXA](https://open.spotify.com/artist/4fCHA6Os4QKfn5UngdAf3i), [Eva Shaw](https://open.spotify.com/artist/638CPU1xRHUo6AmfZe3F2c) | [Y I'M HOT](https://open.spotify.com/album/3lySgYEvZ2TBOp52CQeM8g) | 3:00 |
 | 4 | [THAT BITCH](https://open.spotify.com/track/3d7NdUFynMC18UzR0dv8GU) | [Lektrique](https://open.spotify.com/artist/2ZZE8SPVWBysGWL1pRDHEy), [R.E.N](https://open.spotify.com/artist/58TsAwrUciW625dXeNmRXc) | [THAT BITCH](https://open.spotify.com/album/40dKeA4bShMM1P1sWDobjN) | 2:18 |
 | 5 | [SOMEONE LIKE U](https://open.spotify.com/track/3LHfBGXbYNqQrTT6yggANs) | [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [SOMEONE LIKE U](https://open.spotify.com/album/05Fzfn5NnlPOpiLOacMm9I) | 3:54 |

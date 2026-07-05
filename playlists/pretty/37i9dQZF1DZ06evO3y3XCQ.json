@@ -1,12 +1,12 @@
 {
   "description": "This is Thursday. The essential tracks, all in one playlist.",
-  "num_followers": 5475,
+  "num_followers": 5476,
   "original_name": "This Is Thursday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akWqAAAAAADxsdpx7R8Ieco7xK0X//tP",
+  "snapshot_id": "akb7gAAAAAANrtz95R4fm3LFaShNzGW/",
   "tracks": [
     {
       "added_at": null,
@@ -59,26 +59,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Violent Waves",
-        "url": "https://open.spotify.com/album/3qSgoDBBG1UsZU4xJqieBd"
+        "name": "Five Stories Falling",
+        "url": "https://open.spotify.com/album/4CRIaDaZQ2gkHYnX5Fzzdj"
       },
       "artists": [
-        {
-          "name": "Circa Survive",
-          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
-        },
-        {
-          "name": "Geoff Rickly",
-          "url": "https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX"
-        },
         {
           "name": "Thursday",
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 283746,
-      "name": "The Lottery",
-      "url": "https://open.spotify.com/track/38832SeThFAmmFWKaMv6xz"
+      "duration_ms": 289080,
+      "name": "Jet Black New Year",
+      "url": "https://open.spotify.com/track/0FYBAFCpiZyNxdat3MBc3t"
     },
     {
       "added_at": null,
@@ -131,18 +123,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Five Stories Falling",
-        "url": "https://open.spotify.com/album/4CRIaDaZQ2gkHYnX5Fzzdj"
+        "name": "Violent Waves",
+        "url": "https://open.spotify.com/album/3qSgoDBBG1UsZU4xJqieBd"
       },
       "artists": [
+        {
+          "name": "Circa Survive",
+          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
+        },
+        {
+          "name": "Geoff Rickly",
+          "url": "https://open.spotify.com/artist/1rSMnOXCnT7rf4j4RErmSX"
+        },
         {
           "name": "Thursday",
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 289080,
-      "name": "Jet Black New Year",
-      "url": "https://open.spotify.com/track/0FYBAFCpiZyNxdat3MBc3t"
+      "duration_ms": 283746,
+      "name": "The Lottery",
+      "url": "https://open.spotify.com/track/38832SeThFAmmFWKaMv6xz"
     },
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 221440,
-      "name": "Magnets Caught in a Metal Heart",
-      "url": "https://open.spotify.com/track/3Z2WgsYnfMGztp5NuMNj2M"
+      "duration_ms": 201240,
+      "name": "Fast to the End",
+      "url": "https://open.spotify.com/track/0Fx8OAcWVq1Gugw29Ek4jd"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
         }
       ],
-      "duration_ms": 201240,
-      "name": "Fast to the End",
-      "url": "https://open.spotify.com/track/0Fx8OAcWVq1Gugw29Ek4jd"
+      "duration_ms": 221440,
+      "name": "Magnets Caught in a Metal Heart",
+      "url": "https://open.spotify.com/track/3Z2WgsYnfMGztp5NuMNj2M"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A City By The Light Divided",
-        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 318226,
-      "name": "The Lovesong Writer",
-      "url": "https://open.spotify.com/track/4P43WSRtAwXXEjGGPZoEVb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Taking Inventory Of A Frozen Lake",
         "url": "https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 257084,
       "name": "Taking Inventory Of A Frozen Lake",
       "url": "https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 318226,
+      "name": "The Lovesong Writer",
+      "url": "https://open.spotify.com/track/4P43WSRtAwXXEjGGPZoEVb"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A City By The Light Divided",
-        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 310360,
-      "name": "Sugar In The Sacrament",
-      "url": "https://open.spotify.com/track/0sWGnySFvSRZPr5Swr6nLx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 266653,
       "name": "Streaks in the Sky",
       "url": "https://open.spotify.com/track/6gHLLRQFPezsdsDieIVbJ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A City By The Light Divided",
+        "url": "https://open.spotify.com/album/2XkMFgR8qy32N8s1U1fL1B"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 310360,
+      "name": "Sugar In The Sacrament",
+      "url": "https://open.spotify.com/track/0sWGnySFvSRZPr5Swr6nLx"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill The House Lights",
-        "url": "https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 252213,
-      "name": "Ladies And Gentlemen: My Brother, The Failure",
-      "url": "https://open.spotify.com/track/2cnaAWNXkZnCaRN6OZWaBS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0tgqbw80QaxxdErDspThsa"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 242066,
       "name": "Dying in New Brunswick",
       "url": "https://open.spotify.com/track/2HYHnHXUSQwczdpFQKW7xg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kill The House Lights",
+        "url": "https://open.spotify.com/album/6xvMuGE41qYGptrpxahFZP"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 252213,
+      "name": "Ladies And Gentlemen: My Brother, The Failure",
+      "url": "https://open.spotify.com/track/2cnaAWNXkZnCaRN6OZWaBS"
     },
     {
       "added_at": null,

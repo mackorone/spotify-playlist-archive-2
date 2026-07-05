@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 
 > Some heists, like some love stories, are irresistible\. Listen to the music from La Casa de Papel and Berlin, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,877 likes - 164 songs - 10 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,899 likes - 164 songs - 10 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44eggCvVygr.md) - [plain]
 | 84 | [Bella Ciao](https://open.spotify.com/track/1bHhB1E62CqbM3uVZVvaEl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Bella Ciao](https://open.spotify.com/album/4sgJ7Dlx5WMsl8RDkyM1Tu) | 2:40 |
 | 85 | [Misma Sangre](https://open.spotify.com/track/3jmUXb0VFgo4LvmjFADvMp) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Misma Sangre](https://open.spotify.com/album/4bVW8SE7FKXoEktQlLF35Z) | 2:33 |
 | 86 | [Can’t Take My Eyes Off You \(Music from The Netflix Series "La Casa de Papel"\)](https://open.spotify.com/track/04XIbwOCmaxjezWqaa2PnM) | [Cecilia Krull](https://open.spotify.com/artist/4SLEmV2rAQ71Ts0qyDGhE8) | [Can’t Take My Eyes Off You \(Music from The Netflix Series "La Casa de Papel"\)](https://open.spotify.com/album/4sB44uFnPr0eOCGNbnuYzf) | 3:29 |
-| 87 | [No Time](https://open.spotify.com/track/4EmkhxXEKkThUUzvtcFYrO) | [Pol 3.14](https://open.spotify.com/artist/4P9xDIEyrtAeXRI6xOl2TS) | [No Time](https://open.spotify.com/album/1xHNOh9MpgRgdc3hjRM5JF) | 4:12 |
+| 87 | [No Time](https://open.spotify.com/track/4EmkhxXEKkThUUzvtcFYrO) | [Pol 3.14](https://open.spotify.com/artist/7rmUpV7sxOoEMumtLxYsMv) | [No Time](https://open.spotify.com/album/1xHNOh9MpgRgdc3hjRM5JF) | 4:12 |
 | 88 | [Vanderlyle Crybaby Geeks](https://open.spotify.com/track/1cpraaZvYqYIJMY9BbqRnc) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet \(Expanded Edition\)](https://open.spotify.com/album/0ZHwBlV4OAweXWwbUemkmT) | 4:12 |
 | 89 | [Guajira guantanamera](https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 5:12 |
 | 90 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 |

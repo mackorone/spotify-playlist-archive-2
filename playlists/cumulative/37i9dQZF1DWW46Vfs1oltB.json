@@ -41877,6 +41877,28 @@
     },
     {
       "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/6V6vJoZLNIrPbV34tGlt70"
+      },
+      "artists": [
+        {
+          "name": "Potty Monkey",
+          "url": "https://open.spotify.com/artist/4vy6l0BczucI2I2ax6tPhO"
+        },
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202556,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/4iFNaPj7tamjteThofj8li"
+    },
+    {
+      "album": {
         "name": "Upgrade V",
         "url": "https://open.spotify.com/album/1uukXrk6p4B3oNbgkmUgRk"
       },

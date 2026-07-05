@@ -1,12 +1,12 @@
 {
   "description": "r\u00f8lp og s\u00e5nt",
-  "num_followers": 118019,
+  "num_followers": 118026,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK2BldECKSCCGVOxkhdyO8GMbPZq",
+  "snapshot_id": "AAAAADeJvL9F1Kf9/Eez2Vzyg+G19eKo",
   "tracks": [
     {
       "added_at": "2026-06-25 22:01:29",
@@ -403,22 +403,18 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Drekke d\u00e6 fin",
-        "url": "https://open.spotify.com/album/3CvhPwAh3IRBT5P4JfARYc"
+        "name": "Staut",
+        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
       },
       "artists": [
         {
-          "name": "Carina Dahl",
-          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
-        },
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+          "name": "Staut",
+          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
         }
       ],
-      "duration_ms": 119183,
-      "name": "Drekke d\u00e6 fin",
-      "url": "https://open.spotify.com/track/4cCIFCWBt4if64SvejQ7MV"
+      "duration_ms": 206053,
+      "name": "Sj\u00e5 sole",
+      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -439,18 +435,22 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Staut",
-        "url": "https://open.spotify.com/album/7rdWNBNXVcwfko6Yj9BCpD"
+        "name": "Drekke d\u00e6 fin",
+        "url": "https://open.spotify.com/album/3CvhPwAh3IRBT5P4JfARYc"
       },
       "artists": [
         {
-          "name": "Staut",
-          "url": "https://open.spotify.com/artist/3Gm11qlnZpq0J9ee9rUJ3P"
+          "name": "Carina Dahl",
+          "url": "https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 206053,
-      "name": "Sj\u00e5 sole",
-      "url": "https://open.spotify.com/track/2JlwcKF4s6GGZpC37FBNbQ"
+      "duration_ms": 119183,
+      "name": "Drekke d\u00e6 fin",
+      "url": "https://open.spotify.com/track/4cCIFCWBt4if64SvejQ7MV"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Flaska",
-        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 151304,
-      "name": "Flaska",
-      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "Cowboyhatten",
         "url": "https://open.spotify.com/album/73IJih4EONlwyZpKRHqGuS"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 171667,
       "name": "Cowboyhatten",
       "url": "https://open.spotify.com/track/3t6vxZjhkjadUP9G1vfEl9"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "Flaska",
+        "url": "https://open.spotify.com/album/6OI7fl4jpZBEiEGWwTyK9I"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 151304,
+      "name": "Flaska",
+      "url": "https://open.spotify.com/track/5PIXzeI6g83I0QkD7z7orD"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
+        "name": "H\u00f8gt over landet",
+        "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 203722,
+      "name": "H\u00f8gt over landet",
+      "url": "https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
         "name": "Helg",
         "url": "https://open.spotify.com/album/4Dgeqd8AMBpeYz2UWYiphl"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 171008,
       "name": "Helg",
       "url": "https://open.spotify.com/track/7iWb4MyDsYf0GcE6mCCsJc"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
-        "name": "H\u00f8gt over landet",
-        "url": "https://open.spotify.com/album/368HJ9cQicPem36DDzM5Zn"
-      },
-      "artists": [
-        {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
-        }
-      ],
-      "duration_ms": 203722,
-      "name": "H\u00f8gt over landet",
-      "url": "https://open.spotify.com/track/235ShnKeeQKXAP7GBpSEjW"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Promiski\u00f8s (PM)",
-        "url": "https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp"
-      },
-      "artists": [
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 153882,
-      "name": "Promiski\u00f8s (PM)",
-      "url": "https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "Flesk og Duppe",
         "url": "https://open.spotify.com/album/1bSyEIvEBHKiCUMe44Ft4Y"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 206974,
       "name": "Flesk og Duppe",
       "url": "https://open.spotify.com/track/6fQFJFQ32fixoWCwQs234R"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "Promiski\u00f8s (PM)",
+        "url": "https://open.spotify.com/album/4QRaRM4D3IkojdJb5wzSfp"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "Promiski\u00f8s (PM)",
+      "url": "https://open.spotify.com/track/7mcqtWKOrilDtC5kwYSsvK"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
+        "name": "Eviva Espana (Charterfeber 2026)",
+        "url": "https://open.spotify.com/album/5shiBSVPePJvi403ioGaN6"
+      },
+      "artists": [
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        }
+      ],
+      "duration_ms": 165569,
+      "name": "Eviva Espana - Charterfeber 2026",
+      "url": "https://open.spotify.com/track/1Byag6TMNocO1LGavyTu0k"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
         "name": "Gamlehjem",
         "url": "https://open.spotify.com/album/7bwo9g7xMxlVYYxZIsNBCU"
       },
@@ -871,22 +887,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "Eviva Espana (Charterfeber 2026)",
-        "url": "https://open.spotify.com/album/5shiBSVPePJvi403ioGaN6"
-      },
-      "artists": [
-        {
-          "name": "Staysman",
-          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
-        }
-      ],
-      "duration_ms": 165569,
-      "name": "Eviva Espana - Charterfeber 2026",
-      "url": "https://open.spotify.com/track/1Byag6TMNocO1LGavyTu0k"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "Jeg har v\u00e6rt en idiot",
         "url": "https://open.spotify.com/album/7lcMSlKePVyhxlwVW2iAh5"
       },
@@ -899,6 +899,26 @@
       "duration_ms": 149886,
       "name": "Jeg har v\u00e6rt en idiot",
       "url": "https://open.spotify.com/track/37mXHSrYsbEPjkeIREmsIJ"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "CAT 374",
+        "url": "https://open.spotify.com/album/1ATJPu9U3mxwZ180vKpdWs"
+      },
+      "artists": [
+        {
+          "name": "Crashville",
+          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
+        },
+        {
+          "name": "JONE",
+          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
+        }
+      ],
+      "duration_ms": 176117,
+      "name": "CAT 374",
+      "url": "https://open.spotify.com/track/1x1VCdqlxuR0SVWdYYXPlC"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -971,26 +991,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "CAT 374",
-        "url": "https://open.spotify.com/album/1ATJPu9U3mxwZ180vKpdWs"
-      },
-      "artists": [
-        {
-          "name": "Crashville",
-          "url": "https://open.spotify.com/artist/3OzXAMfPfwenAot8z2NPpL"
-        },
-        {
-          "name": "JONE",
-          "url": "https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN"
-        }
-      ],
-      "duration_ms": 176117,
-      "name": "CAT 374",
-      "url": "https://open.spotify.com/track/1x1VCdqlxuR0SVWdYYXPlC"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "Ingenting kan stoppe oss",
         "url": "https://open.spotify.com/album/4BdAQy3bCKpsYQEIEwdz7M"
       },
@@ -1003,22 +1003,6 @@
       "duration_ms": 197282,
       "name": "Ingenting kan stoppe oss",
       "url": "https://open.spotify.com/track/3vT5zeUXtsnpl5zYZlh8GB"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/2pxyKBtMtyDdo7SY4qACWh"
-      },
-      "artists": [
-        {
-          "name": "Byting",
-          "url": "https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7"
-        }
-      ],
-      "duration_ms": 212505,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/1qTnDuu6g20zNDe4JnHlgi"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -1039,6 +1023,42 @@
       "duration_ms": 149435,
       "name": "Hele natta",
       "url": "https://open.spotify.com/track/6ErJLc3g3F3LTR89uSQaOW"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/2pxyKBtMtyDdo7SY4qACWh"
+      },
+      "artists": [
+        {
+          "name": "Byting",
+          "url": "https://open.spotify.com/artist/70WHziQLTycOFrXWZJbrE7"
+        }
+      ],
+      "duration_ms": 212505,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/1qTnDuu6g20zNDe4JnHlgi"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "De g\u00e6rne har det godt",
+        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
+      },
+      "artists": [
+        {
+          "name": "Sandra Lyng",
+          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
+        },
+        {
+          "name": "rOlfFa",
+          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
+        }
+      ],
+      "duration_ms": 128653,
+      "name": "De g\u00e6rne har det godt",
+      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -1079,42 +1099,6 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "De g\u00e6rne har det godt",
-        "url": "https://open.spotify.com/album/517ciheoZHAntktdQcBaxx"
-      },
-      "artists": [
-        {
-          "name": "Sandra Lyng",
-          "url": "https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf"
-        },
-        {
-          "name": "rOlfFa",
-          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
-        }
-      ],
-      "duration_ms": 128653,
-      "name": "De g\u00e6rne har det godt",
-      "url": "https://open.spotify.com/track/2uWzRb60LK37cremgoTxJd"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
-        "name": "Er det lov \u00e5 leva",
-        "url": "https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU"
-      },
-      "artists": [
-        {
-          "name": "Halva Priset",
-          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
-        }
-      ],
-      "duration_ms": 131835,
-      "name": "Er det lov \u00e5 leva",
-      "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
         "name": "Norge rundt med Staysman",
         "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
       },
@@ -1135,6 +1119,22 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
+        "name": "Er det lov \u00e5 leva",
+        "url": "https://open.spotify.com/album/3O2Rjh8vKAAK5fndtSKSzU"
+      },
+      "artists": [
+        {
+          "name": "Halva Priset",
+          "url": "https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk"
+        }
+      ],
+      "duration_ms": 131835,
+      "name": "Er det lov \u00e5 leva",
+      "url": "https://open.spotify.com/track/3KKdDF5B4kjkC0zWR4SKZs"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
         "name": "Der Jeg H\u00f8rer Te (Bygda)",
         "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
       },
@@ -1147,22 +1147,6 @@
       "duration_ms": 137106,
       "name": "Der Jeg H\u00f8rer Te (Bygda)",
       "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
-    },
-    {
-      "added_at": "2026-06-25 22:01:29",
-      "album": {
-        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 199920,
-      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
-      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2026-06-25 22:01:29",
       "album": {
-        "name": "G\u00e5r i hundre",
-        "url": "https://open.spotify.com/album/5dF8qDJtjtq0f0eH9U4v5J"
+        "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+        "url": "https://open.spotify.com/album/6Fnzvn4reiS3UJVrYOaqQo"
       },
       "artists": [
         {
-          "name": "Knivblad",
-          "url": "https://open.spotify.com/artist/5B9QPiKMDIOkjg3Mu1hQng"
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
         }
       ],
-      "duration_ms": 161294,
-      "name": "G\u00e5r i hundre",
-      "url": "https://open.spotify.com/track/6bSCsSwV5iHwftQ17G1Vuj"
+      "duration_ms": 199920,
+      "name": "N\u00e5r sol\u00e5 g\u00e5r ned",
+      "url": "https://open.spotify.com/track/4AqDTmKxJMMAOsNhhKVI5V"
     },
     {
       "added_at": "2026-06-25 22:01:29",
@@ -1255,6 +1239,22 @@
       "duration_ms": 149651,
       "name": "Rypejakt",
       "url": "https://open.spotify.com/track/6OmvqBoQlEG3rpEgIC7HIW"
+    },
+    {
+      "added_at": "2026-06-25 22:01:29",
+      "album": {
+        "name": "G\u00e5r i hundre",
+        "url": "https://open.spotify.com/album/5dF8qDJtjtq0f0eH9U4v5J"
+      },
+      "artists": [
+        {
+          "name": "Knivblad",
+          "url": "https://open.spotify.com/artist/5B9QPiKMDIOkjg3Mu1hQng"
+        }
+      ],
+      "duration_ms": 161294,
+      "name": "G\u00e5r i hundre",
+      "url": "https://open.spotify.com/track/6bSCsSwV5iHwftQ17G1Vuj"
     },
     {
       "added_at": "2026-06-25 22:01:29",

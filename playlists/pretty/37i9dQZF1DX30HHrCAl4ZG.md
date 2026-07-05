@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from This Is Lorelei
 
-[Spotify](https://open.spotify.com/user/spotify) - 805,272 likes - 145 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 805,245 likes - 145 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -154,4 +154,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 144 | [Parachute](https://open.spotify.com/track/7pasIrCqLFAOtPgXyuYHnV) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Ego Death At A Bachelorette Party](https://open.spotify.com/album/0U0Qv2jYtsgGxFDpQJKAxQ) | 3:40 |
 | 145 | [detroit](https://open.spotify.com/track/0ESmbstBQI4arPAsNkHZ8g) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [Strung Out Symphony](https://open.spotify.com/album/4vkZh7v970FaGHlF16IDeW) | 3:09 |
 
-Snapshot ID: `AAAAAEw0TPa/2Df+kYT+PsFT5HK/yIt1`
+Snapshot ID: `AAAAAAcYLxO3Bf3yM+BBmUFMfo/ovcvR`

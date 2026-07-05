@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Gowry Lekshmi
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,812 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,820 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 19 | [Meenangadi](https://open.spotify.com/track/00yANyBR41gfG4r92pBu8I) | [DeXterDuke](https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa), [Akhil Jifroom](https://open.spotify.com/artist/75plEvjt52hf70SHFUfEQs), [Kid TwisTer](https://open.spotify.com/artist/4dqz9abbk7xY7hB6Re1bR7) | [Meenangadi](https://open.spotify.com/album/3bWRGmICUICqqcaArNq7kc) | 3:34 |
 | 20 | [Ullodumbam](https://open.spotify.com/track/7uy2PBTrVAhGfYAARRXS6r) | [Haniya Nafisa](https://open.spotify.com/artist/2qE6XvN9lbEFGFfQOREsr0) | [Vaakkath](https://open.spotify.com/album/0z6HvSQ7XHrpcpZugjIugW) | 2:56 |
 | 21 | [Noor Noor](https://open.spotify.com/track/17i0xNH6iWetgJVkpF5toJ) | [Nazeeb Billu](https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk), [Jkfactor](https://open.spotify.com/artist/2YhFy8MzbmY2jlPSqUucAv) | [Noor Noor](https://open.spotify.com/album/5xEKJe7ZFQEhJ4hyelXNsz) | 3:15 |
-| 22 | [Vishal Ambawala](https://open.spotify.com/track/6yjj9ztZKR9aCblI3jsBae) | [Ajmal NS](https://open.spotify.com/artist/1DQSb4emLM9WhYlBlEPXLi), [Shuaib Munna](https://open.spotify.com/artist/7F3Y0xHEk3NdXgCqKoQBqY) | [Vishal Ambawala](https://open.spotify.com/album/2nZF4yAZEN1hBOUWVrLN6H) | 3:01 |
+| 22 | [Vambathi](https://open.spotify.com/track/6yjj9ztZKR9aCblI3jsBae) | [Ajmal NS](https://open.spotify.com/artist/1DQSb4emLM9WhYlBlEPXLi), [Shuaib Munna](https://open.spotify.com/artist/7F3Y0xHEk3NdXgCqKoQBqY) | [Vambathi](https://open.spotify.com/album/2nZF4yAZEN1hBOUWVrLN6H) | 3:01 |
 | 23 | [Ponne Kanimakane](https://open.spotify.com/track/05ACyBso3dRpJXst6Ehom0) | [Meera E](https://open.spotify.com/artist/20zEJrH8OrzpCaNyolbiAf), [Sadique Pandallur](https://open.spotify.com/artist/0xmb6mgODCpq8raCqRR3qo) | [Ponne Kanimakane](https://open.spotify.com/album/6yhhGFiyUd1HqSHvaSLWOY) | 4:55 |
 | 24 | [Viraha Vimanam](https://open.spotify.com/track/2WJZ2DEKs3cQDCKsbBNzNs) | [Radio Legs](https://open.spotify.com/artist/7biyxbWnxnAq0LbNvaCdiV) | [Viraha Vimanam](https://open.spotify.com/album/1KEz0ON03B5xKJkPjniE0F) | 3:25 |
 | 25 | [Thonnal](https://open.spotify.com/track/4zMvrMC1FYIkK9Kb50zyje) | [Ashna Sherin](https://open.spotify.com/artist/6N5YgVZI5OC5njITv1LMV9) | [Thonnal](https://open.spotify.com/album/0vPjXB5mokO4NieW2k7xJW) | 2:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkçe pop'un hit şarkıları ve zirveye oynayanlar\.  Kapak: Funda Arar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,562,152 likes - 48 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,562,373 likes - 48 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 3 | [Bi' Şey Mi Dedin?](https://open.spotify.com/track/4Sn0YqqmO5urI89XjRMFf4) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Bi' Şey Mi Dedin?](https://open.spotify.com/album/1WYqUROtpwjq0Uy8mpDCIH) | 2:41 |
 | 4 | [Şımarık](https://open.spotify.com/track/1YLHRVAsWnNFCeLMfqz2dh) | [Derya Uluğ](https://open.spotify.com/artist/7A6T0nTpXnPXDUGM1yEjEj) | [Şımarık](https://open.spotify.com/album/2hi0BeIUFh2cqQjxYP4R1j) | 2:33 |
 | 5 | [Umrumdışı](https://open.spotify.com/track/14xSndBPmB5bsYmKbwkhnB) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Umrumdışı](https://open.spotify.com/album/71VuUzbv9T5vXkLTnf8iKq) | 3:38 |
-| 6 | [Hay](https://open.spotify.com/track/4vEHd456ENAfaGVveY8hJ0) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Hay](https://open.spotify.com/album/7q8qUC3Yib6NMqofsaBG80) | 3:02 |
+| 6 | [Hay](https://open.spotify.com/track/4vEHd456ENAfaGVveY8hJ0) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Hay](https://open.spotify.com/album/7q8qUC3Yib6NMqofsaBG80) | 3:03 |
 | 7 | [Sen Var Ya](https://open.spotify.com/track/4rjkteaLzR9SrLtgTS4AbQ) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Sen Var Ya](https://open.spotify.com/album/61CNS4q5GuxT7i5BInlcun) | 3:15 |
 | 8 | [İki Yaka](https://open.spotify.com/track/5fBu0qebD0Mrg85A6WYZgG) | [Ceren Sagu](https://open.spotify.com/artist/4F85cxjAmlT0r7DZKu3ABX) | [İki Yaka](https://open.spotify.com/album/2gpEMkg9lKUsCkETQINPOi) | 2:58 |
 | 9 | [Duysunlar](https://open.spotify.com/track/1ilWmey0DUru1SPH6tNjU9) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec), [Ece Seçkin](https://open.spotify.com/artist/1lfD2lvoDctsMr6grjYOb5) | [Gülden'e Geldik X Ece Seçkin](https://open.spotify.com/album/27I92ZrzIm9mleUJGRrHf1) | 4:23 |

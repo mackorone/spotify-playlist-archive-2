@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: MARQUISE\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,370 likes - 58 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,372 likes - 58 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

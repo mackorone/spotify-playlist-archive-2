@@ -1,6 +1,6 @@
 {
   "description": "Beautiful electronic music for melancholy moments.",
-  "num_followers": 273778,
+  "num_followers": 273827,
   "original_name": "Melantronic",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,22 @@
     {
       "added_at": "2026-06-25 23:00:14",
       "album": {
+        "name": "Echoes of Miami.",
+        "url": "https://open.spotify.com/album/6gJH8OdpbzwMOSyHPXFn1I"
+      },
+      "artists": [
+        {
+          "name": "Bolden.",
+          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+        }
+      ],
+      "duration_ms": 134525,
+      "name": "Echoes of Miami.",
+      "url": "https://open.spotify.com/track/6dSLhunmHpn2hDNw8wqU2I"
+    },
+    {
+      "added_at": "2026-06-25 23:00:14",
+      "album": {
         "name": "Love Language",
         "url": "https://open.spotify.com/album/70Vz3MZVPq8Lw89xK2QsS6"
       },
@@ -699,18 +715,18 @@
     {
       "added_at": "2026-06-25 23:00:14",
       "album": {
-        "name": "Echoes of Miami.",
-        "url": "https://open.spotify.com/album/6gJH8OdpbzwMOSyHPXFn1I"
+        "name": "If You're Here With Me",
+        "url": "https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M"
       },
       "artists": [
         {
-          "name": "Bolden.",
-          "url": "https://open.spotify.com/artist/4CxK8Xr9IqYUzhTLhdSfp5"
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
         }
       ],
-      "duration_ms": 134525,
-      "name": "Echoes of Miami.",
-      "url": "https://open.spotify.com/track/6dSLhunmHpn2hDNw8wqU2I"
+      "duration_ms": 208000,
+      "name": "If You're Here With Me",
+      "url": "https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc"
     },
     {
       "added_at": "2026-06-25 23:00:14",
@@ -727,22 +743,6 @@
       "duration_ms": 354102,
       "name": "October",
       "url": "https://open.spotify.com/track/6FIQ8o2hqlDmHQFoBKmKgW"
-    },
-    {
-      "added_at": "2026-06-25 23:00:14",
-      "album": {
-        "name": "If You're Here With Me",
-        "url": "https://open.spotify.com/album/5uYuUtiS2gs7X2tVLGkz6M"
-      },
-      "artists": [
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "If You're Here With Me",
-      "url": "https://open.spotify.com/track/1gp4PEvDlABR6els2tgWdc"
     },
     {
       "added_at": "2026-06-25 23:00:14",

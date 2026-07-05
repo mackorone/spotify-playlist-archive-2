@@ -4,7 +4,7 @@
 
 > Get ready for Ibiza season 2026\. See you on the dancefloor.
 
-549 songs - 1 day 8 hr 25 min
+550 songs - 1 day 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [My Heart Goes \(La Di Da\)](https://open.spotify.com/track/4xMbBESczlHPUO8QeYi56p) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [My Heart Goes \(La Di Da\)](https://open.spotify.com/album/3xDukGLEHBX2uylxb6S9jc) | 2:28 | 2022-08-26 | 2023-07-13 |
 | [My Love \(2024\)](https://open.spotify.com/track/2nljjiWhzVIugb5vgEMQQk) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Route 94](https://open.spotify.com/artist/1dgdvbogmctybPrGEcnYf6), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [My Love \(2024\)](https://open.spotify.com/album/73PdhRzMikkkImZ4qHOzZ3) | 3:04 | 2024-08-29 | 2026-04-11 |
 | [My Paradise](https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji) | [My Paradise](https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2) | 3:31 | 2022-08-26 | 2024-04-20 |
+| [My Place](https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [My Place](https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C) | 2:39 | 2026-07-02 |  |
 | [My Soul](https://open.spotify.com/track/7KCUvLNglwYUvYoMjKullD) | [Notre Dame](https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt) | [My Soul](https://open.spotify.com/album/0VIkQGuUWicrdehWh0YDyj) | 4:33 | 2026-04-30 | 2026-05-15 |
 | [My Temptations](https://open.spotify.com/track/2MK2fcwBiq2fHxooYW4qfC) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [My Temptations](https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU) | 3:11 | 2026-04-10 |  |
 | [My Wave](https://open.spotify.com/track/152nGoY90lYhmfA0MDzxxd) | [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB), [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg) | [My Wave](https://open.spotify.com/album/5atD8mhDIuJ2ntR1nU0TK7) | 2:30 | 2025-08-14 |  |
@@ -510,7 +511,7 @@
 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 | 2024-04-19 | 2025-04-20 |
 | [Under The Sun](https://open.spotify.com/track/1eKSPMRzGdglxelX3kyrqc) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Under The Sun](https://open.spotify.com/album/0nOe03llpGGQNH6Zjyj20Z) | 3:28 | 2022-08-26 | 2024-07-19 |
 | [Underground Ways](https://open.spotify.com/track/3gdGg8aoZ0rVStKAOSCPff) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX), [Chesster](https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj), [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP) | [Underground Ways](https://open.spotify.com/album/2Ygx3tuwzLxSL5nWFZoIeI) | 3:17 | 2025-05-16 | 2025-06-01 |
-| [Unfold](https://open.spotify.com/track/7iTXHv9a0jDLxSC1v38Wff) | [Khenya](https://open.spotify.com/artist/7BZQl4ZJ1aaxuMY55qpIi8) | [Unfold](https://open.spotify.com/album/068y8T16hjdV62hdwjDK5q) | 3:06 | 2026-07-01 |  |
+| [Unfold](https://open.spotify.com/track/7iTXHv9a0jDLxSC1v38Wff) | [Khenya](https://open.spotify.com/artist/7BZQl4ZJ1aaxuMY55qpIi8) | [Unfold](https://open.spotify.com/album/068y8T16hjdV62hdwjDK5q) | 3:06 | 2026-07-01 | 2026-07-05 |
 | [Universal Consciousness](https://open.spotify.com/track/6cKTcheUC3OHDMI8QMKp08) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Consciousness EP](https://open.spotify.com/album/4hLx8gxka0a3rYc2sBN3fQ) | 6:40 | 2022-08-26 | 2023-05-20 |
 | [Up Down Round](https://open.spotify.com/track/4PtRhiFwkXQnMHmoKrgY5K) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK) | [Up Down Round](https://open.spotify.com/album/4oRSw9pKQWJyUo3Du2Dbog) | 2:24 | 2024-04-19 | 2025-03-20 |
 | [Up N Down](https://open.spotify.com/track/4BFoLiWDZusUKvEvXDpDAF) | [Kamino](https://open.spotify.com/artist/6XYhu7HPIJ47SY98bY1Hnx), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Up N Down](https://open.spotify.com/album/66lG6q9LY1TV9pjbmlcllX) | 2:47 | 2025-04-17 | 2026-05-01 |

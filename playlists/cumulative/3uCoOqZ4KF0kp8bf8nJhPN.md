@@ -4,7 +4,7 @@
 
 > 
 
-327 songs - 12 hr 59 min
+328 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [AMERICAN WASTELAND](https://open.spotify.com/track/6BB5mSsRYtOILdHMYZKmRz) | [nascar aloe](https://open.spotify.com/artist/03LEDukdM723NRLz4UXeNv) | [AMERICAN WASTELAND](https://open.spotify.com/album/6AWs0Ua0ne6bblYs9EajUP) | 1:30 | 2025-02-18 | 2025-04-10 |
 | [AMV](https://open.spotify.com/track/0Yixa90fBW3KJO4Kq7pSOF) | [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [AMV](https://open.spotify.com/album/2s5KRwIiuhzG6GHsZ0GP1X) | 2:18 | 2025-05-06 | 2025-05-22 |
 | [anime foreign](https://open.spotify.com/track/4dPTsJMa0nWaOb3tD1IeQP) | [5L](https://open.spotify.com/artist/6BjL5fEswNzVzwx9wddLxi) | [anime foreign](https://open.spotify.com/album/75DL1OxjquTiFV8PTVUsLl) | 1:42 | 2025-07-26 |  |
+| [arrhythmia.](https://open.spotify.com/track/1oGCX249fEmRjV28MDY4EI) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [six drinks deep\. + arrhythmia.](https://open.spotify.com/album/0vnJixrgZg0RUq4abZuorZ) | 1:41 | 2026-07-04 |  |
 | [aruarian dance](https://open.spotify.com/track/4sUTagdmyuyAxd7RvbygpQ) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [samurai champloo music record departure](https://open.spotify.com/album/3uNaLrScYulpXLRmQquP9I) | 4:10 | 2025-03-25 |  |
 | [ash.](https://open.spotify.com/track/68WwyjUeTVHlQnEZslzfqV) | [shteppi](https://open.spotify.com/artist/0MWnJHMAZneJ1JA6S8Fx1b) | [20\. \(deluxe\)](https://open.spotify.com/album/4lbHzmMQJV6MKOEDCMWBVB) | 2:55 | 2025-04-30 |  |
 | [ATTACKING VERTICAL](https://open.spotify.com/track/1zDPYoaXTejmNtSaOBbPOd) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [REACTOR](https://open.spotify.com/album/0EuXXwAyrzBp9FFicvBfsp) | 1:55 | 2025-03-06 |  |

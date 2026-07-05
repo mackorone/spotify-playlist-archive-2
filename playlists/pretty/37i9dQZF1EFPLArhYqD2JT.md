@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,577 likes - 392 songs - 19 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,579 likes - 392 songs - 19 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 105 | [It All Belongs to Me](https://open.spotify.com/track/2tqdIv6AfhtHwNJ5CULE7g) | [Ruth Etting](https://open.spotify.com/artist/49rIehT663IKJuA3c16OkI) | [Cryin' for the Beloved](https://open.spotify.com/album/2ImphuVAP1tbkMdJ8ftrjM) | 2:49 |
 | 106 | [Supper Time](https://open.spotify.com/track/0CmUB0X8pKJY1J9jBT46jm) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Ella Fitzgerald Sings The Irving Berlin Song Book](https://open.spotify.com/album/2hK70fCNOlYgTg0sQMzPbj) | 3:18 |
 | 107 | [Sunshine](https://open.spotify.com/track/1XQzFLT6rhCsT0rMJGpDjS) | [Tatiana Eva\-Marie](https://open.spotify.com/artist/3Nmm3IacxsC92dEP0kWL3z) | [Sunshine](https://open.spotify.com/album/4UpsA4LeAfEchjDBLRnQE1) | 3:51 |
-| 108 | [Drum Crazy](https://open.spotify.com/track/4mNzNvfIx7rRcvoNSJH10K) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Irving Berlin's Easter Parade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2WUGy3NCzX96ACiUa98hty) | 4:01 |
-| 109 | [Road To Zion](https://open.spotify.com/track/2KaKrUztUkKKy3HvWEYfsL) | [Furkan Kaya](https://open.spotify.com/artist/2XyUIftPSTikAWRwfmtzMG) | [Road To Zion](https://open.spotify.com/album/0X4QFev4ptMpTVn7WcCZaB) | 3:25 |
+| 108 | [Road To Zion](https://open.spotify.com/track/2KaKrUztUkKKy3HvWEYfsL) | [Furkan Kaya](https://open.spotify.com/artist/2XyUIftPSTikAWRwfmtzMG) | [Road To Zion](https://open.spotify.com/album/0X4QFev4ptMpTVn7WcCZaB) | 3:25 |
+| 109 | [Drum Crazy](https://open.spotify.com/track/4mNzNvfIx7rRcvoNSJH10K) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Irving Berlin's Easter Parade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2WUGy3NCzX96ACiUa98hty) | 4:01 |
 | 110 | [Let Me Sing and I'm Happy](https://open.spotify.com/track/3hufPe6iNeGF3kpgAwa07d) | [Karen Morrow](https://open.spotify.com/artist/4jmlL3ds6VuZNQhjjYruFk) | [Irving Berlin's White Christmas \(Original Broadway Cast Recording\)](https://open.spotify.com/album/43HbWHgKPaSlr1wcU8ppa0) | 2:43 |
 | 111 | [Weiße Weihnacht](https://open.spotify.com/track/1awVQiDyDLYPisjVhD1J1o) | [Fantasy](https://open.spotify.com/artist/3QK6XTFKV94wlcLVQkBJ8O) | [Weihnachten mit Fantasy](https://open.spotify.com/album/7xQv1DvE5scxuPjjZEzhZ9) | 3:36 |
 | 112 | [No Me Dejes \- Remastered 2021](https://open.spotify.com/track/3hDxjVfmW3BIldWobKIQ5g) | [Matt Monro](https://open.spotify.com/artist/06kr5yNAM2rOf4DXemM8fl) | [Todo Pasará \(Remastered 2021\)](https://open.spotify.com/album/0teD0KMeRNvAjmuiXNiR99) | 3:07 |
@@ -317,8 +317,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 307 | [A Beautiful Day In Brooklyn](https://open.spotify.com/track/4CtLrBGAme9CdbEZj8jCLl) | [Crista Moore](https://open.spotify.com/artist/5WVC8pV900zV5zfyrNNvjG) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 4:02 |
 | 308 | [Hou Je Van 'M](https://open.spotify.com/track/2lRBOfPcCazCgYBPVou7W1) | [Mylene D'Anjou](https://open.spotify.com/artist/6whJ3RrJWerVtr5GJCFZcY) | [Platina: Mooiste Liedjes Uit De Voorstelling](https://open.spotify.com/album/06tazZdLeZCuyCyGQpVcoM) | 4:37 |
 | 309 | [The Waltz of Long Ago](https://open.spotify.com/track/5Ts3x6CImIgz0gyeh0NFXg) | [Analise Scarpaci](https://open.spotify.com/artist/3x8IEkKbNzxJ25ekcKJir6) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:12 |
-| 310 | [Anna Liza's Wedding Day](https://open.spotify.com/track/3Y7Cia7mSwa7pnQMnGJTpQ) | [Analise Scarpaci](https://open.spotify.com/artist/3x8IEkKbNzxJ25ekcKJir6), [Jonah Barricklo](https://open.spotify.com/artist/3Aay6tYBJ5CCFqgCIkDWFE) | [Chip Deffaa's Irving Berlin: Sweet and Hot](https://open.spotify.com/album/5uzr4VbJR04zFvWgoK3Zc2) | 2:55 |
-| 311 | [San Francisco Bound](https://open.spotify.com/track/2sN3x6FoTmgMSzHqr6xauy) | [Charlie Franklin](https://open.spotify.com/artist/21fXTMS53M924eIrXSqRwo) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 1:55 |
+| 310 | [San Francisco Bound](https://open.spotify.com/track/2sN3x6FoTmgMSzHqr6xauy) | [Charlie Franklin](https://open.spotify.com/artist/21fXTMS53M924eIrXSqRwo) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 1:55 |
+| 311 | [Anna Liza's Wedding Day](https://open.spotify.com/track/3Y7Cia7mSwa7pnQMnGJTpQ) | [Analise Scarpaci](https://open.spotify.com/artist/3x8IEkKbNzxJ25ekcKJir6), [Jonah Barricklo](https://open.spotify.com/artist/3Aay6tYBJ5CCFqgCIkDWFE) | [Chip Deffaa's Irving Berlin: Sweet and Hot](https://open.spotify.com/album/5uzr4VbJR04zFvWgoK3Zc2) | 2:55 |
 | 312 | [Wait Until You're Married](https://open.spotify.com/track/38ugQgFxWVB7BXmytg9jJM) | [Liz Larsen](https://open.spotify.com/artist/15nFl6K5cvpHYwTTxtx2CZ), [Sal Viviano](https://open.spotify.com/artist/4TRRC4NyC0GMoT8zr4S7Uk), [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 2:41 |
 | 313 | [Me and My Bundle](https://open.spotify.com/track/31CAI8Z9Nj2BXJoHU9HYVv) | [John Gary](https://open.spotify.com/artist/7JZGn3cCxwdRIoudPO1kNL) | [That's the Way It Was](https://open.spotify.com/album/0JT7T6xVmQAIyWDeTJYJFj) | 1:48 |
 | 314 | [There's a Girl in Havana](https://open.spotify.com/track/24csx6JuLk4H5TyxiHf9vP) | [Ellis Gage](https://open.spotify.com/artist/7L2eMuCGVcj82UHggFCzuQ), [Analise Scarpaci](https://open.spotify.com/artist/3x8IEkKbNzxJ25ekcKJir6) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 2:21 |
@@ -401,4 +401,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 391 | [They Always Follow Me Around](https://open.spotify.com/track/26DUrnMBUJ6DQGdhzMgNxa) | [Jon Peterson](https://open.spotify.com/artist/07NsCTxS9SkrG7UHDw0dAy) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:27 |
 | 392 | [I'm a Dancing Teacher Now](https://open.spotify.com/track/7z2mOgbLgU2KxNUP86yITT) | [Ray DeMattis](https://open.spotify.com/artist/3r8JgnATt9fBES77wAgbdi) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:06 |
 
-Snapshot ID: `AcV5iAAAAACLsA1F7IC2wFAIPi6Imkir`
+Snapshot ID: `AcV/KAAAAACVjuoLHW/pD6Vgu6mhEDu0`

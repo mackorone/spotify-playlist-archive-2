@@ -1,33 +1,13 @@
 {
   "description": "This is MC Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35349,
+  "num_followers": 35352,
   "original_name": "This Is MC Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akWqAAAAAAD4+ho2z6lnLxM+skXnQE8M",
+  "snapshot_id": "akb7gAAAAABbcEj39INhJysSva+9+UhV",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Paga Pra Ser Gostosa",
-        "url": "https://open.spotify.com/album/5oWzrNxFngJnVcEvVv4BCN"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Dj 2r Oficial",
-          "url": "https://open.spotify.com/artist/05Me8FB69V01u9rY5c6QTP"
-        }
-      ],
-      "duration_ms": 141273,
-      "name": "Paga Pra Ser Gostosa",
-      "url": "https://open.spotify.com/track/68VnSR2LiSkgo0k4KlUCBz"
-    },
     {
       "added_at": null,
       "album": {
@@ -295,6 +275,26 @@
       "duration_ms": 135047,
       "name": "Festa na Marina",
       "url": "https://open.spotify.com/track/5SDbIKvFDRTy45WsXsgyxD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paga Pra Ser Gostosa",
+        "url": "https://open.spotify.com/album/5oWzrNxFngJnVcEvVv4BCN"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Dj 2r Oficial",
+          "url": "https://open.spotify.com/artist/05Me8FB69V01u9rY5c6QTP"
+        }
+      ],
+      "duration_ms": 141273,
+      "name": "Paga Pra Ser Gostosa",
+      "url": "https://open.spotify.com/track/68VnSR2LiSkgo0k4KlUCBz"
     },
     {
       "added_at": null,
@@ -639,6 +639,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fala Mal De Mim Pros Outros",
+        "url": "https://open.spotify.com/album/21S0Nl37dHHXnfx3ZPmdML"
+      },
+      "artists": [
+        {
+          "name": "DJ TS",
+          "url": "https://open.spotify.com/artist/6PILkXbgkMh4nUUl6Ov6ON"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Prime Funk",
+          "url": "https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x"
+        }
+      ],
+      "duration_ms": 138447,
+      "name": "Fala Mal De Mim Pros Outros",
+      "url": "https://open.spotify.com/track/4DBEmHoQi9x2nRE11CgLRF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vida do Crime",
         "url": "https://open.spotify.com/album/3D97mhE8FfyvJI5hhT3Tu4"
       },
@@ -675,30 +699,6 @@
       "duration_ms": 240118,
       "name": "Empurra Empurra",
       "url": "https://open.spotify.com/track/2OFO6Zws6Pxo5p0J7SmkOp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fala Mal De Mim Pros Outros",
-        "url": "https://open.spotify.com/album/21S0Nl37dHHXnfx3ZPmdML"
-      },
-      "artists": [
-        {
-          "name": "DJ TS",
-          "url": "https://open.spotify.com/artist/6PILkXbgkMh4nUUl6Ov6ON"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Prime Funk",
-          "url": "https://open.spotify.com/artist/0REr9s0EudwoJnxfgN3F1x"
-        }
-      ],
-      "duration_ms": 138447,
-      "name": "Fala Mal De Mim Pros Outros",
-      "url": "https://open.spotify.com/track/4DBEmHoQi9x2nRE11CgLRF"
     },
     {
       "added_at": null,
@@ -831,6 +831,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/4yLieDOwSzxfv2GJEiYxmV"
+      },
+      "artists": [
+        {
+          "name": "Tutu No Beat",
+          "url": "https://open.spotify.com/artist/7s6byUMXPKlpJVRdef4Ys6"
+        },
+        {
+          "name": "BEBEL",
+          "url": "https://open.spotify.com/artist/47dbVLKFjq7k6igP62trgk"
+        },
+        {
+          "name": "AKAZIN PLAYLOKA",
+          "url": "https://open.spotify.com/artist/6ac4b8uBDimNRZWbISLjcs"
+        },
+        {
+          "name": "Eo Renanzinho",
+          "url": "https://open.spotify.com/artist/3vSSqwGKqb50jZfFrNmod6"
+        },
+        {
+          "name": "LUKINHAS POSTURADO",
+          "url": "https://open.spotify.com/artist/5HSCboNkGSTuzQTfwUOkLb"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 128199,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/1MbfMhMWzAIpCTVMlfgul6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pede Chamando de Amor",
         "url": "https://open.spotify.com/album/3ZZl84FejS6V6Knd2YEmBx"
       },
@@ -931,42 +967,6 @@
       "duration_ms": 169846,
       "name": "Como Acredito No Amor",
       "url": "https://open.spotify.com/track/5Dwd5WQQSWPn693k5VaaSw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De 38 Carregado",
-        "url": "https://open.spotify.com/album/4yLieDOwSzxfv2GJEiYxmV"
-      },
-      "artists": [
-        {
-          "name": "Tutu No Beat",
-          "url": "https://open.spotify.com/artist/7s6byUMXPKlpJVRdef4Ys6"
-        },
-        {
-          "name": "BEBEL",
-          "url": "https://open.spotify.com/artist/47dbVLKFjq7k6igP62trgk"
-        },
-        {
-          "name": "AKAZIN PLAYLOKA",
-          "url": "https://open.spotify.com/artist/6ac4b8uBDimNRZWbISLjcs"
-        },
-        {
-          "name": "Eo Renanzinho",
-          "url": "https://open.spotify.com/artist/3vSSqwGKqb50jZfFrNmod6"
-        },
-        {
-          "name": "LUKINHAS POSTURADO",
-          "url": "https://open.spotify.com/artist/5HSCboNkGSTuzQTfwUOkLb"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 128199,
-      "name": "De 38 Carregado",
-      "url": "https://open.spotify.com/track/1MbfMhMWzAIpCTVMlfgul6"
     },
     {
       "added_at": null,
@@ -1203,6 +1203,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PO2054AZ (Vol.II)",
+        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "Llorando x 1",
+      "url": "https://open.spotify.com/track/4XZSHgnPpVIqGyYUUzqlYw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Catucad\u00e3o",
         "url": "https://open.spotify.com/album/16TTVpfAEGzxNghkq34qNt"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 138900,
       "name": "Catucad\u00e3o",
       "url": "https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PO2054AZ (Vol.II)",
-        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "Llorando x 1",
-      "url": "https://open.spotify.com/track/4XZSHgnPpVIqGyYUUzqlYw"
     },
     {
       "added_at": null,

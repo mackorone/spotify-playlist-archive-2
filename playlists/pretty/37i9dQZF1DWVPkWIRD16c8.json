@@ -1,6 +1,6 @@
 {
   "description": "Let Jesus take the wheel...and the aux cord! ",
-  "num_followers": 260541,
+  "num_followers": 260657,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Walk With Me",
-        "url": "https://open.spotify.com/album/6lNIyJnOuyLhGvPod7YYJz"
-      },
-      "artists": [
-        {
-          "name": "Unspoken",
-          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
-        }
-      ],
-      "duration_ms": 175770,
-      "name": "Walk With Me",
-      "url": "https://open.spotify.com/track/1YWNQDbaTcCZxhC1GpkOQ1"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "Heaven On My Mind",
         "url": "https://open.spotify.com/album/3QrtYSiDxk8mmKmEy6xQfR"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 203450,
       "name": "Heaven On My Mind",
       "url": "https://open.spotify.com/track/00hBntRNlxbvmUa7VX7Woq"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "Walk With Me",
+        "url": "https://open.spotify.com/album/6lNIyJnOuyLhGvPod7YYJz"
+      },
+      "artists": [
+        {
+          "name": "Unspoken",
+          "url": "https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0"
+        }
+      ],
+      "duration_ms": 175770,
+      "name": "Walk With Me",
+      "url": "https://open.spotify.com/track/1YWNQDbaTcCZxhC1GpkOQ1"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -471,6 +471,22 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
+        "name": "Nothin' Sweeter",
+        "url": "https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 176929,
+      "name": "Nothin' Sweeter",
+      "url": "https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
         "name": "Where Would I Be",
         "url": "https://open.spotify.com/album/3CATadYTCHrjRl9fyE9S9K"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 192445,
       "name": "Where Would I Be",
       "url": "https://open.spotify.com/track/3IsymeG164xqab7pmeblhi"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
-        "name": "Nothin' Sweeter",
-        "url": "https://open.spotify.com/album/6oYpqdXHLXt9tKRpc7KVlU"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 176929,
-      "name": "Nothin' Sweeter",
-      "url": "https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Everything_",
-        "url": "https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1"
-      },
-      "artists": [
-        {
-          "name": "Jon",
-          "url": "https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q"
-        }
-      ],
-      "duration_ms": 231151,
-      "name": "Everything_",
-      "url": "https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "a light in me",
         "url": "https://open.spotify.com/album/3tEVEN59Yr9xHBjNNIt5YU"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "dopamine",
-        "url": "https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE"
+        "name": "Everything_",
+        "url": "https://open.spotify.com/album/7kWN8T1wKhybkmiPan2ky1"
       },
       "artists": [
         {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+          "name": "Jon",
+          "url": "https://open.spotify.com/artist/7jn0JOlixG25zuQWLov22q"
         }
       ],
-      "duration_ms": 122391,
-      "name": "dopamine",
-      "url": "https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168"
+      "duration_ms": 231151,
+      "name": "Everything_",
+      "url": "https://open.spotify.com/track/7sHDETwhnQzR7GSdyBGUbq"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1047,6 +1031,22 @@
       "duration_ms": 232804,
       "name": "Oklahoma",
       "url": "https://open.spotify.com/track/1WXHHQim1F23dML0yFIUt5"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "dopamine",
+        "url": "https://open.spotify.com/album/7s4KNsNzQuHuZLYneTMUEE"
+      },
+      "artists": [
+        {
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
+        }
+      ],
+      "duration_ms": 122391,
+      "name": "dopamine",
+      "url": "https://open.spotify.com/track/1MlwlvguOnqk3vZCAWe168"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Don't Let The Darkness",
-        "url": "https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 196960,
-      "name": "Don't Let The Darkness",
-      "url": "https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "Why Do You Love Me?",
         "url": "https://open.spotify.com/album/3TTlVAQ3LDSvpg3uO6fWkh"
       },
@@ -1191,18 +1175,18 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/6fTzSgdtC6r0rASnYHaPaJ"
+        "name": "Don't Let The Darkness",
+        "url": "https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s"
       },
       "artists": [
         {
-          "name": "NONAH",
-          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
         }
       ],
-      "duration_ms": 193100,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/4e8lXxOrEBJfvyx2zoZ0K3"
+      "duration_ms": 196960,
+      "name": "Don't Let The Darkness",
+      "url": "https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1227,6 +1211,22 @@
       "duration_ms": 193501,
       "name": "Take It All Back",
       "url": "https://open.spotify.com/track/2GkNgHBlPQsh1t1GEVeLYr"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/6fTzSgdtC6r0rASnYHaPaJ"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "duration_ms": 193100,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/4e8lXxOrEBJfvyx2zoZ0K3"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
+        "name": "grand prix!",
+        "url": "https://open.spotify.com/album/5520zwKEHMsKQE08B2Vhhe"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        }
+      ],
+      "duration_ms": 107065,
+      "name": "grand prix!",
+      "url": "https://open.spotify.com/track/7l1fLGghECBsuAToYuwdKJ"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
         "name": "backseat drive",
         "url": "https://open.spotify.com/album/0KfV7F7WilXiUspp3YN1Hr"
       },
@@ -1283,18 +1299,18 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "grand prix!",
-        "url": "https://open.spotify.com/album/5520zwKEHMsKQE08B2Vhhe"
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
       },
       "artists": [
         {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+          "name": "Stephen Stanley",
+          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
         }
       ],
-      "duration_ms": 107065,
-      "name": "grand prix!",
-      "url": "https://open.spotify.com/track/7l1fLGghECBsuAToYuwdKJ"
+      "duration_ms": 213717,
+      "name": "The Heat",
+      "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/4AhkCXgAoORJ8k8CrlZ0tt"
-      },
-      "artists": [
-        {
-          "name": "Stephen Stanley",
-          "url": "https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX"
-        }
-      ],
-      "duration_ms": 213717,
-      "name": "The Heat",
-      "url": "https://open.spotify.com/track/0J8E3NeNAQK726HEuet8nM"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
         "name": "NO SKIPS / GOOD OLD DAYS",
         "url": "https://open.spotify.com/album/4igdFeAJW7MrQZ2bDxcm8X"
       },
@@ -1347,22 +1347,6 @@
       "duration_ms": 190350,
       "name": "NO SKIPS",
       "url": "https://open.spotify.com/track/3E1Z0oPXJ5ZkAktQhJPzhC"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
-        "name": "In Process",
-        "url": "https://open.spotify.com/album/4DJ4sCWyimQRFEwfzoxJz5"
-      },
-      "artists": [
-        {
-          "name": "LOVKN",
-          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
-        }
-      ],
-      "duration_ms": 192014,
-      "name": "Reaching for the Light",
-      "url": "https://open.spotify.com/track/7jWire3mnMRBe3ynaTip4u"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1387,6 +1371,22 @@
       "duration_ms": 111428,
       "name": "GREATER LOVE",
       "url": "https://open.spotify.com/track/3gdAmqnh0cQiknfkLSB17H"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
+        "name": "In Process",
+        "url": "https://open.spotify.com/album/4DJ4sCWyimQRFEwfzoxJz5"
+      },
+      "artists": [
+        {
+          "name": "LOVKN",
+          "url": "https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc"
+        }
+      ],
+      "duration_ms": 192014,
+      "name": "Reaching for the Light",
+      "url": "https://open.spotify.com/track/7jWire3mnMRBe3ynaTip4u"
     },
     {
       "added_at": "2026-05-29 09:29:54",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2026-05-29 09:29:54",
       "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 248960,
+      "name": "We Could Run Away",
+      "url": "https://open.spotify.com/track/4HKjBsqzGScnd0TsKoVlNk"
+    },
+    {
+      "added_at": "2026-05-29 09:29:54",
+      "album": {
         "name": "JESUS LOVES ME",
         "url": "https://open.spotify.com/album/2RYXajwuPeoUcfLa38irCx"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 194437,
       "name": "JESUS LOVES ME",
       "url": "https://open.spotify.com/track/6uIarf6X3laYslxgXiii8m"
-    },
-    {
-      "added_at": "2026-05-29 09:29:54",
-      "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 248960,
-      "name": "We Could Run Away",
-      "url": "https://open.spotify.com/track/4HKjBsqzGScnd0TsKoVlNk"
     },
     {
       "added_at": "2026-05-29 09:29:54",

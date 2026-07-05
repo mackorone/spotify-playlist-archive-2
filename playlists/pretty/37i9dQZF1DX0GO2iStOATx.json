@@ -1,6 +1,6 @@
 {
   "description": "Punjabi aa gaye oye!",
-  "num_followers": 233842,
+  "num_followers": 233906,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
-        "name": "Sardaarji 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4OtiPey44eFtHR0k3EVJVz"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 160136,
-      "name": "Pappleen",
-      "url": "https://open.spotify.com/track/7p4SfEwbVzpBhkn9ACSGzw"
-    },
-    {
-      "added_at": "2026-06-12 05:30:19",
-      "album": {
         "name": "Lak 28 Kudi Da",
         "url": "https://open.spotify.com/album/526HxFaDf5l1T0C5QBoT7B"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 183026,
       "name": "Mitran da Junction",
       "url": "https://open.spotify.com/track/45ZvGm4spSjkkCuuIIDWmx"
+    },
+    {
+      "added_at": "2026-06-12 05:30:19",
+      "album": {
+        "name": "Sardaarji 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4OtiPey44eFtHR0k3EVJVz"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 160136,
+      "name": "Pappleen",
+      "url": "https://open.spotify.com/track/7p4SfEwbVzpBhkn9ACSGzw"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
-        "name": "Jimmy Choo (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/0VJliSn5RwwaoT1GuzaBPf"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 234430,
-      "name": "Jimmy Choo (MTV Unplugged)",
-      "url": "https://open.spotify.com/track/6TVXQHkmfLWP9y0JBq04VV"
-    },
-    {
-      "added_at": "2026-06-12 05:30:19",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/0Qi3UVsHtnxNZW1WPrpxOh"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 197647,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/64GMWImeb6xJcddUiK9kov"
+    },
+    {
+      "added_at": "2026-06-12 05:30:19",
+      "album": {
+        "name": "Jimmy Choo (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/0VJliSn5RwwaoT1GuzaBPf"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 234430,
+      "name": "Jimmy Choo (MTV Unplugged)",
+      "url": "https://open.spotify.com/track/6TVXQHkmfLWP9y0JBq04VV"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 165781,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa"
+      "duration_ms": 180698,
+      "name": "Kehkashan",
+      "url": "https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -872,25 +872,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 180698,
-      "name": "Kehkashan",
-      "url": "https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9"
-    },
-    {
-      "added_at": "2026-06-12 05:30:19",
-      "album": {
-        "name": "G.O.A.T.",
-        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 183614,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/0v1T9sMeFbaanQ3o2PBcYK"
+      "duration_ms": 165781,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5VlQvNMpZF3wXrXLfr89Xa"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -907,6 +891,22 @@
       "duration_ms": 203076,
       "name": "Taare",
       "url": "https://open.spotify.com/track/2Xr84waT2lRMqjdkjmTYfW"
+    },
+    {
+      "added_at": "2026-06-12 05:30:19",
+      "album": {
+        "name": "G.O.A.T.",
+        "url": "https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 183614,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/0v1T9sMeFbaanQ3o2PBcYK"
     },
     {
       "added_at": "2026-06-12 05:30:19",
@@ -963,8 +963,8 @@
     {
       "added_at": "2026-06-12 05:30:19",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+        "name": "Saanvle (feat. Raj Ranjodh)",
+        "url": "https://open.spotify.com/album/4bU263ULrrVYSP2J7Vp97X"
       },
       "artists": [
         {
@@ -972,13 +972,13 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
-          "name": "thiarajxtt",
-          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
         }
       ],
-      "duration_ms": 137395,
-      "name": "Whatcha Doin'",
-      "url": "https://open.spotify.com/track/3O4pPBep2Rzn6KS2iqdrin"
+      "duration_ms": 208333,
+      "name": "Saanvle (feat. Raj Ranjodh)",
+      "url": "https://open.spotify.com/track/7EP2pUtxJeEEqN0V7hLjNg"
     }
   ],
   "unique_name": "This Is Diljit Dosanjh",

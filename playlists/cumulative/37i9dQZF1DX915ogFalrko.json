@@ -259,6 +259,32 @@
     },
     {
       "album": {
+        "name": "Ar Fresco",
+        "url": "https://open.spotify.com/album/3X7cwZY7OQlkq2BZvfXSCF"
+      },
+      "artists": [
+        {
+          "name": "Golf Trip",
+          "url": "https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A"
+        },
+        {
+          "name": "Rachel Kitchlew",
+          "url": "https://open.spotify.com/artist/5EkOHfxgVoxfKQu1b89W7C"
+        },
+        {
+          "name": "Sreya",
+          "url": "https://open.spotify.com/artist/3dr0bDqmElcH4qBAN5j5GV"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242701,
+      "name": "Ar Fresco",
+      "url": "https://open.spotify.com/track/2n2J1IyAZQcAJZnekdnEPM"
+    },
+    {
+      "album": {
         "name": "What Will We Be (Standard)",
         "url": "https://open.spotify.com/album/0TrxxY9oApTHWo8QZv8MbI"
       },
@@ -2899,6 +2925,28 @@
     },
     {
       "album": {
+        "name": "revolver",
+        "url": "https://open.spotify.com/album/0znbpnfnE9qDPWEBngkKIw"
+      },
+      "artists": [
+        {
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        },
+        {
+          "name": "a6el",
+          "url": "https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "revolver",
+      "url": "https://open.spotify.com/track/0ZsmQPfjB6s5PTTC8OJiGx"
+    },
+    {
+      "album": {
         "name": "AngieAngieAngie",
         "url": "https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl"
       },
@@ -3048,7 +3096,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 192495,
       "name": "Slow Tonight",
       "url": "https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5"
@@ -4098,7 +4146,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 212023,
       "name": "What\u2019s On Your Mind",
       "url": "https://open.spotify.com/track/2DOKvJS61usFOxobo7jLi0"

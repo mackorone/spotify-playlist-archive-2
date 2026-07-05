@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akWqAAAAAAAbEP4GNinVj8ueAI3SddqG",
+  "snapshot_id": "akb7gAAAAAAJKjpeqPH8KgSmxcdvlLAn",
   "tracks": [
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 187946,
-      "name": "We Could Form An Attachment",
-      "url": "https://open.spotify.com/track/53SyVsyUHuLthCzhw3CbOU"
+      "duration_ms": 140000,
+      "name": "Love is A Choice",
+      "url": "https://open.spotify.com/track/02x4inTmIaDrlI0o7wQupM"
     },
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 140000,
-      "name": "Love is A Choice",
-      "url": "https://open.spotify.com/track/02x4inTmIaDrlI0o7wQupM"
+      "duration_ms": 187946,
+      "name": "We Could Form An Attachment",
+      "url": "https://open.spotify.com/track/53SyVsyUHuLthCzhw3CbOU"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 83301,
-      "name": "Almost Kiss - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL"
+      "duration_ms": 152429,
+      "name": "Thank You - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/7DLgRYCtEARiOuZPYoWYfJ"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 147960,
-      "name": "Come With Me",
-      "url": "https://open.spotify.com/track/4I2MrWkzR21FzzciyCEPKF"
+      "duration_ms": 166746,
+      "name": "When You Are Alone",
+      "url": "https://open.spotify.com/track/2c44MBYwfnRj7WvSVlcM48"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 152429,
-      "name": "Thank You - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/7DLgRYCtEARiOuZPYoWYfJ"
+      "duration_ms": 83301,
+      "name": "Almost Kiss - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/4clo8rW8pMDBKq6Ewz3APL"
     }
   ],
   "unique_name": "This Is Kris Bowers",

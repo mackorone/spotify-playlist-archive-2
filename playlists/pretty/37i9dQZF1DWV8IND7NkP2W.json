@@ -1,6 +1,6 @@
 {
   "description": "The ultimate instrumental soundtrack for a long-haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 528358,
+  "num_followers": 528342,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
@@ -111,18 +111,18 @@
     {
       "added_at": "2026-06-26 00:30:12",
       "album": {
-        "name": "tender (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx"
+        "name": "Kodama",
+        "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
       },
       "artists": [
         {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+          "name": "Nogymx",
+          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
         }
       ],
-      "duration_ms": 158840,
-      "name": "Elevator Lover",
-      "url": "https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5"
+      "duration_ms": 186268,
+      "name": "Kodama",
+      "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
     },
     {
       "added_at": "2026-06-26 00:30:12",
@@ -147,6 +147,22 @@
     {
       "added_at": "2026-06-26 00:30:12",
       "album": {
+        "name": "tender (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Elevator Lover",
+      "url": "https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5"
+    },
+    {
+      "added_at": "2026-06-26 00:30:12",
+      "album": {
         "name": "WAVE",
         "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 202733,
       "name": "Good song",
       "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
-    },
-    {
-      "added_at": "2026-06-26 00:30:12",
-      "album": {
-        "name": "Kodama",
-        "url": "https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG"
-      },
-      "artists": [
-        {
-          "name": "Nogymx",
-          "url": "https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP"
-        }
-      ],
-      "duration_ms": 186268,
-      "name": "Kodama",
-      "url": "https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8"
     },
     {
       "added_at": "2026-06-26 00:30:12",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-06-26 00:30:12",
       "album": {
-        "name": "Phantom",
-        "url": "https://open.spotify.com/album/0pW7TqHtmaI1jpdLf58wOa"
-      },
-      "artists": [
-        {
-          "name": "DJ Ryow a.k.a. Smooth Current",
-          "url": "https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy"
-        }
-      ],
-      "duration_ms": 189902,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/0jCv1hAtUb58dfhnnotCYf"
-    },
-    {
-      "added_at": "2026-06-26 00:30:12",
-      "album": {
         "name": "Yugure",
         "url": "https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 126750,
       "name": "Yugure",
       "url": "https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR"
+    },
+    {
+      "added_at": "2026-06-26 00:30:12",
+      "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/0pW7TqHtmaI1jpdLf58wOa"
+      },
+      "artists": [
+        {
+          "name": "DJ Ryow a.k.a. Smooth Current",
+          "url": "https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy"
+        }
+      ],
+      "duration_ms": 189902,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/0jCv1hAtUb58dfhnnotCYf"
     },
     {
       "added_at": "2026-06-26 00:30:12",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-06-26 00:30:12",
       "album": {
-        "name": "20250327",
-        "url": "https://open.spotify.com/album/3c9pYvp6UAqOOnKo0NgVbC"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 144498,
-      "name": "20250327",
-      "url": "https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ"
-    },
-    {
-      "added_at": "2026-06-26 00:30:12",
-      "album": {
         "name": "Memories of Furniture",
         "url": "https://open.spotify.com/album/6b876cOa6S2ZCRErR1behv"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 213333,
       "name": "Memories of Furniture",
       "url": "https://open.spotify.com/track/4rMUYNfP8tZGSr9oojyhGA"
+    },
+    {
+      "added_at": "2026-06-26 00:30:12",
+      "album": {
+        "name": "20250327",
+        "url": "https://open.spotify.com/album/3c9pYvp6UAqOOnKo0NgVbC"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 144498,
+      "name": "20250327",
+      "url": "https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ"
     },
     {
       "added_at": "2026-06-26 00:30:12",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-06-26 00:30:12",
       "album": {
+        "name": "GeGe E.P.",
+        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
+      },
+      "artists": [
+        {
+          "name": "MANTIS",
+          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
+        }
+      ],
+      "duration_ms": 212307,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
+    },
+    {
+      "added_at": "2026-06-26 00:30:12",
+      "album": {
         "name": "Ch\u014dchin",
         "url": "https://open.spotify.com/album/4VUkZyMyR0ZZM2cGPFMHFn"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 185676,
       "name": "Ch\u014dchin",
       "url": "https://open.spotify.com/track/5EUpp47BC9dw2iQM15hEps"
-    },
-    {
-      "added_at": "2026-06-26 00:30:12",
-      "album": {
-        "name": "GeGe E.P.",
-        "url": "https://open.spotify.com/album/2ecLoovLVWLU0t7mJ2wglX"
-      },
-      "artists": [
-        {
-          "name": "MANTIS",
-          "url": "https://open.spotify.com/artist/1TVABMb2uIBrMfW1cagawa"
-        }
-      ],
-      "duration_ms": 212307,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2FE0DuEVku3lEJVgRkcpbm"
     },
     {
       "added_at": "2026-06-26 00:30:12",
@@ -991,6 +991,22 @@
     {
       "added_at": "2026-06-26 00:30:12",
       "album": {
+        "name": "Night Step",
+        "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "duration_ms": 150857,
+      "name": "Night Step",
+      "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
+    },
+    {
+      "added_at": "2026-06-26 00:30:12",
+      "album": {
         "name": "Yoake",
         "url": "https://open.spotify.com/album/2wjpLzZQ4tRLhHHcX1Nwuc"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 172124,
       "name": "Yoake",
       "url": "https://open.spotify.com/track/3wvp4cZcmltC12kVjxYh42"
-    },
-    {
-      "added_at": "2026-06-26 00:30:12",
-      "album": {
-        "name": "Night Step",
-        "url": "https://open.spotify.com/album/5NKwXKL1deztn3vmc7E7Ki"
-      },
-      "artists": [
-        {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
-        }
-      ],
-      "duration_ms": 150857,
-      "name": "Night Step",
-      "url": "https://open.spotify.com/track/7wzdW1urmtdQZk4KQBOtX8"
     },
     {
       "added_at": "2026-06-26 00:30:12",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-06-26 00:30:12",
       "album": {
-        "name": "sophisticated silence",
-        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
-      },
-      "artists": [
-        {
-          "name": "sophisticated silence",
-          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
-        }
-      ],
-      "duration_ms": 155760,
-      "name": "NIGHT RIDER",
-      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
-    },
-    {
-      "added_at": "2026-06-26 00:30:12",
-      "album": {
         "name": "Light Breeze EP",
         "url": "https://open.spotify.com/album/1n2VCQLZpPAQql7MyapC22"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2026-06-26 00:30:12",
       "album": {
-        "name": "Better",
-        "url": "https://open.spotify.com/album/5AjAkPY3G83TEgxx3BsAdN"
+        "name": "sophisticated silence",
+        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
       },
       "artists": [
         {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+          "name": "sophisticated silence",
+          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
         }
       ],
-      "duration_ms": 171851,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/1Z3Opl0WBbb4nwlC0OrmRS"
+      "duration_ms": 155760,
+      "name": "NIGHT RIDER",
+      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
     },
     {
       "added_at": "2026-06-26 00:30:12",
@@ -1135,6 +1119,22 @@
       "duration_ms": 168224,
       "name": "Points of light",
       "url": "https://open.spotify.com/track/6kppyz5XQdXFFdjDRqFmbm"
+    },
+    {
+      "added_at": "2026-06-26 00:30:12",
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5AjAkPY3G83TEgxx3BsAdN"
+      },
+      "artists": [
+        {
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+        }
+      ],
+      "duration_ms": 171851,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/1Z3Opl0WBbb4nwlC0OrmRS"
     },
     {
       "added_at": "2026-06-26 00:30:12",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-06-26 00:30:12",
       "album": {
-        "name": "Dawn Breaks",
-        "url": "https://open.spotify.com/album/4GzbiM1VRAZwARO8DCCbUw"
-      },
-      "artists": [
-        {
-          "name": "Sachiho",
-          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
-        }
-      ],
-      "duration_ms": 118750,
-      "name": "Dawn Breaks",
-      "url": "https://open.spotify.com/track/74S6DteUTCW0CJXm7ulDdJ"
-    },
-    {
-      "added_at": "2026-06-26 00:30:12",
-      "album": {
         "name": "Sublimation",
         "url": "https://open.spotify.com/album/4uwsRa5RZaw5Mib2Sgf9Al"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 118356,
       "name": "\u5915\u6620 03",
       "url": "https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD"
+    },
+    {
+      "added_at": "2026-06-26 00:30:12",
+      "album": {
+        "name": "Dawn Breaks",
+        "url": "https://open.spotify.com/album/4GzbiM1VRAZwARO8DCCbUw"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        }
+      ],
+      "duration_ms": 118750,
+      "name": "Dawn Breaks",
+      "url": "https://open.spotify.com/track/74S6DteUTCW0CJXm7ulDdJ"
     },
     {
       "added_at": "2026-06-26 00:30:12",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-06-26 00:30:12",
       "album": {
-        "name": "PAREIDOLIA",
-        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
-      },
-      "artists": [
-        {
-          "name": "\u547c\u7159\u9b54",
-          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
-        }
-      ],
-      "duration_ms": 181490,
-      "name": "Whispers in the Night",
-      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
-    },
-    {
-      "added_at": "2026-06-26 00:30:12",
-      "album": {
         "name": "\u82b1\u706b",
         "url": "https://open.spotify.com/album/4Jgfki9QuMF1C1eTdtoenN"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 115975,
       "name": "\u82b1\u706b 01",
       "url": "https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G"
+    },
+    {
+      "added_at": "2026-06-26 00:30:12",
+      "album": {
+        "name": "PAREIDOLIA",
+        "url": "https://open.spotify.com/album/39uasv0jcC61mqNRL4OKkC"
+      },
+      "artists": [
+        {
+          "name": "\u547c\u7159\u9b54",
+          "url": "https://open.spotify.com/artist/6DCqyAIjEYMWaUbJExBBA5"
+        }
+      ],
+      "duration_ms": 181490,
+      "name": "Whispers in the Night",
+      "url": "https://open.spotify.com/track/58ZKw23U9pY7k5ZgS30CAH"
     },
     {
       "added_at": "2026-06-26 00:30:12",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-06-26 00:30:12",
       "album": {
-        "name": "The Wondering Beats vol.1",
-        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
-      },
-      "artists": [
-        {
-          "name": "GORO KUMAI",
-          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
-    },
-    {
-      "added_at": "2026-06-26 00:30:12",
-      "album": {
         "name": "Awesome City",
         "url": "https://open.spotify.com/album/05PDJXae0t0adaepucRPVP"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 160840,
       "name": "Awesome City",
       "url": "https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o"
+    },
+    {
+      "added_at": "2026-06-26 00:30:12",
+      "album": {
+        "name": "The Wondering Beats vol.1",
+        "url": "https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM"
+      },
+      "artists": [
+        {
+          "name": "GORO KUMAI",
+          "url": "https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f"
     },
     {
       "added_at": "2026-06-26 00:30:12",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-06-26 00:30:12",
       "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
-      },
-      "artists": [
-        {
-          "name": "Robert de Boron",
-          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "SICK",
-      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
-    },
-    {
-      "added_at": "2026-06-26 00:30:12",
-      "album": {
         "name": "LOOPER",
         "url": "https://open.spotify.com/album/5Xnk9x6LUOR2qdERcEcuG7"
       },
@@ -1555,22 +1539,6 @@
     {
       "added_at": "2026-06-26 00:30:12",
       "album": {
-        "name": "16:18",
-        "url": "https://open.spotify.com/album/7zdPFHvktQKpNw0J1Aq95Z"
-      },
-      "artists": [
-        {
-          "name": "Osamu Fukuzawa",
-          "url": "https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F"
-        }
-      ],
-      "duration_ms": 197040,
-      "name": "16:18",
-      "url": "https://open.spotify.com/track/7kU0jsS0V9gEXjMWzcXWfv"
-    },
-    {
-      "added_at": "2026-06-26 00:30:12",
-      "album": {
         "name": "16FLIP -Atomosphere'22-",
         "url": "https://open.spotify.com/album/5pusvt9Hq28gJ79xgoFQzH"
       },
@@ -1583,6 +1551,38 @@
       "duration_ms": 45690,
       "name": "Beat Diary 917",
       "url": "https://open.spotify.com/track/3wej7iiqQ7tdKfxLVT4m0x"
+    },
+    {
+      "added_at": "2026-06-26 00:30:12",
+      "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
+      },
+      "artists": [
+        {
+          "name": "Robert de Boron",
+          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "SICK",
+      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
+    },
+    {
+      "added_at": "2026-06-26 00:30:12",
+      "album": {
+        "name": "16:18",
+        "url": "https://open.spotify.com/album/7zdPFHvktQKpNw0J1Aq95Z"
+      },
+      "artists": [
+        {
+          "name": "Osamu Fukuzawa",
+          "url": "https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "16:18",
+      "url": "https://open.spotify.com/track/7kU0jsS0V9gEXjMWzcXWfv"
     },
     {
       "added_at": "2026-06-26 00:30:12",
@@ -1615,6 +1615,26 @@
       "duration_ms": 140253,
       "name": "\u5149\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0"
+    },
+    {
+      "added_at": "2026-06-26 00:30:12",
+      "album": {
+        "name": "re: Nobody Else",
+        "url": "https://open.spotify.com/album/0Rac7qtsk7dxbranYFA9aD"
+      },
+      "artists": [
+        {
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+        },
+        {
+          "name": "pige",
+          "url": "https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "re: Nobody Else",
+      "url": "https://open.spotify.com/track/6TLkT07y7Ip9ObMJR2yBa8"
     },
     {
       "added_at": "2026-06-26 00:30:12",
@@ -1659,38 +1679,18 @@
     {
       "added_at": "2026-06-26 00:30:12",
       "album": {
-        "name": "re: Nobody Else",
-        "url": "https://open.spotify.com/album/0Rac7qtsk7dxbranYFA9aD"
+        "name": "Cross the Bridge",
+        "url": "https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt"
       },
       "artists": [
         {
-          "name": "Rui Fujishiro",
-          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
-        },
-        {
-          "name": "pige",
-          "url": "https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr"
+          "name": "MIDICRONICA 181",
+          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
         }
       ],
-      "duration_ms": 127058,
-      "name": "re: Nobody Else",
-      "url": "https://open.spotify.com/track/6TLkT07y7Ip9ObMJR2yBa8"
-    },
-    {
-      "added_at": "2026-06-26 00:30:12",
-      "album": {
-        "name": "Expanse",
-        "url": "https://open.spotify.com/album/7h0QT4XlpxL7pvmKjArHHa"
-      },
-      "artists": [
-        {
-          "name": "Refeeld",
-          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
-        }
-      ],
-      "duration_ms": 182093,
-      "name": "Expanse",
-      "url": "https://open.spotify.com/track/4edUbFHJYBYqV5RYEAuEfG"
+      "duration_ms": 138913,
+      "name": "Cross the Bridge",
+      "url": "https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw"
     },
     {
       "added_at": "2026-06-26 00:30:12",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2026-06-26 00:30:12",
       "album": {
+        "name": "Expanse",
+        "url": "https://open.spotify.com/album/7h0QT4XlpxL7pvmKjArHHa"
+      },
+      "artists": [
+        {
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
+        }
+      ],
+      "duration_ms": 182093,
+      "name": "Expanse",
+      "url": "https://open.spotify.com/track/4edUbFHJYBYqV5RYEAuEfG"
+    },
+    {
+      "added_at": "2026-06-26 00:30:12",
+      "album": {
         "name": "\u5922\u306e\u4e2d",
         "url": "https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 159370,
       "name": "\u5922\u306e\u4e2d",
       "url": "https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny"
-    },
-    {
-      "added_at": "2026-06-26 00:30:12",
-      "album": {
-        "name": "Cross the Bridge",
-        "url": "https://open.spotify.com/album/6aPWyP45dpcKhQGA2CdhBt"
-      },
-      "artists": [
-        {
-          "name": "MIDICRONICA 181",
-          "url": "https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY"
-        }
-      ],
-      "duration_ms": 138913,
-      "name": "Cross the Bridge",
-      "url": "https://open.spotify.com/track/6zgmVrSPNRqDcmzRHWE4gw"
     },
     {
       "added_at": "2026-06-26 00:30:12",
@@ -1775,22 +1775,22 @@
     {
       "added_at": "2026-06-26 00:30:12",
       "album": {
-        "name": "Yufuin",
-        "url": "https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC"
+        "name": "Rock",
+        "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
       },
       "artists": [
         {
-          "name": "Kazuki Isogai",
-          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
+          "name": "DisHand",
+          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
         },
         {
-          "name": "yuhei miura",
-          "url": "https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5"
+          "name": "tillDawn",
+          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
         }
       ],
-      "duration_ms": 155670,
-      "name": "Yufuin",
-      "url": "https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9"
+      "duration_ms": 123658,
+      "name": "Rock",
+      "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
     },
     {
       "added_at": "2026-06-26 00:30:12",
@@ -1815,22 +1815,22 @@
     {
       "added_at": "2026-06-26 00:30:12",
       "album": {
-        "name": "Rock",
-        "url": "https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO"
+        "name": "Yufuin",
+        "url": "https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC"
       },
       "artists": [
         {
-          "name": "DisHand",
-          "url": "https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy"
+          "name": "Kazuki Isogai",
+          "url": "https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K"
         },
         {
-          "name": "tillDawn",
-          "url": "https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV"
+          "name": "yuhei miura",
+          "url": "https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5"
         }
       ],
-      "duration_ms": 123658,
-      "name": "Rock",
-      "url": "https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW"
+      "duration_ms": 155670,
+      "name": "Yufuin",
+      "url": "https://open.spotify.com/track/1WXrXjZVbnM34rCfw5NXd9"
     }
   ],
   "unique_name": "Road Trip To Tokyo",

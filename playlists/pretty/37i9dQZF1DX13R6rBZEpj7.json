@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 283575,
+  "num_followers": 283614,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -111,26 +111,6 @@
     {
       "added_at": "2026-07-02 23:00:09",
       "album": {
-        "name": "Let Me Go",
-        "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Let Me Go",
-      "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
-    },
-    {
-      "added_at": "2026-07-02 23:00:09",
-      "album": {
         "name": "Numerous Bootings (Bro in a Coffee Shop) [Allstars Remix]",
         "url": "https://open.spotify.com/album/3etSqWTLBd8yzGcqq8hSAo"
       },
@@ -163,6 +143,26 @@
       "duration_ms": 241846,
       "name": "Numerous Bootings (Bro in a Coffee Shop) - Allstars Remix",
       "url": "https://open.spotify.com/track/2fmXNXuyrvAQ3dzh2ULEV9"
+    },
+    {
+      "added_at": "2026-07-02 23:00:09",
+      "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/4peMbNHbIi9hHAyzmnHvIj"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/74Toln3Kr9EOFZ653bJxms"
     },
     {
       "added_at": "2026-07-02 23:00:09",
@@ -327,26 +327,6 @@
     {
       "added_at": "2026-07-02 23:00:09",
       "album": {
-        "name": "Let Him Go",
-        "url": "https://open.spotify.com/album/4kqyenhfePkTqSPqfPOOmg"
-      },
-      "artists": [
-        {
-          "name": "Denon Reed",
-          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
-        },
-        {
-          "name": "Cru2",
-          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
-        }
-      ],
-      "duration_ms": 144596,
-      "name": "Let Him Go",
-      "url": "https://open.spotify.com/track/2ir5RP1s9KMC8P6h1eMJsk"
-    },
-    {
-      "added_at": "2026-07-02 23:00:09",
-      "album": {
         "name": "Lululemon",
         "url": "https://open.spotify.com/album/66ToBa4wAO6EOnlZHPfsVR"
       },
@@ -383,18 +363,22 @@
     {
       "added_at": "2026-07-02 23:00:09",
       "album": {
-        "name": "If You Don't Want This",
-        "url": "https://open.spotify.com/album/6wYjqjs9I9E4uHeL4ifDXD"
+        "name": "Let Him Go",
+        "url": "https://open.spotify.com/album/4kqyenhfePkTqSPqfPOOmg"
       },
       "artists": [
         {
-          "name": "ManLikeTwin",
-          "url": "https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV"
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        },
+        {
+          "name": "Cru2",
+          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
         }
       ],
-      "duration_ms": 153218,
-      "name": "If You Don't Want This",
-      "url": "https://open.spotify.com/track/0WubvB0DnKO1BlJZspiKcT"
+      "duration_ms": 144596,
+      "name": "Let Him Go",
+      "url": "https://open.spotify.com/track/2ir5RP1s9KMC8P6h1eMJsk"
     },
     {
       "added_at": "2026-07-02 23:00:09",
@@ -419,22 +403,18 @@
     {
       "added_at": "2026-07-02 23:00:09",
       "album": {
-        "name": "kryptonite",
-        "url": "https://open.spotify.com/album/20BRrMTjHYhM1VQqQ3naoj"
+        "name": "If You Don't Want This",
+        "url": "https://open.spotify.com/album/6wYjqjs9I9E4uHeL4ifDXD"
       },
       "artists": [
         {
-          "name": "Denon Reed",
-          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
-        },
-        {
-          "name": "Star.One",
-          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+          "name": "ManLikeTwin",
+          "url": "https://open.spotify.com/artist/1fb2GnIxzoYYSCKsm6DCqV"
         }
       ],
-      "duration_ms": 155237,
-      "name": "kryptonite",
-      "url": "https://open.spotify.com/track/0UTL83j2DxlH0lHtm5JSPA"
+      "duration_ms": 153218,
+      "name": "If You Don't Want This",
+      "url": "https://open.spotify.com/track/0WubvB0DnKO1BlJZspiKcT"
     },
     {
       "added_at": "2026-07-02 23:00:09",
@@ -471,6 +451,26 @@
       "duration_ms": 142663,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2tJjSUAyEVpybbttRVoYxp"
+    },
+    {
+      "added_at": "2026-07-02 23:00:09",
+      "album": {
+        "name": "kryptonite",
+        "url": "https://open.spotify.com/album/20BRrMTjHYhM1VQqQ3naoj"
+      },
+      "artists": [
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        },
+        {
+          "name": "Star.One",
+          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+        }
+      ],
+      "duration_ms": 155237,
+      "name": "kryptonite",
+      "url": "https://open.spotify.com/track/0UTL83j2DxlH0lHtm5JSPA"
     },
     {
       "added_at": "2026-07-02 23:00:09",
@@ -515,26 +515,6 @@
     {
       "added_at": "2026-07-02 23:00:09",
       "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/48cUtMWSyrz04CmJDJrkTb"
-      },
-      "artists": [
-        {
-          "name": "Denon Reed",
-          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
-        },
-        {
-          "name": "Cru2",
-          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
-        }
-      ],
-      "duration_ms": 152142,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/0o8QnRcmXgQsQK7uxpu7oE"
-    },
-    {
-      "added_at": "2026-07-02 23:00:09",
-      "album": {
         "name": "Never Gonna Let You Go",
         "url": "https://open.spotify.com/album/4Qz2OUHDJxPQ5C1A3zmPCw"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 156000,
       "name": "Only One",
       "url": "https://open.spotify.com/track/4SjNpNc3pef6isHFhTSC4S"
+    },
+    {
+      "added_at": "2026-07-02 23:00:09",
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/48cUtMWSyrz04CmJDJrkTb"
+      },
+      "artists": [
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        },
+        {
+          "name": "Cru2",
+          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
+        }
+      ],
+      "duration_ms": 152142,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/0o8QnRcmXgQsQK7uxpu7oE"
     },
     {
       "added_at": "2026-07-02 23:00:09",
@@ -607,6 +607,46 @@
     {
       "added_at": "2026-07-02 23:00:09",
       "album": {
+        "name": "Bun It Down",
+        "url": "https://open.spotify.com/album/79mC7rD06YUKDeEFYdPHam"
+      },
+      "artists": [
+        {
+          "name": "Lethal Bizzle",
+          "url": "https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a"
+        },
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 173871,
+      "name": "Bun It Down",
+      "url": "https://open.spotify.com/track/7gHfPm4qWfbBVVz8Zk92pK"
+    },
+    {
+      "added_at": "2026-07-02 23:00:09",
+      "album": {
+        "name": "Moment (feat. Charlotte Plank)",
+        "url": "https://open.spotify.com/album/4oRA0Sfdp22VFn86dEBqFV"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 123242,
+      "name": "Moment (feat. Charlotte Plank)",
+      "url": "https://open.spotify.com/track/7BDPFIpiwHggWmuGLyaRzf"
+    },
+    {
+      "added_at": "2026-07-02 23:00:09",
+      "album": {
         "name": "What Do I Need To Do",
         "url": "https://open.spotify.com/album/4H9fT7QURnWTyNOEMJxGu5"
       },
@@ -643,46 +683,6 @@
     {
       "added_at": "2026-07-02 23:00:09",
       "album": {
-        "name": "Moment (feat. Charlotte Plank)",
-        "url": "https://open.spotify.com/album/4oRA0Sfdp22VFn86dEBqFV"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 123242,
-      "name": "Moment (feat. Charlotte Plank)",
-      "url": "https://open.spotify.com/track/7BDPFIpiwHggWmuGLyaRzf"
-    },
-    {
-      "added_at": "2026-07-02 23:00:09",
-      "album": {
-        "name": "Bun It Down",
-        "url": "https://open.spotify.com/album/79mC7rD06YUKDeEFYdPHam"
-      },
-      "artists": [
-        {
-          "name": "Lethal Bizzle",
-          "url": "https://open.spotify.com/artist/4KGNjRvBeqS7wDrExXVN8a"
-        },
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 173871,
-      "name": "Bun It Down",
-      "url": "https://open.spotify.com/track/7gHfPm4qWfbBVVz8Zk92pK"
-    },
-    {
-      "added_at": "2026-07-02 23:00:09",
-      "album": {
         "name": "If You Could Be My Sweetheart",
         "url": "https://open.spotify.com/album/3sj0bKkzDvsnN98kCExSIt"
       },
@@ -695,26 +695,6 @@
       "duration_ms": 246857,
       "name": "If You Could Be My Sweetheart",
       "url": "https://open.spotify.com/track/5TvqrZ5FvZkHqyoAjtjwGW"
-    },
-    {
-      "added_at": "2026-07-02 23:00:09",
-      "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6IFuF0sQmfbt7ZiCZq5KpE"
-      },
-      "artists": [
-        {
-          "name": "Denon Reed",
-          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
-        },
-        {
-          "name": "Cru2",
-          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
-        }
-      ],
-      "duration_ms": 170462,
-      "name": "You",
-      "url": "https://open.spotify.com/track/2JY40usTFwpLKV5BJK6vW6"
     },
     {
       "added_at": "2026-07-02 23:00:09",
@@ -747,6 +727,26 @@
       "duration_ms": 246760,
       "name": "Bassline Girl",
       "url": "https://open.spotify.com/track/2EJzbUTio0NWYZViuSdiEM"
+    },
+    {
+      "added_at": "2026-07-02 23:00:09",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6IFuF0sQmfbt7ZiCZq5KpE"
+      },
+      "artists": [
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        },
+        {
+          "name": "Cru2",
+          "url": "https://open.spotify.com/artist/6uvHjbvYhxT5K481Ph53H1"
+        }
+      ],
+      "duration_ms": 170462,
+      "name": "You",
+      "url": "https://open.spotify.com/track/2JY40usTFwpLKV5BJK6vW6"
     },
     {
       "added_at": "2026-07-02 23:00:09",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-07-02 23:00:09",
       "album": {
-        "name": "Take No Chat",
-        "url": "https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp"
-      },
-      "artists": [
-        {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "Take No Chat",
-      "url": "https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus"
-    },
-    {
-      "added_at": "2026-07-02 23:00:09",
-      "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5KLQOtW3tmMLCdMx16UGVv"
       },
@@ -1199,6 +1183,58 @@
       "duration_ms": 154285,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/5EkR9ususo4utxW0hdYjv0"
+    },
+    {
+      "added_at": "2026-07-02 23:00:09",
+      "album": {
+        "name": "somebody else (Denon Reed Remix)",
+        "url": "https://open.spotify.com/album/5wz4qBXL0AvKwn6DP7nWxF"
+      },
+      "artists": [
+        {
+          "name": "e.motion",
+          "url": "https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ"
+        },
+        {
+          "name": "Denon Reed",
+          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
+        }
+      ],
+      "duration_ms": 140704,
+      "name": "somebody else - Denon Reed Remix",
+      "url": "https://open.spotify.com/track/3vfKENQeEa4zGtyWXub7fc"
+    },
+    {
+      "added_at": "2026-07-02 23:00:09",
+      "album": {
+        "name": "Take No Chat",
+        "url": "https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "Take No Chat",
+      "url": "https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus"
+    },
+    {
+      "added_at": "2026-07-02 23:00:09",
+      "album": {
+        "name": "BANGERS ONLY",
+        "url": "https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        }
+      ],
+      "duration_ms": 188142,
+      "name": "Try & Escape",
+      "url": "https://open.spotify.com/track/0cNDDA6wf2JRpLaKDcPMPl"
     },
     {
       "added_at": "2026-07-02 23:00:09",
@@ -1223,42 +1259,6 @@
       "duration_ms": 204315,
       "name": "Little Bitta This",
       "url": "https://open.spotify.com/track/103VBFW68H11jOksxaI73S"
-    },
-    {
-      "added_at": "2026-07-02 23:00:09",
-      "album": {
-        "name": "BANGERS ONLY",
-        "url": "https://open.spotify.com/album/4voo1XkJvNSITyhxSHGLy3"
-      },
-      "artists": [
-        {
-          "name": "Zero",
-          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
-        }
-      ],
-      "duration_ms": 188142,
-      "name": "Try & Escape",
-      "url": "https://open.spotify.com/track/0cNDDA6wf2JRpLaKDcPMPl"
-    },
-    {
-      "added_at": "2026-07-02 23:00:09",
-      "album": {
-        "name": "somebody else (Denon Reed Remix)",
-        "url": "https://open.spotify.com/album/5wz4qBXL0AvKwn6DP7nWxF"
-      },
-      "artists": [
-        {
-          "name": "e.motion",
-          "url": "https://open.spotify.com/artist/1LXlu1Blu2l9pgaIMaD3DZ"
-        },
-        {
-          "name": "Denon Reed",
-          "url": "https://open.spotify.com/artist/7uPcIYxrvLRWaL0xQU4TnE"
-        }
-      ],
-      "duration_ms": 140704,
-      "name": "somebody else - Denon Reed Remix",
-      "url": "https://open.spotify.com/track/3vfKENQeEa4zGtyWXub7fc"
     },
     {
       "added_at": "2026-07-02 23:00:09",
@@ -1303,26 +1303,22 @@
     {
       "added_at": "2026-07-02 23:00:09",
       "album": {
-        "name": "Courvoisier",
-        "url": "https://open.spotify.com/album/1Jt3GNK0Dg7YZqKvF68kRu"
+        "name": "Active Now",
+        "url": "https://open.spotify.com/album/6C2EWfAXZ1j1PXEv1sbEXG"
       },
       "artists": [
         {
-          "name": "Tempa T",
-          "url": "https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq"
+          "name": "Shaun Dean",
+          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
         },
         {
-          "name": "Badger",
-          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
-        },
-        {
-          "name": "efan",
-          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
+          "name": "RD WestYorks",
+          "url": "https://open.spotify.com/artist/2Opb3TVPI7KeOlhdo7tZkG"
         }
       ],
-      "duration_ms": 147104,
-      "name": "Courvoisier",
-      "url": "https://open.spotify.com/track/2Ma2iAaH8Q8OhbXUsg95sN"
+      "duration_ms": 205714,
+      "name": "Active Now",
+      "url": "https://open.spotify.com/track/1z1DCyzCEntFmJHXG5RnFQ"
     },
     {
       "added_at": "2026-07-02 23:00:09",
@@ -1343,22 +1339,26 @@
     {
       "added_at": "2026-07-02 23:00:09",
       "album": {
-        "name": "Active Now",
-        "url": "https://open.spotify.com/album/6C2EWfAXZ1j1PXEv1sbEXG"
+        "name": "Courvoisier",
+        "url": "https://open.spotify.com/album/1Jt3GNK0Dg7YZqKvF68kRu"
       },
       "artists": [
         {
-          "name": "Shaun Dean",
-          "url": "https://open.spotify.com/artist/1vmJBUoJ6Z4JqU4mlw1bPC"
+          "name": "Tempa T",
+          "url": "https://open.spotify.com/artist/5itdSz26wZC57bo3dhQTPq"
         },
         {
-          "name": "RD WestYorks",
-          "url": "https://open.spotify.com/artist/2Opb3TVPI7KeOlhdo7tZkG"
+          "name": "Badger",
+          "url": "https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3"
+        },
+        {
+          "name": "efan",
+          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Active Now",
-      "url": "https://open.spotify.com/track/1z1DCyzCEntFmJHXG5RnFQ"
+      "duration_ms": 147104,
+      "name": "Courvoisier",
+      "url": "https://open.spotify.com/track/2Ma2iAaH8Q8OhbXUsg95sN"
     },
     {
       "added_at": "2026-07-02 23:00:09",

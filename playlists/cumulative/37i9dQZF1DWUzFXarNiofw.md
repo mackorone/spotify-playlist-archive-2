@@ -2,9 +2,9 @@
 
 ### [R&B Weekly](https://open.spotify.com/playlist/37i9dQZF1DWUzFXarNiofw)
 
-> The newest r&b drops, every week\. Cover: Lucky Daye
+> The newest r&b drops, every week\. Cover: Jorja Smith
 
-5,824 songs - 12 day 15 hr 47 min
+5,825 songs - 12 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2422,7 +2422,7 @@
 | [I'd Love To See You Again](https://open.spotify.com/track/30yHq5FDnjU9n3VJSEWbQZ) | [Felix Ames](https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2) | [Feel The Past, See The Future](https://open.spotify.com/album/0unRr1h0fwmJYAQ7CCs5Ix) | 4:05 | 2024-08-23 | 2024-10-12 |
 | [I'll Be Good](https://open.spotify.com/track/7rMIePH9SdYWmWNzuNg26p) | [JayDon](https://open.spotify.com/artist/2wrxoZjEVKfJZhxCiqK0ju) | [I'll Be Good](https://open.spotify.com/album/33kFKgbfzbKAh2of45JHVI) | 3:32 | 2025-03-14 | 2025-06-07 |
 | [I'll Never Say No](https://open.spotify.com/track/0W91VhI3jdzWeOy5rRlLA6) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV) | [I'll Never Say No](https://open.spotify.com/album/4v62Z1xy3JgUDdkSX1o5uR) | 2:39 | 2025-08-22 | 2025-10-11 |
-| [I'll Take Care Of U \(ITCOU\)](https://open.spotify.com/track/3g3w1cpcgFS6QEPrjfAAZn) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [I’ll Take Care Of U \(ITCOU\)](https://open.spotify.com/album/4BMkaqDj1ckCqsD5smAuhp) | 2:55 | 2026-07-03 |  |
+| [I'll Take Care Of U \(ITCOFU\)](https://open.spotify.com/track/3g3w1cpcgFS6QEPrjfAAZn) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [I’ll Take Care Of U \(ITCOFU\)](https://open.spotify.com/album/4BMkaqDj1ckCqsD5smAuhp) | 2:55 | 2026-07-03 |  |
 | [I'll Wait](https://open.spotify.com/track/38uLRBIowmayjrfduOFMUR) | [Navah Sea](https://open.spotify.com/artist/1QK7WlnCYAuHfD0IhoOZRQ), [Braxton Cook](https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1), [Saxton Chef](https://open.spotify.com/artist/6QqNK27blYFBaRi02iBtpb) | [What Do I Know Now?](https://open.spotify.com/album/4fOIsRho2q50YI70aeoMQu) | 2:18 | 2026-05-08 | 2026-06-20 |
 | [I'm Different](https://open.spotify.com/track/1KWEKSKgk6EyocPJpFwiny) | [Debbie](https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17) | [I'm Different](https://open.spotify.com/album/1W96GSCp4z2S8Mt5NA2Is2) | 2:55 | 2023-10-13 | 2023-12-02 |
 | [i'm dying to feel alive again](https://open.spotify.com/track/42Da0ZgrRiEjL43AllfTsZ) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [i'm dying to feel alive again](https://open.spotify.com/album/5ufnHQcMuJYrjIafstJ9of) | 4:29 | 2026-03-13 | 2026-04-25 |
@@ -3290,6 +3290,7 @@
 | [MORE THAN SORRY](https://open.spotify.com/track/1PPU73L2zCaInN9gZgWl0p) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [STREETS SAY YOU MISS ME](https://open.spotify.com/album/3z1Cfd5yKzigwSGPrWBmKH) | 2:30 | 2023-11-03 | 2024-01-13 |
 | [More Than Twice](https://open.spotify.com/track/6Jy9uF2uWIWVwgtWkT2yGm) | [Cynthia Erivo](https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ) | [I Forgive You](https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj) | 4:33 | 2025-06-06 | 2025-08-16 |
 | [More To Life](https://open.spotify.com/track/2di2qSAA7hEcLQBfaG41CX) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [Galimatias](https://open.spotify.com/artist/0tOrKkXIn3VYyVHFEPG6Xd) | [Urban Flora: Lost Sequels](https://open.spotify.com/album/1VCLPkPtFtMgpaOC1eyDXq) | 3:34 | 2025-10-10 | 2025-11-08 |
+| [MORNING DEW \(DONK\)](https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MORNING DEW \(DONK\)](https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ) | 4:03 | 2026-07-04 |  |
 | [Morning Sun](https://open.spotify.com/track/0cwLtV7yPLzKiwoW127yI6) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Morning Sun](https://open.spotify.com/album/2BEwMPJt8cnQpR9MyKDaBv) | 3:09 | 2024-05-10 | 2024-06-22 |
 | [MORTAL KOMBAT](https://open.spotify.com/track/2mJ3GtJzImwlmucY5Ffrno) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7) | [MORTAL KOMBAT](https://open.spotify.com/album/6gOjy2B2NiAGiqPlVAKnTs) | 2:55 | 2025-03-14 | 2025-04-19 |
 | [Most Beautiful Design \(feat\. London On Da Track & Future\)](https://open.spotify.com/track/4trOnPnDeFU0jU8qa5i9xX) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Most Beautiful Design](https://open.spotify.com/album/0eaTNeeKhIEHA1SQ0nJjby) | 3:39 | 2024-10-18 | 2024-12-07 |

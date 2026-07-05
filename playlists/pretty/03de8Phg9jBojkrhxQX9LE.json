@@ -1,12 +1,12 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 22135,
+  "num_followers": 22141,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
     "url": "https://open.spotify.com/user/browniesandlemonade"
   },
-  "snapshot_id": "AAAKhqHirMoVfcQnt72fIi4fwE/utbji",
+  "snapshot_id": "AAAKijDLCmDGJPgQGx2hZVmo3S1K4G3n",
   "tracks": [
     {
       "added_at": "2026-07-03 17:56:43",
@@ -171,6 +171,26 @@
       "duration_ms": 212571,
       "name": "Forever & Always",
       "url": "https://open.spotify.com/track/0nLGprBGH6Znj5CzRHdBpX"
+    },
+    {
+      "added_at": "2026-07-04 17:28:44",
+      "album": {
+        "name": "fall in love",
+        "url": "https://open.spotify.com/album/4BxpNEbebuU11QYI22ORAC"
+      },
+      "artists": [
+        {
+          "name": "yaego",
+          "url": "https://open.spotify.com/artist/3F5cNbKjtYHvv43yu5BhKp"
+        },
+        {
+          "name": "jsn",
+          "url": "https://open.spotify.com/artist/4x7PqXEtmz3dDmITCIhFfj"
+        }
+      ],
+      "duration_ms": 176993,
+      "name": "fall in love",
+      "url": "https://open.spotify.com/track/5yMFw717iqdeSNInT5MYar"
     },
     {
       "added_at": "2026-07-03 17:56:43",
@@ -379,7 +399,7 @@
     {
       "added_at": "2026-07-03 17:56:43",
       "album": {
-        "name": "Last October (Remix)",
+        "name": "Last October (Harry Hayes Remix)",
         "url": "https://open.spotify.com/album/6NWR1LDtue2wigQmSs0OrV"
       },
       "artists": [
@@ -393,7 +413,7 @@
         }
       ],
       "duration_ms": 220226,
-      "name": "Last October - Remix",
+      "name": "Last October - Harry Hayes Remix",
       "url": "https://open.spotify.com/track/75SK5N19V2ZiYWzbWtfxYu"
     },
     {
@@ -2879,22 +2899,6 @@
     {
       "added_at": "2026-06-12 18:05:30",
       "album": {
-        "name": "MONEY MONEY",
-        "url": "https://open.spotify.com/album/3M7IvgXChvQOfYkkFI3YyJ"
-      },
-      "artists": [
-        {
-          "name": "MAAD WEST",
-          "url": "https://open.spotify.com/artist/5isGhqrVP1gZt373QsyHPT"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "MONEY MONEY",
-      "url": "https://open.spotify.com/track/6FzHMy0QfqjDi5jf7Y3Z95"
-    },
-    {
-      "added_at": "2026-06-12 18:05:30",
-      "album": {
         "name": "AFTERLIFE vol.1",
         "url": "https://open.spotify.com/album/1ZQPNPjhXWytdnrieIKfPH"
       },
@@ -2927,6 +2931,22 @@
       "duration_ms": 128372,
       "name": "swim",
       "url": "https://open.spotify.com/track/2akc1GIdKDKRGqErr10LLe"
+    },
+    {
+      "added_at": "2026-06-12 18:05:30",
+      "album": {
+        "name": "MONEY MONEY",
+        "url": "https://open.spotify.com/album/3M7IvgXChvQOfYkkFI3YyJ"
+      },
+      "artists": [
+        {
+          "name": "MAAD WEST",
+          "url": "https://open.spotify.com/artist/5isGhqrVP1gZt373QsyHPT"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "MONEY MONEY",
+      "url": "https://open.spotify.com/track/6FzHMy0QfqjDi5jf7Y3Z95"
     }
   ],
   "unique_name": "B&L Fresh Batch Friday",

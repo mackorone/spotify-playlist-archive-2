@@ -1,6 +1,6 @@
 {
   "description": "Yeni favori sanat\u00e7\u0131n\u0131 ke\u015ffet \u26a1 Kapak: Radikal",
-  "num_followers": 72515,
+  "num_followers": 72518,
   "original_name": "Ke\u015fif",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-06-18 21:00:54",
       "album": {
+        "name": "\u00dc\u015f\u00fcmem Ondan De\u011fil",
+        "url": "https://open.spotify.com/album/0aPIOBbZ2yppejBnlc4OKN"
+      },
+      "artists": [
+        {
+          "name": "DOU",
+          "url": "https://open.spotify.com/artist/2J8Nce1x2zTbkW3RCXCYtn"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "\u00dc\u015f\u00fcmem Ondan De\u011fil",
+      "url": "https://open.spotify.com/track/6xjyNZ9yjxGenZaiMDM4lg"
+    },
+    {
+      "added_at": "2026-06-18 21:00:54",
+      "album": {
         "name": "Sev Onu",
         "url": "https://open.spotify.com/album/6vwju4Wj1uVDxVszffkH0X"
       },
@@ -943,6 +959,22 @@
     {
       "added_at": "2026-06-18 21:00:54",
       "album": {
+        "name": "Gitti\u011finden Beri",
+        "url": "https://open.spotify.com/album/76tZW6wowp0N0dAYUBxUG7"
+      },
+      "artists": [
+        {
+          "name": "Bade",
+          "url": "https://open.spotify.com/artist/0PtAztBAwJWdQD5BABZKtz"
+        }
+      ],
+      "duration_ms": 166092,
+      "name": "Gitti\u011finden Beri",
+      "url": "https://open.spotify.com/track/7Ku9AxEP7ASDRWhu8U32wB"
+    },
+    {
+      "added_at": "2026-06-18 21:00:54",
+      "album": {
         "name": "\u0130yile\u015fece\u011fim",
         "url": "https://open.spotify.com/album/00v0CYn3iF7QsvIE98cqT7"
       },
@@ -955,22 +987,6 @@
       "duration_ms": 215967,
       "name": "\u0130yile\u015fece\u011fim",
       "url": "https://open.spotify.com/track/02758HG3FuHb9YadfpaKge"
-    },
-    {
-      "added_at": "2026-06-18 21:00:54",
-      "album": {
-        "name": "\u00dc\u015f\u00fcmem Ondan De\u011fil",
-        "url": "https://open.spotify.com/album/0aPIOBbZ2yppejBnlc4OKN"
-      },
-      "artists": [
-        {
-          "name": "DOU",
-          "url": "https://open.spotify.com/artist/2J8Nce1x2zTbkW3RCXCYtn"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "\u00dc\u015f\u00fcmem Ondan De\u011fil",
-      "url": "https://open.spotify.com/track/6xjyNZ9yjxGenZaiMDM4lg"
     },
     {
       "added_at": "2026-06-18 21:00:54",
@@ -1007,34 +1023,18 @@
     {
       "added_at": "2026-06-18 21:00:54",
       "album": {
-        "name": "Gitti\u011finden Beri",
-        "url": "https://open.spotify.com/album/76tZW6wowp0N0dAYUBxUG7"
+        "name": "Yana Yana",
+        "url": "https://open.spotify.com/album/1Yng9AITulVtHIUTNFDoRW"
       },
       "artists": [
         {
-          "name": "Bade",
-          "url": "https://open.spotify.com/artist/0PtAztBAwJWdQD5BABZKtz"
+          "name": "Polen",
+          "url": "https://open.spotify.com/artist/3l78tHbr4raiOhKaZffRyl"
         }
       ],
-      "duration_ms": 166092,
-      "name": "Gitti\u011finden Beri",
-      "url": "https://open.spotify.com/track/7Ku9AxEP7ASDRWhu8U32wB"
-    },
-    {
-      "added_at": "2026-06-18 21:00:54",
-      "album": {
-        "name": "Yanar",
-        "url": "https://open.spotify.com/album/00DEcLmtiAJp0IBPNso9ig"
-      },
-      "artists": [
-        {
-          "name": "Hakan Kurta\u015f",
-          "url": "https://open.spotify.com/artist/6Xlyzd1m2TgzYrQMg6itHt"
-        }
-      ],
-      "duration_ms": 205696,
-      "name": "Yanar",
-      "url": "https://open.spotify.com/track/5bsYpOr87XJVXeuFL4paDn"
+      "duration_ms": 147169,
+      "name": "Yana Yana",
+      "url": "https://open.spotify.com/track/372o63OFKXAni65PUS3IOu"
     },
     {
       "added_at": "2026-06-18 21:00:54",
@@ -1051,6 +1051,22 @@
       "duration_ms": 181894,
       "name": "Ah\u0131m Olsun",
       "url": "https://open.spotify.com/track/73ZR1sekgo3fROlSSgfFug"
+    },
+    {
+      "added_at": "2026-06-18 21:00:54",
+      "album": {
+        "name": "Yanar",
+        "url": "https://open.spotify.com/album/00DEcLmtiAJp0IBPNso9ig"
+      },
+      "artists": [
+        {
+          "name": "Hakan Kurta\u015f",
+          "url": "https://open.spotify.com/artist/6Xlyzd1m2TgzYrQMg6itHt"
+        }
+      ],
+      "duration_ms": 205696,
+      "name": "Yanar",
+      "url": "https://open.spotify.com/track/5bsYpOr87XJVXeuFL4paDn"
     },
     {
       "added_at": "2026-06-18 21:00:54",
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2026-06-18 21:00:54",
       "album": {
-        "name": "Yana Yana",
-        "url": "https://open.spotify.com/album/1Yng9AITulVtHIUTNFDoRW"
+        "name": "G\u00fcn Batarken",
+        "url": "https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF"
       },
       "artists": [
         {
-          "name": "Polen",
-          "url": "https://open.spotify.com/artist/3l78tHbr4raiOhKaZffRyl"
+          "name": "Ayberk Serin",
+          "url": "https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF"
         }
       ],
-      "duration_ms": 147169,
-      "name": "Yana Yana",
-      "url": "https://open.spotify.com/track/372o63OFKXAni65PUS3IOu"
+      "duration_ms": 173382,
+      "name": "G\u00fcn Batarken",
+      "url": "https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1"
     },
     {
       "added_at": "2026-06-18 21:00:54",
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2026-06-18 21:00:54",
       "album": {
-        "name": "G\u00fcn Batarken",
-        "url": "https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF"
+        "name": "Davet",
+        "url": "https://open.spotify.com/album/6C4En9YDneqoA0hECVCnXx"
       },
       "artists": [
         {
-          "name": "Ayberk Serin",
-          "url": "https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF"
+          "name": "Ege Can Sal",
+          "url": "https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX"
         }
       ],
-      "duration_ms": 173382,
-      "name": "G\u00fcn Batarken",
-      "url": "https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1"
+      "duration_ms": 152307,
+      "name": "Davet",
+      "url": "https://open.spotify.com/track/6fXHnrfJqw3duhbf0PvrG0"
     },
     {
       "added_at": "2026-06-18 21:00:54",
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2026-06-18 21:00:54",
       "album": {
-        "name": "Davet",
-        "url": "https://open.spotify.com/album/6C4En9YDneqoA0hECVCnXx"
-      },
-      "artists": [
-        {
-          "name": "Ege Can Sal",
-          "url": "https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX"
-        }
-      ],
-      "duration_ms": 152307,
-      "name": "Davet",
-      "url": "https://open.spotify.com/track/6fXHnrfJqw3duhbf0PvrG0"
-    },
-    {
-      "added_at": "2026-06-18 21:00:54",
-      "album": {
         "name": "Kol Kola",
         "url": "https://open.spotify.com/album/43L7GZ1lz1RzsT89OtW2Qp"
       },
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-06-18 21:00:54",
       "album": {
-        "name": "zalim",
-        "url": "https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv"
-      },
-      "artists": [
-        {
-          "name": "\u00c7odur",
-          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
-        }
-      ],
-      "duration_ms": 130060,
-      "name": "zalim",
-      "url": "https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC"
-    },
-    {
-      "added_at": "2026-06-18 21:00:54",
-      "album": {
         "name": "Harabeyim",
         "url": "https://open.spotify.com/album/3NoyGdQPzxEGF3roKzLosS"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 178000,
       "name": "Harabeyim",
       "url": "https://open.spotify.com/track/3DilVCaqB9uWCXreTAJvjG"
+    },
+    {
+      "added_at": "2026-06-18 21:00:54",
+      "album": {
+        "name": "zalim",
+        "url": "https://open.spotify.com/album/678tSoWkxSECUbSI23Ocxv"
+      },
+      "artists": [
+        {
+          "name": "\u00c7odur",
+          "url": "https://open.spotify.com/artist/2qc9hUbCzCqU3svfjrs1Tg"
+        }
+      ],
+      "duration_ms": 130060,
+      "name": "zalim",
+      "url": "https://open.spotify.com/track/1hfeCUFMbRuTGH1e14LBYC"
     },
     {
       "added_at": "2026-06-18 21:00:54",

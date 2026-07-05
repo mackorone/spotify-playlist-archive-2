@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Lina\-Mariah
 
-2,142 songs - 5 day 4 hr 40 min
+2,144 songs - 5 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [A Room Up In The Sky \(feat\. The Marías\)](https://open.spotify.com/album/0S4c1T8qWm1ZnCUj9edQq2) | 2:45 | 2023-12-14 | 2023-12-22 |
 | [A Vineyard for the North](https://open.spotify.com/track/3xZAvU8o7EDJzFKBy9mvlg) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Where’s My Utopia?](https://open.spotify.com/album/1mRX6QPV832KdiDhsdOb09) | 5:03 | 2024-02-29 | 2024-05-10 |
 | [A Vineyard for the North](https://open.spotify.com/track/5hBUhTczqTowWOpRLU7mZg) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Where’s My Utopia?](https://open.spotify.com/album/34UIFF2mDOl7JN0QdmMjPg) | 5:03 | 2024-04-05 | 2024-04-19 |
+| [About You](https://open.spotify.com/track/3m4YAWyI7QypBz2qBUQCOO) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Dear God](https://open.spotify.com/album/3sE3S6k6OA1UXWMKQEiaDY) | 4:36 | 2026-07-03 |  |
 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-03-28 | 2026-03-13 |
 | [Acervation](https://open.spotify.com/track/1WDBTG5GxhEqETVuOlyESU) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [Acervation](https://open.spotify.com/album/5HGJXHbUXFfMXwHdwjFanD) | 3:49 | 2023-10-12 | 2023-10-27 |
 | [Act Of God](https://open.spotify.com/track/4txZfRFchA3Ry0qfDGKrEQ) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Act Of God](https://open.spotify.com/album/6w3SdiAuavZUFkBBTcPJ57) | 3:21 | 2024-02-29 | 2024-04-19 |
@@ -554,6 +555,7 @@
 | [Drag Me](https://open.spotify.com/track/459NVRkYEftpuwkmSH1U1H) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Drag Me](https://open.spotify.com/album/51cx1iKhj118oEWzs5QlKj) | 3:06 | 2025-12-11 | 2026-03-06 |
 | [Drag Me Down](https://open.spotify.com/track/3gaBzfwXHucIPYESXsV73c) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [Drag Me Down](https://open.spotify.com/album/116sA1mfbXdz1TmkHffJX4) | 3:16 | 2023-08-10 | 2023-08-18 |
 | [Drag Path](https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Drag Path](https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo) | 3:44 | 2026-02-19 |  |
+| [Dream On](https://open.spotify.com/track/648HgjnfsGe0e1SHa05kFS) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Dream On](https://open.spotify.com/album/3S6frb3H1t4O1dE2roKbWD) | 4:22 | 2026-07-03 |  |
 | [Dream Team](https://open.spotify.com/track/5ztSnpPMlfPUQqZs38Yscn) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Dream Team](https://open.spotify.com/album/2LRJ42zLV2WvZbQ5T8dIrQ) | 3:08 | 2025-09-25 | 2025-10-15 |
 | [Drift](https://open.spotify.com/track/2DrqXZDc4SUKXp0nkRn9ze) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Drift](https://open.spotify.com/album/4UbbEC1bDQEBol2DLR2eGi) | 4:24 | 2023-04-06 | 2023-04-14 |
 | [Drifting](https://open.spotify.com/track/6dZ0nsuT3rtAnhl9b93IEY) | [Corella](https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe) | [Drifting](https://open.spotify.com/album/3lt2n3wIE0XIRT2XXgo9nn) | 3:07 | 2024-02-08 | 2024-02-16 |
@@ -743,7 +745,7 @@
 | [Glorious](https://open.spotify.com/track/670fDWKpqkG8uwT0rKYwjp) | [SAINT PHNX](https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk) | [Glorious](https://open.spotify.com/album/49BkCKiRXVi1Oreyafvnuy) | 3:15 | 2023-12-28 | 2024-01-05 |
 | [GLORIOUS 70](https://open.spotify.com/track/2mdj2hVUfM1hrXyIAITvV0) | [松本孝弘](https://open.spotify.com/artist/085eXdPFuMTWEuivrLnXAr) | [GLORIOUS 70](https://open.spotify.com/album/583osM5zs1Hlqn7IzXYQKt) | 4:05 | 2024-05-09 | 2024-05-17 |
 | [Glorious Day](https://open.spotify.com/track/3hJpl7GUqYf1oozozdExrl) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [Glorious Day](https://open.spotify.com/album/0T5vrhvhQFSgQ6a6Mbmw2j) | 2:53 | 2024-02-15 | 2024-02-23 |
-| [Go Fuck Urself](https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Go Fuck Urself](https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK) | 3:05 | 2026-05-14 |  |
+| [Go Fuck Urself](https://open.spotify.com/track/6Jr1FqvrGFjYJgUzaS8CGP) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Go Fuck Urself](https://open.spotify.com/album/1CSwkTzRL7N09creQhzIuK) | 3:05 | 2026-05-14 | 2026-07-05 |
 | [GO GO GO](https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [GO GO GO](https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S) | 2:25 | 2023-08-03 | 2023-09-02 |
 | [Go Man Go](https://open.spotify.com/track/4gC9PZqUSZbfzm8LEygxZD) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Go Man Go](https://open.spotify.com/album/0NIscR0RzlDtKmHFR3ya1s) | 2:16 | 2023-06-30 | 2023-07-07 |
 | [GO WASTE MY TIME](https://open.spotify.com/track/7DFfCiPrHqsI0Qa1qFDu33) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [GLORY \(Deluxe\)](https://open.spotify.com/album/7MIsmUZTR5rR4jYZbOGXFV) | 2:55 | 2026-04-23 | 2026-05-01 |
@@ -920,7 +922,7 @@
 | [I'm The Man](https://open.spotify.com/track/1PAg9GImCAvBOEDfwJ5q6S) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [I'm The Man](https://open.spotify.com/album/2X5cSIk8D9n7iwKcRVQ61e) | 4:01 | 2023-07-06 | 2023-07-14 |
 | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/track/23T2c9QnEWy9PvkeDLhHRS) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [I'm With The Band \(feat\. Beck\)](https://open.spotify.com/album/2ZwtjZD39nAQ9yXMi4ZA9G) | 2:55 | 2024-10-31 | 2024-12-11 |
 | [icantbelieveiletyougetaway](https://open.spotify.com/track/0QbNbtwJvvqxRxNUYUoMRM) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [icantbelieveiletyougetaway](https://open.spotify.com/album/4gHGMtnZCgVrTX8j7ccWOM) | 2:15 | 2024-06-20 | 2024-08-21 |
-| [Icarus](https://open.spotify.com/track/3WKgc30jlMOs6iJB7rOPpZ) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Icarus](https://open.spotify.com/album/3QjSKOqpzIVjUbBNYLiwde) | 3:27 | 2026-04-30 |  |
+| [Icarus](https://open.spotify.com/track/3WKgc30jlMOs6iJB7rOPpZ) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Icarus](https://open.spotify.com/album/3QjSKOqpzIVjUbBNYLiwde) | 3:27 | 2026-04-30 | 2026-07-05 |
 | [IDGAF](https://open.spotify.com/track/3OcUXeWXI3dStj4EQotJoB) | [Short Stack](https://open.spotify.com/artist/0EdNPfEHC714LHuN0NPIyU) | [IDGAF](https://open.spotify.com/album/78BenUPiBj9XK93B1PO7pt) | 2:22 | 2023-11-23 | 2023-12-01 |
 | [Idiot Box](https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Sharon Van Etten & The Attachment Theory](https://open.spotify.com/album/5aGKc7OL3d1aJodCG2747F) | 4:10 | 2025-02-06 | 2025-04-04 |
 | [IDK](https://open.spotify.com/track/6lICgc3vK1QkbcHv3mAJo8) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [IDK](https://open.spotify.com/album/17Zgvhn2Vcxna3qcf8s5Ps) | 3:20 | 2026-01-15 | 2026-02-13 |

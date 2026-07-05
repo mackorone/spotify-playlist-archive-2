@@ -168,7 +168,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 145105,
       "name": "AMEN",
       "url": "https://open.spotify.com/track/3ly60iOVqcsdtlMhQ8FcE1"
@@ -338,7 +338,7 @@
       ],
       "date_added": "2020-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 281272,
       "name": "BLACK PARADE",
       "url": "https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 210372,
       "name": "COZY",
       "url": "https://open.spotify.com/track/0mKGwFMHzTprtS2vpR3b6s"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2020-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 377466,
       "name": "Dance for You",
       "url": "https://open.spotify.com/track/7cvkXf3AwPGT041PyOi5VX"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 116727,
       "name": "ENERGY (feat. Beam)",
       "url": "https://open.spotify.com/track/0314PeD1sQNonfVWix3B2K"
@@ -840,7 +840,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 100364,
       "name": "FLAMENCO",
       "url": "https://open.spotify.com/track/3B7EZgquNKHrSIo2tEc8mK"
@@ -956,7 +956,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 260770,
       "name": "HEATED",
       "url": "https://open.spotify.com/track/1w7cgGZR86yWz1pA2puVJD"
@@ -992,7 +992,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 208014,
       "name": "I'M THAT GIRL",
       "url": "https://open.spotify.com/track/1MpCaOeUWhox2Fgigbe1cL"
@@ -1122,7 +1122,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 189638,
       "name": "JOLENE",
       "url": "https://open.spotify.com/track/2PmMh2t7jAtN6cqFooA0Xy"
@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2020-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 90815,
       "name": "Lose My Breath (feat. Kelly Rowland & Michelle Williams) - Homecoming Live",
       "url": "https://open.spotify.com/track/716IzgeD9yjfCiZuG9aG4i"
@@ -1424,6 +1424,24 @@
       "duration_ms": 209733,
       "name": "Mi Gente (feat. Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/7fwXWKdDNI5IutOMc5OKYw"
+    },
+    {
+      "album": {
+        "name": "MORNING DEW (DONK)",
+        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2026-07-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243896,
+      "name": "MORNING DEW (DONK)",
+      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
     },
     {
       "album": {
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2020-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 257653,
       "name": "Pretty Hurts",
       "url": "https://open.spotify.com/track/7lUA4P03AhwAw40JHkdyGr"
@@ -1598,7 +1616,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 184399,
       "name": "PROTECTOR",
       "url": "https://open.spotify.com/track/4dsdSwSdBWjlsVzU6iJs3b"
@@ -1616,7 +1634,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 288254,
       "name": "PURE/HONEY",
       "url": "https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo"
@@ -1634,7 +1652,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 251986,
       "name": "RIIVERDANCE",
       "url": "https://open.spotify.com/track/0TsCBkrq3owPs06HP5Q9Z4"
@@ -1722,7 +1740,7 @@
       ],
       "date_added": "2020-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 283253,
       "name": "Shining (feat. Beyonc\u00e9 & JAY-Z)",
       "url": "https://open.spotify.com/track/3OoZagIW3YK8vjt0ws6NOI"
@@ -1864,7 +1882,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 273997,
       "name": "SUMMER RENAISSANCE",
       "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"

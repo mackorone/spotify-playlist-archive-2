@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes fran\u00e7ais des ann\u00e9es 70. Photo : Dalida",
-  "num_followers": 128147,
+  "num_followers": 128177,
   "original_name": "Tubes Fran\u00e7ais 70",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2025-12-28 17:29:00",
       "album": {
+        "name": "Le Chasseur",
+        "url": "https://open.spotify.com/album/6cmLF1Ryo6jQTLLSyREabH"
+      },
+      "artists": [
+        {
+          "name": "Michel Delpech",
+          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
+        }
+      ],
+      "duration_ms": 184800,
+      "name": "Le chasseur (Les oies sauvages)",
+      "url": "https://open.spotify.com/track/1cbEUq5Rwe9LLFQyPKxurl"
+    },
+    {
+      "added_at": "2025-12-28 17:29:00",
+      "album": {
         "name": "Starmania (Remasteris\u00e9 en 2009)",
         "url": "https://open.spotify.com/album/1KfEKYPClCYGHtJWTi6PCQ"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 220533,
       "name": "J'ai encore r\u00eav\u00e9 d'elle",
       "url": "https://open.spotify.com/track/6aV2qifrzZkfT2PW3gsWDE"
-    },
-    {
-      "added_at": "2025-12-28 17:29:00",
-      "album": {
-        "name": "Le Chasseur",
-        "url": "https://open.spotify.com/album/6cmLF1Ryo6jQTLLSyREabH"
-      },
-      "artists": [
-        {
-          "name": "Michel Delpech",
-          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
-        }
-      ],
-      "duration_ms": 184800,
-      "name": "Le chasseur (Les oies sauvages)",
-      "url": "https://open.spotify.com/track/1cbEUq5Rwe9LLFQyPKxurl"
     },
     {
       "added_at": "2025-12-28 17:29:00",

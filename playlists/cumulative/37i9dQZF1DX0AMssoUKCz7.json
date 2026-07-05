@@ -6772,7 +6772,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 143040,
       "name": "In My Way",
       "url": "https://open.spotify.com/track/1XrpbLvm4drbdpIRGd9uhr"
@@ -16468,6 +16468,24 @@
       "duration_ms": 219391,
       "name": "You Got The Love",
       "url": "https://open.spotify.com/track/5lcJJ2GAzXeci2r2xMY8A8"
+    },
+    {
+      "album": {
+        "name": "Burning Up EP",
+        "url": "https://open.spotify.com/album/0BaMRGO3uK8zIa6SESoVjq"
+      },
+      "artists": [
+        {
+          "name": "Bobby & Djenko",
+          "url": "https://open.spotify.com/artist/66FPEh7FWHOM30bckLmOux"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227006,
+      "name": "You Make Me Feel Alive",
+      "url": "https://open.spotify.com/track/7qyyRciWnIXp1Bv56xnFrm"
     },
     {
       "album": {

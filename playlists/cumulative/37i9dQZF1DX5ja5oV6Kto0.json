@@ -2077,6 +2077,24 @@
     },
     {
       "album": {
+        "name": "BE",
+        "url": "https://open.spotify.com/album/6A8NgDp8BJR3tZEi268RiP"
+      },
+      "artists": [
+        {
+          "name": "Amaeya",
+          "url": "https://open.spotify.com/artist/7LBhTlMPyB6xjAr8muuR56"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "BE",
+      "url": "https://open.spotify.com/track/2RMChoPeNN7CaPUD4QfsED"
+    },
+    {
+      "album": {
         "name": "Be Easy",
         "url": "https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl"
       },
@@ -3278,6 +3296,54 @@
       "duration_ms": 137283,
       "name": "Burn",
       "url": "https://open.spotify.com/track/1szzOfnQAV9sbNnvtdClJh"
+    },
+    {
+      "album": {
+        "name": "TAKE RISKS AND PROSPER",
+        "url": "https://open.spotify.com/album/0VkxkZMbjH8NrSLllbFUN7"
+      },
+      "artists": [
+        {
+          "name": "Napoleon TBFI",
+          "url": "https://open.spotify.com/artist/2aknrsRYgCKgQo3VQRILoE"
+        },
+        {
+          "name": "Zen Univrse",
+          "url": "https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155844,
+      "name": "BURTI RIDDIM (RAGER 77)",
+      "url": "https://open.spotify.com/track/2vH4kipt6yqoYnItS3MDRb"
+    },
+    {
+      "album": {
+        "name": "Burtifly",
+        "url": "https://open.spotify.com/album/0Dzx6g6v2rK8Pem6xfmZz5"
+      },
+      "artists": [
+        {
+          "name": "Mamuzo",
+          "url": "https://open.spotify.com/artist/1igmgiNroMhNQQx9Rp4uoI"
+        },
+        {
+          "name": "Zen Univrse",
+          "url": "https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl"
+        },
+        {
+          "name": "14H",
+          "url": "https://open.spotify.com/artist/0kF0ltH5Z5zxPWChKK6Ou2"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "Burtifly",
+      "url": "https://open.spotify.com/track/0S5aODPPgma3x9nEfxfKS1"
     },
     {
       "album": {
@@ -7240,7 +7306,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 174466,
       "name": "Follow Follow (feat. Deela & Paxslim)",
       "url": "https://open.spotify.com/track/7mJACMFhTNQHae48V6L6g4"
@@ -7374,7 +7440,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 148800,
       "name": "Format",
       "url": "https://open.spotify.com/track/1QPucGEaFM7i3Z9Tm0voim"
@@ -14430,7 +14496,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 192000,
       "name": "Novacaine",
       "url": "https://open.spotify.com/track/6lkYy8wRZiVOp33BgyiXMu"
@@ -16879,6 +16945,28 @@
     },
     {
       "album": {
+        "name": "Little Us",
+        "url": "https://open.spotify.com/album/2LV09CJsc3g7pf5IiODyB4"
+      },
+      "artists": [
+        {
+          "name": "EKENE",
+          "url": "https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP"
+        },
+        {
+          "name": "Braye",
+          "url": "https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172303,
+      "name": "Relations (feat. Braye)",
+      "url": "https://open.spotify.com/track/017OPL77HUwYyPONagEQ2E"
+    },
+    {
+      "album": {
         "name": "RELOAD X NO CAP",
         "url": "https://open.spotify.com/album/107Z1g0gYhZWLi2NFfhhVv"
       },
@@ -17026,7 +17114,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 128399,
       "name": "Rewind (feat. Boj, Smada & Genio Bambino)",
       "url": "https://open.spotify.com/track/1IupBattMLqPdJBGWQt4bW"

@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 1069158,
+  "num_followers": 1069258,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,26 @@
     {
       "added_at": "2026-07-03 04:00:44",
       "album": {
+        "name": "You Are My High",
+        "url": "https://open.spotify.com/album/5s2iFBMZSNVZLodUvlJMKk"
+      },
+      "artists": [
+        {
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+        },
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "You Are My High",
+      "url": "https://open.spotify.com/track/5casx9bgvIoxPJ4jN6cLfX"
+    },
+    {
+      "added_at": "2026-07-03 04:00:44",
+      "album": {
         "name": "So Good (feat. Kuuda)",
         "url": "https://open.spotify.com/album/5bbz0vL4jSp7q9qpKo7UU8"
       },
@@ -275,26 +295,6 @@
       "duration_ms": 183809,
       "name": "So Good (feat. Kuuda)",
       "url": "https://open.spotify.com/track/6CR63qhTJnek9DDejDemiY"
-    },
-    {
-      "added_at": "2026-07-03 04:00:44",
-      "album": {
-        "name": "You Are My High",
-        "url": "https://open.spotify.com/album/5s2iFBMZSNVZLodUvlJMKk"
-      },
-      "artists": [
-        {
-          "name": "MAXI MERAKI",
-          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
-        },
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "You Are My High",
-      "url": "https://open.spotify.com/track/5casx9bgvIoxPJ4jN6cLfX"
     },
     {
       "added_at": "2026-07-03 04:00:44",
@@ -367,38 +367,6 @@
     {
       "added_at": "2026-07-03 04:00:44",
       "album": {
-        "name": "ten days",
-        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Duskus",
-          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        },
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        }
-      ],
-      "duration_ms": 453068,
-      "name": "glow",
-      "url": "https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc"
-    },
-    {
-      "added_at": "2026-07-03 04:00:44",
-      "album": {
         "name": "Neverender (Rampa Remix)",
         "url": "https://open.spotify.com/album/5Yd3nNyeFQa0CcYCMV8IUa"
       },
@@ -427,18 +395,34 @@
     {
       "added_at": "2026-07-03 04:00:44",
       "album": {
-        "name": "Hold It Down (DARE)",
-        "url": "https://open.spotify.com/album/4GkbVNXOcQFtpClXpBaqSm"
+        "name": "ten days",
+        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
       },
       "artists": [
         {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Duskus",
+          "url": "https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Joy Anonymous",
+          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         }
       ],
-      "duration_ms": 226771,
-      "name": "Hold It Down (DARE)",
-      "url": "https://open.spotify.com/track/20Roe0czA0RVSwYhtRIFcz"
+      "duration_ms": 453068,
+      "name": "glow",
+      "url": "https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc"
     },
     {
       "added_at": "2026-07-03 04:00:44",
@@ -483,6 +467,22 @@
       "duration_ms": 250577,
       "name": "In the Moment - Adriatique Remix",
       "url": "https://open.spotify.com/track/6YmTRcr74slEya3cvMsR6y"
+    },
+    {
+      "added_at": "2026-07-03 04:00:44",
+      "album": {
+        "name": "Hold It Down (DARE)",
+        "url": "https://open.spotify.com/album/4GkbVNXOcQFtpClXpBaqSm"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 226771,
+      "name": "Hold It Down (DARE)",
+      "url": "https://open.spotify.com/track/20Roe0czA0RVSwYhtRIFcz"
     },
     {
       "added_at": "2026-07-03 04:00:44",
@@ -639,6 +639,30 @@
     {
       "added_at": "2026-07-03 04:00:44",
       "album": {
+        "name": "Slow Motion",
+        "url": "https://open.spotify.com/album/7b2xbeiyfj5UsT4G06ac8G"
+      },
+      "artists": [
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        },
+        {
+          "name": "Lilly",
+          "url": "https://open.spotify.com/artist/4d6vYcZhMIvOLuCHA7Y6Wb"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/1wF9Iw4lkksoUg55kCsiPm"
+    },
+    {
+      "added_at": "2026-07-03 04:00:44",
+      "album": {
         "name": "NEWORLD II",
         "url": "https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK"
       },
@@ -687,30 +711,6 @@
       "duration_ms": 211875,
       "name": "ABOUT YOU",
       "url": "https://open.spotify.com/track/3WtsCUlsCUhmhHRY7gh97V"
-    },
-    {
-      "added_at": "2026-07-03 04:00:44",
-      "album": {
-        "name": "Slow Motion",
-        "url": "https://open.spotify.com/album/7b2xbeiyfj5UsT4G06ac8G"
-      },
-      "artists": [
-        {
-          "name": "Lynnic",
-          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
-        },
-        {
-          "name": "ItsArius",
-          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
-        },
-        {
-          "name": "Lilly",
-          "url": "https://open.spotify.com/artist/4d6vYcZhMIvOLuCHA7Y6Wb"
-        }
-      ],
-      "duration_ms": 166666,
-      "name": "Slow Motion",
-      "url": "https://open.spotify.com/track/1wF9Iw4lkksoUg55kCsiPm"
     },
     {
       "added_at": "2026-07-03 04:00:44",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-07-03 04:00:44",
       "album": {
-        "name": "Rivers and Homes Retake",
-        "url": "https://open.spotify.com/album/2E2yEEkQgFrHpYubtzTICD"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "J.Views",
-          "url": "https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ"
-        }
-      ],
-      "duration_ms": 265511,
-      "name": "Rivers and Homes Retake",
-      "url": "https://open.spotify.com/track/27yxfXtOHaPkytNz0P2HoL"
-    },
-    {
-      "added_at": "2026-07-03 04:00:44",
-      "album": {
         "name": "Saga",
         "url": "https://open.spotify.com/album/6ooAO2z9UPfC2Rz1c9x52h"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 336000,
       "name": "Saga",
       "url": "https://open.spotify.com/track/1uujki6DaepMXtCRv4ySKi"
+    },
+    {
+      "added_at": "2026-07-03 04:00:44",
+      "album": {
+        "name": "Rivers and Homes Retake",
+        "url": "https://open.spotify.com/album/2E2yEEkQgFrHpYubtzTICD"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "J.Views",
+          "url": "https://open.spotify.com/artist/54l5FjSx6OSPe2Qv9g4LjQ"
+        }
+      ],
+      "duration_ms": 265511,
+      "name": "Rivers and Homes Retake",
+      "url": "https://open.spotify.com/track/27yxfXtOHaPkytNz0P2HoL"
     },
     {
       "added_at": "2026-07-03 04:00:44",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2026-07-03 04:00:44",
       "album": {
+        "name": "Attract",
+        "url": "https://open.spotify.com/album/30L1oRMIswC3hErbOQ5JO9"
+      },
+      "artists": [
+        {
+          "name": "Ajna",
+          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
+        },
+        {
+          "name": "Samm",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        }
+      ],
+      "duration_ms": 307317,
+      "name": "Attract",
+      "url": "https://open.spotify.com/track/4ykK6tNnlu2fAAWPCxzvFc"
+    },
+    {
+      "added_at": "2026-07-03 04:00:44",
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/5rbT9aLdysEsXZnLapWUNF"
       },
@@ -1235,22 +1255,26 @@
     {
       "added_at": "2026-07-03 04:00:44",
       "album": {
-        "name": "Attract",
-        "url": "https://open.spotify.com/album/30L1oRMIswC3hErbOQ5JO9"
+        "name": "I Cared For You",
+        "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
       },
       "artists": [
         {
-          "name": "Ajna",
-          "url": "https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
         },
         {
-          "name": "Samm",
-          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        },
+        {
+          "name": "Noah Kulaga",
+          "url": "https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj"
         }
       ],
-      "duration_ms": 307317,
-      "name": "Attract",
-      "url": "https://open.spotify.com/track/4ykK6tNnlu2fAAWPCxzvFc"
+      "duration_ms": 270476,
+      "name": "I Cared For You",
+      "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
     },
     {
       "added_at": "2026-07-03 04:00:44",
@@ -1279,26 +1303,6 @@
       "duration_ms": 300487,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K"
-    },
-    {
-      "added_at": "2026-07-03 04:00:44",
-      "album": {
-        "name": "Born Like That",
-        "url": "https://open.spotify.com/album/63cNdecRbo4VnYixeiO56Q"
-      },
-      "artists": [
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        },
-        {
-          "name": "Jast",
-          "url": "https://open.spotify.com/artist/45MGqjDAQFRu7gqPIQeQTo"
-        }
-      ],
-      "duration_ms": 225892,
-      "name": "Born Like That",
-      "url": "https://open.spotify.com/track/3pCnL6BOtSueW8XaF63gDN"
     }
   ],
   "unique_name": "Lowkey Tech",

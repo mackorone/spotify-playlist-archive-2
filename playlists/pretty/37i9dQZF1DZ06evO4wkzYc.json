@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 195131,
+  "num_followers": 195174,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akWqAAAAAAAz5A6OydxfJdgGFaKh6SWr",
+  "snapshot_id": "akb7gAAAAACnfar9xF/Mda/FToSnxoox",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo T\u00fa (En Vivo)",
-        "url": "https://open.spotify.com/album/4FxPlZ5Sj1gz2hZnDQxAqq"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 188035,
-      "name": "S\u00f3lo T\u00fa - En Vivo",
-      "url": "https://open.spotify.com/track/11TIPsRs6xpSAqlYkttZq1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Primer Tiempo",
         "url": "https://open.spotify.com/album/0A4OediUQq2lXiFq0OB7gX"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 212074,
       "name": "Primer Tiempo",
       "url": "https://open.spotify.com/track/0FEniDA74LuWEScdiQRmpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3lo T\u00fa (En Vivo)",
+        "url": "https://open.spotify.com/album/4FxPlZ5Sj1gz2hZnDQxAqq"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 188035,
+      "name": "S\u00f3lo T\u00fa - En Vivo",
+      "url": "https://open.spotify.com/track/11TIPsRs6xpSAqlYkttZq1"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Posada Especial",
-        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 338511,
-      "name": "Promesa Cumplida",
-      "url": "https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Te Vaya Bien",
         "url": "https://open.spotify.com/album/6GHd359vpc5mjD3kiAa1fi"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 238780,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/3YQATpvpO7hgbOoY8YW4gG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Posada Especial",
+        "url": "https://open.spotify.com/album/7ksb1zl09QQsWZGbnx2phi"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 338511,
+      "name": "Promesa Cumplida",
+      "url": "https://open.spotify.com/track/4VVOYB5LhGMIhXQ2Noj5mo"
     },
     {
       "added_at": null,

@@ -3,10 +3,10 @@
   "num_followers": 3,
   "original_name": "\ud806\udcf2\ud835\udcf3",
   "owner": {
-    "name": "\ud835\udcc1\ud835\udcbe\ud835\udcb6",
+    "name": "julia",
     "url": "https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu"
   },
-  "snapshot_id": "AAAK7ERfTXYlznaoKeg6MqlOqapkDwm5",
+  "snapshot_id": "AAALATtK1C2E0IHdSPqpItxk6KsehXt9",
   "tracks": [
     {
       "added_at": "2026-05-01 09:44:50",
@@ -9235,22 +9235,6 @@
       "duration_ms": 228800,
       "name": "So High School",
       "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
-    },
-    {
-      "added_at": "2026-05-01 09:44:53",
-      "album": {
-        "name": "Midnights",
-        "url": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 202395,
-      "name": "Lavender Haze",
-      "url": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC"
     },
     {
       "added_at": "2026-05-01 09:44:53",
@@ -19051,6 +19035,274 @@
       "duration_ms": 178569,
       "name": "OMG",
       "url": "https://open.spotify.com/track/5vYjTN8d0DZ2SosbKSx5Nj"
+    },
+    {
+      "added_at": "2026-07-04 09:15:07",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/5u8SP8bbxcA7zJoAusBfgc"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "duration_ms": 214468,
+      "name": "erase me (feat. Jacob Collier)",
+      "url": "https://open.spotify.com/track/57Z4ecZTqs7ig9nWY7xoou"
+    },
+    {
+      "added_at": "2026-07-04 09:19:06",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/5u8SP8bbxcA7zJoAusBfgc"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 192757,
+      "name": "called you again",
+      "url": "https://open.spotify.com/track/0yRpcT1UQgmILgqIMD0ig7"
+    },
+    {
+      "added_at": "2026-07-04 09:23:52",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/5u8SP8bbxcA7zJoAusBfgc"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 197032,
+      "name": "all my ghosts",
+      "url": "https://open.spotify.com/track/5e5opX2dYOZQI9SFnI8HkP"
+    },
+    {
+      "added_at": "2026-07-04 09:31:51",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/5u8SP8bbxcA7zJoAusBfgc"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Laura Elliott",
+          "url": "https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox"
+        }
+      ],
+      "duration_ms": 209299,
+      "name": "weird (feat. Laura Elliott)",
+      "url": "https://open.spotify.com/track/4gfIrua4aexZQuhnzQlufh"
+    },
+    {
+      "added_at": "2026-07-04 09:39:25",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/5u8SP8bbxcA7zJoAusBfgc"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 168022,
+      "name": "what a shame",
+      "url": "https://open.spotify.com/track/2o909Oee5BZOkZ1128xuL1"
+    },
+    {
+      "added_at": "2026-07-04 09:41:22",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/5u8SP8bbxcA7zJoAusBfgc"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182455,
+      "name": "firearm",
+      "url": "https://open.spotify.com/track/3PgcXOp9PmqzKgdjZ2h1Z1"
+    },
+    {
+      "added_at": "2026-07-04 09:43:42",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/5u8SP8bbxcA7zJoAusBfgc"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 156798,
+      "name": "hate to be lame (feat. Finneas)",
+      "url": "https://open.spotify.com/track/5wBf3eaD67qmbXbNTKy8BY"
+    },
+    {
+      "added_at": "2026-07-04 09:47:39",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/5u8SP8bbxcA7zJoAusBfgc"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 108778,
+      "name": "nobody likes a secret",
+      "url": "https://open.spotify.com/track/73NELuJdeSp5jQQQO6pVlh"
+    },
+    {
+      "added_at": "2026-07-04 09:50:00",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/5u8SP8bbxcA7zJoAusBfgc"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 237513,
+      "name": "chemtrails",
+      "url": "https://open.spotify.com/track/1RDI5FBysYz7jE8OVxki7T"
+    },
+    {
+      "added_at": "2026-07-04 09:53:24",
+      "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/5u8SP8bbxcA7zJoAusBfgc"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 226736,
+      "name": "orange show speedway",
+      "url": "https://open.spotify.com/track/0R8VxvxXIp79JcllZ17Z30"
+    },
+    {
+      "added_at": "2026-07-04 10:00:39",
+      "album": {
+        "name": "Older (and Wiser)",
+        "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 234076,
+      "name": "Pushing It Down and Praying",
+      "url": "https://open.spotify.com/track/0Exki6SgSuYfWQDP0npFlF"
+    },
+    {
+      "added_at": "2026-07-04 10:16:39",
+      "album": {
+        "name": "I Can't Let Go",
+        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 212582,
+      "name": "Melrose Meltdown",
+      "url": "https://open.spotify.com/track/0oXD7ewBoYpsLmgG07VMF6"
+    },
+    {
+      "added_at": "2026-07-04 10:21:46",
+      "album": {
+        "name": "I Can't Let Go",
+        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 183021,
+      "name": "Put Me Through It",
+      "url": "https://open.spotify.com/track/05iiUswjL7bPTeAcOfcIGR"
+    },
+    {
+      "added_at": "2026-07-04 10:37:24",
+      "album": {
+        "name": "I Can't Let Go",
+        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 196257,
+      "name": "Slip",
+      "url": "https://open.spotify.com/track/2WmpF7s0xDj9yQFl1Feu5n"
+    },
+    {
+      "added_at": "2026-07-04 10:44:41",
+      "album": {
+        "name": "I Can't Let Go",
+        "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 231224,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/20mtWS07WEVcqpINVDNiWN"
+    },
+    {
+      "added_at": "2026-07-04 10:46:53",
+      "album": {
+        "name": "Memoir of a Sparklemuffin",
+        "url": "https://open.spotify.com/album/5PflJDKGFMTBj49PF4KlOX"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 192098,
+      "name": "Think Twice",
+      "url": "https://open.spotify.com/track/2Tu1lrx0WVnAjRX42h5oqe"
     }
   ],
   "unique_name": "\ud806\udcf2\ud835\udcf3",

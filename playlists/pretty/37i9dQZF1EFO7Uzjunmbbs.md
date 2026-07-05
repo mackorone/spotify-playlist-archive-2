@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,075 likes - 217 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,076 likes - 217 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 90 | [Motel Flamingo](https://open.spotify.com/track/3o4n673cQvRJ0mON7vg5pF) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Motel Flamingo](https://open.spotify.com/album/3qxC1n7VT78zERw6tUByxR) | 3:32 |
 | 91 | [Everybody Gonna Talk](https://open.spotify.com/track/18HjTiUz8CapH4BFB0Jrwz) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Every Little Thing](https://open.spotify.com/album/4CXTL0OFQqpn4LCBDvRDdu) | 3:09 |
 | 92 | [When Nothing Hurts](https://open.spotify.com/track/2fA9HIEg0WAzdGVKMINAXp) | [Riley Clemmons](https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG) | [Godsend](https://open.spotify.com/album/1fVyZLsUGyDJcqgRfq8wZ2) | 3:25 |
-| 93 | [Our Love Glows \(feat\. Lady Antebellum\)](https://open.spotify.com/track/3QUtbFgjjnAHTtLup31xVa) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Neon Future III](https://open.spotify.com/album/1VFgefav92A6JzlPSUatzV) | 2:53 |
-| 94 | [shot in the dark](https://open.spotify.com/track/4hYYFdTNjBRgKY3q38MLIg) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 2:53 |
+| 93 | [shot in the dark](https://open.spotify.com/track/4hYYFdTNjBRgKY3q38MLIg) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [shot in the dark](https://open.spotify.com/album/7H5STZn8rbg58X1Q69Rifk) | 2:53 |
+| 94 | [Our Love Glows \(feat\. Lady Antebellum\)](https://open.spotify.com/track/3QUtbFgjjnAHTtLup31xVa) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Neon Future III](https://open.spotify.com/album/1VFgefav92A6JzlPSUatzV) | 2:53 |
 | 95 | [Country In Me](https://open.spotify.com/track/6lQ8oqbyVAp8nNPQAKELFq) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Getting Good](https://open.spotify.com/album/4dKNidNDeT9LaPwjzrKv6c) | 3:20 |
 | 96 | [Fine](https://open.spotify.com/track/7hIrgsg6Krb5dbNMFyXuPO) | [Tayler Buono](https://open.spotify.com/artist/5doPfvddXXjtQIJu9rQEz5) | [Fine](https://open.spotify.com/album/3UxX8rPUgVZA2auFNFH9QB) | 3:25 |
 | 97 | [You're Cool](https://open.spotify.com/track/2bWIYp9KRcClACWoQtytU1) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Not Afraid to Say Goodbye](https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe) | 2:28 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 216 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
 | 217 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcV5fgAAAADlmvkcdwE9e1jRwRJSuKeM`
+Snapshot ID: `AcV/HgAAAABYhO5I659R7SHOAUHCR/zr`

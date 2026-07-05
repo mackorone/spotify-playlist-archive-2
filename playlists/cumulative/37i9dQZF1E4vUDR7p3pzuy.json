@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Shane Embury, David Von Beahm, MIK's Reaction and more",
+  "description": "With David Von Beahm, Shane Embury, MIK's Reaction and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -590,7 +590,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 236412,
       "name": "Air",
       "url": "https://open.spotify.com/track/68aV0LAtm1AlefVKodPTDz"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 313549,
       "name": "Ambrosia",
       "url": "https://open.spotify.com/track/6UCBjjduLh0jqKr1PjkRG2"
@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "Be Your Own Light",
+        "url": "https://open.spotify.com/album/1josl5iemh7bLwOudMYZtj"
+      },
+      "artists": [
+        {
+          "name": "Catch A Glimpse",
+          "url": "https://open.spotify.com/artist/4J13Jfs2DcCPH6YETlpquK"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282352,
+      "name": "Be Your Own Light",
+      "url": "https://open.spotify.com/track/7IWEy1oMlW4Ua2YG8t0Kms"
+    },
+    {
+      "album": {
         "name": "Just A Body",
         "url": "https://open.spotify.com/album/0EsRCz2KWPKCTbbjT0nqcP"
       },
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 262736,
       "name": "BEWARE THE PROMISE",
       "url": "https://open.spotify.com/track/1HP6lE1hvZf147vnHepMa4"
@@ -1668,7 +1686,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 221818,
       "name": "Bitter Ends",
       "url": "https://open.spotify.com/track/77JvSnf7TKr6ZqTxJKCP9a"
@@ -2550,7 +2568,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 326746,
       "name": "Cemetery Days",
       "url": "https://open.spotify.com/track/4W2tlMpTfSfuMFnuZO3PBl"
@@ -2756,6 +2774,24 @@
       "duration_ms": 157999,
       "name": "Circles",
       "url": "https://open.spotify.com/track/5yzh19PF46t0wcybQvJ8lV"
+    },
+    {
+      "album": {
+        "name": "The Living Likeness of My Electric Daemon",
+        "url": "https://open.spotify.com/album/3B0PS53QE27AjASIdocZFl"
+      },
+      "artists": [
+        {
+          "name": "Miracle",
+          "url": "https://open.spotify.com/artist/28VQJJAPiTYsyOGcFNNAcQ"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 451422,
+      "name": "Cities of the Interior",
+      "url": "https://open.spotify.com/track/3tkITGy7zB69m235HMTrW3"
     },
     {
       "album": {
@@ -3048,7 +3084,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 272565,
       "name": "Consolamentum Day",
       "url": "https://open.spotify.com/track/0HhhtfqmQTzeYeIj5rG5Jw"
@@ -3662,7 +3698,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 216895,
       "name": "Dancing in the graveyard",
       "url": "https://open.spotify.com/track/2jeEmAjcM0EGu5o0BAZLlk"
@@ -5970,7 +6006,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 205511,
       "name": "Gatekeep",
       "url": "https://open.spotify.com/track/3orrNzd0iaBzpdtFWjeA6t"
@@ -6477,6 +6513,24 @@
     },
     {
       "album": {
+        "name": "Half Life",
+        "url": "https://open.spotify.com/album/3NP5vSAhnYpwYlzZvXJuyV"
+      },
+      "artists": [
+        {
+          "name": "David Von Beahm",
+          "url": "https://open.spotify.com/artist/2h4kMB513n1Tkk7ww91p1E"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303872,
+      "name": "Half Life",
+      "url": "https://open.spotify.com/track/6lOXF935I5fQaCHIW5zKXJ"
+    },
+    {
+      "album": {
         "name": "Half the Glass",
         "url": "https://open.spotify.com/album/3VK3YQqGTt50h9bqgYh2hJ"
       },
@@ -6766,7 +6820,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 414740,
       "name": "Her-To-Get (To-Get-Her)",
       "url": "https://open.spotify.com/track/6NcSlHDEbD72raPykWCmJi"
@@ -6860,7 +6914,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 199311,
       "name": "Hidden",
       "url": "https://open.spotify.com/track/4WmzoBRVjSsDpzXrt7CJED"
@@ -8162,7 +8216,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 323500,
       "name": "It's No Good",
       "url": "https://open.spotify.com/track/2Dc6DRMr5fKhcLn57iwnjz"
@@ -9140,7 +9194,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 123376,
       "name": "Little Green Dots",
       "url": "https://open.spotify.com/track/50ers5l5Zlk6mOZone9KVv"
@@ -11888,7 +11942,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 202927,
       "name": "Rest Your Halo",
       "url": "https://open.spotify.com/track/4q1fAT2JA4Dx26EqYKA2rQ"
@@ -13808,7 +13862,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 202135,
       "name": "Steel Butterflies",
       "url": "https://open.spotify.com/track/48bvLtjiWAWwaKSHrC5NF2"
@@ -13866,6 +13920,24 @@
       "duration_ms": 235706,
       "name": "Still Waters Running Deep",
       "url": "https://open.spotify.com/track/0v5g305kBL8tVh1q6b2UWo"
+    },
+    {
+      "album": {
+        "name": "Stone Rain",
+        "url": "https://open.spotify.com/album/1k71hyzzC7BIMgYEHiDA7B"
+      },
+      "artists": [
+        {
+          "name": "Antichrisis",
+          "url": "https://open.spotify.com/artist/6UUUa4HW9J8uLuWvsw0iRJ"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 494074,
+      "name": "Stone Rain",
+      "url": "https://open.spotify.com/track/2tWmSIJhYsY3A2zxyhp3oJ"
     },
     {
       "album": {
@@ -14372,7 +14444,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 371430,
       "name": "Taking Back Time",
       "url": "https://open.spotify.com/track/1F0GvxfUUf0elLSrxL6lGh"
@@ -15510,7 +15582,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 303610,
       "name": "They Came In",
       "url": "https://open.spotify.com/track/7CHy5jYgVFA7lhc4O8GF9r"
@@ -15640,7 +15712,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 296586,
       "name": "Thorns In Despair",
       "url": "https://open.spotify.com/track/3wZX3CoSWVuUSG1SrpoBE8"
@@ -15864,7 +15936,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 135724,
       "name": "TIME 2 DIE",
       "url": "https://open.spotify.com/track/6a5BA53BYbraUQAV65jn4v"
@@ -16904,7 +16976,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-05",
       "duration_ms": 216315,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/5NHyCuTxgo9P49EL7cy5kg"
@@ -17030,7 +17102,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 301575,
       "name": "Water and Flesh",
       "url": "https://open.spotify.com/track/3va08x27StWDuVaetVitYA"

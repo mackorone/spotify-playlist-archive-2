@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 4004,
+  "num_followers": 4006,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Un chant d'amour",
-        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 221690,
-      "name": "Un chant d'amour",
-      "url": "https://open.spotify.com/track/6XXXAPyLiCw09y4SBJFpTU"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Deep Side of Happiness",
         "url": "https://open.spotify.com/album/65kAQMfuIRnWX4o9aMEEYe"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 190166,
       "name": "Resign",
       "url": "https://open.spotify.com/track/2SXFCcO0G7Wav918WD5NS1"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Un chant d'amour",
+        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 221690,
+      "name": "Un chant d'amour",
+      "url": "https://open.spotify.com/track/6XXXAPyLiCw09y4SBJFpTU"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
+        "name": "GROSSE MAISON",
+        "url": "https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb"
+      },
+      "artists": [
+        {
+          "name": "Super Plage",
+          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "TIP TOP",
+      "url": "https://open.spotify.com/track/7EsVuPM95bLSqb8qIoPCw8"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
         "name": "ECHO ECHO",
         "url": "https://open.spotify.com/album/4LFLxS7qIsnJKD9h9nxJc0"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 187756,
       "name": "je dirai rien",
       "url": "https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "GROSSE MAISON",
-        "url": "https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb"
-      },
-      "artists": [
-        {
-          "name": "Super Plage",
-          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "TIP TOP",
-      "url": "https://open.spotify.com/track/7EsVuPM95bLSqb8qIoPCw8"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Un chant d'amour",
-        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 168027,
-      "name": "Ce n'est pas ici, ce n'est pas ailleurs",
-      "url": "https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "What Can I Test ?",
         "url": "https://open.spotify.com/album/3TGvhuKoZCVJaNc1rkjI3D"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "GROSSE MAISON",
-        "url": "https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb"
+        "name": "Un chant d'amour",
+        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
       },
       "artists": [
         {
-          "name": "Super Plage",
-          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
         }
       ],
-      "duration_ms": 129408,
-      "name": "1990",
-      "url": "https://open.spotify.com/track/1ouyxXrQbrK9JbFNayUgZT"
+      "duration_ms": 168027,
+      "name": "Ce n'est pas ici, ce n'est pas ailleurs",
+      "url": "https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -523,6 +507,22 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
+        "name": "GROSSE MAISON",
+        "url": "https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb"
+      },
+      "artists": [
+        {
+          "name": "Super Plage",
+          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
+        }
+      ],
+      "duration_ms": 129408,
+      "name": "1990",
+      "url": "https://open.spotify.com/track/1ouyxXrQbrK9JbFNayUgZT"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
         "name": "FOR\u00caT",
         "url": "https://open.spotify.com/album/6oImWMoSomesMXGBFsndc9"
       },
@@ -539,22 +539,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "SOMA",
-        "url": "https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW"
-      },
-      "artists": [
-        {
-          "name": "Elena Copsi",
-          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
-        }
-      ],
-      "duration_ms": 165378,
-      "name": "La rivi\u00e8re",
-      "url": "https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Lisusu te",
         "url": "https://open.spotify.com/album/3hCP4PF84sKAQFC5RQk4fZ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 234000,
       "name": "Lisusu te",
       "url": "https://open.spotify.com/track/7Lxm4Hwey23dQpQG4SbPt4"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/43VEQxXx24GdcJlVgjJWBW"
+      },
+      "artists": [
+        {
+          "name": "Elena Copsi",
+          "url": "https://open.spotify.com/artist/5YafOG1cCGaf4dpzCNVPXm"
+        }
+      ],
+      "duration_ms": 165378,
+      "name": "La rivi\u00e8re",
+      "url": "https://open.spotify.com/track/5HwKMZcJ75ATc7uGpduM5M"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -619,22 +619,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "INSURGENCIA",
-        "url": "https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX"
-      },
-      "artists": [
-        {
-          "name": "Caos.808",
-          "url": "https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC"
-        }
-      ],
-      "duration_ms": 132600,
-      "name": "INSURGENCIA",
-      "url": "https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Sotula",
         "url": "https://open.spotify.com/album/1HDYBhqJkaMwLwCFyxPhYm"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 186818,
       "name": "Sotula",
       "url": "https://open.spotify.com/track/093e7cYW03XaG7wEldsTgY"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "INSURGENCIA",
+        "url": "https://open.spotify.com/album/5i3UaYjZefcMK7mLyMOtXX"
+      },
+      "artists": [
+        {
+          "name": "Caos.808",
+          "url": "https://open.spotify.com/artist/3evK05yJ1WTXBVhu1SW8qC"
+        }
+      ],
+      "duration_ms": 132600,
+      "name": "INSURGENCIA",
+      "url": "https://open.spotify.com/track/2LEQxGKWXcr9reo0RMCppt"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Where We Dive",
-        "url": "https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F"
-      },
-      "artists": [
-        {
-          "name": "MEDICIS",
-          "url": "https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4"
-        }
-      ],
-      "duration_ms": 240150,
-      "name": "Timecrash",
-      "url": "https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "dealing with ghosts",
         "url": "https://open.spotify.com/album/5YIxXAa4EhD7nSWXsfxQOt"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 121578,
       "name": "outsider",
       "url": "https://open.spotify.com/track/7braDJQWVRi9zfgemUwIGi"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Where We Dive",
+        "url": "https://open.spotify.com/album/7w142tIXVD3BcWPj2XtW2F"
+      },
+      "artists": [
+        {
+          "name": "MEDICIS",
+          "url": "https://open.spotify.com/artist/37KN1w7uLnKETrPMXeFep4"
+        }
+      ],
+      "duration_ms": 240150,
+      "name": "Timecrash",
+      "url": "https://open.spotify.com/track/5v0c8Qsm9ftSI05ZKthjLz"
     },
     {
       "added_at": "2025-11-20 17:00:08",

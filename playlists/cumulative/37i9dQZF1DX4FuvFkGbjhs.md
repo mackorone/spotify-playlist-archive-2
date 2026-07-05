@@ -4,7 +4,7 @@
 
 > Beyond titles, beyond genre\. Cover: Ibeyi
 
-902 songs - 2 day 4 hr 5 min
+904 songs - 2 day 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -652,6 +652,7 @@
 | [Ready](https://open.spotify.com/track/452HdzeC7T88yGAucBLoK9) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Ready](https://open.spotify.com/album/72meYYzCxt9yUNp9E3haME) | 2:49 | 2024-06-27 | 2024-07-19 |
 | [real feel](https://open.spotify.com/track/7fShwQkgkUYrL6GttNjHTb) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#gigi](https://open.spotify.com/album/5yYtz3hPgOc2XAh5eDjDBa) | 2:22 | 2024-06-27 | 2024-08-09 |
 | [Real Love](https://open.spotify.com/track/17L09JJ5W7F5ou68mcAeMJ) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 2:17 | 2024-07-18 | 2024-09-28 |
+| [Reckoning](https://open.spotify.com/track/0rpc7hLrZi8n1aLVwavwrp) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Reckoning](https://open.spotify.com/album/1JQ8cmqQi2Z8Fzuri3Hnlq) | 5:49 | 2026-07-03 |  |
 | [Recognise](https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT) | [Recognise](https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg) | 4:29 | 2025-01-24 | 2025-05-02 |
 | [Red Moon](https://open.spotify.com/track/44tb4TdFVliafU17EQg28J) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Red Moon](https://open.spotify.com/album/1ThA4wB67vZ6r540BIRbAa) | 3:32 | 2025-05-15 | 2025-09-19 |
 | [Relapse](https://open.spotify.com/track/2CqK5vwJHSe0ZHXryUAElT) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [West End Girl](https://open.spotify.com/album/4Dn3Z14YfT2gQVDgLmWUVn) | 4:23 | 2025-10-23 |  |
@@ -703,7 +704,7 @@
 | [Shiver](https://open.spotify.com/track/2hwAADrapspxkmLsZzvqIv) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Shiver](https://open.spotify.com/album/7qTUcbVpWzLQdX2OrlwEda) | 3:25 | 2024-09-27 | 2024-11-22 |
 | [Should've known better \(choices\)](https://open.spotify.com/track/2HDjCwD2V4cpAvIvpwcmMF) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [Should've known better \(choices\)](https://open.spotify.com/album/5ySzzyQqNXi0Bdko3WPnpP) | 3:27 | 2025-05-01 | 2025-07-25 |
 | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/track/3lCQOU4BWvyWhoNAKGoO6l) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [SHUT YOUR DAMN 95.7892](https://open.spotify.com/album/2BMDpo4X23IpQDqQYCBhDY) | 3:04 | 2026-04-16 |  |
-| [Sick Of Love](https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Sick Of Love](https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb) | 3:36 | 2026-04-09 |  |
+| [Sick Of Love](https://open.spotify.com/track/6aPG5Atb3L3l8pZYzLrpEi) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Sick Of Love](https://open.spotify.com/album/2ETP833yyVmqvtnbnRHtxb) | 3:36 | 2026-04-09 | 2026-07-05 |
 | [Signs](https://open.spotify.com/track/4ZXi3WGap15pcthvNhXtsb) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Signs](https://open.spotify.com/album/3SE1r3rQPdbrqYB3SuWNmq) | 3:19 | 2024-10-24 | 2025-01-24 |
 | [SilverCane](https://open.spotify.com/track/7KyIWRsQLKsSSqxjHJ33FO) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/5up80b8x2wCG8qwM294QR6) | 4:02 | 2024-09-05 | 2024-09-28 |
 | [Sisters](https://open.spotify.com/track/5083rgdiHkvjyJaQoLHwdZ) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Sisters](https://open.spotify.com/album/3AJpNyMdrmHtyien3wOiAi) | 3:44 | 2026-02-13 | 2026-03-27 |
@@ -712,6 +713,7 @@
 | [Smell The Daisies](https://open.spotify.com/track/2sTq0X4MDSkxCJlWRxZoY6) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [Smell The Daisies](https://open.spotify.com/album/6fPAIReQn5pSujZslHEwGk) | 4:10 | 2025-02-28 | 2025-04-04 |
 | [SNL](https://open.spotify.com/track/0NNZ07BRhzBvzj0WFDuocV) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [SNL](https://open.spotify.com/album/63BBbmGgghjnlOQs4SwoCn) | 3:06 | 2024-07-11 | 2024-09-21 |
 | [Snow](https://open.spotify.com/track/09FBRRlJxcpZ0svbUVxHZG) | [Joviale](https://open.spotify.com/artist/2U1y15TfmMGMDCV7S2mbQ7) | [Snow](https://open.spotify.com/album/0oTWLLLztMYvJNkT62gpwG) | 2:33 | 2025-08-07 | 2025-09-26 |
+| [So it goes](https://open.spotify.com/track/5qfWxLZF5bxsQcen6PIg8U) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [So it goes](https://open.spotify.com/album/3DezGjyrh1Hwa6mdiqSPNb) | 2:36 | 2026-07-03 |  |
 | [Somebody To You](https://open.spotify.com/track/7oBgMg32SnVnS3IIbqf8AE) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Somebody To You](https://open.spotify.com/album/7Eg9y2rEHezE1vaK57eULG) | 2:57 | 2025-08-14 | 2025-10-24 |
 | [Something In The Way](https://open.spotify.com/track/4HKZaeJ4YByO1p6BQweGeP) | [VC Pines](https://open.spotify.com/artist/4LQgArm1pO5Q7GuDu2qXfC) | [Viole\(n\)t Colour](https://open.spotify.com/album/4SY5NCLY3ykxmIrCEHYfh3) | 3:09 | 2025-05-29 | 2025-08-01 |
 | [Something Real \(feat\. Psweatpants\)](https://open.spotify.com/track/1lVKKIs57NBOnRc4kNuCoF) | [VLURE](https://open.spotify.com/artist/0Ev1tqYsfzq2eF5qqXhkYm), [Psweatpants](https://open.spotify.com/artist/45qonKMyhaFMPywkQ5DDqR) | [Something Real \(feat\. Psweatpants\)](https://open.spotify.com/album/67K2vShfSWaL2ypzijGM1k) | 3:23 | 2025-07-31 | 2025-09-05 |
@@ -896,7 +898,7 @@
 | [Y Gath](https://open.spotify.com/track/0vogozD1nNBsfNLjkR2SMi) | [Gwenno](https://open.spotify.com/artist/44mRrrRjaV8iu1VLIKuwty) | [Y Gath](https://open.spotify.com/album/6LnYighGETaBk0RiIVs6Uv) | 4:05 | 2025-06-05 | 2025-07-25 |
 | [y3llow bike](https://open.spotify.com/track/4vo4KkMSWRQCD7xpufEHdU) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [y3llow bike](https://open.spotify.com/album/2BbTCbIU80QgpujEbHHDNA) | 2:54 | 2025-06-26 | 2025-08-15 |
 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 | 2025-08-14 |  |
-| [Yellow Eyes](https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Yellow Eyes](https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL) | 2:42 | 2026-02-20 |  |
+| [Yellow Eyes](https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Yellow Eyes](https://open.spotify.com/album/0LOoC1v3WNX2z8x1lUSmxL) | 2:42 | 2026-02-20 | 2026-07-05 |
 | [yes](https://open.spotify.com/track/59avyplAj0yMOOzVR4OdZk) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [yes](https://open.spotify.com/album/7mzqYoHp9RUcGPKIOjjbgd) | 3:38 | 2025-10-23 | 2026-02-06 |
 | [Yoga Teacher](https://open.spotify.com/track/5GBZZ2Q99ZGmJ5lU9XbXSN) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Yoga Teacher](https://open.spotify.com/album/5Q6OuANaLh0lskxqvvZE69) | 2:58 | 2024-11-22 | 2025-02-14 |
 | [YOMM](https://open.spotify.com/track/6JXKKjn3Dl8JTxsZwYXMhV) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [INTRO](https://open.spotify.com/album/6nLhO0HjISaaG6Snxi8nMF) | 3:33 | 2024-09-20 | 2024-10-18 |

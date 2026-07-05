@@ -4,7 +4,7 @@
 
 > 
 
-564 songs - 1 day 12 hr 45 min
+568 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [A fleeting moment](https://open.spotify.com/track/11EqP8m9Kp05dIc6TZD9De) | [Jeon Yonghyeon](https://open.spotify.com/artist/5U8srhgFE0LDE2cTwDYuYS) | [MIGNON \(Original Soundtrack\)](https://open.spotify.com/album/0EhtBG8i5tXXb4iITyrIty) | 1:49 | 2025-12-25 |  |
 | [A Little Messed Up](https://open.spotify.com/track/5iDaEbPX8Lq2evx3ZpAgQU) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [A Little Messed Up](https://open.spotify.com/album/0Cb0KcevtzRaH7hmYxoeny) | 2:48 | 2026-03-30 |  |
 | [A Stranger I Remain \- Maniac Agenda Mix](https://open.spotify.com/track/29eKlSdk4dmwBgqtwASiFW) | [Free Dominguez](https://open.spotify.com/artist/15F1IbwHnVU0n3elJo2V8o) | [METAL GEAR RISING REVENGEANCE Vocal Tracks Selection](https://open.spotify.com/album/3DR0FThvw6I18Ntp3D6kxf) | 2:25 | 2023-03-09 |  |
+| [A Tear in Space \(Airlock\)](https://open.spotify.com/track/6l6XVeeoTe3ggya4fLY8l8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 3:23 | 2026-07-05 |  |
 | [A WILDFIRE](https://open.spotify.com/track/0lcspkOicZS5RHluaHIdLi) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9), [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Allan Kingdom](https://open.spotify.com/artist/1tUALn7PEhW7LpMuxvat2x) | [THE FALLING MAN](https://open.spotify.com/album/2LB3zTuRknMcwppJrFZay0) | 2:29 | 2022-05-09 |  |
 | [Absolute Territory](https://open.spotify.com/track/32zqrDpYvNr8BuOClDpavD) | [Ken Ashcorp](https://open.spotify.com/artist/1x2YcZB1QpRZB3HT9gdUCQ) | [Absolute Territory](https://open.spotify.com/album/2N8HOZgX1QWpighqf7Tvo7) | 4:28 | 2022-05-09 |  |
 | [Acid Rain](https://open.spotify.com/track/3UREFGGERX9j7K3sGuiUEz) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [The Maze to Nowhere](https://open.spotify.com/album/4kcoSazmo1l3VPQASt5T1S) | 2:52 | 2025-10-15 |  |
@@ -321,6 +322,7 @@
 | [Neon night](https://open.spotify.com/track/768D2C3BDakR1FpuYFDS1f) | [Jeon Yonghyeon](https://open.spotify.com/artist/5U8srhgFE0LDE2cTwDYuYS) | [MIGNON \(Original Soundtrack\)](https://open.spotify.com/album/0EhtBG8i5tXXb4iITyrIty) | 1:30 | 2025-12-25 |  |
 | [Never Ask](https://open.spotify.com/track/4G4RuVN5j4P9EAbFGRPUNB) | [Shayhan](https://open.spotify.com/artist/5bqTDHeDDzXWCdN4bKtVbz) | [Mr\. Fish](https://open.spotify.com/album/2KI81mTYAJCkIoe4sA4xKo) | 2:54 | 2025-10-15 |  |
 | [Never Ending Circles](https://open.spotify.com/track/7xo9hnzv6Zrd7UcDEj8rtQ) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye \(Special Edition\)](https://open.spotify.com/album/6pcfjrxlkf7fk9irlvJUzG) | 3:06 | 2025-10-15 |  |
+| [Never Wanted To Dance](https://open.spotify.com/track/1vOdNMCzhbdz2tMQJYsHJB) | [Mindless Self Indulgence](https://open.spotify.com/artist/5R5MLOQbI4lb7GHYioPqoN) | [If](https://open.spotify.com/album/7oCdAqjucwIz7ToQGOV20P) | 3:08 | 2026-07-05 |  |
 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:35 | 2026-06-11 |  |
 | [Night City](https://open.spotify.com/track/2wRfmI3v2REarKJFzuzO46) | [Vogel](https://open.spotify.com/artist/0IPgmXKtAVL8x0Gwqc2SuM) | [Hologram](https://open.spotify.com/album/3VNyqCIJ1pfmiTnHRHw4ox) | 5:43 | 2020-03-11 |  |
 | [Night Swim](https://open.spotify.com/track/2Vhu5QqQsXwUuZQ1QxZGCM) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Falling into Place](https://open.spotify.com/album/37SWbswE3jEairzfGWBHgH) | 3:22 | 2020-03-11 |  |
@@ -335,6 +337,7 @@
 | [Notice](https://open.spotify.com/track/4n0sVfRnd0UJsqcbPj7GqN) | [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ), [TORIENA](https://open.spotify.com/artist/569Tg9s0Rv7EpI7zufTs2i) | [Moe Moe](https://open.spotify.com/album/4cQMG9J5WiIDMYaWf5axzy) | 3:09 | 2020-03-11 |  |
 | [Négatif](https://open.spotify.com/track/3Tku3h3GULPOSGmbxkGQOL) | [L'Or du Commun](https://open.spotify.com/artist/2lPL3aVXBS4gVGymFOAYxF) | [Avant la nuit](https://open.spotify.com/album/6DMZJQw4oHFd7mKsIm1Ocv) | 4:05 | 2022-05-09 |  |
 | [Ocean Drive](https://open.spotify.com/track/02gySWUFk5JT4gMguGAhdO) | [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20) | [Turbulence](https://open.spotify.com/album/1sjg3emGXcOFStmqIUvFeU) | 4:18 | 2025-10-15 |  |
+| [Oil \(feat\. Stevie Nicks\)](https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:50 | 2026-07-05 |  |
 | [Ompa til du dør](https://open.spotify.com/track/6Lctxjc7yDZJYTzqJdik50) | [Kaizers Orchestra](https://open.spotify.com/artist/1s1DnVoBDfp3jxjjew8cBR) | [Ompa til du dør](https://open.spotify.com/album/2uVvsLYNGPuIj4VMK6i2az) | 5:04 | 2025-10-15 |  |
 | [On purpose](https://open.spotify.com/track/2Xyc050Mt14dnwkbMEKSsY) | [Jeon Yonghyeon](https://open.spotify.com/artist/5U8srhgFE0LDE2cTwDYuYS) | [MIGNON \(Original Soundtrack\)](https://open.spotify.com/album/0EhtBG8i5tXXb4iITyrIty) | 1:13 | 2025-12-25 |  |
 | [On the Promenade \(George Clanton Remix\)](https://open.spotify.com/track/2S7pNIePcW0RYrt3N3NxHx) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [On the Promenade \(George Clanton Remix\)](https://open.spotify.com/album/4LcVbqtExdOpkYDDTZnqt0) | 3:16 | 2025-10-15 |  |
@@ -477,6 +480,7 @@
 | [Take Flight, Earth\-Noid!](https://open.spotify.com/track/5BrIjWr4BHWDwhNtC8QQId) | [Cynthoni](https://open.spotify.com/artist/79W7uIUU51RwgRFeYeRrP6), [Projekt Melody](https://open.spotify.com/artist/68FnSiPe0TzZLtTFfDKwFo) | [Lost in Her Virtual Eyes](https://open.spotify.com/album/3YgEDVLBPl7dH9yAinVavK) | 3:41 | 2025-10-15 |  |
 | [Take Flight, Earth\-Noid! \- Lo\-Fi House Version](https://open.spotify.com/track/0zvlCEt5ZhUuoF8HMpjZUI) | [Cynthoni](https://open.spotify.com/artist/79W7uIUU51RwgRFeYeRrP6), [Projekt Melody](https://open.spotify.com/artist/68FnSiPe0TzZLtTFfDKwFo) | [\[lo\-fi beats to do bad things to\]](https://open.spotify.com/album/6XDzNr9PkH3arTCAKw6pnI) | 5:00 | 2025-10-15 |  |
 | [Tarkov](https://open.spotify.com/track/0aSFXdXIOnQz9GTxU4zZ2f) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [LMF](https://open.spotify.com/album/7zrUnXByeOKHbXY3fyn6vz) | 3:50 | 2022-05-09 |  |
+| [Tear You Apart](https://open.spotify.com/track/1XYHqSfJK9ud9nuRjQcbXi) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [She Wants Revenge](https://open.spotify.com/album/3S41D3x5NUwlVOuUNwoZ16) | 4:44 | 2026-07-05 |  |
 | [Thank You](https://open.spotify.com/track/751gBcu62kORDelX7FV0mM) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/5HC0K52InwrhTEd5zDPzRk) | 3:37 | 2025-10-15 |  |
 | [That Dream Again](https://open.spotify.com/track/12dwJpSfD4Dc8h8vjq6Pcb) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Origin](https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy) | 4:13 | 2025-10-15 |  |
 | [The "THEME"](https://open.spotify.com/track/1HjspUobBFgF9acrkzDABi) | [TECHNOBOYS PULCRAFT GREEN\-FUND](https://open.spotify.com/artist/0CzzuTmypU8iNBbMS9K4XP) | [TRINITY SEVEN : MAGUS MUSIC ARCHIVE](https://open.spotify.com/album/42utAQMY1WXqonVXmZEK07) | 2:17 | 2025-10-15 |  |

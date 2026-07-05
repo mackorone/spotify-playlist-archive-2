@@ -189,8 +189,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 179 | [Enrolando na Minha Boca](https://open.spotify.com/track/2BZ9CWThMSCxENNcA9syQR) | [Maria Clara](https://open.spotify.com/artist/2f7WgZUIxWzg5KRU5y0fVc) | [Enrolando na Minha Boca](https://open.spotify.com/album/1TfpB4LK36cjU848bPacUY) | 2:36 |
 | 180 | [Camisa do Mickey](https://open.spotify.com/track/2Gnul1YRjNB93nddpp2UfB) | [Rick & Ricardo](https://open.spotify.com/artist/3jpnyQAV5PANKxiyoZQYOZ) | [Na House](https://open.spotify.com/album/5kOeIgo4MdLhLggvyZKmo8) | 2:51 |
 | 181 | [Suas Amigas \(Assereje\)](https://open.spotify.com/track/3YFqNXjBNhbWiEUIlxvpQb) | [Lucas LM](https://open.spotify.com/artist/4XW3v1Vfu7ZEs1sJyWvoRJ), [Rafinha RSQ](https://open.spotify.com/artist/4Fdcah41ppKa37zPM0sA1h) | [Suas Amigas \(Assereje\)](https://open.spotify.com/album/7qlxQ5t0aCqfRGNGfcIfWA) | 2:18 |
-| 182 | [Eu Tô Com Você](https://open.spotify.com/track/2xYeevuVaGyf8C6ZlBuWh8) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:04 |
-| 183 | [Ela Lembra Você](https://open.spotify.com/track/2xCf4jvvFcRszlNymthhBn) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/2sk3tsVz5cmkvU65gPCYVH) | 3:18 |
+| 182 | [Ela Lembra Você](https://open.spotify.com/track/2xCf4jvvFcRszlNymthhBn) | [Pedro e Benicio](https://open.spotify.com/artist/6fh11OgZMuzObXNUf4AEOr) | [Hipnose \(Ao Vivo\)](https://open.spotify.com/album/2sk3tsVz5cmkvU65gPCYVH) | 3:18 |
+| 183 | [Eu Tô Com Você](https://open.spotify.com/track/2xYeevuVaGyf8C6ZlBuWh8) | [Fred & Gustavo](https://open.spotify.com/artist/23e9hgUNNlZWv6E0nxf8fA) | [Eu Tô Com Você](https://open.spotify.com/album/4IBu2k4e62hJSGCLB562Gk) | 3:04 |
 | 184 | [Amor Descarado \- Ao Vivo](https://open.spotify.com/track/7nI6cZY5Y6eAFc01cX9QjM) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn) | [Playlist \(Ao Vivo\)](https://open.spotify.com/album/2RFrKt3YIeDuHMKtpTf9en) | 3:03 |
 | 185 | [Bate Palminha pra Ela](https://open.spotify.com/track/1HWXovIGDnctwV4CqHF3nV) | [Gabriel Diniz](https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj) | [GD Trilogia](https://open.spotify.com/album/3K9vzIZ8MJpkgYvH3jMWTH) | 3:03 |
 | 186 | [Nunca Foi Tão Gostoso \- Ao Vivo](https://open.spotify.com/track/5RpAYFxIR8vMfdRBIeVTDF) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l) | [SIM \(Ao Vivo\)](https://open.spotify.com/album/6kszUny79kdRIfzTCEYnHK) | 2:42 |
@@ -316,4 +316,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzEidMCVFNST.md) - [plain]
 | 306 | [Usa Eu](https://open.spotify.com/track/3S5n25SLrJq2IhfOBMDnql) | [Tanury](https://open.spotify.com/artist/2nKnF9sJfToqlsxQpXGlW7) | [Tanury 2023](https://open.spotify.com/album/7pjafNe8mHr0Enwqgj8wAV) | 2:24 |
 | 307 | [De Boa na Lagoa](https://open.spotify.com/track/2JyEtXPdofr92XjnEEI4NH) | [Adriel Salim](https://open.spotify.com/artist/4xwzb6gEDDp5IpAnoASRuy) | [Aumenta o Paredão \(Verão 2023\)](https://open.spotify.com/album/6quXWSGETr7nugA7XM4vf8) | 2:48 |
 
-Snapshot ID: `AcV5iAAAAABFPd5tMd9pH/lWLc3yRu/N`
+Snapshot ID: `AcV/KAAAAABnxcL9u+K6rO60ELMLxakU`

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: GOBAITH
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,187,082 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,186,952 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Alibi](https://open.spotify.com/track/1o0Nz5XSGGWIYcgptpV3ev) | [GOBAITH](https://open.spotify.com/artist/7m7cqf2HQsPXvAhfU2e320) | [Alibi](https://open.spotify.com/album/0vnvOnKMuz5aRGIo7vmGzw) | 2:24 |
+| 1 | [Alibi](https://open.spotify.com/track/1o0Nz5XSGGWIYcgptpV3ev) | [GOBAITH](https://open.spotify.com/artist/7m7cqf2HQsPXvAhfU2e320), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Alibi](https://open.spotify.com/album/0vnvOnKMuz5aRGIo7vmGzw) | 2:24 |
 | 2 | [Anaconda](https://open.spotify.com/track/2ZAWKUdW7jcRwYsQgKWheu) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Anaconda](https://open.spotify.com/album/3bYo2FlkgCAdGQxsKbu3lq) | 3:36 |
 | 3 | [Bad Choices](https://open.spotify.com/track/0YpZz0Ip2TGdFv24Pqmlvk) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FEZZO](https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Bad Choices](https://open.spotify.com/album/3ADZV1vMCEWmUS9IaNqQ1W) | 2:16 |
 | 4 | [Toxic](https://open.spotify.com/track/4mloPBa6kT7U2b6ok2TvZe) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [DEPARTAMENTO](https://open.spotify.com/artist/3Cu5XeR4o1V8atLssDZUl1) | [Toxic](https://open.spotify.com/album/3eMB7eDSuklusjzYAMyVIb) | 3:11 |

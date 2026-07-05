@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: Rose Gray",
-  "num_followers": 104026,
+  "num_followers": 104144,
   "original_name": "Editors' Picks: Best Songs of June",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
+        "name": "Sun Has Set",
+        "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 141804,
+      "name": "Sun Has Set",
+      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
         "name": "des fleurs x stromae",
         "url": "https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 172544,
       "name": "des fleurs x stromae",
       "url": "https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
-        "name": "Sun Has Set",
-        "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 141804,
-      "name": "Sun Has Set",
-      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "Whatever You Wanna",
-        "url": "https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs"
-      },
-      "artists": [
-        {
-          "name": "Annabelle Dinda",
-          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
-        }
-      ],
-      "duration_ms": 211486,
-      "name": "Whatever You Wanna",
-      "url": "https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
         "name": "and all pride aside",
         "url": "https://open.spotify.com/album/3WInudF8Setm33NN23BxYH"
       },
@@ -287,6 +271,22 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
+        "name": "Whatever You Wanna",
+        "url": "https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs"
+      },
+      "artists": [
+        {
+          "name": "Annabelle Dinda",
+          "url": "https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36"
+        }
+      ],
+      "duration_ms": 211486,
+      "name": "Whatever You Wanna",
+      "url": "https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
         "name": "THE GENTLEMEN'S CLUB",
         "url": "https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW"
       },
@@ -303,22 +303,6 @@
       "duration_ms": 183600,
       "name": "ON THE LOW feat tyler, the creator",
       "url": "https://open.spotify.com/track/09vUEGDPqHaMWxRSS6XPY1"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
-        "name": "PROJECT X",
-        "url": "https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 140666,
-      "name": "FACE DOWN",
-      "url": "https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -343,6 +327,38 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/4k6889NpXtWFLCM70GknB9"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "duration_ms": 172885,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/1OSzjOgzbkNP8ti6444vBv"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
+        "name": "PROJECT X",
+        "url": "https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 140666,
+      "name": "FACE DOWN",
+      "url": "https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
         "name": "Manhattan",
         "url": "https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 215062,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
-        "name": "What You Want",
-        "url": "https://open.spotify.com/album/4k6889NpXtWFLCM70GknB9"
-      },
-      "artists": [
-        {
-          "name": "Vincent Mason",
-          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
-        }
-      ],
-      "duration_ms": 172885,
-      "name": "What You Want",
-      "url": "https://open.spotify.com/track/1OSzjOgzbkNP8ti6444vBv"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "Cry Baby",
-        "url": "https://open.spotify.com/album/5Asm8hPfn7pAlxpoir4ljs"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 154480,
-      "name": "White Flag",
-      "url": "https://open.spotify.com/track/25YNsshClC7sdLI6vvsKP5"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
         "name": "Saturday Night",
         "url": "https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J"
       },
@@ -495,6 +479,38 @@
       "duration_ms": 217440,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
+        "name": "HAAVIN",
+        "url": "https://open.spotify.com/album/1YRc4mdQaKjkvhjnIMlqnm"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "HAAVIN",
+      "url": "https://open.spotify.com/track/0bHZsctQYLC9JfglIHOuIk"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
+        "name": "Cry Baby",
+        "url": "https://open.spotify.com/album/5Asm8hPfn7pAlxpoir4ljs"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 154480,
+      "name": "White Flag",
+      "url": "https://open.spotify.com/track/25YNsshClC7sdLI6vvsKP5"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -531,22 +547,6 @@
       "duration_ms": 183228,
       "name": "Better Man",
       "url": "https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
-        "name": "HAAVIN",
-        "url": "https://open.spotify.com/album/1YRc4mdQaKjkvhjnIMlqnm"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "HAAVIN",
-      "url": "https://open.spotify.com/track/0bHZsctQYLC9JfglIHOuIk"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -639,26 +639,6 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "You Only Die 1nce (Deluxe)",
-        "url": "https://open.spotify.com/album/11iqEmiRj6IJ0eXj4VrhQq"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Ruthless Remix - feat. Leon Thomas",
-      "url": "https://open.spotify.com/track/3V8pYffGrp5kGXO9sB8DTs"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
         "name": "Arteries",
         "url": "https://open.spotify.com/album/6vxtYeDwJNK427fs3oCSV1"
       },
@@ -675,18 +655,22 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/2AkiK3j8gDLNZzokVlq98K"
+        "name": "You Only Die 1nce (Deluxe)",
+        "url": "https://open.spotify.com/album/11iqEmiRj6IJ0eXj4VrhQq"
       },
       "artists": [
         {
-          "name": "prettifun",
-          "url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 178267,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/4pKbJDmorP9MrcefUCTGUb"
+      "duration_ms": 240600,
+      "name": "Ruthless Remix - feat. Leon Thomas",
+      "url": "https://open.spotify.com/track/3V8pYffGrp5kGXO9sB8DTs"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -723,6 +707,22 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/2AkiK3j8gDLNZzokVlq98K"
+      },
+      "artists": [
+        {
+          "name": "prettifun",
+          "url": "https://open.spotify.com/artist/3J3ngZn7GjzjwCPBkqtz65"
+        }
+      ],
+      "duration_ms": 178267,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/4pKbJDmorP9MrcefUCTGUb"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
         "name": "Violins",
         "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
       },
@@ -755,18 +755,18 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp"
+        "name": "PAREIDOLIA",
+        "url": "https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5"
       },
       "artists": [
         {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
         }
       ],
-      "duration_ms": 207138,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
+      "duration_ms": 202250,
+      "name": "THE CINEMA",
+      "url": "https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -795,6 +795,22 @@
       "duration_ms": 120587,
       "name": "Training",
       "url": "https://open.spotify.com/track/7c7ceIOFUDHYpIf5z4yYA7"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp"
+      },
+      "artists": [
+        {
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
+        }
+      ],
+      "duration_ms": 207138,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -847,22 +863,6 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "home2hide",
-        "url": "https://open.spotify.com/album/5aF9YbOB33YQY4B5nYOOnE"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 240221,
-      "name": "home2hide",
-      "url": "https://open.spotify.com/track/08nerOhK5AVYPSKhBr1uz3"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
         "name": "Autosmile",
         "url": "https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 399026,
       "name": "Autosmile",
       "url": "https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
+        "name": "home2hide",
+        "url": "https://open.spotify.com/album/5aF9YbOB33YQY4B5nYOOnE"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 240221,
+      "name": "home2hide",
+      "url": "https://open.spotify.com/track/08nerOhK5AVYPSKhBr1uz3"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -923,22 +939,6 @@
       "duration_ms": 236413,
       "name": "made for love",
       "url": "https://open.spotify.com/track/0wcH106ZfD71Vw2riAZnGv"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
-        "name": "PAREIDOLIA",
-        "url": "https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5"
-      },
-      "artists": [
-        {
-          "name": "Erin LeCount",
-          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
-        }
-      ],
-      "duration_ms": 202250,
-      "name": "THE CINEMA",
-      "url": "https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "ELEGY",
-        "url": "https://open.spotify.com/album/3RSbclUQoSu7wVmSYa7Bd8"
-      },
-      "artists": [
-        {
-          "name": "KatzPascale",
-          "url": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H"
-        }
-      ],
-      "duration_ms": 214704,
-      "name": "SINK WHERE YOU SLEEP",
-      "url": "https://open.spotify.com/track/0JtscTBmEhAhw3PalM7AST"
-    },
-    {
-      "added_at": "2026-07-01 04:00:22",
-      "album": {
         "name": "Planet You Forgot Me",
         "url": "https://open.spotify.com/album/6K26qRiWiocOKgPER4nDbc"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 175360,
       "name": "i\u2019m a little flower",
       "url": "https://open.spotify.com/track/5dbnORB2uilt5tJkAgm2mE"
+    },
+    {
+      "added_at": "2026-07-01 04:00:22",
+      "album": {
+        "name": "ELEGY",
+        "url": "https://open.spotify.com/album/3RSbclUQoSu7wVmSYa7Bd8"
+      },
+      "artists": [
+        {
+          "name": "KatzPascale",
+          "url": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H"
+        }
+      ],
+      "duration_ms": 214704,
+      "name": "SINK WHERE YOU SLEEP",
+      "url": "https://open.spotify.com/track/0JtscTBmEhAhw3PalM7AST"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "Quick!",
-        "url": "https://open.spotify.com/album/0UPXDCCxvncoCCmBxoakpK"
+        "name": "ELEGY",
+        "url": "https://open.spotify.com/album/3RSbclUQoSu7wVmSYa7Bd8"
       },
       "artists": [
         {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+          "name": "KatzPascale",
+          "url": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H"
         }
       ],
-      "duration_ms": 318274,
-      "name": "Quick!",
-      "url": "https://open.spotify.com/track/783ZfLVvxPRcSOzLmsxk7E"
+      "duration_ms": 300000,
+      "name": "AN ELEPHANT NEVER FORGETS",
+      "url": "https://open.spotify.com/track/5KiIH8xcGoBdpj7oUJHjDH"
     },
     {
       "added_at": "2026-07-01 04:00:22",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2026-07-01 04:00:22",
       "album": {
-        "name": "ELEGY",
-        "url": "https://open.spotify.com/album/3RSbclUQoSu7wVmSYa7Bd8"
+        "name": "Quick!",
+        "url": "https://open.spotify.com/album/0UPXDCCxvncoCCmBxoakpK"
       },
       "artists": [
         {
-          "name": "KatzPascale",
-          "url": "https://open.spotify.com/artist/23vJAg53gio3DsY5jJof5H"
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
         }
       ],
-      "duration_ms": 300000,
-      "name": "AN ELEPHANT NEVER FORGETS",
-      "url": "https://open.spotify.com/track/5KiIH8xcGoBdpj7oUJHjDH"
+      "duration_ms": 318274,
+      "name": "Quick!",
+      "url": "https://open.spotify.com/track/783ZfLVvxPRcSOzLmsxk7E"
     }
   ],
   "unique_name": "Editors' Picks: Best Songs of June",

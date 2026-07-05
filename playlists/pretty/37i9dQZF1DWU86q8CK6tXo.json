@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover:  Young Miko",
-  "num_followers": 65370,
+  "num_followers": 65367,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,26 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/5zl5XG90weUWtbROL75GCT"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/66akDgOGJi139ys0umhBns"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/7szpMHMU4ZOz5bkttY9spE"
       },
@@ -295,26 +315,6 @@
       "duration_ms": 157008,
       "name": "Mad About It",
       "url": "https://open.spotify.com/track/6npl3kyUizb2JQWv0c6G8o"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/5zl5XG90weUWtbROL75GCT"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/66akDgOGJi139ys0umhBns"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -455,22 +455,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Ain't Over Me Yet",
-        "url": "https://open.spotify.com/album/4No1KqKyXV5EzFJ1IV4G9p"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 204897,
-      "name": "Ain't Over Me Yet",
-      "url": "https://open.spotify.com/track/3XqQ0wdVTielXOde7wYXiL"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "Bitches",
         "url": "https://open.spotify.com/album/6md6XQS1qEmxx4UDyEx9qa"
       },
@@ -487,6 +471,22 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
+        "name": "Ain't Over Me Yet",
+        "url": "https://open.spotify.com/album/4No1KqKyXV5EzFJ1IV4G9p"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 204897,
+      "name": "Ain't Over Me Yet",
+      "url": "https://open.spotify.com/track/3XqQ0wdVTielXOde7wYXiL"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
         "name": "Ethereal Redneck Shit",
         "url": "https://open.spotify.com/album/6NNAqxMqcVvsw7L7PwTV1D"
       },
@@ -499,6 +499,22 @@
       "duration_ms": 233357,
       "name": "Ethereal Redneck Shit",
       "url": "https://open.spotify.com/track/26hb88vHXkt8QapTw2HTF3"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
+        "name": "Daddy Died",
+        "url": "https://open.spotify.com/album/7ExVxwux2kmiRMyDnrCDNp"
+      },
+      "artists": [
+        {
+          "name": "earthsignchels",
+          "url": "https://open.spotify.com/artist/0O9Ul0wyw5ZstCJ7e3egUu"
+        }
+      ],
+      "duration_ms": 252656,
+      "name": "Daddy Died",
+      "url": "https://open.spotify.com/track/3O1yYh4gvBxaYSmkTFGnWV"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -535,22 +551,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Daddy Died",
-        "url": "https://open.spotify.com/album/7ExVxwux2kmiRMyDnrCDNp"
-      },
-      "artists": [
-        {
-          "name": "earthsignchels",
-          "url": "https://open.spotify.com/artist/0O9Ul0wyw5ZstCJ7e3egUu"
-        }
-      ],
-      "duration_ms": 252656,
-      "name": "Daddy Died",
-      "url": "https://open.spotify.com/track/3O1yYh4gvBxaYSmkTFGnWV"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "kiss goodbye / brb",
         "url": "https://open.spotify.com/album/45omOM9b7ujbjudttnasFa"
       },
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Just Us",
-        "url": "https://open.spotify.com/album/08oXopCW2RCdYqNdHiTrit"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 233961,
-      "name": "listening",
-      "url": "https://open.spotify.com/track/10Lr9lK7wQGRyaCdb2kspj"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "High Pony",
         "url": "https://open.spotify.com/album/2AfwyV0pnRmPb55yNXlgfO"
       },
@@ -615,22 +599,6 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "You Can Have Him",
-        "url": "https://open.spotify.com/album/2sLwRHswcURQ3Oe0chhcN8"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 195924,
-      "name": "You Can Have Him",
-      "url": "https://open.spotify.com/track/2Fk3aGFUTMniC8tNSJWe4S"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
         "name": "Pink Pocket Pistol",
         "url": "https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v"
       },
@@ -643,6 +611,38 @@
       "duration_ms": 220474,
       "name": "Raining Inside",
       "url": "https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/08oXopCW2RCdYqNdHiTrit"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        }
+      ],
+      "duration_ms": 233961,
+      "name": "listening",
+      "url": "https://open.spotify.com/track/10Lr9lK7wQGRyaCdb2kspj"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
+        "name": "You Can Have Him",
+        "url": "https://open.spotify.com/album/2sLwRHswcURQ3Oe0chhcN8"
+      },
+      "artists": [
+        {
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        }
+      ],
+      "duration_ms": 195924,
+      "name": "You Can Have Him",
+      "url": "https://open.spotify.com/track/2Fk3aGFUTMniC8tNSJWe4S"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -683,22 +683,18 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "AMOR & DROGA",
-        "url": "https://open.spotify.com/album/2nEcbAjssahw9l2VdiZswg"
+        "name": "Living Room Floor",
+        "url": "https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO"
       },
       "artists": [
         {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
         }
       ],
-      "duration_ms": 211353,
-      "name": "SURFBOARD",
-      "url": "https://open.spotify.com/track/4Qos8gdRj92oPPNplKREFj"
+      "duration_ms": 259435,
+      "name": "Living Room Floor",
+      "url": "https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -719,6 +715,26 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
+        "name": "AMOR & DROGA",
+        "url": "https://open.spotify.com/album/2nEcbAjssahw9l2VdiZswg"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 211353,
+      "name": "SURFBOARD",
+      "url": "https://open.spotify.com/track/4Qos8gdRj92oPPNplKREFj"
+    },
+    {
+      "added_at": "2026-07-01 04:00:23",
+      "album": {
         "name": "Middle of Nowhere",
         "url": "https://open.spotify.com/album/269NuTU0YVTRAmvI8uW6Vr"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "Living Room Floor",
-        "url": "https://open.spotify.com/album/2TnsBQiuT5RJe7W4jmsScO"
+        "name": "Easy EP",
+        "url": "https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH"
       },
       "artists": [
         {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+          "name": "Smerz",
+          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
         }
       ],
-      "duration_ms": 259435,
-      "name": "Living Room Floor",
-      "url": "https://open.spotify.com/track/3AP4jRZHwh2mmFJvSz9riQ"
+      "duration_ms": 128012,
+      "name": "Spring summer",
+      "url": "https://open.spotify.com/track/3lKB7OuBglrz7Pjpe0e3sk"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -763,22 +779,6 @@
       "duration_ms": 321120,
       "name": "Actor",
       "url": "https://open.spotify.com/track/48bePG5thRkA5xttNPRB8c"
-    },
-    {
-      "added_at": "2026-07-01 04:00:23",
-      "album": {
-        "name": "Easy EP",
-        "url": "https://open.spotify.com/album/0QkPbnl52Cdx2cj8X3BhsH"
-      },
-      "artists": [
-        {
-          "name": "Smerz",
-          "url": "https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI"
-        }
-      ],
-      "duration_ms": 128012,
-      "name": "Spring summer",
-      "url": "https://open.spotify.com/track/3lKB7OuBglrz7Pjpe0e3sk"
     },
     {
       "added_at": "2026-07-01 04:00:23",
@@ -899,18 +899,18 @@
     {
       "added_at": "2026-07-01 04:00:23",
       "album": {
-        "name": "(enamorada)",
-        "url": "https://open.spotify.com/album/1IMEV21sysi2IQjjOaarS7"
+        "name": "Nothing's Accidental",
+        "url": "https://open.spotify.com/album/5H2Ax7Hf3CXwmVjLYGpQGh"
       },
       "artists": [
         {
-          "name": "nic",
-          "url": "https://open.spotify.com/artist/3wvB1waB73AEUljz3Gl5Ph"
+          "name": "After Louise",
+          "url": "https://open.spotify.com/artist/6tjPtIeNLFkHlDQG2mRy3W"
         }
       ],
-      "duration_ms": 241704,
-      "name": "(ENAMORADA)",
-      "url": "https://open.spotify.com/track/2KUW8OQ0zoE6zTCXx2bYpk"
+      "duration_ms": 199333,
+      "name": "Nothing's Accidental",
+      "url": "https://open.spotify.com/track/3kY3wfC4Z6hzYxLS3mb0EH"
     }
   ],
   "unique_name": "EQUAL US",

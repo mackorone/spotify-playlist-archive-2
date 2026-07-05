@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Jonathan Napoles
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,627 likes - 100 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,663 likes - 100 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 6 | [Abba](https://open.spotify.com/track/4m1rC7cEH99dczsGuzvPBr) | [David Hernandez](https://open.spotify.com/artist/1sxkwqBNtZurX4SVaNzuzC) | [Abba](https://open.spotify.com/album/3TjYbm3HrgHNOcfvBRTNMo) | 4:12 |
 | 7 | [Brújula](https://open.spotify.com/track/3zOoCA4fd01R4YjCWlhXWJ) | [Zero Música](https://open.spotify.com/artist/7e2syyHGfVKZv3DXFXedkM) | [El MISMO DIOS](https://open.spotify.com/album/2dl1jk3qzZgnEbQnFe9qTZ) | 4:36 |
 | 8 | [Si Mi Padre / Salmo 27:10](https://open.spotify.com/track/4v4KrXdiO1kD99FCaMoDeB) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE), [Johnny Rez](https://open.spotify.com/artist/49JT46VWgu2bzVmcCGPTqk) | [Delante Del Trono](https://open.spotify.com/album/69RkCPLA8ZK3cCHsZf1A6K) | 5:14 |
-| 9 | [El Rey Gobierna Todo](https://open.spotify.com/track/7m7ZbXWjwlrUlvx6ensvM2) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [El Rey Gobierna Todo](https://open.spotify.com/album/6iFeTg8WkudQepNuOqtULs) | 16:10 |
+| 9 | [El Rey Gobierna Todo \- Live at Church](https://open.spotify.com/track/7m7ZbXWjwlrUlvx6ensvM2) | [Barak](https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P) | [El Rey Gobierna Todo \(Live at Church\)](https://open.spotify.com/album/6iFeTg8WkudQepNuOqtULs) | 16:10 |
 | 10 | [Una Iglesia Sin Mancha](https://open.spotify.com/track/1ucpyBDhmnWrXb4pUN4bBw) | [Grupo Grace](https://open.spotify.com/artist/6toUclayfnCvKyLtLSmyqb), [Luis Moreno](https://open.spotify.com/artist/7ojKdNQTBGpyaitLrqelJV) | [Una Iglesia Sin Mancha](https://open.spotify.com/album/2EBdytDboyMh3QYobnEhOF) | 8:32 |
 | 11 | [Aguas Profundas \- En Vivo](https://open.spotify.com/track/44Xda9bnY1DR9AkwYUtF3K) | [Sara Borraez](https://open.spotify.com/artist/5GsoiNOyYerVge1J6FHH3u) | [Aguas Profundas \(En Vivo\)](https://open.spotify.com/album/0wE0HhmNUXL09oR1lMvNrU) | 24:13 |
 | 12 | [El Cordero de Dios](https://open.spotify.com/track/4hMnE0Mp4mgx8vXkRNudEb) | [Daniela Galeano](https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be) | [El Cordero de Dios](https://open.spotify.com/album/1TLwnYNMFBT2waKtTjbMOv) | 6:35 |

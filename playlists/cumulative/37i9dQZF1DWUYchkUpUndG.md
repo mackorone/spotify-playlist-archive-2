@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Mercy Chinwo & Nathaniel Bassey
 
-8,400 songs - 26 day 0 hr 58 min
+8,401 songs - 26 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6556,6 +6556,7 @@
 | [Sing](https://open.spotify.com/track/5cNkQfb8RYLqtuEdtGrDqC) | [Osars](https://open.spotify.com/artist/5NBWcuRuLbT9rqKq4H4sQS) | [Sing](https://open.spotify.com/album/5U5Ct5UGMNOA7mmbGohsfB) | 2:54 | 2023-12-15 | 2023-12-30 |
 | [Sing For Joy](https://open.spotify.com/track/0cdH2VxYlwElQl4nN5DqjW) | [Ccioma](https://open.spotify.com/artist/4KUBNwD9GNCDXGGHJqRbpF) | [Sing For Joy](https://open.spotify.com/album/2bLnPf8G08JcrL4N4VWGQz) | 7:09 | 2024-08-02 | 2024-08-16 |
 | [Sing for You](https://open.spotify.com/track/1IjWj9IbynPzjM1hRVIFR1) | [Peer Pressure Mcs](https://open.spotify.com/artist/4M8NUKJUbmc9y0j0GRJcXS), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ), [VonTrap](https://open.spotify.com/artist/5eIys7MbZc5zD0bzktmIZC), [Yusuf Fist](https://open.spotify.com/artist/39r5htdRsiGJajqY6je43G) | [Sing for You](https://open.spotify.com/album/02QrOO2oBCabBWzD2lb1cs) | 2:57 | 2026-02-13 | 2026-02-27 |
+| [Sing Hallelujah](https://open.spotify.com/track/6vuhl7uNuPXT2GkWCxORG2) | [Anisa Fowler](https://open.spotify.com/artist/2cNLP7g2aSAkVSYdfcQazv) | [Sing Hallelujah](https://open.spotify.com/album/1KzIax9CXuahfplIHbvLgn) | 7:04 | 2026-07-04 |  |
 | [Sing Hallelujah](https://open.spotify.com/track/7tV5kspyHg9hM9hMAnMXSG) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Sing Hallelujah](https://open.spotify.com/album/1b46ZBLiS7hkot89IFTV9p) | 4:31 | 2024-08-23 | 2024-09-06 |
 | [Sing Hallelujah](https://open.spotify.com/track/6laQTk4NLBBAPjP6Lyba2N) | [Lovern Music](https://open.spotify.com/artist/67YTFMApjFgqL8DDMp4cVg) | [Nguvu ya Imani](https://open.spotify.com/album/4L3fq2Ug30EOBywc0ZMg9o) | 2:38 | 2026-01-09 | 2026-01-23 |
 | [SING PRAISE HIM](https://open.spotify.com/track/2IcAs9m8xUkQG3as8h1h6G) | [Chrisolo Edukeyz](https://open.spotify.com/artist/4OLHnwqc2PLCKz6KD0AHWA), [Joy Enwang](https://open.spotify.com/artist/2pdI1G1bWROiRA5OR4INVN) | [SING PRAISE HIM](https://open.spotify.com/album/2CGK8UOnaZyLRyHdOzetPG) | 3:50 | 2026-01-16 | 2026-01-30 |

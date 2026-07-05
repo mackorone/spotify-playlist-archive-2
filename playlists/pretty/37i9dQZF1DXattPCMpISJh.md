@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Dabeull
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,431 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,513 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 12 | [Dance the Night Away](https://open.spotify.com/track/5DAQBmH7JUYdtKPy56al3s) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Dance the Night Away](https://open.spotify.com/album/4oCOiUj0mpDXdTXKypeAvz) | 3:44 |
 | 13 | [GOT IT ALL](https://open.spotify.com/track/04NxyzEcsCQ8VATYup0kqG) | [RC AVENUE](https://open.spotify.com/artist/72l1FxPT1pEy9kuGz2UC1w) | [GOT IT ALL](https://open.spotify.com/album/0mz1vnveYp8YhC8WDQHBZM) | 3:14 |
 | 14 | [Chemistry](https://open.spotify.com/track/6GUqseTc9d4yGETDg7dr83) | [Supertaste](https://open.spotify.com/artist/6C4cWzfNlyH0l5xTQPLQa6), [Darianna Everett](https://open.spotify.com/artist/01qiJfvXOvrFjFcwwmZ6yc) | [Chemistry](https://open.spotify.com/album/6bc2WWvQmlvgNLutY9OeDE) | 4:32 |
-| 15 | [Far Too Long](https://open.spotify.com/track/1OrOKPU1gkvREJenk6m7U4) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy) | [Far Too Long](https://open.spotify.com/album/20JmqCKJnP9Bxk3Qd5BJTv) | 3:58 |
+| 15 | [Far Too Long](https://open.spotify.com/track/1OrOKPU1gkvREJenk6m7U4) | [Antoine Bourachot](https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy), [Sodade](https://open.spotify.com/artist/5fS6fDNPVPLybAvg7YIvFt) | [Far Too Long](https://open.spotify.com/album/20JmqCKJnP9Bxk3Qd5BJTv) | 3:58 |
 | 16 | [Reverie](https://open.spotify.com/track/4cmwguUb1kOnpAW9b1tAPs) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe), [79.5](https://open.spotify.com/artist/2czOrtIVegf3rq5pabX21O) | [Reverie](https://open.spotify.com/album/5Cst2ivbaWigzETWduhoQy) | 4:37 |
 | 17 | [Open Sky](https://open.spotify.com/track/08nryBa5EmqQYNOlJEMbng) | [Jivefunkadelic](https://open.spotify.com/artist/4gOkiobVrWR36e3lXDOVCg) | [Open Sky](https://open.spotify.com/album/4tKY5Jc5ZZVmBxKK2VN9Is) | 4:24 |
 | 18 | [In A House That's Burning Down \(feat\. KOLA\)](https://open.spotify.com/track/1iTPqd6u5ktUnn5jHrquye) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [YaSi](https://open.spotify.com/artist/7emRqFqumIU39rRPvK3lbE), [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [In A House That's Burning Down \(feat\. KOLA\)](https://open.spotify.com/album/0Q4l4c6w6tZX0w8h6C2U4i) | 3:01 |

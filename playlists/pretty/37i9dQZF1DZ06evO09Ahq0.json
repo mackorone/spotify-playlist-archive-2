@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 552342,
+  "num_followers": 552413,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akWqAAAAAAARIBT2Z7O6/L5PJvb5bdQ1",
+  "snapshot_id": "akb7gAAAAACewlWaiscdrNbCfY5NGd7P",
   "tracks": [
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 375026,
-      "name": "We Love You",
-      "url": "https://open.spotify.com/track/0JUZetZb7lxLsmT7HwNCQv"
+      "duration_ms": 172318,
+      "name": "(O)rdinary",
+      "url": "https://open.spotify.com/track/5Jfa1TJRwDnofxUlDg1yQy"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 172318,
-      "name": "(O)rdinary",
-      "url": "https://open.spotify.com/track/5Jfa1TJRwDnofxUlDg1yQy"
+      "duration_ms": 375026,
+      "name": "We Love You",
+      "url": "https://open.spotify.com/track/0JUZetZb7lxLsmT7HwNCQv"
     }
   ],
   "unique_name": "This Is Avenged Sevenfold",

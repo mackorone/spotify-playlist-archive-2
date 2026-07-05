@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,996 likes - 52 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,011 likes - 52 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 7 | [Kick It Hard](https://open.spotify.com/track/5vkl2XxKyC2p9hHNkrql4c) | [franck](https://open.spotify.com/artist/3XGGc2cdg65V8AOXGfdHwb) | [Kick it Hard EP](https://open.spotify.com/album/0EznFIKVZgBFlRWToCLm3j) | 3:35 |
 | 8 | [Pow](https://open.spotify.com/track/38rWHFeG8D40XOJRa1V1O1) | [Panteros666](https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt), [MCYL](https://open.spotify.com/artist/7zlHS8g9lQlu3aHWNe4Pfr) | [Best of HARD Recs: 2024](https://open.spotify.com/album/3P3E9bC6ZxwgFZeFUkmCtn) | 2:55 |
 | 9 | [U Can Do It \- RADAR Remix](https://open.spotify.com/track/7sXLe1GiWdCYT925bHWORA) | [Grand V](https://open.spotify.com/artist/4bfsj3FOrfPAvZNbV27WHl), [RADAR](https://open.spotify.com/artist/2vSWW48mOUHkwqWZSPgcM2) | [U Can Do It \(RADAR Remix\)](https://open.spotify.com/album/76RpfXuGnhf29I4ELa9hyu) | 4:00 |
-| 10 | [Rockets \- Franck Remix](https://open.spotify.com/track/7GL24Jal62OpRBpWuRQ5Mu) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [franck](https://open.spotify.com/artist/3XGGc2cdg65V8AOXGfdHwb) | [Rockets EP](https://open.spotify.com/album/0kIj8PcdZ2iz99E8DSo7gh) | 4:42 |
+| 10 | [Rockets \- franck Remix](https://open.spotify.com/track/7GL24Jal62OpRBpWuRQ5Mu) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK), [franck](https://open.spotify.com/artist/3XGGc2cdg65V8AOXGfdHwb) | [Rockets EP](https://open.spotify.com/album/0kIj8PcdZ2iz99E8DSo7gh) | 4:42 |
 | 11 | [Dilf](https://open.spotify.com/track/7vhK0bijseTpQQQcydfVma) | [Four to Eight](https://open.spotify.com/artist/4CNhHtuDzMh8hMSKHmtxTr) | [Dilf](https://open.spotify.com/album/2vkaKYKjnR7JjaBBmlhmg2) | 5:44 |
 | 12 | [TRISHA](https://open.spotify.com/track/3eKCphLVlWBovVgh7veu2l) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [TRISHA](https://open.spotify.com/album/62H21Ioh6LEd8jq0ABjLRP) | 4:22 |
 | 13 | [Sireneh](https://open.spotify.com/track/2KOg4GRyVc7EqozP1VhkFg) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Sireneh](https://open.spotify.com/album/3xJuCxobi6BWjqZH92UIAA) | 3:06 |

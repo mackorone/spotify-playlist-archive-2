@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,881 likes - 72 songs - 4 hr 22 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,880 likes - 76 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,9 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 70 | [Deep Cut](https://open.spotify.com/track/02bk2a5aKm03H9AeQQKQi7) | [Southern States](https://open.spotify.com/artist/2hpxrkZg9qkbadFtXnD0g2) | [Deep Cut EP](https://open.spotify.com/album/3KGDNN12K38UHMMK2Y9zRd) | 2:26 |
 | 71 | [Blood In My Margarita](https://open.spotify.com/track/7FnAZu16iYNzn1WrRbYFbp) | [Idle Hive](https://open.spotify.com/artist/3bQIHJpzSqqXQJBhX3xW0K) | [Blood In My Margarita](https://open.spotify.com/album/6edO6esJBfjew89feH2UL8) | 3:47 |
 | 72 | [Change](https://open.spotify.com/track/4R2lNQAf735RGb9Q1ujGj5) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Change](https://open.spotify.com/album/3IY95C3MaVS42sm8FXxGYj) | 2:48 |
+| 73 | [Stolen Youth](https://open.spotify.com/track/5L1ZtnPyztBReHpcSDhynz) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Stolen Youth](https://open.spotify.com/album/60sXsHPRz2Muij3B3NXeee) | 3:36 |
+| 74 | [Sexy FreakA'Licious](https://open.spotify.com/track/0F6kLRMq4OACLAxyJhYNWk) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Voices In My Head](https://open.spotify.com/album/72DfBlLmdUjZw7r2WRRwBt) | 3:07 |
+| 75 | [Starfalls](https://open.spotify.com/track/6ZovhFOyc06N6HIYXm0HiG) | [the sets](https://open.spotify.com/artist/3HmGzhNX02d5uG5ZSwI2my) | [Starfalls](https://open.spotify.com/album/0i15SKz5PoOeRv7NsgadK6) | 3:14 |
+| 76 | [Someone Else's Day](https://open.spotify.com/track/721821c6VMPC4uRmUciT4I) | [Neatly Drawn Blinds](https://open.spotify.com/artist/1ZWxWqVwTX6GOuXNn9L4hY) | [Someone Else's Day](https://open.spotify.com/album/35u9wOG99ZNhkdkHOsGYsW) | 3:03 |
 
-Snapshot ID: `AAACvOt8nIvz+f+hgHxVp0xNThspsHC1`
+Snapshot ID: `AAACwFbArl4udp7oUgzBj476csoQQhHm`

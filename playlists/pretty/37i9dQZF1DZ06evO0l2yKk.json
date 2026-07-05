@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 204779,
+  "num_followers": 204842,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akWqAAAAAAB0U5/7ENVQ1XOv6crRN1FB",
+  "snapshot_id": "akb7gAAAAADG6L2kLbUxpSRafQV43fhf",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 172120,
-      "name": "Si Ella Supiera",
-      "url": "https://open.spotify.com/track/5xG0CJRnQBHalC5CtXlpNN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Muchas Ganas",
         "url": "https://open.spotify.com/album/2MOExkDSqVzW1ahSYTBU3V"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 198533,
       "name": "Y Le Dir\u00e9",
       "url": "https://open.spotify.com/track/2PLLTB5IgPTEBfOkgFOa65"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 172120,
+      "name": "Si Ella Supiera",
+      "url": "https://open.spotify.com/track/5xG0CJRnQBHalC5CtXlpNN"
     },
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiesta Norte\u00f1a Puras Cumbias",
-        "url": "https://open.spotify.com/album/7dKTUMDMyCyUnAHF1L1VKG"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 147266,
-      "name": "Las Cerezas",
-      "url": "https://open.spotify.com/track/4yRpPJBLOuTcXQDxEkCEt1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuevamente El Amor",
         "url": "https://open.spotify.com/album/7qFy8pz6riHrOQLtFHjXcF"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 175693,
       "name": "Nuevamente El Amor",
       "url": "https://open.spotify.com/track/3ADa5NLyUgz1mUGpJZ8ZGh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fiesta Norte\u00f1a Puras Cumbias",
+        "url": "https://open.spotify.com/album/7dKTUMDMyCyUnAHF1L1VKG"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 147266,
+      "name": "Las Cerezas",
+      "url": "https://open.spotify.com/track/4yRpPJBLOuTcXQDxEkCEt1"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+        "name": "Con Canciones Y Tequila",
+        "url": "https://open.spotify.com/album/4ZpXhH9DPhBw0KR7Mv2fYi"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 154106,
-      "name": "Me Olvidaste",
-      "url": "https://open.spotify.com/track/6FU10QrwEVnwYtMLjUMKmT"
+      "duration_ms": 179786,
+      "name": "No Te Imaginas",
+      "url": "https://open.spotify.com/track/2UP8Fg5RsgmsJeF00SXJtB"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Canciones Y Tequila",
-        "url": "https://open.spotify.com/album/4ZpXhH9DPhBw0KR7Mv2fYi"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 179786,
-      "name": "No Te Imaginas",
-      "url": "https://open.spotify.com/track/2UP8Fg5RsgmsJeF00SXJtB"
+      "duration_ms": 154106,
+      "name": "Me Olvidaste",
+      "url": "https://open.spotify.com/track/6FU10QrwEVnwYtMLjUMKmT"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Compraron Una Cantina",
-        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
+        "name": "Cumbias Para Bailar",
+        "url": "https://open.spotify.com/album/19Cjoyl4TH19XyyQ1gdbhh"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 206773,
-      "name": "Asesino A Sueldo",
-      "url": "https://open.spotify.com/track/2ulz3pFEWMaclKCx5P8Hhy"
+      "duration_ms": 191320,
+      "name": "Te Olvid\u00e9 - Cumbia",
+      "url": "https://open.spotify.com/track/1AFNLf3hhqMETOzO2Jd1rc"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbias Para Bailar",
-        "url": "https://open.spotify.com/album/19Cjoyl4TH19XyyQ1gdbhh"
+        "name": "Compraron Una Cantina",
+        "url": "https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 191320,
-      "name": "Te Olvid\u00e9 - Cumbia",
-      "url": "https://open.spotify.com/track/1AFNLf3hhqMETOzO2Jd1rc"
+      "duration_ms": 206773,
+      "name": "Asesino A Sueldo",
+      "url": "https://open.spotify.com/track/2ulz3pFEWMaclKCx5P8Hhy"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Nadie Sepa",
-        "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "Por las Damas Caballero",
-      "url": "https://open.spotify.com/track/5O5Ys0jXCp1jFcrqkq54yj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde el Sur Hasta el Norte",
         "url": "https://open.spotify.com/album/5nR9alnjJoAwYoLJmRX050"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 211080,
       "name": "M\u00eda",
       "url": "https://open.spotify.com/track/78y0q35fwtH6nLW7X7gxqS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Nadie Sepa",
+        "url": "https://open.spotify.com/album/6JVwjpwLcZgWMw56dDVSxr"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Por las Damas Caballero",
+      "url": "https://open.spotify.com/track/5O5Ys0jXCp1jFcrqkq54yj"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "canciones para chillear con Mon Laferte",
-  "num_followers": 29032,
+  "num_followers": 29031,
   "original_name": "pop tranqui",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
+        "name": "Salvando las Distancias",
+        "url": "https://open.spotify.com/album/2yM2f1BwK5B1xS1KugaqEt"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Amadeo",
+          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
+        }
+      ],
+      "duration_ms": 235500,
+      "name": "Te So\u00f1aba",
+      "url": "https://open.spotify.com/track/5jhCXVjJEsmmJys48FEDIE"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
         "name": "M\u00e1quina del Tiempo",
         "url": "https://open.spotify.com/album/2MyOEXK1SPgLVqkmrMGlnD"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 247412,
       "name": "M\u00e1quina del Tiempo",
       "url": "https://open.spotify.com/track/4j4nMKhrAES1zlBrX6CQ8Q"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
-        "name": "Salvando las Distancias",
-        "url": "https://open.spotify.com/album/2yM2f1BwK5B1xS1KugaqEt"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Amadeo",
-          "url": "https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG"
-        }
-      ],
-      "duration_ms": 235500,
-      "name": "Te So\u00f1aba",
-      "url": "https://open.spotify.com/track/5jhCXVjJEsmmJys48FEDIE"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "SER AMIGOS (olvida)",
-        "url": "https://open.spotify.com/album/6fjvO0I7QKkKLrpr4esvh1"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 247790,
-      "name": "SER AMIGOS (olvida)",
-      "url": "https://open.spotify.com/track/1Hgqs710QBTM5lp7Tbv8ad"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "Toda la vida",
         "url": "https://open.spotify.com/album/7udgVaRDthuSi8JtMTz0e1"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 274908,
       "name": "Toda la vida",
       "url": "https://open.spotify.com/track/34M4ir211IC4o1oF4WkgzZ"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "SER AMIGOS (olvida)",
+        "url": "https://open.spotify.com/album/6fjvO0I7QKkKLrpr4esvh1"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        },
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 247790,
+      "name": "SER AMIGOS (olvida)",
+      "url": "https://open.spotify.com/track/1Hgqs710QBTM5lp7Tbv8ad"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "TRANQUILO",
-        "url": "https://open.spotify.com/album/5HOpMuZu29Wzg8rcNAgfxo"
-      },
-      "artists": [
-        {
-          "name": "Santi Celli",
-          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
-        }
-      ],
-      "duration_ms": 240535,
-      "name": "TRANQUILO",
-      "url": "https://open.spotify.com/track/0iJJlpfRTMNhqpd1tDAAjY"
-    },
-    {
-      "added_at": "2026-07-03 03:00:43",
-      "album": {
         "name": "Agradezco Haberme Equivocado",
         "url": "https://open.spotify.com/album/6qYU7btru03OP3M4eMHtJa"
       },
@@ -1511,18 +1495,18 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "Dejame de Joder",
-        "url": "https://open.spotify.com/album/0tw7URjGOJqmjdH55c1zu6"
+        "name": "TRANQUILO",
+        "url": "https://open.spotify.com/album/5HOpMuZu29Wzg8rcNAgfxo"
       },
       "artists": [
         {
-          "name": "SOFA",
-          "url": "https://open.spotify.com/artist/1qq6GushnQDP09yNO9VcEX"
+          "name": "Santi Celli",
+          "url": "https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF"
         }
       ],
-      "duration_ms": 146747,
-      "name": "Dejame de Joder",
-      "url": "https://open.spotify.com/track/7edfsFmsbjrcKKsCxxQzBE"
+      "duration_ms": 240535,
+      "name": "TRANQUILO",
+      "url": "https://open.spotify.com/track/0iJJlpfRTMNhqpd1tDAAjY"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2026-07-03 03:00:43",
       "album": {
-        "name": "Lejos De Todo",
-        "url": "https://open.spotify.com/album/0BTlNjaXzEluXhNGGyz0lz"
+        "name": "Dejame de Joder",
+        "url": "https://open.spotify.com/album/0tw7URjGOJqmjdH55c1zu6"
       },
       "artists": [
         {
-          "name": "Koino Yokan",
-          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+          "name": "SOFA",
+          "url": "https://open.spotify.com/artist/1qq6GushnQDP09yNO9VcEX"
         }
       ],
-      "duration_ms": 178678,
-      "name": "Lejos De Todo",
-      "url": "https://open.spotify.com/track/09STQVdUiyjoR4b90fqBhU"
+      "duration_ms": 146747,
+      "name": "Dejame de Joder",
+      "url": "https://open.spotify.com/track/7edfsFmsbjrcKKsCxxQzBE"
     },
     {
       "added_at": "2026-07-03 03:00:43",
@@ -1571,6 +1555,22 @@
       "duration_ms": 247015,
       "name": "Las Cosas Simples",
       "url": "https://open.spotify.com/track/3nO0c6dxcZqrDW4WTEtKUr"
+    },
+    {
+      "added_at": "2026-07-03 03:00:43",
+      "album": {
+        "name": "Lejos De Todo",
+        "url": "https://open.spotify.com/album/0BTlNjaXzEluXhNGGyz0lz"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        }
+      ],
+      "duration_ms": 178678,
+      "name": "Lejos De Todo",
+      "url": "https://open.spotify.com/track/09STQVdUiyjoR4b90fqBhU"
     },
     {
       "added_at": "2026-07-03 03:00:43",

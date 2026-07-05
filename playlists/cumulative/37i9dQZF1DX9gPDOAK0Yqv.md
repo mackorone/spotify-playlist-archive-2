@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-923 songs - 2 day 19 hr 39 min
+924 songs - 2 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -575,7 +575,7 @@
 | [Ocean Drive](https://open.spotify.com/track/5p8w7JOwtF7brVkTIErUpT) | [Scott Rill](https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV), [ETERN3](https://open.spotify.com/artist/5PdrEVEQ1qv1psFZ9pxDMx) | [Ocean Drive](https://open.spotify.com/album/7zvBu5tW5d286WfktO4bRV) | 3:55 | 2023-11-09 | 2023-12-01 |
 | [Of Me \- Edit](https://open.spotify.com/track/292721zd62TFxtEeKAYmFP) | [Pryda](https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt) | [The Return/Of Me](https://open.spotify.com/album/4fnoEdPFTsXhkKPmwRwlJL) | 4:05 | 2023-08-04 | 2023-11-26 |
 | [Off The Hook](https://open.spotify.com/track/5W806lkZxjDQSmNZGJcLj1) | [JOA](https://open.spotify.com/artist/3rOSOkPQ5PHYOiR7mvLTMA) | [Off The Hook](https://open.spotify.com/album/38MnYhXdB2kS4gQlCmhPNq) | 2:34 | 2025-11-13 |  |
-| [Often](https://open.spotify.com/track/6PM3F8LZFqlyncdYxfQJXC) | [Zen/it](https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82) | [Often](https://open.spotify.com/album/2y6xOjhYIa6RPIopelsGnu) | 2:46 | 2025-01-16 |  |
+| [Often](https://open.spotify.com/track/6PM3F8LZFqlyncdYxfQJXC) | [Zen/it](https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82) | [Often](https://open.spotify.com/album/2y6xOjhYIa6RPIopelsGnu) | 2:46 | 2025-01-16 | 2026-07-05 |
 | [Olympus](https://open.spotify.com/track/0hfyaFhHkcEdWWckyVRnH6) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Olympus](https://open.spotify.com/album/3lFDbkGVwjx3Dp1Kx4Fqus) | 2:57 | 2024-02-23 | 2024-05-28 |
 | [On My Knees \- Cassian Remix](https://open.spotify.com/track/1CSpqWhM6rbOvA268uT9jh) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [On My Knees \(Cassian Remix\)](https://open.spotify.com/album/45YkAIprd06F6G1zKJiJ4B) | 5:48 | 2022-12-28 | 2023-01-06 |
 | [On My Mind](https://open.spotify.com/track/37kpEfqDWJnyDDqYRj63km) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [ELAKTO](https://open.spotify.com/artist/1gkYnpnX46vMIbO3iulN7q) | [On My Mind](https://open.spotify.com/album/0J2zPbp0xDXvIJBX9lt0Ij) | 2:19 | 2025-08-29 | 2025-11-14 |
@@ -667,6 +667,7 @@
 | [Resonate](https://open.spotify.com/track/3uMmez8jeegK8HpgcwbA1V) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/0PcWgMMLJGtg1rdEtrF1fa) | 3:41 | 2023-07-07 | 2024-04-19 |
 | [Resonate \(feat\. Julia Church\)](https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Resonate \(feat\. Julia Church\)](https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ) | 4:01 | 2024-06-20 | 2026-04-03 |
 | [Restore](https://open.spotify.com/track/0YlaTJMGeSkSocg77wPpJu) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5) | [Restore](https://open.spotify.com/album/0KUTLvMNkFGeyMQ0WmGUJp) | 7:13 | 2022-12-09 | 2023-04-09 |
+| [ResuRection](https://open.spotify.com/track/3avXtcd0oJNUVB7prZEDYn) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Planet Perfecto Knights](https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs) | [ResuRection](https://open.spotify.com/album/1huuNXEaRU60RRZ2T4x5LI) | 2:59 | 2026-07-02 |  |
 | [Return to Forever](https://open.spotify.com/track/7l4p4jwpwtXgbJVZTjbU8s) | [Anakim](https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ) | [Return to Forever](https://open.spotify.com/album/47I45xg9PGxwy3k8kCeWUr) | 8:08 | 2022-11-23 | 2023-01-22 |
 | [Revision](https://open.spotify.com/track/6Sx4f9KKwMl2YRguEqiL0A) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Revision](https://open.spotify.com/album/5zfHOeT9bFwQQm8H95crzB) | 7:13 | 2022-12-16 | 2023-04-03 |
 | [Revival](https://open.spotify.com/track/2GR1NiNV20Io0Wkqr5tub3) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn), [Hard Reset](https://open.spotify.com/artist/6liKh5rs35Y5VML94ZCswV) | [Revival](https://open.spotify.com/album/0Ktu6EbRo5a0oJPUajXHfC) | 4:03 | 2024-09-05 | 2024-11-22 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 14007,
+  "num_followers": 14015,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akWqAAAAAABysBK54pMZjoL15vl4KY3H",
+  "snapshot_id": "akb7gAAAAABKjxzOzPJt/ffdBuKRabkI",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Linger [Spanish Mix (2026)]",
-        "url": "https://open.spotify.com/album/3tQd63g2Ydd2pNr08b4mAg"
+        "name": "KOR KOR LAKE",
+        "url": "https://open.spotify.com/album/5oAqoeVSSkUgq52mNXfppk"
       },
       "artists": [
         {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+          "name": "Rojuu",
+          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
         },
         {
           "name": "Bratty",
           "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 225216,
-      "name": "Linger - Spanish Mix (2026)",
-      "url": "https://open.spotify.com/track/34HvVFUB2RDNhsf71SiF5X"
+      "duration_ms": 193624,
+      "name": "NADA ME LEVANTA",
+      "url": "https://open.spotify.com/track/7npg53FrMEJC1VCdLk3seG"
     },
     {
       "added_at": null,
@@ -239,6 +239,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Linger [Spanish Mix (2026)]",
+        "url": "https://open.spotify.com/album/3tQd63g2Ydd2pNr08b4mAg"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        },
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 225216,
+      "name": "Linger - Spanish Mix (2026)",
+      "url": "https://open.spotify.com/track/34HvVFUB2RDNhsf71SiF5X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Delusi\u00f3n",
         "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 193120,
       "name": "Quiero Estar",
       "url": "https://open.spotify.com/track/7EjYMczG2zkInd4Rs5Y2Oc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KOR KOR LAKE",
-        "url": "https://open.spotify.com/album/5oAqoeVSSkUgq52mNXfppk"
-      },
-      "artists": [
-        {
-          "name": "Rojuu",
-          "url": "https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi"
-        },
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 193624,
-      "name": "NADA ME LEVANTA",
-      "url": "https://open.spotify.com/track/7npg53FrMEJC1VCdLk3seG"
     },
     {
       "added_at": null,

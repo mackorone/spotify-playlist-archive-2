@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Madonna, SIENNA SPIRO, Jorja Smith and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,031,565 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,568 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 33 | [Party Lines](https://open.spotify.com/track/2JbBTCHydjRliSvqMrZkhp) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Party Lines](https://open.spotify.com/album/3QaE8o1uk2xnqm3iSSYtno) | 2:59 |
 | 34 | [SKATE WHEELS](https://open.spotify.com/track/43RnMZpOmhV28qnQNQ15hD) | [Paul Stephan](https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF) | [SKATE WHEELS](https://open.spotify.com/album/5ygRwirPPMuGcDHWbQyoKT) | 2:36 |
 | 35 | [Bonjour, Pardon, Merci](https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Bonjour, Pardon, Merci](https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ) | 3:10 |
-| 36 | [I'll Take Care Of U \(ITCOU\)](https://open.spotify.com/track/3g3w1cpcgFS6QEPrjfAAZn) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [I’ll Take Care Of U \(ITCOU\)](https://open.spotify.com/album/4BMkaqDj1ckCqsD5smAuhp) | 2:55 |
+| 36 | [I'll Take Care Of U \(ITCOFU\)](https://open.spotify.com/track/3g3w1cpcgFS6QEPrjfAAZn) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [I’ll Take Care Of U \(ITCOFU\)](https://open.spotify.com/album/4BMkaqDj1ckCqsD5smAuhp) | 2:55 |
 | 37 | [remember my name](https://open.spotify.com/track/5xmNuWZX1YTmuqH0V8Nlw3) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [remember my name](https://open.spotify.com/album/5xylOGmCjHPVBpPpo0SpbN) | 3:41 |
 | 38 | [what do i know](https://open.spotify.com/track/4f8n33TNaDSEl9alg3OyPF) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [what do i know](https://open.spotify.com/album/5zt3FqkSfRiMLSbUPbaMaF) | 2:38 |
 | 39 | [New Life](https://open.spotify.com/track/4kChQPTV6rUnbRcFXK5Deg) | [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Whiney](https://open.spotify.com/artist/4YTBo7qadslqj8V8FMRuqK) | [New Life](https://open.spotify.com/album/2d4ZLJf4s8WuBZLja7SqBk) | 2:50 |

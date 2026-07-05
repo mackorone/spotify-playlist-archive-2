@@ -4,7 +4,7 @@
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-4,969 songs - 11 day 13 hr 20 min
+4,970 songs - 11 day 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1368,6 +1368,7 @@
 | [Fall Away](https://open.spotify.com/track/55BUd2feeBMNek0NwXEYT7) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [Return to the Spectrum of Intergalactic Happiness](https://open.spotify.com/album/7nD3FgLtAjNqWb953Hjigu) | 4:13 | 2025-03-07 | 2025-04-12 |
 | [Fall Back to Nothing \(feat\. Saint Monet\)](https://open.spotify.com/track/2BKaOhRDmln79AvTiZecSm) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Saint Monet](https://open.spotify.com/artist/4e2ZNjwJe4tq6QEkvie7hR) | [Fall Back to Nothing \(feat\. Saint Monet\)](https://open.spotify.com/album/1wTrrTGokRFfWFDsLDhZgV) | 3:43 | 2026-07-03 |  |
 | [Fall Deep](https://open.spotify.com/track/4ILeI9ymnWnt3f6bAUbqSn) | [Samantha Michelle](https://open.spotify.com/artist/1Af1qvUzBda9tsEg9NfaSv) | [Fall Deep](https://open.spotify.com/album/2C4FcCo5mTlMTBBImsknk8) | 2:59 | 2025-12-19 | 2026-01-17 |
+| [fall in love](https://open.spotify.com/track/5yMFw717iqdeSNInT5MYar) | [yaego](https://open.spotify.com/artist/3F5cNbKjtYHvv43yu5BhKp), [jsn](https://open.spotify.com/artist/4x7PqXEtmz3dDmITCIhFfj) | [fall in love](https://open.spotify.com/album/4BxpNEbebuU11QYI22ORAC) | 2:56 | 2026-07-04 |  |
 | [fall into you](https://open.spotify.com/track/3lllNdHwDYVRlRxK7Dcd2p) | [ROSSY](https://open.spotify.com/artist/4wJ7gER76tRe6yTO87KySS) | [fall into you](https://open.spotify.com/album/2Ffo5dTtoOVKL4X6MXfxab) | 3:37 | 2026-01-16 | 2026-02-14 |
 | [Fall to the Ceiling](https://open.spotify.com/track/29vvVPlZvI5BGAeHWCTOgD) | [Body Ocean](https://open.spotify.com/artist/33f4HE9MrvJAlX9cOuhAay), [Matsu](https://open.spotify.com/artist/2bFIsZ2C80LKx8Pdk8KW5U) | [Fall to the Ceiling](https://open.spotify.com/album/62FHwz3srtpoD0t2H5YVow) | 3:30 | 2026-06-26 |  |
 | [FALL WITH ME](https://open.spotify.com/track/64R7y9nCSQtZXPTsSBxUhe) | [ATLiens](https://open.spotify.com/artist/74RET4rCZPTGzhsLjD0i3g) | [DESTRUCTION OF A UFO](https://open.spotify.com/album/7KToeeuacOaEySYFDzjVTk) | 3:33 | 2026-05-29 | 2026-06-27 |
@@ -2488,7 +2489,7 @@
 | [Last Breath](https://open.spotify.com/track/2HVaeuA8sWRsSYnfHbQN4S) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR) | [Last Breath](https://open.spotify.com/album/7qLyuZHI5ZrzRnSXIq79R6) | 2:58 | 2026-01-23 | 2026-02-21 |
 | [Last Forever](https://open.spotify.com/track/17DObRgarppeleRuJJOV8q) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Last Forever](https://open.spotify.com/album/6u9A0fkIdZfRNpLepIV39C) | 5:09 | 2025-08-08 | 2025-09-06 |
 | [Last October](https://open.spotify.com/track/2mQI9h4mI5MlHJGnF2WJSU) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Last October](https://open.spotify.com/album/6EqGtuFdenyq037JmYDZF4) | 3:08 | 2026-05-22 | 2026-06-20 |
-| [Last October \- Remix](https://open.spotify.com/track/75SK5N19V2ZiYWzbWtfxYu) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Last October \(Remix\)](https://open.spotify.com/album/6NWR1LDtue2wigQmSs0OrV) | 3:40 | 2026-07-03 |  |
+| [Last October \- Harry Hayes Remix](https://open.spotify.com/track/75SK5N19V2ZiYWzbWtfxYu) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [Last October \(Harry Hayes Remix\)](https://open.spotify.com/album/6NWR1LDtue2wigQmSs0OrV) | 3:40 | 2026-07-03 |  |
 | [LAST OF US \(feat\. Rita Ora\)](https://open.spotify.com/track/2Mwmp4qVCe8CJcalsT4xm1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [LAST OF US \(feat\. Rita Ora\)](https://open.spotify.com/album/19wUjYvz97e0wXWHE41PSV) | 3:10 | 2024-02-16 | 2024-03-16 |
 | [Last One For Today](https://open.spotify.com/track/2Rlwc41Lv2p1bARfNuYfrj) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Nyra](https://open.spotify.com/artist/68JPALv2DlQNPeiyyO7PP8) | [Last One For Today](https://open.spotify.com/album/7JyUDLcqiIs63lqhn1SalC) | 6:23 | 2024-05-24 | 2024-06-22 |
 | [Last Time Under Purple Skies](https://open.spotify.com/track/1JYACIHJjFOUzOnbxUBmLm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Last Time Under Purple Skies](https://open.spotify.com/album/0SH7q3HmEjk11tNZNzbHOr) | 3:21 | 2025-01-31 | 2025-03-08 |

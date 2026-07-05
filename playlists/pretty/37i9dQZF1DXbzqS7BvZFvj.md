@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: GloRilla,  Pooh Shiesty
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,952 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,956 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 | 99 | [Good Flirts \(feat\. Kendrick Lamar & Momo Boyd\)](https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd) | [Ca$ino](https://open.spotify.com/album/21xGzx6HTydCnvfZTvLf6b) | 3:52 |
 | 100 | [Library](https://open.spotify.com/track/1zkV55VvTGcUzXlmlsjOrd) | [BudaMunk](https://open.spotify.com/artist/1yWuJDLSCfY5Zrjv6JmtWC), [ISSUGI](https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp), [Mr.PUG](https://open.spotify.com/artist/6Krff7V51mFx54e4rF9IxG) | [Library](https://open.spotify.com/album/57T6xdJ2NQR6RLkYi6h2n6) | 2:46 |
 
-Snapshot ID: `AAAAABSrrMdxDIPDP73J38uec6r0boQm`
+Snapshot ID: `AAAAAC0zoYXrIP1ipMn/yAqM5zXpW5Ar`
