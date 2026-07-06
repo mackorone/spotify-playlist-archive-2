@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608 likes - 351 songs - 20 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 608 likes - 350 songs - 20 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 101 | [End of the World](https://open.spotify.com/track/60myXm48xMbtq52nQRgEWc) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically](https://open.spotify.com/album/76TPKafjzyzB1PjXOuvRtT) | 3:28 |
 | 102 | [Over Drinking](https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:10 |
 | 103 | [When You're My Age \(feat\. Hillary Lindsey & Liz Rose\)](https://open.spotify.com/track/7s5oiz0hI98X6FQ5cmvPlf) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl), [Liz Rose](https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT), [Hillary Lindsey](https://open.spotify.com/artist/5mX9Z6qHTTHHFCreShrFIA) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 5:11 |
-| 104 | [You Can't Bring Me Down](https://open.spotify.com/track/1Ov9aXTcZomQ8wUmgns3Ul) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 4:46 |
-| 105 | [Take Me Out](https://open.spotify.com/track/4Fdn6pClZqqubxguo8KqxN) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones \(Deluxe Edition\)](https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy) | 4:03 |
+| 104 | [Take Me Out](https://open.spotify.com/track/4Fdn6pClZqqubxguo8KqxN) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones \(Deluxe Edition\)](https://open.spotify.com/album/7KYgF3DFsc2eCamlB4JMzy) | 4:03 |
+| 105 | [You Can't Bring Me Down](https://open.spotify.com/track/1Ov9aXTcZomQ8wUmgns3Ul) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [The Mountain](https://open.spotify.com/album/45fVgJb5lmzatX9VZ4yzSO) | 4:46 |
 | 106 | [Cheap Wine & Cigarettes](https://open.spotify.com/track/0XLFn1nogKrTOp70huYjw1) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Light Up The Night](https://open.spotify.com/album/5rS288rPuXrXGuy5djlS9G) | 2:43 |
 | 107 | [Hold On Me](https://open.spotify.com/track/498mz1TlZyPbyEEbF0YScP) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:36 |
 | 108 | [Ghosts On The Stereo](https://open.spotify.com/track/0aoT1B6jxuaxPh1RQ2Cank) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 4:13 |
@@ -235,10 +235,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 225 | [Baby Don't](https://open.spotify.com/track/6KoQOHQDZrpYUb0l8yMTP6) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Rope the Wind](https://open.spotify.com/album/7p7wXeb04T2GreanVqeoQo) | 3:03 |
 | 226 | [The Ocean \(feat\. Charlie Worsham\)](https://open.spotify.com/track/12ALWlz3yguV0jVN48lJ7v) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Honestly](https://open.spotify.com/album/2BYla6WWm0VEEnLbDwlxJp) | 3:35 |
 | 227 | [Sleep Tonight](https://open.spotify.com/track/3HBC5iUDIpBiKPCZ5a7x2F) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Tim McGraw And The Dancehall Doctors](https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6) | 4:02 |
-| 228 | [Feels So Real](https://open.spotify.com/track/3BO7yxyGp0Yc8t4RyOEx0X) | [Edens Edge](https://open.spotify.com/artist/6KAwb5D0KanI575XxOucMt) | [Edens Edge](https://open.spotify.com/album/4ekhL42kV8thlGniI39vnP) | 4:08 |
-| 229 | [Same Story, Different Saturday Night](https://open.spotify.com/track/1grdUbldRIJH2udgV8T8nh) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 3:20 |
-| 230 | [Stubborn](https://open.spotify.com/track/1Pt29W5dvCSlYnkwi2dYEC) | [Mary Sarah](https://open.spotify.com/artist/5tP5qKnhTbTa2uEL3CLHh9) | [Stubborn](https://open.spotify.com/album/6NPPcxSzxS5eegNBHOyCFC) | 3:35 |
-| 231 | [Hey There Sunshine](https://open.spotify.com/track/50msnc46msWmYW2kRjyZxx) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Hey There Sunshine](https://open.spotify.com/album/3pLOueRkk7XQP3sBkG2oMo) | 3:56 |
+| 228 | [Same Story, Different Saturday Night](https://open.spotify.com/track/1grdUbldRIJH2udgV8T8nh) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 3:20 |
+| 229 | [Feels So Real](https://open.spotify.com/track/3BO7yxyGp0Yc8t4RyOEx0X) | [Edens Edge](https://open.spotify.com/artist/6KAwb5D0KanI575XxOucMt) | [Edens Edge](https://open.spotify.com/album/4ekhL42kV8thlGniI39vnP) | 4:08 |
+| 230 | [Hey There Sunshine](https://open.spotify.com/track/50msnc46msWmYW2kRjyZxx) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Hey There Sunshine](https://open.spotify.com/album/3pLOueRkk7XQP3sBkG2oMo) | 3:56 |
+| 231 | [Stubborn](https://open.spotify.com/track/1Pt29W5dvCSlYnkwi2dYEC) | [Mary Sarah](https://open.spotify.com/artist/5tP5qKnhTbTa2uEL3CLHh9) | [Stubborn](https://open.spotify.com/album/6NPPcxSzxS5eegNBHOyCFC) | 3:35 |
 | 232 | [Otis Redding](https://open.spotify.com/track/0MvVDZISOcx0CpWxTWbAcn) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/1hkmdmciMUjVLInxxEhHCY) | 4:37 |
 | 233 | [Always Want You](https://open.spotify.com/track/3F5lEvi2p5Nm607SrKoDS0) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Bird & the Rifle](https://open.spotify.com/album/61WR0KS7E4RJV6JC2TZ8Gk) | 4:06 |
 | 234 | [Written In The Bar](https://open.spotify.com/track/6Po3hqpoEUAFkeubltnsJv) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Sitting Pretty On Top Of The World](https://open.spotify.com/album/50rJgPQvYLeiC3Ub9c5tGJ) | 3:20 |
@@ -353,11 +353,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 343 | [Cowgirls](https://open.spotify.com/track/4bfojGasuysYXP89yxinUC) | [Magnolia](https://open.spotify.com/artist/4SG0MMfLI2lJtZa92Xu13q) | [Fall Down Seven](https://open.spotify.com/album/1TTntiioyUAC3ntRCaSwow) | 3:11 |
 | 344 | [This Time Of Year](https://open.spotify.com/track/5I4vX0BnOj8Hkb2pyln7s3) | [Melanie Morgan](https://open.spotify.com/artist/5SW32PeH4qJv83WrsbKaXL) | [Goodbye Birmingham](https://open.spotify.com/album/43WOGGhIFomvkV9tunjaA6) | 5:14 |
 | 345 | [You Ain't Know](https://open.spotify.com/track/270EaQRmJklbHSrcPKQbGt) | [Millz Tha Difference](https://open.spotify.com/artist/3rI5ILtC3NxAtuRDzJ292X) | [You Ain't Know](https://open.spotify.com/album/4ivpwP0SYc2dvvRgduvLjg) | 3:34 |
-| 346 | [Burn](https://open.spotify.com/track/235ocf9mxXmf8kCxRfFc7I) | [Janajana](https://open.spotify.com/artist/1PMgco8DXnVuk4Lr1cw1rR) | [Typical Girl](https://open.spotify.com/album/6zjIhOAyWgjOCHXwTVpzWo) | 3:29 |
-| 347 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
-| 348 | [Chasing Angels](https://open.spotify.com/track/7a8YfigQUAFQn7ORKlu87D) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 3:25 |
-| 349 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
-| 350 | [What Would You Do](https://open.spotify.com/track/4kFWLoSCSUTEDbF1rkf8pf) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 2:59 |
-| 351 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
+| 346 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
+| 347 | [Chasing Angels](https://open.spotify.com/track/7a8YfigQUAFQn7ORKlu87D) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 3:25 |
+| 348 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
+| 349 | [What Would You Do](https://open.spotify.com/track/4kFWLoSCSUTEDbF1rkf8pf) | [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [Roses & Lace](https://open.spotify.com/album/0KxZ4zOK41QG8Vz8uO7isO) | 2:59 |
+| 350 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `AcV/HgAAAADGSWva+9txEST+f2Pl+3kO`
+Snapshot ID: `AcWE+gAAAABOqBxu8j0PYiwtvVTQUUFC`

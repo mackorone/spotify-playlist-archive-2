@@ -1,6 +1,6 @@
 {
   "description": "Die Playlist zur Wasserpfeife. Cover: RAF Camora",
-  "num_followers": 911416,
+  "num_followers": 911390,
   "original_name": "Shisha Club",
   "owner": {
     "name": "Spotify",
@@ -343,26 +343,18 @@
     {
       "added_at": "2026-07-02 22:00:48",
       "album": {
-        "name": "ONLY ONE",
-        "url": "https://open.spotify.com/album/5zXhvrrQM6oKOSsdijTNf9"
+        "name": "HYAT",
+        "url": "https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b"
       },
       "artists": [
         {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
-        },
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
         }
       ],
-      "duration_ms": 191062,
-      "name": "ONLY ONE",
-      "url": "https://open.spotify.com/track/46pK7XhpU1xGsuyy2lJXGx"
+      "duration_ms": 165372,
+      "name": "GHETTOGIRL",
+      "url": "https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79"
     },
     {
       "added_at": "2026-07-02 22:00:48",
@@ -387,18 +379,26 @@
     {
       "added_at": "2026-07-02 22:00:48",
       "album": {
-        "name": "HYAT",
-        "url": "https://open.spotify.com/album/4VjkWLgSYG48sOxXu7aX8b"
+        "name": "ONLY ONE",
+        "url": "https://open.spotify.com/album/5zXhvrrQM6oKOSsdijTNf9"
       },
       "artists": [
         {
-          "name": "CAPO",
-          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
         }
       ],
-      "duration_ms": 165372,
-      "name": "GHETTOGIRL",
-      "url": "https://open.spotify.com/track/0G5x5rALxKOkwicMjKta79"
+      "duration_ms": 191062,
+      "name": "ONLY ONE",
+      "url": "https://open.spotify.com/track/46pK7XhpU1xGsuyy2lJXGx"
     },
     {
       "added_at": "2026-07-02 22:00:48",
@@ -603,22 +603,22 @@
     {
       "added_at": "2026-07-02 22:00:48",
       "album": {
-        "name": "BOMBA",
-        "url": "https://open.spotify.com/album/55nMza6I5YB14vZo6Yn9v9"
+        "name": "Love all night",
+        "url": "https://open.spotify.com/album/2U8inedtU0YX3Von3qAsiU"
       },
       "artists": [
         {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
         },
         {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
         }
       ],
-      "duration_ms": 165799,
-      "name": "BOMBA",
-      "url": "https://open.spotify.com/track/25P9EcttXxSTTRESdfTWoT"
+      "duration_ms": 169160,
+      "name": "Love all night",
+      "url": "https://open.spotify.com/track/5VCMfmkWKmROl2xnDA5wus"
     },
     {
       "added_at": "2026-07-02 22:00:48",
@@ -639,22 +639,22 @@
     {
       "added_at": "2026-07-02 22:00:48",
       "album": {
-        "name": "Love all night",
-        "url": "https://open.spotify.com/album/2U8inedtU0YX3Von3qAsiU"
+        "name": "BOMBA",
+        "url": "https://open.spotify.com/album/55nMza6I5YB14vZo6Yn9v9"
       },
       "artists": [
         {
-          "name": "Amo",
-          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
         },
         {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
         }
       ],
-      "duration_ms": 169160,
-      "name": "Love all night",
-      "url": "https://open.spotify.com/track/5VCMfmkWKmROl2xnDA5wus"
+      "duration_ms": 165799,
+      "name": "BOMBA",
+      "url": "https://open.spotify.com/track/25P9EcttXxSTTRESdfTWoT"
     },
     {
       "added_at": "2026-07-02 22:00:48",
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-07-02 22:00:48",
       "album": {
-        "name": "ZEITPUNKT",
-        "url": "https://open.spotify.com/album/4m3nfq2fuj6SThSCnVHE6D"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 181624,
-      "name": "ZEITPUNKT",
-      "url": "https://open.spotify.com/track/16tQle4JK4LshKFOvOyV7w"
-    },
-    {
-      "added_at": "2026-07-02 22:00:48",
-      "album": {
         "name": "Lamborghini",
         "url": "https://open.spotify.com/album/6TBlaJHOuP8FJGmGf53vsr"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 151546,
       "name": "MARIA",
       "url": "https://open.spotify.com/track/4kasb5PYtJ4qTe8f4JxXnm"
+    },
+    {
+      "added_at": "2026-07-02 22:00:48",
+      "album": {
+        "name": "ZEITPUNKT",
+        "url": "https://open.spotify.com/album/4m3nfq2fuj6SThSCnVHE6D"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 181624,
+      "name": "ZEITPUNKT",
+      "url": "https://open.spotify.com/track/16tQle4JK4LshKFOvOyV7w"
     },
     {
       "added_at": "2026-07-02 22:00:48",
@@ -843,6 +843,22 @@
     {
       "added_at": "2026-07-02 22:00:48",
       "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/5C1Sd7q6rTVcgBTb8ObWEg"
+      },
+      "artists": [
+        {
+          "name": "FXNN",
+          "url": "https://open.spotify.com/artist/1s69iKSamRoX4hu3iwIhnR"
+        }
+      ],
+      "duration_ms": 136800,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/4mGjBB9Kfn0Znah2TIlYNG"
+    },
+    {
+      "added_at": "2026-07-02 22:00:48",
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/66YJqRtjJR3FHqWmaAFaDP"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 140168,
       "name": "Solo",
       "url": "https://open.spotify.com/track/2CxeTsHOktarDMoEBQmbaj"
-    },
-    {
-      "added_at": "2026-07-02 22:00:48",
-      "album": {
-        "name": "Nightmare",
-        "url": "https://open.spotify.com/album/5C1Sd7q6rTVcgBTb8ObWEg"
-      },
-      "artists": [
-        {
-          "name": "FXNN",
-          "url": "https://open.spotify.com/artist/1s69iKSamRoX4hu3iwIhnR"
-        }
-      ],
-      "duration_ms": 136800,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/4mGjBB9Kfn0Znah2TIlYNG"
     },
     {
       "added_at": "2026-07-02 22:00:48",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-07-02 22:00:48",
       "album": {
+        "name": "\u00f4 dis o\u00f9 t'es",
+        "url": "https://open.spotify.com/album/2zil9C5LyM5ryiFTYv9sEE"
+      },
+      "artists": [
+        {
+          "name": "Monet192",
+          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
+        }
+      ],
+      "duration_ms": 130469,
+      "name": "\u00f4 dis o\u00f9 t'es",
+      "url": "https://open.spotify.com/track/6HFIcrIgp65pXnnFm7zC4w"
+    },
+    {
+      "added_at": "2026-07-02 22:00:48",
+      "album": {
         "name": "GET LOW",
         "url": "https://open.spotify.com/album/3IJ5WPkhv8yeIrzsX04LbP"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 150500,
       "name": "GET LOW",
       "url": "https://open.spotify.com/track/6qP4Fs2q3PGCxuobxeOdXt"
-    },
-    {
-      "added_at": "2026-07-02 22:00:48",
-      "album": {
-        "name": "\u00f4 dis o\u00f9 t'es",
-        "url": "https://open.spotify.com/album/2zil9C5LyM5ryiFTYv9sEE"
-      },
-      "artists": [
-        {
-          "name": "Monet192",
-          "url": "https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw"
-        }
-      ],
-      "duration_ms": 130469,
-      "name": "\u00f4 dis o\u00f9 t'es",
-      "url": "https://open.spotify.com/track/6HFIcrIgp65pXnnFm7zC4w"
     },
     {
       "added_at": "2026-07-02 22:00:48",
@@ -1235,6 +1235,26 @@
     {
       "added_at": "2026-07-02 22:00:48",
       "album": {
+        "name": "4LAP",
+        "url": "https://open.spotify.com/album/70wVZEB9vmrSVAQg450J5V"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        },
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        }
+      ],
+      "duration_ms": 141934,
+      "name": "304",
+      "url": "https://open.spotify.com/track/2qxKLomkyezYTpbohE2atr"
+    },
+    {
+      "added_at": "2026-07-02 22:00:48",
+      "album": {
         "name": "Nasibi",
         "url": "https://open.spotify.com/album/6iEuRly5MXXah6gzgE78wN"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 137067,
       "name": "Nasibi",
       "url": "https://open.spotify.com/track/6S0gytfNPZSmJmTEbiPcKn"
-    },
-    {
-      "added_at": "2026-07-02 22:00:48",
-      "album": {
-        "name": "4LAP",
-        "url": "https://open.spotify.com/album/70wVZEB9vmrSVAQg450J5V"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        },
-        {
-          "name": "Aymen",
-          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
-        }
-      ],
-      "duration_ms": 141934,
-      "name": "304",
-      "url": "https://open.spotify.com/track/2qxKLomkyezYTpbohE2atr"
     },
     {
       "added_at": "2026-07-02 22:00:48",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2026-07-02 22:00:48",
       "album": {
-        "name": "Show",
-        "url": "https://open.spotify.com/album/5RwUQCDLsWPGwtI4kBzcnj"
-      },
-      "artists": [
-        {
-          "name": "Farid Bang",
-          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
-        },
-        {
-          "name": "Bobby Vandamme",
-          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
-        }
-      ],
-      "duration_ms": 161146,
-      "name": "Show",
-      "url": "https://open.spotify.com/track/5GGScNcyGVQGjdkIxc8DfJ"
-    },
-    {
-      "added_at": "2026-07-02 22:00:48",
-      "album": {
         "name": "AKRAPOVIC",
         "url": "https://open.spotify.com/album/1XWTn78hAVxuVT3W41LoAI"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 139780,
       "name": "AKRAPOVIC",
       "url": "https://open.spotify.com/track/3GUEKLXKqmyOFDdyv57B5o"
+    },
+    {
+      "added_at": "2026-07-02 22:00:48",
+      "album": {
+        "name": "Show",
+        "url": "https://open.spotify.com/album/5RwUQCDLsWPGwtI4kBzcnj"
+      },
+      "artists": [
+        {
+          "name": "Farid Bang",
+          "url": "https://open.spotify.com/artist/2JwyRtuXf2l6sTnSnGVIa1"
+        },
+        {
+          "name": "Bobby Vandamme",
+          "url": "https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq"
+        }
+      ],
+      "duration_ms": 161146,
+      "name": "Show",
+      "url": "https://open.spotify.com/track/5GGScNcyGVQGjdkIxc8DfJ"
     },
     {
       "added_at": "2026-07-02 22:00:48",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-07-02 22:00:48",
       "album": {
-        "name": "wya?",
-        "url": "https://open.spotify.com/album/2VI2NMWoqDWzmhbEUAgryS"
-      },
-      "artists": [
-        {
-          "name": "BILLA JOE",
-          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
-        }
-      ],
-      "duration_ms": 118360,
-      "name": "wya?",
-      "url": "https://open.spotify.com/track/621sv3P9Q1bZsJYqHrZvrS"
-    },
-    {
-      "added_at": "2026-07-02 22:00:48",
-      "album": {
         "name": "Unlock",
         "url": "https://open.spotify.com/album/32AdtNsHkF7EOKUdXZrlla"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 164360,
       "name": "Miami",
       "url": "https://open.spotify.com/track/4nBfq4hPT6U8Qs4gAx0mv8"
+    },
+    {
+      "added_at": "2026-07-02 22:00:48",
+      "album": {
+        "name": "wya?",
+        "url": "https://open.spotify.com/album/2VI2NMWoqDWzmhbEUAgryS"
+      },
+      "artists": [
+        {
+          "name": "BILLA JOE",
+          "url": "https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6"
+        }
+      ],
+      "duration_ms": 118360,
+      "name": "wya?",
+      "url": "https://open.spotify.com/track/621sv3P9Q1bZsJYqHrZvrS"
     },
     {
       "added_at": "2026-07-02 22:00:48",

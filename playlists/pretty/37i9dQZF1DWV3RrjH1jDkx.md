@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Emma Steinbakken, Sienna Spiro, V.Christie og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,345 likes - 76 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,352 likes - 76 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 66 | [Vaal](https://open.spotify.com/track/2vLzxI56he3XskMDUgBDcY) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Vaal / Spacer](https://open.spotify.com/album/6MbsmXz5fGDV7WlNPaAb3i) | 4:35 |
 | 67 | [Nokia](https://open.spotify.com/track/7bt12BkmQOft8dsOUkvOT9) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Nokia](https://open.spotify.com/album/5begU32ZHoEmUeJa0f9Igt) | 3:08 |
 | 68 | [YOUtopia](https://open.spotify.com/track/35NaaOPzsTWOWM47PzRuaY) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [YOUtopia](https://open.spotify.com/album/4KHPTZ0Cad5ZJvZW614XUe) | 2:30 |
-| 69 | [MONOPOL](https://open.spotify.com/track/5PiGv8hVPY2aIWvGhUlWLJ) | [INDIGO TRIBE](https://open.spotify.com/artist/43Xs9JZIHsA1zrks75WqfG), [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [IT, Vol\. 1: BRUS](https://open.spotify.com/album/0OKxVuRnZh2Oo1sM12rzJv) | 2:25 |
+| 69 | [MONOPOL](https://open.spotify.com/track/5PiGv8hVPY2aIWvGhUlWLJ) | [INDIGO TRIBE](https://open.spotify.com/artist/43Xs9JZIHsA1zrks75WqfG), [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [VOL\. I: BRUS](https://open.spotify.com/album/0OKxVuRnZh2Oo1sM12rzJv) | 2:25 |
 | 70 | [Festen Stopper Aldrig](https://open.spotify.com/track/4TozgzAGYtM598Ne0dXxXP) | [Søren Torpegaard Lund](https://open.spotify.com/artist/3rsoXGq0iJcc5zK4RRKg1Z) | [Festen Stopper Aldrig](https://open.spotify.com/album/7njR7D35Dqw99pOHoy8NWg) | 2:53 |
 | 71 | [Boots By The Wrong Bed](https://open.spotify.com/track/6n5HwI078jMbfUKivOZLtk) | [Blake Whiten](https://open.spotify.com/artist/1BjlNhp6EsDG0UMroeJbRM) | [Something To Say](https://open.spotify.com/album/50Z4FLvq1q2E5qs7073VqZ) | 3:18 |
 | 72 | [Until It's Gone](https://open.spotify.com/track/0FhIztb5iUiaCAqpYAQFfL) | [The Waked](https://open.spotify.com/artist/1D953gELvYO8pd1hxk5swV) | [Until It's Gone](https://open.spotify.com/album/5eGKBKKA6kQCvrq4QyYIQv) | 2:13 |

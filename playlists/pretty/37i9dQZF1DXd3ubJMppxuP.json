@@ -1,12 +1,12 @@
 {
   "description": "Hardstyle in het Nederlands. Feest!",
-  "num_followers": 88497,
+  "num_followers": 88510,
   "original_name": "Nederlandse Hardstyle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKMQbpt2Ait17yEBw7n5dvXSL23D",
+  "snapshot_id": "AAAAAM3YTxbxWQ1rLjDu1Z80zgbVzUeI",
   "tracks": [
     {
       "added_at": "2026-06-25 22:00:27",
@@ -583,26 +583,6 @@
     {
       "added_at": "2026-06-25 22:00:27",
       "album": {
-        "name": "In De Hemel Is Geen Bier",
-        "url": "https://open.spotify.com/album/38CP1Z2uXZI4u7CWmmHsCc"
-      },
-      "artists": [
-        {
-          "name": "Boer Harm",
-          "url": "https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os"
-        },
-        {
-          "name": "Dr Phunk",
-          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "In De Hemel Is Geen Bier",
-      "url": "https://open.spotify.com/track/28Qvlhqa98uwiO8ZQj8T6U"
-    },
-    {
-      "added_at": "2026-06-25 22:00:27",
-      "album": {
         "name": "Weet Je Wel Wie Wij Zijn",
         "url": "https://open.spotify.com/album/39JuHfmF5pj8Ieo2qcZYJ0"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 170926,
       "name": "Weet Je Wel Wie Wij Zijn",
       "url": "https://open.spotify.com/track/2ATpRdUd9evdQfH5a7PvYn"
+    },
+    {
+      "added_at": "2026-06-25 22:00:27",
+      "album": {
+        "name": "In De Hemel Is Geen Bier",
+        "url": "https://open.spotify.com/album/38CP1Z2uXZI4u7CWmmHsCc"
+      },
+      "artists": [
+        {
+          "name": "Boer Harm",
+          "url": "https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os"
+        },
+        {
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "In De Hemel Is Geen Bier",
+      "url": "https://open.spotify.com/track/28Qvlhqa98uwiO8ZQj8T6U"
     },
     {
       "added_at": "2026-06-25 22:00:27",
@@ -823,26 +823,6 @@
     {
       "added_at": "2026-06-25 22:00:27",
       "album": {
-        "name": "Het Is Een Nacht (Total Loss Remix)",
-        "url": "https://open.spotify.com/album/3xUfmOr4zK9Q5KdoIxC1V3"
-      },
-      "artists": [
-        {
-          "name": "Arjon Oostrom",
-          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
-        },
-        {
-          "name": "Dr Rude",
-          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
-        }
-      ],
-      "duration_ms": 257202,
-      "name": "Het Is Een Nacht - Total Loss Remix",
-      "url": "https://open.spotify.com/track/7F17y60qAsDiOmWj5XZOhQ"
-    },
-    {
-      "added_at": "2026-06-25 22:00:27",
-      "album": {
         "name": "Adio Amore (Hardstyle Remix)",
         "url": "https://open.spotify.com/album/34VlLaD14KcAg5zCsVVxz2"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 210105,
       "name": "Adio Amore - Hardstyle Remix",
       "url": "https://open.spotify.com/track/4fe1Rx9n6MwzeSPCgcn5mK"
+    },
+    {
+      "added_at": "2026-06-25 22:00:27",
+      "album": {
+        "name": "Het Is Een Nacht (Total Loss Remix)",
+        "url": "https://open.spotify.com/album/3xUfmOr4zK9Q5KdoIxC1V3"
+      },
+      "artists": [
+        {
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+        },
+        {
+          "name": "Dr Rude",
+          "url": "https://open.spotify.com/artist/5akubyqg9eYtnCtDEeJz2s"
+        }
+      ],
+      "duration_ms": 257202,
+      "name": "Het Is Een Nacht - Total Loss Remix",
+      "url": "https://open.spotify.com/track/7F17y60qAsDiOmWj5XZOhQ"
     },
     {
       "added_at": "2026-06-25 22:00:27",
@@ -1015,8 +1015,8 @@
     {
       "added_at": "2026-06-25 22:00:27",
       "album": {
-        "name": "Uit Elkaar",
-        "url": "https://open.spotify.com/album/763my15VaOrjEhS87BKvgs"
+        "name": "Party All Night (Facking Feestje)",
+        "url": "https://open.spotify.com/album/4vHJ9idSm97AgY9FUY5bvl"
       },
       "artists": [
         {
@@ -1024,13 +1024,13 @@
           "url": "https://open.spotify.com/artist/3kH0MXsr8tprp65VGOuMTY"
         },
         {
-          "name": "Naomi",
-          "url": "https://open.spotify.com/artist/2axl32yC96VupepkQDz8Ir"
+          "name": "ANGUZ",
+          "url": "https://open.spotify.com/artist/1cnBPJwNKaowFOzBqyEZav"
         }
       ],
-      "duration_ms": 230635,
-      "name": "Uit Elkaar",
-      "url": "https://open.spotify.com/track/57PxqUdFxBleX177r8TzzR"
+      "duration_ms": 176100,
+      "name": "Party All Night (Facking Feestje)",
+      "url": "https://open.spotify.com/track/3TMyHtHJDdIUJ2ZUvjSzcx"
     },
     {
       "added_at": "2026-06-25 22:00:27",

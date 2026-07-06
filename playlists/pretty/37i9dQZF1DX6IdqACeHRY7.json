@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 158118,
+  "num_followers": 158112,
   "original_name": "ren hygge",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
+        "name": "Shape of You (Acoustic)",
+        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 223573,
+      "name": "Shape of You - Acoustic",
+      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
         "name": "Gemt Dit Nummer",
         "url": "https://open.spotify.com/album/1FJeiGJjSMBPV4Z3qwc9Xv"
       },
@@ -755,22 +771,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Shape of You (Acoustic)",
-        "url": "https://open.spotify.com/album/5Nk90vGwn59ToxTvSNsKZw"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 223573,
-      "name": "Shape of You - Acoustic",
-      "url": "https://open.spotify.com/track/5ULRlgiSPSKTaJN1vU9yso"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "VILD UNGDOM",
         "url": "https://open.spotify.com/album/7hlNRopQQiBDcwfFRgBfYM"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 305979,
       "name": "Vi pumper hjertet op",
       "url": "https://open.spotify.com/track/1cfMhTjfBjnnTkbs2chWzD"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Dine Venner",
+        "url": "https://open.spotify.com/album/3i25K8SoZj2cc5ufW5K3J2"
+      },
+      "artists": [
+        {
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        }
+      ],
+      "duration_ms": 202453,
+      "name": "Elsker Dig S\u00e5 Meget",
+      "url": "https://open.spotify.com/track/2doTTX8MLsVnAyAQqmqV7j"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -803,22 +819,6 @@
       "duration_ms": 283294,
       "name": "No Peace",
       "url": "https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
-        "name": "Dine Venner",
-        "url": "https://open.spotify.com/album/3i25K8SoZj2cc5ufW5K3J2"
-      },
-      "artists": [
-        {
-          "name": "Bl\u00e6st",
-          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
-        }
-      ],
-      "duration_ms": 202453,
-      "name": "Elsker Dig S\u00e5 Meget",
-      "url": "https://open.spotify.com/track/2doTTX8MLsVnAyAQqmqV7j"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Love on the Weekend",
-        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "Love on the Weekend",
-      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "beholder mit t\u00f8j p\u00e5",
         "url": "https://open.spotify.com/album/6AVjbXQ4M2ApoQRsa6Ft98"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 188425,
       "name": "beholder mit t\u00f8j p\u00e5",
       "url": "https://open.spotify.com/track/6XkLzHg4OmaWNltw6HZVBx"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Love on the Weekend",
+        "url": "https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "Love on the Weekend",
+      "url": "https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Dreng",
-        "url": "https://open.spotify.com/album/5asn67kNJehseJxmxxeJy4"
-      },
-      "artists": [
-        {
-          "name": "Malte Ebert",
-          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
-        }
-      ],
-      "duration_ms": 153986,
-      "name": "Dreng",
-      "url": "https://open.spotify.com/track/4hHKHJEN7UGBnKY7NvugJ5"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "T\u00c6T P\u00c5 (feat. Delara)",
         "url": "https://open.spotify.com/album/2EJfw8c22rvYkdhdH9RIKx"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 137400,
       "name": "T\u00c6T P\u00c5 (feat. Delara)",
       "url": "https://open.spotify.com/track/7v30u3hUBxW0NhbYHazNDg"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Dreng",
+        "url": "https://open.spotify.com/album/5asn67kNJehseJxmxxeJy4"
+      },
+      "artists": [
+        {
+          "name": "Malte Ebert",
+          "url": "https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl"
+        }
+      ],
+      "duration_ms": 153986,
+      "name": "Dreng",
+      "url": "https://open.spotify.com/track/4hHKHJEN7UGBnKY7NvugJ5"
     },
     {
       "added_at": "2026-05-21 12:03:22",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2026-05-21 12:03:22",
       "album": {
-        "name": "Superlim",
-        "url": "https://open.spotify.com/album/5KbJT01tNLb2HenQ5Unp6R"
-      },
-      "artists": [
-        {
-          "name": "Sira Jovina",
-          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
-        }
-      ],
-      "duration_ms": 185355,
-      "name": "Superlim",
-      "url": "https://open.spotify.com/track/4BwPT0pILUhY4wUdv0NLLT"
-    },
-    {
-      "added_at": "2026-05-21 12:03:22",
-      "album": {
         "name": "The Boy I Am",
         "url": "https://open.spotify.com/album/6xz9QoMwSIVDSm2im3v1r9"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 175040,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/6x7KACU6KC7vP8WFUwJxIz"
+    },
+    {
+      "added_at": "2026-05-21 12:03:22",
+      "album": {
+        "name": "Superlim",
+        "url": "https://open.spotify.com/album/5KbJT01tNLb2HenQ5Unp6R"
+      },
+      "artists": [
+        {
+          "name": "Sira Jovina",
+          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
+        }
+      ],
+      "duration_ms": 185355,
+      "name": "Superlim",
+      "url": "https://open.spotify.com/track/4BwPT0pILUhY4wUdv0NLLT"
     },
     {
       "added_at": "2026-05-21 12:03:22",

@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2025-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 147104,
       "name": "Courvoisier",
       "url": "https://open.spotify.com/track/2Ma2iAaH8Q8OhbXUsg95sN"
@@ -2524,7 +2524,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 195815,
       "name": "Feel Your Soul",
       "url": "https://open.spotify.com/track/5ZlQPc8yJgt3wba3ZM5q5B"
@@ -3034,6 +3034,24 @@
       "duration_ms": 160896,
       "name": "GOOD 4 U",
       "url": "https://open.spotify.com/track/01d0mVYKVR8OLH3pWsXiNc"
+    },
+    {
+      "album": {
+        "name": "Got 2 Feel",
+        "url": "https://open.spotify.com/album/0lLUEQHmNgzO5IVmFV6BM0"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203478,
+      "name": "Got 2 Feel",
+      "url": "https://open.spotify.com/track/7cBZW1LSEFaLi47GL9wIG5"
     },
     {
       "album": {
@@ -8102,7 +8120,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 155772,
       "name": "Ur Number",
       "url": "https://open.spotify.com/track/3xijz9hc74Negf2y3QgjWn"

@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 2034398,
+  "num_followers": 2034389,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -223,6 +223,22 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 279786,
+      "name": "Born in the U.S.A.",
+      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
         "name": "The Resistance",
         "url": "https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM"
       },
@@ -255,22 +271,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "The Joker",
-        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
-      },
-      "artists": [
-        {
-          "name": "Steve Miller Band",
-          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
-        }
-      ],
-      "duration_ms": 264503,
-      "name": "The Joker",
-      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Your Favorite Toy",
         "url": "https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea"
       },
@@ -287,6 +287,22 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
+        "name": "The Joker",
+        "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "duration_ms": 264503,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
         "name": "Cherry Pie",
         "url": "https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 201026,
       "name": "Cherry Pie",
       "url": "https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 279786,
-      "name": "Born in the U.S.A.",
-      "url": "https://open.spotify.com/track/0dOg1ySSI7NkpAe89Zo0b9"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Who's Next (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 300400,
       "name": "Baba O'Riley",
       "url": "https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Led Zeppelin IV (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 220560,
-      "name": "Rock and Roll - Remaster",
-      "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Metal Health",
         "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
       },
@@ -607,6 +591,22 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 220560,
+      "name": "Rock and Roll - Remaster",
+      "url": "https://open.spotify.com/track/4PRGxHpCpF2yoOHYKQIEwD"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
         "name": "Costello Music",
         "url": "https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 215306,
       "name": "Chelsea Dagger",
       "url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 264560,
+      "name": "American Woman",
+      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -687,22 +703,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 264560,
-      "name": "American Woman",
-      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Elvis' Golden Records",
         "url": "https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek"
       },
@@ -735,18 +735,18 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+        "name": "Damn The Torpedoes (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 191800,
-      "name": "Howlin' for You",
-      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
+      "duration_ms": 201693,
+      "name": "Refugee",
+      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Damn The Torpedoes (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b"
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
       "artists": [
         {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 201693,
-      "name": "Refugee",
-      "url": "https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf"
+      "duration_ms": 191800,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "The Attractions Of Youth",
-        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 197520,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Greatest Hits 1974-78",
         "url": "https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 215666,
       "name": "Jet Airliner",
       "url": "https://open.spotify.com/track/2zI3bUYn2pcF27of6i2oqK"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "The Attractions Of Youth",
+        "url": "https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 197520,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5w6B0sAH7XauCvMOAtplQj"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Down On The Upside",
-        "url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 290106,
-      "name": "Burden In My Hand",
-      "url": "https://open.spotify.com/track/1iArQTuOzxvrtniGmkyy92"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "1 (Remastered)",
         "url": "https://open.spotify.com/album/7vEJAtP3KgKSpOHVgwm3Eh"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 145746,
       "name": "I Want To Hold Your Hand - Remastered 2015",
       "url": "https://open.spotify.com/track/4pbG9SUmWIvsROVLF0zF9s"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Down On The Upside",
+        "url": "https://open.spotify.com/album/1IVa98im1RfxYp6qeOIg2B"
+      },
+      "artists": [
+        {
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
+        }
+      ],
+      "duration_ms": 290106,
+      "name": "Burden In My Hand",
+      "url": "https://open.spotify.com/track/1iArQTuOzxvrtniGmkyy92"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
+        "name": "Fool for the City",
+        "url": "https://open.spotify.com/album/4NHPuxA6jrvjJ4ZxFncIwi"
+      },
+      "artists": [
+        {
+          "name": "Foghat",
+          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
+        }
+      ],
+      "duration_ms": 494533,
+      "name": "Slow Ride",
+      "url": "https://open.spotify.com/track/5aYVqxyetmT5OYmvZCA90X"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/1FA0rfTpK5dost6Zk4pxjC"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 193714,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/45HAjqRWiNv6mMPw4NvZrU"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
-        "name": "Fool for the City",
-        "url": "https://open.spotify.com/album/4NHPuxA6jrvjJ4ZxFncIwi"
-      },
-      "artists": [
-        {
-          "name": "Foghat",
-          "url": "https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq"
-        }
-      ],
-      "duration_ms": 494533,
-      "name": "Slow Ride",
-      "url": "https://open.spotify.com/track/5aYVqxyetmT5OYmvZCA90X"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Road to Ruin (Expanded 2005 Remaster)",
-        "url": "https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE"
-      },
-      "artists": [
-        {
-          "name": "Ramones",
-          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
-        }
-      ],
-      "duration_ms": 149466,
-      "name": "I Wanna Be Sedated - 1999 Remaster",
-      "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm"
       },
@@ -1235,6 +1219,22 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
+        "name": "Road to Ruin (Expanded 2005 Remaster)",
+        "url": "https://open.spotify.com/album/5QK35ea0XnSBt6Ly8gWLhE"
+      },
+      "artists": [
+        {
+          "name": "Ramones",
+          "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+        }
+      ],
+      "duration_ms": 149466,
+      "name": "I Wanna Be Sedated - 1999 Remaster",
+      "url": "https://open.spotify.com/track/6vvmYYUvGXtZLU8msxKvzF"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
         "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
         "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
       },
@@ -1247,6 +1247,22 @@
       "duration_ms": 189133,
       "name": "Blame It on the Boom Boom",
       "url": "https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "The Essential Billy Joel",
+        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 177597,
+      "name": "It's Still Rock and Roll to Me",
+      "url": "https://open.spotify.com/track/7LbOQt7isddrw3Bs3Czl7E"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1279,22 +1295,6 @@
       "duration_ms": 226735,
       "name": "Angry",
       "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
-        "name": "The Essential Billy Joel",
-        "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 177597,
-      "name": "It's Still Rock and Roll to Me",
-      "url": "https://open.spotify.com/track/7LbOQt7isddrw3Bs3Czl7E"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Meeting The Master",
-        "url": "https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu"
-      },
-      "artists": [
-        {
-          "name": "Greta Van Fleet",
-          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
-        }
-      ],
-      "duration_ms": 312200,
-      "name": "Meeting The Master",
-      "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "You Still Got Me",
         "url": "https://open.spotify.com/album/3kP5jq5rPOdI8yStZ944Pa"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 287666,
       "name": "Savior With A Razor (feat. Slash)",
       "url": "https://open.spotify.com/track/6Yk9u3C8EVpyixdgXv0S6G"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Meeting The Master",
+        "url": "https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "duration_ms": 312200,
+      "name": "Meeting The Master",
+      "url": "https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "As Above, So Below",
-        "url": "https://open.spotify.com/album/3zvOwqqjuGh8CZYhx2hgaJ"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 247716,
-      "name": "Plastic Boxes",
-      "url": "https://open.spotify.com/track/3DqzYWmNEUosgfMlMXTNwi"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "The Night Before",
         "url": "https://open.spotify.com/album/3rEd1OxnsM8XPKp5LgVI6O"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 154612,
       "name": "The Night Before",
       "url": "https://open.spotify.com/track/4kawArrYyru9uT0phHxWKt"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "As Above, So Below",
+        "url": "https://open.spotify.com/album/3zvOwqqjuGh8CZYhx2hgaJ"
+      },
+      "artists": [
+        {
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
+        }
+      ],
+      "duration_ms": 247716,
+      "name": "Plastic Boxes",
+      "url": "https://open.spotify.com/track/3DqzYWmNEUosgfMlMXTNwi"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Are You in a Cult?",
-        "url": "https://open.spotify.com/album/0gpASYYFSbwON3aNeR3Kms"
-      },
-      "artists": [
-        {
-          "name": "Dead Posey",
-          "url": "https://open.spotify.com/artist/7qTUKYzO77RvL1Kxie0xUO"
-        }
-      ],
-      "duration_ms": 197923,
-      "name": "Darkside",
-      "url": "https://open.spotify.com/track/1tgFoqQG9thuoI6If2olvA"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Go / Eagle Birds / Lo/Hi",
         "url": "https://open.spotify.com/album/09hrL0Pk3gObwTh2MIAGaG"
       },
@@ -2311,6 +2295,22 @@
       "duration_ms": 177002,
       "name": "Lo/Hi",
       "url": "https://open.spotify.com/track/77MbZsDaKvJEizcU36WnMu"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Are You in a Cult?",
+        "url": "https://open.spotify.com/album/0gpASYYFSbwON3aNeR3Kms"
+      },
+      "artists": [
+        {
+          "name": "Dead Posey",
+          "url": "https://open.spotify.com/artist/7qTUKYzO77RvL1Kxie0xUO"
+        }
+      ],
+      "duration_ms": 197923,
+      "name": "Darkside",
+      "url": "https://open.spotify.com/track/1tgFoqQG9thuoI6If2olvA"
     },
     {
       "added_at": "2026-02-20 05:00:51",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2026-02-20 05:00:51",
       "album": {
-        "name": "Vilified",
-        "url": "https://open.spotify.com/album/1KKquIPw32BeeVBky9AHFe"
-      },
-      "artists": [
-        {
-          "name": "Jerry Cantrell",
-          "url": "https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP"
-        }
-      ],
-      "duration_ms": 271346,
-      "name": "Vilified",
-      "url": "https://open.spotify.com/track/5uGHfztT58UFu7S3aBiRjb"
-    },
-    {
-      "added_at": "2026-02-20 05:00:51",
-      "album": {
         "name": "Your Master",
         "url": "https://open.spotify.com/album/6C2su7xaUEiGdNgGIZnn9B"
       },
@@ -2439,6 +2423,22 @@
       "duration_ms": 185008,
       "name": "Your Master",
       "url": "https://open.spotify.com/track/3EuAXH9UnjcejNj49VKVIs"
+    },
+    {
+      "added_at": "2026-02-20 05:00:51",
+      "album": {
+        "name": "Vilified",
+        "url": "https://open.spotify.com/album/1KKquIPw32BeeVBky9AHFe"
+      },
+      "artists": [
+        {
+          "name": "Jerry Cantrell",
+          "url": "https://open.spotify.com/artist/5HUFo8AH9ZILmlyKFfEMNP"
+        }
+      ],
+      "duration_ms": 271346,
+      "name": "Vilified",
+      "url": "https://open.spotify.com/track/5uGHfztT58UFu7S3aBiRjb"
     },
     {
       "added_at": "2026-02-20 05:00:51",

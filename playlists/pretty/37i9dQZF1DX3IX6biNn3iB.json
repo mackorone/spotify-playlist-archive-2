@@ -1,6 +1,6 @@
 {
   "description": "Voices that are elevating nuestra cultura. Cuco en portada. ",
-  "num_followers": 2970,
+  "num_followers": 2972,
   "original_name": "Our Voice",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "Me Tienes Loco",
-        "url": "https://open.spotify.com/album/28TWokIxsQlhoKq2VMiPt3"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Me Tienes Loco",
-      "url": "https://open.spotify.com/track/1FNsJI6T9CdKYkAjTzLaiB"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "mis viejos",
         "url": "https://open.spotify.com/album/4BOUFqo6ips2i5d5UDnPx5"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 240624,
       "name": "mis viejos",
       "url": "https://open.spotify.com/track/7zq0Kshd6Ln4x270UwciqF"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "Me Tienes Loco",
+        "url": "https://open.spotify.com/album/28TWokIxsQlhoKq2VMiPt3"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Me Tienes Loco",
+      "url": "https://open.spotify.com/track/1FNsJI6T9CdKYkAjTzLaiB"
     },
     {
       "added_at": "2025-10-10 17:36:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-10-10 17:36:00",
       "album": {
-        "name": "YNMA",
-        "url": "https://open.spotify.com/album/6sMk7fufRWSnlPaKg3hhzB"
-      },
-      "artists": [
-        {
-          "name": "Alex O'aiza",
-          "url": "https://open.spotify.com/artist/1uXqUMtQBxXM5IMvvz1LyT"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "YNMA",
-      "url": "https://open.spotify.com/track/56TtgvmfpGa5kkwVuyUX0D"
-    },
-    {
-      "added_at": "2025-10-10 17:36:00",
-      "album": {
         "name": "cuando t\u00fa me besas",
         "url": "https://open.spotify.com/album/2QtFMf82Oxhy77QWX6xVgr"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 152148,
       "name": "cuando t\u00fa me besas",
       "url": "https://open.spotify.com/track/1iSwx9InMi6I6SKIWANKKv"
+    },
+    {
+      "added_at": "2025-10-10 17:36:00",
+      "album": {
+        "name": "YNMA",
+        "url": "https://open.spotify.com/album/6sMk7fufRWSnlPaKg3hhzB"
+      },
+      "artists": [
+        {
+          "name": "Alex O'aiza",
+          "url": "https://open.spotify.com/artist/1uXqUMtQBxXM5IMvvz1LyT"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "YNMA",
+      "url": "https://open.spotify.com/track/56TtgvmfpGa5kkwVuyUX0D"
     },
     {
       "added_at": "2025-10-10 17:36:00",

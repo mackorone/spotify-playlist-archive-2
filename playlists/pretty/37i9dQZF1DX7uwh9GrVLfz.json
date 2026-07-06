@@ -1,6 +1,6 @@
 {
   "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. / \u30ec\u30b8\u30a7\u30f3\u30c9\u3082\u65b0\u4e16\u4ee3\u3082\u4e00\u3064\u306e\u53eb\u3073\u306b\u3002\u9032\u5316\u3057\u7d9a\u3051\u308b\u65e5\u672c\u306e\u30d1\u30f3\u30af\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: HEY-SMITH",
-  "num_followers": 134678,
+  "num_followers": 134682,
   "original_name": "Punk Japan",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-06-23 15:00:29",
       "album": {
-        "name": "RIOT ON THE GRILL",
-        "url": "https://open.spotify.com/album/47THqxbGDOoKSZ0xZxCApD"
-      },
-      "artists": [
-        {
-          "name": "ELLEGARDEN",
-          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
-        }
-      ],
-      "duration_ms": 206933,
-      "name": "\u8679",
-      "url": "https://open.spotify.com/track/6h5i1sJnmPfHmzhJvd89Op"
-    },
-    {
-      "added_at": "2026-06-23 15:00:29",
-      "album": {
         "name": "\u66d6\u6627",
         "url": "https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 222125,
       "name": "\u66d6\u6627",
       "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
+    },
+    {
+      "added_at": "2026-06-23 15:00:29",
+      "album": {
+        "name": "RIOT ON THE GRILL",
+        "url": "https://open.spotify.com/album/47THqxbGDOoKSZ0xZxCApD"
+      },
+      "artists": [
+        {
+          "name": "ELLEGARDEN",
+          "url": "https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk"
+        }
+      ],
+      "duration_ms": 206933,
+      "name": "\u8679",
+      "url": "https://open.spotify.com/track/6h5i1sJnmPfHmzhJvd89Op"
     },
     {
       "added_at": "2026-06-23 15:00:29",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-06-23 15:00:29",
       "album": {
-        "name": "The Ballad",
-        "url": "https://open.spotify.com/album/2MuMJqAeddgmVsgmklENyW"
-      },
-      "artists": [
-        {
-          "name": "Ken Yokoyama",
-          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
-        }
-      ],
-      "duration_ms": 209932,
-      "name": "The Ballad",
-      "url": "https://open.spotify.com/track/3qZJyfGVmggTOagP08zVlM"
-    },
-    {
-      "added_at": "2026-06-23 15:00:29",
-      "album": {
         "name": "TRACK\uff5eSingle Collection&More",
         "url": "https://open.spotify.com/album/5ZHhiDzLxrDeZnRtr5z9Ca"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 217266,
       "name": "MIND YOUR STEP!",
       "url": "https://open.spotify.com/track/2knIZVDFSEefwgTzWF4i5T"
+    },
+    {
+      "added_at": "2026-06-23 15:00:29",
+      "album": {
+        "name": "The Ballad",
+        "url": "https://open.spotify.com/album/2MuMJqAeddgmVsgmklENyW"
+      },
+      "artists": [
+        {
+          "name": "Ken Yokoyama",
+          "url": "https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX"
+        }
+      ],
+      "duration_ms": 209932,
+      "name": "The Ballad",
+      "url": "https://open.spotify.com/track/3qZJyfGVmggTOagP08zVlM"
     },
     {
       "added_at": "2026-06-23 15:00:29",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-06-23 15:00:29",
       "album": {
-        "name": "FiVE TiMES DEAD (by my wallet)",
-        "url": "https://open.spotify.com/album/50RTZrrOcal2MouiLJAhiY"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 204506,
-      "name": "FiVE TiMES DEAD (by my wallet)",
-      "url": "https://open.spotify.com/track/1P1oxa1cCrZwXutvmp0MQK"
-    },
-    {
-      "added_at": "2026-06-23 15:00:29",
-      "album": {
         "name": "Our Song",
         "url": "https://open.spotify.com/album/3vOAwUmsvyNXiXBiWwwS8n"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 162466,
       "name": "Our Song",
       "url": "https://open.spotify.com/track/1cljv0pFujhPmdNDSJNTim"
+    },
+    {
+      "added_at": "2026-06-23 15:00:29",
+      "album": {
+        "name": "FiVE TiMES DEAD (by my wallet)",
+        "url": "https://open.spotify.com/album/50RTZrrOcal2MouiLJAhiY"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 204506,
+      "name": "FiVE TiMES DEAD (by my wallet)",
+      "url": "https://open.spotify.com/track/1P1oxa1cCrZwXutvmp0MQK"
     },
     {
       "added_at": "2026-06-23 15:00:29",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2026-06-23 15:00:29",
       "album": {
+        "name": "VS Tairiku Ondo",
+        "url": "https://open.spotify.com/album/7rwrDS4LF3SZ0ikQ5e6oXv"
+      },
+      "artists": [
+        {
+          "name": "\u30c6\u30ec\u30d3\u5927\u9678\u97f3\u982d",
+          "url": "https://open.spotify.com/artist/2kaZBRLaNSBdNuFKJCfqjt"
+        }
+      ],
+      "duration_ms": 211450,
+      "name": "\u8d85\u5e38\u73fe\u8c61\u3092\u4fe1\u3093\u3058\u3066\u307f\u308b\u3002",
+      "url": "https://open.spotify.com/track/2OHFPkN0QscT2R6EL6tDm1"
+    },
+    {
+      "added_at": "2026-06-23 15:00:29",
+      "album": {
         "name": "WOKE",
         "url": "https://open.spotify.com/album/0ROu0FijW04uq3slGQP9eW"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 220200,
       "name": "HOTARU NO HIKARI featuring AIR",
       "url": "https://open.spotify.com/track/7u0uQ6LPgE5weRPJx8XzzF"
-    },
-    {
-      "added_at": "2026-06-23 15:00:29",
-      "album": {
-        "name": "VS Tairiku Ondo",
-        "url": "https://open.spotify.com/album/7rwrDS4LF3SZ0ikQ5e6oXv"
-      },
-      "artists": [
-        {
-          "name": "\u30c6\u30ec\u30d3\u5927\u9678\u97f3\u982d",
-          "url": "https://open.spotify.com/artist/2kaZBRLaNSBdNuFKJCfqjt"
-        }
-      ],
-      "duration_ms": 211450,
-      "name": "\u8d85\u5e38\u73fe\u8c61\u3092\u4fe1\u3093\u3058\u3066\u307f\u308b\u3002",
-      "url": "https://open.spotify.com/track/2OHFPkN0QscT2R6EL6tDm1"
     },
     {
       "added_at": "2026-06-23 15:00:29",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-06-23 15:00:29",
       "album": {
-        "name": "\u3042\u306e\u591c\u306e\u306f\u306a\u3057",
-        "url": "https://open.spotify.com/album/4nuRUQpojZ8aM9SERd769U"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
-          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
-        }
-      ],
-      "duration_ms": 164696,
-      "name": "\u4f5c\u6226\u4f1a\u8b70",
-      "url": "https://open.spotify.com/track/3rVyi0vqp9xTgJbMFOw52N"
-    },
-    {
-      "added_at": "2026-06-23 15:00:29",
-      "album": {
         "name": "\u611b\u5f4c\u30052",
         "url": "https://open.spotify.com/album/7HFOgeQ6lNbNPI4TzsaYcO"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 269500,
       "name": "Summertime Blue",
       "url": "https://open.spotify.com/track/1Cia7gpB6Kqd9qlbSs0V48"
+    },
+    {
+      "added_at": "2026-06-23 15:00:29",
+      "album": {
+        "name": "\u3042\u306e\u591c\u306e\u306f\u306a\u3057",
+        "url": "https://open.spotify.com/album/4nuRUQpojZ8aM9SERd769U"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc",
+          "url": "https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj"
+        }
+      ],
+      "duration_ms": 164696,
+      "name": "\u4f5c\u6226\u4f1a\u8b70",
+      "url": "https://open.spotify.com/track/3rVyi0vqp9xTgJbMFOw52N"
     },
     {
       "added_at": "2026-06-23 15:00:29",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-06-23 15:00:29",
       "album": {
-        "name": "illuminate",
-        "url": "https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC"
-      },
-      "artists": [
-        {
-          "name": "SHADOWS",
-          "url": "https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3"
-        }
-      ],
-      "duration_ms": 203024,
-      "name": "Chain Reaction",
-      "url": "https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr"
-    },
-    {
-      "added_at": "2026-06-23 15:00:29",
-      "album": {
         "name": "\u52dd\u624b\u306b\u30ed\u30c3\u30af\u30f3\u30ed\u30fc\u30eb",
         "url": "https://open.spotify.com/album/3iXjHOdyjZ7mkiFVeF2CFZ"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 329066,
       "name": "\u5fdc\u63f4\u6b4c",
       "url": "https://open.spotify.com/track/4Jr2oNi8Tt6W5WZHYvqAsd"
+    },
+    {
+      "added_at": "2026-06-23 15:00:29",
+      "album": {
+        "name": "illuminate",
+        "url": "https://open.spotify.com/album/009caNHfVz7CyPVjKyZnqC"
+      },
+      "artists": [
+        {
+          "name": "SHADOWS",
+          "url": "https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3"
+        }
+      ],
+      "duration_ms": 203024,
+      "name": "Chain Reaction",
+      "url": "https://open.spotify.com/track/2Nu30TK5pHMHxjiVJQ7gxr"
     },
     {
       "added_at": "2026-06-23 15:00:29",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-06-23 15:00:29",
       "album": {
-        "name": "\u80aa \uff5cBo",
-        "url": "https://open.spotify.com/album/2en4aIjPUvlolSAAXWStDy"
-      },
-      "artists": [
-        {
-          "name": "bed",
-          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "\u80aa \uff5cBo",
-      "url": "https://open.spotify.com/track/71J6B49V8UJAhbAB3FZpgB"
-    },
-    {
-      "added_at": "2026-06-23 15:00:29",
-      "album": {
         "name": "\u6b7b\u4ea1\u30d5\u30e9\u30b0\u3092\u7acb\u3066\u306a\u3044\u3067",
         "url": "https://open.spotify.com/album/5lkOWi2hkb6Rj72eE2E3aG"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 275480,
       "name": "\u6b7b\u4ea1\u30d5\u30e9\u30b0\u3092\u7acb\u3066\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/3EqQOKYHWfaqKBkeU5YKsv"
+    },
+    {
+      "added_at": "2026-06-23 15:00:29",
+      "album": {
+        "name": "\u80aa \uff5cBo",
+        "url": "https://open.spotify.com/album/2en4aIjPUvlolSAAXWStDy"
+      },
+      "artists": [
+        {
+          "name": "bed",
+          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "\u80aa \uff5cBo",
+      "url": "https://open.spotify.com/track/71J6B49V8UJAhbAB3FZpgB"
     },
     {
       "added_at": "2026-06-23 15:00:29",

@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKS8eM6rrGM20Ngy6ErcnYIZOnEeAX",
+  "snapshot_id": "AAAKTZiXzZgsQvyztBc7vt2aCoiejZMt",
   "tracks": [
     {
       "added_at": "2022-08-16 09:32:19",
@@ -41299,6 +41299,42 @@
       "duration_ms": 104719,
       "name": "Motivation Progress",
       "url": "https://open.spotify.com/track/7MiGzH6INaZGKg0dVkHzMW"
+    },
+    {
+      "added_at": "2026-07-05 14:08:17",
+      "album": {
+        "name": "Dime Pa Que Vuelves",
+        "url": "https://open.spotify.com/album/6iAT6bslz3QBSKfHxSqrgM"
+      },
+      "artists": [
+        {
+          "name": "Soy Loy",
+          "url": "https://open.spotify.com/artist/0egXpDPsm0pFmdjfIfPHbn"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "duration_ms": 194705,
+      "name": "Dime Pa Que Vuelves",
+      "url": "https://open.spotify.com/track/5cg0XaWG6LGo4aZuoOxcGV"
+    },
+    {
+      "added_at": "2026-07-05 14:08:32",
+      "album": {
+        "name": "YOGURTO",
+        "url": "https://open.spotify.com/album/48mR6V0kVn1Hrv2mYt22QS"
+      },
+      "artists": [
+        {
+          "name": "Bad Milk",
+          "url": "https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR"
+        }
+      ],
+      "duration_ms": 138883,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/3nDcihp9IpMQAF1cmBtEvJ"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

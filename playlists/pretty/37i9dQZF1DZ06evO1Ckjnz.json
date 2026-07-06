@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAClPbf9WEDhRNpLW/gQQsrw",
+  "snapshot_id": "akhNAAAAAAA9IoAmufQebaaOZaGbfCpa",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Countin' Up",
-      "url": "https://open.spotify.com/track/6UFG7GbMAeeMijEyrp6f1D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Nasty (w/ Rico Nasty & Whethan)",
         "url": "https://open.spotify.com/album/02LwsAJRZNg5elZqc4tPEo"
       },
@@ -483,6 +467,38 @@
       "duration_ms": 131391,
       "name": "Get Nasty (w/ Rico Nasty & Whethan)",
       "url": "https://open.spotify.com/track/5l9IES7aHrrjA1yStzXaVW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cupcake",
+        "url": "https://open.spotify.com/album/6qts20zdlXIj0lu42qjbD6"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 146564,
+      "name": "Cupcake",
+      "url": "https://open.spotify.com/track/2bknsnLPCEMMKCVrYdTfAV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Countin' Up",
+      "url": "https://open.spotify.com/track/6UFG7GbMAeeMijEyrp6f1D"
     },
     {
       "added_at": null,
@@ -635,38 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cupcake",
-        "url": "https://open.spotify.com/album/6qts20zdlXIj0lu42qjbD6"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 146564,
-      "name": "Cupcake",
-      "url": "https://open.spotify.com/track/2bknsnLPCEMMKCVrYdTfAV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 136120,
-      "name": "ON THE LOW",
-      "url": "https://open.spotify.com/track/4o5bxjpANU9AXdvoBSietM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HOT WHEELS (feat. Rico Nasty)",
         "url": "https://open.spotify.com/album/39vJGX31o5xywlSVV5HPj3"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 189900,
       "name": "HOT WHEELS (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/5CkNM9mYFcVXy8gUmNgN2I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 136120,
+      "name": "ON THE LOW",
+      "url": "https://open.spotify.com/track/4o5bxjpANU9AXdvoBSietM"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "EAT ME!",
-      "url": "https://open.spotify.com/track/15kIVlB2dWPQiajwBXTRVk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Fate of the Furious: The Album",
         "url": "https://open.spotify.com/album/2RUQkpqt06NzfF5qBt4xmZ"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 202093,
       "name": "Mamacita (feat. Rico Nasty)",
       "url": "https://open.spotify.com/track/5QoP9RStRznL8PNZ9nKXl5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "EAT ME!",
+      "url": "https://open.spotify.com/track/15kIVlB2dWPQiajwBXTRVk"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LETHAL",
-        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
-      },
-      "artists": [
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 102386,
-      "name": "GRAVE",
-      "url": "https://open.spotify.com/track/7AIqr8LmpHg1dkbQTcLDIA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Money (feat. Flo Milli)",
         "url": "https://open.spotify.com/album/5u9dBzQdVd9YDblzgtxOlD"
       },
@@ -843,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+        "name": "LETHAL",
+        "url": "https://open.spotify.com/album/0HkRlQCLTYsr1K5cD33Gr4"
       },
       "artists": [
         {
@@ -852,9 +836,9 @@
           "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 91754,
-      "name": "Bitch I'm Nasty",
-      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
+      "duration_ms": 102386,
+      "name": "GRAVE",
+      "url": "https://open.spotify.com/track/7AIqr8LmpHg1dkbQTcLDIA"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
       "duration_ms": 118000,
       "name": "STUNNA",
       "url": "https://open.spotify.com/track/13gAKY859qFzAzpxzWsEjO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/4RKiTVGT9pCVRnqIkwKWo1"
+      },
+      "artists": [
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 91754,
+      "name": "Bitch I'm Nasty",
+      "url": "https://open.spotify.com/track/2xXNa4tR2CronQsZ6OKQtP"
     },
     {
       "added_at": null,

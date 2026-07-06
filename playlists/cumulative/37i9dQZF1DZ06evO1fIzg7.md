@@ -4,7 +4,7 @@
 
 > This is Sophie Ellis\-Bextor\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 25 min
+73 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Do You Remember the First Time? \- Live](https://open.spotify.com/track/1K3tMyvX5uU0bVi8KSC4TH) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Songs from the Kitchen Disco: Sophie Ellis\-Bextor's Greatest Hits](https://open.spotify.com/album/3BVWvOqPRrA7YuNkzCi9Xe) | 4:13 | 2026-06-14 |  |
 | [Do You Remember the First Time? \- Live](https://open.spotify.com/track/3H4eDzeAiETLAviW8KY2nz) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Songs from the Kitchen Disco: Sophie Ellis\-Bextor's Greatest Hits](https://open.spotify.com/album/1Ow8exCwrgZjMEyKo53sKV) | 4:13 | 2025-12-23 | 2026-06-14 |
 | [Dolce Vita](https://open.spotify.com/track/46g5hMEcalsXMw8SEtvo39) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:31 | 2025-10-28 |  |
+| [Everything is Sweet](https://open.spotify.com/track/0Bt1jC0ia1DAKjSkqIsqiV) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [HANA](https://open.spotify.com/album/2oypv23kc2pJaykM2VCcZb) | 4:49 | 2026-07-06 |  |
 | [Everything is Sweet](https://open.spotify.com/track/5xk0BQteKbykX7Ih1VuX5a) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [HANA](https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg) | 4:49 | 2025-10-28 | 2026-04-24 |
 | [Freedom Of The Night](https://open.spotify.com/track/5w5D3Z8rmFcpmVr2V9yCZu) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Freedom Of The Night](https://open.spotify.com/album/6ZmsPjjEbwGdEciXZzJBuk) | 3:12 | 2025-10-28 |  |
 | [Fuck With You](https://open.spotify.com/track/7kkhw4WZCSQO2RiC5HpmDG) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE), [Gilbere Forté](https://open.spotify.com/artist/6w9oNSpsNuLOwu2XVbQPGK) | [Disco Crash](https://open.spotify.com/album/3LHVWngujWfU3TVo6b7Ttv) | 3:11 | 2025-10-28 |  |
@@ -58,7 +59,7 @@
 | [Ready For Your Love](https://open.spotify.com/track/3Kr7UHOUkgaH4PK3Mp1fUP) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Ready For Your Love](https://open.spotify.com/album/5qcOnOmMYeKDPWjsVim6Ss) | 2:39 | 2025-10-28 |  |
 | [Reflections](https://open.spotify.com/track/2np4WdbdOjxmm3gByJQnj4) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [HANA](https://open.spotify.com/album/4Gm8SAIYcUiN3KA72ESlbg) | 3:21 | 2025-10-28 | 2026-01-31 |
 | [Relentless Love](https://open.spotify.com/track/24REwt3hGvBJVsUrWEMYJo) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 4:03 | 2025-10-28 |  |
-| [Revolution](https://open.spotify.com/track/5wDTyxpY8qidlzz3AJbio1) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 2:44 | 2026-06-26 |  |
+| [Revolution](https://open.spotify.com/track/5wDTyxpY8qidlzz3AJbio1) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 2:44 | 2026-06-26 | 2026-07-06 |
 | [Runaway Daydreamer](https://open.spotify.com/track/0hGlojG3S2TwZAQQbOA990) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Wanderlust](https://open.spotify.com/album/1QRg5Llo9R1M6eslFyH4gO) | 4:00 | 2025-10-28 |  |
 | [Self Control](https://open.spotify.com/track/409E7VEl0dAqHw5wk5gdvM) | [Alex Christensen](https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq), [The Berlin Orchestra](https://open.spotify.com/artist/6cM5S5JAR9qY9GdYyLAuUY), [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Classical 80s Dance](https://open.spotify.com/album/4lXao2y0nV9OyHL4QBW6x5) | 3:47 | 2025-10-28 | 2026-06-25 |
 | [Starlight](https://open.spotify.com/track/2GkquduIKdU8FrsPugJ4Ob) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Make a Scene](https://open.spotify.com/album/44CSNV2cfDftmXosTXfwI0) | 4:19 | 2025-10-28 |  |

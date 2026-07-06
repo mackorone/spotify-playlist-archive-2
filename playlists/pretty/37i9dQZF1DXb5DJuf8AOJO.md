@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 
 > Lift our voices to Him.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,667 likes - 106 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,674 likes - 106 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5DJuf8AOJO.md) - [plain]
 | 35 | [Aleluya Medley](https://open.spotify.com/track/7HviKT9EmziRs44X0FqZMx) | [Bukas Palad Music Ministry](https://open.spotify.com/artist/3m6LsCP4SaZGScWSqwADvI), [Hangad](https://open.spotify.com/artist/6arqpozmPzDwU2DSqllSKX), [Himig Heswita](https://open.spotify.com/artist/5vbrczoZLVdjnPuXS7pIt2), [Koro Ilustrado](https://open.spotify.com/artist/68KrFgYZCQPqfOZkLDQuu5), [Pansol Choir](https://open.spotify.com/artist/5F5L19pYLUx3cjhT4baMEZ), [Tinig Barangka](https://open.spotify.com/artist/4ad9bTv6q31ygp7CMsjEl8), [Musica Chiesa](https://open.spotify.com/artist/58ACs1SMQe3TcN9aQeKDHO) | [Aleluya Medley](https://open.spotify.com/album/0r7F6dEvW0yfkANEXqPDL3) | 6:04 |
 | 36 | [Kaganapan Ko](https://open.spotify.com/track/4HKLPEvVEj4MkST85DgU7H) | [Biyaya at Papuri](https://open.spotify.com/artist/4xNRdJlHZCcaZPevXMVNdS) | [Kaganapan Ko](https://open.spotify.com/album/7nM0GpLe6ExcScCzheUbcP) | 3:48 |
 | 37 | [On Eagles Wings](https://open.spotify.com/track/3UZaQ0UxGGEBhIcyYdnLCx) | [Cocoy Claravall](https://open.spotify.com/artist/7or90S16MNx8VogdeOqlKq) | [On Eagles Wings](https://open.spotify.com/album/732imiKCE3P9U3MbTPOp0O) | 4:37 |
-| 38 | [Sa'Yong Pangalan](https://open.spotify.com/track/5msLh4yF85P69GLfSxiGBO) | [James Reyes](https://open.spotify.com/artist/1x5NByuqtFtNUrl5vlE2Up) | [Sa'Yong Pangalan](https://open.spotify.com/album/7vJyBUneSgoTeQ62UqQMJR) | 3:41 |
+| 38 | [Sa'Yong Pangalan](https://open.spotify.com/track/5msLh4yF85P69GLfSxiGBO) | [James Reyes](https://open.spotify.com/artist/1x5NByuqtFtNUrl5vlE2Up), [Reverb Worship](https://open.spotify.com/artist/1WSOYxUuc7VcsFpudKTpHr) | [Sa'Yong Pangalan](https://open.spotify.com/album/7vJyBUneSgoTeQ62UqQMJR) | 3:41 |
 | 39 | [All Our Love](https://open.spotify.com/track/37iz6D4pMpjcjqJCVkIBVr) | [Ateneo Chamber Singers](https://open.spotify.com/artist/6BhC65tVU4pWgyZMs5fv3U) | [All Our Love](https://open.spotify.com/album/0rL38p2pRFuQp8LkdD9UoY) | 3:09 |
 | 40 | [Glory to God](https://open.spotify.com/track/4SAxylhotX2RvrCD43DAjs) | [Feast Worship](https://open.spotify.com/artist/36ODlPmkJ7PQJqhKC7ICIF) | [Take Part: Songs for Holy Mass](https://open.spotify.com/album/4gPHjP1JlTZdPSGyERjqpG) | 2:43 |
 | 41 | [PAGDULOG](https://open.spotify.com/track/3pOMnjZKrBA3lq3eY0yRAL) | [Cherise Katriel](https://open.spotify.com/artist/5w0v3Y4sMwMokCwiHeVDIN) | [PAGDULOG](https://open.spotify.com/album/2rx7FBCHpOBtKIo6fSase6) | 4:51 |

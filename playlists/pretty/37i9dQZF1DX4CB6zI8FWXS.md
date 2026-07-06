@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: Sekou
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,090 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,089 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 79 | [Outside Baby](https://open.spotify.com/track/4XGdfnV1NVmqQuTKrVuaJq) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0) | [Get Litty?](https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g) | 2:07 |
 | 80 | [Lullaby](https://open.spotify.com/track/7EpPewP2fk80hvZRH2kqrj) | [EKENE](https://open.spotify.com/artist/5NXEmIklHmeCRL0b7pHWnP) | [Lullaby](https://open.spotify.com/album/11JgVD3EIl2yZ9CX9X7zMc) | 2:29 |
 
-Snapshot ID: `AAAAAE4/CVG0vuMzUJLfivmm2qaPey8t`
+Snapshot ID: `AAAAAOCKKVvNQghXNyD9ChmvuIJnBNox`

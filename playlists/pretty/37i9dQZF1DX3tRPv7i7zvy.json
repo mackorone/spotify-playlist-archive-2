@@ -1,6 +1,6 @@
 {
   "description": "We Outsideeeee!",
-  "num_followers": 20997,
+  "num_followers": 21012,
   "original_name": "Abonten ",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,26 @@
     {
       "added_at": "2026-06-25 22:36:55",
       "album": {
+        "name": "Green Light",
+        "url": "https://open.spotify.com/album/32400KtvwwhQ6Ez8YqRCSn"
+      },
+      "artists": [
+        {
+          "name": "Yartti",
+          "url": "https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1"
+        },
+        {
+          "name": "Kwaku DMC",
+          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        }
+      ],
+      "duration_ms": 168421,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/0SMhYPT7oVW5zLWuOA1emb"
+    },
+    {
+      "added_at": "2026-06-25 22:36:55",
+      "album": {
         "name": "Praise",
         "url": "https://open.spotify.com/album/6Q59aB1v3sjwKWddsaLt9K"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 159819,
       "name": "Keep It Sexy",
       "url": "https://open.spotify.com/track/5ApZ3Ymo6yhkq98z0ag1bv"
-    },
-    {
-      "added_at": "2026-06-25 22:36:55",
-      "album": {
-        "name": "Green Light",
-        "url": "https://open.spotify.com/album/32400KtvwwhQ6Ez8YqRCSn"
-      },
-      "artists": [
-        {
-          "name": "Yartti",
-          "url": "https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1"
-        },
-        {
-          "name": "Kwaku DMC",
-          "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
-        }
-      ],
-      "duration_ms": 168421,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/0SMhYPT7oVW5zLWuOA1emb"
     },
     {
       "added_at": "2026-06-25 22:36:55",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2026-06-25 22:36:55",
       "album": {
+        "name": "Yahooboy",
+        "url": "https://open.spotify.com/album/0dQp68Zmy4Sis0nGVh5mPG"
+      },
+      "artists": [
+        {
+          "name": "ACE TEE",
+          "url": "https://open.spotify.com/artist/3sqdh5sW8Cc1j1jdbmRJRm"
+        },
+        {
+          "name": "Ngb Muni",
+          "url": "https://open.spotify.com/artist/7CMDKouH1YHU3pJacnDrzm"
+        }
+      ],
+      "duration_ms": 129924,
+      "name": "Yahooboy",
+      "url": "https://open.spotify.com/track/3gxE784U3RHs338iapWwos"
+    },
+    {
+      "added_at": "2026-06-25 22:36:55",
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/5zj0HDCApqZ7ZSVwJxzD7T"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 180720,
       "name": "Continental (feat. Shallipopi)",
       "url": "https://open.spotify.com/track/5p3PWZEHyHxlFhoROX4dzz"
-    },
-    {
-      "added_at": "2026-06-25 22:36:55",
-      "album": {
-        "name": "Yahooboy",
-        "url": "https://open.spotify.com/album/0dQp68Zmy4Sis0nGVh5mPG"
-      },
-      "artists": [
-        {
-          "name": "ACE TEE",
-          "url": "https://open.spotify.com/artist/3sqdh5sW8Cc1j1jdbmRJRm"
-        },
-        {
-          "name": "Ngb Muni",
-          "url": "https://open.spotify.com/artist/7CMDKouH1YHU3pJacnDrzm"
-        }
-      ],
-      "duration_ms": 129924,
-      "name": "Yahooboy",
-      "url": "https://open.spotify.com/track/3gxE784U3RHs338iapWwos"
     },
     {
       "added_at": "2026-06-25 22:36:55",
@@ -1155,18 +1155,22 @@
     {
       "added_at": "2026-06-25 22:36:55",
       "album": {
-        "name": "Blue Film",
-        "url": "https://open.spotify.com/album/0SpJUwHu44aSHL1f8xXDAE"
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/1DjCbRACl4Q9bLtT0hhiIF"
       },
       "artists": [
         {
-          "name": "Tulenkey",
-          "url": "https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT"
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
         }
       ],
-      "duration_ms": 176853,
-      "name": "Blue Film",
-      "url": "https://open.spotify.com/track/56NlGx0wDzv2edxALjmknb"
+      "duration_ms": 148374,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/0UUczvIt4oAghLNuY8WSEA"
     }
   ],
   "unique_name": "Abonten ",

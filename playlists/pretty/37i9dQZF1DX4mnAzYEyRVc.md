@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: La Pegatina
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,557 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,578 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 50 | [Rudy Come Home](https://open.spotify.com/track/6tRydI62ouOLxHAIPMv9tZ) | [Death Of Guitar Pop](https://open.spotify.com/artist/6fD5uxjcSC0aF0FO61e5id) | [Rudy Come Home](https://open.spotify.com/album/4BXqCarGoMoEtcD0hrnuxq) | 4:00 |
 | 51 | [Mala Vida](https://open.spotify.com/track/3o3ggHATl6U21OBID9YbzC) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Frecuencia Extrema](https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA) | 3:18 |
 | 52 | [Honey](https://open.spotify.com/track/6akeq8bf2ELPuFmAEvLMUY) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Bersinar](https://open.spotify.com/album/2w2npr2WhYpan47byFPmVn) | 3:45 |
-| 53 | [Komm mit aufs Boot](https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh) | [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31) | [Alles glänzt](https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l) | 3:16 |
-| 54 | [Balkan Boys](https://open.spotify.com/track/1Q20822BTCqDzM0I3OPuGF) | [Dubioza kolektiv](https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY) | [Balkan Boys](https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0) | 2:04 |
+| 53 | [Balkan Boys](https://open.spotify.com/track/1Q20822BTCqDzM0I3OPuGF) | [Dubioza kolektiv](https://open.spotify.com/artist/02IFYoziC7CpQRK8fbehUY) | [Balkan Boys](https://open.spotify.com/album/23UxzhoU54vxIAqEFdsxI0) | 2:04 |
+| 54 | [Komm mit aufs Boot](https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh) | [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31) | [Alles glänzt](https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l) | 3:16 |
 | 55 | [Siempre Fingiste Amarme](https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Siempre Fingiste Amarme](https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw) | 3:57 |
 | 56 | [Cuando Salga El Sol](https://open.spotify.com/track/0qb9jQqKZbN3glPVys6Ea8) | [Iseo & Dodosound](https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc) | [En La Tormenta](https://open.spotify.com/album/6p5kmc3vUATfKoUXplaRr6) | 3:01 |
 | 57 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 70 | [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 |
 | 71 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
 | 72 | [Grüße ins Neandertal](https://open.spotify.com/track/0ezLFIbttTjHHlhP7D1uOx) | [Feine Sahne Fischfilet](https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31) | [Grüße ins Neandertal](https://open.spotify.com/album/4BTJeSbI5IgKeXU0B6Auup) | 1:46 |
-| 73 | [STAY YOUNG STAY PUNK](https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C) | [FIVE STATE DRIVE](https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku) | [STAY YOUNG STAY PUNK](https://open.spotify.com/album/7k8Bm7SqifQOJK9iGvCT76) | 2:03 |
-| 74 | [Juice](https://open.spotify.com/track/7EfoHAFmh3NXkFv6psha4K) | [Sublime Reggae Kings](https://open.spotify.com/artist/0IdWDHqu9vAilcEhb3Q0tN), [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7) | [Juice](https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp) | 2:59 |
+| 73 | [Juice](https://open.spotify.com/track/7EfoHAFmh3NXkFv6psha4K) | [Sublime Reggae Kings](https://open.spotify.com/artist/0IdWDHqu9vAilcEhb3Q0tN), [Nenei](https://open.spotify.com/artist/7675AXKo73FqKM9RDrGbf7) | [Juice](https://open.spotify.com/album/751vQFOW3Ta6H207f2KXAp) | 2:59 |
+| 74 | [STAY YOUNG STAY PUNK](https://open.spotify.com/track/1vkAooo0F2HolXGWOnu31C) | [FIVE STATE DRIVE](https://open.spotify.com/artist/6A61RC9gPIbhN5bdXMl8ku) | [STAY YOUNG STAY PUNK](https://open.spotify.com/album/7k8Bm7SqifQOJK9iGvCT76) | 2:03 |
 | 75 | [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 |
 | 76 | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF) | [Raztlan](https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE), [Melodycans](https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF) | [El Amor No Es para Tibios \(Este Año Es el Bueno\)](https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO) | 3:33 |
 | 77 | [Looking Out For \#1 \- Ska Version](https://open.spotify.com/track/4ZBg1K6FoRm9UeOgREONMm) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ), [Bob Rock](https://open.spotify.com/artist/3fv3YVn2yEca71WZ6F0ATL), [Adam Greenholtz](https://open.spotify.com/artist/2brks2Gr3FO86tZouEhnua) | [Looking Out For \#1](https://open.spotify.com/album/2E3I7oPT2ioHTxa1hT43H6) | 2:30 |

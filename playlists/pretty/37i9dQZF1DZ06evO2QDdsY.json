@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16817,
+  "num_followers": 16821,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAACQzT/fCSX/xQDavZfwtnQU",
+  "snapshot_id": "akhNAAAAAAADlmSsFW0eQF7jxezbquj/",
   "tracks": [
     {
       "added_at": null,
@@ -443,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Under Cover",
-        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
+        "name": "High Note [Feat. Stax Music Academy]",
+        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
       },
       "artists": [
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        },
+        {
+          "name": "Stax Music Academy",
+          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
         }
       ],
-      "duration_ms": 250960,
-      "name": "Into My Arms",
-      "url": "https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0"
+      "duration_ms": 182099,
+      "name": "High Note [Feat. Stax Music Academy]",
+      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
     },
     {
       "added_at": null,
@@ -507,22 +511,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Note [Feat. Stax Music Academy]",
-        "url": "https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w"
+        "name": "Under Cover",
+        "url": "https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH"
       },
       "artists": [
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        },
-        {
-          "name": "Stax Music Academy",
-          "url": "https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K"
         }
       ],
-      "duration_ms": 182099,
-      "name": "High Note [Feat. Stax Music Academy]",
-      "url": "https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf"
+      "duration_ms": 250960,
+      "name": "Into My Arms",
+      "url": "https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0"
     },
     {
       "added_at": null,
@@ -568,9 +568,25 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 181786,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0lXhdx5FL08z86AjpYPqRo"
+      "duration_ms": 259799,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pushin' Against A Stone",
+        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 314320,
+      "name": "Pushin\u2019 Against A Stone",
+      "url": "https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3"
     },
     {
       "added_at": null,
@@ -591,22 +607,6 @@
       "duration_ms": 183634,
       "name": "Don't Start (feat. Valerie June)",
       "url": "https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pushin' Against A Stone",
-        "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 314320,
-      "name": "Pushin\u2019 Against A Stone",
-      "url": "https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 259799,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3"
+      "duration_ms": 181786,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0lXhdx5FL08z86AjpYPqRo"
     },
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Armageddon In A Summer Dress",
-        "url": "https://open.spotify.com/album/4QHHLKn8d51lY9i6OiOohV"
-      },
-      "artists": [
-        {
-          "name": "Sunny War",
-          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Cry Baby - feat. Valerie June",
-      "url": "https://open.spotify.com/track/10TS4rn0t7GRGEB3gGLjUv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Friendship [Feat. Carla Thomas and Stax Music Academy]",
         "url": "https://open.spotify.com/album/5OcQ95byjeN44N1DAp3de3"
       },
@@ -747,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Armageddon In A Summer Dress",
+        "url": "https://open.spotify.com/album/4QHHLKn8d51lY9i6OiOohV"
+      },
+      "artists": [
+        {
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Cry Baby - feat. Valerie June",
+      "url": "https://open.spotify.com/track/10TS4rn0t7GRGEB3gGLjUv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
         "url": "https://open.spotify.com/album/1zeu2tjunNLjS6rWNWCZ70"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 209426,
       "name": "Summer's End",
       "url": "https://open.spotify.com/track/1GOcYcVoojwz4FH1aD8ZKP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rollin' and Tumblin'",
-        "url": "https://open.spotify.com/album/0fnEQYKGxiZ8MeQdyQNpQ1"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 208110,
-      "name": "Rollin\u2019 and Tumblin\u2019",
-      "url": "https://open.spotify.com/track/6Gf3O9dcDuPUtMm6arXiCr"
     },
     {
       "added_at": null,
@@ -795,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red Hot: A Memphis Celebration of Sun Records",
-        "url": "https://open.spotify.com/album/5i5GqRNs1ifV07HCQLQH6c"
+        "name": "Rollin' and Tumblin'",
+        "url": "https://open.spotify.com/album/0fnEQYKGxiZ8MeQdyQNpQ1"
       },
       "artists": [
         {
@@ -804,9 +788,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 171693,
-      "name": "Sure to Fall",
-      "url": "https://open.spotify.com/track/13RQs1T5nEDGq5JVBFHJEo"
+      "duration_ms": 208110,
+      "name": "Rollin\u2019 and Tumblin\u2019",
+      "url": "https://open.spotify.com/track/6Gf3O9dcDuPUtMm6arXiCr"
     },
     {
       "added_at": null,
@@ -835,26 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home Inside (with Valerie June) (From \u201cNorah Jones is Playing Along\u201d Podcast)",
-        "url": "https://open.spotify.com/album/7zAu6xxacBn0nzZbwSZHEK"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 139043,
-      "name": "Home Inside (with Valerie June) (From \u201cNorah Jones is Playing Along\u201d Podcast)",
-      "url": "https://open.spotify.com/track/2e8hzjW6K0TFPZkwIa38o0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Traveler's Soul",
         "url": "https://open.spotify.com/album/5vqWpNKeUOfzYTyoeQoCly"
       },
@@ -871,6 +835,42 @@
       "duration_ms": 248440,
       "name": "I Can't Stand the Rain",
       "url": "https://open.spotify.com/track/2ueEb5EeFRF2vINyQ5bP9x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red Hot: A Memphis Celebration of Sun Records",
+        "url": "https://open.spotify.com/album/5i5GqRNs1ifV07HCQLQH6c"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "Sure to Fall",
+      "url": "https://open.spotify.com/track/13RQs1T5nEDGq5JVBFHJEo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home Inside (with Valerie June) (From \u201cNorah Jones is Playing Along\u201d Podcast)",
+        "url": "https://open.spotify.com/album/7zAu6xxacBn0nzZbwSZHEK"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 139043,
+      "name": "Home Inside (with Valerie June) (From \u201cNorah Jones is Playing Along\u201d Podcast)",
+      "url": "https://open.spotify.com/track/2e8hzjW6K0TFPZkwIa38o0"
     }
   ],
   "unique_name": "This Is Valerie June",

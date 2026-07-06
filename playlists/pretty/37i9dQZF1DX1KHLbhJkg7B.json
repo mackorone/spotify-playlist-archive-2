@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Keith Urban",
-  "num_followers": 136524,
+  "num_followers": 136528,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -635,18 +635,18 @@
     {
       "added_at": "2026-06-26 04:02:10",
       "album": {
-        "name": "No More Tears (live from the let go letters tour)",
-        "url": "https://open.spotify.com/album/7rdYGgrRJCTTMRestLOWhL"
+        "name": "Nothing Breaks Like a Heart - Spotify Singles",
+        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
       },
       "artists": [
         {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
         }
       ],
-      "duration_ms": 231155,
-      "name": "No More Tears - live from the let go letters tour",
-      "url": "https://open.spotify.com/track/7yZ5o8UjP08LkmhpJgLHCe"
+      "duration_ms": 218508,
+      "name": "Nothing Breaks Like a Heart - Spotify Singles",
+      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
     },
     {
       "added_at": "2026-06-26 04:02:10",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-06-26 04:02:10",
       "album": {
-        "name": "Nothing Breaks Like a Heart - Spotify Singles",
-        "url": "https://open.spotify.com/album/4dbDPnJUvamYRBEJ6nA2n2"
+        "name": "No More Tears (live from the let go letters tour)",
+        "url": "https://open.spotify.com/album/7rdYGgrRJCTTMRestLOWhL"
       },
       "artists": [
         {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
         }
       ],
-      "duration_ms": 218508,
-      "name": "Nothing Breaks Like a Heart - Spotify Singles",
-      "url": "https://open.spotify.com/track/5szvpZOIMuzCrwNrRwnB9B"
+      "duration_ms": 231155,
+      "name": "No More Tears - live from the let go letters tour",
+      "url": "https://open.spotify.com/track/7yZ5o8UjP08LkmhpJgLHCe"
     },
     {
       "added_at": "2026-06-26 04:02:10",
@@ -907,6 +907,26 @@
     {
       "added_at": "2026-06-26 04:02:10",
       "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/4a9cTvd7HAAzG0Yb1lPMnN"
+      },
+      "artists": [
+        {
+          "name": "Andrew Hyatt",
+          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
+        },
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "duration_ms": 219345,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88"
+    },
+    {
+      "added_at": "2026-06-26 04:02:10",
+      "album": {
         "name": "HIXTAPE: Vol 3: DIFFTAPE (Small Batch)",
         "url": "https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 256501,
       "name": "The Night The Lights Went Out In Georgia",
       "url": "https://open.spotify.com/track/1jZvywRaT7pNoFMVvaLoP5"
-    },
-    {
-      "added_at": "2026-06-26 04:02:10",
-      "album": {
-        "name": "Time After Time",
-        "url": "https://open.spotify.com/album/4a9cTvd7HAAzG0Yb1lPMnN"
-      },
-      "artists": [
-        {
-          "name": "Andrew Hyatt",
-          "url": "https://open.spotify.com/artist/6L1jfL0BaxCDXCcy51CEcg"
-        },
-        {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
-        }
-      ],
-      "duration_ms": 219345,
-      "name": "Time After Time",
-      "url": "https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88"
     },
     {
       "added_at": "2026-06-26 04:02:10",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-06-26 04:02:10",
       "album": {
-        "name": "When A Man Loves A Woman",
-        "url": "https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN"
-      },
-      "artists": [
-        {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
-        }
-      ],
-      "duration_ms": 197885,
-      "name": "When A Man Loves A Woman",
-      "url": "https://open.spotify.com/track/6PgFcH7XEw1FeReY4049UG"
-    },
-    {
-      "added_at": "2026-06-26 04:02:10",
-      "album": {
         "name": "A Lesson In Leavin'",
         "url": "https://open.spotify.com/album/3rfYnj51q8xxwyn0NFjIyu"
       },
@@ -1187,34 +1171,18 @@
     {
       "added_at": "2026-06-26 04:02:10",
       "album": {
-        "name": "Footlights",
-        "url": "https://open.spotify.com/album/1nTo7j2BBoHrr60jz56mVp"
+        "name": "When A Man Loves A Woman",
+        "url": "https://open.spotify.com/album/3rF1V3X2lvEXeNAAOpqcHN"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 264626,
-      "name": "Footlights",
-      "url": "https://open.spotify.com/track/0jsJQqnaP21iMesmDucSjW"
-    },
-    {
-      "added_at": "2026-06-26 04:02:10",
-      "album": {
-        "name": "Someone Like You/Run",
-        "url": "https://open.spotify.com/album/6xkhaMcs6Esu7gfHW1TGK5"
-      },
-      "artists": [
-        {
-          "name": "Dillon Carmichael",
-          "url": "https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6"
-        }
-      ],
-      "duration_ms": 255016,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/1DjDt7ngqk7r1vpcV7d9sx"
+      "duration_ms": 197885,
+      "name": "When A Man Loves A Woman",
+      "url": "https://open.spotify.com/track/6PgFcH7XEw1FeReY4049UG"
     },
     {
       "added_at": "2026-06-26 04:02:10",
@@ -1235,6 +1203,38 @@
       "duration_ms": 157880,
       "name": "Only Daddy That'll Walk The Line",
       "url": "https://open.spotify.com/track/6PyTN8XqAYMqQyKs2F9XD8"
+    },
+    {
+      "added_at": "2026-06-26 04:02:10",
+      "album": {
+        "name": "Someone Like You/Run",
+        "url": "https://open.spotify.com/album/6xkhaMcs6Esu7gfHW1TGK5"
+      },
+      "artists": [
+        {
+          "name": "Dillon Carmichael",
+          "url": "https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6"
+        }
+      ],
+      "duration_ms": 255016,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/1DjDt7ngqk7r1vpcV7d9sx"
+    },
+    {
+      "added_at": "2026-06-26 04:02:10",
+      "album": {
+        "name": "Footlights",
+        "url": "https://open.spotify.com/album/1nTo7j2BBoHrr60jz56mVp"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 264626,
+      "name": "Footlights",
+      "url": "https://open.spotify.com/track/0jsJQqnaP21iMesmDucSjW"
     },
     {
       "added_at": "2026-06-26 04:02:10",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-06-26 04:02:10",
       "album": {
+        "name": "This Land Is Your Land (From Bright: The Album)",
+        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "This Land Is Your Land",
+      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
+    },
+    {
+      "added_at": "2026-06-26 04:02:10",
+      "album": {
         "name": "There\u2019s Your Trouble - Spotify Singles",
         "url": "https://open.spotify.com/album/3mdDFYUab8j947TvSXLeMC"
       },
@@ -1483,6 +1499,34 @@
     {
       "added_at": "2026-06-26 04:02:10",
       "album": {
+        "name": "HIXTAPE: Vol. 3: DIFFTAPE",
+        "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
+      },
+      "artists": [
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        },
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 224456,
+      "name": "Ships That Don\u2019t Come In",
+      "url": "https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q"
+    },
+    {
+      "added_at": "2026-06-26 04:02:10",
+      "album": {
         "name": "Dammit",
         "url": "https://open.spotify.com/album/0dWV3dZmZvr2ku5ho29GeU"
       },
@@ -1519,34 +1563,6 @@
       "duration_ms": 301569,
       "name": "Someone Like You (with The Travelin' McCourys & Sierra Ferrell)",
       "url": "https://open.spotify.com/track/0FzCkQZyXg3RAVe8hF3TbA"
-    },
-    {
-      "added_at": "2026-06-26 04:02:10",
-      "album": {
-        "name": "HIXTAPE: Vol. 3: DIFFTAPE",
-        "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
-      },
-      "artists": [
-        {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        },
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 224456,
-      "name": "Ships That Don\u2019t Come In",
-      "url": "https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q"
     },
     {
       "added_at": "2026-06-26 04:02:10",
@@ -1667,22 +1683,6 @@
     {
       "added_at": "2026-06-26 04:02:10",
       "album": {
-        "name": "This Land Is Your Land (From Bright: The Album)",
-        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "This Land Is Your Land",
-      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
-    },
-    {
-      "added_at": "2026-06-26 04:02:10",
-      "album": {
         "name": "Whoever's In New England",
         "url": "https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4"
       },
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2026-06-26 04:02:10",
       "album": {
+        "name": "American Girl",
+        "url": "https://open.spotify.com/album/5LUbA5E8vsyAbFgmS2CZin"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 183820,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/3PRTKWFigJCi47YAEsBpiP"
+    },
+    {
+      "added_at": "2026-06-26 04:02:10",
+      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 162411,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46"
-    },
-    {
-      "added_at": "2026-06-26 04:02:10",
-      "album": {
-        "name": "You're Still The One",
-        "url": "https://open.spotify.com/album/7eDDPso1MhI1Uc4SsbLVnD"
-      },
-      "artists": [
-        {
-          "name": "Ryan Waters Band",
-          "url": "https://open.spotify.com/artist/3R2ZcnOHyjuj0a61bq9GTi"
-        }
-      ],
-      "duration_ms": 195455,
-      "name": "You're Still The One",
-      "url": "https://open.spotify.com/track/2krzZT5Sk5268fKCalESbe"
     }
   ],
   "unique_name": "Country Covers",

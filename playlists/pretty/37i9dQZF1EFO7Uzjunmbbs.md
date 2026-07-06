@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 72 | [Steady Me](https://open.spotify.com/track/16uuHTbhOckbjo1mV77c0R) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 4:23 |
 | 73 | [One Desire](https://open.spotify.com/track/3EMJyAkW85BUNyv0g2uNBN) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 3:19 |
 | 74 | [Strong](https://open.spotify.com/track/3akedMTYQ5BBTuyQinbFYB) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:25 |
-| 75 | [Mad I Need You](https://open.spotify.com/track/0om2jMPfaW2pBJs5i7axVv) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love, Kylie](https://open.spotify.com/album/6Ab0rIJ0ydHvziPeeLE5e6) | 3:19 |
-| 76 | [Goodbye, Again](https://open.spotify.com/track/0uc49i27OzyaIapdIuYL3i) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:01 |
+| 75 | [Goodbye, Again](https://open.spotify.com/track/0uc49i27OzyaIapdIuYL3i) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Bridges](https://open.spotify.com/album/4Qw1soNFVQu96dlP7yDBSO) | 3:01 |
+| 76 | [Mad I Need You](https://open.spotify.com/track/0om2jMPfaW2pBJs5i7axVv) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love, Kylie](https://open.spotify.com/album/6Ab0rIJ0ydHvziPeeLE5e6) | 3:19 |
 | 77 | [Girls In My Hometown](https://open.spotify.com/track/3bCzxQSvg3Tb53668slgnI) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [In Between: The Collection](https://open.spotify.com/album/3h2bg4Jw8gdCgrdtIXtLFz) | 3:13 |
 | 78 | [You Don't](https://open.spotify.com/track/1BWVyk9ZbG4SzGyZAA9sWG) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [The Story's Not Over](https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3) | 3:33 |
 | 79 | [Songs I'd Rather Not Sing](https://open.spotify.com/track/7aFB4Ewl1dydxKChS10B0D) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [A Light That Waits](https://open.spotify.com/album/7i0C3YuMEYy28jIz4aCPRt) | 2:44 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 216 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
 | 217 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcV/HgAAAABYhO5I659R7SHOAUHCR/zr`
+Snapshot ID: `AcWE+gAAAAAXUKnfYhnb0NjYzuqYd0cP`

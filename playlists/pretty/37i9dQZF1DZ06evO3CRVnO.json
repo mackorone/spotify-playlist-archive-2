@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 327516,
+  "num_followers": 327537,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAACl/zJbOHNHG8ySBmfyDVG1",
+  "snapshot_id": "akhNAAAAAACNGSJaDXg46VHLbUQg2bOp",
   "tracks": [
     {
       "added_at": null,
@@ -355,6 +355,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 198410,
+      "name": "deaf note (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -487,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "xperiment",
-        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 198410,
-      "name": "deaf note (with Playboi Carti)",
-      "url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whole Lotta Red",
         "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 165642,
-      "name": "Yah Mean",
-      "url": "https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 212598,
       "name": "HBA",
       "url": "https://open.spotify.com/track/6q2PbvM9UEig4r8xku7VIb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 165642,
+      "name": "Yah Mean",
+      "url": "https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 150409,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 190373,
       "name": "GOOD CREDIT (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2n9fC0A4ptmWqYeMXEVaok"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 150409,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6"
     },
     {
       "added_at": null,
@@ -711,6 +711,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 222848,
+      "name": "wedidit (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/7ijEnS2juTHSM7tD8byqrD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I LUV IT (feat. Playboi Carti)",
         "url": "https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 272941,
       "name": "WHERE WAS YOU",
       "url": "https://open.spotify.com/track/26N5kAVhlqFOWAkuMQ5Kwe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "xperiment",
-        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 222848,
-      "name": "wedidit (with Playboi Carti)",
-      "url": "https://open.spotify.com/track/7ijEnS2juTHSM7tD8byqrD"
     },
     {
       "added_at": null,

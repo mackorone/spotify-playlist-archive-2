@@ -1,6 +1,6 @@
 {
   "description": "De grondleggers van de Nederlandse Hip-hop game",
-  "num_followers": 66635,
+  "num_followers": 66650,
   "original_name": "Grondleggers",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Hefvermogen",
-        "url": "https://open.spotify.com/album/5lIlBVUJNuUxaBCNmHGL2P"
-      },
-      "artists": [
-        {
-          "name": "Hef",
-          "url": "https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ"
-        }
-      ],
-      "duration_ms": 115000,
-      "name": "Feunen",
-      "url": "https://open.spotify.com/track/2kJI2Vf1LEGNy4r6ZQFyvG"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Vossig",
         "url": "https://open.spotify.com/album/6uA7RHsJLbT3IS5cWkRmJe"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 117786,
       "name": "Hele Meneer",
       "url": "https://open.spotify.com/track/7AbTXC2v7zuDE5lxthGQg5"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Hefvermogen",
+        "url": "https://open.spotify.com/album/5lIlBVUJNuUxaBCNmHGL2P"
+      },
+      "artists": [
+        {
+          "name": "Hef",
+          "url": "https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ"
+        }
+      ],
+      "duration_ms": 115000,
+      "name": "Feunen",
+      "url": "https://open.spotify.com/track/2kJI2Vf1LEGNy4r6ZQFyvG"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Documents (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e"
+      },
+      "artists": [
+        {
+          "name": "Postmen",
+          "url": "https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Cocktail",
+      "url": "https://open.spotify.com/track/5nPgvhN5bUJcJUpVDtSrzn"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Hard Van Buiten, Gebroken Van Binnen",
         "url": "https://open.spotify.com/album/6gAjlhxCZHluNBCghWD1l6"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 213504,
       "name": "Superman",
       "url": "https://open.spotify.com/track/4NtGAQJXUXfqIni5ouifAX"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Documents (15th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/3SD4TPqdN4sxNkKFwCHl1e"
-      },
-      "artists": [
-        {
-          "name": "Postmen",
-          "url": "https://open.spotify.com/artist/5k6U0H4M8ehwgYh8T2d6We"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Cocktail",
-      "url": "https://open.spotify.com/track/5nPgvhN5bUJcJUpVDtSrzn"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Alleen Maar Nette Mensen",
-        "url": "https://open.spotify.com/album/2Ys1FuzId7YHRQfO60WpOj"
-      },
-      "artists": [
-        {
-          "name": "Hydroboyz",
-          "url": "https://open.spotify.com/artist/5GfHBi9C9eO3icfEgcBOrv"
-        }
-      ],
-      "duration_ms": 265373,
-      "name": "Hindabuilding",
-      "url": "https://open.spotify.com/track/7vlBabEKsS3HFR5Bhqi8dH"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Du Zoon",
         "url": "https://open.spotify.com/album/3Ud6DOZSPYKFqxMPWjzvKU"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 179653,
       "name": "Buschauffeur",
       "url": "https://open.spotify.com/track/3N1qohiQ5xPgoYg9m0McId"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Alleen Maar Nette Mensen",
+        "url": "https://open.spotify.com/album/2Ys1FuzId7YHRQfO60WpOj"
+      },
+      "artists": [
+        {
+          "name": "Hydroboyz",
+          "url": "https://open.spotify.com/artist/5GfHBi9C9eO3icfEgcBOrv"
+        }
+      ],
+      "duration_ms": 265373,
+      "name": "Hindabuilding",
+      "url": "https://open.spotify.com/track/7vlBabEKsS3HFR5Bhqi8dH"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -995,18 +995,18 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Klokkenluiders Van Amsterdam",
-        "url": "https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB"
+        "name": "De Fik Erin",
+        "url": "https://open.spotify.com/album/6MAHQABck8mc1vPPwUHf0W"
       },
       "artists": [
         {
-          "name": "Spookrijders",
-          "url": "https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA"
+          "name": "The Opposites",
+          "url": "https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6"
         }
       ],
-      "duration_ms": 388840,
-      "name": "Klokkenluiders",
-      "url": "https://open.spotify.com/track/3b7SQhQtEHJwQ3tfoLFeFs"
+      "duration_ms": 211893,
+      "name": "Je Kan Niks Doen",
+      "url": "https://open.spotify.com/track/5zkRdTaRj9CeYp8F8zGfZW"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "De Fik Erin",
-        "url": "https://open.spotify.com/album/6MAHQABck8mc1vPPwUHf0W"
+        "name": "Klokkenluiders Van Amsterdam",
+        "url": "https://open.spotify.com/album/7i5hQILZYjem9EZ0IlbZZB"
       },
       "artists": [
         {
-          "name": "The Opposites",
-          "url": "https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6"
+          "name": "Spookrijders",
+          "url": "https://open.spotify.com/artist/07SOZ79F75jaqJ4MEpjzPA"
         }
       ],
-      "duration_ms": 211893,
-      "name": "Je Kan Niks Doen",
-      "url": "https://open.spotify.com/track/5zkRdTaRj9CeYp8F8zGfZW"
+      "duration_ms": 388840,
+      "name": "Klokkenluiders",
+      "url": "https://open.spotify.com/track/3b7SQhQtEHJwQ3tfoLFeFs"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "De Avonturen...",
+        "url": "https://open.spotify.com/album/4PlYyqqB9F9IHUriGNk4eX"
+      },
+      "artists": [
+        {
+          "name": "Extince",
+          "url": "https://open.spotify.com/artist/1VcWBBXrRinwtVyU7oSsc5"
+        }
+      ],
+      "duration_ms": 203609,
+      "name": "Spraakwater Lest De Dorst!",
+      "url": "https://open.spotify.com/track/7MUsnvsHlBUruKYjT0TPZT"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Fakkelteit",
         "url": "https://open.spotify.com/album/5YGJo9Oc4OuSYdKEtUJ2fJ"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 250840,
       "name": "Utopia",
       "url": "https://open.spotify.com/track/7LfLyolgPekxCKXoIZUWBS"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "De Avonturen...",
-        "url": "https://open.spotify.com/album/4PlYyqqB9F9IHUriGNk4eX"
-      },
-      "artists": [
-        {
-          "name": "Extince",
-          "url": "https://open.spotify.com/artist/1VcWBBXrRinwtVyU7oSsc5"
-        }
-      ],
-      "duration_ms": 203609,
-      "name": "Spraakwater Lest De Dorst!",
-      "url": "https://open.spotify.com/track/7MUsnvsHlBUruKYjT0TPZT"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
+        "name": "Ut Zwarte Aap",
+        "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
+      },
+      "artists": [
+        {
+          "name": "Jawat",
+          "url": "https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg"
+        }
+      ],
+      "duration_ms": 137426,
+      "name": "Plakka",
+      "url": "https://open.spotify.com/track/1bPQ0PV4DWY2rnYjXs5bek"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
         "name": "Tussen Licht En Lucht",
         "url": "https://open.spotify.com/album/3aG1Mxyg15uksW77hASpvu"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 245773,
       "name": "Los Zand",
       "url": "https://open.spotify.com/track/2BMhiLVRbBvafIKOxkKfiF"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
-        "name": "Ut Zwarte Aap",
-        "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
-      },
-      "artists": [
-        {
-          "name": "Jawat",
-          "url": "https://open.spotify.com/artist/72iS8ZcJzdBk2NKOZgeVPg"
-        }
-      ],
-      "duration_ms": 137426,
-      "name": "Plakka",
-      "url": "https://open.spotify.com/track/1bPQ0PV4DWY2rnYjXs5bek"
     },
     {
       "added_at": "2024-09-09 11:56:35",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-09-09 11:56:35",
       "album": {
-        "name": "Opgeduveld",
-        "url": "https://open.spotify.com/album/5rpa2P52leivrXWEOU0vdL"
-      },
-      "artists": [
-        {
-          "name": "Opgeduveld",
-          "url": "https://open.spotify.com/artist/2itHVhH84RBGG9RsKyj5Yz"
-        }
-      ],
-      "duration_ms": 263786,
-      "name": "Generaal",
-      "url": "https://open.spotify.com/track/2uE3STwXESU4UvO5rZkkVC"
-    },
-    {
-      "added_at": "2024-09-09 11:56:35",
-      "album": {
         "name": "Ut Zwarte Aap",
         "url": "https://open.spotify.com/album/4tbhduZVDvdN0WmqvIrBJI"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 244089,
       "name": "Thuis (feat. Per.verz)",
       "url": "https://open.spotify.com/track/23g7NQGXBLc8f37KUgy0QC"
+    },
+    {
+      "added_at": "2024-09-09 11:56:35",
+      "album": {
+        "name": "Opgeduveld",
+        "url": "https://open.spotify.com/album/5rpa2P52leivrXWEOU0vdL"
+      },
+      "artists": [
+        {
+          "name": "Opgeduveld",
+          "url": "https://open.spotify.com/artist/2itHVhH84RBGG9RsKyj5Yz"
+        }
+      ],
+      "duration_ms": 263786,
+      "name": "Generaal",
+      "url": "https://open.spotify.com/track/2uE3STwXESU4UvO5rZkkVC"
     },
     {
       "added_at": "2024-09-09 11:56:35",

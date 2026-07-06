@@ -1,6 +1,6 @@
 {
   "description": "The new school - Alternative R&B. Cover: Khal!l",
-  "num_followers": 1316609,
+  "num_followers": 1316503,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -973,6 +973,22 @@
       "url": "https://open.spotify.com/track/7cdLicfXPQMLV9XTYCKm0C"
     },
     {
+      "added_at": "2025-08-15 06:41:00",
+      "album": {
+        "name": "Nice Shoes",
+        "url": "https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 195412,
+      "name": "Nice Shoes",
+      "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
+    },
+    {
       "added_at": "2026-04-03 07:16:37",
       "album": {
         "name": "Distracted",
@@ -993,22 +1009,6 @@
       "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
     },
     {
-      "added_at": "2025-08-15 06:41:00",
-      "album": {
-        "name": "Nice Shoes",
-        "url": "https://open.spotify.com/album/1XBaWU9OEjTOo0IFdgiTYl"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 195412,
-      "name": "Nice Shoes",
-      "url": "https://open.spotify.com/track/26RtX0MphIh9C7ZWJEogJL"
-    },
-    {
       "added_at": "2025-05-02 04:00:39",
       "album": {
         "name": "Head in a Jar",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "hopeless romantic",
-        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
-      },
-      "artists": [
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
-        }
-      ],
-      "duration_ms": 183692,
-      "name": "hopeless romantic",
-      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
-    },
-    {
       "added_at": "2026-04-24 04:14:21",
       "album": {
         "name": "sweet talk",
@@ -1055,6 +1039,22 @@
       "duration_ms": 146315,
       "name": "sweet talk",
       "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "hopeless romantic",
+        "url": "https://open.spotify.com/album/4G5UknjIP48pTz9950Ii2P"
+      },
+      "artists": [
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
+        }
+      ],
+      "duration_ms": 183692,
+      "name": "hopeless romantic",
+      "url": "https://open.spotify.com/track/4IFgAd6OdFhKlDDxwBX8In"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -1425,22 +1425,6 @@
       "url": "https://open.spotify.com/track/4J95y5Goj21bbI5H0VDvLZ"
     },
     {
-      "added_at": "2026-05-15 07:04:17",
-      "album": {
-        "name": "Real Here Now / Water",
-        "url": "https://open.spotify.com/album/3bFNjFl0eSYs6ne5MaM5kp"
-      },
-      "artists": [
-        {
-          "name": "Nick Hakim",
-          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
-        }
-      ],
-      "duration_ms": 300764,
-      "name": "Real Here Now",
-      "url": "https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI"
-    },
-    {
       "added_at": "2025-10-25 02:54:19",
       "album": {
         "name": "CAOS",
@@ -1455,6 +1439,22 @@
       "duration_ms": 215494,
       "name": "The Killing",
       "url": "https://open.spotify.com/track/025c4zVMZmyLrSPtsmXA7x"
+    },
+    {
+      "added_at": "2026-05-15 07:04:17",
+      "album": {
+        "name": "Real Here Now / Water",
+        "url": "https://open.spotify.com/album/3bFNjFl0eSYs6ne5MaM5kp"
+      },
+      "artists": [
+        {
+          "name": "Nick Hakim",
+          "url": "https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6"
+        }
+      ],
+      "duration_ms": 300764,
+      "name": "Real Here Now",
+      "url": "https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI"
     },
     {
       "added_at": "2025-08-15 06:41:00",
@@ -1589,6 +1589,22 @@
       "url": "https://open.spotify.com/track/6409bzRqrc9guKehKXiEcN"
     },
     {
+      "added_at": "2025-10-17 06:22:08",
+      "album": {
+        "name": "baby",
+        "url": "https://open.spotify.com/album/50qzmXH7hqkEaUkHwX8wzr"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 183269,
+      "name": "baby",
+      "url": "https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc"
+    },
+    {
       "added_at": "2026-03-06 06:14:13",
       "album": {
         "name": "Flood / Glow",
@@ -1607,22 +1623,6 @@
       "duration_ms": 179586,
       "name": "Flood (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2L8V5ufkP4ZzBBqjVBE2SW"
-    },
-    {
-      "added_at": "2025-10-17 06:22:08",
-      "album": {
-        "name": "baby",
-        "url": "https://open.spotify.com/album/50qzmXH7hqkEaUkHwX8wzr"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "duration_ms": 183269,
-      "name": "baby",
-      "url": "https://open.spotify.com/track/5Oq6iKIWE3Q1i3G2fES5Oc"
     },
     {
       "added_at": "2025-08-15 06:41:00",
@@ -1673,22 +1673,6 @@
       "url": "https://open.spotify.com/track/5K8BxVTTf8TYWWA8roPuSq"
     },
     {
-      "added_at": "2026-06-21 21:45:09",
-      "album": {
-        "name": "Recognize",
-        "url": "https://open.spotify.com/album/4OftHn7uy80P3yWxjjq4zp"
-      },
-      "artists": [
-        {
-          "name": "Fana Hues",
-          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
-        }
-      ],
-      "duration_ms": 125278,
-      "name": "Recognize",
-      "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
-    },
-    {
       "added_at": "2024-12-06 07:13:57",
       "album": {
         "name": "brother and sister",
@@ -1703,6 +1687,22 @@
       "duration_ms": 175963,
       "name": "brother and sister",
       "url": "https://open.spotify.com/track/4zWW43sj0FTEHgvAbmI0as"
+    },
+    {
+      "added_at": "2026-06-21 21:45:09",
+      "album": {
+        "name": "Recognize",
+        "url": "https://open.spotify.com/album/4OftHn7uy80P3yWxjjq4zp"
+      },
+      "artists": [
+        {
+          "name": "Fana Hues",
+          "url": "https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg"
+        }
+      ],
+      "duration_ms": 125278,
+      "name": "Recognize",
+      "url": "https://open.spotify.com/track/2p9s2lLeEwanBH1L5iDiA0"
     },
     {
       "added_at": "2026-05-08 06:11:38",
@@ -1861,22 +1861,6 @@
       "url": "https://open.spotify.com/track/7K9x5koIMokVbEfg1RsT4A"
     },
     {
-      "added_at": "2024-06-14 07:30:32",
-      "album": {
-        "name": "Dream About You All Through The Night.",
-        "url": "https://open.spotify.com/album/3UgF8Qrven2zn8lQfaDUYP"
-      },
-      "artists": [
-        {
-          "name": "Sunni Col\u00f3n",
-          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
-        }
-      ],
-      "duration_ms": 229310,
-      "name": "Dream About You All Through The Night.",
-      "url": "https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT"
-    },
-    {
       "added_at": "2026-05-15 07:04:17",
       "album": {
         "name": "So Bad",
@@ -1891,6 +1875,22 @@
       "duration_ms": 233513,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/7B0q3mDuGbjOz8J6DtFQOG"
+    },
+    {
+      "added_at": "2024-06-14 07:30:32",
+      "album": {
+        "name": "Dream About You All Through The Night.",
+        "url": "https://open.spotify.com/album/3UgF8Qrven2zn8lQfaDUYP"
+      },
+      "artists": [
+        {
+          "name": "Sunni Col\u00f3n",
+          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
+        }
+      ],
+      "duration_ms": 229310,
+      "name": "Dream About You All Through The Night.",
+      "url": "https://open.spotify.com/track/4dTX84JZlOg4hRBAHx3ptT"
     },
     {
       "added_at": "2024-06-21 07:44:39",
@@ -1977,38 +1977,6 @@
       "url": "https://open.spotify.com/track/7yuWa5XIv2HqqZsbigXZOZ"
     },
     {
-      "added_at": "2026-05-08 06:11:38",
-      "album": {
-        "name": "Rest of Your Life",
-        "url": "https://open.spotify.com/album/1kqqUsAXIPd4gHNQnus7AY"
-      },
-      "artists": [
-        {
-          "name": "Dahi",
-          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
-        }
-      ],
-      "duration_ms": 232373,
-      "name": "Rest of Your Life",
-      "url": "https://open.spotify.com/track/6aXp5uzptSa56dRBZDp7gG"
-    },
-    {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 214120,
-      "name": "Srs Ice",
-      "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
-    },
-    {
       "added_at": "2025-09-07 01:24:20",
       "album": {
         "name": "New Martyrs (Ride 4 U)",
@@ -2025,24 +1993,20 @@
       "url": "https://open.spotify.com/track/1toHY5SPpeCjHlfR6QROkJ"
     },
     {
-      "added_at": "2024-06-07 12:28:44",
+      "added_at": "2026-05-08 06:11:38",
       "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+        "name": "Rest of Your Life",
+        "url": "https://open.spotify.com/album/1kqqUsAXIPd4gHNQnus7AY"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "Dahi",
+          "url": "https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der"
         }
       ],
-      "duration_ms": 87301,
-      "name": "Wasted Words (feat. Thundercat)",
-      "url": "https://open.spotify.com/track/5p11IMrHpfoyMsEMNPCjD9"
+      "duration_ms": 232373,
+      "name": "Rest of Your Life",
+      "url": "https://open.spotify.com/track/6aXp5uzptSa56dRBZDp7gG"
     },
     {
       "added_at": "2025-04-11 05:53:52",
@@ -2065,6 +2029,22 @@
       "url": "https://open.spotify.com/track/5cecqx5yqGOrtBADz9YNza"
     },
     {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "Memory Be a Blade",
+        "url": "https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK"
+      },
+      "artists": [
+        {
+          "name": "waterbaby",
+          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
+        }
+      ],
+      "duration_ms": 214120,
+      "name": "Srs Ice",
+      "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
+    },
+    {
       "added_at": "2024-10-20 00:14:41",
       "album": {
         "name": "Wildflowers",
@@ -2081,20 +2061,24 @@
       "url": "https://open.spotify.com/track/0276oT52BTy2zKrTQyYPQt"
     },
     {
-      "added_at": "2025-10-25 02:54:19",
+      "added_at": "2024-06-07 12:28:44",
       "album": {
-        "name": "Cumulus / Memory",
-        "url": "https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN"
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
       "artists": [
         {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 407765,
-      "name": "Cumulus / Memory",
-      "url": "https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb"
+      "duration_ms": 87301,
+      "name": "Wasted Words (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/5p11IMrHpfoyMsEMNPCjD9"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -2111,6 +2095,22 @@
       "duration_ms": 218918,
       "name": "raindance",
       "url": "https://open.spotify.com/track/127BebV29M41FmJqcl8k20"
+    },
+    {
+      "added_at": "2025-10-25 02:54:19",
+      "album": {
+        "name": "Cumulus / Memory",
+        "url": "https://open.spotify.com/album/6VemCtS9MYpT9CJ1YgfZeN"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 407765,
+      "name": "Cumulus / Memory",
+      "url": "https://open.spotify.com/track/6rKXHdjhXExjyvfarhcmwb"
     },
     {
       "added_at": "2025-10-17 06:22:08",
@@ -2217,20 +2217,28 @@
       "url": "https://open.spotify.com/track/3AoRetRPhYJ9dcBCXIXBD5"
     },
     {
-      "added_at": "2026-04-03 07:16:37",
+      "added_at": "2024-08-30 06:47:05",
       "album": {
-        "name": "THE DANGER",
-        "url": "https://open.spotify.com/album/457TT3OqecApiXp4S5MdUY"
+        "name": "IMPALA",
+        "url": "https://open.spotify.com/album/03OLTLXUlvBfNIDIsJhMNz"
       },
       "artists": [
         {
-          "name": "Khal!l",
-          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
+          "name": "Low.b\u014d",
+          "url": "https://open.spotify.com/artist/0sHhVckLys5GQXpszVYa2Y"
+        },
+        {
+          "name": "YTK",
+          "url": "https://open.spotify.com/artist/4QsNZ1JTLzhVSAzMxjLe7b"
+        },
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
         }
       ],
-      "duration_ms": 119500,
-      "name": "THE DANGER",
-      "url": "https://open.spotify.com/track/2tuUWtr4zhmkFy2C8vViv0"
+      "duration_ms": 209874,
+      "name": "SATIVA!",
+      "url": "https://open.spotify.com/track/3txRu0oUiaaGalqysVvWqf"
     },
     {
       "added_at": "2026-06-21 21:45:09",
@@ -2257,28 +2265,20 @@
       "url": "https://open.spotify.com/track/02ugxIQUj0KZpugZqPzq67"
     },
     {
-      "added_at": "2024-08-30 06:47:05",
+      "added_at": "2026-04-03 07:16:37",
       "album": {
-        "name": "IMPALA",
-        "url": "https://open.spotify.com/album/03OLTLXUlvBfNIDIsJhMNz"
+        "name": "THE DANGER",
+        "url": "https://open.spotify.com/album/457TT3OqecApiXp4S5MdUY"
       },
       "artists": [
         {
-          "name": "Low.b\u014d",
-          "url": "https://open.spotify.com/artist/0sHhVckLys5GQXpszVYa2Y"
-        },
-        {
-          "name": "YTK",
-          "url": "https://open.spotify.com/artist/4QsNZ1JTLzhVSAzMxjLe7b"
-        },
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+          "name": "Khal!l",
+          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
         }
       ],
-      "duration_ms": 209874,
-      "name": "SATIVA!",
-      "url": "https://open.spotify.com/track/3txRu0oUiaaGalqysVvWqf"
+      "duration_ms": 119500,
+      "name": "THE DANGER",
+      "url": "https://open.spotify.com/track/2tuUWtr4zhmkFy2C8vViv0"
     },
     {
       "added_at": "2024-08-30 06:47:05",
@@ -2385,22 +2385,6 @@
       "url": "https://open.spotify.com/track/1MAKhZHljHK1Rz25RHrwVP"
     },
     {
-      "added_at": "2026-03-06 06:14:13",
-      "album": {
-        "name": "Asleep At The Wheel",
-        "url": "https://open.spotify.com/album/5VoE1iWFPmlswLhgP89ePD"
-      },
-      "artists": [
-        {
-          "name": "rum.gold",
-          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
-        }
-      ],
-      "duration_ms": 183080,
-      "name": "Asleep at the Wheel",
-      "url": "https://open.spotify.com/track/6HF2xweqx3yQsXZJQC4EoX"
-    },
-    {
       "added_at": "2025-06-27 04:16:56",
       "album": {
         "name": "Homerun 2021",
@@ -2431,6 +2415,22 @@
       "duration_ms": 140104,
       "name": "GET YA MONEY",
       "url": "https://open.spotify.com/track/0GLfZctAZr9IeX9BPVsRcR"
+    },
+    {
+      "added_at": "2026-03-06 06:14:13",
+      "album": {
+        "name": "Asleep At The Wheel",
+        "url": "https://open.spotify.com/album/5VoE1iWFPmlswLhgP89ePD"
+      },
+      "artists": [
+        {
+          "name": "rum.gold",
+          "url": "https://open.spotify.com/artist/4mErKO4g29SXtBwj4S80aB"
+        }
+      ],
+      "duration_ms": 183080,
+      "name": "Asleep at the Wheel",
+      "url": "https://open.spotify.com/track/6HF2xweqx3yQsXZJQC4EoX"
     },
     {
       "added_at": "2024-09-13 09:09:19",
@@ -2481,22 +2481,6 @@
       "url": "https://open.spotify.com/track/3SYa9xlmRsRB772x9y5GUz"
     },
     {
-      "added_at": "2026-04-17 06:06:32",
-      "album": {
-        "name": "Fidelity",
-        "url": "https://open.spotify.com/album/4gT5itNBVYzC9jcgMvvOUa"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 206907,
-      "name": "Forty Days",
-      "url": "https://open.spotify.com/track/12fSlzhqUDqnrZnA50Y617"
-    },
-    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Lucky 7",
@@ -2511,6 +2495,22 @@
       "duration_ms": 228262,
       "name": "Your Ecstasy",
       "url": "https://open.spotify.com/track/0UNHlFaWHa66B37wcGVn0O"
+    },
+    {
+      "added_at": "2026-04-17 06:06:32",
+      "album": {
+        "name": "Fidelity",
+        "url": "https://open.spotify.com/album/4gT5itNBVYzC9jcgMvvOUa"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 206907,
+      "name": "Forty Days",
+      "url": "https://open.spotify.com/track/12fSlzhqUDqnrZnA50Y617"
     },
     {
       "added_at": "2026-03-06 06:14:13",
@@ -2561,24 +2561,24 @@
       "url": "https://open.spotify.com/track/1KUAR4EL6XLMwQKjnKhVRn"
     },
     {
-      "added_at": "2026-04-17 06:06:32",
+      "added_at": "2024-06-14 07:30:32",
       "album": {
-        "name": "Lights Down Low",
-        "url": "https://open.spotify.com/album/62ll2WSXHtStg7E25bVsqN"
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/1XSUdSojWNJCgNqKNxfcVr"
       },
       "artists": [
         {
-          "name": "PawPaw Rod",
-          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+          "name": "Normani",
+          "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
         },
         {
-          "name": "Sherwyn",
-          "url": "https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 220222,
-      "name": "Lights Down Low",
-      "url": "https://open.spotify.com/track/2KvrTPdVKFP9UWz3aOHMv0"
+      "duration_ms": 190412,
+      "name": "Tantrums (feat. James Blake)",
+      "url": "https://open.spotify.com/track/13emOZj9lqqVJg4JJ7ABBi"
     }
   ],
   "unique_name": "Vanguard",

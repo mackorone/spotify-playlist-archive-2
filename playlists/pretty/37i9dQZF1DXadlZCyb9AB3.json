@@ -1,6 +1,6 @@
 {
   "description": "Defining songs of the riot grrrl era and the artists keeping its spirit alive\n",
-  "num_followers": 211914,
+  "num_followers": 211948,
   "original_name": "Riot Grrrl",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
+        "name": "xxx",
+        "url": "https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC"
+      },
+      "artists": [
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        }
+      ],
+      "duration_ms": 195155,
+      "name": "Make America Great Again",
+      "url": "https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
         "name": "FREE I.H: This Is Not the One You've Been Waiting For",
         "url": "https://open.spotify.com/album/2Epa4HydFeZJ6rxm8OZ7aw"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 110693,
       "name": "Handsome & Gretel",
       "url": "https://open.spotify.com/track/1sjP6WHuidsDYhTOg6KOCf"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
-        "name": "xxx",
-        "url": "https://open.spotify.com/album/7oFHZxaSE9WzWCi592zMhC"
-      },
-      "artists": [
-        {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
-        }
-      ],
-      "duration_ms": 195155,
-      "name": "Make America Great Again",
-      "url": "https://open.spotify.com/track/0d858Q4cbhALzhzvljHC8k"
     },
     {
       "added_at": "2024-10-07 20:36:39",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-10-07 20:36:39",
       "album": {
-        "name": "Very, Very Powerful Motor",
-        "url": "https://open.spotify.com/album/069dipMFhPwUSC2SSufyxi"
-      },
-      "artists": [
-        {
-          "name": "Fastbacks",
-          "url": "https://open.spotify.com/artist/2mlDM1k4J5XijZKXALxhDT"
-        }
-      ],
-      "duration_ms": 198840,
-      "name": "In the Summer",
-      "url": "https://open.spotify.com/track/7lmvnE8oF7EhJNuLeUxTIf"
-    },
-    {
-      "added_at": "2024-10-07 20:36:39",
-      "album": {
         "name": "babyface",
         "url": "https://open.spotify.com/album/6ewhotPSksO3fzeWIMahVS"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 152297,
       "name": "Seafood",
       "url": "https://open.spotify.com/track/0XpHX9aIcXmf0RpU6kIbsU"
+    },
+    {
+      "added_at": "2024-10-07 20:36:39",
+      "album": {
+        "name": "Very, Very Powerful Motor",
+        "url": "https://open.spotify.com/album/069dipMFhPwUSC2SSufyxi"
+      },
+      "artists": [
+        {
+          "name": "Fastbacks",
+          "url": "https://open.spotify.com/artist/2mlDM1k4J5XijZKXALxhDT"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "In the Summer",
+      "url": "https://open.spotify.com/track/7lmvnE8oF7EhJNuLeUxTIf"
     },
     {
       "added_at": "2024-10-07 20:36:39",

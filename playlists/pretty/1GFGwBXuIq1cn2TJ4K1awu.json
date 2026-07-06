@@ -6,191 +6,187 @@
     "name": "royva06",
     "url": "https://open.spotify.com/user/royva06"
   },
-  "snapshot_id": "AAALOFFPGfa6WBTz6NP5oe9jhqmMeBpy",
+  "snapshot_id": "AAALTh9yCz6KY8uqJtZb0Ogi+RwKY+JG",
   "tracks": [
     {
-      "added_at": "2026-06-28 14:30:55",
+      "added_at": "2026-07-05 15:32:39",
       "album": {
-        "name": "New Threats From The Soul",
-        "url": "https://open.spotify.com/album/1hXKcCv9VsWMFZNjbjv5XU"
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
       "artists": [
         {
-          "name": "Ryan Davis & the Roadhouse Band",
-          "url": "https://open.spotify.com/artist/7Ah0xZVyWfAL3Vd7OVvKuo"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 561172,
-      "name": "New Threats From The Soul",
-      "url": "https://open.spotify.com/track/2waAug1IePTKYs2KhTCYlc"
+      "duration_ms": 273235,
+      "name": "Life According To Raechel",
+      "url": "https://open.spotify.com/track/35sEqwW23uB0PqZATuQVjW"
     },
     {
-      "added_at": "2026-06-28 14:31:02",
+      "added_at": "2026-07-05 15:33:08",
       "album": {
-        "name": "Natural Brown Prom Queen",
-        "url": "https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN"
+        "name": "Sunshine on Leith",
+        "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
       },
       "artists": [
         {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+          "name": "The Proclaimers",
+          "url": "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
         }
       ],
-      "duration_ms": 157466,
-      "name": "Yellow Brick Road",
-      "url": "https://open.spotify.com/track/7MYJYInfkV4Jp1CnY2bihc"
+      "duration_ms": 230026,
+      "name": "Then I Met You",
+      "url": "https://open.spotify.com/track/6qcCyYolb7SH21nWfJqONT"
     },
     {
-      "added_at": "2026-06-28 14:31:20",
+      "added_at": "2026-07-05 15:33:17",
       "album": {
-        "name": "Cheat Codes",
-        "url": "https://open.spotify.com/album/4TPi1tGDVXCdQOjn4NSRaB"
+        "name": "I Barely Know Her",
+        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
       },
       "artists": [
         {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 232375,
+      "name": "i wish i knew how to quit you",
+      "url": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
+    },
+    {
+      "added_at": "2026-07-05 15:33:36",
+      "album": {
+        "name": "The Crux",
+        "url": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 158106,
+      "name": "Basic Being Basic",
+      "url": "https://open.spotify.com/track/2jjwQENSoGnYbQEK4acuC6"
+    },
+    {
+      "added_at": "2026-07-05 15:33:48",
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z"
+      },
+      "artists": [
+        {
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "duration_ms": 171226,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st"
+    },
+    {
+      "added_at": "2026-07-05 15:34:01",
+      "album": {
+        "name": "The Pietasters",
+        "url": "https://open.spotify.com/album/2tsjzAYjwCXatrnynKMsMU"
+      },
+      "artists": [
+        {
+          "name": "The Pietasters",
+          "url": "https://open.spotify.com/artist/7tleIwvDsYTM0MAXBTOeKn"
+        }
+      ],
+      "duration_ms": 168733,
+      "name": "Night Owl",
+      "url": "https://open.spotify.com/track/3XS9NHZDLFYxeKz2WhBYJh"
+    },
+    {
+      "added_at": "2026-07-05 15:34:12",
+      "album": {
+        "name": "Whatever People Say I Am, That's What I'm Not",
+        "url": "https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "I Bet You Look Good On The Dancefloor",
+      "url": "https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i"
+    },
+    {
+      "added_at": "2026-07-05 15:34:26",
+      "album": {
+        "name": "Beats, Rhymes & Life",
+        "url": "https://open.spotify.com/album/0EguP4tsJurU5I8ocCxdyb"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Get A Hold",
+      "url": "https://open.spotify.com/track/1LuvccUiy1j9y8hpPBzQNh"
+    },
+    {
+      "added_at": "2026-07-05 15:34:39",
+      "album": {
+        "name": "How High",
+        "url": "https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY"
+      },
+      "artists": [
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
         },
         {
-          "name": "Black Thought",
-          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
-        },
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
         }
       ],
-      "duration_ms": 238440,
-      "name": "Aquamarine (feat. Michael Kiwanuka)",
-      "url": "https://open.spotify.com/track/4so0c8plnJDYDCZtZCfsHr"
+      "duration_ms": 244600,
+      "name": "Part II",
+      "url": "https://open.spotify.com/track/2n7h09QrGitVul66b2D8Re"
     },
     {
-      "added_at": "2026-06-28 14:31:36",
+      "added_at": "2026-07-05 15:34:51",
       "album": {
-        "name": "Green River (40th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4DafLlExwUPJ20vHCHrUEI"
+        "name": "Shannon In Nashville",
+        "url": "https://open.spotify.com/album/4M9uQm7mOVQkwYa2iRP7Tt"
       },
       "artists": [
         {
-          "name": "Creedence Clearwater Revival",
-          "url": "https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd"
+          "name": "Shannon Shaw",
+          "url": "https://open.spotify.com/artist/4bKniuCGFic42eaNWK34Jq"
         }
       ],
-      "duration_ms": 154120,
-      "name": "Green River",
-      "url": "https://open.spotify.com/track/1ckVrHITCk9BMhyRcsnblh"
+      "duration_ms": 179386,
+      "name": "Broke My Own",
+      "url": "https://open.spotify.com/track/6fuupgBJ6V8t8zRFLJgIV2"
     },
     {
-      "added_at": "2026-06-28 14:31:50",
+      "added_at": "2026-07-05 15:35:02",
       "album": {
-        "name": "No Angel",
-        "url": "https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4"
+        "name": "New Favorite",
+        "url": "https://open.spotify.com/album/6FfrJoeF2HYdMsMLChPVVM"
       },
       "artists": [
         {
-          "name": "Dido",
-          "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+          "name": "Alison Krauss & Union Station",
+          "url": "https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT"
         }
       ],
-      "duration_ms": 218360,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l"
-    },
-    {
-      "added_at": "2026-06-28 14:32:07",
-      "album": {
-        "name": "Highway Queen",
-        "url": "https://open.spotify.com/album/3OZVgu6jFzr2N045WTLWa3"
-      },
-      "artists": [
-        {
-          "name": "Nikki Lane",
-          "url": "https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR"
-        }
-      ],
-      "duration_ms": 213226,
-      "name": "Jackpot",
-      "url": "https://open.spotify.com/track/7d3vlZE6v7rRULhwgknEBK"
-    },
-    {
-      "added_at": "2026-06-28 14:32:22",
-      "album": {
-        "name": "10,000 Days",
-        "url": "https://open.spotify.com/album/1fvWYcbjuycyHpzNPH1Vfk"
-      },
-      "artists": [
-        {
-          "name": "TOOL",
-          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
-        }
-      ],
-      "duration_ms": 381946,
-      "name": "The Pot",
-      "url": "https://open.spotify.com/track/1lATXTBJDHwawvT1UfxWu3"
-    },
-    {
-      "added_at": "2026-06-28 14:32:34",
-      "album": {
-        "name": "The Worse Things Get, The Harder I Fight, The Harder I Fight, The More I Love You (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/56PXLjwRAZTqpZjM07FeR5"
-      },
-      "artists": [
-        {
-          "name": "Neko Case",
-          "url": "https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED"
-        }
-      ],
-      "duration_ms": 314347,
-      "name": "Ragtime",
-      "url": "https://open.spotify.com/track/2vG2fsLHqP9tNORtyYszyW"
-    },
-    {
-      "added_at": "2026-06-28 14:32:46",
-      "album": {
-        "name": "City to City",
-        "url": "https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf"
-      },
-      "artists": [
-        {
-          "name": "Gerry Rafferty",
-          "url": "https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb"
-        }
-      ],
-      "duration_ms": 267773,
-      "name": "Right Down the Line",
-      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5"
-    },
-    {
-      "added_at": "2026-06-28 14:33:01",
-      "album": {
-        "name": "I'll Be Waving As You Drive Away",
-        "url": "https://open.spotify.com/album/5LZVQiwNWzbq8W1cT9MxHe"
-      },
-      "artists": [
-        {
-          "name": "Hayden Pedigo",
-          "url": "https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ"
-        }
-      ],
-      "duration_ms": 266000,
-      "name": "Long Pond Lily",
-      "url": "https://open.spotify.com/track/47yRyhwrCVXkrjmTXye7Ot"
-    },
-    {
-      "added_at": "2026-06-28 14:33:15",
-      "album": {
-        "name": "Know Better Learn Faster",
-        "url": "https://open.spotify.com/album/1AkgsMneGDu0rLVeB4Gnwn"
-      },
-      "artists": [
-        {
-          "name": "THAO",
-          "url": "https://open.spotify.com/artist/4PfWwzCyXuXAjuaisibSKG"
-        }
-      ],
-      "duration_ms": 154773,
-      "name": "Cool Yourself",
-      "url": "https://open.spotify.com/track/0BZmAQV9oA9j9TRYZ1jQj4"
+      "duration_ms": 201693,
+      "name": "Let Me Touch You For Awhile",
+      "url": "https://open.spotify.com/track/0VotjdI6ufLgQUi3MUAhAn"
     }
   ],
   "unique_name": "Songs of the Week by Roy",

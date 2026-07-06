@@ -1,6 +1,6 @@
 {
   "description": "The biggest festival of the year. The official playlist for Glastonbury 2025.",
-  "num_followers": 244114,
+  "num_followers": 244122,
   "original_name": "Glastonbury 2025",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "Every Picture Tells A Story",
+        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
+      },
+      "artists": [
+        {
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
+        }
+      ],
+      "duration_ms": 350266,
+      "name": "Maggie May",
+      "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Portraits",
         "url": "https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 218357,
       "name": "Midas",
       "url": "https://open.spotify.com/track/6VNooTY5w9A9wg1YUsEbKB"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Every Picture Tells A Story",
-        "url": "https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh"
-      },
-      "artists": [
-        {
-          "name": "Rod Stewart",
-          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
-        }
-      ],
-      "duration_ms": 350266,
-      "name": "Maggie May",
-      "url": "https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -795,6 +795,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "EV3",
+        "url": "https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN"
+      },
+      "artists": [
+        {
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+        }
+      ],
+      "duration_ms": 291880,
+      "name": "Don't Let Go (Love)",
+      "url": "https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Lazers Not Included",
         "url": "https://open.spotify.com/album/5BetJhjCEWc6GFfqSPupUB"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 225172,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6LW3Z1GqbL78TIjfDyg4zp"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "EV3",
-        "url": "https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN"
-      },
-      "artists": [
-        {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
-        }
-      ],
-      "duration_ms": 291880,
-      "name": "Don't Let Go (Love)",
-      "url": "https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Employment",
-        "url": "https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw"
+        "name": "s\u00f8n of dad (deluxe)",
+        "url": "https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe"
       },
       "artists": [
         {
-          "name": "Kaiser Chiefs",
-          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
+          "name": "Stephen Wilson Jr.",
+          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
         }
       ],
-      "duration_ms": 217706,
-      "name": "Everyday I Love You Less And Less",
-      "url": "https://open.spotify.com/track/5dvBeCMTzUNjyWIcuykzyh"
+      "duration_ms": 200720,
+      "name": "Year to Be Young 1994",
+      "url": "https://open.spotify.com/track/4zHap579Bjo01DMtsat8GH"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "s\u00f8n of dad (deluxe)",
-        "url": "https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe"
+        "name": "Employment",
+        "url": "https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw"
       },
       "artists": [
         {
-          "name": "Stephen Wilson Jr.",
-          "url": "https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd"
+          "name": "Kaiser Chiefs",
+          "url": "https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt"
         }
       ],
-      "duration_ms": 200720,
-      "name": "Year to Be Young 1994",
-      "url": "https://open.spotify.com/track/4zHap579Bjo01DMtsat8GH"
+      "duration_ms": 217706,
+      "name": "Everyday I Love You Less And Less",
+      "url": "https://open.spotify.com/track/5dvBeCMTzUNjyWIcuykzyh"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Foolish Loving Spaces (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0yMTm5gz3ZoUItDgE2kVru"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 161293,
-      "name": "Your Girlfriend",
-      "url": "https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "96 Degrees In The Shade",
         "url": "https://open.spotify.com/album/3YoEPzjAMfRO18CVXs2evN"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 267826,
       "name": "1865 (96\u00ba In The Shade)",
       "url": "https://open.spotify.com/track/2Jko3yQgktaKnFcmyLv3g7"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Foolish Loving Spaces (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0yMTm5gz3ZoUItDgE2kVru"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "Your Girlfriend",
+      "url": "https://open.spotify.com/track/3tzU46wNOVaFiYRNtNYY66"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
+        "name": "The Libertines",
+        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
+      },
+      "artists": [
+        {
+          "name": "The Libertines",
+          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Can't Stand Me Now",
+      "url": "https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
         "name": "Who Let The Dogs Out",
         "url": "https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV"
       },
@@ -1527,18 +1543,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "The Libertines",
-        "url": "https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j"
+        "name": "When We On",
+        "url": "https://open.spotify.com/album/6w1dknRMvZOH8IS0oYNA2p"
       },
       "artists": [
         {
-          "name": "The Libertines",
-          "url": "https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7"
+          "name": "Crazy P",
+          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
         }
       ],
-      "duration_ms": 203733,
-      "name": "Can't Stand Me Now",
-      "url": "https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql"
+      "duration_ms": 326809,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/4lKuJy6ozGLRMMIXTGesg4"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "When We On",
-        "url": "https://open.spotify.com/album/6w1dknRMvZOH8IS0oYNA2p"
-      },
-      "artists": [
-        {
-          "name": "Crazy P",
-          "url": "https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf"
-        }
-      ],
-      "duration_ms": 326809,
-      "name": "Heartbreaker",
-      "url": "https://open.spotify.com/track/4lKuJy6ozGLRMMIXTGesg4"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Sentimental",
         "url": "https://open.spotify.com/album/15JwpSbmrg94260qjQQYse"
       },
@@ -1591,6 +1591,22 @@
       "duration_ms": 198483,
       "name": "Forever Baby",
       "url": "https://open.spotify.com/track/07A5bghc5rp1kXuAYwl7Eo"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Labour of Lust",
+        "url": "https://open.spotify.com/album/1gej2up6QoCmt1GeQSlKx5"
+      },
+      "artists": [
+        {
+          "name": "Nick Lowe",
+          "url": "https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7"
+        }
+      ],
+      "duration_ms": 210131,
+      "name": "Cruel to Be Kind",
+      "url": "https://open.spotify.com/track/6k2cLXLnrAnFFqt3W6sjT8"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1627,18 +1643,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Labour of Lust",
-        "url": "https://open.spotify.com/album/1gej2up6QoCmt1GeQSlKx5"
+        "name": "Promised Heights",
+        "url": "https://open.spotify.com/album/5MgSinqOBEYk9VFrtHU2bA"
       },
       "artists": [
         {
-          "name": "Nick Lowe",
-          "url": "https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7"
+          "name": "Cymande",
+          "url": "https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG"
         }
       ],
-      "duration_ms": 210131,
-      "name": "Cruel to Be Kind",
-      "url": "https://open.spotify.com/track/6k2cLXLnrAnFFqt3W6sjT8"
+      "duration_ms": 251400,
+      "name": "Brothers On The Slide",
+      "url": "https://open.spotify.com/track/6OKDxL7flqg9Rv7CbHaxmz"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1655,22 +1671,6 @@
       "duration_ms": 138640,
       "name": "Midas",
       "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
-        "name": "Promised Heights",
-        "url": "https://open.spotify.com/album/5MgSinqOBEYk9VFrtHU2bA"
-      },
-      "artists": [
-        {
-          "name": "Cymande",
-          "url": "https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG"
-        }
-      ],
-      "duration_ms": 251400,
-      "name": "Brothers On The Slide",
-      "url": "https://open.spotify.com/track/6OKDxL7flqg9Rv7CbHaxmz"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Stars Of CCTV",
-        "url": "https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD"
-      },
-      "artists": [
-        {
-          "name": "Hard-Fi",
-          "url": "https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD"
-        }
-      ],
-      "duration_ms": 253306,
-      "name": "Hard to Beat",
-      "url": "https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Wake Up Now",
         "url": "https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 236280,
       "name": "Mountain To Move",
       "url": "https://open.spotify.com/track/7zGyIkunvMO11FByE93lzZ"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Stars Of CCTV",
+        "url": "https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD"
+      },
+      "artists": [
+        {
+          "name": "Hard-Fi",
+          "url": "https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD"
+        }
+      ],
+      "duration_ms": 253306,
+      "name": "Hard to Beat",
+      "url": "https://open.spotify.com/track/5PZK7nZBsKjSkXDszKrJ1W"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
-      },
-      "artists": [
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Mountain Banjo",
-      "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Grind Pon Mi",
         "url": "https://open.spotify.com/album/6VuVN2OeiULk7uhV8wmRGQ"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 129241,
       "name": "Grind Pon Mi",
       "url": "https://open.spotify.com/track/6lzqWQqmRoq3wOKF8ylJr2"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "The Music of Red Dead Redemption 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/5Oli3gQJrHdahY7FDEoofW"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Mountain Banjo",
+      "url": "https://open.spotify.com/track/2VCeQfecKMpctfC5zdgyWO"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "flight fm",
-        "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
-      },
-      "artists": [
-        {
-          "name": "Joy Orbison",
-          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
-        }
-      ],
-      "duration_ms": 247820,
-      "name": "flight fm",
-      "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Adventures Beyond The Ultraworld",
         "url": "https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 267666,
       "name": "Little Fluffy Clouds",
       "url": "https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "flight fm",
+        "url": "https://open.spotify.com/album/7z6MsabW7ZDqtcgmV9fZrv"
+      },
+      "artists": [
+        {
+          "name": "Joy Orbison",
+          "url": "https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg"
+        }
+      ],
+      "duration_ms": 247820,
+      "name": "flight fm",
+      "url": "https://open.spotify.com/track/4Wrd7TpAgRmlUtcbpJCW3T"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY"
-      },
-      "artists": [
-        {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
-        }
-      ],
-      "duration_ms": 287159,
-      "name": "NEVER ENOUGH",
-      "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE"
       },
@@ -2423,18 +2407,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "I'm Your Mama",
-        "url": "https://open.spotify.com/album/0NJV0HLBF9A373sMVcf6g0"
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/36RxuCAJGs9PaH4LQyYLRY"
       },
       "artists": [
         {
-          "name": "Dawn Landes",
-          "url": "https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5"
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 81877,
-      "name": "I'm Your Mama",
-      "url": "https://open.spotify.com/track/002LS9B1Iu3czYhi0TLDm1"
+      "duration_ms": 287159,
+      "name": "NEVER ENOUGH",
+      "url": "https://open.spotify.com/track/6ONyZXRIEiZWWnAA1F5YvH"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2451,6 +2435,22 @@
       "duration_ms": 145454,
       "name": "MR. SANDMAN",
       "url": "https://open.spotify.com/track/1Y2eoRAhwsjCKcdNnrZOzV"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "I'm Your Mama",
+        "url": "https://open.spotify.com/album/0NJV0HLBF9A373sMVcf6g0"
+      },
+      "artists": [
+        {
+          "name": "Dawn Landes",
+          "url": "https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5"
+        }
+      ],
+      "duration_ms": 81877,
+      "name": "I'm Your Mama",
+      "url": "https://open.spotify.com/track/002LS9B1Iu3czYhi0TLDm1"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -2815,22 +2815,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Humble As The Sun",
-        "url": "https://open.spotify.com/album/2ban1kuF669VADhI7VIuXh"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 199643,
-      "name": "Makes Me Violent",
-      "url": "https://open.spotify.com/track/0qu6cJbPDnwaWZSPqQbuId"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Mr. Majestic",
         "url": "https://open.spotify.com/album/5vJVHRuapQS98n2Oj0Nnso"
       },
@@ -2847,6 +2831,22 @@
       "duration_ms": 321440,
       "name": "Mr Majestic",
       "url": "https://open.spotify.com/track/0wrg4FXpFKz1y1tYsZPJOw"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Humble As The Sun",
+        "url": "https://open.spotify.com/album/2ban1kuF669VADhI7VIuXh"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 199643,
+      "name": "Makes Me Violent",
+      "url": "https://open.spotify.com/track/0qu6cJbPDnwaWZSPqQbuId"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3091,18 +3091,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Letter to Self",
-        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
+        "name": "Greatest Hits: Dance",
+        "url": "https://open.spotify.com/album/5MOG4UkYIhHJ3G8pFcrXRj"
       },
       "artists": [
         {
-          "name": "SPRINTS",
-          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
+          "name": "K-Klass",
+          "url": "https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES"
         }
       ],
-      "duration_ms": 207409,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
+      "duration_ms": 206400,
+      "name": "Rhythm Is a Mystery",
+      "url": "https://open.spotify.com/track/4sOaUILhFZg24oqQkojft0"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3123,18 +3123,18 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Greatest Hits: Dance",
-        "url": "https://open.spotify.com/album/5MOG4UkYIhHJ3G8pFcrXRj"
+        "name": "Letter to Self",
+        "url": "https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ"
       },
       "artists": [
         {
-          "name": "K-Klass",
-          "url": "https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES"
+          "name": "SPRINTS",
+          "url": "https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Rhythm Is a Mystery",
-      "url": "https://open.spotify.com/track/4sOaUILhFZg24oqQkojft0"
+      "duration_ms": 207409,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/02bA26OEe0nNFyE3YcNx4K"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3171,22 +3171,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Marlboro Sounds",
-        "url": "https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM"
-      },
-      "artists": [
-        {
-          "name": "Chaos In The CBD",
-          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
-        }
-      ],
-      "duration_ms": 363620,
-      "name": "Marlboro Sounds",
-      "url": "https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Traveling Alone",
         "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
       },
@@ -3199,6 +3183,22 @@
       "duration_ms": 284960,
       "name": "Traveling Alone",
       "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Marlboro Sounds",
+        "url": "https://open.spotify.com/album/1IRVXzi2j3pP5Ic18P0oDM"
+      },
+      "artists": [
+        {
+          "name": "Chaos In The CBD",
+          "url": "https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy"
+        }
+      ],
+      "duration_ms": 363620,
+      "name": "Marlboro Sounds",
+      "url": "https://open.spotify.com/track/1HujkaN1Tl4uceZqsHUv6w"
     },
     {
       "added_at": "2025-06-27 23:00:28",
@@ -3323,22 +3323,6 @@
     {
       "added_at": "2025-06-27 23:00:28",
       "album": {
-        "name": "Abyss",
-        "url": "https://open.spotify.com/album/4u7B3DAWWTgROfynsq9Fnf"
-      },
-      "artists": [
-        {
-          "name": "Talisk",
-          "url": "https://open.spotify.com/artist/1khU7sW2d95qMTDnyDfzBT"
-        }
-      ],
-      "duration_ms": 295174,
-      "name": "Echo",
-      "url": "https://open.spotify.com/track/7ltSWDRkYI2DoFJiv77XUz"
-    },
-    {
-      "added_at": "2025-06-27 23:00:28",
-      "album": {
         "name": "Padremontes",
         "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
       },
@@ -3351,6 +3335,22 @@
       "duration_ms": 203778,
       "name": "Sondiram\u00e1",
       "url": "https://open.spotify.com/track/5NadgnszrdqPQ8ZmXfGc0Q"
+    },
+    {
+      "added_at": "2025-06-27 23:00:28",
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/4u7B3DAWWTgROfynsq9Fnf"
+      },
+      "artists": [
+        {
+          "name": "Talisk",
+          "url": "https://open.spotify.com/artist/1khU7sW2d95qMTDnyDfzBT"
+        }
+      ],
+      "duration_ms": 295174,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/7ltSWDRkYI2DoFJiv77XUz"
     },
     {
       "added_at": "2025-06-27 23:00:28",

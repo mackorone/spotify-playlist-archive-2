@@ -1,12 +1,12 @@
 {
   "description": "\u0623\u0641\u0636\u0644 \u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0631\u0627\u064a",
-  "num_followers": 288700,
+  "num_followers": 288776,
   "original_name": "Rai Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB5pSlUq3B3q2GuUYuNEp/7K4ADy",
+  "snapshot_id": "AAAAANnSD2y9GabYSKO7pF7RzN6V1YHp",
   "tracks": [
     {
       "added_at": "2026-06-19 14:32:37",
@@ -27,6 +27,22 @@
       "duration_ms": 206138,
       "name": "Twehachtek Grave",
       "url": "https://open.spotify.com/track/3omnAT9Aee3I2szep6R894"
+    },
+    {
+      "added_at": "2026-06-19 14:32:37",
+      "album": {
+        "name": "Nmout w Naarf Ki Rak Nawini",
+        "url": "https://open.spotify.com/album/2uiJd0EbfzH2hMUB97BSVL"
+      },
+      "artists": [
+        {
+          "name": "Cheba Warda",
+          "url": "https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt"
+        }
+      ],
+      "duration_ms": 309591,
+      "name": "Nmout w Naarf Ki Rak Nawini",
+      "url": "https://open.spotify.com/track/1Ow2vMG9QM0hybymrRJkuH"
     },
     {
       "added_at": "2026-06-19 14:32:37",
@@ -59,22 +75,6 @@
       "duration_ms": 272000,
       "name": "Namchi Wngoul \u00c7a va",
       "url": "https://open.spotify.com/track/1py7Rjj1axmqPQtUTVELxF"
-    },
-    {
-      "added_at": "2026-06-19 14:32:37",
-      "album": {
-        "name": "Nmout w Naarf Ki Rak Nawini",
-        "url": "https://open.spotify.com/album/2uiJd0EbfzH2hMUB97BSVL"
-      },
-      "artists": [
-        {
-          "name": "Cheba Warda",
-          "url": "https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt"
-        }
-      ],
-      "duration_ms": 309591,
-      "name": "Nmout w Naarf Ki Rak Nawini",
-      "url": "https://open.spotify.com/track/1Ow2vMG9QM0hybymrRJkuH"
     },
     {
       "added_at": "2026-06-19 14:32:37",

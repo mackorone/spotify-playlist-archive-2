@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 290000,
       "name": "Commander Cruel - Rework 2026",
       "url": "https://open.spotify.com/track/1cz2tkOAJEnaOr4DLp16hH"
@@ -8458,7 +8458,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 287800,
       "name": "N\u00e1tthagi",
       "url": "https://open.spotify.com/track/5CqFBcZyQGu2EfUGAUvfWa"
@@ -9306,7 +9306,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 249818,
       "name": "Picture Of Time",
       "url": "https://open.spotify.com/track/2kH79NnF6USM1qGX2NE0xk"
@@ -10360,7 +10360,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 203000,
       "name": "Silence between us",
       "url": "https://open.spotify.com/track/5SssF1jxwhh6dey6W17zbA"
@@ -10414,7 +10414,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 242946,
       "name": "Skuggorna p\u00e5 v\u00e4gen hem",
       "url": "https://open.spotify.com/track/3W5sENHWeCZzchAAzaqVNG"
@@ -10490,6 +10490,24 @@
       "duration_ms": 170970,
       "name": "Slowly Goes The Night",
       "url": "https://open.spotify.com/track/3s3YAcAClDrZChvOVk8REW"
+    },
+    {
+      "album": {
+        "name": "Smile, Smile, Smile",
+        "url": "https://open.spotify.com/album/5x46ysFFiRln88dE3AB7FQ"
+      },
+      "artists": [
+        {
+          "name": "Hats Off Gentlemen It's Adequate",
+          "url": "https://open.spotify.com/artist/0oomA1zS33GYRNuiuevzAw"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277282,
+      "name": "Smile, Smile, Smile",
+      "url": "https://open.spotify.com/track/1nlhgVRaJJl1tWqXpLtuTf"
     },
     {
       "album": {

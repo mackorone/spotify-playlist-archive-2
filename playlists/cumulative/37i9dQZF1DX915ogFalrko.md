@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-232 songs - 13 hr 36 min
+233 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All My Love](https://open.spotify.com/track/4lgq1xbQyT2vsMQNOreCij) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All My Love](https://open.spotify.com/album/5Gbo4sOeenmqYTRolOGmZt) | 4:13 | 2026-01-01 |  |
 | [All Night](https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [All Night](https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td) | 3:16 | 2026-07-02 |  |
 | [Alē](https://open.spotify.com/track/5xkWnuF0eA5ODVKiTJaQXZ) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Alē](https://open.spotify.com/album/4BtZO261sAsq1ntXksWh5M) | 2:51 | 2025-07-18 | 2025-08-29 |
+| [Annecy](https://open.spotify.com/track/7CBXiV6q0kPOms002HJyoM) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [The City \- EP](https://open.spotify.com/album/5YSD37sctlEkDmGe2PSpRZ) | 4:29 | 2026-07-02 |  |
 | [Anticipate](https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Anticipate](https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1) | 3:09 | 2025-07-18 | 2025-08-29 |
 | [Anything You Want \- Not That](https://open.spotify.com/track/6sI5m6cabkKWBuDh0kXMKk) | [Belleruche](https://open.spotify.com/artist/4N9nNkpjGuBlGWnYubQI8t) | [The Express](https://open.spotify.com/album/4gDRMgF1lgDHfn8PsYMwEp) | 3:22 | 2025-07-18 | 2026-03-18 |
 | [Ar Fresco](https://open.spotify.com/track/2n2J1IyAZQcAJZnekdnEPM) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A), [Rachel Kitchlew](https://open.spotify.com/artist/5EkOHfxgVoxfKQu1b89W7C), [Sreya](https://open.spotify.com/artist/3dr0bDqmElcH4qBAN5j5GV) | [Ar Fresco](https://open.spotify.com/album/3X7cwZY7OQlkq2BZvfXSCF) | 4:02 | 2026-07-02 |  |
@@ -90,7 +91,7 @@
 | [Hopes](https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Hopes](https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H) | 2:44 | 2025-08-21 |  |
 | [Hotel](https://open.spotify.com/track/6GidQ1dZ3fn05tTDHu47In) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Alē](https://open.spotify.com/album/7LnzOfYsMn2euc6xuZoQup) | 2:27 | 2025-07-18 | 2025-08-02 |
 | [How To Live](https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [How To Live](https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH) | 4:00 | 2025-08-01 | 2026-01-24 |
-| [I Only Have Eyes for You](https://open.spotify.com/track/2oSMcZnGARuxk10qd6AXrT) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenades / Flamingo Favorites](https://open.spotify.com/album/2blBb1v0ylNOrzStHBhK48) | 3:18 | 2026-07-02 |  |
+| [I Only Have Eyes for You](https://open.spotify.com/track/2oSMcZnGARuxk10qd6AXrT) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenades / Flamingo Favorites](https://open.spotify.com/album/2blBb1v0ylNOrzStHBhK48) | 3:18 | 2026-07-02 | 2026-07-06 |
 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 | 2025-09-18 | 2025-10-17 |
 | [I Wonder](https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:34 | 2025-07-18 |  |
 | [If I Ever Feel Better](https://open.spotify.com/track/3AA8xNhDC0MpqwkGX3EP5V) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 4:26 | 2025-07-18 |  |

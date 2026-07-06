@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 184706,
+  "num_followers": 184760,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
+        "name": "La goffa Lolita",
+        "url": "https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC"
+      },
+      "artists": [
+        {
+          "name": "Vinc\u00e8 la petite culotte",
+          "url": "https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd"
+        }
+      ],
+      "duration_ms": 221149,
+      "name": "La goffa Lolita",
+      "url": "https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
         "name": "Rom\u00e9o Et Juliette, Les enfants de V\u00e9rone",
         "url": "https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 205440,
       "name": "Les rois du monde - Rom\u00e9o & Juliette, Les enfants de V\u00e9rone",
       "url": "https://open.spotify.com/track/2QxpVhguEv67Lwlf3wwltb"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
-        "name": "La goffa Lolita",
-        "url": "https://open.spotify.com/album/2tQi3k1kQdxNnuzU2mNPgC"
-      },
-      "artists": [
-        {
-          "name": "Vinc\u00e8 la petite culotte",
-          "url": "https://open.spotify.com/artist/5sDptaTI5qN5FNrbFqQDyd"
-        }
-      ],
-      "duration_ms": 221149,
-      "name": "La goffa Lolita",
-      "url": "https://open.spotify.com/track/32ujt0CBVLsFyQtAhVk7WN"
     },
     {
       "added_at": "2026-04-17 09:45:18",

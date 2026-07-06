@@ -4,7 +4,7 @@
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-125 songs - 7 hr 32 min
+126 songs - 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Daddy, You Been On My Mind](https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 2:19 | 2022-09-25 |  |
 | [De Colores](https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 2:29 | 2022-09-22 |  |
 | [Deportee \(Plane Wreck At Los Gatos\)](https://open.spotify.com/track/4yl1akXxt0OKNgv7DB8sd5) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Joan Baez 75th Birthday Celebration](https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl) | 4:54 | 2024-07-01 | 2024-07-02 |
+| [Deportee \(Plane Wreck At Los Gatos\) \[Feat\. Joan Baez & Memphis Mariachi\]](https://open.spotify.com/track/6sHiv0apw8SIdIK4pXy2Dw) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Memphis Mariachi](https://open.spotify.com/artist/47oovDNJkP7a3m3dCLRM4E) | [Deportee / Oval Room](https://open.spotify.com/album/3GV4eATqhPkMEEj7bqHQM2) | 4:03 | 2026-07-06 |  |
 | [Diamonds & Rust](https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Paradise](https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x) | 3:35 | 2022-09-24 |  |
 | [Diamonds And Rust](https://open.spotify.com/track/4O0sGJdqpHMaWz7KoVd7tb) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:46 | 2022-09-22 |  |
 | [Don't Cry For Me Argentina \- Live](https://open.spotify.com/track/6mwSAVdxyJPFNGPZvrufEy) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Live](https://open.spotify.com/album/2WMBWzM366ayJ6JwPX0YCa) | 3:13 | 2024-07-01 | 2024-07-24 |
@@ -93,7 +94,7 @@
 | [No Nos Moveran](https://open.spotify.com/track/2lAgIXk4uz8VRpUEevxDxO) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:41 | 2022-09-22 | 2022-11-30 |
 | [No Woman No Cry \- Live](https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete Gold Castle Masters](https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI) | 3:45 | 2023-05-12 | 2025-12-05 |
 | [North Country Blues](https://open.spotify.com/track/3eoVxC9JXC79Ess36UJRwL) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 4:59 | 2022-09-22 | 2024-03-18 |
-| [North Country Blues](https://open.spotify.com/track/5fqzV7YD1ePrh4JSfWhG6m) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 5:02 | 2025-12-05 |  |
+| [North Country Blues](https://open.spotify.com/track/5fqzV7YD1ePrh4JSfWhG6m) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 5:02 | 2025-12-05 | 2026-07-06 |
 | [O Brother!](https://open.spotify.com/track/3jCJ7aVeifPBOz85jocPFo) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gulf Winds](https://open.spotify.com/album/54L1BlmPFkgJ2HznanXsRG) | 3:20 | 2025-04-07 | 2025-04-29 |
 | [Oh, Freedom \- Live At Newport](https://open.spotify.com/track/0E7aHyjcnIrIZ5XhI5fuiO) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Newport Era](https://open.spotify.com/album/6kuUoWmtG2Hn2pWJx19pRN) | 3:15 | 2025-02-01 | 2025-02-15 |
 | [One Too Many Mornings](https://open.spotify.com/track/2EEwfPipVVar4QgttlX7UR) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 3:13 | 2025-03-23 | 2025-11-26 |

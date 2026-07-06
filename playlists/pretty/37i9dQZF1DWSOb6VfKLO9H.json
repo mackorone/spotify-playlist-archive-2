@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 109784,
+  "num_followers": 109790,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Pit Stop",
-        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
-      },
-      "artists": [
-        {
-          "name": "Bridde Boys",
-          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
-        }
-      ],
-      "duration_ms": 253544,
-      "name": "Pit Stop",
-      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "POSITIE",
         "url": "https://open.spotify.com/album/5ZxrvhLBo8rYCB1V8vTguF"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 200970,
       "name": "POSITIE",
       "url": "https://open.spotify.com/track/5dVXY5359o7XBmfoNCBMxg"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Pit Stop",
+        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
+      },
+      "artists": [
+        {
+          "name": "Bridde Boys",
+          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
+        }
+      ],
+      "duration_ms": 253544,
+      "name": "Pit Stop",
+      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Boot",
+        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
+      },
+      "artists": [
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        }
+      ],
+      "duration_ms": 197637,
+      "name": "Boot",
+      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Gimma",
         "url": "https://open.spotify.com/album/5ATCipUwa5czhdXxJWLMRh"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 148428,
       "name": "Waarom Zoeken Naar Liefde",
       "url": "https://open.spotify.com/track/7xprYJg18VvGOXqg8RgHau"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Boot",
-        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
-      },
-      "artists": [
-        {
-          "name": "Fmg",
-          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
-        }
-      ],
-      "duration_ms": 197637,
-      "name": "Boot",
-      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1511,26 +1511,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Reloaded",
-        "url": "https://open.spotify.com/album/17XPSLkKR1xQKTgXpNJqOu"
+        "name": "Nachtvlinder",
+        "url": "https://open.spotify.com/album/0r0VQ3GwhM0QgcP27MU4e5"
       },
       "artists": [
         {
-          "name": "Equalz",
-          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
         },
         {
-          "name": "Adje",
-          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
         },
         {
-          "name": "CHO",
-          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+          "name": "Chivv",
+          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
         }
       ],
-      "duration_ms": 184421,
-      "name": "Op De Weg (feat. Adje & CHO)",
-      "url": "https://open.spotify.com/track/7D973n9XquEXreSZOvAhOs"
+      "duration_ms": 147467,
+      "name": "Go Go Club",
+      "url": "https://open.spotify.com/track/5W8OFf4lhZO0feWHR0Q7UG"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1559,26 +1559,26 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Nachtvlinder",
-        "url": "https://open.spotify.com/album/0r0VQ3GwhM0QgcP27MU4e5"
+        "name": "Reloaded",
+        "url": "https://open.spotify.com/album/17XPSLkKR1xQKTgXpNJqOu"
       },
       "artists": [
         {
-          "name": "Bokoesam",
-          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+          "name": "Equalz",
+          "url": "https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS"
         },
         {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
         },
         {
-          "name": "Chivv",
-          "url": "https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg"
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
         }
       ],
-      "duration_ms": 147467,
-      "name": "Go Go Club",
-      "url": "https://open.spotify.com/track/5W8OFf4lhZO0feWHR0Q7UG"
+      "duration_ms": 184421,
+      "name": "Op De Weg (feat. Adje & CHO)",
+      "url": "https://open.spotify.com/track/7D973n9XquEXreSZOvAhOs"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2027,6 +2027,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Speling",
+        "url": "https://open.spotify.com/album/7wU40hIIazCe9fto5Meubi"
+      },
+      "artists": [
+        {
+          "name": "DJ DYLVN",
+          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
+        },
+        {
+          "name": "Hansie",
+          "url": "https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl"
+        },
+        {
+          "name": "Tabitha",
+          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
+        }
+      ],
+      "duration_ms": 168014,
+      "name": "Speling",
+      "url": "https://open.spotify.com/track/0g8FVJPtUXIB1kKQCtBT16"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Amiri Jeans",
         "url": "https://open.spotify.com/album/6YkiGFwk4wXZ9y6jZiexXB"
       },
@@ -2071,26 +2095,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Vostape Vol.1: Congo Johnny Depp",
-        "url": "https://open.spotify.com/album/0o58cKDGHVB2IUbIhQfzCB"
-      },
-      "artists": [
-        {
-          "name": "LouiVos",
-          "url": "https://open.spotify.com/artist/0lzYw5xI9jgMg8O5i4bTre"
-        },
-        {
-          "name": "Webb",
-          "url": "https://open.spotify.com/artist/0HiavH73VhiAkavoAAOLUD"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Ex (feat. Webb)",
-      "url": "https://open.spotify.com/track/3c6ioyk7G7YabcyIPfXZ3z"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Forever Lit",
         "url": "https://open.spotify.com/album/4P8C9tvr8xleuIMgVBKpGy"
       },
@@ -2111,6 +2115,26 @@
       "duration_ms": 156921,
       "name": "Walou Crisis (feat. 3robi & Mula B)",
       "url": "https://open.spotify.com/track/4cEEHXGY0dsKtwmGFwhr9V"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
+        "name": "Vostape Vol.1: Congo Johnny Depp",
+        "url": "https://open.spotify.com/album/0o58cKDGHVB2IUbIhQfzCB"
+      },
+      "artists": [
+        {
+          "name": "LouiVos",
+          "url": "https://open.spotify.com/artist/0lzYw5xI9jgMg8O5i4bTre"
+        },
+        {
+          "name": "Webb",
+          "url": "https://open.spotify.com/artist/0HiavH73VhiAkavoAAOLUD"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Ex (feat. Webb)",
+      "url": "https://open.spotify.com/track/3c6ioyk7G7YabcyIPfXZ3z"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -2179,30 +2203,6 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Speling",
-        "url": "https://open.spotify.com/album/7wU40hIIazCe9fto5Meubi"
-      },
-      "artists": [
-        {
-          "name": "DJ DYLVN",
-          "url": "https://open.spotify.com/artist/0UW6JJvOT28AEOnu9H9d5l"
-        },
-        {
-          "name": "Hansie",
-          "url": "https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl"
-        },
-        {
-          "name": "Tabitha",
-          "url": "https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm"
-        }
-      ],
-      "duration_ms": 168014,
-      "name": "Speling",
-      "url": "https://open.spotify.com/track/0g8FVJPtUXIB1kKQCtBT16"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
         "name": "Het Is Een Feit",
         "url": "https://open.spotify.com/album/0cwPLMyyZA1uNVZ1FJd0kz"
       },
@@ -2239,22 +2239,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
-        "name": "Gouden Plaat",
-        "url": "https://open.spotify.com/album/6foJw5tA83SRvOLKL5ubYY"
+        "name": "Forever Lit (Deluxe)",
+        "url": "https://open.spotify.com/album/41alz6LrulH40FBg3hLiWa"
       },
       "artists": [
         {
-          "name": "Jairzinho",
-          "url": "https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop"
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
         },
         {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+          "name": "Yxng Bane",
+          "url": "https://open.spotify.com/artist/5AbLpsnTQVNB3OEadYiVrK"
         }
       ],
-      "duration_ms": 136499,
-      "name": "Laat Niet Los (feat. Jonna Fraser)",
-      "url": "https://open.spotify.com/track/3UxtV3dzZU58Y5OzaUUplr"
+      "duration_ms": 148879,
+      "name": "Santo Domingo (feat. Yxng Bane)",
+      "url": "https://open.spotify.com/track/2J3DbL8YqhWKFtKZ2WQ5Om"
     }
   ],
   "unique_name": "Oude Party Tunes",

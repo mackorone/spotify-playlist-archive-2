@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > New morning mercies\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,783 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,794 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 25 | [Be Glad \- Live](https://open.spotify.com/track/1nQBOC7j1ioRhiwU1LZCyn) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Be Glad \(Live\)](https://open.spotify.com/album/5FpPcbGEK4AuHjO2EUf9wy) | 8:53 |
 | 26 | [wake up](https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [wake up](https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c) | 3:06 |
 | 27 | [Sun Rises](https://open.spotify.com/track/1c2EYour3VAKs2qYKLhAKy) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Sun Rises](https://open.spotify.com/album/6Has46aL8NIuwJcanqM7Ha) | 2:54 |
-| 28 | [high water](https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [high water](https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J) | 2:48 |
-| 29 | [Morning glory, don't you worry.](https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Morning glory, don't you worry.](https://open.spotify.com/album/485K5RKBArRkto27KG5SWT) | 4:13 |
+| 28 | [Morning glory, don't you worry.](https://open.spotify.com/track/13p9ZPYNpFDNLYA0o8tKkZ) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Morning glory, don't you worry.](https://open.spotify.com/album/485K5RKBArRkto27KG5SWT) | 4:13 |
+| 29 | [high water](https://open.spotify.com/track/32dWnUPQ0l4cdsOcEj5fCk) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [high water](https://open.spotify.com/album/7gzbODpxaT7WXSi3nW8e9J) | 2:48 |
 | 30 | [Joy In The Morning \- Remix](https://open.spotify.com/track/38xvrudag6EpgxK369Cn9B) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Joy In The Morning \(Horizon Edition\)](https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ) | 3:53 |
 | 31 | [Day The Lord Has Made](https://open.spotify.com/track/1CTTmuPgsgi6e0ZgOEPhel) | [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [Day The Lord Has Made](https://open.spotify.com/album/2TIPRkjEJij0dleJPPOFta) | 5:04 |
 | 32 | [Brand New \(feat\. Terrian\)](https://open.spotify.com/track/6VvG67rVJmeFUKsr0k0jhn) | [Bay Turner](https://open.spotify.com/artist/5Swex8uNIDsDJecu35hSRV), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Brand New \(feat\. Terrian\)](https://open.spotify.com/album/7fJpxRI9nTu4iloWvOquOJ) | 2:55 |

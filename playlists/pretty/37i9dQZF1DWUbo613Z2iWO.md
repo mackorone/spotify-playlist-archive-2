@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: Laila!
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,621 likes - 199 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,624 likes - 199 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 198 | [Therapy](https://open.spotify.com/track/2dkBqfmVutdwnf3qx048n6) | [Eric IV](https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc) | [Therapy](https://open.spotify.com/album/5heRF13vXGLyz5bmpBsm9Z) | 2:03 |
 | 199 | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Myself \(feat\. Jorja Smith\)](https://open.spotify.com/album/1xitk8JdGXMqinTYk5HdpL) | 2:58 |
 
-Snapshot ID: `AAAAAIcWJLFtXS/eTOlEbNsXtBh6Pobl`
+Snapshot ID: `AAAAALnZCrh6jUPG2T9K8uO3iD5FC51r`

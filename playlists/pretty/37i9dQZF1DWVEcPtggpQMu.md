@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Maglera Doe Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,449 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,497 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 | 99 | [Nombolo](https://open.spotify.com/track/6pXNT3NpkgRODpPEoZclnU) | [Dee Koala](https://open.spotify.com/artist/7gYT0XHEBgTgfgNK0566DT) | [iiNtsikelelo](https://open.spotify.com/album/24jCsI6eZ5wKORW876EeI2) | 3:10 |
 | 100 | [MSP](https://open.spotify.com/track/6Fmf4e8VM4Eug4QhjIpt5I) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [DJ Speedsta](https://open.spotify.com/artist/3sNkVGehC2a2YkD346mk87) | [MSP](https://open.spotify.com/album/3DercX1wefziUL8AjaLlZo) | 2:33 |
 
-Snapshot ID: `AAAAACv32AsB/teaI5wJ4FUa6jnstSZ3`
+Snapshot ID: `AAAAABswOJl76L5e5t6DU4rCHULuTlZB`

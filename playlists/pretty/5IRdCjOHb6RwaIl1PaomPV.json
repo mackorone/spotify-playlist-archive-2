@@ -1,13 +1,37 @@
 {
-  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Eartheater, the sound that chalk makes, Effie, evilgiane, &amp; more.",
-  "num_followers": 50324,
+  "description": "The latest tracks from Mad Decent and friends. Featuring new cuts from Major Lazer,  Eartheater, the sound that chalk makes, Effie, evilgiane, &amp; more.",
+  "num_followers": 50317,
   "original_name": "Mad Decent Weekly",
   "owner": {
     "name": "Mad Decent",
     "url": "https://open.spotify.com/user/maddecent"
   },
-  "snapshot_id": "AAAeqKwRoOEJcc1C8aLRK2vRk0TMAnIW",
+  "snapshot_id": "AAAerWVfUctxmF9xwsftljAh4B6KpDy1",
   "tracks": [
+    {
+      "added_at": "2026-07-05 22:09:03",
+      "album": {
+        "name": "pAPi wiTH tOKisCha",
+        "url": "https://open.spotify.com/album/0zQSdKV9voIN7ZG8exJ9Ct"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "pAPi wiTH tOKisCha",
+      "url": "https://open.spotify.com/track/5UA4VZsSc5Ky988bOI5Fnu"
+    },
     {
       "added_at": "2026-06-22 23:16:11",
       "album": {
@@ -1771,22 +1795,6 @@
       "duration_ms": 274786,
       "name": "Supercool",
       "url": "https://open.spotify.com/track/3Lh9zECFaknMX1zviYnU8t"
-    },
-    {
-      "added_at": "2025-03-21 17:02:35",
-      "album": {
-        "name": "r u kissin any1?",
-        "url": "https://open.spotify.com/album/0Gtgctuy5OZ3uspYZZrnnP"
-      },
-      "artists": [
-        {
-          "name": "Joey Cash",
-          "url": "https://open.spotify.com/artist/6pvE3aqOyzjdcaReOneQjf"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "r u kissin any1?",
-      "url": "https://open.spotify.com/track/7pCdAOcXQ8vhDpy98dGsGT"
     },
     {
       "added_at": "2025-02-14 16:23:02",

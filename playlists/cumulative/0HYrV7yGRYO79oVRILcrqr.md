@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-605 songs - 1 day 13 hr 44 min
+606 songs - 1 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Cicatriz de besos](https://open.spotify.com/track/2pPYQQjGsjoXtPkBfLaIQe) | [Xeimar](https://open.spotify.com/artist/2ogDO2M2jDroY1ms13KwKa) | [Cicatriz de besos](https://open.spotify.com/album/3F3qpCClHX7mydgVrxVg0y) | 3:49 | 2026-05-11 | 2026-05-26 |
 | [Cocomama](https://open.spotify.com/track/10kkQ39P3LF5U4owFUW1D5) | [Pituf Project](https://open.spotify.com/artist/1JZT0UPEFA7lPu94SzUqWh) | [Perception Altérée](https://open.spotify.com/album/6y1AIZMakzsN8OTTiq29zg) | 4:14 | 2025-09-01 |  |
 | [Colores](https://open.spotify.com/track/755UkUqGE1RKVdZpCGDFj3) | [Bounce Back](https://open.spotify.com/artist/70mZN7KBrWusiMgyXNW4Hb) | [Colores](https://open.spotify.com/album/6ktEAyCfI5KoTKSgPDFHTO) | 3:58 | 2026-05-11 | 2026-05-26 |
+| [Colors](https://open.spotify.com/track/3vX92NNpPBm3f94fqEZTaX) | [Talking to Sophie](https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC) | [Grand Ballet](https://open.spotify.com/album/75YY4RxuyNJBsUXlV91sT6) | 2:58 | 2026-07-05 |  |
 | [Come Back To Me](https://open.spotify.com/track/70dmA7xWvf9oGD1WwJT9HW) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 3:42 | 2026-05-11 | 2026-05-26 |
 | [Come on in My Kitchen](https://open.spotify.com/track/7DQjQM2ftbW6gMxqUhGNcN) | [CHOCA BLUES](https://open.spotify.com/artist/3cCPBFA3njtllaTGO7Av2W) | [Come on in My Kitchen](https://open.spotify.com/album/2qUxGZ5CJdxmwxsxzSgOpf) | 4:06 | 2025-10-16 | 2025-11-28 |
 | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/track/0oXSnN7pVn3sXtGld1eS7b) | [Andrea Pizzo](https://open.spotify.com/artist/7EVlN5lRqIfrLnVRoCEu9Q), [Riccardo Morello](https://open.spotify.com/artist/5ffJmWfw31UII0CriZhsP3) | [Come Out Lazarus 1 \- Life Is Over](https://open.spotify.com/album/3RURHXjT0MKCp7gW4ZovwM) | 4:18 | 2026-03-17 | 2026-04-21 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1246855,
+  "num_followers": 1246999,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAC4QV3Rst9gSqcT/MTxV4NO",
+  "snapshot_id": "akhNAAAAAABF0GBr5y5JNZmTIKrcZxQY",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Humanz (Deluxe)",
-        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
+        "name": "Plastic Beach",
+        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
       "artists": [
         {
           "name": "Gorillaz",
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 155973,
-      "name": "Ascension (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/2bBMODHVTXGwE2aZYfbgCt"
+      "duration_ms": 197053,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/3THFKx88trZuOFlssVLJ5G"
     },
     {
       "added_at": null,
@@ -815,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plastic Beach",
-        "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
+        "name": "Humanz (Deluxe)",
+        "url": "https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE"
       },
       "artists": [
         {
           "name": "Gorillaz",
           "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 197053,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/3THFKx88trZuOFlssVLJ5G"
+      "duration_ms": 155973,
+      "name": "Ascension (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/2bBMODHVTXGwE2aZYfbgCt"
     },
     {
       "added_at": null,

@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [7Alo Ya 7Alo](https://open.spotify.com/track/7Gvve783aFQUg0oHmul5az) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [7Alo Ya 7Alo](https://open.spotify.com/album/0FDgKEISH5Eb48eOPGNmmo) | 4:29 | 2025-01-28 | 2026-03-10 |
+| [7Alo Ya 7Alo](https://open.spotify.com/track/7Gvve783aFQUg0oHmul5az) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [7Alo Ya 7Alo](https://open.spotify.com/album/0FDgKEISH5Eb48eOPGNmmo) | 4:29 | 2025-01-28 |  |
 | [A3zam Ayam](https://open.spotify.com/track/38bL58Q5kf7RbC2WIciW3Q) | [Akram Adel](https://open.spotify.com/artist/3TL9vhTxFtRnEBMPhLM2ia) | [A3zam Ayam](https://open.spotify.com/album/2m9kuiPhaFlzZ8WF5bT07V) | 2:03 | 2024-03-12 | 2025-03-24 |
 | [Ahlan Ramadan](https://open.spotify.com/track/79nSB35IGr3o4FdavxwOXm) | [Ali Magrebi](https://open.spotify.com/artist/4GSR6lcJZdCOlptrvPtLSN) | [Ahlan Ramadan](https://open.spotify.com/album/1Xpw87zfp0wu6bxhpBzlC6) | 3:34 | 2024-03-12 |  |
 | [Ahlan Ramadan](https://open.spotify.com/track/2IBydskU0pX1NtsPYRe0Ch) | [Mohamed Tarek](https://open.spotify.com/artist/0I7sMQsYXAug5uQtZnzTIb), [Ibrahim Al Dardasawi](https://open.spotify.com/artist/36Vbky7ZIPAceSgzGaApoC) | [Ahlan Ramadan](https://open.spotify.com/album/2NWc9tnxVJc1TK1U51p0EN) | 3:05 | 2024-03-12 |  |
@@ -54,7 +54,7 @@
 | [Wahawi Ya Wahawi](https://open.spotify.com/track/0vCyEV4HN4knlClJe2H07m) | [El Tholathy El Mareh](https://open.spotify.com/artist/717rpKsEVWQI0tKj5Wng6l) | [Ramadaniat](https://open.spotify.com/album/4t8GwCSKmzGhKI0keQ5E2i) | 5:12 | 2024-03-12 |  |
 | [Ya Nabi Salam Alayka \- Arabic Version \- Bonus Track](https://open.spotify.com/track/1UNOACS4O1ROKbDsLfMjOd) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Thank You Allah \(French Version\)](https://open.spotify.com/album/13jtfxj1q4UrhsAOQQjr68) | 4:58 | 2025-02-28 |  |
 | [Ya Ramadan](https://open.spotify.com/track/4qQH8be2uy8HCBFZSbJSVZ) | [Mesut Kurtis](https://open.spotify.com/artist/1B03KdvD2TCVUEeaDbP5qf) | [Ya Ramadan](https://open.spotify.com/album/7nLNRcWc7bhoeAb3iWXXdz) | 3:09 | 2024-03-12 |  |
-| [Ya Ramdan](https://open.spotify.com/track/4XM3uxOhlGCFrhbow0yNNu) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Ya Ramdan](https://open.spotify.com/album/6dbCPasbAqf5RPHABG76XD) | 4:16 | 2024-03-12 |  |
+| [Ya Ramdan](https://open.spotify.com/track/4XM3uxOhlGCFrhbow0yNNu) | [Hatem Al Iraqi](https://open.spotify.com/artist/0yLMdeDY9aaF6R5V8EO99D) | [Ya Ramdan](https://open.spotify.com/album/6dbCPasbAqf5RPHABG76XD) | 4:16 | 2024-03-12 | 2026-07-06 |
 | [أهلا رمضان](https://open.spotify.com/track/6wJjIW14ul8rdLZwoOpr2z) | [Badr Soultan](https://open.spotify.com/artist/01haa57xRGVU3u7Nly8OD4) | [أهلا رمضان](https://open.spotify.com/album/2H75vEJHwOaSWnlM3Y4ZgG) | 4:03 | 2025-02-28 |  |
 | [أهلًا رمضان](https://open.spotify.com/track/7nPBds7bQmLeC8CqSksHmF) | [احمد حسن الاقصري](https://open.spotify.com/artist/4sdjiZ9HCbk1FiQ8t28sjl) | [أهلًا رمضان](https://open.spotify.com/album/54rNuOoWBAJuMZybaNNBOm) | 4:40 | 2025-01-28 |  |
 | [اهلا رمضان](https://open.spotify.com/track/43Zt5DfrGBYtBBknYPh6WW) | [Seif Magdy](https://open.spotify.com/artist/36QfEZXB5iGSrD0SxwRNkE), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [اهلا رمضان](https://open.spotify.com/album/6umXFIQM8J0bTOqTlgPFUI) | 2:34 | 2024-03-12 | 2025-10-12 |

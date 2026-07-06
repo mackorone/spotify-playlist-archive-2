@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2484575,
+  "num_followers": 2484353,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -143,18 +143,26 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Kathang Isip",
-        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
+        "name": "Sa Susunod Na Lang",
+        "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "PDL",
+          "url": "https://open.spotify.com/artist/1Dlwdk88pCDKkHvThkSdqc"
+        },
+        {
+          "name": "Skusta Clee",
+          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
         }
       ],
-      "duration_ms": 318814,
-      "name": "Kathang Isip",
-      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
+      "duration_ms": 214606,
+      "name": "Sa Susunod Na Lang",
+      "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
     },
     {
       "added_at": "2026-05-20 10:30:00",
@@ -191,26 +199,18 @@
     {
       "added_at": "2026-05-20 10:30:00",
       "album": {
-        "name": "Sa Susunod Na Lang",
-        "url": "https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq"
+        "name": "Kathang Isip",
+        "url": "https://open.spotify.com/album/4nQxblVnnFPehg9ujzdJ8L"
       },
       "artists": [
         {
-          "name": "PDL",
-          "url": "https://open.spotify.com/artist/1Dlwdk88pCDKkHvThkSdqc"
-        },
-        {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
-        },
-        {
-          "name": "Yuridope",
-          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 214606,
-      "name": "Sa Susunod Na Lang",
-      "url": "https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU"
+      "duration_ms": 318814,
+      "name": "Kathang Isip",
+      "url": "https://open.spotify.com/track/3WUEs51GpcvlgU7lehLgLh"
     },
     {
       "added_at": "2026-05-20 10:30:00",

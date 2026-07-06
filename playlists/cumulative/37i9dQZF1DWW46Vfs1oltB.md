@@ -4,7 +4,7 @@
 
 > New & Hottest K\-Hip Hop is here\. \(Cover: Keyveatz\)
 
-1,929 songs - 4 day 6 hr 59 min
+1,930 songs - 4 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1380,6 +1380,7 @@
 | [RINDAMAN \(Feat\. ZICO\)](https://open.spotify.com/track/5zoGBq6N98J1NnLeB2OPPy) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [\[ Rorschach \] Part 1](https://open.spotify.com/album/4oJZ6lxEkCpw8ESH9NrCdZ) | 2:16 | 2023-04-20 | 2023-11-16 |
 | [Ring Ring](https://open.spotify.com/track/6Wu6Ee5c9n5s6g8xvK2cK3) | [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o) | [Ring Ring](https://open.spotify.com/album/6sy7z0niqeYj9ld25PeeYB) | 2:39 | 2022-01-14 | 2022-07-07 |
 | [Ringtone](https://open.spotify.com/track/6mZvHTwEuBvCyRXyRzRDo2) | [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt) | [Trick](https://open.spotify.com/album/5YuSoEzVRkukvE6UwGCcNS) | 2:33 | 2022-01-04 | 2022-04-16 |
+| [Ripple Effect2](https://open.spotify.com/track/3MZrmxOL1o0dViNNvAR5a3) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [YULEUM](https://open.spotify.com/artist/7mR09TGFa7m27D7l2m9FbB), [shinjihang](https://open.spotify.com/artist/6LGvFSi2nlVrapbgljktyj), [Nochang](https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO), [hyeminsong](https://open.spotify.com/artist/4gwWGwahyZnvnSp75bWg82) | [Ripple Effect2](https://open.spotify.com/album/2y1ZAe6SuMSBcdYhkGxlZj) | 3:22 | 2026-07-05 |  |
 | [River Boy](https://open.spotify.com/track/0CZl8qZgyCBTRQASsiJx1k) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN) | [River Boy](https://open.spotify.com/album/6QGsBgxDtQICNXfCjC3Yjp) | 2:26 | 2022-12-11 | 2023-03-28 |
 | [river gang remix ft\. Blase, BLNK, EK, KOR KASH, KWON KI BAEK](https://open.spotify.com/track/2HwmvHEmvsePGfIa0rdmDS) | [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva), [BLNK](https://open.spotify.com/artist/6mquRNZm8DYTOCbYoRh7A1), [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7), [KOR KASH](https://open.spotify.com/artist/6opErDv4ZN3ZgbaovBUStM), [권기백](https://open.spotify.com/artist/4KJSQgLRrjQGMn0NlkiWht) | [river gang remix](https://open.spotify.com/album/2lrWFK5Jq3tmbCVXNjGZUk) | 4:34 | 2022-03-21 | 2022-06-08 |
 | [ROAD \(Feat\. Skinny Brown, TRADE L, Hannah\)](https://open.spotify.com/track/0mk4N0QM4NLZN5ujoCBTbA) | [RELOAD](https://open.spotify.com/artist/71T0uNqTUxppsys49hktTF), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [Hannah](https://open.spotify.com/artist/69kcnEE47Kd8pe8thqWik9) | [ROAD](https://open.spotify.com/album/7elkrUuiiU74BQUBarJw5V) | 3:14 | 2024-03-08 | 2024-06-05 |

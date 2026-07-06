@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 7552,
+  "num_followers": 7559,
   "original_name": "Projekt Melody Official Playlist",
   "owner": {
     "name": "Melody",
     "url": "https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih"
   },
-  "snapshot_id": "AAABfDY6K42Y13frcc5ObW5X7AkK4Jno",
+  "snapshot_id": "AAABfa3tb8j7xU+xfDfTlN0pd8hKdIiy",
   "tracks": [
     {
       "added_at": "2020-03-11 15:33:22",
@@ -10099,6 +10099,22 @@
       "duration_ms": 203989,
       "name": "A Tear in Space (Airlock)",
       "url": "https://open.spotify.com/track/6l6XVeeoTe3ggya4fLY8l8"
+    },
+    {
+      "added_at": "2026-07-05 05:29:44",
+      "album": {
+        "name": "Perpetual",
+        "url": "https://open.spotify.com/album/1nX2SzQba1EmYExiUIKTRI"
+      },
+      "artists": [
+        {
+          "name": "DV-i",
+          "url": "https://open.spotify.com/artist/3EQMLkFqKA6xXhzNYlBrbE"
+        }
+      ],
+      "duration_ms": 255625,
+      "name": "Perpetual",
+      "url": "https://open.spotify.com/track/1EmbdGpODC0A8TB18vtJRJ"
     }
   ],
   "unique_name": "Projekt Melody Official Playlist",

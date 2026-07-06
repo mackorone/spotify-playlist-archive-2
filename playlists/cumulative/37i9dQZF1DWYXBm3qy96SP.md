@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Lina\-Mariah
 
-2,144 songs - 5 day 4 hr 49 min
+2,145 songs - 5 day 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -817,7 +817,7 @@
 | [hellsong\. \(let it in\)](https://open.spotify.com/track/44c8cYVjTFqJ5Yj6WyjMSQ) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [hellsong\. \(let it in\)](https://open.spotify.com/album/25BaXSn7LKFdhareEiMpjb) | 3:05 | 2023-03-30 | 2023-09-08 |
 | [Help Me](https://open.spotify.com/track/5wocXoEq2TsNw3ZYdEBalW) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Help Me](https://open.spotify.com/album/4mLuzYF9sqsZ6AmZMu9tkx) | 2:30 | 2023-07-13 | 2023-07-28 |
 | [Here's The Thing](https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Here's The Thing](https://open.spotify.com/album/63MATGJoOix8OypoCqnJga) | 2:43 | 2024-08-09 | 2024-10-04 |
-| [Heresy \- Nine Inch Noize Version](https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nine Inch Noize](https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp) | 3:57 | 2026-04-16 |  |
+| [Heresy \- Nine Inch Noize Version](https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nine Inch Noize](https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp) | 3:57 | 2026-04-16 | 2026-07-06 |
 | [Heroes \- Spotify Singles](https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes \- Spotify Singles](https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag) | 3:00 | 2025-01-09 | 2025-02-28 |
 | [Hexagons](https://open.spotify.com/track/6dN6m9zDXxLKtckqbLxaPX) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Hexagons](https://open.spotify.com/album/3KoOHa3ZGsWo85OQv6fRSV) | 5:26 | 2026-05-21 |  |
 | [Hey Bulldog \- 2023 Mix](https://open.spotify.com/track/3iGns07SjzqHZGn6h8FKVS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles 1967 – 1970 \(2023 Edition\)](https://open.spotify.com/album/2AlPRfYeskAMxhJS00xjeP) | 3:11 | 2023-11-09 | 2023-12-01 |
@@ -1135,6 +1135,7 @@
 | [Low Again \(miss my dog\)](https://open.spotify.com/track/1e5SBnMu0FdtQ6PGXmRDE8) | [Kape Yeel](https://open.spotify.com/artist/4FKoVIKo6n8CqYJ9SlTmsH) | [Low Again \(miss my dog\)](https://open.spotify.com/album/4hoTPpQU43DVwmt8WgaOyl) | 3:00 | 2026-03-12 | 2026-03-20 |
 | [Lowest In Me](https://open.spotify.com/track/1cdCfqSwdXM0BQEDy5Fc7M) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Lowest In Me](https://open.spotify.com/album/1ns3CtSmx6z1p7pNIUbNxv) | 3:07 | 2023-05-11 | 2023-05-19 |
 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 | 2023-06-08 | 2024-02-09 |
+| [Lucid Love](https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [⁠Lucid Love](https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH) | 3:30 | 2026-07-03 |  |
 | [Luckiest Man In The World](https://open.spotify.com/track/0SyEC4n2uU6OrRZRNxaogH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb \(Re\-Assemble Edition\)](https://open.spotify.com/album/7o3k14ivnyWNPp6LM2NkgV) | 6:12 | 2024-11-22 | 2025-01-10 |
 | [MAD CONTROL](https://open.spotify.com/track/3mbumdEcCKGj7Ns04bS2U5) | [Baja](https://open.spotify.com/artist/5eNUcwvXeKJcLIrVJQhtp1) | [MAD CONTROL](https://open.spotify.com/album/4GfCf8VSvcXVfgEqoJMN7U) | 3:49 | 2024-08-09 | 2024-09-13 |
 | [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 | 2023-11-02 | 2023-11-10 |

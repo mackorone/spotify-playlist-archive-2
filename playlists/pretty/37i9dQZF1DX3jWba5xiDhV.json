@@ -1,6 +1,6 @@
 {
   "description": "When the dancefloor calls your name, that's amore.",
-  "num_followers": 413396,
+  "num_followers": 413601,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-06-29 14:26:33",
       "album": {
-        "name": "I Need You Tonite / Tonight",
-        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
-      },
-      "artists": [
-        {
-          "name": "Suzy Q",
-          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
-        }
-      ],
-      "duration_ms": 390127,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
-    },
-    {
-      "added_at": "2026-06-29 14:26:33",
-      "album": {
         "name": "Greatest Hits &amp; Remixes",
         "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 212253,
       "name": "Visitors",
       "url": "https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn"
+    },
+    {
+      "added_at": "2026-06-29 14:26:33",
+      "album": {
+        "name": "I Need You Tonite / Tonight",
+        "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
+      },
+      "artists": [
+        {
+          "name": "Suzy Q",
+          "url": "https://open.spotify.com/artist/4chxVeRqRTbEAi1VtJa6vA"
+        }
+      ],
+      "duration_ms": 390127,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
     },
     {
       "added_at": "2026-06-29 14:26:33",
@@ -719,18 +719,18 @@
     {
       "added_at": "2026-06-29 14:26:33",
       "album": {
-        "name": "Tacchini",
-        "url": "https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG"
+        "name": "The Singles 83/87",
+        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
       },
       "artists": [
         {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+          "name": "Righeira",
+          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
         }
       ],
-      "duration_ms": 289815,
-      "name": "Tacchini",
-      "url": "https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ"
+      "duration_ms": 200782,
+      "name": "No Tengo Dinero",
+      "url": "https://open.spotify.com/track/27Mvfc9nYszQDF6S84J39D"
     },
     {
       "added_at": "2026-06-29 14:26:33",
@@ -751,18 +751,18 @@
     {
       "added_at": "2026-06-29 14:26:33",
       "album": {
-        "name": "The Singles 83/87",
-        "url": "https://open.spotify.com/album/41jWthqGJOAFexx6xC65Y4"
+        "name": "Tacchini",
+        "url": "https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG"
       },
       "artists": [
         {
-          "name": "Righeira",
-          "url": "https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI"
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
         }
       ],
-      "duration_ms": 200782,
-      "name": "No Tengo Dinero",
-      "url": "https://open.spotify.com/track/27Mvfc9nYszQDF6S84J39D"
+      "duration_ms": 289815,
+      "name": "Tacchini",
+      "url": "https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ"
     },
     {
       "added_at": "2026-06-29 14:26:33",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-06-29 14:26:33",
       "album": {
-        "name": "Tuttosport",
-        "url": "https://open.spotify.com/album/2kcM5zOApNGVIjKnXuI5Te"
-      },
-      "artists": [
-        {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
-        }
-      ],
-      "duration_ms": 336120,
-      "name": "Tuttosport",
-      "url": "https://open.spotify.com/track/5Y2ckG8axbdGJ2HUzOe7Ce"
-    },
-    {
-      "added_at": "2026-06-29 14:26:33",
-      "album": {
         "name": "Volevi Una Hit",
         "url": "https://open.spotify.com/album/1SSY7LphnEe6gy8VZ9BTgg"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 219140,
       "name": "Ma quale idea - Myd Remix (Radio Edit)",
       "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
+    },
+    {
+      "added_at": "2026-06-29 14:26:33",
+      "album": {
+        "name": "Tuttosport",
+        "url": "https://open.spotify.com/album/2kcM5zOApNGVIjKnXuI5Te"
+      },
+      "artists": [
+        {
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+        }
+      ],
+      "duration_ms": 336120,
+      "name": "Tuttosport",
+      "url": "https://open.spotify.com/track/5Y2ckG8axbdGJ2HUzOe7Ce"
     },
     {
       "added_at": "2026-06-29 14:26:33",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-06-29 14:26:33",
       "album": {
-        "name": "Another World",
-        "url": "https://open.spotify.com/album/2s0nIaX5wcdvzuLj3ZWVnp"
-      },
-      "artists": [
-        {
-          "name": "Mind Enterprises",
-          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
-        }
-      ],
-      "duration_ms": 281167,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/7Ky4Cj8IhPxSYSl5nvka8B"
-    },
-    {
-      "added_at": "2026-06-29 14:26:33",
-      "album": {
         "name": "Greatest Hits & Remixes",
         "url": "https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 185401,
       "name": "Insieme",
       "url": "https://open.spotify.com/track/4DSjwylMkecSMTG4Xxa0Bj"
+    },
+    {
+      "added_at": "2026-06-29 14:26:33",
+      "album": {
+        "name": "Another World",
+        "url": "https://open.spotify.com/album/2s0nIaX5wcdvzuLj3ZWVnp"
+      },
+      "artists": [
+        {
+          "name": "Mind Enterprises",
+          "url": "https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB"
+        }
+      ],
+      "duration_ms": 281167,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/7Ky4Cj8IhPxSYSl5nvka8B"
     },
     {
       "added_at": "2026-06-29 14:26:33",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-06-29 14:26:33",
       "album": {
-        "name": "Ritmomento",
-        "url": "https://open.spotify.com/album/7p7sdHAqivaTObw64x5xoc"
-      },
-      "artists": [
-        {
-          "name": "Eternal Love",
-          "url": "https://open.spotify.com/artist/6RGEvodcU9SrSfrnvIOSTl"
-        }
-      ],
-      "duration_ms": 282946,
-      "name": "Luna Manga",
-      "url": "https://open.spotify.com/track/44YVqCyXdmfPgxykjnzUkw"
-    },
-    {
-      "added_at": "2026-06-29 14:26:33",
-      "album": {
         "name": "Dedicated To The Moon",
         "url": "https://open.spotify.com/album/7yph4dnSdjHs2ke5ZZU2Lu"
       },
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2026-06-29 14:26:33",
       "album": {
+        "name": "Ritmomento",
+        "url": "https://open.spotify.com/album/7p7sdHAqivaTObw64x5xoc"
+      },
+      "artists": [
+        {
+          "name": "Eternal Love",
+          "url": "https://open.spotify.com/artist/6RGEvodcU9SrSfrnvIOSTl"
+        }
+      ],
+      "duration_ms": 282946,
+      "name": "Luna Manga",
+      "url": "https://open.spotify.com/track/44YVqCyXdmfPgxykjnzUkw"
+    },
+    {
+      "added_at": "2026-06-29 14:26:33",
+      "album": {
         "name": "Plastic Mode",
         "url": "https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx"
       },
@@ -1079,42 +1079,6 @@
       "duration_ms": 235346,
       "name": "Summer Time",
       "url": "https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K"
-    },
-    {
-      "added_at": "2026-06-29 14:26:33",
-      "album": {
-        "name": "For You (LP)",
-        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
-      },
-      "artists": [
-        {
-          "name": "Ago",
-          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
-        }
-      ],
-      "duration_ms": 353000,
-      "name": "For You - Original Album",
-      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
-    },
-    {
-      "added_at": "2026-06-29 14:26:33",
-      "album": {
-        "name": "Dammi un'idea",
-        "url": "https://open.spotify.com/album/1Y6CC1upQq0zT8hsuhTHKj"
-      },
-      "artists": [
-        {
-          "name": "Bruno Belissimo",
-          "url": "https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI"
-        },
-        {
-          "name": "Whitemary",
-          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
-        }
-      ],
-      "duration_ms": 201332,
-      "name": "Dammi un'idea",
-      "url": "https://open.spotify.com/track/7DrO38olLryjXBoxqKPqHN"
     },
     {
       "added_at": "2026-06-29 14:26:33",
@@ -1143,6 +1107,42 @@
       "duration_ms": 385296,
       "name": "La vita nuova - Daniele Baldelli & Marco Dionigi Remix",
       "url": "https://open.spotify.com/track/74U9pNsCSdKGwvDIKbG4FO"
+    },
+    {
+      "added_at": "2026-06-29 14:26:33",
+      "album": {
+        "name": "Dammi un'idea",
+        "url": "https://open.spotify.com/album/1Y6CC1upQq0zT8hsuhTHKj"
+      },
+      "artists": [
+        {
+          "name": "Bruno Belissimo",
+          "url": "https://open.spotify.com/artist/5LExfPIVArSHdWN83U4STI"
+        },
+        {
+          "name": "Whitemary",
+          "url": "https://open.spotify.com/artist/5bfb49rPCcTFUqn6SVX8nt"
+        }
+      ],
+      "duration_ms": 201332,
+      "name": "Dammi un'idea",
+      "url": "https://open.spotify.com/track/7DrO38olLryjXBoxqKPqHN"
+    },
+    {
+      "added_at": "2026-06-29 14:26:33",
+      "album": {
+        "name": "For You (LP)",
+        "url": "https://open.spotify.com/album/3HaUzrq7HVsuVTmIIcsZ8n"
+      },
+      "artists": [
+        {
+          "name": "Ago",
+          "url": "https://open.spotify.com/artist/3tr79XZgYXoRoI5G49Zqbx"
+        }
+      ],
+      "duration_ms": 353000,
+      "name": "For You - Original Album",
+      "url": "https://open.spotify.com/track/5if1vlzBKrpoE1hZ6bxw2C"
     },
     {
       "added_at": "2026-06-29 14:26:33",
@@ -1179,26 +1179,18 @@
     {
       "added_at": "2026-06-29 14:26:33",
       "album": {
-        "name": "Babylon, baby",
-        "url": "https://open.spotify.com/album/7e791Xxbe2X0igt1okm20T"
+        "name": "The Sound of Tony Esposito",
+        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
       },
       "artists": [
         {
-          "name": "Protopapa",
-          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
-        },
-        {
-          "name": "Hey Cabrera!",
-          "url": "https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf"
-        },
-        {
-          "name": "Gr\u00e9goire Tine",
-          "url": "https://open.spotify.com/artist/1B9hG7Ts0USXnTr2n9UuWO"
+          "name": "Tony Esposito",
+          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
         }
       ],
-      "duration_ms": 207738,
-      "name": "Babylon, baby",
-      "url": "https://open.spotify.com/track/6AcOGAvI3FX4Icq7BWINrO"
+      "duration_ms": 313133,
+      "name": "Kalimba de luna",
+      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
     },
     {
       "added_at": "2026-06-29 14:26:33",
@@ -1219,18 +1211,26 @@
     {
       "added_at": "2026-06-29 14:26:33",
       "album": {
-        "name": "The Sound of Tony Esposito",
-        "url": "https://open.spotify.com/album/3xaaztf2ZXiBbjETpSTEQC"
+        "name": "Babylon, baby",
+        "url": "https://open.spotify.com/album/7e791Xxbe2X0igt1okm20T"
       },
       "artists": [
         {
-          "name": "Tony Esposito",
-          "url": "https://open.spotify.com/artist/2E236rsxSkaqZfJpv57gYF"
+          "name": "Protopapa",
+          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
+        },
+        {
+          "name": "Hey Cabrera!",
+          "url": "https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf"
+        },
+        {
+          "name": "Gr\u00e9goire Tine",
+          "url": "https://open.spotify.com/artist/1B9hG7Ts0USXnTr2n9UuWO"
         }
       ],
-      "duration_ms": 313133,
-      "name": "Kalimba de luna",
-      "url": "https://open.spotify.com/track/1GhgNF88EQEhpGpBApiZfc"
+      "duration_ms": 207738,
+      "name": "Babylon, baby",
+      "url": "https://open.spotify.com/track/6AcOGAvI3FX4Icq7BWINrO"
     },
     {
       "added_at": "2026-06-29 14:26:33",

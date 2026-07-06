@@ -1,6 +1,6 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 673332,
+  "num_followers": 673538,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2026-06-25 23:00:17",
       "album": {
-        "name": "Not Giving You Up",
-        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        }
-      ],
-      "duration_ms": 172939,
-      "name": "Not Giving You Up",
-      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
-    },
-    {
-      "added_at": "2026-06-25 23:00:17",
-      "album": {
         "name": "Neverender (Rampa Remix)",
         "url": "https://open.spotify.com/album/5Yd3nNyeFQa0CcYCMV8IUa"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 384062,
       "name": "Neverender - Rampa Remix",
       "url": "https://open.spotify.com/track/5EtJ3keh0umOlQ0kHXvNIS"
+    },
+    {
+      "added_at": "2026-06-25 23:00:17",
+      "album": {
+        "name": "Not Giving You Up",
+        "url": "https://open.spotify.com/album/5V3TvHdleNDEhSIC4g7IFM"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        }
+      ],
+      "duration_ms": 172939,
+      "name": "Not Giving You Up",
+      "url": "https://open.spotify.com/track/5s7KszYX1mfvpKA7XCMvfw"
     },
     {
       "added_at": "2026-06-25 23:00:17",
@@ -567,22 +567,18 @@
     {
       "added_at": "2026-06-25 23:00:17",
       "album": {
-        "name": "Money",
-        "url": "https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK"
+        "name": "Blackoak",
+        "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
       },
       "artists": [
         {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "Alyz\u00e9e",
-          "url": "https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO"
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
         }
       ],
-      "duration_ms": 214108,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn"
+      "duration_ms": 288613,
+      "name": "Blackoak",
+      "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
     },
     {
       "added_at": "2026-06-25 23:00:17",
@@ -603,18 +599,22 @@
     {
       "added_at": "2026-06-25 23:00:17",
       "album": {
-        "name": "Blackoak",
-        "url": "https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9"
+        "name": "Money",
+        "url": "https://open.spotify.com/album/0WPnWF4ZnJFn6Li3DXcObK"
       },
       "artists": [
         {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Alyz\u00e9e",
+          "url": "https://open.spotify.com/artist/7qVwsLEso0qnI6kYDjNWsO"
         }
       ],
-      "duration_ms": 288613,
-      "name": "Blackoak",
-      "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
+      "duration_ms": 214108,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/3oGcjB8hAH7LVlqHX6fpWn"
     },
     {
       "added_at": "2026-06-25 23:00:17",
@@ -723,6 +723,26 @@
     {
       "added_at": "2026-06-25 23:00:17",
       "album": {
+        "name": "Howl (Chill Mix)",
+        "url": "https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 197619,
+      "name": "Howl - Chill Mix",
+      "url": "https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF"
+    },
+    {
+      "added_at": "2026-06-25 23:00:17",
+      "album": {
         "name": "Casableu",
         "url": "https://open.spotify.com/album/0lAe8AD0yI2r0o5ibNXvgk"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 328655,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW"
-    },
-    {
-      "added_at": "2026-06-25 23:00:17",
-      "album": {
-        "name": "Howl (Chill Mix)",
-        "url": "https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 197619,
-      "name": "Howl - Chill Mix",
-      "url": "https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF"
     },
     {
       "added_at": "2026-06-25 23:00:17",

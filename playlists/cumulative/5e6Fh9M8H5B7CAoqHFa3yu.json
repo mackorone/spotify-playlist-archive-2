@@ -8999,6 +8999,28 @@
     },
     {
       "album": {
+        "name": "Dime Pa Que Vuelves",
+        "url": "https://open.spotify.com/album/6iAT6bslz3QBSKfHxSqrgM"
+      },
+      "artists": [
+        {
+          "name": "Soy Loy",
+          "url": "https://open.spotify.com/artist/0egXpDPsm0pFmdjfIfPHbn"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194705,
+      "name": "Dime Pa Que Vuelves",
+      "url": "https://open.spotify.com/track/5cg0XaWG6LGo4aZuoOxcGV"
+    },
+    {
+      "album": {
         "name": "Dioses del Vud\u00fa",
         "url": "https://open.spotify.com/album/0BCY4TqPnnqjTrcBzqAcpt"
       },

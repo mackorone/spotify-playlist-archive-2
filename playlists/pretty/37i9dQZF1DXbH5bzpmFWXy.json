@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie nos lo va a cambiar... Lucky Brown y El Bogueto en portada.",
-  "num_followers": 310763,
+  "num_followers": 310760,
   "original_name": "El Barrio MP3 ",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,26 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "San Pedro",
-        "url": "https://open.spotify.com/album/1isqlLWYMmokfCrK1uDSBL"
+        "name": "Malas Rachas",
+        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
       "artists": [
         {
-          "name": "Ganggy",
-          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
         },
         {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
         }
       ],
-      "duration_ms": 198709,
-      "name": "San Pedro",
-      "url": "https://open.spotify.com/track/3meHMCLIeGhw46OBAmC0AC"
+      "duration_ms": 260285,
+      "name": "Malas Rachas - En Vivo",
+      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -843,26 +847,22 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "Malas Rachas",
-        "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
+        "name": "San Pedro",
+        "url": "https://open.spotify.com/album/1isqlLWYMmokfCrK1uDSBL"
       },
       "artists": [
         {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+          "name": "Ganggy",
+          "url": "https://open.spotify.com/artist/5DyLJzaY28nfyYFYu5a7Py"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
         }
       ],
-      "duration_ms": 260285,
-      "name": "Malas Rachas - En Vivo",
-      "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+      "duration_ms": 198709,
+      "name": "San Pedro",
+      "url": "https://open.spotify.com/track/3meHMCLIeGhw46OBAmC0AC"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 310720,
-      "name": "Bitch, Don\u2019t Kill My Vibe",
-      "url": "https://open.spotify.com/track/5h5tBFnbcVioFXiOixTn6E"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
         "name": "\u00d1EROSTARS",
         "url": "https://open.spotify.com/album/5ursP9KJsdAdRc2tZwc8PU"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 188571,
       "name": "B de Bellako",
       "url": "https://open.spotify.com/track/3dZzUQVDLByfxVIStbVOu5"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 310720,
+      "name": "Bitch, Don\u2019t Kill My Vibe",
+      "url": "https://open.spotify.com/track/5h5tBFnbcVioFXiOixTn6E"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "OKRA",
-        "url": "https://open.spotify.com/album/0dXN05tQ4StX1W0lwN95Q6"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 151026,
-      "name": "OKRA",
-      "url": "https://open.spotify.com/track/74ZovzRxHBvCq5yIwe8boh"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
         "name": "GPI",
         "url": "https://open.spotify.com/album/2LiLs8qxydyzsPigYWtBA9"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 154632,
       "name": "GPI",
       "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
+        "name": "OKRA",
+        "url": "https://open.spotify.com/album/0dXN05tQ4StX1W0lwN95Q6"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 151026,
+      "name": "OKRA",
+      "url": "https://open.spotify.com/track/74ZovzRxHBvCq5yIwe8boh"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
+        "name": "CINDERELLA",
+        "url": "https://open.spotify.com/album/3UCNmAyO3Kwl5kI0ccmZVK"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 216920,
+      "name": "CINDERELLA",
+      "url": "https://open.spotify.com/track/1dXrN1k5P85gXjcixMa44j"
+    },
+    {
+      "added_at": "2026-07-03 06:00:07",
+      "album": {
         "name": "Lujo y Detalle",
         "url": "https://open.spotify.com/album/3zCFdseaQ02uBKqM4A0WTj"
       },
@@ -1811,22 +1827,6 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "CINDERELLA",
-        "url": "https://open.spotify.com/album/3UCNmAyO3Kwl5kI0ccmZVK"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 216920,
-      "name": "CINDERELLA",
-      "url": "https://open.spotify.com/track/1dXrN1k5P85gXjcixMa44j"
-    },
-    {
-      "added_at": "2026-07-03 06:00:07",
-      "album": {
         "name": "La Despedida",
         "url": "https://open.spotify.com/album/1o82wmTMEaupi5ZpcgkRVB"
       },
@@ -1843,26 +1843,22 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "GOMIN0LA",
-        "url": "https://open.spotify.com/album/2r2oiyUHHm0ugOwVmBocoq"
+        "name": "B\u00e9lico y Cholo",
+        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
       "artists": [
         {
-          "name": "Plan de Escape",
-          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
         },
         {
-          "name": "Kevin AMF",
-          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
-        },
-        {
-          "name": "Oscar Ortiz",
-          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
         }
       ],
-      "duration_ms": 169440,
-      "name": "GOMIN0LA",
-      "url": "https://open.spotify.com/track/69bGr7FjY7k1DLJEsdRZRy"
+      "duration_ms": 202218,
+      "name": "B\u00e9lico y Cholo",
+      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
     },
     {
       "added_at": "2026-07-03 06:00:07",
@@ -1887,22 +1883,26 @@
     {
       "added_at": "2026-07-03 06:00:07",
       "album": {
-        "name": "B\u00e9lico y Cholo",
-        "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
+        "name": "GOMIN0LA",
+        "url": "https://open.spotify.com/album/2r2oiyUHHm0ugOwVmBocoq"
       },
       "artists": [
         {
-          "name": "Sebastian Esquivel",
-          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+          "name": "Plan de Escape",
+          "url": "https://open.spotify.com/artist/4y4uRSNiwurNnkWn9I0z7R"
         },
         {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+          "name": "Kevin AMF",
+          "url": "https://open.spotify.com/artist/1XtR9vPQD6cjmHlR5PuHPu"
+        },
+        {
+          "name": "Oscar Ortiz",
+          "url": "https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei"
         }
       ],
-      "duration_ms": 202218,
-      "name": "B\u00e9lico y Cholo",
-      "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+      "duration_ms": 169440,
+      "name": "GOMIN0LA",
+      "url": "https://open.spotify.com/track/69bGr7FjY7k1DLJEsdRZRy"
     },
     {
       "added_at": "2026-07-03 06:00:07",

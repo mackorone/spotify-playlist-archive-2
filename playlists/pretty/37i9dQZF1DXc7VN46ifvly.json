@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 21303,
+  "num_followers": 21304,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
+        "name": "Jack In The Box",
+        "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
+      },
+      "artists": [
+        {
+          "name": "j-hope",
+          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
+        }
+      ],
+      "duration_ms": 159761,
+      "name": "Arson",
+      "url": "https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
         "name": "MUSIC",
         "url": "https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 173320,
       "name": "CRUSH (with Travis Scott)",
       "url": "https://open.spotify.com/track/3VdooJLOy4tLxKpnn46SMP"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
-        "name": "Jack In The Box",
-        "url": "https://open.spotify.com/album/0FrC9lzgVhziJenigsrXdl"
-      },
-      "artists": [
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        }
-      ],
-      "duration_ms": 159761,
-      "name": "Arson",
-      "url": "https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1343,30 +1343,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "My Feelings For You (Mark Knight Remix)",
-        "url": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Sebastien Drums",
-          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
-        },
-        {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
-        }
-      ],
-      "duration_ms": 224515,
-      "name": "My Feelings For You - Mark Knight Remix",
-      "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "MORE",
         "url": "https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi"
       },
@@ -1399,6 +1375,30 @@
       "duration_ms": 209546,
       "name": "Smoke (Prod. Dynamicduo, Padi)",
       "url": "https://open.spotify.com/track/1qRfAvzRIJQodWKBNFAb6C"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "My Feelings For You (Mark Knight Remix)",
+        "url": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF"
+      },
+      "artists": [
+        {
+          "name": "Avicii",
+          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
+        },
+        {
+          "name": "Sebastien Drums",
+          "url": "https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        }
+      ],
+      "duration_ms": 224515,
+      "name": "My Feelings For You - Mark Knight Remix",
+      "url": "https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "Hands up, Yo!",
-        "url": "https://open.spotify.com/album/47ImUBAiFpTzsD7hHHsucf"
-      },
-      "artists": [
-        {
-          "name": "NEXZ",
-          "url": "https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Hands up, Yo!",
-      "url": "https://open.spotify.com/track/46AUBRiFRIkbbKvEwqyDbO"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "SEXY NUKIM (feat. RM of BTS)",
         "url": "https://open.spotify.com/album/7osIz9TFdxYQAm4fgakanT"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 229937,
       "name": "SEXY NUKIM (feat. RM of BTS)",
       "url": "https://open.spotify.com/track/1XkMxUilV0E3ChDERZJUEq"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "Hands up, Yo!",
+        "url": "https://open.spotify.com/album/47ImUBAiFpTzsD7hHHsucf"
+      },
+      "artists": [
+        {
+          "name": "NEXZ",
+          "url": "https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Hands up, Yo!",
+      "url": "https://open.spotify.com/track/46AUBRiFRIkbbKvEwqyDbO"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "Show Me The Money 12 Semi Final",
-        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
-      },
-      "artists": [
-        {
-          "name": "Raf Sandou",
-          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
-        },
-        {
-          "name": "WOODZ",
-          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "PAJAMA (Feat. WOODZ) (Prod. by ZICO, Crush)",
-      "url": "https://open.spotify.com/track/3DNvKQeuZNaLxcStAhMasl"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "Follow",
         "url": "https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ"
       },
@@ -1771,6 +1751,26 @@
       "duration_ms": 221220,
       "name": "Follow",
       "url": "https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "Raf Sandou",
+          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
+        },
+        {
+          "name": "WOODZ",
+          "url": "https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "PAJAMA (Feat. WOODZ) (Prod. by ZICO, Crush)",
+      "url": "https://open.spotify.com/track/3DNvKQeuZNaLxcStAhMasl"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1847,6 +1847,26 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "OSUN",
+          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
+        },
+        {
+          "name": "BewhY",
+          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
+        }
+      ],
+      "duration_ms": 306477,
+      "name": "W.I.N. (Feat. BewhY) (Prod. by GRAY)",
+      "url": "https://open.spotify.com/track/04yT8FjRwt4LeN7mw4ymyI"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
         "name": "LLLM",
         "url": "https://open.spotify.com/album/1sBJdYVwKXuD7xlKmcNkZm"
       },
@@ -1867,26 +1887,6 @@
       "duration_ms": 225610,
       "name": "LLLM (feat. Gaeko, ZICO) [prod. Tray B]",
       "url": "https://open.spotify.com/track/1RjqIbA7XR1ISRWXpIUpng"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
-        "name": "Show Me The Money 12 Semi Final",
-        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
-      },
-      "artists": [
-        {
-          "name": "OSUN",
-          "url": "https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb"
-        },
-        {
-          "name": "BewhY",
-          "url": "https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K"
-        }
-      ],
-      "duration_ms": 306477,
-      "name": "W.I.N. (Feat. BewhY) (Prod. by GRAY)",
-      "url": "https://open.spotify.com/track/04yT8FjRwt4LeN7mw4ymyI"
     },
     {
       "added_at": "2026-06-29 08:20:19",

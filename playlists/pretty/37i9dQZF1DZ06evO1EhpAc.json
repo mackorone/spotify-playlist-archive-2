@@ -1,12 +1,12 @@
 {
   "description": "This is Yaeji. The essential tracks, all in one playlist.",
-  "num_followers": 9709,
+  "num_followers": 9711,
   "original_name": "This Is Yaeji",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAAidHUnZ0KG5YGNWw80tBDt",
+  "snapshot_id": "akhNAAAAAADzALWnto6GSu+0BS/snWRI",
   "tracks": [
     {
       "added_at": null,
@@ -446,15 +446,11 @@
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "Nourished by Time",
-          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
         }
       ],
-      "duration_ms": 239080,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/6D0yO8i46nW7qn8mDxsKTJ"
+      "duration_ms": 172613,
+      "name": "Done (Let's Get It)",
+      "url": "https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I"
     },
     {
       "added_at": null,
@@ -526,11 +522,15 @@
         {
           "name": "Yaeji",
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Nourished by Time",
+          "url": "https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g"
         }
       ],
-      "duration_ms": 172613,
-      "name": "Done (Let's Get It)",
-      "url": "https://open.spotify.com/track/6kmrQVMDgQGKU7zW460x3I"
+      "duration_ms": 239080,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/6D0yO8i46nW7qn8mDxsKTJ"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 122600,
-      "name": "I'll Remember For Me, I'll Remember For You",
-      "url": "https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS"
+      "duration_ms": 243173,
+      "name": "Passed Me By",
+      "url": "https://open.spotify.com/track/57dUowZzkeMGBLLrfxeqcb"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 243173,
-      "name": "Passed Me By",
-      "url": "https://open.spotify.com/track/57dUowZzkeMGBLLrfxeqcb"
+      "duration_ms": 122600,
+      "name": "I'll Remember For Me, I'll Remember For You",
+      "url": "https://open.spotify.com/track/4TQTxlRQkVkQAtRkZvtlSS"
     },
     {
       "added_at": null,

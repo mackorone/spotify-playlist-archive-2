@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-202 songs - 11 hr 51 min
+204 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,8 @@
 | [Lips as Cold as Diamond](https://open.spotify.com/track/6upK1XPCPnq0uO6hyLA0yE) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:42 | 2022-11-13 | 2022-11-19 |
 | [Little Bit](https://open.spotify.com/track/0zC6UhoAauAwCJ4vaEtcA9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/3j4gz6gqIxtKaW0NHAOZwc) | 4:06 | 2025-01-30 | 2026-06-04 |
 | [Little Bit](https://open.spotify.com/track/3sLdMFrezce5J3vwH3yVYK) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Little Bit](https://open.spotify.com/album/6FcCMcEt2qmaHtkZaJuWEh) | 4:06 | 2024-12-06 | 2025-01-30 |
-| [Little Bit](https://open.spotify.com/track/7vxVuZHTMVid7uj4t3pDYq) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2) | 4:06 | 2026-06-04 |  |
+| [Little Bit](https://open.spotify.com/track/7pSWWuXmp8oczjUqZPq5Td) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/7G0BrdROBgIMcEbYyelQ71) | 4:06 | 2026-07-06 |  |
+| [Little Bit](https://open.spotify.com/track/7vxVuZHTMVid7uj4t3pDYq) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2) | 4:06 | 2026-06-04 | 2026-07-06 |
 | [Look Away](https://open.spotify.com/track/3Fs7ryKbs2I90v1BCYWet0) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 3:24 | 2022-08-05 | 2023-06-19 |
 | [Look Away](https://open.spotify.com/track/3jDyuGn0phTE1pqNrBXRek) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/3kC3LH2q08aJxTBqDUIhCi) | 3:24 | 2023-06-18 | 2026-02-05 |
 | [Look Away](https://open.spotify.com/track/6AWlFTa6XGzIEaElHohT1V) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz) | 3:24 | 2023-06-28 |  |
@@ -177,8 +178,9 @@
 | [Southern Comfort \- Acoustic](https://open.spotify.com/track/5OBOCcThLq02lhY0KnkHAj) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [An Acoustic Companion](https://open.spotify.com/album/4xY9iSCmjCYFeMkBbfuaiV) | 3:03 | 2023-11-10 | 2024-01-05 |
 | [Stackin’ Bones](https://open.spotify.com/track/2cZhG6PNPa2Ykh9xsoAcHw) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Hardware](https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd) | 3:16 | 2023-11-10 |  |
 | [Strangler Fig](https://open.spotify.com/track/5vdC6qqu1I9CFvp8pJ7X8C) | [Blair Dunlop](https://open.spotify.com/artist/7n6bYneSU1ygSj0CevdvTD), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Killing Time](https://open.spotify.com/album/5ZQXwmQwqasO0qWa7yIO1R) | 1:51 | 2023-04-17 | 2025-12-12 |
+| [Strike Gold](https://open.spotify.com/track/2UoWUJqjSIxd8ApSPiSEt6) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/51EGDIsgtmTZYxZWCn5z0R) | 3:20 | 2026-07-06 |  |
 | [Strike Gold](https://open.spotify.com/track/3eFCcD8aZJIc2wRmJm6Vyx) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Strike Gold](https://open.spotify.com/album/5YPy3q0MV7e5fJHFYNutjV) | 3:20 | 2022-10-09 | 2023-02-16 |
-| [Strike Gold](https://open.spotify.com/track/4vuqP2NPI5QaxvBJll1kCO) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:20 | 2023-02-15 |  |
+| [Strike Gold](https://open.spotify.com/track/4vuqP2NPI5QaxvBJll1kCO) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:20 | 2023-02-15 | 2026-07-06 |
 | [Strike Gold](https://open.spotify.com/track/7AZTHka2MiNr13j68b0Qun) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:20 | 2023-03-29 | 2026-06-01 |
 | [Strike Up The Band \(feat\. Larkin Poe\)](https://open.spotify.com/track/510rMwLDrh18RtY92EEyUH) | [Little Feat](https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Strike Up The Band](https://open.spotify.com/album/1o6Iyj8lMmPtiaR6XFsjq6) | 5:39 | 2025-05-11 | 2026-05-08 |
 | [String Theory](https://open.spotify.com/track/2ZtOqWd72Bt9hOlSvkiKjI) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Look Up](https://open.spotify.com/album/0MdReiUZQM3xFZ1RvBKgrt) | 3:37 | 2025-01-12 | 2026-07-02 |

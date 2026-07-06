@@ -1,6 +1,6 @@
 {
   "description": "#SadCuhHour gems \ud83e\udd40\ud83e\udd79",
-  "num_followers": 339282,
+  "num_followers": 339353,
   "original_name": "#SadCuhHours \ud83d\udc94",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "Da\u00f1ado",
-        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 234613,
-      "name": "J.",
-      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "DEV, Vol. 2",
         "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 189408,
       "name": "Ya Acabo",
       "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "Da\u00f1ado",
+        "url": "https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 234613,
+      "name": "J.",
+      "url": "https://open.spotify.com/track/4lUsBLTAiufWocWtg4H0my"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -483,22 +483,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "GAD (Deluxe Version)",
-        "url": "https://open.spotify.com/album/61dJopYwZvwNuEIu3My9U7"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 219615,
-      "name": "PINK",
-      "url": "https://open.spotify.com/track/5zBI5TXKUCK9LSBY5Fou2G"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "Flores",
         "url": "https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 150413,
       "name": "Recuerda",
       "url": "https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "GAD (Deluxe Version)",
+        "url": "https://open.spotify.com/album/61dJopYwZvwNuEIu3My9U7"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 219615,
+      "name": "PINK",
+      "url": "https://open.spotify.com/track/5zBI5TXKUCK9LSBY5Fou2G"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -567,26 +567,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 201993,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "Te Perdonar\u00eda",
         "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 156379,
       "name": "Te Perdonar\u00eda",
       "url": "https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4cd4QB02mwPtiTOJBzQmWo"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 201993,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/5RcxRGvmYai7kpFSfxe5GY"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "Sin Fin",
-        "url": "https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk"
-      },
-      "artists": [
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        }
-      ],
-      "duration_ms": 172157,
-      "name": "Sin Fin",
-      "url": "https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "Bye",
         "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 212976,
       "name": "Bye",
       "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "Sin Fin",
+        "url": "https://open.spotify.com/album/2PKNhsplra6ZyTiTcbdkhk"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "duration_ms": 172157,
+      "name": "Sin Fin",
+      "url": "https://open.spotify.com/track/59VTLzopXYTn3WM1osrdKY"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -795,18 +795,22 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "Adue\u00f1arme",
-        "url": "https://open.spotify.com/album/1gaP3AXTMB6E5svNhFP7tF"
+        "name": "Est\u00e1 Noche",
+        "url": "https://open.spotify.com/album/2vR2wBrb5I4UKOVyMxxVz8"
       },
       "artists": [
         {
           "name": "Nivel",
           "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        },
+        {
+          "name": "Jos\u00e9 Mej\u00eda",
+          "url": "https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve"
         }
       ],
-      "duration_ms": 183762,
-      "name": "Adue\u00f1arme",
-      "url": "https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN"
+      "duration_ms": 124267,
+      "name": "Est\u00e1 Noche",
+      "url": "https://open.spotify.com/track/6uOMIOljAGYvk0pVMpYxFI"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -883,22 +887,18 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "Est\u00e1 Noche",
-        "url": "https://open.spotify.com/album/2vR2wBrb5I4UKOVyMxxVz8"
+        "name": "Adue\u00f1arme",
+        "url": "https://open.spotify.com/album/1gaP3AXTMB6E5svNhFP7tF"
       },
       "artists": [
         {
           "name": "Nivel",
           "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        },
-        {
-          "name": "Jos\u00e9 Mej\u00eda",
-          "url": "https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve"
         }
       ],
-      "duration_ms": 124267,
-      "name": "Est\u00e1 Noche",
-      "url": "https://open.spotify.com/track/6uOMIOljAGYvk0pVMpYxFI"
+      "duration_ms": 183762,
+      "name": "Adue\u00f1arme",
+      "url": "https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -1027,38 +1027,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "La \u00daltima Cena",
-        "url": "https://open.spotify.com/album/3mbcRvQ37IVTUnFRVPwvAq"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 191850,
-      "name": "La \u00daltima Cena",
-      "url": "https://open.spotify.com/track/1RIMcxAYKCbg3xYvsW7Idt"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 189750,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "Dame Amor (Remix)",
         "url": "https://open.spotify.com/album/5jeAHqUbXmNPkgALTXex3a"
       },
@@ -1079,6 +1047,22 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 189750,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
         "name": "PROYECTANDO",
         "url": "https://open.spotify.com/album/3ojnQILwWc6ohZQVxtETHI"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 167946,
       "name": "replica.",
       "url": "https://open.spotify.com/track/5Bae75jc8KHMTatYOqnoTR"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "La \u00daltima Cena",
+        "url": "https://open.spotify.com/album/3mbcRvQ37IVTUnFRVPwvAq"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "duration_ms": 191850,
+      "name": "La \u00daltima Cena",
+      "url": "https://open.spotify.com/track/1RIMcxAYKCbg3xYvsW7Idt"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -1151,8 +1151,8 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "Tu Forma De Ser",
-        "url": "https://open.spotify.com/album/5Sv5NVXo059Wwim69ipap2"
+        "name": "Vision",
+        "url": "https://open.spotify.com/album/3CVObq7AFkpwOkwdhJYJQo"
       },
       "artists": [
         {
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Tu Forma De Ser",
-      "url": "https://open.spotify.com/track/1y37LxehbizxpfjqE6dbFC"
+      "duration_ms": 185016,
+      "name": "MALIBU",
+      "url": "https://open.spotify.com/track/04lV85JVGnjC2cRtDIthqx"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -1235,8 +1235,8 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "Vision",
-        "url": "https://open.spotify.com/album/3CVObq7AFkpwOkwdhJYJQo"
+        "name": "Tu Forma De Ser",
+        "url": "https://open.spotify.com/album/5Sv5NVXo059Wwim69ipap2"
       },
       "artists": [
         {
@@ -1244,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ"
         }
       ],
-      "duration_ms": 185016,
-      "name": "MALIBU",
-      "url": "https://open.spotify.com/track/04lV85JVGnjC2cRtDIthqx"
+      "duration_ms": 187000,
+      "name": "Tu Forma De Ser",
+      "url": "https://open.spotify.com/track/1y37LxehbizxpfjqE6dbFC"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "Botella Tras Botella",
-        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
-      },
-      "artists": [
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Botella Tras Botella",
-      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "Todo A Su Tiempo",
         "url": "https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 217770,
       "name": "Todo A Su Tiempo",
       "url": "https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "Botella Tras Botella",
+        "url": "https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB"
+      },
+      "artists": [
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Botella Tras Botella",
+      "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/64AKuMd5pjsKwBtvWeEhx4"
-      },
-      "artists": [
-        {
-          "name": "Kane Rodriguez",
-          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
-        }
-      ],
-      "duration_ms": 160341,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/2beqL6C5zRet6fXvSXhXPz"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
         "name": "Ya Te Super\u00e9 (En Vivo)",
         "url": "https://open.spotify.com/album/1y7zuiizOUv2VND95gmnvt"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 185173,
       "name": "Ya Te Super\u00e9 - En Vivo",
       "url": "https://open.spotify.com/track/1vKOJXwfM5oJ8JmyuSmhKk"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/64AKuMd5pjsKwBtvWeEhx4"
+      },
+      "artists": [
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "duration_ms": 160341,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/2beqL6C5zRet6fXvSXhXPz"
     },
     {
       "added_at": "2026-07-01 22:36:45",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-07-01 22:36:45",
       "album": {
+        "name": "Verbo",
+        "url": "https://open.spotify.com/album/69wDGyvBsPJX6pd9miTEXp"
+      },
+      "artists": [
+        {
+          "name": "Fabio Capri",
+          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
+        }
+      ],
+      "duration_ms": 168631,
+      "name": "Verbo",
+      "url": "https://open.spotify.com/track/6THdoQ84J4S3JArCVfLMmj"
+    },
+    {
+      "added_at": "2026-07-01 22:36:45",
+      "album": {
         "name": "Tu Nueva Etapa",
         "url": "https://open.spotify.com/album/5wN5T8lbSVU6Y1CBZMNid1"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 175560,
       "name": "Tu Nueva Etapa",
       "url": "https://open.spotify.com/track/4qesrlnBKu1ZTSiJImSHzS"
-    },
-    {
-      "added_at": "2026-07-01 22:36:45",
-      "album": {
-        "name": "Verbo",
-        "url": "https://open.spotify.com/album/69wDGyvBsPJX6pd9miTEXp"
-      },
-      "artists": [
-        {
-          "name": "Fabio Capri",
-          "url": "https://open.spotify.com/artist/1SvS3C2cttLfpWzIIQiPAq"
-        }
-      ],
-      "duration_ms": 168631,
-      "name": "Verbo",
-      "url": "https://open.spotify.com/track/6THdoQ84J4S3JArCVfLMmj"
     },
     {
       "added_at": "2026-07-01 22:36:45",

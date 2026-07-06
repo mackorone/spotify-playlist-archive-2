@@ -1,12 +1,12 @@
 {
   "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 133906,
+  "num_followers": 133931,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAABxMaXQdpNtb3Voi2+LSFd7",
+  "snapshot_id": "akhNAAAAAAARIg+21QAvyl8rNdoUYsgH",
   "tracks": [
     {
       "added_at": null,
@@ -226,15 +226,11 @@
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Branbel",
-          "url": "https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS"
         }
       ],
-      "duration_ms": 214035,
-      "name": "Al Lado De Usted",
-      "url": "https://open.spotify.com/track/0lsP1iCoXTbXiEGYhmdtnz"
+      "duration_ms": 128487,
+      "name": "Quiero +",
+      "url": "https://open.spotify.com/track/49GptCQl6sSWJp5W8gumTv"
     },
     {
       "added_at": null,
@@ -310,11 +306,15 @@
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Branbel",
+          "url": "https://open.spotify.com/artist/1VmUUb7wBfRQKnq1hgVaGS"
         }
       ],
-      "duration_ms": 128487,
-      "name": "Quiero +",
-      "url": "https://open.spotify.com/track/49GptCQl6sSWJp5W8gumTv"
+      "duration_ms": 214035,
+      "name": "Al Lado De Usted",
+      "url": "https://open.spotify.com/track/0lsP1iCoXTbXiEGYhmdtnz"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "YELIANA-Cap.3-ZHA",
-        "url": "https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 140906,
-      "name": "YELIANA - Cap. 3 - ZHA",
-      "url": "https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Tu Amor No Vuelve",
         "url": "https://open.spotify.com/album/4yPrBID40hUMocphha5lr7"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 201040,
       "name": "Si Tu Amor No Vuelve",
       "url": "https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YELIANA-Cap.3-ZHA",
+        "url": "https://open.spotify.com/album/36vkQCUHA1y3qvjzsmqw5H"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 140906,
+      "name": "YELIANA - Cap. 3 - ZHA",
+      "url": "https://open.spotify.com/track/0sE9TAChRS7zah4yhp5KJW"
     },
     {
       "added_at": null,

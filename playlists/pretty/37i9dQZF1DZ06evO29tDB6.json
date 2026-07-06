@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 145625,
+  "num_followers": 145658,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAABbxujU3SyjlPPlaz6X2HUc",
+  "snapshot_id": "akhNAAAAAAAeoMqi2g7zSwwbeCY76uqB",
   "tracks": [
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 363146,
-      "name": "Chavo de onda - Live",
-      "url": "https://open.spotify.com/track/7haAS6bTEJHz5at86CAG9g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triste Canci\u00f3n",
         "url": "https://open.spotify.com/album/4r9CNUedkwlMyy5taK7HN1"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 215866,
       "name": "Triste Canci\u00f3n",
       "url": "https://open.spotify.com/track/0D3BtbSUocYBsqK2UiXzYA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 363146,
+      "name": "Chavo de onda - Live",
+      "url": "https://open.spotify.com/track/7haAS6bTEJHz5at86CAG9g"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hecho en M\u00e9xico",
+        "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 129266,
+      "name": "Hasta que el cuerpo aguante",
+      "url": "https://open.spotify.com/track/0KCzMpVMHbNASNzegF5miF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hard to Handle",
         "url": "https://open.spotify.com/album/1Yo2UcThBF6NFySQAWrJSX"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 190632,
       "name": "Hard to Handle",
       "url": "https://open.spotify.com/track/2c6xK3rRQQT95DaTnjQYCF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hecho en M\u00e9xico",
-        "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 129266,
-      "name": "Hasta que el cuerpo aguante",
-      "url": "https://open.spotify.com/track/0KCzMpVMHbNASNzegF5miF"
     },
     {
       "added_at": null,

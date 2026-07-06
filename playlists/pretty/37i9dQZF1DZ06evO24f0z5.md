@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 
 > This is Zona Ganjah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,083 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,089 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 | 49 | [Luces de la ciudad](https://open.spotify.com/track/2csEH050WHJQM6qXSxBlff) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari todo concuerda](https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif) | 3:18 |
 | 50 | [Amar es mas](https://open.spotify.com/track/1BUW2OuuqNSUSphIKVxHNu) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz) | 5:17 |
 
-Snapshot ID: `akb7gAAAAAC107eUHBA43av/cGa6b+ZQ`
+Snapshot ID: `akhNAAAAAADK+370lX3b9BpOR9p34KvQ`

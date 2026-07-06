@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 💜 mille 💜 DU MÅ IK GÅ
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,404 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,399 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 59 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 |
 | 60 | [Bonjour, Pardon, Merci](https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Bonjour, Pardon, Merci](https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ) | 3:10 |
 | 61 | [My Sins Are My Savior \(feat\. Stromae\)](https://open.spotify.com/track/2SXgbw7BqFxpAQ2skCTxkk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 3:20 |
-| 62 | [MONOPOL](https://open.spotify.com/track/5PiGv8hVPY2aIWvGhUlWLJ) | [INDIGO TRIBE](https://open.spotify.com/artist/43Xs9JZIHsA1zrks75WqfG), [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [IT, Vol\. 1: BRUS](https://open.spotify.com/album/0OKxVuRnZh2Oo1sM12rzJv) | 2:25 |
+| 62 | [MONOPOL](https://open.spotify.com/track/5PiGv8hVPY2aIWvGhUlWLJ) | [INDIGO TRIBE](https://open.spotify.com/artist/43Xs9JZIHsA1zrks75WqfG), [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [VOL\. I: BRUS](https://open.spotify.com/album/0OKxVuRnZh2Oo1sM12rzJv) | 2:25 |
 | 63 | [Noen pappaer er flinkere enn andre](https://open.spotify.com/track/2MA5AGRNdQkLF7a1KfIHbR) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Noen pappaer er flinkere enn andre](https://open.spotify.com/album/2Hhc2PevFikcOWqACiTxzk) | 2:55 |
 | 64 | [Sweet July](https://open.spotify.com/track/4HtJMfSYfpvCgYTudNH4ry) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Sweet July](https://open.spotify.com/album/29QH5L670D93DWN1AL2Z0B) | 2:23 |
 | 65 | [Organic Motion](https://open.spotify.com/track/0YJuBcj5bl9HGqMOBnthHC) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Organic Motion](https://open.spotify.com/album/5SdeOFSHrOBR6LikAiD7rU) | 2:35 |

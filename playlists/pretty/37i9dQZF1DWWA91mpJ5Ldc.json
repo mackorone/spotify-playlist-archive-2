@@ -1,6 +1,6 @@
 {
   "description": "'t\u00e1 na rua? traz salsinha?' (eternamente)",
-  "num_followers": 137372,
+  "num_followers": 137369,
   "original_name": "Cozinhando a Ceia",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Para Dias Ruins",
-        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 190387,
-      "name": "Qual \u00c9 A Sua?",
-      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Condom Black",
         "url": "https://open.spotify.com/album/79PfK4UpwBYNTmfb3OQEas"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 342160,
       "name": "Dias de Janeiro",
       "url": "https://open.spotify.com/track/05m3Pl8gI9JiySe6IoISa5"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Para Dias Ruins",
+        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 190387,
+      "name": "Qual \u00c9 A Sua?",
+      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -911,26 +911,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Acalanto",
-        "url": "https://open.spotify.com/album/0vfEOSIgEL5tGirjQmpzQz"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "Dj Nyack",
-          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
-        }
-      ],
-      "duration_ms": 268685,
-      "name": "Acalanto",
-      "url": "https://open.spotify.com/track/1TkWCfVoxYqGY5umsKFT0n"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "A Dan\u00e7a do Mundo",
         "url": "https://open.spotify.com/album/0uMHpVW9LO4OL6b6ZHbhgE"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 256888,
       "name": "Ainda \u00c9 Tempo pra Ser Feliz",
       "url": "https://open.spotify.com/track/08hIFSxQLvmSCwgECBLLBv"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Acalanto",
+        "url": "https://open.spotify.com/album/0vfEOSIgEL5tGirjQmpzQz"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Dj Nyack",
+          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
+        }
+      ],
+      "duration_ms": 268685,
+      "name": "Acalanto",
+      "url": "https://open.spotify.com/track/1TkWCfVoxYqGY5umsKFT0n"
     },
     {
       "added_at": "2025-12-05 19:00:22",

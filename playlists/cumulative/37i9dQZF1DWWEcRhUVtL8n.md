@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Quiet Houses
 
-2,460 songs - 5 day 11 hr 4 min
+2,461 songs - 5 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -699,6 +699,7 @@
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-03-15 | 2026-01-17 |
 | [End Of Summer](https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [End Of Summer](https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj) | 7:12 | 2025-07-25 | 2026-02-07 |
 | [End Of The World](https://open.spotify.com/track/08CQNIi20pWkYtp2Cd4t3o) | [Dana Williams](https://open.spotify.com/artist/4rljPSpCHQzUJMNOvmw1DL) | [End Of The World](https://open.spotify.com/album/7K6WpKqY0jElSM2DWvrixK) | 3:12 | 2022-01-28 | 2022-06-07 |
+| [Endless Sundays](https://open.spotify.com/track/6r91l350cidymaEMcKceGc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Endless Sundays](https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks) | 4:08 | 2026-07-03 |  |
 | [Enemies](https://open.spotify.com/track/2Bimy7oqYf7EdOmkbx9gxU) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66) | [Closure & Campari](https://open.spotify.com/album/2cgw16MK8NwNARtKdCX8TY) | 3:22 | 2021-10-11 | 2021-11-28 |
 | [Energizer](https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Energizer](https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs) | 2:31 | 2026-06-19 |  |
 | [enknee1](https://open.spotify.com/track/69RiJ3z34tsKkRjeVSjdvL) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [enknee1](https://open.spotify.com/album/6JiMKfzT4R5xfT2yXZ1pci) | 3:44 | 2023-08-25 | 2023-09-30 |
@@ -1323,7 +1324,7 @@
 | [Loser](https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Loser](https://open.spotify.com/album/3xIGAElZCxV44QtMvXrPMa) | 3:43 | 2025-09-05 | 2026-02-07 |
 | [Losing You](https://open.spotify.com/track/1RV0XIw3iSYmlBOwrhJC6D) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [Losing You](https://open.spotify.com/album/1TMwi1RyeTfgQyUH05CrmZ) | 2:42 | 2024-02-16 | 2024-02-29 |
 | [Losing You](https://open.spotify.com/track/00zlgHUZDIixDNBRE4r4lK) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Losing You](https://open.spotify.com/album/1JtdjMrrJTW1wC4r8olF1t) | 3:02 | 2023-08-18 | 2023-09-30 |
-| [Lost and Found](https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Ready](https://open.spotify.com/album/1e50AHM2FkCz5SLww9qFzT) | 2:52 | 2026-05-01 |  |
+| [Lost and Found](https://open.spotify.com/track/0SYktSP2XOX3OipKS9W5vJ) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Ready](https://open.spotify.com/album/1e50AHM2FkCz5SLww9qFzT) | 2:52 | 2026-05-01 | 2026-07-06 |
 | [Lost Angeles](https://open.spotify.com/track/3AqGCyuUQuzcRqTMMetjqP) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Lost Angeles](https://open.spotify.com/album/47m4v1Gj5pvcylJlBkWLpJ) | 3:11 | 2020-10-20 | 2020-10-21 |
 | [LOST CONTROL](https://open.spotify.com/track/4apL2Bd2RIMXj94M8dEJHj) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 2:48 | 2022-09-16 | 2022-10-08 |
 | [Lost In Love](https://open.spotify.com/track/3ZeR4nO0QmiIP8DlNYz4wm) | [Jany Green](https://open.spotify.com/artist/1Qg99NvQcJaAMmmDl6nPRv) | [Lost In Love](https://open.spotify.com/album/5wptCIda7QwzdcJ0sZhdWX) | 2:10 | 2021-05-03 | 2021-10-09 |

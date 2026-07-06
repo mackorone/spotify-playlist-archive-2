@@ -1,6 +1,6 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 1642808,
+  "num_followers": 1643014,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-06-11 16:08:55",
       "album": {
+        "name": "3 am walk",
+        "url": "https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT"
+      },
+      "artists": [
+        {
+          "name": "daniel.mp3",
+          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
+        }
+      ],
+      "duration_ms": 199043,
+      "name": "3 am walk - Slowed & Reverb Version",
+      "url": "https://open.spotify.com/track/1miBMMwRKSCL6RItKHbXuR"
+    },
+    {
+      "added_at": "2026-06-11 16:08:55",
+      "album": {
         "name": "HEAVENLY JUMPSTYLE",
         "url": "https://open.spotify.com/album/6Mh8tamHejeSdNYR7p3GFl"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 128477,
       "name": "HEAVENLY JUMPSTYLE - Slowed",
       "url": "https://open.spotify.com/track/2L13lNCrUn7djHt6XdE19l"
-    },
-    {
-      "added_at": "2026-06-11 16:08:55",
-      "album": {
-        "name": "3 am walk",
-        "url": "https://open.spotify.com/album/3sSvAReP5cObFgTj4NRYcT"
-      },
-      "artists": [
-        {
-          "name": "daniel.mp3",
-          "url": "https://open.spotify.com/artist/5OE8eZn0x45cNNc8GCpvmC"
-        }
-      ],
-      "duration_ms": 199043,
-      "name": "3 am walk - Slowed & Reverb Version",
-      "url": "https://open.spotify.com/track/1miBMMwRKSCL6RItKHbXuR"
     },
     {
       "added_at": "2026-06-11 16:08:55",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-06-11 16:08:55",
       "album": {
+        "name": "Call Me (Slowed)",
+        "url": "https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N"
+      },
+      "artists": [
+        {
+          "name": "plenka",
+          "url": "https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Call Me - Slowed",
+      "url": "https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V"
+    },
+    {
+      "added_at": "2026-06-11 16:08:55",
+      "album": {
         "name": "Memory Reboot",
         "url": "https://open.spotify.com/album/38leU2pvDRxNx2u59BENZb"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 236307,
       "name": "Memory Reboot - Slowed",
       "url": "https://open.spotify.com/track/7Ev52ukrs7XGyY6q6U3JUJ"
-    },
-    {
-      "added_at": "2026-06-11 16:08:55",
-      "album": {
-        "name": "Call Me (Slowed)",
-        "url": "https://open.spotify.com/album/3krinBrIqu08BHXlrWX88N"
-      },
-      "artists": [
-        {
-          "name": "plenka",
-          "url": "https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Call Me - Slowed",
-      "url": "https://open.spotify.com/track/0TvHrcLqLrQxAmT8ILd21V"
     },
     {
       "added_at": "2026-06-11 16:08:55",

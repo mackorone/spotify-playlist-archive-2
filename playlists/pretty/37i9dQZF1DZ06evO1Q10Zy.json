@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 38902,
+  "num_followers": 38909,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAADWD45X2hmJ16NHw80IHt45",
+  "snapshot_id": "akhNAAAAAADbMcqJMKTRtdZjBkxCwZX2",
   "tracks": [
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Face 2 Face",
+        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "What If - Urban Mix",
+      "url": "https://open.spotify.com/track/4AFhkn04YASMuvUxVMJKmW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lips On Lips",
         "url": "https://open.spotify.com/album/3c6tkZqDVzUq6HEyn0Klhl"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 226926,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/3sIbXHStayfEMhIrLgsJs2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Face 2 Face",
-        "url": "https://open.spotify.com/album/31EfLOgVsfPS4oZGBVlLRB"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "What If - Urban Mix",
-      "url": "https://open.spotify.com/track/4AFhkn04YASMuvUxVMJKmW"
     },
     {
       "added_at": null,
@@ -875,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/74OF6f8hif6ZNLAh1JxRvF"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 249560,
+      "name": "I Love You Babe",
+      "url": "https://open.spotify.com/track/64hQ8WQCdVuilwwIbyPuPn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 195097,
       "name": "Seamless (with Kehlani)",
       "url": "https://open.spotify.com/track/6KSlgWFkrNu4r1z0GxZvyB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lovers",
-        "url": "https://open.spotify.com/album/74OF6f8hif6ZNLAh1JxRvF"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 249560,
-      "name": "I Love You Babe",
-      "url": "https://open.spotify.com/track/64hQ8WQCdVuilwwIbyPuPn"
     },
     {
       "added_at": null,

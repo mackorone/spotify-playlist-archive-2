@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Lina\-Mariah
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,237 likes - 99 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,223 likes - 99 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 46 | [Evolution](https://open.spotify.com/track/2vpO3zMJ82SxEY1MzjNNrp) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Evolution](https://open.spotify.com/album/10reOzyrRiJQehulKminkn) | 3:45 |
 | 47 | [Falling out of Love](https://open.spotify.com/track/4ZxlsIHhSxQkbwKTZ76xu0) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Falling out of Love](https://open.spotify.com/album/6VokQYFXJb6vXJJfWtdsQJ) | 6:21 |
 | 48 | [Au Pays du Cocaine](https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT) | [Geese](https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4) | [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC) | 3:30 |
-| 49 | [Cicada](https://open.spotify.com/track/6BlEdTeWLngROHBvh1rWaJ) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Cicada](https://open.spotify.com/album/1ThsXj0KW5WpOAu7MLyZRc) | 2:46 |
-| 50 | [Paradise](https://open.spotify.com/track/0tbAUZAHXDemjIRZoKtWiD) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V), [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Paradise](https://open.spotify.com/album/4ixCpPB7DbIoThOljd0xHo) | 3:17 |
+| 49 | [Paradise](https://open.spotify.com/track/0tbAUZAHXDemjIRZoKtWiD) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V), [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Paradise](https://open.spotify.com/album/4ixCpPB7DbIoThOljd0xHo) | 3:17 |
+| 50 | [Cicada](https://open.spotify.com/track/6BlEdTeWLngROHBvh1rWaJ) | [Good Kid](https://open.spotify.com/artist/38SKxCyfrmNWqWunb9wGHP) | [Cicada](https://open.spotify.com/album/1ThsXj0KW5WpOAu7MLyZRc) | 2:46 |
 | 51 | [skinny dip](https://open.spotify.com/track/3GR1J0gHGBN4jX2auDDE2j) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [skinny dip](https://open.spotify.com/album/0vaVjzaKrZtdBVJdAJk2jn) | 3:12 |
 | 52 | [Reward the Scars](https://open.spotify.com/track/4oZFqhv200v5rOCPHfwIec) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Reward the Scars](https://open.spotify.com/album/3BXffIPyB5ihJw0Zu7uWYl) | 3:35 |
 | 53 | [Cryogen](https://open.spotify.com/track/5ITICFtTKxzcbR43ehRvsI) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Cryogen](https://open.spotify.com/album/4uW6onE6t6FUwLV9yr2E9f) | 5:01 |
@@ -72,22 +72,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 62 | [We Might as Well Be Strangers \(ft\. Wednesday\)](https://open.spotify.com/track/5cSMck5t5uWKs0VH0ORtSB) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [We Might as Well Be Strangers \(ft\. Wednesday\)](https://open.spotify.com/album/0L6BByZ7oX4EOrx1nHd2SS) | 3:34 |
 | 63 | [Kerosene](https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Kerosene](https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm) | 3:26 |
 | 64 | [Window](https://open.spotify.com/track/1N8fvq9XcxxpRdGydlSqC1) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Your Favorite Toy](https://open.spotify.com/album/5qKZaYgZJakL0qIE1kKgSJ) | 3:37 |
-| 65 | [Play Your Games](https://open.spotify.com/track/7JcDWPlzZWGrzaLaak3UG0) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Play Your Games](https://open.spotify.com/album/1lqgUoNJgAXvWSpnNWwXvh) | 3:15 |
-| 66 | [Fuck The Whole World](https://open.spotify.com/track/4Z6VhX6RFl1rT6CUbtTVkr) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Love You Madly Hate You Badly](https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt) | 2:42 |
-| 67 | [The Show](https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [The Show](https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM) | 2:47 |
-| 68 | [De Oppresso Liber](https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [De Oppresso Liber](https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ) | 4:00 |
-| 69 | [Don't Speak](https://open.spotify.com/track/2YB7LLj8xZcd4pDs0UBM6i) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Don't Speak](https://open.spotify.com/album/2IZSfxU7rU61vV5UmDcYX5) | 3:43 |
-| 70 | [Be With You](https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Be With You](https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n) | 3:35 |
-| 71 | [See Out Loud](https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [This Mirror Weighs a Ton/See Out Loud](https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl) | 4:56 |
-| 72 | [Fangs](https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Fangs](https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb) | 4:09 |
+| 65 | [De Oppresso Liber](https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [De Oppresso Liber](https://open.spotify.com/album/5WC3J1FQMd4vrA3xuWPUwQ) | 4:00 |
+| 66 | [Play Your Games](https://open.spotify.com/track/7JcDWPlzZWGrzaLaak3UG0) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Play Your Games](https://open.spotify.com/album/1lqgUoNJgAXvWSpnNWwXvh) | 3:15 |
+| 67 | [Fuck The Whole World](https://open.spotify.com/track/4Z6VhX6RFl1rT6CUbtTVkr) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Love You Madly Hate You Badly](https://open.spotify.com/album/4Ns0kKlkmOUNgEM3OHhmKt) | 2:42 |
+| 68 | [The Show](https://open.spotify.com/track/170rMcJktySvm1YG7dC7mR) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [The Show](https://open.spotify.com/album/4V5cKd0BsMNwEe6YRVGpCM) | 2:47 |
+| 69 | [See Out Loud](https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [This Mirror Weighs a Ton/See Out Loud](https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl) | 4:56 |
+| 70 | [Don't Speak](https://open.spotify.com/track/2YB7LLj8xZcd4pDs0UBM6i) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [Don't Speak](https://open.spotify.com/album/2IZSfxU7rU61vV5UmDcYX5) | 3:43 |
+| 71 | [Fangs](https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Fangs](https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb) | 4:09 |
+| 72 | [Be With You](https://open.spotify.com/track/3v1tbHo7KF5890cO0Q5jSP) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Be With You](https://open.spotify.com/album/7ycpduyGX9OwJqkuYbVP8n) | 3:35 |
 | 73 | [Bullshit](https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Bullshit](https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr) | 3:35 |
 | 74 | [My Heart](https://open.spotify.com/track/3dYn7vEq6MkqM7t8djNwID) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [My Heart](https://open.spotify.com/album/2Uvy40XpQFFxfgC9uT4yy7) | 3:30 |
-| 75 | [Ego](https://open.spotify.com/track/3slE260q9d8ZtFefQZzdVl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Ego](https://open.spotify.com/album/6pqls6IegvNFLdrVbUinvl) | 2:53 |
-| 76 | [Big Dog](https://open.spotify.com/track/1tj4Kq6N4WKmO04hlI4LzX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Big Dog](https://open.spotify.com/album/1k79RlHZDI58FbHus50Jz1) | 2:59 |
+| 75 | [Big Dog](https://open.spotify.com/track/1tj4Kq6N4WKmO04hlI4LzX) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Big Dog](https://open.spotify.com/album/1k79RlHZDI58FbHus50Jz1) | 2:59 |
+| 76 | [Ego](https://open.spotify.com/track/3slE260q9d8ZtFefQZzdVl) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Ego](https://open.spotify.com/album/6pqls6IegvNFLdrVbUinvl) | 2:53 |
 | 77 | [Better Man](https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Better Man](https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc) | 3:03 |
-| 78 | [Hanging Out To Dry](https://open.spotify.com/track/6fDEL7s2jZ8jbNqxATbmOX) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Hanging Out To Dry](https://open.spotify.com/album/1JE6lLEIEkdpzBkWeY0Qrz) | 3:32 |
-| 79 | [Who Will You Follow](https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Who Will You Follow](https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR) | 3:55 |
-| 80 | [Dogs](https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Dogs](https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC) | 4:56 |
+| 78 | [Who Will You Follow](https://open.spotify.com/track/1BDqFxvOeS9SWVnMTXPMx2) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Who Will You Follow](https://open.spotify.com/album/21kwp73XrMKnqCrI9MSzDR) | 3:55 |
+| 79 | [Dogs](https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Dogs](https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC) | 4:56 |
+| 80 | [Hanging Out To Dry](https://open.spotify.com/track/6fDEL7s2jZ8jbNqxATbmOX) | [Florence Road](https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV) | [Hanging Out To Dry](https://open.spotify.com/album/1JE6lLEIEkdpzBkWeY0Qrz) | 3:32 |
 | 81 | [Pure Ecstasy](https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Pure Ecstasy](https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3) | 3:05 |
 | 82 | [False Reaction](https://open.spotify.com/track/3TG5mHXETb6JyWzysmZ5RN) | [VIOLENT VIRA](https://open.spotify.com/artist/298H8XdYsBHii98wfAZT1S) | [False Reaction](https://open.spotify.com/album/1799QCS7eeX8JKJn0Fp7X3) | 2:46 |
 | 83 | [Sweet Hallelujah](https://open.spotify.com/track/6EoD3qpTgNtwXNqamzLCn5) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sweet Hallelujah](https://open.spotify.com/album/68nIcmHCJpK8DfX4YPWmb0) | 3:02 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 95 | [split](https://open.spotify.com/track/5Sl5nxwOOREn5pBoZyPomu) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [split](https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m) | 2:11 |
 | 96 | [Dead Man Walking](https://open.spotify.com/track/2lEQYDMTLgAjt515NG9Bh6) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Dead Man Walking](https://open.spotify.com/album/6ikKNy64oat903y40BvADC) | 3:02 |
 | 97 | [About You](https://open.spotify.com/track/3m4YAWyI7QypBz2qBUQCOO) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Dear God](https://open.spotify.com/album/3sE3S6k6OA1UXWMKQEiaDY) | 4:36 |
-| 98 | [I'll Let You Finish](https://open.spotify.com/track/4rie7uUf3XRgxK92tAMjCt) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [I'll Let You Finish](https://open.spotify.com/album/7HOR1xOpbfjfOinjMqKv2L) | 3:54 |
-| 99 | [Heresy \- Nine Inch Noize Version](https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nine Inch Noize](https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp) | 3:57 |
+| 98 | [Lucid Love](https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [⁠Lucid Love](https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH) | 3:30 |
+| 99 | [I'll Let You Finish](https://open.spotify.com/track/4rie7uUf3XRgxK92tAMjCt) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [I'll Let You Finish](https://open.spotify.com/album/7HOR1xOpbfjfOinjMqKv2L) | 3:54 |
 
 Snapshot ID: `AAAAAJrUYE1Sz8inXTNJkal5y21h26cY`

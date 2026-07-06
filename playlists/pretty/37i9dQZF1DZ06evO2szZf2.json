@@ -1,12 +1,12 @@
 {
   "description": "This is MC Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35352,
+  "num_followers": 35354,
   "original_name": "This Is MC Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAABbcEj39INhJysSva+9+UhV",
+  "snapshot_id": "akhNAAAAAABGJAnjrDBV0D0Cx5NwsthN",
   "tracks": [
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Empurra Empurra",
+        "url": "https://open.spotify.com/album/3x9iKvJRCuHIvbr2AiOUgq"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 240118,
+      "name": "Empurra Empurra",
+      "url": "https://open.spotify.com/track/2OFO6Zws6Pxo5p0J7SmkOp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vida do Crime",
         "url": "https://open.spotify.com/album/3D97mhE8FfyvJI5hhT3Tu4"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 136615,
       "name": "Vida do Crime",
       "url": "https://open.spotify.com/track/2zo4C4eJ9yjBjT34j8r156"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Empurra Empurra",
-        "url": "https://open.spotify.com/album/3x9iKvJRCuHIvbr2AiOUgq"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 240118,
-      "name": "Empurra Empurra",
-      "url": "https://open.spotify.com/track/2OFO6Zws6Pxo5p0J7SmkOp"
     },
     {
       "added_at": null,
@@ -739,30 +739,6 @@
       "duration_ms": 210520,
       "name": "Como Se T\u00e1 Maravilhosa",
       "url": "https://open.spotify.com/track/0eLCuW89pb6I3BC0NMGHFW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se o Port\u00e3o Tiver Trancado",
-        "url": "https://open.spotify.com/album/1us003huY5cKbFdB7zaLcB"
-      },
-      "artists": [
-        {
-          "name": "Rennan da Penha",
-          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
-        },
-        {
-          "name": "Mc Menor Thalis",
-          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 103105,
-      "name": "Se o Port\u00e3o Tiver Trancado",
-      "url": "https://open.spotify.com/track/56aS1NYbxpr6F6eeOs7mWA"
     },
     {
       "added_at": null,
@@ -863,6 +839,30 @@
       "duration_ms": 128199,
       "name": "De 38 Carregado",
       "url": "https://open.spotify.com/track/1MbfMhMWzAIpCTVMlfgul6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se o Port\u00e3o Tiver Trancado",
+        "url": "https://open.spotify.com/album/1us003huY5cKbFdB7zaLcB"
+      },
+      "artists": [
+        {
+          "name": "Rennan da Penha",
+          "url": "https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf"
+        },
+        {
+          "name": "Mc Menor Thalis",
+          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 103105,
+      "name": "Se o Port\u00e3o Tiver Trancado",
+      "url": "https://open.spotify.com/track/56aS1NYbxpr6F6eeOs7mWA"
     },
     {
       "added_at": null,
@@ -971,6 +971,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sentando no Pula Pula",
+        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Nem Jm",
+          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+        }
+      ],
+      "duration_ms": 174962,
+      "name": "Sentando no Pula Pula",
+      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mochila nas Costas / Empurra Empurra",
         "url": "https://open.spotify.com/album/2lbGOLA9bXoP8dGElcKBZ9"
       },
@@ -995,22 +1015,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sentando no Pula Pula",
-        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+        "name": "Casal Mandrake",
+        "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
       },
       "artists": [
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
         {
           "name": "MC Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "Mc Nem Jm",
-          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
         }
       ],
-      "duration_ms": 174962,
-      "name": "Sentando no Pula Pula",
-      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
+      "duration_ms": 139826,
+      "name": "Casal Mandrake",
+      "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
     },
     {
       "added_at": null,
@@ -1043,26 +1067,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Casal Mandrake",
-        "url": "https://open.spotify.com/album/2NeOoMEaPlPKfO41ws0TRI"
+        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
       },
       "artists": [
         {
-          "name": "MC Paulin da Capital",
-          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
         },
         {
           "name": "MC Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Dj GM",
-          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
         }
       ],
-      "duration_ms": 139826,
-      "name": "Casal Mandrake",
-      "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
+      "duration_ms": 154400,
+      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
+      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
     },
     {
       "added_at": null,
@@ -1087,26 +1107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagode do Presen\u00e7a | Made In Funk (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6bWYTB7AHxcs1EBlMcf5t8"
-      },
-      "artists": [
-        {
-          "name": "Grupo Presen\u00e7a",
-          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 154400,
-      "name": "E N\u00f3s Tem um Charme Que \u00c9 da Hora - Ao Vivo",
-      "url": "https://open.spotify.com/track/6NI87kgPXlbjdwPGPdMgHq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piseiro Tiktok 2.0 #Viral",
         "url": "https://open.spotify.com/album/3UC2qKHaqpM0Hq5Q6UvM86"
       },
@@ -1123,6 +1123,30 @@
       "duration_ms": 157933,
       "name": "S\u00f3 Colocadinha",
       "url": "https://open.spotify.com/track/3xBtiampAoM5x457TcHl9U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eu N\u00e3o Sou Dif\u00edcil",
+        "url": "https://open.spotify.com/album/6jp08LLT5XnQtHDFI69J6f"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "LeoZera",
+          "url": "https://open.spotify.com/artist/54x7oKoInjIgCDHUkgyPtu"
+        },
+        {
+          "name": "DJ Guih Da ZO",
+          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+        }
+      ],
+      "duration_ms": 131081,
+      "name": "Eu N\u00e3o Sou Dif\u00edcil",
+      "url": "https://open.spotify.com/track/688RlI3w1TOy4Ib1oZNOw8"
     },
     {
       "added_at": null,
@@ -1179,8 +1203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu N\u00e3o Sou Dif\u00edcil",
-        "url": "https://open.spotify.com/album/6jp08LLT5XnQtHDFI69J6f"
+        "name": "Como Acredito No Amor",
+        "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
       },
       "artists": [
         {
@@ -1188,37 +1212,13 @@
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         },
         {
-          "name": "LeoZera",
-          "url": "https://open.spotify.com/artist/54x7oKoInjIgCDHUkgyPtu"
-        },
-        {
-          "name": "DJ Guih Da ZO",
-          "url": "https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx"
+          "name": "DJBHBHDJ",
+          "url": "https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0"
         }
       ],
-      "duration_ms": 131081,
-      "name": "Eu N\u00e3o Sou Dif\u00edcil",
-      "url": "https://open.spotify.com/track/688RlI3w1TOy4Ib1oZNOw8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PO2054AZ (Vol.II)",
-        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
-      },
-      "artists": [
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "Llorando x 1",
-      "url": "https://open.spotify.com/track/4XZSHgnPpVIqGyYUUzqlYw"
+      "duration_ms": 103384,
+      "name": "Como Acredito No Amor",
+      "url": "https://open.spotify.com/track/1uACZ4YdY5Z3oMVrDRzD1T"
     },
     {
       "added_at": null,
@@ -1251,6 +1251,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "PO2054AZ (Vol.II)",
+        "url": "https://open.spotify.com/album/7G8LEEo2yjciNr77XSYiWA"
+      },
+      "artists": [
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "Llorando x 1",
+      "url": "https://open.spotify.com/track/4XZSHgnPpVIqGyYUUzqlYw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De 38 Carregado",
         "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
       },
@@ -1267,26 +1287,6 @@
       "duration_ms": 155145,
       "name": "De 38 Carregado",
       "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como Acredito No Amor",
-        "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJBHBHDJ",
-          "url": "https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0"
-        }
-      ],
-      "duration_ms": 103384,
-      "name": "Como Acredito No Amor",
-      "url": "https://open.spotify.com/track/1uACZ4YdY5Z3oMVrDRzD1T"
     },
     {
       "added_at": null,
@@ -1459,30 +1459,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Escolhas e Reflexos",
-        "url": "https://open.spotify.com/album/3ZaLuQLnkN8qM9eCeQrBC5"
+        "name": "Pretinha do Peitin e do Bund\u00e3o",
+        "url": "https://open.spotify.com/album/67QFNXjKS1gwrBhu6STeHl"
       },
       "artists": [
         {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
           "name": "MC Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Iuri Rio Branco",
-          "url": "https://open.spotify.com/artist/7CDNHcDbOQU1gK1OxjZlcC"
         }
       ],
-      "duration_ms": 213994,
-      "name": "Mundo da Fama",
-      "url": "https://open.spotify.com/track/6vqHCFSzYNzg96n8NoKxHt"
+      "duration_ms": 168922,
+      "name": "Pretinha do Peitin e do Bund\u00e3o",
+      "url": "https://open.spotify.com/track/5Y9nPcOtIyzT4DeHAqIatb"
     }
   ],
   "unique_name": "This Is MC Dricka",

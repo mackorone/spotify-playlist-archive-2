@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-02-12",
-  "description": "what i&#x27;m listening to: may-june 2026 (previous playlists archived on my profile)",
-  "name": "life is sweet",
+  "description": "what i&#x27;m listening to: july-august 2026 (previous playlists archived on my profile)",
+  "name": "spacked out!!!",
   "tracks": [
     {
       "album": {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 210600,
       "name": "(Loaded @ the Wrong Door,",
       "url": "https://open.spotify.com/track/0xhY3TJLJTTJX9zoaV88rh"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 241541,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/3aOfynJVvUXioiO0gkzfPX"
@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 274500,
       "name": "Another Lifetime Floats Away",
       "url": "https://open.spotify.com/track/1NAluKvmuPDYJ7EnbSyhe3"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 331130,
       "name": "Apple to the Orange",
       "url": "https://open.spotify.com/track/3rX1lDnL0lcdNX3LwRzDfp"
@@ -1356,7 +1356,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 468906,
       "name": "Ask Me No Questions",
       "url": "https://open.spotify.com/track/4NoyGOzW4I5theS5rZzApD"
@@ -1450,7 +1450,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 399026,
       "name": "Autosmile",
       "url": "https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr"
@@ -1834,7 +1834,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 173674,
       "name": "Berimbau - Mono Mix",
       "url": "https://open.spotify.com/track/63lSIKcyb8NrfInifgs7GO"
@@ -2238,7 +2238,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 180133,
       "name": "Born Into Giving It Up,",
       "url": "https://open.spotify.com/track/4HN4AxTzZNlUQlTwyVZp3c"
@@ -3340,7 +3340,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 143748,
       "name": "Count Me In on This One!",
       "url": "https://open.spotify.com/track/6LtZHj960GEO0l9kdE2rvs"
@@ -4462,7 +4462,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 217213,
       "name": "Easy to Be Around",
       "url": "https://open.spotify.com/track/6KfTmqUnDOoiLFBofHtHk0"
@@ -4708,7 +4708,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 199506,
       "name": "Evergladed",
       "url": "https://open.spotify.com/track/4kA94E6vfEW3i2TBPMXzL1"
@@ -5140,7 +5140,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 199234,
       "name": "Fatale",
       "url": "https://open.spotify.com/track/3G2qTBALAKtJoheQOMXBpx"
@@ -5180,6 +5180,24 @@
       "duration_ms": 345186,
       "name": "Faults",
       "url": "https://open.spotify.com/track/3dvxF0boVTu3aSIevH99sk"
+    },
+    {
+      "album": {
+        "name": "Night and Day",
+        "url": "https://open.spotify.com/album/0fcIVkoXdoMADxdq7Rbh1r"
+      },
+      "artists": [
+        {
+          "name": "Everything But The Girl",
+          "url": "https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254960,
+      "name": "Feeling Dizzy",
+      "url": "https://open.spotify.com/track/31pfOGCRJ4YHib8pur9G7X"
     },
     {
       "album": {
@@ -5468,7 +5486,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 205018,
       "name": "Forced Perspective",
       "url": "https://open.spotify.com/track/4kYXdlvDdU2RLtDEhC4ouw"
@@ -5504,7 +5522,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 144681,
       "name": "Forget Me Not",
       "url": "https://open.spotify.com/track/3Cb9gPgWkwBmGjVtoJoqrS"
@@ -6304,7 +6322,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 205573,
       "name": "Half a Million Miles from Home",
       "url": "https://open.spotify.com/track/047PqVwCAmSuowUYFD5ger"
@@ -6856,7 +6874,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 176933,
       "name": "Hoping Wishers Never Lose,",
       "url": "https://open.spotify.com/track/5l7ohQ54kKEOWP8l4wDL1V"
@@ -7018,7 +7036,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 246573,
       "name": "I Ate the Most",
       "url": "https://open.spotify.com/track/5Mjkrb43pfWNSt3dmztKjZ"
@@ -7726,7 +7744,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 205066,
       "name": "idea 1",
       "url": "https://open.spotify.com/track/3ZTKg748vW7Zrll3wzwjJy"
@@ -7780,7 +7798,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 252019,
       "name": "If Lady Does It",
       "url": "https://open.spotify.com/track/4cEIOH8zQJRUNt9TGZGQ2Z"
@@ -8994,7 +9012,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 162400,
       "name": "Las culpas",
       "url": "https://open.spotify.com/track/6sdVeMJpRt2nOFkV4glBMj"
@@ -9365,6 +9383,28 @@
     },
     {
       "album": {
+        "name": "The Divine Move",
+        "url": "https://open.spotify.com/album/6Vj5nANsK4ximMcMKruf0n"
+      },
+      "artists": [
+        {
+          "name": "Vampillia",
+          "url": "https://open.spotify.com/artist/6Pr6S0eWVYP4uDGbWXJIpT"
+        },
+        {
+          "name": "Jun Togawa",
+          "url": "https://open.spotify.com/artist/6fI3ZQseiBwzjXLSVuJGEI"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215546,
+      "name": "Lilac (Bombs Jun Togawa)",
+      "url": "https://open.spotify.com/track/3PN75YHTH8kZKEHbbcny1k"
+    },
+    {
+      "album": {
         "name": "linknb",
         "url": "https://open.spotify.com/album/19mOTRnjuU6KeO0LuWsstc"
       },
@@ -9376,7 +9416,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 115160,
       "name": "linknb",
       "url": "https://open.spotify.com/track/1EljD71jwrLB0a3NGJqsJf"
@@ -9560,7 +9600,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 180560,
       "name": "Love Hurts (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/3K6U7TamNyVSWcFH8pCQHX"
@@ -9690,7 +9730,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 151466,
       "name": "Lovers Who Wander",
       "url": "https://open.spotify.com/track/3ApktgPHkNDBWaZCWvOKjK"
@@ -10344,6 +10384,28 @@
       "duration_ms": 221173,
       "name": "Mild, Lattermild og Gavmild",
       "url": "https://open.spotify.com/track/0xkkBd6BZvV6jIQbjanGYV"
+    },
+    {
+      "album": {
+        "name": "Die Lit",
+        "url": "https://open.spotify.com/album/7dAm8ShwJLFm9SaJ6Yc58O"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Chief Keef",
+          "url": "https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149760,
+      "name": "Mileage (feat. Chief Keef)",
+      "url": "https://open.spotify.com/track/1oNcc2isuz7d3hc1fMoHqj"
     },
     {
       "album": {
@@ -11686,7 +11748,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 419013,
       "name": "On the Beach - 2016 Remaster",
       "url": "https://open.spotify.com/track/1Y8L4hT9CDJH6ROK2XGxgO"
@@ -11870,6 +11932,24 @@
       "duration_ms": 284957,
       "name": "Only People Can Save the World",
       "url": "https://open.spotify.com/track/7uGt9uDMoSaXFAHPKvGbJn"
+    },
+    {
+      "album": {
+        "name": "Portishead",
+        "url": "https://open.spotify.com/album/3G36754KQVLyGuskraEAVA"
+      },
+      "artists": [
+        {
+          "name": "Portishead",
+          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299560,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2qKkC9cODRjIlsdyEkSJLQ"
     },
     {
       "album": {
@@ -12372,6 +12452,24 @@
       "duration_ms": 135400,
       "name": "People's Parties",
       "url": "https://open.spotify.com/track/5RI0qk5rSvAJwCwxtDSKKM"
+    },
+    {
+      "album": {
+        "name": "10th",
+        "url": "https://open.spotify.com/album/7GpupAdAv0IPaZEWEgV5IT"
+      },
+      "artists": [
+        {
+          "name": "Nobukazu Takemura",
+          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481066,
+      "name": "Perch",
+      "url": "https://open.spotify.com/track/1Yqp0aEKqzX9MwFXC9LLel"
     },
     {
       "album": {
@@ -13350,7 +13448,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 115106,
       "name": "Rock Music",
       "url": "https://open.spotify.com/track/3cWQRSutAjP6PY3kPzgi2b"
@@ -13668,7 +13766,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 201986,
       "name": "Sandy Ree",
       "url": "https://open.spotify.com/track/0tdA1KH9iQVWbKxR7X4JuZ"
@@ -13812,7 +13910,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 292786,
       "name": "Selene",
       "url": "https://open.spotify.com/track/09RFU0eg1GiM01yv0RqXa4"
@@ -14862,7 +14960,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 167674,
       "name": "SS26",
       "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
@@ -14898,7 +14996,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 307626,
       "name": "Standing Here - Remastered",
       "url": "https://open.spotify.com/track/4H6Je7swqSr48vbJJHaXZb"
@@ -15240,7 +15338,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 325213,
       "name": "Summer",
       "url": "https://open.spotify.com/track/2jUTmPJ6YU8197buZGWc5U"
@@ -15312,7 +15410,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 250533,
       "name": "Supermarket Blues",
       "url": "https://open.spotify.com/track/0ShILYEuj2JA4Zx31gAhd0"
@@ -16128,7 +16226,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 202106,
       "name": "The Lord Is Back",
       "url": "https://open.spotify.com/track/1IVk1KRG3y16Hc45e5tATU"
@@ -16164,7 +16262,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 260213,
       "name": "The Memory of Trees - Instrumental; 2009 Remaster",
       "url": "https://open.spotify.com/track/3S3ubW2J4byYKjyYVl0V1B"
@@ -16416,7 +16514,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 319160,
       "name": "The Turnaround Road",
       "url": "https://open.spotify.com/track/5bK3tLaBVX7lSfGavEm2VH"
@@ -16926,7 +17024,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 111333,
       "name": "Tornado Twist",
       "url": "https://open.spotify.com/track/2fPakVOd29rzlcCxHqFfe4"
@@ -17268,7 +17366,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 172421,
       "name": "Under my bed",
       "url": "https://open.spotify.com/track/52Sd0lu6TTVMDhwQqjZcD6"
@@ -18014,7 +18112,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 158066,
       "name": "What Was That Thing?",
       "url": "https://open.spotify.com/track/1NZ8VHYJwQsbrO9PxtAm3y"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 > This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,812 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,813 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 49 | [La Carretera](https://open.spotify.com/track/42ch5aWgNSzXlTgNpWM2kY) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Carretera](https://open.spotify.com/album/5rVIdtoCee1JB1OaLkTo00) | 3:15 |
 | 50 | [Estoy Enamorado \- En Vivo](https://open.spotify.com/track/4IeTtjvqaCbWUzL1m2NPTM) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Estoy Enamorado \(En Vivo\)](https://open.spotify.com/album/3obr3RWtDcd4nZq36HqsWw) | 3:03 |
 
-Snapshot ID: `akb7gAAAAADsjCw5EbokMQc0L9twMrhZ`
+Snapshot ID: `akhNAAAAAADHyfWnHjygmBnqC/X9em6q`

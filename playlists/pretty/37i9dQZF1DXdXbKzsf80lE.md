@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,679 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,683 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 47 | [Cabeça Branca](https://open.spotify.com/track/5zswDNRhJSXuvhJXJGQTFK) | [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [O Pai Das Crianças \(Part\. 1\)](https://open.spotify.com/album/7Dv7PY99nacoKmLbNdVzJu) | 2:27 |
 | 48 | [Ele Não Tem](https://open.spotify.com/track/1JHvLQWHUoYuapwQikeDuD) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Ele Não Tem](https://open.spotify.com/album/1H3osN9EmZy0a8DGV27hXy) | 3:32 |
 | 49 | [Nem Vá](https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Nem Vá](https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9) | 2:39 |
-| 50 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 |
+| 50 | [Batom De Ouro](https://open.spotify.com/track/4XoQPLxuXl5M4oBEsF73bt) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Batom de Ouro](https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu) | 2:18 |
 | 51 | [Ela É Linda](https://open.spotify.com/track/35uPMtbq7v1L5z8j52BOSG) | [Vitinho Imperador](https://open.spotify.com/artist/6xrc4RXcso9uKlYWlIANPU) | [Ela É Linda](https://open.spotify.com/album/0FO1Axe7IAeyK9vv6ZhGJX) | 3:02 |
-| 52 | [Batom De Ouro](https://open.spotify.com/track/4XoQPLxuXl5M4oBEsF73bt) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Batom de Ouro](https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu) | 2:18 |
+| 52 | [Saudade Vai Bater](https://open.spotify.com/track/6b5GquyOcc5326bJoEUafU) | [MC Bruninho](https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB), [Aldair Playboy](https://open.spotify.com/artist/6LjdKBMnP1Da8Oe6WhrN56) | [Saudade Vai Bater](https://open.spotify.com/album/7iISpLEaOAfgBq83h4NxNh) | 3:02 |
 | 53 | [Casal Raiz \- Ao Vivo](https://open.spotify.com/track/37Xnka0c1qea5wagV91UIl) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Errejota \(Ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:29 |
 | 54 | [Quem Nunca \- Ao Vivo em Fortaleza](https://open.spotify.com/track/2ekuJuZiOw523TPWtqXguQ) | [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Quem Nunca \(Ao Vivo em Fortaleza\)](https://open.spotify.com/album/0PZXHqmn7bvqduX5BAYDZX) | 2:35 |
 | 55 | [Aquelas Coisas / Me Ama Sem Pausa \- Ao Vivo](https://open.spotify.com/track/5755b7FAJceOZauY3qBJze) | [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S), [Tarcísio do Acordeon](https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC) | [Aquelas Coisas / Me Ama Sem Pausa \(Ao Vivo\)](https://open.spotify.com/album/2RRxbzWPrBQ305aRt48anL) | 4:11 |

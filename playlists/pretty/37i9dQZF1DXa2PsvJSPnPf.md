@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sweet sounds and welcoming vibes—come on in and stay for a while
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,834 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,825 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 61 | [Sorrow](https://open.spotify.com/track/7K1isQ76aI5TG5RziWpKCM) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [Sorrow](https://open.spotify.com/album/5UWayfTfIPcFAmZvpz2yJp) | 3:55 |
 | 62 | [Heartache After Heartache](https://open.spotify.com/track/29iUxBEvjcdwDW8xxH0qB3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Thomas Csorba](https://open.spotify.com/album/4YDSW8TCkvKByl7sOKtyH4) | 4:15 |
 | 63 | [How Bad I Wanna Live](https://open.spotify.com/track/4k3Cin3TLWvOwRwCPnStl5) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Violet Light](https://open.spotify.com/album/5hjFXxJnA3yIO5kDGjr2GC) | 2:53 |
-| 64 | [Gentle on My Mind](https://open.spotify.com/track/2nX2TPYt4QOuRdCfbPFq9o) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE), [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Dear John](https://open.spotify.com/album/5tRGxNTSlav2KGfMrRN1L6) | 5:52 |
-| 65 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
+| 64 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
+| 65 | [Gentle on My Mind](https://open.spotify.com/track/2nX2TPYt4QOuRdCfbPFq9o) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE), [Courtney Hartman](https://open.spotify.com/artist/0cncMmardvNmaTb9Jnq8w7) | [Dear John](https://open.spotify.com/album/5tRGxNTSlav2KGfMrRN1L6) | 5:52 |
 | 66 | [Fast Like a Match](https://open.spotify.com/track/2gBwZy7BxggimItOwLXfMc) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Fast Like a Match](https://open.spotify.com/album/1zrWTOu2HMP9tdXfFgXNN6) | 2:41 |
 | 67 | [Whippoorwill](https://open.spotify.com/track/1n0UUVUi4OzfjJEtuBKWfL) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Whippoorwill](https://open.spotify.com/album/5XGBibZqSHNNIqASXsYuKW) | 4:38 |
 | 68 | [I'll Go Home From Here](https://open.spotify.com/track/1BdNv3rzsB6QMO6xahY9Bx) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [I'll Go Home From Here](https://open.spotify.com/album/17rTlGtn0OVvCPy0jU8zwy) | 3:52 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 78 | [Surprise, Surprise](https://open.spotify.com/track/3dcHxeQx9i7SxLb2VpWQmA) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Surprise, Surprise](https://open.spotify.com/album/0R4kzJi947HKhzHKepxHwE) | 3:56 |
 | 79 | [Long Time Ago](https://open.spotify.com/track/1RR3PCooe7Uhak8sUP3OQB) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4), [Rylie Bourne](https://open.spotify.com/artist/6gVr94x6xH84PhBJOsKG70), [Lucciana Costa](https://open.spotify.com/artist/77fSWaufxseHLD6seG4XB4) | [Long Time Ago](https://open.spotify.com/album/2ut9F2KYjy2cf15Ta2ShE7) | 4:02 |
 | 80 | [Dreamer](https://open.spotify.com/track/6eeQ56AjYWngwQD3hp2liE) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Windless Day](https://open.spotify.com/album/4Kkm5j6DR6Im99ZVslqzyx) | 4:54 |
-| 81 | [James Dean](https://open.spotify.com/track/6p1jLmMoKQt8Vg9zlYg3uq) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Strip Me Bare, Vol\. 2](https://open.spotify.com/album/0LLhVkWLfoUdCqSOEGeya8) | 3:46 |
-| 82 | [Love Me Today](https://open.spotify.com/track/6at7kKJ4UAO7EXXto19gYU) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Love Me Today](https://open.spotify.com/album/04sgEuWq9dL2s8j8E7y97s) | 3:51 |
+| 81 | [Love Me Today](https://open.spotify.com/track/6at7kKJ4UAO7EXXto19gYU) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Love Me Today](https://open.spotify.com/album/04sgEuWq9dL2s8j8E7y97s) | 3:51 |
+| 82 | [James Dean](https://open.spotify.com/track/6p1jLmMoKQt8Vg9zlYg3uq) | [David Keenan](https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG) | [Strip Me Bare, Vol\. 2](https://open.spotify.com/album/0LLhVkWLfoUdCqSOEGeya8) | 3:46 |
 | 83 | [Lay Me Down Easy](https://open.spotify.com/track/0vmHBdEpNKwVZAkhOPt3bw) | [Carolina Story](https://open.spotify.com/artist/6as0zYiCUTtYdMI3rxg5Vn) | [Dandelion](https://open.spotify.com/album/7zLMzrLuI1KeIRBaEFxD46) | 3:49 |
 | 84 | [The Stone](https://open.spotify.com/track/58lbaLOsFcMKVCzvFZKnJh) | [Paul Greene](https://open.spotify.com/artist/189CwQJhg4MhnnqhdSAnZD) | [Freedom for Your Soul](https://open.spotify.com/album/6az4x5KWY3mQ1PpQWDdC05) | 3:44 |
 | 85 | [Sundown \(feat\. Beth Orton\)](https://open.spotify.com/track/0HVVifb5UsoyovICBXwNOf) | [Sam Amidon](https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4), [Beth Orton](https://open.spotify.com/artist/6cLEWhEKQl6nAvgr60M7zC) | [Sam Amidon](https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m) | 3:33 |

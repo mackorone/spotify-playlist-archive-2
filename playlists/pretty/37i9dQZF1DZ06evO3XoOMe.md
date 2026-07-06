@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XoOMe.md) - [plain]
 
 > This is Chxrry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592 likes - 22 songs - 1 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 596 likes - 22 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,4 +31,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3XoOMe.md) - [plain]
 | 21 | [Wasteland](https://open.spotify.com/track/3Pf6GfPT5emtTRghA3u7HC) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [The Other Side](https://open.spotify.com/album/4qpF4CLJlmBNyMQNcHUmON) | 2:27 |
 | 22 | [Around](https://open.spotify.com/track/3qKNMvtL3n3zin2b4DrpQR) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 1:02 |
 
-Snapshot ID: `akb7gAAAAACF0R72gYDn12OQIt3ujUH9`
+Snapshot ID: `akhNAAAAAACY1r1dbepZbhPZD8lBNr3I`

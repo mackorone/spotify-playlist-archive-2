@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 
 > أفضل أغاني الراي
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,700 likes - 60 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,776 likes - 60 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Twehachtek Grave](https://open.spotify.com/track/3omnAT9Aee3I2szep6R894) | [Cheba Souad](https://open.spotify.com/artist/2mtGLDeonPnIV8HDyrxCfl), [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ) | [Twehachtek Grave](https://open.spotify.com/album/5QnK7ki9llQLXpHFofM4Ns) | 3:26 |
-| 2 | [C'était prévu](https://open.spotify.com/track/2ewJ2gIhPcZGnX6g3kZfZa) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [C'était prévu](https://open.spotify.com/album/4qMCbtIZ2khv5vf5Vhk7YQ) | 4:37 |
-| 3 | [Namchi Wngoul Ça va](https://open.spotify.com/track/1py7Rjj1axmqPQtUTVELxF) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Namchi Wngoul Ça va](https://open.spotify.com/album/5KKolIb9Iibkqn0TBtyyFk) | 4:32 |
-| 4 | [Nmout w Naarf Ki Rak Nawini](https://open.spotify.com/track/1Ow2vMG9QM0hybymrRJkuH) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Nmout w Naarf Ki Rak Nawini](https://open.spotify.com/album/2uiJd0EbfzH2hMUB97BSVL) | 5:09 |
+| 2 | [Nmout w Naarf Ki Rak Nawini](https://open.spotify.com/track/1Ow2vMG9QM0hybymrRJkuH) | [Cheba Warda](https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt) | [Nmout w Naarf Ki Rak Nawini](https://open.spotify.com/album/2uiJd0EbfzH2hMUB97BSVL) | 5:09 |
+| 3 | [C'était prévu](https://open.spotify.com/track/2ewJ2gIhPcZGnX6g3kZfZa) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [C'était prévu](https://open.spotify.com/album/4qMCbtIZ2khv5vf5Vhk7YQ) | 4:37 |
+| 4 | [Namchi Wngoul Ça va](https://open.spotify.com/track/1py7Rjj1axmqPQtUTVELxF) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Namchi Wngoul Ça va](https://open.spotify.com/album/5KKolIb9Iibkqn0TBtyyFk) | 4:32 |
 | 5 | [9arawni Liyam \- البرية لي لحقت](https://open.spotify.com/track/4uLjXK1FGsU3OqRzpxce79) | [Cheb Hichem TGV](https://open.spotify.com/artist/3EJQjKomRx3gpoYmP1bEIl) | [9arawni Liyam \- البرية لي لحقت](https://open.spotify.com/album/4mZvAXQLgc9UmF3K1kFmw9) | 5:28 |
 | 6 | [بيك ولا بلا بيك](https://open.spotify.com/track/7B2PrNM97SDC7XGhUcJ8NO) | [Cheb Rami](https://open.spotify.com/artist/1dZoWLZL2YLvRqqiS7L05E) | [بيك ولا بلا بيك](https://open.spotify.com/album/73E8NWXoOrYOcu9wznYPc4) | 4:18 |
 | 7 | [El 3achk S3ib](https://open.spotify.com/track/0waRpeDDFkMZooRQtr3bOa) | [Cheba Manel](https://open.spotify.com/artist/2gf81e1DwyMQ4TbmPgM8Qs), [Kader Zakzouk](https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA) | [El 3achk S3ib](https://open.spotify.com/album/2V49uoeC49aaRrRRT7tVw5) | 3:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7WmotStdsj.md) - [plain]
 | 59 | [Ndamt 3Lik](https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Ndamt 3Lik](https://open.spotify.com/album/6dAnabX8QR4W0qrUw1GU51) | 6:03 |
 | 60 | [Wah wah wah](https://open.spotify.com/track/64aYuL3Ex4BiVBzH2UjTXl) | [jilali boumelah](https://open.spotify.com/artist/6Iw0Ex7lNpa8j9kJmygfep) | [Wah wah wah](https://open.spotify.com/album/2vNS4WI2WROlRUhBKzpHUJ) | 4:06 |
 
-Snapshot ID: `AAAAAB5pSlUq3B3q2GuUYuNEp/7K4ADy`
+Snapshot ID: `AAAAANnSD2y9GabYSKO7pF7RzN6V1YHp`

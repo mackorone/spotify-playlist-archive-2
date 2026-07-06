@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 
 > This is Jimmy Cliff\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,700 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,702 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO207Hs4.md) - [plain]
 | 41 | [Special](https://open.spotify.com/track/7jPmjZi2zeiA1L4oG00q4g) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 3:50 |
 | 42 | [Going Back West](https://open.spotify.com/track/5paYwzyK9zv73ss0jxHW5P) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Struggling Man](https://open.spotify.com/album/4nZrgSC5gdqUYbCCHGNFqw) | 4:47 |
 | 43 | [Brown Eyes](https://open.spotify.com/track/6TJxXzueYaZ3ZsDfXO3jWB) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 3:39 |
-| 44 | [Ska All Over the World](https://open.spotify.com/track/3vCRIsTY3iqBmovMktdsny) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Real Jamaica Ska](https://open.spotify.com/album/2rLogZR8BID2aRzwpymnhg) | 2:39 |
+| 44 | [Mother and Child Reunion \(with Jimmy Cliff\) \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4fCRtHg9p2Tt2lBPKBDluO) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 3:43 |
 | 45 | [Peace Officer](https://open.spotify.com/track/36sW72NlM0xaqjBAEzuy2S) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 4:11 |
-| 46 | [Mother and Child Reunion \(with Jimmy Cliff\) \- Live at Hyde Park, London, UK \- July 2012](https://open.spotify.com/track/4fCRtHg9p2Tt2lBPKBDluO) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Concert in Hyde Park](https://open.spotify.com/album/1gC1DUPevviDhQ7hnmTZ89) | 3:43 |
+| 46 | [Ska All Over the World](https://open.spotify.com/track/3vCRIsTY3iqBmovMktdsny) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [The Real Jamaica Ska](https://open.spotify.com/album/2rLogZR8BID2aRzwpymnhg) | 2:39 |
 | 47 | [Reggae Street](https://open.spotify.com/track/2lOw79S7zOpdo3aOJltFnR) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Cliff Hanger](https://open.spotify.com/album/4jDYIT8hRGwGxDmTd6c9tN) | 3:29 |
 | 48 | [Gussie Clarke's Collaborations \- Continuous Mix](https://open.spotify.com/track/6yONDl6HxMOZkWCD7xyHUY) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc), [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr), [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf), [iNi Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs), [Deborahe Glasgow](https://open.spotify.com/artist/0PfphN9qB6zSGGP38VjDm7), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Shabba Ranks](https://open.spotify.com/artist/3j7Sw80qzL2FJlryUhI3wG), [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F), [Freddie McGregor](https://open.spotify.com/artist/30R9paG1c5BGtNGle59VPq), [Richie Stephens](https://open.spotify.com/artist/6vHXmFLRCxvJPquxCpCl7c), [Mighty Diamonds](https://open.spotify.com/artist/2MvXKrHantfY5wyPiCOo2k), [Cynthia Schloss](https://open.spotify.com/artist/0q3sBFRGxiXPmhrePKRgIY) | [Gussie Clarke's Collaborations \(Continuous Mix\)](https://open.spotify.com/album/1xU5bEVbuzhEk2HrDL4fpO) | 31:46 |
 | 49 | [Rub\-A\-Dub Partners](https://open.spotify.com/track/4LAz7d1hYELgs0PQvEkkym) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Special](https://open.spotify.com/album/7DThjcUUrZYmpcELciIu2w) | 2:57 |
 | 50 | [No Justice](https://open.spotify.com/track/5BBHmCVN14sReJgd9ueVuT) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Marked For Death \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2vWg5H7yPW7oYfosL0AFil) | 4:01 |
 
-Snapshot ID: `akb7gAAAAAC6XLfCRSHKuAyVgSaA8Efz`
+Snapshot ID: `akhNAAAAAAAW2idx/FFu8c59TBLbZaps`

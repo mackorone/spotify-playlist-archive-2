@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Sommerferien, Eis in der Hand und ganz viel Badespaß!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,998 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,015 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 45 | [Wir holen euch ab](https://open.spotify.com/track/76mevuKh4WonFC305wU9BD) | [Deine Freunde](https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng) | [ordentlich durcheinander](https://open.spotify.com/album/5goLpuhOuPvi646aejZHJa) | 2:58 |
 | 46 | [Was müssen das für Bäume sein](https://open.spotify.com/track/1IM2PaRVp08Zg6zNKpYRqO) | [Ulla Meinecke](https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen](https://open.spotify.com/album/3yRICOfCU3aESj5tqYOXnD) | 3:35 |
 | 47 | [Das Lied Vom Sommer](https://open.spotify.com/track/0BOKpBh5fifQRTzXkIkzaE) | [KID CLIO](https://open.spotify.com/artist/0el85MBoUZfxM2HGSM7pku) | [HIGHFIVE!](https://open.spotify.com/album/4KNKGRw5piiCjnJYYhQu9S) | 1:56 |
-| 48 | [Wenn ich den See seh'](https://open.spotify.com/track/4G6RaIF1ogdDzpPWaKKG8T) | [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Wenn ich den See seh'](https://open.spotify.com/album/7FpzmPcNIwl0zMUl742zRR) | 2:23 |
-| 49 | [Blüht ein Blümlein](https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW) | [KIDDINX Music](https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8) | [Frühlingslieder \(Omas schönste\)](https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz) | 1:35 |
+| 48 | [Blüht ein Blümlein](https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW) | [KIDDINX Music](https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8) | [Frühlingslieder \(Omas schönste\)](https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz) | 1:35 |
+| 49 | [Wenn ich den See seh'](https://open.spotify.com/track/4G6RaIF1ogdDzpPWaKKG8T) | [3Berlin](https://open.spotify.com/artist/7eUEQQxUaukrKyzVjeWk1V) | [Wenn ich den See seh'](https://open.spotify.com/album/7FpzmPcNIwl0zMUl742zRR) | 2:23 |
 | 50 | [Mücken nerven Leute](https://open.spotify.com/track/5Aq5Crilz4fRTC48ItbU0w) | [Laing](https://open.spotify.com/artist/6adqlX5PUDStRu3XYBG9wC), [Unter meinem Bett](https://open.spotify.com/artist/7y89sMv0ADqEMEOo2tOIM7) | [Unter meinem Bett\. Best Of](https://open.spotify.com/album/0ZoJBNLDmWT30GQU1IWOiz) | 3:11 |
 
 Snapshot ID: `AAAAAJCztVZGJq6JiK7W58He0rOt98xT`

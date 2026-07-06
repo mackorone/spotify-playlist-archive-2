@@ -1,12 +1,12 @@
 {
   "description": "This is Seyi Vibez. The essential tracks, all in one playlist.",
-  "num_followers": 51082,
+  "num_followers": 51127,
   "original_name": "This Is Seyi Vibez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAADFwLLqz3uR6HiP223356Vf",
+  "snapshot_id": "akhNAAAAAACq9fRyHK53F7WkgHSNC6jT",
   "tracks": [
     {
       "added_at": null,
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Thy Kingdom Come",
+        "url": "https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 154909,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/3YQafPGbk2L1McXXJ43iMv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MY HEALER",
         "url": "https://open.spotify.com/album/7jXn39VRrZifIpznbHBDEZ"
       },
@@ -63,22 +79,6 @@
       "duration_ms": 157023,
       "name": "MY HEALER",
       "url": "https://open.spotify.com/track/3tENXWy5Yf1iJJV4EYqZh1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thy Kingdom Come",
-        "url": "https://open.spotify.com/album/6vDpE1RVZLgUZ1cfm3EzQ8"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 154909,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/3YQafPGbk2L1McXXJ43iMv"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FUJI MOTO",
-        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 158446,
-      "name": "HOW ARE YOU",
-      "url": "https://open.spotify.com/track/5296ZsW1OKY8qvvXaRc9ex"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Billion Dollar Baby",
         "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 155846,
       "name": "Bullion Van",
       "url": "https://open.spotify.com/track/01Nc64zcDcXR0VFgrEldlH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FUJI MOTO",
+        "url": "https://open.spotify.com/album/0hFlRO0BYOF3WySD9jEhMT"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 158446,
+      "name": "HOW ARE YOU",
+      "url": "https://open.spotify.com/track/5296ZsW1OKY8qvvXaRc9ex"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NSNV",
-        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 120215,
-      "name": "Catalyst",
-      "url": "https://open.spotify.com/track/3C6Sym0P7JxgNOegloBFcp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Billion Dollar Baby",
         "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 144927,
       "name": "Billion Dollar",
       "url": "https://open.spotify.com/track/4Wuqy79kCWtbvTSp0xiLYp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NSNV",
+        "url": "https://open.spotify.com/album/0sKjHC9aD5BZsDTxs8I4jk"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 120215,
+      "name": "Catalyst",
+      "url": "https://open.spotify.com/track/3C6Sym0P7JxgNOegloBFcp"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Billion Dollar Baby",
+        "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 132179,
+      "name": "BD Baby",
+      "url": "https://open.spotify.com/track/4aXHVmtQgLSk9sQFTVm2g4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sanity",
         "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 140240,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Billion Dollar Baby",
-        "url": "https://open.spotify.com/album/33mcBtk7Vu7uaKjYPvqzKV"
-      },
-      "artists": [
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 132179,
-      "name": "BD Baby",
-      "url": "https://open.spotify.com/track/4aXHVmtQgLSk9sQFTVm2g4"
     },
     {
       "added_at": null,

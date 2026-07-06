@@ -1649,6 +1649,28 @@
     },
     {
       "album": {
+        "name": "Dear.J",
+        "url": "https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Dear.J (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi"
+    },
+    {
+      "album": {
         "name": "Dearest (feat. Sllo)",
         "url": "https://open.spotify.com/album/2V1ioOPgIrbSdeykkaKKIB"
       },
@@ -6758,7 +6780,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 202773,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/6ktEI3U7Wnip2P5pEHchzq"

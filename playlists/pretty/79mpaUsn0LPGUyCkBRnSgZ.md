@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 746 songs - 2 day 0 hr 11 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 748 songs - 2 day 0 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -754,5 +754,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 744 | [PIRATE RADIO](https://open.spotify.com/track/04MdtyZlxv1DxH5f8nuyuP) | [Genesis Owusu](https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke) | [REDSTAR WU & THE WORLDWIDE SCOURGE](https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V) | 2:54 |
 | 745 | [Pipe \(with Vashti Bunyan\)](https://open.spotify.com/track/2IQdRkhiTJVRf2Q5I1OYl3) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [I Created The Universe So That Life Could Create a Language So Complex, Just To Say How Much I Love You](https://open.spotify.com/album/2iPjvmwHsn5SgX2GZvZnMx) | 3:10 |
 | 746 | [Zoom 97](https://open.spotify.com/track/0aW3FQZlYWyj1gTn7mlc8t) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Philadelphia's been good to me](https://open.spotify.com/album/5AfELtBFbN1hM75hgqc7FI) | 4:54 |
+| 747 | [Long Distance Dedication](https://open.spotify.com/track/2rTa3edLxXdvgkOAmFBvS5) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Play the Songs You Like](https://open.spotify.com/album/4Of3UeV2fIEJgXhD2FICwq) | 1:21 |
+| 748 | [Can't Face Another One](https://open.spotify.com/track/30NYedLY0oYNxAHne8NePL) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Dance Called Memory](https://open.spotify.com/album/2fNPTFiU2sCY9m6tv3Ucqa) | 3:52 |
 
-Snapshot ID: `AAAJSqFTJ3dc5zDdLHqfPLLu47wuTGTI`
+Snapshot ID: `AAAJTDrIgoryI6fqZj4tFGbbLuIu2C9Q`

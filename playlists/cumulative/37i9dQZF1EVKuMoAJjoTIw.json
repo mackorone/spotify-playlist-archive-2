@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXUxXYvMa1Ob>XXXTENTACION</a>, <a href=spotify:playlist:37i9dQZF1EIUvahARlUdvp>Rosa Linn</a>, <a href=spotify:playlist:37i9dQZF1EIViYkelREWYq>Surf Curse</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIUY5V9mnUM6w>Junior H</a>, <a href=spotify:playlist:37i9dQZF1EIXUxXYvMa1Ob>XXXTENTACION</a>, <a href=spotify:playlist:37i9dQZF1EIWDRVIM3oeCu>Halsey</a> and more",
   "name": "Sad Mix",
   "tracks": [
     {
@@ -124,7 +124,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 244906,
       "name": "16 Lines",
       "url": "https://open.spotify.com/track/6akBF8JWM8lrpqejdwIfYI"
@@ -4959,6 +4959,28 @@
     },
     {
       "album": {
+        "name": "Ogni maledetto giorno (Inferno Edition)",
+        "url": "https://open.spotify.com/album/31FFJw65329SYyJqbVPa8j"
+      },
+      "artists": [
+        {
+          "name": "Mostro",
+          "url": "https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv"
+        },
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233857,
+      "name": "E Fumo Ancora (feat. Ultimo) - Acoustic Version",
+      "url": "https://open.spotify.com/track/3jdj6aH5ed6RSWFB4qsrud"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -6116,7 +6138,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 147062,
       "name": "Freaks",
       "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
@@ -7202,7 +7224,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-02",
+      "date_removed": null,
       "duration_ms": 110886,
       "name": "Hope",
       "url": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
@@ -9740,7 +9762,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-22",
+      "date_removed": null,
       "duration_ms": 226298,
       "name": "LAS NOCHES",
       "url": "https://open.spotify.com/track/0uQhDYHyoZe5DpncrPolb6"
@@ -9838,7 +9860,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 182787,
       "name": "Le tre di notte",
       "url": "https://open.spotify.com/track/3VX4Sh9oLOHD6Nm9v7ohgC"
@@ -11042,7 +11064,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 206250,
       "name": "Lulu - Acoustic Version",
       "url": "https://open.spotify.com/track/4qfhJANVbltHdayStVa2lg"
@@ -11118,7 +11140,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 205266,
       "name": "LUNEDI'",
       "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
@@ -11757,6 +11779,24 @@
     },
     {
       "album": {
+        "name": "Midnight Thoughts",
+        "url": "https://open.spotify.com/album/3ODCSQwtxXdSYXkWovDdTb"
+      },
+      "artists": [
+        {
+          "name": "SadBoyProlific",
+          "url": "https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124865,
+      "name": "Midnight Thoughts",
+      "url": "https://open.spotify.com/track/2lbl6RWx8acFsyvYcasK0H"
+    },
+    {
+      "album": {
         "name": "Dejarte De Amar",
         "url": "https://open.spotify.com/album/0MPMiyavAbARflBlNGjIA6"
       },
@@ -12028,7 +12068,7 @@
       ],
       "date_added": "2023-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 135090,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
@@ -12770,7 +12810,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 216389,
       "name": "NON MI RICONOSCO \u2260 (con centomilacarie, Salmo)",
       "url": "https://open.spotify.com/track/49Z7NyXeCgUTPRFJaUkoVG"
@@ -13428,7 +13468,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 244062,
       "name": "Pensando en Ti",
       "url": "https://open.spotify.com/track/69pVdg4uAzb5Zvtj1UogPH"
@@ -14294,7 +14334,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 159466,
       "name": "Rip X",
       "url": "https://open.spotify.com/track/0j2BydmlwcMqffV08hFDyI"
@@ -14482,7 +14522,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Roto",
       "url": "https://open.spotify.com/track/3YIU0OFB9ejJxu3eWgb7sU"
@@ -14536,7 +14576,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 192760,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1FBi1YWCAxlRmfuUbMINqO"
@@ -15638,7 +15678,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 92539,
       "name": "Siempre",
       "url": "https://open.spotify.com/track/7d0L1QvUelTW66QsPLPiN0"
@@ -15872,7 +15912,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 179551,
       "name": "SNAP",
       "url": "https://open.spotify.com/track/5hx7w26Zi3zafMgvMTUqF6"
@@ -17950,7 +17990,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 124437,
       "name": "TI SENTI FRAGILE",
       "url": "https://open.spotify.com/track/5JTpxCtoBfS21t2qPUt2cW"
@@ -19119,6 +19159,24 @@
     },
     {
       "album": {
+        "name": "We Did Not Make Sense",
+        "url": "https://open.spotify.com/album/7FeLnnaPF56dWm4q7ZROjs"
+      },
+      "artists": [
+        {
+          "name": "Presence",
+          "url": "https://open.spotify.com/artist/1Pq3b64hsWb48FjFPfV5aq"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188541,
+      "name": "We Did Not Make Sense",
+      "url": "https://open.spotify.com/track/5WPbkilyXspX1yiKAiR1oO"
+    },
+    {
+      "album": {
         "name": "we fell in love in october / October Passed Me By",
         "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
       },
@@ -19732,7 +19790,7 @@
       ],
       "date_added": "2026-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 201660,
       "name": "Without Me",
       "url": "https://open.spotify.com/track/6FZDfxM3a3UCqtzo5pxSLZ"

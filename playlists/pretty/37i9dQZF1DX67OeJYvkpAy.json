@@ -1,6 +1,6 @@
 {
   "description": "the best of the deep end. cover: Saint\u00e9",
-  "num_followers": 109686,
+  "num_followers": 109682,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "Don't Ask",
+        "url": "https://open.spotify.com/album/0bb3PplllwgVpxJo4UZhMs"
+      },
+      "artists": [
+        {
+          "name": "Wax Bentayga",
+          "url": "https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "Don't Ask",
+      "url": "https://open.spotify.com/track/1tZ7VK5bmv0svHV5Ge3xVI"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Because Of You",
         "url": "https://open.spotify.com/album/3BawDg8zlyaybBdptxhIwO"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 177110,
       "name": "Because Of You",
       "url": "https://open.spotify.com/track/1guVpdESIISTKzPitSmqFT"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "Don't Ask",
-        "url": "https://open.spotify.com/album/0bb3PplllwgVpxJo4UZhMs"
-      },
-      "artists": [
-        {
-          "name": "Wax Bentayga",
-          "url": "https://open.spotify.com/artist/0iMvVDnhJLnTrUVcsJHBbv"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Don't Ask",
-      "url": "https://open.spotify.com/track/1tZ7VK5bmv0svHV5Ge3xVI"
     },
     {
       "added_at": "2025-10-10 12:01:08",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2025-10-10 12:01:08",
       "album": {
+        "name": "The Sunrise Project",
+        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
+      },
+      "artists": [
+        {
+          "name": "Songer",
+          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
+        }
+      ],
+      "duration_ms": 194455,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
+    },
+    {
+      "added_at": "2025-10-10 12:01:08",
+      "album": {
         "name": "Next Up - S3-E47",
         "url": "https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 141740,
       "name": "Next Up - S3-E47, Pt.1",
       "url": "https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK"
-    },
-    {
-      "added_at": "2025-10-10 12:01:08",
-      "album": {
-        "name": "The Sunrise Project",
-        "url": "https://open.spotify.com/album/2IoZRvALz6CryCOaCPnR8q"
-      },
-      "artists": [
-        {
-          "name": "Songer",
-          "url": "https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd"
-        }
-      ],
-      "duration_ms": 194455,
-      "name": "Endlessly",
-      "url": "https://open.spotify.com/track/1a3n05oJgk0KiAmdQwbGVb"
     },
     {
       "added_at": "2025-10-10 12:01:08",

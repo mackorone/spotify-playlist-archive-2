@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28R8KD.md) - [plain]
 
 > This is Emily A\. Sprague\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188 likes - 29 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 187 likes - 29 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28R8KD.md) - [plain]
 | 25 | [Synth 2](https://open.spotify.com/track/4IMVzTPODkGzYYB1YlhPJ6) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Mount Vision](https://open.spotify.com/album/5Er0d89UQnCYtTBoQLZsSr) | 7:39 |
 | 26 | [Matsumoto](https://open.spotify.com/track/59WgFlWjl0Wgt2D6BPY893) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Cloud Time](https://open.spotify.com/album/5iy3l3dbcmJUDgwLcb1I9D) | 10:10 |
 | 27 | [Woven](https://open.spotify.com/track/70kQ67AxENqAghLsofvC8c) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 5:51 |
-| 28 | [Rain](https://open.spotify.com/track/04ZsK2jPzneYHxkFWeu667) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 6:09 |
-| 29 | [Horizon](https://open.spotify.com/track/28GQO7qa54ouDsWDjKtl0n) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 6:24 |
+| 28 | [Horizon](https://open.spotify.com/track/28GQO7qa54ouDsWDjKtl0n) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 6:24 |
+| 29 | [Rain](https://open.spotify.com/track/04ZsK2jPzneYHxkFWeu667) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Hill, Flower, Fog](https://open.spotify.com/album/4kUoHjxVlyhhTnmSwM47ol) | 6:09 |
 
-Snapshot ID: `akb7gAAAAAADaxMx0seQAY5pIGPYQo6+`
+Snapshot ID: `akhNAAAAAAClaB0LWO1CgZl0ET3RiXOc`

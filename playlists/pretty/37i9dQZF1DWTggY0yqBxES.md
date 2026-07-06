@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: BKTHERULA
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,486 likes - 100 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,502 likes - 100 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 99 | [YOU CRY LOVE.](https://open.spotify.com/track/7iDkEUp4KuUIWR9HPOyvXZ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [YOU CRY LOVE.](https://open.spotify.com/album/2QKuLOLIQ8rD4aPXNr6rxR) | 2:38 |
 | 100 | [Jeep \(feat\. Terror Reid\)](https://open.spotify.com/track/6EZOHEegsRf5kp4pLfkTjt) | [Token](https://open.spotify.com/artist/4cUfFbVZGSsJWdbfmkdxYq), [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA) | [Jeep \(feat\. Terror Reid\)](https://open.spotify.com/album/29cSXGzONKVj5qcODEbzfl) | 2:00 |
 
-Snapshot ID: `AAAAACc+KzMZZ9bGm7VNFhgo98k0cHwW`
+Snapshot ID: `AAAAAKhu+c6qpNOxGwdqFP8H+NwAc1/9`

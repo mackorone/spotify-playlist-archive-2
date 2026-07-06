@@ -1,12 +1,12 @@
 {
   "description": "This is N\u00edvea Soares. The essential tracks, all in one playlist.",
-  "num_followers": 63502,
+  "num_followers": 63503,
   "original_name": "This Is N\u00edvea Soares",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAD4Qwk38bTByKEC4P80Rw7d",
+  "snapshot_id": "akhNAAAAAACggTSiUu2qZbzLrB31dz3D",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Digno de Tudo + Te Exaltamos (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5cU4w3ateIMCsm8aFneNuB"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 546346,
+      "name": "Digno de Tudo + Te Exaltamos - Ao Vivo",
+      "url": "https://open.spotify.com/track/67DGEqcpxUXtZEtFFmsnQC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jireh",
         "url": "https://open.spotify.com/album/4FiL7tytS8757LLp4SRIqq"
       },
@@ -459,18 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Digno de Tudo + Te Exaltamos (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5cU4w3ateIMCsm8aFneNuB"
+        "name": "Som da Liberdade 2.0",
+        "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
       },
       "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
         }
       ],
-      "duration_ms": 546346,
-      "name": "Digno de Tudo + Te Exaltamos - Ao Vivo",
-      "url": "https://open.spotify.com/track/67DGEqcpxUXtZEtFFmsnQC"
+      "duration_ms": 305076,
+      "name": "Filho do Deus Vivo (feat. N\u00edvea Soares)",
+      "url": "https://open.spotify.com/track/4Ksk2JCgHnWxTcrhTC6c99"
     },
     {
       "added_at": null,
@@ -491,26 +511,6 @@
       "duration_ms": 413965,
       "name": "Can\u00e7\u00e3o dos Redimidos - Ao Vivo",
       "url": "https://open.spotify.com/track/6WxZVLp7T1Li3EAafagTdw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Som da Liberdade 2.0",
-        "url": "https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 305076,
-      "name": "Filho do Deus Vivo (feat. N\u00edvea Soares)",
-      "url": "https://open.spotify.com/track/4Ksk2JCgHnWxTcrhTC6c99"
     },
     {
       "added_at": null,
@@ -783,22 +783,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Temerei Jamais (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1LvLWCZMmMLYFzMct7BmO7"
+        "name": "Nossas M\u00e3os Te Exaltar\u00e3o",
+        "url": "https://open.spotify.com/album/6TZo4gIsBIWXWthYoxxDFq"
       },
       "artists": [
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        },
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
         }
       ],
-      "duration_ms": 352037,
-      "name": "N\u00e3o Temerei Jamais - Ao Vivo",
-      "url": "https://open.spotify.com/track/7omZ8f0zmTS8ywEojfODq7"
+      "duration_ms": 489268,
+      "name": "Nossas M\u00e3os Te Exaltar\u00e3o",
+      "url": "https://open.spotify.com/track/2MrEBUg4rn1oyv8Q2OGpKl"
     },
     {
       "added_at": null,
@@ -819,18 +815,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nossas M\u00e3os Te Exaltar\u00e3o",
-        "url": "https://open.spotify.com/album/6TZo4gIsBIWXWthYoxxDFq"
+        "name": "N\u00e3o Temerei Jamais (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1LvLWCZMmMLYFzMct7BmO7"
       },
       "artists": [
         {
           "name": "N\u00edvea Soares",
           "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        },
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
         }
       ],
-      "duration_ms": 489268,
-      "name": "Nossas M\u00e3os Te Exaltar\u00e3o",
-      "url": "https://open.spotify.com/track/2MrEBUg4rn1oyv8Q2OGpKl"
+      "duration_ms": 352037,
+      "name": "N\u00e3o Temerei Jamais - Ao Vivo",
+      "url": "https://open.spotify.com/track/7omZ8f0zmTS8ywEojfODq7"
     },
     {
       "added_at": null,
@@ -955,22 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grande \u00e9 o Senhor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5oqDl5IyyhOejgBcl2pDv9"
-      },
-      "artists": [
-        {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
-        }
-      ],
-      "duration_ms": 413311,
-      "name": "Grande \u00e9 o Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/2mYzwAhfjxNkUu6pJvZyCJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Preto no Branco 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4HJ3j7O253RnPyu43mIicT"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 267170,
       "name": "O Le\u00e3o E A Igreja (feat. N\u00edvea Soares) - Ao Vivo",
       "url": "https://open.spotify.com/track/1WGYEaDlxW9BTSFVCi664Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grande \u00e9 o Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5oqDl5IyyhOejgBcl2pDv9"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 413311,
+      "name": "Grande \u00e9 o Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/2mYzwAhfjxNkUu6pJvZyCJ"
     },
     {
       "added_at": null,

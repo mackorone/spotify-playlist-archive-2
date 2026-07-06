@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 46513,
+  "num_followers": 46535,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAABX2N/1qMNtrnug7jz5D7Me",
+  "snapshot_id": "akhNAAAAAADonSQ+Pyyj9vqyl955bx7X",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 118739,
+      "name": "shadeson (with 2hollis)",
+      "url": "https://open.spotify.com/track/7155NVwKKJjtQtssuaqgJ9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Great Chaos",
         "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
       },
@@ -75,26 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "xperiment",
-        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 118739,
-      "name": "shadeson (with 2hollis)",
-      "url": "https://open.spotify.com/track/7155NVwKKJjtQtssuaqgJ9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Great Chaos (Deluxe)",
         "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
       },
@@ -107,6 +107,26 @@
       "duration_ms": 141031,
       "name": "overseas",
       "url": "https://open.spotify.com/track/722NAIXkI6WRNvu9O7JkdH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 198410,
+      "name": "deaf note (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
     },
     {
       "added_at": null,
@@ -147,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "xperiment",
-        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 198410,
-      "name": "deaf note (with Playboi Carti)",
-      "url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Great Chaos (Deluxe)",
         "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
       },
@@ -179,6 +179,26 @@
       "duration_ms": 128000,
       "name": "mewtwo",
       "url": "https://open.spotify.com/track/6xZYGIixR3zhhOHwu7UEMY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 233335,
+      "name": "ghost (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5l2JiMegRp9HTtnlVDDdJb"
     },
     {
       "added_at": null,
@@ -215,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "xperiment",
-        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 163392,
-      "name": "wheredoistart",
-      "url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Chaos",
         "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
       },
@@ -243,6 +247,22 @@
       "duration_ms": 230923,
       "name": "Blakk Rokkstar",
       "url": "https://open.spotify.com/track/1LsisG6aoqfsF1r6M4LpMO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 135917,
+      "name": "gynecologist",
+      "url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H"
     },
     {
       "added_at": null,
@@ -279,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "xperiment",
-        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 135917,
-      "name": "gynecologist",
-      "url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Chaos",
         "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
       },
@@ -315,6 +319,22 @@
       "duration_ms": 219428,
       "name": "Off The Meter (with Playboi Carti & Destroy Lonely)",
       "url": "https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 163392,
+      "name": "wheredoistart",
+      "url": "https://open.spotify.com/track/1lJWyDulWuGHlPccvRdZVs"
     },
     {
       "added_at": null,
@@ -355,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "xperiment",
-        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 233335,
-      "name": "ghost (with Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/5l2JiMegRp9HTtnlVDDdJb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DOPAMINE",
         "url": "https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml"
       },
@@ -391,6 +391,22 @@
       "duration_ms": 177534,
       "name": "Tic Tac Toe (with Ken Carson)",
       "url": "https://open.spotify.com/track/0YgyE3xIbYNzYhaPPHqrXJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 133395,
+      "name": "possession",
+      "url": "https://open.spotify.com/track/7fqzm05AMU8nxELARCtGZr"
     },
     {
       "added_at": null,
@@ -423,22 +439,6 @@
       "duration_ms": 130422,
       "name": "catastrophe",
       "url": "https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "xperiment",
-        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 170968,
-      "name": "wrist",
-      "url": "https://open.spotify.com/track/2LLALDUCUNpRPNNGLOwOrq"
     },
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 176578,
-      "name": "Murda Musik (feat. Destroy Lonely)",
-      "url": "https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Chaos",
         "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
       },
@@ -627,78 +607,6 @@
       "duration_ms": 190541,
       "name": "LiveLeak",
       "url": "https://open.spotify.com/track/7aURTqVzpZxkJfboCvGc69"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SONY",
-        "url": "https://open.spotify.com/album/0zz2XwgWhbqgaFLVflgQHp"
-      },
-      "artists": [
-        {
-          "name": "Ufo361",
-          "url": "https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl"
-        },
-        {
-          "name": "lucidbeatz",
-          "url": "https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou"
-        },
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 130129,
-      "name": "RICK OWENS (feat. Ken Carson)",
-      "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Great Chaos (Deluxe)",
-        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 157694,
-      "name": "leather jacket",
-      "url": "https://open.spotify.com/track/3OUfsApmvr7mwIm0rSbqbu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 169889,
-      "name": "New",
-      "url": "https://open.spotify.com/track/2ht2G1JL1yg0kIbz6Wfr8V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Chaos",
-        "url": "https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 105191,
-      "name": "Money Spread",
-      "url": "https://open.spotify.com/track/0EMaW6H0JkB84B8ebkkDrI"
     }
   ],
   "unique_name": "This Is Ken Carson",

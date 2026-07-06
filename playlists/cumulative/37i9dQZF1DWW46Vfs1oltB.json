@@ -31029,6 +31029,40 @@
     },
     {
       "album": {
+        "name": "Ripple Effect2",
+        "url": "https://open.spotify.com/album/2y1ZAe6SuMSBcdYhkGxlZj"
+      },
+      "artists": [
+        {
+          "name": "Swings",
+          "url": "https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq"
+        },
+        {
+          "name": "YULEUM",
+          "url": "https://open.spotify.com/artist/7mR09TGFa7m27D7l2m9FbB"
+        },
+        {
+          "name": "shinjihang",
+          "url": "https://open.spotify.com/artist/6LGvFSi2nlVrapbgljktyj"
+        },
+        {
+          "name": "Nochang",
+          "url": "https://open.spotify.com/artist/7t9GBnoezuCQxIIoMaE8KO"
+        },
+        {
+          "name": "hyeminsong",
+          "url": "https://open.spotify.com/artist/4gwWGwahyZnvnSp75bWg82"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Ripple Effect2",
+      "url": "https://open.spotify.com/track/3MZrmxOL1o0dViNNvAR5a3"
+    },
+    {
+      "album": {
         "name": "River Boy",
         "url": "https://open.spotify.com/album/6QGsBgxDtQICNXfCjC3Yjp"
       },

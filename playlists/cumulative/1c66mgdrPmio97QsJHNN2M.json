@@ -2691,6 +2691,24 @@
     },
     {
       "album": {
+        "name": "Azizem Dance",
+        "url": "https://open.spotify.com/album/4fm6EzqGNRkjkm0PlYw0KX"
+      },
+      "artists": [
+        {
+          "name": "OMER AHMET",
+          "url": "https://open.spotify.com/artist/3JVxVTJNYcvna9BAZh0n1w"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187636,
+      "name": "Azizem Dance",
+      "url": "https://open.spotify.com/track/3oJg0tAHvnIbBpoFEhMCrj"
+    },
+    {
+      "album": {
         "name": "B.I.O.T.B (Blame It On The Booze)",
         "url": "https://open.spotify.com/album/1w3ngCvVZ7RMXGKI8Quwfa"
       },
@@ -6092,7 +6110,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 242320,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/6PimI7Z6f2FSPa9IoSB1g2"
@@ -6701,7 +6719,7 @@
     },
     {
       "album": {
-        "name": "Good boy bad days",
+        "name": "Good Boy Bad Days",
         "url": "https://open.spotify.com/album/3s3HVlOwgiMEV9Xkayf0L8"
       },
       "artists": [
@@ -6714,7 +6732,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 106666,
-      "name": "Clown Demo - Slowed",
+      "name": "Clown Demo",
       "url": "https://open.spotify.com/track/7zWpz5ieaqwHonnz2otbqb"
     },
     {
@@ -8500,7 +8518,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 229799,
       "name": "Delete This Trip",
       "url": "https://open.spotify.com/track/543p3kPCgYM3YE85euohAr"
@@ -15054,6 +15072,24 @@
       "duration_ms": 286594,
       "name": "Happy Heart",
       "url": "https://open.spotify.com/track/6nFbQuu4DxjT6FjieiboT2"
+    },
+    {
+      "album": {
+        "name": "The King and the Sparrow",
+        "url": "https://open.spotify.com/album/7g1LueKiCAtBdEanwL1imW"
+      },
+      "artists": [
+        {
+          "name": "Arn-Identified Flying Objects and Alien Friends",
+          "url": "https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Happy People Won't Hear (Album Version)",
+      "url": "https://open.spotify.com/track/7FpPYfJbK0ZcEthJdYUnxZ"
     },
     {
       "album": {
@@ -26418,7 +26454,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 134086,
       "name": "Nonchalant",
       "url": "https://open.spotify.com/track/68bz0VucqEEP1UqffU53SN"
@@ -27498,7 +27534,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 187428,
       "name": "One Way Out",
       "url": "https://open.spotify.com/track/7MEPb3lX1T1U7nX3KpSAas"
@@ -28662,7 +28698,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 273759,
       "name": "Penny in Rain",
       "url": "https://open.spotify.com/track/58seGNNBIW29fnIdfHlkp7"
@@ -33082,7 +33118,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 298080,
       "name": "Silent Haze",
       "url": "https://open.spotify.com/track/3BcqjrIS0kuOlMZbvtyimC"

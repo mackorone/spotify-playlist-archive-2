@@ -6897,6 +6897,24 @@
     },
     {
       "album": {
+        "name": "Bleeding Time",
+        "url": "https://open.spotify.com/album/5Hde45T4f4zGTSLaHCQpA8"
+      },
+      "artists": [
+        {
+          "name": "Icy",
+          "url": "https://open.spotify.com/artist/175e5s7H5zPUvseDzoS2GY"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Black Poison",
+      "url": "https://open.spotify.com/track/66ctG69FpIeFyTYX2th0xR"
+    },
+    {
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/2m1enA3YrMLVvR3q0MqLpL"
       },
@@ -14380,7 +14398,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -15052,7 +15070,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -15926,7 +15944,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 224676,
       "name": "Ekkert breytir \u00fev\u00ed",
       "url": "https://open.spotify.com/track/6en2xcGpI4aVQk4duxeC51"
@@ -20294,7 +20312,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 226023,
       "name": "Frelsi\u00f0",
       "url": "https://open.spotify.com/track/17eVe466nbOmrqyaBHh8BI"
@@ -23000,7 +23018,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 173975,
       "name": "Great Expectation",
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
@@ -32494,7 +32512,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 206812,
       "name": "LAS \u00c1 MILLI L\u00cdNANNA",
       "url": "https://open.spotify.com/track/4bVRfUL52xfL8Yh9W5mgSp"
@@ -35192,7 +35210,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 212520,
       "name": "LXS",
       "url": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
@@ -52720,7 +52738,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 240106,
       "name": "Stingum Af",
       "url": "https://open.spotify.com/track/0yltFzTFI64tr5aNVc2isX"
@@ -54864,7 +54882,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-23",
+      "date_removed": null,
       "duration_ms": 230063,
       "name": "S\u00f3d\u00f3ma",
       "url": "https://open.spotify.com/track/2E6eRqZZxUWpoKxGBhaHDH"
@@ -55046,7 +55064,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 99752,
       "name": "S\u00f3lskin",
       "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
@@ -59524,7 +59542,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 179220,
       "name": "T\u00fdnda kynsl\u00f3\u00f0in",
       "url": "https://open.spotify.com/track/5P3MwEcrBYQ4oviLfk8pLU"
@@ -59906,7 +59924,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 215945,
       "name": "Undir \u00fe\u00ednum \u00e1hrifum",
       "url": "https://open.spotify.com/track/39hxADdgW2sGdUn0xBqWDb"
@@ -65696,7 +65714,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 199505,
       "name": "\u00c9g er farinn",
       "url": "https://open.spotify.com/track/78WfDuDCfJzUhOiD9vzsIf"

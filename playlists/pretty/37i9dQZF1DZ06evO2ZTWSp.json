@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 476187,
+  "num_followers": 476174,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAA0llTjVRav6chApgmUGnta",
+  "snapshot_id": "akhNAAAAAAA1oRiI9le9MouZ+bOYOdQ3",
   "tracks": [
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 167193,
-      "name": "She Stole My Man",
-      "url": "https://open.spotify.com/track/2rO9FMoLlTZROoHrxmB2WG"
+      "duration_ms": 190083,
+      "name": "That GRRRL",
+      "url": "https://open.spotify.com/track/0oHri1omd5Y4p394zQQiOs"
     },
     {
       "added_at": null,
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 190083,
-      "name": "That GRRRL",
-      "url": "https://open.spotify.com/track/0oHri1omd5Y4p394zQQiOs"
+      "duration_ms": 167193,
+      "name": "She Stole My Man",
+      "url": "https://open.spotify.com/track/2rO9FMoLlTZROoHrxmB2WG"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coconut Oil",
+        "url": "https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 204392,
+      "name": "Scuse Me",
+      "url": "https://open.spotify.com/track/26Q7f4tUntDtlL4EyZz65X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who Is Bankroll?",
         "url": "https://open.spotify.com/album/5I6AcuO3zFir65GHWY6pap"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 131592,
       "name": "From The Back",
       "url": "https://open.spotify.com/track/5f5BVvemMmLZrnOgHaysJG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coconut Oil",
-        "url": "https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 204392,
-      "name": "Scuse Me",
-      "url": "https://open.spotify.com/track/26Q7f4tUntDtlL4EyZz65X"
     },
     {
       "added_at": null,

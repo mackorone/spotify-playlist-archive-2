@@ -4,7 +4,7 @@
 
 > With Tssara, Die Mannequin, The Donnas and more
 
-572 songs - 1 day 6 hr 36 min
+573 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Caffeine and Chaos](https://open.spotify.com/track/1gW5d9T0AuhgmckycjCaCt) | [MomXCore](https://open.spotify.com/artist/2CLqhbcdcunilzTAMJ3TjA) | [MomxCore Era volume 1](https://open.spotify.com/album/0orlxMDSmFt2Iwa6L9wrLy) | 3:11 | 2025-11-28 | 2025-11-30 |
 | [Cake](https://open.spotify.com/track/2R4QvWH7WESPMHkrUXsB5j) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab) | [Cake](https://open.spotify.com/album/6ff3VYwTYs4GngQXPkuLO4) | 2:36 | 2026-04-29 | 2026-05-07 |
 | [CANARY](https://open.spotify.com/track/1n27mNE1nt2NdyvatOpyCG) | [Stevi Daft](https://open.spotify.com/artist/79znh3JUR2jtyeYCGxUEUB) | [THE LOVER: SEETHING](https://open.spotify.com/album/1Xj1xh91KbyErvc4g9UZUe) | 2:43 | 2026-02-26 | 2026-03-20 |
-| [Candide](https://open.spotify.com/track/7tehNfvoGYl42Ynn5WfCBh) | [Die Mannequin](https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C) | [FINO + BLEED](https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA) | 4:17 | 2025-12-08 |  |
+| [Candide](https://open.spotify.com/track/7tehNfvoGYl42Ynn5WfCBh) | [Die Mannequin](https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C) | [FINO + BLEED](https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA) | 4:17 | 2025-12-08 | 2026-07-06 |
 | [Catapult](https://open.spotify.com/track/6akUUK3X6K49283AbwHJK4) | [Operator Please](https://open.spotify.com/artist/3KshwzAIDBZRPr5Xc7S79C) | [Gloves](https://open.spotify.com/album/5Puvnt7lAt5ehbfZAN5haL) | 3:11 | 2026-05-31 | 2026-06-04 |
 | [CC & Strawberries \- Fast as F\*\*k](https://open.spotify.com/track/0OQ4PerXyhp2EUAudOnJTD) | [TAT](https://open.spotify.com/artist/1sdjlyYJxbkz7zeFjvwiCG) | [Champagne Cocaine & Strawberries \[Single\]](https://open.spotify.com/album/4pqxHqsjZDPkyv3pv7QDT2) | 2:28 | 2026-03-20 | 2026-05-21 |
 | [Certain Call](https://open.spotify.com/track/0X0TruhDU9hbzVSWzc1OM3) | [SMERAGDEL](https://open.spotify.com/artist/52z08Xb0wo3np9nbcw03in) | [So Painful](https://open.spotify.com/album/4bpBUqNaD2Er6tAKbzvZwZ) | 1:34 | 2026-01-15 | 2026-02-06 |
@@ -377,7 +377,7 @@
 | [New Shirt](https://open.spotify.com/track/7Kf3bAUkl2zZpQGqaSptGz) | [Grace Calver](https://open.spotify.com/artist/1sOSpXgCLXfiFfAgrEAXxy) | [New Shirt](https://open.spotify.com/album/6xnT94cQkLec9OxExpHB34) | 3:22 | 2026-06-17 |  |
 | [No Collar, No Gods](https://open.spotify.com/track/7pkFwoao9jFUoG6VMOWFk8) | [The Nine\-Tails Archive](https://open.spotify.com/artist/0tSOQPrqmnSZtoyu7mlvv2) | [SNARLCORE](https://open.spotify.com/album/7c7ET7NOSsC2bloLXn3MnB) | 2:39 | 2025-12-09 | 2026-03-04 |
 | [No One Else to Blame](https://open.spotify.com/track/08DhdjDCKjRpCVfbXh4RbA) | [Peter leather](https://open.spotify.com/artist/6pQXtM2hYHCNxtoGwXN3Z7) | [Footprints in the Dust](https://open.spotify.com/album/5Jn6O7PxhaI72O02nuQziV) | 4:16 | 2026-03-16 | 2026-03-18 |
-| [No Shame](https://open.spotify.com/track/44a2Gxxj1yZB71GdGzJeJJ) | [Ethereal Flow play](https://open.spotify.com/artist/7p81FYSyyDdu5zi0a3eSy7) | [No Shame](https://open.spotify.com/album/4rCvO4SvFd81ISFZqgxT22) | 2:33 | 2026-05-09 | 2026-07-04 |
+| [No Shame](https://open.spotify.com/track/44a2Gxxj1yZB71GdGzJeJJ) | [Ethereal Flow play](https://open.spotify.com/artist/7p81FYSyyDdu5zi0a3eSy7) | [No Shame](https://open.spotify.com/album/4rCvO4SvFd81ISFZqgxT22) | 2:33 | 2026-05-09 |  |
 | [Noise](https://open.spotify.com/track/2xGSL8MPlpcIp0R4iqXt39) | [No Soul Society](https://open.spotify.com/artist/3gsuENchozal71ZlsWoXLS) | ["This Isn't Real" Mixtape](https://open.spotify.com/album/1Guys8brPRoUOywlJLRdCJ) | 1:57 | 2026-01-02 | 2026-01-16 |
 | [Not Cool With It](https://open.spotify.com/track/5npbs2bidYyfRqE6SpPIcD) | [Wynona Bleach](https://open.spotify.com/artist/3U7XDjbMZWVbis1wAUzjMq) | [Not Cool With It](https://open.spotify.com/album/24eUr3QxI54tKOlojHntkf) | 3:47 | 2026-05-03 | 2026-05-12 |
 | [Not Crying](https://open.spotify.com/track/3MSby7uBkcR9STCrcarUlu) | [The Beautiful Darkness](https://open.spotify.com/artist/1AtuVRvLQYv1c0ZK4rhJPE) | [Not Crying](https://open.spotify.com/album/64YF8Xwm4UbKYrTqB4p3HB) | 2:11 | 2026-02-25 | 2026-03-08 |
@@ -461,7 +461,7 @@
 | [SHARK TANK FLOOR.](https://open.spotify.com/track/2brqw24PckCBQsbbuIHPc1) | [Nona Cyrelle](https://open.spotify.com/artist/6JdeiRL78vfoGEQ8RhBEa0) | [The Glass Exhibit](https://open.spotify.com/album/2z8MKkqPCuykOSmbN5uCwb) | 2:14 | 2025-12-17 | 2026-01-15 |
 | [Shattered Dreams](https://open.spotify.com/track/6drjTMxU2cYLzQ20h9SVgR) | [Bluespells](https://open.spotify.com/artist/0MmTWsbvgdylOoJuZF38gw) | [Shattered Dreams](https://open.spotify.com/album/21Y5fpqwVPh27o9ls1OnPU) | 3:27 | 2025-11-29 | 2025-12-01 |
 | [Shazam In The Van](https://open.spotify.com/track/2xsVv204pUuHhUOVGwStmP) | [The Neptune Power Federation](https://open.spotify.com/artist/7JycGU3Hz4e5g1ZFSAIy0P) | [Mano a Satano Redux](https://open.spotify.com/album/5G2LMBHXTJDUDqHVEDM0Kp) | 3:01 | 2026-05-03 | 2026-05-07 |
-| [She's Wild](https://open.spotify.com/track/5ZKhIs4HWm2yAajUxIbrga) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [She's Wild](https://open.spotify.com/album/7aTuY5Ho8CwgwS4XuhtISb) | 2:46 | 2026-07-01 |  |
+| [She's Wild](https://open.spotify.com/track/5ZKhIs4HWm2yAajUxIbrga) | [Little Quirks](https://open.spotify.com/artist/6l6nwL0mxcwiSwa8WOebCx) | [She's Wild](https://open.spotify.com/album/7aTuY5Ho8CwgwS4XuhtISb) | 2:46 | 2026-07-01 | 2026-07-06 |
 | [Shibuya Spark Surge](https://open.spotify.com/track/27DgDjnuv6arYqMyloQfpH) | [Tssara](https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB) | [Static Sparks Worldwide](https://open.spotify.com/album/7beGPqFRHZ5EIsJVIsGHrk) | 1:29 | 2026-05-12 |  |
 | [SHITSHOW](https://open.spotify.com/track/1GYakThnUhlPhb7sX9w1Lh) | [Earth to Cheska](https://open.spotify.com/artist/3TRw8bb0v7cKloPTYnadsi) | [SHITSHOW](https://open.spotify.com/album/5dY7UQFZDEz6KM8bpWBqCY) | 4:58 | 2026-06-04 | 2026-06-06 |
 | [Shoreditch Nights Unfold](https://open.spotify.com/track/0TCAONeg235fvBWpJ5352B) | [Xesyxa](https://open.spotify.com/artist/7c6DQPMp5vR0tTVdiZ0O25) | [Nocturnal Highways](https://open.spotify.com/album/2PWoQZPlvfnCGKxbs6XSDR) | 2:06 | 2025-12-12 | 2026-01-06 |
@@ -473,6 +473,7 @@
 | [Slow And Easy](https://open.spotify.com/track/5fFgkMWnahtrpSIWsBpxz8) | [The Karma Effect](https://open.spotify.com/artist/2D1hmJmCscHyl2PzaIu9J1) | [Promised Land \- Off The Beaten Track](https://open.spotify.com/album/0doDwYWf0YwCFx6G8J4PAC) | 3:11 | 2026-04-18 | 2026-04-29 |
 | [So Many Bullets](https://open.spotify.com/track/1hshqnEYT4A3dX1UVvtyQO) | [Sweet Talk!](https://open.spotify.com/artist/0VXxW6UvN5sDxe1to9AFef) | [Table Scraps](https://open.spotify.com/album/7ooXqLIGghD8pDxcJmTZhB) | 3:04 | 2026-05-07 | 2026-05-14 |
 | [So Many Bullets](https://open.spotify.com/track/29VkXvAbzDqh345Q447uoZ) | [Sweet Talk!](https://open.spotify.com/artist/0VXxW6UvN5sDxe1to9AFef) | [So Many Bullets](https://open.spotify.com/album/5VGhjIpStvsCjqGPGGqiNn) | 3:04 | 2026-04-09 | 2026-05-02 |
+| [SO OBVIOUS](https://open.spotify.com/track/7v3WCAQhmL2G6TUlpeS4Tm) | [LIZZA BAI](https://open.spotify.com/artist/4VjBHMBhXxlSzR7LPUMXg3) | [DAEGU](https://open.spotify.com/album/7AGcHJHIrz5etIxHu6bgP1) | 3:01 | 2026-07-06 |  |
 | [So What](https://open.spotify.com/track/17mDkw99uAJnjFOXeDuLbE) | [Leela](https://open.spotify.com/artist/11irmEzISytQwB3G8uhC5E) | [Seven Stars](https://open.spotify.com/album/25VkYHFaFthjs7CHtmws0t) | 3:13 | 2025-12-10 | 2026-07-04 |
 | [Some sin like that](https://open.spotify.com/track/2ZgKHAKPKbxWmyGxldrBm1) | [Trinity](https://open.spotify.com/artist/3GVRuDiz2SuhpZBSz8KTcT) | [When Innocence Plays Tricks](https://open.spotify.com/album/5ErobCBg0cQnoACVeeQxIk) | 5:00 | 2026-04-12 | 2026-04-17 |
 | [Song for the Devoted](https://open.spotify.com/track/6N3jPKduRFatcCYgCfWBUU) | [The Skylines](https://open.spotify.com/artist/7HynuGRebJjpVxBI27QZST) | [Sleeping in on Sunday](https://open.spotify.com/album/7BWY1ZDZzyPo8HNlrZSEu3) | 4:54 | 2026-01-27 | 2026-02-10 |

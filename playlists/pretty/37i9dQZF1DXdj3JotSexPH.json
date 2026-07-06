@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 36016,
+  "num_followers": 36015,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -591,6 +591,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "BACKBONE",
+        "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Stormzy",
+          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
+        }
+      ],
+      "duration_ms": 166448,
+      "name": "BACKBONE",
+      "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Funk de Beleza",
         "url": "https://open.spotify.com/album/4s7LxMlh6RxgdMhldfMe8u"
       },
@@ -611,26 +631,6 @@
       "duration_ms": 145115,
       "name": "Funk de Beleza - Slowed",
       "url": "https://open.spotify.com/track/43jExF2HeZ6cJIGrWF0ie4"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "BACKBONE",
-        "url": "https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Stormzy",
-          "url": "https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd"
-        }
-      ],
-      "duration_ms": 166448,
-      "name": "BACKBONE",
-      "url": "https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -703,6 +703,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "RAVE",
+        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
+      },
+      "artists": [
+        {
+          "name": "Dxrk \u30c0\u30fc\u30af",
+          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
+        }
+      ],
+      "duration_ms": 169245,
+      "name": "RAVE",
+      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "SPOOKY",
         "url": "https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 96923,
       "name": "SPOOKY",
       "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "RAVE",
-        "url": "https://open.spotify.com/album/0doOTVLn5DctSLGftsar6T"
-      },
-      "artists": [
-        {
-          "name": "Dxrk \u30c0\u30fc\u30af",
-          "url": "https://open.spotify.com/artist/5TvFfw1MgSntdU9A7yncyA"
-        }
-      ],
-      "duration_ms": 169245,
-      "name": "RAVE",
-      "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Catharina",
-        "url": "https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        }
-      ],
-      "duration_ms": 207288,
-      "name": "Catharina",
-      "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "FUNKED UP",
         "url": "https://open.spotify.com/album/4FRxgE6LA2UGJ5yz8diaI9"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Catharina",
+        "url": "https://open.spotify.com/album/5tb6la76gh37dUfEBanIGc"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 207288,
+      "name": "Catharina",
+      "url": "https://open.spotify.com/track/0axM6rXe76kVZ5H3vbb8pi"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Duro",
-        "url": "https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Duro",
-      "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "ONE FOR YOU",
         "url": "https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 152516,
       "name": "ONE FOR YOU",
       "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Duro",
+        "url": "https://open.spotify.com/album/6qVJg6v3zLf9tEm7cQiRch"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Duro",
+      "url": "https://open.spotify.com/track/0TCXWkIuBKZeHAzn1O75FS"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/0JnmszyYOgIIF7x4GLILSM"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 169326,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/7sKCIyN4Sdeo7OBBUeMCfy"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/5G64NG1cJVftgUuEk7ox0n"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/0bqnisRuU2P52pXp3vXWol"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "TAKIN PICTURES",
-        "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
-      },
-      "artists": [
-        {
-          "name": "MAYV",
-          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
-        }
-      ],
-      "duration_ms": 171696,
-      "name": "TAKIN PICTURES",
-      "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "SAY SOMETHING",
         "url": "https://open.spotify.com/album/5GpGiO6KJyRuk73MEqsPdr"
       },
@@ -2043,6 +2027,22 @@
       "duration_ms": 171428,
       "name": "SAY SOMETHING",
       "url": "https://open.spotify.com/track/2Ua1gdg52itBvIelrsR0lj"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "TAKIN PICTURES",
+        "url": "https://open.spotify.com/album/3mWmTY0nqpjXBsOtemOAVC"
+      },
+      "artists": [
+        {
+          "name": "MAYV",
+          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
+        }
+      ],
+      "duration_ms": 171696,
+      "name": "TAKIN PICTURES",
+      "url": "https://open.spotify.com/track/2Z0VrKLEa761B4pKJJFgJW"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2215,26 +2215,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Subliminals",
-        "url": "https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX"
-      },
-      "artists": [
-        {
-          "name": "Saint Ludo",
-          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
-        },
-        {
-          "name": "Kasst 8",
-          "url": "https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs"
-        }
-      ],
-      "duration_ms": 154100,
-      "name": "Subliminals",
-      "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Halo (feat. Shibui)",
         "url": "https://open.spotify.com/album/7sZooyvXa18fr9wa8YHyqd"
       },
@@ -2255,6 +2235,26 @@
       "duration_ms": 156000,
       "name": "Halo (feat. Shibui)",
       "url": "https://open.spotify.com/track/7ELMkdmYhcknPvzn0CydAJ"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Subliminals",
+        "url": "https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX"
+      },
+      "artists": [
+        {
+          "name": "Saint Ludo",
+          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
+        },
+        {
+          "name": "Kasst 8",
+          "url": "https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs"
+        }
+      ],
+      "duration_ms": 154100,
+      "name": "Subliminals",
+      "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "HEAVY",
-        "url": "https://open.spotify.com/album/6pyBVhhnvUn2SFFSD0sPVo"
-      },
-      "artists": [
-        {
-          "name": "Sentimento",
-          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "That That",
-      "url": "https://open.spotify.com/track/6EtiJyUqnFTIg5R1hIEYhB"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Born Again",
         "url": "https://open.spotify.com/album/1pwBeGAONzyEHFJyFdWUv7"
       },
@@ -2355,18 +2339,18 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Welcome To My Crib",
-        "url": "https://open.spotify.com/album/3NAuKs5dqQH4sKwFTh71zq"
+        "name": "HEAVY",
+        "url": "https://open.spotify.com/album/6pyBVhhnvUn2SFFSD0sPVo"
       },
       "artists": [
         {
-          "name": "FUCK!LACR\u00c8ME",
-          "url": "https://open.spotify.com/artist/6ORtqnmzscfjstI402S8tc"
+          "name": "Sentimento",
+          "url": "https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa"
         }
       ],
-      "duration_ms": 228750,
-      "name": "Slam It",
-      "url": "https://open.spotify.com/track/1r2lP8B7tBmK1zATKzXO3g"
+      "duration_ms": 148965,
+      "name": "That That",
+      "url": "https://open.spotify.com/track/6EtiJyUqnFTIg5R1hIEYhB"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2383,6 +2367,22 @@
       "duration_ms": 136946,
       "name": "The Basement",
       "url": "https://open.spotify.com/track/3Sv9eoZL7BD1UtcnMdeV7W"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Welcome To My Crib",
+        "url": "https://open.spotify.com/album/3NAuKs5dqQH4sKwFTh71zq"
+      },
+      "artists": [
+        {
+          "name": "FUCK!LACR\u00c8ME",
+          "url": "https://open.spotify.com/artist/6ORtqnmzscfjstI402S8tc"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Slam It",
+      "url": "https://open.spotify.com/track/1r2lP8B7tBmK1zATKzXO3g"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2627,22 +2627,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Eu Sento Gabu!",
-        "url": "https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o"
-      },
-      "artists": [
-        {
-          "name": "PXLWYSE",
-          "url": "https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH"
-        }
-      ],
-      "duration_ms": 83754,
-      "name": "Eu Sento Gabu!",
-      "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Kisses (feat. bbyclose)",
         "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
       },
@@ -2663,6 +2647,22 @@
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Eu Sento Gabu!",
+        "url": "https://open.spotify.com/album/51F5iHYpECc8dd9Wjqv15o"
+      },
+      "artists": [
+        {
+          "name": "PXLWYSE",
+          "url": "https://open.spotify.com/artist/6OwbqUSj4XbZdjexPsKkdH"
+        }
+      ],
+      "duration_ms": 83754,
+      "name": "Eu Sento Gabu!",
+      "url": "https://open.spotify.com/track/24WBge8e53iDTeXOtVB02s"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2915,22 +2915,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "COWBELL WARRIOR!",
-        "url": "https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 149461,
-      "name": "COWBELL WARRIOR!",
-      "url": "https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "PHONKY TOWN",
         "url": "https://open.spotify.com/album/3e6HcRWTkyGi6dA0Zg5pxw"
       },
@@ -2943,6 +2927,22 @@
       "duration_ms": 141373,
       "name": "PHONKY TOWN",
       "url": "https://open.spotify.com/track/0BRbI3ZMPXuj9yA7ChDGOW"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "COWBELL WARRIOR!",
+        "url": "https://open.spotify.com/album/42sN2l32ODOPtJGQLsoukt"
+      },
+      "artists": [
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "duration_ms": 149461,
+      "name": "COWBELL WARRIOR!",
+      "url": "https://open.spotify.com/track/5YVNmwohNrDoo4f8EQ5htK"
     },
     {
       "added_at": "2026-04-13 15:38:24",

@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60319,
-  "original_name": "Compact Cassette",
+  "num_followers": 60314,
+  "original_name": "Compact Cassette (Summer 2026)",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABJTUT1CT7TvGIPBpz4PmGhpXbGyiUk",
+  "snapshot_id": "AABJUICwhuArEHfCk0g9xGSTCgCrqDiQ",
   "tracks": [
     {
       "added_at": "2026-06-28 15:37:20",
@@ -7487,22 +7487,6 @@
     {
       "added_at": "2026-06-21 08:55:18",
       "album": {
-        "name": "Whatever Weather",
-        "url": "https://open.spotify.com/album/4qyEY9uEP1hOaCltiaUITH"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kate",
-          "url": "https://open.spotify.com/artist/4vcv68jx3GIWh7TM6LkMP6"
-        }
-      ],
-      "duration_ms": 145226,
-      "name": "Whatever Weather",
-      "url": "https://open.spotify.com/track/7xxIOpXgo7cNF9IzO3R0NA"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
         "name": "Grand Voyage",
         "url": "https://open.spotify.com/album/67Zg776IO3i70H2JDk49GG"
       },
@@ -7771,22 +7755,6 @@
       "duration_ms": 256392,
       "name": "White Fumata",
       "url": "https://open.spotify.com/track/5JDj5ZHHgK7dl3KbUyXoWo"
-    },
-    {
-      "added_at": "2026-06-21 08:55:18",
-      "album": {
-        "name": "Natalie Green is my Lover",
-        "url": "https://open.spotify.com/album/6RHvpf0C3adwozrABYhIDF"
-      },
-      "artists": [
-        {
-          "name": "Natalie Green",
-          "url": "https://open.spotify.com/artist/0fxQXo3PV20WmVzJaYPC8T"
-        }
-      ],
-      "duration_ms": 244687,
-      "name": "June",
-      "url": "https://open.spotify.com/track/6URCJJRPQAJyxKhzILWllf"
     },
     {
       "added_at": "2026-06-21 08:55:18",
@@ -25557,6 +25525,6 @@
       "url": "https://open.spotify.com/track/3481DrT3d5MZXjo5sa11TO"
     }
   ],
-  "unique_name": "Compact Cassette",
+  "unique_name": "Compact Cassette (Summer 2026)",
   "url": "https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6"
 }

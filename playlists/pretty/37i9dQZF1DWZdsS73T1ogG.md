@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Paloma Mami
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,024 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,987 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [PUCHAINA](https://open.spotify.com/track/0YuON5Dv7TWnFRXJEVHom4) | [Mr\. Fox](https://open.spotify.com/artist/2ATuDQ7nhfT3Y89azqMexw), [Acrimonny](https://open.spotify.com/artist/1VUwvtNZhfi9RwXCx9lgsP), [Da Silence](https://open.spotify.com/artist/4iA8Dt60y18k0dCMpPdFJQ), [Dkey\_](https://open.spotify.com/artist/3M1ABMlIcy1v7eXMvqEoCa), [Damazta](https://open.spotify.com/artist/0pTID1oOL03x64wSONmzjl) | [PUCHAINA](https://open.spotify.com/album/0WSVBL4nSknPaDJcVFuDX8) | 2:55 |
 | 100 | [1y1000](https://open.spotify.com/track/5eKR2HZLPLBCvYEd7RbI0Y) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Kristina](https://open.spotify.com/artist/07Z7bvJe6gxi40UxVpuEL1) | [1y1000](https://open.spotify.com/album/1dzsGQaUwIn2PJLjUfSBaB) | 4:18 |
 
-Snapshot ID: `AAAAAKFhPldoZa0xkjMqnD5n+vBB1Fzz`
+Snapshot ID: `AAAAADk1He+GzQttZc25snBs3Av4NK65`

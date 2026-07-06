@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 484588,
+  "num_followers": 484592,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-04-09 14:00:34",
       "album": {
-        "name": "The Beach",
-        "url": "https://open.spotify.com/album/6G5mImkruaSprUxjInD0jY"
-      },
-      "artists": [
-        {
-          "name": "Warbaby",
-          "url": "https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK"
-        }
-      ],
-      "duration_ms": 195766,
-      "name": "The Beach",
-      "url": "https://open.spotify.com/track/46EDkHBHvcrbvb6sCjGCwF"
-    },
-    {
-      "added_at": "2026-04-09 14:00:34",
-      "album": {
         "name": "Tommy Bahama",
         "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 229963,
       "name": "Tommy Bahama",
       "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+    },
+    {
+      "added_at": "2026-04-09 14:00:34",
+      "album": {
+        "name": "The Beach",
+        "url": "https://open.spotify.com/album/6G5mImkruaSprUxjInD0jY"
+      },
+      "artists": [
+        {
+          "name": "Warbaby",
+          "url": "https://open.spotify.com/artist/5l7abo4Er8M2z34HTCczEK"
+        }
+      ],
+      "duration_ms": 195766,
+      "name": "The Beach",
+      "url": "https://open.spotify.com/track/46EDkHBHvcrbvb6sCjGCwF"
     },
     {
       "added_at": "2026-04-09 14:00:34",

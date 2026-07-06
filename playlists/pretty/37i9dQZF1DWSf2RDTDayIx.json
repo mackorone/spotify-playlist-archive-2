@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2486340,
+  "num_followers": 2486497,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -711,6 +711,26 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
+        "name": "XTC",
+        "url": "https://open.spotify.com/album/3RtP3xUa4QW0VB4H18k0wV"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Jocelyn Enriquez",
+          "url": "https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB"
+        }
+      ],
+      "duration_ms": 182947,
+      "name": "XTC",
+      "url": "https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
         "name": "The One (feat. Jocelyn Brown)",
         "url": "https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg"
       },
@@ -731,26 +751,6 @@
       "duration_ms": 182498,
       "name": "The One (feat. Jocelyn Brown)",
       "url": "https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
-        "name": "XTC",
-        "url": "https://open.spotify.com/album/3RtP3xUa4QW0VB4H18k0wV"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Jocelyn Enriquez",
-          "url": "https://open.spotify.com/artist/5hgxMFtaWAhh6LDHdVBZLB"
-        }
-      ],
-      "duration_ms": 182947,
-      "name": "XTC",
-      "url": "https://open.spotify.com/track/6bIvgjuhHG2tNldfu6WTZE"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -819,22 +819,22 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "Weekends",
-        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
+        "name": "Whatever Turns You On (ft. Bonn)",
+        "url": "https://open.spotify.com/album/0R5bksr4b5l8QRF5AIXeO1"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
         },
         {
-          "name": "felix jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
         }
       ],
-      "duration_ms": 127003,
-      "name": "Weekends",
-      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+      "duration_ms": 195727,
+      "name": "Whatever Turns You On",
+      "url": "https://open.spotify.com/track/7cvWEBFsf7JvEQf7RzATSk"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -855,6 +855,26 @@
       "duration_ms": 170358,
       "name": "Happier (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
+        "name": "Weekends",
+        "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "felix jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 127003,
+      "name": "Weekends",
+      "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -883,26 +903,6 @@
       "duration_ms": 227283,
       "name": "Honey Boy (feat. Nile Rodgers & Shenseea)",
       "url": "https://open.spotify.com/track/1NpIUD4KqHaMT91kw0YV40"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
-        "name": "Whatever Turns You On (ft. Bonn)",
-        "url": "https://open.spotify.com/album/0R5bksr4b5l8QRF5AIXeO1"
-      },
-      "artists": [
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "Bonn",
-          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
-        }
-      ],
-      "duration_ms": 195727,
-      "name": "Whatever Turns You On",
-      "url": "https://open.spotify.com/track/7cvWEBFsf7JvEQf7RzATSk"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
+        "name": "Good Feeling (feat. Rhys Lewis)",
+        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 214942,
+      "name": "Good Feeling (feat. Rhys Lewis)",
+      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
         "name": "Diplo",
         "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 234374,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
-        "name": "Good Feeling (feat. Rhys Lewis)",
-        "url": "https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 214942,
-      "name": "Good Feeling (feat. Rhys Lewis)",
-      "url": "https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -1919,26 +1919,6 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "Come Back 2 Me",
-        "url": "https://open.spotify.com/album/4rIVpifAkufAbOtKAqk0Lq"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "Andre Zimmer",
-          "url": "https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA"
-        }
-      ],
-      "duration_ms": 193564,
-      "name": "Come Back 2 Me",
-      "url": "https://open.spotify.com/track/27WOIAz9VNzBVsLqx1ADOc"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
         "name": "All You Need Is Love",
         "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
@@ -1959,6 +1939,26 @@
       "duration_ms": 139927,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
+        "name": "Come Back 2 Me",
+        "url": "https://open.spotify.com/album/4rIVpifAkufAbOtKAqk0Lq"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Andre Zimmer",
+          "url": "https://open.spotify.com/artist/4HTJLKTCCodGmW4YLyj1VA"
+        }
+      ],
+      "duration_ms": 193564,
+      "name": "Come Back 2 Me",
+      "url": "https://open.spotify.com/track/27WOIAz9VNzBVsLqx1ADOc"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -2131,26 +2131,6 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "True Desire",
-        "url": "https://open.spotify.com/album/3gyd7Tyt0V1WdpddExb32w"
-      },
-      "artists": [
-        {
-          "name": "George Reid",
-          "url": "https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o"
-        },
-        {
-          "name": "AlunaGeorge",
-          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
-        }
-      ],
-      "duration_ms": 155660,
-      "name": "True Desire",
-      "url": "https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
       },
@@ -2167,6 +2147,26 @@
       "duration_ms": 179408,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
+        "name": "True Desire",
+        "url": "https://open.spotify.com/album/3gyd7Tyt0V1WdpddExb32w"
+      },
+      "artists": [
+        {
+          "name": "George Reid",
+          "url": "https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "duration_ms": 155660,
+      "name": "True Desire",
+      "url": "https://open.spotify.com/track/6PUUMmIRrF8x2oq8M001VI"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "Say It To Me",
-        "url": "https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW"
-      },
-      "artists": [
-        {
-          "name": "Otto Knows",
-          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
-        }
-      ],
-      "duration_ms": 242076,
-      "name": "Say It To Me",
-      "url": "https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ"
-    },
-    {
-      "added_at": "2026-07-03 04:00:40",
-      "album": {
         "name": "What A Time To Be Alive",
         "url": "https://open.spotify.com/album/4LvKg1g7G4CjasmgZCBEaL"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 148432,
       "name": "What A Time To Be Alive",
       "url": "https://open.spotify.com/track/0xRzOWHlnroH3bdziKbj64"
+    },
+    {
+      "added_at": "2026-07-03 04:00:40",
+      "album": {
+        "name": "Say It To Me",
+        "url": "https://open.spotify.com/album/5Hmf5zuiJv54jvkureLeiW"
+      },
+      "artists": [
+        {
+          "name": "Otto Knows",
+          "url": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+        }
+      ],
+      "duration_ms": 242076,
+      "name": "Say It To Me",
+      "url": "https://open.spotify.com/track/7t7ozrjWAqQPyvBZPoVbdQ"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -2591,18 +2591,26 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "In It",
-        "url": "https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w"
+        "name": "So True",
+        "url": "https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt"
       },
       "artists": [
         {
           "name": "Selena Faider",
           "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
+        },
+        {
+          "name": "Laura Davie",
+          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
+        },
+        {
+          "name": "Lewis John",
+          "url": "https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb"
         }
       ],
-      "duration_ms": 190952,
-      "name": "In It",
-      "url": "https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO"
+      "duration_ms": 163064,
+      "name": "So True",
+      "url": "https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -2687,26 +2695,18 @@
     {
       "added_at": "2026-07-03 04:00:40",
       "album": {
-        "name": "So True",
-        "url": "https://open.spotify.com/album/0ejSylS5rG8gXGwtdwWsBt"
+        "name": "In It",
+        "url": "https://open.spotify.com/album/0tywyauEJceUMimBQfTe7w"
       },
       "artists": [
         {
           "name": "Selena Faider",
           "url": "https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd"
-        },
-        {
-          "name": "Laura Davie",
-          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
-        },
-        {
-          "name": "Lewis John",
-          "url": "https://open.spotify.com/artist/3iJcB05if5WPIGvjEaLORb"
         }
       ],
-      "duration_ms": 163064,
-      "name": "So True",
-      "url": "https://open.spotify.com/track/1DZtpVkQcmmancnYPVWGe6"
+      "duration_ms": 190952,
+      "name": "In It",
+      "url": "https://open.spotify.com/track/6doi1FwFmq4eroLXAM4TyO"
     },
     {
       "added_at": "2026-07-03 04:00:40",

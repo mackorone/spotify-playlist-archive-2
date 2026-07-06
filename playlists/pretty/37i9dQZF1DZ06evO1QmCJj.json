@@ -1,12 +1,12 @@
 {
   "description": "This is Lola Indigo. The essential tracks, all in one playlist.",
-  "num_followers": 48175,
+  "num_followers": 48188,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAAOQQPtsg55y+MTJunACDPg",
+  "snapshot_id": "akhNAAAAAAARmNJ51HFWqKxXgHdC6aPK",
   "tracks": [
     {
       "added_at": null,
@@ -739,22 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "KOMBOLEWA (Remix)",
-        "url": "https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST"
+        "name": "GRX",
+        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
       },
       "artists": [
         {
-          "name": "Suzete",
-          "url": "https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea"
-        },
-        {
           "name": "Lola Indigo",
           "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Mimi",
+          "url": "https://open.spotify.com/artist/2Md83aAf213B23IHGVhrtj"
         }
       ],
-      "duration_ms": 171469,
-      "name": "KOMBOLEWA - Remix",
-      "url": "https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq"
+      "duration_ms": 155904,
+      "name": "SI TE VAS",
+      "url": "https://open.spotify.com/track/5SUgwQeo9vZoDBMm0q20yD"
     },
     {
       "added_at": null,
@@ -775,22 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GRX",
-        "url": "https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx"
+        "name": "KOMBOLEWA (Remix)",
+        "url": "https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+          "name": "Suzete",
+          "url": "https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea"
         },
         {
-          "name": "Mimi",
-          "url": "https://open.spotify.com/artist/2Md83aAf213B23IHGVhrtj"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 155904,
-      "name": "SI TE VAS",
-      "url": "https://open.spotify.com/track/5SUgwQeo9vZoDBMm0q20yD"
+      "duration_ms": 171469,
+      "name": "KOMBOLEWA - Remix",
+      "url": "https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 164293,
+      "name": "AN1MAL",
+      "url": "https://open.spotify.com/track/5KA3dYKykvZW5KBEpSTmOL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lola Bunny",
         "url": "https://open.spotify.com/album/6ZzTJncT5EwHp5Pa4xwFpS"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 187263,
       "name": "Lola Bunny",
       "url": "https://open.spotify.com/track/7IzbHY75UhGztauT7U5eKb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 164293,
-      "name": "AN1MAL",
-      "url": "https://open.spotify.com/track/5KA3dYKykvZW5KBEpSTmOL"
     },
     {
       "added_at": null,

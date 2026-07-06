@@ -1,6 +1,6 @@
 {
   "description": "atopa risers",
-  "num_followers": 22884,
+  "num_followers": 22893,
   "original_name": "Soloku ",
   "owner": {
     "name": "Spotify",
@@ -543,18 +543,22 @@
     {
       "added_at": "2026-06-25 22:35:26",
       "album": {
-        "name": "Very Soon",
-        "url": "https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2"
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs"
       },
       "artists": [
         {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 189177,
-      "name": "Very Soon",
-      "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
+      "duration_ms": 175148,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx"
     },
     {
       "added_at": "2026-06-25 22:35:26",
@@ -575,22 +579,18 @@
     {
       "added_at": "2026-06-25 22:35:26",
       "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/5bemAcOU06NptwvjYE3lLs"
+        "name": "Very Soon",
+        "url": "https://open.spotify.com/album/42R7w5OImRPdU3Ex59eXd2"
       },
       "artists": [
         {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
         }
       ],
-      "duration_ms": 175148,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/242WBNiAmAI4iF41XEr4Vx"
+      "duration_ms": 189177,
+      "name": "Very Soon",
+      "url": "https://open.spotify.com/track/1tBfoI9tFVl8ampIRG4eTr"
     },
     {
       "added_at": "2026-06-25 22:35:26",

@@ -868,7 +868,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 162711,
       "name": "5 STAR",
       "url": "https://open.spotify.com/track/5LUMggX4PsqW6MFaQW1GW8"
@@ -1766,7 +1766,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 228617,
       "name": "Action",
       "url": "https://open.spotify.com/track/5Dtzyp05eJDj4SlCjewnmE"
@@ -2050,7 +2050,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 120064,
       "name": "AI9",
       "url": "https://open.spotify.com/track/6R2n4QbKaGEq1tSBxMSDV4"
@@ -5328,7 +5328,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 187826,
       "name": "BLUE LOVE",
       "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
@@ -10500,7 +10500,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 112131,
       "name": "Dima Maghreb",
       "url": "https://open.spotify.com/track/16hYITYJCwasNFOSLjGyJe"
@@ -15062,7 +15062,7 @@
       ],
       "date_added": "2025-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-21",
+      "date_removed": null,
       "duration_ms": 167111,
       "name": "Ha Wlidi",
       "url": "https://open.spotify.com/track/0LEk8LeOeBQ5pODPernnPP"
@@ -22978,6 +22978,24 @@
       "duration_ms": 254800,
       "name": "MAGHRIBI",
       "url": "https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1"
+    },
+    {
+      "album": {
+        "name": "Maghribi Maghribi",
+        "url": "https://open.spotify.com/album/3jh4LZRgL9YGfQRtnUMniO"
+      },
+      "artists": [
+        {
+          "name": "RedOne",
+          "url": "https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240562,
+      "name": "Maghribi Maghribi",
+      "url": "https://open.spotify.com/track/7eJLJQ9fWfInVL4gw50suj"
     },
     {
       "album": {
@@ -33558,7 +33576,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 236465,
       "name": "SHEVCHENKO",
       "url": "https://open.spotify.com/track/0HoMgI5323zLb5tucoNjXF"
@@ -33762,6 +33780,36 @@
       "duration_ms": 211456,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
+    },
+    {
+      "album": {
+        "name": "Official FIFA World Cup 2026\u2122 Album",
+        "url": "https://open.spotify.com/album/3cLao7JVaEFsplFdY8TkJT"
+      },
+      "artists": [
+        {
+          "name": "Nora Fatehi",
+          "url": "https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA"
+        },
+        {
+          "name": "Vegedream",
+          "url": "https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd"
+        },
+        {
+          "name": "Sanjoy",
+          "url": "https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185538,
+      "name": "Siir Siir",
+      "url": "https://open.spotify.com/track/3vel6OhBsqzuPXVUMNoHyR"
     },
     {
       "album": {
@@ -39716,6 +39764,60 @@
       "duration_ms": 173333,
       "name": "Weed Gin & Tonic",
       "url": "https://open.spotify.com/track/4YvYS2jwuqYVVvIB81fNxd"
+    },
+    {
+      "album": {
+        "name": "Welcome to Morocco (feat. Asma Lmnawar, Rym, Aminux, Nouaman Belaiachi, Zouhair Bahaoui, Dizzy Dross, FIFA Sound) [Official Song of the FIFA Club World Cup 2022]",
+        "url": "https://open.spotify.com/album/7oyIxRegUfrwfHNjBTVdg0"
+      },
+      "artists": [
+        {
+          "name": "RedOne",
+          "url": "https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx"
+        },
+        {
+          "name": "Douzi",
+          "url": "https://open.spotify.com/artist/359ou3pmfJOhGqk3YHwuuh"
+        },
+        {
+          "name": "Hatim Ammor",
+          "url": "https://open.spotify.com/artist/2WtmzV1moAnO10alGF1Ftb"
+        },
+        {
+          "name": "Aminux",
+          "url": "https://open.spotify.com/artist/4BgFW9XAMsJMkMZQJ6lGD9"
+        },
+        {
+          "name": "Asma Lmnawar",
+          "url": "https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3"
+        },
+        {
+          "name": "Dizzy Dross",
+          "url": "https://open.spotify.com/artist/1lXaedRc9QjhutJHf7rrie"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        },
+        {
+          "name": "Nouaman Belaiachi",
+          "url": "https://open.spotify.com/artist/46ovx6fJssKqC6BJjLswFT"
+        },
+        {
+          "name": "RYM",
+          "url": "https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc"
+        },
+        {
+          "name": "Zouhair Bahaoui",
+          "url": "https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267130,
+      "name": "Welcome to Morocco (feat. Asma Lmnawar, Rym, Aminux, Nouaman Belaiachi, Zouhair Bahaoui, Dizzy Dross, FIFA Sound) - Official Song of the FIFA Club World Cup 2022",
+      "url": "https://open.spotify.com/track/5myTFOU1cusbQ3w52p55NQ"
     },
     {
       "album": {

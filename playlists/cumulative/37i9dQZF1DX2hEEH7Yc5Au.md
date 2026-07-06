@@ -4,11 +4,12 @@
 
 > 探索女性音樂人的精彩作品，收聽 Karencici 精選女歌手歌曲！Cover: Karencici
 
-1,101 songs - 2 day 23 hr 55 min
+1,102 songs - 2 day 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [02](https://open.spotify.com/track/20GglrUv9gfiQJyYcvx7aS) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [MJ116](https://open.spotify.com/artist/5MU5bVomn4vkQ08DRZfhEc) | [骨子裡 \(Innermost\)](https://open.spotify.com/album/59m9RxMiwXUgy1IM2HF7yE) | 4:04 | 2024-02-06 | 2024-03-06 |
+| [100 Degrees](https://open.spotify.com/track/5N3U9XUOEFV4AvAsFgbYfE) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Loser.](https://open.spotify.com/album/4F1qUMDO9CsA5XtrQ3KyN6) | 2:32 | 2026-07-05 |  |
 | [100次說分手](https://open.spotify.com/track/2UE9IkRluQUcWDEnBTkBZ4) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [100次說分手](https://open.spotify.com/album/0uhVYYl3wnIXqsE7Ev8rDi) | 2:56 | 2026-03-19 | 2026-04-08 |
 | [10ft](https://open.spotify.com/track/6IWdGMpcqJO3s9WVQx0Qnv) | [Eileen Yo游宇潼](https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX), [Yezhi](https://open.spotify.com/artist/6EDUUFNb13Fg62ICHQ7Va9) | [10ft](https://open.spotify.com/album/3TGzlQ9u3dnp9E9QkBsxHT) | 3:29 | 2025-02-04 | 2025-04-02 |
 | [25歲該知道的事](https://open.spotify.com/track/4bYRsAeQzOsOcDJm9nc9Xl) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ), [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [25歲該知道的事](https://open.spotify.com/album/51tGhnCHi3TB6QWroAuRfN) | 3:46 | 2026-06-02 |  |
@@ -253,7 +254,7 @@
 | [不簡單的我們 \(電視劇《小夫妻》插曲\)](https://open.spotify.com/track/4Vamk9NnjiN4t5Ckgq1U7u) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [不簡單的我們 \(電視劇《小夫妻》插曲\)](https://open.spotify.com/album/31TtrxZgfHxpfOtEuVUt8X) | 4:27 | 2024-09-04 | 2025-05-07 |
 | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/track/77Y69dj99sTYGAWule3nz8) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [Faye 詹雯婷](https://open.spotify.com/artist/7hmSHY9HVVQKejpGbPbo16) | [不簡單的歌 \(feat\. Faye 詹雯婷\)](https://open.spotify.com/album/7D0UoSpD6qC3PAFP1KStSE) | 4:37 | 2025-09-02 | 2025-11-05 |
 | [不藥而癒 \- 第三波](https://open.spotify.com/track/31VWgseQeMXzcNdOD4N9Xu) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [下一個天亮](https://open.spotify.com/album/16uIFSrJsyKODQjFXtHTxj) | 4:32 | 2023-10-03 | 2025-09-03 |
-| [不要騙我](https://open.spotify.com/track/1DGiFlEU8l4aK48eIs40zu) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [牽手](https://open.spotify.com/album/4tVooG0SFq94W3Qn5woHgC) | 4:50 | 2026-06-30 |  |
+| [不要騙我 Bu Yao Pian Wo](https://open.spotify.com/track/1DGiFlEU8l4aK48eIs40zu) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [牽手](https://open.spotify.com/album/4tVooG0SFq94W3Qn5woHgC) | 4:50 | 2026-06-30 |  |
 | [不過失去了一點點 \- 八大《終極惡女》片尾曲](https://open.spotify.com/track/6HEfgS0ALir73Un4XKtYI6) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w) | [我是曾沛慈](https://open.spotify.com/album/428cg3yMWFKwXMIg1HGaVd) | 5:03 | 2022-01-04 | 2025-08-06 |
 | [不醉不會](https://open.spotify.com/track/4AAsMW9RbLrXDchqYKaaF1) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [渺小](https://open.spotify.com/album/0fq5u65BocUH3j9SgIsPUu) | 3:51 | 2024-07-02 | 2024-08-07 |
 | [不難](https://open.spotify.com/track/3LOTdehsLMCm3u0CNJwsL3) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [理想人生](https://open.spotify.com/album/7dKLZlMYgc3Cz6f0e49gbn) | 4:40 | 2024-04-02 | 2024-07-03 |
@@ -456,7 +457,7 @@
 | [好好對待她](https://open.spotify.com/track/0ZnmSyvulI0c8a3YLXrvdO) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [好好對待她](https://open.spotify.com/album/3qAC5nzZ2eeyS3VqOoQ3Sj) | 4:38 | 2022-10-04 | 2024-08-07 |
 | [好好的](https://open.spotify.com/track/70gPCPrGTuOtS3YVG9XLcW) | [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [好好的](https://open.spotify.com/album/7EyELTaTBFn5jGwTorXxMH) | 4:02 | 2025-01-07 | 2025-02-05 |
 | [好想好好愛你](https://open.spotify.com/track/6klk47awY6nWs6nMGp6Ivy) | [Where Chou](https://open.spotify.com/artist/0T1grpeZ4qvXm7ALeRPKno) | [周蕙精選2好想好好愛你](https://open.spotify.com/album/3GxgEvJtKctWkTM15ToKhE) | 4:18 | 2025-05-06 | 2025-07-02 |
-| [好額 Hó\-gia̍h](https://open.spotify.com/track/3kL8vIgKZ90G39d1Astzbg) | [林吟蔚](https://open.spotify.com/artist/4KUQN45uOn1myoOg5dcLTF) | [好額 Hó\-gia̍h](https://open.spotify.com/album/13uWAJ7Y9JcY3tJzCrRvdB) | 2:40 | 2026-06-02 |  |
+| [好額 Hó\-gia̍h](https://open.spotify.com/track/3kL8vIgKZ90G39d1Astzbg) | [林吟蔚](https://open.spotify.com/artist/4KUQN45uOn1myoOg5dcLTF) | [好額 Hó\-gia̍h](https://open.spotify.com/album/13uWAJ7Y9JcY3tJzCrRvdB) | 2:40 | 2026-06-02 | 2026-07-06 |
 | [如何忘記你 \- 戲劇<網紅的瘋狂世界>片尾曲](https://open.spotify.com/track/7nZhXTJKFFKF49vRFKgSCz) | [張若凡](https://open.spotify.com/artist/3vt8C5pqh2fk4KaXpfSvxk) | [dopaMINE 我,她](https://open.spotify.com/album/52S6rk20AFlIRBmOd214NN) | 4:58 | 2023-04-04 | 2025-11-05 |
 | [如你一般的人](https://open.spotify.com/track/2yT2dFLYoWfa8zdJgPSDiY) | [陶晶莹](https://open.spotify.com/artist/1nLHiAOrjLbc0Pju8elCu0) | [如你一般的人](https://open.spotify.com/album/5pHJpzN43xPwDDDeFovCRH) | 4:12 | 2023-05-02 | 2023-06-07 |
 | [如果不是我的 \- 電影《女孩》主題曲](https://open.spotify.com/track/1BicVGrtJTih4Vlqg8o9I0) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [如果不是我的 \(電影《女孩》主題曲\)](https://open.spotify.com/album/2D3KOGicdefBP8iPlOW9F5) | 3:38 | 2025-11-04 | 2026-04-08 |
@@ -575,9 +576,9 @@
 | [愛你](https://open.spotify.com/track/6T7oK4eP3Tezw4Ogy7q6KO) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [愛你](https://open.spotify.com/album/64e67ahttBQ4A02teJVoZu) | 3:39 | 2022-05-03 | 2024-02-07 |
 | [愛你](https://open.spotify.com/track/0n7Ij8XEDfYYFRgBQjNjnf) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [Kimberley首张同名专辑](https://open.spotify.com/album/4SAbPUrnyw72WivjOA3n8i) | 3:27 | 2022-09-06 | 2024-10-02 |
 | [愛你](https://open.spotify.com/track/3DQLU0VzAgXX1OyUBHw1Iv) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [愛你](https://open.spotify.com/album/3LW2lXe7H1THUSa5t3BJjF) | 3:44 | 2023-04-04 | 2023-06-07 |
-| [愛你但說不出口](https://open.spotify.com/track/5CCV2xxYnI7b1wFkP1gElh) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [愛你但說不出口](https://open.spotify.com/album/4pFJjjZj3N3MV20Em5DX3a) | 2:59 | 2026-03-19 | 2026-04-08 |
+| [愛你但說不出口](https://open.spotify.com/track/5CCV2xxYnI7b1wFkP1gElh) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [愛你但說不出口](https://open.spotify.com/album/4pFJjjZj3N3MV20Em5DX3a) | 2:59 | 2026-03-19 |  |
 | [愛像一場重感冒](https://open.spotify.com/track/03gg7Mu2Nlmbe6x33saA3J) | [Yuki Hsu](https://open.spotify.com/artist/06w51RzkHkpkp2x09REY7v) | [徐懷鈺 Yuki 第一張個人專輯](https://open.spotify.com/album/2Fx5FspawpamIemeNYvYhn) | 3:59 | 2025-01-07 | 2025-02-05 |
-| [愛到像笨蛋一樣痛](https://open.spotify.com/track/7fFbiH0z8sjxEZXWmirSHv) | [牙牙 林怡廷](https://open.spotify.com/artist/70v64Bh530iEObGGBfSELW) | [愛到像笨蛋一樣痛](https://open.spotify.com/album/0xYSDOhavr2fbs8YfCa3hm) | 2:41 | 2026-06-02 |  |
+| [愛到像笨蛋一樣痛](https://open.spotify.com/track/7fFbiH0z8sjxEZXWmirSHv) | [牙牙 林怡廷](https://open.spotify.com/artist/70v64Bh530iEObGGBfSELW) | [愛到像笨蛋一樣痛](https://open.spotify.com/album/0xYSDOhavr2fbs8YfCa3hm) | 2:41 | 2026-06-02 | 2026-07-06 |
 | [愛到卡慘死 \(2025威尼斯影展地平線單元《螳螂》電影插曲\)](https://open.spotify.com/track/6Tt7bRPy3P6W3HXxGT1eYa) | [曹雅雯](https://open.spotify.com/artist/4S2fK8EvpTnOLTfrMwBThz) | [愛到卡慘死 \(2025威尼斯影展地平線單元《螳螂》電影插曲\)](https://open.spotify.com/album/74ESmwxHe860IGibi7ScZ8) | 3:10 | 2025-09-02 | 2025-10-01 |
 | [愛到站了](https://open.spotify.com/track/3eX7Cvzho8yST58DhwMgNv) | [李千娜](https://open.spotify.com/artist/3iGNpRQH6ei188rHVvwytb) | [愛到站了](https://open.spotify.com/album/3ZDvcq25rw1tGzChPSco4F) | 3:41 | 2022-01-04 | 2024-04-03 |
 | [愛在等待](https://open.spotify.com/track/2tbzND7MpXykGR93KhEbYx) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [愛在等待](https://open.spotify.com/album/5wij2CitZuPtVEjQvlVB2a) | 3:20 | 2024-10-01 | 2024-11-06 |

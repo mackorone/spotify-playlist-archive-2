@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,581 likes - 165 songs - 12 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,585 likes - 165 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWL9d6xr614O.md) - [plain]
 | 32 | [So Will I \(100 Billion X\) \- Tagalog Version](https://open.spotify.com/track/739HoayRkqYe8HMIAH3NRA) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [So Will I \(100 Billion X\) \- Tagalog Version](https://open.spotify.com/album/0A8z8qDBbWHaTmWGuPKBrF) | 6:55 |
 | 33 | [Pag\-ibig Mo Sa'kin](https://open.spotify.com/track/4KZeqaGxg3yr7q69sI9gmv) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Pag\-ibig Mo Sa'kin](https://open.spotify.com/album/60YC9Dpcxu8iysvqjEEVRg) | 4:01 |
 | 34 | [Ruthless](https://open.spotify.com/track/3xbG475vtCdss21HWUHQvx) | [Shayne Carmel](https://open.spotify.com/artist/5ihyCQON8OCN3L7LtdvPJh), [Rutella](https://open.spotify.com/artist/1LKE1tOJHPl3jNjmLhTTMy) | [Ruthless](https://open.spotify.com/album/0s0we6s5NN9zC6AZAmoUSJ) | 3:45 |
-| 35 | [Sa'Yong Pangalan](https://open.spotify.com/track/5msLh4yF85P69GLfSxiGBO) | [James Reyes](https://open.spotify.com/artist/1x5NByuqtFtNUrl5vlE2Up) | [Sa'Yong Pangalan](https://open.spotify.com/album/7vJyBUneSgoTeQ62UqQMJR) | 3:41 |
+| 35 | [Sa'Yong Pangalan](https://open.spotify.com/track/5msLh4yF85P69GLfSxiGBO) | [James Reyes](https://open.spotify.com/artist/1x5NByuqtFtNUrl5vlE2Up), [Reverb Worship](https://open.spotify.com/artist/1WSOYxUuc7VcsFpudKTpHr) | [Sa'Yong Pangalan](https://open.spotify.com/album/7vJyBUneSgoTeQ62UqQMJR) | 3:41 |
 | 36 | [Falling In Love](https://open.spotify.com/track/5HDV0tGanBrakCqidZX8Wz) | [Namfi Fernandez](https://open.spotify.com/artist/3nBf4tFooa4q0P1E346mQx) | [Falling In Love](https://open.spotify.com/album/0B63cp4uCeJPj3tPwrysDd) | 3:38 |
 | 37 | [Mahal Kita Sabi Mo Sa' Kin](https://open.spotify.com/track/2xLD6OEKCU6E9rZ3qjnDlH) | [Namfi Fernandez](https://open.spotify.com/artist/3nBf4tFooa4q0P1E346mQx) | [Mahal Kita Sabi Mo Sa' Kin](https://open.spotify.com/album/3YehbdM8edxUEhy9yaHkBw) | 4:00 |
 | 38 | [Pupurihin Ka Sa Awit / Sambahin Ka](https://open.spotify.com/track/5hJrW4Y26qTTy1sOD0Mx8F) | [Melan Stamatelaky](https://open.spotify.com/artist/4T8DqOgj3JrBH46K8yj9W7) | [Pupurihin Ka Sa Awit / Sambahin Ka](https://open.spotify.com/album/0y8fGRfVBnaDFPpcZIHi1C) | 7:57 |

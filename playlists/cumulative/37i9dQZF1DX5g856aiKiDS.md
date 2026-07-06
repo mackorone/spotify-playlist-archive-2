@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-446 songs - 1 day 0 hr 29 min
+447 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Dear Day](https://open.spotify.com/track/4HSeE6SBFmmJexcjgyZbrI) | [add9](https://open.spotify.com/artist/5K8S0MRwvPZjMczq9QrCvp) | [LOVE](https://open.spotify.com/album/652TLKJWluUQlikBi55rKb) | 2:57 | 2026-03-30 | 2026-04-06 |
 | [Dear My Winter](https://open.spotify.com/track/7sqtyHfTHtkLtnxuQ3ttvo) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Dear My Winter](https://open.spotify.com/album/5SxFwvCLUU5zXwHdNSlFnN) | 3:20 | 2022-12-13 | 2023-12-31 |
 | [Dear\. My Side](https://open.spotify.com/track/2F9SwgEESnCPpTug9icsHH) | [Park Do Ha](https://open.spotify.com/artist/6Mv1YjL5xpxbMLTgIqdgul) | [Dear\. My Side](https://open.spotify.com/album/5298Ty693jV61VMRPalvsZ) | 3:39 | 2022-04-12 | 2022-04-21 |
+| [Dear.J \(Feat\. Jay Park\)](https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Dear.J](https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek) | 3:21 | 2026-07-03 |  |
 | [Dearest \(feat\. Sllo\)](https://open.spotify.com/track/4AV0ut96Eb4YKLapf73pIA) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Sllo](https://open.spotify.com/artist/1wzCU6RJBw1eFzgfSvfsbc) | [Dearest \(feat\. Sllo\)](https://open.spotify.com/album/2V1ioOPgIrbSdeykkaKKIB) | 2:47 | 2022-05-11 | 2022-05-15 |
 | [Dedicated 2 U](https://open.spotify.com/track/6FYbpoLyoevhwws05OLSBZ) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 3: Dedicated 2 U](https://open.spotify.com/album/4fSS3OAnjyYSuFwZHkH2nP) | 3:14 | 2025-07-21 | 2025-08-12 |
 | [Dingo X george \- camping everywhere](https://open.spotify.com/track/5W4NBJlxKhQx5DOVrA40FO) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Dingo X george \- camping everywhere](https://open.spotify.com/album/4Kd2sem3h2odSptpwtcaKr) | 2:57 | 2022-04-12 | 2022-07-25 |
@@ -347,7 +348,7 @@
 | [Straw](https://open.spotify.com/track/3R3y9Omg0UOdPBulCkQVYY) | [EZ Kim](https://open.spotify.com/artist/5WJOZ5N4iegy9XdltTo8os) | [Straw](https://open.spotify.com/album/0FXuaEkGVWeUMO3bOKEhxz) | 3:45 | 2022-05-11 | 2022-06-02 |
 | [study abroad](https://open.spotify.com/track/6O4S5bDDOrhnHcVkwyAx1L) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ), [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [starry night ‘17](https://open.spotify.com/album/2RPyn31wYLC9lWn4p0OVEI) | 3:52 | 2022-04-21 | 2022-07-29 |
 | [Stumble](https://open.spotify.com/track/2B6jj0BqmpxDgbYxIueEqV) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Round and Round](https://open.spotify.com/album/5sHVlFzYpL5AjHc06vQSW0) | 3:20 | 2025-12-03 | 2026-02-10 |
-| [Stupid](https://open.spotify.com/track/6ktEI3U7Wnip2P5pEHchzq) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Do monsters love too?](https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET) | 3:22 | 2022-04-12 |  |
+| [Stupid](https://open.spotify.com/track/6ktEI3U7Wnip2P5pEHchzq) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Do monsters love too?](https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET) | 3:22 | 2022-04-12 | 2026-07-06 |
 | [Stupid \(feat\. Amin & H!\)](https://open.spotify.com/track/6tgPZHN5aSPU3IFxcG7V6r) | [merrymerryseoul](https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N), [H!](https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ) | [Weekday is long, Weekend is gone](https://open.spotify.com/album/2P4txqRH8hlDQLBoMnXlIl) | 2:55 | 2022-07-04 | 2022-07-23 |
 | [Stupid Love](https://open.spotify.com/track/25p5727cAXFjOrM97GL4Hd) | [J\_Flamingo](https://open.spotify.com/artist/2tNFokeDC0AkgoXiL4i3uW), [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [Stupid Love](https://open.spotify.com/album/0Eske0lSQ0gFX8dIb3rVKB) | 2:30 | 2022-07-04 | 2022-07-23 |
 | [Summer Festa](https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Summer Festa](https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM) | 3:10 | 2022-08-01 | 2022-08-13 |

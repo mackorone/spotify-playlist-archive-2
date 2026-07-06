@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 
 > FurryRadio.com, furry music for furs, by furs.
 
-[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,155 likes - 396 songs - 20 hr 15 min
+[Zunkz](https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya) - 1,161 likes - 396 songs - 20 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/3DkoXgQ0hZhKSNaeqCQZqZ.md) - [plain]
 | 6 | [Nobody](https://open.spotify.com/track/5qNUf9PYWMl1T8v4OvlvvW) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [Bite Me](https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK) | 4:05 |
 | 7 | [Do It All](https://open.spotify.com/track/21m4G0iFptQHoLZy8RngNg) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [Bite Me](https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK) | 3:24 |
 | 8 | [Into You](https://open.spotify.com/track/5pRTfoPISfQjSiFI9l4R5Y) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [Bite Me](https://open.spotify.com/album/0VVg7Cu5eHBM3IVmWe7LuK) | 4:20 |
-| 9 | [i'm now alone with our memories\. \- Zeonyx Remix](https://open.spotify.com/track/2PnCxSzzzKKM0RXIx1iDWP) | [Loprov](https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ), [Zeonyx](https://open.spotify.com/artist/4RB6M3Nvuqrkr7ln0TiSPI) | [Remixes: Volume One](https://open.spotify.com/album/7md6RQ477cE7hsQ3eqFTf3) | 3:12 |
+| 9 | [i'm now alone with our memories\. \- Zeonyx Remix](https://open.spotify.com/track/2PnCxSzzzKKM0RXIx1iDWP) | [Loprov](https://open.spotify.com/artist/3Zv31lkrOJ7HPBWmXOjiwJ), [Zeonyx](https://open.spotify.com/artist/1cGNmTGl6Sn5aNWxogHaCg) | [Remixes: Volume One](https://open.spotify.com/album/7md6RQ477cE7hsQ3eqFTf3) | 3:12 |
 | 10 | [soul barking](https://open.spotify.com/track/0Q8hUVGm93tBFtKO3uHtoe) | [Jaylaflame](https://open.spotify.com/artist/5UdUCGK24WtRFRcXyzxN6U) | [soul barking](https://open.spotify.com/album/7kNphm9Jrf1XakehPPuNSM) | 2:10 |
 | 11 | [Surf Slowly](https://open.spotify.com/track/0ta7inTx4QTgBC8UHWWnIb) | [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns), [2MANYCOLOURS](https://open.spotify.com/artist/1fCwwwIrJnXSg2075O9Vf5) | [Surf Slowly](https://open.spotify.com/album/3zZ7FQUM4PGacfvEnVMzPk) | 3:23 |
 | 12 | [FIRST¹](https://open.spotify.com/track/5W9uYNkdIfUdr2UpjxNRUJ) | [GLITTERMUTT](https://open.spotify.com/artist/0ZchtyFelhCdiFHrXwxYgp) | [FIRST¹](https://open.spotify.com/album/16HRiIMD0kbwXQhQbYLLJ8) | 2:34 |

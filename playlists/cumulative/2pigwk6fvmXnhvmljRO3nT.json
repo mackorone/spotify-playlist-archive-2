@@ -31957,6 +31957,24 @@
     },
     {
       "album": {
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116240,
+      "name": "Did It Again",
+      "url": "https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj"
+    },
+    {
+      "album": {
         "name": "Mama's Gun",
         "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
       },
@@ -31994,6 +32012,28 @@
       "duration_ms": 198346,
       "name": "Die",
       "url": "https://open.spotify.com/track/26RZ9IiS43wy5oMQoAys0o"
+    },
+    {
+      "album": {
+        "name": "Songs Part Two",
+        "url": "https://open.spotify.com/album/2LrK8pjdMSMD04hkeUILaA"
+      },
+      "artists": [
+        {
+          "name": "Jeff Williams",
+          "url": "https://open.spotify.com/artist/6jy0VQ5tLwEKBeMxZ1aK4J"
+        },
+        {
+          "name": "Casey Lee Williams",
+          "url": "https://open.spotify.com/artist/08dD0frW9WYHRGVa40oILp"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198346,
+      "name": "Die",
+      "url": "https://open.spotify.com/track/3EyIwqV3VIypP1q8AUKFXw"
     },
     {
       "album": {
@@ -47318,6 +47358,24 @@
       "duration_ms": 265986,
       "name": "Ga Sm A Pa Do",
       "url": "https://open.spotify.com/track/5nXwl35IvLxRjhujHZBdq3"
+    },
+    {
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb\uff06\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
+        "url": "https://open.spotify.com/album/54hb2cgal71xCmoC9EB4IW"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30fc\u30e1\u30a4\u30c9\u30fb\u30b7\u30b9\u30bf\u30fc\u30ba(Vo.\u30af\u30ea\u30e4\u30de\u30e6\u30a6\u30ea)",
+          "url": "https://open.spotify.com/artist/4USrgZyHavtZNMDfftaKSq"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123533,
+      "name": "Galactic mermaid",
+      "url": "https://open.spotify.com/track/1yHXUDFaAtxty9N3eklIHY"
     },
     {
       "album": {
@@ -75814,7 +75872,7 @@
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 157066,
       "name": "Like a dream come true",
       "url": "https://open.spotify.com/track/6HTsvvMoqBxlahJaBAfOkZ"
@@ -86849,6 +86907,24 @@
     },
     {
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30ad\u30e3\u30ed\u30eb\uff06\u30c1\u30e5\u30fc\u30ba\u30c7\u30a4\u300dVOCAL COLLECTION Vol.1",
+        "url": "https://open.spotify.com/album/54hb2cgal71xCmoC9EB4IW"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30b8\u30a7\u30e9 (Vo. Alisa)",
+          "url": "https://open.spotify.com/artist/19Z6ho646iYK8BK0FrQMot"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171333,
+      "name": "Move Mountains",
+      "url": "https://open.spotify.com/track/0jpqrFBVDKNYXogtpUZdPx"
+    },
+    {
+      "album": {
         "name": "Move Mountains",
         "url": "https://open.spotify.com/album/1YGpwe8kDiSrpyRnIlLG1y"
       },
@@ -91526,6 +91602,24 @@
       "duration_ms": 214066,
       "name": "No No No (feat. Birdman)",
       "url": "https://open.spotify.com/track/7clYW0WFhKLdLktadeQz03"
+    },
+    {
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
     },
     {
       "album": {
@@ -133203,6 +133297,28 @@
     },
     {
       "album": {
+        "name": "Songs Part Two",
+        "url": "https://open.spotify.com/album/2LrK8pjdMSMD04hkeUILaA"
+      },
+      "artists": [
+        {
+          "name": "Jeff Williams",
+          "url": "https://open.spotify.com/artist/6jy0VQ5tLwEKBeMxZ1aK4J"
+        },
+        {
+          "name": "Casey Lee Williams",
+          "url": "https://open.spotify.com/artist/08dD0frW9WYHRGVa40oILp"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204258,
+      "name": "Time to Say Goodbye",
+      "url": "https://open.spotify.com/track/6odR6jtxYIgNAcaOtgxlfN"
+    },
+    {
+      "album": {
         "name": "SG Wanna Be\uff0b",
         "url": "https://open.spotify.com/album/1onnVmO3ZMbELXoi7cyaPs"
       },
@@ -135802,6 +135918,28 @@
       "duration_ms": 273906,
       "name": "Trust in you",
       "url": "https://open.spotify.com/track/7LBrI81PTeI4kmiTGC2tyA"
+    },
+    {
+      "album": {
+        "name": "RWBY, Vol. 7 (Music from the Rooster Teeth Series)",
+        "url": "https://open.spotify.com/album/5lGbkPdW0pDtgXAvPzSYbI"
+      },
+      "artists": [
+        {
+          "name": "Jeff Williams",
+          "url": "https://open.spotify.com/artist/6jy0VQ5tLwEKBeMxZ1aK4J"
+        },
+        {
+          "name": "Casey Lee Williams",
+          "url": "https://open.spotify.com/artist/08dD0frW9WYHRGVa40oILp"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230492,
+      "name": "Trust Love",
+      "url": "https://open.spotify.com/track/0lo2FiqF9rhKnj4R5MNMCP"
     },
     {
       "album": {
@@ -149964,7 +150102,7 @@
       ],
       "date_added": "2025-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-07",
+      "date_removed": null,
       "duration_ms": 101933,
       "name": "youthful lunch",
       "url": "https://open.spotify.com/track/6HAufILij6clOZ2UcutNCu"
@@ -155452,6 +155590,24 @@
       "duration_ms": 239573,
       "name": "\u30c6\u30ec\u30d5\u30a9\u30f3\u30fb\u30ca\u30f3\u30d0\u30fc",
       "url": "https://open.spotify.com/track/49vIvmsneQwxyFTdmCQzmV"
+    },
+    {
+      "album": {
+        "name": "\u9078\u3093\u3067\u30c7\u30fc\u30c8\u30fb\u30a2\u30fb\u30e9\u30a4\u30d6 \u301cDATE A LIVE BEST SELECTION\u301c",
+        "url": "https://open.spotify.com/album/2l4Kgi1AL5yLsns24Xrgii"
+      },
+      "artists": [
+        {
+          "name": "sweet ARMS",
+          "url": "https://open.spotify.com/artist/4VNX81QK24dwtTCv4lx8Ae"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "\u30c7\u30fc\u30c8\u30fb\u30a2\u30fb\u30e9\u30a4\u30d6",
+      "url": "https://open.spotify.com/track/4lHhlaay5sKaj3rcAHuwxb"
     },
     {
       "album": {

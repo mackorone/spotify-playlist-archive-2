@@ -1,12 +1,12 @@
 {
   "description": "This is Alexander Stewart. The essential tracks, all in one playlist.",
-  "num_followers": 36795,
+  "num_followers": 36797,
   "original_name": "This Is Alexander Stewart",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAATlFN5ZG0kDTiepSs/3bJQ",
+  "snapshot_id": "akhNAAAAAAC/BZN/tWmwONAJBzvz439s",
   "tracks": [
     {
       "added_at": null,
@@ -211,22 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm trying",
-        "url": "https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "I'm trying",
-      "url": "https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "echo",
         "url": "https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 198750,
       "name": "echo",
       "url": "https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'm trying",
+        "url": "https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "I'm trying",
+      "url": "https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt"
     },
     {
       "added_at": null,
@@ -368,15 +368,15 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 178160,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT"
+      "duration_ms": 215173,
+      "name": "Good Things Go",
+      "url": "https://open.spotify.com/track/5UyfSoNyldrM2iiCGfTQuA"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Scared of Myself",
-        "url": "https://open.spotify.com/album/6rHizPeJ2LhsHjCI6jv4Ha"
+        "name": "Here Again",
+        "url": "https://open.spotify.com/album/6nQqcSZTqkVmCLJ7OAbZiP"
       },
       "artists": [
         {
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 198400,
-      "name": "Scared of Myself",
-      "url": "https://open.spotify.com/track/5VbDVHAwEj0rHyQe1PwGTe"
+      "duration_ms": 165533,
+      "name": "Here Again",
+      "url": "https://open.spotify.com/track/7jPJda9RNx6cD5VhsIgGa7"
     },
     {
       "added_at": null,
@@ -432,15 +432,15 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 215173,
-      "name": "Good Things Go",
-      "url": "https://open.spotify.com/track/5UyfSoNyldrM2iiCGfTQuA"
+      "duration_ms": 178160,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/0xyq7KSKTw9Uk0TyiBN4eT"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Here Again",
-        "url": "https://open.spotify.com/album/6nQqcSZTqkVmCLJ7OAbZiP"
+        "name": "Scared of Myself",
+        "url": "https://open.spotify.com/album/6rHizPeJ2LhsHjCI6jv4Ha"
       },
       "artists": [
         {
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 165533,
-      "name": "Here Again",
-      "url": "https://open.spotify.com/track/7jPJda9RNx6cD5VhsIgGa7"
+      "duration_ms": 198400,
+      "name": "Scared of Myself",
+      "url": "https://open.spotify.com/track/5VbDVHAwEj0rHyQe1PwGTe"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "when you love someone",
-        "url": "https://open.spotify.com/album/6DJ9hc2PzwTGMLdy1yZ7jB"
+        "name": "This Is Your Life",
+        "url": "https://open.spotify.com/album/1HKJnTZ2cEEE6ufiKTwzwP"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 173076,
-      "name": "when you love someone",
-      "url": "https://open.spotify.com/track/0RcBg00iWhPxRbR7mm8q2Z"
+      "duration_ms": 155998,
+      "name": "This Is Your Life",
+      "url": "https://open.spotify.com/track/6wC22rOiOSbpwiAxAxG0kP"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Your Life",
-        "url": "https://open.spotify.com/album/1HKJnTZ2cEEE6ufiKTwzwP"
+        "name": "when you love someone",
+        "url": "https://open.spotify.com/album/6DJ9hc2PzwTGMLdy1yZ7jB"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
         }
       ],
-      "duration_ms": 155998,
-      "name": "This Is Your Life",
-      "url": "https://open.spotify.com/track/6wC22rOiOSbpwiAxAxG0kP"
+      "duration_ms": 173076,
+      "name": "when you love someone",
+      "url": "https://open.spotify.com/track/0RcBg00iWhPxRbR7mm8q2Z"
     },
     {
       "added_at": null,

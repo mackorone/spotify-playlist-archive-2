@@ -4,7 +4,7 @@
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PERSES
 
-915 songs - 2 day 5 hr 42 min
+916 songs - 2 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,6 +564,7 @@
 | [ยังฟังเพลงเดิมอยู่ไหม \(Same Old Song\)](https://open.spotify.com/track/1kkzlkNUGPenTmzb5ikApc) | [BLUE PONGTIWAT](https://open.spotify.com/artist/2qOLzlqMqg4sUAcwdO4tYJ) | [ยังฟังเพลงเดิมอยู่ไหม \(Same Old Song\)](https://open.spotify.com/album/5i4PoVoJFhLY6lcNxc9gDV) | 4:23 | 2025-10-02 |  |
 | [ยังมีความรักให้เธอเสมอ](https://open.spotify.com/track/1wMKxgl9ao5Rou5rHQo1cS) | [Mark Methathavach](https://open.spotify.com/artist/5CMGEfQ5n3LJqKcld9Z5Xl) | [ยังมีความรักให้เธอเสมอ](https://open.spotify.com/album/46EkpoOFyV88Tnoe6HlW5d) | 4:21 | 2022-06-23 | 2022-07-15 |
 | [ยังรักอยู่ไหม \(Stars.\)](https://open.spotify.com/track/19yPX0xMXRbRVgtGc2MO1l) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ยังรักอยู่ไหม \(Stars.\)](https://open.spotify.com/album/02xnOJjfn4ElEWuC5wmuNr) | 4:25 | 2025-11-06 | 2026-05-09 |
+| [ยาแก้แพ้ \(Love Allergy\)](https://open.spotify.com/track/60ztSIToposWNzYOWeKrtp) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [ยาแก้แพ้ \(Love Allergy\)](https://open.spotify.com/album/1RRrXPfEjVTA2769fQy8ro) | 3:35 | 2026-07-05 |  |
 | [ยิ่งคบยิ่งไม่รัก \(Why?\)](https://open.spotify.com/track/22R3FVEbVtgv9CY4NHlBJ8) | [DICE](https://open.spotify.com/artist/4TowSWXul9J5jxTyntRJEv) | [ยิ่งคบยิ่งไม่รัก \(Why?\)](https://open.spotify.com/album/1N9UUSSVk5rc4qFOGO1Oye) | 3:25 | 2025-05-01 |  |
 | [ยิ่งดุยิ่งชอบ](https://open.spotify.com/track/2EKBiUviGslPW2qgesNsQX) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [ยิ่งดุยิ่งชอบ](https://open.spotify.com/album/08sdynQ4AiGm449pYAU3fH) | 3:04 | 2024-12-12 | 2025-03-14 |
 | [ยิ่งบ่น ยิ่งรัก \(Love Noise\)](https://open.spotify.com/track/3GL0Nc7Pb3Rk7zeHDK6ywg) | [Peatwasu](https://open.spotify.com/artist/0yPpo6qnhnnaljALqCfdBK) | [ยิ่งบ่น ยิ่งรัก \(Love Noise\)](https://open.spotify.com/album/3wNi3zvctDGJ2gPhfl7tEV) | 4:02 | 2026-03-19 | 2026-04-03 |
@@ -752,7 +753,7 @@
 | [เทสดี \(Tasty\)](https://open.spotify.com/track/28bep4KdCxRS3Qv5QZaImr) | [NUTDAN](https://open.spotify.com/artist/5I2NGkEmjjEJHvyiNHu5da) | [เทสดี \(Tasty\)](https://open.spotify.com/album/7vMHghWuemkXqitqCAhiE8) | 2:59 | 2026-06-26 |  |
 | [เทหมดหน้าตัก \(All In\)](https://open.spotify.com/track/20RR8TQr1SsZ2XYoCVoI0E) | [Phuwin](https://open.spotify.com/artist/1dDqRhUNUraehCs3aoLks0) | [เทหมดหน้าตัก \(All In\)](https://open.spotify.com/album/263AGgIdlHK0OFd2SDtTLd) | 2:55 | 2025-09-18 | 2025-10-10 |
 | [เท่าไหร่ก็ไม่พอ](https://open.spotify.com/track/72YpO0c69zW1sdDxfdqQwf) | [Bell Supol](https://open.spotify.com/artist/2evGkOhBM2TYqcsdbfJmug) | [เท่าไหร่ก็ไม่พอ](https://open.spotify.com/album/2OaI9TOAJNRr5WWbOYsr0N) | 3:54 | 2022-07-01 | 2022-07-11 |
-| [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/track/3ATo1WsiP4luuboQYmuSUT) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/album/2FOSJATFDIGtdPkUrbtWFP) | 3:05 | 2025-02-20 |  |
+| [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/track/3ATo1WsiP4luuboQYmuSUT) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/album/2FOSJATFDIGtdPkUrbtWFP) | 3:05 | 2025-02-20 | 2026-07-06 |
 | [เธอคนไหน \(U\-WHO\)](https://open.spotify.com/track/0AhcURCHS8NhcsHYRrEBH7) | [TOFFE](https://open.spotify.com/artist/2seAV47mn1Z0NnjI78vLPn) | [เธอคนไหน \(U\-WHO\)](https://open.spotify.com/album/57GVTJ24ATQb3SjA8apw4u) | 3:02 | 2022-08-18 | 2022-08-26 |
 | [เธอคือคนที่ฟ้าส่งมาเพื่อฉัน \(ilysb\)](https://open.spotify.com/track/1aDDhtSKGhOS3FMx6wMCFa) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เธอคือคนที่ฟ้าส่งมาเพื่อฉัน \(ilysb\)](https://open.spotify.com/album/3DlZnkcwHWq6I3jU1uUtNj) | 2:47 | 2025-03-01 | 2025-03-13 |
 | [เธอคือเหตุผล \(Smile\)](https://open.spotify.com/track/4ftNzErxpRe1JB1OsqpHmv) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เธอคือเหตุผล \(Smile\)](https://open.spotify.com/album/1r1J8jcBmQhlo9PTfcGNWF) | 3:02 | 2026-05-07 | 2026-05-29 |

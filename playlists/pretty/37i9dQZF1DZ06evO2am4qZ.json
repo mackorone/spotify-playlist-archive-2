@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 5244,
+  "num_followers": 5245,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAC73aXrjR0rWjNVrk4SYylY",
+  "snapshot_id": "akhNAAAAAACrIptKs9QHrPS7zcC7l0Va",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/5mAndmKGkXWSwNFHywzB5e"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "James Vickery",
+          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
+        }
+      ],
+      "duration_ms": 174092,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/7udNt8rbaYcuYKaAtkA8qn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "zer0",
         "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 192697,
       "name": "Like We",
       "url": "https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hourglass",
-        "url": "https://open.spotify.com/album/5mAndmKGkXWSwNFHywzB5e"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        }
-      ],
-      "duration_ms": 174092,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/7udNt8rbaYcuYKaAtkA8qn"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chill Hits",
-        "url": "https://open.spotify.com/album/1RniJMnSKSAV3weUsCyoNZ"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 167151,
-      "name": "Yasss Queen",
-      "url": "https://open.spotify.com/track/5dbKYoGRGgKtamrxymtFQh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RHODA",
         "url": "https://open.spotify.com/album/28DffLzCo1BT9EVcJGDH7O"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chill Hits",
+        "url": "https://open.spotify.com/album/1RniJMnSKSAV3weUsCyoNZ"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 167151,
+      "name": "Yasss Queen",
+      "url": "https://open.spotify.com/track/5dbKYoGRGgKtamrxymtFQh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After The Rain: Deluxe",
         "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
       },
@@ -583,26 +583,6 @@
       "duration_ms": 148069,
       "name": "Rainbow Cadillac",
       "url": "https://open.spotify.com/track/43JD7xFlgcCV2OVOVXMbKp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boys Are From Mars (feat. Yung Baby Tate)",
-        "url": "https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y"
-      },
-      "artists": [
-        {
-          "name": "Princess Nokia",
-          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 192386,
-      "name": "Boys Are From Mars (feat. Yung Baby Tate)",
-      "url": "https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g"
     },
     {
       "added_at": null,
@@ -623,6 +603,26 @@
       "duration_ms": 192423,
       "name": "Feedback",
       "url": "https://open.spotify.com/track/1ju3rW2OT3mzfxOi1SZ8TU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys Are From Mars (feat. Yung Baby Tate)",
+        "url": "https://open.spotify.com/album/3CZncRuiQ8RRLLDFgLdZ4Y"
+      },
+      "artists": [
+        {
+          "name": "Princess Nokia",
+          "url": "https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 192386,
+      "name": "Boys Are From Mars (feat. Yung Baby Tate)",
+      "url": "https://open.spotify.com/track/45amNYT3mAxl8Hh9A7J56g"
     },
     {
       "added_at": null,
@@ -891,22 +891,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ms. Out Tonight",
-        "url": "https://open.spotify.com/album/63DaQllnJKqmCIwHveb4A7"
+        "name": "Tate Tuesday, Vol. 1",
+        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
       },
       "artists": [
-        {
-          "name": "Siena Liggins",
-          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
-        },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 209577,
-      "name": "Dirty Girl",
-      "url": "https://open.spotify.com/track/5idXmIFpLBV6A3fFSKkSvy"
+      "duration_ms": 157575,
+      "name": "Straight",
+      "url": "https://open.spotify.com/track/3m0oTOYuZlqu6kTtoeulOw"
     },
     {
       "added_at": null,
@@ -927,18 +923,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tate Tuesday, Vol. 1",
-        "url": "https://open.spotify.com/album/4ezlRpZgswWGCfOK1pkYJR"
+        "name": "Ms. Out Tonight",
+        "url": "https://open.spotify.com/album/63DaQllnJKqmCIwHveb4A7"
       },
       "artists": [
+        {
+          "name": "Siena Liggins",
+          "url": "https://open.spotify.com/artist/5DLTBcpdWQsAPeN1t8PZv9"
+        },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 157575,
-      "name": "Straight",
-      "url": "https://open.spotify.com/track/3m0oTOYuZlqu6kTtoeulOw"
+      "duration_ms": 209577,
+      "name": "Dirty Girl",
+      "url": "https://open.spotify.com/track/5idXmIFpLBV6A3fFSKkSvy"
     },
     {
       "added_at": null,

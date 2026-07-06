@@ -262,7 +262,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 115744,
       "name": "222",
       "url": "https://open.spotify.com/track/3bp6VjYqCgTQiOZSVWTl92"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 195412,
       "name": "Adelante, albirroja, adelante - Remix",
       "url": "https://open.spotify.com/track/4BZ85YmtaYNYqcnywyDgIK"
@@ -6094,7 +6094,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 221373,
       "name": "El Sistema Solar",
       "url": "https://open.spotify.com/track/09xMt0J034wVOVq2DmsImT"
@@ -6782,7 +6782,7 @@
       ],
       "date_added": "2025-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -6854,7 +6854,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -7488,7 +7488,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 226533,
       "name": "FOREVER TU GANTEL",
       "url": "https://open.spotify.com/track/1YAWMfsmduIrpqrjP45pFn"
@@ -11680,7 +11680,7 @@
       ],
       "date_added": "2025-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/4zhk2RS2EZODmBW6il55Qj"
@@ -13552,7 +13552,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 132573,
       "name": "Paraguay Tu Papa",
       "url": "https://open.spotify.com/track/2yb3lOShiJNnqTNc0yYkXB"
@@ -13570,7 +13570,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 157000,
       "name": "PARAGUAYITA",
       "url": "https://open.spotify.com/track/7t6bQK1felHXrXZykQG2LV"
@@ -17434,7 +17434,7 @@
       ],
       "date_added": "2025-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 192078,
       "name": "Soy Albirrojo",
       "url": "https://open.spotify.com/track/3vMyng1aXtIT1r8Y0a6hjT"
@@ -18520,7 +18520,7 @@
       ],
       "date_added": "2021-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 321555,
       "name": "Tiroteo - Remix",
       "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
@@ -20012,7 +20012,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 199253,
       "name": "VAMOaCOCHI",
       "url": "https://open.spotify.com/track/1oghNMGW42IhtQPNU6leZz"
@@ -21154,7 +21154,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/3jqk4fue7CILssCv8UpJe0"
@@ -21258,6 +21258,24 @@
       "duration_ms": 187172,
       "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
       "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
+    },
+    {
+      "album": {
+        "name": "\u00bfY SI S\u00cd?",
+        "url": "https://open.spotify.com/album/4QeKD9RzcolIoDCWBa03vG"
+      },
+      "artists": [
+        {
+          "name": "Ferchosre",
+          "url": "https://open.spotify.com/artist/6u6yjjvGpWEXUkPN1dutoq"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168292,
+      "name": "\u00bfY SI S\u00cd?",
+      "url": "https://open.spotify.com/track/5SXW6RwP5MEOeJ9HwUZDUq"
     },
     {
       "album": {

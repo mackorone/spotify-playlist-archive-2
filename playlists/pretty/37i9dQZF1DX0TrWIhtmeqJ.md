@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: Pozzy, Saiming, t.o
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,705 likes - 70 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,700 likes - 70 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 69 | [Slow It Down](https://open.spotify.com/track/6wNsQL63SDzUv3AWjiBL0c) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [Slow It Down / She Don't Wanna Go Tape](https://open.spotify.com/album/6Rf7Cqeih99GsskCOn9oEl) | 1:38 |
 | 70 | [Favela](https://open.spotify.com/track/0eTBOGiX3nHdoUkP3QcqDA) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Favela](https://open.spotify.com/album/5MykttFGutQ8FE4C6bSP7J) | 1:58 |
 
-Snapshot ID: `AAAAAMWr/N5zkNMP3vpH2NTYeGmMgkDS`
+Snapshot ID: `aj5QjwAAAACLNHvufpC07q1TjkHGfuvH`

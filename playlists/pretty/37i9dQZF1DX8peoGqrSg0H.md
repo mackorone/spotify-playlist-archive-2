@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PERSES
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,728 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,738 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ขี้แง \(Boys Don't Cry\)](https://open.spotify.com/track/04nwoRnWqFYhFLaRNWuNw5) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [ขี้แง \(Boys Don't Cry\)](https://open.spotify.com/album/6nLwr7ShdFiiCtvwMw0epG) | 4:15 |
 | 2 | [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/track/3sO6ivshLjXWIT6lkzR1hk) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [ดีใจที่ไม่มีเธอ \(happy\)](https://open.spotify.com/album/7s3jYzmo22KagKaVgTVNgE) | 4:53 |
 | 3 | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv) | 3:26 |
-| 4 | [ไม่แพ้ใคร \(Hotter than ur X\)](https://open.spotify.com/track/02BhVARYsGU1xLzVodgf9L) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [ไม่แพ้ใคร \(Hotter than ur X\)](https://open.spotify.com/album/0umpKcPUyVl4gzIXVfHoTP) | 3:24 |
-| 5 | [เทสดี \(Tasty\)](https://open.spotify.com/track/28bep4KdCxRS3Qv5QZaImr) | [NUTDAN](https://open.spotify.com/artist/5I2NGkEmjjEJHvyiNHu5da) | [เทสดี \(Tasty\)](https://open.spotify.com/album/7vMHghWuemkXqitqCAhiE8) | 2:59 |
-| 6 | [OVERHOPED](https://open.spotify.com/track/1lU1eiiKqkzxfDRsxygGlP) | [SVRN](https://open.spotify.com/artist/2d4QIH8IXzqoWwHp4zy18G) | [OVERHOPED](https://open.spotify.com/album/4qBzeSyDBshUeZ0ao0CU8L) | 3:23 |
-| 7 | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH) | 3:22 |
-| 8 | [ดังในใจ \(Rain Fall\) \- เพลงประกอบซีรีส์ "Ticket to Heaven เด็กชายไม่ไปสวรรค์"](https://open.spotify.com/track/6mP1n3YcWFq7kpvZmFLbEP) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [ดังในใจ \(Rain Fall\) \[เพลงประกอบซีรีส์ "Ticket to Heaven เด็กชายไม่ไปสวรรค์"\]](https://open.spotify.com/album/1h0Wmkp5cmcm7vAzDuCuUm) | 3:29 |
-| 9 | [ถูกที่ผิดเวลา \(Wrong Time\)](https://open.spotify.com/track/55qhcNPB9rJPTF1ynsSY6g) | [KRIST](https://open.spotify.com/artist/44bpIttZnohSzfXKoaw31l) | [ถูกที่ผิดเวลา \(Wrong Time\)](https://open.spotify.com/album/4TG9jZf2ZRvwIyOSm7h0Zg) | 3:56 |
-| 10 | [เสียใจดีกว่าเสียเธอ](https://open.spotify.com/track/4DIqAVapAAive5AILNtOj8) | [PS](https://open.spotify.com/artist/5mPMimurGk9ARZM3FV12x0) | [เสียใจดีกว่าเสียเธอ](https://open.spotify.com/album/2UAmW4HxU7nMNfNUpDbFQG) | 4:09 |
-| 11 | [Dance With The Devil](https://open.spotify.com/track/3R5a0BnfrASTZ5f2ronWt3) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [TAKE OFF](https://open.spotify.com/album/4Xy0UoGykV7ATkSV0gslk5) | 2:54 |
-| 12 | [BIRTHDAY BUT WITH ME \(From "ซอโซ่ล่ามธีร์"\)](https://open.spotify.com/track/7niNkagHSxm3poyNBmlpfp) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [BIRTHDAY BUT WITH ME \(From "ซอโซ่ล่ามธีร์"\)](https://open.spotify.com/album/3FFCgopasTiPu6DXt0xWuZ) | 3:32 |
-| 13 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 |
-| 14 | [APE](https://open.spotify.com/track/02TrL37a5FQ5PqxG5cmov7) | [THX](https://open.spotify.com/artist/37IoruZVv6afp3q77AFYwB) | [APE](https://open.spotify.com/album/5k4t8Cx6mgZf3gqGDt1PD7) | 3:31 |
-| 15 | [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/track/3ATo1WsiP4luuboQYmuSUT) | [SERIOUS BACON](https://open.spotify.com/artist/32qeMmjXorbPWS9JOi8O2p) | [เธอ ๆ เพื่อนเราชอบ \(Guess Who?\)](https://open.spotify.com/album/2FOSJATFDIGtdPkUrbtWFP) | 3:05 |
+| 4 | [ยาแก้แพ้ \(Love Allergy\)](https://open.spotify.com/track/60ztSIToposWNzYOWeKrtp) | [NANON](https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo) | [ยาแก้แพ้ \(Love Allergy\)](https://open.spotify.com/album/1RRrXPfEjVTA2769fQy8ro) | 3:35 |
+| 5 | [ไม่แพ้ใคร \(Hotter than ur X\)](https://open.spotify.com/track/02BhVARYsGU1xLzVodgf9L) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [ไม่แพ้ใคร \(Hotter than ur X\)](https://open.spotify.com/album/0umpKcPUyVl4gzIXVfHoTP) | 3:24 |
+| 6 | [เทสดี \(Tasty\)](https://open.spotify.com/track/28bep4KdCxRS3Qv5QZaImr) | [NUTDAN](https://open.spotify.com/artist/5I2NGkEmjjEJHvyiNHu5da) | [เทสดี \(Tasty\)](https://open.spotify.com/album/7vMHghWuemkXqitqCAhiE8) | 2:59 |
+| 7 | [OVERHOPED](https://open.spotify.com/track/1lU1eiiKqkzxfDRsxygGlP) | [SVRN](https://open.spotify.com/artist/2d4QIH8IXzqoWwHp4zy18G) | [OVERHOPED](https://open.spotify.com/album/4qBzeSyDBshUeZ0ao0CU8L) | 3:23 |
+| 8 | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/track/0jmSojJLnjiQpGGM3HHlYS) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [รักให้เธอได้รู้ \(Proof.\)](https://open.spotify.com/album/0UEgkWQcEQ9pvIHUpuxbmH) | 3:22 |
+| 9 | [ดังในใจ \(Rain Fall\) \- เพลงประกอบซีรีส์ "Ticket to Heaven เด็กชายไม่ไปสวรรค์"](https://open.spotify.com/track/6mP1n3YcWFq7kpvZmFLbEP) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [ดังในใจ \(Rain Fall\) \[เพลงประกอบซีรีส์ "Ticket to Heaven เด็กชายไม่ไปสวรรค์"\]](https://open.spotify.com/album/1h0Wmkp5cmcm7vAzDuCuUm) | 3:29 |
+| 10 | [ถูกที่ผิดเวลา \(Wrong Time\)](https://open.spotify.com/track/55qhcNPB9rJPTF1ynsSY6g) | [KRIST](https://open.spotify.com/artist/44bpIttZnohSzfXKoaw31l) | [ถูกที่ผิดเวลา \(Wrong Time\)](https://open.spotify.com/album/4TG9jZf2ZRvwIyOSm7h0Zg) | 3:56 |
+| 11 | [เสียใจดีกว่าเสียเธอ](https://open.spotify.com/track/4DIqAVapAAive5AILNtOj8) | [PS](https://open.spotify.com/artist/5mPMimurGk9ARZM3FV12x0) | [เสียใจดีกว่าเสียเธอ](https://open.spotify.com/album/2UAmW4HxU7nMNfNUpDbFQG) | 4:09 |
+| 12 | [Dance With The Devil](https://open.spotify.com/track/3R5a0BnfrASTZ5f2ronWt3) | [JAOKHUN](https://open.spotify.com/artist/0vF6ptBD4n9wYG9G9mHHP8) | [TAKE OFF](https://open.spotify.com/album/4Xy0UoGykV7ATkSV0gslk5) | 2:54 |
+| 13 | [BIRTHDAY BUT WITH ME \(From "ซอโซ่ล่ามธีร์"\)](https://open.spotify.com/track/7niNkagHSxm3poyNBmlpfp) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [BIRTHDAY BUT WITH ME \(From "ซอโซ่ล่ามธีร์"\)](https://open.spotify.com/album/3FFCgopasTiPu6DXt0xWuZ) | 3:32 |
+| 14 | [DMMA](https://open.spotify.com/track/69EqSYcNF1j2B0QNmVaf2Q) | [JustmineNika](https://open.spotify.com/artist/3qsG1NIop7eqpcnbYdZpL0) | [DMMA](https://open.spotify.com/album/6TZy5ZQDyTbAa8bIz3whBd) | 2:35 |
+| 15 | [APE](https://open.spotify.com/track/02TrL37a5FQ5PqxG5cmov7) | [THX](https://open.spotify.com/artist/37IoruZVv6afp3q77AFYwB) | [APE](https://open.spotify.com/album/5k4t8Cx6mgZf3gqGDt1PD7) | 3:31 |
 | 16 | [โอเค๊ะ? \(Okay\) \[feat\. Ice Paris\]](https://open.spotify.com/track/5RG9aMHwKfU8BWpuef6yW4) | [JAYLERR](https://open.spotify.com/artist/72eVco16BxQJe5nE1vY72F), [Ice Paris](https://open.spotify.com/artist/6Ul5SIYwfYqiTgvSDqOe2n) | [โอเค๊ะ? \(Okay\) \[feat\. Ice Paris\]](https://open.spotify.com/album/62kXHw6LvPEPDqALmZ0mFb) | 3:10 |
 | 17 | [ขอแค่นี้ \(Forever n ever\)](https://open.spotify.com/track/6uS1yKSfktHNN7o4AradRV) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [While I'm away](https://open.spotify.com/album/5bDsVtGFlIsqnrWnOgIK7W) | 3:39 |
 | 18 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 49 | [SIDE TO SIDE \(feat\. MABELZ PiXXiE\)](https://open.spotify.com/track/1epohrYWjuGpmhEt64eaPB) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ), [MABELZ PiXXiE](https://open.spotify.com/artist/3gMPZzKt31MexVHDc5SuU5) | [SIDE TO SIDE \(feat\. MABELZ PiXXiE\)](https://open.spotify.com/album/4YK7VA6Lbq6WSuokSxKNWc) | 3:01 |
 | 50 | [Pretty Girl](https://open.spotify.com/track/6tB3Own6faovgVetrvNCiZ) | [KimGun](https://open.spotify.com/artist/12mLwmGdGDI6nZxur0atkl) | [Pretty Girl](https://open.spotify.com/album/08H6tDS77MOL0eL5RT2qqE) | 2:47 |
 
-Snapshot ID: `AAAAAKKaNEMWMvkhbpZQo9Wo/QmpqiUe`
+Snapshot ID: `AAAAAMk0buBdwHAFIsyk6LwHV1MoOIgC`

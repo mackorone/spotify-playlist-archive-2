@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent writing their own songs\. Cover: Cassandra Coleman
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,501 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,510 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 | 74 | [One For The Road](https://open.spotify.com/track/3tmfku440xHAmxVZHkFYru) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [One For The Road](https://open.spotify.com/album/15q6BF5pmuaICRuWgXXrqJ) | 4:06 |
 | 75 | [It's Not You It's Him](https://open.spotify.com/track/5GliRrmzhcTZyXCl0EXBC1) | [Niamh McCrystal](https://open.spotify.com/artist/2LoxxZskH5pEoFCfcBiyQ6) | [It's Not You It's Him](https://open.spotify.com/album/4zWSKRsewtQmVuuTFdkEIK) | 2:49 |
 
-Snapshot ID: `AAAAAPbmm6x30dKdeM1lfW51ioW0s0we`
+Snapshot ID: `AAAAAHQIuFQykFbsbiTUyJLnT4skWTJW`

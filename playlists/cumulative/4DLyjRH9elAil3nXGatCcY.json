@@ -6867,6 +6867,24 @@
     },
     {
       "album": {
+        "name": "Perpetual",
+        "url": "https://open.spotify.com/album/1nX2SzQba1EmYExiUIKTRI"
+      },
+      "artists": [
+        {
+          "name": "DV-i",
+          "url": "https://open.spotify.com/artist/3EQMLkFqKA6xXhzNYlBrbE"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255625,
+      "name": "Perpetual",
+      "url": "https://open.spotify.com/track/1EmbdGpODC0A8TB18vtJRJ"
+    },
+    {
+      "album": {
         "name": "Herstory in the Making",
         "url": "https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG"
       },

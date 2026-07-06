@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 12636,
+  "num_followers": 12641,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAACpKUzFPfyhBNHPpCGbdGed",
+  "snapshot_id": "akhNAAAAAAC7kbAc6u4KjRXkFKSSg12k",
   "tracks": [
     {
       "added_at": null,
@@ -559,6 +559,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Afro Pop, Vol. 1",
+        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 186782,
+      "name": "Pretty Girl",
+      "url": "https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Prayer Request II",
         "url": "https://open.spotify.com/album/4qwP9cnMh0yYshFmZxybfQ"
       },
@@ -583,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afro Pop, Vol. 1",
-        "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 186782,
-      "name": "Pretty Girl",
-      "url": "https://open.spotify.com/track/6G7Jnkix0H7nBxqjqGbD50"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MA GIRL",
         "url": "https://open.spotify.com/album/6xWy3uu4pnbYBhYbkA1S8h"
       },
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 191945,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Make Am (feat. Ebonyi State Band)",
         "url": "https://open.spotify.com/album/0ansMS1zm0JoxSpDVOGCHS"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 232893,
       "name": "Make Am (feat. Ebonyi State Band)",
       "url": "https://open.spotify.com/track/0URKYeAgtNb9WPf8OCGo7O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 191945,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/0f8Xy3OX3eW75Z6jFJiko3"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heal D World",
+        "url": "https://open.spotify.com/album/3OF5TdykKnUzrySPFy7KMY"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 224026,
+      "name": "Heal D World",
+      "url": "https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sing My Name",
         "url": "https://open.spotify.com/album/2AuB1GPHlXcdzKrKrOwnAR"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 214769,
       "name": "Sing My Name",
       "url": "https://open.spotify.com/track/6zG9dqraRgFTDHxtYhLbQh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heal D World",
-        "url": "https://open.spotify.com/album/3OF5TdykKnUzrySPFy7KMY"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 224026,
-      "name": "Heal D World",
-      "url": "https://open.spotify.com/track/3HhbPO8fglPLN5ta1loBSP"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Patoranking",
+        "url": "https://open.spotify.com/album/4AQnC9nJPONOcveexfbjYm"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 245133,
+      "name": "Another Level",
+      "url": "https://open.spotify.com/track/7vuoXyvpNMhZJScAdeN0dz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sober (Soo Bad)",
         "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 220206,
       "name": "Sober (Soo Bad)",
       "url": "https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Patoranking",
-        "url": "https://open.spotify.com/album/4AQnC9nJPONOcveexfbjYm"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 245133,
-      "name": "Another Level",
-      "url": "https://open.spotify.com/track/7vuoXyvpNMhZJScAdeN0dz"
     },
     {
       "added_at": null,
@@ -927,6 +927,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 208355,
+      "name": "Hal\u00e9 Hal\u00e9",
+      "url": "https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A.W.A.M.",
         "url": "https://open.spotify.com/album/26Q4esPJ7U0noOyhSCxb1S"
       },
@@ -951,22 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 208355,
-      "name": "Hal\u00e9 Hal\u00e9",
-      "url": "https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WORLD BEST",
         "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
@@ -987,26 +987,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seyi or Shay",
-        "url": "https://open.spotify.com/album/0TRPmOkkAXYNxfIsvBLkIm"
+        "name": "Daniella Whine - single",
+        "url": "https://open.spotify.com/album/2KPrCbHxw6FjOnX9N7bFyR"
       },
       "artists": [
         {
-          "name": "Seyi Shay",
-          "url": "https://open.spotify.com/artist/0WgwOS7j1CB5tIRa4QM50K"
-        },
-        {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Shaydee",
-          "url": "https://open.spotify.com/artist/3fgi4lDoL6eyhj2sKsKKpa"
         }
       ],
-      "duration_ms": 228884,
-      "name": "Murda",
-      "url": "https://open.spotify.com/track/3z2SygkbAZOTrj5FK1MdbP"
+      "duration_ms": 244840,
+      "name": "Daniella Whine",
+      "url": "https://open.spotify.com/track/70iRqEVEdQsvP3mzHdJSbG"
     }
   ],
   "unique_name": "This Is Patoranking",

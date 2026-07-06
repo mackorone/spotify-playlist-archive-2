@@ -4,7 +4,7 @@
 
 > youngs soundss 🥞 Klara Vibe på forsiden
 
-449 songs - 23 hr 3 min
+450 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [HAR DET MAX](https://open.spotify.com/track/08wUkq39Lw3xECrdwz2sSW) | [Elias](https://open.spotify.com/artist/6GHeYbQYL39Ri5g9a8rb2K) | [HAR DET MAX](https://open.spotify.com/album/0ddQKDnxDXlx9a71ruRod3) | 1:47 | 2025-06-19 | 2025-08-08 |
 | [Heartbreak](https://open.spotify.com/track/1JdPraBOBKK9V2uTPP4jnJ) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [Heartbreak](https://open.spotify.com/album/6FAUARCpztIj99JeEdPTZ5) | 2:45 | 2025-06-05 | 2025-06-13 |
 | [Heaven](https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH) | [ROYA](https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh) | [Dear Space](https://open.spotify.com/album/587JvxALgoeXF1WQYsjAVp) | 3:22 | 2024-06-27 | 2024-11-29 |
-| [Heliumtanker](https://open.spotify.com/track/2bm8pFI3ZPsZxRpxgBr85D) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Heliumtanker](https://open.spotify.com/album/5Aa18monSfhQj9wVnkI9Br) | 2:44 | 2026-06-11 |  |
+| [Heliumtanker](https://open.spotify.com/track/2bm8pFI3ZPsZxRpxgBr85D) | [Marcus.wav](https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr) | [Heliumtanker](https://open.spotify.com/album/5Aa18monSfhQj9wVnkI9Br) | 2:44 | 2026-06-11 | 2026-07-06 |
 | [Helt](https://open.spotify.com/track/7vuUVW3lImv40lkgqJz4iQ) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Drømmer / Helt](https://open.spotify.com/album/6hX2wyH7niZIByb0OFKdC5) | 4:06 | 2025-03-21 | 2025-03-28 |
 | [Hen til det](https://open.spotify.com/track/0p95JhZTHJXDAz1chvdKtD) | [Karla Korsbak](https://open.spotify.com/artist/64TCK9hFlXeyqmeC5JLxyC) | [Hen til det](https://open.spotify.com/album/7G917tqDbJDa3G7G3JgDsp) | 2:51 | 2025-04-24 | 2026-01-15 |
 | [Heyday](https://open.spotify.com/track/1po5B6oPIyVe4WNWo95jds) | [Polite](https://open.spotify.com/artist/58dZjH0389m3MlcYkoRDui) | [Heyday](https://open.spotify.com/album/5eRNMrOvUDNkYgLN5Dm4uP) | 3:31 | 2025-04-10 | 2025-04-18 |
@@ -194,6 +194,7 @@
 | [Hvor Svært Kan Det Være](https://open.spotify.com/track/2kIGmHdCeslh6nxVoNUNGS) | [Østen](https://open.spotify.com/artist/0dMc2FDDeU7OzAn5EsYKuU) | [Hvor Svært Kan Det Være](https://open.spotify.com/album/7edNDcl8N2ui3j2DI8aLs7) | 2:50 | 2026-06-04 | 2026-06-12 |
 | [Hvorfor skulle jeg vide det?](https://open.spotify.com/track/2PtVNvdWQDCVgmviVljEBr) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Saint clara](https://open.spotify.com/artist/7c1rIwBQdZMoJD4VE9luoS) | [Hvorfor skulle jeg vide det?](https://open.spotify.com/album/360MgRzxQLYOT70TgyPyg4) | 2:15 | 2026-05-02 |  |
 | [Hvornår](https://open.spotify.com/track/0HrgO9iNsl46VdIGXxETYp) | [Tosomhed](https://open.spotify.com/artist/2FvINsykw40GeQeofZROi4) | [Hvornår](https://open.spotify.com/album/1yYJKSVjCg4A2e7y8Bbeem) | 3:06 | 2025-08-21 | 2025-08-29 |
+| [Hælervarer](https://open.spotify.com/track/3EbEA7Ln9T6ltf1sYVIPka) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [Hælervarer](https://open.spotify.com/album/1f31MyCILmEwtqs1gesVF3) | 3:04 | 2026-06-26 |  |
 | [Hæng En Mand](https://open.spotify.com/track/2zvhn9ULZDvygD0tuGuo4W) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Hæng En Mand](https://open.spotify.com/album/2vH3tgHnpa3n8Vy8R45nEa) | 5:12 | 2025-10-02 |  |
 | [Høj På Livet](https://open.spotify.com/track/4xCCiECABvVCXE0UZb0k9t) | [144Hz](https://open.spotify.com/artist/2uPlJ3yxYEb2GjdbOb018e), [Sofie1998](https://open.spotify.com/artist/56kAP8Glt3AVDWrOwxX9aB) | [Høj På Livet](https://open.spotify.com/album/1Ggt1HjgSTmk2udoeFsnYa) | 3:39 | 2026-06-04 |  |
 | [Højhus \(Hvor Går Vi Hen\)](https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF) | [Statisk](https://open.spotify.com/artist/3iMPlKfT0MyTfFKht7LfgN) | [Højhus \(Hvor Går Vi Hen\)](https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50) | 3:11 | 2024-06-27 | 2025-02-07 |

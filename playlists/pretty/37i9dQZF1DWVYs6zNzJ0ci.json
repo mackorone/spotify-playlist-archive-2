@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Danny Ocean y Ryan Castro.",
-  "num_followers": 1161627,
+  "num_followers": 1161497,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -1467,26 +1467,6 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "Long Time Ago",
-        "url": "https://open.spotify.com/album/3qoUdqO3KEgw5hoEAWIsPv"
-      },
-      "artists": [
-        {
-          "name": "John Poll\u00f5n",
-          "url": "https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh"
-        },
-        {
-          "name": "Lander",
-          "url": "https://open.spotify.com/artist/5Uv7k7IyfKhzYmfJF56QhE"
-        }
-      ],
-      "duration_ms": 131739,
-      "name": "Long Time Ago",
-      "url": "https://open.spotify.com/track/7lyuYzBOtv2lhark08WlTw"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
         "name": "Celebration (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E"
       },
@@ -1515,18 +1495,22 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "C\u00f3mo Te Hago Entender",
-        "url": "https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg"
+        "name": "Long Time Ago",
+        "url": "https://open.spotify.com/album/3qoUdqO3KEgw5hoEAWIsPv"
       },
       "artists": [
         {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+          "name": "John Poll\u00f5n",
+          "url": "https://open.spotify.com/artist/4fJie9zmEW6VmFoQKrx4Lh"
+        },
+        {
+          "name": "Lander",
+          "url": "https://open.spotify.com/artist/5Uv7k7IyfKhzYmfJF56QhE"
         }
       ],
-      "duration_ms": 159832,
-      "name": "C\u00f3mo Te Hago Entender",
-      "url": "https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ"
+      "duration_ms": 131739,
+      "name": "Long Time Ago",
+      "url": "https://open.spotify.com/track/7lyuYzBOtv2lhark08WlTw"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1543,6 +1527,22 @@
       "duration_ms": 217717,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/7zgHeKcJbwEPM9t4dyfykl"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
+        "name": "C\u00f3mo Te Hago Entender",
+        "url": "https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        }
+      ],
+      "duration_ms": 159832,
+      "name": "C\u00f3mo Te Hago Entender",
+      "url": "https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ"
     },
     {
       "added_at": "2026-05-15 06:00:25",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2026-05-15 06:00:25",
       "album": {
-        "name": "Veneno",
-        "url": "https://open.spotify.com/album/22ZKG6KNoJyXqosV7yTHKp"
-      },
-      "artists": [
-        {
-          "name": "Green Valley",
-          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
-        },
-        {
-          "name": "Sho-Hai",
-          "url": "https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/6LV6xNFpcIKvkFfvhT6lHk"
-    },
-    {
-      "added_at": "2026-05-15 06:00:25",
-      "album": {
         "name": "La Tierra del Desencanto",
         "url": "https://open.spotify.com/album/76rP6tPR6Jo8gjodM4teJn"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 249542,
       "name": "La Tierra del Desencanto",
       "url": "https://open.spotify.com/track/2ySXNfWahYbD6Y2s33watc"
+    },
+    {
+      "added_at": "2026-05-15 06:00:25",
+      "album": {
+        "name": "Veneno",
+        "url": "https://open.spotify.com/album/22ZKG6KNoJyXqosV7yTHKp"
+      },
+      "artists": [
+        {
+          "name": "Green Valley",
+          "url": "https://open.spotify.com/artist/1v7iZcyrm4fHfsEBiseomy"
+        },
+        {
+          "name": "Sho-Hai",
+          "url": "https://open.spotify.com/artist/1mvAv5jk1OSd3Tyv4aZEjK"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/6LV6xNFpcIKvkFfvhT6lHk"
     },
     {
       "added_at": "2026-05-15 06:00:25",

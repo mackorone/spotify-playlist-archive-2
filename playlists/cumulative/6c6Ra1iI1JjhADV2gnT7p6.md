@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/6c6Ra1iI1JjhADV2gnT7p6.md) - cumulative - [plain](/playlists/plain/6c6Ra1iI1JjhADV2gnT7p6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/6c6Ra1iI1JjhADV2gnT7p6)
 
-### [Compact Cassette](https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6)
+### [Compact Cassette \(Summer 2026\)](https://open.spotify.com/playlist/6c6Ra1iI1JjhADV2gnT7p6)
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
@@ -2932,7 +2932,7 @@
 | [joyride](https://open.spotify.com/track/3anTf4RJqj0hiIRkT4IyA1) | [The Crying Nudes](https://open.spotify.com/artist/3tM7dj8ztmzKcugbIVMxy0) | [joyride](https://open.spotify.com/album/4jqtWbVBqPK5GPni1dvIyT) | 1:36 | 2025-12-08 | 2026-01-24 |
 | [Jubilee](https://open.spotify.com/track/3t1XkpmCDBBqEhcYoTL9GY) | [Kate Prascher](https://open.spotify.com/artist/26AEagFod7amlwiCyy0JsY) | [Jubilee](https://open.spotify.com/album/3x924sTFY4cpXAe3E9l59A) | 3:42 | 2026-06-14 |  |
 | [Jump](https://open.spotify.com/track/4WePw5P56c42FZEQGmPGTP) | [Pippy](https://open.spotify.com/artist/5YW0DzXfAOjrNtgORgjOcZ) | [Pippy](https://open.spotify.com/album/0mnC80Kaq2Fk47DuNxqz22) | 2:52 | 2026-05-23 | 2026-05-31 |
-| [June](https://open.spotify.com/track/6URCJJRPQAJyxKhzILWllf) | [Natalie Green](https://open.spotify.com/artist/0fxQXo3PV20WmVzJaYPC8T) | [Natalie Green is my Lover](https://open.spotify.com/album/6RHvpf0C3adwozrABYhIDF) | 4:04 | 2026-06-21 |  |
+| [June](https://open.spotify.com/track/6URCJJRPQAJyxKhzILWllf) | [Natalie Green](https://open.spotify.com/artist/0fxQXo3PV20WmVzJaYPC8T) | [Natalie Green is my Lover](https://open.spotify.com/album/6RHvpf0C3adwozrABYhIDF) | 4:04 | 2026-06-21 | 2026-07-06 |
 | [JUNE](https://open.spotify.com/track/3XN7DESgBNHlCmDIe2mYl4) | [No Beauty](https://open.spotify.com/artist/4L5Zgyimcv6fklOzYjIiT2) | [No Beauty Will Remain](https://open.spotify.com/album/2eXu3TS2RpQtFw7tJeHDRY) | 3:21 | 2026-05-31 | 2026-06-14 |
 | [June](https://open.spotify.com/track/44Fw5Ks1VC8BuDHyPTqIik) | [Pool Girl](https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2) | [Ultramarine](https://open.spotify.com/album/39LvslhQ1Wlb9PnjFN1Mmr) | 2:47 | 2026-05-31 |  |
 | [June Blue](https://open.spotify.com/track/1Gsq0xg2V8UoeJ5C1aSy07) | [Nikki Falk](https://open.spotify.com/artist/4XlXTNdb31GyKkl1sICiF0) | [June Blue](https://open.spotify.com/album/5sSN0KAaIPDN7frQA6Uzkd) | 3:12 | 2026-05-31 |  |
@@ -5892,7 +5892,7 @@
 | [What's The Point](https://open.spotify.com/track/4BU4PPxSl72R0Op3AqKszK) | [Andrew Kamen](https://open.spotify.com/artist/2lfHp2l2V3e1OmZGZzLabi) | [What's The Point](https://open.spotify.com/album/0dLSbdSCeQFqZOnW6AEthw) | 2:57 | 2025-12-15 | 2025-12-24 |
 | [What's the Takeaway Now](https://open.spotify.com/track/3xgSx1YIqx6M6CNbGnlgp5) | [Steven van Betten](https://open.spotify.com/artist/2Txt8BxMl4npWRDxQAKvX7) | [What's the Takeaway Now](https://open.spotify.com/album/0tuGx1o0mhW2UbCez75aIz) | 3:32 | 2025-12-15 | 2025-12-24 |
 | [What's Ur Sign?](https://open.spotify.com/track/5tiE3FF7zVuOnlQuoBiAlu) | [SYTË](https://open.spotify.com/artist/3FeH234dEJoLCwGmc2TOG9) | [What's Ur Sign?](https://open.spotify.com/album/6xUnz7jQ6La30xEODlVyj0) | 3:10 | 2026-06-14 |  |
-| [Whatever Weather](https://open.spotify.com/track/7xxIOpXgo7cNF9IzO3R0NA) | [Hannah Kate](https://open.spotify.com/artist/4vcv68jx3GIWh7TM6LkMP6) | [Whatever Weather](https://open.spotify.com/album/4qyEY9uEP1hOaCltiaUITH) | 2:25 | 2026-05-02 |  |
+| [Whatever Weather](https://open.spotify.com/track/7xxIOpXgo7cNF9IzO3R0NA) | [Hannah Kate](https://open.spotify.com/artist/4vcv68jx3GIWh7TM6LkMP6) | [Whatever Weather](https://open.spotify.com/album/4qyEY9uEP1hOaCltiaUITH) | 2:25 | 2026-05-02 | 2026-07-06 |
 | [Wheel](https://open.spotify.com/track/3PhBL5H2yKXEFgX7EnPaXX) | [Living Hour](https://open.spotify.com/artist/2Ho3J07GaGcCl2ePXnjEia) | [Internal Drone Infinity](https://open.spotify.com/album/4PFpkCAYg61oqaLnIp4jxW) | 2:27 | 2025-11-23 | 2025-12-01 |
 | [Wheelers Tune](https://open.spotify.com/track/1GvqwLVCRa6ZsnzaxR0IIp) | [Sports Coach](https://open.spotify.com/artist/00bLFPoTuEnzgSQZyjw0gU) | [afterthought](https://open.spotify.com/album/2iVFkPECBQ2dmO0aOLEgNQ) | 3:23 | 2026-06-07 | 2026-06-22 |
 | [Wheelie](https://open.spotify.com/track/476AuuDvG7SkNVzSUMxCQw) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8), [The Bedroomer](https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB) | [Adult Contemporary](https://open.spotify.com/album/3GUtMJU1SvmsqJ7UYyVKrb) | 1:42 | 2026-04-18 | 2026-06-08 |

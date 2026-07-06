@@ -1,6 +1,6 @@
 {
   "description": "Classic cuts from the alternative country music scene. Cover: Uncle Tupelo",
-  "num_followers": 116347,
+  "num_followers": 116365,
   "original_name": "Alt Country Classics",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2026-06-19 04:01:42",
       "album": {
+        "name": "John Prine",
+        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
+      },
+      "artists": [
+        {
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "Angel from Montgomery",
+      "url": "https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5"
+    },
+    {
+      "added_at": "2026-06-19 04:01:42",
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 209906,
       "name": "Crowded Table",
       "url": "https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW"
-    },
-    {
-      "added_at": "2026-06-19 04:01:42",
-      "album": {
-        "name": "John Prine",
-        "url": "https://open.spotify.com/album/5t4FHrIAHI8nolSAOBRgPp"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "Angel from Montgomery",
-      "url": "https://open.spotify.com/track/2qWKpYIleSvBT6aUMXoia5"
     },
     {
       "added_at": "2026-06-19 04:01:42",

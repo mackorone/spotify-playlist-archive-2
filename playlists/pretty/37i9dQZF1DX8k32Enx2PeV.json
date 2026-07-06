@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 16848,
+  "num_followers": 16860,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "La Luna Me Dijo",
-        "url": "https://open.spotify.com/album/513fTyVwVc64UWDYAAUY0r"
-      },
-      "artists": [
-        {
-          "name": "Soley",
-          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "La Luna Me Dijo",
-      "url": "https://open.spotify.com/track/356yogopiw8SyrRO6aXilZ"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "No Se Dio",
         "url": "https://open.spotify.com/album/7qkFiccMKg5MaeuaznXLJF"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 168842,
       "name": "No Se Dio",
       "url": "https://open.spotify.com/track/4WJlDctOtjnZXgW49DM1Bs"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "La Luna Me Dijo",
+        "url": "https://open.spotify.com/album/513fTyVwVc64UWDYAAUY0r"
+      },
+      "artists": [
+        {
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "La Luna Me Dijo",
+      "url": "https://open.spotify.com/track/356yogopiw8SyrRO6aXilZ"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "Perdiendo el Control",
+        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 202221,
+      "name": "Perdiendo el Control",
+      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "Coco Loco",
         "url": "https://open.spotify.com/album/2PYrIOVfAfAShyZ8jOBkQp"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 198373,
       "name": "Coco Loco",
       "url": "https://open.spotify.com/track/6wbGvckYnAeRk6qxGZoIom"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Perdiendo el Control",
-        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "Perdiendo el Control",
-      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Sol Y Lluvia",
-        "url": "https://open.spotify.com/album/7dvh8EBJFZLom05NRjmiH7"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 184925,
-      "name": "Como Fuego",
-      "url": "https://open.spotify.com/track/5DXL5uI0bfC5q1pBe5Qcwm"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Mi Reina",
         "url": "https://open.spotify.com/album/2g5ah09hJ9oS1QbTADu2xd"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 182643,
       "name": "Mi Reina",
       "url": "https://open.spotify.com/track/46fmfZtm61l4nVt7jR1VAJ"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Sol Y Lluvia",
+        "url": "https://open.spotify.com/album/7dvh8EBJFZLom05NRjmiH7"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 184925,
+      "name": "Como Fuego",
+      "url": "https://open.spotify.com/track/5DXL5uI0bfC5q1pBe5Qcwm"
     },
     {
       "added_at": "2026-06-19 04:59:04",

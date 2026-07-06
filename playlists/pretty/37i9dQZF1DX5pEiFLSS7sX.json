@@ -1,6 +1,6 @@
 {
   "description": "Appreciate the many miracles around you with these songs of worship.",
-  "num_followers": 239837,
+  "num_followers": 239858,
   "original_name": "Miracles",
   "owner": {
     "name": "Spotify",
@@ -687,18 +687,22 @@
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
-        "name": "The Darker The Night / The Brighter The Morning",
-        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
+        "name": "More Like Jesus (Live)",
+        "url": "https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC"
       },
       "artists": [
         {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
         }
       ],
-      "duration_ms": 254840,
-      "name": "The Cross Has The Final Word",
-      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
+      "duration_ms": 338694,
+      "name": "More Like Jesus - Live",
+      "url": "https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2"
     },
     {
       "added_at": "2026-04-17 06:51:16",
@@ -727,22 +731,18 @@
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
-        "name": "More Like Jesus (Live)",
-        "url": "https://open.spotify.com/album/3VeJL4SEP3phMu7x7f0pNC"
+        "name": "The Darker The Night / The Brighter The Morning",
+        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
       },
       "artists": [
         {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 338694,
-      "name": "More Like Jesus - Live",
-      "url": "https://open.spotify.com/track/54o7m2sWPTagySKiaPPpT2"
+      "duration_ms": 254840,
+      "name": "The Cross Has The Final Word",
+      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
     },
     {
       "added_at": "2026-04-17 06:51:16",
@@ -887,18 +887,18 @@
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
-        "name": "Rediscovery",
-        "url": "https://open.spotify.com/album/5WKbd9lbctdAXcjwK2X4PV"
+        "name": "Isla Vista Worship Presents Ryan Ellis Live from the Upper Room II",
+        "url": "https://open.spotify.com/album/0XZqQTpAx04RKjP49pgaeQ"
       },
       "artists": [
         {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
         }
       ],
-      "duration_ms": 297231,
-      "name": "Loved By Love",
-      "url": "https://open.spotify.com/track/2fGaAHVN3P45yLBLAjd3mi"
+      "duration_ms": 509219,
+      "name": "Worthy (Live)",
+      "url": "https://open.spotify.com/track/5A1HchBRzogpjMP0GvSt0j"
     },
     {
       "added_at": "2026-04-17 06:51:16",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
-        "name": "Isla Vista Worship Presents Ryan Ellis Live from the Upper Room II",
-        "url": "https://open.spotify.com/album/0XZqQTpAx04RKjP49pgaeQ"
+        "name": "Rediscovery",
+        "url": "https://open.spotify.com/album/5WKbd9lbctdAXcjwK2X4PV"
       },
       "artists": [
         {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
         }
       ],
-      "duration_ms": 509219,
-      "name": "Worthy (Live)",
-      "url": "https://open.spotify.com/track/5A1HchBRzogpjMP0GvSt0j"
+      "duration_ms": 297231,
+      "name": "Loved By Love",
+      "url": "https://open.spotify.com/track/2fGaAHVN3P45yLBLAjd3mi"
     },
     {
       "added_at": "2026-04-17 06:51:16",
@@ -1323,6 +1323,30 @@
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG"
+      },
+      "artists": [
+        {
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        },
+        {
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 537866,
+      "name": "Your Glory / Nothing But The Blood - Live",
+      "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
+    },
+    {
+      "added_at": "2026-04-17 06:51:16",
+      "album": {
         "name": "United We Stand (Live)",
         "url": "https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f"
       },
@@ -1339,6 +1363,22 @@
       "duration_ms": 329320,
       "name": "None But Jesus - Live",
       "url": "https://open.spotify.com/track/5tgywPECreoxcE2m2DiPQm"
+    },
+    {
+      "added_at": "2026-04-17 06:51:16",
+      "album": {
+        "name": "Reckless Love",
+        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 265377,
+      "name": "Endless Alleluia",
+      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
     },
     {
       "added_at": "2026-04-17 06:51:16",
@@ -1363,42 +1403,46 @@
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
-        "name": "Reckless Love",
-        "url": "https://open.spotify.com/album/63fUIyRGFTFdVlDMTT5tLB"
+        "name": "I Don't Have Much",
+        "url": "https://open.spotify.com/album/13xozrVcJxO5odimOc6UAw"
       },
       "artists": [
         {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+          "name": "Mission House",
+          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
+        },
+        {
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+        },
+        {
+          "name": "Taylor Leonhardt",
+          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
         }
       ],
-      "duration_ms": 265377,
-      "name": "Endless Alleluia",
-      "url": "https://open.spotify.com/track/0mqDhUDKwpnDvIFoQYR524"
+      "duration_ms": 314800,
+      "name": "I Don't Have Much",
+      "url": "https://open.spotify.com/track/5GauSw0ZYcQN9VNl4Bm46a"
     },
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG"
+        "name": "Heaven's Well",
+        "url": "https://open.spotify.com/album/1Qv1FINvrSTQ7bdsWcjnqv"
       },
       "artists": [
         {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+          "name": "Grace City",
+          "url": "https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J"
         },
         {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        },
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+          "name": "Chase Wagner",
+          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
         }
       ],
-      "duration_ms": 537866,
-      "name": "Your Glory / Nothing But The Blood - Live",
-      "url": "https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT"
+      "duration_ms": 253756,
+      "name": "Heaven's Well - Live",
+      "url": "https://open.spotify.com/track/1pq7TEmOODeyNE6mtSQbpn"
     },
     {
       "added_at": "2026-04-17 06:51:16",
@@ -1439,30 +1483,6 @@
     {
       "added_at": "2026-04-17 06:51:16",
       "album": {
-        "name": "I Don't Have Much",
-        "url": "https://open.spotify.com/album/13xozrVcJxO5odimOc6UAw"
-      },
-      "artists": [
-        {
-          "name": "Mission House",
-          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
-        },
-        {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
-        }
-      ],
-      "duration_ms": 314800,
-      "name": "I Don't Have Much",
-      "url": "https://open.spotify.com/track/5GauSw0ZYcQN9VNl4Bm46a"
-    },
-    {
-      "added_at": "2026-04-17 06:51:16",
-      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 497560,
       "name": "All Hail King Jesus",
       "url": "https://open.spotify.com/track/0FRdprdBRrdo0jMxhK0hTy"
-    },
-    {
-      "added_at": "2026-04-17 06:51:16",
-      "album": {
-        "name": "Heaven's Well",
-        "url": "https://open.spotify.com/album/1Qv1FINvrSTQ7bdsWcjnqv"
-      },
-      "artists": [
-        {
-          "name": "Grace City",
-          "url": "https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J"
-        },
-        {
-          "name": "Chase Wagner",
-          "url": "https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi"
-        }
-      ],
-      "duration_ms": 253756,
-      "name": "Heaven's Well - Live",
-      "url": "https://open.spotify.com/track/1pq7TEmOODeyNE6mtSQbpn"
     },
     {
       "added_at": "2026-04-17 06:51:16",
@@ -1547,6 +1547,22 @@
       "duration_ms": 485396,
       "name": "Be Enthroned (Live)",
       "url": "https://open.spotify.com/track/3OzQn19XAveO8ZbKH1YPOA"
+    },
+    {
+      "added_at": "2026-04-17 06:51:16",
+      "album": {
+        "name": "Jesus Only You",
+        "url": "https://open.spotify.com/album/6GjX0hYpOrGN8P01qGl8Wy"
+      },
+      "artists": [
+        {
+          "name": "London Gatch",
+          "url": "https://open.spotify.com/artist/50l42yX9ACfwA0plxFO0Ah"
+        }
+      ],
+      "duration_ms": 283813,
+      "name": "Jesus Only You",
+      "url": "https://open.spotify.com/track/49ZCM955HL02dceJnsK3oK"
     },
     {
       "added_at": "2026-04-17 06:51:16",
@@ -1803,26 +1819,6 @@
       "duration_ms": 334340,
       "name": "Goodness",
       "url": "https://open.spotify.com/track/2l3jQnu4yQHwojxoEHlzcn"
-    },
-    {
-      "added_at": "2026-04-17 06:51:16",
-      "album": {
-        "name": "Beautiful Surrender",
-        "url": "https://open.spotify.com/album/5S4Pk1aR4I0cUqCoKXiwzY"
-      },
-      "artists": [
-        {
-          "name": "Jonathan David Helser",
-          "url": "https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp"
-        },
-        {
-          "name": "Melissa Helser",
-          "url": "https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r"
-        }
-      ],
-      "duration_ms": 330266,
-      "name": "Abba (Arms of a Father)",
-      "url": "https://open.spotify.com/track/35Siw3D3rzUoCMsEuij4rn"
     }
   ],
   "unique_name": "Miracles",

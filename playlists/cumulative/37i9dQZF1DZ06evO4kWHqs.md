@@ -4,10 +4,11 @@
 
 > This is SadBoi\. The essential tracks, all in one playlist.
 
-51 songs - 2 hr 4 min
+53 songs - 2 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [2016 \(feat\. Cleotrapa\)](https://open.spotify.com/track/5aAn07UCzajGygnKbVLYtZ) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 3:20 | 2026-07-06 |  |
 | [Ackee](https://open.spotify.com/track/2cEZKqPlouhdWVAQ3qFGFu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:18 | 2026-06-16 |  |
 | [All My Girls](https://open.spotify.com/track/4eMJvvkRQuxLIuuO9m2kY8) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [All My Girls](https://open.spotify.com/album/0zuCHsOytrFSapisjsSwlB) | 2:11 | 2026-06-16 |  |
 | [Baddies](https://open.spotify.com/track/4urrkJVnmWnlgupkHuLnGD) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:53 | 2026-06-16 |  |
@@ -54,7 +55,8 @@
 | [U Dun Kno](https://open.spotify.com/track/4xBkOH8QEUSsrObywcUWyf) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [U Dun Kno](https://open.spotify.com/album/5lD2QGhGCh7lGmfvaLWjxR) | 2:26 | 2026-06-16 |  |
 | [UP \[Feat\. Rich The Kid, A$AP Ferg & SadBoi\]](https://open.spotify.com/track/4hmWsHD1oTyMph2ftkFsoH) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Strictly 4 The Scythe](https://open.spotify.com/album/3Ge6S7DSl3XH69XR3Cg6T6) | 4:06 | 2026-06-16 |  |
 | [Vex](https://open.spotify.com/track/2Vzrlke7xUmfLmKLMqS7xl) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 1:24 | 2026-06-16 |  |
-| [watch it all fall](https://open.spotify.com/track/5DFsESy9dGxExEnolla1vt) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:50 | 2026-06-16 |  |
+| [watch it all fall](https://open.spotify.com/track/4dHI6744n697CKwis0vhT5) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [watch it all fall](https://open.spotify.com/album/2IQilFWhwiowCzcdNN0xiG) | 2:50 | 2026-07-06 |  |
+| [watch it all fall](https://open.spotify.com/track/5DFsESy9dGxExEnolla1vt) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [DRY CRY](https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6) | 2:50 | 2026-06-16 | 2026-07-06 |
 | [WEAPON](https://open.spotify.com/track/7B4olPzqxzLFbL4J7vu0cD) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [HOTCORE](https://open.spotify.com/album/74nnCDVDlxRljxy32H3YXB) | 2:31 | 2026-06-16 |  |
 | [whose fault](https://open.spotify.com/track/2jiqncSuSFEoo7pxrA2aT1) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [whose fault](https://open.spotify.com/album/6vyMro0Iy40nk9Y1ZdtEaz) | 2:06 | 2026-06-16 |  |
 | [Wifey Riddim \(feat\. Jorja Smith & SadBoi\) \- George Daniel Remix](https://open.spotify.com/track/6aG0JW87HgZcYF7XZDBb6w) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [George Daniel](https://open.spotify.com/artist/52pQ22DziZVOOeL1mCmccT), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Room 2 RMX](https://open.spotify.com/album/1GwsBdB1RtOwYtE5rbrEkg) | 2:48 | 2026-06-16 |  |

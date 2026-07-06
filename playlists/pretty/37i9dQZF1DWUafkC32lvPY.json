@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 33418,
+  "num_followers": 33427,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Ontem",
+        "url": "https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy"
+      },
+      "artists": [
+        {
+          "name": "Chancla",
+          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
+        }
+      ],
+      "duration_ms": 135017,
+      "name": "Ontem",
+      "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 149647,
       "name": "Morena",
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Ontem",
-        "url": "https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy"
-      },
-      "artists": [
-        {
-          "name": "Chancla",
-          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
-        }
-      ],
-      "duration_ms": 135017,
-      "name": "Ontem",
-      "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -251,6 +251,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/1dmilMbcUhBOkH8nATHSin"
+      },
+      "artists": [
+        {
+          "name": "Maple Syrup",
+          "url": "https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr"
+        }
+      ],
+      "duration_ms": 116447,
+      "name": "Tudo Bem",
+      "url": "https://open.spotify.com/track/0SGRPlbprTyOMPNgwlir3Q"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Parque de Bugambilias",
         "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 153857,
       "name": "Parque de Bugambilias",
       "url": "https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/1dmilMbcUhBOkH8nATHSin"
-      },
-      "artists": [
-        {
-          "name": "Maple Syrup",
-          "url": "https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr"
-        }
-      ],
-      "duration_ms": 116447,
-      "name": "Tudo Bem",
-      "url": "https://open.spotify.com/track/0SGRPlbprTyOMPNgwlir3Q"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -571,6 +571,26 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Ocaso Sin Fin",
+        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
+      },
+      "artists": [
+        {
+          "name": "Stc Beats VB",
+          "url": "https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 98832,
+      "name": "M\u00e9xico M\u00e1gico",
+      "url": "https://open.spotify.com/track/0HEBViSFSmzVzFd7kubqmp"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "La Diabla (lofi edit)",
         "url": "https://open.spotify.com/album/1p4uLJLViOIyLrAMgeScZp"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 98630,
       "name": "La Diabla - lofi edit",
       "url": "https://open.spotify.com/track/7okx5ZYlnqOk4MubhZj6jG"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Ocaso Sin Fin",
-        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
-      },
-      "artists": [
-        {
-          "name": "Stc Beats VB",
-          "url": "https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 98832,
-      "name": "M\u00e9xico M\u00e1gico",
-      "url": "https://open.spotify.com/track/0HEBViSFSmzVzFd7kubqmp"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1107,6 +1107,26 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "La Belleza de lo Cotidiano",
+        "url": "https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC"
+      },
+      "artists": [
+        {
+          "name": "B.L.U.N.T.S",
+          "url": "https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n"
+        },
+        {
+          "name": "Lofi Soul",
+          "url": "https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "La Belleza de lo Cotidiano",
+      "url": "https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Landscape Ride",
         "url": "https://open.spotify.com/album/7ycpXvVU0EUsxORzSGMHhA"
       },
@@ -1127,22 +1147,22 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "La Belleza de lo Cotidiano",
-        "url": "https://open.spotify.com/album/3ZHXAtp3f7nd4vqgv9d2CC"
+        "name": "Vueltas",
+        "url": "https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK"
       },
       "artists": [
         {
-          "name": "B.L.U.N.T.S",
-          "url": "https://open.spotify.com/artist/44nJNsLu2WAAuEiNLbOE9n"
+          "name": "Sam Cross",
+          "url": "https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd"
         },
         {
-          "name": "Lofi Soul",
-          "url": "https://open.spotify.com/artist/4nPMjbF7QajTpVMGffa0Jn"
+          "name": "Kebyn Moon",
+          "url": "https://open.spotify.com/artist/1RdlOYPsbV6HIoQaoKmYlV"
         }
       ],
-      "duration_ms": 128000,
-      "name": "La Belleza de lo Cotidiano",
-      "url": "https://open.spotify.com/track/13b0yCb3MXIg29tLhbHE7H"
+      "duration_ms": 115714,
+      "name": "Vueltas",
+      "url": "https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1183,22 +1203,18 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Vueltas",
-        "url": "https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK"
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
       },
       "artists": [
         {
-          "name": "Sam Cross",
-          "url": "https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd"
-        },
-        {
-          "name": "Kebyn Moon",
-          "url": "https://open.spotify.com/artist/1RdlOYPsbV6HIoQaoKmYlV"
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
         }
       ],
-      "duration_ms": 115714,
-      "name": "Vueltas",
-      "url": "https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s"
+      "duration_ms": 122273,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1215,22 +1231,6 @@
       "duration_ms": 129767,
       "name": "Ciudad de Papel",
       "url": "https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
-      },
-      "artists": [
-        {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
-        }
-      ],
-      "duration_ms": 122273,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
     },
     {
       "added_at": "2025-04-04 04:00:19",

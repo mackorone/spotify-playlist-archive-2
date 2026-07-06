@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,497 songs - 10 day 0 hr 53 min
+4,498 songs - 10 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3944,6 +3944,7 @@
 | [Thor's Tenderness](https://open.spotify.com/track/2GuQZ8HhzsMzIkafnxDEeA) | [EmRysRa](https://open.spotify.com/artist/0Nankvxle3GVZIrXrhbV1m) | [Thor's Tenderness](https://open.spotify.com/album/57k0euZ4ssLAjqCVD6Z3Vd) | 6:23 | 2025-05-27 |  |
 | [Threats](https://open.spotify.com/track/1cvyjW2mE3WVNBMFF2day4) | [Bellhead](https://open.spotify.com/artist/2kG1HBhqba49nSNiN92pVg) | [Threats](https://open.spotify.com/album/44Z7Gf8lHHBUq66SaDDYIT) | 4:11 | 2025-06-04 |  |
 | [three](https://open.spotify.com/track/6M64ShGaRW6XX5bbGkWHIS) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Relaxing songs](https://open.spotify.com/album/0vvgdvru0enjJknJVwKloZ) | 4:19 | 2025-08-20 |  |
+| [Through Blood or Glory](https://open.spotify.com/track/0MU3pj4seZYuPmB0W6i6HT) | [Dark Shadow](https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q) | [Through Blood or Glory](https://open.spotify.com/album/0oegqz6dQmOMputH42TyYc) | 5:15 | 2026-07-05 |  |
 | [Through moment](https://open.spotify.com/track/6bMXutEqOZ3ChyTCb4mi31) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [80's music inspired](https://open.spotify.com/album/52EpTauHULa82DwbMx0Pdh) | 4:26 | 2025-08-28 |  |
 | [Through The Echoes](https://open.spotify.com/track/78NogwkqVC4GBQMxOwOQrC) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Last Night In The Bittersweet](https://open.spotify.com/album/0dp4Cl0ZqJYJJXIeH6dH1x) | 3:41 | 2025-11-05 |  |
 | [Through the Neon Light](https://open.spotify.com/track/4xmbZKMq61Iffxfk55r7Zz) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Experimental Pop Music](https://open.spotify.com/album/4sO2jGSkWa3e2Ce0OXtMP8) | 3:15 | 2025-09-19 |  |

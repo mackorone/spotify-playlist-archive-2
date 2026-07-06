@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover:Los Alegres del Barranco, Los Alegres Del Barranco, Edgardo Nuñez, Los Farmerz 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,688 likes - 66 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,734 likes - 66 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Los Principios](https://open.spotify.com/track/5LgPgNARHG64IaXuwtvuNw) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Queridos Amigos](https://open.spotify.com/album/2UTqapZ5jcnjT5s2NR5UWX) | 2:53 |
 | 2 | [Aprevenido](https://open.spotify.com/track/0grLDu7Ix5QvYfBPJctCpm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Aprevenido](https://open.spotify.com/album/69d0wnvfwhrMOc1AbdTBeK) | 2:49 |
 | 3 | [Ponte La Verde](https://open.spotify.com/track/3lndb7gIgxC2SSVPYR0Vtv) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Ponte La Verde](https://open.spotify.com/album/3l5joYyJUMBU6YvA3zt1Hq) | 3:02 |
-| 4 | [EL CASO](https://open.spotify.com/track/4fe6Lx79fT6z6e6179T9Rj) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [EL CASO](https://open.spotify.com/album/17ch967MEGESBo4M9mSKDI) | 4:37 |
+| 4 | [EL CAZO](https://open.spotify.com/track/4fe6Lx79fT6z6e6179T9Rj) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [EL CAZO](https://open.spotify.com/album/17ch967MEGESBo4M9mSKDI) | 4:37 |
 | 5 | [holanda \- Remix](https://open.spotify.com/track/5ZZT0sywNVtrYhpbVER8lO) | [EL DE LA TINTA](https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [holanda \(Remix\)](https://open.spotify.com/album/1WJ07xKsqJgU9TDkKSBkMQ) | 3:07 |
 | 6 | [Tu Culpa](https://open.spotify.com/track/71fEdsATrEMneN7WtPHOKm) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Tu Culpa](https://open.spotify.com/album/5xjSsGHh00cq4aUQ4oEUg6) | 2:54 |
 | 7 | [YA ESTUVO BUENO](https://open.spotify.com/track/3xOmSqsAKAFtZdupQggiIs) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [YA ESTUVO BUENO](https://open.spotify.com/album/0IAIXj70kW633PeAR5Y4rg) | 2:53 |

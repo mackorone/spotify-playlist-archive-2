@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,171 songs - 3 day 3 hr 39 min
+1,173 songs - 3 day 3 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [By Ourselves](https://open.spotify.com/track/5UBJPtR2I4dAkZKOtY3ES6) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 2:12 | 2023-12-13 |  |
 | [Cactus People](https://open.spotify.com/track/50G4xuYM2BW4Z16N7ZHlPV) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [End of Everything](https://open.spotify.com/album/0WXRuxDKpoZgbBeEsD2Umx) | 3:30 | 2025-09-09 |  |
 | [Campaign For A Better Weekend](https://open.spotify.com/track/4uhzzCL0TORCcuKEVtUCO7) | [Bomb the Music Industry!](https://open.spotify.com/artist/7mmU5GuOoyxoBAgOZkSVj7) | [Vacation](https://open.spotify.com/album/2JSyzRorOlJzUS4FqWkaBt) | 4:54 | 2024-01-17 |  |
+| [Can't Face Another One](https://open.spotify.com/track/30NYedLY0oYNxAHne8NePL) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Dance Called Memory](https://open.spotify.com/album/2fNPTFiU2sCY9m6tv3Ucqa) | 3:52 | 2026-07-05 |  |
 | [Can't Get Enough \- 2015 Remaster](https://open.spotify.com/track/51pAliCZ3Mm7jiqgk12O5R) | [Bad Company](https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84) | [Bad Company \(Remastered\)](https://open.spotify.com/album/5VknaZWiywvQJMpPOfB6tA) | 4:16 | 2022-05-18 |  |
 | [Can't Stand It](https://open.spotify.com/track/1QBbFLiBCOElhEJVhsMNcl) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Summerteeth](https://open.spotify.com/album/1JpaFJzzcsiulO6MdIcQdK) | 3:46 | 2023-04-19 | 2023-07-19 |
 | [Candy May](https://open.spotify.com/track/6akLn4Ruh89aJOKv9YiP4j) | [Alex Cameron](https://open.spotify.com/artist/6kGMx9MqwnbKR2EYvZvvrG) | [Forced Witness](https://open.spotify.com/album/3fjXYgK9vNOQaWCP01SLGt) | 4:08 | 2023-08-16 |  |
@@ -601,6 +602,7 @@
 | [London Song](https://open.spotify.com/track/42a9PusvgFnyH0WgdCn6PV) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [I Love My Computer](https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ) | 3:15 | 2025-12-13 | 2025-12-24 |
 | [Lonely Town, Lonely Street](https://open.spotify.com/track/3oiVJNFAQQ77Yp3rXWGsVp) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 3:45 | 2024-01-08 |  |
 | [Lonesome Is A State of Mind](https://open.spotify.com/track/5DcV7k8MIdYJAAIR0O3Iks) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [The Crux](https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ) | 4:19 | 2025-12-13 | 2026-01-15 |
+| [Long Distance Dedication](https://open.spotify.com/track/2rTa3edLxXdvgkOAmFBvS5) | [Radiator Hospital](https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn) | [Play the Songs You Like](https://open.spotify.com/album/4Of3UeV2fIEJgXhD2FICwq) | 1:21 | 2026-07-05 |  |
 | [LONG SEASON](https://open.spotify.com/track/08b1bCjsKjMzhjBm0qhkof) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [LONG SEASON](https://open.spotify.com/album/4EX1fAypgQC9wDjGI5QzbZ) | 35:16 | 2024-06-17 | 2025-02-28 |
 | [Long Story Short](https://open.spotify.com/track/0JMyXs0Zj8hrr0OwvqSnxM) | [Black Milk](https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3) | [Tronic](https://open.spotify.com/album/5MbqqLcX0c1rtKtzKWKxCx) | 5:04 | 2026-01-20 |  |
 | [Long Was The Year](https://open.spotify.com/track/4aUHXyMSMVfuLyz8FAEiNm) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI) | 3:38 | 2024-03-26 | 2024-05-20 |

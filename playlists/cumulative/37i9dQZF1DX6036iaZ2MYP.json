@@ -5317,6 +5317,28 @@
     },
     {
       "album": {
+        "name": "Ciryl Gane",
+        "url": "https://open.spotify.com/album/5Bpkat2IWMInJ43yViTMDD"
+      },
+      "artists": [
+        {
+          "name": "H Magnum",
+          "url": "https://open.spotify.com/artist/63hFhXYW3r2q8uW2Rf3LUw"
+        },
+        {
+          "name": "Fally Ipupa",
+          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150337,
+      "name": "Ciryl Gane",
+      "url": "https://open.spotify.com/track/6pLsGc4Qd9jajvlsVfGfPl"
+    },
+    {
+      "album": {
         "name": "Close To Me (feat. Bnxn)",
         "url": "https://open.spotify.com/album/51qTEJpyq7ACSsH01ghLrq"
       },
@@ -6020,28 +6042,6 @@
       "duration_ms": 180624,
       "name": "Curvy Waistline",
       "url": "https://open.spotify.com/track/1wAMqAnW9HooAIJbbLddGw"
-    },
-    {
-      "album": {
-        "name": "Cyril Gane",
-        "url": "https://open.spotify.com/album/5Bpkat2IWMInJ43yViTMDD"
-      },
-      "artists": [
-        {
-          "name": "H Magnum",
-          "url": "https://open.spotify.com/artist/63hFhXYW3r2q8uW2Rf3LUw"
-        },
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        }
-      ],
-      "date_added": "2026-07-02",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150337,
-      "name": "Cyril Gane",
-      "url": "https://open.spotify.com/track/6pLsGc4Qd9jajvlsVfGfPl"
     },
     {
       "album": {

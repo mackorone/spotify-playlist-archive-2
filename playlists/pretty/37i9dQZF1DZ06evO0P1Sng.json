@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAADhaXYoZtXCUWNCMmoSaeiB",
+  "snapshot_id": "akhNAAAAAACDkZ4Rv6RQyrKWm7gkXp+K",
   "tracks": [
     {
       "added_at": null,
@@ -799,30 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desce & Sobe",
-        "url": "https://open.spotify.com/album/4QSIqL32YPcxJPodgQdBSa"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "TOKIODK",
-          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
-        },
-        {
-          "name": "Vt no beat",
-          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "Desce & Sobe",
-      "url": "https://open.spotify.com/track/5ZUUFh13X6t1mJZfycWf8l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corpo Quente",
         "url": "https://open.spotify.com/album/5kRUXL80sJ8ToO1YqbruoN"
       },
@@ -847,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ZyZy",
-        "url": "https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En"
+        "name": "Desce & Sobe",
+        "url": "https://open.spotify.com/album/4QSIqL32YPcxJPodgQdBSa"
       },
       "artists": [
         {
@@ -856,13 +832,17 @@
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "A.LBeats",
-          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+          "name": "TOKIODK",
+          "url": "https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2"
+        },
+        {
+          "name": "Vt no beat",
+          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
         }
       ],
-      "duration_ms": 149833,
-      "name": "ZyZy",
-      "url": "https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt"
+      "duration_ms": 164571,
+      "name": "Desce & Sobe",
+      "url": "https://open.spotify.com/track/5ZUUFh13X6t1mJZfycWf8l"
     },
     {
       "added_at": null,
@@ -899,26 +879,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Prepara",
-        "url": "https://open.spotify.com/album/54gWxTm90TbQ5oRa4aNp3E"
+        "name": "ZyZy",
+        "url": "https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En"
       },
       "artists": [
         {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "Lucas e Orelha",
-          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
-        },
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+        }
+      ],
+      "duration_ms": 149833,
+      "name": "ZyZy",
+      "url": "https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jogo de Sedu\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
+      },
+      "artists": [
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         }
       ],
-      "duration_ms": 182415,
-      "name": "Se Prepara",
-      "url": "https://open.spotify.com/track/5d1Eidz7m4vdgHsfZRKcec"
+      "duration_ms": 225882,
+      "name": "Jogo de Sedu\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
     },
     {
       "added_at": null,
@@ -947,18 +939,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jogo de Sedu\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7gp28RmHb7fQwEERchv7BX"
+        "name": "Se Prepara",
+        "url": "https://open.spotify.com/album/54gWxTm90TbQ5oRa4aNp3E"
       },
       "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        },
+        {
+          "name": "Lucas e Orelha",
+          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+        },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         }
       ],
-      "duration_ms": 225882,
-      "name": "Jogo de Sedu\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5OymLbSXFuU9gn9bauZ0nx"
+      "duration_ms": 182415,
+      "name": "Se Prepara",
+      "url": "https://open.spotify.com/track/5d1Eidz7m4vdgHsfZRKcec"
     },
     {
       "added_at": null,
@@ -1107,42 +1107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Efeito Borboleta",
-        "url": "https://open.spotify.com/album/7tq63FD0LgYijNNquT8qi4"
-      },
-      "artists": [
-        {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "C.Z",
-          "url": "https://open.spotify.com/artist/2h5aZ1sD7MzqComOWdLTPU"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        }
-      ],
-      "duration_ms": 180923,
-      "name": "Sensa\u00e7\u00e3o de Poder",
-      "url": "https://open.spotify.com/track/0niVaC6szmiViGBePozys1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1910",
         "url": "https://open.spotify.com/album/2OpL0wEz7H75Yb62PLNF9g"
       },
@@ -1175,6 +1139,42 @@
       "duration_ms": 517894,
       "name": "1910",
       "url": "https://open.spotify.com/track/7HKydihmOppbDnnLlSJAbF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Efeito Borboleta",
+        "url": "https://open.spotify.com/album/7tq63FD0LgYijNNquT8qi4"
+      },
+      "artists": [
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "C.Z",
+          "url": "https://open.spotify.com/artist/2h5aZ1sD7MzqComOWdLTPU"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        }
+      ],
+      "duration_ms": 180923,
+      "name": "Sensa\u00e7\u00e3o de Poder",
+      "url": "https://open.spotify.com/track/0niVaC6szmiViGBePozys1"
     },
     {
       "added_at": null,
@@ -1379,30 +1379,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1 Influ\u00eancia",
-        "url": "https://open.spotify.com/album/1enqkS1DrDducYiQkuYJWw"
+        "name": "Morango",
+        "url": "https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG"
       },
       "artists": [
         {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
         }
       ],
-      "duration_ms": 177253,
-      "name": "As Ruas Sabem Meu Nome",
-      "url": "https://open.spotify.com/track/7KlGZR52HMdpzPihpaMTMl"
+      "duration_ms": 132857,
+      "name": "Morango",
+      "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
     },
     {
       "added_at": null,
@@ -1427,18 +1415,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Morango",
-        "url": "https://open.spotify.com/album/5xAl0DYFuomlQ1daDr4LeG"
+        "name": "M\u00e1 Influ\u00eancia",
+        "url": "https://open.spotify.com/album/1enqkS1DrDducYiQkuYJWw"
       },
       "artists": [
         {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
         }
       ],
-      "duration_ms": 132857,
-      "name": "Morango",
-      "url": "https://open.spotify.com/track/1D2X9Yyj0LF5tAOrUMNy3P"
+      "duration_ms": 177253,
+      "name": "As Ruas Sabem Meu Nome",
+      "url": "https://open.spotify.com/track/7KlGZR52HMdpzPihpaMTMl"
     },
     {
       "added_at": null,

@@ -219,6 +219,24 @@
     },
     {
       "album": {
+        "name": "The City - EP",
+        "url": "https://open.spotify.com/album/5YSD37sctlEkDmGe2PSpRZ"
+      },
+      "artists": [
+        {
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269653,
+      "name": "Annecy",
+      "url": "https://open.spotify.com/track/7CBXiV6q0kPOms002HJyoM"
+    },
+    {
+      "album": {
         "name": "Anticipate",
         "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
       },
@@ -1564,7 +1582,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 198971,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/2oSMcZnGARuxk10qd6AXrT"

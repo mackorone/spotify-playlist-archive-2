@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,350 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,298 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 43 | [Your Touch](https://open.spotify.com/track/0V5y62WNCbiceiQSGkW4M2) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS), [Treasure Bloom](https://open.spotify.com/artist/6iGEAcDw1wO4jk35r89Rft) | [Your Touch](https://open.spotify.com/album/0Rumz8oZFRw2oirlaBBf47) | 3:26 |
 | 44 | [Take Ur Time](https://open.spotify.com/track/6kYfkZMRWI6t0dvfHilSv3) | [Baril](https://open.spotify.com/artist/1Jp1PucyRXfgIrzxyq81Ot) | [One More Rush](https://open.spotify.com/album/3nRL4wC7InlFxQlMq0bnvV) | 4:00 |
 | 45 | [Someone Asked Me How I've Been](https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [Someone Asked Me How I've Been](https://open.spotify.com/album/67bVWuumjGpqsUt4ZcVsAq) | 4:10 |
-| 46 | [Amnesia](https://open.spotify.com/track/5dPUsGMQNCOreRx8jYrOpn) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Craterellus Tubaeformis](https://open.spotify.com/album/3r1iYMy6HNa2cxtArmxydJ) | 3:40 |
-| 47 | [Flow](https://open.spotify.com/track/0NTlrh71EoG5wGBZkP6uBW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Flow](https://open.spotify.com/album/2pAsVVVtQe4MyuazsoclcH) | 3:08 |
+| 46 | [Flow](https://open.spotify.com/track/0NTlrh71EoG5wGBZkP6uBW) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Flow](https://open.spotify.com/album/2pAsVVVtQe4MyuazsoclcH) | 3:08 |
+| 47 | [Amnesia](https://open.spotify.com/track/5dPUsGMQNCOreRx8jYrOpn) | [Skinshape](https://open.spotify.com/artist/1itM5tXaK5THggpXA7ovAe) | [Craterellus Tubaeformis](https://open.spotify.com/album/3r1iYMy6HNa2cxtArmxydJ) | 3:40 |
 | 48 | [You Can't Always Get What You Want](https://open.spotify.com/track/0loAUwPeBd9LvYtnaKpoGG) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 3:30 |
 | 49 | [Broom](https://open.spotify.com/track/5BbalszBPahg1um1QVxSRi) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Float Back To You](https://open.spotify.com/album/3QAqLB0l9c1OD2GG2fsW5F) | 2:15 |
 | 50 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 67 | [Flower Girl](https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu) | [Lionel Boy](https://open.spotify.com/artist/3UaINrj5Lmv7F7meQPuIGh) | [Lionel Boy](https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759) | 3:44 |
 | 68 | [All the Good Times Never Die](https://open.spotify.com/track/39MAU8JIcR7ojQA4hnoPDS) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Leisurevision](https://open.spotify.com/album/7GjS4SK8fvJFWfvlRw2jtU) | 3:08 |
 | 69 | [This Is My Story](https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Big Crown Vaults Vol\. 3 \- Holy Hive](https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46) | 2:12 |
-| 70 | [Nights Like These](https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [GUTWORK](https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F) | 3:23 |
-| 71 | [Falling For You](https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Six Songs](https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF) | 4:06 |
+| 70 | [Falling For You](https://open.spotify.com/track/2q6InS8x7JMSj9A4aWR0VJ) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Six Songs](https://open.spotify.com/album/7KpjUEdi4nOl1MUhTHDzYF) | 4:06 |
+| 71 | [Nights Like These](https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [GUTWORK](https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F) | 3:23 |
 | 72 | [Hang Up The Lights](https://open.spotify.com/track/6sHsMK1llm2ZbBBCzGG54k) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:40 |
 | 73 | [Hymn for a Dragonfly](https://open.spotify.com/track/2jkzij7wooU3mU0EO1XFkY) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [I Know A Garden](https://open.spotify.com/album/5m48ZpXDMCaEYBIUlkEkmb) | 3:38 |
 | 74 | [Bikini](https://open.spotify.com/track/7KZa2q92Dwbjrx2zo4obgw) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Bikini](https://open.spotify.com/album/6ymXwQ5xDoCYkbglI4UYFI) | 3:05 |
@@ -95,13 +95,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 85 | [WOOF](https://open.spotify.com/track/1x28zxdv6XBU3a6oiCBp17) | [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [PHANTOM OF THE AFTERS](https://open.spotify.com/album/5qTMbYlI0vyyAHtOhajcOy) | 3:02 |
 | 86 | [My Shadow Life](https://open.spotify.com/track/6HiK9qjs0yuppNUR1LB9Bh) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL), [Oddbody](https://open.spotify.com/artist/3ASxxkRVFetiJFHvxaNdZX) | [LOVE + POP](https://open.spotify.com/album/5God4dounbNrQtR8otCSHD) | 1:37 |
 | 87 | [Lucid Dreams](https://open.spotify.com/track/4BGcVxS20x7sLA2uKp5wJU) | [Maina Doe](https://open.spotify.com/artist/37A6Zdl0Yy8zXXpY20p6TE) | [Lucid Dreams](https://open.spotify.com/album/7G7v6Di7EhJ1fuldgIoUkN) | 3:02 |
-| 88 | [Dot](https://open.spotify.com/track/4zgwH2Bcs2dweaZ71hNotH) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [yoyo](https://open.spotify.com/album/4wdbBDjGWuLAN8WQlSDN0H) | 5:22 |
-| 89 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 |
-| 90 | [Evening News](https://open.spotify.com/track/1RyeT9Jw7lTA86mfwpBK8n) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [HOMESICK](https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C) | 5:27 |
-| 91 | [I'll Never Leave](https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:17 |
+| 88 | [We're Here, My Dear](https://open.spotify.com/track/28v1fbsigBUdGn0Lhcef1N) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [We're Here, My Dear](https://open.spotify.com/album/4naOlfjveUWgj2Rwha6VDx) | 3:41 |
+| 89 | [Dot](https://open.spotify.com/track/4zgwH2Bcs2dweaZ71hNotH) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [yoyo](https://open.spotify.com/album/4wdbBDjGWuLAN8WQlSDN0H) | 5:22 |
+| 90 | [I'll Never Leave](https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:17 |
+| 91 | [Evening News](https://open.spotify.com/track/1RyeT9Jw7lTA86mfwpBK8n) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [HOMESICK](https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C) | 5:27 |
 | 92 | [Dream Of You](https://open.spotify.com/track/0VnhfWkFlzs7ozbMC2ms5n) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Holy Waters](https://open.spotify.com/album/0lKhpZwGFHDSKctDYk1dhy) | 3:03 |
-| 93 | [Hum](https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Cola](https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36) | 1:38 |
-| 94 | [What’s In The Tea?](https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45) | [Calimossa](https://open.spotify.com/artist/5JNB3hSkXlJODWH9EOYb5Q) | [What’s In The Tea?](https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO) | 2:53 |
+| 93 | [What’s In The Tea?](https://open.spotify.com/track/6T8uyq0ah50RBGnu1c3e45) | [Calimossa](https://open.spotify.com/artist/5JNB3hSkXlJODWH9EOYb5Q) | [What’s In The Tea?](https://open.spotify.com/album/2ML4FOvwSSfe9W6Tacf4OO) | 2:53 |
+| 94 | [Hum](https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Cola](https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36) | 1:38 |
 | 95 | [Digital Girl](https://open.spotify.com/track/5b59DSZvtmw9GrSvYmSzMS) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Haunted Disc](https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C) | 3:23 |
 | 96 | [Days Like This](https://open.spotify.com/track/5dXSZacyn5kvZHrXZ3rFsL) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Some Place Else](https://open.spotify.com/album/5lGV6B08akg9VD5VhqHb5v) | 4:55 |
 | 97 | [Favourite](https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Favourite](https://open.spotify.com/album/1kbef2cypHylGieQcwSInH) | 2:30 |

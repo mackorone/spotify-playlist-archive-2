@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Viniloversus",
-  "num_followers": 292107,
+  "num_followers": 292073,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2026-04-27 16:06:56",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6ueXz9Wyd8wud5fBFOe6NT"
-      },
-      "artists": [
-        {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
-        }
-      ],
-      "duration_ms": 259592,
-      "name": "Ella Us\u00f3 Mi cabeza Como Un Rev\u00f3lver - Spotify Singles",
-      "url": "https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw"
-    },
-    {
-      "added_at": "2026-04-27 16:06:56",
-      "album": {
         "name": "Joderse La Vida",
         "url": "https://open.spotify.com/album/5WlNxIXUWamBr4wTbgeHC7"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 165838,
       "name": "Joderse La Vida",
       "url": "https://open.spotify.com/track/5BiKPJiYsyBN5nc9nyGZpm"
+    },
+    {
+      "added_at": "2026-04-27 16:06:56",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6ueXz9Wyd8wud5fBFOe6NT"
+      },
+      "artists": [
+        {
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+        }
+      ],
+      "duration_ms": 259592,
+      "name": "Ella Us\u00f3 Mi cabeza Como Un Rev\u00f3lver - Spotify Singles",
+      "url": "https://open.spotify.com/track/046TaHr9EePc6M8NQX9vfw"
     },
     {
       "added_at": "2026-04-27 16:06:56",
@@ -595,22 +595,18 @@
     {
       "added_at": "2026-04-27 16:06:56",
       "album": {
-        "name": "primera clase",
-        "url": "https://open.spotify.com/album/6SiEcSRLpI7eWaYCzRnZx1"
+        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
+        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
       },
       "artists": [
         {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        },
-        {
-          "name": "LA MILAGROSA",
-          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
+          "name": "BRUSES",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
         }
       ],
-      "duration_ms": 181200,
-      "name": "primera clase",
-      "url": "https://open.spotify.com/track/4cg2lesjwza3wlwxF7r8eI"
+      "duration_ms": 154070,
+      "name": "Eutanasia",
+      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
     },
     {
       "added_at": "2026-04-27 16:06:56",
@@ -631,18 +627,22 @@
     {
       "added_at": "2026-04-27 16:06:56",
       "album": {
-        "name": "Cuando Ella me Bes\u00f3 Prob\u00e9 a Dios",
-        "url": "https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V"
+        "name": "primera clase",
+        "url": "https://open.spotify.com/album/6SiEcSRLpI7eWaYCzRnZx1"
       },
       "artists": [
         {
-          "name": "BRUSES",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        },
+        {
+          "name": "LA MILAGROSA",
+          "url": "https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP"
         }
       ],
-      "duration_ms": 154070,
-      "name": "Eutanasia",
-      "url": "https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj"
+      "duration_ms": 181200,
+      "name": "primera clase",
+      "url": "https://open.spotify.com/track/4cg2lesjwza3wlwxF7r8eI"
     },
     {
       "added_at": "2026-04-27 16:06:56",

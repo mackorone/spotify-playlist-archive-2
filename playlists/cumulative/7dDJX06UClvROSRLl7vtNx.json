@@ -741,6 +741,32 @@
     },
     {
       "album": {
+        "name": "All My Heart",
+        "url": "https://open.spotify.com/album/6W0qZuN13Ssv0DnOThPOJD"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "The Palm Tree Boy",
+          "url": "https://open.spotify.com/artist/5lB74qNNVibQ8j05ckOWbP"
+        },
+        {
+          "name": "Alp Atesoglu",
+          "url": "https://open.spotify.com/artist/1d9akcFLkx0GwxLmfMQgzV"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141355,
+      "name": "All My Heart",
+      "url": "https://open.spotify.com/track/5mZgGhNHUbvZaS7Z26asSa"
+    },
+    {
+      "album": {
         "name": "All My Love",
         "url": "https://open.spotify.com/album/0s8c5llqb7VrRotixGu0ik"
       },
@@ -1202,7 +1228,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 127363,
       "name": "Am I Wrong For This",
       "url": "https://open.spotify.com/track/7wQllV8Y8QlCo8fj9N3lFM"
@@ -2221,6 +2247,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Silence",
+        "url": "https://open.spotify.com/album/36GhjiXDxwekJaH3XLf5kb"
+      },
+      "artists": [
+        {
+          "name": "lone tide",
+          "url": "https://open.spotify.com/artist/5pGUPcY0TlZkIySLIbsgWQ"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135245,
+      "name": "Beautiful Silence",
+      "url": "https://open.spotify.com/track/6NBFA2mQj6EEM0aqIpLNIc"
+    },
+    {
+      "album": {
         "name": "Beautiful Soul",
         "url": "https://open.spotify.com/album/3ir2mtjdNfbkBpZkl0jHGT"
       },
@@ -2332,6 +2376,32 @@
       "duration_ms": 174905,
       "name": "Better",
       "url": "https://open.spotify.com/track/2rx0XEfF6UXhGI4CZ2a2PO"
+    },
+    {
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/2VkOXtAuMZewaGRVTGltQc"
+      },
+      "artists": [
+        {
+          "name": "Nate VanDeusen",
+          "url": "https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU"
+        },
+        {
+          "name": "Bayshore Court",
+          "url": "https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg"
+        },
+        {
+          "name": "oceans apart",
+          "url": "https://open.spotify.com/artist/4SJ00ViCeRfYfFVljPgzy8"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164160,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/1HDwqBiDivfgjN2r7mzHDo"
     },
     {
       "album": {
@@ -2826,6 +2896,32 @@
       "duration_ms": 132162,
       "name": "Blue & Orange",
       "url": "https://open.spotify.com/track/3IvJL6XExEr7e4c9goxviC"
+    },
+    {
+      "album": {
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/7hU1XwrkvwcD4wh9R7HbHX"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8ST SIGNAL",
+          "url": "https://open.spotify.com/artist/4lhyolukuFODU8oTkbJ1oS"
+        },
+        {
+          "name": "Muffin",
+          "url": "https://open.spotify.com/artist/00xeTtgDJdeHV0eGIBNdm2"
+        },
+        {
+          "name": "Riviera",
+          "url": "https://open.spotify.com/artist/6E6paDVzdNaPEscsl2meDp"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133269,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/5XzMCiiAKfZAB6kNeoFOnK"
     },
     {
       "album": {
@@ -6650,7 +6746,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 140005,
       "name": "Dumb Things",
       "url": "https://open.spotify.com/track/4gWdqjWaILyu3ZFhKqGYRo"
@@ -8730,7 +8826,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 130875,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/7clEjhyJm1FD8s0LJ8nC1N"
@@ -13384,6 +13480,24 @@
       "duration_ms": 131869,
       "name": "Is This Love",
       "url": "https://open.spotify.com/track/67JnHOZ56PObAwCQ5PgbqL"
+    },
+    {
+      "album": {
+        "name": "IS THIS LOVE?",
+        "url": "https://open.spotify.com/album/1vmgouiQnd0w13kRfKEpvG"
+      },
+      "artists": [
+        {
+          "name": "Palm Monkey",
+          "url": "https://open.spotify.com/artist/2M3sfEXSEDYBurdjeExx6G"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167804,
+      "name": "IS THIS LOVE?",
+      "url": "https://open.spotify.com/track/3VzU25myKDw953xq7IfyQP"
     },
     {
       "album": {
@@ -18904,7 +19018,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 147916,
       "name": "Never Gonna Give You Up",
       "url": "https://open.spotify.com/track/0Gdxx7POlFKSJ9doWvxsxJ"
@@ -22584,7 +22698,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 147000,
       "name": "Santoria",
       "url": "https://open.spotify.com/track/2iHFOz1mtTd3bFF8EiIXkf"
@@ -26578,7 +26692,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 170097,
       "name": "That's So True",
       "url": "https://open.spotify.com/track/3kxcjujR0wQfRSTqxciDYj"
@@ -27390,6 +27504,32 @@
       "duration_ms": 159047,
       "name": "Tidal Wave",
       "url": "https://open.spotify.com/track/0TMaLzDaHXi8VAq4oJfWXE"
+    },
+    {
+      "album": {
+        "name": "Tide",
+        "url": "https://open.spotify.com/album/48uako59uSwyz49wHF0b6m"
+      },
+      "artists": [
+        {
+          "name": "Diviners",
+          "url": "https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA"
+        },
+        {
+          "name": "VLX",
+          "url": "https://open.spotify.com/artist/5oBC97ajnMULQn5N81Y0kA"
+        },
+        {
+          "name": "Tropical Tide",
+          "url": "https://open.spotify.com/artist/1WJJYyo9NHKxvjLtUoBBmW"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133548,
+      "name": "Tide",
+      "url": "https://open.spotify.com/track/1ylZ3oKGwvhqQElyZBc8M0"
     },
     {
       "album": {
@@ -28360,7 +28500,7 @@
       ],
       "date_added": "2024-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 153232,
       "name": "Waiting For Tonight",
       "url": "https://open.spotify.com/track/6eKxQoGNNxvHy8R2W0Pmlg"
@@ -28426,7 +28566,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 162782,
       "name": "Walk On My Own",
       "url": "https://open.spotify.com/track/0KB1SJFHQSeBxaExmglsDd"
@@ -28962,7 +29102,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 182752,
       "name": "We Used To Be Better",
       "url": "https://open.spotify.com/track/6T85nEBgNDQwkAVgw88vu2"

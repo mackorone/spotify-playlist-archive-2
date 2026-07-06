@@ -4,12 +4,12 @@
 
 > Beste Nederlandstalige songs uit de 00's\. Cover: Guus Meeuwis
 
-57 songs - 3 hr 36 min
+58 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Afscheid Nemen Bestaat Niet](https://open.spotify.com/track/665yCPVrGYYGvlnZLvbKh2) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [Marco Borsato 2003 \- 2006](https://open.spotify.com/album/2FqOeVenR9pICaH0mtj5Xg) | 4:00 | 2020-02-10 | 2025-08-26 |
-| [Alles Is Liefde](https://open.spotify.com/track/4zdf0FuRioClijrZyAou9i) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:29 | 2020-02-10 |  |
+| [Alles Is Liefde](https://open.spotify.com/track/4zdf0FuRioClijrZyAou9i) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:29 | 2020-02-10 | 2026-07-06 |
 | [Als De Morgen Is Gekomen](https://open.spotify.com/track/7HPkvsnyQqQ6PmpLk7D7IR) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Op Weg Naar Geluk](https://open.spotify.com/album/08e5Pb6jMctjgqDckEgDOf) | 2:56 | 2020-02-10 |  |
 | [Als Je Lacht](https://open.spotify.com/track/0jIcyUmf5aANj4ZAaHTizi) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Stilte In De Storm](https://open.spotify.com/album/17jwtlwO5J9ALE9FaJwKfF) | 3:54 | 2020-02-10 |  |
 | [Binnen](https://open.spotify.com/track/6BXM76LZQ1KJ3j7ONB2jBY) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD) | [Luid En Duidelijk](https://open.spotify.com/album/2CkRlPC91z87ZCXrQS83P1) | 4:34 | 2020-02-10 |  |
@@ -34,16 +34,17 @@
 | [Hemingway](https://open.spotify.com/track/0UYgUTN6DpaHqeSaru3Gqw) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hemingway](https://open.spotify.com/album/2rHA5rk72Hl7BGlaq2T3Rd) | 3:42 | 2020-02-10 | 2026-02-05 |
 | [Het Land Van \- Live](https://open.spotify.com/track/2l8NsdEw2CS0vvd773OXLT) | [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [Baas B](https://open.spotify.com/artist/2UYP8NXUoN2bFx7sylWQ14) | [Het Land Van](https://open.spotify.com/album/6T95R8cncgESOF3Kxb45iF) | 4:22 | 2020-02-10 |  |
 | [Hier](https://open.spotify.com/track/3haBN4UKYahsxHfsRotKvU) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:06 | 2020-02-10 | 2026-07-01 |
-| [Hier Kom Ik Weg](https://open.spotify.com/track/3tuMKNEdIbv43UEM5eYa7f) | [Daniël Lohues](https://open.spotify.com/artist/5hmWcPzWxojagG5Q8IMrI6) | [Allennig II](https://open.spotify.com/album/2bhzeZwCHPwmJZm13SgiYS) | 3:28 | 2020-02-10 | 2026-07-05 |
+| [Hier Kom Ik Weg](https://open.spotify.com/track/3tuMKNEdIbv43UEM5eYa7f) | [Daniël Lohues](https://open.spotify.com/artist/5hmWcPzWxojagG5Q8IMrI6) | [Allennig II](https://open.spotify.com/album/2bhzeZwCHPwmJZm13SgiYS) | 3:28 | 2020-02-10 |  |
 | [Hoe](https://open.spotify.com/track/3w3IGsMYKM4pXZIYIBW3Gk) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2), [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [The Singles Collection](https://open.spotify.com/album/60z3FozwRlFsEyPkXTaZCw) | 2:51 | 2020-02-10 |  |
 | [Ik Wou Dat Ik Jou Was](https://open.spotify.com/track/6lthfwI9TuT2xWnWpv8JUF) | [Veldhuis & Kemper](https://open.spotify.com/artist/7GGgxLSNIydPOKgmijBy5U) | [Alle 40 Goed \- Hollandse Hits](https://open.spotify.com/album/5o5LwqlmNTP1XM5t6fEgub) | 3:56 | 2020-02-10 |  |
 | [Jij Bent Zo](https://open.spotify.com/track/3xAT6opqXN3qHup9VtzOS5) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Het Beste Van..](https://open.spotify.com/album/1tlZBVZOrEwfu67wF7W41c) | 3:31 | 2020-02-10 |  |
 | [Kijk Omhoog](https://open.spotify.com/track/3Ka2Ti5ZreEHlp9R7BXyOj) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Herinneringen Het Beste van Nick & Simon Top 100](https://open.spotify.com/album/3OCPo87VO0wfOXVclPdujA) | 2:56 | 2020-02-10 |  |
 | [Laura](https://open.spotify.com/track/4wdXbGw7kzzIVx77dVToGq) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [JanSmit.com](https://open.spotify.com/album/71v1iplssftNV8DOYZwJuw) | 3:08 | 2020-02-10 |  |
-| [Lippen Op De Mijne](https://open.spotify.com/track/37bPbfNTNziZ7OyV0BShpO) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Herinneringen Het Beste van Nick & Simon Top 100](https://open.spotify.com/album/3OCPo87VO0wfOXVclPdujA) | 3:21 | 2020-02-10 |  |
+| [Lippen Op De Mijne](https://open.spotify.com/track/37bPbfNTNziZ7OyV0BShpO) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Herinneringen Het Beste van Nick & Simon Top 100](https://open.spotify.com/album/3OCPo87VO0wfOXVclPdujA) | 3:21 | 2020-02-10 | 2026-07-06 |
 | [Lopen Op Het Water](https://open.spotify.com/track/3w0op8UIfndZVmTiQzo4z1) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Onderweg](https://open.spotify.com/album/6aNqB0DO4ni5VNDEjDwH8g) | 4:28 | 2020-02-10 |  |
 | [Mijn Houten Hart](https://open.spotify.com/track/3KxBgn1DhmxhntSOJyduF0) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md) | [Best Of De Poema's](https://open.spotify.com/album/7K7UuRdTTDFwLkiNrWN9dg) | 4:19 | 2022-12-22 |  |
 | [Mijn Van Straat Geredde Roos](https://open.spotify.com/track/4dT8ndNPoqfhJmEqNO48BE) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Alle 40 Goed](https://open.spotify.com/album/1mUYDIiCsQwg6B7HgxRoIR) | 3:27 | 2020-02-10 |  |
+| [Mooie Dag](https://open.spotify.com/track/021Hw04jaFjNI9r9U5IEiD) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:34 | 2020-02-10 |  |
 | [My Way](https://open.spotify.com/track/2PSAQqjeeDG3QKWv8Jaiz5) | [Herman Brood](https://open.spotify.com/artist/2wFgBXIgWwnxTU1UsgtGSq) | [My Way \- The Hits](https://open.spotify.com/album/17byQ9D5BJbBWK6VT6BgGD) | 4:43 | 2020-02-10 |  |
 | [November](https://open.spotify.com/track/7wRDVmQSzKN7wq1zYG3EJk) | [Rowwen Hèze](https://open.spotify.com/artist/5icZHFQjI6SRsvXNOKUXZ1) | [Saus](https://open.spotify.com/album/2tw8rXiHgAyKZNm4j3XmxA) | 5:09 | 2020-02-10 | 2026-02-05 |
 | [Omarm](https://open.spotify.com/track/0sC7iL2mW9W2q5czQcm2XH) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 4:16 | 2020-02-10 |  |

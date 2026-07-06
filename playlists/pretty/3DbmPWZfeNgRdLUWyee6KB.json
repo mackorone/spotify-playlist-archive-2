@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAV3S5kX6d9eXgqTTiC4EEOagTCWhbV",
+  "snapshot_id": "AAAV4lIRxyl71z37OCynl1MxiPPdcCVf",
   "tracks": [
     {
       "added_at": "2026-07-02 22:11:30",
@@ -2199,6 +2199,86 @@
       "duration_ms": 176017,
       "name": "SELF CONTROL",
       "url": "https://open.spotify.com/track/2R64ux4w6jprMByqntPMwi"
+    },
+    {
+      "added_at": "2026-07-05 12:30:10",
+      "album": {
+        "name": "The Hallway Never Ends (Acoustic)",
+        "url": "https://open.spotify.com/album/3Pbh0Z1qbD0cp1NDs0HpoO"
+      },
+      "artists": [
+        {
+          "name": "Snawfus Screamers",
+          "url": "https://open.spotify.com/artist/7sPAgv3goDwWk4s81fXLwu"
+        }
+      ],
+      "duration_ms": 212361,
+      "name": "The Hallway Never Ends - Acoustic",
+      "url": "https://open.spotify.com/track/67gwcKoueecDvbVeDARNzA"
+    },
+    {
+      "added_at": "2026-07-05 12:30:11",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/4G2gY6iN0MCPUZmkEGtYOU"
+      },
+      "artists": [
+        {
+          "name": "Mila Mary",
+          "url": "https://open.spotify.com/artist/25XyQXGR5U61Ch1hJD3wFs"
+        }
+      ],
+      "duration_ms": 204839,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/4n2rZVLwNcSP6BR8ypAWyt"
+    },
+    {
+      "added_at": "2026-07-05 12:30:13",
+      "album": {
+        "name": "Enchanted",
+        "url": "https://open.spotify.com/album/3ClfQCfOsysGWFKSQGN2bt"
+      },
+      "artists": [
+        {
+          "name": "Cyfnos",
+          "url": "https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr"
+        }
+      ],
+      "duration_ms": 144704,
+      "name": "Train Tracks",
+      "url": "https://open.spotify.com/track/2F772qCRXyHYKvAKTIXXud"
+    },
+    {
+      "added_at": "2026-07-05 12:30:22",
+      "album": {
+        "name": "Wicked Man",
+        "url": "https://open.spotify.com/album/5dhRHe66pkX1UmayK6GZUb"
+      },
+      "artists": [
+        {
+          "name": "Mikey Sovereign",
+          "url": "https://open.spotify.com/artist/6s6EknLmFnL0AxRtnaexIJ"
+        }
+      ],
+      "duration_ms": 292778,
+      "name": "Wicked Man",
+      "url": "https://open.spotify.com/track/0GcXpH7SJHPoz2ig2AIGub"
+    },
+    {
+      "added_at": "2026-07-05 12:31:25",
+      "album": {
+        "name": "Something New",
+        "url": "https://open.spotify.com/album/5iVvaFMO6P1bQKWxRfWr8p"
+      },
+      "artists": [
+        {
+          "name": "Monday's Monsoon",
+          "url": "https://open.spotify.com/artist/5yfO3Tj32k9rS8xSddMnAg"
+        }
+      ],
+      "duration_ms": 280606,
+      "name": "Something New",
+      "url": "https://open.spotify.com/track/7G9HfHhiTPYrvtu7hTRFJk"
     }
   ],
   "unique_name": "New Indie Music",

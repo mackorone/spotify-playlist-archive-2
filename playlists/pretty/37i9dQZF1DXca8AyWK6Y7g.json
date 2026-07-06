@@ -1,12 +1,12 @@
 {
   "description": "just trying our best",
-  "num_followers": 1543422,
+  "num_followers": 1543218,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIm1pm2x/BJVq5abquDXFacE5GJh",
+  "snapshot_id": "AAAAAN8uF4z3HRpjsC7hbyJllFwXZXtx",
   "tracks": [
     {
       "added_at": "2026-06-26 04:02:15",
@@ -23,6 +23,22 @@
       "duration_ms": 235006,
       "name": "I Always Say I'm Leaving",
       "url": "https://open.spotify.com/track/5cKe5uG14ySc9DNb15np2J"
+    },
+    {
+      "added_at": "2026-07-05 15:36:05",
+      "album": {
+        "name": "born to lose",
+        "url": "https://open.spotify.com/album/4Zrqs3YaexpBNVQlErbyTA"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "duration_ms": 194934,
+      "name": "born to lose",
+      "url": "https://open.spotify.com/track/5LOqhjhFNQ4WzKvEUrT8s9"
     },
     {
       "added_at": "2026-06-26 19:54:46",
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
     },
     {
+      "added_at": "2026-07-05 15:36:05",
+      "album": {
+        "name": "Is This Heaven? (Extended)",
+        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 169121,
+      "name": "Good At Leaving",
+      "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
+    },
+    {
       "added_at": "2026-05-22 04:55:57",
       "album": {
         "name": "Blame My Ex",
@@ -89,6 +121,22 @@
       "url": "https://open.spotify.com/track/6dHLIrTnDWBuW5cZsot1yr"
     },
     {
+      "added_at": "2026-07-05 15:36:05",
+      "album": {
+        "name": "Endless Sundays",
+        "url": "https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 248281,
+      "name": "Endless Sundays",
+      "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
+    },
+    {
       "added_at": "2026-05-22 04:55:57",
       "album": {
         "name": "Run Rabbit",
@@ -103,6 +151,38 @@
       "duration_ms": 189111,
       "name": "Run Rabbit",
       "url": "https://open.spotify.com/track/0xVSc4Gvf5ua1yb96Ku5D2"
+    },
+    {
+      "added_at": "2026-07-05 15:36:05",
+      "album": {
+        "name": "I Wish I Didn't Care",
+        "url": "https://open.spotify.com/album/2fwufOZ2Gyk3Vh3XQZIxnu"
+      },
+      "artists": [
+        {
+          "name": "Jessica Andrea",
+          "url": "https://open.spotify.com/artist/3cxjLPoupULWAW15bgjkgl"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "I Wish I Didn't Care",
+      "url": "https://open.spotify.com/track/3m6ISq59EGnp4fHwxQsR5k"
+    },
+    {
+      "added_at": "2026-06-12 04:17:50",
+      "album": {
+        "name": "Shapeshifting on a Saturday Night",
+        "url": "https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s"
+      },
+      "artists": [
+        {
+          "name": "Avery Cochrane",
+          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
+        }
+      ],
+      "duration_ms": 205728,
+      "name": "Shapeshifting on a Saturday Night",
+      "url": "https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt"
     },
     {
       "added_at": "2026-06-16 17:46:51",
@@ -137,22 +217,6 @@
       "url": "https://open.spotify.com/track/5gTLztYL2Mytq5EVPFeGxE"
     },
     {
-      "added_at": "2026-06-12 04:17:50",
-      "album": {
-        "name": "Shapeshifting on a Saturday Night",
-        "url": "https://open.spotify.com/album/6OcMg9GPmcyEZtaipr6x3s"
-      },
-      "artists": [
-        {
-          "name": "Avery Cochrane",
-          "url": "https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR"
-        }
-      ],
-      "duration_ms": 205728,
-      "name": "Shapeshifting on a Saturday Night",
-      "url": "https://open.spotify.com/track/5ohPveFr3t93leJhCiWAqt"
-    },
-    {
       "added_at": "2026-05-22 04:55:57",
       "album": {
         "name": "Who's the Clown?",
@@ -185,6 +249,22 @@
       "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
     },
     {
+      "added_at": "2026-07-05 15:36:05",
+      "album": {
+        "name": "This Is How You See Me Now",
+        "url": "https://open.spotify.com/album/1XAXzsU82lf7y7hPuFaIJ6"
+      },
+      "artists": [
+        {
+          "name": "Dolder",
+          "url": "https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb"
+        }
+      ],
+      "duration_ms": 232853,
+      "name": "Occasionally",
+      "url": "https://open.spotify.com/track/6hMeUPbEIxwM9iYnnqOGjc"
+    },
+    {
       "added_at": "2026-06-26 04:02:15",
       "album": {
         "name": "Bad Girl July",
@@ -215,6 +295,22 @@
       "duration_ms": 221958,
       "name": "expectations",
       "url": "https://open.spotify.com/track/25nbeJzxF3dwvtTq57QKZi"
+    },
+    {
+      "added_at": "2026-07-05 15:36:05",
+      "album": {
+        "name": "Love Like A Hobby",
+        "url": "https://open.spotify.com/album/4FhYzCXg5OeNGBT0NvjVvg"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "duration_ms": 222614,
+      "name": "Love Like A Hobby",
+      "url": "https://open.spotify.com/track/3Ce2UwnIE9clxZp94hkAGp"
     },
     {
       "added_at": "2026-05-01 04:52:22",
@@ -1213,38 +1309,6 @@
       "url": "https://open.spotify.com/track/0yGXheydoHP4EKZpfAs9zk"
     },
     {
-      "added_at": "2026-04-17 04:11:42",
-      "album": {
-        "name": "Threads",
-        "url": "https://open.spotify.com/album/5oZjxGVnWSmZD6Zmls9ksq"
-      },
-      "artists": [
-        {
-          "name": "Maryn Charlie",
-          "url": "https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL"
-        }
-      ],
-      "duration_ms": 161014,
-      "name": "Hit By Lightning",
-      "url": "https://open.spotify.com/track/2NHXvqspojNxWjmRSdcZn3"
-    },
-    {
-      "added_at": "2026-03-27 05:09:53",
-      "album": {
-        "name": "Loretta's Last Call",
-        "url": "https://open.spotify.com/album/2GLrkdbYxmkxButSpM6U6d"
-      },
-      "artists": [
-        {
-          "name": "Moody Joody",
-          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
-        }
-      ],
-      "duration_ms": 192372,
-      "name": "Loretta's Last Call",
-      "url": "https://open.spotify.com/track/3bm0yuIdIcyh5XCTxa7Ee8"
-    },
-    {
       "added_at": "2026-03-27 05:09:53",
       "album": {
         "name": "The Best",
@@ -1293,22 +1357,6 @@
       "url": "https://open.spotify.com/track/0fVrUsHbkqg7ISVKufGoLm"
     },
     {
-      "added_at": "2026-03-27 05:09:53",
-      "album": {
-        "name": "Waiting For The Dawn",
-        "url": "https://open.spotify.com/album/2MfBbml4vlNl67SrvjEtQ7"
-      },
-      "artists": [
-        {
-          "name": "SUM SUN",
-          "url": "https://open.spotify.com/artist/3Rkl3UpmEVgW3vEoISzJUT"
-        }
-      ],
-      "duration_ms": 235555,
-      "name": "Waiting For The Dawn",
-      "url": "https://open.spotify.com/track/7ICTrKc2uZHhppHRygXf0b"
-    },
-    {
       "added_at": "2026-03-06 05:00:26",
       "album": {
         "name": "Tales of a Failed Shapeshifter",
@@ -1323,22 +1371,6 @@
       "duration_ms": 148179,
       "name": "Unicorn",
       "url": "https://open.spotify.com/track/2vfhsZ9jm2ncXDV8MrFR7X"
-    },
-    {
-      "added_at": "2026-03-27 05:09:53",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe"
-      },
-      "artists": [
-        {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
-        }
-      ],
-      "duration_ms": 145710,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
     },
     {
       "added_at": "2026-03-13 04:00:49",
@@ -1455,38 +1487,6 @@
       "duration_ms": 147500,
       "name": "2099",
       "url": "https://open.spotify.com/track/4ooICmT2zrfMprazExomIi"
-    },
-    {
-      "added_at": "2026-03-13 04:00:49",
-      "album": {
-        "name": "Give A Little",
-        "url": "https://open.spotify.com/album/4PM2t0JoZrpWfjtg8OKXYi"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        }
-      ],
-      "duration_ms": 175843,
-      "name": "Give A Little",
-      "url": "https://open.spotify.com/track/3m4sLkrfjpobclYxcLBMei"
-    },
-    {
-      "added_at": "2026-03-13 04:00:49",
-      "album": {
-        "name": "Sucker",
-        "url": "https://open.spotify.com/album/6HKXpUAVFV74qeB5qn8vMD"
-      },
-      "artists": [
-        {
-          "name": "gracie",
-          "url": "https://open.spotify.com/artist/1kRAfMPD0sNjqJSWlhtzUt"
-        }
-      ],
-      "duration_ms": 235756,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/0VTJ9VSmDqi3j5YF52kqi6"
     },
     {
       "added_at": "2026-02-13 05:00:46",

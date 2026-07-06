@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics. Cover: Mon Laferte",
-  "num_followers": 229223,
+  "num_followers": 229262,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Regresa",
-        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 168755,
-      "name": "Ta Que Tiembla",
-      "url": "https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Ciclo",
         "url": "https://open.spotify.com/album/0hLYCFaBmv5P9nXmKkZErs"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 172409,
       "name": "Ciclo",
       "url": "https://open.spotify.com/track/131pRjxiSb3iaZavjVutiQ"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 168755,
+      "name": "Ta Que Tiembla",
+      "url": "https://open.spotify.com/track/608EJ9ZzAa7eAeLwt3O3tw"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Suspiros",
-        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
-      },
-      "artists": [
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
-        }
-      ],
-      "duration_ms": 184970,
-      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
-      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Ser\u00e1",
         "url": "https://open.spotify.com/album/3pmsaPjaLVhM7In7eZKEre"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 257453,
       "name": "La Vida Mejor",
       "url": "https://open.spotify.com/track/4dkjZa9RAkz1RKZAAxQnUD"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Suspiros",
+        "url": "https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK"
+      },
+      "artists": [
+        {
+          "name": "Daniel, Me Est\u00e1s Matando",
+          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+        }
+      ],
+      "duration_ms": 184970,
+      "name": "\u00bfQu\u00e9 Se Siente Que Me Gustes Tanto?",
+      "url": "https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Sunlight",
-        "url": "https://open.spotify.com/album/7CaiIBfrajnAyCfv6p6IPb"
-      },
-      "artists": [
-        {
-          "name": "Besos",
-          "url": "https://open.spotify.com/artist/0g5ILGFHqkc89g0arxKvMk"
-        }
-      ],
-      "duration_ms": 186598,
-      "name": "Sunlight",
-      "url": "https://open.spotify.com/track/1AEseSSIT59rfreQOvtaI9"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 213186,
       "name": "Colors",
       "url": "https://open.spotify.com/track/4S86HrFNj1b7vL0oY4QGao"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "Sunlight",
+        "url": "https://open.spotify.com/album/7CaiIBfrajnAyCfv6p6IPb"
+      },
+      "artists": [
+        {
+          "name": "Besos",
+          "url": "https://open.spotify.com/artist/0g5ILGFHqkc89g0arxKvMk"
+        }
+      ],
+      "duration_ms": 186598,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/1AEseSSIT59rfreQOvtaI9"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "D\u00e9jenme Llorar",
-        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 228253,
-      "name": "Eres T\u00fa",
-      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
-    },
-    {
-      "added_at": "2024-07-12 18:08:37",
-      "album": {
         "name": "Canta",
         "url": "https://open.spotify.com/album/3RoPVCstBakWHHls5HEoKp"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 231973,
       "name": "Missed Connection",
       "url": "https://open.spotify.com/track/5g5vA6ILBex9HxckYqNzHA"
+    },
+    {
+      "added_at": "2024-07-12 18:08:37",
+      "album": {
+        "name": "D\u00e9jenme Llorar",
+        "url": "https://open.spotify.com/album/6BZkhYCGp75O2R4oX25nve"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 228253,
+      "name": "Eres T\u00fa",
+      "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
     },
     {
       "added_at": "2024-07-12 18:08:37",
@@ -1659,26 +1659,18 @@
     {
       "added_at": "2024-07-12 18:08:37",
       "album": {
-        "name": "Grecia",
-        "url": "https://open.spotify.com/album/0NDZTKw6MgExSektZolu8S"
+        "name": "Destellos",
+        "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
       },
       "artists": [
         {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        },
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        },
-        {
-          "name": "Daniel, Me Est\u00e1s Matando",
-          "url": "https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE"
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
         }
       ],
-      "duration_ms": 200118,
-      "name": "Grecia",
-      "url": "https://open.spotify.com/track/6OTGRlCpPGMpPM96g62d2R"
+      "duration_ms": 237786,
+      "name": "Popscuro",
+      "url": "https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev"
     }
   ],
   "unique_name": "Latin Indie Classics",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: M.anifest & Kwesi Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,191 likes - 79 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,228 likes - 79 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 78 | [Fortune or Flesh](https://open.spotify.com/track/7CZJauTPqkka9J17QjmAVp) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Fortune or Flesh](https://open.spotify.com/album/26YmX4DY9BHW07E7E4rMHp) | 2:38 |
 | 79 | [PAWA](https://open.spotify.com/track/7bsWvQ3DsWlkKGhUInIMOo) | [Moor Sound](https://open.spotify.com/artist/3n5yjt02sJrVGF3mPfEUh4) | [PAWA](https://open.spotify.com/album/76HxCXQAasQTlB1FN5W2hE) | 2:03 |
 
-Snapshot ID: `AAAAAKNAXqnn2MyX5GW2rmnVRfQkguet`
+Snapshot ID: `AAAAANcJtiYvzRftFN5VKvC4gxWPUhQN`

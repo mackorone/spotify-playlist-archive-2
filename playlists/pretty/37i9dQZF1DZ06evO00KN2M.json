@@ -1,12 +1,12 @@
 {
   "description": "This is Fleetwood Mac. The essential tracks, all in one playlist.",
-  "num_followers": 1171753,
+  "num_followers": 1171876,
   "original_name": "This Is Fleetwood Mac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAD6nlA9PLxSUxXxGxPfLtGV",
+  "snapshot_id": "akhNAAAAAACLh0FayIYMyir2ddS9vc5I",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say You Will",
-        "url": "https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 250760,
-      "name": "Peacekeeper",
-      "url": "https://open.spotify.com/track/47QCcoUKxDP1vuli0LwT8G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tusk (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1d075yQcykHjerQ2BN0ABn"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 217573,
       "name": "Tusk - 2015 Remaster",
       "url": "https://open.spotify.com/track/0iINibMKtoS8duvexsqnm5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Say You Will",
+        "url": "https://open.spotify.com/album/6dMdadS6Ng71pD9As93ufx"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 250760,
+      "name": "Peacekeeper",
+      "url": "https://open.spotify.com/track/47QCcoUKxDP1vuli0LwT8G"
     },
     {
       "added_at": null,

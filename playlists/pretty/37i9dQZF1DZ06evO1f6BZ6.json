@@ -1,29 +1,13 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 125829,
+  "num_followers": 125867,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAD4Blday+md4iJtxc0xVcnu",
+  "snapshot_id": "akhNAAAAAAAKizCogAE8aj73LAzDAdle",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 211306,
-      "name": "Should've Been A Cowboy",
-      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 195533,
       "name": "Courtesy Of The Red, White And Blue (The Angry American)",
       "url": "https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 211306,
+      "name": "Should've Been A Cowboy",
+      "url": "https://open.spotify.com/track/4TJUS843fKiqqIzycM74Oy"
     },
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 206840,
-      "name": "Wish I Didn't Know Now",
-      "url": "https://open.spotify.com/track/40nvOEkPCUDsoQdruyndb2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
       },
@@ -111,6 +95,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 206840,
+      "name": "Wish I Didn't Know Now",
+      "url": "https://open.spotify.com/track/40nvOEkPCUDsoQdruyndb2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clancy's Tavern",
+        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 193133,
+      "name": "Made in America",
+      "url": "https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shock 'N Y'all",
         "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
       },
@@ -127,6 +143,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Ride",
+        "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 165693,
+      "name": "American Ride",
+      "url": "https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pull My Chain",
         "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
       },
@@ -139,22 +171,6 @@
       "duration_ms": 183960,
       "name": "I Wanna Talk About Me",
       "url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toby Keith",
-        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 170546,
-      "name": "A Little Less Talk And A Lot More Action",
-      "url": "https://open.spotify.com/track/267pym8JqsQQdIs7dadMJR"
     },
     {
       "added_at": null,
@@ -184,70 +200,6 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 193133,
-      "name": "Made in America",
-      "url": "https://open.spotify.com/track/7Lmwj2fe8MpGXypOuLGO2C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Ride",
-        "url": "https://open.spotify.com/album/3XCPfoDC88adSavNAYNVyV"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 165693,
-      "name": "American Ride",
-      "url": "https://open.spotify.com/track/0gjqyr5z7poniYymKRwsCN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boomtown",
-        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 147026,
-      "name": "You Ain't Much Fun",
-      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shock 'N Y'all",
-        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 239533,
-      "name": "Whiskey Girl",
-      "url": "https://open.spotify.com/track/2CaxgnHBHuiOYIGIyvMbCl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clancy's Tavern",
-        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
       "duration_ms": 223386,
       "name": "Red Solo Cup",
       "url": "https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN"
@@ -264,25 +216,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 184533,
-      "name": "He Ain't Worth Missing",
-      "url": "https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boomtown",
-        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 295973,
-      "name": "Who's That Man",
-      "url": "https://open.spotify.com/track/3KikW7dhYZkY1eGXkIKOmG"
+      "duration_ms": 170546,
+      "name": "A Little Less Talk And A Lot More Action",
+      "url": "https://open.spotify.com/track/267pym8JqsQQdIs7dadMJR"
     },
     {
       "added_at": null,
@@ -303,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boomtown",
+        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 147026,
+      "name": "You Ain't Much Fun",
+      "url": "https://open.spotify.com/track/4YS5ECd4qRZSA8NHqHiWD4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "How Do You Like Me Now?!",
         "url": "https://open.spotify.com/album/2GBWYbIHyVneL0VylPXa6Y"
       },
@@ -315,6 +267,54 @@
       "duration_ms": 223466,
       "name": "You Shouldn't Kiss Me Like This",
       "url": "https://open.spotify.com/track/5taqvRgn1DdZ117p2DhPXQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toby Keith",
+        "url": "https://open.spotify.com/album/4aRsryJ8T9RLyudkkGJNbA"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 184533,
+      "name": "He Ain't Worth Missing",
+      "url": "https://open.spotify.com/track/21O5QoGEqBTZgnWb3yDlZa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shock 'N Y'all",
+        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 239533,
+      "name": "Whiskey Girl",
+      "url": "https://open.spotify.com/track/2CaxgnHBHuiOYIGIyvMbCl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boomtown",
+        "url": "https://open.spotify.com/album/0g1OHe0yigASaT0nVQkjQS"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 295973,
+      "name": "Who's That Man",
+      "url": "https://open.spotify.com/track/3KikW7dhYZkY1eGXkIKOmG"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Let the Old Man In",
-        "url": "https://open.spotify.com/album/1lsOkbVF2Wk8U1IrF3FWLa"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 172994,
-      "name": "Don't Let the Old Man In",
-      "url": "https://open.spotify.com/track/4DLSN6f2Cp5eWIa5Vfn9kj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "That Don't Make Me a Bad Guy",
         "url": "https://open.spotify.com/album/2wkmIPd9my2KpsBgZZer7e"
       },
@@ -383,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
+        "name": "Don't Let the Old Man In",
+        "url": "https://open.spotify.com/album/1lsOkbVF2Wk8U1IrF3FWLa"
       },
       "artists": [
         {
@@ -392,9 +376,25 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 229800,
-      "name": "Does That Blue Moon Ever Shine On You",
-      "url": "https://open.spotify.com/track/4qjQGcyqNd6fKWFADrdFRF"
+      "duration_ms": 172994,
+      "name": "Don't Let the Old Man In",
+      "url": "https://open.spotify.com/track/4DLSN6f2Cp5eWIa5Vfn9kj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clancy's Tavern",
+        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 206640,
+      "name": "Beers Ago",
+      "url": "https://open.spotify.com/track/5MiRgE7Yta2jiOkVGHbiQC"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clancy's Tavern",
-        "url": "https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 206640,
-      "name": "Beers Ago",
-      "url": "https://open.spotify.com/track/5MiRgE7Yta2jiOkVGHbiQC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
       },
@@ -456,9 +440,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 233106,
-      "name": "Me Too",
-      "url": "https://open.spotify.com/track/5Jy6TexjmznhnsWqRLkiSi"
+      "duration_ms": 229800,
+      "name": "Does That Blue Moon Ever Shine On You",
+      "url": "https://open.spotify.com/track/4qjQGcyqNd6fKWFADrdFRF"
     },
     {
       "added_at": null,
@@ -472,9 +456,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 243706,
-      "name": "Weed With Willie - Live",
-      "url": "https://open.spotify.com/track/7vf8kqdPc8wpKja6iqfuzi"
+      "duration_ms": 238933,
+      "name": "The Taliban Song - Live",
+      "url": "https://open.spotify.com/track/5FcwIJt39NpSTVQkaguJcq"
     },
     {
       "added_at": null,
@@ -587,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
       },
       "artists": [
         {
@@ -596,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 256613,
-      "name": "Bullets in the Gun",
-      "url": "https://open.spotify.com/track/26bRcXA9qmivWYTPocMlfT"
+      "duration_ms": 233106,
+      "name": "Me Too",
+      "url": "https://open.spotify.com/track/5Jy6TexjmznhnsWqRLkiSi"
     },
     {
       "added_at": null,
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 238933,
-      "name": "The Taliban Song - Live",
-      "url": "https://open.spotify.com/track/5FcwIJt39NpSTVQkaguJcq"
+      "duration_ms": 243706,
+      "name": "Weed With Willie - Live",
+      "url": "https://open.spotify.com/track/7vf8kqdPc8wpKja6iqfuzi"
     },
     {
       "added_at": null,
@@ -635,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 256613,
+      "name": "Bullets in the Gun",
+      "url": "https://open.spotify.com/track/26bRcXA9qmivWYTPocMlfT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "35 mph Town",
         "url": "https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 188413,
       "name": "Sailboat for Sale",
       "url": "https://open.spotify.com/track/2wT3VvoiJm0LFZyQrfkQYz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 173693,
-      "name": "Trailerhood",
-      "url": "https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU"
     },
     {
       "added_at": null,
@@ -723,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 173693,
+      "name": "Trailerhood",
+      "url": "https://open.spotify.com/track/2CdGhu82tkVWkXDPyJCiwU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Honkytonk University",
         "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
       },
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Walkin'",
-        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 260933,
-      "name": "We Were In Love",
-      "url": "https://open.spotify.com/track/3ldQidBTeQXyr1kAzakLfs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shock 'N Y'all",
         "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 224800,
       "name": "If I Was Jesus",
       "url": "https://open.spotify.com/track/1WHBg96aBSgflMROz1njg2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Walkin'",
+        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 260933,
+      "name": "We Were In Love",
+      "url": "https://open.spotify.com/track/3ldQidBTeQXyr1kAzakLfs"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toby Keith 35 Biggest Hits",
+        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 188920,
+      "name": "She's A Hottie - Single Version",
+      "url": "https://open.spotify.com/track/5SD2dutv5rJM4Q8hlnC2QK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/43KDShB3LKQv7r6Lq2OR9u"
       },
@@ -863,8 +879,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+        "name": "Drinks After Work",
+        "url": "https://open.spotify.com/album/2jj2MVDGS3rJ8KM0RF1QsH"
       },
       "artists": [
         {
@@ -872,9 +888,9 @@
           "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
         }
       ],
-      "duration_ms": 188920,
-      "name": "She's A Hottie - Single Version",
-      "url": "https://open.spotify.com/track/5SD2dutv5rJM4Q8hlnC2QK"
+      "duration_ms": 212466,
+      "name": "Drinks After Work",
+      "url": "https://open.spotify.com/track/3Q74BN3z8lQIkiBC80zd07"
     },
     {
       "added_at": null,
@@ -895,22 +911,6 @@
       "duration_ms": 163666,
       "name": "Copenhagen",
       "url": "https://open.spotify.com/track/1ArAjl7hyquZoN7y2szoM9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drinks After Work",
-        "url": "https://open.spotify.com/album/2jj2MVDGS3rJ8KM0RF1QsH"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Drinks After Work",
-      "url": "https://open.spotify.com/track/3Q74BN3z8lQIkiBC80zd07"
     },
     {
       "added_at": null,

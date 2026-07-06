@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 336740,
+  "num_followers": 336756,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAByt4t212HUCwonzfY/x7A+",
+  "snapshot_id": "akhNAAAAAAD+3DA1OtBA4RCe1y+T8cOZ",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kehlani",
-        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 184884,
-      "name": "Cruise Control",
-      "url": "https://open.spotify.com/track/4xG7G5EzswBoe0P1hXns1C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Think Of Me",
         "url": "https://open.spotify.com/album/6CjFvd1Oj0cljGm226jCvH"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 170041,
       "name": "Think Of Me",
       "url": "https://open.spotify.com/track/3RvkuiK2x5BlSQWYqTYjIS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 184884,
+      "name": "Cruise Control",
+      "url": "https://open.spotify.com/track/4xG7G5EzswBoe0P1hXns1C"
     },
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kehlani",
-        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 162514,
-      "name": "Sweet Nuthins (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/6Q1biSMDWjVrtpcZNeAd5A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It Was Good Until It Wasn't",
         "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
@@ -279,6 +259,26 @@
       "duration_ms": 183019,
       "name": "Can You Blame Me (feat. Lucky Daye)",
       "url": "https://open.spotify.com/track/12xVuIohhHSklxvi1ItKGA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 162514,
+      "name": "Sweet Nuthins (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/6Q1biSMDWjVrtpcZNeAd5A"
     },
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kehlani",
-        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 213283,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/0Ntgg91du8iTGOobonADUu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It Was Good Until It Wasn't",
         "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 168182,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 213283,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/0Ntgg91du8iTGOobonADUu"
     },
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kehlani",
-        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 243586,
-      "name": "I Need You (feat. Brandy)",
-      "url": "https://open.spotify.com/track/1RNcORpluixtdsa5CBFjBH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUTT Deluxe: HEEL",
         "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 219607,
       "name": "DIRT ON MY SHOES (feat. Kehlani)",
       "url": "https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kehlani",
+        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 243586,
+      "name": "I Need You (feat. Brandy)",
+      "url": "https://open.spotify.com/track/1RNcORpluixtdsa5CBFjBH"
     },
     {
       "added_at": null,
@@ -455,6 +455,26 @@
       "duration_ms": 207551,
       "name": "everything",
       "url": "https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Jaguar's Dream",
+        "url": "https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP"
+      },
+      "artists": [
+        {
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 179974,
+      "name": "KEHLANI (REMIX) [feat. Kehlani]",
+      "url": "https://open.spotify.com/track/4rugSJgsPQ1KlbWYZnoEsa"
     },
     {
       "added_at": null,
@@ -495,26 +515,6 @@
       "duration_ms": 192723,
       "name": "Blue Moon - Girls Trip",
       "url": "https://open.spotify.com/track/7pVos5ARWPPoss91LDu9Hx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Jaguar's Dream",
-        "url": "https://open.spotify.com/album/0nhSn0jmZlFvdPrz7vr2UP"
-      },
-      "artists": [
-        {
-          "name": "Jordan Adetunji",
-          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 179974,
-      "name": "KEHLANI (REMIX) [feat. Kehlani]",
-      "url": "https://open.spotify.com/track/4rugSJgsPQ1KlbWYZnoEsa"
     },
     {
       "added_at": null,
@@ -651,22 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
+        "name": "Moon Boy",
+        "url": "https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J"
       },
       "artists": [
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
         },
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 185426,
-      "name": "Get Me (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ"
+      "duration_ms": 212878,
+      "name": "Beautiful Lies",
+      "url": "https://open.spotify.com/track/3BjwSq6phb60SOdTZw5pZY"
     },
     {
       "added_at": null,
@@ -707,22 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moon Boy",
-        "url": "https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J"
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
       "artists": [
         {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         },
         {
           "name": "Kehlani",
           "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 212878,
-      "name": "Beautiful Lies",
-      "url": "https://open.spotify.com/track/3BjwSq6phb60SOdTZw5pZY"
+      "duration_ms": 185426,
+      "name": "Get Me (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/5VwwpU7KsLhgfbMEecedhJ"
     },
     {
       "added_at": null,
@@ -883,6 +883,22 @@
       "duration_ms": 212747,
       "name": "wRoNg (feat. Kehlani)",
       "url": "https://open.spotify.com/track/7iCeaYJSEdGWeFNTAEqUzJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "blue water road",
+        "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 211375,
+      "name": "melt",
+      "url": "https://open.spotify.com/track/1pCbBNRglGwlMLeUTOnqrO"
     }
   ],
   "unique_name": "This Is Kehlani",

@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Guitarricadelafuente.",
-  "num_followers": 22317,
+  "num_followers": 22314,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -543,26 +543,6 @@
     {
       "added_at": "2026-06-08 07:44:23",
       "album": {
-        "name": "Chocolate",
-        "url": "https://open.spotify.com/album/2bOKpU3274kwjedorfpBzw"
-      },
-      "artists": [
-        {
-          "name": "UMEN",
-          "url": "https://open.spotify.com/artist/62iVCVY9p4GgBfNQNC3Buf"
-        },
-        {
-          "name": "Cascales",
-          "url": "https://open.spotify.com/artist/0V4K9nC7JgzLNoKZDlTf0X"
-        }
-      ],
-      "duration_ms": 172650,
-      "name": "Chocolate",
-      "url": "https://open.spotify.com/track/3ysMSpZgAwhZgaisVXSaz4"
-    },
-    {
-      "added_at": "2026-06-08 07:44:23",
-      "album": {
         "name": "Ouineta Verificada",
         "url": "https://open.spotify.com/album/5lMyr087un4jnw6KUKqTus"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 181001,
       "name": "NOIS",
       "url": "https://open.spotify.com/track/2r56sJEcjVH6EFSemjgjQC"
+    },
+    {
+      "added_at": "2026-06-08 07:44:23",
+      "album": {
+        "name": "Chocolate",
+        "url": "https://open.spotify.com/album/2bOKpU3274kwjedorfpBzw"
+      },
+      "artists": [
+        {
+          "name": "UMEN",
+          "url": "https://open.spotify.com/artist/62iVCVY9p4GgBfNQNC3Buf"
+        },
+        {
+          "name": "Cascales",
+          "url": "https://open.spotify.com/artist/0V4K9nC7JgzLNoKZDlTf0X"
+        }
+      ],
+      "duration_ms": 172650,
+      "name": "Chocolate",
+      "url": "https://open.spotify.com/track/3ysMSpZgAwhZgaisVXSaz4"
     },
     {
       "added_at": "2026-06-08 07:44:23",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-06-08 07:44:23",
       "album": {
-        "name": "Se te est\u00e1 olvidando",
-        "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
-      },
-      "artists": [
-        {
-          "name": "SAZZA",
-          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
-        }
-      ],
-      "duration_ms": 167856,
-      "name": "Se te est\u00e1 olvidando",
-      "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
-    },
-    {
-      "added_at": "2026-06-08 07:44:23",
-      "album": {
         "name": "Satisfacer Tu Deseo De Hombre",
         "url": "https://open.spotify.com/album/3n1kR89j7noY6ipBbRTGfW"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 156710,
       "name": "Satisfacer Tu Deseo De Hombre",
       "url": "https://open.spotify.com/track/7AHniJFdQFqD7iePGU4B04"
+    },
+    {
+      "added_at": "2026-06-08 07:44:23",
+      "album": {
+        "name": "Se te est\u00e1 olvidando",
+        "url": "https://open.spotify.com/album/5J0wgA4qqbWqdS3Id84GPD"
+      },
+      "artists": [
+        {
+          "name": "SAZZA",
+          "url": "https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe"
+        }
+      ],
+      "duration_ms": 167856,
+      "name": "Se te est\u00e1 olvidando",
+      "url": "https://open.spotify.com/track/4NEBRtcCzUGsLaCCPH3zf3"
     },
     {
       "added_at": "2026-06-08 07:44:23",

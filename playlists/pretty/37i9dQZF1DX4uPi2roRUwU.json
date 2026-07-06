@@ -1,6 +1,6 @@
 {
   "description": "Diese Beats machen garantiert gute Laune!",
-  "num_followers": 1343161,
+  "num_followers": 1343050,
   "original_name": "Happy Dance",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-07-02 22:00:53",
       "album": {
-        "name": "It's Not Right But It's Okay",
-        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
-      },
-      "artists": [
-        {
-          "name": "Mr. Belt & Wezol",
-          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
-        }
-      ],
-      "duration_ms": 152304,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
-    },
-    {
-      "added_at": "2026-07-02 22:00:53",
-      "album": {
         "name": "Headlights (feat. KIDDO)",
         "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 158400,
       "name": "Headlights (feat. KIDDO)",
       "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
+    },
+    {
+      "added_at": "2026-07-02 22:00:53",
+      "album": {
+        "name": "It's Not Right But It's Okay",
+        "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
+      },
+      "artists": [
+        {
+          "name": "Mr. Belt & Wezol",
+          "url": "https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6"
+        }
+      ],
+      "duration_ms": 152304,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
     },
     {
       "added_at": "2026-07-02 22:00:53",
@@ -787,6 +787,22 @@
     {
       "added_at": "2026-07-02 22:00:53",
       "album": {
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN"
+      },
+      "artists": [
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        }
+      ],
+      "duration_ms": 228099,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3"
+    },
+    {
+      "added_at": "2026-07-02 22:00:53",
+      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
-    },
-    {
-      "added_at": "2026-07-02 22:00:53",
-      "album": {
-        "name": "Your Body",
-        "url": "https://open.spotify.com/album/7BILrDqY2kO1SOhX2MUJVN"
-      },
-      "artists": [
-        {
-          "name": "Marten Lou",
-          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
-        }
-      ],
-      "duration_ms": 228099,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3"
     },
     {
       "added_at": "2026-07-02 22:00:53",
@@ -895,26 +895,26 @@
     {
       "added_at": "2026-07-02 22:00:53",
       "album": {
-        "name": "Location",
-        "url": "https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1"
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah"
       },
       "artists": [
         {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+          "name": "Stryv",
+          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Malachiii",
+          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
         },
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "Adam Port",
+          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
         }
       ],
-      "duration_ms": 148135,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
+      "duration_ms": 148000,
+      "name": "Positions",
+      "url": "https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j"
     },
     {
       "added_at": "2026-07-02 22:00:53",
@@ -939,26 +939,26 @@
     {
       "added_at": "2026-07-02 22:00:53",
       "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah"
+        "name": "Location",
+        "url": "https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1"
       },
       "artists": [
         {
-          "name": "Stryv",
-          "url": "https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD"
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
         },
         {
-          "name": "Malachiii",
-          "url": "https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT"
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         },
         {
-          "name": "Adam Port",
-          "url": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Positions",
-      "url": "https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j"
+      "duration_ms": 148135,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
     },
     {
       "added_at": "2026-07-02 22:00:53",
@@ -987,6 +987,22 @@
     {
       "added_at": "2026-07-02 22:00:53",
       "album": {
+        "name": "Seratonin",
+        "url": "https://open.spotify.com/album/2tfGijTAeg0sZ7v6CUwOpj"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 115652,
+      "name": "Seratonin",
+      "url": "https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C"
+    },
+    {
+      "added_at": "2026-07-02 22:00:53",
+      "album": {
         "name": "That's When You Know",
         "url": "https://open.spotify.com/album/2XgEVPnq6LHLAKAIJXmlHZ"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 193842,
       "name": "That's When You Know",
       "url": "https://open.spotify.com/track/1XhItJSBxL5yKh0V0ymg6D"
-    },
-    {
-      "added_at": "2026-07-02 22:00:53",
-      "album": {
-        "name": "Seratonin",
-        "url": "https://open.spotify.com/album/2tfGijTAeg0sZ7v6CUwOpj"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 115652,
-      "name": "Seratonin",
-      "url": "https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C"
     },
     {
       "added_at": "2026-07-02 22:00:53",
@@ -1079,26 +1079,22 @@
     {
       "added_at": "2026-07-02 22:00:53",
       "album": {
-        "name": "Dancin (feat. Luvli) [southstar Remix]",
-        "url": "https://open.spotify.com/album/3dWZnjwCr9m3yz2N1OYguT"
+        "name": "Sorry Papi",
+        "url": "https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk"
       },
       "artists": [
         {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN"
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         },
         {
-          "name": "Luvli",
-          "url": "https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Dancin (feat. Luvli) - southstar Remix",
-      "url": "https://open.spotify.com/track/5VGel8rVmBQrr7mSAtpW2u"
+      "duration_ms": 170671,
+      "name": "Sorry Papi",
+      "url": "https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk"
     },
     {
       "added_at": "2026-07-02 22:00:53",
@@ -1123,22 +1119,26 @@
     {
       "added_at": "2026-07-02 22:00:53",
       "album": {
-        "name": "Sorry Papi",
-        "url": "https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk"
+        "name": "Dancin (feat. Luvli) [southstar Remix]",
+        "url": "https://open.spotify.com/album/3dWZnjwCr9m3yz2N1OYguT"
       },
       "artists": [
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN"
         },
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Luvli",
+          "url": "https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 170671,
-      "name": "Sorry Papi",
-      "url": "https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk"
+      "duration_ms": 173333,
+      "name": "Dancin (feat. Luvli) - southstar Remix",
+      "url": "https://open.spotify.com/track/5VGel8rVmBQrr7mSAtpW2u"
     },
     {
       "added_at": "2026-07-02 22:00:53",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-07-02 22:00:53",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/7gTfixsGtCkHxwzd82rsaE"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        }
-      ],
-      "duration_ms": 113702,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd"
-    },
-    {
-      "added_at": "2026-07-02 22:00:53",
-      "album": {
         "name": "Alors On Danse (feat. Stromae)",
         "url": "https://open.spotify.com/album/1hOCJ4eNjtYKIH9ZmNGc8p"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 168576,
       "name": "Alors On Danse (feat. Stromae)",
       "url": "https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7"
+    },
+    {
+      "added_at": "2026-07-02 22:00:53",
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/7gTfixsGtCkHxwzd82rsaE"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        }
+      ],
+      "duration_ms": 113702,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/3BENVzgDdwCiTGVtJbZGJd"
     },
     {
       "added_at": "2026-07-02 22:00:53",

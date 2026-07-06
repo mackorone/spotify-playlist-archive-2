@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Jett & the Blackhearts. The essential tracks, all in one playlist.",
-  "num_followers": 62388,
+  "num_followers": 62389,
   "original_name": "This Is Joan Jett & the Blackhearts",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAAsKTNo0ECCpzbbaGg1Y2BS",
+  "snapshot_id": "akhNAAAAAAA1joefREbdpq64ISTT8g+k",
   "tracks": [
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 95693,
-      "name": "Real Wild Child",
-      "url": "https://open.spotify.com/track/5bjjrtqrwNXi7mqigEnBr9"
+      "duration_ms": 211280,
+      "name": "Light of Day",
+      "url": "https://open.spotify.com/track/5n07f4xhDJbLPfeJUiJmsT"
     },
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 211280,
-      "name": "Light of Day",
-      "url": "https://open.spotify.com/track/5n07f4xhDJbLPfeJUiJmsT"
+      "duration_ms": 95693,
+      "name": "Real Wild Child",
+      "url": "https://open.spotify.com/track/5bjjrtqrwNXi7mqigEnBr9"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Hit List",
-        "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
+        "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 227400,
-      "name": "Love Hurts",
-      "url": "https://open.spotify.com/track/1TtEL6XQLDyDnG5QU9oqaD"
+      "duration_ms": 173853,
+      "name": "New Orleans",
+      "url": "https://open.spotify.com/track/23HlNoDhdGInIMcg4U9vuA"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glorious Results of a Misspent Youth (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5g0tzzMKPjOFd3tbjvVISF"
+        "name": "The Hit List",
+        "url": "https://open.spotify.com/album/1RjBf95Z4ltd5TMMlZZeZV"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 173853,
-      "name": "New Orleans",
-      "url": "https://open.spotify.com/track/23HlNoDhdGInIMcg4U9vuA"
+      "duration_ms": 227400,
+      "name": "Love Hurts",
+      "url": "https://open.spotify.com/track/1TtEL6XQLDyDnG5QU9oqaD"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Shout",
-      "url": "https://open.spotify.com/track/1DydpBvRaDWShDDhLWt9pb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/6CpI2jDw8f36Rsfnq9Zirr"
       },
@@ -451,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up Your Alley",
-        "url": "https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa"
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
       },
       "artists": [
         {
@@ -460,9 +444,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 310640,
-      "name": "I Wanna Be Your Dog",
-      "url": "https://open.spotify.com/track/2q9E4H2F41UU6tAGGnQLPY"
+      "duration_ms": 168400,
+      "name": "Shout",
+      "url": "https://open.spotify.com/track/1DydpBvRaDWShDDhLWt9pb"
     },
     {
       "added_at": null,
@@ -483,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
+        "name": "Up Your Alley",
+        "url": "https://open.spotify.com/album/21b03QbYud0qjLM5vd7VZa"
       },
       "artists": [
         {
@@ -492,9 +476,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 140066,
-      "name": "Wooly Bully",
-      "url": "https://open.spotify.com/track/0FDzI3JpnrDxYyaxJU6AwN"
+      "duration_ms": 310640,
+      "name": "I Wanna Be Your Dog",
+      "url": "https://open.spotify.com/track/2q9E4H2F41UU6tAGGnQLPY"
     },
     {
       "added_at": null,
@@ -511,6 +495,22 @@
       "duration_ms": 186600,
       "name": "Love Me Two Times",
       "url": "https://open.spotify.com/track/0Rg2m4xJT2Ft9JME02mTaY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 140066,
+      "name": "Wooly Bully",
+      "url": "https://open.spotify.com/track/0FDzI3JpnrDxYyaxJU6AwN"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Reputation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 223986,
+      "name": "You Don't Know What You've Got",
+      "url": "https://open.spotify.com/track/2ikFuUAyiFxsnPxHI0o7mD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encore",
         "url": "https://open.spotify.com/album/2JaDeYoIt0NUOFuiPaLs51"
       },
@@ -635,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Reputation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xAJmkDRtJcSmRWpAEtRRB"
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
       },
       "artists": [
         {
@@ -644,9 +660,25 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 223986,
-      "name": "You Don't Know What You've Got",
-      "url": "https://open.spotify.com/track/2ikFuUAyiFxsnPxHI0o7mD"
+      "duration_ms": 215440,
+      "name": "Activity Grrrl",
+      "url": "https://open.spotify.com/track/2AcF2eTslhoR8ktNt03rlc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Music",
+        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
+      },
+      "artists": [
+        {
+          "name": "Joan Jett & the Blackhearts",
+          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+        }
+      ],
+      "duration_ms": 345000,
+      "name": "Good Music",
+      "url": "https://open.spotify.com/track/3H3e9wWaEjGDjPxZYVkNHp"
     },
     {
       "added_at": null,
@@ -667,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/0VuwTQocDzfql2T14ARdHL"
+        "name": "Changeup (Acoustic)",
+        "url": "https://open.spotify.com/album/4WC5cA9ntbziydoSV7bMlT"
       },
       "artists": [
         {
@@ -676,9 +708,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 215440,
-      "name": "Activity Grrrl",
-      "url": "https://open.spotify.com/track/2AcF2eTslhoR8ktNt03rlc"
+      "duration_ms": 171666,
+      "name": "Long Time (Acoustic)",
+      "url": "https://open.spotify.com/track/0JbcL4u8q5BScIsMsz9Bb5"
     },
     {
       "added_at": null,
@@ -708,25 +740,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 345000,
-      "name": "Good Music",
-      "url": "https://open.spotify.com/track/3H3e9wWaEjGDjPxZYVkNHp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Changeup (Acoustic)",
-        "url": "https://open.spotify.com/album/4WC5cA9ntbziydoSV7bMlT"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Long Time (Acoustic)",
-      "url": "https://open.spotify.com/track/0JbcL4u8q5BScIsMsz9Bb5"
+      "duration_ms": 139173,
+      "name": "Fun, Fun, Fun",
+      "url": "https://open.spotify.com/track/0zp6Byr3O05jhRYFhgTKSV"
     },
     {
       "added_at": null,
@@ -767,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Music",
-        "url": "https://open.spotify.com/album/2bwQ6NSbu002DTWRKIbk6D"
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
       },
       "artists": [
         {
@@ -776,9 +792,9 @@
           "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
         }
       ],
-      "duration_ms": 139173,
-      "name": "Fun, Fun, Fun",
-      "url": "https://open.spotify.com/track/0zp6Byr3O05jhRYFhgTKSV"
+      "duration_ms": 187173,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/5bm9z5HyUXJPpnUzg2Kdzi"
     },
     {
       "added_at": null,
@@ -811,22 +827,6 @@
       "duration_ms": 199080,
       "name": "I Love You Love Me Love",
       "url": "https://open.spotify.com/track/5mNnb2gpeXCaPRbJKLI4ue"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/6qang4P5Ki0TKkQUl61hZc"
-      },
-      "artists": [
-        {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/5bm9z5HyUXJPpnUzg2Kdzi"
     }
   ],
   "unique_name": "This Is Joan Jett & the Blackhearts",

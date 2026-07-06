@@ -18271,6 +18271,24 @@
     },
     {
       "album": {
+        "name": "Thread",
+        "url": "https://open.spotify.com/album/78Ymq0pnIrAt7O1ueJFLA9"
+      },
+      "artists": [
+        {
+          "name": "Ostraca",
+          "url": "https://open.spotify.com/artist/12QhXwxSPz6xu42dDkDuCV"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Enmiserate",
+      "url": "https://open.spotify.com/track/30qxCcubEI3NgTj39UUh4c"
+    },
+    {
+      "album": {
         "name": "Enough Is Enough",
         "url": "https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ"
       },
@@ -23504,7 +23522,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 503137,
       "name": "Greater Darkness (Something Worse)",
       "url": "https://open.spotify.com/track/1aC0phmSc14m6KAj73wrpI"

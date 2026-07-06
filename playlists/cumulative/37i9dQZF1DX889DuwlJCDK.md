@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: 多次元制御機構よだか
 
-1,847 songs - 4 day 15 hr 38 min
+1,848 songs - 4 day 15 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -578,6 +578,7 @@
 | [Punk Head](https://open.spotify.com/track/6wN8LtVvVqh8RyEtFRESdr) | [Enfants](https://open.spotify.com/artist/03ZFwTgzAUndCMkWtb2PCn) | [Punk Head](https://open.spotify.com/album/4en5HpvQhcqTFQXerMbXtM) | 2:53 | 2025-09-30 | 2025-10-26 |
 | [Punky Blue Kids](https://open.spotify.com/track/6dHNYfZg0EFi9UsDWSxDRh) | [DNA GAINZ](https://open.spotify.com/artist/0bOGtsbotnQiTIHQMehEZx) | [Punky Blue Kids](https://open.spotify.com/album/0xUvDlxHN41wOvOJTqsCEW) | 2:36 | 2024-04-30 | 2024-06-01 |
 | [QUEEN feat\. Ryo Takanami, ninichan](https://open.spotify.com/track/0QCAkp5NIgQvJNPebs2mrY) | [アンと私](https://open.spotify.com/artist/77KkjvrS1UpnQX2KldfB1J), [Ryo Takanami](https://open.spotify.com/artist/2u5VEfBMUKDyZqX8KcI3sp), [ninichan](https://open.spotify.com/artist/07RJS61MbDpOxNylSJABHc) | [QUEEN feat\. Ryo Takanami, ninichan](https://open.spotify.com/album/08PhB7vTCVnSLJmE5RXs8J) | 3:40 | 2025-09-16 | 2025-10-01 |
+| [Raise Your Flag](https://open.spotify.com/track/1aF3Nj5YI4AUTvcr6P17ap) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [Raise Your Flag](https://open.spotify.com/album/2PnF8XNl9MptTBMv3J2KId) | 3:43 | 2026-06-30 |  |
 | [Rakugaki no Yona](https://open.spotify.com/track/4X7oNqdlt5KkNPUin7iFOP) | [Siberian Husky](https://open.spotify.com/artist/7ar3JkN4hS9Ux4Y421kOQF) | [Rakugaki no Yona](https://open.spotify.com/album/1LH56flbKHCibAi3vKW1Wt) | 3:54 | 2025-04-22 | 2025-05-07 |
 | [RARA](https://open.spotify.com/track/5tKaMINIHRqVfghw7f7zDt) | [TheSistersHigh](https://open.spotify.com/artist/0QN6oROcVrj6twcNWZPIOn) | [I like your dark side](https://open.spotify.com/album/5TgpnX9o2VbAwtygc9mxMx) | 3:39 | 2026-04-28 | 2026-05-06 |
 | [Ray](https://open.spotify.com/track/08VP35lzv2o06F6PjKEV7Z) | [夜々](https://open.spotify.com/artist/6t7fsMJuax8NObefWoWiOs) | [Ray](https://open.spotify.com/album/0L60JZmsft6EcKGHVWaH1t) | 3:32 | 2026-02-24 | 2026-03-13 |
@@ -1835,7 +1836,7 @@
 | [青春みたいだ](https://open.spotify.com/track/5vXE55Ruduk3vkaXtLu4P7) | [ワンダフル放送局](https://open.spotify.com/artist/06HH8z9WkqtGgLpCMqDkaT) | [青春みたいだ](https://open.spotify.com/album/5ezEYFQV4ZKeRghKw1jNfz) | 3:38 | 2023-07-27 | 2023-07-31 |
 | [青春バイブレーション](https://open.spotify.com/track/4oMONXO9F7VBU1HWnT3WSI) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [青春バイブレーション](https://open.spotify.com/album/4h5vaOShmmy2GxDczYpUrU) | 3:23 | 2026-04-07 |  |
 | [青春マグナムピンポンパール](https://open.spotify.com/track/6TxsDECyy1f9HyEcROQCpY) | [すてぃぎもろく](https://open.spotify.com/artist/3maOtCevILAXRauVeWhJ2D) | [突・すてぃぎもろく](https://open.spotify.com/album/2hCMF91M6ygukgJXtmnQkG) | 3:19 | 2025-07-22 | 2025-07-30 |
-| [青春ロックを歌って](https://open.spotify.com/track/4juk9NccL5xc90oDF5kBr3) | [Fish and Lips](https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J) | [青春ロックを歌って](https://open.spotify.com/album/5IaqpvPwUUuuHyEu9ERKq9) | 4:34 | 2024-03-12 |  |
+| [青春ロックを歌って](https://open.spotify.com/track/4juk9NccL5xc90oDF5kBr3) | [Fish and Lips](https://open.spotify.com/artist/79Vm1EXJ1Jk7CyYLTNGe5J) | [青春ロックを歌って](https://open.spotify.com/album/5IaqpvPwUUuuHyEu9ERKq9) | 4:34 | 2024-03-12 | 2026-07-06 |
 | [青春病](https://open.spotify.com/track/4EwKtJQT2ZHKzECGH3EjLx) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [青春病](https://open.spotify.com/album/4L6znWirdFX9BDIsaSi9Fb) | 5:21 | 2024-04-23 | 2024-05-08 |
 | [青空](https://open.spotify.com/track/1iBGMFMIZ3JerD7tAFPxPJ) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [青空](https://open.spotify.com/album/2lzkVnmmTJeAfRgijw9SER) | 3:58 | 2025-06-11 | 2026-02-12 |
 | [非・家族](https://open.spotify.com/track/0RZNsCiGBqmer8pBNPFALM) | [物品販売](https://open.spotify.com/artist/3jS76RqAY0x19NmWbGhXV6) | [まごころ](https://open.spotify.com/album/1bQmP4qBUa6cS8JWj21Fuf) | 4:14 | 2025-10-14 | 2025-11-05 |

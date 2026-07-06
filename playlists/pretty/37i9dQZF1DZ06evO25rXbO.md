@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 
 > This is Gorillaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,855 likes - 49 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,246,999 likes - 49 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 35 | [Rock the House](https://open.spotify.com/track/0UQNHlrHiz19Htk7YTLVe5) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Del The Funky Homosapien](https://open.spotify.com/artist/0YsLR3SQd5QTXAhGIGX7cl) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 4:09 |
 | 36 | [Baby Queen](https://open.spotify.com/track/3FwCEB2BNFzWQ9rn4goCXZ) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:40 |
 | 37 | [Désolé \(feat\. Fatoumata Diawara\) \- Extended Version](https://open.spotify.com/track/7rhtPZkcGCWgA3kizGwXwO) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 5:33 |
-| 38 | [Ascension \(feat\. Vince Staples\)](https://open.spotify.com/track/2bBMODHVTXGwE2aZYfbgCt) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 2:35 |
+| 38 | [Broken](https://open.spotify.com/track/3THFKx88trZuOFlssVLJ5G) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:17 |
 | 39 | [5/4](https://open.spotify.com/track/5Q10MhatY5DkgBfbWUkRpN) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 2:42 |
-| 40 | [Broken](https://open.spotify.com/track/3THFKx88trZuOFlssVLJ5G) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:17 |
+| 40 | [Ascension \(feat\. Vince Staples\)](https://open.spotify.com/track/2bBMODHVTXGwE2aZYfbgCt) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Humanz \(Deluxe\)](https://open.spotify.com/album/0NvirtaDCaZU5PAW1O5FDE) | 2:35 |
 | 41 | [The Valley of The Pagans \(feat\. Beck\)](https://open.spotify.com/track/3oP3Tfn86FRmxAGsV0TqCp) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Song Machine, Season One: Strange Timez \(Deluxe\)](https://open.spotify.com/album/5I9K0u8r52jp4Y2bF8mOaz) | 3:00 |
 | 42 | [WHISKEY \(RELEASE ME\) \(feat\. Gorillaz & Westside Gunn\)](https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 4:05 |
 | 43 | [Fire Flies](https://open.spotify.com/track/4A5FLaZI3Ni5eT0c9fqi8F) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:53 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 48 | [Doncamatic \(feat\. Daley\)](https://open.spotify.com/track/0OFQwUVOYXn4E8scJq0PAc) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [Doncamatic \(feat\. Daley\) \[The Joker Remix\]](https://open.spotify.com/album/1cOrqReo4cBhPQk10rfZ0W) | 3:22 |
 | 49 | [Magic City](https://open.spotify.com/track/6zGTjEZ2zpLbl5Ij7vzTsi) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:59 |
 
-Snapshot ID: `akb7gAAAAAC4QV3Rst9gSqcT/MTxV4NO`
+Snapshot ID: `akhNAAAAAABF0GBr5y5JNZmTIKrcZxQY`

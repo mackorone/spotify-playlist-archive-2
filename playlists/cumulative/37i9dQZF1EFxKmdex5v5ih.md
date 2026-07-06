@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-558 songs - 1 day 6 hr 36 min
+560 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,8 @@
 | [Marry Me \- Ballad](https://open.spotify.com/track/70h2rOY9K2UbTzvGNun6XK) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:33 | 2023-06-22 |  |
 | [Marry Me \- Kat & Bastian Duet](https://open.spotify.com/track/7wCqBjOdJ9Gk0OtNVnRB0W) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 2:37 | 2022-10-20 |  |
 | [Marry Me Ballad \- Remix](https://open.spotify.com/track/6LvbXCIGTOV6VYiQdlMKU6) | [Dj Cumbio](https://open.spotify.com/artist/0OABlQJBw7zrHMtRUBTXHz), [Reggaeton Latino](https://open.spotify.com/artist/3sG7WHWEWaSVehXJRj7t4n), [Reggaetone](https://open.spotify.com/artist/3RXH1tv1HagN5maL2HfoVD) | [Melancólicos Anónimos](https://open.spotify.com/album/111St1caDdkEyQeOqyFEpH) | 2:38 | 2022-12-15 | 2023-06-23 |
-| [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 | 2026-05-22 |  |
+| [Material Lover](https://open.spotify.com/track/2NT5EOtSEOrjfisvwmSv5S) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Devil Wears Prada 2 \(Music From The Motion Picture\)](https://open.spotify.com/album/5FKnRUB5lt7z5ac1lmu3BE) | 2:58 | 2026-05-22 | 2026-07-06 |
+| [Material Lover \- from The Devil Wears Prada 2 Original Motion Picture](https://open.spotify.com/track/2aQcGu5C6qFcicPsaywTEK) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor \(Deluxe\)](https://open.spotify.com/album/2EAbXVmQUrylFiXVSQp6TJ) | 2:58 | 2026-07-05 |  |
 | [Maybe I Am](https://open.spotify.com/track/44nX7Y9AgkHyinw8RSXOgP) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:44 | 2024-04-04 |  |
 | [Maybe It's](https://open.spotify.com/track/0ONBkp9RTEx4VgVFO10R2T) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Maybe It's](https://open.spotify.com/album/72hP8c5fmEm0Zaa9L0Urqx) | 1:06 | 2025-11-13 |  |
 | [Mean It](https://open.spotify.com/track/3uc8AGNL0KbvISIrjnfRvN) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:52 | 2021-12-27 | 2022-11-18 |
@@ -512,7 +513,8 @@
 | [The Story Never Ends](https://open.spotify.com/track/2hTcD5aTYlQoTT76KofQam) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:49 | 2022-11-02 | 2024-10-24 |
 | [The Story Never Ends](https://open.spotify.com/track/3u5bTqHMM1P34ZkbwzdckV) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:49 | 2021-12-27 | 2022-11-03 |
 | [The Story Never Ends](https://open.spotify.com/track/6I6lwAR8HMDQwltRcRJOtg) | [LAUV](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/2iIqqSVeH04ytD0DIWrrA6) | 3:49 | 2024-10-23 |  |
-| [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 | 2026-03-19 |  |
+| [The Visitor](https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [The Visitor](https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60) | 3:48 | 2026-03-19 | 2026-07-06 |
+| [The Visitor](https://open.spotify.com/track/4wfIW1OLIqejwmBYG1LhCl) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:48 | 2026-07-05 |  |
 | [Things \(Things\)](https://open.spotify.com/track/75WmIlFJNQcdnbUBNiuemB) | [The Cheap Soap](https://open.spotify.com/artist/5kWpxzYuRo2QbrSkh1KwRx) | [I Was and I Did](https://open.spotify.com/album/7v1qW0bkIIbpOH9KZ135Wi) | 1:33 | 2022-12-15 | 2023-12-14 |
 | [Think of Me](https://open.spotify.com/track/2Wh9f0mW2IaJLgU4zj9bdM) | [HARIZ](https://open.spotify.com/artist/2bhndespnMFNIut7yIlThU) | [Reminisce](https://open.spotify.com/album/6PG9WY2lqwsESkwuvxr4Qo) | 3:07 | 2021-12-27 | 2022-10-19 |
 | [Think of Me](https://open.spotify.com/track/3STEusKGtRFiQdVQfAdNik) | [HARIZ](https://open.spotify.com/artist/2bhndespnMFNIut7yIlThU) | [Reminisce](https://open.spotify.com/album/2Jzx2YNhAFk8db6cKjWPub) | 3:07 | 2022-10-18 |  |

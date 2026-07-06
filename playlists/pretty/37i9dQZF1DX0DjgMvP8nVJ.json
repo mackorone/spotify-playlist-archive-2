@@ -1,6 +1,6 @@
 {
   "description": "Press play on the ultimate Sims playlist: iconic tracks that will inspire you to unleash your imagination & creativity.",
-  "num_followers": 33444,
+  "num_followers": 33455,
   "original_name": "The Sims Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "prom dress",
-      "url": "https://open.spotify.com/track/2u4XZR5A8cRPTPxBLJbAFC"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Future History (Deluxe Edition)",
         "url": "https://open.spotify.com/album/31tCg5RXhY5jpagfCPcQa2"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 206080,
       "name": "Don't Wanna Go Home",
       "url": "https://open.spotify.com/track/1r3myKmjWoOqRip99CmSj1"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "prom dress",
+      "url": "https://open.spotify.com/track/2u4XZR5A8cRPTPxBLJbAFC"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 200583,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "White Feathers",
         "url": "https://open.spotify.com/album/52koatNHePHRWEmmkP0z2Z"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 221520,
       "name": "Too Shy",
       "url": "https://open.spotify.com/track/6WEBIVqiEsevfgJefTyuQQ"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 200583,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Just The Beginning",
-        "url": "https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex"
-      },
-      "artists": [
-        {
-          "name": "Grace VanderWaal",
-          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
-        }
-      ],
-      "duration_ms": 172493,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Fancy Footwork",
         "url": "https://open.spotify.com/album/3nfMATNPBENRMg1sV88nNF"
       },
@@ -907,18 +891,18 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "EUSEXUA",
-        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+        "name": "Just The Beginning",
+        "url": "https://open.spotify.com/album/55LUvkPPMUgwQVmypS3Wex"
       },
       "artists": [
         {
-          "name": "FKA twigs",
-          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
         }
       ],
-      "duration_ms": 197346,
-      "name": "Perfect Stranger",
-      "url": "https://open.spotify.com/track/2VeCDMFJMPg6S4P2EKRnyX"
+      "duration_ms": 172493,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/4XrvRf68c9H4orZZ9KoldQ"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -935,6 +919,22 @@
       "duration_ms": 174033,
       "name": "Bom Bom - Radio Edit",
       "url": "https://open.spotify.com/track/0d5f6gzzW1Pgx9uJsLrSDP"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "EUSEXUA",
+        "url": "https://open.spotify.com/album/3o1TOhMkU5FFMSJMDhXfdF"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Perfect Stranger",
+      "url": "https://open.spotify.com/track/2VeCDMFJMPg6S4P2EKRnyX"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Bishop Briggs",
-        "url": "https://open.spotify.com/album/3mN4QrBX6pOg0LcdhzT5Bi"
-      },
-      "artists": [
-        {
-          "name": "Bishop Briggs",
-          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
-        }
-      ],
-      "duration_ms": 243213,
-      "name": "The Way I Do",
-      "url": "https://open.spotify.com/track/4HXmYG1IR5xduvxTnr7fAp"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "55",
         "url": "https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 248506,
       "name": "Classic (feat. POWERS)",
       "url": "https://open.spotify.com/track/42TrdbXsmLybxUGJczYbrJ"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Bishop Briggs",
+        "url": "https://open.spotify.com/album/3mN4QrBX6pOg0LcdhzT5Bi"
+      },
+      "artists": [
+        {
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
+        }
+      ],
+      "duration_ms": 243213,
+      "name": "The Way I Do",
+      "url": "https://open.spotify.com/track/4HXmYG1IR5xduvxTnr7fAp"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Touchin\u2019 (The Pack)",
-        "url": "https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        }
-      ],
-      "duration_ms": 193797,
-      "name": "Touchin\u2019",
-      "url": "https://open.spotify.com/track/0yzVYUHAAu9AQdrp9s7vGk"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Playing the Angel (Deluxe)",
         "url": "https://open.spotify.com/album/57o8ROknLhGAxhiLKTOwSt"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 229666,
       "name": "Suffer Well",
       "url": "https://open.spotify.com/track/1tG9Hnpx1kfsHmyafOl0pF"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Touchin\u2019 (The Pack)",
+        "url": "https://open.spotify.com/album/5HfNizUWZsXJvHE2pMrzmw"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "duration_ms": 193797,
+      "name": "Touchin\u2019",
+      "url": "https://open.spotify.com/track/0yzVYUHAAu9AQdrp9s7vGk"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Lush",
-        "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 295333,
-      "name": "Pristine",
-      "url": "https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Dirty Work",
         "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 181400,
       "name": "Please Don't Say You Love Me",
       "url": "https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Lush",
+        "url": "https://open.spotify.com/album/2ZlrWJ4Ev4DhG6mRo5h1AP"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 295333,
+      "name": "Pristine",
+      "url": "https://open.spotify.com/track/5JX6gZ5mOASumPrU1JbfbV"
     },
     {
       "added_at": "2026-02-13 19:31:47",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-02-13 19:31:47",
       "album": {
-        "name": "Ring Pop",
-        "url": "https://open.spotify.com/album/2QnV02lsqnLhqMnewjcAsH"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Ring Pop",
-      "url": "https://open.spotify.com/track/7AN15jOombgNojiAQ5IUG0"
-    },
-    {
-      "added_at": "2026-02-13 19:31:47",
-      "album": {
         "name": "Last Young Renegade",
         "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 224946,
       "name": "Good Times",
       "url": "https://open.spotify.com/track/3aAoy02NwrmZcqXYYjqNh2"
+    },
+    {
+      "added_at": "2026-02-13 19:31:47",
+      "album": {
+        "name": "Ring Pop",
+        "url": "https://open.spotify.com/album/2QnV02lsqnLhqMnewjcAsH"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Ring Pop",
+      "url": "https://open.spotify.com/track/7AN15jOombgNojiAQ5IUG0"
     },
     {
       "added_at": "2026-02-13 19:31:47",

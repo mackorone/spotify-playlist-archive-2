@@ -1738,7 +1738,7 @@
       ],
       "date_added": "2025-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 257533,
       "name": "Candide",
       "url": "https://open.spotify.com/track/7tehNfvoGYl42Ynn5WfCBh"
@@ -6726,7 +6726,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 153293,
       "name": "No Shame",
       "url": "https://open.spotify.com/track/44a2Gxxj1yZB71GdGzJeJJ"
@@ -8254,7 +8254,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 166240,
       "name": "She's Wild",
       "url": "https://open.spotify.com/track/5ZKhIs4HWm2yAajUxIbrga"
@@ -8460,6 +8460,24 @@
       "duration_ms": 184848,
       "name": "So Many Bullets",
       "url": "https://open.spotify.com/track/29VkXvAbzDqh345Q447uoZ"
+    },
+    {
+      "album": {
+        "name": "DAEGU",
+        "url": "https://open.spotify.com/album/7AGcHJHIrz5etIxHu6bgP1"
+      },
+      "artists": [
+        {
+          "name": "LIZZA BAI",
+          "url": "https://open.spotify.com/artist/4VjBHMBhXxlSzR7LPUMXg3"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181013,
+      "name": "SO OBVIOUS",
+      "url": "https://open.spotify.com/track/7v3WCAQhmL2G6TUlpeS4Tm"
     },
     {
       "album": {

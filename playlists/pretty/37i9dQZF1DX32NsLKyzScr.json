@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2595539,
+  "num_followers": 2595371,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,30 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
+        "name": "It Feels So Good",
+        "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
+      },
+      "artists": [
+        {
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Sonique",
+          "url": "https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI"
+        }
+      ],
+      "duration_ms": 160973,
+      "name": "It Feels So Good",
+      "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
         "name": "Makina Time",
         "url": "https://open.spotify.com/album/2GglSuNrhoPfB0lFSoho5G"
       },
@@ -183,30 +207,6 @@
       "duration_ms": 130090,
       "name": "Makina Time",
       "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
-        "name": "It Feels So Good",
-        "url": "https://open.spotify.com/album/5DkTpze7FxkVlsNgD3jKYO"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Sonique",
-          "url": "https://open.spotify.com/artist/5xtqw2B8z8JGfDYi2eAZHI"
-        }
-      ],
-      "duration_ms": 160973,
-      "name": "It Feels So Good",
-      "url": "https://open.spotify.com/track/7xFy1kfgGWJWTpx1vSHBLi"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -611,6 +611,26 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        }
+      ],
+      "duration_ms": 245264,
+      "name": "Bizarre",
+      "url": "https://open.spotify.com/track/15RhivSFgiIWYugV2FqV5I"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
         "name": "A New Day (feat. Celine Dion)",
         "url": "https://open.spotify.com/album/0hWZe6IdHgUji11F12nVY0"
       },
@@ -739,22 +759,26 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
-        "name": "ODYSSEY",
-        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
+        "name": "Human (Feat. John Martin)",
+        "url": "https://open.spotify.com/album/4FOIeI7EpeHdrQxKSxKc8s"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Don't Want Your Love",
-      "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
+      "duration_ms": 199858,
+      "name": "Human (Feat. John Martin)",
+      "url": "https://open.spotify.com/track/426LH4RVp0WvxX69NQCTGl"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -783,22 +807,22 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
-        "name": "CONFESSIONS II",
-        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+        "name": "ODYSSEY",
+        "url": "https://open.spotify.com/album/1Y2uYmUgox5SpSMHXu8iPC"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
         },
         {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         }
       ],
-      "duration_ms": 245264,
-      "name": "Bizarre",
-      "url": "https://open.spotify.com/track/15RhivSFgiIWYugV2FqV5I"
+      "duration_ms": 192000,
+      "name": "Don't Want Your Love",
+      "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -899,30 +923,6 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
-        "name": "Human (Feat. John Martin)",
-        "url": "https://open.spotify.com/album/4FOIeI7EpeHdrQxKSxKc8s"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 199858,
-      "name": "Human (Feat. John Martin)",
-      "url": "https://open.spotify.com/track/426LH4RVp0WvxX69NQCTGl"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
         "name": "What's a Girl to Do in '25",
         "url": "https://open.spotify.com/album/2K9OkH3GAXoussmUIZHAfr"
       },
@@ -935,26 +935,6 @@
       "duration_ms": 148047,
       "name": "What's a Girl to Do in '25",
       "url": "https://open.spotify.com/track/3OgdqZIgGIqusstV9IqX6p"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
-        "name": "Feels Like Us",
-        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
-      },
-      "artists": [
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
-          "name": "GiGi Grombacher",
-          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
-        }
-      ],
-      "duration_ms": 234545,
-      "name": "Feels Like Us",
-      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -979,22 +959,22 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
-        "name": "FADE",
-        "url": "https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU"
+        "name": "Feels Like Us",
+        "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
         },
         {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+          "name": "GiGi Grombacher",
+          "url": "https://open.spotify.com/artist/4F18x5o9JJ3TbuXfyry04n"
         }
       ],
-      "duration_ms": 178205,
-      "name": "FADE",
-      "url": "https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi"
+      "duration_ms": 234545,
+      "name": "Feels Like Us",
+      "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -1015,6 +995,26 @@
       "duration_ms": 195727,
       "name": "Whatever Turns You On",
       "url": "https://open.spotify.com/track/7cvWEBFsf7JvEQf7RzATSk"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
+        "name": "FADE",
+        "url": "https://open.spotify.com/album/5n4l9QpvnozMdhrdxRQIHU"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 178205,
+      "name": "FADE",
+      "url": "https://open.spotify.com/track/1ZpzOXJwRbvKgYK2XBVRfi"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
-        "name": "Going Existential In The Rave",
-        "url": "https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v"
-      },
-      "artists": [
-        {
-          "name": "KI/KI",
-          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
-        }
-      ],
-      "duration_ms": 187297,
-      "name": "Going Existential In The Rave",
-      "url": "https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
         "name": "Roses (feat. Richard Judge)",
         "url": "https://open.spotify.com/album/3mgLrsA1pHfVWzvD2jc3bR"
       },
@@ -1331,6 +1315,22 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
+        "name": "Going Existential In The Rave",
+        "url": "https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v"
+      },
+      "artists": [
+        {
+          "name": "KI/KI",
+          "url": "https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS"
+        }
+      ],
+      "duration_ms": 187297,
+      "name": "Going Existential In The Rave",
+      "url": "https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
         "name": "Annihilation",
         "url": "https://open.spotify.com/album/6y9alfpegbSRAG98P91Nk0"
       },
@@ -1347,22 +1347,6 @@
       "duration_ms": 187384,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/42qH7RSRQBvrMiKfKNkUto"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
-        "name": "Is It Over Now?",
-        "url": "https://open.spotify.com/album/05d5EqS6Ti2DXSO8WfAkbv"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 219971,
-      "name": "Is It Over Now?",
-      "url": "https://open.spotify.com/track/7a1HZI7drZ3Rn0EYGAnrgC"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -1387,6 +1371,22 @@
       "duration_ms": 188160,
       "name": "Cola - ARTBAT Remix",
       "url": "https://open.spotify.com/track/58caScGqKTQIDDJQ7QnJU8"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
+        "name": "Is It Over Now?",
+        "url": "https://open.spotify.com/album/05d5EqS6Ti2DXSO8WfAkbv"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 219971,
+      "name": "Is It Over Now?",
+      "url": "https://open.spotify.com/track/7a1HZI7drZ3Rn0EYGAnrgC"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -2031,6 +2031,50 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
+        "name": "Gravity (feat. SACHA)",
+        "url": "https://open.spotify.com/album/79aF8LZe8qAienSve3qjTo"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "duration_ms": 180849,
+      "name": "Gravity (feat. SACHA)",
+      "url": "https://open.spotify.com/track/05vUCrcaRvSjLzb0WbmVDk"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/3CEENecoQXHFjOxgWpZVgE"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        },
+        {
+          "name": "Glowal",
+          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
+        }
+      ],
+      "duration_ms": 172900,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/64hm5dK5l4NMdj4iCofo83"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
         "name": "Finding Home",
         "url": "https://open.spotify.com/album/3CRJaVRt0ni52xagPsekyk"
       },
@@ -2055,26 +2099,6 @@
       "duration_ms": 300487,
       "name": "Magic",
       "url": "https://open.spotify.com/track/3q8D7O6GOuiNMBX8SJSt8K"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/3CEENecoQXHFjOxgWpZVgE"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        },
-        {
-          "name": "Glowal",
-          "url": "https://open.spotify.com/artist/4XCU9tk7hogxz1SRTvVXLJ"
-        }
-      ],
-      "duration_ms": 172900,
-      "name": "Rollin'",
-      "url": "https://open.spotify.com/track/64hm5dK5l4NMdj4iCofo83"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -2183,30 +2207,6 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
-        "name": "Gravity (feat. SACHA)",
-        "url": "https://open.spotify.com/album/79aF8LZe8qAienSve3qjTo"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
-        }
-      ],
-      "duration_ms": 180849,
-      "name": "Gravity (feat. SACHA)",
-      "url": "https://open.spotify.com/track/05vUCrcaRvSjLzb0WbmVDk"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
         "name": "Listen To Me",
         "url": "https://open.spotify.com/album/29Rs2iU1Zd71LKHIwlupC8"
       },
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
-        "name": "Identity",
-        "url": "https://open.spotify.com/album/7d6N7Y0s4UpsklTqRorhsk"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 157847,
-      "name": "Abraza",
-      "url": "https://open.spotify.com/track/5LTG0kxIlsJp6n5QIUKBo2"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
         "name": "It's Chemical",
         "url": "https://open.spotify.com/album/0VSsuCtELOjWFCMPK119DL"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 306500,
       "name": "It's Chemical",
       "url": "https://open.spotify.com/track/6httD7xB1MLxBcSw7q4fVD"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
+        "name": "Identity",
+        "url": "https://open.spotify.com/album/7d6N7Y0s4UpsklTqRorhsk"
+      },
+      "artists": [
+        {
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
+        }
+      ],
+      "duration_ms": 157847,
+      "name": "Abraza",
+      "url": "https://open.spotify.com/track/5LTG0kxIlsJp6n5QIUKBo2"
     },
     {
       "added_at": "2026-07-03 04:00:42",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2026-07-03 04:00:42",
       "album": {
+        "name": "Smalltown Boy",
+        "url": "https://open.spotify.com/album/1hwUID1QuiH75DSxJJhnwW"
+      },
+      "artists": [
+        {
+          "name": "Koti\u0113r",
+          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
+        }
+      ],
+      "duration_ms": 204720,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV"
+    },
+    {
+      "added_at": "2026-07-03 04:00:42",
+      "album": {
         "name": "Activate",
         "url": "https://open.spotify.com/album/6cDptxdkyy1agz2vOXuyiZ"
       },
@@ -2419,22 +2435,6 @@
       "duration_ms": 198780,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/6KHSkuZcQS28nxmI8PFwbn"
-    },
-    {
-      "added_at": "2026-07-03 04:00:42",
-      "album": {
-        "name": "Smalltown Boy",
-        "url": "https://open.spotify.com/album/1hwUID1QuiH75DSxJJhnwW"
-      },
-      "artists": [
-        {
-          "name": "Koti\u0113r",
-          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
-        }
-      ],
-      "duration_ms": 204720,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV"
     },
     {
       "added_at": "2026-07-03 04:00:42",

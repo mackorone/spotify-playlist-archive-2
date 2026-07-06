@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,371 songs - 9 day 9 hr 21 min
+3,372 songs - 9 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -879,6 +879,7 @@
 | [English Blood // American Heartache](https://open.spotify.com/track/42Sz4aU1vA5FejFfO5GzLy) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/5eJl0AxsyDIyO5B1tgET3D) | 3:16 | 2023-03-24 | 2023-04-07 |
 | [English Blood // American Heartache](https://open.spotify.com/track/7gVWrhosuThCLRM8CarekB) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:16 | 2023-03-31 | 2023-04-09 |
 | [Enigma](https://open.spotify.com/track/0dmnZibUczyCvvFRFGPeB8) | [The Covers Duo](https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G) | [Irrealidad](https://open.spotify.com/album/5E7WI1l2GkWq61P6JOesPp) | 1:32 | 2025-05-16 | 2025-05-24 |
+| [Enmiserate](https://open.spotify.com/track/30qxCcubEI3NgTj39UUh4c) | [Ostraca](https://open.spotify.com/artist/12QhXwxSPz6xu42dDkDuCV) | [Thread](https://open.spotify.com/album/78Ymq0pnIrAt7O1ueJFLA9) | 4:32 | 2026-07-03 |  |
 | [Enough Is Enough](https://open.spotify.com/track/0zX1Xlq2JInnH1HA7mRcFF) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Enough Is Enough](https://open.spotify.com/album/3nZruIg1goI1WY4MCX0hDQ) | 2:49 | 2025-04-04 | 2025-04-28 |
 | [Enter Sandman](https://open.spotify.com/track/5n9saQtKvEnGKfbGStiMNF) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Enter Sandman EP](https://open.spotify.com/album/66s72H4sebolFClzRV107Z) | 5:12 | 2023-05-12 | 2023-05-20 |
 | [Entropía](https://open.spotify.com/track/2CBG4JM0DIGZOBOHsVffYF) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Entropía](https://open.spotify.com/album/00JXQ6363PciiJnJhwf9gv) | 3:10 | 2024-11-08 | 2024-11-10 |
@@ -1134,7 +1135,7 @@
 | [Gracias a la vida \- Remastering 2025](https://open.spotify.com/track/0viHtxnb62AOUx7c38nUVr) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Suiza 1980 \(Remastering 2025\)](https://open.spotify.com/album/0s7hMXVt45IlgQpJMJczlB) | 5:19 | 2025-12-19 | 2026-01-15 |
 | [Gravity](https://open.spotify.com/track/0KrlBjdNgEYFFuwlormJqV) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Gravity](https://open.spotify.com/album/3VcSdAEkHNPyI8VVNGknpw) | 4:03 | 2025-01-10 | 2025-01-18 |
 | [Gravity](https://open.spotify.com/track/1vMMwDCd1Hnb91a3x9MdfX) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Sem Vox](https://open.spotify.com/artist/4j6FBtbchyfFhBrCw9eT45), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Gravity](https://open.spotify.com/album/5XjuB8WjardHuZpaMy6LXP) | 4:45 | 2024-11-08 | 2024-11-17 |
-| [Greater Darkness \(Something Worse\)](https://open.spotify.com/track/1aC0phmSc14m6KAj73wrpI) | [Ostraca](https://open.spotify.com/artist/12QhXwxSPz6xu42dDkDuCV) | [Thread](https://open.spotify.com/album/78Ymq0pnIrAt7O1ueJFLA9) | 8:23 | 2026-06-26 |  |
+| [Greater Darkness \(Something Worse\)](https://open.spotify.com/track/1aC0phmSc14m6KAj73wrpI) | [Ostraca](https://open.spotify.com/artist/12QhXwxSPz6xu42dDkDuCV) | [Thread](https://open.spotify.com/album/78Ymq0pnIrAt7O1ueJFLA9) | 8:23 | 2026-06-26 | 2026-07-06 |
 | [Greenwich \- Daniel Avery Interpolation](https://open.spotify.com/track/3H7wG9CzVXdiYcarxBnYb1) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B), [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Greenwich \(Daniel Avery Interpolation\)](https://open.spotify.com/album/2ZoxawxdHAQSJeReB2cveV) | 4:30 | 2023-08-18 | 2023-09-10 |
 | [Gris](https://open.spotify.com/track/5mhBRIDs3aNvg4WZnhRMYy) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Gris](https://open.spotify.com/album/4DNxSEEFQ0MdDb1vFZsdpG) | 3:09 | 2023-03-03 | 2023-03-25 |
 | [Gritar!](https://open.spotify.com/track/1IjcVYZ8L94thjQTMKOTPp) | [The Covers Duo](https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G) | [Irrealidad](https://open.spotify.com/album/5E7WI1l2GkWq61P6JOesPp) | 3:34 | 2025-05-23 | 2025-06-07 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6m3hSTUS0vdJhCUl1EBPXA">Abby Keen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-66 songs - 3 hr 16 min
+67 songs - 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Maria Elegante \(feat\. Afro B\)](https://open.spotify.com/track/2OU6RxOSA8n7nDpg3gF3aX) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:06 | 2025-05-02 |  |
 | [Melt Away](https://open.spotify.com/track/2cZtazNq0IRRFymK7UaRa0) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [To\. X \- The 5th Mini Album](https://open.spotify.com/album/0VciVDVU6NoqtQ0WAIlTmD) | 3:16 | 2025-05-02 |  |
 | [MIA](https://open.spotify.com/track/5tZRnfOdPZEc3mpXbw8gvq) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:40 | 2025-05-02 |  |
+| [Natural Disaster](https://open.spotify.com/track/6n6KnZSm6wa3I7Vd5ptZXG) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/7oxvUjBnPYJAuBFMrTwNTw) | 3:22 | 2026-07-05 |  |
 | [Naturally](https://open.spotify.com/track/4FNeywK8xKD0SaIpP7TxtA) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [333 \(Deluxe\)](https://open.spotify.com/album/4OQbVJxDPdsYDQo7KHYmyz) | 3:14 | 2025-05-02 | 2025-12-20 |
 | [Naturally \- Bonus Track](https://open.spotify.com/track/5xqcJAWgolCliTJRS7bwps) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [333 \(Deluxe\)](https://open.spotify.com/album/4cogLi0G1CHWTHCdrU9ujy) | 3:14 | 2025-12-19 |  |
 | [No Audience](https://open.spotify.com/track/1rlgQ2MPauN9eeADEJtQvg) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 2:48 | 2026-02-22 | 2026-03-01 |

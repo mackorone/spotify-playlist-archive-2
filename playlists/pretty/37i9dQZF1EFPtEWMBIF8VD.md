@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPtEWMBIF8VD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6m3hSTUS0vdJhCUl1EBPXA">Abby Keen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119 likes - 54 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 119 likes - 55 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,20 +47,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPtEWMBIF8VD.md) - [plain]
 | 37 | [Amor Real \- Holiday Song](https://open.spotify.com/track/6532nOWtuYIzYaN44pcrHy) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Amor Real \(Holiday Song\)](https://open.spotify.com/album/0X4nxSqynfCpG9LMJ9jK13) | 3:05 |
 | 38 | [Symphony](https://open.spotify.com/track/1V5YRAjAJWt7snPQ96hP2R) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:41 |
 | 39 | [Close To You](https://open.spotify.com/track/7JOczAqSpp8pPBhOqjSnOQ) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:54 |
-| 40 | [You & Me](https://open.spotify.com/track/6HNtEMFp2mZHkTG7GGuioL) | [Adam Rom](https://open.spotify.com/artist/4oOcOSicmBDeT6JfIWnCbf), [àB](https://open.spotify.com/artist/0Ki8IJ8C17peRsgYPa78q1) | [You & Me](https://open.spotify.com/album/2XZcqQhk8hmrMmBMGsooID) | 2:31 |
-| 41 | [Pieces](https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Pieces](https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2) | 2:58 |
-| 42 | [Patterns](https://open.spotify.com/track/68rtpOOq2FWJcqEeuPBDJf) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:04 |
-| 43 | [Daylight](https://open.spotify.com/track/5gFQ0Gt2IO9qsf5z8LClso) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:31 |
-| 44 | [Glass](https://open.spotify.com/track/4DHMDRYAzaFq3k1STg2qSb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:18 |
-| 45 | [Fever Dream](https://open.spotify.com/track/2LMCKkoGvsTlcmWuHDXMUb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 1:44 |
-| 46 | [Heaven](https://open.spotify.com/track/47b7dsWV4a784Iv4wAI6GH) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [My Ego Told Me To](https://open.spotify.com/album/18suCTva38Pf3wLBR0fLI2) | 3:04 |
-| 47 | [Higher](https://open.spotify.com/track/7fEIwu2ldGCYeKYIAjT7qa) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 2:53 |
-| 48 | [MIA](https://open.spotify.com/track/5tZRnfOdPZEc3mpXbw8gvq) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:40 |
-| 49 | [Window](https://open.spotify.com/track/6IoELIfx2s5I7z6UZEhW9O) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:23 |
-| 50 | [Stranger Phase](https://open.spotify.com/track/2ptNTumjhijReIvfU7EYLD) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 2:55 |
-| 51 | [Rosas](https://open.spotify.com/track/5foNspX05ryNh2LqKTz4nn) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:02 |
-| 52 | [Speak Up](https://open.spotify.com/track/2JlFrcyUSZQw0iX6DK1pK5) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:07 |
-| 53 | [Evolution](https://open.spotify.com/track/4CYY2tnLIZbULH7338WKk0) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Evolution](https://open.spotify.com/album/6wFWz9PjdvA0V6JSiyVDAe) | 3:15 |
-| 54 | [Are you even real](https://open.spotify.com/track/4VpHBRvZAbqTLNcQDN8yyD) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Babies Go Teddy Swims](https://open.spotify.com/album/192QslwmJb0HL7Pr1Cztsp) | 2:26 |
+| 40 | [Natural Disaster](https://open.spotify.com/track/6n6KnZSm6wa3I7Vd5ptZXG) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/7oxvUjBnPYJAuBFMrTwNTw) | 3:22 |
+| 41 | [You & Me](https://open.spotify.com/track/6HNtEMFp2mZHkTG7GGuioL) | [Adam Rom](https://open.spotify.com/artist/4oOcOSicmBDeT6JfIWnCbf), [àB](https://open.spotify.com/artist/0Ki8IJ8C17peRsgYPa78q1) | [You & Me](https://open.spotify.com/album/2XZcqQhk8hmrMmBMGsooID) | 2:31 |
+| 42 | [Pieces](https://open.spotify.com/track/1HYGM2aLGnfWdXF31ZNUOG) | [Carlina de Place](https://open.spotify.com/artist/3sH7pDSVIcvaR7AVOFeCiv) | [Pieces](https://open.spotify.com/album/5PT3pq9vG5gS1IQGfFXpH2) | 2:58 |
+| 43 | [Patterns](https://open.spotify.com/track/68rtpOOq2FWJcqEeuPBDJf) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:04 |
+| 44 | [Daylight](https://open.spotify.com/track/5gFQ0Gt2IO9qsf5z8LClso) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:31 |
+| 45 | [Glass](https://open.spotify.com/track/4DHMDRYAzaFq3k1STg2qSb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:18 |
+| 46 | [Fever Dream](https://open.spotify.com/track/2LMCKkoGvsTlcmWuHDXMUb) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 1:44 |
+| 47 | [Heaven](https://open.spotify.com/track/47b7dsWV4a784Iv4wAI6GH) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [My Ego Told Me To](https://open.spotify.com/album/18suCTva38Pf3wLBR0fLI2) | 3:04 |
+| 48 | [Higher](https://open.spotify.com/track/7fEIwu2ldGCYeKYIAjT7qa) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 2:53 |
+| 49 | [MIA](https://open.spotify.com/track/5tZRnfOdPZEc3mpXbw8gvq) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:40 |
+| 50 | [Window](https://open.spotify.com/track/6IoELIfx2s5I7z6UZEhW9O) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:23 |
+| 51 | [Stranger Phase](https://open.spotify.com/track/2ptNTumjhijReIvfU7EYLD) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/4MYuzqnlockAAmjoVA0orI) | 2:55 |
+| 52 | [Rosas](https://open.spotify.com/track/5foNspX05ryNh2LqKTz4nn) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [MILAMORES](https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri) | 2:02 |
+| 53 | [Speak Up](https://open.spotify.com/track/2JlFrcyUSZQw0iX6DK1pK5) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:07 |
+| 54 | [Evolution](https://open.spotify.com/track/4CYY2tnLIZbULH7338WKk0) | [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [Evolution](https://open.spotify.com/album/6wFWz9PjdvA0V6JSiyVDAe) | 3:15 |
+| 55 | [Are you even real](https://open.spotify.com/track/4VpHBRvZAbqTLNcQDN8yyD) | [Sweet Little Band](https://open.spotify.com/artist/7HBA3bLuJTLRvjK8NX9ZSy) | [Babies Go Teddy Swims](https://open.spotify.com/album/192QslwmJb0HL7Pr1Cztsp) | 2:26 |
 
-Snapshot ID: `AcV/MgAAAADSGWWt1n1g+swhUc5WKSdZ`
+Snapshot ID: `AcWE0gAAAAC6EHK8y7krxtHJZiR4o/12`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Young Lunya
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,964 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,978 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 | 49 | [Vunja Mifupa](https://open.spotify.com/track/7K8mLEAd81VYqre1tcIblb) | [Dogo Janja](https://open.spotify.com/artist/4Pd6QUnR8VFVlv6adtfQNS) | [Vunja Mifupa](https://open.spotify.com/album/4YqBhradRUXkoPjALgdmJU) | 3:19 |
 | 50 | [Nduki \(feat\. Dutchavelli\)](https://open.spotify.com/track/2fLXqKmxFQXZ5qcJVtBuCk) | [Young Lunya](https://open.spotify.com/artist/0xfpc94rTYCThCWDR5h3Ni), [dutchavelli](https://open.spotify.com/artist/2tPR06hLUvH5aIY3JXNIxY) | [Mbuzi](https://open.spotify.com/album/22lDZE5BEh0ZYMx0dPzx8j) | 3:21 |
 
-Snapshot ID: `AAAAAFuDiMVZIKlOZUw+lC2Y4Ug1JdnG`
+Snapshot ID: `AAAAANUGgA3y0vmapCJ+QAVzLC+ULers`

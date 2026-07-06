@@ -1,6 +1,6 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 518629,
+  "num_followers": 518639,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,26 @@
     {
       "added_at": "2026-07-03 07:19:50",
       "album": {
+        "name": "Dear.J",
+        "url": "https://open.spotify.com/album/5LpJWL1Z0abh7AbD2Pfbek"
+      },
+      "artists": [
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Dear.J (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi"
+    },
+    {
+      "added_at": "2026-07-03 07:19:50",
+      "album": {
         "name": "Sun And Moon",
         "url": "https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX"
       },
@@ -827,6 +847,22 @@
     {
       "added_at": "2026-07-03 07:19:50",
       "album": {
+        "name": "The night we parted",
+        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
+      },
+      "artists": [
+        {
+          "name": "ACOURVE",
+          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
+        }
+      ],
+      "duration_ms": 229665,
+      "name": "The night we parted",
+      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
+    },
+    {
+      "added_at": "2026-07-03 07:19:50",
+      "album": {
         "name": "Let Me Know",
         "url": "https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1"
       },
@@ -859,22 +895,6 @@
     {
       "added_at": "2026-07-03 07:19:50",
       "album": {
-        "name": "The night we parted",
-        "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
-      },
-      "artists": [
-        {
-          "name": "ACOURVE",
-          "url": "https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA"
-        }
-      ],
-      "duration_ms": 229665,
-      "name": "The night we parted",
-      "url": "https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM"
-    },
-    {
-      "added_at": "2026-07-03 07:19:50",
-      "album": {
         "name": "Like a Fool",
         "url": "https://open.spotify.com/album/6qUbqU5WUNc4tQuwdVsFMQ"
       },
@@ -891,22 +911,6 @@
       "duration_ms": 214426,
       "name": "Like a Fool",
       "url": "https://open.spotify.com/track/3yjlkUlDhK2XwLlOM6TO5Q"
-    },
-    {
-      "added_at": "2026-07-03 07:19:50",
-      "album": {
-        "name": "Do monsters love too?",
-        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
-      },
-      "artists": [
-        {
-          "name": "eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
-        }
-      ],
-      "duration_ms": 202773,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/6ktEI3U7Wnip2P5pEHchzq"
     }
   ],
   "unique_name": "Dalkom Cafe",

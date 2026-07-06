@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: C.O.F.F.I.N
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,526 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,522 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Andy's Place](https://open.spotify.com/track/7hVbWsIgLEUd5ghe5BJ0gN) | [Ra Ra Viper](https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId) | [Andy's Place](https://open.spotify.com/album/1FLtasaAsJAHr26wlfO9iy) | 3:12 |
 | 100 | [thaw](https://open.spotify.com/track/3vQvHwuINsERfh4vrYMzhn) | [Vera Ellen](https://open.spotify.com/artist/49x9krjMRVeW1rH4IQL43B) | [thaw](https://open.spotify.com/album/0JkqKOX4QvKH649IMNoIdN) | 4:09 |
 
-Snapshot ID: `AAAAAPAjKaE8MwXJm7F+h6TV7X0d5yCF`
+Snapshot ID: `AAAAAJtmJnkP47ihzpuX5cslBGjYx2F8`

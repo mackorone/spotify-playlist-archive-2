@@ -1,6 +1,6 @@
 {
   "description": "La orilla donde el indie se fusiona con la electr\u00f3nica.",
-  "num_followers": 85164,
+  "num_followers": 85170,
   "original_name": "Onda Indietr\u00f3nica",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,26 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Bonafide (feat. Chiiild)",
+        "url": "https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        },
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 177409,
+      "name": "Bonafide (feat. Chiiild)",
+      "url": "https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Pala",
         "url": "https://open.spotify.com/album/6cLebEH9n07yXZGQj5G7qG"
       },
@@ -991,22 +1011,26 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Bonafide (feat. Chiiild)",
-        "url": "https://open.spotify.com/album/03Zv5MqL3Gj3FjcMtQ69Hd"
+        "name": "Moving Men (Metronomy Remix)",
+        "url": "https://open.spotify.com/album/3hmJYSyGyqfpR1MO0sfGyB"
       },
       "artists": [
         {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
         },
         {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
         }
       ],
-      "duration_ms": 177409,
-      "name": "Bonafide (feat. Chiiild)",
-      "url": "https://open.spotify.com/track/5AHSYSrni7xVCzlanStMRf"
+      "duration_ms": 240853,
+      "name": "Moving Men - Metronomy Remix",
+      "url": "https://open.spotify.com/track/35jiqJNqZiCcSJ20t6y9zt"
     },
     {
       "added_at": "2024-06-28 21:13:36",
@@ -1059,30 +1083,6 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
-        "name": "Moving Men (Metronomy Remix)",
-        "url": "https://open.spotify.com/album/3hmJYSyGyqfpR1MO0sfGyB"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        },
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        },
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "Moving Men - Metronomy Remix",
-      "url": "https://open.spotify.com/track/35jiqJNqZiCcSJ20t6y9zt"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
         "name": "No Tengo Tiempo",
         "url": "https://open.spotify.com/album/3QYc5uXxdDb6NpSIl9FUyV"
       },
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-06-28 21:13:36",
       "album": {
+        "name": "Daikiri",
+        "url": "https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 237652,
+      "name": "Daikiri",
+      "url": "https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O"
+    },
+    {
+      "added_at": "2024-06-28 21:13:36",
+      "album": {
         "name": "Nunca Nunca",
         "url": "https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 171133,
       "name": "Nunca Nunca",
       "url": "https://open.spotify.com/track/01RidTuR638AM20oXDqD1u"
-    },
-    {
-      "added_at": "2024-06-28 21:13:36",
-      "album": {
-        "name": "Daikiri",
-        "url": "https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 237652,
-      "name": "Daikiri",
-      "url": "https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O"
     },
     {
       "added_at": "2024-06-28 21:13:36",

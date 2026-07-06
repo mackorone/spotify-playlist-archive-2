@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 16247,
+  "num_followers": 16249,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAALyGEwyEiVQtXkRFLdOdmn",
+  "snapshot_id": "akhNAAAAAADbttnBgPa5lcST0cxRj7zW",
   "tracks": [
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DADE",
-        "url": "https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 104415,
-      "name": "DADE",
-      "url": "https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "blame the chat",
         "url": "https://open.spotify.com/album/1yWAdXtJTkmV4LmLBhSMbY"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 139680,
       "name": "fine shyt (feat. BIA)",
       "url": "https://open.spotify.com/track/6XpoHMRgTntAML54Ok1Y5D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DADE",
+        "url": "https://open.spotify.com/album/3jGGA6GDxZDFdS1d9pTNad"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "duration_ms": 104415,
+      "name": "DADE",
+      "url": "https://open.spotify.com/track/5hMlbYg2lG4Z01YCzhS1Aj"
     },
     {
       "added_at": null,
@@ -839,6 +839,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "moo",
+        "url": "https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "jaded (feat. BIA)",
+      "url": "https://open.spotify.com/track/02Qel05Z1siC6oZUWjeP3p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "KIKI",
         "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
       },
@@ -863,42 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "moo",
-        "url": "https://open.spotify.com/album/5RHHriIsaO6PnS4DodUsat"
-      },
-      "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "jaded (feat. BIA)",
-      "url": "https://open.spotify.com/track/02Qel05Z1siC6oZUWjeP3p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
-      },
-      "artists": [
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 149497,
-      "name": "COVER GIRL",
-      "url": "https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BIANCA",
         "url": "https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV"
       },
@@ -919,6 +903,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "duration_ms": 149497,
+      "name": "COVER GIRL",
+      "url": "https://open.spotify.com/track/3l1DD2X1lomNhj6xO3ftcb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "nights and weekends",
         "url": "https://open.spotify.com/album/39jNh5MndiuFTNjDjuWnDQ"
       },
@@ -935,6 +935,26 @@
       "duration_ms": 137003,
       "name": "back it up",
       "url": "https://open.spotify.com/track/3I23NiySJ2e5j7T1s3Q6XL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BIANCA (Deluxe)",
+        "url": "https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "duration_ms": 106153,
+      "name": "FREE MASON",
+      "url": "https://open.spotify.com/track/0S4KuaDBFTA4v1R9jyWK6W"
     },
     {
       "added_at": null,
@@ -991,22 +1011,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIANCA (Deluxe)",
-        "url": "https://open.spotify.com/album/5DOdpNIiaOVADclW1K8dIN"
+        "name": "Distrito Federal",
+        "url": "https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt"
       },
       "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         },
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
         }
       ],
-      "duration_ms": 106153,
-      "name": "FREE MASON",
-      "url": "https://open.spotify.com/track/0S4KuaDBFTA4v1R9jyWK6W"
+      "duration_ms": 172078,
+      "name": "Vamos",
+      "url": "https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J"
     },
     {
       "added_at": null,
@@ -1051,46 +1075,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Distrito Federal",
-        "url": "https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt"
+        "name": "The End of an Era",
+        "url": "https://open.spotify.com/album/7lpONbbHTKDFk5nDpOgdFD"
       },
       "artists": [
         {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 172078,
-      "name": "Vamos",
-      "url": "https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Buy What U Want",
-        "url": "https://open.spotify.com/album/0vUKTBr1GMhIk96Ndhml1h"
-      },
-      "artists": [
-        {
-          "name": "Black Fortune",
-          "url": "https://open.spotify.com/artist/5kEIoxHSPy9qHJqgR2Ng5Z"
+          "name": "Iggy Azalea",
+          "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
         },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 227669,
-      "name": "Buy What U Want",
-      "url": "https://open.spotify.com/track/2DEIPMzcyKZ45YYYPZl4WC"
+      "duration_ms": 170899,
+      "name": "Is That Right",
+      "url": "https://open.spotify.com/track/3vbfLTQ4F7CvL3DGO1cdZF"
     }
   ],
   "unique_name": "This Is BIA",

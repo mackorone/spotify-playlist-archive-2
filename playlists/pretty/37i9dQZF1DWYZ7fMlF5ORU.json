@@ -1,6 +1,6 @@
 {
   "description": "A alegria do Senhor \u00e9 a vossa for\u00e7a! Entre no groove com o melhor do Soul, Funk e Disco Crist\u00e3o. Foto: Eli Soares",
-  "num_followers": 185749,
+  "num_followers": 185754,
   "original_name": "Grooveria Gospel",
   "owner": {
     "name": "Spotify",
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
         }
       ],
-      "duration_ms": 172480,
-      "name": "Deus Est\u00e1 No Controle",
-      "url": "https://open.spotify.com/track/6ycM0D2SAlyxwl40Y10AlZ"
+      "duration_ms": 333746,
+      "name": "Gra\u00e7a",
+      "url": "https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq"
         }
       ],
-      "duration_ms": 333746,
-      "name": "Gra\u00e7a",
-      "url": "https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy"
+      "duration_ms": 172480,
+      "name": "Deus Est\u00e1 No Controle",
+      "url": "https://open.spotify.com/track/6ycM0D2SAlyxwl40Y10AlZ"
     },
     {
       "added_at": "2026-06-12 03:01:51",
@@ -539,6 +539,22 @@
     {
       "added_at": "2026-06-12 03:01:51",
       "album": {
+        "name": "Celebre a Vida",
+        "url": "https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf"
+      },
+      "artists": [
+        {
+          "name": "Bira Santos",
+          "url": "https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM"
+        }
+      ],
+      "duration_ms": 244239,
+      "name": "Celebre a Vida",
+      "url": "https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr"
+    },
+    {
+      "added_at": "2026-06-12 03:01:51",
+      "album": {
         "name": "Sobre Deixar",
         "url": "https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 237553,
       "name": "Mulher de L\u00f3 (AO VIVO)",
       "url": "https://open.spotify.com/track/1SMPAwlsSjeD7KFIrjS9lH"
-    },
-    {
-      "added_at": "2026-06-12 03:01:51",
-      "album": {
-        "name": "Celebre a Vida",
-        "url": "https://open.spotify.com/album/1x2gRCT6IBNYvW3kZF4lSf"
-      },
-      "artists": [
-        {
-          "name": "Bira Santos",
-          "url": "https://open.spotify.com/artist/4ZjwX114IpBLzt2veAIZDM"
-        }
-      ],
-      "duration_ms": 244239,
-      "name": "Celebre a Vida",
-      "url": "https://open.spotify.com/track/0coa50eJz3TfUKpxAFtZGr"
     },
     {
       "added_at": "2026-06-12 03:01:51",

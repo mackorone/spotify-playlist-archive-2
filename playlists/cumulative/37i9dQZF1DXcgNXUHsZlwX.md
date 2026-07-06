@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-616 songs - 1 day 12 hr 42 min
+617 songs - 1 day 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,13 +473,14 @@
 | [Rendez\-vous \(feat\. Camélia Jordana\)](https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3), [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Rendez\-vous \(feat\. Camélia Jordana\)](https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO) | 3:07 | 2021-01-15 | 2025-11-23 |
 | [Reste](https://open.spotify.com/track/4WeVwfij7xULEKzgSIgVai) | [Marie\-Eve Roy](https://open.spotify.com/artist/6C5VPdM8WtyVyFLABlosbH) | [Multicolore](https://open.spotify.com/album/5ATljXNpfLwVJEEbFjLYh9) | 3:46 | 2021-01-16 | 2022-07-10 |
 | [Rien de plus grand](https://open.spotify.com/track/7gUwoDvVkAYMxP7YD2bLLi) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Rien de plus grand](https://open.spotify.com/album/2gU16GxJuVsePs44TreU2a) | 4:36 | 2021-09-25 | 2022-12-02 |
-| [River Run \(with Lila Dupont\)](https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN), [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [River Run \(with Lila Dupont\)](https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz) | 3:25 | 2025-08-14 |  |
+| [River Run \(with Lila Dupont\)](https://open.spotify.com/track/6BmtSb8Oz1zMEm6seCKLES) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN), [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [River Run \(with Lila Dupont\)](https://open.spotify.com/album/3mP1wzCsqHsfPMI3g8HOkz) | 3:25 | 2025-08-14 | 2026-07-06 |
 | [Rivière](https://open.spotify.com/track/3eachAKI0MMi7r3Yy6dyb8) | [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Rivière](https://open.spotify.com/album/3OVbzhaOuy15F3C0DWJtl8) | 3:17 | 2025-11-07 | 2026-02-07 |
 | [Rivières](https://open.spotify.com/track/626wM6eSCWmJZFHWpG2d1o) | [La Steppe](https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf) | [Rivières](https://open.spotify.com/album/6HsvXvPB9Effcti0YX9MEh) | 4:30 | 2026-05-22 |  |
 | [Roi de verre](https://open.spotify.com/track/14CyFLIXnaa5pmeTIjuTfy) | [Héron](https://open.spotify.com/artist/0994SGXLrE9OcemW3Q1S5F) | [Verger](https://open.spotify.com/album/7igLR1T9Wr56mbjWeF0zQe) | 3:33 | 2026-05-08 | 2026-05-30 |
 | [Rosier\-douleur](https://open.spotify.com/track/7iGASYouVLuiMggmfEB8MM) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [L'étrange pays](https://open.spotify.com/album/13hzRu1yUCald5cfl6xtsp) | 2:18 | 2021-01-15 |  |
 | [Rue de l'ours \- version du dimanche](https://open.spotify.com/track/67q2II41CAGAn3XAeE3qpa) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Rue de l'ours](https://open.spotify.com/album/77bSNDdVvlZALzMY2LKpsH) | 2:22 | 2021-06-13 | 2021-09-11 |
 | [Régate](https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u) | [Mathieu David Gagnon](https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR), [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [Régate](https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk) | 4:44 | 2026-01-30 |  |
+| [Rénos](https://open.spotify.com/track/4aCcNZIdgxiv3Wcykgb9gU) | [Kèthe Magané](https://open.spotify.com/artist/2xRd9oXpHOXzrED7JnyEZL) | [Rénos](https://open.spotify.com/album/2KtAOHXR5FajC5tDu0iH7t) | 2:58 | 2026-07-03 |  |
 | [Rêve américain](https://open.spotify.com/track/24QonUF5uozUXhAnU8UA9B) | [Jonathan Personne](https://open.spotify.com/artist/5Aw2a3f4H08TuXNR1OqtLy) | [Rêve américain](https://open.spotify.com/album/3sdQCZN0xkMIFa8Baokdj0) | 3:37 | 2026-05-01 | 2026-06-14 |
 | [S'il te plaît, fais\-moi danser](https://open.spotify.com/track/0y1UQYcAeo7YS1haA7pTCy) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Treize chansons démodées pour ceux qui ont le cœur abîmé](https://open.spotify.com/album/20xnLUc9BHbjhXi2uVbxrx) | 2:46 | 2026-01-30 | 2026-05-16 |
 | [Sagesse](https://open.spotify.com/track/6Lg74NbMBkG8mezUTNomyq) | [Patrick Prévost](https://open.spotify.com/artist/0dcJ5ddhY1kBbYM0990Wrf) | [Feu de shed](https://open.spotify.com/album/6Ro82MDllRMgOUMKihEtVf) | 4:04 | 2021-01-03\* | 2022-07-28 |

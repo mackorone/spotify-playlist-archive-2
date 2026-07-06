@@ -1,12 +1,12 @@
 {
   "description": "This is Chet Baker. The essential tracks, all in one playlist.",
-  "num_followers": 125789,
+  "num_followers": 125806,
   "original_name": "This Is Chet Baker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAABtv6Rkl0kuIwKfqsF0mDF3",
+  "snapshot_id": "akhNAAAAAAARuWyLJMaTZTx8C/OmPFz7",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 197426,
-      "name": "That Ole Devil Called Love",
-      "url": "https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG"
+      "duration_ms": 179573,
+      "name": "You're My Thrill",
+      "url": "https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi"
     },
     {
       "added_at": null,
@@ -196,25 +196,9 @@
           "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 179573,
-      "name": "You're My Thrill",
-      "url": "https://open.spotify.com/track/350exLbRdtTfhVRPgdmIWi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Funny Valentine: The Best Of Chet Baker",
-        "url": "https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 423573,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe"
+      "duration_ms": 197426,
+      "name": "That Ole Devil Called Love",
+      "url": "https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG"
     },
     {
       "added_at": null,
@@ -231,6 +215,22 @@
       "duration_ms": 305186,
       "name": "Everything Happens to Me",
       "url": "https://open.spotify.com/track/4Y5fyQ5fBysC32Na5sZT3J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Funny Valentine: The Best Of Chet Baker",
+        "url": "https://open.spotify.com/album/1N1slntg5Bz5fe9S5S1R3t"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 423573,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/2iUrcZcAuVIahQD0dg9HLe"
     },
     {
       "added_at": null,

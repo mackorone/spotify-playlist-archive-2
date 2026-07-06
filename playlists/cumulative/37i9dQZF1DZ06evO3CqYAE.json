@@ -1605,6 +1605,28 @@
     },
     {
       "album": {
+        "name": "Promise Keeper",
+        "url": "https://open.spotify.com/album/0AXYZMk19oDLs0iHZBCCHb"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 953130,
+      "name": "Promise Keeper",
+      "url": "https://open.spotify.com/track/7v7F2NAs359SCkFk5YBZEK"
+    },
+    {
+      "album": {
         "name": "The Cross: My Gaze",
         "url": "https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt"
       },

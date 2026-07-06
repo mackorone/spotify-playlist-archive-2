@@ -1,12 +1,12 @@
 {
   "description": "This is Boards of Canada. The essential tracks, all in one playlist.",
-  "num_followers": 29185,
+  "num_followers": 29191,
   "original_name": "This Is Boards of Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAB3qYw7/709UrajSZG5ZG3r",
+  "snapshot_id": "akhNAAAAAAAO8Qt18ZwOX0CFB0xS3vwh",
   "tracks": [
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 204834,
-      "name": "Father And Son",
-      "url": "https://open.spotify.com/track/2jS1VIUPJnepG7sIU5nJUR"
+      "duration_ms": 35999,
+      "name": "Introit",
+      "url": "https://open.spotify.com/track/237EDlkjHoVAfG1FEtV0R2"
     },
     {
       "added_at": null,
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 35999,
-      "name": "Introit",
-      "url": "https://open.spotify.com/track/237EDlkjHoVAfG1FEtV0R2"
+      "duration_ms": 204834,
+      "name": "Father And Son",
+      "url": "https://open.spotify.com/track/2jS1VIUPJnepG7sIU5nJUR"
     },
     {
       "added_at": null,

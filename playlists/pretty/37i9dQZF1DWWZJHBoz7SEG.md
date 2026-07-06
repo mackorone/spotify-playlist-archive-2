@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > Yo no sé si no o si sí, pero sé que el Nata está de regreso y yo ya con eso digo que somos campeones <3 Y si se la saaaaaben
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,202,495 likes - 58 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,202,542 likes - 58 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 14 | [Verano Lento](https://open.spotify.com/track/5mKqhC0IrB2oLvUgFi5naH) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Verano Lento](https://open.spotify.com/album/3ajZB9dy7Yk03dXJxDzYhS) | 3:04 |
 | 15 | [Un Clásico](https://open.spotify.com/track/6Fj1oKM3TuEUHiEDEI6xRd) | [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9) | [Un Clásico](https://open.spotify.com/album/2j9SNDaLwBhiQm1ftI1DfL) | 2:58 |
 | 16 | [ALCOBA](https://open.spotify.com/track/4OX6VWwow4Ta12RvUMwlVT) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [ALCOBA](https://open.spotify.com/album/34gdrNNgq2cWmlt4vIl4GK) | 3:57 |
-| 17 | [EL CASO](https://open.spotify.com/track/4fe6Lx79fT6z6e6179T9Rj) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [EL CASO](https://open.spotify.com/album/17ch967MEGESBo4M9mSKDI) | 4:37 |
+| 17 | [EL CAZO](https://open.spotify.com/track/4fe6Lx79fT6z6e6179T9Rj) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP) | [EL CAZO](https://open.spotify.com/album/17ch967MEGESBo4M9mSKDI) | 4:37 |
 | 18 | [NOCTA](https://open.spotify.com/track/7pBnjUcDqKYbHOO071M2Ew) | [Chivo XVI](https://open.spotify.com/artist/518vS5pfFlwOFzzCxSqHFs), [LENCHO](https://open.spotify.com/artist/34pmYm95tyjrnk8Cbj6nFo) | [NOCTA](https://open.spotify.com/album/5BKtbQ9TuX53d4nsCypQZZ) | 2:59 |
 | 19 | [Los Principios](https://open.spotify.com/track/5LgPgNARHG64IaXuwtvuNw) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Queridos Amigos](https://open.spotify.com/album/2UTqapZ5jcnjT5s2NR5UWX) | 2:53 |
 | 20 | [María](https://open.spotify.com/track/6GvLCyoaFhdyGdWycWNDI2) | [Régulo Molina](https://open.spotify.com/artist/6sbrrDwFdWvTLiq8NUykqm), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [María](https://open.spotify.com/album/7DKdveqgK9duXti7Xjdp39) | 2:47 |

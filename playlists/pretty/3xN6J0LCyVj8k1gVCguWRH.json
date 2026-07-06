@@ -6,7 +6,7 @@
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA8SUPGpnhXlnZnIXlDkPJbYQZBX94I",
+  "snapshot_id": "AAA8TizRoHAVqyR03mpp86ZL6YPSfd96",
   "tracks": [
     {
       "added_at": "2026-02-05 14:21:48",
@@ -39,6 +39,22 @@
       "duration_ms": 194230,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH"
+    },
+    {
+      "added_at": "2026-07-05 16:39:39",
+      "album": {
+        "name": "MORNING DEW (DONK)",
+        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 243896,
+      "name": "MORNING DEW (DONK)",
+      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
     },
     {
       "added_at": "2026-04-14 22:13:37",
@@ -187,6 +203,22 @@
       "duration_ms": 199762,
       "name": "Don't Record",
       "url": "https://open.spotify.com/track/1jyNswOFIyhIrYnR3a4GcH"
+    },
+    {
+      "added_at": "2026-07-05 18:01:11",
+      "album": {
+        "name": "EN VICE CITY",
+        "url": "https://open.spotify.com/album/73WuSt8wNkTJ7dKMqFDjNp"
+      },
+      "artists": [
+        {
+          "name": "Luciana Alara",
+          "url": "https://open.spotify.com/artist/2jtc40eiNQAuNdXZUNVvYt"
+        }
+      ],
+      "duration_ms": 193266,
+      "name": "EN VICE CITY",
+      "url": "https://open.spotify.com/track/366alZr6yGfTyXIJsCvI5U"
     },
     {
       "added_at": "2026-04-14 23:20:35",
@@ -493,22 +525,6 @@
       "url": "https://open.spotify.com/track/3w7AA6hyIDO6o2nJ4monMx"
     },
     {
-      "added_at": "2026-07-04 23:06:20",
-      "album": {
-        "name": "While We Run Away",
-        "url": "https://open.spotify.com/album/7jJqag0QS1BWPYU82fwP29"
-      },
-      "artists": [
-        {
-          "name": "VaneSpacee",
-          "url": "https://open.spotify.com/artist/4iPPcPOepUvtBgNYvD6nUL"
-        }
-      ],
-      "duration_ms": 197996,
-      "name": "While We Run Away",
-      "url": "https://open.spotify.com/track/58bjFYN7mA5Go5YK8BiR27"
-    },
-    {
       "added_at": "2026-06-19 04:42:18",
       "album": {
         "name": "Identification Please",
@@ -671,22 +687,6 @@
       "duration_ms": 216266,
       "name": "Twenty-Five",
       "url": "https://open.spotify.com/track/7eOqUamC2PeCVf88P4IwEN"
-    },
-    {
-      "added_at": "2026-07-04 23:06:14",
-      "album": {
-        "name": "Get Me Out",
-        "url": "https://open.spotify.com/album/7mUn65wuSjFLKVbl2NG2UK"
-      },
-      "artists": [
-        {
-          "name": "Cesario",
-          "url": "https://open.spotify.com/artist/7Kiklhm5NnMvGES9cr6Gic"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "Get Me Out",
-      "url": "https://open.spotify.com/track/7mpeImgGAkaeuK6sUkY4Jj"
     },
     {
       "added_at": "2026-07-01 13:41:58",
@@ -2917,6 +2917,38 @@
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
     },
     {
+      "added_at": "2026-07-04 23:06:20",
+      "album": {
+        "name": "While We Run Away",
+        "url": "https://open.spotify.com/album/7jJqag0QS1BWPYU82fwP29"
+      },
+      "artists": [
+        {
+          "name": "VaneSpacee",
+          "url": "https://open.spotify.com/artist/4iPPcPOepUvtBgNYvD6nUL"
+        }
+      ],
+      "duration_ms": 197996,
+      "name": "While We Run Away",
+      "url": "https://open.spotify.com/track/58bjFYN7mA5Go5YK8BiR27"
+    },
+    {
+      "added_at": "2026-07-04 23:06:14",
+      "album": {
+        "name": "Get Me Out",
+        "url": "https://open.spotify.com/album/7mUn65wuSjFLKVbl2NG2UK"
+      },
+      "artists": [
+        {
+          "name": "Cesario",
+          "url": "https://open.spotify.com/artist/7Kiklhm5NnMvGES9cr6Gic"
+        }
+      ],
+      "duration_ms": 237600,
+      "name": "Get Me Out",
+      "url": "https://open.spotify.com/track/7mpeImgGAkaeuK6sUkY4Jj"
+    },
+    {
       "added_at": "2026-07-04 00:01:33",
       "album": {
         "name": "Silly/ Eshey",
@@ -3163,182 +3195,6 @@
       "duration_ms": 195291,
       "name": "Before You Tell Me",
       "url": "https://open.spotify.com/track/1FJ5dcBGo2GiIU8dzX1Rca"
-    },
-    {
-      "added_at": "2026-06-23 15:55:41",
-      "album": {
-        "name": "Call me back",
-        "url": "https://open.spotify.com/album/0uIiaoYrPZivshGtg7Rol4"
-      },
-      "artists": [
-        {
-          "name": "SYRENI",
-          "url": "https://open.spotify.com/artist/0q58SH8DT4zdGDEcUQPHPo"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "Call me back",
-      "url": "https://open.spotify.com/track/3W5Vc3bX0njsKNgEDdAznk"
-    },
-    {
-      "added_at": "2026-06-23 15:57:23",
-      "album": {
-        "name": "Hilary Roberts",
-        "url": "https://open.spotify.com/album/0KPyLj972hoeZyrUJaWrg2"
-      },
-      "artists": [
-        {
-          "name": "Hilary Roberts",
-          "url": "https://open.spotify.com/artist/24YMDJn7c34S76v0pDlgkw"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "Ringer",
-      "url": "https://open.spotify.com/track/5hFUznPRrZKMtDptnz5Oj1"
-    },
-    {
-      "added_at": "2026-06-23 15:56:08",
-      "album": {
-        "name": "That girl\u00b4s got it! (Radio Edit)",
-        "url": "https://open.spotify.com/album/4XmOuUjFn0JoPTXugf6LK4"
-      },
-      "artists": [
-        {
-          "name": "PhD",
-          "url": "https://open.spotify.com/artist/6iUFBjFb7pcoSRdeGOXhwu"
-        }
-      ],
-      "duration_ms": 284199,
-      "name": "That girl\u00b4s got it! - Radio Edit",
-      "url": "https://open.spotify.com/track/14nnlGXh0XXnxAeEX712rE"
-    },
-    {
-      "added_at": "2026-06-23 15:56:13",
-      "album": {
-        "name": "In a Hometown",
-        "url": "https://open.spotify.com/album/45sCbs9uF2LL1nJssB6189"
-      },
-      "artists": [
-        {
-          "name": "Cam Allen",
-          "url": "https://open.spotify.com/artist/7H0xTw1Db9fziT2JzwNRR3"
-        }
-      ],
-      "duration_ms": 285692,
-      "name": "Jack Daniel's Cologne",
-      "url": "https://open.spotify.com/track/6ul1f6HI6yj48bLbop1iFJ"
-    },
-    {
-      "added_at": "2026-06-23 06:01:17",
-      "album": {
-        "name": "Nine To Five",
-        "url": "https://open.spotify.com/album/0SXLlNSyFgTNiHACN8b01D"
-      },
-      "artists": [
-        {
-          "name": "Dima Bo",
-          "url": "https://open.spotify.com/artist/0fKRmjgFukNm5GqEDv7UlU"
-        }
-      ],
-      "duration_ms": 232289,
-      "name": "Nine To Five",
-      "url": "https://open.spotify.com/track/6a4i1Iun6VQ44vLpRdn8ZI"
-    },
-    {
-      "added_at": "2026-06-23 06:01:13",
-      "album": {
-        "name": "Pandora's Box",
-        "url": "https://open.spotify.com/album/6sIzDvWryfEK4zCCoeZaNT"
-      },
-      "artists": [
-        {
-          "name": "Miles Squiers",
-          "url": "https://open.spotify.com/artist/1flMzKAdXGX7sebCJW8V2v"
-        }
-      ],
-      "duration_ms": 121714,
-      "name": "Pandora's Box",
-      "url": "https://open.spotify.com/track/40KUTnz7el3gWD3fkZWXbf"
-    },
-    {
-      "added_at": "2026-06-23 06:01:24",
-      "album": {
-        "name": "Turn Around For Me",
-        "url": "https://open.spotify.com/album/6uKv44AoZcQZejL3RTgr6b"
-      },
-      "artists": [
-        {
-          "name": "J Rick Flores",
-          "url": "https://open.spotify.com/artist/6Z57dmb0qcwcV4syzn56Ko"
-        }
-      ],
-      "duration_ms": 315426,
-      "name": "Turn Around For Me",
-      "url": "https://open.spotify.com/track/4G8jLCCSuK02tFcjVzdlPG"
-    },
-    {
-      "added_at": "2026-06-23 06:01:10",
-      "album": {
-        "name": "Leaving Our Lives",
-        "url": "https://open.spotify.com/album/5apLPewZus1LvQPpNlfHtT"
-      },
-      "artists": [
-        {
-          "name": "Mynd Reader",
-          "url": "https://open.spotify.com/artist/2976jTq74lJjk558IAKu2r"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "Leaving Our Lives",
-      "url": "https://open.spotify.com/track/7nESKCOZY6jTGsEgDCv9sf"
-    },
-    {
-      "added_at": "2026-06-23 06:01:20",
-      "album": {
-        "name": "Out of Road",
-        "url": "https://open.spotify.com/album/4HNCR75E5cAsxUAaH0Aljv"
-      },
-      "artists": [
-        {
-          "name": "Matthew Jacobs",
-          "url": "https://open.spotify.com/artist/0XFLGJ8132F6BDZs8VSyfx"
-        }
-      ],
-      "duration_ms": 230614,
-      "name": "You Would Still Be Here",
-      "url": "https://open.spotify.com/track/56bFTAupvAC6oiYrBtdccZ"
-    },
-    {
-      "added_at": "2026-06-23 06:05:25",
-      "album": {
-        "name": "REACH",
-        "url": "https://open.spotify.com/album/0FtZA9rym4e0EQkmdT4HbT"
-      },
-      "artists": [
-        {
-          "name": "J Shep",
-          "url": "https://open.spotify.com/artist/1rQeh4hmkhuQUE0BNAwOKW"
-        }
-      ],
-      "duration_ms": 187805,
-      "name": "Reach",
-      "url": "https://open.spotify.com/track/0AWSqrxaIb9sYZ9QN92QQp"
-    },
-    {
-      "added_at": "2026-06-23 06:01:27",
-      "album": {
-        "name": "I Took It All",
-        "url": "https://open.spotify.com/album/5Gg4rquBHN3X5c1n6Nwgqt"
-      },
-      "artists": [
-        {
-          "name": "Pete Hedrick",
-          "url": "https://open.spotify.com/artist/4bLuJ9TdSspsCPQdGTSO5I"
-        }
-      ],
-      "duration_ms": 278960,
-      "name": "Chain Of Grace",
-      "url": "https://open.spotify.com/track/7dOHBe5zqHBn6QH6JRAFoP"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2026",

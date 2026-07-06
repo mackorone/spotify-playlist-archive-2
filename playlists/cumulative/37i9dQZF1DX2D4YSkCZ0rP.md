@@ -2,9 +2,9 @@
 
 ### [PRIDE France](https://open.spotify.com/playlist/37i9dQZF1DX2D4YSkCZ0rP)
 
-> La playlist des artistes LGBTQIA+\. Photo : Bilal Hassani
+> La playlist des artistes LGBTQIA+\. Photo : Pierre de Maere
 
-124 songs - 6 hr 27 min
+126 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Film Catastrophe](https://open.spotify.com/track/3RoxedHN25iZHx24dfLv8Z) | [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Film Catastrophe](https://open.spotify.com/album/3MijnpevilL0gZyutW12wp) | 4:02 | 2025-05-26 | 2026-06-08 |
 | [FUCK MON CORPS](https://open.spotify.com/track/0CPTtvJ9CY5LgG9XLh7pbB) | [Gervaise](https://open.spotify.com/artist/6zbGFlueQRX4dljCoaQjaQ) | [LA PUDEUR](https://open.spotify.com/album/02LEXSBZuL41f66BQra4bn) | 2:47 | 2026-06-07 |  |
 | [Gag On It](https://open.spotify.com/track/1NIIHg8jXOq095MQiLxXzC) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop Miami](https://open.spotify.com/album/32hFJhRyYyZF2e3JRkE0bK) | 1:39 | 2025-05-26 | 2026-06-08 |
-| [Game Boy](https://open.spotify.com/track/6C84xFZxi1COpM5e9DhVLo) | [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Turbostérone](https://open.spotify.com/album/5lEqVN5cXAIOQgH2aLttnm) | 3:12 | 2026-06-07 |  |
+| [Game Boy](https://open.spotify.com/track/6C84xFZxi1COpM5e9DhVLo) | [Sébastien Delage](https://open.spotify.com/artist/5h0ORvr8vGIg2fkQAu9m5M) | [Turbostérone](https://open.spotify.com/album/5lEqVN5cXAIOQgH2aLttnm) | 3:12 | 2026-06-07 | 2026-07-06 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-06-04 | 2025-05-27 |
 | [Gravity](https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Gravity](https://open.spotify.com/album/5wn1hHXo5llTUY3vaahWfd) | 2:50 | 2025-05-26 | 2026-06-08 |
 | [Guess featuring billie eilish](https://open.spotify.com/track/0IsIY8pfu1yaGkPUD7pkDx) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:23 | 2025-05-26 | 2026-06-08 |
@@ -77,6 +77,7 @@
 | [les filles, les meufs](https://open.spotify.com/track/1aLHvqPB5CxGYzhJB7Hzo1) | [marguerite](https://open.spotify.com/artist/4jF2P66DtNEficnixuIhKQ) | [les filles, les meufs](https://open.spotify.com/album/5g6WWG1UboeBuaPXP4g9sY) | 2:59 | 2025-05-26 | 2026-06-08 |
 | [Lipstick Lover](https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Lipstick Lover](https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T) | 2:49 | 2024-06-04 | 2025-05-27 |
 | [Lola \(feat\. Nicola Sirkis\)](https://open.spotify.com/track/2UC24t5kdAucpeFtVONiYZ) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq), [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ), [Nicola Sirkis](https://open.spotify.com/artist/1GPOQdRaRdalF1ct9DKfuJ) | [Lola \(feat\. Nicola Sirkis\)](https://open.spotify.com/album/3qaG54mQkO2ekk3FNuSbKQ) | 3:01 | 2025-05-26 | 2026-06-08 |
+| [LOS ANGELES](https://open.spotify.com/track/6t2cW2HwqkgPs6Mm3TJs12) | [Loa Mercury](https://open.spotify.com/artist/6Zb2vTrIhur77yejWgHN60) | [SANS NUAGE](https://open.spotify.com/album/3eVC4NmN3o5zgmonK2wa6t) | 3:56 | 2026-07-05 |  |
 | [LOVA](https://open.spotify.com/track/1BKiHTMrJSax72pYTOds2U) | [LUCKY LOVE](https://open.spotify.com/artist/3EApXFqJtyNGLwOVFKvhMP) | [TENDRESSE](https://open.spotify.com/album/4fWaoWaNKTYjC604wGfJ0A) | 3:39 | 2024-06-04 | 2024-07-04 |
 | [Love](https://open.spotify.com/track/0crgq6PLl60iznPz45NEHP) | [Aloïse Sauvage](https://open.spotify.com/artist/5LYSuLVsB6OVxkDY107AyQ) | [Love](https://open.spotify.com/album/0uKQKIBzN5kpJSuiybdgVt) | 2:45 | 2024-06-04 | 2026-06-08 |
 | [Love Noir](https://open.spotify.com/track/3QSfWyXeGEpEoMpufPPtot) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr), [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Love Noir](https://open.spotify.com/album/4q3khzl3yEiqMcry65Q4ZW) | 2:51 | 2026-06-07 |  |
@@ -90,7 +91,7 @@
 | [Moi](https://open.spotify.com/track/0Do12fTWzU1ozIepxNi7wb) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [La Favorite](https://open.spotify.com/album/4ddDOJikd23bKfssdOCszr) | 3:03 | 2026-06-07 |  |
 | [Mute](https://open.spotify.com/track/34UQRhA2ojdzFFa8EMygwP) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Mute](https://open.spotify.com/album/4PSAXUqddfh2lOwj9Hf0NA) | 2:53 | 2025-05-26 | 2026-06-08 |
 | [Muy Lesbienne](https://open.spotify.com/track/3lGH2Lhn1Kqs3Zu2o1hjHF) | [Barbara Butch](https://open.spotify.com/artist/2XCkEQ4EJWc27RHEr6pONs) | [Muy Bien](https://open.spotify.com/album/1ufk4hCzOBLiAx7nfQ0ENJ) | 3:13 | 2025-05-26 | 2026-06-08 |
-| [Ménage à Trois](https://open.spotify.com/track/1K1saFmA4rChNp4nzOnFZY) | [Marie France](https://open.spotify.com/artist/5ho6QpmMmHatkArsnWMDlf) | [Une fille à colorier](https://open.spotify.com/album/44D1pz0qC78dp8jlv5oRtA) | 3:30 | 2026-06-07 |  |
+| [Ménage à Trois](https://open.spotify.com/track/1K1saFmA4rChNp4nzOnFZY) | [Marie France](https://open.spotify.com/artist/5ho6QpmMmHatkArsnWMDlf) | [Une fille à colorier](https://open.spotify.com/album/44D1pz0qC78dp8jlv5oRtA) | 3:30 | 2026-06-07 | 2026-07-06 |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2024-06-04 | 2025-05-27 |
 | [Nuit](https://open.spotify.com/track/1tdvkP8LjrdtjCI3YyHpF9) | [Keiona](https://open.spotify.com/artist/6qLROBbQvQNwzkH9AlVDCS), [Vinii Revlon](https://open.spotify.com/artist/5Ia8RZQrtYWaHwaOUIfTZr), [Gigi Palmer](https://open.spotify.com/artist/3TzcCiy5F5SILRR7uUwKQA) | [Nuit](https://open.spotify.com/album/6BX4U1G3IPwQbvJjvMCchj) | 2:56 | 2024-06-04 | 2025-05-27 |
 | [OH MA PICHE](https://open.spotify.com/track/6uYv2ObL0mAtVSAs7j6opu) | [Piche](https://open.spotify.com/artist/0c32N2qsP2BxRGcUUxyHZn) | [OH MA PICHE](https://open.spotify.com/album/44yuOQNjZ4KDh9nuKCh4HO) | 2:22 | 2024-06-04 | 2026-06-08 |
@@ -102,6 +103,7 @@
 | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pegasus \(ft\. Phoebe Bridgers\)](https://open.spotify.com/album/0gsw4flnfCrEqGr16ACAoQ) | 3:06 | 2024-06-04 | 2025-05-27 |
 | [Petit Homme](https://open.spotify.com/track/7jVit1MfVSmF57FNgP1079) | [Piche](https://open.spotify.com/artist/0c32N2qsP2BxRGcUUxyHZn) | [Petit Homme](https://open.spotify.com/album/3QOg5k2uYxgKb1IIwhiK6o) | 2:16 | 2026-06-07 |  |
 | [Pink Pony Club](https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 4:18 | 2025-05-26 | 2026-06-08 |
+| [Pleure encore pour moi](https://open.spotify.com/track/3HAXuuDkSDDjUnCbLniGzs) | [Marius](https://open.spotify.com/artist/2ovkVhnrSdDvpIvsVWgnMP) | [Pleure encore pour moi](https://open.spotify.com/album/1jyIyg8kAFHoLtAhiWVAuM) | 3:23 | 2026-07-05 |  |
 | [Pleurer en dansant](https://open.spotify.com/track/1TXTfBITlGjV3iObZitZs2) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Pleurer en dansant](https://open.spotify.com/album/0WYQgUq0o57dPJIgPYtkuS) | 3:30 | 2026-06-21 |  |
 | [Poison](https://open.spotify.com/track/121YFyW8DmAZcMk3ax3PQA) | [Paloma](https://open.spotify.com/artist/0se892wuxZ6XIMUOEPewVb), [Elips](https://open.spotify.com/artist/2AIzKTzFPBh0VNaf87zG24) | [Château Intérieur](https://open.spotify.com/album/0l9T71EcM3Io83UFjIDBFQ) | 3:14 | 2026-06-07 |  |
 | [Polypocket](https://open.spotify.com/track/2576iEXHGpjyr5zn1Ylv8r) | [Camion Bip Bip](https://open.spotify.com/artist/2JCA0IH0hQkHYl5aVbwgQh) | [Polypocket](https://open.spotify.com/album/17qkle3Ru2RkmPVrcuko0X) | 3:01 | 2026-06-07 |  |

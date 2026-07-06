@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Chella",
-  "num_followers": 146618,
+  "num_followers": 146710,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
+        "name": "1942",
+        "url": "https://open.spotify.com/album/4vqElV5yYZYLkh2T6ssMHw"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "duration_ms": 150508,
+      "name": "1942",
+      "url": "https://open.spotify.com/track/4gLXm2USDlVMUdTfresz0B"
+    },
+    {
+      "added_at": "2026-06-26 00:01:56",
+      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -647,18 +663,18 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "1942",
-        "url": "https://open.spotify.com/album/4vqElV5yYZYLkh2T6ssMHw"
+        "name": "B4R&W TAPE",
+        "url": "https://open.spotify.com/album/0TGH8f0h2NaeqXv0oeC5GY"
       },
       "artists": [
         {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
         }
       ],
-      "duration_ms": 150508,
-      "name": "1942",
-      "url": "https://open.spotify.com/track/4gLXm2USDlVMUdTfresz0B"
+      "duration_ms": 124878,
+      "name": "GO GO!",
+      "url": "https://open.spotify.com/track/3uvRLWxrExOSYk7kMiwzVd"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -683,22 +699,6 @@
       "duration_ms": 199384,
       "name": "SpaceFuji",
       "url": "https://open.spotify.com/track/4OFlrfut7bLLpxeUuGg37l"
-    },
-    {
-      "added_at": "2026-06-26 00:01:56",
-      "album": {
-        "name": "B4R&W TAPE",
-        "url": "https://open.spotify.com/album/0TGH8f0h2NaeqXv0oeC5GY"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 124878,
-      "name": "GO GO!",
-      "url": "https://open.spotify.com/track/3uvRLWxrExOSYk7kMiwzVd"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -739,22 +739,18 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "No Wam",
-        "url": "https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR"
+        "name": "Mortal Kombat",
+        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
       },
       "artists": [
         {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
         }
       ],
-      "duration_ms": 149446,
-      "name": "No Wam",
-      "url": "https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl"
+      "duration_ms": 121061,
+      "name": "Mortal Kombat",
+      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -783,18 +779,22 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "Mortal Kombat",
-        "url": "https://open.spotify.com/album/7n34NZSzWSksFu0Tg7TNbr"
+        "name": "No Wam",
+        "url": "https://open.spotify.com/album/4cNDitclT2Y3sKEQxDzbuR"
       },
       "artists": [
         {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
+        },
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
         }
       ],
-      "duration_ms": 121061,
-      "name": "Mortal Kombat",
-      "url": "https://open.spotify.com/track/5G5R93fhTnLMXVcoIO6QNa"
+      "duration_ms": 149446,
+      "name": "No Wam",
+      "url": "https://open.spotify.com/track/75zPBCVt8sd2PzJfinv3Jl"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "Sanity",
-        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140240,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
-    },
-    {
-      "added_at": "2026-06-26 00:01:56",
-      "album": {
         "name": "Baba",
         "url": "https://open.spotify.com/album/63yPkpDRSUMDaUSPlXCTj2"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 162912,
       "name": "Baba",
       "url": "https://open.spotify.com/track/776t3kqoQTKHeFzdbnIfdc"
+    },
+    {
+      "added_at": "2026-06-26 00:01:56",
+      "album": {
+        "name": "Sanity",
+        "url": "https://open.spotify.com/album/7EkD7BdTnfOHdh2nJR4Nry"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140240,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/1i2TCvURTJo8Oa6ZfIXbEw"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "Kawasaki (Freestyle)",
-        "url": "https://open.spotify.com/album/29HAkvEAIcldJDZEkhkZuK"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        }
-      ],
-      "duration_ms": 164464,
-      "name": "Kawasaki (Freestyle)",
-      "url": "https://open.spotify.com/track/0tLTVKOz3peNhL5Tm4wyYl"
-    },
-    {
-      "added_at": "2026-06-26 00:01:56",
-      "album": {
         "name": "Intergalactic Dreams",
         "url": "https://open.spotify.com/album/3XlIAm2aT2MAfpmAuBjH5S"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 124137,
       "name": "Imagine",
       "url": "https://open.spotify.com/track/6EtiudQ17HCJ0gLgrCo9Xi"
+    },
+    {
+      "added_at": "2026-06-26 00:01:56",
+      "album": {
+        "name": "Kawasaki (Freestyle)",
+        "url": "https://open.spotify.com/album/29HAkvEAIcldJDZEkhkZuK"
+      },
+      "artists": [
+        {
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        }
+      ],
+      "duration_ms": 164464,
+      "name": "Kawasaki (Freestyle)",
+      "url": "https://open.spotify.com/track/0tLTVKOz3peNhL5Tm4wyYl"
     },
     {
       "added_at": "2026-06-26 00:01:56",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2026-06-26 00:01:56",
       "album": {
-        "name": "420",
-        "url": "https://open.spotify.com/album/2mUIIraqsiVonjQHS3R7JC"
-      },
-      "artists": [
-        {
-          "name": "Plutomania",
-          "url": "https://open.spotify.com/artist/018olXJmRtbs1Q0VTkspcH"
-        },
-        {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
-        }
-      ],
-      "duration_ms": 163768,
-      "name": "420",
-      "url": "https://open.spotify.com/track/6q8SsMtXvytOsP5CLDpxVU"
-    },
-    {
-      "added_at": "2026-06-26 00:01:56",
-      "album": {
         "name": "Labubu",
         "url": "https://open.spotify.com/album/49uKWSj6blfu0dE9YJRNM1"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 141355,
       "name": "Labubu",
       "url": "https://open.spotify.com/track/4Ha7LDkAmwWbXygfooOAT9"
+    },
+    {
+      "added_at": "2026-06-26 00:01:56",
+      "album": {
+        "name": "420",
+        "url": "https://open.spotify.com/album/2mUIIraqsiVonjQHS3R7JC"
+      },
+      "artists": [
+        {
+          "name": "Plutomania",
+          "url": "https://open.spotify.com/artist/018olXJmRtbs1Q0VTkspcH"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "duration_ms": 163768,
+      "name": "420",
+      "url": "https://open.spotify.com/track/6q8SsMtXvytOsP5CLDpxVU"
     },
     {
       "added_at": "2026-06-26 00:01:56",

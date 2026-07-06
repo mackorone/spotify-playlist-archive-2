@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,357 songs - 5 day 18 hr 58 min
+2,358 songs - 5 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Digan lo que digan](https://open.spotify.com/track/47HWicWuQGJhs2sAVrU9gL) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 3:25 | 2026-03-15 |  |
 | [Digan lo que digan](https://open.spotify.com/track/7oML2qtfJRhXRuuW2wv4rM) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Digan lo que digan](https://open.spotify.com/album/07QcPjhWnCMPRScuBiMMgz) | 3:25 | 2026-04-12 |  |
 | [Digital Meadow](https://open.spotify.com/track/6ItfH8oY8zaLd0Hls0l8nl) | [White Latex](https://open.spotify.com/artist/5Ne2cH95chM7wgjsqPn0vM) | [Digital Meadow](https://open.spotify.com/album/4pxWl9BvQTZaK1yp9vpr5c) | 2:32 | 2025-05-06 |  |
+| [Dime Pa Que Vuelves](https://open.spotify.com/track/5cg0XaWG6LGo4aZuoOxcGV) | [Soy Loy](https://open.spotify.com/artist/0egXpDPsm0pFmdjfIfPHbn), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Dime Pa Que Vuelves](https://open.spotify.com/album/6iAT6bslz3QBSKfHxSqrgM) | 3:14 | 2026-07-05 |  |
 | [Dioses del Vudú](https://open.spotify.com/track/6mbTqEDd4nVWiFCCXfmDZA) | [José Biggs](https://open.spotify.com/artist/4Xcz7okpxQnOh6neuiauiO), [Chinoy](https://open.spotify.com/artist/7ah2GYpn05JkpAIk7vop8g), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Dioses del Vudú](https://open.spotify.com/album/0BCY4TqPnnqjTrcBzqAcpt) | 3:31 | 2025-12-18 |  |
 | [Directamente del Cielo](https://open.spotify.com/track/72a9t5mhsKriamVuPqDAJj) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Directamente del Cielo](https://open.spotify.com/album/2U6pc5ziwVV895tqWX47iz) | 3:52 | 2026-04-01 |  |
 | [Dis\-ease](https://open.spotify.com/track/0hxeouHqP3qzpTHerA7ha2) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:59 | 2026-03-15 |  |

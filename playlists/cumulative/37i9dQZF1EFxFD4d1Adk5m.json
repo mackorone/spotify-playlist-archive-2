@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "Hotline",
+        "url": "https://open.spotify.com/album/2fV5LW0H7CpnSM0mSr6R8M"
+      },
+      "artists": [
+        {
+          "name": "XO",
+          "url": "https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164168,
+      "name": "Hotline",
+      "url": "https://open.spotify.com/track/6CbTFR8nGfxTuSRsIwOon0"
+    },
+    {
+      "album": {
         "name": "KODA KUMI LIVE TOUR 2017 - W FACE - SET LIST",
         "url": "https://open.spotify.com/album/6FIO79gjWLirSuIdZX1Cpm"
       },
@@ -1358,7 +1376,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 207977,
       "name": "Live It Up - Official Song 2018 FIFA World Cup Russia",
       "url": "https://open.spotify.com/track/4DnHUy01jEA4b5ydC3HgsT"

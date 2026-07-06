@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Monsta
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,344 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,354 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 71 | [À Procura](https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Violetta](https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58) | 2:32 |
 | 72 | [10 MINUTOS](https://open.spotify.com/track/0NIlYkV3zxqZkGVbJJzpLf) | [ATJ](https://open.spotify.com/artist/2EIF8yz9lT5vzYDriL5VAG) | [10 MINUTOS](https://open.spotify.com/album/1f7H62wBukLZ1dWc8Vfgoh) | 5:00 |
 | 73 | [Barco](https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Barco](https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn) | 3:36 |
-| 74 | [¡ SÓ NÓS ! \(feat\. Carla Prata\)](https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d), [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [WONDER](https://open.spotify.com/album/4euL5ozDT7eXHQuZ7EU6Tb) | 3:13 |
-| 75 | [Coca Cola](https://open.spotify.com/track/0kyuMrg9R6hXjgE1sNcDKT) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [Coca Cola](https://open.spotify.com/album/6mxgIkGMNOlKIncNA5pX2G) | 3:39 |
+| 74 | [Coca Cola](https://open.spotify.com/track/0kyuMrg9R6hXjgE1sNcDKT) | [Dbraz](https://open.spotify.com/artist/4GtbhrPCLhHRVvpMrxClZl), [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3), [ROCHA.SNJ](https://open.spotify.com/artist/1uuOueXqHji2ugV1Ky1TF8), [Simba.](https://open.spotify.com/artist/0mYtvNRxZxXxPTkl0A1W4v) | [Coca Cola](https://open.spotify.com/album/6mxgIkGMNOlKIncNA5pX2G) | 3:39 |
+| 75 | [¡ SÓ NÓS ! \(feat\. Carla Prata\)](https://open.spotify.com/track/6gJF4kTu4cQDklJMnd0ZkQ) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d), [Carla Prata](https://open.spotify.com/artist/7vWp4MLdsECG1Dmu5NDLRS) | [WONDER](https://open.spotify.com/album/4euL5ozDT7eXHQuZ7EU6Tb) | 3:13 |
 
 Snapshot ID: `AAAAAN0wXQ53IAcC7xy+XoEN1kKL4AtV`

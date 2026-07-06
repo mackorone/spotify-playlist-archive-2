@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Folie's
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,067 likes - 39 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,051 likes - 39 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Star Overnight](https://open.spotify.com/track/60PKdpHtruO0O7X3zhnuFf) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [Star Overnight](https://open.spotify.com/album/42G9955abljy3fTnpMZgG6) | 2:32 |
 | 2 | [maggots for brains](https://open.spotify.com/track/22l7ocwYpEYGvYpM9T2C5K) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 4:00 |
 | 3 | [My Body Isn't Ready](https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [My Body Isn't Ready](https://open.spotify.com/album/27fL8TMJUfW4XRXZqougTh) | 3:37 |
-| 4 | [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 |
-| 5 | [is it cool? \(feat\. SZA\)](https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [is it cool? \(feat\. SZA\)](https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW) | 2:54 |
+| 4 | [is it cool? \(feat\. SZA\)](https://open.spotify.com/track/4olWlfIzbDyD53NhWyvdDJ) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [is it cool? \(feat\. SZA\)](https://open.spotify.com/album/5ZKl6FzFtBJc3edhG04gxW) | 2:54 |
+| 5 | [Wink Wink](https://open.spotify.com/track/6GjXR9FaxCuDNbqBrP9aYO) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Wink Wink](https://open.spotify.com/album/1WjjAPm4lSHSjupTleJaCA) | 2:02 |
 | 6 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 |
 | 7 | [Sun Has Set](https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Sun Has Set](https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR) | 2:21 |
 | 8 | [des fleurs x stromae](https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [des fleurs x stromae](https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB) | 2:52 |
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 17 | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/track/1wmLqBO0Nvxq7PIyKcIlQD) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [FIRE BURNIN' THRU THE RAIN](https://open.spotify.com/album/3bhjRJEUqguOQQb6zy5oAK) | 2:47 |
 | 18 | [SIREN](https://open.spotify.com/track/0QmBQ3NnZ18hHcemeeQlsP) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [WHACK'S MUSEUM](https://open.spotify.com/album/46mboRimEXi5KPeUqtkC2i) | 2:18 |
 | 19 | [le village](https://open.spotify.com/track/4BUkHw3lvnY8fuOgu9kRAN) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [le village](https://open.spotify.com/album/2PvCytDBc6cEY10ZFDBRAG) | 3:37 |
-| 20 | [Stone Over Water](https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Stone Over Water](https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58) | 3:14 |
-| 21 | [MISTRAL EN HIVER](https://open.spotify.com/track/18K1Ho4UzlXHAsgCl9QQ05) | [Ajar](https://open.spotify.com/artist/46OlTXwi8hanoxXHTE7E5z) | [MISTRAL EN HIVER](https://open.spotify.com/album/6CwGh54TpRCawYWGa5GsYY) | 2:30 |
+| 20 | [MISTRAL EN HIVER](https://open.spotify.com/track/18K1Ho4UzlXHAsgCl9QQ05) | [Ajar](https://open.spotify.com/artist/46OlTXwi8hanoxXHTE7E5z) | [MISTRAL EN HIVER](https://open.spotify.com/album/6CwGh54TpRCawYWGa5GsYY) | 2:30 |
+| 21 | [Stone Over Water](https://open.spotify.com/track/4hMsWFknk0f46OLEiQOG6u) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Stone Over Water](https://open.spotify.com/album/3217KYfcBkCV5MJNCdRw58) | 3:14 |
 | 22 | [Ma mère va me tuer](https://open.spotify.com/track/2ovxLH2PYpesPw1gnBe8lz) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy), [Asfar Shamsi](https://open.spotify.com/artist/2MbUbqIpGI8JMwweEduYTs) | [La Favorite, suite et fin](https://open.spotify.com/album/21cNAngHUeUUJWI4Lrh3PX) | 2:28 |
 | 23 | [Offerings](https://open.spotify.com/track/1A2uwr1Zpdd467Vzue8bXV) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Offerings](https://open.spotify.com/album/0KKhGegQzdFh8ZWKqXDdiC) | 2:14 |
 | 24 | [Plan B](https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Plan B](https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz) | 3:20 |

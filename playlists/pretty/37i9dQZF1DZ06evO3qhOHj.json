@@ -1,12 +1,12 @@
 {
   "description": "This is Mr. Big. The essential tracks, all in one playlist.",
-  "num_followers": 30907,
+  "num_followers": 30916,
   "original_name": "This Is Mr. Big",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAABe8R3K6vCRbHusYs2xJULU",
+  "snapshot_id": "akhNAAAAAAB1cPli4cwBRUxrbMnk7qtp",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get Over It",
-        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 223426,
-      "name": "Superfantastic",
-      "url": "https://open.spotify.com/track/5Wpd3oVlIq7nsmEtoldNbq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr. Big [Expanded]",
         "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
       },
@@ -295,22 +279,6 @@
       "duration_ms": 278160,
       "name": "Anything For You - 2009 Remastered Version",
       "url": "https://open.spotify.com/track/2QUeoJUK5KYn6P6medGcgM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bump Ahead [Expanded]",
-        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 253480,
-      "name": "Colorado Bulldog",
-      "url": "https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb"
     },
     {
       "added_at": null,
@@ -331,6 +299,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 253480,
+      "name": "Colorado Bulldog",
+      "url": "https://open.spotify.com/track/7CqczQ0HGS9C7koT1NMWcb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 223426,
+      "name": "Superfantastic",
+      "url": "https://open.spotify.com/track/5Wpd3oVlIq7nsmEtoldNbq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deep Cuts: The Best Of The Ballads",
         "url": "https://open.spotify.com/album/7ecgPBHbGOm0S4Hl21FEgq"
       },
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hey Man [Expanded]",
-        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
+        "name": "Lean Into It (30th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 288600,
-      "name": "If That's What It Takes",
-      "url": "https://open.spotify.com/track/1NPM349VjkD7ooJ6TIFbYH"
+      "duration_ms": 229160,
+      "name": "Just Take My Heart [Acoustic] - 2021 Remastered",
+      "url": "https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lean Into It (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
+        "name": "Hey Man [Expanded]",
+        "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 229160,
-      "name": "Just Take My Heart [Acoustic] - 2021 Remastered",
-      "url": "https://open.spotify.com/track/3jlYHtyC4XxNgyjMzIFfDQ"
+      "duration_ms": 288600,
+      "name": "If That's What It Takes",
+      "url": "https://open.spotify.com/track/1NPM349VjkD7ooJ6TIFbYH"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live From The Living Room",
+        "url": "https://open.spotify.com/album/59xrZMtRGj46AFad07qjLS"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 303960,
+      "name": "Stranger In My Life",
+      "url": "https://open.spotify.com/track/25Ft3uRiRsbvnsrF9vOJXv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hey Man [Expanded]",
         "url": "https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 183013,
       "name": "Dancin' Right into the Flame",
       "url": "https://open.spotify.com/track/1itoqFGkjBIoVyyibyCIjs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What If...",
-        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 288746,
-      "name": "Undertow",
-      "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From The Living Room",
-        "url": "https://open.spotify.com/album/59xrZMtRGj46AFad07qjLS"
+        "name": "What If...",
+        "url": "https://open.spotify.com/album/378UK4ew1Emc72jH4KzRfq"
       },
       "artists": [
         {
@@ -500,25 +500,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 303960,
-      "name": "Stranger In My Life",
-      "url": "https://open.spotify.com/track/25Ft3uRiRsbvnsrF9vOJXv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Actual Size",
-        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/4QO00F2MwWmZ37IeoSWejw"
+      "duration_ms": 288746,
+      "name": "Undertow",
+      "url": "https://open.spotify.com/track/3g811urVvhkvAv3fT5BzTq"
     },
     {
       "added_at": null,
@@ -539,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "What If...",
-        "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
+        "name": "Actual Size",
+        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
       },
       "artists": [
         {
@@ -548,9 +532,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 312040,
-      "name": "All the Way Up",
-      "url": "https://open.spotify.com/track/4JtkYz1y2fuu5r4AbedNCt"
+      "duration_ms": 224866,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/4QO00F2MwWmZ37IeoSWejw"
     },
     {
       "added_at": null,
@@ -571,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actual Size",
-        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
+        "name": "What If...",
+        "url": "https://open.spotify.com/album/1HSKINJIwGJj6ECnx9gSiP"
       },
       "artists": [
         {
@@ -580,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 300293,
-      "name": "Nothing Like It In The World",
-      "url": "https://open.spotify.com/track/3TcMPHNlBkwvMy5b3k041x"
+      "duration_ms": 312040,
+      "name": "All the Way Up",
+      "url": "https://open.spotify.com/track/4JtkYz1y2fuu5r4AbedNCt"
     },
     {
       "added_at": null,
@@ -603,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Big [Expanded]",
-        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
+        "name": "Actual Size",
+        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
       },
       "artists": [
         {
@@ -612,9 +596,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 237386,
-      "name": "Take A Walk - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd"
+      "duration_ms": 300293,
+      "name": "Nothing Like It In The World",
+      "url": "https://open.spotify.com/track/3TcMPHNlBkwvMy5b3k041x"
     },
     {
       "added_at": null,
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Actual Size",
-        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
+        "name": "Mr. Big [Expanded]",
+        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
       },
       "artists": [
         {
@@ -644,9 +628,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 282626,
-      "name": "Suffocation",
-      "url": "https://open.spotify.com/track/6LBTeCeUVFXO9rf6LbkDYI"
+      "duration_ms": 237386,
+      "name": "Take A Walk - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2sr8VvGdSUb4KHMHRaKnPd"
     },
     {
       "added_at": null,
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Big [Expanded]",
-        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
+        "name": "Actual Size",
+        "url": "https://open.spotify.com/album/3l02aZ9l93Pyoq2nXkfQPq"
       },
       "artists": [
         {
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
         }
       ],
-      "duration_ms": 289266,
-      "name": "Big Love - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/3HrCCxsNoBBYBoNhcjivPg"
+      "duration_ms": 282626,
+      "name": "Suffocation",
+      "url": "https://open.spotify.com/track/6LBTeCeUVFXO9rf6LbkDYI"
     },
     {
       "added_at": null,
@@ -695,6 +679,22 @@
       "duration_ms": 247093,
       "name": "Voodoo Kiss",
       "url": "https://open.spotify.com/track/3LdABwumpWjN7VAzXZh1xF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Big [Expanded]",
+        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 230120,
+      "name": "Rock & Roll Over - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/6iPitq8OYncx3RKB8e6cFu"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. Big [Expanded]",
-        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 230120,
-      "name": "Rock & Roll Over - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/6iPitq8OYncx3RKB8e6cFu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Over It",
         "url": "https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 251413,
       "name": "Electrified",
       "url": "https://open.spotify.com/track/4sRcPII8MiwTQGxptPdDVF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. Big [Expanded]",
+        "url": "https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 289266,
+      "name": "Big Love - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/3HrCCxsNoBBYBoNhcjivPg"
     },
     {
       "added_at": null,

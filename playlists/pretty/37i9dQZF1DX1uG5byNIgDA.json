@@ -1,6 +1,6 @@
 {
   "description": "\ud589\ubcf5\ud558\uace0 \uc2e0\ub098\ub294 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \uac13\uc0dd\uc744 \uc2dc\uc791\ud574\ubcf4\uc138\uc694! \ucd9c\ud1f4\uadfc \uae38\uc5d0 \ub4e4\uc73c\uc2dc\uba74 \ub354\uc6b1 \uc88b\uc2b5\ub2c8\ub2e4. (Kickstart your day with high-energy vibes, the ultimate soundtrack for your hustle and commute.)",
-  "num_followers": 218417,
+  "num_followers": 218400,
   "original_name": "RUSH HOUR: \uac13\uc0dd ON!",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-07-03 07:27:32",
       "album": {
+        "name": "Lemon Tang - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Lemon Tang",
+      "url": "https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I"
+    },
+    {
+      "added_at": "2026-07-03 07:27:32",
+      "album": {
         "name": "BABYMONS7ER",
         "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
       },
@@ -455,22 +471,6 @@
     {
       "added_at": "2026-07-03 07:27:32",
       "album": {
-        "name": "Lemon Tang - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/39xlBHb1gQvMVqRZLjaTjI"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Lemon Tang",
-      "url": "https://open.spotify.com/track/0NGFAcYQVHCIdQea2qSs1I"
-    },
-    {
-      "added_at": "2026-07-03 07:27:32",
-      "album": {
         "name": "How Sweet",
         "url": "https://open.spotify.com/album/0EhZEM4RRz0yioTgucDhJq"
       },
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-07-03 07:27:32",
       "album": {
+        "name": "FOCUS - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
+      },
+      "artists": [
+        {
+          "name": "Hearts2Hearts",
+          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
+        }
+      ],
+      "duration_ms": 177052,
+      "name": "FOCUS",
+      "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
+    },
+    {
+      "added_at": "2026-07-03 07:27:32",
+      "album": {
         "name": "WE GO UP",
         "url": "https://open.spotify.com/album/2Accppyz0p8XZaSSCIAuDK"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 181192,
       "name": "TAKEDOWN (JEONGYEON, JIHYO, CHAEYOUNG)",
       "url": "https://open.spotify.com/track/1rKQjUhF9zFJmuUotr3VkV"
-    },
-    {
-      "added_at": "2026-07-03 07:27:32",
-      "album": {
-        "name": "FOCUS - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
-      },
-      "artists": [
-        {
-          "name": "Hearts2Hearts",
-          "url": "https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ"
-        }
-      ],
-      "duration_ms": 177052,
-      "name": "FOCUS",
-      "url": "https://open.spotify.com/track/6jYiHr12NVKLzn0X7K8aSK"
     },
     {
       "added_at": "2026-07-03 07:27:32",
@@ -827,6 +827,26 @@
     {
       "added_at": "2026-07-03 07:27:32",
       "album": {
+        "name": "V8",
+        "url": "https://open.spotify.com/album/5HQrHtpGthJMePFhXT3jKS"
+      },
+      "artists": [
+        {
+          "name": "THE 8",
+          "url": "https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk"
+        },
+        {
+          "name": "VERNON",
+          "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "singasong",
+      "url": "https://open.spotify.com/track/1uDVTuH0e2XaMPsX3yox1T"
+    },
+    {
+      "added_at": "2026-07-03 07:27:32",
+      "album": {
         "name": "Born Again (feat. Doja Cat & RAYE)",
         "url": "https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC"
       },
@@ -847,22 +867,6 @@
       "duration_ms": 231174,
       "name": "Born Again (feat. Doja Cat & RAYE)",
       "url": "https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf"
-    },
-    {
-      "added_at": "2026-07-03 07:27:32",
-      "album": {
-        "name": "NA",
-        "url": "https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7"
-      },
-      "artists": [
-        {
-          "name": "NAYEON",
-          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "ABCD",
-      "url": "https://open.spotify.com/track/0V2passWyAXnON67kfAj7y"
     }
   ],
   "unique_name": "RUSH HOUR: \uac13\uc0dd ON!",

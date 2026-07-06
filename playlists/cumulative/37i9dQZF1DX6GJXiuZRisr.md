@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-693 songs - 1 day 23 hr 24 min
+694 songs - 1 day 23 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -538,6 +538,7 @@
 | [Sleepless Nights](https://open.spotify.com/track/2kf4dju8frqCzKbwKW1lnW) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG) | [Consequence of Society, Vol\. X](https://open.spotify.com/album/1mXMsbA0JHpRjY6M1I1J5a) | 7:17 | 2021-05-07 | 2022-07-29 |
 | [Sleepless Nights](https://open.spotify.com/track/7hVkwBCfwGJ442dBh1G5Dv) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG) | [Consequence of Society, Vol\. X](https://open.spotify.com/album/0b2KSA5ptsss2PgbElI69k) | 7:17 | 2022-07-01 | 2022-08-30 |
 | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Slipstream \(feat\. Julia Church\)](https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o) | 4:12 | 2023-09-22 | 2025-05-03 |
+| [Smalltown Boy](https://open.spotify.com/track/5za6XRkJQSrVipzabuf6cV) | [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [Smalltown Boy](https://open.spotify.com/album/1hwUID1QuiH75DSxJJhnwW) | 3:24 | 2026-07-03 |  |
 | [So Far So Good](https://open.spotify.com/track/6NzM2e5qsOoCn4TG5XX2Mx) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [E11EVN](https://open.spotify.com/artist/6Xx4afrFly7ljWMyqVoZkj) | [So Far So Good](https://open.spotify.com/album/1SIcijucSaOA0qp7zDDhPB) | 3:06 | 2022-07-01 | 2022-08-30 |
 | [Social Experiment](https://open.spotify.com/track/4WMBRuafworQrn5KpkA8jI) | [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR), [Milkwish](https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv) | [Social Experiment](https://open.spotify.com/album/3bpBLsg71qESQKI8hiFmdq) | 6:17 | 2021-05-07 | 2022-04-17 |
 | [Solace](https://open.spotify.com/track/0feNo72QolanySmddGhGkc) | [Fangs](https://open.spotify.com/artist/4uwjtp0lY1WNyPdWoGzPf6) | [Solace](https://open.spotify.com/album/53frXkObbpOpfRImwR9O2Q) | 4:40 | 2021-05-07 | 2022-05-31 |
@@ -596,7 +597,7 @@
 | [The Blame \- Single Edit](https://open.spotify.com/track/4dffcyDgshaZyEQaMDkOVB) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Desire](https://open.spotify.com/album/7B6Jr6YFwOk8ShwfTXXY5k) | 4:25 | 2021-05-07 | 2022-04-21 |
 | [The Book Of Wisdom](https://open.spotify.com/track/2LbBVu9zXT5VBtKQUr7Bjz) | [ZOYA](https://open.spotify.com/artist/5eqThkuR9VjiLuYfzESTp7) | [The Book Of Wisdom](https://open.spotify.com/album/3rZzflHwbx182lpEdodaVn) | 3:29 | 2021-05-07 | 2022-04-19 |
 | [The Coaster](https://open.spotify.com/track/29Z2NgQd8Og6nKlzs1GQ6S) | [Rodg](https://open.spotify.com/artist/1kb9YssvADeiGvCUwJzbdT) | [The Coaster](https://open.spotify.com/album/7bc7gl0qBODD1JQHbTtjwA) | 3:06 | 2021-05-07 | 2022-07-21 |
-| [The Good Part](https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [The Good Part](https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL) | 3:11 | 2025-05-30 |  |
+| [The Good Part](https://open.spotify.com/track/6kzR79ao3TNnigymnhJoGI) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [The Good Part](https://open.spotify.com/album/5b566QQbdtpFn1z7G6ONsL) | 3:11 | 2025-05-30 | 2026-07-06 |
 | [The Grand Swell](https://open.spotify.com/track/3SwAjQOvQ79jpLZyjzJwJh) | [Dirty South](https://open.spotify.com/artist/1bpzpALZwOoKXzwMg2i8WB) | [The Grand Swell](https://open.spotify.com/album/23V0126apKDHzsQrAiqLwT) | 4:51 | 2021-08-20 | 2022-07-29 |
 | [The Horizon \(With You\)](https://open.spotify.com/track/0TO3DquQQvJDchx14UOKBF) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [The Horizon \(With You\)](https://open.spotify.com/album/4GO1A8lXlVrAqy0It5up3Q) | 3:07 | 2023-09-15 | 2023-11-21 |
 | [The Last Time](https://open.spotify.com/track/0zfYsG5xe0dMyQWrV68giY) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [The Last Time](https://open.spotify.com/album/64hTWY5vA3Z79w0EuDSBIQ) | 3:31 | 2026-06-26 |  |

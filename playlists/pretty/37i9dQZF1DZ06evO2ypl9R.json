@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAC7ap0MtYBA2dRreTLB+IAv",
+  "snapshot_id": "akhNAAAAAAAo8YOOkl4Lid+V/XTf4yL9",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dionne / What Gets You High?",
-        "url": "https://open.spotify.com/album/1YZPa1oZN6tpuPCt26V15H"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 239495,
-      "name": "What Gets You High?",
-      "url": "https://open.spotify.com/track/1fiXqAJ376nJ5rRfjDNW6c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/6KV80D3ILcPYRKetKucQ68"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 388777,
       "name": "Pride (Main Mix)",
       "url": "https://open.spotify.com/track/6g2O54hw97iNV0Y9kXdrAP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dionne / What Gets You High?",
+        "url": "https://open.spotify.com/album/1YZPa1oZN6tpuPCt26V15H"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 239495,
+      "name": "What Gets You High?",
+      "url": "https://open.spotify.com/track/1fiXqAJ376nJ5rRfjDNW6c"
     },
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 126900,
+      "name": "Gett Loww",
+      "url": "https://open.spotify.com/track/6xWMBSdce2AZvlB1fRn8WE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Quieter You Become, the More You Hear",
         "url": "https://open.spotify.com/album/4wbEw7e3nKisTnmXUaVGEO"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 287043,
       "name": "Recovery Music",
       "url": "https://open.spotify.com/track/6oDQIpokadWkrJk3t5V6zB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spectrum",
-        "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 126900,
-      "name": "Gett Loww",
-      "url": "https://open.spotify.com/track/6xWMBSdce2AZvlB1fRn8WE"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elements Beyond",
-        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 470506,
-      "name": "April",
-      "url": "https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chocolate Puddin'",
         "url": "https://open.spotify.com/album/27xHJMPWVqDvcSwhuknfH7"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 388272,
       "name": "Chocolate Puddin' - FNX Omar Remix",
       "url": "https://open.spotify.com/track/67YOMcFQqySpEjD9vfPMCH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elements Beyond",
+        "url": "https://open.spotify.com/album/79pDy8vTsmo53S0hojCVDw"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 470506,
+      "name": "April",
+      "url": "https://open.spotify.com/track/1eBNdAyCFuYbYy0TKRDd8A"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muwekma EP",
-        "url": "https://open.spotify.com/album/5nCsh7xwFw7jyCMe2iQDB3"
-      },
-      "artists": [
-        {
-          "name": "Marcus Worgull",
-          "url": "https://open.spotify.com/artist/4N2PiVgTuh2rxhc3HGVKAG"
-        },
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 410927,
-      "name": "Reno - Original Mix",
-      "url": "https://open.spotify.com/track/0rlL3d4FppohJlxdQCrxda"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Exit Music - Songs with Radio Heads EP 4",
         "url": "https://open.spotify.com/album/4TQcH4sJAp0hv7Tu9lgtOh"
       },
@@ -683,6 +663,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Muwekma EP",
+        "url": "https://open.spotify.com/album/5nCsh7xwFw7jyCMe2iQDB3"
+      },
+      "artists": [
+        {
+          "name": "Marcus Worgull",
+          "url": "https://open.spotify.com/artist/4N2PiVgTuh2rxhc3HGVKAG"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 410927,
+      "name": "Reno - Original Mix",
+      "url": "https://open.spotify.com/track/0rlL3d4FppohJlxdQCrxda"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dedication EP",
         "url": "https://open.spotify.com/album/0co2Fp51ywLHgX8sEl62qX"
       },
@@ -695,22 +695,6 @@
       "duration_ms": 193560,
       "name": "Cosmic Signs",
       "url": "https://open.spotify.com/track/5fmqznIjOJS050oRCHAUCw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MOSS",
-        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 171668,
-      "name": "The Roads Of Kenya",
-      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
     },
     {
       "added_at": null,
@@ -735,22 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chill Out (Sit Back And Relax)",
-        "url": "https://open.spotify.com/album/5mu0dUqF2CfqijJet4yYsJ"
+        "name": "MOSS",
+        "url": "https://open.spotify.com/album/692Z1gSYO1nWLKgSNrw74p"
       },
       "artists": [
         {
           "name": "Osunlade",
           "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        },
-        {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
         }
       ],
-      "duration_ms": 229268,
-      "name": "Envisions - \u00c2me Acoustic Remix",
-      "url": "https://open.spotify.com/track/14LxnNcx4dNrJlfGOJxpEE"
+      "duration_ms": 171668,
+      "name": "The Roads Of Kenya",
+      "url": "https://open.spotify.com/track/4U2tDJDX9c2HEberB7B3ux"
     },
     {
       "added_at": null,
@@ -771,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chill Out (Sit Back And Relax)",
+        "url": "https://open.spotify.com/album/5mu0dUqF2CfqijJet4yYsJ"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        },
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        }
+      ],
+      "duration_ms": 229268,
+      "name": "Envisions - \u00c2me Acoustic Remix",
+      "url": "https://open.spotify.com/track/14LxnNcx4dNrJlfGOJxpEE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spectrum",
         "url": "https://open.spotify.com/album/4AlX0Yp66zFqstaHqFfJb5"
       },
@@ -783,22 +783,6 @@
       "duration_ms": 514164,
       "name": "Black Woman Cry",
       "url": "https://open.spotify.com/track/29Sx0bBroYHeykh7xSNdmD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ache'",
-        "url": "https://open.spotify.com/album/2lvRr5UqUBPPiDr80JFZP4"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 97141,
-      "name": "Poh's Devotion",
-      "url": "https://open.spotify.com/track/5OcUpKX9VeYwbJp6i1e3aC"
     },
     {
       "added_at": null,
@@ -847,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ache'",
+        "url": "https://open.spotify.com/album/2lvRr5UqUBPPiDr80JFZP4"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 97141,
+      "name": "Poh's Devotion",
+      "url": "https://open.spotify.com/track/5OcUpKX9VeYwbJp6i1e3aC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pyrography",
         "url": "https://open.spotify.com/album/0PHAAYBLx48pTXnYe5EsKH"
       },
@@ -887,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prism EP",
-        "url": "https://open.spotify.com/album/4g4EPRLPyJClFMfvWf8Kby"
-      },
-      "artists": [
-        {
-          "name": "Osunlade",
-          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
-        }
-      ],
-      "duration_ms": 340792,
-      "name": "Sistagurl",
-      "url": "https://open.spotify.com/track/6Uj6lckV30styenVEpFRmM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inner Garden",
         "url": "https://open.spotify.com/album/1VTMe5fxuGQYhC91cKAvRa"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 429496,
       "name": "Luv",
       "url": "https://open.spotify.com/track/28khN5I8USrsWCrl1l01ra"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Dating Game",
+        "url": "https://open.spotify.com/album/4orENSlBaaazYeV7RY7yHI"
+      },
+      "artists": [
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "duration_ms": 366508,
+      "name": "Dating Game",
+      "url": "https://open.spotify.com/track/4gorL6Fj07RhhB5utjNkB0"
     },
     {
       "added_at": null,

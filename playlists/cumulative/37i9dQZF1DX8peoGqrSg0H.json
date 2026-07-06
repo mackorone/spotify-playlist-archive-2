@@ -10485,6 +10485,24 @@
     },
     {
       "album": {
+        "name": "\u0e22\u0e32\u0e41\u0e01\u0e49\u0e41\u0e1e\u0e49 (Love Allergy)",
+        "url": "https://open.spotify.com/album/1RRrXPfEjVTA2769fQy8ro"
+      },
+      "artists": [
+        {
+          "name": "NANON",
+          "url": "https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215625,
+      "name": "\u0e22\u0e32\u0e41\u0e01\u0e49\u0e41\u0e1e\u0e49 (Love Allergy)",
+      "url": "https://open.spotify.com/track/60ztSIToposWNzYOWeKrtp"
+    },
+    {
+      "album": {
         "name": "\u0e22\u0e34\u0e48\u0e07\u0e04\u0e1a\u0e22\u0e34\u0e48\u0e07\u0e44\u0e21\u0e48\u0e23\u0e31\u0e01 (Why?)",
         "url": "https://open.spotify.com/album/1N9UUSSVk5rc4qFOGO1Oye"
       },
@@ -14008,7 +14026,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 185517,
       "name": "\u0e40\u0e18\u0e2d \u0e46 \u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19\u0e40\u0e23\u0e32\u0e0a\u0e2d\u0e1a (Guess Who?)",
       "url": "https://open.spotify.com/track/3ATo1WsiP4luuboQYmuSUT"

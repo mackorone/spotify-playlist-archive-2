@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 52199,
+  "num_followers": 52223,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAA0yAw9RkT7AbXgtP1B0bx3",
+  "snapshot_id": "akhNAAAAAABwYczuZwQDXqbj3LYjiV4M",
   "tracks": [
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
-        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
+        "name": "Sellout",
+        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 146657,
-      "name": "College",
-      "url": "https://open.spotify.com/track/5J2YeOcma7rxH2cas57Tsy"
+      "duration_ms": 198313,
+      "name": "Cold & Alone",
+      "url": "https://open.spotify.com/track/3NWWLWoMA0Cy2T5oyEIqKt"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sellout",
-        "url": "https://open.spotify.com/album/5lbVCoz3kk3ITB6BRBfBMy"
+        "name": "\"These Are Going Nowhere\": A Mixtape by Koe Wetzel",
+        "url": "https://open.spotify.com/album/44r6jSvTWjPMg0NNQT6QZJ"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 198313,
-      "name": "Cold & Alone",
-      "url": "https://open.spotify.com/track/3NWWLWoMA0Cy2T5oyEIqKt"
+      "duration_ms": 146657,
+      "name": "College",
+      "url": "https://open.spotify.com/track/5J2YeOcma7rxH2cas57Tsy"
     },
     {
       "added_at": null,

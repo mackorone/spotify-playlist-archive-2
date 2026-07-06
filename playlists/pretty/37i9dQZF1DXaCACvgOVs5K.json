@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 895412,
+  "num_followers": 895608,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,26 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
+        "name": "My Place",
+        "url": "https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Poppy Baskcomb",
+          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
+        }
+      ],
+      "duration_ms": 159615,
+      "name": "My Place",
+      "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
         "name": "Groovejet (If This Ain\u2019t Love) [not without friends Remix]",
         "url": "https://open.spotify.com/album/5eQfhNNii4T8pMQebfhrpF"
       },
@@ -655,22 +675,6 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
-        "name": "Pull Up",
-        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 155538,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
         "name": "Coastal Transmissions EP",
         "url": "https://open.spotify.com/album/195tyH03HdgJnQNfrPtnzO"
       },
@@ -687,22 +691,18 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
-        "name": "My Temptations",
-        "url": "https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU"
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/6pccPKuOYX6kdQwk7KA9rR"
       },
       "artists": [
         {
-          "name": "Oden & Fatzo",
-          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
-        },
-        {
-          "name": "Barney Bones",
-          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
         }
       ],
-      "duration_ms": 191657,
-      "name": "My Temptations",
-      "url": "https://open.spotify.com/track/2MK2fcwBiq2fHxooYW4qfC"
+      "duration_ms": 155538,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/2Zk7GbM6pfouSACjW1gtcE"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -723,22 +723,22 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
-        "name": "Lemme Dance",
-        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
+        "name": "My Temptations",
+        "url": "https://open.spotify.com/album/7zkuvjLRSq5dqOlNekcQGU"
       },
       "artists": [
         {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+          "name": "Oden & Fatzo",
+          "url": "https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH"
         },
         {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
         }
       ],
-      "duration_ms": 223660,
-      "name": "Lemme Dance",
-      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
+      "duration_ms": 191657,
+      "name": "My Temptations",
+      "url": "https://open.spotify.com/track/2MK2fcwBiq2fHxooYW4qfC"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -775,6 +775,26 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
+        "name": "Lemme Dance",
+        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 223660,
+      "name": "Lemme Dance",
+      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
         "name": "I Never Knew",
         "url": "https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 231680,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
-        "name": "My Place",
-        "url": "https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        },
-        {
-          "name": "Poppy Baskcomb",
-          "url": "https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt"
-        }
-      ],
-      "duration_ms": 159615,
-      "name": "My Place",
-      "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -827,6 +827,26 @@
       "duration_ms": 187087,
       "name": "Patchwork",
       "url": "https://open.spotify.com/track/3BxWLwl3xcFAN0Hk5X13JD"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "Down To The Bone",
+        "url": "https://open.spotify.com/album/6RvCMgBqGhHSdvGlP7SNBa"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        },
+        {
+          "name": "Eliza Rose",
+          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
+        }
+      ],
+      "duration_ms": 171964,
+      "name": "Down To The Bone",
+      "url": "https://open.spotify.com/track/0d2Ad8j1DftVrZENtEA0fj"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -879,26 +899,6 @@
       "duration_ms": 173637,
       "name": "Salam",
       "url": "https://open.spotify.com/track/2Q0Ulx1pR8gTJoCfxOOVCZ"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
-        "name": "Down To The Bone",
-        "url": "https://open.spotify.com/album/6RvCMgBqGhHSdvGlP7SNBa"
-      },
-      "artists": [
-        {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
-        },
-        {
-          "name": "Eliza Rose",
-          "url": "https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP"
-        }
-      ],
-      "duration_ms": 171964,
-      "name": "Down To The Bone",
-      "url": "https://open.spotify.com/track/0d2Ad8j1DftVrZENtEA0fj"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -991,26 +991,6 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
-        "name": "Watch Out Now",
-        "url": "https://open.spotify.com/album/36UhpTxYgQTTZS4usewuKY"
-      },
-      "artists": [
-        {
-          "name": "Tim Sanders",
-          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
-        },
-        {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        }
-      ],
-      "duration_ms": 163890,
-      "name": "Watch Out Now",
-      "url": "https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
         "name": "Come Back Tomorrow",
         "url": "https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 202017,
       "name": "Come Back Tomorrow",
       "url": "https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "Watch Out Now",
+        "url": "https://open.spotify.com/album/36UhpTxYgQTTZS4usewuKY"
+      },
+      "artists": [
+        {
+          "name": "Tim Sanders",
+          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        }
+      ],
+      "duration_ms": 163890,
+      "name": "Watch Out Now",
+      "url": "https://open.spotify.com/track/5kLXDttdWGI7ERlQHwULX0"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
-        "name": "Close 2 U",
-        "url": "https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s"
-      },
-      "artists": [
-        {
-          "name": "Paperwater",
-          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
-        }
-      ],
-      "duration_ms": 129097,
-      "name": "Close 2 U",
-      "url": "https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
         "name": "Next Life",
         "url": "https://open.spotify.com/album/0i8X8bHIlZeLpdKhzVlJI9"
       },
@@ -1439,6 +1423,22 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
+        "name": "Close 2 U",
+        "url": "https://open.spotify.com/album/0G3fLBXfhn2bpDXc11F00s"
+      },
+      "artists": [
+        {
+          "name": "Paperwater",
+          "url": "https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky"
+        }
+      ],
+      "duration_ms": 129097,
+      "name": "Close 2 U",
+      "url": "https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
         "name": "Just Like That EP",
         "url": "https://open.spotify.com/album/6HyNLK9f5wrFumqmGfDeO3"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 203909,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/3eMVersNz99DsD0vvv3Bk6"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "Bad Bara",
+        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        }
+      ],
+      "duration_ms": 245571,
+      "name": "Bad Bara",
+      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -1471,22 +1487,6 @@
       "duration_ms": 298023,
       "name": "Back in the Streets",
       "url": "https://open.spotify.com/track/0UxnhnIwvPayOUU5JlCE6P"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
-        "name": "Bad Bara",
-        "url": "https://open.spotify.com/album/1nkgMtnzvbBSt0BWxFYAlg"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        }
-      ],
-      "duration_ms": 245571,
-      "name": "Bad Bara",
-      "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
-        "name": "Lease Of Life",
-        "url": "https://open.spotify.com/album/1BTsbUwUWqZXkVbMWCxKPS"
-      },
-      "artists": [
-        {
-          "name": "James Poole",
-          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
-        }
-      ],
-      "duration_ms": 166073,
-      "name": "Lease Of Life",
-      "url": "https://open.spotify.com/track/2nFQ3j6z1ktegvAU4xdWyZ"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
         "name": "Back to the Old School",
         "url": "https://open.spotify.com/album/4zqG45IJIbuMfAu4p2TILM"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 371321,
       "name": "Back to the Old School",
       "url": "https://open.spotify.com/track/2GcRQo1iIfDGvg4FBgsrU6"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
+        "name": "Lease Of Life",
+        "url": "https://open.spotify.com/album/1BTsbUwUWqZXkVbMWCxKPS"
+      },
+      "artists": [
+        {
+          "name": "James Poole",
+          "url": "https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT"
+        }
+      ],
+      "duration_ms": 166073,
+      "name": "Lease Of Life",
+      "url": "https://open.spotify.com/track/2nFQ3j6z1ktegvAU4xdWyZ"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -1675,6 +1675,26 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
+        "name": "Misbehave",
+        "url": "https://open.spotify.com/album/1wXcega37XIaXTUHK85zDU"
+      },
+      "artists": [
+        {
+          "name": "DJ Tennis",
+          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
+        },
+        {
+          "name": "Campbell King",
+          "url": "https://open.spotify.com/artist/18XKTgi2KHE5JpxFlrl7YM"
+        }
+      ],
+      "duration_ms": 196511,
+      "name": "Misbehave",
+      "url": "https://open.spotify.com/track/1ALvTgxMMuWG1ZtxDWM0Lb"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
         "name": "Antidote",
         "url": "https://open.spotify.com/album/44NYBlOXyUXNZPols860x3"
       },
@@ -1695,26 +1715,6 @@
       "duration_ms": 196000,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/29ChanrOVDPvzlxx8133x2"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
-        "name": "Misbehave",
-        "url": "https://open.spotify.com/album/1wXcega37XIaXTUHK85zDU"
-      },
-      "artists": [
-        {
-          "name": "DJ Tennis",
-          "url": "https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t"
-        },
-        {
-          "name": "Campbell King",
-          "url": "https://open.spotify.com/artist/18XKTgi2KHE5JpxFlrl7YM"
-        }
-      ],
-      "duration_ms": 196511,
-      "name": "Misbehave",
-      "url": "https://open.spotify.com/track/1ALvTgxMMuWG1ZtxDWM0Lb"
     },
     {
       "added_at": "2026-07-02 23:00:16",
@@ -1847,6 +1847,26 @@
     {
       "added_at": "2026-07-02 23:00:16",
       "album": {
+        "name": "The Drum",
+        "url": "https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp"
+      },
+      "artists": [
+        {
+          "name": "IDRIS",
+          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
+        },
+        {
+          "name": "Sio",
+          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
+        }
+      ],
+      "duration_ms": 197829,
+      "name": "The Drum",
+      "url": "https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0"
+    },
+    {
+      "added_at": "2026-07-02 23:00:16",
+      "album": {
         "name": "Danca",
         "url": "https://open.spotify.com/album/4q7vgxW9x6ySjuYTb9IeGh"
       },
@@ -1879,26 +1899,6 @@
       "duration_ms": 164409,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/6UtHUN0O9W3WC34L5NpT5I"
-    },
-    {
-      "added_at": "2026-07-02 23:00:16",
-      "album": {
-        "name": "The Drum",
-        "url": "https://open.spotify.com/album/6NmhZ8znJbCvIg3N2zEqYp"
-      },
-      "artists": [
-        {
-          "name": "IDRIS",
-          "url": "https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS"
-        },
-        {
-          "name": "Sio",
-          "url": "https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv"
-        }
-      ],
-      "duration_ms": 197829,
-      "name": "The Drum",
-      "url": "https://open.spotify.com/track/6kidZ88sGNXXFI1GzOlUL0"
     },
     {
       "added_at": "2026-07-02 23:00:16",

@@ -4,7 +4,7 @@
 
 > 
 
-568 songs - 1 day 13 hr 0 min
+569 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Papercut](https://open.spotify.com/track/3fjv1YnPIn2UDiGkMKvAFM) | [bennytheghost](https://open.spotify.com/artist/2RhVihxqFGSR3bDu32i9B2), [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG) | [Papercut](https://open.spotify.com/album/51ZkMRNlpeT4hRFCtRg2Xf) | 3:13 | 2026-04-30 |  |
 | [Part Time God](https://open.spotify.com/track/14juitXdt9JqvBQAQP3i5L) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Songs About People Including Myself \(Deluxe Edition\)](https://open.spotify.com/album/6fobonORNgQ7qPTGdCOkEC) | 3:37 | 2024-10-04 |  |
 | [People](https://open.spotify.com/track/3EdTCvjlwK141nxrjPXeTt) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [D\-Sides \[Special Edition\]](https://open.spotify.com/album/2w4tLG1JH25BysuILfkI0x) | 3:28 | 2022-05-09 |  |
+| [Perpetual](https://open.spotify.com/track/1EmbdGpODC0A8TB18vtJRJ) | [DV\-i](https://open.spotify.com/artist/3EQMLkFqKA6xXhzNYlBrbE) | [Perpetual](https://open.spotify.com/album/1nX2SzQba1EmYExiUIKTRI) | 4:15 | 2026-07-05 |  |
 | [PettyWap](https://open.spotify.com/track/76pUKeKLQuxjFFfbXJ5dif) | [Young M.A](https://open.spotify.com/artist/7LvoDJUNGnOrPdGRzVtOJ9) | [Herstory in the Making](https://open.spotify.com/album/1F1JJHhqMo5DETJkesqGpG) | 2:56 | 2022-05-09 |  |
 | [Phoenix](https://open.spotify.com/track/6zAiRKvAMlXHxEtyO4yxIO) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Phoenix](https://open.spotify.com/album/6IatiP8DCUD2ps9KvocWgA) | 3:17 | 2022-05-09 |  |
 | [Photosynthesis](https://open.spotify.com/track/3DlgDXIYtnWtJKiB8bZQMv) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Bucket List Project](https://open.spotify.com/album/10UscF31tC7Sz8S2a1mGbM) | 3:21 | 2022-05-09 |  |

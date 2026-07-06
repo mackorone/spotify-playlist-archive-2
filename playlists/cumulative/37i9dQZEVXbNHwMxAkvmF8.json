@@ -1973,6 +1973,36 @@
     },
     {
       "album": {
+        "name": "ALL NIGHT",
+        "url": "https://open.spotify.com/album/7f6h07e7uMJ86dRRi5L1FV"
+      },
+      "artists": [
+        {
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        },
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "ALL NIGHT",
+      "url": "https://open.spotify.com/track/2dRgO9rNrv4RwS5XNlheoV"
+    },
+    {
+      "album": {
         "name": "american dream",
         "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
       },
@@ -2108,7 +2138,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 152000,
       "name": "Always be mine",
       "url": "https://open.spotify.com/track/3HeA087njNOUOBvTQ2f9jV"
@@ -3994,7 +4024,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -7586,7 +7616,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -11864,7 +11894,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 183000,
       "name": "F\u00c9LT\u00c9GL\u00c1K",
       "url": "https://open.spotify.com/track/70VRbSPeELXFYOO1rk2IJm"
@@ -17216,7 +17246,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "Kimarad\u00e1s",
       "url": "https://open.spotify.com/track/4WM4yywmndp5m8pEEzpxzu"
@@ -21872,7 +21902,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
@@ -26240,7 +26270,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 130679,
       "name": "PROSECCO",
       "url": "https://open.spotify.com/track/6iiW35hSlD0H9AAWpcv9Ii"
@@ -35600,7 +35630,7 @@
       ],
       "date_added": "2025-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 108746,
       "name": "Vinnipu",
       "url": "https://open.spotify.com/track/3yLlQXH3AucZNk0SEB80Kc"
@@ -36178,7 +36208,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 138097,
       "name": "WAKE N BAKE",
       "url": "https://open.spotify.com/track/1bnRSZisq4IX2DIvteVP9M"

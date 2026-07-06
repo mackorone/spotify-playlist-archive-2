@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 211333,
+  "num_followers": 211336,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAACzvGJ2fGNzLZkqpEei/7g9",
+  "snapshot_id": "akhNAAAAAABN7+9JP5iVOT5MPaFx47zc",
   "tracks": [
     {
       "added_at": null,
@@ -1091,22 +1091,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inocente \"Demotape\"",
-        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 173600,
-      "name": "5 da manh\u00e3",
-      "url": "https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "O MENINO QUE QUERIA SER DEUS",
         "url": "https://open.spotify.com/album/3wHxJMiiNBmAJaqFcB7llN"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 226389,
       "name": "ETERNO - Remake",
       "url": "https://open.spotify.com/track/0WjWIeXZighu9xmR5D7fhs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inocente \"Demotape\"",
+        "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 173600,
+      "name": "5 da manh\u00e3",
+      "url": "https://open.spotify.com/track/2fdfXYtk4zUgTxv3jwSqTp"
     },
     {
       "added_at": null,

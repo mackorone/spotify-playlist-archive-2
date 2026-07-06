@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 
 > Lasers, lights & euphoric beats \- all your favorite trance anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,305 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,515 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 8 | [Seven Days and One Week \- Radio Edit](https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg) | [BBE](https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO) | [Seven Days and One Week](https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5) | 4:31 |
 | 9 | [Need To Feel Loved \- Radio Edit](https://open.spotify.com/track/4b9S5yZpvIVxMEuI0rHzk6) | [Reflekt](https://open.spotify.com/artist/1AjG4kPZtTlEhqkrLC1yno), [delline bass](https://open.spotify.com/artist/4mYOtUmFApJtEbaeGt0RCk) | [Need To Feel Loved](https://open.spotify.com/album/5OEUYpDcqOo7wIJsdqnh3X) | 3:16 |
 | 10 | [Airwave \- Radio Vocal Edit](https://open.spotify.com/track/294bZQoJEueD2ys3wrNDmI) | [Rank 1](https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ) | [Airwave](https://open.spotify.com/album/3NzdpoQtPQVRckK9opV5v8) | 2:59 |
-| 11 | [Saltwater](https://open.spotify.com/track/1eohWwYv5zfXgLf5yKCJIS) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Maire Brennan](https://open.spotify.com/artist/6JIbdXrERgmH6Hn8mmjfUR) | [Twenty](https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR) | 3:22 |
+| 11 | [Barber's Adagio for Strings \- Ferry Corsten Remix; Radio Edit;](https://open.spotify.com/track/6qlmPJiL0uQZ45Jirn3VA5) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Fitness Beats 2013](https://open.spotify.com/album/7fym5VfEqhrrQhzFMLghvD) | 3:40 |
 | 12 | [Stay \- Original Single Edit](https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [La Trec](https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv) | [Stay](https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU) | 3:32 |
 | 13 | [Castles In The Sky](https://open.spotify.com/track/3uMZMYC0GurzpeTf9QvPe0) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ), [Marsha](https://open.spotify.com/artist/28Y5nsvbE8IdoUAGNgCk0Y) | [Vocal Trance Hits \- The Anthems](https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m) | 3:47 |
-| 14 | [Barber's Adagio for Strings \- Ferry Corsten Remix; Radio Edit;](https://open.spotify.com/track/6qlmPJiL0uQZ45Jirn3VA5) | [William Orbit](https://open.spotify.com/artist/2AHGrNDMKFi8rHqQ8kJqfl), [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Fitness Beats 2013](https://open.spotify.com/album/7fym5VfEqhrrQhzFMLghvD) | 3:40 |
+| 14 | [Saltwater](https://open.spotify.com/track/1eohWwYv5zfXgLf5yKCJIS) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Maire Brennan](https://open.spotify.com/artist/6JIbdXrERgmH6Hn8mmjfUR) | [Twenty](https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR) | 3:22 |
 | 15 | [Feel the Beat](https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy) | [Darude](https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ) | [Before the Storm, Special Edition](https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo) | 4:19 |
 | 16 | [Insomnia \- Monster Mix](https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Faithless 2.0](https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O) | 8:38 |
 | 17 | [Café Del Mar \- Three 'N One Radio Edit](https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:49 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbtYAdenGE9U.md) - [plain]
 | 47 | [The Whiteroom](https://open.spotify.com/track/64AwAe6HpIEGFjy0KoGsmH) | [Andy Moor](https://open.spotify.com/artist/0Fn4agIyGMwQsKHrx1i8Dn), [Adam White](https://open.spotify.com/artist/3OYcRF1SOf0sR3NRsgMI3R), [Whiteroom](https://open.spotify.com/artist/1JerCKWsimcVvghLc1Kwib) | [The Whiteroom](https://open.spotify.com/album/58P4AdA5mi8Yfjlb5e8Maz) | 3:53 |
 | 48 | [Can't Sleep \- Radio Edit](https://open.spotify.com/track/7imdlxmN8ORoiwbje4KcDy) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Can't Sleep](https://open.spotify.com/album/5KW0519bHDR5rjyGzcGYbB) | 3:12 |
 | 49 | [The Opera Song \(Brave New World\)](https://open.spotify.com/track/5bdmsMmb8uYt7TKrfNYEdy) | [Jurgen Vries](https://open.spotify.com/artist/3CMfhOqeai5QgtAWMqrRjg), [CMC](https://open.spotify.com/artist/6AqyB5I1Cm0tWZkDFrZZFm) | [Brave New World \(The Opera Song\)](https://open.spotify.com/album/2SMRBYdW58eRRemc4oCZdX) | 3:32 |
-| 50 | [Punk](https://open.spotify.com/track/74BSVo5XxxlOOWKstr8doF) | [Ferry Corsten](https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP) | [Ferry Corsten Collected](https://open.spotify.com/album/6ztYonrTxDSPQSD5mfbKkN) | 3:39 |
+| 50 | [Warrior](https://open.spotify.com/track/3lI7LW2LP1994W7kTBOUaK) | [Warrior](https://open.spotify.com/artist/5h5zcDZF3qxBCskb39D8yt) | [Trance Top 1000 \- The Legends](https://open.spotify.com/album/6EFXK7ipsLo87KEXAkONR0) | 3:47 |
 
 Snapshot ID: `AAAAAA89xC5GCEY8D4V1RrvGNEcQUD62`

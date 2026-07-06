@@ -3804,7 +3804,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 247773,
       "name": "I Like You A Lot",
       "url": "https://open.spotify.com/track/1te3mypyhXzEcyqNEX5fsj"
@@ -4028,6 +4028,24 @@
       "duration_ms": 140108,
       "name": "IMAGINE",
       "url": "https://open.spotify.com/track/4WTqC5TIHvLuixfQPBMYey"
+    },
+    {
+      "album": {
+        "name": "In Yr Right Hand Reveal Heaven",
+        "url": "https://open.spotify.com/album/0Dhknp1ZINLIp1TV8QJpH2"
+      },
+      "artists": [
+        {
+          "name": "The Healing Power of Horses",
+          "url": "https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J"
+        }
+      ],
+      "date_added": "2026-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281941,
+      "name": "In Yr Right Hand Reveal Heaven",
+      "url": "https://open.spotify.com/track/5XupJq5fBAe68ZTNP6056a"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23301,
+  "num_followers": 23302,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,26 @@
       "duration_ms": 197081,
       "name": "M\u00e1s Que T\u00fa",
       "url": "https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O"
+    },
+    {
+      "added_at": "2026-07-03 14:08:59",
+      "album": {
+        "name": "treat u right",
+        "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 177565,
+      "name": "treat u right",
+      "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
     },
     {
       "added_at": "2026-07-03 14:08:59",
@@ -79,26 +99,6 @@
       "duration_ms": 125560,
       "name": "Mal o Bien",
       "url": "https://open.spotify.com/track/2EzovFuGDAcjzMGuz39pt4"
-    },
-    {
-      "added_at": "2026-07-03 14:08:59",
-      "album": {
-        "name": "treat u right",
-        "url": "https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 177565,
-      "name": "treat u right",
-      "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
     },
     {
       "added_at": "2026-07-03 14:08:59",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
-        "name": "PILLOW",
-        "url": "https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 125672,
-      "name": "PILLOW",
-      "url": "https://open.spotify.com/track/73oScKWDZaioc8674JUjRO"
-    },
-    {
-      "added_at": "2026-07-03 14:08:59",
-      "album": {
         "name": "Um Corpo Preto",
         "url": "https://open.spotify.com/album/2K26gT3KUNWPet0SodFpvb"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 246486,
       "name": "Mel na Sua Cara",
       "url": "https://open.spotify.com/track/3HrcRxZdZLiXw5MCKJliA3"
+    },
+    {
+      "added_at": "2026-07-03 14:08:59",
+      "album": {
+        "name": "PILLOW",
+        "url": "https://open.spotify.com/album/4hXRpzobnhlhIf5uQnhFPu"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 125672,
+      "name": "PILLOW",
+      "url": "https://open.spotify.com/track/73oScKWDZaioc8674JUjRO"
     },
     {
       "added_at": "2026-07-03 14:08:59",
@@ -539,6 +539,26 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
+        "name": "Um Corpo Preto",
+        "url": "https://open.spotify.com/album/2K26gT3KUNWPet0SodFpvb"
+      },
+      "artists": [
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        },
+        {
+          "name": "BREN9VE",
+          "url": "https://open.spotify.com/artist/4IvMXMjqjqNk9z4I9WJKcy"
+        }
+      ],
+      "duration_ms": 246305,
+      "name": "Faz a Vibe",
+      "url": "https://open.spotify.com/track/5KsbeBLxiYcPAwmncCVwwt"
+    },
+    {
+      "added_at": "2026-07-03 14:08:59",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/2AkCaeXRWht0pyc4SHzGGr"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 188400,
       "name": "Energy",
       "url": "https://open.spotify.com/track/50eUngFZAVXR5jbjoO4INk"
-    },
-    {
-      "added_at": "2026-07-03 14:08:59",
-      "album": {
-        "name": "Um Corpo Preto",
-        "url": "https://open.spotify.com/album/2K26gT3KUNWPet0SodFpvb"
-      },
-      "artists": [
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        },
-        {
-          "name": "BREN9VE",
-          "url": "https://open.spotify.com/artist/4IvMXMjqjqNk9z4I9WJKcy"
-        }
-      ],
-      "duration_ms": 246305,
-      "name": "Faz a Vibe",
-      "url": "https://open.spotify.com/track/5KsbeBLxiYcPAwmncCVwwt"
     },
     {
       "added_at": "2026-07-03 14:08:59",
@@ -875,8 +875,8 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
-        "name": "Halo",
-        "url": "https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4"
+        "name": "Blues",
+        "url": "https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN"
       },
       "artists": [
         {
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 191463,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC"
+      "duration_ms": 164000,
+      "name": "Blues",
+      "url": "https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ"
     },
     {
       "added_at": "2026-07-03 14:08:59",
@@ -979,8 +979,8 @@
     {
       "added_at": "2026-07-03 14:08:59",
       "album": {
-        "name": "Blues",
-        "url": "https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN"
+        "name": "Halo",
+        "url": "https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4"
       },
       "artists": [
         {
@@ -992,9 +992,9 @@
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Blues",
-      "url": "https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ"
+      "duration_ms": 191463,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC"
     },
     {
       "added_at": "2026-07-03 14:08:59",

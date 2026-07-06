@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78374,
+  "num_followers": 78376,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
+        "name": "Odyssey EP",
+        "url": "https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK"
+      },
+      "artists": [
+        {
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
+        }
+      ],
+      "duration_ms": 345286,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
         "name": "Fly In Amber",
         "url": "https://open.spotify.com/album/2AxIuysrol1DlsjFyY5OPL"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 393047,
       "name": "Softening",
       "url": "https://open.spotify.com/track/4ZPVQ5HTTpanWNGGwjMmPD"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
-        "name": "Odyssey EP",
-        "url": "https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK"
-      },
-      "artists": [
-        {
-          "name": "Ede",
-          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
-        }
-      ],
-      "duration_ms": 345286,
-      "name": "Odyssey",
-      "url": "https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4"
     },
     {
       "added_at": "2025-12-03 12:15:55",

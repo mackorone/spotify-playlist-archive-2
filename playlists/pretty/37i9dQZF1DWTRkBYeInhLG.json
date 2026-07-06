@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 502569,
+  "num_followers": 502572,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
+        "name": "MARKERS AND SUCH PENS FLASHDISKS",
+        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "duration_ms": 231187,
+      "name": "Semua lagu cinta",
+      "url": "https://open.spotify.com/track/4s8W4gutSQnFIDNThqUPSI"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
         "name": "Sialan",
         "url": "https://open.spotify.com/album/3FXBtyRQwZsXShVvBc9ulh"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 258845,
       "name": "Rumah",
       "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
-        "name": "MARKERS AND SUCH PENS FLASHDISKS",
-        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
-      },
-      "artists": [
-        {
-          "name": "Sal Priadi",
-          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-        }
-      ],
-      "duration_ms": 231187,
-      "name": "Semua lagu cinta",
-      "url": "https://open.spotify.com/track/4s8W4gutSQnFIDNThqUPSI"
     },
     {
       "added_at": "2026-02-27 14:15:43",

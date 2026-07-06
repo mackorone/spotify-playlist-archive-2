@@ -1,6 +1,6 @@
 {
   "description": "Male artists singing about love.",
-  "num_followers": 823882,
+  "num_followers": 823929,
   "original_name": "In the Arms of a Woman",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "The Stranger (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 290573,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "II",
         "url": "https://open.spotify.com/album/1DjxZpmeR9Dzu9tF4J44S7"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 329800,
       "name": "On Bended Knee",
       "url": "https://open.spotify.com/track/4Gmkqn3V7IMTkOmmiX7cbb"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 290573,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Say You Won't Let Go",
-        "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 211477,
-      "name": "Say You Won't Let Go",
-      "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Dirty Dancing (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 248426,
       "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/7eafuv44YprITfOdzfVLoU"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Say You Won't Let Go",
+        "url": "https://open.spotify.com/album/0BL67dR6x0CPU7B7J9P8qC"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 211477,
+      "name": "Say You Won't Let Go",
+      "url": "https://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Lay Me Down",
-        "url": "https://open.spotify.com/album/3uRJWbCnuU4kCxHQWp009X"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 219045,
-      "name": "Lay Me Down - Single Version",
-      "url": "https://open.spotify.com/track/7r4dwgu3hzR60pVulZ9IP9"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Chicago 18 (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Jb6GQDM1JxfuULJ0icoyE"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
+        "name": "Lay Me Down",
+        "url": "https://open.spotify.com/album/3uRJWbCnuU4kCxHQWp009X"
       },
       "artists": [
         {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 310000,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/0knqVSsgD7C8yu5yNmQFbA"
+      "duration_ms": 219045,
+      "name": "Lay Me Down - Single Version",
+      "url": "https://open.spotify.com/track/7r4dwgu3hzR60pVulZ9IP9"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1151,6 +1135,22 @@
       "duration_ms": 252653,
       "name": "You & I (Nobody in the World)",
       "url": "https://open.spotify.com/track/55nlbqqFVnSsArIeYSQlqx"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 310000,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/0knqVSsgD7C8yu5yNmQFbA"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 247842,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Endless Journey \u2013 The Essential Leo Sayer",
         "url": "https://open.spotify.com/album/2qcpKdOFBiNMV7DNnTCW6x"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 252773,
       "name": "When I Need You",
       "url": "https://open.spotify.com/track/2EmS1b64xEjUdvDcLE1AuX"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/0PKJ1GtB1639K7P0hbjvfM"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 247842,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/3MQMBm2m3UqpT23doEOZc2"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Heartbreaker",
+        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 338923,
+      "name": "In My Time of Need",
+      "url": "https://open.spotify.com/track/4JIGrn55PH4BNnoofFKnYc"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/0vQOkW8jvRYdf0wzonmLMK"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 171020,
       "name": "What If",
       "url": "https://open.spotify.com/track/1nyQWVjQ46agLbVmJJbWR7"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Heartbreaker",
-        "url": "https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 338923,
-      "name": "In My Time of Need",
-      "url": "https://open.spotify.com/track/4JIGrn55PH4BNnoofFKnYc"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Avalon Sunset",
-        "url": "https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 260385,
-      "name": "Have I Told You Lately",
-      "url": "https://open.spotify.com/track/1VsGYaCBFjCVudtX9IGqDg"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "Purpose (Deluxe)",
         "url": "https://open.spotify.com/album/7fZH0aUAjY3ay25obOUf2a"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 233720,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/3hB5DgAiMAQ4DzYbsMq1IT"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Avalon Sunset",
+        "url": "https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 260385,
+      "name": "Have I Told You Lately",
+      "url": "https://open.spotify.com/track/1VsGYaCBFjCVudtX9IGqDg"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2055,18 +2055,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Love And Emotion",
-        "url": "https://open.spotify.com/album/0ruAWd75Hr6xtUS2ht8HW1"
+        "name": "Nobody Else (Deluxe)",
+        "url": "https://open.spotify.com/album/5QnHvl0ne6yEhRGw3ajvFF"
       },
       "artists": [
         {
-          "name": "Stevie B",
-          "url": "https://open.spotify.com/artist/6V7pNWhlJpD0s0bMdB1PU9"
+          "name": "Take That",
+          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
         }
       ],
-      "duration_ms": 303333,
-      "name": "Because I Love You (The Postman Song)",
-      "url": "https://open.spotify.com/track/6VmodO1LYuO5RVpaqn5kwp"
+      "duration_ms": 242266,
+      "name": "Back for Good - Radio Mix",
+      "url": "https://open.spotify.com/track/24fQpRwKFkC3Fe8QtvvrNw"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2087,34 +2087,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Nobody Else (Deluxe)",
-        "url": "https://open.spotify.com/album/5QnHvl0ne6yEhRGw3ajvFF"
+        "name": "Love And Emotion",
+        "url": "https://open.spotify.com/album/0ruAWd75Hr6xtUS2ht8HW1"
       },
       "artists": [
         {
-          "name": "Take That",
-          "url": "https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ"
+          "name": "Stevie B",
+          "url": "https://open.spotify.com/artist/6V7pNWhlJpD0s0bMdB1PU9"
         }
       ],
-      "duration_ms": 242266,
-      "name": "Back for Good - Radio Mix",
-      "url": "https://open.spotify.com/track/24fQpRwKFkC3Fe8QtvvrNw"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "Sweet Baby James",
-        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 200579,
-      "name": "Fire and Rain",
-      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+      "duration_ms": 303333,
+      "name": "Because I Love You (The Postman Song)",
+      "url": "https://open.spotify.com/track/6VmodO1LYuO5RVpaqn5kwp"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2135,6 +2119,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Sweet Baby James",
+        "url": "https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "duration_ms": 200579,
+      "name": "Fire and Rain",
+      "url": "https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Exclusive",
         "url": "https://open.spotify.com/album/5t7BjMUC2HXa5cWDOWmnVg"
       },
@@ -2151,22 +2151,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Teaser And The Firecat",
-        "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Morning Has Broken",
-      "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The Best Of Extreme (An Accidental Collication Of Atoms)",
         "url": "https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI"
       },
@@ -2179,6 +2163,22 @@
       "duration_ms": 335946,
       "name": "More Than Words",
       "url": "https://open.spotify.com/track/7z0JcZ8PQoAfUaLIXvbyTH"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Teaser And The Firecat",
+        "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Morning Has Broken",
+      "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Love Someone",
-        "url": "https://open.spotify.com/album/1y36YwGaSrqhDsxilR95iH"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 205463,
-      "name": "Love Someone",
-      "url": "https://open.spotify.com/track/6r3baE6njwU4aoJq6zPukG"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
         "name": "The Original Soundtrack",
         "url": "https://open.spotify.com/album/7pHLyF1GWxk65WE6Rkrod3"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 366640,
       "name": "I'm Not In Love",
       "url": "https://open.spotify.com/track/6cuKJ1bFFy4OjfkCI9YBqc"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
+        "name": "Love Someone",
+        "url": "https://open.spotify.com/album/1y36YwGaSrqhDsxilR95iH"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 205463,
+      "name": "Love Someone",
+      "url": "https://open.spotify.com/track/6r3baE6njwU4aoJq6zPukG"
     },
     {
       "added_at": "2022-08-26 12:00:00",
@@ -2359,6 +2359,22 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
+        "name": "Ronan",
+        "url": "https://open.spotify.com/album/1aYzN2EJMOgjFzuiDEiuEP"
+      },
+      "artists": [
+        {
+          "name": "Ronan Keating",
+          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+        }
+      ],
+      "duration_ms": 258226,
+      "name": "When You Say Nothing At All",
+      "url": "https://open.spotify.com/track/306LQdB2k5yBGsiIV2oeC3"
+    },
+    {
+      "added_at": "2022-08-26 12:00:00",
+      "album": {
         "name": "Dancing On The Ceiling (Expanded Edition)",
         "url": "https://open.spotify.com/album/1b81mEDt3DmqDdQrZg3i8F"
       },
@@ -2391,34 +2407,18 @@
     {
       "added_at": "2022-08-26 12:00:00",
       "album": {
-        "name": "Ronan",
-        "url": "https://open.spotify.com/album/1aYzN2EJMOgjFzuiDEiuEP"
+        "name": "Lifehouse (International Version)",
+        "url": "https://open.spotify.com/album/4mmUYaBXYsLKsuCoAE9UvX"
       },
       "artists": [
         {
-          "name": "Ronan Keating",
-          "url": "https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh"
+          "name": "Lifehouse",
+          "url": "https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3"
         }
       ],
-      "duration_ms": 258226,
-      "name": "When You Say Nothing At All",
-      "url": "https://open.spotify.com/track/306LQdB2k5yBGsiIV2oeC3"
-    },
-    {
-      "added_at": "2022-08-26 12:00:00",
-      "album": {
-        "name": "No Jacket Required",
-        "url": "https://open.spotify.com/album/3qtMUaEjvbHbPCmnGcrVCi"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 292120,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/5IlaV4UNciCTDGxWVPfMKL"
+      "duration_ms": 195493,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/4T2SmVJPtDdugk5j5xV1d5"
     }
   ],
   "unique_name": "In the Arms of a Woman",

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAAcpZwuigDT5LwQNwd+bZgl",
+  "snapshot_id": "akhNAAAAAACvQmN4UQxsNqGAtU5gj6vR",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 145160,
-      "name": "Slow Drag",
-      "url": "https://open.spotify.com/track/7bDRsLX9AnLGmZo2jHIxFr"
+      "duration_ms": 166533,
+      "name": "Gonna Be Strong",
+      "url": "https://open.spotify.com/track/3Z1ShJS6GqI5K3bUdZdOTT"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 166533,
-      "name": "Gonna Be Strong",
-      "url": "https://open.spotify.com/track/3Z1ShJS6GqI5K3bUdZdOTT"
+      "duration_ms": 145160,
+      "name": "Slow Drag",
+      "url": "https://open.spotify.com/track/7bDRsLX9AnLGmZo2jHIxFr"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Town Doo Wop, Vol. 5",
-        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
+        "name": "When We Get Married",
+        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 148991,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s"
+      "duration_ms": 161413,
+      "name": "Tender (Was The Love We Knew)",
+      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "When We Get Married",
-        "url": "https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7"
+        "name": "Old Town Doo Wop, Vol. 5",
+        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 161413,
-      "name": "Tender (Was The Love We Knew)",
-      "url": "https://open.spotify.com/track/7M6mfBANj32qorIc9aAM4Z"
+      "duration_ms": 148991,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s"
     },
     {
       "added_at": null,
@@ -612,41 +612,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 133413,
-      "name": "Dance Boy",
-      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Old Town Doo Wop, Vol. 5",
-        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 139726,
-      "name": "Just to Be",
-      "url": "https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let's Go Instro",
-        "url": "https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1"
-      },
-      "artists": [
-        {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
-        }
-      ],
-      "duration_ms": 135800,
-      "name": "Rockamaroll",
-      "url": "https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl"
+      "duration_ms": 165813,
+      "name": "I'm Glad Your're My Girl",
+      "url": "https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q"
     },
     {
       "added_at": null,
@@ -667,6 +635,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let's Go Instro",
+        "url": "https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 135800,
+      "name": "Rockamaroll",
+      "url": "https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Town Doo Wop, Vol. 5",
+        "url": "https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF"
+      },
+      "artists": [
+        {
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+        }
+      ],
+      "duration_ms": 139726,
+      "name": "Just to Be",
+      "url": "https://open.spotify.com/track/7BvoAUxstGc6Ssmc592bTG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ben-Lee Recordings 1963-65",
         "url": "https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec"
       },
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 165813,
-      "name": "I'm Glad Your're My Girl",
-      "url": "https://open.spotify.com/track/2H6diTdJOS5SjxEvZJCa4q"
+      "duration_ms": 133413,
+      "name": "Dance Boy",
+      "url": "https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A"
     },
     {
       "added_at": null,

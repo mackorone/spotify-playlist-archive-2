@@ -1,6 +1,6 @@
 {
   "description": "The biggest sounds for the beautiful game \u26bd",
-  "num_followers": 152390,
+  "num_followers": 152868,
   "original_name": "Football Anthems",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-06-26 12:43:59",
       "album": {
+        "name": "Sweet Caroline",
+        "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 203573,
+      "name": "Sweet Caroline",
+      "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
+    },
+    {
+      "added_at": "2026-06-26 12:43:59",
+      "album": {
         "name": "DNA (More Than A Game) [FIFA World Cup 2026\u2122]",
         "url": "https://open.spotify.com/album/53oXeqv93oxxcJwFt3fjH5"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 176855,
       "name": "DNA (More Than A Game)",
       "url": "https://open.spotify.com/track/40qwbrvCXsiOPh9xOupCMp"
-    },
-    {
-      "added_at": "2026-06-26 12:43:59",
-      "album": {
-        "name": "Sweet Caroline",
-        "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Sweet Caroline",
-      "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
     },
     {
       "added_at": "2026-06-26 12:43:59",

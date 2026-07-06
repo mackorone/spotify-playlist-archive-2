@@ -1763,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "Grand Ballet",
+        "url": "https://open.spotify.com/album/75YY4RxuyNJBsUXlV91sT6"
+      },
+      "artists": [
+        {
+          "name": "Talking to Sophie",
+          "url": "https://open.spotify.com/artist/0LTUT9DnhghYPP64a0ZXmC"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178378,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/3vX92NNpPBm3f94fqEZTaX"
+    },
+    {
+      "album": {
         "name": "Back In Business",
         "url": "https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ"
       },

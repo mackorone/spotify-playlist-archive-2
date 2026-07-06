@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,638,796 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,638,782 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 32 | [Running Out Of Roses](https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Walker Racing League](https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV) | 2:16 |
 | 33 | [Tired](https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Tired](https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2) | 3:12 |
 | 34 | [Dancing in love](https://open.spotify.com/track/5KMVvlczBJnxDJJe3U4Tbn) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Walkerworld 2.0](https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2) | 2:36 |
-| 35 | [Old Habits \(From Delta Force Game\)](https://open.spotify.com/track/5tKCXGkAsVCQW2Wce51Gs3) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Delta Force](https://open.spotify.com/artist/7LMRd2GY8us9EXHeY4Mi9G), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Old Habits \(From Delta Force Game\)](https://open.spotify.com/album/6JC5LFS1ZhuNjN31EMfWWX) | 3:10 |
-| 36 | [Me, Myself and The Night](https://open.spotify.com/track/1ANHFjW6Z4akC9aDlBC4zY) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me, Myself and The Night](https://open.spotify.com/album/04uFoSw7ap9Jv8P9PoZls4) | 4:11 |
+| 35 | [Me, Myself and The Night](https://open.spotify.com/track/1ANHFjW6Z4akC9aDlBC4zY) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Me, Myself and The Night](https://open.spotify.com/album/04uFoSw7ap9Jv8P9PoZls4) | 4:11 |
+| 36 | [Old Habits \(From Delta Force Game\)](https://open.spotify.com/track/5tKCXGkAsVCQW2Wce51Gs3) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Delta Force](https://open.spotify.com/artist/7LMRd2GY8us9EXHeY4Mi9G), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Old Habits \(From Delta Force Game\)](https://open.spotify.com/album/6JC5LFS1ZhuNjN31EMfWWX) | 3:10 |
 | 37 | [Fire!](https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Fire! \(feat\. YUQI \(\(G\)I\-DLE\), JVKE\)](https://open.spotify.com/album/5uI3nK40uWp8fRu9Cvk71w) | 2:03 |
 | 38 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 |
 | 39 | [PS5](https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye) | 2:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [A World I Don't Know](https://open.spotify.com/track/12r9zcMRAnoADUQoOJR9yC) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr), [Kaeleb](https://open.spotify.com/artist/2VnOskb1ZffIkyrTmennEv) | [A World I Don't Know](https://open.spotify.com/album/3noCGUpws1zv3tJ66AeFNE) | 1:51 |
 | 50 | [Getaway](https://open.spotify.com/track/1TEWG0GEdHI97khSkcj7rX) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [World of Walker, Season One: Rise of the Drones](https://open.spotify.com/album/4ZPFShjjY5bGsyvn9aiqrd) | 2:53 |
 
-Snapshot ID: `akb7gAAAAAAjLg6yTS5WVt93y2D5UdX/`
+Snapshot ID: `akhNAAAAAABjqqcbtz4MLu9XiwXECwoU`

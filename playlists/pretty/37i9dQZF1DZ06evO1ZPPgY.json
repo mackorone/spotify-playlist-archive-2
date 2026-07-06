@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 235354,
+  "num_followers": 235377,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAC52v4opUAz3RqdgfPA202U",
+  "snapshot_id": "akhNAAAAAADCqH13EthF5bBUdUuKG3A0",
   "tracks": [
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j"
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 192160,
-      "name": "I'm Qualified To Satisfy You - Edit",
-      "url": "https://open.spotify.com/track/2zG5Yo3FFSjdsDuLzejIZe"
+      "duration_ms": 194173,
+      "name": "Honey Please, Can't Ya See",
+      "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White's Greatest Hits",
-        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 194173,
-      "name": "Honey Please, Can't Ya See",
-      "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
+      "duration_ms": 192160,
+      "name": "I'm Qualified To Satisfy You - Edit",
+      "url": "https://open.spotify.com/track/2zG5Yo3FFSjdsDuLzejIZe"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barry White's Greatest Hits",
-        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 220493,
-      "name": "I've Found Someone",
-      "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Put Me In Your Mix",
         "url": "https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 345333,
       "name": "Volare",
       "url": "https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "I've Found Someone",
+      "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 75973,
+  "num_followers": 75980,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
+        "name": "Go Hard / Wednesday",
+        "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
+      },
+      "artists": [
+        {
+          "name": "T-Lex",
+          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
+        }
+      ],
+      "duration_ms": 267586,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
         "name": "Thriller / Good Ol' Days",
         "url": "https://open.spotify.com/album/5Xi9MKZ3kzCJmnvOeiQatj"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 190344,
       "name": "Thriller",
       "url": "https://open.spotify.com/track/6cF0duAq36nMaKUWtQb6Uc"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
-        "name": "Go Hard / Wednesday",
-        "url": "https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB"
-      },
-      "artists": [
-        {
-          "name": "T-Lex",
-          "url": "https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL"
-        }
-      ],
-      "duration_ms": 267586,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ"
     },
     {
       "added_at": "2026-07-01 17:59:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
+        "name": "There In 10",
+        "url": "https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 246896,
+      "name": "There In 10",
+      "url": "https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
         "name": "Outta Order",
         "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 235885,
       "name": "Outta Order",
       "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
-        "name": "There In 10",
-        "url": "https://open.spotify.com/album/5LMpeaTYk1hxd4lTFd0lEm"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 246896,
-      "name": "There In 10",
-      "url": "https://open.spotify.com/track/37I6Fw5ZYnzfAXPBwITT3t"
     },
     {
       "added_at": "2026-07-01 17:59:00",

@@ -1,6 +1,6 @@
 {
   "description": "Big rap for big reps. You got this.",
-  "num_followers": 2596186,
+  "num_followers": 2596391,
   "original_name": "Rap Workout",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-03-30 10:03:22",
       "album": {
+        "name": "Last Lap",
+        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "25",
+      "url": "https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3"
+    },
+    {
+      "added_at": "2026-03-30 10:03:22",
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 218801,
       "name": "m y . l i f e (with 21 Savage & Morray)",
       "url": "https://open.spotify.com/track/1D3z6HTiQsNmZxjl7F7eoG"
-    },
-    {
-      "added_at": "2026-03-30 10:03:22",
-      "album": {
-        "name": "Last Lap",
-        "url": "https://open.spotify.com/album/4ffJTc6OVVJ7rr65r5CGbq"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "25",
-      "url": "https://open.spotify.com/track/0U60hgxzGit7juEuHul2y3"
     },
     {
       "added_at": "2026-03-30 10:03:22",
@@ -1511,8 +1511,8 @@
     {
       "added_at": "2026-03-30 10:03:22",
       "album": {
-        "name": "him all along",
-        "url": "https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR"
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
       },
       "artists": [
         {
@@ -1520,9 +1520,9 @@
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 158666,
-      "name": "him all along",
-      "url": "https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl"
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
     },
     {
       "added_at": "2026-03-30 10:03:22",
@@ -1607,8 +1607,8 @@
     {
       "added_at": "2026-03-30 10:03:22",
       "album": {
-        "name": "GOT DAMN",
-        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+        "name": "him all along",
+        "url": "https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR"
       },
       "artists": [
         {
@@ -1616,9 +1616,9 @@
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 156800,
-      "name": "GOT DAMN",
-      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+      "duration_ms": 158666,
+      "name": "him all along",
+      "url": "https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl"
     },
     {
       "added_at": "2026-03-30 10:03:22",

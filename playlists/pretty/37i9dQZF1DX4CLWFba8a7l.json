@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: Amy Shark",
-  "num_followers": 138097,
+  "num_followers": 138089,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
-        "name": "Baby Blue / When It Comes To Loving You",
-        "url": "https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 171630,
-      "name": "Baby Blue",
-      "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
-    },
-    {
-      "added_at": "2026-07-02 14:01:07",
-      "album": {
         "name": "can we do it all again?",
         "url": "https://open.spotify.com/album/4FRJ8Vn159vRiyLTdcGAWI"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 221805,
       "name": "Feel Again",
       "url": "https://open.spotify.com/track/4fZLc0wDQI58O19N5rkK2K"
+    },
+    {
+      "added_at": "2026-07-02 14:01:07",
+      "album": {
+        "name": "Baby Blue / When It Comes To Loving You",
+        "url": "https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "duration_ms": 171630,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
     },
     {
       "added_at": "2026-07-02 14:01:07",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
-        "name": "Do You Really Love Her",
-        "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 228168,
-      "name": "Do You Really Love Her",
-      "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
-    },
-    {
-      "added_at": "2026-07-02 14:01:07",
-      "album": {
         "name": "Get Away From Me (I Think I'll Love You Soon)",
         "url": "https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 168523,
       "name": "Get Away From Me (I Think I'll Love You Soon)",
       "url": "https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo"
+    },
+    {
+      "added_at": "2026-07-02 14:01:07",
+      "album": {
+        "name": "Do You Really Love Her",
+        "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 228168,
+      "name": "Do You Really Love Her",
+      "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
     },
     {
       "added_at": "2026-07-02 14:01:07",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
-        "name": "boy that's loving you",
-        "url": "https://open.spotify.com/album/1wjkQnmMpbXyNkMJjmmLgW"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 184694,
-      "name": "boy that's loving you",
-      "url": "https://open.spotify.com/track/3zuhn8OqdMQFjrQdlZJ5Hw"
-    },
-    {
-      "added_at": "2026-07-02 14:01:07",
-      "album": {
         "name": "System",
         "url": "https://open.spotify.com/album/1JlzRvFk7m0lixdexCEYEk"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
+        "name": "boy that's loving you",
+        "url": "https://open.spotify.com/album/1wjkQnmMpbXyNkMJjmmLgW"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 184694,
+      "name": "boy that's loving you",
+      "url": "https://open.spotify.com/track/3zuhn8OqdMQFjrQdlZJ5Hw"
+    },
+    {
+      "added_at": "2026-07-02 14:01:07",
+      "album": {
         "name": "Karaoke Bar",
         "url": "https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
-        "name": "Holy Grail",
-        "url": "https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD"
-      },
-      "artists": [
-        {
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Holy Grail",
-      "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"
-    },
-    {
-      "added_at": "2026-07-02 14:01:07",
-      "album": {
         "name": "PQC",
         "url": "https://open.spotify.com/album/35hsDC9B2utVC66cjrJ1GY"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 212195,
       "name": "PQC",
       "url": "https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO"
+    },
+    {
+      "added_at": "2026-07-02 14:01:07",
+      "album": {
+        "name": "Holy Grail",
+        "url": "https://open.spotify.com/album/3iyMT2SidxOVa1rR3a1OCD"
+      },
+      "artists": [
+        {
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Holy Grail",
+      "url": "https://open.spotify.com/track/1tvQg3PugyQGddBmD2GnCL"
     },
     {
       "added_at": "2026-07-02 14:01:07",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
+        "name": "FACEDOWN",
+        "url": "https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 221818,
+      "name": "FACEDOWN",
+      "url": "https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8"
+    },
+    {
+      "added_at": "2026-07-02 14:01:07",
+      "album": {
         "name": "Tu Coraz\u00f3n (Your Heart)",
         "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp"
-      },
-      "artists": [
-        {
-          "name": "BOY SODA",
-          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
-        }
-      ],
-      "duration_ms": 207138,
-      "name": "Elements",
-      "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
-    },
-    {
-      "added_at": "2026-07-02 14:01:07",
-      "album": {
         "name": "Exit Wounds",
         "url": "https://open.spotify.com/album/6Vm6inhzAgOMOCi1LRcXCY"
       },
@@ -1119,38 +1119,18 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
-        "name": "FACEDOWN",
-        "url": "https://open.spotify.com/album/0HvxP4GWEWPoENikGeEeee"
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp"
       },
       "artists": [
         {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+          "name": "BOY SODA",
+          "url": "https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW"
         }
       ],
-      "duration_ms": 221818,
-      "name": "FACEDOWN",
-      "url": "https://open.spotify.com/track/3NeyGd5x77xBqeByPsTqq8"
-    },
-    {
-      "added_at": "2026-07-02 14:01:07",
-      "album": {
-        "name": "iluv",
-        "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
-      },
-      "artists": [
-        {
-          "name": "Effy",
-          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 257798,
-      "name": "iluv",
-      "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
+      "duration_ms": 207138,
+      "name": "Elements",
+      "url": "https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ"
     },
     {
       "added_at": "2026-07-02 14:01:07",
@@ -1203,6 +1183,22 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
+        "name": "Beautiful Noise In My Head",
+        "url": "https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "duration_ms": 211331,
+      "name": "Beautiful Noise In My Head",
+      "url": "https://open.spotify.com/track/2GoLYTvdOKOTNJYOBUk7N6"
+    },
+    {
+      "added_at": "2026-07-02 14:01:07",
+      "album": {
         "name": "Experiencing Feelings of Joy",
         "url": "https://open.spotify.com/album/30vkSdtJBtkpCJEPmgyg6F"
       },
@@ -1235,18 +1231,22 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
-        "name": "Beautiful Noise In My Head",
-        "url": "https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N"
+        "name": "iluv",
+        "url": "https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv"
       },
       "artists": [
         {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
         }
       ],
-      "duration_ms": 211331,
-      "name": "Beautiful Noise In My Head",
-      "url": "https://open.spotify.com/track/2GoLYTvdOKOTNJYOBUk7N6"
+      "duration_ms": 257798,
+      "name": "iluv",
+      "url": "https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr"
     },
     {
       "added_at": "2026-07-02 14:01:07",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
+        "name": "Monroe",
+        "url": "https://open.spotify.com/album/2RHzAwuXOlgiqedUFioxHQ"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 220290,
+      "name": "Monroe",
+      "url": "https://open.spotify.com/track/4mHEAiQ3TqXizTGJEMZrEo"
+    },
+    {
+      "added_at": "2026-07-02 14:01:07",
+      "album": {
         "name": "Velcro",
         "url": "https://open.spotify.com/album/5ucuVQ7IvRZDPtdXfql6HG"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
-        "name": "Monroe",
-        "url": "https://open.spotify.com/album/2RHzAwuXOlgiqedUFioxHQ"
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 220290,
-      "name": "Monroe",
-      "url": "https://open.spotify.com/track/4mHEAiQ3TqXizTGJEMZrEo"
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
     },
     {
       "added_at": "2026-07-02 14:01:07",
@@ -1323,22 +1339,6 @@
       "duration_ms": 205693,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
-    },
-    {
-      "added_at": "2026-07-02 14:01:07",
-      "album": {
-        "name": "Music On The Radio",
-        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 176196,
-      "name": "Music On The Radio",
-      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
     },
     {
       "added_at": "2026-07-02 14:01:07",
@@ -1375,18 +1375,22 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
-        "name": "REDSTAR WU & THE WORLDWIDE SCOURGE",
-        "url": "https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V"
+        "name": "gossip",
+        "url": "https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw"
       },
       "artists": [
         {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        },
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
         }
       ],
-      "duration_ms": 216311,
-      "name": "BIG DOG",
-      "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
+      "duration_ms": 199690,
+      "name": "gossip",
+      "url": "https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q"
     },
     {
       "added_at": "2026-07-02 14:01:07",
@@ -1407,22 +1411,18 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
-        "name": "gossip",
-        "url": "https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw"
+        "name": "REDSTAR WU & THE WORLDWIDE SCOURGE",
+        "url": "https://open.spotify.com/album/0nhxoQOhijxQPzPBv6OK9V"
       },
       "artists": [
         {
-          "name": "Confidence Man",
-          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
-        },
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
         }
       ],
-      "duration_ms": 199690,
-      "name": "gossip",
-      "url": "https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q"
+      "duration_ms": 216311,
+      "name": "BIG DOG",
+      "url": "https://open.spotify.com/track/5SHQAQPCg74DGXaxbH9OhZ"
     },
     {
       "added_at": "2026-07-02 14:01:07",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
-        "name": "House of Cards",
-        "url": "https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5"
-      },
-      "artists": [
-        {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
-        }
-      ],
-      "duration_ms": 166711,
-      "name": "Kickboxer",
-      "url": "https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN"
-    },
-    {
-      "added_at": "2026-07-02 14:01:07",
-      "album": {
         "name": "Tragic Magic",
         "url": "https://open.spotify.com/album/7oLX84jA6AHnCyELknktHA"
       },
@@ -1515,18 +1499,34 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq"
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/5V0ZWdLXKyHg9Ry1tRhVv5"
       },
       "artists": [
         {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+          "name": "The Amity Affliction",
+          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
         }
       ],
-      "duration_ms": 303130,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
+      "duration_ms": 166711,
+      "name": "Kickboxer",
+      "url": "https://open.spotify.com/track/08Q6bcPGaSSeBttJjToFJN"
+    },
+    {
+      "added_at": "2026-07-02 14:01:07",
+      "album": {
+        "name": "Marginalia",
+        "url": "https://open.spotify.com/album/24tPRjQC2xJJBHiQlu65ot"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "duration_ms": 178455,
+      "name": "Quiet When You\u2019re Listening",
+      "url": "https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg"
     },
     {
       "added_at": "2026-07-02 14:01:07",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
-        "name": "Marginalia",
-        "url": "https://open.spotify.com/album/24tPRjQC2xJJBHiQlu65ot"
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0nY0X0q9Kv4b1iEiv1ORFq"
       },
       "artists": [
         {
-          "name": "Rum Jungle",
-          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
         }
       ],
-      "duration_ms": 178455,
-      "name": "Quiet When You\u2019re Listening",
-      "url": "https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg"
+      "duration_ms": 303130,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/79G8bdHuXIbHCAOsyuDWzN"
     },
     {
       "added_at": "2026-07-02 14:01:07",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-07-02 14:01:07",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P"
-      },
-      "artists": [
-        {
-          "name": "Shouse",
-          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
-        }
-      ],
-      "duration_ms": 328655,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW"
-    },
-    {
-      "added_at": "2026-07-02 14:01:07",
-      "album": {
         "name": "Chase Your Tail",
         "url": "https://open.spotify.com/album/2VBxycc0YtWBprEsQxOmby"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 260877,
       "name": "Skyworks",
       "url": "https://open.spotify.com/track/4sJSX4ATg5lBiEqce6kiFO"
+    },
+    {
+      "added_at": "2026-07-02 14:01:07",
+      "album": {
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/2c7CmLUHiHGi5n0uhHf22P"
+      },
+      "artists": [
+        {
+          "name": "Shouse",
+          "url": "https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB"
+        }
+      ],
+      "duration_ms": 328655,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/3bS6JKgmnvg6mjQLCZi7JW"
     },
     {
       "added_at": "2026-07-02 14:01:07",

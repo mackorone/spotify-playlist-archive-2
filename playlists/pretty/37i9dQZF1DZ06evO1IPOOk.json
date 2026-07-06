@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1923337,
+  "num_followers": 1923370,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAD2pziD7ujVGu5n596+jElD",
+  "snapshot_id": "akhNAAAAAABb1a/1vASaJy2iXablsQ/F",
   "tracks": [
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUMBLE. (SKRILLEX REMIX)",
-        "url": "https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "HUMBLE. - SKRILLEX REMIX",
-      "url": "https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 266072,
       "name": "Doves In The Wind (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/593W4qZOwwdqF6YnimJjL6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HUMBLE. (SKRILLEX REMIX)",
+        "url": "https://open.spotify.com/album/1X4aaOIXvs6gWtQZQpln4V"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "HUMBLE. - SKRILLEX REMIX",
+      "url": "https://open.spotify.com/track/65ES1qwOB577ZnTkizMXJJ"
     },
     {
       "added_at": null,

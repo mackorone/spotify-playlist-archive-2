@@ -2,9 +2,9 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Crystal Castles, Pastel Ghost, Cults and more
+> With Crystal Castles, Pastel Ghost, Phantogram and more
 
-1,852 songs - 4 day 18 hr 2 min
+1,853 songs - 4 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [a woman is a god](https://open.spotify.com/track/1aJwxjWEaP7SOWZ3ejaKej) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [a woman is a god](https://open.spotify.com/album/7GtdOSYKbmsBdpGCQK8Wd0) | 2:58 | 2021-07-29 | 2022-03-04 |
 | [A/B Machines](https://open.spotify.com/track/3RdCbriHX35hNIcF6dIhgM) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/1IWkF6zpOq73txmrYpljIT) | 3:34 | 2022-06-09 | 2022-10-12 |
 | [Abducted](https://open.spotify.com/track/7yAji4t1cAxthnsE3WcsIc) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Cults](https://open.spotify.com/album/0OvMqTVXYlNpWbGuxQrt6M) | 2:52 | 2022-10-07 | 2022-10-08 |
+| [Abyss](https://open.spotify.com/track/4gD62cf8agHxwmlnqfuJRO) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE) | 4:27 | 2026-07-06 |  |
 | [Accelerate](https://open.spotify.com/track/7112oRUBpmaNyNtMYCni05) | [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Ten Love Songs](https://open.spotify.com/album/3jviKiBoZrkHLQZYIReWCh) | 5:26 | 2022-10-04 | 2022-10-13 |
 | [Acid Rain](https://open.spotify.com/track/7pM9cLbrgRGX1hHElTX92m) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [The Maze To Nowhere](https://open.spotify.com/album/4bplGkhwmNIVjMf2rTGeW5) | 2:52 | 2023-11-11 | 2024-04-13 |
 | [Adam & Steve](https://open.spotify.com/track/6Tvv7wIAKUcUfL05kJ6vjZ) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Flamboyant](https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn) | 3:01 | 2022-06-08 | 2022-07-22 |
@@ -67,7 +68,7 @@
 | [Airplane](https://open.spotify.com/track/0hG89hvnS0Bjuhw9BoeAEL) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [A Little Rhythm and a Wicked Feeling](https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc) | 3:45 | 2022-04-05 | 2022-07-15 |
 | [Airsick](https://open.spotify.com/track/4yJN7H5h6VSKsM2H19unaB) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Quarantine](https://open.spotify.com/album/0BZZv92pfmEUukZMhoMfpl) | 3:58 | 2022-11-26 | 2022-11-27 |
 | [Akasaka Sad](https://open.spotify.com/track/32umfTzGdXsWOTNaRGR5hd) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:02 | 2022-05-20 | 2022-05-21 |
-| [Alice](https://open.spotify.com/track/1D2hvzMpIjhSptTvZBCjFU) | [Pogo](https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7) | [Wonderland](https://open.spotify.com/album/4t57dtdA2o3SMznlCT95uz) | 2:44 | 2026-01-17 |  |
+| [Alice](https://open.spotify.com/track/1D2hvzMpIjhSptTvZBCjFU) | [Pogo](https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7) | [Wonderland](https://open.spotify.com/album/4t57dtdA2o3SMznlCT95uz) | 2:44 | 2026-01-17 | 2026-07-06 |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2024-04-01 | 2024-04-16 |
 | [Alien Observer](https://open.spotify.com/track/35VfLKymw2iZKWnLTvm8Xv) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [A I A: Alien Observer](https://open.spotify.com/album/4Z1BFX1oBckY8bhGEWMYmi) | 3:56 | 2021-08-20 | 2022-03-09 |
 | [Alive](https://open.spotify.com/track/0dFu3OwW6GGO0MrkNeuN66) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Mutant](https://open.spotify.com/album/0l9EkgUMcOw15cPnoNajeG) | 3:56 | 2022-03-30 | 2022-03-31 |

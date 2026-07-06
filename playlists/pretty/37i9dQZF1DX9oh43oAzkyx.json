@@ -1,6 +1,6 @@
 {
   "description": "Energy tracks to get your beast mode on.",
-  "num_followers": 2865084,
+  "num_followers": 2865201,
   "original_name": "Beast Mode Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -1019,18 +1019,26 @@
     {
       "added_at": "2026-06-26 21:24:49",
       "album": {
-        "name": "MR HIM",
-        "url": "https://open.spotify.com/album/6dzanhhRvcrheulOT1dqHK"
+        "name": "SPEAK NOW OR...",
+        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
       },
       "artists": [
         {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
         }
       ],
-      "duration_ms": 149276,
-      "name": "MR HIM",
-      "url": "https://open.spotify.com/track/2JAbTpot6YtdSvXmgk2nLx"
+      "duration_ms": 213524,
+      "name": "WYD (with GloRilla & Big Boogie)",
+      "url": "https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS"
     },
     {
       "added_at": "2026-06-26 21:24:49",
@@ -1059,26 +1067,18 @@
     {
       "added_at": "2026-06-26 21:24:49",
       "album": {
-        "name": "SPEAK NOW OR...",
-        "url": "https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT"
+        "name": "MR HIM",
+        "url": "https://open.spotify.com/album/6dzanhhRvcrheulOT1dqHK"
       },
       "artists": [
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Big Boogie",
-          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
         }
       ],
-      "duration_ms": 213524,
-      "name": "WYD (with GloRilla & Big Boogie)",
-      "url": "https://open.spotify.com/track/4Z3xZgvuCVn5ds2YdpZVaS"
+      "duration_ms": 149276,
+      "name": "MR HIM",
+      "url": "https://open.spotify.com/track/2JAbTpot6YtdSvXmgk2nLx"
     },
     {
       "added_at": "2026-06-26 21:24:49",

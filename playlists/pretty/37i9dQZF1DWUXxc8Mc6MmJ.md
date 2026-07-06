@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,066,903 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,067,167 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 81 | [I Love You Boy](https://open.spotify.com/track/5XXJnC5TvcL2QsAZ3Nxgku) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [당신이 잠든 사이에 Pt\. 4 Original Television Soundtrack](https://open.spotify.com/album/1WWEdcuZ8q1WN3Z4IM65am) | 4:24 |
 | 82 | [Love Sight](https://open.spotify.com/track/35HpFGWVSqW4D0Wi8A7zLI) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Doom at Your Service \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/2YM7tiN0dqi4gJXj7YMB7I) | 4:12 |
 | 83 | [Borrow your night \(Romance 101 X 10CM\)](https://open.spotify.com/track/5KVLNQ87MPlHDXR8WXXZmh) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Borrow your night \(Romance 101 X 10CM\)](https://open.spotify.com/album/5g7sviV8SLjz3lmdWpBPfx) | 3:07 |
-| 84 | [I Like You](https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST Season2, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths) | 3:35 |
-| 85 | [Everyday With You](https://open.spotify.com/track/4FpNWU5qCPCZR7LkuyuJr7) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [KING THE LAND \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/1RbPDmimZAOVVbyHyjwXhq) | 2:50 |
+| 84 | [Everyday With You](https://open.spotify.com/track/4FpNWU5qCPCZR7LkuyuJr7) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [KING THE LAND \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/1RbPDmimZAOVVbyHyjwXhq) | 2:50 |
+| 85 | [I Like You](https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST Season2, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths) | 3:35 |
 | 86 | [Just Like a Dream](https://open.spotify.com/track/0J2ImJ3WaKokMQ6FGG7OOW) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Another Miss Oh, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW) | 3:46 |
 | 87 | [With You](https://open.spotify.com/track/2o2e7bYiUSJgUSFcxywNVV) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Descendants Of The Sun Pt.7 \(Original Television Soundtrack\)](https://open.spotify.com/album/60XRnPYaFeSFUvrAlRYFP6) | 4:14 |
 | 88 | [Me to You, You to Me](https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ) | [Jatanpung](https://open.spotify.com/artist/0rmwTliQlHxi4uQQ0auZm5) | [A bicycle Ride](https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg) | 3:42 |

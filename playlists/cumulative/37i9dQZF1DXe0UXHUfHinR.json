@@ -568,8 +568,8 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-31",
-      "duration_ms": 410533,
+      "date_removed": null,
+      "duration_ms": 411533,
       "name": "A Remark You Made",
       "url": "https://open.spotify.com/track/0k4XkPxJMQKQa7Ali1qske"
     },
@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 344293,
       "name": "Cherokee",
       "url": "https://open.spotify.com/track/0BNrLm5na6f7witHj8769E"
@@ -7756,7 +7756,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 306133,
       "name": "It's Crazy",
       "url": "https://open.spotify.com/track/6bgkRqGbBJJ9cnwj8S4CkC"
@@ -13722,7 +13722,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 151373,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/6TMoKdGcSIHjLfyzINFB5X"
@@ -15268,7 +15268,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 370360,
       "name": "Violets For Your Furs",
       "url": "https://open.spotify.com/track/6u4eFc9qtTqJ7iArcJOlVz"
@@ -15430,7 +15430,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 200626,
       "name": "Warm Valley",
       "url": "https://open.spotify.com/track/373cEVkcZ8HpP5WtgjSGq8"

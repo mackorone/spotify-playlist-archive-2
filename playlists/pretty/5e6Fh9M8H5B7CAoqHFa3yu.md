@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 343 likes - 2,430 songs - 5 day 23 hr 10 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 343 likes - 2,432 songs - 5 day 23 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2438,5 +2438,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2428 | [She's Undone Me \- Remaster](https://open.spotify.com/track/19nHBw5kkMfz5PA9Fs4fCy) | [4est Fleur](https://open.spotify.com/artist/1e6iPCtpgbbp5rs49IsDOK) | [She's Undone Me \(Remaster\)](https://open.spotify.com/album/7fTqYSdlh9k57M6I3gxU4f) | 2:50 |
 | 2429 | [Καληνύχτα, Αγάπη Μου](https://open.spotify.com/track/5VLd3gLSovJaAb6WElCwGW) | [Pepi](https://open.spotify.com/artist/1JcqlMEa8HWxcRm8zM5oUR) | [Καληνύχτα, Αγάπη Μου](https://open.spotify.com/album/5kCjV38E6MZoDSqGmASqUr) | 3:18 |
 | 2430 | [Motivation Progress](https://open.spotify.com/track/7MiGzH6INaZGKg0dVkHzMW) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 1:44 |
+| 2431 | [Dime Pa Que Vuelves](https://open.spotify.com/track/5cg0XaWG6LGo4aZuoOxcGV) | [Soy Loy](https://open.spotify.com/artist/0egXpDPsm0pFmdjfIfPHbn), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Dime Pa Que Vuelves](https://open.spotify.com/album/6iAT6bslz3QBSKfHxSqrgM) | 3:14 |
+| 2432 | [Lluvia](https://open.spotify.com/track/3nDcihp9IpMQAF1cmBtEvJ) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [YOGURTO](https://open.spotify.com/album/48mR6V0kVn1Hrv2mYt22QS) | 2:18 |
 
-Snapshot ID: `AAAKS8eM6rrGM20Ngy6ErcnYIZOnEeAX`
+Snapshot ID: `AAAKTZiXzZgsQvyztBc7vt2aCoiejZMt`

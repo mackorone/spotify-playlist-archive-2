@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > tuuudo conspirando a favor  🌓//  Amanda Sarmento
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,883 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,895 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 46 | [Como que não fica milionária?](https://open.spotify.com/track/1L9xVHgIT2Ac8u90Rh6QlW) | [Soh Lopez](https://open.spotify.com/artist/3VXguqIIKhWn5pX4i7X12t), [Miranda On The Trk!](https://open.spotify.com/artist/49F1YPFCspHWmoA8tPqHLc), [Frost](https://open.spotify.com/artist/1Pwn5xh6yzHjkDdDOk5xqD) | [Como que não fica milionária?](https://open.spotify.com/album/57XV7XkmjrQkwWQRRfBCGD) | 2:23 |
 | 47 | [Faina](https://open.spotify.com/track/50G0SGgI8Q9bGmwLH3ImvM) | [SHURY](https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM), [biggie diehl](https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy) | [Código de Rua](https://open.spotify.com/album/27XyYc372EYMhHiKdU6qb6) | 2:39 |
 | 48 | [FUTURO DO PAÍS](https://open.spotify.com/track/5bWGglIdnSSCScb4ddDGRM) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d), [Luzk](https://open.spotify.com/artist/330Q01SQBu9PZkCwmsELsy), [Damarcus](https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc) | [FUTURO DO PAÍS](https://open.spotify.com/album/0iPdazhl9zp5DLpCcqhrQ0) | 3:04 |
-| 49 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
-| 50 | [Sativa](https://open.spotify.com/track/22PIIiZqbZzHhH9TNI2JbS) | [B7BY](https://open.spotify.com/artist/5PqL6oHbwLtmV2u1nVvGgm), [DJMDBEATS](https://open.spotify.com/artist/50WKQCle6uAWBRfPmcW3Jn), [Ana Rima](https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk) | [Sativa](https://open.spotify.com/album/4uV37mjQSxdhzHJVOKj8YX) | 3:18 |
+| 49 | [Sativa](https://open.spotify.com/track/22PIIiZqbZzHhH9TNI2JbS) | [B7BY](https://open.spotify.com/artist/5PqL6oHbwLtmV2u1nVvGgm), [DJMDBEATS](https://open.spotify.com/artist/50WKQCle6uAWBRfPmcW3Jn), [Ana Rima](https://open.spotify.com/artist/4o94LXBtkksntdZEJbQWJk) | [Sativa](https://open.spotify.com/album/4uV37mjQSxdhzHJVOKj8YX) | 3:18 |
+| 50 | [Amina](https://open.spotify.com/track/3g4j9Q0F4WX1Fdqo5nE2Tl) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Amina](https://open.spotify.com/album/4YaElPtMIzHGiDsnlqh29O) | 3:05 |
 
 Snapshot ID: `AAAAAJBcbhUnct292U4vTER5e0tMYhaY`

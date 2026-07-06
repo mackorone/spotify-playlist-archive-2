@@ -1,6 +1,6 @@
 {
   "description": "La playlist \u00e0 la cool pour accompagner votre d\u00eener !",
-  "num_followers": 187973,
+  "num_followers": 188061,
   "original_name": "D\u00eener entre amis",
   "owner": {
     "name": "Spotify",
@@ -331,26 +331,6 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
-        "name": "BUBBA",
-        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 183786,
-      "name": "What You Need (feat. Charlotte Day Wilson)",
-      "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
-    },
-    {
-      "added_at": "2026-07-02 22:01:45",
-      "album": {
         "name": "Old Lovers (feat. The Lumineers)",
         "url": "https://open.spotify.com/album/2ZXrSjTOvBGvcW0m61XKHR"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 213188,
       "name": "Old Lovers (feat. The Lumineers)",
       "url": "https://open.spotify.com/track/2jkKCfee2ib4zQO73tdrzG"
+    },
+    {
+      "added_at": "2026-07-02 22:01:45",
+      "album": {
+        "name": "BUBBA",
+        "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 183786,
+      "name": "What You Need (feat. Charlotte Day Wilson)",
+      "url": "https://open.spotify.com/track/4O9t8Qq941SAzdGlex4noA"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -999,18 +999,22 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
-        "name": "Running With Scissors",
-        "url": "https://open.spotify.com/album/64PgXU23E9lh3upKqECPIr"
+        "name": "revolver",
+        "url": "https://open.spotify.com/album/0znbpnfnE9qDPWEBngkKIw"
       },
       "artists": [
         {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+          "name": "aupinard",
+          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
+        },
+        {
+          "name": "a6el",
+          "url": "https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY"
         }
       ],
-      "duration_ms": 124133,
-      "name": "Cryptid",
-      "url": "https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G"
+      "duration_ms": 224500,
+      "name": "revolver",
+      "url": "https://open.spotify.com/track/0ZsmQPfjB6s5PTTC8OJiGx"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -1031,6 +1035,22 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
+        "name": "Running With Scissors",
+        "url": "https://open.spotify.com/album/64PgXU23E9lh3upKqECPIr"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 124133,
+      "name": "Cryptid",
+      "url": "https://open.spotify.com/track/47Ex8nx2Xob3IB29Ms7e9G"
+    },
+    {
+      "added_at": "2026-07-02 22:01:45",
+      "album": {
         "name": "Can't Help Myself",
         "url": "https://open.spotify.com/album/0BSru0mLqK04SfTZQiQ9PA"
       },
@@ -1047,6 +1067,22 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Tea Room",
+          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+        }
+      ],
+      "duration_ms": 196813,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
+    },
+    {
+      "added_at": "2026-07-02 22:01:45",
+      "album": {
         "name": "La Llorona",
         "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
       },
@@ -1059,22 +1095,6 @@
       "duration_ms": 255360,
       "name": "De Cara a la Pared",
       "url": "https://open.spotify.com/track/3mnSq0DGKWTZcU3ccymC79"
-    },
-    {
-      "added_at": "2026-07-02 22:01:45",
-      "album": {
-        "name": "Interior",
-        "url": "https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 213545,
-      "name": "Yours & Mine",
-      "url": "https://open.spotify.com/track/0Mp0s7GXwLHFlZWwUVftL5"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -1099,22 +1119,18 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
-        "name": "revolver",
-        "url": "https://open.spotify.com/album/0znbpnfnE9qDPWEBngkKIw"
+        "name": "Interior",
+        "url": "https://open.spotify.com/album/1knlwGtSu2giVTRen3Fk8d"
       },
       "artists": [
         {
-          "name": "aupinard",
-          "url": "https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne"
-        },
-        {
-          "name": "a6el",
-          "url": "https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY"
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
         }
       ],
-      "duration_ms": 224500,
-      "name": "revolver",
-      "url": "https://open.spotify.com/track/0ZsmQPfjB6s5PTTC8OJiGx"
+      "duration_ms": 213545,
+      "name": "Yours & Mine",
+      "url": "https://open.spotify.com/track/0Mp0s7GXwLHFlZWwUVftL5"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td"
+        "name": "Junk",
+        "url": "https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A"
       },
       "artists": [
         {
-          "name": "Tokyo Tea Room",
-          "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
+          "name": "Hailey Tuck",
+          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
         }
       ],
-      "duration_ms": 196813,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL"
+      "duration_ms": 163301,
+      "name": "Cry to Me",
+      "url": "https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
-        "name": "Junk",
-        "url": "https://open.spotify.com/album/18FJHVg2pQUU4x2pxuVQ1A"
-      },
-      "artists": [
-        {
-          "name": "Hailey Tuck",
-          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
-        }
-      ],
-      "duration_ms": 163301,
-      "name": "Cry to Me",
-      "url": "https://open.spotify.com/track/3SGTB0245ztpWiRN6wQvvI"
-    },
-    {
-      "added_at": "2026-07-02 22:01:45",
-      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 200826,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
-    },
-    {
-      "added_at": "2026-07-02 22:01:45",
-      "album": {
-        "name": "Origami",
-        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
-      },
-      "artists": [
-        {
-          "name": "Bleu Toucan",
-          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
-        }
-      ],
-      "duration_ms": 194082,
-      "name": "Hano\u00ef caf\u00e9",
-      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
+        "name": "Origami",
+        "url": "https://open.spotify.com/album/4EkS7qZRqAHYPJSVIrxPbA"
       },
       "artists": [
         {
-          "name": "Cannons",
-          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+          "name": "Bleu Toucan",
+          "url": "https://open.spotify.com/artist/3lv9GfkVw9I9X4Rgtf2o4r"
         }
       ],
-      "duration_ms": 279183,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
+      "duration_ms": 194082,
+      "name": "Hano\u00ef caf\u00e9",
+      "url": "https://open.spotify.com/track/2I4AhSWdVku2SQsJXiIci6"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -1343,6 +1327,22 @@
       "duration_ms": 172026,
       "name": "Sacatela",
       "url": "https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku"
+    },
+    {
+      "added_at": "2026-07-02 22:01:45",
+      "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/46G6H4DrWjY5nn046NEQt7"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 279183,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/2X9VQujRvSFqoKGp8Ye6Ms"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -1523,6 +1523,30 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
+        "name": "Ar Fresco",
+        "url": "https://open.spotify.com/album/3X7cwZY7OQlkq2BZvfXSCF"
+      },
+      "artists": [
+        {
+          "name": "Golf Trip",
+          "url": "https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A"
+        },
+        {
+          "name": "Rachel Kitchlew",
+          "url": "https://open.spotify.com/artist/5EkOHfxgVoxfKQu1b89W7C"
+        },
+        {
+          "name": "Sreya",
+          "url": "https://open.spotify.com/artist/3dr0bDqmElcH4qBAN5j5GV"
+        }
+      ],
+      "duration_ms": 242701,
+      "name": "Ar Fresco",
+      "url": "https://open.spotify.com/track/2n2J1IyAZQcAJZnekdnEPM"
+    },
+    {
+      "added_at": "2026-07-02 22:01:45",
+      "album": {
         "name": "Mammoth",
         "url": "https://open.spotify.com/album/3dnhxDJuhlGMOlSLYFucMK"
       },
@@ -1619,22 +1643,6 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
-        "name": "Is It Love?",
-        "url": "https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR"
-      },
-      "artists": [
-        {
-          "name": "The Jungle Giants",
-          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
-        }
-      ],
-      "duration_ms": 252894,
-      "name": "Is It Love?",
-      "url": "https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo"
-    },
-    {
-      "added_at": "2026-07-02 22:01:45",
-      "album": {
         "name": "Christina",
         "url": "https://open.spotify.com/album/1cPnlRW7jlDjRT40IjgZ4V"
       },
@@ -1647,6 +1655,22 @@
       "duration_ms": 169160,
       "name": "Dark Blue",
       "url": "https://open.spotify.com/track/4JOMI2LLRrhqnq5iXnx4hh"
+    },
+    {
+      "added_at": "2026-07-02 22:01:45",
+      "album": {
+        "name": "Is It Love?",
+        "url": "https://open.spotify.com/album/3q1lGbvsac3MDTOZvmLuRR"
+      },
+      "artists": [
+        {
+          "name": "The Jungle Giants",
+          "url": "https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt"
+        }
+      ],
+      "duration_ms": 252894,
+      "name": "Is It Love?",
+      "url": "https://open.spotify.com/track/2uAKYdiwroE6AXX7jPE5vo"
     },
     {
       "added_at": "2026-07-02 22:01:45",
@@ -1667,42 +1691,18 @@
     {
       "added_at": "2026-07-02 22:01:45",
       "album": {
-        "name": "Ar Fresco",
-        "url": "https://open.spotify.com/album/3X7cwZY7OQlkq2BZvfXSCF"
+        "name": "The City - EP",
+        "url": "https://open.spotify.com/album/5YSD37sctlEkDmGe2PSpRZ"
       },
       "artists": [
         {
-          "name": "Golf Trip",
-          "url": "https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A"
-        },
-        {
-          "name": "Rachel Kitchlew",
-          "url": "https://open.spotify.com/artist/5EkOHfxgVoxfKQu1b89W7C"
-        },
-        {
-          "name": "Sreya",
-          "url": "https://open.spotify.com/artist/3dr0bDqmElcH4qBAN5j5GV"
+          "name": "Kazy Lambist",
+          "url": "https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH"
         }
       ],
-      "duration_ms": 242701,
-      "name": "Ar Fresco",
-      "url": "https://open.spotify.com/track/2n2J1IyAZQcAJZnekdnEPM"
-    },
-    {
-      "added_at": "2026-07-02 22:01:45",
-      "album": {
-        "name": "Flamingo Serenades / Flamingo Favorites",
-        "url": "https://open.spotify.com/album/2blBb1v0ylNOrzStHBhK48"
-      },
-      "artists": [
-        {
-          "name": "The Flamingos",
-          "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
-        }
-      ],
-      "duration_ms": 198971,
-      "name": "I Only Have Eyes for You",
-      "url": "https://open.spotify.com/track/2oSMcZnGARuxk10qd6AXrT"
+      "duration_ms": 269653,
+      "name": "Annecy",
+      "url": "https://open.spotify.com/track/7CBXiV6q0kPOms002HJyoM"
     }
   ],
   "unique_name": "D\u00eener entre amis",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cgy3u.md) - [plain]
 
 > This is The Raincoats\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,028 likes - 32 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,027 likes - 32 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Cgy3u.md) - [plain]
 | 25 | [Monk Chant](https://open.spotify.com/track/0Xr53lUQFZh39BVXm2USlN) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Drunken Maria / Monk Chant](https://open.spotify.com/album/1Gmeaf9vmm7coG12sCgkSy) | 2:04 |
 | 26 | [We Smile](https://open.spotify.com/track/6xiSUqGrrHHGt1EqHEN2QQ) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Extended Play](https://open.spotify.com/album/0EJrFovu6DatDZfwGbMFgG) | 3:17 |
 | 27 | [The Body](https://open.spotify.com/track/5tJWjOgcvLFxTDGsOBQNEY) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Kitchen Tapes](https://open.spotify.com/album/7lrhm4dev25tzUcfoCFm7w) | 3:31 |
-| 28 | [Love a Loser](https://open.spotify.com/track/6xS2LcueQbLxdkCl7Bfyzp) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:30 |
-| 29 | [Only Tonight](https://open.spotify.com/track/2O4XtuW60jpbVQFPJaan0c) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:28 |
+| 28 | [Only Tonight](https://open.spotify.com/track/2O4XtuW60jpbVQFPJaan0c) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:28 |
+| 29 | [Love a Loser](https://open.spotify.com/track/6xS2LcueQbLxdkCl7Bfyzp) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:30 |
 | 30 | [Babydog](https://open.spotify.com/track/7xeeZ3Gpr2hF8Nq9fTEXy0) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 5:05 |
 | 31 | [You Kill Me](https://open.spotify.com/track/292TBhjrQJ4EqFeddoB4Ux) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:58 |
-| 32 | [You Ask Why](https://open.spotify.com/track/3bu7gq8IUdQddACLYOMbQH) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:58 |
+| 32 | [Forgotten Words](https://open.spotify.com/track/4xkv53vFS5SInaHXW9E81H) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:36 |
 
-Snapshot ID: `akb7gAAAAABt9oZs/XU2H3/dqob7XGVa`
+Snapshot ID: `akhNAAAAAACNaOxlikymfbE/+VUwqG34`

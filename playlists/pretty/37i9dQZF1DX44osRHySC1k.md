@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 
 > Sleep is the best Medicine
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,773 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,776 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 33 | [Cosmos](https://open.spotify.com/track/211l6gKeErP58kN2gvzuQZ) | [Tejal Yann](https://open.spotify.com/artist/6eGKvCZdc06HkiwZKFlcBY) | [Divine](https://open.spotify.com/album/2BrKNAMeBGtlyRE4J5SERp) | 4:31 |
 | 34 | [Trail of Light](https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:18 |
 | 35 | [Vague](https://open.spotify.com/track/3IOXceWmoCrTyl5TXFDzWu) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Envision](https://open.spotify.com/album/4yg5OckIrdMo7yIJcDRU4F) | 2:23 |
-| 36 | [A Clear Mind](https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [A Clear Mind](https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ) | 2:53 |
-| 37 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
+| 36 | [Untitled](https://open.spotify.com/track/3tCBeat5YZBwLf61yoQJ9v) | [Jupiter Grains](https://open.spotify.com/artist/6uq3FetPGtr1PNJ4bOzF85) | [Untitled](https://open.spotify.com/album/2aMPmCJLYROlZZMjF92w32) | 1:52 |
+| 37 | [A Clear Mind](https://open.spotify.com/track/2pypBNUUzViaP7Dswi9zpF) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [A Clear Mind](https://open.spotify.com/album/6HTDJSCj481qL4ruvh68IQ) | 2:53 |
 | 38 | [Let Go](https://open.spotify.com/track/2gixQXOUSRnv7yBuplbgAK) | [Chama Wijnen](https://open.spotify.com/artist/7ftRhte6NNzoF9MIKfKJsP) | [Let Go](https://open.spotify.com/album/28liljlrdNabEfDkZG7JWW) | 3:11 |
 | 39 | [Night Walk](https://open.spotify.com/track/0ePG8cXgoLfOqVYVX8Ju6a) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Night Walk](https://open.spotify.com/album/3Y6dLdTnXxiIhDKFmlTPYw) | 2:20 |
 | 40 | [Sunrise Glory](https://open.spotify.com/track/4BOCx4hnSq0xWO3lcEbibQ) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Light of The Moon](https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV) | 4:09 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 42 | [Symphony Of Heaven](https://open.spotify.com/track/4QObDKYxh0rquU3njQ7rGi) | [Musica Relajante](https://open.spotify.com/artist/5tLcSmEpxduAsr5nLUeJ7D), [Entspannungsmusik](https://open.spotify.com/artist/3xeIqGEgOD8QQstyUXSz4J), [Relaxing Music Therapy](https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN) | [Calm Moments Piano Music](https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn) | 2:10 |
 | 43 | [Sea Of Tranquility](https://open.spotify.com/track/5nzGBQeLesWrD0J8Ctz75z) | [Julius Aston](https://open.spotify.com/artist/6evK56MPQbVzQaWuGcS4Rm) | [Sea Of Tranquility](https://open.spotify.com/album/6FunWbzr82EBe87wjbq3I3) | 2:55 |
 | 44 | [Solace](https://open.spotify.com/track/1Hrfg2JAPdT8eciUv9M0bO) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Solace](https://open.spotify.com/album/13VXiCh6oF3sb2N3jPlfHP) | 2:42 |
-| 45 | [The Breath Inside the Breath](https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH) | [Michael Mandrell and Benjy Wertheimer](https://open.spotify.com/artist/3dfjHQXl4xuXAbSEPZarJL) | [Anjali](https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7) | 5:25 |
-| 46 | [Aura](https://open.spotify.com/track/3txAMdbJitTk5qSlkEV7vr) | [Novo Talos](https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea) | [Aura](https://open.spotify.com/album/47RBNIbpNQT2DVgmZVC0s5) | 2:07 |
-| 47 | [If you ever change your mind](https://open.spotify.com/track/4meLskE3DIQEBlBC18GS0Z) | [Santo Trevisani](https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ) | [If you ever change your mind](https://open.spotify.com/album/29OMOWzMu8Ypte7rgzzEk2) | 2:02 |
+| 45 | [If you ever change your mind](https://open.spotify.com/track/4meLskE3DIQEBlBC18GS0Z) | [Santo Trevisani](https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ) | [If you ever change your mind](https://open.spotify.com/album/29OMOWzMu8Ypte7rgzzEk2) | 2:02 |
+| 46 | [The Breath Inside the Breath](https://open.spotify.com/track/6vPs7iR2jKq7KPGKBNuCRH) | [Michael Mandrell and Benjy Wertheimer](https://open.spotify.com/artist/3dfjHQXl4xuXAbSEPZarJL) | [Anjali](https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7) | 5:25 |
+| 47 | [Aura](https://open.spotify.com/track/3txAMdbJitTk5qSlkEV7vr) | [Novo Talos](https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea) | [Aura](https://open.spotify.com/album/47RBNIbpNQT2DVgmZVC0s5) | 2:07 |
 | 48 | [Olancha Farewell](https://open.spotify.com/track/4KyJQKAFvEH4F52qSMuwIF) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Lovely Thunder](https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA) | 2:18 |
 | 49 | [More than Close](https://open.spotify.com/track/4mnfRzyz2dafyBaXBLZle2) | [Oneke](https://open.spotify.com/artist/2QXAgvXks43Taidr1eV3lg) | [More than Close](https://open.spotify.com/album/13W7Bh5rL1jZzAbnONKKwq) | 2:42 |
 | 50 | [Buenas Noches](https://open.spotify.com/track/72kIC2q0kaOleQ3uCWU6eN) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Flowing Strings](https://open.spotify.com/album/4dySUweZz7vqrs3VgLYWN8) | 4:38 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX44osRHySC1k.md) - [plain]
 | 63 | [Loveliness](https://open.spotify.com/track/5nMsoz257d3AbY8O8FC4Jx) | [Jean Petri](https://open.spotify.com/artist/5Nh6KbxCO5DFRmgQEllo2G) | [Moments of Tomorrow](https://open.spotify.com/album/3XnQ3WILZelBRsB20OkS7a) | 1:50 |
 | 64 | [Heavenly Walk](https://open.spotify.com/track/7N38FhlGOzPZ8AAnQjAMpU) | [Minisol](https://open.spotify.com/artist/6FcUn7u0urBTnuRilGZBFf) | [Heavenly Walk](https://open.spotify.com/album/4WG7sewn60p16rOU8lumWS) | 4:44 |
 | 65 | [Mantric Melody](https://open.spotify.com/track/5GkkUUYaDllU29bE9OKkLI) | [Havanna Chandri](https://open.spotify.com/artist/7L19dBW5AbTgQvjXFGaOF6) | [Mantric Melody](https://open.spotify.com/album/7pZmcpCvo9pVRN1BQCmAT9) | 1:51 |
-| 66 | [Priya \(Beloved\)](https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7) | [Michael Mandrell and Benjy Wertheimer](https://open.spotify.com/artist/3dfjHQXl4xuXAbSEPZarJL) | [Anjali](https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7) | 4:18 |
-| 67 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 |
+| 66 | [Dream dependence](https://open.spotify.com/track/0rdOvRimwzjyBHdZ0pR2E7) | [Viclo](https://open.spotify.com/artist/455quPWcJkDlINNu7NfI97) | [Dream Dependence](https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd) | 2:35 |
+| 67 | [Priya \(Beloved\)](https://open.spotify.com/track/6aAtpmg6C6lriexmsT35R7) | [Michael Mandrell and Benjy Wertheimer](https://open.spotify.com/artist/3dfjHQXl4xuXAbSEPZarJL) | [Anjali](https://open.spotify.com/album/0nIweyYVQ98alzO6T2LOm7) | 4:18 |
 | 68 | [Long Ride](https://open.spotify.com/track/19TByZROgOouJ9uc4VPaSb) | [Musica Relajante](https://open.spotify.com/artist/5tLcSmEpxduAsr5nLUeJ7D), [Entspannungsmusik](https://open.spotify.com/artist/3xeIqGEgOD8QQstyUXSz4J), [Relaxing Music Therapy](https://open.spotify.com/artist/7xbVj2U2bY22gyZnh04TlN) | [Calm Moments Piano Music](https://open.spotify.com/album/7cLo3vzpHmCHghvtwtZoXn) | 2:30 |
 | 69 | [Danny](https://open.spotify.com/track/3ApyQUpg6me0GcLmOx9bcz) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Broadchurch \(Music From The Original TV Series\)](https://open.spotify.com/album/3GmecFBWNs4fTi0PkLF7qR) | 4:23 |
 | 70 | [Voyager](https://open.spotify.com/track/2VZD4Jqb0vKeCNPbkqVxLL) | [Beyond The Bubble](https://open.spotify.com/artist/7M4nJXpkznecW7NGJTu45o) | [Voyager](https://open.spotify.com/album/2CMg1J1wh7bb7qtHKKrUBq) | 3:25 |

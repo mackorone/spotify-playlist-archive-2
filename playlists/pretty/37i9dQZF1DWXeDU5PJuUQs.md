@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,923 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,990 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 34 | [Me Enamore / A tus pies / Te falta sufrir \- En Vivo](https://open.spotify.com/track/4SdhLz9BrdxkNQuWGtu1Vd) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Festival \(En Vivo\)](https://open.spotify.com/album/6vSSjSJLfVY0PHdT1d9fGx) | 10:28 |
 | 35 | [Persiana Americana \- En Vivo](https://open.spotify.com/track/2wTDMjqzZzpSsQ0R56uXBL) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:11 |
 | 36 | [Y Tu Te Vas / Pídeme](https://open.spotify.com/track/1Ze4dVOuJq5SjjY98UjhSt) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Pablito HC](https://open.spotify.com/artist/3VGOer5eApPF1qsyYXlMFT) | [Y Tu Te Vas / Pídeme](https://open.spotify.com/album/3HtRs4GRpIbMTT4qncwElQ) | 5:50 |
-| 37 | [La Ventanita / Beso a Beso](https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 8:03 |
-| 38 | [El Que Siempre Te Espera](https://open.spotify.com/track/7DamHboUtPW1M1K6EkIg4c) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [El Que Siempre Te Espera](https://open.spotify.com/album/05JrWs6dpHryCNWvcbTRwG) | 2:53 |
+| 37 | [El Que Siempre Te Espera](https://open.spotify.com/track/7DamHboUtPW1M1K6EkIg4c) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [El Que Siempre Te Espera](https://open.spotify.com/album/05JrWs6dpHryCNWvcbTRwG) | 2:53 |
+| 38 | [La Ventanita / Beso a Beso](https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 8:03 |
 | 39 | [Pa' la Selección \- En Vivo](https://open.spotify.com/track/6o74gO9Cc65yOph1pWnWmS) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Luna Park \(En Vivo\)](https://open.spotify.com/album/1Oatu8AcJtDJsC24cEJr3r) | 3:18 |
 | 40 | [Mujer Cósmica \- En Vivo](https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [En Vivo en Metropolis](https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO) | 3:59 |
 | 41 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo 2019](https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8) | 2:27 |
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 91 | [Me Olvide de Ti \- En Vivo](https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Me Olvide de Ti \(En Vivo\)](https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE) | 2:08 |
 | 92 | [Buscala \- Live](https://open.spotify.com/track/72H6DYWQ3XQKswJnXermuq) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0), [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Buscala \(Live\)](https://open.spotify.com/album/3MJGVqtaLPiojt1yqVlucn) | 3:03 |
 | 93 | [Enamorado de ti \- Live](https://open.spotify.com/track/2XlREDMzVX02dEcrv9qyeQ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Live](https://open.spotify.com/album/28OBVQHbRD3faNpl4jW4U8) | 1:46 |
-| 94 | [Mi Gran Maestro \- Montevideo Music Sessions](https://open.spotify.com/track/0rekCZBOnQQ7xtjukqeA8j) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Mi Gran Maestro \(Montevideo Music Sessions\)](https://open.spotify.com/album/4bEHL08FgsySG8mVwBIQxc) | 3:30 |
+| 94 | [Mi Gran Maestro \- Montevideo Music Sessions](https://open.spotify.com/track/0rekCZBOnQQ7xtjukqeA8j) | [Angela Leiva](https://open.spotify.com/artist/1qBeQNpoer8ntu9MkzIiOf) | [Mi Gran Maestro \(Montevideo Music Sessions\)](https://open.spotify.com/album/4bEHL08FgsySG8mVwBIQxc) | 3:30 |
 | 95 | [La Ultima Cancion \- En Vivo](https://open.spotify.com/track/3RAsM07uXexSVwlZn834u4) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [En Vivo](https://open.spotify.com/album/1nExgnlglID7OBWxsA5xo0) | 2:04 |
 | 96 | [Amaneciendo En Ti \- En Vivo en la Casa Sabanera](https://open.spotify.com/track/5azg6NgweuZ6dciNXGP32I) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Amaneciendo En Ti \(En Vivo en la Casa Sabanera\)](https://open.spotify.com/album/0sJ614rOz5MikiGV3ZIzmq) | 4:19 |
 | 97 | [Te perdone tantas veces](https://open.spotify.com/track/1y7SRqg8b5EyaCNww33Rkw) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [Favoritos](https://open.spotify.com/album/31cdYJoKeJcABKSUizRl6d) | 2:13 |

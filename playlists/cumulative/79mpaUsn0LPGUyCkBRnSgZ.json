@@ -3197,6 +3197,24 @@
     },
     {
       "album": {
+        "name": "Dance Called Memory",
+        "url": "https://open.spotify.com/album/2fNPTFiU2sCY9m6tv3Ucqa"
+      },
+      "artists": [
+        {
+          "name": "Nation of Language",
+          "url": "https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232139,
+      "name": "Can't Face Another One",
+      "url": "https://open.spotify.com/track/30NYedLY0oYNxAHne8NePL"
+    },
+    {
+      "album": {
         "name": "Bad Company (Remastered)",
         "url": "https://open.spotify.com/album/5VknaZWiywvQJMpPOfB6tA"
       },
@@ -11120,6 +11138,24 @@
       "duration_ms": 259829,
       "name": "Lonesome Is A State of Mind",
       "url": "https://open.spotify.com/track/5DcV7k8MIdYJAAIR0O3Iks"
+    },
+    {
+      "album": {
+        "name": "Play the Songs You Like",
+        "url": "https://open.spotify.com/album/4Of3UeV2fIEJgXhD2FICwq"
+      },
+      "artists": [
+        {
+          "name": "Radiator Hospital",
+          "url": "https://open.spotify.com/artist/0HMLp79IAd9Z8zMgxqpyxn"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81626,
+      "name": "Long Distance Dedication",
+      "url": "https://open.spotify.com/track/2rTa3edLxXdvgkOAmFBvS5"
     },
     {
       "album": {

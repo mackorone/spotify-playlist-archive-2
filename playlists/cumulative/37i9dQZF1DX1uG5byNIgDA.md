@@ -4,7 +4,7 @@
 
 > 행복하고 신나는 음악들과 함께 갓생을 시작해보세요! 출퇴근 길에 들으시면 더욱 좋습니다\. \(Kickstart your day with high\-energy vibes, the ultimate soundtrack for your hustle and commute.\)
 
-492 songs - 1 day 2 hr 35 min
+493 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [3D \(Justin Timberlake Remix\)](https://open.spotify.com/track/2mHw0KoEyDw8Yaw3yPoke6) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [3D \(Justin Timberlake Remix\)](https://open.spotify.com/album/4SNBgrYqk2aV4LyXbTSkYA) | 2:40 | 2024-03-27 | 2025-04-06 |
 | [5 in the morning](https://open.spotify.com/track/4YQN70aa8969if12I9dKDb) | [WOO JEE WON](https://open.spotify.com/artist/073SnC1tmMizW8NO0qbCLU) | [Just Dream](https://open.spotify.com/album/6MgV3YkvyVKip90eLKZGuN) | 3:35 | 2021-12-06 | 2022-07-27 |
 | [908](https://open.spotify.com/track/5v4l1NU3qXQSdAk9cnXlfo) | [Keumbee](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [I can't believe it's not butter!](https://open.spotify.com/album/5uEHa8xxNTOAovSEx0dmz5) | 3:23 | 2022-03-23 | 2022-04-19 |
-| [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-21 |  |
+| [ABCD](https://open.spotify.com/track/0V2passWyAXnON67kfAj7y) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 2:42 | 2024-06-21 | 2026-07-06 |
 | [Adult Swim](https://open.spotify.com/track/2DaEOAKYadUMO7x0CsobRU) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Adult Swim](https://open.spotify.com/album/7fu5l1nHlSGSBbaMjl7fye) | 2:24 | 2025-04-18 | 2025-06-01 |
 | [After LIKE](https://open.spotify.com/track/2gYj9lubBorOPIVWsTXugG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [After LIKE](https://open.spotify.com/album/0nzRF7khA2UDSZa9T0B6Da) | 2:56 | 2022-08-24 |  |
 | [Again](https://open.spotify.com/track/3obitKwgSPRoPGqmWcHD13) | [NU'EST](https://open.spotify.com/artist/1iQfn1B8V25iQoolQakyAZ) | [The Best Album ‘Needle & Bubble’](https://open.spotify.com/album/5O8z5SrdPPz3gP2TS6viUu) | 3:26 | 2022-03-23 | 2022-07-29 |
@@ -368,6 +368,7 @@
 | [showtime](https://open.spotify.com/track/11Wb2mNcp7nKa2ZNpAuwoy) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [showtime](https://open.spotify.com/album/7vdRCKCLy1I5jGxyxFD0vl) | 3:12 | 2022-03-23 | 2022-04-10 |
 | [SIGN](https://open.spotify.com/track/6vBVBzf0VeRO4aPwABnohX) | [izna](https://open.spotify.com/artist/6EB5QC7lGAu7bSuWQ416d4) | [SIGN](https://open.spotify.com/album/5AAT3LhKilv2xkdFPrdNfd) | 2:46 | 2025-05-08 | 2025-07-05 |
 | [Sing!](https://open.spotify.com/track/5rYLgQjPbhGjzqDqekXEzM) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [Sing!](https://open.spotify.com/album/5g5cl6WQcOp1gJ4KD1wG99) | 3:15 | 2023-05-23 | 2023-06-08 |
+| [singasong](https://open.spotify.com/track/1uDVTuH0e2XaMPsX3yox1T) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [V8](https://open.spotify.com/album/5HQrHtpGthJMePFhXT3jKS) | 3:07 | 2026-07-03 |  |
 | [Slow Dance](https://open.spotify.com/track/3ASYo6ur6gT6d6sqosWub9) | [KANGTA](https://open.spotify.com/artist/5Bm6d9Fbsmln3CpXv8VrMG) | [Slow Dance](https://open.spotify.com/album/0Ck8vZyl61aCKh8QymZo0E) | 3:03 | 2022-01-24 | 2022-07-20 |
 | [Smart](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:46 | 2024-03-27 | 2025-04-06 |
 | [Smoothie](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM\( \)SCAPE](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) | 3:08 | 2024-03-27 | 2024-06-29 |

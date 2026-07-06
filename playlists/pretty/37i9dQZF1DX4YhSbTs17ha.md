@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 
 > Las canciones de pop más exitosas en México\. DANNA y El Malilla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,809,521 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,809,235 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YhSbTs17ha.md) - [plain]
 | 79 | [ESTA ES TU CASA NENA](https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [ESTA ES TU CASA NENA](https://open.spotify.com/album/39hTQ9G1MhUcDTLZMG3sM5) | 3:29 |
 | 80 | [Una y Otra Vez](https://open.spotify.com/track/01Jau2dvxahy6s00VFFB0n) | [Kenia Os](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Una y Otra Vez](https://open.spotify.com/album/2mIRZwtWJfTMXb9IlD92WT) | 3:02 |
 
-Snapshot ID: `AAAAAPAry/cuWMAtZrKWP7w+C02F7mpn`
+Snapshot ID: `AAAAAITtp/8Jwxs4z9JM6kAc+HlyJRvZ`

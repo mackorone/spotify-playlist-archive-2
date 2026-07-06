@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 20852,
+  "num_followers": 20855,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "Our Unwritten Seoul (Original Soundtrack) Part.4",
-        "url": "https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3"
-      },
-      "artists": [
-        {
-          "name": "Isaac Hong",
-          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "In You",
-      "url": "https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "A-TEEN2 Part.1",
         "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
       },
@@ -695,18 +679,34 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "Ours",
-        "url": "https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO"
+        "name": "Our Unwritten Seoul (Original Soundtrack) Part.4",
+        "url": "https://open.spotify.com/album/6Jaw045Rl2CuvYgkD43vW3"
       },
       "artists": [
         {
-          "name": "g0nny",
-          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
+          "name": "Isaac Hong",
+          "url": "https://open.spotify.com/artist/4bST03NJ0YEysocK5AV1wB"
         }
       ],
-      "duration_ms": 206781,
-      "name": "Secret of Ours",
-      "url": "https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH"
+      "duration_ms": 226986,
+      "name": "In You",
+      "url": "https://open.spotify.com/track/6GnRaHVTPcM0y5z9qWKZcD"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "You're My Pretty Star",
+        "url": "https://open.spotify.com/album/3bvzvHQBoYwrSIX6M1cgVf"
+      },
+      "artists": [
+        {
+          "name": "MRT",
+          "url": "https://open.spotify.com/artist/2wczizmPu6o01FTA7XpIYj"
+        }
+      ],
+      "duration_ms": 216725,
+      "name": "You're My Pretty Star",
+      "url": "https://open.spotify.com/track/5X9mxcrFU743Y2XhkrBZUw"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -727,18 +727,18 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "You're My Pretty Star",
-        "url": "https://open.spotify.com/album/3bvzvHQBoYwrSIX6M1cgVf"
+        "name": "Ours",
+        "url": "https://open.spotify.com/album/3Z30H63fJdpvn3YzhD0zZO"
       },
       "artists": [
         {
-          "name": "MRT",
-          "url": "https://open.spotify.com/artist/2wczizmPu6o01FTA7XpIYj"
+          "name": "g0nny",
+          "url": "https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR"
         }
       ],
-      "duration_ms": 216725,
-      "name": "You're My Pretty Star",
-      "url": "https://open.spotify.com/track/5X9mxcrFU743Y2XhkrBZUw"
+      "duration_ms": 206781,
+      "name": "Secret of Ours",
+      "url": "https://open.spotify.com/track/5vdof8S2t9P5FnCfAjieVH"
     },
     {
       "added_at": "2026-06-25 15:51:09",

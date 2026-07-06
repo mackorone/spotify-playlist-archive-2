@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 164000,
       "name": "Heliumtanker",
       "url": "https://open.spotify.com/track/2bm8pFI3ZPsZxRpxgBr85D"
@@ -3450,6 +3450,24 @@
       "duration_ms": 186000,
       "name": "Hvorn\u00e5r",
       "url": "https://open.spotify.com/track/0HrgO9iNsl46VdIGXxETYp"
+    },
+    {
+      "album": {
+        "name": "H\u00e6lervarer",
+        "url": "https://open.spotify.com/album/1f31MyCILmEwtqs1gesVF3"
+      },
+      "artists": [
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "H\u00e6lervarer",
+      "url": "https://open.spotify.com/track/3EbEA7Ln9T6ltf1sYVIPka"
     },
     {
       "album": {

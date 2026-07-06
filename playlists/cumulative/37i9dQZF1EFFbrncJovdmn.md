@@ -4,12 +4,14 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2HO2r9dd9gSjJfz9Sz3w6K">Kal Lavelle</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-33 songs - 1 hr 45 min
+35 songs - 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Berlin](https://open.spotify.com/track/68V7rBWfj2iID6Z1FjMIhG) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:07 | 2024-06-13 |  |
+| [Black Dog](https://open.spotify.com/track/1XK0nwCKRlWGcXUcOyDtYF) | [MACEY](https://open.spotify.com/artist/716EJp7f6iFYHsCywzgE1i) | [ONCE](https://open.spotify.com/album/1k4eEzf9s2RAjJPJ3IWcii) | 2:51 | 2026-07-05 |  |
 | [Blue Lagoon](https://open.spotify.com/track/6AOkEeKQ841xkb63UkAAdj) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 3:33 | 2024-06-13 |  |
+| [Breadcrumbs](https://open.spotify.com/track/3HDyvuZZYoakfT2951rmFJ) | [Ines Rae](https://open.spotify.com/artist/40SsHWSC0ThXW2Gnq9KEBi) | [Breadcrumbs](https://open.spotify.com/album/1Z34pkZTohV0DKvDGQyav6) | 2:27 | 2026-07-05 |  |
 | [Breakfast at Tiffany's](https://open.spotify.com/track/0XNQXKMhsHrb8o9X3JpvcQ) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [Breakfast at Tiffany's](https://open.spotify.com/album/53idUGP3DERYKpO12we4Xz) | 4:09 | 2024-06-13 |  |
 | [Closer](https://open.spotify.com/track/6LHc0V2Gb698GIPYy5qR3h) | [Kal Lavelle](https://open.spotify.com/artist/7EDWLMJI0UmRtFaIb59MqR) | [For the Loved and Lost](https://open.spotify.com/album/0kJTmEg5P1Im8WyX0Uzqvm) | 2:44 | 2024-06-13 |  |
 | [come so far](https://open.spotify.com/track/728wLnW4NkotVLTQyGxVyA) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk), [rayn](https://open.spotify.com/artist/2BGoIfTAwsAi7pcefa0IVM) | [come so far](https://open.spotify.com/album/3YMFzZ4EoUFu2ZA4lW6tbX) | 2:45 | 2024-06-13 |  |

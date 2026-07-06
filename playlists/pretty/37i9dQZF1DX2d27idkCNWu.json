@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 259912,
+  "num_followers": 259908,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALyrM/WyOuLyIZZKsOkxhYJij0v0",
+  "snapshot_id": "AAAAAPIUJlUOKOP3XuuyeTFWOOTx/kYC",
   "tracks": [
     {
       "added_at": "2026-06-26 03:00:30",
@@ -43,22 +43,6 @@
     {
       "added_at": "2026-06-26 03:00:30",
       "album": {
-        "name": "Teenage Dream: The Complete Confection",
-        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 259040,
-      "name": "The One That Got Away - Acoustic",
-      "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
-    },
-    {
-      "added_at": "2026-06-26 03:00:30",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 201586,
       "name": "Soon You\u2019ll Get Better (feat. The Chicks)",
       "url": "https://open.spotify.com/track/4AYtqFyFbX0Xkc2wtcygTr"
+    },
+    {
+      "added_at": "2026-06-26 03:00:30",
+      "album": {
+        "name": "Teenage Dream: The Complete Confection",
+        "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 259040,
+      "name": "The One That Got Away - Acoustic",
+      "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
     },
     {
       "added_at": "2026-06-26 03:00:30",
@@ -111,22 +111,6 @@
     {
       "added_at": "2026-06-26 03:00:30",
       "album": {
-        "name": "I Don't Care (Acoustic)",
-        "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 238220,
-      "name": "I Don't Care - Acoustic",
-      "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
-    },
-    {
-      "added_at": "2026-06-26 03:00:30",
-      "album": {
         "name": "The Grenade Sessions",
         "url": "https://open.spotify.com/album/54DNHFsfCa7nlQFWXMg7y3"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 249535,
       "name": "Grenade - Acoustic",
       "url": "https://open.spotify.com/track/7Cj2tT0m2SBeIO1PsGfk8A"
+    },
+    {
+      "added_at": "2026-06-26 03:00:30",
+      "album": {
+        "name": "I Don't Care (Acoustic)",
+        "url": "https://open.spotify.com/album/34hxmcDX91rZtwckrSlq1X"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 238220,
+      "name": "I Don't Care - Acoustic",
+      "url": "https://open.spotify.com/track/1m84zLz4WizjR4mCDoXReg"
     },
     {
       "added_at": "2026-06-26 03:00:30",
@@ -260,22 +260,6 @@
       "added_at": "2026-06-26 03:00:30",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 177214,
-      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
-      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
-    },
-    {
-      "added_at": "2026-06-26 03:00:30",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP"
       },
       "artists": [
@@ -287,6 +271,22 @@
       "duration_ms": 237653,
       "name": "Rolling In The Deep - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl"
+    },
+    {
+      "added_at": "2026-06-26 03:00:30",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 177214,
+      "name": "Baby One More Time - Recorded at Spotify Studios New York City",
+      "url": "https://open.spotify.com/track/4mJDfMcT7odIUjWlb2WO4L"
     },
     {
       "added_at": "2026-06-26 03:00:30",
@@ -343,6 +343,22 @@
     {
       "added_at": "2026-06-26 03:00:30",
       "album": {
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 261973,
+      "name": "You Learn - Live / Unplugged",
+      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
+    },
+    {
+      "added_at": "2026-06-26 03:00:30",
+      "album": {
         "name": "Best Part of Me (feat. YEBBA)",
         "url": "https://open.spotify.com/album/6Z5DhADmyybfKNdymaPLjB"
       },
@@ -363,18 +379,18 @@
     {
       "added_at": "2026-06-26 03:00:30",
       "album": {
-        "name": "Live / Unplugged",
-        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+        "name": "Anti-Hero (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
       },
       "artists": [
         {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 261973,
-      "name": "You Learn - Live / Unplugged",
-      "url": "https://open.spotify.com/track/2yx1kAK1Fe2zTOsaDKSNBk"
+      "duration_ms": 196473,
+      "name": "Anti-Hero - Acoustic Version",
+      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
     },
     {
       "added_at": "2026-06-26 03:00:30",
@@ -395,22 +411,6 @@
       "duration_ms": 265652,
       "name": "Every Time You Go Away",
       "url": "https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE"
-    },
-    {
-      "added_at": "2026-06-26 03:00:30",
-      "album": {
-        "name": "Anti-Hero (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 196473,
-      "name": "Anti-Hero - Acoustic Version",
-      "url": "https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F"
     },
     {
       "added_at": "2026-06-26 03:00:30",
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-06-26 03:00:30",
       "album": {
-        "name": "Releituras",
-        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
-      },
-      "artists": [
-        {
-          "name": "Lizandra",
-          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
-        }
-      ],
-      "duration_ms": 178081,
-      "name": "Coisas Que Eu Sei",
-      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
-    },
-    {
-      "added_at": "2026-06-26 03:00:30",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2XW8Jn1nXmHCPbawvmJ2JC"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 198293,
       "name": "Wonderwall - Live from Spotify Sessions, Metropolis Studios, London",
       "url": "https://open.spotify.com/track/3EfTQn30P4fqXxRf9IN7x6"
+    },
+    {
+      "added_at": "2026-06-26 03:00:30",
+      "album": {
+        "name": "Releituras",
+        "url": "https://open.spotify.com/album/1sYntoNEfoiNemT9folqjM"
+      },
+      "artists": [
+        {
+          "name": "Lizandra",
+          "url": "https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl"
+        }
+      ],
+      "duration_ms": 178081,
+      "name": "Coisas Que Eu Sei",
+      "url": "https://open.spotify.com/track/5L46X3htydY3tRHyvg7vwn"
     },
     {
       "added_at": "2026-06-26 03:00:30",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2026-06-26 03:00:30",
       "album": {
-        "name": "Com Calor, Lary (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0tbYusuVtJNEwSbqo4uYFv"
+        "name": "Acusticamente - Volume 2",
+        "url": "https://open.spotify.com/album/3ztS5GIwMQZHYMZ7OIMjrK"
       },
       "artists": [
         {
-          "name": "Lary",
-          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
+          "name": "Balara",
+          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
         }
       ],
-      "duration_ms": 151542,
-      "name": "Um Milh\u00e3o (Ao Vivo)",
-      "url": "https://open.spotify.com/track/70eWwEoMdikM1U7jjItXJQ"
+      "duration_ms": 153107,
+      "name": "Tente Outra Vez (Acusticamente)",
+      "url": "https://open.spotify.com/track/5tjISEORRTVuyvm5Hw1Xti"
     },
     {
       "added_at": "2026-06-26 03:00:30",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2026-06-26 03:00:30",
       "album": {
-        "name": "Acusticamente - Volume 2",
-        "url": "https://open.spotify.com/album/3ztS5GIwMQZHYMZ7OIMjrK"
+        "name": "Com Calor, Lary (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0tbYusuVtJNEwSbqo4uYFv"
       },
       "artists": [
         {
-          "name": "Balara",
-          "url": "https://open.spotify.com/artist/3jPnaM0ap5aM9xEe16hjgp"
+          "name": "Lary",
+          "url": "https://open.spotify.com/artist/4qn9aKmT3CaRVPWnlTQCwX"
         }
       ],
-      "duration_ms": 153107,
-      "name": "Tente Outra Vez (Acusticamente)",
-      "url": "https://open.spotify.com/track/5tjISEORRTVuyvm5Hw1Xti"
+      "duration_ms": 151542,
+      "name": "Um Milh\u00e3o (Ao Vivo)",
+      "url": "https://open.spotify.com/track/70eWwEoMdikM1U7jjItXJQ"
     },
     {
       "added_at": "2026-06-26 03:00:30",
@@ -1527,26 +1527,6 @@
       "duration_ms": 185506,
       "name": "Daisies - Acoustic",
       "url": "https://open.spotify.com/track/2XJ9DC1as0YobPVqOS9JyE"
-    },
-    {
-      "added_at": "2026-06-26 03:00:30",
-      "album": {
-        "name": "Clau: We4Sessions",
-        "url": "https://open.spotify.com/album/3l4j90WNDrvsKKdJF6N5Zi"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        },
-        {
-          "name": "WE4Sessions",
-          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
-        }
-      ],
-      "duration_ms": 207671,
-      "name": "Pouca Pausa / Cigana",
-      "url": "https://open.spotify.com/track/553dpGjn4UFZmZ3pgWp5CA"
     },
     {
       "added_at": "2026-06-26 03:00:30",
@@ -1571,6 +1551,26 @@
       "duration_ms": 119340,
       "name": "Eu s\u00f3 quero um xod\u00f3",
       "url": "https://open.spotify.com/track/6BwXtSsM5we6sX5sVSRlLw"
+    },
+    {
+      "added_at": "2026-06-26 03:00:30",
+      "album": {
+        "name": "Clau: We4Sessions",
+        "url": "https://open.spotify.com/album/3l4j90WNDrvsKKdJF6N5Zi"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        },
+        {
+          "name": "WE4Sessions",
+          "url": "https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y"
+        }
+      ],
+      "duration_ms": 207671,
+      "name": "Pouca Pausa / Cigana",
+      "url": "https://open.spotify.com/track/553dpGjn4UFZmZ3pgWp5CA"
     }
   ],
   "unique_name": "Pop Ac\u00fastico",

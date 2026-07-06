@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Tove Styrke, Anis Don Demina och Haley Bridge med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,792 likes - 74 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,784 likes - 74 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 27 | [Nokia](https://open.spotify.com/track/7bt12BkmQOft8dsOUkvOT9) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Nokia](https://open.spotify.com/album/5begU32ZHoEmUeJa0f9Igt) | 3:08 |
 | 28 | [T\-Pain 06](https://open.spotify.com/track/4f6NY43CaSCmu1Dj71iznQ) | [Faaka](https://open.spotify.com/artist/5nQm2hG8NRsFvtQqc6Ahzx) | [T\-Pain 06](https://open.spotify.com/album/62Ff6X2Y5qrEN2xMEErmtC) | 2:35 |
 | 29 | [COCA BODY](https://open.spotify.com/track/1Cns7nhgjkLJL5NmcKrUPG) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [COCA BODY](https://open.spotify.com/album/7xZTm76XopckYdgm7DVkFa) | 2:33 |
-| 30 | [MONOPOL](https://open.spotify.com/track/5PiGv8hVPY2aIWvGhUlWLJ) | [INDIGO TRIBE](https://open.spotify.com/artist/43Xs9JZIHsA1zrks75WqfG), [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [IT, Vol\. 1: BRUS](https://open.spotify.com/album/0OKxVuRnZh2Oo1sM12rzJv) | 2:25 |
+| 30 | [MONOPOL](https://open.spotify.com/track/5PiGv8hVPY2aIWvGhUlWLJ) | [INDIGO TRIBE](https://open.spotify.com/artist/43Xs9JZIHsA1zrks75WqfG), [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [VOL\. I: BRUS](https://open.spotify.com/album/0OKxVuRnZh2Oo1sM12rzJv) | 2:25 |
 | 31 | [THE CINEMA](https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [PAREIDOLIA](https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5) | 3:22 |
 | 32 | [Ser Dig](https://open.spotify.com/track/4vBLne7aNcpc5j0I1Xi2oD) | [Jacob Öman](https://open.spotify.com/artist/2GdaO85zmxSqEQF55zNxYt) | [Ser Dig](https://open.spotify.com/album/2UVlbLbEzDjGBOXHFSO4rd) | 2:29 |
 | 33 | [junebug!](https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [junebug!](https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm) | 2:19 |

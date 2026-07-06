@@ -2,9 +2,9 @@
 
 ### [Mad Decent Weekly](https://open.spotify.com/playlist/5IRdCjOHb6RwaIl1PaomPV)
 
-> The latest tracks from Mad Decent and friends\. Featuring new cuts from Eartheater, the sound that chalk makes, Effie, evilgiane, &amp; more.
+> The latest tracks from Mad Decent and friends\. Featuring new cuts from Major Lazer,  Eartheater, the sound that chalk makes, Effie, evilgiane, &amp; more.
 
-906 songs - 2 day 2 hr 56 min
+907 songs - 2 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -615,6 +615,7 @@
 | [Overloading \(OVERDOSE\)](https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Overloading \(OVERDOSE\)](https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8) | 3:25 | 2022-06-17 | 2022-11-13 |
 | [ozone community pt\. 1 & 2](https://open.spotify.com/track/6VUBanzg1vLKEsZxDKCGiM) | [dolo2000](https://open.spotify.com/artist/23JjxOmZ2pJYgyytD1lDtY) | [ozone community pt\. 1 & 2](https://open.spotify.com/album/6vWUlooJXoOaRdJeWsO1z3) | 2:19 | 2023-01-20 | 2023-12-14 |
 | [palms](https://open.spotify.com/track/5tQAt6bN6UymuFqGEArr77) | [dreamstation](https://open.spotify.com/artist/3mMwGmSBYzsDKWydGcu066), [jinkasei](https://open.spotify.com/artist/4nrZ7yhBckcZ3QsPzF3EHV) | [palms](https://open.spotify.com/album/5eZSErD8gAase138wnY32f) | 3:01 | 2024-12-18 | 2025-06-12 |
+| [pAPi wiTH tOKisCha](https://open.spotify.com/track/5UA4VZsSc5Ky988bOI5Fnu) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [pAPi wiTH tOKisCha](https://open.spotify.com/album/0zQSdKV9voIN7ZG8exJ9Ct) | 2:42 | 2026-07-05 |  |
 | [PARACHUTE](https://open.spotify.com/track/1BeCYnSgefgDxYNuN9LOQB) | [Bbyafricka](https://open.spotify.com/artist/019gRg7DezPMbaI1xRZD6W), [SURF GANG](https://open.spotify.com/artist/0rTeZQSxEg1XzZ1dFz6Moz) | [HARD COPY](https://open.spotify.com/album/44kHmKG4BiNNGMMMuCskNF) | 1:36 | 2024-07-26 | 2025-04-04 |
 | [Paradise Rains](https://open.spotify.com/track/7v8BK91W0rwEpxWckubE9C) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Paradise Rains](https://open.spotify.com/album/2XsZLXPI21Ct2bN9xVlnKZ) | 3:19 | 2026-05-29 |  |
 | [PARSLEY](https://open.spotify.com/track/1RnGTZ0DomR137tsPsckWV) | [DavidTheTragic](https://open.spotify.com/artist/7mQVOW2B7FQ0dJBxwsa2fR) | [FRIED](https://open.spotify.com/album/510BPX9r8VlNkF4b0o2qmC) | 1:49 | 2024-01-05 | 2024-08-29 |
@@ -656,7 +657,7 @@
 | [Pushed You Away](https://open.spotify.com/track/4NNgRuXULfXbj6IYVzPK64) | [TDJ](https://open.spotify.com/artist/540RtWfpQokIlaRgMDjU9v) | [TDJ123](https://open.spotify.com/album/2uAAN1I8OYWOMyWjBN84Jq) | 4:21 | 2022-06-17 | 2022-11-13 |
 | [Put The Gloxx Down](https://open.spotify.com/track/5AwERbJzHU89ztgK1vAjOA) | [DJmegan23](https://open.spotify.com/artist/56zdYcwtmdYq3WlBYQeHoA) | [You Weren't Supposed To See That...](https://open.spotify.com/album/2kZI8xYKOgZ5bEWLEhGmqI) | 1:04 | 2024-09-20 | 2025-04-04 |
 | [Putita Boutique \(I Love Music\) \- Remixed by EQ](https://open.spotify.com/track/0eqoM9dLPwamCnp76z6kry) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [EQ](https://open.spotify.com/artist/1B8ycQsEGw3fUTkzWs5kFD) | [Putita Boutique \(I Love Music\) \[Remixed by EQ\]](https://open.spotify.com/album/5MeBaaOsbTDzPq9pDsa5b8) | 3:44 | 2025-04-25 |  |
-| [r u kissin any1?](https://open.spotify.com/track/7pCdAOcXQ8vhDpy98dGsGT) | [Joey Cash](https://open.spotify.com/artist/6pvE3aqOyzjdcaReOneQjf) | [r u kissin any1?](https://open.spotify.com/album/0Gtgctuy5OZ3uspYZZrnnP) | 3:42 | 2025-03-21 |  |
+| [r u kissin any1?](https://open.spotify.com/track/7pCdAOcXQ8vhDpy98dGsGT) | [Joey Cash](https://open.spotify.com/artist/6pvE3aqOyzjdcaReOneQjf) | [r u kissin any1?](https://open.spotify.com/album/0Gtgctuy5OZ3uspYZZrnnP) | 3:42 | 2025-03-21 | 2026-07-06 |
 | [RAGE & RAVE](https://open.spotify.com/track/4D8ESLapW3rf4T0qZojFwR) | [B0YG1RL](https://open.spotify.com/artist/0qhwdD2NFfJ8eCK1hKlAiq), [NOVAGANG](https://open.spotify.com/artist/2jKpyH0q7d85BevWLtdKGB), [KAY NIVE$](https://open.spotify.com/artist/6YQgtVqlL7emLLiAloN501) | [RAGE & RAVE](https://open.spotify.com/album/2ZCwDwNFmsRwzbBjZvX8UI) | 2:28 | 2026-05-29 |  |
 | [Rahat Al Chant Ymme](https://open.spotify.com/track/5da9mhqPimauZM5WwnEwzP) | [Omar Souleyman](https://open.spotify.com/artist/11dMqVZY4PHgVL80tejvHK) | [Rahat Al Chant Ymme](https://open.spotify.com/album/5h3JKxrpvcQs3BbPM1sAUF) | 5:19 | 2024-03-11 | 2024-11-28 |
 | [Rainer](https://open.spotify.com/track/6UEKpBUM9dhgqZ3DFZmgGo) | [Palmistry](https://open.spotify.com/artist/4qm6T9pMFiyCDHFTHZchrY) | [TINKERBELL](https://open.spotify.com/album/0E13G3WhQCGFUNp56PQXzI) | 1:17 | 2024-04-25 | 2024-09-21 |

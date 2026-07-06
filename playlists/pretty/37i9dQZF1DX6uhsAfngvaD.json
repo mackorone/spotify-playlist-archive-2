@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 321930,
+  "num_followers": 321938,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Glitch",
-        "url": "https://open.spotify.com/album/0ZrIkyg8P1WXZGC8C95B0x"
-      },
-      "artists": [
-        {
-          "name": "Cryogeyser",
-          "url": "https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ"
-        }
-      ],
-      "duration_ms": 233262,
-      "name": "Leach",
-      "url": "https://open.spotify.com/track/4JCPc8nCOMCbtonSM9O7Dy"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Last Day On Earth",
         "url": "https://open.spotify.com/album/7DSp5ZTFwHqzpGEMlbkVAj"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 222357,
       "name": "Last Day On Earth",
       "url": "https://open.spotify.com/track/4yc69QtlnLzjcYSMPOtrEo"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Glitch",
+        "url": "https://open.spotify.com/album/0ZrIkyg8P1WXZGC8C95B0x"
+      },
+      "artists": [
+        {
+          "name": "Cryogeyser",
+          "url": "https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ"
+        }
+      ],
+      "duration_ms": 233262,
+      "name": "Leach",
+      "url": "https://open.spotify.com/track/4JCPc8nCOMCbtonSM9O7Dy"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 259642,
       "name": "No More Kissing In The Rain",
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Damn I'm Tired",
-        "url": "https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu"
-      },
-      "artists": [
-        {
-          "name": "Sports",
-          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
-        }
-      ],
-      "duration_ms": 225732,
-      "name": "Damn I'm Tired",
-      "url": "https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Cricket Songs",
         "url": "https://open.spotify.com/album/26bo5J4lnlEcCV1LygSfGM"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 230480,
       "name": "Cricket Songs",
       "url": "https://open.spotify.com/track/1X6YvgGzWH9t6io3ZBZ7JP"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Damn I'm Tired",
+        "url": "https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu"
+      },
+      "artists": [
+        {
+          "name": "Sports",
+          "url": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+        }
+      ],
+      "duration_ms": 225732,
+      "name": "Damn I'm Tired",
+      "url": "https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Your Type",
-        "url": "https://open.spotify.com/album/1jPDRUC92JFdr6zCTnugV3"
-      },
-      "artists": [
-        {
-          "name": "bb sway",
-          "url": "https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz"
-        },
-        {
-          "name": "Basile Petite",
-          "url": "https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "Your Type",
-      "url": "https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Heaven Sent (Between Heavens B-Sides)",
         "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
       },
@@ -1351,6 +1331,22 @@
       "duration_ms": 199413,
       "name": "Nadine",
       "url": "https://open.spotify.com/track/5hTNqb3usGDA8GWtj8mzqd"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Love Addict",
+        "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
+      },
+      "artists": [
+        {
+          "name": "Sugar High",
+          "url": "https://open.spotify.com/artist/5D2LVT3Rf3oBttTmGGj3AP"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
     }
   ],
   "unique_name": "Dreampop",

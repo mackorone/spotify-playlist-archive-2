@@ -20291,6 +20291,32 @@
     },
     {
       "album": {
+        "name": "PLZ HOLD (feat. Tkay Maidza)",
+        "url": "https://open.spotify.com/album/1R2M8bDvkMwoJ7hazDb8tD"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Austin Millz",
+          "url": "https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2026-06-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145592,
+      "name": "PLZ HOLD (feat. Tkay Maidza)",
+      "url": "https://open.spotify.com/track/1vKQshIjVUhyg99UbCyeMp"
+    },
+    {
+      "album": {
         "name": "pogo",
         "url": "https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw"
       },
@@ -27670,7 +27696,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 162684,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"

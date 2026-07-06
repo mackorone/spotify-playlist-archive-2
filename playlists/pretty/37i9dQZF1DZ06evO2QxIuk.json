@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 375472,
+  "num_followers": 375500,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAABkQfN0Me+liAWcuhT0NoN",
+  "snapshot_id": "akhNAAAAAACFFJhzkuB2rnJl7Kc7Nk1t",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live in Rio",
-        "url": "https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 129639,
-      "name": "Brazilian Rhyme",
-      "url": "https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Want My Love",
         "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 194373,
       "name": "You Want My Love",
       "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live in Rio",
+        "url": "https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 129639,
+      "name": "Brazilian Rhyme",
+      "url": "https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 316304,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/1TtWRtu117MTLAxM0LR7PY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sun Goddess",
         "url": "https://open.spotify.com/album/7F4lzjaoC7ghF162g0iGh5"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 509524,
       "name": "Sun Goddess (feat. Ramsey Lewis)",
       "url": "https://open.spotify.com/track/6NzOdf2JKluJVXEKjGDAMA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/4p7Fp1dbgVOT4WVxKPpKHM"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 316304,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/1TtWRtu117MTLAxM0LR7PY"
     },
     {
       "added_at": null,

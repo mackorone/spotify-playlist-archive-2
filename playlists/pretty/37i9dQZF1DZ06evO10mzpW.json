@@ -1,12 +1,12 @@
 {
   "description": "This is Pauline Anna Strom. The essential tracks, all in one playlist.",
-  "num_followers": 68,
+  "num_followers": 67,
   "original_name": "This Is Pauline Anna Strom",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAACfgRMFpQfOkqqI/7z1k9tC",
+  "snapshot_id": "akhNAAAAAAADmygOFrFKcYpNs+Z+e1QQ",
   "tracks": [
     {
       "added_at": null,
@@ -228,25 +228,9 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 148974,
-      "name": "I Still Hope",
-      "url": "https://open.spotify.com/track/2zOwNbJfFqXG6TqOmMLAdv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plot Zero",
-        "url": "https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl"
-      },
-      "artists": [
-        {
-          "name": "Pauline Anna Strom",
-          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
-        }
-      ],
-      "duration_ms": 282135,
-      "name": "Plot Zero",
-      "url": "https://open.spotify.com/track/5eFrPcV4i3N1OBXWepPyYP"
+      "duration_ms": 336605,
+      "name": "Small Reptiles on the Forest Floor",
+      "url": "https://open.spotify.com/track/6z0Jsf6rbNz92gvoXZrNPb"
     },
     {
       "added_at": null,
@@ -263,6 +247,22 @@
       "duration_ms": 450866,
       "name": "Alpine Flight",
       "url": "https://open.spotify.com/track/3iHcqaxMaLQ6Q4hCvHKqYT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plot Zero",
+        "url": "https://open.spotify.com/album/1FNEjRy1z1H3WkpByA9Vnl"
+      },
+      "artists": [
+        {
+          "name": "Pauline Anna Strom",
+          "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
+        }
+      ],
+      "duration_ms": 282135,
+      "name": "Plot Zero",
+      "url": "https://open.spotify.com/track/5eFrPcV4i3N1OBXWepPyYP"
     },
     {
       "added_at": null,
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/1N5oRpOIshVJwICjXqkHPW"
         }
       ],
-      "duration_ms": 336605,
-      "name": "Small Reptiles on the Forest Floor",
-      "url": "https://open.spotify.com/track/6z0Jsf6rbNz92gvoXZrNPb"
+      "duration_ms": 148974,
+      "name": "I Still Hope",
+      "url": "https://open.spotify.com/track/2zOwNbJfFqXG6TqOmMLAdv"
     },
     {
       "added_at": null,

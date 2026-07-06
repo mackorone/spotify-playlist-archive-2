@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,482 songs - 21 day 14 hr 28 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,492 songs - 21 day 14 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -8490,5 +8490,15 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8480 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 |
 | 8481 | [Replay](https://open.spotify.com/track/4E5P1XyAFtrjpiIxkydly4) | [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Replay](https://open.spotify.com/album/44hyrGuZKAvITbmrlhryf8) | 3:02 |
 | 8482 | [Doki Doki Forever](https://open.spotify.com/track/4sFwijvwQBMvF8UAIklved) | [OR3O](https://open.spotify.com/artist/3Tqz477C42DxC4UT7rk3yx) | [Doki Doki Forever](https://open.spotify.com/album/0Wh6w1t8XPBzvhufPvRXQL) | 3:00 |
+| 8483 | [Did It Again](https://open.spotify.com/track/4guBZjUyrGoHsTahO3IHdj) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:56 |
+| 8484 | [Trust Love](https://open.spotify.com/track/0lo2FiqF9rhKnj4R5MNMCP) | [Jeff Williams](https://open.spotify.com/artist/6jy0VQ5tLwEKBeMxZ1aK4J), [Casey Lee Williams](https://open.spotify.com/artist/08dD0frW9WYHRGVa40oILp) | [RWBY, Vol\. 7 \(Music from the Rooster Teeth Series\)](https://open.spotify.com/album/5lGbkPdW0pDtgXAvPzSYbI) | 3:50 |
+| 8485 | [Die](https://open.spotify.com/track/3EyIwqV3VIypP1q8AUKFXw) | [Jeff Williams](https://open.spotify.com/artist/6jy0VQ5tLwEKBeMxZ1aK4J), [Casey Lee Williams](https://open.spotify.com/artist/08dD0frW9WYHRGVa40oILp) | [Songs Part Two](https://open.spotify.com/album/2LrK8pjdMSMD04hkeUILaA) | 3:18 |
+| 8486 | [Time to Say Goodbye](https://open.spotify.com/track/6odR6jtxYIgNAcaOtgxlfN) | [Jeff Williams](https://open.spotify.com/artist/6jy0VQ5tLwEKBeMxZ1aK4J), [Casey Lee Williams](https://open.spotify.com/artist/08dD0frW9WYHRGVa40oILp) | [Songs Part Two](https://open.spotify.com/album/2LrK8pjdMSMD04hkeUILaA) | 3:24 |
+| 8487 | [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 |
+| 8488 | [Like a dream come true](https://open.spotify.com/track/6HTsvvMoqBxlahJaBAfOkZ) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ4 オリジナル・サウンドトラック](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys) | 2:37 |
+| 8489 | [youthful lunch](https://open.spotify.com/track/6HAufILij6clOZ2UcutNCu) | [アトラスサウンドチーム](https://open.spotify.com/artist/4hFBhdNVZZuVk5FYThUwaN) | [ペルソナ4 オリジナル・サウンドトラック](https://open.spotify.com/album/78LGjDUuu5dQZRfbrFQ2Ys) | 1:41 |
+| 8490 | [デート・ア・ライブ](https://open.spotify.com/track/4lHhlaay5sKaj3rcAHuwxb) | [sweet ARMS](https://open.spotify.com/artist/4VNX81QK24dwtTCv4lx8Ae) | [選んでデート・ア・ライブ 〜DATE A LIVE BEST SELECTION〜](https://open.spotify.com/album/2l4Kgi1AL5yLsns24Xrgii) | 4:40 |
+| 8491 | [Galactic mermaid](https://open.spotify.com/track/1yHXUDFaAtxty9N3eklIHY) | [マーメイド・シスターズ\(Vo.クリヤマユウリ\)](https://open.spotify.com/artist/4USrgZyHavtZNMDfftaKSq) | [TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1](https://open.spotify.com/album/54hb2cgal71xCmoC9EB4IW) | 2:03 |
+| 8492 | [Move Mountains](https://open.spotify.com/track/0jpqrFBVDKNYXogtpUZdPx) | [アンジェラ \(Vo\. Alisa\)](https://open.spotify.com/artist/19Z6ho646iYK8BK0FrQMot) | [TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1](https://open.spotify.com/album/54hb2cgal71xCmoC9EB4IW) | 2:51 |
 
-Snapshot ID: `AAAMOH2aIuq+fZtYs9yGS944ryFc/atO`
+Snapshot ID: `AAAMQu/3doSj6M4lAo9eBRoAIoJLh4JK`

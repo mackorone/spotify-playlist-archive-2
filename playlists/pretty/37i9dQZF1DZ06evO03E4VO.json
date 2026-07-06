@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAB+UiWpecLJyAlGouGh/NV6",
+  "snapshot_id": "akhNAAAAAADapfyMZCXhwh6RvWMqNZjV",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "blink of an eye",
-        "url": "https://open.spotify.com/album/7DS8opcjcZNh1QVHPm3L3Z"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 199314,
-      "name": "blink of an eye",
-      "url": "https://open.spotify.com/track/4Kc7BvNsfQqqSbhqCrSQ6z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "love you right",
         "url": "https://open.spotify.com/album/3GfCPb0ksm3uN8FtQ4Hhf0"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 219219,
       "name": "love you right",
       "url": "https://open.spotify.com/track/4Xpkx20V4OPuBKAGzygqgC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "valentine's day",
+        "url": "https://open.spotify.com/album/7BR4fDyQhhDVUwPEgiSOZ8"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "valentine's day",
+      "url": "https://open.spotify.com/track/5eIZxYFOZUcCMS0g79r7Qq"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "valentine's day",
-        "url": "https://open.spotify.com/album/7BR4fDyQhhDVUwPEgiSOZ8"
+        "name": "blink of an eye",
+        "url": "https://open.spotify.com/album/7DS8opcjcZNh1QVHPm3L3Z"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 188560,
-      "name": "valentine's day",
-      "url": "https://open.spotify.com/track/5eIZxYFOZUcCMS0g79r7Qq"
+      "duration_ms": 199314,
+      "name": "blink of an eye",
+      "url": "https://open.spotify.com/track/4Kc7BvNsfQqqSbhqCrSQ6z"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "the voicenotes",
-        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
+        "name": "one & only",
+        "url": "https://open.spotify.com/album/0fpRXGnNNWfSLQ6UILGKIH"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 235480,
-      "name": "sad girl",
-      "url": "https://open.spotify.com/track/7ib0T2MIS6ewqgoCbKs93q"
+      "duration_ms": 213115,
+      "name": "one & only",
+      "url": "https://open.spotify.com/track/7LSCQqpgG89LkdQm2DDlMt"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "one & only",
-        "url": "https://open.spotify.com/album/0fpRXGnNNWfSLQ6UILGKIH"
+        "name": "the voicenotes",
+        "url": "https://open.spotify.com/album/0u0XemQDEsApGFSI1Yr379"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
         }
       ],
-      "duration_ms": 213115,
-      "name": "one & only",
-      "url": "https://open.spotify.com/track/7LSCQqpgG89LkdQm2DDlMt"
+      "duration_ms": 235480,
+      "name": "sad girl",
+      "url": "https://open.spotify.com/track/7ib0T2MIS6ewqgoCbKs93q"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "running water",
-        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 184633,
-      "name": "running water",
-      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "malos h\u00e1bitos",
         "url": "https://open.spotify.com/album/6OPuLLyQr6sjyJG98Fd8ZP"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 212937,
       "name": "saboteo",
       "url": "https://open.spotify.com/track/0UNRC3pzUcGrKyftM2Fvzv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "running water",
+        "url": "https://open.spotify.com/album/6toh8B1dKilWkXSEs0Snpq"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 184633,
+      "name": "running water",
+      "url": "https://open.spotify.com/track/1b90ddTdItBsl0s6cNzKzS"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "hookah envenena",
-        "url": "https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z"
-      },
-      "artists": [
-        {
-          "name": "Alaina Castillo",
-          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
-        }
-      ],
-      "duration_ms": 170682,
-      "name": "hookah envenena",
-      "url": "https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00a1p\u00e1rate!",
         "url": "https://open.spotify.com/album/3o3Yc5Wl1V6MnoI3MONhQx"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 153189,
       "name": "\u00a1p\u00e1rate!",
       "url": "https://open.spotify.com/track/2FkDMpd67hEiPCoIcQd7QO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "hookah envenena",
+        "url": "https://open.spotify.com/album/6wNx46wRLYgduZ6FV5mw0Z"
+      },
+      "artists": [
+        {
+          "name": "Alaina Castillo",
+          "url": "https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp"
+        }
+      ],
+      "duration_ms": 170682,
+      "name": "hookah envenena",
+      "url": "https://open.spotify.com/track/0778BFvm5SRbwsgPCWoVGU"
     },
     {
       "added_at": null,

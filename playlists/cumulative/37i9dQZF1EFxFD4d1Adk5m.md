@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7q0jvGbuDLsmGvaRCU7F00">Maegan Cottone</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-125 songs - 6 hr 54 min
+126 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Hey Lonely](https://open.spotify.com/track/0zY2uiQbbovuqLoaz3bnm6) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [DISCO \(Deluxe\)](https://open.spotify.com/album/140JX9hRDcAmfANQeKSnmG) | 3:28 | 2026-04-06 |  |
 | [Holy Love](https://open.spotify.com/track/0f4px6Ke8B28tqXoc9QZSP) | [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Holy Love](https://open.spotify.com/album/72hLhU3ag5VdY6kbpnXvFM) | 2:58 | 2026-04-06 |  |
 | [Home](https://open.spotify.com/track/1ANk6cyLDTVOaiLYmFqUxB) | [Leonie Meijer](https://open.spotify.com/artist/2yAKMlQWwUyDSDly68F3ve) | [NJ 123](https://open.spotify.com/album/0x3Fk82RxdweIktxJQV0po) | 3:26 | 2026-04-06 |  |
+| [Hotline](https://open.spotify.com/track/6CbTFR8nGfxTuSRsIwOon0) | [XO](https://open.spotify.com/artist/3uRDnagY9HyAPIo7Y34V4r) | [Hotline](https://open.spotify.com/album/2fV5LW0H7CpnSM0mSr6R8M) | 2:44 | 2026-07-05 |  |
 | [HURRICANE](https://open.spotify.com/track/088GeGy2QfyoWgBfgrRpFp) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [KODA KUMI LIVE TOUR 2017 \- W FACE \- SET LIST](https://open.spotify.com/album/6FIO79gjWLirSuIdZX1Cpm) | 3:57 | 2026-04-06 |  |
 | [I Choose You](https://open.spotify.com/track/7j4vYvTmZ4IdnG1FjBJSeP) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [SKYVIEW](https://open.spotify.com/album/7nkAfiUqBFSD19EwyvCShv) | 2:39 | 2026-04-06 |  |
 | [I Feel Ya](https://open.spotify.com/track/6dgKviCvVHcUGuV5J0FGe5) | [Krystal Roxx](https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0) | [I Feel Ya](https://open.spotify.com/album/5tzckDrZ4GAYf6EGxBC27S) | 2:25 | 2026-04-06 |  |
@@ -75,7 +76,7 @@
 | [Lightning](https://open.spotify.com/track/7wk2mXtIFJWJgUnFZmSq7I) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 5:12 | 2026-04-06 |  |
 | [Like You Do](https://open.spotify.com/track/6D3SReugBjKhaPsJJgg87F) | [Krystal Roxx](https://open.spotify.com/artist/79Znj8lVVpXXJ4KHDfCVk0), [Megz](https://open.spotify.com/artist/1Cd7wXMk3X4WRiaztPFudG) | [Like You Do](https://open.spotify.com/album/2EvcvtCWyYHChps43j59sR) | 3:28 | 2026-04-06 |  |
 | [Live It Up](https://open.spotify.com/track/1fzGTK2qoX10Xnm0tIr2nL) | [Miami Beatz](https://open.spotify.com/artist/7m7uZG6oF329yKI2FtptTA) | [Ultimate Summer Hits: 50 Party Anthems](https://open.spotify.com/album/2Yq0Bi84tBQ69lGKIBEdyD) | 3:28 | 2026-04-06 |  |
-| [Live It Up \- Official Song 2018 FIFA World Cup Russia](https://open.spotify.com/track/4DnHUy01jEA4b5ydC3HgsT) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Live It Up \(Official Song 2018 FIFA World Cup Russia\)](https://open.spotify.com/album/1oxKlNFmKZ4heJRiBP0Sny) | 3:27 | 2026-04-11 | 2026-07-05 |
+| [Live It Up \- Official Song 2018 FIFA World Cup Russia](https://open.spotify.com/track/4DnHUy01jEA4b5ydC3HgsT) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx), [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91) | [Live It Up \(Official Song 2018 FIFA World Cup Russia\)](https://open.spotify.com/album/1oxKlNFmKZ4heJRiBP0Sny) | 3:27 | 2026-04-11 |  |
 | [Lose Myself](https://open.spotify.com/track/2bZzUbUt8cbt9gbnaRX2p3) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Happy Place](https://open.spotify.com/album/2GF4liPUbApWEsVd4mTlpR) | 3:25 | 2026-04-06 |  |
 | [Love Train](https://open.spotify.com/track/6TTDhRdbaRpTyqi6UiESAv) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 2:55 | 2026-04-06 |  |
 | [Mercedes](https://open.spotify.com/track/0kfY0oZBLuvIZz5ccq8khh) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [WALK OF MY LIFE](https://open.spotify.com/album/74m4nnIEJqwiBD3Lv6f4Xt) | 2:54 | 2026-04-06 |  |

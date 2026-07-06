@@ -59,6 +59,22 @@
     {
       "added_at": "2026-01-25 23:01:07",
       "album": {
+        "name": "Dove Si Balla",
+        "url": "https://open.spotify.com/album/5iTNhsNPt2pesmEDZlcphf"
+      },
+      "artists": [
+        {
+          "name": "Dargen D'Amico",
+          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
+        }
+      ],
+      "duration_ms": 198082,
+      "name": "Dove Si Balla",
+      "url": "https://open.spotify.com/track/3FVa0R2evbgjVOd3bejudr"
+    },
+    {
+      "added_at": "2026-01-25 23:01:07",
+      "album": {
         "name": "1969 - Achille Idol Rebirth",
         "url": "https://open.spotify.com/album/0zMH1I8EZPPGYAzxZ9H0gU"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 173345,
       "name": "Rolls Royce (feat. Boss Doms, Frenetik&Orang3)",
       "url": "https://open.spotify.com/track/6RrHjDbTT8ibYqSBsZbmRA"
-    },
-    {
-      "added_at": "2026-01-25 23:01:07",
-      "album": {
-        "name": "Dove Si Balla",
-        "url": "https://open.spotify.com/album/5iTNhsNPt2pesmEDZlcphf"
-      },
-      "artists": [
-        {
-          "name": "Dargen D'Amico",
-          "url": "https://open.spotify.com/artist/7muPB2GhV0sEg2K1Fgj0Xm"
-        }
-      ],
-      "duration_ms": 198082,
-      "name": "Dove Si Balla",
-      "url": "https://open.spotify.com/track/3FVa0R2evbgjVOd3bejudr"
     },
     {
       "added_at": "2026-01-25 23:01:07",

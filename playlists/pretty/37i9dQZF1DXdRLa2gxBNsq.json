@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: Non Servium.",
-  "num_followers": 116378,
+  "num_followers": 116388,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
+        "name": "A Bocajarro + Sopla Sopla",
+        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
+      },
+      "artists": [
+        {
+          "name": "Tijuana in blue",
+          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
+        }
+      ],
+      "duration_ms": 289367,
+      "name": "Maki Navaja, El \u00daltimo Chorisso",
+      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
         "name": "La Calle Arde",
         "url": "https://open.spotify.com/album/63TDd5KeunGk8rzpaBk4kP"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 158068,
       "name": "La Calle Arde",
       "url": "https://open.spotify.com/track/6TmRbFHBRM3utbSk8epHBZ"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
-        "name": "A Bocajarro + Sopla Sopla",
-        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
-      },
-      "artists": [
-        {
-          "name": "Tijuana in blue",
-          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
-        }
-      ],
-      "duration_ms": 289367,
-      "name": "Maki Navaja, El \u00daltimo Chorisso",
-      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -915,22 +915,6 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "Sin Perd\u00f3n",
-        "url": "https://open.spotify.com/album/6oZ2KJHWZCOsGF8C7K0BIA"
-      },
-      "artists": [
-        {
-          "name": "Enga\u00f1o Manifiesto",
-          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
-        }
-      ],
-      "duration_ms": 190980,
-      "name": "Sin Perd\u00f3n",
-      "url": "https://open.spotify.com/track/7x0suSvlacQBTe9dPBpXzu"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
         "name": "Ahora soy un punkarra",
         "url": "https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 144944,
       "name": "Ahora soy un punkarra",
       "url": "https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
+        "name": "Sin Perd\u00f3n",
+        "url": "https://open.spotify.com/album/6oZ2KJHWZCOsGF8C7K0BIA"
+      },
+      "artists": [
+        {
+          "name": "Enga\u00f1o Manifiesto",
+          "url": "https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c"
+        }
+      ],
+      "duration_ms": 190980,
+      "name": "Sin Perd\u00f3n",
+      "url": "https://open.spotify.com/track/7x0suSvlacQBTe9dPBpXzu"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
+        "name": "Garrote Vil",
+        "url": "https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD"
+      },
+      "artists": [
+        {
+          "name": "XpresidentX",
+          "url": "https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK"
+        }
+      ],
+      "duration_ms": 105386,
+      "name": "Jubilaci\u00f3n a los 18",
+      "url": "https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
         "name": "Vivir la Vida",
         "url": "https://open.spotify.com/album/21LP92m9L3r5rY8zxF3uLF"
       },
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "Garrote Vil",
-        "url": "https://open.spotify.com/album/1g2gfrZYqVz51765ogVnwD"
-      },
-      "artists": [
-        {
-          "name": "XpresidentX",
-          "url": "https://open.spotify.com/artist/55xp25jpoTYjWrUjGoJftK"
-        }
-      ],
-      "duration_ms": 105386,
-      "name": "Jubilaci\u00f3n a los 18",
-      "url": "https://open.spotify.com/track/3LGK9ODTGbdAkgeD6ZOOp5"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
         "name": "Una y Nos Vamos (Versi\u00f3n 2024)",
         "url": "https://open.spotify.com/album/6xPQrDpm7oCRNRpJOyWkdK"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "Asesinos",
-        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
-      },
-      "artists": [
-        {
-          "name": "Manifa",
-          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
-        }
-      ],
-      "duration_ms": 176117,
-      "name": "Asesinos",
-      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
         "name": "Borratxos y Orgullosos",
         "url": "https://open.spotify.com/album/5ID6tz1P5QOQlS6z2ht7IE"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 223950,
       "name": "Borratxos y Orgullosos",
       "url": "https://open.spotify.com/track/3pcyr7HKRhEAf6RZ9UFLdc"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
+        "name": "Asesinos",
+        "url": "https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc"
+      },
+      "artists": [
+        {
+          "name": "Manifa",
+          "url": "https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc"
+        }
+      ],
+      "duration_ms": 176117,
+      "name": "Asesinos",
+      "url": "https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
-      },
-      "artists": [
-        {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Su Falso Mundo - original",
-      "url": "https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
         "name": "Pura dinamita",
         "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
       },
@@ -1471,6 +1455,38 @@
       "duration_ms": 236888,
       "name": "Pura dinamita",
       "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
+        "name": "Todos Mis Enemigos Se Llaman Cayetano",
+        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
+      },
+      "artists": [
+        {
+          "name": "Lendakaris Muertos",
+          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
+        }
+      ],
+      "duration_ms": 57840,
+      "name": "Todos Mis Enemigos Se Llaman Cayetano",
+      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Su Falso Mundo - original",
+      "url": "https://open.spotify.com/track/1ru5Wf0fK3c1XHcdKIjvrg"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -1491,22 +1507,6 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "El Mutante del Barrio Chino",
-        "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
-      },
-      "artists": [
-        {
-          "name": "El \u00daltimo Ke Zierre",
-          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
-        }
-      ],
-      "duration_ms": 192946,
-      "name": "Empacho de Orfidal",
-      "url": "https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
         "name": "Arde Ribera",
         "url": "https://open.spotify.com/album/4miZbn6vSzsHLvCUMSBX1s"
       },
@@ -1523,18 +1523,18 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
-        "name": "No Hay Agua",
-        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+        "name": "El Mutante del Barrio Chino",
+        "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
       },
       "artists": [
         {
-          "name": "Kaos Et\u00edliko",
-          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+          "name": "El \u00daltimo Ke Zierre",
+          "url": "https://open.spotify.com/artist/0sT70rawlW3M0BbnKdxdJC"
         }
       ],
-      "duration_ms": 124853,
-      "name": "Mi Mejor Colega - original",
-      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
+      "duration_ms": 192946,
+      "name": "Empacho de Orfidal",
+      "url": "https://open.spotify.com/track/6vbkhHC2YifNfPZFgRTmfs"
     },
     {
       "added_at": "2026-06-11 22:00:32",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-06-11 22:00:32",
       "album": {
+        "name": "No Hay Agua",
+        "url": "https://open.spotify.com/album/1apZlul36uZlJunetvaxoq"
+      },
+      "artists": [
+        {
+          "name": "Kaos Et\u00edliko",
+          "url": "https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy"
+        }
+      ],
+      "duration_ms": 124853,
+      "name": "Mi Mejor Colega - original",
+      "url": "https://open.spotify.com/track/4kzDs6iR4VsQnZhhrWHcOE"
+    },
+    {
+      "added_at": "2026-06-11 22:00:32",
+      "album": {
         "name": "Dif\u00edcil Ser Humano",
         "url": "https://open.spotify.com/album/1zSktJaNyIi1ot2Wupn4VZ"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 183626,
       "name": "El Pa\u00eds de Alicia",
       "url": "https://open.spotify.com/track/4QAw1unWjQ1a2XMwGc06Ie"
-    },
-    {
-      "added_at": "2026-06-11 22:00:32",
-      "album": {
-        "name": "Todos Mis Enemigos Se Llaman Cayetano",
-        "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
-      },
-      "artists": [
-        {
-          "name": "Lendakaris Muertos",
-          "url": "https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc"
-        }
-      ],
-      "duration_ms": 57840,
-      "name": "Todos Mis Enemigos Se Llaman Cayetano",
-      "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
     },
     {
       "added_at": "2026-06-11 22:00:32",

@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1143376,
+  "num_followers": 1143361,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Songs for Dads",
-        "url": "https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5"
-      },
-      "artists": [
-        {
-          "name": "The Walters",
-          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
-        }
-      ],
-      "duration_ms": 160253,
-      "name": "I Love You So",
-      "url": "https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Skin and Bones",
         "url": "https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Just Say When (Version 2.0)",
-        "url": "https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC"
+        "name": "Songs for Dads",
+        "url": "https://open.spotify.com/album/3MFTbUnA8C9T6KCBb0gpH5"
       },
       "artists": [
         {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
         }
       ],
-      "duration_ms": 224343,
-      "name": "Just Say When (Version 2.0)",
-      "url": "https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd"
+      "duration_ms": 160253,
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/1175r6ZmkUjX8dRJLz9Ohk"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1371,6 +1355,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Just Say When (Version 2.0)",
+        "url": "https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "duration_ms": 224343,
+      "name": "Just Say When (Version 2.0)",
+      "url": "https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/1dKh4z5Aayt8FFDWjO5FDh"
       },
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Bon Iver",
-        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 336613,
-      "name": "Holocene",
-      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Woodland - EP",
         "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 210080,
       "name": "Bloom - Bonus Track",
       "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 336613,
+      "name": "Holocene",
+      "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
     },
     {
       "added_at": "2026-02-18 18:45:42",

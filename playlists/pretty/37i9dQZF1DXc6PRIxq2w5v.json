@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: AO Cubo, 2metro, Nesk Only, Brunno Ramos",
-  "num_followers": 192211,
+  "num_followers": 192214,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,26 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
+        "name": "No Sil\u00eancio da Solid\u00e3o (Submundo)",
+        "url": "https://open.spotify.com/album/7d9QCSLUTVc9THSN1BzV1u"
+      },
+      "artists": [
+        {
+          "name": "patetacodigo43",
+          "url": "https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk"
+        },
+        {
+          "name": "Dj Samu AKA Suguiura",
+          "url": "https://open.spotify.com/artist/2ho4L2JrmN8G77BI2Nh5Xs"
+        }
+      ],
+      "duration_ms": 280028,
+      "name": "No Sil\u00eancio da Solid\u00e3o - Submundo",
+      "url": "https://open.spotify.com/track/0iIeksgXMaGf4WUksK5FFi"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
         "name": "Crises",
         "url": "https://open.spotify.com/album/27V8oYBFDgEtNN8Gaqukfe"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 144489,
       "name": "Crises",
       "url": "https://open.spotify.com/track/3vuXb0bz3HKp2Iey3vOpaX"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
-        "name": "No Sil\u00eancio da Solid\u00e3o (Submundo)",
-        "url": "https://open.spotify.com/album/7d9QCSLUTVc9THSN1BzV1u"
-      },
-      "artists": [
-        {
-          "name": "patetacodigo43",
-          "url": "https://open.spotify.com/artist/0OMa4u0AUXZIQLnVNiIYOk"
-        },
-        {
-          "name": "Dj Samu AKA Suguiura",
-          "url": "https://open.spotify.com/artist/2ho4L2JrmN8G77BI2Nh5Xs"
-        }
-      ],
-      "duration_ms": 280028,
-      "name": "No Sil\u00eancio da Solid\u00e3o - Submundo",
-      "url": "https://open.spotify.com/track/0iIeksgXMaGf4WUksK5FFi"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -683,18 +683,26 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
-        "name": "Deus Me Estendeu Sua M\u00e3o",
-        "url": "https://open.spotify.com/album/11H96prjfGCKxIHVAuVLYH"
+        "name": "Escolhas",
+        "url": "https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V"
       },
       "artists": [
         {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+        },
+        {
+          "name": "Dima",
+          "url": "https://open.spotify.com/artist/5l4II5pfAbJckDwbdDcgih"
+        },
+        {
+          "name": "MATXS",
+          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
         }
       ],
-      "duration_ms": 167947,
-      "name": "Deus Me Estendeu Sua M\u00e3o",
-      "url": "https://open.spotify.com/track/6pn8UkB7vFhHtAFhmWwnP9"
+      "duration_ms": 200405,
+      "name": "Escolhas",
+      "url": "https://open.spotify.com/track/1T5KuXYczrKd5I1i8V0teH"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -739,26 +747,18 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
-        "name": "Escolhas",
-        "url": "https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V"
+        "name": "Deus Me Estendeu Sua M\u00e3o",
+        "url": "https://open.spotify.com/album/11H96prjfGCKxIHVAuVLYH"
       },
       "artists": [
         {
-          "name": "Boanerges",
-          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
-        },
-        {
-          "name": "Dima",
-          "url": "https://open.spotify.com/artist/5l4II5pfAbJckDwbdDcgih"
-        },
-        {
-          "name": "MATXS",
-          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
         }
       ],
-      "duration_ms": 200405,
-      "name": "Escolhas",
-      "url": "https://open.spotify.com/track/1T5KuXYczrKd5I1i8V0teH"
+      "duration_ms": 167947,
+      "name": "Deus Me Estendeu Sua M\u00e3o",
+      "url": "https://open.spotify.com/track/6pn8UkB7vFhHtAFhmWwnP9"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -823,26 +823,6 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "Novidade Urbana",
-          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
-        }
-      ],
-      "duration_ms": 142622,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
         "name": "B\u00edblia no Jeans",
         "url": "https://open.spotify.com/album/1p3FBw3lyxNsvspB0k1xjb"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 138591,
       "name": "B\u00edblia no Jeans",
       "url": "https://open.spotify.com/track/3bZhgep8ZbUA5Sl9jH2CKv"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Novidade Urbana",
+          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
+        }
+      ],
+      "duration_ms": 142622,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -1127,30 +1127,6 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
-        "name": "Purificado",
-        "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
-      },
-      "artists": [
-        {
-          "name": "Duardin",
-          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 145125,
-      "name": "Purificado",
-      "url": "https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/5q4wiZahugsjPi6xAc2LMX"
       },
@@ -1171,6 +1147,30 @@
       "duration_ms": 158677,
       "name": "Wave",
       "url": "https://open.spotify.com/track/2mfgu7vppecOmppqCVgML0"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
+        "name": "Purificado",
+        "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
+      },
+      "artists": [
+        {
+          "name": "Duardin",
+          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 145125,
+      "name": "Purificado",
+      "url": "https://open.spotify.com/track/0Mh41QHiql9sTldoX8a4S5"
     },
     {
       "added_at": "2026-06-12 03:01:42",
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2026-06-12 03:01:42",
       "album": {
-        "name": "Gratid\u00e3o",
-        "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        },
-        {
-          "name": "TRDD Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 138475,
-      "name": "Gratid\u00e3o",
-      "url": "https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT"
-    },
-    {
-      "added_at": "2026-06-12 03:01:42",
-      "album": {
         "name": "Ora\u00e7\u00e3o II",
         "url": "https://open.spotify.com/album/0et5qT00Uf6ONjbtJdnHnZ"
       },
@@ -1291,6 +1267,30 @@
       "duration_ms": 133333,
       "name": "Ora\u00e7\u00e3o II",
       "url": "https://open.spotify.com/track/7z8XT0LLmLma82SSkwN4et"
+    },
+    {
+      "added_at": "2026-06-12 03:01:42",
+      "album": {
+        "name": "Gratid\u00e3o",
+        "url": "https://open.spotify.com/album/3tKHxULEO1rG2tzXlvGB0U"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        },
+        {
+          "name": "TRDD Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 138475,
+      "name": "Gratid\u00e3o",
+      "url": "https://open.spotify.com/track/6hP6Hoivjj4EruHu06PRmT"
     },
     {
       "added_at": "2026-06-12 03:01:42",

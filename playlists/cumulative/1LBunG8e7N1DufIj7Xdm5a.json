@@ -72081,6 +72081,24 @@
     },
     {
       "album": {
+        "name": "Through Blood or Glory",
+        "url": "https://open.spotify.com/album/0oegqz6dQmOMputH42TyYc"
+      },
+      "artists": [
+        {
+          "name": "Dark Shadow",
+          "url": "https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315879,
+      "name": "Through Blood or Glory",
+      "url": "https://open.spotify.com/track/0MU3pj4seZYuPmB0W6i6HT"
+    },
+    {
+      "album": {
         "name": "80's music inspired",
         "url": "https://open.spotify.com/album/52EpTauHULa82DwbMx0Pdh"
       },

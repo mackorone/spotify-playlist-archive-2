@@ -143,6 +143,24 @@
     },
     {
       "album": {
+        "name": "B\u1eaeT \u0110\u1ec0N",
+        "url": "https://open.spotify.com/album/5Q0iUsx0PaBlrgMquaIz4M"
+      },
+      "artists": [
+        {
+          "name": "C\u1ea7m",
+          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169696,
+      "name": "B\u1eaeT \u0110\u1ec0N",
+      "url": "https://open.spotify.com/track/6EMhgphKqMdathcCEvWsV8"
+    },
+    {
+      "album": {
         "name": "chuy\u1ec7n N\u1eafng v\u00e0 M\u01b0a",
         "url": "https://open.spotify.com/album/4m9pfGwFsevbmaXCIdWU7o"
       },
@@ -223,6 +241,24 @@
     },
     {
       "album": {
+        "name": "TH\u0102NG",
+        "url": "https://open.spotify.com/album/4AGOEldqbL287qhpLt64Rt"
+      },
+      "artists": [
+        {
+          "name": "UPRIZE",
+          "url": "https://open.spotify.com/artist/0fve2D18BgaMHWQSBiqSzN"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173076,
+      "name": "crazy, stupid, love",
+      "url": "https://open.spotify.com/track/5m1lauDigCdAj2bz3LunfZ"
+    },
+    {
+      "album": {
         "name": "C\u00f3 C\u00f4ng M\u00e0i \"S\u1eafc\" (Afrobeats ) [DJ Kim Chol Remix]",
         "url": "https://open.spotify.com/album/2nHpXkJOlyujpytWcasT5U"
       },
@@ -238,7 +274,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 172919,
       "name": "C\u00f3 C\u00f4ng M\u00e0i \"S\u1eafc\" (Afrobeats ) [DJ Kim Chol Remix]",
       "url": "https://open.spotify.com/track/24NU99R1NGEVlVIOPO0Ahg"
@@ -344,7 +380,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 284288,
       "name": "D\u1ea1o N\u00e0y",
       "url": "https://open.spotify.com/track/4MCP9l0QB9YN2LCkIy8mz4"
@@ -421,6 +457,100 @@
     },
     {
       "album": {
+        "name": "H\u1ecfa T\u00e2m",
+        "url": "https://open.spotify.com/album/2EnQB8V9hTsQPTXxY7K6qJ"
+      },
+      "artists": [
+        {
+          "name": "Anh Trai V\u01b0\u1ee3t Ng\u00e0n Ch\u00f4ng Gai",
+          "url": "https://open.spotify.com/artist/1NVwSzuIbuPJEGWhUQRlnv"
+        },
+        {
+          "name": "\u0110\u1ea1i Ngh\u0129a",
+          "url": "https://open.spotify.com/artist/0KFv5eYNxnaI41B5h2NJlz"
+        },
+        {
+          "name": "D\u0169ng DT",
+          "url": "https://open.spotify.com/artist/5gaA7p1akj6X9vlSdmVutf"
+        },
+        {
+          "name": "Nguyen Van Chung",
+          "url": "https://open.spotify.com/artist/1uXHYAZLyOQY5qaM1crBNK"
+        },
+        {
+          "name": "Thai VG",
+          "url": "https://open.spotify.com/artist/60866JeWZ2YP0iOF1obsqE"
+        },
+        {
+          "name": "T\u00f9ng Mint",
+          "url": "https://open.spotify.com/artist/4KivxDIBMwI69GKqUK189W"
+        },
+        {
+          "name": "Thanh Duy",
+          "url": "https://open.spotify.com/artist/4sGeCkzfqINvHaWFfeoQJp"
+        },
+        {
+          "name": "Th\u1ecf (Da LAB)",
+          "url": "https://open.spotify.com/artist/1PzGERJ55N7ZAgusauBAFN"
+        },
+        {
+          "name": "Tr\u1ecbnh Th\u0103ng B\u00ecnh",
+          "url": "https://open.spotify.com/artist/4co1OIKlUOsNNVJFSZzO9N"
+        },
+        {
+          "name": "Ho\u00e0ng T\u00f4n",
+          "url": "https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f"
+        },
+        {
+          "name": "JGKiD (Da LAB)",
+          "url": "https://open.spotify.com/artist/3mYnd5Nlmdpg4D9rbAqNUD"
+        },
+        {
+          "name": "Jun Ph\u1ea1m",
+          "url": "https://open.spotify.com/artist/5bJcxnt5lkrDyKfPjtSBxP"
+        },
+        {
+          "name": "\u0110inh M\u1ea1nh Ninh",
+          "url": "https://open.spotify.com/artist/1G2yxRuuHv9mev4EHZzbXw"
+        },
+        {
+          "name": "V\u01b0\u01a1ng Anh T\u00fa",
+          "url": "https://open.spotify.com/artist/3OeYidiG0MAcGmiSwTHZf6"
+        },
+        {
+          "name": "Will",
+          "url": "https://open.spotify.com/artist/3HMWKU43x9GxkGWVP1KjQT"
+        },
+        {
+          "name": "Mew Amazing",
+          "url": "https://open.spotify.com/artist/34nom4Ft3keMWBZPAUB3EI"
+        },
+        {
+          "name": "Neko L\u00ea",
+          "url": "https://open.spotify.com/artist/1LizFsdyfdlEJlah6l88PU"
+        },
+        {
+          "name": "BB Tr\u1ea7n",
+          "url": "https://open.spotify.com/artist/0eM9FVpbKx2ZvUOWDHXbUO"
+        },
+        {
+          "name": "Ho\u00e0ng Rob",
+          "url": "https://open.spotify.com/artist/43qZrcVKZleWlmoBVRBPO8"
+        },
+        {
+          "name": "Thu\u1eadn Nguy\u1ec5n",
+          "url": "https://open.spotify.com/artist/50yflUxOsoV6d6zjLdHWUq"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263558,
+      "name": "H\u1ecfa T\u00e2m",
+      "url": "https://open.spotify.com/track/2OdxPclGmIn0KmCZX6XSOw"
+    },
+    {
+      "album": {
         "name": "N\u1ed4",
         "url": "https://open.spotify.com/album/4CNU1B2QHdFryQ0jl9a00J"
       },
@@ -472,10 +602,28 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 185435,
       "name": "Lovetamin",
       "url": "https://open.spotify.com/track/0anwIFefRjv4KNZq9gB3po"
+    },
+    {
+      "album": {
+        "name": "L\u00e1 Ng\u1ecdc C\u00e0nh V\u00e0ng",
+        "url": "https://open.spotify.com/album/0PudQio1QykKKekRWXfEdm"
+      },
+      "artists": [
+        {
+          "name": "Ki\u1ec1u Anh",
+          "url": "https://open.spotify.com/artist/3hlJ2qli6WvQaJ1FqyTP02"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222164,
+      "name": "L\u00e1 Ng\u1ecdc C\u00e0nh V\u00e0ng",
+      "url": "https://open.spotify.com/track/0vbmSk6huZt5H6vhpfI6BX"
     },
     {
       "album": {
@@ -600,7 +748,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 231272,
       "name": "M\u1ed9c Mi\u00ean",
       "url": "https://open.spotify.com/track/4dACabuMfu8vKYNfyuhwWp"
@@ -680,10 +828,32 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 230823,
       "name": "Nh\u1ea5c M\u00e1y",
       "url": "https://open.spotify.com/track/1sw1KUol417wLcw6w6yWZQ"
+    },
+    {
+      "album": {
+        "name": "N\u00edu K\u00e9o M\u00e3i Kh\u00f4ng Ph\u1ea3i C\u00e1ch",
+        "url": "https://open.spotify.com/album/0LWZ20T4YsofUVsz5Dv8mI"
+      },
+      "artists": [
+        {
+          "name": "B\u1ea3o Anh",
+          "url": "https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J"
+        },
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/62W8AjUxG5FSRXzA9rm7sy"
+        }
+      ],
+      "date_added": "2026-07-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "N\u00edu K\u00e9o M\u00e3i Kh\u00f4ng Ph\u1ea3i C\u00e1ch",
+      "url": "https://open.spotify.com/track/5j3Be6gng8vRRHn2ecuJLQ"
     },
     {
       "album": {
@@ -760,7 +930,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 250608,
       "name": "Th\u01b0\u01a1ng Em (feat. Andiez)",
       "url": "https://open.spotify.com/track/63Fzv8Tmynr8GsZXznOUbM"

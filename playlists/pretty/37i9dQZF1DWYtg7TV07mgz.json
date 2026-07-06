@@ -1,6 +1,6 @@
 {
   "description": "Floorfillers galore from the 90s and 00s.",
-  "num_followers": 1238146,
+  "num_followers": 1238108,
   "original_name": "Massive Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-07-12 09:13:15",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "Good Life",
-      "url": "https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5"
-    },
-    {
-      "added_at": "2024-07-12 09:13:15",
-      "album": {
         "name": "Tongue N' Cheek (Dirtee Deluxe Edition)",
         "url": "https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 177573,
       "name": "Bonkers",
       "url": "https://open.spotify.com/track/6ddQ5KCkvCggk3j6KdA0zL"
+    },
+    {
+      "added_at": "2024-07-12 09:13:15",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        }
+      ],
+      "duration_ms": 244773,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5"
     },
     {
       "added_at": "2024-07-12 09:13:15",
@@ -591,26 +591,6 @@
     {
       "added_at": "2024-07-12 09:13:15",
       "album": {
-        "name": "Settle (Special Edition)",
-        "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
-      },
-      "artists": [
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "AlunaGeorge",
-          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
-        }
-      ],
-      "duration_ms": 277687,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/5EWFuo4ObEnfndc57sTuIo"
-    },
-    {
-      "added_at": "2024-07-12 09:13:15",
-      "album": {
         "name": "Tongue N' Cheek (Dirtee Deluxe Edition)",
         "url": "https://open.spotify.com/album/0tbxVYstYiHpBwA7qYL1hC"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 204093,
       "name": "Dance Wiv Me - Radio Edit",
       "url": "https://open.spotify.com/track/6pTg4H8juKV9iSzrcVUbM3"
+    },
+    {
+      "added_at": "2024-07-12 09:13:15",
+      "album": {
+        "name": "Settle (Special Edition)",
+        "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
+      },
+      "artists": [
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+        }
+      ],
+      "duration_ms": 277687,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/5EWFuo4ObEnfndc57sTuIo"
     },
     {
       "added_at": "2024-07-12 09:13:15",

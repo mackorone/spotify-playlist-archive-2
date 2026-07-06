@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akb7gAAAAAAnriM+hEKgmGMSwqB7XFee",
+  "snapshot_id": "akhNAAAAAACJCsSwejqvQy7+wLWTWTBo",
   "tracks": [
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 231213,
-      "name": "Louder Than The Lies",
-      "url": "https://open.spotify.com/track/2DHvfbdpLowMAsbfxDoiJR"
+      "duration_ms": 180997,
+      "name": "Lions And Eagles",
+      "url": "https://open.spotify.com/track/5TS7MJHae2zCApLTUKMmPr"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 180997,
-      "name": "Lions And Eagles",
-      "url": "https://open.spotify.com/track/5TS7MJHae2zCApLTUKMmPr"
+      "duration_ms": 231213,
+      "name": "Louder Than The Lies",
+      "url": "https://open.spotify.com/track/2DHvfbdpLowMAsbfxDoiJR"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Come To Life",
+        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        }
+      ],
+      "duration_ms": 232453,
+      "name": "If You Died Tonight",
+      "url": "https://open.spotify.com/track/7glAHcE2yN6onHZd7BBSto"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When The Light Comes",
         "url": "https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R"
       },
@@ -615,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Come To Life",
-        "url": "https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM"
+        "name": "Every Time I Breathe",
+        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
       },
       "artists": [
         {
@@ -624,9 +640,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 232453,
-      "name": "If You Died Tonight",
-      "url": "https://open.spotify.com/track/7glAHcE2yN6onHZd7BBSto"
+      "duration_ms": 334373,
+      "name": "All The Same",
+      "url": "https://open.spotify.com/track/1OUXsLnPOjaHSPb8ahixeY"
     },
     {
       "added_at": null,
@@ -683,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Every Time I Breathe",
-        "url": "https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2"
+        "name": "Beautiful Offerings (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
       },
       "artists": [
         {
@@ -692,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
         }
       ],
-      "duration_ms": 334373,
-      "name": "All The Same",
-      "url": "https://open.spotify.com/track/1OUXsLnPOjaHSPb8ahixeY"
+      "duration_ms": 262079,
+      "name": "I Belong To God",
+      "url": "https://open.spotify.com/track/6K2xpBy3l8RvmhD7xBQqS9"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
       "duration_ms": 205933,
       "name": "Fields of Grace",
       "url": "https://open.spotify.com/track/7I1jXhVC8QVJzjPzx93VAQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautiful Offerings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Weave",
-          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
-        }
-      ],
-      "duration_ms": 262079,
-      "name": "I Belong To God",
-      "url": "https://open.spotify.com/track/6K2xpBy3l8RvmhD7xBQqS9"
     },
     {
       "added_at": null,

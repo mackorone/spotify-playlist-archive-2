@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > manifest ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,337 likes - 128 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,422 likes - 128 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 72 | [Şahbaz](https://open.spotify.com/track/4pwvWCg9VemOJwLuf6gntT) | [Ekrem Düzgünoğlu](https://open.spotify.com/artist/1HEHwZasUTlLaKQ6pJcOqT) | [Şahbaz](https://open.spotify.com/album/4Sn9Gh3SxXI0OLd4aY12K5) | 4:07 |
 | 73 | [Puppet's Call](https://open.spotify.com/track/2J1SxoYU8EndVsPZzyfw5C) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Puppet's Call](https://open.spotify.com/album/4cc9NhSHzq5KgsRoXP43FT) | 4:10 |
 | 74 | [Mevsim Bahar](https://open.spotify.com/track/5VFjNBA8CcUHfkGnm7sLHw) | [Mary Jane](https://open.spotify.com/artist/6z7oJJfl0VPdH5sFgogqMq) | [Mevsim Bahar](https://open.spotify.com/album/5266uxPX16bq0u1CUKGEMT) | 4:54 |
-| 75 | [Kara Toprak \- Live \- Bizimle Birlikte](https://open.spotify.com/track/2oHdOKUFJpMo2QoVaSySPR) | [Can Oflaz](https://open.spotify.com/artist/6ZAqshVbKxeUR6R3F8Nb7h) | [Kara Toprak \(Live \- Bizimle Birlikte\)](https://open.spotify.com/album/75vIFBJnPFv9IpuNvcRnqX) | 3:19 |
+| 75 | [Kara Toprak \- Live \- Bizimle Birlikte](https://open.spotify.com/track/2oHdOKUFJpMo2QoVaSySPR) | [Can Oflaz](https://open.spotify.com/artist/6ZAqshVbKxeUR6R3F8Nb7h) | [Kara Toprak \(Live \- Bizimle Birlikte\)](https://open.spotify.com/album/75vIFBJnPFv9IpuNvcRnqX) | 3:20 |
 | 76 | [İnsanlar Kalmaz Gider](https://open.spotify.com/track/6k9iqYmPdxQJJVaaAg8nbR) | [Serap Yağız](https://open.spotify.com/artist/6s4ULgudK5mSloDEzD5fkU), [Taner Öngür](https://open.spotify.com/artist/0G4HK2aboD5qYquNGcJ2yO) | [İnsanlar Kalmaz Gider](https://open.spotify.com/album/1WuiMLXTDFYSlVhkjUam0B) | 3:29 |
 | 77 | [Bilmem](https://open.spotify.com/track/5vbFwrfEZl8Y7zJKTMWNXa) | [Bora](https://open.spotify.com/artist/0EJe5gUmpf6NraeLEyFF7E), [Cem Stihl](https://open.spotify.com/artist/6EJ8XN9ErXRwhxwSxSOFRx) | [Bilmem](https://open.spotify.com/album/7jy90MQrSNz9TLfGh2UT2b) | 2:52 |
 | 78 | [N'oluyo Bana?](https://open.spotify.com/track/4E6s8lDPn9usWo94k0u1E5) | [Naz Ölçal](https://open.spotify.com/artist/23tgygGHvkVtYum3uqbEZ3) | [N'oluyo Bana?](https://open.spotify.com/album/4ijgI3ciI9PYPCYZUGdvDh) | 3:11 |

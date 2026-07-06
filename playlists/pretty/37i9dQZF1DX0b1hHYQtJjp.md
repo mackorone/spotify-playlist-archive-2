@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 
 > Recent hits and new songs from your fave artists\. Cover: Katy Perry
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,564 likes - 73 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 950,580 likes - 73 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0b1hHYQtJjp.md) - [plain]
 | 72 | [Homesick](https://open.spotify.com/track/2VXMJvygwZzJsNPfFdxDN6) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Homesick](https://open.spotify.com/album/3WBn304BBr459QVLs7rdnD) | 3:12 |
 | 73 | [The Thing I Love](https://open.spotify.com/track/4wsT99Vv3afkArA5SSHDsu) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Thing I Love](https://open.spotify.com/album/6pz8Io3WGItAMxlbM1L9zG) | 2:52 |
 
-Snapshot ID: `AAAAAD/PkiD52dHOBiU8xQY06bfuN/Ft`
+Snapshot ID: `AAAAAM2Kibyx+ORjB9jEhOvnnH2Z4mgQ`

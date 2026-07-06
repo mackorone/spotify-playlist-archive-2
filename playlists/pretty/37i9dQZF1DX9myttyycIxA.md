@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Wishy
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,764 likes - 99 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,771 likes - 99 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 98 | [BLINDERS](https://open.spotify.com/track/5yGRA06uJvK0KLgeZAAYb7) | [Ruby Waters](https://open.spotify.com/artist/5ybU1P0ufoGH5CMclUKebd) | [BLINDERS](https://open.spotify.com/album/7bdkWRYBMgIlWEhWlQCEJp) | 3:34 |
 | 99 | [Beadie](https://open.spotify.com/track/2epCOFnQDllhDFAaxO3mx2) | [Sluice](https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j) | [Beadie](https://open.spotify.com/album/07OLVwgWErQyUnhavirYQy) | 4:00 |
 
-Snapshot ID: `AAAAAJpRMgwu4WWXeNU9IQNoyuYyjDA8`
+Snapshot ID: `AAAAAPUuz6KSehgXdlXUjcVys7h0UOjq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,311 likes - 130 songs - 7 hr 16 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,311 likes - 135 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,5 +138,10 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 128 | [Might As Well](https://open.spotify.com/track/5RG0bjdZ3mGsuammzTobwS) | [Lucy Blu](https://open.spotify.com/artist/0zEgohBueDJpD4E4nz8sp1) | [Might As Well](https://open.spotify.com/album/4ZJtK4TIQk23LzdJC8NNpJ) | 3:42 |
 | 129 | [Gateway to the Abyss](https://open.spotify.com/track/4a2F5SBmUhsRjyXeVj5P8S) | [Magic Dragon](https://open.spotify.com/artist/0trHAWuVufxQLIZyPujytr) | [Metropolitan Degradation](https://open.spotify.com/album/1NyV58vxmbIYmhTGrIqmTg) | 6:06 |
 | 130 | [SELF CONTROL](https://open.spotify.com/track/2R64ux4w6jprMByqntPMwi) | [B33B5](https://open.spotify.com/artist/2nOb5m5HqTcILsSp5Ai94c) | [SELF CONTROL](https://open.spotify.com/album/0UAvCnzkVQbkCb8cI8sbFh) | 2:56 |
+| 131 | [The Hallway Never Ends \- Acoustic](https://open.spotify.com/track/67gwcKoueecDvbVeDARNzA) | [Snawfus Screamers](https://open.spotify.com/artist/7sPAgv3goDwWk4s81fXLwu) | [The Hallway Never Ends \(Acoustic\)](https://open.spotify.com/album/3Pbh0Z1qbD0cp1NDs0HpoO) | 3:32 |
+| 132 | [Goodbye](https://open.spotify.com/track/4n2rZVLwNcSP6BR8ypAWyt) | [Mila Mary](https://open.spotify.com/artist/25XyQXGR5U61Ch1hJD3wFs) | [Goodbye](https://open.spotify.com/album/4G2gY6iN0MCPUZmkEGtYOU) | 3:24 |
+| 133 | [Train Tracks](https://open.spotify.com/track/2F772qCRXyHYKvAKTIXXud) | [Cyfnos](https://open.spotify.com/artist/14ywOW1zA8u5jYhABPTkDr) | [Enchanted](https://open.spotify.com/album/3ClfQCfOsysGWFKSQGN2bt) | 2:24 |
+| 134 | [Wicked Man](https://open.spotify.com/track/0GcXpH7SJHPoz2ig2AIGub) | [Mikey Sovereign](https://open.spotify.com/artist/6s6EknLmFnL0AxRtnaexIJ) | [Wicked Man](https://open.spotify.com/album/5dhRHe66pkX1UmayK6GZUb) | 4:52 |
+| 135 | [Something New](https://open.spotify.com/track/7G9HfHhiTPYrvtu7hTRFJk) | [Monday's Monsoon](https://open.spotify.com/artist/5yfO3Tj32k9rS8xSddMnAg) | [Something New](https://open.spotify.com/album/5iVvaFMO6P1bQKWxRfWr8p) | 4:40 |
 
-Snapshot ID: `AAAV3S5kX6d9eXgqTTiC4EEOagTCWhbV`
+Snapshot ID: `AAAV4lIRxyl71z37OCynl1MxiPPdcCVf`

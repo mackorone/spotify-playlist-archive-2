@@ -580,7 +580,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 157694,
       "name": "leather jacket",
       "url": "https://open.spotify.com/track/3OUfsApmvr7mwIm0rSbqbu"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 105191,
       "name": "Money Spread",
       "url": "https://open.spotify.com/track/0EMaW6H0JkB84B8ebkkDrI"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 176578,
       "name": "Murda Musik (feat. Destroy Lonely)",
       "url": "https://open.spotify.com/track/6N0I4EqoaIHib3W1LFPMzC"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 169889,
       "name": "New",
       "url": "https://open.spotify.com/track/2ht2G1JL1yg0kIbz6Wfr8V"
@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133395,
+      "name": "possession",
+      "url": "https://open.spotify.com/track/7fqzm05AMU8nxELARCtGZr"
+    },
+    {
+      "album": {
         "name": "President (feat. Ken Carson)",
         "url": "https://open.spotify.com/album/6iTOKqu4Vl8q7oPzusfOB8"
       },
@@ -1122,7 +1140,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 130129,
       "name": "RICK OWENS (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/6VASMtJitNcGLlsWhPb9BC"
@@ -1692,7 +1710,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-06",
       "duration_ms": 170968,
       "name": "wrist",
       "url": "https://open.spotify.com/track/2LLALDUCUNpRPNNGLOwOrq"

@@ -4,7 +4,7 @@
 
 > This is Aimer\. The essential tracks, all in one playlist.
 
-105 songs - 7 hr 44 min
+106 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [LAST STARDUST](https://open.spotify.com/track/5SIvk89WNJKsl02ojARSYh) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [DAWN](https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka) | 5:18 | 2022-06-09 |  |
 | [Life is a song](https://open.spotify.com/track/4Vin9IpkvhiwOwa9uTOBj6) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [あてもなく\(Special Edition\)](https://open.spotify.com/album/1P2CvUvnNZyisqk1tXXRZX) | 3:57 | 2023-05-20 | 2023-12-14 |
 | [Little Bouquet](https://open.spotify.com/track/29Sb3j5voU0UKCeSO4Vami) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Little Bouquet](https://open.spotify.com/album/46ReMNAksbtI2HIfe0SDPm) | 4:11 | 2025-11-04 |  |
+| [Live to Survive](https://open.spotify.com/track/0Ylt36GkzEHeAljzzcck3L) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Live to Survive](https://open.spotify.com/album/57Iy10AkQGsp10EyJGL6zT) | 3:27 | 2026-07-06 |  |
 | [March of Time](https://open.spotify.com/track/7o7LJevfeMNDQWRUsA4VHP) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [BEST SELECTION "blanc"](https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq) | 4:56 | 2026-04-17 | 2026-06-03 |
 | [Memento mori](https://open.spotify.com/track/4aYJRco9r6KNPPzRHMF6Bz) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [cocoon](https://open.spotify.com/album/0KDBi4WriT563aNRQJLZuB) | 8:46 | 2022-06-09 | 2022-10-08 |
 | [Mine \(Remaster for 星の消えた夜に 2022\)](https://open.spotify.com/track/2Ueo7qwjV84IgRJlsGmBks) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [星の消えた夜に](https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4) | 5:07 | 2022-06-17 | 2022-09-26 |
@@ -71,7 +72,7 @@
 | [あてもなく](https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [あてもなく](https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG) | 3:54 | 2023-04-23 | 2025-01-22 |
 | [あなたに出会わなければ～夏雪冬花～](https://open.spotify.com/track/76Q4LP5dkZiMVvwLIL1kEc) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sleepless Nights](https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD) | 6:00 | 2022-06-09 |  |
 | [いつかその道へ \- 原神ショートアニメ「いつかその道へ」挿入歌](https://open.spotify.com/track/0YhGUbMQBJHe0Ude8MlcQf) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [原神\-いつかその道へ \(Original Game Soundtrack\)](https://open.spotify.com/album/2xRGKCzJToTAbEpOF3EdWd) | 2:30 | 2024-05-29 | 2024-08-26 |
-| [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 | 2024-04-13 |  |
+| [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 | 2024-04-13 | 2026-07-06 |
 | [うつくしい世界](https://open.spotify.com/track/75S3goclSq5ZBVBk1QGwli) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [うつくしい世界](https://open.spotify.com/album/47iFTH6dUkGoRpWRyjgRWv) | 4:05 | 2025-01-22 | 2026-03-09 |
 | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE) | 3:08 | 2022-06-09 |  |
 | [やさしい舞踏会](https://open.spotify.com/track/1DSxhNf742bhxJzfhDuygH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SCOPE](https://open.spotify.com/album/4argo68WyfT6dGHp2ETKpm) | 4:54 | 2025-02-21 | 2025-07-24 |
