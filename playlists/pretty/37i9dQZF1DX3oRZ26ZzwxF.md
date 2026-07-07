@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Tazeboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,901 likes - 49 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,988 likes - 49 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 5 | [BARA BARA](https://open.spotify.com/track/3yAYLtB0WUSd3XBvBtWf2r) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [BARA BARA](https://open.spotify.com/album/2HTaD3yek7f21T97pvtJMV) | 3:35 |
 | 6 | [SORRY I'M BAD](https://open.spotify.com/track/5RbG6Oi4myHjMy9U74HoMn) | [L'Oiseau Rare](https://open.spotify.com/artist/4IAlTRWiKoAqAQLgyupL0U) | [SORRY I'M BAD](https://open.spotify.com/album/6qWEhSnVbwQXycx9xW2XpB) | 2:43 |
 | 7 | [VERS BABI](https://open.spotify.com/track/0CzKp4E4QuKXmUfC3e7BDE) | [El Mvnolo](https://open.spotify.com/artist/2o4gVgLrZwTpXTZvi6KZcS), [TRK.](https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7) | [VERS BABI](https://open.spotify.com/album/12fSbASWi5g2Vx5JMso2Q0) | 3:05 |
-| 8 | [Choquer \- Remix](https://open.spotify.com/track/52IpZCKuXoJR0dtRVjIXr8) | [CJ Tell'm](https://open.spotify.com/artist/2fAo6honVWkCul5xO8y97T), [Jok'air](https://open.spotify.com/artist/4CBNeKZvpQwI6ZJ29AaZzQ), [Westye Hemsley](https://open.spotify.com/artist/7qyDU2GYP53VlSmu8QFQxP) | [Choquer \(Remix\)](https://open.spotify.com/album/7mGIl85U1wp5bykcTy5CSq) | 2:45 |
+| 8 | [Choquer \- Remix](https://open.spotify.com/track/52IpZCKuXoJR0dtRVjIXr8) | [CJ Tell'm](https://open.spotify.com/artist/2fAo6honVWkCul5xO8y97T), [Westye Hemsley](https://open.spotify.com/artist/7qyDU2GYP53VlSmu8QFQxP), [Jok'air](https://open.spotify.com/artist/4CBNeKZvpQwI6ZJ29AaZzQ) | [Choquer \(Remix\)](https://open.spotify.com/album/7mGIl85U1wp5bykcTy5CSq) | 2:45 |
 | 9 | [AMADAN](https://open.spotify.com/track/59SNPmcXGLAMAmnUqQw2ZH) | [Lamine løssa](https://open.spotify.com/artist/2YkHQOwaaDFLiOar0oXqy6) | [AMADAN](https://open.spotify.com/album/76fbIrnYRRxc6zjykmBNwV) | 3:14 |
 | 10 | [MODE AVION \- Remix](https://open.spotify.com/track/0i0Tpdzsh5XXKC91Q2FUkH) | [3xdavs](https://open.spotify.com/artist/5d0mxlfcRm41HzyFrNfxlr) | [MODE AVION \(Remix\)](https://open.spotify.com/album/3OqFWHuVCvhoA8TEaxXx7b) | 2:29 |
 | 11 | [TOP SHOTTA](https://open.spotify.com/track/2CH52qHiWiOhwD7T1moWZq) | [Cash Crime](https://open.spotify.com/artist/7ycoKUNT2nsxYHaJMJBOyn) | [BAO BANGA](https://open.spotify.com/album/5YGM1GFxEz7tIYTsyrw9ju) | 2:27 |

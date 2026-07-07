@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWW1yuCSjnKtM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW1yuCSjnKtM)
 
-### [Viral Hits UK & IE](https://open.spotify.com/playlist/37i9dQZF1DWW1yuCSjnKtM)
+### [Viral Songs UK & IE](https://open.spotify.com/playlist/37i9dQZF1DWW1yuCSjnKtM)
 
 > Hot right now 📈 cover: Olivia Rodrigo
 

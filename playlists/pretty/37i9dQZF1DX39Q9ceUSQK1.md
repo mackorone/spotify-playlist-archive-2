@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Personal Trainer
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,831 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,833 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 36 | [Mr\. Alligator](https://open.spotify.com/track/18EnWZ9wTjszmJjI3BgCuL) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Mr\. Alligator](https://open.spotify.com/album/1VfzgIuIeY3f3jG4t8Qydp) | 4:25 |
 | 37 | [Back of Your Neck](https://open.spotify.com/track/5eRGzmXhOC6vZnF6SugHve) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Back of Your Neck](https://open.spotify.com/album/6fMXbX4OfDOHKBBYeCbvUn) | 3:01 |
 | 38 | [Rock o’ Stone](https://open.spotify.com/track/21CU5fG0Pp0LUbXRDG1d48) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Philadelphia's been good to me](https://open.spotify.com/album/5AfELtBFbN1hM75hgqc7FI) | 5:35 |
-| 39 | [Need](https://open.spotify.com/track/7sav8HC9epsE3GSh7Fwrlj) | [Danny Blue](https://open.spotify.com/artist/5s0rjfjcB5bk1bKAE2azc8) | [Need](https://open.spotify.com/album/3bBBVJU9Vi5fXJczzWeZCl) | 4:02 |
+| 39 | [NEED](https://open.spotify.com/track/7sav8HC9epsE3GSh7Fwrlj) | [Danny Blue](https://open.spotify.com/artist/5s0rjfjcB5bk1bKAE2azc8) | [NEED](https://open.spotify.com/album/3bBBVJU9Vi5fXJczzWeZCl) | 4:02 |
 | 40 | [That's Me](https://open.spotify.com/track/0ivNXNBIslaG7LeLfFaQ0T) | [Keo](https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA) | [That's Me](https://open.spotify.com/album/0OFePaI594VRdvqQETTPBn) | 2:11 |
 | 41 | [we should talk](https://open.spotify.com/track/5xqxq73BSIr3303mn1Dnqz) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [everyone for ten minutes](https://open.spotify.com/album/7fVpvNHItOKonMGgbhHL5o) | 3:04 |
 | 42 | [I WANT IT!](https://open.spotify.com/track/3NWu9J6FSmL1jju2OSM2WM) | [POM](https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv) | [I WANT IT!](https://open.spotify.com/album/6OzCHlQcg09APOwdy0fFz3) | 3:46 |

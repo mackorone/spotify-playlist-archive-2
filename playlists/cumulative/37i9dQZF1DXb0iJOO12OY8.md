@@ -4,7 +4,7 @@
 
 > Heia Norge 🇳🇴⚽️🏟️
 
-242 songs - 11 hr 11 min
+243 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Alt For Læga](https://open.spotify.com/track/3zNpSGHrx6aVDFN3qnTqpx) | [Golfklubb](https://open.spotify.com/artist/1Kj6Km5IuLGKt2cxuhSgLm) | [Alt For Læga](https://open.spotify.com/album/4VeBRiPu1ThlmCPQ8lUJ16) | 2:39 | 2024-11-14 | 2024-12-20 |
 | [Alt For Norge](https://open.spotify.com/track/5MSj7P4ieMZ8IIngLnvhbH) | [Alexandra Rotan](https://open.spotify.com/artist/5LeUKbWRby5hGRHktQkXQV), [TRüH](https://open.spotify.com/artist/0qX8rYHY8qHGepVMSzAGbr) | [Alt For Norge](https://open.spotify.com/album/2F8SdxlBxcbcwMhZR4BuDk) | 2:59 | 2026-05-28 |  |
 | [Alt For Norge](https://open.spotify.com/track/4m9erlcywGIMPeXsDEmfMW) | [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Alt For Norge](https://open.spotify.com/album/4aQB1v78WPrJolmCeTNFAM) | 2:31 | 2026-05-28 |  |
+| [Alt For Norge](https://open.spotify.com/track/3E5IeN5MqUs16rjvMRlaT1) | [Drillos](https://open.spotify.com/artist/0gSgXDEsDJj4ZsMclAGjeh), [Jørn Lande](https://open.spotify.com/artist/3aOVLHmQbwbOq4nl4XcGSC) | [Alt For Norge](https://open.spotify.com/album/73ZZN6P6S9fPNUYVhaxeQQ) | 4:21 | 2026-07-06 |  |
 | [Alt Jeg Har](https://open.spotify.com/track/6TzBENrpEVrgoFWiQXp7mP) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8) | [Alt Jeg Har](https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa) | 2:12 | 2025-07-17 | 2026-04-24 |
 | [Ambassadør](https://open.spotify.com/track/4Vrbv4EQ5kAsupUZRHHQvQ) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg), [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl) | [Ambassadør](https://open.spotify.com/album/1DjkyWV85yWHHOhKYDtFou) | 2:49 | 2024-10-31 | 2026-05-29 |
 | [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 | 2024-06-27 | 2024-08-30 |

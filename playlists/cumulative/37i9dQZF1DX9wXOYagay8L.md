@@ -4,7 +4,7 @@
 
 > Proudly Southern African Afropop gems\. Cover: Vusi Nova
 
-763 songs - 2 day 6 hr 8 min
+764 songs - 2 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [BIZAN'UMAMA](https://open.spotify.com/track/40OrhVxoTGnPbo1avCDYTM) | [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [BIZAN'UMAMA](https://open.spotify.com/album/4zhPzcxKGHw0CLDmP28HRc) | 4:18 | 2023-10-12 | 2024-05-03 |
 | [Black President \(Brenda Fassie 60th Tribute\)](https://open.spotify.com/track/2HAquNlzSJBEQpz4ZhATii) | [The Soil](https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU) | [Black President \(Brenda Fassie 60th Tribute\)](https://open.spotify.com/album/285dGwNu1LHuKsggkEJ3Xo) | 4:10 | 2025-04-10 | 2025-10-10 |
 | [Black Sweater](https://open.spotify.com/track/3pdGzKXpQPLstXujPTZQg5) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Promises](https://open.spotify.com/album/3FUsw3tcGtqJboGJmyR92G) | 4:33 | 2025-09-12 |  |
-| [Break](https://open.spotify.com/track/1LtKgnc7y3jW4bkkYozDDc) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Break](https://open.spotify.com/album/701nJOG1dAwQ0VYSGk3zbt) | 2:10 | 2025-06-20 |  |
+| [Break](https://open.spotify.com/track/1LtKgnc7y3jW4bkkYozDDc) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Break](https://open.spotify.com/album/701nJOG1dAwQ0VYSGk3zbt) | 2:10 | 2025-06-20 | 2026-07-07 |
 | [Buya](https://open.spotify.com/track/6xhsflZ8sxlJVmquIIcMZp) | [Bongi Silinda](https://open.spotify.com/artist/1HS4J0XmZ1djkEOtCkhH6r), [Soul Kulture](https://open.spotify.com/artist/1LZkUMy70sBaxwNWLr22ah) | [Buya](https://open.spotify.com/album/2UpileuXTy8en41E8ZEpL6) | 4:05 | 2024-08-01 | 2024-08-16 |
 | [Buya](https://open.spotify.com/track/7EbI4Ctt4ZQ7R90mXf0Kcv) | [KhiweG](https://open.spotify.com/artist/1r2fqIvsisXOh3VkwYeZGz) | [Buya](https://open.spotify.com/album/6MIMxuFqi0vMLybGOs9Z29) | 4:33 | 2022-03-24 | 2022-06-17 |
 | [Buya Ekhaya](https://open.spotify.com/track/5sDnYnQBnLPPDJCJ52ZPY4) | [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Buya Ekhaya](https://open.spotify.com/album/3PPaPMwxGz7TECQkbvTzzM) | 4:40 | 2025-11-28 |  |
@@ -356,6 +356,7 @@
 | [letter to my father](https://open.spotify.com/track/7tCVDMEqgqSNPKhs8DTIER) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM) | [for the boys i like](https://open.spotify.com/album/03sJKeNC4zs4jRrPr8BYpu) | 3:39 | 2023-10-12 | 2023-11-25 |
 | [Lilizela](https://open.spotify.com/track/440sknvkeBMkyZ7MQItjOE) | [Nkabikazi](https://open.spotify.com/artist/5x6wAUUEo6st5u0ltTETEU), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Undodakazi](https://open.spotify.com/album/4OMt6VrvwT66koupm68Nz6) | 4:54 | 2025-10-10 |  |
 | [Lilizela](https://open.spotify.com/track/7II1jN6iXtWsSt1e27wLVB) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Lilizela](https://open.spotify.com/album/0ADNDen7YgetZ2TQCVFAZz) | 4:07 | 2021-12-28 | 2022-08-12 |
+| [Lilizela](https://open.spotify.com/track/0EHeLEHLDKzU9eiBd61esH) | [Sandy6eats](https://open.spotify.com/artist/3ARApb0rh3I8ySYAMzlrF1), [ManQue](https://open.spotify.com/artist/2zLJDKBzv56akarlJ7uxPZ), [Ntaxmu6iQue](https://open.spotify.com/artist/76jXO5dOMQL82c2sGxYOa7), [Noex](https://open.spotify.com/artist/1RWPqByB4FdlcKT9nZV8f3), [Buhle Ndalow](https://open.spotify.com/artist/6bC7qLrjHfTutuZu5QH52m) | [Lilizela](https://open.spotify.com/album/7fu3HcalZOuFuIsFTZ0NQA) | 7:26 | 2026-07-06 |  |
 | [Little Drummer Boy](https://open.spotify.com/track/7nwoJ5llZhWQJql6z7F1AH) | [Vusi Nova](https://open.spotify.com/artist/0EdZov8Gv5SHN4IVF3b4m8), [047](https://open.spotify.com/artist/6yse1bwFvfDg33dBcLk5x8), [Kwanda](https://open.spotify.com/artist/30hs2VdIfkqGk8JhyyFCfr) | [Nova Sounds Christmas Feels](https://open.spotify.com/album/1cRcApfHcUHWfnmxlq4wic) | 7:28 | 2023-12-14 | 2024-01-26 |
 | [Lo engizomthola manje](https://open.spotify.com/track/5Ud9AglmSQDILqTS0sDn3n) | [Intabayasedubai](https://open.spotify.com/artist/1W06EJ2okvibjqv4Ae2ZBK) | [Lo engizomthola manje](https://open.spotify.com/album/6QTfpbJVuRJBtPdxi38F9N) | 4:41 | 2026-06-11 |  |
 | [Loadshedding](https://open.spotify.com/track/60JKdpmIWs65lPxIKRlocx) | [Dr Malinga](https://open.spotify.com/artist/1PPLLXnpoIzsgpH1fu0Gu7), [LTD Muzika](https://open.spotify.com/artist/3mZLLkkGagGSWhEZCt7MbD), [Madlisa 808](https://open.spotify.com/artist/3PUGecyFzyrmx345GXYdUb) | [Loadshedding](https://open.spotify.com/album/1TaufpxojdcNP4BnqmNZQe) | 4:06 | 2023-03-02 | 2023-03-18 |

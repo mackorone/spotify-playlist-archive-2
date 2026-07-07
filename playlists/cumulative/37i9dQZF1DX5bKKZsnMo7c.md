@@ -2,9 +2,9 @@
 
 ### [Limelight](https://open.spotify.com/playlist/37i9dQZF1DX5bKKZsnMo7c)
 
-> Feeling dramatic? All eyes on you\. Cover: Baby J
+> Feeling dramatic? All eyes on you\. Cover: Mollie Elizabeth
 
-588 songs - 1 day 7 hr 58 min
+589 songs - 1 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Against the Kitchen Floor \- Live in Charlotte, NC](https://open.spotify.com/track/5iSHEe6K8pmrcWWy2kPvZE) | [Will Wood](https://open.spotify.com/artist/1VQ8riQ31zVHtlxiCC9EZE) | [IN CASE I DIE \(Live\)](https://open.spotify.com/album/7jGDcKK1aVh9vxDXV6RGmb) | 5:20 | 2023-01-13 | 2023-01-19 |
 | [Ain't No Crying](https://open.spotify.com/track/18wSH9W51fEBd9qrUAb9aW) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C) | [Songs of the SMP](https://open.spotify.com/album/6ks45W8ykLFRr1lgoUj9mW) | 2:36 | 2022-05-17 | 2022-12-10 |
 | [Alabama Stone](https://open.spotify.com/track/4wYtMm8dCeqbcOMVE2Z5hs) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [Alabama Stone](https://open.spotify.com/album/21EwKvVlMvjG5tsgJrzdvu) | 3:45 | 2024-12-06 | 2025-03-01 |
-| [ALICE](https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [ALICE](https://open.spotify.com/album/1JmyKpeyt4cHkYlfKBU6Dv) | 4:39 | 2026-02-27 |  |
+| [ALICE](https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [ALICE](https://open.spotify.com/album/1JmyKpeyt4cHkYlfKBU6Dv) | 4:39 | 2026-02-27 | 2026-07-07 |
 | [ALICE](https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [ALICE](https://open.spotify.com/album/0978t07FucRDrjdMNEdG0Z) | 2:33 | 2023-10-27 | 2024-08-10 |
 | [ALICE \- Red Queen Version](https://open.spotify.com/track/4yHwSwzHpsDSXf886P5Mlc) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh), [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [ALICE \(Red Queen Version\)](https://open.spotify.com/album/7tzDJQwW4WzJXSbSJpFqG2) | 2:28 | 2025-10-17 | 2026-05-16 |
 | [Alien Blues](https://open.spotify.com/track/11iIikXxC6NP0Ma8vMD27x) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Gawk](https://open.spotify.com/album/1vWOYk3hF5bgVUUUaPvYLh) | 2:35 | 2023-05-26 | 2024-06-29 |
@@ -498,6 +498,7 @@
 | [The Bird Song](https://open.spotify.com/track/5DEpOV9no5cf22c5Lj198g) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [The Bird Song](https://open.spotify.com/album/7oxKk85crBUxMYZM19LeRN) | 3:53 | 2024-09-06 | 2024-12-14 |
 | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/track/3IC7SjOoA1gt0xzUZBMww8) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [The Bird Song \(with Em Beihold\)](https://open.spotify.com/album/16aOYP4x2wHzjOZBUSvvg5) | 3:53 | 2024-12-13 | 2026-01-31 |
 | [The Challenge](https://open.spotify.com/track/2MfEPa673rIPzBUdwfqd0P) | [Jorge Rivera\-Herrans](https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I), [Anna Lea](https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w), [Cast of EPIC: The Musical](https://open.spotify.com/artist/1gV480zBnPy4ktKHfHKxZ5) | [EPIC: The Ithaca Saga \(Official Concept Album\)](https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU) | 3:21 | 2024-12-27 | 2025-07-26 |
+| [THE CINEMA](https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [PAREIDOLIA](https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5) | 3:22 | 2026-07-06 |  |
 | [The DJ Is Crying For Help](https://open.spotify.com/track/2fihoO76h66Hio6noF4tQD) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [The DJ Is Crying For Help](https://open.spotify.com/album/09XyW9pKOCq5Cqq7IITKDB) | 3:40 | 2022-11-18 | 2023-01-28 |
 | [The Doll People](https://open.spotify.com/track/0UueyZtX0ogyXQWhg6Xkpz) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [I Can Be Your Mother](https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C) | 3:26 | 2025-06-13 | 2025-12-06 |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-28 | 2023-05-23 |

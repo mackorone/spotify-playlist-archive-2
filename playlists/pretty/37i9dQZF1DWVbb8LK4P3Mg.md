@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 
 > Enjoy the wonderful holiday season with K\-Pop! \(Cover: DAY6\(데이식스\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,749 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,730 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbb8LK4P3Mg.md) - [plain]
 | 95 | [First Snow](https://open.spotify.com/track/6pSkZpm2o1n7UEKivekdkn) | [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [First Snow](https://open.spotify.com/album/2JuP76Opbf43B50FPS6qbb) | 3:07 |
 | 96 | [Jazz Bar \(Carol ver.\)](https://open.spotify.com/track/4I7hBCBjcnH5YCN6AtyFHP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:52 |
 | 97 | [D\-day](https://open.spotify.com/track/5u7y6dLbCVbCGZCwEz8RBE) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [My Favorite Winter](https://open.spotify.com/album/6zF9RvcFJOgl4GV4ySUmUp) | 3:57 |
-| 98 | [The Christmas Number 12](https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [The Christmas Number 12](https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ) | 2:39 |
+| 98 | [The Christmas Number 12](https://open.spotify.com/track/1VgEdXPGiCizL6DfIUDGok) | [aiiyh](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb) | [The Christmas Number 12](https://open.spotify.com/album/5jVCZws60QZ11TP2nWjxOZ) | 2:39 |
 | 99 | [Merry Merry Christmas](https://open.spotify.com/track/4PrwSC5G3C9xZsmDBHV5FE) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS), [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd), [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ), [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT) | [C9 Single Album '2022 C9 Christmas'](https://open.spotify.com/album/01q9YVreuTo2O0KrCgG9hr) | 3:27 |
 | 100 | [예쁨 가득한 Eve \(prod\. Minit\)](https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [예쁨 가득한 Eve](https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo) | 2:50 |
 

@@ -1,12 +1,12 @@
 {
   "description": "This is Lu\u00edsa Sonza. The essential tracks, all in one playlist.",
-  "num_followers": 264705,
+  "num_followers": 264697,
   "original_name": "This Is Lu\u00edsa Sonza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAADOFhNFd3W01Z/R54iy0JP5",
+  "snapshot_id": "akmegAAAAACFiaTlOTi27mbCHXjgUK9F",
   "tracks": [
     {
       "added_at": null,
@@ -392,9 +392,25 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 134710,
-      "name": "Santa Maculada",
-      "url": "https://open.spotify.com/track/67Nv43gpsFhtu0zHeWros3"
+      "duration_ms": 125865,
+      "name": "Diferentemente",
+      "url": "https://open.spotify.com/track/2IShtzRVodHSdTKivgGhCY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOCE 22",
+        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
+      },
+      "artists": [
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 155384,
+      "name": "MULHER DO ANO XD",
+      "url": "https://open.spotify.com/track/0s2SzCYqITp4lKdbxPQoYy"
     },
     {
       "added_at": null,
@@ -415,22 +431,6 @@
       "duration_ms": 135111,
       "name": "ATEN\u00c7\u00c3O",
       "url": "https://open.spotify.com/track/4mBto7hyeS6yHhx8lIkn4l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DOCE 22",
-        "url": "https://open.spotify.com/album/1bR2SlwIKwvCZBFhDfYr6x"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 155384,
-      "name": "MULHER DO ANO XD",
-      "url": "https://open.spotify.com/track/0s2SzCYqITp4lKdbxPQoYy"
     },
     {
       "added_at": null,
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 125865,
-      "name": "Diferentemente",
-      "url": "https://open.spotify.com/track/2IShtzRVodHSdTKivgGhCY"
+      "duration_ms": 134710,
+      "name": "Santa Maculada",
+      "url": "https://open.spotify.com/track/67Nv43gpsFhtu0zHeWros3"
     },
     {
       "added_at": null,

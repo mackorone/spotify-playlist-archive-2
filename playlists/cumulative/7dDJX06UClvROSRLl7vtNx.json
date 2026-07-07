@@ -6805,6 +6805,24 @@
     },
     {
       "album": {
+        "name": "D\u00e9j\u00e0 Vu",
+        "url": "https://open.spotify.com/album/3994hu8R6G6aZcNFeAgRny"
+      },
+      "artists": [
+        {
+          "name": "Stirmouth",
+          "url": "https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137583,
+      "name": "D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/29mFDGIEr6HmUyewk263Rr"
+    },
+    {
+      "album": {
         "name": "Easier",
         "url": "https://open.spotify.com/album/0TH7ZDydq8Uzylk8yC1SCF"
       },

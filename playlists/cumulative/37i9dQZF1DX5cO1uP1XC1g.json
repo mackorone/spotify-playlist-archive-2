@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The Hottest Arabic Music.\nCover: Sherine",
+  "description": "The Hottest Arabic Music.\nCover: Wael Kfoury ",
   "name": "Yalla ",
   "tracks": [
     {
@@ -986,6 +986,24 @@
       "duration_ms": 171847,
       "name": "Bahr Shar",
       "url": "https://open.spotify.com/track/1AZjgKOrI1MVwoDKYlZIdF"
+    },
+    {
+      "album": {
+        "name": "Baklem Nafsi (From \"Ezma\")",
+        "url": "https://open.spotify.com/album/1d5zG7QYqdWp262xOTdTJr"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211245,
+      "name": "Baklem Nafsi (From \"Ezma\")",
+      "url": "https://open.spotify.com/track/3sjUMYe10I7WOSNcv0llZD"
     },
     {
       "album": {
@@ -3993,6 +4011,24 @@
     },
     {
       "album": {
+        "name": "THE HYPE ALBUM",
+        "url": "https://open.spotify.com/album/6X7BmLUyoJEESMp85tYWtJ"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138585,
+      "name": "Kooty",
+      "url": "https://open.spotify.com/track/66FMn9H0USdWuf71ct1N2b"
+    },
+    {
+      "album": {
         "name": "Koun",
         "url": "https://open.spotify.com/album/3VHCM2iQcOgqHgHcHJmwqv"
       },
@@ -5580,6 +5616,24 @@
       "duration_ms": 210119,
       "name": "Sans Toi",
       "url": "https://open.spotify.com/track/5XCmPcevC1eHbM8zfBYKRq"
+    },
+    {
+      "album": {
+        "name": "Sare2li Omri",
+        "url": "https://open.spotify.com/album/2r8Gs7tg59Ax6km6XdlPwE"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213553,
+      "name": "Sare2li Omri",
+      "url": "https://open.spotify.com/track/5y9hhjGuisR7hGeCV66hIW"
     },
     {
       "album": {

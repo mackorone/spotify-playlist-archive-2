@@ -6,30 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akUOKAAAAACsp4CvHuUpHYkPTjPEGC7c",
+  "snapshot_id": "akv3OwAAAADz4ZiTmPvepEa+60f/b47D",
   "tracks": [
     {
-      "added_at": "2026-07-01 12:55:04",
-      "album": {
-        "name": "REVAMPED",
-        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        },
-        {
-          "name": "Slash",
-          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
-        }
-      ],
-      "duration_ms": 214760,
-      "name": "Sorry Not Sorry (with Slash) - Rock Version",
-      "url": "https://open.spotify.com/track/3L3IJAp60VshAFFDjdJ2FE"
-    },
-    {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "Physical (feat. Troye Sivan)",
         "url": "https://open.spotify.com/album/6I0FquHLCtYJqAgQMmtyr7"
@@ -49,7 +29,7 @@
       "url": "https://open.spotify.com/track/1SdQjKRW52cHg2SEesQLvH"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
@@ -65,7 +45,7 @@
       "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "My System",
         "url": "https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0"
@@ -81,7 +61,7 @@
       "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "JALLA",
         "url": "https://open.spotify.com/album/5ABeVo5OjIsxB83NedYhLx"
@@ -97,23 +77,27 @@
       "url": "https://open.spotify.com/track/1h2xmg6pH7r5pr2prKmWGc"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
-        "name": "Detour",
-        "url": "https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc"
+        "name": "REVAMPED",
+        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
       },
       "artists": [
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
         }
       ],
-      "duration_ms": 171216,
-      "name": "I Like Ur Look",
-      "url": "https://open.spotify.com/track/3lYR2Jima3NVUu3wAtczj4"
+      "duration_ms": 214760,
+      "name": "Sorry Not Sorry (with Slash) - Rock Version",
+      "url": "https://open.spotify.com/track/3L3IJAp60VshAFFDjdJ2FE"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
@@ -129,71 +113,23 @@
       "url": "https://open.spotify.com/track/25nbeJzxF3dwvtTq57QKZi"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
-        "name": "The Maine",
-        "url": "https://open.spotify.com/album/07GEuImz0GyNXH61jKqZi2"
+        "name": "Detour",
+        "url": "https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc"
       },
       "artists": [
         {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 224710,
-      "name": "how to exit a room",
-      "url": "https://open.spotify.com/track/7e61iFzE2MvK1gJ276XXmX"
+      "duration_ms": 171216,
+      "name": "I Like Ur Look",
+      "url": "https://open.spotify.com/track/3lYR2Jima3NVUu3wAtczj4"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
-      "album": {
-        "name": "I Knew It, I Knew You (From \"Toy Story 5\")",
-        "url": "https://open.spotify.com/album/3ZLIShtR6Fjs4nTWFpBUB6"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178186,
-      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
-      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa"
-    },
-    {
-      "added_at": "2026-07-01 12:55:04",
-      "album": {
-        "name": "REVAMPED",
-        "url": "https://open.spotify.com/album/14d0QzazggZIpjO2dtkRWo"
-      },
-      "artists": [
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 212289,
-      "name": "Cool for the Summer - Rock Version",
-      "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M"
-    },
-    {
-      "added_at": "2026-07-01 12:55:04",
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "my way",
-      "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
-    },
-    {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "Circus (Deluxe Version)",
         "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
@@ -209,7 +145,7 @@
       "url": "https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "PINKY UP",
         "url": "https://open.spotify.com/album/5tLy0MEMDVqiHKso6B4jnz"
@@ -225,39 +161,23 @@
       "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
-        "name": "The Maine",
-        "url": "https://open.spotify.com/album/07GEuImz0GyNXH61jKqZi2"
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
       },
       "artists": [
         {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 190392,
-      "name": "blame",
-      "url": "https://open.spotify.com/track/5usGOGw57VNPPsr6qyFFxn"
+      "duration_ms": 180720,
+      "name": "my way",
+      "url": "https://open.spotify.com/track/4Ilw2lD6z4WBqh65vUUZUf"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
-      "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "...Ready For It?",
-      "url": "https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5"
-    },
-    {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "The Fame",
         "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
@@ -273,7 +193,23 @@
       "url": "https://open.spotify.com/track/0TcJ7QWpggdSg8t0fHThHm"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
+      "album": {
+        "name": "The Maine",
+        "url": "https://open.spotify.com/album/07GEuImz0GyNXH61jKqZi2"
+      },
+      "artists": [
+        {
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "blame",
+      "url": "https://open.spotify.com/track/5usGOGw57VNPPsr6qyFFxn"
+    },
+    {
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "Confident (Rock Version)",
         "url": "https://open.spotify.com/album/3kGLuBEi0kaIgJI9AtmiP1"
@@ -289,79 +225,23 @@
       "url": "https://open.spotify.com/track/1bQl53TZeNOWKuRdihOHx0"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
-        "name": "POST HUMAN: NeX GEn",
-        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
       "artists": [
         {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        },
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 251939,
-      "name": "liMOusIne (feat. AURORA)",
-      "url": "https://open.spotify.com/track/6tVahG14lCjexVQnYWKgwF"
+      "duration_ms": 187436,
+      "name": "Sweet but Psycho",
+      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
-      "album": {
-        "name": "Opalite (BUNT. Remix)",
-        "url": "https://open.spotify.com/album/5oO9uwBHZAawqYnmPpVUUi"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 212766,
-      "name": "Opalite - BUNT. Remix",
-      "url": "https://open.spotify.com/track/0E3Vtmgzk067KASoo0HwzV"
-    },
-    {
-      "added_at": "2026-07-01 12:55:04",
-      "album": {
-        "name": "Short n' Sweet (Deluxe)",
-        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Good Graces",
-      "url": "https://open.spotify.com/track/5JiTjhx7lhqYgsIGpo0VFy"
-    },
-    {
-      "added_at": "2026-07-01 12:55:04",
-      "album": {
-        "name": "Feed The Beast",
-        "url": "https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 185160,
-      "name": "Minute",
-      "url": "https://open.spotify.com/track/5T9oCNxslGlodgZd282juI"
-    },
-    {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
@@ -377,7 +257,7 @@
       "url": "https://open.spotify.com/track/5uhaFPXTIG06S9Hb2c5tsT"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
@@ -393,7 +273,7 @@
       "url": "https://open.spotify.com/track/1GwMQaZz6Au3QLDbjbMdme"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
@@ -409,7 +289,7 @@
       "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
@@ -425,7 +305,7 @@
       "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "BITCH",
         "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
@@ -445,7 +325,7 @@
       "url": "https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "reputation",
         "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
@@ -469,7 +349,7 @@
       "url": "https://open.spotify.com/track/2x0WlnmfG39ZuDmstl9xfX"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "Something Beautiful",
         "url": "https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ"
@@ -489,7 +369,7 @@
       "url": "https://open.spotify.com/track/22WFoPT9VIJlZ0VcJVkCpm"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6NTARpim6395oKlxlLDW7c"
@@ -505,7 +385,7 @@
       "url": "https://open.spotify.com/track/68o1mDkJzpvTshz9xrfduC"
     },
     {
-      "added_at": "2026-07-01 12:55:04",
+      "added_at": "2026-07-06 18:43:07",
       "album": {
         "name": "55",
         "url": "https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx"
@@ -523,6 +403,122 @@
       "duration_ms": 224013,
       "name": "I Wish (My Taylor Swift)",
       "url": "https://open.spotify.com/track/6phyrxHcUpQ1BRZ8yXCUWB"
+    },
+    {
+      "added_at": "2026-07-06 18:43:07",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "...Ready For It?",
+      "url": "https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5"
+    },
+    {
+      "added_at": "2026-07-06 18:43:07",
+      "album": {
+        "name": "THINK LATER",
+        "url": "https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 143940,
+      "name": "run for the hills",
+      "url": "https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu"
+    },
+    {
+      "added_at": "2026-07-06 18:43:07",
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 193262,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/7lhAowB1rRlp1UfVkHqpD2"
+    },
+    {
+      "added_at": "2026-07-06 18:43:07",
+      "album": {
+        "name": "Lost The Breakup (Acoustic)",
+        "url": "https://open.spotify.com/album/5rXdZzSIdcf6v7msEB0Cdj"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 206994,
+      "name": "Lost The Breakup - Acoustic",
+      "url": "https://open.spotify.com/track/09ZatOIC1CjEuvWYy5lSl3"
+    },
+    {
+      "added_at": "2026-07-06 18:43:07",
+      "album": {
+        "name": "Midnights (3am Edition)",
+        "url": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 202395,
+      "name": "Lavender Haze",
+      "url": "https://open.spotify.com/track/4g2c7NoTWAOSYDy44l9nub"
+    },
+    {
+      "added_at": "2026-07-06 18:43:07",
+      "album": {
+        "name": "1432",
+        "url": "https://open.spotify.com/album/5Xd0KCzb0EJtPbUEiyxYVH"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 177637,
+      "name": "CRUSH",
+      "url": "https://open.spotify.com/track/3ldc3Y0Oz8FVaXIutOSCaD"
+    },
+    {
+      "added_at": "2026-07-06 18:43:07",
+      "album": {
+        "name": "My Love Is Cool",
+        "url": "https://open.spotify.com/album/6bRsXeFIUgPfYLZNprki2h"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 224715,
+      "name": "Bros",
+      "url": "https://open.spotify.com/track/6NunWZuZ6g9KipJ9Q5Vck7"
     }
   ],
   "unique_name": "On Repeat",

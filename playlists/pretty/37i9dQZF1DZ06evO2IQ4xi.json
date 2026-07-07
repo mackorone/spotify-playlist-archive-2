@@ -1,12 +1,12 @@
 {
   "description": "This is Doechii. The essential tracks, all in one playlist.",
-  "num_followers": 106891,
+  "num_followers": 106899,
   "original_name": "This Is Doechii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAADkLNTwoygZsOzXMC0y851/",
+  "snapshot_id": "akmegAAAAABXMyv5VHKpCgxrgAS9ZxVu",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 159586,
       "name": "DENIAL IS A RIVER",
       "url": "https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
       "added_at": null,
@@ -159,6 +159,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 126832,
+      "name": "NISSAN ALTIMA",
+      "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Timeless (Remix)",
         "url": "https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 228000,
       "name": "Timeless (feat. Playboi Carti & Doechii) - Remix",
       "url": "https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 126832,
-      "name": "NISSAN ALTIMA",
-      "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
     },
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nosebleeds",
-        "url": "https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 135063,
-      "name": "Nosebleeds",
-      "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 134097,
       "name": "CATFISH",
       "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/481b8swYvZsQbTNUfxpkiT"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 135063,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/3QfxeNMKiOMFxHVLlR1L1c"
     },
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spookie Coochie",
-        "url": "https://open.spotify.com/album/46RN9zImhSX796Prj1VDkR"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 168620,
-      "name": "Spookie Coochie",
-      "url": "https://open.spotify.com/track/3QKKtAgmUkgt4uKpX5Hmlf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alligator Bites Never Heal",
         "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 174288,
       "name": "SLIDE",
       "url": "https://open.spotify.com/track/0Jij0ywlT1cCn8MqmSmj4E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spookie Coochie",
+        "url": "https://open.spotify.com/album/46RN9zImhSX796Prj1VDkR"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 168620,
+      "name": "Spookie Coochie",
+      "url": "https://open.spotify.com/track/3QKKtAgmUkgt4uKpX5Hmlf"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 121858,
+      "name": "BOILED PEANUTS",
+      "url": "https://open.spotify.com/track/3Ehr6qjkJQTSL1LjsWELQb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/3jxt1S4JtW4uFalBwlfehS"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 198461,
       "name": "I'M HIS, HE'S MINE (feat. Doechii)",
       "url": "https://open.spotify.com/track/7EIPVo13rl0uwKbjubMnc7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 121858,
-      "name": "BOILED PEANUTS",
-      "url": "https://open.spotify.com/track/3Ehr6qjkJQTSL1LjsWELQb"
     },
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alligator Bites Never Heal",
+        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 139259,
+      "name": "DEATH ROLL",
+      "url": "https://open.spotify.com/track/4p3sIGdKAgRqrTvu3IpGnl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "she / her / black bitch",
         "url": "https://open.spotify.com/album/0MndM4dEwGOjtuKE1aP2Tb"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 180076,
       "name": "Swamp Bitches (with Rico Nasty)",
       "url": "https://open.spotify.com/track/2aOG6jVZnTqZwEhjGTcFMM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alligator Bites Never Heal",
-        "url": "https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 139259,
-      "name": "DEATH ROLL",
-      "url": "https://open.spotify.com/track/4p3sIGdKAgRqrTvu3IpGnl"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coven Music Session, Vol. 1",
-        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 58801,
-      "name": "60 Seconds",
-      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Xtasy (Remix) [feat. Doechii]",
         "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coven Music Session, Vol. 1",
+        "url": "https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 58801,
+      "name": "60 Seconds",
+      "url": "https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oh The Places You\u2019ll Go",
         "url": "https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu"
       },
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Universal Swamp Anthem",
-        "url": "https://open.spotify.com/album/4JHY4CcJw6HAzndCzZMaL1"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 151826,
-      "name": "Universal Swamp Anthem",
-      "url": "https://open.spotify.com/track/3vEzKZChwKqtMtnw0akleb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Girls",
         "url": "https://open.spotify.com/album/1Y8LXsmhhG4XtEo150UCo9"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 317257,
       "name": "Girls",
       "url": "https://open.spotify.com/track/7zV60o01JXW3Hff1xgTHOX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universal Swamp Anthem",
+        "url": "https://open.spotify.com/album/4JHY4CcJw6HAzndCzZMaL1"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 151826,
+      "name": "Universal Swamp Anthem",
+      "url": "https://open.spotify.com/track/3vEzKZChwKqtMtnw0akleb"
     },
     {
       "added_at": null,

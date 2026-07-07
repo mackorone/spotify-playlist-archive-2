@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAAB0Jq25BrFSA6iVsMnm4/ii",
+  "snapshot_id": "akmegAAAAACu/obx1ggoIIzvgeEBHkhA",
   "tracks": [
     {
       "added_at": null,
@@ -367,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Los Tengo Viendo",
+        "url": "https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 234410,
+      "name": "Los Tengo Viendo",
+      "url": "https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Patrullas",
         "url": "https://open.spotify.com/album/2AOTzSrOFDReMtRo9SPLX1"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 177257,
       "name": "Las Patrullas",
       "url": "https://open.spotify.com/track/3RgejDei48mlcox97DJ6fb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Tengo Viendo",
-        "url": "https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 234410,
-      "name": "Los Tengo Viendo",
-      "url": "https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2"
     },
     {
       "added_at": null,
@@ -611,6 +611,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Los Angeles Hay Que Tenerle Cuidado",
+        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "Grupo Los Del Area",
+          "url": "https://open.spotify.com/artist/2cuvlWUiSa8eLLTbnRR0cf"
+        }
+      ],
+      "duration_ms": 206856,
+      "name": "Me Dicen E",
+      "url": "https://open.spotify.com/track/4VSFniHiB9DICyT3JqrQNw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Underground 3",
         "url": "https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11"
       },
@@ -623,6 +643,30 @@
       "duration_ms": 227866,
       "name": "Gucci",
       "url": "https://open.spotify.com/track/7kSRQrZzc36I1XYFFMiDlW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Johnny Boy (feat. Los Nuevos Ilegales & La Decima Banda)",
+        "url": "https://open.spotify.com/album/7MgODVOyJPFXuThp6bivKL"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "La Decima Banda",
+          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
+        },
+        {
+          "name": "Los Nuevos Ilegales",
+          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
+        }
+      ],
+      "duration_ms": 157367,
+      "name": "Johnny Boy (feat. Los Nuevos Ilegales & La Decima Banda)",
+      "url": "https://open.spotify.com/track/4APetySIwtHz0sUdBcwsNw"
     },
     {
       "added_at": null,
@@ -652,37 +696,29 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         },
         {
-          "name": "Grupo Los Del Area",
-          "url": "https://open.spotify.com/artist/2cuvlWUiSa8eLLTbnRR0cf"
+          "name": "JR Barraza",
+          "url": "https://open.spotify.com/artist/0iWFmZPXZ81BaRmXXoTYRw"
         }
       ],
-      "duration_ms": 206856,
-      "name": "Me Dicen E",
-      "url": "https://open.spotify.com/track/4VSFniHiB9DICyT3JqrQNw"
+      "duration_ms": 238776,
+      "name": "Simplemente El P",
+      "url": "https://open.spotify.com/track/79E2tjgMIO5PvlbvE8E5DG"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Johnny Boy (feat. Los Nuevos Ilegales & La Decima Banda)",
-        "url": "https://open.spotify.com/album/7MgODVOyJPFXuThp6bivKL"
+        "name": "Corridos Underground 3",
+        "url": "https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11"
       },
       "artists": [
         {
           "name": "Los Desvelados",
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        },
-        {
-          "name": "La Decima Banda",
-          "url": "https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U"
-        },
-        {
-          "name": "Los Nuevos Ilegales",
-          "url": "https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac"
         }
       ],
-      "duration_ms": 157367,
-      "name": "Johnny Boy (feat. Los Nuevos Ilegales & La Decima Banda)",
-      "url": "https://open.spotify.com/track/4APetySIwtHz0sUdBcwsNw"
+      "duration_ms": 145825,
+      "name": "Situaciones de la Calle",
+      "url": "https://open.spotify.com/track/7ukzqJfrOL3Nj3VGjIHzNx"
     },
     {
       "added_at": null,
@@ -707,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Underground 3",
-        "url": "https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11"
+        "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
+        "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
       },
       "artists": [
         {
@@ -716,9 +752,9 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 145825,
-      "name": "Situaciones de la Calle",
-      "url": "https://open.spotify.com/track/7ukzqJfrOL3Nj3VGjIHzNx"
+      "duration_ms": 169746,
+      "name": "El Burro (En Vivo)",
+      "url": "https://open.spotify.com/track/4PeRWR5tReFefm2qCyNpX9"
     },
     {
       "added_at": null,
@@ -743,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
-        "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "El Burro (En Vivo)",
-      "url": "https://open.spotify.com/track/4PeRWR5tReFefm2qCyNpX9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mafia De Corridos",
         "url": "https://open.spotify.com/album/1PJ8GIADR9QBlM1kXRzmSp"
       },
@@ -771,78 +791,6 @@
       "duration_ms": 210841,
       "name": "El Famoso Chino Antrax",
       "url": "https://open.spotify.com/track/5XZQUalNyeSKUWYQynX1Gq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Uno Al 7 (En Vivo)",
-        "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "El Uno Al 7 - En Vivo",
-      "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Los Angeles Hay Que Tenerle Cuidado",
-        "url": "https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        },
-        {
-          "name": "JR Barraza",
-          "url": "https://open.spotify.com/artist/0iWFmZPXZ81BaRmXXoTYRw"
-        }
-      ],
-      "duration_ms": 238776,
-      "name": "Simplemente El P",
-      "url": "https://open.spotify.com/track/79E2tjgMIO5PvlbvE8E5DG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
-        "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 186456,
-      "name": "En Uno al 7 (En Vivo)",
-      "url": "https://open.spotify.com/track/0MDB6Pst3BtDbp0rk7uiWs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy El Ace Para Ganar",
-        "url": "https://open.spotify.com/album/1BIbkKD9bKqICzdneFagLD"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        }
-      ],
-      "duration_ms": 257124,
-      "name": "Soy El Ace Para Ganar (Live)",
-      "url": "https://open.spotify.com/track/3SF3muQ7uwi4cFrFjycJ4D"
     },
     {
       "added_at": null,
@@ -867,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Underground 3",
-        "url": "https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11"
+        "name": "Corridos Underground Desde Culiacan Sin (En Vivo)",
+        "url": "https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp"
       },
       "artists": [
         {
@@ -876,9 +824,45 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 157512,
-      "name": "Crit\u00edquenme",
-      "url": "https://open.spotify.com/track/5y35zXJMQ53ebkJGm8ZlSJ"
+      "duration_ms": 186456,
+      "name": "En Uno al 7 (En Vivo)",
+      "url": "https://open.spotify.com/track/0MDB6Pst3BtDbp0rk7uiWs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Uno Al 7 (En Vivo)",
+        "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "El Uno Al 7 - En Vivo",
+      "url": "https://open.spotify.com/track/6xTQCejd4DEUcJyEHl3Ahj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soy El Ace Para Ganar",
+        "url": "https://open.spotify.com/album/1BIbkKD9bKqICzdneFagLD"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 257124,
+      "name": "Soy El Ace Para Ganar (Live)",
+      "url": "https://open.spotify.com/track/3SF3muQ7uwi4cFrFjycJ4D"
     },
     {
       "added_at": null,
@@ -899,6 +883,22 @@
       "duration_ms": 216830,
       "name": "Uno Nueve",
       "url": "https://open.spotify.com/track/6iAlYAuGyh73zwIj35gula"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Underground 3",
+        "url": "https://open.spotify.com/album/6JB8Cl3UTvFUF5aM8Xrg11"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        }
+      ],
+      "duration_ms": 157512,
+      "name": "Crit\u00edquenme",
+      "url": "https://open.spotify.com/track/5y35zXJMQ53ebkJGm8ZlSJ"
     }
   ],
   "unique_name": "This Is Los Desvelados",

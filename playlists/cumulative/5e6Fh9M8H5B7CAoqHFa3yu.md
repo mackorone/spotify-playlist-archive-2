@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,358 songs - 5 day 19 hr 1 min
+2,359 songs - 5 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2262,6 +2262,7 @@
 | [Wisdom Dub](https://open.spotify.com/track/4eIUYoh5YIlFDu3Io02cdi) | [Foshan Roots](https://open.spotify.com/artist/0Erm3ZsKDZVUF4NdUMfYtj) | [The Wing Chun Album](https://open.spotify.com/album/4Ev2WLIu3iZJp3rWGYVh5m) | 3:11 | 2024-03-25 |  |
 | [Wise Dub](https://open.spotify.com/track/0TvfPQE7DYshEdPiD6XioH) | [Sir Racha](https://open.spotify.com/artist/5fIYHmDR0buHQzceD0zQa8) | [Gimme the Weed](https://open.spotify.com/album/6lruPpSjkIk1l4EFg4PT61) | 3:19 | 2024-05-01 |  |
 | [Wise Riddim](https://open.spotify.com/track/57sZY9gSNYCkBFTmNbjxbJ) | [Sir Racha](https://open.spotify.com/artist/5fIYHmDR0buHQzceD0zQa8) | [Gimme the Weed](https://open.spotify.com/album/6lruPpSjkIk1l4EFg4PT61) | 3:10 | 2024-05-01 |  |
+| [Wish You Were Here](https://open.spotify.com/track/6TOsfnShKwt4x46FQmEMWF) | [Maknizer](https://open.spotify.com/artist/6wOaDcWGTfzG0t6ALk7CVt) | [Blacknote](https://open.spotify.com/album/0jaK0ZvOrm2K5q0bhINIyl) | 4:08 | 2026-07-06 |  |
 | [Wistful Memories](https://open.spotify.com/track/5DszXVpnelS3wLiwNp67vi) | [Broken Holiday](https://open.spotify.com/artist/0O76plZlrqmubSLOZHDOmI), [GaetDown](https://open.spotify.com/artist/0DQLwNtbo0nXQjg80Ca2Pm), [The Retune Project](https://open.spotify.com/artist/5KloCT8DPcEyXjwItppFQr) | [Wistful Memories](https://open.spotify.com/album/1HkTINroXN5CLbdOyWSNxl) | 2:12 | 2025-05-12 |  |
 | [Witches' Coven](https://open.spotify.com/track/3DqADy3xSf6qtB8rZVmfkl) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Fright Nights EP](https://open.spotify.com/album/20NWeeg2obUmnV35SaXTkz) | 2:55 | 2026-02-05 |  |
 | [Without a Reason](https://open.spotify.com/track/2o5gul0W5f9SYu6dCcNZK5) | [Beastboy](https://open.spotify.com/artist/1G5jYhRa0DC7ZvRFfn6bNY) | [Without a Reason](https://open.spotify.com/album/6mU9ssYhm7uiNSKd3nCH50) | 2:22 | 2025-09-30 |  |

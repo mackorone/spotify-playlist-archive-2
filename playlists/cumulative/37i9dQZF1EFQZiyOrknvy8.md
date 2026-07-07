@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-189 songs - 9 hr 34 min
+193 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Ciao Bella \- Instrumental](https://open.spotify.com/track/1eXLlliAXuNAbZ3JwzR6cv) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9) | [Rahat](https://open.spotify.com/album/3mM3HpK7WiItHlCk9uRnII) | 3:06 | 2024-01-29 |  |
 | [COLORS](https://open.spotify.com/track/6k0FNeHutAV9Q2v83QNj6g) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Labyrinth](https://open.spotify.com/album/2p74LszcEO3DrJl7WhTmUm) | 3:10 | 2024-01-29 |  |
 | [Come Back To Me](https://open.spotify.com/track/6ZYmNdZdNoOKuFt8jrzwuh) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Ride](https://open.spotify.com/album/7dPtQ96HtsmPSq8oWsmkJv) | 3:06 | 2024-01-29 |  |
+| [Company](https://open.spotify.com/track/2xytoZCAVsVvVKjfnZiaKS) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Company](https://open.spotify.com/album/5YqyGd8Ud4O3onn9k32OYI) | 2:16 | 2026-07-06 |  |
 | [dear L](https://open.spotify.com/track/0jjYq6uxZLCrQzo89Ym0Ea) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:19 | 2024-01-29 |  |
 | [Dein Shirt](https://open.spotify.com/track/0JGWoliqXaxHzPdbYocc7V) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Dein Shirt](https://open.spotify.com/album/12LQ0U03tUdlIJtUzdcSsE) | 2:45 | 2024-01-29 |  |
 | [Deine Nummer](https://open.spotify.com/track/26TNQnJywu36ynLrOtkgFo) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Treppenhaus](https://open.spotify.com/album/1L2yFZquYx9fjAPYWGWwZQ) | 3:12 | 2024-01-29 |  |
@@ -82,6 +83,7 @@
 | [Give Me Your Love](https://open.spotify.com/track/205RswZPFn2MlNlYckzz5I) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Give Me Your Love](https://open.spotify.com/album/1Z9ifQTeBQYgLadR5f1Llw) | 3:21 | 2024-04-26 |  |
 | [Give Me Your Love](https://open.spotify.com/track/7mRXzK30h0UIuTdYhArwvv) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Dominic Neill](https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi) | [Give Me Your Love](https://open.spotify.com/album/0DYk6a0d96DBvuZARXjoSg) | 3:21 | 2024-01-29 | 2024-04-27 |
 | [Going On 13](https://open.spotify.com/track/0BWsycIKi4sIi7bPeuHTgq) | [Elaiza](https://open.spotify.com/artist/3p45HHDBKyxCDJeOnOWuSo) | [Restless \(Deluxe\)](https://open.spotify.com/album/1Nr0EKbE71nEAcbXN5jqi2) | 3:15 | 2025-01-09 | 2025-04-12 |
+| [Goodbye](https://open.spotify.com/track/57uVeCwm1sjRnS06Wx02fV) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Goodbye](https://open.spotify.com/album/74w4R1v3OWfHB6AWlcuQJe) | 2:18 | 2026-07-06 |  |
 | [Gut soweit](https://open.spotify.com/track/6gS1Q6jG6BQ5aNvseKZjic) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Alle guten Dinge](https://open.spotify.com/album/7bcyUmBwgTk8ztvSv5oXnK) | 3:21 | 2024-01-29 |  |
 | [Hab ich dich nicht schonmal geseh'n \(Boah Ey\)](https://open.spotify.com/track/6QkjnlPK39IFDmq49J3mIz) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:47 | 2024-01-29 |  |
 | [Hafen](https://open.spotify.com/track/6XDBvvsqjSjVZqckA9IbrF) | [Jonas Monar](https://open.spotify.com/artist/15DtxS7TcOYPplKUl5re5C) | [Hafen](https://open.spotify.com/album/6UdA5hoe93QV5HJiz7g1Zv) | 2:56 | 2024-12-21 |  |
@@ -108,6 +110,7 @@
 | [Intro](https://open.spotify.com/track/40TYOJ1H4EUZlR3uBlkP35) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Camouflage](https://open.spotify.com/album/26IGZ8G6wRFctHC1h1u6hn) | 2:12 | 2025-08-23 |  |
 | [Intro](https://open.spotify.com/track/6hldgiGWnYgDHBc1HDPJQ2) | [Nazar](https://open.spotify.com/artist/1hMzMy5THp7jWnMRC0rU36) | [Camouflage](https://open.spotify.com/album/1vhbrbKabLC7JggnGXxM5K) | 2:12 | 2024-01-29 | 2025-08-24 |
 | [Irgendwann](https://open.spotify.com/track/3UK9tCRXD4icuyiegXTy5A) | [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Der Sommer ist vorbei](https://open.spotify.com/album/5pKFqWVE4YFUINqUeRPypU) | 3:11 | 2024-01-29 |  |
+| [Island](https://open.spotify.com/track/5VU3ScIDAKRmdnuWPNTxeW) | [RANE](https://open.spotify.com/artist/4XXpC48bL6E032lJw4aSFz) | [Island](https://open.spotify.com/album/4fl7FMAj60Hlj1pfWauR3R) | 2:38 | 2026-07-06 |  |
 | [Jedes Mal](https://open.spotify.com/track/1RGO7qy0nZgDy5ylWfqoql) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80), [Mozzik](https://open.spotify.com/artist/1pkDzgHvVqC17qYGKfLPpb) | [No Rich Parents](https://open.spotify.com/album/6JQc9QbzSBNGbI2jykffIx) | 2:36 | 2024-01-29 |  |
 | [Kampfgeist 4](https://open.spotify.com/track/0zMeFmqknbN5k9UKxPMfcX) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Sie wollten Wasser doch kriegen Benzin](https://open.spotify.com/album/4m9FP8NlqLQfEEwtRIRP5x) | 2:56 | 2024-01-29 |  |
 | [Killing Me](https://open.spotify.com/track/0KOMWYw0mEKMvSCUYXkBS7) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Nico Santos](https://open.spotify.com/album/51LrCn7WwuMfGwQufI1Esl) | 3:30 | 2024-01-29 |  |
@@ -192,6 +195,7 @@
 | [What I Want](https://open.spotify.com/track/4wkJyqVVMqbqukgBbnrxOJ) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [What I Want](https://open.spotify.com/album/5EleSz4c26Lq9NneJABLgn) | 2:54 | 2024-01-29 | 2024-02-01 |
 | [What I Want \- Bonus Track](https://open.spotify.com/track/0qOVnMM479jDcUYZMIX9xm) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Loyal to myself](https://open.spotify.com/album/3rH9pkjNKjQvW72bo4xWUm) | 2:50 | 2024-06-02 |  |
 | [Where You Are](https://open.spotify.com/track/4XFJmvM7x2Wkz6kXJr5LmO) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Where You Are](https://open.spotify.com/album/25Bk5lhRcppzuyAqaqXuws) | 2:28 | 2024-01-29 |  |
+| [Why Don't You Stay](https://open.spotify.com/track/25IojstPN4UaVkOXcu3L4Z) | [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [Why Don't You Stay](https://open.spotify.com/album/091lUOVoA3cOVEqJRQSvTT) | 2:21 | 2026-07-06 |  |
 | [Wie du](https://open.spotify.com/track/4bkpxaHmnLp96IjthFx6Eq) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 4:08 | 2024-05-01 |  |
 | [Wieder 2015](https://open.spotify.com/track/2nrjPUW9lqxEcCr2YKz9AY) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Für den Himmel durch die Hölle \(Deluxe Edition\)](https://open.spotify.com/album/5HeOz6InVkwkXkacIGgHRa) | 3:05 | 2024-01-29 |  |
 | [Wiedersehen](https://open.spotify.com/track/5k7tMgpIMQxhao6NA5ZbLG) | [DJ Ötzi](https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr) | [Von Herzen](https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC) | 3:23 | 2024-01-29 |  |

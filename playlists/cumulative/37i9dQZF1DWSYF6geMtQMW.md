@@ -2,9 +2,9 @@
 
 ### [הלהיטים הגדולים של ישראל](https://open.spotify.com/playlist/37i9dQZF1DWSYF6geMtQMW)
 
-> הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: אודיה
+> הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: עדן חסון, אופק אדנק ואגם בוחבוט
 
-249 songs - 13 hr 23 min
+251 songs - 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [tv off \(feat\. lefty gunplay\)](https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:40 | 2024-11-25 | 2025-01-28 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2024-07-01 | 2024-08-13 |
 | [Welcome to Ya Hood](https://open.spotify.com/track/09cFhCmE7LgCOjTcB8Rn6H) | [Tamir Bar](https://open.spotify.com/artist/1UpRHyPDQSJ3qKmRb45d1L), [שם טוב האבי](https://open.spotify.com/artist/5eqZ0thqANZTXbAXqt0MY2), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC), [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [ROUSSO](https://open.spotify.com/artist/0B0XXiGxIzdpQAvf3otjUb) | [שם טוב האבי 2](https://open.spotify.com/album/5o7E8eXdJOMiEGG07OFHIM) | 3:21 | 2025-11-18 | 2026-01-15 |
-| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2025-09-29 |  |
+| [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2025-09-29 | 2026-07-07 |
 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 | 2025-07-28 | 2025-08-20 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-11-11 | 2025-04-08 |
 | [אבי הטחול](https://open.spotify.com/track/0rVTBbyS7Etl0lI3bpwo0h) | [רואי אדם](https://open.spotify.com/artist/0UaHRQkfX3cJ90fsXYvjjG) | [אבי הטחול](https://open.spotify.com/album/0tENdDkqnV0PiD6OYmn5f3) | 3:31 | 2026-06-29 |  |
@@ -167,6 +167,7 @@
 | [כולם גנבים](https://open.spotify.com/track/7IYAf32MmX7oCqgnGNT3g8) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Life Lately](https://open.spotify.com/album/3TEETsW2tjzuqXArpb53sz) | 4:01 | 2026-02-23 |  |
 | [כל הברכה שלי](https://open.spotify.com/track/6VBwTUvZ5eS9d7pDQAcPJn) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [כל הברכה שלי](https://open.spotify.com/album/5OP42J3nnGMRwRZilYYA82) | 2:55 | 2026-05-25 | 2026-06-09 |
 | [כל מה שאני רוצה](https://open.spotify.com/track/5h1iCN4plP49Tv2uFHYfxF) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [כל מה שאני רוצה](https://open.spotify.com/album/5nMMAn4GZbBSCzW0S7l5b1) | 3:52 | 2025-11-18 | 2026-02-24 |
+| [כמה עברנו](https://open.spotify.com/track/0Yq16q9JjYcI3SrPLEc1ue) | [מתן חסן](https://open.spotify.com/artist/36TG4OFhKuCHnTFCa6BEh7) | [כמה עברנו](https://open.spotify.com/album/2RceGLFQ6TbnwEjz6YMDm8) | 2:51 | 2026-07-06 |  |
 | [כמה קל לך](https://open.spotify.com/track/2dNqsY3YrTLDOivziWYF3p) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [נדב חנציס](https://open.spotify.com/album/7ADHZpgopDu4l7C1RWSgC9) | 3:44 | 2025-08-25 | 2026-02-17 |
 | [לא להמציא](https://open.spotify.com/track/6WDVPVfGdcL1d574NP7BVP) | [דודא](https://open.spotify.com/artist/5L1ugF8Mi2varnr83WO9do) | [שקוף](https://open.spotify.com/album/5YBVC6yXAL3Y5ENJpM0kbZ) | 3:47 | 2025-04-14 | 2026-01-15 |
 | [לא לפנות אליי](https://open.spotify.com/track/42jtELiUhOQ9hiWjPyV0ih) | [Nasrin Kadri](https://open.spotify.com/artist/6kKweapGufuHSv5CXVURim) | [לא לפנות אליי](https://open.spotify.com/album/3ThuGcYgtumB29FDqbJsmA) | 2:46 | 2025-01-20 | 2025-06-17 |
@@ -183,6 +184,7 @@
 | [מבת ים ועד הנצח](https://open.spotify.com/track/7fcFn0EdQleBdarD7yLp95) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 2:33 | 2024-07-01 | 2024-09-10 |
 | [מגדלים](https://open.spotify.com/track/5nYFRLTLrqiETyy6LUPfhQ) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [מגדלים](https://open.spotify.com/album/4I1R7WUWt5wAIbaw9NXKvk) | 2:34 | 2024-07-22 | 2025-06-17 |
 | [מדאם](https://open.spotify.com/track/02mgxr6NgCwAVtuLtttDUB) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [מדאם](https://open.spotify.com/album/5XAJsNI2bquG7mLwCRZXku) | 2:52 | 2025-11-24 | 2026-06-23 |
+| [מדאם + יכולה לבד \- לייב אצטדיון ר"ג](https://open.spotify.com/track/021JhGP2MLS2q7tYp4V0ZL) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA), [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [מדאם + יכולה לבד \(לייב אצטדיון ר"ג\)](https://open.spotify.com/album/4wJKQnrhfkfSem5fXrWzbY) | 5:27 | 2026-07-06 |  |
 | [מדע בדיוני](https://open.spotify.com/track/6YEcDPO0mxYoUOZx5cZleT) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [מדע בדיוני](https://open.spotify.com/album/5BYWClTUdrB68rF2M51qQW) | 3:09 | 2025-11-18 | 2026-03-10 |
 | [מה לעשות עם הזאב](https://open.spotify.com/track/6ClLC1FYoL8orfOrcknQkk) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [איך האהבה הזאת חומקת בין האצבעות](https://open.spotify.com/album/7kO2WXy0zLHtKF49A4DwOP) | 2:49 | 2024-07-01 | 2024-08-27 |
 | [מה עשית לי](https://open.spotify.com/track/3LBSTYr6obFNcK0iICM0Dg) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [מה עשית לי](https://open.spotify.com/album/41DuBORs6UXUz2Est08sXy) | 2:41 | 2024-07-01 | 2024-07-30 |
@@ -236,7 +238,7 @@
 | [רובים ותלתלים](https://open.spotify.com/track/5qOxJdYpngdcI4shMGYo8S) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 2:13 | 2025-06-03 | 2025-09-02 |
 | [רוז](https://open.spotify.com/track/0Wr6wZgEP1npYg0vrsWPIZ) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:44 | 2024-07-01 | 2025-04-23 |
 | [רולקס וקסקט](https://open.spotify.com/track/7iepAdmAykL8gh7dYMzpsM) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [רולקס וקסקט](https://open.spotify.com/album/4wSuACXEqtT9x2aj8dt5uE) | 3:12 | 2026-01-12 |  |
-| [רוצי ילדה](https://open.spotify.com/track/4QcmYhQnuOT79zUwmsAOnE) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [שמחה](https://open.spotify.com/album/4NOVlhjP1eEwh5Xh9mx1ic) | 3:35 | 2026-06-15 |  |
+| [רוצי ילדה](https://open.spotify.com/track/4QcmYhQnuOT79zUwmsAOnE) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [שמחה](https://open.spotify.com/album/4NOVlhjP1eEwh5Xh9mx1ic) | 3:35 | 2026-06-15 | 2026-07-07 |
 | [רוקד לי על העצב](https://open.spotify.com/track/5R2KoD3IlLRvCPHVhwdaEe) | [Mor](https://open.spotify.com/artist/0oI0Dm98K3jmtSbfTLiChX) | [רוקד לי על העצב](https://open.spotify.com/album/0RcgspZ4OvKayfaPDS1gcY) | 2:58 | 2025-05-05 | 2026-04-21 |
 | [רוקי](https://open.spotify.com/track/1oZbzZEpWVtmwMjxo12SzV) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [Van da'M](https://open.spotify.com/album/4f4oaIUkUWwveb5KZe1pNx) | 3:09 | 2025-10-13 | 2026-05-26 |
 | [רק הזמן](https://open.spotify.com/track/1KMT5j1608afIjko14UBNP) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [רק הזמן](https://open.spotify.com/album/63bIatX9uWOdWXiq0lxTQl) | 2:55 | 2024-09-30 | 2024-11-26 |

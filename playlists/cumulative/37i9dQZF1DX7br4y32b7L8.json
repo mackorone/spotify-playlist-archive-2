@@ -4079,6 +4079,32 @@
     },
     {
       "album": {
+        "name": "DRIBBELEN",
+        "url": "https://open.spotify.com/album/483KgDOxhtNiI4lG2jotCZ"
+      },
+      "artists": [
+        {
+          "name": "Venti",
+          "url": "https://open.spotify.com/artist/6SgOMDXLQKIiN15OrjOvGQ"
+        },
+        {
+          "name": "FJ",
+          "url": "https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49"
+        },
+        {
+          "name": "BTJE",
+          "url": "https://open.spotify.com/artist/4wN3vVis2oYJbTCbrFdHdV"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "DRIBBELEN",
+      "url": "https://open.spotify.com/track/2GSzwgVhIKwLDG68tQqVfm"
+    },
+    {
+      "album": {
         "name": "Nachtvlinder 2",
         "url": "https://open.spotify.com/album/0bQsTCXR5uOP4C8vD9sC3r"
       },
@@ -6362,7 +6388,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 285746,
       "name": "He Loves Me (Lyzel in E Flat)",
       "url": "https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH"
@@ -11800,6 +11826,36 @@
       "duration_ms": 183653,
       "name": "Oscar Winning Tears.",
       "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
+    },
+    {
+      "album": {
+        "name": "Osso",
+        "url": "https://open.spotify.com/album/0prA4VMDqiTs6pEr5pPoBA"
+      },
+      "artists": [
+        {
+          "name": "Veertien",
+          "url": "https://open.spotify.com/artist/65XrFrwnIwNQkttpOgrmJo"
+        },
+        {
+          "name": "Elf",
+          "url": "https://open.spotify.com/artist/614gyrOAR88aE11ft8wnZ0"
+        },
+        {
+          "name": "RResstante",
+          "url": "https://open.spotify.com/artist/2VBibXVmZwmvX8tn3maHMC"
+        },
+        {
+          "name": "Reimas",
+          "url": "https://open.spotify.com/artist/7nJaOXe9ZYSuGtnIBdWffl"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200618,
+      "name": "Osso",
+      "url": "https://open.spotify.com/track/05HjN1JDMU4avSiOAQa8Cz"
     },
     {
       "album": {

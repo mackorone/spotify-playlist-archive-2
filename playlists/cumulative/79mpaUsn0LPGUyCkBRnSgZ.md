@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,173 songs - 3 day 3 hr 45 min
+1,175 songs - 3 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Five Years \- 2012 Remaster](https://open.spotify.com/track/1JIzFhI9Lt5FyslawmHCBi) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:43 | 2023-05-19 | 2024-06-11 |
 | [Flimsier](https://open.spotify.com/track/1tzww8WyoZheUB7wmZpTyW) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Space Heavy](https://open.spotify.com/album/31UtR7w5vJtg8AmBvWAwL5) | 3:59 | 2024-01-06 |  |
 | [Florida](https://open.spotify.com/track/6BtoVDX3JfmtawFEGHTDN5) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 3:50 | 2023-11-13 | 2024-05-19 |
+| [Focus](https://open.spotify.com/track/527BdOwfAFViMdKoPGCxJh) | [Automato](https://open.spotify.com/artist/0kC4yh9ZqS25UoGxpSNWLp) | [Automato](https://open.spotify.com/album/3MfpooFaUKPeltaQP6DseQ) | 4:22 | 2026-07-06 |  |
 | [Foil](https://open.spotify.com/track/7uXRhVsCHwKVV8gYeA5CXS) | [Autechre](https://open.spotify.com/artist/6WH1V41LwGDGmlPUhSZLHO) | [Amber](https://open.spotify.com/album/1brMCJ3wB9KNzAANIKJf32) | 6:04 | 2024-02-14 |  |
 | [Follow The Lights](https://open.spotify.com/track/0iHClWd9kbQEvcCsriEHJS) | [Pom Poko](https://open.spotify.com/artist/4RkC3KmYWnr6PM1FM5Shwz) | [Birthday](https://open.spotify.com/album/2KgYcD8b9rxkROAPeYEnjh) | 4:12 | 2024-03-04 |  |
 | [For You](https://open.spotify.com/track/5PxB654Q7n3w3NKPdolOLE) | [Tune\-Yards](https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi) | [BiRd\-BrAiNs](https://open.spotify.com/album/7oVySVWjCqQwLSuJ7450sV) | 1:50 | 2023-10-30 |  |
@@ -794,6 +795,7 @@
 | [Propaganda](https://open.spotify.com/track/2cOUR3ruOEkI5EPRB8sWTe) | [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [Propaganda](https://open.spotify.com/album/3bOrSzGgJnjGOa9kOybRCs) | 0:23 | 2024-03-11 |  |
 | [Prophecy](https://open.spotify.com/track/0tmYVU4k7y7ru6CkckFQp3) | [Domo Genesis](https://open.spotify.com/artist/6vHBuUxrcpn1do5UaEJ7g6), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [No Idols](https://open.spotify.com/album/3GncI0ExXYyWnIzZe9oxRQ) | 2:19 | 2023-04-25 |  |
 | [Protocol](https://open.spotify.com/track/33RhN1w5CsMahDUlGIPLhw) | [Hotline TNT](https://open.spotify.com/artist/5DDuwU1X2Aqdp3CxfXstRe) | [Cartwheel](https://open.spotify.com/album/6LrhvefGM7zcJpIdMC9otz) | 4:12 | 2025-06-23 |  |
+| [PS Exclusive](https://open.spotify.com/track/4D0geK6VcQ7pmNG046WKbx) | [Life Without Buildings](https://open.spotify.com/artist/16tbi6bWXBzJ9pOMZ5gIC7) | [Any Other City](https://open.spotify.com/album/1c7eigkoEcDAKKhkajY3Br) | 4:16 | 2026-07-06 |  |
 | [Psychos](https://open.spotify.com/track/6y05BbUtOsNVmaJqVF1k6M) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Joy'All](https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1) | 3:05 | 2024-02-25 |  |
 | [Pt\. II](https://open.spotify.com/track/5Im20ggFBzjYbuhByTo0ZX) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [God Save The Gun](https://open.spotify.com/album/13YF2Z1aV8lMzx4zSw4h75) | 0:20 | 2026-01-16 | 2026-01-18 |
 | [Ptolemy](https://open.spotify.com/track/2QNrkTTtwqVr5MeQb3laxY) | [Asher White](https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv) | [New Excellent Woman](https://open.spotify.com/album/20KjMhrDbR6zpFWnBFehkW) | 5:01 | 2026-02-19 | 2026-03-05 |

@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 762,
+  "num_followers": 768,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAADwqzHlS8QWjd6nefab3CRY61zJ0vi",
+  "snapshot_id": "AAADxxlMiNUVTB9/tFppLV+ad1jKmfUF",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1183,6 +1183,86 @@
       "duration_ms": 176208,
       "name": "LIGHTHOUSE",
       "url": "https://open.spotify.com/track/3grAFJ4WFMWqUxEAzmhbjE"
+    },
+    {
+      "added_at": "2026-07-06 14:32:29",
+      "album": {
+        "name": "deceived",
+        "url": "https://open.spotify.com/album/4RntmhyWWyLjAWdfOI3Fth"
+      },
+      "artists": [
+        {
+          "name": "PUNKFICTION",
+          "url": "https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "deceived",
+      "url": "https://open.spotify.com/track/5wYc5u1J7qUjmwLiHJRGZG"
+    },
+    {
+      "added_at": "2026-07-06 14:33:13",
+      "album": {
+        "name": "Realise",
+        "url": "https://open.spotify.com/album/5NUO2ci09fmOZhe7dRfVxs"
+      },
+      "artists": [
+        {
+          "name": "Ashstone",
+          "url": "https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG"
+        }
+      ],
+      "duration_ms": 187020,
+      "name": "Realise",
+      "url": "https://open.spotify.com/track/0Db0iPyGKZv4w4fBaIfs4g"
+    },
+    {
+      "added_at": "2026-07-06 21:39:28",
+      "album": {
+        "name": "Oh Come On!",
+        "url": "https://open.spotify.com/album/2HGuF5sdOMdRCGnd2EJCWB"
+      },
+      "artists": [
+        {
+          "name": "Your Friend Death",
+          "url": "https://open.spotify.com/artist/2wFQuwL5t22Xi117f8nzRx"
+        }
+      ],
+      "duration_ms": 187385,
+      "name": "Oh Come On!",
+      "url": "https://open.spotify.com/track/2eao3HIlNiWH47YXbUDbYO"
+    },
+    {
+      "added_at": "2026-07-07 01:50:35",
+      "album": {
+        "name": "Ghost in the Machine",
+        "url": "https://open.spotify.com/album/4odVoAJovnpjem0S5Fx0Oy"
+      },
+      "artists": [
+        {
+          "name": "Dan Folland",
+          "url": "https://open.spotify.com/artist/0LCVaqmDMsBXKbN8JINKFu"
+        }
+      ],
+      "duration_ms": 190113,
+      "name": "Ghost in the Machine",
+      "url": "https://open.spotify.com/track/4FpzYZW8n0ACFuqPbgYVHY"
+    },
+    {
+      "added_at": "2026-07-07 01:55:57",
+      "album": {
+        "name": "Feral Child",
+        "url": "https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq"
+      },
+      "artists": [
+        {
+          "name": "Bit Commander",
+          "url": "https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF"
+        }
+      ],
+      "duration_ms": 415758,
+      "name": "Genie",
+      "url": "https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

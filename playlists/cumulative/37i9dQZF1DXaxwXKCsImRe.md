@@ -4,7 +4,7 @@
 
 > De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:5vxYgsUqkYuqL5nLzwnKsk">OYSTER</a>
 
-260 songs - 13 hr 47 min
+261 songs - 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Before Your Birth](https://open.spotify.com/track/5TsRbdH1kqK7wjVITG2j1k) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Talk the Talk](https://open.spotify.com/album/7bXOx5DSCaBsWvNpX4FoRo) | 3:37 | 2024-09-26 | 2024-11-08 |
 | [Believer](https://open.spotify.com/track/6zRsQkn99LTGcGAcgHYEMm) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Believer](https://open.spotify.com/album/6Gy8bgQT87rQxCZGC7lkl2) | 2:47 | 2025-11-06 |  |
 | [Beter Zo](https://open.spotify.com/track/1cmlKpj4lsVChWhXRl3ALm) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [Beter Zo](https://open.spotify.com/album/1XVHFlBZXGz6dBzH1PnlLI) | 3:04 | 2026-03-19 |  |
-| [Bigger Picture](https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Bigger Picture](https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57) | 3:05 | 2026-03-25 |  |
+| [Bigger Picture](https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Bigger Picture](https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57) | 3:05 | 2026-03-25 | 2026-07-07 |
 | [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2021-12-10 | 2022-08-26 |
 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 | 2021-12-10 | 2023-04-07 |
 | [Blijven Rijden](https://open.spotify.com/track/0mQJSaRQzKClGZXyORNy6U) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Blijven Rijden](https://open.spotify.com/album/1y2ecqD1oA6JSDRfMHBNPV) | 2:56 | 2022-09-08 | 2023-01-28 |
@@ -257,6 +257,7 @@
 | [WIE?](https://open.spotify.com/track/4bx1kaKVgDK6aONBlWawmr) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb) | [WIE?](https://open.spotify.com/album/0zsEvQw4D2XzlQdLrfpTTj) | 2:46 | 2025-09-24 |  |
 | [Wil Je Dat Ik Blijf](https://open.spotify.com/track/1OHmMT2JfYPqKJs6NAq8PY) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm) | [Wil Je Dat Ik Blijf](https://open.spotify.com/album/7l16ZGPtMRoVMwAJPxFI1o) | 2:58 | 2024-01-18 | 2024-05-03 |
 | [Wilde Rozen](https://open.spotify.com/track/62B4ceP9bpaBYV7h443aMp) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Wilde Rozen](https://open.spotify.com/album/7Eea9Jvh1okLitSUSQIF1W) | 3:02 | 2022-06-16 | 2022-08-26 |
+| [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 | 2026-07-06 |  |
 | [WITHOUT YOU](https://open.spotify.com/track/27OeeYzk6klgBh83TSvGMA) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE \(SAVAGE\)](https://open.spotify.com/album/3YjfdLdpQcVI72uKhooZst) | 2:41 | 2021-12-10 | 2022-10-18 |
 | [Wrong Ones](https://open.spotify.com/track/2nnVSVYIVJmO3NFKjZHeBr) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Wrong Ones](https://open.spotify.com/album/500eNEPdzfqLa7twAACkVt) | 3:09 | 2024-07-01 | 2025-03-06 |
 | [You Were in My Dream Last Night](https://open.spotify.com/track/2ibQdYbPWdKbGq1Q0QrIXB) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [You Were In My Dream Last Night](https://open.spotify.com/album/1lELKw9fX8yRiDNEAI7hTE) | 4:01 | 2022-10-05 | 2023-04-07 |

@@ -6192,7 +6192,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 201000,
       "name": "Bezdarbnieks",
       "url": "https://open.spotify.com/track/3LpgRnosHNXRpLRrUn0ua2"
@@ -9024,7 +9024,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-06",
+      "date_removed": null,
       "duration_ms": 245565,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"
@@ -10860,7 +10860,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -11128,7 +11128,7 @@
       ],
       "date_added": "2025-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 242720,
       "name": "Da\u013ca R\u012bgas",
       "url": "https://open.spotify.com/track/6oVyceHNCHCuZlRXXJ1HBY"
@@ -11226,7 +11226,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 209783,
       "name": "Debesis Va\u013c\u0101",
       "url": "https://open.spotify.com/track/0FiPtBSIPZspuJNOgxILQi"
@@ -12144,7 +12144,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 280753,
       "name": "Dirty Diana - 2012 Remaster",
       "url": "https://open.spotify.com/track/0AcgKF7kbSoCkh3n7vlHwK"
@@ -13342,7 +13342,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-06",
+      "date_removed": null,
       "duration_ms": 209720,
       "name": "Dracula - JENNIE Remix",
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
@@ -14078,7 +14078,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 222000,
       "name": "D\u0101rznieks",
       "url": "https://open.spotify.com/track/2O200TTEi6VADZCOaQEoj9"
@@ -22766,7 +22766,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-06",
+      "date_removed": null,
       "duration_ms": 177982,
       "name": "ICONIC BY MISTAKE",
       "url": "https://open.spotify.com/track/6fl4Gu0lJm5hc8FM5JzCZD"
@@ -25874,7 +25874,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 255000,
       "name": "Kur ir t\u0101 j\u016bra?",
       "url": "https://open.spotify.com/track/2ezQhiqDnJYRQNpFVKIvdy"
@@ -30998,6 +30998,24 @@
       "duration_ms": 239986,
       "name": "Me Gustas Tu",
       "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
+    },
+    {
+      "album": {
+        "name": "Meant to Be",
+        "url": "https://open.spotify.com/album/7bXn9sUBadhjKd2hbKySa3"
+      },
+      "artists": [
+        {
+          "name": "Cuntsniffer",
+          "url": "https://open.spotify.com/artist/3NkJXmkbysV8LnsI2ast6U"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160245,
+      "name": "Meant to Be",
+      "url": "https://open.spotify.com/track/1WoRPBYYIU54HFsh68C65H"
     },
     {
       "album": {
@@ -41626,7 +41644,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -47904,7 +47922,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-06",
+      "date_removed": null,
       "duration_ms": 209680,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
@@ -50230,7 +50248,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -53084,7 +53102,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 153600,
       "name": "Tu y yo",
       "url": "https://open.spotify.com/track/343UNjmvxx2sZJpU2L4T5p"
@@ -58184,7 +58202,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 224068,
       "name": "Zemenes",
       "url": "https://open.spotify.com/track/5qSCOV54U5CItn2gEb4Ek1"

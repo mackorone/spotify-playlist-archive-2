@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAABEzk4w10vdXvpK8M9kw/mO",
+  "snapshot_id": "akmegAAAAADDYd5wRujph9z82F6C21TP",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encima De Mil",
-        "url": "https://open.spotify.com/album/3TrLRkrcbxYZ0AINiu399E"
+        "name": "Tengo",
+        "url": "https://open.spotify.com/album/6uq8cwuvPvPSYp3rjriBQ9"
       },
       "artists": [
         {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+          "name": "Antonio Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
         },
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 189000,
-      "name": "Encima De Mil",
-      "url": "https://open.spotify.com/track/0X4XlUuu07vrEjSnIqrqLJ"
+      "duration_ms": 230323,
+      "name": "Tengo",
+      "url": "https://open.spotify.com/track/4Jo5MeAP4GFRFc57m2q7FY"
     },
     {
       "added_at": null,
@@ -415,22 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tengo",
-        "url": "https://open.spotify.com/album/6uq8cwuvPvPSYp3rjriBQ9"
+        "name": "Encima De Mil",
+        "url": "https://open.spotify.com/album/3TrLRkrcbxYZ0AINiu399E"
       },
       "artists": [
         {
-          "name": "Antonio Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8"
+          "name": "Alejandro Santamaria",
+          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
         },
         {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 230323,
-      "name": "Tengo",
-      "url": "https://open.spotify.com/track/4Jo5MeAP4GFRFc57m2q7FY"
+      "duration_ms": 189000,
+      "name": "Encima De Mil",
+      "url": "https://open.spotify.com/track/0X4XlUuu07vrEjSnIqrqLJ"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Lolis",
-      "url": "https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "unas ac\u00fasticas",
         "url": "https://open.spotify.com/album/3oHwatvS7nbzOzbMwiAv1l"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 174560,
       "name": "Salto de Fe",
       "url": "https://open.spotify.com/track/48EdXAASoIWLZviugfzfkw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "Lolis",
+      "url": "https://open.spotify.com/track/03qqmwlMWMa6yQP84Z4fmB"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Amanec\u00ed Nublado",
-      "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prometo",
         "url": "https://open.spotify.com/album/2E3vqnGi7DA7r5DTfIHA5D"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 201120,
       "name": "Prometo",
       "url": "https://open.spotify.com/track/2sml6OCdt6e1UgcWekUJO4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Amanec\u00ed Nublado",
+      "url": "https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV"
     },
     {
       "added_at": null,
@@ -671,26 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Vida",
-        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Sobreviviendo",
-      "url": "https://open.spotify.com/track/3dOQwWB2ootaunCEIFxLZ3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Leyenda",
         "url": "https://open.spotify.com/album/4Y29vgiupwmAA5uy7xQLBm"
       },
@@ -711,22 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Dealer",
-        "url": "https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp"
+        "name": "La Vida",
+        "url": "https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs"
       },
       "artists": [
         {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
           "name": "KURT",
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
         }
       ],
-      "duration_ms": 204511,
-      "name": "YA VA A VENIR",
-      "url": "https://open.spotify.com/track/5799eYyRl2Q4rtlk5sCF6B"
+      "duration_ms": 196040,
+      "name": "Sobreviviendo",
+      "url": "https://open.spotify.com/track/3dOQwWB2ootaunCEIFxLZ3"
     },
     {
       "added_at": null,
@@ -743,6 +723,26 @@
       "duration_ms": 184986,
       "name": "A Un Minuto",
       "url": "https://open.spotify.com/track/7oTjieahX5dLL0qkSg6eJi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Dealer",
+        "url": "https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 204511,
+      "name": "YA VA A VENIR",
+      "url": "https://open.spotify.com/track/5799eYyRl2Q4rtlk5sCF6B"
     },
     {
       "added_at": null,
@@ -827,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 157426,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "S\u00f3lo Muere Si Se Olvida (Deluxe)",
         "url": "https://open.spotify.com/album/0KTZkb2lyXX2FZ8vGfqxtH"
       },
@@ -847,8 +863,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/2rEFizrsUbYkh5TN1gxfhi"
+        "name": "En Medio De Este Ruido (Deluxe)",
+        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
       },
       "artists": [
         {
@@ -856,9 +872,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 157426,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4UjEKy8PegjhpL3BC4iuL6"
+      "duration_ms": 213626,
+      "name": "Escap\u00e9monos",
+      "url": "https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc"
     },
     {
       "added_at": null,
@@ -879,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Medio De Este Ruido (Deluxe)",
-        "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML"
       },
       "artists": [
         {
@@ -888,9 +904,9 @@
           "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 213626,
-      "name": "Escap\u00e9monos",
-      "url": "https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc"
+      "duration_ms": 187693,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H"
     },
     {
       "added_at": null,
@@ -907,22 +923,6 @@
       "duration_ms": 184840,
       "name": "NQSTA",
       "url": "https://open.spotify.com/track/1h2tfXtkM7UiXP4Leq9Bvu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/4ovjXs66STqIxRyHqoYtML"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 187693,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/3pa99b4KAVFpO5NxGcfa1H"
     }
   ],
   "unique_name": "This Is KURT",

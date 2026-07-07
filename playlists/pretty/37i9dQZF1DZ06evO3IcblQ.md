@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 
 > This is Pennywise\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,832 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,830 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3IcblQ.md) - [plain]
 | 49 | [Dying to Know \- 2005 Remaster](https://open.spotify.com/track/6wHh6CHqcIQR1gpmmjeaKL) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Unknown Road \(2005 Remaster\)](https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H) | 3:05 |
 | 50 | [Don't Tear Me Down](https://open.spotify.com/track/5mSr9lvz9wQkSX0L2kUs50) | [Authority Zero](https://open.spotify.com/artist/5CHcX5KtuSz5uo1p5fM3sz), [Jim Lindberg](https://open.spotify.com/artist/3cAR0XuqxfhBw6nEk9uPc6), [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Ollie Ollie Oxen Free](https://open.spotify.com/album/4MBEuKyxcVRFFMtXIWlRH1) | 2:12 |
 
-Snapshot ID: `akhNAAAAAAAXESVs+NEBfnULC/ToEU1m`
+Snapshot ID: `akmegAAAAACAbVU9BAeZNYwn9qbecZA2`

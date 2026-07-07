@@ -2143,6 +2143,28 @@
     },
     {
       "album": {
+        "name": "Ridin'",
+        "url": "https://open.spotify.com/album/2fmKXOMnrCF9kgevQekIPL"
+      },
+      "artists": [
+        {
+          "name": "Evan Shapiro",
+          "url": "https://open.spotify.com/artist/0UILmPMs55OVehWiVAoFTc"
+        },
+        {
+          "name": "David J. Michalak",
+          "url": "https://open.spotify.com/artist/3SgiNaCNy5hVnqi0lc5VYv"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187164,
+      "name": "Ridin'",
+      "url": "https://open.spotify.com/track/6grMfwV4ObyviLICT967F7"
+    },
+    {
+      "album": {
         "name": "Rock",
         "url": "https://open.spotify.com/album/6e6WCc9Exq6Dn8F0aUSh1y"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 
 > Happy songs and good vibes! A real mood booster sure to make you smile and keep you feelin’ good 😊 😊 😊 Perfect for road trips and singing in the shower!
 
-[Topsify](https://open.spotify.com/user/topsify) - 468,972 likes - 100 songs - 5 hr 55 min
+[Topsify](https://open.spotify.com/user/topsify) - 468,909 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 | 26 | [The Climb](https://open.spotify.com/track/5TFrCaVcHteA1QbGwwIJD6) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [The Climb](https://open.spotify.com/album/4wgM4DAqjKCY9t3zQ6cU3W) | 3:50 |
 | 27 | [Try It Again](https://open.spotify.com/track/0QS4x5Ts1YROJXScCsfBTR) | [The Slates](https://open.spotify.com/artist/5O5aAqBdU9DMMh6Ew7qnCR) | [Try It Again](https://open.spotify.com/album/3cOW2Jt0A88hPuMLFgpORx) | 4:26 |
 | 28 | [Drive Safe](https://open.spotify.com/track/024GxR7aMUMCPtp8Y3c1zn) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Drive Safe](https://open.spotify.com/album/7zEiuGlnzrMy1FrhXWpDSw) | 3:21 |
-| 29 | [Saturday Night](https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Saturday Night](https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J) | 3:37 |
+| 29 | [Gold](https://open.spotify.com/track/17dNewo0r2wcw4B94KtOeB) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [Gold](https://open.spotify.com/album/3VMvOJQfRBle7761FQg25w) | 3:19 |
 | 30 | [All I Need](https://open.spotify.com/track/5TwrRbDsrFkAhaCOxIfoxt) | [Olive](https://open.spotify.com/artist/5jOBDBsf6lmsBO3uBx50Qq) | [All I Need](https://open.spotify.com/album/14LAoaEr9QcxrTsBszz7Jx) | 2:19 |
 | 31 | [A Little More](https://open.spotify.com/track/18FN1Kz7KMF0ujN6ID4ans) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [A Little More](https://open.spotify.com/album/0FFwoqf6fRZCxERyjIOI4X) | 3:12 |
 | 32 | [Stars](https://open.spotify.com/track/0ZzHRRPxUmNVr4vWNnlDAe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 | 99 | [Give Me the Night](https://open.spotify.com/track/62GYoGszQfROZswLee6W3O) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The George Benson Collection](https://open.spotify.com/album/1IcNxT9zu74BfNhuHD9MBN) | 3:42 |
 | 100 | [Bloodline](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 |
 
-Snapshot ID: `AAAJCEytO5OSLn444E4SWU/EgyxEfuWe`
+Snapshot ID: `AAAJCoMRq7To5MiF1VG+EURRpSy0dDOJ`

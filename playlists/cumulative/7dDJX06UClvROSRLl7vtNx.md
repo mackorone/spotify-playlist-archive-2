@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,374 songs - 2 day 11 hr 9 min
+1,375 songs - 2 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Dumb Things](https://open.spotify.com/track/4gWdqjWaILyu3ZFhKqGYRo) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [One Trick Pony](https://open.spotify.com/artist/4xxlgFFZpjIrQr9FiFttBG) | [Dumb Things](https://open.spotify.com/album/70BXSLkRsTJd7gqOrSFoaL) | 2:20 | 2026-05-03 | 2026-07-06 |
 | [Dusk Till Dawn](https://open.spotify.com/track/2Y8F6VghlLx4lpUSDOTHZK) | [FMTM](https://open.spotify.com/artist/59rzq7zL5EJrmwWLPzDb0e), [Catching Sunrises](https://open.spotify.com/artist/1ZRHglRvKYNVcLjp1YAsSz) | [Dusk Till Dawn](https://open.spotify.com/album/4s0udnWNEJ504qJDGTyY5A) | 2:50 | 2024-05-04 | 2024-07-05 |
 | [DÁKITI](https://open.spotify.com/track/12UKG8o3WWlSdvK7zInWh8) | [BOOTY LEAK](https://open.spotify.com/artist/6C8sBC5U3LyUE4GoleJWvx), [TARS.](https://open.spotify.com/artist/0Dp54NlNysfSJ0FO2nlTGo), [PHURS](https://open.spotify.com/artist/2UXdzClMex3N47C9m1fkeX), [LO RA](https://open.spotify.com/artist/4UIKw5nTfBSfJz1Qtts8oC) | [DÁKITI](https://open.spotify.com/album/5RE3u3esh5NWmKGP1sKKwf) | 3:07 | 2024-03-03 | 2024-04-29 |
+| [Déjà Vu](https://open.spotify.com/track/29mFDGIEr6HmUyewk263Rr) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W) | [Déjà Vu](https://open.spotify.com/album/3994hu8R6G6aZcNFeAgRny) | 2:17 | 2026-07-06 |  |
 | [Easier](https://open.spotify.com/track/7E8UkZrPENsi35NDiGpR8F) | [Benedict Ammann](https://open.spotify.com/artist/60kjG4d8jemoykwV2UU3fw), [Ma Nu](https://open.spotify.com/artist/5sEdpecv6jz6ZpTpBzYlhR) | [Easier](https://open.spotify.com/album/0TH7ZDydq8Uzylk8yC1SCF) | 2:13 | 2025-10-24 | 2026-03-25 |
 | [Easily](https://open.spotify.com/track/7EtAT9cvwWrduQUJ2uZ6fr) | [Chris Ruo](https://open.spotify.com/artist/1hGDMRx4NEk3H6cA8qevzY), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Easily](https://open.spotify.com/album/4RvVc0vbaA46SWUH75Joks) | 2:38 | 2025-03-01 | 2025-06-14 |
 | [Easy](https://open.spotify.com/track/79ZKrHZVLDR7zeUMIsjI1r) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16), [Eliine](https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk) | [Easy](https://open.spotify.com/album/5JcxWL1M174eVCbxbpLXMo) | 2:54 | 2024-06-14 | 2025-01-13 |

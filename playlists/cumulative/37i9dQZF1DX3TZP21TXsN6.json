@@ -64,6 +64,24 @@
     {
       "album": {
         "name": "10/10",
+        "url": "https://open.spotify.com/album/4eIJvZ7xPzWi09DZbHSdmt"
+      },
+      "artists": [
+        {
+          "name": "Femi",
+          "url": "https://open.spotify.com/artist/1LYCP7FPd47ezdRHsXLFAm"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136538,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/61FE4JNjBbyh2z0y6oVCJO"
+    },
+    {
+      "album": {
+        "name": "10/10",
         "url": "https://open.spotify.com/album/3Hn1DqMMR58OnTKmd8tt2S"
       },
       "artists": [

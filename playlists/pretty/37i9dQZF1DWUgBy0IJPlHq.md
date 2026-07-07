@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Willow Avalon
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,923 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,960 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 99 | [Riot of the Red](https://open.spotify.com/track/2VdbAia2Chh60vG85MCZ18) | [Lou Hazel](https://open.spotify.com/artist/0XIZk0xgmde4G5jaFMjCoe) | [Riot of the Red](https://open.spotify.com/album/3C9rtB39aiZ86y1L052vpr) | 3:28 |
 | 100 | [Ride On](https://open.spotify.com/track/0JRAb68EKNBaZwrkUBMVvq) | [Coleman Jennings](https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp) | [Ride On](https://open.spotify.com/album/4wZ9RtuL0b46pD8dHzl606) | 2:58 |
 
-Snapshot ID: `AAAAAH+hqwGYtsGQeJWu78N0ARyMnUsi`
+Snapshot ID: `AAAAAL/ekwS6VYEELruv4xwB8VCHVQfD`

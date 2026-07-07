@@ -280,7 +280,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 247978,
       "name": "COLORATURA",
       "url": "https://open.spotify.com/track/3jIGteplWR9tMpqsH06J83"
@@ -1564,7 +1564,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 200714,
       "name": "Timing (feat. Aile The Shota)",
       "url": "https://open.spotify.com/track/4Y89nPuXPbDW25asqiYLN5"
@@ -1763,6 +1763,24 @@
     },
     {
       "album": {
+        "name": "\u3055\u3088\u306a\u3089\u30da\u30f3\u30ae\u30f3",
+        "url": "https://open.spotify.com/album/1QyQZ3ubY9FaD4gwOJc8th"
+      },
+      "artists": [
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111096,
+      "name": "\u3055\u3088\u306a\u3089\u30da\u30f3\u30ae\u30f3",
+      "url": "https://open.spotify.com/track/7aybXv6zDhl14J0H9paNmd"
+    },
+    {
+      "album": {
         "name": "\u3059\u305a\u3081\u306e\u6238\u7de0\u307e\u308a",
         "url": "https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp"
       },
@@ -1857,6 +1875,24 @@
     },
     {
       "album": {
+        "name": "\u3072\u3068\u3072\u3089",
+        "url": "https://open.spotify.com/album/6bvqkbS0z1yQlpERbRoUVi"
+      },
+      "artists": [
+        {
+          "name": "Motohiro Hata",
+          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235750,
+      "name": "\u3072\u3068\u3072\u3089",
+      "url": "https://open.spotify.com/track/3NfXlt9a6Vp5STs4uTrqrY"
+    },
+    {
+      "album": {
         "name": "\u3078\u3073",
         "url": "https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB"
       },
@@ -1904,7 +1940,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 191726,
       "name": "\u3084\u3055\u3057\u3055\u306b\u5305\u307e\u308c\u305f\u306a\u3089",
       "url": "https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU"
@@ -2390,7 +2426,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 192640,
       "name": "\u5e78\u305b\u306e\u30ec\u30b7\u30d4",
       "url": "https://open.spotify.com/track/32FikT5AiqTb7aM6szI0sa"
@@ -2538,7 +2574,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 178049,
       "name": "\u66f2\u540d\u306f\u307e\u3060\u306a\u3044\u3067\u3059",
       "url": "https://open.spotify.com/track/4aCPE37Q7R8OsFuwpEm4s6"
@@ -2690,7 +2726,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 258733,
       "name": "\u8679",
       "url": "https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS"

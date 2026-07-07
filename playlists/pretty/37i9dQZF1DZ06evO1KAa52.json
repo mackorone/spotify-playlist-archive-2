@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 669639,
+  "num_followers": 669658,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAAAJPNmAUHj8PlcfJTGuOwAv",
+  "snapshot_id": "akmegAAAAAB5J2CpKlpjgExAzkPigChY",
   "tracks": [
     {
       "added_at": null,
@@ -1055,6 +1055,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The 20/20 Experience - 2 of 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/5lYzReGzcSNF0Gx47wm6qU"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 331133,
+      "name": "Drink You Away",
+      "url": "https://open.spotify.com/track/4pEaGoTSSU7YKu4hqor9Na"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Man of the Woods",
         "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
@@ -1075,62 +1091,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 20/20 Experience - 2 of 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/5lYzReGzcSNF0Gx47wm6qU"
+        "name": "TROLLS World Tour (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/28Orm6S3LezppbfYdgA3aI"
       },
       "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 331133,
-      "name": "Drink You Away",
-      "url": "https://open.spotify.com/track/4pEaGoTSSU7YKu4hqor9Na"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
         {
           "name": "Anna Kendrick",
           "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
         },
         {
-          "name": "Zooey Deschanel",
-          "url": "https://open.spotify.com/artist/2GEW6nJjHKAFyqnsE3TdWx"
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Kenan Thompson",
-          "url": "https://open.spotify.com/artist/712ZtYak5pWK9RJjcyxdKl"
-        },
-        {
-          "name": "Kunal Nayyar",
-          "url": "https://open.spotify.com/artist/4po5m4plDQk01gLzTcCMfA"
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
         },
         {
           "name": "Icona Pop",
           "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
         },
         {
-          "name": "Ron Funches",
-          "url": "https://open.spotify.com/artist/5auLWD3XT6p3im19G2cLhP"
+          "name": "The Pop Trolls",
+          "url": "https://open.spotify.com/artist/2ossO7Sa8OJ0D0PQjSF1cQ"
         }
       ],
-      "duration_ms": 189520,
-      "name": "Let's Get Married",
-      "url": "https://open.spotify.com/track/7AZiiOuTA8WPWJ7vEdFmue"
+      "duration_ms": 61923,
+      "name": "Trolls 2 Many Hits Mashup",
+      "url": "https://open.spotify.com/track/74PmqgIU0EU60QEgrjJIIk"
     }
   ],
   "unique_name": "This Is Justin Timberlake",

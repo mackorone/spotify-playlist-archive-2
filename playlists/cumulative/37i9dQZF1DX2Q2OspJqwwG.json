@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 154160,
       "name": "A\u0219a \u0219i a\u0219a",
       "url": "https://open.spotify.com/track/1MlChz5MNNWw0MZwFZu7ho"
@@ -4209,6 +4209,28 @@
     },
     {
       "album": {
+        "name": "Genul \u0103la",
+        "url": "https://open.spotify.com/album/6aYU0Zg3RePmH06uk90xL5"
+      },
+      "artists": [
+        {
+          "name": "Alina Eremia",
+          "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
+        },
+        {
+          "name": "Puya",
+          "url": "https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154909,
+      "name": "Genul \u0103la",
+      "url": "https://open.spotify.com/track/1gwsXF1G0j7uOS53KtRQYu"
+    },
+    {
+      "album": {
         "name": "Free The Universe (Extended Version)",
         "url": "https://open.spotify.com/album/5QhUiW8r836IZ7avv9A5L8"
       },
@@ -5346,7 +5368,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 172455,
       "name": "Jcole",
       "url": "https://open.spotify.com/track/4ZipULmJ8hsB6ZU9ZiGOcz"
@@ -6387,6 +6409,24 @@
     },
     {
       "album": {
+        "name": "misery.",
+        "url": "https://open.spotify.com/album/6QJfoSZuiyqoKXXIXMyYO2"
+      },
+      "artists": [
+        {
+          "name": "pupsies",
+          "url": "https://open.spotify.com/artist/0Uo0W0Vfq9ZOLCFngwxOLm"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166401,
+      "name": "misery.",
+      "url": "https://open.spotify.com/track/6De8sirPzVyAoBDlQpcutY"
+    },
+    {
+      "album": {
         "name": "Miss Romania",
         "url": "https://open.spotify.com/album/29DuhNXRLB8Fq1y37fUEkq"
       },
@@ -7080,6 +7120,28 @@
       "duration_ms": 197987,
       "name": "Nu Pl\u00e2nge",
       "url": "https://open.spotify.com/track/4EGWCCAlL0k85BHMhNqnxv"
+    },
+    {
+      "album": {
+        "name": "LUCIFER",
+        "url": "https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "Delia",
+          "url": "https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220884,
+      "name": "NU TE MAI V\u0102D",
+      "url": "https://open.spotify.com/track/0n6pjhfaEOBNeaPpjj6zPK"
     },
     {
       "album": {
@@ -9558,7 +9620,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 194000,
       "name": "Toreador",
       "url": "https://open.spotify.com/track/0AAfrVdWsndvIBwimXaYz4"
@@ -9704,7 +9766,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 138750,
       "name": "TRECI PESTE",
       "url": "https://open.spotify.com/track/0qeJlzTP4ElGNqleALaeR2"
@@ -9984,6 +10046,28 @@
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
+    {
+      "album": {
+        "name": "Vara nu e vara",
+        "url": "https://open.spotify.com/album/7vMbS8vbdAl0ko9clIHTMc"
+      },
+      "artists": [
+        {
+          "name": "Denis Ramniceanu",
+          "url": "https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64"
+        },
+        {
+          "name": "Babasha",
+          "url": "https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Vara nu e vara",
+      "url": "https://open.spotify.com/track/01bhnosc5HEyhHyszYtmtE"
     },
     {
       "album": {

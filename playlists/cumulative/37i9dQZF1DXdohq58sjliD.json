@@ -78,6 +78,32 @@
     {
       "album": {
         "name": "One Day (Soundtrack From The Netflix Series)",
+        "url": "https://open.spotify.com/album/1EtSAQSbP5mn339LtNeYFg"
+      },
+      "artists": [
+        {
+          "name": "Anne Nikitin",
+          "url": "https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr"
+        },
+        {
+          "name": "Jessica Jones",
+          "url": "https://open.spotify.com/artist/72L0J56ukCcJUX0OXANi5X"
+        },
+        {
+          "name": "Tim Morrish",
+          "url": "https://open.spotify.com/artist/5bjuVUnGs70A5dHPv6IKJG"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100169,
+      "name": "As If She Was Still Here",
+      "url": "https://open.spotify.com/track/2kqvwCcZ1sqYUVtlj8mHWF"
+    },
+    {
+      "album": {
+        "name": "One Day (Soundtrack From The Netflix Series)",
         "url": "https://open.spotify.com/album/7iMdkPMckam6GaiORAEzNl"
       },
       "artists": [
@@ -96,7 +122,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 100169,
       "name": "As If She Was Still Here",
       "url": "https://open.spotify.com/track/3QVnQEM7v3mOXLnC1GMVGJ"
@@ -252,7 +278,7 @@
     {
       "album": {
         "name": "One Day (Soundtrack From The Netflix Series)",
-        "url": "https://open.spotify.com/album/7iMdkPMckam6GaiORAEzNl"
+        "url": "https://open.spotify.com/album/1EtSAQSbP5mn339LtNeYFg"
       },
       "artists": [
         {
@@ -268,30 +294,12 @@
           "url": "https://open.spotify.com/artist/5bjuVUnGs70A5dHPv6IKJG"
         }
       ],
-      "date_added": "2024-02-13",
+      "date_added": "2024-03-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 111113,
       "name": "Dex and Em",
-      "url": "https://open.spotify.com/track/56HrKeQb3RgHLxNpGVdZxE"
-    },
-    {
-      "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "date_added": "2024-02-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 271560,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
+      "url": "https://open.spotify.com/track/3aZMpgR5X8HrVpSIoR12cf"
     },
     {
       "album": {
@@ -314,7 +322,95 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
+      "date_removed": "2026-07-07",
+      "duration_ms": 111113,
+      "name": "Dex and Em",
+      "url": "https://open.spotify.com/track/56HrKeQb3RgHLxNpGVdZxE"
+    },
+    {
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2026-07-07",
+      "duration_ms": 271560,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/4JGKZS7h4Qa16gOU3oNETV"
+    },
+    {
+      "album": {
+        "name": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
+        "url": "https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN"
+      },
+      "artists": [
+        {
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 273706,
+      "name": "Dreams - Remastered 2026",
+      "url": "https://open.spotify.com/track/458JkK5eJhh4C4s6nTuz7g"
+    },
+    {
+      "album": {
+        "name": "One Day (Soundtrack From The Netflix Series)",
+        "url": "https://open.spotify.com/album/1EtSAQSbP5mn339LtNeYFg"
+      },
+      "artists": [
+        {
+          "name": "Anne Nikitin",
+          "url": "https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr"
+        },
+        {
+          "name": "Jessica Jones",
+          "url": "https://open.spotify.com/artist/72L0J56ukCcJUX0OXANi5X"
+        },
+        {
+          "name": "Tim Morrish",
+          "url": "https://open.spotify.com/artist/5bjuVUnGs70A5dHPv6IKJG"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102471,
+      "name": "Emma T Wilde",
+      "url": "https://open.spotify.com/track/0iqEFJyRarLI94MuRpLOP1"
+    },
+    {
+      "album": {
+        "name": "One Day (Soundtrack From The Netflix Series)",
+        "url": "https://open.spotify.com/album/7iMdkPMckam6GaiORAEzNl"
+      },
+      "artists": [
+        {
+          "name": "Anne Nikitin",
+          "url": "https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr"
+        },
+        {
+          "name": "Jessica Jones",
+          "url": "https://open.spotify.com/artist/72L0J56ukCcJUX0OXANi5X"
+        },
+        {
+          "name": "Tim Morrish",
+          "url": "https://open.spotify.com/artist/5bjuVUnGs70A5dHPv6IKJG"
+        }
+      ],
+      "date_added": "2024-02-13",
+      "date_added_asterisk": false,
+      "date_removed": "2026-07-07",
       "duration_ms": 102471,
       "name": "Emma T Wilde",
       "url": "https://open.spotify.com/track/3MF97Ud0k50zLPSWd3NpWM"
@@ -646,6 +742,24 @@
     {
       "album": {
         "name": "Bryter Layter",
+        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
+      },
+      "artists": [
+        {
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223722,
+      "name": "Northern Sky",
+      "url": "https://open.spotify.com/track/7pdmBld4yW3WIUkrxHyb5r"
+    },
+    {
+      "album": {
+        "name": "Bryter Layter",
         "url": "https://open.spotify.com/album/04FfqGvZJ9oUBGRVrq2FE5"
       },
       "artists": [
@@ -656,7 +770,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 224013,
       "name": "Northern Sky",
       "url": "https://open.spotify.com/track/3EtIraJEHVSbBvLw5msioH"
@@ -829,6 +943,24 @@
     },
     {
       "album": {
+        "name": "Ibiza Classics",
+        "url": "https://open.spotify.com/album/5qRo9TXexLPS11kyCwrZf0"
+      },
+      "artists": [
+        {
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209893,
+      "name": "Push The Feeling On - Radio Mix",
+      "url": "https://open.spotify.com/track/3ARD6xCmPxt02IeXsRkTPw"
+    },
+    {
+      "album": {
         "name": "90's Party Mix",
         "url": "https://open.spotify.com/album/797RpvHC9gxlRdNIgXDJh5"
       },
@@ -840,7 +972,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 209893,
       "name": "Push The Feeling On - Radio Mix",
       "url": "https://open.spotify.com/track/5FgksYa3NCAO9ggJTuD5Q7"
@@ -1103,6 +1235,24 @@
     },
     {
       "album": {
+        "name": "In My Own Time",
+        "url": "https://open.spotify.com/album/6Ai4Saejkb08NrsC7182Px"
+      },
+      "artists": [
+        {
+          "name": "Karen Dalton",
+          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203346,
+      "name": "Something On Your Mind",
+      "url": "https://open.spotify.com/track/23KI77aH4TKcb3rOMsYiSg"
+    },
+    {
+      "album": {
         "name": "In My Own Time (50th Anniversary Edition)",
         "url": "https://open.spotify.com/album/36WryGURqME9Y2URzzzmio"
       },
@@ -1114,7 +1264,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 203397,
       "name": "Something on Your Mind",
       "url": "https://open.spotify.com/track/4cmCWVR8RlLYyASMarxU0e"
@@ -1176,6 +1326,24 @@
     {
       "album": {
         "name": "69 Love Songs",
+        "url": "https://open.spotify.com/album/0K5FvRzJl6iTKikI9tMdAB"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162413,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/1xulVUlt4ip3iu2EjrV4ZT"
+    },
+    {
+      "album": {
+        "name": "69 Love Songs",
         "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
       },
       "artists": [
@@ -1186,7 +1354,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 162413,
       "name": "The Book of Love",
       "url": "https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu"
@@ -1413,6 +1581,24 @@
     },
     {
       "album": {
+        "name": "Nixon (Reissue)",
+        "url": "https://open.spotify.com/album/2NWb2PGlKlFuywGulO4ONR"
+      },
+      "artists": [
+        {
+          "name": "Lambchop",
+          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359293,
+      "name": "Up With People",
+      "url": "https://open.spotify.com/track/2bo5QZhitkZvS9pEe9iGqX"
+    },
+    {
+      "album": {
         "name": "Nixon",
         "url": "https://open.spotify.com/album/1qen4Tff5s4spszMi3Hd8d"
       },
@@ -1424,7 +1610,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 359293,
       "name": "Up With People",
       "url": "https://open.spotify.com/track/4wyz3drf3rT3FWJhd25z3d"
@@ -1540,10 +1726,54 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 73624,
       "name": "You Look Nice",
       "url": "https://open.spotify.com/track/23zYEkU6d1mWD4FuRJkM5l"
+    },
+    {
+      "album": {
+        "name": "One Day (Soundtrack From The Netflix Series)",
+        "url": "https://open.spotify.com/album/1EtSAQSbP5mn339LtNeYFg"
+      },
+      "artists": [
+        {
+          "name": "Anne Nikitin",
+          "url": "https://open.spotify.com/artist/1ZA3IynpePtaBeajOMrFfr"
+        },
+        {
+          "name": "Jessica Jones",
+          "url": "https://open.spotify.com/artist/72L0J56ukCcJUX0OXANi5X"
+        },
+        {
+          "name": "Tim Morrish",
+          "url": "https://open.spotify.com/artist/5bjuVUnGs70A5dHPv6IKJG"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73624,
+      "name": "You Look Nice",
+      "url": "https://open.spotify.com/track/400GGmsuvGKt51gWoE5OO3"
+    },
+    {
+      "album": {
+        "name": "You've Got A Woman",
+        "url": "https://open.spotify.com/album/2ksGII6FK2E1bmCeSKOmb8"
+      },
+      "artists": [
+        {
+          "name": "Lion",
+          "url": "https://open.spotify.com/artist/37UBXFAuwG66gXZSVL4Qnk"
+        }
+      ],
+      "date_added": "2024-03-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205686,
+      "name": "You've Got A Woman",
+      "url": "https://open.spotify.com/track/6nIzDbaDbnhKVkz16c042S"
     },
     {
       "album": {
@@ -1558,7 +1788,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 205920,
       "name": "You've Got a Woman",
       "url": "https://open.spotify.com/track/6G6mulVvHFpJsnoKASUPYP"

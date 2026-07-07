@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-181 songs - 10 hr 30 min
+182 songs - 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Punto Cero](https://open.spotify.com/track/1I21Ts3OdQHSF82lz1VyFv) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Punto Cero](https://open.spotify.com/album/6SxhGvhfo2FBsGjZgNgvrO) | 3:41 | 2026-01-10 |  |
 | [Rainy day date](https://open.spotify.com/track/66P6BcQvNxWady9qp6dvRo) | [Ks/Marys](https://open.spotify.com/artist/5sAakdhIYQPe1oUd4Yk70z) | [Rainy day date](https://open.spotify.com/album/5dd7Yqt9ctcheVlVtHUAgd) | 4:24 | 2025-11-16 | 2026-03-15 |
 | [Resplandor](https://open.spotify.com/track/470q0uES7555MaiDrMXxDh) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u) | [Resplandor](https://open.spotify.com/album/2eJ7zfBLPHBEBym0BEOWHv) | 3:21 | 2026-02-19 |  |
+| [Ridin'](https://open.spotify.com/track/6grMfwV4ObyviLICT967F7) | [Evan Shapiro](https://open.spotify.com/artist/0UILmPMs55OVehWiVAoFTc), [David J\. Michalak](https://open.spotify.com/artist/3SgiNaCNy5hVnqi0lc5VYv) | [Ridin'](https://open.spotify.com/album/2fmKXOMnrCF9kgevQekIPL) | 3:07 | 2026-07-06 |  |
 | [Rock](https://open.spotify.com/track/77lY028zHQMb93dP5XEYTE) | [MINNA ORA](https://open.spotify.com/artist/76RqksjOb9wTLKq1EUfNOC) | [Rock](https://open.spotify.com/album/6e6WCc9Exq6Dn8F0aUSh1y) | 2:56 | 2025-11-29 | 2026-06-14 |
 | [Rot](https://open.spotify.com/track/33zYnZAndE0Iv5kEWPmOTz) | [Hollowblades](https://open.spotify.com/artist/6e7RH4eLVsJuoj5eUnzEH6) | [Rot](https://open.spotify.com/album/1ZFNfZLOsZN6iFCLUsA5xa) | 2:49 | 2026-06-21 |  |
 | [save your words](https://open.spotify.com/track/1wQ2R6aecRThAisPlhXkLx) | [michelle gwod](https://open.spotify.com/artist/6b6RbgjmL09vWr2L9G2HyL) | [save your words](https://open.spotify.com/album/76rsI0ClezjwUCu4kQQIrx) | 2:30 | 2026-06-13 |  |

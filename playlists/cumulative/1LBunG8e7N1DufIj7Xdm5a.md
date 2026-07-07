@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,498 songs - 10 day 0 hr 58 min
+4,501 songs - 10 day 1 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [Bubblegum Blade](https://open.spotify.com/track/74VRkhBBRuqggNzgJuLiDe) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hyperpop](https://open.spotify.com/album/6rWV9L1qvMm1cvEJ5LJO9E) | 2:07 | 2025-09-16 |  |
 | [Bubblegum Blade \(another\)](https://open.spotify.com/track/5scbUz4ceP5MWSE5b6ueTV) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hyperpop](https://open.spotify.com/album/6rWV9L1qvMm1cvEJ5LJO9E) | 1:56 | 2025-09-16 |  |
 | [Buddy](https://open.spotify.com/track/1CGoIbOgoXFGqBPOjGtTJL) | [Du Blonde](https://open.spotify.com/artist/46MOKAqmDsUILZl3iXyPmw) | [Lung Bread For Daddy](https://open.spotify.com/album/53oTwZHLAKRfInbkgP4lS3) | 2:26 | 2025-11-05 |  |
+| [Build to Burn](https://open.spotify.com/track/2ea1wQNqIyMghvoHbJHdqJ) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Build to Burn](https://open.spotify.com/album/3gwdzUm6fwWglItpbtwYEW) | 4:56 | 2026-07-06 |  |
 | [Bukowski](https://open.spotify.com/track/3i0Pz0PwNOGKObvr6ejioW) | [Giovanni Succi](https://open.spotify.com/artist/7peAkZ9gXodeU3OyetuOjX) | [Con ghiaccio](https://open.spotify.com/album/3m3F1OmiRNe6Unjq6tBPLL) | 3:26 | 2025-11-12 |  |
 | [Bulletproof Symphony](https://open.spotify.com/track/2TxA3LBRde44ZANmHbWSrh) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Gangsta rap](https://open.spotify.com/album/5DjfHnIsnHBjvVFvStHhrn) | 1:27 | 2025-08-20 |  |
 | [Bulletproof Symphony \(another\)](https://open.spotify.com/track/0fNQNrD50HSJtfiYVQXuEQ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Gangsta rap](https://open.spotify.com/album/5DjfHnIsnHBjvVFvStHhrn) | 1:44 | 2025-08-20 |  |
@@ -2033,6 +2034,7 @@
 | [it's only time](https://open.spotify.com/track/5cElRmTggpOvFoPS3vFb8d) | [yogyety](https://open.spotify.com/artist/0eWeSaAWeytNuogll1VxST) | [found the lost sound](https://open.spotify.com/album/09GlCuLN5uIjUFnF9LXpWI) | 4:38 | 2025-09-15 |  |
 | [It's You](https://open.spotify.com/track/6PTEYjeE9e1jXbBHKZeYdH) | [Umang Mehta](https://open.spotify.com/artist/1zKJLTBdEXNsdHiIAH6Th2) | [It's You](https://open.spotify.com/album/3kbxJm5NAgNQAw3a6GVXpk) | 3:55 | 2026-02-24 |  |
 | [its only time \- 2023 Remastered Version](https://open.spotify.com/track/6kXRQNQtRR7Uqjs0N7DJI5) | [yogyety](https://open.spotify.com/artist/7FBPTQ69WVgYB0T9PbhO4z) | [found the lost sound \(2023 Remastered Version\)](https://open.spotify.com/album/3IMW0NXkqYoSy2UHOYy0Ta) | 4:38 | 2026-02-01 |  |
+| [İki Kalp](https://open.spotify.com/track/0DUukZhlATPQ4AxA5NGDbm) | [Kavanoz](https://open.spotify.com/artist/1kQLL2HLwXJfeQtmmCsxJQ) | [İki Kalp](https://open.spotify.com/album/0sD6t5iydCDwojFKJIuYVY) | 4:21 | 2026-07-06 |  |
 | [I’m a weirdo](https://open.spotify.com/track/0fVd4sOBk7H7reZgH7NNpY) | [Golden Greyline](https://open.spotify.com/artist/14DQ2kFzKCkK8NxbK2az3l) | [I’m a weirdo](https://open.spotify.com/album/5ZpGS7wY5tYvHVF2e304MJ) | 4:55 | 2025-12-15 |  |
 | [J Love](https://open.spotify.com/track/4lt94VXCQxaRureDYrXIac) | [2dipicche](https://open.spotify.com/artist/3tT2cUXPIsX2EEpbA783Js), [XXIII](https://open.spotify.com/artist/5MwBCwneq4hlNDaABQeO0i) | [J Love](https://open.spotify.com/album/5Diffw2WYL7jXVmi9J2Rqv) | 2:58 | 2025-02-05 |  |
 | [J'en rêve](https://open.spotify.com/track/67aSPgr0hlu0WpsgC9E9ou) | [Roshi](https://open.spotify.com/artist/4bDcCV0zjPsVs2GxtduYry) | [SOMOTRO](https://open.spotify.com/album/3nV0MZQOMZgTFnYo16TYbE) | 3:15 | 2025-06-23 |  |
@@ -3032,6 +3034,7 @@
 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2025-04-09 |  |
 | [Pose For The Pic](https://open.spotify.com/track/7mpY8KmX0mUCJV49dstMA3) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Pose For The Pic](https://open.spotify.com/album/45rfnyjY7gWPETzgnU3j4a) | 2:44 | 2025-07-28 |  |
 | [Post Blue](https://open.spotify.com/track/6DqR8FPtd3uPT9GLbly6Ok) | [Floor Zero](https://open.spotify.com/artist/28ChXBrWARNsOLTJNKdliE) | [Post Blue](https://open.spotify.com/album/1j2o4B7NPh4AwQmbqAt3oK) | 4:14 | 2025-06-15 |  |
+| [Postal Secret](https://open.spotify.com/track/4Pi6nD8JQiqvHVFZXULyjs) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 4:34 | 2026-07-06 |  |
 | [Poveri Noi](https://open.spotify.com/track/5adhTQAbIkuN2bHcvYqDLb) | [VARTA74](https://open.spotify.com/artist/1WLPGXeBf0LMnggYMRVaJQ) | [Veleno](https://open.spotify.com/album/0O841AhpGlbaNL3zmfwCvZ) | 3:51 | 2025-12-11 |  |
 | [Power](https://open.spotify.com/track/0laZWY3EU8RYnJf4YnB2Fl) | [Sons of Legion](https://open.spotify.com/artist/4WBCjNjq0MGPsvcXyOPWKW) | [Power](https://open.spotify.com/album/6ln8iXcLmyu9wJIUq5J7IS) | 2:43 | 2024-11-07 |  |
 | [Power in Balance](https://open.spotify.com/track/1SSf6zVdpSTdqVxwZux1jo) | [EmRysRa](https://open.spotify.com/artist/0Nankvxle3GVZIrXrhbV1m) | [Power in Balance](https://open.spotify.com/album/56TclUUl47Mtvb3QAL81L2) | 5:04 | 2025-06-04 |  |

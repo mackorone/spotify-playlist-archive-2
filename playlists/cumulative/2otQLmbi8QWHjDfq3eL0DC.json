@@ -3468,7 +3468,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 149250,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/3m7ujh5Wws7bTCbesg7GQK"
@@ -4018,6 +4018,28 @@
       "duration_ms": 171176,
       "name": "Going On",
       "url": "https://open.spotify.com/track/1MyfFxL5j902gsQNuNPT6F"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3VMvOJQfRBle7761FQg25w"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199541,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/17dNewo0r2wcw4B94KtOeB"
     },
     {
       "album": {

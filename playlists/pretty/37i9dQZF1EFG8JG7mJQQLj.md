@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,706 likes - 513 songs - 1 day 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,718 likes - 513 songs - 1 day 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -351,10 +351,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 341 | [Never Let You Go \(feat\. Ryan Tedder\)](https://open.spotify.com/track/74jWtkE4yrDbwukyjgf3SO) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [Strange Clouds](https://open.spotify.com/album/7qqCw47pAWFzhwTpVRd0zE) | 4:20 |
 | 342 | [Your Touch](https://open.spotify.com/track/5ZYzaROQcMP8xRqS1IFbvg) | [Blake Lewis](https://open.spotify.com/artist/4H6tLRh1nuIuVxHtXo68ZE) | [Portrait of a Chameleon](https://open.spotify.com/album/3zDwRMZFU40RY48WK85PtX) | 3:53 |
 | 343 | [DJ Tonight](https://open.spotify.com/track/7MfjEJUoVDLgFTHFBvxjOI) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Rewind](https://open.spotify.com/album/3yHHbz0wapmu6xF82vHkCU) | 3:47 |
-| 344 | [Get Mine](https://open.spotify.com/track/67aM9AJ569kEdJSLBIiOTz) | [DAVIS](https://open.spotify.com/artist/1Nejskv080HulTwcWnNPUr) | [Crooked Finger](https://open.spotify.com/album/0CyVbusmbDNR7nnJ84DyRu) | 3:32 |
-| 345 | [Colors](https://open.spotify.com/track/2UyZTPrWFSMysY9cVVjmaB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My \(Deluxe\)](https://open.spotify.com/album/6p01JdkB7ry8iAf4IuC1Lv) | 3:51 |
-| 346 | [Take It Out On Me](https://open.spotify.com/track/7lISY14A9I1w3m7to2kWv1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:27 |
-| 347 | [In Your Eyes](https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [In Your Eyes](https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa) | 3:36 |
+| 344 | [In Your Eyes](https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [In Your Eyes](https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa) | 3:36 |
+| 345 | [Get Mine](https://open.spotify.com/track/67aM9AJ569kEdJSLBIiOTz) | [DAVIS](https://open.spotify.com/artist/1Nejskv080HulTwcWnNPUr) | [Crooked Finger](https://open.spotify.com/album/0CyVbusmbDNR7nnJ84DyRu) | 3:32 |
+| 346 | [Colors](https://open.spotify.com/track/2UyZTPrWFSMysY9cVVjmaB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My \(Deluxe\)](https://open.spotify.com/album/6p01JdkB7ry8iAf4IuC1Lv) | 3:51 |
+| 347 | [Take It Out On Me](https://open.spotify.com/track/7lISY14A9I1w3m7to2kWv1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:27 |
 | 348 | [Hello World \- Song of the Olympics™](https://open.spotify.com/track/5Y9HJkaDmUlIfgNZzUYd5x) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Hello World \(Song of the Olympics™\)](https://open.spotify.com/album/2BVhJV5jYUfHz1AffRqvDJ) | 2:31 |
 | 349 | [We Made It Look Easy](https://open.spotify.com/track/54nIYP6OEPd42waWV7YiPG) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Forever](https://open.spotify.com/album/2MCqgJGGIXwh9YhZFtwwXW) | 3:15 |
 | 350 | [Go Up \- Butch Remix](https://open.spotify.com/track/2SkmHcU5pmRjAjBZrrJr9f) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy), [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Butch](https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv) | [Go Up](https://open.spotify.com/album/5jzl69ER7BIDr8JopNs7Z2) | 7:11 |
@@ -522,4 +522,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 512 | [Fantastic](https://open.spotify.com/track/2Qs9CZcvOzVcHFhP64eEvP) | [pupculture](https://open.spotify.com/artist/5hJodDOgnJhYazwIDUTWPH) | [Fantastic](https://open.spotify.com/album/4EVmjvtGfqzswP65AxA6hV) | 3:03 |
 | 513 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `AcWFBAAAAAAVTKsOI8RiF9/7/Z6zW3vK`
+Snapshot ID: `AcWKpAAAAAC/O85DMUTahpgnI+gtR4eP`

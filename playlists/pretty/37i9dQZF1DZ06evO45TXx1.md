@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,107 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,109 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 46 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 |
 | 47 | [Rude](https://open.spotify.com/track/3SNjK2Lcy8CaPnWwXZ9Py7) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Vitin.wav](https://open.spotify.com/artist/4dVWrqP3FM2o5Bcocsrvwp), [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [44](https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna) | 2:43 |
 | 48 | [Donas do Jogo 2](https://open.spotify.com/track/2U9UpFV2WEjoAs9TqEb2ah) | [Tropa do Bruxo](https://open.spotify.com/artist/4s3lxX76LwxzMdQEAFYdzv), [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [Donas do Jogo 2](https://open.spotify.com/album/5qq7LHmULVuDcxlGLSE7Qo) | 3:17 |
-| 49 | [Última Vez](https://open.spotify.com/track/1LvQdwrgWZygPoAes28AbJ) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/6OFfysBJenNRYfO66nDfVX) | 1:50 |
-| 50 | [NO PRIMEIRO ENCONTRO](https://open.spotify.com/track/1lS6UNDx1Mw1qw8eUFRJ8H) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [NO PRIMEIRO ENCONTRO](https://open.spotify.com/album/6HFwrm0TlWUehB6u8dVNdQ) | 2:27 |
+| 49 | [NO PRIMEIRO ENCONTRO](https://open.spotify.com/track/1lS6UNDx1Mw1qw8eUFRJ8H) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Dj Chadin do C](https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C) | [NO PRIMEIRO ENCONTRO](https://open.spotify.com/album/6HFwrm0TlWUehB6u8dVNdQ) | 2:27 |
+| 50 | [Última Vez](https://open.spotify.com/track/1LvQdwrgWZygPoAes28AbJ) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY) | [Maldita](https://open.spotify.com/album/6OFfysBJenNRYfO66nDfVX) | 1:50 |
 
-Snapshot ID: `akhNAAAAAACvoQux9wiO+89dMLAqeuy+`
+Snapshot ID: `akmegAAAAAA7q8voBxjFKiWH44btHSjd`

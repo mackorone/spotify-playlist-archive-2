@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 184864,
+  "num_followers": 184885,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAADEbq6g1DNLbZpmuNeXCzls",
+  "snapshot_id": "akmegAAAAAAFukmymVxFvQY4WvpAjCKX",
   "tracks": [
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Se Llevan Serenatas (Deluxe)",
-        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        }
-      ],
-      "duration_ms": 189869,
-      "name": "SARGENTO",
-      "url": "https://open.spotify.com/track/4zi3rwIYv1Q6slxn620w8P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Y Si Me Miran",
         "url": "https://open.spotify.com/album/4nYKIcuFytcL6fFXrWFO5R"
       },
@@ -883,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE GB",
-        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 181503,
-      "name": "Sad Loqueron",
-      "url": "https://open.spotify.com/track/1VykDC2twhsRrlhgxJHKRZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amarre",
         "url": "https://open.spotify.com/album/1BeOknqcvlpCNhFDdc3E14"
       },
@@ -915,6 +879,42 @@
       "duration_ms": 179706,
       "name": "Amarre",
       "url": "https://open.spotify.com/track/2usxrgFyz7GjlmaE9ExlSp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 181503,
+      "name": "Sad Loqueron",
+      "url": "https://open.spotify.com/track/1VykDC2twhsRrlhgxJHKRZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Se Llevan Serenatas (Deluxe)",
+        "url": "https://open.spotify.com/album/6lcbUFZ3ws3Qjf9swuakMO"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        }
+      ],
+      "duration_ms": 189869,
+      "name": "SARGENTO",
+      "url": "https://open.spotify.com/track/4zi3rwIYv1Q6slxn620w8P"
     },
     {
       "added_at": null,

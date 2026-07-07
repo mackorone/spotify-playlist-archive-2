@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 
 > This is NOFX\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,732 likes - 50 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,734 likes - 50 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2RgxsA.md) - [plain]
 | 49 | [THE PUNISHER \(feat\. El Hefe of NOFX\)](https://open.spotify.com/track/6eDJGOPWshWzPiWbSiWwdD) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM), [El Hefe](https://open.spotify.com/artist/0hI2YqWLM3FyAj4Moa1E0X), [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [NINE LIVES](https://open.spotify.com/album/4UEpTKPsOwn4OVroUZa7Sq) | 2:31 |
 | 50 | [She's Nubs](https://open.spotify.com/track/04ufgAK1Fo9Ns7VWHDQPXr) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [The War on Errorism](https://open.spotify.com/album/37cQZsmKwCUyTozX2HHgnQ) | 2:05 |
 
-Snapshot ID: `akhNAAAAAAD78/wpZZW4Bkhi0zJbqrkq`
+Snapshot ID: `akmegAAAAAAFIBkW8cPC+SOHKp3MaF8L`

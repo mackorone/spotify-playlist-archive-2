@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAADK2Q7u0rNQkEuGIbJXZch/",
+  "snapshot_id": "akmegAAAAACpw03gXd1X6VyJjq4ZvsOH",
   "tracks": [
     {
       "added_at": null,
@@ -387,22 +387,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Only Had A Brain",
-        "url": "https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI"
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/4semmJ7mprNnU8m2MfucQc"
       },
       "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 190026,
-      "name": "If I Only Had A Brain",
-      "url": "https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ"
+      "duration_ms": 220036,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/1udQp57vbo5jO2mlHzjayK"
     },
     {
       "added_at": null,
@@ -439,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/4semmJ7mprNnU8m2MfucQc"
+        "name": "If I Only Had A Brain",
+        "url": "https://open.spotify.com/album/6WbJIiI28ywruLL8J6q1AI"
       },
       "artists": [
+        {
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 220036,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/1udQp57vbo5jO2mlHzjayK"
+      "duration_ms": 190026,
+      "name": "If I Only Had A Brain",
+      "url": "https://open.spotify.com/track/1LE5di076Adc2XD45R90gJ"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 275198,
+      "name": "Save Me From You",
+      "url": "https://open.spotify.com/track/7dfzkJizZp2oIOWfiRSs6w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Access All Areas",
         "url": "https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 160289,
       "name": "Intro (feat. Cynthia Erivo)",
       "url": "https://open.spotify.com/track/63eoy4e3b9uSh8g79fhnWc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 275198,
-      "name": "Save Me From You",
-      "url": "https://open.spotify.com/track/7dfzkJizZp2oIOWfiRSs6w"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Forgive You",
         "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 207750,
       "name": "Best For Me",
       "url": "https://open.spotify.com/track/1zyCndCb7MukzzGlhhuz4E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Times At The El Royale (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/61RD050Ag1j9bhnGI1Hc1f"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/2hbx1CTHTETXS3BFszVQcO"
     },
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 207500,
+      "name": "Worst Of Me",
+      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 234731,
       "name": "The Color Purple (Reprise)",
       "url": "https://open.spotify.com/track/4v92TDdqX3VlFyeEA5sOfy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Worst Of Me",
-      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
     },
     {
       "added_at": null,
@@ -715,6 +715,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 181696,
+      "name": "How I Could Fall",
+      "url": "https://open.spotify.com/track/4vVUwDdVE0v3FqHy4Aya5Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When You Believe",
         "url": "https://open.spotify.com/album/5GsYME9CdX571wxD1WgLvi"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 247997,
       "name": "When You Believe",
       "url": "https://open.spotify.com/track/3j4uq0VAGJcrsouND9kSe4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 181696,
-      "name": "How I Could Fall",
-      "url": "https://open.spotify.com/track/4vVUwDdVE0v3FqHy4Aya5Y"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Forgive You",
+        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 193755,
+      "name": "Play The Woman",
+      "url": "https://open.spotify.com/track/3nWM5n7AIUPZ5LyVmNOhtt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Color Purple (New Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/2bzQfE92hKUBxYiNkFTq5W"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 237387,
       "name": "What About Love?",
       "url": "https://open.spotify.com/track/6QY1bfRkcQyvzkPqf0fsYN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Forgive You",
-        "url": "https://open.spotify.com/album/4FpWxfojxH2a3S5OBrMYoj"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 193755,
-      "name": "Play The Woman",
-      "url": "https://open.spotify.com/track/3nWM5n7AIUPZ5LyVmNOhtt"
     },
     {
       "added_at": null,

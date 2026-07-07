@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Chronicle",
+        "url": "https://open.spotify.com/album/3QojesQHL8iwoOUoQxC7qo"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u539f\u3086\u3044\u5b50",
+          "url": "https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Chronicle",
+      "url": "https://open.spotify.com/track/06kgBaPIYJkaPDoSMj1vPL"
+    },
+    {
+      "album": {
         "name": "Clover",
         "url": "https://open.spotify.com/album/6UWQBenrl3MkzGcQDXL5Pd"
       },
@@ -146,6 +164,24 @@
       "duration_ms": 142500,
       "name": "Critical The Situation",
       "url": "https://open.spotify.com/track/3sTL8fhsYM9JP6CdIDlPjC"
+    },
+    {
+      "album": {
+        "name": "Ketsui no Uta",
+        "url": "https://open.spotify.com/album/65iDfm5MMg21JIyDiUVg9o"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u539f\u3086\u3044\u5b50",
+          "url": "https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Ketsui no Uta",
+      "url": "https://open.spotify.com/track/4lOOJXa8XJWOmT5Ha3COIu"
     },
     {
       "album": {
@@ -664,7 +700,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 191500,
       "name": "\u30ed\u30ad\u30b7\u30fc\u306e\u512a\u3057\u3055",
       "url": "https://open.spotify.com/track/5o6Ch6DmnCAUX8ry8X4QGw"
@@ -1420,7 +1456,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 123500,
       "name": "\u65b0\u5c45\u63a2\u7d22",
       "url": "https://open.spotify.com/track/7Gfv6dECbT8VIEPvJLeUG8"
@@ -2050,7 +2086,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 141500,
       "name": "\u9b54\u6cd5\u9663",
       "url": "https://open.spotify.com/track/3sjb9caXes3A6JdcdE5HMs"

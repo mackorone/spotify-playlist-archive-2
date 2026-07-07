@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "The hottest songs you need to listen to right now. Cover: Gracie Abrams",
+  "description": "The hottest songs you need to listen to right now. Cover: sunkis, FLO",
   "name": "It's a Hit!",
   "tracks": [
     {
@@ -3176,7 +3176,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 216627,
       "name": "CANDLELIGHT",
       "url": "https://open.spotify.com/track/7K5ja3WY99gt31S5fhhaMk"
@@ -5266,6 +5266,24 @@
       "duration_ms": 199876,
       "name": "Dream As One - from Avatar: Fire and Ash",
       "url": "https://open.spotify.com/track/0OY2nTgPGvyOS3MR1hJES3"
+    },
+    {
+      "album": {
+        "name": "Dream Crusher",
+        "url": "https://open.spotify.com/album/4j46N6lkPvW9secveo1y6u"
+      },
+      "artists": [
+        {
+          "name": "Daniel Seavey",
+          "url": "https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235943,
+      "name": "Dream Crusher",
+      "url": "https://open.spotify.com/track/6WOoArvGAUJlYWR4qg9oos"
     },
     {
       "album": {
@@ -7694,6 +7712,24 @@
       "duration_ms": 113230,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/4a4KvRWGEUaslwPzpVvJij"
+    },
+    {
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
       "album": {
@@ -12189,6 +12225,24 @@
     },
     {
       "album": {
+        "name": "Love Like A Hobby",
+        "url": "https://open.spotify.com/album/4FhYzCXg5OeNGBT0NvjVvg"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222614,
+      "name": "Love Like A Hobby",
+      "url": "https://open.spotify.com/track/3Ce2UwnIE9clxZp94hkAGp"
+    },
+    {
+      "album": {
         "name": "Love Like This",
         "url": "https://open.spotify.com/album/2vPe5MKYCOM31HqnY0uZEw"
       },
@@ -12700,7 +12754,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 155004,
       "name": "Man of the House",
       "url": "https://open.spotify.com/track/4j3tybPIKiCmp1Zm2hLD9Z"
@@ -13432,7 +13486,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 193000,
       "name": "Motto",
       "url": "https://open.spotify.com/track/3H82Jpo0SI3UvWP6Ol8mWn"
@@ -15831,6 +15885,28 @@
     },
     {
       "album": {
+        "name": "Pretty Eyes",
+        "url": "https://open.spotify.com/album/1XqkZ8GL8MHY3RG5B6IXBZ"
+      },
+      "artists": [
+        {
+          "name": "sunkis",
+          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
+        },
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189469,
+      "name": "Pretty Eyes (feat. FLO)",
+      "url": "https://open.spotify.com/track/7CVAj2VLKIQQjFTTd3nYh5"
+    },
+    {
+      "album": {
         "name": "Sincerely: P.S.",
         "url": "https://open.spotify.com/album/0lnZiBZPbGiBuNrMy25Yux"
       },
@@ -16848,7 +16924,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 168771,
       "name": "Sad Girls",
       "url": "https://open.spotify.com/track/7zeA0H3xPqjtft7PWjH5ot"

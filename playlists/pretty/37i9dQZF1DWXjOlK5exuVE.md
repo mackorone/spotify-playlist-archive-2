@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 
 > Historias que hacen historia\. Beto Quintanilla en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,375 likes - 131 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,488 likes - 131 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjOlK5exuVE.md) - [plain]
 | 130 | [El Panamá West](https://open.spotify.com/track/2ifRNH5dVcY2wW5Z3YDiUd) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Me Traes de un Ala](https://open.spotify.com/album/3us0ln0heM9tVS0EGihj1y) | 2:31 |
 | 131 | [El Alegre De Tecolotes](https://open.spotify.com/track/5qtUiVIhv3BzhqPNydxhR4) | [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Con Las Que Me Dan Sed](https://open.spotify.com/album/10y0rNFr00Z21OVpB9bbE8) | 3:27 |
 
-Snapshot ID: `AAAAAKV7nPO50nGg+1N7nl/O0dNHoPMz`
+Snapshot ID: `AAAAAAalKmX3t6KYJCJnAMGSA1LB+T9t`

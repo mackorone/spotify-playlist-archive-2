@@ -12826,7 +12826,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 191888,
       "name": "SAVE YOUR HEART",
       "url": "https://open.spotify.com/track/1OapSRCeIO6x802zzQbg5R"
@@ -17654,6 +17654,24 @@
       "duration_ms": 195074,
       "name": "\u30ae\u30ea\u30b9\u30c8\uff01",
       "url": "https://open.spotify.com/track/44uiC9r2lNtWHMx3yp5qDg"
+    },
+    {
+      "album": {
+        "name": "\u30b0\u30c3\u30bf\u30a4\u30e0",
+        "url": "https://open.spotify.com/album/0ipnPh5eIiWftThZl0CL11"
+      },
+      "artists": [
+        {
+          "name": "Snow Man",
+          "url": "https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201293,
+      "name": "\u30b0\u30c3\u30bf\u30a4\u30e0",
+      "url": "https://open.spotify.com/track/0bC8wYBhXCynw1Jt6QgMrg"
     },
     {
       "album": {

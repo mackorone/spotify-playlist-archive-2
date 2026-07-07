@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-391 songs - 23 hr 35 min
+396 songs - 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Dark Echoes](https://open.spotify.com/track/3j0Qf4nRfVn16Q7cWQI4HK) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [The Winter Sloths](https://open.spotify.com/album/3wjHKUaiAB5FmDqvM7s3Rr) | 3:49 | 2026-02-23 | 2026-05-17 |
 | [Dawn](https://open.spotify.com/track/1e8P6fOEsD7BiL90I44SvV) | [Esto](https://open.spotify.com/artist/5cmFrTgCBXRON8kjkHUZE3) | [Dawn](https://open.spotify.com/album/3TtpnGvEcJIZXR0Gzyivgw) | 4:05 | 2025-11-20 | 2025-12-12 |
 | [Dayglo](https://open.spotify.com/track/3QQFWRQrpvM4O1EioIQomK) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo](https://open.spotify.com/album/6FAdnYTdRTjBlFlLljiKb7) | 3:43 | 2025-11-17 |  |
+| [deceived](https://open.spotify.com/track/5wYc5u1J7qUjmwLiHJRGZG) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [deceived](https://open.spotify.com/album/4RntmhyWWyLjAWdfOI3Fth) | 2:24 | 2026-07-06 |  |
 | [December Fields \(Distribution\)](https://open.spotify.com/track/4bddpe4brO09lyHpE7lb9N) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [December Fields](https://open.spotify.com/album/2aRIUc4AfB3f7FKwqH7MZq) | 4:06 | 2025-12-24 | 2026-01-21 |
 | [Deep End](https://open.spotify.com/track/0gqElVc5uE7vMDD10MSA1d) | [Early Exit](https://open.spotify.com/artist/2Ja88B9uPMQsjv6VtQiQt3) | [Deep End](https://open.spotify.com/album/036WIs8gZARURbPzsx82od) | 3:38 | 2026-02-09 | 2026-03-05 |
 | [Desert is blind](https://open.spotify.com/track/5H8nFIaeVEmLLGZriXwC8T) | [Khoora](https://open.spotify.com/artist/2SEpC1uryEwjK4RxLtxZlY) | [Desert is blind](https://open.spotify.com/album/2mzEWMMSS4pH88svJWzbwD) | 4:01 | 2025-09-17 | 2025-12-12 |
@@ -125,7 +126,9 @@
 | [Freedom at Last](https://open.spotify.com/track/0dyuCmxRKe05ag9qmY7IZ3) | [poliester](https://open.spotify.com/artist/5EBtUpLChJomEjgY0xIGhX) | [Freedom at Last](https://open.spotify.com/album/4m6FgfAHPZ15OVE2YaijKF) | 3:37 | 2025-09-23 | 2026-03-05 |
 | [Full silver moon](https://open.spotify.com/track/3JvLUOuPjpb47ccTsUmNCQ) | [Estirga](https://open.spotify.com/artist/1EDF6bTjidf7Ktk5O9eLId) | [Fuego y Luz](https://open.spotify.com/album/3iroCJZy7UF2ZrNRGd4Nbe) | 3:24 | 2026-03-11 |  |
 | [Geister](https://open.spotify.com/track/2tT3k5a3U87GPpKgbWptRT) | [Elektrosauna](https://open.spotify.com/artist/031hMoHlvGjXfQusuM62pi) | [Geister](https://open.spotify.com/album/4lgWWLPTSCyNn6zS73Y5KX) | 6:10 | 2026-01-11 | 2026-02-02 |
+| [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 | 2026-07-07 |  |
 | [Get Off Of My Cloud](https://open.spotify.com/track/5N3VxvgdJmlSyiV9flCXui) | [The Lollygags](https://open.spotify.com/artist/2i8RjASHxZLub8hlOOHl6t) | [Old, New, Borrowed II](https://open.spotify.com/album/7CthUBkd402HAdNsO7NeFi) | 3:18 | 2026-06-02 |  |
+| [Ghost in the Machine](https://open.spotify.com/track/4FpzYZW8n0ACFuqPbgYVHY) | [Dan Folland](https://open.spotify.com/artist/0LCVaqmDMsBXKbN8JINKFu) | [Ghost in the Machine](https://open.spotify.com/album/4odVoAJovnpjem0S5Fx0Oy) | 3:10 | 2026-07-07 |  |
 | [Glimpse](https://open.spotify.com/track/6gLTJWbw0uEtvQi128RsdR) | [Field of View](https://open.spotify.com/artist/77F2OeJqiPVTeAwBeu2gxG) | [In My Own Way](https://open.spotify.com/album/5eBSKHjtj9mFF6QwkKYYBi) | 2:30 | 2026-04-04 | 2026-05-26 |
 | [Gone Awry](https://open.spotify.com/track/2We4lOzgkM0uYxZocdXFxi) | [Giovanna](https://open.spotify.com/artist/0M3Vi97ia6awVNTvokryET) | [Gone Awry](https://open.spotify.com/album/5b50EagpfyNurHOndqK3v5) | 3:52 | 2026-05-21 |  |
 | [Good Dreams](https://open.spotify.com/track/0z2V3roWgX3rZERtuA6Vrr) | [OvniS](https://open.spotify.com/artist/1rtkMSxBfSbeWPUxsWWUCh) | [Humano\-Alien](https://open.spotify.com/album/6cUJRgKLTiYSKjrb5IFTSJ) | 3:54 | 2025-12-20 | 2026-01-21 |
@@ -239,6 +242,7 @@
 | [O Porquê da Gente](https://open.spotify.com/track/2yIyOZl5bB3kegbd6956l2) | [Tonni Moraes](https://open.spotify.com/artist/33la62weFFmj1cr8J1yuFb) | [O Porquê da Gente](https://open.spotify.com/album/0F6WDXwR0QGoRrZQtdwtqW) | 3:54 | 2025-12-31 | 2026-01-21 |
 | [Objects in the Mirrors](https://open.spotify.com/track/7FgMPd1QmYQlcCTu2yMum3) | [The Paperbags](https://open.spotify.com/artist/0xWOcjzU2TvVdqM6pmsMJk) | [Objects in the Mirrors](https://open.spotify.com/album/5iZG0EZiKBMSlomcPjxdVF) | 4:23 | 2026-03-17 | 2026-04-15 |
 | [Of a Beautiful Dream](https://open.spotify.com/track/48T7NGSrmgHx40d3H3Iwl6) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Of a Beautiful Dream](https://open.spotify.com/album/7q1s3GZxJQ6CMES2udqaue) | 2:52 | 2026-04-06 | 2026-05-26 |
+| [Oh Come On!](https://open.spotify.com/track/2eao3HIlNiWH47YXbUDbYO) | [Your Friend Death](https://open.spotify.com/artist/2wFQuwL5t22Xi117f8nzRx) | [Oh Come On!](https://open.spotify.com/album/2HGuF5sdOMdRCGnd2EJCWB) | 3:07 | 2026-07-06 |  |
 | [Oh Lord \- DEMO](https://open.spotify.com/track/5B7Z958xoP5tSH4PAP0zwF) | [Lucy Benedetti](https://open.spotify.com/artist/1WKuen7Let4lgNPiKDVfl7) | [Oh Lord \(DEMO\)](https://open.spotify.com/album/3MNsjdaUPWdVKKMPXgj70g) | 3:36 | 2025-12-28 | 2026-01-21 |
 | [Old Sweat](https://open.spotify.com/track/17RHFuUZb9CrGjB4y8h4KJ) | [Manitou](https://open.spotify.com/artist/36i9KKE23xsb5zr83GjfXS) | [Old Sweat](https://open.spotify.com/album/4lsnFTfPKk4YwTGGiBdRKe) | 3:05 | 2025-11-08 | 2025-12-06 |
 | [Once Again](https://open.spotify.com/track/5q8E8juSKUKfmWMlcQbjcs) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Subtle Love](https://open.spotify.com/album/3PR6WtuBxwmWtFmOaCbIej) | 3:51 | 2026-03-05 | 2026-03-26 |
@@ -270,6 +274,7 @@
 | [Quiet selfish man](https://open.spotify.com/track/6p3083SoZOwB1oJuZtpQ0a) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3), [Hana Pavšič](https://open.spotify.com/artist/1zLtkHyi57e4iXlcFXyGLc) | [Quiet selfish man](https://open.spotify.com/album/3yBRhxOp9X7DLpEQVbzJ6q) | 3:55 | 2026-03-19 | 2026-04-15 |
 | [Rain Falls In The Night.](https://open.spotify.com/track/7BZCcc8ehQu34C5wD0qtvZ) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Rain Falls In The Night.](https://open.spotify.com/album/6qNaBCOTlr5tsFe5rxsQY8) | 4:16 | 2026-04-06 |  |
 | [Rarin 2 Go](https://open.spotify.com/track/4Dk2rnFHeevPMNXOSHwOFG) | [Gran Fenwick](https://open.spotify.com/artist/0VEN5dR1HedhA1jEGYMRcz) | [Rarin 2 Go](https://open.spotify.com/album/3YcjoAKw196XeiA03g1CVr) | 4:16 | 2026-03-31 |  |
+| [Realise](https://open.spotify.com/track/0Db0iPyGKZv4w4fBaIfs4g) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Realise](https://open.spotify.com/album/5NUO2ci09fmOZhe7dRfVxs) | 3:07 | 2026-07-06 |  |
 | [Recuerdo de que alguna vez me dijiste que estabas mejor lejos que conmigo \(No es tan difícil\)](https://open.spotify.com/track/7c3n6e35HWPu8jFZsGP2ZD) | [Los No Muertos](https://open.spotify.com/artist/10DyxVqQ1e1PaEsmZujjSE) | [Recuerdo de que alguna vez me dijiste que estabas mejor lejos que conmigo \(No es tan difícil\)](https://open.spotify.com/album/6g7hoVgjQPhWLuXDiQlK1T) | 4:52 | 2026-06-09 |  |
 | [Reflection](https://open.spotify.com/track/1xHsQvCBHhiwOipWezwwGH) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Reflection](https://open.spotify.com/album/0P5h7ui3wARfSVK8I6RGo6) | 2:40 | 2025-11-13 | 2026-05-17 |
 | [Rescue Me](https://open.spotify.com/track/3wHq81AsSq1QvLsdIhsyM8) | [Hazy Lane](https://open.spotify.com/artist/5NmnqhUJhyRm9Cp2zvhIu0) | [Rescue Me](https://open.spotify.com/album/5Omt4VUwZXFkN5xte9EqLF) | 3:50 | 2026-01-29 | 2026-02-19 |

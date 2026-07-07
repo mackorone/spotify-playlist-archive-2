@@ -4,7 +4,7 @@
 
 > The best rock songs of the moment\. Cover: PUP
 
-1,927 songs - 4 day 12 hr 31 min
+1,928 songs - 4 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,6 +413,7 @@
 | [Death of Me](https://open.spotify.com/track/1CLDmYcnUY26vloEbaWJyI) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Death of Me](https://open.spotify.com/album/7gZGPYadE5tXOLSI2U3puO) | 3:11 | 2025-02-07 | 2025-06-21 |
 | [Death Valley High](https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Death Valley High](https://open.spotify.com/album/1z4pInY9WWAOfzWklGV4cb) | 2:40 | 2024-07-12 | 2024-08-17 |
 | [debbie downer](https://open.spotify.com/track/738ea6GnnVj6w8RiiX3B47) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/6incXes5C4tio1Y08EhFJW) | 2:39 | 2022-02-11 | 2022-04-09 |
+| [Deep Blue](https://open.spotify.com/track/3GFKf9WmIJOGFw5WmNwAiQ) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [PEN I S MALL](https://open.spotify.com/album/52HIKPlRueQJLVO1XoMBHn) | 4:05 | 2026-06-12 |  |
 | [Deep Cut](https://open.spotify.com/track/1Pi8ozHOCHuH5j561Df2XI) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [American Hero](https://open.spotify.com/album/21HMENCxfw31djGv60lk88) | 3:14 | 2024-06-28 | 2024-11-16 |
 | [Deep End](https://open.spotify.com/track/2IcSuogCYSlvO7S9gG4eBo) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Deep End](https://open.spotify.com/album/7szpMHMU4ZOz5bkttY9spE) | 2:49 | 2026-05-29 | 2026-07-04 |
 | [Dehumanized](https://open.spotify.com/track/51dD8Lkie7e2ITDsB1y4Ui) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Dehumanized](https://open.spotify.com/album/3EtyZfsxMwbL7xyWAh5xPi) | 4:28 | 2026-06-26 |  |

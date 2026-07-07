@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 
 > This is Grupo Arriesgado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,087 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,089 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 8 | [Una Llamada Al Cielo](https://open.spotify.com/track/7q5rVPi26K2EfrY5GrYfqu) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Una Llamada Al Cielo](https://open.spotify.com/album/7ag9j0bMqgDaL5oSlh0fZD) | 3:33 |
 | 9 | [Enloquecido](https://open.spotify.com/track/2xVS1tIdvTjMNZuam83uiX) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/3RIOdfaWVO61obWJwEtnNv) | 3:32 |
 | 10 | [Modo Avión](https://open.spotify.com/track/2exsTwrXYMCsZfW08n249n) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Modo Avión](https://open.spotify.com/album/1F6y9lcC4AEvZPr2rJ7ttJ) | 3:05 |
-| 11 | [Celos Del Viento \(En vivo\)](https://open.spotify.com/track/68Hq2EtftSiWf5lRRfIbsc) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD) | 2:47 |
-| 12 | [El Yuko \(En vivo\)](https://open.spotify.com/track/2Q7WUNDbsHITZO54t9JSUZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM) | 3:15 |
+| 11 | [El Yuko \(En vivo\)](https://open.spotify.com/track/2Q7WUNDbsHITZO54t9JSUZ) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/5WBBN9fuNvwyKyZmwY8HxM) | 3:15 |
+| 12 | [Celos Del Viento \(En vivo\)](https://open.spotify.com/track/68Hq2EtftSiWf5lRRfIbsc) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD) | 2:47 |
 | 13 | [El Fugitivo](https://open.spotify.com/track/6s2xZ3c71UsTpgI68iw9lP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/3RIOdfaWVO61obWJwEtnNv) | 2:49 |
 | 14 | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/track/0zF4ncyttvlP9whKdkEVlh) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Sera y El Chavo \(En Vivo\)](https://open.spotify.com/album/5L6W0E2hMD2URy4uYbTOQh) | 2:57 |
 | 15 | [La Novedad](https://open.spotify.com/track/0dTEbcnrWxFuUsq0dkhHgi) | [Raúl Beltran](https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Novedad](https://open.spotify.com/album/4g1jM8LxOmRtbYAV5StdLS) | 3:29 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q5qqQ.md) - [plain]
 | 41 | [De Aqui Soy](https://open.spotify.com/track/4JB95jzbRRnCvcW4mA0Qel) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [De Aqui Soy](https://open.spotify.com/album/6LTBwWPfJVQnvMp07CP6NP) | 2:48 |
 | 42 | [El Chivo Tatemado \(En Vivo\)](https://open.spotify.com/track/7GYWEcRh7ztQJNC7JGRg72) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [A La Sombra De Un Árbol, Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/1XBHkino209lUqg5yra3wO) | 2:50 |
 | 43 | [Gustoso Y Contento \(En Vivo\)](https://open.spotify.com/track/3vD7rRP6RitDcgJxPIOns3) | [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Gustoso Y Contento \(En Vivo\)](https://open.spotify.com/album/1hcmRYDs73U5kqweVzy7vE) | 2:33 |
-| 44 | [Ya No Puedo Con Esto](https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ya No Puedo Con Esto](https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs) | 2:29 |
-| 45 | [Que las Cuartitos No Falten](https://open.spotify.com/track/6cOCAVRpC5ATUOStqdhhtP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2OM6ccQ4cHqTUhrOYXPA3V) | 2:59 |
+| 44 | [Que las Cuartitos No Falten](https://open.spotify.com/track/6cOCAVRpC5ATUOStqdhhtP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Que Las Cuartitos No Falten](https://open.spotify.com/album/2OM6ccQ4cHqTUhrOYXPA3V) | 2:59 |
+| 45 | [Ya No Puedo Con Esto](https://open.spotify.com/track/5I7jr90pZABC2IOj7ElLQO) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Ya No Puedo Con Esto](https://open.spotify.com/album/0qkgWGO8CiNBF5R4TFoPVs) | 2:29 |
 | 46 | [El Sultan](https://open.spotify.com/track/4f1M1VZzl83tWeV6CyBGLj) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Puras De Servando ZL \(En Vivo\)](https://open.spotify.com/album/1ui4Jxl8OkWi7GaKnkyYGU) | 3:15 |
 | 47 | [Los Consejos \(En vivo\)](https://open.spotify.com/track/579bSgsArdvofFwKRQgimo) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/5PGwa2q6KhQkBrQ7GbHzmD) | 2:47 |
 | 48 | [La Muchacha Del Salado](https://open.spotify.com/track/1Udcd4xgzWNli9mKrtZKbW) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Enloquecido](https://open.spotify.com/album/3RIOdfaWVO61obWJwEtnNv) | 2:49 |
 | 49 | [Aqui En Mi Corazon Tu Mandas](https://open.spotify.com/track/4mTwrsBsii8ZgwhmhAHxrP) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Los Tiempos De Aguas](https://open.spotify.com/album/3qkTV5ACxd8GmvLnt1wxtS) | 2:12 |
 | 50 | [El Rey Del Desierto](https://open.spotify.com/track/1iO6pfHqWdge88EyhGaqFE) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Rey Del Desierto](https://open.spotify.com/album/4JCudJFhG9tWtQSpeeUMo2) | 2:59 |
 
-Snapshot ID: `akhNAAAAAABwXNLNfKOxdp0hIucgCZQ7`
+Snapshot ID: `akmegAAAAACwS1AV66DQGqHcCdqcxlj4`

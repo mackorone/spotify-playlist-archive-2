@@ -1,29 +1,13 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 552834,
+  "num_followers": 552894,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAAC/cgMWs94RwnjIV8LX8dKN",
+  "snapshot_id": "akmegAAAAAAOmSqqdtS2BDnVeQ4X0W4v",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jenni",
-        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 226950,
-      "name": "Con \u00c9l",
-      "url": "https://open.spotify.com/track/7aCLtSlkFRMiPycFEEhLFA"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 186333,
       "name": "De Contrabando",
       "url": "https://open.spotify.com/track/3qIyYcE3nwAPOlXP6SSGPg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/2TJAjnZKucKaS4CKX0O4Vh"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 226950,
+      "name": "Con \u00c9l",
+      "url": "https://open.spotify.com/track/7aCLtSlkFRMiPycFEEhLFA"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 158915,
-      "name": "Trono Ca\u00eddo",
-      "url": "https://open.spotify.com/track/7EcqOfu60lF12ZSbk34SaZ"
+      "duration_ms": 245967,
+      "name": "Chuper Amigos",
+      "url": "https://open.spotify.com/track/6h8oQHda1vXeex187OLud3"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 245967,
-      "name": "Chuper Amigos",
-      "url": "https://open.spotify.com/track/6h8oQHda1vXeex187OLud3"
+      "duration_ms": 158915,
+      "name": "Trono Ca\u00eddo",
+      "url": "https://open.spotify.com/track/7EcqOfu60lF12ZSbk34SaZ"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parrandera, Rebelde y Atrevida (Deluxe)",
-        "url": "https://open.spotify.com/album/5PjhD3qNxs02Ut8149t827"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "La Mentada Contestada",
-      "url": "https://open.spotify.com/track/60mlbpRNxsypQZ9K1Igtlt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simplemente la Mejor",
         "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 224533,
       "name": "Cuando Abras los Ojos",
       "url": "https://open.spotify.com/track/7DgqG1GwFqEN5tsNpCbTEr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida (Deluxe)",
+        "url": "https://open.spotify.com/album/5PjhD3qNxs02Ut8149t827"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "La Mentada Contestada",
+      "url": "https://open.spotify.com/track/60mlbpRNxsypQZ9K1Igtlt"
     },
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paloma Negra Desde Monterrey (En Vivo)",
-        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 203619,
-      "name": "Paloma Negra - En Vivo",
-      "url": "https://open.spotify.com/track/2jAQ00aZRXdOx5j4M7Bkgz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simplemente la Mejor",
         "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 178840,
       "name": "Querida Socia",
       "url": "https://open.spotify.com/track/2RnicjjQqoaeY2YiiMxrPq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paloma Negra Desde Monterrey (En Vivo)",
+        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 203619,
+      "name": "Paloma Negra - En Vivo",
+      "url": "https://open.spotify.com/track/2jAQ00aZRXdOx5j4M7Bkgz"
     },
     {
       "added_at": null,

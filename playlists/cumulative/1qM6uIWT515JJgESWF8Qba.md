@@ -4,13 +4,14 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-279 songs - 17 hr 28 min
+282 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [188](https://open.spotify.com/track/51Pl4eyuqbLv74w3caC21w) | [Hag Roast](https://open.spotify.com/artist/7FN51i8wVHCTx72xQEOzEQ) | [188](https://open.spotify.com/album/5ZRSJkWE8UrXFkiy5S93Zx) | 3:09 | 2026-05-02 |  |
 | [7 De Octubre](https://open.spotify.com/track/3heoNXvu0MvJHVXYX4YVHs) | [Protocolo Snob](https://open.spotify.com/artist/3Csf3ay5hdK5DpzwMPdHLE) | [7 De Octubre](https://open.spotify.com/album/7bpLNnIZpr6w0CKGCzPJi7) | 2:50 | 2026-01-03 | 2026-02-02 |
 | [90 Seconds for Panic](https://open.spotify.com/track/3JUfZLz6ONsDcW6CbYucwG) | [CIRCUS](https://open.spotify.com/artist/3mpN9JFZx0JdZvr4ZWvvf9) | [A Kiss Before Dying](https://open.spotify.com/album/43HQW7GQUlQEvisvnaT2dJ) | 4:34 | 2026-05-14 | 2026-06-14 |
+| [A Million Miles Away](https://open.spotify.com/track/4rU2hKYGURP7h18SYQ0Nzf) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [A Million Miles Away](https://open.spotify.com/album/5NNokKgXWExS1Pu54fIJ6G) | 7:12 | 2026-07-07 |  |
 | [A Perfect Lie](https://open.spotify.com/track/4p9PHyzfGtugOfdbik0i8b) | [Andreas Gavlén](https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL) | [A Perfect Lie](https://open.spotify.com/album/2rvHji4MrQC3S397HaUIRc) | 3:40 | 2026-01-11 | 2026-02-23 |
 | [Abandono](https://open.spotify.com/track/067BUqecd8VIUSQV3wBeTK) | [Beta Surf](https://open.spotify.com/artist/3yIfgsG4NczWN3DjwXI9Ws) | [Tiempos De Caos](https://open.spotify.com/album/2MWM1cKyInGYbi1JAzQcNL) | 2:43 | 2025-11-11 | 2025-12-28 |
 | [Abuse Me](https://open.spotify.com/track/6pXlghlS89h0rKaOTFV6MD) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Abuse Me](https://open.spotify.com/album/4mUsCsrkgTdmleGkxP8EH1) | 3:24 | 2025-11-04 | 2025-12-28 |
@@ -91,6 +92,7 @@
 | [El Camino](https://open.spotify.com/track/45OF12sFrMP8pnK3UCrhhl) | [Superstar Nomads](https://open.spotify.com/artist/1EoRqKFEnXxQIb815UlRtJ) | [El Camino](https://open.spotify.com/album/0UNEhnKevuAa8fAfUcPN1F) | 4:30 | 2025-11-16 | 2025-12-28 |
 | [El Dilema](https://open.spotify.com/track/4agirhYgist2lFc31siLMJ) | [Jules Daud](https://open.spotify.com/artist/1tNRwa7nMv1Mn95KSxdQKI) | [El Dilema](https://open.spotify.com/album/3Sr0vFiBoB70RsDi27hjen) | 2:34 | 2025-12-01 | 2025-12-28 |
 | [Eliza](https://open.spotify.com/track/32JjgWkNFsHvnpkTw9HjkJ) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Eliza](https://open.spotify.com/album/1fdfeMzHPdAI4JmFlslw7W) | 3:09 | 2025-09-23 | 2026-03-21 |
+| [En tus ojos](https://open.spotify.com/track/5YFyngCxUk1kQhBBzuOMUC) | [Leandro Rebolini](https://open.spotify.com/artist/76nuTtg8t7JqzjcZ12NbPI) | [En tus ojos](https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL) | 4:11 | 2026-07-07 |  |
 | [Espérame](https://open.spotify.com/track/02MC4VLfrsNdMcS4gwjph1) | [Forte](https://open.spotify.com/artist/0KGiPwvoreglthW7aq0R3V) | [Espérame](https://open.spotify.com/album/3FyiS5bBxKl6zhAQi0lVZA) | 3:26 | 2025-10-11 | 2026-03-21 |
 | [Eva sin nombre](https://open.spotify.com/track/4o3uIjspoGtA5aTokB9tsT) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 3:09 | 2025-11-04 | 2025-12-28 |
 | [Everything Explode](https://open.spotify.com/track/7MVF3BaFC3cVI84CifAswf) | [Permanent Risk](https://open.spotify.com/artist/2a9KV1XmaaINFAtlKC3PYa) | [Everything Explode](https://open.spotify.com/album/6pKMeXruu16rQjbOe8rK7B) | 3:45 | 2025-11-26 | 2025-12-28 |
@@ -139,6 +141,7 @@
 | [Idun](https://open.spotify.com/track/10pE4RcZOqGPVXscREQOs7) | [Dingo](https://open.spotify.com/artist/6GOHIe6YuljpICrbzPtP7z) | [Idun](https://open.spotify.com/album/7y0Ek5WT2nIMo2MO17blCI) | 4:16 | 2025-11-04 | 2026-06-14 |
 | [If I Was God](https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [If I Was God](https://open.spotify.com/album/6zm0RfivQS2HHoyl5SdvcB) | 3:42 | 2026-03-04 |  |
 | [Ignite Devil](https://open.spotify.com/track/24MwVqGpQPebsKwXYWDvTw) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Ignite Devil](https://open.spotify.com/album/3gpO9KRIHe8Zk4qU3HFSG5) | 2:57 | 2025-11-06 | 2025-12-28 |
+| [Ikaros](https://open.spotify.com/track/41C7vXxAMx2h2kt3Q9cp1C) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Ikaros](https://open.spotify.com/album/6Qado2dLei7Ds5PNmstEc2) | 4:21 | 2026-07-06 |  |
 | [Independence](https://open.spotify.com/track/7CoTm0xHm840ZpE9s9vzgB) | [Blood and Champagne](https://open.spotify.com/artist/7eDO2dy31aFf3K4umpmwmo) | [Independence](https://open.spotify.com/album/3PC1Wr0lREzvBeHqBSyKbV) | 3:35 | 2025-11-27 | 2025-12-28 |
 | [It's Alright Amanda](https://open.spotify.com/track/5RwAIUjjWxrZGvDVcecyPb) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 3:46 | 2026-05-27 |  |
 | [It's Hard To Break Me](https://open.spotify.com/track/7GFlX4gXxCoRjpO8p7bMyy) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Ribcrasher](https://open.spotify.com/album/1p1VeLJoQlDKiK1X90QCHK) | 4:11 | 2025-09-30 | 2026-03-21 |

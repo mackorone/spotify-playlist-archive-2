@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: july-august 2026 (previous playlists archived on my profile)",
-  "num_followers": 24356,
+  "num_followers": 24355,
   "original_name": "spacked out!!!",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOgvMzJz9vjS3R7BrA7W4HFK2fvkXz",
+  "snapshot_id": "AAAOhIpcXm7On7Y5yBHx5kB8EEXo0sxS",
   "tracks": [
     {
       "added_at": "2026-07-06 01:28:22",
@@ -175,6 +175,38 @@
       "duration_ms": 254960,
       "name": "Feeling Dizzy",
       "url": "https://open.spotify.com/track/31pfOGCRJ4YHib8pur9G7X"
+    },
+    {
+      "added_at": "2026-07-06 03:30:07",
+      "album": {
+        "name": "The Story Of Sanullim Complete Studio Recordings",
+        "url": "https://open.spotify.com/album/5WD3ouTqnRZunhDuAOalWC"
+      },
+      "artists": [
+        {
+          "name": "Sanullim",
+          "url": "https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw"
+        }
+      ],
+      "duration_ms": 308626,
+      "name": "More and More and More - Instrumental",
+      "url": "https://open.spotify.com/track/4xiLAlTgImg4Nh3yG4hVnK"
+    },
+    {
+      "added_at": "2026-07-07 01:54:36",
+      "album": {
+        "name": "Cold House",
+        "url": "https://open.spotify.com/album/4f9GmceFKdzbAZHbb7XnQV"
+      },
+      "artists": [
+        {
+          "name": "Hood",
+          "url": "https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ"
+        }
+      ],
+      "duration_ms": 355613,
+      "name": "Branches Bare",
+      "url": "https://open.spotify.com/track/6MYA4C2VCiU1gqz1Dp725z"
     }
   ],
   "unique_name": "spacked out!!!",

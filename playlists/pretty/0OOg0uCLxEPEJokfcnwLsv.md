@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,119 likes - 108 songs - 6 hr 39 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,129 likes - 114 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,5 +116,11 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 106 | [Lay Me Down](https://open.spotify.com/track/6zSniKNMTVgqQIbwcp4NMG) | [Dimestore Freud](https://open.spotify.com/artist/1B7AZ6JiZQr6bflYaBD2g6) | [It's a Bit Fuzzy](https://open.spotify.com/album/2wpFHMzqhqjCKXtCCenuq4) | 2:31 |
 | 107 | [Another Life](https://open.spotify.com/track/6kUcyywiYhzavba2AZKSdm) | [Ben Trexel](https://open.spotify.com/artist/6sQxhU4AP13xu7ikPmGvZu), [Amanda Willis\-Brice](https://open.spotify.com/artist/6L76Th9R1cPMH2a2VsQMUF) | [Another Life](https://open.spotify.com/album/1k0XsNgnsoDugVwrsGhyBq) | 3:49 |
 | 108 | [Cage](https://open.spotify.com/track/3TurCW23kV3k57o4L96Y8R) | [Wave Raiders](https://open.spotify.com/artist/3gHc7IjiVFconlcRcSpXXn) | [Cage](https://open.spotify.com/album/5DwSWfbBq628mkcHtn4VaP) | 3:23 |
+| 109 | [Take It Slow](https://open.spotify.com/track/4uxCC6Ylti82OFZRYnKfA2) | [Saturday Night Vacancy](https://open.spotify.com/artist/0DTM6PJDosHIUwTj2e2dHU) | [Take It Slow](https://open.spotify.com/album/42PtlSIKiTLcqlVdEgmQRo) | 3:35 |
+| 110 | [Infectious](https://open.spotify.com/track/3p2ikRjARPokez7R61CUe9) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Infectious](https://open.spotify.com/album/0gL0fHZvzwODSW0jOJ9BMP) | 4:02 |
+| 111 | [Sick!](https://open.spotify.com/track/2A00B4SjJEASXKfu4zJ8c8) | [Pet Taxi](https://open.spotify.com/artist/2nQkFrDhzQcQVI2ZIW8n5A) | [Sick!](https://open.spotify.com/album/1lXKY85pNjdwFbkpAy4Nj5) | 2:59 |
+| 112 | [You Think You've Got It](https://open.spotify.com/track/0yMfVMcr9vOBhWj3iU7O8f) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Renegade](https://open.spotify.com/album/3vYFD37Z4kBwKK9VypycbE) | 4:31 |
+| 113 | [Dirt Floor](https://open.spotify.com/track/4yDBUJz9ILXz9CtojpyzQU) | [Graveyard Choir](https://open.spotify.com/artist/0RtF7RdYO3Jfhmw0JQSmX2) | [Dirt Floor](https://open.spotify.com/album/0dZj8stSDgbnelvEhYq6Fy) | 4:10 |
+| 114 | [Every Time I Look At You](https://open.spotify.com/track/1iOynYeos1FxRg826Amytc) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [Every Time I Look At You](https://open.spotify.com/album/5B6nQwn021EAFMgZpcWfNy) | 4:20 |
 
-Snapshot ID: `AAAGkfwkYrYp+Mm0L8zUIC/pjuZ9k9CO`
+Snapshot ID: `AAAGlxJtRHiPe0KLJbK6xE5sJh/bDlXj`

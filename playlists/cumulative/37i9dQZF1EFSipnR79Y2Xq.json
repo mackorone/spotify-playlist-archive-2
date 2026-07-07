@@ -1714,10 +1714,28 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 152337,
       "name": "No Que No",
       "url": "https://open.spotify.com/track/2PBZeVvkiZ1VZef46e9hRr"
+    },
+    {
+      "album": {
+        "name": "Por el puro gusto",
+        "url": "https://open.spotify.com/album/0teGppVU0P5u4ru75LvTrc"
+      },
+      "artists": [
+        {
+          "name": "Porte De Reyes",
+          "url": "https://open.spotify.com/artist/2OPzZenul0qNHyijxPfi2d"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "No que no",
+      "url": "https://open.spotify.com/track/0S3JIABbtTvtxBdsxjzo5u"
     },
     {
       "album": {

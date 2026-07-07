@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-1,833 songs - 3 day 21 hr 47 min
+1,834 songs - 3 day 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1088,6 +1088,7 @@
 | [More To Life](https://open.spotify.com/track/2V0IwUfEQaDvVYlUAsz3nk) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [More To Life](https://open.spotify.com/album/1qyll2DNY9P9C0JWw8hyCn) | 2:48 | 2025-08-14 | 2025-09-19 |
 | [More to Lose](https://open.spotify.com/track/2xAHKs8W4lcOLweTCAPUbF) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [More to Lose](https://open.spotify.com/album/00YhOpwh4N9I5ItJP8C6pc) | 4:35 | 2025-05-08 | 2025-06-13 |
 | [Morena](https://open.spotify.com/track/4RsUWrDd0Lxwt3oRehY6FW) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Morena](https://open.spotify.com/album/2Ek5tJoeZq7mqe4eoFuxmD) | 2:36 | 2025-03-27 | 2025-05-02 |
+| [MORNING DEW \(DONK\)](https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [MORNING DEW \(DONK\)](https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ) | 4:03 | 2026-07-06 |  |
 | [Mosquito](https://open.spotify.com/track/7mb5hu425gAKIq9b8j386T) | [KAJ](https://open.spotify.com/artist/4blbIMKwfzTxHGvN0Est1t) | [Mosquito](https://open.spotify.com/album/37pxUdSwqMJt2ZdeTmk0T0) | 2:24 | 2025-07-03 | 2025-09-05 |
 | [Most Wanted](https://open.spotify.com/track/6HCuHO6mo1IHkVFP3MYhGc) | [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Most Wanted](https://open.spotify.com/album/3aYuquvInx2lScw9Nec6bP) | 2:15 | 2026-01-15 | 2026-02-27 |
 | [Move \(feat\. Camila Cabello & Malachiii\)](https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC) | [Move \(feat\. Camila Cabello & Malachiii\)](https://open.spotify.com/album/1Jo5dOD8bFEWnPIXKlORVp) | 3:00 | 2024-10-10 | 2024-11-23 |

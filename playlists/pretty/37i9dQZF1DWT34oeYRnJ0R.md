@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: J Balvin, Ryan Castro
 
-[Spotify](https://open.spotify.com/user/spotify) - 650,724 likes - 205 songs - 10 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 650,635 likes - 205 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 6 | [Exmaquina](https://open.spotify.com/track/3d0LfxFm4FvW0RE1oZkdBV) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Exmaquina](https://open.spotify.com/album/3R4W7oN6SdG6HzX4PIFvTm) | 3:08 |
 | 7 | [GRIS](https://open.spotify.com/track/1Q9ifKELZUqYAE5LULgZsa) | [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [GRIS](https://open.spotify.com/album/0vBrh1jsMoziMb0V1hKhXs) | 3:00 |
 | 8 | [ALMA](https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:56 |
-| 9 | [siempRE te pienso](https://open.spotify.com/track/0h4j0370l60eGeUOVOOgRU) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [siempRE te pienso](https://open.spotify.com/album/33HbQ8Az3usBCUoQKaUxiH) | 3:19 |
+| 9 | [SIEMPRE TE PIENSO](https://open.spotify.com/track/0h4j0370l60eGeUOVOOgRU) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [SIEMPRE TE PIENSO](https://open.spotify.com/album/33HbQ8Az3usBCUoQKaUxiH) | 3:19 |
 | 10 | [New Things](https://open.spotify.com/track/031ZcJo8TyET61X2gdghf5) | [Dariel Amant](https://open.spotify.com/artist/6OWA7HFYDoWkb1iv31uwMo) | [El Amante](https://open.spotify.com/album/1PaBmH1vaPr6H8I4OHMHyG) | 3:01 |
 | 11 | [LAGUNA](https://open.spotify.com/track/4kEnA76OKHUTmaboAldpUD) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Rowma](https://open.spotify.com/artist/2g440R2CL7PYuRIO0TYPOO) | [LAGUNA](https://open.spotify.com/album/5Z2MSxzYBr2BS33MfwwbIK) | 2:40 |
 | 12 | [D U L C E](https://open.spotify.com/track/5wJyNrj7pygsFIwqsO5jjX) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [D U L C E](https://open.spotify.com/album/6L9ASSKb4Y5vRmNTJqRfMV) | 3:12 |

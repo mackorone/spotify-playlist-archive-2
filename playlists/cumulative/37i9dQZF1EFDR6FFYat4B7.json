@@ -2754,6 +2754,28 @@
     {
       "album": {
         "name": "Kaskade Christmas",
+        "url": "https://open.spotify.com/album/2bkugzxUH3aBnegDycQ5qO"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Ilsey",
+          "url": "https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230426,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/2dgstwHKNInVza4lKXKzzg"
+    },
+    {
+      "album": {
+        "name": "Kaskade Christmas",
         "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
       },
       "artists": [
@@ -2768,7 +2790,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 230426,
       "name": "Silent Night (feat. Ilsey)",
       "url": "https://open.spotify.com/track/319QeKXVvPyCO82wqMnvDG"

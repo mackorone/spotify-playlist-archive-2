@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! July ambassador: <a href="spotify:artist:7c4xb6WHJ6NhTQqgTQnbDN">IDA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,290 likes - 75 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,303 likes - 75 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -49,7 +49,7 @@
 | [The Void](https://open.spotify.com/track/007mKIn7XPKaX4XtBDSOSP) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [The Raincoats](https://open.spotify.com/album/190Tx9jPHndq0qUlq79BJJ) | 3:51 | 2026-03-07 | 2026-05-08 |
 | [Truth is Hard](https://open.spotify.com/track/7zJHS8S6m7TPR6BJnnwGr6) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 2:57 | 2026-03-07 | 2026-06-16 |
 | [We Smile](https://open.spotify.com/track/6xiSUqGrrHHGt1EqHEN2QQ) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Extended Play](https://open.spotify.com/album/0EJrFovu6DatDZfwGbMFgG) | 3:17 | 2026-03-07 |  |
-| [You Ask Why](https://open.spotify.com/track/3bu7gq8IUdQddACLYOMbQH) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:58 | 2026-06-25 | 2026-07-06 |
-| [You Kill Me](https://open.spotify.com/track/292TBhjrQJ4EqFeddoB4Ux) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:58 | 2026-03-07 |  |
+| [You Ask Why](https://open.spotify.com/track/3bu7gq8IUdQddACLYOMbQH) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:58 | 2026-06-25 |  |
+| [You Kill Me](https://open.spotify.com/track/292TBhjrQJ4EqFeddoB4Ux) | [The Raincoats](https://open.spotify.com/artist/4t7bXPFEPe0pu1ozhdDLOp) | [Looking in the Shadows](https://open.spotify.com/album/2AUCJ9b7pxZWhXq1WMc2KZ) | 3:58 | 2026-03-07 | 2026-07-07 |
 
 \*This playlist was first scraped on 2026-03-07. Prior content cannot be recovered.

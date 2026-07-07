@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAADeeWYWmdBURk51R0Dn7eER",
+  "snapshot_id": "akmegAAAAADBWXxUCtmk/wJEHXPNIJbR",
   "tracks": [
     {
       "added_at": null,
@@ -459,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De la Tierra al Cielo VII",
-        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
+        "name": "Con Sangre Nortena",
+        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
       },
       "artists": [
         {
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 176666,
-      "name": "Hay una Persona en Este Mundo",
-      "url": "https://open.spotify.com/track/73KDGz61qi7byZhoi0mX5p"
+      "duration_ms": 230034,
+      "name": "Echame a Mi la Culpa",
+      "url": "https://open.spotify.com/track/15Wl0VlBhm5BgjhSTTIfms"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Sangre Nortena",
-        "url": "https://open.spotify.com/album/34hVlKjJ6JvQN9b7p1tTCr"
+        "name": "De la Tierra al Cielo VII",
+        "url": "https://open.spotify.com/album/3gEDDLBunavFzx7qenQPuh"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 230034,
-      "name": "Echame a Mi la Culpa",
-      "url": "https://open.spotify.com/track/15Wl0VlBhm5BgjhSTTIfms"
+      "duration_ms": 176666,
+      "name": "Hay una Persona en Este Mundo",
+      "url": "https://open.spotify.com/track/73KDGz61qi7byZhoi0mX5p"
     },
     {
       "added_at": null,
@@ -595,38 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cara a Cara",
-        "url": "https://open.spotify.com/album/3RwlERz4moNAWgCbKtectx"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 191033,
-      "name": "Por una Mujer Bonita",
-      "url": "https://open.spotify.com/track/6L1B9w1dSvNI5dCASNb4Ez"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Que Te Perdone Dios",
-      "url": "https://open.spotify.com/track/7tf3InyYrlyM1hVSbqUYmE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De La Tierra Al Cielo",
         "url": "https://open.spotify.com/album/26ituv9NGfhhNkAU68BnHd"
       },
@@ -647,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Son Pasiones",
-        "url": "https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze"
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
       },
       "artists": [
         {
@@ -656,9 +624,25 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 215405,
-      "name": "Tierra Mala",
-      "url": "https://open.spotify.com/track/32o7llwf7vpZNa55WXpxCE"
+      "duration_ms": 205400,
+      "name": "Que Te Perdone Dios",
+      "url": "https://open.spotify.com/track/7tf3InyYrlyM1hVSbqUYmE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cara a Cara",
+        "url": "https://open.spotify.com/album/3RwlERz4moNAWgCbKtectx"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 191033,
+      "name": "Por una Mujer Bonita",
+      "url": "https://open.spotify.com/track/6L1B9w1dSvNI5dCASNb4Ez"
     },
     {
       "added_at": null,
@@ -679,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hermosa Tirana",
-        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        }
-      ],
-      "duration_ms": 169116,
-      "name": "En Tu Dia Mi Amor",
-      "url": "https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invencibles",
         "url": "https://open.spotify.com/album/12ECqvcpA6cSRdDN8sif7c"
       },
@@ -707,6 +675,38 @@
       "duration_ms": 203373,
       "name": "Que Se Junten Nuestros Brazos",
       "url": "https://open.spotify.com/track/0WfrlRx7Uifvj3yDtJXMyH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hermosa Tirana",
+        "url": "https://open.spotify.com/album/6L69NftVVtlSbBjaegb0Jn"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 187663,
+      "name": "Cuando Sola Estes",
+      "url": "https://open.spotify.com/track/67ZW7fVVWWhN2D9SQxOTxv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa Que Son Pasiones",
+        "url": "https://open.spotify.com/album/01yx9SBrqS2cmbXdGZ52Ze"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        }
+      ],
+      "duration_ms": 215405,
+      "name": "Tierra Mala",
+      "url": "https://open.spotify.com/track/32o7llwf7vpZNa55WXpxCE"
     },
     {
       "added_at": null,
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 187663,
-      "name": "Cuando Sola Estes",
-      "url": "https://open.spotify.com/track/67ZW7fVVWWhN2D9SQxOTxv"
+      "duration_ms": 169116,
+      "name": "En Tu Dia Mi Amor",
+      "url": "https://open.spotify.com/track/7h6ulEngQG3YQqX8DPpZFH"
     },
     {
       "added_at": null,

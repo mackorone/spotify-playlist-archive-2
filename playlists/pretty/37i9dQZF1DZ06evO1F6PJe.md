@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 
 > This is Joe Bonamassa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,581 likes - 50 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,583 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 24 | [Long Distance Blues](https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Deluxe](https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6) | 3:52 |
 | 25 | [Walk On Hot Coals \(Live\)](https://open.spotify.com/track/1BmXSXVmXCxglY5QW8ArFR) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Spirit Of Rory Live From Cork](https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq) | 4:18 |
 | 26 | [Another Kind of Love](https://open.spotify.com/track/1L8EJN5H9QD52zMtlrUce0) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 3:09 |
-| 27 | [Love You Like That](https://open.spotify.com/track/1o6EI1t1j9ExWl5123hQkj) | [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [America's Backroads](https://open.spotify.com/album/651gNFPela7FLEK33KW4Eg) | 3:09 |
-| 28 | [Breakthrough](https://open.spotify.com/track/78JHuHaQP0or5BUMiimgn3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 4:10 |
+| 27 | [Breakthrough](https://open.spotify.com/track/78JHuHaQP0or5BUMiimgn3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 4:10 |
+| 28 | [Love You Like That](https://open.spotify.com/track/1o6EI1t1j9ExWl5123hQkj) | [Alyssa Bonagura](https://open.spotify.com/artist/31P1IMaJH0mI1pvB9jATHB), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [America's Backroads](https://open.spotify.com/album/651gNFPela7FLEK33KW4Eg) | 3:09 |
 | 29 | [Messin' With The Kid \(Live\)](https://open.spotify.com/track/3e9qr0EnjQv47izUN77jcK) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [The Spirit Of Rory Live From Cork](https://open.spotify.com/album/67XEF1IHUmQF2sas0AZ2hq) | 3:05 |
 | 30 | [Black Night](https://open.spotify.com/track/06XZfZKb8rBEPk0zk2VLYJ) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 4:20 |
 | 31 | [No Good Place For The Lonely](https://open.spotify.com/track/1N1dVl208WmkZJ1MtLkBc3) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 8:38 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1F6PJe.md) - [plain]
 | 44 | [Shake This Ground](https://open.spotify.com/track/1l9iy4tXChdwVacJWASwnn) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 4:07 |
 | 45 | [One of these Days](https://open.spotify.com/track/0qb9jT5BFVCoYi8iza9qUK) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Sloe Gin](https://open.spotify.com/album/3bwBNisdCXUL1rljZK6KOy) | 5:40 |
 | 46 | [I Want My Crown](https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Crown](https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i) | 4:19 |
-| 47 | [Further On Up the Road \- Live](https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Joe Bonamassa Live from the Royal Albert Hall](https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd) | 5:44 |
+| 47 | [Paying The Cost To Be The Boss](https://open.spotify.com/track/1V8SB5rBh9mhe8Rt4KfJdX) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 3:13 |
 | 48 | [Trigger Finger](https://open.spotify.com/track/5opU7iBbcGxUkZy3yXIil2) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Breakthrough](https://open.spotify.com/album/0bnlVxFJrrJU1JgeE7VC5n) | 4:04 |
-| 49 | [Paying The Cost To Be The Boss](https://open.spotify.com/track/1V8SB5rBh9mhe8Rt4KfJdX) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [B.B\. King's Blues Summit 100](https://open.spotify.com/album/63RsC1rDGaMXkfK1zk5wb6) | 3:13 |
-| 50 | [What I've Known For A Very Long Time](https://open.spotify.com/track/5OtNvAmyUC2DtP4ZSRBD2R) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Blues Of Desperation](https://open.spotify.com/album/2ZR4ieeFQTOH3NqKRT8i4h) | 5:33 |
+| 49 | [Further On Up the Road \- Live](https://open.spotify.com/track/0k3b8cI0Q6Q1ZkG1XlWdGg) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Joe Bonamassa Live from the Royal Albert Hall](https://open.spotify.com/album/4SHZaB8QHE7V5GBHSlUfLd) | 5:44 |
+| 50 | [When Love Comes To Town](https://open.spotify.com/track/3Vx3QNeVHEsFuW7iGGGA5S) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [When Love Comes To Town](https://open.spotify.com/album/6KsHFvSdwHNL58D0XqMew3) | 4:11 |
 
-Snapshot ID: `akhNAAAAAAAk7fejRZZy57UMGvZQ9eZv`
+Snapshot ID: `akmegAAAAADnhDJ4xR7ZboHsR4E9Fov7`

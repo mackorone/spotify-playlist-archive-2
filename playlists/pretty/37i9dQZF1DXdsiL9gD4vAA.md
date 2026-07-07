@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,272 likes - 75 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,291 likes - 75 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsiL9gD4vAA.md) - [plain]
 | 74 | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA) | [Hemant Brijwasi](https://open.spotify.com/artist/11BXjsOWoC85qAKxr1h0NX) | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/210Xmg0WOxgQ17S1eJJY83) | 5:43 |
 | 75 | [Guzra Hua Ye Waqt](https://open.spotify.com/track/79vqORwAkk9oNEiXJ3ZRsG) | [Pamela Jain](https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE) | [Guzra Hua Ye Waqt](https://open.spotify.com/album/5Nuh0UAq2yKV2rpQMvGmWt) | 4:46 |
 
-Snapshot ID: `AAAAAD0cR+RQZZA65ipB5juzKwDm2Fuh`
+Snapshot ID: `AAAAAJfHDbvSaL2jhSeqzF2AIXOJJTpC`

@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIYIx1RKPjEUi>Vance Joy</a>, <a href=spotify:playlist:37i9dQZF1EIZobirLlpmBa>Mac Miller</a>, <a href=spotify:playlist:37i9dQZF1EIVJW7PzIkjtQ>Creedence Clearwater Revival</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIUGhY4EVrFX5>The Goo Goo Dolls</a>, <a href=spotify:playlist:37i9dQZF1EIVJW7PzIkjtQ>Creedence Clearwater Revival</a>, <a href=spotify:playlist:37i9dQZF1EIXUlnZtDvV4s>Malcolm Todd</a> and more",
   "num_followers": 0,
   "original_name": "Chill Mix",
   "owner": {
@@ -11,38 +11,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Your Life Away (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
+        "name": "Dizzy up the Girl",
+        "url": "https://open.spotify.com/album/4UMjBXcRqIgMZ1XumU2x5T"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Divine Feminine",
-        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 480186,
-      "name": "Cinderella (feat. Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+      "duration_ms": 289533,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
     },
     {
       "added_at": null,
@@ -59,6 +39,22 @@
       "duration_ms": 160133,
       "name": "Have You Ever Seen The Rain",
       "url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
       "added_at": null,
@@ -111,18 +107,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+        "name": "Suspension of Disbelief",
+        "url": "https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2"
       },
       "artists": [
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
         }
       ],
-      "duration_ms": 170526,
-      "name": "Mr. Incorrect",
-      "url": "https://open.spotify.com/track/1JOUKim8ZlHaM5N43sQ9dq"
+      "duration_ms": 203181,
+      "name": "Deep Green",
+      "url": "https://open.spotify.com/track/2xGGpmywtvPY3h7JkcwP1E"
     },
     {
       "added_at": null,
@@ -143,8 +139,24 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shut up My Moms Calling (Sped up)",
-        "url": "https://open.spotify.com/album/0h2GcVhEPwh1mrRg3MSa3A"
+        "name": "Microdose",
+        "url": "https://open.spotify.com/album/1Aj2q6fiNwFfyndgZ2JDR9"
+      },
+      "artists": [
+        {
+          "name": "Jackson Laird",
+          "url": "https://open.spotify.com/artist/3wfaQl2GKJEpFHpjFJbw2i"
+        }
+      ],
+      "duration_ms": 166605,
+      "name": "Microdose",
+      "url": "https://open.spotify.com/track/2AFwAqheImJxyzIu8Dv0vE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ugly Duck",
+        "url": "https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P"
       },
       "artists": [
         {
@@ -152,9 +164,9 @@
           "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
         }
       ],
-      "duration_ms": 135529,
-      "name": "Shut up My Moms Calling (Sped up)",
-      "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
+      "duration_ms": 129199,
+      "name": "Is there free breakfast here?",
+      "url": "https://open.spotify.com/track/30jui3PqevssdIVpjEWM38"
     },
     {
       "added_at": null,
@@ -175,22 +187,6 @@
       "duration_ms": 157894,
       "name": "darling, he lied",
       "url": "https://open.spotify.com/track/69nxdOXfjR9mkbdf4cAHpg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Microdose",
-        "url": "https://open.spotify.com/album/1Aj2q6fiNwFfyndgZ2JDR9"
-      },
-      "artists": [
-        {
-          "name": "Jackson Laird",
-          "url": "https://open.spotify.com/artist/3wfaQl2GKJEpFHpjFJbw2i"
-        }
-      ],
-      "duration_ms": 166605,
-      "name": "Microdose",
-      "url": "https://open.spotify.com/track/2AFwAqheImJxyzIu8Dv0vE"
     },
     {
       "added_at": null,
@@ -227,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell",
-        "url": "https://open.spotify.com/album/0q639LSjyKvvKZlMO8Kdl0"
+        "name": "On & Off",
+        "url": "https://open.spotify.com/album/7gdxewOIoSvBVLUi7omJMp"
       },
       "artists": [
         {
@@ -236,9 +232,29 @@
           "url": "https://open.spotify.com/artist/0qrESwlBOjY46UxJrhsRbC"
         }
       ],
-      "duration_ms": 113556,
-      "name": "Farewell",
-      "url": "https://open.spotify.com/track/1JHJWwjCJa9jZvAA235QVt"
+      "duration_ms": 146437,
+      "name": "On & Off",
+      "url": "https://open.spotify.com/track/22Hss9mYx32zL6UHhl0kYq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "duration_ms": 480186,
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
     },
     {
       "added_at": null,
@@ -275,38 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradigm",
-        "url": "https://open.spotify.com/album/3MaikI62Ap7RbrBSE0i4AU"
-      },
-      "artists": [
-        {
-          "name": "Christian Kuria",
-          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
-        }
-      ],
-      "duration_ms": 211522,
-      "name": "Slow Fade",
-      "url": "https://open.spotify.com/track/1iNjMcvGNJ7TSWZfVC6Eeh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Juice: Vol. II",
-        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Sundays",
-      "url": "https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "alright",
         "url": "https://open.spotify.com/album/7evoZt4Hmido1pg2lCAVt4"
       },
@@ -319,6 +303,26 @@
       "duration_ms": 132919,
       "name": "alright",
       "url": "https://open.spotify.com/track/6s2TBrbs9bTC1faiyww2AN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recognize",
+        "url": "https://open.spotify.com/album/6Sba1UHgFzqqPaESIHqCzh"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "Jessy Blakemore",
+          "url": "https://open.spotify.com/artist/6Z2SXdkJgWDEMm6NANPVDu"
+        }
+      ],
+      "duration_ms": 181694,
+      "name": "Recognize",
+      "url": "https://open.spotify.com/track/2i7GLdXNYuIOfqopWWIjVF"
     },
     {
       "added_at": null,
@@ -343,18 +347,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Race",
-        "url": "https://open.spotify.com/album/4BTzguyoRmiBkf9KYV60Dy"
+        "name": "The Juice: Vol. II",
+        "url": "https://open.spotify.com/album/6q8BNcH6wkWwWC0fGoJwkS"
       },
       "artists": [
         {
-          "name": "Chris James",
-          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
         }
       ],
-      "duration_ms": 141562,
-      "name": "The Race",
-      "url": "https://open.spotify.com/track/28Uw7wcsuQQpm5xElRoiww"
+      "duration_ms": 189093,
+      "name": "Sundays",
+      "url": "https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Way It Was Before",
+        "url": "https://open.spotify.com/album/1GT1EB4IbhtJRcuIURCp4A"
+      },
+      "artists": [
+        {
+          "name": "Johnny Stimson",
+          "url": "https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE"
+        },
+        {
+          "name": "Jeremy Passion",
+          "url": "https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv"
+        }
+      ],
+      "duration_ms": 191408,
+      "name": "Soulmate",
+      "url": "https://open.spotify.com/track/3nWe21GNDFyXOjVGAqKgiJ"
     },
     {
       "added_at": null,
@@ -375,18 +399,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "HARD KNOCK LULLABY",
-        "url": "https://open.spotify.com/album/5CFfxh1P809UmJeeezyeFV"
+        "name": "The Race",
+        "url": "https://open.spotify.com/album/4BTzguyoRmiBkf9KYV60Dy"
       },
       "artists": [
         {
-          "name": "Noah Guy",
-          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
+          "name": "Chris James",
+          "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
         }
       ],
-      "duration_ms": 153600,
-      "name": "HARD KNOCK LULLABY",
-      "url": "https://open.spotify.com/track/5nAXbVukFLJ2Wd795L1kwS"
+      "duration_ms": 141562,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/28Uw7wcsuQQpm5xElRoiww"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 184516,
+      "name": "Pink + White",
+      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
     },
     {
       "added_at": null,
@@ -403,42 +443,6 @@
       "duration_ms": 185207,
       "name": "Gorilla Grip",
       "url": "https://open.spotify.com/track/6bt3Hq6ce61MnDgspiu2Kq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "See You Again (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As It Was",
-        "url": "https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU"
-      },
-      "artists": [
-        {
-          "name": "PREP",
-          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
-        }
-      ],
-      "duration_ms": 226798,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b"
     },
     {
       "added_at": null,
@@ -475,58 +479,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "I CHOSE YOU - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/0Y0KIyf0KR6qpxiwxzM7KE"
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
       },
       "artists": [
         {
-          "name": "Isaia Huron",
-          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
-        },
-        {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
         }
       ],
-      "duration_ms": 199884,
-      "name": "I CHOSE YOU - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/72ldJyZrLBMFHs9WP7xFdI"
+      "duration_ms": 170526,
+      "name": "Mr. Incorrect",
+      "url": "https://open.spotify.com/track/1JOUKim8ZlHaM5N43sQ9dq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "LET\u2019S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? (DELUXE)",
-        "url": "https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq"
+        "name": "As It Was",
+        "url": "https://open.spotify.com/album/58i1O2d95vxAnDhkySrVOU"
       },
       "artists": [
         {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        },
-        {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+          "name": "PREP",
+          "url": "https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42"
         }
       ],
-      "duration_ms": 224881,
-      "name": "NOW I'M ALONE (feat. Sof\u00eda Vald\u00e9s)",
-      "url": "https://open.spotify.com/track/30G9O0gzkj4w7CbCWOE9eO"
+      "duration_ms": 226798,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+        "name": "HARD KNOCK LULLABY",
+        "url": "https://open.spotify.com/album/5CFfxh1P809UmJeeezyeFV"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Noah Guy",
+          "url": "https://open.spotify.com/artist/0Cj5PLNNGVOsXUig1ic4s5"
         }
       ],
-      "duration_ms": 232114,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+      "duration_ms": 153600,
+      "name": "HARD KNOCK LULLABY",
+      "url": "https://open.spotify.com/track/5nAXbVukFLJ2Wd795L1kwS"
     },
     {
       "added_at": null,
@@ -547,54 +543,70 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Boy",
-        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+        "name": "Suspension of Disbelief",
+        "url": "https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2"
       },
       "artists": [
         {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
         }
       ],
-      "duration_ms": 210400,
-      "name": "4Me 4Me",
-      "url": "https://open.spotify.com/track/7uEFboafVLvROPYTqdMi0n"
+      "duration_ms": 236206,
+      "name": "Sunbleach",
+      "url": "https://open.spotify.com/track/0SOqMJNpQyB2QkSaZqUQzV"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Life of a DON",
-        "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
       },
       "artists": [
         {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 232114,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Talk2Me",
+        "url": "https://open.spotify.com/album/3QaH6xmZlzDtgvlBdSlvaP"
+      },
+      "artists": [
+        {
+          "name": "Jackson Laird",
+          "url": "https://open.spotify.com/artist/3wfaQl2GKJEpFHpjFJbw2i"
+        }
+      ],
+      "duration_ms": 187981,
+      "name": "Talk2Me",
+      "url": "https://open.spotify.com/track/1rkQJDZ2ys9tZepdoaAKuw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
         },
         {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 213636,
-      "name": "You (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ugly Duck",
-        "url": "https://open.spotify.com/album/2gys1pKIbiL523OHH6H59P"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 129199,
-      "name": "Is there free breakfast here?",
-      "url": "https://open.spotify.com/track/30jui3PqevssdIVpjEWM38"
+      "duration_ms": 180386,
+      "name": "See You Again (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
     },
     {
       "added_at": null,
@@ -611,6 +623,22 @@
       "duration_ms": 125793,
       "name": "endlessly",
       "url": "https://open.spotify.com/track/3AxPuwVYgZ3EfBsoPQFbh8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 203532,
+      "name": "Dancing with my phone",
+      "url": "https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9"
     },
     {
       "added_at": null,
@@ -635,40 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 203532,
-      "name": "Dancing with my phone",
-      "url": "https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talk2Me",
-        "url": "https://open.spotify.com/album/3QaH6xmZlzDtgvlBdSlvaP"
-      },
-      "artists": [
-        {
-          "name": "Jackson Laird",
-          "url": "https://open.spotify.com/artist/3wfaQl2GKJEpFHpjFJbw2i"
-        }
-      ],
-      "duration_ms": 187981,
-      "name": "Talk2Me",
-      "url": "https://open.spotify.com/track/1rkQJDZ2ys9tZepdoaAKuw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On & Off",
-        "url": "https://open.spotify.com/album/7gdxewOIoSvBVLUi7omJMp"
+        "name": "Farewell",
+        "url": "https://open.spotify.com/album/0q639LSjyKvvKZlMO8Kdl0"
       },
       "artists": [
         {
@@ -676,9 +672,29 @@
           "url": "https://open.spotify.com/artist/0qrESwlBOjY46UxJrhsRbC"
         }
       ],
-      "duration_ms": 146437,
-      "name": "On & Off",
-      "url": "https://open.spotify.com/track/22Hss9mYx32zL6UHhl0kYq"
+      "duration_ms": 113556,
+      "name": "Farewell",
+      "url": "https://open.spotify.com/track/1JHJWwjCJa9jZvAA235QVt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I CHOSE YOU - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0Y0KIyf0KR6qpxiwxzM7KE"
+      },
+      "artists": [
+        {
+          "name": "Isaia Huron",
+          "url": "https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "duration_ms": 199884,
+      "name": "I CHOSE YOU - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/72ldJyZrLBMFHs9WP7xFdI"
     },
     {
       "added_at": null,
@@ -719,6 +735,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 213706,
+      "name": "Way down We Go",
+      "url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LET\u2019S JUST SAY THE WORLD ENDED A WEEK FROM NOW, WHAT WOULD YOU DO? (DELUXE)",
+        "url": "https://open.spotify.com/album/5FdeNQ9zrBMvHz50WqnXpq"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        },
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 224881,
+      "name": "NOW I'M ALONE (feat. Sof\u00eda Vald\u00e9s)",
+      "url": "https://open.spotify.com/track/30G9O0gzkj4w7CbCWOE9eO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Your Life Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2biVG6BYnVVSwLYd1OjbPT"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dark Lane Demo Tapes",
         "url": "https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK"
       },
@@ -739,118 +807,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "Favourite Worst Nightmare (Standard Version)",
-        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+        "name": "Am I sinking or Am I swimming?",
+        "url": "https://open.spotify.com/album/0mPKxIXNf7okZAFkCTMZlV"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "late night drive home",
+          "url": "https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB"
         }
       ],
-      "duration_ms": 253586,
-      "name": "505",
-      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
+      "duration_ms": 205714,
+      "name": "Stress Relief",
+      "url": "https://open.spotify.com/track/7xLfmCx9jcZNgzlIK7NupN"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Foreign",
-        "url": "https://open.spotify.com/album/6vkgzH3ktk3dPaQpwEIZzD"
+        "name": "Deadpan Love",
+        "url": "https://open.spotify.com/album/4UEIfM6VbbjiSVUwPFXWxO"
       },
       "artists": [
         {
-          "name": "Bloody Immigrants",
-          "url": "https://open.spotify.com/artist/44UYx5tqVhHS7xQgpQanOK"
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
         }
       ],
-      "duration_ms": 173360,
-      "name": "Jealousy Reprise",
-      "url": "https://open.spotify.com/track/27n0nFxGrKPjJ0Uq5d14ho"
+      "duration_ms": 151913,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/35S9fUZH0kGFIoMA0owVJK"
     },
     {
       "added_at": null,
       "album": {
-        "name": "unrequited",
-        "url": "https://open.spotify.com/album/5uYRNMJ5oTbFr36HxVoEZ4"
+        "name": "Life of a DON",
+        "url": "https://open.spotify.com/album/2WmJ5wp5wKBlIJE6FDAIBJ"
       },
       "artists": [
         {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 203080,
-      "name": "unrequited",
-      "url": "https://open.spotify.com/track/0eccQvia7Mk5up7VBLtwDz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/6dTbpuzrtQGW3jEVb3S21J"
-      },
-      "artists": [
-        {
-          "name": "Spratta",
-          "url": "https://open.spotify.com/artist/1OgEhNPlF6smmuQIXfIus0"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
         },
         {
-          "name": "Keith Anthoni",
-          "url": "https://open.spotify.com/artist/16SNIZNdEOUTlTVO884GNQ"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 164512,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/3dSlgPMDW5yx9VesGfnvGk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trance Dance",
-        "url": "https://open.spotify.com/album/1e8U5hkbsm7CxYLVnvdLVk"
-      },
-      "artists": [
-        {
-          "name": "ODIE",
-          "url": "https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj"
-        }
-      ],
-      "duration_ms": 225568,
-      "name": "Trance Dance",
-      "url": "https://open.spotify.com/track/3iGxtTIbGtUJVMbnHyaPMM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Barely Know Her",
-        "url": "https://open.spotify.com/album/7mvXPtV4jvA1hp5Wx2FAJA"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 182088,
-      "name": "undressed",
-      "url": "https://open.spotify.com/track/0TFTAtCYhp2tQ9KcJIZb55"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bitter Lips",
-        "url": "https://open.spotify.com/album/4l8Rh8SFKreE2IvMqqCO5H"
-      },
-      "artists": [
-        {
-          "name": "RUBII",
-          "url": "https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ"
-        }
-      ],
-      "duration_ms": 200724,
-      "name": "Bitter Lips",
-      "url": "https://open.spotify.com/track/2TF9XlZFMKG1Lkp7jQeAPz"
+      "duration_ms": 213636,
+      "name": "You (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4qS2KPWvsQzLvRa9oCHw41"
     }
   ],
   "unique_name": "Chill Mix",

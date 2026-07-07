@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1446,
+  "num_followers": 1452,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAARQPmv37JRPaAQbOnm7NoHg6wG/rAb",
+  "snapshot_id": "AAARST/KZ+oKgSw0WHO6frhRFVSMpmtn",
   "tracks": [
     {
       "added_at": "2026-05-12 03:36:45",
@@ -143,6 +143,58 @@
       "duration_ms": 185777,
       "name": "Can't Get You Out of My Head - Audio Pulleys Remix",
       "url": "https://open.spotify.com/track/0TizK9mGVoFiRebj7JP3AP"
+    },
+    {
+      "added_at": "2026-07-06 12:57:33",
+      "album": {
+        "name": "Love in the Second Act",
+        "url": "https://open.spotify.com/album/75Z4LJome6qUiAYEJjly9A"
+      },
+      "artists": [
+        {
+          "name": "As the City Sleeps",
+          "url": "https://open.spotify.com/artist/0zTxOCfgU0KKUT0HmA6VKn"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Love in the Second Act",
+      "url": "https://open.spotify.com/track/7wiQRIPSvRLu2EzYWfHHua"
+    },
+    {
+      "added_at": "2026-07-06 12:54:49",
+      "album": {
+        "name": "Time for Disruption",
+        "url": "https://open.spotify.com/album/1Clc4ePmZEfZruq7SaBGrn"
+      },
+      "artists": [
+        {
+          "name": "All Coasted",
+          "url": "https://open.spotify.com/artist/5v3VyJ81s4oLEqTPnHEtD6"
+        }
+      ],
+      "duration_ms": 176840,
+      "name": "Time for Disruption",
+      "url": "https://open.spotify.com/track/73DCjt1cArXEjTnZe70uvy"
+    },
+    {
+      "added_at": "2026-07-06 12:48:41",
+      "album": {
+        "name": "Consumed",
+        "url": "https://open.spotify.com/album/1JUAPZrPuS3LVpp9dJ2Bb2"
+      },
+      "artists": [
+        {
+          "name": "Royal Hearts",
+          "url": "https://open.spotify.com/artist/5KUxUfHcwed6mQR9y0epiH"
+        },
+        {
+          "name": "Saltwound",
+          "url": "https://open.spotify.com/artist/5Fim4esoV1D1hRTcPW73IP"
+        }
+      ],
+      "duration_ms": 207223,
+      "name": "Consumed",
+      "url": "https://open.spotify.com/track/0yQS4QlyC7bKD59yvMvAyT"
     },
     {
       "added_at": "2026-07-03 12:06:39",
@@ -3569,6 +3621,22 @@
       "url": "https://open.spotify.com/track/7xOUEM3EyNF3XeausPrgha"
     },
     {
+      "added_at": "2026-07-06 09:00:32",
+      "album": {
+        "name": "Slipping Away",
+        "url": "https://open.spotify.com/album/2pt7q6xWCU917pnmZW5CLg"
+      },
+      "artists": [
+        {
+          "name": "Deceased Me",
+          "url": "https://open.spotify.com/artist/5Ns2AFqPjYey9cpVlJNwHU"
+        }
+      ],
+      "duration_ms": 249879,
+      "name": "Slipping Away",
+      "url": "https://open.spotify.com/track/1hyeFgqsbfLPZOHUciE2cz"
+    },
+    {
       "added_at": "2026-07-05 10:57:46",
       "album": {
         "name": "Osborne",
@@ -3647,6 +3715,86 @@
       "duration_ms": 162000,
       "name": "Vanity",
       "url": "https://open.spotify.com/track/7y4Nk2fKgkRXsSjNG5CFYg"
+    },
+    {
+      "added_at": "2026-07-06 08:58:08",
+      "album": {
+        "name": "Have Your Say",
+        "url": "https://open.spotify.com/album/3sJgNrX4tRIJlI4wJpVzNh"
+      },
+      "artists": [
+        {
+          "name": "Friends With Boats",
+          "url": "https://open.spotify.com/artist/1ahtzLoyQhpQSyTTD0rysc"
+        }
+      ],
+      "duration_ms": 177300,
+      "name": "Have Your Say",
+      "url": "https://open.spotify.com/track/5G0y8rEfDcnsT6MyxquLmn"
+    },
+    {
+      "added_at": "2026-07-06 09:03:35",
+      "album": {
+        "name": "Light of Darkness",
+        "url": "https://open.spotify.com/album/0LHrljj3aMZcOUP4HOAgCb"
+      },
+      "artists": [
+        {
+          "name": "King Satan",
+          "url": "https://open.spotify.com/artist/1V9mrCXH8tey5uHZlsAxKW"
+        }
+      ],
+      "duration_ms": 221429,
+      "name": "Light of Darkness",
+      "url": "https://open.spotify.com/track/1kooLrF38rHq3eiji8pjDL"
+    },
+    {
+      "added_at": "2026-07-06 09:05:49",
+      "album": {
+        "name": "torture",
+        "url": "https://open.spotify.com/album/0PJPJl6yV8qWoDxNqqPdKG"
+      },
+      "artists": [
+        {
+          "name": "elkwood",
+          "url": "https://open.spotify.com/artist/0kU44eTQcy7rywibEuEDFu"
+        }
+      ],
+      "duration_ms": 202317,
+      "name": "torture",
+      "url": "https://open.spotify.com/track/4zQ2PDEo5KNwWKVi4ckSvM"
+    },
+    {
+      "added_at": "2026-07-06 09:06:10",
+      "album": {
+        "name": "Straight x Teeth",
+        "url": "https://open.spotify.com/album/27RW6z7zpfXf1Kd0u3Q0nI"
+      },
+      "artists": [
+        {
+          "name": "TeethOut",
+          "url": "https://open.spotify.com/artist/1zbyrACN47gprz5q97evPl"
+        }
+      ],
+      "duration_ms": 157750,
+      "name": "For Your Life",
+      "url": "https://open.spotify.com/track/2bu3gjo8vECrEA18EEoUpV"
+    },
+    {
+      "added_at": "2026-07-06 09:10:13",
+      "album": {
+        "name": "Sandy Beach",
+        "url": "https://open.spotify.com/album/0oYFz1J8RXu7xJQqDSIbJk"
+      },
+      "artists": [
+        {
+          "name": "Linear Television",
+          "url": "https://open.spotify.com/artist/7qUePVdi85X7qkMtXPEXO2"
+        }
+      ],
+      "duration_ms": 131424,
+      "name": "Stay Strong",
+      "url": "https://open.spotify.com/track/786r3M66JjV31as4xj2UJT"
     }
   ],
   "unique_name": "Spotify Radio",

@@ -1,12 +1,12 @@
 {
   "description": "This is Cardenales De Nuevo Le\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 204878,
+  "num_followers": 204921,
   "original_name": "This Is Cardenales De Nuevo Le\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAAArmcCc2gZ4p1viYhOt2SGl",
+  "snapshot_id": "akmegAAAAAAk0Zyc6RbKL8we0nkoXmvw",
   "tracks": [
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amor De Unas Horas",
-        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Y Como Es El",
-      "url": "https://open.spotify.com/track/1pQPpSRZ0cUYX0tsZNSBwz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuego Contra Fuego",
         "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 156320,
       "name": "Soy Lo Peor",
       "url": "https://open.spotify.com/track/5bdgoOTegXYsGdEjoIZDSL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amor De Unas Horas",
+        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Y Como Es El",
+      "url": "https://open.spotify.com/track/1pQPpSRZ0cUYX0tsZNSBwz"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Renta Un Coraz\u00f3n (Reissue)",
-        "url": "https://open.spotify.com/album/3lRqxaOyLK3yjlQ3sLzE7t"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "No Te Extra\u00f1o",
-      "url": "https://open.spotify.com/track/1AslASLer2LyAoxg79wdmX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Coraz\u00f3n Necio",
         "url": "https://open.spotify.com/album/241zeaTWbZCSlFEXWFeLp8"
       },
@@ -251,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Muchas Ganas",
-        "url": "https://open.spotify.com/album/2MOExkDSqVzW1ahSYTBU3V"
+        "name": "Se Renta Un Coraz\u00f3n (Reissue)",
+        "url": "https://open.spotify.com/album/3lRqxaOyLK3yjlQ3sLzE7t"
       },
       "artists": [
         {
@@ -260,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 198533,
-      "name": "Y Le Dir\u00e9",
-      "url": "https://open.spotify.com/track/2PLLTB5IgPTEBfOkgFOa65"
+      "duration_ms": 203666,
+      "name": "No Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/1AslASLer2LyAoxg79wdmX"
     },
     {
       "added_at": null,
@@ -279,6 +263,22 @@
       "duration_ms": 172120,
       "name": "Si Ella Supiera",
       "url": "https://open.spotify.com/track/5xG0CJRnQBHalC5CtXlpNN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Con Muchas Ganas",
+        "url": "https://open.spotify.com/album/2MOExkDSqVzW1ahSYTBU3V"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "Y Le Dir\u00e9",
+      "url": "https://open.spotify.com/track/2PLLTB5IgPTEBfOkgFOa65"
     },
     {
       "added_at": null,

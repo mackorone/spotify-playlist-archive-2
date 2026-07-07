@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G2MXp8YYmm.md) - [plain]
 
 > Pop'un sevilen isimleri\. Kapak: Demet Akalın
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,965 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,005 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G2MXp8YYmm.md) - [plain]
 | 17 | [Çıkmaz Bir Sokakta](https://open.spotify.com/track/4SJjMPowhsrYSWgxM61yxm) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Çıkmaz Bir Sokakta](https://open.spotify.com/album/7GlV9sM06u3Of5RROelFtC) | 2:42 |
 | 18 | [Ara Beni](https://open.spotify.com/track/2avZvyhP3vKSXUGKIjpDSr) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [H.](https://open.spotify.com/album/5ORtYNxS04uyDd1LnTLKsi) | 2:24 |
 | 19 | [UYUYAMADIN DİMİ?](https://open.spotify.com/track/6ldLZlXIkKaaM9Y4bErh07) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [PARDON MUTLULUKLAR](https://open.spotify.com/album/2YGROYa6Vg9KXEcr9DwYBP) | 2:38 |
-| 20 | [Güzeller İçinden](https://open.spotify.com/track/6DIFiKi91XvZqywYgJ9fRY) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI), [Bite The Dust](https://open.spotify.com/artist/7w11DyVhSvvB7DTKYNgQzb), [Kenzi](https://open.spotify.com/artist/1k9u7JugmvWXhT8AFk5MgS), [Murmusica](https://open.spotify.com/artist/7jdrU9OQr55FHQVztoanvY) | [Güzeller İçinden](https://open.spotify.com/album/2b53TPKbbHeuunZane2wyv) | 6:18 |
+| 20 | [Güzeller İçinden](https://open.spotify.com/track/6DIFiKi91XvZqywYgJ9fRY) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Kenan Doğulu](https://open.spotify.com/artist/2RQ8NtUmg5y6tfbvCwX8jI), [Bite The Dust](https://open.spotify.com/artist/7w11DyVhSvvB7DTKYNgQzb), [Kenzi](https://open.spotify.com/artist/77Q5XSbfQxyAIR0ncyD8Dp), [Murmusica](https://open.spotify.com/artist/7jdrU9OQr55FHQVztoanvY) | [Güzeller İçinden](https://open.spotify.com/album/2b53TPKbbHeuunZane2wyv) | 6:18 |
 | 21 | [Gel](https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj), [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gel](https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq) | 2:44 |
 | 22 | [Toz Pembe](https://open.spotify.com/track/24CSPGkF9QB1zW07dgtZhr) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Toz Pembe](https://open.spotify.com/album/5n0QmoUBEvSyIjDTwe4670) | 2:40 |
 | 23 | [Vur Beni](https://open.spotify.com/track/2TSyYedWsuI7BDOOJx9CHl) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Karışık Kaset 2](https://open.spotify.com/album/22dJRNVTVUfGQzbMCNMuJq) | 3:14 |

@@ -392,7 +392,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 166842,
       "name": "ADIOS!",
       "url": "https://open.spotify.com/track/0F6XPZ5gxXC1zaiaDhrV73"
@@ -3616,7 +3616,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 201000,
       "name": "Dear.J (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/3a33wc7LAIk8c7W47A4XGi"
@@ -7124,6 +7124,24 @@
       "duration_ms": 164026,
       "name": "I Hate You (2024) - Spotify Singles",
       "url": "https://open.spotify.com/track/2AZhHsWsunXGXKIWioeM6Y"
+    },
+    {
+      "album": {
+        "name": "\ucda4 (CHOOM)",
+        "url": "https://open.spotify.com/album/1VmMG3mtIWHWm618Cwiku7"
+      },
+      "artists": [
+        {
+          "name": "BABYMONSTER",
+          "url": "https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206586,
+      "name": "I LIKE IT",
+      "url": "https://open.spotify.com/track/7vKgGaEDN3shr8HBlCbIWg"
     },
     {
       "album": {

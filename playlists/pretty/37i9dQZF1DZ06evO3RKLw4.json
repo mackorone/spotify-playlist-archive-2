@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAABS3YkksMls3ughlpEcTTua",
+  "snapshot_id": "akmegAAAAACHKr4w2XKD7CbwdijJmhrr",
   "tracks": [
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 78733,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4"
+      "duration_ms": 89666,
+      "name": "It's Quite Alright",
+      "url": "https://open.spotify.com/track/0Mb9b1dko7GyYb2s6T7Ce1"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 251260,
-      "name": "Arrested in Shanghai",
-      "url": "https://open.spotify.com/track/3eMpWrJhO6XsiOanQTDpax"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tomorrow Never Comes",
         "url": "https://open.spotify.com/album/53dtx3xI6FDGXG104fHqgD"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 251260,
+      "name": "Arrested in Shanghai",
+      "url": "https://open.spotify.com/track/3eMpWrJhO6XsiOanQTDpax"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rancid (5)",
         "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 89666,
-      "name": "It's Quite Alright",
-      "url": "https://open.spotify.com/track/0Mb9b1dko7GyYb2s6T7Ce1"
+      "duration_ms": 78733,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5Yljkq4TrBgDpwPRZcMgh4"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble Maker (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 96053,
-      "name": "Ghost of a Chance",
-      "url": "https://open.spotify.com/track/37aAKOsaDmLmJBGqnO1tfr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rancid (5)",
         "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 35572,
       "name": "Don Giovanni",
       "url": "https://open.spotify.com/track/5B00fJjWmpmDwTN68ppL8e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trouble Maker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 96053,
+      "name": "Ghost of a Chance",
+      "url": "https://open.spotify.com/track/37aAKOsaDmLmJBGqnO1tfr"
     },
     {
       "added_at": null,
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rancid (5)",
+        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Radio Havana",
+      "url": "https://open.spotify.com/track/1ydEGqAgszVAlF9o0hIpOI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sex & Death",
         "url": "https://open.spotify.com/album/4tavJ3FRjrTqUHMs9wCKU2"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 124600,
       "name": "Sex & Death",
       "url": "https://open.spotify.com/track/4B5OpVsHLNEUSJJnCXetu0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rancid (5)",
-        "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
-      },
-      "artists": [
-        {
-          "name": "Rancid",
-          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Radio Havana",
-      "url": "https://open.spotify.com/track/1ydEGqAgszVAlF9o0hIpOI"
     }
   ],
   "unique_name": "This Is Rancid",

@@ -1,13 +1,29 @@
 {
   "description": "Where R&B lives. Cover: kwn",
-  "num_followers": 6082007,
+  "num_followers": 6081284,
   "original_name": "RNB X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPZxn4uziV/IPRQVQbUc/iFJ41HJ",
+  "snapshot_id": "AAAAAAhZreMTLSmp6ODW+jgF5bnkJ0Vh",
   "tracks": [
+    {
+      "added_at": "2026-07-06 16:13:51",
+      "album": {
+        "name": "MORNING DEW (DONK)",
+        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 243896,
+      "name": "MORNING DEW (DONK)",
+      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
+    },
     {
       "added_at": "2026-07-03 04:02:23",
       "album": {
@@ -871,26 +887,6 @@
       "duration_ms": 186716,
       "name": "Fly",
       "url": "https://open.spotify.com/track/2AaDINmyHvzElSXWQ0tmrb"
-    },
-    {
-      "added_at": "2026-05-29 04:02:15",
-      "album": {
-        "name": "Kehlani",
-        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 241927,
-      "name": "Anotha Luva (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/1LCiGi699HYk4nznLRQovN"
     }
   ],
   "unique_name": "RNB X",

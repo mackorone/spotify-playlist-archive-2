@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 
 > This is Grateful Dead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,409 likes - 50 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,444 likes - 50 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 19 | [China Cat Sunflower \- Live in Paris 1972 Version](https://open.spotify.com/track/3iPYTo54a7gimA0kdp8x13) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 5:32 |
 | 20 | [Cassidy \- Live](https://open.spotify.com/track/3Ytea3b7VXXkVTN2mRpjvB) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Reckoning \(Live\)](https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD) | 4:34 |
 | 21 | [Brokedown Palace \- 2013 Remaster](https://open.spotify.com/track/362CS15hE1upuTKoWApzLn) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [American Beauty \(2013 Remaster\)](https://open.spotify.com/album/2UDDZVesmQwA4aYfa55diS) | 4:09 |
-| 22 | [Deal \- Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77](https://open.spotify.com/track/0pPvu1AGxIj7pvESvSg4wi) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cornell 5/8/77 \(Live\)](https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ) | 6:10 |
+| 22 | [Dire Wolf \- 2013 Remaster](https://open.spotify.com/track/6rLfU9QCwLUMRW5gGG7BWA) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Workingman's Dead](https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku) | 3:14 |
 | 23 | [Tennessee Jed \(Live at L'Olympia, Paris, 5/3/72\) \- 2001 Remaster](https://open.spotify.com/track/1ae0SQx8MpBXo6QsmrpsEj) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 7:10 |
-| 24 | [Dire Wolf \- 2013 Remaster](https://open.spotify.com/track/6rLfU9QCwLUMRW5gGG7BWA) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Workingman's Dead](https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku) | 3:14 |
-| 25 | [Deep Elem Blues \- Live](https://open.spotify.com/track/2tu3n4gB1LUbuvnjrmb4Xw) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Reckoning \(Live\)](https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD) | 4:53 |
-| 26 | [Estimated Prophet \- 2014 Remaster](https://open.spotify.com/track/3DI8C3OSwuXd8E947MWiSi) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Terrapin Station \(2014 Remaster\)](https://open.spotify.com/album/0WVDqz6ty88sjpbfvMqF98) | 5:36 |
+| 24 | [Deal \- Live at Barton Hall, Cornell University, Ithaca, NY 5/8/77](https://open.spotify.com/track/0pPvu1AGxIj7pvESvSg4wi) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cornell 5/8/77 \(Live\)](https://open.spotify.com/album/3T9UKU0jMIyrRD0PtKXqPJ) | 6:10 |
+| 25 | [Estimated Prophet \- 2014 Remaster](https://open.spotify.com/track/3DI8C3OSwuXd8E947MWiSi) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Terrapin Station \(2014 Remaster\)](https://open.spotify.com/album/0WVDqz6ty88sjpbfvMqF98) | 5:36 |
+| 26 | [Deep Elem Blues \- Live](https://open.spotify.com/track/2tu3n4gB1LUbuvnjrmb4Xw) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Reckoning \(Live\)](https://open.spotify.com/album/1T7YIthjEvwsxbUHZ7NdBD) | 4:53 |
 | 27 | [Ramble on Rose \(Live at the Strand Lyceum, London, England, 5/26/72\) \- 2001 Remaster](https://open.spotify.com/track/24ei2BLeVEpGWLZ2qfLXJO) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 6:01 |
 | 28 | [Not Fade Away / Goin' down the Road Feeling Bad \- Live at Manhattan Center, New York, NY, April 5, 1971](https://open.spotify.com/track/3JZeVTm20lmT0wTui4oWh9) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Grateful Dead \(Skull & Roses\) \[Live\]](https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN) | 9:12 |
 | 29 | [Cumberland Blues \- 2013 Remaster](https://open.spotify.com/track/2op5szd2IY8bOPzumqmFY3) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Workingman's Dead](https://open.spotify.com/album/4jxokHekH1qSad1DcC82ku) | 3:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sjr0c.md) - [plain]
 | 49 | [Wharf Rat \- Live at Fillmore East, New York, NY, April 26, 1971](https://open.spotify.com/track/0JKWRYAxDyWqS14WmtLFOf) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Grateful Dead \(Skull & Roses\) \[Live\]](https://open.spotify.com/album/0ObxRAQTpVO1u7bT3VxrIN) | 8:31 |
 | 50 | [Cold Rain and Snow \- Live at Fillmore Auditorium, San Francisco, CA 7/3/66](https://open.spotify.com/track/7n5gO1fCFdltGVmkMIWSq8) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Cold Rain and Snow \(Live at Fillmore Auditorium, San Francisco, CA 7/3/66\)](https://open.spotify.com/album/3SovzZ99QjlFCOsn2Fpouk) | 3:15 |
 
-Snapshot ID: `akhNAAAAAAB6UDD4n7LhxPYcLT6DTb8B`
+Snapshot ID: `akmegAAAAAAK/5V+rBUVD0hbwSDUlc88`

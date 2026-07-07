@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-22",
-  "description": "With After Cooking, winterburn, Traf and more",
+  "description": "With After Cooking, Traf, winterburn and more",
   "name": "Klangphonics Radio",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 166617,
       "name": "17 Virages",
       "url": "https://open.spotify.com/track/5aZKMNDFRNu9CIKh1C1ChH"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 233173,
       "name": "1968",
       "url": "https://open.spotify.com/track/2y6Mqnz8rc73kzoGw4MxnL"
@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 242026,
       "name": "A Name I Don't Know - Extended Version",
       "url": "https://open.spotify.com/track/5fyQOrgb0L8AqQPRA4ec3C"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 233079,
       "name": "ARCHETYPE",
       "url": "https://open.spotify.com/track/0sYddq4nT7BAF4OHvlRUV1"
@@ -892,7 +892,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 251707,
       "name": "California",
       "url": "https://open.spotify.com/track/5PMqsUfcYMHV3LnmIx4RGV"
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 234240,
       "name": "Cornfield Chase",
       "url": "https://open.spotify.com/track/2e1xmCupvnz5XvyYJxVPnn"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 250826,
       "name": "Down The Line",
       "url": "https://open.spotify.com/track/3scWnhahRG6x0Ul4bn1L62"
@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 264000,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/2ehoTvb37kWJP22sbd8OM6"
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 253859,
       "name": "Et le vent ?",
       "url": "https://open.spotify.com/track/26v12OEtCCX4CWObkeNzay"
@@ -2177,6 +2177,32 @@
     },
     {
       "album": {
+        "name": "I Cared For You",
+        "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        },
+        {
+          "name": "Noah Kulaga",
+          "url": "https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270476,
+      "name": "I Cared For You",
+      "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
+    },
+    {
+      "album": {
         "name": "i think i'm everything",
         "url": "https://open.spotify.com/album/2nWFyhIJBDNqzAClAys3JC"
       },
@@ -2286,7 +2312,7 @@
       ],
       "date_added": "2025-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 170625,
       "name": "in pursuit of connection",
       "url": "https://open.spotify.com/track/0kPBcaY5fjP1KHu903DECC"
@@ -2452,7 +2478,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 307441,
       "name": "La Dibona",
       "url": "https://open.spotify.com/track/57Kf4Qwg7H41AF2ST2tBQq"
@@ -2926,7 +2952,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 272744,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/6czF5qNlJt65HYtfGQK2u1"
@@ -2970,7 +2996,7 @@
       ],
       "date_added": "2025-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 223293,
       "name": "Moonlight Invasion",
       "url": "https://open.spotify.com/track/54KPt41MQtu0v8S0dZnLFy"
@@ -3100,6 +3126,24 @@
       "duration_ms": 222389,
       "name": "My mind is heavy",
       "url": "https://open.spotify.com/track/256oObpbROJwMUaEN9aqAr"
+    },
+    {
+      "album": {
+        "name": "My Place In All Of This",
+        "url": "https://open.spotify.com/album/6MSSXxMqy8gBkDXX2Qt3bc"
+      },
+      "artists": [
+        {
+          "name": "Gl\u00fcckskind",
+          "url": "https://open.spotify.com/artist/0xNA7naxc98lqPi8SEW5aQ"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255867,
+      "name": "My Place In All Of This",
+      "url": "https://open.spotify.com/track/4GUy82Xl4t8VahAQEKOkeu"
     },
     {
       "album": {
@@ -3374,7 +3418,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 238064,
       "name": "Outburst",
       "url": "https://open.spotify.com/track/46rDnWTP4gxXUHCSmxhkEi"
@@ -3410,7 +3454,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 142496,
       "name": "Ouverture",
       "url": "https://open.spotify.com/track/4IMSWBePRqcnYJSoDicxs1"
@@ -3432,7 +3476,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 297212,
       "name": "Oze",
       "url": "https://open.spotify.com/track/1C8JLFbJ59YxIqK6A5W6gI"
@@ -3486,7 +3530,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 282701,
       "name": "Passing Days",
       "url": "https://open.spotify.com/track/7sdwHdRvLJMAWbJyrJTOto"
@@ -3988,7 +4032,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 195238,
       "name": "Rwanda",
       "url": "https://open.spotify.com/track/49LaPsUVPkYcNRILcwQ1jX"
@@ -4042,7 +4086,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 274851,
       "name": "Samothrace",
       "url": "https://open.spotify.com/track/3ghGwVcpdzHpKnbc1d4Lhg"
@@ -4082,7 +4126,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 239453,
       "name": "Sans \u00e0-coups",
       "url": "https://open.spotify.com/track/4sJTtXcxqguusPFVOu6e3R"
@@ -4122,7 +4166,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-30",
+      "date_removed": null,
       "duration_ms": 246955,
       "name": "Serpens",
       "url": "https://open.spotify.com/track/5ObdBofAI0Kzb9kSeLoU5I"
@@ -4346,7 +4390,7 @@
       ],
       "date_added": "2025-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-25",
+      "date_removed": null,
       "duration_ms": 219317,
       "name": "Sooner or Later",
       "url": "https://open.spotify.com/track/1iCPxpiD6HT7es28nNKtjn"
@@ -4436,7 +4480,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 221577,
       "name": "Spiral - Edit",
       "url": "https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R"
@@ -4454,7 +4498,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 221066,
       "name": "Spirits of Joy",
       "url": "https://open.spotify.com/track/1jBKge3KmUCAtNazWzl93H"
@@ -4584,7 +4628,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 347573,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/7796i2MNYilY0pIWch65qD"
@@ -4848,7 +4892,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 292680,
       "name": "THE BRIDGE // 4:04AM",
       "url": "https://open.spotify.com/track/3mMtP3qD2c4vNihc2qOJst"
@@ -5010,7 +5054,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 251996,
       "name": "THEYYAM",
       "url": "https://open.spotify.com/track/4c0ZMkSllDdDsdxx5N57hz"
@@ -5032,7 +5076,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 283520,
       "name": "Things",
       "url": "https://open.spotify.com/track/1HfZcA8qWGZZF4sWcP575R"
@@ -5220,7 +5264,7 @@
       ],
       "date_added": "2026-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 301693,
       "name": "Understanding",
       "url": "https://open.spotify.com/track/3J0vp8vpVMGRVKl4V0TCFE"
@@ -5480,7 +5524,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 166875,
       "name": "what a day",
       "url": "https://open.spotify.com/track/0QWzeUKqTxgvs9eLK9J9TS"
@@ -5534,7 +5578,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 253884,
       "name": "where did all the emotion go?",
       "url": "https://open.spotify.com/track/3htZTXzNepPeycbszowENV"
@@ -5740,7 +5784,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 244013,
       "name": "YUPIK",
       "url": "https://open.spotify.com/track/4ATi8vjHseQrIjJgZ5Ot6o"

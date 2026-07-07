@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: Rose Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,178 likes - 66 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,215 likes - 66 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

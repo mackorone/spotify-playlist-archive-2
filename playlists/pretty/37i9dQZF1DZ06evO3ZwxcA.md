@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 
 > This is P.O.D.\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,657 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,663 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 | 32 | [Set Your Eyes to Zion](https://open.spotify.com/track/14FV0Ztls1XhObQixrDKLG) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 4:06 |
 | 33 | [Truly Amazing \- from The Passion of the Christ \- Songs; Original Songs Inspired by the Film](https://open.spotify.com/track/3MjCdCFDqQ8ly8wfCFROgh) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Greatest Hits \(The Atlantic Years\)](https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU) | 3:01 |
 | 34 | [Higher](https://open.spotify.com/track/6jlQBh3PNUWRUHsATIfQWU) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 3:22 |
-| 35 | [Addicted \- 2022 Remixed & Remastered](https://open.spotify.com/track/6lkzA4O1ZrnNR9drGy15Qv) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 3:32 |
-| 36 | [Soundboy Killa](https://open.spotify.com/track/5LwqDzyg1wpNzJIwTvfIFz) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK) | 4:06 |
+| 35 | [Soundboy Killa](https://open.spotify.com/track/5LwqDzyg1wpNzJIwTvfIFz) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK) | 4:06 |
+| 36 | [Addicted \- 2022 Remixed & Remastered](https://open.spotify.com/track/6lkzA4O1ZrnNR9drGy15Qv) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 3:32 |
 | 37 | [Roots in Stereo](https://open.spotify.com/track/41WwJd8ZzllMdQQqp11e6D) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Testify](https://open.spotify.com/album/5RIaPLtgEKqhRjLO5KHZfo) | 4:42 |
 | 38 | [Psalm 150](https://open.spotify.com/track/5Q6aIW2cDbCgir92Gm3HC1) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 0:55 |
 | 39 | [Murdered Love](https://open.spotify.com/track/7ieBW9vf5toe7zzfhwf63z) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 | 49 | [They Don't Like It](https://open.spotify.com/track/034PqbW9ySTVrW8q3fKVDL) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS), [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [American Sun](https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7) | 3:06 |
 | 50 | [America \(feat\. P.O.D.\)](https://open.spotify.com/track/43uplr4bhcs8FJIU5KBzB1) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Shaman](https://open.spotify.com/album/5kkPOwoE9ItngbGIF6m3A4) | 4:35 |
 
-Snapshot ID: `akhNAAAAAACOSMhv7VtObAJyo+Bm8FN7`
+Snapshot ID: `akmegAAAAADJzG7MigK27K6bQ27b7pwE`

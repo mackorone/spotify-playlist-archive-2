@@ -1,13 +1,193 @@
 {
   "description": "Keep the villa vibes vibing with music from and inspired by the new season of Love Island USA, streaming only on Peacock. ",
-  "num_followers": 173846,
+  "num_followers": 175198,
   "original_name": "Love Island USA Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOzLJhcgemJP1T94tvNbMNcvXi9q",
+  "snapshot_id": "AAAAAEzANOr6RZ29NY30Uztkb0BvB9Kj",
   "tracks": [
+    {
+      "added_at": "2026-07-07 01:00:06",
+      "album": {
+        "name": "Torn",
+        "url": "https://open.spotify.com/album/24BosB3DMNzQlOTsThPuhk"
+      },
+      "artists": [
+        {
+          "name": "Jennel Garcia",
+          "url": "https://open.spotify.com/artist/1Ff1cuzx8IrADaKnclXscN"
+        }
+      ],
+      "duration_ms": 217041,
+      "name": "Torn",
+      "url": "https://open.spotify.com/track/3j9q9MpY5FNofZqlS8XyZZ"
+    },
+    {
+      "added_at": "2026-07-07 01:00:06",
+      "album": {
+        "name": "Where It All Begins",
+        "url": "https://open.spotify.com/album/2R2r5znrUcILHyifNaJJS1"
+      },
+      "artists": [
+        {
+          "name": "Summer Kennedy",
+          "url": "https://open.spotify.com/artist/4zXwKatKsxYa8T9dAOzlgS"
+        }
+      ],
+      "duration_ms": 220496,
+      "name": "Starts Today",
+      "url": "https://open.spotify.com/track/2GUzF9SUst3KMkOO6TNdRT"
+    },
+    {
+      "added_at": "2026-07-07 01:00:06",
+      "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+    },
+    {
+      "added_at": "2026-07-07 01:00:06",
+      "album": {
+        "name": "DANIEL SAINT BLACK",
+        "url": "https://open.spotify.com/album/033pqklNfICmvL9B6Sr4KE"
+      },
+      "artists": [
+        {
+          "name": "DANIEL SAINT BLACK",
+          "url": "https://open.spotify.com/artist/6BcKS2QML7xQKdB61anBsL"
+        }
+      ],
+      "duration_ms": 193886,
+      "name": "Waste Away",
+      "url": "https://open.spotify.com/track/7ww84lZcPbzd9HhlVeAMTy"
+    },
+    {
+      "added_at": "2026-07-07 01:00:06",
+      "album": {
+        "name": "The Cover Up",
+        "url": "https://open.spotify.com/album/18rZPmge5rAsO4UoW5Tu4J"
+      },
+      "artists": [
+        {
+          "name": "Royal Deluxe",
+          "url": "https://open.spotify.com/artist/54OEro9sWZ3mVfMdlz2CIt"
+        }
+      ],
+      "duration_ms": 167573,
+      "name": "Everybody Wants to Rule the World",
+      "url": "https://open.spotify.com/track/4h9ypggUVFmZy5jLhP0qc7"
+    },
+    {
+      "added_at": "2026-07-07 01:00:06",
+      "album": {
+        "name": "Beggars",
+        "url": "https://open.spotify.com/album/6XOLLSUUwIxDchwL1IHMKS"
+      },
+      "artists": [
+        {
+          "name": "Boundary Run",
+          "url": "https://open.spotify.com/artist/1hJO0ngj5eZT0uNzuZpXi8"
+        }
+      ],
+      "duration_ms": 191576,
+      "name": "Beggars",
+      "url": "https://open.spotify.com/track/5INKVy5tC1hqEW3f3zfVWC"
+    },
+    {
+      "added_at": "2026-07-07 01:00:06",
+      "album": {
+        "name": "Another Day in Paradise",
+        "url": "https://open.spotify.com/album/2E5DMVhzXKqNhT1Z299o1F"
+      },
+      "artists": [
+        {
+          "name": "JOYNER",
+          "url": "https://open.spotify.com/artist/1pakHcLagqX5JUsfpAd34w"
+        },
+        {
+          "name": "Cat vs Cat",
+          "url": "https://open.spotify.com/artist/2IBe2vFa2AjnQI5uXvMQ80"
+        }
+      ],
+      "duration_ms": 211224,
+      "name": "Another Day in Paradise",
+      "url": "https://open.spotify.com/track/6D2McE2rfRKCFVz5k6tjZ6"
+    },
+    {
+      "added_at": "2026-07-07 01:00:06",
+      "album": {
+        "name": "Rae",
+        "url": "https://open.spotify.com/album/46Jco9fSE6QrG6yIjaIK8q"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 146436,
+      "name": "Fun While It Lasted",
+      "url": "https://open.spotify.com/track/5oJ23AXrTt4BiXvjAiUq6b"
+    },
+    {
+      "added_at": "2026-07-07 01:00:06",
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/5Qv77MVxdXB0ezy08pHyCN"
+      },
+      "artists": [
+        {
+          "name": "Madison Davenport",
+          "url": "https://open.spotify.com/artist/67lUGSoSY52iFCmINwlwuy"
+        }
+      ],
+      "duration_ms": 213818,
+      "name": "Dance With The Devil",
+      "url": "https://open.spotify.com/track/7qsvLkYHAcQpfzwh5UJ0Uo"
+    },
+    {
+      "added_at": "2026-07-07 01:00:06",
+      "album": {
+        "name": "Play With Fire",
+        "url": "https://open.spotify.com/album/4YF6V63d7ppuSbJfl5vDo4"
+      },
+      "artists": [
+        {
+          "name": "San Gabriel",
+          "url": "https://open.spotify.com/artist/2wRuqsllb6PvUKbj51GPCX"
+        }
+      ],
+      "duration_ms": 188205,
+      "name": "Play With Fire",
+      "url": "https://open.spotify.com/track/2JbeIhYLS9uUfDvaztXiU4"
+    },
+    {
+      "added_at": "2026-07-07 01:00:06",
+      "album": {
+        "name": "TRUSTFALL",
+        "url": "https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 237192,
+      "name": "TRUSTFALL",
+      "url": "https://open.spotify.com/track/1gUwi1o1S9W9P0FQgJdY8s"
+    },
     {
       "added_at": "2026-07-03 02:00:24",
       "album": {
@@ -3139,6 +3319,22 @@
       "duration_ms": 202700,
       "name": "Say You Do (feat. DJ Fresh)",
       "url": "https://open.spotify.com/track/74jDFju8j3sX1yQJeLdJ6O"
+    },
+    {
+      "added_at": "2026-07-07 01:00:06",
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     }
   ],
   "unique_name": "Love Island USA Official Playlist",

@@ -696,7 +696,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 204608,
       "name": "Any Fonque",
       "url": "https://open.spotify.com/track/3b8rRgi5xBiuLFyYI4tXzX"
@@ -1809,6 +1809,24 @@
     },
     {
       "album": {
+        "name": "BRONX",
+        "url": "https://open.spotify.com/album/5KqjKYQf5vF9psAOVOGmXq"
+      },
+      "artists": [
+        {
+          "name": "Sapian",
+          "url": "https://open.spotify.com/artist/4hWjDdwaSTU6SgOk5ZP3GT"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175984,
+      "name": "BRONX",
+      "url": "https://open.spotify.com/track/2lFdLsPwPddCUfI6SvmFVC"
+    },
+    {
+      "album": {
         "name": "Burn It!",
         "url": "https://open.spotify.com/album/5TR3C0glWSRf10jWPnrsg5"
       },
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 217142,
       "name": "Callin' For Your Love",
       "url": "https://open.spotify.com/track/4oGXsjFaiNCnBtZaWgQzGO"
@@ -5078,6 +5096,24 @@
       "duration_ms": 202746,
       "name": "Get Down Tonight",
       "url": "https://open.spotify.com/track/00Q20ZhL0FwSJh2Ryaei0h"
+    },
+    {
+      "album": {
+        "name": "Get Funky, Get Down",
+        "url": "https://open.spotify.com/album/1yGDIQO2LixM0r9jPbgnIN"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215246,
+      "name": "Get Funky, Get Down",
+      "url": "https://open.spotify.com/track/0WbmmCsVyoZlOBxK3N9N8d"
     },
     {
       "album": {

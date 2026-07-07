@@ -1794,10 +1794,28 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 170253,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/0X8C9RaE8BVVEXcwvEW7A4"
+    },
+    {
+      "album": {
+        "name": "PROJECT X",
+        "url": "https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140666,
+      "name": "FACE DOWN",
+      "url": "https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 
 > This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,980 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,981 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2I5NIp.md) - [plain]
 | 30 | [Pink Turns To Red](https://open.spotify.com/track/3D9OSA8HEKm8sgAjNlJWCW) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra) | 3:28 |
 | 31 | [Broken High Heels](https://open.spotify.com/track/79SlwHe953CEa23taTs4lr) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn) | 3:48 |
 | 32 | [Livin' On Love](https://open.spotify.com/track/4b2b3mqvydxobI09OKyFus) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow) | 4:03 |
-| 33 | [Apple Pie And A .45](https://open.spotify.com/track/54cGgNOgqmT1f8nthDR1gY) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 3:45 |
+| 33 | [Beat Up Guitar](https://open.spotify.com/track/5wmXBmD91LB1CJ7UDtpxfi) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp) | 4:27 |
 | 34 | [Dumb It Down](https://open.spotify.com/track/3wTUzLbHkoZFtOnyH6lvOw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra) | 4:00 |
-| 35 | [Beat Up Guitar](https://open.spotify.com/track/5wmXBmD91LB1CJ7UDtpxfi) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp) | 4:27 |
+| 35 | [Apple Pie And A .45](https://open.spotify.com/track/54cGgNOgqmT1f8nthDR1gY) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 3:45 |
 | 36 | [Too Close](https://open.spotify.com/track/72feSuQENqrGxdtFEkzAsn) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow) | 4:39 |
 | 37 | [Suspicion](https://open.spotify.com/track/54GemqkThOyu7uX0YEMMdI) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf) | 3:55 |
 | 38 | [I'm A Woman](https://open.spotify.com/track/7mK9ELM2oGKDTFdFXbijHo) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Basie Swings The Blues](https://open.spotify.com/album/2LgSp4MlNeohQq2WmmqI0V) | 4:58 |
 | 39 | [Such A Pretty Flame](https://open.spotify.com/track/17ELglPxWgiSNWiBt5Ikyt) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/6gxZYKQUyBWCAORiXWmcw5) | 4:31 |
 | 40 | [The Push I Need](https://open.spotify.com/track/72jXCg5cXZMzT3FNdr0ioY) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/0TIwHlfSAdoKocsyDpStow) | 3:48 |
-| 41 | [Steamy Windows](https://open.spotify.com/track/2TtO2IPMFIsDD37rpxRmCE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Funky Blues](https://open.spotify.com/album/6z5ROrtqUdrWD8wdr1KrJI) | 5:03 |
-| 42 | [Uncivil War](https://open.spotify.com/track/5LZpKuCUv8OoHj9DscLdAr) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 4:45 |
+| 41 | [Uncivil War](https://open.spotify.com/track/5LZpKuCUv8OoHj9DscLdAr) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 4:45 |
+| 42 | [It's 2 A.M.](https://open.spotify.com/track/004057Au60xNi5a6rvCTDE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp) | 4:28 |
 | 43 | [Is There Anybody Up There?](https://open.spotify.com/track/2lnTvZxC4kILRg4fKNR0bR) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn) | 3:44 |
-| 44 | [It's 2 A.M.](https://open.spotify.com/track/004057Au60xNi5a6rvCTDE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/0DaEqzbN2sKZR0aOmYgLNp) | 4:28 |
-| 45 | [Nobody But You](https://open.spotify.com/track/1Hx3Rr9ySm9IUVofvbNVKr) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra) | 4:19 |
-| 46 | [Jesus Just Left Chicago](https://open.spotify.com/track/7adzBeIB0YQEtjUCI8Tghz) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Outskirts of Love](https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf) | 4:35 |
+| 44 | [Steamy Windows](https://open.spotify.com/track/2TtO2IPMFIsDD37rpxRmCE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Funky Blues](https://open.spotify.com/album/6z5ROrtqUdrWD8wdr1KrJI) | 5:03 |
+| 45 | [Jesus Just Left Chicago](https://open.spotify.com/track/7adzBeIB0YQEtjUCI8Tghz) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Outskirts of Love](https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf) | 4:35 |
+| 46 | [Nobody But You](https://open.spotify.com/track/1Hx3Rr9ySm9IUVofvbNVKr) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/1UMACJldLWGtSf3qMWqXra) | 4:19 |
 | 47 | [Mama Said](https://open.spotify.com/track/3tl3S4BUNrONIO4OTEsBC7) | [Dion](https://open.spotify.com/artist/15FyiY3ChN0QRspHIQYq0W), [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Girl Friends](https://open.spotify.com/album/7hCroZ1E3ma2zt6UdV3rw0) | 3:17 |
 | 48 | [Under My Thumb](https://open.spotify.com/track/7180g7qzIg60eVmeUfxIlG) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt) | 3:10 |
-| 49 | [Cadillac Blue](https://open.spotify.com/track/0Q5gpSEoto4Tl0V53yEPu0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn) | 3:39 |
-| 50 | [Outskirts Of Love](https://open.spotify.com/track/4i7CJNvFHCiA9uN1OVMFMw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf) | 4:05 |
+| 49 | [Outskirts Of Love](https://open.spotify.com/track/4i7CJNvFHCiA9uN1OVMFMw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/43FppNzUwLeZqMFm59cuHf) | 4:05 |
+| 50 | [Cadillac Blue](https://open.spotify.com/track/0Q5gpSEoto4Tl0V53yEPu0) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6NelbBXEEbRxQnXl8mRoTn) | 3:39 |
 
-Snapshot ID: `akhNAAAAAAB/644MIW3OdSkaV5la5Cz3`
+Snapshot ID: `akmegAAAAABiRJlmvXA58qQWeOasO2SR`

@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 10897,
+  "num_followers": 10905,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAACu6slNppCVYv4MxH8VfRDC",
+  "snapshot_id": "akmegAAAAAAhyWz6LxyeK3AzjAfjYXRU",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
       "artists": [
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        },
+        {
+          "name": "Mereba",
+          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
         }
       ],
-      "duration_ms": 192017,
-      "name": "Video (feat. Ravyn Lenae)",
-      "url": "https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb"
+      "duration_ms": 224933,
+      "name": "Where I'm From (feat. Mereba)",
+      "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
     },
     {
       "added_at": null,
@@ -359,22 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         },
         {
-          "name": "Mereba",
-          "url": "https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL"
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 224933,
-      "name": "Where I'm From (feat. Mereba)",
-      "url": "https://open.spotify.com/track/2iEkQcLF4Mjm91hTS3XW86"
+      "duration_ms": 192017,
+      "name": "Video (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb"
     },
     {
       "added_at": null,
@@ -403,22 +403,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "blkswn",
-        "url": "https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs"
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
       },
       "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 188209,
-      "name": "Glass Flows",
-      "url": "https://open.spotify.com/track/06BLANboqUEnvBHJH0aViQ"
+      "duration_ms": 265680,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
     },
     {
       "added_at": null,
@@ -443,18 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+        "name": "blkswn",
+        "url": "https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs"
       },
       "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
         {
           "name": "Ravyn Lenae",
           "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
         }
       ],
-      "duration_ms": 265680,
-      "name": "Satellites",
-      "url": "https://open.spotify.com/track/4IVtwWBNj9NEBNR7tkXDqb"
+      "duration_ms": 188209,
+      "name": "Glass Flows",
+      "url": "https://open.spotify.com/track/06BLANboqUEnvBHJH0aViQ"
     },
     {
       "added_at": null,
@@ -479,6 +479,22 @@
       "duration_ms": 183337,
       "name": "Settle Down (with Cory Henry, Ravyn Lenae)",
       "url": "https://open.spotify.com/track/48FaBfZfSV5i3PjEqtDNzs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "Venom",
+      "url": "https://open.spotify.com/track/5E0P7zYAZ0k22RwNgWxUXA"
     },
     {
       "added_at": null,
@@ -519,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 209186,
-      "name": "Venom",
-      "url": "https://open.spotify.com/track/5E0P7zYAZ0k22RwNgWxUXA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Xtasy (Remix) [feat. Doechii]",
         "url": "https://open.spotify.com/album/4Wofyf34UgjYpqwPAELW7n"
       },
@@ -551,6 +551,22 @@
       "duration_ms": 270497,
       "name": "Xtasy (Remix) [feat. Doechii]",
       "url": "https://open.spotify.com/track/610faOY46uYOBi3KXazpSj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HYPNOS",
+        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 239453,
+      "name": "Lullabye",
+      "url": "https://open.spotify.com/track/3o5N3CTZy1ZIhGu6KKVTXq"
     },
     {
       "added_at": null,
@@ -583,22 +599,6 @@
       "duration_ms": 219648,
       "name": "Spice - EP Version",
       "url": "https://open.spotify.com/track/2QmU4B8fsyWcTQLVDl06Pk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HYPNOS",
-        "url": "https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ"
-      },
-      "artists": [
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 239453,
-      "name": "Lullabye",
-      "url": "https://open.spotify.com/track/3o5N3CTZy1ZIhGu6KKVTXq"
     },
     {
       "added_at": null,

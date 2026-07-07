@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-330 songs - 15 hr 54 min
+331 songs - 15 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,8 @@
 | [EVERY CHANCE I GET \(feat\. Lil Baby & Lil Durk\)](https://open.spotify.com/track/1EJIcDYXwSqipW5dFe4uJz) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [KHALED KHALED](https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf) | 3:56 | 2024-06-11 |  |
 | [Exactly](https://open.spotify.com/track/08LjGHJ3xsccMyCJdztsns) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bet On Me](https://open.spotify.com/album/6TFMgR0C4F4ql0OkXSf9Fh) | 1:59 | 2024-06-11 |  |
 | [Exotic](https://open.spotify.com/track/1zIb1bYJAo1UdR2Xf4oESb) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Starlito](https://open.spotify.com/artist/4SjND9kT6Ja5TSPZTyUUab) | [Harder Than Ever](https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt) | 2:42 | 2024-06-11 |  |
-| [Face Down](https://open.spotify.com/track/0X8C9RaE8BVVEXcwvEW7A4) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Pain Made Me Numb](https://open.spotify.com/album/7twIV2sZc0N7mdFbmJxsvB) | 2:50 | 2024-06-11 |  |
+| [Face Down](https://open.spotify.com/track/0X8C9RaE8BVVEXcwvEW7A4) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv) | [Pain Made Me Numb](https://open.spotify.com/album/7twIV2sZc0N7mdFbmJxsvB) | 2:50 | 2024-06-11 | 2026-07-07 |
+| [FACE DOWN](https://open.spotify.com/track/2LVWUtmRJR7vVrbmKovmbB) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PROJECT X](https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc) | 2:20 | 2026-07-06 |  |
 | [FAIRYTALES IN MIDTOWN \(with TyFontaine\)](https://open.spotify.com/track/57h517zwkQm1dXmxEYQe3d) | [Chase Shakur](https://open.spotify.com/artist/1gW1Q6W7d3a9dDXk1KlbG8), [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [WONDERLOVE](https://open.spotify.com/album/762bn51AK5BKS70aJnvgc9) | 1:48 | 2025-05-31 |  |
 | [Fake Jammin](https://open.spotify.com/track/2feXtMaA1fQd7Wy7fgImtP) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 2:19 | 2025-01-28 |  |
 | [Family Matters](https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Family Matters](https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ) | 7:36 | 2025-05-31 |  |

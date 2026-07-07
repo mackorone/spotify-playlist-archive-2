@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAAD/vC8OaO+u59yAlkokvXay",
+  "snapshot_id": "akmegAAAAAAL0YoCcwA8LJ/LDvOaetRX",
   "tracks": [
     {
       "added_at": null,
@@ -31,26 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feels Like Yesterday",
-        "url": "https://open.spotify.com/album/58jpCi5IRbnK1C40ZvCbLk"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "Jaleel Shaw",
-          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
-        }
-      ],
-      "duration_ms": 129749,
-      "name": "Feels Like Yesterday",
-      "url": "https://open.spotify.com/track/12mCpmQFWTW9D5pWGDrHmI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "All About Us",
         "url": "https://open.spotify.com/album/5lbwUSHWsrUmeGwFztkVNp"
       },
@@ -67,6 +47,26 @@
       "duration_ms": 158500,
       "name": "All About Us",
       "url": "https://open.spotify.com/track/3EwT7uWmy6f5T8LRcQwiRn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feels Like Yesterday",
+        "url": "https://open.spotify.com/album/58jpCi5IRbnK1C40ZvCbLk"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "Jaleel Shaw",
+          "url": "https://open.spotify.com/artist/6z1JfePZKsClonbknZiSKv"
+        }
+      ],
+      "duration_ms": 129749,
+      "name": "Feels Like Yesterday",
+      "url": "https://open.spotify.com/track/12mCpmQFWTW9D5pWGDrHmI"
     },
     {
       "added_at": null,
@@ -143,18 +143,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/7bUQgZFI7qmDIDOYbX11hB"
+        "name": "United We Are",
+        "url": "https://open.spotify.com/album/3QTVsIyjtbHhXGxwh7H6j3"
       },
       "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 171743,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/4N1GefIU9qoEb6NyqCRgzs"
+      "duration_ms": 278278,
+      "name": "Sally (feat. Harrison)",
+      "url": "https://open.spotify.com/track/6bf2hU0YYUwrVuAlQG757L"
     },
     {
       "added_at": null,
@@ -175,22 +179,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "United We Are",
-        "url": "https://open.spotify.com/album/3QTVsIyjtbHhXGxwh7H6j3"
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/7bUQgZFI7qmDIDOYbX11hB"
       },
       "artists": [
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        },
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 278278,
-      "name": "Sally (feat. Harrison)",
-      "url": "https://open.spotify.com/track/6bf2hU0YYUwrVuAlQG757L"
+      "duration_ms": 171743,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/4N1GefIU9qoEb6NyqCRgzs"
     },
     {
       "added_at": null,
@@ -522,43 +522,15 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 164125,
-      "name": "Checkpoint Titanium",
-      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg"
-      },
-      "artists": [
+        },
         {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+          "name": "a l l i e",
+          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
         }
       ],
-      "duration_ms": 120502,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 148177,
-      "name": "Pocket Dial",
-      "url": "https://open.spotify.com/track/3WEGuOAWPeomUbXPNlqDrT"
+      "duration_ms": 215741,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/0NSzcdUZkO3yTxggLzMjzf"
     },
     {
       "added_at": null,
@@ -583,6 +555,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/0kSemWukHX5rGm8hAV2qsU"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 148177,
+      "name": "Pocket Dial",
+      "url": "https://open.spotify.com/track/3WEGuOAWPeomUbXPNlqDrT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/6upY303oACCGOxgkI3Ndtg"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 120502,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/2zoNDCHS1jVpmoVU9z79Re"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Checkpoint Titanium",
         "url": "https://open.spotify.com/album/3lgkJAtymWIUUnK2W7AB55"
       },
@@ -590,15 +594,11 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "a l l i e",
-          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
         }
       ],
-      "duration_ms": 215741,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/0NSzcdUZkO3yTxggLzMjzf"
+      "duration_ms": 164125,
+      "name": "Checkpoint Titanium",
+      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
     },
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROLLERCOASTER",
-        "url": "https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K"
-      },
-      "artists": [
-        {
-          "name": "Cadence Weapon",
-          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
-        },
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        }
-      ],
-      "duration_ms": 207238,
-      "name": "tl;dr",
-      "url": "https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/1F2izZLOL5MCCr3XBjvr42"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 240000,
       "name": "How Can It Be (feat. Maddee)",
       "url": "https://open.spotify.com/track/6YVTj0QZozXD9nOq2iDeUx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ROLLERCOASTER",
+        "url": "https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K"
+      },
+      "artists": [
+        {
+          "name": "Cadence Weapon",
+          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 207238,
+      "name": "tl;dr",
+      "url": "https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87"
     },
     {
       "added_at": null,

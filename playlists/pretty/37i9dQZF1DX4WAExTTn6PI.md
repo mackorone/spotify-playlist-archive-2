@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Rising voices, enduring roots\. Cover:  Andrew Sa
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,845 likes - 101 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,855 likes - 101 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 100 | [Break the Levee](https://open.spotify.com/track/0UIBeV7RaQeqZ1lPWZ3bWQ) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Break the Levee](https://open.spotify.com/album/7445dZQs93YCgHkd5TPiRS) | 3:46 |
 | 101 | [Commune](https://open.spotify.com/track/3NNL6y4g69QzTOJvyy9Oub) | [Caylan Hays](https://open.spotify.com/artist/2jCGUSXTvCi26FKOg6c2Wr) | [Commune](https://open.spotify.com/album/00TK0K8oNzWUyNNf0eSLNE) | 3:35 |
 
-Snapshot ID: `AAAAAKAx/QHpYupvTi65+D9IuMkBMWVl`
+Snapshot ID: `AAAAAEr/49IMEJWIPK62JsueJJwe9B6W`

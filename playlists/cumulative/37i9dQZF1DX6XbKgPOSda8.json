@@ -1297,24 +1297,6 @@
     },
     {
       "album": {
-        "name": "Grandes Exitos Originales",
-        "url": "https://open.spotify.com/album/2MdfIDjiq3PWbuWUvOKHgu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Sonador",
-          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
-        }
-      ],
-      "date_added": "2022-03-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 213773,
-      "name": "El Gigante de Hierro",
-      "url": "https://open.spotify.com/track/4nM60LWvzqM7SbBrbvJ2GO"
-    },
-    {
-      "album": {
         "name": "Lo Nuevo Y\u2026Lo Mejor",
         "url": "https://open.spotify.com/album/7qIY0P5qM0LzI1SYx9r8dZ"
       },
@@ -1348,6 +1330,24 @@
       "duration_ms": 216362,
       "name": "El Gigante De Hierro",
       "url": "https://open.spotify.com/track/1ZJNo8bONshDKu7VQGeaw1"
+    },
+    {
+      "album": {
+        "name": "Grandes Exitos Originales",
+        "url": "https://open.spotify.com/album/2MdfIDjiq3PWbuWUvOKHgu"
+      },
+      "artists": [
+        {
+          "name": "Grupo So\u00f1ador",
+          "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
+        }
+      ],
+      "date_added": "2022-03-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213773,
+      "name": "El Gigante de Hierro",
+      "url": "https://open.spotify.com/track/4nM60LWvzqM7SbBrbvJ2GO"
     },
     {
       "album": {
@@ -1766,7 +1766,7 @@
       },
       "artists": [
         {
-          "name": "Grupo Sonador",
+          "name": "Grupo So\u00f1ador",
           "url": "https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF"
         }
       ],

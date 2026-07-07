@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 479650,
+  "num_followers": 479667,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAABnyqE2xTx6e4FN2lMmYRVk",
+  "snapshot_id": "akmegAAAAAB4PtH8eSztGNlNBOOCkSwl",
   "tracks": [
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 209093,
+      "name": "Millones de Besos",
+      "url": "https://open.spotify.com/track/1YIOScsBgvsOV7prw6mh8I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FIVE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 186773,
       "name": "Moneda (feat. Gerardo Ortiz)",
       "url": "https://open.spotify.com/track/6zR3aAwQ7cn2U7F1sBtdj1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 209093,
-      "name": "Millones de Besos",
-      "url": "https://open.spotify.com/track/1YIOScsBgvsOV7prw6mh8I"
     },
     {
       "added_at": null,

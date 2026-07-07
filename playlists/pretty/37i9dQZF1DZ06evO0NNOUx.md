@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 
 > This is Forrest Frank\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,528 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,667 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0NNOUx.md) - [plain]
 | 49 | [JUNE GLOOM](https://open.spotify.com/track/6gIgB4sGliVmisT36yiST7) | [PARTY WAVE](https://open.spotify.com/artist/6iQ0SOfahRnTthPNGhgzkB), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [DAWN PATROL](https://open.spotify.com/album/0DM6P83bgDbFuwNaZz09fh) | 3:12 |
 | 50 | [SOMEBODY PRAYED](https://open.spotify.com/track/0jjnC0eVyhRRYfXLjBYFmg) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Tate Butts](https://open.spotify.com/artist/32BHM1azoYgb5hwKBDiOm3) | [SOMEBODY PRAYED](https://open.spotify.com/album/68Jhhl9zyFSKYaleHuTbJd) | 5:01 |
 
-Snapshot ID: `akhNAAAAAACeCTFFcxqF01eTuONxCLmG`
+Snapshot ID: `akmegAAAAAAci8qFPIP1QGQw+OfjbnCs`

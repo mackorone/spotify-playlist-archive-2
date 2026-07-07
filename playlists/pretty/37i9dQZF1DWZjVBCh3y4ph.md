@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk & kompa du moment\. Photo : Leto x Kim x DJ Ken
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,510 likes - 40 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,521 likes - 40 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 10 | [Relou](https://open.spotify.com/track/3g3DRVGahKUq02yl1XfTgv) | [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67), [Lorenz](https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN) | [Relou](https://open.spotify.com/album/5EWCre9KILsuCbV6q5NZya) | 3:26 |
 | 11 | [Konpa Paradise 4 \- Wasnt me remix](https://open.spotify.com/track/7aVCFK6lDTQlaLa5voH5pf) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Forever Music](https://open.spotify.com/artist/5h452pRjLcTPSrgg1MpSje) | [Konpa Paradise 4 \(Wasnt me remix\)](https://open.spotify.com/album/7dOC0qSj6TQmOlcNyCxDco) | 2:59 |
 | 12 | [Bam Love](https://open.spotify.com/track/2w2j4DxB5j4QVXtr8hxpMP) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Naïka](https://open.spotify.com/artist/4tk2WUKBOS9nKZj7bPQIXT) | [EX\-VOTO](https://open.spotify.com/album/6VbZz0zsL8N2iL9lkHvxFP) | 3:12 |
-| 13 | [PREND](https://open.spotify.com/track/7l0O6ayNgvnYLbHyiXlwRe) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [PREND](https://open.spotify.com/album/30ChMtPPnx5wRKUszbAQ7e) | 2:19 |
+| 13 | [PREND](https://open.spotify.com/track/7l0O6ayNgvnYLbHyiXlwRe) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se) | [PREND](https://open.spotify.com/album/30ChMtPPnx5wRKUszbAQ7e) | 2:18 |
 | 14 | [Bisous](https://open.spotify.com/track/2vk577QgjCZEnyiLpTHB3c) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [SAM](https://open.spotify.com/artist/3bmZk0Yel5uz2zLrtWzVaw), [Gtnn](https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk) | [Bisous](https://open.spotify.com/album/0wZqj5SPxXHjxQVd0fAQfk) | 2:40 |
 | 15 | [J'ai mal](https://open.spotify.com/track/2oW0vvqgNUSZyET55JAGNc) | [Ya Levis](https://open.spotify.com/artist/45oFvHE9QZYC1vn5pVCDlu) | [J'ai mal](https://open.spotify.com/album/1mgk83l9omGatU0flDJSgk) | 3:09 |
 | 16 | [GRAVÉ](https://open.spotify.com/track/70puvfYeWuVer3WfhkWg2E) | [DJ Tutuss](https://open.spotify.com/artist/2SkBnjiSVe0sC24id8iuWv), [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351) | [ECLIPSE](https://open.spotify.com/album/6J4LB3z5ox0vl0O1AJY7W3) | 2:37 |

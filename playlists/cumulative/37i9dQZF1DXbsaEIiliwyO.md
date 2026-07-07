@@ -4,7 +4,7 @@
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover: キタニタツヤ Tatsuya Kitani
 
-257 songs - 16 hr 3 min
+258 songs - 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [デュエルしようぜ!](https://open.spotify.com/track/1mm6I55gPefJxseHD72QQl) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [デュエルしようぜ!](https://open.spotify.com/album/6zNm7YkMUWN9xzBEcvXv3T) | 3:21 | 2024-04-16 | 2024-05-15 |
 | [ドッペルゲンガー](https://open.spotify.com/track/5xpsKfVMWMQZuTo3msJDC2) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [ドッペルゲンガー / Re:Re:](https://open.spotify.com/album/5GVdkWBl18UeBJL2gR6L4H) | 3:39 | 2024-08-13 | 2024-09-20 |
 | [ドライブ・マイ・イデア](https://open.spotify.com/track/4kprPDP5JqxcBLqKXjhMTJ) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [ドライブ・マイ・イデア](https://open.spotify.com/album/1hyXLEpA9pZfWenpqUUE5Q) | 3:37 | 2024-04-16 | 2024-07-10 |
+| [ナンセンスナンセンス](https://open.spotify.com/track/1jGaAEq1siWBT18msX0zfJ) | [frederic](https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW) | [ナンセンスナンセンス](https://open.spotify.com/album/6iS55LaBQjNaUmqdEZhls4) | 2:34 | 2026-07-06 |  |
 | [ハッピーラッキーチャッピー](https://open.spotify.com/track/5Gb4sEeI5iitQlGaVbEcxX) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [BONE BORN BOMB](https://open.spotify.com/album/0KzrfbyL2GmX4fARXOY7pC) | 3:04 | 2025-07-22 | 2025-10-14 |
 | [ハルシネイト](https://open.spotify.com/track/5CKCkKyjtxI3wpDyEMLxbA) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ハルシネイト](https://open.spotify.com/album/29VQzxOjTwNEeIBlQVumMs) | 3:25 | 2024-05-21 | 2024-07-10 |
 | [バイラルハック](https://open.spotify.com/track/5p7KkbTZX8AkF3dX1Qy1El) | [Crab 蟹 Club](https://open.spotify.com/artist/2Po8LYeurfstvqMOLCTTs6) | [バイラルハック](https://open.spotify.com/album/7JRTYH3mxTQQGm2hCPvPZW) | 3:54 | 2024-04-16 | 2025-01-15 |
@@ -253,7 +254,7 @@
 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 | 2023-08-03 | 2023-12-09 |
 | [逆夢](https://open.spotify.com/track/2tymuyImEjfqVCearVpYCf) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 5:08 | 2023-12-05 | 2023-12-30 |
 | [逆様](https://open.spotify.com/track/3hETmWK6G4wLMRCADo6hXn) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [逆様](https://open.spotify.com/album/1qq7jAulzATlVCltzautOz) | 2:51 | 2026-06-09 |  |
-| [透明](https://open.spotify.com/track/4uGObz1zPMzNy6ZMUnaFNR) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [透明](https://open.spotify.com/album/4OD3PNAySdYTVqPHAdn3TD) | 3:16 | 2026-04-03 |  |
+| [透明](https://open.spotify.com/track/4uGObz1zPMzNy6ZMUnaFNR) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [透明](https://open.spotify.com/album/4OD3PNAySdYTVqPHAdn3TD) | 3:16 | 2026-04-03 | 2026-07-07 |
 | [運命](https://open.spotify.com/track/3qyqpWcRKyundtraHd65hq) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [運命](https://open.spotify.com/album/2Y81L90yDhnCKmoPsxjh7e) | 3:43 | 2024-07-02 | 2025-02-04 |
 | [遥か彼方](https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG](https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA) | 4:03 | 2023-08-03 | 2024-04-19 |
 | [金字塔](https://open.spotify.com/track/0G0FQEoNawD8i0LCrDMAl4) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [金字塔](https://open.spotify.com/album/4YlNSnSJwiqx9koO9S9l13) | 4:46 | 2026-06-23 | 2026-07-01 |

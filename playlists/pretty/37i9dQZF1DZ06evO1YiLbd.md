@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YiLbd.md) - [plain]
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,227 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,227 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YiLbd.md) - [plain]
 | 32 | [Sword of Courage](https://open.spotify.com/track/3WfVVKF0evK1vkfNj3oEEd) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録](https://open.spotify.com/album/3KS2hEGBf4rUhwb9pZtUFZ) | 4:02 |
 | 33 | [Will's Theme \- silvery\-white](https://open.spotify.com/track/5ouG8Twxj8BsTOzw3L0piO) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の陸](https://open.spotify.com/album/68WpGoFWvyrgC5spT55DLQ) | 3:53 |
 | 34 | [無個性の苦悩](https://open.spotify.com/track/2k00f8Wu5dp8ghDXUfcg6b) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 2:11 |
-| 35 | [ハイキュー!!](https://open.spotify.com/track/5zjO7yPF7xRUA4APAvxjV8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo) | 3:54 |
-| 36 | [Fruzel Cardeneia](https://open.spotify.com/track/77TFlCNN1Hx4AFq09FseXc) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の漆](https://open.spotify.com/album/0ucLLOtixqZbos8Si4DqV9) | 2:49 |
-| 37 | [At the Limit](https://open.spotify.com/track/73lIW5oxKkR64pK4wtcR1u) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\)](https://open.spotify.com/album/7BUKQaQMPOIxGHXFKCCvVz) | 4:34 |
-| 38 | [Trinity](https://open.spotify.com/track/0DllV6dwG26PTq513ZzUqY) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 1:18 |
-| 39 | [Wistoria: Wand and Sword](https://open.spotify.com/track/3IHDAxWfAlM2FQ8Pp31AHO) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の壱](https://open.spotify.com/album/78nqHhROUNGaF7HG6buFdD) | 4:03 |
+| 35 | [At the Limit](https://open.spotify.com/track/73lIW5oxKkR64pK4wtcR1u) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\)](https://open.spotify.com/album/7BUKQaQMPOIxGHXFKCCvVz) | 4:34 |
+| 36 | [ハイキュー!!](https://open.spotify.com/track/5zjO7yPF7xRUA4APAvxjV8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo) | 3:54 |
+| 37 | [Wistoria: Wand and Sword](https://open.spotify.com/track/3IHDAxWfAlM2FQ8Pp31AHO) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の壱](https://open.spotify.com/album/78nqHhROUNGaF7HG6buFdD) | 4:03 |
+| 38 | [Fruzel Cardeneia](https://open.spotify.com/track/77TFlCNN1Hx4AFq09FseXc) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の漆](https://open.spotify.com/album/0ucLLOtixqZbos8Si4DqV9) | 2:49 |
+| 39 | [Trinity](https://open.spotify.com/track/0DllV6dwG26PTq513ZzUqY) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 1:18 |
 | 40 | [強くなれ](https://open.spotify.com/track/1lxtWPkY7QaSxvwG2Szl2E) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78) | 3:10 |
 | 41 | [雑食](https://open.spotify.com/track/1ndLmZB3Kom7Q7EdJHWDRa) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 2:39 |
 | 42 | [I'm Sorry for Everything I've done](https://open.spotify.com/track/2zIQJsE1KrqlHWG0EVbEMT) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 2:34 |
 | 43 | [爆殺王!!](https://open.spotify.com/track/3zTlEfMGB9sQyyqDQMdlHn) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 2:05 |
 | 44 | [神業速攻](https://open.spotify.com/track/78PkKrhnqhbiYWOyPRYD3E) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78) | 2:53 |
-| 45 | [Butterfly Effect](https://open.spotify.com/track/4wHJVX5RVrtyhzGKMYlESP) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\)](https://open.spotify.com/album/7BUKQaQMPOIxGHXFKCCvVz) | 3:28 |
-| 46 | [敗者](https://open.spotify.com/track/4vRbvyWLU5Salwd9RYous6) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo) | 2:42 |
+| 45 | [敗者](https://open.spotify.com/track/4vRbvyWLU5Salwd9RYous6) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo) | 2:42 |
+| 46 | [Butterfly Effect](https://open.spotify.com/track/4wHJVX5RVrtyhzGKMYlESP) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\)](https://open.spotify.com/album/7BUKQaQMPOIxGHXFKCCvVz) | 3:28 |
 | 47 | [超速攻](https://open.spotify.com/track/3QuURNtWiAAAa6dLPLLyx5) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 3:21 |
-| 48 | [Kindly..\. dude](https://open.spotify.com/track/4zGZL6ILYwQZvFMFXeb5kt) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Vigilantes \(Original Series Soundtrack\)](https://open.spotify.com/album/0BfsPs7yKQx7fWC2Pg0PjG) | 2:35 |
-| 49 | [Next, it's our turn!](https://open.spotify.com/track/6TajSVdj5kaPGQ8ucMhM6V) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: You're Next \(Original Soundtrack\)](https://open.spotify.com/album/2ps5rnO9MVGyMMUqiLzEOq) | 3:52 |
-| 50 | [The Fields of Rigarden](https://open.spotify.com/track/7lqiSW1H38DPiRc6O6TO8l) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の捌](https://open.spotify.com/album/3BCk6XjIy0TfwJNN7pFmxt) | 1:50 |
+| 48 | [The Fields of Rigarden](https://open.spotify.com/track/7lqiSW1H38DPiRc6O6TO8l) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の捌](https://open.spotify.com/album/3BCk6XjIy0TfwJNN7pFmxt) | 1:50 |
+| 49 | [Grief \(Piano Solo Ver.\)](https://open.spotify.com/track/0JUCIeprrKwVed2QfqQgiC) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の拾](https://open.spotify.com/album/7kUqiHgx0KjShdCYP0fuFX) | 3:05 |
+| 50 | [Kindly..\. dude](https://open.spotify.com/track/4zGZL6ILYwQZvFMFXeb5kt) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Vigilantes \(Original Series Soundtrack\)](https://open.spotify.com/album/0BfsPs7yKQx7fWC2Pg0PjG) | 2:35 |
 
-Snapshot ID: `akhNAAAAAAAbY1PSK+uANSf5lr1GMPAw`
+Snapshot ID: `akmegAAAAABExo9FEMNLFofrw4VWGhif`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. Foto: Don Ryvcko
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,809 likes - 74 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,823 likes - 74 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 73 | [Acero Freestyle](https://open.spotify.com/track/47RxXzGm9gpe0GDvA596eD) | [Ada Betsabe](https://open.spotify.com/artist/7uNB59gDx8XVl1rTJDL1KT) | [Acero Freestyle](https://open.spotify.com/album/5SsZtHiwleLMvdrHiyYKiA) | 2:52 |
 | 74 | [Coronao](https://open.spotify.com/track/4shbpacNwx4HA2S3oHMR5I) | [Junior Gil](https://open.spotify.com/artist/2LBDh8GU37v9bQKYj9GbwC), [Dexter Music](https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG) | [Coronao](https://open.spotify.com/album/4uiwrs2bLbVnc8cQaOtXqU) | 2:52 |
 
-Snapshot ID: `AAAAAPX2lLLlkwGW+3nQQkdCw/NiAZoG`
+Snapshot ID: `AAAAAEpwIND4aRtMap6+EHzMeWfkt4xD`

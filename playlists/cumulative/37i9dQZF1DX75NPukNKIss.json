@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-10-26",
-  "description": "Way 2 Slizzy. Cover: 41",
+  "description": "Way 2 Slizzy. Cover: Lil Yachty",
   "name": "Sexy Drill",
   "tracks": [
     {
@@ -326,7 +326,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 184615,
       "name": "BACK ON THE STREETS",
       "url": "https://open.spotify.com/track/7Ho3bo307nys30J2omGY7V"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 135934,
       "name": "Choosy",
       "url": "https://open.spotify.com/track/3KVCN9ODBU5EMzsmljXYOA"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2026-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 128043,
       "name": "Flaws",
       "url": "https://open.spotify.com/track/0Nj7JkhfY8XpoZtzJLgR3H"
@@ -1535,6 +1535,28 @@
     },
     {
       "album": {
+        "name": "Big Mama",
+        "url": "https://open.spotify.com/album/7v3EosXU86nuE9Z8BZXc1O"
+      },
+      "artists": [
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191786,
+      "name": "Hostage (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/444z1jv3wI93INDpIMJcX7"
+    },
+    {
+      "album": {
         "name": "Y'all Won",
         "url": "https://open.spotify.com/album/4OK4oXIqQRka0O3zpR5tgi"
       },
@@ -1546,7 +1568,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 169927,
       "name": "IDK",
       "url": "https://open.spotify.com/track/74PjW0jUFYXW5BBYr7p4e8"
@@ -1568,7 +1590,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 191918,
       "name": "Idk Why",
       "url": "https://open.spotify.com/track/76tdSQZfSqhogGshiOgKUq"
@@ -1704,7 +1726,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 123205,
       "name": "JHOLIDAY 2",
       "url": "https://open.spotify.com/track/3i9esirqy4JsNbHqK19EHp"
@@ -2250,7 +2272,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 179140,
       "name": "Oh Child",
       "url": "https://open.spotify.com/track/0cItKRlC0KMHLA1Ki8bwC2"
@@ -2778,7 +2800,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 145584,
       "name": "So What Now",
       "url": "https://open.spotify.com/track/0rh6u2BWnjGaV4Z9Ow7Mpl"
@@ -2800,7 +2822,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 142451,
       "name": "Something Wrong (with Don Toliver)",
       "url": "https://open.spotify.com/track/1LR9rQCGhM0MqESvRQ9EFX"
@@ -3128,7 +3150,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 185379,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/6d5VSSCOSe0GIA7uAvUxxl"
@@ -3176,7 +3198,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 142786,
       "name": "Truth In The Lies (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/6jx0JZB3f0Cc2jjdldYaDb"

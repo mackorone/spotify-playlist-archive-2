@@ -8587,6 +8587,24 @@
     },
     {
       "album": {
+        "name": "Sick!",
+        "url": "https://open.spotify.com/album/1lXKY85pNjdwFbkpAy4Nj5"
+      },
+      "artists": [
+        {
+          "name": "Pet Taxi",
+          "url": "https://open.spotify.com/artist/2nQkFrDhzQcQVI2ZIW8n5A"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179877,
+      "name": "Sick!",
+      "url": "https://open.spotify.com/track/2A00B4SjJEASXKfu4zJ8c8"
+    },
+    {
+      "album": {
         "name": "Silver stream",
         "url": "https://open.spotify.com/album/6Vkuv7FT3vkKcutqitEITZ"
       },

@@ -4,7 +4,7 @@
 
 > This is Adam Brand\. The essential tracks, all in one playlist.
 
-149 songs - 8 hr 38 min
+150 songs - 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [If Heaven Has a Soundtrack](https://open.spotify.com/track/4PDqTf0wLEsF9UgVaiNoHb) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get On Your Feet](https://open.spotify.com/album/4VdAuCZjhP4kjQCiJuVvwX) | 4:08 | 2024-12-09 |  |
 | [It's Five O'clock Somewhere](https://open.spotify.com/track/1tpLiHWWQgR1ZCvADJy0dn) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand And The Outlaws](https://open.spotify.com/album/5clDFcwdE6JRSK4bmqFnwz) | 3:36 | 2023-06-17 | 2024-12-07 |
 | [It's Five O'clock Somewhere](https://open.spotify.com/track/5x4tZpxfhFZ7EUnK04Fc76) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand and The Outlaws](https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h) | 3:36 | 2024-12-08 |  |
-| [Just Drive](https://open.spotify.com/track/0xIDNsqh5vgRClu4t31F7b) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8) | 4:41 | 2025-11-02 |  |
+| [Just Drive](https://open.spotify.com/track/0xIDNsqh5vgRClu4t31F7b) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8) | 4:41 | 2025-11-02 | 2026-07-07 |
 | [King Of The Road](https://open.spotify.com/track/27o9MjwpPTXbpjMsmHzIk8) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 3:27 | 2025-10-19 | 2025-10-21 |
 | [King Of The Road](https://open.spotify.com/track/2eHg7AeicXla6XsfH5G11n) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand \(Special Bonus Tour Edition\)](https://open.spotify.com/album/6gbQrmthnmtDT6soaOitlD) | 3:27 | 2025-11-07 |  |
 | [Last Man Standing](https://open.spotify.com/track/0tEowECj8DcDWMSh1dCmZd) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Greatest Hits 1998\-2008](https://open.spotify.com/album/6hfdWnqQl1UJ4vwQGaRmjn) | 3:13 | 2025-04-01 | 2025-04-02 |
@@ -106,6 +106,7 @@
 | [Never Live Without You](https://open.spotify.com/track/2quoZq5GjF0JUVvVIBITTB) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Adam Brand](https://open.spotify.com/album/7xuAD3xXT9OjNqF4qqjRPK) | 3:57 | 2025-10-24 | 2025-10-25 |
 | [New England Highway](https://open.spotify.com/track/79Ug0xTExdzoqRLIFfizav) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Built For Speed](https://open.spotify.com/album/2MUhRWkiW8VCwfc6XbTkXc) | 3:42 | 2025-04-01 | 2025-04-04 |
 | [Nothin' but a Good Time](https://open.spotify.com/track/0ODdLjkgDxYreabKGk3A0V) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia), [The Outlaws](https://open.spotify.com/artist/2GNgLedxhidCGAbrUfR9iY) | [Adam Brand and The Outlaws](https://open.spotify.com/album/4T2RGByox3Mf1gy23ZlE0h) | 3:25 | 2025-07-14 | 2025-09-04 |
+| [Nothin's Gonna Slow Me Down](https://open.spotify.com/track/3scfg58dGRPc2uoYWyqesI) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Built For Speed](https://open.spotify.com/album/3lHKHRM23ctBS8tJjISrJZ) | 4:27 | 2026-07-07 |  |
 | [Now We're Talking](https://open.spotify.com/track/0mh2dUkBkferlWRAegLjqX) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Now We're Talking](https://open.spotify.com/album/2ndeM4J88d7JlETqwwwH8n) | 3:00 | 2025-11-13 | 2025-11-14 |
 | [Now We're Talking](https://open.spotify.com/track/3y94TeBQxO7z59PZLLLQH9) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Now We're Talking](https://open.spotify.com/album/1bhWVaM0AdYQxAd6eO38Id) | 3:00 | 2023-06-24 | 2024-12-08 |
 | [Number 34](https://open.spotify.com/track/06KtoiOxJgda07fHxV5IjZ) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/79nJV2y658fgNuiZL3Lbv8) | 2:54 | 2025-10-22 |  |

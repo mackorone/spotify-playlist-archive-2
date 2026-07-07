@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain](/playlists/plain/37i9dQZF1DWW1yuCSjnKtM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWW1yuCSjnKtM)
 
-### [Viral Hits UK & IE](https://open.spotify.com/playlist/37i9dQZF1DWW1yuCSjnKtM)
+### [Viral Songs UK & IE](https://open.spotify.com/playlist/37i9dQZF1DWW1yuCSjnKtM)
 
 > Hot right now 📈 cover: Olivia Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,159 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,160 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1yuCSjnKtM.md) - [plain]
 | 69 | [Actin' Tough](https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM) | [Dean Turnley](https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd) | [Actin' Tough](https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ) | 3:07 |
 | 70 | [Go \- Crazy Cousinz Remix \[Radio Edit\]](https://open.spotify.com/track/0lmbuGRNm5u7yvQsZLzwnM) | [Malika](https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr) | [Go \(I Don't Wanna\)](https://open.spotify.com/album/7ts8h3snVDrf6fkppi6ejw) | 2:50 |
 
-Snapshot ID: `AAAAACDK6xFTWBM916J/hoUH5FYcSjVJ`
+Snapshot ID: `AAAAAGje24xCeHmKlOHX/Bc8d0PQfmCz`

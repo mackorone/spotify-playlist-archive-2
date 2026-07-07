@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Ken Carson, J Hus, Rylo Rodriguez and more!
 
-10,447 songs - 19 day 23 hr 52 min
+10,447 songs - 19 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3355,7 +3355,7 @@
 | [From Time](https://open.spotify.com/track/273xXrZ0FA9RuasArFE8DW) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [RICH BADNE$$](https://open.spotify.com/album/3QEvDzaSN6vYp4ESbCGU5C) | 1:57 | 2026-02-20 | 2026-02-28 |
 | [From Time \- EASTMIX](https://open.spotify.com/track/761zsGo8lptkYKzQ0Wxrlb) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [EASTMIX, Vol\. 1](https://open.spotify.com/album/2yngRjGxgCQaMqaQcDvCOO) | 1:00 | 2025-12-19 | 2026-01-17 |
 | [FROM YO HANDS](https://open.spotify.com/track/5xjtqhWynyBiOgEEGAFCtO) | [Pat](https://open.spotify.com/artist/2r1ggfwCYWOhNGERNev4yK) | [FROM YO HANDS](https://open.spotify.com/album/1LXoE2zVe2gVLmShMBoto1) | 2:02 | 2025-10-17 | 2025-10-25 |
-| [Front & Bacc](https://open.spotify.com/track/0ryLK6sqGWmTd3P1GD7hFf) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Rich Rapping II](https://open.spotify.com/album/2HzEIHx4raKJbL4pK9f7re) | 1:51 | 2026-07-03 |  |
+| [Front & Bacc](https://open.spotify.com/track/0ryLK6sqGWmTd3P1GD7hFf) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Rich Rapping II](https://open.spotify.com/album/2HzEIHx4raKJbL4pK9f7re) | 1:41 | 2026-07-03 |  |
 | [FRONT END](https://open.spotify.com/track/0BPm9AqZtOmUy2djIvWK6G) | [Jidenna](https://open.spotify.com/artist/4TsHKU8l8Wq7n7OPVikirn), [Roman GianArthur](https://open.spotify.com/artist/7hgRzsQGjlm1zifNoigyB9), [Gardens & Villa](https://open.spotify.com/artist/5NgfalfOtMDHkJ0SbFAxyA), [Sensei Bueno](https://open.spotify.com/artist/6DeXzVZLaZtTG2Fszbwm1R) | [FRONT END](https://open.spotify.com/album/1fsSyNqjdPIET1E92Gk6k1) | 3:07 | 2023-04-21 | 2023-04-29 |
 | [Frozen](https://open.spotify.com/track/19n0UZuW8AArMVWNztoXu9) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Frozen](https://open.spotify.com/album/38pljsLWSlsa5LbZ53glzq) | 2:59 | 2022-04-29 | 2022-05-14 |
 | [Frozen](https://open.spotify.com/track/4TZxTK5bGS8dxjLTjcQsxx) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Frozen](https://open.spotify.com/album/0Qql7tnjwxJ4Lpmy8H3Uwl) | 2:45 | 2022-08-05 | 2022-08-13 |

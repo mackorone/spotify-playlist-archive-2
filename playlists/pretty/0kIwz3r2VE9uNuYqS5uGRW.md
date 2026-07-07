@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 
 > 
 
-[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 274 songs - 14 hr 30 min
+[CerVon Campbell](https://open.spotify.com/user/1275620579) - 524 likes - 277 songs - 14 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -282,5 +282,8 @@ pretty - [cumulative](/playlists/cumulative/0kIwz3r2VE9uNuYqS5uGRW.md) - [plain]
 | 272 | [XPLAIN](https://open.spotify.com/track/0BQzBMDqey6HsgmuzB8U7q) | [Liv Brokie](https://open.spotify.com/artist/2zszPQfClIZIgqbZTASRox), [ceURR](https://open.spotify.com/artist/6Y0WoIjWZioX80GDPiAirt) | [XPLAIN](https://open.spotify.com/album/6NepNksFz502tlRuumDNze) | 1:39 |
 | 273 | [Movie Star](https://open.spotify.com/track/7F7rB5cx9bFek4enhmoFKO) | [Peter Dallas](https://open.spotify.com/artist/47Te42t2C14Fo2yXqa6kZh), [Shuttle](https://open.spotify.com/artist/5QtW5ZhAsPzCUqZYldTWCh) | [Movie Star](https://open.spotify.com/album/5wvkrxiDZKUWaH7xXStpQz) | 2:50 |
 | 274 | [Yahweh](https://open.spotify.com/track/1MVO7xPHCFYIZOZPX5NqtY) | [Gerald Harris](https://open.spotify.com/artist/6hZTneb28osXbsR3PQ8FtC) | [Yahweh](https://open.spotify.com/album/0i2g8DXKRAO6SzFLOVr4qr) | 4:12 |
+| 275 | [i forgive the world because it has you](https://open.spotify.com/track/2OnukW55TRUtQeW2GkS8Rd) | [No Hana](https://open.spotify.com/artist/2O6qXZs283cofBBPPxbMAT) | [i forgive the world because it has you](https://open.spotify.com/album/4Seqmn9ryTWxm0v3TBEHdC) | 3:18 |
+| 276 | [Never Had](https://open.spotify.com/track/45EKsEATCU3KLdyitu8bjm) | [Charlie Sly](https://open.spotify.com/artist/4qvTP5uRYPsE9qHJHgDrKr) | [The Waiter](https://open.spotify.com/album/4fVJZw78OQ25XSYahysgzv) | 4:18 |
+| 277 | [Çanta](https://open.spotify.com/track/5PciuGV2uEpN04euyW0GW8) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Çanta](https://open.spotify.com/album/3kMlCInlvl5Rz6miGkC3R6) | 3:47 |
 
-Snapshot ID: `AAAWGKWksdF5qwupeK4mXt3ARcL8BQ/8`
+Snapshot ID: `AAAWG/WBGlz5xmfxnR7CLgFWv8v9GyjZ`

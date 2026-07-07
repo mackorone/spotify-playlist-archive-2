@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 37571,
+  "num_followers": 37572,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAAAs86J3eUJ+6fqV4MojfGWz",
+  "snapshot_id": "akmegAAAAACtDhJncszmOGFOSkbXaYcZ",
   "tracks": [
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intercession (Live)",
-        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 216689,
-      "name": "He Is Lord - Live",
-      "url": "https://open.spotify.com/track/6IBwHO3idGE5V01APsbpUB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together (We'll Get Through This)",
         "url": "https://open.spotify.com/album/5Dzgbis6hGQ5btWlMDnoK3"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 366360,
       "name": "Love You Forever - Live",
       "url": "https://open.spotify.com/track/60D2WPkJJy2bl9FIscd5vb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intercession (Live)",
+        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 216689,
+      "name": "He Is Lord - Live",
+      "url": "https://open.spotify.com/track/6IBwHO3idGE5V01APsbpUB"
     },
     {
       "added_at": null,

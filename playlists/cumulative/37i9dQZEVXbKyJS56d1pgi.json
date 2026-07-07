@@ -9014,10 +9014,32 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
+    },
+    {
+      "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/3F41BssbVvfFnh6DdDODeO"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198786,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg"
     },
     {
       "album": {
@@ -25949,6 +25971,24 @@
     },
     {
       "album": {
+        "name": "COCKTAIL",
+        "url": "https://open.spotify.com/album/0kWei4i3wj1HEVAggyE9fN"
+      },
+      "artists": [
+        {
+          "name": "Soraia Ramos",
+          "url": "https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209859,
+      "name": "NHA TERRA",
+      "url": "https://open.spotify.com/track/4CGRP8FSHRzcuHA1hDkQk7"
+    },
+    {
+      "album": {
         "name": "Nha Terra",
         "url": "https://open.spotify.com/album/7gdoM0c1l4yw20IhLdCgCL"
       },
@@ -25960,7 +26000,7 @@
       ],
       "date_added": "2026-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 209859,
       "name": "Nha Terra",
       "url": "https://open.spotify.com/track/7vtV7ejdWpEXE9AZbhoCJT"
@@ -30188,7 +30228,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 192755,
       "name": "Pra N\u00e3o Esquecer De Mim",
       "url": "https://open.spotify.com/track/7dLw4FM0rYgwJEzkbwRVr1"
@@ -37866,7 +37906,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-06",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"

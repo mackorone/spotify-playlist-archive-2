@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 8219,
+  "num_followers": 8218,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAACDkZ4Rv6RQyrKWm7gkXp+K",
+  "snapshot_id": "akmegAAAAADuGRfAMz9ooVK0xH2VdEEx",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "TUDO \u00c9 SOBRE M\u00daSICA",
+        "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "TUDO \u00c9 SOBRE M\u00daSICA",
+      "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encrenqueira",
         "url": "https://open.spotify.com/album/0zEQ45hjcWKDS2DYZazdIu"
       },
@@ -475,26 +495,6 @@
       "duration_ms": 171125,
       "name": "Encrenqueira",
       "url": "https://open.spotify.com/track/2T6s33kOlJhdLpfgAYS5Ey"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TUDO \u00c9 SOBRE M\u00daSICA",
-        "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "TUDO \u00c9 SOBRE M\u00daSICA",
-      "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ZyZy",
+        "url": "https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "A.LBeats",
+          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+        }
+      ],
+      "duration_ms": 149833,
+      "name": "ZyZy",
+      "url": "https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dif\u00edcil De Amar",
         "url": "https://open.spotify.com/album/7gWMmfxYPhUYvlzbpdFHDi"
       },
@@ -879,22 +899,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "ZyZy",
-        "url": "https://open.spotify.com/album/63dILFwx1nksgdLf0wV2En"
+        "name": "Se Prepara",
+        "url": "https://open.spotify.com/album/54gWxTm90TbQ5oRa4aNp3E"
       },
       "artists": [
         {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
         },
         {
-          "name": "A.LBeats",
-          "url": "https://open.spotify.com/artist/75CnXNAQnP7OnmFXNLygOo"
+          "name": "Lucas e Orelha",
+          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         }
       ],
-      "duration_ms": 149833,
-      "name": "ZyZy",
-      "url": "https://open.spotify.com/track/1Q46nAXdJcAObxxiaD34jt"
+      "duration_ms": 182415,
+      "name": "Se Prepara",
+      "url": "https://open.spotify.com/track/5d1Eidz7m4vdgHsfZRKcec"
     },
     {
       "added_at": null,
@@ -935,30 +959,6 @@
       "duration_ms": 151737,
       "name": "Dona de Mim - Novela",
       "url": "https://open.spotify.com/track/1AkaAvhFy8BUk5PH93hTP6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Se Prepara",
-        "url": "https://open.spotify.com/album/54gWxTm90TbQ5oRa4aNp3E"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        },
-        {
-          "name": "Lucas e Orelha",
-          "url": "https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 182415,
-      "name": "Se Prepara",
-      "url": "https://open.spotify.com/track/5d1Eidz7m4vdgHsfZRKcec"
     },
     {
       "added_at": null,
@@ -1291,6 +1291,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
+        "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
+      },
+      "artists": [
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 171500,
+      "name": "Caso Perdido",
+      "url": "https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Azzy (Ao Vivo no REP Festival)",
+        "url": "https://open.spotify.com/album/0hILiPum0Z7x4phAzYvRFx"
+      },
+      "artists": [
+        {
+          "name": "REP Festival",
+          "url": "https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 106882,
+      "name": "Poesia Ac\u00fastica #11: Nada Mudou - Ao Vivo no REP Festival",
+      "url": "https://open.spotify.com/track/1KL1zF41NMIFaqiq9tBZOs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetisas No Topo",
         "url": "https://open.spotify.com/album/18Q1qTfrRw9Jm74np2b3p4"
       },
@@ -1331,50 +1375,6 @@
       "duration_ms": 693750,
       "name": "Poetisas No Topo",
       "url": "https://open.spotify.com/track/5kJ7otQOQrMC5CnkYGZaC9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Azzy (Ao Vivo no REP Festival)",
-        "url": "https://open.spotify.com/album/0hILiPum0Z7x4phAzYvRFx"
-      },
-      "artists": [
-        {
-          "name": "REP Festival",
-          "url": "https://open.spotify.com/artist/2V9BaqjysjWIIi3GePdYXu"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 106882,
-      "name": "Poesia Ac\u00fastica #11: Nada Mudou - Ao Vivo no REP Festival",
-      "url": "https://open.spotify.com/track/1KL1zF41NMIFaqiq9tBZOs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Minha Ex \u00e9 Minha Maior F\u00e3",
-        "url": "https://open.spotify.com/album/6EjbpqfdOx0HdpScIcSoVw"
-      },
-      "artists": [
-        {
-          "name": "Penedo",
-          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 171500,
-      "name": "Caso Perdido",
-      "url": "https://open.spotify.com/track/1sSBuA1YfqxixnbuJAPSXH"
     },
     {
       "added_at": null,

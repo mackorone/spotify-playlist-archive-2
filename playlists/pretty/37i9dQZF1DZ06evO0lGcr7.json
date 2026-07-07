@@ -1,12 +1,12 @@
 {
   "description": "This is mxmtoon. The essential tracks, all in one playlist.",
-  "num_followers": 46590,
+  "num_followers": 46587,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAABbX3IaK2oLV6/qchGIRBdh",
+  "snapshot_id": "akmegAAAAACfaq5khK6sU6E/3oOKvwSx",
   "tracks": [
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "true colors (from Life is Strange)",
-        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 144440,
-      "name": "blister in the sun",
-      "url": "https://open.spotify.com/track/0gb3mgIlYlG3KcZZLMaVow"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i hate texas",
         "url": "https://open.spotify.com/album/4rPQF5Ujx6eTRGDrIfRl55"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 218656,
       "name": "i hate texas",
       "url": "https://open.spotify.com/track/6xEE80nW1NgNC2p04n4in5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "true colors (from Life is Strange)",
+        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 144440,
+      "name": "blister in the sun",
+      "url": "https://open.spotify.com/track/0gb3mgIlYlG3KcZZLMaVow"
     },
     {
       "added_at": null,
@@ -627,6 +627,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "blame game",
+      "url": "https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "rising (the deluxe)",
         "url": "https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw"
       },
@@ -643,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+        "name": "liminal space",
+        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
       },
       "artists": [
         {
           "name": "mxmtoon",
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        },
+        {
+          "name": "Kero Kero Bonito",
+          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
         }
       ],
-      "duration_ms": 209413,
-      "name": "blame game",
-      "url": "https://open.spotify.com/track/2eLi0ovGHZPjI99IpuHVWf"
+      "duration_ms": 209868,
+      "name": "the situation",
+      "url": "https://open.spotify.com/track/2e7kkDj5yIQFn4jRFP9vwM"
     },
     {
       "added_at": null,
@@ -691,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "liminal space",
-        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        },
-        {
-          "name": "Kero Kero Bonito",
-          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
-        }
-      ],
-      "duration_ms": 209868,
-      "name": "the situation",
-      "url": "https://open.spotify.com/track/2e7kkDj5yIQFn4jRFP9vwM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "true colors (from Life is Strange)",
         "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
@@ -723,6 +723,22 @@
       "duration_ms": 169320,
       "name": "every wave",
       "url": "https://open.spotify.com/track/0swoGl1Iu00peGZvqkjc8i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "liminal space",
+        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/5OjfzTg9KWyCARKi7UVnrr"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "liminal space",
-        "url": "https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "VHS",
-      "url": "https://open.spotify.com/track/5OjfzTg9KWyCARKi7UVnrr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "dawn",
         "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 234506,
-      "name": "dream of you",
-      "url": "https://open.spotify.com/track/4XYc66vQbFlTdgRUCLACsS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "dusk",
         "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 168200,
       "name": "myrtle ave.",
       "url": "https://open.spotify.com/track/5bmpuI2QKQm9TQgc4ObqJL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 234506,
+      "name": "dream of you",
+      "url": "https://open.spotify.com/track/4XYc66vQbFlTdgRUCLACsS"
     },
     {
       "added_at": null,

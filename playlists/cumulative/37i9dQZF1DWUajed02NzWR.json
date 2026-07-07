@@ -27,6 +27,28 @@
     },
     {
       "album": {
+        "name": "Polyphonic Dialogues: Shostakovich - Shchedrin",
+        "url": "https://open.spotify.com/album/36abjFHn6E5qXLtnFRxyIb"
+      },
+      "artists": [
+        {
+          "name": "Dmitri Shostakovich",
+          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
+        },
+        {
+          "name": "Joachim Kwetzinsky",
+          "url": "https://open.spotify.com/artist/1GPhEP8zBPmMwdQR1jVGqu"
+        }
+      ],
+      "date_added": "2020-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163386,
+      "name": "24 Preludes and Fugues, Op. 87: Fugue No. 7 In A Major",
+      "url": "https://open.spotify.com/track/4ZIYqwSH9aQj0Ua3jnhZsf"
+    },
+    {
+      "album": {
         "name": "Chopin: 24 Preludes; Sonata No.2, Op.35; Polonaise, Op.53",
         "url": "https://open.spotify.com/album/4b3t4n2VPy3swNN3STuUTc"
       },
@@ -2312,28 +2334,6 @@
       "duration_ms": 295840,
       "name": "Sheep May Safely Graze",
       "url": "https://open.spotify.com/track/7wEql4SrP9nL5U4zxmcrVM"
-    },
-    {
-      "album": {
-        "name": "Polyphonic Dialogues: Shostakovich - Shchedrin",
-        "url": "https://open.spotify.com/album/36abjFHn6E5qXLtnFRxyIb"
-      },
-      "artists": [
-        {
-          "name": "Dmitri Shostakovich",
-          "url": "https://open.spotify.com/artist/6s1pCNXcbdtQJlsnM1hRIA"
-        },
-        {
-          "name": "Joachim Kwetzinsky",
-          "url": "https://open.spotify.com/artist/1GPhEP8zBPmMwdQR1jVGqu"
-        }
-      ],
-      "date_added": "2020-09-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 163386,
-      "name": "Shostakovich: Fugue No. 7 In A Major",
-      "url": "https://open.spotify.com/track/4ZIYqwSH9aQj0Ua3jnhZsf"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Vishwanath & Sons",
-  "num_followers": 752760,
+  "num_followers": 752833,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABY4h7TzueCcvwAWWnyxDPAe2LmI",
+  "snapshot_id": "AAAAAIXc/lmY+4tHCuaKBZDDN8R3Rfhb",
   "tracks": [
     {
       "added_at": "2026-06-19 13:18:18",
@@ -33,24 +33,24 @@
       "url": "https://open.spotify.com/track/1DgQIai8yxUNhNeYVfaqT9"
     },
     {
-      "added_at": "2026-06-24 12:09:40",
+      "added_at": "2026-07-06 15:28:08",
       "album": {
-        "name": "Rise of Linga (From \"MAGUDAM\")",
-        "url": "https://open.spotify.com/album/5N1Cs9I75y7ArInnP9Nbs1"
+        "name": "Hangova (From \"DC\")",
+        "url": "https://open.spotify.com/album/5UJZXoC2VS7yzRE5c4R6Vz"
       },
       "artists": [
         {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
         },
         {
-          "name": "V7h",
-          "url": "https://open.spotify.com/artist/12UkcM69ZnjKtvacIgVDdl"
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
         }
       ],
-      "duration_ms": 204041,
-      "name": "Rise of Linga (From \"MAGUDAM\")",
-      "url": "https://open.spotify.com/track/0MghbXuLRY6AbFFAMaUAp8"
+      "duration_ms": 247816,
+      "name": "Hangova (From \"DC\")",
+      "url": "https://open.spotify.com/track/2MvEcJxJAxCr31kA5wHwve"
     },
     {
       "added_at": "2026-05-25 17:40:24",
@@ -75,6 +75,26 @@
       "duration_ms": 240264,
       "name": "God Mode",
       "url": "https://open.spotify.com/track/5IA1BVN8OKwpCxkgeOR8YM"
+    },
+    {
+      "added_at": "2026-07-03 11:16:04",
+      "album": {
+        "name": "One Name (From \"Jailer 2\")",
+        "url": "https://open.spotify.com/album/7KWPGNpGsoCAkxdnXR49s4"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "One Name (From \"Jailer 2\")",
+      "url": "https://open.spotify.com/track/4NMe76giWnRILo6nTfvPeP"
     },
     {
       "added_at": "2026-06-14 05:45:09",
@@ -119,6 +139,142 @@
       "duration_ms": 250000,
       "name": "Karuppa Kooda Va",
       "url": "https://open.spotify.com/track/0otC5nlgJZ27Q38AA8z6zj"
+    },
+    {
+      "added_at": "2026-05-21 07:50:03",
+      "album": {
+        "name": "Goindhamma (From \"Meesaya Murukku 2\")",
+        "url": "https://open.spotify.com/album/6CnMJQMB4MIUpqW1lrTBUz"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Kaushik Krish",
+          "url": "https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn"
+        },
+        {
+          "name": "Gana Vinoth",
+          "url": "https://open.spotify.com/artist/0MmchTAod9cNvsJgXVS6xz"
+        },
+        {
+          "name": "Gana Ulagam Dharani",
+          "url": "https://open.spotify.com/artist/45N8QChe58Gqzfrmv4mXe7"
+        },
+        {
+          "name": "Gana Sudhakar",
+          "url": "https://open.spotify.com/artist/53EDprcauSeF2W2aiMXet5"
+        }
+      ],
+      "duration_ms": 192961,
+      "name": "Goindhamma (From \"Meesaya Murukku 2\")",
+      "url": "https://open.spotify.com/track/4pibaSwz8vWyQQcFlDafFz"
+    },
+    {
+      "added_at": "2026-07-06 12:23:12",
+      "album": {
+        "name": "Aane Wala Star",
+        "url": "https://open.spotify.com/album/6oh1KtCCDzeuzdFbZV1AW5"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Dholu bholu",
+          "url": "https://open.spotify.com/artist/3P1t2nnqpPMD8auDRSSZy6"
+        }
+      ],
+      "duration_ms": 132712,
+      "name": "Aane Wala Star",
+      "url": "https://open.spotify.com/track/34520Ev0rl6reqiIKSr2eK"
+    },
+    {
+      "added_at": "2026-07-01 13:35:26",
+      "album": {
+        "name": "Kattazhagi (From \"Idhayam Murali\")",
+        "url": "https://open.spotify.com/album/1iAJt6ykrqfSdT7kYj6nZf"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "duration_ms": 247894,
+      "name": "Kattazhagi - From \"Idhayam Murali\"",
+      "url": "https://open.spotify.com/track/3cu96vg9O6aHH3jpXDMrLd"
+    },
+    {
+      "added_at": "2026-06-29 09:27:39",
+      "album": {
+        "name": "Gatta Kusthi 2 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0yXEnEExgNVMHD2SUBTfs0"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "duration_ms": 239111,
+      "name": "Sambavakaari",
+      "url": "https://open.spotify.com/track/5RW9jO56ZESGkS7fhYzItm"
+    },
+    {
+      "added_at": "2026-06-24 12:27:10",
+      "album": {
+        "name": "The Wild Theme (From \"OM Chapter 1: Udhiram - The Blood Wood\")",
+        "url": "https://open.spotify.com/album/6X2IEDUBAssbCb3CGHDWht"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
+        }
+      ],
+      "duration_ms": 105046,
+      "name": "The Wild Theme (From \"OM Chapter 1: Udhiram - The Blood Wood\")",
+      "url": "https://open.spotify.com/track/0uExLQym0YauTNhuLJGcps"
+    },
+    {
+      "added_at": "2026-06-24 12:09:40",
+      "album": {
+        "name": "Rise of Linga (From \"MAGUDAM\")",
+        "url": "https://open.spotify.com/album/5N1Cs9I75y7ArInnP9Nbs1"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "V7h",
+          "url": "https://open.spotify.com/artist/12UkcM69ZnjKtvacIgVDdl"
+        }
+      ],
+      "duration_ms": 204041,
+      "name": "Rise of Linga (From \"MAGUDAM\")",
+      "url": "https://open.spotify.com/track/0MghbXuLRY6AbFFAMaUAp8"
     },
     {
       "added_at": "2026-06-26 05:15:39",
@@ -197,56 +353,20 @@
       "url": "https://open.spotify.com/track/21sbfmwfNXEHraQkJqSuZn"
     },
     {
-      "added_at": "2026-07-03 11:16:04",
+      "added_at": "2026-07-06 12:39:03",
       "album": {
-        "name": "One Name (From \"Jailer 2\")",
-        "url": "https://open.spotify.com/album/7KWPGNpGsoCAkxdnXR49s4"
+        "name": "Ladies & Ladies (From \"Toxic - Tamil\")",
+        "url": "https://open.spotify.com/album/1tXWuTFfJQbPLdYCwlni8z"
       },
       "artists": [
         {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Heisenberg",
-          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
         }
       ],
-      "duration_ms": 60000,
-      "name": "One Name (From \"Jailer 2\")",
-      "url": "https://open.spotify.com/track/4NMe76giWnRILo6nTfvPeP"
-    },
-    {
-      "added_at": "2026-05-21 07:50:03",
-      "album": {
-        "name": "Goindhamma (From \"Meesaya Murukku 2\")",
-        "url": "https://open.spotify.com/album/6CnMJQMB4MIUpqW1lrTBUz"
-      },
-      "artists": [
-        {
-          "name": "Hiphop Tamizha",
-          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
-        },
-        {
-          "name": "Kaushik Krish",
-          "url": "https://open.spotify.com/artist/0qkE3ei6S9JhPheroVpzqn"
-        },
-        {
-          "name": "Gana Vinoth",
-          "url": "https://open.spotify.com/artist/0MmchTAod9cNvsJgXVS6xz"
-        },
-        {
-          "name": "Gana Ulagam Dharani",
-          "url": "https://open.spotify.com/artist/45N8QChe58Gqzfrmv4mXe7"
-        },
-        {
-          "name": "Gana Sudhakar",
-          "url": "https://open.spotify.com/artist/53EDprcauSeF2W2aiMXet5"
-        }
-      ],
-      "duration_ms": 192961,
-      "name": "Goindhamma (From \"Meesaya Murukku 2\")",
-      "url": "https://open.spotify.com/track/4pibaSwz8vWyQQcFlDafFz"
+      "duration_ms": 84363,
+      "name": "Ladies & Ladies - From \"Toxic - Tamil\"",
+      "url": "https://open.spotify.com/track/3PT2NyJLwJhLS0Y9VO8xgW"
     },
     {
       "added_at": "2026-07-03 06:26:19",
@@ -269,70 +389,6 @@
       "url": "https://open.spotify.com/track/0c1wb2AcT9Fgm4suQWDNtn"
     },
     {
-      "added_at": "2026-07-01 13:35:26",
-      "album": {
-        "name": "Kattazhagi (From \"Idhayam Murali\")",
-        "url": "https://open.spotify.com/album/1iAJt6ykrqfSdT7kYj6nZf"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        }
-      ],
-      "duration_ms": 247894,
-      "name": "Kattazhagi - From \"Idhayam Murali\"",
-      "url": "https://open.spotify.com/track/3cu96vg9O6aHH3jpXDMrLd"
-    },
-    {
-      "added_at": "2026-06-29 09:27:39",
-      "album": {
-        "name": "Gatta Kusthi 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0yXEnEExgNVMHD2SUBTfs0"
-      },
-      "artists": [
-        {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
-        },
-        {
-          "name": "Saindhavi",
-          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
-        }
-      ],
-      "duration_ms": 239111,
-      "name": "Sambavakaari",
-      "url": "https://open.spotify.com/track/5RW9jO56ZESGkS7fhYzItm"
-    },
-    {
-      "added_at": "2026-06-24 12:27:10",
-      "album": {
-        "name": "The Wild Theme (From \"OM Chapter 1: Udhiram - The Blood Wood\")",
-        "url": "https://open.spotify.com/album/6X2IEDUBAssbCb3CGHDWht"
-      },
-      "artists": [
-        {
-          "name": "Sai Abhyankkar",
-          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
-        },
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        }
-      ],
-      "duration_ms": 105046,
-      "name": "The Wild Theme (From \"OM Chapter 1: Udhiram - The Blood Wood\")",
-      "url": "https://open.spotify.com/track/0uExLQym0YauTNhuLJGcps"
-    },
-    {
       "added_at": "2026-05-18 09:30:20",
       "album": {
         "name": "Raga of Revenge (From \"DC\")",
@@ -347,6 +403,42 @@
       "duration_ms": 131250,
       "name": "Raga of Revenge (From \"DC\")",
       "url": "https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN"
+    },
+    {
+      "added_at": "2026-07-06 12:14:38",
+      "album": {
+        "name": "Settai (From \"Think Indie\")",
+        "url": "https://open.spotify.com/album/2wBctO4UnaTG48RVcu48wq"
+      },
+      "artists": [
+        {
+          "name": "VENGAYO",
+          "url": "https://open.spotify.com/artist/1P4oExIGGqxK4LYSjPxw01"
+        }
+      ],
+      "duration_ms": 133067,
+      "name": "Settai - From \"Think Indie\"",
+      "url": "https://open.spotify.com/track/639TuDa1HNjfQ5Z85y9obD"
+    },
+    {
+      "added_at": "2026-06-10 11:33:15",
+      "album": {
+        "name": "Parimala and Co (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6Vbm40V6D1xPit0KDzRzp9"
+      },
+      "artists": [
+        {
+          "name": "foxn",
+          "url": "https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv"
+        },
+        {
+          "name": "LRC",
+          "url": "https://open.spotify.com/artist/6boEBmjWJPo38PIgIiVmfo"
+        }
+      ],
+      "duration_ms": 168428,
+      "name": "Watcha Udadha",
+      "url": "https://open.spotify.com/track/6zoMXYC40gVmMXQJfJFeCg"
     },
     {
       "added_at": "2026-06-29 09:27:39",
@@ -405,6 +497,30 @@
       "url": "https://open.spotify.com/track/6an0MY3T2cKqk8kzHsAMYq"
     },
     {
+      "added_at": "2026-07-06 12:39:03",
+      "album": {
+        "name": "Chill Kill (From \"Renigunta 2\")",
+        "url": "https://open.spotify.com/album/25cNAbkz51a5d3WUHUYvYq"
+      },
+      "artists": [
+        {
+          "name": "Manu Ravichandran",
+          "url": "https://open.spotify.com/artist/0NLYyExvd65GY4HepMwfFR"
+        },
+        {
+          "name": "Sokku",
+          "url": "https://open.spotify.com/artist/4MjorUxUOXiATEWsP4CwI9"
+        },
+        {
+          "name": "Kavitha Gopi",
+          "url": "https://open.spotify.com/artist/1xDvHwPzrmRQB6CPlyIoTI"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "Chill Kill (From \"Renigunta 2\")",
+      "url": "https://open.spotify.com/track/7egsAJchu2NS1E9ikQkAtS"
+    },
+    {
       "added_at": "2026-06-26 05:23:23",
       "album": {
         "name": "Con City [TAMIL]",
@@ -429,6 +545,46 @@
       "url": "https://open.spotify.com/track/5KGx0VTq1lkF4zVqsS5Nh1"
     },
     {
+      "added_at": "2026-07-07 00:44:51",
+      "album": {
+        "name": "PROMISE",
+        "url": "https://open.spotify.com/album/6gvs5dJ0IsJI4NMB4METo3"
+      },
+      "artists": [
+        {
+          "name": "Saindhavi",
+          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
+        },
+        {
+          "name": "Saravana Deepan",
+          "url": "https://open.spotify.com/artist/0XrCY9H62Y3X8eExYhh240"
+        }
+      ],
+      "duration_ms": 121405,
+      "name": "Nee Paarkkum Sad",
+      "url": "https://open.spotify.com/track/6tqC2AM752Kjwz2au5eVog"
+    },
+    {
+      "added_at": "2026-07-06 12:39:03",
+      "album": {
+        "name": "Machan Maatikittan (From \"Anbe Diana\")",
+        "url": "https://open.spotify.com/album/3noZUvBwJVltJs32vQuOh5"
+      },
+      "artists": [
+        {
+          "name": "Bharath Sankar",
+          "url": "https://open.spotify.com/artist/7jFE7CFeIIX7JhA8HwNH54"
+        },
+        {
+          "name": "Sivam",
+          "url": "https://open.spotify.com/artist/52yAITEPYVr5ZEQL0KJyQX"
+        }
+      ],
+      "duration_ms": 158117,
+      "name": "Machan Maatikittan (From \"Anbe Diana\")",
+      "url": "https://open.spotify.com/track/4Xbs6LMWpm1x8R7g2sLeA6"
+    },
+    {
       "added_at": "2026-05-25 17:40:24",
       "album": {
         "name": "Karuppu (Original Motion Picture Soundtrack)",
@@ -451,26 +607,6 @@
       "duration_ms": 260660,
       "name": "Verappa - Extended",
       "url": "https://open.spotify.com/track/3FDZKPorPuhOZYw9WileCl"
-    },
-    {
-      "added_at": "2026-06-10 11:33:15",
-      "album": {
-        "name": "Parimala and Co (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6Vbm40V6D1xPit0KDzRzp9"
-      },
-      "artists": [
-        {
-          "name": "foxn",
-          "url": "https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv"
-        },
-        {
-          "name": "LRC",
-          "url": "https://open.spotify.com/artist/6boEBmjWJPo38PIgIiVmfo"
-        }
-      ],
-      "duration_ms": 168428,
-      "name": "Watcha Udadha",
-      "url": "https://open.spotify.com/track/6zoMXYC40gVmMXQJfJFeCg"
     },
     {
       "added_at": "2026-06-30 11:37:56",
@@ -517,32 +653,28 @@
       "url": "https://open.spotify.com/track/7r1h6IXj1l1PFGXnwaiyiA"
     },
     {
-      "added_at": "2026-06-30 11:37:56",
+      "added_at": "2026-06-17 04:42:19",
       "album": {
-        "name": "Hello Bossuu (From \"Sing Geetham\")",
-        "url": "https://open.spotify.com/album/1nZh4Rk405tBQwxzpL1t31"
+        "name": "Vaama Vaama (From \"Idhayam Murali\")",
+        "url": "https://open.spotify.com/album/6L4KkVP4sd6U7kUOWfZ1nz"
       },
       "artists": [
         {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
         },
         {
-          "name": "Imayavaramban Barani",
-          "url": "https://open.spotify.com/artist/1ZTHsXjREz2tgRVhjxCpDH"
+          "name": "Dhanush",
+          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
         },
         {
-          "name": "S.P. Abhishek",
-          "url": "https://open.spotify.com/artist/0mT8jQ7Apit18Ny3xJ7r9g"
-        },
-        {
-          "name": "R.P. Krishaang",
-          "url": "https://open.spotify.com/artist/7yH2kiixlrhNSxZNo0zfv1"
+          "name": "Adesh Krishna",
+          "url": "https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK"
         }
       ],
-      "duration_ms": 124857,
-      "name": "Hello Bossuu (From \"Sing Geetham\")",
-      "url": "https://open.spotify.com/track/4B0YI4tp8S0fVn08ubUSOb"
+      "duration_ms": 262577,
+      "name": "Vaama Vaama - From \"Idhayam Murali\"",
+      "url": "https://open.spotify.com/track/7H6yeSuj5N1rKD1243xjbA"
     },
     {
       "added_at": "2026-06-26 05:23:23",
@@ -571,6 +703,34 @@
       "duration_ms": 234061,
       "name": "Korean Family",
       "url": "https://open.spotify.com/track/5ClualSM6nK3AbkoVGljQ9"
+    },
+    {
+      "added_at": "2026-06-24 12:13:44",
+      "album": {
+        "name": "Nooru Sami (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/185GT1fL0mEj8uchrrxheW"
+      },
+      "artists": [
+        {
+          "name": "Balaji Sriram",
+          "url": "https://open.spotify.com/artist/6JIQcVN9fMsUg1rLcrNUYt"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Mohan Rajan",
+          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "Maaya Kanavo",
+      "url": "https://open.spotify.com/track/7wacnPNAWYClCZWvvcCYie"
     },
     {
       "added_at": "2026-06-29 09:27:39",
@@ -613,74 +773,6 @@
       "url": "https://open.spotify.com/track/15eFBFnIQRKGzB1l2jjt5a"
     },
     {
-      "added_at": "2026-06-24 12:30:57",
-      "album": {
-        "name": "Broke Boy (From \"Love Oh Love\")",
-        "url": "https://open.spotify.com/album/3mRJWofSv8a4F1PbZtkTR6"
-      },
-      "artists": [
-        {
-          "name": "foxn",
-          "url": "https://open.spotify.com/artist/2dbBX8wPRhL660FxN7MIDv"
-        },
-        {
-          "name": "Jothi Kanna",
-          "url": "https://open.spotify.com/artist/1An7pBLjbIdLPtck0dxSbv"
-        }
-      ],
-      "duration_ms": 196610,
-      "name": "Broke Boy - From \"Love Oh Love\"",
-      "url": "https://open.spotify.com/track/7Hmv5XZkmvtW3q52Im5PSo"
-    },
-    {
-      "added_at": "2026-06-30 11:37:56",
-      "album": {
-        "name": "Kaara Saara Kalayanam (From \"Oh Sukumari\")(Tamil)",
-        "url": "https://open.spotify.com/album/2KXs9ghWEULsbTPXYwEE8N"
-      },
-      "artists": [
-        {
-          "name": "Bharath Manchiraju",
-          "url": "https://open.spotify.com/artist/0IwPGyWLTlaS0TXIvVEqb7"
-        },
-        {
-          "name": "Yadu Krishnan K",
-          "url": "https://open.spotify.com/artist/1I6YuaNMRm0Jf8WWcSpfyz"
-        },
-        {
-          "name": "Murugan Manthiram",
-          "url": "https://open.spotify.com/artist/7t1QcsfXhBQYGNzqpdoN2V"
-        }
-      ],
-      "duration_ms": 208497,
-      "name": "Kaara Saara Kalayanam (From \"Oh Sukumari\")(Tamil)",
-      "url": "https://open.spotify.com/track/59UQjUqoafwt0W7RJbmAWR"
-    },
-    {
-      "added_at": "2026-06-30 11:37:56",
-      "album": {
-        "name": "Kanne Maniye (From \"Sing Geetham\")",
-        "url": "https://open.spotify.com/album/54JrAh7dyBfmE1lmuB0Up7"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Imayavaramban Barani",
-          "url": "https://open.spotify.com/artist/1ZTHsXjREz2tgRVhjxCpDH"
-        },
-        {
-          "name": "Sinduri Vishal",
-          "url": "https://open.spotify.com/artist/6KjiNHnbm1CNrIN0z7wJtO"
-        }
-      ],
-      "duration_ms": 313263,
-      "name": "Kanne Maniye (From \"Sing Geetham\")",
-      "url": "https://open.spotify.com/track/2147O9GTqNLcsW6HwfNCwo"
-    },
-    {
       "added_at": "2026-06-26 04:46:46",
       "album": {
         "name": "Kadaya Saathu",
@@ -701,60 +793,28 @@
       "url": "https://open.spotify.com/track/75Evj1BuXZ1wFrvqyYjzap"
     },
     {
-      "added_at": "2026-06-26 05:23:23",
+      "added_at": "2026-07-06 12:14:02",
       "album": {
-        "name": "Con City [TAMIL]",
-        "url": "https://open.spotify.com/album/1wKwpbHYAV91DQxwnWZxE6"
+        "name": "Katta Karupula (From \"Kanganam\")",
+        "url": "https://open.spotify.com/album/5xeAYJ1y36BgGh944vqpmK"
       },
       "artists": [
         {
-          "name": "Sean Roldan",
-          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+          "name": "Selvaa",
+          "url": "https://open.spotify.com/artist/0uE9MX3t3mztolZf6MxW4c"
         },
         {
-          "name": "Kelithee",
-          "url": "https://open.spotify.com/artist/6HlnMXGEvONMYRUGa3QQTg"
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
         },
         {
-          "name": "Lalitha Sudha",
-          "url": "https://open.spotify.com/artist/7zz7YQYYCQnZ7cnzHke7uc"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
         }
       ],
-      "duration_ms": 246085,
-      "name": "Naan Dhaan King",
-      "url": "https://open.spotify.com/track/3CV6vr5OcAkmPhWa0cCxrI"
-    },
-    {
-      "added_at": "2026-06-30 11:37:56",
-      "album": {
-        "name": "Pere Illa (From \"Sing Geetham\")",
-        "url": "https://open.spotify.com/album/48Hhu4itEVOd8MYmGD2Ptd"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Imayavaramban Barani",
-          "url": "https://open.spotify.com/artist/1ZTHsXjREz2tgRVhjxCpDH"
-        },
-        {
-          "name": "Sagar",
-          "url": "https://open.spotify.com/artist/5pwaucWh69kuiQA2xdbY5d"
-        },
-        {
-          "name": "Haripriya",
-          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
-        }
-      ],
-      "duration_ms": 115022,
-      "name": "Pere Illa (From \"Sing Geetham\")",
-      "url": "https://open.spotify.com/track/2BE4jPjayJDCIT6WokulaT"
+      "duration_ms": 297024,
+      "name": "Katta Karupula (From \"Kanganam\")",
+      "url": "https://open.spotify.com/track/5aTA0aReVtJnc2g4D5rQgv"
     },
     {
       "added_at": "2026-06-29 09:27:39",
@@ -829,34 +889,6 @@
       "url": "https://open.spotify.com/track/5Rmtxh4G1UaRBIlMXmvTSy"
     },
     {
-      "added_at": "2026-06-24 12:13:44",
-      "album": {
-        "name": "Nooru Sami (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/185GT1fL0mEj8uchrrxheW"
-      },
-      "artists": [
-        {
-          "name": "Balaji Sriram",
-          "url": "https://open.spotify.com/artist/6JIQcVN9fMsUg1rLcrNUYt"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Maaya Kanavo",
-      "url": "https://open.spotify.com/track/7wacnPNAWYClCZWvvcCYie"
-    },
-    {
       "added_at": "2026-06-24 12:51:32",
       "album": {
         "name": "Rippipee (From \"Sathyavan Savithiri\")",
@@ -883,30 +915,6 @@
       "duration_ms": 177079,
       "name": "Rippipee (From \"Sathyavan Savithiri\")",
       "url": "https://open.spotify.com/track/16u3QPCAZQ37dHqRmlWm0a"
-    },
-    {
-      "added_at": "2026-06-17 04:42:19",
-      "album": {
-        "name": "Vaama Vaama (From \"Idhayam Murali\")",
-        "url": "https://open.spotify.com/album/6L4KkVP4sd6U7kUOWfZ1nz"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        },
-        {
-          "name": "Adesh Krishna",
-          "url": "https://open.spotify.com/artist/30LwulQlfH8xE5Bf9P7QaK"
-        }
-      ],
-      "duration_ms": 262577,
-      "name": "Vaama Vaama - From \"Idhayam Murali\"",
-      "url": "https://open.spotify.com/track/7H6yeSuj5N1rKD1243xjbA"
     },
     {
       "added_at": "2026-06-19 13:23:14",

@@ -4,7 +4,7 @@
 
 > KASO en tête de la playlist numéro un en Tunisie.
 
-279 songs - 16 hr 39 min
+279 songs - 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Mouta Mouta](https://open.spotify.com/track/2e1Aa3L3ov9gw6UCJZUyt1) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mouta Mouta](https://open.spotify.com/album/5zQ2ZCqsYpfAp1UqYzMtPY) | 3:18 | 2025-05-22 |  |
 | [Move](https://open.spotify.com/track/5XnU6fppfaCp8cJCM0SXxe) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Move](https://open.spotify.com/album/717IhcEaucsFqL7YlM3aUa) | 3:03 | 2021-12-10 | 2023-03-10 |
 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 | 2024-07-18 |  |
-| [Mrid](https://open.spotify.com/track/5zddjnP7Z2GX27xTCfreMF) | [SayaX](https://open.spotify.com/artist/6X3WYYZHavFRcbuh4XJs1O) | [Mrid](https://open.spotify.com/album/5zYMjaQsYIULUuqxni0H7o) | 3:56 | 2025-10-07 |  |
+| [Mrid](https://open.spotify.com/track/5zddjnP7Z2GX27xTCfreMF) | [SayaX](https://open.spotify.com/artist/6X3WYYZHavFRcbuh4XJs1O) | [Mrid](https://open.spotify.com/album/5zYMjaQsYIULUuqxni0H7o) | 3:23 | 2025-10-07 |  |
 | [Msamhek](https://open.spotify.com/track/7FDIp30RCD2dkjF7NbSglw) | [Raouf Maher](https://open.spotify.com/artist/2cSmvBKoZhM31paDXqjno2) | [Msamhek](https://open.spotify.com/album/52W0tdpkcWgyhSwyzHBiiN) | 3:35 | 2023-02-11 | 2023-02-21 |
 | [Msamhin](https://open.spotify.com/track/4vWQUabxtxQvoSpkNNQVnT) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Msamhin](https://open.spotify.com/album/4NkimMrINW8489T3ug2ZpG) | 4:07 | 2024-02-29 | 2024-08-27 |
 | [NABRA](https://open.spotify.com/track/0zIuJnTXFxT5qD39DOguq5) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [NABRA](https://open.spotify.com/album/4WZ5m8u3ryE3VQb8ahNgyE) | 4:57 | 2022-11-26 | 2022-11-30 |

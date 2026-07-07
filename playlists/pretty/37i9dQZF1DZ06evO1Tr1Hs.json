@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 46535,
+  "num_followers": 46554,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAADonSQ+Pyyj9vqyl955bx7X",
+  "snapshot_id": "akmegAAAAABk+gJns/MB94keRra6dL7F",
   "tracks": [
     {
       "added_at": null,
@@ -118,15 +118,11 @@
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 198410,
-      "name": "deaf note (with Playboi Carti)",
-      "url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
+      "duration_ms": 135917,
+      "name": "gynecologist",
+      "url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H"
     },
     {
       "added_at": null,
@@ -258,11 +254,15 @@
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 135917,
-      "name": "gynecologist",
-      "url": "https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H"
+      "duration_ms": 198410,
+      "name": "deaf note (with Playboi Carti)",
+      "url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
     },
     {
       "added_at": null,

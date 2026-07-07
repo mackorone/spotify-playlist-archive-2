@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 497 likes - 78 songs - 4 hr 57 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 503 likes - 81 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,5 +86,8 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 76 | [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 |
 | 77 | [Two Souls](https://open.spotify.com/track/0y0ykZ1dkGc38jen90qV1j) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Two Souls](https://open.spotify.com/album/3j90ztJwBxuyHuXoibG5Pa) | 4:00 |
 | 78 | [Saturday Song For Sunday](https://open.spotify.com/track/32gEVbIyWbLOb8pjJND4fr) | [X\-Rated 1994](https://open.spotify.com/artist/71QiZSo2Jl9MO98vg3JSO0) | [Saturday Song For Sunday](https://open.spotify.com/album/2DZ2ODLdvjpmDTuAz5WZQU) | 3:24 |
+| 79 | [Ikaros](https://open.spotify.com/track/41C7vXxAMx2h2kt3Q9cp1C) | [O KANENAS](https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa) | [Ikaros](https://open.spotify.com/album/6Qado2dLei7Ds5PNmstEc2) | 4:21 |
+| 80 | [En tus ojos](https://open.spotify.com/track/5YFyngCxUk1kQhBBzuOMUC) | [Leandro Rebolini](https://open.spotify.com/artist/76nuTtg8t7JqzjcZ12NbPI) | [En tus ojos](https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL) | 4:11 |
+| 81 | [A Million Miles Away](https://open.spotify.com/track/4rU2hKYGURP7h18SYQ0Nzf) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [A Million Miles Away](https://open.spotify.com/album/5NNokKgXWExS1Pu54fIJ6G) | 7:12 |
 
-Snapshot ID: `AAAB/E5ryIy7nD3ROvK+K+8GEnPw61XA`
+Snapshot ID: `AAAB/0BIAVzxe1Zotr+kDm/KoZSvvTQu`

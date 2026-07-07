@@ -6,7 +6,7 @@
     "name": "deet",
     "url": "https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh"
   },
-  "snapshot_id": "AAAMQu/3doSj6M4lAo9eBRoAIoJLh4JK",
+  "snapshot_id": "AAAMQ9EpgE+ONRBOSl5vOCP4OUPUffCB",
   "tracks": [
     {
       "added_at": "2024-12-05 07:59:22",
@@ -69960,7 +69960,7 @@
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 295920,
+      "duration_ms": 297506,
       "name": "All I Want Is You (feat. J. Cole)",
       "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
     },
@@ -150811,6 +150811,70 @@
       "duration_ms": 171333,
       "name": "Move Mountains",
       "url": "https://open.spotify.com/track/0jpqrFBVDKNYXogtpUZdPx"
+    },
+    {
+      "added_at": "2026-07-06 12:58:34",
+      "album": {
+        "name": "\u30ae\u30d6\u30df\u30fc\u30fb\u30b7\u30fc\u30af\u30ec\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/3YFO3niisQcza038bWIUUl"
+      },
+      "artists": [
+        {
+          "name": "StylipS",
+          "url": "https://open.spotify.com/artist/16Vu3ajNELyWQhDuqyi2zR"
+        }
+      ],
+      "duration_ms": 227280,
+      "name": "\u30ae\u30d6\u30df\u30fc\u30fb\u30b7\u30fc\u30af\u30ec\u30c3\u30c8",
+      "url": "https://open.spotify.com/track/3jQ062srftGELEE2PRDAMe"
+    },
+    {
+      "added_at": "2026-07-06 12:58:34",
+      "album": {
+        "name": "\u30ae\u30d6\u30df\u30fc\u30fb\u30b7\u30fc\u30af\u30ec\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/3YFO3niisQcza038bWIUUl"
+      },
+      "artists": [
+        {
+          "name": "TEAM B\u30fbA\u30fbK\u30fbA",
+          "url": "https://open.spotify.com/artist/2SCVh3n48D3OBBYLor3HKZ"
+        }
+      ],
+      "duration_ms": 291666,
+      "name": "destiny",
+      "url": "https://open.spotify.com/track/2LVEEbWnNKnnmCkc9yRwJc"
+    },
+    {
+      "added_at": "2026-07-06 12:58:34",
+      "album": {
+        "name": "\u30ae\u30d6\u30df\u30fc\u30fb\u30b7\u30fc\u30af\u30ec\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/3YFO3niisQcza038bWIUUl"
+      },
+      "artists": [
+        {
+          "name": "StylipS",
+          "url": "https://open.spotify.com/artist/16Vu3ajNELyWQhDuqyi2zR"
+        }
+      ],
+      "duration_ms": 227280,
+      "name": "\u30ae\u30d6\u30df\u30fc\u30fb\u30b7\u30fc\u30af\u30ec\u30c3\u30c8 - inst.",
+      "url": "https://open.spotify.com/track/6JIbQJmxPK6hooISd4A0mC"
+    },
+    {
+      "added_at": "2026-07-06 12:58:34",
+      "album": {
+        "name": "\u30ae\u30d6\u30df\u30fc\u30fb\u30b7\u30fc\u30af\u30ec\u30c3\u30c8",
+        "url": "https://open.spotify.com/album/3YFO3niisQcza038bWIUUl"
+      },
+      "artists": [
+        {
+          "name": "TEAM B\u30fbA\u30fbK\u30fbA",
+          "url": "https://open.spotify.com/artist/2SCVh3n48D3OBBYLor3HKZ"
+        }
+      ],
+      "duration_ms": 291666,
+      "name": "destiny - inst.",
+      "url": "https://open.spotify.com/track/6PGEBF1J8sArr5HdTxkM6n"
     }
   ],
   "unique_name": "Purge",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/5cAz3DR6eFPhxH4ozTKQcx.md) - [plain]
 
 ### [Summer Throwback Party ](https://open.spotify.com/playlist/5cAz3DR6eFPhxH4ozTKQcx)
 
-> The perfect summer pop playlist.
+> The biggest hits from the 2000s and 2010s!
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 17,937 likes - 80 songs - 4 hr 59 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 17,935 likes - 80 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/5cAz3DR6eFPhxH4ozTKQcx.md) - [plain]
 | 79 | [Summer Girl](https://open.spotify.com/track/6H2kYBCW4eUGxL4sFN4XRE) | [Stereos](https://open.spotify.com/artist/6TMtMBhcyfl7kY8eocOmpo) | [Stereos \(Deluxe Version\)](https://open.spotify.com/album/5i1g0m5VtiVidPeoyiqfjS) | 2:45 |
 | 80 | [Throw Ya Hands Up \- Feat\. Jhevon Paris](https://open.spotify.com/track/6RcpTSqRtG7ljMO2WXXbqa) | [Stereos](https://open.spotify.com/artist/6TMtMBhcyfl7kY8eocOmpo), [Jhevon Paris](https://open.spotify.com/artist/1QZ2JMUuLIwMjVNUE29juM) | [Stereos \(Deluxe Version\)](https://open.spotify.com/album/5i1g0m5VtiVidPeoyiqfjS) | 2:42 |
 
-Snapshot ID: `AAAPX5JBqYBMjYUjpZisIFToBJ1L70Nc`
+Snapshot ID: `AAAPYArtML8wIstsWN2q7PTICYBF0vLl`

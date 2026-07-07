@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-03-19",
-  "description": "Who run the world? Cover: Charli xcx",
+  "description": "Who run the world? Cover: Erin LeCount",
   "name": "Pop Girlies",
   "tracks": [
     {
@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "born to lose",
+        "url": "https://open.spotify.com/album/4Zrqs3YaexpBNVQlErbyTA"
+      },
+      "artists": [
+        {
+          "name": "Bea Miller",
+          "url": "https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194934,
+      "name": "born to lose",
+      "url": "https://open.spotify.com/track/5LOqhjhFNQ4WzKvEUrT8s9"
+    },
+    {
+      "album": {
         "name": "Boston",
         "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
       },
@@ -640,7 +658,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 155708,
       "name": "Butterfly Feelings",
       "url": "https://open.spotify.com/track/7HJdIi4rzQqj5LkUQfZWRb"
@@ -792,6 +810,24 @@
       "duration_ms": 206530,
       "name": "Cruel World",
       "url": "https://open.spotify.com/track/6ixFBgPQbt7tII7yAShbT1"
+    },
+    {
+      "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235771,
+      "name": "Danceteria",
+      "url": "https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ"
     },
     {
       "album": {
@@ -1076,7 +1112,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 171466,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/33bvTLdmKTRzFwhONUWYHo"
@@ -1264,7 +1300,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 150333,
       "name": "Future Self",
       "url": "https://open.spotify.com/track/3Z2gMj8OfJUmCn0LQ0uDsj"
@@ -1415,6 +1451,24 @@
     },
     {
       "album": {
+        "name": "Is This Heaven? (Extended)",
+        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169121,
+      "name": "Good At Leaving",
+      "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
+    },
+    {
+      "album": {
         "name": "Good Ones",
         "url": "https://open.spotify.com/album/1RK7afQN4wTu90lEqbVDou"
       },
@@ -1466,6 +1520,24 @@
       "duration_ms": 174107,
       "name": "Gracie",
       "url": "https://open.spotify.com/track/5XpfG1xcdznjc3BPdotlXK"
+    },
+    {
+      "album": {
+        "name": "Visitor",
+        "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173975,
+      "name": "Great Expectation",
+      "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
       "album": {
@@ -1592,7 +1664,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 129170,
       "name": "HOES (feat. Sexyy Red) [From Scary Movie]",
       "url": "https://open.spotify.com/track/1IMTFCCPDw0R3JT6jYMimo"
@@ -2187,6 +2259,24 @@
     },
     {
       "album": {
+        "name": "junebug!",
+        "url": "https://open.spotify.com/album/1Vscbx9B12ukvk4qGKcpVm"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139204,
+      "name": "junebug!",
+      "url": "https://open.spotify.com/track/6pm3uGXbayVwzkBlYA0PgQ"
+    },
+    {
+      "album": {
         "name": "Short n' Sweet (Deluxe)",
         "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
       },
@@ -2462,7 +2552,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 197538,
       "name": "Light Up (From the Netflix Documentary 'Kylie')",
       "url": "https://open.spotify.com/track/5z8BOVrdo09o6VFR7AuhXk"
@@ -2541,6 +2631,24 @@
     },
     {
       "album": {
+        "name": "Love Like A Hobby",
+        "url": "https://open.spotify.com/album/4FhYzCXg5OeNGBT0NvjVvg"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222614,
+      "name": "Love Like A Hobby",
+      "url": "https://open.spotify.com/track/3Ce2UwnIE9clxZp94hkAGp"
+    },
+    {
+      "album": {
         "name": "Love Me Not / Love Is Blind",
         "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
       },
@@ -2570,7 +2678,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 182177,
       "name": "Love Sensation - Radio Edit",
       "url": "https://open.spotify.com/track/2IfZplDpYOpK2sADF1A9Su"
@@ -3042,7 +3150,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 184013,
       "name": "Out of my Head",
       "url": "https://open.spotify.com/track/5ExQZsB1FkAemKYykuvDUv"
@@ -3114,7 +3222,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 198335,
       "name": "Passenger Princess",
       "url": "https://open.spotify.com/track/1vcx8MdVXorEACHnUX3OVA"
@@ -3172,6 +3280,24 @@
       "duration_ms": 131437,
       "name": "PINKY UP",
       "url": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
+    },
+    {
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/3xduUbS2Nci0y01gYmzsmv"
+      },
+      "artists": [
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209800,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/4Rp718wkIlPZtZuRPYP5qd"
     },
     {
       "album": {
@@ -3738,7 +3864,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 161660,
       "name": "Speakerphone",
       "url": "https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT"
@@ -4052,6 +4178,24 @@
       "duration_ms": 166300,
       "name": "That\u2019s So True",
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+    },
+    {
+      "album": {
+        "name": "PAREIDOLIA",
+        "url": "https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202250,
+      "name": "THE CINEMA",
+      "url": "https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv"
     },
     {
       "album": {
@@ -4538,6 +4682,24 @@
       "duration_ms": 196867,
       "name": "Weather For Tennis",
       "url": "https://open.spotify.com/track/7lPuRK4llInMs7m7lGkDCM"
+    },
+    {
+      "album": {
+        "name": "what do i have to do?",
+        "url": "https://open.spotify.com/album/3wLjj4UQG1pMqsnwbGr36a"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153571,
+      "name": "what do i have to do?",
+      "url": "https://open.spotify.com/track/7E6ykIAPA7Tx5WgOZb6vQn"
     },
     {
       "album": {

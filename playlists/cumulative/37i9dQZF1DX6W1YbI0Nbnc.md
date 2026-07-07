@@ -2,9 +2,9 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> Listen to women at full volume! 香港EQUAL女聲力量！\(cover: Amy Lo \)
+> Listen to women at full volume! 本月有 Amy Lo 精選 5 首女歌手歌曲。
 
-403 songs - 1 day 1 hr 3 min
+408 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,9 +188,11 @@
 | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/track/7eZJLfMQ5mDtejHitRkzRf) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [凡星 \(天星銀行airstar音樂劇場主題曲\)](https://open.spotify.com/album/5f1R2DOR0cLJlUmpO1gtjC) | 4:44 | 2022-08-02 | 2022-12-01 |
 | [分手散步學](https://open.spotify.com/track/2XIecsdgeF0h9X9gNsZSTs) | [表妹 Mona](https://open.spotify.com/artist/16cKZhQyzOVR5DxvNGN5PO) | [分手散步學](https://open.spotify.com/album/4clOvDgGeuHCLbPLc1TorB) | 4:40 | 2026-01-06 |  |
 | [分手的情書](https://open.spotify.com/track/4USRnfYLlx5NJkvAOnMvtk) | [Stephy Tang](https://open.spotify.com/artist/4ujntV2BGRi7X4UbCmTFX0) | [分手的情書](https://open.spotify.com/album/42yEW5ERscrCNbRswPphzc) | 4:08 | 2022-01-04 | 2022-03-08 |
+| [初戀](https://open.spotify.com/track/0cCIqUNcHcxc3utfsOaAII) | [Samantha Lam](https://open.spotify.com/artist/4cEHIJl4cfX9V2TUjmiJnc) | [偶遇2000精選](https://open.spotify.com/album/1bP3yHhrkmiumzMYgIUISF) | 3:47 | 2026-07-06 |  |
 | [初音](https://open.spotify.com/track/6FyLbzoyucZwgQVa0OdoAV) | [Eman Lam](https://open.spotify.com/artist/3SJsybXfmMSrXcwpK56YuU) | [初音](https://open.spotify.com/album/4fVFgdlOH9JZVH60Su5Dkw) | 4:11 | 2022-11-30 | 2023-11-30 |
 | [到了那裏就對吧](https://open.spotify.com/track/21ENVTzs1QqHLn8bNygoGD) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [到了那裏就對吧](https://open.spotify.com/album/6AIYlSiFW4giKz0GWlLhxE) | 4:14 | 2022-08-02 | 2022-10-06 |
 | [到時見 \(Acoustic Version\)](https://open.spotify.com/track/23I26HyXJO6i9PH8BJKpQL) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [到時見 \(Acoustic Version\)](https://open.spotify.com/album/1DnNwfhdTujJLKUSeGU4oY) | 2:27 | 2022-08-02 | 2022-12-01 |
+| [前塵](https://open.spotify.com/track/5IdUqkUVHtvlmrR5tFOhQV) | [Sandy Lam](https://open.spotify.com/artist/3K2hOAx9MPhduvDf2qguro) | [Re: Workz](https://open.spotify.com/album/5XN05HsjdtjpuLNvj6rHh7) | 5:05 | 2026-07-06 |  |
 | [剎那的](https://open.spotify.com/track/5fWhLh6uQV0BPTHdL9oKSX) | [Sabrina Cheung 張蔓莎](https://open.spotify.com/artist/5EFPewjksQrnI87VOsvFHh) | [剎那的](https://open.spotify.com/album/3IaNjSRQfoCKfU9Ozorkmf) | 3:00 | 2022-08-02 | 2022-12-01 |
 | [剛好](https://open.spotify.com/track/2glEQhYzV4hvVM5tTuKzI2) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Time & Faith](https://open.spotify.com/album/4kVnFSELfabAHeMobiNSGv) | 3:49 | 2022-09-06 | 2023-11-30 |
 | [勇者鬥惡言](https://open.spotify.com/track/36cK81VNERJWGRaomcUkFv) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [勇者鬥惡言](https://open.spotify.com/album/5EVVIPWt3rKmLnE42iYqQg) | 3:28 | 2022-11-01 | 2023-11-30 |
@@ -350,6 +352,7 @@
 | [理性與任性之間](https://open.spotify.com/track/2sQ1tPY9JSeBbmEefD8kir) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [理性與任性之間](https://open.spotify.com/album/51jtxD1lp3MlhECZAtBBB9) | 5:07 | 2022-01-04 | 2026-01-15 |
 | [理性與任性之間](https://open.spotify.com/track/6MQUW2zTODCTtiIGoMKDXt) | [AGA](https://open.spotify.com/artist/1opXC6lrFxsiDks53X5d3Q) | [Agatha](https://open.spotify.com/album/1rUusu6WHVtnCIY7w7vV8D) | 5:07 | 2024-12-04 | 2025-01-08 |
 | [留在你在我在的腦海](https://open.spotify.com/track/6P9A119AKQx9OHDQAMOydb) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [留在你在我在的腦海](https://open.spotify.com/album/7gdWwn4Eoz20VanIMyNjrn) | 3:50 | 2025-10-02 | 2026-01-15 |
+| [畫意](https://open.spotify.com/track/4VuL4HSCrVvf0JOS6PHdck) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [詩情.畫意](https://open.spotify.com/album/0ve3MQxv448sXEvh6ZfiIm) | 3:22 | 2026-07-06 |  |
 | [當你睡著的時候](https://open.spotify.com/track/5cq3lcOJi4CU14LmSJL8Lv) | [JUDE](https://open.spotify.com/artist/0fs8Z11YQwRDEhdgRXoi4q) | [當你睡著的時候](https://open.spotify.com/album/6dilfUvZmJlag4W2UGv424) | 3:44 | 2022-08-02 | 2022-12-01 |
 | [瘟疫在愛蔓延時](https://open.spotify.com/track/0csQxHJEzcEMAOvQgDAy1J) | [區子琳](https://open.spotify.com/artist/1wJ1hjR8MO4yvGO2ItLl4I) | [瘟疫在愛蔓延時](https://open.spotify.com/album/3JaU7N18bOxeHVLktXIX36) | 3:23 | 2022-11-01 | 2022-12-01 |
 | [白眉](https://open.spotify.com/track/3FuSyEAn9fzwEPhvmhEfX9) | [Kendy Suen](https://open.spotify.com/artist/5nE5dXf6BtMjH6YnnidrNZ) | [白眉](https://open.spotify.com/album/1BbprjvYJTKGPSzm6zewqc) | 3:58 | 2022-03-07 | 2022-05-04 |
@@ -365,6 +368,7 @@
 | [第二次告白](https://open.spotify.com/track/1BT7O1m2DbPrEQ40xEZWxK) | [Lil’ Ashes](https://open.spotify.com/artist/61JmerIHrcyWpHtih0adVh) | [第二次告白](https://open.spotify.com/album/2Xm1IBBbdJs9sWC8v1hwM7) | 2:51 | 2022-01-04 | 2022-02-03 |
 | [粉月](https://open.spotify.com/track/1uB4ISd6swklwx3Nd5zQvm) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [粉月](https://open.spotify.com/album/2apIRmL06ZwxNKOiuZFidM) | 3:19 | 2026-01-06 | 2026-07-01 |
 | [納斯卡線](https://open.spotify.com/track/3wqMvfQ9QgIEyRHH41Y0Iq) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [納斯卡線](https://open.spotify.com/album/5zliypCl3XKSAWWncqFM7D) | 3:45 | 2022-05-03 | 2022-08-03 |
+| [紫醉金迷](https://open.spotify.com/track/6MFhgoM7ylq02yg88cMp16) | [Candy Lo](https://open.spotify.com/artist/51ZbCFgOspWvhBjd1DUYEV) | [色放](https://open.spotify.com/album/1qGcGSKLZCxJK42Vt7PRYb) | 3:16 | 2026-07-06 |  |
 | [絕命青年](https://open.spotify.com/track/290PNRZDOwPzIaTUV91o0f) | [絕命青年](https://open.spotify.com/artist/0bghT9sR5oyjqmdpUfSvrU) | [絕命青年](https://open.spotify.com/album/7dUdsPFljbv6uVk93y1aWO) | 4:01 | 2022-03-07 | 2022-04-06 |
 | [綜藝魂](https://open.spotify.com/track/7fMnbJCVBf9KXSfAu1z9Up) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [綜藝魂](https://open.spotify.com/album/1hr4bMBHAQU6m9LyujNbm7) | 3:58 | 2023-04-06 | 2023-11-30 |
 | [綠縈](https://open.spotify.com/track/0yu5BK7v2TOQlNYfh5G3la) | [Amy Lo](https://open.spotify.com/artist/1GUOcVj0qkEYcb2mKWxG7a) | [綠縈](https://open.spotify.com/album/393JYyxrcTNWyq1FSCSEc6) | 3:24 | 2026-01-06 | 2026-07-01 |
@@ -390,6 +394,7 @@
 | [趁你旅行時搬走](https://open.spotify.com/track/77UfzMhwaH8Nl0LuydjrHH) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [趁你旅行時搬走](https://open.spotify.com/album/7vgzAkU2PYTSsVKX71LqtH) | 3:55 | 2024-06-06 | 2026-01-15 |
 | [輕盈](https://open.spotify.com/track/0yLmRueHIkbzm9EWh7Gud0) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [九道痕跡](https://open.spotify.com/album/6QFTcrYF9rFdZ6uyXTWVPu) | 2:49 | 2021-12-07 | 2022-01-05 |
 | [辛苦你了](https://open.spotify.com/track/07oBvxfhCbQoWEnT2cL9hv) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [薛丁格的貓](https://open.spotify.com/album/73ntd6cAsmKAifVFpljds3) | 4:19 | 2022-01-04 | 2023-11-30 |
+| [迷魂記 \- 廣東版](https://open.spotify.com/track/4FJHYzYff7FCmOohPXNsID) | [Faye Wong](https://open.spotify.com/artist/3df3XLKuqTQ6iOSmi0K3Wp) | [王菲2001](https://open.spotify.com/album/4Fc9GamQahrPbjcgebPRkM) | 4:09 | 2026-07-06 |  |
 | [透光者](https://open.spotify.com/track/3WKetFAvOgAhuvGKpAYM6P) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [透光者](https://open.spotify.com/album/2cO4O6fU4ZDnbRKoLRmDPm) | 3:44 | 2024-04-02 | 2026-01-15 |
 | [那些傷我也有過](https://open.spotify.com/track/04LgXzswpLwTv21RIGSIgp) | [Jade Kwan](https://open.spotify.com/artist/5mzNf31zfzrdyD8x9fzcd4) | [EMERGENCE](https://open.spotify.com/album/0ebiPh1VX8rbWyZgVJ7DEJ) | 3:44 | 2022-01-04 | 2022-03-08 |
 | [那人那地那天](https://open.spotify.com/track/1S8Aj28fEq9PoXeN5T3kh2) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [那人那地那天](https://open.spotify.com/album/7KsWdRiMipL9jZ8CSktHHD) | 4:20 | 2026-03-19 | 2026-04-08 |

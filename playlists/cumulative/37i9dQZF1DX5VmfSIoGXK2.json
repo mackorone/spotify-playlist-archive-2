@@ -616,7 +616,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 160695,
       "name": "Brooklyn 9:00am",
       "url": "https://open.spotify.com/track/0YrhuzbViNhtseDz6H4JCw"
@@ -1152,6 +1152,28 @@
       "duration_ms": 229561,
       "name": "Elevation",
       "url": "https://open.spotify.com/track/0CXvQkUxr08aHn7KmF4AiA"
+    },
+    {
+      "album": {
+        "name": "Eminesence - The Mixes",
+        "url": "https://open.spotify.com/album/2TXM8SqZdBwghajTbatSnc"
+      },
+      "artists": [
+        {
+          "name": "Vince Watson",
+          "url": "https://open.spotify.com/artist/2Y3cH3SUZL9XKfKD3novXt"
+        },
+        {
+          "name": "Osunlade",
+          "url": "https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346077,
+      "name": "Eminesence - Yoruba Soul Mix",
+      "url": "https://open.spotify.com/track/33K98Xp6WFHwGO9gugW16F"
     },
     {
       "album": {
@@ -3287,6 +3309,28 @@
     },
     {
       "album": {
+        "name": "One Chance EP",
+        "url": "https://open.spotify.com/album/47IfSkxyOWCxNVcJd8aOCS"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        },
+        {
+          "name": "Chesster",
+          "url": "https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201904,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/1hUmQiJrHSEnGyQfrpbwi3"
+    },
+    {
+      "album": {
         "name": "Pacific View",
         "url": "https://open.spotify.com/album/5GNOQ2o9pUr3wStEWPjMYy"
       },
@@ -4596,7 +4640,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 158415,
       "name": "Way Back",
       "url": "https://open.spotify.com/track/0oLlzWApQnhOjpi52CT9Y2"

@@ -4,7 +4,7 @@
 
 > This is The Slits\. The essential tracks, all in one playlist.
 
-34 songs - 1 hr 57 min
+35 songs - 2 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Difficult Fun](https://open.spotify.com/track/1US67bAlfUBKg1zwTgoY41) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:05 | 2026-03-07 |  |
 | [Earthbeat \(7" Version\)](https://open.spotify.com/track/0xh2mM35Bnp4lm3GL5DLrk) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 3:50 | 2026-03-07 |  |
 | [Enemy Numero Uno \(Live at The Gibus Club, 1978\)](https://open.spotify.com/track/1DYTxEXTJjSFd1nkAM16e5) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Live at the Gibus Club](https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9) | 5:22 | 2026-03-07 |  |
+| [Face Place](https://open.spotify.com/track/5b7PGHS5XOiLwWtg7voKJM) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:21 | 2026-07-07 |  |
 | [Fade Away](https://open.spotify.com/track/1DAvbL32g5jhjjLfaO9di4) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [In The Beginning](https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS) | 3:41 | 2026-03-07 |  |
 | [Femme Fatale \(Live at The Gibus Club, 1978\)](https://open.spotify.com/track/7aHZk81AidjGPFm1793Ctt) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Live at the Gibus Club](https://open.spotify.com/album/04pZjd4uyJqPWNQ6gJLuQ9) | 2:47 | 2026-03-07 |  |
 | [First sight](https://open.spotify.com/track/2t6zqMLq4L6HbKDyDxZenk) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [First sight](https://open.spotify.com/album/2TkGSXmxtvzzHFrGZTGT8U) | 3:43 | 2026-03-15 |  |
@@ -31,7 +32,7 @@
 | [Man Next Door](https://open.spotify.com/track/5KIdc61y8co2zgfiweoUm5) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Sherwood At The Controls: Volume 1 1979 \- 1984](https://open.spotify.com/album/7l6Rrf26u7qp9iU3iMIN4s) | 3:30 | 2026-03-07 |  |
 | [Newtown](https://open.spotify.com/track/1e3ifvbu3nfTHFAN3qvS94) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 3:48 | 2026-03-07 |  |
 | [Number One Enemy](https://open.spotify.com/track/2KtEq0B5iP9iVkPbY6mu5N) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [In The Beginning](https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS) | 2:14 | 2026-03-07 |  |
-| [Or What Is It?](https://open.spotify.com/track/54D2wHoN72RXsDJql7bgD1) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:23 | 2026-03-07 |  |
+| [Or What Is It?](https://open.spotify.com/track/54D2wHoN72RXsDJql7bgD1) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Return of the Giant Slits](https://open.spotify.com/album/4FDegVqIcHDBVQDWdLX3OX) | 4:23 | 2026-03-07 | 2026-07-07 |
 | [Shoplifting](https://open.spotify.com/track/6pY6AdtuZixaErD7xLt5Z6) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Cut \(Deluxe Edition\)](https://open.spotify.com/album/6ppPT0aXOtsAlG1QQVB9E0) | 1:35 | 2026-03-07 |  |
 | [Slime](https://open.spotify.com/track/2LabDMCiDEFX7ay29gUkug) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [In The Beginning](https://open.spotify.com/album/5Gpqi5XCvsgqUbXtdGvslS) | 2:26 | 2026-03-07 |  |
 | [Slits Tradition](https://open.spotify.com/track/1MLv9M4DLMesS2ZmThPH0B) | [The Slits](https://open.spotify.com/artist/5O0RrEgz4NLCPLrDZiPggz) | [Revenge of the Killer Slits](https://open.spotify.com/album/102FQSiOZQJOVheiHMTJK6) | 3:20 | 2026-03-07 |  |

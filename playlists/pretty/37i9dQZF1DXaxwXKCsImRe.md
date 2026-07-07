@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:5vxYgsUqkYuqL5nLzwnKsk">OYSTER</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,097 likes - 28 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,101 likes - 28 songs - 1 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Brassen](https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde \(Deluxe\)](https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta) | 2:23 |
 | 2 | [100K Summer](https://open.spotify.com/track/4eBHnMo8ubhZtgrTjUjcIy) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde \(Deluxe\)](https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta) | 2:53 |
 | 3 | [Eerste Klus](https://open.spotify.com/track/1wYoyn3Ri7zJatDbAIlN3E) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:19 |
-| 4 | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM) | 2:55 |
-| 5 | [Conversation](https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Conversation](https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp) | 3:06 |
-| 6 | [Bigger Picture](https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Bigger Picture](https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57) | 3:05 |
+| 4 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 |
+| 5 | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM) | 2:55 |
+| 6 | [Conversation](https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Conversation](https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp) | 3:06 |
 | 7 | [Tranen Van Goud](https://open.spotify.com/track/0Ekq35nZ7eaVURu300F09s) | [Aaron Blommaert](https://open.spotify.com/artist/67Hs92fNnRAgFBfL6EePwb), [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Tranen Van Goud](https://open.spotify.com/album/2gJFnppCudFvs1OQprImqB) | 2:21 |
 | 8 | [Sluit Me In Je Armen](https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Sluit Me In Je Armen](https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW) | 2:43 |
 | 9 | [Huisje Aan De Zee](https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Huisje Aan De Zee](https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc) | 2:46 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 | 27 | [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/album/64rWacyCKAYaSne3DqIUS9) | 2:58 |
 | 28 | [Alles Kan Kapot](https://open.spotify.com/track/1ufm3zszexVlsNpayLSsiA) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Alles Kan Kapot](https://open.spotify.com/album/0pCHPhcIKvYu3l0VUTioOT) | 2:52 |
 
-Snapshot ID: `AAAAABGaE/nVXQCfKs6Yxd8GzyD1a4T7`
+Snapshot ID: `AAAAALh23qcxXx9sBOrotLyD+jfY/PpK`

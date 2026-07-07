@@ -42793,6 +42793,24 @@
     },
     {
       "album": {
+        "name": "Blacknote",
+        "url": "https://open.spotify.com/album/0jaK0ZvOrm2K5q0bhINIyl"
+      },
+      "artists": [
+        {
+          "name": "Maknizer",
+          "url": "https://open.spotify.com/artist/6wOaDcWGTfzG0t6ALk7CVt"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248189,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6TOsfnShKwt4x46FQmEMWF"
+    },
+    {
+      "album": {
         "name": "Wistful Memories",
         "url": "https://open.spotify.com/album/1HkTINroXN5CLbdOyWSNxl"
       },

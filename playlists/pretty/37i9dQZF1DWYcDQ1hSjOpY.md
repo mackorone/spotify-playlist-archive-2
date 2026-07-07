@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,191,937 likes - 282 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,192,568 likes - 282 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 16 | [Eternal Dreams](https://open.spotify.com/track/38xcIxrrfnZkgD2P00nkGB) | [Vilambit](https://open.spotify.com/artist/0OqFKcuZrOa3TAQzaMJL1M) | [Eternal Dreams](https://open.spotify.com/album/4pYOzmia6JbcUBzeK4aSwS) | 2:36 |
 | 17 | [Slow Fall](https://open.spotify.com/track/1YtkMlAN0dDErdKmvAIR3R) | [knownbyC](https://open.spotify.com/artist/3r6IlT9KI2aOfSuBClGBxb) | [Slow Fall](https://open.spotify.com/album/1Srd5lVGsqUcLV3zI5UUaX) | 2:17 |
 | 18 | [Soothe Your Mind](https://open.spotify.com/track/51F5DVc29FBcUm82T7RqoD) | [Zen Anani](https://open.spotify.com/artist/5urqRIieWuxva363YmJoU2) | [Soothe Your Mind](https://open.spotify.com/album/2X8j8c4CZQY2sQ69yp0BWx) | 2:22 |
-| 19 | [Transparent Day](https://open.spotify.com/track/4a2jlK5xHOfUFPBbwNhU4j) | [Narnara](https://open.spotify.com/artist/1604ICu74nrUUHcpRREkd0) | [Transparent Day](https://open.spotify.com/album/3H1UOIPM6nS2LUADoUQnJr) | 2:18 |
+| 19 | [Transparent Day](https://open.spotify.com/track/4a2jlK5xHOfUFPBbwNhU4j) | [Narnara](https://open.spotify.com/artist/1604ICu74nrUUHcpRREkd0), [Zgva](https://open.spotify.com/artist/5UzIL2cfuelLB7c8wWSUWg) | [Transparent Day](https://open.spotify.com/album/3H1UOIPM6nS2LUADoUQnJr) | 2:18 |
 | 20 | [Moonlight Bliss](https://open.spotify.com/track/7EQWrjIV5695r623PA8ucO) | [Boreal Light](https://open.spotify.com/artist/3KoTcMBHJwsvv915P6htvT) | [Moonlight Bliss](https://open.spotify.com/album/2b6pYGj2F3TtyLe9BR7iNB) | 2:25 |
 | 21 | [Objectively](https://open.spotify.com/track/0ixbViINyatsqlTbj2bXpL) | [Dominum Nominum](https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4) | [Objectively](https://open.spotify.com/album/5p0u1ykj7CJhdDRpHK5GlX) | 2:49 |
 | 22 | [Cordial](https://open.spotify.com/track/53RnPU209GNEeiC2dqhXea) | [Los Sobriles](https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2) | [Cordial](https://open.spotify.com/album/4dOeoGCieEu8lOsS9oOSQ7) | 2:31 |

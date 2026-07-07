@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 
 > This is Emicida\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,550 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,554 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 31 | [Finado Neguim memo?](https://open.spotify.com/track/7JyTfeqT0jXjRMmuPh09vZ) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Amaro Freitas](https://open.spotify.com/artist/3Y37ixG7KDgDqxSE6PL679) | [Emicida Racional VL 2 \- Mesmas Cores & Mesmos Valores](https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn) | 2:42 |
 | 32 | [Alma Gêmea](https://open.spotify.com/track/4XlMzWC8jUKd6nTXcQmWF8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rafa Kabelo](https://open.spotify.com/artist/1f45kEQGljLiTKsb3hX5Dj) | [O Glorioso Retorno de Quem Nunca Esteve Aqui](https://open.spotify.com/album/57PWjWHzqzODblomXxnQca) | 4:00 |
 | 33 | [A Cada Vento \- Live](https://open.spotify.com/track/2e1FJPgVRQZFT53QKUR7BD) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Criolo E Emicida Ao Vivo \(Live\)](https://open.spotify.com/album/3xfZtthn2dlFtFfyyYKEf8) | 4:03 |
-| 34 | [São Pixinguinha \- A COLORS SHOW](https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [São Pixinguinha \- A COLORS SHOW](https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy) | 3:29 |
+| 34 | [Pantera Negra](https://open.spotify.com/track/0zcRz3S8bw3glaBp7mjBDk) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pantera Negra](https://open.spotify.com/album/3pnSMptqglR6Z0e6Hy0pQ3) | 3:19 |
 | 35 | [A mema praça](https://open.spotify.com/track/6j02jeNHYIiQmEooAaE4kP) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Emicida Racional VL 2 \- Mesmas Cores & Mesmos Valores](https://open.spotify.com/album/0F6jY4tlKrI0whPSmhjlQn) | 5:44 |
-| 36 | [Pantera Negra](https://open.spotify.com/track/0zcRz3S8bw3glaBp7mjBDk) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pantera Negra](https://open.spotify.com/album/3pnSMptqglR6Z0e6Hy0pQ3) | 3:19 |
+| 36 | [São Pixinguinha \- A COLORS SHOW](https://open.spotify.com/track/3bw4LQ0BKYIsvvjJg9UCwy) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [São Pixinguinha \- A COLORS SHOW](https://open.spotify.com/album/1Mxg6MjeUTzYwjchfxAZzy) | 3:29 |
 | 37 | [Ooorra \- Ao Vivo](https://open.spotify.com/track/1YyrCYFzq2cqG6Rfggqqda) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [10 Anos de Triunfo \(Ao Vivo\)](https://open.spotify.com/album/6nFULR21EyYSzxPUr60S3a) | 4:44 |
 | 38 | [Triunfo \(A Rua É Nóiz\)](https://open.spotify.com/track/7b10Xiz8qNbe0W1x7RVbxh) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Pra Quem Já Mordeu um Cachorro por Comida Até Que Eu Cheguei Longe](https://open.spotify.com/album/26HxsUCUfYg5xDixUcBjla) | 3:29 |
 | 39 | [Mil Coisas](https://open.spotify.com/track/6EAbcrcNWpxJXSZHEw0TbK) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Drik Barbosa](https://open.spotify.com/artist/31hE6DJXzhWh5sLoW3Xl88) | [Mil Coisas](https://open.spotify.com/album/2NMDHZ1pEPkE07103NN30W) | 3:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g3boY.md) - [plain]
 | 49 | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/track/5884mCtM3DdbiNIeJzxsQ8) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Trevo, Figuinha e Suor na Camisa](https://open.spotify.com/album/2642lz4wM8Li5L6eXiuZv8) | 2:50 |
 | 50 | [Oi Compadre \- Ao Vivo](https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR) | [Cidade Negra](https://open.spotify.com/artist/4cx31cxKTg5L8blZE24qfZ), [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Rock In Rio \(Ao Vivo\)](https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS) | 4:06 |
 
-Snapshot ID: `akhNAAAAAADu4JsiJLN/5A2v+alpGHuj`
+Snapshot ID: `akmegAAAAACNEF7xnSNqPL1sfLnj0/Df`

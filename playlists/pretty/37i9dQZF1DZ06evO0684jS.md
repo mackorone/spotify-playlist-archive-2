@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 
 > This is Nicki Minaj\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,627 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,626 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0684jS.md) - [plain]
 | 49 | [Touchin, Lovin \(feat\. Nicki Minaj\)](https://open.spotify.com/track/3N8tI63CfkEc2WW5IkRfAj) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Trigga \(Deluxe\)](https://open.spotify.com/album/09ZagJCLFszgQZTlK99yqP) | 3:41 |
 | 50 | [Letting Go \(Dutty Love\) featuring Nicki Minaj \(feat\. Nicki Minaj\)](https://open.spotify.com/track/0wDbYIl4fN2mccHczCJqEf) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Letting Go \(Dutty Love\) featuring Nicki Minaj \(feat\. Nicki Minaj\)](https://open.spotify.com/album/6b9hnQ1lP77DB40PbpHwWI) | 3:50 |
 
-Snapshot ID: `akhNAAAAAABSCa8msovoXt+O+4xyakqL`
+Snapshot ID: `akmegAAAAAA2DH807g5lKYSLW3EzdxOc`

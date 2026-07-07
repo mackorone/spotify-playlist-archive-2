@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. SAIKO",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Anuel",
   "name": "PEGAO",
   "tracks": [
     {
@@ -932,6 +932,24 @@
       "duration_ms": 278644,
       "name": "ADIVINO",
       "url": "https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd"
+    },
+    {
+      "album": {
+        "name": "After",
+        "url": "https://open.spotify.com/album/3mAJ5jUoRMYCEjGBW0AclQ"
+      },
+      "artists": [
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167428,
+      "name": "After",
+      "url": "https://open.spotify.com/track/44PL9CqmxZ3tcbNJgrsqzb"
     },
     {
       "album": {
@@ -18826,7 +18844,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 244661,
       "name": "they already know",
       "url": "https://open.spotify.com/track/2uD9tqhCJI8WiIn4XrJzYs"

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-03-06",
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "name": "LA LLISTA DE FLAIXBAC (28/06/2026)",
+  "name": "LA LLISTA DE FLAIXBAC (5/7/2026)",
   "tracks": [
     {
       "album": {
@@ -1437,6 +1437,32 @@
     },
     {
       "album": {
+        "name": "El ventilador",
+        "url": "https://open.spotify.com/album/07TZGbKjn8xqDPHA0VJbWD"
+      },
+      "artists": [
+        {
+          "name": "Banda Neon",
+          "url": "https://open.spotify.com/artist/238KXKJTOYGAkQLQslSyYU"
+        },
+        {
+          "name": "Buhos",
+          "url": "https://open.spotify.com/artist/7BdgXLhynRQk78pKkhAsAR"
+        },
+        {
+          "name": "Mon DJ",
+          "url": "https://open.spotify.com/artist/5SLANaLk13zw9NaKeIS49U"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "El ventilador",
+      "url": "https://open.spotify.com/track/5MCycgUlsY56qp50wjnBte"
+    },
+    {
+      "album": {
         "name": "Els passos prohibits",
         "url": "https://open.spotify.com/album/1W04oFzsDyWU0WmIkZISgm"
       },
@@ -1448,7 +1474,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 141823,
       "name": "Els passos prohibits",
       "url": "https://open.spotify.com/track/010jwtvX8ITfPpGNnTz6PV"
@@ -1556,7 +1582,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 202542,
       "name": "EPA",
       "url": "https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw"
@@ -2056,7 +2082,7 @@
       ],
       "date_added": "2026-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 208128,
       "name": "GR\u00c0CIES",
       "url": "https://open.spotify.com/track/0pEOVHVyre2UtuQFDza4JY"
@@ -2608,6 +2634,28 @@
       "duration_ms": 201764,
       "name": "LA FORTUNA",
       "url": "https://open.spotify.com/track/4t8rCI5xepgmjr8vRwK27z"
+    },
+    {
+      "album": {
+        "name": "LA GRACIOSA",
+        "url": "https://open.spotify.com/album/0WijS8Oq1zVzbVCepggKgV"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257713,
+      "name": "LA GRACIOSA",
+      "url": "https://open.spotify.com/track/0b3Bkp0UfCkNqquAUmoP5m"
     },
     {
       "album": {
@@ -3790,6 +3838,28 @@
       "duration_ms": 155905,
       "name": "Overdrive (feat. Norma Jean Martine)",
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+    },
+    {
+      "album": {
+        "name": "pa ti toa <3",
+        "url": "https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213001,
+      "name": "pa ti toa <3",
+      "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
     },
     {
       "album": {

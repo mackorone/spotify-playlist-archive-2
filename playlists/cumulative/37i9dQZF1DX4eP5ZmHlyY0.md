@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: BE:FIRST
 
-1,033 songs - 2 day 8 hr 5 min
+1,034 songs - 2 day 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -693,7 +693,7 @@
 | [Sand Castle](https://open.spotify.com/track/2hwKCIEZB2sK5Z6Xfws0MK) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Sand Castle](https://open.spotify.com/album/2mw5HgtbMr4tSrq5VEqbxC) | 3:35 | 2026-06-09 | 2026-07-01 |
 | [SANE](https://open.spotify.com/track/1xvKv2s1glXmM7r7onnU0s) | [ONE PACT](https://open.spotify.com/artist/6ypgjfzuOVkVw9FEyh2UD5) | [1'ONLY](https://open.spotify.com/album/6Edlwp9FVbvlxF0JYAUqg9) | 2:18 | 2026-02-26 |  |
 | [Saucin'](https://open.spotify.com/track/7jVr1ZipYJJR4qHxZcQjqa) | [LNGSHOT](https://open.spotify.com/artist/2F4oTJOWkcD1JaTeKEa9h6) | [Saucin'](https://open.spotify.com/album/5y364Kj24BuuitP830bMnM) | 2:53 | 2026-01-15 | 2026-01-17 |
-| [SAVE YOUR HEART](https://open.spotify.com/track/1OapSRCeIO6x802zzQbg5R) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [SAVE YOUR HEART](https://open.spotify.com/album/6qiYRd1slkVkoOOe5vGsPP) | 3:11 | 2026-05-25 |  |
+| [SAVE YOUR HEART](https://open.spotify.com/track/1OapSRCeIO6x802zzQbg5R) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [SAVE YOUR HEART](https://open.spotify.com/album/6qiYRd1slkVkoOOe5vGsPP) | 3:11 | 2026-05-25 | 2026-07-07 |
 | [SAVIOR](https://open.spotify.com/track/3GujwZryUismW6xKOn309M) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [SAVIOR](https://open.spotify.com/album/3iXdmJU9Ya628gLjlgoWZr) | 2:59 | 2025-01-14 | 2025-02-10 |
 | [SAY CHEESE!](https://open.spotify.com/track/5K7Mt6iXdKKJV08fn1aFdb) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [SAY CHEESE!](https://open.spotify.com/album/5r8SFpLS1F2UtCgI9pVAGQ) | 2:52 | 2025-11-09 | 2026-02-07 |
 | [Say I do](https://open.spotify.com/track/5XKjC9HCdGdGyltKvsqNdb) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Say I do](https://open.spotify.com/album/31CPmLdGSzZ6MHRCIOVhsO) | 4:02 | 2025-03-06 | 2025-04-16 |
@@ -952,6 +952,7 @@
 | [キミノトコマデ](https://open.spotify.com/track/43cEuCJTfJFHMDEBYqkgkk) | [MA55IVE THE RAMPAGE](https://open.spotify.com/artist/4WrhFhuiPWwEkbsRzAjMBk) | [キミノトコマデ](https://open.spotify.com/album/2EIVEU0l83fLtfn4kGQMPb) | 3:17 | 2025-04-23 | 2025-05-02 |
 | [ギラギラサマー](https://open.spotify.com/track/2sHxORfEwQLuFCINxl0znD) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [ギラギラサマー](https://open.spotify.com/album/02HW2ZpiMq4sURnpLKJ5Im) | 3:24 | 2025-06-02 | 2025-06-18 |
 | [ギリスト！](https://open.spotify.com/track/44uiC9r2lNtWHMx3yp5qDg) | [上田竜也](https://open.spotify.com/artist/4s1pQdzt4S8cLMXDD19qG0) | [ギリスト！](https://open.spotify.com/album/4nr0X5zAvguICJI22rvMXg) | 3:15 | 2024-02-13 | 2024-03-20 |
+| [グッタイム](https://open.spotify.com/track/0bC8wYBhXCynw1Jt6QgMrg) | [Snow Man](https://open.spotify.com/artist/0UuiWPm9FpWvRuWNrXO98N) | [グッタイム](https://open.spotify.com/album/0ipnPh5eIiWftThZl0CL11) | 3:21 | 2026-07-07 |  |
 | [ココニイル](https://open.spotify.com/track/6UPSzADDU3wztV9Jf3gCZr) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [ココニイル](https://open.spotify.com/album/3IqFv5B0H9UlD1ZNZj7M1k) | 3:25 | 2026-07-03 |  |
 | [コトノハ](https://open.spotify.com/track/0jNEPqWXbouIlDCEhghFXZ) | [LAST FIRST](https://open.spotify.com/artist/55KR3eoKZN5BiquvkzHl6m) | [コトノハ \(Type\-B\)](https://open.spotify.com/album/0wPo0S4BOzf72jK5BCEJoF) | 4:43 | 2024-02-06 | 2024-02-14 |
 | [サンタさんへ。](https://open.spotify.com/track/0wrgXZ4dSl8LPm3ddP0YRz) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [サンタさんへ。](https://open.spotify.com/album/335QvsExORHN7FSMC2xxOs) | 3:55 | 2025-12-04 | 2026-01-15 |

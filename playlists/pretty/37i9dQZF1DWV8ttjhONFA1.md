@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > Sonido independiente y nacional\. Foto: Carolina Donati
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,714 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,695 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 5 | [De sol a sol](https://open.spotify.com/track/5o6Dn8UgJQJQTBZj2tZo3r) | [Galean](https://open.spotify.com/artist/3usCwS0jcb6SFJe3ZPiFA8) | [Corazón Mutante](https://open.spotify.com/album/2o0whCb69V80K2zNQE2FGu) | 3:59 |
 | 6 | [ECLIPSE](https://open.spotify.com/track/6EICWMbW2OBWtfYUVtn9tv) | [doppel gangs](https://open.spotify.com/artist/6NOqzjI8BErx0WICegZzTQ), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [ATLAS](https://open.spotify.com/album/1L8lVA3b8DpRZqjGZLoLbO) | 3:08 |
 | 7 | [Wyd](https://open.spotify.com/track/3ULmE2KCClI4toue52HpTq) | [Lolita Fiamma](https://open.spotify.com/artist/0u8bWPzFscvQGljoHXUsDW), [Nacho Amil](https://open.spotify.com/artist/0hkwn8vzfYveburgxouLrI), [piwifuntime](https://open.spotify.com/artist/4361FjAxSIkgjcwGWLZ2KB) | [Wyd](https://open.spotify.com/album/6IFQtT9KItj2ntagp24v2R) | 3:22 |
-| 8 | [Apuesto Lo Que Debo](https://open.spotify.com/track/12fHa9HuUb7UJPMMQINVqP) | [Pasado Verde](https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k) | [Apuesto Lo Que Debo](https://open.spotify.com/album/53pcLQ7aNeNeV417P8oET9) | 3:07 |
+| 8 | [Apuesto lo que debo](https://open.spotify.com/track/12fHa9HuUb7UJPMMQINVqP) | [Pasado Verde](https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k) | [Apuesto lo que debo](https://open.spotify.com/album/53pcLQ7aNeNeV417P8oET9) | 3:07 |
 | 9 | [Bajo La Lluvia](https://open.spotify.com/track/5SnwaCrZBHQo9UxvDGHUE8) | [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO), [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [Bajo La Lluvia](https://open.spotify.com/album/1FV7sCnaHhD0RKbtjhhcsV) | 3:40 |
 | 10 | [DOS PARTES](https://open.spotify.com/track/1rk15TMH2O0wP09zOvZB5u) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [CEREMONIA](https://open.spotify.com/album/0pTQYY91AEEoibVuUH1aQp) | 3:03 |
 | 11 | [Poesía completa](https://open.spotify.com/track/3toM4zpUZbZZZjW0VIsvFx) | [Mariana Michi](https://open.spotify.com/artist/31eAzxn0H5U0iAzTokpYBR) | [Poesía completa](https://open.spotify.com/album/2hk16KSPYPiIylFDBTgnMl) | 3:44 |

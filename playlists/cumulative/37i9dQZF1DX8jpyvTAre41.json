@@ -7443,6 +7443,24 @@
     },
     {
       "album": {
+        "name": "PEN I S MALL",
+        "url": "https://open.spotify.com/album/52HIKPlRueQJLVO1XoMBHn"
+      },
+      "artists": [
+        {
+          "name": "Chat Pile",
+          "url": "https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH"
+        }
+      ],
+      "date_added": "2026-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245293,
+      "name": "Deep Blue",
+      "url": "https://open.spotify.com/track/3GFKf9WmIJOGFw5WmNwAiQ"
+    },
+    {
+      "album": {
         "name": "American Hero",
         "url": "https://open.spotify.com/album/21HMENCxfw31djGv60lk88"
       },

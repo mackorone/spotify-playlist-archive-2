@@ -1,29 +1,13 @@
 {
   "description": "Celebrate with these recession pop &amp; hip-hop party tracks everyone knows and loves!",
-  "num_followers": 159321,
+  "num_followers": 159283,
   "original_name": "Party Bangers 2026 \ud83c\udf89 Recession Pop Vibes",
   "owner": {
     "name": "Topsify",
     "url": "https://open.spotify.com/user/topsify"
   },
-  "snapshot_id": "AAAI1bF1aQ2hRjIxsJ1kytBhi9q5K9e/",
+  "snapshot_id": "AAAI15OaPz0juslUYW4JHlv4GRDysVi7",
   "tracks": [
-    {
-      "added_at": "2026-07-02 21:20:59",
-      "album": {
-        "name": "Body Talk pt. 1",
-        "url": "https://open.spotify.com/album/3t690oEm4uYWd9dsxaDDbj"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 288670,
-      "name": "Dancing On My Own",
-      "url": "https://open.spotify.com/track/7lItUx11Vl9heRR9H68h2M"
-    },
     {
       "added_at": "2026-07-02 21:20:59",
       "album": {
@@ -67,22 +51,18 @@
     {
       "added_at": "2026-07-02 21:20:59",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+        "name": "Body Talk pt. 1",
+        "url": "https://open.spotify.com/album/3t690oEm4uYWd9dsxaDDbj"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
         }
       ],
-      "duration_ms": 236133,
-      "name": "Crazy In Love (feat. JAY-Z)",
-      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
+      "duration_ms": 288670,
+      "name": "Dancing On My Own",
+      "url": "https://open.spotify.com/track/7lItUx11Vl9heRR9H68h2M"
     },
     {
       "added_at": "2026-07-02 21:20:59",
@@ -123,6 +103,26 @@
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
+    },
+    {
+      "added_at": "2026-07-02 21:20:59",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Crazy In Love (feat. JAY-Z)",
+      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
     },
     {
       "added_at": "2026-07-02 21:20:59",

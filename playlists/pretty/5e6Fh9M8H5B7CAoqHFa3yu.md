@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 343 likes - 2,432 songs - 5 day 23 hr 15 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 343 likes - 2,433 songs - 5 day 23 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2440,5 +2440,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2430 | [Motivation Progress](https://open.spotify.com/track/7MiGzH6INaZGKg0dVkHzMW) | [Focuscircle](https://open.spotify.com/artist/3JzDncfAa9i8YByecJ771U) | [Album 1](https://open.spotify.com/album/1kdFVBOKq0QRMN0nITjkfO) | 1:44 |
 | 2431 | [Dime Pa Que Vuelves](https://open.spotify.com/track/5cg0XaWG6LGo4aZuoOxcGV) | [Soy Loy](https://open.spotify.com/artist/0egXpDPsm0pFmdjfIfPHbn), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Dime Pa Que Vuelves](https://open.spotify.com/album/6iAT6bslz3QBSKfHxSqrgM) | 3:14 |
 | 2432 | [Lluvia](https://open.spotify.com/track/3nDcihp9IpMQAF1cmBtEvJ) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [YOGURTO](https://open.spotify.com/album/48mR6V0kVn1Hrv2mYt22QS) | 2:18 |
+| 2433 | [Wish You Were Here](https://open.spotify.com/track/6TOsfnShKwt4x46FQmEMWF) | [Maknizer](https://open.spotify.com/artist/6wOaDcWGTfzG0t6ALk7CVt) | [Blacknote](https://open.spotify.com/album/0jaK0ZvOrm2K5q0bhINIyl) | 4:08 |
 
-Snapshot ID: `AAAKTZiXzZgsQvyztBc7vt2aCoiejZMt`
+Snapshot ID: `AAAKTnxkQIzZGE6/+buEo5jhOaEIbOit`

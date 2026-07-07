@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,355 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,357 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 | 12 | [Back In My Arms](https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK) | [Hori Shaw](https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh) | [Back In My Arms](https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr) | 3:45 |
 | 13 | [ALL MINE](https://open.spotify.com/track/0Yg2JX24pCRIcqZRC5aJU8) | [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV) | [ALL MINE](https://open.spotify.com/album/2HfQH6Lgw5niuKPPSPJ9RD) | 2:38 |
 | 14 | [Grin](https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [SENESCENCE 05 + 06](https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg) | 2:50 |
-| 15 | [Have You Ever Seen the Rain](https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845), [Te Omeka Perkins](https://open.spotify.com/artist/0v4dd7o5DG0zJdqsYrn1Bf) | [Have You Ever Seen the Rain](https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9) | 3:13 |
+| 15 | [Have You Ever Seen the Rain](https://open.spotify.com/track/1AJCwu6LhfFTh6Lb7SYlCh) | [House of Shem](https://open.spotify.com/artist/2ERWeFslDVHB4E9pSSw845) | [Have You Ever Seen the Rain](https://open.spotify.com/album/6Xi9D8l2wWFU1zGhzPnMX9) | 3:13 |
 | 16 | [Endlessly](https://open.spotify.com/track/2CyfQZebCmtHWEacUX3Bxp) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Right Here Right Now](https://open.spotify.com/album/6csIU1XcyHCNHorQkDE83W) | 3:23 |
 | 17 | [BITE BACK](https://open.spotify.com/track/3oRLktPykF4J9KqAHRlFrx) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [BITE BACK](https://open.spotify.com/album/44u8w5fzJ8lVizD4t1T0pr) | 3:45 |
 | 18 | [Better Off](https://open.spotify.com/track/1MJIGHlxwwTop0ZCuePe3Y) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Better Off](https://open.spotify.com/album/57SwrbCTxISbDLchYw0nvx) | 3:51 |

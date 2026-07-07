@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 180725,
       "name": "Choke Me",
       "url": "https://open.spotify.com/track/0itI8ykSUDp4dfwiHY6fnw"
@@ -4125,6 +4125,24 @@
     },
     {
       "album": {
+        "name": "Mesterul Manele",
+        "url": "https://open.spotify.com/album/1tZHGWcvCU3eZTllya7znL"
+      },
+      "artists": [
+        {
+          "name": "Alex Botea",
+          "url": "https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200471,
+      "name": "Mesterul Manele",
+      "url": "https://open.spotify.com/track/04XSd1K9IUneZBRDQXIUac"
+    },
+    {
+      "album": {
         "name": "METGALA",
         "url": "https://open.spotify.com/album/5Vm3is8Nsj5P3yELAkN3Tf"
       },
@@ -4406,6 +4424,24 @@
       "duration_ms": 144333,
       "name": "NA BELEA",
       "url": "https://open.spotify.com/track/0cfhnRMbIU7kmM85k2jPqZ"
+    },
+    {
+      "album": {
+        "name": "#BACKto2016",
+        "url": "https://open.spotify.com/album/4SJxykkXOstBqTNaR7mUbD"
+      },
+      "artists": [
+        {
+          "name": "Berechet",
+          "url": "https://open.spotify.com/artist/50vNYJ9Cj5MfsFqGqI7JXQ"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92500,
+      "name": "NE IMPACAM",
+      "url": "https://open.spotify.com/track/1UYgLqVvUOjWWtnBm5qhsx"
     },
     {
       "album": {
@@ -6674,7 +6710,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 150857,
       "name": "VOMIT BANI",
       "url": "https://open.spotify.com/track/2hQqHpmnbzIGnhwIzRTHGQ"

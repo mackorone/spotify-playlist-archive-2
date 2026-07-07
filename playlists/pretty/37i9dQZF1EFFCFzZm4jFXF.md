@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 77 | [Every Moment](https://open.spotify.com/track/6X0uczH3gOA4hbyPNdvSfb) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Every Moment](https://open.spotify.com/album/5YVNW4DIzAdA7gc1bJEW6X) | 2:53 |
 | 78 | [Kamikaze Camouflage](https://open.spotify.com/track/7kfq2i1lkGF0ObTD5Ke4os) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 2:34 |
 | 79 | [Wiersz Na Szkle](https://open.spotify.com/track/19gAeD3VrmLtPgAA9d9yun) | [Adam Kubera](https://open.spotify.com/artist/6Wac9kvo37JBxgkSS8LRXU) | [Wiersz Na Szkle](https://open.spotify.com/album/7pgMoAox0KApuvFljDbpyL) | 3:40 |
-| 80 | [Lights](https://open.spotify.com/track/10y768UHkUiE5Smx0Navw6) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Lights](https://open.spotify.com/album/6TZsiNGDZJAxCvTbFtZ7ly) | 3:24 |
-| 81 | [Stockholm](https://open.spotify.com/track/6ey4WncmCwNDailvLTUZCm) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Stockholm](https://open.spotify.com/album/3NNlYaqNHWxBhdKUJaPpcj) | 3:21 |
+| 80 | [Stockholm](https://open.spotify.com/track/6ey4WncmCwNDailvLTUZCm) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Stockholm](https://open.spotify.com/album/3NNlYaqNHWxBhdKUJaPpcj) | 3:21 |
+| 81 | [Lights](https://open.spotify.com/track/10y768UHkUiE5Smx0Navw6) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Lights](https://open.spotify.com/album/6TZsiNGDZJAxCvTbFtZ7ly) | 3:24 |
 | 82 | [Dopamine \- Radio Edit](https://open.spotify.com/track/1uzXNHa9hfU7WlIq0galfM) | [Xenia Ghali](https://open.spotify.com/artist/4iw0Pf0ZeTekpc6yqlGKYE) | [Dopamine](https://open.spotify.com/album/0q9AGhJrvZruxED1HFSLwf) | 3:40 |
 | 83 | [Never Stood A Chance](https://open.spotify.com/track/3AgmA7OJFNok5iGIRJu5HE) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Never Stood A Chance](https://open.spotify.com/album/5bqv7OLX8iCZEzRMZuzXLe) | 2:50 |
 | 84 | [Helpless](https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Helpless](https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1) | 3:30 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 130 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 131 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AcWFBAAAAAAgUrS0aGJaIaD9fb/Ctprh`
+Snapshot ID: `AcWKpAAAAAAOpMS0oORGQHM6tCWC4fo1`

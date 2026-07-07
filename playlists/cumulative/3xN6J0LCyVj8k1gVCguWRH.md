@@ -4,7 +4,7 @@
 
 > Summer has a way of slowing us down and bringing us together\. This playlist is a mix of new favorites and familiar sounds — songs for long drives, late afternoons, and evenings that stretch a little longer than planned.Hope you find something here that makes the season feel just right.
 
-6,231 songs - 14 day 12 hr 28 min
+6,232 songs - 14 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4628,7 +4628,7 @@
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-06-15 | 2023-07-21 |
 | [Searchin' \- Original Mix](https://open.spotify.com/track/0W04NlgVayujQBOsRW8gw0) | [Sebb Junior](https://open.spotify.com/artist/0oP6v3SuOC5jPc5pGUQdsD), [Karmina Dai](https://open.spotify.com/artist/05RLuucyiLswN7bNiV6Ma3) | [Together Alone](https://open.spotify.com/album/10YwwAZHM65fOGu3bGqb71) | 4:15 | 2021-02-12 | 2021-02-27 |
 | [Searching for Answers \(feat\. Glenn Lewis\)](https://open.spotify.com/track/6gMzKHIpwQsSQGULNuw3Eo) | [Jamar Jones](https://open.spotify.com/artist/4Z3wvslX8T0kJLfxILUR6e), [Glenn Lewis](https://open.spotify.com/artist/28821fRwpAWk44HfJ96PGV) | [Searching for Answers](https://open.spotify.com/album/57Q5uDf1fawuNhJg9bLBON) | 4:56 | 2025-03-12 | 2025-03-24 |
-| [searching for you](https://open.spotify.com/track/0nWFwHYfm8by8Il70FSqPO) | [Annie Mehesh](https://open.spotify.com/artist/5at1zXx4u5KSVzNHcsVOxM) | [searching for you](https://open.spotify.com/album/7q8wRPRx75Ei1spKqR4ppN) | 3:00 | 2025-04-07 | 2025-04-25 |
+| [searching for you](https://open.spotify.com/track/0nWFwHYfm8by8Il70FSqPO) | [Annie Mehesh](https://open.spotify.com/artist/5at1zXx4u5KSVzNHcsVOxM) | [searching for you](https://open.spotify.com/album/7q8wRPRx75Ei1spKqR4ppN) | 3:00 | 2025-04-07 |  |
 | [Season Of The Witch](https://open.spotify.com/track/5s87VyzQZ8log3PVVIGKD8) | [Ruby Anderson](https://open.spotify.com/artist/4JAbWwtFVX1MVEOYIxPmyB) | [Season of the Witch](https://open.spotify.com/album/6Hvj0IfQqUqvU7bnOfm0KD) | 3:59 | 2024-10-22 | 2024-11-03 |
 | [Seasons](https://open.spotify.com/track/5hRl9dIpiwODKBKmr0HZBy) | [Évangéline Charlotte](https://open.spotify.com/artist/5y2tyovjJF8OyLsdywlloR) | [Seasons](https://open.spotify.com/album/3eZoYFfjJnm2x05CWuPO26) | 3:38 | 2026-03-31 | 2026-04-13 |
 | [Seasons of Trouble](https://open.spotify.com/track/3zQ2VVEV6UQ9vCAaCQJDVY) | [Stereo League](https://open.spotify.com/artist/3iQV9SSzqnUEwlyqUTJLj6) | [Seasons of Trouble](https://open.spotify.com/album/3Aveciplay1UjQenjdI1HF) | 4:52 | 2022-09-09 | 2022-09-27 |
@@ -5016,6 +5016,7 @@
 | [Straight Face](https://open.spotify.com/track/30OU60kBWs0LU0igNfVX8e) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN), [Marco Giovanni](https://open.spotify.com/artist/51THgUeAqTsEM3oTDezXfM) | [Straight Face](https://open.spotify.com/album/6khiA0nqCwlh7s7y68PqsZ) | 2:51 | 2023-12-26 | 2024-01-03 |
 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 | 2021-07-11 | 2024-04-21 |
 | [Strangemirror](https://open.spotify.com/track/7uHu33Vcbs25PLyJsfIEBG) | [FORAGER](https://open.spotify.com/artist/0DT51FXXTBgRb2YykneEyb), [Shyamala](https://open.spotify.com/artist/0Tviw34k2zZgRWZHmz1S7d) | [Strangemirror / Many Times](https://open.spotify.com/album/1DCRlQ32RtAsQgjxcpzKgG) | 3:12 | 2024-03-29 | 2024-04-12 |
+| [Stranger on the Street](https://open.spotify.com/track/3stfUZudQaMpt31Tncoy0t) | [Tessa Marie](https://open.spotify.com/artist/4EDJdoAZzafzit6DSPxfUk) | [Stranger on the Street](https://open.spotify.com/album/4ql4GrxDr1JysaofzXQgDI) | 2:58 | 2026-07-06 |  |
 | [Strawberry Ice](https://open.spotify.com/track/6bYoJHuGp4o47JmyUgicZW) | [Soro](https://open.spotify.com/artist/4oEVvyMyPXVP2h8JkNpng5), [Ellisay](https://open.spotify.com/artist/1PNtvh0nGxEXTi9gB8btqv) | [Strawberry Ice](https://open.spotify.com/album/6kEAAukM1gf3CjS14cqRmz) | 2:31 | 2024-06-15 | 2024-06-27 |
 | [Strawberry Lips](https://open.spotify.com/track/5oekoxMW3ptAO18wRg8Led) | [The Atkins Tent Revival](https://open.spotify.com/artist/6e5n8RhZ0PwbewTnEymn42) | [Strawberry Lips](https://open.spotify.com/album/6OOs2EGHNEmTf01f2FQnh4) | 5:26 | 2024-10-18 | 2024-10-30 |
 | [Strawberry Skies](https://open.spotify.com/track/2p1onANhkUkyMZKKigOUJu) | [Kid Travis](https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk) | [Strawberry Skies](https://open.spotify.com/album/1QSS3hCtXqTakiLJpIhppz) | 2:45 | 2020-04-29 | 2020-05-07 |

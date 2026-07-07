@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Alternative indie music etc\. Cover: WILLOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,786 likes - 100 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,765 likes - 100 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 99 | [In The City, Outta Town \(Dance\)](https://open.spotify.com/track/3ghoPalyReJD1MmBTNeR4Q) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Muuv](https://open.spotify.com/album/3XA9DU8iWSwNgHf4bJnHdm) | 2:03 |
 | 100 | [No One Cares](https://open.spotify.com/track/2cy0X5lmmob7Orr6HvDEWt) | [Isaiah Stone](https://open.spotify.com/artist/29bBPfqgwilBBNnJAHjwkz) | [No One Cares](https://open.spotify.com/album/6gQgnOT6UYA9Ilb2qtFZvT) | 3:55 |
 
-Snapshot ID: `AAAAAPVfKxJ0iKXQB5DqHgXAKXFUh2Cg`
+Snapshot ID: `AAAAAGMbQvgDoFBblWhVabaWQdufcnqL`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 
 > <a href="spotify:artist:0t9dGS12PMZmiJiZa9vpyk">DJ Sliink</a>'s favorite tracks\. Updated regularly\. Curated by DJ Sliink\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,576 likes - 48 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,594 likes - 47 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,13 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcE1aizqeXI.md) - [plain]
 | 38 | [Keep Going](https://open.spotify.com/track/6yxWuVbEUbtBUGGvEQIeBd) | [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO), [Plaisance](https://open.spotify.com/artist/21LpA1uYZ28gFWyXueXGMu) | [Keep Going](https://open.spotify.com/album/4h0qU5fElVUMXewmkPMtox) | 4:49 |
 | 39 | [Loco Loco](https://open.spotify.com/track/1mZnxNzp17JrPyzDzkoiiC) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ) | [Loco Loco](https://open.spotify.com/album/5TENfmB9MmYxC6nmKvJ0XJ) | 2:16 |
 | 40 | [HOTS 4 U](https://open.spotify.com/track/5nMrR3Ed99WcQ4Vv0wy8Bf) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [aMo \(um\)](https://open.spotify.com/artist/4XVAZbKq64Z3Q0LPpCmoo0) | [HOTS 4 U](https://open.spotify.com/album/3zib9bQNuFbaBs1hsOAfY9) | 3:34 |
-| 41 | [The JAWN](https://open.spotify.com/track/7BRkfYZ6qE9gfXH2W3Ybg1) | [Jerri](https://open.spotify.com/artist/5nkSIrT61FtbpWyM2fWdmK) | [The JAWN](https://open.spotify.com/album/57Rnrzid645gzAMr1ysHkp) | 1:37 |
-| 42 | [Black Techno Guy](https://open.spotify.com/track/0GQ7Xh6mfh71Q0Az8sg3LT) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Black Techno Guy](https://open.spotify.com/album/3OO4Kb2Iw1qljp75qXh3hF) | 3:00 |
-| 43 | [Ain't You Naughty](https://open.spotify.com/track/04MW6huXsCEYZs2KdOVq9N) | [Kevin Knapp](https://open.spotify.com/artist/1qhZdOpfyWk2RbhTCpbAkv) | [Ain't You Naughty](https://open.spotify.com/album/04WTBsKBt54ZmFiV9yVjQ1) | 3:26 |
-| 44 | [Thread The Needle](https://open.spotify.com/track/64GeDOGstypWAsuvnztMnL) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby), [So What](https://open.spotify.com/artist/1ehc36NvSnu1eLd9UHaQYv), [Dynamite MC](https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl) | [Thread The Needle](https://open.spotify.com/album/0fm6VUJSwtRw7gLUegaY21) | 4:43 |
-| 45 | [On Your Mind \(feat\. Lil Yachty\)](https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [On Your Mind \(feat\. Lil Yachty\)](https://open.spotify.com/album/2TZNyzwG89VKnROkBaK7w3) | 3:37 |
-| 46 | [Bounce UR Body](https://open.spotify.com/track/5o9ddwUhXw50hymQN26U90) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Bounce UR Body](https://open.spotify.com/album/0fTPlvWCBV1nfynDXRDDgV) | 2:29 |
-| 47 | [I Never Knew](https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [I Never Knew](https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r) | 3:51 |
-| 48 | [True Love](https://open.spotify.com/track/6hU4PamXZpUNkDvBwfraUi) | [Birthday in Texas](https://open.spotify.com/artist/35SYTkkKBjuA75X0FoLRjA) | [No Bad Trips](https://open.spotify.com/album/7kXCnYWjMwmpLG0XtwPF6m) | 2:35 |
+| 41 | [Black Techno Guy](https://open.spotify.com/track/0GQ7Xh6mfh71Q0Az8sg3LT) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Black Techno Guy](https://open.spotify.com/album/3OO4Kb2Iw1qljp75qXh3hF) | 3:00 |
+| 42 | [Ain't You Naughty](https://open.spotify.com/track/04MW6huXsCEYZs2KdOVq9N) | [Kevin Knapp](https://open.spotify.com/artist/1qhZdOpfyWk2RbhTCpbAkv) | [Ain't You Naughty](https://open.spotify.com/album/04WTBsKBt54ZmFiV9yVjQ1) | 3:26 |
+| 43 | [Thread The Needle](https://open.spotify.com/track/64GeDOGstypWAsuvnztMnL) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby), [So What](https://open.spotify.com/artist/1ehc36NvSnu1eLd9UHaQYv), [Dynamite MC](https://open.spotify.com/artist/5RBFw1UkHw2NBsZFtheDEl) | [Thread The Needle](https://open.spotify.com/album/0fm6VUJSwtRw7gLUegaY21) | 4:43 |
+| 44 | [On Your Mind \(feat\. Lil Yachty\)](https://open.spotify.com/track/21C6u4k9di4S7w4JsQS1k7) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [On Your Mind \(feat\. Lil Yachty\)](https://open.spotify.com/album/2TZNyzwG89VKnROkBaK7w3) | 3:37 |
+| 45 | [Bounce UR Body](https://open.spotify.com/track/5o9ddwUhXw50hymQN26U90) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI) | [Bounce UR Body](https://open.spotify.com/album/0fTPlvWCBV1nfynDXRDDgV) | 2:29 |
+| 46 | [I Never Knew](https://open.spotify.com/track/54vF34GSMXYZfjPXMsHYWf) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [I Never Knew](https://open.spotify.com/album/2w8spOidxh0RSjdRjXvd3r) | 3:51 |
+| 47 | [True Love](https://open.spotify.com/track/6hU4PamXZpUNkDvBwfraUi) | [Birthday in Texas](https://open.spotify.com/artist/35SYTkkKBjuA75X0FoLRjA) | [No Bad Trips](https://open.spotify.com/album/7kXCnYWjMwmpLG0XtwPF6m) | 2:35 |
 
-Snapshot ID: `AAAAALuGbURsr6BaDvLG2ZOmzN7JmpEO`
+Snapshot ID: `AAAAAEjzwFvaRRPP0HCzN1hDLHOPM4r6`

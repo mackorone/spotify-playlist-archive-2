@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": " \u0623\u0642\u0648\u0649 \u062a\u0631\u0627\u0643\u0627\u062a \u0627\u0644\u0647\u064a\u0628 \u0647\u0648\u0628 \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u0645\u0631\u0648\u0627\u0646 \u0645\u0648\u0633\u0649",
+  "description": " \u0623\u0642\u0648\u0649 \u062a\u0631\u0627\u0643\u0627\u062a \u0627\u0644\u0647\u064a\u0628 \u0647\u0648\u0628 \u0641\u064a \u0645\u0635\u0631. \u0627\u0644\u063a\u0644\u0627\u0641: \u0639\u0641\u0631\u0648\u062a\u0648",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
   "tracks": [
     {
@@ -461,6 +461,28 @@
     },
     {
       "album": {
+        "name": "7adana",
+        "url": "https://open.spotify.com/album/5qZ56wDr3oWLmI1Ka0c32m"
+      },
+      "artists": [
+        {
+          "name": "ONUY",
+          "url": "https://open.spotify.com/artist/33Dgas4QUk9jjh2TnolVwj"
+        },
+        {
+          "name": "Coolpix",
+          "url": "https://open.spotify.com/artist/3ZMiLbKwMsHFQekTHnBBdZ"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120975,
+      "name": "7adana",
+      "url": "https://open.spotify.com/track/1KPz54jwOt4TVWzvAGrjbN"
+    },
+    {
+      "album": {
         "name": "Monologue",
         "url": "https://open.spotify.com/album/3GLaPHbqFaHgck2CaqDPBY"
       },
@@ -818,6 +840,28 @@
       "duration_ms": 150857,
       "name": "AHMED FALTA",
       "url": "https://open.spotify.com/track/4wOXh7A1amzMsHHP5Gym0T"
+    },
+    {
+      "album": {
+        "name": "AHMED RAMZY",
+        "url": "https://open.spotify.com/album/45aDpCMH7kWF6XnvvOmZqX"
+      },
+      "artists": [
+        {
+          "name": "SALE7",
+          "url": "https://open.spotify.com/artist/4YuGqWE0goKbuCjfnRd5nq"
+        },
+        {
+          "name": "Swessy",
+          "url": "https://open.spotify.com/artist/5A5QYAwB6cSLNAtX0ZHYBS"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147500,
+      "name": "AHMED RAMZY",
+      "url": "https://open.spotify.com/track/0RrBLm06KzwLREkyXXlgzo"
     },
     {
       "album": {
@@ -4473,6 +4517,36 @@
     },
     {
       "album": {
+        "name": "Kalam Mkntsh Haaolo",
+        "url": "https://open.spotify.com/album/4USiR6gaoLGwQkpKVcXYMU"
+      },
+      "artists": [
+        {
+          "name": "Abo El Anwar",
+          "url": "https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6"
+        },
+        {
+          "name": "Abyusif",
+          "url": "https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO"
+        },
+        {
+          "name": "Desso",
+          "url": "https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp"
+        },
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194782,
+      "name": "Kol Ma Az3l",
+      "url": "https://open.spotify.com/track/1CqnLFOGybfafuYPYKdUgI"
+    },
+    {
+      "album": {
         "name": "Lazem Newady (Leaked)",
         "url": "https://open.spotify.com/album/2NSXxH9hBiw3QtW1pIFfif"
       },
@@ -7805,6 +7879,28 @@
     },
     {
       "album": {
+        "name": "VAR",
+        "url": "https://open.spotify.com/album/5q0rcyT3gqD9lU4cfcNLnX"
+      },
+      "artists": [
+        {
+          "name": "Afroto",
+          "url": "https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR"
+        },
+        {
+          "name": "Wezza Montaser",
+          "url": "https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194181,
+      "name": "VAR",
+      "url": "https://open.spotify.com/track/4JZFh2ZS6i0J3lpNBtgDR7"
+    },
+    {
+      "album": {
         "name": "Mangesto",
         "url": "https://open.spotify.com/album/3t3dNFtSlwC5UBg9fRgKi5"
       },
@@ -7878,6 +7974,24 @@
       "duration_ms": 154953,
       "name": "W Bashot",
       "url": "https://open.spotify.com/track/3bhQZfZf8NEiZDkwAafdpe"
+    },
+    {
+      "album": {
+        "name": "Wa7da Wa7da",
+        "url": "https://open.spotify.com/album/6VbzgGPehHK88jWQeT9Wc0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baba",
+          "url": "https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150270,
+      "name": "Wa7da Wa7da",
+      "url": "https://open.spotify.com/track/2JNWhT4ztVhpXtEN20sWd6"
     },
     {
       "album": {

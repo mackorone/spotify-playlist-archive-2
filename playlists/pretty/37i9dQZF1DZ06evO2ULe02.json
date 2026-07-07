@@ -1,12 +1,12 @@
 {
   "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 2074,
+  "num_followers": 2075,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAABQouZ3hv9GhhRnus8GT7RX",
+  "snapshot_id": "akmegAAAAABhl/5uOw7xj0SPVRh4/Bjr",
   "tracks": [
     {
       "added_at": null,
@@ -171,18 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sick",
-        "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
+        "name": "autonomy+",
+        "url": "https://open.spotify.com/album/3wVtf0A7EYRwKuJqEz9gKA"
       },
       "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        },
         {
           "name": "Aidan Bissett",
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 136828,
-      "name": "Sick",
-      "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
+      "duration_ms": 189538,
+      "name": "Hands On (feat. Aidan Bissett)",
+      "url": "https://open.spotify.com/track/6KNdmRSHpb7FJRsHXk96yA"
     },
     {
       "added_at": null,
@@ -223,22 +227,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "autonomy+",
-        "url": "https://open.spotify.com/album/3wVtf0A7EYRwKuJqEz9gKA"
+        "name": "Sick",
+        "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
       },
       "artists": [
-        {
-          "name": "ELIO",
-          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
-        },
         {
           "name": "Aidan Bissett",
           "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
         }
       ],
-      "duration_ms": 189538,
-      "name": "Hands On (feat. Aidan Bissett)",
-      "url": "https://open.spotify.com/track/6KNdmRSHpb7FJRsHXk96yA"
+      "duration_ms": 136828,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
     },
     {
       "added_at": null,

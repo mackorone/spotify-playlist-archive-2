@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from FOLA & Ayra Starr, Jorja Smith & Wizkid, Ekene, Joshua Baraka, JayO, Nasty C and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,595 likes - 45 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,727 likes - 45 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 18 | [Ladder](https://open.spotify.com/track/7xlXuq4c8rvi94oNLpGcrE) | [Jinmi Abduls](https://open.spotify.com/artist/22t8cDfMqrZPXSgepZNY4W) | [Renaissance](https://open.spotify.com/album/2UtU38Y8jLN13lniYKD117) | 3:03 |
 | 19 | [Parade Flow](https://open.spotify.com/track/1pkaQz1VfDQNxBdXCbLsvB) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Parade Flow](https://open.spotify.com/album/4Hph06DiCegRAsGNHbOVxD) | 2:48 |
 | 20 | [New Level](https://open.spotify.com/track/6UBuBbkJw9ut5E9Vb410m2) | [BHADMAYORS](https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT) | [New Level](https://open.spotify.com/album/0Cu9Vk79wCg3hZAgA2zoGW) | 3:15 |
-| 21 | [Thando Lwakho](https://open.spotify.com/track/4vLpkeLToIgdIFQDqD7rZK) | [Chlé](https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro), [Sthibo de Beat](https://open.spotify.com/artist/4FVvHkJlWuJXz34KZK9eym) | [Thando Lwakho](https://open.spotify.com/album/6UO8Ytx2N1kJwAHuaxSBiq) | 7:21 |
+| 21 | [Thando Lwakho](https://open.spotify.com/track/4vLpkeLToIgdIFQDqD7rZK) | [Chlé](https://open.spotify.com/artist/78ExiA2p1L7zHf0qh3gvyv), [Sthibo de Beat](https://open.spotify.com/artist/4FVvHkJlWuJXz34KZK9eym) | [Thando Lwakho](https://open.spotify.com/album/6UO8Ytx2N1kJwAHuaxSBiq) | 7:21 |
 | 22 | [TAKEOVER](https://open.spotify.com/track/2BHV505kWK7vPnc6gDAsU5) | [Suspect 95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [TAKEOVER](https://open.spotify.com/album/2ZqbKuvwJ4Vh1bKQ5RYfDt) | 3:19 |
 | 23 | [Fuji](https://open.spotify.com/track/56YilUaVjRWzeqshGu0oMa) | [Pasuma](https://open.spotify.com/artist/2icl63UROfGjWheC4XkcnQ) | [Fuji](https://open.spotify.com/album/2Lloef6AEHpeTX8plLxiZ0) | 3:00 |
 | 24 | [Burtifly](https://open.spotify.com/track/0S5aODPPgma3x9nEfxfKS1) | [Mamuzo](https://open.spotify.com/artist/1igmgiNroMhNQQx9Rp4uoI), [Zen Univrse](https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl), [14H](https://open.spotify.com/artist/0kF0ltH5Z5zxPWChKK6Ou2) | [Burtifly](https://open.spotify.com/album/0Dzx6g6v2rK8Pem6xfmZz5) | 2:05 |

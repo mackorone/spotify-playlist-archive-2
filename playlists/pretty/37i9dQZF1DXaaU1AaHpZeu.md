@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 ### [Novedades Indie](https://open.spotify.com/playlist/37i9dQZF1DXaaU1AaHpZeu)
 
-> Nuevos hallazgos de música indie en español, con GOMZ en portada.
+> Nuevos hallazgos de música indie en español, con Jósean Log y Carlos Sadness en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,019 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,989 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [Olvidamos](https://open.spotify.com/track/6GUzAQwGDvpkpq1pwDxjqG) | [KNYA](https://open.spotify.com/artist/5OOwdQqnYQSdypLCSQ3Kvz) | [Olvidamos](https://open.spotify.com/album/0clsQ9E7rD0m6W4RugRkQd) | 3:22 |
 | 50 | [Sincero](https://open.spotify.com/track/5RMtHgZeFOIhrP7X83LX7a) | [MOSBI](https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef), [Oscar Nunez](https://open.spotify.com/artist/0VEo84koouO6b1MN5c0lHj) | [Sincero](https://open.spotify.com/album/2iscADP5LjDD0w4UC3UD6H) | 3:10 |
 
-Snapshot ID: `AAAAAMuNomJYxjZCR+2QL6Anw19dQhWi`
+Snapshot ID: `AAAAAAab+e6jJQFm8hBdv+UvWqZKKioE`

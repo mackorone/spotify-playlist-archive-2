@@ -132,7 +132,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 165600,
       "name": "6 AM",
       "url": "https://open.spotify.com/track/6gUqb8uDHBtO8s34zFv6SZ"
@@ -5032,7 +5032,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 234438,
       "name": "RABIA DEL CORAZ\u00d3N",
       "url": "https://open.spotify.com/track/3g2XcCoWk2oYM3moTFFQoc"
@@ -5108,6 +5108,24 @@
       "duration_ms": 144346,
       "name": "RNA",
       "url": "https://open.spotify.com/track/0tXTtaJi3FBvm3AvP64jRB"
+    },
+    {
+      "album": {
+        "name": "Gloria Morir",
+        "url": "https://open.spotify.com/album/3x53N8oPi0pXoq0CCJK8wA"
+      },
+      "artists": [
+        {
+          "name": "Viuda Federal",
+          "url": "https://open.spotify.com/artist/0P66TdA6UAEVqjz6P9xNZl"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216092,
+      "name": "Rompan Todo",
+      "url": "https://open.spotify.com/track/5PZUbiba1yYXW8Y0Utb6YY"
     },
     {
       "album": {
@@ -5304,6 +5322,24 @@
       "duration_ms": 166800,
       "name": "Shake It Up",
       "url": "https://open.spotify.com/track/4IqBzJpsbE7fb8ocdX4ZZP"
+    },
+    {
+      "album": {
+        "name": "Ac\u00fasticos (Live)",
+        "url": "https://open.spotify.com/album/4DYcYZyzJXgaKsa63o3LOI"
+      },
+      "artists": [
+        {
+          "name": "JOTTA",
+          "url": "https://open.spotify.com/artist/3bssLS5nuLXRJMvAPBzLN0"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159560,
+      "name": "SHANTI (ac\u00fastico) - Live",
+      "url": "https://open.spotify.com/track/6kUMb18LDiUs3r3qXT4Gd8"
     },
     {
       "album": {

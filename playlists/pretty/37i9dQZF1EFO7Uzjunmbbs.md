@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,076 likes - 217 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,077 likes - 217 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,8 +196,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 186 | [Small Town Heart](https://open.spotify.com/track/6JkTj4Wuu8fsLdHprXB7fB) | [Macy Martin](https://open.spotify.com/artist/3jtrkW7BFCTcFA6HXPv0O9) | [Small Town Heart](https://open.spotify.com/album/2Yp3tzB7e2LYqv4w1b4Hty) | 3:25 |
 | 187 | [Heart Less](https://open.spotify.com/track/76M7fcJzZS7wpxCiriOaAZ) | [Justine Blanchet](https://open.spotify.com/artist/75gq8ktf7AEhIGPp1zRpfE) | [Heart Less](https://open.spotify.com/album/40zSSY1q3kEP4MiNqctxZQ) | 2:59 |
 | 188 | [When It Does](https://open.spotify.com/track/1NrwlrgbnfktQh1PgFPAtT) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Lucky](https://open.spotify.com/album/4SGrVDWSlMWaMxvxI97AhP) | 2:54 |
-| 189 | [Loved](https://open.spotify.com/track/40ZUHESzoQNzcyNJurwTzQ) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [I Call It Being Human](https://open.spotify.com/album/3FVWw3nnNmvi2XCjKERKMN) | 3:32 |
-| 190 | [how to swim](https://open.spotify.com/track/5eytO8ZEN26UjAp5QSkciP) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:45 |
+| 189 | [how to swim](https://open.spotify.com/track/5eytO8ZEN26UjAp5QSkciP) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [I HOPE THIS HELPS](https://open.spotify.com/album/7gvFSscJqAbPrqQ4mK0irw) | 2:45 |
+| 190 | [Loved](https://open.spotify.com/track/40ZUHESzoQNzcyNJurwTzQ) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [I Call It Being Human](https://open.spotify.com/album/3FVWw3nnNmvi2XCjKERKMN) | 3:32 |
 | 191 | [Medicine](https://open.spotify.com/track/3Nwe0XkIDBieb5kduMJbRn) | [Yo! & The Electric](https://open.spotify.com/artist/0CwrsohUqP5LgjlOHaMEVP) | [Sparticus](https://open.spotify.com/album/7AJ1SNnTOdLGdn8cMbXMeA) | 5:54 |
 | 192 | [Hard to Get](https://open.spotify.com/track/0NgdFOmr56bRwXxt5dJSTk) | [Runaway Angel](https://open.spotify.com/artist/7uBdWuUee67V5BFxF4jwFw) | [Zero](https://open.spotify.com/album/6m33gNlty6hNuXGs0XqoNe) | 2:47 |
 | 193 | [Love Someone](https://open.spotify.com/track/4cKLbe0RxfMFsi3EzCU03X) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [I'm Ready](https://open.spotify.com/album/7JKnJRhigNYvS1VIxiIf40) | 4:56 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 216 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
 | 217 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcWE+gAAAAAXUKnfYhnb0NjYzuqYd0cP`
+Snapshot ID: `AcWKpAAAAAAScXqCKGgoxWUmxqg20vOE`

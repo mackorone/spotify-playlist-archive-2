@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,568 songs - 10 day 4 hr 34 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,571 songs - 10 day 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4576,5 +4576,8 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4566 | [Dil Ye Dhadakta Hi Nahin \- Extended Version](https://open.spotify.com/track/2EICWOdqnZYMmeNhLlD5df) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dil Ye Dhadakta Hi Nahin](https://open.spotify.com/album/5ER11kVPBVRPXgqIDsNwUV) | 3:01 |
 | 4567 | [Alone](https://open.spotify.com/track/3vVkD9DIf5sMED4LaSV9fZ) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Alone](https://open.spotify.com/album/4mdP1np8HzR3JyB3Zf9dts) | 3:25 |
 | 4568 | [Through Blood or Glory](https://open.spotify.com/track/0MU3pj4seZYuPmB0W6i6HT) | [Dark Shadow](https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q) | [Through Blood or Glory](https://open.spotify.com/album/0oegqz6dQmOMputH42TyYc) | 5:15 |
+| 4569 | [Build to Burn](https://open.spotify.com/track/2ea1wQNqIyMghvoHbJHdqJ) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Build to Burn](https://open.spotify.com/album/3gwdzUm6fwWglItpbtwYEW) | 4:56 |
+| 4570 | [İki Kalp](https://open.spotify.com/track/0DUukZhlATPQ4AxA5NGDbm) | [Kavanoz](https://open.spotify.com/artist/1kQLL2HLwXJfeQtmmCsxJQ) | [İki Kalp](https://open.spotify.com/album/0sD6t5iydCDwojFKJIuYVY) | 4:21 |
+| 4571 | [Postal Secret](https://open.spotify.com/track/4Pi6nD8JQiqvHVFZXULyjs) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 4:34 |
 
-Snapshot ID: `AAAJEbGLmy9hkBTMZGEShAMm9/dFudF7`
+Snapshot ID: `AAAJFCSSzr61uHxn1tHub/7dEzZwynpF`

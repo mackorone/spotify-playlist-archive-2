@@ -2,9 +2,9 @@
 
 ### [Yalla ](https://open.spotify.com/playlist/37i9dQZF1DX5cO1uP1XC1g)
 
-> The Hottest Arabic Music.<br/>Cover: Sherine
+> The Hottest Arabic Music.<br/>Cover: Wael Kfoury
 
-466 songs - 1 day 3 hr 51 min
+469 songs - 1 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Bagheeb Bmzagy](https://open.spotify.com/track/6pC4o086d8fwArcIVdlyJT) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Bagheeb Bmzagy](https://open.spotify.com/album/4WL5gL4OulnpsFDXzba3ZT) | 3:20 | 2023-08-14 | 2024-03-03 |
 | [Bahareya](https://open.spotify.com/track/1LPcEP3HCUbOFvb6NEH1Ma) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX), [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Sammaouny](https://open.spotify.com/album/3kdDQxglL8c1lqOKD8JNwT) | 3:31 | 2026-06-16 |  |
 | [Bahr Shar](https://open.spotify.com/track/1AZjgKOrI1MVwoDKYlZIdF) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k), [Houda Bondok](https://open.spotify.com/artist/3h9whENZphIzFOkg0brmgK) | [Bahr Shar](https://open.spotify.com/album/60jBCD1LI5FDHxPQV3mef5) | 2:51 | 2021-12-12 | 2022-07-27 |
+| [Baklem Nafsi \(From "Ezma"\)](https://open.spotify.com/track/3sjUMYe10I7WOSNcv0llZD) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Baklem Nafsi \(From "Ezma"\)](https://open.spotify.com/album/1d5zG7QYqdWp262xOTdTJr) | 3:31 | 2026-07-06 |  |
 | [Bali maak](https://open.spotify.com/track/1T1K8RD3cHOJF95MjJdW6E) | [Amine Farsi](https://open.spotify.com/artist/1jsITtntorE3UE5JMAZ2j6), [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [Bali maak](https://open.spotify.com/album/6WtZt1QKkW712bnLox831o) | 2:39 | 2025-11-10 |  |
 | [Baree](https://open.spotify.com/track/54nQpzXkuEqeYcw5CrkIBI) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [BAREE?](https://open.spotify.com/album/1gZW7IiLxwvWx0VAR9HK3X) | 2:33 | 2021-12-23 | 2022-10-12 |
 | [Bas Bhebbak \- بس بحبك](https://open.spotify.com/track/1rqkWBdkIhusHfufWPzZv3) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz) | [Bas Bhebbak \(بس بحبك\)](https://open.spotify.com/album/4x4G2bwlUIS5whCvZMG6oJ) | 3:08 | 2023-06-02 | 2023-07-02 |
@@ -216,6 +217,7 @@
 | [Kol El Nas](https://open.spotify.com/track/6GjW5aqVmn2mIHdMiWn8sR) | [El Sawareekh](https://open.spotify.com/artist/5rNrRYsRVaRJDQhA1PEC6t), [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm) | [Kol El Nas](https://open.spotify.com/album/5G6eYqkydwunUSmbRqk5gv) | 2:55 | 2021-12-12 | 2022-11-02 |
 | [Kol Youm](https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Kol Youm](https://open.spotify.com/album/425JKkR2C6PwmFgeriOlwm) | 3:25 | 2021-12-12 | 2022-09-23 |
 | [Kolo Falso](https://open.spotify.com/track/1il1wNIj3ful9IlWgxLRmX) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7), [Esaad Younes](https://open.spotify.com/artist/244JwBOuYHi3RiWItQtKIY) | [Kolo Falso](https://open.spotify.com/album/7mbfcm8CXhfUEJVf2ioUwF) | 2:58 | 2023-12-25 | 2025-09-29 |
+| [Kooty](https://open.spotify.com/track/66FMn9H0USdWuf71ct1N2b) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [THE HYPE ALBUM](https://open.spotify.com/album/6X7BmLUyoJEESMp85tYWtJ) | 2:18 | 2026-07-06 |  |
 | [Koun](https://open.spotify.com/track/3mlQfTMo8VmL3l8tXjAX8j) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Koun](https://open.spotify.com/album/3VHCM2iQcOgqHgHcHJmwqv) | 3:23 | 2023-04-23 | 2023-06-05 |
 | [La](https://open.spotify.com/track/5XF583kr3Eojotxl6SOKF0) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:28 | 2024-01-04 | 2025-12-11 |
 | [La Malama \(Bonus Track\)](https://open.spotify.com/track/5ZsSIC9ea0OEi7gMMv7b1t) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/4c7UeqkDVT5AZI3hN7oitj) | 3:48 | 2021-12-12 | 2023-07-28 |
@@ -299,6 +301,7 @@
 | [Salamat](https://open.spotify.com/track/0A4fwNrMiQpY7rIWrdmjaz) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Nancy 10](https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb) | 3:00 | 2021-12-12 | 2023-02-03 |
 | [Sandooq](https://open.spotify.com/track/4ttOChaYzhFiqncZzARrgg) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Sandooq](https://open.spotify.com/album/64jn4SURcFj7jaySPuN7cm) | 5:44 | 2024-01-27 | 2024-02-29 |
 | [Sans Toi](https://open.spotify.com/track/5XCmPcevC1eHbM8zfBYKRq) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Sans Toi](https://open.spotify.com/album/5uUFvk4GOcXlwjlabk1ldZ) | 3:30 | 2021-12-12 | 2022-02-08 |
+| [Sare2li Omri](https://open.spotify.com/track/5y9hhjGuisR7hGeCV66hIW) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Sare2li Omri](https://open.spotify.com/album/2r8Gs7tg59Ax6km6XdlPwE) | 3:33 | 2026-07-06 |  |
 | [Sbabi](https://open.spotify.com/track/7ptXsiOZ38WKdOiWjj4Va6) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Sbabi](https://open.spotify.com/album/4tunxQYd61Q41HQjo0qbc3) | 3:14 | 2023-09-22 | 2024-02-29 |
 | [Seebk Enta](https://open.spotify.com/track/3PXha2Njo7liz76GW40Qqu) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [Seebk Enta](https://open.spotify.com/album/2L9QugHuAfWqw2rlG4CGPO) | 4:00 | 2023-05-31 | 2023-06-15 |
 | [Ser Alsada \( Mountain View\)](https://open.spotify.com/track/1b4eTrznDOiLZX2oWisl2m) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ser Alsada \( Mountain View\)](https://open.spotify.com/album/7ihocihukbewYHZZBzfk8c) | 3:50 | 2021-12-12 | 2022-09-19 |

@@ -726,7 +726,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 279488,
       "name": "ALICE",
       "url": "https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7"
@@ -1498,6 +1498,24 @@
       "duration_ms": 159750,
       "name": "AVERAGE AMERICAN WOMAN",
       "url": "https://open.spotify.com/track/4yKrWwUOOAt4U4Asxe3igO"
+    },
+    {
+      "album": {
+        "name": "avoid me",
+        "url": "https://open.spotify.com/album/4LQF20TUI2tPxoztReVxSd"
+      },
+      "artists": [
+        {
+          "name": "Mikal Sabella",
+          "url": "https://open.spotify.com/artist/48l3CDUNMi5cDJDzatyl8X"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202880,
+      "name": "avoid me",
+      "url": "https://open.spotify.com/track/1AEeEOK6AIVFM6BtRfPOYa"
     },
     {
       "album": {
@@ -6659,6 +6677,24 @@
     },
     {
       "album": {
+        "name": "Samaerica (Deluxe)",
+        "url": "https://open.spotify.com/album/2Dh1ad4DSaHRSPHgiG4l3j"
+      },
+      "artists": [
+        {
+          "name": "Samaera",
+          "url": "https://open.spotify.com/artist/74FCyRCyjTCpKEzoxNoTyG"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136193,
+      "name": "Good Company",
+      "url": "https://open.spotify.com/track/2LTRIUYab9pf6wGtX1We3h"
+    },
+    {
+      "album": {
         "name": "Good For Me",
         "url": "https://open.spotify.com/album/3x7E0B0uw3dDz3XOKYdtoX"
       },
@@ -9818,7 +9854,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 169872,
       "name": "It's Not You It's Him",
       "url": "https://open.spotify.com/track/5GliRrmzhcTZyXCl0EXBC1"
@@ -12753,6 +12789,24 @@
     },
     {
       "album": {
+        "name": "Not Going Back",
+        "url": "https://open.spotify.com/album/4CbuucoAgrfGommZyADFtY"
+      },
+      "artists": [
+        {
+          "name": "Muireann Bradley",
+          "url": "https://open.spotify.com/artist/4kuuvvwzgrAZYE67WPrbYl"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206426,
+      "name": "Not Going Back",
+      "url": "https://open.spotify.com/track/6Th9lSm2XopRstK6kNlfSa"
+    },
+    {
+      "album": {
         "name": "Not My Friends",
         "url": "https://open.spotify.com/album/6xYLt9hhDC5Kn4R4H4FPdK"
       },
@@ -12944,7 +12998,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 246322,
       "name": "One For The Road",
       "url": "https://open.spotify.com/track/3tmfku440xHAmxVZHkFYru"

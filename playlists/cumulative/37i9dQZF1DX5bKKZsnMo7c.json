@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Feeling dramatic? All eyes on you. Cover: Baby J",
+  "description": "Feeling dramatic? All eyes on you. Cover: Mollie Elizabeth",
   "name": "Limelight",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 279488,
       "name": "ALICE",
       "url": "https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7"
@@ -9174,6 +9174,24 @@
       "duration_ms": 201938,
       "name": "The Challenge",
       "url": "https://open.spotify.com/track/2MfEPa673rIPzBUdwfqd0P"
+    },
+    {
+      "album": {
+        "name": "PAREIDOLIA",
+        "url": "https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5"
+      },
+      "artists": [
+        {
+          "name": "Erin LeCount",
+          "url": "https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202250,
+      "name": "THE CINEMA",
+      "url": "https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv"
     },
     {
       "album": {

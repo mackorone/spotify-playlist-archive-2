@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: Quiet Houses
 
-2,461 songs - 5 day 11 hr 8 min
+2,462 songs - 5 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -684,6 +684,7 @@
 | [Easy Going](https://open.spotify.com/track/2be1ZSjEYPuLOjCDJIdEhN) | [Kacy Hill](https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK) | [Easy Going](https://open.spotify.com/album/5nchHAqJGErJGdVOFYOwHC) | 2:42 | 2021-09-25 | 2021-12-07 |
 | [Eat It All Up](https://open.spotify.com/track/4qBsljPLydFTDKdLAfXjUa) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Eat It All Up](https://open.spotify.com/album/1quBPc64lRxo3RfWkmzCSE) | 2:37 | 2021-06-03 | 2021-10-24 |
 | [Echo](https://open.spotify.com/track/3SH1vOTwgg5Ma1NhHaXvrA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:29 | 2024-05-31 | 2025-06-28 |
+| [Edges of You](https://open.spotify.com/track/3dat7vpTyvyUiCYkvopr1L) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Edges of You](https://open.spotify.com/album/6qSE38dtgNyo5Enaxa1EFo) | 3:14 | 2026-07-06 |  |
 | [Effortless](https://open.spotify.com/track/1kERj1mdR9X6ZkCGsbIwYc) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [Effortless](https://open.spotify.com/album/32En4ZcvsHfgeQh26fX9wn) | 2:41 | 2020-10-13\* | 2020-10-23 |
 | [Ego](https://open.spotify.com/track/4cPGneVmrxVcz28DFWlHWl) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Ego](https://open.spotify.com/album/43mrj0Ck4DFDYRC4za10sz) | 3:13 | 2025-12-12 | 2026-02-07 |
 | [Egotism](https://open.spotify.com/track/5tVMIkfYa1gRl58ByUsNkx) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Peach](https://open.spotify.com/album/47BjK21VMGti5QReZnn3Pd) | 3:12 | 2021-02-10 | 2021-10-12 |
@@ -1424,7 +1425,7 @@
 | [melancholyism.](https://open.spotify.com/track/03ejfFAbwrrANbH4fZzF0W) | [Super Whatevr](https://open.spotify.com/artist/2kbAovdYb7krLSGdOrBMRu) | [melancholyism.](https://open.spotify.com/album/1Umawe3NueijnMkEGiQwZV) | 3:08 | 2020-10-20 | 2020-10-21 |
 | [Melrose Meltdown](https://open.spotify.com/track/0oXD7ewBoYpsLmgG07VMF6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [I Can't Let Go](https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm) | 3:32 | 2022-06-17 | 2022-08-06 |
 | [Melrose Meltdown](https://open.spotify.com/track/7kvlIHCMeZyQVG6Fsn10Vf) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Melrose Meltdown](https://open.spotify.com/album/2CxqquXzqf6JbYYVAAeEkm) | 3:32 | 2022-01-28 | 2022-06-29 |
-| [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 | 2026-01-16 |  |
+| [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 | 2026-01-16 | 2026-07-07 |
 | [menace](https://open.spotify.com/track/1MiieWsKWwMrnwPK0NelAW) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [menace](https://open.spotify.com/album/1OTLjnsSxB7IbzpSg435jc) | 2:05 | 2022-07-22 | 2022-08-06 |
 | [Mesmerized](https://open.spotify.com/track/6jOxmhdeeabZJ6ALOalk45) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Mesmerized](https://open.spotify.com/album/48cw0m0nuKHe6Q369tRLkr) | 2:38 | 2026-06-05 |  |
 | [Mess It Up](https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mess It Up](https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf) | 2:51 | 2021-05-08 | 2023-06-24 |

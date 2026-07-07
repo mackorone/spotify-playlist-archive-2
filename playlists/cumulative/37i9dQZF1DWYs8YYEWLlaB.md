@@ -4,7 +4,7 @@
 
 > viral, trend ve yükselenler\.  Kapak: Yalın
 
-296 songs - 15 hr 0 min
+297 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Elini Ver](https://open.spotify.com/track/4wwZyKI0OtpRfHmpxv6JdR) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Elini Ver](https://open.spotify.com/album/5r0s3anoC7C85G0NvcC0yN) | 2:22 | 2024-07-02 | 2024-09-06 |
 | [Eller Üzer](https://open.spotify.com/track/2wV6HTsxC6lk4XbMkzU3hA) | [Serkan Nişancı](https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd) | [Eller Üzer](https://open.spotify.com/album/5pMJtaEOanoR0cWndtA0p4) | 3:18 | 2026-04-16 |  |
 | [En Derine](https://open.spotify.com/track/1Y0dPkNvAXzfWqhXknO8Ji) | [WTSOUNDS](https://open.spotify.com/artist/27N70iRV4BrxqvFnR6CT28), [WTFRANK](https://open.spotify.com/artist/0oP6PRV97lvonUAdTvzeqN) | [En Derine](https://open.spotify.com/album/2nGA1RqvIEJ3OY1ecAe1TH) | 2:27 | 2026-02-16 | 2026-05-19 |
-| [En Kötü İhtimalle \- Mustafa Sandal Saygı 1](https://open.spotify.com/track/4ipr8QzOh2H0YR51XgQDeh) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [En Kötü İhtimalle \(Mustafa Sandal Saygı 1\)](https://open.spotify.com/album/5QYffZsQOLZX4tHCWXpFaO) | 4:00 | 2026-05-28 | 2026-07-04 |
+| [En Kötü İhtimalle \- Mustafa Sandal Saygı 1](https://open.spotify.com/track/4ipr8QzOh2H0YR51XgQDeh) | [Ziynet Sali](https://open.spotify.com/artist/7zVYyYhGZxvPHPuhzReYHP), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [En Kötü İhtimalle \(Mustafa Sandal Saygı 1\)](https://open.spotify.com/album/5QYffZsQOLZX4tHCWXpFaO) | 4:00 | 2026-05-28 |  |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2026-01-08 | 2026-02-17 |
 | [Es](https://open.spotify.com/track/6hBmElorXW8xsvKbqzXzD6) | [Mustafa Ceceli](https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE) | [Es!](https://open.spotify.com/album/3PYfRiN717b82YJMu1j1my) | 4:29 | 2025-10-21 | 2025-11-19 |
 | [ESC\*BAR](https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [ESC\*BAR](https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI) | 2:16 | 2024-07-16 | 2024-10-08 |
@@ -168,7 +168,7 @@
 | [Kutupta Yaz Gibi](https://open.spotify.com/track/28wSrbbf6vnix8F6vcHGFZ) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Karışık Kaset 2](https://open.spotify.com/album/22dJRNVTVUfGQzbMCNMuJq) | 2:18 | 2026-05-01 |  |
 | [Kör Sevdam](https://open.spotify.com/track/2RlpOjMTH17Gf0F0AM40Lw) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Kör Sevdam](https://open.spotify.com/album/5LnSokIxzuo1rVOdq6plPa) | 3:11 | 2025-05-28 | 2026-04-28 |
 | [Küle Dönmüşsün](https://open.spotify.com/track/2CZzw0He9fzyi2FkBkn4Bk) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Küle Dönmüşsün](https://open.spotify.com/album/69XrCiTVTxzFDxvk6RorEG) | 2:22 | 2024-07-02 | 2024-12-06 |
-| [Küçük Bir Yol](https://open.spotify.com/track/6KybXlftuqmAxRI05yqDfk) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Küçük Bir Yol](https://open.spotify.com/album/7jaKipywn8miD34MQ6G946) | 4:40 | 2026-03-23 |  |
+| [Küçük Bir Yol](https://open.spotify.com/track/6KybXlftuqmAxRI05yqDfk) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [Küçük Bir Yol](https://open.spotify.com/album/7jaKipywn8miD34MQ6G946) | 4:40 | 2026-03-23 | 2026-07-07 |
 | [Küçük Bir Yol \- Red Bull Track Takeover](https://open.spotify.com/track/4TvgcJPNmAThMDplXHic7i) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [Küçük Bir Yol \(Red Bull Track Takeover\)](https://open.spotify.com/album/5tpgUR7cyZyc2B6KS9unWY) | 3:20 | 2026-03-27 |  |
 | [Küçük Sevgilim \- Saygi1](https://open.spotify.com/track/4Y5WDvbBG3g1R34CfKwUSP) | [mor ve ötesi](https://open.spotify.com/artist/5ixQSDvAMa5O758xG8MWXT), [EDIS](https://open.spotify.com/artist/1AM52XHXnWAEqnQwpxTLWm), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Küçük Sevgilim \(Saygi1\)](https://open.spotify.com/album/71xsPyusr0Bm6qY0owtR5I) | 2:59 | 2025-04-28 | 2025-05-29 |
 | [Kırmızı](https://open.spotify.com/track/58Y5BrcGgDUd5RWApT1lV9) | [Ayla Çelik](https://open.spotify.com/artist/3Z7GwK4hUEczTklLsVedcx) | [Kırmızı](https://open.spotify.com/album/3wk2gK2cnkhfqMqydtqdf9) | 3:25 | 2026-03-31 |  |
@@ -191,7 +191,7 @@
 | [Misafir](https://open.spotify.com/track/71rwEX50AtpDKdGTRguRLs) | [Simge](https://open.spotify.com/artist/4StjyzjcmZ7a9QncHVf0pu) | [Yeni Çıktı](https://open.spotify.com/album/1dXa3OLrAab1cYhKfBa5mZ) | 3:23 | 2026-04-16 |  |
 | [Mosmor Perde](https://open.spotify.com/track/2qBH9hL1iMU9kpz44dLtcj) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [Mosmor Perde](https://open.spotify.com/album/1nxsVfwr0XVMfQELSWjakK) | 2:36 | 2025-06-04 | 2025-12-25 |
 | [muamma \- ulubatlı](https://open.spotify.com/track/6NA2roNRPCo9k2Oprh0zGQ) | [Lil Zey](https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7) | [muamma \(ulubatlı\)](https://open.spotify.com/album/6eZNFmDx1hVjp3mweyiTEO) | 3:08 | 2026-04-27 | 2026-05-19 |
-| [NALAKA](https://open.spotify.com/track/5h5QPBDmsxIGuH55zsBgRU) | [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq) | [NALAKA](https://open.spotify.com/album/7sE9isq4Y1SbEVHdaR6Gmb) | 1:46 | 2026-04-16 |  |
+| [NALAKA](https://open.spotify.com/track/5h5QPBDmsxIGuH55zsBgRU) | [KÖK$VL](https://open.spotify.com/artist/5fO16dsHVrojWL2mPzcdpq) | [NALAKA](https://open.spotify.com/album/7sE9isq4Y1SbEVHdaR6Gmb) | 1:46 | 2026-04-16 | 2026-07-07 |
 | [Naçar](https://open.spotify.com/track/6Abw6zEw0EbfFC6OJob4Ph) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa) | [Naçar](https://open.spotify.com/album/7mtF9hykx8GZYLolBvHvMr) | 3:20 | 2024-09-25 | 2025-04-10 |
 | [nE !?](https://open.spotify.com/track/1Ma4fLShd0hpZSNH37mEkR) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [\#1](https://open.spotify.com/album/2P4oefrZZ6uOFsrykOusie) | 1:54 | 2024-07-02 | 2024-09-06 |
 | [NEON](https://open.spotify.com/track/4DPjZs1Jjw5mQ41w0xt9KA) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 2:31 | 2025-01-22 | 2025-02-19 |
@@ -247,6 +247,7 @@
 | [Sıfırdan Zirveye](https://open.spotify.com/track/4DYpSlYDrQyAvfQhORjyGM) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Sıfırdan Zirveye](https://open.spotify.com/album/5pNZZwx87US89C5MTkUFI2) | 2:38 | 2025-08-21 | 2025-10-22 |
 | [Ta Ki Seni Görene Kadar](https://open.spotify.com/track/4lHLbAjoAO23CT7nEW4aC1) | [Tuana Tetik](https://open.spotify.com/artist/4hVkWQ0iAHxtfV6TSARSxR) | [Ta Ki Seni Görene Kadar](https://open.spotify.com/album/38El8J7saUzjT3tRSHtAmF) | 2:54 | 2026-07-02 |  |
 | [TAK TAK TAK](https://open.spotify.com/track/28TeosAOQZvsftj5ZxucaX) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TAK TAK TAK](https://open.spotify.com/album/5QWdCZD91757ow6zCrYTnr) | 1:30 | 2025-08-06 | 2026-02-28 |
+| [Toz Pembe](https://open.spotify.com/track/24CSPGkF9QB1zW07dgtZhr) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Toz Pembe](https://open.spotify.com/album/5n0QmoUBEvSyIjDTwe4670) | 2:40 | 2026-07-06 |  |
 | [Tırnağın Kırılmasın](https://open.spotify.com/track/36SKXwHlE1zYin3xwPRDnU) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Tırnağın Kırılmasın](https://open.spotify.com/album/3X5k2n8X0KaJF2GBFfvVBl) | 3:35 | 2024-11-06 | 2025-07-01 |
 | [Uykusuz Geceler](https://open.spotify.com/track/0ANRAWJSJrojS0w8bzhKP9) | [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Uykusuz Geceler](https://open.spotify.com/album/0Q1QG5BzoGjAPGZGxdUh5F) | 2:25 | 2025-08-25 | 2026-03-24 |
 | [UYUYAMADIN DİMİ?](https://open.spotify.com/track/6ldLZlXIkKaaM9Y4bErh07) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [PARDON MUTLULUKLAR](https://open.spotify.com/album/2YGROYa6Vg9KXEcr9DwYBP) | 2:38 | 2026-04-16 |  |

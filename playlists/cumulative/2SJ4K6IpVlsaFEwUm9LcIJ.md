@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-1,031 songs - 2 day 14 hr 47 min
+1,033 songs - 2 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Bouge\-toi](https://open.spotify.com/track/52E5gMJk3PTV9ycMjJWmei) | [Donna Regina](https://open.spotify.com/artist/28d8oiCt6QMG9d5i95Pn5h) | [A Quiet Week In The House](https://open.spotify.com/album/2BzeMAgbzjG6dzFEhrj2np) | 4:09 | 2025-04-02 | 2025-05-09 |
 | [boy meets girl](https://open.spotify.com/track/109x8MvebgkNncoE1bk3mU) | [Pelados](https://open.spotify.com/artist/3sKRMB7oFfuDicBljhWbQU) | [Contato](https://open.spotify.com/album/2XUCKM3IH9nvHr1VRBgLbe) | 3:29 | 2025-09-10 | 2025-11-15 |
 | [Boy With the Bright Eyes](https://open.spotify.com/track/2r0XYwo9sFmmUFy3K4ZbnE) | [The Shermans](https://open.spotify.com/artist/1ijBXnXG7DX8hUI35tuuT8) | [Happiness Is Toy Shaped](https://open.spotify.com/album/6GwF4YxPAKGaxKpKELs36H) | 2:44 | 2024-05-20 | 2024-07-12 |
+| [Branches Bare](https://open.spotify.com/track/6MYA4C2VCiU1gqz1Dp725z) | [Hood](https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ) | [Cold House](https://open.spotify.com/album/4f9GmceFKdzbAZHbb7XnQV) | 5:55 | 2026-07-07 |  |
 | [Brand\-New Mothers – Trying it Out IX\. Brand\-New Mothers](https://open.spotify.com/track/5I8I7ejPYxM7rmQebkqKyD) | [Matthew Friedberger](https://open.spotify.com/artist/3n4TujnxCQTJnypsm5btks) | [Matricidal Sons of Bitches](https://open.spotify.com/album/1bHdETDgG2l7SycZVBhlkp) | 3:59 | 2026-02-04 | 2026-03-13 |
 | [Breaking](https://open.spotify.com/track/0M8xf6txl5E1krF7yO1XIO) | [ANOHNI](https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo), [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [Breaking](https://open.spotify.com/album/5ROCUR5iG4np8RCpujQDpm) | 3:24 | 2024-06-17 | 2024-07-12 |
 | [Bright Lit Blue Skies](https://open.spotify.com/track/33R2KZxpZ8nnOihRTHea8s) | [The Rising Storm](https://open.spotify.com/artist/54skrHw57l27U6kIoGlCmG) | [Calm Before...](https://open.spotify.com/album/6A4VmOZWt0GZfdbfhfWXhJ) | 2:31 | 2024-05-22 | 2024-07-12 |
@@ -580,6 +581,7 @@
 | [Monsoon: Top to Bottom](https://open.spotify.com/track/6MVRZzhHrMUEvPiCH3Srbl) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Knee\-Deep In the North Sea](https://open.spotify.com/album/2A8c5znvmslp2I77dTBV1K) | 4:12 | 2025-06-28 | 2025-07-04 |
 | [Moon Hymn](https://open.spotify.com/track/63Nr0q3IH032UPK2NMuGOh) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 4:17 | 2025-07-09 | 2025-09-11 |
 | [Moon Like a Pearl](https://open.spotify.com/track/2KkuQ32WtE9ImerVSnUWk5) | [Pia Fraus](https://open.spotify.com/artist/15cjYStG6SRmTS9d5wNVxT) | [Wonder What It's Like](https://open.spotify.com/album/4iIEtjfL8Xdyt0MglEJFTD) | 2:06 | 2024-03-09 | 2024-05-16 |
+| [More and More and More \- Instrumental](https://open.spotify.com/track/4xiLAlTgImg4Nh3yG4hVnK) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [The Story Of Sanullim Complete Studio Recordings](https://open.spotify.com/album/5WD3ouTqnRZunhDuAOalWC) | 5:08 | 2026-07-06 |  |
 | [Morning](https://open.spotify.com/track/6PiyGCHWohgYXBONLLEIoC) | [Chris & Cosey](https://open.spotify.com/artist/2lHpa4rwVeFbEnA0X7d0Tt) | [Techno Primitiv](https://open.spotify.com/album/5d9uxtsGVloKHNGaQBB5sA) | 4:32 | 2025-07-03 | 2025-09-11 |
 | [Morning Morgantown](https://open.spotify.com/track/6jhvDPA1wPvyZgt4Sd0jV2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:13 | 2025-01-20 | 2025-03-02 |
 | [Moscow](https://open.spotify.com/track/4jsk0M8Z8A7y7YmRFdz4Sv) | [Orange Juice](https://open.spotify.com/artist/2u7xZP39dtED9EuRX9MUwu) | [The Glasgow School](https://open.spotify.com/album/5WpiyA70GH7an5bBQyIv5o) | 2:01 | 2026-04-09 | 2026-05-06 |

@@ -161,6 +161,28 @@
     },
     {
       "album": {
+        "name": "Alt For Norge",
+        "url": "https://open.spotify.com/album/73ZZN6P6S9fPNUYVhaxeQQ"
+      },
+      "artists": [
+        {
+          "name": "Drillos",
+          "url": "https://open.spotify.com/artist/0gSgXDEsDJj4ZsMclAGjeh"
+        },
+        {
+          "name": "J\u00f8rn Lande",
+          "url": "https://open.spotify.com/artist/3aOVLHmQbwbOq4nl4XcGSC"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261333,
+      "name": "Alt For Norge",
+      "url": "https://open.spotify.com/track/3E5IeN5MqUs16rjvMRlaT1"
+    },
+    {
+      "album": {
         "name": "Alt Jeg Har",
         "url": "https://open.spotify.com/album/7aU0dqPYJgBZ16DUYG2Wqa"
       },

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,264 songs - 3 day 1 hr 31 min
+1,270 songs - 3 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Crawl](https://open.spotify.com/track/0COUEawGGxO0lHL3Yf4FV9) | [Alice Isabella](https://open.spotify.com/artist/7mJxghz6FKmBNKQoi73xXA) | [Crawl](https://open.spotify.com/album/5AdzIhovQDWt5L1JT7o40e) | 3:28 | 2025-12-16 | 2026-01-15 |
 | [Crazy Dance of Death](https://open.spotify.com/track/26AvmPorUJ4jLn9vZ0DowU) | [Ask The Dust](https://open.spotify.com/artist/7F3WOicrHPUVKyOhZUCrND) | [Crazy Dance of Death](https://open.spotify.com/album/1GYG0FvWCwAt5l32W37wrS) | 3:11 | 2026-01-20 | 2026-02-20 |
 | [creo](https://open.spotify.com/track/2biitC5sPVcjqXXTwX6QS4) | [Bea Troncea](https://open.spotify.com/artist/2NNFdP47Os0DAjY2VEzYqW) | [creo](https://open.spotify.com/album/7FtAw3fhC5Ocrb1Gv1TW8z) | 3:45 | 2026-04-06 | 2026-05-03 |
+| [Crescere](https://open.spotify.com/track/6w4K4RDb5jD3NwZfNmGCPz) | [Massimiliano Martelli](https://open.spotify.com/artist/2sjCNBILPVjt7p2l5BqIDJ) | [Crescere](https://open.spotify.com/album/7LWyHwzao8X4H8iJKz5RfS) | 3:07 | 2026-07-06 |  |
 | [Cristal](https://open.spotify.com/track/1ynOQL9168ge8jkyxRSbPl) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [La ansiedad](https://open.spotify.com/album/1ah03W8PU28iPd4KzTwltu) | 3:20 | 2025-11-25 | 2026-01-05 |
 | [Cronos](https://open.spotify.com/track/1dXKlhFoqOmcAHxoMxM3Lf) | [Dafne Usorach](https://open.spotify.com/artist/2mUE0CMwA9P56QO5lIaRUE), [Juan Mariño](https://open.spotify.com/artist/71VT7j6oDHDALy7IWObUVF) | [Cronos](https://open.spotify.com/album/5RyVTzvFgH68KcNLhmUMLm) | 3:37 | 2025-12-23 | 2026-01-24 |
 | [Crying \(HARDER\) At The Discothèque.](https://open.spotify.com/track/5p07LhnFP7OhYYEX73eMjD) | [Travie Austin](https://open.spotify.com/artist/059jVWIqXVJvAskIuJyScN) | [Crying \(HARDER\) At The Discothèque.](https://open.spotify.com/album/1z1ug5OlTgCk25NEub0htE) | 3:52 | 2026-01-20 | 2026-02-20 |
@@ -339,6 +340,7 @@
 | [Fed Up](https://open.spotify.com/track/1tXVVfbVfrBVaeYKb1HU8j) | [Federico Bello](https://open.spotify.com/artist/62XFAtWgvdAqZ1L1wGeWgO) | [Fed Up](https://open.spotify.com/album/2z9B1XZuQqL5mCe18nwro8) | 3:07 | 2026-03-24 | 2026-04-22 |
 | [Feel the night](https://open.spotify.com/track/7p5t5QpJDkczSCaZMXxLdX) | [Kryhos](https://open.spotify.com/artist/4aqG8I79UujSmRHe7yphiW) | [Feel the night](https://open.spotify.com/album/5s1ETma0NHObW9iNgddC5a) | 2:25 | 2026-02-01 | 2026-02-28 |
 | [Feelings \- Acoustic](https://open.spotify.com/track/10h1rVHnLalm93CqAvkZue) | [Xellay](https://open.spotify.com/artist/2BchMZ58NcNDLLerRnF0NR) | [Feelings \- Acoustic](https://open.spotify.com/album/3AlPU5aQcaz4aqleFmDSeS) | 3:44 | 2026-02-03 | 2026-03-07 |
+| [Feels Good Today](https://open.spotify.com/track/7nQgsEwxisDx5I2jvNy4wN) | [NorLights](https://open.spotify.com/artist/4J2UmzAldNPzDFI2DYTzoh) | [Feels Good Today](https://open.spotify.com/album/4qlwWExRwUvhYM92Y7jzhV) | 1:34 | 2026-07-06 |  |
 | [Felina](https://open.spotify.com/track/13U4C7H2SImFBJXsHlpu3l) | [Matias Park](https://open.spotify.com/artist/3ulkuAZTEEB9XT750GVShS) | [Felina](https://open.spotify.com/album/3VXDCADyu2hCbcR1XTgZ6G) | 3:05 | 2025-11-24 | 2026-01-05 |
 | [FELLNASEN](https://open.spotify.com/track/3du4buw4F5gQxZMu7OmTBA) | [Crazy Trottles](https://open.spotify.com/artist/6N3TSJcbEEqiHeiv6qqFxz) | [FELLNASEN](https://open.spotify.com/album/0zqBXyuHmgU2tjYM8FNChR) | 2:46 | 2026-06-17 |  |
 | [Felony](https://open.spotify.com/track/0yjGhB4nn0S3YePwRcHbhZ) | [CTRL FREQS](https://open.spotify.com/artist/3BV3kbIBpKGLztbqNxuWSv) | [CTRL FREQS \(The Album\)](https://open.spotify.com/album/0lIOspuasFJ6BALQKPbyqv) | 3:34 | 2025-11-11 | 2025-12-21 |
@@ -395,6 +397,7 @@
 | [Gods of Sicily](https://open.spotify.com/track/6X0Tm9vCzFUHRynEDr4Q9G) | [Erodoto Project](https://open.spotify.com/artist/0xRMcCIFa30RXvMGpTaDir) | [Greetings from South Italy](https://open.spotify.com/album/6Yup2nahWkqQlE3Iji4tNm) | 4:02 | 2023-04-20 | 2025-11-29 |
 | [Goldfinger](https://open.spotify.com/track/7CxpqrpikeDO932mUdMT3D) | [Mary Ann Palermo](https://open.spotify.com/artist/1P5DDkoBymMyNn52dmMeoL) | [Jazz on the Rocks](https://open.spotify.com/album/5eiluKFW35SbkOipksoF8B) | 4:09 | 2023-04-20 | 2025-11-29 |
 | [GOOD FOR YOU](https://open.spotify.com/track/2uHuyQH3meGuANECYfsxOj) | [Joseph Culpepper](https://open.spotify.com/artist/59vVBRGa1W9LWAqs9UswfE) | [GOOD FOR YOU](https://open.spotify.com/album/6Nq8Ln6gGbzBLCbdaR7cNl) | 2:44 | 2025-12-15 | 2026-01-15 |
+| [Goodbye](https://open.spotify.com/track/6J5kFlOc4YoptSHGF170E0) | [Brad Bass](https://open.spotify.com/artist/2En7iaoeTIPOZg3RX5HXZj) | [Goodbye](https://open.spotify.com/album/0qHDrfVUuTfwwzJbw25sVX) | 2:07 | 2026-07-06 |  |
 | [Goodbye](https://open.spotify.com/track/4n2rZVLwNcSP6BR8ypAWyt) | [Mila Mary](https://open.spotify.com/artist/25XyQXGR5U61Ch1hJD3wFs) | [Goodbye](https://open.spotify.com/album/4G2gY6iN0MCPUZmkEGtYOU) | 3:24 | 2026-07-05 |  |
 | [goodbye, magenta.](https://open.spotify.com/track/7BNNKc24hazUDCbp1KsfJq) | [CerVon Campbell](https://open.spotify.com/artist/11BE68QWC1UePwPs7clKa5) | [LOVED](https://open.spotify.com/album/5fYZQtJI5bqjVebYOLLosn) | 3:23 | 2025-12-30 | 2026-02-03 |
 | [Grace is Gone](https://open.spotify.com/track/5QyGhIs60QO3KOVMv7X54y) | [Austin\-Tucker](https://open.spotify.com/artist/2872bA5szcRoCBEQSlpWhq) | [Grace is Gone](https://open.spotify.com/album/6NJPxxjLZ1gD0zNOQbKcbN) | 4:13 | 2026-04-22 | 2026-06-05 |
@@ -782,6 +785,7 @@
 | [On My List](https://open.spotify.com/track/3Q3NnHKP9TWYCYc29lJ9Xs) | [Nuna Shoesmith Sextet](https://open.spotify.com/artist/27DutwUI3nP1AZa96t8SuD) | [Courage](https://open.spotify.com/album/22yRsZW1KCaJdUe74GSdKq) | 3:48 | 2023-04-20 | 2025-11-29 |
 | [On My Way](https://open.spotify.com/track/1NSXdzBae5YVJz1ZBD6y2L) | [OVRTME](https://open.spotify.com/artist/0yqsiKLq7oRCKSDBPk6Rm4) | [On My Way](https://open.spotify.com/album/4Fl8nGmtLOZjiObvfLoL9q) | 3:05 | 2026-01-31 | 2026-02-28 |
 | [On My Way](https://open.spotify.com/track/5SajpJwLg8EFpHJ9dWUSDG) | [Snow64](https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ) | [On My Way](https://open.spotify.com/album/5tWElJ2aG2MSjd7XFwR8A9) | 3:18 | 2026-06-11 |  |
+| [Once More Again \(Promo\)](https://open.spotify.com/track/6te6JY4BzKxhDPxjdru98T) | [Karyttah](https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu) | [Once More Again](https://open.spotify.com/album/2iK2jSzblXqV1SSozzXQU8) | 3:47 | 2026-07-06 |  |
 | [One Big Love](https://open.spotify.com/track/1TacV2Z6hOXpC0Wxm4GeVx) | [Maria Maltseva](https://open.spotify.com/artist/19a7inyeBBxVwWxFY1n5Lf) | [One Big Love](https://open.spotify.com/album/5wEsY96xkxGfqsmoUM6Un6) | 3:45 | 2025-12-22 | 2026-01-24 |
 | [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 | 2026-03-26 | 2026-04-22 |
 | [One Moment In Time](https://open.spotify.com/track/1kpFGklu2GSzgDAp4jau48) | [Arbor Rose](https://open.spotify.com/artist/5xArhGFY5mmdgNX4fdDCpY) | [One Moment In Time](https://open.spotify.com/album/4Pb35D9TncvTjxNgxcUR6q) | 4:02 | 2026-07-04 |  |
@@ -897,6 +901,7 @@
 | [Salga el sol](https://open.spotify.com/track/7kUMy7807NMwPbkU3oecpG) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:25 | 2026-05-26 | 2026-07-03 |
 | [Save Your Day](https://open.spotify.com/track/2buLhNAOppaFzOUkH0DME9) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Save Your Day](https://open.spotify.com/album/6AW6v9JXXFuBA16V11Zn7m) | 2:58 | 2025-10-10 | 2025-11-29 |
 | [Saving a Song](https://open.spotify.com/track/1sCFMRorslEb20pXtIOYYz) | [Cormac O Caoimh](https://open.spotify.com/artist/5tTI635bEYNCY5PDx79cvt) | [Saving a Song](https://open.spotify.com/album/1gGtfyU4EPhlsle2aEhFrO) | 3:18 | 2026-03-02 | 2026-05-14 |
+| [Saw Satan](https://open.spotify.com/track/6msiwsi2zbFjUCufVX6TWS) | [213NINJA](https://open.spotify.com/artist/1cyR5va0xoqUL8D8dqxMzH) | [Saw Satan](https://open.spotify.com/album/3eXzadT7PlgQUOCa71w3PH) | 1:43 | 2026-07-06 |  |
 | [Say \- Acoustic](https://open.spotify.com/track/5OBguzeAkuviZT85bnec7g) | [Oliver Ycaro](https://open.spotify.com/artist/5W6ObMrqK1vr0O5sgooyIs) | [Say \(Acoustic\)](https://open.spotify.com/album/4NORYcZTCI5sWcHne2RPFX) | 3:16 | 2026-03-03 | 2026-03-25 |
 | [Say Something](https://open.spotify.com/track/2sBEE8SZudR0dBr3JNbOjd) | [Savannah Strand](https://open.spotify.com/artist/68FlWXB4GVJsD920sPw1Lv) | [Say Something](https://open.spotify.com/album/3m1tA8n5qe5weca6RPf1lM) | 2:50 | 2026-05-10 | 2026-06-05 |
 | [Say the Word](https://open.spotify.com/track/57lnic7GHCgDox7Nh4abvy) | [Violyt](https://open.spotify.com/artist/58dODJDrNq8DHvx5CJDJgd), [Justin Mola](https://open.spotify.com/artist/1LX4SXG0RusTp81RPzhPoh) | [Say the Word](https://open.spotify.com/album/74GBd4STU1MkXuJ0Ksm0Xk) | 4:26 | 2026-05-29 | 2026-07-03 |
@@ -1179,6 +1184,7 @@
 | [Vivo e rinasco](https://open.spotify.com/track/10dVUOSkQQlpGNOXM8TIkU) | [Sabrina Cor](https://open.spotify.com/artist/30LQQ8lsO1RO4N3GzzDudl) | [Vivo e rinasco](https://open.spotify.com/album/2Jhdimc5VsOJduGqYfeVmB) | 2:57 | 2026-03-20 | 2026-04-22 |
 | [Vochinch \(Ոչինչ\)](https://open.spotify.com/track/2ydFQDTK56qpH24cWrQmaK) | [SHANT](https://open.spotify.com/artist/1UBy0HrtNVoS1FcAnngrx0) | [Vochinch \(Ոչինչ\)](https://open.spotify.com/album/0M3VuTB8B9d7KCVxVK8RVE) | 4:07 | 2026-06-16 |  |
 | [Voices](https://open.spotify.com/track/5zV93GRdQUXmqWWXW5HCz2) | [Pseudo the Beatguy](https://open.spotify.com/artist/2Dzm6zujQAWKyV9X1T8N1f), [Julia A](https://open.spotify.com/artist/4UuZOWk0ZQuRTtCyj1PgIe) | [Vin\-tagé](https://open.spotify.com/album/6sdhZZcUOqSVsZZKoLnHEC) | 4:38 | 2026-03-22 | 2026-05-03 |
+| [Voler de nos propres ailes](https://open.spotify.com/track/1G6Iz4X61rsBlYfdUjWYCx) | [Eric Hartereau](https://open.spotify.com/artist/05AKy1V7dOPuFuzLZHRtu7) | [Voler](https://open.spotify.com/album/4AZUeXfb2Z4PpMQMjDy9e1) | 5:44 | 2026-07-06 |  |
 | [Volevo Essere Un Duro](https://open.spotify.com/track/0ys9Y9jiKL99HJtJjhZqjM) | [Michele Blasco](https://open.spotify.com/artist/0LsldhiLiieaUY63tH9QfW) | [Volevo Essere Un Duro](https://open.spotify.com/album/4kJhiE1uP9r78mRJtiJ3cD) | 3:07 | 2025-12-29 | 2026-01-24 |
 | [Vollgasliebe \- Radio Edit](https://open.spotify.com/track/5xy4fW5f6OYzX5ju4JCHMm) | [SOUTHDOGROCK](https://open.spotify.com/artist/75YwHvnDPylgINOig25YhA) | [Vollgasliebe \(Radio Edit\)](https://open.spotify.com/album/6n8pcD8D1WPVYtHtT3Ibip) | 3:51 | 2026-05-26 | 2026-07-03 |
 | [Volver a Brillar](https://open.spotify.com/track/4WBaBFfLF2XIGSojdu01pI) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Volver a Brillar](https://open.spotify.com/album/4WtZNvgYn6wodmMvtKjkSN) | 4:51 | 2025-12-22 | 2026-01-24 |

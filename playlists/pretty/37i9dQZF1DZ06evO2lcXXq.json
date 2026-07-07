@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 369006,
+  "num_followers": 369008,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAAA7illC/pXjfccGFXnUhUdf",
+  "snapshot_id": "akmegAAAAABwlDxXC+j5KX75nMa8K7pC",
   "tracks": [
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 209466,
-      "name": "O' Lord - Radio Version",
-      "url": "https://open.spotify.com/track/5HJE36rtLTdGhDdBmZGtsD"
+      "duration_ms": 238026,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/0nvKz5NrZDCzfW8pRi864S"
     },
     {
       "added_at": null,
@@ -359,18 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+        "name": "I Won't Let You Go",
+        "url": "https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R"
       },
       "artists": [
+        {
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 211160,
-      "name": "To Know Me",
-      "url": "https://open.spotify.com/track/7LvCq4tN8BweqUpfd8Zeeo"
+      "duration_ms": 247422,
+      "name": "I Won't Let You Go",
+      "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
     },
     {
       "added_at": null,
@@ -400,29 +404,25 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 238026,
-      "name": "I Am Yours",
-      "url": "https://open.spotify.com/track/0nvKz5NrZDCzfW8pRi864S"
+      "duration_ms": 209466,
+      "name": "O' Lord - Radio Version",
+      "url": "https://open.spotify.com/track/5HJE36rtLTdGhDdBmZGtsD"
     },
     {
       "added_at": null,
       "album": {
-        "name": "I Won't Let You Go",
-        "url": "https://open.spotify.com/album/12rFlBci2pRsl4Ak3c9w6R"
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
       },
       "artists": [
-        {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 247422,
-      "name": "I Won't Let You Go",
-      "url": "https://open.spotify.com/track/79pfMqEMRo8jzPGX7fyw0K"
+      "duration_ms": 211160,
+      "name": "To Know Me",
+      "url": "https://open.spotify.com/track/7LvCq4tN8BweqUpfd8Zeeo"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
       "duration_ms": 251569,
       "name": "Then I Will - From The Motion Picture Bonhoeffer",
       "url": "https://open.spotify.com/track/0gAkOZ6XtfA4e3Nr2nLUhu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 230931,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP"
     },
     {
       "added_at": null,
@@ -491,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 230931,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/0Uz64Pdgg8lFUfQnCZdGoP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Song Of The Saints (Deluxe)",
         "url": "https://open.spotify.com/album/5shcL77IqPmZPBRbfl0cHT"
       },
@@ -507,26 +507,6 @@
       "duration_ms": 239533,
       "name": "Running To A Runaway (with Lauren Daigle)",
       "url": "https://open.spotify.com/track/3aFdkhwnY7nCdGYhA1tCHW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Believe For It (feat. Lauren Daigle)",
-        "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 338194,
-      "name": "Believe For It (feat. Lauren Daigle)",
-      "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
     },
     {
       "added_at": null,
@@ -551,6 +531,26 @@
       "duration_ms": 254184,
       "name": "You Lead Me",
       "url": "https://open.spotify.com/track/2aDNgEU3yj4vUnh5ZWq4tD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It (feat. Lauren Daigle)",
+        "url": "https://open.spotify.com/album/1yOCXBISNVYU6on4XpltJ8"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 338194,
+      "name": "Believe For It (feat. Lauren Daigle)",
+      "url": "https://open.spotify.com/track/0tlJgLE8ddOq2L2k6YBc2y"
     },
     {
       "added_at": null,

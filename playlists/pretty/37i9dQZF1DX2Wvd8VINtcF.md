@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > pearl of the week ✨Haley Bridge✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,225 likes - 323 songs - 17 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,228 likes - 323 songs - 17 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

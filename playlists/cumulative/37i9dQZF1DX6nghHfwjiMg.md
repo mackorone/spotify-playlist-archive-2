@@ -4,7 +4,7 @@
 
 > Descubrí nuevos artistas, nueva música todas las semanas 📸 Little Boggie
 
-308 songs - 15 hr 50 min
+310 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [1990](https://open.spotify.com/track/7CTCnEu2LljIX5pUyY1MLq) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [1990](https://open.spotify.com/album/2gqPdcjJINsjtfs74t5OYg) | 3:27 | 2021-11-11 | 2022-07-29 |
 | [1999](https://open.spotify.com/track/0HBuytvVquWcI2j7Rhz8SS) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [1999](https://open.spotify.com/album/5kvOK1CHAKbfPOkYhAowFu) | 2:56 | 2023-06-01 | 2024-05-08 |
 | [24/7](https://open.spotify.com/track/1UfciR4WSuxeCO6VX7xLOb) | [La Valenti](https://open.spotify.com/artist/2zYHS7xFegFvlEYsOf6cYZ) | [24/7](https://open.spotify.com/album/2odOJ4AEHVcC9hlIHhLvHw) | 2:13 | 2023-06-01 | 2024-05-08 |
-| [6 AM](https://open.spotify.com/track/6gUqb8uDHBtO8s34zFv6SZ) | [Caliope Family](https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6) | [6 AM](https://open.spotify.com/album/4Q0C8aEe246KLTnlgBMRQ1) | 2:45 | 2026-04-14 |  |
+| [6 AM](https://open.spotify.com/track/6gUqb8uDHBtO8s34zFv6SZ) | [Caliope Family](https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6) | [6 AM](https://open.spotify.com/album/4Q0C8aEe246KLTnlgBMRQ1) | 2:45 | 2026-04-14 | 2026-07-07 |
 | [680/680](https://open.spotify.com/track/7x1v9v0mVzNJ4f2q0tXcN6) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [No Hagas Que Me Arrepienta](https://open.spotify.com/album/6TxHROskkdXNhc8EK82j8d) | 4:15 | 2025-05-09 | 2026-04-15 |
 | [Acaramelao](https://open.spotify.com/track/206v5uRcl8rXwZkUlPpcVv) | [El Joaco](https://open.spotify.com/artist/126j2pVbpt1Ai1frvJzUeA) | [Acaramelao](https://open.spotify.com/album/0tP39633anGbKLyxlmXhho) | 3:07 | 2024-05-07 | 2025-05-10 |
 | [ACUERDO](https://open.spotify.com/track/2rn1YQ19QkhAWB9oYEb4ue) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [ACUERDO](https://open.spotify.com/album/7MlhebsVfSmCgB8UnOJBVM) | 3:23 | 2025-05-09 | 2026-04-15 |
@@ -260,11 +260,12 @@
 | [Quién Pudiera?](https://open.spotify.com/track/3TWAnB0Pok8EnOLimD18ue) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/5uIL8ryzMnjBbgRx7wVCwW) | 3:33 | 2023-10-05 | 2024-04-19 |
 | [QUÉ IMPORTA](https://open.spotify.com/track/5nzoLQgpSa9bwXFva3FhHE) | [Juana Rozas](https://open.spotify.com/artist/73flNW7YBYMrnp83TEl5Hq), [MARTTEIN](https://open.spotify.com/artist/5EbzQCOHXCVsr4y0qNsB48) | [QUÉ IMPORTA](https://open.spotify.com/album/4WnL44xFHw4GOnm7mDlZP7) | 2:51 | 2025-05-09 | 2026-06-12 |
 | [RA](https://open.spotify.com/track/6s5Q819P0zK4VJi6nvkDJv) | [Dum Chica](https://open.spotify.com/artist/31fWtiCtU07AlqZ5drzplX) | [SÚPER PREMIUM ULTRA](https://open.spotify.com/album/3iotVnhWSsVoihTEsXFobV) | 3:24 | 2025-05-09 | 2026-05-30 |
-| [RABIA DEL CORAZÓN](https://open.spotify.com/track/3g2XcCoWk2oYM3moTFFQoc) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [BAR SCORPIOS](https://open.spotify.com/album/6Rtfa37o0kuhuso3RwimZQ) | 3:54 | 2025-05-09 |  |
+| [RABIA DEL CORAZÓN](https://open.spotify.com/track/3g2XcCoWk2oYM3moTFFQoc) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [BAR SCORPIOS](https://open.spotify.com/album/6Rtfa37o0kuhuso3RwimZQ) | 3:54 | 2025-05-09 | 2026-07-07 |
 | [Random No](https://open.spotify.com/track/37ldNgdC4zuG8Ibd5y00rA) | [Tani](https://open.spotify.com/artist/2L37ilKeNfoAADHEwH2Gf0) | [Random No](https://open.spotify.com/album/320ZKz7o0fTv8uMyBaIs7k) | 3:25 | 2021-11-11 | 2023-06-02 |
 | [Resistencia](https://open.spotify.com/track/3CDkhVrRUR1REPKi7Kft6B) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Under](https://open.spotify.com/album/6MprhJ3a5zRXj0UOF4ax5n) | 3:38 | 2021-11-11 | 2023-06-02 |
 | [Resurgir](https://open.spotify.com/track/7EiggHJ0lC1qUj6qNeM2hN) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Resurgir](https://open.spotify.com/album/7z1FnYbJHBqY1SiVUzC9bx) | 2:32 | 2023-08-23 | 2024-05-08 |
 | [RNA](https://open.spotify.com/track/0tXTtaJi3FBvm3AvP64jRB) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [GUSTAR Y OFENDER](https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd) | 2:24 | 2026-04-14 | 2026-06-19 |
+| [Rompan Todo](https://open.spotify.com/track/5PZUbiba1yYXW8Y0Utb6YY) | [Viuda Federal](https://open.spotify.com/artist/0P66TdA6UAEVqjz6P9xNZl) | [Gloria Morir](https://open.spotify.com/album/3x53N8oPi0pXoq0CCJK8wA) | 3:36 | 2026-07-06 |  |
 | [Romántico](https://open.spotify.com/track/1nidWDuhsN4ataoPWeu6Gb) | [Cineplexx](https://open.spotify.com/artist/3lYwzzMJbMCXmBqjo0OdSz) | [Azul Es El Rumor](https://open.spotify.com/album/6HMtorYbiA3p0PEE6B7tD8) | 3:03 | 2026-04-20 |  |
 | [Rothmans](https://open.spotify.com/track/1mhq1CwMSZD6hITfzm6AzE) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2G9gRcA1G8qasisu7gQ4yD) | 3:11 | 2023-06-01 | 2023-08-12 |
 | [Rothmans](https://open.spotify.com/track/6mFIcVbLkZc6ZfVvkE4YEZ) | [BLAIR](https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ) | [Llorando en la Fiesta](https://open.spotify.com/album/2Iwv6vy0O8yMqqZZeC2Kj7) | 3:11 | 2023-06-01 | 2023-10-06 |
@@ -275,6 +276,7 @@
 | [SANTO](https://open.spotify.com/track/4aNc07b8Fklka1TwNtQjEL) | [DANDARA](https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0) | [SANTO](https://open.spotify.com/album/7DSxMZEpdZ1fkOO2ghdjwt) | 2:54 | 2026-04-14 |  |
 | [Se Corre la Bola](https://open.spotify.com/track/7MIdTXBR5xOjxl8SOV4XAf) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [La Batalla](https://open.spotify.com/album/1SZ7Q7CMN9KSiOtz2L1PQh) | 3:43 | 2021-11-11 | 2023-06-02 |
 | [Shake It Up](https://open.spotify.com/track/4IqBzJpsbE7fb8ocdX4ZZP) | [Kiddtetoon](https://open.spotify.com/artist/2zfwez4uxbP8NcFy3kaNLF), [Nico Baby](https://open.spotify.com/artist/523Q3hgqV3zr00ephVSfKX) | [Shake It Up](https://open.spotify.com/album/4DrsFB79n1wTqZ6e0wPT1C) | 2:46 | 2021-11-11 | 2023-06-02 |
+| [SHANTI \(acústico\) \- Live](https://open.spotify.com/track/6kUMb18LDiUs3r3qXT4Gd8) | [JOTTA](https://open.spotify.com/artist/3bssLS5nuLXRJMvAPBzLN0) | [Acústicos \(Live\)](https://open.spotify.com/album/4DYcYZyzJXgaKsa63o3LOI) | 2:39 | 2026-07-06 |  |
 | [Si las paredes hablaran](https://open.spotify.com/track/6qE6dya3vfVGFx4bDrtjsW) | [Katriel Arguello](https://open.spotify.com/artist/2tbOQq04W7s6H3HkXbuwSq) | [Si las paredes hablaran](https://open.spotify.com/album/2Yi23Ftn1d5j693eaqA3rn) | 3:13 | 2024-05-07 | 2025-05-10 |
 | [Si me viste llorando](https://open.spotify.com/track/1S2SIFditHMcRjYlLMU9am) | [Valentina López](https://open.spotify.com/artist/2AOyr7DqTvHM66otEUQZCZ) | [Si me viste llorando](https://open.spotify.com/album/3elH26NX5ttsmUyPpMMCBw) | 2:15 | 2024-05-07 | 2025-05-10 |
 | [Sola, Solita](https://open.spotify.com/track/2mEnWya32G6CxxZpH59h1F) | [K\-mila](https://open.spotify.com/artist/1f30jRUIByoP31jrmLInD7) | [Sola, Solita](https://open.spotify.com/album/4tq0sVxdMNtMj3Y2O6bxO1) | 2:40 | 2024-05-07 | 2025-05-10 |

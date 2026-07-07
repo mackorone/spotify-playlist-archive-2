@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Light",
+  "description": "\u039f\u03b9 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03b1\u03cd\u03c1\u03b9\u03bf, \u03b5\u03c0\u03b9\u03bb\u03b5\u03b3\u03bc\u03ad\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b1\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: TOQUEL ",
   "name": "Hot Hits Greece",
   "tracks": [
     {
@@ -1417,6 +1417,24 @@
     },
     {
       "album": {
+        "name": "ASSOTOS MANH",
+        "url": "https://open.spotify.com/album/74fXm0U5bxy6XZZExiq8Wk"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151870,
+      "name": "ASSOTOS MANH",
+      "url": "https://open.spotify.com/track/63BjRZBr7D1vL0vZq4pcgZ"
+    },
+    {
+      "album": {
         "name": "ASTEIO",
         "url": "https://open.spotify.com/album/2gkUqFdZNhFb4DHxK2Mmyp"
       },
@@ -2498,7 +2516,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 203244,
       "name": "CHATGPT",
       "url": "https://open.spotify.com/track/5m9pK3a3oMIbZHThbyraDi"
@@ -2550,6 +2568,32 @@
       "duration_ms": 221134,
       "name": "CHOCO FRESH",
       "url": "https://open.spotify.com/track/7Ku2O5h0e3NH1qGcuZvGWT"
+    },
+    {
+      "album": {
+        "name": "CLICK",
+        "url": "https://open.spotify.com/album/1ZZgEfnK28RSHeMQUMK0bu"
+      },
+      "artists": [
+        {
+          "name": "Gucci.MPG",
+          "url": "https://open.spotify.com/artist/1lrv8qsR6x7TIIhiP6wzYd"
+        },
+        {
+          "name": "SKEZ",
+          "url": "https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH"
+        },
+        {
+          "name": "Derv",
+          "url": "https://open.spotify.com/artist/3tEJAzaw0N5nNS3m8eixl3"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154151,
+      "name": "CLICK",
+      "url": "https://open.spotify.com/track/5diLlqtaVPe2fBPllCFvMi"
     },
     {
       "album": {
@@ -3645,6 +3689,24 @@
     },
     {
       "album": {
+        "name": "Enoho Kormi",
+        "url": "https://open.spotify.com/album/4Voffe2ZPY8CTnLcKohu2P"
+      },
+      "artists": [
+        {
+          "name": "Nikos Oikonomopoulos",
+          "url": "https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219795,
+      "name": "Enoho Kormi",
+      "url": "https://open.spotify.com/track/3pp70iNV0LptCA6kiaSMgd"
+    },
+    {
+      "album": {
         "name": "Enoxoi Kai Athooi",
         "url": "https://open.spotify.com/album/1HZgQqw1ldTIeCfPGqQMyG"
       },
@@ -3946,7 +4008,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 173308,
       "name": "Exigiste Mou",
       "url": "https://open.spotify.com/track/3hqEXohUvBy76CKAxK2A9R"
@@ -4532,6 +4594,32 @@
       "duration_ms": 154800,
       "name": "GBP (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/4pftaoQbbheCXSdleWIeDK"
+    },
+    {
+      "album": {
+        "name": "10 (PART 2)",
+        "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "GEITONIA KAI TILEFONO",
+      "url": "https://open.spotify.com/track/3DqnrR1bD21LufNyXJLIsz"
     },
     {
       "album": {
@@ -9454,7 +9542,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 215937,
       "name": "Plati",
       "url": "https://open.spotify.com/track/4UJdWyF20InwrXuwJQtOio"
@@ -12645,6 +12733,32 @@
     },
     {
       "album": {
+        "name": "10 (PART 2)",
+        "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157166,
+      "name": "XIMEROMA",
+      "url": "https://open.spotify.com/track/3VafqbZuWdp6W7UribBHyb"
+    },
+    {
+      "album": {
         "name": "Xiropraktis",
         "url": "https://open.spotify.com/album/5UmLGkAE1R1F0G8k4tQGRb"
       },
@@ -12748,7 +12862,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 140952,
       "name": "Y2K",
       "url": "https://open.spotify.com/track/06CNoyANKu3IGqaYNKsBOi"

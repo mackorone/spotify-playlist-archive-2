@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Ana Mena, Lola Indigo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,912 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,851 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [NEXO 01\. Me acuerdo de ti](https://open.spotify.com/track/4qmNeOovGFdhsiBgPKxlTQ) | [Nil Moliner](https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD) | [NEXO 01\. Me acuerdo de ti](https://open.spotify.com/album/10jwEmHOwVHYPFecFcUoGd) | 3:15 |
 | 50 | [Amor de Contrabando](https://open.spotify.com/track/7IdeMGSB8FtX3q5TE5Pn60) | [Fresquito](https://open.spotify.com/artist/1fURW117sgaPpgIoz8YLXW), [Mango](https://open.spotify.com/artist/1hus2QLWtdEpTUSgopRRZq) | [Amor de Contrabando](https://open.spotify.com/album/56QNuYiQRgdRgawDLzXjxP) | 3:07 |
 
-Snapshot ID: `AAAAAMkGvYWIwpYmlIWjvxsjaoIdSsfZ`
+Snapshot ID: `AAAAACjkyRIMN9BbH27M+l/A2+OuDSui`

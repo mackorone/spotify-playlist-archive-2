@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > New tunes from Ireland for your discovery\. Cover: Basht.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,961 likes - 85 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,959 likes - 85 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 27 | [No More](https://open.spotify.com/track/7af2f5aBB7qe3bIgJUNjrb) | [Buckshot](https://open.spotify.com/artist/0HPG2EIdGCP6gjXW0KzrJq) | [No More](https://open.spotify.com/album/0UizShvXdzrnmPWPm2X8xW) | 2:13 |
 | 28 | [Life I Chose](https://open.spotify.com/track/2VL873YktGaHovvP1xCuc0) | [Offica](https://open.spotify.com/artist/3z9G13I73VCCZgf2j7i8q2) | [Life I Chose](https://open.spotify.com/album/530cEtWkb3pn6NTwMiD6Nu) | 3:33 |
 | 29 | [Won't Be Long](https://open.spotify.com/track/2fzdBg7EFqJ9Am0HOHbsLl) | [Emily Doyle](https://open.spotify.com/artist/4ylNHpovRFZlBKqgWRBQV6) | [Fight Or Flight](https://open.spotify.com/album/2wP0LSPgAZ0cw3Xsd7sNpK) | 4:27 |
-| 30 | [That Rivahhh](https://open.spotify.com/track/4Y4fz9BQS9r9o78KCwlT4g) | [Camiii](https://open.spotify.com/artist/1o14oxpdadzfmBiko3knCE) | [That Rivahhh](https://open.spotify.com/album/4WGFyUo5bQpxgqbSLX1v2l) | 2:46 |
+| 30 | [Stushhh](https://open.spotify.com/track/4Y4fz9BQS9r9o78KCwlT4g) | [Camiii](https://open.spotify.com/artist/1o14oxpdadzfmBiko3knCE) | [Stushhh](https://open.spotify.com/album/4WGFyUo5bQpxgqbSLX1v2l) | 2:46 |
 | 31 | [Fix Your Heart For Free](https://open.spotify.com/track/4vFwTZPdreC3ErXLKkOmKy) | [Morgana](https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d) | [Fix Your Heart For Free](https://open.spotify.com/album/5u33OdTeeeGaTNUWxKwvBz) | 4:22 |
 | 32 | [FENIAN](https://open.spotify.com/track/6vN9o849XOpOKbygIid6ck) | [KNEECAP](https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU), [Casiokids](https://open.spotify.com/artist/7MEBuOs4NysWceqYZ9J8gy) | [FENIAN](https://open.spotify.com/album/0IAAsMXyI0xm8FkmsOJRh3) | 3:14 |
 | 33 | [Alive O](https://open.spotify.com/track/2j6zL6sSaMMucvi2xJ249A) | [Ac3](https://open.spotify.com/artist/26azHBnpBcBHEgHDcSfUh0) | [Alive O](https://open.spotify.com/album/70Zwebhh2sRJSoku8QPNTi) | 2:22 |

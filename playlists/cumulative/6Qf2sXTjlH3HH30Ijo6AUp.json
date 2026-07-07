@@ -2461,6 +2461,28 @@
     },
     {
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3VMvOJQfRBle7761FQg25w"
+      },
+      "artists": [
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199541,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/17dNewo0r2wcw4B94KtOeB"
+    },
+    {
+      "album": {
         "name": "Golden Brown",
         "url": "https://open.spotify.com/album/45GrFGGCXjN4nwn3A6k8AT"
       },
@@ -5538,7 +5560,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 217440,
       "name": "Saturday Night",
       "url": "https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX"

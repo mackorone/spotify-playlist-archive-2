@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, updated weekly\. Cover: J Hus
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,825 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,838 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 20 | [Gameboi](https://open.spotify.com/track/0zF18WMaq0TvSGvUcU6F0n) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Gameboi](https://open.spotify.com/album/5on9WThrgVpfVdxI4zDG9S) | 2:33 |
 | 21 | [THAT GUY](https://open.spotify.com/track/6wNGHSpLlHc5N89We4OOKG) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [THAT GUY](https://open.spotify.com/album/7IhsOD81HB5CbNwPMt0lWn) | 2:47 |
 | 22 | [You Scared](https://open.spotify.com/track/68eiQ5iwCawZq88Z5K4RA2) | [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb), [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [No Biggie](https://open.spotify.com/album/14TqMCSbaLGaVCBkI1wJK1) | 2:03 |
-| 23 | [Front & Bacc](https://open.spotify.com/track/0ryLK6sqGWmTd3P1GD7hFf) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Rich Rapping II](https://open.spotify.com/album/2HzEIHx4raKJbL4pK9f7re) | 1:51 |
+| 23 | [Front & Bacc](https://open.spotify.com/track/0ryLK6sqGWmTd3P1GD7hFf) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Rich Rapping II](https://open.spotify.com/album/2HzEIHx4raKJbL4pK9f7re) | 1:41 |
 | 24 | [EMOTIONLEZZ \(ft\. Trippie Redd\)](https://open.spotify.com/track/3UiQ1haSm6kUuVJOUlVgGy) | [Thirteendegrees °](https://open.spotify.com/artist/2fZrEBAl5NNZCCl3KUOYsi), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [EMOTIONLEZZ \(ft\. Trippie Redd\)](https://open.spotify.com/album/230tlOmJbK0ZlxPSBPxVQG) | 2:15 |
 | 25 | [Pray](https://open.spotify.com/track/5i4I5Okh2ZHEsRNyTA5d96) | [Swisha T](https://open.spotify.com/artist/1KNGrimbkpYFO5jKiBSCLZ) | [Pray](https://open.spotify.com/album/3kicfD8T2Q5115mcFR1BxQ) | 1:45 |
 | 26 | [Where There's Smoke](https://open.spotify.com/track/3XmOtJlidyOhoyzFeifX3s) | [Kardinal Offishall](https://open.spotify.com/artist/5P2rwRBgIN450RaJxdjYdA) | [Where There's Smoke](https://open.spotify.com/album/15QTGtc7kfICZkfHgw0fYd) | 3:10 |

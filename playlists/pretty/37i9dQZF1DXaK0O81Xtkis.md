@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > a little indie, a little pop, soda featuring Ruel
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,755 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,738 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 49 | [Charlotte](https://open.spotify.com/track/5UrxRPPKl5EiLy1RTbobZl) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [Charlotte](https://open.spotify.com/album/2BoIQZ3r83HbY0mYVXubDY) | 2:29 |
 | 50 | [Lighter](https://open.spotify.com/track/5f9JpyT70rksel4mcQg0a7) | [In Color](https://open.spotify.com/artist/7zNEP2UROEGrRn43h46zTk) | [Lighter](https://open.spotify.com/album/7noeJvJA9P86ZUThp2bTRh) | 4:52 |
 
-Snapshot ID: `AAAAAMV+tjWQmXPU+FZ+HDnaXqebPXaz`
+Snapshot ID: `AAAAAEAFtbYNe6Vb6xNAj353jyRq0MzE`

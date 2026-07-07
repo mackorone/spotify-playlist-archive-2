@@ -1,12 +1,12 @@
 {
   "description": "The best new independent songs. New tracks every month.",
-  "num_followers": 1311,
+  "num_followers": 1312,
   "original_name": "New Indie Music",
   "owner": {
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAV4lIRxyl71z37OCynl1MxiPPdcCVf",
+  "snapshot_id": "AAAV6HZTmqsdQmUU13B/VpSRAsJsLFd7",
   "tracks": [
     {
       "added_at": "2026-07-02 22:11:30",
@@ -347,6 +347,22 @@
       "duration_ms": 215722,
       "name": "Daylight",
       "url": "https://open.spotify.com/track/3JaGKnVSjLcb1vIqd3vM2R"
+    },
+    {
+      "added_at": "2026-07-06 19:05:27",
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/0qHDrfVUuTfwwzJbw25sVX"
+      },
+      "artists": [
+        {
+          "name": "Brad Bass",
+          "url": "https://open.spotify.com/artist/2En7iaoeTIPOZg3RX5HXZj"
+        }
+      ],
+      "duration_ms": 127895,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/6J5kFlOc4YoptSHGF170E0"
     },
     {
       "added_at": "2026-05-19 07:01:59",
@@ -2279,6 +2295,86 @@
       "duration_ms": 280606,
       "name": "Something New",
       "url": "https://open.spotify.com/track/7G9HfHhiTPYrvtu7hTRFJk"
+    },
+    {
+      "added_at": "2026-07-06 06:55:27",
+      "album": {
+        "name": "Feels Good Today",
+        "url": "https://open.spotify.com/album/4qlwWExRwUvhYM92Y7jzhV"
+      },
+      "artists": [
+        {
+          "name": "NorLights",
+          "url": "https://open.spotify.com/artist/4J2UmzAldNPzDFI2DYTzoh"
+        }
+      ],
+      "duration_ms": 94880,
+      "name": "Feels Good Today",
+      "url": "https://open.spotify.com/track/7nQgsEwxisDx5I2jvNy4wN"
+    },
+    {
+      "added_at": "2026-07-06 06:55:38",
+      "album": {
+        "name": "Once More Again",
+        "url": "https://open.spotify.com/album/2iK2jSzblXqV1SSozzXQU8"
+      },
+      "artists": [
+        {
+          "name": "Karyttah",
+          "url": "https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "Once More Again (Promo)",
+      "url": "https://open.spotify.com/track/6te6JY4BzKxhDPxjdru98T"
+    },
+    {
+      "added_at": "2026-07-06 19:04:48",
+      "album": {
+        "name": "Saw Satan",
+        "url": "https://open.spotify.com/album/3eXzadT7PlgQUOCa71w3PH"
+      },
+      "artists": [
+        {
+          "name": "213NINJA",
+          "url": "https://open.spotify.com/artist/1cyR5va0xoqUL8D8dqxMzH"
+        }
+      ],
+      "duration_ms": 103320,
+      "name": "Saw Satan",
+      "url": "https://open.spotify.com/track/6msiwsi2zbFjUCufVX6TWS"
+    },
+    {
+      "added_at": "2026-07-06 19:05:01",
+      "album": {
+        "name": "Voler",
+        "url": "https://open.spotify.com/album/4AZUeXfb2Z4PpMQMjDy9e1"
+      },
+      "artists": [
+        {
+          "name": "Eric Hartereau",
+          "url": "https://open.spotify.com/artist/05AKy1V7dOPuFuzLZHRtu7"
+        }
+      ],
+      "duration_ms": 344761,
+      "name": "Voler de nos propres ailes",
+      "url": "https://open.spotify.com/track/1G6Iz4X61rsBlYfdUjWYCx"
+    },
+    {
+      "added_at": "2026-07-06 19:05:15",
+      "album": {
+        "name": "Crescere",
+        "url": "https://open.spotify.com/album/7LWyHwzao8X4H8iJKz5RfS"
+      },
+      "artists": [
+        {
+          "name": "Massimiliano Martelli",
+          "url": "https://open.spotify.com/artist/2sjCNBILPVjt7p2l5BqIDJ"
+        }
+      ],
+      "duration_ms": 187627,
+      "name": "Crescere",
+      "url": "https://open.spotify.com/track/6w4K4RDb5jD3NwZfNmGCPz"
     }
   ],
   "unique_name": "New Indie Music",

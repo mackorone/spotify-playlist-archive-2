@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,241 likes - 100 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,281 likes - 100 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 99 | [Ljusdal](https://open.spotify.com/track/7xr2Gkl3u6gOVa11PPBr1J) | [Marko Nyberg](https://open.spotify.com/artist/5qd3TA4AmPNW90byfRefks) | [Ingrid EP](https://open.spotify.com/album/5795LZIYAuces2kT5rXibb) | 5:08 |
 | 100 | [Between Two Breaths](https://open.spotify.com/track/4ppsp7PyPEllHWDzCyHHF8) | [Night Gestalt](https://open.spotify.com/artist/4UuRl4uM2Nf7sbNFBKpZ6b) | [Between Two Breaths](https://open.spotify.com/album/0mvMU44cr2G86elQUQkDIx) | 5:48 |
 
-Snapshot ID: `AAAAAHwsaG9LD7MgFGvjSjkYtekjdLoE`
+Snapshot ID: `AAAAAORlFdC8DJOH7n5jd4ucNSHSleJi`

@@ -5154,7 +5154,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 161800,
       "name": "Factory",
       "url": "https://open.spotify.com/track/6Pq6iVSIIK8O5UFMs5d2uk"
@@ -5908,7 +5908,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 216032,
       "name": "Friday Escape",
       "url": "https://open.spotify.com/track/5OBnjLijavtXpnzEQKbYxL"
@@ -6524,7 +6524,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 303872,
       "name": "Half Life",
       "url": "https://open.spotify.com/track/6lOXF935I5fQaCHIW5zKXJ"
@@ -6560,7 +6560,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 226480,
       "name": "hands on the board",
       "url": "https://open.spotify.com/track/6FSTmhKIgmqjQmZ48ZEHm7"
@@ -6820,7 +6820,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 414740,
       "name": "Her-To-Get (To-Get-Her)",
       "url": "https://open.spotify.com/track/6NcSlHDEbD72raPykWCmJi"
@@ -8960,7 +8960,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 275670,
       "name": "Let the Rain Fall",
       "url": "https://open.spotify.com/track/6XLUesMlr0D29UU7OjGfHQ"
@@ -9194,7 +9194,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 123376,
       "name": "Little Green Dots",
       "url": "https://open.spotify.com/track/50ers5l5Zlk6mOZone9KVv"
@@ -11592,7 +11592,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Protected",
       "url": "https://open.spotify.com/track/0LsgbtfzDFsSC1bqPWjbNN"
@@ -13215,6 +13215,24 @@
     },
     {
       "album": {
+        "name": "Smoke and Mirrors",
+        "url": "https://open.spotify.com/album/68cT0BcKQcHGxToCYg4A1H"
+      },
+      "artists": [
+        {
+          "name": "Liminal Dawn",
+          "url": "https://open.spotify.com/artist/5JTrasPTRNGB9sgNUAyVr1"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267400,
+      "name": "Smoke and Mirrors",
+      "url": "https://open.spotify.com/track/26s2AEv7vlwoyrUGQMaZPA"
+    },
+    {
+      "album": {
         "name": "Smoking DMT With Carl Jung",
         "url": "https://open.spotify.com/album/6FU2JWQvOoe2SxajQIGgVw"
       },
@@ -13862,7 +13880,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 202135,
       "name": "Steel Butterflies",
       "url": "https://open.spotify.com/track/48bvLtjiWAWwaKSHrC5NF2"
@@ -16632,7 +16650,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 240744,
       "name": "Velvet Black",
       "url": "https://open.spotify.com/track/5Qw3Xscsima9Mecp2uVDjN"
@@ -17102,7 +17120,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 301575,
       "name": "Water and Flesh",
       "url": "https://open.spotify.com/track/3va08x27StWDuVaetVitYA"
@@ -17420,7 +17438,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 171000,
       "name": "When You're Down",
       "url": "https://open.spotify.com/track/35eCarWbCxKpJD3im0JO65"
@@ -17478,7 +17496,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"

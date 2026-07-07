@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 연정\(YeonJeong\)\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,448 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,447 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 49 | [fallen](https://open.spotify.com/track/14mDHG6i0nOWK2BKXk6eev) | [kyuman](https://open.spotify.com/artist/6kP25N7G38ac03KIwPsiph), [Dopein](https://open.spotify.com/artist/3Ad2aAlqtVBScdhET9ZPwt) | [leaf, leaves](https://open.spotify.com/album/1EpSqXzJzPabeM6yPx0onN) | 2:24 |
 | 50 | [Dear Memories](https://open.spotify.com/track/5O2nUFXjUepJEzLAxIirDZ) | [Haeun](https://open.spotify.com/artist/49nkvtvLofduaHr9nfzhd5) | [Dear Memories](https://open.spotify.com/album/2QzAfv6fxXGKTMlEnYcpFm) | 3:42 |
 
-Snapshot ID: `AAAAAGxtas7X/LQxrUq3s5Z+wZz8ctw2`
+Snapshot ID: `AAAAAF6VCATdb7Vk8cQ1xpc1D4B/ov88`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: Quiet Houses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,667,066 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,666,977 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 87 | [SICK](https://open.spotify.com/track/2F6YUXi48PHfXEXfP8LSnO) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [SICK](https://open.spotify.com/album/1HhWdO64tB0AQLoXJtyhyO) | 2:12 |
 | 88 | [Roamer](https://open.spotify.com/track/0Xfj8XkEduoN43F2UMrDGZ) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [AngieAngieAngie](https://open.spotify.com/album/19lNMxzhXLPvNZkMQnb4gl) | 2:19 |
 | 89 | [the punisher](https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [the punisher](https://open.spotify.com/album/4lBwSddoFh5fy1T7uUCE5L) | 3:09 |
-| 90 | [Shiny Stockings](https://open.spotify.com/track/6zAjGOsOHaM36lqI2z3xKU) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [Shiny Stockings](https://open.spotify.com/album/7uLkCFhxXT6373P8pulfLC) | 3:00 |
-| 91 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/4Py3mpufTWKXpkhy2A17vL) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation / Bobby](https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L) | 3:55 |
-| 92 | [Southern Youth](https://open.spotify.com/track/1PWh0ypifsoAUUN2HtZMpq) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Southern Youth](https://open.spotify.com/album/4vS8e6ggYLuO6eMNwbqRYg) | 4:02 |
-| 93 | [Never Let Go](https://open.spotify.com/track/6wDUqYQ9sbWGMPpWOQLlmt) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Never Let Go](https://open.spotify.com/album/1wEDrmEFhRfbNiFRj1PTiM) | 5:12 |
-| 94 | [I Haven’t Forgotten You](https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Eternal BAM Nation](https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ) | 2:24 |
-| 95 | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN) | 3:08 |
-| 96 | [Seventeen](https://open.spotify.com/track/25qyBoX9Hk4WSB6lXrKw9K) | [Lola Blue](https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at) | [Pinky Promise](https://open.spotify.com/album/1yNNvUBskbCyaL3U8HajF4) | 3:04 |
-| 97 | [Don't Kill the Vibe](https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd) | [Jordan Joy](https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv) | [Don't Kill the Vibe](https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N) | 4:22 |
-| 98 | [Endless Sundays](https://open.spotify.com/track/6r91l350cidymaEMcKceGc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Endless Sundays](https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks) | 4:08 |
-| 99 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
-| 100 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
+| 90 | [Edges of You](https://open.spotify.com/track/3dat7vpTyvyUiCYkvopr1L) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Edges of You](https://open.spotify.com/album/6qSE38dtgNyo5Enaxa1EFo) | 3:14 |
+| 91 | [Shiny Stockings](https://open.spotify.com/track/6zAjGOsOHaM36lqI2z3xKU) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [Shiny Stockings](https://open.spotify.com/album/7uLkCFhxXT6373P8pulfLC) | 3:00 |
+| 92 | [Reputation \(feat\. Dominic Fike\)](https://open.spotify.com/track/4Py3mpufTWKXpkhy2A17vL) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Reputation / Bobby](https://open.spotify.com/album/1ydjDKjXy4jVuPwybonR7L) | 3:55 |
+| 93 | [Southern Youth](https://open.spotify.com/track/1PWh0ypifsoAUUN2HtZMpq) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Southern Youth](https://open.spotify.com/album/4vS8e6ggYLuO6eMNwbqRYg) | 4:02 |
+| 94 | [Never Let Go](https://open.spotify.com/track/6wDUqYQ9sbWGMPpWOQLlmt) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Never Let Go](https://open.spotify.com/album/1wEDrmEFhRfbNiFRj1PTiM) | 5:12 |
+| 95 | [I Haven’t Forgotten You](https://open.spotify.com/track/10dei2pRZz9USduNqb2BsY) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Eternal BAM Nation](https://open.spotify.com/album/5V3JWWxA9uorTR3T5rcSfJ) | 2:24 |
+| 96 | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Do What You Gotta \(feat\. Sunset Rollercoaster\)](https://open.spotify.com/album/4eXihWYidaaT9dIA25HxqN) | 3:08 |
+| 97 | [Seventeen](https://open.spotify.com/track/25qyBoX9Hk4WSB6lXrKw9K) | [Lola Blue](https://open.spotify.com/artist/6qdCzMXnKVyrxoa0ibl1at) | [Pinky Promise](https://open.spotify.com/album/1yNNvUBskbCyaL3U8HajF4) | 3:04 |
+| 98 | [Don't Kill the Vibe](https://open.spotify.com/track/3ZiHHaMuZ2cQXLtjxgiGUd) | [Jordan Joy](https://open.spotify.com/artist/4SpTLCaS4bSWUFgN7AapHv) | [Don't Kill the Vibe](https://open.spotify.com/album/4tYBaS0xN0eYmFSGHJ1C7N) | 4:22 |
+| 99 | [Endless Sundays](https://open.spotify.com/track/6r91l350cidymaEMcKceGc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [Endless Sundays](https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks) | 4:08 |
+| 100 | [Heaven](https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Heaven](https://open.spotify.com/album/3sfKUG1wBGK0SwFQKltZtr) | 4:26 |
 
-Snapshot ID: `AAAAAIQ+m5ayP+GE75Lkmg9i7++Ogget`
+Snapshot ID: `AAAAAKTqIFivSsl4CURJW+dt/MW6Y5JL`

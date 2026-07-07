@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5762,
+  "num_followers": 5763,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAAA+Kf+3YcA/whst86biQ0wi",
+  "snapshot_id": "akmegAAAAADmU3IMmW3EU933tar+UmUB",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Walked In",
+        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 140811,
+      "name": "Walked In",
+      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Feel Me?",
         "url": "https://open.spotify.com/album/319EhuTWQQRHTQqSutFXsl"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 139427,
       "name": "Feel Me?",
       "url": "https://open.spotify.com/track/5LGJYig5XDRbS0f5pXGmmH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Walked In",
-        "url": "https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 140811,
-      "name": "Walked In",
-      "url": "https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA"
     },
     {
       "added_at": null,
@@ -811,30 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before Anything - EP",
-        "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Jay Anthony",
-          "url": "https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK"
-        }
-      ],
-      "duration_ms": 243226,
-      "name": "Light This Bitch Up",
-      "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
       },
@@ -875,6 +851,30 @@
       "duration_ms": 268800,
       "name": "Too Faded Remix",
       "url": "https://open.spotify.com/track/6kAyNOwKKB1h7d6Lx0E9gY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Before Anything - EP",
+        "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Jay Anthony",
+          "url": "https://open.spotify.com/artist/6PhukEDmCNt2jyDZnM4TrK"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "Light This Bitch Up",
+      "url": "https://open.spotify.com/track/5DhuSnYKmoHrzfEtLsQHwQ"
     },
     {
       "added_at": null,
@@ -959,6 +959,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "She Wanna (feat. P-Lo)",
+        "url": "https://open.spotify.com/album/6oxlvZQ5wxkvavu8tCaNAd"
+      },
+      "artists": [
+        {
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
+        },
+        {
+          "name": "!llmind",
+          "url": "https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 205124,
+      "name": "How Many",
+      "url": "https://open.spotify.com/track/4nvKj0aLL3YS26zeahNaeJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "22nd Ways",
         "url": "https://open.spotify.com/album/5ad0FSt6oYREGIgw38CAyE"
       },
@@ -983,26 +1007,6 @@
       "duration_ms": 225802,
       "name": "Demon (feat. P-Lo & ShooterGang Kony)",
       "url": "https://open.spotify.com/track/6ZD4SzGfEVd0mOtttUE99M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Make a Move",
-        "url": "https://open.spotify.com/album/3fogvMsvcYClsTGLVLKyWI"
-      },
-      "artists": [
-        {
-          "name": "Jeff Bernat",
-          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 144078,
-      "name": "Make a Move",
-      "url": "https://open.spotify.com/track/7pOjED1Rmz6x4iLWiX8Z7Z"
     },
     {
       "added_at": null,
@@ -1063,26 +1067,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "She Wanna (feat. P-Lo)",
-        "url": "https://open.spotify.com/album/6oxlvZQ5wxkvavu8tCaNAd"
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/0dZTK3XkHIQgNjR5og8fNZ"
       },
       "artists": [
         {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
-        },
-        {
-          "name": "!llmind",
-          "url": "https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ"
+          "name": "$tupid Young",
+          "url": "https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 205124,
-      "name": "How Many",
-      "url": "https://open.spotify.com/track/4nvKj0aLL3YS26zeahNaeJ"
+      "duration_ms": 142733,
+      "name": "That\u2019s Facts (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/6Ufq2wlLLK4fUo6yiWuR4c"
     }
   ],
   "unique_name": "This Is P-Lo",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 
 > KASO en tête de la playlist numéro un en Tunisie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,808 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,811 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9HeUXWsJonl.md) - [plain]
 | 12 | [MEN BARRA](https://open.spotify.com/track/0ASWZqGgyRKaj3qZ9zXQsE) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/3nDtdoIpba8oRpLf0CxTDu) | 2:46 |
 | 13 | [Tach](https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tach](https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl) | 3:25 |
 | 14 | [KALAMANTINA / كلمنتينا](https://open.spotify.com/track/3vZ3ngEbunTiK4fOVKyzYD) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Love Letters / رسائل حب](https://open.spotify.com/album/7CBui2zfZ08ZbpdVnBfpUr) | 3:26 |
-| 15 | [Mrid](https://open.spotify.com/track/5zddjnP7Z2GX27xTCfreMF) | [SayaX](https://open.spotify.com/artist/6X3WYYZHavFRcbuh4XJs1O) | [Mrid](https://open.spotify.com/album/5zYMjaQsYIULUuqxni0H7o) | 3:56 |
+| 15 | [Mrid](https://open.spotify.com/track/5zddjnP7Z2GX27xTCfreMF) | [SayaX](https://open.spotify.com/artist/6X3WYYZHavFRcbuh4XJs1O) | [Mrid](https://open.spotify.com/album/5zYMjaQsYIULUuqxni0H7o) | 3:23 |
 | 16 | [Maktoub](https://open.spotify.com/track/0eAEBwMO3L6NyDkbWTf4PD) | [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn) | [Maktoub](https://open.spotify.com/album/3uGzrde07ughO8GvBgiBKO) | 3:05 |
 | 17 | [VIANO](https://open.spotify.com/track/5DTahoMKuix8Fi1WSXGwIW) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [ENCORE / VIANO](https://open.spotify.com/album/62fe5c9NvABdCS4t1W7pKf) | 1:51 |
 | 18 | [DO YOU LOVE ME? / سنيورة](https://open.spotify.com/track/4gR1Lpk0478t0M6wrft3y5) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Fares Sokar](https://open.spotify.com/artist/748zEAbda3IIsAkIxN62Hw) | [Love Letters / رسائل حب \(Deluxe\)](https://open.spotify.com/album/1L0410frQGcY66rOhygU6Z) | 2:38 |

@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> Music from Drake, Future and
+> Music from Drake and Future.
 
 2,807 songs - 6 day 1 hr 47 min
 

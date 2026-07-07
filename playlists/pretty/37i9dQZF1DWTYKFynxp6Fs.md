@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 
 > Every song that's Trending NOW from Malayalam! <br/>Cover: Vaazha 2
 
-[Spotify](https://open.spotify.com/user/spotify) - 701,856 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,177 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

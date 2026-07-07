@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,880 likes - 76 songs - 4 hr 35 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,878 likes - 77 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,5 +84,6 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 74 | [Sexy FreakA'Licious](https://open.spotify.com/track/0F6kLRMq4OACLAxyJhYNWk) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT) | [Voices In My Head](https://open.spotify.com/album/72DfBlLmdUjZw7r2WRRwBt) | 3:07 |
 | 75 | [Starfalls](https://open.spotify.com/track/6ZovhFOyc06N6HIYXm0HiG) | [the sets](https://open.spotify.com/artist/3HmGzhNX02d5uG5ZSwI2my) | [Starfalls](https://open.spotify.com/album/0i15SKz5PoOeRv7NsgadK6) | 3:14 |
 | 76 | [Someone Else's Day](https://open.spotify.com/track/721821c6VMPC4uRmUciT4I) | [Neatly Drawn Blinds](https://open.spotify.com/artist/1ZWxWqVwTX6GOuXNn9L4hY) | [Someone Else's Day](https://open.spotify.com/album/35u9wOG99ZNhkdkHOsGYsW) | 3:03 |
+| 77 | [Ridin'](https://open.spotify.com/track/6grMfwV4ObyviLICT967F7) | [Evan Shapiro](https://open.spotify.com/artist/0UILmPMs55OVehWiVAoFTc), [David J\. Michalak](https://open.spotify.com/artist/3SgiNaCNy5hVnqi0lc5VYv) | [Ridin'](https://open.spotify.com/album/2fmKXOMnrCF9kgevQekIPL) | 3:07 |
 
-Snapshot ID: `AAACwFbArl4udp7oUgzBj476csoQQhHm`
+Snapshot ID: `AAACwS5nlaiA4CU0TQezJpLnBjXqkkxF`

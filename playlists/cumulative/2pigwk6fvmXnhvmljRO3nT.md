@@ -4,7 +4,7 @@
 
 > 
 
-8,705 songs - 22 day 4 hr 1 min
+8,709 songs - 22 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [All I Want](https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 5:05 | 2025-06-25 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/71wZ1KJdXSa5hC51kvGBL2) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [All I Want for Christmas Is You](https://open.spotify.com/album/4oaGmvBfraPK3deWpySwJm) | 3:48 | 2025-01-03 |  |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2025-01-04 |  |
-| [All I Want Is You \(feat\. J\. Cole\)](https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 4:55 | 2025-01-04 |  |
+| [All I Want Is You \(feat\. J\. Cole\)](https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 4:57 | 2025-01-04 |  |
 | [All Kind Of Ideas \[Feat\. Pete Rock\]](https://open.spotify.com/track/1ZQUnabJGU18pgQyYQE5Ea) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [The Auditorium Vol\. 1](https://open.spotify.com/album/1wA3gsTb8pgnKuAyJbAsu0) | 3:48 | 2024-12-14 |  |
 | [All Me](https://open.spotify.com/track/7y911sqgHGHcyU4ivapjwi) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/5mz0mJxb80gqJIcRf9LGHJ) | 4:30 | 2025-01-03 |  |
 | [All Mine](https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 2:25 | 2025-01-03 |  |
@@ -1592,6 +1592,8 @@
 | [Deplorable Capital](https://open.spotify.com/track/1HeadmeqOPJq6ogVycSNjz) | [HOYO\-MiX](https://open.spotify.com/artist/2YvlK6lKiKVjXxsjvNbnqg) | [Genshin Impact \- Cantus Aeternus \(Original Game Soundtrack\)](https://open.spotify.com/album/2n2LvBVabXSthRaLEDGGSe) | 1:04 | 2025-11-29 |  |
 | [Desires \(with Future\)](https://open.spotify.com/track/7eYAHC0RbBF9eaqWzT34Aq) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Dark Lane Demo Tapes](https://open.spotify.com/album/6OQ9gBfg5EXeNAEwGSs6jK) | 3:57 | 2025-01-03 |  |
 | [Desperado](https://open.spotify.com/track/4mCf3vQf7z0Yseo0RxAi3V) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:06 | 2025-01-15 |  |
+| [destiny](https://open.spotify.com/track/2LVEEbWnNKnnmCkc9yRwJc) | [TEAM B・A・K・A](https://open.spotify.com/artist/2SCVh3n48D3OBBYLor3HKZ) | [ギブミー・シークレット](https://open.spotify.com/album/3YFO3niisQcza038bWIUUl) | 4:51 | 2026-07-06 |  |
+| [destiny \- inst.](https://open.spotify.com/track/6PGEBF1J8sArr5HdTxkM6n) | [TEAM B・A・K・A](https://open.spotify.com/artist/2SCVh3n48D3OBBYLor3HKZ) | [ギブミー・シークレット](https://open.spotify.com/album/3YFO3niisQcza038bWIUUl) | 4:51 | 2026-07-06 |  |
 | [Determination Symphony](https://open.spotify.com/track/1srPZ3Bk542TtkCiGs01yw) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Wahl](https://open.spotify.com/album/2qtBhMhhcR4hO7JQOuyHI5) | 4:41 | 2025-09-08 |  |
 | [Dettol](https://open.spotify.com/track/59TZrF8sG3jiP3G80DBTRL) | [Chuck Strangers](https://open.spotify.com/artist/1o1szEyRkKUmDfqHOsU9b5) | [The Boys & Girls](https://open.spotify.com/album/0yuDKkogcktyNgOBlYsQHz) | 1:50 | 2024-12-14 |  |
 | [DEVASTATED](https://open.spotify.com/track/4PnNzWe1LJoAMD5j5RHpI0) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [ALL\-AMERIKKKAN BADA$$](https://open.spotify.com/album/2ZmDoyNYarmubD4vTfwh6g) | 3:27 | 2025-01-03 |  |
@@ -7735,6 +7737,8 @@
 | [キャラクター](https://open.spotify.com/track/0O4YelF6Zneq7sk1Ye73N2) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Actor](https://open.spotify.com/album/1wZvv1wdTDAKvWVoqnMcIK) | 4:09 | 2025-01-15 |  |
 | [キルミーのベイベー！](https://open.spotify.com/track/6LqxXrRj27BMRh26IFueEg) | [後藤ひとり](https://open.spotify.com/artist/23DUaGtfiNb93y6KBwtyWi) | [きらら トリビュート コレクション「結束バンドの歌ってみた」](https://open.spotify.com/album/5OJtVcOAvk2dkkjOShUFxs) | 2:33 | 2026-02-20 |  |
 | [ギターと孤独と蒼い惑星](https://open.spotify.com/track/1rgncjmlpHMP3DBhpagyVb) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:48 | 2026-06-16 |  |
+| [ギブミー・シークレット](https://open.spotify.com/track/3jQ062srftGELEE2PRDAMe) | [StylipS](https://open.spotify.com/artist/16Vu3ajNELyWQhDuqyi2zR) | [ギブミー・シークレット](https://open.spotify.com/album/3YFO3niisQcza038bWIUUl) | 3:47 | 2026-07-06 |  |
+| [ギブミー・シークレット \- inst.](https://open.spotify.com/track/6JIbQJmxPK6hooISd4A0mC) | [StylipS](https://open.spotify.com/artist/16Vu3ajNELyWQhDuqyi2zR) | [ギブミー・シークレット](https://open.spotify.com/album/3YFO3niisQcza038bWIUUl) | 3:47 | 2026-07-06 |  |
 | [クスシキ](https://open.spotify.com/track/3huSUfmhUr4entz2S0G31O) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [クスシキ](https://open.spotify.com/album/1VoARePwuGf1zb7iYKuOqd) | 3:08 | 2026-01-14 |  |
 | [クダリ](https://open.spotify.com/track/0w0ouaFESXnkabq3HbKvWk) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 4:26 | 2025-01-04 |  |
 | [クライマー](https://open.spotify.com/track/0var06tEoXUqS76RScrCCP) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [Sea and The Darkness](https://open.spotify.com/album/6vDFCF1YqhE5WKzYNSHOs7) | 3:10 | 2025-05-11 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 
 > インスタメディア『PLAYLIST』のトレンドプレイリスト。<br/>音楽好きの若者に支持されたインスタアカウント（Instagram：<a href="https://www.instagram.com/playlist\_of/">@playlist\_of</a>）の編集者が今話題の楽曲をピック。<br/>毎週土曜日更新中。
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,803 likes - 40 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,801 likes - 39 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,22 +31,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0ZPLNrlp88.md) - [plain]
 | 21 | [人は渡り鳥](https://open.spotify.com/track/0DbU4lJjgWn9xI35FcRUiH) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [木漏れ日坂　TVアニメ「クジマ歌えば家ほろろ」オープニングテーマ](https://open.spotify.com/album/3iL0dgMRQ6ob0MwtofnUR3) | 4:16 |
 | 22 | [アパートメント](https://open.spotify.com/track/5nQSWDsPWPBflXodTpBIj3) | [Mojes](https://open.spotify.com/artist/7lnTHh6pdwNWcUkPxlE68r) | [アパートメント](https://open.spotify.com/album/76yjnKnAKMF46BepYzqojG) | 3:12 |
 | 23 | [六ノ輪](https://open.spotify.com/track/0RDHzL3m6eK2wSuCou4sAW) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [六ノ輪](https://open.spotify.com/album/7wX1l5Bu8H2sCbkBqy7XPe) | 3:27 |
-| 24 | [君の嘘が甘すぎる](https://open.spotify.com/track/21tLARgfdXfHtijSilT2bM) | [haruno](https://open.spotify.com/artist/2j7k4u9p3MyN4JS6vSpPUB) | [君の嘘が甘すぎる](https://open.spotify.com/album/0mZeedFuySW1SBaxtzSMex) | 3:20 |
-| 25 | [烏 \- Raven](https://open.spotify.com/track/5Ij88F5dK7yib1RoNA8wGV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [烏 \- Raven](https://open.spotify.com/album/77lHr1rXYAkLjOVkcSXLGH) | 4:08 |
-| 26 | [邁進少女](https://open.spotify.com/track/2wfDhn0LhvgPR3AbL4ybGq) | [是是](https://open.spotify.com/artist/3dp4VySCuZGL1TEBelcnt1) | [LOOK BACK](https://open.spotify.com/album/3bxk6WA0sTR51KawreV6Qg) | 3:29 |
-| 27 | [気になっちゃう](https://open.spotify.com/track/2bRMndOhDLYcmJuwl9R0Tv) | [夕方と猫](https://open.spotify.com/artist/4JiDOJYtNcMywV5sUP0dYu) | [気になっちゃう](https://open.spotify.com/album/06Y84fVCPQT6sfyvciAOQd) | 2:22 |
-| 28 | [OK](https://open.spotify.com/track/20ldRIteZf5iksj4lVJyhr) | [Raven](https://open.spotify.com/artist/0j1Jg2UcMn3NVw4Z0nknzU) | [OK](https://open.spotify.com/album/27AUiDjdD8O2K7yHtUeG1M) | 3:05 |
-| 29 | [エンドロール](https://open.spotify.com/track/7AXLR89IRmhdmgcxef2Tct) | [声にならないよ](https://open.spotify.com/artist/6alBVpNiI69zkzqL5x628F) | [きっと、忘れられないまま](https://open.spotify.com/album/0UZUE7ChaJyLHUIuaNWguR) | 3:58 |
-| 30 | [最近彼氏がさ最近彼女がさ](https://open.spotify.com/track/0HCK7BCK1B4e6Z5JA4GJ9H) | [ゆなんなん](https://open.spotify.com/artist/17c9W4B1xW4dtYiJcLH1OH) | [最近彼氏がさ最近彼女がさ](https://open.spotify.com/album/1p8PHxWkU3DwLgFy6qneZc) | 3:02 |
-| 31 | [夜と私のこと](https://open.spotify.com/track/7lSkLi3F7QvY6K5kUnIGZ0) | [夜と私のこと](https://open.spotify.com/artist/0CcdBZMEmMKHOLKv9K2QyW) | [夜と私のこと](https://open.spotify.com/album/5PIbM1AYuGHlfqLD21TERe) | 3:03 |
-| 32 | [トトノウ](https://open.spotify.com/track/5uutY3S8QwGxdVschGUx4b) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [Akusa](https://open.spotify.com/artist/18K2ylw7v44fe9kU0cxQu8) | [トトノウ](https://open.spotify.com/album/6LlNDQtrMjnWsNQVnGYQ1t) | 3:59 |
-| 33 | [Comets + Gold](https://open.spotify.com/track/5OTOTazu9IXnD7jspyv43f) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Comets + Gold](https://open.spotify.com/album/2eZnw2HtWAVA9vDsJL7T1W) | 3:08 |
-| 34 | [魔物](https://open.spotify.com/track/0La25VvFmScw81ci5LQZDz) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [魔物](https://open.spotify.com/album/1oRXT2W5H0140AxpcfZBkW) | 3:52 |
-| 35 | [dust\-chute](https://open.spotify.com/track/2Bta0IVV2ElZRsDZriDmWr) | [ハカネ](https://open.spotify.com/artist/11IVaIfmZuuueNF8lS5DWw) | [dust\-chute](https://open.spotify.com/album/11YGiIoqMCFTXKAhmZ3J6E) | 3:47 |
-| 36 | [印象派](https://open.spotify.com/track/2ngzBfgNaQuZgxKqIvLJLx) | [アツキタケトモ](https://open.spotify.com/artist/53ZtiUmgk4elH0IGLs7P3g) | [29歳 / Notes from the End of Youth](https://open.spotify.com/album/6GYZBGOImAoOX0jpVB8nX4) | 3:55 |
-| 37 | [BOY MEETS GIRL](https://open.spotify.com/track/5bI8Nv7j6qlPZWCKvkNI3Q) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [BOY MEETS GIRL](https://open.spotify.com/album/2YjOW5BE4A2i8oMXh6oU66) | 3:20 |
-| 38 | [SOS](https://open.spotify.com/track/7bVHnV7at3Bj8xdeSu6enh) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [SOS](https://open.spotify.com/album/6wNrAQ4w4SnU3fLnZpjQRp) | 3:00 |
-| 39 | [乱気](https://open.spotify.com/track/45pAexUCqZePSDy6HFNIAH) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [乱気](https://open.spotify.com/album/2CW8vP5hLBcFNJgPmg3Dn3) | 3:41 |
-| 40 | [我愛你 \(feat\. 磯野くん\)](https://open.spotify.com/track/0zBdQxJ1tty20aTCUhYNoh) | [SUTEZENI](https://open.spotify.com/artist/5M4LfrkfAT02o9M5HCI3Mt), [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [磯野くん](https://open.spotify.com/artist/48UwOs44kquyWN7FoUZCTG) | [我愛你 \(feat\. 磯野くん\)](https://open.spotify.com/album/0O7b3783AUBZHCNv0rzhZN) | 3:22 |
+| 24 | [烏 \- Raven](https://open.spotify.com/track/5Ij88F5dK7yib1RoNA8wGV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [烏 \- Raven](https://open.spotify.com/album/77lHr1rXYAkLjOVkcSXLGH) | 4:08 |
+| 25 | [邁進少女](https://open.spotify.com/track/2wfDhn0LhvgPR3AbL4ybGq) | [是是](https://open.spotify.com/artist/3dp4VySCuZGL1TEBelcnt1) | [LOOK BACK](https://open.spotify.com/album/3bxk6WA0sTR51KawreV6Qg) | 3:29 |
+| 26 | [気になっちゃう](https://open.spotify.com/track/2bRMndOhDLYcmJuwl9R0Tv) | [夕方と猫](https://open.spotify.com/artist/4JiDOJYtNcMywV5sUP0dYu) | [気になっちゃう](https://open.spotify.com/album/06Y84fVCPQT6sfyvciAOQd) | 2:22 |
+| 27 | [OK](https://open.spotify.com/track/20ldRIteZf5iksj4lVJyhr) | [Raven](https://open.spotify.com/artist/0j1Jg2UcMn3NVw4Z0nknzU) | [OK](https://open.spotify.com/album/27AUiDjdD8O2K7yHtUeG1M) | 3:05 |
+| 28 | [エンドロール](https://open.spotify.com/track/7AXLR89IRmhdmgcxef2Tct) | [声にならないよ](https://open.spotify.com/artist/6alBVpNiI69zkzqL5x628F) | [きっと、忘れられないまま](https://open.spotify.com/album/0UZUE7ChaJyLHUIuaNWguR) | 3:58 |
+| 29 | [最近彼氏がさ最近彼女がさ](https://open.spotify.com/track/0HCK7BCK1B4e6Z5JA4GJ9H) | [ゆなんなん](https://open.spotify.com/artist/17c9W4B1xW4dtYiJcLH1OH) | [最近彼氏がさ最近彼女がさ](https://open.spotify.com/album/1p8PHxWkU3DwLgFy6qneZc) | 3:02 |
+| 30 | [夜と私のこと](https://open.spotify.com/track/7lSkLi3F7QvY6K5kUnIGZ0) | [夜と私のこと](https://open.spotify.com/artist/0CcdBZMEmMKHOLKv9K2QyW) | [夜と私のこと](https://open.spotify.com/album/5PIbM1AYuGHlfqLD21TERe) | 3:03 |
+| 31 | [トトノウ](https://open.spotify.com/track/5uutY3S8QwGxdVschGUx4b) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [Akusa](https://open.spotify.com/artist/18K2ylw7v44fe9kU0cxQu8) | [トトノウ](https://open.spotify.com/album/6LlNDQtrMjnWsNQVnGYQ1t) | 3:59 |
+| 32 | [Comets + Gold](https://open.spotify.com/track/5OTOTazu9IXnD7jspyv43f) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL), [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Comets + Gold](https://open.spotify.com/album/2eZnw2HtWAVA9vDsJL7T1W) | 3:08 |
+| 33 | [魔物](https://open.spotify.com/track/0La25VvFmScw81ci5LQZDz) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [魔物](https://open.spotify.com/album/1oRXT2W5H0140AxpcfZBkW) | 3:52 |
+| 34 | [dust\-chute](https://open.spotify.com/track/2Bta0IVV2ElZRsDZriDmWr) | [ハカネ](https://open.spotify.com/artist/11IVaIfmZuuueNF8lS5DWw) | [dust\-chute](https://open.spotify.com/album/11YGiIoqMCFTXKAhmZ3J6E) | 3:47 |
+| 35 | [印象派](https://open.spotify.com/track/2ngzBfgNaQuZgxKqIvLJLx) | [アツキタケトモ](https://open.spotify.com/artist/53ZtiUmgk4elH0IGLs7P3g) | [29歳 / Notes from the End of Youth](https://open.spotify.com/album/6GYZBGOImAoOX0jpVB8nX4) | 3:55 |
+| 36 | [BOY MEETS GIRL](https://open.spotify.com/track/5bI8Nv7j6qlPZWCKvkNI3Q) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [BOY MEETS GIRL](https://open.spotify.com/album/2YjOW5BE4A2i8oMXh6oU66) | 3:20 |
+| 37 | [SOS](https://open.spotify.com/track/7bVHnV7at3Bj8xdeSu6enh) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [SOS](https://open.spotify.com/album/6wNrAQ4w4SnU3fLnZpjQRp) | 3:00 |
+| 38 | [乱気](https://open.spotify.com/track/45pAexUCqZePSDy6HFNIAH) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [乱気](https://open.spotify.com/album/2CW8vP5hLBcFNJgPmg3Dn3) | 3:41 |
+| 39 | [我愛你 \(feat\. 磯野くん\)](https://open.spotify.com/track/0zBdQxJ1tty20aTCUhYNoh) | [SUTEZENI](https://open.spotify.com/artist/5M4LfrkfAT02o9M5HCI3Mt), [WAZGOGG](https://open.spotify.com/artist/7FsxjSM1Naj6x4BYp7cXm5), [磯野くん](https://open.spotify.com/artist/48UwOs44kquyWN7FoUZCTG) | [我愛你 \(feat\. 磯野くん\)](https://open.spotify.com/album/0O7b3783AUBZHCNv0rzhZN) | 3:22 |
 
-Snapshot ID: `AAAAAPe5khOxz8EH0NzcAl8CBV3ohv/J`
+Snapshot ID: `AAAAAD7r+FJx1Ecs+veFSKg1iOTk1Qf/`

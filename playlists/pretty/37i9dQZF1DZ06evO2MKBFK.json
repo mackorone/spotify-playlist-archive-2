@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 637684,
+  "num_followers": 637680,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAADFJmbBoYY9Ci0rGHpehLQA",
+  "snapshot_id": "akmegAAAAACQTUm82c3ErvjH+60Vn8Xr",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 211926,
-      "name": "LET'S NOT FALL IN LOVE",
-      "url": "https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T"
+      "duration_ms": 219370,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 219370,
-      "name": "LOSER",
-      "url": "https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z"
+      "duration_ms": 211926,
+      "name": "LET'S NOT FALL IN LOVE",
+      "url": "https://open.spotify.com/track/6UgkB0xM45TR3Zjqm3GQ6T"
     },
     {
       "added_at": null,
@@ -511,18 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "BigBang First Single",
-        "url": "https://open.spotify.com/album/3nfvdW6RJSRkIGcqy1wJ8K"
+        "name": "BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
+        "url": "https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB"
       },
       "artists": [
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
         }
       ],
-      "duration_ms": 238293,
-      "name": "We belong together",
-      "url": "https://open.spotify.com/track/7mm0wCVAg6iigOXWEfd4P3"
+      "duration_ms": 224053,
+      "name": "Untitled, 2014 - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
+      "url": "https://open.spotify.com/track/2C0LOJPcnVcSKCX3N0DqEn"
     },
     {
       "added_at": null,
@@ -559,22 +563,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
-        "url": "https://open.spotify.com/album/2eIjByPSAvov7cdnzpohZB"
+        "name": "BigBang First Single",
+        "url": "https://open.spotify.com/album/3nfvdW6RJSRkIGcqy1wJ8K"
       },
       "artists": [
         {
           "name": "BIGBANG",
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
         }
       ],
-      "duration_ms": 224053,
-      "name": "Untitled, 2014 - BIGBANG JAPAN DOME TOUR 2017 -LAST DANCE- : THE FINAL",
-      "url": "https://open.spotify.com/track/2C0LOJPcnVcSKCX3N0DqEn"
+      "duration_ms": 238293,
+      "name": "We belong together",
+      "url": "https://open.spotify.com/track/7mm0wCVAg6iigOXWEfd4P3"
     },
     {
       "added_at": null,

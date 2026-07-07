@@ -4,7 +4,7 @@
 
 > OffAxisGigs.com \| Indie \| Folk \| Electro \| Rock \| Pop
 
-301 songs - 18 hr 38 min
+303 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Deep Water](https://open.spotify.com/track/0mxOqMRyj73HBPszDNbo14) | [Pelowska](https://open.spotify.com/artist/6HCIPCFFARpEL7rhF1AZjx), [Marko Tomasović](https://open.spotify.com/artist/3gClSMiiOGJS4oFD4rMBgT) | [END / START](https://open.spotify.com/album/7JIUCnaRLn6oHN5MOsFj97) | 4:49 | 2026-02-01 |  |
 | [Demon Child](https://open.spotify.com/track/1APdKAaLRrC8zxGCeC44aw) | [Lemon Drink](https://open.spotify.com/artist/4xhgDsYJiSnOB4C4IMuIc6) | [Demon Child](https://open.spotify.com/album/0yvhxzJ7RAjtKFZAQQERo9) | 3:51 | 2026-02-01 | 2026-06-20 |
 | [Dernière Étoile](https://open.spotify.com/track/5n7RiIfT7XH52rEni7RDzs) | [La Nuit Américaine](https://open.spotify.com/artist/5WJizH3K1fRjTS2dYtpVCf) | [Nuit Américaine](https://open.spotify.com/album/3TFBesg2Fc6yepd6JBDzWC) | 4:36 | 2026-06-19 |  |
+| [DEVOUR](https://open.spotify.com/track/7N0SBUaJMk8Ch5WN5D2ofY) | [Fog Bandits](https://open.spotify.com/artist/2w3I7VwpOlYBEoNoNVk0OZ) | [DEVOUR](https://open.spotify.com/album/1mmvnfYXe4XNWN1LR84Tii) | 4:01 | 2026-07-06 |  |
 | [Dharma](https://open.spotify.com/track/4IUKBK0I1Lxp3UPxptRMrd) | [Homegrownalwaysbest](https://open.spotify.com/artist/3EwGYKjWb6aQXjammXz7T7), [Neil 'The Wee Man' Bratchpiece](https://open.spotify.com/artist/5RrTCaow69RvY5WZ4NcOJg) | [Vol 1 \(Experience, Strength and Broke\)](https://open.spotify.com/album/01z5Nb8LDu6uuBixU3mozy) | 2:47 | 2026-02-02 | 2026-05-04 |
 | [Dirty Linen](https://open.spotify.com/track/7a2joG9xAddc4If99e3VgT) | [San Jose](https://open.spotify.com/artist/4S7RqxJANGm2g4AmBQuCJr) | [Dirty Linen](https://open.spotify.com/album/2mr5EhiamDordD4faUEJiH) | 6:30 | 2025-12-18 | 2025-12-29 |
 | [Discovery](https://open.spotify.com/track/2uGf4yX5VOuPSCXSXMBfCW) | [Calum Baird](https://open.spotify.com/artist/04J4L4jowMcqbzD05TnGGk) | [Discovery](https://open.spotify.com/album/0TNxTcGppXOra50WkTervA) | 2:36 | 2026-05-03 |  |
@@ -293,6 +294,7 @@
 | [Up For Air](https://open.spotify.com/track/3ugL72Ej1a4UeeDhHdc1RM) | [Beauty Sleep](https://open.spotify.com/artist/28Ok1CLqynsSq1X428Gj0U) | [The Whole Damn Cake](https://open.spotify.com/album/4uIRYDvvMsGHNwElSt1Rqr) | 3:55 | 2025-11-23 | 2026-02-27 |
 | [Venom](https://open.spotify.com/track/0YyzrNZkNhvko89UdtqUpM) | [Pelowska](https://open.spotify.com/artist/6HCIPCFFARpEL7rhF1AZjx) | [Venom](https://open.spotify.com/album/5WdKAIw4iLl4Q6ogryV1ZS) | 3:39 | 2025-11-16 | 2026-02-02 |
 | [Versions](https://open.spotify.com/track/0TkWm7kNivR7kyTXEcOsf4) | [Moody Moody](https://open.spotify.com/artist/5PYfCBxp2YxG6asOPw4akG) | [Versions](https://open.spotify.com/album/1g23Umalf0qsDb6s1fYpg2) | 3:53 | 2026-02-22 | 2026-05-04 |
+| [VILE](https://open.spotify.com/track/4EoQv0pEK6p8yQZKL5QtrG) | [Fog Bandits](https://open.spotify.com/artist/2w3I7VwpOlYBEoNoNVk0OZ) | [VILE](https://open.spotify.com/album/0F7PJ8a8WxKpRFjCoANC3M) | 2:58 | 2026-07-06 |  |
 | [Walk Of Shame](https://open.spotify.com/track/1omqJvBW6elx8A4O3neTXJ) | [Cathal Fitz](https://open.spotify.com/artist/2N03xrnhfMK53tCtDnWQed) | [Walk Of Shame](https://open.spotify.com/album/51JkU9PDbOr0NPKjokIYjs) | 3:00 | 2026-03-21 |  |
 | [Warm Days In December](https://open.spotify.com/track/3MSazpukrmtC31wP1DoDv5) | [Acolyte](https://open.spotify.com/artist/2WS5J5EEkNwtJ1IbAnzMlX) | [The Blue Dark](https://open.spotify.com/album/6FDe7YLa2T9E14fZ5eAhag) | 4:21 | 2026-06-07 | 2026-06-15 |
 | [Warm/Safe](https://open.spotify.com/track/4vTSzMD8DYx69XgU0EZ3Md) | [Mark Hegan](https://open.spotify.com/artist/7crr46eJh3TVrvWKovT5mr) | [Warm/Safe](https://open.spotify.com/album/5ewK2wWp6uFddofEn3x9bO) | 2:55 | 2025-12-18 |  |

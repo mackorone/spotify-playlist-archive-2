@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: Keyveatz)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. (Cover: i-dle)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -3812,6 +3812,24 @@
       "duration_ms": 184240,
       "name": "Giddy",
       "url": "https://open.spotify.com/track/6blIAzkMKENKqAfMwj5cZQ"
+    },
+    {
+      "album": {
+        "name": "We made",
+        "url": "https://open.spotify.com/album/0tWni9oyD9KVezCagLiJsK"
+      },
+      "artists": [
+        {
+          "name": "i-dle",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146880,
+      "name": "Gimme Dat Love",
+      "url": "https://open.spotify.com/track/7mL5uO7vL8FMnzFcLd7SLG"
     },
     {
       "album": {
@@ -7700,7 +7718,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 154000,
       "name": "OXY",
       "url": "https://open.spotify.com/track/64OohQXYTPd5LA3wfJWAau"

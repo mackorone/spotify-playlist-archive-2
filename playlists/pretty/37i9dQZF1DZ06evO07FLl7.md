@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 
 > This is Tassia Reis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,363 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,366 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 41 | [Black Loro](https://open.spotify.com/track/4varAkeoHYFdmFXxiz1VTs) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Imundo](https://open.spotify.com/album/1J5tvGAHp4FLvx8biG8Hop) | 2:45 |
 | 42 | [Perigo](https://open.spotify.com/track/5btFYoiyAJeuyaXCppYmri) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/1qoq2XVihlVN9H9x48A45k) | 3:37 |
 | 43 | [Me Diga](https://open.spotify.com/track/70PYwbbOgWXjTCtzAUV53l) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/5lPf3mZW1C3ftYCbTklzC3) | 3:30 |
-| 44 | [Me Beije](https://open.spotify.com/track/1berLAehxGY70nYh1bPPfF) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Próspera D+](https://open.spotify.com/album/5exDobh8Uos33Hw27BPmhM) | 4:00 |
-| 45 | [Asas](https://open.spotify.com/track/0AplPtzxaA6j9itdfQQ6vV) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE) | 3:22 |
+| 44 | [Asas](https://open.spotify.com/track/0AplPtzxaA6j9itdfQQ6vV) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Tássia Reis](https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE) | 3:22 |
+| 45 | [Mais Que Refrão](https://open.spotify.com/track/4qrdkScerZHlGLpMg62yM9) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Bem Longe do Fim](https://open.spotify.com/album/2oAIZ24pZgBQt08z0jtl2h) | 2:45 |
 | 46 | [Ouça\-Me R M X](https://open.spotify.com/track/0YH8930FX7C87DUMZIIpii) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Outra Esfera](https://open.spotify.com/album/1qoq2XVihlVN9H9x48A45k) | 3:54 |
-| 47 | [Magenta](https://open.spotify.com/track/20jar3jBKUq0ojEgHDOD5A) | [Afroito](https://open.spotify.com/artist/1qw5CiJU0QdsGdCdjkC7ue), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym) | [Mango02](https://open.spotify.com/album/7FJ2UdIC4mXIRlmoyERVxk) | 3:11 |
-| 48 | [Mais Que Refrão](https://open.spotify.com/track/4qrdkScerZHlGLpMg62yM9) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Bem Longe do Fim](https://open.spotify.com/album/2oAIZ24pZgBQt08z0jtl2h) | 2:45 |
+| 47 | [Me Beije](https://open.spotify.com/track/1berLAehxGY70nYh1bPPfF) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Nelson D](https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof) | [Próspera D+](https://open.spotify.com/album/5exDobh8Uos33Hw27BPmhM) | 4:00 |
+| 48 | [Magenta](https://open.spotify.com/track/20jar3jBKUq0ojEgHDOD5A) | [Afroito](https://open.spotify.com/artist/1qw5CiJU0QdsGdCdjkC7ue), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Theo Zagrae](https://open.spotify.com/artist/0pX9KfvxYdwXSh43fX4t8z), [MangoLab](https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym) | [Mango02](https://open.spotify.com/album/7FJ2UdIC4mXIRlmoyERVxk) | 3:11 |
 | 49 | [Patrão](https://open.spotify.com/track/6qvJIyQ7VyA04jrIXEUarf) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Patrão](https://open.spotify.com/album/6NKfGwJVwcC6X0vcuzuIf7) | 3:38 |
 | 50 | [Agora Que Eu Quero Ver](https://open.spotify.com/track/7KlUUKDSmDaydfFFq3cQ8w) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Douglas Sã](https://open.spotify.com/artist/3dpBMPqv6q7CtmfpNaO4AH) | [Tássia Reis](https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE) | 3:05 |
 
-Snapshot ID: `akhNAAAAAAB4xgbzrDO6s6+JyjtYVMaR`
+Snapshot ID: `akmegAAAAAAWFiLUSLmSGzer0Hdlel+M`

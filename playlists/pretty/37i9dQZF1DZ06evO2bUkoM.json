@@ -1,12 +1,12 @@
 {
   "description": "This is Hayley Kiyoko. The essential tracks, all in one playlist.",
-  "num_followers": 49205,
+  "num_followers": 49203,
   "original_name": "This Is Hayley Kiyoko",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAAB8W/nRcJSxyPYfodJFXddb",
+  "snapshot_id": "akmegAAAAABLh5BdqJ3l21occz0IRsMC",
   "tracks": [
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 174266,
-      "name": "falling through (from the motion picture)",
-      "url": "https://open.spotify.com/track/2KBe1zbcZKgj9upAk7eXef"
+      "duration_ms": 167034,
+      "name": "choker",
+      "url": "https://open.spotify.com/track/7v7kKPOcnvwHTRKmwzLN5g"
     },
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 167034,
-      "name": "choker",
-      "url": "https://open.spotify.com/track/7v7kKPOcnvwHTRKmwzLN5g"
+      "duration_ms": 174266,
+      "name": "falling through (from the motion picture)",
+      "url": "https://open.spotify.com/track/2KBe1zbcZKgj9upAk7eXef"
     },
     {
       "added_at": null,
@@ -507,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Missed Calls (feat. Hayley Kiyoko)",
-        "url": "https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI"
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
       },
       "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 154324,
-      "name": "Missed Calls (feat. Hayley Kiyoko)",
-      "url": "https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv"
+      "duration_ms": 240840,
+      "name": "Palace",
+      "url": "https://open.spotify.com/track/46PIPQSUEmFqLQyq3r4QS4"
     },
     {
       "added_at": null,
@@ -543,18 +539,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Citrine EP",
-        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+        "name": "Missed Calls (feat. Hayley Kiyoko)",
+        "url": "https://open.spotify.com/album/3tZEt4VTy1IzCDZpX5XXoI"
       },
       "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 240840,
-      "name": "Palace",
-      "url": "https://open.spotify.com/track/46PIPQSUEmFqLQyq3r4QS4"
+      "duration_ms": 154324,
+      "name": "Missed Calls (feat. Hayley Kiyoko)",
+      "url": "https://open.spotify.com/track/7oFpSsfjl8ElUesHJPT8Cv"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Side of Paradise",
-        "url": "https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v"
+        "name": "Citrine EP",
+        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 211965,
-      "name": "This Side of Paradise",
-      "url": "https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx"
+      "duration_ms": 235466,
+      "name": "One Bad Night",
+      "url": "https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Citrine EP",
-        "url": "https://open.spotify.com/album/0IVkJqIARRTnXot11Ps2SE"
+        "name": "This Side of Paradise",
+        "url": "https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 235466,
-      "name": "One Bad Night",
-      "url": "https://open.spotify.com/track/098KHkooQ95mfdtdUJrRut"
+      "duration_ms": 211965,
+      "name": "This Side of Paradise",
+      "url": "https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx"
     },
     {
       "added_at": null,
@@ -639,6 +639,30 @@
       "duration_ms": 228431,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/1Soa5Axg9Ob0XVYNqXhisX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bang! (feat. Hayley Kiyoko - AhhHaa Remix)",
+        "url": "https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        },
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "AhhHaa",
+          "url": "https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m"
+        }
+      ],
+      "duration_ms": 167649,
+      "name": "Bang! - feat. Hayley Kiyoko - AhhHaa Remix",
+      "url": "https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy"
     },
     {
       "added_at": null,
@@ -667,30 +691,6 @@
       "duration_ms": 155975,
       "name": "Taste So Good (The Cann Song)",
       "url": "https://open.spotify.com/track/5QfungSRYsaCetJfRdazI3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bang! (feat. Hayley Kiyoko - AhhHaa Remix)",
-        "url": "https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04"
-      },
-      "artists": [
-        {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
-        },
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "AhhHaa",
-          "url": "https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m"
-        }
-      ],
-      "duration_ms": 167649,
-      "name": "Bang! - feat. Hayley Kiyoko - AhhHaa Remix",
-      "url": "https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy"
     },
     {
       "added_at": null,
@@ -791,26 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Glory Days (feat. Hayley Kiyoko) [Party Pupils Remix]",
-        "url": "https://open.spotify.com/album/3JH2u1LgVvwsCppzohPDBu"
+        "name": "Phantoms",
+        "url": "https://open.spotify.com/album/0UhmXh4kJDbIhL9EeEcxCA"
       },
       "artists": [
         {
-          "name": "Sweater Beats",
-          "url": "https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY"
+          "name": "Phantoms",
+          "url": "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw"
         },
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Party Pupils",
-          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
         }
       ],
-      "duration_ms": 168344,
-      "name": "Glory Days (feat. Hayley Kiyoko) - Party Pupils Remix",
-      "url": "https://open.spotify.com/track/3CZqTaiEQdN61xQP58BNRO"
+      "duration_ms": 252973,
+      "name": "Need You Closer",
+      "url": "https://open.spotify.com/track/4ogCiDj7Np9jurdXceYg5a"
     },
     {
       "added_at": null,
@@ -863,22 +859,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phantoms",
-        "url": "https://open.spotify.com/album/0UhmXh4kJDbIhL9EeEcxCA"
+        "name": "Glory Days (feat. Hayley Kiyoko) [Party Pupils Remix]",
+        "url": "https://open.spotify.com/album/3JH2u1LgVvwsCppzohPDBu"
       },
       "artists": [
         {
-          "name": "Phantoms",
-          "url": "https://open.spotify.com/artist/1bJJlRHoc1UVeqzxcrPLIw"
+          "name": "Sweater Beats",
+          "url": "https://open.spotify.com/artist/62Jfwxon19ZOT9eSL6bvtY"
         },
         {
           "name": "Hayley Kiyoko",
           "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Party Pupils",
+          "url": "https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt"
         }
       ],
-      "duration_ms": 252973,
-      "name": "Need You Closer",
-      "url": "https://open.spotify.com/track/4ogCiDj7Np9jurdXceYg5a"
+      "duration_ms": 168344,
+      "name": "Glory Days (feat. Hayley Kiyoko) - Party Pupils Remix",
+      "url": "https://open.spotify.com/track/3CZqTaiEQdN61xQP58BNRO"
     },
     {
       "added_at": null,

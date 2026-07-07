@@ -1,12 +1,12 @@
 {
   "description": "This is Fuerza Regida. The essential tracks, all in one playlist.",
-  "num_followers": 851417,
+  "num_followers": 851763,
   "original_name": "This Is Fuerza Regida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAADl8irncYb0EvL8/th3Z5Gf",
+  "snapshot_id": "akmegAAAAACgtZukYr+oggTXeVMBMgk2",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ETERNO",
+        "url": "https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 204321,
+      "name": "Noche Perfecta",
+      "url": "https://open.spotify.com/track/3DEPnIQZWIcpRUwH5O0J6O"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FERRARI",
         "url": "https://open.spotify.com/album/2gwCniqY1EvKAjcZYwhAto"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 134181,
       "name": "FERRARI",
       "url": "https://open.spotify.com/track/6LPA5jARmoB8MYsZoHFjIW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ETERNO",
-        "url": "https://open.spotify.com/album/6yNzRHzjoxFZ4rpgvCudT7"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 204321,
-      "name": "Noche Perfecta",
-      "url": "https://open.spotify.com/track/3DEPnIQZWIcpRUwH5O0J6O"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERO NO TE ENAMORES",
-        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 181578,
-      "name": "BELLA",
-      "url": "https://open.spotify.com/track/7flg5peNvW82lmpT6nVtbZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dolido Pero No Arrepentido",
         "url": "https://open.spotify.com/album/5WPTc1Xa8REVDQ5YazhNgv"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 161164,
       "name": "OYE",
       "url": "https://open.spotify.com/track/5D0N7a6vursEiO2jAC7dAF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERO NO TE ENAMORES",
+        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 181578,
+      "name": "BELLA",
+      "url": "https://open.spotify.com/track/7flg5peNvW82lmpT6nVtbZ"
     },
     {
       "added_at": null,

@@ -141,6 +141,28 @@
     },
     {
       "album": {
+        "name": "Aane Wala Star",
+        "url": "https://open.spotify.com/album/6oh1KtCCDzeuzdFbZV1AW5"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Dholu bholu",
+          "url": "https://open.spotify.com/artist/3P1t2nnqpPMD8auDRSSZy6"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132712,
+      "name": "Aane Wala Star",
+      "url": "https://open.spotify.com/track/34520Ev0rl6reqiIKSr2eK"
+    },
+    {
+      "album": {
         "name": "Ace of Hearts (From \"Ace\")",
         "url": "https://open.spotify.com/album/6jJk7L2xz36cCnqG5gQQCa"
       },
@@ -1492,7 +1514,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 91764,
       "name": "Hukum Reloaded - Tamil (From \"Jailer 2\")",
       "url": "https://open.spotify.com/track/57IV0hLaFBsJItvjSLu601"
@@ -3140,7 +3162,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 53248,
       "name": "Rolex Theme - Background Score",
       "url": "https://open.spotify.com/track/3Vb8KkT6Ub5fFGPYJCJyLh"
@@ -3790,7 +3812,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-18",
+      "date_removed": null,
       "duration_ms": 30753,
       "name": "The Maari Swag",
       "url": "https://open.spotify.com/track/1kZwVm0A2GWyBm4Oi2BFGX"

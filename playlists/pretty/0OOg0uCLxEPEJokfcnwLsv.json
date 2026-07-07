@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1119,
+  "num_followers": 1129,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGkfwkYrYp+Mm0L8zUIC/pjuZ9k9CO",
+  "snapshot_id": "AAAGlxJtRHiPe0KLJbK6xE5sJh/bDlXj",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1763,6 +1763,102 @@
       "duration_ms": 203135,
       "name": "Cage",
       "url": "https://open.spotify.com/track/3TurCW23kV3k57o4L96Y8R"
+    },
+    {
+      "added_at": "2026-07-06 14:29:07",
+      "album": {
+        "name": "Take It Slow",
+        "url": "https://open.spotify.com/album/42PtlSIKiTLcqlVdEgmQRo"
+      },
+      "artists": [
+        {
+          "name": "Saturday Night Vacancy",
+          "url": "https://open.spotify.com/artist/0DTM6PJDosHIUwTj2e2dHU"
+        }
+      ],
+      "duration_ms": 215378,
+      "name": "Take It Slow",
+      "url": "https://open.spotify.com/track/4uxCC6Ylti82OFZRYnKfA2"
+    },
+    {
+      "added_at": "2026-07-06 14:29:25",
+      "album": {
+        "name": "Infectious",
+        "url": "https://open.spotify.com/album/0gL0fHZvzwODSW0jOJ9BMP"
+      },
+      "artists": [
+        {
+          "name": "Paranoize",
+          "url": "https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "Infectious",
+      "url": "https://open.spotify.com/track/3p2ikRjARPokez7R61CUe9"
+    },
+    {
+      "added_at": "2026-07-06 14:35:30",
+      "album": {
+        "name": "Sick!",
+        "url": "https://open.spotify.com/album/1lXKY85pNjdwFbkpAy4Nj5"
+      },
+      "artists": [
+        {
+          "name": "Pet Taxi",
+          "url": "https://open.spotify.com/artist/2nQkFrDhzQcQVI2ZIW8n5A"
+        }
+      ],
+      "duration_ms": 179877,
+      "name": "Sick!",
+      "url": "https://open.spotify.com/track/2A00B4SjJEASXKfu4zJ8c8"
+    },
+    {
+      "added_at": "2026-07-06 14:39:57",
+      "album": {
+        "name": "Renegade",
+        "url": "https://open.spotify.com/album/3vYFD37Z4kBwKK9VypycbE"
+      },
+      "artists": [
+        {
+          "name": "Nitrate",
+          "url": "https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8"
+        }
+      ],
+      "duration_ms": 271952,
+      "name": "You Think You've Got It",
+      "url": "https://open.spotify.com/track/0yMfVMcr9vOBhWj3iU7O8f"
+    },
+    {
+      "added_at": "2026-07-06 14:57:30",
+      "album": {
+        "name": "Dirt Floor",
+        "url": "https://open.spotify.com/album/0dZj8stSDgbnelvEhYq6Fy"
+      },
+      "artists": [
+        {
+          "name": "Graveyard Choir",
+          "url": "https://open.spotify.com/artist/0RtF7RdYO3Jfhmw0JQSmX2"
+        }
+      ],
+      "duration_ms": 250318,
+      "name": "Dirt Floor",
+      "url": "https://open.spotify.com/track/4yDBUJz9ILXz9CtojpyzQU"
+    },
+    {
+      "added_at": "2026-07-06 14:58:23",
+      "album": {
+        "name": "Every Time I Look At You",
+        "url": "https://open.spotify.com/album/5B6nQwn021EAFMgZpcWfNy"
+      },
+      "artists": [
+        {
+          "name": "Whisky Sugar",
+          "url": "https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6"
+        }
+      ],
+      "duration_ms": 260741,
+      "name": "Every Time I Look At You",
+      "url": "https://open.spotify.com/track/1iOynYeos1FxRg826Amytc"
     }
   ],
   "unique_name": "Unsigned Rock",

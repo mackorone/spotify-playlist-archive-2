@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from Dato' Sri Siti Nurhaliza, Firdhaus, SIENNA SPIRO, Madonna, sunkis, FLO, DIOR 大穎, Fazura, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,324 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,314 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 64 | [when the sky feels low](https://open.spotify.com/track/2hihyFOVsHSQy4xri9Q6ya) | [CËLYN](https://open.spotify.com/artist/6wP3AwV6ANxcnoRzEkvugV) | [when the sky feels low](https://open.spotify.com/album/6RsmleDwEWQvvwidxfQ9z4) | 4:30 |
 | 65 | [有阿嫲的家](https://open.spotify.com/track/7z4hgmNfhRzWNgpDALP30z) | [Axel Lee](https://open.spotify.com/artist/6B059bbTrfWflsiIUN7DLq) | [有阿嫲的家](https://open.spotify.com/album/26baUAinUN62yBowZyaDwy) | 3:15 |
 | 66 | [Pergi Saja Dariku](https://open.spotify.com/track/1PU4iLIixIYxfI004zAfuF) | [Hezron Atmosfera](https://open.spotify.com/artist/5urm8jRFFEkaRJeDXe2XYv), [Rayner Rupin](https://open.spotify.com/artist/3qGBfk0YdOU2HHBD3kRp5I) | [Pergi Saja Dariku](https://open.spotify.com/album/1MwuzCqMVrHAfgkFxrhBJu) | 3:22 |
-| 67 | [Why do tears fall from our eyes when we cry?](https://open.spotify.com/track/2dFka6qvgbz35Vsy7iy7m4) | [Mark Ho](https://open.spotify.com/artist/0aDloVdAf1IqGtU0BJavF2) | [LESSONS IN LETTING GO](https://open.spotify.com/album/358umKN66YJO2LbpY9l1GM) | 4:01 |
+| 67 | [Why do tears fall from our eyes when we cry?](https://open.spotify.com/track/2dFka6qvgbz35Vsy7iy7m4) | [Mark Ho](https://open.spotify.com/artist/0aDloVdAf1IqGtU0BJavF2) | [Lessons in Letting Go](https://open.spotify.com/album/358umKN66YJO2LbpY9l1GM) | 4:01 |
 | 68 | [Kata Pujangga](https://open.spotify.com/track/6LjIOQp1We9GAFd18CwxKB) | [D'pujanggas](https://open.spotify.com/artist/38haUzEvZOyG5qKEcxji03) | [Kata Pujangga](https://open.spotify.com/album/6US9fso4GDgSs7vHSG20At) | 4:00 |
 | 69 | [王子的新衣](https://open.spotify.com/track/0ByCm3QWBWeshuDmpSMToW) | [Calvin 李忠伦](https://open.spotify.com/artist/1vJpjk0BTpwo8fJ6OEtl0C) | [王子的新衣](https://open.spotify.com/album/1e1n3ymihZHeWdBNH04x7E) | 3:22 |
 | 70 | [SAYONARA PENGUIN](https://open.spotify.com/track/2xJ66XR7lbKqL55J70cXqJ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [SAYONARA PENGUIN](https://open.spotify.com/album/0u2IUCYS6AOwLuOF7ulAXP) | 1:51 |

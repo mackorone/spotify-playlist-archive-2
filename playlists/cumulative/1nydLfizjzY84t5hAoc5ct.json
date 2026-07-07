@@ -1439,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "DEVOUR",
+        "url": "https://open.spotify.com/album/1mmvnfYXe4XNWN1LR84Tii"
+      },
+      "artists": [
+        {
+          "name": "Fog Bandits",
+          "url": "https://open.spotify.com/artist/2w3I7VwpOlYBEoNoNVk0OZ"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241379,
+      "name": "DEVOUR",
+      "url": "https://open.spotify.com/track/7N0SBUaJMk8Ch5WN5D2ofY"
+    },
+    {
+      "album": {
         "name": "Vol 1 (Experience, Strength and Broke)",
         "url": "https://open.spotify.com/album/01z5Nb8LDu6uuBixU3mozy"
       },
@@ -5372,6 +5390,24 @@
       "duration_ms": 233500,
       "name": "Versions",
       "url": "https://open.spotify.com/track/0TkWm7kNivR7kyTXEcOsf4"
+    },
+    {
+      "album": {
+        "name": "VILE",
+        "url": "https://open.spotify.com/album/0F7PJ8a8WxKpRFjCoANC3M"
+      },
+      "artists": [
+        {
+          "name": "Fog Bandits",
+          "url": "https://open.spotify.com/artist/2w3I7VwpOlYBEoNoNVk0OZ"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178877,
+      "name": "VILE",
+      "url": "https://open.spotify.com/track/4EoQv0pEK6p8yQZKL5QtrG"
     },
     {
       "album": {

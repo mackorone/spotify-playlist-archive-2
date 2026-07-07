@@ -4,18 +4,20 @@
 
 > Music from "Mushoku Tensei: Jobless Reincarnation" ©理不尽な孫の手/MFブックス/「無職転生Ⅱ」製作委員会
 
-116 songs - 5 hr 22 min
+118 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5年後の約束!](https://open.spotify.com/track/64S5ERQe0DY2ZOkzlALoCp) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/0TfkBkBMpvVJCVF9LVTAeH) | 1:46 | 2023-10-02 | 2024-04-19 |
 | [5年後の約束!](https://open.spotify.com/track/70WvqyD7O8zcDw63kbquxm) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/5lTvav1e07wHkyaqrsLciC) | 1:46 | 2024-04-16 |  |
+| [Chronicle](https://open.spotify.com/track/06kgBaPIYJkaPDoSMj1vPL) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [Chronicle](https://open.spotify.com/album/3QojesQHL8iwoOUoQxC7qo) | 4:05 | 2026-07-07 |  |
 | [Clover](https://open.spotify.com/track/2a4oQP0wKJYdM6uNtFPsuW) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [Clover](https://open.spotify.com/album/6UWQBenrl3MkzGcQDXL5Pd) | 4:20 | 2023-10-02 | 2024-04-19 |
 | [Clover](https://open.spotify.com/track/4wYbk8RhLKCmXjVgdaSIYI) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [Clover](https://open.spotify.com/album/62hUh3QSVanA4glm2u8DH3) | 4:20 | 2024-04-16 |  |
 | [Clover \- instrumental ver.](https://open.spotify.com/track/2AAkHfFxzTPpbCMAMEUfKq) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/3oh7Y1kjqDwbEhLZiD1ZqV) | 1:50 | 2024-04-16 | 2024-07-03 |
 | [Clover \- instrumental ver.](https://open.spotify.com/track/3yq5HzyokYz0TjVnMbatUB) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/7Hj3o4iLjM6UeDxd9qTC5i) | 1:50 | 2023-10-02 | 2024-04-19 |
 | [Critical The Situation](https://open.spotify.com/track/1UUc9ZInb1FrdzVDbKTqE3) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/7Hj3o4iLjM6UeDxd9qTC5i) | 2:22 | 2023-10-02 | 2024-04-19 |
 | [Critical The Situation](https://open.spotify.com/track/3sTL8fhsYM9JP6CdIDlPjC) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/3oh7Y1kjqDwbEhLZiD1ZqV) | 2:22 | 2024-04-16 | 2024-07-03 |
+| [Ketsui no Uta](https://open.spotify.com/track/4lOOJXa8XJWOmT5Ha3COIu) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [Ketsui no Uta](https://open.spotify.com/album/65iDfm5MMg21JIyDiUVg9o) | 3:50 | 2026-07-07 |  |
 | [spiral](https://open.spotify.com/track/6xAIVrhyFQaHwPVWfUvWvE) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [spiral](https://open.spotify.com/album/5TcOT3xsaZzNiocd2Faxzs) | 3:51 | 2023-10-02 |  |
 | [かげくらべの唄](https://open.spotify.com/track/5ZVwgbV1wAnyWXTzTxRfKv) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [かげくらべの唄](https://open.spotify.com/album/1wscrF8e8yuOYsFV9hoIJm) | 4:33 | 2024-07-02 |  |
 | [まだ見ぬ世界](https://open.spotify.com/track/2KR6vXG1sQMqlHyRKiH2Pi) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/5lTvav1e07wHkyaqrsLciC) | 1:59 | 2024-04-16 |  |
@@ -44,7 +46,7 @@
 | [ルディの失態](https://open.spotify.com/track/4vHLjOj2i57vGQ4v4zhzw9) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/5lTvav1e07wHkyaqrsLciC) | 1:40 | 2024-04-16 | 2024-07-03 |
 | [ロキシーからの贈り物](https://open.spotify.com/track/21ip8UhT2XYFhl9D9vRWJn) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/5lTvav1e07wHkyaqrsLciC) | 2:25 | 2024-04-16 |  |
 | [ロキシーからの贈り物](https://open.spotify.com/track/3wlqgluPpAFZ4ACAlINI33) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/0TfkBkBMpvVJCVF9LVTAeH) | 2:25 | 2023-10-02 | 2024-04-19 |
-| [ロキシーの優しさ](https://open.spotify.com/track/5o6Ch6DmnCAUX8ry8X4QGw) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック \(2\)](https://open.spotify.com/album/7E981QJx5UnrKXDosTS5I7) | 3:11 | 2024-07-02 |  |
+| [ロキシーの優しさ](https://open.spotify.com/track/5o6Ch6DmnCAUX8ry8X4QGw) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック \(2\)](https://open.spotify.com/album/7E981QJx5UnrKXDosTS5I7) | 3:11 | 2024-07-02 | 2026-07-07 |
 | [ロキシー最後の授業](https://open.spotify.com/track/4WCJDQOo2wXTKA2H9zeBAt) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/0TfkBkBMpvVJCVF9LVTAeH) | 1:45 | 2023-10-02 | 2024-04-19 |
 | [ロキシー最後の授業](https://open.spotify.com/track/62bECrheiWOUVvmixqcwQe) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/5lTvav1e07wHkyaqrsLciC) | 1:45 | 2024-04-16 | 2024-07-03 |
 | [内緒](https://open.spotify.com/track/13VhJNx5l4ynzVDS2a5Bnn) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/3oh7Y1kjqDwbEhLZiD1ZqV) | 2:37 | 2024-04-16 | 2024-07-03 |
@@ -86,7 +88,7 @@
 | [敵襲](https://open.spotify.com/track/4AYlgFEEdsDkS7HysUjCAM) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/7Hj3o4iLjM6UeDxd9qTC5i) | 2:20 | 2023-10-02 | 2024-04-19 |
 | [敵襲](https://open.spotify.com/track/4z6If973fWaVRv2C0cIQBj) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/3oh7Y1kjqDwbEhLZiD1ZqV) | 2:20 | 2024-04-16 |  |
 | [新婚](https://open.spotify.com/track/6bJJIWNkre7gH85vOoe6L8) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック \(2\)](https://open.spotify.com/album/7E981QJx5UnrKXDosTS5I7) | 2:07 | 2024-07-02 |  |
-| [新居探索](https://open.spotify.com/track/7Gfv6dECbT8VIEPvJLeUG8) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック \(2\)](https://open.spotify.com/album/7E981QJx5UnrKXDosTS5I7) | 2:03 | 2024-07-02 |  |
+| [新居探索](https://open.spotify.com/track/7Gfv6dECbT8VIEPvJLeUG8) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック \(2\)](https://open.spotify.com/album/7E981QJx5UnrKXDosTS5I7) | 2:03 | 2024-07-02 | 2026-07-07 |
 | [旅人の唄](https://open.spotify.com/track/4PV6kMVIn85ao77AQzjcDO) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [旅人の唄](https://open.spotify.com/album/0SeB6udUOp1ZapqGeG9APT) | 4:24 | 2024-04-16 |  |
 | [旅人の唄](https://open.spotify.com/track/7fgA5gjOjGlsIPLbUFvHDb) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [TVアニメ『無職転生 \~異世界行ったら本気だす\~』Theme Song Collection](https://open.spotify.com/album/7mRTg2rytQTQynsJOGWkMQ) | 4:24 | 2023-10-02 | 2024-04-19 |
 | [旅人の唄\~帰郷\~](https://open.spotify.com/track/07pyMTwfK3NllKTYolqcNj) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [TVアニメ『無職転生 \~異世界行ったら本気だす\~』Theme Song Collection](https://open.spotify.com/album/7mRTg2rytQTQynsJOGWkMQ) | 4:43 | 2023-10-02 | 2024-04-19 |
@@ -121,7 +123,7 @@
 | [風と行く道](https://open.spotify.com/track/28A3XZwUvTS7dex8SPwIIW) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [風と行く道](https://open.spotify.com/album/10Q04SBLiMQnpnA9xG5tkz) | 5:00 | 2024-04-16 |  |
 | [魔法が存在する世界で](https://open.spotify.com/track/2OTr62fFf3nIWfwyLiQL7J) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/0TfkBkBMpvVJCVF9LVTAeH) | 2:11 | 2023-10-02 | 2024-04-19 |
 | [魔法が存在する世界で](https://open.spotify.com/track/32xa1lPj3WX37eQsS1kTcM) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/5lTvav1e07wHkyaqrsLciC) | 2:11 | 2024-04-16 |  |
-| [魔法陣](https://open.spotify.com/track/3sjb9caXes3A6JdcdE5HMs) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック \(2\)](https://open.spotify.com/album/7E981QJx5UnrKXDosTS5I7) | 2:21 | 2024-07-02 |  |
+| [魔法陣](https://open.spotify.com/track/3sjb9caXes3A6JdcdE5HMs) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック \(2\)](https://open.spotify.com/album/7E981QJx5UnrKXDosTS5I7) | 2:21 | 2024-07-02 | 2026-07-07 |
 | [魔術の授業](https://open.spotify.com/track/5C4LwfvyU5Gy4zxOKpCNIJ) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/0TfkBkBMpvVJCVF9LVTAeH) | 1:54 | 2023-10-02 | 2024-04-19 |
 | [魔術の授業](https://open.spotify.com/track/5iVeLIR31mGTaL09tdvXVr) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/5lTvav1e07wHkyaqrsLciC) | 1:54 | 2024-04-16 |  |
 

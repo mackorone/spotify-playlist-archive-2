@@ -4,7 +4,7 @@
 
 > 
 
-264 songs - 13 hr 54 min
+266 songs - 14 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [I Don't Know](https://open.spotify.com/track/1Nj7VD921R98sjuMK3jMWM) | [Zerener](https://open.spotify.com/artist/2NPVYQkv6uPyD6QsFlbZH5) | [I Don't Know](https://open.spotify.com/album/4JwIlUXBAfiajBuobasvFl) | 3:42 | 2025-04-07 |  |
 | [i don't want to waste your time](https://open.spotify.com/track/0pzN3BuKIw2pXNQndYn4kN) | [jj!s](https://open.spotify.com/artist/2JashvlZeoFOiLpIy6dFE6) | [if june was a person](https://open.spotify.com/album/6Nm96HpjoRZGJjpaimqfM4) | 4:53 | 2026-05-06 |  |
 | [I DON´T WANNA WORK](https://open.spotify.com/track/3L3BwVldv7DV7Htk4BHHMd) | [Elisa Cano Elgarresta](https://open.spotify.com/artist/5GTjjKh3r1rV78HsZ2wFB6) | [I DON´T WANNA WORK](https://open.spotify.com/album/0l4EpsXzxsBtbf85eQFaX3) | 2:59 | 2025-10-30 |  |
+| [i forgive the world because it has you](https://open.spotify.com/track/2OnukW55TRUtQeW2GkS8Rd) | [No Hana](https://open.spotify.com/artist/2O6qXZs283cofBBPPxbMAT) | [i forgive the world because it has you](https://open.spotify.com/album/4Seqmn9ryTWxm0v3TBEHdC) | 3:18 | 2026-07-06 |  |
 | [I Have Myself](https://open.spotify.com/track/3OVsKTZCyeQOWMsa5rvxMN) | [Brave The Storm](https://open.spotify.com/artist/6DPd6AkhKbj2qYKHULOU77), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Taste Oblivion](https://open.spotify.com/album/4KCvc2u5cOguYmwFFdxfP5) | 3:07 | 2026-06-17 |  |
 | [I Hope](https://open.spotify.com/track/3dI1YkpKCJMj2tlZFWPxXE) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [I Hope](https://open.spotify.com/album/3gVWMKoHvzr5UjyH59oB6A) | 3:20 | 2025-08-07 |  |
 | [I Kill Spiders](https://open.spotify.com/track/2jrMjstPcrgWx9ZUIV8qmW) | [Libby Ember](https://open.spotify.com/artist/33b3osf81duwVT6hgdGxba) | [I Kill Spiders](https://open.spotify.com/album/3rwRrvZIMD9kyc5y1qUbP8) | 3:41 | 2025-09-29 |  |
@@ -270,6 +271,7 @@
 | [You at First Sight](https://open.spotify.com/track/5Jb8z94wh7eUBUIhaqoKFm) | [Inorganic Era](https://open.spotify.com/artist/0Y1Z3cpF7xQrAyQKHNadxY) | [You at First Sight](https://open.spotify.com/album/7zGHcgMh4hf5jUm0EgA1z6) | 3:04 | 2025-09-15 |  |
 | [You're not alone](https://open.spotify.com/track/1hXq4ig3y9UmN6DHFaTaGu) | [Basement](https://open.spotify.com/artist/3AJMnPzFJc7MIbaaajhqJw) | [You're not alone](https://open.spotify.com/album/4am4CNnz2fOXVHtQleDG99) | 3:23 | 2026-06-25 |  |
 | [Yourself](https://open.spotify.com/track/3A1vzDBL3IHjzphf83E3mZ) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0), [Paigey Cakey](https://open.spotify.com/artist/1Lfz8ISr2g1d33hirTmajR) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:18 | 2025-12-24 |  |
+| [Çanta](https://open.spotify.com/track/5PciuGV2uEpN04euyW0GW8) | [Yürümeyen Merdiven](https://open.spotify.com/artist/5qxtKwjihWyBWuy7Tjs3ue) | [Çanta](https://open.spotify.com/album/3kMlCInlvl5Rz6miGkC3R6) | 3:47 | 2026-07-06 |  |
 | [Вдыхая](https://open.spotify.com/track/7h0NWQtE9GpPGOwPaocdPF) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 3:03 | 2025-03-12 |  |
 | [Молочный улун](https://open.spotify.com/track/6Gw6lB9PIKJUivZXpI4E9i) | [К Поездам](https://open.spotify.com/artist/65hECiVsNi1wEvzF84pIxV) | [Бозкараган](https://open.spotify.com/album/37VsMcgG0086QMEfFI8jJQ) | 2:07 | 2026-01-31 |  |
 

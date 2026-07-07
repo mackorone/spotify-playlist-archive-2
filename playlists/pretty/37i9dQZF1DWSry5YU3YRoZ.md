@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,708 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,710 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 49 | [dear heart](https://open.spotify.com/track/1l8m2AYyklcReKPLQcGH9d) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:06 |
 | 50 | [of the waves](https://open.spotify.com/track/6vVhoM22t1QCi8AdFvrRzq) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Hope](https://open.spotify.com/album/1AhoIpVoJk7KX5f6hRI9Wv) | 3:11 |
 
-Snapshot ID: `AAAAAD3xiL/Kf248a+Qe8N7XXMPji8O0`
+Snapshot ID: `AAAAAE7VGpxn3MqviFV2Xl4jBCzRs6e7`

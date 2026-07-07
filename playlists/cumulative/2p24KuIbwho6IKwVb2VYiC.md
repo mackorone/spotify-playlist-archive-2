@@ -4,7 +4,7 @@
 
 > The best Dance, House, Bass and EDM tracks right now, curated by <a href="https://www.instagram.com/nightvision/">NIGHTVISION</a>!  Cover: Zeds Dead
 
-423 songs - 22 hr 2 min
+424 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -295,6 +295,7 @@
 | [PARALYZED \- TC/TC](https://open.spotify.com/track/0MD5dh34wT3D599gkS2VLR) | [TC/TC](https://open.spotify.com/artist/20gft9fphM4yg9lDJ1sE94), [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9) | [PARALYZED \(TC/TC\)](https://open.spotify.com/album/350xyy5gGPc8ibqkgMOsMr) | 4:56 | 2024-03-15 | 2025-02-05 |
 | [Party Girl](https://open.spotify.com/track/4yBCo06OTulX4uBdDtKYrr) | [Our Anthem](https://open.spotify.com/artist/0yvdg5HZnoTbaawqVloMZl) | [Party Girl](https://open.spotify.com/album/4SgOSWTYzsSA78jKqFIRpg) | 3:22 | 2024-03-04 | 2025-02-05 |
 | [Party Out](https://open.spotify.com/track/33ZgCVQUBk3Vs5GJJVL5qk) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [A+](https://open.spotify.com/artist/0QUIxJh1rw7FrbtvG6BbnA) | [Party Out](https://open.spotify.com/album/22TJwoQuZnXx8k0XbmGUCz) | 3:29 | 2026-01-19 |  |
+| [Party People](https://open.spotify.com/track/4Rbj7CS2UJq6ehpZgiY7Kw) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Party People](https://open.spotify.com/album/6Q7IXlfNjrI7S3oyc6lcLD) | 3:13 | 2026-07-06 |  |
 | [Past Life](https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Past Life](https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL) | 3:16 | 2023-10-27 | 2023-11-25 |
 | [Past Life \- Koven Remix](https://open.spotify.com/track/0vrM0WITqW7On94qLHfFrX) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Past Life \(Koven Remix\)](https://open.spotify.com/album/03TTEBdmcDUXW9PdTqo5dZ) | 2:30 | 2023-11-24 | 2024-05-13 |
 | [Patience \(with Amadou & Mariam\)](https://open.spotify.com/track/0aDif6YXwDWGPWiDrREe4K) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [Patience \(with Amadou & Mariam\)](https://open.spotify.com/album/25nwZXV9npGbu4CFqvDCb0) | 3:05 | 2025-06-06 |  |
@@ -305,7 +306,7 @@
 | [Problems \- New Beat Order Remix](https://open.spotify.com/track/0ZixJ1wuQY8bmctfUNYFJT) | [Lyan Paris](https://open.spotify.com/artist/3KmJs3ery3PJQuQQ5FOllC), [New Beat Order](https://open.spotify.com/artist/0gQDOj4OisQbTq7FUEziea) | [Problems \(New Beat Order Remix\)](https://open.spotify.com/album/383sjk8WRE7ks2wgEiutBU) | 2:16 | 2023-10-27 | 2023-11-25 |
 | [Puff Puff Pass](https://open.spotify.com/track/5Ox8hVxsmjQnZcH1VptfWQ) | [Kitty Hall](https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ) | [Puff Puff Pass](https://open.spotify.com/album/3RGmezQhWCaExKBcLnube4) | 2:40 | 2026-04-09 |  |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-10-27 | 2023-11-25 |
-| [R U DOWN?](https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [R U DOWN?](https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd) | 2:19 | 2025-06-27 |  |
+| [R U DOWN?](https://open.spotify.com/track/7DPGoEqSqJb8DuMjlwPCaD) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ) | [R U DOWN?](https://open.spotify.com/album/0U4SQdmsqFF9dEeX2lzqKd) | 2:19 | 2025-06-27 | 2026-07-07 |
 | [Rainy \(with REI AMI\)](https://open.spotify.com/track/4feAKLuq3ShnAA84HcUFvf) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [This Mixtape is Fire TOO](https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD) | 2:44 | 2023-12-01 | 2025-02-05 |
 | [Ray Of Solar \- Tiësto Remix](https://open.spotify.com/track/4HfQpalNYBccGOio2lqFbW) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Ray Of Solar \(Tiësto Remix\)](https://open.spotify.com/album/2wu3YZ0c80fgq9IcKhyDHH) | 3:35 | 2023-10-27 | 2025-01-22 |
 | [Ready For Myself](https://open.spotify.com/track/5XOa0uzTTXrjecACgakZEJ) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [7](https://open.spotify.com/album/1XKSDBtyNbaTaScDRGh4nm) | 3:03 | 2024-09-20 | 2026-06-06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 977 likes - 61 songs - 3 hr 34 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 998 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,5 +69,14 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 59 | [Composed](https://open.spotify.com/track/6nAY8qfduqInslOiaId3Vu) | [Paradox](https://open.spotify.com/artist/0Pch3Ue1mQmhop3hfKptd8), [Dj Sean P](https://open.spotify.com/artist/4P08e76i9aRYNoE5c7otBB), [Kid Abstrakt](https://open.spotify.com/artist/0UWaozNVyePawOPEWOdU4w), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [Composed](https://open.spotify.com/album/4HoHSBzQBNGyQxfYdpVr6K) | 2:38 |
 | 60 | [The Spell](https://open.spotify.com/track/1wcNxPDExKr3EdfePoFgmw) | [Alice Sonia\-Michael](https://open.spotify.com/artist/5vx9u71vt3SlGjMuKcgOqr) | [Seconds of Silence](https://open.spotify.com/album/61NTznU5cgJ0v64hsabqTo) | 4:00 |
 | 61 | [Ocean Floor](https://open.spotify.com/track/1Ftf2kYACoXtuBXiqh8Y8K) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Ocean Floor](https://open.spotify.com/album/7qMJHefVxa2LLZ9AH4HHO0) | 4:04 |
+| 62 | [noise around](https://open.spotify.com/track/27fE1mDoOHqkExHkgThqYc) | [DEBRISON](https://open.spotify.com/artist/1OiEOVUeoLaYfajrtLLHlw) | [noise around](https://open.spotify.com/album/0GqjQS5cIPFGyyVJOrwAtL) | 3:43 |
+| 63 | [Realise](https://open.spotify.com/track/0Db0iPyGKZv4w4fBaIfs4g) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Realise](https://open.spotify.com/album/5NUO2ci09fmOZhe7dRfVxs) | 3:07 |
+| 64 | [Commune](https://open.spotify.com/track/2COYaBuqzptA3ggbwJdWyG) | [Gray AM](https://open.spotify.com/artist/69znLcXooRZWnn5sTwg2hx) | [Commune](https://open.spotify.com/album/7eAPfgzwIrUvR79VJU6ECu) | 3:36 |
+| 65 | [This Thing We Call Life](https://open.spotify.com/track/1kL6TbMmLHrCSmnEyC91eC) | [A\-O,z](https://open.spotify.com/artist/4SzMiE6MQNB2Evd61BVz2I), [MilesYoung](https://open.spotify.com/artist/4znweNuqrgDWuUycybaGkt) | [This Thing We Call Life](https://open.spotify.com/album/6GrkxYEZFIqVe3UFcppcfi) | 2:31 |
+| 66 | [The Day I'm Gone](https://open.spotify.com/track/6fOJUO7CRNIgSACqSZRIAa) | [Edgeline](https://open.spotify.com/artist/6rzkpsF9nG5ScJFYTGTUOB) | [Leave](https://open.spotify.com/album/3OgnRzvhhrrcaci5Qapuqr) | 4:05 |
+| 67 | [Two Souls](https://open.spotify.com/track/0y0ykZ1dkGc38jen90qV1j) | [Upwood Avenue](https://open.spotify.com/artist/6vxgfCzu5GGJWOfARnonrI) | [Two Souls](https://open.spotify.com/album/3j90ztJwBxuyHuXoibG5Pa) | 4:00 |
+| 68 | [Best Year Yet](https://open.spotify.com/track/1n5JaW6gdAtdRgS2jnKSye) | [Bowes](https://open.spotify.com/artist/4ttD6HkDmlpH7D8SQqwtbT) | [Best Year Yet](https://open.spotify.com/album/2dwFoNDZQy25pn9iRmyPpq) | 4:18 |
+| 69 | [Tranquility](https://open.spotify.com/track/746Ji33wJ8Au1LVHJ8MOVM) | [Remedies](https://open.spotify.com/artist/3m2MxzwhWeA2FZiel5sURN) | [Truth for Lies](https://open.spotify.com/album/1EccCV6oBwVfTDojfNZ8qh) | 3:48 |
+| 70 | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/track/4P1CmDbce9sBKsuEx2SBF4) | [Lord Sebastian](https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm) | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/album/7KjY597wS0kTiC4TucLvop) | 3:08 |
 
-Snapshot ID: `AAAEFWK9fPI3oyVr4jlSbmtEX4qAdGIV`
+Snapshot ID: `AAAEHgDchJzV8QlkLgfEAbBGpt7hqNFf`

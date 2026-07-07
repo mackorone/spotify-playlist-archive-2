@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Nipsey Hussle and <br/>Bino Rideaux
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,089 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,059 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 18 | [Where You From](https://open.spotify.com/track/0EHvxxbyDANSz9FsLp9mfk) | [Lefty Gunplay](https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV), [Jap5](https://open.spotify.com/artist/7jWkhRpEiTuctAx2tRS24A) | [Where You From](https://open.spotify.com/album/65dPNe9VLsWG3vTOqMRWED) | 1:55 |
 | 19 | [ON THE LOW feat tyler, the creator](https://open.spotify.com/track/09vUEGDPqHaMWxRSS6XPY1) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [THE GENTLEMEN'S CLUB](https://open.spotify.com/album/5BzLYa8XPBMy2RHo73SvzW) | 3:03 |
 | 20 | [2POPS](https://open.spotify.com/track/6iXEuLEMkFhOjPTHdtJwOm) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [2POPS](https://open.spotify.com/album/3m6ZI3ziZdXZJKwJVZKghw) | 2:02 |
-| 21 | [Front & Bacc](https://open.spotify.com/track/0ryLK6sqGWmTd3P1GD7hFf) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Rich Rapping II](https://open.spotify.com/album/2HzEIHx4raKJbL4pK9f7re) | 1:51 |
+| 21 | [Front & Bacc](https://open.spotify.com/track/0ryLK6sqGWmTd3P1GD7hFf) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Rich Rapping II](https://open.spotify.com/album/2HzEIHx4raKJbL4pK9f7re) | 1:41 |
 | 22 | [im worse](https://open.spotify.com/track/7Hez8c1FW1gyWTNFOYMAht) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [BastardChild](https://open.spotify.com/album/78peygM9sPeSRrBvhpjNvN) | 1:23 |
 | 23 | [He Can](https://open.spotify.com/track/2bmRSJEuYwhdD85hIWdTDi) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Labor Of Love](https://open.spotify.com/album/5QBNc7pEAyRt3jlhPB70st) | 2:18 |
 | 24 | [Play This](https://open.spotify.com/track/3zMDPyL6qy6DZUi5xKT7Io) | [Ovrkast.](https://open.spotify.com/artist/4YISTUJnoZtAy6LjgOpRL7) | [Play This](https://open.spotify.com/album/53p6iXTDbZIcIBRIEjYa7s) | 2:33 |

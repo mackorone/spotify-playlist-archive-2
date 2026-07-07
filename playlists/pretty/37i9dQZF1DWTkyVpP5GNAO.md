@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTkyVpP5GNAO.md) - [plain]
 
 > Dale a Dios toda la gloria y alabanza! Foto: Factor de Cambio
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,501 likes - 75 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,573 likes - 75 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

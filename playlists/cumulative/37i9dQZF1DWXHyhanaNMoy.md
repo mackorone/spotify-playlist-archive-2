@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Frenna, Odeal & Wizkid
 
-1,786 songs - 3 day 7 hr 3 min
+1,787 songs - 3 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [Down](https://open.spotify.com/track/0M9O5WAGgXg6S7f2WjU3dD) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Down](https://open.spotify.com/album/2nRCzZ8OwYBgSmjcF8wYbY) | 2:42 | 2023-12-08 | 2023-12-30 |
 | [Draai Door](https://open.spotify.com/track/6acmsMJtfXkpmAlD6HOzvB) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF), [Chavanté](https://open.spotify.com/artist/46hfNL2Bni5Ux8hCDMAjIN), [ZeroDix](https://open.spotify.com/artist/6EQLccuGwNd5J4mIeFR7hc) | [Draai Door](https://open.spotify.com/album/0R1Tx9KnePuiHhiSuC3gV4) | 2:46 | 2025-01-16 | 2025-04-25 |
 | [DRAKEN](https://open.spotify.com/track/0NsA6vRiiHlMcIkEP00sZg) | [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [DAYDA](https://open.spotify.com/album/6w620VqNHfmyS3t8qENq1A) | 2:34 | 2025-11-13 | 2026-02-06 |
+| [DRIBBELEN](https://open.spotify.com/track/2GSzwgVhIKwLDG68tQqVfm) | [Venti](https://open.spotify.com/artist/6SgOMDXLQKIiN15OrjOvGQ), [FJ](https://open.spotify.com/artist/78tcT7iDWCsXTEt4m4Ko49), [BTJE](https://open.spotify.com/artist/4wN3vVis2oYJbTCbrFdHdV) | [DRIBBELEN](https://open.spotify.com/album/483KgDOxhtNiI4lG2jotCZ) | 2:07 | 2026-07-06 |  |
 | [Drip Too Hard](https://open.spotify.com/track/4xgOUgmKvclx8XgN4Bczl9) | [Maro 1M](https://open.spotify.com/artist/3de3HdAP52z8B3zy4eF3Al), [JMREAL](https://open.spotify.com/artist/2yc9QbVP7y2d2zDUTr3gj2) | [Drip Too Hard](https://open.spotify.com/album/4ySZ9lFVCjQo6EYamtmU7y) | 2:34 | 2023-07-13 | 2023-07-28 |
 | [Droom](https://open.spotify.com/track/1Fez3BtcXdUBgCR2UsLFYd) | [RUGGED](https://open.spotify.com/artist/7HVtSgsv5Ye0Y6ntC97jbW), [Makkie](https://open.spotify.com/artist/3ZwM56IXFGMIsUFK0GEygo), [Sandersville](https://open.spotify.com/artist/4PwNo9ExQ9lVXrYMoJLh7A) | [Droom](https://open.spotify.com/album/2rBEVbed3nOPX7UYHIoIgs) | 2:36 | 2023-03-30 | 2023-04-07 |
 | [Drugsprobleem](https://open.spotify.com/track/7ti3nQsrUICVd2B9z6EsV1) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [F\*CK KLEINE](https://open.spotify.com/album/3mcN8R48O873EDOnBNbyuk) | 2:44 | 2026-04-02 | 2026-05-29 |
@@ -506,7 +507,7 @@
 | [Dubai Gang](https://open.spotify.com/track/6ruZti5jDzhOWKcCTmjBDF) | [Quincy Promes](https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS), [SOUNDPLUG](https://open.spotify.com/artist/3V27gyl5V5dvei7a0U8zuX) | [Dubai Gang](https://open.spotify.com/album/1zNP5VgKGE1ko7eDXRuow5) | 2:15 | 2025-07-10 | 2025-09-12 |
 | [DUBLIN](https://open.spotify.com/track/2gfkw8TTvfPJYnnOViGBsG) | [Kevcody](https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey) | [DUBLIN](https://open.spotify.com/album/3eFAoDLj94V7XKporHc1ZK) | 3:10 | 2025-09-11 | 2025-10-17 |
 | [Duracell](https://open.spotify.com/track/5gtLS2CnIhKvt1BDAOXVSq) | [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Equalz](https://open.spotify.com/artist/57RYqNhEvaNiafuP1X73GS), [JayKoppig](https://open.spotify.com/artist/6uQiTAaIF0UBTED52UMcZp) | [Duracell](https://open.spotify.com/album/5gvKMvAS0tduRnzlFulKPZ) | 3:02 | 2025-07-10 | 2025-09-05 |
-| [Dure Geintje](https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Dure Geintje](https://open.spotify.com/album/6rfemzDVUuIj377RFJlXhr) | 2:16 | 2026-02-12 |  |
+| [Dure Geintje](https://open.spotify.com/track/0LAQc7pyZaVxo7C6czJ7rz) | [LA$$A](https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN) | [Dure Geintje](https://open.spotify.com/album/6rfemzDVUuIj377RFJlXhr) | 2:16 | 2026-02-12 | 2026-07-07 |
 | [Durma](https://open.spotify.com/track/5VQdi4PLP9lmAgrI7t2IUb) | [Spanker](https://open.spotify.com/artist/6wMnkPepu5AcV3w9rtIw09), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [Durma](https://open.spotify.com/album/3wwdHNwrDdXK7X4mnQgK9g) | 2:29 | 2023-12-08 | 2024-01-19 |
 | [Dushi](https://open.spotify.com/track/02XaqRz8GJt0v7t7i8OyKT) | [Alessio](https://open.spotify.com/artist/6gFuwMAaoJDU6M3c8UHcAj), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Dushi](https://open.spotify.com/album/3cVPakapbNChsXir1BAx0F) | 2:11 | 2025-08-04 | 2025-09-21 |
 | [DUSSELDORF](https://open.spotify.com/track/6AtD9nJmnSHsnn0dIRk4pU) | [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Marone](https://open.spotify.com/artist/6BWzlvYNWf5v6W0aoE08x4) | [NIET ACTIEF](https://open.spotify.com/album/64l5mqybz0fgCP7gpbz1Tb) | 2:06 | 2026-04-23 | 2026-05-22 |

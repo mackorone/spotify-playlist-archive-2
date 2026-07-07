@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 159988,
+  "num_followers": 159996,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAAAHyI88m9hZbvdehlbVOqWb",
+  "snapshot_id": "akmegAAAAACDyuCEUD5cukWDLTU11cD6",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinverg\u00fcenza Y Mujeriego",
-        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 206309,
-      "name": "Los Amantes",
-      "url": "https://open.spotify.com/track/40G5sjVX47PG8LMMigxyJH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Del Campo a la Ciudad",
         "url": "https://open.spotify.com/album/2Z7kNdzXDDRPZhQlyW6d67"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 227950,
       "name": "Donde Andar\u00e1",
       "url": "https://open.spotify.com/track/0E8nEiE1PIVFf0Mex5NHsg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinverg\u00fcenza Y Mujeriego",
+        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 206309,
+      "name": "Los Amantes",
+      "url": "https://open.spotify.com/track/40G5sjVX47PG8LMMigxyJH"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinverg\u00fcenza Y Mujeriego",
-        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 206843,
-      "name": "Unidos Para Amarnos",
-      "url": "https://open.spotify.com/track/6pRMjfUSKsKKfJWXEvbBL9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Consentidas De Pancho Barraza",
         "url": "https://open.spotify.com/album/6Rr6eDqyasdzFBUKzSOAYZ"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 229160,
       "name": "Y Las Mariposas",
       "url": "https://open.spotify.com/track/6Evs8xJsQ9Yw0z10XAOd6W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinverg\u00fcenza Y Mujeriego",
+        "url": "https://open.spotify.com/album/6FIw4o8zKTXt6PzrTJK5mo"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 206843,
+      "name": "Unidos Para Amarnos",
+      "url": "https://open.spotify.com/track/6pRMjfUSKsKKfJWXEvbBL9"
     },
     {
       "added_at": null,
@@ -423,18 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor (Remastered 2025)",
-        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+        "name": "35 Aniversario (Vol. 1)",
+        "url": "https://open.spotify.com/album/18AC56GLpZH5t0m4dN150Z"
       },
       "artists": [
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 195566,
-      "name": "Mi Amor sin Ella - Remastered 2025",
-      "url": "https://open.spotify.com/track/1J8IW57rBkdaTwfvoEj819"
+      "duration_ms": 221029,
+      "name": "Borracho De Besos",
+      "url": "https://open.spotify.com/track/6bC4NcabtEXMHUtIFMwlQ8"
     },
     {
       "added_at": null,
@@ -451,6 +455,38 @@
       "duration_ms": 156386,
       "name": "Ojal\u00e1 Sea Cierto",
       "url": "https://open.spotify.com/track/6RL91YY0Kf24NeHHjwdaeb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Canciones de Amor (Remastered 2025)",
+        "url": "https://open.spotify.com/album/0D3rX7WGeU6Z6b30SuzHm0"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 195566,
+      "name": "Mi Amor sin Ella - Remastered 2025",
+      "url": "https://open.spotify.com/track/1J8IW57rBkdaTwfvoEj819"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Noche Cualquiera",
+        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 220533,
+      "name": "Con El Alma En La Mano",
+      "url": "https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX"
     },
     {
       "added_at": null,
@@ -478,31 +514,11 @@
         {
           "name": "Pancho Barraza",
           "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 221029,
-      "name": "Borracho De Besos",
-      "url": "https://open.spotify.com/track/6bC4NcabtEXMHUtIFMwlQ8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Una Noche Cualquiera",
-        "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 220533,
-      "name": "Con El Alma En La Mano",
-      "url": "https://open.spotify.com/track/0aUeUXfdSkZp98jJ2XQ4CX"
+      "duration_ms": 210436,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/0CDr89BlgF2Jm5bLgsUlz1"
     },
     {
       "added_at": null,
@@ -523,38 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuenta Conmigo",
-        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 216827,
-      "name": "Cuenta Conmigo",
-      "url": "https://open.spotify.com/track/7MKxLM6cXVgXNXOpcfKDk5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "35 Aniversario (Vol. 1)",
-        "url": "https://open.spotify.com/album/18AC56GLpZH5t0m4dN150Z"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 210436,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/0CDr89BlgF2Jm5bLgsUlz1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Noche Cualquiera",
         "url": "https://open.spotify.com/album/0LXuwVw6rH9uJXQJFSeBe1"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 215446,
       "name": "Mi Gran Problema",
       "url": "https://open.spotify.com/track/4j5VHWOKzsdaWl4b31Aes4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuenta Conmigo",
+        "url": "https://open.spotify.com/album/6LwOXQj6NDu67AwOBOD4Se"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 216827,
+      "name": "Cuenta Conmigo",
+      "url": "https://open.spotify.com/track/7MKxLM6cXVgXNXOpcfKDk5"
     },
     {
       "added_at": null,

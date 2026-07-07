@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 30500,
+  "num_followers": 30506,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAAAN2nnnYDKYgJ+1/oLUZCDm",
+  "snapshot_id": "akmegAAAAABcX76xSbDKBPo6e2JbDBEV",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 202917,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hardware",
         "url": "https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 196840,
       "name": "Stackin\u2019 Bones",
       "url": "https://open.spotify.com/track/2cZhG6PNPa2Ykh9xsoAcHw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 202917,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/59wQXbDYHOHYUbLRySohsP"
     },
     {
       "added_at": null,
@@ -327,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paint The Roses (Live in Concert)",
-        "url": "https://open.spotify.com/album/5u6igDbmfkKA1PW3DBItKH"
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
       "artists": [
         {
@@ -336,13 +336,13 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         },
         {
-          "name": "Nu Deco Ensemble",
-          "url": "https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK"
+          "name": "Tyler Bryant",
+          "url": "https://open.spotify.com/artist/0bTTcuusNCpoWFLnKdNZwC"
         }
       ],
-      "duration_ms": 312824,
-      "name": "Mad As A Hatter - Live in Concert",
-      "url": "https://open.spotify.com/track/3msGgsgqMQXd7nO1S2e59f"
+      "duration_ms": 234866,
+      "name": "Back Down South (feat. Tyler Bryant)",
+      "url": "https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+        "name": "Paint The Roses (Live in Concert)",
+        "url": "https://open.spotify.com/album/5u6igDbmfkKA1PW3DBItKH"
       },
       "artists": [
         {
@@ -388,33 +388,33 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         },
         {
-          "name": "Tyler Bryant",
-          "url": "https://open.spotify.com/artist/0bTTcuusNCpoWFLnKdNZwC"
+          "name": "Nu Deco Ensemble",
+          "url": "https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK"
         }
       ],
-      "duration_ms": 234866,
-      "name": "Back Down South (feat. Tyler Bryant)",
-      "url": "https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04"
+      "duration_ms": 312824,
+      "name": "Mad As A Hatter - Live in Concert",
+      "url": "https://open.spotify.com/track/3msGgsgqMQXd7nO1S2e59f"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Airline Highway",
-        "url": "https://open.spotify.com/album/4wojnxJ20xjQqZ0Bji3O6F"
+        "name": "Mileage (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5h3wP087I8yUbEFnlyzR0D"
       },
       "artists": [
         {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+          "name": "Ruthie Foster",
+          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
         },
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 185844,
-      "name": "Louisiana Sunshine Feeling Okay",
-      "url": "https://open.spotify.com/track/0EPUo3osivqu12WoH2m9IT"
+      "duration_ms": 159306,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/2QAQ1m3LGHKkL0QvNNBXyF"
     },
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Airline Highway",
+        "url": "https://open.spotify.com/album/4wojnxJ20xjQqZ0Bji3O6F"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 185844,
+      "name": "Louisiana Sunshine Feeling Okay",
+      "url": "https://open.spotify.com/track/0EPUo3osivqu12WoH2m9IT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "God's Gonna Cut You Down (From 'Queen of the Ring - Music From The Motion Picture')",
         "url": "https://open.spotify.com/album/70DyKgYERaRL0Ja1gnT5oB"
       },
@@ -475,28 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mileage (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5h3wP087I8yUbEFnlyzR0D"
-      },
-      "artists": [
-        {
-          "name": "Ruthie Foster",
-          "url": "https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F"
-        },
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/2QAQ1m3LGHKkL0QvNNBXyF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 172282,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/42NhtRt3m866eCGfMVg5BF"
+      "duration_ms": 131052,
+      "name": "Come on in My Kitchen",
+      "url": "https://open.spotify.com/track/039FJyfiM5h39kpz6VfVAD"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 131052,
-      "name": "Come on in My Kitchen",
-      "url": "https://open.spotify.com/track/039FJyfiM5h39kpz6VfVAD"
+      "duration_ms": 172282,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/42NhtRt3m866eCGfMVg5BF"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 220796,
-      "name": "Every Bird That Flies",
-      "url": "https://open.spotify.com/track/2uFyp8aqJyxbtnyYb0ZB8Q"
+      "duration_ms": 204106,
+      "name": "Look Away",
+      "url": "https://open.spotify.com/track/6AWlFTa6XGzIEaElHohT1V"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/3d1joZj7jDDEAe3cpPloZz"
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 204106,
-      "name": "Look Away",
-      "url": "https://open.spotify.com/track/6AWlFTa6XGzIEaElHohT1V"
+      "duration_ms": 220796,
+      "name": "Every Bird That Flies",
+      "url": "https://open.spotify.com/track/2uFyp8aqJyxbtnyYb0ZB8Q"
     },
     {
       "added_at": null,

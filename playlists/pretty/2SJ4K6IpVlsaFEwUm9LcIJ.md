@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 24,356 likes - 10 songs - 46 min 11 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 24,355 likes - 12 songs - 57 min 15 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,5 +18,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 8 | [Perch](https://open.spotify.com/track/1Yqp0aEKqzX9MwFXC9LLel) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [10th](https://open.spotify.com/album/7GpupAdAv0IPaZEWEgV5IT) | 8:01 |
 | 9 | [Lilac \(Bombs Jun Togawa\)](https://open.spotify.com/track/3PN75YHTH8kZKEHbbcny1k) | [Vampillia](https://open.spotify.com/artist/6Pr6S0eWVYP4uDGbWXJIpT), [Jun Togawa](https://open.spotify.com/artist/6fI3ZQseiBwzjXLSVuJGEI) | [The Divine Move](https://open.spotify.com/album/6Vj5nANsK4ximMcMKruf0n) | 3:35 |
 | 10 | [Feeling Dizzy](https://open.spotify.com/track/31pfOGCRJ4YHib8pur9G7X) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Night and Day](https://open.spotify.com/album/0fcIVkoXdoMADxdq7Rbh1r) | 4:14 |
+| 11 | [More and More and More \- Instrumental](https://open.spotify.com/track/4xiLAlTgImg4Nh3yG4hVnK) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [The Story Of Sanullim Complete Studio Recordings](https://open.spotify.com/album/5WD3ouTqnRZunhDuAOalWC) | 5:08 |
+| 12 | [Branches Bare](https://open.spotify.com/track/6MYA4C2VCiU1gqz1Dp725z) | [Hood](https://open.spotify.com/artist/6fLY0fk62ACnHx1QAWXvEZ) | [Cold House](https://open.spotify.com/album/4f9GmceFKdzbAZHbb7XnQV) | 5:55 |
 
-Snapshot ID: `AAAOgvMzJz9vjS3R7BrA7W4HFK2fvkXz`
+Snapshot ID: `AAAOhIpcXm7On7Y5yBHx5kB8EEXo0sxS`

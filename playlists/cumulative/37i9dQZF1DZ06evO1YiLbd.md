@@ -4,7 +4,7 @@
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-215 songs - 9 hr 56 min
+216 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Godsend](https://open.spotify.com/track/3bDJrjlyDTSk6IrTh7Vpe3) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [SAKAMOTO DAYS Original Sound Track \(Hayashi special Mix Vol.2\)](https://open.spotify.com/album/2WNFxXXoEIKHLoXxeaNxDU) | 1:51 | 2025-09-17 | 2025-10-14 |
 | [Goggles](https://open.spotify.com/track/1Xr2Hmtg9FTvCWQUhsAenT) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の弐](https://open.spotify.com/album/5j01P8nr13z6kGfUrqMS51) | 2:54 | 2024-07-27 | 2024-11-20 |
 | [Great Hero](https://open.spotify.com/track/2Ven2laBQdXto5A1jMy66A) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: FINAL SEASON \(Original Series Soundtrack\)](https://open.spotify.com/album/7BUKQaQMPOIxGHXFKCCvVz) | 2:33 | 2025-12-24 | 2026-04-05 |
+| [Grief \(Piano Solo Ver.\)](https://open.spotify.com/track/0JUCIeprrKwVed2QfqQgiC) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の拾](https://open.spotify.com/album/7kUqiHgx0KjShdCYP0fuFX) | 3:05 | 2026-07-07 |  |
 | [Growing Anxiety](https://open.spotify.com/track/2h638uBW9ku6mnYTGwb43j) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Insomniacs After School Original Soundtrack](https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o) | 1:36 | 2025-02-07 | 2025-02-08 |
 | [HERO A](https://open.spotify.com/track/6LoC0DAzeIET4iA9gXG2Ly) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 3:15 | 2022-12-23 |  |
 | [Hero too](https://open.spotify.com/track/0VPkaJMRQIhYWXiE1LqaCK) | [KYOKA JIRO Starring Chrissy Costanza](https://open.spotify.com/artist/3KKbJAgAcYQBsOBA1sEHVO), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』4th オリジナルサウンドトラック](https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE) | 4:18 | 2022-12-23 |  |
@@ -73,7 +74,7 @@
 | [My Hero Is Our Hero](https://open.spotify.com/track/2yheZqd9dNuvawJM1lkeAU) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 3:49 | 2023-01-21 |  |
 | [My Treasure](https://open.spotify.com/track/4uelWLwGdrTKrEhuDZCdBH) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Insomniacs After School Original Soundtrack](https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o) | 2:02 | 2025-02-09 | 2026-06-29 |
 | [My☆Hero](https://open.spotify.com/track/3o6ob6bZPyoEde5C9VT7PZ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [POP STEP](https://open.spotify.com/artist/4OasGaM4Wm6Id0fzTHnCkX) | [My☆Hero](https://open.spotify.com/album/2oj3gtuMsPrmADdeKw0RXk) | 3:02 | 2025-07-23 | 2025-08-15 |
-| [Next, it's our turn!](https://open.spotify.com/track/6TajSVdj5kaPGQ8ucMhM6V) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: You're Next \(Original Soundtrack\)](https://open.spotify.com/album/2ps5rnO9MVGyMMUqiLzEOq) | 3:52 | 2024-10-22 |  |
+| [Next, it's our turn!](https://open.spotify.com/track/6TajSVdj5kaPGQ8ucMhM6V) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: You're Next \(Original Soundtrack\)](https://open.spotify.com/album/2ps5rnO9MVGyMMUqiLzEOq) | 3:52 | 2024-10-22 | 2026-07-07 |
 | [Next, it’s our turn!](https://open.spotify.com/track/5UHbYvTswKT4Qrn0U7IdKr) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア THE MOVIE ユアネクスト』オリジナルサウンドトラック](https://open.spotify.com/album/3GhPY4XQ6rp6oq5NxGzl7X) | 3:52 | 2024-08-09 | 2024-09-06 |
 | [OCHAKO URARAKA VS HIMIKO TOGA](https://open.spotify.com/track/01fMj4zIXE2GHuR1XpATtk) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック](https://open.spotify.com/album/3BD6yrG6ElkvT8sZi1F8SP) | 4:15 | 2024-10-18 | 2024-11-14 |
 | [OCHAKO URARAKA VS HIMIKO TOGA](https://open.spotify.com/track/7wn3pmiAfLS8eWkHE7NhZr) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TV Animation My Hero Academia 7th Original Soundtrack](https://open.spotify.com/album/6u7u6gaokipiDoPPxnJ2z1) | 4:15 | 2026-05-23 | 2026-06-01 |

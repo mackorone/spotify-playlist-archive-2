@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Vintara Saradaga - VISA",
-  "num_followers": 171110,
+  "num_followers": 171101,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHEQi222UDvpezul20WXigln/TKA",
+  "snapshot_id": "AAAAAFXZOLzsu3pElys7AG6U2MajgNzN",
   "tracks": [
     {
       "added_at": "2026-07-02 11:05:52",
@@ -37,10 +37,42 @@
       "url": "https://open.spotify.com/track/4pdqNcjVz9sPjBg1mJY0rS"
     },
     {
-      "added_at": "2026-06-22 07:48:51",
+      "added_at": "2026-07-06 13:37:02",
       "album": {
-        "name": "Jigithara (From \"Chennai Love Story\")",
-        "url": "https://open.spotify.com/album/38RXYS8OBRy1hm9RWuPGHZ"
+        "name": "Prema Premisthunna (From \"Oh Sukumari\")",
+        "url": "https://open.spotify.com/album/1ftVZCd6uYlRw9tT9VHaMO"
+      },
+      "artists": [
+        {
+          "name": "Bharath Manchiraju",
+          "url": "https://open.spotify.com/artist/0IwPGyWLTlaS0TXIvVEqb7"
+        },
+        {
+          "name": "James Thakara",
+          "url": "https://open.spotify.com/artist/3uRhRME6wArdeaQ2s26Q0A"
+        },
+        {
+          "name": "Purnachary",
+          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
+        },
+        {
+          "name": "Thiruveer",
+          "url": "https://open.spotify.com/artist/2CN77hzGZNr4cOlEQwBIbS"
+        },
+        {
+          "name": "Aishwarya Rajesh",
+          "url": "https://open.spotify.com/artist/4eiylYaB9g7znXt6m9KN3u"
+        }
+      ],
+      "duration_ms": 230122,
+      "name": "Prema Premisthunna (From \"Oh Sukumari\")",
+      "url": "https://open.spotify.com/track/0L4lDS5xKNRZO7e2iavSOw"
+    },
+    {
+      "added_at": "2026-07-06 13:37:02",
+      "album": {
+        "name": "Hoyila Hoyila (From \"Chennai Love Story\")",
+        "url": "https://open.spotify.com/album/6D93U2TFas7TbIqbdRs7gf"
       },
       "artists": [
         {
@@ -48,17 +80,45 @@
           "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
         },
         {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        },
+        {
+          "name": "Dhanunjay Seepana",
+          "url": "https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0"
         },
         {
           "name": "Anantha Sreeram",
           "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
         }
       ],
-      "duration_ms": 252074,
-      "name": "Jigithara (From \"Chennai Love Story\")",
-      "url": "https://open.spotify.com/track/19FpS3dwFo73nEFwz0NnIw"
+      "duration_ms": 242149,
+      "name": "Hoyila Hoyila (From \"Chennai Love Story\")",
+      "url": "https://open.spotify.com/track/69HFjzMqwtoLsyZDIlf8UG"
+    },
+    {
+      "added_at": "2026-07-06 13:37:02",
+      "album": {
+        "name": "Nee Vallane (From \"Somewhere Sometime\")",
+        "url": "https://open.spotify.com/album/1nPHZikDUy9YSHd9KII4Qk"
+      },
+      "artists": [
+        {
+          "name": "Aditya BN",
+          "url": "https://open.spotify.com/artist/49YWbmxhOOtBESRFOipQ5E"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        },
+        {
+          "name": "Phani Krishna Sankepally",
+          "url": "https://open.spotify.com/artist/2KbFgOXp7nMyUTkDxhQUzB"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Nee Vallane (From \"Somewhere Sometime\")",
+      "url": "https://open.spotify.com/track/3DqxMJzUQr8ka6XthEgYAS"
     },
     {
       "added_at": "2026-06-12 05:17:36",
@@ -83,6 +143,30 @@
       "duration_ms": 115022,
       "name": "Kotha Feeling (From \"Sing Geetham\")",
       "url": "https://open.spotify.com/track/1EvuejpagL9iqjEcXwlFMT"
+    },
+    {
+      "added_at": "2026-06-22 07:48:51",
+      "album": {
+        "name": "Jigithara (From \"Chennai Love Story\")",
+        "url": "https://open.spotify.com/album/38RXYS8OBRy1hm9RWuPGHZ"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "duration_ms": 252074,
+      "name": "Jigithara (From \"Chennai Love Story\")",
+      "url": "https://open.spotify.com/track/19FpS3dwFo73nEFwz0NnIw"
     },
     {
       "added_at": "2026-05-26 11:56:11",
@@ -485,30 +569,6 @@
       "url": "https://open.spotify.com/track/617NE1TzQtmY4BBrYidAoR"
     },
     {
-      "added_at": "2026-03-17 12:39:15",
-      "album": {
-        "name": "Padhe Padhe (From \"Rakasa\")",
-        "url": "https://open.spotify.com/album/1GcY14XelFN5BKA0MGvMtN"
-      },
-      "artists": [
-        {
-          "name": "Anudeep Dev",
-          "url": "https://open.spotify.com/artist/11bBHpkCZPkktTsrXAZyql"
-        },
-        {
-          "name": "Sindhuja Srinivasan",
-          "url": "https://open.spotify.com/artist/1vB0Gi450P8znsVn6J5sjm"
-        },
-        {
-          "name": "Kittu Vissapragada",
-          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "Padhe Padhe (From \"Rakasa\")",
-      "url": "https://open.spotify.com/track/3dMlLHL3l014ENiQid13zE"
-    },
-    {
       "added_at": "2026-06-19 12:43:05",
       "album": {
         "name": "Neno Butterfly (From \"Vishwanath & Sons\")",
@@ -761,38 +821,6 @@
       "url": "https://open.spotify.com/track/2GnuaiGx2Eig8xkrQV8c4o"
     },
     {
-      "added_at": "2026-03-10 04:11:39",
-      "album": {
-        "name": "Chinnodi Gundello (From \"Sri Chidambaram\")",
-        "url": "https://open.spotify.com/album/20iqW59Zd1XjLW9kMquD4R"
-      },
-      "artists": [
-        {
-          "name": "Chandra Sekar",
-          "url": "https://open.spotify.com/artist/3mFC6ufwf91qqGEiJOKLcT"
-        },
-        {
-          "name": "Ravi Cherukuri",
-          "url": "https://open.spotify.com/artist/1CAk9px2kznI0ashY7duO7"
-        },
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        },
-        {
-          "name": "Manisha Eerabathini",
-          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
-        },
-        {
-          "name": "Koti Mamidala",
-          "url": "https://open.spotify.com/artist/7MoO67dvdRjbNRawzjG1BK"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Chinnodi Gundello (From \"Sri Chidambaram\")",
-      "url": "https://open.spotify.com/track/36yu7zpBRBtY33441QiikD"
-    },
-    {
       "added_at": "2026-05-11 12:51:12",
       "album": {
         "name": "Bubblegum (From \"BIKER\")",
@@ -1019,34 +1047,6 @@
       "duration_ms": 232000,
       "name": "Na Kallaloni Taraka (From \"Kotha Malupu\")",
       "url": "https://open.spotify.com/track/6XR6TbMar6TxHl7i8ZyVdQ"
-    },
-    {
-      "added_at": "2026-03-05 09:00:45",
-      "album": {
-        "name": "Kalyaname Gowri (From \"The Rise Of Ashoka - Telugu\")",
-        "url": "https://open.spotify.com/album/5vLHORyDumSJ3evhGMXhUF"
-      },
-      "artists": [
-        {
-          "name": "Poornachandra Tejaswi SV",
-          "url": "https://open.spotify.com/artist/1VDfV4Mh4Hc6uQIw6qRQ88"
-        },
-        {
-          "name": "Pancham Jeeva",
-          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
-        },
-        {
-          "name": "Satyavani",
-          "url": "https://open.spotify.com/artist/7fNuk25gulNDvnOqGbAOhE"
-        },
-        {
-          "name": "Jayachandra.J.D",
-          "url": "https://open.spotify.com/artist/1Dyj6gN3GCe3ARYBrpry1T"
-        }
-      ],
-      "duration_ms": 233684,
-      "name": "Kalyaname Gowri (From \"The Rise Of Ashoka - Telugu\")",
-      "url": "https://open.spotify.com/track/5L1vfVKn7IGppUT3Bn5j9C"
     },
     {
       "added_at": "2026-05-15 04:21:28",

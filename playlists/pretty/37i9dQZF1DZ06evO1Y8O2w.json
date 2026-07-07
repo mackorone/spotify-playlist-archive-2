@@ -1,12 +1,12 @@
 {
   "description": "This is Phyllis Hyman. The essential tracks, all in one playlist.",
-  "num_followers": 8364,
+  "num_followers": 8365,
   "original_name": "This Is Phyllis Hyman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAAA84cMSl+dfXiHfD0vOmtfW",
+  "snapshot_id": "akmegAAAAACEszz/iQ4oAZZ57cFjPPK5",
   "tracks": [
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legacy Of Phyllis Hyman",
-        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        },
-        {
-          "name": "Michael Henderson",
-          "url": "https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K"
-        }
-      ],
-      "duration_ms": 317293,
-      "name": "Can't We Fall in Love Again",
-      "url": "https://open.spotify.com/track/0c61XIxgnxVYAk3vum9TM3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Will Find a Way (Expanded Edition)",
         "url": "https://open.spotify.com/album/0orhXwlJ4LCfDwMYVAXsdW"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 282693,
       "name": "Love Is Here (feat. Phyllis Hyman)",
       "url": "https://open.spotify.com/track/41jJAf0D3oMABIvdS3BsBM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Legacy Of Phyllis Hyman",
+        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        },
+        {
+          "name": "Michael Henderson",
+          "url": "https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K"
+        }
+      ],
+      "duration_ms": 317293,
+      "name": "Can't We Fall in Love Again",
+      "url": "https://open.spotify.com/track/0c61XIxgnxVYAk3vum9TM3"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddess of Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "Let Somebody Love You",
-      "url": "https://open.spotify.com/track/6jwpjWDFYCgtNUYfx7KE7B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living All Alone",
         "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 200213,
       "name": "Sleep On It",
       "url": "https://open.spotify.com/track/3pAmGIMw7jjf85vraM5mnA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goddess of Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "Let Somebody Love You",
+      "url": "https://open.spotify.com/track/6jwpjWDFYCgtNUYfx7KE7B"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Know How to Love Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 322773,
-      "name": "Tonight You and Me - Disco Version",
-      "url": "https://open.spotify.com/track/78A2I3CESWSwj7oflgfLli"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can't We Fall In Love Again (Expanded Edition)",
         "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
       },
@@ -751,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddess of Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY"
+        "name": "You Know How to Love Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
       },
       "artists": [
         {
@@ -760,9 +744,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 252346,
-      "name": "Why Did You Turn Me On",
-      "url": "https://open.spotify.com/track/7Bx4kCWT6c8Z6Th747COko"
+      "duration_ms": 322773,
+      "name": "Tonight You and Me - Disco Version",
+      "url": "https://open.spotify.com/track/78A2I3CESWSwj7oflgfLli"
     },
     {
       "added_at": null,
@@ -799,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Goddess of Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 252346,
+      "name": "Why Did You Turn Me On",
+      "url": "https://open.spotify.com/track/7Bx4kCWT6c8Z6Th747COko"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Living All Alone",
         "url": "https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't We Fall In Love Again (Expanded Edition)",
-        "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "In Between the Heartaches",
-      "url": "https://open.spotify.com/track/16pids01DZBwCLo1JAQvjY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever with You",
         "url": "https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 260093,
       "name": "Forever with You",
       "url": "https://open.spotify.com/track/4YQLkLUyEro4Xeh9EGSNoX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't We Fall In Love Again (Expanded Edition)",
+        "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "In Between the Heartaches",
+      "url": "https://open.spotify.com/track/16pids01DZBwCLo1JAQvjY"
     }
   ],
   "unique_name": "This Is Phyllis Hyman",

@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 225000,
       "name": "Chinnodi Gundello (From \"Sri Chidambaram\")",
       "url": "https://open.spotify.com/track/36yu7zpBRBtY33441QiikD"
@@ -3203,6 +3203,36 @@
     },
     {
       "album": {
+        "name": "Hoyila Hoyila (From \"Chennai Love Story\")",
+        "url": "https://open.spotify.com/album/6D93U2TFas7TbIqbdRs7gf"
+      },
+      "artists": [
+        {
+          "name": "Mani Sharma",
+          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        },
+        {
+          "name": "Dhanunjay Seepana",
+          "url": "https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242149,
+      "name": "Hoyila Hoyila (From \"Chennai Love Story\")",
+      "url": "https://open.spotify.com/track/69HFjzMqwtoLsyZDIlf8UG"
+    },
+    {
+      "album": {
         "name": "Hridayam Lopala (From \"Kingdom\")",
         "url": "https://open.spotify.com/album/6oOYjGQYWUzte674cgbxPe"
       },
@@ -4078,7 +4108,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 233684,
       "name": "Kalyaname Gowri (From \"The Rise Of Ashoka - Telugu\")",
       "url": "https://open.spotify.com/track/5L1vfVKn7IGppUT3Bn5j9C"
@@ -6427,6 +6457,32 @@
     },
     {
       "album": {
+        "name": "Nee Vallane (From \"Somewhere Sometime\")",
+        "url": "https://open.spotify.com/album/1nPHZikDUy9YSHd9KII4Qk"
+      },
+      "artists": [
+        {
+          "name": "Aditya BN",
+          "url": "https://open.spotify.com/artist/49YWbmxhOOtBESRFOipQ5E"
+        },
+        {
+          "name": "Sahithi Chaganti",
+          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
+        },
+        {
+          "name": "Phani Krishna Sankepally",
+          "url": "https://open.spotify.com/artist/2KbFgOXp7nMyUTkDxhQUzB"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Nee Vallane (From \"Somewhere Sometime\")",
+      "url": "https://open.spotify.com/track/3DqxMJzUQr8ka6XthEgYAS"
+    },
+    {
+      "album": {
         "name": "Waltair Veerayya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6KKqrNC6yWb405hpsrcxMa"
       },
@@ -7942,7 +7998,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 245400,
       "name": "Padhe Padhe (From \"Rakasa\")",
       "url": "https://open.spotify.com/track/3dMlLHL3l014ENiQid13zE"
@@ -8518,6 +8574,40 @@
       "duration_ms": 173000,
       "name": "Prema Prema (From \"Laggam Time\")",
       "url": "https://open.spotify.com/track/0CkzTvfRDHGcgRVlKdkHOz"
+    },
+    {
+      "album": {
+        "name": "Prema Premisthunna (From \"Oh Sukumari\")",
+        "url": "https://open.spotify.com/album/1ftVZCd6uYlRw9tT9VHaMO"
+      },
+      "artists": [
+        {
+          "name": "Bharath Manchiraju",
+          "url": "https://open.spotify.com/artist/0IwPGyWLTlaS0TXIvVEqb7"
+        },
+        {
+          "name": "James Thakara",
+          "url": "https://open.spotify.com/artist/3uRhRME6wArdeaQ2s26Q0A"
+        },
+        {
+          "name": "Purnachary",
+          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
+        },
+        {
+          "name": "Thiruveer",
+          "url": "https://open.spotify.com/artist/2CN77hzGZNr4cOlEQwBIbS"
+        },
+        {
+          "name": "Aishwarya Rajesh",
+          "url": "https://open.spotify.com/artist/4eiylYaB9g7znXt6m9KN3u"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230122,
+      "name": "Prema Premisthunna (From \"Oh Sukumari\")",
+      "url": "https://open.spotify.com/track/0L4lDS5xKNRZO7e2iavSOw"
     },
     {
       "album": {

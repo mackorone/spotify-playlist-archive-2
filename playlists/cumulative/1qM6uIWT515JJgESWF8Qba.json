@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Million Miles Away",
+        "url": "https://open.spotify.com/album/5NNokKgXWExS1Pu54fIJ6G"
+      },
+      "artists": [
+        {
+          "name": "Whisky Sugar",
+          "url": "https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432810,
+      "name": "A Million Miles Away",
+      "url": "https://open.spotify.com/track/4rU2hKYGURP7h18SYQ0Nzf"
+    },
+    {
+      "album": {
         "name": "A Perfect Lie",
         "url": "https://open.spotify.com/album/2rvHji4MrQC3S397HaUIRc"
       },
@@ -1507,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "En tus ojos",
+        "url": "https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL"
+      },
+      "artists": [
+        {
+          "name": "Leandro Rebolini",
+          "url": "https://open.spotify.com/artist/76nuTtg8t7JqzjcZ12NbPI"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251615,
+      "name": "En tus ojos",
+      "url": "https://open.spotify.com/track/5YFyngCxUk1kQhBBzuOMUC"
+    },
+    {
+      "album": {
         "name": "Esp\u00e9rame",
         "url": "https://open.spotify.com/album/3FyiS5bBxKl6zhAQi0lVZA"
       },
@@ -2368,6 +2404,24 @@
       "duration_ms": 177940,
       "name": "Ignite Devil",
       "url": "https://open.spotify.com/track/24MwVqGpQPebsKwXYWDvTw"
+    },
+    {
+      "album": {
+        "name": "Ikaros",
+        "url": "https://open.spotify.com/album/6Qado2dLei7Ds5PNmstEc2"
+      },
+      "artists": [
+        {
+          "name": "O KANENAS",
+          "url": "https://open.spotify.com/artist/0gW8xjhBaC0eO8xyS5lZDa"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261750,
+      "name": "Ikaros",
+      "url": "https://open.spotify.com/track/41C7vXxAMx2h2kt3Q9cp1C"
     },
     {
       "album": {

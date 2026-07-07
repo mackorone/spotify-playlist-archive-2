@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM6bu.md) - [plain]
 
 > This is Westlife\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,098 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,121 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM6bu.md) - [plain]
 | 17 | [When You're Looking Like That \- Single Remix](https://open.spotify.com/track/5t3oszlshIPTzpAwcCMqgw) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:52 |
 | 18 | [Seasons in the Sun](https://open.spotify.com/track/523WUV77jFBx3fbeJTOWZ6) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Westlife](https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN) | 4:08 |
 | 19 | [World of Our Own](https://open.spotify.com/track/4SAHTVRe6EBhgAOWl49yPf) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 3:31 |
-| 20 | [Against All Odds \(Take A Look at Me Now\) \(feat\. Westlife\)](https://open.spotify.com/track/2IyiRal9MIYZHDTqNKr6os) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 3:20 |
-| 21 | [Where We Are](https://open.spotify.com/track/5vQSU3pxA9atqN6zMrcTU7) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Where We Are](https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F) | 3:57 |
+| 20 | [Where We Are](https://open.spotify.com/track/5vQSU3pxA9atqN6zMrcTU7) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Where We Are](https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F) | 3:57 |
+| 21 | [Against All Odds \(Take A Look at Me Now\) \(feat\. Westlife\)](https://open.spotify.com/track/2IyiRal9MIYZHDTqNKr6os) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 3:20 |
 | 22 | [More than Words](https://open.spotify.com/track/4DdXHK3z3vb7kPNIisCp3K) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Westlife](https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN) | 3:54 |
 | 23 | [I Wanna Grow Old with You](https://open.spotify.com/track/1CNj54KmvgzHzDy7QGzrRt) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [World of Our Own \(Expanded Edition\)](https://open.spotify.com/album/5FECTGZ9UdITzeo7o0AhUZ) | 4:07 |
 | 24 | [What Makes a Man](https://open.spotify.com/track/3W2QKq6ks7QInnM9j4pOBt) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY), [Steve Mac](https://open.spotify.com/artist/4HQPu8xlD0YTKmUhCsty3a) | [Coast To Coast \(Expanded Edition\)](https://open.spotify.com/album/6P1sBa0T1fRooA0UTAQfOu) | 3:50 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM6bu.md) - [plain]
 | 39 | [Safe](https://open.spotify.com/track/0w7HAln6DBh3YAYmROLHqy) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Gravity](https://open.spotify.com/album/0zfK1gyZipv83K4v8phlpH) | 3:54 |
 | 40 | [How to Break a Heart](https://open.spotify.com/track/6k0AzDwTLJhMgkuYzhzSzJ) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Where We Are](https://open.spotify.com/album/3PKeOrW72DQ3QB6FZvn18F) | 4:04 |
 | 41 | [I'm Already There](https://open.spotify.com/track/70DYBBLSo10FpIYjc6Cl7A) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Back Home](https://open.spotify.com/album/0K3igCblJjDIJcFbaOHlxD) | 4:18 |
-| 42 | [Lighthouse](https://open.spotify.com/track/7CRolYDXJsl10y3UkJv8jX) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:22 |
-| 43 | [Better Man](https://open.spotify.com/track/5OTsspiqZPQPPuouZtjykB) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Better Man](https://open.spotify.com/album/51Jg1cyS6FNx1H87waLmXH) | 3:17 |
+| 42 | [Better Man](https://open.spotify.com/track/5OTsspiqZPQPPuouZtjykB) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Better Man](https://open.spotify.com/album/51Jg1cyS6FNx1H87waLmXH) | 3:17 |
+| 43 | [Lighthouse](https://open.spotify.com/track/7CRolYDXJsl10y3UkJv8jX) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Greatest Hits](https://open.spotify.com/album/6gtDABGSqEp6waUHbtVbYT) | 4:22 |
 | 44 | [Chariot](https://open.spotify.com/track/7cl5wyCUBcGj9s2ATHLBUm) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Chariot](https://open.spotify.com/album/3sjAlkf4ReWGTx2RhHanZQ) | 3:20 |
 | 45 | [The Dance](https://open.spotify.com/track/3dVTwiTpjWCdtlq9tcsf91) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [The Love Album](https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj) | 3:58 |
 | 46 | [Your Love Amazes Me](https://open.spotify.com/track/0bBOzWvJ2CEladtqVDnfWI) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Your Love Amazes Me](https://open.spotify.com/album/2G4KocgpFjTfcVxGAlQUTm) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM6bu.md) - [plain]
 | 49 | [Total Eclipse of the Heart](https://open.spotify.com/track/7Gy5DNBnOGw6KHPcP0G3P0) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [The Love Album](https://open.spotify.com/album/714ejRNfL8eCRvgIKeOMqj) | 4:39 |
 | 50 | [Starlight](https://open.spotify.com/track/6IIqISCKO3V9Jnm0DnzQEX) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Wild Dreams \(Deluxe Edition\)](https://open.spotify.com/album/4g3q0igWqgw9vuoR5X6cev) | 3:44 |
 
-Snapshot ID: `akhNAAAAAAD4pt4pdRvA7oEZ4Dbmvrfl`
+Snapshot ID: `akmegAAAAAAnNdOBLTcRd7FgIYBRdP1P`

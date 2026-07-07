@@ -7582,10 +7582,28 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 202200,
       "name": "Glaub an dich",
       "url": "https://open.spotify.com/track/11AlDaLmOMP78MR25uuX37"
+    },
+    {
+      "album": {
+        "name": "Glaub an dich",
+        "url": "https://open.spotify.com/album/5dsnbLbSZGkMcCgLwa33CB"
+      },
+      "artists": [
+        {
+          "name": "BearyTunes",
+          "url": "https://open.spotify.com/artist/6yw8N6PdyedoyY5DnS79Lj"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202240,
+      "name": "Glaub an dich",
+      "url": "https://open.spotify.com/track/3ZleCKWBDOfCcZ2Ld31mXP"
     },
     {
       "album": {
@@ -10928,7 +10946,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-07",
       "duration_ms": 233478,
       "name": "Locked out of Heaven",
       "url": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
@@ -10946,7 +10964,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-27",
+      "date_removed": null,
       "duration_ms": 233653,
       "name": "Locked out of Heaven",
       "url": "https://open.spotify.com/track/5g7sDjBhZ4I3gcFIpkrLuI"

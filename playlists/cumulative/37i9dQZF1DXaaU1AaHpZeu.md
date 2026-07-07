@@ -2,7 +2,7 @@
 
 ### [Novedades Indie](https://open.spotify.com/playlist/37i9dQZF1DXaaU1AaHpZeu)
 
-> Nuevos hallazgos de música indie en español, con GOMZ en portada.
+> Nuevos hallazgos de música indie en español, con Jósean Log y Carlos Sadness en portada.
 
 7,597 songs - 17 day 7 hr 53 min
 

@@ -6167,6 +6167,24 @@
     },
     {
       "album": {
+        "name": "Snakes and Ladders",
+        "url": "https://open.spotify.com/album/4l2NWVCZJWhtXnwvHQnfFa"
+      },
+      "artists": [
+        {
+          "name": "Noush!",
+          "url": "https://open.spotify.com/artist/4RM2bD4EiGi9DidZYYEsd0"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233200,
+      "name": "Snakes and Ladders",
+      "url": "https://open.spotify.com/track/3qiekOQecW0IyPaSJ1YcYt"
+    },
+    {
+      "album": {
         "name": "so beautiful, with you",
         "url": "https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf"
       },

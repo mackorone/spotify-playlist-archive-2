@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Brown. The essential tracks, all in one playlist.",
-  "num_followers": 990312,
+  "num_followers": 990392,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAAC0pfpKg6z0FKFRwwLDxp8k",
+  "snapshot_id": "akmegAAAAABEuw7qm66QgnkWVWwXqFcj",
   "tracks": [
     {
       "added_at": null,
@@ -563,18 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+        "name": "My Own Lane (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6qBNm8dkdowRUUrN7uwR11"
       },
       "artists": [
+        {
+          "name": "Kid Ink",
+          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
+        },
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 289760,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/5F7IJrXD6Fa3EmqoYE0gU4"
+      "duration_ms": 217800,
+      "name": "Show Me (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4q6dqyGM25sKFU8nYAGRe4"
     },
     {
       "added_at": null,
@@ -595,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Own Lane (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6qBNm8dkdowRUUrN7uwR11"
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
       "artists": [
-        {
-          "name": "Kid Ink",
-          "url": "https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3"
-        },
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 217800,
-      "name": "Show Me (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/4q6dqyGM25sKFU8nYAGRe4"
+      "duration_ms": 289760,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/5F7IJrXD6Fa3EmqoYE0gU4"
     },
     {
       "added_at": null,
@@ -903,26 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "wgft (Remix) [feat. Chris Brown]",
-        "url": "https://open.spotify.com/album/7w0YmeUJoZebUXDqhtzmuL"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "wgft (Remix) [feat. Chris Brown]",
-      "url": "https://open.spotify.com/track/4m4sk6NdP92HCvioRCo9BM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 276560,
       "name": "Deuces (feat. Tyga & Kevin McCall)",
       "url": "https://open.spotify.com/track/6wN4nT2qy3MQc098yL3Eu9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "wgft (Remix) [feat. Chris Brown]",
+        "url": "https://open.spotify.com/album/7w0YmeUJoZebUXDqhtzmuL"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "wgft (Remix) [feat. Chris Brown]",
+      "url": "https://open.spotify.com/track/4m4sk6NdP92HCvioRCo9BM"
     },
     {
       "added_at": null,

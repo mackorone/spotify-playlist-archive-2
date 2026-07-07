@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Baby Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 819,255 likes - 115 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,289 likes - 115 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 114 | [Two Faced Lover](https://open.spotify.com/track/2N4PVnfJDqbySVwE3IhMH1) | [Secret Rendezvous](https://open.spotify.com/artist/0ze4ZsTzztDozddZWWKKzf) | [In Between Dreams](https://open.spotify.com/album/1ivBLFxX6NSjVksccS4EyF) | 3:18 |
 | 115 | [Weightless](https://open.spotify.com/track/3r1aAlW4y7c8nJaXhUxL9Z) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Bloom](https://open.spotify.com/album/0YOp28SVv56MgY6c1ShMmH) | 4:06 |
 
-Snapshot ID: `AAAAAG+JIF9OxwRrdY0FU0wxd4OXQofJ`
+Snapshot ID: `AAAAAIuy0aQPFwZdy+BNZquufmPHzIPr`

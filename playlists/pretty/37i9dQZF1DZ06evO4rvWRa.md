@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,638,782 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,638,777 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 26 | [Legends Never Die \(Remix\)](https://open.spotify.com/track/5481KTfiIDDOvTqgtevdIj) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Legends Never Die \(Remix\)](https://open.spotify.com/album/1ITtdilZvKZAIIzZDZskCi) | 2:47 |
 | 27 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 |
 | 28 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 |
-| 29 | [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/0wOfbpwLdSLoWAkUYLH8ur) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2) | 2:33 |
-| 30 | [Broken Strings](https://open.spotify.com/track/7HoWt1XVdWPcdZi2oVi9OQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Isabella Melkman](https://open.spotify.com/artist/6LUMKP6qSEprH1SlOvV8dx), [Katherine O'Ryan](https://open.spotify.com/artist/00moSdFEmIK0ngjw332EyW) | [Broken Strings](https://open.spotify.com/album/5F9xaz8GYu2lIIrDRX7nUx) | 2:27 |
+| 29 | [Broken Strings](https://open.spotify.com/track/7HoWt1XVdWPcdZi2oVi9OQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Isabella Melkman](https://open.spotify.com/artist/6LUMKP6qSEprH1SlOvV8dx), [Katherine O'Ryan](https://open.spotify.com/artist/00moSdFEmIK0ngjw332EyW) | [Broken Strings](https://open.spotify.com/album/5F9xaz8GYu2lIIrDRX7nUx) | 2:27 |
+| 30 | [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/0wOfbpwLdSLoWAkUYLH8ur) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2) | 2:33 |
 | 31 | [Beautiful Nightmare](https://open.spotify.com/track/5bUGTPa2WYYS9P49MzAljd) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 2:47 |
 | 32 | [Running Out Of Roses](https://open.spotify.com/track/1KR9TkyhxqqpOk45WAm7bM) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Walker Racing League](https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV) | 2:16 |
 | 33 | [Tired](https://open.spotify.com/track/3b5Li4QKDVBx1x7fQuu54a) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Tired](https://open.spotify.com/album/1q1ayQAYMOacFE2fkXbkv2) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 49 | [A World I Don't Know](https://open.spotify.com/track/12r9zcMRAnoADUQoOJR9yC) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr), [Kaeleb](https://open.spotify.com/artist/2VnOskb1ZffIkyrTmennEv) | [A World I Don't Know](https://open.spotify.com/album/3noCGUpws1zv3tJ66AeFNE) | 1:51 |
 | 50 | [Getaway](https://open.spotify.com/track/1TEWG0GEdHI97khSkcj7rX) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Emyrson Flora](https://open.spotify.com/artist/7ojpclnAqwGSfHaSDKDRNW) | [World of Walker, Season One: Rise of the Drones](https://open.spotify.com/album/4ZPFShjjY5bGsyvn9aiqrd) | 2:53 |
 
-Snapshot ID: `akhNAAAAAABjqqcbtz4MLu9XiwXECwoU`
+Snapshot ID: `akmegAAAAAD2SSPPa4X5GZkHklx681B8`

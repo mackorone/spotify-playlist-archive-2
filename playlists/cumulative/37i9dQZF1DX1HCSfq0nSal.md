@@ -2,9 +2,9 @@
 
 ### [PEGAO](https://open.spotify.com/playlist/37i9dQZF1DX1HCSfq0nSal)
 
-> Si está pegao, está aquí\. Feat\. SAIKO
+> Si está pegao, está aquí\. Feat\. Anuel
 
-976 songs - 2 day 5 hr 46 min
+977 songs - 2 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [ACELERÁ](https://open.spotify.com/track/76zrc1mdzSYenyIgJsPKJM) | [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [ACELERÁ](https://open.spotify.com/album/01rmWgULgFerhGFFXqQuty) | 2:35 | 2025-04-14 | 2025-04-23 |
 | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr) | 3:12 | 2023-06-19 | 2023-07-07 |
 | [ADIVINO](https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ADIVINO](https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl) | 4:38 | 2024-04-25 | 2024-11-05 |
+| [After](https://open.spotify.com/track/44PL9CqmxZ3tcbNJgrsqzb) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx) | [After](https://open.spotify.com/album/3mAJ5jUoRMYCEjGBW0AclQ) | 2:47 | 2026-07-06 |  |
 | [AGUARDIENTE](https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:47 | 2023-04-14 | 2023-05-06 |
 | [AGUARDIENTE](https://open.spotify.com/track/6jhB0WW148mVOX7VuV2ga0) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [AGUARDIENTE](https://open.spotify.com/album/1ox6fzQPXwDtsTg8EQrplp) | 2:47 | 2023-03-10 | 2023-04-16 |
 | [AHORA QUÉ](https://open.spotify.com/track/5qP24CrDI0rmY5zwRvUfzU) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:51 | 2023-01-19 | 2023-04-01 |
@@ -851,7 +852,7 @@
 | [Textos Fríos](https://open.spotify.com/track/0aTmQfJO43j5wC0pDzWuEI) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Música Buena Para Días Malos](https://open.spotify.com/album/2PEIXega9N5OkMHBrcvcHG) | 4:18 | 2024-04-29 | 2024-06-22 |
 | [Thalía](https://open.spotify.com/track/03O0bVezEElAy8AWXGTAOo) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf) | [Thalía](https://open.spotify.com/album/5F35IoIamW84YFm7eT22Og) | 3:03 | 2024-03-08 | 2024-04-23 |
 | [Thalía \- Remix](https://open.spotify.com/track/7rOBXchP5e7U0pNETeyES1) | [Cyril Kamer](https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Thalía \(Remix\)](https://open.spotify.com/album/1pp1JiTZQM7mRDtn4jCVwN) | 3:50 | 2024-07-15 | 2024-09-18 |
-| [they already know](https://open.spotify.com/track/2uD9tqhCJI8WiIn4XrJzYs) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [EL MOCO VERDE](https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH) | 4:04 | 2026-06-29 |  |
+| [they already know](https://open.spotify.com/track/2uD9tqhCJI8WiIn4XrJzYs) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Munic HB](https://open.spotify.com/artist/28oQ6vi1R2m9mdSBnsAkUQ) | [EL MOCO VERDE](https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH) | 4:04 | 2026-06-29 | 2026-07-07 |
 | [Tiago PZK: Bzrp Music Sessions, Vol\. 48](https://open.spotify.com/track/2Gq636OOGgxCTqEuzCZhsa) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Tiago PZK: Bzrp Music Sessions, Vol\. 48](https://open.spotify.com/album/1LDCTu0ZfGLtWAzV82Pop0) | 2:40 | 2022-01-17 | 2022-06-07 |
 | [Tigini \(Remix\)](https://open.spotify.com/track/6stWVqWxtPPednHy1mzoOz) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo) | [Tigini \(Remix\)](https://open.spotify.com/album/0Gb4d09a4fJ9Kndgu8OHKe) | 2:55 | 2022-05-26 | 2022-08-26 |
 | [TikiTaka](https://open.spotify.com/track/1jaCmYbKKddiaZ7PNPIQZD) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [TikiTaka](https://open.spotify.com/album/4GuAvBpWtRdfzWcB4nF15P) | 2:40 | 2026-05-18 | 2026-06-30 |

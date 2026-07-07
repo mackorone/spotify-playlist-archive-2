@@ -1,12 +1,12 @@
 {
   "description": "This is Tassia Reis. The essential tracks, all in one playlist.",
-  "num_followers": 2363,
+  "num_followers": 2366,
   "original_name": "This Is Tassia Reis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAAB4xgbzrDO6s6+JyjtYVMaR",
+  "snapshot_id": "akmegAAAAAAWFiLUSLmSGzer0Hdlel+M",
   "tracks": [
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pr\u00f3spera D+",
-        "url": "https://open.spotify.com/album/5exDobh8Uos33Hw27BPmhM"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Nelson D",
-          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Me Beije",
-      "url": "https://open.spotify.com/track/1berLAehxGY70nYh1bPPfF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00e1ssia Reis",
         "url": "https://open.spotify.com/album/2fJu0321VqW7REAwvLZDHE"
       },
@@ -951,6 +931,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bem Longe do Fim",
+        "url": "https://open.spotify.com/album/2oAIZ24pZgBQt08z0jtl2h"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 165818,
+      "name": "Mais Que Refr\u00e3o",
+      "url": "https://open.spotify.com/track/4qrdkScerZHlGLpMg62yM9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outra Esfera",
         "url": "https://open.spotify.com/album/1qoq2XVihlVN9H9x48A45k"
       },
@@ -963,6 +963,26 @@
       "duration_ms": 234206,
       "name": "Ou\u00e7a-Me R M X",
       "url": "https://open.spotify.com/track/0YH8930FX7C87DUMZIIpii"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pr\u00f3spera D+",
+        "url": "https://open.spotify.com/album/5exDobh8Uos33Hw27BPmhM"
+      },
+      "artists": [
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        },
+        {
+          "name": "Nelson D",
+          "url": "https://open.spotify.com/artist/3hSRbxpRL7fJ64PepWjCof"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Me Beije",
+      "url": "https://open.spotify.com/track/1berLAehxGY70nYh1bPPfF"
     },
     {
       "added_at": null,
@@ -991,26 +1011,6 @@
       "duration_ms": 191460,
       "name": "Magenta",
       "url": "https://open.spotify.com/track/20jar3jBKUq0ojEgHDOD5A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bem Longe do Fim",
-        "url": "https://open.spotify.com/album/2oAIZ24pZgBQt08z0jtl2h"
-      },
-      "artists": [
-        {
-          "name": "Tassia Reis",
-          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 165818,
-      "name": "Mais Que Refr\u00e3o",
-      "url": "https://open.spotify.com/track/4qrdkScerZHlGLpMg62yM9"
     },
     {
       "added_at": null,

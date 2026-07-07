@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 762 likes - 73 songs - 4 hr 17 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 768 likes - 78 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,5 +81,10 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 71 | [Fake Illusion](https://open.spotify.com/track/4XV8XVah83sBK4easO1Le0) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Fake Illusion](https://open.spotify.com/album/2Huu4WMjqQTA5C0KBjd54P) | 3:04 |
 | 72 | [Está na Hora](https://open.spotify.com/track/6WrxIMkY6e661lGed0vDUo) | [Percivais](https://open.spotify.com/artist/3ctSG1qg916RpEUCXlO1rc) | [Está na Hora](https://open.spotify.com/album/35ysxYJz1e8TAfAwFKXbqq) | 4:18 |
 | 73 | [LIGHTHOUSE](https://open.spotify.com/track/3grAFJ4WFMWqUxEAzmhbjE) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Breaking Crests](https://open.spotify.com/album/2dLSlsENTZgScQ0gyNwmcN) | 2:56 |
+| 74 | [deceived](https://open.spotify.com/track/5wYc5u1J7qUjmwLiHJRGZG) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [deceived](https://open.spotify.com/album/4RntmhyWWyLjAWdfOI3Fth) | 2:24 |
+| 75 | [Realise](https://open.spotify.com/track/0Db0iPyGKZv4w4fBaIfs4g) | [Ashstone](https://open.spotify.com/artist/47hrCicuIVVFh4Z7dVNNUG) | [Realise](https://open.spotify.com/album/5NUO2ci09fmOZhe7dRfVxs) | 3:07 |
+| 76 | [Oh Come On!](https://open.spotify.com/track/2eao3HIlNiWH47YXbUDbYO) | [Your Friend Death](https://open.spotify.com/artist/2wFQuwL5t22Xi117f8nzRx) | [Oh Come On!](https://open.spotify.com/album/2HGuF5sdOMdRCGnd2EJCWB) | 3:07 |
+| 77 | [Ghost in the Machine](https://open.spotify.com/track/4FpzYZW8n0ACFuqPbgYVHY) | [Dan Folland](https://open.spotify.com/artist/0LCVaqmDMsBXKbN8JINKFu) | [Ghost in the Machine](https://open.spotify.com/album/4odVoAJovnpjem0S5Fx0Oy) | 3:10 |
+| 78 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 |
 
-Snapshot ID: `AAADwqzHlS8QWjd6nefab3CRY61zJ0vi`
+Snapshot ID: `AAADxxlMiNUVTB9/tFppLV+ad1jKmfUF`

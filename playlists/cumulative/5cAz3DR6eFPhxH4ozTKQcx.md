@@ -2,7 +2,7 @@
 
 ### [Summer Throwback Party ](https://open.spotify.com/playlist/5cAz3DR6eFPhxH4ozTKQcx)
 
-> The perfect summer pop playlist.
+> The biggest hits from the 2000s and 2010s!
 
 103 songs - 6 hr 26 min
 

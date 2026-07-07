@@ -4,7 +4,7 @@
 
 > English songs from Indian artists.<br/>Cover: Tsumyoki
 
-403 songs - 23 hr 0 min
+404 songs - 23 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [skin](https://open.spotify.com/track/4tdkPWkgTvW7XwJXWdA5Gt) | [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [skin](https://open.spotify.com/album/1kWYJoPUqJ2que3kKtb5aC) | 2:55 | 2025-12-05 |  |
 | [Sleepyhead](https://open.spotify.com/track/5WppvSzsJBoQhT6V8HV9U8) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [Sleepyhead](https://open.spotify.com/album/3fw8NcJqdA53NtZHGzU6cS) | 3:06 | 2022-03-25 | 2023-05-24 |
 | [Snake](https://open.spotify.com/track/6ZLl6vyCbGeRzlCEiAJ2Vb) | [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Snake](https://open.spotify.com/album/0NgxRTUA93UA96M05S9pTH) | 1:53 | 2025-02-04 | 2025-08-24 |
+| [Snakes and Ladders](https://open.spotify.com/track/3qiekOQecW0IyPaSJ1YcYt) | [Noush!](https://open.spotify.com/artist/4RM2bD4EiGi9DidZYYEsd0) | [Snakes and Ladders](https://open.spotify.com/album/4l2NWVCZJWhtXnwvHQnfFa) | 3:53 | 2026-07-06 |  |
 | [so beautiful, with you](https://open.spotify.com/track/30amHpRQprKxYbVh7bVWfl) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [so beautiful, with you](https://open.spotify.com/album/3YLzhNKScvqk93VMMTqYMf) | 3:38 | 2023-04-18 |  |
 | [So Close](https://open.spotify.com/track/2lnJxbfhFaaPhOCZy3efn9) | [Neuman Pinto](https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6) | [So Close](https://open.spotify.com/album/6Tdb1yAL84lbjKteIF1tPC) | 2:52 | 2023-04-06 | 2023-05-10 |
 | [So Good](https://open.spotify.com/track/0CawrCDxkBgaR2ImcpQYMm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/7zp2nLduPlDbfn9ejFTuZE) | 2:59 | 2022-03-25 | 2023-12-21 |

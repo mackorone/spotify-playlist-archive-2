@@ -4,13 +4,14 @@
 
 > Vurra, BFCClyde, Chrisjeboy, NAVI, JOJO AIR en meer..
 
-667 songs - 1 day 4 hr 42 min
+668 songs - 1 day 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [$EXY](https://open.spotify.com/track/6WAr4kqaqZXpiSUbvDOkeW) | [Bens](https://open.spotify.com/artist/0tAl0sGxLq4qkokhuFMLC7) | [$EXY](https://open.spotify.com/album/0qRfJXuptU0lttmH1L0Dnp) | 1:58 | 2026-03-19 | 2026-05-08 |
 | [1 Voor De Money](https://open.spotify.com/track/30IzllhL2C7P2fOd34NNVW) | [Gilly](https://open.spotify.com/artist/5P6kllyzE7PLpjJECO5LnN), [Mosta Man](https://open.spotify.com/artist/2PGjtFV1GlVW6P5XXWpc6Y) | [1 Voor De Money](https://open.spotify.com/album/1t3LX443ehW5vNAYaJ7Xd0) | 2:34 | 2025-07-17 | 2025-08-29 |
 | [10.000 Vragen](https://open.spotify.com/track/73rj9Y6AuDfsXoVPfGGCmQ) | [Burkeys](https://open.spotify.com/artist/43OU5L8Wx3q4hSkooXrfaJ) | [10.000 Vragen](https://open.spotify.com/album/4qBP2TWMT2PBIMeSkcNoBH) | 2:02 | 2026-04-23 | 2026-06-19 |
+| [10/10](https://open.spotify.com/track/61FE4JNjBbyh2z0y6oVCJO) | [Femi](https://open.spotify.com/artist/1LYCP7FPd47ezdRHsXLFAm) | [10/10](https://open.spotify.com/album/4eIJvZ7xPzWi09DZbHSdmt) | 2:16 | 2026-07-06 |  |
 | [10/10](https://open.spotify.com/track/7xgngrNmopJ549obUdrt7V) | [Mxxdy](https://open.spotify.com/artist/6xP9NJZcCjv4mbWMbyHQ8s) | [10/10](https://open.spotify.com/album/3Hn1DqMMR58OnTKmd8tt2S) | 3:54 | 2026-02-05 | 2026-03-20 |
 | [100 bricks](https://open.spotify.com/track/79V0ak67W2S4Rqjh4QLxqn) | [Bastosz](https://open.spotify.com/artist/6CtxmUMNLxhOEPh1S1mY4g) | [100 bricks](https://open.spotify.com/album/3v8cVjf0mzfSvtybfGn0UI) | 2:50 | 2026-06-11 |  |
 | [100.000 Mistakes](https://open.spotify.com/track/3NXJXHUMrd3Hj3bAlPKaOj) | [Tramo](https://open.spotify.com/artist/6iScCoy2D7zw7MLWNZETTb), [Safouu](https://open.spotify.com/artist/4FdxQSa75EB8AypcyHlyBy), [Curved](https://open.spotify.com/artist/3VYrPMiZNKklGWvhpcyojr) | [100.000 Mistakes](https://open.spotify.com/album/0ikY46np7sr8m4dH4Wr12k) | 2:08 | 2025-10-31 | 2025-12-05 |

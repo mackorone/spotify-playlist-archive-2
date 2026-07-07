@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: El Plan De La Mariposa
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,420 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,423 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 99 | [Por una cabeza](https://open.spotify.com/track/3KNDHdOUmzWIqKYodnFX5C) | [Mica Sotera](https://open.spotify.com/artist/4hXUE7BWcwfS06fkyqBZh1) | [EN EL ESPACIO](https://open.spotify.com/album/4VAaIM6RfM6TWOINp47XoZ) | 4:06 |
 | 100 | [Mandolín \- Live](https://open.spotify.com/track/4URBvGjdh2WpLKNx4mr1SJ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Pardelion Music](https://open.spotify.com/artist/6jEflkhA5Lckl3nhvKUiar) | [Loli Molina Live on Pardelion Music](https://open.spotify.com/album/0kd7ojE2zKmEJeh2q97EyJ) | 5:04 |
 
-Snapshot ID: `AAAAACGeyLw15LQioF8xTG14VB+05RVU`
+Snapshot ID: `AAAAAK46GdxKM7c88F1iZnqju8jpm4dT`

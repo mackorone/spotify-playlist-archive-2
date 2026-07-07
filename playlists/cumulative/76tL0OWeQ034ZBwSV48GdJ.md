@@ -4,7 +4,7 @@
 
 > 
 
-249 songs - 23 hr 21 min
+250 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [The Unexpected](https://open.spotify.com/track/0P0Y40oF5i4KuD7iyFZmac) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Drumcode Presents: 2023](https://open.spotify.com/album/1NrtwNRJLUQKOBLuYPjrfD) | 4:00 | 2024-08-13 |  |
 | [The Water](https://open.spotify.com/track/2RfdqiS8602BvzaR0YoBDq) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/7pBCXayVLX3fkIDWtMAwOp) | 4:22 | 2025-01-30 |  |
 | [The Water \(Live from the Royal Albert Hall\)](https://open.spotify.com/track/4ilceiA4uM92VRpS17W1Aq) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Live from the Royal Albert Hall](https://open.spotify.com/album/19QnzYQMY8g44JmxHgu683) | 8:57 | 2025-07-11 |  |
+| [There's Hope In Your Eyes](https://open.spotify.com/track/4cR6cgInYHfRsgLSl4VlyM) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk) | [There's Hope In Your Eyes](https://open.spotify.com/album/6NTcK9N518nRlmJ7h5daHz) | 3:59 | 2026-07-06 |  |
 | [Thoughts](https://open.spotify.com/track/2eJSIvAvtzApFIVghDBzhy) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [I Talk To Water](https://open.spotify.com/album/07aZK8FsMUcJkrADgMWxsi) | 4:07 | 2023-11-13 |  |
 | [Time](https://open.spotify.com/track/4vAZFXHHjcHxYTGCuI1HXk) | [Pachanga Boys](https://open.spotify.com/artist/7EqE0DBntJS6OUT4gK9W3P) | [Camping Belgica](https://open.spotify.com/album/6eqr6RWVwLN8WJ9QzEweo1) | 15:13 | 2020-07-21 |  |
 | [Time](https://open.spotify.com/track/2u2qjcSLId85rqwSgZLU1p) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Life on Mars / Time](https://open.spotify.com/album/5kGeRgJ3lpJhchgvAQQsZ9) | 8:48 | 2022-03-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 
 > Nousussa olevat hitit\. 🌪️
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,984 likes - 80 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,981 likes - 80 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJFpsr4Sn91.md) - [plain]
 | 79 | [110%](https://open.spotify.com/track/6SKjV9XZvqldONThAgCFUi) | [Frans Harju](https://open.spotify.com/artist/5XHY4502E49TflEsiq7ed5) | [110%](https://open.spotify.com/album/5HxGB4zDzMiTGYJmahMrxW) | 3:01 |
 | 80 | [Sukupuu](https://open.spotify.com/track/4WeLx4T2Q0CfmzjjhFu2ba) | [TINA](https://open.spotify.com/artist/3wm3F9NVTrqDmkdG80qISm) | [Sukupuu](https://open.spotify.com/album/7DZEDJ2EFQlTDQeJAXhBem) | 3:05 |
 
-Snapshot ID: `AAAAAOqOG6E+wDPwxc7RLTZKe2u4TNwa`
+Snapshot ID: `AAAAANu59O/T23dol07K4hjDAXS5/U07`

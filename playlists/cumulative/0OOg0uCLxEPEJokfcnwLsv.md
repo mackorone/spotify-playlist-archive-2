@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-564 songs - 1 day 10 hr 54 min
+570 songs - 1 day 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Diagnostics](https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Diagnostics](https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0) | 3:26 | 2025-12-03 | 2025-12-28 |
 | [Different Ways.](https://open.spotify.com/track/11eAPhBGWABYFFmZBVAcVL) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Different Ways.](https://open.spotify.com/album/0QCDJ5fyxvtBFYjAXNJgJu) | 3:49 | 2026-03-11 | 2026-05-17 |
 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 | 2025-11-29 | 2025-12-28 |
+| [Dirt Floor](https://open.spotify.com/track/4yDBUJz9ILXz9CtojpyzQU) | [Graveyard Choir](https://open.spotify.com/artist/0RtF7RdYO3Jfhmw0JQSmX2) | [Dirt Floor](https://open.spotify.com/album/0dZj8stSDgbnelvEhYq6Fy) | 4:10 | 2026-07-06 |  |
 | [Dirty Soul](https://open.spotify.com/track/3yHiEP169PW8FQVLOBn0Ph) | [Wreckless Strangers](https://open.spotify.com/artist/3niRRJFTVQEmQAVtrCHMu5) | [Dirty Soul](https://open.spotify.com/album/0VcUcURCY02Tv33uTlfgTd) | 5:04 | 2026-02-20 | 2026-06-13 |
 | [Doctor Nic](https://open.spotify.com/track/4XYU90isBsinHacvaUtV1g) | [DORK](https://open.spotify.com/artist/76QFsdAqZECaFPJW1bxIKV) | [Doctor Nic](https://open.spotify.com/album/6wwti6Vjul2wP1hnQKE8MB) | 3:26 | 2026-01-31 | 2026-02-18 |
 | [Domenica mattina](https://open.spotify.com/track/0l3BjpYgBsWqS73T2PyDhV) | [Social Six](https://open.spotify.com/artist/4NAshWdxgeqcFG6kioF8eq) | [Domenica mattina](https://open.spotify.com/album/2bZjKSpBeuBPvVm3BbHzLX) | 3:41 | 2026-02-16 | 2026-03-22 |
@@ -163,6 +164,7 @@
 | [Estrellas](https://open.spotify.com/track/1u6yb30nxGeF32KRImj1Hz) | [EnRockecidos](https://open.spotify.com/artist/6j4BNmLmFMCkyszhxBDdnr) | [Lo que cuentan las aceras](https://open.spotify.com/album/2iJvyNUu7kiIpLz8WxmFaX) | 3:29 | 2026-01-11 | 2026-02-04 |
 | [Estupideces](https://open.spotify.com/track/5dzpZRtR52Pqxeg5PZtfpI) | [Croupiers](https://open.spotify.com/artist/3R0Fcr1lCsQy3W18te2HcB) | [Si Vieras Lo Rápido Que Pierdo La Elegancia](https://open.spotify.com/album/0aRngY5uGhtLEP9D4BwGAL) | 3:36 | 2026-02-07 | 2026-03-04 |
 | [Every 1’s a Winner](https://open.spotify.com/track/2E7HHBw2ZYZIbo8E5uzn9P) | [Byron's Brigades](https://open.spotify.com/artist/5yV3z5bTUMGEIE4E6WxPrf) | [Every 1’s a Winner](https://open.spotify.com/album/6V2mbkh0DXgupUg1wGHbmG) | 3:16 | 2026-04-16 | 2026-05-17 |
+| [Every Time I Look At You](https://open.spotify.com/track/1iOynYeos1FxRg826Amytc) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [Every Time I Look At You](https://open.spotify.com/album/5B6nQwn021EAFMgZpcWfNy) | 4:20 | 2026-07-06 |  |
 | [Eye's On You](https://open.spotify.com/track/31GtsNBfMAAgius6RmMWul) | [The Jay Howie Trio](https://open.spotify.com/artist/3oxYJ2fyfQDUvmf4N3bCkh), [Jay Howie](https://open.spotify.com/artist/3eeXaYeN8szJWw3ziUOWdD) | [Eye's On You](https://open.spotify.com/album/3uuD9DtrH5r4xUQwjFdpXd) | 3:24 | 2026-06-22 |  |
 | [Fairy Wings](https://open.spotify.com/track/0H6StvVWIN3LRcZNK3eAuG) | [Ladat](https://open.spotify.com/artist/2nX96XjXTUZvCoNWTNNun3) | [Fairy Wings](https://open.spotify.com/album/2vyGVc7zSMlbPrQGRWX8Sd) | 3:19 | 2026-06-02 |  |
 | [FAKE](https://open.spotify.com/track/2ee980L0EX5tDefxf5kumE) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [SOME RANDOM GIRL THAT NEVER MADE IT ON THE INTERNET](https://open.spotify.com/album/20JtgJAcabJ7eb74csa1Eq) | 2:58 | 2026-02-14 | 2026-06-13 |
@@ -241,6 +243,7 @@
 | [Impostor](https://open.spotify.com/track/5M2Xbywtmoe2wdhHy7gMHe) | [BRAVA HC](https://open.spotify.com/artist/5xCfJYUnnIkUjjuIA0tfUn) | [Impostor](https://open.spotify.com/album/310tBlOOWUERHbf0xTbRBR) | 3:01 | 2025-12-29 | 2026-01-21 |
 | [In Gloom](https://open.spotify.com/track/7BIBJ6btwFZHRPAH5qdqli) | [Margarida The Cat](https://open.spotify.com/artist/31DECbEW8piJ1XXK1wPulZ) | [In Gloom](https://open.spotify.com/album/3Fs2fNTaVEZ1YCBECXyNGr) | 3:21 | 2025-11-22 | 2025-12-12 |
 | [In The Dark](https://open.spotify.com/track/1tVhSbVfhWn3dp80negdBc) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [In The Dark](https://open.spotify.com/album/6kUqfO3Zl3jaw4mC91o1SJ) | 3:08 | 2026-06-02 |  |
+| [Infectious](https://open.spotify.com/track/3p2ikRjARPokez7R61CUe9) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Infectious](https://open.spotify.com/album/0gL0fHZvzwODSW0jOJ9BMP) | 4:02 | 2026-07-06 |  |
 | [It Never Rains in Southern California](https://open.spotify.com/track/3wfaNsrfzu364Ue4Uwn96V) | [Darow](https://open.spotify.com/artist/1fJhkmWQSxhFSCe4ZGKj0l) | [It Never Rains in Southern California](https://open.spotify.com/album/0DNRbJVfBp5PlyR8q4YCXs) | 3:52 | 2026-03-20 |  |
 | [It's Been a While \- Remastered](https://open.spotify.com/track/3DF5kTTZ9zsy45hhTqzbXH) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [It's Been a While \(Remastered\)](https://open.spotify.com/album/4VELm0GmTzKMDVgvxBNdA2) | 4:15 | 2026-01-19 | 2026-05-17 |
 | [It's Not Much But It's Honest](https://open.spotify.com/track/7qk61UVR5b4uOZPERARakC) | [Chase Cavanaugh](https://open.spotify.com/artist/6DH1kypdObaGWIcKEefQEQ) | [It's Not Much But It's Honest](https://open.spotify.com/album/0s6g5E03GbA8a6rK2G2rfI) | 4:08 | 2026-01-22 | 2026-02-18 |
@@ -413,6 +416,7 @@
 | [Shipwreck](https://open.spotify.com/track/0IQSAjyhwSk9xrwlwDFOvM) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Shipwreck](https://open.spotify.com/album/6AlUStpu1jaarNt1yb6CUi) | 3:12 | 2026-02-09 | 2026-03-04 |
 | [Shooting Star](https://open.spotify.com/track/5ZiuZxpPWvcJOLy2iPxHC0) | [Between Daze](https://open.spotify.com/artist/3MHaNl5fufkpRoHJ6sbAbs) | [Shooting Star](https://open.spotify.com/album/3OMd5uD6jB93C2H0Pn3Umx) | 3:16 | 2025-10-30 | 2025-11-22 |
 | [Shooting Star](https://open.spotify.com/track/2oK9ZdADZdxl1LuIipN4xD) | [The Liquid](https://open.spotify.com/artist/5Hw2PyccNJkCzkhlTwmJZp) | [Shooting Star](https://open.spotify.com/album/432iuO2jJuUQ6FR6llvpa6) | 2:40 | 2026-01-22 | 2026-02-18 |
+| [Sick!](https://open.spotify.com/track/2A00B4SjJEASXKfu4zJ8c8) | [Pet Taxi](https://open.spotify.com/artist/2nQkFrDhzQcQVI2ZIW8n5A) | [Sick!](https://open.spotify.com/album/1lXKY85pNjdwFbkpAy4Nj5) | 2:59 | 2026-07-06 |  |
 | [sidewalk](https://open.spotify.com/track/4FnSCqwqISEZxG1WUBPxuS) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [sidewalk](https://open.spotify.com/album/08UfJUC1e5YkwXNbo3xAZI) | 2:48 | 2026-05-07 | 2026-05-26 |
 | [Siempre Estaré](https://open.spotify.com/track/7e8MvyqagvlJOJaQDNdh5m) | [Viejo Furgon](https://open.spotify.com/artist/4WyH8DQAXLGiVTtqniULWG) | [Reloj Espiritual](https://open.spotify.com/album/3LYQCmohEV9m7cVWhpWuam) | 3:17 | 2026-04-23 | 2026-06-13 |
 | [Sign Of The Horns](https://open.spotify.com/track/65GKZJPncKvGka5X4dTsO9) | [Tommy Schenker](https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC) | [Sign Of The Horns](https://open.spotify.com/album/7hGuCzOqXqKtKPt2FvKjz4) | 3:07 | 2025-10-21 |  |
@@ -458,6 +462,7 @@
 | [Sweet](https://open.spotify.com/track/2xHruQCdDFrdrZz0lf4qlA) | [Static Switch](https://open.spotify.com/artist/6X1nrWVRY4Lz46bdn1h00M) | [Sweet](https://open.spotify.com/album/7muOUl9NozJmVQjPGsiAvD) | 2:30 | 2026-05-19 |  |
 | [Table for two](https://open.spotify.com/track/3MBEjrMog5LFLgbOFwgfDn) | [Seven Streets](https://open.spotify.com/artist/61zHO5qtdK8nvpi2aUQSiN) | [Table for two](https://open.spotify.com/album/51eiEwuzPoxAEIhYB7qtZQ) | 4:03 | 2026-06-18 |  |
 | [Take It All](https://open.spotify.com/track/5nT6DhBRP9cBIUYOhJInIR) | [Elephants and Stars](https://open.spotify.com/artist/54Zp1dCml1gwRKAP7P9dj4) | [Take It All](https://open.spotify.com/album/3FwxaV4IROjyNFVJyOjVWP) | 3:22 | 2026-04-19 | 2026-06-13 |
+| [Take It Slow](https://open.spotify.com/track/4uxCC6Ylti82OFZRYnKfA2) | [Saturday Night Vacancy](https://open.spotify.com/artist/0DTM6PJDosHIUwTj2e2dHU) | [Take It Slow](https://open.spotify.com/album/42PtlSIKiTLcqlVdEgmQRo) | 3:35 | 2026-07-06 |  |
 | [Take me home](https://open.spotify.com/track/0mNlZQwMps3Uz9vGV0G2VO) | [Nic Li](https://open.spotify.com/artist/4Kg7L2IFz4ZI1x9FOnWEKU) | [Haga Street Revisited](https://open.spotify.com/album/0Oc9CyF1n3yIzaXjR503hC) | 1:55 | 2025-11-01 | 2026-02-04 |
 | [Take My Love \- Live](https://open.spotify.com/track/1NOzIiQmn04RbHJI09odao) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY), [Wizard](https://open.spotify.com/artist/68mNlZyTChaGaUwoIjzMr8) | [Captured Live](https://open.spotify.com/album/2kkaEmuBrjwtB1ibO23MRr) | 3:29 | 2026-03-12 | 2026-04-20 |
 | [Tanto](https://open.spotify.com/track/6zgyFi5AddkJEqazpqttKA) | [Anedonia](https://open.spotify.com/artist/0Aqh4GZUYMq4i6UH7ptaBP) | [Catarsis](https://open.spotify.com/album/2kswk3FL9QXty9kwJZdadg) | 4:20 | 2025-11-02 | 2025-11-22 |
@@ -566,6 +571,7 @@
 | [You Made Me Bad](https://open.spotify.com/track/62J0xJ2NX4JXj7IZLyDZSL) | [Rayka Blake](https://open.spotify.com/artist/3ZUceWi9BIfBu7bDaocYzc) | [You Made Me Bad](https://open.spotify.com/album/461TAonuSzvYSZ77SCdpbc) | 3:40 | 2026-06-09 |  |
 | [You Make Me Feel](https://open.spotify.com/track/0bqIWe0gXVy222fYhUlsrd) | [Gary.D.Pearson and the Distance](https://open.spotify.com/artist/6OSDFdZOodz0A77i9QbSXd) | [You Make Me Feel](https://open.spotify.com/album/63wp42Wp0TYwyKtqACYONM) | 3:59 | 2025-12-31 | 2026-01-21 |
 | [You See Me as an Artist](https://open.spotify.com/track/2Ctm2lgIDtj7O1xwIvVZ9s) | [Sarah Hedger](https://open.spotify.com/artist/2CQDj93K4SEEYoQf96TjIy) | [You See Me as an Artist](https://open.spotify.com/album/0PjyoYmAqYGlL26PcijTeK) | 2:23 | 2025-12-01 | 2025-12-28 |
+| [You Think You've Got It](https://open.spotify.com/track/0yMfVMcr9vOBhWj3iU7O8f) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Renegade](https://open.spotify.com/album/3vYFD37Z4kBwKK9VypycbE) | 4:31 | 2026-07-06 |  |
 | [Young Women Infected with Jezebel Spirits \- Live](https://open.spotify.com/track/7lrT63Fla8L2qXzp5EVCFk) | [Giant DeNiro](https://open.spotify.com/artist/5lWLKEOgc6ZW7sliDPAPdY) | [Giant DeNiro \(Live\)](https://open.spotify.com/album/0QkYALhuOncbbnnsjMhGV8) | 2:54 | 2026-01-29 | 2026-02-18 |
 | [Ängste](https://open.spotify.com/track/5uWyW8ndF4m6Q56T3RhUke) | [Seelenpein](https://open.spotify.com/artist/3zOFOdI46zJqqGMKYhUTDV) | [Ängste](https://open.spotify.com/album/3zYyBFxpDBZ2S9nLu72FA3) | 3:17 | 2026-04-28 | 2026-05-26 |
 | [Два серця](https://open.spotify.com/track/1pkfxxopKZB7QVOvzjTjP7) | [ЛЮТА](https://open.spotify.com/artist/5XFjkWAijGDE0j4yAF4ftC) | [Два серця](https://open.spotify.com/album/5J6MYfGrjHdIIiSQ4Ium49) | 2:45 | 2026-03-03 |  |

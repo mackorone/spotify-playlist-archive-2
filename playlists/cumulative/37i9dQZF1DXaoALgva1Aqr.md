@@ -4,7 +4,7 @@
 
 > The biggest sounds for the beautiful game ⚽
 
-61 songs - 3 hr 38 min
+62 songs - 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [I Gotta Feeling](https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:49 | 2026-06-09 |  |
 | [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 | 2026-06-09 |  |
 | [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 | 2026-06-13 |  |
-| [Kernkraft 400](https://open.spotify.com/track/6PUzxtIHkv346yP89NzP9X) | [Zombie Nation](https://open.spotify.com/artist/7vFpNLbCXbBFs4kFBUlkSl) | [Kernkraft 400 Single Mixes](https://open.spotify.com/album/2qmrRoUZQemrKFr9PBMDHd) | 4:45 | 2026-06-09 |  |
+| [Kernkraft 400](https://open.spotify.com/track/6PUzxtIHkv346yP89NzP9X) | [Zombie Nation](https://open.spotify.com/artist/7vFpNLbCXbBFs4kFBUlkSl) | [Kernkraft 400 Single Mixes](https://open.spotify.com/album/2qmrRoUZQemrKFr9PBMDHd) | 4:45 | 2026-06-09 | 2026-07-07 |
 | [La Copa de la Vida \(La Cancion Oficial de la Copa Mundial, Francia '98\) \- Spanglish Radio Edit](https://open.spotify.com/track/0KnZ3Fgnqjmz4Sl2OA5zwa) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:37 | 2026-06-09 |  |
 | [Let Me Entertain You](https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Life Thru A Lens](https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN) | 4:22 | 2026-06-09 |  |
 | [Lighter](https://open.spotify.com/track/3i5yV30C8kFn84q5qIh2sY) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Lighter \(FIFA World Cup 2026™\)](https://open.spotify.com/album/1MSm697OSJkLnNed3JY0Dh) | 2:59 | 2026-06-09 |  |
@@ -53,6 +53,7 @@
 | [Seven Nation Army](https://open.spotify.com/track/3dPQuX8Gs42Y7b454ybpMR) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:52 | 2026-06-09 |  |
 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 | 2026-06-09 |  |
 | [Sweet Caroline](https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV) | [Neil Diamond](https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes) | [Sweet Caroline](https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd) | 3:23 | 2026-06-09 |  |
+| [Take Me Home, Country Roads \- Original Version](https://open.spotify.com/track/1YYhDizHx7PnDhAhko6cDS) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Poems, Prayers and Promises](https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU) | 3:13 | 2026-07-06 |  |
 | [Tatu Bom de Bola \(The Official 2014 FIFA World Cup Mascot Song\)](https://open.spotify.com/track/4ZrPTE0IOnCeT9MXjESVdP) | [Arlindo Cruz](https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP) | [Tatu Bom de Bola \(The Official 2014 FIFA World Cup Mascot Song\)](https://open.spotify.com/album/4f35WxC3fgS2N6IWrfStkm) | 3:21 | 2026-06-09 | 2026-06-14 |
 | [The World Is Ours \(Coca\-Cola 2014 World's Cup Anthem\)](https://open.spotify.com/track/3C4w6xn8ywZX6tPY110Avs) | [Aloe Blacc X David Correy](https://open.spotify.com/artist/4Nx36PEzJoS5uSPoYZ7E5B) | [The World Is Ours \(Coca\-Cola 2014 World's Cup Anthem\)](https://open.spotify.com/album/4sIDoxshMRh5RC5XX1DXCd) | 2:54 | 2026-06-09 | 2026-06-27 |
 | [This One's for You \(feat\. Zara Larsson\) \(Official Song UEFA EURO 2016\)](https://open.spotify.com/track/46NBoIAHrmR7qcUGCIFEjR) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [This One's for You \(feat\. Zara Larsson\) \[Official Song UEFA EURO 2016\]](https://open.spotify.com/album/7EvlnQaVuUuFLIeSuE6nRq) | 3:27 | 2026-06-09 |  |

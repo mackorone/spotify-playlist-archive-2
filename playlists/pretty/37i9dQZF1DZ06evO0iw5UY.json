@@ -1,12 +1,12 @@
 {
   "description": "This is Krewella. The essential tracks, all in one playlist.",
-  "num_followers": 28197,
+  "num_followers": 28200,
   "original_name": "This Is Krewella",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akhNAAAAAADEPZCiEYGBqNlrtZvB1scI",
+  "snapshot_id": "akmegAAAAADRZ2RQlxuJQR2VSmTjmLbf",
   "tracks": [
     {
       "added_at": null,
@@ -567,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "zer0",
+        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 186965,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/34a72beTRCPtigmNlHdy3G"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 177499,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/5CwSEAyM1cQG2uV1XTHn34"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "zer0",
-        "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 186965,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/1Nd3uXANYEAy9z30IlzIWF"
     },
     {
       "added_at": null,
@@ -679,30 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "zer0 (The Remixes, Pt. 1)",
-        "url": "https://open.spotify.com/album/1tKNZiieRvhgkQce7FufKC"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        },
-        {
-          "name": "Nucleya",
-          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
-        },
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "Good On You - MOTi Remix",
-      "url": "https://open.spotify.com/track/30PysXbn5cVodLBPGV2FWb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/2ZklcEqT1pZUX0hTNFNVOa"
       },
@@ -723,6 +699,30 @@
       "duration_ms": 204800,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/49mrGrTON4QYZri9gEHSFl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "zer0 (The Remixes, Pt. 1)",
+        "url": "https://open.spotify.com/album/1tKNZiieRvhgkQce7FufKC"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        },
+        {
+          "name": "Nucleya",
+          "url": "https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh"
+        },
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Good On You - MOTi Remix",
+      "url": "https://open.spotify.com/track/30PysXbn5cVodLBPGV2FWb"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Krewella (Hits Japan Special Edition)",
-        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
-      },
-      "artists": [
-        {
-          "name": "Krewella",
-          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-        }
-      ],
-      "duration_ms": 214453,
-      "name": "Party Monster",
-      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New World Pt. 1",
         "url": "https://open.spotify.com/album/2Ar8jEA2FlEofQbzLZAcXz"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 191420,
       "name": "TH2C",
       "url": "https://open.spotify.com/track/5vnxTBEsJQs090J05EQl7X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Krewella (Hits Japan Special Edition)",
+        "url": "https://open.spotify.com/album/4K7tFtMLmnx4m55edoHwvT"
+      },
+      "artists": [
+        {
+          "name": "Krewella",
+          "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
+        }
+      ],
+      "duration_ms": 214453,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/1HUMI5qtdgmXQaaqVzJbjv"
     },
     {
       "added_at": null,

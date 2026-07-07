@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de rock en español\. 📸: MUGRE
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,657 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,672 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 25 | [Es complicado](https://open.spotify.com/track/1r5KkBzxJdWR4c7dAzzzIp) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Es complicado](https://open.spotify.com/album/43JzO4kGx4SAEoETJ6xBAI) | 3:41 |
 | 26 | [¿Para Qué Suena el Reloj? Lo Quiero Tirar por la Ventana](https://open.spotify.com/track/6i1uIQp8rFHM8K7tskRYMd) | [Txefas](https://open.spotify.com/artist/0dZ7zHbiBBlE9PwD0ElHsp), [Dumbmonei](https://open.spotify.com/artist/1tW2MHiCKk8qcwfz3ChcTN) | [Tierra y sangre, humanidad\. — Parte I](https://open.spotify.com/album/7w3m7TB2sSka1IbAY771nH) | 2:31 |
 | 27 | [Antes de Cerrar el Bar](https://open.spotify.com/track/2f0R4rmAgY85dNT74x9WaJ) | [Interferencias](https://open.spotify.com/artist/5FfMaucNsbPciI1kCmVQIN) | [Antes de Cerrar el Bar](https://open.spotify.com/album/1xMvXq94EyezYioTsQAkvF) | 3:04 |
-| 28 | [Verdadero Amor](https://open.spotify.com/track/0g8WShTm10NsRlrWIu7fVu) | [Hermanos Ilabaca](https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd), [Felipe Ilabaca](https://open.spotify.com/artist/1N825gWlAIeF3zC3bKVMHU), [Pablo Ilabaca](https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A) | [Verdadero Amor](https://open.spotify.com/album/6zoyKU0a7N6DxfNiU5Hh9G) | 3:25 |
+| 28 | [Verdadero Amor](https://open.spotify.com/track/0g8WShTm10NsRlrWIu7fVu) | [Hermanos Ilabaca](https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd) | [Verdadero Amor](https://open.spotify.com/album/6zoyKU0a7N6DxfNiU5Hh9G) | 3:25 |
 | 29 | [11 esperono X.X](https://open.spotify.com/track/4sN0MTVxQhl9yt7EJXULCP) | [El Verumcito](https://open.spotify.com/artist/0Xe3f3OUBfpL0WbRwAJXwY) | [11 esperono X.X](https://open.spotify.com/album/0SWJSzzMPtq7rck43vBDr7) | 3:35 |
 | 30 | [Tu Eres La Respuesta](https://open.spotify.com/track/52iBEylgUX8wbfbrLyvdUw) | [Iguana Tango](https://open.spotify.com/artist/5P4gTu22GQje4EDwps9cht) | [Tu Eres La Respuesta](https://open.spotify.com/album/53PlBI2GKp9bvcD4Cb6eDD) | 3:14 |
 | 31 | [Diablo Que Soy](https://open.spotify.com/track/34spvmbaocIBAynTOD4h4y) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Diablo Que Soy](https://open.spotify.com/album/6Pw9t1res1r9hcqLFbtExZ) | 2:47 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,861 likes - 99 songs - 6 hr 35 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,861 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 97 | [Parassonia](https://open.spotify.com/track/4zIFbijlXlr7ZxD9bvHqcT) | [Woleisik](https://open.spotify.com/artist/2kjopW4bTcPLIgEV27InnP) | [Parassonia](https://open.spotify.com/album/5nCXkCNjBxkkEJ7TjlbAFp) | 3:35 |
 | 98 | [Querem te Sangrar \(KaVva\)](https://open.spotify.com/track/01QUv8IT64cWSmq4TafHYg) | [Banda KaVva](https://open.spotify.com/artist/0EF4MYnsNtVXBAi2yitscA) | [Querem te Sangrar \(KaVva\)](https://open.spotify.com/album/38dc7ED7uhnLSMdhn1w5TK) | 4:15 |
 | 99 | [Levanta el Iphone en el aire](https://open.spotify.com/track/3BE1WfyyKpMNdJ4dF1p6pr) | [Dale Jaguar](https://open.spotify.com/artist/1KOrPe34NvSqsXPUOZyoQJ) | [Levanta el Iphone en el aire](https://open.spotify.com/album/1B4rFcDUWsnK7J9dLc86ed) | 3:39 |
+| 100 | [Sick!](https://open.spotify.com/track/2A00B4SjJEASXKfu4zJ8c8) | [Pet Taxi](https://open.spotify.com/artist/2nQkFrDhzQcQVI2ZIW8n5A) | [Sick!](https://open.spotify.com/album/1lXKY85pNjdwFbkpAy4Nj5) | 2:59 |
 
-Snapshot ID: `AAAL5cO81GW95gA2XLdOVXEoA27Cdfzd`
+Snapshot ID: `AAAL5l0CLLtCKGLKjL+zg+Cw00ANFad8`

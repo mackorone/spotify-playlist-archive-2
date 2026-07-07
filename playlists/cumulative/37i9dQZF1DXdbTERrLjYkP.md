@@ -4,7 +4,7 @@
 
 > Discover the next wave of talent writing their own songs\. Cover: Cassandra Coleman
 
-1,100 songs - 2 day 11 hr 16 min
+1,103 songs - 2 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Aint It Such A Bitch](https://open.spotify.com/track/2YAKZEYMB1blelLn57KzHk) | [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [Aint It Such A Bitch](https://open.spotify.com/album/4HRHCb1ApGerwsb0kUcK9p) | 3:26 | 2026-03-06 |  |
 | [Aisle 6](https://open.spotify.com/track/6imuRuYPVTDg3XIKLrAuav) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Aisle 6](https://open.spotify.com/album/5uBb7hM05jypCsZo2Kd1ve) | 3:05 | 2024-03-29 | 2024-05-18 |
 | [Alcohol](https://open.spotify.com/track/7knB6NUQFwmKEBroRiLsQ1) | [Kerr Mercer](https://open.spotify.com/artist/5sCWBXe11vVgkSogU1jq5x) | [Alcohol](https://open.spotify.com/album/0hYcs0BNcfioP8zWglC9zt) | 3:19 | 2025-11-21 | 2026-05-23 |
-| [ALICE](https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [ALICE](https://open.spotify.com/album/1JmyKpeyt4cHkYlfKBU6Dv) | 4:39 | 2026-02-27 |  |
+| [ALICE](https://open.spotify.com/track/62lIi3Mb3jR018YFjESFl7) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [ALICE](https://open.spotify.com/album/1JmyKpeyt4cHkYlfKBU6Dv) | 4:39 | 2026-02-27 | 2026-07-07 |
 | [ALICE](https://open.spotify.com/track/1c4hrCYvdfJ6IQM0tf9bk1) | [PEGGY](https://open.spotify.com/artist/1E6ADXoD9nUhFEwKgwjEdh) | [ALICE](https://open.spotify.com/album/0978t07FucRDrjdMNEdG0Z) | 2:33 | 2023-11-10 | 2024-03-30 |
 | [alien](https://open.spotify.com/track/0VXQiOS3qpyAQNSX8jX88I) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [serious person \(part 2\)](https://open.spotify.com/album/7LDOkHuqa8vZxIYf0J4p4q) | 3:18 | 2023-09-22 | 2023-12-14 |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-11 | 2022-04-29 |
@@ -90,6 +90,7 @@
 | [Augusta](https://open.spotify.com/track/35h0oVv5uf0WPNMaFAmNXS) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:57 | 2022-01-14 | 2022-02-26 |
 | [Avalon](https://open.spotify.com/track/3nqDStgA910ZZtDqfgxO3H) | [Rachel Harlow](https://open.spotify.com/artist/7808k6MySVY31Nz6uYQC7r) | [Avalon](https://open.spotify.com/album/6G0HyqDV6Iu7V7MDusQ2Be) | 3:27 | 2025-09-05 | 2026-01-17 |
 | [AVERAGE AMERICAN WOMAN](https://open.spotify.com/track/4yKrWwUOOAt4U4Asxe3igO) | [Lily Mae Harrington](https://open.spotify.com/artist/0VUppYTrblZVeLBqEWjnlJ) | [Average American Woman](https://open.spotify.com/album/1zMZpg939xZFcaEqUjjtDP) | 2:39 | 2025-02-28 | 2025-05-03 |
+| [avoid me](https://open.spotify.com/track/1AEeEOK6AIVFM6BtRfPOYa) | [Mikal Sabella](https://open.spotify.com/artist/48l3CDUNMi5cDJDzatyl8X) | [avoid me](https://open.spotify.com/album/4LQF20TUI2tPxoztReVxSd) | 3:22 | 2026-07-06 |  |
 | [Baby Again](https://open.spotify.com/track/3DRdm0cEIMTe8QbL63AN4b) | [Madhavi Devi](https://open.spotify.com/artist/0htjgBT1mgEJG1hvSOnToR) | [Luck of the Draw](https://open.spotify.com/album/4Pl5OaVAIUmHmY4ExUu3Hh) | 4:17 | 2026-06-19 |  |
 | [Baby Just Be](https://open.spotify.com/track/3500z3pULXj7gW4xP7TnvF) | [Hudson Ingram](https://open.spotify.com/artist/1BRxpuKTlqnqSofTbVx4oo) | [Baby Just Be](https://open.spotify.com/album/7FQvxpYqB5FSr34Fi6JFgZ) | 3:46 | 2026-01-16 | 2026-03-14 |
 | [Back to Friends](https://open.spotify.com/track/2Obwg8XE4sWXLpJSDlxn1r) | [Lauren Spencer\-Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Back to Friends](https://open.spotify.com/album/5t2hgJnqejxo2yaLFimYac) | 3:35 | 2022-01-14 | 2022-03-26 |
@@ -375,6 +376,7 @@
 | [going under](https://open.spotify.com/track/3ZHya5rTwM1t3oG7zyPjtn) | [Ali Wolv](https://open.spotify.com/artist/74XB8aP3f2Ze0JgzVmrjWx) | [going under](https://open.spotify.com/album/3rdeYQMlp9NM9VrGc46aHa) | 3:20 | 2025-03-28 | 2025-08-02 |
 | [gone for good](https://open.spotify.com/track/4DTeo7lwguLqQkIOdLIVGz) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [gone for good](https://open.spotify.com/album/0VlKR6VsPLG50lA3bvw509) | 2:53 | 2024-01-05 | 2024-02-24 |
 | [Gonna Change](https://open.spotify.com/track/5QqIpatrYBsKX4pEcmzKxo) | [Ruby Roberts](https://open.spotify.com/artist/1NBOzhyeQS5kLMtiQiZkFD) | [Gonna Change](https://open.spotify.com/album/6RAkIXujAPL3B2k5SmsCZI) | 3:48 | 2025-06-13 | 2025-09-27 |
+| [Good Company](https://open.spotify.com/track/2LTRIUYab9pf6wGtX1We3h) | [Samaera](https://open.spotify.com/artist/74FCyRCyjTCpKEzoxNoTyG) | [Samaerica \(Deluxe\)](https://open.spotify.com/album/2Dh1ad4DSaHRSPHgiG4l3j) | 2:16 | 2026-07-06 |  |
 | [Good For Me](https://open.spotify.com/track/0Yf0jgTPenhgWIYgbOh4EL) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Good For Me](https://open.spotify.com/album/3x7E0B0uw3dDz3XOKYdtoX) | 3:30 | 2022-11-11 | 2023-01-28 |
 | [Good Material](https://open.spotify.com/track/6ayWThHJIEq12z3fuR9S5n) | [dearest](https://open.spotify.com/artist/63nfkiGvTNEHhYfTIQnNfT) | [Good Material](https://open.spotify.com/album/3Y6a2ox0oKtmfiF8UyPeYd) | 3:30 | 2026-03-20 |  |
 | [GOOD MEASURE](https://open.spotify.com/track/6P8L4RZSh7NoguKjUFmO1i) | [Carver Jones](https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid) | [AMERICAN DREAMERS, Vol\. 2](https://open.spotify.com/album/12a16yqWGANg0GSrNleOqm) | 2:28 | 2025-04-11 | 2025-07-19 |
@@ -549,7 +551,7 @@
 | [Isn't It Obvious](https://open.spotify.com/track/5QDtGxC2khjwLEq1bXhdEj) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Isn't It Obvious](https://open.spotify.com/album/20qybCQYkW2B6pONKi8u0v) | 2:38 | 2023-11-17 | 2024-08-03 |
 | [Isolate Myself](https://open.spotify.com/track/24i28lemdaXJuEpmWcoDzU) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Isolate Myself](https://open.spotify.com/album/2m6MKgiZRApIMIxOAptu3C) | 3:05 | 2022-07-08 | 2022-12-03 |
 | [It's No Fun](https://open.spotify.com/track/5AwztQuXdndXJPNNwrF00X) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [It's No Fun](https://open.spotify.com/album/6qDA7zAfwhlinzTUzuxaK5) | 2:43 | 2024-07-12 | 2024-09-07 |
-| [It's Not You It's Him](https://open.spotify.com/track/5GliRrmzhcTZyXCl0EXBC1) | [Niamh McCrystal](https://open.spotify.com/artist/2LoxxZskH5pEoFCfcBiyQ6) | [It's Not You It's Him](https://open.spotify.com/album/4zWSKRsewtQmVuuTFdkEIK) | 2:49 | 2026-03-13 |  |
+| [It's Not You It's Him](https://open.spotify.com/track/5GliRrmzhcTZyXCl0EXBC1) | [Niamh McCrystal](https://open.spotify.com/artist/2LoxxZskH5pEoFCfcBiyQ6) | [It's Not You It's Him](https://open.spotify.com/album/4zWSKRsewtQmVuuTFdkEIK) | 2:49 | 2026-03-13 | 2026-07-07 |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-01-14 | 2022-08-06 |
 | [Jane](https://open.spotify.com/track/6q0NjsiOc2bkDZD69cDoFz) | [Camryn Quinlan](https://open.spotify.com/artist/4LTuD2pcC8Q9Daye8xqvtW) | [Jane](https://open.spotify.com/album/0s1W33g7nEzJCBLmQkv3En) | 3:09 | 2025-11-21 | 2026-04-04 |
 | [joke's on me](https://open.spotify.com/track/3NqWqrlLhDVUdy9andNGYM) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [committed to a bit](https://open.spotify.com/album/7pzCbXIKBn1wqJSNI8icip) | 3:58 | 2025-02-28 | 2025-06-07 |
@@ -712,6 +714,7 @@
 | [NOT AGAIN](https://open.spotify.com/track/6HXvariUkMlkUgg9qzLTc2) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [NOT AGAIN](https://open.spotify.com/album/5PYdawNgLyNhuJ3pp7xrvQ) | 3:36 | 2022-05-27 | 2022-07-23 |
 | [Not Everything Ends](https://open.spotify.com/track/16X7jn4USwVk0dVobvFN5R) | [Lilly Bedard](https://open.spotify.com/artist/3BOM6mBdjxE9X31SGRiyIn) | [Not Everything Ends](https://open.spotify.com/album/3RUxz2erYYect3c0ogPRxC) | 3:39 | 2025-02-07 | 2025-06-07 |
 | [Not For Me](https://open.spotify.com/track/1mHcikpSNzkFdhYNctCsJy) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Not For Me](https://open.spotify.com/album/6TFlN4zjEzMthBNYleuAJg) | 3:46 | 2022-01-14 | 2022-03-05 |
+| [Not Going Back](https://open.spotify.com/track/6Th9lSm2XopRstK6kNlfSa) | [Muireann Bradley](https://open.spotify.com/artist/4kuuvvwzgrAZYE67WPrbYl) | [Not Going Back](https://open.spotify.com/album/4CbuucoAgrfGommZyADFtY) | 3:26 | 2026-07-06 |  |
 | [Not My Friends](https://open.spotify.com/track/6nsZO7sBNyWgREWxS3uOEy) | [Fiona\-Lee](https://open.spotify.com/artist/50vlHl1iuV051WG7kRaCmQ) | [Not My Friends](https://open.spotify.com/album/6xYLt9hhDC5Kn4R4H4FPdK) | 3:28 | 2026-03-20 |  |
 | [Nothing Lasts Forever](https://open.spotify.com/track/6YUZYGMzBw8VXmXmeOcxv2) | [Jules Paymer](https://open.spotify.com/artist/5RsYo1rckHPH2ERWm3tGeS) | [Nothing Lasts Forever](https://open.spotify.com/album/5ATBHthIlq9ouTm6NlPsMG) | 3:56 | 2026-05-22 |  |
 | [NOTHING!](https://open.spotify.com/track/0LPru9yHo3roipmisve7Mz) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [NOTHING!](https://open.spotify.com/album/1mqeIkHYdFh6N8CmCG9ijH) | 2:19 | 2023-08-18 | 2023-11-11 |
@@ -722,7 +725,7 @@
 | [Old Time's Sake](https://open.spotify.com/track/1uNZx15zIBLQzBQ7h3MkZs) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [Old Time's Sake](https://open.spotify.com/album/4JRlbtTEJu7TQ3DVp5vKO2) | 3:44 | 2026-03-06 |  |
 | [older](https://open.spotify.com/track/0q49ODitYkfDWQbMcsXfod) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [older](https://open.spotify.com/album/3mBgNei9rEYjsumRgfANDE) | 2:37 | 2023-05-19 | 2023-09-05 |
 | [On The Drive Home](https://open.spotify.com/track/5HXQI1AJwzmnxLVm7BW1kV) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t) | 4:16 | 2022-08-12 | 2022-12-24 |
-| [One For The Road](https://open.spotify.com/track/3tmfku440xHAmxVZHkFYru) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [One For The Road](https://open.spotify.com/album/15q6BF5pmuaICRuWgXXrqJ) | 4:06 | 2026-03-06 |  |
+| [One For The Road](https://open.spotify.com/track/3tmfku440xHAmxVZHkFYru) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [One For The Road](https://open.spotify.com/album/15q6BF5pmuaICRuWgXXrqJ) | 4:06 | 2026-03-06 | 2026-07-07 |
 | [One Man Show](https://open.spotify.com/track/3cv94ffVsAqitFcbwlr2CV) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [One Man Show](https://open.spotify.com/album/58GUyjbezG6kYGisHTNcBy) | 2:58 | 2024-02-23 | 2024-08-17 |
 | [Only 25](https://open.spotify.com/track/4v1vSTBTzpX6vl0i1Nginj) | [Eliott](https://open.spotify.com/artist/2oYcBXVaDoRJZiIwydeDzB) | [just calling to tell you i'm ok](https://open.spotify.com/album/0t29L89Q41eyqo1UOCJM2A) | 3:43 | 2023-08-11 | 2023-12-14 |
 | [open arms](https://open.spotify.com/track/75AMnCxY4ahOMeIn9LDvSE) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls](https://open.spotify.com/album/4HeMF37gL9maj7PD2lZ1q8) | 6:10 | 2022-04-08 | 2022-04-29 |

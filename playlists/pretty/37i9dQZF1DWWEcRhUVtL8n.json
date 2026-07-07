@@ -1,12 +1,12 @@
 {
   "description": "New and approved indie pop. Cover: Quiet Houses",
-  "num_followers": 1667066,
+  "num_followers": 1666977,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIQ+m5ayP+GE75Lkmg9i7++Ogget",
+  "snapshot_id": "AAAAAKTqIFivSsl4CURJW+dt/MW6Y5JL",
   "tracks": [
     {
       "added_at": "2026-06-19 04:01:13",
@@ -1497,6 +1497,22 @@
       "url": "https://open.spotify.com/track/4YOpINlEvanckbfIAwsdkx"
     },
     {
+      "added_at": "2026-07-06 20:29:59",
+      "album": {
+        "name": "Edges of You",
+        "url": "https://open.spotify.com/album/6qSE38dtgNyo5Enaxa1EFo"
+      },
+      "artists": [
+        {
+          "name": "Alfie Jukes",
+          "url": "https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9"
+        }
+      ],
+      "duration_ms": 194746,
+      "name": "Edges of You",
+      "url": "https://open.spotify.com/track/3dat7vpTyvyUiCYkvopr1L"
+    },
+    {
       "added_at": "2026-06-12 04:02:00",
       "album": {
         "name": "Shiny Stockings",
@@ -1663,22 +1679,6 @@
       "duration_ms": 266129,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4zgFh0ZXkVcyXpJbteYviU"
-    },
-    {
-      "added_at": "2026-05-15 16:17:55",
-      "album": {
-        "name": "Memory Be a Blade",
-        "url": "https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00"
-      },
-      "artists": [
-        {
-          "name": "waterbaby",
-          "url": "https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Memory Be a Blade",
-      "url": "https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA"
     }
   ],
   "unique_name": "Indie Pop",

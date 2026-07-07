@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,492 songs - 21 day 14 hr 59 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,496 songs - 21 day 15 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3890,7 +3890,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 3880 | [Versace \(Remix\)](https://open.spotify.com/track/0XGLsSU6wtfnKXiMNvQr61) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Versace \(feat\. Drake\) \[Remix\] \- Single](https://open.spotify.com/album/35Lhx0cJU8MMnENePMmt6f) | 4:06 |
 | 3881 | [Cocaina \(feat\. Young Thug\)](https://open.spotify.com/track/1YDnLxy20HhSlh6322QiGF) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Yung Rich Nation](https://open.spotify.com/album/34DPoSeDW5fw2QW9Hl5Y92) | 5:18 |
 | 3882 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 |
-| 3883 | [All I Want Is You \(feat\. J\. Cole\)](https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 4:55 |
+| 3883 | [All I Want Is You \(feat\. J\. Cole\)](https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 4:57 |
 | 3884 | [Sky Walker \(feat\. Travis Scott\)](https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [War & Leisure](https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI) | 4:19 |
 | 3885 | [希望の泉　（Source d'espoir）](https://open.spotify.com/track/4CNEDC1YC4ghwfXJmMIFqa) | [Miharu Koshi](https://open.spotify.com/artist/30CYXpJrFdQp3RT7IW34ff) | [Madame Crooner](https://open.spotify.com/album/7b3Z64lKHNxXcMqE3fJAmA) | 4:27 |
 | 3886 | [plz don’t cut my wings \(feat\. Earl Sweatshirt\)](https://open.spotify.com/track/1ic7rjvkA5LzguZHZHAe6M) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 3:38 |
@@ -8500,5 +8500,9 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8490 | [デート・ア・ライブ](https://open.spotify.com/track/4lHhlaay5sKaj3rcAHuwxb) | [sweet ARMS](https://open.spotify.com/artist/4VNX81QK24dwtTCv4lx8Ae) | [選んでデート・ア・ライブ 〜DATE A LIVE BEST SELECTION〜](https://open.spotify.com/album/2l4Kgi1AL5yLsns24Xrgii) | 4:40 |
 | 8491 | [Galactic mermaid](https://open.spotify.com/track/1yHXUDFaAtxty9N3eklIHY) | [マーメイド・シスターズ\(Vo.クリヤマユウリ\)](https://open.spotify.com/artist/4USrgZyHavtZNMDfftaKSq) | [TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1](https://open.spotify.com/album/54hb2cgal71xCmoC9EB4IW) | 2:03 |
 | 8492 | [Move Mountains](https://open.spotify.com/track/0jpqrFBVDKNYXogtpUZdPx) | [アンジェラ \(Vo\. Alisa\)](https://open.spotify.com/artist/19Z6ho646iYK8BK0FrQMot) | [TVアニメ「キャロル＆チューズデイ」VOCAL COLLECTION Vol.1](https://open.spotify.com/album/54hb2cgal71xCmoC9EB4IW) | 2:51 |
+| 8493 | [ギブミー・シークレット](https://open.spotify.com/track/3jQ062srftGELEE2PRDAMe) | [StylipS](https://open.spotify.com/artist/16Vu3ajNELyWQhDuqyi2zR) | [ギブミー・シークレット](https://open.spotify.com/album/3YFO3niisQcza038bWIUUl) | 3:47 |
+| 8494 | [destiny](https://open.spotify.com/track/2LVEEbWnNKnnmCkc9yRwJc) | [TEAM B・A・K・A](https://open.spotify.com/artist/2SCVh3n48D3OBBYLor3HKZ) | [ギブミー・シークレット](https://open.spotify.com/album/3YFO3niisQcza038bWIUUl) | 4:51 |
+| 8495 | [ギブミー・シークレット \- inst.](https://open.spotify.com/track/6JIbQJmxPK6hooISd4A0mC) | [StylipS](https://open.spotify.com/artist/16Vu3ajNELyWQhDuqyi2zR) | [ギブミー・シークレット](https://open.spotify.com/album/3YFO3niisQcza038bWIUUl) | 3:47 |
+| 8496 | [destiny \- inst.](https://open.spotify.com/track/6PGEBF1J8sArr5HdTxkM6n) | [TEAM B・A・K・A](https://open.spotify.com/artist/2SCVh3n48D3OBBYLor3HKZ) | [ギブミー・シークレット](https://open.spotify.com/album/3YFO3niisQcza038bWIUUl) | 4:51 |
 
-Snapshot ID: `AAAMQu/3doSj6M4lAo9eBRoAIoJLh4JK`
+Snapshot ID: `AAAMQ9EpgE+ONRBOSl5vOCP4OUPUffCB`

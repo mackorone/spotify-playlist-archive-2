@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 
 > This is Gorillaz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,246,999 likes - 49 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,247,111 likes - 49 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25rXbO.md) - [plain]
 | 48 | [Doncamatic \(feat\. Daley\)](https://open.spotify.com/track/0OFQwUVOYXn4E8scJq0PAc) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [Doncamatic \(feat\. Daley\) \[The Joker Remix\]](https://open.spotify.com/album/1cOrqReo4cBhPQk10rfZ0W) | 3:22 |
 | 49 | [Magic City](https://open.spotify.com/track/6zGTjEZ2zpLbl5Ij7vzTsi) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 3:59 |
 
-Snapshot ID: `akhNAAAAAABF0GBr5y5JNZmTIKrcZxQY`
+Snapshot ID: `akmegAAAAAD1mZkzsS7Kd2Le1bZ1IIPR`

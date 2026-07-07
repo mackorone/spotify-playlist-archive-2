@@ -4285,6 +4285,24 @@
     },
     {
       "album": {
+        "name": "There's Hope In Your Eyes",
+        "url": "https://open.spotify.com/album/6NTcK9N518nRlmJ7h5daHz"
+      },
+      "artists": [
+        {
+          "name": "Fahlberg",
+          "url": "https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk"
+        }
+      ],
+      "date_added": "2026-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239016,
+      "name": "There's Hope In Your Eyes",
+      "url": "https://open.spotify.com/track/4cR6cgInYHfRsgLSl4VlyM"
+    },
+    {
+      "album": {
         "name": "I Talk To Water",
         "url": "https://open.spotify.com/album/07aZK8FsMUcJkrADgMWxsi"
       },

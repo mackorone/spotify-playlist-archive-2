@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by Varinder Brar, Garry Sandhu & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,249 likes - 74 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,271 likes - 74 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 44 | [Kaan Banere](https://open.spotify.com/track/7M9NCsIMYjf6ihWvbihrGV) | [Kulbursha](https://open.spotify.com/artist/0ULP5Pq0me1OFjAKp50uKh), [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Super Duper](https://open.spotify.com/album/1XQMtLRIwCOxtdyvfLyIE7) | 2:52 |
 | 45 | [Where I Stand](https://open.spotify.com/track/1lrRFZobvpZyrkjdLOK1zw) | [prodbysuri](https://open.spotify.com/artist/4xqvig7GQBWssu7T7W0OTw) | [Where I Stand](https://open.spotify.com/album/54hKWtZFtn4FvyNTwv49Ra) | 1:24 |
 | 46 | [Chosen Ones](https://open.spotify.com/track/49jnvocDtzb8PETrMdv5u8) | [Gurinder Gill](https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Manu](https://open.spotify.com/artist/3IKpHWEZQ8pPp4PEsGuT28) | [Can't Stop Now](https://open.spotify.com/album/030a4ObLC1PdluepsqarAM) | 3:09 |
-| 47 | [45\-47](https://open.spotify.com/track/5ngJrkjgZJW0QwlYxMUS02) | [Heaven](https://open.spotify.com/artist/5GSq2GrKEiL9qq1Vka2zZY), [GROOVX](https://open.spotify.com/artist/7xsucfxpIUiAgmnNPhIHhu) | [45\-47](https://open.spotify.com/album/5gHWsN2v9iNyXvO6UWCn7C) | 2:19 |
+| 47 | [45\-47](https://open.spotify.com/track/5ngJrkjgZJW0QwlYxMUS02) | [Heaven](https://open.spotify.com/artist/5GSq2GrKEiL9qq1Vka2zZY), [GROOVX](https://open.spotify.com/artist/7xsucfxpIUiAgmnNPhIHhu) | [45\-47](https://open.spotify.com/album/5gHWsN2v9iNyXvO6UWCn7C) | 2:22 |
 | 48 | [Yours & Mine](https://open.spotify.com/track/74xpb0GbkoEwA8rtou9irY) | [HASH SINGG](https://open.spotify.com/artist/6wQIqCd1dnAoAEKX311Gb0), [Kuwar Virk](https://open.spotify.com/artist/0TnYVn2gCscbah7B833t5s), [Herman Gill](https://open.spotify.com/artist/5cthFwnSYhZmJH8tVTIY5G) | [Yours & Mine](https://open.spotify.com/album/51CxmtxGrOf3udfP4zSHf9) | 2:29 |
 | 49 | [Tryna Play Me](https://open.spotify.com/track/1zI8jfFXdftRqetTSclwM0) | [PNM](https://open.spotify.com/artist/1Kephmmdzn9A1498IX9u0E), [Gary Sidana](https://open.spotify.com/artist/6u3udaZVm2zdnn2uKlMLXd) | [Tryna Play Me](https://open.spotify.com/album/3KcLJrSjWdDKMPyHfP9XxE) | 2:20 |
 | 50 | [Body Tea](https://open.spotify.com/track/1IrhIWbg84Y40jOKyClcLm) | [Varii](https://open.spotify.com/artist/36d6RKxVFF9l7omzYlrEth), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [Body Tea](https://open.spotify.com/album/0mZN9VFmSozjKHgXDqWFx6) | 2:27 |

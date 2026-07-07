@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Hip\-Hop Tracks by Varinder Brar, Garry Sandhu & more!
 
-1,285 songs - 2 day 11 hr 1 min
+1,285 songs - 2 day 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [4 Khokhe](https://open.spotify.com/track/5GysylvDU1HKVPJ9MJOY4F) | [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2) | [4 Khokhe](https://open.spotify.com/album/4HFxmYNemCJsyBVaLtBf2o) | 2:44 | 2026-04-24 | 2026-05-30 |
 | [4 Things](https://open.spotify.com/track/6GxJ0IlOFJcsH1GTTzhOfM) | [Kalimixmusic](https://open.spotify.com/artist/7nUunwwJDAJ7Nb4D0lp8Zr), [Mf teezi](https://open.spotify.com/artist/1ESvZjIULDSORTU6LAHFne), [Katil](https://open.spotify.com/artist/6FNgKiQl4kz2HckiRT32ey) | [4 Things](https://open.spotify.com/album/6ZrgeDjgHRONasjfowftgO) | 2:58 | 2025-12-19 | 2026-01-31 |
 | [45](https://open.spotify.com/track/5XnYIsiOHVKWx0pKCinsEP) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N) | [45](https://open.spotify.com/album/1GA6BkfiK0RKKdjgNFPPIt) | 2:26 | 2024-08-08 | 2024-11-08 |
-| [45\-47](https://open.spotify.com/track/5ngJrkjgZJW0QwlYxMUS02) | [Heaven](https://open.spotify.com/artist/5GSq2GrKEiL9qq1Vka2zZY), [GROOVX](https://open.spotify.com/artist/7xsucfxpIUiAgmnNPhIHhu) | [45\-47](https://open.spotify.com/album/5gHWsN2v9iNyXvO6UWCn7C) | 2:19 | 2026-06-26 |  |
+| [45\-47](https://open.spotify.com/track/5ngJrkjgZJW0QwlYxMUS02) | [Heaven](https://open.spotify.com/artist/5GSq2GrKEiL9qq1Vka2zZY), [GROOVX](https://open.spotify.com/artist/7xsucfxpIUiAgmnNPhIHhu) | [45\-47](https://open.spotify.com/album/5gHWsN2v9iNyXvO6UWCn7C) | 2:22 | 2026-06-26 |  |
 | [48 Harley](https://open.spotify.com/track/1sTaswVpVw4huqdeYB09rQ) | [Happy Sxrpanch](https://open.spotify.com/artist/1SrazB8CqKbcfQGMsgOrz8) | [48 Harley](https://open.spotify.com/album/7avL6u2itSOmdCYccqO8jK) | 2:31 | 2026-06-12 | 2026-07-04 |
 | [48 Rhymes](https://open.spotify.com/track/6voByoJq77rN6FITdRhtLb) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Manna Music](https://open.spotify.com/artist/7JuTOJ6xkgM1RScWRrbCOT) | [48 Rhymes](https://open.spotify.com/album/12a6nYFLfVAdruHi64tJVX) | 1:50 | 2025-04-04 | 2025-07-02 |
 | [4X4](https://open.spotify.com/track/3KccPQIVS5EIaSgFZe20nN) | [Guraaj](https://open.spotify.com/artist/5nZxaUMMma4y6EptlQvdCF) | [4X4](https://open.spotify.com/album/2Icwnwz5Rj0v2HpYBy5Ixk) | 1:59 | 2026-04-17 | 2026-05-22 |

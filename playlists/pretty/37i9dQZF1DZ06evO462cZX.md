@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,674 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,678 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 17 | [ME GUSTA](https://open.spotify.com/track/4bbFWEArNN2tCgR0DpsylN) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [BOTAS & RAVE](https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz) | 2:27 |
 | 18 | [Cuando](https://open.spotify.com/track/2cXNJ4MCHKqbN3Q7YAUscL) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Cuando](https://open.spotify.com/album/1Jgf8NRmChspT9LHmySR9D) | 2:50 |
 | 19 | [PPP](https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Skrapy](https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP) | [PPP](https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr) | 3:08 |
-| 20 | [Como La Flor](https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Como La Flor](https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB) | 2:54 |
+| 20 | [teksi](https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd) | [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [pOCHO](https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ) | 2:48 |
 | 21 | [BOTAS CON BASS](https://open.spotify.com/track/1GRmevIWg03dJEC8UYZ7uM) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Montez de Durango](https://open.spotify.com/artist/1i4xi4ramy5BPYr2Bhf6sc), [Chan](https://open.spotify.com/artist/7eW92uO1go30tdK4XtqVPh) | [BOTAS & RAVE](https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz) | 3:15 |
-| 22 | [teksi](https://open.spotify.com/track/2GZZZxaN4jwXFfAaZVaKhd) | [8onthebeat](https://open.spotify.com/artist/2y1VEbp8cw5SD02nE7i473), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [pOCHO](https://open.spotify.com/album/7Htas2Bl8ae7bCTie70CAQ) | 2:48 |
+| 22 | [Como La Flor](https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR) | [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Como La Flor](https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB) | 2:54 |
 | 23 | [Keep It Goin'](https://open.spotify.com/track/5QO36B9kCFQdxKRRjkIrQD) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Danny Avila](https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH) | [Keep It Goin'](https://open.spotify.com/album/1bwM69ypPPzjYJv1iVusi8) | 2:55 |
 | 24 | [En El Audi](https://open.spotify.com/track/0gTkZI5TnR1OeNyjTPlccA) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [En El Audi](https://open.spotify.com/album/56FMJya9buOQo6JOlL3s9C) | 3:18 |
 | 25 | [SAKUDELO](https://open.spotify.com/track/2iGrZCkaOdmRgB4AtuGXU6) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [BOTAS & RAVE](https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 49 | [All This Time](https://open.spotify.com/track/1tq4UL9BB7BHuT6eorlX3X) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [All This Time](https://open.spotify.com/album/0gJoQZxblePiQK1nBisINs) | 3:45 |
 | 50 | [Descontrol](https://open.spotify.com/track/3Uq9Pu7Bqc0PQjLxRBY8aI) | [El Abelito](https://open.spotify.com/artist/2wyswmNTFTyrX2CeT9cda9), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Descontrol](https://open.spotify.com/album/6aoOHdMLH7CL6E6LgNCDni) | 2:34 |
 
-Snapshot ID: `akhNAAAAAADIHO69gO+ec0us7OiMknym`
+Snapshot ID: `akmegAAAAABCOhY8YO/O6i/2i8zyBePe`

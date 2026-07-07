@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Şehinşah
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,412,220 likes - 49 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,412,161 likes - 49 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 20 | [BIG TERORISTA](https://open.spotify.com/track/0l3OXNDi239vKlhEBU1LbR) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [BIG TERORISTA](https://open.spotify.com/album/2FFxo0hbrWFWhrI3c5IQwG) | 2:16 |
 | 21 | [SİNEMATOGRAF](https://open.spotify.com/track/2UIkjmKJATC4ssvONBlcB7) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr), [Tuby](https://open.spotify.com/artist/3VuBOZYMdaEEp1uxtf9s2J) | [SİNEMATOGRAF](https://open.spotify.com/album/02U1wZI0SnyLgD2mzuwWho) | 1:42 |
 | 22 | [GANG](https://open.spotify.com/track/4lgyyBPxyM3Ztb46XNW8EN) | [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s), [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS), [Cesiminho](https://open.spotify.com/artist/6sh53iTqwntQpPhDxnvHDC) | [GANG](https://open.spotify.com/album/2YC2lOtQmlKiYlK7K2iBCL) | 2:53 |
-| 23 | [TÖVBE EST](https://open.spotify.com/track/1zoFwNn0inaoNQ1KgOGyNO) | [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5), [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [TÖVBE EST](https://open.spotify.com/album/3x5YyDtOCXmsf9f4eyGUdx) | 2:40 |
+| 23 | [TÖVBE EST](https://open.spotify.com/track/1zoFwNn0inaoNQ1KgOGyNO) | [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5), [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [TÖVBE EST](https://open.spotify.com/album/3x5YyDtOCXmsf9f4eyGUdx) | 2:35 |
 | 24 | [MANDALINA](https://open.spotify.com/track/4Z0gQavxUSCqj9cx55Owtp) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [MANDALINA](https://open.spotify.com/album/1aHP1cXuU6iaBQxUlVVDGS) | 3:29 |
 | 25 | [Yalancı Deliler Sirki](https://open.spotify.com/track/6SUnNrdVOPj2U4njyrhECm) | [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg), [Ali Ece](https://open.spotify.com/artist/2SzYIeKDEwpMoQzKH5InmK), [Levvera](https://open.spotify.com/artist/0wlUg2BKydLiZ0ilbzTTkY) | [Yalancı Deliler Sirkinde](https://open.spotify.com/album/3MeSFltEDqQhyE29L73Bb0) | 2:47 |
 | 26 | [çok güzel "hondacılar"](https://open.spotify.com/track/4R7yrDbKL1tFKH8FBUyPmH) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [çok güzel "hondacılar"](https://open.spotify.com/album/4ItYxXh3CsTQWruARGGEWd) | 2:04 |

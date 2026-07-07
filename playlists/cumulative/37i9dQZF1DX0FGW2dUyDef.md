@@ -4,7 +4,7 @@
 
 > Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Hadise
 
-332 songs - 16 hr 9 min
+333 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Kehribar](https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Kehribar](https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX) | 2:48 | 2024-07-02 | 2025-01-14 |
 | [Kendine Dünya](https://open.spotify.com/track/5eGbBcz7DKfV0uIl7jX8Dr) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Kendine Dünya](https://open.spotify.com/album/6ifpbsUnG5sthrxVyYFHdp) | 3:21 | 2025-06-30 | 2026-02-06 |
 | [Kendine İyi Bak](https://open.spotify.com/track/1WYC1u2z1gCKdDazxK95CI) | [Şam](https://open.spotify.com/artist/1GyfNm3xj64IZR4rKnzNti), [Laçin](https://open.spotify.com/artist/5eAntyjk6nCiWXJgd0CmXa) | [S2000](https://open.spotify.com/album/6K2RHovILRZFlHkFvLpibQ) | 2:01 | 2025-10-22 | 2026-04-17 |
-| [kestim](https://open.spotify.com/track/5T05WQjiKwmivLtHPb4SjB) | [Lark2020](https://open.spotify.com/artist/51FnfWbFaj7Ec4ZFcnGuCH) | [kestim](https://open.spotify.com/album/0xxs3W9njttqBwxYv5emVN) | 1:46 | 2026-06-22 |  |
+| [kestim](https://open.spotify.com/track/5T05WQjiKwmivLtHPb4SjB) | [Lark2020](https://open.spotify.com/artist/51FnfWbFaj7Ec4ZFcnGuCH) | [kestim](https://open.spotify.com/album/0xxs3W9njttqBwxYv5emVN) | 1:46 | 2026-06-22 | 2026-07-07 |
 | [Keşke](https://open.spotify.com/track/1horGWxHKfwctCKdHwrO0n) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6), [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Keşke](https://open.spotify.com/album/6fqTOG4E0dmemK3mwYCogc) | 3:27 | 2025-04-01 | 2026-04-28 |
 | [KTS](https://open.spotify.com/track/0T9wqk6MpJWBMEAyyQGVAK) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [KTS](https://open.spotify.com/album/5FHUBFUyPhl9guiqM5z1DR) | 2:26 | 2025-05-19 | 2025-11-06 |
 | [Kufi](https://open.spotify.com/track/4JqP7JwWNG8I7xY40E6IWh) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [Kufi](https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc) | 4:25 | 2024-07-02 | 2024-11-26 |
@@ -287,6 +287,7 @@
 | [Timsahlar](https://open.spotify.com/track/6wOuvnMDcWOTI9TTk8Jzem) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [Timsahlar](https://open.spotify.com/album/3ehDnWigd5HOYWLccjQ34G) | 2:44 | 2026-06-22 |  |
 | [Tiryakinim](https://open.spotify.com/track/5NEqpPrKdN5kkn66GPO5z1) | [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [Tiryakinim](https://open.spotify.com/album/5RBSDuy54EfefItjc5Mfcl) | 3:19 | 2024-07-02 | 2024-09-13 |
 | [TİKTOK](https://open.spotify.com/track/3ic4P54j8y17su29vAGYD5) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [TİKTOK](https://open.spotify.com/album/22kL0LjMCNE6ssXseUGuGY) | 1:56 | 2025-10-06 | 2025-12-02 |
+| [Toz Pembe](https://open.spotify.com/track/24CSPGkF9QB1zW07dgtZhr) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Toz Pembe](https://open.spotify.com/album/5n0QmoUBEvSyIjDTwe4670) | 2:40 | 2026-07-06 |  |
 | [TUZAK](https://open.spotify.com/track/1vYjLlQ91DqZ9x5uH0sSx9) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [TUZAK](https://open.spotify.com/album/1GtqOcWRUuWsS5jDlIo1gx) | 2:48 | 2026-06-22 |  |
 | [Tırnağın Kırılmasın](https://open.spotify.com/track/36SKXwHlE1zYin3xwPRDnU) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Tırnağın Kırılmasın](https://open.spotify.com/album/3X5k2n8X0KaJF2GBFfvVBl) | 3:35 | 2024-11-06 | 2025-05-27 |
 | [Umrumdışı](https://open.spotify.com/track/14xSndBPmB5bsYmKbwkhnB) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Umrumdışı](https://open.spotify.com/album/71VuUzbv9T5vXkLTnf8iKq) | 3:38 | 2026-07-02 |  |
