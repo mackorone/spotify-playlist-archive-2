@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: Jonathan Napoles
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,739 likes - 100 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,774 likes - 100 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 64 | [No Me Sueltes](https://open.spotify.com/track/2KIprcvBv1CU1NETVQMpGk) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [No Me Sueltes](https://open.spotify.com/album/1uJlORkhvuiSzqKUO9zZeE) | 3:15 |
 | 65 | [MexCypher Colima](https://open.spotify.com/track/4hnkNBlSlqtV2vh66hYlFN) | [La Tribu Santa](https://open.spotify.com/artist/1puGaC5PaCY6qpJharKEMY), [Nich Jai](https://open.spotify.com/artist/6jAPbOJNg26pVbYshEH89O), [Roger Rivera](https://open.spotify.com/artist/3aijM2pvFNCTm9RYMQ3Lto), [Nardo Mc](https://open.spotify.com/artist/6XTV3R6PHH4Ok9LbrqgK51), [Tiska Gibbor](https://open.spotify.com/artist/7oB4pQ2KvtUbDN8zhYsYye) | [MexCypher Colima](https://open.spotify.com/album/0Okwdt23zjclChpNUdKQ1b) | 4:55 |
 | 66 | [Desde Mi Esquina \(Round 1\)](https://open.spotify.com/track/0utMIymcvJ3u3KCQWwyX9I) | [Práctiko](https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA) | [Desde Mi Esquina \(Round 1\)](https://open.spotify.com/album/72PlwjbV8qIFkOJkPRNKES) | 4:05 |
-| 67 | [Pal Case](https://open.spotify.com/track/3CL5Wq4IjIJLFwzUr1tpPU) | [Mickey Angelo](https://open.spotify.com/artist/7HQJWKssS3k12XZZMtC1gR), [Nicky The Prodigy](https://open.spotify.com/artist/3bsq1fospowCvrJOChPAeb), [Borrero](https://open.spotify.com/artist/4v1ySMpX5kA1V5HlVsJwDU) | [Inquebrantable](https://open.spotify.com/album/6G5vJtGHfKtogzzajKHU7D) | 4:29 |
+| 67 | [Pal Case](https://open.spotify.com/track/3CL5Wq4IjIJLFwzUr1tpPU) | [Mickey Angelo](https://open.spotify.com/artist/7HQJWKssS3k12XZZMtC1gR), [Nick The Prodigy](https://open.spotify.com/artist/4sjBX1hPjHxSz5BBGizOby), [Borrero](https://open.spotify.com/artist/4v1ySMpX5kA1V5HlVsJwDU) | [Inquebrantable](https://open.spotify.com/album/6G5vJtGHfKtogzzajKHU7D) | 4:29 |
 | 68 | [Agradecido](https://open.spotify.com/track/3gWszzi2xdSG20o6WciB9b) | [Oasis Ministry](https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Agradecido](https://open.spotify.com/album/2u5Ss9YlEaDsMxUixQvr2Z) | 3:19 |
 | 69 | [Calma](https://open.spotify.com/track/47vkBfWIEAahlxsl4beOg5) | [Samu Robles](https://open.spotify.com/artist/2fvKekLjq0z3TzIljRraPl) | [Calma](https://open.spotify.com/album/5y0P9WBtVVLwxCD0UplZ19) | 2:03 |
 | 70 | [Peleando En Mi Mente](https://open.spotify.com/track/0TomKFX1z1NswQpLF4rFRj) | [J Arias](https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym) | [Peleando En Mi Mente](https://open.spotify.com/album/3URUF6SAvEqpjZzr21xfwn) | 2:50 |

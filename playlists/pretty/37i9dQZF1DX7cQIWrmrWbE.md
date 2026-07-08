@@ -1,18 +1,18 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain](/playlists/plain/37i9dQZF1DX7cQIWrmrWbE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX7cQIWrmrWbE)
 
-### [De la mano de Papá Lorenzo](https://open.spotify.com/playlist/37i9dQZF1DX7cQIWrmrWbE)
+### [Gracias, muchachos](https://open.spotify.com/playlist/37i9dQZF1DX7cQIWrmrWbE)
 
-> Camino a octavos de final\. 💛💙❤️⚽️
+> Aquí solo suena a agradecimiento, orgullo y pasión\. 💛💙❤️⚽️
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,670 likes - 30 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,698 likes - 30 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [EL RITMO QUE NOS UNE \- feat\. Selección Colombia](https://open.spotify.com/track/79IBoMfFn67UI15YkP1FSp) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [EL RITMO QUE NOS UNE \(feat\. Selección Colombia\)](https://open.spotify.com/album/6gHvLYdqKPaiCXK92crXFR) | 3:09 |
-| 2 | [Ras Tas Tas Full Hd](https://open.spotify.com/track/1hS2YZVC9mptyXp7pbO13Z) | [Cali Flow Latino](https://open.spotify.com/artist/6osZmjgq0xc7VroWgQoRcD) | [Full HD](https://open.spotify.com/album/1Iyffk6V5WgDjMc3SAoSHj) | 4:19 |
-| 3 | [Colombia Caribe \(Si, Si, Colombia\)](https://open.spotify.com/track/3xbTQOAKgAp2Ufklh2ujg6) | [Francisco Zumaqué](https://open.spotify.com/artist/5Fc4V3AlnhHqvw7hBT8yuC) | [Colombia Caribe \(Si, Si, Colombia\)](https://open.spotify.com/album/3AKsvpYit9AL2EgAZUwWhq) | 4:58 |
-| 4 | [Yo Soy Mundial](https://open.spotify.com/track/5EBA54d58Wy668WYP1ethz) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [26 De Mayo](https://open.spotify.com/album/4JTXVbFhPiPlWDZp3Jp11B) | 4:16 |
-| 5 | [Me Ilusioné](https://open.spotify.com/track/20jSoyCuEIjuq9eKCYHpLK) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Difícil De Igualar](https://open.spotify.com/album/0v85GaHLPiTp66iZli8qGE) | 5:00 |
+| 2 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
+| 3 | [Ras Tas Tas Full Hd](https://open.spotify.com/track/1hS2YZVC9mptyXp7pbO13Z) | [Cali Flow Latino](https://open.spotify.com/artist/6osZmjgq0xc7VroWgQoRcD) | [Full HD](https://open.spotify.com/album/1Iyffk6V5WgDjMc3SAoSHj) | 4:19 |
+| 4 | [Colombia Caribe \(Si, Si, Colombia\)](https://open.spotify.com/track/3xbTQOAKgAp2Ufklh2ujg6) | [Francisco Zumaqué](https://open.spotify.com/artist/5Fc4V3AlnhHqvw7hBT8yuC) | [Colombia Caribe \(Si, Si, Colombia\)](https://open.spotify.com/album/3AKsvpYit9AL2EgAZUwWhq) | 4:58 |
+| 5 | [Yo Soy Mundial](https://open.spotify.com/track/5EBA54d58Wy668WYP1ethz) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [26 De Mayo](https://open.spotify.com/album/4JTXVbFhPiPlWDZp3Jp11B) | 4:16 |
 | 6 | [Colombia Tierra Querida](https://open.spotify.com/track/0voZNv0FGCzGXzZ5iJv3fX) | [La Orquesta De Ray](https://open.spotify.com/artist/536oYO1HiaPI4rTwWkWKgs), [Benetia](https://open.spotify.com/artist/67mvd0i0PAOjOLPfWZW8eb) | [Música Tropical Colombiana \(Vol\. 2\)](https://open.spotify.com/album/4SfzqdLRv794XSahyQNP7K) | 2:59 |
 | 7 | [La Candela Viva](https://open.spotify.com/track/0mfsOBQSQYHgJKD95suX5Z) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Candela Viva](https://open.spotify.com/album/2UChA5fC8ycqyOJbMwjtZw) | 4:18 |
 | 8 | [Soy Colombiano](https://open.spotify.com/track/6h3q2ozONm9u2KquasBv0W) | [Garzon y Collazos](https://open.spotify.com/artist/0FmDjtiMoFHZG4f83cQjVI) | [20 Exitos Con](https://open.spotify.com/album/51J3kmvqu5CjRexo6Nd00l) | 2:43 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cQIWrmrWbE.md) - [plain]
 | 29 | [Caracoles de Colores](https://open.spotify.com/track/0iuOHCKySYakO6gvNmDiJ4) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Ivan Zuleta](https://open.spotify.com/artist/5EaL3CfK7WVRU5pCzUt35B) | [Volver A Vivir](https://open.spotify.com/album/3YcKNLwwpEl9sUpJsNMCEX) | 3:22 |
 | 30 | [La Vamo a Tumbar](https://open.spotify.com/track/5dmXJosu601fRpmS0FBMbj) | [Grupo Saboreo](https://open.spotify.com/artist/1jBovgyZEnLlMQIXRUN1G9) | [Exploring Latin Heritage, Vol.3](https://open.spotify.com/album/4YwD0uyRlvqtXsNVkzwY2a) | 5:35 |
 
-Snapshot ID: `AAAAAHVEbdV1CQdqdt/vwV3Lpkz1lJfX`
+Snapshot ID: `AAAAAKn/MEkuvyQMgN/ufJhbadUNr71y`

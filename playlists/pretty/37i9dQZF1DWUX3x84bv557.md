@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: The Opposites
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,697 likes - 78 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,683 likes - 78 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Feestje Op Mijn Graf](https://open.spotify.com/track/1XD5DhrBu0HpofkF8cv3Ii) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Feestje Op Mijn Graf](https://open.spotify.com/album/65T5ywUjxqqG9ayJWuhLLt) | 2:42 |
-| 2 | [Terug Bij Af](https://open.spotify.com/track/34LSD9i0uMB3ecBIdhNC89) | [Jopke](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D) | [Terug Bij Af](https://open.spotify.com/album/5la8hK7ztHSPnb9mBycbXf) | 2:35 |
-| 3 | [SUPERSTAR](https://open.spotify.com/track/0isizAo7CkD7DhZm3C1DaY) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/0mKjLg4PFqhXdBMKCoGQm0) | 2:29 |
-| 4 | [We Doen Toch Allemaal Maar Wat](https://open.spotify.com/track/5ktNHD5xIuRnjoV8nZrRhu) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [We Doen Toch Allemaal Maar Wat](https://open.spotify.com/album/7yJ9nMQSVSqo5SumCIax20) | 2:39 |
-| 5 | [Echo Zonder Naam](https://open.spotify.com/track/4xBDktgMyqDhROjDZWlAXq) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Echo Zonder Naam](https://open.spotify.com/album/073sJQiVdw8KaOHr5A5PLd) | 3:33 |
-| 6 | [Te Mooi Om Waar Te Zijn](https://open.spotify.com/track/64BraxIjZP43uHmkEmYjik) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Te Mooi Om Waar Te Zijn](https://open.spotify.com/album/4i151h2c2YaHarJ8RTy6Vv) | 2:52 |
-| 7 | [Misschien Is Het Tijd](https://open.spotify.com/track/0u0eIoOtfk3u7f6BNPJhWm) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Misschien Is Het Tijd](https://open.spotify.com/album/4SyQopHqsRexQCsxaADSRa) | 2:57 |
+| 2 | [We Doen Toch Allemaal Maar Wat](https://open.spotify.com/track/5ktNHD5xIuRnjoV8nZrRhu) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [We Doen Toch Allemaal Maar Wat](https://open.spotify.com/album/7yJ9nMQSVSqo5SumCIax20) | 2:39 |
+| 3 | [Terug Bij Af](https://open.spotify.com/track/34LSD9i0uMB3ecBIdhNC89) | [Jopke](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D) | [Terug Bij Af](https://open.spotify.com/album/5la8hK7ztHSPnb9mBycbXf) | 2:35 |
+| 4 | [SUPERSTAR](https://open.spotify.com/track/0isizAo7CkD7DhZm3C1DaY) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/0mKjLg4PFqhXdBMKCoGQm0) | 2:29 |
+| 5 | [Te Mooi Om Waar Te Zijn](https://open.spotify.com/track/64BraxIjZP43uHmkEmYjik) | [LAUF](https://open.spotify.com/artist/5ZTKDvzvC98RpTs4TUbilD) | [Te Mooi Om Waar Te Zijn](https://open.spotify.com/album/4i151h2c2YaHarJ8RTy6Vv) | 2:52 |
+| 6 | [Misschien Is Het Tijd](https://open.spotify.com/track/0u0eIoOtfk3u7f6BNPJhWm) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Misschien Is Het Tijd](https://open.spotify.com/album/4SyQopHqsRexQCsxaADSRa) | 2:57 |
+| 7 | [Echo Zonder Naam](https://open.spotify.com/track/4xBDktgMyqDhROjDZWlAXq) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Echo Zonder Naam](https://open.spotify.com/album/073sJQiVdw8KaOHr5A5PLd) | 3:33 |
 | 8 | [Gevaarlijk](https://open.spotify.com/track/7kuPk2p387tnOYTTGu0FmK) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw) | [Just A Lover Girl \(Deluxe\)](https://open.spotify.com/album/4Z0To29ffE0htwxvucjMf0) | 1:57 |
 | 9 | [Ik Droom Alvast Van Jou](https://open.spotify.com/track/10fXUjOffC01ye6N151DGj) | [BENR](https://open.spotify.com/artist/3lC07j0oFDXJflpeAjo9eZ) | [Ik Droom Alvast Van Jou](https://open.spotify.com/album/2kHjvxjrHroXi2jlBm4iFh) | 2:36 |
 | 10 | [Door Het Oog Van De Nacht](https://open.spotify.com/track/0uWmcPc7Ie30nyNrsHnTjR) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH) | [Door Het Oog Van De Nacht](https://open.spotify.com/album/7BRsfyW9ugAffAfhAo3yim) | 2:54 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 77 | [Ik zou het zo weer overdoen](https://open.spotify.com/track/3VmopKB6zV3SOkZBlsV0ZZ) | [Julia Cecile](https://open.spotify.com/artist/1ujg2quXH0LCrTb1BD8ECa) | [Ik zou het zo weer overdoen](https://open.spotify.com/album/1D4PQXSWNPlISYnbFBQZuh) | 3:25 |
 | 78 | [Ik Ben Niet Meer Bang](https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Ik Ben Niet Meer Bang](https://open.spotify.com/album/189EqxKsLbH39r47N0VMbi) | 3:01 |
 
-Snapshot ID: `AAAAAJ/ia4F5Ga6VpuVDEuyjUvZFnw19`
+Snapshot ID: `AAAAABGs/ahUeysOUAj8s8N5cAM9UmHu`

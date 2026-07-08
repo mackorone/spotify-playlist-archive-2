@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,472 likes - 69 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,470 likes - 69 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 59 | [Nah Neh Nah](https://open.spotify.com/track/6F99zGe1bV6kuCcjR4WowR) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [Felix Harrer](https://open.spotify.com/artist/7DDyntOmWbEgkGoIUaTxEp), [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g) | [Nah Neh Nah](https://open.spotify.com/album/5mJlWkYNX3Vhaci6B6N2Tv) | 2:27 |
 | 60 | [Together](https://open.spotify.com/track/0aOaI4gtDeVzmZ5IP5sYKA) | [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Together](https://open.spotify.com/album/4oSa1qX7ovwnqc4MfuAhiq) | 3:16 |
 | 61 | [Outside World](https://open.spotify.com/track/7eITtji4Pxyi5hNKvofUFS) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Rudeejay](https://open.spotify.com/artist/2zC8RU0p5FvJeCPPLVBR8K), [Da Brozz](https://open.spotify.com/artist/2jrH2DRrZ0NU395R27gal6) | [Outside World](https://open.spotify.com/album/7Jvyc1KHrxklypUJlw6qDb) | 2:14 |
-| 62 | [Never Met A Girl Like You](https://open.spotify.com/track/2cPLCM5bUSDZ8d8daDXukf) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Never Met A Girl Like You](https://open.spotify.com/album/48in20K8PMb76NsQgbiwRA) | 2:34 |
+| 62 | [Never Met A Girl Like You](https://open.spotify.com/track/2cPLCM5bUSDZ8d8daDXukf) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Never Met A Girl Like You](https://open.spotify.com/album/48in20K8PMb76NsQgbiwRA) | 2:33 |
 | 63 | [Stay with Me Now](https://open.spotify.com/track/1KHUtZpKBKcrYKUAhnRSOT) | [Flex & Fold](https://open.spotify.com/artist/3wnRNWMtjzcFNoE7jxwZqK) | [Stay with Me Now](https://open.spotify.com/album/2Cb1D2pFOigkvYnQ6iRPG5) | 4:18 |
 | 64 | [nie schön genug](https://open.spotify.com/track/2QM3HgY6io2VnochaBytLh) | [Lina Maly](https://open.spotify.com/artist/0VVKg6krYM45eGuevSlcRk), [OSWALD](https://open.spotify.com/artist/6TQp2ybCgxZHOFZuqbLqzB), [Bengio](https://open.spotify.com/artist/0gfGtWOKV78OjwmQ0iGcE3) | [nie schön genug](https://open.spotify.com/album/1CM9BgAsbMrUsFM4ZCBwnU) | 2:35 |
 | 65 | [Flip Side](https://open.spotify.com/track/2DZCnwzOR9S7r7n0oGqGAc) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Daddy DJ](https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL) | [Flip Side](https://open.spotify.com/album/0uDZT87RUjaSsQR5LXXPSM) | 2:23 |

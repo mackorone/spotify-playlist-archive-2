@@ -4,7 +4,7 @@
 
 > Solfeggio tones to harmonise & synchronise with, used for meditation and sleep
 
-128 songs - 5 hr 53 min
+129 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Objective](https://open.spotify.com/track/5uxhwtFzJw9Uf2k3uBNXqT) | [Olivier Lupin](https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN) | [Objective](https://open.spotify.com/album/05szv55Mry9be4jhA2zs0D) | 1:43 | 2023-03-10 | 2024-03-14 |
 | [Orange 852 hz](https://open.spotify.com/track/6raoUNnJwWF5YPbrCLYmHQ) | [Afar Lux](https://open.spotify.com/artist/0WT73qyUspmqMJMjtIAjjG) | [Orange waves](https://open.spotify.com/album/4NRO80nUbKyfKH0JEwGEPj) | 2:32 | 2023-03-10 | 2026-06-19 |
 | [Part 852 Hz](https://open.spotify.com/track/3KCUxBFbJcXoLMkUNcXufP) | [Luca Sana](https://open.spotify.com/artist/5R2pilr3nQLjlV11knoaHY) | [Part 852 Hz](https://open.spotify.com/album/7okGLirwKtD2vyZyukvXJX) | 2:51 | 2023-08-07 | 2026-06-19 |
+| [Perspectives 852 Hz](https://open.spotify.com/track/5Aan1aDVJwdxtdKDU0EyxW) | [Naumanni](https://open.spotify.com/artist/5rXoIHL4cf1t1FHhiXiHOh) | [Perspectives 852 Hz](https://open.spotify.com/album/5XQ5QRoQx4zqLVGz9kMOa3) | 2:49 | 2026-07-07 |  |
 | [Raise Your Energy \(852Hz\)](https://open.spotify.com/track/16z4snU0gQykT7Fa1XFpGR) | [Calm Fjord](https://open.spotify.com/artist/1EW1nRB3KsmTEty2h0kkXb), [Zen Design](https://open.spotify.com/artist/26Upt6kejOlrywBnPzKKDH), [Serenidad Celestial](https://open.spotify.com/artist/4LRluVEgG15itO81Df2CfO) | [Raise Your Energy \(852Hz\)](https://open.spotify.com/album/5KgOEPEoph8fHdcIBabexB) | 1:30 | 2026-06-18 |  |
 | [Resonare 852 Hz](https://open.spotify.com/track/4yeHkbeopZeDd0uGbvzmvq) | [Hertz\-Hunters](https://open.spotify.com/artist/2W9CWHtfJa5eJn2QTvK6KX) | [528 & 852](https://open.spotify.com/album/0wMnlSxk9JOM5GutgLLL5f) | 2:38 | 2023-03-10 | 2026-06-19 |
 | [Rest in Blue 852 Hz](https://open.spotify.com/track/6aGqS1af0bZlUqLtzd2sDt) | [Vastitas](https://open.spotify.com/artist/1MaUoXGLHcKrjPdqkZaxcO) | [Rest in Blue 852 Hz](https://open.spotify.com/album/5Wqyouq7GXdyQ95teHLQ72) | 2:26 | 2026-06-18 |  |

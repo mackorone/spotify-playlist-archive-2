@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 
 > Karma comes for everyone...Listen to the music from and inspired by The White Lotus, streaming only on Max.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,221 likes - 128 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,216 likes - 128 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDKV5NsCgGw.md) - [plain]
 | 30 | [สามช่าคาราบาว](https://open.spotify.com/track/0q3evbLMFwykdzaUJWYYuk) | [Carabao](https://open.spotify.com/artist/1LCwH85p61LDPxSg2uWUL9) | [คาราบาวซุปเปอร์ 3 ช่า Non\-Stop Vol.2](https://open.spotify.com/album/2UzoII0TGhsk3FGoUlOR4n) | 4:33 |
 | 31 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 |
 | 32 | [เมด อิน ไทยแลนด์](https://open.spotify.com/track/2Ntjw1C9E7XJYEaTd2xDEC) | [Carabao](https://open.spotify.com/artist/1LCwH85p61LDPxSg2uWUL9) | [เมด อิน ไทยแลนด์](https://open.spotify.com/album/4u0zQGYsODkKOqmVLO572V) | 4:11 |
-| 33 | [พี่สาวครับ](https://open.spotify.com/track/5v7pw1hpLZpQIdMhkgTM6A) | [Charan Manophet](https://open.spotify.com/artist/0UlBSF0yRVV3QUSZ3yYemW) | [โฟล์คซองคำเมือง Audiophile Remastered](https://open.spotify.com/album/4Tp2P3Y2nmu9wUoEiCa6RV) | 2:48 |
+| 33 | [พี่สาวครับ](https://open.spotify.com/track/5v7pw1hpLZpQIdMhkgTM6A) | [จรัล มโนเพ็ชร](https://open.spotify.com/artist/1np0iqHJXLu8RQ0LIRsFJT) | [โฟล์คซองคำเมือง \(Audiophile Remastered\)](https://open.spotify.com/album/4Tp2P3Y2nmu9wUoEiCa6RV) | 2:48 |
 | 34 | [Pimjai Lam Plearn](https://open.spotify.com/track/2aNYUdDZpSDoxtE2lQTFM0) | [The Paradise Bangkok Molam International Band](https://open.spotify.com/artist/1cBpduQulXQHJaj9m0RYS8) | [Araya Lam](https://open.spotify.com/album/6bLisJtpu2YaFXWr07g0m2) | 3:17 |
 | 35 | [Renaissance \(The White Lotus\) \- Tiësto Remix](https://open.spotify.com/track/6CgnHnR0C1qsAiq4UAVO8B) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [Renaissance \(The White Lotus\) \[Tiësto Remix\]](https://open.spotify.com/album/4KD4RrqwmuQJWPxBk62Owe) | 2:50 |
 | 36 | [Renaissance \(Main Title Theme\) \- \[Extended Version\] \[from “The White Lotus: Season 2”\]](https://open.spotify.com/track/5UsRZKlfGJV8jSaPrvFEUH) | [Cristobal Tapia De Veer](https://open.spotify.com/artist/3uUcdriXzvaQapjo3a4DZR) | [The White Lotus: Season 2 \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/68BVCSKG3lJ5JXKc5K54zZ) | 4:23 |

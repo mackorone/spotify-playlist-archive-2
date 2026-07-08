@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: Skyjack
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,971 likes - 60 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,976 likes - 60 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

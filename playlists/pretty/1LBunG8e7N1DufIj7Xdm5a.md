@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,571 songs - 10 day 4 hr 48 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,579 songs - 10 day 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4579,5 +4579,13 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4569 | [Build to Burn](https://open.spotify.com/track/2ea1wQNqIyMghvoHbJHdqJ) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Build to Burn](https://open.spotify.com/album/3gwdzUm6fwWglItpbtwYEW) | 4:56 |
 | 4570 | [İki Kalp](https://open.spotify.com/track/0DUukZhlATPQ4AxA5NGDbm) | [Kavanoz](https://open.spotify.com/artist/1kQLL2HLwXJfeQtmmCsxJQ) | [İki Kalp](https://open.spotify.com/album/0sD6t5iydCDwojFKJIuYVY) | 4:21 |
 | 4571 | [Postal Secret](https://open.spotify.com/track/4Pi6nD8JQiqvHVFZXULyjs) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 4:34 |
+| 4572 | [Lost in Time \(heavy mix\)](https://open.spotify.com/track/563JfB4alRkkJ3TpW3qYAE) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Lost in Time \(heavy mix\)](https://open.spotify.com/album/00gUbwWBvcEwXxISWNoMgR) | 3:44 |
+| 4573 | [In the grain](https://open.spotify.com/track/7GXy6iC4hzJuLa9G7HGUF3) | [The Sunday Static](https://open.spotify.com/artist/36ru1AAdGSsjN5Uzr3CrHd) | [Under the hiss](https://open.spotify.com/album/3ei3vWOjhGdACXB5GBFfh9) | 4:14 |
+| 4574 | [In the grain](https://open.spotify.com/track/7GXy6iC4hzJuLa9G7HGUF3) | [The Sunday Static](https://open.spotify.com/artist/36ru1AAdGSsjN5Uzr3CrHd) | [Under the hiss](https://open.spotify.com/album/3ei3vWOjhGdACXB5GBFfh9) | 4:14 |
+| 4575 | [Sei](https://open.spotify.com/track/5v0WRPhkz1LnrAQc07JLGB) | [Giorgio Isgro'](https://open.spotify.com/artist/0mkcb7x8JISZOGHV8LdKcW), [Marcello Pelo](https://open.spotify.com/artist/7Ex3l7mokFNNf69K0dJba7) | [Sei](https://open.spotify.com/album/7DwyP2LG07sgcVcKQ9ECEF) | 4:38 |
+| 4576 | [Sei](https://open.spotify.com/track/5v0WRPhkz1LnrAQc07JLGB) | [Giorgio Isgro'](https://open.spotify.com/artist/0mkcb7x8JISZOGHV8LdKcW), [Marcello Pelo](https://open.spotify.com/artist/7Ex3l7mokFNNf69K0dJba7) | [Sei](https://open.spotify.com/album/7DwyP2LG07sgcVcKQ9ECEF) | 4:38 |
+| 4577 | [Funky Shoes](https://open.spotify.com/track/31nFDAKrVZgJAOvAOFOY49) | [SABOGA](https://open.spotify.com/artist/7MnlZXTtWk60QisRWY7lOA) | [Funky Shoes](https://open.spotify.com/album/6B923n9SzNzEDzIIkD0OYa) | 3:09 |
+| 4578 | [Crimson Sky](https://open.spotify.com/track/6sKWr1J6Nvm8D8VzkGRNFu) | [Corners of Sanctuary](https://open.spotify.com/artist/2awE3SRj1mzablPjOH4TE1) | [Crimson Sky](https://open.spotify.com/album/18f7pVLtBCCWAlLQlU7tu2) | 4:34 |
+| 4579 | [De Na Con Na](https://open.spotify.com/track/4pH4nVULI9qoWPfIjsFEMz) | [El Ki RD](https://open.spotify.com/artist/3suIHAGrQzlelpZn10Au0p) | [De Na Con Na](https://open.spotify.com/album/3fahXnEQP9jgFV0WjXJXwf) | 2:00 |
 
-Snapshot ID: `AAAJFCSSzr61uHxn1tHub/7dEzZwynpF`
+Snapshot ID: `AAAJHAdv1Vusq1uRyOYKHVJqk42rwnUV`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from  Madonna, SIENNA SPIRO, DMA's, STELLA LEFTY, PNAU, Master Peace + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,103 likes - 78 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,085 likes - 78 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 23 | [lost](https://open.spotify.com/track/110127WJIyOYQOyik6DkQL) | [Miles Nautu](https://open.spotify.com/artist/0o5U1p6ZUurte1gamdqmLI), [Coops](https://open.spotify.com/artist/0sXhBmVgBTDxkQb8CUbhhR) | [the front](https://open.spotify.com/album/4XuThfY9Mnx3JrXxAdTa6O) | 3:06 |
 | 24 | [THE CINEMA](https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [PAREIDOLIA](https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5) | 3:22 |
 | 25 | [My Place](https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [My Place](https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C) | 2:39 |
-| 26 | [Organic Motion](https://open.spotify.com/track/0YJuBcj5bl9HGqMOBnthHC) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Organic Motion](https://open.spotify.com/album/5SdeOFSHrOBR6LikAiD7rU) | 2:35 |
+| 26 | [Organic Motion](https://open.spotify.com/track/0YJuBcj5bl9HGqMOBnthHC) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [DJ.Fresh](https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ) | [Organic Motion](https://open.spotify.com/album/5SdeOFSHrOBR6LikAiD7rU) | 2:35 |
 | 27 | [Swimming In Jeans](https://open.spotify.com/track/1aRUn0iZxcHJWvAcwXjesg) | [Jack Gray](https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw) | [Swimming In Jeans](https://open.spotify.com/album/5yfbXRKwUFKIWrvUBcNx5N) | 2:56 |
 | 28 | [Gospel Oak](https://open.spotify.com/track/0CjC7M4cRiy8tJT4ikgv81) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing \(B Sides\)](https://open.spotify.com/album/3ZJRLIRJZeK3TdBmnQJsib) | 2:35 |
 | 29 | [Take a Trip](https://open.spotify.com/track/1DLbj9XXkwroJGBeaBwPnA) | [Arky Waters](https://open.spotify.com/artist/1cxe1pFJnavjEUC9hRKZli), [LX](https://open.spotify.com/artist/72EYA0tlOOCLqxO7PK0Pxk) | [Holdin' On](https://open.spotify.com/album/5apTEirjhqpqJfNPkUBgla) | 2:57 |

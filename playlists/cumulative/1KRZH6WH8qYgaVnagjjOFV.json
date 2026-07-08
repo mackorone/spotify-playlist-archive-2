@@ -205,6 +205,24 @@
     },
     {
       "album": {
+        "name": "Ain't No Way",
+        "url": "https://open.spotify.com/album/7kRrf0s1HZCz1vOx1aVbxd"
+      },
+      "artists": [
+        {
+          "name": "Jamie MacDonald",
+          "url": "https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168780,
+      "name": "Ain't No Way",
+      "url": "https://open.spotify.com/track/0BvMGPPosePCCUZuTeJ53T"
+    },
+    {
+      "album": {
         "name": "Jamie MacDonald",
         "url": "https://open.spotify.com/album/0y3pWJZ5j2JPYI2K3vPzZp"
       },
@@ -234,7 +252,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 167142,
       "name": "Ain't No Way - Studio Session",
       "url": "https://open.spotify.com/track/3qhbBibRY8TZevA51xeyBd"
@@ -808,7 +826,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 190126,
       "name": "demons",
       "url": "https://open.spotify.com/track/5HXFe0eb5lCfJpsqoqIbRS"
@@ -830,7 +848,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 189921,
       "name": "demons (with Julia Poe)",
       "url": "https://open.spotify.com/track/5ercYTUhRxWLt71UYFO5Dg"

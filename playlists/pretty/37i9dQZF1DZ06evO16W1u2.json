@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akmegAAAAAA8nQmRzw/LHwipX2kSGBbY",
+  "snapshot_id": "akrwAAAAAAD3e4QCwtobBw5hkPoMbi1q",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Donde Vamos a Parar (Remasterizado)",
-        "url": "https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "Profesora de Ingl\u00e9s",
-      "url": "https://open.spotify.com/track/2p9DFRU8fiaevI5XMExkh7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Relax",
         "url": "https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 234973,
       "name": "Un Amor Sin Coraz\u00f3n",
       "url": "https://open.spotify.com/track/36m1UijoKIocg5EXMvRp5I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Donde Vamos a Parar (Remasterizado)",
+        "url": "https://open.spotify.com/album/1ZaP2vx1rY6NEP84qnJkd5"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "Profesora de Ingl\u00e9s",
+      "url": "https://open.spotify.com/track/2p9DFRU8fiaevI5XMExkh7"
     },
     {
       "added_at": null,
@@ -447,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SOLO",
-        "url": "https://open.spotify.com/album/6SQoSCiVveVIGqeL9pa7JS"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 214172,
-      "name": "SOLO",
-      "url": "https://open.spotify.com/track/3zC5KP49SB7OMZPXMArUiR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Relax",
         "url": "https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM"
       },
@@ -479,28 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Cumbia",
-        "url": "https://open.spotify.com/album/3pNf1rFhsvSE9hi999LFRK"
-      },
-      "artists": [
-        {
-          "name": "Lucho Paz",
-          "url": "https://open.spotify.com/artist/0eRJ3cGidTcm4CiXrn68W0"
-        },
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Tu Amor Fue Una Mentira",
-      "url": "https://open.spotify.com/track/7bWIY2fn2iwgxfZ31c3MAk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "33",
-        "url": "https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0"
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/6SQoSCiVveVIGqeL9pa7JS"
       },
       "artists": [
         {
@@ -508,9 +472,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 218538,
-      "name": "Feliz",
-      "url": "https://open.spotify.com/track/2WdqubnIpiyMULlJc5frzD"
+      "duration_ms": 214172,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/3zC5KP49SB7OMZPXMArUiR"
     },
     {
       "added_at": null,
@@ -531,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "33",
+        "url": "https://open.spotify.com/album/16SwCWpchG5n9kFXiUK2r0"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 218538,
+      "name": "Feliz",
+      "url": "https://open.spotify.com/track/2WdqubnIpiyMULlJc5frzD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Relax",
         "url": "https://open.spotify.com/album/3UaOwiVinOGlQJsZgEn6dM"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 190533,
       "name": "Vac\u00edo",
       "url": "https://open.spotify.com/track/3YrooSB4vVvAGoewSpPYMX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nuestra Cumbia",
+        "url": "https://open.spotify.com/album/3pNf1rFhsvSE9hi999LFRK"
+      },
+      "artists": [
+        {
+          "name": "Lucho Paz",
+          "url": "https://open.spotify.com/artist/0eRJ3cGidTcm4CiXrn68W0"
+        },
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Tu Amor Fue Una Mentira",
+      "url": "https://open.spotify.com/track/7bWIY2fn2iwgxfZ31c3MAk"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00eda de Pesca",
-        "url": "https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS"
+        "name": "De Vuelta al Barrio Vol.1",
+        "url": "https://open.spotify.com/album/4sfpGKaINFrgAahshFL0ZM"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 239720,
-      "name": "Si No",
-      "url": "https://open.spotify.com/track/2Dz7WmYcFVQo37Okmaecwb"
+      "duration_ms": 181105,
+      "name": "Estoy Cantando",
+      "url": "https://open.spotify.com/track/7KMEXJmPEWaLIr7L0JoIl4"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Vuelta al Barrio Vol.1",
-        "url": "https://open.spotify.com/album/4sfpGKaINFrgAahshFL0ZM"
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
         }
       ],
-      "duration_ms": 181105,
-      "name": "Estoy Cantando",
-      "url": "https://open.spotify.com/track/7KMEXJmPEWaLIr7L0JoIl4"
+      "duration_ms": 165666,
+      "name": "Nena Resc\u00e1tame",
+      "url": "https://open.spotify.com/track/2Pd4CQbyrcXyONvUG412PK"
     },
     {
       "added_at": null,
@@ -707,22 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00eda de Pesca",
-        "url": "https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 165666,
-      "name": "Nena Resc\u00e1tame",
-      "url": "https://open.spotify.com/track/2Pd4CQbyrcXyONvUG412PK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/2wj293plSmqUdO9CalLOOq"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 214168,
       "name": "Esa Luz Se Va",
       "url": "https://open.spotify.com/track/3DKiGHEJRwa1wyxOH2prnf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 239720,
+      "name": "Si No",
+      "url": "https://open.spotify.com/track/2Dz7WmYcFVQo37Okmaecwb"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00eda de Pesca",
-        "url": "https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS"
-      },
-      "artists": [
-        {
-          "name": "Rio",
-          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
-        }
-      ],
-      "duration_ms": 240013,
-      "name": "Est\u00e1 en la M\u00fasica",
-      "url": "https://open.spotify.com/track/15ua6CkFnuyUj4GkSMgdYh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revoluci\u00f3n",
         "url": "https://open.spotify.com/album/2wj293plSmqUdO9CalLOOq"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 197392,
       "name": "Andrea",
       "url": "https://open.spotify.com/track/10c5yYBgTBWcqIBh27T9T2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "D\u00eda de Pesca",
+        "url": "https://open.spotify.com/album/2qUcubeg3AbPyyASjyxSoS"
+      },
+      "artists": [
+        {
+          "name": "Rio",
+          "url": "https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E"
+        }
+      ],
+      "duration_ms": 240013,
+      "name": "Est\u00e1 en la M\u00fasica",
+      "url": "https://open.spotify.com/track/15ua6CkFnuyUj4GkSMgdYh"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: Jennifer Lopez & Alok",
-  "num_followers": 425811,
+  "num_followers": 426069,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKPIpUKrFZ2sAR64UlNJ/PRHdy/2",
+  "snapshot_id": "AAAAAB+RtxdQ/FHTT3vtbzv+qTZEmrEs",
   "tracks": [
     {
       "added_at": "2026-06-26 04:00:28",
@@ -51,6 +51,26 @@
     {
       "added_at": "2026-07-03 04:01:40",
       "album": {
+        "name": "Looking For Love (feat. Laura Davie)",
+        "url": "https://open.spotify.com/album/3Sn950rTfjvF4Ch4VehXnk"
+      },
+      "artists": [
+        {
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Laura Davie",
+          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
+        }
+      ],
+      "duration_ms": 155142,
+      "name": "Looking For Love (feat. Laura Davie)",
+      "url": "https://open.spotify.com/track/5XRPNz67jPyfK4GyxjRW2E"
+    },
+    {
+      "added_at": "2026-07-03 04:01:40",
+      "album": {
         "name": "My Place",
         "url": "https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C"
       },
@@ -69,24 +89,24 @@
       "url": "https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S"
     },
     {
-      "added_at": "2026-07-03 04:01:40",
+      "added_at": "2026-06-26 04:00:28",
       "album": {
-        "name": "Looking For Love (feat. Laura Davie)",
-        "url": "https://open.spotify.com/album/3Sn950rTfjvF4Ch4VehXnk"
+        "name": "Lucky Again (The Magician Remix)",
+        "url": "https://open.spotify.com/album/4usXG6rkCbdBRfnyRvgW8E"
       },
       "artists": [
         {
-          "name": "Morgan Seatree",
-          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
         },
         {
-          "name": "Laura Davie",
-          "url": "https://open.spotify.com/artist/6M3bolFum1y8rBbrubby1f"
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
         }
       ],
-      "duration_ms": 155142,
-      "name": "Looking For Love (feat. Laura Davie)",
-      "url": "https://open.spotify.com/track/5XRPNz67jPyfK4GyxjRW2E"
+      "duration_ms": 161384,
+      "name": "Lucky Again (The Magician Remix)",
+      "url": "https://open.spotify.com/track/0SCeDWOdoMryrHo1XesIOM"
     },
     {
       "added_at": "2026-07-03 04:01:40",
@@ -113,24 +133,20 @@
       "url": "https://open.spotify.com/track/426LH4RVp0WvxX69NQCTGl"
     },
     {
-      "added_at": "2026-07-03 04:01:40",
+      "added_at": "2026-07-07 20:05:32",
       "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/6E6E7Qd61G1O1ZfY5oz93v"
+        "name": "Go Sun Cha",
+        "url": "https://open.spotify.com/album/2CF3EC1RZ08Hla5kLIsvOf"
       },
       "artists": [
         {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+          "name": "Ochok",
+          "url": "https://open.spotify.com/artist/2KQMohuyZZYmlwb4y4AsdX"
         }
       ],
-      "duration_ms": 209668,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/6k8UrKM6ScUbXGpPVz4xXf"
+      "duration_ms": 189836,
+      "name": "Go Sun Cha",
+      "url": "https://open.spotify.com/track/0saozuEilkY04lxO4SUAx9"
     },
     {
       "added_at": "2026-07-03 04:01:40",
@@ -153,6 +169,82 @@
       "url": "https://open.spotify.com/track/1wqVFC38UMEYUrB6HlnUep"
     },
     {
+      "added_at": "2026-07-07 20:05:32",
+      "album": {
+        "name": "Do You Want It Right Now",
+        "url": "https://open.spotify.com/album/2eHQRRCQNj2lFDXYcPtj2M"
+      },
+      "artists": [
+        {
+          "name": "Stefania",
+          "url": "https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ"
+        }
+      ],
+      "duration_ms": 147187,
+      "name": "Do You Want It Right Now",
+      "url": "https://open.spotify.com/track/2ibWjDuThUbFzgVo6ciD7j"
+    },
+    {
+      "added_at": "2026-07-07 20:05:32",
+      "album": {
+        "name": "We Are Free",
+        "url": "https://open.spotify.com/album/4pWqBvWBFXpfoC3mXDwD7e"
+      },
+      "artists": [
+        {
+          "name": "TR3NACRIA",
+          "url": "https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH"
+        },
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        }
+      ],
+      "duration_ms": 148567,
+      "name": "We Are Free",
+      "url": "https://open.spotify.com/track/0AtDLb9eqZq85G33yYPiwc"
+    },
+    {
+      "added_at": "2026-07-03 04:01:40",
+      "album": {
+        "name": "Chemistry",
+        "url": "https://open.spotify.com/album/6E6E7Qd61G1O1ZfY5oz93v"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Master Peace",
+          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
+        }
+      ],
+      "duration_ms": 209668,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/6k8UrKM6ScUbXGpPVz4xXf"
+    },
+    {
+      "added_at": "2026-07-07 20:05:32",
+      "album": {
+        "name": "Ella Elle L'a",
+        "url": "https://open.spotify.com/album/0Whb8AFL8wEhJrQLUutczd"
+      },
+      "artists": [
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "duration_ms": 155912,
+      "name": "Ella Elle L'a",
+      "url": "https://open.spotify.com/track/00wugEAK91BksOBu3BY6bk"
+    },
+    {
       "added_at": "2026-07-03 04:01:40",
       "album": {
         "name": "Nokia",
@@ -171,6 +263,22 @@
       "duration_ms": 188741,
       "name": "Nokia",
       "url": "https://open.spotify.com/track/7bt12BkmQOft8dsOUkvOT9"
+    },
+    {
+      "added_at": "2026-07-07 20:05:32",
+      "album": {
+        "name": "YOUtopia",
+        "url": "https://open.spotify.com/album/4KHPTZ0Cad5ZJvZW614XUe"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 150150,
+      "name": "YOUtopia",
+      "url": "https://open.spotify.com/track/35NaaOPzsTWOWM47PzRuaY"
     },
     {
       "added_at": "2026-07-03 04:01:40",
@@ -195,26 +303,6 @@
       "duration_ms": 180849,
       "name": "Gravity (feat. SACHA)",
       "url": "https://open.spotify.com/track/05vUCrcaRvSjLzb0WbmVDk"
-    },
-    {
-      "added_at": "2026-06-26 04:00:28",
-      "album": {
-        "name": "Lucky Again (The Magician Remix)",
-        "url": "https://open.spotify.com/album/4usXG6rkCbdBRfnyRvgW8E"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        },
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        }
-      ],
-      "duration_ms": 161384,
-      "name": "Lucky Again (The Magician Remix)",
-      "url": "https://open.spotify.com/track/0SCeDWOdoMryrHo1XesIOM"
     },
     {
       "added_at": "2026-06-26 04:00:28",

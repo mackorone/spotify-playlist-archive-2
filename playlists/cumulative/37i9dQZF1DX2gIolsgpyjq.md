@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: Kelly No Brakes
+> The best new music by independent artists in the Nordics\. Cover: Glayden
 
-1,660 songs - 3 day 15 hr 20 min
+1,663 songs - 3 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,7 @@
 | [Clayboy](https://open.spotify.com/track/1V6MFi1F5PeiYe4NnADO6o) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [Clayboy](https://open.spotify.com/album/6b4mSAa3dcAa2MREOBopYI) | 2:35 | 2025-03-20 | 2025-05-02 |
 | [Clean Up Your Act, Sunshine!](https://open.spotify.com/track/5wHmohZkeApAOPIj280lHa) | [Fred Soila](https://open.spotify.com/artist/7ngrF0C7lWTaTI8Ei0ja8E) | [Clean Up Your Act, Sunshine!](https://open.spotify.com/album/77tjV3cTZ526yctYPkZUXJ) | 3:30 | 2025-12-31 | 2026-03-20 |
 | [Clichés](https://open.spotify.com/track/1CbtYqGK1gqPwljmMpoLHG) | [The Fjords](https://open.spotify.com/artist/1tkW59MDSeRL2I9GdvLjKe) | [Clichés](https://open.spotify.com/album/64edUJicS4sD14DqquSCPU) | 3:20 | 2024-02-08 | 2024-02-23 |
-| [Close My Eyes](https://open.spotify.com/track/6NOUlMbo6c3XXFC5kmuHIw) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Fading Forward](https://open.spotify.com/album/6nTysmAKuGBgaaHj8hfMy7) | 3:06 | 2026-04-14 |  |
+| [Close My Eyes](https://open.spotify.com/track/6NOUlMbo6c3XXFC5kmuHIw) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Fading Forward](https://open.spotify.com/album/6nTysmAKuGBgaaHj8hfMy7) | 3:06 | 2026-04-14 | 2026-07-08 |
 | [Close to Dying](https://open.spotify.com/track/4IpTVJKJU7Em4INGFY07EG) | [MAIH](https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI) | [Close to Dying](https://open.spotify.com/album/5YVuajI1Qk3oSfE3hfFTRM) | 3:00 | 2024-08-22 | 2025-01-03 |
 | [Closer](https://open.spotify.com/track/7twhrRwT0bqS6wqQpYYf3Y) | [GALAFUNK](https://open.spotify.com/artist/5cBXHUwPEFHePvKdQqFYzb) | [Closer](https://open.spotify.com/album/4D8vDalhqygYxKp2CTKxs8) | 3:42 | 2024-04-18 | 2024-06-07 |
 | [Closer](https://open.spotify.com/track/4Xl9qi7Z0KTU6aVWkNGETU) | [Genius Of Time](https://open.spotify.com/artist/1PyOgBv0gb5p75Y6iS6uM2) | [Closer](https://open.spotify.com/album/37qEBYJEhwnBgG9fC8Omwz) | 4:40 | 2024-09-05 | 2024-11-15 |
@@ -809,6 +809,7 @@
 | [Last Night](https://open.spotify.com/track/7LApkdUlue55xKFPNvUfxr) | [MOONPIE](https://open.spotify.com/artist/0q4wcPluW5Awdc0v4kwvEC), [St Henri](https://open.spotify.com/artist/3e3LkLyrblZgimWqfgmZsK) | [Last Night](https://open.spotify.com/album/7eQSuZumbvvHlkkqIeGImD) | 3:05 | 2025-03-06 | 2025-04-04 |
 | [Last Time](https://open.spotify.com/track/7MvfWJfnXqdYZFrkslgEW3) | [Emily Bowen](https://open.spotify.com/artist/4IcbSUnp61Iqco9c8OsTUc) | [Last Time](https://open.spotify.com/album/76zoFSv7yICfy6aHAqw3a5) | 2:42 | 2025-06-05 | 2025-07-25 |
 | [Last Time](https://open.spotify.com/track/1kRi2A08loSg8oZmHbvxWG) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Last Time](https://open.spotify.com/album/3vO08GPmv2KGP66nUmW0IC) | 2:56 | 2024-02-29 | 2025-01-03 |
+| [Last Train Home](https://open.spotify.com/track/48vL9BnLGjVR67iMyrj9DZ) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [Last Train Home](https://open.spotify.com/album/4BYuClhmYidSVfLtA7cXZs) | 3:02 | 2026-07-07 |  |
 | [Late At Night](https://open.spotify.com/track/0j0NEMwhXk8yyKmcQxCmrg) | [Håvard](https://open.spotify.com/artist/0z0OPsPAfAt1Zme2HMx1pt) | [Late At Night](https://open.spotify.com/album/3NjiRyzpzqUfNN4Zh8JJo3) | 3:36 | 2024-10-31 | 2024-12-05 |
 | [Late to the Party](https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Late to the Party](https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt) | 3:06 | 2024-08-22 | 2024-11-01 |
 | [Lately \(feat\. Lune\)](https://open.spotify.com/track/2wjWaQsqwxSXjy7n79QRRx) | [Yikes](https://open.spotify.com/artist/78j8yyA3RI06vgd4tmZgiO), [Lune](https://open.spotify.com/artist/7JBohcnAdfcFbZbYVZpKC2) | [Lately \(feat\. Lune\)](https://open.spotify.com/album/0ADrZnaHbqGg9oWjqsLdhy) | 5:30 | 2025-09-16 | 2025-10-31 |
@@ -1482,6 +1483,7 @@
 | [Through My Head](https://open.spotify.com/track/4SQxfIDGmCce5DPgntTEku) | [MOTYL](https://open.spotify.com/artist/2nvlSEgmC8Cnixxkykhrbo) | [Through My Head](https://open.spotify.com/album/1S7wtwVnH0jXocswaAsDpC) | 2:58 | 2024-08-08 | 2024-09-20 |
 | [through others' eyes](https://open.spotify.com/track/4WrioYRb6nwVTYqbf2Juf2) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [through others' eyes](https://open.spotify.com/album/29hdqsJg7hzCUcmMKjwMTD) | 2:50 | 2025-05-08 | 2025-06-13 |
 | [Throw It Away](https://open.spotify.com/track/3655f7Yzl0ryQOJofDJjwe) | [GREYSKIES](https://open.spotify.com/artist/5zp72ZM5DdxHbMPIt7EEtX) | [Throw It Away](https://open.spotify.com/album/7bHGwkWzUAKGMLLvmWTHh0) | 3:25 | 2024-02-29 | 2024-04-19 |
+| [TIKI BAR](https://open.spotify.com/track/1XHUuxEU1jRWaB2on1nxM9) | [garbagepink](https://open.spotify.com/artist/67JJQ1bAsztm9QUq9OTr1z) | [TIKI BAR](https://open.spotify.com/album/4zznVzEKYJwwtaSHfy7cv3) | 3:17 | 2026-07-07 |  |
 | [tikipo](https://open.spotify.com/track/7xeya8K6eFSBNzP0YMh9lF) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [tikipo](https://open.spotify.com/album/7MEYeRzKog2M6yrYTMlDXF) | 3:19 | 2024-04-11 | 2024-06-07 |
 | [Till The Day We Die](https://open.spotify.com/track/3TwUkwF8CpxxSEKcag0jDV) | [Hugo Daniel](https://open.spotify.com/artist/4glxVBzWyLru4qpAJh0weA) | [Till The Day We Die](https://open.spotify.com/album/7uC7yzzMMIssERNJsINxX0) | 2:45 | 2024-09-19 | 2024-10-25 |
 | [Time for Us](https://open.spotify.com/track/03hTMTJujRmDTV7P1aSgGl) | [Lalu](https://open.spotify.com/artist/3EeikbdxXtVV1PsTiXQbLs) | [Time for Us](https://open.spotify.com/album/3M2Xhw60yNd3hJ9U3ukQcS) | 3:14 | 2024-02-08 | 2024-02-23 |
@@ -1530,7 +1532,7 @@
 | [under your spell](https://open.spotify.com/track/7rC4bw9lF0zMF0BOJxPYsH) | [mikey](https://open.spotify.com/artist/2ftTkWEgbZL8ziKDBRI9nr) | [under your spell](https://open.spotify.com/album/4sWgv3Wjp4DxmtnQAtqfJg) | 3:47 | 2025-04-10 | 2025-05-17 |
 | [Underwater Station \(Safer\)](https://open.spotify.com/track/6NLgA7ndnmuXHQdUWTLo9x) | [MARSAW](https://open.spotify.com/artist/1c92H7lIxtyREQAZoNDCDd) | [Underwater Station \(Safer\)](https://open.spotify.com/album/2jr4NeT9gv6gRG3gWV8DcV) | 5:15 | 2024-03-28 | 2024-04-26 |
 | [Untangling](https://open.spotify.com/track/77hS4ySY9c5Hr2rLZ0JLKf) | [Rebecca Bangfield](https://open.spotify.com/artist/1xPMsPZNvSHAhw5wzYApho) | [Untangling](https://open.spotify.com/album/3NIoEPYNraduzuqJ6Ynhcl) | 3:53 | 2026-01-15 | 2026-04-02 |
-| [Until Next Time](https://open.spotify.com/track/6sqXo9n3Lm0P2loTJBNms5) | [Bellvie](https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl) | [Until Next Time](https://open.spotify.com/album/3duo5EyiWtjChSBE7OFd74) | 3:48 | 2026-04-14 |  |
+| [Until Next Time](https://open.spotify.com/track/6sqXo9n3Lm0P2loTJBNms5) | [Bellvie](https://open.spotify.com/artist/5TfMFZyVModzZjI5DOWwnl) | [Until Next Time](https://open.spotify.com/album/3duo5EyiWtjChSBE7OFd74) | 3:48 | 2026-04-14 | 2026-07-08 |
 | [Until The Last Teardrop](https://open.spotify.com/track/5hO0Dr7JhoGMlG8UpW6pzR) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [Until The Last Teardrop](https://open.spotify.com/album/1nZKUlQPy91A2RIoQWHQHj) | 3:21 | 2024-08-15 | 2024-09-27 |
 | [Untitled <3](https://open.spotify.com/track/0uuSafs67NZxRElxG8zrAX) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Untitled <3](https://open.spotify.com/album/4pQEvTQMn3hQpHM9AAI3wA) | 2:07 | 2025-08-14 | 2025-10-03 |
 | [Unwind](https://open.spotify.com/track/2nuDAyuVQOyQ3PBp4r1SO9) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Unwind](https://open.spotify.com/album/11tbIyhBWtfHn60JGKfEMb) | 2:18 | 2024-05-16 | 2025-01-03 |
@@ -1538,6 +1540,7 @@
 | [Upset](https://open.spotify.com/track/1lmESvOXWfDSgVAAaIruLL) | [Edgar Homeros](https://open.spotify.com/artist/4j8tcurjLu5pZAi0uogaYg) | [Crying Dove](https://open.spotify.com/album/6xGehMsofWMuFW2nKYdmK7) | 2:38 | 2024-05-23 | 2024-07-27 |
 | [use me!!!!!!!](https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/4Wd9B89j1dUHo2bLYJPWch) | 2:04 | 2025-12-03 | 2026-01-01 |
 | [use me!!!!!!!](https://open.spotify.com/track/5Kq49f1Yae96EXQgWKUbMM) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [WHEN A GIRL CRIES](https://open.spotify.com/album/74mjAz7XKkyRB8CAdLQngJ) | 2:04 | 2025-08-28 | 2025-10-24 |
+| [Vaal](https://open.spotify.com/track/2vLzxI56he3XskMDUgBDcY) | [OLING](https://open.spotify.com/artist/2saqEnwA5wcTmHPpvVM1cv) | [Vaal / Spacer](https://open.spotify.com/album/6MbsmXz5fGDV7WlNPaAb3i) | 4:35 | 2026-07-07 |  |
 | [Val De Marne](https://open.spotify.com/track/7wnYzb5pu8UFHz1sWT8jOI) | [cortex](https://open.spotify.com/artist/7h1gWbG7KDMC8NduLP3H2i) | [Val De Marne](https://open.spotify.com/album/7xnPCFHnXhRVTm57kqqwb3) | 2:22 | 2025-03-06 | 2025-04-25 |
 | [Validation](https://open.spotify.com/track/1N7Dea8tLIrjc9mjFmu2Ca) | [Hanna Emilie](https://open.spotify.com/artist/2JQwvgLu8J0FgSMWVhVySb) | [The One That Got Away](https://open.spotify.com/album/6NVh6nFDqtFl1tJLESx4Wl) | 2:56 | 2024-02-08 | 2024-05-09 |
 | [Vanessa](https://open.spotify.com/track/3lR2ucuERNadX6zFrvNf2g) | [plotones](https://open.spotify.com/artist/2uiobStTvqQjT30aHqnUKl), [4lex](https://open.spotify.com/artist/5Y3TAUyFG5nZpYVecDRtZ1) | [Vanessa](https://open.spotify.com/album/4OlKyBH2uCf07RcybeYaBf) | 3:05 | 2025-03-20 | 2025-04-25 |
@@ -1618,7 +1621,7 @@
 | [wildflower](https://open.spotify.com/track/6Mlslrt2Eg6ErFZfLMQMVZ) | [leoleo](https://open.spotify.com/artist/5Dsd7jTkXFpmNtZTWuBMDh) | [wildflower](https://open.spotify.com/album/1U5GHC1XPATNX9kXH82qFw) | 2:54 | 2024-09-19 | 2024-10-25 |
 | [Will I Be Hearing From You?](https://open.spotify.com/track/7DnpKGxrc8OhtZfaFJqRl3) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [Will I Be Hearing From You?](https://open.spotify.com/album/2flgAZ355HWMiUWdbTQsjc) | 3:36 | 2025-05-01 | 2025-06-06 |
 | [Willing To Wait](https://open.spotify.com/track/2cM1WarAAfBSUy3jPnhfRK) | [Amanda Cy](https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW) | [Willing To Wait](https://open.spotify.com/album/42hStPTLaxE3Uvp0PB3qdb) | 2:20 | 2024-11-07 | 2024-12-05 |
-| [Wind that makes the subway sound](https://open.spotify.com/track/3FdJLESuBrb3B9Fh9We3Fl) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Wind that makes the subway sound](https://open.spotify.com/album/1bmeezlOvfzfgKRnkWPg0a) | 2:52 | 2026-03-26 |  |
+| [Wind that makes the subway sound](https://open.spotify.com/track/3FdJLESuBrb3B9Fh9We3Fl) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Wind that makes the subway sound](https://open.spotify.com/album/1bmeezlOvfzfgKRnkWPg0a) | 2:52 | 2026-03-26 | 2026-07-08 |
 | [Winner](https://open.spotify.com/track/6J64hC7a0UuD4IumFsRK2C) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Winner](https://open.spotify.com/album/1ICCSSc8Cgc2SaeqJo4dsk) | 2:24 | 2024-05-23 | 2025-01-03 |
 | [Winner](https://open.spotify.com/track/2DYrqA9kKJVmUvrpMhck7o) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Winner](https://open.spotify.com/album/0oEKuvn37uaYExAiq7UfUm) | 3:37 | 2024-10-03 | 2024-11-29 |
 | [Winners](https://open.spotify.com/track/1hdsDWHEQXKHib0qC1tNcw) | [Mia Berg](https://open.spotify.com/artist/2olyZZaveIJkOzSNS23Ybf) | [Winners](https://open.spotify.com/album/4zttdXeme29P8b57yPxqfx) | 3:06 | 2024-02-08 | 2024-02-16 |

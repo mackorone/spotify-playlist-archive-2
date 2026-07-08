@@ -2357,6 +2357,24 @@
     },
     {
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7jmbQmCv3wMaqwLNkjQXw4"
+      },
+      "artists": [
+        {
+          "name": "Quilted Snowflake",
+          "url": "https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175022,
+      "name": "Blanket of Stars",
+      "url": "https://open.spotify.com/track/6HBsIshyys6vD7vf0Pm1Ut"
+    },
+    {
+      "album": {
         "name": "Crazy Chemistry",
         "url": "https://open.spotify.com/album/0J23Fv2L7xHyQ8TyKJamHc"
       },

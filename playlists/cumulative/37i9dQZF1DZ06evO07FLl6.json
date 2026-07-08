@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "A Night of Miles Davis",
+        "url": "https://open.spotify.com/album/16cOIJcGCSl6UAqh0K8Ygi"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242334,
+      "name": "It Never Entered My Mind",
+      "url": "https://open.spotify.com/track/7HrrI0MX1NLvsIaUlBVB5E"
+    },
+    {
+      "album": {
         "name": "The Blue Note And Capitol Recordings",
         "url": "https://open.spotify.com/album/2ZN3YPrCFvHJ9dTni1jBUz"
       },

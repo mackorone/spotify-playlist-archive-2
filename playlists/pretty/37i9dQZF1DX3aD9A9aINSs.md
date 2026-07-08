@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\. Kapak: Nükhet Duru
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,989 likes - 82 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,036 likes - 82 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 | 81 | [Les Indes Galantes: Forêts paisibles](https://open.spotify.com/track/0LoGYHUX0dyrEUYt5xlRuT) | [Pınar Temizel Çulha](https://open.spotify.com/artist/4CsCfP5uhlpD2bcb8vMlGG) | [Les Indes Galantes: Forêts paisibles](https://open.spotify.com/album/193z3RahYC7h9c0YECrjMU) | 2:34 |
 | 82 | [Məclis](https://open.spotify.com/track/01Uwekjb0Uxm37IZKS66uA) | [Aygün Kazımova](https://open.spotify.com/artist/0Q5G51DPqr8QsmAotlTOGP) | [Məclis](https://open.spotify.com/album/5O17ZBZWfmao2gexap1m4a) | 2:41 |
 
-Snapshot ID: `AAAAAM3v19FYVqURTjqHh0S1M1pKpPBJ`
+Snapshot ID: `AAAAALAi9nJHKzdSu+uWcbOKdgZGkFWN`

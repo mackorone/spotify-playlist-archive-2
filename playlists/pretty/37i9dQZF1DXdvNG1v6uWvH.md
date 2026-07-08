@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Loksins New Music Friday! Ný tónlist PATR!K og mörgum fleiri!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,666 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,667 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 | 18 | [Bonjour, Pardon, Merci](https://open.spotify.com/track/2jAXPXIejP3yz5mUtZLkOX) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Bonjour, Pardon, Merci](https://open.spotify.com/album/02QlnQYs9hya4kAG0Zw0jJ) | 3:10 |
 | 19 | [These Alarms](https://open.spotify.com/track/2IH6UvesVbl5dhFwf7syup) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [These Alarms](https://open.spotify.com/album/18yaAGsRMPGG24SxLPhu0K) | 3:21 |
 | 20 | [My Place](https://open.spotify.com/track/06PtUjF9NsdCYLaYag104S) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [My Place](https://open.spotify.com/album/1eewW3KA4KOK2GgA8El31C) | 2:39 |
-| 21 | [Organic Motion](https://open.spotify.com/track/0YJuBcj5bl9HGqMOBnthHC) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Organic Motion](https://open.spotify.com/album/5SdeOFSHrOBR6LikAiD7rU) | 2:35 |
+| 21 | [Organic Motion](https://open.spotify.com/track/0YJuBcj5bl9HGqMOBnthHC) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [DJ.Fresh](https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ) | [Organic Motion](https://open.spotify.com/album/5SdeOFSHrOBR6LikAiD7rU) | 2:35 |
 | 22 | [THE CINEMA](https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [PAREIDOLIA](https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5) | 3:22 |
 | 23 | [Moonlight](https://open.spotify.com/track/2fQpJcpE7EoVLVi7qoRcwQ) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Moonlight / Clean Run](https://open.spotify.com/album/7sT3iGUGe8PLZiYkp46TA1) | 3:20 |
 | 24 | [The last dance...](https://open.spotify.com/track/5MLawmtoMCQEPx7kt44IFn) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [The last dance...](https://open.spotify.com/album/1OwHW1ICmMkp9dGSmHLLjN) | 3:04 |

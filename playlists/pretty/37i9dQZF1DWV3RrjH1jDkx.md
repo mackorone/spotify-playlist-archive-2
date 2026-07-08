@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Emma Steinbakken, Sienna Spiro, V.Christie og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,347 likes - 76 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,346 likes - 76 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 36 | [Changes Rising](https://open.spotify.com/track/2w506gm1anuCes4phbCaMP) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Changes Rising](https://open.spotify.com/album/19cu33f4nHMSR9WtwCjDVS) | 3:16 |
 | 37 | [Pretty Eyes \(feat\. FLO\)](https://open.spotify.com/track/7CVAj2VLKIQQjFTTd3nYh5) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Pretty Eyes](https://open.spotify.com/album/1XqkZ8GL8MHY3RG5B6IXBZ) | 3:09 |
 | 38 | [Creatine](https://open.spotify.com/track/0SHBUfTIyN3Rv3uTjfJ3rf) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Creatine](https://open.spotify.com/album/4OfUzZfsruhmh5fvjkGzDM) | 1:49 |
-| 39 | [Organic Motion](https://open.spotify.com/track/0YJuBcj5bl9HGqMOBnthHC) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Organic Motion](https://open.spotify.com/album/5SdeOFSHrOBR6LikAiD7rU) | 2:35 |
+| 39 | [Organic Motion](https://open.spotify.com/track/0YJuBcj5bl9HGqMOBnthHC) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [DJ.Fresh](https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ) | [Organic Motion](https://open.spotify.com/album/5SdeOFSHrOBR6LikAiD7rU) | 2:35 |
 | 40 | [Killing Time](https://open.spotify.com/track/4Vey6RaBSbEYvBJi5mpwEE) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Killing Time](https://open.spotify.com/album/1tupvkLDJoeUuiBf0VJsy7) | 3:32 |
 | 41 | [Forehead Kiss](https://open.spotify.com/track/24MbgbLtD1DBEoUkQqmXP1) | [Maren Davidsen](https://open.spotify.com/artist/01uVLcwaQWu2VM4aUiQvyg) | [Forehead Kiss](https://open.spotify.com/album/2Z0Or5HJ9fMUFyoqFNBMit) | 3:51 |
 | 42 | [treat u right](https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [treat u right](https://open.spotify.com/album/40A1rVfEkPBAri7GV6iCZE) | 2:57 |

@@ -4,7 +4,7 @@
 
 > A soothing solfeggio frequency that is used by many to let go of negativity and toxic energy.
 
-105 songs - 4 hr 36 min
+107 songs - 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,7 +90,9 @@
 | [Peace Fountain](https://open.spotify.com/track/4yOvTVWlxFyqoDYGi0uQqD) | [Tibetan Singing Bowl Sounds](https://open.spotify.com/artist/4JwZIdOOQe0KsFr5AENBUR) | [Chakra Healing Bowls](https://open.spotify.com/album/5mANLf5MKCQpmPinlPPSXG) | 3:13 | 2023-03-10 | 2023-08-08 |
 | [Perception \(741 Hz\)](https://open.spotify.com/track/0DCq0iv4LwefpDKzHBSIiN) | [Soomna](https://open.spotify.com/artist/6NeFA54usP6nGKuK0eBOnM) | [Perception \(741 Hz\)](https://open.spotify.com/album/6tSp4GFIyn8zeUzDSOSPyV) | 2:42 | 2026-02-23 |  |
 | [Presence \- 741Hz](https://open.spotify.com/track/0oAnYHbjkzo21heLTo1hGV) | [Aster Mar](https://open.spotify.com/artist/55CdGRtywBf5eAehITb8IZ) | [Presence \- 741 Hz](https://open.spotify.com/album/3GWox3eFMx23KD3dJYIJJI) | 2:51 | 2023-11-30 |  |
+| [Purificación 741Hz](https://open.spotify.com/track/2BilmsN8LT4rzo1iuSMnzN) | [Svara Mandala](https://open.spotify.com/artist/6zmP8t7JV87fKWNXIEpBoI) | [Purificación 741Hz](https://open.spotify.com/album/3f0amhQe67ssiwpb4Ynmp7) | 3:00 | 2026-07-07 |  |
 | [Purple Waters 741 hz](https://open.spotify.com/track/7BlhSDmgv38rAbYmdIp3lW) | [Dream WIzard](https://open.spotify.com/artist/6ykiEbUBL5ud2RR3QY32o7) | [Purple Waters](https://open.spotify.com/album/3XHbzv3q0JTI6UTnnleiz2) | 2:49 | 2023-03-10 |  |
+| [Radiance Of Dawn \(741hz\)](https://open.spotify.com/track/4YiHoxw2FtLW2sgzZOIuEb) | [Lost Lumina](https://open.spotify.com/artist/6hxR80dFvGZxlRm3Sd33KQ) | [Radiance Of Dawn \(741hz\)](https://open.spotify.com/album/0Jcb3kVkxDMcD8AJjGzX76) | 2:18 | 2026-07-07 |  |
 | [Relaxing Reverie 741 Hz](https://open.spotify.com/track/0Y4TgyM6QUzSa2Dvw0VO8s) | [Doctor Hz](https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re) | [Night Solfeggio for the Mind](https://open.spotify.com/album/1WUP0qojbqgfTDiouUyyB0) | 3:34 | 2023-03-10 | 2023-08-08 |
 | [Restful Vibrations \(741Hz\)](https://open.spotify.com/track/5Pyl42FNoNa79GQuNZG9zg) | [Chura Rin](https://open.spotify.com/artist/3ND8SIfnQTaM7QulRp8RwN) | [Restful Vibrations \(741Hz\)](https://open.spotify.com/album/4mQ8G8sLHlnqKm03lOzWmh) | 2:37 | 2023-11-30 |  |
 | [Saturation 741 Hz](https://open.spotify.com/track/070xpFpvQSVQUTD6Hs8S7X) | [Slumra](https://open.spotify.com/artist/7LZjHVBpyfix3KUNCWHEWD) | [Saturation](https://open.spotify.com/album/31zWBCkJEmAqpPHzfZgnvL) | 2:42 | 2023-08-07 | 2024-08-31 |

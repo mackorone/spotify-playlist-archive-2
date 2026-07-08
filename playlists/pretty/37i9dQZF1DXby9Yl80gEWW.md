@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > No words, just chops\. Cover: Matt Combs
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,683 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,691 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 74 | [Stoney Lonesome](https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG) | [Noam Pikelny](https://open.spotify.com/artist/33bp8SqQpV7SzeYxSj714C) | [Noam Pikelny Plays Kenny Baker Plays Bill Monroe](https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP) | 3:41 |
 | 75 | [Groundhog Hotel](https://open.spotify.com/track/3fe7KhXDQIdfgFJPI7XFoE) | [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP), [Natalie Haas](https://open.spotify.com/artist/41sqaarfB2kCWssI6jM10V), [Sam Bush](https://open.spotify.com/artist/3Fud2i8WgXSZCVmi961lXm) | [North Node](https://open.spotify.com/album/5TZgPRIK5ouWBJQhntTmTZ) | 3:51 |
 
-Snapshot ID: `AAAAAKu31uE5AMN6/YqVpcA657cUFPQV`
+Snapshot ID: `AAAAAMmRiK1yZsN2do37iQZ3w9wfrX0R`

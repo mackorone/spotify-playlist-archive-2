@@ -1,12 +1,12 @@
 {
   "description": "These are some independent rock bands you need to hear.",
-  "num_followers": 1129,
+  "num_followers": 1135,
   "original_name": "Unsigned Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAGlxJtRHiPe0KLJbK6xE5sJh/bDlXj",
+  "snapshot_id": "AAAGmVb44rdAvVRuis453Kxg6NDrTB20",
   "tracks": [
     {
       "added_at": "2026-02-16 17:20:50",
@@ -1859,6 +1859,38 @@
       "duration_ms": 260741,
       "name": "Every Time I Look At You",
       "url": "https://open.spotify.com/track/1iOynYeos1FxRg826Amytc"
+    },
+    {
+      "added_at": "2026-07-07 22:17:26",
+      "album": {
+        "name": "It's a Bit Fuzzy",
+        "url": "https://open.spotify.com/album/2wpFHMzqhqjCKXtCCenuq4"
+      },
+      "artists": [
+        {
+          "name": "Dimestore Freud",
+          "url": "https://open.spotify.com/artist/1B7AZ6JiZQr6bflYaBD2g6"
+        }
+      ],
+      "duration_ms": 245130,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/6EnM2pjd6pfZyWHW8YSUb6"
+    },
+    {
+      "added_at": "2026-07-07 22:22:02",
+      "album": {
+        "name": "Dale Hodges Park",
+        "url": "https://open.spotify.com/album/0qqQff2wJfCNI9PdxhIdL1"
+      },
+      "artists": [
+        {
+          "name": "Kirsten McCormick",
+          "url": "https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8"
+        }
+      ],
+      "duration_ms": 207245,
+      "name": "Dale Hodges Park",
+      "url": "https://open.spotify.com/track/3VzzN4kUiTfZvfemrHAADM"
     }
   ],
   "unique_name": "Unsigned Rock",

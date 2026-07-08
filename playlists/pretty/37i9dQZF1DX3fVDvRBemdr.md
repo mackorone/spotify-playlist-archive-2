@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Afro Bros, John West, Billy Dans & Monq
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,270 likes - 102 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,267 likes - 102 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jij Bent Alles](https://open.spotify.com/track/1zZjvCZIq6ed9BDyRcuIc6) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Jij Bent Alles](https://open.spotify.com/album/2MxrSpr0y98d8Yo1W696SR) | 2:29 |
 | 2 | [Vuurwerk](https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh) | [Senna](https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ), [Sven Versteeg](https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV) | [Vuurwerk](https://open.spotify.com/album/6Q3K5puUGxM4OChACZbBPf) | 3:04 |
-| 3 | [Misschien Is Het Tijd](https://open.spotify.com/track/0u0eIoOtfk3u7f6BNPJhWm) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Misschien Is Het Tijd](https://open.spotify.com/album/4SyQopHqsRexQCsxaADSRa) | 2:57 |
-| 4 | [Tinto de Verano](https://open.spotify.com/track/6jG5fEJ1UEznTOpbV2y6ZP) | [Joey Nicolay](https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG) | [Tinto de Verano](https://open.spotify.com/album/4nRx85n55feU3DcUj6rJ0p) | 2:26 |
-| 5 | [Weet Wat Je Begint 2.0](https://open.spotify.com/track/5kslScjYuKwpoI5MvkUsI7) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy) | [Weet Wat Je Begint 2.0](https://open.spotify.com/album/55X4ZpJx6qXdMjWcuOlAB0) | 3:11 |
-| 6 | [Ik Zou 't Willen Schreeuwen van de Toren](https://open.spotify.com/track/2qsO92L3d4thlTaiLp3278) | [Etienne Alvares](https://open.spotify.com/artist/2tNzZt83uv71HN7uXeoaym) | [Ik Zou 't Willen Schreeuwen van de Toren](https://open.spotify.com/album/42Fb7i6uyLHAyZVLPvRjfB) | 2:54 |
-| 7 | [Tour de Frans \(Hey Fransie\)](https://open.spotify.com/track/59Gt0pczJlB8zYTUqdKzxC) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [De Voorhoede](https://open.spotify.com/artist/30P6li7INhXvV1XIPKlMBU) | [Tour de Frans \(Hey Fransie\)](https://open.spotify.com/album/0cgw4g3NdnWms9NcPL2P93) | 2:23 |
-| 8 | [Van Top Tot Teen](https://open.spotify.com/track/6Jk6LkLRzdHoLjuqRU8YER) | [Milan Verwoert](https://open.spotify.com/artist/5SXqnKvLQhK6Phs2oDPX2d) | [Van Top Tot Teen](https://open.spotify.com/album/31PAbmWB4TSkjIbj8g8fUy) | 2:30 |
-| 9 | [Feestje](https://open.spotify.com/track/3qSOnPQwf2YmGjIKdipwaQ) | [Femke Hengeveld](https://open.spotify.com/artist/4UK3zaAUen6v98wEdv0gL5) | [Feestje](https://open.spotify.com/album/25omnEwBe9qcWD1AgjGlhZ) | 2:38 |
-| 10 | [Stem In Je Hart](https://open.spotify.com/track/3gDh5tdexIUxKyRvlqXmxk) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Stem In Je Hart](https://open.spotify.com/album/6kqY2FBr1jp9cQ5FCHPhnW) | 2:58 |
-| 11 | [Vamos](https://open.spotify.com/track/7lDR3jmyiy63sKfkI21s9Q) | [Tommy Costa](https://open.spotify.com/artist/0bWS5y3DvLEICPEdHWDJQ5), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Vamos](https://open.spotify.com/album/3VFLOwzSK9dJwJcyAkWPL1) | 3:08 |
+| 3 | [Tinto de Verano](https://open.spotify.com/track/6jG5fEJ1UEznTOpbV2y6ZP) | [Joey Nicolay](https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG) | [Tinto de Verano](https://open.spotify.com/album/4nRx85n55feU3DcUj6rJ0p) | 2:26 |
+| 4 | [Misschien Is Het Tijd](https://open.spotify.com/track/0u0eIoOtfk3u7f6BNPJhWm) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Misschien Is Het Tijd](https://open.spotify.com/album/4SyQopHqsRexQCsxaADSRa) | 2:57 |
+| 5 | [Vamos](https://open.spotify.com/track/7lDR3jmyiy63sKfkI21s9Q) | [Tommy Costa](https://open.spotify.com/artist/0bWS5y3DvLEICPEdHWDJQ5), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Vamos](https://open.spotify.com/album/3VFLOwzSK9dJwJcyAkWPL1) | 3:08 |
+| 6 | [Weet Wat Je Begint 2.0](https://open.spotify.com/track/5kslScjYuKwpoI5MvkUsI7) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy) | [Weet Wat Je Begint 2.0](https://open.spotify.com/album/55X4ZpJx6qXdMjWcuOlAB0) | 3:11 |
+| 7 | [Ik Zou 't Willen Schreeuwen van de Toren](https://open.spotify.com/track/2qsO92L3d4thlTaiLp3278) | [Etienne Alvares](https://open.spotify.com/artist/2tNzZt83uv71HN7uXeoaym) | [Ik Zou 't Willen Schreeuwen van de Toren](https://open.spotify.com/album/42Fb7i6uyLHAyZVLPvRjfB) | 2:54 |
+| 8 | [Tour de Frans \(Hey Fransie\)](https://open.spotify.com/track/59Gt0pczJlB8zYTUqdKzxC) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE), [De Voorhoede](https://open.spotify.com/artist/30P6li7INhXvV1XIPKlMBU) | [Tour de Frans \(Hey Fransie\)](https://open.spotify.com/album/0cgw4g3NdnWms9NcPL2P93) | 2:23 |
+| 9 | [Van Top Tot Teen](https://open.spotify.com/track/6Jk6LkLRzdHoLjuqRU8YER) | [Milan Verwoert](https://open.spotify.com/artist/5SXqnKvLQhK6Phs2oDPX2d) | [Van Top Tot Teen](https://open.spotify.com/album/31PAbmWB4TSkjIbj8g8fUy) | 2:30 |
+| 10 | [Feestje](https://open.spotify.com/track/3qSOnPQwf2YmGjIKdipwaQ) | [Femke Hengeveld](https://open.spotify.com/artist/4UK3zaAUen6v98wEdv0gL5) | [Feestje](https://open.spotify.com/album/25omnEwBe9qcWD1AgjGlhZ) | 2:38 |
+| 11 | [Stem In Je Hart](https://open.spotify.com/track/3gDh5tdexIUxKyRvlqXmxk) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb) | [Stem In Je Hart](https://open.spotify.com/album/6kqY2FBr1jp9cQ5FCHPhnW) | 2:58 |
 | 12 | [Hypnose](https://open.spotify.com/track/7ATMIrDLDbASh2lscHksUd) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Hypnose](https://open.spotify.com/album/5Z1NBukAhJkZiMbXj6kjcz) | 2:40 |
 | 13 | [Door Jou](https://open.spotify.com/track/1dfWzfmMq3pxZGFw0pQNHo) | [Dennis Schaper](https://open.spotify.com/artist/46Rq2I19vNkOlXJcgNUnxw) | [Door Jou](https://open.spotify.com/album/2T91vuxDi3S8fIu2RDZhV2) | 2:40 |
 | 14 | [Pakt Mij](https://open.spotify.com/track/7quqA00qtOBWoTcYJ2nLME) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa), [De Amsterdamse Zomer](https://open.spotify.com/artist/41B0yDQQJEFnLDxTNNtlmJ) | [Pakt Mij](https://open.spotify.com/album/1KaoBUwB2I3VyJxgYvyEAZ) | 2:44 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 101 | [Waterpas](https://open.spotify.com/track/3aulIOmwLaqAnzNVy6Cho4) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Waterpas](https://open.spotify.com/album/5eU5jXJoDNFhvGlqrQOB8I) | 2:51 |
 | 102 | [Klavertje Vier](https://open.spotify.com/track/3l5Vc6BkuyOaokYDQlAWuU) | [Gideon](https://open.spotify.com/artist/6PHGgzRIDkaBOexjV4wfSp) | [Klavertje Vier](https://open.spotify.com/album/2jmywAI8bTlz307pi2Oj4D) | 2:26 |
 
-Snapshot ID: `AAAAAIsy98uzb+ep/s44rnZk692NioFd`
+Snapshot ID: `AAAAAItWWK2yloBDr2ToDsFUniNtln/O`

@@ -4,7 +4,7 @@
 
 > Lmao \-.\-
 
-530 songs - 1 day 6 hr 55 min
+533 songs - 1 day 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [GYARU](https://open.spotify.com/track/1rIegF191fU9LDCiozDyRH) | [Nene](https://open.spotify.com/artist/07pMzPVvAsMS1tgLfGtdIh) | [GYARU](https://open.spotify.com/album/2JghQxtUgwV6zCPcPI8JW7) | 3:05 | 2025-05-27 |  |
 | [hakuchuumu \(feat\. araki\)](https://open.spotify.com/track/44YFygtN4uwbBVcn1g2CEs) | [不眠症](https://open.spotify.com/artist/2VqEtJ2rBrI0mkFhxLYc0Q), [Araki](https://open.spotify.com/artist/09ONFXQOVjyy3AhFlBsZx8) | [Stray into a museum](https://open.spotify.com/album/2XffSggAZcbc1VVHdpffBh) | 3:30 | 2026-04-02 |  |
 | [hanabira](https://open.spotify.com/track/6C0sNoI2q1uUdTGGGaVAdt) | [glamscure](https://open.spotify.com/artist/7oQX1jVN0EsaRmdFKBkzdT) | [shadowscapes](https://open.spotify.com/album/6caVcUAUovJnkA1R5xbNci) | 2:17 | 2026-04-07 |  |
+| [HANAMEKANAI](https://open.spotify.com/track/3y0K4W3uepBpDVtNJPZShN) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [HANAMEKANAI](https://open.spotify.com/album/4Ce42WQtBY8X2CJsNNCBkh) | 3:36 | 2026-07-07 |  |
 | [hanawoutau](https://open.spotify.com/track/59mCmIQswqAQEED5nhdQJV) | [Shino](https://open.spotify.com/artist/59Bj4ZrSOLrNlMH15wY2VB) | [hanaainitari](https://open.spotify.com/album/50wRlQSd8wMzia6PsblhQc) | 3:24 | 2026-06-24 |  |
 | [Happiness Savings \(feat\. HATSUNE MIKU\)](https://open.spotify.com/track/22GIffkfqo45pTLyGXrRHX) | [MIMI](https://open.spotify.com/artist/0nwGsQzwVqdlBAg0eSNxmd), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Happiness Savings \(feat\. HATSUNE MIKU\)](https://open.spotify.com/album/2DtL6aukVKA4gPalst5JtC) | 2:49 | 2023-11-17 |  |
 | [HAREBARE](https://open.spotify.com/track/6qRXiDBpqYSNziFaHLl8tV) | [CULUA](https://open.spotify.com/artist/3sQqFA3jHUjGGUoUvwX7B2) | [HAREBARE](https://open.spotify.com/album/65MUZrDqQenpzqBgcaJPNk) | 3:08 | 2025-04-03 |  |
@@ -360,6 +361,7 @@
 | [これを依存と呼ぶなら](https://open.spotify.com/track/1Oe45Ze9SwanHB2vL7gY9H) | [MEJIBRAY](https://open.spotify.com/artist/6VeP6EHKYyGJrN60TlAPpo) | [Slivers.exe](https://open.spotify.com/album/3Nh4cuCIR5iHJyv07kCoRL) | 5:40 | 2025-09-16 |  |
 | [さみしいひと](https://open.spotify.com/track/7zzjQ4NWOgAjCdsFGdoFKh) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [NEW ROMANCER](https://open.spotify.com/album/4oXJbsrzcBWP3Jf07jkOGO) | 3:02 | 2024-06-26 |  |
 | [すき、きらい](https://open.spotify.com/track/64ttfvrrWBI9mt6B3nrnZH) | [ファントムシータ](https://open.spotify.com/artist/6JO3HrRYUfSMbe71R7RUF2) | [すき、きらい](https://open.spotify.com/album/17CK4Um2qgC3So9LLHYsN4) | 4:25 | 2025-10-28 |  |
+| [ぜいたくランドリー](https://open.spotify.com/track/6COdEzPxjCaaQqOH4KA24c) | [句るり](https://open.spotify.com/artist/1X70BUiqwYlEkmF2bkMv72), [塩瀬ろぴ](https://open.spotify.com/artist/0XM0u3UELmLJD8EKSvYUlU) | [ぜいたくランドリー](https://open.spotify.com/album/4nj3xQCgIszFESdNvb4jKc) | 2:39 | 2026-07-07 |  |
 | [ただ病名が欲しかった](https://open.spotify.com/track/6d3GDEnwhSC2zSpBhN9zaZ) | [kyiku](https://open.spotify.com/artist/5eE5UwQWBq47o0U1K63i6P) | [ただ病名が欲しかった](https://open.spotify.com/album/6eJH1nePY7LemgUbUXmjGY) | 3:14 | 2024-11-18 |  |
 | [たぶん](https://open.spotify.com/track/398dL22bDbKbAmiOnPaq7o) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:16 | 2023-01-03 |  |
 | [だいあるのーと](https://open.spotify.com/track/3c4iCaXVuJaASqIvPLm7ts) | [七草くりむ](https://open.spotify.com/artist/0sGCkyb5YJyxNdfkW7t4mw) | [だいあるのーと](https://open.spotify.com/album/3WCajPUTbYJCW1el4yQCi1) | 2:00 | 2024-08-06 |  |
@@ -416,6 +418,7 @@
 | [ファブリック・フラワー](https://open.spotify.com/track/3EzCdvLrgxYJkLXrwoPpml) | [Wolpis Carter](https://open.spotify.com/artist/5gBtcJIa6ZLJB1HUwfik4J) | [ファブリック・フラワー](https://open.spotify.com/album/3zVCnrLb0V85Xo5i7ZSgcN) | 2:40 | 2024-07-08 |  |
 | [フィクサー・イン・グレイ](https://open.spotify.com/track/3Y0hbUxtoYW9PbUAIWpJji) | [アザミ](https://open.spotify.com/artist/2PIhnekER7v12MJ0HYZQTu) | [ADVENTUNE 2](https://open.spotify.com/album/5jZZkkJyDWHMOQGl796We2) | 4:01 | 2025-05-27 |  |
 | [フラッシュバッカー](https://open.spotify.com/track/2qdPWFrknWyLXYIPpbtAgD) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:35 | 2023-05-06 |  |
+| [フレンドカウンセリング](https://open.spotify.com/track/4S44ACf8p1wvSSi3gyxow9) | [句るり](https://open.spotify.com/artist/1X70BUiqwYlEkmF2bkMv72), [初音ミク](https://open.spotify.com/artist/2jlojUTQutTQMWWnvtcNmB), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [フレンドカウンセリング](https://open.spotify.com/album/3XCw3vYJZeDxyc3Z8hITMq) | 2:46 | 2026-07-07 |  |
 | [フワライドウ \(feat\. 初音ミク\)](https://open.spotify.com/track/3dVN7kgkeUZG3pK2PxvJQJ) | [Adeliae](https://open.spotify.com/artist/1WMnnczuFZmRuvrprv9fjA), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [フワライドウ](https://open.spotify.com/album/2QaYjVPp5BfdNDHvee6wpe) | 2:38 | 2025-09-30 |  |
 | [フールフールフール](https://open.spotify.com/track/7dObELU1sPaGTfbQWZILcR) | [おくのほそみち](https://open.spotify.com/artist/6JGvjK1tVqPt9KrvNuUQLl), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [フールフールフール](https://open.spotify.com/album/3ZxZh1qFViq0igteZ5y7Cb) | 3:13 | 2024-05-20 |  |
 | [プロポーズ](https://open.spotify.com/track/28Pq4gEOWpCj9jSNwZu95A) | [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ) | [Let me battle](https://open.spotify.com/album/0lrzLq3f2hFBaaTHN0xURv) | 3:54 | 2025-04-09 |  |

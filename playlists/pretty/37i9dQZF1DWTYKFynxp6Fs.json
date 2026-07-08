@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Vaazha 2",
-  "num_followers": 702177,
+  "num_followers": 702474,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOLvUo0t+1fF43yHe6NecBE4y9bs",
+  "snapshot_id": "AAAAAE63EsyD4RHM5plUQ9iGRi/L+uRd",
   "tracks": [
     {
       "added_at": "2026-04-14 06:35:29",
@@ -117,34 +117,6 @@
       "url": "https://open.spotify.com/track/4zeA83WTPlKCkag4utanxx"
     },
     {
-      "added_at": "2026-04-17 11:39:21",
-      "album": {
-        "name": "CHILLARA FLEX",
-        "url": "https://open.spotify.com/album/5DwJYu4wEeiZ4GJX1wkBbV"
-      },
-      "artists": [
-        {
-          "name": "ARJN",
-          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
-        },
-        {
-          "name": "KDS",
-          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
-        },
-        {
-          "name": "FIFTY4",
-          "url": "https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP"
-        },
-        {
-          "name": "RONN",
-          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
-        }
-      ],
-      "duration_ms": 142184,
-      "name": "CHILLARA FLEX",
-      "url": "https://open.spotify.com/track/1aAkDOxVXY9I0VyEuOgRY5"
-    },
-    {
       "added_at": "2026-02-26 09:58:49",
       "album": {
         "name": "ZILL",
@@ -167,6 +139,34 @@
       "duration_ms": 247272,
       "name": "ZILL",
       "url": "https://open.spotify.com/track/12wlJpuAbgMv0OaYmY3r5x"
+    },
+    {
+      "added_at": "2026-07-07 04:33:21",
+      "album": {
+        "name": "KALYANI (with Shreya Ghoshal) [Remix]",
+        "url": "https://open.spotify.com/album/7JIw6me0sSXfs4nGwNaTHw"
+      },
+      "artists": [
+        {
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
+        },
+        {
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "FIFTY4",
+          "url": "https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 269387,
+      "name": "KALYANI (with Shreya Ghoshal) - Remix",
+      "url": "https://open.spotify.com/track/2y8mkajKikV5S1PRCMQ5WL"
     },
     {
       "added_at": "2026-07-02 06:53:11",
@@ -239,6 +239,34 @@
       "duration_ms": 278750,
       "name": "Thooki",
       "url": "https://open.spotify.com/track/53Zl4vhN9gqxdF7NQ2zOzf"
+    },
+    {
+      "added_at": "2026-04-17 11:39:21",
+      "album": {
+        "name": "CHILLARA FLEX",
+        "url": "https://open.spotify.com/album/5DwJYu4wEeiZ4GJX1wkBbV"
+      },
+      "artists": [
+        {
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
+        },
+        {
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "FIFTY4",
+          "url": "https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP"
+        },
+        {
+          "name": "RONN",
+          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
+        }
+      ],
+      "duration_ms": 142184,
+      "name": "CHILLARA FLEX",
+      "url": "https://open.spotify.com/track/1aAkDOxVXY9I0VyEuOgRY5"
     },
     {
       "added_at": "2026-02-24 18:24:10",
@@ -387,34 +415,6 @@
       "duration_ms": 189896,
       "name": "Saroja",
       "url": "https://open.spotify.com/track/7GMQi5djhTlWedSR9Oz4uN"
-    },
-    {
-      "added_at": "2025-11-26 07:40:57",
-      "album": {
-        "name": "KALYANI",
-        "url": "https://open.spotify.com/album/5MwY2xvTLLDNXi3qiX0GhF"
-      },
-      "artists": [
-        {
-          "name": "ARJN",
-          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
-        },
-        {
-          "name": "KDS",
-          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
-        },
-        {
-          "name": "FIFTY4",
-          "url": "https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP"
-        },
-        {
-          "name": "RONN",
-          "url": "https://open.spotify.com/artist/6jw1jO7iGLcrQyXL1Ia0IW"
-        }
-      ],
-      "duration_ms": 234489,
-      "name": "KALYANI",
-      "url": "https://open.spotify.com/track/2Uyj6K6mSaFTZsPvov415i"
     },
     {
       "added_at": "2026-01-07 07:41:31",

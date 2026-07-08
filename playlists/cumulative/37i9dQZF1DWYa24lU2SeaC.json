@@ -2301,6 +2301,32 @@
     },
     {
       "album": {
+        "name": "Vaiana - La L\u00e9gende du Bout du Monde (Bande Originale Fran\u00e7aise du Film)",
+        "url": "https://open.spotify.com/album/5ym847hpmMSzqLrdVsAWyN"
+      },
+      "artists": [
+        {
+          "name": "Cerise Calixte",
+          "url": "https://open.spotify.com/artist/67cye4zHhIJs2LVGpsbmTP"
+        },
+        {
+          "name": "Hannah Vaubien",
+          "url": "https://open.spotify.com/artist/1Amk4rewdExHDMnRbteTRo"
+        },
+        {
+          "name": "David Kr\u00fcger",
+          "url": "https://open.spotify.com/artist/1gZdnhCsXFlnoU8iPZ9PCv"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257213,
+      "name": "Quand tu voyages",
+      "url": "https://open.spotify.com/track/27Y7MDztlWjJGeM3KmKr2A"
+    },
+    {
+      "album": {
         "name": "Encanto: La fantastique famille Madrigal (Bande Originale Fran\u00e7aise du Film)",
         "url": "https://open.spotify.com/album/5ZwcQ8o0pOW31M28QAJai8"
       },

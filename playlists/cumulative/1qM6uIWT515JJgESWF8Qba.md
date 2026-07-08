@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-282 songs - 17 hr 44 min
+283 songs - 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Piece Of The Pie](https://open.spotify.com/track/01SzDzVKiUZzwgsxkgxCqp) | [Sweet Electric](https://open.spotify.com/artist/2I2JaAstxZhlU1fmnRZSEm) | [Piece Of The Pie](https://open.spotify.com/album/458bpgTUEVcU1q51PS6h6R) | 3:41 | 2025-12-13 | 2026-01-21 |
 | [Plastic World](https://open.spotify.com/track/3KC2RXGgJjiizcah1Dpy60) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Steel II](https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd) | 3:47 | 2026-05-30 |  |
 | [Play The Fool](https://open.spotify.com/track/17utc5QAA7nYqFHJBecviD) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:13 | 2025-11-21 | 2025-12-28 |
+| [Playing with Fire](https://open.spotify.com/track/2CLoPYyFM3abS0VtBRCLAk) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Playing with Fire](https://open.spotify.com/album/2DD97DuvevrjwdSIiQlH1B) | 3:13 | 2026-07-07 |  |
 | [Pocket Friend](https://open.spotify.com/track/1o3vJA4CscYdUMNALRorHX) | [The Wild Life](https://open.spotify.com/artist/6v89r44ZBn2egA98VSHrTD) | [Pocket Friend](https://open.spotify.com/album/4eJU1HUt931tQ3dlte1ENP) | 3:21 | 2026-06-11 |  |
 | [Pride](https://open.spotify.com/track/5fTYOxtkQXksKM7Pbj6SQy) | [AG Session](https://open.spotify.com/artist/2cG7L3KAgqNIDuR8Te8bGy) | [Guardians of the Phallicy](https://open.spotify.com/album/1onQnwCOdZxDvjoUS0YXJU) | 2:32 | 2026-04-16 | 2026-06-14 |
 | [Prosthetic](https://open.spotify.com/track/2qRfwaLyZW1jDyQoYhAahd) | [Dymer](https://open.spotify.com/artist/31uajf71LLM3lkx3jG05Tv) | [Prosthetic](https://open.spotify.com/album/7nWsdqylOgGTb4EBTmm4nM) | 3:41 | 2026-04-15 | 2026-05-19 |

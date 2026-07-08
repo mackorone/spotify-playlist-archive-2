@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LYO2TUZb52Fuh9qCZOMcz">Kris Kristofferson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-157 songs - 9 hr 13 min
+158 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Rock and Roll Time](https://open.spotify.com/track/49jEmOFdvaalGd4WgTy3Ck) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Spooky Lady's Sideshow](https://open.spotify.com/album/27AdpjUXwGvkrnfczXACMk) | 4:55 | 2025-12-17 |  |
 | [Rocket to Stardom](https://open.spotify.com/track/1aSOkYCv6MmbP3GrLa4eBF) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless...And Who's to Blame](https://open.spotify.com/album/2vde6ipQcJs8ejllLtqtgT) | 3:35 | 2025-12-17 |  |
 | [Rocket to Stardom](https://open.spotify.com/track/5UgycYx6YgscHOG7ZbtO9E) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Who's To Bless And Who's To Blame](https://open.spotify.com/album/1TDJNWGpmhpRUJJv4Siu3g) | 3:35 | 2024-09-29 | 2025-12-18 |
+| [Sea Dream](https://open.spotify.com/track/1kXpMmm2ohfNfcE8FZvL0B) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Ocean Strings](https://open.spotify.com/album/3STLTOakm8q0pCyCRod8GO) | 2:37 | 2026-07-07 |  |
 | [Shadows of Her Mind](https://open.spotify.com/track/0pInGbWIuPLQLJ7NgUQ3K2) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Extras](https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y) | 3:12 | 2024-09-29 |  |
 | [Shake Hands With the Devil](https://open.spotify.com/track/0fFMQYs2PAqJ6i21S0GYHk) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Shake Hands With The Devil](https://open.spotify.com/album/6AKIKI8Gpfe28g0j2Z4yc7) | 3:29 | 2024-09-29 | 2025-12-18 |
 | [Shake Hands With the Devil](https://open.spotify.com/track/1Vyr0JU2u5BhJuMnQ9z5Qj) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Shake Hands with the Devil](https://open.spotify.com/album/78Q7mbAmkbPE6RFyeeTbzU) | 3:29 | 2025-12-17 |  |

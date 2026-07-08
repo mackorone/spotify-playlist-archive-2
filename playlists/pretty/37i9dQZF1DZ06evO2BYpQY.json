@@ -1,12 +1,12 @@
 {
   "description": "This is Sin\u00e9ad O'Connor. The essential tracks, all in one playlist.",
-  "num_followers": 81518,
+  "num_followers": 81522,
   "original_name": "This Is Sin\u00e9ad O'Connor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akmegAAAAAASHhMsFVpmDrzW2SRPhZRB",
+  "snapshot_id": "akrwAAAAAADUYQAHZQ3VXy+52uUqgcCP",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lion and the Cobra",
-        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 227653,
-      "name": "Mandinka",
-      "url": "https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Universal Mother",
         "url": "https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 157733,
       "name": "All Apologies",
       "url": "https://open.spotify.com/track/5nJ96pOx3kXvmISLO7xKIb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 227653,
+      "name": "Mandinka",
+      "url": "https://open.spotify.com/track/4x4e63yL8r7tOFcZ0n6KHe"
     },
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lion and the Cobra",
-        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 323133,
-      "name": "Drink Before the War",
-      "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thank You for Hearing Me",
         "url": "https://open.spotify.com/album/1IRGD7Q4rBHAJrWgDwdujG"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 306626,
       "name": "House of the Rising Sun",
       "url": "https://open.spotify.com/track/6SrPnpNVEBtA29I6sYyEtQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 323133,
+      "name": "Drink Before the War",
+      "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
     },
     {
       "added_at": null,
@@ -163,22 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lion and the Cobra",
-        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 391200,
-      "name": "Troy",
-      "url": "https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pale Green Ghosts",
         "url": "https://open.spotify.com/album/23jVGTd2ouvUNmoWPDkthH"
       },
@@ -195,6 +179,22 @@
       "duration_ms": 313986,
       "name": "GMF",
       "url": "https://open.spotify.com/track/0uul4WzezEwTELfdrWuh3d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 391200,
+      "name": "Troy",
+      "url": "https://open.spotify.com/track/4ZbrvxwWPNX0MgbubsqbZG"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lion and the Cobra",
-        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 271093,
-      "name": "Just Like U Said It Would B",
-      "url": "https://open.spotify.com/track/3SJZbGDZG20DPXmg3jKYj9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wall - Live In Berlin",
         "url": "https://open.spotify.com/album/5VH40XjW17Z2y8EuyOajYR"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 397000,
       "name": "Mother - Live In Berlin",
       "url": "https://open.spotify.com/track/1QW6ISVXmDO1sRWjx6xuMx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 271093,
+      "name": "Just Like U Said It Would B",
+      "url": "https://open.spotify.com/track/3SJZbGDZG20DPXmg3jKYj9"
     },
     {
       "added_at": null,
@@ -311,22 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lion and the Cobra",
-        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 150146,
-      "name": "Jackie",
-      "url": "https://open.spotify.com/track/0dQBgFWsfpZabdgAYIwNsO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Am I Not Your Girl?",
         "url": "https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 334960,
       "name": "Don't Cry for Me Argentina",
       "url": "https://open.spotify.com/track/60GXsrlgXeaKNHKtP71ruN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 150146,
+      "name": "Jackie",
+      "url": "https://open.spotify.com/track/0dQBgFWsfpZabdgAYIwNsO"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Lion and the Cobra",
+        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 278906,
+      "name": "I Want Your (Hands on Me)",
+      "url": "https://open.spotify.com/track/3FwJ6vxxKhhvet3DM042p9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Conjure One",
         "url": "https://open.spotify.com/album/0oUVb36vRs7xH3M6Gu2OUB"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 257893,
       "name": "Tears From The Moon",
       "url": "https://open.spotify.com/track/4nBzwUdPBNuKiFfLTeG2sV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lion and the Cobra",
-        "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 278906,
-      "name": "I Want Your (Hands on Me)",
-      "url": "https://open.spotify.com/track/3FwJ6vxxKhhvet3DM042p9"
     },
     {
       "added_at": null,
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlander: Season 7 (Highlights from the Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 215587,
+      "name": "Outlander - The Skye Boat Song (Revolutionary Version)",
+      "url": "https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Captive Original Soundtrack",
         "url": "https://open.spotify.com/album/1QOrpKGCLYMPfXT2mTaEeT"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 267106,
       "name": "Heroine",
       "url": "https://open.spotify.com/track/4i0bvDu2J8KOOxTzPs5qpc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 7 (Highlights from the Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 215587,
-      "name": "Outlander - The Skye Boat Song (Revolutionary Version)",
-      "url": "https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0"
     },
     {
       "added_at": null,

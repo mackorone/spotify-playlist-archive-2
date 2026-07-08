@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Vintara Saradaga - VISA",
-  "num_followers": 171101,
+  "num_followers": 171095,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFXZOLzsu3pElys7AG6U2MajgNzN",
+  "snapshot_id": "AAAAAOMNtM0pSYCtaysh1vRsmW+sD+OZ",
   "tracks": [
     {
       "added_at": "2026-07-02 11:05:52",
@@ -191,6 +191,38 @@
       "duration_ms": 224081,
       "name": "Priyasakhi (From \"EPIC - First Semester\")",
       "url": "https://open.spotify.com/track/1HDXZO5k652uOnB6L8hc66"
+    },
+    {
+      "added_at": "2026-07-07 07:45:20",
+      "album": {
+        "name": "Jaya Mangalam (From \"Lenin\")",
+        "url": "https://open.spotify.com/album/214iEM1yTq9JPTZ1FIh0hQ"
+      },
+      "artists": [
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "Kumara Vagdevi",
+          "url": "https://open.spotify.com/artist/2DZUQkCCjquQ830riDtzFu"
+        },
+        {
+          "name": "Vijaya Lakshmi",
+          "url": "https://open.spotify.com/artist/21tEGk5FMTStfyeJEeVSTM"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 207095,
+      "name": "Jaya Mangalam (From \"Lenin\")",
+      "url": "https://open.spotify.com/track/19pjfPfmHB6H1NyBEVUdOd"
     },
     {
       "added_at": "2026-03-30 07:22:34",
@@ -895,34 +927,6 @@
       "duration_ms": 212000,
       "name": "Oye Pilla (From \"Dooradarshini\")",
       "url": "https://open.spotify.com/track/1pbtF2Qfyy0fIF5ktSrcUE"
-    },
-    {
-      "added_at": "2026-03-05 05:47:01",
-      "album": {
-        "name": "Oosulade (From \"Son Of\")",
-        "url": "https://open.spotify.com/album/4Tvx94BHEaH2QuoIP9wJI7"
-      },
-      "artists": [
-        {
-          "name": "Rishi M",
-          "url": "https://open.spotify.com/artist/1OmE5hZurgiZm1pvRSpLKZ"
-        },
-        {
-          "name": "Adithya RK",
-          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
-        },
-        {
-          "name": "Sameera Bharadwaj",
-          "url": "https://open.spotify.com/artist/10CItw8tdXThklMWPI55vu"
-        },
-        {
-          "name": "Bhaskarabhatla",
-          "url": "https://open.spotify.com/artist/1BuW9BEbBIhDu6F13TVxpu"
-        }
-      ],
-      "duration_ms": 274900,
-      "name": "Oosulade (From \"Son Of\")",
-      "url": "https://open.spotify.com/track/5jK6GRosmpH5fj1A1xFFds"
     },
     {
       "added_at": "2026-03-30 07:22:34",

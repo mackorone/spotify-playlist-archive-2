@@ -453,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Atlantis Nath",
+        "url": "https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 926706,
+      "name": "Ascencion",
+      "url": "https://open.spotify.com/track/1JDW11l8dOUYzFQJwNdXLE"
+    },
+    {
+      "album": {
         "name": "Terry Riley: Autodreamographical Tales",
         "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
       },
@@ -1472,7 +1490,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 688000,
       "name": "Eastern Man",
       "url": "https://open.spotify.com/track/1MUOZKmLdxptTVYcRRehBC"
@@ -1870,7 +1888,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 279133,
       "name": "Gha Ten In Darbari",
       "url": "https://open.spotify.com/track/1qGRUrhjIFl2xAcW0kihtX"
@@ -3968,7 +3986,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 456066,
       "name": "Spirit of Peace: Part II.",
       "url": "https://open.spotify.com/track/49jlgHpsuZEeQxgo8xxYKP"
@@ -4392,7 +4410,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 566400,
       "name": "The Harp of New Albion: VIII. The Magic Knot Waltz",
       "url": "https://open.spotify.com/track/07Ug3dg1bkX12uUrmioMKj"
@@ -4842,7 +4860,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 132200,
       "name": "Wedding Song",
       "url": "https://open.spotify.com/track/0WYb5eZpTfgU73fCKaiCre"

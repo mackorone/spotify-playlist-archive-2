@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, numa edição especial co curada com Neyna
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,442 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,445 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 31 | [Rapariga \(feat\. Amália Rodrigues\)](https://open.spotify.com/track/12FmYEHJy6B13Mg1THQoAG) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Amália Rodrigues](https://open.spotify.com/artist/0DBF33ctUe4yhxKP3eTcCt) | [Lusa: ato II](https://open.spotify.com/album/7kDPFNG3yYCLjhIElwAWJh) | 2:50 |
 | 32 | [ÉPOCA DE CAÇA ∆](https://open.spotify.com/track/39tCkRfeiJaB64lpsNOInU) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [HORMONAL](https://open.spotify.com/album/5tnMRzUb5oNXUn9O7bEojK) | 2:43 |
 | 33 | [Não Me Fales \(feat\. Wet Bed Gang\)](https://open.spotify.com/track/0cyZxCagQAFRtykDcbsjqS) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [ID](https://open.spotify.com/album/235O2OncTKPS2XsUUT28XY) | 4:28 |
-| 34 | [O Amor Existe](https://open.spotify.com/track/4xFAjC2SSS0q5gwVqvI75f) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [O Amor Existe](https://open.spotify.com/album/3CC2NCL8OSeMT1iBJGBixH) | 3:13 |
+| 34 | [o amor existe](https://open.spotify.com/track/4xFAjC2SSS0q5gwVqvI75f) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [o amor existe](https://open.spotify.com/album/3CC2NCL8OSeMT1iBJGBixH) | 3:13 |
 | 35 | [Era de Aquário/Deixa o Sol Entrar](https://open.spotify.com/track/76tplKafy6kBbFKi7vGBhb) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Era de Aquário/Deixa o Sol Entrar](https://open.spotify.com/album/6lOynBCQr4s3GKTpGlOZ07) | 4:05 |
 | 36 | [Vício Difícil](https://open.spotify.com/track/0SKHaG7xHqJYQ54wz8KVDI) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Relatos De Um Coração Confuso](https://open.spotify.com/album/62tNKIrsJH19yxTVEPdvA1) | 2:57 |
 | 37 | [Tipicamente Casados](https://open.spotify.com/track/0yvE6oZRThZMSbiBDJ4ukO) | [Ana Bacalhau](https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF), [Mimicat](https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6) | [Tipicamente Casados](https://open.spotify.com/album/0KmP74mANKebm78UJHfvL1) | 2:57 |

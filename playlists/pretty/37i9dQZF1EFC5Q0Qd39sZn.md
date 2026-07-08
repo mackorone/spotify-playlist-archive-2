@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,633 likes - 590 songs - 1 day 16 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,632 likes - 590 songs - 1 day 16 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -249,9 +249,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 239 | [If I Don't Tell You Now](https://open.spotify.com/track/1eFZF1b1AW24Dp1ELQ53WX) | [Ronan Keating](https://open.spotify.com/artist/3nlHsNqwCSvT988ZfSW1Yh) | [Ronan](https://open.spotify.com/album/3T9Imnmd2Amt5lyDMqlFq9) | 3:19 |
 | 240 | [I Did It for You](https://open.spotify.com/track/1Km0EwfnZXSgNEZXphorwg) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Turnaround](https://open.spotify.com/album/7cAUnQdYOGT2q0OPiBgTWO) | 3:31 |
 | 241 | [Love Cuts Deep](https://open.spotify.com/track/39puNJ8CncH1zTMeBgNAEb) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 3:48 |
-| 242 | [The Change](https://open.spotify.com/track/2buUEhuN8I6tZ27kaWfqyh) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Change](https://open.spotify.com/album/1bZb08UfxnPsbz8MN2hhbF) | 3:35 |
-| 243 | [I Count The Minutes](https://open.spotify.com/track/45xHOotYR3klNeJfiP3ixl) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:17 |
-| 244 | [Whenever You Close Your Eyes](https://open.spotify.com/track/2AUOwFmZXSSxx2yOdBVnx5) | [Tommy Page](https://open.spotify.com/artist/4TPWj56uIO4N5puju96P0J) | [From The Heart](https://open.spotify.com/album/0DpEL1pppZzHT0CGY7th7t) | 4:34 |
+| 242 | [Whenever You Close Your Eyes](https://open.spotify.com/track/2AUOwFmZXSSxx2yOdBVnx5) | [Tommy Page](https://open.spotify.com/artist/4TPWj56uIO4N5puju96P0J) | [From The Heart](https://open.spotify.com/album/0DpEL1pppZzHT0CGY7th7t) | 4:34 |
+| 243 | [The Change](https://open.spotify.com/track/2buUEhuN8I6tZ27kaWfqyh) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [The Change](https://open.spotify.com/album/1bZb08UfxnPsbz8MN2hhbF) | 3:35 |
+| 244 | [I Count The Minutes](https://open.spotify.com/track/45xHOotYR3klNeJfiP3ixl) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:17 |
 | 245 | [Not Enough Hours In The Night](https://open.spotify.com/track/79xgC6Q1Itp5JDkW6fsZvs) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [The Very Best Of After 7](https://open.spotify.com/album/5L5q7gpKSLpMXd06AoX1U7) | 4:27 |
 | 246 | [Live For Loving You](https://open.spotify.com/track/4ssavZbXxHM2O2skLe77i5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Into The Light](https://open.spotify.com/album/53maQl8jkqxVZe4mu2rBAN) | 4:37 |
 | 247 | [Painfully Beautiful](https://open.spotify.com/track/6LzT0Yxtju2JilZ2ByIV0a) | [Il Volo](https://open.spotify.com/artist/0dE9ooTNz8iEKIKItRI66t) | [Il Volo](https://open.spotify.com/album/1PgN8duH3bxGnO4MILfOt2) | 3:45 |
@@ -288,8 +288,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 278 | [Breaking Out](https://open.spotify.com/track/0uLJIlGqtpEWhJ5xS7zSfO) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 3:44 |
 | 279 | [Silent Partners](https://open.spotify.com/track/1TVvf6Cvf3domSqZTgKQ3R) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 4:04 |
 | 280 | [One Night With You \(Everyday of Your Life\)](https://open.spotify.com/track/1h22k2vpmDHIw1ZT0vee4c) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 4:24 |
-| 281 | [Don't Need You To \(Tell Me I'm Pretty\)](https://open.spotify.com/track/2X4SVUKg4wvQFJjdt8vPZx) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Don't Need You To \(Tell Me I'm Pretty\)](https://open.spotify.com/album/29dax1uaLwWUkIfArGqGjP) | 3:35 |
-| 282 | [You Go First](https://open.spotify.com/track/0qVoSr1jArDkdB78QgKKTH) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:31 |
+| 281 | [You Go First](https://open.spotify.com/track/0qVoSr1jArDkdB78QgKKTH) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:31 |
+| 282 | [Don't Need You To \(Tell Me I'm Pretty\)](https://open.spotify.com/track/2X4SVUKg4wvQFJjdt8vPZx) | [Samantha Mumba](https://open.spotify.com/artist/7L12TqJ0fbwtFljTbwfwRI) | [Don't Need You To \(Tell Me I'm Pretty\)](https://open.spotify.com/album/29dax1uaLwWUkIfArGqGjP) | 3:35 |
 | 283 | [I'll Never Get Over You \- Getting Over Me](https://open.spotify.com/track/48Qec2XCaneiD1j4rGrtqz) | [Jasmine Trias](https://open.spotify.com/artist/0Av5wX4Zd3bam6RWExlocY) | [Jasmine Trias](https://open.spotify.com/album/5tJqBDYbTcZme9t4GfNV2W) | 3:41 |
 | 284 | [Devil's Got a New Disguise](https://open.spotify.com/track/47skqbxKffzIeyMUA6A6Q1) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [The Very Best Of Aerosmith](https://open.spotify.com/album/6RLOmcEDsCekH0fyKicITX) | 4:27 |
 | 285 | [Here's To The Nights](https://open.spotify.com/track/5Ct9fD9hFSJuyFEzUlRG6w) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Here’s To The Nights](https://open.spotify.com/album/35Y28ilNoufC6tjau8ZdSB) | 4:06 |
@@ -528,8 +528,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 518 | [When I'm Back On My Feet Again](https://open.spotify.com/track/6IgjowpZxvKBJuuYmrS3qN) | [David Garrick](https://open.spotify.com/artist/14XL0D5mFG7yvGTVYrVXv5) | [All the Hits Plus More \- The Best of David Garrick](https://open.spotify.com/album/7e2KdcHGo6fsSeScGm3KMm) | 3:52 |
 | 519 | [For You I Will](https://open.spotify.com/track/0sObrtFKGxWXLSe92kVBF9) | [The Pioneer Creek Gang](https://open.spotify.com/artist/6rFHM9LCS7Fg5CDqZcifWC) | [\#1 R&B Hits, Vol\. 2](https://open.spotify.com/album/2sTMsj8cHE1LpBO8t6B8Xy) | 4:52 |
 | 520 | [Last Kiss](https://open.spotify.com/track/4D0l7NpJuwNSkxbneDRsvT) | [Anita Cochran](https://open.spotify.com/artist/5LDnSV99gbDSsMX3Dcer2b) | [Anita](https://open.spotify.com/album/2FKzhcXcjWQoo94d7E6QwT) | 3:47 |
-| 521 | [Your Heart's in Good Hands](https://open.spotify.com/track/6EyudcpNdLdg9xBIq6JdxR) | [The Great Funk Crew](https://open.spotify.com/artist/4DuNlmmEf9PkFBAlZXPNby) | [The Greatest Funk Hits](https://open.spotify.com/album/1eBy9DgA33luL0oclePvm6) | 5:43 |
-| 522 | [State Your Case](https://open.spotify.com/track/2qfp2aMU8eJwC5tvU5d4ph) | [Martina Stavolo](https://open.spotify.com/artist/46XMakeFnFoqF1CkbzhZqF) | [Due Cose Importanti](https://open.spotify.com/album/0JpcAxEYrw4uFcgOifahKB) | 3:35 |
+| 521 | [State Your Case](https://open.spotify.com/track/2qfp2aMU8eJwC5tvU5d4ph) | [Martina Stavolo](https://open.spotify.com/artist/46XMakeFnFoqF1CkbzhZqF) | [Due Cose Importanti](https://open.spotify.com/album/0JpcAxEYrw4uFcgOifahKB) | 3:35 |
+| 522 | [Your Heart's in Good Hands](https://open.spotify.com/track/6EyudcpNdLdg9xBIq6JdxR) | [The Great Funk Crew](https://open.spotify.com/artist/4DuNlmmEf9PkFBAlZXPNby) | [The Greatest Funk Hits](https://open.spotify.com/album/1eBy9DgA33luL0oclePvm6) | 5:43 |
 | 523 | [Call Out To Me](https://open.spotify.com/track/2PpPkuyHSSyxFee8Q9XXMy) | [Kathy Troccoli](https://open.spotify.com/artist/73CmW7Heo8CxnYXydAs6qc) | [Love And Mercy](https://open.spotify.com/album/6en5tkbBKIb49yzjb97T9Y) | 3:51 |
 | 524 | [Earthbound](https://open.spotify.com/track/7ehWiVnECZg3Xt8CACblJ1) | [Moya](https://open.spotify.com/artist/1gzYTBlAMrESMPMueOZ31b) | [Earthbound](https://open.spotify.com/album/64eLQm7TkEZtowHYwDqIVG) | 4:23 |
 | 525 | [I Confess \- 12" Dance Mix](https://open.spotify.com/track/6yUbtzcCh0EMMD2cgqv090) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Hot On the Trail \(Expanded Edition\)](https://open.spotify.com/album/0loDN6STZdp57R5dSPyFhl) | 5:02 |
@@ -599,4 +599,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 589 | [I Don't Know About That](https://open.spotify.com/track/0QVu6tcahV7XR25KY4gowA) | [Elan Lea](https://open.spotify.com/artist/0yaj6mNaPV5xeNn0wOyZlQ) | [My only excuse](https://open.spotify.com/album/6kl4ymNl4SRsvzBiLZBrkq) | 3:19 |
 | 590 | [There's Always Love](https://open.spotify.com/track/1GEM0xFN8KCkZ8MWXeTGjk) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [Music Speaks Louder Than Words](https://open.spotify.com/album/749QW9xP9WJSrLAYHAJaco) | 4:30 |
 
-Snapshot ID: `AcWKkAAAAACcPeI0YlulnSEQrrmgMhNW`
+Snapshot ID: `AcWP9AAAAACOggc83gL+VQOwv+VmlhRN`

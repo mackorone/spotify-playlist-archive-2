@@ -1,12 +1,12 @@
 {
   "description": "This is Miriam Makeba. The essential tracks, all in one playlist.",
-  "num_followers": 14691,
+  "num_followers": 14692,
   "original_name": "This Is Miriam Makeba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akmegAAAAAA9u3FNIOqtWQEBHJyJdRuk",
+  "snapshot_id": "akrwAAAAAABzEx2XcUsVxx0lFDtRBVcS",
   "tracks": [
     {
       "added_at": null,
@@ -26,10 +26,6 @@
         {
           "name": "Nina Simone",
           "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        },
-        {
-          "name": "Common Hymnal",
-          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
         },
         {
           "name": "Tommy Sims",
@@ -319,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welela",
-        "url": "https://open.spotify.com/album/1180eoJLK2TTwI6D8DIiJX"
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn"
       },
       "artists": [
         {
@@ -328,9 +324,9 @@
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 289200,
-      "name": "Aluta Continua",
-      "url": "https://open.spotify.com/track/2iRyWE1WNGPC4tGybziX7b"
+      "duration_ms": 195866,
+      "name": "Mas Que Nada",
+      "url": "https://open.spotify.com/track/5Eyfond5T9ZcmXCydrAQii"
     },
     {
       "added_at": null,
@@ -351,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/4EGe5tRktJgNpbWjC6ijLn"
+        "name": "Welela",
+        "url": "https://open.spotify.com/album/1180eoJLK2TTwI6D8DIiJX"
       },
       "artists": [
         {
@@ -360,9 +356,9 @@
           "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
         }
       ],
-      "duration_ms": 195866,
-      "name": "Mas Que Nada",
-      "url": "https://open.spotify.com/track/5Eyfond5T9ZcmXCydrAQii"
+      "duration_ms": 289200,
+      "name": "Aluta Continua",
+      "url": "https://open.spotify.com/track/2iRyWE1WNGPC4tGybziX7b"
     },
     {
       "added_at": null,
@@ -519,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Welela",
+        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 256680,
+      "name": "Soweto Blues",
+      "url": "https://open.spotify.com/track/7qb0KJZ0iXtS8LMSXCH353"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Graceland Live - Remastered (Live: Rufaro Stadium, Harare, Zimbabwe 14 Feb '87)",
         "url": "https://open.spotify.com/album/66nQdyL3P4u1yfsDu5Y4AT"
       },
@@ -535,22 +547,6 @@
       "duration_ms": 240053,
       "name": "Under African Skies - Live: Rufaro Stadium, Harare, Zimbabwe 14 Feb '87",
       "url": "https://open.spotify.com/track/0dz7AgLTb30euAIqMQmSKh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Welela",
-        "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 256680,
-      "name": "Soweto Blues",
-      "url": "https://open.spotify.com/track/7qb0KJZ0iXtS8LMSXCH353"
     },
     {
       "added_at": null,
@@ -587,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sound of South Africa",
-        "url": "https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 153653,
-      "name": "The Lion Sleeps Tonight (Mbube)",
-      "url": "https://open.spotify.com/track/2lj10RweUv9XVv9jObBBMV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welela",
         "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
       },
@@ -615,6 +595,22 @@
       "duration_ms": 346800,
       "name": "African Sunset",
       "url": "https://open.spotify.com/track/5426Q6firRdP2b7VI2puMZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sound of South Africa",
+        "url": "https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 153653,
+      "name": "The Lion Sleeps Tonight (Mbube)",
+      "url": "https://open.spotify.com/track/2lj10RweUv9XVv9jObBBMV"
     },
     {
       "added_at": null,
@@ -651,22 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Keep Me In Mind",
-        "url": "https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 158826,
-      "name": "Kulala - Remastered",
-      "url": "https://open.spotify.com/track/4HbJAeWUHf4sWJxGCgZJ54"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Welela",
         "url": "https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4"
       },
@@ -679,6 +659,22 @@
       "duration_ms": 248640,
       "name": "Djiu de Galinha",
       "url": "https://open.spotify.com/track/6DiHndbg1CcNgZRXjiDUbj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Keep Me In Mind",
+        "url": "https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 158826,
+      "name": "Kulala - Remastered",
+      "url": "https://open.spotify.com/track/4HbJAeWUHf4sWJxGCgZJ54"
     },
     {
       "added_at": null,
@@ -747,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing Me a Song",
-        "url": "https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 268866,
-      "name": "Ndiarabi",
-      "url": "https://open.spotify.com/track/1rcWedOQYluzxH8xr8vQ0U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forbidden Games",
         "url": "https://open.spotify.com/album/1YN9IkF4IMSmkiCRtXe8l3"
       },
@@ -779,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le monde de Myriam Makeba",
-        "url": "https://open.spotify.com/album/2ein2C5tzYfR94IJCSHK5c"
-      },
-      "artists": [
-        {
-          "name": "Miriam Makeba",
-          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
-        }
-      ],
-      "duration_ms": 129933,
-      "name": "Umqokozo",
-      "url": "https://open.spotify.com/track/3ppcz1h6mWD7rKAlBdTRrD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Click Song",
         "url": "https://open.spotify.com/album/6PPLax0vsbSi76NKm8SCeB"
       },
@@ -807,6 +771,38 @@
       "duration_ms": 166000,
       "name": "Orlando",
       "url": "https://open.spotify.com/track/5NGvRQeTi8zSws4R90E1tL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sing Me a Song",
+        "url": "https://open.spotify.com/album/2lsdI6XXHl04AxfTA7200B"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 268866,
+      "name": "Ndiarabi",
+      "url": "https://open.spotify.com/track/1rcWedOQYluzxH8xr8vQ0U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le monde de Myriam Makeba",
+        "url": "https://open.spotify.com/album/2ein2C5tzYfR94IJCSHK5c"
+      },
+      "artists": [
+        {
+          "name": "Miriam Makeba",
+          "url": "https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W"
+        }
+      ],
+      "duration_ms": 129933,
+      "name": "Umqokozo",
+      "url": "https://open.spotify.com/track/3ppcz1h6mWD7rKAlBdTRrD"
     },
     {
       "added_at": null,

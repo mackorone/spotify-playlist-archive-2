@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,501 songs - 10 day 1 hr 12 min
+4,507 songs - 10 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -779,6 +779,7 @@
 | [CREPUSCOLO](https://open.spotify.com/track/3zzTcwfA3KCvTP2IFxdXCo) | [ian3celia](https://open.spotify.com/artist/5M4YmbMfqeJkruSUmY0E9X) | [UNA DANZA SENZA FINE](https://open.spotify.com/album/240vYhl7VOgdme2OPuIRmq) | 2:30 | 2026-02-01 |  |
 | [Crimson Fever \#Music \#NewMusic \#Viral](https://open.spotify.com/track/0gQfE91m3vLMGRAwhMvKvO) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Absinthe Nights \#Music \#NewMusic \#Viral](https://open.spotify.com/album/4OEm70Vv5QIeDRUKSrKx1m) | 3:19 | 2025-09-15 |  |
 | [Crimson Pixel Stains](https://open.spotify.com/track/6drCIxVIcrjPPYVDirSdXl) | [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Alex.13](https://open.spotify.com/artist/74kwMd6oJzppv5s1b6RhVV) | [Crimson Pixel Stains](https://open.spotify.com/album/6dXzo33ql5hmoz0mpIfQix) | 2:16 | 2025-09-23 |  |
+| [Crimson Sky](https://open.spotify.com/track/6sKWr1J6Nvm8D8VzkGRNFu) | [Corners of Sanctuary](https://open.spotify.com/artist/2awE3SRj1mzablPjOH4TE1) | [Crimson Sky](https://open.spotify.com/album/18f7pVLtBCCWAlLQlU7tu2) | 4:34 | 2026-07-07 |  |
 | [Cringe](https://open.spotify.com/track/6S37jOYaYbQhwiDwRqxR5r) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Le 20 Parole in Slang Più Virali del 2025 \(Se Non Le Usi, Sei Fuori!\)](https://open.spotify.com/album/69RjNyMSGbTMcHDf8psNgs) | 2:05 | 2025-09-17 |  |
 | [Crisalide](https://open.spotify.com/track/7haXcLi7dwzfql2RzUvvsd) | [Zephiro](https://open.spotify.com/artist/7euzpSgCdCp5RdQQ1hvsyJ) | [Baikonur](https://open.spotify.com/album/00L7KNS2LWUiSMTM54Irhr) | 3:32 | 2025-06-06 |  |
 | [cristales](https://open.spotify.com/track/2DyveHrmScZ8yKctmsuHtK) | [shacrà](https://open.spotify.com/artist/02SdYXLpU3vPyGmqQ0F2Lx) | [shacrà](https://open.spotify.com/album/3QoEHAgT7Ph50CgCgl46G5) | 3:47 | 2026-02-01 |  |
@@ -931,6 +932,7 @@
 | [Dawn of Fire](https://open.spotify.com/track/70u4eYyVh7kADzMIjSVvKC) | [Decadent Heroes](https://open.spotify.com/artist/5qvi0Vbn3IMRqrt1esaIbO) | [Dawn of Fire](https://open.spotify.com/album/6SP5Zv4zrTR60UNpnxxenG) | 3:35 | 2025-05-27 |  |
 | [Day dreams](https://open.spotify.com/track/5tbMTvVoo2vGMvbBN9FTDW) | [Deadarchives](https://open.spotify.com/artist/74kszt2wmigyELkurcdEdi) | [Paranoia](https://open.spotify.com/album/4DvnfJcQj24VSJ2PCMsFHR) | 1:13 | 2025-10-14 |  |
 | [De besos](https://open.spotify.com/track/6mHrsdGEohR5yDEZ7EXKZ4) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Mi tú y yo](https://open.spotify.com/album/7kpb1aHHgP4NterHXumzvo) | 2:47 | 2026-04-12 |  |
+| [De Na Con Na](https://open.spotify.com/track/4pH4nVULI9qoWPfIjsFEMz) | [El Ki RD](https://open.spotify.com/artist/3suIHAGrQzlelpZn10Au0p) | [De Na Con Na](https://open.spotify.com/album/3fahXnEQP9jgFV0WjXJXwf) | 2:00 | 2026-07-08 |  |
 | [De sol a sol](https://open.spotify.com/track/6zthGcyvorLaeLgfIhxVvM) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:47 | 2026-03-15 |  |
 | [dead border](https://open.spotify.com/track/0kZq42TxsGlI603nqkUwMI) | [NicoWGH](https://open.spotify.com/artist/0vk1XCo2hhWJP7I51wR04c) | [dead border](https://open.spotify.com/album/55UiKO9HlYJfPwZXkFQT7p) | 1:46 | 2025-06-02 |  |
 | [Dead End Road](https://open.spotify.com/track/43hAOE3V7rJ6U45EH1mCKC) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [The Sound of Static](https://open.spotify.com/album/1AhJR1phukAEoqH4PwDwKR) | 2:26 | 2026-04-14 |  |
@@ -1572,6 +1574,7 @@
 | [FUN](https://open.spotify.com/track/3UTvqdZjA61LjguWV7ZiAB) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 4:09 | 2025-08-28 |  |
 | [Funky Rhythm](https://open.spotify.com/track/7bGxkOfpKKuYpNBhHrx7sG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Funky Soul Music](https://open.spotify.com/album/3KehnrvqZF13rykMwdngd5) | 1:53 | 2025-05-31 |  |
 | [Funky Rhythm \(another\)](https://open.spotify.com/track/7lcdZxvnhDFmU17djA6fYl) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Pop Funky Soul Music](https://open.spotify.com/album/3KehnrvqZF13rykMwdngd5) | 1:59 | 2025-09-18 |  |
+| [Funky Shoes](https://open.spotify.com/track/31nFDAKrVZgJAOvAOFOY49) | [SABOGA](https://open.spotify.com/artist/7MnlZXTtWk60QisRWY7lOA) | [Funky Shoes](https://open.spotify.com/album/6B923n9SzNzEDzIIkD0OYa) | 3:09 | 2026-07-07 |  |
 | [Fuoco e Fiamme](https://open.spotify.com/track/6PVCwOM47a3eKuoFebrnV1) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 3:58 | 2025-09-18 |  |
 | [Fuoco e Fiamme \(another\)](https://open.spotify.com/track/6Ij0r9v6BEUdujjx9DYUg2) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 3:51 | 2025-09-18 |  |
 | [Fuoco nel Silenzio](https://open.spotify.com/track/0UtP5MajfitvKFRqPq5upI) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Postatomic in italian](https://open.spotify.com/album/5d803oOALdw30M7xACCg8r) | 3:28 | 2025-09-17 |  |
@@ -1947,6 +1950,7 @@
 | [In punta di mani \(domani\)](https://open.spotify.com/track/721H7OLyVCXjcHov1XsEeY) | [Mannerdogs](https://open.spotify.com/artist/4YuMVFtgou6wWvx2dVEVj3) | [In punta di mani \(domani\)](https://open.spotify.com/album/1eC7il0qCMBFlmDuUujZdm) | 2:52 | 2025-03-16 |  |
 | [In the Air](https://open.spotify.com/track/0o51SFZkj5CAdCNg4qfFs3) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 4:03 | 2025-09-17 |  |
 | [In the Air \(another\)](https://open.spotify.com/track/1Tsoup85qct2BxEM8cNg5X) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Music for peace](https://open.spotify.com/album/7iiVG6H66iXwiG3rT0qZLD) | 4:44 | 2025-09-17 |  |
+| [In the grain](https://open.spotify.com/track/7GXy6iC4hzJuLa9G7HGUF3) | [The Sunday Static](https://open.spotify.com/artist/36ru1AAdGSsjN5Uzr3CrHd) | [Under the hiss](https://open.spotify.com/album/3ei3vWOjhGdACXB5GBFfh9) | 4:14 | 2026-07-07 |  |
 | [In the great stories](https://open.spotify.com/track/3LDTyBYEExmyYYLBcSjYaa) | [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb) | [PROVAI SUMMER](https://open.spotify.com/album/1CeAeb6aLQb4lhvHMHUQIT) | 2:32 | 2025-12-10 |  |
 | [In the rain](https://open.spotify.com/track/6wEdQ3tq7D7VbAX8qjc1yw) | [Flint Gun](https://open.spotify.com/artist/0nFSX6ZMek8s4Adewf1B3F) | [In the rain](https://open.spotify.com/album/0kMllBMTHHKlLa6AvswTwm) | 4:10 | 2025-10-15 |  |
 | [In un mondo dopo il mondo](https://open.spotify.com/track/0T3v3wLYR85rDTWWI8GhOG) | [Massimo Volume](https://open.spotify.com/artist/24GE8PrrmxG6XocV1UQPmP) | [Cattive abitudini](https://open.spotify.com/album/24wUrxEOINZfcfJF2eJ6O2) | 5:09 | 2025-11-12 |  |
@@ -2312,6 +2316,7 @@
 | [Lost In Thinking](https://open.spotify.com/track/4naEuDomT3yUnz4MXMLu9a) | [Angus Court](https://open.spotify.com/artist/1umNSu2Mp8j1yiBKzLp8Ia) | [No Time To Be Sad](https://open.spotify.com/album/0jCv1PmqT8yUk8g60ezvm3) | 3:49 | 2025-06-05 |  |
 | [Lost in Time](https://open.spotify.com/track/7B5huIcLBqh4T5neqkanXN) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Lost in Time](https://open.spotify.com/album/3hzgNZ6zaLgx7YTL6Pxzjv) | 3:52 | 2026-02-20 |  |
 | [Lost in Time \(chill mix\)](https://open.spotify.com/track/7tBGS2XjzE4cOxJCxkCwvD) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Lost in Time \(chill mix\)](https://open.spotify.com/album/4qTsPXuKGezL0Jlk9nqssJ) | 4:10 | 2026-02-20 |  |
+| [Lost in Time \(heavy mix\)](https://open.spotify.com/track/563JfB4alRkkJ3TpW3qYAE) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Lost in Time \(heavy mix\)](https://open.spotify.com/album/00gUbwWBvcEwXxISWNoMgR) | 3:44 | 2026-07-07 |  |
 | [Lost in Wonderland](https://open.spotify.com/track/3batbGcDKx0Tai9G8vSSmy) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Alternative Pop Music](https://open.spotify.com/album/0qsHZKvd2mXyGOCa4lmzXj) | 3:42 | 2025-05-27 |  |
 | [Lost in Wonderland \(another\)](https://open.spotify.com/track/14NpDtKkGpWFPLUtYWNPkN) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Alternative Pop Music](https://open.spotify.com/album/0qsHZKvd2mXyGOCa4lmzXj) | 3:04 | 2025-09-18 |  |
 | [Lost Soul](https://open.spotify.com/track/0KBblBLmSzdWD8k3bZqLoR) | [Richie Cross](https://open.spotify.com/artist/3NA8I8e0mHJSmWKQHBBEpT) | [Lost Soul](https://open.spotify.com/album/46yf87wUx4k4Ash6BBwEaY) | 3:34 | 2026-05-26 |  |
@@ -3313,6 +3318,7 @@
 | [SEE](https://open.spotify.com/track/2beynslblMQgVgoyOK2W6i) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 3:09 | 2025-08-28 |  |
 | [See You Again](https://open.spotify.com/track/2fs0XwlxWXSNGBUfnJ7FJw) | [Jamie Backlight](https://open.spotify.com/artist/3ZNe3QF82sBH9bvMgQl7KO) | [See You Again](https://open.spotify.com/album/1Qmr9ABegxL08234kuJlnu) | 2:42 | 2025-09-06 |  |
 | [Segreti Di Miele](https://open.spotify.com/track/1wrXEn0KXHsxtj6QwOomni) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Segreti Di Miele](https://open.spotify.com/album/59BsBjGnMV5UtOdRQdBcZ8) | 2:04 | 2025-06-08 |  |
+| [Sei](https://open.spotify.com/track/5v0WRPhkz1LnrAQc07JLGB) | [Giorgio Isgro'](https://open.spotify.com/artist/0mkcb7x8JISZOGHV8LdKcW), [Marcello Pelo](https://open.spotify.com/artist/7Ex3l7mokFNNf69K0dJba7) | [Sei](https://open.spotify.com/album/7DwyP2LG07sgcVcKQ9ECEF) | 4:38 | 2026-07-07 |  |
 | [Sei fatta così](https://open.spotify.com/track/6BuHRQtUqvUtt6Uvv8441L) | [ChiaroScuro](https://open.spotify.com/artist/5eseuLgyBu4fzbBag8nSOq) | [Sei fatta così](https://open.spotify.com/album/3U61k8khzCwGA6I9EUo0KR) | 3:26 | 2025-06-24 |  |
 | [sei ore](https://open.spotify.com/track/6jRosOK5OnF3Cm75Ti1f2Y) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [sei ore](https://open.spotify.com/album/2ZMaIMhaaAc4N7WDn4Bj4c) | 3:20 | 2025-06-01 |  |
 | [Seize the Moment](https://open.spotify.com/track/5LjC6aYEKpxPFuMvDSowNs) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Seize the Moment](https://open.spotify.com/album/1q0RYlvUHAc5P4rUdXd2rO) | 4:20 | 2025-09-26 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best of every corner of modern punk rock\. Cover: Mannequin Pussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,801 likes - 126 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,798 likes - 126 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 125 | [Waiting To Know](https://open.spotify.com/track/3COerH8qeZERHv69TypVPT) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8), [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q) | [Waiting To Know](https://open.spotify.com/album/09UUsrLflP1LU7GxcI1zr7) | 2:56 |
 | 126 | [Fun Destroyer](https://open.spotify.com/track/78UOwac27Z0gICBrk5J3tX) | [Piebald](https://open.spotify.com/artist/4rOGGTXaYygtFIHsPgLKJv) | [Tales For The Rages](https://open.spotify.com/album/2CENFr9gxUfFTmQ6Juoltj) | 3:05 |
 
-Snapshot ID: `AAAAAGUPLMzQlr47534JkR+RC8ROwuFm`
+Snapshot ID: `AAAAAH0EIKNLwbJS7MUxz7eow2Y51gvB`

@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,270 songs - 3 day 1 hr 49 min
+1,271 songs - 3 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Birks' Works \- Live](https://open.spotify.com/track/1lqaCnp4Saohx86bQqgv8V) | [Manosanta Hard Soul](https://open.spotify.com/artist/6B2s5HVELOBD4IIzqjbuGb), [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Giancarlo Romani](https://open.spotify.com/artist/59gxTwI7Wu2hNmNyj5l4Su) | [Birks' Works \(Live\)](https://open.spotify.com/album/2w9JYj9UTZVUFuYDFeRNDl) | 4:51 | 2023-05-25 | 2025-11-29 |
 | [Biting Nails](https://open.spotify.com/track/4xzrSXj0pAhRoqRFQNLFHT) | [5EX](https://open.spotify.com/artist/3V4tS2RGFGFRyAPoXk11Q2) | [Biting Nails](https://open.spotify.com/album/3SheatGGao2NNE7l5L4Jvi) | 1:56 | 2025-12-09 | 2026-01-05 |
 | [Black Widow](https://open.spotify.com/track/5bRrgKXYXx0XL6wbNnbBiJ) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Haunted House](https://open.spotify.com/album/49Ex5mcCiBIiyFNmREzgk2) | 3:58 | 2025-12-22 | 2026-01-24 |
+| [Blanket of Stars](https://open.spotify.com/track/6HBsIshyys6vD7vf0Pm1Ut) | [Quilted Snowflake](https://open.spotify.com/artist/3iWXOvz68AzL0gUCpUvTVA) | [Lemonade](https://open.spotify.com/album/7jmbQmCv3wMaqwLNkjQXw4) | 2:55 | 2026-07-07 |  |
 | [Blind Spots](https://open.spotify.com/track/36bHS8wNHBoj3EcBFNQqHr) | [Burton Badman](https://open.spotify.com/artist/1kSiVL0AysDQHiEFuhk3dm) | [Crazy Chemistry](https://open.spotify.com/album/0J23Fv2L7xHyQ8TyKJamHc) | 4:46 | 2026-04-27 | 2026-06-05 |
 | [Blood Money War](https://open.spotify.com/track/3BkRDTvhFpgIjSB8pacFLO) | [SinCrawler](https://open.spotify.com/artist/2aGUDAsWVwhbc8bnqNx5Ho), [Elizabeth](https://open.spotify.com/artist/0tgidGFMzSBoxZI87spcTW) | [Got the Blues](https://open.spotify.com/album/7HAVjNGR82GX3q9ytiMAUJ) | 5:55 | 2026-06-09 |  |
 | [Blue Alice](https://open.spotify.com/track/6J5inB2auQ7YZwzMSGZllI) | [South August](https://open.spotify.com/artist/0xIi0tD6QNXv9Oq0lEw2Bl) | [Itching Through the Permafrost](https://open.spotify.com/album/21aFPA1VXrE7OtKVCBNPyY) | 2:09 | 2026-03-09 | 2026-04-12 |

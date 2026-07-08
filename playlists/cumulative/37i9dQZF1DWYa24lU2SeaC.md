@@ -4,7 +4,7 @@
 
 > Tous vos titres Disney préférés incluant la musique de Toy Story 5, Zootopie 2, Lilo & Stitch, Mufasa : Le Roi lion, Vaiana 2, Encanto : la fantastique famille Madrigal, La Reine des neiges et bien d'autres encore!
 
-141 songs - 7 hr 22 min
+142 songs - 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Prince Ali](https://open.spotify.com/track/6WkYKtfEuQEYphUUzigFBa) | [Richard Darbois](https://open.spotify.com/artist/2yKV4NC2QGvQEPdSAkVfkY) | [Aladdin \(Bande Originale Française du Film\)](https://open.spotify.com/album/0aXJTAUDB8LCa6xx6yjerB) | 2:51 | 2023-09-15 |  |
 | [Proud Corazón](https://open.spotify.com/track/4J7SCXbz18duODAQYjtzI2) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 2:03 | 2023-09-15 | 2024-05-03 |
 | [Quand on prie la bonne étoile \- De "Pinocchio"/Bande Originale Française du Film](https://open.spotify.com/track/68yEkB07iP5ZYlo7CuT0ae) | [Christiane Legrand](https://open.spotify.com/artist/6KF97ESqDKKlYQAMSdpyTI), [Jean Lussac](https://open.spotify.com/artist/1Z0cFh0An4MWOgHV7lBmar) | [Pinocchio](https://open.spotify.com/album/2lEDivDfl9NUtYniJfMIK9) | 3:15 | 2023-09-15 |  |
+| [Quand tu voyages](https://open.spotify.com/track/27Y7MDztlWjJGeM3KmKr2A) | [Cerise Calixte](https://open.spotify.com/artist/67cye4zHhIJs2LVGpsbmTP), [Hannah Vaubien](https://open.spotify.com/artist/1Amk4rewdExHDMnRbteTRo), [David Krüger](https://open.spotify.com/artist/1gZdnhCsXFlnoU8iPZ9PCv) | [Vaiana \- La Légende du Bout du Monde \(Bande Originale Française du Film\)](https://open.spotify.com/album/5ym847hpmMSzqLrdVsAWyN) | 4:17 | 2026-07-07 |  |
 | [Que sais\-je faire d'autre?](https://open.spotify.com/track/2KBQe6bDkixnyLu3MA0z2d) | [Kaycie Chase](https://open.spotify.com/artist/1kwgiO6NJzSzbCCjaRnfOp), [Camille Timmerman](https://open.spotify.com/artist/47525Du6kUmhbnZXGGkM9V) | [Encanto: La fantastique famille Madrigal \(Bande Originale Française du Film\)](https://open.spotify.com/album/5ZwcQ8o0pOW31M28QAJai8) | 2:59 | 2024-05-02 |  |
 | [Reception Au Palais/Bonjour L’amour](https://open.spotify.com/track/0M05jNzoUmRRmD5nw7zLZI) | [The Cast Of 'Cinderella'](https://open.spotify.com/artist/19AHo0XDpK3Wxubf7N7TjX) | [Cendrillon \(Bande Originale Française du Film\)](https://open.spotify.com/album/2jJEY0LjD4Pj9qp25ncN3d) | 5:44 | 2023-09-15 | 2024-05-03 |
 | [Red \- From "Descendants: The Rise of Red"](https://open.spotify.com/track/1AP7xueWwO5AakWFYzttpV) | [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX), [Alex Boniello](https://open.spotify.com/artist/4bttaKq2XoaBlFlkKkrS40), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Red \(From "Descendants: The Rise of Red"\)](https://open.spotify.com/album/6M4QzYGKgF2nkZw9VztN0s) | 3:08 | 2024-09-20 |  |

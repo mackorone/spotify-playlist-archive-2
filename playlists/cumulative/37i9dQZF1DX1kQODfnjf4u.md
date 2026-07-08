@@ -4,7 +4,7 @@
 
 > 50 nejžhavějších hitů v České republice\. Cover: Ewa Farna
 
-243 songs - 11 hr 51 min
+245 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,8 @@
 | [NEPO](https://open.spotify.com/track/2nRBoOgeS2P8dO5ZUX1CyV) | [Mat213](https://open.spotify.com/artist/3VIkv3HNIvPNwdQIatB5Rx), [Franta Prachař](https://open.spotify.com/artist/0nKDQIY2quMNZLKHGHXUGU), [Anna Mercedes](https://open.spotify.com/artist/5pvi5tAogKLPvk9yBQxWTt) | [NEPO](https://open.spotify.com/album/1HDyLGZFh5kyvZHV5JtIez) | 2:51 | 2026-02-03 | 2026-04-28 |
 | [nezavoláš](https://open.spotify.com/track/4hYQXdTNgznOIOcD5qeH3N) | [Renne Dang](https://open.spotify.com/artist/1I74GELlem5XmPTKYIdb3i) | [nezavoláš](https://open.spotify.com/album/3HVv46cbmtWjF6C58xOG6j) | 3:04 | 2025-05-12 | 2025-07-01 |
 | [nezvládám](https://open.spotify.com/track/6bOKGhxluz86AUIPK0GPRR) | [GUFRAU](https://open.spotify.com/artist/0WpBMqO4ai8W3rh3ffW14Q), [Marie April](https://open.spotify.com/artist/1x5UWbWiwd3P8PYz00coCo) | [9ráno/nezvládám](https://open.spotify.com/album/5ax1nLlHjnOvK9DF71jsob) | 2:41 | 2026-04-20 | 2026-05-20 |
-| [Neříkej, co má se stát](https://open.spotify.com/track/2taQUA73P8EHhWsuv4QyJw) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Neříkej, co má se stát](https://open.spotify.com/album/0cjkYTix2P7fb44S9E6Lnl) | 2:52 | 2026-06-15 |  |
+| [Neříkej, co má se stát](https://open.spotify.com/track/2taQUA73P8EHhWsuv4QyJw) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [Neříkej, co má se stát](https://open.spotify.com/album/0cjkYTix2P7fb44S9E6Lnl) | 2:52 | 2026-06-15 | 2026-07-08 |
+| [Neříkej, co má se stát](https://open.spotify.com/track/5ZVg4ScDZijCiVwDjF8MmI) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [ADHD POP](https://open.spotify.com/album/3P4vUalpTqo6xixUQ5eZTx) | 2:52 | 2026-07-07 |  |
 | [Nike](https://open.spotify.com/track/47Iik7IcgjxsQ7QWciqtp5) | [G1nter](https://open.spotify.com/artist/34VKnmbZyMrLr4Mwd13kOa) | [ROOKIE OF THE YEAR](https://open.spotify.com/album/3OI0wOoWksmZ5PJDsN5Q5S) | 1:56 | 2025-09-01 | 2025-10-07 |
 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-09-01 |  |
 | [No Sleep Gang](https://open.spotify.com/track/4mVwqx2xCrkDP2vYgh38jG) | [Yzomandias](https://open.spotify.com/artist/721o1Z0J6jQupyzLt9RnEk), [P T K](https://open.spotify.com/artist/5iYtjtFv6SvHX95ny4fVEz) | [No Sleep Gang / Get Low](https://open.spotify.com/album/0X6MieF1nCWmAcU33hFHqz) | 2:44 | 2024-07-15 | 2025-10-14 |
@@ -167,7 +168,8 @@
 | [Ostrava](https://open.spotify.com/track/4pkj6Ht0w2h62UsYJGoVEV) | [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko) | [Ostrava](https://open.spotify.com/album/1jcUAEW387tUoVe2ZzmME5) | 3:35 | 2024-09-23 | 2025-01-14 |
 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-07-01 | 2024-11-12 |
 | [PERFECT TRIP](https://open.spotify.com/track/6lcDV507PWKokm2WGStAX8) | [NobodyListen](https://open.spotify.com/artist/1q8KEO90fysZqvIlqYcp5C), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [PERFECT TRIP](https://open.spotify.com/album/3tJDsazasWfmmKL6yamI3z) | 2:07 | 2026-03-16 |  |
-| [PERPETUUM MOBILE](https://open.spotify.com/track/7wxWwq6Pah4Y6mqsvEWTCa) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [PERPETUUM MOBILE](https://open.spotify.com/album/2GYh5gz3RyRGgnoClFYJVm) | 3:27 | 2026-05-19 |  |
+| [PERPETUUM MOBILE](https://open.spotify.com/track/7wxWwq6Pah4Y6mqsvEWTCa) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [PERPETUUM MOBILE](https://open.spotify.com/album/2GYh5gz3RyRGgnoClFYJVm) | 3:27 | 2026-05-19 | 2026-07-08 |
+| [PERPETUUM MOBILE](https://open.spotify.com/track/54Ds61aYzZyAwKwBSS49vJ) | [Ewa Farna](https://open.spotify.com/artist/6xajh3A5qhxsNffhhBNntC) | [ADHD POP](https://open.spotify.com/album/3P4vUalpTqo6xixUQ5eZTx) | 3:27 | 2026-07-07 |  |
 | [Phantom](https://open.spotify.com/track/57Z6TJCTMACXxdrcwZ3Zvf) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy), [Rico Ace](https://open.spotify.com/artist/4sY0lTSkfDMMt27cVvFT6o) | [Rebel](https://open.spotify.com/album/1TP95xOGiWqdVOu4hGbuug) | 1:49 | 2026-01-05 | 2026-04-10 |
 | [Pistácie \(feat\. Sofian Medjmedj\)](https://open.spotify.com/track/5LG6E6hwx6u84X7hMVkpKp) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Sofian Medjmedj](https://open.spotify.com/artist/2ZHJEckf6HJXMSuD2icSSW) | [Bieber Fever Tour Life](https://open.spotify.com/album/5MlxIyYE1oUZg9bp1vXI52) | 2:54 | 2024-12-16 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-01 | 2024-08-13 |

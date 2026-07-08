@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Asim Azhar
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,748 likes - 89 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,763 likes - 89 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 70 | [Qataghani \(feat\. Blaise Merlin\)](https://open.spotify.com/track/54AD3vjfr1hmmOzpP0B9LP) | [Humnava](https://open.spotify.com/artist/0XvS3gFzcxSQSSXfemeLNI), [4 Rubabs](https://open.spotify.com/artist/0hYtHrQp6lRVc552ldI2Bu), [Gray Contrast](https://open.spotify.com/artist/0B4S4TDGMI80EkBnPJYN3M), [Blaise Merlin](https://open.spotify.com/artist/1QXWD6eigu3Sy44qx002z7) | [Qataghani \(feat\. Blaise Merlin\)](https://open.spotify.com/album/6KWXZglxi8wgLqy0UuBZWK) | 6:22 |
 | 71 | [Fayda](https://open.spotify.com/track/28CgqEgrrzneWi1DjDZNmp) | [Muheet Khan](https://open.spotify.com/artist/7JJ5y1QW0tDTlc3ZjKbcE9), [Illuminhadi](https://open.spotify.com/artist/5XAv2ZKaRm5PHhWAMFFkSf), [NVY](https://open.spotify.com/artist/1NcRcMDkVhDDwtHF53VfSa) | [Fayda](https://open.spotify.com/album/7aJXXrwEZBOAOkpzOkjspL) | 3:30 |
 | 72 | [Kehdo Na](https://open.spotify.com/track/1Wj5vKeO5q8M9YEBsWA1Ft) | [Mudabbir Azeez Jamall](https://open.spotify.com/artist/7HX5PwfHdsoLD7dDdY0f7l), [The Hashtags](https://open.spotify.com/artist/2I98zL3Q63jrawDI778pmV) | [Kehdo Na](https://open.spotify.com/album/2WNCUv362cuWXZXAz3ANKz) | 3:14 |
-| 73 | [Alvida](https://open.spotify.com/track/25ftdkpJMoyZXiJcueBzRP) | [Rafae](https://open.spotify.com/artist/1zNTZaTb1hfkZCynCw6kUq) | [Alvida](https://open.spotify.com/album/05nEffZiDSlbeQyRUoNzbO) | 3:52 |
+| 73 | [Alvida](https://open.spotify.com/track/25ftdkpJMoyZXiJcueBzRP) | [Rafae Bokhari](https://open.spotify.com/artist/48ZE3YLMktVHKnX78oNUUm) | [Alvida](https://open.spotify.com/album/05nEffZiDSlbeQyRUoNzbO) | 3:52 |
 | 74 | [Saiyan](https://open.spotify.com/track/3bXPwjD7IlbAV3NOg7ffy6) | [SRMD](https://open.spotify.com/artist/4RigGF98zw6prPkYsy68JC), [Bouncy](https://open.spotify.com/artist/6YLcrxPUm5BavW00kv6WiQ) | [Saiyan](https://open.spotify.com/album/1gUNenZuQPqTkBqOVRp3hy) | 2:50 |
 | 75 | [Uraan](https://open.spotify.com/track/0IblAZHmyWiE86j452xiJf) | [Daniyal Abid](https://open.spotify.com/artist/05YR7CqRwC120pSVQxkwtc) | [Uraan](https://open.spotify.com/album/6aTkm2tiSEScayy84b0aqX) | 2:59 |
 | 76 | [Dard](https://open.spotify.com/track/6DIHOndUgDtWvFZqWV7ZLC) | [Hamza Ali](https://open.spotify.com/artist/5kHbX0Ne0niNDN6QItgCKL) | [Dard](https://open.spotify.com/album/6gDhkckAL3okHrKVf4Owfk) | 3:38 |

@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 7560,
+  "num_followers": 7564,
   "original_name": "Projekt Melody Official Playlist",
   "owner": {
     "name": "Melody",
     "url": "https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih"
   },
-  "snapshot_id": "AAABfa3tb8j7xU+xfDfTlN0pd8hKdIiy",
+  "snapshot_id": "AAABfqXZpp5yWlZmEdEQITFMAfQWHqxY",
   "tracks": [
     {
       "added_at": "2020-03-11 15:33:22",
@@ -10115,6 +10115,26 @@
       "duration_ms": 255625,
       "name": "Perpetual",
       "url": "https://open.spotify.com/track/1EmbdGpODC0A8TB18vtJRJ"
+    },
+    {
+      "added_at": "2026-07-08 02:21:09",
+      "album": {
+        "name": "XxGlitchBbyxX",
+        "url": "https://open.spotify.com/album/4kcGBGpXgjf9OM5obKP1jk"
+      },
+      "artists": [
+        {
+          "name": "Cynthoni",
+          "url": "https://open.spotify.com/artist/79W7uIUU51RwgRFeYeRrP6"
+        },
+        {
+          "name": "Projekt Melody",
+          "url": "https://open.spotify.com/artist/68FnSiPe0TzZLtTFfDKwFo"
+        }
+      ],
+      "duration_ms": 477500,
+      "name": "XxGlitchBbyxX",
+      "url": "https://open.spotify.com/track/0zMaNnshjrPKQ1qLSjd6MM"
     }
   ],
   "unique_name": "Projekt Melody Official Playlist",

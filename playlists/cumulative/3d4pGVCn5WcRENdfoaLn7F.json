@@ -6937,6 +6937,24 @@
     },
     {
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/0PKRfRbbVawBDRcjGKtJeH"
+      },
+      "artists": [
+        {
+          "name": "TS Chris",
+          "url": "https://open.spotify.com/artist/57Ui8J7CkhuIdZELypG3Vv"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215098,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/7LLHGsm4xICcdq84TIYvF4"
+    },
+    {
+      "album": {
         "name": "World is Equal",
         "url": "https://open.spotify.com/album/2YDjHFunY5aJUsXrZijyUS"
       },

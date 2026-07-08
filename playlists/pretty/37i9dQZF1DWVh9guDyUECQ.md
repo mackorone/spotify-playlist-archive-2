@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. Foto: Don Ryvcko
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,823 likes - 74 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,833 likes - 74 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 | 13 | [SEAMOS UN CUERPO](https://open.spotify.com/track/7mwQ5xZ8sfV76IhqC1CMYj) | [Cossio](https://open.spotify.com/artist/0WPWsIPiiFX36FbnTaxpaJ) | [SEAMOS UN CUERPO](https://open.spotify.com/album/3JMyL7KihNo6l4RoI2lO16) | 4:41 |
 | 14 | [Tan Bueno](https://open.spotify.com/track/7AUW3JjrrXiJIwxpG5FJ3h) | [Pauneto](https://open.spotify.com/artist/1cs6ODU6Bu1cxX7nqsBC7W) | [Tan Bueno](https://open.spotify.com/album/3R440cLpzKtieDNzYwCQ7U) | 2:22 |
 | 15 | [Glory Down](https://open.spotify.com/track/2pSdPuESQIDrCOtAmTvqeY) | [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Glory Down](https://open.spotify.com/album/6o5H1yIsjIUS9mqjw3a09R) | 2:59 |
-| 16 | [Pal Case](https://open.spotify.com/track/3CL5Wq4IjIJLFwzUr1tpPU) | [Mickey Angelo](https://open.spotify.com/artist/7HQJWKssS3k12XZZMtC1gR), [Nicky The Prodigy](https://open.spotify.com/artist/3bsq1fospowCvrJOChPAeb), [Borrero](https://open.spotify.com/artist/4v1ySMpX5kA1V5HlVsJwDU) | [Inquebrantable](https://open.spotify.com/album/6G5vJtGHfKtogzzajKHU7D) | 4:29 |
+| 16 | [Pal Case](https://open.spotify.com/track/3CL5Wq4IjIJLFwzUr1tpPU) | [Mickey Angelo](https://open.spotify.com/artist/7HQJWKssS3k12XZZMtC1gR), [Nick The Prodigy](https://open.spotify.com/artist/4sjBX1hPjHxSz5BBGizOby), [Borrero](https://open.spotify.com/artist/4v1ySMpX5kA1V5HlVsJwDU) | [Inquebrantable](https://open.spotify.com/album/6G5vJtGHfKtogzzajKHU7D) | 4:29 |
 | 17 | [Gracias a Dios](https://open.spotify.com/track/7efDTxP88JKZ7jEqY1zf5H) | [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH) | [Gracias a Dios](https://open.spotify.com/album/7HFlMW0PJefJH5cRu54l9M) | 2:45 |
 | 18 | [Por Él](https://open.spotify.com/track/4byLjSJHwOMjFr6Lv0ZhxA) | [Jairon High](https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M) | [Por Él](https://open.spotify.com/album/3DsRMA1y064FYY6NiiPZx5) | 2:40 |
 | 19 | [Renací](https://open.spotify.com/track/31QRdZo960ddyEHGEzpFhY) | [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Daffy El Audio](https://open.spotify.com/artist/7cb0BxBtbvOtgWH3tS6MRJ) | [Grand Slam](https://open.spotify.com/album/0uSSuVeTOffqVsNsd7WWOJ) | 3:10 |

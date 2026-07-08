@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Madonna, Rim'K x Leto et Céline Dion au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,560 likes - 93 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,526 likes - 93 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 85 | [THE CINEMA](https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [PAREIDOLIA](https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5) | 3:22 |
 | 86 | [Collade](https://open.spotify.com/track/5o5GNUo2ykv2373If3TH4M) | [Josas](https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU) | [Collade](https://open.spotify.com/album/6g5etwXan7qQE1pPo63cpe) | 2:22 |
 | 87 | [Saint Patrick](https://open.spotify.com/track/3nPbazoyLQO8ynVbpzBDdW) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Saint Patrick](https://open.spotify.com/album/0hol5X7wXvGAsVV0y0OFhG) | 2:07 |
-| 88 | [TAKEOVER](https://open.spotify.com/track/2BHV505kWK7vPnc6gDAsU5) | [Suspect 95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza) | [TAKEOVER](https://open.spotify.com/album/2ZqbKuvwJ4Vh1bKQ5RYfDt) | 3:19 |
+| 88 | [TAKEOVER \(feat\. Makhadzi Entertainment\)](https://open.spotify.com/track/2BHV505kWK7vPnc6gDAsU5) | [Suspect 95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Eemoh](https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza), [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma) | [TAKEOVER \(feat\. Makhadzi Entertainment\)](https://open.spotify.com/album/2ZqbKuvwJ4Vh1bKQ5RYfDt) | 3:19 |
 | 89 | [Sun Boy](https://open.spotify.com/track/7LFT8nKnDogg7EcYDNVSFg) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Sun Boy](https://open.spotify.com/album/4Vv2B9nJspaK0vOw6jBSAC) | 3:20 |
 | 90 | [Fucked Up](https://open.spotify.com/track/0IyTGXvTJ3vRDC7cS9wi9J) | [Blaame](https://open.spotify.com/artist/40eNfkD7ZldjqnmTm4fbdl) | [Fucked Up](https://open.spotify.com/album/1WKTadb3dZbjTEtWZkHtM2) | 2:33 |
 | 91 | [GIZMO](https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt) | [Pussy Heaven](https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK) | [HYMN](https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf) | 3:04 |

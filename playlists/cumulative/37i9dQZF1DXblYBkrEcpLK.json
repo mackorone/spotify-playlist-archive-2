@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Celebrate the great female artists from anime culture. \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Cover: tuki.",
+  "description": "Celebrate the great female artists from anime culture. \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Cover: Daoko",
   "name": "Women of Anime",
   "tracks": [
     {
@@ -2505,6 +2505,24 @@
     },
     {
       "album": {
+        "name": "CRIMSON BULLET",
+        "url": "https://open.spotify.com/album/2ZrfW7HqQHMjAtmiHX9qfC"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223182,
+      "name": "Friday Night Fever",
+      "url": "https://open.spotify.com/track/5fh1X6Cq3HJqZHGrV6yP4O"
+    },
+    {
+      "album": {
         "name": "Friends Are For",
         "url": "https://open.spotify.com/album/08tOtAc9Wd3ca6vYh5iPVe"
       },
@@ -4946,7 +4964,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 221800,
       "name": "No Epilogue",
       "url": "https://open.spotify.com/track/3hGtbgqDrLBS6CeOpWiEuX"

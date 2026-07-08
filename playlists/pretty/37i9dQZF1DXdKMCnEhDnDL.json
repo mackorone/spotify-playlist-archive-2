@@ -1,12 +1,12 @@
 {
   "description": "De beste Nederlandse liedjes. Cover: Justen de Wildt",
-  "num_followers": 527395,
+  "num_followers": 527419,
   "original_name": "Beste van NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALkhJiFhatrk8Dz7VhiHLkNBnUj9",
+  "snapshot_id": "AAAAAIkyD7aYGJ99wmT7j1L4DrF1KE9f",
   "tracks": [
     {
       "added_at": "2026-07-02 22:01:36",
@@ -411,6 +411,22 @@
     {
       "added_at": "2026-07-02 22:01:36",
       "album": {
+        "name": "Feestje Op Mijn Graf",
+        "url": "https://open.spotify.com/album/65T5ywUjxqqG9ayJWuhLLt"
+      },
+      "artists": [
+        {
+          "name": "The Opposites",
+          "url": "https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Feestje Op Mijn Graf",
+      "url": "https://open.spotify.com/track/1XD5DhrBu0HpofkF8cv3Ii"
+    },
+    {
+      "added_at": "2026-07-02 22:01:36",
+      "album": {
         "name": "Tranen In De Giftshop",
         "url": "https://open.spotify.com/album/1OQVA5LvlqTTebTLRHub9f"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 190086,
       "name": "Mijn Liefste",
       "url": "https://open.spotify.com/track/4ymLR8R56kggSizQk8Rxcr"
-    },
-    {
-      "added_at": "2026-07-02 22:01:36",
-      "album": {
-        "name": "Feestje Op Mijn Graf",
-        "url": "https://open.spotify.com/album/65T5ywUjxqqG9ayJWuhLLt"
-      },
-      "artists": [
-        {
-          "name": "The Opposites",
-          "url": "https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Feestje Op Mijn Graf",
-      "url": "https://open.spotify.com/track/1XD5DhrBu0HpofkF8cv3Ii"
     },
     {
       "added_at": "2026-07-02 22:01:36",

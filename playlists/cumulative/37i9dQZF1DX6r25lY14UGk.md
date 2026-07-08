@@ -4,7 +4,7 @@
 
 > New releases for the kids\. Cover: Laurie Berkner
 
-1,149 songs - 1 day 22 hr 44 min
+1,150 songs - 1 day 22 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -601,6 +601,7 @@
 | [Little Bookworm](https://open.spotify.com/track/5wOIsLbcMrrkMqVdtrNyCL) | [The Tambourine Social](https://open.spotify.com/artist/5nHEzEXgMjDsR58ZMG4aHq) | [Little Bookworm](https://open.spotify.com/album/4aSwuyjOOiq3TK8kv1OGhs) | 3:02 | 2024-10-18 | 2025-03-08 |
 | [Little Bunny Foo Foo](https://open.spotify.com/track/37C04vciXG3ByX5m0oa1hq) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Animal Songs for Kids](https://open.spotify.com/album/2WuLpCVhh4yUxX8A12fs1J) | 2:38 | 2024-08-30 | 2025-03-08 |
 | [Little Man Dance](https://open.spotify.com/track/0ddO389pgEWNdKUVwQA15O) | [Snuggle Bunch](https://open.spotify.com/artist/1iP0xBJ9OpnQot01l2WPuv), [Jazz Animals](https://open.spotify.com/artist/0AVtwlVmhTWXiR4uXzOE5m) | [Little Man Dance](https://open.spotify.com/album/7J5GW2FBkhLbfzDOn6el8s) | 2:15 | 2026-01-30 | 2026-05-16 |
+| [Little Miss Muffet](https://open.spotify.com/track/3CWyYDKPJ6sW11U5mrkHxi) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD), [Chicago Symphony Orchestra](https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E) | [Little Miss Muffet / Peter Pumpkin Eater](https://open.spotify.com/album/24JYYF7JmDtCaVgMYDCwH6) | 1:45 | 2026-07-03 |  |
 | [Little Old You](https://open.spotify.com/track/1DOxXwapZRaMXYeoCaFQow) | [The Okee Dokee Brothers](https://open.spotify.com/artist/2RmT9R0322WMFN5x3OHMQe) | [Little Old You](https://open.spotify.com/album/03l56jZga0CX7974DFt74d) | 3:12 | 2025-11-07 | 2026-03-28 |
 | [Living With Liberty \- Skye's Music Party](https://open.spotify.com/track/1XgXjUS4bFzdSWZFt8vl2A) | [PAW Patrol](https://open.spotify.com/artist/1JPhbKU3boL67fftU3U1ED) | [Living With Liberty \(Skye's Music Party\)](https://open.spotify.com/album/4tgJda8PJwAik3isJWNn7D) | 2:07 | 2026-01-30 | 2026-05-23 |
 | [Llama Song](https://open.spotify.com/track/7IlzaCPkqESawQttc8qkQ5) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Llama Song](https://open.spotify.com/album/5pdCQvVFkTpVXi3kWwDrYc) | 1:50 | 2024-04-26 | 2025-03-08 |

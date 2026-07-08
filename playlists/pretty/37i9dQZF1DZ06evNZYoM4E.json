@@ -1,12 +1,12 @@
 {
   "description": "This is Andre Hazes. The essential tracks, all in one playlist.",
-  "num_followers": 108661,
+  "num_followers": 108668,
   "original_name": "This Is Andre Hazes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akmegAAAAAAHo9vPCOMk6KgQeRUfUNFN",
+  "snapshot_id": "akrwAAAAAAAqVS2u7qvV7/mRrXjcVZpg",
   "tracks": [
     {
       "added_at": null,
@@ -571,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Hazes 100",
-        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
+        "name": "Sorry (Holland Zingt Hazes)",
+        "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
       },
       "artists": [
+        {
+          "name": "Roxeanne Hazes",
+          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
+        },
         {
           "name": "Andre Hazes",
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 197800,
-      "name": "De Glimlach Van Een Kind",
-      "url": "https://open.spotify.com/track/3rmeMUVPieGjJDFPZ2SurK"
+      "duration_ms": 220879,
+      "name": "Sorry - Holland Zingt Hazes",
+      "url": "https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW"
     },
     {
       "added_at": null,
@@ -603,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
+        "name": "De Hazes 100",
+        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
       },
       "artists": [
         {
@@ -612,9 +616,9 @@
           "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
         }
       ],
-      "duration_ms": 244106,
-      "name": "Al Jouw Woorden Zijn Teveel",
-      "url": "https://open.spotify.com/track/6AmRofHZG72v4ATIsD8Rj1"
+      "duration_ms": 197800,
+      "name": "De Glimlach Van Een Kind",
+      "url": "https://open.spotify.com/track/3rmeMUVPieGjJDFPZ2SurK"
     },
     {
       "added_at": null,
@@ -635,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 244106,
+      "name": "Al Jouw Woorden Zijn Teveel",
+      "url": "https://open.spotify.com/track/6AmRofHZG72v4ATIsD8Rj1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Samen",
         "url": "https://open.spotify.com/album/2u9B11BYyxQGBvSzY3UPin"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 234533,
       "name": "Leef Nu Maar Je Eigen Leven",
       "url": "https://open.spotify.com/track/3ZAvKrfjxPKvzrxxgywVe8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry (Holland Zingt Hazes)",
-        "url": "https://open.spotify.com/album/1FsuMZG5aE2KXOyN1MNIcu"
-      },
-      "artists": [
-        {
-          "name": "Roxeanne Hazes",
-          "url": "https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6"
-        },
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 220879,
-      "name": "Sorry - Holland Zingt Hazes",
-      "url": "https://open.spotify.com/track/3xLUNiJfFVfD9GEop7w8TW"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wij Gaan Gezellig Naar De Kroeg (Andre's Oranje Favorieten)",
-        "url": "https://open.spotify.com/album/6Ce3SCEkeVB73ynSPvcHYa"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "Wij Houden Van Oranje - Live From The Amsterdam Arena, Netherlands / 2008",
-      "url": "https://open.spotify.com/track/6M7I3yVYUvSZ3agth5j8Bo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Op De Schoorsteen Staat Een Foto",
         "url": "https://open.spotify.com/album/0Nk4GNiqWreg8WsiAqO3xF"
       },
@@ -731,22 +715,6 @@
       "duration_ms": 190853,
       "name": "Op De Schoorsteen Staat Een Foto",
       "url": "https://open.spotify.com/track/5ewmVlEnJYVa0iNGQ522vn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Hazes 100",
-        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 264146,
-      "name": "Zo Heb Ik Het Nooit Bedoeld",
-      "url": "https://open.spotify.com/track/1xDJChqZ4KB7aWFBrOvfLT"
     },
     {
       "added_at": null,
@@ -767,6 +735,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Hazes 100",
+        "url": "https://open.spotify.com/album/06eur57GeYWvei9L0hlduF"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 264146,
+      "name": "Zo Heb Ik Het Nooit Bedoeld",
+      "url": "https://open.spotify.com/track/1xDJChqZ4KB7aWFBrOvfLT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wij Gaan Gezellig Naar De Kroeg (Andre's Oranje Favorieten)",
+        "url": "https://open.spotify.com/album/6Ce3SCEkeVB73ynSPvcHYa"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "Wij Houden Van Oranje - Live From The Amsterdam Arena, Netherlands / 2008",
+      "url": "https://open.spotify.com/track/6M7I3yVYUvSZ3agth5j8Bo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kleine Jongen",
         "url": "https://open.spotify.com/album/3bFmAoee6ezDnTaWMP7USl"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alleen Met Jou",
-        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
-      },
-      "artists": [
-        {
-          "name": "Andre Hazes",
-          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Ja Dat Ben Jij",
-      "url": "https://open.spotify.com/track/1eTC7896aTd7Cl8qXho4M5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Want Ik Hou Van Jou",
         "url": "https://open.spotify.com/album/1bQsKoFUFBSIYQdMXoh3NB"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 227000,
       "name": "Want Ik Hou Van Jou",
       "url": "https://open.spotify.com/track/4StJdcpuqlrB3NEARX19QP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alleen Met Jou",
+        "url": "https://open.spotify.com/album/7FHnCZ6jfC0iJ0FiZosHhL"
+      },
+      "artists": [
+        {
+          "name": "Andre Hazes",
+          "url": "https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Ja Dat Ben Jij",
+      "url": "https://open.spotify.com/track/1eTC7896aTd7Cl8qXho4M5"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Os lançamentos dessa semana incluem Natanzinho Lima com Panda, Kew, Liniker, Luiza Martins, Vintage Culture e muito mais!
 
-18,963 songs - 40 day 6 hr 7 min
+18,963 songs - 40 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13884,7 +13884,7 @@
 | [Quero Ver](https://open.spotify.com/track/51bL35iOrYwcTF7RPZechP) | [ELLA A](https://open.spotify.com/artist/5kLSJkxgNnkg9r5bEgEuKS), [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP) | [Quero Ver](https://open.spotify.com/album/6epxvAUrtZlMT2z4sw3dry) | 2:53 | 2024-01-26 | 2024-02-03 |
 | [Quero Ver Cês Terminar](https://open.spotify.com/track/0lwn8Zh9rjxYapw1UUdC4q) | [Gustavo Moura & Rafael](https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T) | [Um Novo Ciclo, Vol\. 2](https://open.spotify.com/album/4uQkG75CuNT1Z6uvtAjCix) | 2:40 | 2024-01-19 | 2024-01-27 |
 | [Quero Ver se Defender \- Ao Vivo](https://open.spotify.com/track/2UrU9un6h0bZXTqCYisLlo) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos Ao Vivo em Goiânia](https://open.spotify.com/album/5LiNfSeXC0VjZ00nSF5Rab) | 2:51 | 2022-11-04 | 2022-11-12 |
-| [QUERO VER SE É ISSO TUDO](https://open.spotify.com/track/1TUEVVAuBBuFY70G6swWlv) | [Mc Robozão](https://open.spotify.com/artist/3U3xCsosfpJnVF5p3uTL6H), [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [DJ PK](https://open.spotify.com/artist/7e7B9W72uE8TDYV28iANVL), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [QUERO VER SE É ISSO TUDO](https://open.spotify.com/album/34YYKPH1Nlv35EOF9woUAk) | 1:24 | 2026-07-03 |  |
+| [QUERO VER SE É ISSO TUDO](https://open.spotify.com/track/1TUEVVAuBBuFY70G6swWlv) | [Mc Robozão](https://open.spotify.com/artist/3U3xCsosfpJnVF5p3uTL6H), [Mc Kaique SP](https://open.spotify.com/artist/4AIiJdMZkRakZRPH7Y5k3a), [DJ PK](https://open.spotify.com/artist/7e7B9W72uE8TDYV28iANVL), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [QUERO VER SE É ISSO TUDO](https://open.spotify.com/album/34YYKPH1Nlv35EOF9woUAk) | 2:08 | 2026-07-03 |  |
 | [Quero Você](https://open.spotify.com/track/7uIGrpgSSBogKlUT6KtmEs) | [Dani Black](https://open.spotify.com/artist/5DlaVYlcVjPYeC4QLZDBJa) | [o \- Uma cidade chamada eu mesmo \(Parte 1\)](https://open.spotify.com/album/7qkQQ9OiQKuOZJm3IRtW14) | 3:02 | 2024-05-31 | 2024-06-08 |
 | [Quero Você](https://open.spotify.com/track/4T8qC5OMkDNoTdD4bHYlpI) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Quero Você](https://open.spotify.com/album/4AD1AUoo1t9oP1463wzROo) | 2:53 | 2024-03-01 | 2024-03-09 |
 | [Quero É Ficar Contigo](https://open.spotify.com/track/0jcBlTFH1gaKLt2lZrVUQf) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH), [Noara Marques](https://open.spotify.com/artist/4eFqje2bI9eezAflyVBbIB) | [Quero É Ficar Contigo](https://open.spotify.com/album/2aLCnBrbOetkYTjIbMY3Nt) | 3:57 | 2025-03-28 | 2025-04-05 |

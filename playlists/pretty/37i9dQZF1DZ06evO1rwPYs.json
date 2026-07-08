@@ -1,12 +1,12 @@
 {
   "description": "This is Celia Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 107667,
+  "num_followers": 107676,
   "original_name": "This Is Celia Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akmegAAAAAA+asMaww1i9R+ZeGyQt+Wz",
+  "snapshot_id": "akrwAAAAAAD4tqa4ms106k65UPcQO8Ju",
   "tracks": [
     {
       "added_at": null,
@@ -175,30 +175,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
-        "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
+        "name": "Az\u00facar Negra",
+        "url": "https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt"
       },
       "artists": [
         {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        },
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        },
-        {
-          "name": "Jeni Fujita",
-          "url": "https://open.spotify.com/artist/4jispKkgFHkoH9imP874K2"
         }
       ],
-      "duration_ms": 270493,
-      "name": "Guantanamera (feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita)",
-      "url": "https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI"
+      "duration_ms": 249053,
+      "name": "Te Busco",
+      "url": "https://open.spotify.com/track/48Gf2B6wbTpnQB0m3GCmRi"
     },
     {
       "added_at": null,
@@ -223,18 +211,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Az\u00facar Negra",
-        "url": "https://open.spotify.com/album/2bAGL36bY6yZluv8vGZeIt"
+        "name": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+        "url": "https://open.spotify.com/album/0JMmTZJ26G0QekIeSpcplU"
       },
       "artists": [
         {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        },
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
           "name": "Celia Cruz",
           "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Jeni Fujita",
+          "url": "https://open.spotify.com/artist/4jispKkgFHkoH9imP874K2"
         }
       ],
-      "duration_ms": 249053,
-      "name": "Te Busco",
-      "url": "https://open.spotify.com/track/48Gf2B6wbTpnQB0m3GCmRi"
+      "duration_ms": 270493,
+      "name": "Guantanamera (feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita)",
+      "url": "https://open.spotify.com/track/6g5ov3aSDUvvDkQKIcmZQI"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Boleros",
+        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Esp\u00e9rame En El Cielo",
+      "url": "https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Az\u00facar (feat. Arturo Sandoval)",
         "url": "https://open.spotify.com/album/75WV3Y5nWfQxSa40fixkPl"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 287906,
       "name": "Az\u00facar (feat. Arturo Sandoval)",
       "url": "https://open.spotify.com/track/4PMkN6hqPNlvEXSKxqEUSB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boleros",
-        "url": "https://open.spotify.com/album/7DSbg77hDxJs4dnvi1qVgj"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Esp\u00e9rame En El Cielo",
-      "url": "https://open.spotify.com/track/2QpsriJKyoAruNdeHRgJUd"
     },
     {
       "added_at": null,
@@ -1039,6 +1039,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alma Caribe\u00f1a",
+        "url": "https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 257160,
+      "name": "Tres Gotas De Agua Bendita (feat. Celia Cruz)",
+      "url": "https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homenaje A Beny Mor\u00e9",
         "url": "https://open.spotify.com/album/3kcPe4YnATOHYNLgwdXSAY"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 296720,
       "name": "Ay Mi Cuba",
       "url": "https://open.spotify.com/track/1wn4tJRraiHIx518NyMmHA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alma Caribe\u00f1a",
-        "url": "https://open.spotify.com/album/24obAzHAF54ZtdSUZtn0np"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 257160,
-      "name": "Tres Gotas De Agua Bendita (feat. Celia Cruz)",
-      "url": "https://open.spotify.com/track/39wf4YalXTzfjokmGTg0cl"
     },
     {
       "added_at": null,

@@ -384,7 +384,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 122727,
       "name": "Afternoon",
       "url": "https://open.spotify.com/track/171H5E5SQdQVP9iANgBSes"
@@ -1717,6 +1717,24 @@
     },
     {
       "album": {
+        "name": "Blue Sky",
+        "url": "https://open.spotify.com/album/7fDSBkFLz4Ohr8KlXyQ6ed"
+      },
+      "artists": [
+        {
+          "name": "apparater",
+          "url": "https://open.spotify.com/artist/5KQgYUEYCLvjLZge7PLlZW"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156868,
+      "name": "Blue Sky",
+      "url": "https://open.spotify.com/track/6m6gfFKiuOO9ZLdzjo2CRq"
+    },
+    {
+      "album": {
         "name": "blue smoke",
         "url": "https://open.spotify.com/album/5RKSM1b0PcI3moi2cti5L1"
       },
@@ -2916,6 +2934,24 @@
       "duration_ms": 168307,
       "name": "Clues",
       "url": "https://open.spotify.com/track/5SMh7T6OHAemmIOZQtAAVt"
+    },
+    {
+      "album": {
+        "name": "Coastal Haze",
+        "url": "https://open.spotify.com/album/4z5eRGCQq9AVyVkMxd3TwD"
+      },
+      "artists": [
+        {
+          "name": "Dune Studio",
+          "url": "https://open.spotify.com/artist/4YtDkagJkzBzlSRxRa7bau"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Coastal Haze",
+      "url": "https://open.spotify.com/track/0laMCryjF06EY1ZauXwpDe"
     },
     {
       "album": {
@@ -4424,7 +4460,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 113246,
       "name": "Easy Come Easy Go",
       "url": "https://open.spotify.com/track/6muUfsnL9J7bt4XmO7IOzl"
@@ -4514,7 +4550,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 150144,
       "name": "Echoes of Tomorrow",
       "url": "https://open.spotify.com/track/6rbvP291vbuypIce9pb6YE"
@@ -4810,7 +4846,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 108901,
       "name": "Evening Breeze",
       "url": "https://open.spotify.com/track/4Z5cR0m7jEh5HHiBsZ22Pe"
@@ -6737,6 +6773,24 @@
     },
     {
       "album": {
+        "name": "Hibiscus",
+        "url": "https://open.spotify.com/album/1exIQkDcMC3zocfYrm3pYP"
+      },
+      "artists": [
+        {
+          "name": "Navagio",
+          "url": "https://open.spotify.com/artist/4IZVQx6ZkiGS5yIhLQvhf8"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153611,
+      "name": "Hibiscus",
+      "url": "https://open.spotify.com/track/2vV2gPRCyazZvaXdhyiS8b"
+    },
+    {
+      "album": {
         "name": "Highlands",
         "url": "https://open.spotify.com/album/6k8jzUy9YBR5dw6yyexbqA"
       },
@@ -6980,6 +7034,24 @@
       "duration_ms": 242646,
       "name": "I ADORE U",
       "url": "https://open.spotify.com/track/0ANy2LzoqFkwkgc8adwTVc"
+    },
+    {
+      "album": {
+        "name": "I Choose You",
+        "url": "https://open.spotify.com/album/2PRf4gPKnvHLgEq1QLhBMF"
+      },
+      "artists": [
+        {
+          "name": "PRFCT BLU3",
+          "url": "https://open.spotify.com/artist/4noR7KqhMB2raZYyC0FHen"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220403,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/1URQNNZ4XQZZOvSTRmyOwq"
     },
     {
       "album": {
@@ -7768,7 +7840,7 @@
       ],
       "date_added": "2025-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 128313,
       "name": "Jungle Peace",
       "url": "https://open.spotify.com/track/3dVNvhYzMqAyMa44MUFDgC"
@@ -10455,6 +10527,24 @@
     },
     {
       "album": {
+        "name": "Natural Ease",
+        "url": "https://open.spotify.com/album/2ncUuw2mEsjAoDCAs8ylQX"
+      },
+      "artists": [
+        {
+          "name": "Edge Of Silence",
+          "url": "https://open.spotify.com/artist/6Ukt6MMYIhbLa4IP5uGqta"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Natural Ease",
+      "url": "https://open.spotify.com/track/4ivUWhV1Ib7y5ytlkiDDPK"
+    },
+    {
+      "album": {
         "name": "Cygnus A",
         "url": "https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV"
       },
@@ -10520,7 +10610,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 175500,
       "name": "New",
       "url": "https://open.spotify.com/track/195b2bDembYKajvIpXceKl"
@@ -10722,6 +10812,24 @@
       "duration_ms": 198946,
       "name": "Nite Glo",
       "url": "https://open.spotify.com/track/7kuW6Ho3HAoYzE1qkDkDRv"
+    },
+    {
+      "album": {
+        "name": "No 1",
+        "url": "https://open.spotify.com/album/5X0jCz1fOLnZoV0c3MpQ0P"
+      },
+      "artists": [
+        {
+          "name": "Duke Washington",
+          "url": "https://open.spotify.com/artist/6Tur5tz3yIV5EZeLwClVVq"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "No 1",
+      "url": "https://open.spotify.com/track/5m5Nf2piAUqBbxQL1DZGJ1"
     },
     {
       "album": {
@@ -11212,6 +11320,24 @@
       "duration_ms": 133385,
       "name": "One Day Left",
       "url": "https://open.spotify.com/track/1I1HlSJlLcKbKXMkiucFnr"
+    },
+    {
+      "album": {
+        "name": "One More Minute",
+        "url": "https://open.spotify.com/album/3ppZMwwy2tz75sfyDathSg"
+      },
+      "artists": [
+        {
+          "name": "Bare Resonance",
+          "url": "https://open.spotify.com/artist/1fKCu7sONna4yjdFZA4xww"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140198,
+      "name": "One More Minute",
+      "url": "https://open.spotify.com/track/2FcoX53uvyk8cIrszkjnya"
     },
     {
       "album": {
@@ -12202,6 +12328,24 @@
       "duration_ms": 213409,
       "name": "Poolside Bliss",
       "url": "https://open.spotify.com/track/7Jm2p8fVd12UxlH2RHStuL"
+    },
+    {
+      "album": {
+        "name": "Poor Judgment",
+        "url": "https://open.spotify.com/album/0hzwJdROFkdLTugbmllf88"
+      },
+      "artists": [
+        {
+          "name": "Jordan Moon",
+          "url": "https://open.spotify.com/artist/7qNnvj3xqAs7FHjOPOeBQ1"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178867,
+      "name": "Poor Judgment",
+      "url": "https://open.spotify.com/track/13024yZOI6vDFyfglElnfV"
     },
     {
       "album": {
@@ -13578,7 +13722,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 120000,
       "name": "Savant",
       "url": "https://open.spotify.com/track/3sbDyYhE990JYdeWP8632f"
@@ -14100,7 +14244,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 160386,
       "name": "Shanghai",
       "url": "https://open.spotify.com/track/5tbyORxtKTPjYBqfNVWS41"
@@ -15556,7 +15700,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 192545,
       "name": "Summertime Swing",
       "url": "https://open.spotify.com/track/3RoDRyxKu7xHxt9bP7kkJw"
@@ -15942,6 +16086,24 @@
       "duration_ms": 137863,
       "name": "Sunset Expresso",
       "url": "https://open.spotify.com/track/4GeYzFsZ70iDwFzAssjEIX"
+    },
+    {
+      "album": {
+        "name": "Sunset on Repeat",
+        "url": "https://open.spotify.com/album/69KjGfdNRCJsrxTMlE2oVe"
+      },
+      "artists": [
+        {
+          "name": "Bongo Percy",
+          "url": "https://open.spotify.com/artist/1962ajzfry94J9kYNGQoSg"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Sunset on Repeat",
+      "url": "https://open.spotify.com/track/1e9uHKGFoECX1AB0Hg4pLJ"
     },
     {
       "album": {
@@ -16514,7 +16676,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 128295,
       "name": "The first place",
       "url": "https://open.spotify.com/track/62UwFwLqoiIK89CTj27hEi"
@@ -18100,6 +18262,24 @@
       "duration_ms": 126000,
       "name": "Wave",
       "url": "https://open.spotify.com/track/1FlM7RtsyIkjL5Qbs7sS2A"
+    },
+    {
+      "album": {
+        "name": "Wavelength",
+        "url": "https://open.spotify.com/album/2eNGFUEpUf6qdhxohWxwfW"
+      },
+      "artists": [
+        {
+          "name": "LOOKM\u00d8R",
+          "url": "https://open.spotify.com/artist/1Lz1w52i8Ogfeb6FA9VCyg"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Wavelength",
+      "url": "https://open.spotify.com/track/0wuxhAiDSyAK2N8Mbzogly"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 
 > Lmao \-.\-
 
-[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 501 songs - 1 day 4 hr 45 min
+[KristaLovesGura](https://open.spotify.com/user/megaalexpro3000) - 1 like - 504 songs - 1 day 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -481,9 +481,9 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 471 | [hanabira](https://open.spotify.com/track/6C0sNoI2q1uUdTGGGaVAdt) | [glamscure](https://open.spotify.com/artist/7oQX1jVN0EsaRmdFKBkzdT) | [shadowscapes](https://open.spotify.com/album/6caVcUAUovJnkA1R5xbNci) | 2:17 |
 | 472 | [Shaded Cream](https://open.spotify.com/track/1fpjGTg8RUJOCsgckomeYm) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Exit Tunes Presents Supernova 8](https://open.spotify.com/album/3xpShqDPXoIalJ0ULfcssW) | 3:54 |
 | 473 | [Coppelia](https://open.spotify.com/track/70SMFYMWEIEUXa7mP3EDAD) | [Kaya](https://open.spotify.com/artist/2QIdg099yylM16gsKCTrsg) | [Nocturne](https://open.spotify.com/album/3qnEQEn785VdJmtJcWA1Iw) | 4:18 |
-| 474 | [======](https://open.spotify.com/track/3D3UfAdlk4efXuvaOO9xDl) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [======](https://open.spotify.com/album/4i6zsLsQQnXik2tNlM9yis) | 2:15 |
-| 475 | [行列のできるえーりん診療所](https://open.spotify.com/track/48MDfmg92Za0nfWRLP8GCH) | [IOSYS](https://open.spotify.com/artist/7lw3txgTpihF2On2QVtldq) | [東方真華神祭](https://open.spotify.com/album/4AP6lMjgYrZ1TL0O29Rgxm) | 3:27 |
-| 476 | [パンダヒーロー \- ORIGINAL](https://open.spotify.com/track/0vENG11oPsLk9PCCH28M7S) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:47 |
+| 474 | [パンダヒーロー \- ORIGINAL](https://open.spotify.com/track/0vENG11oPsLk9PCCH28M7S) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [OFFICIAL ORANGE](https://open.spotify.com/album/3LCFnbLjqO5qTbX23ZXaPI) | 3:47 |
+| 475 | [======](https://open.spotify.com/track/3D3UfAdlk4efXuvaOO9xDl) | [x0o0x\_](https://open.spotify.com/artist/2QLccJ5Jtn9Cj5xcfB9ufz) | [======](https://open.spotify.com/album/4i6zsLsQQnXik2tNlM9yis) | 2:15 |
+| 476 | [行列のできるえーりん診療所](https://open.spotify.com/track/48MDfmg92Za0nfWRLP8GCH) | [IOSYS](https://open.spotify.com/artist/7lw3txgTpihF2On2QVtldq) | [東方真華神祭](https://open.spotify.com/album/4AP6lMjgYrZ1TL0O29Rgxm) | 3:27 |
 | 477 | [ホワイトマインド \(feat\. 初音ミク\)](https://open.spotify.com/track/6zFiEUXgQbwOtOeYi8TJyB) | [Glue](https://open.spotify.com/artist/4RYgfACpO30g7D88VWvk85) | [ホワイトマインド](https://open.spotify.com/album/0d3l2BZ46eTTzl0ZBKNXbt) | 3:30 |
 | 478 | [yatsumeana](https://open.spotify.com/track/3mjDAKJ5wQeX3Qv2Jt3Uv3) | [XxXX](https://open.spotify.com/artist/6rimWLdviDbddrg9rmY88B) | [xxxx](https://open.spotify.com/album/7wNj1HwSTYsoCYKya1kZah) | 3:41 |
 | 479 | [パメラ](https://open.spotify.com/track/0kdCJN0s1FB37IJoHWaZEk) | [balloon](https://open.spotify.com/artist/49sPDY14qlYMAdi6WDsvva) | [パメラ](https://open.spotify.com/album/5ZJTnfc4A7HFzZx0DEKanl) | 3:16 |
@@ -509,5 +509,8 @@ pretty - [cumulative](/playlists/cumulative/4fiEJd3fBtLcNuWwmZ2HeT.md) - [plain]
 | 499 | [Im NEET!!www](https://open.spotify.com/track/1Bo5KPwBXn49S0c3akZi58) | [heavensent](https://open.spotify.com/artist/4uKqtUEF1zLNP9bu9KcRc7) | [death from heaven](https://open.spotify.com/album/6Ffmh5GiaM45ZFKriImDK1) | 2:40 |
 | 500 | [Pet Me](https://open.spotify.com/track/7z1kI1DKDFFV0WsBmcPHQl) | [Hiiragi Magnetite](https://open.spotify.com/artist/3wcmaCLMuQjUbID0CNUDOz) | [Pet Me](https://open.spotify.com/album/1HjPYM5Bbbso7YhU6t4cA0) | 3:07 |
 | 501 | [dogdog](https://open.spotify.com/track/40BlwjCGeA1VmJphnOQHWq) | [Abuse](https://open.spotify.com/artist/1lqDRvPcGCAMCIMxICjgnf) | [dog / screaming / livestock](https://open.spotify.com/album/7vmHJVK1smWdtJMN3A28Ii) | 5:50 |
+| 502 | [HANAMEKANAI](https://open.spotify.com/track/3y0K4W3uepBpDVtNJPZShN) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [HANAMEKANAI](https://open.spotify.com/album/4Ce42WQtBY8X2CJsNNCBkh) | 3:36 |
+| 503 | [フレンドカウンセリング](https://open.spotify.com/track/4S44ACf8p1wvSSi3gyxow9) | [句るり](https://open.spotify.com/artist/1X70BUiqwYlEkmF2bkMv72), [初音ミク](https://open.spotify.com/artist/2jlojUTQutTQMWWnvtcNmB), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [フレンドカウンセリング](https://open.spotify.com/album/3XCw3vYJZeDxyc3Z8hITMq) | 2:46 |
+| 504 | [ぜいたくランドリー](https://open.spotify.com/track/6COdEzPxjCaaQqOH4KA24c) | [句るり](https://open.spotify.com/artist/1X70BUiqwYlEkmF2bkMv72), [塩瀬ろぴ](https://open.spotify.com/artist/0XM0u3UELmLJD8EKSvYUlU) | [ぜいたくランドリー](https://open.spotify.com/album/4nj3xQCgIszFESdNvb4jKc) | 2:39 |
 
-Snapshot ID: `AAAKSYdG2igbwkMHd3eS3qq1Ly6BrOt+`
+Snapshot ID: `AAAKTt3IvH3AMiQ8ZeH92OPCX6fKaUOV`

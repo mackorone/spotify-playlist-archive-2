@@ -3607,6 +3607,24 @@
     },
     {
       "album": {
+        "name": "Playing with Fire",
+        "url": "https://open.spotify.com/album/2DD97DuvevrjwdSIiQlH1B"
+      },
+      "artists": [
+        {
+          "name": "ARMAGELION",
+          "url": "https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193410,
+      "name": "Playing with Fire",
+      "url": "https://open.spotify.com/track/2CLoPYyFM3abS0VtBRCLAk"
+    },
+    {
+      "album": {
         "name": "Pocket Friend",
         "url": "https://open.spotify.com/album/4eJU1HUt931tQ3dlte1ENP"
       },

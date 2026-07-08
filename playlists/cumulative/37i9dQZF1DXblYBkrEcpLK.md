@@ -2,9 +2,9 @@
 
 ### [Women of Anime](https://open.spotify.com/playlist/37i9dQZF1DXblYBkrEcpLK)
 
-> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: tuki.
+> Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Daoko
 
-867 songs - 2 day 8 hr 56 min
+868 songs - 2 day 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Fly with You!!](https://open.spotify.com/track/3HbYu8ekAukuOo5w71KBUp) | [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 4:34 | 2023-10-03 | 2023-10-18 |
 | [for...](https://open.spotify.com/track/1VF7SGJTafH27FNW2WJcJB) | [逢田梨香子](https://open.spotify.com/artist/7L3LvUmPSjYVIStpUxBsUu) | [Curtain raise](https://open.spotify.com/album/5jgPJpy4bePdsCkfLpQzip) | 3:31 | 2022-06-09 | 2022-07-28 |
 | [Forever U & I](https://open.spotify.com/track/3v0TLKy8v5Jr8wRbitWpzV) | [ヨハネ\(CV.小林愛香\)](https://open.spotify.com/artist/0Mhc2SHyQr07pN53aQ7txf) | [Forever U & I](https://open.spotify.com/album/4dpWX71NcDsWinA5NF9KrA) | 4:01 | 2023-09-12 | 2023-09-27 |
+| [Friday Night Fever](https://open.spotify.com/track/5fh1X6Cq3HJqZHGrV6yP4O) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [CRIMSON BULLET](https://open.spotify.com/album/2ZrfW7HqQHMjAtmiHX9qfC) | 3:43 | 2026-07-08 |  |
 | [Friends Are For](https://open.spotify.com/track/0ZyxK0yMUKlUpBXsYg0cmi) | [MOONCHILD](https://open.spotify.com/artist/4wZ56MQgx9kLpOmF3IuJmM) | [Friends Are For](https://open.spotify.com/album/08tOtAc9Wd3ca6vYh5iPVe) | 3:23 | 2023-11-16 | 2023-11-23 |
 | [From Fate](https://open.spotify.com/track/3H38hshUqjNGMBa1uX5v8H) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dream Thread](https://open.spotify.com/album/4aLypy3XVbwAl5m77cubJL) | 3:20 | 2024-01-30 | 2024-03-27 |
 | [From Fate](https://open.spotify.com/track/7umllTuYQqNTB3zwc2Qd5t) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [夢の糸](https://open.spotify.com/album/64CtA7HcKuD9ikMfld6UtP) | 3:20 | 2024-01-30 | 2024-02-01 |
@@ -269,7 +270,7 @@
 | [Never Say Goodbye](https://open.spotify.com/track/4xBgTB0jPU3EM1yxQuD5vf) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [Never Say Goodbye](https://open.spotify.com/album/3xgLVhOCghobprdrAeLlB9) | 4:19 | 2023-10-03 | 2023-10-11 |
 | [New Genesis \- From CrosSing](https://open.spotify.com/track/0KYn6GOrzbUemMMOuGcJsk) | [Natsuyoshi Yuko](https://open.spotify.com/artist/0O5jlFShsrrHIwj3sdnbWq), [Matsuoka Misato](https://open.spotify.com/artist/6BFKpJfchNBofHmTd1h0bL) | [New Genesis \- From CrosSing](https://open.spotify.com/album/6t7sKaTUmq3HhvPhYWDRmc) | 3:47 | 2023-06-13 | 2023-07-05 |
 | [Niji ga Kakarumade no Hanashi](https://open.spotify.com/track/6PshiiQYhJ1CcqNQ9dEml5) | [Yui Horie](https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R) | [Niji ga Kakarumade no Hanashi](https://open.spotify.com/album/1FC23UCOGmieycsP29GrVn) | 4:38 | 2022-06-21 | 2022-07-28 |
-| [No Epilogue](https://open.spotify.com/track/3hGtbgqDrLBS6CeOpWiEuX) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [No Epilogue](https://open.spotify.com/album/6ZhdDIKUvLWZQMyQkcwey3) | 3:41 | 2026-06-23 |  |
+| [No Epilogue](https://open.spotify.com/track/3hGtbgqDrLBS6CeOpWiEuX) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [No Epilogue](https://open.spotify.com/album/6ZhdDIKUvLWZQMyQkcwey3) | 3:41 | 2026-06-23 | 2026-07-08 |
 | [NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [ENDING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P) | 3:53 | 2022-08-27 | 2022-11-20 |
 | [No one](https://open.spotify.com/track/02f1kLS0yKhvEHI7Lt7NWD) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [No one](https://open.spotify.com/album/1BECn2HvgHI7XT9nDeQI9x) | 3:06 | 2025-03-11 | 2025-07-05 |
 | [No Pain, Not to be Strong](https://open.spotify.com/track/0fARm3SivTnCDucLIrHHZx) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV), [ヒプノシスマイク \-D.R.B\- \(勘解由小路無花果\)](https://open.spotify.com/artist/3pKwnUM4f6ufAgOL5nA4PL) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:20 | 2023-04-13 | 2023-06-09 |

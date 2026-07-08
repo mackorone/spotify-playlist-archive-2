@@ -2901,6 +2901,24 @@
     },
     {
       "album": {
+        "name": "Sanded Glass",
+        "url": "https://open.spotify.com/album/228CZxYmW6uE43T7pKJ8HO"
+      },
+      "artists": [
+        {
+          "name": "Ozonezzz",
+          "url": "https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Sanded Glass",
+      "url": "https://open.spotify.com/track/5orwTZn7kEtg9tHygGTKq0"
+    },
+    {
+      "album": {
         "name": "Searching",
         "url": "https://open.spotify.com/album/6xCVp1npdJzztFZXBMgqGv"
       },
@@ -2988,6 +3006,24 @@
       "duration_ms": 184000,
       "name": "Singing Bowls",
       "url": "https://open.spotify.com/track/1p51DKnBmrkh9nCijNcG37"
+    },
+    {
+      "album": {
+        "name": "Singing Light Forest",
+        "url": "https://open.spotify.com/album/5OnPdlFe8BQocKAxbgjHQ1"
+      },
+      "artists": [
+        {
+          "name": "Man Dala",
+          "url": "https://open.spotify.com/artist/3kf3VjiaMISV3pvj50wkk6"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "Singing Light Forest",
+      "url": "https://open.spotify.com/track/5Nq1o6pUM8zzpKI5YhZdGH"
     },
     {
       "album": {

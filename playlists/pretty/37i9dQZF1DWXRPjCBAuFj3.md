@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > E lei traballa dentro all'auto e l'auto è tutta scassata
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,689 likes - 108 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,732 likes - 108 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 34 | [DAL TACCO](https://open.spotify.com/track/1zrEskyOLXViiYdZgggiUI) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [DAL TACCO](https://open.spotify.com/album/1pkUZWvJtOTpsP5pP7gPBq) | 2:27 |
 | 35 | [Contento](https://open.spotify.com/track/4xuxWQbprzIOE3BGRULn75) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Contento](https://open.spotify.com/album/4iyoO6tOGnEaR2CYrUmukL) | 3:30 |
 | 36 | [BRATZ \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/10nZU1tAX7XepntuYDJUVO) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 2:58 |
-| 37 | [Bipolari Bilocali](https://open.spotify.com/track/4dm8s8pL7e2562HDZfZhq2) | [Chef Adami](https://open.spotify.com/artist/2QL3ysEhF4yaCrMIUnaxIU) | [Bipolari Bilocali](https://open.spotify.com/album/3QuRCXoT9ZbWGRCb80j5HU) | 2:25 |
+| 37 | [Bipolari Bilocali](https://open.spotify.com/track/4dm8s8pL7e2562HDZfZhq2) | [Chef Adami](https://open.spotify.com/artist/2QL3ysEhF4yaCrMIUnaxIU), [Masodaprod](https://open.spotify.com/artist/50BQVyaoPmx79p6M3EepVb) | [Bipolari Bilocali](https://open.spotify.com/album/3QuRCXoT9ZbWGRCb80j5HU) | 2:25 |
 | 38 | [Spie](https://open.spotify.com/track/6RRxP0B9bVZnbTnSpxfo9W) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:05 |
 | 39 | [Blocco](https://open.spotify.com/track/53XOl5fbG1dxv8JNB8VkdS) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:01 |
 | 40 | [No lo sé](https://open.spotify.com/track/7CVQNimiTPLHTu4ZM7pv7s) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [VENI VIDI VICI](https://open.spotify.com/album/6peJVbUHOoIA7mAzUmQypA) | 2:45 |

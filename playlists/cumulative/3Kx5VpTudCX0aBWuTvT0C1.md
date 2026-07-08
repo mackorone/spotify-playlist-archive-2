@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-182 songs - 10 hr 34 min
+184 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bara](https://open.spotify.com/track/50hb6zxmJMxrfavhe0fyn7) | [Merah](https://open.spotify.com/artist/0SqG39qV2HtVNgtjKSKGXQ) | [Utara](https://open.spotify.com/album/2Ds4iV3LPSya4zyVBHqhcn) | 3:49 | 2026-06-18 |  |
 | [Be the Star That You Are](https://open.spotify.com/track/48hhpEl3Q2f4sL4kMsHC8R) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0) | [Be the Star That You Are](https://open.spotify.com/album/1QcGdYC268jeVW185uD1L0) | 3:09 | 2026-05-29 |  |
 | [Best Year Yet](https://open.spotify.com/track/1n5JaW6gdAtdRgS2jnKSye) | [Bowes](https://open.spotify.com/artist/4ttD6HkDmlpH7D8SQqwtbT) | [Best Year Yet](https://open.spotify.com/album/2dwFoNDZQy25pn9iRmyPpq) | 4:18 | 2026-06-03 |  |
+| [Blodwyn](https://open.spotify.com/track/5UFmMdHSFqbWXQJoAbppSm) | [Moss Meredith](https://open.spotify.com/artist/3DL8xk1UlC6kPkrlbTHA56) | [Blodwyn](https://open.spotify.com/album/6UUxFXo46hihB0aOxV5kPq) | 3:20 | 2026-07-07 |  |
 | [Blood In My Margarita](https://open.spotify.com/track/7FnAZu16iYNzn1WrRbYFbp) | [Idle Hive](https://open.spotify.com/artist/3bQIHJpzSqqXQJBhX3xW0K) | [Blood In My Margarita](https://open.spotify.com/album/6edO6esJBfjew89feH2UL8) | 3:47 | 2026-06-29 |  |
 | [Blue Money Bills](https://open.spotify.com/track/3cNEkCAFg82SSWqkyNdwRp) | [Steve Larkman](https://open.spotify.com/artist/451tRc86Zp28twMLVHv22v) | [Blue Money Bills](https://open.spotify.com/album/36zqHa3fQZ0kROvyzvl33L) | 3:23 | 2025-10-29 | 2025-12-09 |
 | [Bonfire](https://open.spotify.com/track/5e0BHKevSDHIAdq0LCwB7M) | [Califortune](https://open.spotify.com/artist/1GLEJCnZZn6s7jjiP6xVyo) | [Bonfire](https://open.spotify.com/album/4zNR5UI6guqnwSpwR5aXfe) | 4:35 | 2026-03-06 |  |
@@ -118,6 +119,7 @@
 | [One Of These Days \- remastered 2025](https://open.spotify.com/track/7h6DCnqTJ9vrdM37KTbgWl) | [Gerhardt](https://open.spotify.com/artist/3bTrjrXSZ9XiJQ6DWVwkui), [Alakazam](https://open.spotify.com/artist/0lzWfn3p4ETAIyw6qPxeCM) | [Into The Ballroom](https://open.spotify.com/album/5gjOyZSfhCGDrMj52xobDU) | 2:41 | 2025-11-13 | 2026-03-15 |
 | [One Roof Band](https://open.spotify.com/track/33MX2mqv9J1IJhNSXDMxzx) | [Ashton McKinley](https://open.spotify.com/artist/2Fo0a4n5BfuG5cbm1P6nAy), [Jack McKinley](https://open.spotify.com/artist/5pV0bg4PE7KriPKMOlU1JH) | [One Roof Band](https://open.spotify.com/album/0chLuhom9W02NOMEaepQaJ) | 3:44 | 2025-11-06 | 2025-12-09 |
 | [Out Of Mind](https://open.spotify.com/track/1OFweranXJz823BH5fZYVI) | [1POINT5](https://open.spotify.com/artist/4PPHoRT5RMRHTbMGeQXiA3) | [Out Of Mind](https://open.spotify.com/album/2Rklcp8oIxKCK8duJuWHG4) | 2:32 | 2025-11-07 | 2025-12-09 |
+| [Over It](https://open.spotify.com/track/2kj6TZScNoIT7XkmHaNzf5) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Over It](https://open.spotify.com/album/2QMH3GnAnZDiHobPxWdlYI) | 3:11 | 2026-07-07 |  |
 | [Parted](https://open.spotify.com/track/20ZFPWqmQDEQB0zt48B92n) | [Angelic Bipolar](https://open.spotify.com/artist/2u0uX0s7XYniiI9VY3rTfe) | [Horrible Parallel](https://open.spotify.com/album/1zUgcsZrPvrjbgvg8zJPk7) | 3:43 | 2025-11-01 | 2025-12-09 |
 | [Perro insensible](https://open.spotify.com/track/61sja73d8He0LLeEFtznED) | [Pandino](https://open.spotify.com/artist/0uOaofBqG9uFHU7ksh6huW) | [Soñando Despierto](https://open.spotify.com/album/5MjbVM1gA4q3ioxHxCCdcc) | 3:07 | 2025-11-27 | 2026-06-14 |
 | [Polaroid](https://open.spotify.com/track/3MiHgdxNBYMNAmna2i6Mvl) | [Maldimarte](https://open.spotify.com/artist/1B7WanK5AVSJp64eXruATD) | [Polaroid](https://open.spotify.com/album/0cAdWCQ0QQmj3dJy0jZH94) | 2:39 | 2026-06-18 |  |

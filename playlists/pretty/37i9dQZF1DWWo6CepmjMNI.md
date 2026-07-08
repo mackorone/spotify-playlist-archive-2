@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 
 > เพลงอินดี้ใหม่และดีที่อยากแนะนำ\. ศิลปิน: YMY
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,103 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,099 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo6CepmjMNI.md) - [plain]
 | 5 | [เขาไม่กลับมาแล้ว \(Flow\)](https://open.spotify.com/track/5lMSabl9pbXxxW6IM7GCPB) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [เขาไม่กลับมาแล้ว \(Flow\)](https://open.spotify.com/album/69NG9x27wj8Jt3bD1QWhW3) | 3:25 |
 | 6 | [สาวข้างบ้าน \(A Crush!\)](https://open.spotify.com/track/0o2rFdaAJjo76DwTnHC5jX) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [สาวข้างบ้าน \(A Crush!\)](https://open.spotify.com/album/6LyYsdiAd9QndNgdlQHepq) | 3:32 |
 | 7 | [Luckyman](https://open.spotify.com/track/06gScNq7M3mjk0Le6kaBJ8) | [NINEOKMAI](https://open.spotify.com/artist/7GfWZzQStdnFvdbRqdsKYe) | [Luckyman](https://open.spotify.com/album/6oqDwqdxR1t2Z7t3dCeFmD) | 4:01 |
-| 8 | [สุขสันต์วันเลิกรา \(Farewall\)](https://open.spotify.com/track/0bPEFj9SX6MQbAet6jfKfI) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [สุขสันต์วันเลิกรา \(Farewall\)](https://open.spotify.com/album/00keaZw1TAM5szqXRcR83A) | 4:27 |
+| 8 | [สุขสันต์วันเลิกรา \(Farewell\)](https://open.spotify.com/track/0bPEFj9SX6MQbAet6jfKfI) | [DUMB.RONG](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [สุขสันต์วันเลิกรา \(Farewell\)](https://open.spotify.com/album/00keaZw1TAM5szqXRcR83A) | 4:27 |
 | 9 | [โลกความจริง \(REALITY HITS\)](https://open.spotify.com/track/5WjIzVculbw1st9OdhHq2K) | [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [โลกความจริง \(REALITY HITS\)](https://open.spotify.com/album/3KZ7gawGVh6uGnEPrbFN6I) | 4:47 |
 | 10 | [ดิ่ง \(Deep\)](https://open.spotify.com/track/20EMMATUtWu4rs6IMOXkfK) | [Enter The Joy](https://open.spotify.com/artist/2FA1UgZXy5OoXBB6CNgCQk) | [ดิ่ง \(Deep\)](https://open.spotify.com/album/1zOfH1aSjAKLOSiFLyqoUH) | 5:33 |
 | 11 | [ถ้าเราบังเอิญได้พบกัน \(What If\)](https://open.spotify.com/track/5AEAu3zGi43VzBfgiUJvzE) | [SaltySalmon](https://open.spotify.com/artist/3nk2SXIpTCKwG5GW8SuYxO) | [ถ้าเราบังเอิญได้พบกัน \(What If\)](https://open.spotify.com/album/7bJKCarxScjCO7CWATzwpe) | 3:48 |

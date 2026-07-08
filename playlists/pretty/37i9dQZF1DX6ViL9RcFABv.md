@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Criss Calisto
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,566 likes - 70 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,586 likes - 70 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 55 | [Se Ligares, Atendo](https://open.spotify.com/track/2Y0rfdWOsCkWBH6paSbAgQ) | [Aurora Pinto](https://open.spotify.com/artist/67IzblEppf2J60LZAviG9B) | [Se Ligares, Atendo](https://open.spotify.com/album/1eYe2npqHUMDwijOfZvpnO) | 2:56 |
 | 56 | [Vício Difícil](https://open.spotify.com/track/0SKHaG7xHqJYQ54wz8KVDI) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Relatos De Um Coração Confuso](https://open.spotify.com/album/62tNKIrsJH19yxTVEPdvA1) | 2:57 |
 | 57 | [A Minha Gente](https://open.spotify.com/track/5fN2X1bs5Ux9RsoRBgQdpY) | [Mimicat](https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6) | [A Minha Gente](https://open.spotify.com/album/6yBhBpKdAkvseC0FwlJsgh) | 3:18 |
-| 58 | [O Amor Existe](https://open.spotify.com/track/4xFAjC2SSS0q5gwVqvI75f) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [O Amor Existe](https://open.spotify.com/album/3CC2NCL8OSeMT1iBJGBixH) | 3:13 |
+| 58 | [o amor existe](https://open.spotify.com/track/4xFAjC2SSS0q5gwVqvI75f) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [o amor existe](https://open.spotify.com/album/3CC2NCL8OSeMT1iBJGBixH) | 3:13 |
 | 59 | [Aguarela](https://open.spotify.com/track/7d0P02kHN2V2dD4LRFqF2S) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Teetwo](https://open.spotify.com/artist/5VJa8cNehs0vBfqAEd92ar), [TeniTeach](https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE) | [Aguarela](https://open.spotify.com/album/3xn6NxoK4rdQRyWndt4ylL) | 3:16 |
 | 60 | [maria](https://open.spotify.com/track/0G7D0PfNw6VGSRR0QB1FiU) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU), [Rodrigo Correia](https://open.spotify.com/artist/1GJqIcqg2aB979wl5TIORC) | [maria](https://open.spotify.com/album/7g7ys0POOvhZNCZoAnnfFO) | 3:39 |
 | 61 | [Olha P’ra Ela](https://open.spotify.com/track/65knUcT6YYCnWONjhYYh4r) | [IOLANDA](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Olha P’ra Ela](https://open.spotify.com/album/4yO9UFn9UUAbcMagk23hWB) | 2:53 |

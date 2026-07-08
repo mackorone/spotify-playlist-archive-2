@@ -4,7 +4,7 @@
 
 > Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: NMIXX, Anderson\. Paak\)
 
-281 songs - 14 hr 40 min
+282 songs - 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Feel Like](https://open.spotify.com/track/7Kw56g1qxxYKSVJFy3JmBj) | [kim taehoon](https://open.spotify.com/artist/6qQHzLu9pasNUZGt1cdD1N), [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Feel Like](https://open.spotify.com/album/1bgbdSTAzVt7gcMIoU3lyq) | 3:42 | 2021-12-20 | 2022-06-11 |
 | [Feeling Lucky](https://open.spotify.com/track/53x0Yk1qOyurd2MefyF3Ny) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Feeling Lucky](https://open.spotify.com/album/4bc9PfPyv60qCh5S5g5eMb) | 2:31 | 2024-04-25 |  |
 | [Find Love](https://open.spotify.com/track/5xxYyxp5Rx0xu5YJ5vMPu5) | [Etham](https://open.spotify.com/artist/5fywYLnKJi950Y5yMqavxm), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Find Love](https://open.spotify.com/album/61LVXje36haNTn7BJdEI2t) | 3:36 | 2025-04-04 | 2026-05-30 |
+| [Follow Me](https://open.spotify.com/track/7EqulVHbWDM0SR2e2IFpDv) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Adriana C](https://open.spotify.com/artist/7oBUfgdK5Q8PBdT9QsTgHE), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Follow Me](https://open.spotify.com/album/06RhYSAgH9jdM6j1iaDcv0) | 3:52 | 2026-07-07 |  |
 | [FOREVER LOVE](https://open.spotify.com/track/0vw7qY8iPqBt0ic05q2IoU) | [Mew Suppasit](https://open.spotify.com/artist/78u00MLyG46IkmM8HC6H0l), [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [FOREVER LOVE](https://open.spotify.com/album/6x9oLu6OLMKuQK84HvZ5hx) | 3:39 | 2022-07-22 | 2024-10-09 |
 | [Forget Me Not](https://open.spotify.com/track/3QA3KfGs1UvSEZkWcio81R) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : 儚い](https://open.spotify.com/album/05UNmVxVeG3XwkfrcXls5g) | 3:23 | 2021-12-20 | 2022-01-22 |
 | [Future Perfect \(Pass the MIC\) \- Japanese Ver.](https://open.spotify.com/track/3lwif0ky1b6llUB5p4uulL) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [定め](https://open.spotify.com/album/58Rn6sczqcudAs9bryXXBv) | 3:00 | 2022-10-25 | 2024-04-19 |
@@ -213,7 +214,7 @@
 | [SHUT DOWN \- JP Ver.](https://open.spotify.com/track/5PvVq0PXbiRXzveh3xXeJr) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [SHUT DOWN \(JP Ver.\)](https://open.spotify.com/album/7vwaP19jaG87FAp42Id6Hq) | 3:26 | 2022-06-22 | 2023-02-17 |
 | [SICK LOVE](https://open.spotify.com/track/4h2fIodPmm0JCSp7VI8JGJ) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [SICK LOVE](https://open.spotify.com/album/6e01ZcUqdaVxS8boKn9irm) | 3:37 | 2022-09-05 | 2024-08-14 |
 | [Silver](https://open.spotify.com/track/3eZMRJkj4Q78YJ2iGxKjgI) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0), [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Silver](https://open.spotify.com/album/50NmyXmki7sJlAmJcIdMMl) | 3:43 | 2025-05-08 | 2026-05-30 |
-| [Slow Motion](https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Slow Motion](https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT) | 2:45 | 2024-03-08 |  |
+| [Slow Motion](https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Slow Motion](https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT) | 2:45 | 2024-03-08 | 2026-07-08 |
 | [Smile](https://open.spotify.com/track/2AeQVicr7SjOAz6UU91Pnv) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [I SAY MAMAMOO: THE BEST \-Japan Edition\-](https://open.spotify.com/album/20h4dMCIGutPFvLDoeSgyV) | 3:04 | 2022-03-24 | 2022-04-15 |
 | [so nice](https://open.spotify.com/track/3kCr7cWUfZlNpJkKnfd6QY) | [EPEX](https://open.spotify.com/artist/4e2umhzNHTSeQnSCWPN0uT), [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [EPEX & joan 1st Digital Single ‘so nice’](https://open.spotify.com/album/0oSDDyxUWLmqgEGHsI838v) | 2:32 | 2025-05-08 | 2026-05-30 |
 | [So Right \(feat\. Yuna\)](https://open.spotify.com/track/4oNDmDKZyn3TdJtZHbZNsj) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [So Right \(feat\. Yuna\)](https://open.spotify.com/album/0ysgkoEbvhX06YfnR5lwJk) | 3:08 | 2022-02-24 | 2024-08-14 |

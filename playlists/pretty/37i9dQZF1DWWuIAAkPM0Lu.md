@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 💜 mille 💜 DU MÅ IK GÅ
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,396 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,395 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 62 | [MONOPOL](https://open.spotify.com/track/5PiGv8hVPY2aIWvGhUlWLJ) | [INDIGO TRIBE](https://open.spotify.com/artist/43Xs9JZIHsA1zrks75WqfG), [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [VOL\. I: BRUS](https://open.spotify.com/album/0OKxVuRnZh2Oo1sM12rzJv) | 2:25 |
 | 63 | [Noen pappaer er flinkere enn andre](https://open.spotify.com/track/2MA5AGRNdQkLF7a1KfIHbR) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Noen pappaer er flinkere enn andre](https://open.spotify.com/album/2Hhc2PevFikcOWqACiTxzk) | 2:55 |
 | 64 | [Sweet July](https://open.spotify.com/track/4HtJMfSYfpvCgYTudNH4ry) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Sweet July](https://open.spotify.com/album/29QH5L670D93DWN1AL2Z0B) | 2:23 |
-| 65 | [Organic Motion](https://open.spotify.com/track/0YJuBcj5bl9HGqMOBnthHC) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Organic Motion](https://open.spotify.com/album/5SdeOFSHrOBR6LikAiD7rU) | 2:35 |
+| 65 | [Organic Motion](https://open.spotify.com/track/0YJuBcj5bl9HGqMOBnthHC) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [DJ.Fresh](https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ) | [Organic Motion](https://open.spotify.com/album/5SdeOFSHrOBR6LikAiD7rU) | 2:35 |
 | 66 | [Paint It Red](https://open.spotify.com/track/31giOS9KhpK97GcG9eT7PP) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Paint It Red](https://open.spotify.com/album/4Wi5IZG5ZIFs53Hr5tfJYN) | 3:34 |
 | 67 | [If Its Real](https://open.spotify.com/track/0vgA7Avux3faFKOmUHTHvo) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [If Its Real](https://open.spotify.com/album/5DPzHVof5XijoRlsmK4BGJ) | 3:18 |
 | 68 | [Playboy](https://open.spotify.com/track/4Rp718wkIlPZtZuRPYP5qd) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Playboy](https://open.spotify.com/album/3xduUbS2Nci0y01gYmzsmv) | 3:29 |

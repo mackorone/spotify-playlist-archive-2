@@ -1,12 +1,12 @@
 {
   "description": "Listen to Arab women, at full volume. Cover: Haifa Wehbe",
-  "num_followers": 6544,
+  "num_followers": 6554,
   "original_name": "EQUAL Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEWqtcHYshe2HM9Wq0FKpHpqVUPV",
+  "snapshot_id": "AAAAACXJhDZamI/gPx9cr/c4IZtS5/PU",
   "tracks": [
     {
       "added_at": "2026-07-01 00:00:28",
@@ -27,34 +27,18 @@
     {
       "added_at": "2026-07-01 00:00:28",
       "album": {
-        "name": "MRA",
-        "url": "https://open.spotify.com/album/1Z1cmIGIr3N7mF7JQ6DAHJ"
+        "name": "\u062a\u064a\u062c\u064a \u0646\u0633\u064a\u0628",
+        "url": "https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15"
       },
       "artists": [
         {
-          "name": "EMEL",
-          "url": "https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA"
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
         }
       ],
-      "duration_ms": 196887,
-      "name": "Souty",
-      "url": "https://open.spotify.com/track/15J7ANVSWGUglslyyln7mW"
-    },
-    {
-      "added_at": "2026-07-01 00:00:28",
-      "album": {
-        "name": "Lazem Tekhtar",
-        "url": "https://open.spotify.com/album/6keu9VoYXQBagCiqWniJie"
-      },
-      "artists": [
-        {
-          "name": "Ghaliaa",
-          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
-        }
-      ],
-      "duration_ms": 182011,
-      "name": "Lazem Tekhtar",
-      "url": "https://open.spotify.com/track/75QkLngxmCSHw5j9tGhtgC"
+      "duration_ms": 281052,
+      "name": "\u0647\u0648 \u0627\u0646\u062a \u0645\u064a\u0646",
+      "url": "https://open.spotify.com/track/1qGEGcxFCJ0LhBCBSeZmqO"
     },
     {
       "added_at": "2026-07-01 00:00:28",
@@ -91,18 +75,34 @@
     {
       "added_at": "2026-07-01 00:00:28",
       "album": {
-        "name": "\u062a\u064a\u062c\u064a \u0646\u0633\u064a\u0628",
-        "url": "https://open.spotify.com/album/2hq36WlHifY01YuBdfLv15"
+        "name": "\u0627\u0644\u0645\u0631\u0627\u064a\u0629",
+        "url": "https://open.spotify.com/album/49xZ9aIX5FcUJp68g2zuM7"
       },
       "artists": [
         {
-          "name": "Angham",
-          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+          "name": "Sherine",
+          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
         }
       ],
-      "duration_ms": 281052,
-      "name": "\u0647\u0648 \u0627\u0646\u062a \u0645\u064a\u0646",
-      "url": "https://open.spotify.com/track/1qGEGcxFCJ0LhBCBSeZmqO"
+      "duration_ms": 174276,
+      "name": "\u0627\u0644\u0645\u0631\u0627\u064a\u0629",
+      "url": "https://open.spotify.com/track/0dmDrpb754mYIssprDd6zG"
+    },
+    {
+      "added_at": "2026-07-01 00:00:28",
+      "album": {
+        "name": "MRA",
+        "url": "https://open.spotify.com/album/1Z1cmIGIr3N7mF7JQ6DAHJ"
+      },
+      "artists": [
+        {
+          "name": "EMEL",
+          "url": "https://open.spotify.com/artist/06MtOym27ALcfdtVOsRcaA"
+        }
+      ],
+      "duration_ms": 196887,
+      "name": "Souty",
+      "url": "https://open.spotify.com/track/15J7ANVSWGUglslyyln7mW"
     },
     {
       "added_at": "2026-07-01 00:00:28",
@@ -135,22 +135,6 @@
       "duration_ms": 174275,
       "name": "ANTA",
       "url": "https://open.spotify.com/track/671lamxD9sCeK2yIDdb6At"
-    },
-    {
-      "added_at": "2026-07-01 00:00:28",
-      "album": {
-        "name": "\u0627\u0644\u0645\u0631\u0627\u064a\u0629",
-        "url": "https://open.spotify.com/album/49xZ9aIX5FcUJp68g2zuM7"
-      },
-      "artists": [
-        {
-          "name": "Sherine",
-          "url": "https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI"
-        }
-      ],
-      "duration_ms": 174276,
-      "name": "\u0627\u0644\u0645\u0631\u0627\u064a\u0629",
-      "url": "https://open.spotify.com/track/0dmDrpb754mYIssprDd6zG"
     },
     {
       "added_at": "2026-07-01 00:00:28",
@@ -415,6 +399,22 @@
       "duration_ms": 244897,
       "name": "Baadak Ala Baly",
       "url": "https://open.spotify.com/track/67ubQBuUltyh88TdtJswhJ"
+    },
+    {
+      "added_at": "2026-07-07 13:45:17",
+      "album": {
+        "name": "Bein / \u0628\u064a\u0646",
+        "url": "https://open.spotify.com/album/7LFO6FNMdqbfAd1TNubQjJ"
+      },
+      "artists": [
+        {
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        }
+      ],
+      "duration_ms": 252870,
+      "name": "Lessa Fakerny / \u0644\u0633\u0627 \u0641\u0627\u0643\u0631\u0646\u064a",
+      "url": "https://open.spotify.com/track/7beDwcHwA3aUOrGj460N0a"
     },
     {
       "added_at": "2026-07-01 00:00:28",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-07-01 00:00:28",
       "album": {
-        "name": "Ya Nahla",
-        "url": "https://open.spotify.com/album/4PN02EomiBAsQLVKuivtst"
-      },
-      "artists": [
-        {
-          "name": "Haifa Wehbe",
-          "url": "https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Ya Nahla",
-      "url": "https://open.spotify.com/track/0er5CBzYS2GlYoNU3V4D9X"
-    },
-    {
-      "added_at": "2026-07-01 00:00:28",
-      "album": {
         "name": "Habet Zekraiat",
         "url": "https://open.spotify.com/album/6C407LUwJknjEg0sKQSeS3"
       },
@@ -1145,6 +1129,30 @@
       "url": "https://open.spotify.com/track/0p1K8ARs8n2fli5c7aOimZ"
     },
     {
+      "added_at": "2026-07-07 13:45:17",
+      "album": {
+        "name": "\u0648\u0637\u0646",
+        "url": "https://open.spotify.com/album/1mskw850MVQJUjDByBgDyt"
+      },
+      "artists": [
+        {
+          "name": "Shams",
+          "url": "https://open.spotify.com/artist/16aOQ4QDUhOT8X6iNI04tX"
+        },
+        {
+          "name": "Ma-Beyn",
+          "url": "https://open.spotify.com/artist/56BacvMJfiNke5Sb6VOcQR"
+        },
+        {
+          "name": "Thawra \u062b\u0648\u0631\u0629",
+          "url": "https://open.spotify.com/artist/3uqU20Z1L2gwiBj5rMJfPW"
+        }
+      ],
+      "duration_ms": 147428,
+      "name": "\u0648\u0637\u0646",
+      "url": "https://open.spotify.com/track/4yvNqgm6gvR55oReKgMMqq"
+    },
+    {
       "added_at": "2026-07-01 00:00:28",
       "album": {
         "name": "\u0644\u0648 \u0633\u0627\u0645\u062d\u0646\u0627",
@@ -1159,6 +1167,42 @@
       "duration_ms": 168803,
       "name": "\u0644\u0648 \u0633\u0627\u0645\u062d\u0646\u0627",
       "url": "https://open.spotify.com/track/0mPK1phdFDMa38fY9FmByI"
+    },
+    {
+      "added_at": "2026-07-07 13:45:17",
+      "album": {
+        "name": "ma na\u2019isni",
+        "url": "https://open.spotify.com/album/7tA7HkegCgdZFAxKC3ishK"
+      },
+      "artists": [
+        {
+          "name": "Maria Taktouk",
+          "url": "https://open.spotify.com/artist/207Vgvsb7qqxajcD1LvWoL"
+        }
+      ],
+      "duration_ms": 115863,
+      "name": "ma na\u2019isni",
+      "url": "https://open.spotify.com/track/264pRJzxYHJdTvuuvgNlfB"
+    },
+    {
+      "added_at": "2026-07-07 13:45:17",
+      "album": {
+        "name": "\u0627\u0631\u0636 \u0627\u0644\u0646\u0641\u0627\u0642",
+        "url": "https://open.spotify.com/album/0XpBBQfUzAQjT0CD6LpHVI"
+      },
+      "artists": [
+        {
+          "name": "OMNIA",
+          "url": "https://open.spotify.com/artist/1NOjtTceBgzm8fqf4tAetI"
+        },
+        {
+          "name": "El Sadat",
+          "url": "https://open.spotify.com/artist/6IisxXUD6tPVZhFUCE8Xbn"
+        }
+      ],
+      "duration_ms": 162124,
+      "name": "\u0627\u0631\u0636 \u0627\u0644\u0646\u0641\u0627\u0642",
+      "url": "https://open.spotify.com/track/62d6FsCv63AbrAlAuCPwed"
     },
     {
       "added_at": "2026-07-01 00:00:28",

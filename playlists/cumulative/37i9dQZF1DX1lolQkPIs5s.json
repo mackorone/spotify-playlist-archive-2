@@ -885,24 +885,6 @@
     },
     {
       "album": {
-        "name": "Disney Best Japanese",
-        "url": "https://open.spotify.com/album/6usBI43leSZFRQktMQcUv4"
-      },
-      "artists": [
-        {
-          "name": "Ryuta Yamamoto",
-          "url": "https://open.spotify.com/artist/3riv8ZTBmroQGrncwF029G"
-        }
-      ],
-      "date_added": "2022-12-28",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 253533,
-      "name": "Bokura Ha Hitotsu - Japanese Version",
-      "url": "https://open.spotify.com/track/4L3ILkdcOEqCuWa9sH6FTd"
-    },
-    {
-      "album": {
         "name": "Tokyo Disney Resort Summer Fun!",
         "url": "https://open.spotify.com/album/1jg6m5TvY95Qpu6M8ceN2g"
       },
@@ -5479,6 +5461,24 @@
     },
     {
       "album": {
+        "name": "Disney Best Japanese",
+        "url": "https://open.spotify.com/album/6usBI43leSZFRQktMQcUv4"
+      },
+      "artists": [
+        {
+          "name": "Ryuta Yamamoto",
+          "url": "https://open.spotify.com/artist/3riv8ZTBmroQGrncwF029G"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253533,
+      "name": "We Belong Together - From \"Toy Story 3\"/Japanese Version",
+      "url": "https://open.spotify.com/track/4L3ILkdcOEqCuWa9sH6FTd"
+    },
+    {
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -5918,7 +5918,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 184800,
-      "name": "When She Loved Me - Japanese Version",
+      "name": "When She Loved Me - From \"Toy Story 2\"/Japanese Version",
       "url": "https://open.spotify.com/track/2mBPsVetELPHdVdh2SPBzo"
     },
     {
@@ -6196,7 +6196,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 111866,
-      "name": "Woody's Roundup - Japanese Version",
+      "name": "Woody's Roundup - From \"Toy Story 2\"/Japanese Version",
       "url": "https://open.spotify.com/track/4WDZ9exgD8hJqVQgivqVu0"
     },
     {

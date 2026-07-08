@@ -4,7 +4,7 @@
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: ТУЧА
 
-1,332 songs - 2 day 17 hr 53 min
+1,333 songs - 2 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Drifting Apart](https://open.spotify.com/track/23r7ZtEsRfizA2d54FUzgJ) | [Jamala](https://open.spotify.com/artist/4EXfia20rgVLyubQiYtOIC), [The Erised](https://open.spotify.com/artist/3dU6nnz41NilxdIuPLZ10b) | [Свої](https://open.spotify.com/album/46KUuEg2PhqYnaZQLnMj0Y) | 3:29 | 2026-03-03 | 2026-03-20 |
 | [DVD](https://open.spotify.com/track/5DOUS7y3JEvH5w7ZPlZU6m) | [Shmiska](https://open.spotify.com/artist/0896FugzPOpBDwYEfhMAVY) | [DVD](https://open.spotify.com/album/5o5bCyWIsXJoKZSUiucJi6) | 2:46 | 2025-01-07 | 2026-04-08 |
 | [Earth \(Dradada\)](https://open.spotify.com/track/3waCGj1YKEYeaVs07lbWtX) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Earth \(Dradada\)](https://open.spotify.com/album/5xXILGfkz9CDVg2cV0V4me) | 3:29 | 2025-11-04 | 2025-12-04 |
+| [EROTIC INFERNO](https://open.spotify.com/track/4C4omgpgeTV8RUE91TtZu8) | [ТУЧА](https://open.spotify.com/artist/33dwxPM7czY6r7pQNq3nvQ) | [EROTIC INFERNO](https://open.spotify.com/album/1MLJCcSvIk6jjjfbGTZhPi) | 2:43 | 2026-07-07 |  |
 | [fata Morgana](https://open.spotify.com/track/2rE7qaovc7l4a423BH3bAQ) | [Nesamovyta](https://open.spotify.com/artist/2QDQwTdMmYzoJ4N0taK2Bn) | [fata Morgana](https://open.spotify.com/album/5OiWvwpnpo5H5nlDOdI85s) | 3:06 | 2026-05-05 | 2026-06-03 |
 | [Fatum](https://open.spotify.com/track/4ePXhM7M00XXX5r84DUFRL) | [PROBLEMA](https://open.spotify.com/artist/4RnDiyMmHovpIRHgz5WyTn) | [Fatum](https://open.spotify.com/album/30dLuPO6xju4OTJkC5Vm0W) | 2:03 | 2025-09-02 | 2025-10-01 |
 | [fears](https://open.spotify.com/track/0ksG1Vg4toOwISLBnp2xhP) | [Entely](https://open.spotify.com/artist/5cFCsmewxHM5wQb55vhqTS) | [fears](https://open.spotify.com/album/5Ixovi1vVRQkHm3W4IX3Wx) | 2:23 | 2025-07-01 | 2025-08-06 |
@@ -1131,7 +1132,7 @@
 | [Твій Трек](https://open.spotify.com/track/5XUGLk0NVUPICffAmQTYeT) | [PALMYRA](https://open.spotify.com/artist/1M4uTys4cgGmNVTGBqBzEj) | [Твій Трек](https://open.spotify.com/album/7kF3WJYLZ6XwuofO7l6Z1K) | 2:47 | 2026-05-05 | 2026-06-03 |
 | [те, що тобі потрібно](https://open.spotify.com/track/4aRU8XfY2LjILqtuWuVPe3) | [Хто така Ана?](https://open.spotify.com/artist/6o9BJkwFx5G8FaqNwRfSnV) | [те, що тобі потрібно](https://open.spotify.com/album/3V4BJWHdWuVLUcYpcW4lSb) | 3:17 | 2025-08-05 | 2025-09-03 |
 | [Театр](https://open.spotify.com/track/4cwnOIjFKrnSEBwwuLdThM) | [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Театр](https://open.spotify.com/album/6EirQNLrSsspYFKTiRt5eo) | 2:28 | 2024-07-02 | 2024-08-07 |
-| [Тебе\-себе](https://open.spotify.com/track/23vnEYRBxsgniSbqJZw3pp) | [ТУЧА](https://open.spotify.com/artist/33dwxPM7czY6r7pQNq3nvQ) | [Тебе\-себе](https://open.spotify.com/album/1jFFUtzmG9QIb0P4mCQSJY) | 2:59 | 2025-11-04 |  |
+| [Тебе\-себе](https://open.spotify.com/track/23vnEYRBxsgniSbqJZw3pp) | [ТУЧА](https://open.spotify.com/artist/33dwxPM7czY6r7pQNq3nvQ) | [Тебе\-себе](https://open.spotify.com/album/1jFFUtzmG9QIb0P4mCQSJY) | 2:59 | 2025-11-04 | 2026-07-08 |
 | [телепорт](https://open.spotify.com/track/1mcX8qO0JlBiDFH3AMszWO) | [SESTRA BLYZNYUCHKA](https://open.spotify.com/artist/07wX92iwQAz5vXfU9GGcJO) | [телепорт](https://open.spotify.com/album/6x8FH3ryrYlbUXE3NaAf5E) | 4:10 | 2025-09-30 | 2025-11-05 |
 | [телепорт](https://open.spotify.com/track/1aLMM5FLiifzwlI38FvlSQ) | [sestro](https://open.spotify.com/artist/2oVPHq1jxeZbjlr3hXkp7q) | [фахівчиня з кохання](https://open.spotify.com/album/27zd3qxg5kumpKRlX84lbY) | 4:10 | 2025-12-03 | 2026-01-15 |
 | [ТЕЛЕПОРТ](https://open.spotify.com/track/0q8EiSKKb5DH0zXcckooSv) | [Уляна Шуба](https://open.spotify.com/artist/2bNFeJdA9ic5U3yhMg9Jji) | [ТЕЛЕПОРТ](https://open.spotify.com/album/2WtbnZXBdP4RRIITkH3MRy) | 2:26 | 2026-04-07 | 2026-05-06 |

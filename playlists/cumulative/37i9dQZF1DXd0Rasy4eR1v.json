@@ -1530,8 +1530,8 @@
       },
       "artists": [
         {
-          "name": "Rafae",
-          "url": "https://open.spotify.com/artist/1zNTZaTb1hfkZCynCw6kUq"
+          "name": "Rafae Bokhari",
+          "url": "https://open.spotify.com/artist/48ZE3YLMktVHKnX78oNUUm"
         }
       ],
       "date_added": "2026-05-01",
@@ -2170,6 +2170,24 @@
       "duration_ms": 213199,
       "name": "Ayza",
       "url": "https://open.spotify.com/track/2P9iGYlazDNb71rl6NZQ7a"
+    },
+    {
+      "album": {
+        "name": "Azaad",
+        "url": "https://open.spotify.com/album/4IBTuvBSB6zyDMe16WgPYG"
+      },
+      "artists": [
+        {
+          "name": "Azhar Ali",
+          "url": "https://open.spotify.com/artist/10wfQ2iksyP08eyX6oCCwh"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191725,
+      "name": "Azaad",
+      "url": "https://open.spotify.com/track/14iVRVliNz2dSha2VBp6EJ"
     },
     {
       "album": {
@@ -11777,6 +11795,24 @@
     },
     {
       "album": {
+        "name": "Judai",
+        "url": "https://open.spotify.com/album/2ktS1jruDiSf9eBF7snNWz"
+      },
+      "artists": [
+        {
+          "name": "Saad Hassan",
+          "url": "https://open.spotify.com/artist/3mHp9Ih5L1ramMAddBND3T"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173684,
+      "name": "Judai",
+      "url": "https://open.spotify.com/track/0dIc1TF9GOxbtZtl1lmr5c"
+    },
+    {
+      "album": {
         "name": "Judai Ka Gham",
         "url": "https://open.spotify.com/album/30jTSiAIZW4sA55G7yAy4q"
       },
@@ -19873,6 +19909,24 @@
     },
     {
       "album": {
+        "name": "Restless",
+        "url": "https://open.spotify.com/album/4GZxnXeQbB84bZsl04jH8y"
+      },
+      "artists": [
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126593,
+      "name": "Restless",
+      "url": "https://open.spotify.com/track/65ARiqajzzTBPc2QPR1QtA"
+    },
+    {
+      "album": {
         "name": "Gulistan (Janoobi) / Side Down",
         "url": "https://open.spotify.com/album/2y1DBEaQkKv8fQyhWd1mn6"
       },
@@ -25134,6 +25188,24 @@
       "duration_ms": 220800,
       "name": "Tumharay Wala Gana",
       "url": "https://open.spotify.com/track/5fEN7R3R8WBbinhFLUgpDn"
+    },
+    {
+      "album": {
+        "name": "Tuu",
+        "url": "https://open.spotify.com/album/36Yk7ihl4tQd1XbCtPjbBs"
+      },
+      "artists": [
+        {
+          "name": "Hamza Akhund",
+          "url": "https://open.spotify.com/artist/4jQFSxnugMPz4S9sB88Oiq"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201466,
+      "name": "Tuu",
+      "url": "https://open.spotify.com/track/45VNQPuFH1W2MwaoI5jTvj"
     },
     {
       "album": {

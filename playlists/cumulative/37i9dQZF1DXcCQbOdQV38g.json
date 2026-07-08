@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Het zomergevoel met Nederlandstalig \u2600\ufe0f\ud83e\udde1. Cover: Donnie & Senna",
+  "description": "Senna kiest haar 20 NL hits voor zomer ID \ud83d\udc51 hollandse zomerheld. <a href=\"spotify:genre:0JQ5DAqbMKFHoCrqEupC7P\">Welke zomer ID ben jij?</a>",
   "name": "Nederlandse Zomerhits 2026",
   "tracks": [
     {
@@ -72,6 +72,24 @@
       "duration_ms": 195249,
       "name": "Aan het strand van Porto Rico",
       "url": "https://open.spotify.com/track/47qKUg1zUm6UdHvR8JIz7W"
+    },
+    {
+      "album": {
+        "name": "Senna",
+        "url": "https://open.spotify.com/album/0K3ZI0ZK70IC77HdYsomsG"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166909,
+      "name": "Alles",
+      "url": "https://open.spotify.com/track/3M6C5q9Eh6xtWymtQLjH4V"
     },
     {
       "album": {
@@ -186,7 +204,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 207733,
       "name": "Als Ik Je Weer Zie",
       "url": "https://open.spotify.com/track/3yraHvsUkmnJjGhOrx1CSg"
@@ -447,6 +465,24 @@
     },
     {
       "album": {
+        "name": "Carrousel",
+        "url": "https://open.spotify.com/album/2wuTAaWW0o7bekWpxL4f5J"
+      },
+      "artists": [
+        {
+          "name": "Monique Smit",
+          "url": "https://open.spotify.com/artist/5z4lUxGyk6fWkbqoITgJTv"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166010,
+      "name": "Carrousel",
+      "url": "https://open.spotify.com/track/2AplEaVcnOr9HrjESXJhz1"
+    },
+    {
+      "album": {
         "name": "CD van mij",
         "url": "https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a"
       },
@@ -542,6 +578,24 @@
       "duration_ms": 164170,
       "name": "De Eerste Keer",
       "url": "https://open.spotify.com/track/4o1Hhg6PfdbsWGtfy9ARBs"
+    },
+    {
+      "album": {
+        "name": "De Enige",
+        "url": "https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "De Enige",
+      "url": "https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk"
     },
     {
       "album": {
@@ -1115,6 +1169,24 @@
     },
     {
       "album": {
+        "name": "Jouw Blik",
+        "url": "https://open.spotify.com/album/1nsSemfOY3jGrPmBdWAhst"
+      },
+      "artists": [
+        {
+          "name": "John West",
+          "url": "https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219640,
+      "name": "Jouw Blik",
+      "url": "https://open.spotify.com/track/3kkb0mHyZJTFGrzaUscnkh"
+    },
+    {
+      "album": {
         "name": "Hard Work Pays Off 2",
         "url": "https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9"
       },
@@ -1407,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "Maak Me Gek",
+        "url": "https://open.spotify.com/album/0i45L4c4qL4M4TJtASfPiT"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Maak Me Gek",
+      "url": "https://open.spotify.com/track/2NRM0hWzeQkkiY2qMKBkPg"
+    },
+    {
+      "album": {
         "name": "Matcha Coco",
         "url": "https://open.spotify.com/album/70jZhmkexGwpMunmQj3TLs"
       },
@@ -1456,6 +1546,24 @@
       "duration_ms": 128014,
       "name": "Meisje",
       "url": "https://open.spotify.com/track/0rRmWgbfX5My6XY0gTa6TF"
+    },
+    {
+      "album": {
+        "name": "Misschien Is Het Tijd",
+        "url": "https://open.spotify.com/album/4SyQopHqsRexQCsxaADSRa"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177169,
+      "name": "Misschien Is Het Tijd",
+      "url": "https://open.spotify.com/track/0u0eIoOtfk3u7f6BNPJhWm"
     },
     {
       "album": {
@@ -1660,6 +1768,24 @@
       "duration_ms": 160123,
       "name": "Ontspanje",
       "url": "https://open.spotify.com/track/48KPcjyxKelpllNWMcUBQ3"
+    },
+    {
+      "album": {
+        "name": "Toppers Mega Party Mix Vol. 2",
+        "url": "https://open.spotify.com/album/0AMRJGtOvvputWXtPYsOCX"
+      },
+      "artists": [
+        {
+          "name": "De Toppers",
+          "url": "https://open.spotify.com/artist/77OXNKbzOTqmzhSdHPS187"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242000,
+      "name": "Over De Top!",
+      "url": "https://open.spotify.com/track/331VL6rgKYhIaj0w6pBfes"
     },
     {
       "album": {
@@ -1997,6 +2123,32 @@
     },
     {
       "album": {
+        "name": "Tour de Frans (Hey Fransie)",
+        "url": "https://open.spotify.com/album/0cgw4g3NdnWms9NcPL2P93"
+      },
+      "artists": [
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        },
+        {
+          "name": "De Voorhoede",
+          "url": "https://open.spotify.com/artist/30P6li7INhXvV1XIPKlMBU"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143636,
+      "name": "Tour de Frans (Hey Fransie)",
+      "url": "https://open.spotify.com/track/59Gt0pczJlB8zYTUqdKzxC"
+    },
+    {
+      "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/30N0u0pWGa9VuPuWvMUjhA"
       },
@@ -2056,7 +2208,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 178708,
       "name": "Tussen Jou en Mij",
       "url": "https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6"
@@ -2217,6 +2369,24 @@
     },
     {
       "album": {
+        "name": "Vespa",
+        "url": "https://open.spotify.com/album/5MYGAgMj7Z46h0znl6eeMb"
+      },
+      "artists": [
+        {
+          "name": "Dave Dekker",
+          "url": "https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184580,
+      "name": "Vespa",
+      "url": "https://open.spotify.com/track/2zvXfv3Cog6MIVEnPDzbp4"
+    },
+    {
+      "album": {
         "name": "Viva Cerveza",
         "url": "https://open.spotify.com/album/7ixC4AILz1abKijIuBtdvD"
       },
@@ -2254,6 +2424,28 @@
       "duration_ms": 153947,
       "name": "Voor de straten",
       "url": "https://open.spotify.com/track/1KEnIOAe6vLqj7uNvLOCn9"
+    },
+    {
+      "album": {
+        "name": "Vuurwerk",
+        "url": "https://open.spotify.com/album/6Q3K5puUGxM4OChACZbBPf"
+      },
+      "artists": [
+        {
+          "name": "Senna",
+          "url": "https://open.spotify.com/artist/4oMzH6lIWPhCdx7KADXLJZ"
+        },
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Vuurwerk",
+      "url": "https://open.spotify.com/track/5gFNiSyU6MJBcWU31ATJgh"
     },
     {
       "album": {
@@ -2400,7 +2592,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-16",
+      "date_removed": null,
       "duration_ms": 142965,
       "name": "Zandloopster",
       "url": "https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl"
@@ -2602,6 +2794,24 @@
       "duration_ms": 167002,
       "name": "Zomernacht In Griekenland",
       "url": "https://open.spotify.com/track/3OpUqZZuzcibtcWqgyCyPn"
+    },
+    {
+      "album": {
+        "name": "10 Jaar (Het Beste Van)",
+        "url": "https://open.spotify.com/album/3ppezWZtcDv3O1RB5IGuNV"
+      },
+      "artists": [
+        {
+          "name": "Django Wagner",
+          "url": "https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169120,
+      "name": "Zwarte Haren, Zwoele Gitaren",
+      "url": "https://open.spotify.com/track/1CgM5H9fz0V82OFEpCBAaW"
     },
     {
       "album": {

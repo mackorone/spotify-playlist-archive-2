@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,878 likes - 77 songs - 4 hr 38 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 1,878 likes - 79 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,5 +85,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 75 | [Starfalls](https://open.spotify.com/track/6ZovhFOyc06N6HIYXm0HiG) | [the sets](https://open.spotify.com/artist/3HmGzhNX02d5uG5ZSwI2my) | [Starfalls](https://open.spotify.com/album/0i15SKz5PoOeRv7NsgadK6) | 3:14 |
 | 76 | [Someone Else's Day](https://open.spotify.com/track/721821c6VMPC4uRmUciT4I) | [Neatly Drawn Blinds](https://open.spotify.com/artist/1ZWxWqVwTX6GOuXNn9L4hY) | [Someone Else's Day](https://open.spotify.com/album/35u9wOG99ZNhkdkHOsGYsW) | 3:03 |
 | 77 | [Ridin'](https://open.spotify.com/track/6grMfwV4ObyviLICT967F7) | [Evan Shapiro](https://open.spotify.com/artist/0UILmPMs55OVehWiVAoFTc), [David J\. Michalak](https://open.spotify.com/artist/3SgiNaCNy5hVnqi0lc5VYv) | [Ridin'](https://open.spotify.com/album/2fmKXOMnrCF9kgevQekIPL) | 3:07 |
+| 78 | [Blodwyn](https://open.spotify.com/track/5UFmMdHSFqbWXQJoAbppSm) | [Moss Meredith](https://open.spotify.com/artist/3DL8xk1UlC6kPkrlbTHA56) | [Blodwyn](https://open.spotify.com/album/6UUxFXo46hihB0aOxV5kPq) | 3:20 |
+| 79 | [Over It](https://open.spotify.com/track/2kj6TZScNoIT7XkmHaNzf5) | [Michael Barrow & the Tourists](https://open.spotify.com/artist/1mhe70fSiQDyc16JVlhBUE) | [Over It](https://open.spotify.com/album/2QMH3GnAnZDiHobPxWdlYI) | 3:11 |
 
-Snapshot ID: `AAACwS5nlaiA4CU0TQezJpLnBjXqkkxF`
+Snapshot ID: `AAACw8R9uUMm8W2boQONH35+MjWRWPiW`

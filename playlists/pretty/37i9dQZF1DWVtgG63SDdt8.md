@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Seph Schlueter
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,060 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,083 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 41 | [BRIGHTSIDE](https://open.spotify.com/track/4MVtatngW7MKOp8mF3eVYA) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc) | [BRIGHTSIDE](https://open.spotify.com/album/3YW5GQekAtAus55D00IGnb) | 2:21 |
 | 42 | [CROSSWALK 2](https://open.spotify.com/track/56z9sSwZjTi9kUfAjz8Bvh) | [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [CROSSWALK 2](https://open.spotify.com/album/2XeTy39M3UW5rCajmWPI2J) | 2:06 |
 | 43 | [365](https://open.spotify.com/track/2xdgKKv1aORyM96EXZ5IIB) | [George.Rose](https://open.spotify.com/artist/7AJE27ja4FObVGxuaC5mLr) | [365](https://open.spotify.com/album/42NeKtEr7seu6zp6UYvl4R) | 2:12 |
-| 44 | [HIM](https://open.spotify.com/track/2wbUFKHqifx7DN7DH1x9Ah) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [HIM](https://open.spotify.com/album/4zBwwRTkdnqDJpUBc3wQC2) | 2:15 |
+| 44 | [HIM](https://open.spotify.com/track/2wbUFKHqifx7DN7DH1x9Ah) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [HIM](https://open.spotify.com/album/4zBwwRTkdnqDJpUBc3wQC2) | 1:49 |
 | 45 | [400 Down](https://open.spotify.com/track/1g4IKIdKCx12iox1JPD6bR) | [LANELL GRANT](https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ) | [400 Down](https://open.spotify.com/album/6PXoM9qRW5BiS3WpEGKasf) | 3:15 |
 | 46 | [STAY CONTENDING](https://open.spotify.com/track/0wQ8YiWHCKGHuz6jHiLrTF) | [BigGucciDame](https://open.spotify.com/artist/6mjDlBKzYcYavIYfOfQLKi) | [STAY CONTENDING](https://open.spotify.com/album/21BOoHrQYNgurlyABOuH2C) | 2:03 |
 | 47 | [AIMBOT](https://open.spotify.com/track/2kTASX0PcD0DaC0vCLZ4Mc) | [Vennisay](https://open.spotify.com/artist/47fuPz0K0cyruPcpXiBo2W) | [AIMBOT](https://open.spotify.com/album/7jkmnIxU1bUlj6QUNkkZZw) | 1:23 |

@@ -4,7 +4,7 @@
 
 > Playlist
 
-650 songs - 1 day 14 hr 27 min
+651 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -631,6 +631,7 @@
 | [Wall of Confusion](https://open.spotify.com/track/5f9XvekimFHccSaI9gIQz9) | [Fellini Félin](https://open.spotify.com/artist/1FTFy5sAOlZpN6GY6s9VLh) | [Wall of Confusion](https://open.spotify.com/album/1SzbwG19WPecGBsl1S9Fu1) | 3:50 | 2023-10-25 |  |
 | [Water Fall](https://open.spotify.com/track/6bvR0Hgfwq7DYxVue9yHmV) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [Nature Machine](https://open.spotify.com/album/5aMAsRYLO0tdxQHGzbGkHS) | 3:14 | 2023-10-25 |  |
 | [What Ever It May Be](https://open.spotify.com/track/7rj18BeidDwvzWAbQgbffM) | [Diamond Cafe](https://open.spotify.com/artist/5iy5vWoWLniL8EMg5pFRrh) | [What Ever It May Be](https://open.spotify.com/album/3cjiYBTwHHXEsA08KPpyaT) | 4:00 | 2023-10-25 |  |
+| [What's Left](https://open.spotify.com/track/6BVBo1swmcIPvOTWMRiKz6) | [BowAsWell](https://open.spotify.com/artist/6apmV6knOKD1iACyE9wRLe) | [What's Left](https://open.spotify.com/album/6ZF3IjNJ9XgrUxzZWc0vGl) | 2:47 | 2026-07-07 |  |
 | [Whatever You Want](https://open.spotify.com/track/2pSiVaQmJSnmROlgSx2tzD) | [Sunfruits](https://open.spotify.com/artist/0ihk9wQDn5mHeCYTkgj6gy) | [Certified Organic](https://open.spotify.com/album/5ymG66yGKMJCwJ9kcu3qTy) | 3:24 | 2023-10-25 |  |
 | [Where In The World](https://open.spotify.com/track/0a7tZWPIi3QQvlxHjaeUfS) | [John Moods](https://open.spotify.com/artist/49H7TP0j57PzefFWfHZGJb) | [The Essential John Moods](https://open.spotify.com/album/6yluHZ4EXwXBrjecaBcgwP) | 4:37 | 2023-10-25 |  |
 | [While the Coffee Brews](https://open.spotify.com/track/61fc6AqDklxWHuKwyRVmHE) | [Joe Ghatt](https://open.spotify.com/artist/2YiwZQDl2NHiYXTggmtDZ3) | [Banana Sludge](https://open.spotify.com/album/1UukPqBYfdN54f5RSvSxt0) | 1:45 | 2023-10-25 |  |

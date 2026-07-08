@@ -1,12 +1,12 @@
 {
   "description": "This is Zolita. The essential tracks, all in one playlist.",
-  "num_followers": 3190,
+  "num_followers": 3191,
   "original_name": "This Is Zolita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akmegAAAAADhAL39jE6QTSMyI2AgPHrJ",
+  "snapshot_id": "akrwAAAAAAAzQXqFf26YQJGCQv2u6Tm3",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sappho",
-        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
+        "name": "Evil Angel",
+        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 216971,
-      "name": "Come Home With Me",
-      "url": "https://open.spotify.com/track/2IUZ5ifH9R13RoK8X70lgF"
+      "duration_ms": 169871,
+      "name": "Bedspell",
+      "url": "https://open.spotify.com/track/0486NoRItdcZ1k42ErhWHG"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evil Angel",
-        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
+        "name": "Sappho",
+        "url": "https://open.spotify.com/album/5BfoUXzblFJcVAqIjy3rJx"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 169871,
-      "name": "Bedspell",
-      "url": "https://open.spotify.com/track/0486NoRItdcZ1k42ErhWHG"
+      "duration_ms": 216971,
+      "name": "Come Home With Me",
+      "url": "https://open.spotify.com/track/2IUZ5ifH9R13RoK8X70lgF"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Immaculate Conception",
-        "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
+        "name": "Evil Angel",
+        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 210500,
-      "name": "Explosion",
-      "url": "https://open.spotify.com/track/6endOGznHKDNpOtC2DHc2V"
+      "duration_ms": 149373,
+      "name": "Loveline",
+      "url": "https://open.spotify.com/track/5oLim0g3AnZSay3a6U7KTT"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evil Angel",
-        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
+        "name": "Immaculate Conception",
+        "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 149373,
-      "name": "Loveline",
-      "url": "https://open.spotify.com/track/5oLim0g3AnZSay3a6U7KTT"
+      "duration_ms": 210500,
+      "name": "Explosion",
+      "url": "https://open.spotify.com/track/6endOGznHKDNpOtC2DHc2V"
     },
     {
       "added_at": null,
@@ -459,6 +459,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Falling Out / Falling In",
+        "url": "https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Drunk with Your Exes",
+      "url": "https://open.spotify.com/track/2EyKyp1GPK6xhJSoVi4WRk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Evil Angel",
         "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
       },
@@ -491,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Falling Out / Falling In",
-        "url": "https://open.spotify.com/album/6G7ApRsQqJ94dEwgV5bykb"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Drunk with Your Exes",
-      "url": "https://open.spotify.com/track/2EyKyp1GPK6xhJSoVi4WRk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Evil Angel (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr"
       },
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evil Angel",
-        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 150233,
-      "name": "Drag Me to Hell",
-      "url": "https://open.spotify.com/track/79HDP4qmwaVq0mdajHOwhk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Immaculate Conception",
         "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 209230,
       "name": "Kill for You",
       "url": "https://open.spotify.com/track/1ciiCR9U41zWj3JrMfHTyi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evil Angel",
+        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 150233,
+      "name": "Drag Me to Hell",
+      "url": "https://open.spotify.com/track/79HDP4qmwaVq0mdajHOwhk"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evil Angel",
-        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 215002,
-      "name": "Truth Tea",
-      "url": "https://open.spotify.com/track/5bognKHojz6lQ7EzangIpr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Immaculate Conception",
         "url": "https://open.spotify.com/album/6yQDhrI79pfK0n07dh0ZE7"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 219428,
       "name": "Drug Me Now",
       "url": "https://open.spotify.com/track/1bKyqptWUV3LYj5I7GpcPM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evil Angel",
+        "url": "https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO"
+      },
+      "artists": [
+        {
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
+        }
+      ],
+      "duration_ms": 215002,
+      "name": "Truth Tea",
+      "url": "https://open.spotify.com/track/5bognKHojz6lQ7EzangIpr"
     },
     {
       "added_at": null,

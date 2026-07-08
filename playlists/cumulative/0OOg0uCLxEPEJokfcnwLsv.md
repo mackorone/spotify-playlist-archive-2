@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-570 songs - 1 day 11 hr 17 min
+572 songs - 1 day 11 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,9 @@
 | [Cut and Sell](https://open.spotify.com/track/0L6sh94exzCeYzP3s72a4v) | [The Homme](https://open.spotify.com/artist/4U836xTjRfFYfYctNxJFmm) | [Cut and Sell](https://open.spotify.com/album/11dGTJWrlOQMTOliQgi5vn) | 2:43 | 2026-03-14 | 2026-04-20 |
 | [Cut It Out!](https://open.spotify.com/track/2Hyalx0ms1xibr1QTZebGm) | [moberod](https://open.spotify.com/artist/49lLlq5yOsfgHQnypG2Cdd) | [Cut It Out!](https://open.spotify.com/album/5c0HNhPuGroOZnioWziNuk) | 2:57 | 2025-10-30 | 2026-02-04 |
 | [DaDeDaDe](https://open.spotify.com/track/2WMciepfmL3gvvKLiIxrQ4) | [The Jaded Lips](https://open.spotify.com/artist/6orV08XQAM5wA7Sm1BlrLx) | [DaDeDaDe](https://open.spotify.com/album/7BG4HfGQGDtLoP6Lu4gpye) | 3:42 | 2025-12-22 | 2026-01-21 |
+| [Dale Hodges Park](https://open.spotify.com/track/3VzzN4kUiTfZvfemrHAADM) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [Dale Hodges Park](https://open.spotify.com/album/0qqQff2wJfCNI9PdxhIdL1) | 3:27 | 2026-07-07 |  |
 | [DANNATAMENTE IO](https://open.spotify.com/track/4PJQKJ4IftAH8mOI0soGPh) | [Occulta Sententia](https://open.spotify.com/artist/7FXDan2bxS8Bym5nYX59Jo) | [DANNATAMENTE IO](https://open.spotify.com/album/3qK2RQk2nWEgd01kQrxLhn) | 4:59 | 2025-11-09 | 2025-12-12 |
+| [Daydream](https://open.spotify.com/track/6EnM2pjd6pfZyWHW8YSUb6) | [Dimestore Freud](https://open.spotify.com/artist/1B7AZ6JiZQr6bflYaBD2g6) | [It's a Bit Fuzzy](https://open.spotify.com/album/2wpFHMzqhqjCKXtCCenuq4) | 4:05 | 2026-07-07 |  |
 | [Dayglo](https://open.spotify.com/track/3QQFWRQrpvM4O1EioIQomK) | [Silver Shores](https://open.spotify.com/artist/7laeihpH4jaoYZhJtZ25Kd) | [Dayglo](https://open.spotify.com/album/6FAdnYTdRTjBlFlLljiKb7) | 3:43 | 2025-10-27 |  |
 | [Days Left](https://open.spotify.com/track/4LFiGNamRP1TPzuvInlPaF) | [Jack McAvoy](https://open.spotify.com/artist/4QYbVdn9w0qspZfZqkrig0) | [Days Left](https://open.spotify.com/album/0vU2qPz08KfsaTLtmLWwbF) | 3:32 | 2026-03-28 | 2026-04-20 |
 | [Dead End](https://open.spotify.com/track/03EWzWAQDs0KMbbk05SSig) | [FINAL STRAW](https://open.spotify.com/artist/6D6wRuIYcm8oqBPRKSUC3N) | [Dead End](https://open.spotify.com/album/306Mst70kA0CJOSj0X8BBz) | 5:45 | 2026-02-20 | 2026-03-22 |

@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: miaw
 
-308 songs - 17 hr 50 min
+309 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [The tangible participant](https://open.spotify.com/track/1TpSk3O5QjHL0swwHCEk3W) | [isobel](https://open.spotify.com/artist/6m5hsSoDJX5LFsRFUk9DVx) | [Light weight](https://open.spotify.com/album/46pIzmIhR5egQRNxf1KCtC) | 2:41 | 2025-11-21 | 2026-03-20 |
 | [The Turning Ground](https://open.spotify.com/track/6F7j171ZkccR3gA57cLqRR) | [Tara Clerkin Trio](https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F) | [On The Turning Ground](https://open.spotify.com/album/7GAK47rAg2VuMb47HOXdK2) | 4:25 | 2025-05-08 | 2026-03-07 |
 | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/track/02UC3kQj8XFMqW1oeVo9xD) | [Yndling](https://open.spotify.com/artist/2X2ErfWZbEsawLjylqXM3m) | [Time Time Time \(I'm in the Palm of Your Hand\)](https://open.spotify.com/album/0TR7apW2BNQZgnsqFa4KAG) | 3:30 | 2025-10-17 |  |
+| [Time Will Help](https://open.spotify.com/track/1C0LH8rIuyoPQVzBJNhxwm) | [Tigeroak](https://open.spotify.com/artist/5438LSbtMXzEmfe0qZRff0), [Teis Ortved](https://open.spotify.com/artist/5GgzMnW2NLZDoCtR2K3S5X) | [Time Will Help](https://open.spotify.com/album/1UDR8zmbOrEuRg83q1wbRU) | 3:59 | 2026-07-07 |  |
 | [TMN](https://open.spotify.com/track/1atGiLsGuzJ5SduA6vVvrG) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Ydegirl](https://open.spotify.com/artist/3YAUbceL2MyJfajlikdn1V) | [TMN](https://open.spotify.com/album/0yLlTZNuMUYqCx8zktCIWD) | 2:51 | 2025-05-08 | 2025-05-16 |
 | [To trust you](https://open.spotify.com/track/3zf4EScGKx7KCGAkGJIiUv) | [Becky and the Birds](https://open.spotify.com/artist/52MMXmgPC7kDNIYUxCeh8d) | [To trust you](https://open.spotify.com/album/55OpcIldEWmmgvg6rmmE98) | 2:27 | 2025-03-13 |  |
 | [together](https://open.spotify.com/track/2yr8vl7DazLslCkbHMp4E3) | [NEW YORK](https://open.spotify.com/artist/6SLzOcVFLuSRuJ0DNOpz0Z) | [together](https://open.spotify.com/album/11eCriEtwr1U28laSYqK1q) | 2:54 | 2025-08-08 |  |

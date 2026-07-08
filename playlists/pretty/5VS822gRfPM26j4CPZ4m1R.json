@@ -1,13 +1,29 @@
 {
   "description": "Playlist",
-  "num_followers": 18077,
+  "num_followers": 18078,
   "original_name": "Nice Guys | 24/7 Radio",
   "owner": {
     "name": "Nice Guys",
     "url": "https://open.spotify.com/user/vns8t2j9vmjlada5b8ximt9jc"
   },
-  "snapshot_id": "AAAMhREsxl+aSRm9tAms1i0uNObwFL9C",
+  "snapshot_id": "AAAMhpixshgEB40WZ6vUfr0/K/amWI31",
   "tracks": [
+    {
+      "added_at": "2026-07-07 07:02:20",
+      "album": {
+        "name": "What's Left",
+        "url": "https://open.spotify.com/album/6ZF3IjNJ9XgrUxzZWc0vGl"
+      },
+      "artists": [
+        {
+          "name": "BowAsWell",
+          "url": "https://open.spotify.com/artist/6apmV6knOKD1iACyE9wRLe"
+        }
+      ],
+      "duration_ms": 167351,
+      "name": "What's Left",
+      "url": "https://open.spotify.com/track/6BVBo1swmcIPvOTWMRiKz6"
+    },
     {
       "added_at": "2026-07-02 10:39:01",
       "album": {

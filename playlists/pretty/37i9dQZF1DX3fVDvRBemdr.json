@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste Hollands & Volkspop releases. Cover: Afro Bros, John West, Billy Dans & Monq",
-  "num_followers": 156270,
+  "num_followers": 156267,
   "original_name": "Liever Hollands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIsy98uzb+ep/s44rnZk692NioFd",
+  "snapshot_id": "AAAAAItWWK2yloBDr2ToDsFUniNtln/O",
   "tracks": [
     {
       "added_at": "2026-07-02 22:01:33",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-07-02 22:01:33",
       "album": {
+        "name": "Tinto de Verano",
+        "url": "https://open.spotify.com/album/4nRx85n55feU3DcUj6rJ0p"
+      },
+      "artists": [
+        {
+          "name": "Joey Nicolay",
+          "url": "https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG"
+        }
+      ],
+      "duration_ms": 146769,
+      "name": "Tinto de Verano",
+      "url": "https://open.spotify.com/track/6jG5fEJ1UEznTOpbV2y6ZP"
+    },
+    {
+      "added_at": "2026-07-02 22:01:33",
+      "album": {
         "name": "Misschien Is Het Tijd",
         "url": "https://open.spotify.com/album/4SyQopHqsRexQCsxaADSRa"
       },
@@ -75,18 +91,22 @@
     {
       "added_at": "2026-07-02 22:01:33",
       "album": {
-        "name": "Tinto de Verano",
-        "url": "https://open.spotify.com/album/4nRx85n55feU3DcUj6rJ0p"
+        "name": "Vamos",
+        "url": "https://open.spotify.com/album/3VFLOwzSK9dJwJcyAkWPL1"
       },
       "artists": [
         {
-          "name": "Joey Nicolay",
-          "url": "https://open.spotify.com/artist/1uCUEXtWoTs2odKdZTbAaG"
+          "name": "Tommy Costa",
+          "url": "https://open.spotify.com/artist/0bWS5y3DvLEICPEdHWDJQ5"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
         }
       ],
-      "duration_ms": 146769,
-      "name": "Tinto de Verano",
-      "url": "https://open.spotify.com/track/6jG5fEJ1UEznTOpbV2y6ZP"
+      "duration_ms": 188758,
+      "name": "Vamos",
+      "url": "https://open.spotify.com/track/7lDR3jmyiy63sKfkI21s9Q"
     },
     {
       "added_at": "2026-07-02 22:01:33",
@@ -191,26 +211,6 @@
       "duration_ms": 178572,
       "name": "Stem In Je Hart",
       "url": "https://open.spotify.com/track/3gDh5tdexIUxKyRvlqXmxk"
-    },
-    {
-      "added_at": "2026-07-02 22:01:33",
-      "album": {
-        "name": "Vamos",
-        "url": "https://open.spotify.com/album/3VFLOwzSK9dJwJcyAkWPL1"
-      },
-      "artists": [
-        {
-          "name": "Tommy Costa",
-          "url": "https://open.spotify.com/artist/0bWS5y3DvLEICPEdHWDJQ5"
-        },
-        {
-          "name": "Lange Frans",
-          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
-        }
-      ],
-      "duration_ms": 188758,
-      "name": "Vamos",
-      "url": "https://open.spotify.com/track/7lDR3jmyiy63sKfkI21s9Q"
     },
     {
       "added_at": "2026-07-02 22:01:33",

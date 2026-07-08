@@ -665,6 +665,24 @@
     },
     {
       "album": {
+        "name": "Project Sidiooo, Vol. 1",
+        "url": "https://open.spotify.com/album/75v6kx1DDN5ARanBzJd7LA"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119443,
+      "name": "Tour Bus",
+      "url": "https://open.spotify.com/track/4GZuQqsXHTjfM1XVkXZ5gD"
+    },
+    {
+      "album": {
         "name": "What You Done",
         "url": "https://open.spotify.com/album/7n1VuZeAEIHwTSFDGlr7vF"
       },

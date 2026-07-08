@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-427 songs - 23 hr 26 min
+428 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Antiphon](https://open.spotify.com/track/2WNuC3r3wnjDYWOifLfe5a) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [Night Walks](https://open.spotify.com/album/0DJF11KZgzQAfhxGxeVE33) | 6:05 | 2020-12-08\* | 2021-03-06 |
 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 | 2020-12-08\* | 2023-07-29 |
 | [Aquarium](https://open.spotify.com/track/1u4qLLYs866O1PArVR5pPs) | [Casino Versus Japan](https://open.spotify.com/artist/5xMtVcziLHpIwD9iNWPOM6) | [Whole Numbers Play The Basics](https://open.spotify.com/album/4HcmQ7of1IgRFzdp0dnrFY) | 4:59 | 2020-12-25 | 2021-05-27 |
-| [Arp Of Life](https://open.spotify.com/track/7fP6eS6gtTs0xSAE9LvyEq) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:18 | 2020-12-08\* |  |
+| [Arp Of Life](https://open.spotify.com/track/7fP6eS6gtTs0xSAE9LvyEq) | [Bjørg Stigbjørnson](https://open.spotify.com/artist/6XrReT7PSQUBR0LipHQxMn) | [Á Eftir](https://open.spotify.com/album/06COtedhFaIxlBSR2ZEteM) | 3:18 | 2020-12-08\* | 2026-07-08 |
 | [As It Rains](https://open.spotify.com/track/2nbPPCx73Ls5zUr4WqeeFh) | [Køsk Skriner](https://open.spotify.com/artist/373GwyozV3SJ9WC59MtwZu) | [As It Rains](https://open.spotify.com/album/4EstNIZ9eLhWw4utX8yHsA) | 2:19 | 2025-05-14 | 2026-02-13 |
 | [Ashes](https://open.spotify.com/track/4SSEGcMR6QGz6U0vRQ8Lsk) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Ashes](https://open.spotify.com/album/7vJco1Uvoefx2kbHsY8yHb) | 2:23 | 2025-02-26 | 2026-02-13 |
 | [Ashtanga Deep](https://open.spotify.com/track/51KqzonYq7QaXDOHXLguHT) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Ashtanga Deep](https://open.spotify.com/album/4G5YinQNlXd8yLCpaW7fxh) | 2:43 | 2024-03-14 |  |
@@ -96,7 +96,7 @@
 | [clarity](https://open.spotify.com/track/6Foa0catgRYzWrHvpXKgEn) | [Mountain Explorer](https://open.spotify.com/artist/0ZRFQvqH13ouWGPIR0ulSF) | [clarity](https://open.spotify.com/album/3ILTfPyxwlmaeIfltPeHmN) | 3:12 | 2026-02-12 |  |
 | [Clean Slate](https://open.spotify.com/track/58JNVGTyirIg6PHjK6NiwW) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Clean Slate](https://open.spotify.com/album/5GlvVZOr2VHXz3kiOTbJ3n) | 2:31 | 2026-02-12 |  |
 | [Clear moment](https://open.spotify.com/track/5khfKdJXTPsqK6PviRofGE) | [Paulo May](https://open.spotify.com/artist/1S2SOdkafLlGG0LrdubJz8) | [Elevate](https://open.spotify.com/album/1MWyqip0t6nGrWIg1G1yyh) | 3:44 | 2023-01-27 | 2025-03-02 |
-| [climbing](https://open.spotify.com/track/05bXLSRcvUBWiHS5nw6MPj) | [Cosy Kittens](https://open.spotify.com/artist/3Qhm77fx1BlSuwusIYpYxY) | [climbing](https://open.spotify.com/album/1MvnFkJitq1T7Tgnihwagq) | 2:05 | 2023-12-01 | 2026-07-03 |
+| [climbing](https://open.spotify.com/track/05bXLSRcvUBWiHS5nw6MPj) | [Cosy Kittens](https://open.spotify.com/artist/3Qhm77fx1BlSuwusIYpYxY) | [climbing](https://open.spotify.com/album/1MvnFkJitq1T7Tgnihwagq) | 2:05 | 2023-12-01 |  |
 | [Clockwork](https://open.spotify.com/track/1Mkp2QNd6KR24DTf1xlcm1) | [Skycloud](https://open.spotify.com/artist/3M5lh5Ie2gqnN7LkXvojX5) | [Endless](https://open.spotify.com/album/6dvEovpXNRaNhx7fp86frH) | 3:10 | 2022-02-04 | 2026-06-10 |
 | [Clouds Come By](https://open.spotify.com/track/22QpETyov5UfGA9AinrKSu) | [Temperance Space](https://open.spotify.com/artist/2DPK0zJqIfqXdS6R7IVLiO) | [Clouds Come By](https://open.spotify.com/album/4wuAL4aslivLUKRHgn7xHI) | 4:42 | 2020-12-08\* | 2021-07-24 |
 | [Coincide](https://open.spotify.com/track/1ASkdoA6zf0tqfKfnXoZWO) | [Edwin Maled](https://open.spotify.com/artist/3TVebThECevy6ru8naj4h6) | [Coincide](https://open.spotify.com/album/1BkkNmbNMhHUoZBwugCKMp) | 2:14 | 2023-01-20 | 2025-10-03 |
@@ -125,7 +125,7 @@
 | [Depths of Eternity](https://open.spotify.com/track/1Ujn2n8YOeyXbUM4fAlN0A) | [William Roud](https://open.spotify.com/artist/0KhhuDNDaeL6SOVM6K6Lt1) | [Depths of Eternity](https://open.spotify.com/album/0Xau7RoFSvHQSlqSQoqCDQ) | 2:58 | 2020-12-08\* | 2025-02-27 |
 | [Disconnection](https://open.spotify.com/track/53NPmJBDF7X4wnYkahOEGH) | [Sonic Slivers](https://open.spotify.com/artist/4DdKHvFkz6FdVks9TAdttM) | [Disconnection](https://open.spotify.com/album/4vR3ye8Wx2RdA6apR9FgmP) | 2:28 | 2024-05-10 |  |
 | [Discretion](https://open.spotify.com/track/37pkJ1Qm3jL5pHksYLpSGr) | [Ling Larsen](https://open.spotify.com/artist/2bzfRDr0jj74pg0eeGKYzE) | [Discretion](https://open.spotify.com/album/6wdSiLtwjYKzJQKRHpG78k) | 3:40 | 2026-02-12 | 2026-02-25 |
-| [distant star](https://open.spotify.com/track/6IlOnQUzJckb3KXqUXAbVt) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [calm waters & distant star](https://open.spotify.com/album/2KbMBAAeKkXMokJB1yyOZQ) | 2:38 | 2022-09-02 |  |
+| [distant star](https://open.spotify.com/track/6IlOnQUzJckb3KXqUXAbVt) | [nite sky](https://open.spotify.com/artist/6zoOpIO7PCBlRaOP10TdJc) | [calm waters & distant star](https://open.spotify.com/album/2KbMBAAeKkXMokJB1yyOZQ) | 2:38 | 2022-09-02 | 2026-07-08 |
 | [Doff](https://open.spotify.com/track/0gitxF5eauet5HwgtSiLjB) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Doff](https://open.spotify.com/album/2PBu3e1YFNWRZHLdozFIyL) | 3:04 | 2025-01-14 | 2025-11-22 |
 | [Doorways](https://open.spotify.com/track/1XY8MZaDrG873CbAlwrQSd) | [lucen](https://open.spotify.com/artist/6UlxeucXP4ODooKUwGZUNj) | [Doorways](https://open.spotify.com/album/2VdwWQREipL22ZfWYhCX7m) | 1:49 | 2025-07-15 | 2026-02-13 |
 | [Dormandie](https://open.spotify.com/track/6mZjfVhBFzErtyYEX2sEbL) | [Stellarscopees](https://open.spotify.com/artist/663VphTY3ZpSam1nra3WG6) | [Dormandie](https://open.spotify.com/album/01faQGyJDZB7NbQovatqEu) | 2:42 | 2026-02-12 |  |
@@ -343,6 +343,7 @@
 | [Slumber](https://open.spotify.com/track/2664GDzHnFYKktCgd0a506) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Slumber](https://open.spotify.com/album/1zRA3oOscRbH5SfqggrvyO) | 2:35 | 2023-05-19 | 2023-10-22 |
 | [Slumber](https://open.spotify.com/track/6XOJrnG0NtmKAdMCqhzT3C) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Slumber](https://open.spotify.com/album/3B09bJL9eACU7mWdyrsgwT) | 2:35 | 2023-12-01 | 2024-04-19 |
 | [Small Memory](https://open.spotify.com/track/5oXlgW24ELS0P5YkAQcrko) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/2XwHDvLu2aYpX5lMhFPR5F) | 1:40 | 2020-12-08\* | 2022-05-20 |
+| [Snowdrop](https://open.spotify.com/track/25SsGD9QLsIV7KSoBdMmxL) | [Shuta Yasukochi](https://open.spotify.com/artist/68GryM5mhDPrhRzMohl3Ui) | [Snowdrop](https://open.spotify.com/album/3wmHrSVdURdRlNww5p1XLW) | 3:30 | 2026-07-07 |  |
 | [Soak It Up](https://open.spotify.com/track/2MjJ8ajY6WfoCChcA74olC) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [All Night](https://open.spotify.com/album/06zYYJUeDmFAmnDrwJPRMJ) | 4:04 | 2020-12-08\* | 2021-03-06 |
 | [socks on moss](https://open.spotify.com/track/1ER6PULa9Dqmf87fZ0LXHb) | [floating echoes](https://open.spotify.com/artist/1ai55OO2IZmkx2Eeze4bbe) | [socks on moss](https://open.spotify.com/album/6m4VgI55hgiHEXRqBd9TXn) | 4:53 | 2025-10-01 | 2026-02-13 |
 | [Sol](https://open.spotify.com/track/78s9ENMqB5MBgV8nhP3ogF) | [Solar Fields](https://open.spotify.com/artist/7GyhmlEy51sGUE09A5AWzc) | [Movements](https://open.spotify.com/album/4nICR7VmmfEp78mfcZ4WUC) | 8:31 | 2020-12-08\* | 2021-01-30 |

@@ -4,7 +4,7 @@
 
 > Boys groups/solo artists shining beyond borders\.  グローバルに活躍するボーイズグループ/ソロアーティストを一つのプレイリストに。Cover: BE:FIRST
 
-1,034 songs - 2 day 8 hr 8 min
+1,036 songs - 2 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Diamonds](https://open.spotify.com/track/6ePcctSJw3azgink6S2QTw) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [Diamonds](https://open.spotify.com/album/75ST1ttxNj07ds4erJcPV2) | 3:26 | 2024-01-02 | 2024-05-01 |
 | [Dirty Shoes Swag](https://open.spotify.com/track/3liBCaxGAOOCFo3IIfUND6) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [MATCH UP](https://open.spotify.com/album/7xUrbdyZf1Vky1E8vXbeqW) | 3:20 | 2024-02-13 | 2024-03-06 |
 | [Disco Baby](https://open.spotify.com/track/4Lvm9SuwemRTnzWcJ8YflI) | [Travis Japan](https://open.spotify.com/artist/28IJpwoVi5R92MtHxkj2Lk) | [Disco Baby](https://open.spotify.com/album/07deGkma8dlmxOvB9wvhY0) | 3:46 | 2025-10-26 | 2025-11-08 |
+| [Do Don PA!!](https://open.spotify.com/track/6CFDDU2je7z8G8ZUKFe3im) | [BALLISTIK BOYZ from EXILE TRIBE](https://open.spotify.com/artist/1dZ8IZ8BXP30yhG50TH06o) | [Do Don PA!!](https://open.spotify.com/album/6Ikoqvn9ZEHgygFWKTEO0E) | 3:27 | 2026-07-07 |  |
 | [Do It](https://open.spotify.com/track/56Fu41EhpsPqqfDZsj3eaN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [DO IT](https://open.spotify.com/album/1Cw6UG5nVm6967rVKe0ciw) | 2:39 | 2025-11-21 | 2026-05-19 |
 | [Do What I Want](https://open.spotify.com/track/2Pe2lfTj1oN6qykfZhNDnV) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [Do What I Want](https://open.spotify.com/album/2wkVbUKPfsV8RpozFuQaF0) | 2:40 | 2025-08-19 | 2025-09-01 |
 | [Do your dance](https://open.spotify.com/track/0BlndWgd48bhj9ui9xiEtS) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Ⅱ \- The 2nd Mini Album](https://open.spotify.com/album/5r3alQ2vYnM5eFJnlNkaaU) | 2:57 | 2026-06-15 |  |
@@ -344,7 +345,7 @@
 | [HANA\_花](https://open.spotify.com/track/4mTWo6hbs8SMgI4Bo2jWFl) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [TAG ME](https://open.spotify.com/album/0uZD2qIc7Y9UsXFModWKau) | 3:23 | 2023-11-23 | 2024-02-28 |
 | [HANAMARU](https://open.spotify.com/track/2ZWtv5EADTwWVWRMQpI4rE) | [VIBY](https://open.spotify.com/artist/6yEmYNNxZJSWa52gCezahN) | [HANAMARU](https://open.spotify.com/album/6cJi17BAY5dou4xC8OD1pP) | 2:36 | 2026-05-12 |  |
 | [Handle](https://open.spotify.com/track/3ywU2ND7YU0AZms6fqMNnJ) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [Level Up](https://open.spotify.com/album/6QrhDMZ1B8cmLFyMKaruYW) | 3:22 | 2024-12-03 | 2025-01-22 |
-| [HANDS UP](https://open.spotify.com/track/0ZGYPuD82YLwI0uppmFkuY) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [SUNFLOWER](https://open.spotify.com/album/5Ck6bwS4q5ZiadkzqaEoNB) | 3:40 | 2026-06-16 |  |
+| [HANDS UP](https://open.spotify.com/track/0ZGYPuD82YLwI0uppmFkuY) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [SUNFLOWER](https://open.spotify.com/album/5Ck6bwS4q5ZiadkzqaEoNB) | 3:40 | 2026-06-16 | 2026-07-08 |
 | [Hands up, Yo!](https://open.spotify.com/track/46AUBRiFRIkbbKvEwqyDbO) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Hands up, Yo!](https://open.spotify.com/album/47ImUBAiFpTzsD7hHHsucf) | 3:03 | 2026-06-01 |  |
 | [Handz In My Pocket](https://open.spotify.com/track/35m8Dt5Pnnth0k17UIgEZ3) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Handz In My Pocket](https://open.spotify.com/album/4HHaxkowWdzWA7sX4CaXPs) | 2:49 | 2025-09-25 | 2026-03-13 |
 | [Hapidan](https://open.spotify.com/track/76WBsSpMMB0UPnLNkQ3SGc) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [Hapidan](https://open.spotify.com/album/2qjrUKfhSIxsvtMxcWoeBm) | 3:08 | 2023-11-24 | 2024-01-10 |
@@ -763,7 +764,7 @@
 | [Stylish](https://open.spotify.com/track/2XBFjuzC4e1RfJKheadA5f) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ The 10th Mini Album \[a;eﬀect\]](https://open.spotify.com/album/3NLbROSjvh9Qo0Esb3aTX0) | 2:35 | 2025-07-28 | 2025-10-27 |
 | [SUGAR](https://open.spotify.com/track/7gXRZ5iYvLgW92DOYxyrD5) | [JUNGWOO](https://open.spotify.com/artist/26ECn7DzgrUo23kSC9KD7k) | [SUGAR](https://open.spotify.com/album/3FrLQvdgg4exfE1njHIxMQ) | 2:57 | 2025-11-28 | 2026-03-27 |
 | [Sugar Blood Kiss](https://open.spotify.com/track/14vIy9ZQnigIz5bU1k7G59) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Sugar Blood Kiss](https://open.spotify.com/album/1Yom3QQprg3A5Ui2sT6kmB) | 3:32 | 2024-04-23 | 2024-05-15 |
-| [Sugar High](https://open.spotify.com/track/3CQbSpFb2bTSfyLTj01gqz) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [Sugar High](https://open.spotify.com/album/4S7T1TAP0pmVeYvPMoqcYP) | 2:45 | 2026-06-12 |  |
+| [Sugar High](https://open.spotify.com/track/3CQbSpFb2bTSfyLTj01gqz) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [Sugar High](https://open.spotify.com/album/4S7T1TAP0pmVeYvPMoqcYP) | 2:45 | 2026-06-12 | 2026-07-08 |
 | [Sugar Honey](https://open.spotify.com/track/7iB96cXDuwxr5mhPfg9J0U) | [WOLF HOWL HARMONY from EXILE TRIBE](https://open.spotify.com/artist/0SiKVvyHQlgxrfkCH45DVn) | [Sugar Honey](https://open.spotify.com/album/1sjIR9eofpdxuRYwNCgUYV) | 3:25 | 2023-11-23 | 2023-11-26 |
 | [Summer Light](https://open.spotify.com/track/0nvv7QmRopuA4rylN4EOly) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [Summer Light](https://open.spotify.com/album/0JLwjAXyinA9w0v4JjSGAg) | 3:01 | 2025-08-04 | 2025-10-01 |
 | [Summer Vacation](https://open.spotify.com/track/36qCIpJxXBTi6JZqWufoqb) | [GENERATIONS from EXILE TRIBE](https://open.spotify.com/artist/4HfuyMMy295oBvbIuXr0v8) | [Summer Vacation](https://open.spotify.com/album/7kW5feki3ZoaWMgzDnU0HT) | 3:24 | 2025-07-07 | 2025-07-09 |
@@ -921,7 +922,7 @@
 | [Young & Reckless](https://open.spotify.com/track/0Lb4nVNM4sGZA7XBOuJEkh) | [ONE OR EIGHT](https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA) | [Young & Reckless](https://open.spotify.com/album/2G9lGOKxiiuGlH5YKENxAT) | 2:27 | 2025-08-28 | 2025-09-19 |
 | [Your Key](https://open.spotify.com/track/6u6hU2ZikSQ8PdPC3yVYbH) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [Your Key](https://open.spotify.com/album/16NmOg7tpLafA7WJb1eAwS) | 3:28 | 2024-01-09 | 2024-06-13 |
 | [Youth](https://open.spotify.com/track/3Rxe1nKv2XDDyDj1F4QMOO) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [Youth](https://open.spotify.com/album/2r9og7GiccfnuknYxrO645) | 3:05 | 2026-04-14 | 2026-06-10 |
-| [Youth \- English ver.](https://open.spotify.com/track/2otkiglrAfZ1jGVjHVMno0) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [Youth \(English ver.\)](https://open.spotify.com/album/0XByjdp8iWmggUM2EsCJEy) | 3:06 | 2026-06-09 |  |
+| [Youth \- English ver.](https://open.spotify.com/track/2otkiglrAfZ1jGVjHVMno0) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [Youth \(English ver.\)](https://open.spotify.com/album/0XByjdp8iWmggUM2EsCJEy) | 3:06 | 2026-06-09 | 2026-07-08 |
 | [Youth Spark](https://open.spotify.com/track/2WKXGsbtHimKjJ2CBX3JES) | [LIL LEAGUE from EXILE TRIBE](https://open.spotify.com/artist/6B51WqiWwRf7LytXwWhmHJ) | [Youth Spark](https://open.spotify.com/album/1qiBJWJsG5JvYzkfgtOfyC) | 3:05 | 2024-07-30 | 2024-09-25 |
 | [ZOOM](https://open.spotify.com/track/0kLktoAjZQczngphPbfq52) | [BMSG POSSE](https://open.spotify.com/artist/70ZXCRaBCyquIzkizcFfbk), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Novel Core](https://open.spotify.com/artist/4CNZyuclyT33od27ZSjJMD) | [ZOOM](https://open.spotify.com/album/7vyywKqNuOsQ0UveBQPhRn) | 3:04 | 2024-10-29 | 2024-11-27 |
 | [Zuruiyo](https://open.spotify.com/track/4NpMC9ea6SJdkbK0zjPxJS) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Hibi](https://open.spotify.com/album/1QcQHv7T7IjWAC3ehaqaSu) | 3:27 | 2025-09-25 | 2026-01-15 |
@@ -963,6 +964,7 @@
 | [ダイヤモンドリリー](https://open.spotify.com/track/676LDL3TVRJ4UrHQlQmUEi) | [原因は自分にある。](https://open.spotify.com/artist/752sVqd0A0Hki7Gd2iOOV6) | [ダイヤモンドリリー](https://open.spotify.com/album/3504vkmyPbeVuZaSky7Q3b) | 3:03 | 2024-01-09 | 2024-02-01 |
 | [ナイモノネダリ](https://open.spotify.com/track/6UkpdAIJ2IIPCod7RxWkL0) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [ナイモノネダリ](https://open.spotify.com/album/0kJHPrDlgnJ3xWGEHco0lQ) | 3:35 | 2023-11-23 | 2024-01-03 |
 | [ネオコード](https://open.spotify.com/track/7zgCgvl6ey1LYlQOnnpZ1Q) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [KIDS00's](https://open.spotify.com/album/5HUArcOx5pKYTDnSTBilkZ) | 2:53 | 2026-06-16 |  |
+| [ハジマリCOLOR](https://open.spotify.com/track/3Rsysd8ENj8B2pTJReEDJk) | [aoen](https://open.spotify.com/artist/24TQYvsd9qzVdHU2j1zY5i) | [ハジマリCOLOR](https://open.spotify.com/album/5nSvZyVSr1vwHyjY9wLJX9) | 3:15 | 2026-07-07 |  |
 | [ハニカミ](https://open.spotify.com/track/1x5c3sHbCtKomxFrMS5Kmh) | [Hey! Say! JUMP](https://open.spotify.com/artist/64BB3FFJokfd3owfpnwxb0) | [ハニカミ](https://open.spotify.com/album/3pOoGsquWbIEb4vBDNqhwh) | 4:19 | 2026-01-30 | 2026-02-25 |
 | [ハピダン](https://open.spotify.com/track/5czewRI91ZJivj3xcEArZL) | [M!LK](https://open.spotify.com/artist/4jhJ8cnJ9vYKyCh289nuwQ) | [ハピダン](https://open.spotify.com/album/1eBdG7mDWLP8VAhGaAlFyL) | 3:08 | 2023-11-23 | 2023-11-25 |
 | [ハルコイ](https://open.spotify.com/track/10VPSkOYogP0pWfkWmKa8X) | [DXTEEN](https://open.spotify.com/artist/5GkZGONRSCs4UEsbt8UVIR) | [ハルコイ](https://open.spotify.com/album/157u9W7ZHan5PPA9i55G7D) | 3:01 | 2026-01-23 | 2026-03-24 |

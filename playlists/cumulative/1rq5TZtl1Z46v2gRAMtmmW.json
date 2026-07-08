@@ -2911,6 +2911,24 @@
     },
     {
       "album": {
+        "name": "Fire on the Water / Drift",
+        "url": "https://open.spotify.com/album/0RpYhaCXxa6vICkfzkEq7t"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270324,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/3v6NLDBeSPq8RT1QPB3tZo"
+    },
+    {
+      "album": {
         "name": "Drift",
         "url": "https://open.spotify.com/album/6bbYGbBQJm5XKn85vvt34t"
       },
@@ -3416,6 +3434,28 @@
       "duration_ms": 274401,
       "name": "Feels Right",
       "url": "https://open.spotify.com/track/3hmUSYsilToQZyB9jzU6fY"
+    },
+    {
+      "album": {
+        "name": "Fire on the Water / Drift",
+        "url": "https://open.spotify.com/album/0RpYhaCXxa6vICkfzkEq7t"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183047,
+      "name": "Fire on the Water",
+      "url": "https://open.spotify.com/track/0dU2ZpIcqiV55L16TZfSE8"
     },
     {
       "album": {

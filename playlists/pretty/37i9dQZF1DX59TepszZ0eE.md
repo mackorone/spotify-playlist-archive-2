@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=glHBHJpWRtmJpm62ielH0w>Xolly Mncwango</a>"
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,696 likes - 101 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,735 likes - 101 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,6 +108,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59TepszZ0eE.md) - [plain]
 | 98 | [Mofahlolodi](https://open.spotify.com/track/49baq6pqA2QCxgMrgGlKCm) | [5 Fold Worship](https://open.spotify.com/artist/5g9jOwxRVYqWHwXPM5ZUZD), [Winnie Maluleka](https://open.spotify.com/artist/4JKZj0YFC3VvipXUYZH0uK) | [Christ Exalted](https://open.spotify.com/album/5UiFJTfUB9pnYLgfyFIaGa) | 7:54 |
 | 99 | [Uyingilosi](https://open.spotify.com/track/2b3XzfZiGAzH4Cg2oOZycR) | [Nkanyezi Kubheka](https://open.spotify.com/artist/0APN22F7fuIUq8X5FIAEEu) | [Uyingilosi](https://open.spotify.com/album/5THLWQp2Bx8wapN8PMxs3V) | 5:03 |
 | 100 | [Khunama \(Live\)](https://open.spotify.com/track/2ahaEYBYQBsNjQIzo3gufd) | [3C Live](https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT), [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [All Hail \(Live\)](https://open.spotify.com/album/0SkHWz3ijU4x1Qmbpp4w1e) | 7:35 |
-| 101 | [Thula Sizwe / I Shall Be Released](https://open.spotify.com/track/3f24AZKBhOBaKGpN2F0n52) | [Common People](https://open.spotify.com/artist/4VJhzDgY4GJ4zOmNHtd3iZ), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Tommy Sims](https://open.spotify.com/artist/1v5hoRyO2K9NNPm8GVOPEe), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e) | [Thula Sizwe / I Shall Be Released](https://open.spotify.com/album/6wK4WlDLgaOGMnBsvyVrxO) | 3:15 |
+| 101 | [Thula Sizwe / I Shall Be Released](https://open.spotify.com/track/3f24AZKBhOBaKGpN2F0n52) | [Common People](https://open.spotify.com/artist/4VJhzDgY4GJ4zOmNHtd3iZ), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Tommy Sims](https://open.spotify.com/artist/1v5hoRyO2K9NNPm8GVOPEe), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e) | [Thula Sizwe / I Shall Be Released](https://open.spotify.com/album/6wK4WlDLgaOGMnBsvyVrxO) | 3:15 |
 
 Snapshot ID: `AAAAAMrex4ch2fNUXjBHd/UQob60le+s`

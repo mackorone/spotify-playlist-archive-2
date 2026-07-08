@@ -7018,7 +7018,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 189717,
       "name": "Bulletproof (From \"Lukkhe\")",
       "url": "https://open.spotify.com/track/2vDKx0f8l8pP2o0Xln1Nv2"
@@ -15270,7 +15270,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 190177,
       "name": "Headshot",
       "url": "https://open.spotify.com/track/2jlfjfq0WKMuebVGPVb3cj"
@@ -24929,6 +24929,28 @@
     },
     {
       "album": {
+        "name": "Nachi Jaave",
+        "url": "https://open.spotify.com/album/6YU1GOfeY6RgDmOr1XGMHI"
+      },
+      "artists": [
+        {
+          "name": "Paradox",
+          "url": "https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui"
+        },
+        {
+          "name": "Parmish Verma",
+          "url": "https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "Nachi Jaave",
+      "url": "https://open.spotify.com/track/22PdBHDb5bt1WRTjBKxxoP"
+    },
+    {
+      "album": {
         "name": "Nacho Re",
         "url": "https://open.spotify.com/album/5AbYRFnhbzaV5kx1Ew26SW"
       },
@@ -26406,6 +26428,28 @@
       "duration_ms": 172192,
       "name": "O Humsafar",
       "url": "https://open.spotify.com/track/2QAbLPGThtJVGZFasRWmbm"
+    },
+    {
+      "album": {
+        "name": "Occupation",
+        "url": "https://open.spotify.com/album/4hPPpmA3FjTiB0dLVJ8yqJ"
+      },
+      "artists": [
+        {
+          "name": "KARYAWAAHI",
+          "url": "https://open.spotify.com/artist/0jCViUzxha1IPd2ckwJKLs"
+        },
+        {
+          "name": "Insane Muzik",
+          "url": "https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115955,
+      "name": "Occupation",
+      "url": "https://open.spotify.com/track/15WaAtcxLJSA4kFUwklajI"
     },
     {
       "album": {

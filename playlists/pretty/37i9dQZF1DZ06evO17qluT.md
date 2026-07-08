@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 
 > This is BK\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,636 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,675 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17qluT.md) - [plain]
 | 49 | [Rei da Noite](https://open.spotify.com/track/1VmX5IO6VCOPVVaEQgNy08) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [O Sol Também Chora](https://open.spotify.com/album/4ATXKKOJ6ZsniMdEsH61We) | 2:25 |
 | 50 | [VENTO](https://open.spotify.com/track/5TSS1yAFxEnqFA42wZwZ8M) | [FYE](https://open.spotify.com/artist/6YT21JiusfFSCdZoBSb9Jp), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [João Vinicius Barbosa](https://open.spotify.com/artist/5E1Cjv4cm5mowV8pJ5saQO) | [VENTO](https://open.spotify.com/album/3XemK52KXvatZaLnxGLUEp) | 3:26 |
 
-Snapshot ID: `akmegAAAAADfKsF4kKw4ZeoWPQV7YNHP`
+Snapshot ID: `akrwAAAAAADZEXJEp1s/cZvJbD/nHmQC`

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-867 songs - 1 day 19 hr 2 min
+868 songs - 1 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -860,6 +860,7 @@
 | [World on Fire](https://open.spotify.com/track/0vyzWCQaPRwaJPbRv9SB1q) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 3:45 | 2023-06-21 | 2023-08-10 |
 | [World on Fire](https://open.spotify.com/track/6RUrwniB9s0Xm3iqXa5Jc2) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl) | [World on Fire](https://open.spotify.com/album/6xYYOfJjOi1Xrs7M46NPoX) | 3:45 | 2023-03-22 | 2023-08-10 |
 | [Worship](https://open.spotify.com/track/3UL3mFsWBtRUZWRu0qAD46) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Worship](https://open.spotify.com/album/4uSfrfa4EdUa1PgwpaxZkx) | 4:05 | 2024-07-05 |  |
+| [WOULD U](https://open.spotify.com/track/3X2s8jVhj56zVeWqQMFVBs) | [Conni](https://open.spotify.com/artist/3V0uGOh5VeIp99phDIgWqU), [Lynxie](https://open.spotify.com/artist/61ixzqjzhlmKPa0vY6bX2C), [THEBOYBENNIE](https://open.spotify.com/artist/007dFRVu5x8IPwmkrrWqJw) | [WOULD U](https://open.spotify.com/album/0bYA4TeJm3N5oUQrq5FJrV) | 2:37 | 2026-07-07 |  |
 | [Would You Be Waiting](https://open.spotify.com/track/3PHOx8osoFglbGHz8dWY5E) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn) | [Would You Be Waiting](https://open.spotify.com/album/17zDJZXkFFsfWDpH83URKA) | 2:57 | 2022-08-26 | 2023-04-28 |
 | [Would You Ever](https://open.spotify.com/track/6qI2itQgAThUD1s24FtgAR) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ), [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Would You Ever](https://open.spotify.com/album/08Nda5fgWQLMB7Ni36QQQ1) | 2:27 | 2023-05-12 | 2023-08-10 |
 | [Would You Ever](https://open.spotify.com/track/7ubF8QYmaeM0p0opdDiMtB) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ), [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Lost Words EP](https://open.spotify.com/album/3bS5ZqH24CFVNO43q2I0uI) | 2:27 | 2023-06-23 | 2023-08-10 |

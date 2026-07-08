@@ -2,7 +2,7 @@
 
 ### [Tollywood Pearls](https://open.spotify.com/playlist/37i9dQZF1DX5VOFoIqmrOV)
 
-> The finest set of Telugu music from the past 10 years\. <br/>Cover : Court
+> The finest set of Telugu music from the past 10 years\. <br/>Cover : 35 Chinna katha kadu!
 
 288 songs - 19 hr 8 min
 

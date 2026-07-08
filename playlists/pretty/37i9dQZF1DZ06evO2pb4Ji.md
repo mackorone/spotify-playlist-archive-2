@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 > This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,750 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,739 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 18 | [Get Jinxed](https://open.spotify.com/track/3fiMMAD2d7t0g2MVGf6NE1) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Djerv](https://open.spotify.com/artist/0maicLMFF0aeHwJlQgZrNa) | [The Music of League of Legends, Vol\. 1](https://open.spotify.com/album/0NVBGM7uhvICqzMzU800Vg) | 2:34 |
 | 19 | [Warriors](https://open.spotify.com/track/5yn8iZezcZ6aAhDKAYcN0o) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Edda Hayes](https://open.spotify.com/artist/0zJa53LLSg4TcZ5Lm4zFB8) | [Warriors](https://open.spotify.com/album/7pcintwSauwS9wBOFusSeI) | 3:24 |
 | 20 | [Everything Goes On](https://open.spotify.com/track/4C4zy9kfjYjr6IcNAdV7ZD) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Everything Goes On](https://open.spotify.com/album/1TPNyU2nD2oYKmy0MjTRTd) | 3:22 |
-| 21 | [Burn It All Down](https://open.spotify.com/track/4Xf9GooVicwy15aJakqVHH) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Burn It All Down](https://open.spotify.com/album/75CPtRKAed4edoPl3xVAOF) | 3:21 |
-| 22 | [Bite Marks](https://open.spotify.com/track/5EgvIjKtyop4T8afkuMiv6) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [Welcome to Noxus \(Original Soundtrack from League of Legends\)](https://open.spotify.com/album/7oCUh77MwNd0x12QjA7F5K) | 3:10 |
+| 21 | [Bite Marks](https://open.spotify.com/track/5EgvIjKtyop4T8afkuMiv6) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [Welcome to Noxus \(Original Soundtrack from League of Legends\)](https://open.spotify.com/album/7oCUh77MwNd0x12QjA7F5K) | 3:10 |
+| 22 | [Burn It All Down](https://open.spotify.com/track/4Xf9GooVicwy15aJakqVHH) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Burn It All Down](https://open.spotify.com/album/75CPtRKAed4edoPl3xVAOF) | 3:21 |
 | 23 | [Sacrifice](https://open.spotify.com/track/3UEwPrMwvnqXs2nv4yDwTm) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Sacrifice](https://open.spotify.com/album/3U6YzAtW7RSciUyfUw9xxo) | 4:09 |
 | 24 | [Still Here](https://open.spotify.com/track/3dtMHSPB5BKDHthPfC1LHE) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Forts](https://open.spotify.com/artist/5PNxXTkVfckrFbwcW6EKdE), [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Still Here](https://open.spotify.com/album/2k9EOAWLfSebMC4Z5G2YUE) | 4:12 |
 | 25 | [Goodbye \(from the series Arcane League of Legends\)](https://open.spotify.com/track/50qY6EQTt33QAUQnDgbYOS) | [Ramsey](https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Goodbye \(from the series Arcane League of Legends\)](https://open.spotify.com/album/7q2FV4zz7UvTr29VroExbu) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 49 | [Here, Tomorrow](https://open.spotify.com/track/1Kv8Ep17FrOkvHAINLIEgW) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Kevin Penkin](https://open.spotify.com/artist/4S33gEeiCjwfD1FJKfMT3Y), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Spirit Blossom Beyond \(Original Soundtrack from League of Legends\)](https://open.spotify.com/album/0mNCXeb7azjErkTqoaR4BA) | 3:07 |
 | 50 | [Hellfire \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4ei9nlTAa7KUp0ZuqryhXC) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Hellfire \(from the series Arcane League of Legends\)](https://open.spotify.com/album/1UkORGUOXXrQlWXV9g35fE) | 2:44 |
 
-Snapshot ID: `akmegAAAAAA+4QBlimp3LEfeFBnPPjIx`
+Snapshot ID: `akrwAAAAAABBFhVbUTLQn+ENVIHYVt2C`

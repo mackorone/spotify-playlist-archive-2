@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-08-19",
-  "description": "Rustig aan, ff ademen jij. ",
+  "description": "OYSTER kiest 20 tunes!  zomer ID: \ud83d\ude97 dakje open. <a href=\"spotify:genre:0JQ5DAqbMKFHoCrqEupC7P\">Welke zomer ID ben jij?</a>",
   "name": "Hoofd Heet",
   "tracks": [
     {
@@ -32,6 +32,46 @@
       "duration_ms": 194400,
       "name": "100 Doezoe Cash",
       "url": "https://open.spotify.com/track/0g45SM1MltjtFstJl35m0R"
+    },
+    {
+      "album": {
+        "name": "Ereronde (Deluxe)",
+        "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
+      },
+      "artists": [
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173513,
+      "name": "100K Summer",
+      "url": "https://open.spotify.com/track/4eBHnMo8ubhZtgrTjUjcIy"
+    },
+    {
+      "album": {
+        "name": "Rockstar Junkie",
+        "url": "https://open.spotify.com/album/5yKyv50gYG4q6S2ti49XID"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136127,
+      "name": "3am",
+      "url": "https://open.spotify.com/track/43oBNdp6W1Z9YDu1svX1hl"
     },
     {
       "album": {
@@ -152,10 +192,36 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 154285,
       "name": "Alo",
       "url": "https://open.spotify.com/track/3bsk1YJFVOVjJPF7z6QFKD"
+    },
+    {
+      "album": {
+        "name": "Springplank 2",
+        "url": "https://open.spotify.com/album/5RBDnynhE6JzqTX7crUAXd"
+      },
+      "artists": [
+        {
+          "name": "HIGH SOCIETY",
+          "url": "https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps"
+        },
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        },
+        {
+          "name": "Lostt",
+          "url": "https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153203,
+      "name": "Amazing Girl",
+      "url": "https://open.spotify.com/track/2mPnJGQZJ6WgqHd8m9Xqjb"
     },
     {
       "album": {
@@ -170,7 +236,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 120816,
       "name": "Aventador",
       "url": "https://open.spotify.com/track/1q3TMJUpWHLOx15fIArZfv"
@@ -199,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Ereronde (Deluxe)",
+        "url": "https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta"
+      },
+      "artists": [
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143157,
+      "name": "Brassen",
+      "url": "https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9"
+    },
+    {
+      "album": {
         "name": "Brick By Brick",
         "url": "https://open.spotify.com/album/0X30EwgT0OaGGBTPJgYYGy"
       },
@@ -217,6 +301,76 @@
     },
     {
       "album": {
+        "name": "Verloren in Passie",
+        "url": "https://open.spotify.com/album/4exmmTyyqd1udQyjfJP5Bl"
+      },
+      "artists": [
+        {
+          "name": "Lostt",
+          "url": "https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149126,
+      "name": "Bump & Cruise",
+      "url": "https://open.spotify.com/track/0hjR8cYla9P40bzNSIPPx5"
+    },
+    {
+      "album": {
+        "name": "Springplank 2",
+        "url": "https://open.spotify.com/album/5RBDnynhE6JzqTX7crUAXd"
+      },
+      "artists": [
+        {
+          "name": "HIGH SOCIETY",
+          "url": "https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps"
+        },
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        },
+        {
+          "name": "Lostt",
+          "url": "https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk"
+        },
+        {
+          "name": "Cit\u00e9",
+          "url": "https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167272,
+      "name": "Champagne",
+      "url": "https://open.spotify.com/track/7tyFgPXKS935sdmT9kQ9tA"
+    },
+    {
+      "album": {
+        "name": "Chanel (feat. Asake)",
+        "url": "https://open.spotify.com/album/3ctssLn3Uq8WPudSkMrzWT"
+      },
+      "artists": [
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150260,
+      "name": "Chanel (feat. Asake)",
+      "url": "https://open.spotify.com/track/6JVQBlA628faJmvQbeyBHT"
+    },
+    {
+      "album": {
         "name": "Cullinan",
         "url": "https://open.spotify.com/album/04MPrXHuTkaGeSVmtWp9j7"
       },
@@ -228,7 +382,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 183379,
       "name": "Cullinan",
       "url": "https://open.spotify.com/track/62PDXg9UDd0q4N6hCl0fI7"
@@ -253,6 +407,42 @@
     },
     {
       "album": {
+        "name": "Lente",
+        "url": "https://open.spotify.com/album/3Dq3aa7HAffv6z9N3OAc2x"
+      },
+      "artists": [
+        {
+          "name": "Kevin",
+          "url": "https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224978,
+      "name": "Dakje Open",
+      "url": "https://open.spotify.com/track/1L3afn6UtXaEsFqYAKhhuW"
+    },
+    {
+      "album": {
+        "name": "Ereronde",
+        "url": "https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG"
+      },
+      "artists": [
+        {
+          "name": "OYSTER",
+          "url": "https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133549,
+      "name": "Diep \u2018R In",
+      "url": "https://open.spotify.com/track/1AWWBS0jo8xD2nX5kBDMFa"
+    },
+    {
+      "album": {
         "name": "Doe Rustig",
         "url": "https://open.spotify.com/album/0vrU4iKKqxmJigZLzGwgD0"
       },
@@ -264,7 +454,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 127850,
       "name": "Doe Rustig",
       "url": "https://open.spotify.com/track/7moKARHYaqaAddizkT0d9n"
@@ -286,10 +476,28 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 154285,
       "name": "DYNAMO",
       "url": "https://open.spotify.com/track/1bcQ8eJFJoZv3Oba2wghyg"
+    },
+    {
+      "album": {
+        "name": "OCTANE",
+        "url": "https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211106,
+      "name": "Excavator",
+      "url": "https://open.spotify.com/track/2A5cwtDZpk7RvsPolrF4UL"
     },
     {
       "album": {
@@ -373,6 +581,32 @@
     },
     {
       "album": {
+        "name": "Springplank 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/2H3WpgJ9cxgjMcVSwAJTlL"
+      },
+      "artists": [
+        {
+          "name": "HIGH SOCIETY",
+          "url": "https://open.spotify.com/artist/4jKqyxQfzYrfO3MvccH7Ps"
+        },
+        {
+          "name": "NOBODYPANICC",
+          "url": "https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg"
+        },
+        {
+          "name": "Lostt",
+          "url": "https://open.spotify.com/artist/2zvq4i4GGwZ6T5CmWcjJkk"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153846,
+      "name": "Generator",
+      "url": "https://open.spotify.com/track/2Fs93DHTCcNspJIJoYZtHD"
+    },
+    {
+      "album": {
         "name": "Gerechtigheid",
         "url": "https://open.spotify.com/album/3FZgUvklx7yGLJO4GfPtBs"
       },
@@ -428,7 +662,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 161095,
       "name": "Hell",
       "url": "https://open.spotify.com/track/7AJlgDOogKdezrlVDefj5c"
@@ -457,6 +691,28 @@
     },
     {
       "album": {
+        "name": "HABIBTI",
+        "url": "https://open.spotify.com/album/0P6B5R3yRSkhkmequL5Yno"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188877,
+      "name": "Hurrr Nor Thurr (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/3raBR3SY78nNv4uGEv3CNY"
+    },
+    {
+      "album": {
         "name": "IDEMO",
         "url": "https://open.spotify.com/album/11E4GX3b6bp7ucN55tMU0F"
       },
@@ -468,10 +724,28 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 139897,
       "name": "IDEMO",
       "url": "https://open.spotify.com/track/6cjzBMVeoNpHsyIgQ0dMHD"
+    },
+    {
+      "album": {
+        "name": "If You Want It",
+        "url": "https://open.spotify.com/album/1jc3lBsBsQaYOGRciN3Bv0"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182587,
+      "name": "If You Want It",
+      "url": "https://open.spotify.com/track/1lBkIZiPtUetgkMcSABu3h"
     },
     {
       "album": {
@@ -490,10 +764,36 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 176750,
       "name": "Intro/Aventador",
       "url": "https://open.spotify.com/track/6TtVX0hYJp2Ai0VzDZJBRJ"
+    },
+    {
+      "album": {
+        "name": "iPlan",
+        "url": "https://open.spotify.com/album/0HoPqhuWC1EDoBNaDm0mkI"
+      },
+      "artists": [
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Zaba",
+          "url": "https://open.spotify.com/artist/0ZxyWnlmVBuHYzYgyDT24H"
+        },
+        {
+          "name": "SYKES",
+          "url": "https://open.spotify.com/artist/0jQCL3PGTu3kvhLPkxocws"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222720,
+      "name": "iPlan",
+      "url": "https://open.spotify.com/track/51TzDXwVpoDfkJ5ZbEv6eo"
     },
     {
       "album": {
@@ -519,6 +819,24 @@
     },
     {
       "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/55HAHT4BN3wHSqr4NFMRfm"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237344,
+      "name": "Janice STFU",
+      "url": "https://open.spotify.com/track/65okMHrX31lksWRLOykgoe"
+    },
+    {
+      "album": {
         "name": "La La La",
         "url": "https://open.spotify.com/album/1IHAwlSMGkA3lJN50tbRBJ"
       },
@@ -534,6 +852,24 @@
       "duration_ms": 143610,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3Z4j3hMz2mTYOtbxz5291r"
+    },
+    {
+      "album": {
+        "name": "Lalala",
+        "url": "https://open.spotify.com/album/2R24sbvoxBPik5gmV6gZuW"
+      },
+      "artists": [
+        {
+          "name": "NOBODYPANICC",
+          "url": "https://open.spotify.com/artist/4JIZ3k1lKVbM61RPGN6QTg"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130370,
+      "name": "Lalala",
+      "url": "https://open.spotify.com/track/4BWJhRJzKsF6KJVTrWe0gh"
     },
     {
       "album": {
@@ -631,6 +967,24 @@
     },
     {
       "album": {
+        "name": "MAID OF HONOUR",
+        "url": "https://open.spotify.com/album/71yBvOeRZ9os9LYFEy9eOk"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259864,
+      "name": "New Bestie",
+      "url": "https://open.spotify.com/track/5dYyoRxPWVaV36XSD49yGS"
+    },
+    {
+      "album": {
         "name": "Zes Gangen Menu",
         "url": "https://open.spotify.com/album/4nD1iPRy6jhO8bvtHgCFFE"
       },
@@ -649,6 +1003,24 @@
     },
     {
       "album": {
+        "name": "No Mileage",
+        "url": "https://open.spotify.com/album/0VjKpppUCarjzywISaeYXz"
+      },
+      "artists": [
+        {
+          "name": "Loe Shimmy",
+          "url": "https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133683,
+      "name": "No Mileage",
+      "url": "https://open.spotify.com/track/5bu3osUhTayJQfo4J0MWAf"
+    },
+    {
+      "album": {
         "name": "Allemaal Een Droom",
         "url": "https://open.spotify.com/album/2N6FIPbPPYLJQXERMYPy3J"
       },
@@ -664,7 +1036,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 160960,
       "name": "Nooit Thuis",
       "url": "https://open.spotify.com/track/0jGExV1jNFFC6rwWANc5UH"
@@ -752,7 +1124,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 147500,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/3EQ8F3JNlCPvbmNgu2pwlb"
@@ -832,6 +1204,32 @@
       "duration_ms": 142718,
       "name": "Predator",
       "url": "https://open.spotify.com/track/0GIjjiXik7G0QuLmweZboU"
+    },
+    {
+      "album": {
+        "name": "ICEMAN",
+        "url": "https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Molly Santana",
+          "url": "https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247183,
+      "name": "Ran To Atlanta (feat. Future & Molly Santana)",
+      "url": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
     },
     {
       "album": {
@@ -922,6 +1320,32 @@
       "duration_ms": 153673,
       "name": "Smalle Wegen",
       "url": "https://open.spotify.com/track/6eL0xjEi0wuliOHy4VEhu7"
+    },
+    {
+      "album": {
+        "name": "Finally Famous Too",
+        "url": "https://open.spotify.com/album/2fJHuylS0WyxccTNW1nwU9"
+      },
+      "artists": [
+        {
+          "name": "Dlala Thukzin",
+          "url": "https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD"
+        },
+        {
+          "name": "Zeh McGeba",
+          "url": "https://open.spotify.com/artist/1dllQgzSDUNbXbtk5INbhj"
+        },
+        {
+          "name": "MK Productions",
+          "url": "https://open.spotify.com/artist/6jUYsFkr46ErYnMV82HgQ8"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327457,
+      "name": "Sohlala Sisonke",
+      "url": "https://open.spotify.com/track/7hO6BIPeHb0Y5v9bgXoxKg"
     },
     {
       "album": {

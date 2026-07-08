@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: HEY\-SMITH
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: Suspended 4th
 
-905 songs - 1 day 23 hr 44 min
+908 songs - 1 day 23 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [I'M A RAT](https://open.spotify.com/track/3mmmFNse4YOe6DK8SRoNzG) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [I'M A RAT](https://open.spotify.com/album/2b8IfylXhVRBnF1UHwT2Rh) | 2:04 | 2023-12-19 | 2024-04-19 |
 | [I'm Outstripped](https://open.spotify.com/track/6B5iD68uJ9y5GeT9e1owAI) | [OLD SCHOOL](https://open.spotify.com/artist/568OoWJTmExiW0OWpDEZqo) | [I Keep The Fire Alive](https://open.spotify.com/album/1TjcNKyJslwy1g9Z3MWdAr) | 3:11 | 2022-05-12 | 2022-06-25 |
 | [IF I Could](https://open.spotify.com/track/39dIa1CWSiVQme195v0mdO) | [OWEAK](https://open.spotify.com/artist/6upXl7zerJtB7IDMcPrl21) | [At Nightfall](https://open.spotify.com/album/6friLA3zsuTIwhUAFl6OWI) | 2:16 | 2022-05-31 | 2022-07-26 |
-| [In the Morning](https://open.spotify.com/track/4SewWfdvt7gSWPu3As9q22) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [In the Morning](https://open.spotify.com/album/5D2E6HcOWHE7TA3SPdpAXd) | 2:38 | 2026-03-31 |  |
+| [In the Morning](https://open.spotify.com/track/4SewWfdvt7gSWPu3As9q22) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [In the Morning](https://open.spotify.com/album/5D2E6HcOWHE7TA3SPdpAXd) | 2:38 | 2026-03-31 | 2026-07-08 |
 | [Indian Burn](https://open.spotify.com/track/0oNJdh57wG3gHDDodlPnZC) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 1:47 | 2024-02-27 | 2024-03-06 |
 | [INDIE MANNERS COLLECTIVE](https://open.spotify.com/track/58SMHxrvd06350OdteKmQ0) | [Someday's Gone](https://open.spotify.com/artist/79SvxaP9S35Y7A5R9IPYgx) | [INDIE MANNERS COLLECTIVE](https://open.spotify.com/album/0k3w60tGFB6KrTgE4J2Ywt) | 3:43 | 2022-07-19 | 2022-08-10 |
 | [Infection](https://open.spotify.com/track/4n3bUH8AflakdQCQktLHjE) | [Meaning](https://open.spotify.com/artist/2xx4c1IV8WZlp5z8tuSZNh) | [Shine Our Journey](https://open.spotify.com/album/2wWpOS4CbDVJtxOC9XhsU0) | 4:23 | 2022-05-12 | 2022-07-20 |
@@ -368,6 +368,7 @@
 | [Naked](https://open.spotify.com/track/5KGU6BgcvqmHiM7fdTHiUU) | [SHAKALABBITS](https://open.spotify.com/artist/1ibfTwhFGhVZWjOoIevFOQ) | [Naked](https://open.spotify.com/album/43Z6Pvd1VPo0uhZhHh9PBi) | 2:46 | 2025-11-04 | 2026-02-25 |
 | [NAME](https://open.spotify.com/track/38b2nMKtd1qiVBkULMQti2) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [RARA](https://open.spotify.com/album/6vV4OJGtCjvJD6OdaoCQ9c) | 3:55 | 2022-05-12 | 2024-06-18 |
 | [NANANA](https://open.spotify.com/track/3K3NU1VZiAwIoQ7B06aM8I) | [DISTRESS](https://open.spotify.com/artist/2Rseip7lRjsDFTUSEyRj6K) | [NANANA](https://open.spotify.com/album/3r1ufZMtgZzQ8AjZJwxUwB) | 3:54 | 2022-06-21 | 2022-07-20 |
+| [Nannmonee](https://open.spotify.com/track/3XNnq2oo1zmHDseKZKaYEF) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [Nannmonee](https://open.spotify.com/album/1VgCfL80E3Guto10xfO83R) | 2:51 | 2026-07-07 |  |
 | [naze kyou tenkiga warui](https://open.spotify.com/track/6xKi8s3RnwFSrBrqJ6H55F) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [naze kyou tenkiga warui](https://open.spotify.com/album/5k6hf0HvYEMWNhEVCy5oqq) | 2:54 | 2023-07-13 | 2023-07-26 |
 | [Never Let Go](https://open.spotify.com/track/54mLLNZy75Nq3WusmnUsKF) | [LONGMAN](https://open.spotify.com/artist/0MBIT0F93uiCv6uLQfH7i7) | [Never Let Go](https://open.spotify.com/album/1OZXwQBMbmHFqt93FGiBsZ) | 3:05 | 2022-05-12 | 2022-07-23 |
 | [Never Let You Go](https://open.spotify.com/track/4eehPzTBl5UaENQi04Yzgc) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [SHUNKA RYOUGEN](https://open.spotify.com/album/5dZcvDyVbM5HplrbzE8r60) | 4:16 | 2023-01-12 | 2023-09-29 |
@@ -546,6 +547,7 @@
 | [Still Kids](https://open.spotify.com/track/0tPBDTL5FM5DNnOgXKEQoY) | [ONIONRING](https://open.spotify.com/artist/45b4d7M7mlDpXAYFK3JZ5w) | [Still Kids](https://open.spotify.com/album/1WI3Nvc03AHRyoSL8NiIWI) | 2:36 | 2023-08-15 | 2023-10-04 |
 | [Still Remember](https://open.spotify.com/track/4wqxCUJUg89gdhw41oASfr) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [torches](https://open.spotify.com/album/5dQf9Hqmb9HbGO4s4ZX1mK) | 4:13 | 2022-05-12 | 2022-07-24 |
 | [Straight Up \(feat\. Kj\)](https://open.spotify.com/track/01yS4eW9jeCPXJgz6I7DxJ) | [The BONEZ](https://open.spotify.com/artist/4YxoxjA4x3YukLHeNNgJqQ), [Kj](https://open.spotify.com/artist/2dSWXwLgHi3PrwT9l1CKDq) | [Straight Up \(feat\. Kj\)](https://open.spotify.com/album/4pIsjjQsa4krzRpcI2sds5) | 4:12 | 2024-07-30 |  |
+| [Stray God](https://open.spotify.com/track/0MiTNFH5xyJ8d6sFqy3U3A) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [Goodbye My Roots](https://open.spotify.com/album/6U12GCvRQpAqhFSob0xHju) | 1:39 | 2026-07-07 |  |
 | [Stupid!!](https://open.spotify.com/track/4sWWmy5AKtN8isxqv6crsT) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [Smoke!!](https://open.spotify.com/album/7vFJI5E9v7jFfxhCCXsIX2) | 2:11 | 2022-05-12 | 2022-07-29 |
 | [Suffer](https://open.spotify.com/track/3wBJ9ZwrL74MC4IjfUwrBb) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suffer](https://open.spotify.com/album/4wdkJEh3CqOjgNx9FW5JDn) | 2:19 | 2025-07-01 |  |
 | [Summertime Blue](https://open.spotify.com/track/1Cia7gpB6Kqd9qlbSs0V48) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [愛彌々2](https://open.spotify.com/album/7HFOgeQ6lNbNPI4TzsaYcO) | 4:29 | 2024-09-24 |  |
@@ -567,13 +569,14 @@
 | [Thanks](https://open.spotify.com/track/6AAJi0tGZxjbLKK2fIuZkU) | [Over Arm Throw](https://open.spotify.com/artist/0ULdhIbhpUx97klXlmINML) | [Oath and Night War](https://open.spotify.com/album/3DpriibTdXfiioI41LKUxS) | 2:48 | 2022-07-21 | 2022-12-08 |
 | [That's all enough.](https://open.spotify.com/track/2Th0tCO7TJfcAdh9Tu9TyP) | [AGE OF KID](https://open.spotify.com/artist/46UAkbp4aSvCZFc3HSOV8w) | [That's all enough\. Demo EP](https://open.spotify.com/album/4Y0BxXlfw7DXtKb7PEd1aA) | 2:20 | 2023-10-03 | 2023-10-18 |
 | [The Ballad](https://open.spotify.com/track/3qZJyfGVmggTOagP08zVlM) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Ballad](https://open.spotify.com/album/2MuMJqAeddgmVsgmklENyW) | 3:29 | 2026-01-13 |  |
-| [The Chains](https://open.spotify.com/track/545L6SXyQUGgbCUe5jq511) | [No Guard Okey](https://open.spotify.com/artist/0WChAIlhqnTFsCusfLKQLL) | [IF YOU LIKE](https://open.spotify.com/album/2cyd3BY5CiqSU0n3YexMTe) | 3:07 | 2026-03-10 |  |
+| [The Chains](https://open.spotify.com/track/545L6SXyQUGgbCUe5jq511) | [No Guard Okey](https://open.spotify.com/artist/0WChAIlhqnTFsCusfLKQLL) | [IF YOU LIKE](https://open.spotify.com/album/2cyd3BY5CiqSU0n3YexMTe) | 3:07 | 2026-03-10 | 2026-07-08 |
 | [The Dream Is Not Dead](https://open.spotify.com/track/45YAIPPE3My3zoqOJJnLc8) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [DREAMS NEVER END](https://open.spotify.com/album/1YLr4saK1uW4JUk87gLqMD) | 3:23 | 2022-05-12 | 2026-02-10 |
 | [The Fighter](https://open.spotify.com/track/6xb0Dr4ACMuLH2jX8N3CKk) | [AIRFLIP](https://open.spotify.com/artist/5YrGfYzRpGFloZHiS0366z) | [RED](https://open.spotify.com/album/6U5uCCIxTZ1sJjJu2oBMoX) | 2:35 | 2022-05-19 | 2022-07-26 |
 | [The Gift](https://open.spotify.com/track/3fvPawYrM5Mz5lacbZI2US) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/6tSVeeeeJkdMN6mIV4UqsD) | 2:22 | 2022-07-21 | 2023-12-09 |
 | [The Gift](https://open.spotify.com/track/4zbkeCco7LYg7hs4dSxLjR) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/2vvt4IjFm6sLlipjJCB0TH) | 2:22 | 2024-01-04 | 2024-04-19 |
 | [The Gift](https://open.spotify.com/track/7DTQOBUV8zMErJfPkf4zVr) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/0X8NMXBEiGQIRSehZzsXJd) | 2:22 | 2022-05-19 | 2022-07-26 |
-| [The Light That Never Returns](https://open.spotify.com/track/2uvwNtr8fT10KFvJ49ZSZW) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [The Noble Fake Star](https://open.spotify.com/album/5Vk9immrqKyHhVakz7L5JP) | 5:46 | 2026-05-26 |  |
+| [The Light That Never Returns](https://open.spotify.com/track/2uvwNtr8fT10KFvJ49ZSZW) | [PK shampoo](https://open.spotify.com/artist/7aGhrSyExo2LIUZJjOkgeJ) | [The Noble Fake Star](https://open.spotify.com/album/5Vk9immrqKyHhVakz7L5JP) | 5:46 | 2026-05-26 | 2026-07-08 |
+| [The more you smile, the more I fall for summer!](https://open.spotify.com/track/4Z0PY79HJHH3nRPG8gRzTi) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [The more you smile, the more I fall for summer!](https://open.spotify.com/album/2bZDNY34mPUexTMZ6GqxAw) | 4:14 | 2026-07-07 |  |
 | [THE NIGHT WITHOUT A STAR](https://open.spotify.com/track/5mqKM1gPH7247hZoE6Q0NR) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [EVERLASTING](https://open.spotify.com/album/4obqQshTLGtcdosdYVlx3D) | 2:56 | 2022-05-12 | 2022-07-25 |
 | [The Show Must Go On](https://open.spotify.com/track/0idEk81Edyuz92Z7qHAMjZ) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 2:44 | 2024-02-27 | 2024-03-06 |
 | [The Show Must Go On](https://open.spotify.com/track/0mNGukFmeB8xQmuS9jOs8B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Show Must Go On](https://open.spotify.com/album/59JPnXZfiLpJZbs92Y6Fdt) | 2:44 | 2024-02-13 | 2024-02-29 |

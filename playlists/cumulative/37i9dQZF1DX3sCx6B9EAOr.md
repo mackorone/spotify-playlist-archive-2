@@ -4,7 +4,7 @@
 
 > 시원한 국내음악들과 드라이빙을 즐겨보세요! \(Tap your feet to the K\-Pop beats on your way through the driving moments.\)
 
-1,006 songs - 2 day 5 hr 29 min
+1,008 songs - 2 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-09-11 | 2026-03-14 |
 | [Crazy About You](https://open.spotify.com/track/5fWA7ingUBU5U6eCbsf4TH) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [Novella](https://open.spotify.com/album/0Yy2pkAP5dZ5QGJhItCEm9) | 4:12 | 2022-03-24 | 2022-03-27 |
 | [Cream Soda](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:05 | 2023-07-11 | 2025-04-17 |
+| [Crow](https://open.spotify.com/track/65pQCf5tMSFEZO9JSfRUe1) | [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Crow](https://open.spotify.com/album/2JxQJmcB75IjJo4Sd4Z1F5) | 3:11 | 2026-07-07 |  |
 | [Crown](https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [REVERXE \- The 8th Album](https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB) | 3:18 | 2026-01-30 | 2026-03-14 |
 | [CRY FOR ME](https://open.spotify.com/track/2xtP8RNbo2BEMzLX7tK7aq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [CRY FOR ME](https://open.spotify.com/album/2aRAPmBCEdo9pWimsI5l87) | 3:24 | 2021-12-07 | 2026-03-14 |
 | [CRZY](https://open.spotify.com/track/2jlVG4zVT1HEeuZJlfnQt5) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [TASTE \- The 1st Album](https://open.spotify.com/album/6hMu9KtkE3ZXcS10QaC82U) | 3:26 | 2025-09-22 | 2025-12-27 |
@@ -217,7 +218,7 @@
 | [D\-D\-DANCE](https://open.spotify.com/track/3U764c5XbUqjr408oTrjfy) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [D\-D\-DANCE](https://open.spotify.com/album/1owCxA0CX66z6abjiZ3m6g) | 3:25 | 2021-12-07 | 2022-04-09 |
 | [Dailygram](https://open.spotify.com/track/3YC1vYd0ORoIx9blyHm8sN) | [Sijm 시즘](https://open.spotify.com/artist/1sFAOMHlzpH19uht6wXdqL) | [Dailygram](https://open.spotify.com/album/0nrNkbdILxMsvFfp50aJOn) | 2:47 | 2022-03-24 | 2022-04-15 |
 | [Daisy](https://open.spotify.com/track/14pjnaIqkpReO5D0tHofAS) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [WE:TH](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) | 3:09 | 2021-12-07 | 2023-06-09 |
-| [DAISY \(H//PE P ver.\) \(KR ver.\)](https://open.spotify.com/track/5U6Dnu5pH4rpGcrVKNATVd) | [H//PE Princess](https://open.spotify.com/artist/7LCBBRTytlwiWnA2Ugr3s1) | [DAISY / gOOd! \(H//PE P ver.\) \(KR ver.\)](https://open.spotify.com/album/61jh4dy9UOWZ2WuCcUZXNf) | 2:49 | 2026-06-12 |  |
+| [DAISY \(H//PE P ver.\) \(KR ver.\)](https://open.spotify.com/track/5U6Dnu5pH4rpGcrVKNATVd) | [H//PE Princess](https://open.spotify.com/artist/7LCBBRTytlwiWnA2Ugr3s1) | [DAISY / gOOd! \(H//PE P ver.\) \(KR ver.\)](https://open.spotify.com/album/61jh4dy9UOWZ2WuCcUZXNf) | 2:49 | 2026-06-12 | 2026-07-08 |
 | [DANCING ALONE](https://open.spotify.com/track/6vN4qMlor4D2U7a7BzSQI5) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [DANCING ALONE](https://open.spotify.com/album/1Ql33tND0vujOBXqvVtzau) | 3:18 | 2025-08-14 |  |
 | [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 | 2022-04-21 | 2023-10-11 |
 | [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 | 2024-03-05 |  |
@@ -410,7 +411,7 @@
 | [Her Fine Weather](https://open.spotify.com/track/0MiphDS5xfMLuxlHWSe141) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [She's Fine](https://open.spotify.com/album/7GfSkgEqNwSy8imCjkWKMd) | 2:31 | 2022-03-24 | 2022-04-14 |
 | [HERO](https://open.spotify.com/track/3xGzxuVYfgB8HRNuM7bZQX) | [1/N](https://open.spotify.com/artist/1yp1T52wMzX44QbkqRZm7J) | [HERO](https://open.spotify.com/album/0nmHbm1OVx8RSsYM6ldrf7) | 3:25 | 2022-03-24 | 2022-04-16 |
 | [Heroine](https://open.spotify.com/track/5gA9Xn8oPts2aewPgxVkPD) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heroine](https://open.spotify.com/album/4lWDPUQmrZPyO9T9pWfZc2) | 3:15 | 2022-03-24 | 2022-04-13 |
-| [Hertz](https://open.spotify.com/track/5p0aJa6Kr7l23VTbA9egQt) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [REV](https://open.spotify.com/album/7skbbJ5CI0jApB3Eg0eHbM) | 2:28 | 2026-04-01 |  |
+| [Hertz](https://open.spotify.com/track/5p0aJa6Kr7l23VTbA9egQt) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [REV](https://open.spotify.com/album/7skbbJ5CI0jApB3Eg0eHbM) | 2:28 | 2026-04-01 | 2026-07-08 |
 | [Hey yeah](https://open.spotify.com/track/3nuBpKr0DiQInVWgSr6u6T) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:08 | 2021-12-29 | 2022-04-21 |
 | [Highway](https://open.spotify.com/track/6g90q5OxuYT6FY5POVLbII) | [Boyz\_moon](https://open.spotify.com/artist/5aAxIm2TceztaZpbQnrxtB) | [22.5 Night&Day](https://open.spotify.com/album/4GurrYb465ebuulUNrGOP4) | 3:10 | 2022-03-24 | 2022-04-16 |
 | [HIGHWAY](https://open.spotify.com/track/2lMh4b9vHwfjkErdLrrwEx) | [KNK](https://open.spotify.com/artist/5zx2slDKDXNn1e6779RzPd) | [KNK AIRLINE](https://open.spotify.com/album/67o91ctnyaMxfi8OSokpcS) | 3:16 | 2022-03-24 | 2022-04-21 |
@@ -743,6 +744,7 @@
 | [RUN](https://open.spotify.com/track/5addyZDQMgnj1vDkMYZAyA) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz) | [RUN](https://open.spotify.com/album/7bwlqMGcB1u57m3rUVBn15) | 2:44 | 2021-12-07 | 2022-07-28 |
 | [Run Away](https://open.spotify.com/track/3UtKoiEoW8P9irIXTtIk1m) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [Ms\. Ma, Nemesis Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3xoBvHrae7rbl9ip3KK5nw) | 4:03 | 2022-03-24 | 2022-04-15 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-20 | 2026-03-14 |
+| [RUN IT](https://open.spotify.com/track/0ZYs2sRaCVomWCYP2PGH1j) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [RUN IT](https://open.spotify.com/album/2l6lf2MpFkDGE7XmNMAO8O) | 3:29 | 2026-07-07 |  |
 | [RUN RUN RUN](https://open.spotify.com/track/2x1sY2LHI0DfP1XV1zTGDA) | [F.able](https://open.spotify.com/artist/0zV3fDeVSMj631MEuQpqoE) | [RUN RUN RUN](https://open.spotify.com/album/5kzKVqS2yTIPy1QSkPWLEN) | 3:15 | 2022-03-24 | 2022-04-06 |
 | [Run to You](https://open.spotify.com/track/5PiAz4IM5l7aetXIOVpufS) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [The Great Shaman Ga Doo Shim OST Part.1](https://open.spotify.com/album/5cvOQB1vP7IGW4ZnEIMAIR) | 3:45 | 2022-03-24 | 2022-05-02 |
 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 | 2022-02-23 | 2025-06-05 |

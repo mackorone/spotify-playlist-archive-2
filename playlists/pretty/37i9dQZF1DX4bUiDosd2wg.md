@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 
 > 90\-00년대 세기말 감성을 함께 했던 그 때 그 발라드 감성을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,203 likes - 215 songs - 15 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,211 likes - 215 songs - 15 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bUiDosd2wg.md) - [plain]
 | 60 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 |
 | 61 | [사랑했지만](https://open.spotify.com/track/1zaAENcKgGaT9RZnW4AY59) | [Kim Yeon Woo](https://open.spotify.com/artist/4vsTrZ8Y7nKqQM0BJQ6Dvd) | [나는 가수다 2 7월의 가수전](https://open.spotify.com/album/3Y4MBs02iFVYBGuCxB1Xuu) | 5:01 |
 | 62 | [술이야](https://open.spotify.com/track/0PSUnuohhlcLLUewmpb0zf) | [Jang Hye Jin](https://open.spotify.com/artist/21TmkTAf40eB7SiNLYptbH) | [나는 가수다 경연 6\-2\. 청중 평가단 추천곡](https://open.spotify.com/album/1JITsVzw0hIPCD0RkO5Xg7) | 5:17 |
-| 63 | [제발](https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [꽃](https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg) | 4:18 |
+| 63 | [제발](https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz) | [Lee Sora](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [꽃](https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg) | 4:18 |
 | 64 | [For You](https://open.spotify.com/track/5naRxCy1t1RiNNmkthetWk) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Free](https://open.spotify.com/album/6VYZQTlCySwTLmP2w1Ua7O) | 4:05 |
 | 65 | [먼곳에서](https://open.spotify.com/track/5aFAqDSbv4vJgAWmVuvojM) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Second Story](https://open.spotify.com/album/3DwlAxa5P4qofNLXav1yxH) | 3:45 |
 | 66 | [해줄 수 없는 일](https://open.spotify.com/track/77IXf3D6H1tY1ntjDaRxLp) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [해줄 수 없는 일](https://open.spotify.com/album/48GolwFNT8Fd3OoFYHiz9G) | 4:21 |

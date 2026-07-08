@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwmjVBc7a0r.md) - [plain]
 
 > Les plus grands tubes rock en version berceuse
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,491 likes - 84 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,492 likes - 84 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwmjVBc7a0r.md) - [plain]
 | 2 | [Radioactive](https://open.spotify.com/track/37J1FMq02vB8uJkq1InyEw) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Imagine Dragons](https://open.spotify.com/album/5kHBVYjNPZFkxVjPZvUmRv) | 2:50 |
 | 3 | [Ocean Man](https://open.spotify.com/track/7Ctnq4nYgiXJwN0EWhgn6U) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Ween](https://open.spotify.com/album/4OLi4KqpJIfU7xEe2J7JuJ) | 3:58 |
 | 4 | [Go Your Own Way](https://open.spotify.com/track/4aWjLB63Unoq41yXse4OqZ) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Fleetwood Mac](https://open.spotify.com/album/5IjKOvmeL2vHVBN5OBaRKx) | 2:43 |
-| 5 | [Light My Fire](https://open.spotify.com/track/3VaQbOJ2Tm89JLsTWZYeAL) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of the Doors](https://open.spotify.com/album/6CulHAZ4jqaP8Dcn0Lr4bQ) | 3:37 |
+| 5 | [Light My Fire](https://open.spotify.com/track/3VaQbOJ2Tm89JLsTWZYeAL) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of The Doors](https://open.spotify.com/album/6CulHAZ4jqaP8Dcn0Lr4bQ) | 3:37 |
 | 6 | [Under the Bridge](https://open.spotify.com/track/45VCZtguiCNu5zJ3YkmcWC) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Red Hot Chili Peppers](https://open.spotify.com/album/4Fck4epvhHLWVUwH5UoGad) | 4:19 |
 | 7 | [Ho Hey](https://open.spotify.com/track/3GHz2nH6F2CqhgB2sDfiaZ) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of The Lumineers](https://open.spotify.com/album/7w0fva1nkAw00PVEDpMl9n) | 2:41 |
 | 8 | [Supermassive Black Hole](https://open.spotify.com/track/1MGxAV2FtDX1lnSBFDUqGs) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Muse](https://open.spotify.com/album/6hlkSvXh6t4QALZmJSTJcv) | 3:41 |
 | 9 | [Rock You Like a Hurricane](https://open.spotify.com/track/5VxQrWHZNxCAvosI5EQPzr) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Scorpions](https://open.spotify.com/album/6I3Ur46B0louQbFlVHOCmS) | 4:25 |
-| 10 | [I Fought the Law](https://open.spotify.com/track/5einlOrECTUKERg4Qy8K9A) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of the Clash](https://open.spotify.com/album/5uYUR7HqfGtPZrhL1qhcPq) | 2:11 |
+| 10 | [I Fought the Law](https://open.spotify.com/track/5einlOrECTUKERg4Qy8K9A) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of The Clash](https://open.spotify.com/album/5uYUR7HqfGtPZrhL1qhcPq) | 2:11 |
 | 11 | [Sweet Home Alabama](https://open.spotify.com/track/7yjhNlzgIJC3p7yirS85Vc) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Lynyrd Skynyrd](https://open.spotify.com/album/5jDWEJLzTUM76lCC0kbOu1) | 3:56 |
 | 12 | [Drown](https://open.spotify.com/track/0cl4EMF2lx8aPb8K5uM86P) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Bring Me The Horizon](https://open.spotify.com/album/3jRs4HVqjDj9qF0wMwakCP) | 4:13 |
 | 13 | [Basket Case](https://open.spotify.com/track/4GrdadcC8Oc9J6gjIF5TlI) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Green Day](https://open.spotify.com/album/7l0iAe1xf56h81Bj6QsqLL) | 4:26 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwmjVBc7a0r.md) - [plain]
 | 27 | [White Wedding \(Lullaby Rendition\)](https://open.spotify.com/track/6ajNmJQdPqtqyqYktONYce) | [Jammy Jams](https://open.spotify.com/artist/6dnGWqFchmCpwCE47YtG7d) | [Rock the Cradle: A Lullaby Tribute to Billy Idol](https://open.spotify.com/album/5sZMZrDEfxx4exlu92twRH) | 4:57 |
 | 28 | [Roxanne](https://open.spotify.com/track/77IfZ3UnNoSaQxZ4SV0dE2) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of the Police](https://open.spotify.com/album/6S82s8uEZaX53luB5cpq5P) | 3:00 |
 | 29 | [Been Caught Stealing](https://open.spotify.com/track/1MJq7RqXyLmjlv3BGtRUly) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Jane's Addiction](https://open.spotify.com/album/4zgL5VIVFx9MbsFDnhXeL8) | 3:57 |
-| 30 | [Sugar, We're Goin Down](https://open.spotify.com/track/6qN8gOQS3I92Bt2UTyijDQ) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Fall out Boy](https://open.spotify.com/album/2RUqGraSOVHDpSyX7NSU05) | 3:14 |
+| 30 | [Sugar, We're Goin Down](https://open.spotify.com/track/6qN8gOQS3I92Bt2UTyijDQ) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Fall Out Boy](https://open.spotify.com/album/2RUqGraSOVHDpSyX7NSU05) | 3:14 |
 | 31 | [Black Hole Sun \(Lullaby Version of Soundgarden\)](https://open.spotify.com/track/1MfTCN2GiGrUM140OPxKGx) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Grunge Baby! Lullaby Versions of the Seattle Sound, Vol\. 1](https://open.spotify.com/album/3tQCNWwrzbpmsvWJODOUwy) | 4:05 |
 | 32 | [Shout It out Loud](https://open.spotify.com/track/2BOMUtVqtTrktk4b7vzA1t) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Kiss](https://open.spotify.com/album/13y9xlxwJmitAIp6idq27v) | 2:57 |
 | 33 | [Freak on a Leash](https://open.spotify.com/track/4x94F1payOQdycLTd00Nma) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Korn](https://open.spotify.com/album/5Kd6kUhHik33cjJnnWLfe7) | 3:57 |

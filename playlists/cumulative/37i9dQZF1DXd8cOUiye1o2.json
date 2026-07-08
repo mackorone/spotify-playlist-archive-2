@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-01",
-  "description": "Enter to the world of Alpha, one beat at a time. Listen now.",
+  "description": "The musical journey of Awarapan 2 starts with \u2018Ve Junoon\u2019. Listen now.",
   "name": "New Music Hindi",
   "tracks": [
     {
@@ -2581,6 +2581,24 @@
     },
     {
       "album": {
+        "name": "Bewajah",
+        "url": "https://open.spotify.com/album/0UBpo1PhL1okCzOrMLHWgn"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Bewajah",
+      "url": "https://open.spotify.com/track/6zhgpXx8L5JAUMsGUhrFO9"
+    },
+    {
+      "album": {
         "name": "Bewaqt",
         "url": "https://open.spotify.com/album/6Cbg6PGHoCizdfyxs7njXz"
       },
@@ -4522,7 +4540,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 399108,
       "name": "Dil Bebaak",
       "url": "https://open.spotify.com/track/1TjAaNVKteQSq3pXmrrg1S"
@@ -5676,7 +5694,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 161889,
       "name": "Gareeb",
       "url": "https://open.spotify.com/track/5WokMuGOqi4lyZpBHOhpFw"
@@ -11534,7 +11552,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 237536,
       "name": "Manva Mera",
       "url": "https://open.spotify.com/track/4KHeyyU6JFCaCU4EZ2fKd0"
@@ -17987,6 +18005,40 @@
     },
     {
       "album": {
+        "name": "Tera Hua Sahiba (From \"Musafir Cafe\")",
+        "url": "https://open.spotify.com/album/2bYdyaZIY4lIunZXUGr1Rj"
+      },
+      "artists": [
+        {
+          "name": "Garvit - Priyansh",
+          "url": "https://open.spotify.com/artist/6pYc4P7IWYwWttTPzYkDV4"
+        },
+        {
+          "name": "Garvit Soni",
+          "url": "https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH"
+        },
+        {
+          "name": "Priyansh Srivastava",
+          "url": "https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU"
+        },
+        {
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
+        },
+        {
+          "name": "Aniket Shukla",
+          "url": "https://open.spotify.com/artist/4FDtRL3oDJNggf5ABZcVEe"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282079,
+      "name": "Tera Hua Sahiba (From \"Musafir Cafe\")",
+      "url": "https://open.spotify.com/track/3X5rGVs24gFcOi7oKazC4x"
+    },
+    {
+      "album": {
         "name": "Tera Mera Saath (From \"Do Deewane Seher Mein\")",
         "url": "https://open.spotify.com/album/6hPtuQSdhlfxJCkjdP4HRM"
       },
@@ -18770,7 +18822,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 258081,
       "name": "Thehro Dekhenge Hum Kab Tak - From \"Governor\"",
       "url": "https://open.spotify.com/track/5eogfNroANTY8SdNqfWoSL"
@@ -20103,6 +20155,32 @@
     },
     {
       "album": {
+        "name": "Ve Junoon (From \"Awarapan 2\")",
+        "url": "https://open.spotify.com/album/0GN8c8LKElLxzjr5gOams3"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        },
+        {
+          "name": "Subodhh Sharma",
+          "url": "https://open.spotify.com/artist/1dWf4FUHnUgKHkSNmPofYx"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401834,
+      "name": "Ve Junoon (From \"Awarapan 2\")",
+      "url": "https://open.spotify.com/track/0jfPsVkuCCqz8A9vDkWkMr"
+    },
+    {
+      "album": {
         "name": "Ve Mahiya (From \"Sarzameen\")",
         "url": "https://open.spotify.com/album/0QRhpVS3sSFCXlYLC3KjAM"
       },
@@ -20372,6 +20450,36 @@
       "duration_ms": 147428,
       "name": "What\u2019s Love?",
       "url": "https://open.spotify.com/track/1E16RREgD2Vrb5aqtS8Jwj"
+    },
+    {
+      "album": {
+        "name": "Woh Ikka Hai (From \"Ikka\")",
+        "url": "https://open.spotify.com/album/7yHkxGxp5ojHPzbZTEpPJB"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Vishal Dadlani",
+          "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+        },
+        {
+          "name": "Raja Kumari",
+          "url": "https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247098,
+      "name": "Woh Ikka Hai - From \"Ikka\"",
+      "url": "https://open.spotify.com/track/0zNlXK7Whhqolln9bLchnB"
     },
     {
       "album": {

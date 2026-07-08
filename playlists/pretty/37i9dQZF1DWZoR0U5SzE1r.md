@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoR0U5SzE1r.md) - [plain]
 
 > Continue giving God praise with these classic worship songs! Cover: Chris Tomlin
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,266 likes - 150 songs - 13 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,374 likes - 150 songs - 13 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

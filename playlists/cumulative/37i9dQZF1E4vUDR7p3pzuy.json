@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With David Von Beahm, Shane Embury, MIK's Reaction and more",
+  "description": "With David Von Beahm, MIK's Reaction, Shane Embury and more",
   "name": "DePitcha Radio",
   "tracks": [
     {
@@ -348,7 +348,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 328610,
       "name": "A so-Called Normal Life",
       "url": "https://open.spotify.com/track/6TqIHczrifhw7EfC3r8UjD"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 236412,
       "name": "Air",
       "url": "https://open.spotify.com/track/68aV0LAtm1AlefVKodPTDz"
@@ -1342,7 +1342,7 @@
       ],
       "date_added": "2026-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 282352,
       "name": "Be Your Own Light",
       "url": "https://open.spotify.com/track/7IWEy1oMlW4Ua2YG8t0Kms"
@@ -1946,6 +1946,24 @@
       "duration_ms": 244958,
       "name": "Blood Energy",
       "url": "https://open.spotify.com/track/2m7ggGWCEWwAh0vFjCGC4H"
+    },
+    {
+      "album": {
+        "name": "Blood God",
+        "url": "https://open.spotify.com/album/2dskWwTJKmg3WduyX587Vq"
+      },
+      "artists": [
+        {
+          "name": "Dusty Gannon and the Agonal Gasps",
+          "url": "https://open.spotify.com/artist/3uMxsY6gVhuyCpLv4lluwh"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Blood God",
+      "url": "https://open.spotify.com/track/2E8AaeOkYGfyGKkpEkBkG6"
     },
     {
       "album": {
@@ -2568,7 +2586,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 326746,
       "name": "Cemetery Days",
       "url": "https://open.spotify.com/track/4W2tlMpTfSfuMFnuZO3PBl"
@@ -2662,6 +2680,24 @@
       "duration_ms": 223855,
       "name": "Chasing Rainbows",
       "url": "https://open.spotify.com/track/4GDJIXNXvOycf2iMkyfE9h"
+    },
+    {
+      "album": {
+        "name": "Chasing Rainbows",
+        "url": "https://open.spotify.com/album/2HpWAxVhK41telabZlKSc3"
+      },
+      "artists": [
+        {
+          "name": "Monty Biggins",
+          "url": "https://open.spotify.com/artist/0TGGINUHkPNxm9sVp0TzKr"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250341,
+      "name": "Chasing Rainbows",
+      "url": "https://open.spotify.com/track/1vku0myaLPI4EpYNyw29t8"
     },
     {
       "album": {
@@ -2792,6 +2828,24 @@
       "duration_ms": 451422,
       "name": "Cities of the Interior",
       "url": "https://open.spotify.com/track/3tkITGy7zB69m235HMTrW3"
+    },
+    {
+      "album": {
+        "name": "Cities",
+        "url": "https://open.spotify.com/album/3dQ0K4bk0HTgpztH4DuDGT"
+      },
+      "artists": [
+        {
+          "name": "Coldtrace",
+          "url": "https://open.spotify.com/artist/2XC2zZpgkoHj9tEDNT6Oy1"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260077,
+      "name": "City I",
+      "url": "https://open.spotify.com/track/5ofKOeEs3Qz6odrvQNZAqd"
     },
     {
       "album": {
@@ -2940,7 +2994,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-04",
+      "date_removed": null,
       "duration_ms": 196447,
       "name": "Cold Sweats",
       "url": "https://open.spotify.com/track/4xAbFkGcPhdws0Xu3lCYhG"
@@ -3084,7 +3138,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 272565,
       "name": "Consolamentum Day",
       "url": "https://open.spotify.com/track/0HhhtfqmQTzeYeIj5rG5Jw"
@@ -6006,7 +6060,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 205511,
       "name": "Gatekeep",
       "url": "https://open.spotify.com/track/3orrNzd0iaBzpdtFWjeA6t"
@@ -8252,7 +8306,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 284800,
       "name": "it\u2019s just cold",
       "url": "https://open.spotify.com/track/10Gy93lhv1f6vfK7SwqPEe"
@@ -9309,6 +9363,24 @@
     },
     {
       "album": {
+        "name": "Losing My Religion",
+        "url": "https://open.spotify.com/album/3UqUSlyx80gQtadROIsJec"
+      },
+      "artists": [
+        {
+          "name": "Cvlt Ov the Svn",
+          "url": "https://open.spotify.com/artist/2KVSnLE8OkCi50mbRsBtWU"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218008,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/4cVstee7fswTt4u33UxODw"
+    },
+    {
+      "album": {
         "name": "Damage Control",
         "url": "https://open.spotify.com/album/7rKlBVJ21ubn0kNEZlZ54Q"
       },
@@ -9324,6 +9396,32 @@
       "duration_ms": 197555,
       "name": "Lost Control",
       "url": "https://open.spotify.com/track/0OW9VBWdWaW5JTxtU1pgC9"
+    },
+    {
+      "album": {
+        "name": "Love Lies",
+        "url": "https://open.spotify.com/album/28i2RCSukXzUbXhwID6hrk"
+      },
+      "artists": [
+        {
+          "name": "BLISS MY HEART",
+          "url": "https://open.spotify.com/artist/4GDi6e4RMv4vaLyX8eggu9"
+        },
+        {
+          "name": "Cliff Estatof",
+          "url": "https://open.spotify.com/artist/23j4U0Q3fOy95RN7HYtzTr"
+        },
+        {
+          "name": "Frank Ferrer",
+          "url": "https://open.spotify.com/artist/7BOYkSRZJNnjPLGHDg5dkq"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248058,
+      "name": "Love Lies",
+      "url": "https://open.spotify.com/track/2zwe0c2US7GuhwwbxXZBud"
     },
     {
       "album": {
@@ -9446,7 +9544,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 203134,
       "name": "Machine Gun",
       "url": "https://open.spotify.com/track/0itEBCji9ajAhu3lIewqPU"
@@ -9724,7 +9822,7 @@
       ],
       "date_added": "2026-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 340409,
       "name": "Mental Health (MIK\u2019s Miasma)",
       "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
@@ -11436,7 +11534,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 383323,
       "name": "Porcelain - White Remix",
       "url": "https://open.spotify.com/track/6cQ8vcaLnEeFSLEYQZU6xQ"
@@ -11895,6 +11993,24 @@
     },
     {
       "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/1EaDp2Xkr4NsdIgqM6H2eS"
+      },
+      "artists": [
+        {
+          "name": "Borage",
+          "url": "https://open.spotify.com/artist/3OgBo6VkRhmh45T1qKae17"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/5K0tFllZlM1DxJTin4TUYy"
+    },
+    {
+      "album": {
         "name": "The Demo Collection",
         "url": "https://open.spotify.com/album/198LZyOGxhkQTPOmn9XreK"
       },
@@ -11942,7 +12058,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 202927,
       "name": "Rest Your Halo",
       "url": "https://open.spotify.com/track/4q1fAT2JA4Dx26EqYKA2rQ"
@@ -13042,7 +13158,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 211999,
       "name": "Silhouette..",
       "url": "https://open.spotify.com/track/0sF7texsMsqkihJTrioRTk"
@@ -13226,7 +13342,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 267400,
       "name": "Smoke and Mirrors",
       "url": "https://open.spotify.com/track/26s2AEv7vlwoyrUGQMaZPA"
@@ -14017,6 +14133,24 @@
     },
     {
       "album": {
+        "name": "Stray",
+        "url": "https://open.spotify.com/album/4fXwHeEOa7ruHBVJxBg7uy"
+      },
+      "artists": [
+        {
+          "name": "Borage",
+          "url": "https://open.spotify.com/artist/3OgBo6VkRhmh45T1qKae17"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207857,
+      "name": "Stray",
+      "url": "https://open.spotify.com/track/7FJgXLgAj9dKf9Vm4fC2j2"
+    },
+    {
+      "album": {
         "name": "Street",
         "url": "https://open.spotify.com/album/5eecqry1Y6C0accFlEXKr3"
       },
@@ -14144,6 +14278,24 @@
       "duration_ms": 192000,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/1DFCy3dEt9o7CumF0USk3B"
+    },
+    {
+      "album": {
+        "name": "Suffocating",
+        "url": "https://open.spotify.com/album/0HfLy82qS63G6rXXphE2Td"
+      },
+      "artists": [
+        {
+          "name": "Vioflesh",
+          "url": "https://open.spotify.com/artist/28D07CaIZSfHVqlrlgtb70"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246000,
+      "name": "Suffocating",
+      "url": "https://open.spotify.com/track/7gVga4Zuq8jjuNTcLqbC6d"
     },
     {
       "album": {
@@ -15145,6 +15297,24 @@
     },
     {
       "album": {
+        "name": "THE MESS",
+        "url": "https://open.spotify.com/album/1RPKQlBm0MrW2epZU0ukH6"
+      },
+      "artists": [
+        {
+          "name": "Borage",
+          "url": "https://open.spotify.com/artist/3OgBo6VkRhmh45T1qKae17"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "THE MESS",
+      "url": "https://open.spotify.com/track/6OrMR8KqJ5IReNnqGJTEB0"
+    },
+    {
+      "album": {
         "name": "The Moment",
         "url": "https://open.spotify.com/album/7s0yIUyRI7Mq7crUJIUeFj"
       },
@@ -15423,6 +15593,24 @@
     },
     {
       "album": {
+        "name": "MIK\u2019s Reaction Goes Punk",
+        "url": "https://open.spotify.com/album/4HfOJ5ilu0wx2oN1VKU6fV"
+      },
+      "artists": [
+        {
+          "name": "MIK's Reaction",
+          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135004,
+      "name": "The Wax Hand",
+      "url": "https://open.spotify.com/track/2PUdWgszXxQCYJrQXIGXO2"
+    },
+    {
+      "album": {
         "name": "The Way You",
         "url": "https://open.spotify.com/album/0IdRilEeyoPoyBWeBZQ8Dp"
       },
@@ -15474,7 +15662,7 @@
       ],
       "date_added": "2026-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 284960,
       "name": "the whole damn mess",
       "url": "https://open.spotify.com/track/6G5i2aWpYpmlDtKu7FKutg"
@@ -16650,7 +16838,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 240744,
       "name": "Velvet Black",
       "url": "https://open.spotify.com/track/5Qw3Xscsima9Mecp2uVDjN"
@@ -17496,7 +17684,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 219840,
       "name": "Where The Bubbles Rise",
       "url": "https://open.spotify.com/track/1f51VHAE7BIiWy2oUlErCU"
@@ -18026,7 +18214,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 314181,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/3V8Nde6e1ziLaNsh5dxrHl"

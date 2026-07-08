@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 
 > Acoustic covers of all your favourite songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,393 likes - 84 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,535 likes - 84 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiuGVvOB4uo.md) - [plain]
 | 10 | [Iris](https://open.spotify.com/track/6zDC0hq3DAvYCpK7M8fUX0) | [Robin T.](https://open.spotify.com/artist/49DfPZbBWoyT9tu7YRBDGq) | [Iris](https://open.spotify.com/album/2zm9P6jVykyKdgDdXY1Gfc) | 2:21 |
 | 11 | [When I Get There](https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK) | [Brandon Chase](https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK) | [When I Get There](https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m) | 3:53 |
 | 12 | [Memories](https://open.spotify.com/track/5YbBNsK5ftR2vazlPiL1ZZ) | [Jessy Hayden](https://open.spotify.com/artist/5tKkv3I1ZCWfNewxsYdKZi) | [Memories](https://open.spotify.com/album/0texx5CYZmR9bngDQpTZeC) | 2:23 |
-| 13 | [Boys a liar](https://open.spotify.com/track/1vFZjXK3sELG6JzTlvxXaZ) | [Iris Faye](https://open.spotify.com/artist/37Q5rp3LYMmuM5JOTjFcL4) | [Boys a liar](https://open.spotify.com/album/0rLJYMJtJuwjG9GgpQ2eQA) | 3:26 |
+| 13 | [Boys a liar](https://open.spotify.com/track/1vFZjXK3sELG6JzTlvxXaZ) | [Iris Faye](https://open.spotify.com/artist/37Q5rp3LYMmuM5JOTjFcL4) | [Boy's a liar](https://open.spotify.com/album/0rLJYMJtJuwjG9GgpQ2eQA) | 3:26 |
 | 14 | [Your Song](https://open.spotify.com/track/5m8CFxNmVxgIUezNyZ3e6e) | [Blended Colours](https://open.spotify.com/artist/0hilVq0NlYegOGXan9zu6f) | [Your Song](https://open.spotify.com/album/1OaSVhsJ33mQVXQukPItlv) | 2:59 |
 | 15 | [Circles](https://open.spotify.com/track/3bgtpRltZVISs1jo7ouspO) | [Simon Sage](https://open.spotify.com/artist/1C2Plo9IW9Caj5uZnwLrIz) | [Circles](https://open.spotify.com/album/0gEywDBtvFbB5dqpwTOK6r) | 2:12 |
 | 16 | [Young Folks](https://open.spotify.com/track/4iW29NPjDjXScQvOaUD4DS) | [everlow](https://open.spotify.com/artist/6J0QEb88vQc3qthztPSYWd) | [Young Folks](https://open.spotify.com/album/2hRvjklnit9MwpwW6CRJkT) | 3:34 |

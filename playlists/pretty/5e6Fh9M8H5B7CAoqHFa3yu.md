@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 343 likes - 2,433 songs - 5 day 23 hr 19 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 343 likes - 2,446 songs - 6 day 0 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2441,5 +2441,18 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2431 | [Dime Pa Que Vuelves](https://open.spotify.com/track/5cg0XaWG6LGo4aZuoOxcGV) | [Soy Loy](https://open.spotify.com/artist/0egXpDPsm0pFmdjfIfPHbn), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Dime Pa Que Vuelves](https://open.spotify.com/album/6iAT6bslz3QBSKfHxSqrgM) | 3:14 |
 | 2432 | [Lluvia](https://open.spotify.com/track/3nDcihp9IpMQAF1cmBtEvJ) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [YOGURTO](https://open.spotify.com/album/48mR6V0kVn1Hrv2mYt22QS) | 2:18 |
 | 2433 | [Wish You Were Here](https://open.spotify.com/track/6TOsfnShKwt4x46FQmEMWF) | [Maknizer](https://open.spotify.com/artist/6wOaDcWGTfzG0t6ALk7CVt) | [Blacknote](https://open.spotify.com/album/0jaK0ZvOrm2K5q0bhINIyl) | 4:08 |
+| 2434 | [The Sound of the Sun](https://open.spotify.com/track/3gzqoyx1YrR8NKJL4kBhJj) | [Frank Sinutre](https://open.spotify.com/artist/6WtgiGqvqVma7Iiuo94SZp) | [Propositi per il Nuovo Anno Galattico](https://open.spotify.com/album/1IzWt1FwD4bU1k7ikBZeYZ) | 3:57 |
+| 2435 | [The Sound of the Sun](https://open.spotify.com/track/3gzqoyx1YrR8NKJL4kBhJj) | [Frank Sinutre](https://open.spotify.com/artist/6WtgiGqvqVma7Iiuo94SZp) | [Propositi per il Nuovo Anno Galattico](https://open.spotify.com/album/1IzWt1FwD4bU1k7ikBZeYZ) | 3:57 |
+| 2436 | [Under This Kind of Light](https://open.spotify.com/track/6t5vplX58jtQcwdBY06uyD) | [Frank Sinutre](https://open.spotify.com/artist/6WtgiGqvqVma7Iiuo94SZp) | [Propositi per il Nuovo Anno Galattico](https://open.spotify.com/album/1IzWt1FwD4bU1k7ikBZeYZ) | 3:56 |
+| 2437 | [Under This Kind of Light](https://open.spotify.com/track/6t5vplX58jtQcwdBY06uyD) | [Frank Sinutre](https://open.spotify.com/artist/6WtgiGqvqVma7Iiuo94SZp) | [Propositi per il Nuovo Anno Galattico](https://open.spotify.com/album/1IzWt1FwD4bU1k7ikBZeYZ) | 3:56 |
+| 2438 | [C´ero](https://open.spotify.com/track/2RFTA5u20GcOFPZyn9QHGD) | [Giorgio Isgro'](https://open.spotify.com/artist/0mkcb7x8JISZOGHV8LdKcW), [Simona Coretti](https://open.spotify.com/artist/55xuVhgRVbnRWQvlr1WqTk) | [C´ero](https://open.spotify.com/album/2MjMwLrjVZ7yG4kRaZr9fQ) | 4:45 |
+| 2439 | [Dust in the Room](https://open.spotify.com/track/2ULiW8r0snqSpRuwBmKKI2) | [Ira Math](https://open.spotify.com/artist/66H8aEE5Qipre5Wsqc8TCO) | [Dust in the Room](https://open.spotify.com/album/338j0m2h8jLHBIAR2UinDn) | 3:38 |
+| 2440 | [Dust in the Room](https://open.spotify.com/track/2ULiW8r0snqSpRuwBmKKI2) | [Ira Math](https://open.spotify.com/artist/66H8aEE5Qipre5Wsqc8TCO) | [Dust in the Room](https://open.spotify.com/album/338j0m2h8jLHBIAR2UinDn) | 3:38 |
+| 2441 | [My Silence](https://open.spotify.com/track/0T9rH0jyjkV95VWd7FN5c6) | [skyry](https://open.spotify.com/artist/10oPnykLQTYRMjFNNES9wk), [Anna Stoilov](https://open.spotify.com/artist/3sKjrOwHEV9Cbsggps23JC) | [My Silence](https://open.spotify.com/album/3fTQlPxfBLAotauxsTY1N2) | 3:21 |
+| 2442 | [My Silence](https://open.spotify.com/track/0T9rH0jyjkV95VWd7FN5c6) | [skyry](https://open.spotify.com/artist/10oPnykLQTYRMjFNNES9wk), [Anna Stoilov](https://open.spotify.com/artist/3sKjrOwHEV9Cbsggps23JC) | [My Silence](https://open.spotify.com/album/3fTQlPxfBLAotauxsTY1N2) | 3:21 |
+| 2443 | [journeys of light](https://open.spotify.com/track/0RkZgoeNB9b0U4UxG3nzUf) | [skyry](https://open.spotify.com/artist/10oPnykLQTYRMjFNNES9wk) | [journeys of light](https://open.spotify.com/album/4TiUHmNOBoZ4x4KPDqqjEc) | 2:34 |
+| 2444 | [journeys of light](https://open.spotify.com/track/0RkZgoeNB9b0U4UxG3nzUf) | [skyry](https://open.spotify.com/artist/10oPnykLQTYRMjFNNES9wk) | [journeys of light](https://open.spotify.com/album/4TiUHmNOBoZ4x4KPDqqjEc) | 2:34 |
+| 2445 | [Solo lo stesso](https://open.spotify.com/track/46dOaFi5Hp376Nmoxf7IVN) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [Solo lo stesso](https://open.spotify.com/album/2qUGQgrp7wVJi1P77bLkJh) | 2:41 |
+| 2446 | [Solo lo stesso](https://open.spotify.com/track/46dOaFi5Hp376Nmoxf7IVN) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [Solo lo stesso](https://open.spotify.com/album/2qUGQgrp7wVJi1P77bLkJh) | 2:41 |
 
-Snapshot ID: `AAAKTnxkQIzZGE6/+buEo5jhOaEIbOit`
+Snapshot ID: `AAAKW30MRYya9k2cF/XBI4jZA1dC7HY+`

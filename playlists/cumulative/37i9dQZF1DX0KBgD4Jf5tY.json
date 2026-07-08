@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:5AaaaiuLFShXMWKTw0KpSL\">Motel Cecil</a> in cover. ",
+  "description": "Solo musica indipendente \ud83c\uddee\ud83c\uddf9, aggiornata il mercoled\u00ec. <a href=\"spotify:artist:7BvpHaU1BqIKMEMKB8goGO\">seraphiel</a> in cover. ",
   "name": "Fresh Finds Italia",
   "tracks": [
     {
@@ -3064,7 +3064,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 257804,
       "name": "anne",
       "url": "https://open.spotify.com/track/1q5yDr4fdQYzlEmA3SVR9G"
@@ -5739,6 +5739,24 @@
     },
     {
       "album": {
+        "name": "calderone",
+        "url": "https://open.spotify.com/album/6EoBeHzkN4cIrcRJwRtXe6"
+      },
+      "artists": [
+        {
+          "name": "55miki",
+          "url": "https://open.spotify.com/artist/0V3d3uLu6WLBtZqeBNS0YU"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83147,
+      "name": "calderone",
+      "url": "https://open.spotify.com/track/3Im9VugwibqqHVVQrX0Mbb"
+    },
+    {
+      "album": {
         "name": "Calicantus",
         "url": "https://open.spotify.com/album/71bDM6QMHePDhzFsStuw7Z"
       },
@@ -7031,6 +7049,24 @@
     },
     {
       "album": {
+        "name": "RESTO VERO",
+        "url": "https://open.spotify.com/album/1woWQHvfSsbwK6dJoXiqQn"
+      },
+      "artists": [
+        {
+          "name": "Ciro AMORE",
+          "url": "https://open.spotify.com/artist/0gHvXoRSFCRlbgkAgSXtP4"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221541,
+      "name": "CHE COLPA NE HO",
+      "url": "https://open.spotify.com/track/470Qz6hb42oWAHjwfL4eDi"
+    },
+    {
+      "album": {
         "name": "Che Delusione",
         "url": "https://open.spotify.com/album/5kpIInvCjkiVt3kVQ7Zqxd"
       },
@@ -7350,6 +7386,24 @@
       "duration_ms": 216100,
       "name": "Chilometri",
       "url": "https://open.spotify.com/track/6nwFGaa89tRUhXR3dMMF9Z"
+    },
+    {
+      "album": {
+        "name": "chiodi",
+        "url": "https://open.spotify.com/album/4jWuzzc9AvqSmF5anPrJXy"
+      },
+      "artists": [
+        {
+          "name": "vilesangue",
+          "url": "https://open.spotify.com/artist/3Cbai4Yx6R1B2nb6oRi6ym"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "chiodi",
+      "url": "https://open.spotify.com/track/1uoDHrmCbOJOVqo8TQ5lDh"
     },
     {
       "album": {
@@ -8029,6 +8083,24 @@
     },
     {
       "album": {
+        "name": "Come Acqua",
+        "url": "https://open.spotify.com/album/7L6NIbwasNXxu7ylF9krQ1"
+      },
+      "artists": [
+        {
+          "name": "Primo Amore",
+          "url": "https://open.spotify.com/artist/6vqyGm4tSHrerJwKwQm7jo"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194482,
+      "name": "Come Acqua",
+      "url": "https://open.spotify.com/track/1bJNcPNJubRbehEEyyZGbx"
+    },
+    {
+      "album": {
         "name": "Come Back",
         "url": "https://open.spotify.com/album/1sUCObvXmV1atcS1yV7Pwo"
       },
@@ -8488,6 +8560,24 @@
       "duration_ms": 132411,
       "name": "COMP\u00c0",
       "url": "https://open.spotify.com/track/250xA5L2EIRYvY90IkFtvv"
+    },
+    {
+      "album": {
+        "name": "CON I TASTINI",
+        "url": "https://open.spotify.com/album/5aAzg6niZVLfOaq6U8BzbQ"
+      },
+      "artists": [
+        {
+          "name": "Musche",
+          "url": "https://open.spotify.com/artist/2wRyXjh9Aen8FfrcQ2VEQN"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "CON I TASTINI",
+      "url": "https://open.spotify.com/track/7fA72COCPQLddo8MXmZIlg"
     },
     {
       "album": {
@@ -18035,6 +18125,24 @@
     },
     {
       "album": {
+        "name": "Jesce Sole",
+        "url": "https://open.spotify.com/album/6hSmZu2w1Rt9atUxonFriX"
+      },
+      "artists": [
+        {
+          "name": "Imma",
+          "url": "https://open.spotify.com/artist/0GejYG3f7QA2VSFXLi8dFo"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184042,
+      "name": "Jesce Sole",
+      "url": "https://open.spotify.com/track/0VETDtz3nTM4JdLFB2gJsx"
+    },
+    {
+      "album": {
         "name": "Jev\u00e2",
         "url": "https://open.spotify.com/album/45AaYGP6P09ZhDdfd3ZBje"
       },
@@ -19304,7 +19412,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 245375,
       "name": "Lacrime",
       "url": "https://open.spotify.com/track/5nzKxtmINnmmD8aCrBWetb"
@@ -23773,6 +23881,28 @@
     },
     {
       "album": {
+        "name": "MUSICA VELOCE",
+        "url": "https://open.spotify.com/album/1QXJNpTQO8doVPIdmTKQn8"
+      },
+      "artists": [
+        {
+          "name": "TELLMEWISE",
+          "url": "https://open.spotify.com/artist/2YeePXfhr0Be7X84n7ot3U"
+        },
+        {
+          "name": "prxddom",
+          "url": "https://open.spotify.com/artist/0HH1FNMGbKb7botxWTTDSe"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158181,
+      "name": "MUSICA VELOCE",
+      "url": "https://open.spotify.com/track/6X8tOMUlOOOAeI3AOyxKng"
+    },
+    {
+      "album": {
         "name": "Muy Poca Tierra",
         "url": "https://open.spotify.com/album/0Hby4xDILLgcOf20cO3p1n"
       },
@@ -26416,7 +26546,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 149629,
       "name": "NUOVA PELLE",
       "url": "https://open.spotify.com/track/7myc8YDysOwVzoLUnol156"
@@ -27230,7 +27360,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 188372,
       "name": "ora",
       "url": "https://open.spotify.com/track/1NKIngfX6oB1vONTa41Dwa"
@@ -28920,7 +29050,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 204000,
       "name": "Piangere",
       "url": "https://open.spotify.com/track/2ka2vN1xn4lnJx4JhKawBx"
@@ -34424,7 +34554,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 189850,
       "name": "So",
       "url": "https://open.spotify.com/track/3Meh830NxXhLpEFD9GMnDR"
@@ -39452,7 +39582,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 238578,
       "name": "Una barca a Sorrento",
       "url": "https://open.spotify.com/track/1bBMs8EfpbBbOkiK1tmtbi"

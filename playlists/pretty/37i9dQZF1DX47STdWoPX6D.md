@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 
 > The latest and the greatest of CHH!  Cover: Parris Chariz
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,705 likes - 99 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,715 likes - 99 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47STdWoPX6D.md) - [plain]
 | 26 | [Daylight](https://open.spotify.com/track/3ZA1RP5irSfeuJPggrF17h) | [Bill B.](https://open.spotify.com/artist/5JVL64s0ciD2Q3y9PQ0vQr), [Mic Wise](https://open.spotify.com/artist/7ytiPboyWX9pftktcjEs9w), [GB](https://open.spotify.com/artist/7BQoc48GH06F2n5Bbbg34J) | [Daylight](https://open.spotify.com/album/61JvNB4joyv5S4UI2RhB1g) | 3:10 |
 | 27 | [White Mans Religion](https://open.spotify.com/track/5qBKdifd9PNHxUDxk3sNiW) | [Uninvtd](https://open.spotify.com/artist/0q66IFlScb4fDO2sgZSrfZ) | [White Mans Religion](https://open.spotify.com/album/5BhXU8m0zP0mWm14SziU1Q) | 2:23 |
 | 28 | [AIMBOT](https://open.spotify.com/track/2kTASX0PcD0DaC0vCLZ4Mc) | [Vennisay](https://open.spotify.com/artist/47fuPz0K0cyruPcpXiBo2W) | [AIMBOT](https://open.spotify.com/album/7jkmnIxU1bUlj6QUNkkZZw) | 1:23 |
-| 29 | [HIM](https://open.spotify.com/track/2wbUFKHqifx7DN7DH1x9Ah) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [HIM](https://open.spotify.com/album/4zBwwRTkdnqDJpUBc3wQC2) | 2:15 |
+| 29 | [HIM](https://open.spotify.com/track/2wbUFKHqifx7DN7DH1x9Ah) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [HIM](https://open.spotify.com/album/4zBwwRTkdnqDJpUBc3wQC2) | 1:49 |
 | 30 | [THATS CHRIST](https://open.spotify.com/track/3eIeoWEpKLR8Ox8wWPAghE) | [JBthaPreacher](https://open.spotify.com/artist/6ShMmu8ZCu6MUoJfui5YK6) | [THATS CHRIST](https://open.spotify.com/album/46r7jnG04NzTqPuurEtqh2) | 1:57 |
 | 31 | [After Fire](https://open.spotify.com/track/3trqvPZjNGLAbO7UiCyKfD) | [Deca OTA](https://open.spotify.com/artist/6hHbz1DNPWNedEemGyAvjb) | [After Fire](https://open.spotify.com/album/59iT7nqsYinNRnFjiFsce5) | 4:10 |
 | 32 | [GODGIVEN](https://open.spotify.com/track/7gdXbIBXbmcaybtGehFl4q) | [J\-Reyez](https://open.spotify.com/artist/3DtWEp9qvgQ6Bxxzoy7m45), [UNKWN](https://open.spotify.com/artist/1hKoauICyrx7JojasOI1EU) | [GODGIVEN](https://open.spotify.com/album/5rhrWgo0pD0zF7wWPGMB4Q) | 2:11 |

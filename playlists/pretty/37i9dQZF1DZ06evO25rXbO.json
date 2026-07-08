@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1247111,
+  "num_followers": 1247203,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akmegAAAAAD1mZkzsS7Kd2Le1bZ1IIPR",
+  "snapshot_id": "akrwAAAAAAAOy5B4I6FO/h2MvZyUZUxO",
   "tracks": [
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 233373,
+      "name": "Fire Flies",
+      "url": "https://open.spotify.com/track/4A5FLaZI3Ni5eT0c9fqi8F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 245988,
       "name": "WHISKEY (RELEASE ME) (feat. Gorillaz & Westside Gunn)",
       "url": "https://open.spotify.com/track/69AHqDMcDKyxKL1lNNCIve"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 233373,
-      "name": "Fire Flies",
-      "url": "https://open.spotify.com/track/4A5FLaZI3Ni5eT0c9fqi8F"
     },
     {
       "added_at": null,
@@ -931,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 248493,
+      "name": "Kansas",
+      "url": "https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cracker Island (Deluxe)",
         "url": "https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 150316,
       "name": "Controllah (feat. MC Bin Laden)",
       "url": "https://open.spotify.com/track/3BmGfswCrv2p1It4oCdtU6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 248493,
-      "name": "Kansas",
-      "url": "https://open.spotify.com/track/7FJ7lHtpbWvPKe3zCoeAWC"
     },
     {
       "added_at": null,

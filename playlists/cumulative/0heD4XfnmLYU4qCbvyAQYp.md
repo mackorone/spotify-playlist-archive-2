@@ -4,7 +4,7 @@
 
 > The best  indie rock tracks\. \| Indie, Rock, Clasic Rock, Surf Rock,  Alternative, Independent, etc\.  Submit on IG @reinhardzwisler Cover: Lord Huron
 
-132 songs - 8 hr 34 min
+138 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Cu@110](https://open.spotify.com/track/0pPsxSWgmralFqy7hADfj8) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [Entanglement](https://open.spotify.com/album/5tuD5rn8VGTm3yIKjDWeku) | 2:59 | 2026-02-06 |  |
 | [Dandelion](https://open.spotify.com/track/46gVwH2UBde8k2n8q4X4iQ) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Dark Skies](https://open.spotify.com/album/6msdDrMHEmyWefzameIaQC) | 3:10 | 2025-12-17 | 2026-02-07 |
 | [Diré](https://open.spotify.com/track/4DSQXiIQxqA2xTog0GEWEh) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 3:31 | 2026-04-04 | 2026-05-16 |
+| [Distance to Empty](https://open.spotify.com/track/5711xKDW3beA91Cv0KLtAM) | [Up Too Late](https://open.spotify.com/artist/40G67I5n1SGlmXuToviTt4) | [Distance to Empty](https://open.spotify.com/album/4u8gJUVpbtmO5GRbgJDRxr) | 2:20 | 2026-07-07 |  |
 | [Drain You](https://open.spotify.com/track/2aIcXOu6wc7yNtviwbqp7A) | [FuzzBeat](https://open.spotify.com/artist/3tlQEPigCWjJl4mCY97UYV) | [Drain You](https://open.spotify.com/album/7lKrZsFDSZpSHOEYTT23G3) | 3:42 | 2025-12-17 | 2026-02-07 |
 | [Droga Amor y Dolor de Mi Corazón](https://open.spotify.com/track/4DkFtR711mWQSXJO3PApXa) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Droga Amor y Dolor de Mi Corazón](https://open.spotify.com/album/3jAPjP3mXAIslhjF2szkO2) | 2:55 | 2025-11-02 | 2026-02-07 |
 | [Durango 99](https://open.spotify.com/track/6VDuKcHNgUY77G5ySWOFIX) | [Käsyädë](https://open.spotify.com/artist/0TN8XJcxK2zoZwCakp2JiO) | [Durango 99](https://open.spotify.com/album/6fC5Q1eFDunGgY2BSUpUfZ) | 1:35 | 2025-11-02 |  |
@@ -76,7 +77,9 @@
 | [Kiss Me Before I Die](https://open.spotify.com/track/24PYfS3e4mGu9J1qRYQJNb) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Kiss Me Before I Die](https://open.spotify.com/album/6WK2lmzQryOU4r2YyI82Hg) | 4:13 | 2025-05-04 |  |
 | [La Decisión](https://open.spotify.com/track/0bWu8JSfxwEJMGL91qnWK3) | [Nico Tallac](https://open.spotify.com/artist/7afY95ejJDhYH50Ce2mgsT) | [En Fin](https://open.spotify.com/album/4nZsWk64LWVpk3Dui3czf8) | 5:12 | 2026-04-04 | 2026-05-16 |
 | [Lady](https://open.spotify.com/track/7f1zenijQQBqbdMnP7K3Sf) | [Decade](https://open.spotify.com/artist/4gX6GMBVlHl2O27Cq0awyi) | [Lady](https://open.spotify.com/album/2OTHb14DYzCrHkP9tZWHex) | 3:24 | 2025-12-11 | 2026-05-16 |
+| [Lesson to Be Learned](https://open.spotify.com/track/3H3TZ6As4H5f4HpCQ9RLEp) | [Juliet's Bane](https://open.spotify.com/artist/43FGjbS68JUpmmocZSmwKh) | [HumaNature & Lesson to Be Learned](https://open.spotify.com/album/20AGbANuWzwx5p4gFJ7GUK) | 4:37 | 2026-07-07 |  |
 | [Lost & Found](https://open.spotify.com/track/2BWoxn24Y3TCo6S3YAyJNx) | [Roy Aharon](https://open.spotify.com/artist/6iG05TrjWso3eQiNOcvmvc), [Sapir J\. Fox](https://open.spotify.com/artist/574DPDIpkGHROQN4fgCOek) | [Zen Project](https://open.spotify.com/album/336ZUWQwHQrwtVD2w71YC1) | 5:13 | 2026-05-14 |  |
+| [Lungs Enough?](https://open.spotify.com/track/5SeUTbBIcHEcE6a8OwJ2Fe) | [Kahlil's Razor](https://open.spotify.com/artist/7rA1KbuQQ0AZbTKBiw508I) | [Lungs Enough?](https://open.spotify.com/album/418vHl49VRBDt4VZ1f8ceO) | 3:13 | 2026-07-07 |  |
 | [Mad People](https://open.spotify.com/track/3QVIGA3R10hucV3BTehZTU) | [Supersonic Boy](https://open.spotify.com/artist/6LnpFqRCx2Mmq6ceDatTj3) | [Mad People](https://open.spotify.com/album/3i5bIj8w0fzi5gvc7j1RMV) | 3:04 | 2026-01-19 | 2026-02-07 |
 | [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 | 2026-01-14 | 2026-02-07 |
 | [Man in the Dark](https://open.spotify.com/track/5EDgFxvKmS798AQYHaoWJ0) | [The Magenta](https://open.spotify.com/artist/7LSEWrAltP8MRqpYwjrc4s) | [May Cause Addiction](https://open.spotify.com/album/0PqmnazU9h1RqTNiNcUnUo) | 3:25 | 2026-05-14 |  |
@@ -96,6 +99,7 @@
 | [Peace Defined](https://open.spotify.com/track/0EpdxqFRCUeyVMF60GEBx3) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [Peace Defined](https://open.spotify.com/album/6u34BdHbyeNXY9tD8H93KN) | 4:21 | 2025-09-10 | 2026-05-16 |
 | [Pliz non la skippare](https://open.spotify.com/track/1Oj3hSFsRVMVSPrMqWKrGa) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Pliz non la skippare](https://open.spotify.com/album/35Hx1zfxo8WY4t5LiBjXPl) | 3:45 | 2025-11-24 | 2026-02-07 |
 | [Pressure](https://open.spotify.com/track/3UvIypxD8ObioUD8gtNkEW) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:15 | 2025-11-04 | 2025-12-08 |
+| [Quando Sorridi](https://open.spotify.com/track/0IfTiyMes24Nb7f2W3YTU1) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [Quando Sorridi](https://open.spotify.com/album/5dR0HWZxbT0b8ySI0Hve9s) | 3:37 | 2026-07-07 |  |
 | [Quiet Mirror](https://open.spotify.com/track/1bbHzu8CmoQABeNdYHPR2z) | [Constant Vertex](https://open.spotify.com/artist/5EL7W7lWmcIk3jhTIoPNoM) | [Ad Astra](https://open.spotify.com/album/4JEGhzddPLseDCfKqGhKnj) | 2:58 | 2025-12-17 | 2026-02-07 |
 | [Red Suitcase \- Single Version](https://open.spotify.com/track/5tgpVpdkGL7IgayCLRTTra) | [Amos Ender](https://open.spotify.com/artist/2Nt0gG43vrYBQiPAZMUUuw) | [Into The World Of Man](https://open.spotify.com/album/1yj0CWxvKoB4c02hrtIb3Y) | 3:37 | 2026-01-19 | 2026-02-07 |
 | [Relations](https://open.spotify.com/track/3z4yeBOZWcnC8xn95osAPC) | [Tom Markey](https://open.spotify.com/artist/72jot9x20bkvfxFVjs4xNJ) | [Relations](https://open.spotify.com/album/6UkWcFTCAGuD1EbbaQhNBM) | 5:16 | 2025-11-24 | 2026-02-07 |
@@ -119,6 +123,7 @@
 | [Terrestrial](https://open.spotify.com/track/1gkS2fy9B3j8puwIS22DmR) | [Paul Johann](https://open.spotify.com/artist/1CXHDE7P5kYPbAQT3fQH3b) | [The Kingdom of Trees](https://open.spotify.com/album/6rUJAze2ADreCV5kLqWmea) | 4:33 | 2025-10-19 | 2026-05-16 |
 | [Tesla](https://open.spotify.com/track/6iJSBzhwuo10snNpJPlT6o) | [Errant Shadow](https://open.spotify.com/artist/32yImafufTQRCNtMvD4YSN) | [Tesla](https://open.spotify.com/album/7fPZmtfCwbZfbMZNk5o4KG) | 4:44 | 2025-11-02 |  |
 | [The Big Machine](https://open.spotify.com/track/2qQeDr5qL9U0zSM7o754Df) | [Mumbler \(UK\)](https://open.spotify.com/artist/66dhVKv1q3GsP1sqx2eW5j) | [Reformat](https://open.spotify.com/album/0BdIlCAGcZZeEZ2yNNvgrn) | 3:38 | 2026-04-04 |  |
+| [The Cycle](https://open.spotify.com/track/1Mwm0XKriYrpPL6xhSH9U4) | [The American Hotel System](https://open.spotify.com/artist/6brMI3t9gWQkmJVGhxCQnJ) | [The Cycle](https://open.spotify.com/album/5fODtmdm4JsifXS8emavBw) | 4:35 | 2026-07-07 |  |
 | [The Party Is Over](https://open.spotify.com/track/5O69OUizv8L6SElL2O7bjx) | [Atomium](https://open.spotify.com/artist/0KZxq71zg8JWEP22q0Qwff) | [The Party Is Over](https://open.spotify.com/album/4FKtBBuGUFTwsLAF4s219I) | 3:57 | 2026-05-14 |  |
 | [The Puppeteer](https://open.spotify.com/track/1EnSsLEzo4LuQRJ12kl9kn) | [Aged Beyond Decay](https://open.spotify.com/artist/0lNgiaIYRDLNkCv5CuYjVb) | [The Puppeteer](https://open.spotify.com/album/5TsaiTsFKvWIEWa2VTsABH) | 3:48 | 2026-02-06 | 2026-04-05 |
 | [The Rage I Felt](https://open.spotify.com/track/0OoZTTSWWtFsUuAsBB6QCz) | [Between Two Winters](https://open.spotify.com/artist/1QICrr5xzMMZtjPs9tr2gd) | [Lorenzo](https://open.spotify.com/album/54G9cItsqKUXnpSA8bIElt) | 4:25 | 2025-11-24 | 2026-02-07 |
@@ -132,6 +137,7 @@
 | [Trouble](https://open.spotify.com/track/6z9MnDXCKOfD7Bh1RU0odl) | [Tidal Rave](https://open.spotify.com/artist/1cLwEvonj7L34lEucivmLv) | [Trouble](https://open.spotify.com/album/6MfJwwwL5PuAQTnKmOK3RE) | 3:15 | 2026-05-14 |  |
 | [Two Friends](https://open.spotify.com/track/5cdSszu0zZI6lepZYCs6WC) | [Collateral Trip](https://open.spotify.com/artist/6YeKawSIhTJT2iiEcOC2eS) | [Two Friends](https://open.spotify.com/album/68NbLI8e5fBpYWciYosQB4) | 3:10 | 2025-11-02 |  |
 | [Velvet Blue](https://open.spotify.com/track/7y2htsY1MqNozMvmxzHLSi) | [MXSDLR](https://open.spotify.com/artist/2U0IlUZodXZVX0WULhygOB) | [Velvet Blue](https://open.spotify.com/album/5HUXNBVOaPfkcN0yHcJcIz) | 4:03 | 2025-11-04 | 2025-12-08 |
+| [Virtual Dream](https://open.spotify.com/track/00jxdQR0k9QM7vzX0hgCQk) | [1Use\_C0de](https://open.spotify.com/artist/39UN9sbT58XbTytvE0lhUR) | [Virtual Dream](https://open.spotify.com/album/4Hztf9pM4oji7muPUn7QnP) | 3:19 | 2026-07-07 |  |
 | [Voidbound // Toward the Infinite Silence](https://open.spotify.com/track/50xtUVDCFqzTNnquM31Y3N) | [Terrestrial Animal](https://open.spotify.com/artist/75UDNIKbXLmpIGyEuuunjT) | [Laniakea](https://open.spotify.com/album/7CGCSLsTvaj8tlKv3iXjAR) | 6:26 | 2025-05-04 |  |
 | [War Cry](https://open.spotify.com/track/73xtWpKcqtJsQk2N9OSham) | [Errant Shadow](https://open.spotify.com/artist/32yImafufTQRCNtMvD4YSN) | [War Cry](https://open.spotify.com/album/4FmMKJSkOhHGKBc4Tq1SeU) | 8:02 | 2025-11-02 |  |
 | [Warpaint](https://open.spotify.com/track/3YUxt5V51agQZDIBTn2Wp2) | [Flying Earrings](https://open.spotify.com/artist/4rIm3b1CR7sR47AG5qzjcy) | [Dreams](https://open.spotify.com/album/7zJxan3akf2KbCg6snqX3L) | 6:45 | 2025-12-10 | 2026-02-07 |

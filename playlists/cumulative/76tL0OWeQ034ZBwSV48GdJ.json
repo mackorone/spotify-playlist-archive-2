@@ -1707,6 +1707,28 @@
     },
     {
       "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/5gPQStZ112bHjLB4Gx4JFj"
+      },
+      "artists": [
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        },
+        {
+          "name": "Kingstarlight",
+          "url": "https://open.spotify.com/artist/6Ql6j6xbqV33Qj07vWWsFx"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289653,
+      "name": "Hurricane - Extended Mix",
+      "url": "https://open.spotify.com/track/1sWT14jzdy9AoLg8jjWj1o"
+    },
+    {
+      "album": {
         "name": "Hypercolour (ARTBAT Remix)",
         "url": "https://open.spotify.com/album/10GHM2aJsTqVR0hg1uTH3l"
       },

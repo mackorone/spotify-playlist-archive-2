@@ -19189,6 +19189,24 @@
     },
     {
       "album": {
+        "name": "Youth Today",
+        "url": "https://open.spotify.com/album/5VDEgG7OiSfEVpiXG8dSYt"
+      },
+      "artists": [
+        {
+          "name": "VAYONN",
+          "url": "https://open.spotify.com/artist/79zOflwBYq7fHf6kCQAB3l"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "MUAH!",
+      "url": "https://open.spotify.com/track/4i96s6IzO7USqeuOsxiyyU"
+    },
+    {
+      "album": {
         "name": "I SAY MAMAMOO : THE BEST",
         "url": "https://open.spotify.com/album/2yApvdfgG74FlAW2L4tlTW"
       },

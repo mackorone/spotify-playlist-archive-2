@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Nipsey Hussle and <br/>Bino Rideaux
 
-[Spotify](https://open.spotify.com/user/spotify) - 760,059 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 760,031 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 5 | [WHAT'S YOUR INFO](https://open.spotify.com/track/0SRNkniakIBS4TWmWhfCR1) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Wallie the Sensei](https://open.spotify.com/artist/6cUpFVxDYWed9WxtC4QgC5) | [WHAT'S YOUR INFO](https://open.spotify.com/album/7alyP24cbv0UaJBRW24c4j) | 2:34 |
 | 6 | [TAKE U HOME](https://open.spotify.com/track/34n0ATfkVijT83HeisJi7j) | [Shoreline Mafia](https://open.spotify.com/artist/4tYSBptyGeVyZsk8JC4JHZ), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [BIDNESS IS BOOMIN](https://open.spotify.com/album/75KSzdkYu0CEHoM7dDPgaD) | 2:40 |
 | 7 | [Stranger](https://open.spotify.com/track/593fLceKvKYdySkrBkk0dQ) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [While Y'all Wait](https://open.spotify.com/album/59Q7UtDMOgMRRxXoltnfTw) | 3:15 |
-| 8 | [Organic Motion](https://open.spotify.com/track/0YJuBcj5bl9HGqMOBnthHC) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Organic Motion](https://open.spotify.com/album/5SdeOFSHrOBR6LikAiD7rU) | 2:35 |
+| 8 | [Organic Motion](https://open.spotify.com/track/0YJuBcj5bl9HGqMOBnthHC) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [DJ.Fresh](https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ) | [Organic Motion](https://open.spotify.com/album/5SdeOFSHrOBR6LikAiD7rU) | 2:35 |
 | 9 | [Say Less \(feat\. D\-Lo, Mistah F.A.B\. & Zoe Osama\)](https://open.spotify.com/track/38oyNBeYrQyD7bAPpOlV8F) | [Frisco Chuck](https://open.spotify.com/artist/0EJ1PJOTZJgAacXpyyCXqy), [D\-Lo](https://open.spotify.com/artist/0kHp6OZT4pvcCbTMfQCOvE), [Mistah F.A.B.](https://open.spotify.com/artist/55TH3aMMK1u2VsR8DPGC6D), [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [CA Resurgence](https://open.spotify.com/album/0E82qKVETZQlIydN4y2uMb) | 3:15 |
 | 10 | [Go Slow](https://open.spotify.com/track/0SBbd4yR6KzPxxnkiuidYO) | [Chef Boy](https://open.spotify.com/artist/0y9JScMVVW8sk3UoLZA3hj), [Steven G](https://open.spotify.com/artist/3v1Qow1OPaxC0DLMocMIVj) | [Go Slow](https://open.spotify.com/album/6WQqAC6wM6PUrzNAaVBeKN) | 2:38 |
 | 11 | [Can't Touch This](https://open.spotify.com/track/04B7iuFOZSGr0zyMP3PFkQ) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [Can't Touch This](https://open.spotify.com/album/1idiwjkcE8F2hyNaagjPNi) | 2:28 |

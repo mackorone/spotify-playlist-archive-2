@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f  Cover: Lucid Express (Hong Kong)",
+  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f  Cover: kurayamisaka (Japan)",
   "name": "Haze ",
   "tracks": [
     {
@@ -1982,6 +1982,24 @@
       "duration_ms": 230040,
       "name": "Here's Where the Story Ends",
       "url": "https://open.spotify.com/track/5gSHlT2SI0dtjeHrjj96A1"
+    },
+    {
+      "album": {
+        "name": "hikari",
+        "url": "https://open.spotify.com/album/4z2rZEuLUJpHKPMDjNJas4"
+      },
+      "artists": [
+        {
+          "name": "kurayamisaka",
+          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265949,
+      "name": "hikari",
+      "url": "https://open.spotify.com/track/1UmEFz347F6ZM2eluys3vK"
     },
     {
       "album": {

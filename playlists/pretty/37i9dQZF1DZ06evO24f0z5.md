@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 
 > This is Zona Ganjah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,096 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,114 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 | 34 | [Cuanto heredamos](https://open.spotify.com/track/3h6m0wvnj4yyB3u29NeX16) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz) | 3:28 |
 | 35 | [Inconmensurable](https://open.spotify.com/track/0V6SWfA02kWAcn9UPCLmuZ) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/0DEcwrfWlmKUbUcjjCaObx) | 3:44 |
 | 36 | [Con el diablo al lado](https://open.spotify.com/track/1x4q70rqejsIHgLifQ75r3) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari todo concuerda](https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif) | 3:46 |
-| 37 | [One Drop](https://open.spotify.com/track/6ygWwUSHRVDbja6zpfMFNG) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [One Drop](https://open.spotify.com/album/4guVvB3rBVdTjwb58DZfeh) | 3:58 |
+| 37 | [Ten paciencia](https://open.spotify.com/track/6eCBaeECJCWwVY5aceMPeD) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/0z1Ax60tr5FPRqhgoF025g) | 3:16 |
 | 38 | [La vida](https://open.spotify.com/track/3MB0RVkjGowef4HLoeNeQF) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz) | 3:51 |
 | 39 | [Expandiendo fuera de mi](https://open.spotify.com/track/3MxahHVl15Hak6aQQN5Acw) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/0DEcwrfWlmKUbUcjjCaObx) | 2:46 |
-| 40 | [Ten paciencia](https://open.spotify.com/track/6eCBaeECJCWwVY5aceMPeD) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/0z1Ax60tr5FPRqhgoF025g) | 3:16 |
+| 40 | [One Drop](https://open.spotify.com/track/6ygWwUSHRVDbja6zpfMFNG) | [KLUB](https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY), [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2), [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [One Drop](https://open.spotify.com/album/4guVvB3rBVdTjwb58DZfeh) | 3:58 |
 | 41 | [Es ignorancia](https://open.spotify.com/track/46Q8tX9yStG64mwCDNW9MF) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari todo concuerda](https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif) | 3:04 |
 | 42 | [Dentro de mi](https://open.spotify.com/track/1CZmuEzA7p7QIu2kE4phS2) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz) | 3:27 |
 | 43 | [Cerca del Río](https://open.spotify.com/track/29j739ARrB9ZoaYKH8BudS) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/69WHEL2umc14UquJ3Bvjer) | 6:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 | 49 | [Luces de la ciudad](https://open.spotify.com/track/2csEH050WHJQM6qXSxBlff) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari todo concuerda](https://open.spotify.com/album/24XqS2nRF5U2WUZ71GRLif) | 3:18 |
 | 50 | [Amar es mas](https://open.spotify.com/track/1BUW2OuuqNSUSphIKVxHNu) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/4PHXvI7QuPCoi915AFMOcz) | 5:17 |
 
-Snapshot ID: `akmegAAAAADWV3vEJABoJ+cj6Cf8HiVn`
+Snapshot ID: `akrwAAAAAACf34LZtdCyz4PPl5VpsYHz`

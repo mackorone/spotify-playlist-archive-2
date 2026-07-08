@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "J-Rock acts who have broken the border and are making global impact.   Cover: BAND-MAID",
+  "description": "J-Rock acts who have broken the border and are making global impact.   Cover: muque",
   "name": "Rock Strike Japan",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 115733,
       "name": "(Theme From) The Odozehi",
       "url": "https://open.spotify.com/track/4x43Agl1xVMMZmA7VZHZQB"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 223692,
       "name": "-\u696d-",
       "url": "https://open.spotify.com/track/7h5lkrQZC01rAbqF433WB8"
@@ -4220,7 +4220,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 202229,
       "name": "ENERGETIC",
       "url": "https://open.spotify.com/track/136RFhFtC1lDlKgXw7eXM3"
@@ -4815,6 +4815,24 @@
     },
     {
       "album": {
+        "name": "Fig Smoke",
+        "url": "https://open.spotify.com/album/4Y2u6eHHFMsoCKftRR63ab"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235233,
+      "name": "Fig Smoke",
+      "url": "https://open.spotify.com/track/1SzUveFBheIYBW1n758uTt"
+    },
+    {
+      "album": {
         "name": "10-feat",
         "url": "https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma"
       },
@@ -4866,7 +4884,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 215637,
       "name": "Firetail",
       "url": "https://open.spotify.com/track/4VocvAYtw3Vad3Fx0YH3p4"
@@ -6257,6 +6275,24 @@
     },
     {
       "album": {
+        "name": "hikari",
+        "url": "https://open.spotify.com/album/4z2rZEuLUJpHKPMDjNJas4"
+      },
+      "artists": [
+        {
+          "name": "kurayamisaka",
+          "url": "https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265949,
+      "name": "hikari",
+      "url": "https://open.spotify.com/track/1UmEFz347F6ZM2eluys3vK"
+    },
+    {
+      "album": {
         "name": "Komorebizaka TV Animation \"Kujima:Why Sing, When You Can Warble?\" Opening Theme",
         "url": "https://open.spotify.com/album/3viNioEr7VPX8XoLV3L4hk"
       },
@@ -6358,7 +6394,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-06",
+      "date_removed": null,
       "duration_ms": 191666,
       "name": "HOWL",
       "url": "https://open.spotify.com/track/3AMWagMWe8qHpPhQUf43dN"
@@ -8502,7 +8538,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 215034,
       "name": "LIMIT",
       "url": "https://open.spotify.com/track/50u76DXok7cIouLPLQxGfc"
@@ -17662,7 +17698,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 170204,
       "name": "Voodoo Go To Zoo",
       "url": "https://open.spotify.com/track/0psvBjhuemuy6XCJPiA5Zd"
@@ -19802,6 +19838,24 @@
       "duration_ms": 211746,
       "name": "\u305f\u3076\u3093Maybe\u660e\u6cbb feat. \u3042\u3001\u305f\u304e\u308c\u3093\u305f\u308d\u3046",
       "url": "https://open.spotify.com/track/4XdSe3t6dLv4wm38EzztCc"
+    },
+    {
+      "album": {
+        "name": "\u305f\u308a\u306a\u3044",
+        "url": "https://open.spotify.com/album/3lLEAOFcIpzCTZn2ZaGaJk"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207544,
+      "name": "\u305f\u308a\u306a\u3044",
+      "url": "https://open.spotify.com/track/7vVkzs4nqxCsF2SY1JLbuQ"
     },
     {
       "album": {
@@ -23975,6 +24029,24 @@
     },
     {
       "album": {
+        "name": "\u4e00\u9032",
+        "url": "https://open.spotify.com/album/67ICiWR8Rr7GwfGzzYwHEK"
+      },
+      "artists": [
+        {
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201920,
+      "name": "\u4e00\u9032",
+      "url": "https://open.spotify.com/track/78W5EXNzK3p9Rv2pesRCiW"
+    },
+    {
+      "album": {
         "name": "It's the moooonriders",
         "url": "https://open.spotify.com/album/0S2eED52dbq75kYgRghQuc"
       },
@@ -24938,6 +25010,24 @@
       "duration_ms": 234000,
       "name": "\u547c\u3073\u58f0",
       "url": "https://open.spotify.com/track/3kQf453SpkwX7ALdgzNSNY"
+    },
+    {
+      "album": {
+        "name": "\u547d\u77ed\u3057\u5bfe\u3059\u308b\u4e59\u5973\u3088",
+        "url": "https://open.spotify.com/album/5bHN3dSjlEq7AX09q4U9dC"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228745,
+      "name": "\u547d\u77ed\u3057\u5bfe\u3059\u308b\u4e59\u5973\u3088",
+      "url": "https://open.spotify.com/track/3uXfyndmsK3fRNSMr7uWrI"
     },
     {
       "album": {
@@ -26637,6 +26727,24 @@
     },
     {
       "album": {
+        "name": "\u661f",
+        "url": "https://open.spotify.com/album/5bnpi2Wvu789UClfRgENfO"
+      },
+      "artists": [
+        {
+          "name": "QUEEN BEE",
+          "url": "https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "\u661f",
+      "url": "https://open.spotify.com/track/4pLn0el8riGCsXXiSrdZVe"
+    },
+    {
+      "album": {
         "name": "\u661f\u8def (\u307f\u3061)",
         "url": "https://open.spotify.com/album/1MIlkgZssg2rgkqbGUY8sx"
       },
@@ -27150,7 +27258,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 227240,
       "name": "\u67d3\u307e\u308b\u3088",
       "url": "https://open.spotify.com/track/5jfY28cxWr6EWCJZd4VR4L"
@@ -28390,7 +28498,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 258146,
       "name": "\u7ae0",
       "url": "https://open.spotify.com/track/6jlGKRWFDRDs7nEhzLaN5K"
@@ -29576,7 +29684,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 241608,
       "name": "\u96e2\u3055\u306a\u3044\u3067\u3044\u3066",
       "url": "https://open.spotify.com/track/5UIbX3mRkgJ6NZbPRvw29F"

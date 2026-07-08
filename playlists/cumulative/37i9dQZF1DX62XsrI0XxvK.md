@@ -4,13 +4,14 @@
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Kaleb J
 
-267 songs - 15 hr 44 min
+269 songs - 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(NO\)STALGIA](https://open.spotify.com/track/75FuKBIZqdI5FiMFKWSUZF) | [DAYFAIR](https://open.spotify.com/artist/3grE5TqsfwLPsljwMAnPEl), [N0en](https://open.spotify.com/artist/2gv3tIgZWNY7aCgha1y6cs) | [\(NO\)STALGIA](https://open.spotify.com/album/5gf4SHNy7X21805le62wgA) | 3:13 | 2025-12-04 | 2026-05-08 |
 | [20 Weeks](https://open.spotify.com/track/7wtxZi4uh6btGrYmARXxOr) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [20 Weeks](https://open.spotify.com/album/6q3foGDuNxly38t01i8KoD) | 2:58 | 2026-02-05 |  |
 | [2001x](https://open.spotify.com/track/7EkTXoaED7peReoRytElSi) | [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [2001x](https://open.spotify.com/album/1vLYpcbwwGVClagTen3lXN) | 3:24 | 2026-05-21 |  |
+| [24/7](https://open.spotify.com/track/6Sxc16RahhmIrVsN34uPUm) | [Romaria](https://open.spotify.com/artist/0SA5cjTKYZqmXdgIH9IeE6) | [24/7](https://open.spotify.com/album/4Aobf2Roz9dxfaA2Vsj88X) | 3:15 | 2026-07-07 |  |
 | [321 I'm Callin'](https://open.spotify.com/track/175z25mCfPPPSLKgXPYRAi) | [Cécil Yang](https://open.spotify.com/artist/1BQ949dyo7EwfHh3tUpxIP) | [321 I'm Callin'](https://open.spotify.com/album/6aJRcWfTIFfNc1GB44zggV) | 2:48 | 2024-10-03 | 2025-05-30 |
 | [365 DAYS](https://open.spotify.com/track/2q3O7bZgTUuh0Qm3krTiuO) | [Dessy klement](https://open.spotify.com/artist/5zubx31uKUv1nDKRA86cOe) | [365 DAYS](https://open.spotify.com/album/7lTvQtcfljJVbfZD4VI4Zf) | 2:08 | 2025-12-11 | 2026-06-05 |
 | [a feeling](https://open.spotify.com/track/6TPUbm9rVuawjfbbz88c58) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Doves, '25 on Blank Canvas](https://open.spotify.com/album/6HiRRMXgflIyrpjCiPW8rU) | 3:05 | 2025-02-27 |  |
@@ -193,6 +194,7 @@
 | [Pesona](https://open.spotify.com/track/37cZnP06JGqD2jK01JQyfe) | [TADI](https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF), [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [Pesona](https://open.spotify.com/album/3KjunxG32U22r50ljiwpFV) | 3:55 | 2024-10-10 | 2025-10-10 |
 | [PHP](https://open.spotify.com/track/2QN6dPRKUAfeA51R2fprp1) | [Bona Pascal](https://open.spotify.com/artist/0ujG1cBXUHF00YhR8pT4MS) | [PHP](https://open.spotify.com/album/5xzgc6Wn8gWL3PsPW8gL8n) | 4:03 | 2026-02-27 |  |
 | [Pintu Rahasia](https://open.spotify.com/track/2Sj80JzhcFoZB287rrau1y) | [Lalahuta](https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ) | [Pintu Rahasia](https://open.spotify.com/album/4rEpowTo9zk8pwyAY2QXk7) | 4:16 | 2025-01-16 |  |
+| [POLO](https://open.spotify.com/track/72VMqk6TeK8N9Vf1zJh3kG) | [Mungare](https://open.spotify.com/artist/5X2SFAbo3a1bZkCWjlBlhh) | [POLO](https://open.spotify.com/album/3cseI1SmpgHBBLEC1Ly1m7) | 3:35 | 2026-07-07 |  |
 | [porak poranda](https://open.spotify.com/track/1XxOnR2ZEs1uvVFFpYMk9D) | [Dhira Bongs](https://open.spotify.com/artist/1OnA7BIptSxofkEpSipGhV) | [porak poranda](https://open.spotify.com/album/75wb3gNnFvWFKNPyYoLjEO) | 2:50 | 2024-10-03 | 2025-08-29 |
 | [Puspa](https://open.spotify.com/track/4GXnBXT9JGeae9WtznHMmd) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Berbunga](https://open.spotify.com/album/7GICddTJ6Lyrm8IPSGtyXg) | 3:20 | 2025-04-24 |  |
 | [Ramu](https://open.spotify.com/track/2bGWVOJph2fsQMcuL04PrU) | [Rizki Jonathan](https://open.spotify.com/artist/2Pc5nBssh59fUoQGWOb0KS) | [Ramu](https://open.spotify.com/album/6Um3awxwOSoxLVVBn85UjA) | 3:23 | 2025-11-13 | 2026-05-01 |

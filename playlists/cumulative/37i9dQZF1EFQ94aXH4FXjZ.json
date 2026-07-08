@@ -1835,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "Ocean Strings",
+        "url": "https://open.spotify.com/album/3STLTOakm8q0pCyCRod8GO"
+      },
+      "artists": [
+        {
+          "name": "Santo & Johnny",
+          "url": "https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157986,
+      "name": "Sea Dream",
+      "url": "https://open.spotify.com/track/1kXpMmm2ohfNfcE8FZvL0B"
+    },
+    {
+      "album": {
         "name": "Extras",
         "url": "https://open.spotify.com/album/4FhxquIK5TPAu2TyJjIF4Y"
       },

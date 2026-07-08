@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena, Lola Indigo.",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Juan Mag\u00e1n, Maikel Delacalle.",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -339,6 +339,28 @@
     },
     {
       "album": {
+        "name": "7 RASPAO",
+        "url": "https://open.spotify.com/album/3a7JKtTPYi1dWqFm33Z8vV"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        },
+        {
+          "name": "D3llano",
+          "url": "https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133565,
+      "name": "7 RASPAO",
+      "url": "https://open.spotify.com/track/0HotYACZDDOJmfc6t1OURQ"
+    },
+    {
+      "album": {
         "name": "LUNA 18 (Deluxe)",
         "url": "https://open.spotify.com/album/4reJOCjzw6ifHh6sXBRgc8"
       },
@@ -568,6 +590,24 @@
       "duration_ms": 170785,
       "name": "Acr\u00f3stico",
       "url": "https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp"
+    },
+    {
+      "album": {
+        "name": "Agarra mi mano",
+        "url": "https://open.spotify.com/album/1kl8nbAqnfbUrFyxYznSjY"
+      },
+      "artists": [
+        {
+          "name": "Lucia De la Puerta",
+          "url": "https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207310,
+      "name": "Agarra mi mano",
+      "url": "https://open.spotify.com/track/5YE1gftd3Bf8kQSp8eksZm"
     },
     {
       "album": {
@@ -1022,7 +1062,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 187865,
       "name": "Amor de Contrabando",
       "url": "https://open.spotify.com/track/7IdeMGSB8FtX3q5TE5Pn60"
@@ -2058,7 +2098,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 188115,
       "name": "Bronca",
       "url": "https://open.spotify.com/track/0qgD8dqh8P2VCaH00W8IhA"
@@ -5245,6 +5285,24 @@
     },
     {
       "album": {
+        "name": "Punto de Partida",
+        "url": "https://open.spotify.com/album/24wPEsqagLXPRA7wCEkyJb"
+      },
+      "artists": [
+        {
+          "name": "Carla Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0UsTOnhB0GGaXJidPadL1T"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "El Merengue (Versi\u00f3n Flamenca)",
+      "url": "https://open.spotify.com/track/2MPuEHv5qDbPz086LtDj3a"
+    },
+    {
+      "album": {
         "name": "El ni\u00f1o que fui ayer",
         "url": "https://open.spotify.com/album/0Y5eKeadU98iZagJLLkHma"
       },
@@ -7997,6 +8055,28 @@
     },
     {
       "album": {
+        "name": "LA GUARACHA (Oh Oh Oh)",
+        "url": "https://open.spotify.com/album/2I5gxj9pxbyE7o0TpcadAN"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199807,
+      "name": "LA GUARACHA (Oh Oh Oh)",
+      "url": "https://open.spotify.com/track/3RP9FdSAylqEeHCaEgw8CM"
+    },
+    {
+      "album": {
         "name": "La Idea",
         "url": "https://open.spotify.com/album/3oM0PBnieCf5JcKbaiTnVU"
       },
@@ -8582,7 +8662,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 192111,
       "name": "LA VILLA",
       "url": "https://open.spotify.com/track/2ZyrAym0sRLwt4PhGotHuI"
@@ -10080,7 +10160,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 161311,
       "name": "ME GUSTAN LOS 2",
       "url": "https://open.spotify.com/track/0rCs84lqjA4mP4x4SHl4z6"
@@ -12008,7 +12088,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 165957,
       "name": "No se enamore de m\u00ed",
       "url": "https://open.spotify.com/track/18IjTTL3ZY8nsENdnijoQP"
@@ -13960,7 +14040,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 170453,
       "name": "Punto de Partida",
       "url": "https://open.spotify.com/track/3k8WMwD9HhvYXzbsoDHpTH"
@@ -14373,6 +14453,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9date a morir en esa vida",
+        "url": "https://open.spotify.com/album/0hlmYfMOxlO6lTuU84Vhfo"
+      },
+      "artists": [
+        {
+          "name": "Charlie USG",
+          "url": "https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209523,
+      "name": "Qu\u00e9date a morir en esa vida",
+      "url": "https://open.spotify.com/track/481GsUeV3oXheOmybGrzJO"
+    },
+    {
+      "album": {
         "name": "La Espa\u00f1ola",
         "url": "https://open.spotify.com/album/1MwLojETQBImC8Gf7tGuyi"
       },
@@ -14720,7 +14818,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 195470,
       "name": "Rosas y Violetas",
       "url": "https://open.spotify.com/track/1xgFFfq57iwooURNFpz4Z3"
@@ -16046,7 +16144,7 @@
       ],
       "date_added": "2026-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 164540,
       "name": "SUMMERLOVE",
       "url": "https://open.spotify.com/track/0NtpkVIuobXO0Ui0cQLEfu"
@@ -16900,6 +16998,24 @@
       "duration_ms": 165527,
       "name": "Todo Contigo",
       "url": "https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt"
+    },
+    {
+      "album": {
+        "name": "Todo de m\u00ed",
+        "url": "https://open.spotify.com/album/00PG2RVdJrBvcJ3QfDnP4e"
+      },
+      "artists": [
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169772,
+      "name": "Todo de m\u00ed",
+      "url": "https://open.spotify.com/track/6E2etgcIhRKn9tkVv6sSBT"
     },
     {
       "album": {
@@ -17833,6 +17949,24 @@
     },
     {
       "album": {
+        "name": "UNOxUNO",
+        "url": "https://open.spotify.com/album/4cljCbfn7i32ozd4Zoe47h"
+      },
+      "artists": [
+        {
+          "name": "Chanel",
+          "url": "https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156712,
+      "name": "UNOxUNO",
+      "url": "https://open.spotify.com/track/27eeRHvOsFTy6rcZsFNjV0"
+    },
+    {
+      "album": {
         "name": "UWAIE",
         "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
       },
@@ -17910,6 +18044,24 @@
       "duration_ms": 146938,
       "name": "VEINTIPICO",
       "url": "https://open.spotify.com/track/0GBsVSPxYOsBFag4P8ETmy"
+    },
+    {
+      "album": {
+        "name": "Ven y b\u00e1ilame",
+        "url": "https://open.spotify.com/album/5SXnKh3hpOiZ1cP9WPwYvZ"
+      },
+      "artists": [
+        {
+          "name": "Guille Toledano",
+          "url": "https://open.spotify.com/artist/3e2lnsMUQvjNOUmh60siv7"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163091,
+      "name": "Ven y b\u00e1ilame",
+      "url": "https://open.spotify.com/track/21bkNxJgn6792MAcKBojzk"
     },
     {
       "album": {

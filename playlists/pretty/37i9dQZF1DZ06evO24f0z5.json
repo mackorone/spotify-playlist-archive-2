@@ -1,12 +1,12 @@
 {
   "description": "This is Zona Ganjah. The essential tracks, all in one playlist.",
-  "num_followers": 92096,
+  "num_followers": 92114,
   "original_name": "This Is Zona Ganjah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akmegAAAAADWV3vEJABoJ+cj6Cf8HiVn",
+  "snapshot_id": "akrwAAAAAACf34LZtdCyz4PPl5VpsYHz",
   "tracks": [
     {
       "added_at": null,
@@ -595,26 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Drop",
-        "url": "https://open.spotify.com/album/4guVvB3rBVdTjwb58DZfeh"
+        "name": "Poder",
+        "url": "https://open.spotify.com/album/0z1Ax60tr5FPRqhgoF025g"
       },
       "artists": [
         {
-          "name": "KLUB",
-          "url": "https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY"
-        },
-        {
           "name": "Zona Ganjah",
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
-        },
-        {
-          "name": "Hugo Lobo",
-          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
         }
       ],
-      "duration_ms": 238062,
-      "name": "One Drop",
-      "url": "https://open.spotify.com/track/6ygWwUSHRVDbja6zpfMFNG"
+      "duration_ms": 196114,
+      "name": "Ten paciencia",
+      "url": "https://open.spotify.com/track/6eCBaeECJCWwVY5aceMPeD"
     },
     {
       "added_at": null,
@@ -651,18 +643,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poder",
-        "url": "https://open.spotify.com/album/0z1Ax60tr5FPRqhgoF025g"
+        "name": "One Drop",
+        "url": "https://open.spotify.com/album/4guVvB3rBVdTjwb58DZfeh"
       },
       "artists": [
         {
+          "name": "KLUB",
+          "url": "https://open.spotify.com/artist/11NwV46MotnomZqyYxE2uY"
+        },
+        {
           "name": "Zona Ganjah",
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
+        },
+        {
+          "name": "Hugo Lobo",
+          "url": "https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN"
         }
       ],
-      "duration_ms": 196114,
-      "name": "Ten paciencia",
-      "url": "https://open.spotify.com/track/6eCBaeECJCWwVY5aceMPeD"
+      "duration_ms": 238062,
+      "name": "One Drop",
+      "url": "https://open.spotify.com/track/6ygWwUSHRVDbja6zpfMFNG"
     },
     {
       "added_at": null,

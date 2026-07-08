@@ -474,7 +474,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 226500,
       "name": "A t\u00e9ved\u00e9sem vagy",
       "url": "https://open.spotify.com/track/2loUrDvTmKH3fNJ1mL9SRr"
@@ -660,6 +660,36 @@
       "duration_ms": 241106,
       "name": "All I Want for Christmas Is You",
       "url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn"
+    },
+    {
+      "album": {
+        "name": "ALL NIGHT",
+        "url": "https://open.spotify.com/album/7f6h07e7uMJ86dRRi5L1FV"
+      },
+      "artists": [
+        {
+          "name": "VALMAR",
+          "url": "https://open.spotify.com/artist/0EQbKeNi7GXjfN2LndmReh"
+        },
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        },
+        {
+          "name": "KKevin",
+          "url": "https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5"
+        },
+        {
+          "name": "Bruno X Spacc",
+          "url": "https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144666,
+      "name": "ALL NIGHT",
+      "url": "https://open.spotify.com/track/2dRgO9rNrv4RwS5XNlheoV"
     },
     {
       "album": {
@@ -2138,7 +2168,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 132812,
       "name": "COLD",
       "url": "https://open.spotify.com/track/17AsJZ1jvgJtfYqVd7xPua"
@@ -4154,7 +4184,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 163521,
       "name": "GYERE R\u00c1M",
       "url": "https://open.spotify.com/track/0SJ3b2T3m8X4nDxpBn2CVF"
@@ -9685,6 +9715,24 @@
     },
     {
       "album": {
+        "name": "Sephora",
+        "url": "https://open.spotify.com/album/57wKUH3yHkLcxx6F0yNQ0w"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271272,
+      "name": "Sephora",
+      "url": "https://open.spotify.com/track/0spi2UrCGiakkBcKhGUlHE"
+    },
+    {
+      "album": {
         "name": "Playboy",
         "url": "https://open.spotify.com/album/0PZftC8lqjmTANjYRfGW9R"
       },
@@ -12588,6 +12636,28 @@
       "duration_ms": 234000,
       "name": "\u00fagy unom",
       "url": "https://open.spotify.com/track/0h3Ua52yOapva267D0QoQw"
+    },
+    {
+      "album": {
+        "name": "\u00datraval\u00f3",
+        "url": "https://open.spotify.com/album/2zlj0l587FhASwP5f15Wej"
+      },
+      "artists": [
+        {
+          "name": "4tress",
+          "url": "https://open.spotify.com/artist/2IS6u5jUhxydkCuFZXKE3w"
+        },
+        {
+          "name": "D26 BEATZ",
+          "url": "https://open.spotify.com/artist/674nTKdcCwKumzoWqSNcJI"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "\u00datraval\u00f3",
+      "url": "https://open.spotify.com/track/63TYUTXMtgmBRGLAyEJnz7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd8ptjXuKXfB"

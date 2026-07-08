@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-396 songs - 23 hr 53 min
+397 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Wichita Sky](https://open.spotify.com/track/780PMXdbbSVcPc9pD75SWj) | [Houseworth](https://open.spotify.com/artist/1vQ5gS5gAUKnQh9r08gWGx) | [Sleeping With Ghosts Again](https://open.spotify.com/album/1T05DF1XwIItiPWIHJZUX9) | 3:30 | 2026-02-16 | 2026-03-27 |
 | [wild](https://open.spotify.com/track/0qfls25AHT70kdvoKc4zyq) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:43 | 2025-11-11 | 2025-12-06 |
 | [Wilhelm Scream](https://open.spotify.com/track/6utT15xnEIQAvvhtB4UTRv) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Pixels and Poetry](https://open.spotify.com/album/4uAPVQZQXh00bC51MVWLgq) | 3:26 | 2026-04-15 | 2026-05-17 |
+| [With You](https://open.spotify.com/track/7LLHGsm4xICcdq84TIYvF4) | [TS Chris](https://open.spotify.com/artist/57Ui8J7CkhuIdZELypG3Vv) | [With You](https://open.spotify.com/album/0PKRfRbbVawBDRcjGKtJeH) | 3:35 | 2026-07-07 |  |
 | [World is Equal](https://open.spotify.com/track/05YK7hsS859ziFGqqyPvol) | [3syk](https://open.spotify.com/artist/6nLWTo3BGompYwZMi5MbnZ), [ugazin](https://open.spotify.com/artist/1LoZxacnWxCypwVYdkNKIS) | [World is Equal](https://open.spotify.com/album/2YDjHFunY5aJUsXrZijyUS) | 3:33 | 2025-10-30 | 2025-12-06 |
 | [Worst Enemy](https://open.spotify.com/track/7E3LEapJ3I02IdRkTEMpja) | [Solace in Me](https://open.spotify.com/artist/4hMB6B8dzaeRQDN8qfN0Ys) | [Worst Enemy](https://open.spotify.com/album/1Szbrta34NQhMTsBx3mUcb) | 4:05 | 2026-01-31 | 2026-02-19 |
 | [X88B88](https://open.spotify.com/track/3Z0Q4Bvun8AtZnezG0ipZF) | [Katelynn King](https://open.spotify.com/artist/4apwSB0LtUqwWplUVAabsz) | [X88B88](https://open.spotify.com/album/2N8NZAtzbYwrMt3Fm2EtEo) | 2:56 | 2026-03-28 |  |

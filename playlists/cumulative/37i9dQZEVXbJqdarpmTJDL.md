@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-2,891 songs - 6 day 5 hr 17 min
+2,892 songs - 6 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -610,6 +610,7 @@
 | [DD](https://open.spotify.com/track/7tBWL5bqABYPWtK1457YUc) | [SKEZ](https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH), [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [Sound Dealer](https://open.spotify.com/artist/1fOg7K5giTKuWgIdczCYfB) | [COMERCIO](https://open.spotify.com/album/4GnNeMtDe5LLSs0kYwZyXI) | 2:07 | 2025-11-21 | 2026-02-18 |
 | [De Fovame](https://open.spotify.com/track/0Lj1eCgs0sg9vYRo2tFgZy) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [Fthina Tricks 3](https://open.spotify.com/album/7KA4oKgG0mzJ62dzs9SlyK) | 3:33 | 2025-05-30 | 2025-07-06 |
 | [De M' Agapouses](https://open.spotify.com/track/6bz2oDXZjkyCYki5GnIz5O) | [Giorgos Sabanis](https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd) | [De M' Agapouses](https://open.spotify.com/album/579p2fFgpWvCVqTKtCe6ge) | 4:14 | 2026-01-27 | 2026-06-20 |
+| [DE MASAW](https://open.spotify.com/track/4ew7thqgiLuAi663EVK3Cn) | [Gr Plug](https://open.spotify.com/artist/3D0k6dgUtfOEQEaBZiHcAs) | [DE MASAW](https://open.spotify.com/album/5kvMp5etsVf04i39s6LpTo) | 2:09 | 2026-07-07 |  |
 | [De Me Ksereis Kala](https://open.spotify.com/track/7etssWv7DrxlUkrVQhWslJ) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [DJ Cron](https://open.spotify.com/artist/5j0ZtqEfRWZeQUWyTrwDbj), [Mateos Nps](https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV) | [De Me Ksereis Kala](https://open.spotify.com/album/7EOQnBeMJxShuPloWNgI4h) | 3:05 | 2023-06-22 | 2024-05-02 |
 | [De Sou Ftaio Ego](https://open.spotify.com/track/7uvlg8UM64oxEBonrcCSCF) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Mateos Nps](https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV) | [Homesick](https://open.spotify.com/album/4WosJwHEcsbDlTj7a2fk5R) | 3:31 | 2024-04-26 | 2024-05-12 |
 | [De Sou Kanw Plaka](https://open.spotify.com/track/3oK3x91dAtDsgZgko5RVBQ) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Traplife](https://open.spotify.com/album/3nTsR92xyAHjKmlz7xNAT3) | 2:39 | 2023-04-29 | 2023-05-07 |
@@ -2767,7 +2768,7 @@
 | [Vrexei](https://open.spotify.com/track/2wY3WPHlQCAhC9c5UZA8hl) | [Anastasia](https://open.spotify.com/artist/2FTua3TeIGnmQQrN80DinP) | [Vrexei](https://open.spotify.com/album/5ftIw5ZnarnnZwtdYSSn2l) | 2:53 | 2026-02-14 | 2026-03-28 |
 | [Vroum Vroum](https://open.spotify.com/track/0m0EGs9EklyrLpsWlw38F1) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Corle](https://open.spotify.com/artist/6z05xgIbD3oUDdSwE16YNo) | [Bad Boy 2](https://open.spotify.com/album/4amE4omSlHZVRil5S8JxQ8) | 2:58 | 2024-07-12 | 2024-08-08 |
 | [VROXI](https://open.spotify.com/track/3locVDFVD0EIROWR3ORKGx) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [VROXI](https://open.spotify.com/album/2n2G8ca5ixnqFX2BcQjVGe) | 2:26 | 2024-03-01 | 2024-03-05 |
-| [VROXI](https://open.spotify.com/track/6IqG2lk4zHOowOMUUmEWin) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [10](https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0) | 2:47 | 2026-03-13 |  |
+| [VROXI](https://open.spotify.com/track/6IqG2lk4zHOowOMUUmEWin) | [TOQUEL](https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG) | [10](https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0) | 2:47 | 2026-03-13 | 2026-07-08 |
 | [VVS](https://open.spotify.com/track/0LTF1xR1Iw72CMHN0m4LaA) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Green Goblin](https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh) | 3:22 | 2022-02-26 | 2022-03-05 |
 | [wacced out murals](https://open.spotify.com/track/5gOfC9UzZQzTyShqPMrpjT) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 5:17 | 2024-11-24 | 2024-11-26 |
 | [Wake Me Up \(feat\. Justice\)](https://open.spotify.com/track/5ehXToeJ8Tgc4wMhY42Oul) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Hurry Up Tomorrow](https://open.spotify.com/album/6iyZdOoujtOwiThdAUI8TM) | 5:08 | 2025-02-01 | 2025-02-03 |

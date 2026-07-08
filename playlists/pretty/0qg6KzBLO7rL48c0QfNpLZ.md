@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 107,907 likes - 83 songs - 3 hr 40 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 107,892 likes - 83 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 29 | [Headlights](https://open.spotify.com/track/63HuRSLtTHIJJAvbRWnMJe) | [MARSTEREON](https://open.spotify.com/artist/7jEVO7yGtLTH2UsMcuA8Ap), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY), [Deep Mage](https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A) | [Headlights](https://open.spotify.com/album/1Qej2i6EDLQ1Bo0iUvsSSI) | 2:41 |
 | 30 | [By Myself](https://open.spotify.com/track/6KRDahLuYSz2Mdp45aFi26) | [Solara](https://open.spotify.com/artist/1M7CohuwV1Mgim4czMhWRe) | [By Myself](https://open.spotify.com/album/5QMs9FQ6f6vpcPH6cXkXhh) | 2:41 |
 | 31 | [White Dress](https://open.spotify.com/track/4ChDixKsaYzymz7GKC0ntl) | [Killason](https://open.spotify.com/artist/1CDeoqnIdiK79e2j7BhyFY), [Parada](https://open.spotify.com/artist/29y0WHW3GGg8GJC2M8uEge) | [Chapter 3](https://open.spotify.com/album/7yN7HR6mhGwIejAN1gG7am) | 2:32 |
-| 32 | [Back To Her](https://open.spotify.com/track/0Q4uYxQsR4UwtGeD0RwE3I) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Mallou](https://open.spotify.com/artist/0shRX1S8qo6p32ErP9OWwP) | [Back To Her](https://open.spotify.com/album/0zioG5RWfiauUDKd7vnzsW) | 2:40 |
+| 32 | [Back To Her](https://open.spotify.com/track/0Q4uYxQsR4UwtGeD0RwE3I) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Mallou](https://open.spotify.com/artist/0shRX1S8qo6p32ErP9OWwP) | [Back To Her](https://open.spotify.com/album/0zioG5RWfiauUDKd7vnzsW) | 2:41 |
 | 33 | [Don’t Go Breaking My Heart](https://open.spotify.com/track/6IQPwU5fdstH8XKv8vVUcY) | [JeLa](https://open.spotify.com/artist/5wiDn420KFBNE820kOUGft), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY) | [Don’t Go Breaking My Heart](https://open.spotify.com/album/2Mg6QK3Y6YRbR3K7tm7otS) | 2:27 |
 | 34 | [Flying High](https://open.spotify.com/track/52IYvPqQZ7qiVeFQDKHjDL) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Flying High](https://open.spotify.com/album/6alR32LjbSt0N4flb1DKgz) | 2:02 |
 | 35 | [Sunset Lover](https://open.spotify.com/track/3WRQUvzRvBDr4AxMWhXc5E) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Presence](https://open.spotify.com/album/6se6q5nk4VCVbWWnZcguCc) | 3:58 |

@@ -18069,6 +18069,32 @@
     },
     {
       "album": {
+        "name": "WOULD U",
+        "url": "https://open.spotify.com/album/0bYA4TeJm3N5oUQrq5FJrV"
+      },
+      "artists": [
+        {
+          "name": "Conni",
+          "url": "https://open.spotify.com/artist/3V0uGOh5VeIp99phDIgWqU"
+        },
+        {
+          "name": "Lynxie",
+          "url": "https://open.spotify.com/artist/61ixzqjzhlmKPa0vY6bX2C"
+        },
+        {
+          "name": "THEBOYBENNIE",
+          "url": "https://open.spotify.com/artist/007dFRVu5x8IPwmkrrWqJw"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157616,
+      "name": "WOULD U",
+      "url": "https://open.spotify.com/track/3X2s8jVhj56zVeWqQMFVBs"
+    },
+    {
+      "album": {
         "name": "Would You Be Waiting",
         "url": "https://open.spotify.com/album/17zDJZXkFFsfWDpH83URKA"
       },

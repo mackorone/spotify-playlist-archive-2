@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akmegAAAAACLkVszg/N8B3GbaG2nRriL",
+  "snapshot_id": "akrwAAAAAACDkxuCmnEfvj2NryH5GaUs",
   "tracks": [
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pressure",
-        "url": "https://open.spotify.com/album/2eo6WfC2A5ePHLpNQN7dRB"
+        "name": "Project Sidiooo, Vol. 1",
+        "url": "https://open.spotify.com/album/75v6kx1DDN5ARanBzJd7LA"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 210266,
-      "name": "Losing",
-      "url": "https://open.spotify.com/track/2nZALEvdQ3n3tIP84kneP3"
+      "duration_ms": 119443,
+      "name": "Tour Bus",
+      "url": "https://open.spotify.com/track/4GZuQqsXHTjfM1XVkXZ5gD"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
       "duration_ms": 224027,
       "name": "DREAMZ COME TRUE",
       "url": "https://open.spotify.com/track/3YLRi0SXcPwB6c2Dy3gmey"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/2eo6WfC2A5ePHLpNQN7dRB"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 210266,
+      "name": "Losing",
+      "url": "https://open.spotify.com/track/2nZALEvdQ3n3tIP84kneP3"
     }
   ],
   "unique_name": "This Is Rochelle Jordan",

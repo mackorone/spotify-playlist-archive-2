@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,030 likes - 100 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,114 likes - 100 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 96 | [Ngobekezela](https://open.spotify.com/track/1m5eJZMKi6g6Qx5wQT0fHO) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration, Vol\. 19 \(Back to the Cross\)](https://open.spotify.com/album/3xN472XytZrAW2HtcL6jNU) | 7:41 |
 | 97 | [Themba Lethu \- Live at the Durban ICC/ 2025](https://open.spotify.com/track/0EAZbdLRr4ATJugP2Wg3cu) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Ngegama Lakho/ Themba Lethu](https://open.spotify.com/album/4wBUn5NnLNZ6B3YSRAPgXX) | 8:17 |
 | 98 | [Singabantwana \- Live at Isibaya Casino](https://open.spotify.com/track/4aY18WykQoaNIJPqYB4qga) | [Ndumiso Zungu](https://open.spotify.com/artist/4rFahmjoVZtKLEn95KHpzH) | [Singabantwana \(Live at Isibaya Casino\)](https://open.spotify.com/album/49hkVpI50FfeWHeqeLKpSg) | 7:27 |
-| 99 | [Thula Sizwe / I Shall Be Released](https://open.spotify.com/track/3f24AZKBhOBaKGpN2F0n52) | [Common People](https://open.spotify.com/artist/4VJhzDgY4GJ4zOmNHtd3iZ), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Tommy Sims](https://open.spotify.com/artist/1v5hoRyO2K9NNPm8GVOPEe), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e) | [Thula Sizwe / I Shall Be Released](https://open.spotify.com/album/6wK4WlDLgaOGMnBsvyVrxO) | 3:15 |
+| 99 | [Thula Sizwe / I Shall Be Released](https://open.spotify.com/track/3f24AZKBhOBaKGpN2F0n52) | [Common People](https://open.spotify.com/artist/4VJhzDgY4GJ4zOmNHtd3iZ), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Tommy Sims](https://open.spotify.com/artist/1v5hoRyO2K9NNPm8GVOPEe), [Praise Paige](https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e) | [Thula Sizwe / I Shall Be Released](https://open.spotify.com/album/6wK4WlDLgaOGMnBsvyVrxO) | 3:15 |
 | 100 | [Umkhokheli](https://open.spotify.com/track/7xQLANRgLVasueYMsiXIQk) | [Ayanda Shange](https://open.spotify.com/artist/5hWWGQ8MLMy4yG0PeitZyJ) | [Ayanda Shange \(Live At Jaspa Studio\)](https://open.spotify.com/album/1oYjueEXQeFU3eH8oCgfYC) | 7:50 |
 
 Snapshot ID: `AAAAAH+fQQ76aaPMtEohHvyWleICwEFu`

@@ -2089,6 +2089,24 @@
     },
     {
       "album": {
+        "name": "Dale Hodges Park",
+        "url": "https://open.spotify.com/album/0qqQff2wJfCNI9PdxhIdL1"
+      },
+      "artists": [
+        {
+          "name": "Kirsten McCormick",
+          "url": "https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207245,
+      "name": "Dale Hodges Park",
+      "url": "https://open.spotify.com/track/3VzzN4kUiTfZvfemrHAADM"
+    },
+    {
+      "album": {
         "name": "DANNATAMENTE IO",
         "url": "https://open.spotify.com/album/3qK2RQk2nWEgd01kQrxLhn"
       },
@@ -2104,6 +2122,24 @@
       "duration_ms": 299200,
       "name": "DANNATAMENTE IO",
       "url": "https://open.spotify.com/track/4PJQKJ4IftAH8mOI0soGPh"
+    },
+    {
+      "album": {
+        "name": "It's a Bit Fuzzy",
+        "url": "https://open.spotify.com/album/2wpFHMzqhqjCKXtCCenuq4"
+      },
+      "artists": [
+        {
+          "name": "Dimestore Freud",
+          "url": "https://open.spotify.com/artist/1B7AZ6JiZQr6bflYaBD2g6"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245130,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/6EnM2pjd6pfZyWHW8YSUb6"
     },
     {
       "album": {

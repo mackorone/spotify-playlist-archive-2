@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > Releases from Céline Dion, Madonna, SIENNA SPIRO, STELLA LEFTY, Zeds Dead, Riley Green, Jorja Smith, and Goldie Boutilier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,067 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,059 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 50 | [Island Ting](https://open.spotify.com/track/5ymi7qR26ntxYbcwPFT9Lg) | [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Island Ting](https://open.spotify.com/album/4G4wodZltyimp0x7xhYnjP) | 4:10 |
 | 51 | [All Summer \(feat\. BH\)](https://open.spotify.com/track/23wBbnEZdCdnPNynMZeLpg) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [BH](https://open.spotify.com/artist/77EDqy4AyUvtLGhIqOy3Dc) | [All Summer \(feat\. BH\)](https://open.spotify.com/album/7lwZOYiPIJKkin7LsxG2KL) | 3:59 |
 | 52 | [Eleven](https://open.spotify.com/track/54SNvoH7n5z3A0GBgJbxbP) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Eleven](https://open.spotify.com/album/6UB0spDMUxY03DxovdUtvA) | 3:29 |
-| 53 | [Organic Motion](https://open.spotify.com/track/0YJuBcj5bl9HGqMOBnthHC) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Organic Motion](https://open.spotify.com/album/5SdeOFSHrOBR6LikAiD7rU) | 2:35 |
+| 53 | [Organic Motion](https://open.spotify.com/track/0YJuBcj5bl9HGqMOBnthHC) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [DJ.Fresh](https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ) | [Organic Motion](https://open.spotify.com/album/5SdeOFSHrOBR6LikAiD7rU) | 2:35 |
 | 54 | [Slow It Down](https://open.spotify.com/track/50fesVpmySp5ABT64ZA17n) | [orseno](https://open.spotify.com/artist/5svYyK2SyLuFmhglLymIch), [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [buzzard](https://open.spotify.com/album/75Vf0sPTI84lN0P9POlnQn) | 3:32 |
 | 55 | [Projector](https://open.spotify.com/track/4s5FQ8gbOiCnbALMHya3O0) | [Wine Lips](https://open.spotify.com/artist/4fPl9Aa0FMkATDiA7AnBNM) | [Projector](https://open.spotify.com/album/08bII3U0CLuAa1C7SRLpMA) | 1:33 |
 | 56 | [Sweet n’ Sour](https://open.spotify.com/track/3ksychRhiWmZgGjIxtzKix) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Sweet n’ Sour](https://open.spotify.com/album/06KkMtJIZ5bUGYjZjJmAOh) | 2:37 |

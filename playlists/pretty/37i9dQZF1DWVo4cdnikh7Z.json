@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Vishwanath & Sons",
-  "num_followers": 752833,
+  "num_followers": 752904,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIXc/lmY+4tHCuaKBZDDN8R3Rfhb",
+  "snapshot_id": "AAAAAHtkJbuvuRkb3xq2L6pex26L1Btp",
   "tracks": [
     {
       "added_at": "2026-06-19 13:18:18",
@@ -439,6 +439,30 @@
       "duration_ms": 168428,
       "name": "Watcha Udadha",
       "url": "https://open.spotify.com/track/6zoMXYC40gVmMXQJfJFeCg"
+    },
+    {
+      "added_at": "2026-07-07 04:15:10",
+      "album": {
+        "name": "Malligai Mottu (From \"Mr. Bhaarath\")",
+        "url": "https://open.spotify.com/album/6WzbSD8y0YdRcd17K6tYJe"
+      },
+      "artists": [
+        {
+          "name": "Pranav Muniraj",
+          "url": "https://open.spotify.com/artist/4Y4vxCuihUYyfcZlYuTmXp"
+        },
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        },
+        {
+          "name": "Surya Bharathi A A",
+          "url": "https://open.spotify.com/artist/4C80ufSt7QJy5PpU8CbJJU"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Malligai Mottu - From \"Mr. Bhaarath\"",
+      "url": "https://open.spotify.com/track/6kwPPGL66EBrZYlkbn9Rhd"
     },
     {
       "added_at": "2026-06-29 09:27:39",
@@ -1743,58 +1767,6 @@
       "duration_ms": 194074,
       "name": "ICEBOY",
       "url": "https://open.spotify.com/track/4lGLdCZSzH7A4Ue9kmVbfh"
-    },
-    {
-      "added_at": "2026-04-20 05:47:25",
-      "album": {
-        "name": "Kara (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JmgWvFTDB51BAhlhciVt9"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Dhanush",
-          "url": "https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Kannamma En Kannamma",
-      "url": "https://open.spotify.com/track/31UgPMF2trFy3kAYnsuntX"
-    },
-    {
-      "added_at": "2026-04-20 05:47:25",
-      "album": {
-        "name": "Kara (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3JmgWvFTDB51BAhlhciVt9"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        },
-        {
-          "name": "Arunraja Kamaraj",
-          "url": "https://open.spotify.com/artist/3jw6WnDlhrKkNjgcp8JGQe"
-        },
-        {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
-        },
-        {
-          "name": "V.M. Mahalingam",
-          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
-        },
-        {
-          "name": "Sathyan",
-          "url": "https://open.spotify.com/artist/2L5oss58ihgLZWOepBEHbI"
-        }
-      ],
-      "duration_ms": 248135,
-      "name": "Vaaya Ey Karasaami",
-      "url": "https://open.spotify.com/track/62DQbjMFzxmFRmI4bitHrn"
     },
     {
       "added_at": "2026-05-10 01:07:06",

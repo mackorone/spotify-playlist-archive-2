@@ -1,13 +1,257 @@
 {
   "description": "The best independent music in a post-genre world",
-  "num_followers": 52423,
+  "num_followers": 52409,
   "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
     "url": "https://open.spotify.com/user/dittomusic"
   },
-  "snapshot_id": "AAAZxw4XmK2YLwzw2/imjHP6EXorENcI",
+  "snapshot_id": "AAAZ16ihYyZ+ocqR6DYtYGkiQ7r74crp",
   "tracks": [
+    {
+      "added_at": "2026-07-07 20:56:53",
+      "album": {
+        "name": "autonomy+",
+        "url": "https://open.spotify.com/album/3wVtf0A7EYRwKuJqEz9gKA"
+      },
+      "artists": [
+        {
+          "name": "ELIO",
+          "url": "https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA"
+        },
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 189538,
+      "name": "Hands On (feat. Aidan Bissett)",
+      "url": "https://open.spotify.com/track/6KNdmRSHpb7FJRsHXk96yA"
+    },
+    {
+      "added_at": "2026-07-07 20:57:03",
+      "album": {
+        "name": "ZODIAC",
+        "url": "https://open.spotify.com/album/0kc7EMrQKFhOymBDbh39EE"
+      },
+      "artists": [
+        {
+          "name": "44phantom",
+          "url": "https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ"
+        }
+      ],
+      "duration_ms": 229714,
+      "name": "ZODIAC",
+      "url": "https://open.spotify.com/track/1V6CLQ1NjosgwSjcyvFtVR"
+    },
+    {
+      "added_at": "2026-07-07 20:57:12",
+      "album": {
+        "name": "little misfortune",
+        "url": "https://open.spotify.com/album/7wq9NCQJSyeA7TJIE1yahG"
+      },
+      "artists": [
+        {
+          "name": "Marlhy",
+          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
+        }
+      ],
+      "duration_ms": 160226,
+      "name": "little misfortune",
+      "url": "https://open.spotify.com/track/3Zw4bTB7HAha7nbCIK9Psa"
+    },
+    {
+      "added_at": "2026-07-07 20:57:21",
+      "album": {
+        "name": "Winter Never Ends",
+        "url": "https://open.spotify.com/album/7bcywXo90MBNnd05jVA9hk"
+      },
+      "artists": [
+        {
+          "name": "kalani artis",
+          "url": "https://open.spotify.com/artist/0Bve5yP99Yxfh7yRTy7GnS"
+        }
+      ],
+      "duration_ms": 175928,
+      "name": "Winter Never Ends",
+      "url": "https://open.spotify.com/track/4dAw0lmt3LtFvHq02cqh16"
+    },
+    {
+      "added_at": "2026-07-07 20:57:33",
+      "album": {
+        "name": "#witwisd",
+        "url": "https://open.spotify.com/album/6b8ZdIi4cohqtrFalpKJVv"
+      },
+      "artists": [
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        },
+        {
+          "name": "Stevie Daniels",
+          "url": "https://open.spotify.com/artist/4TgARZl7cImJgmnnz6dPDK"
+        }
+      ],
+      "duration_ms": 176584,
+      "name": "rain in the sunset",
+      "url": "https://open.spotify.com/track/2JnlNchF9uwjQHoGktEU2y"
+    },
+    {
+      "added_at": "2026-07-07 20:57:49",
+      "album": {
+        "name": "door left open",
+        "url": "https://open.spotify.com/album/23s5Ap3Hzdfuma6zKawQdo"
+      },
+      "artists": [
+        {
+          "name": "Heather Sommer",
+          "url": "https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV"
+        }
+      ],
+      "duration_ms": 141276,
+      "name": "door left open",
+      "url": "https://open.spotify.com/track/3Vb9MHGOWjRbsZ7yyDhALn"
+    },
+    {
+      "added_at": "2026-07-07 20:57:56",
+      "album": {
+        "name": "Bloodsucker",
+        "url": "https://open.spotify.com/album/2ZQ8mGUEF9ZzXyerMFIXdK"
+      },
+      "artists": [
+        {
+          "name": "Robert Marcko",
+          "url": "https://open.spotify.com/artist/5M0spwcpLFEbxPsv1t1KFu"
+        }
+      ],
+      "duration_ms": 154702,
+      "name": "Bloodsucker",
+      "url": "https://open.spotify.com/track/79HH6K8YPFZHXNRm3MlYQu"
+    },
+    {
+      "added_at": "2026-07-07 20:58:08",
+      "album": {
+        "name": "stella",
+        "url": "https://open.spotify.com/album/6IzEfBEvOz9jQKDZKGOleX"
+      },
+      "artists": [
+        {
+          "name": "Isaac Lewis",
+          "url": "https://open.spotify.com/artist/0zMOuBo9Jxo4JvgH2IHdHO"
+        }
+      ],
+      "duration_ms": 121836,
+      "name": "stella",
+      "url": "https://open.spotify.com/track/33B5AOfQV9M5wJFzM34gtz"
+    },
+    {
+      "added_at": "2026-07-07 20:58:23",
+      "album": {
+        "name": "1000\u00b0",
+        "url": "https://open.spotify.com/album/2kNgpEY8jetnYkykcmnnqo"
+      },
+      "artists": [
+        {
+          "name": "Ownlife",
+          "url": "https://open.spotify.com/artist/2nCmwSRtRo6NIdVsYnw0u5"
+        }
+      ],
+      "duration_ms": 160750,
+      "name": "Where U Are",
+      "url": "https://open.spotify.com/track/31uMCpDHHENAMatiwwsKlf"
+    },
+    {
+      "added_at": "2026-07-07 20:58:47",
+      "album": {
+        "name": "Moving On",
+        "url": "https://open.spotify.com/album/15YFsulxCvesXQUkuPt7xW"
+      },
+      "artists": [
+        {
+          "name": "Freight Train Foxes",
+          "url": "https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ"
+        }
+      ],
+      "duration_ms": 214345,
+      "name": "Moving On",
+      "url": "https://open.spotify.com/track/6kw3nsXWN9sFlAs3ve6lTl"
+    },
+    {
+      "added_at": "2026-07-07 20:58:59",
+      "album": {
+        "name": "THE KETAMINES",
+        "url": "https://open.spotify.com/album/3dTFWM8ARmb4TYMDU8iWr8"
+      },
+      "artists": [
+        {
+          "name": "Phil and The Blanks",
+          "url": "https://open.spotify.com/artist/4O27wEUWcbnKzL1Nn4EJhL"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "THE KETAMINES",
+      "url": "https://open.spotify.com/track/1oe3ILvk35qEkL3oOFXCZx"
+    },
+    {
+      "added_at": "2026-07-07 20:59:13",
+      "album": {
+        "name": "Grouchism",
+        "url": "https://open.spotify.com/album/6NpnNKqsppcobQB1IXzsuA"
+      },
+      "artists": [
+        {
+          "name": "Dimzy",
+          "url": "https://open.spotify.com/artist/2G3moO7hc1jXWYKkW5ZYw4"
+        },
+        {
+          "name": "67",
+          "url": "https://open.spotify.com/artist/211p9eSLzwF6iuXzzP5xTl"
+        }
+      ],
+      "duration_ms": 137639,
+      "name": "One Step Greater",
+      "url": "https://open.spotify.com/track/6F0yqPWXOfV0fnJZU71jDQ"
+    },
+    {
+      "added_at": "2026-07-07 20:57:30",
+      "album": {
+        "name": "#witwisd",
+        "url": "https://open.spotify.com/album/6b8ZdIi4cohqtrFalpKJVv"
+      },
+      "artists": [
+        {
+          "name": "Stevie Daniels",
+          "url": "https://open.spotify.com/artist/4TgARZl7cImJgmnnz6dPDK"
+        },
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 171441,
+      "name": "couldn't believe",
+      "url": "https://open.spotify.com/track/53z2DgYYW2sx5CrmOMYUna"
+    },
+    {
+      "added_at": "2026-07-07 20:57:40",
+      "album": {
+        "name": "#witwisd",
+        "url": "https://open.spotify.com/album/6b8ZdIi4cohqtrFalpKJVv"
+      },
+      "artists": [
+        {
+          "name": "Stevie Daniels",
+          "url": "https://open.spotify.com/artist/4TgARZl7cImJgmnnz6dPDK"
+        },
+        {
+          "name": "mike.",
+          "url": "https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu"
+        }
+      ],
+      "duration_ms": 161147,
+      "name": "house money",
+      "url": "https://open.spotify.com/track/5vOx6rujurMw2mtmzkh7ow"
+    },
     {
       "added_at": "2026-06-26 14:45:00",
       "album": {

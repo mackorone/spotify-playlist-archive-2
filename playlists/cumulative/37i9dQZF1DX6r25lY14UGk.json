@@ -11735,6 +11735,28 @@
     },
     {
       "album": {
+        "name": "Little Miss Muffet / Peter Pumpkin Eater",
+        "url": "https://open.spotify.com/album/24JYYF7JmDtCaVgMYDCwH6"
+      },
+      "artists": [
+        {
+          "name": "Natalie Merchant",
+          "url": "https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD"
+        },
+        {
+          "name": "Chicago Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105293,
+      "name": "Little Miss Muffet",
+      "url": "https://open.spotify.com/track/3CWyYDKPJ6sW11U5mrkHxi"
+    },
+    {
+      "album": {
         "name": "Little Old You",
         "url": "https://open.spotify.com/album/03l56jZga0CX7974DFt74d"
       },

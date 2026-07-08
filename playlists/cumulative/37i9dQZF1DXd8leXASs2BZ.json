@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-09",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: 16",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u3001J-Hip Hop\u306e\u300c\u305d\u306e\u5148\u300d\u3092\u62c5\u3046\u30d5\u30ec\u30c3\u30b7\u30e5\u306a\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3002Cover: SpiderWeb",
   "name": "+81 Connect FRESH",
   "tracks": [
     {
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 196800,
       "name": "5PM IN YOKO (feat. jellyyabashi)",
       "url": "https://open.spotify.com/track/11XNhyAh59xnc2YHdhxzNr"
@@ -2538,6 +2538,32 @@
       "duration_ms": 130220,
       "name": "Assaji",
       "url": "https://open.spotify.com/track/0VAyX04mjdpwMHmUCt63jL"
+    },
+    {
+      "album": {
+        "name": "HOLLOW HYPE",
+        "url": "https://open.spotify.com/album/2sjY8f5bQmjUHfEp8qCC3G"
+      },
+      "artists": [
+        {
+          "name": "AVYSS",
+          "url": "https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC"
+        },
+        {
+          "name": "Siero",
+          "url": "https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r"
+        },
+        {
+          "name": "AssToro",
+          "url": "https://open.spotify.com/artist/1XVnuN1WPe1VMw78MuYeic"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149466,
+      "name": "Awkward",
+      "url": "https://open.spotify.com/track/2Bzi9P2q0uLzVJHDcc4h1d"
     },
     {
       "album": {
@@ -5351,6 +5377,24 @@
     },
     {
       "album": {
+        "name": "Check It Out",
+        "url": "https://open.spotify.com/album/1wZvVyDrNmfiVlPi5tiu0z"
+      },
+      "artists": [
+        {
+          "name": "AI jacky",
+          "url": "https://open.spotify.com/artist/6cOuEef5ejInNSGz7d2OLU"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181621,
+      "name": "Check It Out",
+      "url": "https://open.spotify.com/track/5UkKacIypoNrvG4iieK3HJ"
+    },
+    {
+      "album": {
         "name": "HOMUNCULUS",
         "url": "https://open.spotify.com/album/6GknSfQH5L1Gg0Yt8nDpYs"
       },
@@ -6178,7 +6222,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 140963,
       "name": "Cruella",
       "url": "https://open.spotify.com/track/1aUKf5ojf0OuVtlGWjBQhT"
@@ -6338,7 +6382,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 168162,
       "name": "DAIHUGO (feat. ENEL & MIKADO)",
       "url": "https://open.spotify.com/track/3Q34HC3AHZd9KVbklzpTHI"
@@ -6452,6 +6496,24 @@
       "duration_ms": 84906,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/1DxgAwgYRisIF9b8GXV18B"
+    },
+    {
+      "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/3EjEV4ew9TaLIExHyhssMO"
+      },
+      "artists": [
+        {
+          "name": "ZED",
+          "url": "https://open.spotify.com/artist/1blQ7hSqDge64HcGWBhDH8"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131276,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/6eELIgNlhrnWarJBhh4vc9"
     },
     {
       "album": {
@@ -8110,6 +8172,24 @@
       "duration_ms": 159111,
       "name": "E-DRIFT",
       "url": "https://open.spotify.com/track/19WmRWrQoZiQCb4EU9o96l"
+    },
+    {
+      "album": {
+        "name": "Each Other",
+        "url": "https://open.spotify.com/album/74jUZblWnCnLVaVtU8yoWF"
+      },
+      "artists": [
+        {
+          "name": "Deey",
+          "url": "https://open.spotify.com/artist/2KkIoc6KfxH0zeJHe5xLlI"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Each Other",
+      "url": "https://open.spotify.com/track/12TPEMRL0k1NLSM8kgs7jm"
     },
     {
       "album": {
@@ -11041,6 +11121,28 @@
     },
     {
       "album": {
+        "name": "Go up (feat. will away)",
+        "url": "https://open.spotify.com/album/1qSQU4Zh1UkXHBcShU5vau"
+      },
+      "artists": [
+        {
+          "name": "Yxn KILA",
+          "url": "https://open.spotify.com/artist/0BVQbSpbT1tf2mNcudbe9Q"
+        },
+        {
+          "name": "will away",
+          "url": "https://open.spotify.com/artist/3Eb0QAEpwk7AcvcJH51E36"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123380,
+      "name": "Go up (feat. will away)",
+      "url": "https://open.spotify.com/track/4kz8AyafQVJM3N9lgTDuJg"
+    },
+    {
+      "album": {
         "name": "\u6211\u899a",
         "url": "https://open.spotify.com/album/4m1jxwQRXXgx3hXHbbIFoA"
       },
@@ -11552,7 +11654,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 126326,
       "name": "Guala",
       "url": "https://open.spotify.com/track/2BlhV2LFEZ082kfsvtY9vV"
@@ -12920,7 +13022,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 188696,
       "name": "Hurricane (feat. Benjazzy)",
       "url": "https://open.spotify.com/track/6c8DvzTSboFzyoweD7n5uf"
@@ -14110,7 +14212,7 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 135719,
       "name": "jagger freestyle",
       "url": "https://open.spotify.com/track/5C9mZ8XdaWzigub4OfflJM"
@@ -16941,6 +17043,24 @@
     },
     {
       "album": {
+        "name": "Loyalty",
+        "url": "https://open.spotify.com/album/08t7jojSVWz1uxz0qp6dKf"
+      },
+      "artists": [
+        {
+          "name": "Yvng xan",
+          "url": "https://open.spotify.com/artist/3OzE7ohZzlPOmVuvC4ZPX0"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147841,
+      "name": "Loyalty",
+      "url": "https://open.spotify.com/track/5X8wd5Zj7Y8cQzOeepbymQ"
+    },
+    {
+      "album": {
         "name": "Lucy & David",
         "url": "https://open.spotify.com/album/12rCDHbO6uj4I46EI0rTk2"
       },
@@ -18719,6 +18839,28 @@
     },
     {
       "album": {
+        "name": "NAKAYAMA TYPE BEAT",
+        "url": "https://open.spotify.com/album/7F2MbphdhJJ25Mk9XdEpXO"
+      },
+      "artists": [
+        {
+          "name": "SAFUJI",
+          "url": "https://open.spotify.com/artist/58vNN6IQ13NzNenmjn6jGm"
+        },
+        {
+          "name": "708",
+          "url": "https://open.spotify.com/artist/5Buul9Kc1fwZy8rplRtEA6"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227555,
+      "name": "NAKAYAMA (feat. 708)",
+      "url": "https://open.spotify.com/track/4oUMrfDdMz47B4ZR79cfvJ"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/1W0kGrrzOFF9CX6ErKdtLA"
       },
@@ -18788,7 +18930,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 144000,
       "name": "NAKO",
       "url": "https://open.spotify.com/track/452Utj2RyEgOU1rfDdhDuK"
@@ -19000,7 +19142,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 160000,
       "name": "NBA Freestyle",
       "url": "https://open.spotify.com/track/4zgHxnCGkiYTLCkxrvapK7"
@@ -21024,7 +21166,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 102352,
       "name": "Outta Town",
       "url": "https://open.spotify.com/track/64JxfvJh1eFKukjV6lj09E"
@@ -21130,6 +21272,24 @@
       "duration_ms": 174000,
       "name": "Override",
       "url": "https://open.spotify.com/track/296PApw8NwNMzDUK6HMlfr"
+    },
+    {
+      "album": {
+        "name": "Ownership",
+        "url": "https://open.spotify.com/album/5AhdPPJyxrT3arjimZUoDN"
+      },
+      "artists": [
+        {
+          "name": "Vishnu Kid",
+          "url": "https://open.spotify.com/artist/0Hf7jQCCY6rGC9b1k8NVh3"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145074,
+      "name": "Ownership",
+      "url": "https://open.spotify.com/track/6ArJm9RW6GLuJhKPRmwXOm"
     },
     {
       "album": {
@@ -21527,6 +21687,24 @@
     },
     {
       "album": {
+        "name": "Pay me up",
+        "url": "https://open.spotify.com/album/0xf0nYxmonzbob50LBqnyX"
+      },
+      "artists": [
+        {
+          "name": "T-Bobo",
+          "url": "https://open.spotify.com/artist/40NK4mGLUjuQ4Gx5EASzXK"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Pay me up",
+      "url": "https://open.spotify.com/track/0u4wYYshST5D14Ex30sZtL"
+    },
+    {
+      "album": {
         "name": "PAYPAY Freestyle",
         "url": "https://open.spotify.com/album/7xMCyhHnytW3CQoyDS9dl3"
       },
@@ -21742,6 +21920,28 @@
       "duration_ms": 170270,
       "name": "PINK BOY (feat. Ohju)",
       "url": "https://open.spotify.com/track/670uA9FT9AkIzRuBHftDq8"
+    },
+    {
+      "album": {
+        "name": "Braving tape 1",
+        "url": "https://open.spotify.com/album/5sj5rOurImBLq05BJy1z1e"
+      },
+      "artists": [
+        {
+          "name": "SZK",
+          "url": "https://open.spotify.com/artist/4RPWTmkbkOnlNYNXNYltmy"
+        },
+        {
+          "name": "Touge",
+          "url": "https://open.spotify.com/artist/09SYj6xrAoUv55lvO0K9IT"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177499,
+      "name": "plain jane",
+      "url": "https://open.spotify.com/track/0eYRuAoJhVggvjMl8MgBM3"
     },
     {
       "album": {
@@ -23328,6 +23528,28 @@
       "duration_ms": 200750,
       "name": "Rewrite Language",
       "url": "https://open.spotify.com/track/5qvM107yDoPiqhq9FbOA2N"
+    },
+    {
+      "album": {
+        "name": "Rich Woo",
+        "url": "https://open.spotify.com/album/3si6OW6q1q5jd0nKggPdMs"
+      },
+      "artists": [
+        {
+          "name": "Gang Gang",
+          "url": "https://open.spotify.com/artist/02MyonvXJAWHvOVitOD69o"
+        },
+        {
+          "name": "0NLY",
+          "url": "https://open.spotify.com/artist/4jorqszacNyGhLwNFiCA9w"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157860,
+      "name": "Rich Woo",
+      "url": "https://open.spotify.com/track/7uFFYC3nUVkBsueMGrdBEG"
     },
     {
       "album": {
@@ -28608,7 +28830,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 160666,
       "name": "Trust me",
       "url": "https://open.spotify.com/track/1eQm1aJnjZApsDItdZ3rnB"
@@ -29878,7 +30100,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 166214,
       "name": "WASTED (feat. Worldwide Skippa)",
       "url": "https://open.spotify.com/track/5sRL9Fz1Xx72Uwl6Klk20e"

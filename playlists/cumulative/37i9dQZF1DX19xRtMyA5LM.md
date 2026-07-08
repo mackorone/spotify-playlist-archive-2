@@ -4,7 +4,7 @@
 
 > De beste tracks in WS❗️Cover: Esko
 
-495 songs - 22 hr 24 min
+496 songs - 22 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Encrypted](https://open.spotify.com/track/7F49HEqLIVKuK26mOL56CN) | [Topperig](https://open.spotify.com/artist/4ZCjmwaMyx0uu5QShvrEZu) | [Encrypted](https://open.spotify.com/album/4eHIDkjphxPvdrsRn8uDYo) | 2:01 | 2025-10-23 | 2026-01-23 |
 | [Endz](https://open.spotify.com/track/2KyxmtsF0qugKt4fHh2Wa2) | [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW), [Sevirio](https://open.spotify.com/artist/0C1qkv78R9GMPtSUt0rZb2) | [Endz](https://open.spotify.com/album/34gmhLuclw3pWmkEcJPhDu) | 2:09 | 2025-08-28 | 2025-09-12 |
 | [EUROPA](https://open.spotify.com/track/3P2lt8s4wkBgVF853faJ3P) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [EUROPA](https://open.spotify.com/album/6K0i3gjpzLcwriIy6b1FSc) | 2:08 | 2026-02-05 | 2026-03-27 |
+| [Even Te Dronken](https://open.spotify.com/track/3nKsw7qc4Kq6OFFhfyDaK5) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Even Te Dronken](https://open.spotify.com/album/0aitYZRiDMXWcqqjzUpfVg) | 3:17 | 2026-07-07 |  |
 | [Eventjes zien](https://open.spotify.com/track/7tEapg35jKq96yM8nJa28W) | [Nass](https://open.spotify.com/artist/2vmQP2rkDh9bcyzhP1YVKU) | [Eventjes zien](https://open.spotify.com/album/3zwTl0XJyFAIBvG4pcDlPi) | 2:25 | 2025-07-17 | 2025-07-25 |
 | [Extra](https://open.spotify.com/track/4LTSN3uEYbjO5U0To8hBnU) | [Bokke8](https://open.spotify.com/artist/742XDtXqGyHQR4D5wJCfmB), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Extra](https://open.spotify.com/album/5p9qGvkq7jcCFibGsaqTQ0) | 2:16 | 2026-07-02 |  |
 | [EY BRO](https://open.spotify.com/track/1Y6owzjfqe2lIB5oFrvIBv) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2) | [CHOSSELLONIË 3](https://open.spotify.com/album/03LTtkdezojLVi0eg59pNR) | 2:44 | 2025-10-09 | 2025-10-22 |
@@ -176,7 +177,7 @@
 | [Grind don't stop](https://open.spotify.com/track/1OJioP4mcgORUN9Gm0FbZI) | [Momi](https://open.spotify.com/artist/2Vd0bXoPtbTy5T1T2aa5hY) | [Grind don't stop](https://open.spotify.com/album/15JtVMcVX03Wgx56AwSnQ7) | 2:45 | 2025-07-17 | 2025-08-05 |
 | [GTI](https://open.spotify.com/track/1Nk44LQVo7gmb6IjKg9LZc) | [Gregossan](https://open.spotify.com/artist/0p2nWJAXVkj0IkhGiTcPdC), [ILLIE](https://open.spotify.com/artist/04fDz5ShbYBrGXsujOoVT5), [Lusho](https://open.spotify.com/artist/28PqBC4Est3XUrAiPwvzKs), [GEM\-Z](https://open.spotify.com/artist/3P7ZxTeZ8t4ZfWNxQOyYfp) | [GTI](https://open.spotify.com/album/2yV8PThZNcF75DmL0QDGTv) | 2:30 | 2025-07-17 | 2025-08-15 |
 | [Guess Who's Back](https://open.spotify.com/track/4hbdrNEyo15PGaJ3nOTNuS) | [Bastosz](https://open.spotify.com/artist/6CtxmUMNLxhOEPh1S1mY4g), [Solid Circle](https://open.spotify.com/artist/21JzXYDy45yD5pzxnsEwrf) | [Guess Who's Back](https://open.spotify.com/album/5MCEAbxIw98c0zQNMl1ZL4) | 3:52 | 2026-03-23 | 2026-04-10 |
-| [H!GHEST FLEX](https://open.spotify.com/track/6FqdmWhDVNNDfmtmCI3sFp) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS), [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr), [Blow](https://open.spotify.com/artist/08tVNJseE5WyRIxjZA7KCW) | [H!GHEST FLEX](https://open.spotify.com/album/1ftpqyyglLvXtaEZpY8wEw) | 2:33 | 2026-05-21 |  |
+| [H!GHEST FLEX](https://open.spotify.com/track/6FqdmWhDVNNDfmtmCI3sFp) | [Eves Laurent](https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS), [Brasco](https://open.spotify.com/artist/1oF9VGP4yn9vVu1sPDLAyr), [Blow](https://open.spotify.com/artist/08tVNJseE5WyRIxjZA7KCW) | [H!GHEST FLEX](https://open.spotify.com/album/1ftpqyyglLvXtaEZpY8wEw) | 2:33 | 2026-05-21 | 2026-07-08 |
 | [Halverwege](https://open.spotify.com/track/7KxHjOF8gA8GalwSCXVvlG) | [Kieks](https://open.spotify.com/artist/726JnbIAqlICv9oInzGQ1Q), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Halverwege](https://open.spotify.com/album/6QnV0OMemf0a9y2ifU4VoI) | 1:57 | 2025-11-03 | 2026-02-06 |
 | [HAMBURG](https://open.spotify.com/track/347skOF66jCKg8S8wVW84l) | [Freddie Konings](https://open.spotify.com/artist/2Gdf9LI423ukSgomDCxQI2), [UCEF](https://open.spotify.com/artist/5NVwsxoeAOa9CCgOHhAri4) | [HAMBURG](https://open.spotify.com/album/2IUQNfJNA98xqs4hOhqxr3) | 2:58 | 2025-09-11 | 2025-09-19 |
 | [Hans Kazan](https://open.spotify.com/track/51lD3R9Ze3iDWCVTwa6yun) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hans Kazan](https://open.spotify.com/album/0w9pAwPmHd4BmezXWpMWDV) | 2:40 | 2026-03-12 | 2026-05-15 |

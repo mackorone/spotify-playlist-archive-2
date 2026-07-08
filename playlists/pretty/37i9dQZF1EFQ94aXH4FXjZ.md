@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LYO2TUZb52Fuh9qCZOMcz">Kris Kristofferson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542 likes - 106 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542 likes - 107 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,12 +107,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ94aXH4FXjZ.md) - [plain]
 | 97 | [Risky Bizness](https://open.spotify.com/track/3ZzdNBo8kQ9BIjgyehSzBz) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/00mpYWfgyyx2dOAlka7a8N) | 2:35 |
 | 98 | [Forever In Your Love](https://open.spotify.com/track/3XYnlj4Pk3MTiNWSCTuFbS) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/00mpYWfgyyx2dOAlka7a8N) | 3:17 |
 | 99 | [Spooky Lady's Revenge](https://open.spotify.com/track/1HEyWDpn6BR79ZYlhQgmFg) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [Easter Island](https://open.spotify.com/album/00mpYWfgyyx2dOAlka7a8N) | 3:50 |
-| 100 | [Telefonni dabel](https://open.spotify.com/track/5gUcwrXB7V2KbfUJtShaXM) | [Wabi Danek](https://open.spotify.com/artist/3C7YQ44XbUFugw5c2ZauYA) | [Nech svet, at se toci dal](https://open.spotify.com/album/715GgxJCE2SM9EmIsRrAJL) | 3:01 |
-| 101 | [Help Me Make It](https://open.spotify.com/track/2NvsKWkqYFpEg7N2JVcjb5) | [Kenny Paul](https://open.spotify.com/artist/6bVc40vdNj6a6uWptoFXGM) | [Come by the Hills](https://open.spotify.com/album/7lASXCqphDpkuR4rcEtUFg) | 2:58 |
-| 102 | [Eu e Bobby Mcgee](https://open.spotify.com/track/5siWcJfUUuHobmsXjzi66u) | [André Gardel](https://open.spotify.com/artist/4II15TI08y2EUSlf58tuZG), [Samantha Jones](https://open.spotify.com/artist/48fXp6kSGjIr8s10EyqlZW) | [Na Palavra](https://open.spotify.com/album/4OuIsBUgmKc4bJXFrWFP7G) | 4:10 |
-| 103 | [Cyrano](https://open.spotify.com/track/6grvN3lNCObZ1GtJxfhIjv) | [Josef Laufer](https://open.spotify.com/artist/1ycbXRESTBNZhT1SCYuajT) | [Josef Laufer '74](https://open.spotify.com/album/79PbbPBO9Cg8DOpaekVSJz) | 2:24 |
-| 104 | [The Same Old Song](https://open.spotify.com/track/4bDP6yjgZuvfvIXGDMAHfg) | [Ronnie Hawkins](https://open.spotify.com/artist/2viYME3n7SlMsIOEqWmEHv) | [Rock & Roll Resurrection](https://open.spotify.com/album/2MPTdx3MVCkLwP66Y2q5LB) | 3:00 |
-| 105 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
-| 106 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
+| 100 | [Sea Dream](https://open.spotify.com/track/1kXpMmm2ohfNfcE8FZvL0B) | [Santo & Johnny](https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK) | [Ocean Strings](https://open.spotify.com/album/3STLTOakm8q0pCyCRod8GO) | 2:37 |
+| 101 | [Telefonni dabel](https://open.spotify.com/track/5gUcwrXB7V2KbfUJtShaXM) | [Wabi Danek](https://open.spotify.com/artist/3C7YQ44XbUFugw5c2ZauYA) | [Nech svet, at se toci dal](https://open.spotify.com/album/715GgxJCE2SM9EmIsRrAJL) | 3:01 |
+| 102 | [Help Me Make It](https://open.spotify.com/track/2NvsKWkqYFpEg7N2JVcjb5) | [Kenny Paul](https://open.spotify.com/artist/6bVc40vdNj6a6uWptoFXGM) | [Come by the Hills](https://open.spotify.com/album/7lASXCqphDpkuR4rcEtUFg) | 2:58 |
+| 103 | [Eu e Bobby Mcgee](https://open.spotify.com/track/5siWcJfUUuHobmsXjzi66u) | [André Gardel](https://open.spotify.com/artist/4II15TI08y2EUSlf58tuZG), [Samantha Jones](https://open.spotify.com/artist/48fXp6kSGjIr8s10EyqlZW) | [Na Palavra](https://open.spotify.com/album/4OuIsBUgmKc4bJXFrWFP7G) | 4:10 |
+| 104 | [Cyrano](https://open.spotify.com/track/6grvN3lNCObZ1GtJxfhIjv) | [Josef Laufer](https://open.spotify.com/artist/1ycbXRESTBNZhT1SCYuajT) | [Josef Laufer '74](https://open.spotify.com/album/79PbbPBO9Cg8DOpaekVSJz) | 2:24 |
+| 105 | [The Same Old Song](https://open.spotify.com/track/4bDP6yjgZuvfvIXGDMAHfg) | [Ronnie Hawkins](https://open.spotify.com/artist/2viYME3n7SlMsIOEqWmEHv) | [Rock & Roll Resurrection](https://open.spotify.com/album/2MPTdx3MVCkLwP66Y2q5LB) | 3:00 |
+| 106 | [Delta Day \(No Time to Cry\)](https://open.spotify.com/track/6FxBOv9K8J9ECCZg3MqCZk) | [Bucky Wilkin](https://open.spotify.com/artist/6llhUrYZmi6uP5YqxJzrq4) | [The Complete Recordings \(1964\-1968\)](https://open.spotify.com/album/1fB1c8AYgdtENfKuaUfRVW) | 3:15 |
+| 107 | [Give It Time To Be Tender](https://open.spotify.com/track/19L9DxIRGPDhoOGcxiq27H) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [I'm Only a Woman](https://open.spotify.com/album/00XFRT1yVfeXgnyrJ8spCj) | 3:10 |
 
-Snapshot ID: `AcWKkAAAAACda/AqKfYJdCCnedRMd+ux`
+Snapshot ID: `AcWP9AAAAADHncwk3V7Z82YRdrYPry/S`

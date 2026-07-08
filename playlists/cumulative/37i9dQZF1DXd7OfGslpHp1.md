@@ -4,7 +4,7 @@
 
 > All the music and podcasts from "You and I Are Polar Opposites".
 
-80 songs - 5 hr 0 min
+81 songs - 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [誤解を解きたい鈴木のテーマ](https://open.spotify.com/track/5lUjAfwwv22SFPoPYA49wv) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 2:13 | 2026-01-31 |  |
 | [谷くんともっと一緒にいたいです](https://open.spotify.com/track/1vCThPyQnDqK8e3rCMHXYU) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Tadashi Machida](https://open.spotify.com/artist/0Fmm7YVAOysjZz3d7CPnRW) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 2:37 | 2026-01-31 |  |
 | [谷のテーマ](https://open.spotify.com/track/3FuG1pbkZ334r3LbEaZoOR) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 2:17 | 2026-01-31 |  |
+| [運命の君](https://open.spotify.com/track/7yXDBF1sD0ouJniM3gnEZS) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [運命の君](https://open.spotify.com/album/0EU29QyzTMEl8brlDIIMzC) | 3:35 | 2026-07-07 |  |
 | [鈴木さん、好きです](https://open.spotify.com/track/6Ysm2BEvv2O4TENRegvQjr) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [Tadashi Machida](https://open.spotify.com/artist/0Fmm7YVAOysjZz3d7CPnRW) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 2:09 | 2026-01-31 |  |
 | [鈴木と谷のプレイリストのある日常](https://open.spotify.com/track/5wGA1j3zSTl3EDaQwpylMZ) | [正反対な君と僕](https://open.spotify.com/artist/1gqlCpg3KNSNhtVDJjzqtw) | [鈴木と谷のプレイリストのある日常](https://open.spotify.com/album/6R1nrc3NigwpQlozjolwd8) | 0:52 | 2026-03-15 |  |
 | [鈴木のテーマ](https://open.spotify.com/track/3dmLILaDTee4P4QzqnJbeF) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [TVアニメ『正反対な君と僕』オリジナル･サウンドトラック](https://open.spotify.com/album/2nmOtGkkHEKFgLoTBG0K4M) | 2:00 | 2026-01-31 |  |

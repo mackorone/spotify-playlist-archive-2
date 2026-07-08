@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A New Dawn",
+        "url": "https://open.spotify.com/album/6RkgyMHBsXCx8sMVqffyxi"
+      },
+      "artists": [
+        {
+          "name": "Slow Seconds",
+          "url": "https://open.spotify.com/artist/6J3b3sOc6i6mi68u8SlN6l"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122104,
+      "name": "A New Dawn",
+      "url": "https://open.spotify.com/track/7qWzWxAIwZQxWA8AvhkOak"
+    },
+    {
+      "album": {
         "name": "A Thousand Tears",
         "url": "https://open.spotify.com/album/22M29uR01MgDwA0dnDc6jP"
       },
@@ -1355,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Boundaries",
+        "url": "https://open.spotify.com/album/6UnGOcfhmeseiTNHloKEE6"
+      },
+      "artists": [
+        {
+          "name": "Aiden Archer",
+          "url": "https://open.spotify.com/artist/3VgNLAQtZ0NxQLpZJSGFmE"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139931,
+      "name": "Boundaries",
+      "url": "https://open.spotify.com/track/5uJ3GFMCa7CzKl7ytdUtXn"
+    },
+    {
+      "album": {
         "name": "Boundless",
         "url": "https://open.spotify.com/album/7hRbRitZvRC508IBhOZpLi"
       },
@@ -2314,7 +2350,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 152316,
       "name": "Deep Within",
       "url": "https://open.spotify.com/track/2CYkmyI23nqXgYy3dqbGoa"
@@ -4126,6 +4162,24 @@
       "duration_ms": 147500,
       "name": "Forever Drifting",
       "url": "https://open.spotify.com/track/6rfYplyxljnSvRCS540DJP"
+    },
+    {
+      "album": {
+        "name": "Forgetting Time",
+        "url": "https://open.spotify.com/album/4LjaDuoyXPugFtGESEwKKM"
+      },
+      "artists": [
+        {
+          "name": "Egon Alram",
+          "url": "https://open.spotify.com/artist/4fHSfGpd33bVmfX6nKObBs"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158275,
+      "name": "Forgetting Time",
+      "url": "https://open.spotify.com/track/6GARBRUrmubX4vJlRFekmD"
     },
     {
       "album": {
@@ -8441,6 +8495,24 @@
     },
     {
       "album": {
+        "name": "Resolute",
+        "url": "https://open.spotify.com/album/0d2QO9bG9byM12cmM5DFro"
+      },
+      "artists": [
+        {
+          "name": "Gajaka",
+          "url": "https://open.spotify.com/artist/1pTns3zLC3U3F8LjY4y5rO"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141400,
+      "name": "Resolute",
+      "url": "https://open.spotify.com/track/0WoA7QIlfjGH9OeC0OgaL1"
+    },
+    {
+      "album": {
         "name": "Resonant Glow",
         "url": "https://open.spotify.com/album/258GxdkK0AFuUPf6FXxwcH"
       },
@@ -9231,6 +9303,24 @@
     },
     {
       "album": {
+        "name": "Significant Changes",
+        "url": "https://open.spotify.com/album/3aCk14Jr5J9xXGv6bOEwDx"
+      },
+      "artists": [
+        {
+          "name": "Deep Club",
+          "url": "https://open.spotify.com/artist/0oVZk6gliDbT4nxhOA3tuJ"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136316,
+      "name": "Significant Changes",
+      "url": "https://open.spotify.com/track/5yY9sr3q6gVI0ZgrQM38EG"
+    },
+    {
+      "album": {
         "name": "Silence Speaks Loud",
         "url": "https://open.spotify.com/album/54cc5Yh5fNpFbQsLDQOzoy"
       },
@@ -9602,7 +9692,7 @@
       ],
       "date_added": "2025-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 143722,
       "name": "So Familiar",
       "url": "https://open.spotify.com/track/6nUCRiGNLGTtpmGSjspeNE"
@@ -9948,6 +10038,24 @@
       "duration_ms": 202105,
       "name": "Spring",
       "url": "https://open.spotify.com/track/14bOlJfMU6o2BLwmWNBRDK"
+    },
+    {
+      "album": {
+        "name": "Spring Air",
+        "url": "https://open.spotify.com/album/2vr5c0zZ2BYG8MncnTNOs4"
+      },
+      "artists": [
+        {
+          "name": "City Whisper",
+          "url": "https://open.spotify.com/artist/4E2EFjXVHxVxOZBe2rd7Xl"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137874,
+      "name": "Spring Air",
+      "url": "https://open.spotify.com/track/58QP0MsCeTVXPB0l3KwQwj"
     },
     {
       "album": {
@@ -10416,6 +10524,24 @@
       "duration_ms": 169166,
       "name": "Sunrise Drift",
       "url": "https://open.spotify.com/track/5Ad7W7IOh3Yk1J7kP1wNhn"
+    },
+    {
+      "album": {
+        "name": "SWEET",
+        "url": "https://open.spotify.com/album/4WNkkBvHtfWdqGOeIkVdO1"
+      },
+      "artists": [
+        {
+          "name": "Boxscape",
+          "url": "https://open.spotify.com/artist/1ZgalHCf1aJh2g5vGIb5MB"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136509,
+      "name": "SWEET",
+      "url": "https://open.spotify.com/track/7KyiootKVmQC52nlp4cpLs"
     },
     {
       "album": {
@@ -11319,6 +11445,24 @@
     },
     {
       "album": {
+        "name": "Time for Thinking",
+        "url": "https://open.spotify.com/album/0NMtgK7kGJLkHMXEvlTmW0"
+      },
+      "artists": [
+        {
+          "name": "Atlas",
+          "url": "https://open.spotify.com/artist/4cIXcF5axlL9r4CTRCtszo"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137065,
+      "name": "Time for Thinking",
+      "url": "https://open.spotify.com/track/4e3jYGsUQuVqiNxDS9xJaN"
+    },
+    {
+      "album": {
         "name": "Time Tells",
         "url": "https://open.spotify.com/album/7L6mshgR4QDNYHW29T7NSE"
       },
@@ -11625,6 +11769,24 @@
     },
     {
       "album": {
+        "name": "Transparent",
+        "url": "https://open.spotify.com/album/7rUJvxfb35cxxgLACfmW3u"
+      },
+      "artists": [
+        {
+          "name": "L\u00fan",
+          "url": "https://open.spotify.com/artist/1il2AS0E5IGmgN3NiAgLMD"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145600,
+      "name": "Transparent",
+      "url": "https://open.spotify.com/track/1X12ANDIxN99KdgzLPjEJs"
+    },
+    {
+      "album": {
         "name": "Traversing",
         "url": "https://open.spotify.com/album/0diFPJv3sk4ChhKrDXCrsn"
       },
@@ -11802,6 +11964,24 @@
       "duration_ms": 158174,
       "name": "Undo and Redo",
       "url": "https://open.spotify.com/track/4YLWN1S48u5m8xpxWlk3tY"
+    },
+    {
+      "album": {
+        "name": "Unexpected moment",
+        "url": "https://open.spotify.com/album/6VtHUR97oOZHcFa59pG29R"
+      },
+      "artists": [
+        {
+          "name": "Nelson Robert",
+          "url": "https://open.spotify.com/artist/1nITSgFXHcsi7Im2tAANUp"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135205,
+      "name": "Unexpected moment",
+      "url": "https://open.spotify.com/track/1Qqc9flb5iZnSjsoiSugLk"
     },
     {
       "album": {
@@ -12093,6 +12273,24 @@
     },
     {
       "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/3JXl1r1D77A0vxpymI88Jr"
+      },
+      "artists": [
+        {
+          "name": "NOMA",
+          "url": "https://open.spotify.com/artist/4cDZ9jfgpEZtLQkw0ITsMo"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138766,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2PM6sNKZf8BtggaWc91Mog"
+    },
+    {
+      "album": {
         "name": "Walking on Air",
         "url": "https://open.spotify.com/album/7c05mEBhWNCuChYLnBCqjz"
       },
@@ -12108,6 +12306,24 @@
       "duration_ms": 126740,
       "name": "Walking on Air",
       "url": "https://open.spotify.com/track/2dD53mHfjyGg6o856Di1OK"
+    },
+    {
+      "album": {
+        "name": "Wallpapers",
+        "url": "https://open.spotify.com/album/11ZXBBEjlojnCvS5hoVMr8"
+      },
+      "artists": [
+        {
+          "name": "Dear Amore",
+          "url": "https://open.spotify.com/artist/3Vr54uV3Ygsd1rlmNZAhd8"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142397,
+      "name": "Wallpapers",
+      "url": "https://open.spotify.com/track/6OpuFHtvq4zqm7vi0xuaGe"
     },
     {
       "album": {
@@ -12594,6 +12810,24 @@
       "duration_ms": 180814,
       "name": "Without a Word",
       "url": "https://open.spotify.com/track/3drmNdjrgJfKscDGivuDyh"
+    },
+    {
+      "album": {
+        "name": "wonderful new people",
+        "url": "https://open.spotify.com/album/4sPzuDW029r2pPAVkmabbo"
+      },
+      "artists": [
+        {
+          "name": "Harry Bloom",
+          "url": "https://open.spotify.com/artist/0nACN1QCrIGr7S2ATgH5ja"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "wonderful new people",
+      "url": "https://open.spotify.com/track/2u0g3eWE0ncYUqtSVMfmGE"
     },
     {
       "album": {

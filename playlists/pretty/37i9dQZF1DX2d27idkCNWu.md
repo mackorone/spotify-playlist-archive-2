@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,907 likes - 90 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,916 likes - 90 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 89 | [Eu só quero um xodó](https://open.spotify.com/track/6BwXtSsM5we6sX5sVSRlLw) | [Versão brasileira](https://open.spotify.com/artist/0W1q0QDaLqfsW43ToxMN2E), [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Renato Frei](https://open.spotify.com/artist/0jmEYuZ6H9A3QvNvPdibwV) | [Eu só quero um xodó](https://open.spotify.com/album/2s6qsazRApew3tJUkjoyps) | 1:59 |
 | 90 | [Pouca Pausa / Cigana](https://open.spotify.com/track/553dpGjn4UFZmZ3pgWp5CA) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [WE4Sessions](https://open.spotify.com/artist/22Rda48vM8L5smeaNuP54Y) | [Clau: We4Sessions](https://open.spotify.com/album/3l4j90WNDrvsKKdJF6N5Zi) | 3:27 |
 
-Snapshot ID: `AAAAALyrM/WyOuLyIZZKsOkxhYJij0v0`
+Snapshot ID: `AAAAAPIUJlUOKOP3XuuyeTFWOOTx/kYC`

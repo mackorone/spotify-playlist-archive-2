@@ -4,7 +4,7 @@
 
 > Is it your bias K\-Pop boy group? \(Cover: ATEEZ\) 당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-872 songs - 1 day 23 hr 2 min
+873 songs - 1 day 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -525,6 +525,7 @@
 | [MOVE](https://open.spotify.com/track/5QzjOeD7eXFZpVVyVC7ls2) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [WAY UP](https://open.spotify.com/album/1TgcRUSvCC0QyuMsaiF3M4) | 3:32 | 2022-05-17 | 2022-07-04 |
 | [Movie Star](https://open.spotify.com/track/65pVi11JqwSZqUuYAqLP36) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [HELLO Chapter 1: Hello, Stranger](https://open.spotify.com/album/73Jw9dKwFV1kF62JFUls3V) | 3:30 | 2022-03-22 | 2022-04-21 |
 | [Movin'](https://open.spotify.com/track/4URh4EuzBNOAqTllcpjHXe) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [THE EARTH : SECRET MISSION Chapter.1](https://open.spotify.com/album/1N3vXThYiEWjbR8xiYiF8H) | 3:23 | 2021-12-08 | 2022-07-14 |
+| [MUAH!](https://open.spotify.com/track/4i96s6IzO7USqeuOsxiyyU) | [VAYONN](https://open.spotify.com/artist/79zOflwBYq7fHf6kCQAB3l) | [Youth Today](https://open.spotify.com/album/5VDEgG7OiSfEVpiXG8dSYt) | 3:03 | 2026-07-07 |  |
 | [Must Have Love](https://open.spotify.com/track/3fixP4VxUKRRg7i8WeViuL) | [ATBO](https://open.spotify.com/artist/3bwO3gNZVmHwaBttv739g7) | [MUST HAVE](https://open.spotify.com/album/0p1vF2SctjpmMLekoIBEcO) | 3:16 | 2023-11-28 | 2023-12-13 |
 | [My Angel](https://open.spotify.com/track/6v0FawBnbXg9BD8RxGtF3e) | [B Of You \(B.O.Y\)](https://open.spotify.com/artist/1f0vFa4YRojVrvXUwegT5c) | [Phase One : YOU](https://open.spotify.com/album/7nJEXljckI6G3DDLdwgKKA) | 3:42 | 2022-03-22 | 2022-03-28 |
 | [My Girl](https://open.spotify.com/track/6B4giMto5XBv3mHMBr8F4f) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [My Girl : “My Choice”](https://open.spotify.com/album/3MJX54XKZt42AF509srJ8z) | 3:38 | 2024-02-26 | 2024-03-06 |
@@ -556,7 +557,7 @@
 | [OBEY](https://open.spotify.com/track/6Er2MCGafVTPHoVG0EHIoB) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [207](https://open.spotify.com/album/6WqqNtsorg6GQPifhsg7c0) | 2:51 | 2025-07-31 | 2025-08-13 |
 | [Obsession](https://open.spotify.com/track/7fK0csBoqbcgUuWGV0cpoD) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [OBSESSION](https://open.spotify.com/album/7uNyF6MKaVHi5TJqIiNobm) | 3:23 | 2022-01-17 | 2022-06-19 |
 | [Obsession \(情結\)](https://open.spotify.com/track/1IseFrw8ahoiSeqmAtkBWu) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Obsession \(情結\)](https://open.spotify.com/album/3dI9colFC68q8M59OandSD) | 3:50 | 2026-01-27 | 2026-02-06 |
-| [Ode to Love](https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Ode to Love \- The 1st Album](https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX) | 3:11 | 2026-04-20 |  |
+| [Ode to Love](https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Ode to Love \- The 1st Album](https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX) | 3:11 | 2026-04-20 | 2026-07-08 |
 | [Oh My!](https://open.spotify.com/track/4JViGq60SvqtQXI3WK0OLS) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 5TH MINI ALBUM 'YOU MAKE MY DAY'](https://open.spotify.com/album/7ayq6V3xwXGOScUqhvIyFl) | 3:15 | 2021-12-08 | 2022-07-17 |
 | [Oh Mymy : 7s](https://open.spotify.com/track/0oasRG0i7nOHdj6sIe6B80) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Oh Mymy : 7s](https://open.spotify.com/album/4JxcTD9gDjCRbZPhDVoD40) | 3:09 | 2024-01-03 | 2024-03-09 |
 | [oh yeah](https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:43 | 2023-04-21 | 2023-05-19 |

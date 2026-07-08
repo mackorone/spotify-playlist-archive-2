@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 
 > 70\-80년대를 수 놓았던 노래들을 즐겨보세요! \(Listen Korea's classic & old songs from 70's to 80's.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,342 likes - 105 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,347 likes - 105 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7FdKM0unn8.md) - [plain]
 | 15 | [째즈 카페](https://open.spotify.com/track/0SwSiNArqc58nd21Zfj1Ow) | [Byun Jin\-Sub](https://open.spotify.com/artist/19TSeYJNZVClzoWb6hUVr7), [Shin Hae Chul](https://open.spotify.com/artist/0X7uU5t8s4p9vXE4PjPvfn) | [신해철](https://open.spotify.com/album/4m0fkoRpLFiJALSqwZ1ibX) | 4:58 |
 | 16 | [서른 즈음에](https://open.spotify.com/track/5wILTdpSIttgG7CWjq95Ld) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 4집 리마스터링앨범](https://open.spotify.com/album/4UWnmjUwwm1OcY58BKmREA) | 4:42 |
 | 17 | [아니 벌써 Already Now](https://open.spotify.com/track/2eEfCqnMimAfOM4bicSemv) | [Sanullim](https://open.spotify.com/artist/04cr7qH71klBu2x9H7c0Iw) | [제1집 Volume 1](https://open.spotify.com/album/6GD1o3r43s94cUMDBB3vVH) | 5:34 |
-| 18 | [그대안의 블루](https://open.spotify.com/track/45uhaYGq4fOa9xwfLUBkyp) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb), [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [그대안의 블루 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5r3Z5rLqrPuEDn4Fr92Rz1) | 3:35 |
+| 18 | [그대안의 블루](https://open.spotify.com/track/45uhaYGq4fOa9xwfLUBkyp) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb), [Lee Sora](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [그대안의 블루 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5r3Z5rLqrPuEDn4Fr92Rz1) | 3:35 |
 | 19 | [못다핀 꽃한송이](https://open.spotify.com/track/4FG1uHQAVPsYiXIn3tcGRs) | [김수철](https://open.spotify.com/artist/0EmfHeitNJW1MjPBVvy8uR) | [못다핀 꽃한송이](https://open.spotify.com/album/0OG7Sc2UuT3Im3tXeu1UMg) | 3:09 |
 | 20 | [흐린 가을 하늘에 편지를 써](https://open.spotify.com/track/6KF4FS8RygWKc3vESndYe1) | [Kim Kwang Seok](https://open.spotify.com/artist/0Sr5L3iWPn0k6KnDr8RYS8) | [김광석 '나의 노래' BOX SET \(Remastered\)](https://open.spotify.com/album/3Gc1VEAlKtrlZqVeBUNor9) | 4:44 |
 | 21 | [그 아픔까지 사랑한거야](https://open.spotify.com/track/2ghebdwe2pNXT4eL34T7pW) | [조정현](https://open.spotify.com/artist/2WTpsPucygbYRnCnoEUkJQ) | [그 아픔까지 사랑한거야](https://open.spotify.com/album/55UfHK7SkjcooSkHtougQf) | 3:57 |

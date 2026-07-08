@@ -1452,7 +1452,7 @@
       ],
       "date_added": "2025-08-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-06",
+      "date_removed": null,
       "duration_ms": 171842,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/0XKRBp3R8w2kAuQJYSa8Vf"
@@ -1892,7 +1892,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 126982,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0OyBlGcqesDjFsJZF96Myu"
@@ -1915,7 +1915,7 @@
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 160982,
+      "duration_ms": 161250,
       "name": "Back To Her",
       "url": "https://open.spotify.com/track/0Q4uYxQsR4UwtGeD0RwE3I"
     },
@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2025-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 146718,
       "name": "Blue Skies",
       "url": "https://open.spotify.com/track/1x2DPGpm2DChsrtW9EjCWN"
@@ -3412,6 +3412,24 @@
       "duration_ms": 157846,
       "name": "Burning Sands",
       "url": "https://open.spotify.com/track/6GU5cghbo9xuKkLrvjIh0n"
+    },
+    {
+      "album": {
+        "name": "But Home",
+        "url": "https://open.spotify.com/album/4isOrgrrUsAZS3Nx6hRQ63"
+      },
+      "artists": [
+        {
+          "name": "AALLAR",
+          "url": "https://open.spotify.com/artist/0Zo4tbJKj4xYiidcaYRtz1"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159310,
+      "name": "But Home",
+      "url": "https://open.spotify.com/track/24ox7cafgWQksodMoZZKGY"
     },
     {
       "album": {
@@ -5064,7 +5082,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 138055,
       "name": "Crush",
       "url": "https://open.spotify.com/track/4WoejTKNcWoBAtSaMFylN0"
@@ -12703,6 +12721,32 @@
     },
     {
       "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/64xyeOMLc83ektJeRr15Ke"
+      },
+      "artists": [
+        {
+          "name": "Madom",
+          "url": "https://open.spotify.com/artist/0IenaxU3u6R2sQPWHStOrM"
+        },
+        {
+          "name": "Menza",
+          "url": "https://open.spotify.com/artist/1He0fcv3xRjliYzR7I84q7"
+        },
+        {
+          "name": "Annalisa Forti",
+          "url": "https://open.spotify.com/artist/2fd65eA2C1W6xfwRZW00ys"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157390,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/2acyuVQZGY9xXFHkWkYWAJ"
+    },
+    {
+      "album": {
         "name": "I'm on Fire",
         "url": "https://open.spotify.com/album/3lcFCM3TAzFv72DjC7CtbS"
       },
@@ -13794,7 +13838,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 146091,
       "name": "Jennifer",
       "url": "https://open.spotify.com/track/4YoqdmC5iwIU75n7CCewyC"
@@ -14752,7 +14796,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 139385,
       "name": "Leaving Home",
       "url": "https://open.spotify.com/track/4ZfYEY5l2pttAbOu9vSnyV"
@@ -15948,7 +15992,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 132521,
       "name": "Look At Us",
       "url": "https://open.spotify.com/track/4dVjXRECnu1iZjmSpfSOH4"
@@ -23994,7 +24038,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 170578,
       "name": "So Cold",
       "url": "https://open.spotify.com/track/6YtSIhdng69oDhU1s9o5f8"
@@ -24160,6 +24204,28 @@
       "duration_ms": 142439,
       "name": "Solace",
       "url": "https://open.spotify.com/track/1Bvc287BGUhTdFdtLqt5of"
+    },
+    {
+      "album": {
+        "name": "Some Say",
+        "url": "https://open.spotify.com/album/0EmGB2Iq0xXoYnfgVH3Obx"
+      },
+      "artists": [
+        {
+          "name": "AALLAR",
+          "url": "https://open.spotify.com/artist/0Zo4tbJKj4xYiidcaYRtz1"
+        },
+        {
+          "name": "DeejaVu",
+          "url": "https://open.spotify.com/artist/3mvjFFkdgBRCeaSu51XM30"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160714,
+      "name": "Some Say",
+      "url": "https://open.spotify.com/track/0E2c1RmERzzZsLsDezWV2l"
     },
     {
       "album": {
@@ -25476,7 +25542,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 122564,
       "name": "Summer With You",
       "url": "https://open.spotify.com/track/3Yb8b0XQrIBXRYoh94WpHQ"
@@ -25986,6 +26052,24 @@
       "duration_ms": 165500,
       "name": "Sway",
       "url": "https://open.spotify.com/track/5Pc8U1ZGppEX31TgRXwXPy"
+    },
+    {
+      "album": {
+        "name": "Sweet Child Of My Heart",
+        "url": "https://open.spotify.com/album/2zW2j7Z4b28i0XippLSv9k"
+      },
+      "artists": [
+        {
+          "name": "AALLAR",
+          "url": "https://open.spotify.com/artist/0Zo4tbJKj4xYiidcaYRtz1"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Sweet Child Of My Heart",
+      "url": "https://open.spotify.com/track/1XbwNBjJJDZfL1BJOhUcxh"
     },
     {
       "album": {
@@ -28000,6 +28084,32 @@
       "duration_ms": 152542,
       "name": "Tryin' To Know Ya",
       "url": "https://open.spotify.com/track/45sgzJs4dBNsdhsVcaB94J"
+    },
+    {
+      "album": {
+        "name": "Turn Your Lights Down Low",
+        "url": "https://open.spotify.com/album/3yRz626Ks2LC4QND444ln3"
+      },
+      "artists": [
+        {
+          "name": "AALLAR",
+          "url": "https://open.spotify.com/artist/0Zo4tbJKj4xYiidcaYRtz1"
+        },
+        {
+          "name": "Chill Gull",
+          "url": "https://open.spotify.com/artist/0oF2AmTrkEWD7JvK1CH1Lw"
+        },
+        {
+          "name": "LauraLee",
+          "url": "https://open.spotify.com/artist/4lSHKo4n9sak2L2u9hHlWi"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Turn Your Lights Down Low",
+      "url": "https://open.spotify.com/track/1F1Lz7v4ZIgUIvh4YUYh3h"
     },
     {
       "album": {

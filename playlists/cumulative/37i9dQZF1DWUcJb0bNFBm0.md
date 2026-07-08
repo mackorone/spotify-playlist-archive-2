@@ -2,9 +2,9 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️  Cover: Lucid Express \(Hong Kong\)
+> Noise distortion amongst the hazy clouds ☁️  Cover: kurayamisaka \(Japan\)
 
-330 songs - 22 hr 49 min
+331 songs - 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Hera](https://open.spotify.com/track/0SWIe55gZYfLpoPqkEMvsu) | [Dead By Inches](https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8) | [Hera/Fading Out](https://open.spotify.com/album/3Ms1JgQ155qjzFbgq2NzFR) | 3:20 | 2025-01-23 | 2025-07-05 |
 | [Here I Stand](https://open.spotify.com/track/36v2DCsj4nP3KFsKlBdB5H) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/2yqdCAB3sTekwkJ3mmHjLh) | 6:50 | 2024-06-27 | 2024-12-05 |
 | [Here's Where the Story Ends](https://open.spotify.com/track/5gSHlT2SI0dtjeHrjj96A1) | [The Sundays](https://open.spotify.com/artist/4nlqDmbzFzbNITaqjJv7D7) | [Reading Writing And Arithmetic](https://open.spotify.com/album/6CmJJCI3lOn5XVZ68hP9kY) | 3:50 | 2025-10-09 | 2026-04-24 |
+| [hikari](https://open.spotify.com/track/1UmEFz347F6ZM2eluys3vK) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [hikari](https://open.spotify.com/album/4z2rZEuLUJpHKPMDjNJas4) | 4:25 | 2026-07-07 |  |
 | [Hollow](https://open.spotify.com/track/7ePcJlMECsg1E8shavyNBO) | [Fleuro](https://open.spotify.com/artist/6PJkJJFyjpPRGxwLOLvbXZ), [Raissa Faranda](https://open.spotify.com/artist/1UepCtrKXPvnkqbanWnw5R) | [Hollow / Buried](https://open.spotify.com/album/73RGFNSjy0xXEycwgIpwo4) | 5:46 | 2024-06-27 | 2025-02-21 |
 | [Home](https://open.spotify.com/track/3KH7uTsH53MNReg0xtMVAT) | [GAZEKATE](https://open.spotify.com/artist/4F8TQLHmLbfQbaewX40glp) | [Home](https://open.spotify.com/album/0KWcS368MdPtgQlImvyY7k) | 4:57 | 2024-06-27 | 2025-10-17 |
 | [Hotel 65](https://open.spotify.com/track/1ArVwoOXyoO9merCqj1l3o) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf) | [Lucid Express](https://open.spotify.com/album/26l2DqvJYfGDLaCgPGJ8XN) | 4:24 | 2024-06-27 | 2024-12-05 |

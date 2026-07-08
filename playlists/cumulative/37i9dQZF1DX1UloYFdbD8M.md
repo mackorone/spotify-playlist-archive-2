@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Gowry Lekshmi
 
-520 songs - 1 day 8 hr 2 min
+522 songs - 1 day 8 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Enikkayi](https://open.spotify.com/track/1kX0hIdABpMCsYKHLiX5TP) | [Sreevignesh Roshin](https://open.spotify.com/artist/6e6FPxNAE7MqsdLNbTc2e9), [Sreya Anna Joseph](https://open.spotify.com/artist/7kLMjxzItr4NbjZx1I4jqd), [Anandhu Pradeep](https://open.spotify.com/artist/2G1bWHthqfSpTclOPL9fMp) | [Enikkayi](https://open.spotify.com/album/5GJfQ6NPe1DHqu6hrB7iMR) | 3:04 | 2026-04-15 |  |
 | [Ennakaruppi](https://open.spotify.com/track/02bvAijBB6U4VeVF1mLEcI) | [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf), [gouthammm](https://open.spotify.com/artist/43Vt9P8hBXvNLz23OGzYoU), [nichesluck](https://open.spotify.com/artist/5o0U7xMRW1IxdOuwJ5z8ln) | [Ennakaruppi](https://open.spotify.com/album/1hhc40RRyJBxaU71OLcvI4) | 2:42 | 2026-01-28 |  |
 | [Ennennum](https://open.spotify.com/track/0QHa2O8xvreeXLC4pkMRlp) | [Akhil Ramachandran](https://open.spotify.com/artist/4tCLsydyCoQn1ycRykajX2), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa), [Kevin Soney](https://open.spotify.com/artist/7dGRq77QLo5zlEMXGEd3wI), [copiedthecat](https://open.spotify.com/artist/1t3dzWfQqSMa3uIziPcWBO) | [Ennennum](https://open.spotify.com/album/4dzSgo7E6xIEHpfXG3IoVa) | 2:53 | 2025-05-30 | 2025-07-30 |
+| [Ente Poovithal](https://open.spotify.com/track/2DGsgeC2z77GE2rmL1n856) | [Sajeer Koppam](https://open.spotify.com/artist/7Ea6gI259RLD4aFoAsPtph), [Priyanka G Achari](https://open.spotify.com/artist/5DWkEMO9x9Qeqze63hVgUd), [Sibu Sukumaran](https://open.spotify.com/artist/3keNxNmATzwZrIbAl2eyei) | [Ente Poovithal](https://open.spotify.com/album/78AtOewjtR62HHEA10o60B) | 3:29 | 2026-07-07 |  |
 | [Enthavo](https://open.spotify.com/track/16Ijfdrq8MPcCZoky28NVP) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Enthavo](https://open.spotify.com/album/1KubOLlcV8zJ21veewmxp1) | 3:39 | 2022-12-27 | 2024-07-13 |
 | [Eppo Varuvaro + Kimkim](https://open.spotify.com/track/306LQyajNTdFu8kfzF2suV) | [Sudeep Palanad](https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3), [Remya Vinayakumar](https://open.spotify.com/artist/5r5NmEm8qG0QsBas0EKKjI) | [Eppo Varuvaro + Kimkim](https://open.spotify.com/album/0oWPcz6SiFyEUTAC1UXnHa) | 3:57 | 2023-10-06 | 2024-08-21 |
 | [Ettam Pattu](https://open.spotify.com/track/1Qdtb5KTgYNN5U6eeuw2jA) | [Avial](https://open.spotify.com/artist/29z5chNteRELh8vVAnKind) | [AVIAL](https://open.spotify.com/album/7JhsOMlZ3f2pGC7nWRZTQv) | 5:49 | 2023-07-27 | 2024-07-27 |
@@ -163,6 +164,7 @@
 | [Irulil](https://open.spotify.com/track/1fv3df6n4mqoseIx1oX8TP) | [SidVoc](https://open.spotify.com/artist/29JiaR2Nfjq1usiQ9rX744) | [Irulil](https://open.spotify.com/album/24JsFJCl7Oq5EWPNCoKcFN) | 4:31 | 2023-09-26 | 2024-02-19 |
 | [Jaalam](https://open.spotify.com/track/57m7Uqgd902GeGsL6sG15r) | [Saju Sreenivas](https://open.spotify.com/artist/6CmEs3zFMHjLjYsanVCK0T) | [Jaalam](https://open.spotify.com/album/24FkJ1b7d5IWcMyTtyPkj0) | 3:33 | 2023-10-27 | 2024-02-19 |
 | [Jaalame](https://open.spotify.com/track/1SEe6PB3qJipGcbtJQS5db) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Jai Matt](https://open.spotify.com/artist/2sC8JDQrhhEjnpeHrTYzjf), [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [J2K](https://open.spotify.com/artist/6Um66wxKM0pGG4HIoLacTM) | [Jaalame](https://open.spotify.com/album/4PtCiq8SiO8Ve8bWUT9OiT) | 3:20 | 2025-10-10 | 2026-06-20 |
+| [Jaane Ju](https://open.spotify.com/track/5pdNkgELXNjBnhGC8qgwGF) | [Mejjo Josseph](https://open.spotify.com/artist/0VhJQH4iwGSdo7MbZUGVW9), [Ajeesh Hakkeem](https://open.spotify.com/artist/2CV9gHLg8GqXbyrfsBrMhm) | [Jaane Ju](https://open.spotify.com/album/6rBbrAnu16FCqVYraT5KNG) | 3:23 | 2026-07-07 |  |
 | [Jatayu \- From "Saina Indie Radar"](https://open.spotify.com/track/3MAz3uC4mmbO4PJDq261PO) | [Muthu](https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q), [Kael Produced](https://open.spotify.com/artist/0WjHPYFnjOh4QzuFvyb6Ni) | [Jatayu \(From "Saina Indie Radar"\)](https://open.spotify.com/album/4VINblqE2gLDvUrUw9aObh) | 3:18 | 2025-12-09 | 2026-06-17 |
 | [Jayiche Theeru](https://open.spotify.com/track/58SrpU1MqNPdkersJ49mVu) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3), [Adarsh ADJ](https://open.spotify.com/artist/0xf0k3W5rtq5aBS7FCzWWZ) | [Jayiche Theeru](https://open.spotify.com/album/4CWnzqTetUOsJlzZbJHyQU) | 3:58 | 2023-06-16 | 2023-07-28 |
 | [Jeevi Theme Song](https://open.spotify.com/track/2paqshpRPExMo6oMurTSXS) | [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [Devika Maya](https://open.spotify.com/artist/7AEA0KzcB7246IKjHGGHwp) | [Jeevi](https://open.spotify.com/album/5yAUvD2avd8NPgsOJNm6Ds) | 3:40 | 2025-08-18 | 2025-11-25 |

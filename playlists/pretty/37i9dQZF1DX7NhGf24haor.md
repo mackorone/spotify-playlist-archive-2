@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Da Tweekaz & The Straikerz
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,433 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,507 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [Enter The Rawzone \- Rawzone Arena 2026 Anthem](https://open.spotify.com/track/1YMIAPZm1o63EBQ0lmfjBg) | [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2), [Losty](https://open.spotify.com/artist/0OGSmH6Q5cwSCp9R7FWqHY) | [Enter The Rawzone \(Rawzone Arena 2026 Anthem\)](https://open.spotify.com/album/3RtNBfs4L6BRst7jIBj1JR) | 4:19 |
 | 100 | [Trouble](https://open.spotify.com/track/4m1m9AYEfObUC3p2nB6Oht) | [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa), [Hardstyle Pianist](https://open.spotify.com/artist/62X4mhiCOYCnwGuP5ZQ8ug) | [Trouble](https://open.spotify.com/album/0lYUQ8HQXhCsC3ZbzyDcBb) | 4:18 |
 
-Snapshot ID: `AAAAAMJxjl7ZMkeWMxWPEZq5Ez+vi4dx`
+Snapshot ID: `AAAAAN/mANmxzIHzrKv97GOJwMLnWjps`

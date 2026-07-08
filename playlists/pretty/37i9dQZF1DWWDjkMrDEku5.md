@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDjkMrDEku5.md) - [plain]
 
 > Get ready for Disney and Pixar’s Toy Story 5, only in theaters\. To infinity and beyond!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,653 likes - 36 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,935 likes - 36 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDjkMrDEku5.md) - [plain]
 | 18 | [Infinity and Beyond](https://open.spotify.com/track/4rm1U6PBUaGs2nZztwckzf) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/47OFnLtLVi5WrPYNXAwFGh) | 3:09 |
 | 19 | [Zurg's Planet](https://open.spotify.com/track/0HjLl9IgcoCetajljz6bK7) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 2](https://open.spotify.com/album/0MCE2KRV2L5NJYMyQNPKHY) | 3:39 |
 | 20 | [Duke's Best Crash Ever](https://open.spotify.com/track/6BDEk8FCCD35DkuQzcO2c7) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 2:43 |
-| 21 | [You've Got A Friend In Me \(Wheezy's Version\)](https://open.spotify.com/track/3mTqcOuqE9WFW79zKNHnsR) | [Robert Goulet](https://open.spotify.com/artist/6Qdqv5WM6z1WxWWjuuiogR) | [Toy Story 2](https://open.spotify.com/album/0MCE2KRV2L5NJYMyQNPKHY) | 2:56 |
+| 21 | [You've Got a Friend in Me \(Wheezy's Version\)](https://open.spotify.com/track/3mTqcOuqE9WFW79zKNHnsR) | [Robert Goulet](https://open.spotify.com/artist/6Qdqv5WM6z1WxWWjuuiogR) | [Toy Story 2](https://open.spotify.com/album/0MCE2KRV2L5NJYMyQNPKHY) | 2:56 |
 | 22 | [Operation Pull Toy](https://open.spotify.com/track/4iT5yRtkgJ4S5YSAGyiE6W) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 5:18 |
 | 23 | [Woody's A Star](https://open.spotify.com/track/5xCwjnZ6BRHFb839eAXGru) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 2](https://open.spotify.com/album/0MCE2KRV2L5NJYMyQNPKHY) | 1:28 |
 | 24 | [The Cleaner](https://open.spotify.com/track/1DOK4imxjjUaPWxUQUqHL1) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 2](https://open.spotify.com/album/0MCE2KRV2L5NJYMyQNPKHY) | 1:50 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDjkMrDEku5.md) - [plain]
 | 26 | [Buzz's Flight & a Maiden](https://open.spotify.com/track/4wR0SjRvumVsonrJg89JMT) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 4:07 |
 | 27 | [Zu\-Zu \(Ken's Theme\)](https://open.spotify.com/track/1NKFZslF0RC8Ikl8xDG9wc) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3y8MjpBVOSPzJLdgUGNIZQ) | 0:35 |
 | 28 | [Sunnyside](https://open.spotify.com/track/1bpuasSIAuMtlYM90BQjGj) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3y8MjpBVOSPzJLdgUGNIZQ) | 2:20 |
-| 29 | [You've Got A Friend In Me](https://open.spotify.com/track/3zfsGLGXkMacE653p8AtCP) | [Tom Scott](https://open.spotify.com/artist/72ktMty33X1LsIzHdRr0U5) | [Toy Story 2](https://open.spotify.com/album/0MCE2KRV2L5NJYMyQNPKHY) | 2:57 |
+| 29 | [You've Got a Friend in Me](https://open.spotify.com/track/3zfsGLGXkMacE653p8AtCP) | [Tom Scott](https://open.spotify.com/artist/72ktMty33X1LsIzHdRr0U5) | [Toy Story 2](https://open.spotify.com/album/0MCE2KRV2L5NJYMyQNPKHY) | 2:57 |
 | 30 | [Going Home](https://open.spotify.com/track/1MwhHEXtR3FC9La5U3Ouyx) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3y8MjpBVOSPzJLdgUGNIZQ) | 3:22 |
 | 31 | [You've Got a Friend in Me](https://open.spotify.com/track/5aaUXcrsXI477I93yBE8lu) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 4 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6WjuMbjLJHdI0EwjJR9ChA) | 2:04 |
 | 32 | [Garbage?](https://open.spotify.com/track/5G7wNhL70dtCC3tzoeuU50) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Toy Story 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3y8MjpBVOSPzJLdgUGNIZQ) | 2:40 |

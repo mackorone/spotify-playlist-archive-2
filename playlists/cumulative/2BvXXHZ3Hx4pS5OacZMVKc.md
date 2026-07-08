@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-465 songs - 23 hr 52 min
+466 songs - 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -465,6 +465,7 @@
 | [Wonder](https://open.spotify.com/track/1TKW3OglG58pfVAfIMDClZ) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Rarin](https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ), [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0) | [Wonder](https://open.spotify.com/album/5duEVzCzfvdzzgmdo7vryH) | 2:18 | 2024-08-23 |  |
 | [World on Fire](https://open.spotify.com/track/6RUrwniB9s0Xm3iqXa5Jc2) | [CENTRIC](https://open.spotify.com/artist/1mTKB32KqqaiEp7GP4lK1L) | [World on Fire](https://open.spotify.com/album/6xYYOfJjOi1Xrs7M46NPoX) | 3:45 | 2023-08-10 |  |
 | [World on Fire](https://open.spotify.com/track/0vyzWCQaPRwaJPbRv9SB1q) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 3:45 | 2023-08-10 | 2023-11-03 |
+| [WOULD U](https://open.spotify.com/track/3X2s8jVhj56zVeWqQMFVBs) | [Conni](https://open.spotify.com/artist/3V0uGOh5VeIp99phDIgWqU), [Lynxie](https://open.spotify.com/artist/61ixzqjzhlmKPa0vY6bX2C), [THEBOYBENNIE](https://open.spotify.com/artist/007dFRVu5x8IPwmkrrWqJw) | [WOULD U](https://open.spotify.com/album/0bYA4TeJm3N5oUQrq5FJrV) | 2:37 | 2026-07-07 |  |
 | [Would You Be Waiting](https://open.spotify.com/track/3PHOx8osoFglbGHz8dWY5E) | [Aeden](https://open.spotify.com/artist/2WIFU5KpTGyYWZs039dQPn) | [Would You Be Waiting](https://open.spotify.com/album/17zDJZXkFFsfWDpH83URKA) | 2:57 | 2022-08-30 | 2022-09-13 |
 | [X2](https://open.spotify.com/track/3GfnnZhCeysVePlfV25cZU) | [MUPP](https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG) | [X2](https://open.spotify.com/album/59vtXVIPN7Q3VYHAg2TcRc) | 1:58 | 2025-06-05 |  |
 | [XXI](https://open.spotify.com/track/1WsksDgGtaNPLdGcwk78vt) | [QR](https://open.spotify.com/artist/698AkaHa09ShchhkKzd5wz) | [XXI](https://open.spotify.com/album/28F4laLubUUnKyXa9pfyWK) | 2:40 | 2022-03-29 | 2023-08-11 |

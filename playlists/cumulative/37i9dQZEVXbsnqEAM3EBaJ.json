@@ -230,7 +230,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 341741,
       "name": "... \u00c1ngel \u00bfD\u00f3nde Est\u00e1s?",
       "url": "https://open.spotify.com/track/5CQlFj4moXPxRaw4xhi3Nr"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 185840,
       "name": "36 Degrees - RE:CREATED VERSION",
       "url": "https://open.spotify.com/track/1OrIoUyy4PHZlLMV4OUl7H"
@@ -2134,7 +2134,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 276096,
       "name": "About You",
       "url": "https://open.spotify.com/track/3m4YAWyI7QypBz2qBUQCOO"
@@ -3256,7 +3256,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 232400,
       "name": "Algorithm",
       "url": "https://open.spotify.com/track/6XPUELMrkcH8H4iP00bJI3"
@@ -3720,7 +3720,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 211022,
       "name": "All Will Be (N)One (feat. Ricky Myers of Suffocation)",
       "url": "https://open.spotify.com/track/2ri9JmFgqdffPJ5s4PCck1"
@@ -5530,7 +5530,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 253200,
       "name": "Ashen World (feat. Ignacia Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/68pL4Ecm6unJat7BxqLJtA"
@@ -8202,7 +8202,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 391828,
       "name": "Blaze Forever",
       "url": "https://open.spotify.com/track/6F5YjLiK70iTwoY3MwEe4r"
@@ -8964,7 +8964,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 174200,
       "name": "Breakdown - 2026 Mix - Extended Version",
       "url": "https://open.spotify.com/track/3A3UjOxtbpUtIT5ddtImdo"
@@ -11968,7 +11968,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 197250,
       "name": "Como Todos Los Domingos",
       "url": "https://open.spotify.com/track/4xLy4NZXhRUVKyIYjIsPO2"
@@ -12110,7 +12110,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 129000,
       "name": "Cool Guy",
       "url": "https://open.spotify.com/track/20X1G6CNx9L0hcuHA3oqxi"
@@ -13658,7 +13658,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 240208,
       "name": "De Oppresso Liber",
       "url": "https://open.spotify.com/track/1va9iYk8Kq9BYqlBTopxRK"
@@ -18656,7 +18656,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 196602,
       "name": "Estoy Llorando De Tanta Belleza",
       "url": "https://open.spotify.com/track/70THa2SQPnAF5U7vfTmnW0"
@@ -20528,7 +20528,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 247322,
       "name": "Fix It - Live Brussels - January 2025",
       "url": "https://open.spotify.com/track/2kyBL8hoaKdSWF7H7465px"
@@ -22638,6 +22638,28 @@
       "duration_ms": 64610,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/1nhKv7hjXzNBmraZNfWhLe"
+    },
+    {
+      "album": {
+        "name": "GLITCH (2026)",
+        "url": "https://open.spotify.com/album/2uZ4O1VqjxexzC9AoDqcYo"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        },
+        {
+          "name": "SunoAI",
+          "url": "https://open.spotify.com/artist/20LgVzi8mg8qf9JKyDbauU"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296021,
+      "name": "GLITCH (2026)",
+      "url": "https://open.spotify.com/track/4myPtA6gN4TkMEIBroGTbI"
     },
     {
       "album": {
@@ -25147,6 +25169,24 @@
     },
     {
       "album": {
+        "name": "Femme Fatale Vol. 2",
+        "url": "https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247396,
+      "name": "Hello Monserrat",
+      "url": "https://open.spotify.com/track/4GeGkrJZHLok2EMqnJt7bS"
+    },
+    {
+      "album": {
         "name": "Hellscape",
         "url": "https://open.spotify.com/album/6P7k4TkkwLIfgXJOBEHaHP"
       },
@@ -26494,7 +26534,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 175999,
       "name": "How Do You Sleep?",
       "url": "https://open.spotify.com/track/4jPV9n9d4ofuJEeurNh7WE"
@@ -26906,7 +26946,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 443907,
       "name": "I Belong to the Sky - Bright-Side Mix",
       "url": "https://open.spotify.com/track/1yFOL8IHl4lhewcOgRvsaB"
@@ -28264,7 +28304,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 293500,
       "name": "I, Scvlptor",
       "url": "https://open.spotify.com/track/4hm5JzCH1wBuDWUsVYith9"
@@ -29186,7 +29226,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 454139,
       "name": "In the Shadow of Your Shadow",
       "url": "https://open.spotify.com/track/2H0u9n6xdVlwajuJ8a5IZx"
@@ -30714,6 +30754,32 @@
       "duration_ms": 252680,
       "name": "Jet - Underdubbed Mix",
       "url": "https://open.spotify.com/track/0G7qdV0Rql4sCe0EcPlwVr"
+    },
+    {
+      "album": {
+        "name": "Gargoyle of the Garden State",
+        "url": "https://open.spotify.com/album/5vW1zVGGCLNbFXc6bqvnEg"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bolan",
+          "url": "https://open.spotify.com/artist/5y20uhyYiZ5kdQW0YjlYok"
+        },
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        },
+        {
+          "name": "Nuno Bettencourt",
+          "url": "https://open.spotify.com/artist/3konlNIREmuxZRIFKSPKmK"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178706,
+      "name": "Jet Black Universe",
+      "url": "https://open.spotify.com/track/5kDiwmlDOQPTQZI94VoXss"
     },
     {
       "album": {
@@ -32516,7 +32582,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 163413,
       "name": "La voix humaine, FP 171: \"Souviens-toi du dimanche de Versailles\"",
       "url": "https://open.spotify.com/track/3QkSGiFUlaJ0IB1THQYpgU"
@@ -36644,7 +36710,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 230000,
       "name": "Make It Out Alive",
       "url": "https://open.spotify.com/track/4XvwNPLnYaH6UgeoIfW52v"
@@ -38658,7 +38724,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 249037,
       "name": "Moon",
       "url": "https://open.spotify.com/track/01Ae1MOvqJi945XsZOyUVA"
@@ -39972,7 +40038,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 265306,
       "name": "Nella Fantasia",
       "url": "https://open.spotify.com/track/0hYteISgFtluZYreT4i0Na"
@@ -42106,7 +42172,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 60266,
       "name": "On the Phone with Mike Piazza - Live at KSJO Studios, San Jose, CA / December 18th 1997",
       "url": "https://open.spotify.com/track/0LWnQP85Du1aPguaVBKuYD"
@@ -43816,7 +43882,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 187002,
       "name": "PARASYTE (BITE)",
       "url": "https://open.spotify.com/track/11zDBt6MfjjyYkTEucAdBE"
@@ -43958,7 +44024,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 351280,
       "name": "Passing The Time - Alternate Long Stereo Mix / Remastered 2026",
       "url": "https://open.spotify.com/track/0E55kn1JNIH25uRZgqIJS6"
@@ -45648,7 +45714,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 193619,
       "name": "Profit",
       "url": "https://open.spotify.com/track/4vEhBkMOnQDrh39NLtZVMM"
@@ -47044,7 +47110,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 226285,
       "name": "raw",
       "url": "https://open.spotify.com/track/1GB8v93ShC3QNeml8ZUB4s"
@@ -48044,7 +48110,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 124733,
       "name": "Ride A White Swan (\u2018MARC\u2019 version)",
       "url": "https://open.spotify.com/track/2fLCVrOdKqzusOSaKRZFfN"
@@ -51084,7 +51150,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 285738,
       "name": "Shadowlife",
       "url": "https://open.spotify.com/track/2Fu1yEQyxVgd12UxPlMJQ4"
@@ -53494,7 +53560,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 168128,
       "name": "Sonic Boom (from \"Sonic CD\") - Spanish Version",
       "url": "https://open.spotify.com/track/0nr6KVUjMD8DKSeN89dEBk"
@@ -54264,7 +54330,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 232517,
       "name": "Spiral - 2026 Remix",
       "url": "https://open.spotify.com/track/7wp6tnKFAIkJUj4yNjZkvN"
@@ -54286,7 +54352,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 292373,
       "name": "Spirit Helper",
       "url": "https://open.spotify.com/track/5Xm1vq2jyQqaMBhBOSbOIE"
@@ -58561,6 +58627,28 @@
     },
     {
       "album": {
+        "name": "Far From God",
+        "url": "https://open.spotify.com/album/6IVND83ocYfF1cwMDaAHXc"
+      },
+      "artists": [
+        {
+          "name": "Moonspell",
+          "url": "https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6"
+        },
+        {
+          "name": "Alicia Nurho",
+          "url": "https://open.spotify.com/artist/7lGS5y2LqQ7VnXjp062T70"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350066,
+      "name": "The Great Wolf in the Sky (feat. Alicia Nuhro)",
+      "url": "https://open.spotify.com/track/3TewLoCqcQI4xTHUCY4moX"
+    },
+    {
+      "album": {
         "name": "The Green Willow Tree",
         "url": "https://open.spotify.com/album/1ErYH78IVjcfor1UtQcDea"
       },
@@ -58922,7 +59010,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 527000,
       "name": "THE LIGHT OF HOPE",
       "url": "https://open.spotify.com/track/0xxnvxnMeoJtGoWCLocITz"
@@ -59312,7 +59400,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 211773,
       "name": "The New State",
       "url": "https://open.spotify.com/track/4xHyYR3GLcFzRnnl6vsT4S"
@@ -65381,6 +65469,24 @@
     },
     {
       "album": {
+        "name": "ReLoad (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/4ogbSOvBvqT0kqCO0fI1rW"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372453,
+      "name": "Voodoo Queen - \"Fixxxer\" Vocal Idea",
+      "url": "https://open.spotify.com/track/0LvoGZvihRUUrZ7lLsVgHZ"
+    },
+    {
+      "album": {
         "name": "Voyager",
         "url": "https://open.spotify.com/album/0aP1rf4Xix1A4oG6q2SfWy"
       },
@@ -65392,7 +65498,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 247166,
       "name": "Voyager",
       "url": "https://open.spotify.com/track/4YZ7rGwFbbbOTJZECr4T8W"
@@ -66482,7 +66588,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 339578,
       "name": "We March",
       "url": "https://open.spotify.com/track/2qmcGDZVRyl4tKAHyTe9U8"
@@ -70098,7 +70204,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 105125,
       "name": "\u042f\u0415\u0412\u0412\u0420",
       "url": "https://open.spotify.com/track/0S5Wp3jXKPasDKWeLnZ4co"

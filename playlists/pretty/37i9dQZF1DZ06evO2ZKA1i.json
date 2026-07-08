@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. The essential tracks, all in one playlist.",
-  "num_followers": 303390,
+  "num_followers": 303405,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akmegAAAAADlxXN3NedLHah/l9FvAOwf",
+  "snapshot_id": "akrwAAAAAADaJsuESmZgiRbb039BZAmg",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Machine Head (Remastered)",
-        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
+        "name": "SPLAT!",
+        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 442840,
-      "name": "Lazy - Remastered 2012",
-      "url": "https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK"
+      "duration_ms": 212933,
+      "name": "Sacred Land",
+      "url": "https://open.spotify.com/track/0zqwVmMHGh5Imgw2eoALli"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fireball (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
+        "name": "Machine Head (Remastered)",
+        "url": "https://open.spotify.com/album/32NQ56VZDTXSH3SMv4XSGN"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 204133,
-      "name": "Fireball - 1996 Remaster",
-      "url": "https://open.spotify.com/track/3bLfteEOjNnH7Gpa2NgSlF"
+      "duration_ms": 442840,
+      "name": "Lazy - Remastered 2012",
+      "url": "https://open.spotify.com/track/27WqFiOFm2u1hax2ksdyqK"
     },
     {
       "added_at": null,
@@ -295,6 +295,38 @@
       "duration_ms": 351693,
       "name": "Woman From Tokyo - Remastered 2000",
       "url": "https://open.spotify.com/track/6hzu1SR1YbSRIzfSFSsGhh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPLAT!",
+        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 227546,
+      "name": "The Lunatic",
+      "url": "https://open.spotify.com/track/1JTqeSJKKeINkultYf60m2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fireball (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 204133,
+      "name": "Fireball - 1996 Remaster",
+      "url": "https://open.spotify.com/track/3bLfteEOjNnH7Gpa2NgSlF"
     },
     {
       "added_at": null,
@@ -340,9 +372,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 212933,
-      "name": "Sacred Land",
-      "url": "https://open.spotify.com/track/0zqwVmMHGh5Imgw2eoALli"
+      "duration_ms": 281693,
+      "name": "The Only Horse in Town",
+      "url": "https://open.spotify.com/track/0lhdngV98D9kCOkKvInA41"
     },
     {
       "added_at": null,
@@ -379,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arrogant Boy",
-        "url": "https://open.spotify.com/album/00q7zRjca6khksgPKQoi5F"
+        "name": "Fireball (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
       },
       "artists": [
         {
@@ -388,9 +420,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 198546,
-      "name": "Arrogant Boy",
-      "url": "https://open.spotify.com/track/7zum4C6Vqm4G6HqeDvjN4Y"
+      "duration_ms": 321333,
+      "name": "Demon's Eye - 1996 Remaster",
+      "url": "https://open.spotify.com/track/6bofgga9Ld54uPgEHlr0Ne"
     },
     {
       "added_at": null,
@@ -404,15 +436,15 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 227546,
-      "name": "The Lunatic",
-      "url": "https://open.spotify.com/track/1JTqeSJKKeINkultYf60m2"
+      "duration_ms": 240693,
+      "name": "The Beating of Wings",
+      "url": "https://open.spotify.com/track/0dO7lK0fEqZPbTmVNEvS87"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Fireball (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7nn5IUsa4aqi16o3U0qik6"
+        "name": "Arrogant Boy",
+        "url": "https://open.spotify.com/album/00q7zRjca6khksgPKQoi5F"
       },
       "artists": [
         {
@@ -420,9 +452,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 321333,
-      "name": "Demon's Eye - 1996 Remaster",
-      "url": "https://open.spotify.com/track/6bofgga9Ld54uPgEHlr0Ne"
+      "duration_ms": 198546,
+      "name": "Arrogant Boy",
+      "url": "https://open.spotify.com/track/7zum4C6Vqm4G6HqeDvjN4Y"
     },
     {
       "added_at": null,
@@ -468,9 +500,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 281693,
-      "name": "The Only Horse in Town",
-      "url": "https://open.spotify.com/track/0lhdngV98D9kCOkKvInA41"
+      "duration_ms": 214613,
+      "name": "Scriblin' Gib'rish",
+      "url": "https://open.spotify.com/track/2ZAcXcDeRHP4MxH1r8gFiX"
     },
     {
       "added_at": null,
@@ -532,9 +564,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 240693,
-      "name": "The Beating of Wings",
-      "url": "https://open.spotify.com/track/0dO7lK0fEqZPbTmVNEvS87"
+      "duration_ms": 225813,
+      "name": "Jessica's Bra",
+      "url": "https://open.spotify.com/track/65WrKt1fexlBNOweqVs624"
     },
     {
       "added_at": null,
@@ -587,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SPLAT!",
-        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 214613,
-      "name": "Scriblin' Gib'rish",
-      "url": "https://open.spotify.com/track/2ZAcXcDeRHP4MxH1r8gFiX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deep Purple in Rock (Anniversary Edition)",
         "url": "https://open.spotify.com/album/2bjTVISSsvwia7uxrrEsuQ"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 240026,
       "name": "Nobody's Home",
       "url": "https://open.spotify.com/track/6x8GeAremuPbjgKJw5ao4D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SPLAT!",
-        "url": "https://open.spotify.com/album/4vRdiUShnNZj9eBQ65sDny"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "Jessica's Bra",
-      "url": "https://open.spotify.com/track/65WrKt1fexlBNOweqVs624"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Purpendicular",
-        "url": "https://open.spotify.com/album/3bErA9aFZyGiD9j5ntYe5v"
+        "name": "Now What ?!",
+        "url": "https://open.spotify.com/album/4OiFn20i3aTu2FsMgP1yB5"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 256626,
-      "name": "Vavoom: Ted The Mechanic",
-      "url": "https://open.spotify.com/track/1ALrWvDxlsHoMnyyTk77DJ"
+      "duration_ms": 420320,
+      "name": "Uncommon Man",
+      "url": "https://open.spotify.com/track/7t49MeETMEZ3QaFM0oXw0C"
     },
     {
       "added_at": null,

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: ТУЧА
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,720 likes - 45 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,731 likes - 45 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Тебе\-себе](https://open.spotify.com/track/23vnEYRBxsgniSbqJZw3pp) | [ТУЧА](https://open.spotify.com/artist/33dwxPM7czY6r7pQNq3nvQ) | [Тебе\-себе](https://open.spotify.com/album/1jFFUtzmG9QIb0P4mCQSJY) | 2:59 |
+| 1 | [EROTIC INFERNO](https://open.spotify.com/track/4C4omgpgeTV8RUE91TtZu8) | [ТУЧА](https://open.spotify.com/artist/33dwxPM7czY6r7pQNq3nvQ) | [EROTIC INFERNO](https://open.spotify.com/album/1MLJCcSvIk6jjjfbGTZhPi) | 2:43 |
 | 2 | [Dark Disco](https://open.spotify.com/track/3fsxkZeWu1EVSr9XcPtHkQ) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [Dark Disco](https://open.spotify.com/album/7Hq8LBMrhMHlhmNe9Z0Azd) | 3:33 |
 | 3 | [2:00 \(Друга ночі\)](https://open.spotify.com/track/1eLSWxcr23Qgq3LsovSEDw) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [2:00 \(Друга ночі\)](https://open.spotify.com/album/6eLnrXHIHpQP1E6Fo0eXiI) | 2:57 |
 | 4 | [FEEL THE HEAT \- Remix](https://open.spotify.com/track/3ysRZuNxBecniPhceWI2Z9) | [DOROFEEVA](https://open.spotify.com/artist/7wl1m5vgWkCP3cqYVj2noM), [Bloom Twins](https://open.spotify.com/artist/4ae1CMoZOjwIOUmhJlA9Tt) | [FEEL THE HEAT \(Remix\)](https://open.spotify.com/album/2CLNlravdjQH9t4r0ZmBvH) | 3:19 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 44 | [навчитися любити](https://open.spotify.com/track/625SlCzHaARXP2NANz3xHK) | [KARINÈ](https://open.spotify.com/artist/6v2SNCaSjFbvN935XsOnAB) | [навчитися любити](https://open.spotify.com/album/1M0URCrTSHWtRcBymlHoBW) | 2:30 |
 | 45 | [Don't call it love](https://open.spotify.com/track/583xHq04HxEJKIqqclE4O0) | [Marra Finn](https://open.spotify.com/artist/5o4zCIlk3VBkX7ySwC4ipt) | [Don't call it love](https://open.spotify.com/album/2wh748oDQCDZDue7XyxsX5) | 2:44 |
 
-Snapshot ID: `AAAAAGgch/tjb2AbKbiI6YMAaLqIiWZA`
+Snapshot ID: `AAAAACfXKGVFy/l6QmB81890ciW6lC0f`

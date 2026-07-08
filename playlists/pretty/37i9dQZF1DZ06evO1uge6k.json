@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 262948,
+  "num_followers": 262960,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akmegAAAAAA18ady2H4OA6yNrHgxYcfE",
+  "snapshot_id": "akrwAAAAAAD61FoCTqRshsuAUQgRuw/X",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recycler",
-        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 261026,
-      "name": "My Head's in Mississippi",
-      "url": "https://open.spotify.com/track/6LPQVBRDTZK539mKAbyMHC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Baddest of ZZ Top",
         "url": "https://open.spotify.com/album/3PvzCN4AY0dN3NsZ4c2i8z"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 179333,
       "name": "Sharp Dressed Man",
       "url": "https://open.spotify.com/track/6TSgC6JmLn6cJcUZVkRKow"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Recycler",
+        "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 261026,
+      "name": "My Head's in Mississippi",
+      "url": "https://open.spotify.com/track/6LPQVBRDTZK539mKAbyMHC"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goin' 50",
-        "url": "https://open.spotify.com/album/5NLRTVJbkSYzcsBphObMMg"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 284253,
-      "name": "Viva Las Vegas (2019 Remaster)",
-      "url": "https://open.spotify.com/track/3NyFc37QvMQrncwUGm1Pif"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tres Hombres (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/0DOXzXXIHrYOxUvyCsucfX"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 189666,
       "name": "Precious and Grace (2005 Remaster)",
       "url": "https://open.spotify.com/track/4nOO08BLnAVGnRpSOmqJB5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goin' 50",
+        "url": "https://open.spotify.com/album/5NLRTVJbkSYzcsBphObMMg"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 284253,
+      "name": "Viva Las Vegas (2019 Remaster)",
+      "url": "https://open.spotify.com/track/3NyFc37QvMQrncwUGm1Pif"
     },
     {
       "added_at": null,

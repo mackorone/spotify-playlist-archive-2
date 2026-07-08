@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VvACCrgjrt.md) - [plain]
 
 > Real nasty house 🔥🔥 featuring Disco Lines
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,312,949 likes - 125 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,312,933 likes - 125 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-141 songs - 7 hr 39 min
+142 songs - 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Louise](https://open.spotify.com/track/0ydFfhF9IOBh4JvlBbbrgv) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:45 | 2022-08-05 | 2026-03-29 |
 | [Love Me \- Bremen Live March 3rd\. 1964 \- Restauración 2024](https://open.spotify.com/track/24WvMZQn89ClIfzNvWvMac) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Live March 3rd, 1964 Bremen, Germany \(Restauración 2024\)](https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By) | 6:27 | 2024-07-03 | 2024-11-03 |
 | [Love Me Darling \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/2RmWAVjMZAJ87jnTEjYQkN) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 6:28 | 2026-03-27 | 2026-05-18 |
+| [Midnight Blues \- Alternate Take To "Moaning For My Baby"](https://open.spotify.com/track/790M4TsGpZraL5sHqgSISD) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Ain't Gonna Be Your Dog: Chess Collectibles Vol\. 2](https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61) | 2:34 | 2026-07-08 |  |
 | [Moanin' At Midnight](https://open.spotify.com/track/0nWFmSvTZmgxGKFxodXgIq) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:56 | 2022-08-08 | 2024-07-19 |
 | [Moanin' For My Baby](https://open.spotify.com/track/3GVbKBdl5s9ZqSONTBCf9H) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:51 | 2022-08-05 | 2024-05-16 |
 | [Moving](https://open.spotify.com/track/4IyT52kGjY8nc9eyXa5eBn) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 2:47 | 2022-08-05 |  |

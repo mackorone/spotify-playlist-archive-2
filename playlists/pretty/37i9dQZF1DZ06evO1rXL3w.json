@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akmegAAAAAA1cIoZ3TyqAdgSziD1esLD",
+  "snapshot_id": "akrwAAAAAADWSGjWDU6V62ywdmeGwcmX",
   "tracks": [
     {
       "added_at": null,
@@ -143,18 +143,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
+        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
       },
       "artists": [
         {
           "name": "Kris Bowers",
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        },
+        {
+          "name": "Tayla Parx",
+          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
         }
       ],
-      "duration_ms": 65078,
-      "name": "Main Title - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/79tCf5okCzsoZh8bhXXrJ7"
+      "duration_ms": 224500,
+      "name": "A Feeling I've Never Been",
+      "url": "https://open.spotify.com/track/6GheQyWRdAQAtXa4PMNNNG"
     },
     {
       "added_at": null,
@@ -207,26 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        },
-        {
-          "name": "Tayla Parx",
-          "url": "https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "A Feeling I've Never Been",
-      "url": "https://open.spotify.com/track/6GheQyWRdAQAtXa4PMNNNG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
       },
@@ -236,9 +220,25 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 95465,
-      "name": "Kiss and Tell - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/4OjHxLkdHaRUVY8ogageyL"
+      "duration_ms": 65078,
+      "name": "Main Title - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/79tCf5okCzsoZh8bhXXrJ7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 187206,
+      "name": "I Could Use a Boost",
+      "url": "https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K"
     },
     {
       "added_at": null,
@@ -275,22 +275,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 187206,
-      "name": "I Could Use a Boost",
-      "url": "https://open.spotify.com/track/0Kj6kohRovHA5vU45ASu0K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
       },
@@ -300,9 +284,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 206185,
-      "name": "Meet Dr. Monro - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/6tyZytD0hsAKUVxerYiR2j"
+      "duration_ms": 95465,
+      "name": "Kiss and Tell - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/4OjHxLkdHaRUVY8ogageyL"
     },
     {
       "added_at": null,
@@ -348,9 +332,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 152429,
-      "name": "Thank You - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/7DLgRYCtEARiOuZPYoWYfJ"
+      "duration_ms": 206185,
+      "name": "Meet Dr. Monro - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/6tyZytD0hsAKUVxerYiR2j"
     },
     {
       "added_at": null,
@@ -383,6 +367,22 @@
       "duration_ms": 47072,
       "name": "Eloise & Theo - From the Netflix Series \u201cBridgerton Season Two\u201d",
       "url": "https://open.spotify.com/track/1nqAZQ2aEWWl7m367vlMyH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Queen Charlotte: A Bridgerton Story (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0ypGVapqpAOTMmoT1oz6lo"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 152429,
+      "name": "Thank You - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/7DLgRYCtEARiOuZPYoWYfJ"
     },
     {
       "added_at": null,

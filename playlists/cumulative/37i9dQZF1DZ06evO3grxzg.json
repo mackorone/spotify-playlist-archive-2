@@ -75,6 +75,40 @@
     },
     {
       "album": {
+        "name": "Atr\u00e9vete A So\u00f1ar El Concierto (En Vivo)",
+        "url": "https://open.spotify.com/album/4d5Xe8H0v3QQuYhjZNEno1"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Las Divinas",
+          "url": "https://open.spotify.com/artist/5GsCDlhZrJrmJi3EaSS5oY"
+        },
+        {
+          "name": "Las Populares",
+          "url": "https://open.spotify.com/artist/2DUNKEtgbgyBJA7TdX3bcX"
+        },
+        {
+          "name": "Los Klasicos",
+          "url": "https://open.spotify.com/artist/3zE35VTA8dJXtbx8YTHzBq"
+        },
+        {
+          "name": "Los Basikos",
+          "url": "https://open.spotify.com/artist/2tDH13R8KOOQlWh3qnNOC2"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312866,
+      "name": "A Coro - En Vivo",
+      "url": "https://open.spotify.com/track/4x79biRWWDHilrtzoI1Qsj"
+    },
+    {
+      "album": {
         "name": "A Kind Of Magic (Coke Studio Mix for the FIFA World Cup 2022\u2122)",
         "url": "https://open.spotify.com/album/2KtBif02TzJqevLk0ApO4J"
       },
@@ -2138,10 +2172,36 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 184000,
       "name": "Santer\u00eda",
       "url": "https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv"
+    },
+    {
+      "album": {
+        "name": "Akelarre (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/1P0QSEfymaBrUl1h0uDcx0"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Santer\u00eda",
+      "url": "https://open.spotify.com/track/6h3e3vc3bzGqAtEPV7vh2s"
     },
     {
       "album": {
@@ -2710,7 +2770,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 167741,
       "name": "Vuelve, Vuelve",
       "url": "https://open.spotify.com/track/5EjRxRZTIpJP1nOdowCFbZ"

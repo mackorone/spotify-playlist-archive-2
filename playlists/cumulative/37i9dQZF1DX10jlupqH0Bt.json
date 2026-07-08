@@ -1665,6 +1665,24 @@
     },
     {
       "album": {
+        "name": "Perspectives 852 Hz",
+        "url": "https://open.spotify.com/album/5XQ5QRoQx4zqLVGz9kMOa3"
+      },
+      "artists": [
+        {
+          "name": "Naumanni",
+          "url": "https://open.spotify.com/artist/5rXoIHL4cf1t1FHhiXiHOh"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169283,
+      "name": "Perspectives 852 Hz",
+      "url": "https://open.spotify.com/track/5Aan1aDVJwdxtdKDU0EyxW"
+    },
+    {
+      "album": {
         "name": "Raise Your Energy (852Hz)",
         "url": "https://open.spotify.com/album/5KgOEPEoph8fHdcIBabexB"
       },

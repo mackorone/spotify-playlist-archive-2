@@ -4,7 +4,7 @@
 
 > The latest and the greatest of CHH!  Cover: Parris Chariz
 
-1,395 songs - 2 day 15 hr 48 min
+1,395 songs - 2 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,7 +564,7 @@
 | [High Yield](https://open.spotify.com/track/2FSRTscKp0iW4C63QaP7oQ) | [Caleb McCoy](https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi) | [High Yield](https://open.spotify.com/album/3jwcB9Vtr6FwlmcvDBgjey) | 3:36 | 2025-08-15 | 2025-10-25 |
 | [HIJO](https://open.spotify.com/track/7vhY8JaM4SdwW8vP8Fbyx7) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU) | [HIJO](https://open.spotify.com/album/2eBEgZrb0sQpLegUXv31yJ) | 1:26 | 2026-04-03 | 2026-05-16 |
 | [HIM](https://open.spotify.com/track/2pwYfIGr9Jmk6HpbDDMrpe) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [HIM](https://open.spotify.com/album/31l891a8aThA6u22fiQGnc) | 2:48 | 2024-11-15 | 2025-02-08 |
-| [HIM](https://open.spotify.com/track/2wbUFKHqifx7DN7DH1x9Ah) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [HIM](https://open.spotify.com/album/4zBwwRTkdnqDJpUBc3wQC2) | 2:15 | 2026-07-03 |  |
+| [HIM](https://open.spotify.com/track/2wbUFKHqifx7DN7DH1x9Ah) | [Starringo](https://open.spotify.com/artist/3az3UoKXQwxW9oI2Awbodj) | [HIM](https://open.spotify.com/album/4zBwwRTkdnqDJpUBc3wQC2) | 1:49 | 2026-07-03 |  |
 | [His Glory](https://open.spotify.com/track/3DIbEmYtjO6l17lbpLnJgK) | [Nu Tone](https://open.spotify.com/artist/4FWnJfV0P82pAx3nD0ZarA), [QEW](https://open.spotify.com/artist/4KahwXeadQPDsM9SheZ1nk), [SiahThyLegend](https://open.spotify.com/artist/3dBTzBPwW7nsGRt5RJXTGn) | [His Glory](https://open.spotify.com/album/3HUEVpXxhVHbdub2ydVd9p) | 2:43 | 2024-06-12 | 2024-07-13 |
 | [Hit A Lick](https://open.spotify.com/track/1RI9CUVQANGGVQKWVt40vz) | [Petrina DeLacey](https://open.spotify.com/artist/00iDXs6D2a9UZCtqnDMGnY), [Queen Lee](https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS) | [Hit A Lick](https://open.spotify.com/album/6DpsBweQFaUJGGAgurIaUf) | 2:36 | 2025-09-19 | 2025-11-15 |
 | [Hit'em Up](https://open.spotify.com/track/75Gt84R9tEswNrxlDV4Us0) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [Hit'em Up](https://open.spotify.com/album/3WObwPEtU6mBt1h5rn74Ox) | 4:11 | 2026-03-20 | 2026-04-18 |

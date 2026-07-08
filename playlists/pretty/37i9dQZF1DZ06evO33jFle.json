@@ -1,29 +1,13 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 552894,
+  "num_followers": 552947,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akmegAAAAAAOmSqqdtS2BDnVeQ4X0W4v",
+  "snapshot_id": "akrwAAAAAABrB7NZuyGEa/kPAGPXdqwh",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parrandera, Rebelde y Atrevida",
-        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 186333,
-      "name": "De Contrabando",
-      "url": "https://open.spotify.com/track/3qIyYcE3nwAPOlXP6SSGPg"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 226950,
       "name": "Con \u00c9l",
       "url": "https://open.spotify.com/track/7aCLtSlkFRMiPycFEEhLFA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 186333,
+      "name": "De Contrabando",
+      "url": "https://open.spotify.com/track/3qIyYcE3nwAPOlXP6SSGPg"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 245967,
-      "name": "Chuper Amigos",
-      "url": "https://open.spotify.com/track/6h8oQHda1vXeex187OLud3"
+      "duration_ms": 158915,
+      "name": "Trono Ca\u00eddo",
+      "url": "https://open.spotify.com/track/7EcqOfu60lF12ZSbk34SaZ"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 158915,
-      "name": "Trono Ca\u00eddo",
-      "url": "https://open.spotify.com/track/7EcqOfu60lF12ZSbk34SaZ"
+      "duration_ms": 245967,
+      "name": "Chuper Amigos",
+      "url": "https://open.spotify.com/track/6h8oQHda1vXeex187OLud3"
     },
     {
       "added_at": null,
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parrandera, Rebelde y Atrevida",
-        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
+        "name": "Paloma Negra Desde Monterrey (En Vivo)",
+        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 180800,
-      "name": "Jefa de Jefas",
-      "url": "https://open.spotify.com/track/6Lwdlm1EPGrlZhh9BrL415"
+      "duration_ms": 203619,
+      "name": "Paloma Negra - En Vivo",
+      "url": "https://open.spotify.com/track/2jAQ00aZRXdOx5j4M7Bkgz"
     },
     {
       "added_at": null,
@@ -615,8 +615,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paloma Negra Desde Monterrey (En Vivo)",
-        "url": "https://open.spotify.com/album/1OQyE64iZHLb0gmDSTP0zN"
+        "name": "Parrandera, Rebelde y Atrevida",
+        "url": "https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs"
       },
       "artists": [
         {
@@ -624,9 +624,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 203619,
-      "name": "Paloma Negra - En Vivo",
-      "url": "https://open.spotify.com/track/2jAQ00aZRXdOx5j4M7Bkgz"
+      "duration_ms": 180800,
+      "name": "Jefa de Jefas",
+      "url": "https://open.spotify.com/track/6Lwdlm1EPGrlZhh9BrL415"
     },
     {
       "added_at": null,

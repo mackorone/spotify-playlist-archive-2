@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: YungKapa
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,392 likes - 60 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,400 likes - 60 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 16 | [WHISKEY](https://open.spotify.com/track/7y6Nl7g2lPJ3zP4RaN33DE) | [XRS](https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [WHISKEY](https://open.spotify.com/album/6oZZ68NrmgbxWbQJGJS2zo) | 2:56 |
 | 17 | [CLICK](https://open.spotify.com/track/5diLlqtaVPe2fBPllCFvMi) | [Gucci.MPG](https://open.spotify.com/artist/1lrv8qsR6x7TIIhiP6wzYd), [SKEZ](https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH), [Derv](https://open.spotify.com/artist/3tEJAzaw0N5nNS3m8eixl3) | [CLICK](https://open.spotify.com/album/1ZZgEfnK28RSHeMQUMK0bu) | 2:34 |
 | 18 | [MAVRA MATIA](https://open.spotify.com/track/6vIqTijrFYRTVi3G8i09JU) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [MAVRA MATIA](https://open.spotify.com/album/7cPtPkoAhmIRND2Yu3tPOq) | 2:46 |
-| 19 | [MAZI SOU](https://open.spotify.com/track/1Uk26mbvJAUWNypJdIRThS) | [SARIGIAN](https://open.spotify.com/artist/71Fi48sWYjiSsjvLGRZzCB), [GLS](https://open.spotify.com/artist/25om2GMeTAyCA6qyw40ncG) | [MAZI SOU](https://open.spotify.com/album/6bZOPD3dqM4oRUSbfIM2O0) | 3:06 |
+| 19 | [MAZI SOU](https://open.spotify.com/track/1Uk26mbvJAUWNypJdIRThS) | [GLS](https://open.spotify.com/artist/25om2GMeTAyCA6qyw40ncG), [SARIGIAN](https://open.spotify.com/artist/71Fi48sWYjiSsjvLGRZzCB) | [MAZI SOU](https://open.spotify.com/album/6bZOPD3dqM4oRUSbfIM2O0) | 3:06 |
 | 20 | [NAOMI](https://open.spotify.com/track/6IDZ2GAM7U6G1ldxq0t3mQ) | [SIGMA](https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow) | [NAOMI](https://open.spotify.com/album/6xUAAh7yDSojx8OSKwY7fq) | 2:49 |
 | 21 | [Y2K](https://open.spotify.com/track/06CNoyANKu3IGqaYNKsBOi) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Lil Koni](https://open.spotify.com/artist/4md2OwykkDpAVx2keVXBBV) | [SHOOTING STARS](https://open.spotify.com/album/3YGifcC5rtfcQWz8ZgM1kG) | 2:20 |
 | 22 | [SPASIBA](https://open.spotify.com/track/3d6S35CsRKcNdJ4mUDVN5y) | [Merko](https://open.spotify.com/artist/3NBuryo6MsorZpU4VRpHOJ), [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Sanko](https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx), [Spize](https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm) | [SPASIBA](https://open.spotify.com/album/1kJGemEpGNLnF2tL5Br36t) | 2:48 |

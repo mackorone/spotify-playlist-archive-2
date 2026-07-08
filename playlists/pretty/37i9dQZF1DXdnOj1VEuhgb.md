@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Şehinşah
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,412,161 likes - 49 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,412,122 likes - 49 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 23 | [TÖVBE EST](https://open.spotify.com/track/1zoFwNn0inaoNQ1KgOGyNO) | [Decrat](https://open.spotify.com/artist/5ouX1Qz844h25lu0aXUaw5), [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM) | [TÖVBE EST](https://open.spotify.com/album/3x5YyDtOCXmsf9f4eyGUdx) | 2:35 |
 | 24 | [MANDALINA](https://open.spotify.com/track/4Z0gQavxUSCqj9cx55Owtp) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [MANDALINA](https://open.spotify.com/album/1aHP1cXuU6iaBQxUlVVDGS) | 3:29 |
 | 25 | [Yalancı Deliler Sirki](https://open.spotify.com/track/6SUnNrdVOPj2U4njyrhECm) | [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg), [Ali Ece](https://open.spotify.com/artist/2SzYIeKDEwpMoQzKH5InmK), [Levvera](https://open.spotify.com/artist/0wlUg2BKydLiZ0ilbzTTkY) | [Yalancı Deliler Sirkinde](https://open.spotify.com/album/3MeSFltEDqQhyE29L73Bb0) | 2:47 |
-| 26 | [çok güzel "hondacılar"](https://open.spotify.com/track/4R7yrDbKL1tFKH8FBUyPmH) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [çok güzel "hondacılar"](https://open.spotify.com/album/4ItYxXh3CsTQWruARGGEWd) | 2:04 |
+| 26 | [hondacıLaR](https://open.spotify.com/track/4R7yrDbKL1tFKH8FBUyPmH) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [hondacıLaR](https://open.spotify.com/album/4ItYxXh3CsTQWruARGGEWd) | 2:04 |
 | 27 | [3 PARMAK](https://open.spotify.com/track/0xcGXOEEqflhk0tNs14G1w) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [PASAJ](https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M) | 2:26 |
 | 28 | [GODFATHER](https://open.spotify.com/track/3ZNdVXSkxTOWuOwokuMrlS) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [GODFATHER](https://open.spotify.com/album/0h1NFZruvDZLykRf6IDW9k) | 2:06 |
 | 29 | [ŞEHRİME BOMBALAR](https://open.spotify.com/track/52e9OPUMOE97on91NrpxnK) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [ŞEHRİME BOMBALAR](https://open.spotify.com/album/2M3aPZy8C5cUuZLb7INQzV) | 2:43 |

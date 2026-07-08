@@ -3697,6 +3697,40 @@
     },
     {
       "album": {
+        "name": "Jaya Mangalam (From \"Lenin\")",
+        "url": "https://open.spotify.com/album/214iEM1yTq9JPTZ1FIh0hQ"
+      },
+      "artists": [
+        {
+          "name": "S.P. Charan",
+          "url": "https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja"
+        },
+        {
+          "name": "Kumara Vagdevi",
+          "url": "https://open.spotify.com/artist/2DZUQkCCjquQ830riDtzFu"
+        },
+        {
+          "name": "Vijaya Lakshmi",
+          "url": "https://open.spotify.com/artist/21tEGk5FMTStfyeJEeVSTM"
+        },
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207095,
+      "name": "Jaya Mangalam (From \"Lenin\")",
+      "url": "https://open.spotify.com/track/19pjfPfmHB6H1NyBEVUdOd"
+    },
+    {
+      "album": {
         "name": "Prince (Telugu)",
         "url": "https://open.spotify.com/album/5R14xZQax12U6x54pL6Mrt"
       },
@@ -7916,7 +7950,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 274900,
       "name": "Oosulade (From \"Son Of\")",
       "url": "https://open.spotify.com/track/5jK6GRosmpH5fj1A1xFFds"

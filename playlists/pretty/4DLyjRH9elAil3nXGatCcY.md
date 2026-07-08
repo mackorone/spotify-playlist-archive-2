@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 
 > 
 
-[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,560 likes - 570 songs - 1 day 13 hr 9 min
+[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,564 likes - 571 songs - 1 day 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -578,5 +578,6 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 | 568 | [Tear You Apart](https://open.spotify.com/track/1XYHqSfJK9ud9nuRjQcbXi) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [She Wants Revenge](https://open.spotify.com/album/3S41D3x5NUwlVOuUNwoZ16) | 4:44 |
 | 569 | [A Tear in Space \(Airlock\)](https://open.spotify.com/track/6l6XVeeoTe3ggya4fLY8l8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 3:23 |
 | 570 | [Perpetual](https://open.spotify.com/track/1EmbdGpODC0A8TB18vtJRJ) | [DV\-i](https://open.spotify.com/artist/3EQMLkFqKA6xXhzNYlBrbE) | [Perpetual](https://open.spotify.com/album/1nX2SzQba1EmYExiUIKTRI) | 4:15 |
+| 571 | [XxGlitchBbyxX](https://open.spotify.com/track/0zMaNnshjrPKQ1qLSjd6MM) | [Cynthoni](https://open.spotify.com/artist/79W7uIUU51RwgRFeYeRrP6), [Projekt Melody](https://open.spotify.com/artist/68FnSiPe0TzZLtTFfDKwFo) | [XxGlitchBbyxX](https://open.spotify.com/album/4kcGBGpXgjf9OM5obKP1jk) | 7:57 |
 
-Snapshot ID: `AAABfa3tb8j7xU+xfDfTlN0pd8hKdIiy`
+Snapshot ID: `AAABfqXZpp5yWlZmEdEQITFMAfQWHqxY`

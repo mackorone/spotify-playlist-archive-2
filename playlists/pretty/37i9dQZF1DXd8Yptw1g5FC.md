@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > manifest ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,482 likes - 128 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,524 likes - 128 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

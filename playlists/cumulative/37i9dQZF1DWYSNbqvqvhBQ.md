@@ -4,13 +4,13 @@
 
 > Nieuwe tijdloze muziek\. Cover: Bruno Mars
 
-898 songs - 2 day 4 hr 48 min
+899 songs - 2 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Slut!" \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/71BqAINEnezjQfxE4VuJfq) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 3:00 | 2023-10-27 | 2024-01-26 |
 | [1000 reasons](https://open.spotify.com/track/0dupI7MHvlSXuIHH2YXWHC) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [1000 reasons](https://open.spotify.com/album/7pl00j0x6ZdGcYGUSioCdR) | 2:34 | 2023-02-23 | 2023-04-14 |
-| [16 MARZO \(con Achille Lauro\)](https://open.spotify.com/track/01TUkBH9V8oHCf2BkqOZUG) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [IO CANTO 2](https://open.spotify.com/album/7u8bubJkuvkbsjimRnETdi) | 3:42 | 2026-02-06 |  |
+| [16 MARZO \(con Achille Lauro\)](https://open.spotify.com/track/01TUkBH9V8oHCf2BkqOZUG) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [IO CANTO 2](https://open.spotify.com/album/7u8bubJkuvkbsjimRnETdi) | 3:42 | 2026-02-06 | 2026-07-08 |
 | [17](https://open.spotify.com/track/2jCIZqFN87ZEp8wcLL4g9V) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [17](https://open.spotify.com/album/3boWcgeAND5yZTVMtBT5i7) | 2:42 | 2023-11-02 | 2024-01-26 |
 | [1975](https://open.spotify.com/track/5RLzgNuAfuKx808CN60gCy) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [SUGAR EP.](https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ) | 7:16 | 2023-08-24 | 2024-01-12 |
 | [1989](https://open.spotify.com/track/2LJSRQW2w3u2vbi9S6qJr5) | [dEUS](https://open.spotify.com/artist/3zMir00BoCKhwNTjlT61KN) | [1989](https://open.spotify.com/album/1a8HpWgvArprdjGViNrQEr) | 5:05 | 2023-02-23 | 2023-05-27 |
@@ -715,6 +715,7 @@
 | [Summer Song](https://open.spotify.com/track/3xQXrWF1BKYT3iDpXJ446h) | [Blaudzun](https://open.spotify.com/artist/1A6zWJwn4XmdZZgob3wYPM) | [Summer Song](https://open.spotify.com/album/6RpGbfen2B1Opo0plCqxQK) | 3:52 | 2024-01-04 | 2024-05-14 |
 | [Summertime Blue](https://open.spotify.com/track/4slSMptXdIoALxZEkSXwts) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Summertime Blue](https://open.spotify.com/album/5idegdSAakRkQhgs0fy5dW) | 3:30 | 2025-06-26 | 2025-11-25 |
 | [Sunshine](https://open.spotify.com/track/3YFx0SiFGSkrv5j49EkZaH) | [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Sunshine](https://open.spotify.com/album/04vovOvI3XVMJ9nGXOCQi2) | 2:46 | 2023-07-31 | 2023-11-08 |
+| [Sunshine](https://open.spotify.com/track/2L9k8j6HNpssA40oDPe9H0) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Sunshine](https://open.spotify.com/album/3tCzR7YJDG1x5r7pP9MrwO) | 2:26 | 2026-07-07 |  |
 | [Survive](https://open.spotify.com/track/5vXPLxljVKyHDHuv3kIuKV) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Survive](https://open.spotify.com/album/5d12unL3OeoaDLUAgdVEhA) | 3:45 | 2025-07-01 | 2025-10-18 |
 | [Survivor](https://open.spotify.com/track/6km2lJaj6prmDlrPnYQPzH) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Survivor](https://open.spotify.com/album/1SZfmTvRqaMEK8xS2sLcU1) | 3:10 | 2024-01-29 | 2024-05-25 |
 | [Suzanne](https://open.spotify.com/track/3EL4YcUAmGkfTKXhS49Y3w) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Suzanne](https://open.spotify.com/album/3abFlHRlGCejxVmW9sndHG) | 3:55 | 2025-06-13 | 2025-10-10 |

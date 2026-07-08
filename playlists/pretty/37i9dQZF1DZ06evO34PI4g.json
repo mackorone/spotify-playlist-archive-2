@@ -1,12 +1,12 @@
 {
   "description": "This is System Of A Down. The essential tracks, all in one playlist.",
-  "num_followers": 1085945,
+  "num_followers": 1086336,
   "original_name": "This Is System Of A Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akmegAAAAAB4gZGzvVzdZp7SNrP+S7UM",
+  "snapshot_id": "akrwAAAAAADD32P27DEp0bOlZf3m865i",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loud Rocks",
-        "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9"
       },
       "artists": [
         {
           "name": "System Of A Down",
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        },
-        {
-          "name": "Wu-Tang Clan",
-          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
         }
       ],
-      "duration_ms": 160666,
-      "name": "Shame",
-      "url": "https://open.spotify.com/track/44go3ZmDNtKdfCc15IseAx"
+      "duration_ms": 160266,
+      "name": "War?",
+      "url": "https://open.spotify.com/track/0vCzjgcBEujkrqizp2LYdq"
     },
     {
       "added_at": null,
@@ -495,34 +491,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/7p5mnxLTjbvs4kInkK8za9"
+        "name": "Loud Rocks",
+        "url": "https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu"
       },
       "artists": [
         {
           "name": "System Of A Down",
           "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
-        }
-      ],
-      "duration_ms": 160266,
-      "name": "War?",
-      "url": "https://open.spotify.com/track/0vCzjgcBEujkrqizp2LYdq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "System Of A Down (Deluxe)",
-        "url": "https://open.spotify.com/album/1GIv3kOvMfS5xGh6hNs0kb"
-      },
-      "artists": [
+        },
         {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          "name": "Wu-Tang Clan",
+          "url": "https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk"
         }
       ],
-      "duration_ms": 205800,
-      "name": "Soil",
-      "url": "https://open.spotify.com/track/0IAgc00ZEN4b3unNQcPM39"
+      "duration_ms": 160666,
+      "name": "Shame",
+      "url": "https://open.spotify.com/track/44go3ZmDNtKdfCc15IseAx"
     },
     {
       "added_at": null,
@@ -539,6 +523,22 @@
       "duration_ms": 163800,
       "name": "Suggestions",
       "url": "https://open.spotify.com/track/3zy3HaFYhXueJu25oUHPus"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "System Of A Down (Deluxe)",
+        "url": "https://open.spotify.com/album/1GIv3kOvMfS5xGh6hNs0kb"
+      },
+      "artists": [
+        {
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "Soil",
+      "url": "https://open.spotify.com/track/0IAgc00ZEN4b3unNQcPM39"
     },
     {
       "added_at": null,

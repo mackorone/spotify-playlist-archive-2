@@ -1,12 +1,12 @@
 {
   "description": "This is Lauren Daigle. The essential tracks, all in one playlist.",
-  "num_followers": 369008,
+  "num_followers": 369000,
   "original_name": "This Is Lauren Daigle",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akmegAAAAABwlDxXC+j5KX75nMa8K7pC",
+  "snapshot_id": "akrwAAAAAAAE0lmsmxQ2MNuZi9YhqAyM",
   "tracks": [
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 238026,
-      "name": "I Am Yours",
-      "url": "https://open.spotify.com/track/0nvKz5NrZDCzfW8pRi864S"
+      "duration_ms": 209466,
+      "name": "O' Lord - Radio Version",
+      "url": "https://open.spotify.com/track/5HJE36rtLTdGhDdBmZGtsD"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 209466,
-      "name": "O' Lord - Radio Version",
-      "url": "https://open.spotify.com/track/5HJE36rtLTdGhDdBmZGtsD"
+      "duration_ms": 238026,
+      "name": "I Am Yours",
+      "url": "https://open.spotify.com/track/0nvKz5NrZDCzfW8pRi864S"
     },
     {
       "added_at": null,
@@ -627,22 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hear (Live)",
-        "url": "https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL"
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
       },
       "artists": [
-        {
-          "name": "North Point Worship",
-          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
-        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 364586,
-      "name": "You Alone - Live",
-      "url": "https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX"
+      "duration_ms": 176413,
+      "name": "New",
+      "url": "https://open.spotify.com/track/1Pd2lKVz2idFMh67ACJJ0q"
     },
     {
       "added_at": null,
@@ -663,18 +659,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+        "name": "Hear (Live)",
+        "url": "https://open.spotify.com/album/7gleaF1Itb2Hc5xFOfqdXL"
       },
       "artists": [
+        {
+          "name": "North Point Worship",
+          "url": "https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1"
+        },
         {
           "name": "Lauren Daigle",
           "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 176413,
-      "name": "New",
-      "url": "https://open.spotify.com/track/1Pd2lKVz2idFMh67ACJJ0q"
+      "duration_ms": 364586,
+      "name": "You Alone - Live",
+      "url": "https://open.spotify.com/track/6IXrJrsj1sfISLs8mIJRrX"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
       "duration_ms": 250186,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/3tL3RBw97ctKUpOuEkvBfI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lauren Daigle",
+        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 188555,
+      "name": "Inherited",
+      "url": "https://open.spotify.com/track/0YZ2M06JWJKYFanYCZfXLQ"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
       "duration_ms": 308920,
       "name": "Close - Live",
       "url": "https://open.spotify.com/track/1PaTAWlv998QLFhfc4HuJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lauren Daigle",
-        "url": "https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 188555,
-      "name": "Inherited",
-      "url": "https://open.spotify.com/track/0YZ2M06JWJKYFanYCZfXLQ"
     },
     {
       "added_at": null,

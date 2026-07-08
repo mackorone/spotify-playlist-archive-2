@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,129 likes - 114 songs - 7 hr 3 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,135 likes - 116 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,5 +122,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 112 | [You Think You've Got It](https://open.spotify.com/track/0yMfVMcr9vOBhWj3iU7O8f) | [Nitrate](https://open.spotify.com/artist/6wEVMZieIv9ttCzvuDYev8) | [Renegade](https://open.spotify.com/album/3vYFD37Z4kBwKK9VypycbE) | 4:31 |
 | 113 | [Dirt Floor](https://open.spotify.com/track/4yDBUJz9ILXz9CtojpyzQU) | [Graveyard Choir](https://open.spotify.com/artist/0RtF7RdYO3Jfhmw0JQSmX2) | [Dirt Floor](https://open.spotify.com/album/0dZj8stSDgbnelvEhYq6Fy) | 4:10 |
 | 114 | [Every Time I Look At You](https://open.spotify.com/track/1iOynYeos1FxRg826Amytc) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [Every Time I Look At You](https://open.spotify.com/album/5B6nQwn021EAFMgZpcWfNy) | 4:20 |
+| 115 | [Daydream](https://open.spotify.com/track/6EnM2pjd6pfZyWHW8YSUb6) | [Dimestore Freud](https://open.spotify.com/artist/1B7AZ6JiZQr6bflYaBD2g6) | [It's a Bit Fuzzy](https://open.spotify.com/album/2wpFHMzqhqjCKXtCCenuq4) | 4:05 |
+| 116 | [Dale Hodges Park](https://open.spotify.com/track/3VzzN4kUiTfZvfemrHAADM) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [Dale Hodges Park](https://open.spotify.com/album/0qqQff2wJfCNI9PdxhIdL1) | 3:27 |
 
-Snapshot ID: `AAAGlxJtRHiPe0KLJbK6xE5sJh/bDlXj`
+Snapshot ID: `AAAGmVb44rdAvVRuis453Kxg6NDrTB20`

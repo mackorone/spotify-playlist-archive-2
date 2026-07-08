@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Aconchego",
+        "url": "https://open.spotify.com/album/6tfkI3VqSfdnjzeeMk11Yl"
+      },
+      "artists": [
+        {
+          "name": "Alex Caipirinha",
+          "url": "https://open.spotify.com/artist/1usKVVJQ2IcqqB8RjvpGKv"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164727,
+      "name": "Aconchego",
+      "url": "https://open.spotify.com/track/4d3L6lxeTkwE0EE0GBpr69"
+    },
+    {
+      "album": {
         "name": "Aerobic Float",
         "url": "https://open.spotify.com/album/7BtLc8zsfXIjCrjjDPu2pp"
       },
@@ -787,6 +805,32 @@
     },
     {
       "album": {
+        "name": "Broken Wings",
+        "url": "https://open.spotify.com/album/77skNvCIuGFEdwHWuEY202"
+      },
+      "artists": [
+        {
+          "name": "Luke James Shaffer",
+          "url": "https://open.spotify.com/artist/5rhcXbjwP1pnyqjlNo4AoP"
+        },
+        {
+          "name": "Mar\u00e9va",
+          "url": "https://open.spotify.com/artist/5yflQy84fSowPAeRfTseCV"
+        },
+        {
+          "name": "Garnic",
+          "url": "https://open.spotify.com/artist/3MgJmPTPtbAPvxiFQHxEGi"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141714,
+      "name": "Broken Wings",
+      "url": "https://open.spotify.com/track/10gYEra5QTGdWRNg0HQPRw"
+    },
+    {
+      "album": {
         "name": "Brooklyn Caf\u00e9",
         "url": "https://open.spotify.com/album/2NVjMTfZNEdr0Ov2QW0ox8"
       },
@@ -1180,6 +1224,24 @@
       "duration_ms": 152346,
       "name": "Coastal Drift",
       "url": "https://open.spotify.com/track/1GcvilFI2byRzAxm9y8J9H"
+    },
+    {
+      "album": {
+        "name": "Coastal Haze",
+        "url": "https://open.spotify.com/album/4z5eRGCQq9AVyVkMxd3TwD"
+      },
+      "artists": [
+        {
+          "name": "Dune Studio",
+          "url": "https://open.spotify.com/artist/4YtDkagJkzBzlSRxRa7bau"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Coastal Haze",
+      "url": "https://open.spotify.com/track/0laMCryjF06EY1ZauXwpDe"
     },
     {
       "album": {
@@ -1789,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "Floating Silence",
+        "url": "https://open.spotify.com/album/25eUgJhdH25sTYYPZuuEZy"
+      },
+      "artists": [
+        {
+          "name": "Dune Studio",
+          "url": "https://open.spotify.com/artist/4YtDkagJkzBzlSRxRa7bau"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119411,
+      "name": "Dune Studio",
+      "url": "https://open.spotify.com/track/2K9OZfsHwQwNoFp1az6QTy"
+    },
+    {
+      "album": {
         "name": "Dun\u00e9",
         "url": "https://open.spotify.com/album/2nFDnv4eUojR5Zu6qw82aX"
       },
@@ -1915,6 +1995,24 @@
     },
     {
       "album": {
+        "name": "EZ",
+        "url": "https://open.spotify.com/album/5EFcBGvniMul7kLuF2NmYy"
+      },
+      "artists": [
+        {
+          "name": "Sobbel Sosch",
+          "url": "https://open.spotify.com/artist/32E7sOawaXS4fuVyr15Jok"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157090,
+      "name": "EZ",
+      "url": "https://open.spotify.com/track/4Nws0lEEMgzdapbQsfqRsM"
+    },
+    {
+      "album": {
         "name": "Fading Into Colour",
         "url": "https://open.spotify.com/album/0shRleVsV8OblSQHLmROx4"
       },
@@ -2024,6 +2122,24 @@
       "duration_ms": 185568,
       "name": "Feeling Pumped",
       "url": "https://open.spotify.com/track/51dnECT2u80lmbUuL4tEKg"
+    },
+    {
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/7IsiWi4ZNgf2eltW2HOiOt"
+      },
+      "artists": [
+        {
+          "name": "Marlon Elliot",
+          "url": "https://open.spotify.com/artist/1erKPBV1dZIwNXF3wvqQNs"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139700,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/2FGW1GsQiQ1a9cl9xqYImv"
     },
     {
       "album": {
@@ -2164,7 +2280,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 155357,
       "name": "Floral",
       "url": "https://open.spotify.com/track/0dsNKoxklkMj5l3yYbkB4t"
@@ -2276,6 +2392,24 @@
       "duration_ms": 147500,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4ShNQ8fptxSZJlxPrB9WH9"
+    },
+    {
+      "album": {
+        "name": "Forward Motion (Soft Mix)",
+        "url": "https://open.spotify.com/album/2Jwau3XQ5TKVY5WjaiBu6f"
+      },
+      "artists": [
+        {
+          "name": "Dan Awy",
+          "url": "https://open.spotify.com/artist/6LubM6pIrPHuCLDhPCWe3Z"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166909,
+      "name": "Forward Motion (Soft Mix)",
+      "url": "https://open.spotify.com/track/3j8YB93dOdy0oiyHBV0sXU"
     },
     {
       "album": {
@@ -2701,6 +2835,32 @@
     },
     {
       "album": {
+        "name": "Headlights",
+        "url": "https://open.spotify.com/album/1Qej2i6EDLQ1Bo0iUvsSSI"
+      },
+      "artists": [
+        {
+          "name": "MARSTEREON",
+          "url": "https://open.spotify.com/artist/7jEVO7yGtLTH2UsMcuA8Ap"
+        },
+        {
+          "name": "Nito-Onna",
+          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
+        },
+        {
+          "name": "Deep Mage",
+          "url": "https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161666,
+      "name": "Headlights",
+      "url": "https://open.spotify.com/track/63HuRSLtTHIJJAvbRWnMJe"
+    },
+    {
+      "album": {
         "name": "Heart on the Floor",
         "url": "https://open.spotify.com/album/3NHzFiVKGdLH5qo4EEOqqn"
       },
@@ -2813,6 +2973,24 @@
     },
     {
       "album": {
+        "name": "Hollow Blue",
+        "url": "https://open.spotify.com/album/7tJ2yZcVMGP0dmwlXhqyie"
+      },
+      "artists": [
+        {
+          "name": "Dune Studio",
+          "url": "https://open.spotify.com/artist/4YtDkagJkzBzlSRxRa7bau"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140400,
+      "name": "Hollow Blue",
+      "url": "https://open.spotify.com/track/6g0mtEq0CJX72kXiabWW4Y"
+    },
+    {
+      "album": {
         "name": "Home.Finally",
         "url": "https://open.spotify.com/album/5CwbB05IOwWzIisyPNVT8U"
       },
@@ -2882,6 +3060,24 @@
       "duration_ms": 191975,
       "name": "I Want You Closer",
       "url": "https://open.spotify.com/track/0DUUm963f50SOK4YsovEzu"
+    },
+    {
+      "album": {
+        "name": "I've Got You",
+        "url": "https://open.spotify.com/album/29ZA83JYrUeNDorrHI9KvL"
+      },
+      "artists": [
+        {
+          "name": "Protier",
+          "url": "https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "I've Got You",
+      "url": "https://open.spotify.com/track/54rZGrBTCFB2BW2ca6mXzS"
     },
     {
       "album": {
@@ -3818,6 +4014,24 @@
       "duration_ms": 138620,
       "name": "Missing U",
       "url": "https://open.spotify.com/track/5dNmmqqsVpsskU332r1ha5"
+    },
+    {
+      "album": {
+        "name": "Missing U",
+        "url": "https://open.spotify.com/album/3An3WG0tErPvnL980PFG40"
+      },
+      "artists": [
+        {
+          "name": "Dan's House",
+          "url": "https://open.spotify.com/artist/6As0Py1EtHtzh0LPG6J0uB"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Missing U",
+      "url": "https://open.spotify.com/track/18OfhzoeCSzl1G7W05XQXS"
     },
     {
       "album": {
@@ -4783,6 +4997,24 @@
     },
     {
       "album": {
+        "name": "Quiet Mind",
+        "url": "https://open.spotify.com/album/0ZkDZeK4PTQU4wpl4I7SsV"
+      },
+      "artists": [
+        {
+          "name": "UY Scuti",
+          "url": "https://open.spotify.com/artist/0QwgThmICNJVENaqBpDqPC"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Quiet Mind",
+      "url": "https://open.spotify.com/track/6T0SFKZ4vpDyl6BwIQsJJ7"
+    },
+    {
+      "album": {
         "name": "Rainfall",
         "url": "https://open.spotify.com/album/6f15YgqIUQC6FOeboBwSMJ"
       },
@@ -5184,6 +5416,28 @@
       "duration_ms": 122181,
       "name": "Seoul",
       "url": "https://open.spotify.com/track/5Bpl8wglmbiB7FINLfnQ8n"
+    },
+    {
+      "album": {
+        "name": "Sex on Fire",
+        "url": "https://open.spotify.com/album/2CLWUz7FODn7HhtViCZVeT"
+      },
+      "artists": [
+        {
+          "name": "Brendan Mills",
+          "url": "https://open.spotify.com/artist/3TjFefusAoJFMiB3hrsRDE"
+        },
+        {
+          "name": "Surfin' Sam",
+          "url": "https://open.spotify.com/artist/6tabDylacL9WAJ3QordHie"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134545,
+      "name": "Sex on Fire",
+      "url": "https://open.spotify.com/track/4Dyebc8hF7cuovip9d0sdH"
     },
     {
       "album": {
@@ -6399,6 +6653,24 @@
     },
     {
       "album": {
+        "name": "To Be Mine",
+        "url": "https://open.spotify.com/album/5tonb94DQbklwrRMw8ni4j"
+      },
+      "artists": [
+        {
+          "name": "Loudig",
+          "url": "https://open.spotify.com/artist/1ZLdewotMg9yjbYBYAmjZL"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126545,
+      "name": "To Be Mine",
+      "url": "https://open.spotify.com/track/1qTMYcDgSt3lRcVNAK8WKt"
+    },
+    {
+      "album": {
         "name": "To Go",
         "url": "https://open.spotify.com/album/1Ok0RqARVPDQAQDQgQRGNO"
       },
@@ -6839,6 +7111,24 @@
     },
     {
       "album": {
+        "name": "Wavelength",
+        "url": "https://open.spotify.com/album/2eNGFUEpUf6qdhxohWxwfW"
+      },
+      "artists": [
+        {
+          "name": "LOOKM\u00d8R",
+          "url": "https://open.spotify.com/artist/1Lz1w52i8Ogfeb6FA9VCyg"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "Wavelength",
+      "url": "https://open.spotify.com/track/0wuxhAiDSyAK2N8Mbzogly"
+    },
+    {
+      "album": {
         "name": "way up here",
         "url": "https://open.spotify.com/album/7qJl0iftxl1rIlH44CEaqO"
       },
@@ -6970,6 +7260,24 @@
       "duration_ms": 322803,
       "name": "Woodmaster",
       "url": "https://open.spotify.com/track/790hZ79j8JYhutdtJFOAWU"
+    },
+    {
+      "album": {
+        "name": "Worth The Wait",
+        "url": "https://open.spotify.com/album/11tqBXnegFyFX65njLf5xm"
+      },
+      "artists": [
+        {
+          "name": "Protier",
+          "url": "https://open.spotify.com/artist/0ZmYPydrdLRXjAEM2nCVIp"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135272,
+      "name": "Worth The Wait",
+      "url": "https://open.spotify.com/track/0oyiMkhW9HgQcUj2o5jRUS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 
 
-569 songs - 1 day 13 hr 4 min
+570 songs - 1 day 13 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [world.search \(you\) ;](https://open.spotify.com/track/3e2OvQb3ps7AoYldKCjJhW) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Hue](https://open.spotify.com/album/2zANH45Mch8iV8cSMwQuHv) | 4:52 | 2020-03-11 |  |
 | [Worries](https://open.spotify.com/track/0hZmjNpSBBz14mFxTGPI71) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [Sarah](https://open.spotify.com/album/0mApdYiWQEbDFAdnWUUm79) | 7:48 | 2021-07-16 |  |
 | [Xeno Arcadia](https://open.spotify.com/track/0QmuF2wTMDYOm8gWuc13HA) | [Mason Lindroth](https://open.spotify.com/artist/351QVu3AeeqlLWDqy2CBIH), [Chuck Salamone](https://open.spotify.com/artist/1FMH8oRVo9NPn2rDzhRW2Z) | [Hylics 2 Original Soundtrack](https://open.spotify.com/album/5P8ELqnm5ok0gH3rjHh3Yf) | 4:48 | 2025-10-15 |  |
+| [XxGlitchBbyxX](https://open.spotify.com/track/0zMaNnshjrPKQ1qLSjd6MM) | [Cynthoni](https://open.spotify.com/artist/79W7uIUU51RwgRFeYeRrP6), [Projekt Melody](https://open.spotify.com/artist/68FnSiPe0TzZLtTFfDKwFo) | [XxGlitchBbyxX](https://open.spotify.com/album/4kcGBGpXgjf9OM5obKP1jk) | 7:57 | 2026-07-08 |  |
 | [Y4ND3RE](https://open.spotify.com/track/7gwAWRiIInrrN3Aic815SJ) | [Projekt Melody](https://open.spotify.com/artist/68FnSiPe0TzZLtTFfDKwFo), [Batsu](https://open.spotify.com/artist/6sWWi2GyJUOau0mbWva9E4) | [Y4ND3RE](https://open.spotify.com/album/6E6LxURbEszPl7hQ7p1Q77) | 4:06 | 2022-05-09 |  |
 | [YEBISU \- Yung Bae Edit](https://open.spotify.com/track/04Uz6OywoKTsVETCQ9vAP9) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Bae](https://open.spotify.com/album/0jZiFgVAR8e8PMy5gMCOOl) | 2:08 | 2020-03-11 |  |
 | [Yellow Line](https://open.spotify.com/track/2NgcYJd7SboLZ2ofUnldSe) | [JAMES SHIMOJI](https://open.spotify.com/artist/5wt3nbKxQrelBe0hVjWgZT) | [REDLINE Original Soundtrack](https://open.spotify.com/album/49r7XfypQ9FPLhGKhQ9eEl) | 6:59 | 2022-05-09 |  |

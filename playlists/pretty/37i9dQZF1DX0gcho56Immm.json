@@ -1,12 +1,12 @@
 {
   "description": "explore the alt-sounds of Copenhagen and beyond \ud83c\udf00 Cover: miaw",
-  "num_followers": 72555,
+  "num_followers": 72618,
   "original_name": "Cph+",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAbiYQ29DGADMFRV6n0WUd1DhPEO",
+  "snapshot_id": "AAAAACDakcMk/tq8tAN5uZr0aZ0GUT9y",
   "tracks": [
     {
       "added_at": "2026-07-03 04:00:41",
@@ -127,6 +127,26 @@
       "duration_ms": 165507,
       "name": "Something For My Head - Tiffi M REWORK",
       "url": "https://open.spotify.com/track/4VcAlqZULz0HJruvvhrv9D"
+    },
+    {
+      "added_at": "2026-07-07 20:31:57",
+      "album": {
+        "name": "Time Will Help",
+        "url": "https://open.spotify.com/album/1UDR8zmbOrEuRg83q1wbRU"
+      },
+      "artists": [
+        {
+          "name": "Tigeroak",
+          "url": "https://open.spotify.com/artist/5438LSbtMXzEmfe0qZRff0"
+        },
+        {
+          "name": "Teis Ortved",
+          "url": "https://open.spotify.com/artist/5GgzMnW2NLZDoCtR2K3S5X"
+        }
+      ],
+      "duration_ms": 239648,
+      "name": "Time Will Help",
+      "url": "https://open.spotify.com/track/1C0LH8rIuyoPQVzBJNhxwm"
     },
     {
       "added_at": "2026-07-03 04:00:41",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-09-13",
-  "description": "50 Hits in einer Playlist! Cover: Shakira, Burna Boy",
+  "description": "50 Hits in einer Playlist! Cover: Bebe Rexha",
   "name": "Hot Hits Deutschland",
   "tracks": [
     {
@@ -1506,7 +1506,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 135000,
       "name": "CRASHOUT FREESTYLE",
       "url": "https://open.spotify.com/track/4wbXc63MjufLUCXLnIW8B5"
@@ -2560,6 +2560,28 @@
       "duration_ms": 191509,
       "name": "Gesegnet",
       "url": "https://open.spotify.com/track/0fvFSGvEAPDDMfweKvDJVa"
+    },
+    {
+      "album": {
+        "name": "Ghetto Superstars",
+        "url": "https://open.spotify.com/album/3iAU42MwjGxRtUf5HtaWUH"
+      },
+      "artists": [
+        {
+          "name": "Capital Bra",
+          "url": "https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d"
+        },
+        {
+          "name": "Samra",
+          "url": "https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185377,
+      "name": "Ghetto Superstars",
+      "url": "https://open.spotify.com/track/6UmX6507xaem9KkRmaMs5S"
     },
     {
       "album": {
@@ -5969,6 +5991,28 @@
     },
     {
       "album": {
+        "name": "Destin\u00e9e Supremacy",
+        "url": "https://open.spotify.com/album/2f9TdSgcGOxbjziCQKwf2t"
+      },
+      "artists": [
+        {
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156254,
+      "name": "Sexy Nana",
+      "url": "https://open.spotify.com/track/6MSgVHt9pS3z20DNtBonCc"
+    },
+    {
+      "album": {
         "name": "gr\u00fcnew\u00fcrfelflow",
         "url": "https://open.spotify.com/album/4abdDHSZaiXkvPBlFD5cnv"
       },
@@ -6832,7 +6876,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 121394,
       "name": "THUG LIFE",
       "url": "https://open.spotify.com/track/6M3CMKJnzTrlezfUrIsGDe"

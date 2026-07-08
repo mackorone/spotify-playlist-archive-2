@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 889171,
+  "num_followers": 889230,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akmegAAAAACN4St6GjeTVVeDLsJHLNip",
+  "snapshot_id": "akrwAAAAAADV/MK5VuNpqwZ+PIdchJTG",
   "tracks": [
     {
       "added_at": null,
@@ -867,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dando Vueltas",
-        "url": "https://open.spotify.com/album/3U31M9OPy3eT9v4cxaePof"
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 192065,
-      "name": "Dando Vueltas",
-      "url": "https://open.spotify.com/track/60vtpwMWSvG50mv5419s4R"
+      "duration_ms": 246746,
+      "name": "QU\u00c9 RICO CH**GAMOS",
+      "url": "https://open.spotify.com/track/41onqkcjQIVFmz0S0b3aHV"
     },
     {
       "added_at": null,
@@ -903,18 +903,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+        "name": "Que Somos",
+        "url": "https://open.spotify.com/album/7uuWmAExHtNRHYi2ODfDcQ"
       },
       "artists": [
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Mathew",
+          "url": "https://open.spotify.com/artist/3d2n85YLj0M861ScqWEhmC"
         }
       ],
-      "duration_ms": 246746,
-      "name": "QU\u00c9 RICO CH**GAMOS",
-      "url": "https://open.spotify.com/track/41onqkcjQIVFmz0S0b3aHV"
+      "duration_ms": 227500,
+      "name": "Que Somos",
+      "url": "https://open.spotify.com/track/5FXARQTlf6UwUVuIS60Vn2"
     },
     {
       "added_at": null,
@@ -943,26 +951,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Somos",
-        "url": "https://open.spotify.com/album/7uuWmAExHtNRHYi2ODfDcQ"
+        "name": "Dando Vueltas",
+        "url": "https://open.spotify.com/album/3U31M9OPy3eT9v4cxaePof"
       },
       "artists": [
         {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Mathew",
-          "url": "https://open.spotify.com/artist/3d2n85YLj0M861ScqWEhmC"
         }
       ],
-      "duration_ms": 227500,
-      "name": "Que Somos",
-      "url": "https://open.spotify.com/track/5FXARQTlf6UwUVuIS60Vn2"
+      "duration_ms": 192065,
+      "name": "Dando Vueltas",
+      "url": "https://open.spotify.com/track/60vtpwMWSvG50mv5419s4R"
     },
     {
       "added_at": null,

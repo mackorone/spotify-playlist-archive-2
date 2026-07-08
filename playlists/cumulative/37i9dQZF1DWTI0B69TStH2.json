@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:1HHUq0vNblVmHLNfWf3Ral\">Rembikowski</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:0zfMLxMTUG0TdQ6t90yHfA\">Janek Szynal</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -13748,6 +13748,24 @@
       "duration_ms": 163636,
       "name": "DO SZUFLADY",
       "url": "https://open.spotify.com/track/1Tpu6LNZ9tor7grIDsLFhN"
+    },
+    {
+      "album": {
+        "name": "DO WIDZENIA",
+        "url": "https://open.spotify.com/album/5n3ywlg5eDvodZv8VHzo4N"
+      },
+      "artists": [
+        {
+          "name": "D\u017bAMANI",
+          "url": "https://open.spotify.com/artist/7CjnyAsNjXgt2EsjrdCRLC"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164651,
+      "name": "DO WIDZENIA",
+      "url": "https://open.spotify.com/track/0Fi69mlLJJoHVrCHxr2VVi"
     },
     {
       "album": {
@@ -39351,6 +39369,28 @@
     },
     {
       "album": {
+        "name": "Nic nie zmienia\u0107",
+        "url": "https://open.spotify.com/album/5DBMMi1l7VgyCdKd7HXCPI"
+      },
+      "artists": [
+        {
+          "name": "Szymon Norkowski",
+          "url": "https://open.spotify.com/artist/3QNaRulfMHtPrj5QDAGGoS"
+        },
+        {
+          "name": "Seweryn",
+          "url": "https://open.spotify.com/artist/3GpmeiPTFU97GPeokRl0RZ"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157122,
+      "name": "Nic nie zmienia\u0107",
+      "url": "https://open.spotify.com/track/4EiuaygJyyyZ7QI5ucI2qN"
+    },
+    {
+      "album": {
         "name": "NIC PI\u0118KNEGO (toxic)",
         "url": "https://open.spotify.com/album/1EC8Mo4Uaa7qobs5oWA7rF"
       },
@@ -39598,7 +39638,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 164255,
       "name": "nie chce by\u0107 tym z\u0142ym",
       "url": "https://open.spotify.com/track/5g3T3fhd9ZBRfKXFApUfTn"
@@ -45584,7 +45624,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 215700,
       "name": "oddech",
       "url": "https://open.spotify.com/track/5THWrKMHF59yO3aW3dyQQ3"
@@ -50136,7 +50176,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 234352,
       "name": "Pi\u0105tki",
       "url": "https://open.spotify.com/track/7hN6LIVSU8WlbZ383vtLPA"
@@ -52552,7 +52592,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 218077,
       "name": "Pozna\u0144",
       "url": "https://open.spotify.com/track/6KWqlk1o3iwMZD5ipny7CL"
@@ -60609,6 +60649,24 @@
     },
     {
       "album": {
+        "name": "SPOK\u00d3J",
+        "url": "https://open.spotify.com/album/3jRpk7Mhai8Zsv8TOtNAvi"
+      },
+      "artists": [
+        {
+          "name": "Janek Szynal",
+          "url": "https://open.spotify.com/artist/0zfMLxMTUG0TdQ6t90yHfA"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163687,
+      "name": "SPOK\u00d3J",
+      "url": "https://open.spotify.com/track/2G072HrgSDTCDkf66aXPZl"
+    },
+    {
+      "album": {
         "name": "Spok\u00f3j",
         "url": "https://open.spotify.com/album/7bHOiQWzxW8ODacLyxbWZ0"
       },
@@ -64170,6 +64228,24 @@
       "duration_ms": 256226,
       "name": "Tak wiele",
       "url": "https://open.spotify.com/track/1fQ9jkRpikRy9usbZHywui"
+    },
+    {
+      "album": {
+        "name": "Tak \u0142atwo",
+        "url": "https://open.spotify.com/album/6ieh6niewpDnmiezZ39mWb"
+      },
+      "artists": [
+        {
+          "name": "filit",
+          "url": "https://open.spotify.com/artist/1lnfnJFVIaKY0wWil9MEG4"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169776,
+      "name": "Tak \u0142atwo",
+      "url": "https://open.spotify.com/track/0filkwRcm6yHpUpEcbmNX0"
     },
     {
       "album": {
@@ -74270,7 +74346,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 145321,
       "name": "Would I",
       "url": "https://open.spotify.com/track/2ROdaSPd4oLIYRZEOe5JFU"
@@ -76717,6 +76793,24 @@
     },
     {
       "album": {
+        "name": "Za du\u017co",
+        "url": "https://open.spotify.com/album/5RZmUhnwuYheTEGsL2Q4vU"
+      },
+      "artists": [
+        {
+          "name": "Arthur Samuel",
+          "url": "https://open.spotify.com/artist/64WaRVdoiHIvj6kZWhv1bl"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140851,
+      "name": "Za du\u017co",
+      "url": "https://open.spotify.com/track/5xUrgu3iLsKCO4YTvQGuOc"
+    },
+    {
+      "album": {
         "name": "Za du\u017co %",
         "url": "https://open.spotify.com/album/639dQ5F7He5wBh3B8P2Oyt"
       },
@@ -79085,6 +79179,24 @@
     },
     {
       "album": {
+        "name": "Znam",
+        "url": "https://open.spotify.com/album/5ioTAQdupHtpJhgnSags9C"
+      },
+      "artists": [
+        {
+          "name": "zachwyt",
+          "url": "https://open.spotify.com/artist/57F4M4L3esGKsmMwT4zt01"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "Znam",
+      "url": "https://open.spotify.com/track/5Rb4jke3bIIjTWDSvvk0dI"
+    },
+    {
+      "album": {
         "name": "Znikam",
         "url": "https://open.spotify.com/album/7c0KMLEkM7CDkBBb4k2UVp"
       },
@@ -79250,7 +79362,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 180085,
       "name": "Znowu pami\u0119tam",
       "url": "https://open.spotify.com/track/1YZLJCY8xWzv7dM2CuEv2M"

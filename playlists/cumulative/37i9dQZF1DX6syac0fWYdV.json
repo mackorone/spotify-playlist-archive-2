@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "aurora dusk",
+        "url": "https://open.spotify.com/album/3lvFZ29jwV9DeiUTkcbyvP"
+      },
+      "artists": [
+        {
+          "name": "congalot",
+          "url": "https://open.spotify.com/artist/3tCOWTl0uBfznyUjeU9uMW"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "aurora dusk",
+      "url": "https://open.spotify.com/track/3c7H4vDUe6y2b21YHJ0Hh3"
+    },
+    {
+      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/08KSVN4jLkX0U8LgKmF8CZ"
       },
@@ -542,7 +560,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 241131,
       "name": "Best Sauce",
       "url": "https://open.spotify.com/track/6ctCdHvE8Rdmsn2aA6LlDh"
@@ -636,6 +654,24 @@
       "duration_ms": 129391,
       "name": "Bowmore Fonk",
       "url": "https://open.spotify.com/track/0NS5yKkzoG5NHg5anZhaYA"
+    },
+    {
+      "album": {
+        "name": "Buenos Aires",
+        "url": "https://open.spotify.com/album/2bu2z17oFSZoiaHoYSprtk"
+      },
+      "artists": [
+        {
+          "name": "Rio Romario",
+          "url": "https://open.spotify.com/artist/1Q3PA55SNqwafc6UiBgx3p"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Buenos Aires",
+      "url": "https://open.spotify.com/track/3p2uZnsHjaH2Sm6lOwRz07"
     },
     {
       "album": {
@@ -891,6 +927,24 @@
     },
     {
       "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/0fjJK4GaNlnan02pHlFbZ0"
+      },
+      "artists": [
+        {
+          "name": "Lush Sand",
+          "url": "https://open.spotify.com/artist/4fHOwlGHuj9Y62WNInQd54"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131750,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/7AeZnXjQZsIebsz0nJN8w4"
+    },
+    {
+      "album": {
         "name": "cirtuiterie",
         "url": "https://open.spotify.com/album/37b3HiCSU1CJzfYYrNOeAs"
       },
@@ -1050,6 +1104,24 @@
       "duration_ms": 150857,
       "name": "Coral Leaf",
       "url": "https://open.spotify.com/track/5k2mPZEgCYbvmJSwPZoXTA"
+    },
+    {
+      "album": {
+        "name": "Cot\u00e9",
+        "url": "https://open.spotify.com/album/7FpMDESYkiUPjvXy5nchGL"
+      },
+      "artists": [
+        {
+          "name": "Chill Motion",
+          "url": "https://open.spotify.com/artist/7uxTNkHkgq1ZLC9tNCxgde"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "Cot\u00e9",
+      "url": "https://open.spotify.com/track/7HnvgG29Jgljue5ElwxUvA"
     },
     {
       "album": {
@@ -1298,7 +1370,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 148363,
       "name": "DO SIT DOWN",
       "url": "https://open.spotify.com/track/21EadQJxKi1U2G3tvLpRkt"
@@ -1449,6 +1521,24 @@
     },
     {
       "album": {
+        "name": "Drift Club",
+        "url": "https://open.spotify.com/album/7on4PsPjcAHsdG4mjICYGy"
+      },
+      "artists": [
+        {
+          "name": "Flughof",
+          "url": "https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143045,
+      "name": "Drift Club",
+      "url": "https://open.spotify.com/track/0D4nAzjysPXHkTrtG0P84Q"
+    },
+    {
+      "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/6v7HNQNctCQhvjvQ8CoYiF"
       },
@@ -1500,6 +1590,24 @@
       "duration_ms": 159272,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/4VUa1fX5DUloHZVQxZ9hsQ"
+    },
+    {
+      "album": {
+        "name": "Early Morning",
+        "url": "https://open.spotify.com/album/6aQjuyPqOmILiINaV7pTcS"
+      },
+      "artists": [
+        {
+          "name": "Rivon",
+          "url": "https://open.spotify.com/artist/5mTbt45fb5EOK48Ah0KZ78"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128127,
+      "name": "Early Morning",
+      "url": "https://open.spotify.com/track/1D1MKxg1YzbL4raPP8lHvu"
     },
     {
       "album": {
@@ -1935,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Function At The Mansion",
+        "url": "https://open.spotify.com/album/4NoRTNRigw5YvDiC8eW9qL"
+      },
+      "artists": [
+        {
+          "name": "Carlton Ranks",
+          "url": "https://open.spotify.com/artist/4VngY0qfXhW72MMv33xrfM"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186168,
+      "name": "Function At The Mansion",
+      "url": "https://open.spotify.com/track/3pDsaYuf6Jcs9HOfRekmxd"
+    },
+    {
+      "album": {
         "name": "get on board",
         "url": "https://open.spotify.com/album/6n8vYL9A9fXJ8VdjQjfUVQ"
       },
@@ -2126,7 +2252,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 118956,
       "name": "Gone",
       "url": "https://open.spotify.com/track/1kw2nAgVLehnKHEerWbmrp"
@@ -2202,6 +2328,24 @@
       "duration_ms": 229580,
       "name": "Grand",
       "url": "https://open.spotify.com/track/3IrUqWloiD4OZcCM06qUWJ"
+    },
+    {
+      "album": {
+        "name": "Grasshopper",
+        "url": "https://open.spotify.com/album/4HUJjGOahs4k3rDQ5X6LrZ"
+      },
+      "artists": [
+        {
+          "name": "Carlo Azure",
+          "url": "https://open.spotify.com/artist/1UosFEbzfi6fLIdQSYiL1Z"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164247,
+      "name": "Grasshopper",
+      "url": "https://open.spotify.com/track/7kNWQhpygL7bSaxgBGV6cz"
     },
     {
       "album": {
@@ -2378,7 +2522,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 145573,
       "name": "Heart on the Floor",
       "url": "https://open.spotify.com/track/37jLsdiIWhlhAu4myjaZgj"
@@ -2418,6 +2562,24 @@
       "duration_ms": 128830,
       "name": "Honey",
       "url": "https://open.spotify.com/track/65YmZIWtxxtmpJtAkDKtMl"
+    },
+    {
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/5E54XPx1IC9E4b4XRCbNYL"
+      },
+      "artists": [
+        {
+          "name": "Sun Fighters",
+          "url": "https://open.spotify.com/artist/3MI5lIsreyUVcmNEFMd32S"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7CnCYDXq2A1nsSEJvCrTvb"
     },
     {
       "album": {
@@ -2562,6 +2724,24 @@
       "duration_ms": 162441,
       "name": "Infinite Groove",
       "url": "https://open.spotify.com/track/4NEDsWuhVTedyjuw2S8YMh"
+    },
+    {
+      "album": {
+        "name": "Island Size",
+        "url": "https://open.spotify.com/album/6Dq8vXb1QbE6rVDvZ2EWqt"
+      },
+      "artists": [
+        {
+          "name": "Hazel Calm",
+          "url": "https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142909,
+      "name": "Island Size",
+      "url": "https://open.spotify.com/track/6DqnQjIQ4YiiYKflnTSxQx"
     },
     {
       "album": {
@@ -2925,6 +3105,24 @@
     },
     {
       "album": {
+        "name": "Light Lives Inside",
+        "url": "https://open.spotify.com/album/4QbH5o3vFU20iHmTOzVKqc"
+      },
+      "artists": [
+        {
+          "name": "Constantine",
+          "url": "https://open.spotify.com/artist/4NgDKxvldQPRHbJ3DOz1hv"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Light Lives Inside",
+      "url": "https://open.spotify.com/track/3bNkzy7fHbFFL1co7Xgzya"
+    },
+    {
+      "album": {
         "name": "Long Time",
         "url": "https://open.spotify.com/album/0KFHmq075kujqMCv3SEUpB"
       },
@@ -3030,6 +3228,24 @@
       "duration_ms": 133328,
       "name": "Lovely Brooklyn",
       "url": "https://open.spotify.com/track/1iYSUXinyCNb6E2pRzTK9W"
+    },
+    {
+      "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/212DIANsjr72ca0cctb8kR"
+      },
+      "artists": [
+        {
+          "name": "Bliques",
+          "url": "https://open.spotify.com/artist/5HGkz2qKMEMXyL34ngcrGq"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139801,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/54z9WnBPJSfWtgFNNHsTB4"
     },
     {
       "album": {
@@ -3717,6 +3933,24 @@
     },
     {
       "album": {
+        "name": "One Life",
+        "url": "https://open.spotify.com/album/3DPh3VSiiZrLYvCZAUop9s"
+      },
+      "artists": [
+        {
+          "name": "Hello Carmelo",
+          "url": "https://open.spotify.com/artist/05cbHwa8AL8Lq5Ezkb0RxC"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/364QNwz6hFaDDfII94Rnh6"
+    },
+    {
+      "album": {
         "name": "Only Now",
         "url": "https://open.spotify.com/album/6mFKG7BzuacADDVZFcGAQa"
       },
@@ -3750,6 +3984,24 @@
       "duration_ms": 185379,
       "name": "Only U",
       "url": "https://open.spotify.com/track/1QsHWsHzWiqMFKwNojRZx9"
+    },
+    {
+      "album": {
+        "name": "Out Of Context",
+        "url": "https://open.spotify.com/album/30hKnsda5FBkPc1FPT1NAU"
+      },
+      "artists": [
+        {
+          "name": "Twin Iguana",
+          "url": "https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148738,
+      "name": "Out Of Context",
+      "url": "https://open.spotify.com/track/6H6QI1nhivfzsF9kYFXzn6"
     },
     {
       "album": {
@@ -3822,6 +4074,24 @@
       "duration_ms": 137383,
       "name": "Palmline",
       "url": "https://open.spotify.com/track/2TcjzT6H6f3GLV1RSHCW1Y"
+    },
+    {
+      "album": {
+        "name": "Palmside",
+        "url": "https://open.spotify.com/album/4Doa9LajUYvo4qz4V5NOfp"
+      },
+      "artists": [
+        {
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169824,
+      "name": "Palmside",
+      "url": "https://open.spotify.com/track/7jf6DIfHIMfhOCEfBbnbSv"
     },
     {
       "album": {
@@ -4185,6 +4455,24 @@
     },
     {
       "album": {
+        "name": "Quiet Riviera",
+        "url": "https://open.spotify.com/album/2GYtb8wwBu20mfOpxH0N8I"
+      },
+      "artists": [
+        {
+          "name": "Main Foyer",
+          "url": "https://open.spotify.com/artist/1Br3cFgH1HTexxFF5OCulE"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151163,
+      "name": "Quiet Riviera",
+      "url": "https://open.spotify.com/track/4iISke3faTbmQAK3Bfzr53"
+    },
+    {
+      "album": {
         "name": "quiet streets",
         "url": "https://open.spotify.com/album/3nq76VaCuP6jgv3CmXVOSE"
       },
@@ -4232,7 +4520,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 160083,
       "name": "raw talent",
       "url": "https://open.spotify.com/track/1fiLX6QvjBSo0l0QbIvn24"
@@ -4491,6 +4779,24 @@
     },
     {
       "album": {
+        "name": "Shaken, Not Sorry",
+        "url": "https://open.spotify.com/album/4yuXYMKXWcRl4DqQP5b5uK"
+      },
+      "artists": [
+        {
+          "name": "Mode Donna",
+          "url": "https://open.spotify.com/artist/4EVClNgwLk38PorSOhui9R"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Shaken, Not Sorry",
+      "url": "https://open.spotify.com/track/5Fa8pNAHZHDR0dbiRAUqoE"
+    },
+    {
+      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/6J1iHjkRE5NsMm5odoKGk6"
       },
@@ -4520,7 +4826,7 @@
       ],
       "date_added": "2025-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-08",
       "duration_ms": 125607,
       "name": "Shirin",
       "url": "https://open.spotify.com/track/4EAzzp8gzDFCq1j6smh53d"
@@ -5399,6 +5705,24 @@
     },
     {
       "album": {
+        "name": "The Quiet Dahlia",
+        "url": "https://open.spotify.com/album/3EqYRwpUxJ70v1RLncVqp9"
+      },
+      "artists": [
+        {
+          "name": "Maison Lune",
+          "url": "https://open.spotify.com/artist/6QxpDDnrrYLloULqIeJAOw"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149126,
+      "name": "The Quiet Dahlia",
+      "url": "https://open.spotify.com/track/6b3lDy4fLZ3M5aCTpjRLXp"
+    },
+    {
+      "album": {
         "name": "Da Nang Nights",
         "url": "https://open.spotify.com/album/3OzqPdHXIxVk99NliQ5guC"
       },
@@ -5522,6 +5846,24 @@
       "duration_ms": 147000,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/41ahVzv5mbmR3dGuHQNZ4S"
+    },
+    {
+      "album": {
+        "name": "Too Excited",
+        "url": "https://open.spotify.com/album/4WMANbiXmGSx2gCvKnHRNj"
+      },
+      "artists": [
+        {
+          "name": "longwayfromhome",
+          "url": "https://open.spotify.com/artist/1dfULz0Piwd2pjpwve3Xyh"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134250,
+      "name": "Too Excited",
+      "url": "https://open.spotify.com/track/5E1XNoXjas9PKnruOniNpD"
     },
     {
       "album": {
@@ -5813,6 +6155,24 @@
     },
     {
       "album": {
+        "name": "Vertigo Flame",
+        "url": "https://open.spotify.com/album/7dVmOWRiYyOoJ36VVylExJ"
+      },
+      "artists": [
+        {
+          "name": "Aurora 10",
+          "url": "https://open.spotify.com/artist/7ztuxOIQFdrMJ8pCpopMeK"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Vertigo Flame",
+      "url": "https://open.spotify.com/track/5shIypulUI3pvPEHOImGfA"
+    },
+    {
+      "album": {
         "name": "Vetyver",
         "url": "https://open.spotify.com/album/03BtbG5v19lQV2J9v7PtM0"
       },
@@ -5972,6 +6332,24 @@
       "duration_ms": 212389,
       "name": "wicked play",
       "url": "https://open.spotify.com/track/3a4C9jXFrXGcJnqBvIIK2U"
+    },
+    {
+      "album": {
+        "name": "Ya Think?",
+        "url": "https://open.spotify.com/album/0Trmoz03lOl2cBZNG6hA3R"
+      },
+      "artists": [
+        {
+          "name": "Tigran Boiler",
+          "url": "https://open.spotify.com/artist/5LhWWwxDFZzMYZPvt0axJM"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Ya Think?",
+      "url": "https://open.spotify.com/track/0ipU7Cqg8U9ib8O6KRJxci"
     },
     {
       "album": {

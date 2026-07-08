@@ -1,6 +1,6 @@
 {
   "description": "The latest in hip-hop, updated weekly. Cover: J Hus",
-  "num_followers": 21838,
+  "num_followers": 21850,
   "original_name": "New Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -158,6 +158,10 @@
         {
           "name": "Larry June",
           "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        },
+        {
+          "name": "DJ.Fresh",
+          "url": "https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ"
         }
       ],
       "duration_ms": 155990,

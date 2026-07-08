@@ -1,12 +1,12 @@
 {
   "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 73968,
+  "num_followers": 73979,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "akmegAAAAABSUGgZvDCAgB2AUHgBItAV",
+  "snapshot_id": "akrwAAAAAADPN2+WcsFo02n4/jz7+tFm",
   "tracks": [
     {
       "added_at": null,
@@ -195,26 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Fiesta Contin\u00faa",
-        "url": "https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 180813,
-      "name": "El Yerbero Moderno (feat. Lila Downs)",
-      "url": "https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bi",
         "url": "https://open.spotify.com/album/5Rnk0JczvdBVg123Mpd483"
       },
@@ -231,6 +211,26 @@
       "duration_ms": 202905,
       "name": "Baja a la Tierra (feat. Lila Downs)",
       "url": "https://open.spotify.com/track/44OP8tosI4ufd6XuUQvx0a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Fiesta Contin\u00faa",
+        "url": "https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 180813,
+      "name": "El Yerbero Moderno (feat. Lila Downs)",
+      "url": "https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS"
     },
     {
       "added_at": null,
@@ -275,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Un Mal Amor",
-        "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
+        "name": "One Blood (Una Sangre)",
+        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
       },
       "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 193998,
-      "name": "Por Un Mal Amor",
-      "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
+      "duration_ms": 271386,
+      "name": "Paloma Negra",
+      "url": "https://open.spotify.com/track/2iBs4Z7DsNAXsaY8XRobjT"
     },
     {
       "added_at": null,
@@ -319,18 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Blood (Una Sangre)",
-        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
+        "name": "Por Un Mal Amor",
+        "url": "https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU"
       },
       "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 271386,
-      "name": "Paloma Negra",
-      "url": "https://open.spotify.com/track/2iBs4Z7DsNAXsaY8XRobjT"
+      "duration_ms": 193998,
+      "name": "Por Un Mal Amor",
+      "url": "https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cambias Mi Mundo",
-        "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        }
-      ],
-      "duration_ms": 248628,
-      "name": "Amo-Te",
-      "url": "https://open.spotify.com/track/0AabcViZoMbsqugFY9Fo34"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mexicana (feat. Lila Downs)",
         "url": "https://open.spotify.com/album/6GXrUyjqYJr6b8W4IOwHLU"
       },
@@ -603,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cambias Mi Mundo",
+        "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        }
+      ],
+      "duration_ms": 248628,
+      "name": "Amo-Te",
+      "url": "https://open.spotify.com/track/0AabcViZoMbsqugFY9Fo34"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Balas y Chocolate",
         "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 275506,
       "name": "Cuando Me Tocas T\u00fa",
       "url": "https://open.spotify.com/track/2Eo4cDhAobAurZbOREvj7p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cambias Mi Mundo",
-        "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 283484,
-      "name": "La Pochota",
-      "url": "https://open.spotify.com/track/6qIESe8iP3TuFCeVSBADjQ"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cambias Mi Mundo",
+        "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 283484,
+      "name": "La Pochota",
+      "url": "https://open.spotify.com/track/6qIESe8iP3TuFCeVSBADjQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Balas y Chocolate",
         "url": "https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq"
       },
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cambias Mi Mundo",
-        "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
+        "name": "Border",
+        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
       },
       "artists": [
         {
@@ -696,29 +696,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 256655,
-      "name": "La Pesca",
-      "url": "https://open.spotify.com/track/3SggDme3YbOnNDesbeZRMH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Jard\u00edn del Placer",
-        "url": "https://open.spotify.com/album/38bHUIOu8FB5eDLyxFqdsb"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        },
-        {
-          "name": "Alex Cuba",
-          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
-        }
-      ],
-      "duration_ms": 226013,
-      "name": "El Jard\u00edn del Placer",
-      "url": "https://open.spotify.com/track/675zc522RkFW7lXIJ59mbd"
+      "duration_ms": 285466,
+      "name": "Perhaps, Perhaps, Perhaps",
+      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
     },
     {
       "added_at": null,
@@ -739,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Border",
-        "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 285466,
-      "name": "Perhaps, Perhaps, Perhaps",
-      "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cambias Mi Mundo",
         "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
       },
@@ -764,9 +728,9 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 265062,
-      "name": "Tu Falso Amor",
-      "url": "https://open.spotify.com/track/08p3E2vnwtEgPALD1t9fqu"
+      "duration_ms": 256655,
+      "name": "La Pesca",
+      "url": "https://open.spotify.com/track/3SggDme3YbOnNDesbeZRMH"
     },
     {
       "added_at": null,
@@ -836,9 +800,29 @@
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 136669,
-      "name": "El Olivo y el Maguey",
-      "url": "https://open.spotify.com/track/5XCfGLSjdBm5icKlCEIwkP"
+      "duration_ms": 265062,
+      "name": "Tu Falso Amor",
+      "url": "https://open.spotify.com/track/08p3E2vnwtEgPALD1t9fqu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Jard\u00edn del Placer",
+        "url": "https://open.spotify.com/album/38bHUIOu8FB5eDLyxFqdsb"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        },
+        {
+          "name": "Alex Cuba",
+          "url": "https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1"
+        }
+      ],
+      "duration_ms": 226013,
+      "name": "El Jard\u00edn del Placer",
+      "url": "https://open.spotify.com/track/675zc522RkFW7lXIJ59mbd"
     },
     {
       "added_at": null,
@@ -875,6 +859,22 @@
       "duration_ms": 289013,
       "name": "Cruz de Olvido",
       "url": "https://open.spotify.com/track/2rgVcA2yfMfo5LRN4pWRUS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cambias Mi Mundo",
+        "url": "https://open.spotify.com/album/0hgCO4jAYY65bgbRnceO06"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 136669,
+      "name": "El Olivo y el Maguey",
+      "url": "https://open.spotify.com/track/5XCfGLSjdBm5icKlCEIwkP"
     },
     {
       "added_at": null,
