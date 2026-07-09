@@ -929,6 +929,28 @@
     },
     {
       "album": {
+        "name": "7 din 7",
+        "url": "https://open.spotify.com/album/4q3iKz4tg5UUxlnpADDq5W"
+      },
+      "artists": [
+        {
+          "name": "VANILLA",
+          "url": "https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn"
+        },
+        {
+          "name": "Alex Velea",
+          "url": "https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167578,
+      "name": "7 din 7",
+      "url": "https://open.spotify.com/track/0tFGvE5jMG4rl8e0gP71ti"
+    },
+    {
+      "album": {
         "name": "7 zile",
         "url": "https://open.spotify.com/album/7IMnhD1xz0UtpQVYsnlgqE"
       },
@@ -4306,7 +4328,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 134399,
       "name": "Balans",
       "url": "https://open.spotify.com/track/0JK8MMdQNg1hHV51b2lsBA"
@@ -9256,7 +9278,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-06",
+      "date_removed": null,
       "duration_ms": 173478,
       "name": "Cine te sun\u0103?",
       "url": "https://open.spotify.com/track/2iv0HFAp8FNzH35irvm78r"
@@ -17534,7 +17556,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 142733,
       "name": "Frikicita",
       "url": "https://open.spotify.com/track/1y8q3Fe4tA2X3oi6Q2pU4p"
@@ -17892,7 +17914,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-08",
+      "date_removed": null,
       "duration_ms": 186293,
       "name": "Gagicuta body show",
       "url": "https://open.spotify.com/track/0vJMLsjPvDTiryvIS7dIss"
@@ -27118,7 +27140,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 116024,
       "name": "MA TOT INTREABA",
       "url": "https://open.spotify.com/track/3CJ7UqwE4jpQOBu08FHrQf"
@@ -27868,6 +27890,24 @@
       "duration_ms": 158297,
       "name": "MARATON - From \"Haita De Ac\u021biune\" The Movie",
       "url": "https://open.spotify.com/track/3YCtgIn37ssc8PQmw6WLC5"
+    },
+    {
+      "album": {
+        "name": "Mare Fumusete",
+        "url": "https://open.spotify.com/album/5ynx20uReOQ0o6NAmmOtwD"
+      },
+      "artists": [
+        {
+          "name": "Denis Spaniolu'",
+          "url": "https://open.spotify.com/artist/266DYurNjIUOiI7yE9v3Vz"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Mare Fumusete",
+      "url": "https://open.spotify.com/track/1rKUFjNPwNHwtOspk0U8SH"
     },
     {
       "album": {
@@ -38916,7 +38956,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 173793,
       "name": "SA TE PUP",
       "url": "https://open.spotify.com/track/3dKNqxTNbM58WbgwHeodDn"
@@ -43942,7 +43982,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-06",
+      "date_removed": null,
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -46972,7 +47012,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 118736,
       "name": "Trag \u00een ea",
       "url": "https://open.spotify.com/track/40TCHpYkSRk6rzJfOSB9Fu"

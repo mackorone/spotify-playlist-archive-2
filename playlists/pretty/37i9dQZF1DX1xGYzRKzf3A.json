@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 173303,
+  "num_followers": 173371,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Bordada a Mano",
-        "url": "https://open.spotify.com/album/1dyd7hJkMWDJnU10UGKphB"
-      },
-      "artists": [
-        {
-          "name": "Los Mier",
-          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
-        }
-      ],
-      "duration_ms": 175160,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/5N6l5fBKD1XcbayM3Q8K3c"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Se Quitan El Sombrero",
         "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 206733,
       "name": "Compr\u00e9ndala",
       "url": "https://open.spotify.com/track/1hoWZj7mw3khkTYobkDgcM"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Bordada a Mano",
+        "url": "https://open.spotify.com/album/1dyd7hJkMWDJnU10UGKphB"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "duration_ms": 175160,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/5N6l5fBKD1XcbayM3Q8K3c"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 225173,
-      "name": "Vendedora de Caricias",
-      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "\u2026Que viva el vallenato!",
         "url": "https://open.spotify.com/album/27c9RUtzsuc6OQFgLvK7AY"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 294640,
       "name": "Si Tu Amor No Vuelve",
       "url": "https://open.spotify.com/track/6f9wNWLVMRX9QbsStbaI4Q"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 225173,
+      "name": "Vendedora de Caricias",
+      "url": "https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "El Desorden",
         "url": "https://open.spotify.com/album/07XhIDBf3asLUakoprXiek"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 234944,
       "name": "El Desorden",
       "url": "https://open.spotify.com/track/5wTJR7wThGAXecobfYhytr"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "A Pesar De Todo (15 Super Temas)",
-        "url": "https://open.spotify.com/album/3XapO9H88P5D5TevLszVIp"
-      },
-      "artists": [
-        {
-          "name": "Ladron",
-          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
-        }
-      ],
-      "duration_ms": 215840,
-      "name": "T\u00fa Me Quieres Lastimar",
-      "url": "https://open.spotify.com/track/5cPfTRCvx7fu5twZh2BOny"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Cumbia Del Lazo",
         "url": "https://open.spotify.com/album/1UqSxzsjl9uZg1xVoBLwLR"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 158720,
       "name": "La Cumbia Del Lazo",
       "url": "https://open.spotify.com/track/3gRpzfNEhcDuL2UXgTbkVu"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "A Pesar De Todo (15 Super Temas)",
+        "url": "https://open.spotify.com/album/3XapO9H88P5D5TevLszVIp"
+      },
+      "artists": [
+        {
+          "name": "Ladron",
+          "url": "https://open.spotify.com/artist/32BLNtPX18499VCjsUiFj1"
+        }
+      ],
+      "duration_ms": 215840,
+      "name": "T\u00fa Me Quieres Lastimar",
+      "url": "https://open.spotify.com/track/5cPfTRCvx7fu5twZh2BOny"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 186573,
-      "name": "Arrastrando La Cobija",
-      "url": "https://open.spotify.com/track/1eKN8fGmXwsOg5mBfQD2KI"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Solo Hits",
         "url": "https://open.spotify.com/album/1T42v7QvduIU8JzrZddZIn"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 159986,
       "name": "Pobre Loco",
       "url": "https://open.spotify.com/track/0BACxgNmiBtAU4piZTJnPn"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 186573,
+      "name": "Arrastrando La Cobija",
+      "url": "https://open.spotify.com/track/1eKN8fGmXwsOg5mBfQD2KI"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Mil Historias",
-        "url": "https://open.spotify.com/album/4XjfK4bzkOr37JS2H3XB65"
-      },
-      "artists": [
-        {
-          "name": "Pesado",
-          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "C\u00f3mo le hago",
-      "url": "https://open.spotify.com/track/1SPWCyvl2ooPPw4iAv9S07"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "A.B. Quintanilla III Presents Kumbia Kings Greatest Hits \"Album Versions\"",
         "url": "https://open.spotify.com/album/1RGWEZOK9E2fH75E6D3cqZ"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 256306,
       "name": "Boom Boom",
       "url": "https://open.spotify.com/track/5Qwinf4K7rDH2WXESLNUxi"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Mil Historias",
+        "url": "https://open.spotify.com/album/4XjfK4bzkOr37JS2H3XB65"
+      },
+      "artists": [
+        {
+          "name": "Pesado",
+          "url": "https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "C\u00f3mo le hago",
+      "url": "https://open.spotify.com/track/1SPWCyvl2ooPPw4iAv9S07"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Ch\u00fantaros Radio Poder",
         "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 201538,
       "name": "Cumbia Lunera",
       "url": "https://open.spotify.com/track/6X9AbFeo1MYxfJco7BiSS2"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "La Voz Del Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4Dg3GxeqCTawEsAQfceNnV"
-      },
-      "artists": [
-        {
-          "name": "El Plan",
-          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Si Yo Fuera Tu",
-      "url": "https://open.spotify.com/track/6aF7eMrXRdSHnqpC79NK40"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Regalo Caro",
         "url": "https://open.spotify.com/album/4D6UIG5sjJUN1VQn5v1AvE"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 162440,
       "name": "Chao Chao Amor",
       "url": "https://open.spotify.com/track/4j5AdS0aQG5nummMEbSUNq"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "La Voz Del Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4Dg3GxeqCTawEsAQfceNnV"
+      },
+      "artists": [
+        {
+          "name": "El Plan",
+          "url": "https://open.spotify.com/artist/6hC4K4CHuu5MRsNUHAqqdy"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Si Yo Fuera Tu",
+      "url": "https://open.spotify.com/track/6aF7eMrXRdSHnqpC79NK40"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "\u00cdconos 25 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 138640,
-      "name": "Recordando Monterrey",
-      "url": "https://open.spotify.com/track/6Fibv5E2GYxaH9HQCqxu9w"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Exitos De Oro",
         "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 196640,
       "name": "Arrepientete",
       "url": "https://open.spotify.com/track/0FagG8oiMGPW99LZspwr8Y"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "\u00cdconos 25 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0rUQEWfnveBDeFFiseFOsJ"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 138640,
+      "name": "Recordando Monterrey",
+      "url": "https://open.spotify.com/track/6Fibv5E2GYxaH9HQCqxu9w"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1971,22 +1971,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "El Brinquito",
-        "url": "https://open.spotify.com/album/5WSPpDNz05X77xzEpfwhwJ"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes Locos",
-          "url": "https://open.spotify.com/artist/2Z7Kkkd0KGcx6cblKWVdUG"
-        }
-      ],
-      "duration_ms": 205853,
-      "name": "El Brinquito",
-      "url": "https://open.spotify.com/track/0eNogDKWE2kLSfSz3OB5Ro"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Siempre",
         "url": "https://open.spotify.com/album/6gz2pSp3FRPv6yWUnQ0VdC"
       },
@@ -1999,6 +1983,22 @@
       "duration_ms": 192809,
       "name": "Amor Limosnero",
       "url": "https://open.spotify.com/track/6kk5NriWRn5my0USWHifUS"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "El Brinquito",
+        "url": "https://open.spotify.com/album/5WSPpDNz05X77xzEpfwhwJ"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes Locos",
+          "url": "https://open.spotify.com/artist/2Z7Kkkd0KGcx6cblKWVdUG"
+        }
+      ],
+      "duration_ms": 205853,
+      "name": "El Brinquito",
+      "url": "https://open.spotify.com/track/0eNogDKWE2kLSfSz3OB5Ro"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -2055,18 +2055,18 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+        "name": "La Mas Completa Coleccion (Disco 2)",
+        "url": "https://open.spotify.com/album/4QGk7hWvhae1nw2agFhN20"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
         }
       ],
-      "duration_ms": 192626,
-      "name": "Te He Prometido",
-      "url": "https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb"
+      "duration_ms": 195200,
+      "name": "Lamento De Amor",
+      "url": "https://open.spotify.com/track/458rEJIikMTw9nrnqnPD3H"
     }
   ],
   "unique_name": "Coraz\u00f3n Regio ",

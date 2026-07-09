@@ -1,6 +1,6 @@
 {
   "description": "This is MC Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35349,
+  "num_followers": 35350,
   "original_name": "This Is MC Dricka",
   "owner": {
     "name": "Spotify",
@@ -20,12 +20,12 @@
           "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
         },
         {
-          "name": "DJ ADUTTZ",
-          "url": "https://open.spotify.com/artist/3KsFAFpgbYhZGXSDEQ3HzB"
-        },
-        {
           "name": "MC Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJ ADUTTZ",
+          "url": "https://open.spotify.com/artist/3KsFAFpgbYhZGXSDEQ3HzB"
         }
       ],
       "duration_ms": 180297,

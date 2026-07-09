@@ -2,7 +2,7 @@
 
 ### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> With Phantogram, Cults, Cocteau Twins and more
+> With Crystal Castles, Phantogram, Mareux and more
 
 1,853 songs - 4 day 18 hr 6 min
 

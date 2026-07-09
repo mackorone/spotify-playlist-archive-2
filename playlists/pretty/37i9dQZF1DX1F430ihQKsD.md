@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal avec Born At Midnite
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,056 likes - 73 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,159 likes - 73 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Find hope in Him in every note of these songs full of faith!",
-  "num_followers": 213849,
+  "num_followers": 213856,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-05-19 08:18:48",
       "album": {
-        "name": "Jesus Changed My Life",
-        "url": "https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82"
-      },
-      "artists": [
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        }
-      ],
-      "duration_ms": 235651,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/27oqAdEmp480usR8hPV5Iq"
-    },
-    {
-      "added_at": "2026-05-19 08:18:48",
-      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 211293,
       "name": "Maybe It's Ok",
       "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
+    },
+    {
+      "added_at": "2026-05-19 08:18:48",
+      "album": {
+        "name": "Jesus Changed My Life",
+        "url": "https://open.spotify.com/album/3qvrVAm0dXvo6Uwn855H82"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "duration_ms": 235651,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/27oqAdEmp480usR8hPV5Iq"
     },
     {
       "added_at": "2026-05-19 08:18:48",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2026-05-19 08:18:48",
       "album": {
+        "name": "Good Lord",
+        "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        },
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "duration_ms": 202708,
+      "name": "Good Lord (feat. Katy Nichole)",
+      "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
+    },
+    {
+      "added_at": "2026-05-19 08:18:48",
+      "album": {
         "name": "Gravitas",
         "url": "https://open.spotify.com/album/7JA2YnBXzhTeGnTQ2JVhNd"
       },
@@ -1171,26 +1191,6 @@
     {
       "added_at": "2026-05-19 08:18:48",
       "album": {
-        "name": "Good Lord",
-        "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        },
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        }
-      ],
-      "duration_ms": 202708,
-      "name": "Good Lord (feat. Katy Nichole)",
-      "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
-    },
-    {
-      "added_at": "2026-05-19 08:18:48",
-      "album": {
         "name": "Glory and Majesty",
         "url": "https://open.spotify.com/album/1QGbytHCK2zrtErq1tt4PF"
       },
@@ -1203,22 +1203,6 @@
       "duration_ms": 284970,
       "name": "Glory and Majesty",
       "url": "https://open.spotify.com/track/6ebunLa0rqIRA3w1Q8m4M9"
-    },
-    {
-      "added_at": "2026-05-19 08:18:48",
-      "album": {
-        "name": "Introspection",
-        "url": "https://open.spotify.com/album/1ZMlfIdC2hbPPthzqe4dnR"
-      },
-      "artists": [
-        {
-          "name": "Gene Moore",
-          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
-        }
-      ],
-      "duration_ms": 178889,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/4CG0XPNBUUaHnLt7JBZX5z"
     },
     {
       "added_at": "2026-05-19 08:18:48",
@@ -1259,6 +1243,22 @@
       "duration_ms": 439921,
       "name": "Hope On the Horizon - Live",
       "url": "https://open.spotify.com/track/0jjPSLrVJDxyImNGJ252vI"
+    },
+    {
+      "added_at": "2026-05-19 08:18:48",
+      "album": {
+        "name": "Introspection",
+        "url": "https://open.spotify.com/album/1ZMlfIdC2hbPPthzqe4dnR"
+      },
+      "artists": [
+        {
+          "name": "Gene Moore",
+          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
+        }
+      ],
+      "duration_ms": 178889,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/4CG0XPNBUUaHnLt7JBZX5z"
     },
     {
       "added_at": "2026-05-19 08:18:48",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2026-05-19 08:18:48",
       "album": {
+        "name": "Just Like Jesus",
+        "url": "https://open.spotify.com/album/49ZSXWroWWx4MYkIHuLJHG"
+      },
+      "artists": [
+        {
+          "name": "Iveth Luna",
+          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
+        }
+      ],
+      "duration_ms": 234986,
+      "name": "Just Like Jesus",
+      "url": "https://open.spotify.com/track/5n2McD0ceb8erMwb9KmSTx"
+    },
+    {
+      "added_at": "2026-05-19 08:18:48",
+      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/68jTvE3jFe31IaDI6GdJFK"
       },
@@ -1755,6 +1771,22 @@
       "duration_ms": 196173,
       "name": "Even Then",
       "url": "https://open.spotify.com/track/1y6Xu9iSTxUeUjDJyfu61e"
+    },
+    {
+      "added_at": "2026-05-19 08:18:48",
+      "album": {
+        "name": "Have Hope",
+        "url": "https://open.spotify.com/album/5YPAPMNa3p1EAov5Jb8ywN"
+      },
+      "artists": [
+        {
+          "name": "Ginny Owens",
+          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
+        }
+      ],
+      "duration_ms": 201095,
+      "name": "Have Hope",
+      "url": "https://open.spotify.com/track/49pWooNGZz9BXHgLkNRebD"
     },
     {
       "added_at": "2026-05-19 08:18:48",
@@ -1779,22 +1811,6 @@
     {
       "added_at": "2026-05-19 08:18:48",
       "album": {
-        "name": "Have Hope",
-        "url": "https://open.spotify.com/album/5YPAPMNa3p1EAov5Jb8ywN"
-      },
-      "artists": [
-        {
-          "name": "Ginny Owens",
-          "url": "https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn"
-        }
-      ],
-      "duration_ms": 201095,
-      "name": "Have Hope",
-      "url": "https://open.spotify.com/track/49pWooNGZz9BXHgLkNRebD"
-    },
-    {
-      "added_at": "2026-05-19 08:18:48",
-      "album": {
         "name": "Big God",
         "url": "https://open.spotify.com/album/3neRBcOUW8ZMem3hBAU1u1"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 191710,
       "name": "Big God",
       "url": "https://open.spotify.com/track/3vrD1zG1gJeGTkscxOMnO3"
-    },
-    {
-      "added_at": "2026-05-19 08:18:48",
-      "album": {
-        "name": "Just Like Jesus",
-        "url": "https://open.spotify.com/album/49ZSXWroWWx4MYkIHuLJHG"
-      },
-      "artists": [
-        {
-          "name": "Iveth Luna",
-          "url": "https://open.spotify.com/artist/2fiP5LcBybuvRJlE9RW8zv"
-        }
-      ],
-      "duration_ms": 234986,
-      "name": "Just Like Jesus",
-      "url": "https://open.spotify.com/track/5n2McD0ceb8erMwb9KmSTx"
     },
     {
       "added_at": "2026-05-19 08:18:48",

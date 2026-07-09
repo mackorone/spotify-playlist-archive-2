@@ -1,6 +1,6 @@
 {
   "description": "sommerurlaub f\u00fcr zwischendurch \u26f1\ufe0f",
-  "num_followers": 1099654,
+  "num_followers": 1099697,
   "original_name": "Sommer Chillout",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "The Visitor",
-        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
-      },
-      "artists": [
-        {
-          "name": "SIENNA SPIRO",
-          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
-        }
-      ],
-      "duration_ms": 228908,
-      "name": "The Visitor",
-      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
-    },
-    {
-      "added_at": "2026-06-25 22:01:05",
-      "album": {
         "name": "Say Yes To Heaven",
         "url": "https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
+    },
+    {
+      "added_at": "2026-06-25 22:01:05",
+      "album": {
+        "name": "The Great Divide: The Last Of The Bugs",
+        "url": "https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 286967,
+      "name": "Orbiter",
+      "url": "https://open.spotify.com/track/77fL8ATR0dpUDLI0XLmDBV"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -139,18 +139,18 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "The Great Divide: The Last Of The Bugs",
-        "url": "https://open.spotify.com/album/0TSynllAnze7KMhv6J7W18"
+        "name": "The Visitor",
+        "url": "https://open.spotify.com/album/1vcbnpnQfghE8vRxhvUF60"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
         }
       ],
-      "duration_ms": 286967,
-      "name": "Orbiter",
-      "url": "https://open.spotify.com/track/77fL8ATR0dpUDLI0XLmDBV"
+      "duration_ms": 228908,
+      "name": "The Visitor",
+      "url": "https://open.spotify.com/track/36OpC3NK7kQzcOo8qiCHaA"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -483,18 +483,22 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "i am not who i was",
-        "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
+        "name": "Prizefighter",
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
       },
       "artists": [
         {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 145438,
-      "name": "i am not who i was",
-      "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
+      "duration_ms": 178200,
+      "name": "Badlands (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -515,22 +519,18 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+        "name": "i am not who i was",
+        "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
       },
       "artists": [
         {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
         }
       ],
-      "duration_ms": 178200,
-      "name": "Badlands (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
+      "duration_ms": 145438,
+      "name": "i am not who i was",
+      "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "Rabbits Can Swim",
-        "url": "https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n"
-      },
-      "artists": [
-        {
-          "name": "Florence Road",
-          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
-        }
-      ],
-      "duration_ms": 253675,
-      "name": "Rabbits Can Swim",
-      "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
-    },
-    {
-      "added_at": "2026-06-25 22:01:05",
-      "album": {
         "name": "Ozean",
         "url": "https://open.spotify.com/album/4AFH1ZeMsq5MSwgOqYfZVv"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 215265,
       "name": "Ozean",
       "url": "https://open.spotify.com/track/7ED8m8m3QJvDCnYFOi6VXB"
+    },
+    {
+      "added_at": "2026-06-25 22:01:05",
+      "album": {
+        "name": "Rabbits Can Swim",
+        "url": "https://open.spotify.com/album/39b6lvLTQLJqIiDZcgOw7n"
+      },
+      "artists": [
+        {
+          "name": "Florence Road",
+          "url": "https://open.spotify.com/artist/0zzKEeF2bAVKrWeKc9CyJV"
+        }
+      ],
+      "duration_ms": 253675,
+      "name": "Rabbits Can Swim",
+      "url": "https://open.spotify.com/track/7Gd2oawSmPedbykPjqQJe5"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -699,26 +699,6 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "girls like girls the album",
-        "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 232934,
-      "name": "die 4 u",
-      "url": "https://open.spotify.com/track/6m23hIW0TYTnSdHJOHoZnl"
-    },
-    {
-      "added_at": "2026-06-25 22:01:05",
-      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/0yTCTx3Xq4LGjgDVHCba81"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 214459,
       "name": "Till the Morning",
       "url": "https://open.spotify.com/track/0wuxOBMmwRRgJi3gXse0QD"
+    },
+    {
+      "added_at": "2026-06-25 22:01:05",
+      "album": {
+        "name": "girls like girls the album",
+        "url": "https://open.spotify.com/album/0fFS1pRGFLPXjfHLgugpNi"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 232934,
+      "name": "die 4 u",
+      "url": "https://open.spotify.com/track/6m23hIW0TYTnSdHJOHoZnl"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
+        "name": "Empty Of You",
+        "url": "https://open.spotify.com/album/0eUjjndcDx6aGnoMFGvjn2"
+      },
+      "artists": [
+        {
+          "name": "Dirty Blond",
+          "url": "https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM"
+        }
+      ],
+      "duration_ms": 181181,
+      "name": "Empty Of You",
+      "url": "https://open.spotify.com/track/4mtvX2WPw0Z92zwjx4KFsO"
+    },
+    {
+      "added_at": "2026-06-25 22:01:05",
+      "album": {
         "name": "Oceans",
         "url": "https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 279573,
       "name": "Oceans",
       "url": "https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz"
-    },
-    {
-      "added_at": "2026-06-25 22:01:05",
-      "album": {
-        "name": "Empty Of You",
-        "url": "https://open.spotify.com/album/0eUjjndcDx6aGnoMFGvjn2"
-      },
-      "artists": [
-        {
-          "name": "Dirty Blond",
-          "url": "https://open.spotify.com/artist/3ztI1lGY2ZwrmOJ5Kr6wsM"
-        }
-      ],
-      "duration_ms": 181181,
-      "name": "Empty Of You",
-      "url": "https://open.spotify.com/track/4mtvX2WPw0Z92zwjx4KFsO"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "Taboo",
-        "url": "https://open.spotify.com/album/1g3VI1UlJcKDPP4bDihhdB"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 218333,
-      "name": "Taboo",
-      "url": "https://open.spotify.com/track/5r6asxdvB5xJtNiSMjWTjB"
-    },
-    {
-      "added_at": "2026-06-25 22:01:05",
-      "album": {
         "name": "Irish Eyes",
         "url": "https://open.spotify.com/album/6wNwp3iSMstG1TjpTQLbAq"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "MI SUE\u00d1O",
-        "url": "https://open.spotify.com/album/69XK7T7UIWLq7h4cNOKKl3"
+        "name": "Taboo",
+        "url": "https://open.spotify.com/album/1g3VI1UlJcKDPP4bDihhdB"
       },
       "artists": [
         {
-          "name": "JEREMIAS",
-          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
         }
       ],
-      "duration_ms": 144867,
-      "name": "MI SUE\u00d1O",
-      "url": "https://open.spotify.com/track/520zZB2d3iCE04y7YIOaQF"
+      "duration_ms": 218333,
+      "name": "Taboo",
+      "url": "https://open.spotify.com/track/5r6asxdvB5xJtNiSMjWTjB"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -1259,6 +1243,22 @@
       "duration_ms": 270315,
       "name": "Little Life",
       "url": "https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM"
+    },
+    {
+      "added_at": "2026-06-25 22:01:05",
+      "album": {
+        "name": "MI SUE\u00d1O",
+        "url": "https://open.spotify.com/album/69XK7T7UIWLq7h4cNOKKl3"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "duration_ms": 144867,
+      "name": "MI SUE\u00d1O",
+      "url": "https://open.spotify.com/track/520zZB2d3iCE04y7YIOaQF"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "Petrichor",
-        "url": "https://open.spotify.com/album/1FpxFs3YgX34FKfEb8KbuN"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 207676,
-      "name": "Petrichor",
-      "url": "https://open.spotify.com/track/4GTd137gJz6LFQI3RFpQT5"
-    },
-    {
-      "added_at": "2026-06-25 22:01:05",
-      "album": {
         "name": "Weit weg",
         "url": "https://open.spotify.com/album/6DQJr9joGBiomIdsoLRevv"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd"
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/1FpxFs3YgX34FKfEb8KbuN"
       },
       "artists": [
         {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
         }
       ],
-      "duration_ms": 257400,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
+      "duration_ms": 207676,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/4GTd137gJz6LFQI3RFpQT5"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -1443,18 +1427,18 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "Morning Birds",
-        "url": "https://open.spotify.com/album/3ayZrqhHdGnR7yysveunbf"
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd"
       },
       "artists": [
         {
-          "name": "Xavier Rudd",
-          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 287000,
-      "name": "Morning Birds",
-      "url": "https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a"
+      "duration_ms": 257400,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -1471,6 +1455,22 @@
       "duration_ms": 141762,
       "name": "eat some pasta",
       "url": "https://open.spotify.com/track/3s6zhTUjtgbqlWR89Em1DR"
+    },
+    {
+      "added_at": "2026-06-25 22:01:05",
+      "album": {
+        "name": "Morning Birds",
+        "url": "https://open.spotify.com/album/3ayZrqhHdGnR7yysveunbf"
+      },
+      "artists": [
+        {
+          "name": "Xavier Rudd",
+          "url": "https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "Morning Birds",
+      "url": "https://open.spotify.com/track/3QXGb2BWrmysiT0otVCj9a"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "Summer Nostalgia",
-        "url": "https://open.spotify.com/album/1QVc0CyfwvZr18tN0apisr"
-      },
-      "artists": [
-        {
-          "name": "Emily James",
-          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Summer on Ice",
-      "url": "https://open.spotify.com/track/4xFDggrjuOkJPO2LQmslQE"
-    },
-    {
-      "added_at": "2026-06-25 22:01:05",
-      "album": {
         "name": "Prizefighter",
         "url": "https://open.spotify.com/album/5Cq6LOKTeOqYypzygGJK5X"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "Two Thirds",
-        "url": "https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL"
+        "name": "Summer Nostalgia",
+        "url": "https://open.spotify.com/album/1QVc0CyfwvZr18tN0apisr"
       },
       "artists": [
         {
-          "name": "Childe",
-          "url": "https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq"
+          "name": "Emily James",
+          "url": "https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy"
         }
       ],
-      "duration_ms": 206546,
-      "name": "Two Thirds",
-      "url": "https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1"
+      "duration_ms": 174000,
+      "name": "Summer on Ice",
+      "url": "https://open.spotify.com/track/4xFDggrjuOkJPO2LQmslQE"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -1583,6 +1567,22 @@
       "duration_ms": 173415,
       "name": "Lonely Island",
       "url": "https://open.spotify.com/track/2yGiQ4RlVLczAorOE6vmTl"
+    },
+    {
+      "added_at": "2026-06-25 22:01:05",
+      "album": {
+        "name": "Two Thirds",
+        "url": "https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL"
+      },
+      "artists": [
+        {
+          "name": "Childe",
+          "url": "https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Two Thirds",
+      "url": "https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1"
     },
     {
       "added_at": "2026-06-25 22:01:05",
@@ -1635,30 +1635,6 @@
     {
       "added_at": "2026-06-25 22:01:05",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/4dTauHF2YOIwiHCoP8vk1O"
-      },
-      "artists": [
-        {
-          "name": "Billy Raffoul",
-          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
-        },
-        {
-          "name": "Booshle G.",
-          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
-        },
-        {
-          "name": "Tatum Tides",
-          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1seToxjaUog9m1scdsu4yP"
-    },
-    {
-      "added_at": "2026-06-25 22:01:05",
-      "album": {
         "name": "Make me think of you",
         "url": "https://open.spotify.com/album/1LCyjbwY18GGpobrSlv8ZJ"
       },
@@ -1687,6 +1663,30 @@
       "duration_ms": 207133,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"
+    },
+    {
+      "added_at": "2026-06-25 22:01:05",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/4dTauHF2YOIwiHCoP8vk1O"
+      },
+      "artists": [
+        {
+          "name": "Billy Raffoul",
+          "url": "https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP"
+        },
+        {
+          "name": "Booshle G.",
+          "url": "https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s"
+        },
+        {
+          "name": "Tatum Tides",
+          "url": "https://open.spotify.com/artist/730X1kWAiAf4vUtlUs1nWY"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1seToxjaUog9m1scdsu4yP"
     },
     {
       "added_at": "2026-06-25 22:01:05",

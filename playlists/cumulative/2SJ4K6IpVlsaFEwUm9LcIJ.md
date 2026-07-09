@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: july\-august 2026 \(previous playlists archived on my profile\)
 
-1,033 songs - 2 day 14 hr 58 min
+1,034 songs - 2 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [I Say You Hello](https://open.spotify.com/track/7aSpW1knXzGUlN1UZO4JLS) | [Autumn](https://open.spotify.com/artist/7mdh9mziYyoyx5akHNGFte) | [Not Afraid to Die](https://open.spotify.com/album/71la4b5wxQnCc59LSyYOJ8) | 5:31 | 2025-03-01 | 2025-05-09 |
 | [I took the Opportunity to Antique My End Table](https://open.spotify.com/track/7ExGUS0rBtPoT95rlhkHIQ) | [The Sea and Cake](https://open.spotify.com/artist/0ihBDeJlIlXo4LFfAllsGm), [Jim O'Rourke](https://open.spotify.com/artist/46urSPEzIrRVqKqciwOq2f) | [Two Gentlemen](https://open.spotify.com/album/3LzRrgLekMIoE3mepquWGR) | 7:28 | 2026-02-22 | 2026-03-13 |
 | [I Wanna Be On Your Mind](https://open.spotify.com/track/6YcHKOWjUJ1mZNC9lWEBLt) | [2nd Grade](https://open.spotify.com/artist/6mG7RLvtGBHIg4jdb8urYb) | [Scheduled Explosions](https://open.spotify.com/album/1dixWE0mC52gWtjmM55Icf) | 2:28 | 2024-12-09 | 2025-01-12 |
+| [I Was The Dancer](https://open.spotify.com/track/2MATQphNB3FUAJGfeGD5bn) | [Way Dynamic](https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk) | [Massive Shoe](https://open.spotify.com/album/0gVl6TbtVCioOlWDOGObly) | 3:14 | 2026-07-08 |  |
 | [I Wish That We Were Married](https://open.spotify.com/track/2G3QuwTpQOe4i0JyMu47N3) | [Ronnie And The Hi\-Lites](https://open.spotify.com/artist/64NBWzoBYRleutVJjDfpkT) | [I Wish That We Were Married](https://open.spotify.com/album/3RbuK4PlaTUDNjWHhD1X3u) | 2:52 | 2026-02-20 | 2026-05-06 |
 | [I Won't Share You \- 2011 Remaster](https://open.spotify.com/track/3kLE2Jsxeb3W2bhx82bPlb) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Strangeways, Here We Come](https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg) | 2:53 | 2024-10-26 | 2024-11-14 |
 | [I'd Rather You Leave Me](https://open.spotify.com/track/7loaQK9Jd9RVYVj3iN4Xms) | [The Choir](https://open.spotify.com/artist/1CBHzR63n8JTqYNiGwgeqO) | [I'd Rather You Leave Me](https://open.spotify.com/album/1h3zASfdILrqQDjxhpOQls) | 2:02 | 2024-01-05 | 2024-03-10 |

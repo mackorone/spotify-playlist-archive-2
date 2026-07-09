@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 178000,
       "name": "300G",
       "url": "https://open.spotify.com/track/1bEEcI2bUAmKsFom25RLhC"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 170891,
       "name": "All the Things She Said",
       "url": "https://open.spotify.com/track/2ihHDb5epUtpn97W0pOsOA"
@@ -2649,6 +2649,24 @@
     },
     {
       "album": {
+        "name": "Blade",
+        "url": "https://open.spotify.com/album/0Knz2xzbB2dkdjxDcJvNaY"
+      },
+      "artists": [
+        {
+          "name": "D'Angello & Francis",
+          "url": "https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Blade",
+      "url": "https://open.spotify.com/track/1wQwTyocYlAE27QEk8BQXa"
+    },
+    {
+      "album": {
         "name": "Blah Blah Blah",
         "url": "https://open.spotify.com/album/79F4pbwzCRq38AF5feQziU"
       },
@@ -4052,7 +4070,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 227102,
       "name": "Comes Back Around",
       "url": "https://open.spotify.com/track/23axNcNwz5HwYauDa6Njy7"
@@ -5252,7 +5270,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 163320,
       "name": "Don't Lose Your Head",
       "url": "https://open.spotify.com/track/6btPEp3yW4iSMB5ykuYJny"
@@ -7340,11 +7358,15 @@
         {
           "name": "Cloonee",
           "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Sybil",
+          "url": "https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1"
         }
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 201700,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
@@ -8050,6 +8072,32 @@
       "duration_ms": 144375,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/7qhPd5HqLrCVpCWvpy8Hrh"
+    },
+    {
+      "album": {
+        "name": "Gravity (feat. SACHA)",
+        "url": "https://open.spotify.com/album/4msGbyNGOxdBnHlcotcxob"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180849,
+      "name": "Gravity (feat. SACHA)",
+      "url": "https://open.spotify.com/track/5o8zOsiOI8mQxgyencTVcv"
     },
     {
       "album": {
@@ -9341,6 +9389,32 @@
     },
     {
       "album": {
+        "name": "Human (Feat. John Martin)",
+        "url": "https://open.spotify.com/album/4FOIeI7EpeHdrQxKSxKc8s"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199858,
+      "name": "Human (Feat. John Martin)",
+      "url": "https://open.spotify.com/track/426LH4RVp0WvxX69NQCTGl"
+    },
+    {
+      "album": {
         "name": "Human Error",
         "url": "https://open.spotify.com/album/7m28Qx33SLWgtn8xSQjtC5"
       },
@@ -9724,7 +9798,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 143478,
       "name": "I look sh!t (and i\u2018m fine with it)",
       "url": "https://open.spotify.com/track/2OlWj3MnKCEOELsZ1uM4Mb"
@@ -11412,6 +11486,28 @@
       "duration_ms": 193091,
       "name": "LET'S GO",
       "url": "https://open.spotify.com/track/20Y4EAmSXru3foatDg4OqN"
+    },
+    {
+      "album": {
+        "name": "LIEBE",
+        "url": "https://open.spotify.com/album/2lLTCsHzjPWvfVbe1bmV91"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "JBS",
+          "url": "https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210996,
+      "name": "LIEBE",
+      "url": "https://open.spotify.com/track/5VSBmKQItts45sCFdW7Z7F"
     },
     {
       "album": {
@@ -14191,6 +14287,28 @@
     },
     {
       "album": {
+        "name": "No Limit",
+        "url": "https://open.spotify.com/album/5OGsScd09uGjfN2uLH1glz"
+      },
+      "artists": [
+        {
+          "name": "999999999",
+          "url": "https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc"
+        },
+        {
+          "name": "FLKN",
+          "url": "https://open.spotify.com/artist/3OyQ9AeMFgwKFHUgBOISww"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219870,
+      "name": "No Limit",
+      "url": "https://open.spotify.com/track/1eUkZEhwbZkkhNfgA1qVyA"
+    },
+    {
+      "album": {
         "name": "No Promises",
         "url": "https://open.spotify.com/album/6Vy2TEzq8DBX0vczYeKACP"
       },
@@ -16492,7 +16610,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 207870,
       "name": "Rave Never Ends",
       "url": "https://open.spotify.com/track/3A5vAVf6MabbZnfC662cdn"
@@ -16654,7 +16772,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 213520,
       "name": "reborn (alma)",
       "url": "https://open.spotify.com/track/59IwqDfglT8yEzXYRc2HwF"
@@ -22780,6 +22898,24 @@
       "duration_ms": 228099,
       "name": "Your Body",
       "url": "https://open.spotify.com/track/1NKjc6bRHutPoaVtYclFC3"
+    },
+    {
+      "album": {
+        "name": "YOUtopia",
+        "url": "https://open.spotify.com/album/4KHPTZ0Cad5ZJvZW614XUe"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150150,
+      "name": "YOUtopia",
+      "url": "https://open.spotify.com/track/35NaaOPzsTWOWM47PzRuaY"
     },
     {
       "album": {

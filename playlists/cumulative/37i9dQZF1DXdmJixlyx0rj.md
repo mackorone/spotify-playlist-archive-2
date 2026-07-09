@@ -4,7 +4,7 @@
 
 > New & best K\-Electronic music is here\. \(Cover: Silly Silky \(실리실키\)\)
 
-325 songs - 18 hr 15 min
+326 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Bassister \(Feat\. Kid Milli\)](https://open.spotify.com/track/6fprDkNvBbqjFYsSQ9cbCS) | [Kimmy gone](https://open.spotify.com/artist/7fy9KcCR883R5ryS8IoGXB), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [SPAZ](https://open.spotify.com/album/0SSbN0KyO3qtoA4OgoQPmT) | 2:49 | 2025-09-22 |  |
 | [Baya](https://open.spotify.com/track/7KCrASlXt3VnQ90LTOGWEK) | [IÖN](https://open.spotify.com/artist/26QcX5F1u1DpifSymRRyqV), [DJ co.kr](https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk) | [AREA X](https://open.spotify.com/album/3y7wrIeJ0o7OvlQLLPOYTJ) | 3:40 | 2026-05-12 |  |
 | [Be Your Breeze \- Dyako Remix](https://open.spotify.com/track/0CufLeUWzEjOisimpSDVXl) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Be Your Breeze \(Remixes\)](https://open.spotify.com/album/50OdjnCJjGLB3aw1rN2CZo) | 3:38 | 2024-09-04 | 2024-09-21 |
+| [Beat That](https://open.spotify.com/track/7vLrJycwxY8BDkn5PbJ3R0) | [WWAV](https://open.spotify.com/artist/7lVqjxkX4i5a3vvjoVHJcN) | [Beat That](https://open.spotify.com/album/5pIrVqhgu2SD5JJ5gfpMoV) | 5:11 | 2026-07-03 |  |
 | [Before the Dawn](https://open.spotify.com/track/1XxO5dOZ5R3y4q7belU1gx) | [GLORY](https://open.spotify.com/artist/0WAdBPEn1hg0ZnHen70tEr) | [Before the Dawn](https://open.spotify.com/album/0yFqUsqveM9BlSSdqI2zWk) | 2:56 | 2024-04-05 | 2024-06-09 |
 | [Better Off \(feat\. FLANNEL ALBERT\)](https://open.spotify.com/track/2sdEeYl3etMldzUFp0QS0C) | [Pure 100%](https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP), [FLANNEL ALBERT](https://open.spotify.com/artist/1LhOhPJ3Z1uTaybvUVg2lC) | [Better Off \(feat\. FLANNEL ALBERT\)](https://open.spotify.com/album/0s10sDLTOXD2jDXqEqS7nf) | 3:13 | 2024-06-28 | 2024-07-17 |
 | [Better Things \- Dance Remix](https://open.spotify.com/track/62Q8xON11csaJlfmRF7Y5O) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [LDN NOISE](https://open.spotify.com/artist/5sdRcz0BjbZdTbeT4mJ2xs) | [Better Things \(Dance Remix\)](https://open.spotify.com/album/2P8trIADhHx8fJAdC7ud40) | 3:14 | 2024-04-05 | 2025-04-03 |
@@ -150,7 +151,7 @@
 | [Hot Sauce \- Hitchhiker Remix](https://open.spotify.com/track/5b9Xo4A6XODIi8tkD1Qdz9) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02), [Hitchhiker](https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx) | [iScreaM Vol.9 : Hot Sauce Remixes](https://open.spotify.com/album/6f8Coii7w0nJi3TKVMXoWk) | 3:15 | 2024-04-05 | 2024-06-29 |
 | [I DON'T CARE](https://open.spotify.com/track/0N9WQE0WCPetQduRvRRu1r) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [IF U WANT IT](https://open.spotify.com/album/3X4dqVdCKZJQneZ6Nn8IDr) | 5:40 | 2024-04-05 | 2026-06-23 |
 | [I/o](https://open.spotify.com/track/2yfQCLqpdxVlVjCuLlF0f9) | [Neidi](https://open.spotify.com/artist/2fZsYdm8ebfWm2KefdSjAc) | [I/o](https://open.spotify.com/album/4chKaVPGVHpUTQnhEOTw9y) | 2:28 | 2026-02-11 | 2026-02-24 |
-| [Iab](https://open.spotify.com/track/3uTfD1qpztCCQ55ifHJ982) | [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Iab](https://open.spotify.com/album/2fUQFQJIQwo14l0dUbH6Qr) | 3:10 | 2025-10-23 |  |
+| [Iab](https://open.spotify.com/track/3uTfD1qpztCCQ55ifHJ982) | [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY), [jeonghyeon](https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq) | [Iab](https://open.spotify.com/album/2fUQFQJIQwo14l0dUbH6Qr) | 3:10 | 2025-10-23 | 2026-07-09 |
 | [Icarus \(Artronic Waves Remix\)](https://open.spotify.com/track/6hR8Qr0JATi43cPQ9zhqJy) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Club Icarus Remix>](https://open.spotify.com/album/1X7qXXLGo8pyjdWQYONAXs) | 4:10 | 2025-08-14 | 2025-09-23 |
 | [IFall](https://open.spotify.com/track/6PxIy5w30O0noEkOs4BrxG) | [Silly Silky](https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s) | [silkysmooth 03](https://open.spotify.com/album/1itk8bs4vByhAvS5PSTpqA) | 3:15 | 2025-10-14 | 2025-12-25 |
 | [Impossible \- Darius Remix](https://open.spotify.com/track/4NgEf8xlckRMfbi2RlQiaG) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX), [Darius](https://open.spotify.com/artist/5vfEaoOBcK0Lzr07WN8KaK) | [iScreaM Vol.32 : Impossible Remix](https://open.spotify.com/album/7gkCgpkWn1jOOG4ndcwUjq) | 3:31 | 2024-06-05 |  |

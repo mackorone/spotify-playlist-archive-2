@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: Bloody Civilian
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,531 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,586 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,6 +72,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxnGhnykt9Y.md) - [plain]
 | 62 | [Okunkun](https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [Okunkun](https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe) | 2:39 |
 | 63 | [Para Para](https://open.spotify.com/track/2hsEI2Au5dxV6xIi2fDZbu) | [Somadina](https://open.spotify.com/artist/4C9EX8d2FnWMV2yQZqeG8U), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL) | [Para Para](https://open.spotify.com/album/4GfU2WhBitkhYa0MaDG93q) | 2:27 |
 | 64 | [Aye Kan \(Are You Coming Back?\) \[feat\. Ayra Starr\]](https://open.spotify.com/track/25jdAC3wA5yiwKkGD1n7t2) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Aye Kan \(Are You Coming Back?\) \[feat\. Ayra Starr\]](https://open.spotify.com/album/6qg58bqEAREvTlAo0ytie9) | 3:04 |
-| 65 | [Ganja](https://open.spotify.com/track/3joOpLP4AYXu3JZNqn3lVy) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Ganja](https://open.spotify.com/album/2MHPXShc0577dwkGVefsP1) | 2:58 |
+| 65 | [Something About Your Love \(Ganja\)](https://open.spotify.com/track/3joOpLP4AYXu3JZNqn3lVy) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [Something About Your Love \(Ganja\)](https://open.spotify.com/album/2MHPXShc0577dwkGVefsP1) | 2:58 |
 
 Snapshot ID: `AAAAAM7W8BR3ICsH/WHACfz1jS2whvUo`

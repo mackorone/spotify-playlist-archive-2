@@ -1,6 +1,6 @@
 {
   "description": "<3<3<3<3",
-  "num_followers": 948717,
+  "num_followers": 948618,
   "original_name": "Kilig Pa More",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-05-18 07:50:16",
       "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
-    },
-    {
-      "added_at": "2026-05-18 07:50:16",
-      "album": {
         "name": "Silakbo",
         "url": "https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 249375,
       "name": "Pahina",
       "url": "https://open.spotify.com/track/0jGL1ApJ7QrVWL7nRqLdij"
+    },
+    {
+      "added_at": "2026-05-18 07:50:16",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
       "added_at": "2026-05-18 07:50:16",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-05-18 07:50:16",
       "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 190779,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
-    },
-    {
-      "added_at": "2026-05-18 07:50:16",
-      "album": {
         "name": "Bawat Daan",
         "url": "https://open.spotify.com/album/7GSSjug24nXU7g1FVVwhUX"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 300240,
       "name": "Bawat Daan",
       "url": "https://open.spotify.com/track/1hJtJvPX9knMysNDQw0HDJ"
+    },
+    {
+      "added_at": "2026-05-18 07:50:16",
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 190779,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4"
     }
   ],
   "unique_name": "Kilig Pa More",

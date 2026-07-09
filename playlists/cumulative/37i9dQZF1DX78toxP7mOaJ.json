@@ -9792,7 +9792,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 225360,
       "name": "Deadlift",
       "url": "https://open.spotify.com/track/2z8aRXBy1B7iexJLLQ876Q"
@@ -10704,7 +10704,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 178083,
       "name": "Diversion",
       "url": "https://open.spotify.com/track/35GsI9rs2Ogsqa34WyIx8w"
@@ -12178,7 +12178,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 187133,
       "name": "Emulator",
       "url": "https://open.spotify.com/track/684SXwWxyTuXI6tV2MdU7A"
@@ -20375,6 +20375,24 @@
     },
     {
       "album": {
+        "name": "Irish Goodbye",
+        "url": "https://open.spotify.com/album/1rPlrXA6bUG2d9mWldd48B"
+      },
+      "artists": [
+        {
+          "name": "STAB",
+          "url": "https://open.spotify.com/artist/4U3Uica7GFiJrXV3q6C3Xy"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165447,
+      "name": "Irish Goodbye",
+      "url": "https://open.spotify.com/track/53xNq9tMCcCHHPVSa5VTQs"
+    },
+    {
+      "album": {
         "name": "PLOSIVS",
         "url": "https://open.spotify.com/album/1RPiFWW3mrwX8XpqRwrfVd"
       },
@@ -20736,7 +20754,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 261931,
       "name": "ITS FINE",
       "url": "https://open.spotify.com/track/1EMj53LeX6IOKcLsdM5LIV"
@@ -32463,6 +32481,24 @@
     },
     {
       "album": {
+        "name": "Sense",
+        "url": "https://open.spotify.com/album/7qUHeqGf6QZCqj26sC9vcI"
+      },
+      "artists": [
+        {
+          "name": "alphabet",
+          "url": "https://open.spotify.com/artist/6XcO14dMsawxjyAJOcmjM2"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180672,
+      "name": "Sense",
+      "url": "https://open.spotify.com/track/70TXJsR6Frgr0deijwXg6K"
+    },
+    {
+      "album": {
         "name": "Seoul",
         "url": "https://open.spotify.com/album/6In2brueDbHP59jDfPjmJM"
       },
@@ -32914,7 +32950,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 356146,
       "name": "Sidestep",
       "url": "https://open.spotify.com/track/2DKlZoozJDcMUMhZd6wB2J"
@@ -33224,6 +33260,24 @@
       "duration_ms": 168974,
       "name": "Skinny Brittle Bones",
       "url": "https://open.spotify.com/track/14uNisaAuHwalExIW0KTMV"
+    },
+    {
+      "album": {
+        "name": "skyrim iii",
+        "url": "https://open.spotify.com/album/3AYi45KYRwAK4eBdp3WeoX"
+      },
+      "artists": [
+        {
+          "name": "The world is against you",
+          "url": "https://open.spotify.com/artist/5jsUB6RwIhNXHZMUGskMpz"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239441,
+      "name": "skyrim iii",
+      "url": "https://open.spotify.com/track/6iJfIWtjrvGM4dZiM5jYo1"
     },
     {
       "album": {
@@ -35260,6 +35314,24 @@
       "duration_ms": 115272,
       "name": "Still Here",
       "url": "https://open.spotify.com/track/7bdt7iOOTrmejd6nsXdgjq"
+    },
+    {
+      "album": {
+        "name": "Still Learning",
+        "url": "https://open.spotify.com/album/48nAu7t2n8T3YXJLvgj6l0"
+      },
+      "artists": [
+        {
+          "name": "Queen of Jeans",
+          "url": "https://open.spotify.com/artist/61HFuOrTUb63I9b11WdnqL"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212081,
+      "name": "Still Learning",
+      "url": "https://open.spotify.com/track/24B8hFiK8oH1Bb33DrS2Fm"
     },
     {
       "album": {
@@ -39027,6 +39099,24 @@
     },
     {
       "album": {
+        "name": "Tough",
+        "url": "https://open.spotify.com/album/3lqh7BTgGDNfazepPgSU3z"
+      },
+      "artists": [
+        {
+          "name": "Faker Streets",
+          "url": "https://open.spotify.com/artist/5fl7MrhmaUgE8flYAmZ0VV"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172440,
+      "name": "Tough",
+      "url": "https://open.spotify.com/track/05c24M6IA8m5XTkD73pk0U"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/6ixkDI2gLa23HxH41GodvN"
       },
@@ -39402,6 +39492,24 @@
       "duration_ms": 115228,
       "name": "Tuning In",
       "url": "https://open.spotify.com/track/3FOxK4zKJp5yCVqZPFIm5a"
+    },
+    {
+      "album": {
+        "name": "Tunnel To Our Bliss",
+        "url": "https://open.spotify.com/album/3exZ6BpxUPnZJCDwqNvRmM"
+      },
+      "artists": [
+        {
+          "name": "Gloam",
+          "url": "https://open.spotify.com/artist/2zwYNju2bf13ZXGJRjOMah"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239874,
+      "name": "Tunnel To Our Bliss",
+      "url": "https://open.spotify.com/track/2fXWdC9DOlJY4TE0d180L4"
     },
     {
       "album": {

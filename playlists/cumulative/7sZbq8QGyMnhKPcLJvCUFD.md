@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-868 songs - 1 day 19 hr 5 min
+869 songs - 1 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -551,6 +551,7 @@
 | [Oblivion](https://open.spotify.com/track/6bN5PBFSID6w7Uhmachnda) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0) | [Oblivion](https://open.spotify.com/album/3OIFSAU72optxkAdxjyoUF) | 3:50 | 2023-08-08 | 2024-01-13 |
 | [Obsession](https://open.spotify.com/track/5uyPa82qavxzj8sC7qc3tA) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Obsession](https://open.spotify.com/album/0Sr7BLnV9KealMqokmrn8Z) | 3:24 | 2024-11-07 |  |
 | [Ocean](https://open.spotify.com/track/6iao1DsXUyrLkiZEdReWWe) | [Seanyy](https://open.spotify.com/artist/4DbChsJmRzdzXcTGKOIQEN) | [Ocean](https://open.spotify.com/album/36pd0bzUSPbvJtSSO7rCSg) | 2:48 | 2025-01-07 |  |
+| [off2](https://open.spotify.com/track/4pJgvtqmr1Bw3WbD4I4W7x) | [jonty](https://open.spotify.com/artist/6YJHE94iyYJhyxsg8QKXT2) | [off2](https://open.spotify.com/album/2Z3a2Q7YlbR1Setbl6Smx4) | 3:39 | 2026-07-08 |  |
 | [OFFLINE](https://open.spotify.com/track/1OJCShDuK5Nt65EvtzOKER) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [eerie](https://open.spotify.com/artist/34Ms8SDF1EGvcSULOKjgaV) | [OFFLINE](https://open.spotify.com/album/35HuahdvG1p9pFHllhSAAX) | 2:39 | 2024-07-11 |  |
 | [Oh My Gawd](https://open.spotify.com/track/3wBFnFG8GTTdY6VzMyJ1wQ) | [Crushed Candy](https://open.spotify.com/artist/14eHJcsWsxWq4UjaXBvmJ1) | [Oh My Gawd](https://open.spotify.com/album/3VRnwIygZQl33g9i4C2L5Q) | 2:04 | 2024-02-06 | 2024-09-29 |
 | [Old School](https://open.spotify.com/track/2H1M1zD08kZI5GuG4smljN) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Old School](https://open.spotify.com/album/5TZ5biaTPYvsVqw1VPsQQ5) | 2:44 | 2022-07-08 | 2023-04-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > where future beats meet timeless soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,791 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,816 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 21 | [Elm](https://open.spotify.com/track/0wgC8RFkVlCV082J6E2Lfe) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Elm](https://open.spotify.com/album/25t2b2lJcV28ZwmZo75ENB) | 3:47 |
 | 22 | [Dreams](https://open.spotify.com/track/3y724rQBroUUOfibQcqLnC) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Hadiya George](https://open.spotify.com/artist/1KbGFGECxJ5p23kuYlJ6l9) | [Free](https://open.spotify.com/album/0pAeOztdTpCdExPMEbziSn) | 3:15 |
 | 23 | [Busy Mind](https://open.spotify.com/track/5UY9ftnhAC2NCzw9yV5VHU) | [Geo Jordan](https://open.spotify.com/artist/6k11DSLFQUOXSROSDqQwBy) | [Busy Mind](https://open.spotify.com/album/6v3s9yGKeZjMOOtTiG1BuW) | 3:39 |
-| 24 | [Mr Drummer](https://open.spotify.com/track/5YXGOtVf9DLZ7NRLxZZG0q) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [Mr Drummer](https://open.spotify.com/album/0BqtvWcqu8sFYqQvxebA4Z) | 2:26 |
-| 25 | [Come Back Tomorrow](https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Come Back Tomorrow](https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO) | 3:22 |
+| 24 | [Come Back Tomorrow](https://open.spotify.com/track/3iiXaOBE26R8jjfaE44xNt) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [LYMA](https://open.spotify.com/artist/5RlTfdqlSGGASLxhDAHYtP) | [Come Back Tomorrow](https://open.spotify.com/album/6DYLBwfN0mZsODrCKxxwlO) | 3:22 |
+| 25 | [Mr Drummer](https://open.spotify.com/track/5YXGOtVf9DLZ7NRLxZZG0q) | [ROZZZQWEEN](https://open.spotify.com/artist/7EE9HI3pj86iVpw46vrhh5) | [Mr Drummer](https://open.spotify.com/album/0BqtvWcqu8sFYqQvxebA4Z) | 2:26 |
 | 26 | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/track/0XDA8IPloCFvf8c0ZNzRnB) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:05 |
 | 27 | [Delusional](https://open.spotify.com/track/6M5Y8sn5cXePK58bH1WKon) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Lifetime](https://open.spotify.com/album/5FheaW3Id8fdXnezRcgQ6Z) | 2:27 |
 | 28 | [Turn Me Inside](https://open.spotify.com/track/1dN55SR4aP4EpGdYcQpPb3) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [The Road To Hell Is Paved With Good Intentions](https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR) | 2:54 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 61 | [DAY&NITE](https://open.spotify.com/track/0SPsbPw8Vmv1dgjgN86UgV) | [Wilfy D](https://open.spotify.com/artist/42RD2DVYDZPVEVPYsGpsMR) | [DAY&NITE](https://open.spotify.com/album/10hFZkOt9rGav70EtYdVuB) | 3:25 |
 | 62 | [Naked](https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy) | 3:38 |
 | 63 | [UP DOWN BOUNCE](https://open.spotify.com/track/1inQivxnbFbeUyfeCWgg3Y) | [veggi](https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v), [daste.](https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT) | [UP DOWN BOUNCE](https://open.spotify.com/album/4Dm17A5CiFkuDAVSRTPQNd) | 3:08 |
-| 64 | [APRIL](https://open.spotify.com/track/6esx3Brxx4FR3Ko5miLCTB) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [APRIL](https://open.spotify.com/album/6enVPVB1Otbs8ufah2hvgS) | 2:58 |
+| 64 | [Heatwave](https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Saïna](https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9) | [Heatwave](https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv) | 2:34 |
 | 65 | [Serenity](https://open.spotify.com/track/6E1wMj9RapVx9yVajUPctG) | [TABLE](https://open.spotify.com/artist/3dVbynuMd3pZFhRF4X0Goy), [Kaesu](https://open.spotify.com/artist/2emygumeOS2U0GRdN4xgxZ) | [Serenity](https://open.spotify.com/album/1EMYcLuml95vQGCoAbb4aC) | 3:20 |
-| 66 | [Heatwave](https://open.spotify.com/track/3CXnsjKzy287gQ7WPtp3fF) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [Saïna](https://open.spotify.com/artist/0jcS0qoHrcByHrVFgc2UX9) | [Heatwave](https://open.spotify.com/album/3y5RpzFIsdyO5N9svU35Hv) | 2:34 |
-| 67 | [How Many Nights](https://open.spotify.com/track/3ValHbxPjEd6UuTPQKpj7p) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [How Many Nights](https://open.spotify.com/album/6nx9Yb3zNbus9uU2odXjdq) | 3:04 |
+| 66 | [APRIL](https://open.spotify.com/track/6esx3Brxx4FR3Ko5miLCTB) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [APRIL](https://open.spotify.com/album/6enVPVB1Otbs8ufah2hvgS) | 2:58 |
+| 67 | [Carry On](https://open.spotify.com/track/4bChVnAp7U1HdwOQuHmFfh) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Carmy Love](https://open.spotify.com/artist/62oPJocZP6ReE9tuvjaa1t), [Tommy Peach](https://open.spotify.com/artist/0pAMM7OehSi8bjeTO7gfhG) | [Carry On](https://open.spotify.com/album/6lMuIxKOuMJHzJ5aivcvge) | 3:48 |
 | 68 | [Morning Light \(feat\. Andreya Triana\)](https://open.spotify.com/track/74BzzNL9WKXyUd7vzh2hz3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Dancing While Falling](https://open.spotify.com/album/0OQDgPsunDOfPiRAuS87ng) | 3:31 |
-| 69 | [Carry On](https://open.spotify.com/track/4bChVnAp7U1HdwOQuHmFfh) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Carmy Love](https://open.spotify.com/artist/62oPJocZP6ReE9tuvjaa1t), [Tommy Peach](https://open.spotify.com/artist/0pAMM7OehSi8bjeTO7gfhG) | [Carry On](https://open.spotify.com/album/6lMuIxKOuMJHzJ5aivcvge) | 3:48 |
+| 69 | [How Many Nights](https://open.spotify.com/track/3ValHbxPjEd6UuTPQKpj7p) | [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [How Many Nights](https://open.spotify.com/album/6nx9Yb3zNbus9uU2odXjdq) | 3:04 |
 | 70 | [Stars](https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Stars](https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ) | 2:45 |
 
 Snapshot ID: `AAAAABjqf0RxFQe5PzfIqhiP/8fTQFFo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > Sophia Stel is sooo smooth with it 🎶 metropolis is your home for the best indie dance
 
-[Spotify](https://open.spotify.com/user/spotify) - 870,135 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 870,093 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,15 +13,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 3 | [Please Don’t Go](https://open.spotify.com/track/3Vts3XadQYgFxql1hSyu3f) | [TEED](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [DJ\-Kicks: TEED](https://open.spotify.com/album/0JBsu60WuAjdgmNwBsqeDD) | 4:31 |
 | 4 | [Beautiful Noise In My Head](https://open.spotify.com/track/2GoLYTvdOKOTNJYOBUk7N6) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [Beautiful Noise In My Head](https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N) | 3:31 |
 | 5 | [Return To Bhibo](https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Return To Bhibo](https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc) | 2:37 |
-| 6 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
-| 7 | [Your Lovin'](https://open.spotify.com/track/1CzwbuxixZXvQjfvNqsK8d) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Your Lovin'](https://open.spotify.com/album/2IBfTB4yaFwniF9lzIm1be) | 3:27 |
-| 8 | [Runaways](https://open.spotify.com/track/2q0t6NVVxNPWXAxjZ5qIXX) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Runaways](https://open.spotify.com/album/2XujCWDs7X273KosEKxzIo) | 4:29 |
-| 9 | [Scaredy Cat](https://open.spotify.com/track/4PBC9r8oe5Dx1saEa9TMFh) | [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ) | [Scaredy Cat](https://open.spotify.com/album/5lPOYWG9IOV8iFrQLZ4fhn) | 2:29 |
-| 10 | [Girl, Hold Tight \(Marsha P\)](https://open.spotify.com/track/6zUqRyiM0Z86ipTp9bV9YP) | [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc) | [Girl, Hold Tight \(Marsha P\)](https://open.spotify.com/album/06s6iY1lmCMlHy3Iu8lTdw) | 3:16 |
-| 11 | [Every Single Weekend \(feat\. Jamie xx\)](https://open.spotify.com/track/0nac7FVmtrYm0O3Iu27ijo) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Every Single Weekend \(feat\. Jamie xx\)](https://open.spotify.com/album/0bDV16KDFYNix2fGuUQ6cw) | 2:10 |
-| 12 | [espiral](https://open.spotify.com/track/1BGmn3of8EaszOvSdnASwY) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [espiral](https://open.spotify.com/album/4ZHMWkHggFiceto49B8oJQ) | 3:39 |
-| 13 | [Me and You](https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Me and You](https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD) | 3:49 |
-| 14 | [Bedroom Eyes](https://open.spotify.com/track/3qOzschVOffCPjbac03qyB) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Bedroom Eyes](https://open.spotify.com/album/39WBNLBTWcHWdik02WZUy8) | 3:36 |
+| 6 | [Bedroom Eyes](https://open.spotify.com/track/3qOzschVOffCPjbac03qyB) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Bedroom Eyes](https://open.spotify.com/album/39WBNLBTWcHWdik02WZUy8) | 3:36 |
+| 7 | [Magnetic](https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Magnetic / Addicted To Your Love](https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8) | 3:01 |
+| 8 | [Your Lovin'](https://open.spotify.com/track/1CzwbuxixZXvQjfvNqsK8d) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Your Lovin'](https://open.spotify.com/album/2IBfTB4yaFwniF9lzIm1be) | 3:27 |
+| 9 | [Runaways](https://open.spotify.com/track/2q0t6NVVxNPWXAxjZ5qIXX) | [Midnight Generation](https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq) | [Runaways](https://open.spotify.com/album/2XujCWDs7X273KosEKxzIo) | 4:29 |
+| 10 | [Scaredy Cat](https://open.spotify.com/track/4PBC9r8oe5Dx1saEa9TMFh) | [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ) | [Scaredy Cat](https://open.spotify.com/album/5lPOYWG9IOV8iFrQLZ4fhn) | 2:29 |
+| 11 | [Girl, Hold Tight \(Marsha P\)](https://open.spotify.com/track/6zUqRyiM0Z86ipTp9bV9YP) | [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc) | [Girl, Hold Tight \(Marsha P\)](https://open.spotify.com/album/06s6iY1lmCMlHy3Iu8lTdw) | 3:16 |
+| 12 | [Every Single Weekend \(feat\. Jamie xx\)](https://open.spotify.com/track/0nac7FVmtrYm0O3Iu27ijo) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Every Single Weekend \(feat\. Jamie xx\)](https://open.spotify.com/album/0bDV16KDFYNix2fGuUQ6cw) | 2:10 |
+| 13 | [espiral](https://open.spotify.com/track/1BGmn3of8EaszOvSdnASwY) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [espiral](https://open.spotify.com/album/4ZHMWkHggFiceto49B8oJQ) | 3:39 |
+| 14 | [Me and You](https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Me and You](https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD) | 3:49 |
 | 15 | [Hurt Nobody](https://open.spotify.com/track/7pPskSvN203zIew4AgRM2E) | [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ) | [Hurt Nobody](https://open.spotify.com/album/7sp0zG7BlTWuLUKkMUYg48) | 2:57 |
 | 16 | [Goes Like](https://open.spotify.com/track/05p4Ruz6Pg0X3IuyZ3BbBR) | [From Dave](https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6), [That Franco](https://open.spotify.com/artist/7g1wGpkV1xFxx6APTrp7bv) | [Goes Like](https://open.spotify.com/album/2FeWQKBnsphp5N5xyCuBXZ) | 2:49 |
 | 17 | [Round The Block](https://open.spotify.com/track/5Bxxp1dWac7F4sOI3jK0OG) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [Jane](https://open.spotify.com/artist/14DueMqxGvc2A8DPSXMpTk) | [Round The Block](https://open.spotify.com/album/78DEb7OzxItyfsHEUpedmo) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [MOVEMENT](https://open.spotify.com/track/31sJ3wOwiCIZu1iMLJVv8t) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [MOVEMENT](https://open.spotify.com/album/1Ai8Fe6169Y9K0sXUHbEyQ) | 3:27 |
 | 100 | [Stars Above](https://open.spotify.com/track/36vtpWkQyA2wTxkH8taIHg) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG), [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [Stars Above](https://open.spotify.com/album/2fg5mQkGQRT3ELk0KZeu6B) | 3:10 |
 
-Snapshot ID: `AAAAALddcxkgFnI8Nf2+vEll3575+rK9`
+Snapshot ID: `AAAAAIjeSpEQkm3EXW4lDEzhto7ArRCd`

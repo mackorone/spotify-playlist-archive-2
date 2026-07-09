@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-727 songs - 1 day 15 hr 12 min
+728 songs - 1 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,8 @@
 | [Love For Sale](https://open.spotify.com/track/3RJ2CnHGlmBLsoVqaMfAM0) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [SESJUN RADIO SHOWS VOL.2](https://open.spotify.com/album/7FAkmTKo6gCz6n3xiwTk4J) | 12:11 | 2025-04-26 | 2025-06-28 |
 | [Love for Sale](https://open.spotify.com/track/0p5Df2XUUruI1V1elo23m0) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Florida All\-State Jazz Band](https://open.spotify.com/artist/6zVzFtwpekOCnQZz1DLwT9), [R\. Gary Langford](https://open.spotify.com/artist/1sS9xOnOQYoIO0EhxnuLuY) | [2012 Florida Music Educators Association \(FMEA\): All\-State Jazz Band & High School Honors Band](https://open.spotify.com/album/6TGouryMaIbJWE451M9WjE) | 4:38 | 2026-05-23 |  |
 | [Love for Sale](https://open.spotify.com/track/36wqhQnRzcWU3wpG8fRGQA) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [Florida All\-State Jazz Band](https://open.spotify.com/artist/6zVzFtwpekOCnQZz1DLwT9), [R\. Gary Langford](https://open.spotify.com/artist/1sS9xOnOQYoIO0EhxnuLuY) | [2012 Florida Music Educators Association \(FMEA\): All\-State Jazz Band & High School Honors Band](https://open.spotify.com/album/52dFNXhMCZCA4vgJkrcjjE) | 4:38 | 2025-08-01 | 2026-05-24 |
-| [Love of My Life](https://open.spotify.com/track/0lPQauqohdW8CzOpc56XJF) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Love Remembers](https://open.spotify.com/album/6AgPMm0r965vD5ehqvpo3f) | 4:14 | 2025-07-10 |  |
+| [Love of My Life](https://open.spotify.com/track/0lPQauqohdW8CzOpc56XJF) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Love Remembers](https://open.spotify.com/album/6AgPMm0r965vD5ehqvpo3f) | 4:14 | 2025-07-10 | 2026-07-09 |
+| [Love of My Life](https://open.spotify.com/track/2je2qB3Gvp6WRkWJx8klsO) | [Marc Martel](https://open.spotify.com/artist/2JddlNuXFdAGQorDMTAOmy) | [Thunderbolt and Lightning](https://open.spotify.com/album/2H8cmrD7gCaEF05dqj0PP1) | 3:24 | 2026-07-08 |  |
 | [Main Title](https://open.spotify.com/track/0AGEG5WMr1nVVe6MNlSVib) | [Cole Porter \(composer\)](https://open.spotify.com/artist/2MlrdhziMAogDail35dBMR) | [Silk Stockings \(1957 Film Original Score\)](https://open.spotify.com/album/0DILJjdh0kZanhSVd0jPvL) | 1:59 | 2025-06-27 | 2025-10-31 |
 | [Main Title \(Silk Stockings\)](https://open.spotify.com/track/09aEMOsr0lsl5sE2ArDpVj) | [MGM Studio Orchestra](https://open.spotify.com/artist/2EjrRJZBrUhYqcgmYF69N1), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Silk Stockings \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg) | 1:59 | 2025-10-30 |  |
 | [Main Titles](https://open.spotify.com/track/0EC669zWXQlHL4Sa6GR1Qh) | [Original Soundtrack](https://open.spotify.com/artist/3huVQoEWdqUTvlYpFVUHcF) | [Evil Under The Sun \- Music By Cole Porter](https://open.spotify.com/album/5vaF9smmAAsU9HpImD7EzI) | 2:56 | 2025-05-31 |  |

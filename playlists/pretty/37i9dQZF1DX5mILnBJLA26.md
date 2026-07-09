@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves right now\. Mixes available on Premium\. Cover: TxC
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,241,813 likes - 50 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,242,293 likes - 50 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [CNT BLIV IT \(feat\. Mmambo The Voice of God, FaroQii MuziQ & Kwanda MusiQ\)](https://open.spotify.com/track/6dpzvi6czcclpLN1pQsG5x) | [Carter IV](https://open.spotify.com/artist/6AKhNwrvLRa7X9xratTu8s), [DoouShii](https://open.spotify.com/artist/0sN5oRkFliiyjSNqPIEjML), [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Mmambo The Voice of God](https://open.spotify.com/artist/7829SNNP5Je3lwPNXClj35), [FaroQii MuziQ](https://open.spotify.com/artist/2keOUycCAHyhhSAoFgpFQc), [Kwanda MusiQ](https://open.spotify.com/artist/0BrNnaV5kR1UNFm2q05Jzb) | [CNT BLIV IT \(feat\. Mmambo The Voice of God, FaroQii MuziQ & Kwanda MusiQ\)](https://open.spotify.com/album/7aqfuZUpkWwduE35B8bEGr) | 6:39 |
 | 50 | [YOH HAI](https://open.spotify.com/track/4xostLFvR5kjpfJkGBvIkB) | [M00tion](https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j), [Brodie.Bro](https://open.spotify.com/artist/6Bihlnnu6mcDgw7wEBjwB7) | [YOH HAI](https://open.spotify.com/album/0JH6kU6ImkqLrnDwk117VK) | 6:35 |
 
-Snapshot ID: `AAAAALB0LUwzktvI/vOrUpI5jN+Lta/k`
+Snapshot ID: `AAAAACyvsTnHKNBgeU/EbpTI++LM8Jjb`

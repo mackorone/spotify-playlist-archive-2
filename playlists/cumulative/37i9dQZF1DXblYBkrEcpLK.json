@@ -1565,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "CRIMSON BULLET",
+        "url": "https://open.spotify.com/album/22BbEtt6cGo4diABXKfUhC"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222166,
+      "name": "CRIMSON BULLET",
+      "url": "https://open.spotify.com/track/1RxsSwQNbe18OJNHxODK9x"
+    },
+    {
+      "album": {
         "name": "\u661f\u7a7a",
         "url": "https://open.spotify.com/album/6lNbfCwhR1uygDRts9r2dY"
       },
@@ -2100,6 +2118,24 @@
       "duration_ms": 246893,
       "name": "Eternal Light",
       "url": "https://open.spotify.com/track/3uG7brmuuZ3wvajMrOf6L2"
+    },
+    {
+      "album": {
+        "name": "Every Summer",
+        "url": "https://open.spotify.com/album/75Yl2xYt8db9J4H4jF82yS"
+      },
+      "artists": [
+        {
+          "name": "eill",
+          "url": "https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191032,
+      "name": "Every Summer",
+      "url": "https://open.spotify.com/track/5nM0o5Jnr8k2Kfcm0Qjrb7"
     },
     {
       "album": {
@@ -4218,7 +4254,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 195035,
       "name": "LET'S JUST CRASH",
       "url": "https://open.spotify.com/track/759ghsR0JU5ykaiCDbB6li"
@@ -6118,7 +6154,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 237145,
       "name": "Reweave",
       "url": "https://open.spotify.com/track/1biDb1M2wIXtweXwY4Huhi"
@@ -9225,6 +9261,24 @@
     },
     {
       "album": {
+        "name": "\u305f\u308a\u306a\u3044",
+        "url": "https://open.spotify.com/album/3lLEAOFcIpzCTZn2ZaGaJk"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207544,
+      "name": "\u305f\u308a\u306a\u3044",
+      "url": "https://open.spotify.com/track/7vVkzs4nqxCsF2SY1JLbuQ"
+    },
+    {
+      "album": {
         "name": "\u3060\u304b\u3089\u5927\u4e08\u592b",
         "url": "https://open.spotify.com/album/3yS7LgiXQbNzNdY2W94tRa"
       },
@@ -9614,7 +9668,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 255615,
       "name": "\u3078\u3073",
       "url": "https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz"
@@ -10036,7 +10090,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 242495,
       "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
       "url": "https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P"
@@ -12221,6 +12275,24 @@
     },
     {
       "album": {
+        "name": "\u30e6\u30fc\u30ec\u30ab\u30fb\u30a8\u30f4\u30ea\u30ab",
+        "url": "https://open.spotify.com/album/7HIUZurOb6D7njS8ZpPs6L"
+      },
+      "artists": [
+        {
+          "name": "\u4e94\u963f\u5f25\u30eb\u30ca",
+          "url": "https://open.spotify.com/artist/6XpeGgtA0Z7973S5G8ocsw"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237868,
+      "name": "\u30e6\u30fc\u30ec\u30ab\u30fb\u30a8\u30f4\u30ea\u30ab",
+      "url": "https://open.spotify.com/track/6rAEhMCtqizqu2sKQ4b9TI"
+    },
+    {
+      "album": {
         "name": "\u30e8\u30c0\u30ab",
         "url": "https://open.spotify.com/album/3jTKNvug9FVJgwACEYIvT6"
       },
@@ -12536,7 +12608,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 226000,
       "name": "\u30ef\u30fc\u30eb\u30c9\u30a4\u30ba\u30de\u30a4\u30f3 - \u304b\u3050\u3084&\u6708\u898b\u30e4\u30c1\u30e8 ver. - CPK! Remix",
       "url": "https://open.spotify.com/track/0LswwmDZ6Qk26ZgVRf7aMO"
@@ -13082,6 +13154,24 @@
       "duration_ms": 252800,
       "name": "\u541b\u8272\u306e\u30ad\u30bb\u30ad",
       "url": "https://open.spotify.com/track/5d10Tu1j69HhxAemyvALHH"
+    },
+    {
+      "album": {
+        "name": "\u547d\u77ed\u3057\u5bfe\u3059\u308b\u4e59\u5973\u3088",
+        "url": "https://open.spotify.com/album/5bHN3dSjlEq7AX09q4U9dC"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228745,
+      "name": "\u547d\u77ed\u3057\u5bfe\u3059\u308b\u4e59\u5973\u3088",
+      "url": "https://open.spotify.com/track/3uXfyndmsK3fRNSMr7uWrI"
     },
     {
       "album": {

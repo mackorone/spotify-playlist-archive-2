@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Vishwanath & Sons",
-  "num_followers": 752904,
+  "num_followers": 752996,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHtkJbuvuRkb3xq2L6pex26L1Btp",
+  "snapshot_id": "AAAAAJFiDDAL+raSazo0QnhWVs6tgPva",
   "tracks": [
     {
       "added_at": "2026-06-19 13:18:18",
@@ -255,6 +255,34 @@
       "duration_ms": 105046,
       "name": "The Wild Theme (From \"OM Chapter 1: Udhiram - The Blood Wood\")",
       "url": "https://open.spotify.com/track/0uExLQym0YauTNhuLJGcps"
+    },
+    {
+      "added_at": "2026-07-08 06:12:22",
+      "album": {
+        "name": "The Rise of GDN (From \"G.D.N.\")",
+        "url": "https://open.spotify.com/album/0q7dQTfaIzfrkkUoShIbco"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Maalavika Sundar",
+          "url": "https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP"
+        },
+        {
+          "name": "JAXK",
+          "url": "https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq"
+        },
+        {
+          "name": "Senthuzhan",
+          "url": "https://open.spotify.com/artist/70FG3TFLKDHaIiT9QcxWQX"
+        }
+      ],
+      "duration_ms": 215409,
+      "name": "The Rise of GDN (From \"G.D.N.\")",
+      "url": "https://open.spotify.com/track/4WH0z1XvtjJvgEKbsgQjwt"
     },
     {
       "added_at": "2026-06-24 12:09:40",

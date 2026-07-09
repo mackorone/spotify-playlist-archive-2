@@ -60,7 +60,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 170200,
       "name": "2012",
       "url": "https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz"
@@ -426,6 +426,24 @@
       "duration_ms": 198400,
       "name": "Ein Kompliment",
       "url": "https://open.spotify.com/track/5QRkWkMabF6HJmQQm2HBVX"
+    },
+    {
+      "album": {
+        "name": "LIEBE",
+        "url": "https://open.spotify.com/album/4N5wA71510rh5zJlRpgXAU"
+      },
+      "artists": [
+        {
+          "name": "Mark Forster",
+          "url": "https://open.spotify.com/artist/7qXzy6c5RWT0XlVQcOBIDG"
+        }
+      ],
+      "date_added": "2026-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197218,
+      "name": "Einmal",
+      "url": "https://open.spotify.com/track/4MshU1BZjRZjXtoSpaOJlL"
     },
     {
       "album": {

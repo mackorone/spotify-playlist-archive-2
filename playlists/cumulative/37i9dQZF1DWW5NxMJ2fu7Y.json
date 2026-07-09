@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "3DABI",
+        "url": "https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        }
+      ],
+      "date_added": "2026-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "3DABI",
+      "url": "https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA"
+    },
+    {
+      "album": {
         "name": "CasaBlanche",
         "url": "https://open.spotify.com/album/3wqxLm5QrnDXwlHDAies2R"
       },
@@ -1104,7 +1122,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 131866,
       "name": "Iceburg",
       "url": "https://open.spotify.com/track/3BuKmbS7uuXaAmU19xgT5j"

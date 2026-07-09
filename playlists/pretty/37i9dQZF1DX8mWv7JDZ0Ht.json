@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Bryan Behr",
-  "num_followers": 434346,
+  "num_followers": 434330,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-07-03 03:00:51",
       "album": {
-        "name": "Quando me ver passar",
-        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 134753,
-      "name": "Quando me ver passar",
-      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
-    },
-    {
-      "added_at": "2026-07-03 03:00:51",
-      "album": {
         "name": "Emaranhei",
         "url": "https://open.spotify.com/album/75Q84Fp94DPjOYcxTtKUTR"
       },
@@ -303,22 +287,6 @@
     {
       "added_at": "2026-07-03 03:00:51",
       "album": {
-        "name": "Inimagin\u00e1vel (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1AjehfvtwQTt5vFZMbv8Ue"
-      },
-      "artists": [
-        {
-          "name": "Rod Melim",
-          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
-        }
-      ],
-      "duration_ms": 189073,
-      "name": "M\u00e1gica - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B"
-    },
-    {
-      "added_at": "2026-07-03 03:00:51",
-      "album": {
         "name": "Am\u00e9frica",
         "url": "https://open.spotify.com/album/3p95Aemjr5mEnJa9SQ4ptE"
       },
@@ -331,6 +299,38 @@
       "duration_ms": 207378,
       "name": "Leve",
       "url": "https://open.spotify.com/track/5HUwsIIomfhD0D4jUwqnBu"
+    },
+    {
+      "added_at": "2026-07-03 03:00:51",
+      "album": {
+        "name": "Quando me ver passar",
+        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 134753,
+      "name": "Quando me ver passar",
+      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
+    },
+    {
+      "added_at": "2026-07-03 03:00:51",
+      "album": {
+        "name": "Inimagin\u00e1vel (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1AjehfvtwQTt5vFZMbv8Ue"
+      },
+      "artists": [
+        {
+          "name": "Rod Melim",
+          "url": "https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM"
+        }
+      ],
+      "duration_ms": 189073,
+      "name": "M\u00e1gica - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3FH8pFYgAjejTNrztxUU0B"
     },
     {
       "added_at": "2026-07-03 03:00:51",
@@ -355,6 +355,26 @@
     {
       "added_at": "2026-07-03 03:00:51",
       "album": {
+        "name": "Sess\u00e3o Da Tarde",
+        "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
+      },
+      "artists": [
+        {
+          "name": "Voraz",
+          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
+        },
+        {
+          "name": "Julies",
+          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+        }
+      ],
+      "duration_ms": 182784,
+      "name": "Sess\u00e3o Da Tarde",
+      "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
+    },
+    {
+      "added_at": "2026-07-03 03:00:51",
+      "album": {
         "name": "escapismo",
         "url": "https://open.spotify.com/album/2e8AFwkw8qVUo9rW4JgBUb"
       },
@@ -375,18 +395,22 @@
     {
       "added_at": "2026-07-03 03:00:51",
       "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+        "name": "BRava",
+        "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
       },
       "artists": [
         {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+          "name": "Jenni Mosello",
+          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
+        },
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
         }
       ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
+      "duration_ms": 189886,
+      "name": "FOME",
+      "url": "https://open.spotify.com/track/7sezrbvzwMphXpexbdJW6G"
     },
     {
       "added_at": "2026-07-03 03:00:51",
@@ -411,22 +435,18 @@
     {
       "added_at": "2026-07-03 03:00:51",
       "album": {
-        "name": "BRava",
-        "url": "https://open.spotify.com/album/0dywxqPyKMZLM4N39I8DcH"
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
       },
       "artists": [
         {
-          "name": "Jenni Mosello",
-          "url": "https://open.spotify.com/artist/6V7LnXA4LZLzPQtUm08c2v"
-        },
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
         }
       ],
-      "duration_ms": 189886,
-      "name": "FOME",
-      "url": "https://open.spotify.com/track/7sezrbvzwMphXpexbdJW6G"
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-07-03 03:00:51",
@@ -463,6 +483,22 @@
     {
       "added_at": "2026-07-03 03:00:51",
       "album": {
+        "name": "no seu tempo",
+        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 158922,
+      "name": "no seu tempo",
+      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
+    },
+    {
+      "added_at": "2026-07-03 03:00:51",
+      "album": {
         "name": "Outras Vezes",
         "url": "https://open.spotify.com/album/6defJhU5si8pQztkiXjt7K"
       },
@@ -479,22 +515,6 @@
       "duration_ms": 213000,
       "name": "Outras Vezes",
       "url": "https://open.spotify.com/track/7FoOpZUyq3XNEYjKRLXYWc"
-    },
-    {
-      "added_at": "2026-07-03 03:00:51",
-      "album": {
-        "name": "no seu tempo",
-        "url": "https://open.spotify.com/album/53O6paNKGZJT6rnyQuZaSg"
-      },
-      "artists": [
-        {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
-        }
-      ],
-      "duration_ms": 158922,
-      "name": "no seu tempo",
-      "url": "https://open.spotify.com/track/6KwCZfifvEqY083x0zcQjk"
     },
     {
       "added_at": "2026-07-03 03:00:51",
@@ -555,26 +575,6 @@
     {
       "added_at": "2026-07-03 03:00:51",
       "album": {
-        "name": "Sess\u00e3o Da Tarde",
-        "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
-      },
-      "artists": [
-        {
-          "name": "Voraz",
-          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
-        },
-        {
-          "name": "Julies",
-          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
-        }
-      ],
-      "duration_ms": 182784,
-      "name": "Sess\u00e3o Da Tarde",
-      "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
-    },
-    {
-      "added_at": "2026-07-03 03:00:51",
-      "album": {
         "name": "Raio de Sol",
         "url": "https://open.spotify.com/album/4xMVNUJLNLtSnsmSRbWUxp"
       },
@@ -615,22 +615,6 @@
     {
       "added_at": "2026-07-03 03:00:51",
       "album": {
-        "name": "Intimidade",
-        "url": "https://open.spotify.com/album/2ZbZTUDInvYRtNH51sWomj"
-      },
-      "artists": [
-        {
-          "name": "Bia Marques",
-          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
-        }
-      ],
-      "duration_ms": 179541,
-      "name": "Intimidade",
-      "url": "https://open.spotify.com/track/0sn0gJGcSzdDSHuNUkRFlm"
-    },
-    {
-      "added_at": "2026-07-03 03:00:51",
-      "album": {
         "name": "MINHA J\u00d3IA",
         "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 221961,
       "name": "MINHA J\u00d3IA",
       "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
+    },
+    {
+      "added_at": "2026-07-03 03:00:51",
+      "album": {
+        "name": "Intimidade",
+        "url": "https://open.spotify.com/album/2ZbZTUDInvYRtNH51sWomj"
+      },
+      "artists": [
+        {
+          "name": "Bia Marques",
+          "url": "https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R"
+        }
+      ],
+      "duration_ms": 179541,
+      "name": "Intimidade",
+      "url": "https://open.spotify.com/track/0sn0gJGcSzdDSHuNUkRFlm"
     },
     {
       "added_at": "2026-07-03 03:00:51",
@@ -707,26 +707,6 @@
     {
       "added_at": "2026-07-03 03:00:51",
       "album": {
-        "name": "10/10",
-        "url": "https://open.spotify.com/album/6Pc0LcsskzQ8CkTT6bpgrg"
-      },
-      "artists": [
-        {
-          "name": "Lara Estelita",
-          "url": "https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Calma, Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2PMQjmqO8zx7snTtDCemuM"
-    },
-    {
-      "added_at": "2026-07-03 03:00:51",
-      "album": {
         "name": "Muita Sede",
         "url": "https://open.spotify.com/album/6KPdqbAdr9hFFzOxfd9SmT"
       },
@@ -743,18 +723,22 @@
     {
       "added_at": "2026-07-03 03:00:51",
       "album": {
-        "name": "N\u00e3o H\u00e1 Nada Mais Honesto Que Um Sonho",
-        "url": "https://open.spotify.com/album/26qyuO801t5LJ8ApwgpB58"
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/6Pc0LcsskzQ8CkTT6bpgrg"
       },
       "artists": [
         {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+          "name": "Lara Estelita",
+          "url": "https://open.spotify.com/artist/1fzHqkke0WWhsbEa98HpgH"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
         }
       ],
-      "duration_ms": 211295,
-      "name": "Doente",
-      "url": "https://open.spotify.com/track/2oXtA7nfgRgwZOMt3RCu7L"
+      "duration_ms": 138000,
+      "name": "Calma, Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2PMQjmqO8zx7snTtDCemuM"
     },
     {
       "added_at": "2026-07-03 03:00:51",
@@ -779,22 +763,18 @@
     {
       "added_at": "2026-07-03 03:00:51",
       "album": {
-        "name": "Mar\u00e9 Alta",
-        "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
+        "name": "N\u00e3o H\u00e1 Nada Mais Honesto Que Um Sonho",
+        "url": "https://open.spotify.com/album/26qyuO801t5LJ8ApwgpB58"
       },
       "artists": [
         {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
-        },
-        {
-          "name": "Breno Duarte",
-          "url": "https://open.spotify.com/artist/33TltiqN8Nk5ve37wWS0QG"
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
         }
       ],
-      "duration_ms": 186363,
-      "name": "Barco de Papel",
-      "url": "https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG"
+      "duration_ms": 211295,
+      "name": "Doente",
+      "url": "https://open.spotify.com/track/2oXtA7nfgRgwZOMt3RCu7L"
     },
     {
       "added_at": "2026-07-03 03:00:51",
@@ -811,6 +791,26 @@
       "duration_ms": 183374,
       "name": "paix\u00e3o ou vaidade?",
       "url": "https://open.spotify.com/track/4jBzNfcYZTbvh5STIoGi4L"
+    },
+    {
+      "added_at": "2026-07-03 03:00:51",
+      "album": {
+        "name": "Mar\u00e9 Alta",
+        "url": "https://open.spotify.com/album/1e50tq2jUbPj7l7dAWmuGR"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        },
+        {
+          "name": "Breno Duarte",
+          "url": "https://open.spotify.com/artist/33TltiqN8Nk5ve37wWS0QG"
+        }
+      ],
+      "duration_ms": 186363,
+      "name": "Barco de Papel",
+      "url": "https://open.spotify.com/track/5HJ5FVhNpijyeYxFvGYeXG"
     },
     {
       "added_at": "2026-07-03 03:00:51",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-07-03 03:00:51",
       "album": {
-        "name": "Me Queimei",
-        "url": "https://open.spotify.com/album/3JnYQOaIKhSc8a7aVTBKTX"
-      },
-      "artists": [
-        {
-          "name": "Peu Heise",
-          "url": "https://open.spotify.com/artist/4Oem7hhYuxmPQr4sOrQbgS"
-        }
-      ],
-      "duration_ms": 161500,
-      "name": "Lua Cheia",
-      "url": "https://open.spotify.com/track/2WxYqChcFIQP0KARhMyEyb"
-    },
-    {
-      "added_at": "2026-07-03 03:00:51",
-      "album": {
         "name": "Vest\u00edgios",
         "url": "https://open.spotify.com/album/22GNKVFgtKmIwjyMU0WRwE"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 153714,
       "name": "Vest\u00edgios",
       "url": "https://open.spotify.com/track/6NbNukziHssaBCFssf7vIk"
+    },
+    {
+      "added_at": "2026-07-03 03:00:51",
+      "album": {
+        "name": "Me Queimei",
+        "url": "https://open.spotify.com/album/3JnYQOaIKhSc8a7aVTBKTX"
+      },
+      "artists": [
+        {
+          "name": "Peu Heise",
+          "url": "https://open.spotify.com/artist/4Oem7hhYuxmPQr4sOrQbgS"
+        }
+      ],
+      "duration_ms": 161500,
+      "name": "Lua Cheia",
+      "url": "https://open.spotify.com/track/2WxYqChcFIQP0KARhMyEyb"
     },
     {
       "added_at": "2026-07-03 03:00:51",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-07-03 03:00:51",
       "album": {
-        "name": "colete \u00e0 prova de m\u00e1goas",
-        "url": "https://open.spotify.com/album/0tdjBQv7Dqoprj1Aht7WNR"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 197389,
-      "name": "colete \u00e0 prova de m\u00e1goas",
-      "url": "https://open.spotify.com/track/5HTiDmpUXDEDzijCWwCuVN"
-    },
-    {
-      "added_at": "2026-07-03 03:00:51",
-      "album": {
         "name": "N\u00e3o \u00e9 t\u00e3o ruim",
         "url": "https://open.spotify.com/album/3fah8mi3tUSMKetWiJSjRx"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 120000,
       "name": "N\u00e3o \u00e9 t\u00e3o ruim",
       "url": "https://open.spotify.com/track/5eUT9JCc19zYLXH3Ukk27A"
+    },
+    {
+      "added_at": "2026-07-03 03:00:51",
+      "album": {
+        "name": "colete \u00e0 prova de m\u00e1goas",
+        "url": "https://open.spotify.com/album/0tdjBQv7Dqoprj1Aht7WNR"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 197389,
+      "name": "colete \u00e0 prova de m\u00e1goas",
+      "url": "https://open.spotify.com/track/5HTiDmpUXDEDzijCWwCuVN"
     },
     {
       "added_at": "2026-07-03 03:00:51",

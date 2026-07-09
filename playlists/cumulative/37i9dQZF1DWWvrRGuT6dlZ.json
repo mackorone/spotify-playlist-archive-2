@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: spilled milk. Artwork: Isu Kim.",
+  "description": "The best new music from fresh and emerging artists. Curated with love by human Spotify editors. Cover: Erika Foo. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -10927,6 +10927,24 @@
     },
     {
       "album": {
+        "name": "In Absence",
+        "url": "https://open.spotify.com/album/3nB8MJAXIEKTP825IywWYd"
+      },
+      "artists": [
+        {
+          "name": "The Baby Cosmos",
+          "url": "https://open.spotify.com/artist/4J5HK6rQIwVEgOZGG6JM4f"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288923,
+      "name": "In Absence",
+      "url": "https://open.spotify.com/track/1htBVSeU62QojxuN6IWiS4"
+    },
+    {
+      "album": {
         "name": "In Love With A Stranger",
         "url": "https://open.spotify.com/album/3qpLVDFsG622yX5FDBttHB"
       },
@@ -15364,6 +15382,24 @@
       "duration_ms": 205241,
       "name": "Naia",
       "url": "https://open.spotify.com/track/2LpCT4VqzktXxfGavoT1N7"
+    },
+    {
+      "album": {
+        "name": "Nama Yang Tersimpan",
+        "url": "https://open.spotify.com/album/2iLDC6mZCEiZnifKMVMviL"
+      },
+      "artists": [
+        {
+          "name": "Erika Foo",
+          "url": "https://open.spotify.com/artist/6TMspzuKPj0zCY0yTXTxn3"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259000,
+      "name": "Nama Yang Tersimpan",
+      "url": "https://open.spotify.com/track/0dYxzNxXYHKGMQarCg1IaM"
     },
     {
       "album": {
@@ -27920,6 +27956,24 @@
       "duration_ms": 258622,
       "name": "\u6ca1\u6709\u5f17\u6d1b\u4f0a\u5fb7\u5c31\u7ed9\u6211\u4e00\u5f20\u7ea2\u8272\u6c99\u53d1",
       "url": "https://open.spotify.com/track/00MUcb9hu2ADEcC9LR16Ha"
+    },
+    {
+      "album": {
+        "name": "\u738b\u5b50\u7684\u65b0\u8863",
+        "url": "https://open.spotify.com/album/1e1n3ymihZHeWdBNH04x7E"
+      },
+      "artists": [
+        {
+          "name": "Calvin \u674e\u5fe0\u4f26",
+          "url": "https://open.spotify.com/artist/1vJpjk0BTpwo8fJ6OEtl0C"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202406,
+      "name": "\u738b\u5b50\u7684\u65b0\u8863",
+      "url": "https://open.spotify.com/track/0ByCm3QWBWeshuDmpSMToW"
     },
     {
       "album": {

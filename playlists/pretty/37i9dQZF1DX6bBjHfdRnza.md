@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance tracks from independent artists & labels\. Featuring VIVI909\. Curated by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,594 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,612 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 32 | [Fino](https://open.spotify.com/track/4KjEoeioaLszOZuzqmP9RA) | [Desmond](https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY), [Dréya Mac](https://open.spotify.com/artist/03AVZyE7WnmLY4rTL1s0RP) | [Fino](https://open.spotify.com/album/55aF7PhVRfncm0eRNLzxrr) | 2:40 |
 | 33 | [This Song](https://open.spotify.com/track/6aWe4v68FDIuFJnT3jjmA2) | [SYREETA](https://open.spotify.com/artist/6NLeKpbb77Bgp6hPZjf6KJ) | [This Song](https://open.spotify.com/album/6IBxstqOeIUDGOz3wUjhk7) | 3:25 |
 | 34 | [THE SCIENTIST](https://open.spotify.com/track/7EqpD4HNExBWBfGDIvODr6) | [Ayce Bio](https://open.spotify.com/artist/1JJZyzSriYDxn3vp8piOWI) | [THE SCIENTIST](https://open.spotify.com/album/3dNUiOGMmL67IqxH2LWf37) | 2:22 |
-| 35 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [Daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
+| 35 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
 | 36 | [Terrified Of Love](https://open.spotify.com/track/27nrwUehIEZ3opRMH7TUls) | [Afriqua](https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp) | [Terrified Of Love](https://open.spotify.com/album/3rCXuB5QHc6EtsAl2H3g58) | 5:11 |
 | 37 | [Hands Up](https://open.spotify.com/track/5Zu20OykfA8tFpFU3RRTff) | [Jake Antonio](https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC) | [Hands Up](https://open.spotify.com/album/3mmI0RWmLjHSwW9a8uZVHv) | 5:21 |
 | 38 | [Trust Me](https://open.spotify.com/track/5qP8KF9stgPaaXuXu2Hj1I) | [Dunmore Brothers](https://open.spotify.com/artist/66IBwwjqDnQ18LFOtA687W), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM) | [Trust Me](https://open.spotify.com/album/7bjWBTStahgU0XbOWNkLoh) | 3:22 |

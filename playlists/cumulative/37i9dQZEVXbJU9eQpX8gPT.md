@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,128 songs - 4 day 19 hr 15 min
+2,129 songs - 4 day 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -936,7 +936,8 @@
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-22 | 2023-08-03 |
 | [KA3I](https://open.spotify.com/track/1UKmPtidnG6bweLNSF60b5) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:20 | 2025-01-10 | 2025-09-13 |
 | [kafini](https://open.spotify.com/track/6uEdcdlgbHfMx6HrhSjBgB) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [kafini](https://open.spotify.com/album/6Pua6hPDd8D5lMt3G8HTWp) | 3:01 | 2025-07-30 | 2026-03-29 |
-| [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 | 2026-07-03 |  |
+| [Kakalika](https://open.spotify.com/track/1p5F0slR5AF49EDX5o125x) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/2cb3UP2H7uVkZv1a2sLasK) | 3:01 | 2026-07-03 | 2026-07-09 |
+| [Kakalika](https://open.spotify.com/track/02vY98sHUwSXBMXrsAYphY) | [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Kakalika](https://open.spotify.com/album/7LwGyR4Zbpi1XcUU6APIu6) | 3:01 | 2026-07-08 |  |
 | [Kakashi](https://open.spotify.com/track/0EpG2fTjxBAz2nyKt6Cq9D) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Kakashi](https://open.spotify.com/album/74JRTNk5LGQy3lrWH5MZTP) | 4:48 | 2024-06-14 | 2024-06-25 |
 | [Kakashi](https://open.spotify.com/track/5C0xjFpBtcSSA3MDRghEee) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Champion](https://open.spotify.com/album/2mQJkHDgHmV19m9tbkULA5) | 4:48 | 2024-06-25 | 2024-10-01 |
 | [Kakashi](https://open.spotify.com/track/7GmpVT1uBYTLAlHQfYXjbt) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [Champion](https://open.spotify.com/album/6C0uQkOm3MCXKLnoMv4flp) | 4:48 | 2024-06-24 | 2024-06-26 |
@@ -1257,7 +1258,7 @@
 | [MINUIT D'APRÈS](https://open.spotify.com/track/55pzc28mlzcpExm9yBw7US) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [MINUIT D'APRÈS](https://open.spotify.com/album/1J3tSpZ8R7Lrqu8zQPQw2v) | 3:03 | 2026-04-14 | 2026-04-19 |
 | [MIRACLE](https://open.spotify.com/track/0Tvxs4vFk1enA3TORHHmMu) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Miracle](https://open.spotify.com/album/5euNvWqq6drNsuB4waFBcI) | 2:36 | 2026-04-25 | 2026-04-29 |
 | [Mission](https://open.spotify.com/track/31GBHnt54ns1UD2CmAmTCW) | [Shobee](https://open.spotify.com/artist/5Et8bRmkENeaA7SPwj1OxL) | [HOWLS](https://open.spotify.com/album/3sJXIkVh7Fd31jVfyBPGmd) | 3:08 | 2023-06-24 | 2023-07-02 |
-| [Mizane](https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Mizane](https://open.spotify.com/album/0B3pwjGpRKXqwnzHiRsVKc) | 2:57 | 2024-02-13 | 2026-07-04 |
+| [Mizane](https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Mizane](https://open.spotify.com/album/0B3pwjGpRKXqwnzHiRsVKc) | 2:57 | 2024-02-13 |  |
 | [Mizane](https://open.spotify.com/track/5xQjkh8HwTSGAeQErejyhQ) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Mizane](https://open.spotify.com/album/3bkqMAcncddHFeAOxXT3qW) | 2:57 | 2021-03-27\* | 2021-07-04 |
 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-24 | 2023-05-09 |
 | [Mocro Mafia \(feat\. Maes\)](https://open.spotify.com/track/0r8Pe1yr2aw04IXFP00sC5) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [INNOCENTE \(Deluxe Edition\)](https://open.spotify.com/album/2YFcUMTsjVjOx4tdp3MmH3) | 3:14 | 2023-10-14 | 2023-11-25 |
@@ -1827,7 +1828,7 @@
 | [T\-max 560](https://open.spotify.com/track/3t3ffqI2DxrrAawarNtwGw) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:58 | 2021-11-28 | 2021-11-30 |
 | [T3EQDNA](https://open.spotify.com/track/5FXzuIVsWsm1etUoohqXNc) | [ELHAFIDY](https://open.spotify.com/artist/3GJvh5FBiMYYwvQW28SWng) | [SILENT BATTLES](https://open.spotify.com/album/4YYVqtKRTFNA5ORSC9tRmY) | 3:12 | 2026-02-03 | 2026-02-09 |
 | [Ta7t Jna7i](https://open.spotify.com/track/5aOWc0G39X0CAZejwoD3TQ) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Ta7t Jna7i](https://open.spotify.com/album/2Ea77e8dqrYZZtJELNzGfN) | 3:19 | 2022-11-05 | 2022-11-19 |
-| [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 | 2024-11-21 |  |
+| [TABOUT](https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j) | [KALIL](https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR) | [TABOUT](https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN) | 3:19 | 2024-11-21 | 2026-07-09 |
 | [Tach](https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tach](https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl) | 3:25 | 2025-08-23 |  |
 | [TAF TAF](https://open.spotify.com/track/6dTXGkUrNYmR8kSfr5MxmW) | [OldyGotTheSound](https://open.spotify.com/artist/5J1oH9bIdN8XDWOQuTZEIn), [Anys](https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [TAF TAF](https://open.spotify.com/album/5Qw3MvNZK4lOrEHYxl8nYE) | 2:18 | 2025-06-01 |  |
 | [Taff](https://open.spotify.com/track/1ax1hArCzxeVcnsFHnJCd5) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [YassineBeats](https://open.spotify.com/artist/1sBuaNJSSSQgG1cseKY7Hk) | [Ok Wait](https://open.spotify.com/album/3k9wutDahqiqO2YfohyG4d) | 3:10 | 2024-10-24 | 2024-10-26 |

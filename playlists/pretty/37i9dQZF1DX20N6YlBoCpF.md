@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Al die nuutste Afrikaanse musiek met Gerhard Steyn, Rooksein, Early B, Zoé en meer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,865 likes - 119 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,867 likes - 119 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

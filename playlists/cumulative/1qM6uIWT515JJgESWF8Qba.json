@@ -1957,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/4o0dKj5YGNJX3NmM8SPY1g"
+      },
+      "artists": [
+        {
+          "name": "Darius Zaltash",
+          "url": "https://open.spotify.com/artist/6nL6fYu8ysN6yayyT24xgo"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215625,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/1mAJOvqasn4SzRgqvdmF52"
+    },
+    {
+      "album": {
         "name": "A Big Dose of Speed",
         "url": "https://open.spotify.com/album/1sJx1TPuMDsgnayaMF2SF7"
       },

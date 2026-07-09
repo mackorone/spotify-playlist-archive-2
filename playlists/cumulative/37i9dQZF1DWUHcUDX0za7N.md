@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Fimi
 
-785 songs - 1 day 12 hr 50 min
+786 songs - 1 day 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [CHANGE AM](https://open.spotify.com/track/6sDacNyxcOBkYQ5URsVd24) | [Jake Doe](https://open.spotify.com/artist/6ya83yRCbdYDSSMHWp8wWU) | [Yours Unfaithfully](https://open.spotify.com/album/4xvlrR1wtd9unOqq1xMkEN) | 2:31 | 2023-03-25 | 2023-03-31 |
 | [Chariots of Fire](https://open.spotify.com/track/1buwbAgQwuMW6Sdm3NUyDX) | [EESKAY](https://open.spotify.com/artist/5MizvxELHVyrYak9VwOUbG) | [F\*\*Ck Cu 2: Twilight Serenade](https://open.spotify.com/album/5ysXLTzaB1KXHYIgekwzRl) | 3:42 | 2025-02-21 | 2025-03-29 |
 | [Check It](https://open.spotify.com/track/7yxDY4iSzYHdTY926xhEGs) | [Most Likely](https://open.spotify.com/artist/22vFHWWAkCnZHkyvzaVqZt), [Rigo Kamp](https://open.spotify.com/artist/0n0e9TWjXHyTN3G1zU6Y6i) | [Check It](https://open.spotify.com/album/2kUbBBPDfAzMMpAFIeL9eK) | 2:14 | 2025-07-11 | 2025-07-18 |
+| [Chemistry](https://open.spotify.com/track/3bmC1rv9EFucw3pNxVCa2z) | [Monochrome](https://open.spotify.com/artist/5CuyARGesDksvuWHiMQdX2) | [+BORN 2 BE FLY°](https://open.spotify.com/album/4Zz1jqzzIN15tsGWaN52oU) | 1:53 | 2026-07-03 |  |
 | [CHISOM \(We Dem Boyz\)](https://open.spotify.com/track/68Urq9BWEfDCAU10njCU0a) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [CHISOM \(We Dem Boyz\)](https://open.spotify.com/album/7554y1U2CikUTRafTXj29N) | 3:01 | 2025-01-17 | 2025-07-18 |
 | [Chocolate & Caramel](https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhad Boi](https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm) | 2:41 | 2025-01-17 | 2025-07-31 |
 | [Choosey](https://open.spotify.com/track/3ARj9nbJqRHqAGWYIUJ8XR) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Choosey](https://open.spotify.com/album/5TuXEia8HdUU3I1CIK5ldq) | 3:06 | 2022-08-09 | 2022-11-16 |
@@ -271,7 +272,7 @@
 | [For Where?](https://open.spotify.com/track/1uBZovogMw6DSL2DkNOwnX) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [For Where?](https://open.spotify.com/album/6j2qGIcbWhbCx7NK8CXstK) | 1:53 | 2025-01-21 | 2026-01-15 |
 | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 | 2024-09-06 | 2025-10-19 |
 | [Forget](https://open.spotify.com/track/6xcvbEe9Mu2hldUUI7fK75) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lifestyle](https://open.spotify.com/album/3i6iYJyQpFNpsvFRr7a3o5) | 2:24 | 2025-08-15 | 2026-02-20 |
-| [Formular 1 \(feat\. PsychoYP\)](https://open.spotify.com/track/18EzbRHZ0XiENnxheh2cBu) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Akube Richard Millie + Formular 1 \(feat\. PsychoYP\)](https://open.spotify.com/album/0wyx85iUFZbbXrPkX0sIl8) | 2:36 | 2026-04-10 |  |
+| [Formular 1 \(feat\. PsychoYP\)](https://open.spotify.com/track/18EzbRHZ0XiENnxheh2cBu) | [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Akube Richard Millie + Formular 1 \(feat\. PsychoYP\)](https://open.spotify.com/album/0wyx85iUFZbbXrPkX0sIl8) | 2:36 | 2026-04-10 | 2026-07-09 |
 | [Free Service](https://open.spotify.com/track/0CbmiJiGy6sN4RJ75mJthR) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Free Service](https://open.spotify.com/album/0fpIqaXbLdgWB7gLybePVW) | 2:36 | 2024-10-12 |  |
 | [Frenemies](https://open.spotify.com/track/4E36I3slp0mrMJi5B2jX63) | [Bils](https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o) | [Frenemies](https://open.spotify.com/album/7yAck9wFhYhgzUMNO6B5ws) | 2:47 | 2024-03-01 | 2024-03-29 |
 | [Fuck That \(feat\. ODUMODUBLVCK\) \- Remix](https://open.spotify.com/track/2sKuOOhxWpXOTDcKiTitc9) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Fuck That \(Remix\)](https://open.spotify.com/album/2ZlSnhUh40vj76xvWw0ijr) | 3:25 | 2023-12-08 | 2024-03-01 |

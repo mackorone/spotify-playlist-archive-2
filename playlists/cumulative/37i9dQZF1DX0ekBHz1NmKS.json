@@ -24649,7 +24649,7 @@
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 187978,
+      "duration_ms": 188400,
       "name": "Midsummer",
       "url": "https://open.spotify.com/track/4zFTHnd6J02sxwaqiHCDbn"
     },
@@ -34212,7 +34212,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 214120,
       "name": "Srs Ice",
       "url": "https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R"
@@ -36692,6 +36692,24 @@
       "duration_ms": 173320,
       "name": "Taxin",
       "url": "https://open.spotify.com/track/6fVsYWoMw8kR0pudjjEUb0"
+    },
+    {
+      "album": {
+        "name": "Te Dua",
+        "url": "https://open.spotify.com/album/3xMa4qt4EZrhR8H2y55Kke"
+      },
+      "artists": [
+        {
+          "name": "Henric Edstr\u00f6m",
+          "url": "https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA"
+        }
+      ],
+      "date_added": "2026-07-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169297,
+      "name": "Te Dua",
+      "url": "https://open.spotify.com/track/0ZP0ORBePjiADojgQS0s4p"
     },
     {
       "album": {

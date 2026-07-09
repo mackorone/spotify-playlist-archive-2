@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of the best <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">Fresh Finds</a>  tracks around the world this year. Cover: The Belair Lip Bombs",
-  "num_followers": 15141,
+  "num_followers": 15139,
   "original_name": "Fresh Finds: Class of 2025",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
+        "name": "Stick Up",
+        "url": "https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "duration_ms": 127228,
+      "name": "Stick Up",
+      "url": "https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
         "name": "That Girl",
         "url": "https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 169472,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
-        "name": "Stick Up",
-        "url": "https://open.spotify.com/album/7fMUMNlcXprqV36aIF0sum"
-      },
-      "artists": [
-        {
-          "name": "Raq baby",
-          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
-        }
-      ],
-      "duration_ms": 127228,
-      "name": "Stick Up",
-      "url": "https://open.spotify.com/track/0PNR8Ckjga06INhVnhB7nd"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -611,18 +611,34 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "CRUISING TO SELF SOOTHE",
-        "url": "https://open.spotify.com/album/5Goqek0wxqpC9DRTJJnjkK"
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/0Vg0rmwO8uBdFiQhY3QVWk"
       },
       "artists": [
         {
-          "name": "Ecca Vandal",
-          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
+          "name": "Emily Ann Roberts",
+          "url": "https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8"
         }
       ],
-      "duration_ms": 152613,
-      "name": "CRUISING TO SELF SOOTHE",
-      "url": "https://open.spotify.com/track/3QEDCbKlBdzEaMmdKUJJvu"
+      "duration_ms": 184260,
+      "name": "Easy Does It",
+      "url": "https://open.spotify.com/track/2RcpZxqA62aa4icEZ7Xo86"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "idk",
+        "url": "https://open.spotify.com/album/22sIp87jpK2pnX74FeOhBK"
+      },
+      "artists": [
+        {
+          "name": "Allison Eide",
+          "url": "https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1"
+        }
+      ],
+      "duration_ms": 173553,
+      "name": "idk",
+      "url": "https://open.spotify.com/track/780hk3px4rQ8p4YCMlcPKN"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -647,34 +663,18 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "idk",
-        "url": "https://open.spotify.com/album/22sIp87jpK2pnX74FeOhBK"
+        "name": "CRUISING TO SELF SOOTHE",
+        "url": "https://open.spotify.com/album/5Goqek0wxqpC9DRTJJnjkK"
       },
       "artists": [
         {
-          "name": "Allison Eide",
-          "url": "https://open.spotify.com/artist/6RDeotP2Ny6OsLRt5OJLQ1"
+          "name": "Ecca Vandal",
+          "url": "https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf"
         }
       ],
-      "duration_ms": 173553,
-      "name": "idk",
-      "url": "https://open.spotify.com/track/780hk3px4rQ8p4YCMlcPKN"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/0Vg0rmwO8uBdFiQhY3QVWk"
-      },
-      "artists": [
-        {
-          "name": "Emily Ann Roberts",
-          "url": "https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8"
-        }
-      ],
-      "duration_ms": 184260,
-      "name": "Easy Does It",
-      "url": "https://open.spotify.com/track/2RcpZxqA62aa4icEZ7Xo86"
+      "duration_ms": 152613,
+      "name": "CRUISING TO SELF SOOTHE",
+      "url": "https://open.spotify.com/track/3QEDCbKlBdzEaMmdKUJJvu"
     },
     {
       "added_at": "2025-12-03 12:16:13",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-12-03 12:16:13",
       "album": {
-        "name": "Subliminals",
-        "url": "https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX"
-      },
-      "artists": [
-        {
-          "name": "Saint Ludo",
-          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
-        },
-        {
-          "name": "Kasst 8",
-          "url": "https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs"
-        }
-      ],
-      "duration_ms": 154100,
-      "name": "Subliminals",
-      "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"
-    },
-    {
-      "added_at": "2025-12-03 12:16:13",
-      "album": {
         "name": "BLIND",
         "url": "https://open.spotify.com/album/5MBqQGtqtrh3Vrw1aVA4ZB"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 182694,
       "name": "BLIND",
       "url": "https://open.spotify.com/track/2OmnzMLTn0mx6iXrp4VBjz"
+    },
+    {
+      "added_at": "2025-12-03 12:16:13",
+      "album": {
+        "name": "Subliminals",
+        "url": "https://open.spotify.com/album/4h0UdEwMBtj7UmGE2RvLdX"
+      },
+      "artists": [
+        {
+          "name": "Saint Ludo",
+          "url": "https://open.spotify.com/artist/3UBYL8t0DhD4uhJxF0FtGT"
+        },
+        {
+          "name": "Kasst 8",
+          "url": "https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs"
+        }
+      ],
+      "duration_ms": 154100,
+      "name": "Subliminals",
+      "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"
     },
     {
       "added_at": "2025-12-03 12:16:13",

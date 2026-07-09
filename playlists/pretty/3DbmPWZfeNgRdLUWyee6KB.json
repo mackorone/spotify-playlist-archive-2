@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAV6fFkP2sr8QuWNzKjWIjzw0Ygz7ES",
+  "snapshot_id": "AAAV768KgLWBLKnXFafvkU8NqN8Jjvq4",
   "tracks": [
     {
       "added_at": "2026-07-02 22:11:30",
@@ -2391,6 +2391,102 @@
       "duration_ms": 187627,
       "name": "Crescere",
       "url": "https://open.spotify.com/track/6w4K4RDb5jD3NwZfNmGCPz"
+    },
+    {
+      "added_at": "2026-07-08 08:08:23",
+      "album": {
+        "name": "Il resto pu\u00f2 aspettare",
+        "url": "https://open.spotify.com/album/1e9asopwUpLQahHKuHaX7j"
+      },
+      "artists": [
+        {
+          "name": "Matteo Bartalucci",
+          "url": "https://open.spotify.com/artist/7bwkxPf8JNOvkt3RDlyWyT"
+        }
+      ],
+      "duration_ms": 215031,
+      "name": "Il resto pu\u00f2 aspettare",
+      "url": "https://open.spotify.com/track/7HWx9p3l7lW3R9hmcZwoJ3"
+    },
+    {
+      "added_at": "2026-07-08 08:08:25",
+      "album": {
+        "name": "Vorrei Dirti",
+        "url": "https://open.spotify.com/album/1nKSAwEfbzSD308xdFUJYA"
+      },
+      "artists": [
+        {
+          "name": "Matteo Bartalucci",
+          "url": "https://open.spotify.com/artist/7bwkxPf8JNOvkt3RDlyWyT"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "Vorrei Dirti",
+      "url": "https://open.spotify.com/track/5au1dsIekJFBBHoIvTQSjQ"
+    },
+    {
+      "added_at": "2026-07-08 08:08:32",
+      "album": {
+        "name": "Hey Mr Policeman",
+        "url": "https://open.spotify.com/album/6z3BcY2Gv0zBQhTcWvFhvD"
+      },
+      "artists": [
+        {
+          "name": "Angryoldogs",
+          "url": "https://open.spotify.com/artist/7cHpausiZERLZ4zvljNVo9"
+        }
+      ],
+      "duration_ms": 149321,
+      "name": "Hey Mr Policeman",
+      "url": "https://open.spotify.com/track/1dFamvnbwPPI1P0sLbFeyj"
+    },
+    {
+      "added_at": "2026-07-08 08:08:36",
+      "album": {
+        "name": "Whistling Past the Cardhouse",
+        "url": "https://open.spotify.com/album/77DbKxL9XhRVaSD3tsGZRM"
+      },
+      "artists": [
+        {
+          "name": "LOOSER",
+          "url": "https://open.spotify.com/artist/74MOUfrsLMzoBLl5ssKkGk"
+        }
+      ],
+      "duration_ms": 254213,
+      "name": "An itch",
+      "url": "https://open.spotify.com/track/2Ope98KgJcpifiCUAk8YpD"
+    },
+    {
+      "added_at": "2026-07-08 08:08:49",
+      "album": {
+        "name": "Adio Amore",
+        "url": "https://open.spotify.com/album/2DMmxDHXArOti3jOQK5rpx"
+      },
+      "artists": [
+        {
+          "name": "ALTSOUND SRB",
+          "url": "https://open.spotify.com/artist/4OZruhUi24VNQTmHMkU2lA"
+        }
+      ],
+      "duration_ms": 191638,
+      "name": "Adio Amore",
+      "url": "https://open.spotify.com/track/75ICKWDSDThP0WQGMX5LCg"
+    },
+    {
+      "added_at": "2026-07-08 08:09:01",
+      "album": {
+        "name": "Missing",
+        "url": "https://open.spotify.com/album/3RXrzgnkrlM3TLP5EuFLMj"
+      },
+      "artists": [
+        {
+          "name": "ProjectG",
+          "url": "https://open.spotify.com/artist/3AuYiIBJ0U3rAjZyZGDHT8"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "Missing",
+      "url": "https://open.spotify.com/track/0VP4fq3sgMQOsbKAE2vPB1"
     }
   ],
   "unique_name": "New Indie Music",

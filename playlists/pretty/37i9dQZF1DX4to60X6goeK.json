@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: Kanine",
-  "num_followers": 75992,
+  "num_followers": 75998,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -223,38 +223,6 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
-        "name": "High Energy",
-        "url": "https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        }
-      ],
-      "duration_ms": 183085,
-      "name": "High Energy",
-      "url": "https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
-        "name": "Patience",
-        "url": "https://open.spotify.com/album/1StN2iNJ26sRO0AVIpX9NZ"
-      },
-      "artists": [
-        {
-          "name": "Levela",
-          "url": "https://open.spotify.com/artist/0sDeXbVK3kNuzYQlVib9ib"
-        }
-      ],
-      "duration_ms": 177808,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/1GkGL2dQjZ1PYj3ZJk0jii"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
         "name": "OH YEAH",
         "url": "https://open.spotify.com/album/5EIY9fUDOnTPZeZaDoObYP"
       },
@@ -275,6 +243,38 @@
       "duration_ms": 227657,
       "name": "OH YEAH",
       "url": "https://open.spotify.com/track/6rLnHm0RX103kSIcmcC5qN"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1StN2iNJ26sRO0AVIpX9NZ"
+      },
+      "artists": [
+        {
+          "name": "Levela",
+          "url": "https://open.spotify.com/artist/0sDeXbVK3kNuzYQlVib9ib"
+        }
+      ],
+      "duration_ms": 177808,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/1GkGL2dQjZ1PYj3ZJk0jii"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
+        "name": "High Energy",
+        "url": "https://open.spotify.com/album/1V56p7Zy759zwU8DCHZRD4"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        }
+      ],
+      "duration_ms": 183085,
+      "name": "High Energy",
+      "url": "https://open.spotify.com/track/1RKSSo63jM1JVH6aZ8MU30"
     },
     {
       "added_at": "2026-07-01 17:59:00",
@@ -611,6 +611,26 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
+        "name": "Skanka",
+        "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
+      },
+      "artists": [
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        },
+        {
+          "name": "Jaybee (UK)",
+          "url": "https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH"
+        }
+      ],
+      "duration_ms": 190689,
+      "name": "Skanka",
+      "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
         "name": "Beamin\u2019 (K Motionz & skantia Remix)",
         "url": "https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ"
       },
@@ -631,26 +651,6 @@
       "duration_ms": 243103,
       "name": "Beamin\u2019 - K Motionz & skantia Remix",
       "url": "https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
-        "name": "Skanka",
-        "url": "https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU"
-      },
-      "artists": [
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        },
-        {
-          "name": "Jaybee (UK)",
-          "url": "https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH"
-        }
-      ],
-      "duration_ms": 190689,
-      "name": "Skanka",
-      "url": "https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno"
     },
     {
       "added_at": "2026-07-01 17:59:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
-        "name": "Left 2 Right",
-        "url": "https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6"
-      },
-      "artists": [
-        {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
-        }
-      ],
-      "duration_ms": 202971,
-      "name": "Left 2 Right",
-      "url": "https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
         "name": "Good Times (feat. ellen lynch)",
         "url": "https://open.spotify.com/album/53fbG8wV8ADsa1iIc2ZeAu"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 201603,
       "name": "Good Times (feat. ellen lynch)",
       "url": "https://open.spotify.com/track/5YrrUGwh8YgQCnj2sMRMEf"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
+        "name": "Left 2 Right",
+        "url": "https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6"
+      },
+      "artists": [
+        {
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+        }
+      ],
+      "duration_ms": 202971,
+      "name": "Left 2 Right",
+      "url": "https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE"
     },
     {
       "added_at": "2026-07-01 17:59:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
-        "name": "Reaper (feat. Comma Dee)",
-        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
-      },
-      "artists": [
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 213793,
-      "name": "Reaper (feat. Comma Dee)",
-      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
-    },
-    {
-      "added_at": "2026-07-01 17:59:00",
-      "album": {
         "name": "Let Me Down",
         "url": "https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 192000,
       "name": "Let Me Down",
       "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
+    },
+    {
+      "added_at": "2026-07-01 17:59:00",
+      "album": {
+        "name": "Reaper (feat. Comma Dee)",
+        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
+      },
+      "artists": [
+        {
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
+        }
+      ],
+      "duration_ms": 213793,
+      "name": "Reaper (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
     },
     {
       "added_at": "2026-07-01 17:59:00",
@@ -943,8 +943,8 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
-        "name": "Thriller / Good Ol' Days",
-        "url": "https://open.spotify.com/album/5Xi9MKZ3kzCJmnvOeiQatj"
+        "name": "Outta Order",
+        "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
       },
       "artists": [
         {
@@ -952,17 +952,13 @@
           "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
         },
         {
-          "name": "Logan D",
-          "url": "https://open.spotify.com/artist/1p2Bj8h0k83W4M7RY8rUvA"
-        },
-        {
-          "name": "Jakes",
-          "url": "https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7"
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
         }
       ],
-      "duration_ms": 190344,
-      "name": "Thriller",
-      "url": "https://open.spotify.com/track/6cF0duAq36nMaKUWtQb6Uc"
+      "duration_ms": 235885,
+      "name": "Outta Order",
+      "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
     },
     {
       "added_at": "2026-07-01 17:59:00",
@@ -1039,8 +1035,8 @@
     {
       "added_at": "2026-07-01 17:59:00",
       "album": {
-        "name": "Outta Order",
-        "url": "https://open.spotify.com/album/7whX7bU6I8FGqRsyYYr62r"
+        "name": "Thriller / Good Ol' Days",
+        "url": "https://open.spotify.com/album/5Xi9MKZ3kzCJmnvOeiQatj"
       },
       "artists": [
         {
@@ -1048,13 +1044,17 @@
           "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
         },
         {
-          "name": "Riko Dan",
-          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+          "name": "Logan D",
+          "url": "https://open.spotify.com/artist/1p2Bj8h0k83W4M7RY8rUvA"
+        },
+        {
+          "name": "Jakes",
+          "url": "https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7"
         }
       ],
-      "duration_ms": 235885,
-      "name": "Outta Order",
-      "url": "https://open.spotify.com/track/5McUAvQ9cHcmCAobLu96Eq"
+      "duration_ms": 190344,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/6cF0duAq36nMaKUWtQb6Uc"
     },
     {
       "added_at": "2026-07-01 17:59:00",

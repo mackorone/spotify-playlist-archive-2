@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 750325,
+  "num_followers": 750600,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2026-06-23 15:21:25",
       "album": {
-        "name": "She Waits",
-        "url": "https://open.spotify.com/album/2OeZ42uzQXCop2v3xLTK0d"
-      },
-      "artists": [
-        {
-          "name": "Collect 200",
-          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
-        }
-      ],
-      "duration_ms": 177840,
-      "name": "She Waits",
-      "url": "https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6"
-    },
-    {
-      "added_at": "2026-06-23 15:21:25",
-      "album": {
         "name": "Good Lies",
         "url": "https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 160127,
       "name": "Good Lies",
       "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
+    },
+    {
+      "added_at": "2026-06-23 15:21:25",
+      "album": {
+        "name": "She Waits",
+        "url": "https://open.spotify.com/album/2OeZ42uzQXCop2v3xLTK0d"
+      },
+      "artists": [
+        {
+          "name": "Collect 200",
+          "url": "https://open.spotify.com/artist/3MFpHeyqVwW0n7mZbJPNyE"
+        }
+      ],
+      "duration_ms": 177840,
+      "name": "She Waits",
+      "url": "https://open.spotify.com/track/6UPql2upXpCahPme1FzOs6"
     },
     {
       "added_at": "2026-06-23 15:21:25",

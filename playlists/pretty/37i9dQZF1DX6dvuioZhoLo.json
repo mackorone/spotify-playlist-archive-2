@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Lily Meola",
-  "num_followers": 315287,
+  "num_followers": 315285,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -643,38 +643,6 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "Good While It Lasted",
-        "url": "https://open.spotify.com/album/6wTPSpth7LiJ0mIETQYuiq"
-      },
-      "artists": [
-        {
-          "name": "Coleman Jennings",
-          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "Good While It Lasted",
-      "url": "https://open.spotify.com/track/18EMtin4khvod6yJScz2CD"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
-        "name": "California Blues",
-        "url": "https://open.spotify.com/album/73Jap0xdxpIMK9vRflDku2"
-      },
-      "artists": [
-        {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
-        }
-      ],
-      "duration_ms": 258645,
-      "name": "California Blues",
-      "url": "https://open.spotify.com/track/5avZzniorINJJiy40TxidU"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
         "name": "With Me in the Summer",
         "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
       },
@@ -703,6 +671,38 @@
       "duration_ms": 227894,
       "name": "To Learn Her",
       "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
+        "name": "California Blues",
+        "url": "https://open.spotify.com/album/73Jap0xdxpIMK9vRflDku2"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "duration_ms": 258645,
+      "name": "California Blues",
+      "url": "https://open.spotify.com/track/5avZzniorINJJiy40TxidU"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
+        "name": "Good While It Lasted",
+        "url": "https://open.spotify.com/album/6wTPSpth7LiJ0mIETQYuiq"
+      },
+      "artists": [
+        {
+          "name": "Coleman Jennings",
+          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "Good While It Lasted",
+      "url": "https://open.spotify.com/track/18EMtin4khvod6yJScz2CD"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "With Me in the Summer",
-        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 189871,
-      "name": "Still Miss the Way",
-      "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
         "name": "The Lost Outlaw Album",
         "url": "https://open.spotify.com/album/1L7I8uL1xroYdwUp2jxqGB"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 165088,
       "name": "I'm the Loneliest Man I Ever Met",
       "url": "https://open.spotify.com/track/3e7nvPSyIxNSlJ3icrKVfT"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
+        "name": "With Me in the Summer",
+        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 189871,
+      "name": "Still Miss the Way",
+      "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "Lawdy Mama",
-        "url": "https://open.spotify.com/album/5T42rU2Wxw07tiV0wt6PUe"
-      },
-      "artists": [
-        {
-          "name": "The Deslondes",
-          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
-        }
-      ],
-      "duration_ms": 164920,
-      "name": "Lawdy Mama",
-      "url": "https://open.spotify.com/track/5qeUS4MZJbPlTFCQHvopUF"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
         "name": "Riddy Arman",
         "url": "https://open.spotify.com/album/2WtTw0kbBBF9tSLXajwney"
       },
@@ -1003,18 +987,18 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "Cabin By The Sea",
-        "url": "https://open.spotify.com/album/04TZtCbyQqPxRT9xcZ5TGZ"
+        "name": "Lawdy Mama",
+        "url": "https://open.spotify.com/album/5T42rU2Wxw07tiV0wt6PUe"
       },
       "artists": [
         {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
         }
       ],
-      "duration_ms": 202368,
-      "name": "Cabin By The Sea",
-      "url": "https://open.spotify.com/track/4iRLUcxRiUiqtJHLlQasf3"
+      "duration_ms": 164920,
+      "name": "Lawdy Mama",
+      "url": "https://open.spotify.com/track/5qeUS4MZJbPlTFCQHvopUF"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -1039,6 +1023,22 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
+        "name": "Cabin By The Sea",
+        "url": "https://open.spotify.com/album/04TZtCbyQqPxRT9xcZ5TGZ"
+      },
+      "artists": [
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "duration_ms": 202368,
+      "name": "Cabin By The Sea",
+      "url": "https://open.spotify.com/track/4iRLUcxRiUiqtJHLlQasf3"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
         "name": "Family Reunion",
         "url": "https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv"
       },
@@ -1051,6 +1051,22 @@
       "duration_ms": 162697,
       "name": "Dry Town",
       "url": "https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
+        "name": "Movin\u2019 Shoes",
+        "url": "https://open.spotify.com/album/2sHS3YECiWION4TfBHmkTI"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "duration_ms": 249734,
+      "name": "Home With My Dog",
+      "url": "https://open.spotify.com/track/53taqmWyUH21RoJmglUoyG"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -1083,22 +1099,6 @@
       "duration_ms": 196280,
       "name": "Mr. Jukebox",
       "url": "https://open.spotify.com/track/79aieo5PFnS4w6LhTMP9iL"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
-        "name": "Movin\u2019 Shoes",
-        "url": "https://open.spotify.com/album/2sHS3YECiWION4TfBHmkTI"
-      },
-      "artists": [
-        {
-          "name": "Emily Nenni",
-          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
-        }
-      ],
-      "duration_ms": 249734,
-      "name": "Home With My Dog",
-      "url": "https://open.spotify.com/track/53taqmWyUH21RoJmglUoyG"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "Violets as Camouflage",
-        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 196339,
-      "name": "I Thought You Were Somebody Else",
-      "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
         "name": "Snakelife",
         "url": "https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 277613,
       "name": "Snakelife",
       "url": "https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
+        "name": "Violets as Camouflage",
+        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 196339,
+      "name": "I Thought You Were Somebody Else",
+      "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "Violets as Camouflage",
-        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 223713,
-      "name": "Trouble Me Anytime",
-      "url": "https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 199991,
       "name": "Nothing Wrong with Texas",
       "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
+        "name": "Violets as Camouflage",
+        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 223713,
+      "name": "Trouble Me Anytime",
+      "url": "https://open.spotify.com/track/0VW1XlmXrdB1H27SWKzN9k"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "What Have I Done Wrong",
-        "url": "https://open.spotify.com/album/0AruFid9bNKPNydpHr4NFf"
-      },
-      "artists": [
-        {
-          "name": "Emily Nenni",
-          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
-        }
-      ],
-      "duration_ms": 175562,
-      "name": "What Have I Done Wrong",
-      "url": "https://open.spotify.com/track/4iBseQDtjvuxlzwDAzXXHo"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
         "name": "For When It Hurts",
         "url": "https://open.spotify.com/album/4fyML49o9PKbI3jaTFA7gH"
       },
@@ -1539,22 +1523,18 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
-        "name": "Havin' A Talk",
-        "url": "https://open.spotify.com/album/2x4IrX8bcXcwZvj4BVQXUP"
+        "name": "What Have I Done Wrong",
+        "url": "https://open.spotify.com/album/0AruFid9bNKPNydpHr4NFf"
       },
       "artists": [
         {
-          "name": "Melissa Carper",
-          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
-        },
-        {
-          "name": "Theo Lawrence",
-          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
         }
       ],
-      "duration_ms": 206480,
-      "name": "The Last To Know",
-      "url": "https://open.spotify.com/track/65965vBWT1mhOGat6GodGa"
+      "duration_ms": 175562,
+      "name": "What Have I Done Wrong",
+      "url": "https://open.spotify.com/track/4iBseQDtjvuxlzwDAzXXHo"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -1571,6 +1551,26 @@
       "duration_ms": 220571,
       "name": "Tides",
       "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
+        "name": "Havin' A Talk",
+        "url": "https://open.spotify.com/album/2x4IrX8bcXcwZvj4BVQXUP"
+      },
+      "artists": [
+        {
+          "name": "Melissa Carper",
+          "url": "https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX"
+        },
+        {
+          "name": "Theo Lawrence",
+          "url": "https://open.spotify.com/artist/28eXJYBZVGDRy1c7j4dIw2"
+        }
+      ],
+      "duration_ms": 206480,
+      "name": "The Last To Know",
+      "url": "https://open.spotify.com/track/65965vBWT1mhOGat6GodGa"
     },
     {
       "added_at": "2026-07-03 04:01:05",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-07-03 04:01:05",
       "album": {
+        "name": "Swimming Alone",
+        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
+      },
+      "artists": [
+        {
+          "name": "Liz Rose",
+          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
+        }
+      ],
+      "duration_ms": 199339,
+      "name": "Yellow Room",
+      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
+    },
+    {
+      "added_at": "2026-07-03 04:01:05",
+      "album": {
         "name": "All Fifty States",
         "url": "https://open.spotify.com/album/4W2oK0yvYz7pOLwFkdZzpW"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 286940,
       "name": "Leap of Faith",
       "url": "https://open.spotify.com/track/6WaVOSups4AIb72awqLxZC"
-    },
-    {
-      "added_at": "2026-07-03 04:01:05",
-      "album": {
-        "name": "Swimming Alone",
-        "url": "https://open.spotify.com/album/6SifWWoghYvzA2Q4n6zAzk"
-      },
-      "artists": [
-        {
-          "name": "Liz Rose",
-          "url": "https://open.spotify.com/artist/7pcKyVIatvXoHdZRr4Q3vT"
-        }
-      ],
-      "duration_ms": 199339,
-      "name": "Yellow Room",
-      "url": "https://open.spotify.com/track/7jD4TV5mua3KeLqOIqFXm0"
     },
     {
       "added_at": "2026-07-03 04:01:05",

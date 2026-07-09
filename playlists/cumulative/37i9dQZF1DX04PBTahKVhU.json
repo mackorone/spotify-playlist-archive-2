@@ -1013,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "locket",
+        "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175324,
+      "name": "yes baby",
+      "url": "https://open.spotify.com/track/2uvLpXs8bZAjee0l3KNnhx"
+    },
+    {
+      "album": {
         "name": "You Got It",
         "url": "https://open.spotify.com/album/6v8tyPDYOH36hYRkB0dbr1"
       },

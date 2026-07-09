@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! \(Cover: UAU\)
+> Future K\-Pop hits! \(Cover: VAYONN\)
 
-1,765 songs - 3 day 22 hr 13 min
+1,767 songs - 3 day 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -603,6 +603,7 @@
 | [Girls Never Die](https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [<ASSEMBLE24>](https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM) | 3:07 | 2024-05-14 | 2025-04-10 |
 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 | 2024-01-29 | 2024-03-26 |
 | [Girls Will Be Girls](https://open.spotify.com/track/373C7aTyGRJw7sVT4UG6Fh) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Girls Will Be Girls](https://open.spotify.com/album/0bVAPVpPL25nIfko4O1G4J) | 2:48 | 2025-06-09 | 2025-08-01 |
+| [girlsnboys](https://open.spotify.com/track/0Jnh3156FyIz7SHWgKHRmp) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG) | [V8](https://open.spotify.com/album/5HQrHtpGthJMePFhXT3jKS) | 2:39 | 2026-07-08 |  |
 | [Girls’ Night](https://open.spotify.com/track/0hnxybqZeJzU85jSwf5cdG) | [Loossemble](https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY) | [One Of A Kind](https://open.spotify.com/album/2sN27KkVSnHvqi0MA2YxcZ) | 3:24 | 2024-04-18 | 2024-06-13 |
 | [give me head](https://open.spotify.com/track/2iaTxNOzBjXXDQAFcoR0Ma) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [give me head](https://open.spotify.com/album/3DwvuuF6sJeNz95L2LrypG) | 3:03 | 2021-09-29 | 2021-10-28 |
 | [Give You My All](https://open.spotify.com/track/5qnEx0iZtcFoUXPlY8iQhk) | [HIGHLIGHT](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [Give You My All](https://open.spotify.com/album/7492V3qcwPAToQhe9KXo1A) | 2:45 | 2023-10-20 | 2023-11-16 |
@@ -779,7 +780,7 @@
 | [IF I](https://open.spotify.com/track/6m0pwEawaU2NIygsdc8OPP) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [4th MINI ALBUM \[NEW WAV\]](https://open.spotify.com/album/5EqAWo5fdTpQ8pxNKBbMzO) | 3:00 | 2026-06-02 | 2026-07-05 |
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 | 2025-01-06 | 2025-04-16 |
 | [If I’m S, Can You Be My N?](https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 2nd Mini Album 'SUMMER BEAT!'](https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03) | 2:48 | 2024-06-25 | 2024-11-20 |
-| [If tomorrow never comes](https://open.spotify.com/track/5gFiPXCW1r4G96kwvmFxsr) | [BANG YONGGUK](https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF) | [If tomorrow never comes](https://open.spotify.com/album/4gP2KiYoDIr1PuwmdWeuao) | 2:34 | 2026-06-10 |  |
+| [If tomorrow never comes](https://open.spotify.com/track/5gFiPXCW1r4G96kwvmFxsr) | [BANG YONGGUK](https://open.spotify.com/artist/6g6zaR4B3WDZXphDRmsVGF) | [If tomorrow never comes](https://open.spotify.com/album/4gP2KiYoDIr1PuwmdWeuao) | 2:34 | 2026-06-10 | 2026-07-09 |
 | [If you](https://open.spotify.com/track/0k3qqQ6qzNT8kLBafFO5lG) | [KIM TAE RAE](https://open.spotify.com/artist/4Ac3PLCD4z5zPENWsmFKNJ) | [Way Back Love, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/3e3J54BDc2IaJhF1TE6hrR) | 3:42 | 2025-04-11 | 2025-04-17 |
 | [Igloo](https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Lose Yourself](https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab) | 2:11 | 2024-10-24 | 2025-04-12 |
 | [IKUK](https://open.spotify.com/track/7dL1D78LXTixcXWEdNo63x) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [Dear.M](https://open.spotify.com/album/48AedwRUndu10YZyR1C5Qy) | 2:48 | 2025-01-15 | 2025-03-19 |
@@ -1235,7 +1236,7 @@
 | [Refresh!](https://open.spotify.com/track/3IADXVr5gLIYzxifer9zFH) | [ZHANG HAO](https://open.spotify.com/artist/19Vc3zeXWnOUUsAYiXgjCX) | [To The Moon, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/25G6zBCoaAbZxAORbFImB0) | 2:37 | 2025-09-29 | 2025-10-29 |
 | [Regret of the Times \- 2024 aespa Remake Version](https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Regret of the Times \(2024 aespa Remake Version\) \- SM STATION](https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh) | 2:51 | 2024-01-16 | 2024-02-27 |
 | [Remember](https://open.spotify.com/track/2MO6sxfNbVBkGvZRPJCPbe) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Hometown, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/7B7whF7sfWLeuCngNAiEu0) | 3:31 | 2021-10-06 | 2021-12-02 |
-| [Remove Makeup](https://open.spotify.com/track/1jKetc0W0zKdo2S0uXQiMK) | [YEL](https://open.spotify.com/artist/5tm31CNMTzuIL7TqVGURwj) | [Young30](https://open.spotify.com/album/1wq65gHszZ2A4cKxzvimTu) | 3:08 | 2026-06-10 |  |
+| [Remove Makeup](https://open.spotify.com/track/1jKetc0W0zKdo2S0uXQiMK) | [YEL](https://open.spotify.com/artist/5tm31CNMTzuIL7TqVGURwj) | [Young30](https://open.spotify.com/album/1wq65gHszZ2A4cKxzvimTu) | 3:08 | 2026-06-10 | 2026-07-09 |
 | [Rendezvous](https://open.spotify.com/track/4nKnOIDXFjRSMG4vkXDwzY) | [AHOF](https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH) | [WHO WE ARE](https://open.spotify.com/album/0RBuVlwwEKFRj4wTiDayRz) | 3:40 | 2025-07-01 | 2025-08-01 |
 | [Renegade](https://open.spotify.com/track/6qmGitkEMN6TVM5Cc25W47) | [LUCAS](https://open.spotify.com/artist/6S3tOdgtc5qz16hwmMjEBN) | [Renegade \- The 1st Single](https://open.spotify.com/album/0JTKRqDGKIDhtoCfqRyJf6) | 3:13 | 2024-04-02 | 2024-06-01 |
 | [Reno \- feat\. Colde](https://open.spotify.com/track/0kPhwAgoX0tB2lIO3zmRik) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Reno \(feat\. Colde\)](https://open.spotify.com/album/1Odn0BcmtVhQswzJc4kuPi) | 3:07 | 2025-10-28 | 2025-12-05 |
@@ -1574,7 +1575,7 @@
 | [Twilight](https://open.spotify.com/track/34j16cc8dbfSQBUDSp5tBG) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [Twilight](https://open.spotify.com/album/3l0ysTm95Ki0mi3wgvpNhx) | 3:23 | 2025-03-12 | 2025-04-12 |
 | [TWILIGHT](https://open.spotify.com/track/7ruu3WCZipZT9ST11iI7WV) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [IDENTITY : First Sight](https://open.spotify.com/album/4vVljcTg81LAhaD7vQAoFu) | 3:20 | 2020-11-05 | 2021-03-01 |
 | [Twinkle, Twinkle](https://open.spotify.com/track/5RonLpKNWLO6lXmt7R07W8) | [ILY:1](https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8) | [A Dream Of ILY:1](https://open.spotify.com/album/142c1ICdvzVtOftdswYEaG) | 3:21 | 2023-07-21 | 2023-08-26 |
-| [Tú y yo](https://open.spotify.com/track/5urpIABh3HY0KSkB0PzwyK) | [U\-KWON](https://open.spotify.com/artist/1dpFCgmBpElH7pcsfSfXqG) | [Tú y yo](https://open.spotify.com/album/2Giol3yecre2X8nuAxoN7o) | 2:43 | 2026-06-10 |  |
+| [Tú y yo](https://open.spotify.com/track/5urpIABh3HY0KSkB0PzwyK) | [U\-KWON](https://open.spotify.com/artist/1dpFCgmBpElH7pcsfSfXqG) | [Tú y yo](https://open.spotify.com/album/2Giol3yecre2X8nuAxoN7o) | 2:43 | 2026-06-10 | 2026-07-09 |
 | [U](https://open.spotify.com/track/0AtHUIDAkXWgpbD0QkyKgi) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Doom at Your Service \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/2fy01jwC0GrnBGQ4Crcnve) | 3:44 | 2021-07-01 | 2021-08-25 |
 | [U](https://open.spotify.com/track/4LKcNaDtBhpTN4rUVuRj0B) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [TAKE OFF](https://open.spotify.com/album/0oynVErCTSSApUkhqn4gy1) | 3:19 | 2023-05-15 | 2023-09-02 |
 | [U MAD](https://open.spotify.com/track/2qR0mMrgwO099ONpl2B0II) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [LUCKY MAN](https://open.spotify.com/album/2dY5DQcOw6DiVpmbDNRm5e) | 2:50 | 2021-01-25 | 2021-05-11 |
@@ -1601,6 +1602,7 @@
 | [Upside Down](https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:15 | 2022-05-24 | 2022-06-18 |
 | [US](https://open.spotify.com/track/28toOHNKaU968fvVoKA9pQ) | [Moon Jong Up](https://open.spotify.com/artist/3I9hRYYNJvENa3EcJ6c5cd) | [Moon Jong Up \- 1st Mini Album "US"](https://open.spotify.com/album/5v8Uj3vFwXfdu8eKiyhUuX) | 2:59 | 2021-07-13 | 2021-09-18 |
 | [Us](https://open.spotify.com/track/5r5skMXXVwTbQy6r6NgQD9) | [NOWZ](https://open.spotify.com/artist/1iZwr6w3TWPNezX8yCtRBg) | [Us](https://open.spotify.com/album/1LRDEk3bmvqWGBvRMCfzgb) | 3:35 | 2026-05-13 | 2026-06-13 |
+| [Us, Now](https://open.spotify.com/track/7hHXvDy58AOKIWZgXeYarw) | [OHYUL of LNGSHOT](https://open.spotify.com/artist/19lETOCO5Jc7arA9DaLID8) | [결혼의 완성 Original Sound Track Part.2](https://open.spotify.com/album/22MrFdUTUvpJ0XZztCf3Uy) | 4:11 | 2026-07-08 |  |
 | [UxYOUxU](https://open.spotify.com/track/7FMjQgcvSnAbLDFWNcL1Xu) | [CHUEI LI YU](https://open.spotify.com/artist/6d08w23ccJlF5f0I7tKlGl) | [SWEET DREAM](https://open.spotify.com/album/78sWCAEgt78WNRfwkGijgX) | 2:25 | 2025-12-05 | 2026-02-11 |
 | [V \(Peace\) \(feat\. AKMU\)](https://open.spotify.com/track/0qsv5I5fEnRoX2Enb3mBNr) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Zip](https://open.spotify.com/album/0T3dxtCegtw8C07ZMvwIfv) | 2:28 | 2023-12-08 | 2024-02-15 |
 | [VAMOS](https://open.spotify.com/track/3JNgIY0WqPk3qgQapkFumz) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [1st Mini Album 'VAMOS'](https://open.spotify.com/album/1RUIMYrQC6RBohtz83WP7a) | 3:30 | 2021-07-14 | 2021-09-07 |

@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Hearts2Hearts
 
-3,021 songs - 6 day 23 hr 17 min
+3,022 songs - 6 day 23 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Acqua ossigenata](https://open.spotify.com/track/3Q8UZcTEBbaVcg9RhShnY0) | [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S) | [Sconosciuti superstar](https://open.spotify.com/album/4DFhDSOSXmgIXXFd2VUNzg) | 2:35 | 2024-04-17 | 2024-05-03 |
 | [Acróstico](https://open.spotify.com/track/7txjUEY6McJDJKqIo1Rxjp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Acróstico](https://open.spotify.com/album/4ZQmQzeicvUGkLxFTI2Dvd) | 2:50 | 2023-09-06 | 2023-09-23 |
 | [Act A Fool](https://open.spotify.com/track/6iIucvXpOFkJghgzMzqB1A) | [Melissa Pools](https://open.spotify.com/artist/3ZKTIDG2YvVYr9EogB9KpW) | [Act A Fool](https://open.spotify.com/album/2CQhhDqgKXwmaUYJcnAFID) | 2:47 | 2024-03-06 | 2024-04-04 |
-| [Ada](https://open.spotify.com/track/75BVVplEDQFqVwfaVld1T1) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Ada](https://open.spotify.com/album/13Agl9771G2LYaqd1mXne2) | 3:50 | 2026-07-01 |  |
+| [Ada](https://open.spotify.com/track/75BVVplEDQFqVwfaVld1T1) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Ada](https://open.spotify.com/album/13Agl9771G2LYaqd1mXne2) | 3:50 | 2026-07-01 | 2026-07-09 |
 | [Adagio](https://open.spotify.com/track/3Ex4tGyBZsmbxzlyZyzdsX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:56 | 2025-12-03 | 2026-03-20 |
 | [Adem'le Havva](https://open.spotify.com/track/4zqavi4RWec22JeAZu7crg) | [Elif Kaya](https://open.spotify.com/artist/0YP9sio4vk1BLyCWg3DG1r) | [Adem'le Havva](https://open.spotify.com/album/2gcKF8pbbywit3OrcVxb3j) | 3:43 | 2024-01-10 | 2024-02-08 |
 | [Adicta al Perreo](https://open.spotify.com/track/7xj6vIyvd8qh9JjPzQhvHa) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Adicta al Perreo](https://open.spotify.com/album/6E4zCCVrnmZigYPqJJshdV) | 2:50 | 2022-04-06 | 2022-05-05 |
@@ -2114,6 +2114,7 @@
 | [Resplandeció!](https://open.spotify.com/track/5Iejy542BBKRKvJWAR19dK) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Piedras Vivas](https://open.spotify.com/album/2Z3y8daO4p0u99UfYxeGzG) | 5:34 | 2023-10-11 | 2023-11-30 |
 | [Restes d'averses](https://open.spotify.com/track/1PZrVhxFJet31mkr10HmHx) | [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [Coeur maladroit](https://open.spotify.com/album/0xHoPDymexPOYSzzkk7xUJ) | 3:06 | 2025-07-02 | 2025-08-07 |
 | [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 | 2023-10-04 | 2023-11-05 |
+| [Returning Home](https://open.spotify.com/track/2J1RmBn30CRojpdfLpxnkF) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Returning Home](https://open.spotify.com/album/2M1pgphGdOG3Mu39g5nxZI) | 3:34 | 2026-07-01 |  |
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-03-05 | 2025-04-03 |
 | [rewind](https://open.spotify.com/track/33urafSYTMfCWX7K4ABDR5) | [THERA](https://open.spotify.com/artist/2e6l2oHiK9UszKm6jVT1AG) | [rewind](https://open.spotify.com/album/56jrsuouND7fFZFDDlzGnY) | 2:54 | 2025-09-03 | 2025-11-14 |
 | [Rich Man](https://open.spotify.com/track/2lzb0dgTFAfrHfzlZA9Hxw) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Rich Man \- The 6th Mini Album](https://open.spotify.com/album/3rUhGAdzBVzicwTPAVQjXu) | 3:17 | 2026-03-19 | 2026-04-09 |

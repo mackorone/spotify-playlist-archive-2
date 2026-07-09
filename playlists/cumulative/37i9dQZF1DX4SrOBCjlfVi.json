@@ -145301,6 +145301,28 @@
     },
     {
       "album": {
+        "name": "Son Of OD",
+        "url": "https://open.spotify.com/album/2ghBs7jtqWlUlQm57YgPyr"
+      },
+      "artists": [
+        {
+          "name": "Big Key",
+          "url": "https://open.spotify.com/artist/1Iqj2pasBQAqLQMfTCKZDD"
+        },
+        {
+          "name": "RealRichIzzo",
+          "url": "https://open.spotify.com/artist/1x8KpLHQocL7FBaNmXcFQN"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121788,
+      "name": "Pop My Shit (feat. RealRichIzzo)",
+      "url": "https://open.spotify.com/track/34U8XSUkgBLnNFCPHjXjsw"
+    },
+    {
+      "album": {
         "name": "Pop n Olive",
         "url": "https://open.spotify.com/album/5EUkK1J0maUUX0kc4Uhma0"
       },

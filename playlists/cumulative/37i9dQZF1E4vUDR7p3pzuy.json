@@ -2043,6 +2043,24 @@
     },
     {
       "album": {
+        "name": "Borrowed Flames",
+        "url": "https://open.spotify.com/album/7LuW8KFBmJOER8as1R3hfv"
+      },
+      "artists": [
+        {
+          "name": "Velorum Alchemy",
+          "url": "https://open.spotify.com/artist/2t3bpK7s4skxhI0jfHAPwv"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246888,
+      "name": "Borrowed Flames",
+      "url": "https://open.spotify.com/track/5rzwrrfygwce2kHvCm39Zw"
+    },
+    {
+      "album": {
         "name": "UNITED",
         "url": "https://open.spotify.com/album/1iueiJNJ0gqeItdChNLCls"
       },
@@ -2842,7 +2860,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 260077,
       "name": "City I",
       "url": "https://open.spotify.com/track/5ofKOeEs3Qz6odrvQNZAqd"
@@ -8331,6 +8349,24 @@
     },
     {
       "album": {
+        "name": "Nowhere and Now",
+        "url": "https://open.spotify.com/album/0W9qwa6sYYersO7igycuFX"
+      },
+      "artists": [
+        {
+          "name": "The Last Party.",
+          "url": "https://open.spotify.com/artist/6DEBxb6sARDia1kxfncD2K"
+        }
+      ],
+      "date_added": "2026-07-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180273,
+      "name": "Jimmy",
+      "url": "https://open.spotify.com/track/3CuBwvjwt5GqyuLCws5k7B"
+    },
+    {
+      "album": {
         "name": "John's Garden",
         "url": "https://open.spotify.com/album/6Egci5kmZQ1h2TP3BqidaK"
       },
@@ -12004,7 +12040,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 260000,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/5K0tFllZlM1DxJTin4TUYy"

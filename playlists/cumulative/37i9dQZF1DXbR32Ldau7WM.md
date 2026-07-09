@@ -4,7 +4,7 @@
 
 > J\-Rock acts who have broken the border and are making global impact\.   Cover: muque
 
-1,646 songs - 4 day 11 hr 17 min
+1,648 songs - 4 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [47climax](https://open.spotify.com/track/1SXYqNHRY5EjglT1TDAbNR) | [FUNKIST](https://open.spotify.com/artist/5bsH582oaAKCAcPMkOP2Vu) | [47climax](https://open.spotify.com/album/5gVq4dLaXN9IvvPlkXcDG6) | 5:00 | 2024-12-10 | 2025-01-08 |
 | [6or9](https://open.spotify.com/track/5b2AjbOnzdOEQvbap9ZQdF) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [6or9](https://open.spotify.com/album/37YSueAOHDxEEDW2SKmmBW) | 3:35 | 2023-09-05 | 2023-10-04 |
 | [6月の現状](https://open.spotify.com/track/2esODp6u47Xjiq2hvcemxu) | [踊ってばかりの国](https://open.spotify.com/artist/0FA31wmImS3Px3LyRxtiS2) | [6月の現状](https://open.spotify.com/album/7x5Cu8aVkCZXIkxygUdKMq) | 4:52 | 2026-05-19 | 2026-05-27 |
+| [777 \(feat\. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk\)](https://open.spotify.com/track/2T0PkwQizLJNcOstG1ssam) | [YAO](https://open.spotify.com/artist/2hYEEgRuJ4XS4B8y7E75TO), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz), [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO), [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [777 \(feat\. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk\)](https://open.spotify.com/album/4b432huYiZYsf9N5IYzglh) | 3:05 | 2026-07-08 |  |
 | [a humble border](https://open.spotify.com/track/0Y7JvSq8M8oedxot1Njfrg) | [Petit Brabancon](https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad) | [a humble border](https://open.spotify.com/album/0Igc1reJ3VXW0PExraM40T) | 3:34 | 2023-12-12 | 2023-12-20 |
 | [A Little Bit Of Your Love](https://open.spotify.com/track/45i63OHmiclVbkmM3piK3B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:15 | 2024-02-27 | 2024-03-13 |
 | [A Name of New Era](https://open.spotify.com/track/56EJzfod2MjSEimUA1RjAK) | [the band apart \(naked\)](https://open.spotify.com/artist/6jXhrERTGFVSiffzV8iwBg) | [4](https://open.spotify.com/album/4HQwiXVf1Zl7h7T1rm6DpF) | 3:51 | 2023-11-14 | 2023-11-22 |
@@ -187,7 +188,7 @@
 | [Daydreaming Ⅰ](https://open.spotify.com/track/0F1YeN3S1L0dSiU371a4Sd) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [Daydreaming](https://open.spotify.com/album/1eb263XS9jW2t0nMVXOaxq) | 7:36 | 2025-12-09 | 2026-01-15 |
 | [Days](https://open.spotify.com/track/6XCLKrmhexbkfHAL8H3gGE) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [REARRANGE THE BACK HORN](https://open.spotify.com/album/7yZouODY50zeShsVwq4wDB) | 3:53 | 2023-06-13 | 2023-06-15 |
 | [Days](https://open.spotify.com/track/70FouyEWKM0a6tV4nITxxZ) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [REARRANGE THE BACK HORN](https://open.spotify.com/album/19WApxqGz4x06rBgNGBPnz) | 3:53 | 2023-06-13 | 2023-06-21 |
-| [De Nada](https://open.spotify.com/track/0K3WSMz6WLWXEPyZP9Bdtg) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [De Nada](https://open.spotify.com/album/0haLlb6CPtVmAQlasLrVFV) | 3:17 | 2026-05-19 |  |
+| [De Nada](https://open.spotify.com/track/0K3WSMz6WLWXEPyZP9Bdtg) | [DYGL](https://open.spotify.com/artist/43kKsfG1eZSFW785NtHDYs) | [De Nada](https://open.spotify.com/album/0haLlb6CPtVmAQlasLrVFV) | 3:17 | 2026-05-19 | 2026-07-09 |
 | [DEAR](https://open.spotify.com/track/2cFLdP5wBMfc3gycDgEOaw) | [OTOGIVANASHI](https://open.spotify.com/artist/44D2YJddv2yvBrrnCEJrN7) | [DEAR](https://open.spotify.com/album/4OBpKvxYrXgkL3In9SoP5q) | 3:54 | 2022-06-09 | 2022-07-08 |
 | [Dear Future](https://open.spotify.com/track/0cAMS28jrGnrZEdlndRzzR) | [Nothing’s Carved In Stone](https://open.spotify.com/artist/2aUTxokSKOzwUxXBp9AAlb) | [Dear Future](https://open.spotify.com/album/0916gU5FyF01sKbtH32r7a) | 3:48 | 2024-02-01 | 2024-04-02 |
 | [DEAR YOU](https://open.spotify.com/track/14CIoI3XDNnxlcDlSlqCyQ) | [PERSONZ](https://open.spotify.com/artist/6n9RT2nh15EFHJk1grNlBO) | [DEAR YOU](https://open.spotify.com/album/3KjvjCzz2VjIXDAx638odq) | 4:11 | 2024-02-27 | 2024-04-24 |
@@ -487,7 +488,7 @@
 | [LOST](https://open.spotify.com/track/4MqmrcRFEFv2xkQLZWaCWf) | [Mr.Children](https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY) | [miss you](https://open.spotify.com/album/2luSxY6Y2fyFA9nK3OzVts) | 3:43 | 2023-11-08 | 2024-10-09 |
 | [LOTUS](https://open.spotify.com/track/2ltQSZL2wJ7tZGI9iuEgKP) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [LOTUS](https://open.spotify.com/album/4FCFA4Jhv12f4DSemJgtsN) | 5:26 | 2023-08-22 | 2023-09-13 |
 | [LOTUS](https://open.spotify.com/track/4qDe8F9LpIIvd7xN2sJzN5) | [THE SPELLBOUND](https://open.spotify.com/artist/1urc1bS4D4upX4Mb9kLnMb) | [LOTUS](https://open.spotify.com/album/1g8SzxU5rOWw2X0yCZ9A39) | 5:26 | 2023-08-22 | 2023-08-24 |
-| [Love is the Torch](https://open.spotify.com/track/34mxjtfS7IwYxhJ2DNG5oI) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Love is the Torch](https://open.spotify.com/album/4zrtHx0DziGUtVEdaA3cKC) | 5:07 | 2026-06-16 |  |
+| [Love is a Torch](https://open.spotify.com/track/34mxjtfS7IwYxhJ2DNG5oI) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Love is a Torch](https://open.spotify.com/album/4zrtHx0DziGUtVEdaA3cKC) | 5:07 | 2026-06-16 |  |
 | [LOVE LETTER FROM A DEAD END](https://open.spotify.com/track/39mgx6DZ7yCF2u0ygKkYjZ) | [Seikima\-II](https://open.spotify.com/artist/3xl8koA4X7WDnRYSmjYeDa) | [LOVE LETTER FROM A DEAD END](https://open.spotify.com/album/6TnLHPMsBHQm0BFfbaSuSN) | 4:18 | 2022-08-23 | 2022-09-07 |
 | [Love melts into the marble ocean](https://open.spotify.com/track/59Jucw9BcXHb8bwzTMR2n7) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [Love melts into the marble ocean](https://open.spotify.com/album/28ctY7cUtusuQBMlvyEPmf) | 3:01 | 2024-01-16 | 2024-01-20 |
 | [Love melts into the marble ocean](https://open.spotify.com/track/2XHZBO4WZFfPiy4tpeOndd) | [小山田壮平](https://open.spotify.com/artist/7zEZK9uCPiycLqxQ9Ine4v) | [A melody that flies beyond time](https://open.spotify.com/album/5jxccF7FKF9shTKQAd5MdI) | 3:02 | 2024-01-18 | 2024-02-21 |
@@ -650,7 +651,7 @@
 | [pray](https://open.spotify.com/track/7BkGZVTdlz0lQfecp07RR5) | [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [LAST PARADISE](https://open.spotify.com/album/2jIf8JcgSXB8mCaAdR9Unx) | 4:12 | 2023-07-11 | 2023-07-19 |
 | [Pre\-logue](https://open.spotify.com/track/7erY7a91PB6PSBTXIzjQu6) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Pre\-logue](https://open.spotify.com/album/26hbX0HketlaOsCOYIgzve) | 2:38 | 2025-06-24 | 2025-09-10 |
 | [Present Perfect](https://open.spotify.com/track/6O1zyBjfMe4PU7ie48rgqX) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [SCOOOOOP](https://open.spotify.com/album/73yP70Vn8ufvR0N2JoSAJ4) | 3:51 | 2025-10-21 | 2025-12-24 |
-| [Private Jet](https://open.spotify.com/track/5I09j5SrAFeII5SFSV5ZQg) | [下中洋介](https://open.spotify.com/artist/0Vfl5XA4anRj4oCOaNSQLB) | [Private Jet](https://open.spotify.com/album/51PJO5jtsdU4oderz5Kjda) | 3:54 | 2026-06-30 |  |
+| [Private Jet](https://open.spotify.com/track/5I09j5SrAFeII5SFSV5ZQg) | [下中洋介](https://open.spotify.com/artist/0Vfl5XA4anRj4oCOaNSQLB) | [Private Jet](https://open.spotify.com/album/51PJO5jtsdU4oderz5Kjda) | 3:54 | 2026-06-30 | 2026-07-09 |
 | [PSYCHE STAR](https://open.spotify.com/track/4wLY64cUwEPDSwEgqiJp1z) | [踊ってばかりの国](https://open.spotify.com/artist/0FA31wmImS3Px3LyRxtiS2) | [PSYCHE STAR](https://open.spotify.com/album/4plUHDLNBdcWIzNpqojfzn) | 3:35 | 2026-05-05 | 2026-05-20 |
 | [Psycho flowers](https://open.spotify.com/track/7ojiNfzXOK27Uy2nXKovfE) | [OUTRAGE](https://open.spotify.com/artist/0olIu1jyt7RrXOQVAdc5LG) | ["Psycho flowers" "Summer rain"](https://open.spotify.com/album/1anvZ9uXENT23a2jg5I3kC) | 3:52 | 2022-08-23 | 2022-09-07 |
 | [Puppets Can’t Control You](https://open.spotify.com/track/6ERrZ4qND7JFoqNCnVBSKV) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Puppets Can't Control You](https://open.spotify.com/album/3y2CQYe2BvdDlrRP5CjQYR) | 3:14 | 2025-01-21 | 2025-10-09 |
@@ -1368,7 +1369,7 @@
 | [命題](https://open.spotify.com/track/4AOdoMJXt8cddiH1SzXlA0) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [命題](https://open.spotify.com/album/5bQIFv4iRJ6ZOEAFofNOjP) | 4:50 | 2025-07-22 | 2025-11-01 |
 | [四季回生](https://open.spotify.com/track/33RoMsSYspTo6ybIRrHBtD) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [四季回生](https://open.spotify.com/album/4voeIX26mHuytm5jUAAhQl) | 2:26 | 2025-08-01 | 2025-09-24 |
 | [在東京少年](https://open.spotify.com/track/605J8O8EnF8FThxJ8Ma0G7) | [the dresscodes](https://open.spotify.com/artist/2qmqi8B4pdSyjBc7lNBBiO) | [式日散花](https://open.spotify.com/album/7j7qbYpUeyXm543KD9lIC5) | 3:38 | 2023-09-12 | 2023-09-27 |
-| [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-07-25 | 2026-07-01 |
+| [地球儀 \- Spinning Globe](https://open.spotify.com/track/6x7SB38tuekpu4xpH9OIPY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [地球儀 \- Spinning Globe](https://open.spotify.com/album/2FoCAlugem3yJk6lFxXP0W) | 4:33 | 2023-07-25 |  |
 | [坂道を上って](https://open.spotify.com/track/3XilAwFIiV2u3lA58K3xSS) | [Kazumasa Oda](https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR) | [early summer 2022](https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs) | 3:54 | 2022-06-14 | 2022-06-22 |
 | [壊れて消えるまで](https://open.spotify.com/track/2Zz6FNkpg9w1GXSi6y3oYB) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [壊れて消えるまで](https://open.spotify.com/album/63ChJv0TC3OLHVZVe6Qjeh) | 4:09 | 2026-03-10 | 2026-03-25 |
 | [声](https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [声](https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc) | 4:23 | 2025-01-21 | 2026-01-29 |
@@ -1434,7 +1435,7 @@
 | [悲しい歌](https://open.spotify.com/track/2b0u37NKx08FuxwZuc4t1T) | [三宅伸治](https://open.spotify.com/artist/3DSBpgtINZWPz9RGvExfBg), [The Red Rocks](https://open.spotify.com/artist/3te4Wpnu3yralZ6mMYTIGK) | [Red Thanks](https://open.spotify.com/album/6f1YFi5FyrbAl6A5nE1uB3) | 3:11 | 2022-06-14 | 2022-06-22 |
 | [悲しい気持ち\(Just a man in love\)](https://open.spotify.com/track/14evwICDoy0d36Nat7hsUT) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [Keisuke Kuwata](https://open.spotify.com/album/5CLzyaBEYRrRZe8foN2r9c) | 3:54 | 2022-11-22 | 2022-12-14 |
 | [悲劇のヒロイン](https://open.spotify.com/track/72BOlvC2hg6TDSu6RfvtpB) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [悲劇のヒロイン](https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX) | 3:49 | 2024-02-13 | 2024-10-09 |
-| [惚たる蛍](https://open.spotify.com/track/4pkejZbcxlDbheXEOobH2Q) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [CHATMONCHY Tribute 〜My CHATMONCHY〜](https://open.spotify.com/album/2JHishKwFakwB7KyQxcNof) | 5:08 | 2026-06-30 |  |
+| [惚たる蛍](https://open.spotify.com/track/4pkejZbcxlDbheXEOobH2Q) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [CHATMONCHY Tribute 〜My CHATMONCHY〜](https://open.spotify.com/album/2JHishKwFakwB7KyQxcNof) | 5:08 | 2026-06-30 | 2026-07-09 |
 | [愛の太陽](https://open.spotify.com/track/0zachxUjDCMi59m1RGjOqT) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [愛の太陽](https://open.spotify.com/album/4NyLuxXiCsxBYis4wkvdaX) | 4:12 | 2023-02-21 | 2023-02-23 |
 | [愛の痛手が一晩中](https://open.spotify.com/track/6VYr9fK29LhJdnHyaLcbfz) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [NO BIG DEAL](https://open.spotify.com/album/2G6ct9fLabIfrlsJo5ehwm) | 4:18 | 2023-03-21 | 2023-03-23 |
 | [愛の痛手が一晩中](https://open.spotify.com/track/2Ac3RZ0FUDNNmnT2xOHN24) | [The Street Sliders](https://open.spotify.com/artist/43mXZl6wvWIa0ktQXFgTd6) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Origin\)](https://open.spotify.com/album/3vzmgpfnvNOmxiO7WYCaOM) | 4:19 | 2023-03-21 | 2023-04-05 |
@@ -1653,6 +1654,7 @@
 | [魔法はスパイス](https://open.spotify.com/track/73Jga6MTClvMJtBenx2S8V) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [Fooocus](https://open.spotify.com/album/6GMdck1kasizpyASeI18i7) | 3:56 | 2025-04-15 | 2026-02-12 |
 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 | 2022-05-10 | 2023-06-14 |
 | [黄泉の国](https://open.spotify.com/track/5Wjr32cfS2M71FvZkBAm1m) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 4:11 | 2024-01-23 | 2024-01-31 |
+| [＋ENCOUNT](https://open.spotify.com/track/4SLhyRuQbNqde0qs32POBf) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [＋ENCOUNT](https://open.spotify.com/album/6WpYFMoCbOsYoQexlVpsTx) | 3:47 | 2026-07-08 |  |
 | [Ｗ●ＲＫ](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [Ｗ●ＲＫ](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-04-04 | 2025-01-08 |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

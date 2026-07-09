@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/1AALbjlavmdWKN8J1CLsMF?si=p40mh03ZQUWbRcYGVfCs\-A">Jiggy Stapes</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,234 likes - 49 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,238 likes - 49 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 48 | [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 |
 | 49 | [Ifeoma](https://open.spotify.com/track/3Dt1dGG3OLQ2j9FynaYPYZ) | [LOTi](https://open.spotify.com/artist/0urGBe1Pism9xlVVwOmExn) | [LOVE MADE ME DO IT](https://open.spotify.com/album/7qLaOrsbFogh5A5yzQtmvS) | 2:42 |
 
-Snapshot ID: `AAAAACALfvT8GCjJf6UFitwFvmhOHlzR`
+Snapshot ID: `AAAAAH7rS7hmuA5M63QRGFhdYlgFW4Ou`

@@ -1,6 +1,6 @@
 {
   "description": "Parque Sim\u00f3n Bol\u00edvar, Marzo 20, 21 y 22.",
-  "num_followers": 45637,
+  "num_followers": 45634,
   "original_name": "Festival Est\u00e9reo Picnic 2026",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2026-02-05 20:53:46",
       "album": {
-        "name": "DAISY",
-        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
-      },
-      "artists": [
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 215250,
-      "name": "malibU",
-      "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
-    },
-    {
-      "added_at": "2026-02-05 20:53:46",
-      "album": {
         "name": "Levi Don't Do It",
         "url": "https://open.spotify.com/album/3hXx9qkxsHdQ1oyeqOvUAJ"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 158760,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3zPco1u9i9bCjkG5pngR5t"
+    },
+    {
+      "added_at": "2026-02-05 20:53:46",
+      "album": {
+        "name": "DAISY",
+        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
+      },
+      "artists": [
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 215250,
+      "name": "malibU",
+      "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
     },
     {
       "added_at": "2026-02-05 20:53:46",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-02-05 20:53:46",
       "album": {
-        "name": "0%",
-        "url": "https://open.spotify.com/album/4Lmw0FUroBjdg1Hw3y1ctZ"
-      },
-      "artists": [
-        {
-          "name": "SANTOS BRAVOS",
-          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
-        }
-      ],
-      "duration_ms": 173666,
-      "name": "0%",
-      "url": "https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu"
-    },
-    {
-      "added_at": "2026-02-05 20:53:46",
-      "album": {
         "name": "AGUA E' PANELA (cule_nota)",
         "url": "https://open.spotify.com/album/29d7TpjwEZ2mXqrBQBuQfN"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 127829,
       "name": "AGUA E' PANELA (cule_nota)",
       "url": "https://open.spotify.com/track/0T5aZy0h2WCk1N9Vgp77Qn"
+    },
+    {
+      "added_at": "2026-02-05 20:53:46",
+      "album": {
+        "name": "0%",
+        "url": "https://open.spotify.com/album/4Lmw0FUroBjdg1Hw3y1ctZ"
+      },
+      "artists": [
+        {
+          "name": "SANTOS BRAVOS",
+          "url": "https://open.spotify.com/artist/24Vjp1gvnNuNSWJ0vFMZ6G"
+        }
+      ],
+      "duration_ms": 173666,
+      "name": "0%",
+      "url": "https://open.spotify.com/track/0V91BVy8lD7xoxQBNajPiu"
     },
     {
       "added_at": "2026-02-05 20:53:46",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2026-02-05 20:53:46",
       "album": {
-        "name": "Dios y La Mata de Lulo o \u00bfQu\u00e9 hacer en caso de que haya perdido la luz?",
-        "url": "https://open.spotify.com/album/568P4ZZ4SiNTFiigsiTI2A"
-      },
-      "artists": [
-        {
-          "name": "Nicol\u00e1s y los Fumadores",
-          "url": "https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh"
-        }
-      ],
-      "duration_ms": 237939,
-      "name": "El T\u00fanel",
-      "url": "https://open.spotify.com/track/5Th66m2GLWVgsVb8pvcR3W"
-    },
-    {
-      "added_at": "2026-02-05 20:53:46",
-      "album": {
         "name": "Demo",
         "url": "https://open.spotify.com/album/2fTICNULHgrYRmbwFpbBIZ"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 186183,
       "name": "Demo",
       "url": "https://open.spotify.com/track/1fu2z1WS9gmszAt1kEoQDb"
+    },
+    {
+      "added_at": "2026-02-05 20:53:46",
+      "album": {
+        "name": "Dios y La Mata de Lulo o \u00bfQu\u00e9 hacer en caso de que haya perdido la luz?",
+        "url": "https://open.spotify.com/album/568P4ZZ4SiNTFiigsiTI2A"
+      },
+      "artists": [
+        {
+          "name": "Nicol\u00e1s y los Fumadores",
+          "url": "https://open.spotify.com/artist/3Ed5mxWV908VkLCADsgqeh"
+        }
+      ],
+      "duration_ms": 237939,
+      "name": "El T\u00fanel",
+      "url": "https://open.spotify.com/track/5Th66m2GLWVgsVb8pvcR3W"
     },
     {
       "added_at": "2026-02-05 20:53:46",

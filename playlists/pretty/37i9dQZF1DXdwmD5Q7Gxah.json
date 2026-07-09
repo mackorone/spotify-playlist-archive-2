@@ -1,12 +1,12 @@
 {
   "description": "it's a chanel beads summer bby \ud83e\udee6",
-  "num_followers": 1185430,
+  "num_followers": 1185392,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJZiVZwcXScuvLQSTAZ55dRykQfD",
+  "snapshot_id": "AAAAAHjG5OQOAzWP2uMnDqmxx0vQKpo6",
   "tracks": [
     {
       "added_at": "2026-07-03 11:50:27",
@@ -57,6 +57,22 @@
       "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
     },
     {
+      "added_at": "2026-07-08 17:10:56",
+      "album": {
+        "name": "Sweet Fortune",
+        "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Beatty",
+          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
+        }
+      ],
+      "duration_ms": 264837,
+      "name": "White Lightning",
+      "url": "https://open.spotify.com/track/3K6GgBsxAcSc9bG1kWoaRh"
+    },
+    {
       "added_at": "2026-06-26 04:01:55",
       "album": {
         "name": "Molly In The Club",
@@ -87,6 +103,58 @@
       "duration_ms": 169500,
       "name": "The Peace",
       "url": "https://open.spotify.com/track/6wm3t4VpTxSFfOUgTMlHZM"
+    },
+    {
+      "added_at": "2026-07-08 17:26:48",
+      "album": {
+        "name": "Jeans",
+        "url": "https://open.spotify.com/album/7fAUhdAb9h3gukUMAt0pv5"
+      },
+      "artists": [
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "duration_ms": 207466,
+      "name": "Jeans",
+      "url": "https://open.spotify.com/track/0HB0UXiIT3HUjDid2OGXH5"
+    },
+    {
+      "added_at": "2026-07-08 17:10:56",
+      "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 170367,
+      "name": "L.E.S. Girl",
+      "url": "https://open.spotify.com/track/2vJG9o6yqmjdZRNgMH8xb3"
+    },
+    {
+      "added_at": "2026-07-08 14:31:53",
+      "album": {
+        "name": "Be My",
+        "url": "https://open.spotify.com/album/3tNlHGHKxgbvMsg440Nnov"
+      },
+      "artists": [
+        {
+          "name": "RIP Swirl",
+          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
+        },
+        {
+          "name": "Mother Soki",
+          "url": "https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "Be My",
+      "url": "https://open.spotify.com/track/0R224dzbGFzYy4bQgnO19J"
     },
     {
       "added_at": "2026-06-26 04:01:55",
@@ -199,22 +267,6 @@
       "duration_ms": 212195,
       "name": "PQC",
       "url": "https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO"
-    },
-    {
-      "added_at": "2026-06-26 04:01:55",
-      "album": {
-        "name": "Sweet Fortune",
-        "url": "https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S"
-      },
-      "artists": [
-        {
-          "name": "Ryan Beatty",
-          "url": "https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ"
-        }
-      ],
-      "duration_ms": 221595,
-      "name": "Virtuoso",
-      "url": "https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI"
     },
     {
       "added_at": "2026-06-24 14:57:34",

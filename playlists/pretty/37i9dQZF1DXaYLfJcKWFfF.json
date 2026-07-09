@@ -1,6 +1,6 @@
 {
   "description": "Alternative / Indie / Folk cuts from the continent and diaspora to dive into. Cover: Dumama",
-  "num_followers": 2470,
+  "num_followers": 2478,
   "original_name": "Afro Indie",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Just My Luck / Tomorrow Man",
-        "url": "https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 180332,
-      "name": "Just My Luck",
-      "url": "https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
         "name": "Mighty",
         "url": "https://open.spotify.com/album/0FWvpXlb3VIRqYTnifszZ3"
       },
@@ -407,18 +391,34 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "something new",
-        "url": "https://open.spotify.com/album/5KG7J4OfVqAnxqO830MFZ0"
+        "name": "Just My Luck / Tomorrow Man",
+        "url": "https://open.spotify.com/album/0i4ZnhUde1uIcT78eEUuaW"
       },
       "artists": [
         {
-          "name": "ZUBIN",
-          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
         }
       ],
-      "duration_ms": 125323,
-      "name": "something new",
-      "url": "https://open.spotify.com/track/15UK95JS3f9VvW3raRHADk"
+      "duration_ms": 180332,
+      "name": "Just My Luck",
+      "url": "https://open.spotify.com/track/1eHaiGXJdwRwvJG3pivPCu"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
+        "name": "Ngibongiseni",
+        "url": "https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72"
+      },
+      "artists": [
+        {
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Ngibongiseni",
+      "url": "https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU"
     },
     {
       "added_at": "2026-05-22 11:02:07",
@@ -443,18 +443,18 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Ngibongiseni",
-        "url": "https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc"
       },
       "artists": [
         {
-          "name": "Sjava",
-          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+          "name": "Kwartengg",
+          "url": "https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Ngibongiseni",
-      "url": "https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU"
+      "duration_ms": 165782,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX"
     },
     {
       "added_at": "2026-05-22 11:02:07",
@@ -475,18 +475,18 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc"
+        "name": "something new",
+        "url": "https://open.spotify.com/album/5KG7J4OfVqAnxqO830MFZ0"
       },
       "artists": [
         {
-          "name": "Kwartengg",
-          "url": "https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE"
+          "name": "ZUBIN",
+          "url": "https://open.spotify.com/artist/5kpmKrfmZQ8fRbEpQVAy1E"
         }
       ],
-      "duration_ms": 165782,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX"
+      "duration_ms": 125323,
+      "name": "something new",
+      "url": "https://open.spotify.com/track/15UK95JS3f9VvW3raRHADk"
     },
     {
       "added_at": "2026-05-22 11:02:07",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/5ke3IzmpmQm0BeJbE356gy"
+      },
+      "artists": [
+        {
+          "name": "Sean Koch",
+          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
+        }
+      ],
+      "duration_ms": 193477,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/7w1uJlpYAKUfi0uFGKJmHE"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
         "name": "Lookalike",
         "url": "https://open.spotify.com/album/1nxcTYjiHn0tK3SYImIdOr"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 162707,
       "name": "Djanne",
       "url": "https://open.spotify.com/track/6A28wYLJErEQD6UryKE8Ct"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/5ke3IzmpmQm0BeJbE356gy"
-      },
-      "artists": [
-        {
-          "name": "Sean Koch",
-          "url": "https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9"
-        }
-      ],
-      "duration_ms": 193477,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/7w1uJlpYAKUfi0uFGKJmHE"
     },
     {
       "added_at": "2026-05-07 22:03:31",
@@ -971,6 +971,22 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
+        "name": "Souls x Mates",
+        "url": "https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA"
+      },
+      "artists": [
+        {
+          "name": "Dandi Noxx",
+          "url": "https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "Souls x Mates",
+      "url": "https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
         "name": "Faya",
         "url": "https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 177882,
       "name": "OKAY!",
       "url": "https://open.spotify.com/track/6lmewW4pJlDGmZWgaWa1mT"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
-        "name": "Souls x Mates",
-        "url": "https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA"
-      },
-      "artists": [
-        {
-          "name": "Dandi Noxx",
-          "url": "https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz"
-        }
-      ],
-      "duration_ms": 231213,
-      "name": "Souls x Mates",
-      "url": "https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo"
     },
     {
       "added_at": "2026-05-07 22:03:31",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "20nothing",
-        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
-      },
-      "artists": [
-        {
-          "name": "Blessing Jolie",
-          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
-        }
-      ],
-      "duration_ms": 174267,
-      "name": "Regular Shmegular Girl",
-      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
         "name": "Holu Lufuno",
         "url": "https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 201959,
       "name": "Holu Lufuno",
       "url": "https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
+        "name": "20nothing",
+        "url": "https://open.spotify.com/album/1LmAoO7wnSBtPokxUSnEMz"
+      },
+      "artists": [
+        {
+          "name": "Blessing Jolie",
+          "url": "https://open.spotify.com/artist/57bDO2vmzu955G1W6EsYth"
+        }
+      ],
+      "duration_ms": 174267,
+      "name": "Regular Shmegular Girl",
+      "url": "https://open.spotify.com/track/2QuI2YX4Mg2GwJWjARd0FN"
     },
     {
       "added_at": "2026-05-07 22:03:31",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2026-05-07 22:03:31",
       "album": {
-        "name": "Isineke",
-        "url": "https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3"
-      },
-      "artists": [
-        {
-          "name": "Jabulile Majola",
-          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
-        },
-        {
-          "name": "Thando Zide",
-          "url": "https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2"
-        }
-      ],
-      "duration_ms": 206086,
-      "name": "Isineke",
-      "url": "https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB"
-    },
-    {
-      "added_at": "2026-05-07 22:03:31",
-      "album": {
         "name": "Terranga",
         "url": "https://open.spotify.com/album/5uuF7pyR4LWUt2YH5W57gf"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 201841,
       "name": "Terranga",
       "url": "https://open.spotify.com/track/4d3ZHLIh4OAbvokGMwOW7v"
+    },
+    {
+      "added_at": "2026-05-07 22:03:31",
+      "album": {
+        "name": "Isineke",
+        "url": "https://open.spotify.com/album/4snBnZfS3Aogw2OzWwbmr3"
+      },
+      "artists": [
+        {
+          "name": "Jabulile Majola",
+          "url": "https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF"
+        },
+        {
+          "name": "Thando Zide",
+          "url": "https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2"
+        }
+      ],
+      "duration_ms": 206086,
+      "name": "Isineke",
+      "url": "https://open.spotify.com/track/0voNRJ0ndsSafNOZlkAGCB"
     },
     {
       "added_at": "2026-05-07 22:03:31",

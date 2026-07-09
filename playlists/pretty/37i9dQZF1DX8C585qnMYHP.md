@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. <a href="spotify:artist:4bt8JAxE4tksg2VBgMCvIe">NZIRIA</a> on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,932 likes - 55 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,953 likes - 55 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

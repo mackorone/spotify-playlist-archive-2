@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 319792,
+  "num_followers": 319791,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -971,18 +971,22 @@
     {
       "added_at": "2026-05-22 03:01:24",
       "album": {
-        "name": "Tara",
-        "url": "https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV"
+        "name": "Beija-Fruta (O Sexo)",
+        "url": "https://open.spotify.com/album/1F8q1m1rRbWEi0cvSoNpih"
       },
       "artists": [
         {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+          "name": "Gavi",
+          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
+        },
+        {
+          "name": "Gabriela Brown",
+          "url": "https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f"
         }
       ],
-      "duration_ms": 166864,
-      "name": "Tara",
-      "url": "https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21"
+      "duration_ms": 273523,
+      "name": "Beija-Fruta (O Sexo)",
+      "url": "https://open.spotify.com/track/30D1XeU3BrcXqL6uPO0CjP"
     },
     {
       "added_at": "2026-05-22 03:01:24",
@@ -1003,22 +1007,18 @@
     {
       "added_at": "2026-05-22 03:01:24",
       "album": {
-        "name": "Beija-Fruta (O Sexo)",
-        "url": "https://open.spotify.com/album/1F8q1m1rRbWEi0cvSoNpih"
+        "name": "Tara",
+        "url": "https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV"
       },
       "artists": [
         {
-          "name": "Gavi",
-          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
-        },
-        {
-          "name": "Gabriela Brown",
-          "url": "https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f"
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
         }
       ],
-      "duration_ms": 273523,
-      "name": "Beija-Fruta (O Sexo)",
-      "url": "https://open.spotify.com/track/30D1XeU3BrcXqL6uPO0CjP"
+      "duration_ms": 166864,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21"
     },
     {
       "added_at": "2026-05-22 03:01:24",

@@ -14011,6 +14011,24 @@
     },
     {
       "album": {
+        "name": "FILLE",
+        "url": "https://open.spotify.com/album/1reg9VJhlIsm3n9ZthHW2Q"
+      },
+      "artists": [
+        {
+          "name": "Cannelle",
+          "url": "https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128580,
+      "name": "FILLE",
+      "url": "https://open.spotify.com/track/3rqyWkpY4Qx3HVsryAOcFu"
+    },
+    {
+      "album": {
         "name": "Fine Night",
         "url": "https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn"
       },
@@ -22550,6 +22568,24 @@
       "duration_ms": 188198,
       "name": "L-ON-D-ON",
       "url": "https://open.spotify.com/track/2s3eULWxfvrkca7qcZWXnp"
+    },
+    {
+      "album": {
+        "name": "\u00d6",
+        "url": "https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138706,
+      "name": "L.U.C.K.Y",
+      "url": "https://open.spotify.com/track/1KoTSKG0vs2vbzMvrbpWjp"
     },
     {
       "album": {

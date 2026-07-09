@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 142 songs - 7 hr 56 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,312 likes - 148 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,5 +150,11 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 140 | [Saw Satan](https://open.spotify.com/track/6msiwsi2zbFjUCufVX6TWS) | [213NINJA](https://open.spotify.com/artist/1cyR5va0xoqUL8D8dqxMzH) | [Saw Satan](https://open.spotify.com/album/3eXzadT7PlgQUOCa71w3PH) | 1:43 |
 | 141 | [Voler de nos propres ailes](https://open.spotify.com/track/1G6Iz4X61rsBlYfdUjWYCx) | [Eric Hartereau](https://open.spotify.com/artist/05AKy1V7dOPuFuzLZHRtu7) | [Voler](https://open.spotify.com/album/4AZUeXfb2Z4PpMQMjDy9e1) | 5:44 |
 | 142 | [Crescere](https://open.spotify.com/track/6w4K4RDb5jD3NwZfNmGCPz) | [Massimiliano Martelli](https://open.spotify.com/artist/2sjCNBILPVjt7p2l5BqIDJ) | [Crescere](https://open.spotify.com/album/7LWyHwzao8X4H8iJKz5RfS) | 3:07 |
+| 143 | [Il resto può aspettare](https://open.spotify.com/track/7HWx9p3l7lW3R9hmcZwoJ3) | [Matteo Bartalucci](https://open.spotify.com/artist/7bwkxPf8JNOvkt3RDlyWyT) | [Il resto può aspettare](https://open.spotify.com/album/1e9asopwUpLQahHKuHaX7j) | 3:35 |
+| 144 | [Vorrei Dirti](https://open.spotify.com/track/5au1dsIekJFBBHoIvTQSjQ) | [Matteo Bartalucci](https://open.spotify.com/artist/7bwkxPf8JNOvkt3RDlyWyT) | [Vorrei Dirti](https://open.spotify.com/album/1nKSAwEfbzSD308xdFUJYA) | 4:32 |
+| 145 | [Hey Mr Policeman](https://open.spotify.com/track/1dFamvnbwPPI1P0sLbFeyj) | [Angryoldogs](https://open.spotify.com/artist/7cHpausiZERLZ4zvljNVo9) | [Hey Mr Policeman](https://open.spotify.com/album/6z3BcY2Gv0zBQhTcWvFhvD) | 2:29 |
+| 146 | [An itch](https://open.spotify.com/track/2Ope98KgJcpifiCUAk8YpD) | [LOOSER](https://open.spotify.com/artist/74MOUfrsLMzoBLl5ssKkGk) | [Whistling Past the Cardhouse](https://open.spotify.com/album/77DbKxL9XhRVaSD3tsGZRM) | 4:14 |
+| 147 | [Adio Amore](https://open.spotify.com/track/75ICKWDSDThP0WQGMX5LCg) | [ALTSOUND SRB](https://open.spotify.com/artist/4OZruhUi24VNQTmHMkU2lA) | [Adio Amore](https://open.spotify.com/album/2DMmxDHXArOti3jOQK5rpx) | 3:11 |
+| 148 | [Missing](https://open.spotify.com/track/0VP4fq3sgMQOsbKAE2vPB1) | [ProjectG](https://open.spotify.com/artist/3AuYiIBJ0U3rAjZyZGDHT8) | [Missing](https://open.spotify.com/album/3RXrzgnkrlM3TLP5EuFLMj) | 2:47 |
 
-Snapshot ID: `AAAV6fFkP2sr8QuWNzKjWIjzw0Ygz7ES`
+Snapshot ID: `AAAV768KgLWBLKnXFafvkU8NqN8Jjvq4`

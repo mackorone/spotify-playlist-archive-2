@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-233 songs - 13 hr 41 min
+234 songs - 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All My Love](https://open.spotify.com/track/4lgq1xbQyT2vsMQNOreCij) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [All My Love](https://open.spotify.com/album/5Gbo4sOeenmqYTRolOGmZt) | 4:13 | 2026-01-01 |  |
 | [All Night](https://open.spotify.com/track/6JvDU5tu5vl2aWReFKjQsL) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [All Night](https://open.spotify.com/album/1im0h8ZGiQppPqeXDLS2td) | 3:16 | 2026-07-02 |  |
 | [Alē](https://open.spotify.com/track/5xkWnuF0eA5ODVKiTJaQXZ) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Alē](https://open.spotify.com/album/4BtZO261sAsq1ntXksWh5M) | 2:51 | 2025-07-18 | 2025-08-29 |
-| [Annecy](https://open.spotify.com/track/7CBXiV6q0kPOms002HJyoM) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [The City \- EP](https://open.spotify.com/album/5YSD37sctlEkDmGe2PSpRZ) | 4:29 | 2026-07-02 |  |
+| [Annecy](https://open.spotify.com/track/7CBXiV6q0kPOms002HJyoM) | [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [The City \- EP](https://open.spotify.com/album/5YSD37sctlEkDmGe2PSpRZ) | 4:29 | 2026-07-02 | 2026-07-09 |
 | [Anticipate](https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Anticipate](https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1) | 3:09 | 2025-07-18 | 2025-08-29 |
 | [Anything You Want \- Not That](https://open.spotify.com/track/6sI5m6cabkKWBuDh0kXMKk) | [Belleruche](https://open.spotify.com/artist/4N9nNkpjGuBlGWnYubQI8t) | [The Express](https://open.spotify.com/album/4gDRMgF1lgDHfn8PsYMwEp) | 3:22 | 2025-07-18 | 2026-03-18 |
 | [Ar Fresco](https://open.spotify.com/track/2n2J1IyAZQcAJZnekdnEPM) | [Golf Trip](https://open.spotify.com/artist/2cSZwherHAASXofK9ZFK2A), [Rachel Kitchlew](https://open.spotify.com/artist/5EkOHfxgVoxfKQu1b89W7C), [Sreya](https://open.spotify.com/artist/3dr0bDqmElcH4qBAN5j5GV) | [Ar Fresco](https://open.spotify.com/album/3X7cwZY7OQlkq2BZvfXSCF) | 4:02 | 2026-07-02 |  |
@@ -65,6 +65,7 @@
 | [Edge of the Earth](https://open.spotify.com/track/3GzhyEkF7m89mVv3BUJh8N) | [Skott](https://open.spotify.com/artist/6J3RPKUwZlKMzh3vWa9wPc) | [Edge of the Earth](https://open.spotify.com/album/1WljWKt77EMsgjRdnMfUHN) | 3:40 | 2025-11-14 | 2026-03-30 |
 | [El camino negro](https://open.spotify.com/track/46TKHBSVXIOYjfi3pp6X7F) | [Tommy Guerrero](https://open.spotify.com/artist/5qnkHpjyS6CUxH1UUy82B7) | [Road to Knowhere](https://open.spotify.com/album/5XNcBTBDka0LqtQ7FYJlVh) | 5:08 | 2025-07-18 | 2025-08-22 |
 | [Electric Soul](https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Somewhere In Between](https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk) | 2:52 | 2026-03-20 |  |
+| [END OF THE SKY](https://open.spotify.com/track/2laWkyz40Hn8PCodiCTo4Z) | [JVLY](https://open.spotify.com/artist/52flspAUwzY59cow3QC53f) | [END OF THE SKY](https://open.spotify.com/album/6cyLb8x3s5tF76GY0uzF45) | 2:39 | 2026-07-02 |  |
 | [enjoy the ride](https://open.spotify.com/track/7knEfWGJmJ7zgTNv3NA6cI) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [enjoy the ride](https://open.spotify.com/album/1EjxPT3Q4ONre5zZakmEhU) | 2:51 | 2025-08-07 | 2026-07-03 |
 | [Everybody's trying to figure me out](https://open.spotify.com/track/1CsGxcyExQn3vt4SNq91d1) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Everybody's trying to figure me out](https://open.spotify.com/album/7GQN5bFkpE2a9RFknshXuF) | 3:53 | 2025-07-18 | 2025-08-09 |
 | [Familiar Beat](https://open.spotify.com/track/19w2uyd9GJrTRMcJ5szPge) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Familiar Beat](https://open.spotify.com/album/49a5Qlsa5mEgjnbdW7tFjY) | 3:18 | 2025-07-18 | 2025-07-29 |

@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: John Roa, Dash Calzado
 
-978 songs - 2 day 12 hr 25 min
+980 songs - 2 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -541,6 +541,7 @@
 | [mr\. nonchalant](https://open.spotify.com/track/1QKu28Q0OgDzch4t6YBn1m) | [Sam Benwick](https://open.spotify.com/artist/2Zsn09Mt6kHdipblDeVaF9) | [mr\. nonchalant](https://open.spotify.com/album/2OzOp5KZD0muAoOC7vAx2g) | 3:35 | 2026-03-20 | 2026-05-19 |
 | [Ms\. Pakipot](https://open.spotify.com/track/0JkoOMtuZZ7wFqq1fnS5v5) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Ms\. Pakipot](https://open.spotify.com/album/5vbpYEkJ7LBjmPOnu8epwb) | 3:31 | 2025-03-28 | 2025-06-21 |
 | [Mula sa Malayo](https://open.spotify.com/track/13SS834IIKAm1ET1gJXluW) | [Migs](https://open.spotify.com/artist/1UI9GWaYys9wSqS2WFlaa8) | [Mula sa Malayo](https://open.spotify.com/album/3P7Mab9JF9xgdm6Mrcm48z) | 2:44 | 2024-09-18 | 2024-12-05 |
+| [Mula Sa Malayo \(Reimagined\)](https://open.spotify.com/track/0hQLcUDrlUjw2mjhKpU0cH) | [Migs](https://open.spotify.com/artist/1UI9GWaYys9wSqS2WFlaa8), [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Mula Sa Malayo \(Reimagined\)](https://open.spotify.com/album/7MBe8x7NFeB4nTxLRxHELy) | 3:30 | 2026-07-08 |  |
 | [Multiply](https://open.spotify.com/track/7cNx61AbnLyhJqhKhzF47g) | [Carl Angelo](https://open.spotify.com/artist/6DSGhKHTjmfiPILjDnDky6), [Breezee](https://open.spotify.com/artist/5Rp3IEFrKbq1sCRWez5XoE) | [Multiply](https://open.spotify.com/album/3Pt30nQIwPM7Pv8N8jvhdj) | 3:18 | 2026-02-27 | 2026-04-25 |
 | [Multo](https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Multo](https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo) | 3:57 | 2024-09-24 | 2025-04-08 |
 | [Muntikan](https://open.spotify.com/track/4Y4hZxwU3WXfydWoUZs3FO) | [Doughbaby](https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T) | [Scribble List of Feelings](https://open.spotify.com/album/3DO9cdydSijTcCDzfwDHTb) | 4:33 | 2026-06-19 |  |
@@ -573,6 +574,7 @@
 | [nananabik](https://open.spotify.com/track/0Qo45W6C2QeMz6o4bJ1m9b) | [rhodessa](https://open.spotify.com/artist/0XRPxTyrrVeDXLt6Wxw4UD) | [nananabik](https://open.spotify.com/album/78HaiGq1MIsdl8MZGiYdVr) | 4:02 | 2026-04-10 | 2026-06-27 |
 | [Nandito Ako](https://open.spotify.com/track/5p8IqHEfbNaAfpLqBYGBpj) | [Jhamil Villanueva](https://open.spotify.com/artist/1nTi2mRDBEEZwFxYcsYAR8) | [Nandito Ako](https://open.spotify.com/album/0Dqsp2jrQwBazQLtBFa2Hu) | 4:16 | 2025-09-05 | 2025-11-22 |
 | [Nandito Na Ako](https://open.spotify.com/track/6Af7cKFcnabaS0WAILVS5g) | [Benj Pangilinan](https://open.spotify.com/artist/6zJwFsIO19JxvxUAveVAFa), [Angela Ken](https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH) | [Nandito Na Ako](https://open.spotify.com/album/70S1f3uJouuxCigEVwOfPP) | 3:20 | 2024-07-02 | 2024-11-09 |
+| [Nang Iwan](https://open.spotify.com/track/5CgwESmg9qgxDSa7RBQxFb) | [This Band](https://open.spotify.com/artist/5HIZU0JzM0AgfItVOm4E08) | [Nang Iwan](https://open.spotify.com/album/0u1j9uKeBMlS9mbSPDEN5H) | 6:07 | 2026-07-08 |  |
 | [Nang Tahimik](https://open.spotify.com/track/2ZvnsAhdcPO0P6pM4JWmKs) | [geiko](https://open.spotify.com/artist/6buyTec2V7K6LVmL74MLl2) | [Nang Tahimik](https://open.spotify.com/album/5gC6gRRQB40oSPOoyPMDdA) | 5:34 | 2025-01-02 | 2025-06-07 |
 | [Nanghihinayang](https://open.spotify.com/track/0KD09Op0jUc8YgMDitybS6) | [Sam Mangubat](https://open.spotify.com/artist/73dgrlUNeTLiZFL1BpNVlw), [Niel Murillo](https://open.spotify.com/artist/71tuiyVVduvkPq0ww0kyR8) | [Nanghihinayang](https://open.spotify.com/album/3HYtOpu8zHYxazypT6kBvd) | 4:20 | 2025-05-16 | 2025-10-25 |
 | [naninibago \(mapanlinlang na pahiwatig\)](https://open.spotify.com/track/4FW9aXKqd7pwgfOyyHlQj1) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [naninibago \(mapanlinlang na pahiwatig\)](https://open.spotify.com/album/2ygYBpH1Xxm7JJCgqjvbkN) | 4:26 | 2025-02-12 | 2025-05-03 |

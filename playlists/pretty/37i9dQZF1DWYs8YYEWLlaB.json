@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler.  Kapak: Yal\u0131n",
-  "num_followers": 583581,
+  "num_followers": 583684,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -391,30 +391,6 @@
     {
       "added_at": "2026-07-06 06:00:32",
       "album": {
-        "name": "G\u00fcm G\u00fcm (Serhat Karada\u011f Remix) (feat. Onurr)",
-        "url": "https://open.spotify.com/album/5t4zxaoJRFxNBnzXQeSWIO"
-      },
-      "artists": [
-        {
-          "name": "Ayse Hatun Onal",
-          "url": "https://open.spotify.com/artist/25yeRs08qswXKKtq0HYTMS"
-        },
-        {
-          "name": "Onurr",
-          "url": "https://open.spotify.com/artist/3I3kGrPbyHSER6DIxsbsac"
-        },
-        {
-          "name": "Serhat Karadag",
-          "url": "https://open.spotify.com/artist/5lnel6i9CbZEYoWSyiYnEk"
-        }
-      ],
-      "duration_ms": 227428,
-      "name": "G\u00fcm G\u00fcm (Serhat Karada\u011f Remix) (feat. Onurr)",
-      "url": "https://open.spotify.com/track/3IgB5XnUKnrcKto3tsNcKI"
-    },
-    {
-      "added_at": "2026-07-06 06:00:32",
-      "album": {
         "name": "Seni D\u00fc\u015f\u00fcnd\u00fcm",
         "url": "https://open.spotify.com/album/19pHsDprhf7iUmvia6TDhH"
       },
@@ -451,6 +427,30 @@
       "duration_ms": 158779,
       "name": "UYUYAMADIN D\u0130M\u0130?",
       "url": "https://open.spotify.com/track/6ldLZlXIkKaaM9Y4bErh07"
+    },
+    {
+      "added_at": "2026-07-06 06:00:32",
+      "album": {
+        "name": "G\u00fcm G\u00fcm (Serhat Karada\u011f Remix) (feat. Onurr)",
+        "url": "https://open.spotify.com/album/5t4zxaoJRFxNBnzXQeSWIO"
+      },
+      "artists": [
+        {
+          "name": "Ayse Hatun Onal",
+          "url": "https://open.spotify.com/artist/25yeRs08qswXKKtq0HYTMS"
+        },
+        {
+          "name": "Onurr",
+          "url": "https://open.spotify.com/artist/3I3kGrPbyHSER6DIxsbsac"
+        },
+        {
+          "name": "Serhat Karadag",
+          "url": "https://open.spotify.com/artist/5lnel6i9CbZEYoWSyiYnEk"
+        }
+      ],
+      "duration_ms": 227428,
+      "name": "G\u00fcm G\u00fcm (Serhat Karada\u011f Remix) (feat. Onurr)",
+      "url": "https://open.spotify.com/track/3IgB5XnUKnrcKto3tsNcKI"
     },
     {
       "added_at": "2026-07-06 06:00:32",
@@ -675,26 +675,6 @@
     {
       "added_at": "2026-07-06 06:00:32",
       "album": {
-        "name": "Mustafa Sandal Sayg\u0131 1",
-        "url": "https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq"
-      },
-      "artists": [
-        {
-          "name": "Afra",
-          "url": "https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9"
-        },
-        {
-          "name": "Mustafa Sandal",
-          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
-        }
-      ],
-      "duration_ms": 212528,
-      "name": "Ad\u0131 \u0130ntikamd\u0131 - Mustafa Sandal Sayg\u0131 1",
-      "url": "https://open.spotify.com/track/7nbo62zsKUJb8VESKqsk9i"
-    },
-    {
-      "added_at": "2026-07-06 06:00:32",
-      "album": {
         "name": "Ben Hala R\u00fcyada",
         "url": "https://open.spotify.com/album/0AiIx5JOHBwzxU54TrBiSN"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 139833,
       "name": "BURADA SOKAKLAR",
       "url": "https://open.spotify.com/track/2vPA1SN0fPjevTyvWIJNO4"
+    },
+    {
+      "added_at": "2026-07-06 06:00:32",
+      "album": {
+        "name": "Mustafa Sandal Sayg\u0131 1",
+        "url": "https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq"
+      },
+      "artists": [
+        {
+          "name": "Afra",
+          "url": "https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9"
+        },
+        {
+          "name": "Mustafa Sandal",
+          "url": "https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo"
+        }
+      ],
+      "duration_ms": 212528,
+      "name": "Ad\u0131 \u0130ntikamd\u0131 - Mustafa Sandal Sayg\u0131 1",
+      "url": "https://open.spotify.com/track/7nbo62zsKUJb8VESKqsk9i"
     },
     {
       "added_at": "2026-07-06 06:00:32",

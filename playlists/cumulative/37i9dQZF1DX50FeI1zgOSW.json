@@ -229,6 +229,28 @@
     },
     {
       "album": {
+        "name": "Aathadi",
+        "url": "https://open.spotify.com/album/0cKwRlkY5EeN0NkUvwAceP"
+      },
+      "artists": [
+        {
+          "name": "R.Madhan Mohan",
+          "url": "https://open.spotify.com/artist/299hZFMTm60ri5cIlUzIoy"
+        },
+        {
+          "name": "Neha Girish",
+          "url": "https://open.spotify.com/artist/7j7JiRc4hgylqljp5gmKcv"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267500,
+      "name": "Aathadi",
+      "url": "https://open.spotify.com/track/3EzGEMuDVJF8pxbWnNJWNx"
+    },
+    {
+      "album": {
         "name": "Mudivili",
         "url": "https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1"
       },

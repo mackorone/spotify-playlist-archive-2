@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 120 | [Police](https://open.spotify.com/track/5XOJEIGtUSSl1AxIBLZkhp) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:02 |
 | 121 | [Meaningless](https://open.spotify.com/track/41VUrlXNQ7Mbwv8jdsVCRs) | [Philmon Lee](https://open.spotify.com/artist/5yLiSpA4wPJNf7kYBIZegG) | [706](https://open.spotify.com/album/79zG8H3ljW0GGiS6tmDPqP) | 2:57 |
 | 122 | [Comfort Me](https://open.spotify.com/track/3XoAsVgJYuKboiaY7njdPd) | [Urban Cone](https://open.spotify.com/artist/3WOOglGBDGvr6c2WBeMAWn) | [10\-18](https://open.spotify.com/album/04AEJ2LgvsgEIVWcnu6enG) | 3:48 |
-| 123 | [Gotta Luv It](https://open.spotify.com/track/5BwvaW05K2lLDUcli2uzUU) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Gotta Luv It](https://open.spotify.com/album/2OdkWu9PJKbmjUSMIyye1z) | 3:13 |
-| 124 | [2001](https://open.spotify.com/track/346UdgVc5V68r9yWA1efqg) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [29](https://open.spotify.com/album/1mdGboH4Gfm3hXJc4H4VQh) | 2:10 |
+| 123 | [2001](https://open.spotify.com/track/346UdgVc5V68r9yWA1efqg) | [Bankrol Hayden](https://open.spotify.com/artist/0Yr4BBpK2dkCp2UsrJ9LZN) | [29](https://open.spotify.com/album/1mdGboH4Gfm3hXJc4H4VQh) | 2:10 |
+| 124 | [Gotta Luv It](https://open.spotify.com/track/5BwvaW05K2lLDUcli2uzUU) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Gotta Luv It](https://open.spotify.com/album/2OdkWu9PJKbmjUSMIyye1z) | 3:13 |
 | 125 | [Two Up](https://open.spotify.com/track/6V0ajyvgaX22SQX8hk8qxp) | [Diggy](https://open.spotify.com/artist/2LuUALONla8DJRSCiGONBp) | [Unexpected Arrival](https://open.spotify.com/album/3rLALi4R1QAvZW86YCkoX2) | 3:30 |
 | 126 | [Slave \(feat\. Eskeerdo\)](https://open.spotify.com/track/2sg4tl6k14jvHzEVHB9cfS) | [King Los](https://open.spotify.com/artist/29M3C4IzWXrztUr4cV2umC), [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [God, Money, War](https://open.spotify.com/album/6fZLItAImf0KyRzAI7F2NF) | 2:54 |
 | 127 | [Ghost](https://open.spotify.com/track/718mh2QW7uoabCzAdeHBD0) | [KingJet](https://open.spotify.com/artist/66UIbw9tYvJsqKEWsLqZUe) | [Travel](https://open.spotify.com/album/4Ws6Kfk6A8Bjd59Fy2okeB) | 2:56 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQW1ZXEpcxgt.md) - [plain]
 | 148 | [Nothing In Common](https://open.spotify.com/track/4FPt0UqiphP1eiDCX9pxGO) | [Eskeerdo](https://open.spotify.com/artist/3W9VRKnzPo8DXlMVYODc95) | [Money Changed Everything](https://open.spotify.com/album/5ws5VdEkQquZKXv6Zdritp) | 2:48 |
 | 149 | [Gang In This Bitch](https://open.spotify.com/track/47igTK6oLfLRuK5IHQqx26) | [CHIRAQ CULTURE](https://open.spotify.com/artist/1DWnPrbc3B6IbM4dMO5CLg) | [SHOOTERS TOUCH VOL 1](https://open.spotify.com/album/3KLou7O2u6sGpqpNSgcetX) | 2:51 |
 
-Snapshot ID: `AcWQHAAAAACOFj8gSQ3QqunAfdU4EbJ/`
+Snapshot ID: `AcWV0AAAAABKdIqQz+Sjx2Q5A/xjYl0A`

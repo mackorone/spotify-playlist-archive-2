@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari Tulus, SIENNA SPIRO, Madonna, Aruma, Meiska, Prinsa Mandagie dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,232 likes - 81 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,225 likes - 81 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

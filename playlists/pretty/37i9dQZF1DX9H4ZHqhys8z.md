@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Γιορτάζοντας 5 Χρόνια EQUAL\. Εξώφυλλο: Danae
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,887 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,890 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Thavma Tis Fisis](https://open.spotify.com/track/5ty67X4dyFtYmQThlQnvnp) | [Nina Mazani](https://open.spotify.com/artist/2HYTcCm27ECQVbmyrBxg3f) | [Thavma Tis Fisis](https://open.spotify.com/album/1Rm1rICywKzbHHvVesKnWL) | 3:39 |
 | 50 | [Pyr Gyni Kai Thalassa](https://open.spotify.com/track/7nmyEp6I0gGv7JBTFrIWlS) | [Nefeli Fasouli](https://open.spotify.com/artist/0JygyrBVyE7APBHSMsxjtp) | [Pyr Gyni Kai Thalassa](https://open.spotify.com/album/2sAkbvEhCtprDRaKTeW8Sw) | 3:06 |
 
-Snapshot ID: `AAAAAK5xH09kE3fWSaTplW1o3BEbtlBI`
+Snapshot ID: `AAAAAMGEiH8w950fAo0u5fGL43K9U0w4`

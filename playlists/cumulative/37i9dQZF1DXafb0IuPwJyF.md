@@ -4,7 +4,7 @@
 
 > 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover: SUPER BEAVER
 
-1,811 songs - 4 day 16 hr 4 min
+1,812 songs - 4 day 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Bassline](https://open.spotify.com/track/2Nw5FJmcZfM7kQVU2GsYOR) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Bassline](https://open.spotify.com/album/0OutIfPgB0uJbyXMaJqmOl) | 2:52 | 2026-03-10 | 2026-03-25 |
 | [bathroom](https://open.spotify.com/track/2lNJGoEJX2FpJDUGZRIuu0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [bathroom](https://open.spotify.com/album/2fKpk83eEE5bozCQDk84z0) | 3:31 | 2023-10-01 | 2023-10-09 |
 | [BE THE GROOVE](https://open.spotify.com/track/3ib1m0Op3FQVXNIpEVOKf3) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Mori Zentaro](https://open.spotify.com/artist/69U5ZWuR3MzAL9DwN65ETD) | [BE THE GROOVE](https://open.spotify.com/album/1MJdzLW8rQadytAc39Lmnb) | 2:44 | 2022-10-16 | 2022-11-07 |
-| [BE:FIRST ALL DAY](https://open.spotify.com/track/3C7208lbsu1qFo5oNfYG2I) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:FIRST ALL DAY](https://open.spotify.com/album/69eatCsaFiBwrSIaXbCkj6) | 2:35 | 2026-03-24 |  |
+| [BE:FIRST ALL DAY](https://open.spotify.com/track/3C7208lbsu1qFo5oNfYG2I) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:FIRST ALL DAY](https://open.spotify.com/album/69eatCsaFiBwrSIaXbCkj6) | 2:35 | 2026-03-24 | 2026-07-09 |
 | [Before I Go](https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Before I Go](https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo) | 4:06 | 2022-06-12 | 2022-07-04 |
 | [Belt of Venus](https://open.spotify.com/track/2iG9jd5SVWYnObU6PzeOS1) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Belt of Venus](https://open.spotify.com/album/5gChpeCx9i8VmjfdrNF8J0) | 5:29 | 2025-10-28 | 2025-12-03 |
 | [Best Match](https://open.spotify.com/track/1LbEG2MZGtZrfZj7MVzrbx) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Best Match](https://open.spotify.com/album/545WCfR93t46jPrAsI49Ab) | 2:55 | 2026-03-03 | 2026-04-22 |
@@ -582,6 +582,7 @@
 | [Miss Luxury](https://open.spotify.com/track/2pPZuMAbrKIxxRCYhhOojm) | [YZERR](https://open.spotify.com/artist/7z8eFxohsIg2Tu5evbNXXo), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [¥ellow Bucks](https://open.spotify.com/artist/1Fe6FA7A57suR2KAaERpqH) | [Dark Hero](https://open.spotify.com/album/4XbABQzmrgrArI8oHY65Lm) | 4:33 | 2025-02-18 | 2025-05-21 |
 | [Miss You feat\. Vernon of SEVENTEEN](https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [Miss You feat\. Vernon of SEVENTEEN](https://open.spotify.com/album/0PGpaBslmhcCA0O9KvBcqW) | 3:04 | 2023-07-24 | 2023-08-28 |
 | [missing](https://open.spotify.com/track/5COfkrLpT6t2fHliXbc3tl) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [missing](https://open.spotify.com/album/6fxRUp0yEHIE79usuBfVaM) | 3:09 | 2022-10-09 | 2022-11-21 |
+| [Missing](https://open.spotify.com/track/5vnFENiK0q4cmtAKJymZWS) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Missing](https://open.spotify.com/album/17H78zuMexl1wkkYBhzsKa) | 2:52 | 2026-07-08 |  |
 | [MIU](https://open.spotify.com/track/1qPp3HgkZDNKXcgSMHlYjc) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [MIU](https://open.spotify.com/album/61FMY9vYheCQCzwx2SgExu) | 3:40 | 2022-03-06 | 2022-03-21 |
 | [Mixed Nuts](https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Mixed Nuts](https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4) | 3:33 | 2022-07-25 | 2022-09-12 |
 | [Moment](https://open.spotify.com/track/2ZuP9GNXW7q1XYgX6Cmq5o) | [INI](https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv) | [Moment](https://open.spotify.com/album/0V0FuNEtfJnT9VqpCLngus) | 3:26 | 2023-08-20 | 2023-09-04 |

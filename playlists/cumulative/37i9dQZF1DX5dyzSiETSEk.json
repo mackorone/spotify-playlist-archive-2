@@ -1991,6 +1991,40 @@
     },
     {
       "album": {
+        "name": "Mad - Wicked Wonderland (From \"Descendants: Wicked Wonderland\")",
+        "url": "https://open.spotify.com/album/5Z1aeFFvNtbf7P7CbzGCam"
+      },
+      "artists": [
+        {
+          "name": "Kylie Cantrall",
+          "url": "https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX"
+        },
+        {
+          "name": "Malia Baker",
+          "url": "https://open.spotify.com/artist/4ALl3aeHX63UVQheaHFdPq"
+        },
+        {
+          "name": "Liamani",
+          "url": "https://open.spotify.com/artist/3aN48TzSXlQbemkDdIBO2v"
+        },
+        {
+          "name": "Descendants \u2013 Cast",
+          "url": "https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93916,
+      "name": "Mad - Wicked Wonderland - From \"Descendants: Wicked Wonderland\"",
+      "url": "https://open.spotify.com/track/1GzbaOHvaMnsMO2dhUMb45"
+    },
+    {
+      "album": {
         "name": "V",
         "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
       },
@@ -3492,7 +3526,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 188186,
       "name": "The Other Side (from Trolls World Tour)",
       "url": "https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX"

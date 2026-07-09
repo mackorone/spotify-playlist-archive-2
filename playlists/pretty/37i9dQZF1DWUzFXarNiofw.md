@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Jorja Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,141 likes - 250 songs - 12 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,139 likes - 250 songs - 12 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 7 | [I'll Take Care Of U \(ITCOFU\)](https://open.spotify.com/track/3g3w1cpcgFS6QEPrjfAAZn) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [I’ll Take Care Of U \(ITCOFU\)](https://open.spotify.com/album/4BMkaqDj1ckCqsD5smAuhp) | 2:55 |
 | 8 | [Masquerade](https://open.spotify.com/track/6sJLK8d6VNCqGVknYFLX6Q) | [MALIA](https://open.spotify.com/artist/5o6oaYrumOkkzsOmwZXJv6), [Homeboy Sandman](https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb) | [If I'm Being Honest](https://open.spotify.com/album/2sCfkr7RWvA1It0b2lckAW) | 3:00 |
 | 9 | [Changes Rising](https://open.spotify.com/track/2w506gm1anuCes4phbCaMP) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Changes Rising](https://open.spotify.com/album/19cu33f4nHMSR9WtwCjDVS) | 3:16 |
-| 10 | [What's Going On \(Don't Rush\)](https://open.spotify.com/track/4FBhmyeFonHfP20kClXg20) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [What's Going On \(Don't Rush\)](https://open.spotify.com/album/2R6KXVWCi4eUSVoVwKoWAd) | 3:24 |
+| 10 | [What's Going On \(Don't Rush\)](https://open.spotify.com/track/4FBhmyeFonHfP20kClXg20) | [Lizzen](https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [What's Going On \(Don't Rush\)](https://open.spotify.com/album/2R6KXVWCi4eUSVoVwKoWAd) | 3:24 |
 | 11 | [Let Me Love U Better](https://open.spotify.com/track/4Qlx8CG6EeICnlpCvFLeXY) | [Ezra](https://open.spotify.com/artist/3JV7Jk651HCj2ohc0s0pKN) | [Let Me Love U Better](https://open.spotify.com/album/2Xwv0pkwtGo3KaYeGq4NZx) | 3:16 |
 | 12 | [Eleven](https://open.spotify.com/track/54SNvoH7n5z3A0GBgJbxbP) | [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Eleven](https://open.spotify.com/album/6UB0spDMUxY03DxovdUtvA) | 3:29 |
 | 13 | [2ND GUESSING](https://open.spotify.com/track/1Qez5s3tL9xirYwbAdk3s6) | [Echo Huang](https://open.spotify.com/artist/3nCCEiChcmfz65ccX2BzdE), [Tiara Thomas](https://open.spotify.com/artist/69FykkhiqpzqeSNYRxc8BI) | [SELF\-HELP TAPE](https://open.spotify.com/album/73Yk6gYjwFwrZq01Cck2mm) | 3:02 |

@@ -326,7 +326,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 124625,
       "name": "apnoea",
       "url": "https://open.spotify.com/track/2XZOoiOxcItf02RhMQK02f"
@@ -744,6 +744,24 @@
       "duration_ms": 152000,
       "name": "Blissed Out",
       "url": "https://open.spotify.com/track/2f87y9hlltwy95cG6FrTle"
+    },
+    {
+      "album": {
+        "name": "Blooming Canopy",
+        "url": "https://open.spotify.com/album/52jBYHzCKQQolr0TrxAHLu"
+      },
+      "artists": [
+        {
+          "name": "Softfield",
+          "url": "https://open.spotify.com/artist/3fAsMj4bHch8mjQ3wf5BOV"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159666,
+      "name": "Blooming Canopy",
+      "url": "https://open.spotify.com/track/05LVvmA1kkHNqCuqvXWeYk"
     },
     {
       "album": {
@@ -2044,6 +2062,24 @@
       "duration_ms": 179807,
       "name": "Emberly Path",
       "url": "https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj"
+    },
+    {
+      "album": {
+        "name": "Endless Clouds",
+        "url": "https://open.spotify.com/album/0Ql7z2eNgrPJMKOKPW3P9d"
+      },
+      "artists": [
+        {
+          "name": "Shanglari",
+          "url": "https://open.spotify.com/artist/1cK5ptD5pydqAD3wiayjGL"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161949,
+      "name": "Endless Clouds",
+      "url": "https://open.spotify.com/track/2GTfmAPDOT2JpcExWit355"
     },
     {
       "album": {
@@ -6404,7 +6440,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 154411,
       "name": "Sleep Shine",
       "url": "https://open.spotify.com/track/1NSpVywHEnNOG53Nkz3jV5"

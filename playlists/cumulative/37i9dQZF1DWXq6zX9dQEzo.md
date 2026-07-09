@@ -4,7 +4,7 @@
 
 > Let the weights go up and the blessings come down!  Get your beast mode on!
 
-975 songs - 1 day 22 hr 6 min
+976 songs - 1 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,7 +624,7 @@
 | [ON GOD TIME](https://open.spotify.com/track/6RB5eX2jLHLntrAQ6VMiKU) | [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [DEMON KILLER UNIVERSITY \(Bonus Pack\)](https://open.spotify.com/album/5XUVgHt49mYgNWNueHfy4f) | 2:08 | 2025-03-07 | 2026-02-21 |
 | [ON ME](https://open.spotify.com/track/1HAwPdeEZeVf6zA2pYZHMd) | [Ayomilly](https://open.spotify.com/artist/0IuAscyArEtUaYlqRGJTLj), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I) | [ON ME](https://open.spotify.com/album/4bgUXM15Hie1wqTGjTvcwi) | 2:20 | 2026-05-29 |  |
 | [On Me](https://open.spotify.com/track/3hc5nXLo90dpU99yQOx5Yd) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jenna Wright](https://open.spotify.com/artist/0MtYXfFXzoj83z70TMRRZP) | [Destiny: Vol\. 1](https://open.spotify.com/album/0njnGUwGmixvpHzL01vxxC) | 2:40 | 2022-02-04 | 2022-10-04 |
-| [On My Mind](https://open.spotify.com/track/4fE2k6AfJRTI0OoCn0Cf5H) | [Th3 Saga](https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp), [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ) | [On My Mind](https://open.spotify.com/album/4K12982k32v2LjA5P5FwKv) | 2:21 | 2026-05-29 |  |
+| [On My Mind](https://open.spotify.com/track/4fE2k6AfJRTI0OoCn0Cf5H) | [Th3 Saga](https://open.spotify.com/artist/7jLwldFATvydUsOIiJV2Lp), [CJ Emulous](https://open.spotify.com/artist/5Jgv9sRXt4V3TwSU1H41eQ) | [On My Mind](https://open.spotify.com/album/4K12982k32v2LjA5P5FwKv) | 2:21 | 2026-05-29 | 2026-07-09 |
 | [ON MY OWN](https://open.spotify.com/track/0XpMMyWhdU7AuBEuc3G01Z) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [ON MY OWN](https://open.spotify.com/album/5JbeSse9g5Qpv4LVkVUs3G) | 2:08 | 2026-02-20 |  |
 | [On Point](https://open.spotify.com/track/0HzyRWnahxFFPpZtuJFSIU) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [On Point](https://open.spotify.com/album/5Z5S2eo9G2DBDwBFYlLhdm) | 2:32 | 2022-03-11 | 2022-03-24 |
 | [ON THA SEAT](https://open.spotify.com/track/5HRC8AYowTbU10wJQ16Auy) | [adriansings](https://open.spotify.com/artist/2HloHLKSPcm2s0nzX2mAIW) | [ON THA SEAT](https://open.spotify.com/album/1dYQWKJn9d0JRapMeQ93Qk) | 3:27 | 2022-05-28 | 2024-01-13 |
@@ -647,6 +647,7 @@
 | [Overnight](https://open.spotify.com/track/5AxhA8xrGrHFqUjIVbrDk0) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs) | [Overnight](https://open.spotify.com/album/3qGZswU9EIOUzL9nRaONit) | 2:10 | 2023-12-01 | 2024-06-08 |
 | [PANDEMONIUM](https://open.spotify.com/track/69QUsdXXMl0m3K15efY2nV) | [International Show](https://open.spotify.com/artist/6iqUZDrDngJ6LIHlJm5BpT) | [PANDEMONIUM](https://open.spotify.com/album/0BYK4uW9rxHnZRH4BE0GJo) | 3:05 | 2024-02-02 | 2024-03-21 |
 | [PARABOLIC!](https://open.spotify.com/track/3pm0lUOKsphN8A3VLZivuS) | [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [PARABOLIC!](https://open.spotify.com/album/0N4cV7R9R0fXq4ZQBEit4B) | 2:38 | 2022-02-04 | 2022-12-17 |
+| [PASS THE BLESSINGS](https://open.spotify.com/track/4po7k2hurPAWWDqtNUSdii) | [Queen Lee](https://open.spotify.com/artist/0ESxKUSobqG0GkLrxg77XS), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [PASS THE BLESSINGS](https://open.spotify.com/album/15Z1azNj9eUvdEUx4tEP80) | 2:24 | 2026-07-03 |  |
 | [Passion](https://open.spotify.com/track/24Dkm8JP8jaYxReOBptIRF) | [DizzyEight](https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV) | [Passion](https://open.spotify.com/album/4nGnmHETBa1uW8jz7PL7tQ) | 3:18 | 2025-06-09 | 2025-09-20 |
 | [Pastor Monty](https://open.spotify.com/track/2hsy4PMd50TgUyMarkQJuo) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O) | [Pastor Monty](https://open.spotify.com/album/3LKKgmRlF6vlY7Yf34m72j) | 2:22 | 2022-04-30 | 2023-08-12 |
 | [peace at last](https://open.spotify.com/track/3GU1NnT6gLvNrkTNnmo2Lh) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [peace at last](https://open.spotify.com/album/0NUDgYkJXkkI6e0LfuvTs0) | 2:34 | 2026-02-20 |  |

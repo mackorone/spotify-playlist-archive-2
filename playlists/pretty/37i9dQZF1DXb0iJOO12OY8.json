@@ -1,12 +1,12 @@
 {
   "description": "Heia Norge \ud83c\uddf3\ud83c\uddf4\u26bd\ufe0f\ud83c\udfdf\ufe0f",
-  "num_followers": 216076,
+  "num_followers": 216505,
   "original_name": "Alt for Norge!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFf+N6jUwe6C9uC2x56Y2HTn7uJF",
+  "snapshot_id": "AAAAABj+wYURcHjYiaw8eeSaAo2yTM4t",
   "tracks": [
     {
       "added_at": "2026-06-16 12:32:34",
@@ -27,6 +27,26 @@
       "duration_ms": 162045,
       "name": "Vikingblod (Norway Row Chant)",
       "url": "https://open.spotify.com/track/34YF4ZTr6cWQyHsjAmV1Co"
+    },
+    {
+      "added_at": "2026-06-16 10:57:10",
+      "album": {
+        "name": "Kongens Menn",
+        "url": "https://open.spotify.com/album/6L4F4xbRSmQAKO99PyCABm"
+      },
+      "artists": [
+        {
+          "name": "Kongens Menn",
+          "url": "https://open.spotify.com/artist/6aJxLVgZ5875f0URSeQpRX"
+        },
+        {
+          "name": "Birkelunden Mannskor",
+          "url": "https://open.spotify.com/artist/2zfbcqB6axSNewctgkHOQD"
+        }
+      ],
+      "duration_ms": 168378,
+      "name": "Kongens Menn (feat. Birkelunden Mannskor)",
+      "url": "https://open.spotify.com/track/0i4UcILImgKSCbfaHsJg5P"
     },
     {
       "added_at": "2026-06-16 10:57:10",
@@ -63,26 +83,6 @@
     {
       "added_at": "2026-06-16 10:57:10",
       "album": {
-        "name": "Kongens Menn",
-        "url": "https://open.spotify.com/album/6L4F4xbRSmQAKO99PyCABm"
-      },
-      "artists": [
-        {
-          "name": "Kongens Menn",
-          "url": "https://open.spotify.com/artist/6aJxLVgZ5875f0URSeQpRX"
-        },
-        {
-          "name": "Birkelunden Mannskor",
-          "url": "https://open.spotify.com/artist/2zfbcqB6axSNewctgkHOQD"
-        }
-      ],
-      "duration_ms": 168378,
-      "name": "Kongens Menn (feat. Birkelunden Mannskor)",
-      "url": "https://open.spotify.com/track/0i4UcILImgKSCbfaHsJg5P"
-    },
-    {
-      "added_at": "2026-06-16 10:57:10",
-      "album": {
         "name": "SAMMEN FOR NORGE",
         "url": "https://open.spotify.com/album/0KJLqWTb8C9JQSLxHQr6Ub"
       },
@@ -105,22 +105,6 @@
       "url": "https://open.spotify.com/track/4t0PYPeACGNWLJYniAqnVg"
     },
     {
-      "added_at": "2026-06-16 10:57:10",
-      "album": {
-        "name": "Alt For Norge",
-        "url": "https://open.spotify.com/album/4aQB1v78WPrJolmCeTNFAM"
-      },
-      "artists": [
-        {
-          "name": "Den BB",
-          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
-        }
-      ],
-      "duration_ms": 151352,
-      "name": "Alt For Norge",
-      "url": "https://open.spotify.com/track/4m9erlcywGIMPeXsDEmfMW"
-    },
-    {
       "added_at": "2026-07-06 09:31:45",
       "album": {
         "name": "Alt For Norge",
@@ -139,6 +123,66 @@
       "duration_ms": 261333,
       "name": "Alt For Norge",
       "url": "https://open.spotify.com/track/3E5IeN5MqUs16rjvMRlaT1"
+    },
+    {
+      "added_at": "2026-07-08 08:20:53",
+      "album": {
+        "name": "Kygo Jo (feat. Lyng) [Kygo Remix]",
+        "url": "https://open.spotify.com/album/6AQiRXJ2i48Lu7CFUrKUER"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Flow Kingz",
+          "url": "https://open.spotify.com/artist/1811qTctCVNYGH09k7sfyY"
+        },
+        {
+          "name": "JMK",
+          "url": "https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN"
+        },
+        {
+          "name": "Lyng",
+          "url": "https://open.spotify.com/artist/5ducg8qTQPfJJSSsO3D8hB"
+        }
+      ],
+      "duration_ms": 153272,
+      "name": "Kygo Jo (feat. Lyng) - Kygo Remix",
+      "url": "https://open.spotify.com/track/3ExrDwHbhBZYurE2AOC1rL"
+    },
+    {
+      "added_at": "2026-06-16 10:57:10",
+      "album": {
+        "name": "Haaland (Ha Ha Ha)",
+        "url": "https://open.spotify.com/album/2S7hk5ScgjdYZ6vyaaXFIx"
+      },
+      "artists": [
+        {
+          "name": "CTID",
+          "url": "https://open.spotify.com/artist/0Xw8uMcDlFaAI9RYZN8Pxx"
+        }
+      ],
+      "duration_ms": 185491,
+      "name": "Haaland (Ha Ha Ha)",
+      "url": "https://open.spotify.com/track/0hwPOwj3rojFt33NhaxNUy"
+    },
+    {
+      "added_at": "2026-06-16 10:57:10",
+      "album": {
+        "name": "Alt For Norge",
+        "url": "https://open.spotify.com/album/4aQB1v78WPrJolmCeTNFAM"
+      },
+      "artists": [
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        }
+      ],
+      "duration_ms": 151352,
+      "name": "Alt For Norge",
+      "url": "https://open.spotify.com/track/4m9erlcywGIMPeXsDEmfMW"
     },
     {
       "added_at": "2026-06-16 10:57:10",
@@ -199,22 +243,6 @@
       "duration_ms": 113606,
       "name": "Norge sk\u00e5rte m\u00e5l",
       "url": "https://open.spotify.com/track/57A2AQ1FjfAItYUIzhs4E6"
-    },
-    {
-      "added_at": "2026-06-16 10:57:10",
-      "album": {
-        "name": "Haaland (Ha Ha Ha)",
-        "url": "https://open.spotify.com/album/2S7hk5ScgjdYZ6vyaaXFIx"
-      },
-      "artists": [
-        {
-          "name": "CTID",
-          "url": "https://open.spotify.com/artist/0Xw8uMcDlFaAI9RYZN8Pxx"
-        }
-      ],
-      "duration_ms": 185491,
-      "name": "Haaland (Ha Ha Ha)",
-      "url": "https://open.spotify.com/track/0hwPOwj3rojFt33NhaxNUy"
     },
     {
       "added_at": "2026-06-16 10:57:10",

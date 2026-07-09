@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: YAO \*👉 <a href="https://spice.eplus.jp/articles/347250">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: YAO \*👉 <a href="https://spice.eplus.jp/articles/347449">連動記事</a>をSPICEでチェック!
 
-15,349 songs - 40 day 17 hr 20 min
+15,353 songs - 40 day 18 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [2026/6/24 SUPER BEAVERがニューアルバム『人生』をリリース！indigo la Endのインタビューも！LEXのニューアルバム、jizueが Shing02を迎えた新曲もピックアップ！！](https://open.spotify.com/episode/4lCSiMlUMcyZME0fqY0J9j) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 48:23 | 2026-06-24 | 2026-07-01 |
 | [2026/6/3 Aoooがニューアルバム『Rooom』をリリースしてカバーに！Early Noiseアーティストでもあるハク。の新曲、スーパー登山部、Julia Takadaのアルバムも！山内総一郎とKREVAによるコラボ曲もピックアップ！楽音からメッセージも到着！](https://open.spotify.com/episode/1FBAfGKMz4OCe1IgrLnPT9) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 25:47 | 2026-06-03 | 2026-06-10 |
 | [2026/7/1 アイナ・ジ・エンドが新曲をリリース！BE:FIRST、名誉伝説、韓国のバンドSilica Gelの新曲もピックアップ！民謡クルセイダーズのニューアルバムも！](https://open.spotify.com/episode/4R3g7xFJuRPvakDFg9ph0N) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 21:16 | 2026-07-01 | 2026-07-08 |
+| [2026/7/8 YAOがカバー！TVアニメ『正反対な君と僕』特集！主題歌を務める7co、Mega Shinnosuke、音楽を担当するtofubeatsからメッセージが到着！新プロジェクト・Beach Boysの新曲、kurayamisakaの新曲、注目の新世代アーティストCHITAAの新曲、亀梨和也の1stアルバムもピックアップ！](https://open.spotify.com/episode/3CyxLF0a3TutZdba5x1NVU) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Podcast Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 32:29 | 2026-07-08 |  |
 | [2043](https://open.spotify.com/track/42IgqSzvHhQElRxwOODYSc) | [DOPING PANDA](https://open.spotify.com/artist/1Z9z0ONErFhEvidgPFOi6W) | [2043](https://open.spotify.com/album/6tZvb95vFFg5CSmc3LefQv) | 3:50 | 2025-07-15 | 2025-07-23 |
 | [204号室](https://open.spotify.com/track/57fxEddP12LNLD90A9l5qv) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [204号室](https://open.spotify.com/album/049K22Wcjpmo9sM4CreI7j) | 3:26 | 2026-04-14 | 2026-04-22 |
 | [2050](https://open.spotify.com/track/3pgZdp4flHiLgSypRW2vp0) | [Sora](https://open.spotify.com/artist/0WP3McNC0NO0pphoGZT3N3) | [Imperfect](https://open.spotify.com/album/1SOIce6PxOz5T4VN44Indf) | 3:00 | 2024-12-03 | 2024-12-11 |
@@ -1230,6 +1231,7 @@
 | [BLUE](https://open.spotify.com/track/4IehAfAGnazAV2KiH3zfRv) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [空](https://open.spotify.com/album/5fg8QLCJt6TpzAPjD5JMTK) | 2:41 | 2025-09-16 | 2025-09-24 |
 | [BLUE](https://open.spotify.com/track/0kl4j15Pxml8h9UYzrbHJV) | [IMASHI](https://open.spotify.com/artist/5JzkYmtNRiywseVHVuxBBk) | [BLUE](https://open.spotify.com/album/4IhSh1WgfWUm8MPwU7Ayx8) | 3:05 | 2026-01-14 | 2026-01-21 |
 | [Blue](https://open.spotify.com/track/6lRQiLSV8HaEYg9KlEuGff) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Blue Inside You](https://open.spotify.com/album/6ktH5R1nwPHZuH0tFppChA) | 3:26 | 2024-10-09 | 2024-10-16 |
+| [Blue](https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [Blue](https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0) | 2:36 | 2026-07-08 |  |
 | [Blue](https://open.spotify.com/track/5jnWeUu1q7iu5TlexpU0PW) | [THE SIXTH LIE](https://open.spotify.com/artist/2sCc8pMRgv99AweDSrFFZt) | [Blue](https://open.spotify.com/album/4sPBPnjgoICnkVWclgum1K) | 3:40 | 2026-03-31 | 2026-04-08 |
 | [BLUE](https://open.spotify.com/track/4O4N89HJWtV1EYc6q0Sxwh) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [BLUE PARADISE](https://open.spotify.com/album/0Mo8K6mKxS0lCENDG8pCb0) | 3:02 | 2025-02-25 | 2025-03-05 |
 | [blue](https://open.spotify.com/track/1fjtjLFdEM5QDzElnB0GHd) | [荒井岳史](https://open.spotify.com/artist/7grzhKqVws9ckPpZSWKqLw) | [7years](https://open.spotify.com/album/4jKd9zBp2V0qG86x7dEJ6v) | 3:03 | 2024-04-24 | 2024-05-01 |
@@ -6435,6 +6437,7 @@
 | [On Fire](https://open.spotify.com/track/6R60QSiT6Jr6vWY2Vbr0JN) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [On Fire](https://open.spotify.com/album/7pxIcTRwcnBZghXhDILq53) | 3:41 | 2025-06-03 | 2025-06-11 |
 | [ON FIRE](https://open.spotify.com/track/3jq0vkAI4I78h1dllnOFfU) | [TAKUMI](https://open.spotify.com/artist/4WoHWcWvbQSg7fW9zfHPys) | [ON FIRE](https://open.spotify.com/album/0S4HyybLx2zvHDsfPS2Cbl) | 3:12 | 2024-07-30 | 2024-08-07 |
 | [ON MY BIKE](https://open.spotify.com/track/7rWJErOewz9Q4x6Z02HXkM) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [HEADWAY](https://open.spotify.com/album/6MQTfio4WhfKDRuS8AJXxF) | 3:06 | 2024-10-22 | 2024-10-30 |
+| [On My Knees](https://open.spotify.com/track/3ZsCxN0FJ9rFQCo9ye5Jz7) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [On My Knees](https://open.spotify.com/album/1rdQ5PAuu2HCjf99wgdFRR) | 3:28 | 2026-07-08 |  |
 | [On My Mind](https://open.spotify.com/track/6topXSGgYh6TwuMuvrS4hT) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [On My Mind](https://open.spotify.com/album/3rMqO35Fau6K2G662vp9f6) | 3:29 | 2024-12-03 | 2024-12-11 |
 | [ON MY MIND](https://open.spotify.com/track/3OIc678MAJCxx4DrvxmiUa) | [Simmer Pine](https://open.spotify.com/artist/1aBq93WwCvNTicXVQ7B9vA) | [ON MY MIND](https://open.spotify.com/album/5zDCI4WaVPl1kLvxEjlJwq) | 3:32 | 2024-06-25 | 2024-07-03 |
 | [On My Way](https://open.spotify.com/track/3ZrhbuFP03QwuVeFFLwm1U) | [Sala Kurokawa](https://open.spotify.com/artist/5gfV2sADb4hk8v0l3TxN15) | [Born To Fly](https://open.spotify.com/album/3pdZhumPhagg15fQXb24o0) | 3:06 | 2025-06-17 | 2025-06-25 |
@@ -6991,6 +6994,7 @@
 | [Pressure Dynamite](https://open.spotify.com/track/0QVRdWtMzidr9PRzj9mm7Q) | [パーカーズ](https://open.spotify.com/artist/6TVg7Kq9FSpdPLWMlHUhfW) | [Pressure Dynamite](https://open.spotify.com/album/4s8URnaEbHQ67RnTmpIkdK) | 3:41 | 2026-04-28 | 2026-05-06 |
 | [Pretense](https://open.spotify.com/track/1iGilBtLO9t5Wm6hs4I7pj) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Pretense](https://open.spotify.com/album/64Ucc9nGoY5gpfh86alRVm) | 4:27 | 2024-03-26 | 2024-04-03 |
 | [Pretty](https://open.spotify.com/track/3KvI7gbmINLpp3DHhTW4rX) | [yura](https://open.spotify.com/artist/1fdU76nbdxEwt2OkXmpP7f) | [Pretty](https://open.spotify.com/album/3NfGhWcEDgwH6mj1rsciYF) | 1:53 | 2026-02-24 | 2026-03-04 |
+| [Pretty Girl](https://open.spotify.com/track/26GehcyfHwgzfS0ok9yDYk) | [RESCENE](https://open.spotify.com/artist/5deOsjuFTKrNMJW3rKuL8S) | [Pretty Girl \- Special Single](https://open.spotify.com/album/5fooRwtJmNvt64WhLN5Chy) | 3:30 | 2026-07-08 |  |
 | [Pretty in pink](https://open.spotify.com/track/4xCy0UyJ5qMx0bbt4F9B0d) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Pretty in pink](https://open.spotify.com/album/5Cgh8OZAJ8Y6haJyxMzBVH) | 2:56 | 2023-04-26 | 2023-05-03 |
 | [Pretty in pink](https://open.spotify.com/track/5FPoDmhfaK08USOhbX4jAM) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Pretty in pink](https://open.spotify.com/album/6FAyVgF0ZBEBPIi3QQHK6l) | 2:56 | 2023-04-25 | 2023-04-27 |
 | [PRETTY IN SUMMER](https://open.spotify.com/track/23gG5OevXIAjHPTvoUwiCl) | [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [PRETTY IN SUMMER](https://open.spotify.com/album/72aTdush28YG8vJLsSWGbb) | 4:52 | 2024-11-13 | 2024-11-20 |

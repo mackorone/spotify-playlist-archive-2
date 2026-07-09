@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop releases\. Cover: Afro Bros, John West, Billy Dans & Monq
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,267 likes - 102 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,278 likes - 102 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

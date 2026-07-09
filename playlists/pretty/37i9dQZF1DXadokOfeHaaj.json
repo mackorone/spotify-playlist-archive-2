@@ -1,6 +1,6 @@
 {
   "description": "The best new electronic indie music. Cover: Bonobo",
-  "num_followers": 43603,
+  "num_followers": 43600,
   "original_name": "Indie Electronic ",
   "owner": {
     "name": "Spotify",
@@ -451,26 +451,6 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "Lemme Dance",
-        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 223660,
-      "name": "Lemme Dance",
-      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
         "name": "I Love My Computer",
         "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 169856,
       "name": "It's You",
       "url": "https://open.spotify.com/track/6raYznZkOrvB3n7B2Ur3zr"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
+        "name": "Lemme Dance",
+        "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 223660,
+      "name": "Lemme Dance",
+      "url": "https://open.spotify.com/track/5mw7Yu0K0iCAI3pIKxnZ9B"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -703,30 +703,6 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "What You Want (SG Lewis Remix)",
-        "url": "https://open.spotify.com/album/1HKaZdOadRfquf0hGyDjBZ"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        },
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "What You Want - SG Lewis Remix",
-      "url": "https://open.spotify.com/track/5mFCEnWFocy9hDLHE0H7qo"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
         "name": "Keep Me On The Dancefloor",
         "url": "https://open.spotify.com/album/4J4bgMYKDkVRDW5zNGWghU"
       },
@@ -767,6 +743,30 @@
       "duration_ms": 257741,
       "name": "That's All I Ask - HAAi Remix / Edit",
       "url": "https://open.spotify.com/track/40qN3XgBBaq3AtD4a6ArJc"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
+        "name": "What You Want (SG Lewis Remix)",
+        "url": "https://open.spotify.com/album/1HKaZdOadRfquf0hGyDjBZ"
+      },
+      "artists": [
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "Justice",
+          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "What You Want - SG Lewis Remix",
+      "url": "https://open.spotify.com/track/5mFCEnWFocy9hDLHE0H7qo"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
+        "name": "ROUND & ROUND",
+        "url": "https://open.spotify.com/album/0eKrFiYJK5RhlqELhsSxqi"
+      },
+      "artists": [
+        {
+          "name": "Sam Gellaitry",
+          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
+        }
+      ],
+      "duration_ms": 224841,
+      "name": "ROUND & ROUND",
+      "url": "https://open.spotify.com/track/3O70fX1mURzZI5lXd42JEq"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
         "name": "Together (feat. Nikki Nair, Jessy Lanza & Prentiss)",
         "url": "https://open.spotify.com/album/6GmOQW6pjdEarBwMvGLm5l"
       },
@@ -935,22 +951,6 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "ROUND & ROUND",
-        "url": "https://open.spotify.com/album/0eKrFiYJK5RhlqELhsSxqi"
-      },
-      "artists": [
-        {
-          "name": "Sam Gellaitry",
-          "url": "https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H"
-        }
-      ],
-      "duration_ms": 224841,
-      "name": "ROUND & ROUND",
-      "url": "https://open.spotify.com/track/3O70fX1mURzZI5lXd42JEq"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/3AKbeXvey1HmmyYEcWZRqq"
       },
@@ -963,26 +963,6 @@
       "duration_ms": 165388,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/6JGrKJtW3CxLscWj7OJMYt"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
-        "name": "Like It",
-        "url": "https://open.spotify.com/album/14PgQPeflG0gYdsgSdgHQU"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "3DDY",
-          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
-        }
-      ],
-      "duration_ms": 266923,
-      "name": "Like It",
-      "url": "https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -1047,6 +1027,26 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
+        "name": "Like It",
+        "url": "https://open.spotify.com/album/14PgQPeflG0gYdsgSdgHQU"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "3DDY",
+          "url": "https://open.spotify.com/artist/7D53TPVCnMEjMMKP9EKv8q"
+        }
+      ],
+      "duration_ms": 266923,
+      "name": "Like It",
+      "url": "https://open.spotify.com/track/45k8qYkYZJ87ckRq3O3fVj"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
         "name": "Switch Up",
         "url": "https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU"
       },
@@ -1059,26 +1059,6 @@
       "duration_ms": 215375,
       "name": "Switch Up",
       "url": "https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
-        "name": "Rolling Thunder",
-        "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "Rolling Thunder",
-      "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -1111,6 +1091,26 @@
       "duration_ms": 169411,
       "name": "Play Me",
       "url": "https://open.spotify.com/track/20UnbY4JAUTbSCf38TKDdz"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
+        "name": "Rolling Thunder",
+        "url": "https://open.spotify.com/album/341NSo0xEGEeSpTTggK7vu"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Rolling Thunder",
+      "url": "https://open.spotify.com/track/6s7dLjVizkile3eKaqt4db"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
+        "name": "Curses Broken",
+        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
+      },
+      "artists": [
+        {
+          "name": "Gerry Read",
+          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+        }
+      ],
+      "duration_ms": 277838,
+      "name": "Better Let It Go",
+      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
+    },
+    {
+      "added_at": "2026-06-25 23:00:28",
+      "album": {
         "name": "WORRY. (Herbert's Brahm Dub)",
         "url": "https://open.spotify.com/album/289cq3Rl0F7yqAiwvJBdoX"
       },
@@ -1235,18 +1251,18 @@
     {
       "added_at": "2026-06-25 23:00:28",
       "album": {
-        "name": "Curses Broken",
-        "url": "https://open.spotify.com/album/0VKoTrkB7atHHNuJ2LRakY"
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X"
       },
       "artists": [
         {
-          "name": "Gerry Read",
-          "url": "https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ"
+          "name": "Danny Brown",
+          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
         }
       ],
-      "duration_ms": 277838,
-      "name": "Better Let It Go",
-      "url": "https://open.spotify.com/track/2G0aa0fdGyO6I1uQPB3czd"
+      "duration_ms": 212066,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/4hSTvY4GQrNDC2TsCwhEFc"
     },
     {
       "added_at": "2026-06-25 23:00:28",
@@ -1267,22 +1283,6 @@
       "duration_ms": 164548,
       "name": "SWITCH",
       "url": "https://open.spotify.com/track/10PTIp0MdGqBuTvtTEuhR0"
-    },
-    {
-      "added_at": "2026-06-25 23:00:28",
-      "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/0h3LYQns7VLlsMW7392Z1X"
-      },
-      "artists": [
-        {
-          "name": "Danny Brown",
-          "url": "https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU"
-        }
-      ],
-      "duration_ms": 212066,
-      "name": "Lift You Up",
-      "url": "https://open.spotify.com/track/4hSTvY4GQrNDC2TsCwhEFc"
     }
   ],
   "unique_name": "Indie Electronic ",

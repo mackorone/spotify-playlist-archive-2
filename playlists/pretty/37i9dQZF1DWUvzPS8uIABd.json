@@ -1,6 +1,6 @@
 {
   "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. ",
-  "num_followers": 132552,
+  "num_followers": 132550,
   "original_name": "#vainsuomihitit",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "\u00c4l\u00e4 mee",
-        "url": "https://open.spotify.com/album/53Lizt5ZH7SeT07STfMUlq"
-      },
-      "artists": [
-        {
-          "name": "emma & matilda",
-          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
-        }
-      ],
-      "duration_ms": 229322,
-      "name": "\u00c4l\u00e4 mee",
-      "url": "https://open.spotify.com/track/4OIjkwaRD7RtUUyfSmMIUd"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
         "name": "Mit\u00e4 syd\u00e4melle k\u00e4y",
         "url": "https://open.spotify.com/album/25orPmdA1YcsnlnWiV6FVe"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 193578,
       "name": "Mit\u00e4 syd\u00e4melle k\u00e4y",
       "url": "https://open.spotify.com/track/5y08hzaQKn64LXde19zY5i"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
+        "name": "\u00c4l\u00e4 mee",
+        "url": "https://open.spotify.com/album/53Lizt5ZH7SeT07STfMUlq"
+      },
+      "artists": [
+        {
+          "name": "emma & matilda",
+          "url": "https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV"
+        }
+      ],
+      "duration_ms": 229322,
+      "name": "\u00c4l\u00e4 mee",
+      "url": "https://open.spotify.com/track/4OIjkwaRD7RtUUyfSmMIUd"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
+        "name": "Joku johon nojata",
+        "url": "https://open.spotify.com/album/60gHhhpJJCBJwNHFg5suHj"
+      },
+      "artists": [
+        {
+          "name": "Jenni Vartiainen",
+          "url": "https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9"
+        }
+      ],
+      "duration_ms": 201073,
+      "name": "Joku johon nojata",
+      "url": "https://open.spotify.com/track/1cZP3dz4jUBWKRQPJFjULb"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
         "name": "Badabim (My Kind Of Terapiaa)",
         "url": "https://open.spotify.com/album/18TPXQgapyr0CqbeNCGle3"
       },
@@ -891,6 +907,22 @@
       "duration_ms": 156000,
       "name": "Badabim (My Kind Of Terapiaa)",
       "url": "https://open.spotify.com/track/3KGwFCVwBAa54xwTaCdbJ1"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
+        "name": "Kaikki p\u00e4\u00e4ttyy meihin",
+        "url": "https://open.spotify.com/album/05WXs6ariojObbFucrzg69"
+      },
+      "artists": [
+        {
+          "name": "VIIVI",
+          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
+        }
+      ],
+      "duration_ms": 172092,
+      "name": "Kaikki p\u00e4\u00e4ttyy meihin",
+      "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -915,38 +947,6 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "Joku johon nojata",
-        "url": "https://open.spotify.com/album/60gHhhpJJCBJwNHFg5suHj"
-      },
-      "artists": [
-        {
-          "name": "Jenni Vartiainen",
-          "url": "https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9"
-        }
-      ],
-      "duration_ms": 201073,
-      "name": "Joku johon nojata",
-      "url": "https://open.spotify.com/track/1cZP3dz4jUBWKRQPJFjULb"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
-        "name": "Kaikki p\u00e4\u00e4ttyy meihin",
-        "url": "https://open.spotify.com/album/05WXs6ariojObbFucrzg69"
-      },
-      "artists": [
-        {
-          "name": "VIIVI",
-          "url": "https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh"
-        }
-      ],
-      "duration_ms": 172092,
-      "name": "Kaikki p\u00e4\u00e4ttyy meihin",
-      "url": "https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
         "name": "SHOTIT",
         "url": "https://open.spotify.com/album/7ICfYQtWxs54jhJ1D0qUcQ"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 154659,
       "name": "SHOTIT",
       "url": "https://open.spotify.com/track/72S4WLsyHM9dj4eIZd3zPc"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
+        "name": "Kuudes aisti",
+        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "duration_ms": 193965,
+      "name": "Kuudes aisti",
+      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -983,38 +999,6 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "Viaton",
-        "url": "https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1"
-      },
-      "artists": [
-        {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Viaton",
-      "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
-        "name": "Kuudes aisti",
-        "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
-      },
-      "artists": [
-        {
-          "name": "BESS",
-          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
-        }
-      ],
-      "duration_ms": 193965,
-      "name": "Kuudes aisti",
-      "url": "https://open.spotify.com/track/1iIA9450UQFYhStCPlyB68"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
         "name": "Kuka nauraa nyt",
         "url": "https://open.spotify.com/album/0sUq8q0GStH00NE6nDCVWX"
       },
@@ -1031,6 +1015,22 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
+        "name": "Viaton",
+        "url": "https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1"
+      },
+      "artists": [
+        {
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Viaton",
+      "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
         "name": "T\u00e4\u00e4 tunne",
         "url": "https://open.spotify.com/album/6ydY2zebn5LfMlQjNNCyxg"
       },
@@ -1043,6 +1043,22 @@
       "duration_ms": 159000,
       "name": "T\u00e4\u00e4 tunne",
       "url": "https://open.spotify.com/track/2iyIZsT9JobbLBi0O9QD5V"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
+        "name": "Jokaisen hymyn takana",
+        "url": "https://open.spotify.com/album/35TYpcFr95oXYfYJnTlxBu"
+      },
+      "artists": [
+        {
+          "name": "Ilta",
+          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
+        }
+      ],
+      "duration_ms": 188893,
+      "name": "Jokaisen hymyn takana",
+      "url": "https://open.spotify.com/track/5EJNi9EF4ut1vFNo0ygJsl"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -1067,38 +1083,6 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "Maailma on mun",
-        "url": "https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX"
-      },
-      "artists": [
-        {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
-        }
-      ],
-      "duration_ms": 182438,
-      "name": "Kaikki on mahollist",
-      "url": "https://open.spotify.com/track/3MaLeuBpGax5hiCaLYlPis"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
-        "name": "Jokaisen hymyn takana",
-        "url": "https://open.spotify.com/album/35TYpcFr95oXYfYJnTlxBu"
-      },
-      "artists": [
-        {
-          "name": "Ilta",
-          "url": "https://open.spotify.com/artist/7wpzJLl0ElNQwRRsALqUSd"
-        }
-      ],
-      "duration_ms": 188893,
-      "name": "Jokaisen hymyn takana",
-      "url": "https://open.spotify.com/track/5EJNi9EF4ut1vFNo0ygJsl"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
         "name": "Kaikki tahtoo taivaaseen",
         "url": "https://open.spotify.com/album/5CDCkbQ0i3ZLMwEx00ahfk"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 154247,
       "name": "Kaikki tahtoo taivaaseen",
       "url": "https://open.spotify.com/track/4JK9igYtNGRuu2Ub4euf03"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
+        "name": "Maailma on mun",
+        "url": "https://open.spotify.com/album/6fZNN1JBw3ZgZtHElXmdtX"
+      },
+      "artists": [
+        {
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+        }
+      ],
+      "duration_ms": 182438,
+      "name": "Kaikki on mahollist",
+      "url": "https://open.spotify.com/track/3MaLeuBpGax5hiCaLYlPis"
     },
     {
       "added_at": "2026-06-25 21:00:30",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-06-25 21:00:30",
       "album": {
-        "name": "4Life",
-        "url": "https://open.spotify.com/album/0i3GgbzTfsaeEm36TupNCM"
-      },
-      "artists": [
-        {
-          "name": "Mikael Gabriel",
-          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
-        }
-      ],
-      "duration_ms": 156683,
-      "name": "4Life",
-      "url": "https://open.spotify.com/track/7I923uLFwvvvHU6z3zuuTd"
-    },
-    {
-      "added_at": "2026-06-25 21:00:30",
-      "album": {
         "name": "Ihan kohta ohi",
         "url": "https://open.spotify.com/album/6U6Q04ZNy889fOio6lHgME"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 185920,
       "name": "Ihan kohta ohi",
       "url": "https://open.spotify.com/track/77FxknEqTRfHKO27zirjFO"
+    },
+    {
+      "added_at": "2026-06-25 21:00:30",
+      "album": {
+        "name": "4Life",
+        "url": "https://open.spotify.com/album/0i3GgbzTfsaeEm36TupNCM"
+      },
+      "artists": [
+        {
+          "name": "Mikael Gabriel",
+          "url": "https://open.spotify.com/artist/79Pc4RR5E625J7dK543jDw"
+        }
+      ],
+      "duration_ms": 156683,
+      "name": "4Life",
+      "url": "https://open.spotify.com/track/7I923uLFwvvvHU6z3zuuTd"
     },
     {
       "added_at": "2026-06-25 21:00:30",

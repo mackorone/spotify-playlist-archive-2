@@ -1,6 +1,6 @@
 {
   "description": "Burn off all those beers from last night.",
-  "num_followers": 1523743,
+  "num_followers": 1523874,
   "original_name": "One More Rep",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-06-17 16:37:55",
       "album": {
-        "name": "An Ending In Itself",
-        "url": "https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 216884,
-      "name": "An Ending In Itself",
-      "url": "https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk"
-    },
-    {
-      "added_at": "2026-06-17 16:37:55",
-      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 248383,
       "name": "Crying Fire",
       "url": "https://open.spotify.com/track/2u6rLo8cuQ91qse20KNPT8"
+    },
+    {
+      "added_at": "2026-06-17 16:37:55",
+      "album": {
+        "name": "An Ending In Itself",
+        "url": "https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 216884,
+      "name": "An Ending In Itself",
+      "url": "https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk"
     },
     {
       "added_at": "2026-06-17 16:37:55",
@@ -995,18 +995,18 @@
     {
       "added_at": "2026-06-17 16:37:55",
       "album": {
-        "name": "Going to Hell",
-        "url": "https://open.spotify.com/album/5cjJRrzeVRE79YXiTSCbVf"
+        "name": "BOMB TO A KNIFE FIGHT",
+        "url": "https://open.spotify.com/album/7t0w7wWnCcNvZrUGvreW21"
       },
       "artists": [
         {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
+          "name": "The Barbarians of California",
+          "url": "https://open.spotify.com/artist/4ssLjypWLLQ2kP9aHRMraO"
         }
       ],
-      "duration_ms": 224854,
-      "name": "Heaven Knows",
-      "url": "https://open.spotify.com/track/7F5jxmwf1uWVqh6nbYz7rl"
+      "duration_ms": 161504,
+      "name": "BOMB TO A KNIFE FIGHT",
+      "url": "https://open.spotify.com/track/1mVaXOne0HkvbeReuBkg8V"
     }
   ],
   "unique_name": "One More Rep",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,092 likes - 313 songs - 18 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,094 likes - 313 songs - 18 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -250,8 +250,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 240 | [All Good](https://open.spotify.com/track/1hcBfjO5gRHQiFPiOJ4kst) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [The Young OG Project](https://open.spotify.com/album/6x0bSKJ5z02Z5QsSPs9jg9) | 3:45 |
 | 241 | [Lullaby](https://open.spotify.com/track/2PMYUf7pLMU4OOnzp4xJ84) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi) | [Mumble Rap](https://open.spotify.com/album/04XJbeTbd7CvN0eXwe4K8P) | 3:14 |
 | 242 | [Goodbye](https://open.spotify.com/track/7rQbW3YgTdiDTjxTA1UzSk) | [Slaughterhouse](https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r) | [welcome to: OUR HOUSE \(Deluxe\)](https://open.spotify.com/album/5ztTCKLCKuiIXzXpbqdUGa) | 5:02 |
-| 243 | [Too Late](https://open.spotify.com/track/5W8aXA5fRDRG7yTCPWSU7w) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [UNDER8ED](https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ) | 2:54 |
-| 244 | [Mula](https://open.spotify.com/track/3seg6hHqbFbQoi4hsgR0ux) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [About Time](https://open.spotify.com/album/0WscwmldrRO4vgFQchLPIV) | 3:25 |
+| 243 | [Mula](https://open.spotify.com/track/3seg6hHqbFbQoi4hsgR0ux) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [About Time](https://open.spotify.com/album/0WscwmldrRO4vgFQchLPIV) | 3:25 |
+| 244 | [Too Late](https://open.spotify.com/track/5W8aXA5fRDRG7yTCPWSU7w) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [UNDER8ED](https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ) | 2:54 |
 | 245 | [Southside](https://open.spotify.com/track/7AUYitA3rADsfyYaWai7Wv) | [Pardison Fontaine](https://open.spotify.com/artist/7Gkyjs2OYQpJdOvvmwIz2Z) | [UNDER8ED](https://open.spotify.com/album/3PDlbCUpbitsraP877GYTQ) | 3:27 |
 | 246 | [Future](https://open.spotify.com/track/3YrcUQYqtaBcbgjOXI5FZv) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Vado](https://open.spotify.com/artist/4ubKsFJjMgWkARG6w2Qlv8), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [We The Best Forever](https://open.spotify.com/album/7FyxsUO4kVqRfo2ne1aUOg) | 5:35 |
 | 247 | [Vulnerable \(feat\. Travis Scott\)](https://open.spotify.com/track/46aqy8ZnoeCM5z4CidMSni) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Aquarius](https://open.spotify.com/album/0kAjVhWydfRkTlG95XWHOB) | 3:26 |
@@ -322,4 +322,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 312 | [Love Me Til I Die](https://open.spotify.com/track/4GLENDZP3pxlrzpkQDITWt) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/2oPT6EoZENUaEzT03RoG6C) | 4:18 |
 | 313 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AcWP9AAAAACmE1TaYORl0wvqy3rt5HZT`
+Snapshot ID: `AcWVvAAAAAB0KDGMVgTlr+W5x14+sVs6`

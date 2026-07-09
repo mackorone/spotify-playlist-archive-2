@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With UrvTek, sixwing, Learke and more
+> With UrvTek, sixwing, STYXVII and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 672 likes - 50 songs - 2 hr 21 min
 

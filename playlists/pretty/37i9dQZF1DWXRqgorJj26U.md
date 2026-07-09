@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRqgorJj26U.md) - [plain]
 
 > Rock legends & epic songs that continue to inspire generations\. Cover: Ramones
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,095,349 likes - 200 songs - 14 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,095,510 likes - 200 songs - 14 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

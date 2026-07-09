@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop tracks from independent artists & labels\. Cover: <a href="spotify:artist:3YGjCVq7bfP2wT3jzbaxab">Lynn</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,211 likes - 80 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,243 likes - 80 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 79 | [Supastar Livin](https://open.spotify.com/track/0b3ZxqM1X83BekMU5scZZ8) | [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Supastar Livin](https://open.spotify.com/album/5GxX1rWrlqthjPpNsV6TrV) | 1:36 |
 | 80 | [Moonlight](https://open.spotify.com/track/0VMZb81qhvwWI4w3OVydSk) | [FattMack](https://open.spotify.com/artist/3L9uBgjdSGghrzkEpr4Fy7) | [McKenzie 2.0](https://open.spotify.com/album/0Jkbl6Acbfo87qL80QYJcu) | 2:00 |
 
-Snapshot ID: `AAAAAH6jMizbxFCOimYyKchwCk64ttM7`
+Snapshot ID: `AAAAADZHk/cW+4RDTkIcT87zJtdKUWUb`

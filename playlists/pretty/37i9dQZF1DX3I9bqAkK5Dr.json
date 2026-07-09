@@ -1,13 +1,33 @@
 {
-  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Anirudh Ravichander",
-  "num_followers": 44479,
+  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Manisha Eerabathini",
+  "num_followers": 44489,
   "original_name": "Telugu Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOfGKtBsi8ikyQRfmy4oFS1VE6RA",
+  "snapshot_id": "AAAAAAQi0ZSIxa6BUxx+enc8A/nHVqx/",
   "tracks": [
+    {
+      "added_at": "2026-07-08 10:24:51",
+      "album": {
+        "name": "Take It Light",
+        "url": "https://open.spotify.com/album/0wz0WHPKIKu4a8jl7TWXj5"
+      },
+      "artists": [
+        {
+          "name": "Manisha Eerabathini",
+          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+        },
+        {
+          "name": "Shashank Alamuru",
+          "url": "https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Take It Light",
+      "url": "https://open.spotify.com/track/0q5FSsFKykzoYMPZQtjU59"
+    },
     {
       "added_at": "2026-07-01 06:10:30",
       "album": {
@@ -215,6 +235,22 @@
       "duration_ms": 216213,
       "name": "Sukumaarive",
       "url": "https://open.spotify.com/track/0HnQBVo7llaBl04ksWExcm"
+    },
+    {
+      "added_at": "2026-07-08 10:24:51",
+      "album": {
+        "name": "Silakamma",
+        "url": "https://open.spotify.com/album/6y5dRvQhZ7ETFpZQNBkqAo"
+      },
+      "artists": [
+        {
+          "name": "Manasa Seshu",
+          "url": "https://open.spotify.com/artist/4WR9RvUFi89qh6mOsvHlOB"
+        }
+      ],
+      "duration_ms": 184692,
+      "name": "Silakamma",
+      "url": "https://open.spotify.com/track/5Q7mGQOrhO2zOAbAUbd8lj"
     },
     {
       "added_at": "2026-06-19 05:43:05",
@@ -943,22 +979,6 @@
       "duration_ms": 164400,
       "name": "Telupana Cheli",
       "url": "https://open.spotify.com/track/7Mwdxcy1LsYtghUphU2yzI"
-    },
-    {
-      "added_at": "2026-01-07 16:21:47",
-      "album": {
-        "name": "Na Hrudayame",
-        "url": "https://open.spotify.com/album/4oKsCU0I6CwZgA7vIs4SFq"
-      },
-      "artists": [
-        {
-          "name": "Vamshi Dandanayakula",
-          "url": "https://open.spotify.com/artist/0NNUZ3TZP3bVd7s9USGkE6"
-        }
-      ],
-      "duration_ms": 247909,
-      "name": "Na Hrudayame",
-      "url": "https://open.spotify.com/track/741v3bdKP06zxeyETT7xxn"
     },
     {
       "added_at": "2026-02-14 00:30:30",
@@ -1767,22 +1787,6 @@
       "duration_ms": 257068,
       "name": "Daari Maarina",
       "url": "https://open.spotify.com/track/6yQW6Ek4MgcqBgThopuhNX"
-    },
-    {
-      "added_at": "2026-01-05 05:30:29",
-      "album": {
-        "name": "Hey Nene",
-        "url": "https://open.spotify.com/album/0eqtgJE49B3tDsrf7WNKqf"
-      },
-      "artists": [
-        {
-          "name": "Arviz",
-          "url": "https://open.spotify.com/artist/3rKUf439xhL5OBzFjRgMNf"
-        }
-      ],
-      "duration_ms": 160140,
-      "name": "Hey Nene",
-      "url": "https://open.spotify.com/track/2JmQmd4T2qBayISYT7nShb"
     },
     {
       "added_at": "2026-01-15 07:23:21",

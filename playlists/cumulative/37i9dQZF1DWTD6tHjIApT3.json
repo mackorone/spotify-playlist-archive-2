@@ -21643,6 +21643,24 @@
     },
     {
       "album": {
+        "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593",
+        "url": "https://open.spotify.com/album/75ud6v5jZFdJdPXdoqyZwe"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208520,
+      "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593",
+      "url": "https://open.spotify.com/track/4efmtclSeuqYXi6tuGRYtm"
+    },
+    {
+      "album": {
         "name": "Lycoris",
         "url": "https://open.spotify.com/album/6A7nUQ1vGlsz82s7bN1K0M"
       },
@@ -52850,7 +52868,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 257220,
       "name": "\u30d6\u30eb\u30fc\u30a2\u30ef\u30fc",
       "url": "https://open.spotify.com/track/7Lh5M0RD6X6GL3PnIwrZqo"
@@ -63876,7 +63894,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 240000,
       "name": "\u66d6\u6627\u306a\u6307\u5207\u308a",
       "url": "https://open.spotify.com/track/0NZmVUHSk4JEC2oaxa2ibz"
@@ -68688,6 +68706,24 @@
       "duration_ms": 264533,
       "name": "\u82b1\u3072\u3089",
       "url": "https://open.spotify.com/track/2HqEvEecCKVnKOIswcuYBE"
+    },
+    {
+      "album": {
+        "name": "\u82b1\u54b2\u304f\u9053",
+        "url": "https://open.spotify.com/album/7aKEem9xZIhIzHhMeR77Op"
+      },
+      "artists": [
+        {
+          "name": "ME:I",
+          "url": "https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC"
+        }
+      ],
+      "date_added": "2026-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "\u82b1\u54b2\u304f\u9053",
+      "url": "https://open.spotify.com/track/7hsXgNruHoMTXrapRR1oNP"
     },
     {
       "album": {

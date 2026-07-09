@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 293 songs - 18 hr 42 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 302 songs - 19 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -301,5 +301,14 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 291 | [Flowers by the Door](https://open.spotify.com/track/0S7ILu8uGua2llPFY7psqu) | [T.S.O.L.](https://open.spotify.com/artist/01PtFYBOBK0tlxt4WZXiYw) | [Change Today?](https://open.spotify.com/album/6jpMPZ4Wjk9t9u9A3piXV8) | 3:02 |
 | 292 | [Hybrid Moments](https://open.spotify.com/track/3gN4UFoOnRHlMl3K4kU5zG) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Static Age](https://open.spotify.com/album/51tAz06EJxwhsk8uNfWxBo) | 1:42 |
 | 293 | [Mr\. Moustache](https://open.spotify.com/track/5TZbtpZcTWKEn81Du4hiTb) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Bleach](https://open.spotify.com/album/1KVGLuPtrMrLlyy4Je6df7) | 3:23 |
+| 294 | [All Black Everything](https://open.spotify.com/track/7hzj2RqJydKSIXPR2s2kfH) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lasers](https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D) | 3:40 |
+| 295 | [I Know](https://open.spotify.com/track/6B6xRGiXeEBRDGjrC7cfx4) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [American Gangster](https://open.spotify.com/album/6QOGDVh3mVnAJYPnt66Qj5) | 3:42 |
+| 296 | [American Terrorist \(feat\. Matthew Santos\)](https://open.spotify.com/track/17dRP50Rx5DdSH9Qy4xR9A) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Matthew Santos](https://open.spotify.com/artist/5t2P9w0qT2I9y0DrNhykSj) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:40 |
+| 297 | [Show Me What You Got](https://open.spotify.com/track/1SlPhbS52PbNqqVCqGU12I) | [JAŸ\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Kingdom Come](https://open.spotify.com/album/3A29Ss77LjRZ3sKuauWieY) | 3:43 |
+| 298 | [Country Cousins \(feat\. UGK & Raheem DeVaughn\)](https://open.spotify.com/track/4LPjSILW7ySNYm4MwughiS) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [Eardrum](https://open.spotify.com/album/4gjttixmMAKMzzfrfGmDGr) | 4:32 |
+| 299 | [U, Black Maybe](https://open.spotify.com/track/5coXesdI3BKgbHluw07rhl) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Finding Forever](https://open.spotify.com/album/0XFFBEzvJ7Zit24MY5oVV3) | 5:01 |
+| 300 | [QUÉDATE BEBÉ](https://open.spotify.com/track/6VMpSP88kS8Rxc68BAgwAd) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq) | 3:13 |
+| 301 | [How Did We Know?](https://open.spotify.com/track/78rgKkKbtMOR182mR13HYZ) | [Baby Smoove](https://open.spotify.com/artist/15oLsNy8mZYaIukh4eDhXy) | [Mr.Perfect](https://open.spotify.com/album/0oamIV3Wgjs50VmaKWNiZ4) | 2:29 |
+| 302 | [Murda Talk](https://open.spotify.com/track/6v3Aiydqnab4A5PfC8Ecr4) | [Kankan Archived](https://open.spotify.com/artist/2ml1cn1EjsA321NEfWMblf) | [Murda Talk](https://open.spotify.com/album/1IY1X5qWqJV2DEpyJspTzH) | 2:07 |
 
-Snapshot ID: `AAAgicFvqGFqQ3/3L0UA/6GB7n7AHWWX`
+Snapshot ID: `AAAgkq/m6MabuL27Cp7PJjcvAzeJnU9n`

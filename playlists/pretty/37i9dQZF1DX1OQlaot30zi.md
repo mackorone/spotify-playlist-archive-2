@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Promessa,  Mambolosco, Tormento, Nabi, Quentin40 e molti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,798 likes - 120 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,805 likes - 120 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

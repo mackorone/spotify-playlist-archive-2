@@ -1,6 +1,6 @@
 {
   "description": "Explore the current wave of VOCALOID culture. Cover: Hiiragi Magnetite",
-  "num_followers": 120823,
+  "num_followers": 120836,
   "original_name": "VOCALOID now",
   "owner": {
     "name": "Spotify",
@@ -235,8 +235,8 @@
     {
       "added_at": "2026-07-02 02:39:57",
       "album": {
-        "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS"
+        "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/66YO0i7JPJqriHH4olIqdr"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
         }
       ],
-      "duration_ms": 159000,
-      "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH"
+      "duration_ms": 176800,
+      "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/1iywVk6Xx1XmJwd0rExYI3"
     },
     {
       "added_at": "2026-07-02 02:39:57",
@@ -351,8 +351,8 @@
     {
       "added_at": "2026-07-02 02:39:57",
       "album": {
-        "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/66YO0i7JPJqriHH4olIqdr"
+        "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS"
       },
       "artists": [
         {
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
         }
       ],
-      "duration_ms": 176800,
-      "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/1iywVk6Xx1XmJwd0rExYI3"
+      "duration_ms": 159000,
+      "name": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH"
     },
     {
       "added_at": "2026-07-02 02:39:57",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-07-02 02:39:57",
       "album": {
-        "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
-        "url": "https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj"
-      },
-      "artists": [
-        {
-          "name": "Kanaria",
-          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
-        }
-      ],
-      "duration_ms": 155692,
-      "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi"
-    },
-    {
-      "added_at": "2026-07-02 02:39:57",
-      "album": {
         "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
         "url": "https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 235096,
       "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
       "url": "https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn"
+    },
+    {
+      "added_at": "2026-07-02 02:39:57",
+      "album": {
+        "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj"
+      },
+      "artists": [
+        {
+          "name": "Kanaria",
+          "url": "https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF"
+        }
+      ],
+      "duration_ms": 155692,
+      "name": "\u30a2\u30a4\u30c7\u30f3\u30c6\u30a3\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi"
     },
     {
       "added_at": "2026-07-02 02:39:57",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-07-02 02:39:57",
       "album": {
+        "name": "\u30a8\u30b4\u30ed\u30c3\u30af (long ver.)",
+        "url": "https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ"
+      },
+      "artists": [
+        {
+          "name": "THREEE",
+          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
+        }
+      ],
+      "duration_ms": 169529,
+      "name": "\u30a8\u30b4\u30ed\u30c3\u30af - long ver.",
+      "url": "https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx"
+    },
+    {
+      "added_at": "2026-07-02 02:39:57",
+      "album": {
         "name": "\u30ac\u30c3\u30c1\u30e5\u30fc\uff01",
         "url": "https://open.spotify.com/album/2MNgEC6n6jPbKxNeIghkrW"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 195757,
       "name": "\u30ac\u30c3\u30c1\u30e5\u30fc\uff01 (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
       "url": "https://open.spotify.com/track/1jvRRj23Uwk5hr0UcCVn5V"
-    },
-    {
-      "added_at": "2026-07-02 02:39:57",
-      "album": {
-        "name": "\u30a8\u30b4\u30ed\u30c3\u30af (long ver.)",
-        "url": "https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ"
-      },
-      "artists": [
-        {
-          "name": "THREEE",
-          "url": "https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa"
-        }
-      ],
-      "duration_ms": 169529,
-      "name": "\u30a8\u30b4\u30ed\u30c3\u30af - long ver.",
-      "url": "https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx"
     },
     {
       "added_at": "2026-07-02 02:39:57",

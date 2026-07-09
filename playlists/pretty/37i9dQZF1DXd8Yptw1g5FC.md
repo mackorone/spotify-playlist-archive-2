@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > manifest ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,524 likes - 128 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,540 likes - 128 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 85 | [Olur Öyle](https://open.spotify.com/track/3owQAbKKCjcUD2DwTb8mCU) | [13\. Vagon](https://open.spotify.com/artist/5Qe6lA9TYMdFBUQIi0Gm0I) | [Olur Öyle](https://open.spotify.com/album/2IPCAqMvjcxfaS9szj9HU5) | 3:17 |
 | 86 | [FORMULA](https://open.spotify.com/track/0a8pO4JQzrb691e9e99k2v) | [REDISTO](https://open.spotify.com/artist/2Tz1fa06nVbmFewzYyXW8p) | [FORMULA](https://open.spotify.com/album/1yksrYU7I5RZ8DZvEcMxBS) | 1:52 |
 | 87 | [Terk Ettim](https://open.spotify.com/track/5yfN6tkZHAaYSNoaJzFBIw) | [Rıza Sarıtaş](https://open.spotify.com/artist/7MUr26eqFK3BCP4y6A1mJw) | [Terk Ettim](https://open.spotify.com/album/6CWELTOez6vX1tO5fWS59n) | 3:26 |
-| 88 | [Bu sokak](https://open.spotify.com/track/65OCG7CJ6Y4skqMshlqc6M) | [shao](https://open.spotify.com/artist/7j5nMFqn5f7Gy0ElhOA5QD) | [Bu sokak](https://open.spotify.com/album/39TI0tm19sQaWv500Rl6L4) | 2:24 |
+| 88 | [Bu sokak](https://open.spotify.com/track/65OCG7CJ6Y4skqMshlqc6M) | [shao](https://open.spotify.com/artist/7j5nMFqn5f7Gy0ElhOA5QD) | [Bu sokak](https://open.spotify.com/album/39TI0tm19sQaWv500Rl6L4) | 2:22 |
 | 89 | [buz](https://open.spotify.com/track/54yxuYtngGNJd7bYJqzuz4) | [Eytan](https://open.spotify.com/artist/3rtgZpxBTGp6NWtLMDvvEO), [sem](https://open.spotify.com/artist/4PGIKrWvMQounKYh8UFEu8) | [buz](https://open.spotify.com/album/6mvwbKUl4Tx7R49fSoaoEi) | 2:42 |
 | 90 | [Aşk Kırıntıları](https://open.spotify.com/track/3wGzzjEIBQmdztkH989jlf) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC), [Beyza Başak](https://open.spotify.com/artist/38awyHzw1soCVVfDYjLevO), [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Aşk Kırıntıları](https://open.spotify.com/album/4oYtqyg84L6Y27D1nKcENo) | 3:50 |
 | 91 | [ne için?](https://open.spotify.com/track/4MlHertMoqs7Uz8NITaYvS) | [MUG3](https://open.spotify.com/artist/1CSbMNdnTRdLTt8TXhxR9F), [EMO](https://open.spotify.com/artist/1tLifDTM4LC3YNNajdfQBJ) | [ne için?](https://open.spotify.com/album/0eHSlas4yevDgNcl5YcNF8) | 2:30 |

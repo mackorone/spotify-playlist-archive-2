@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 青葉市子 Ichiko Aoba
 
-3,613 songs - 9 day 12 hr 56 min
+3,614 songs - 9 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [Blowin' in the wind](https://open.spotify.com/track/3pX7LCfjLdNyjLckacqHEM) | [踊ってばかりの国](https://open.spotify.com/artist/0FA31wmImS3Px3LyRxtiS2) | [PRISM](https://open.spotify.com/album/77xStIktKVvZe3PpbGS8xr) | 3:37 | 2026-06-23 |  |
 | [Blue](https://open.spotify.com/track/0JlgLVccHLtzolsiwaqsJ0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [Ichika Nito](https://open.spotify.com/artist/1v7B6ZWa7QRQS3knn3Jvf4) | [Blue](https://open.spotify.com/album/30Ih6h18WnB3nr72Wi7iy7) | 3:16 | 2026-06-16 |  |
 | [Blue](https://open.spotify.com/track/6lRQiLSV8HaEYg9KlEuGff) | [luvis](https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M) | [Blue Inside You](https://open.spotify.com/album/6ktH5R1nwPHZuH0tFppChA) | 3:26 | 2024-10-08 | 2025-01-08 |
+| [Blue](https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [Blue](https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0) | 2:36 | 2026-07-08 |  |
 | [blue](https://open.spotify.com/track/1fjtjLFdEM5QDzElnB0GHd) | [荒井岳史](https://open.spotify.com/artist/7grzhKqVws9ckPpZSWKqLw) | [7years](https://open.spotify.com/album/4jKd9zBp2V0qG86x7dEJ6v) | 3:03 | 2024-04-23 | 2024-05-01 |
 | [BLUE DIVER](https://open.spotify.com/track/3n07Xv1MuzLx76mmHn0lly) | [Yogee New Waves](https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh) | [BLUE DIVER](https://open.spotify.com/album/7y1qT6eKNtrlMs3QbCJ3db) | 5:28 | 2025-11-04 | 2025-12-06 |
 | [Blue Hole](https://open.spotify.com/track/0nQu8qwZKAhfrbnGidJTDR) | [p/asma](https://open.spotify.com/artist/6Q1YKEC7u7P5Oc2ElTecR1) | [Color of Water](https://open.spotify.com/album/0jiePMk8x0QuV3q3tWJPig) | 4:59 | 2023-12-12 | 2023-12-20 |
@@ -2503,7 +2504,7 @@
 | [だりぃ](https://open.spotify.com/track/11w5mx2G7vi5xkyIeI6DGx) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 3:16 | 2023-03-07 | 2023-03-22 |
 | [だるがらみ \(feat\. 関口シンゴ\)](https://open.spotify.com/track/7JgW7JNMfzONhTlkknDzac) | [ASOBOiSM](https://open.spotify.com/artist/5DdX6WAZixq5ZN5eGg068D), [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [YOLO](https://open.spotify.com/album/0KGXhKD7VkUdqhR7QfCSxq) | 2:34 | 2023-08-29 | 2023-10-31 |
 | [ちゃんプール！](https://open.spotify.com/track/29JNK4H4hX7CuBggFnyT4m) | [THE LUV BUGS](https://open.spotify.com/artist/4Pn3GdPPopEryp6KWLG7W7), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [Fuki Kitamura](https://open.spotify.com/artist/0fOvbTCWRCSvYnOIFMiiX9) | [ちゃんプール！](https://open.spotify.com/album/2OkHGyYQCRMU6wFpCvxJMw) | 2:57 | 2025-07-29 | 2025-08-28 |
-| [ちゃんプール！ \- 北村蕗 Remix](https://open.spotify.com/track/2Nptv1V4zVMl7bMs4vx7YO) | [THE LUV BUGS](https://open.spotify.com/artist/4Pn3GdPPopEryp6KWLG7W7), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [北村蕗](https://open.spotify.com/artist/1l4YmwtKMUzE16e6rwTgCR) | [ちゃんプール！ \(北村蕗 Remix\)](https://open.spotify.com/album/4fSByuWftY5fwSNamCKjjr) | 2:41 | 2026-06-30 |  |
+| [ちゃんプール！ \- 北村蕗 Remix](https://open.spotify.com/track/2Nptv1V4zVMl7bMs4vx7YO) | [THE LUV BUGS](https://open.spotify.com/artist/4Pn3GdPPopEryp6KWLG7W7), [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [北村蕗](https://open.spotify.com/artist/1l4YmwtKMUzE16e6rwTgCR) | [ちゃんプール！ \(北村蕗 Remix\)](https://open.spotify.com/album/4fSByuWftY5fwSNamCKjjr) | 2:41 | 2026-06-30 | 2026-07-09 |
 | [ちゅー2](https://open.spotify.com/track/5NlIcoGlcsCvT2L2gjiZl0) | [明るい赤ちゃん](https://open.spotify.com/artist/4XU1iGcrARM9uqtvGoGuER) | [ちゅー2](https://open.spotify.com/album/0bSqRfuJfSto5XznsIVjw3) | 2:33 | 2023-04-04 | 2023-04-12 |
 | [ちょっとだけずっとグッド](https://open.spotify.com/track/6eKAAUvpxCMQp9iwTpwS5H) | [豊と良治](https://open.spotify.com/artist/5Xp0KrLGD6tSXCvUyNPexl) | [ちょっとだけずっとグッド](https://open.spotify.com/album/5SE4TMoyWUk8wL1i0RnzGR) | 3:00 | 2025-03-25 | 2025-04-02 |
 | [つむぎ](https://open.spotify.com/track/7fTmVIFBjGyzCnLx0DybVh) | [pony sandwich tour](https://open.spotify.com/artist/3CXkek5jZjlEAjM8hCXYkp) | [つむぎ](https://open.spotify.com/album/35y8yCbAOJXkMOCkSZnKgE) | 3:22 | 2024-04-09 | 2024-04-11 |

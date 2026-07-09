@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-218 songs - 12 hr 13 min
+219 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Infatuation \- Spanish Remix](https://open.spotify.com/track/4HXzOlC2lMEmn2JEumzbNt) | [Angie Rose](https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX) | [Unstoppable \(United We Can\)](https://open.spotify.com/album/6SzzbmZsFQcrpDkezXtnYU) | 2:55 | 2026-05-19 |  |
 | [Jealous](https://open.spotify.com/track/0u4dw7TujMZivFm9FyaIfu) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:02 | 2026-05-19 |  |
 | [Jealous of the Sun](https://open.spotify.com/track/4UEv7aQeUm5gwlGA9SA6dY) | [Tebey](https://open.spotify.com/artist/2S0WpGRnEPyS5OuMp3KOEo) | [Old School](https://open.spotify.com/album/5BZmtptxYBxDHo6y3SOPYQ) | 3:14 | 2026-05-19 |  |
-| [Joy Unspeakable](https://open.spotify.com/track/3amqCoJGpoor5jF2No8szk) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Live the Journey](https://open.spotify.com/album/3PGp8R6CaMGnEdyK8LYlYq) | 3:30 | 2026-05-19 |  |
+| [Joy Unspeakable](https://open.spotify.com/track/3amqCoJGpoor5jF2No8szk) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Live the Journey](https://open.spotify.com/album/3PGp8R6CaMGnEdyK8LYlYq) | 3:30 | 2026-05-19 | 2026-07-09 |
+| [Joy Unspeakable](https://open.spotify.com/track/6UWVXYDOQXXYh6jSflYJel) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [the Journey \(Live\)](https://open.spotify.com/album/26dnr3d2HZ3hg1iq9Iv8zG) | 3:30 | 2026-07-08 |  |
 | [Lately](https://open.spotify.com/track/5k54dKjmXxwsNeZMMlhEAJ) | [Conscious Tone](https://open.spotify.com/artist/6DQg5pGAhuLIIVrPRPLoNO) | [Thoughts](https://open.spotify.com/album/5CMCpSbvDTesUjn80fvVFD) | 2:38 | 2026-05-19 |  |
 | [Let Me In \- Remix](https://open.spotify.com/track/0pWkxyEMK3I9r8Jc8dqebk) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [Let Me In \(Remix\)](https://open.spotify.com/album/3klg5Tg0xDUywQ65oYEtTK) | 2:55 | 2026-05-19 |  |
 | [Life Rolls On](https://open.spotify.com/track/0nTXElyiOEN60Z22Pyu9tt) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Life Rolls On](https://open.spotify.com/album/6dfdmMDGw988CzNEFdnIcY) | 3:21 | 2026-05-19 |  |

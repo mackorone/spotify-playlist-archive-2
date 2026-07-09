@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Ekene
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,952 likes - 78 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,995 likes - 78 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

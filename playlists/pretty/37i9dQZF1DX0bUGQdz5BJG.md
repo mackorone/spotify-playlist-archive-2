@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Your ears on the ground in Music City\. Cover: Max Alan
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,003 likes - 221 songs - 11 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,063 likes - 221 songs - 11 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 90 | [High Times](https://open.spotify.com/track/2IsqPW8uo6Zm6dbUYP0ePD) | [Thomas Edwards](https://open.spotify.com/artist/72loN3jtnyiDqdgzdaspRc) | [High Times](https://open.spotify.com/album/6sqD0De74H3TGM39B3HDg4) | 3:30 |
 | 91 | [Rather Be The Fire](https://open.spotify.com/track/5oWEd8gdo8irNfk5JM5o4y) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Rather Be The Fire](https://open.spotify.com/album/25CKec5JZMhowFpk0XyMON) | 2:42 |
 | 92 | [3 Day Bender](https://open.spotify.com/track/01FGjzvnBtzqF6mKs3Ta9i) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [3 Day Bender](https://open.spotify.com/album/4y9QMhVya3boz3KtZNdBB7) | 3:25 |
-| 93 | [Wranglin' the Wind](https://open.spotify.com/track/2fJZ896flvh1Wt6CebqggW) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Wranglin' the Wind](https://open.spotify.com/album/3mz4VIBIRfg98W6QHotL7c) | 3:15 |
+| 93 | [Wranglin' The Wind](https://open.spotify.com/track/2fJZ896flvh1Wt6CebqggW) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Wranglin' The Wind](https://open.spotify.com/album/3mz4VIBIRfg98W6QHotL7c) | 3:15 |
 | 94 | [The Rough](https://open.spotify.com/track/4T0xKQwYGUBNL2fK3yZCDZ) | [Dear Tommie](https://open.spotify.com/artist/4kgQh9U3U38xNiLQ2DK3tP) | [The Rough](https://open.spotify.com/album/1OJz3ysjWR0PwGeygph95G) | 2:57 |
 | 95 | [Girl That's How](https://open.spotify.com/track/5eD31Pb1P3pEiy4P48WZ0w) | [Cole Goodwin](https://open.spotify.com/artist/1BJuLsavR5ekNDC4FhjTmF) | [Girl That's How](https://open.spotify.com/album/3FGngyFUt6bs6iVeZLluVm) | 3:28 |
 | 96 | [Sunshine's Free](https://open.spotify.com/track/1hWt5sMeyacK7IwXm4vKMq) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [Sunshine's Free](https://open.spotify.com/album/4pMNPwosSwKdAYj6T1xbtf) | 3:11 |

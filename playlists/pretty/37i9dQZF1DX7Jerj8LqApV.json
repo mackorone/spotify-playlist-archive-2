@@ -1,15 +1,15 @@
 {
   "description": "Chill out and relax to the breeziest hits from the Philippines.",
-  "num_followers": 2088058,
+  "num_followers": 2087900,
   "original_name": "OPM Says Chillax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALttA6MwqQaaDQ+DTvoJROmADFlP",
+  "snapshot_id": "AAAAAFva4HnNn2xDFauDgoLIDaDSgoo5",
   "tracks": [
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Kalapastangan",
         "url": "https://open.spotify.com/album/3a6kSazBwMHk4rJU07hQCg"
@@ -25,7 +25,27 @@
       "url": "https://open.spotify.com/track/1udOOSbJnytCdgvbgYOF5s"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
+      "album": {
+        "name": "Mula Sa Malayo (Reimagined)",
+        "url": "https://open.spotify.com/album/7MBe8x7NFeB4nTxLRxHELy"
+      },
+      "artists": [
+        {
+          "name": "Migs",
+          "url": "https://open.spotify.com/artist/1UI9GWaYys9wSqS2WFlaa8"
+        },
+        {
+          "name": "Le John",
+          "url": "https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Mula Sa Malayo (Reimagined)",
+      "url": "https://open.spotify.com/track/0hQLcUDrlUjw2mjhKpU0cH"
+    },
+    {
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Libu-Libong Buwan (Uuwian)",
         "url": "https://open.spotify.com/album/2IklwGsXhUYe77FDKzQlRe"
@@ -41,23 +61,23 @@
       "url": "https://open.spotify.com/track/3cZUIZ8i74C1Kvnix4xZez"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
-        "name": "Lifetime (Reimagined)",
-        "url": "https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x"
+        "name": "Nang Iwan",
+        "url": "https://open.spotify.com/album/0u1j9uKeBMlS9mbSPDEN5H"
       },
       "artists": [
         {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+          "name": "This Band",
+          "url": "https://open.spotify.com/artist/5HIZU0JzM0AgfItVOm4E08"
         }
       ],
-      "duration_ms": 277894,
-      "name": "Lifetime (Reimagined)",
-      "url": "https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG"
+      "duration_ms": 367889,
+      "name": "Nang Iwan",
+      "url": "https://open.spotify.com/track/5CgwESmg9qgxDSa7RBQxFb"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Andalucia",
         "url": "https://open.spotify.com/album/3rK5A6he7WDayWPDm3ttSh"
@@ -73,7 +93,23 @@
       "url": "https://open.spotify.com/track/4z928BtE4j1bjhcX9RU44M"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
+      "album": {
+        "name": "Lifetime (Reimagined)",
+        "url": "https://open.spotify.com/album/66mI9LxUO2orGDAKd5135x"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 277894,
+      "name": "Lifetime (Reimagined)",
+      "url": "https://open.spotify.com/track/2c5JKO8gPaOFVxQ0elwXEG"
+    },
+    {
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Tahanan",
         "url": "https://open.spotify.com/album/70tq3onPJc8JofAUrCpDR5"
@@ -89,7 +125,7 @@
       "url": "https://open.spotify.com/track/0JO9VhYHF6EI0KSw9xLI6A"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Multo",
         "url": "https://open.spotify.com/album/7rBGkbCvrkAAgO9CKGxEuo"
@@ -105,7 +141,7 @@
       "url": "https://open.spotify.com/track/4cBm8rv2B5BJWU2pDaHVbF"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Palayo Sa Mundo",
         "url": "https://open.spotify.com/album/7qVzxGZdXhtNHai0fGB9uj"
@@ -125,7 +161,7 @@
       "url": "https://open.spotify.com/track/4FVZYiCvdLIX8NpcY0lzda"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Soapdish Reloaded",
         "url": "https://open.spotify.com/album/5frYhQPxFxiNZV7fmqybMJ"
@@ -141,23 +177,7 @@
       "url": "https://open.spotify.com/track/1tVOhTFOtqVMmsDAJoMeja"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
-      "album": {
-        "name": "Naiilang",
-        "url": "https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5"
-      },
-      "artists": [
-        {
-          "name": "Le John",
-          "url": "https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV"
-        }
-      ],
-      "duration_ms": 247071,
-      "name": "Naiilang",
-      "url": "https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK"
-    },
-    {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Janice",
         "url": "https://open.spotify.com/album/1jUJQ4XUDTbGTq1hR33fR6"
@@ -173,7 +193,23 @@
       "url": "https://open.spotify.com/track/0BewsYUbEIKdJmdap9oI7V"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
+      "album": {
+        "name": "Naiilang",
+        "url": "https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5"
+      },
+      "artists": [
+        {
+          "name": "Le John",
+          "url": "https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV"
+        }
+      ],
+      "duration_ms": 247071,
+      "name": "Naiilang",
+      "url": "https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK"
+    },
+    {
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Silakbo",
         "url": "https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN"
@@ -189,7 +225,7 @@
       "url": "https://open.spotify.com/track/0jGL1ApJ7QrVWL7nRqLdij"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Imahe",
         "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
@@ -205,7 +241,7 @@
       "url": "https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Ikaw Lang Patutunguhan",
         "url": "https://open.spotify.com/album/6uC3JseWzNKLhK2uW9VntG"
@@ -221,7 +257,7 @@
       "url": "https://open.spotify.com/track/7rpQzmMwS1yW1f0oWxBS9z"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Sagip",
         "url": "https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO"
@@ -237,7 +273,7 @@
       "url": "https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Leonora",
         "url": "https://open.spotify.com/album/3jJ8JEOq8xL9DWum9cMpIq"
@@ -253,7 +289,7 @@
       "url": "https://open.spotify.com/track/1K0rybxoxW5svDYwXezXyN"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "sining (feat. Jay R)",
         "url": "https://open.spotify.com/album/6dsECFlRFW0X7ZmpjZzI3m"
@@ -273,7 +309,7 @@
       "url": "https://open.spotify.com/track/1imaIe1NEAaWnLF0BY0V6F"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "II: The second",
         "url": "https://open.spotify.com/album/5OWcchm5l2CZDOeJnL5oqw"
@@ -293,7 +329,7 @@
       "url": "https://open.spotify.com/track/60mzK1F8VTNfWGaSFprYfI"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Misteryoso",
         "url": "https://open.spotify.com/album/6BqP9dOpxUGa7gCunYMw9a"
@@ -309,7 +345,7 @@
       "url": "https://open.spotify.com/track/0kE1SmlJNLg14dgdo9kJws"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Hirap Kalimutan",
         "url": "https://open.spotify.com/album/68rndZHNGvHtmTqyZwoQ5C"
@@ -325,23 +361,7 @@
       "url": "https://open.spotify.com/track/179LUxRF7wbPc2JHABiLCw"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
-      "album": {
-        "name": "Lifetime",
-        "url": "https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 171527,
-      "name": "Lifetime",
-      "url": "https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW"
-    },
-    {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "RD Covers (Live)",
         "url": "https://open.spotify.com/album/0RGrPvTkxQV7x5gX6FNrpT"
@@ -357,7 +377,23 @@
       "url": "https://open.spotify.com/track/5Ykz2rfupj8lEr5eDumU0X"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
+      "album": {
+        "name": "Lifetime",
+        "url": "https://open.spotify.com/album/277CpjwmcdLZsHwXpj9D8H"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 171527,
+      "name": "Lifetime",
+      "url": "https://open.spotify.com/track/3X9c4tBzSdGhlO4Fx3WYgW"
+    },
+    {
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Sulitin",
         "url": "https://open.spotify.com/album/2Zlem592VqEoaaRqvFs2M3"
@@ -373,7 +409,7 @@
       "url": "https://open.spotify.com/track/6P6kqSItGVs18oP1OXxGJP"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Nahanap Kita",
         "url": "https://open.spotify.com/album/6fPUiSWRHRKn1Gk9d5h6PW"
@@ -389,7 +425,7 @@
       "url": "https://open.spotify.com/track/0GD9U8EM8xcPvuaA50Wzpe"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Patlang",
         "url": "https://open.spotify.com/album/0vax7CV3zjlPXUTlzfwbwn"
@@ -405,23 +441,7 @@
       "url": "https://open.spotify.com/track/2OaAviEYdZQz2dCRsJQKBf"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
-      "album": {
-        "name": "Sa Susunod na Habang Buhay",
-        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 288189,
-      "name": "Sa Susunod na Habang Buhay",
-      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
-    },
-    {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Hindi Ako Mawawala",
         "url": "https://open.spotify.com/album/3Xs46eH5aOqsGPdCYalWOS"
@@ -437,7 +457,23 @@
       "url": "https://open.spotify.com/track/7kP8dbiMKm83kOAmy1GcuQ"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
+      "album": {
+        "name": "Sa Susunod na Habang Buhay",
+        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 288189,
+      "name": "Sa Susunod na Habang Buhay",
+      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
+    },
+    {
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Museo",
         "url": "https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr"
@@ -453,7 +489,7 @@
       "url": "https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Palagi (TJxKZ Version)",
         "url": "https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0"
@@ -473,7 +509,7 @@
       "url": "https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Panata",
         "url": "https://open.spotify.com/album/51Vzo7JDGZNoQriQk3wx4u"
@@ -489,23 +525,7 @@
       "url": "https://open.spotify.com/track/5o5rOj568TLbuwXvwA9WIZ"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
-      "album": {
-        "name": "Autumn (Reimagined)",
-        "url": "https://open.spotify.com/album/4jKfiwrpklbqDOrwiUBsLv"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 236454,
-      "name": "Autumn (Reimagined)",
-      "url": "https://open.spotify.com/track/2NP0WCHeIjBi3oC7MruePl"
-    },
-    {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "I Need You More Today",
         "url": "https://open.spotify.com/album/1Le1ykkfNX7dMyUYVOf6jj"
@@ -525,7 +545,23 @@
       "url": "https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
+      "album": {
+        "name": "Autumn (Reimagined)",
+        "url": "https://open.spotify.com/album/4jKfiwrpklbqDOrwiUBsLv"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 236454,
+      "name": "Autumn (Reimagined)",
+      "url": "https://open.spotify.com/track/2NP0WCHeIjBi3oC7MruePl"
+    },
+    {
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Pakundangan (feat. Hev Abi)",
         "url": "https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW"
@@ -545,7 +581,7 @@
       "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Lalim",
         "url": "https://open.spotify.com/album/2XmT37yNkFXpdOtLGoynNP"
@@ -561,7 +597,7 @@
       "url": "https://open.spotify.com/track/6dvP7J9alzF4OWMIlmrpTd"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Mood Swing",
         "url": "https://open.spotify.com/album/6QAw4b5KeyFCCLOaATGkGU"
@@ -577,23 +613,7 @@
       "url": "https://open.spotify.com/track/1YTJW80Jn9Yo1QKKBqEu0e"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
-      "album": {
-        "name": "habangbuhay pansamantala",
-        "url": "https://open.spotify.com/album/1x2upE4s9Yf7eYK1EYccx9"
-      },
-      "artists": [
-        {
-          "name": "Maki",
-          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
-        }
-      ],
-      "duration_ms": 249772,
-      "name": "habangbuhay pansamantala",
-      "url": "https://open.spotify.com/track/2IEHmtpKz5NtKJpVG9lvn2"
-    },
-    {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Pwede Ka Ba?",
         "url": "https://open.spotify.com/album/2YyfEjYnbwlUttZNBlZ5Pf"
@@ -609,7 +629,23 @@
       "url": "https://open.spotify.com/track/1RNCibCOmM49zenUyBXSLy"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
+      "album": {
+        "name": "habangbuhay pansamantala",
+        "url": "https://open.spotify.com/album/1x2upE4s9Yf7eYK1EYccx9"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "duration_ms": 249772,
+      "name": "habangbuhay pansamantala",
+      "url": "https://open.spotify.com/track/2IEHmtpKz5NtKJpVG9lvn2"
+    },
+    {
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "baka bukas",
         "url": "https://open.spotify.com/album/2JjcFcQ6qosK8MIRpceFgn"
@@ -625,23 +661,7 @@
       "url": "https://open.spotify.com/track/7nmndzEZg0Gq8VfrO3W32X"
     },
     {
-      "added_at": "2026-07-01 07:05:25",
-      "album": {
-        "name": "Pano",
-        "url": "https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01"
-      },
-      "artists": [
-        {
-          "name": "Zack Tabudlo",
-          "url": "https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "Pano",
-      "url": "https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc"
-    },
-    {
-      "added_at": "2026-07-01 07:05:25",
+      "added_at": "2026-07-08 05:53:08",
       "album": {
         "name": "Reid Alert",
         "url": "https://open.spotify.com/album/2H4wJMAmm6r9WxMFwmXpj9"
@@ -655,26 +675,6 @@
       "duration_ms": 244520,
       "name": "Randomantic",
       "url": "https://open.spotify.com/track/3lOpUMMUskknPD3dJR2MkT"
-    },
-    {
-      "added_at": "2026-07-01 07:05:25",
-      "album": {
-        "name": "Mahika",
-        "url": "https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4"
-      },
-      "artists": [
-        {
-          "name": "Adie",
-          "url": "https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2"
-        },
-        {
-          "name": "Janine Berdin",
-          "url": "https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr"
-        }
-      ],
-      "duration_ms": 201951,
-      "name": "Mahika",
-      "url": "https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy"
     }
   ],
   "unique_name": "OPM Says Chillax",

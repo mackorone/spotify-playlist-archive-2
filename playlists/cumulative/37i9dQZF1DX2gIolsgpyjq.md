@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Glayden
 
-1,663 songs - 3 day 15 hr 30 min
+1,664 songs - 3 day 15 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [3 days](https://open.spotify.com/track/76hFGJEkcSdG1PhO6QSD0e) | [alma](https://open.spotify.com/artist/12ohBmDYK1nr9HyfpxE6RF), [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi) | [POINT 23](https://open.spotify.com/album/2bsj0qo3zY2lY6vYPOogmX) | 2:50 | 2026-04-28 | 2026-06-24 |
 | [3000](https://open.spotify.com/track/2K2kvzUvkoX9vSy7Sg6Z5h) | [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov), [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [3000](https://open.spotify.com/album/0REUr33wXm6LWBoI8KpAfg) | 2:01 | 2025-09-11 | 2025-10-24 |
 | [4 AM](https://open.spotify.com/track/1vj5nnNBEb5FtuTAWVYW3p) | [ABSA](https://open.spotify.com/artist/5PmcTypQOqWbhp6kDeuU2K) | [4 AM](https://open.spotify.com/album/2Cwzzk8owwPB5B15aiIcLm) | 2:23 | 2024-02-08 | 2024-02-23 |
+| [420](https://open.spotify.com/track/7KnDzDjrjeUgNF19I45zlP) | [Leandro Carrere](https://open.spotify.com/artist/33fPfSLLolVKvp8dR5y09r), [Bruno](https://open.spotify.com/artist/1Z5Q3hr2iNj6NHPKPVWtoL) | [420](https://open.spotify.com/album/6YIhxv8aA10qUYGX7qfsQY) | 3:38 | 2026-07-08 |  |
 | [4:30 sunrise](https://open.spotify.com/track/7odU8oA1YDbpCPVXRmLbhE) | [k's scenario](https://open.spotify.com/artist/3y8iWAfSqtRPnpkUMWGXeH) | [Patterns](https://open.spotify.com/album/70oGq4YODFIfHMPAaodtL4) | 1:16 | 2024-05-02 | 2024-05-24 |
 | [8](https://open.spotify.com/track/0rPPmYtouQQIuNa9Wlx7fw) | [ALEA](https://open.spotify.com/artist/3ClSyO6X7HY6Buro8tJ27I) | [8](https://open.spotify.com/album/4FNqABpNWgJyuwHhJJddVu) | 1:54 | 2024-10-24 | 2024-12-05 |
 | [9\-2\-5](https://open.spotify.com/track/66nIyYOKdy7yu2QjNagnop) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [9\-2\-5](https://open.spotify.com/album/1SjROMfa8GKI69Q9QH1Xsn) | 3:12 | 2025-07-03 | 2025-09-05 |
@@ -61,7 +62,7 @@
 | [All Night](https://open.spotify.com/track/1tnHnmYkpWlVHjB2qkf0iI) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [All Night](https://open.spotify.com/album/44iHEBnNlTfg7BQSIye9Rx) | 4:07 | 2025-07-17 | 2025-09-19 |
 | [all of a sudden we move](https://open.spotify.com/track/1is4WyPrdz56pAcm4BQYsT) | [LonelyTwin](https://open.spotify.com/artist/2Nf6fS8HByhmGlwDPPZhHM) | [All of a sudden we move](https://open.spotify.com/album/0m7frKvrGaPlJK4tG1zNGj) | 4:01 | 2025-12-31 | 2026-03-20 |
 | [ALL OVER](https://open.spotify.com/track/1FR6MeJQQctGXtLyGifRqh) | [Etta Zelmani](https://open.spotify.com/artist/5DtXIIm0QQSZ9mv6Ie0Ua0) | [ALL OVER](https://open.spotify.com/album/0ufEl4mTVplg46TrT5owzB) | 3:43 | 2024-06-06 | 2024-08-02 |
-| [All Over It](https://open.spotify.com/track/4bYdCaoSdIMwDCyE4IqUnr) | [OK Alva](https://open.spotify.com/artist/1I9TAA6WtYLMN4kn4XuCr2) | [All Over It](https://open.spotify.com/album/0KcuEXUSIJhmMWr4lQJAYf) | 2:48 | 2026-04-28 |  |
+| [All Over It](https://open.spotify.com/track/4bYdCaoSdIMwDCyE4IqUnr) | [OK Alva](https://open.spotify.com/artist/1I9TAA6WtYLMN4kn4XuCr2) | [All Over It](https://open.spotify.com/album/0KcuEXUSIJhmMWr4lQJAYf) | 2:48 | 2026-04-28 | 2026-07-09 |
 | [All Rights Reserved](https://open.spotify.com/track/5CPaaWaQQzvsCTK0oaCuBw) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [All Rights Reserved](https://open.spotify.com/album/0xPjLUePQbiVzEua0cyBJq) | 2:51 | 2025-09-04 | 2026-01-01 |
 | [All The Stars](https://open.spotify.com/track/3VeV7k2NDH6GysI3rfKwUl) | [Modern Tales](https://open.spotify.com/artist/5j34pD51tkc8KtqqYiBe8k), [Jonas Rathsman](https://open.spotify.com/artist/0evBopfnhhbHzmHebWTDx7), [Francis Novotny](https://open.spotify.com/artist/1oSUUU9sEJ2FUhIBzR3oO1) | [All The Stars / Judgement Day](https://open.spotify.com/album/3c8f35142XZqK0xvKoq4sf) | 3:56 | 2024-06-06 | 2024-08-23 |
 | [Ally](https://open.spotify.com/track/5oXOmATQCSEUsSXvTJQL5q) | [isobel](https://open.spotify.com/artist/6m5hsSoDJX5LFsRFUk9DVx) | [Ally](https://open.spotify.com/album/4RgvMvkalFTKk6kHt9RWLn) | 2:30 | 2025-06-19 | 2025-08-15 |

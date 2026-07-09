@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 38204,
+  "num_followers": 38215,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -107,30 +107,6 @@
     {
       "added_at": "2026-06-10 09:54:00",
       "album": {
-        "name": "Govyachya Kinaryav",
-        "url": "https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv"
-      },
-      "artists": [
-        {
-          "name": "Shubhangii Kedar",
-          "url": "https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae"
-        },
-        {
-          "name": "Pravin Koli",
-          "url": "https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU"
-        },
-        {
-          "name": "Rajneesh Patel",
-          "url": "https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF"
-        }
-      ],
-      "duration_ms": 214357,
-      "name": "Govyachya Kinaryav",
-      "url": "https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh"
-    },
-    {
-      "added_at": "2026-06-10 09:54:00",
-      "album": {
         "name": "Ved (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Zs7pmwTEUYubRl75dvoSR"
       },
@@ -151,6 +127,30 @@
       "duration_ms": 231165,
       "name": "Ved Lavlay",
       "url": "https://open.spotify.com/track/7tVqxbTLELBul4nLg08mMn"
+    },
+    {
+      "added_at": "2026-06-10 09:54:00",
+      "album": {
+        "name": "Govyachya Kinaryav",
+        "url": "https://open.spotify.com/album/0U5aoS77dw5YsgwZR6avZv"
+      },
+      "artists": [
+        {
+          "name": "Shubhangii Kedar",
+          "url": "https://open.spotify.com/artist/5egpRukgysKxUuzH5Iu1ae"
+        },
+        {
+          "name": "Pravin Koli",
+          "url": "https://open.spotify.com/artist/71ZOF43Lf5580E60QVpKhU"
+        },
+        {
+          "name": "Rajneesh Patel",
+          "url": "https://open.spotify.com/artist/7gHsj2gGmvax84ZrO66PBF"
+        }
+      ],
+      "duration_ms": 214357,
+      "name": "Govyachya Kinaryav",
+      "url": "https://open.spotify.com/track/188jpJestqxy1d8FOQcKJh"
     },
     {
       "added_at": "2026-06-10 09:54:00",

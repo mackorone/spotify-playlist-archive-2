@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > ella woolsey on the cover <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,654 likes - 151 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,667 likes - 151 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

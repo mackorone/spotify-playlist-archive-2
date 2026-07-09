@@ -271,7 +271,7 @@
     {
       "added_at": "2026-07-08 01:17:06",
       "album": {
-        "name": "Love is the Torch",
+        "name": "Love is a Torch",
         "url": "https://open.spotify.com/album/4zrtHx0DziGUtVEdaA3cKC"
       },
       "artists": [
@@ -281,7 +281,7 @@
         }
       ],
       "duration_ms": 307933,
-      "name": "Love is the Torch",
+      "name": "Love is a Torch",
       "url": "https://open.spotify.com/track/34mxjtfS7IwYxhJ2DNG5oI"
     },
     {
@@ -607,8 +607,8 @@
     {
       "added_at": "2026-07-08 01:17:06",
       "album": {
-        "name": "\u7f8e\u4eba\u5c40",
-        "url": "https://open.spotify.com/album/1Cjxr1EAF2OPZGmESsMNXt"
+        "name": "\u96e2\u3055\u306a\u3044\u3067\u3044\u3066",
+        "url": "https://open.spotify.com/album/57uP8IjOsKGwHVqAls2bWo"
       },
       "artists": [
         {
@@ -616,41 +616,9 @@
           "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
         }
       ],
-      "duration_ms": 195250,
-      "name": "\u7f8e\u4eba\u5c40",
-      "url": "https://open.spotify.com/track/4AaoK7eliWSupTgY23PMaB"
-    },
-    {
-      "added_at": "2026-07-08 01:17:06",
-      "album": {
-        "name": "\u30b7\u30f3\u30ae\u30e5\u30e9\u30ea\u30c6\u30a3",
-        "url": "https://open.spotify.com/album/43LrARnpinuGWHiRvEwAxZ"
-      },
-      "artists": [
-        {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        }
-      ],
-      "duration_ms": 248874,
-      "name": "\u30b7\u30f3\u30ae\u30e5\u30e9\u30ea\u30c6\u30a3",
-      "url": "https://open.spotify.com/track/0XamVfkI6uAAjvpbVnerBx"
-    },
-    {
-      "added_at": "2026-07-08 01:17:06",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/6wNrAQ4w4SnU3fLnZpjQRp"
-      },
-      "artists": [
-        {
-          "name": "tuki.",
-          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
-        }
-      ],
-      "duration_ms": 180773,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/7bVHnV7at3Bj8xdeSu6enh"
+      "duration_ms": 241608,
+      "name": "\u96e2\u3055\u306a\u3044\u3067\u3044\u3066",
+      "url": "https://open.spotify.com/track/5UIbX3mRkgJ6NZbPRvw29F"
     },
     {
       "added_at": "2026-07-08 01:17:06",
@@ -671,6 +639,38 @@
     {
       "added_at": "2026-07-08 01:17:06",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/6wNrAQ4w4SnU3fLnZpjQRp"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "duration_ms": 180773,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/7bVHnV7at3Bj8xdeSu6enh"
+    },
+    {
+      "added_at": "2026-07-08 01:17:06",
+      "album": {
+        "name": "\u30b7\u30f3\u30ae\u30e5\u30e9\u30ea\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/43LrARnpinuGWHiRvEwAxZ"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "duration_ms": 248874,
+      "name": "\u30b7\u30f3\u30ae\u30e5\u30e9\u30ea\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/0XamVfkI6uAAjvpbVnerBx"
+    },
+    {
+      "added_at": "2026-07-08 01:17:06",
+      "album": {
         "name": "once again",
         "url": "https://open.spotify.com/album/2dxHjVn1wkpFyZuUnDDCL3"
       },
@@ -687,8 +687,8 @@
     {
       "added_at": "2026-07-08 01:17:06",
       "album": {
-        "name": "\u96e2\u3055\u306a\u3044\u3067\u3044\u3066",
-        "url": "https://open.spotify.com/album/57uP8IjOsKGwHVqAls2bWo"
+        "name": "\u7f8e\u4eba\u5c40",
+        "url": "https://open.spotify.com/album/1Cjxr1EAF2OPZGmESsMNXt"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
         }
       ],
-      "duration_ms": 241608,
-      "name": "\u96e2\u3055\u306a\u3044\u3067\u3044\u3066",
-      "url": "https://open.spotify.com/track/5UIbX3mRkgJ6NZbPRvw29F"
+      "duration_ms": 195250,
+      "name": "\u7f8e\u4eba\u5c40",
+      "url": "https://open.spotify.com/track/4AaoK7eliWSupTgY23PMaB"
     },
     {
       "added_at": "2026-07-08 01:17:06",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-07-08 01:17:06",
       "album": {
-        "name": "stay with me",
-        "url": "https://open.spotify.com/album/4SWgA2dCYmu6shSGPmnh37"
+        "name": "solitude",
+        "url": "https://open.spotify.com/album/4Um3CxQQHfb7aWNuUxvkAb"
       },
       "artists": [
         {
-          "name": "Lilas",
-          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
         }
       ],
-      "duration_ms": 183636,
-      "name": "stay with me",
-      "url": "https://open.spotify.com/track/5jL2iJzLhS4PNsLtc4ltgw"
+      "duration_ms": 150700,
+      "name": "voicemail",
+      "url": "https://open.spotify.com/track/1qQ6cYg7zyWPlQMyryQjvs"
     },
     {
       "added_at": "2026-07-08 01:17:06",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-07-08 01:17:06",
       "album": {
-        "name": "solitude",
-        "url": "https://open.spotify.com/album/4Um3CxQQHfb7aWNuUxvkAb"
+        "name": "stay with me",
+        "url": "https://open.spotify.com/album/4SWgA2dCYmu6shSGPmnh37"
       },
       "artists": [
         {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+          "name": "Lilas",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
         }
       ],
-      "duration_ms": 150700,
-      "name": "voicemail",
-      "url": "https://open.spotify.com/track/1qQ6cYg7zyWPlQMyryQjvs"
+      "duration_ms": 183636,
+      "name": "stay with me",
+      "url": "https://open.spotify.com/track/5jL2iJzLhS4PNsLtc4ltgw"
     },
     {
       "added_at": "2026-07-08 01:17:06",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-07-08 01:17:06",
       "album": {
-        "name": "dialogue",
-        "url": "https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y"
-      },
-      "artists": [
-        {
-          "name": "Ayase",
-          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
-        }
-      ],
-      "duration_ms": 184876,
-      "name": "PLANETS",
-      "url": "https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3"
-    },
-    {
-      "added_at": "2026-07-08 01:17:06",
-      "album": {
         "name": "\u30a4\u30f3\u30b9\u30bf\u30f3\u30c8\u30ca\u30a4\u30c8",
         "url": "https://open.spotify.com/album/4l1utK1rQkadl8fqFXUTFe"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 180000,
       "name": "\u30a4\u30f3\u30b9\u30bf\u30f3\u30c8\u30ca\u30a4\u30c8",
       "url": "https://open.spotify.com/track/1EIrS41eC3e5siU3AwaavQ"
+    },
+    {
+      "added_at": "2026-07-08 01:17:06",
+      "album": {
+        "name": "dialogue",
+        "url": "https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y"
+      },
+      "artists": [
+        {
+          "name": "Ayase",
+          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
+        }
+      ],
+      "duration_ms": 184876,
+      "name": "PLANETS",
+      "url": "https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3"
     },
     {
       "added_at": "2026-07-08 01:17:06",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2026-07-08 01:17:06",
       "album": {
-        "name": "\u82b1\u843d\u77e5\u591a\u5c11",
-        "url": "https://open.spotify.com/album/2s6QTNtUwHVVgzpo5vCEay"
+        "name": "\u87ba\u65cb\u306e\u8857",
+        "url": "https://open.spotify.com/album/78qeryjC8dhgyIVgyKFJEx"
       },
       "artists": [
         {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+          "name": "\u304c\u3089\u308a",
+          "url": "https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp"
         }
       ],
-      "duration_ms": 412115,
-      "name": "\u7425\u73c0\u306e\u9060\u666f",
-      "url": "https://open.spotify.com/track/5dAfLTQ2lONTkJAxy5vAZE"
+      "duration_ms": 197433,
+      "name": "\u30ec\u30f3\u30ba",
+      "url": "https://open.spotify.com/track/71HguLdW670hpDJR9f5l8K"
     },
     {
       "added_at": "2026-07-08 01:17:06",
@@ -1119,18 +1119,34 @@
     {
       "added_at": "2026-07-08 01:17:06",
       "album": {
-        "name": "\u87ba\u65cb\u306e\u8857",
-        "url": "https://open.spotify.com/album/78qeryjC8dhgyIVgyKFJEx"
+        "name": "\u82b1\u843d\u77e5\u591a\u5c11",
+        "url": "https://open.spotify.com/album/2s6QTNtUwHVVgzpo5vCEay"
       },
       "artists": [
         {
-          "name": "\u304c\u3089\u308a",
-          "url": "https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp"
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
         }
       ],
-      "duration_ms": 197433,
-      "name": "\u30ec\u30f3\u30ba",
-      "url": "https://open.spotify.com/track/71HguLdW670hpDJR9f5l8K"
+      "duration_ms": 412115,
+      "name": "\u7425\u73c0\u306e\u9060\u666f",
+      "url": "https://open.spotify.com/track/5dAfLTQ2lONTkJAxy5vAZE"
+    },
+    {
+      "added_at": "2026-07-08 01:17:06",
+      "album": {
+        "name": "Yume ga sametara",
+        "url": "https://open.spotify.com/album/1qLQNLPUlsFjpNTRixQFDT"
+      },
+      "artists": [
+        {
+          "name": "Naoto Koto",
+          "url": "https://open.spotify.com/artist/5VFBlez79qfdVd4iEgrAbC"
+        }
+      ],
+      "duration_ms": 272542,
+      "name": "Yume ga sametara",
+      "url": "https://open.spotify.com/track/5jaiXjlctHlJtpENWHPzoO"
     },
     {
       "added_at": "2026-07-08 01:17:06",
@@ -1187,54 +1203,6 @@
     {
       "added_at": "2026-07-08 01:17:06",
       "album": {
-        "name": "Yume ga sametara",
-        "url": "https://open.spotify.com/album/1qLQNLPUlsFjpNTRixQFDT"
-      },
-      "artists": [
-        {
-          "name": "Naoto Koto",
-          "url": "https://open.spotify.com/artist/5VFBlez79qfdVd4iEgrAbC"
-        }
-      ],
-      "duration_ms": 272542,
-      "name": "Yume ga sametara",
-      "url": "https://open.spotify.com/track/5jaiXjlctHlJtpENWHPzoO"
-    },
-    {
-      "added_at": "2026-07-08 01:17:06",
-      "album": {
-        "name": "OK! GO!",
-        "url": "https://open.spotify.com/album/1cXPneXLMQLpz1ScS3VQmY"
-      },
-      "artists": [
-        {
-          "name": "ayaka",
-          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
-        }
-      ],
-      "duration_ms": 215958,
-      "name": "OK! GO!",
-      "url": "https://open.spotify.com/track/61OAIwTrH9C5oITjPOkrCD"
-    },
-    {
-      "added_at": "2026-07-08 01:17:06",
-      "album": {
-        "name": "cappuccino",
-        "url": "https://open.spotify.com/album/2BvQS0zGZ4CRCVTbIsIi9A"
-      },
-      "artists": [
-        {
-          "name": "kakizaki yuta",
-          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
-        }
-      ],
-      "duration_ms": 151034,
-      "name": "cappuccino",
-      "url": "https://open.spotify.com/track/0fOrNEpaPcnJ9unDn4xZTf"
-    },
-    {
-      "added_at": "2026-07-08 01:17:06",
-      "album": {
         "name": "Cinema",
         "url": "https://open.spotify.com/album/6iKGgIPWAHykuvGWAU7nj3"
       },
@@ -1271,6 +1239,38 @@
     {
       "added_at": "2026-07-08 01:17:06",
       "album": {
+        "name": "OK! GO!",
+        "url": "https://open.spotify.com/album/1cXPneXLMQLpz1ScS3VQmY"
+      },
+      "artists": [
+        {
+          "name": "ayaka",
+          "url": "https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi"
+        }
+      ],
+      "duration_ms": 215958,
+      "name": "OK! GO!",
+      "url": "https://open.spotify.com/track/61OAIwTrH9C5oITjPOkrCD"
+    },
+    {
+      "added_at": "2026-07-08 01:17:06",
+      "album": {
+        "name": "cappuccino",
+        "url": "https://open.spotify.com/album/2BvQS0zGZ4CRCVTbIsIi9A"
+      },
+      "artists": [
+        {
+          "name": "kakizaki yuta",
+          "url": "https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em"
+        }
+      ],
+      "duration_ms": 151034,
+      "name": "cappuccino",
+      "url": "https://open.spotify.com/track/0fOrNEpaPcnJ9unDn4xZTf"
+    },
+    {
+      "added_at": "2026-07-08 01:17:06",
+      "album": {
         "name": "\u60aa\u5922",
         "url": "https://open.spotify.com/album/3eQhxQpEwff0eD0lSMgFFh"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 214143,
       "name": "\u60aa\u5922",
       "url": "https://open.spotify.com/track/2pjnFk45Ncea9ehKBcWQ0c"
+    },
+    {
+      "added_at": "2026-07-08 01:17:06",
+      "album": {
+        "name": "\u4e71\u6c17",
+        "url": "https://open.spotify.com/album/2CW8vP5hLBcFNJgPmg3Dn3"
+      },
+      "artists": [
+        {
+          "name": "\u308c\u3093",
+          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
+        }
+      ],
+      "duration_ms": 221559,
+      "name": "\u4e71\u6c17",
+      "url": "https://open.spotify.com/track/45pAexUCqZePSDy6HFNIAH"
     },
     {
       "added_at": "2026-07-08 01:17:06",
@@ -1315,22 +1331,6 @@
       "duration_ms": 127966,
       "name": "\u30d1\u30e9\u30bd\u30e0\u30cb\u30a2",
       "url": "https://open.spotify.com/track/5BnMjmHTJgmIOhUvfE2q9B"
-    },
-    {
-      "added_at": "2026-07-08 01:17:06",
-      "album": {
-        "name": "\u4e71\u6c17",
-        "url": "https://open.spotify.com/album/2CW8vP5hLBcFNJgPmg3Dn3"
-      },
-      "artists": [
-        {
-          "name": "\u308c\u3093",
-          "url": "https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m"
-        }
-      ],
-      "duration_ms": 221559,
-      "name": "\u4e71\u6c17",
-      "url": "https://open.spotify.com/track/45pAexUCqZePSDy6HFNIAH"
     },
     {
       "added_at": "2026-07-08 01:17:06",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2026-07-08 01:17:06",
       "album": {
+        "name": "\u9719",
+        "url": "https://open.spotify.com/album/0QND7Usw281jOfkAk0JRsk"
+      },
+      "artists": [
+        {
+          "name": "Luciela",
+          "url": "https://open.spotify.com/artist/6dx7T6YZ6MXM2VYjQNhvrX"
+        }
+      ],
+      "duration_ms": 276429,
+      "name": "\u9719",
+      "url": "https://open.spotify.com/track/6W2Xe4zKAsT1PyiQ7EZAGJ"
+    },
+    {
+      "added_at": "2026-07-08 01:17:06",
+      "album": {
         "name": "\u50d5\u306f",
         "url": "https://open.spotify.com/album/2UkvkDP2tm0TVm9PFnueU3"
       },
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2026-07-08 01:17:06",
       "album": {
-        "name": "\u9719",
-        "url": "https://open.spotify.com/album/0QND7Usw281jOfkAk0JRsk"
-      },
-      "artists": [
-        {
-          "name": "Luciela",
-          "url": "https://open.spotify.com/artist/6dx7T6YZ6MXM2VYjQNhvrX"
-        }
-      ],
-      "duration_ms": 276429,
-      "name": "\u9719",
-      "url": "https://open.spotify.com/track/6W2Xe4zKAsT1PyiQ7EZAGJ"
-    },
-    {
-      "added_at": "2026-07-08 01:17:06",
-      "album": {
         "name": "\u3053\u306e\u6307\u3068\u307e\u308c",
         "url": "https://open.spotify.com/album/32gH2eYlZmwo1ZuoMAA1if"
       },
@@ -1523,54 +1523,6 @@
       "duration_ms": 244285,
       "name": "\u3053\u306e\u6307\u3068\u307e\u308c",
       "url": "https://open.spotify.com/track/1jB18QPEXeJ5l2MsaN3eYg"
-    },
-    {
-      "added_at": "2026-07-08 01:17:06",
-      "album": {
-        "name": "\u30cf\u30fc\u30e2\u30cb\u30fc",
-        "url": "https://open.spotify.com/album/7zXJAAal6WqBhADoHsHrx1"
-      },
-      "artists": [
-        {
-          "name": "a\u5b50",
-          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
-        }
-      ],
-      "duration_ms": 233095,
-      "name": "\u30cf\u30fc\u30e2\u30cb\u30fc",
-      "url": "https://open.spotify.com/track/3Gt35aibizWFiBlhlhmDgf"
-    },
-    {
-      "added_at": "2026-07-08 01:17:06",
-      "album": {
-        "name": "soulmate",
-        "url": "https://open.spotify.com/album/7IvRAnzxwgSEotdaZW4BmR"
-      },
-      "artists": [
-        {
-          "name": "TOMIOKA AI",
-          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
-        }
-      ],
-      "duration_ms": 203952,
-      "name": "soulmate",
-      "url": "https://open.spotify.com/track/27hC2ZRKnJa5scJ8ULneWD"
-    },
-    {
-      "added_at": "2026-07-08 01:17:06",
-      "album": {
-        "name": "\u97ff\u3051",
-        "url": "https://open.spotify.com/album/6yKhzXJ23mtiDZg69uA3Of"
-      },
-      "artists": [
-        {
-          "name": "Ushio Kou",
-          "url": "https://open.spotify.com/artist/53LkOsNxuRf7dy9VnKWNis"
-        }
-      ],
-      "duration_ms": 201428,
-      "name": "\u97ff\u3051",
-      "url": "https://open.spotify.com/track/3umeHCodFwWc30UoMCAQJX"
     },
     {
       "added_at": "2026-07-08 01:17:06",
@@ -1591,6 +1543,38 @@
     {
       "added_at": "2026-07-08 01:17:06",
       "album": {
+        "name": "soulmate",
+        "url": "https://open.spotify.com/album/7IvRAnzxwgSEotdaZW4BmR"
+      },
+      "artists": [
+        {
+          "name": "TOMIOKA AI",
+          "url": "https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi"
+        }
+      ],
+      "duration_ms": 203952,
+      "name": "soulmate",
+      "url": "https://open.spotify.com/track/27hC2ZRKnJa5scJ8ULneWD"
+    },
+    {
+      "added_at": "2026-07-08 01:17:06",
+      "album": {
+        "name": "\u30cf\u30fc\u30e2\u30cb\u30fc",
+        "url": "https://open.spotify.com/album/7zXJAAal6WqBhADoHsHrx1"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "duration_ms": 233095,
+      "name": "\u30cf\u30fc\u30e2\u30cb\u30fc",
+      "url": "https://open.spotify.com/track/3Gt35aibizWFiBlhlhmDgf"
+    },
+    {
+      "added_at": "2026-07-08 01:17:06",
+      "album": {
         "name": "\u4e2d\u83ef\u30e9\u30f3\u30c1",
         "url": "https://open.spotify.com/album/08SfVnUwNJmZmiL6rSlwhp"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 242132,
       "name": "\u4e2d\u83ef\u30e9\u30f3\u30c1",
       "url": "https://open.spotify.com/track/0yfxKxkieGvDOPzJb1xfM3"
+    },
+    {
+      "added_at": "2026-07-08 01:17:06",
+      "album": {
+        "name": "\u97ff\u3051",
+        "url": "https://open.spotify.com/album/6yKhzXJ23mtiDZg69uA3Of"
+      },
+      "artists": [
+        {
+          "name": "Ushio Kou",
+          "url": "https://open.spotify.com/artist/53LkOsNxuRf7dy9VnKWNis"
+        }
+      ],
+      "duration_ms": 201428,
+      "name": "\u97ff\u3051",
+      "url": "https://open.spotify.com/track/3umeHCodFwWc30UoMCAQJX"
     },
     {
       "added_at": "2026-07-08 01:17:06",

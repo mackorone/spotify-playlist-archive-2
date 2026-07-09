@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,075 likes - 257 songs - 13 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,183 likes - 257 songs - 13 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [temptations](https://open.spotify.com/track/58AUk27TOxwKnyy2WJ76lK) | [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [temptations](https://open.spotify.com/album/56NXtJUIV6VZUhAHdE8JKB) | 2:24 |
 | 2 | [You & I \(feat\. Diana Goldberg\)](https://open.spotify.com/track/4iJZtPojK9D4Rn4wtZyyFg) | [Tim Bell](https://open.spotify.com/artist/13AFo4856ytys2f6kQqAlY), [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [You & I \(feat\. Diana Goldberg\)](https://open.spotify.com/album/3f2HyLD5XQzfwkWGMo9xoY) | 2:01 |
-| 3 | [What A Life \(feat\. Florence Arman\)](https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [What A Life](https://open.spotify.com/album/6Ad7E2sBgst9CrKF6kUZf2) | 3:09 |
+| 3 | [What A Life \(feat\. Florence Arman\)](https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [What A Life \(feat\. Florence Arman\)](https://open.spotify.com/album/6Ad7E2sBgst9CrKF6kUZf2) | 3:09 |
 | 4 | [If I could stop time...](https://open.spotify.com/track/1kni5NOsxhGawUi4CfWaEz) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [If I could stop time...](https://open.spotify.com/album/6ljrkih4qJTkkmJOVtnlrc) | 2:31 |
 | 5 | [Why Does It](https://open.spotify.com/track/6V7XAURee1enPt7ri3rJhx) | [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Why Does It](https://open.spotify.com/album/04YiGYUSKmO4qfScsWO0Qm) | 2:54 |
 | 6 | [Dreaming](https://open.spotify.com/track/7kGQtQduh366ufKEW4G1Lf) | [YARA](https://open.spotify.com/artist/2lQK8t8UA3mylT9uPZDCeS) | [Dreaming](https://open.spotify.com/album/0OUUgvpeuq8XmEJRfqazk0) | 2:48 |

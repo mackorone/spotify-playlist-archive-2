@@ -1,12 +1,12 @@
 {
   "description": "Best of Tamil Hip-Hop!\nCover : Ofro and Vaasi",
-  "num_followers": 81047,
+  "num_followers": 81046,
   "original_name": "RAP 91 Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOr+qh/bjAvpU+KzwZKwPK2a8X+B",
+  "snapshot_id": "AAAAABVNEZhcE/8KZIyLklo2pB+OxIaW",
   "tracks": [
     {
       "added_at": "2026-05-05 04:44:41",
@@ -143,6 +143,34 @@
       "duration_ms": 206454,
       "name": "Sigma Style (From \"Sigma\") (Tamil)",
       "url": "https://open.spotify.com/track/6Tzzr0w0qEUIYMXZctQLwr"
+    },
+    {
+      "added_at": "2026-07-08 06:13:00",
+      "album": {
+        "name": "The Rise of GDN (From \"G.D.N.\")",
+        "url": "https://open.spotify.com/album/0q7dQTfaIzfrkkUoShIbco"
+      },
+      "artists": [
+        {
+          "name": "Govind Vasantha",
+          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
+        },
+        {
+          "name": "Maalavika Sundar",
+          "url": "https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP"
+        },
+        {
+          "name": "JAXK",
+          "url": "https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq"
+        },
+        {
+          "name": "Senthuzhan",
+          "url": "https://open.spotify.com/artist/70FG3TFLKDHaIiT9QcxWQX"
+        }
+      ],
+      "duration_ms": 215409,
+      "name": "The Rise of GDN (From \"G.D.N.\")",
+      "url": "https://open.spotify.com/track/4WH0z1XvtjJvgEKbsgQjwt"
     },
     {
       "added_at": "2026-06-08 09:01:56",

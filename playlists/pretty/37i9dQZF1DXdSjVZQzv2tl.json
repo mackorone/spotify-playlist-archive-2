@@ -1,91 +1,15 @@
 {
-  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Guilherme & Benuto, Panda",
-  "num_followers": 8115910,
+  "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Murilo Huff, Matheus Fernandes",
+  "num_followers": 8115769,
   "original_name": "Esquenta Sertanejo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFA1bIw0yJ1LKAjyt8NMt+yxWgTN",
+  "snapshot_id": "AAAAAADT5kdNloLwzDb4STtJDpbCw8KF",
   "tracks": [
     {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "Deu Rolo No Barret\u00e3o (Ver\u00e3o) - Vol. 02 [Ao Vivo]",
-        "url": "https://open.spotify.com/album/3XGGoKnrX9ic4xu44hrqyW"
-      },
-      "artists": [
-        {
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        },
-        {
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
-        }
-      ],
-      "duration_ms": 170658,
-      "name": "Eu Duvido - Ao Vivo",
-      "url": "https://open.spotify.com/track/0qJQD081gspDHC6xCKwMlB"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "Voc\u00eas & Deus, Vol. 1 (Ao Vivo no Rio de Janeiro)",
-        "url": "https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 160613,
-      "name": "Cadeira Cativa - Ao Vivo",
-      "url": "https://open.spotify.com/track/7gx504HCEsTgxmyPNov5Lh"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "Pe\u00e3o Todo Tatuado",
-        "url": "https://open.spotify.com/album/1K4G4HwbkRTxwhlEOy9HWL"
-      },
-      "artists": [
-        {
-          "name": "Jeninho",
-          "url": "https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os"
-        },
-        {
-          "name": "Mariana Fagundes",
-          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
-        }
-      ],
-      "duration_ms": 133563,
-      "name": "Pe\u00e3o Todo Tatuado",
-      "url": "https://open.spotify.com/track/1wrA9K1P177mkPNt9BB2OZ"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "Eu Te Seguro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0BiJgzu0T1SJFR5ltwzsUg"
-      },
-      "artists": [
-        {
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
-        },
-        {
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
-        }
-      ],
-      "duration_ms": 148561,
-      "name": "Eu Te Seguro - Ao Vivo",
-      "url": "https://open.spotify.com/track/587Lf3LyhC8smoFnNIQtn3"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "S\u00f3 Com Ela (Ao Vivo)",
         "url": "https://open.spotify.com/album/10OaDrrBULIuRBRk35NAcD"
@@ -105,7 +29,99 @@
       "url": "https://open.spotify.com/track/7xWcfrgPKzAsksWYdiLpy3"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
+      "album": {
+        "name": "Deu Rolo No Barret\u00e3o (Ver\u00e3o) - Vol. 02 [Ao Vivo]",
+        "url": "https://open.spotify.com/album/3XGGoKnrX9ic4xu44hrqyW"
+      },
+      "artists": [
+        {
+          "name": "Guilherme & Benuto",
+          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        }
+      ],
+      "duration_ms": 170658,
+      "name": "Eu Duvido - Ao Vivo",
+      "url": "https://open.spotify.com/track/0qJQD081gspDHC6xCKwMlB"
+    },
+    {
+      "added_at": "2026-07-08 17:05:09",
+      "album": {
+        "name": "Voc\u00eas & Deus, Vol. 1 (Ao Vivo no Rio de Janeiro)",
+        "url": "https://open.spotify.com/album/1URfI21LdTBjIZoiVCV1rB"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 160613,
+      "name": "Cadeira Cativa - Ao Vivo",
+      "url": "https://open.spotify.com/track/7gx504HCEsTgxmyPNov5Lh"
+    },
+    {
+      "added_at": "2026-07-08 17:05:09",
+      "album": {
+        "name": "Pe\u00e3o Todo Tatuado",
+        "url": "https://open.spotify.com/album/1K4G4HwbkRTxwhlEOy9HWL"
+      },
+      "artists": [
+        {
+          "name": "Jeninho",
+          "url": "https://open.spotify.com/artist/6MV2UXdX8Pqy25rI7dl6os"
+        },
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        }
+      ],
+      "duration_ms": 133563,
+      "name": "Pe\u00e3o Todo Tatuado",
+      "url": "https://open.spotify.com/track/1wrA9K1P177mkPNt9BB2OZ"
+    },
+    {
+      "added_at": "2026-07-08 17:05:09",
+      "album": {
+        "name": "Eu Te Seguro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0BiJgzu0T1SJFR5ltwzsUg"
+      },
+      "artists": [
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "duration_ms": 148561,
+      "name": "Eu Te Seguro - Ao Vivo",
+      "url": "https://open.spotify.com/track/587Lf3LyhC8smoFnNIQtn3"
+    },
+    {
+      "added_at": "2026-07-08 17:05:09",
+      "album": {
+        "name": "Velhos H\u00e1bitos, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Zvp9WWJTWzonuuAM9vA3L"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "duration_ms": 179215,
+      "name": "Ignora (Ao Vivo)",
+      "url": "https://open.spotify.com/track/7dNXSf4lS30n1lBfFavQK5"
+    },
+    {
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Resenha do Cabral (Ao Vivo)",
         "url": "https://open.spotify.com/album/5VV3PEsxdSkbhojw5hQnkL"
@@ -153,91 +169,7 @@
       "url": "https://open.spotify.com/track/0UbftifCuaos8xnNT1K8Us"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "O Melhor De Mim (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/4oI8F7EOFl92P3DnJ8QjgP"
-      },
-      "artists": [
-        {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
-        }
-      ],
-      "duration_ms": 198823,
-      "name": "Direitos Iguais - Ao Vivo",
-      "url": "https://open.spotify.com/track/0dNNhmOSnE6fOcXkNRO3uF"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "Velhos H\u00e1bitos, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Zvp9WWJTWzonuuAM9vA3L"
-      },
-      "artists": [
-        {
-          "name": "Felipe e Rodrigo",
-          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
-        }
-      ],
-      "duration_ms": 179215,
-      "name": "Ignora (Ao Vivo)",
-      "url": "https://open.spotify.com/track/7dNXSf4lS30n1lBfFavQK5"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "Saudade Estranha - Du Nada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4oSSmxah3nxooXXpHiosbY"
-      },
-      "artists": [
-        {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        }
-      ],
-      "duration_ms": 174794,
-      "name": "Saudade Estranha - Du Nada - Ao Vivo",
-      "url": "https://open.spotify.com/track/3LZcSnTOCRalXwMXvkZnLZ"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "Corpo Nu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4vN9lisiflP3K9caJwFvlc"
-      },
-      "artists": [
-        {
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
-        },
-        {
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
-        }
-      ],
-      "duration_ms": 198144,
-      "name": "Corpo Nu - Ao Vivo",
-      "url": "https://open.spotify.com/track/2rryVhIBu2bvOz96BjViVV"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "Cheiro De Culpado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3hYI6LURMi5rdYRn9slfn6"
-      },
-      "artists": [
-        {
-          "name": "J\u00fanior e C\u00e9zar",
-          "url": "https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk"
-        }
-      ],
-      "duration_ms": 161298,
-      "name": "Cheiro De Culpado - Ao Vivo",
-      "url": "https://open.spotify.com/track/6bor3RIvmpmz5c435liCs9"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Alian\u00e7a - Vol.1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5GAdbWrj64YwrmUh1HJtfE"
@@ -253,59 +185,7 @@
       "url": "https://open.spotify.com/track/1CqUGmt2Cyn2vvvAyQKJZQ"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "Bala Alojada",
-        "url": "https://open.spotify.com/album/4mFeX8UBFJ1KAyvfboPI7d"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 218107,
-      "name": "Bala Alojada",
-      "url": "https://open.spotify.com/track/2VqS3nosBtSzujuUP6EoKq"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "Sertanejo Respira (Ao Vivo Em Goi\u00e2nia)",
-        "url": "https://open.spotify.com/album/0p6IyKCVANLx7knOPSvw2P"
-      },
-      "artists": [
-        {
-          "name": "Fred & Fabr\u00edcio",
-          "url": "https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8"
-        }
-      ],
-      "duration_ms": 163207,
-      "name": "Te Amar \u00c9 Meu Talento - Ao Vivo",
-      "url": "https://open.spotify.com/track/2qG8U0e7uBqwu5vlV1oKNf"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "Bebe, Beija e Trai (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0E8TJBB3Y510HYS9llB48Q"
-      },
-      "artists": [
-        {
-          "name": "Mayke & Rodrigo",
-          "url": "https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI"
-        },
-        {
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
-        }
-      ],
-      "duration_ms": 156536,
-      "name": "Bebe, Beija e Trai - Ao Vivo",
-      "url": "https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Fora do Padr\u00e3o Vol. 01 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2ePhRW37XiA1Fog7YsDZB4"
@@ -329,111 +209,39 @@
       "url": "https://open.spotify.com/track/332rqteO5O475UV5zgSKPQ"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
-        "name": "Alian\u00e7a - Vol.2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ejLnHri909csVlNncBvyD"
+        "name": "O Melhor De Mim (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/4oI8F7EOFl92P3DnJ8QjgP"
       },
       "artists": [
         {
-          "name": "Danilo e Davi",
-          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
         }
       ],
-      "duration_ms": 162406,
-      "name": "Eu N\u00e3o Sou Terapia - Ao Vivo",
-      "url": "https://open.spotify.com/track/43M2EwcFfSxthlO3E58Men"
+      "duration_ms": 198823,
+      "name": "Direitos Iguais - Ao Vivo",
+      "url": "https://open.spotify.com/track/0dNNhmOSnE6fOcXkNRO3uF"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
-        "name": "Foi por Conveni\u00eancia",
-        "url": "https://open.spotify.com/album/1xkOIj7siMBQZKzdFNwt0U"
+        "name": "Saudade Estranha - Du Nada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4oSSmxah3nxooXXpHiosbY"
       },
       "artists": [
         {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
         }
       ],
-      "duration_ms": 205586,
-      "name": "Foi por Conveni\u00eancia",
-      "url": "https://open.spotify.com/track/6niGCULksHzD0NHyX3zCuB"
+      "duration_ms": 174794,
+      "name": "Saudade Estranha - Du Nada - Ao Vivo",
+      "url": "https://open.spotify.com/track/3LZcSnTOCRalXwMXvkZnLZ"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "Mo\u00e7a Pra Casar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1ojbs1pbmWrudu24ZleoKT"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 161862,
-      "name": "Mo\u00e7a Pra Casar - Ao Vivo",
-      "url": "https://open.spotify.com/track/6xawCc1ihv2XbURFL9bJLs"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "Admita (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5LSlkNPGCk88r7UzXC33e2"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 175228,
-      "name": "Admita - Ao Vivo",
-      "url": "https://open.spotify.com/track/2YKc5o2kQ6e1Pch1DwpjkO"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "Errado o Triplo (\u00d4h Perigo) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/1lFXn6R4fhKWgcL950Z3Dt"
-      },
-      "artists": [
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 157358,
-      "name": "Errado o Triplo (\u00d4h Perigo) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4TvVqX9HOMTvDJXYHxHbq7"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "N\u00e3o Namora (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5kruHqqKGLGBQzYE8zXKBA"
-      },
-      "artists": [
-        {
-          "name": "Clayton & Rom\u00e1rio",
-          "url": "https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 135925,
-      "name": "N\u00e3o Namora - Ao Vivo",
-      "url": "https://open.spotify.com/track/1YyQcX3oM8YsMTKeYFpoKx"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Quarto 67 (Ao Vivo)",
         "url": "https://open.spotify.com/album/3APhFHDM0ZOkMaM08rN3qQ"
@@ -453,7 +261,167 @@
       "url": "https://open.spotify.com/track/22E5DzxkTROdxSmSz3kaIo"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
+      "album": {
+        "name": "Corpo Nu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4vN9lisiflP3K9caJwFvlc"
+      },
+      "artists": [
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "duration_ms": 198144,
+      "name": "Corpo Nu - Ao Vivo",
+      "url": "https://open.spotify.com/track/2rryVhIBu2bvOz96BjViVV"
+    },
+    {
+      "added_at": "2026-07-08 17:05:09",
+      "album": {
+        "name": "Sertanejo Respira (Ao Vivo Em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/0p6IyKCVANLx7knOPSvw2P"
+      },
+      "artists": [
+        {
+          "name": "Fred & Fabr\u00edcio",
+          "url": "https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8"
+        }
+      ],
+      "duration_ms": 163207,
+      "name": "Te Amar \u00c9 Meu Talento - Ao Vivo",
+      "url": "https://open.spotify.com/track/2qG8U0e7uBqwu5vlV1oKNf"
+    },
+    {
+      "added_at": "2026-07-08 17:05:09",
+      "album": {
+        "name": "Foi por Conveni\u00eancia",
+        "url": "https://open.spotify.com/album/1xkOIj7siMBQZKzdFNwt0U"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 205586,
+      "name": "Foi por Conveni\u00eancia",
+      "url": "https://open.spotify.com/track/6niGCULksHzD0NHyX3zCuB"
+    },
+    {
+      "added_at": "2026-07-08 17:05:09",
+      "album": {
+        "name": "Cheiro De Culpado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3hYI6LURMi5rdYRn9slfn6"
+      },
+      "artists": [
+        {
+          "name": "J\u00fanior e C\u00e9zar",
+          "url": "https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk"
+        }
+      ],
+      "duration_ms": 161298,
+      "name": "Cheiro De Culpado - Ao Vivo",
+      "url": "https://open.spotify.com/track/6bor3RIvmpmz5c435liCs9"
+    },
+    {
+      "added_at": "2026-07-08 17:05:09",
+      "album": {
+        "name": "Admita (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5LSlkNPGCk88r7UzXC33e2"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 175228,
+      "name": "Admita - Ao Vivo",
+      "url": "https://open.spotify.com/track/2YKc5o2kQ6e1Pch1DwpjkO"
+    },
+    {
+      "added_at": "2026-07-08 17:05:09",
+      "album": {
+        "name": "Bebe, Beija e Trai (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0E8TJBB3Y510HYS9llB48Q"
+      },
+      "artists": [
+        {
+          "name": "Mayke & Rodrigo",
+          "url": "https://open.spotify.com/artist/70l6HIf0rz8ZMQCW5qK6QI"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        }
+      ],
+      "duration_ms": 156536,
+      "name": "Bebe, Beija e Trai - Ao Vivo",
+      "url": "https://open.spotify.com/track/1yJYseCZJYRHZkl1DJ3tLs"
+    },
+    {
+      "added_at": "2026-07-08 17:05:09",
+      "album": {
+        "name": "Alian\u00e7a - Vol.2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ejLnHri909csVlNncBvyD"
+      },
+      "artists": [
+        {
+          "name": "Danilo e Davi",
+          "url": "https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u"
+        }
+      ],
+      "duration_ms": 162406,
+      "name": "Eu N\u00e3o Sou Terapia - Ao Vivo",
+      "url": "https://open.spotify.com/track/43M2EwcFfSxthlO3E58Men"
+    },
+    {
+      "added_at": "2026-07-08 17:05:09",
+      "album": {
+        "name": "Bala Alojada",
+        "url": "https://open.spotify.com/album/4mFeX8UBFJ1KAyvfboPI7d"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 218107,
+      "name": "Bala Alojada",
+      "url": "https://open.spotify.com/track/2VqS3nosBtSzujuUP6EoKq"
+    },
+    {
+      "added_at": "2026-07-08 17:05:09",
+      "album": {
+        "name": "N\u00e3o Namora (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5kruHqqKGLGBQzYE8zXKBA"
+      },
+      "artists": [
+        {
+          "name": "Clayton & Rom\u00e1rio",
+          "url": "https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 135925,
+      "name": "N\u00e3o Namora - Ao Vivo",
+      "url": "https://open.spotify.com/track/1YyQcX3oM8YsMTKeYFpoKx"
+    },
+    {
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Fire Arena \u2764\ufe0f\u200d\ud83d\udd25",
         "url": "https://open.spotify.com/album/5XBlACB0p8q28Or9SiCSBL"
@@ -469,27 +437,7 @@
       "url": "https://open.spotify.com/track/3D71jvd5cyuaW5c3jBCw4i"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "Ponto G",
-        "url": "https://open.spotify.com/album/7g5uhYNHJ07ZHuXTX3bu3R"
-      },
-      "artists": [
-        {
-          "name": "Felipe Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB"
-        },
-        {
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
-        }
-      ],
-      "duration_ms": 163674,
-      "name": "Ponto G",
-      "url": "https://open.spotify.com/track/2nFxi81mANa6dtAWR8admj"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Meu Sil\u00eancio (Ao Vivo)",
         "url": "https://open.spotify.com/album/086Jke99gK8bDLMFkgzGaj"
@@ -509,7 +457,7 @@
       "url": "https://open.spotify.com/track/0ycQtDnc4mOcefV6yyV6dm"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "NATORA VOL. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5oOFQ0n4Mhdka97t8X91c2"
@@ -529,7 +477,7 @@
       "url": "https://open.spotify.com/track/7zDYXdkSlhHaPUBbXYsL3x"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Ele E Ela\u2764\ufe0f\u274c (Ao Vivo)",
         "url": "https://open.spotify.com/album/5lBt3UruEaHEnfLrIxr1sg"
@@ -549,7 +497,7 @@
       "url": "https://open.spotify.com/track/7rBBIdAFWC2m9mdCFrO42o"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "ALMA - PARTE 1",
         "url": "https://open.spotify.com/album/6MxCEhK9taTuUO6Ephm983"
@@ -569,7 +517,7 @@
       "url": "https://open.spotify.com/track/0K7qMa0JqOIETkWmQXmQvw"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Velhos H\u00e1bitos, Vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Zvp9WWJTWzonuuAM9vA3L"
@@ -585,7 +533,7 @@
       "url": "https://open.spotify.com/track/6Exec6nPRIwvAEu3N8pVnT"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "C\u00ea T\u00e1 Doido - Fortaleza (Ao Vivo)",
         "url": "https://open.spotify.com/album/0PsflSgbABRtt4obCObAJR"
@@ -613,43 +561,7 @@
       "url": "https://open.spotify.com/track/3zV5z415MPhWftZsBgN6uU"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "Mente S\u00e3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1kgtcBaKHNzz1Xl3SdDPg5"
-      },
-      "artists": [
-        {
-          "name": "Kaique e Felipe",
-          "url": "https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh"
-        },
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 156220,
-      "name": "Mente S\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/2v5zIiTacPZrueyo4wRYtv"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
-      "album": {
-        "name": "Mil Adjetivos (Perfeita Pra Mim) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/6xP8c8bxoKfxlBpApmsdS1"
-      },
-      "artists": [
-        {
-          "name": "Cleber & Cauan",
-          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
-        }
-      ],
-      "duration_ms": 178945,
-      "name": "Mil Adjetivos (Perfeita Pra Mim) - Ao Vivo",
-      "url": "https://open.spotify.com/track/5vk6IKLrBccCifWuqUORyQ"
-    },
-    {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Que Del\u00edcia",
         "url": "https://open.spotify.com/album/5WeyrWSrGXzFHCYyLGvXvg"
@@ -669,7 +581,7 @@
       "url": "https://open.spotify.com/track/62ZeAs3fShuWFRYsV1TFFF"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Te Perdi Pros Pared\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/5naJEdqaxhNfXG22fbmkQo"
@@ -689,7 +601,7 @@
       "url": "https://open.spotify.com/track/6iok3n58Pi7tFIaecGKfo5"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Quem Que T\u00e1",
         "url": "https://open.spotify.com/album/6AOYra2DSu2cs5tBUhpEbS"
@@ -709,7 +621,7 @@
       "url": "https://open.spotify.com/track/2kd04YGxY6v8t4HYztOHn7"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Raiz BH (Ao Vivo / Deluxe)",
         "url": "https://open.spotify.com/album/5hQtrOJAUKLV1VmdoVv455"
@@ -729,7 +641,7 @@
       "url": "https://open.spotify.com/track/79nMK3bCPAzKd70WiHCv5S"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/2lmUmRXPsds8n2YU68dalX"
@@ -745,7 +657,7 @@
       "url": "https://open.spotify.com/track/2Hw0LzrD6ic8AckKBxJhiO"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Feito \u00c0 M\u00e3o",
         "url": "https://open.spotify.com/album/3ZqeqDoYXUEUvfdPkohMjl"
@@ -761,7 +673,7 @@
       "url": "https://open.spotify.com/track/0vKdIvvXWdvaQ2qPVchDWB"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Altas Modas (Ao Vivo)",
         "url": "https://open.spotify.com/album/59doVfwiWIHdhD7lKWpwGh"
@@ -781,7 +693,7 @@
       "url": "https://open.spotify.com/track/473DqaeIno75pBbp0bNrkT"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "OLHO MARROM - Ao Vivo em Lisboa",
         "url": "https://open.spotify.com/album/4fa3lwn2vSLUTz3HNqcJzM"
@@ -797,7 +709,7 @@
       "url": "https://open.spotify.com/track/1I6TdHxz61Kf9EFje0dQvg"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Todo Mundo Menos Eu (Ao Vivo)",
         "url": "https://open.spotify.com/album/50swQR5HVBhgawCQSyUSrK"
@@ -817,7 +729,7 @@
       "url": "https://open.spotify.com/track/7CIx2glE3HjBtXRrZzfowf"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Feito \u00c0 M\u00e3o",
         "url": "https://open.spotify.com/album/3ZqeqDoYXUEUvfdPkohMjl"
@@ -833,7 +745,7 @@
       "url": "https://open.spotify.com/track/1f3IKtD2BBmy1mrVPtGYbF"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Vai Cair \u00c1gua (Ao Vivo)",
         "url": "https://open.spotify.com/album/0Vesvt7F80ZEOkCluw6Op1"
@@ -853,7 +765,7 @@
       "url": "https://open.spotify.com/track/1Vsh9frTSsEwqwcbvZpItT"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Magia das Estrelas, Vol. 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZFPMOKBs7Qv6dfUjrOqxc"
@@ -869,7 +781,7 @@
       "url": "https://open.spotify.com/track/6vGZfODFI1FxMImSUbdJhz"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Panda Sem Modera\u00e7\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/5VVcZ4Ne2Tt9Bpj7QS7RrC"
@@ -893,7 +805,7 @@
       "url": "https://open.spotify.com/track/25CffgwZg6vlUdCsHJijZo"
     },
     {
-      "added_at": "2026-07-02 14:25:17",
+      "added_at": "2026-07-08 17:05:09",
       "album": {
         "name": "Caos De Algu\u00e9m (Ao Vivo)",
         "url": "https://open.spotify.com/album/1YUSSTubZOirrPOnGpt7gf"

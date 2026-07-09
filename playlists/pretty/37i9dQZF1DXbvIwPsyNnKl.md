@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The best of Pinoy hip\-hop\. KALYE Natin 'To\. Cover: Flow G
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,517,083 likes - 55 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,517,394 likes - 55 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 25 | [WE OUSSIDE](https://open.spotify.com/track/4S1gzQV6LgP8XSe6K2zbga) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp), [BRGR](https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv) | [WE OUSSIDE](https://open.spotify.com/album/127XxGEoT7sHPEAodxkYKR) | 2:46 |
 | 26 | [Banana](https://open.spotify.com/track/3iSa7VCFrQiaG2SUqHeaYw) | [GA Chillerong Ghetto](https://open.spotify.com/artist/3F76U6bJP4xJrxHqB0j8al), [Paul N Ballin](https://open.spotify.com/artist/0Hd8r7OHPwGn4ao1e0PYAu) | [Banana](https://open.spotify.com/album/4LbeSlImwfoaUuAt6u4iQJ) | 3:00 |
 | 27 | [GRiND NG GRiND](https://open.spotify.com/track/7ljeSlwIjBRdwppyVKDoIv) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Guddhist Gunatita](https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL) | [LiFT OFF MiXTAPE](https://open.spotify.com/album/6AcssXGgA6H1jYq2eTVMsZ) | 3:41 |
-| 28 | [Malupet Kame Pumorma](https://open.spotify.com/track/0sF4tmDEqqNwn3eLsx06Ev) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B), [Louie Grammz](https://open.spotify.com/artist/0BB8aL0LTCZqyhOmahbE3N) | [Malupet Kame Pumorma](https://open.spotify.com/album/54r06ll4XkSVTxKRPBOzSR) | 3:56 |
+| 28 | [Malupet Kame Pumorma](https://open.spotify.com/track/0sF4tmDEqqNwn3eLsx06Ev) | [Gat Putch](https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v), [Louie Grammz](https://open.spotify.com/artist/0BB8aL0LTCZqyhOmahbE3N), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B) | [Malupet Kame Pumorma](https://open.spotify.com/album/54r06ll4XkSVTxKRPBOzSR) | 3:56 |
 | 29 | [The Helly What](https://open.spotify.com/track/1a4wNQKai7Z9zpybqmpcU8) | [Kartell'em](https://open.spotify.com/artist/4e4flHlMWdF3KOADVBTMXo), [Sica](https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B), [Waiian](https://open.spotify.com/artist/3p5RE0gW2l4oFW82SgMv29), [Wavyier](https://open.spotify.com/artist/5BiH3cDOIyyAQixJ0JcyNw), [Ne7in](https://open.spotify.com/artist/7xLdWx1ZNY9LnvPZo7BbS3), [Nickname](https://open.spotify.com/artist/7oPgFmJIfapueMliwOjBiH) | [The Helly What](https://open.spotify.com/album/7qCw3yKpSmKLx5C2uKIEEn) | 2:41 |
 | 30 | [CR3W](https://open.spotify.com/track/5Tp2b3NBMLF2qm2nhxiSFc) | [Slick V](https://open.spotify.com/artist/1is3Qef9QssY4jS4Yfz8AM), [Matteyo](https://open.spotify.com/artist/6AOsrmODyI5Bt3jGhMOZqS), [Uncle Dags](https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l) | [CR3W](https://open.spotify.com/album/77QmHN2ttnpdtCJ3deR3AD) | 3:18 |
 | 31 | [DOET](https://open.spotify.com/track/3BUgSPP81wY0nTM7SKwqsI) | [Xaint](https://open.spotify.com/artist/76Fv5x1GEVrSXrsIHQxA4c), [Jeko Royo](https://open.spotify.com/artist/5HX42nUgvxmShHsxivaApm) | [DOET](https://open.spotify.com/album/3jCZqy3WXrOo73FI3rLLdO) | 3:15 |

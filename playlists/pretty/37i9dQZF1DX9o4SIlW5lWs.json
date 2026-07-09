@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.",
-  "num_followers": 280811,
+  "num_followers": 280894,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Montevideo 418",
-        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
-      },
-      "artists": [
-        {
-          "name": "El Gordo Luis",
-          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
-        }
-      ],
-      "duration_ms": 211026,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6Ji3PdJXkQN4F6utzBGDRv"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 164949,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/27sRjhW6KT1NDzPpfBxPaE"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
+        "name": "Montevideo 418",
+        "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
+      },
+      "artists": [
+        {
+          "name": "El Gordo Luis",
+          "url": "https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq"
+        }
+      ],
+      "duration_ms": 211026,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/44Im9L48gDJRpn5Vtp6usG"
+      },
+      "artists": [
+        {
+          "name": "Valen",
+          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
+        }
+      ],
+      "duration_ms": 173543,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2dAvBG6fcCrGlRjsGDj5wL"
+    },
+    {
+      "added_at": "2026-06-19 03:00:24",
+      "album": {
         "name": "Mi Historia Entre Tus Dedos",
         "url": "https://open.spotify.com/album/5Dso9GcL2HzHbt5s35t5vs"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 295526,
       "name": "Mi Historia Entre Tus Dedos",
       "url": "https://open.spotify.com/track/0NK3UhMD7kNwOfuoL0jk8R"
-    },
-    {
-      "added_at": "2026-06-19 03:00:24",
-      "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/44Im9L48gDJRpn5Vtp6usG"
-      },
-      "artists": [
-        {
-          "name": "Valen",
-          "url": "https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz"
-        }
-      ],
-      "duration_ms": 173543,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2dAvBG6fcCrGlRjsGDj5wL"
     },
     {
       "added_at": "2026-06-19 03:00:24",
@@ -1887,22 +1887,22 @@
     {
       "added_at": "2026-06-19 03:00:24",
       "album": {
-        "name": "Noche de Estrellas",
-        "url": "https://open.spotify.com/album/2sX6XP7Vsbn9vzuyoI1G6r"
+        "name": "Angelito",
+        "url": "https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa"
       },
       "artists": [
         {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+          "name": "Nico Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip"
         },
         {
-          "name": "j mena",
-          "url": "https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj"
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
         }
       ],
-      "duration_ms": 188368,
-      "name": "Noche de Estrellas",
-      "url": "https://open.spotify.com/track/4lPWL2JWTz4aKVwAG2C8jT"
+      "duration_ms": 171502,
+      "name": "Angelito",
+      "url": "https://open.spotify.com/track/71ObvTyyeJyN10r4JVc3ur"
     }
   ],
   "unique_name": "Cumbia y Romance",

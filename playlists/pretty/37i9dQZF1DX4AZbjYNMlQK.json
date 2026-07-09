@@ -1,6 +1,6 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 272788,
+  "num_followers": 272730,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
@@ -467,18 +467,22 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Al Ni\u00f1o Dios",
-        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
+        "name": "You Make It Feel Like Christmas (Deluxe Edition - 2020)",
+        "url": "https://open.spotify.com/album/0xXKtxOYqLBTjcefyh8Oz8"
       },
       "artists": [
         {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        },
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 153182,
-      "name": "Al Ni\u00f1o Dios",
-      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
+      "duration_ms": 162680,
+      "name": "Feliz Navidad (feat. Mon Laferte)",
+      "url": "https://open.spotify.com/track/4NyRyGgAdWJdovsFZUY9Fd"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -499,22 +503,18 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "You Make It Feel Like Christmas (Deluxe Edition - 2020)",
-        "url": "https://open.spotify.com/album/0xXKtxOYqLBTjcefyh8Oz8"
+        "name": "Al Ni\u00f1o Dios",
+        "url": "https://open.spotify.com/album/33uRLd9cOY7Yo4MQdaKcAo"
       },
       "artists": [
         {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
         }
       ],
-      "duration_ms": 162680,
-      "name": "Feliz Navidad (feat. Mon Laferte)",
-      "url": "https://open.spotify.com/track/4NyRyGgAdWJdovsFZUY9Fd"
+      "duration_ms": 153182,
+      "name": "Al Ni\u00f1o Dios",
+      "url": "https://open.spotify.com/track/3zoq5Vncpo4KGtZFKsANEJ"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -799,26 +799,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Navidad Contigo",
-        "url": "https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Jean & Alex",
-          "url": "https://open.spotify.com/artist/2yq1SMEHxxNNXKf8Dx3S4V"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "Navidad Contigo",
-      "url": "https://open.spotify.com/track/481jZRK94eCVslwavhdY8n"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Estefan Family Christmas",
         "url": "https://open.spotify.com/album/49b2hgZIN5fqQrswcuVyNk"
       },
@@ -843,6 +823,42 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
+        "name": "Navidad Contigo",
+        "url": "https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Jean & Alex",
+          "url": "https://open.spotify.com/artist/2yq1SMEHxxNNXKf8Dx3S4V"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Navidad Contigo",
+      "url": "https://open.spotify.com/track/481jZRK94eCVslwavhdY8n"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Emanuel - Spotify Singles Holiday",
+        "url": "https://open.spotify.com/album/7rOamK9h6cOfjVhxk9M1K4"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 242666,
+      "name": "Emanuel - Spotify Singles Holiday",
+      "url": "https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
         "name": "Una Noche Especial",
         "url": "https://open.spotify.com/album/7B9p0KkvYqajCmj2jZFkUd"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 189204,
       "name": "Una Noche Especial",
       "url": "https://open.spotify.com/track/0qcZMcD883yjJEhtLGFGld"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "Emanuel - Spotify Singles Holiday",
-        "url": "https://open.spotify.com/album/7rOamK9h6cOfjVhxk9M1K4"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 242666,
-      "name": "Emanuel - Spotify Singles Holiday",
-      "url": "https://open.spotify.com/track/7vy407HYIESM2x9c0xzasm"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -947,18 +947,18 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "25 de Diciembre",
-        "url": "https://open.spotify.com/album/08OQekJroE9E8h0wqerUWY"
+        "name": "Holiday",
+        "url": "https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
         }
       ],
-      "duration_ms": 178144,
-      "name": "25 de Diciembre",
-      "url": "https://open.spotify.com/track/7m1nnKjSVpGUiJPw2WNqxW"
+      "duration_ms": 171535,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -999,34 +999,18 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Holiday",
-        "url": "https://open.spotify.com/album/37a9Xqe5ZExOQA50uWGz3G"
+        "name": "25 de Diciembre",
+        "url": "https://open.spotify.com/album/08OQekJroE9E8h0wqerUWY"
       },
       "artists": [
         {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+          "name": "YoSoyMatt",
+          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
         }
       ],
-      "duration_ms": 171535,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/4OcGEJ7GR6i6ADd3D0Z2gR"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "Con Mi Coqueta",
-        "url": "https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj"
-      },
-      "artists": [
-        {
-          "name": "jame minogue",
-          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Con Mi Coqueta",
-      "url": "https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO"
+      "duration_ms": 178144,
+      "name": "25 de Diciembre",
+      "url": "https://open.spotify.com/track/7m1nnKjSVpGUiJPw2WNqxW"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1047,6 +1031,22 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
+        "name": "Con Mi Coqueta",
+        "url": "https://open.spotify.com/album/629Kq7nNm3lSo07NL0SSpj"
+      },
+      "artists": [
+        {
+          "name": "jame minogue",
+          "url": "https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Con Mi Coqueta",
+      "url": "https://open.spotify.com/track/0M0ytvR91xf6DPUM4lUyHO"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
         "name": "Duende",
         "url": "https://open.spotify.com/album/2w5Retn8950UJiwf09tFJq"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 166891,
       "name": "Duende",
       "url": "https://open.spotify.com/track/4YOZ3RFiqr4SiPpQ3MMBot"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Mu\u00f1eco de Nieve",
+        "url": "https://open.spotify.com/album/1GBNPYgW4A9ZjDP3vPIWsQ"
+      },
+      "artists": [
+        {
+          "name": "Blas Cant\u00f3",
+          "url": "https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46"
+        }
+      ],
+      "duration_ms": 170856,
+      "name": "Mu\u00f1eco de Nieve",
+      "url": "https://open.spotify.com/track/0XRktjuig0lpTs5xxSyloV"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1111,22 +1127,6 @@
       "duration_ms": 236200,
       "name": "Un A\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/1gKfAZ4WauownlJdL5CM8q"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
-        "name": "Mu\u00f1eco de Nieve",
-        "url": "https://open.spotify.com/album/1GBNPYgW4A9ZjDP3vPIWsQ"
-      },
-      "artists": [
-        {
-          "name": "Blas Cant\u00f3",
-          "url": "https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46"
-        }
-      ],
-      "duration_ms": 170856,
-      "name": "Mu\u00f1eco de Nieve",
-      "url": "https://open.spotify.com/track/0XRktjuig0lpTs5xxSyloV"
     },
     {
       "added_at": "2025-12-12 05:00:40",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-12-12 05:00:40",
       "album": {
-        "name": "Diciembre",
-        "url": "https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi"
-      },
-      "artists": [
-        {
-          "name": "Darho",
-          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
-        }
-      ],
-      "duration_ms": 160312,
-      "name": "Diciembre",
-      "url": "https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px"
-    },
-    {
-      "added_at": "2025-12-12 05:00:40",
-      "album": {
         "name": "Ya Es Navidad",
         "url": "https://open.spotify.com/album/1gY6CARb37ApCi8RohVmrf"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 138426,
       "name": "A La Nanita Nana",
       "url": "https://open.spotify.com/track/2yQFbnF3c4ttqx5G02ub49"
+    },
+    {
+      "added_at": "2025-12-12 05:00:40",
+      "album": {
+        "name": "Diciembre",
+        "url": "https://open.spotify.com/album/1oZ3it2Hd6dNEm3ErNYzAi"
+      },
+      "artists": [
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+        }
+      ],
+      "duration_ms": 160312,
+      "name": "Diciembre",
+      "url": "https://open.spotify.com/track/2VMEtD2E4Fh8gBe9UuJ7Px"
     },
     {
       "added_at": "2025-12-12 05:00:40",

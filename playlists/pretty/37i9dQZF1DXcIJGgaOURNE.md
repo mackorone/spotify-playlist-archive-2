@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 
 > <a href="spotify:artist:7A0awCXkE1FtSU8B0qwOJQ"> Jamie xx</a>'s favorite tracks\. Updated regularly\. Curated by Jamie xx\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,470 likes - 136 songs - 11 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,478 likes - 136 songs - 11 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,7 +134,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcIJGgaOURNE.md) - [plain]
 | 124 | [I Feel Love \- 12" Version](https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 8:15 |
 | 125 | [2000 Blacks Got to Be Free \- Edit](https://open.spotify.com/track/6lI0dzCFeR86ijHg3SGSNP) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [2000 Blacks Got To Be Free \(feat\. Roy Ayers\)](https://open.spotify.com/album/1YV7aEV84KGSUHIDuM4TtZ) | 4:53 |
 | 126 | [Why Can't We Live Together](https://open.spotify.com/track/722E6CPY8biq4sUnf40u6Y) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together](https://open.spotify.com/album/0HN6yWzRIaLKPnSFdeBtAO) | 4:37 |
-| 127 | [Only The Beginning](https://open.spotify.com/track/4mnOGnhUCTy2l6AJ2myPG8) | [Gerry Morris](https://open.spotify.com/artist/5Zgoi8R05EUwv37zYtXVWR) | [Mixed Up Minds, Part 7: Obscure Rock And Pop From The British Isles, 1969\-1974](https://open.spotify.com/album/07LUqx1y8p44EXKSzFc861) | 2:39 |
+| 127 | [Only The Beginning](https://open.spotify.com/track/4mnOGnhUCTy2l6AJ2myPG8) | [Gerry Morris](https://open.spotify.com/artist/5Zgoi8R05EUwv37zYtXVWR) | [Mixed up Minds, Part 7: Obscure Rock and Pop from the British Isles, 1969\-1974](https://open.spotify.com/album/07LUqx1y8p44EXKSzFc861) | 2:39 |
 | 128 | [It's A Long Way There \- Remastered 2022](https://open.spotify.com/track/6eVtCSzb3ZKRAA37dQWzbb) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [Little River Band \(Remastered 2022\)](https://open.spotify.com/album/35j8cY91pzMYe02ZszvMyC) | 8:42 |
 | 129 | [The World Is A Ghetto](https://open.spotify.com/track/2oMXvopfDLGmXaUK0LkkEy) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [The World is a Ghetto](https://open.spotify.com/album/4UZmpGH8kpAgyZ2yqQ8sP9) | 10:17 |
 | 130 | [LET'S DO IT AGAIN](https://open.spotify.com/track/6XeNfVpkrE1Ai9CQWo4cgu) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET'S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 7:19 |

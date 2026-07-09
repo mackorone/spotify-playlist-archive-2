@@ -1,12 +1,12 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Dany Ome & Kevincito El 13",
-  "num_followers": 166776,
+  "num_followers": 166806,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHBVhSSKYpjqaOnCMQO0s8lV7rxH",
+  "snapshot_id": "AAAAAFyt21IAWDPJ7ewh9JwxhH9HZaeb",
   "tracks": [
     {
       "added_at": "2026-06-30 15:56:51",
@@ -471,6 +471,26 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
+        "name": "Todos Los D\u00edas Son Iguales",
+        "url": "https://open.spotify.com/album/1pcciV0T9o0fxVGXiD8Wo9"
+      },
+      "artists": [
+        {
+          "name": "Charly & Johayron",
+          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
+        },
+        {
+          "name": "El Bandolero",
+          "url": "https://open.spotify.com/artist/5bSI7DmMQFvDRkV8RMe2wB"
+        }
+      ],
+      "duration_ms": 151086,
+      "name": "Sellito y Foto - Prod. by El Bandolero",
+      "url": "https://open.spotify.com/track/2rUc0kMhOMWxCdH1PaTVVr"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
         "name": "Yo Dar\u00eda",
         "url": "https://open.spotify.com/album/3OGhgkFFPgCgr9wRgn3AES"
       },
@@ -539,26 +559,6 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
-        "name": "Todos Los D\u00edas Son Iguales",
-        "url": "https://open.spotify.com/album/1pcciV0T9o0fxVGXiD8Wo9"
-      },
-      "artists": [
-        {
-          "name": "Charly & Johayron",
-          "url": "https://open.spotify.com/artist/2QFzaQjpqjQBtvwZLVMdMG"
-        },
-        {
-          "name": "El Bandolero",
-          "url": "https://open.spotify.com/artist/5bSI7DmMQFvDRkV8RMe2wB"
-        }
-      ],
-      "duration_ms": 151086,
-      "name": "Sellito y Foto - Prod. by El Bandolero",
-      "url": "https://open.spotify.com/track/2rUc0kMhOMWxCdH1PaTVVr"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
         "name": "Papita Frita",
         "url": "https://open.spotify.com/album/5hWtMDpR5ID7uqtezFcVQo"
       },
@@ -595,6 +595,34 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
+        "name": "Uff",
+        "url": "https://open.spotify.com/album/45te0DqNJr2j75nyaXzFSZ"
+      },
+      "artists": [
+        {
+          "name": "Mauro y El Pitu",
+          "url": "https://open.spotify.com/artist/0CcwKWKXEhxuEBohlsBhz2"
+        },
+        {
+          "name": "Talent Fuego",
+          "url": "https://open.spotify.com/artist/5XYdPQdxwHSnn4hSZRGY9H"
+        },
+        {
+          "name": "Michel Boutic",
+          "url": "https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9"
+        },
+        {
+          "name": "Dj Honda",
+          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "Uff - Prod. by Dj Honda",
+      "url": "https://open.spotify.com/track/7tqyxyev63WRu0k3hxbc7p"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
         "name": "Invicto",
         "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
       },
@@ -627,34 +655,6 @@
       "duration_ms": 177762,
       "name": "De Ping4",
       "url": "https://open.spotify.com/track/0TZx2Nlsrgrsv9Dm88pmn0"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
-        "name": "Uff",
-        "url": "https://open.spotify.com/album/45te0DqNJr2j75nyaXzFSZ"
-      },
-      "artists": [
-        {
-          "name": "Mauro y El Pitu",
-          "url": "https://open.spotify.com/artist/0CcwKWKXEhxuEBohlsBhz2"
-        },
-        {
-          "name": "Talent Fuego",
-          "url": "https://open.spotify.com/artist/5XYdPQdxwHSnn4hSZRGY9H"
-        },
-        {
-          "name": "Michel Boutic",
-          "url": "https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9"
-        },
-        {
-          "name": "Dj Honda",
-          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
-        }
-      ],
-      "duration_ms": 197894,
-      "name": "Uff - Prod. by Dj Honda",
-      "url": "https://open.spotify.com/track/7tqyxyev63WRu0k3hxbc7p"
     },
     {
       "added_at": "2026-06-30 15:56:51",
@@ -707,6 +707,26 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
+        "name": "UN TIEMPO",
+        "url": "https://open.spotify.com/album/629OQNREnZdJKsPtbvp0CI"
+      },
+      "artists": [
+        {
+          "name": "Yorshi & Yosan",
+          "url": "https://open.spotify.com/artist/6P1Br4Y7er2VNYiozFC1GO"
+        },
+        {
+          "name": "Charaway",
+          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
+        }
+      ],
+      "duration_ms": 178909,
+      "name": "UN TIEMPO",
+      "url": "https://open.spotify.com/track/6RhoTSeKVDKan32JCh80fV"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
         "name": "Tamoarriba",
         "url": "https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 210228,
       "name": "Otro Trago",
       "url": "https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
-        "name": "Las Prosti",
-        "url": "https://open.spotify.com/album/1GEmOvo29J0EKZZ8hpQT0I"
-      },
-      "artists": [
-        {
-          "name": "L Kimii",
-          "url": "https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh"
-        },
-        {
-          "name": "DJ Conds",
-          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
-        }
-      ],
-      "duration_ms": 175248,
-      "name": "Las Prosti",
-      "url": "https://open.spotify.com/track/2in2xA986JvLRTVc5JJbby"
     },
     {
       "added_at": "2026-06-30 15:56:51",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
-        "name": "UN TIEMPO",
-        "url": "https://open.spotify.com/album/629OQNREnZdJKsPtbvp0CI"
-      },
-      "artists": [
-        {
-          "name": "Yorshi & Yosan",
-          "url": "https://open.spotify.com/artist/6P1Br4Y7er2VNYiozFC1GO"
-        },
-        {
-          "name": "Charaway",
-          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "UN TIEMPO",
-      "url": "https://open.spotify.com/track/6RhoTSeKVDKan32JCh80fV"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
         "name": "LA LA LA",
         "url": "https://open.spotify.com/album/0Ebtd1t4tY0CdyMbM4STzP"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 132927,
       "name": "LA LA LA",
       "url": "https://open.spotify.com/track/3yu9nhgkR87xcxoSbI2c3I"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
+        "name": "Las Prosti",
+        "url": "https://open.spotify.com/album/1GEmOvo29J0EKZZ8hpQT0I"
+      },
+      "artists": [
+        {
+          "name": "L Kimii",
+          "url": "https://open.spotify.com/artist/1f1ghk6CZMmEuPtjldEDkh"
+        },
+        {
+          "name": "DJ Conds",
+          "url": "https://open.spotify.com/artist/42ppAzaKW3DW3bYRmxd1Dw"
+        }
+      ],
+      "duration_ms": 175248,
+      "name": "Las Prosti",
+      "url": "https://open.spotify.com/track/2in2xA986JvLRTVc5JJbby"
     },
     {
       "added_at": "2026-06-30 15:56:51",
@@ -847,22 +847,30 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
-        "name": "#Round2",
-        "url": "https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr"
+        "name": "Hace tiempo que no s\u00e9 de t\u00ed",
+        "url": "https://open.spotify.com/album/3uoaYIfJlv7PkBayh9rkiF"
       },
       "artists": [
         {
-          "name": "Divan",
-          "url": "https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP"
+          "name": "Ozunaje",
+          "url": "https://open.spotify.com/artist/6JIkIALBpxg5g5ia07E9bG"
         },
         {
-          "name": "Lenier",
-          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
+          "name": "El Dany MG",
+          "url": "https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG"
+        },
+        {
+          "name": "Fernando Produce",
+          "url": "https://open.spotify.com/artist/3pO5f5tMMj8HHkimZXszMJ"
+        },
+        {
+          "name": "Cal Lybeat",
+          "url": "https://open.spotify.com/artist/56NCcu2ap5rWxQx4FUosWB"
         }
       ],
-      "duration_ms": 178055,
-      "name": "Pobre Coraz\u00f3n - with Lenier",
-      "url": "https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1"
+      "duration_ms": 153200,
+      "name": "Hace tiempo que no s\u00e9 de t\u00ed",
+      "url": "https://open.spotify.com/track/2QaX4WMwJNIxwio16tuxxI"
     },
     {
       "added_at": "2026-06-30 15:56:51",
@@ -895,30 +903,22 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
-        "name": "Hace tiempo que no s\u00e9 de t\u00ed",
-        "url": "https://open.spotify.com/album/3uoaYIfJlv7PkBayh9rkiF"
+        "name": "#Round2",
+        "url": "https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr"
       },
       "artists": [
         {
-          "name": "Ozunaje",
-          "url": "https://open.spotify.com/artist/6JIkIALBpxg5g5ia07E9bG"
+          "name": "Divan",
+          "url": "https://open.spotify.com/artist/5R9qfSPB77aX9n9GKww0PP"
         },
         {
-          "name": "El Dany MG",
-          "url": "https://open.spotify.com/artist/6JsrjJFX8CAAI8AjLprKXG"
-        },
-        {
-          "name": "Fernando Produce",
-          "url": "https://open.spotify.com/artist/3pO5f5tMMj8HHkimZXszMJ"
-        },
-        {
-          "name": "Cal Lybeat",
-          "url": "https://open.spotify.com/artist/56NCcu2ap5rWxQx4FUosWB"
+          "name": "Lenier",
+          "url": "https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6"
         }
       ],
-      "duration_ms": 153200,
-      "name": "Hace tiempo que no s\u00e9 de t\u00ed",
-      "url": "https://open.spotify.com/track/2QaX4WMwJNIxwio16tuxxI"
+      "duration_ms": 178055,
+      "name": "Pobre Coraz\u00f3n - with Lenier",
+      "url": "https://open.spotify.com/track/29orueqF7k02TWw9CVHQh1"
     },
     {
       "added_at": "2026-06-30 15:56:51",
@@ -1011,6 +1011,38 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
+        "name": "Se asfixi\u00f3",
+        "url": "https://open.spotify.com/album/1c9aEl236Ox15x6cWMp8ZE"
+      },
+      "artists": [
+        {
+          "name": "L Maldito 13",
+          "url": "https://open.spotify.com/artist/3IO3ybxtyH9sVU4Pm3Z7eL"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "Se asfixi\u00f3",
+      "url": "https://open.spotify.com/track/6ExpY0BtLaB90mW2mB2Bkn"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
+        "name": "TE VIR\u00c9 EL CASETTE",
+        "url": "https://open.spotify.com/album/6HuNpYO5oiXanjfMiyq7F2"
+      },
+      "artists": [
+        {
+          "name": "Un Titico",
+          "url": "https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "BORRACHO",
+      "url": "https://open.spotify.com/track/4eHxfgW4GUzrpDEU8mvQw3"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
         "name": "CUBATON PAL REPARTO",
         "url": "https://open.spotify.com/album/4qf82iLojkj09mwtxlUV3p"
       },
@@ -1039,38 +1071,6 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
-        "name": "TE VIR\u00c9 EL CASETTE",
-        "url": "https://open.spotify.com/album/6HuNpYO5oiXanjfMiyq7F2"
-      },
-      "artists": [
-        {
-          "name": "Un Titico",
-          "url": "https://open.spotify.com/artist/1wgxD20A755DF21xNi4OiX"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "BORRACHO",
-      "url": "https://open.spotify.com/track/4eHxfgW4GUzrpDEU8mvQw3"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
-        "name": "Se asfixi\u00f3",
-        "url": "https://open.spotify.com/album/1c9aEl236Ox15x6cWMp8ZE"
-      },
-      "artists": [
-        {
-          "name": "L Maldito 13",
-          "url": "https://open.spotify.com/artist/3IO3ybxtyH9sVU4Pm3Z7eL"
-        }
-      ],
-      "duration_ms": 163226,
-      "name": "Se asfixi\u00f3",
-      "url": "https://open.spotify.com/track/6ExpY0BtLaB90mW2mB2Bkn"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
         "name": "#Round2",
         "url": "https://open.spotify.com/album/6a3ea5TFfoPTy5mg4QitFr"
       },
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-06-30 15:56:51",
       "album": {
-        "name": "Stupida",
-        "url": "https://open.spotify.com/album/6sGFiVC4ka6WZwcmVFJb1U"
-      },
-      "artists": [
-        {
-          "name": "Nany La Kbra",
-          "url": "https://open.spotify.com/artist/2sERwzDyPHN7IP1XPlTchU"
-        }
-      ],
-      "duration_ms": 213978,
-      "name": "Stupida",
-      "url": "https://open.spotify.com/track/1nXAJekMyzc98RABqZarAt"
-    },
-    {
-      "added_at": "2026-06-30 15:56:51",
-      "album": {
         "name": "Abr\u00e1zame Muy Fuerte",
         "url": "https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 219333,
       "name": "Abr\u00e1zame Muy Fuerte - Prod. by Dj Cham",
       "url": "https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG"
+    },
+    {
+      "added_at": "2026-06-30 15:56:51",
+      "album": {
+        "name": "Stupida",
+        "url": "https://open.spotify.com/album/6sGFiVC4ka6WZwcmVFJb1U"
+      },
+      "artists": [
+        {
+          "name": "Nany La Kbra",
+          "url": "https://open.spotify.com/artist/2sERwzDyPHN7IP1XPlTchU"
+        }
+      ],
+      "duration_ms": 213978,
+      "name": "Stupida",
+      "url": "https://open.spotify.com/track/1nXAJekMyzc98RABqZarAt"
     },
     {
       "added_at": "2026-06-30 15:56:51",

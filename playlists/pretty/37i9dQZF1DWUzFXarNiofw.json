@@ -1,6 +1,6 @@
 {
   "description": "The newest r&b drops, every week. Cover: Jorja Smith",
-  "num_followers": 1119141,
+  "num_followers": 1119139,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
@@ -180,12 +180,12 @@
           "url": "https://open.spotify.com/artist/1nyFByqDMAHXbvHi9OjCxl"
         },
         {
-          "name": "K CAMP",
-          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
-        },
-        {
           "name": "Jacquees",
           "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        },
+        {
+          "name": "K CAMP",
+          "url": "https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H"
         }
       ],
       "duration_ms": 204264,

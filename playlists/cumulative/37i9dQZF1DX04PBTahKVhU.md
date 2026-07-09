@@ -4,7 +4,7 @@
 
 > The only thing harder than finding true love, is holding onto it\. Listen to the music from My Fault: London and Your Fault: London, now streaming on Prime Video.
 
-53 songs - 2 hr 42 min
+54 songs - 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Von dutch](https://open.spotify.com/track/3Y1EvIgEVw51XtgNEgpz5c) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:44 | 2025-02-13 |  |
 | [Vroom Vroom](https://open.spotify.com/track/5hyq3LBlCfjRQAFkdQwe8o) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Vroom Vroom EP](https://open.spotify.com/album/261QvR3MgGdyL2HyYIlgfd) | 3:13 | 2025-02-13 |  |
 | [We Stayed Up All Night](https://open.spotify.com/track/4Tq3QocH9Okvn4wDgTlkR5) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Ardyn](https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu) | [We Stayed Up All Night](https://open.spotify.com/album/0iKdUVQXTroQwMLsCEaVPy) | 4:25 | 2025-02-13 |  |
+| [yes baby](https://open.spotify.com/track/2uvLpXs8bZAjee0l3KNnhx) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [locket](https://open.spotify.com/album/766kQKYQvONQk339t5payy) | 2:55 | 2026-07-08 |  |
 | [You Got It](https://open.spotify.com/track/0UzIoHVxzujhEczdoRlxL5) | [your friend polly](https://open.spotify.com/artist/7BMiTAo49FakImrjEyEFFN) | [You Got It](https://open.spotify.com/album/6v8tyPDYOH36hYRkB0dbr1) | 2:08 | 2026-06-17 |  |
 
 \*This playlist was first scraped on 2025-02-14. Prior content cannot be recovered.

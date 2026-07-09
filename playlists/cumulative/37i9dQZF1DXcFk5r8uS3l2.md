@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Keb' Mo'
 
-499 songs - 1 day 7 hr 13 min
+500 songs - 1 day 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Burned \(2022 Remaster\)](https://open.spotify.com/track/3RvsARgXxO6AAgZ4lF5lZK) | [The Reverend Shawn Amos](https://open.spotify.com/artist/2XfNsXm2GClde2U0tZpBQT), [Matthew Sweet](https://open.spotify.com/artist/2idymNTKUdnTxforkb12Mw) | [Hollywood Blues: Songs and Stories from the Family Tree \(1997\-2022\)](https://open.spotify.com/album/7LE2GFTq1Smdeezt2eTAcx) | 2:35 | 2022-05-13 | 2022-06-11 |
 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/3kuHcdkHwdnxSOFrPiHkoj) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/album/0pSxVdyHM0NrcDQtCIU8Xl) | 3:43 | 2021-12-17 | 2024-06-15 |
 | [Call My Name](https://open.spotify.com/track/2gY5dl6JfG1dTQu6r0aGsK) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Call My Name](https://open.spotify.com/album/089nElUHIdo4Olf4N1vC7T) | 3:22 | 2026-05-15 |  |
+| [Can’t Stand Still](https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Days Of Unrest](https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1) | 3:55 | 2026-07-03 |  |
 | [Catfish Blues](https://open.spotify.com/track/22AC1MxK4QD3RiS7BeTIXt) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/6fgTw3IgOwR0YN0YyRhAws) | 4:11 | 2021-12-17 | 2022-07-29 |
 | [Catfish Blues](https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA) | [Jimmy "Duck" Holmes](https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D) | [Cypress Grove](https://open.spotify.com/album/133vVuyhmwo2fWJNs6u5AK) | 4:11 | 2022-01-28 | 2023-08-19 |
 | [Chained To The Rhythm](https://open.spotify.com/track/1KLyyQ9B4URptPsozR44l8) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Pensive Pop](https://open.spotify.com/album/1IzsXEGSZ0XlZtL4XANZqR) | 4:22 | 2022-08-12 | 2024-04-27 |
@@ -198,7 +199,7 @@
 | [I Feel A Sin Coming On](https://open.spotify.com/track/0PuUP76HkRAdUrwKX1uUXd) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:52 | 2022-05-27 | 2023-02-25 |
 | [I Forgot To Be Your Lover](https://open.spotify.com/track/7DHlJLCXFlny3WhjnEL9qY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:27 | 2026-02-13 |  |
 | [I Got You](https://open.spotify.com/track/1B32KzgCSJgkzEJfifEseb) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Got You](https://open.spotify.com/album/4PkAkAdc8pBcJCaTXkF2X4) | 4:20 | 2026-01-23 | 2026-03-05 |
-| [I Guess I’ll Get The Papers And Go Home](https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0) | [John C\. Reilly](https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G), [Mister Romantic](https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0) | [What's Not To Love?](https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2) | 3:19 | 2025-06-13 |  |
+| [I Guess I’ll Get The Papers And Go Home](https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0) | [John C\. Reilly](https://open.spotify.com/artist/5SL8972vfCQ4PFqlmf9B5G), [Mister Romantic](https://open.spotify.com/artist/6X4nLwC4iwnFlvIoW831O0) | [What's Not To Love?](https://open.spotify.com/album/2305uR83zej8iwsMkNzdd2) | 3:19 | 2025-06-13 | 2026-07-09 |
 | [I Have No One](https://open.spotify.com/track/2vjv5sUGTHsb2fLem7b8AB) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Mother](https://open.spotify.com/album/5q8iAuzS4wFRlkHjy50Ryj) | 2:33 | 2024-10-04 | 2025-03-15 |
 | [I Know How You Feel](https://open.spotify.com/track/2y6i0SqujGvBIU8CdsIQDz) | [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg), [Thomas Lindsey](https://open.spotify.com/artist/6HgqFc4JO1dbSw6oIqrdVi) | [Amitié](https://open.spotify.com/album/46lxdP9TY1y8hLJyy2NWFE) | 2:35 | 2021-12-17 | 2022-06-24 |
 | [I Need a Cigarette](https://open.spotify.com/track/2J6c7nw2laKuGzu8ky4j2i) | [Adam Douglas](https://open.spotify.com/artist/2Qwxl6F6JSkr546OaCsgOG) | [I Need a Cigarette](https://open.spotify.com/album/6Q3NpJI06MuIhYEqp9QEkb) | 3:40 | 2023-07-07 | 2024-01-13 |

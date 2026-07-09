@@ -4,7 +4,7 @@
 
 > Nabi in cover della playlist dello street rap italiano ⛓️
 
-1,096 songs - 2 day 1 hr 42 min
+1,097 songs - 2 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [5X5](https://open.spotify.com/track/1QnOV3sO14AsjSIMxP0psf) | [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n) | [5X5](https://open.spotify.com/album/5HcTHIPgDq2I0yA3heALlu) | 2:18 | 2024-06-06 | 2024-07-05 |
 | [6 AM](https://open.spotify.com/track/42F6iAgPGmDRgPcCIdEghu) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 3:20 | 2024-09-05 | 2024-11-08 |
 | [64 BARRE DA CENSURA \(Red Bull 64 Bars\)](https://open.spotify.com/track/4MEnkb0uxSge5j9duWPQxV) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [64 BARRE DA CENSURA \(Red Bull 64 Bars\)](https://open.spotify.com/album/2DSd6ubDHGmMnGEp6kgRAo) | 3:07 | 2024-05-09 | 2024-07-05 |
+| [64 BARRE DI TERRORE \(Red Bull 64 Bars\)](https://open.spotify.com/track/3mBdOTUyDnayURcWfUgrXH) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [64 BARRE DI TERRORE \(Red Bull 64 Bars\)](https://open.spotify.com/album/4PnI5eaXxjq92nlWpdifek) | 3:09 | 2026-07-08 |  |
 | [64 BARRE DI VERITÀ \(Red Bull 64 Bars\)](https://open.spotify.com/track/4cMCuC4B7crtuZ7E67xsGV) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [LAX](https://open.spotify.com/artist/2qkqwL9GSe6o26rxzUfsd0), [FT Kings](https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq) | [64 BARRE DI VERITÀ \(Red Bull 64 Bars\)](https://open.spotify.com/album/41GxAohZ17bgydgX3w5yLB) | 3:50 | 2024-09-19 | 2024-11-08 |
 | [64 BARRE IN FACCIA \(Red Bull 64 Bars\)](https://open.spotify.com/track/1oBM9JTuD0wqfVQ8iuLjLQ) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU), [KIID](https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB) | [64 BARRE IN FACCIA \(Red Bull 64 Bars\)](https://open.spotify.com/album/1myCEAZlP8KQeTwNc3XVtb) | 2:55 | 2024-09-05 | 2024-12-13 |
 | [7 NANI](https://open.spotify.com/track/3GZfkiTpQ7I8KSDqiGeHa7) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [7 NANI](https://open.spotify.com/album/4dpWBmnAbdcl5WM4xBeJ6k) | 1:47 | 2025-10-03 | 2025-10-24 |

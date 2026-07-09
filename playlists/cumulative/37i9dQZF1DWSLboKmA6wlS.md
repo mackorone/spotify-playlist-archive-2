@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Thailand](https://open.spotify.com/playlist/37i9dQZF1DWSLboKmA6wlS)
 
-> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: MARQUISE\. Artwork: Isu Kim
+> เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: PYC\. Artwork: Isu Kim
 
-2,663 songs - 6 day 23 hr 8 min
+2,666 songs - 6 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Canvas](https://open.spotify.com/track/7hGtKpepHfqNl8JNZnlCef) | [C\#](https://open.spotify.com/artist/3cHznWQOP1ssmoouwarq6o) | [Canvas](https://open.spotify.com/album/3qwkrT1uf5kICtZtD93iKW) | 4:28 | 2026-01-30 | 2026-03-13 |
 | [Capture](https://open.spotify.com/track/676xBYgvkeJb1c3gqi91NR) | [j.rabbit](https://open.spotify.com/artist/012IKMFJSvz2xrvpFdUcyJ) | [Capture](https://open.spotify.com/album/2mTtVLc1gZMUuYnb8EDycq) | 2:31 | 2024-11-01 | 2025-01-10 |
 | [Caramel Candy](https://open.spotify.com/track/4dFMB2bsTg8Wj5AHkhTsvv) | [Bommu](https://open.spotify.com/artist/7JWILj2YYtQaPis6cwfZrD) | [Caramel Candy](https://open.spotify.com/album/5qS5VgjshW8EYkLuTbAkuo) | 3:01 | 2023-10-27 | 2023-11-09 |
+| [Catch Your Fever](https://open.spotify.com/track/1JT19X6iKUaX1dljA0iSwn) | [PYC](https://open.spotify.com/artist/2LFV9Tsf12CuTSAlGhS48D) | [Catch Your Fever](https://open.spotify.com/album/39jxL156bfSym2AGyQ9Yui) | 2:35 | 2026-07-08 |  |
 | [CHANCES \(ถ้าบังเอิญได้เจอ\)](https://open.spotify.com/track/2bGsSRO20RuwJvUdzTLQCq) | [TAMP](https://open.spotify.com/artist/6DFcdAH3sXdGCQqy1KHc8m) | [CHANCES \(ถ้าบังเอิญได้เจอ\)](https://open.spotify.com/album/2mWJKwzgXrop7aIJuRVJwC) | 3:27 | 2023-06-23 | 2023-07-15 |
 | [Cheat Night](https://open.spotify.com/track/6LuZcqMDRtJCWx360S7htn) | [nnj](https://open.spotify.com/artist/6CUPFPqNO60NYIwm2B6H7t), [Earthernative](https://open.spotify.com/artist/7GFv9FNx00e4BepFvSbbrK) | [Cheat Night](https://open.spotify.com/album/3GVuiSE7DISS3uA5GFnYlZ) | 3:03 | 2023-07-21 | 2023-08-12 |
 | [Cherry Mocha Extra Whip](https://open.spotify.com/track/1pI0DCuknw1zJBcceV0uyQ) | [Pearprapa](https://open.spotify.com/artist/7q2IazWT2XhmFEoct5vw47) | [Cherry Mocha Extra Whip](https://open.spotify.com/album/275Nkjwm3YwnWYjJAYWHpD) | 3:16 | 2024-06-07 | 2024-06-15 |
@@ -453,7 +454,7 @@
 | [Sorry Syndrome \- ขอ\(ให้\)โทษ\(ตัวเอง\)](https://open.spotify.com/track/7vtjzFn1MfMjwyATF4ZV6L) | [CHATTARA](https://open.spotify.com/artist/7z4fXlH4ieCou8ozOfOn5t) | [Sorry Syndrome \- ขอ\(ให้\)โทษ\(ตัวเอง\)](https://open.spotify.com/album/0u5yTywttn32J7wwOe1r29) | 4:12 | 2023-05-12 | 2023-05-20 |
 | [South out](https://open.spotify.com/track/7uDKsDaXSZIdSpiumsr4Ek) | [Zambug](https://open.spotify.com/artist/698QM0vyNkViI1jrJlBQg5), [Réjizz](https://open.spotify.com/artist/32XWTF9gAtgtFQtfAmuBKY) | [South out](https://open.spotify.com/album/0dbEMtGsG8y7kCxq8RLtrl) | 3:42 | 2022-10-12 | 2022-10-22 |
 | [Special Only U](https://open.spotify.com/track/7CsyWSW7ES2Vk7WaEXkEV1) | [Le Fronce](https://open.spotify.com/artist/2A9lXDMTOlqUbRPFtKvL3c) | [Letters from the past](https://open.spotify.com/album/5LdWd8kK6JkmhDCWhoZhwz) | 3:08 | 2025-09-19 | 2025-10-11 |
-| [Spider\-Guy](https://open.spotify.com/track/0vVes6HtFoIGzwqOBeMe32) | [PYC](https://open.spotify.com/artist/2LFV9Tsf12CuTSAlGhS48D) | [taste](https://open.spotify.com/album/6fNbY74XzcyDYZsWN6Wq5m) | 3:02 | 2026-05-06 |  |
+| [Spider\-Guy](https://open.spotify.com/track/0vVes6HtFoIGzwqOBeMe32) | [PYC](https://open.spotify.com/artist/2LFV9Tsf12CuTSAlGhS48D) | [taste](https://open.spotify.com/album/6fNbY74XzcyDYZsWN6Wq5m) | 3:02 | 2026-05-06 | 2026-07-09 |
 | [Stair](https://open.spotify.com/track/7hL1knDIn97O9ZzMOZR8aF) | [INDY CAMP](https://open.spotify.com/artist/33DPrcj7PJvsFWVBNSYMAe) | [Stair](https://open.spotify.com/album/5yS8f16tJ35LVYdEeIJrp4) | 3:56 | 2024-02-16 | 2024-02-24 |
 | [Stand](https://open.spotify.com/track/2fW37xugB3z2MOhhzE9AFw) | [MISTER.T](https://open.spotify.com/artist/30wkudWzjj52Ij53qNyzgY), [LALIN.](https://open.spotify.com/artist/4mHfeJRndhERkNNsKQSzy3) | [Stand](https://open.spotify.com/album/0irG2tkiwwLWdlhQLcI7Hs) | 3:09 | 2023-09-29 | 2023-11-09 |
 | [Standby \(n\)](https://open.spotify.com/track/27nEGYkJlD7pjGxQ6lFcTc) | [SUNDEWs](https://open.spotify.com/artist/0d1Iz6PWVPbGyJijGpodbS) | [Standby \(n\)](https://open.spotify.com/album/1QtxWAUEjvQdIWn9qqQz4E) | 3:52 | 2022-09-15 | 2022-10-29 |
@@ -787,6 +788,7 @@
 | [ความเหงาสู้กลับ](https://open.spotify.com/track/4GSDnDFs3P1ljuAEwPOfM8) | [film filmm](https://open.spotify.com/artist/0JYZ0BujwAsKlPHJ3UuzcS) | [ความเหงาสู้กลับ](https://open.spotify.com/album/2UJtHz2Y32qLG27HfwJp8N) | 3:47 | 2023-03-10 | 2023-04-01 |
 | [คอนเสิร์ตเล็ก \(our concert\)](https://open.spotify.com/track/5ml3Eo88k00gSP1ZwWQEZT) | [\_less](https://open.spotify.com/artist/16XaZ9bhtFCLUow2Z1Y7Of) | [คอนเสิร์ตเล็ก \(our concert\)](https://open.spotify.com/album/1CnobFpjURpP4JmJbvmgXJ) | 2:30 | 2025-09-26 | 2025-11-08 |
 | [คังถึงจิ๊ด\(คิดถึงจัง\)](https://open.spotify.com/track/3tk5tG9kA67lpUgGhzhQoB) | [kaimook](https://open.spotify.com/artist/7hHhWFWTQbMWmcVKhXxQeV) | [คังถึงจิ๊ด\(คิดถึงจัง\)](https://open.spotify.com/album/4jkFQJYEWhEVoVy9tvugXI) | 3:08 | 2024-04-11 | 2024-04-19 |
+| [คันคังเกา](https://open.spotify.com/track/1UvdJeJlrLZvMfwTRFDgK6) | [WATCHI](https://open.spotify.com/artist/6aP6XysKhtM5DGjtRbtcQz) | [คันคังเกา](https://open.spotify.com/album/2TiOttmwVO4CuUlhbfecQx) | 2:56 | 2026-07-08 |  |
 | [คันปาก \(May I say?\)](https://open.spotify.com/track/5DoYUvlZg9aGEneI4ZUjbI) | [Project M.O.N](https://open.spotify.com/artist/58jnr1VHhzoBq20AjK8Fzt) | [คันปาก \(May I say?\)](https://open.spotify.com/album/0n15YtjrByJcVjTyRjGHK2) | 3:44 | 2024-06-21 | 2024-07-02 |
 | [คาปูชิโน่](https://open.spotify.com/track/0Uuw81H5h1TQ7gSzjPA1c3) | [Yayee](https://open.spotify.com/artist/7E4AHVUsQp85eDuXyKwcM2) | [คาปูชิโน่](https://open.spotify.com/album/7Cw9wg8AQYJHBrgijLKLXu) | 4:24 | 2022-10-07 | 2022-10-22 |
 | [คาร์ดิแกน](https://open.spotify.com/track/0uL2KmWpRmjzOKJxBCCjFo) | [FORGETMENOT.](https://open.spotify.com/artist/2TxQ18tqZbEklz2tNbx7GZ) | [คาร์ดิแกน](https://open.spotify.com/album/7pRLC7MdKe9GdlnzrLg5CZ) | 4:23 | 2024-01-05 | 2024-01-13 |
@@ -2350,6 +2352,7 @@
 | [แค่บอกมาว่าเธอจะไป](https://open.spotify.com/track/2W9E7Ska3AmurRzVQID3JD) | [Eating Sausage](https://open.spotify.com/artist/6DAcmDqaVm56wHxjLLLgeG) | [แค่บอกมาว่าเธอจะไป](https://open.spotify.com/album/6V4oawy7gGtHvmyNg4cwYJ) | 3:21 | 2023-02-24 | 2023-03-04 |
 | [แค่ผ่านไปให้เหมือนเดิม](https://open.spotify.com/track/2IhoaEJzMnfMWJaGAVVKNN) | [SAPAPSUPAP](https://open.spotify.com/artist/4mcpLGrLEdwxau2ySVsbsx) | [แค่ผ่านไปให้เหมือนเดิม](https://open.spotify.com/album/5SNNm01q89heuXS5ZJJA7t) | 3:37 | 2024-10-11 | 2024-10-19 |
 | [แค่มีเธอ \( with you \)](https://open.spotify.com/track/0NP4OwOOPf765MZhxIA6rN) | [Valium](https://open.spotify.com/artist/3gjfhckAyYk7RYHdmv2w4I) | [แค่มีเธอ \( with you \)](https://open.spotify.com/album/13E1bhh0CYQzJxV3Ss4fAf) | 4:30 | 2024-03-15 | 2024-03-25 |
+| [แค่มีเธอ \(Found You 404\)](https://open.spotify.com/track/0Y9SCr1oUEm7qfUQGh9zCs) | [redmango404](https://open.spotify.com/artist/4r25ksMDtsLaguQ2BAy1AK) | [แค่มีเธอ \(Found You 404\)](https://open.spotify.com/album/3KxVEL0AFcV7oNzFjrnMl3) | 4:46 | 2026-07-08 |  |
 | [แค่มีเธอ \(Me&You\)](https://open.spotify.com/track/2WnVdholxlaHvMbBkHZkow) | [2000](https://open.spotify.com/artist/31Kfuml0W35VeLusxNjQzX) | [แค่มีเธอ \(Me&You\)](https://open.spotify.com/album/7AZztPS8KL35zIPaf2E56P) | 3:41 | 2024-07-05 | 2024-09-14 |
 | [แค่มีเธอกับฉันข้างกันนั่งฟังเพลงนี้](https://open.spotify.com/track/7uQovdsLvhaqkAxNllY6GM) | [fit aroon](https://open.spotify.com/artist/4XciDJreERQTcTezMTimqj) | [แค่มีเธอกับฉันข้างกันนั่งฟังเพลงนี้](https://open.spotify.com/album/5nyCF7D0lbjejFTAWNPdCd) | 4:27 | 2025-04-03 | 2026-01-15 |
 | [แค่มีเธอตรงนี้](https://open.spotify.com/track/06ZaHGrhRgVMU9Dw70DoCk) | [วงเตรียมอุดมศึกษา](https://open.spotify.com/artist/2CPBDijxMeu1n3p0pX0SB4) | [แค่มีเธอตรงนี้](https://open.spotify.com/album/4LBnwP1ZsNhwnAEct2DZ0R) | 3:50 | 2024-01-26 | 2024-02-17 |

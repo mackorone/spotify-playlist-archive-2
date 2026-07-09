@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 343 likes - 2,446 songs - 6 day 0 hr 5 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 343 likes - 2,447 songs - 6 day 0 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2454,5 +2454,6 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2444 | [journeys of light](https://open.spotify.com/track/0RkZgoeNB9b0U4UxG3nzUf) | [skyry](https://open.spotify.com/artist/10oPnykLQTYRMjFNNES9wk) | [journeys of light](https://open.spotify.com/album/4TiUHmNOBoZ4x4KPDqqjEc) | 2:34 |
 | 2445 | [Solo lo stesso](https://open.spotify.com/track/46dOaFi5Hp376Nmoxf7IVN) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [Solo lo stesso](https://open.spotify.com/album/2qUGQgrp7wVJi1P77bLkJh) | 2:41 |
 | 2446 | [Solo lo stesso](https://open.spotify.com/track/46dOaFi5Hp376Nmoxf7IVN) | [EDY](https://open.spotify.com/artist/7j8SjESINTw9J7TkSUQ9cV) | [Solo lo stesso](https://open.spotify.com/album/2qUGQgrp7wVJi1P77bLkJh) | 2:41 |
+| 2447 | [Second Guessin’](https://open.spotify.com/track/40X8JuQRZSjtqbM9GB3U38) | [Lil Derik](https://open.spotify.com/artist/7duWaUqESXdNsXB2ASvM64), [Jessup](https://open.spotify.com/artist/2wgOckKfbjFnfnPEj6xuBC), [Jimboslice](https://open.spotify.com/artist/5xtgG3tZGw0AY9I2XIn4ke) | [Blue Dragon](https://open.spotify.com/album/4A45Tk2yR6MBllvKZNeJAp) | 3:00 |
 
-Snapshot ID: `AAAKW30MRYya9k2cF/XBI4jZA1dC7HY+`
+Snapshot ID: `AAAKXLT+1KMWsQ+H3KclgiIFkUeYclQW`

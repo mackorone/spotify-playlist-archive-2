@@ -1,6 +1,6 @@
 {
   "description": "Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.",
-  "num_followers": 8273,
+  "num_followers": 8295,
   "original_name": "Kimono R&B",
   "owner": {
     "name": "Spotify",
@@ -559,6 +559,22 @@
     {
       "added_at": "2026-06-26 00:37:16",
       "album": {
+        "name": "As One",
+        "url": "https://open.spotify.com/album/0g0RRKsclwRPg2rCjfbFIS"
+      },
+      "artists": [
+        {
+          "name": "Toshinobu Kubota",
+          "url": "https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput"
+        }
+      ],
+      "duration_ms": 283560,
+      "name": "the Sound of Carnival",
+      "url": "https://open.spotify.com/track/31d4AsUA23WddpidqaWsVh"
+    },
+    {
+      "added_at": "2026-06-26 00:37:16",
+      "album": {
         "name": "Safe Place",
         "url": "https://open.spotify.com/album/3SQngxWaRDieH1AbZdkA4A"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 209600,
       "name": "Safe Place",
       "url": "https://open.spotify.com/track/42S0Kub6ebpzcpLwDFgl6M"
-    },
-    {
-      "added_at": "2026-06-26 00:37:16",
-      "album": {
-        "name": "As One",
-        "url": "https://open.spotify.com/album/0g0RRKsclwRPg2rCjfbFIS"
-      },
-      "artists": [
-        {
-          "name": "Toshinobu Kubota",
-          "url": "https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput"
-        }
-      ],
-      "duration_ms": 283560,
-      "name": "the Sound of Carnival",
-      "url": "https://open.spotify.com/track/31d4AsUA23WddpidqaWsVh"
     },
     {
       "added_at": "2026-06-26 00:37:16",
@@ -651,6 +651,22 @@
     {
       "added_at": "2026-06-26 00:37:16",
       "album": {
+        "name": "Born Again",
+        "url": "https://open.spotify.com/album/3SPLOZJ6DtS8CsRDx8tDVc"
+      },
+      "artists": [
+        {
+          "name": "Bleecker Chrome",
+          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
+        }
+      ],
+      "duration_ms": 201442,
+      "name": "14",
+      "url": "https://open.spotify.com/track/4J7SimjJzZWLM6XFhsWNT3"
+    },
+    {
+      "added_at": "2026-06-26 00:37:16",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/5qHPDhMOkATOEzV2JSG20B"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 264006,
       "name": "Changes",
       "url": "https://open.spotify.com/track/7FkCColdGXYdkLZf7HbjK5"
-    },
-    {
-      "added_at": "2026-06-26 00:37:16",
-      "album": {
-        "name": "Born Again",
-        "url": "https://open.spotify.com/album/3SPLOZJ6DtS8CsRDx8tDVc"
-      },
-      "artists": [
-        {
-          "name": "Bleecker Chrome",
-          "url": "https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8"
-        }
-      ],
-      "duration_ms": 201442,
-      "name": "14",
-      "url": "https://open.spotify.com/track/4J7SimjJzZWLM6XFhsWNT3"
     },
     {
       "added_at": "2026-06-26 00:37:16",

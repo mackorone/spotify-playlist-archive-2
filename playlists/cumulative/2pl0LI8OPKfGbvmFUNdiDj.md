@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-533 songs - 1 day 6 hr 14 min
+534 songs - 1 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Forgot Yourself](https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo) | [Impulse Bangs](https://open.spotify.com/artist/3QbpC7UT2TgsfZ9Qpyvcbp) | [NOISY NOISY NOISY](https://open.spotify.com/album/4oHDtLPLddcvThx2SDwMBm) | 2:52 | 2026-03-30 | 2026-05-26 |
 | [Frases del Ayer](https://open.spotify.com/track/7EwgbuZ57KNgOtgMSdar3R) | [Diego Stegmeier](https://open.spotify.com/artist/5M2u8mwkoZWHPBXINtfV7a) | [Frases del Ayer](https://open.spotify.com/album/3DFXycXInOtOYW4Hmvyy0E) | 4:37 | 2026-02-20 | 2026-05-26 |
 | [Freedom Queen](https://open.spotify.com/track/4pxoCgIkaSSFx8cu31N01R) | [Mink's Miracle Medicine](https://open.spotify.com/artist/1XEYWgovYzwpxtdJba7dO0) | [Freedom Queen](https://open.spotify.com/album/7GPApbSd4SkQrzJeSBMzTt) | 4:15 | 2026-01-04 | 2026-02-21 |
+| [Frequency](https://open.spotify.com/track/6fFANLe45lolpWyZJWy175) | [Nia Tone](https://open.spotify.com/artist/1hPZmJ6YcmKIEQKSzSkOup) | [Frequency](https://open.spotify.com/album/59EtQ9iTxB9kbnJ2kGqwGT) | 2:57 | 2026-07-08 |  |
 | [Frost In The December](https://open.spotify.com/track/64sEEzP4sXCcZF9FNx6Wtb) | [Grace Chia](https://open.spotify.com/artist/4TW4XlkN4DV6hADS97u8By), [Mylo Stone](https://open.spotify.com/artist/64WCsmam1ea6C4cEnLq2DD), [DJ Thensum](https://open.spotify.com/artist/0yYonVonAHg1NIE1JuPiSZ) | [Frost In The December](https://open.spotify.com/album/2nPh6wx5shAwqcjkjOrbTR) | 3:38 | 2026-05-11 |  |
 | [Fucked Up](https://open.spotify.com/track/68uVC0iivrNHCfEmRFhPR4) | [Crest](https://open.spotify.com/artist/7HkVIIis479rPDZsLmp0Z9) | [Fucked Up](https://open.spotify.com/album/3pzmkD8GmhRQsAXYHEFKA0) | 2:42 | 2025-11-02 | 2025-12-01 |
 | [Fuiste de Viaje](https://open.spotify.com/track/2CbJGe8IetHy4H4Qv1TIEq) | [Melany Cubero](https://open.spotify.com/artist/4OrIEJHh24oAbE1evJRR7c) | [Invisible](https://open.spotify.com/album/26CgmwfJA3HjUE9A8SBZ47) | 3:12 | 2026-04-13 | 2026-05-22 |

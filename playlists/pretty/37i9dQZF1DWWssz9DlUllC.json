@@ -1,6 +1,6 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Amaeya",
-  "num_followers": 93317,
+  "num_followers": 93375,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2026-07-03 00:01:41",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz"
-      },
-      "artists": [
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m"
-    },
-    {
-      "added_at": "2026-07-03 00:01:41",
-      "album": {
         "name": "Hello Hello",
         "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 155789,
       "name": "Hello Hello",
       "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
+    },
+    {
+      "added_at": "2026-07-03 00:01:41",
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1kNoTSNjuWqCNUiqU60Uzz"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/6DQu81A5iHhpxbl2isjP9m"
     },
     {
       "added_at": "2026-07-03 00:01:41",
@@ -835,6 +835,26 @@
     {
       "added_at": "2026-07-03 00:01:41",
       "album": {
+        "name": "Fi Kan We Kan",
+        "url": "https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 159339,
+      "name": "Fi Kan We Kan",
+      "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
+    },
+    {
+      "added_at": "2026-07-03 00:01:41",
+      "album": {
         "name": "Root Of All Evil",
         "url": "https://open.spotify.com/album/3wk4P3gN8M5NwaYV4kV6jd"
       },
@@ -871,26 +891,6 @@
     {
       "added_at": "2026-07-03 00:01:41",
       "album": {
-        "name": "Fi Kan We Kan",
-        "url": "https://open.spotify.com/album/6EKtDHfQtcqhwIPoZr7jTp"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 159339,
-      "name": "Fi Kan We Kan",
-      "url": "https://open.spotify.com/track/771KDfpsOtJPQmocQpMdkR"
-    },
-    {
-      "added_at": "2026-07-03 00:01:41",
-      "album": {
         "name": "Children of Africa",
         "url": "https://open.spotify.com/album/6oattTuSkHpcHFeOqyhjKF"
       },
@@ -903,22 +903,6 @@
       "duration_ms": 119954,
       "name": "HAPPY SONG",
       "url": "https://open.spotify.com/track/2YwBdxvMFsWUSCaL1U6xIg"
-    },
-    {
-      "added_at": "2026-07-03 00:01:41",
-      "album": {
-        "name": "Follow My Lead",
-        "url": "https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 140343,
-      "name": "Follow My Lead",
-      "url": "https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE"
     },
     {
       "added_at": "2026-07-03 00:01:41",
@@ -943,18 +927,18 @@
     {
       "added_at": "2026-07-03 00:01:41",
       "album": {
-        "name": "TOO HOT",
-        "url": "https://open.spotify.com/album/5c7lWpyYn8xKBPnnDAv59V"
+        "name": "Follow My Lead",
+        "url": "https://open.spotify.com/album/0m1MPFeX3ypxB1zAmw4r9z"
       },
       "artists": [
         {
-          "name": "NO11",
-          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
         }
       ],
-      "duration_ms": 144000,
-      "name": "TOO HOT",
-      "url": "https://open.spotify.com/track/3YAHhZcpdZHpr6sXleNTIH"
+      "duration_ms": 140343,
+      "name": "Follow My Lead",
+      "url": "https://open.spotify.com/track/2nFfcx6kNN5uaFdvYCYgPE"
     },
     {
       "added_at": "2026-07-03 00:01:41",
@@ -971,6 +955,42 @@
       "duration_ms": 214441,
       "name": "Na So",
       "url": "https://open.spotify.com/track/6teayPHJeebZj4s9eMPCyY"
+    },
+    {
+      "added_at": "2026-07-03 00:01:41",
+      "album": {
+        "name": "TOO HOT",
+        "url": "https://open.spotify.com/album/5c7lWpyYn8xKBPnnDAv59V"
+      },
+      "artists": [
+        {
+          "name": "NO11",
+          "url": "https://open.spotify.com/artist/1bu3a0AAJbZazQJV0tbywD"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "TOO HOT",
+      "url": "https://open.spotify.com/track/3YAHhZcpdZHpr6sXleNTIH"
+    },
+    {
+      "added_at": "2026-07-03 00:01:41",
+      "album": {
+        "name": "Dangbana Riddim",
+        "url": "https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        }
+      ],
+      "duration_ms": 160587,
+      "name": "Dangbana Riddim",
+      "url": "https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY"
     },
     {
       "added_at": "2026-07-03 00:01:41",
@@ -995,26 +1015,6 @@
       "duration_ms": 175714,
       "name": "ENJOYMENT",
       "url": "https://open.spotify.com/track/54ZS9DcCVy0jcsTqHSFLyi"
-    },
-    {
-      "added_at": "2026-07-03 00:01:41",
-      "album": {
-        "name": "Dangbana Riddim",
-        "url": "https://open.spotify.com/album/0xDIG4BwF9QgxdKVNwee9D"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        }
-      ],
-      "duration_ms": 160587,
-      "name": "Dangbana Riddim",
-      "url": "https://open.spotify.com/track/07eJSSPcNlkR34wVlkrCcY"
     },
     {
       "added_at": "2026-07-03 00:01:41",
@@ -1087,26 +1087,18 @@
     {
       "added_at": "2026-07-03 00:01:41",
       "album": {
-        "name": "Pepper Me",
-        "url": "https://open.spotify.com/album/2IuV8IbDTqAOHh71fNSkzZ"
+        "name": "Dantata",
+        "url": "https://open.spotify.com/album/4CiLFSo97AWLil7T3dg8JR"
       },
       "artists": [
         {
-          "name": "KFMD",
-          "url": "https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa"
-        },
-        {
-          "name": "Qing Madi",
-          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
-        },
-        {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Rybeena",
+          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
         }
       ],
-      "duration_ms": 155309,
-      "name": "Pepper Me",
-      "url": "https://open.spotify.com/track/6SBir05Tucy1GKt4yMWa2c"
+      "duration_ms": 175862,
+      "name": "Dantata",
+      "url": "https://open.spotify.com/track/0BZIcREt4wKs79qsYTEurB"
     },
     {
       "added_at": "2026-07-03 00:01:41",
@@ -1159,6 +1151,30 @@
     {
       "added_at": "2026-07-03 00:01:41",
       "album": {
+        "name": "Pepper Me",
+        "url": "https://open.spotify.com/album/2IuV8IbDTqAOHh71fNSkzZ"
+      },
+      "artists": [
+        {
+          "name": "KFMD",
+          "url": "https://open.spotify.com/artist/1OjbMcNg4moIhv8nnflAAa"
+        },
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "duration_ms": 155309,
+      "name": "Pepper Me",
+      "url": "https://open.spotify.com/track/6SBir05Tucy1GKt4yMWa2c"
+    },
+    {
+      "added_at": "2026-07-03 00:01:41",
+      "album": {
         "name": "Laye Mi",
         "url": "https://open.spotify.com/album/2meXvu010wYVafBBpFjVwd"
       },
@@ -1175,34 +1191,22 @@
     {
       "added_at": "2026-07-03 00:01:41",
       "album": {
-        "name": "Dantata",
-        "url": "https://open.spotify.com/album/4CiLFSo97AWLil7T3dg8JR"
+        "name": "Baby Thug",
+        "url": "https://open.spotify.com/album/1ZH9KYQn8yCLh4FBlkGNw1"
       },
       "artists": [
         {
-          "name": "Rybeena",
-          "url": "https://open.spotify.com/artist/37boLTfLUXAgVkSyzah72X"
-        }
-      ],
-      "duration_ms": 175862,
-      "name": "Dantata",
-      "url": "https://open.spotify.com/track/0BZIcREt4wKs79qsYTEurB"
-    },
-    {
-      "added_at": "2026-07-03 00:01:41",
-      "album": {
-        "name": "Color / Wulo",
-        "url": "https://open.spotify.com/album/3MPAuxza590Bd2JbPfxA56"
-      },
-      "artists": [
+          "name": "Balloranking",
+          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
+        },
         {
-          "name": "Ashidapo",
-          "url": "https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg"
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
         }
       ],
-      "duration_ms": 122142,
-      "name": "Color",
-      "url": "https://open.spotify.com/track/1bEpSnr5xX4QoyyXaOKq9b"
+      "duration_ms": 176727,
+      "name": "Pami",
+      "url": "https://open.spotify.com/track/5HKje6lrhbvyyeVfZqWGlU"
     },
     {
       "added_at": "2026-07-03 00:01:41",
@@ -1307,42 +1311,6 @@
     {
       "added_at": "2026-07-03 00:01:41",
       "album": {
-        "name": "Matter",
-        "url": "https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb"
-      },
-      "artists": [
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        }
-      ],
-      "duration_ms": 169541,
-      "name": "Matter",
-      "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"
-    },
-    {
-      "added_at": "2026-07-03 00:01:41",
-      "album": {
-        "name": "Baby Thug",
-        "url": "https://open.spotify.com/album/1ZH9KYQn8yCLh4FBlkGNw1"
-      },
-      "artists": [
-        {
-          "name": "Balloranking",
-          "url": "https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP"
-        },
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "Pami",
-      "url": "https://open.spotify.com/track/5HKje6lrhbvyyeVfZqWGlU"
-    },
-    {
-      "added_at": "2026-07-03 00:01:41",
-      "album": {
         "name": "Mr Caesar",
         "url": "https://open.spotify.com/album/0gohIAnWN1vnyFrZbXBzt1"
       },
@@ -1359,6 +1327,22 @@
       "duration_ms": 139285,
       "name": "Mr Caesar",
       "url": "https://open.spotify.com/track/7K0fqtBIqGvnQXjnbUp6kb"
+    },
+    {
+      "added_at": "2026-07-03 00:01:41",
+      "album": {
+        "name": "Matter",
+        "url": "https://open.spotify.com/album/05O6DVCuHwbJJKE6lj4VRb"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 169541,
+      "name": "Matter",
+      "url": "https://open.spotify.com/track/1LtqcH7fpqyIiGUgJvNIbM"
     },
     {
       "added_at": "2026-07-03 00:01:41",
@@ -1395,22 +1379,6 @@
     {
       "added_at": "2026-07-03 00:01:41",
       "album": {
-        "name": "Life of the Party",
-        "url": "https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR"
-      },
-      "artists": [
-        {
-          "name": "oSHAMO",
-          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
-        }
-      ],
-      "duration_ms": 192477,
-      "name": "Life of the Party",
-      "url": "https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS"
-    },
-    {
-      "added_at": "2026-07-03 00:01:41",
-      "album": {
         "name": "WYD / MOFO",
         "url": "https://open.spotify.com/album/5q3lVVlQ8U7UlPMbrXZxAd"
       },
@@ -1431,6 +1399,38 @@
       "duration_ms": 180136,
       "name": "WYD",
       "url": "https://open.spotify.com/track/4wKM4gjReTiYbswQv23mFc"
+    },
+    {
+      "added_at": "2026-07-03 00:01:41",
+      "album": {
+        "name": "Life of the Party",
+        "url": "https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "duration_ms": 192477,
+      "name": "Life of the Party",
+      "url": "https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS"
+    },
+    {
+      "added_at": "2026-07-03 00:01:41",
+      "album": {
+        "name": "Color / Wulo",
+        "url": "https://open.spotify.com/album/3MPAuxza590Bd2JbPfxA56"
+      },
+      "artists": [
+        {
+          "name": "Ashidapo",
+          "url": "https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg"
+        }
+      ],
+      "duration_ms": 122142,
+      "name": "Color",
+      "url": "https://open.spotify.com/track/1bEpSnr5xX4QoyyXaOKq9b"
     },
     {
       "added_at": "2026-07-03 00:01:41",

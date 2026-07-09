@@ -5213,6 +5213,24 @@
     },
     {
       "album": {
+        "name": "Girls in Pop 3 (Remastered 2026)",
+        "url": "https://open.spotify.com/album/3uqdWV4YVTVXclUBx3TIzN"
+      },
+      "artists": [
+        {
+          "name": "Tina Robin",
+          "url": "https://open.spotify.com/artist/1VOjDt32kxF7gIrLM0Qh9Y"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154780,
+      "name": "Play It Again - Remastered 2026",
+      "url": "https://open.spotify.com/track/1CAAsM72xtxRXYlCHt2hnD"
+    },
+    {
+      "album": {
         "name": "Pisces, Aquarius, Capricorn & Jones Ltd. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0hYCs5ttzuQcu86VPCEsXF"
       },

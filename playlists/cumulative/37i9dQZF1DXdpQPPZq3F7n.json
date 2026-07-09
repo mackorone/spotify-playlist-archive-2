@@ -2204,12 +2204,12 @@
       },
       "artists": [
         {
-          "name": "Shaarib Toshi",
-          "url": "https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA"
-        },
-        {
           "name": "Jyotica Tangri",
           "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+        },
+        {
+          "name": "Shaarib Toshi",
+          "url": "https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA"
         },
         {
           "name": "Kumaar",
@@ -6821,6 +6821,32 @@
     },
     {
       "album": {
+        "name": "Half Girlfriend (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6MJDmQZ0BDR3pw6m2oFc03"
+      },
+      "artists": [
+        {
+          "name": "Farhan Saeed",
+          "url": "https://open.spotify.com/artist/1W67L8OH9z7C3b9YJJbVYq"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296377,
+      "name": "Thodi Der",
+      "url": "https://open.spotify.com/track/5h4HUJcttHP0EuMLLdfXyO"
+    },
+    {
+      "album": {
         "name": "Thodi Jagah (From \"Marjaavaan\")",
         "url": "https://open.spotify.com/album/4DZ2mXEtUDsltgPqGwnRDd"
       },
@@ -7808,7 +7834,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 196138,
       "name": "Zamaana Lage (From \"Metro ... In Dino\")",
       "url": "https://open.spotify.com/track/76ec1a1bkFfOqoVf6e7nae"

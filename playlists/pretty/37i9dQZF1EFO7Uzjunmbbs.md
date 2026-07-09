@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,077 likes - 217 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,076 likes - 217 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,7 +163,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 153 | [Love 2 Hard \(feat\. Tauren Wells\)](https://open.spotify.com/track/6hb4aV6tyjZr3HyhHQ5mSq) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [I Call It Being Human](https://open.spotify.com/album/3FVWw3nnNmvi2XCjKERKMN) | 3:08 |
 | 154 | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/track/05aF35gAGVmmvsZp7wlgwf) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n), [Karen Fairchild](https://open.spotify.com/artist/3RXtieA0L2l22SWlOUMNca) | [butterfly \(feat\. Karen Fairchild\)](https://open.spotify.com/album/4MV40qreGLrt6Tsb1a4U0y) | 2:49 |
 | 155 | [Psychopath](https://open.spotify.com/track/6pM1cE2QqCO6qhAK6gqeCe) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Psychopath](https://open.spotify.com/album/30BgRP98d01f2fhecmwhey) | 3:22 |
-| 156 | [Joy Unspeakable](https://open.spotify.com/track/3amqCoJGpoor5jF2No8szk) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Live the Journey](https://open.spotify.com/album/3PGp8R6CaMGnEdyK8LYlYq) | 3:30 |
+| 156 | [Joy Unspeakable](https://open.spotify.com/track/6UWVXYDOQXXYh6jSflYJel) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [the Journey \(Live\)](https://open.spotify.com/album/26dnr3d2HZ3hg1iq9Iv8zG) | 3:30 |
 | 157 | [Walls Come Down](https://open.spotify.com/track/10GaVzf8JDe0Ulri28B3J1) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak \(Deluxe\)](https://open.spotify.com/album/4gqvwAZqd78xeSPE10MObb) | 3:10 |
 | 158 | [dtf](https://open.spotify.com/track/75VGtAHWNDycxHnK5j2mBT) | [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [the debut farewell album](https://open.spotify.com/album/3iWRmRghXrGibQlzqNkbLQ) | 2:48 |
 | 159 | [Make It Rain](https://open.spotify.com/track/6NFmLIXVZI2jVGmCPrNSvL) | [Thompson Square](https://open.spotify.com/artist/0Bvs8yPjrQSbmVIRqSg1Sp) | [Masterpiece](https://open.spotify.com/album/1QoD0fNJigVXa82cVwmHcW) | 3:37 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 216 | [Fade](https://open.spotify.com/track/1C9Wc3BTnDUHZk3GIkgbZN) | [The Economy](https://open.spotify.com/artist/0paX1HpZropGQVJ08G2WRG) | [The Early Hours](https://open.spotify.com/album/2gTjxjSENo91JkJRVRkhNK) | 5:10 |
 | 217 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `AcWQHAAAAAAnjtJERNAkOBcyBKqJdPo4`
+Snapshot ID: `AcWVqAAAAADQQR7Hmzdzl7KWyxM+SdA9`

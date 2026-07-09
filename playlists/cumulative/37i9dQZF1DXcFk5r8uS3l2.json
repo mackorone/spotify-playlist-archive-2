@@ -1387,6 +1387,24 @@
     },
     {
       "album": {
+        "name": "Days Of Unrest",
+        "url": "https://open.spotify.com/album/48Pi5bbsz8A0ND4rAEfrX1"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235560,
+      "name": "Can\u2019t Stand Still",
+      "url": "https://open.spotify.com/track/34DP3hpitJRMYp3nUtc2jC"
+    },
+    {
+      "album": {
         "name": "Cypress Grove",
         "url": "https://open.spotify.com/album/6fgTw3IgOwR0YN0YyRhAws"
       },
@@ -3632,7 +3650,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 199174,
       "name": "I Guess I\u2019ll Get The Papers And Go Home",
       "url": "https://open.spotify.com/track/26qinPvPXEC2rYkg2288K0"

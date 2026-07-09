@@ -4,7 +4,7 @@
 
 > 
 
-570 songs - 1 day 13 hr 12 min
+571 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [MAZZA \(feat\. A$AP Rocky\)](https://open.spotify.com/track/4Jtd2uIBBdAl5bOaLVIlNV) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [TYRON](https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj) | 2:51 | 2022-05-09 |  |
 | [Midnight Peelers](https://open.spotify.com/track/4tHZxEEIpaIX7VKcp76viG) | [Lapalux](https://open.spotify.com/artist/46Ce0QmI1mE2bl5VQ4P9N8) | [Lustmore](https://open.spotify.com/album/65a4qrEVOHSpPgtuy6UNe6) | 3:32 | 2025-10-15 |  |
 | [Misfit Toys \(from the series Arcane League of Legends\)](https://open.spotify.com/track/7HQSxHyORPbCQ1XtgV1k1P) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:09 | 2022-05-09 |  |
+| [Missing Voices](https://open.spotify.com/track/3N9XjYjs2PH07aY9Nwhz1A) | [Lamorn](https://open.spotify.com/artist/5cfLsokNJlFQisLDtzugO9) | [Encore](https://open.spotify.com/album/0W1a9jzDHNNJvnIXhdhEYc) | 4:00 | 2026-07-09 |  |
 | [Mollo](https://open.spotify.com/track/2zAW1pqECiIMWZ9CvqpdS2) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Galerie](https://open.spotify.com/album/1F7A1rsVd20Rpa4x8Hb5gJ) | 1:54 | 2025-10-15 |  |
 | [Molly](https://open.spotify.com/track/6EuGXhdN6gSv9wN89XXYbE) | [Le Matos](https://open.spotify.com/artist/5nrAu9uBcj8NcdZHo09qG9) | [Join Us](https://open.spotify.com/album/7MDFWbbFE27CuKen5DHAL3) | 5:48 | 2025-10-15 |  |
 | [Monkey Drum](https://open.spotify.com/track/72BIzFc0fzsEY19wPWCCXW) | [Underbelly](https://open.spotify.com/artist/0sRH4nJGFNV1pu9cutNw5O), [PixelWax](https://open.spotify.com/artist/2qIJTRKKGhMMyq1zwNH3q5) | [Monkey Drum](https://open.spotify.com/album/3qdFlyT1BcQOea46kccVE0) | 3:28 | 2022-05-09 |  |

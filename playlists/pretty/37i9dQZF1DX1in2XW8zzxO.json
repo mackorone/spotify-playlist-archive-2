@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 102959,
+  "num_followers": 102981,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,26 @@
     {
       "added_at": "2026-06-12 10:05:49",
       "album": {
+        "name": "Egwu",
+        "url": "https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 136132,
+      "name": "Egwu",
+      "url": "https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh"
+    },
+    {
+      "added_at": "2026-06-12 10:05:49",
+      "album": {
         "name": "Mnike (Radio Edit) (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
         "url": "https://open.spotify.com/album/6vEFTGVOAcke5UVOetvDWV"
       },
@@ -207,26 +227,6 @@
       "duration_ms": 193285,
       "name": "Mnike (Radio Edit) (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)",
       "url": "https://open.spotify.com/track/5OnDiLZlKXnBlBk2nCC9xE"
-    },
-    {
-      "added_at": "2026-06-12 10:05:49",
-      "album": {
-        "name": "Egwu",
-        "url": "https://open.spotify.com/album/4JlWlQoaf9gg1Ve5rzoSQi"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        },
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 136132,
-      "name": "Egwu",
-      "url": "https://open.spotify.com/track/1IMRi5UVOV77PsAgdWDvzh"
     },
     {
       "added_at": "2026-06-12 10:05:49",
@@ -511,34 +511,6 @@
     {
       "added_at": "2026-06-12 10:05:49",
       "album": {
-        "name": "Makhelwane",
-        "url": "https://open.spotify.com/album/28kb1LVlnyB0BkollLoCi1"
-      },
-      "artists": [
-        {
-          "name": "Wanitwa Mos",
-          "url": "https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF"
-        },
-        {
-          "name": "Nkosazana Daughter",
-          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
-        },
-        {
-          "name": "Master KG",
-          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
-        },
-        {
-          "name": "Dalom Kids",
-          "url": "https://open.spotify.com/artist/6Xx0iUrLjmGwk8RWqgDwSg"
-        }
-      ],
-      "duration_ms": 328096,
-      "name": "Keneilwe (feat. Dalom Kids)",
-      "url": "https://open.spotify.com/track/0UBK6HcgmmWUQzFQTncmDz"
-    },
-    {
-      "added_at": "2026-06-12 10:05:49",
-      "album": {
         "name": "Shokozela",
         "url": "https://open.spotify.com/album/0iKJW3OAXgHBwIf8F56zmW"
       },
@@ -567,6 +539,34 @@
       "duration_ms": 492759,
       "name": "Shokozela",
       "url": "https://open.spotify.com/track/1SFAM86VESPzwZbZOY3ndb"
+    },
+    {
+      "added_at": "2026-06-12 10:05:49",
+      "album": {
+        "name": "Makhelwane",
+        "url": "https://open.spotify.com/album/28kb1LVlnyB0BkollLoCi1"
+      },
+      "artists": [
+        {
+          "name": "Wanitwa Mos",
+          "url": "https://open.spotify.com/artist/2iN5MhOgkenO5FtkPtEVAF"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Dalom Kids",
+          "url": "https://open.spotify.com/artist/6Xx0iUrLjmGwk8RWqgDwSg"
+        }
+      ],
+      "duration_ms": 328096,
+      "name": "Keneilwe (feat. Dalom Kids)",
+      "url": "https://open.spotify.com/track/0UBK6HcgmmWUQzFQTncmDz"
     },
     {
       "added_at": "2026-06-12 10:05:49",
@@ -655,6 +655,26 @@
     {
       "added_at": "2026-06-12 10:05:49",
       "album": {
+        "name": "Selema (Po Po)",
+        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
+      },
+      "artists": [
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
+        }
+      ],
+      "duration_ms": 340846,
+      "name": "Selema (Po Po)",
+      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
+    },
+    {
+      "added_at": "2026-06-12 10:05:49",
+      "album": {
         "name": "Pelo Tse Thata (feat. DJ Maphorisa)",
         "url": "https://open.spotify.com/album/49Q8RG3DoTw58SuAZP2jSG"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 372168,
       "name": "Pelo Tse Thata (feat. DJ Maphorisa)",
       "url": "https://open.spotify.com/track/740a5PyydGEN0fDTNPwRQ7"
-    },
-    {
-      "added_at": "2026-06-12 10:05:49",
-      "album": {
-        "name": "Selema (Po Po)",
-        "url": "https://open.spotify.com/album/4EdPLVn4ZEZeRLkEw8ikiR"
-      },
-      "artists": [
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        },
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5"
-        }
-      ],
-      "duration_ms": 340846,
-      "name": "Selema (Po Po)",
-      "url": "https://open.spotify.com/track/1bnWGzdaZw0FPZddeGk9yv"
     },
     {
       "added_at": "2026-06-12 10:05:49",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-06-12 10:05:49",
       "album": {
+        "name": "Baby Boy 2 Reloaded",
+        "url": "https://open.spotify.com/album/1yWI355GWrXToRiwrP6osF"
+      },
+      "artists": [
+        {
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+        }
+      ],
+      "duration_ms": 447648,
+      "name": "Bundle of Joy",
+      "url": "https://open.spotify.com/track/63HL27uW6RXQq0vjL8XZIe"
+    },
+    {
+      "added_at": "2026-06-12 10:05:49",
+      "album": {
         "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo) [Edit]",
         "url": "https://open.spotify.com/album/2cdf1yQGKMbpgOcKmRIIaI"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 208152,
       "name": "Manzi Nte (feat. Masterpiece YVK, Ceeka RSA, M.J, Silas Africa & Al Xapo) - Edit",
       "url": "https://open.spotify.com/track/1eLmNFlt2oupiPivtzZyd7"
-    },
-    {
-      "added_at": "2026-06-12 10:05:49",
-      "album": {
-        "name": "Baby Boy 2 Reloaded",
-        "url": "https://open.spotify.com/album/1yWI355GWrXToRiwrP6osF"
-      },
-      "artists": [
-        {
-          "name": "Vigro Deep",
-          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
-        }
-      ],
-      "duration_ms": 447648,
-      "name": "Bundle of Joy",
-      "url": "https://open.spotify.com/track/63HL27uW6RXQq0vjL8XZIe"
     },
     {
       "added_at": "2026-06-12 10:05:49",

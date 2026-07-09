@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Judeline, Manuel Turizo, Natanael Cano, Cris MJ & Clarent &  more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,882 likes - 43 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 642,915 likes - 43 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 3 | [Aprevenido](https://open.spotify.com/track/0grLDu7Ix5QvYfBPJctCpm) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Aprevenido](https://open.spotify.com/album/69d0wnvfwhrMOc1AbdTBeK) | 2:49 |
 | 4 | [ALCOBA](https://open.spotify.com/track/4OX6VWwow4Ta12RvUMwlVT) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [ALCOBA](https://open.spotify.com/album/34gdrNNgq2cWmlt4vIl4GK) | 3:57 |
 | 5 | [holanda \- Remix](https://open.spotify.com/track/5ZZT0sywNVtrYhpbVER8lO) | [EL DE LA TINTA](https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [holanda \(Remix\)](https://open.spotify.com/album/1WJ07xKsqJgU9TDkKSBkMQ) | 3:07 |
-| 6 | [pongo remix \(feat\. Rvssian, Rauw Alejandro & Wizkid\)](https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [pAL\_veranito.mp3](https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z) | 2:49 |
+| 6 | [pongo remix](https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [pAL\_veranito.mp3](https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z) | 2:49 |
 | 7 | [Verano Lento](https://open.spotify.com/track/5mKqhC0IrB2oLvUgFi5naH) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Verano Lento](https://open.spotify.com/album/3ajZB9dy7Yk03dXJxDzYhS) | 3:04 |
 | 8 | [roger](https://open.spotify.com/track/3s4l3PJYCqEPaD7WDaZmEF) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [roger](https://open.spotify.com/album/3kYhZBuSIpIzyjzi6hEQOG) | 2:45 |
 | 9 | [ZAPATOS](https://open.spotify.com/track/05y0gZhdZPsOCwSUIv1nXb) | [008RACCA](https://open.spotify.com/artist/4V8v5JEf8rsMh9g90GZBLM) | [ZAPATOS](https://open.spotify.com/album/5iLzs8Od50z0LnxT473EDa) | 2:33 |

@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Daryl Coley, Walter Hawkins, Tramaine Hawkins and more
+> With Kurt Carr & The Kurt Carr Singers, Daryl Coley, Walter Hawkins and more
 
 2,013 songs - 6 day 11 hr 48 min
 

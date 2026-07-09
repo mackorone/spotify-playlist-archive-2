@@ -2,9 +2,9 @@
 
 ### [Viral în România](https://open.spotify.com/playlist/37i9dQZF1DX2Q2OspJqwwG)
 
-> Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
+> Un playlist \(foarte\) divers, cu tot ce e trending\. Alex Stamate, ce\-ai facut?!
 
-534 songs - 1 day 2 hr 52 min
+535 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [AIN'T GONNA ANSWER](https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [AIN'T GONNA ANSWER](https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA) | 3:07 | 2024-07-01 | 2024-07-30 |
 | [Aladam](https://open.spotify.com/track/0M1WfCxDACdVUqPYk4nCNf) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Aladam](https://open.spotify.com/album/1Z3urgmnh6CcrQVJU6xLtQ) | 2:12 | 2026-01-12 |  |
 | [Aleg Să Zâmbesc](https://open.spotify.com/track/0aJmgRfVoNZaUccbS8pjrG) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Aleg Să Zâmbesc](https://open.spotify.com/album/66FUEWBBI69xIrzkZPNSF7) | 2:33 | 2025-11-18 | 2025-11-25 |
+| [Alex Stamate](https://open.spotify.com/track/5efezXAjrQ7UnxzLXaOlXF) | [Laura Bălan](https://open.spotify.com/artist/0cNiZVWC2LrcN7aJFXefQS) | [Alex Stamate](https://open.spotify.com/album/0cgZ81xWRRfAafwTFrovtI) | 2:22 | 2026-07-08 |  |
 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 | 2024-07-08 | 2026-05-27 |
 | [Alo, mama](https://open.spotify.com/track/07WyoFDoUjxDHLa0dMFcb5) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl), [Ministerul Manelelor](https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7) | [Alo, mama](https://open.spotify.com/album/423TPlB5hQpIDYC6BMJ9Tp) | 2:49 | 2025-02-03 | 2025-07-15 |
 | [ALTCEVA](https://open.spotify.com/track/4ukqJjrUjNiKAKRGeuOy79) | [Simiz](https://open.spotify.com/artist/5E8nbRGMr541TMSF7bH3lD), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [ALTCEVA](https://open.spotify.com/album/6ARByzuJLUgx9fCecZ3PJo) | 3:06 | 2025-09-22 | 2025-09-30 |
@@ -120,7 +121,7 @@
 | [Cometa](https://open.spotify.com/track/0jlExIEvYdRx5pN8b65gSc) | [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Cometa](https://open.spotify.com/album/4rlSgsZ94V5jyQMEOY22qa) | 3:00 | 2025-09-08 | 2026-03-24 |
 | [Como El Agua](https://open.spotify.com/track/4NNLZewShVx5Jwaau7YWhM) | [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF), [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [Como El Agua](https://open.spotify.com/album/3y0N6BewyYnCKSCcnxXLVb) | 2:23 | 2024-07-15 | 2024-08-06 |
 | [Complicat](https://open.spotify.com/track/0RMLTuBPTlGE6iYLyO1glA) | [Karmen](https://open.spotify.com/artist/2S3C9sCcaSXmGzH4dVoiHF), [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Complicat](https://open.spotify.com/album/3a4PL5Tv3AwIklaZyudU5B) | 2:47 | 2024-09-30 | 2025-02-11 |
-| [Complicat](https://open.spotify.com/track/5M8RZLWYRdVjhjhr0raySE) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Complicat](https://open.spotify.com/album/5gIwB4ELoUEOaWaBkajJNa) | 2:31 | 2026-06-15 |  |
+| [Complicat](https://open.spotify.com/track/5M8RZLWYRdVjhjhr0raySE) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Complicat](https://open.spotify.com/album/5gIwB4ELoUEOaWaBkajJNa) | 2:31 | 2026-06-15 | 2026-07-09 |
 | [Compromis](https://open.spotify.com/track/2iUFBWn0r43yVWxS99R8Lz) | [Karmen](https://open.spotify.com/artist/2S3C9sCcaSXmGzH4dVoiHF) | [Compromis](https://open.spotify.com/album/37jrMjKiHDLlKwGnm9hRcz) | 2:26 | 2024-11-18 | 2024-12-03 |
 | [COMË N GO](https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 3:18 | 2025-10-13 | 2025-11-19 |
 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 | 2024-07-01 | 2024-07-30 |

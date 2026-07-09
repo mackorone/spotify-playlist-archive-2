@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 
 > Ouve estas extraordinárias artistas, numa edição especial co curada com Neyna
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,445 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,442 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa3XvSefBFmb.md) - [plain]
 | 49 | [Apaixonei](https://open.spotify.com/track/4jl0RKABd9LWwsqAc7lk9f) | [Barbie Africana](https://open.spotify.com/artist/6Y98odeUz2ubIvj01pO2iF) | [Apaixonei](https://open.spotify.com/album/6ZDj3Ri2rtGDNtJ87E9qU8) | 2:36 |
 | 50 | [unfinished ballad](https://open.spotify.com/track/2t9weDEeOjqpijj5jnF8CH) | [Isaura](https://open.spotify.com/artist/2oiBFya19iAwi0SCaltq1F) | [Primavera](https://open.spotify.com/album/0ma3xHuSUNkNIL4qbP5P0s) | 2:42 |
 
-Snapshot ID: `AAAAAG83YBYBreadgZ1fUfvBXqepQiaG`
+Snapshot ID: `AAAAAEHZGm17d6aVBXUetDglt35bSnuK`

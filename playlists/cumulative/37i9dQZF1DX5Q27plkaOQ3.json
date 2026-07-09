@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 featuring Zingara and Steller",
+  "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 featuring Zingara + Steller",
   "name": "Dubstep Don",
   "tracks": [
     {
@@ -808,7 +808,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 185142,
       "name": "Aliens",
       "url": "https://open.spotify.com/track/03r8oKqOy8OG1lTbXbNNWy"
@@ -3386,7 +3386,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 281142,
       "name": "Blurry Flurry",
       "url": "https://open.spotify.com/track/06Ib3OfxdvinrGtizQA5uP"
@@ -5672,6 +5672,28 @@
       "duration_ms": 192413,
       "name": "Clean Up",
       "url": "https://open.spotify.com/track/5bgGbSIz8gUIqAWkMjaZIh"
+    },
+    {
+      "album": {
+        "name": "Club XL",
+        "url": "https://open.spotify.com/album/0EXxFwQwohLNoOjOpqdmYd"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153206,
+      "name": "Club XL",
+      "url": "https://open.spotify.com/track/7rSzIocuSBn819F5o7BRJ3"
     },
     {
       "album": {
@@ -9226,7 +9248,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 174421,
       "name": "Encore",
       "url": "https://open.spotify.com/track/7ejjJcMFi1drs5Iy6xiAn2"
@@ -10825,6 +10847,24 @@
     },
     {
       "album": {
+        "name": "Forever & Always",
+        "url": "https://open.spotify.com/album/4GwGVnX3g43iKuyjxd1s8o"
+      },
+      "artists": [
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212571,
+      "name": "Forever & Always",
+      "url": "https://open.spotify.com/track/0nLGprBGH6Znj5CzRHdBpX"
+    },
+    {
+      "album": {
         "name": "Forget My Name",
         "url": "https://open.spotify.com/album/5kBtdhkSqQf6aXSNYtBumd"
       },
@@ -11528,7 +11568,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 266400,
       "name": "GATEKEEPER",
       "url": "https://open.spotify.com/track/0Kltu5cCMc2r82fnkeK49g"
@@ -14272,7 +14312,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 107200,
       "name": "IN DA CLUB",
       "url": "https://open.spotify.com/track/3Trs4Bq0ckfsQq0O1GjTOJ"
@@ -18899,6 +18939,24 @@
     },
     {
       "album": {
+        "name": "NOISE",
+        "url": "https://open.spotify.com/album/3N5MIywBjEZ9llpLUC0W0j"
+      },
+      "artists": [
+        {
+          "name": "Flozone",
+          "url": "https://open.spotify.com/artist/3SoFUkULAf5goHkXVeppoh"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145655,
+      "name": "NOISE",
+      "url": "https://open.spotify.com/track/2KESWHoHbeCKFia0mpEypg"
+    },
+    {
+      "album": {
         "name": "EYE SPY",
         "url": "https://open.spotify.com/album/1ZznxQYmedRm467XBt5tu2"
       },
@@ -19250,6 +19308,28 @@
       "duration_ms": 209400,
       "name": "Oh Dang!",
       "url": "https://open.spotify.com/track/6RfJ36FxithGj2P3bfbG1L"
+    },
+    {
+      "album": {
+        "name": "Oh My! (Calcium Remix)",
+        "url": "https://open.spotify.com/album/4DOfUWk1IjF0zdzfPeAzU9"
+      },
+      "artists": [
+        {
+          "name": "SPAG",
+          "url": "https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi"
+        },
+        {
+          "name": "Calcium",
+          "url": "https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195600,
+      "name": "Oh My! - Calcium Remix",
+      "url": "https://open.spotify.com/track/3YxZXliG5d4mZFzz9ewCVi"
     },
     {
       "album": {
@@ -24776,7 +24856,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 192000,
       "name": "SMACK!",
       "url": "https://open.spotify.com/track/0I9tf0J9JPnT0Df7yrQAxr"
@@ -29502,7 +29582,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-06",
+      "date_removed": null,
       "duration_ms": 267428,
       "name": "Ups and Downs",
       "url": "https://open.spotify.com/track/4H3lfEQqrv1Kh3CXVYmMwW"
@@ -29542,6 +29622,28 @@
       "duration_ms": 238443,
       "name": "Valley Of Violence",
       "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"
+    },
+    {
+      "album": {
+        "name": "Valley Of Violence (Borgore Remix)",
+        "url": "https://open.spotify.com/album/6zFLKBNw1kEKJSbJPBL4Co"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        },
+        {
+          "name": "Borgore",
+          "url": "https://open.spotify.com/artist/7u160I5qtBYZTQMLEIJmyz"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Valley Of Violence - Borgore Remix",
+      "url": "https://open.spotify.com/track/7b1HBFEWhCtlNnlr2Y4jIV"
     },
     {
       "album": {

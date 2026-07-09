@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Sunship
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,349 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,440 likes - 75 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 50 | [Triplets](https://open.spotify.com/track/5K2nfj6reBygjD9gcI7AIH) | [Sticky](https://open.spotify.com/artist/2M9VekPKghfVcZKgiugbNH) | [UK Garage Beats V2](https://open.spotify.com/album/7KLkeK27wbHpuuUaHNr1Yr) | 5:09 |
 | 51 | [Down On Me](https://open.spotify.com/track/3aFmm5TVUHInC0ruWkjUJ4) | [Wookie](https://open.spotify.com/artist/4MswQnojZK1oRaxNsACqjv) | [Wookie \(Deluxe Edition\)](https://open.spotify.com/album/6GV8kkTilYLCQ8qA39yYzk) | 5:28 |
 | 52 | [Oh Baby](https://open.spotify.com/track/5lWkKEIg07sX9l8HcIU4Y9) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [4X4, Vol\. 1](https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk) | 5:43 |
-| 53 | [Attitude](https://open.spotify.com/track/0mFEqYuAiWphuDLXj9h75n) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Elisabeth Troy](https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT) | [Sincere \(Deluxe\)](https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw) | 5:09 |
+| 53 | [Wondering Why](https://open.spotify.com/track/1hEON5HHAv2GFuapRYuW8Y) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Vula Malinga](https://open.spotify.com/artist/62cbToG9jGPFvL0P2DslNf) | [Cut To The Chase](https://open.spotify.com/album/23qJYwn8Ws7ByE8JOOxKLk) | 3:36 |
 | 54 | [C'est Cool](https://open.spotify.com/track/6AAWrCUg5AEHhbeJpn01s5) | [Jeremy Sylvester](https://open.spotify.com/artist/7BRot2uprkudBUXhqv9R9l) | [UK Garage Classics \- Best of Jeremy Sylvester, Vol\. 3](https://open.spotify.com/album/5xZ01zf5Pb93RJnt46sAuT) | 5:48 |
-| 55 | [Joy](https://open.spotify.com/track/36xCum3i0EQyr2mw02X3U0) | [Janet Rushmore](https://open.spotify.com/artist/18teEg25jbPOp9juFgIZtU) | [Smack Da House Vol.2](https://open.spotify.com/album/0UTxSDZxgcVhltuXOUT0uT) | 5:29 |
-| 56 | [Let Yourself Go \- Capitol Mix](https://open.spotify.com/track/67arHtJfnuyN5LuxqqFT9A) | [95 North](https://open.spotify.com/artist/7GgRGnImx1cLLS73bDnpFV) | [Let Yourself Go](https://open.spotify.com/album/58iuajzHYoeJJsbD0HBD67) | 7:19 |
+| 55 | [Let Yourself Go \- Capitol Mix](https://open.spotify.com/track/67arHtJfnuyN5LuxqqFT9A) | [95 North](https://open.spotify.com/artist/7GgRGnImx1cLLS73bDnpFV) | [Let Yourself Go](https://open.spotify.com/album/58iuajzHYoeJJsbD0HBD67) | 7:19 |
+| 56 | [Joy](https://open.spotify.com/track/36xCum3i0EQyr2mw02X3U0) | [Janet Rushmore](https://open.spotify.com/artist/18teEg25jbPOp9juFgIZtU) | [Smack Da House Vol.2](https://open.spotify.com/album/0UTxSDZxgcVhltuXOUT0uT) | 5:29 |
 | 57 | [Pick Me Up \- Licenced Mix](https://open.spotify.com/track/57sbI1IH9J5TBN2utbIoWM) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Pick Me Up](https://open.spotify.com/album/51HxoBrnXMvUuneVRRV5gl) | 6:43 |
-| 58 | [Wondering Why](https://open.spotify.com/track/1hEON5HHAv2GFuapRYuW8Y) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Vula Malinga](https://open.spotify.com/artist/62cbToG9jGPFvL0P2DslNf) | [Cut To The Chase](https://open.spotify.com/album/23qJYwn8Ws7ByE8JOOxKLk) | 3:36 |
+| 58 | [Attitude](https://open.spotify.com/track/0mFEqYuAiWphuDLXj9h75n) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [Elisabeth Troy](https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT) | [Sincere \(Deluxe\)](https://open.spotify.com/album/0V76cokjWCIMO2pnElF1mw) | 5:09 |
 | 59 | [Jump to It](https://open.spotify.com/track/1y4BT0G5NzgTvUCMOd5Fwx) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [Double 99 Double Pack](https://open.spotify.com/album/7zIkRSt3IFmc8pxW25jyHz) | 5:24 |
 | 60 | [Oh Boy \- Rafmat Radio Edit](https://open.spotify.com/track/3023sMjiQEW2Cune78IfCJ) | [Fabulous Baker Boys](https://open.spotify.com/artist/5UGsrEKtGvlxh7YsdjKyjH) | [Oh Boy](https://open.spotify.com/album/77H1tCAFhXuNPg21nCNMgX) | 4:03 |
 | 61 | [Club Lonely](https://open.spotify.com/track/4TSKJlNqqGbyHB9mSmRpUt) | [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Club Asylum Sampler, Vol\. 1](https://open.spotify.com/album/6fonnepHRdzo5l0fminGAq) | 5:14 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 72 | [The Rub](https://open.spotify.com/track/4vZManO1cgneOP8PV0bbZu) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 5:04 |
 | 73 | [RIP Groove \- Radio Edit](https://open.spotify.com/track/4nyZjJ9eCaEODIljcQn8gQ) | [Double 99](https://open.spotify.com/artist/3XUgFwHXbyBHNuAfv7sWu3) | [Rip Groove](https://open.spotify.com/album/6J4zZWXB1HrAnb2hibIP9v) | 3:29 |
 | 74 | [My Desire \- Dreem Team Remix](https://open.spotify.com/track/4wDuuEI9ecmWVVQVfHfrp3) | [AMIRA](https://open.spotify.com/artist/32GCwVMzzFTuaFhQGXgdxD) | [My Desire \(Remixes\)](https://open.spotify.com/album/7m7dj6cgyKXzOkBHF4MDug) | 5:44 |
-| 75 | [Tell Me It's Real \- Club Asylum Vocal Edit](https://open.spotify.com/track/0JrdX6qQr4r6L3xHsuhuKH) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Kisstory 2014](https://open.spotify.com/album/0REhu6zO4Hovw43GYoTS1M) | 3:35 |
+| 75 | [Anytime](https://open.spotify.com/track/2Juu7tim2c71wvKAMRYkNc) | [NuBirth](https://open.spotify.com/artist/74sS9PHuqYxHllQL8noO0G) | [PAY CLOSE ATTENTION: XL Recordings](https://open.spotify.com/album/3D9vUf511saEHLua6NcOLw) | 5:20 |
 
 Snapshot ID: `AAAAAG5D8yptH9QhG3oT3//C/rb7sITz`

@@ -4,7 +4,7 @@
 
 > Really lovely songs.
 
-555 songs - 1 day 9 hr 28 min
+556 songs - 1 day 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Eyes of Stone](https://open.spotify.com/track/5BYdwKN4OJlNh0MW6Cso6g) | [Good Dog](https://open.spotify.com/artist/1oJPedap0VtK48hM9Wm6S1) | [Eyes of Stone](https://open.spotify.com/album/0u10Darsk6WdtkRQH2oBk1) | 3:09 | 2021-11-12 | 2022-07-27 |
 | [Fade](https://open.spotify.com/track/56u1PvRafzzWzljABNR1bn) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Fade](https://open.spotify.com/album/03fIulT5GrejWSWLl5TnRZ) | 4:27 | 2021-11-12 | 2022-07-28 |
 | [Failure](https://open.spotify.com/track/3xnFWXU2SfZ7q7Nes4Ncr8) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 4:07 | 2021-11-12 | 2026-04-24 |
-| [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn) | 3:21 | 2024-03-22 |  |
+| [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/track/4dsyiGRnIpw8Y1C5IXhKJi) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Fantasneeze \(feat\. Matilda Mann\)](https://open.spotify.com/album/0yNJq0ZGlgRyfz4UBoARVn) | 3:21 | 2024-03-22 | 2026-07-09 |
 | [Far Out](https://open.spotify.com/track/3FBisbTYZcpmPPAjnXE7w9) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:18 | 2022-06-22 | 2023-07-29 |
 | [Far Out](https://open.spotify.com/track/6H6NrMPFl4HC7Pz9bSVmTZ) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Far Out / Follies Fixture](https://open.spotify.com/album/2LONjruohqPKqKsMVwChw8) | 4:18 | 2021-11-12 | 2022-07-29 |
 | [Fashun](https://open.spotify.com/track/3r5QW19eJG9ucJKouXP0DB) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Fashun](https://open.spotify.com/album/4AYI2KX7Q4lmLnqNFYSFhh) | 3:04 | 2021-11-12 | 2022-07-29 |
@@ -404,6 +404,7 @@
 | [rollercoaster](https://open.spotify.com/track/2Gx7vUqoi6u6nHiYUMrrH0) | [søftbleach](https://open.spotify.com/artist/6dKuAS35mJiyRGAjOtSS17) | [rollercoaster](https://open.spotify.com/album/4iXlTnAz2lAS2oXsm8xAKY) | 2:31 | 2026-04-23 | 2026-06-16 |
 | [Rooftop](https://open.spotify.com/track/2Yml7AfTUeD314liazChNC) | [Cinema Gold](https://open.spotify.com/artist/0K7BbW3FkOqwtpgLyTUAca) | [Rooftop](https://open.spotify.com/album/3Igeg1be3hBUPElfNhxRbO) | 3:08 | 2022-03-19 | 2022-04-10 |
 | [Running/Planning](https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Running/Planning](https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2) | 4:26 | 2025-03-29 |  |
+| [Sad Summer](https://open.spotify.com/track/1BK4EhT0zIW5FoD4LQRD4b) | [sundayclub](https://open.spotify.com/artist/7dcTyitRlZLvXG825D7AqM) | [Sad Summer](https://open.spotify.com/album/3gX6kR3RhrMDD6P6gh03dI) | 3:29 | 2026-06-18 |  |
 | [Saltwater](https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:07 | 2022-06-22 | 2024-04-19 |
 | [Saltwater](https://open.spotify.com/track/4mC5Bp4nDFI6yht9XrO7VA) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/73b3NhgAXQiC6fmbR0Y2CA) | 4:07 | 2022-03-19 | 2022-06-24 |
 | [Sand](https://open.spotify.com/track/4L5ib7MTorgJS5BUAMizUL) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Sand](https://open.spotify.com/album/0ZUuuqb345KsZxIMVKD8Qb) | 3:24 | 2026-04-23 |  |

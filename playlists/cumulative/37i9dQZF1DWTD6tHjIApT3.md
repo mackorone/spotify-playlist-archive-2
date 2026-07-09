@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: 7co
 
-3,822 songs - 10 day 3 hr 16 min
+3,824 songs - 10 day 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1151,6 +1151,7 @@
 | [Lunchtime Lover](https://open.spotify.com/track/0voYtFLM5Yr6ME6Wbfi0Eb) | [Ai Higuchi](https://open.spotify.com/artist/0KZzmjrOQumJVVnoGRbXCu) | [Warui Onna EP](https://open.spotify.com/album/2EShlVYZ57EYvpFGrKQTdj) | 3:39 | 2022-07-28 | 2022-08-03 |
 | [Lush Life](https://open.spotify.com/track/2ouoRQjbtBfy52f1c00Wrm) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Lush Life](https://open.spotify.com/album/1BYLBiPTJgODrUgyQqzCtP) | 5:59 | 2025-09-16 | 2025-09-24 |
 | [Lust](https://open.spotify.com/track/30UgE65HXStQABj9jeegiI) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0) | [Lust](https://open.spotify.com/album/7ldvNTckcica1abzKdx0ed) | 2:37 | 2024-05-21 | 2024-05-29 |
+| [Lv.1 職業：人間](https://open.spotify.com/track/4efmtclSeuqYXi6tuGRYtm) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Lv.1 職業：人間](https://open.spotify.com/album/75ud6v5jZFdJdPXdoqyZwe) | 3:28 | 2026-07-07 |  |
 | [Lycoris](https://open.spotify.com/track/0r8tGHTLV1XdNTNjrOhSg8) | [THE SxPLAY](https://open.spotify.com/artist/3buTqojSELwUcO2apjmpVi) | [Lycoris](https://open.spotify.com/album/6A7nUQ1vGlsz82s7bN1K0M) | 2:48 | 2022-05-29 | 2022-06-24 |
 | [M2M](https://open.spotify.com/track/3fE0Xvgo9IM0dyxNmKuTfF) | [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [M2M](https://open.spotify.com/album/52fD5zD8d6Irj4uQdPPJW5) | 3:45 | 2024-12-17 | 2025-01-08 |
 | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/track/0dPBmyhOEonUNrfqywYioK) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [MABATAKI TO SEISHIN TO KIMI NO UTA TO ONGAKU TO](https://open.spotify.com/album/7lXiHtM1UrVjszxehfzoyI) | 3:55 | 2022-11-29 | 2023-02-22 |
@@ -2801,7 +2802,7 @@
 | [フルール・ドゥ・ラ・パシオン](https://open.spotify.com/track/2WeMc4Dnl6VLk5ehuWvPZx) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [フルール・ドゥ・ラ・パシオン](https://open.spotify.com/album/1y0Ym4em7naU6KuvdCVw4y) | 4:55 | 2024-07-30 | 2024-08-07 |
 | [フレンド](https://open.spotify.com/track/3B0YGW2XLujqsp4QQ9JXvk) | [Sayonara Ponytail](https://open.spotify.com/artist/67FDqMJvln7C7mZLBMuu1X) | [フレンド](https://open.spotify.com/album/4fv881HjPesJDQFHwEY4XD) | 3:35 | 2024-03-26 | 2024-04-03 |
 | [ブリキノダンス](https://open.spotify.com/track/2yVBhde18jnhFGgA52eDt2) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ブリキノダンス](https://open.spotify.com/album/0Rqk9EbfcSQRVS8cDEmyWz) | 3:19 | 2023-11-28 | 2023-11-30 |
-| [ブルーアワー](https://open.spotify.com/track/7Lh5M0RD6X6GL3PnIwrZqo) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [ブルーアワー](https://open.spotify.com/album/1oypYyn282Hdl2eUmC7tmH) | 4:17 | 2026-03-31 |  |
+| [ブルーアワー](https://open.spotify.com/track/7Lh5M0RD6X6GL3PnIwrZqo) | [adieu](https://open.spotify.com/artist/18tXnGJKmrSwXynnxWHy3Y) | [ブルーアワー](https://open.spotify.com/album/1oypYyn282Hdl2eUmC7tmH) | 4:17 | 2026-03-31 | 2026-07-09 |
 | [ブルーアワー](https://open.spotify.com/track/4GqBrHYUhllOurthHGOQme) | [moumoon](https://open.spotify.com/artist/2lXdBKdqczUqxZlQxqTaFF) | [FELT SENSE](https://open.spotify.com/album/5hJNtMxujDKLRfdPF8YEyn) | 4:02 | 2023-07-25 | 2023-07-27 |
 | [ブルーグラス](https://open.spotify.com/track/4kuKGST6Pj4iMZBpO6BYl4) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [LOSE LOOSE Day](https://open.spotify.com/album/6BXKCdnItF9gB7LfPZyQnY) | 4:24 | 2023-03-28 | 2023-08-26 |
 | [ブルーシャドウにのっかって](https://open.spotify.com/track/62jFkV1ctIh9lJzvWiaIRJ) | [はしメロ](https://open.spotify.com/artist/7Bokk7F8hq4P8wWwEO5mZy) | [aero](https://open.spotify.com/album/2IFLkSxv2u8ISZTEl0Ba4o) | 2:53 | 2026-02-24 | 2026-04-16 |
@@ -3392,7 +3393,7 @@
 | [暴く春](https://open.spotify.com/track/4CnQzzLlHEezMLqflJpWmS) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [暴く春](https://open.spotify.com/album/2fIYGVS9QPcWS95wSqLdXs) | 3:26 | 2022-12-27 | 2022-12-29 |
 | [曇りくらいが丁度いい](https://open.spotify.com/track/6xA7IXaV1u3c3WAzZC7Vsm) | [um\-hum](https://open.spotify.com/artist/6rNlYIsp3dB0dYwXkgMlR5) | [曇りくらいが丁度いい](https://open.spotify.com/album/0juzJ32rR3Ub6qyq23uim4) | 3:40 | 2023-08-15 | 2023-08-17 |
 | [曖昧なBEACH](https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K) | [礼賛](https://open.spotify.com/artist/6s47v81SP75AAu01joweqx) | [曖昧なBEACH](https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6) | 2:39 | 2024-07-30 | 2024-10-23 |
-| [曖昧な指切り](https://open.spotify.com/track/0NZmVUHSk4JEC2oaxa2ibz) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [曖昧な指切り](https://open.spotify.com/album/14csdTRiKxlBRNt5yCwEbR) | 4:00 | 2026-03-17 |  |
+| [曖昧な指切り](https://open.spotify.com/track/0NZmVUHSk4JEC2oaxa2ibz) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [曖昧な指切り](https://open.spotify.com/album/14csdTRiKxlBRNt5yCwEbR) | 4:00 | 2026-03-17 | 2026-07-09 |
 | [曲名はまだないです](https://open.spotify.com/track/4aCPE37Q7R8OsFuwpEm4s6) | [Aogumo](https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO) | [曲名はまだないです](https://open.spotify.com/album/0cZ4gKQONihKOC9UOLtMex) | 2:58 | 2024-11-19 | 2025-04-16 |
 | [更衣室ディストピア](https://open.spotify.com/track/7K1pvJmrvgKuC0TMW73Wgi) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [更衣室ディストピア](https://open.spotify.com/album/1lMcGC8tL5QEGIFCNrXexL) | 4:16 | 2023-10-10 | 2023-10-18 |
 | [最低界隈 \- Saitei Kaiwai](https://open.spotify.com/track/6LQMfHAZYxaX2AyRDnHp4K) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [最低界隈 \- Saitei Kaiwai](https://open.spotify.com/album/5KtONgHCOttcGD4Y1lsXpC) | 3:20 | 2025-08-26 | 2025-12-03 |
@@ -3651,6 +3652,7 @@
 | [花のように](https://open.spotify.com/track/5DvmqgXR9UOK6YyOqpIFce) | [Anna](https://open.spotify.com/artist/2qxX52n1AFzz6SnF76260y) | [花のように](https://open.spotify.com/album/4jzZEVYr06aWFxkfjnT83u) | 4:08 | 2023-01-31 | 2023-04-26 |
 | [花は必ず剪つて瓶裏に眺むべきもの \- II](https://open.spotify.com/track/32Fn5nneZmxwn9ls05yNYp) | [Lilla Flicka](https://open.spotify.com/artist/3micaqXD3IfdIBJV1WdVlV), [新音楽制作工房](https://open.spotify.com/artist/1z776vCwcm2F8ddQJWA4H8) | [花は必ず剪つて瓶裏に眺むべきもの \(II\)](https://open.spotify.com/album/6J7OnZncKNK7VbE5WB1MXN) | 5:59 | 2022-11-15 | 2022-11-23 |
 | [花ひら](https://open.spotify.com/track/2HqEvEecCKVnKOIswcuYBE) | [石垣 優](https://open.spotify.com/artist/7uNiRURuFSIumhFxLx8UVC) | [花ひら](https://open.spotify.com/album/3pqBAYIg4lBmmNZPvOGsok) | 4:24 | 2022-06-28 | 2022-07-22 |
+| [花咲く道](https://open.spotify.com/track/7hsXgNruHoMTXrapRR1oNP) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [花咲く道](https://open.spotify.com/album/7aKEem9xZIhIzHhMeR77Op) | 3:08 | 2026-07-07 |  |
 | [花曇り](https://open.spotify.com/track/6v18W0JUT46W2FEAGUoB3k) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [花曇り](https://open.spotify.com/album/1fhcD4mJEnE8JmIzV9hidw) | 4:02 | 2023-04-04 | 2023-06-07 |
 | [花束](https://open.spotify.com/track/1m7OwPrxJ7JwMg13KHs5QG) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [10th Anniversary Best](https://open.spotify.com/album/0QiLutk3Pscww7wJ6valwh) | 3:49 | 2022-05-31 | 2022-07-08 |
 | [花束じゃなくキミといたい](https://open.spotify.com/track/4OaLlRZLp11tRDioSRbCJk) | [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [Wonder!](https://open.spotify.com/album/14lqQSxRw57mrcK2Powuld) | 5:01 | 2025-09-03 | 2025-09-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Jennifer Lopez & Alok
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,069 likes - 95 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,391 likes - 95 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 13 | [Nokia](https://open.spotify.com/track/7bt12BkmQOft8dsOUkvOT9) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Lucky Lou](https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2) | [Nokia](https://open.spotify.com/album/5begU32ZHoEmUeJa0f9Igt) | 3:08 |
 | 14 | [YOUtopia](https://open.spotify.com/track/35NaaOPzsTWOWM47PzRuaY) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [YOUtopia](https://open.spotify.com/album/4KHPTZ0Cad5ZJvZW614XUe) | 2:30 |
 | 15 | [Gravity \(feat\. SACHA\)](https://open.spotify.com/track/05vUCrcaRvSjLzb0WbmVDk) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Gravity \(feat\. SACHA\)](https://open.spotify.com/album/79aF8LZe8qAienSve3qjTo) | 3:00 |
-| 16 | [What A Life \(feat\. Florence Arman\)](https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [What A Life](https://open.spotify.com/album/6Ad7E2sBgst9CrKF6kUZf2) | 3:09 |
+| 16 | [What A Life \(feat\. Florence Arman\)](https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [What A Life \(feat\. Florence Arman\)](https://open.spotify.com/album/6Ad7E2sBgst9CrKF6kUZf2) | 3:09 |
 | 17 | [Yellow Top](https://open.spotify.com/track/57MNWjHcvTGTliv298LfS5) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Yellow Top](https://open.spotify.com/album/6bni6exoOWeXnaytmn8z9S) | 2:41 |
 | 18 | [FATE](https://open.spotify.com/track/3kUVRvpDGq2PhKHGZBa7iE) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [FATE](https://open.spotify.com/album/5uDffHt21NhV6YavkmAp9p) | 3:08 |
 | 19 | [Shine](https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Aidan Martin](https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb) | [Twenty One](https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG) | 2:27 |

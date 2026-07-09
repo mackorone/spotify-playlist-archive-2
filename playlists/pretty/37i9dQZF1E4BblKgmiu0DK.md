@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4BblKgmiu0DK.md) - [plain]
 
 > With Tssara, Die Mannequin, The Donnas and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 6 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 6 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,27 +36,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4BblKgmiu0DK.md) - [plain]
 | 26 | [Bruv, Skyline Ruckus](https://open.spotify.com/track/3rkTZkhoOA7fQgwpqnmwva) | [Tssara](https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB) | [Neon Skyline Overdrive](https://open.spotify.com/album/754r2zI0LT0Rmb18ZN8P01) | 1:43 |
 | 27 | [Here For The Party](https://open.spotify.com/track/25aLYsdkEkwRIKWGUE6q6w) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Bitchin'](https://open.spotify.com/album/5MdCmnnJvtlLNlb8SyeFgE) | 2:54 |
 | 28 | [The Pretender](https://open.spotify.com/track/5aWZYkmFgLC9XAUNJimLjz) | [Cherri Bomb](https://open.spotify.com/artist/6uyTDrWtG4OAsknVbGK5ep) | [Stark](https://open.spotify.com/album/0wIA3JMGy8KMC5dLkg1c1i) | 4:26 |
-| 29 | [On My Wave](https://open.spotify.com/track/0i42n0Eri0jNoDQB2clC81) | [Ethereal Flow play](https://open.spotify.com/artist/7p81FYSyyDdu5zi0a3eSy7) | [On My Wave](https://open.spotify.com/album/5OaCwkYRMkpAKt3kcjICFn) | 2:16 |
-| 30 | [Hourglass Sand](https://open.spotify.com/track/7GKsGHwrYYeocWOImH1CMU) | [Jason Diebner](https://open.spotify.com/artist/3ZVL82im0igcw5SNOuL7NC) | [Jason Diebner](https://open.spotify.com/album/5cecalyrQ3KniYAeOWvy0j) | 3:03 |
-| 31 | [New Shirt](https://open.spotify.com/track/7Kf3bAUkl2zZpQGqaSptGz) | [Grace Calver](https://open.spotify.com/artist/1sOSpXgCLXfiFfAgrEAXxy) | [New Shirt](https://open.spotify.com/album/6xnT94cQkLec9OxExpHB34) | 3:22 |
-| 32 | [Groupie](https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj) | [Cassie Steele](https://open.spotify.com/artist/7hLUUmcH0567GWqnQLy75X) | [Destructo Doll](https://open.spotify.com/album/7rKgMO4NUPEw2q8XEcv4IW) | 2:58 |
+| 29 | [New Shirt](https://open.spotify.com/track/7Kf3bAUkl2zZpQGqaSptGz) | [Grace Calver](https://open.spotify.com/artist/1sOSpXgCLXfiFfAgrEAXxy) | [New Shirt](https://open.spotify.com/album/6xnT94cQkLec9OxExpHB34) | 3:22 |
+| 30 | [Groupie](https://open.spotify.com/track/68eyV7PfPk2SE066AbZ2Hj) | [Cassie Steele](https://open.spotify.com/artist/7hLUUmcH0567GWqnQLy75X) | [Destructo Doll](https://open.spotify.com/album/7rKgMO4NUPEw2q8XEcv4IW) | 2:58 |
+| 31 | [i think about you in the shower](https://open.spotify.com/track/0C09ONBxeLWyGsgbUdmHQR) | [The Maraschinos](https://open.spotify.com/artist/76ih0Q6Q5UPwTlCTu1FHjh) | [i think about you in the shower](https://open.spotify.com/album/3HGZ91PAIVzySzdjEM4NK8) | 4:03 |
+| 32 | [Suffer](https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG) | [Die Mannequin](https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C) | [FINO + BLEED](https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA) | 2:42 |
 | 33 | [It Takes One to Know One](https://open.spotify.com/track/6LQh4FDK5DkK1XNkN0wvup) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Gold Medal \(U.S\. Version 83770\)](https://open.spotify.com/album/4XoZkJosiyfetLAe6FQ9KF) | 2:58 |
-| 34 | [i think about you in the shower](https://open.spotify.com/track/0C09ONBxeLWyGsgbUdmHQR) | [The Maraschinos](https://open.spotify.com/artist/76ih0Q6Q5UPwTlCTu1FHjh) | [i think about you in the shower](https://open.spotify.com/album/3HGZ91PAIVzySzdjEM4NK8) | 4:03 |
-| 35 | [Suffer](https://open.spotify.com/track/1MZX9N4qyJXVYaov5qO7qG) | [Die Mannequin](https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C) | [FINO + BLEED](https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA) | 2:42 |
-| 36 | [The Meteor](https://open.spotify.com/track/1UvRIZd8vJXvH9LqIG8c0G) | [Turning Violet](https://open.spotify.com/artist/3ewe71DUpDx8WtSSLSQdcZ) | [Steadfast](https://open.spotify.com/album/3wHgurA4Get8a7G8J8AIDf) | 2:44 |
-| 37 | [Devil, I Am](https://open.spotify.com/track/66yqqPcTVBwHPRrvtjljAC) | [Kathryn Gallagher](https://open.spotify.com/artist/3ih5Zv6GiMsezuTQy6zflD) | [All Good Men](https://open.spotify.com/album/43cC6Wx7CTKWC25ByXQJXl) | 2:29 |
-| 38 | [Mr Colson](https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p) | [Cassie Steele](https://open.spotify.com/artist/7hLUUmcH0567GWqnQLy75X) | [Destructo Doll](https://open.spotify.com/album/7rKgMO4NUPEw2q8XEcv4IW) | 3:58 |
+| 34 | [The Meteor](https://open.spotify.com/track/1UvRIZd8vJXvH9LqIG8c0G) | [Turning Violet](https://open.spotify.com/artist/3ewe71DUpDx8WtSSLSQdcZ) | [Steadfast](https://open.spotify.com/album/3wHgurA4Get8a7G8J8AIDf) | 2:44 |
+| 35 | [Devil, I Am](https://open.spotify.com/track/66yqqPcTVBwHPRrvtjljAC) | [Kathryn Gallagher](https://open.spotify.com/artist/3ih5Zv6GiMsezuTQy6zflD) | [All Good Men](https://open.spotify.com/album/43cC6Wx7CTKWC25ByXQJXl) | 2:29 |
+| 36 | [Mr Colson](https://open.spotify.com/track/3slvBytOocmwtxDCR4Q12p) | [Cassie Steele](https://open.spotify.com/artist/7hLUUmcH0567GWqnQLy75X) | [Destructo Doll](https://open.spotify.com/album/7rKgMO4NUPEw2q8XEcv4IW) | 3:58 |
+| 37 | [Carry The Music](https://open.spotify.com/track/72h8cMYQsB2Tqa30uGC3BG) | [Peach Riot](https://open.spotify.com/artist/6x4fWXlFHJhySjhtO7cBIh) | [Carry The Music](https://open.spotify.com/album/27uNhxbkhA7Suz5S6eU4co) | 2:27 |
+| 38 | [Welcome To The Badlands](https://open.spotify.com/track/0eKlJZz9cE2DAhjOSqehCS) | [Die Mannequin](https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C) | [Neon Zero](https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi) | 3:18 |
 | 39 | [Fall Behind Me](https://open.spotify.com/track/3SCwQM78OCR54xEL3JAmKk) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Gold Medal \(U.S\. Version 83770\)](https://open.spotify.com/album/4XoZkJosiyfetLAe6FQ9KF) | 3:22 |
-| 40 | [Carry The Music](https://open.spotify.com/track/72h8cMYQsB2Tqa30uGC3BG) | [Peach Riot](https://open.spotify.com/artist/6x4fWXlFHJhySjhtO7cBIh) | [Carry The Music](https://open.spotify.com/album/27uNhxbkhA7Suz5S6eU4co) | 2:27 |
-| 41 | [Welcome To The Badlands](https://open.spotify.com/track/0eKlJZz9cE2DAhjOSqehCS) | [Die Mannequin](https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C) | [Neon Zero](https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi) | 3:18 |
-| 42 | [3](https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x) | [Batfarm](https://open.spotify.com/artist/50zINatpEPyYpI15Pyxybf) | [3](https://open.spotify.com/album/5HaCposgjWWP6SoLFtEy9o) | 2:42 |
-| 43 | [Damage Is Done](https://open.spotify.com/track/6MnyrdchteSl2qOWAJhDPs) | [Mia Morris](https://open.spotify.com/artist/2H62q6PF7z71FxZxACxg7H) | [Damage Is Done](https://open.spotify.com/album/4ZbregcPZjXodJnhlHkzOz) | 3:07 |
-| 44 | [Chilangolandia Truena, Órale.wav](https://open.spotify.com/track/5vyAELammLza7wkXLlFYKS) | [Tssara](https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB) | [Neon Backroads Atlas](https://open.spotify.com/album/0O9iniNA803S0V5MiMic7T) | 1:05 |
+| 40 | [3](https://open.spotify.com/track/6jyRcu3o3iSYPVU8noYS8x) | [Batfarm](https://open.spotify.com/artist/50zINatpEPyYpI15Pyxybf) | [3](https://open.spotify.com/album/5HaCposgjWWP6SoLFtEy9o) | 2:42 |
+| 41 | [Damage Is Done](https://open.spotify.com/track/6MnyrdchteSl2qOWAJhDPs) | [Mia Morris](https://open.spotify.com/artist/2H62q6PF7z71FxZxACxg7H) | [Damage Is Done](https://open.spotify.com/album/4ZbregcPZjXodJnhlHkzOz) | 3:07 |
+| 42 | [Chilangolandia Truena, Órale.wav](https://open.spotify.com/track/5vyAELammLza7wkXLlFYKS) | [Tssara](https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB) | [Neon Backroads Atlas](https://open.spotify.com/album/0O9iniNA803S0V5MiMic7T) | 1:05 |
+| 43 | [Now & Always](https://open.spotify.com/track/3v8P91WmREhtM0gd624Wzp) | [Turning Violet](https://open.spotify.com/artist/3ewe71DUpDx8WtSSLSQdcZ) | [Steadfast](https://open.spotify.com/album/3wHgurA4Get8a7G8J8AIDf) | 3:21 |
+| 44 | [Murder On The Dancefloor](https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN) | [Die Mannequin](https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C) | [Neon Zero](https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi) | 4:04 |
 | 45 | [What Do I Have To Do](https://open.spotify.com/track/73LC4CEYRAf8Mow3ttyaZ5) | [The Donnas](https://open.spotify.com/artist/2c0qomdZabcCyqTZ5M9msd) | [Bitchin'](https://open.spotify.com/album/5MdCmnnJvtlLNlb8SyeFgE) | 3:07 |
-| 46 | [Now & Always](https://open.spotify.com/track/3v8P91WmREhtM0gd624Wzp) | [Turning Violet](https://open.spotify.com/artist/3ewe71DUpDx8WtSSLSQdcZ) | [Steadfast](https://open.spotify.com/album/3wHgurA4Get8a7G8J8AIDf) | 3:21 |
-| 47 | [Murder On The Dancefloor](https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN) | [Die Mannequin](https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C) | [Neon Zero](https://open.spotify.com/album/2s8cJUWNW5B8Lepl8vTRVi) | 4:04 |
-| 48 | [Ma](https://open.spotify.com/track/1x1jPfOIWW30hO9cdM76kB) | [Oister Boy](https://open.spotify.com/artist/3r4UibzNgSvo1VHuzolC4E) | [Ma](https://open.spotify.com/album/0lnnPWZJcHanOsPMJepY4v) | 4:17 |
-| 49 | [Feast On Scraps](https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ) | [Ecto Peach](https://open.spotify.com/artist/34Z19INtvsj5tkq34q2ViD) | [Middle\-Aged Angst](https://open.spotify.com/album/4IOulmF5vH4DHupllDKuJK) | 4:38 |
-| 50 | [Sunset Strip Fever Dream](https://open.spotify.com/track/6V33utn4JXrYPSdgwdLn7r) | [Tssara](https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB) | [Voltage Across the Afterglow](https://open.spotify.com/album/1G8KPK66i6qpi3l31gFkIM) | 2:00 |
+| 46 | [Ma](https://open.spotify.com/track/1x1jPfOIWW30hO9cdM76kB) | [Oister Boy](https://open.spotify.com/artist/3r4UibzNgSvo1VHuzolC4E) | [Ma](https://open.spotify.com/album/0lnnPWZJcHanOsPMJepY4v) | 4:17 |
+| 47 | [Feast On Scraps](https://open.spotify.com/track/3cz5frNekuhEuyrEe9XPgJ) | [Ecto Peach](https://open.spotify.com/artist/34Z19INtvsj5tkq34q2ViD) | [Middle\-Aged Angst](https://open.spotify.com/album/4IOulmF5vH4DHupllDKuJK) | 4:38 |
+| 48 | [Sunset Strip Fever Dream](https://open.spotify.com/track/6V33utn4JXrYPSdgwdLn7r) | [Tssara](https://open.spotify.com/artist/79OrlQZY0Lw6eA6PgK67AB) | [Voltage Across the Afterglow](https://open.spotify.com/album/1G8KPK66i6qpi3l31gFkIM) | 2:00 |
+| 49 | [Bright Side](https://open.spotify.com/track/1iz0iPGl5wBK440W2ceXFe) | [Kade Lu](https://open.spotify.com/artist/6JA3ES77EuereUknMmj23v) | [Bright Side](https://open.spotify.com/album/4mKVr7ayCeL1JWTYfdf6bk) | 3:25 |
+| 50 | [Bad Medicine](https://open.spotify.com/track/1PQbJ1dzfFfN8tOYKj3KsO) | [Die Mannequin](https://open.spotify.com/artist/4dsQdwx28xN2CRQn39V66C) | [FINO + BLEED](https://open.spotify.com/album/2BhBF3MkIPQiUroerXpjNA) | 3:29 |
 
 Snapshot ID: `AAAAALkTi9BNU1zipOxTuZFqUEHFZ34h`

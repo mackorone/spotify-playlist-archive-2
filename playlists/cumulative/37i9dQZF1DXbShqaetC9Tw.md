@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-287 songs - 16 hr 28 min
+288 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [24](https://open.spotify.com/track/1LndCu88RsOgzZXnZXxnUj) | [OA](https://open.spotify.com/artist/55E6CQnxTfU8UTbqP5yA8A) | [Fly me away](https://open.spotify.com/album/041pTKWjH177Q9LJnxfNiQ) | 3:18 | 2022-04-18 | 2022-07-27 |
 | [3:00 AM](https://open.spotify.com/track/1A9BHea7H07pDnwFpM1yWG) | [Finding Hope](https://open.spotify.com/artist/0QGDb8TBWIT06W4BoyAggg) | [Our Love](https://open.spotify.com/album/5eYV7Hn2OtqnzBGGU8rn9L) | 3:21 | 2025-05-22 |  |
 | [4 Seasons](https://open.spotify.com/track/0pO83HwPbv1XVUt6t02M9X) | [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby) | [4 Seasons](https://open.spotify.com/album/64xSyyzLpiFCfgnGiwmOfX) | 2:31 | 2024-12-05 |  |
+| [4:18 \(NO FEAR IN LOVE\)](https://open.spotify.com/track/4Wg2FStGuHis8jX1ZhEYI0) | [INTHEROOM](https://open.spotify.com/artist/4lrUy1Pzum6ZQL5ZGSKSqs) | [4:18 \(NO FEAR IN LOVE\)](https://open.spotify.com/album/26fDXTKCLxld4Hhp9JnSEx) | 3:35 | 2026-06-29 |  |
 | [A Cicada Sings](https://open.spotify.com/track/318DG7P3tiMZrJ40UPPGxQ) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [EXchange4, Pt\. 11 \(Original Soundtrack\)](https://open.spotify.com/album/5E3XRIzycmxhfF13vqdi9F) | 4:34 | 2026-01-15 | 2026-01-23 |
 | [A Song Nobody Knows](https://open.spotify.com/track/4t2ykHVO5uuUhQLKk55TDx) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/0l2WXPOSbRWAjAOhnONchi) | 4:49 | 2022-04-18 | 2022-07-29 |
 | [A Song Nobody Knows](https://open.spotify.com/track/5HB7KB2HPCex1iOjiZnal7) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [idealism](https://open.spotify.com/album/3Al5AVkcxXux7ZhhEajQiV) | 4:49 | 2022-07-25 | 2024-04-19 |
@@ -119,7 +120,7 @@
 | [Hate this love](https://open.spotify.com/track/216Q6SYsRfTCU5FOZWedT0) | [JERO](https://open.spotify.com/artist/4ZT4Uk077lxYVzmVQhMLE9) | [Hate this love](https://open.spotify.com/album/4IYWYTgPE6Axo41x2G7MjD) | 3:03 | 2022-04-21 | 2022-07-28 |
 | [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 | 2024-03-08 | 2025-05-23 |
 | [HOME](https://open.spotify.com/track/2qZkPTNzuxG9ccHHGTMUeo) | [SEO SANG JUNE](https://open.spotify.com/artist/4xhjiovPR2cE0VUBES3aUx) | [HOME](https://open.spotify.com/album/4jfZZ3egNdJzQTq77uSbHe) | 3:52 | 2022-04-18 | 2022-04-21 |
-| [How could I say](https://open.spotify.com/track/3cM4CLZFoBXmfmbN9KwBxB) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [How could I say](https://open.spotify.com/album/1Nz3qMGOBmQcRfWYHZREHw) | 2:40 | 2024-09-24 |  |
+| [How could I say](https://open.spotify.com/track/3cM4CLZFoBXmfmbN9KwBxB) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [How could I say](https://open.spotify.com/album/1Nz3qMGOBmQcRfWYHZREHw) | 2:40 | 2024-09-24 | 2026-07-09 |
 | [I Said](https://open.spotify.com/track/0wV4K0cM78MbIk0B6b6Y4t) | [BADROOM](https://open.spotify.com/artist/6njP39Dygk8WBwc7gR8Q48), [SAYMA](https://open.spotify.com/artist/75qTVHCc0d43JVKfRrwtsE) | [GOOD BOYS GONE BVD](https://open.spotify.com/album/46yXA9eD43ql1b5BqYlzMw) | 3:12 | 2022-04-18 | 2022-07-26 |
 | [I Said](https://open.spotify.com/track/2J7bMyJ1UBvpaQrn5pkVAd) | [BADROOM](https://open.spotify.com/artist/6njP39Dygk8WBwc7gR8Q48), [SAYMA](https://open.spotify.com/artist/75qTVHCc0d43JVKfRrwtsE) | [GOOD BOYS GONE BVD](https://open.spotify.com/album/527RxfqAfboRNC1OnD3pga) | 3:12 | 2022-07-25 | 2022-08-30 |
 | [i said it](https://open.spotify.com/track/26a0JIitgz3Ut1CNnf2HgW) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt) | [i said it](https://open.spotify.com/album/4Bwf79TKUV0FYcc9e9A3GN) | 2:27 | 2026-06-23 |  |

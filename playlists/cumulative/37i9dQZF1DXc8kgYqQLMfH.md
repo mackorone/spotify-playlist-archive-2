@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,328 songs - 2 day 2 hr 47 min
+1,329 songs - 2 day 2 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Cool Veranda](https://open.spotify.com/track/6Tz3BXjsmOdMMMZ5z5wj4J) | [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy), [Last Memories](https://open.spotify.com/artist/3UHYSVL2r6kB0niINk2097) | [Cool Veranda](https://open.spotify.com/album/0Oim64ZqmSmNXnp9JT3ppf) | 2:38 | 2022-07-08 | 2023-09-22 |
 | [Cooldown](https://open.spotify.com/track/7F1LFRHNnaAG14SxhRVJ9i) | [Sorsele](https://open.spotify.com/artist/2tTcT2ddh1bHSEsdLjLfpw) | [Slowly](https://open.spotify.com/album/0176EEPWJGAUTmjeetjYej) | 2:26 | 2023-03-01 | 2024-07-13 |
 | [Coral](https://open.spotify.com/track/4KTacnNgzYUSjzPfmqqrQZ) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Coral](https://open.spotify.com/album/1CtmsVkkERDvQVUEbDU7bQ) | 2:19 | 2026-02-06 | 2026-05-16 |
+| [coral night](https://open.spotify.com/track/5rlazXeH3ZsW1Uk7D1TCJb) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [coral night](https://open.spotify.com/album/0Tju0cd3KK5gQBJTuLmwKF) | 2:15 | 2026-07-02 |  |
 | [Corduroy](https://open.spotify.com/track/4pPAER0KcKtRCMnCHWEEVj) | [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q), [Spaniel Mac](https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30) | [Corduroy](https://open.spotify.com/album/4SLKIYowg7nmsYylxIhWmB) | 1:52 | 2022-08-19 | 2023-03-18 |
 | [cosmic](https://open.spotify.com/track/4oYH2FzH0vV1R3Df7MtaLi) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:36 | 2021-11-10 | 2022-06-10 |
 | [Cosmos](https://open.spotify.com/track/00TdtTQPE8qA8wprZHfHLo) | [L.O.F.I](https://open.spotify.com/artist/2DikRUY57gNUtzrnk5NUxh) | [Elephant Soul](https://open.spotify.com/album/672sDweJIxHJ8hlvd7BwEz) | 2:06 | 2023-03-01 | 2026-04-25 |
@@ -1102,7 +1103,7 @@
 | [Street Dweller](https://open.spotify.com/track/1Lc5NGQ2hLpilvDo0cDiZn) | [London Lighthouse](https://open.spotify.com/artist/7lwpTjhIayZY8VCuUJHZKt) | [Street Dweller](https://open.spotify.com/album/2X0HZ9Nt5w3GjaNE2mu66r) | 2:16 | 2022-12-16 | 2025-07-16 |
 | [Street Window](https://open.spotify.com/track/5OnOCfUbfMAgilTGZUPabd) | [Cloudroom](https://open.spotify.com/artist/6x4p39bu2ObskR6pMFFh6Z) | [Street Window](https://open.spotify.com/album/0zxr1wsSAjkmvie0QHATuo) | 2:06 | 2025-11-05 |  |
 | [Strictly Loose](https://open.spotify.com/track/2U4r3gFf9R0hLDts0580Qx) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [Strictly Loose](https://open.spotify.com/album/2PcjZfTCPyXwlUGohddzCA) | 2:16 | 2023-04-27 | 2025-07-16 |
-| [Stupendo](https://open.spotify.com/track/2gnWPEE1fkJ0xBgAbQVeZs) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK) | [Stupendo](https://open.spotify.com/album/5O8Ex4wTyJqWyDzyH83wbD) | 2:05 | 2026-04-24 |  |
+| [Stupendo](https://open.spotify.com/track/2gnWPEE1fkJ0xBgAbQVeZs) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK) | [Stupendo](https://open.spotify.com/album/5O8Ex4wTyJqWyDzyH83wbD) | 2:05 | 2026-04-24 | 2026-07-09 |
 | [Stussy](https://open.spotify.com/track/0OjvOvXXEaWpWP3J8hfwKk) | [Kuma](https://open.spotify.com/artist/0suxEENL0L6anpzBRc8IeB) | [Stussy](https://open.spotify.com/album/36q17oo5LpxFExpzshZ1Vx) | 2:46 | 2022-12-23 |  |
 | [Suburbia Drive](https://open.spotify.com/track/57P3uC190Yc9VYmaHeMEqO) | [Hector Mazza](https://open.spotify.com/artist/3ceaS5uC2QpuBHUwmfZ5wX) | [Suburbia Drive](https://open.spotify.com/album/34uScT0otY4ovm3BLlYeTC) | 1:18 | 2021-11-10 | 2022-06-10 |
 | [Sudden Change](https://open.spotify.com/track/5Afsgt5QEt2aKPRplLfr6T) | [Lonely Joyman](https://open.spotify.com/artist/4UZYBPHjHcnzMuyBFMFaWn) | [A Bit of Colour](https://open.spotify.com/album/0crbtKJilhMawp13NZej5d) | 1:53 | 2023-09-29 | 2025-07-16 |

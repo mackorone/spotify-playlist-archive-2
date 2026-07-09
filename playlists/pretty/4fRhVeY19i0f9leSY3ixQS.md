@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 
 > The NEW radio! Huge playlist to brighten long days, from all genres\. Shuffle it! New music added daily :\) www.avondalerecords.com
 
-[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,454 likes - 238 songs - 13 hr 14 min
+[Avondale Records](https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq) - 1,457 likes - 242 songs - 13 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,11 +240,15 @@ pretty - [cumulative](/playlists/cumulative/4fRhVeY19i0f9leSY3ixQS.md) - [plain]
 | 230 | [torture](https://open.spotify.com/track/4zQ2PDEo5KNwWKVi4ckSvM) | [elkwood](https://open.spotify.com/artist/0kU44eTQcy7rywibEuEDFu) | [torture](https://open.spotify.com/album/0PJPJl6yV8qWoDxNqqPdKG) | 3:22 |
 | 231 | [For Your Life](https://open.spotify.com/track/2bu3gjo8vECrEA18EEoUpV) | [TeethOut](https://open.spotify.com/artist/1zbyrACN47gprz5q97evPl) | [Straight x Teeth](https://open.spotify.com/album/27RW6z7zpfXf1Kd0u3Q0nI) | 2:37 |
 | 232 | [Stay Strong](https://open.spotify.com/track/786r3M66JjV31as4xj2UJT) | [Linear Television](https://open.spotify.com/artist/7qUePVdi85X7qkMtXPEXO2) | [Sandy Beach](https://open.spotify.com/album/0oYFz1J8RXu7xJQqDSIbJk) | 2:11 |
-| 233 | [DLMG \(Don't Let Me Go\)](https://open.spotify.com/track/4JJ5KsO8YKpQ97bKzCrMQK) | [Dreamcult](https://open.spotify.com/artist/5GiPnsVJ0mGjr2u2Pfv0pG) | [DLMG \(Don't Let Me Go\)](https://open.spotify.com/album/5kLOgVjX0h3vpPVA2u9JWL) | 4:18 |
-| 234 | [Petrified](https://open.spotify.com/track/47xGJKUnfW3k7xawmS5BME) | [Tommy Red](https://open.spotify.com/artist/1TCvvfxmq6fFGLDCCPqzdv), [suisside](https://open.spotify.com/artist/79oXnSqjYH5WW260RhSHzZ) | [Petrified](https://open.spotify.com/album/4HY8V4x2MMV7ONhXrSpI59) | 2:56 |
-| 235 | [Merula](https://open.spotify.com/track/6Zk3cIezRFEyI8699OUGpN) | [Alucuo](https://open.spotify.com/artist/6Prfi240kavl9FH0KZb0VE) | [Merula](https://open.spotify.com/album/4wCfPKK8IHafnFdJzOlU4M) | 5:05 |
-| 236 | [Fading Light](https://open.spotify.com/track/68aMAO3yvXjoY8PqDcan8G) | [KATOEN](https://open.spotify.com/artist/5ziGS8hqIWxdeEeuWTJ56S) | [Fading Light](https://open.spotify.com/album/2ATtp0zMz390C5I9a2blYm) | 3:52 |
-| 237 | [Let My Baby Stay](https://open.spotify.com/track/3fucks369lM9O6dw6lnnf5) | [Charlie Sly](https://open.spotify.com/artist/4qvTP5uRYPsE9qHJHgDrKr) | [Let My Baby Stay](https://open.spotify.com/album/3qrARgUUVK9MErlONMJY19) | 4:38 |
-| 238 | [WHEN HORNS COLLIDE](https://open.spotify.com/track/2RJGiNCsB6ge2gpvWjXZG9) | [Scalise Family Sheep Farm LLC](https://open.spotify.com/artist/3zmrjlVE43VuCVaCsrc6LB) | [Pasture of the Fallen](https://open.spotify.com/album/5AEmyPIlyqMZpCMBZCS6mH) | 4:19 |
+| 233 | [Taken By The Tide](https://open.spotify.com/track/4JcrCz44ViEoiYvTrSs94i) | [Demichron](https://open.spotify.com/artist/6NMYSnWscxdZZkjttaRgyp) | [Merge Conflict](https://open.spotify.com/album/1sFAyJrEIwmtgl0F2Ar6cT) | 4:51 |
+| 234 | [DLMG \(Don't Let Me Go\)](https://open.spotify.com/track/4JJ5KsO8YKpQ97bKzCrMQK) | [Dreamcult](https://open.spotify.com/artist/5GiPnsVJ0mGjr2u2Pfv0pG) | [DLMG \(Don't Let Me Go\)](https://open.spotify.com/album/5kLOgVjX0h3vpPVA2u9JWL) | 4:18 |
+| 235 | [Petrified](https://open.spotify.com/track/47xGJKUnfW3k7xawmS5BME) | [Tommy Red](https://open.spotify.com/artist/1TCvvfxmq6fFGLDCCPqzdv), [suisside](https://open.spotify.com/artist/79oXnSqjYH5WW260RhSHzZ) | [Petrified](https://open.spotify.com/album/4HY8V4x2MMV7ONhXrSpI59) | 2:56 |
+| 236 | [Merula](https://open.spotify.com/track/6Zk3cIezRFEyI8699OUGpN) | [Alucuo](https://open.spotify.com/artist/6Prfi240kavl9FH0KZb0VE) | [Merula](https://open.spotify.com/album/4wCfPKK8IHafnFdJzOlU4M) | 5:05 |
+| 237 | [Fading Light](https://open.spotify.com/track/68aMAO3yvXjoY8PqDcan8G) | [KATOEN](https://open.spotify.com/artist/5ziGS8hqIWxdeEeuWTJ56S) | [Fading Light](https://open.spotify.com/album/2ATtp0zMz390C5I9a2blYm) | 3:52 |
+| 238 | [Let My Baby Stay](https://open.spotify.com/track/3fucks369lM9O6dw6lnnf5) | [Charlie Sly](https://open.spotify.com/artist/4qvTP5uRYPsE9qHJHgDrKr) | [Let My Baby Stay](https://open.spotify.com/album/3qrARgUUVK9MErlONMJY19) | 4:38 |
+| 239 | [WHEN HORNS COLLIDE](https://open.spotify.com/track/2RJGiNCsB6ge2gpvWjXZG9) | [Scalise Family Sheep Farm LLC](https://open.spotify.com/artist/3zmrjlVE43VuCVaCsrc6LB) | [Pasture of the Fallen](https://open.spotify.com/album/5AEmyPIlyqMZpCMBZCS6mH) | 4:19 |
+| 240 | [BLEED \- Single Version](https://open.spotify.com/track/6OOhnKmVu1YxR8IKPOqpbf) | [Condition Baker](https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu) | [BLEED](https://open.spotify.com/album/1HUACNh5N6FCKrsQcOzTya) | 2:53 |
+| 241 | [One Of Us](https://open.spotify.com/track/2kbs4GfD8D08oD5ioBebsw) | [American Thought Criminals](https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk) | [Bored of Peace](https://open.spotify.com/album/1tGsbzN0VFgvH6dZ0TR8OC) | 1:35 |
+| 242 | [Лимб](https://open.spotify.com/track/3UuVViHiKIXIp3cirpT1mO) | [Tears of Neman](https://open.spotify.com/artist/37AneoPhmrrV1jYYM3hDF0), [Схизма](https://open.spotify.com/artist/0CCncp6iv6X5sYab5bClU7) | [Лимб](https://open.spotify.com/album/3Mf1IEwA32WKysNfL6hHou) | 4:06 |
 
-Snapshot ID: `AAART2I2FArWvmhZ/oqnByew1LnMMBBK`
+Snapshot ID: `AAARU4zQgnfbRp43MDuZvmxIkvbxMxD/`

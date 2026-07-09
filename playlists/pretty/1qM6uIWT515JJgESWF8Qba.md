@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 504 likes - 82 songs - 5 hr 16 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 504 likes - 83 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,5 +90,6 @@ pretty - [cumulative](/playlists/cumulative/1qM6uIWT515JJgESWF8Qba.md) - [plain]
 | 80 | [En tus ojos](https://open.spotify.com/track/5YFyngCxUk1kQhBBzuOMUC) | [Leandro Rebolini](https://open.spotify.com/artist/76nuTtg8t7JqzjcZ12NbPI) | [En tus ojos](https://open.spotify.com/album/5e1vAwbN5xGXOBallsu7cL) | 4:11 |
 | 81 | [A Million Miles Away](https://open.spotify.com/track/4rU2hKYGURP7h18SYQ0Nzf) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [A Million Miles Away](https://open.spotify.com/album/5NNokKgXWExS1Pu54fIJ6G) | 7:12 |
 | 82 | [Playing with Fire](https://open.spotify.com/track/2CLoPYyFM3abS0VtBRCLAk) | [ARMAGELION](https://open.spotify.com/artist/4SbqNuXLiu8IFt1RdIDtia) | [Playing with Fire](https://open.spotify.com/album/2DD97DuvevrjwdSIiQlH1B) | 3:13 |
+| 83 | [Glorious](https://open.spotify.com/track/1mAJOvqasn4SzRgqvdmF52) | [Darius Zaltash](https://open.spotify.com/artist/6nL6fYu8ysN6yayyT24xgo) | [Glorious](https://open.spotify.com/album/4o0dKj5YGNJX3NmM8SPY1g) | 3:35 |
 
-Snapshot ID: `AAACAF77jdF4UjNb41J2xEySVs0SP3Bo`
+Snapshot ID: `AAACAeCsmu/04mTsUAdBeXlmw0inf66E`

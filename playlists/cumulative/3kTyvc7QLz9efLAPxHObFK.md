@@ -4,7 +4,7 @@
 
 > 
 
-3,131 songs - 6 day 17 hr 20 min
+3,132 songs - 6 day 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3132,6 +3132,7 @@
 | [Your Reckoning](https://open.spotify.com/track/0Nm46hcueZdSXUu0uPxn8c) | [Fatal](https://open.spotify.com/artist/72O0p01zj5PHBGJjDnb1Bi), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [Your Reckoning](https://open.spotify.com/album/6O5jxylIZLh11Qv2Ga2kav) | 3:37 | 2025-12-16 |  |
 | [YOUR SOUL IS MINE](https://open.spotify.com/track/6eKXwPCbyeSfa7vD7e23YG) | [Flinke Herrie](https://open.spotify.com/artist/2zASDu4ug3FvTxk93z1xuv), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [YOUR SOUL IS MINE](https://open.spotify.com/album/6fqhxUbHra3KcfBJYPFE4t) | 3:06 | 2025-12-16 |  |
 | [YUNG BRATZ](https://open.spotify.com/track/5j2OvVayElK063X3Nqbs7y) | [PEYGAN](https://open.spotify.com/artist/7Gatqa2VVX586jcYiIVJg9), [Flinke Herrie](https://open.spotify.com/artist/2zASDu4ug3FvTxk93z1xuv) | [YUNG BRATZ](https://open.spotify.com/album/7srDM0em7muBR8F70nK3Ub) | 1:49 | 2026-02-27 |  |
+| [Zero Gravity](https://open.spotify.com/track/4oAccL4fsCtHrVl0V3NXEe) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Zero Gravity](https://open.spotify.com/album/3zBWHqFiEWRbITsRt7g5Ny) | 2:16 | 2026-07-08 |  |
 | [Zombie \(20th year edition\)](https://open.spotify.com/track/07JpAoZwnQJYZRPm9aCBEA) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Markos 13](https://open.spotify.com/artist/0iSjEHmkrsVB5ZynQyS2A9), [DJ Ruboy](https://open.spotify.com/artist/47YQvtHo5cn0S4j07Umw1t) | [Zombie \(20th year edition\)](https://open.spotify.com/album/45qBxGaC5AOyIosZ7OBIhx) | 4:26 | 2022-10-30 |  |
 | [Zombie Nation](https://open.spotify.com/track/28p8D5MFCUPjLO7xfybSqT) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [Zombie Nation](https://open.spotify.com/album/7MlmX8r4WQ4U1HmaSu2mVU) | 2:29 | 2024-03-02 |  |
 | [Zombies](https://open.spotify.com/track/4Qm3Kr4YmiTKl0VscgcDZA) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [Game On \(The Album\)](https://open.spotify.com/album/2fqlAi4hK8m8PNZ6XZLyXR) | 2:46 | 2026-02-13 |  |

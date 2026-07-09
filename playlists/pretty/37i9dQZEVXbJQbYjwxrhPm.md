@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,822 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,826 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [OPA OPA](https://open.spotify.com/track/7Lnx7UuA0rf3o8G0VtZzP5) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ) | [OPA OPA](https://open.spotify.com/album/0ZZmC1h1GQoAQuK0DGjCod) | 3:24 |
 | 50 | [Sagapao](https://open.spotify.com/track/7yzBvfSvVmzncg4y7CzeB1) | [Dara Ekimova](https://open.spotify.com/artist/1ow8YzLZ6aRPqE2zev82sa), [Iskrata](https://open.spotify.com/artist/4BgNISEfw70NKXHb9lIB8O) | [Sagapao](https://open.spotify.com/album/51t6vPR3S4p2JJTS6nqT5Z) | 3:08 |
 
-Snapshot ID: `MeBroAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MeG/eAAAAAAAAAAAAAAAAAAAAAAAAGVu`

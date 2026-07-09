@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3iu1uE.md) - [plain]
 
 > This is X\-Ray Spex\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,757 likes - 16 songs - 44 min 12 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,758 likes - 16 songs - 44 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

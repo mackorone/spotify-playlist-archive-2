@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Daryl Coley, Walter Hawkins, Tramaine Hawkins and more
+> With Kurt Carr & The Kurt Carr Singers, Daryl Coley, Walter Hawkins and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 412 likes - 50 songs - 5 hr 4 min
 

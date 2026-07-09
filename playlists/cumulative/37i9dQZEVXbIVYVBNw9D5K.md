@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-1,604 songs - 3 day 8 hr 28 min
+1,605 songs - 3 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,7 @@
 | [Butter](https://open.spotify.com/track/2bgTY4UwhfBYhGT4HUYStN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Hotter, Sweeter, Cooler\)](https://open.spotify.com/album/1HnJKmB4P6Z8RBdLMWx18w) | 2:44 | 2021-06-10 | 2021-07-12 |
 | [Butter](https://open.spotify.com/track/3VqeTFIvhxu3DIe4eZVzGq) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:44 | 2021-05-23 | 2021-06-10 |
 | [Butter \(Instrumental\)](https://open.spotify.com/track/1e0Wxoraz9IzFhREDqgJAe) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter](https://open.spotify.com/album/2BDhPi2XCYujYxU6VM0QaD) | 2:42 | 2021-05-30 | 2021-06-01 |
-| [BYE](https://open.spotify.com/track/7y96ZlDK5dsa5bVP29BrHO) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [PASAJ](https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M) | 2:53 | 2026-06-20 |  |
+| [BYE](https://open.spotify.com/track/7y96ZlDK5dsa5bVP29BrHO) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS) | [PASAJ](https://open.spotify.com/album/1Z8g0yHfmg7xlXtHVtZw1M) | 2:53 | 2026-06-20 | 2026-07-09 |
 | [BYE BYE](https://open.spotify.com/track/63tBXIkHpGP99Powr8UxBv) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [MI AMOR](https://open.spotify.com/album/5IDKwTjvOuxO2PQThAAc7y) | 2:43 | 2025-12-19 | 2026-04-23 |
 | [Bölüm Sonu](https://open.spotify.com/track/1W7vixv87ysuAoOKzz0uLE) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Bölüm Sonu](https://open.spotify.com/album/4FmJuyC3gwgYdbrcOU4ar0) | 2:41 | 2023-08-26 | 2023-10-07 |
 | [Böyle Sever](https://open.spotify.com/track/7hU3H2id2pBVawD7e3zd8N) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [19](https://open.spotify.com/album/3lQ0IrxVzM4Bn6BI6gcQMj) | 4:04 | 2024-12-03 | 2025-10-03 |
@@ -451,6 +451,7 @@
 | [Diyardan Diyara](https://open.spotify.com/track/7Ebb2WheOGGauCH2wuQB55) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Arem Ozguc](https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J), [Arman Aydin](https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf) | [Diyardan Diyara](https://open.spotify.com/album/5fKySH2Y7Q2LYl0QrGtudP) | 2:29 | 2022-12-24 | 2023-09-23 |
 | [Dizine Dursun](https://open.spotify.com/track/5D3d3gyObvrjzDn65VF9XG) | [Yıldız Tilbe](https://open.spotify.com/artist/4525TiJDbBD4mZJ7EZArT0) | [Dizine Dursun](https://open.spotify.com/album/75zxWh0ljui9PZLZucez3A) | 2:33 | 2023-10-25 | 2023-12-06 |
 | [Diğer Yarım](https://open.spotify.com/track/38QSynLcDBfbETORhSsssH) | [ATE](https://open.spotify.com/artist/1gta8KxWev006kmzUCM0a5) | [Diğer Yarım](https://open.spotify.com/album/6BUUNt9guUeWxBEh8veuNj) | 2:22 | 2022-07-09 | 2023-06-11 |
+| [Diğer Yarım](https://open.spotify.com/track/1bnFgbm6n4r8dOfeYiXlgV) | [Murat Göğebakan](https://open.spotify.com/artist/2TUYtKan3NuDy9JexzL4db) | [Yaralı](https://open.spotify.com/album/0xMRhOxGC7NtKKkfx9Lcw8) | 2:57 | 2026-07-08 |  |
 | [Dokunan Yanar](https://open.spotify.com/track/7LDAa5ZNwnEnLqheWiHatr) | [Sagopa Kajmer](https://open.spotify.com/artist/1KXTegXtnCPKXjRaX1llcD) | [Kağıt Kesikleri](https://open.spotify.com/album/6z02Z4aAPIvWgfI88xw1af) | 4:07 | 2022-06-04 | 2022-06-06 |
 | [Doldum](https://open.spotify.com/track/2qhX5pAKoF3lxG86HIEPSd) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [Doldum](https://open.spotify.com/album/1RmqOXc2gWpxvieP7tfeav) | 2:26 | 2024-11-30 | 2025-01-05 |
 | [Doldum](https://open.spotify.com/track/6hCHw8elq1VAKPKeBConpJ) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [2024 Bootleg](https://open.spotify.com/album/2gHBAriairZLVMKT4yn0Mo) | 2:26 | 2025-01-04 | 2025-02-03 |

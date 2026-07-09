@@ -4,7 +4,7 @@
 
 > 
 
-2,420 songs - 5 day 10 hr 10 min
+2,422 songs - 5 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -745,6 +745,7 @@
 | [Fiddle Bump](https://open.spotify.com/track/0h5Aq8eFm0tw04KxTBaUM4) | [38Kea](https://open.spotify.com/artist/3BVybFxC0U2uT6B3hmm78W) | [Holograms Cascade](https://open.spotify.com/album/1i7gBS1LYLhTPI4GeElsxh) | 1:41 | 2022-04-03 |  |
 | [Fight & Fuck](https://open.spotify.com/track/0N4HwcrxdpS4lCclpYZChm) | [BigKlit](https://open.spotify.com/artist/0POkErJcpuhWNnCXAhgJoZ) | [Klitorius B.I.G.](https://open.spotify.com/album/4uM0wAnd3GYjuGrWwdhF46) | 2:03 | 2021-08-05 |  |
 | [Fighter](https://open.spotify.com/track/7oMVBM1xAwavu697KyBQUY) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Cheeseburger Family / Fighter](https://open.spotify.com/album/45WofTIygcH2QIJq07lMy1) | 4:04 | 2021-08-05 |  |
+| [FILLE](https://open.spotify.com/track/3rqyWkpY4Qx3HVsryAOcFu) | [Cannelle](https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg) | [FILLE](https://open.spotify.com/album/1reg9VJhlIsm3n9ZthHW2Q) | 2:08 | 2026-07-08 |  |
 | [Fine Night](https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fine Night](https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn) | 2:41 | 2025-06-20 |  |
 | [Fine Night](https://open.spotify.com/track/6UeUyaI0Mg6YVrleDiUzdG) | [Goreshit](https://open.spotify.com/artist/2UyOnfaE8nWXKPwYQyp2La) | [gnb](https://open.spotify.com/album/5KWDHBSc9h4QkMTG2XS0Lz) | 5:16 | 2022-02-04 |  |
 | [Fingerbib](https://open.spotify.com/track/3kbaZC3FZTecvlSR67Sr19) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/43s2fKRQsOSB6rSrxtAXKK) | 3:48 | 2022-02-04 |  |
@@ -1196,6 +1197,7 @@
 | [Krystle \- URL Cyber Palace Mix](https://open.spotify.com/track/4kJHxSrzUA9qmYGU6fDHk3) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Wlfgrl](https://open.spotify.com/album/1xbcqJ0EAMxyGyffMzO8rL) | 3:36 | 2022-06-02 |  |
 | [Kung Fu Fighting](https://open.spotify.com/track/40NRm1ZLvZpUSCUXAGGZ8J) | [Carl Douglas](https://open.spotify.com/artist/5Pqx4mXYDGIDcg8E5FYjZ8) | [The Soul of the Kung Fu Fighter](https://open.spotify.com/album/7wA3s9ug9RoJXi9qGQbSjX) | 3:17 | 2021-08-05 |  |
 | [L\-ON\-D\-ON](https://open.spotify.com/track/2s3eULWxfvrkca7qcZWXnp) | [Bassvictim](https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM) | [Basspunk](https://open.spotify.com/album/4Ru8u9idKX3t67U7xCf5QA) | 3:08 | 2025-01-02 |  |
+| [L.U.C.K.Y](https://open.spotify.com/track/1KoTSKG0vs2vbzMvrbpWjp) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:18 | 2026-07-08 |  |
 | [La Faldita](https://open.spotify.com/track/5Bwhfe4IxT0galIMg5H1tr) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [Pochi y Su Cocoband](https://open.spotify.com/album/1c33wKqcyVscGFJpY5jGPL) | 3:50 | 2026-02-13 |  |
 | [La Mamá de la Mamá](https://open.spotify.com/track/4zTSSrtsaVVjT3RZKQ1Gqn) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [SAGITARIO](https://open.spotify.com/album/4GlriazgsYPXES2XYkb4gb) | 3:39 | 2024-10-24 |  |
 | [LA MuDANZA](https://open.spotify.com/track/3G7agPwWfcORnWCAGMDOpm) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:33 | 2025-01-10 |  |

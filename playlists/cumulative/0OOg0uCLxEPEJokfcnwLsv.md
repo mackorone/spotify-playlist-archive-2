@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-572 songs - 1 day 11 hr 25 min
+574 songs - 1 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Girl in the sky](https://open.spotify.com/track/1cG8dKgKpi4q51qYPkUfIW) | [The Larlocks](https://open.spotify.com/artist/3ZoHqGfiZBctXNyEUhj51u) | [Girl in the sky](https://open.spotify.com/album/2ED0TomZXJLUNusgKIgqSA) | 4:32 | 2026-01-31 | 2026-02-23 |
 | [GIVE ME A LITTLE SOMETHING](https://open.spotify.com/track/31g6LI5FcZIg8qtwJu9adO) | [Whiskey South](https://open.spotify.com/artist/3FW9jdn2u4rDfo73WkfLsk) | [GIVE ME A LITTLE SOMETHING](https://open.spotify.com/album/3EQVs1LxN2BAc1rSHHp9iB) | 2:49 | 2026-01-29 | 2026-02-23 |
 | [Give Me A Shout](https://open.spotify.com/track/3zIZ8fu1beiuWwybBLB3Pc) | [SINEAD](https://open.spotify.com/artist/1W8hGPWp51WM8s8abI0B94) | [Ixora](https://open.spotify.com/album/31b85ZfTbz5OsrILSlerVR) | 3:12 | 2026-06-15 |  |
+| [Glorious](https://open.spotify.com/track/1mAJOvqasn4SzRgqvdmF52) | [Darius Zaltash](https://open.spotify.com/artist/6nL6fYu8ysN6yayyT24xgo) | [Glorious](https://open.spotify.com/album/4o0dKj5YGNJX3NmM8SPY1g) | 3:35 | 2026-07-08 |  |
 | [Glory Box](https://open.spotify.com/track/5JpTSv8YWDetex23Shl9Q4) | [Fifth Hour](https://open.spotify.com/artist/7rvBM6eUko39V8tWcecJJY) | [Glory Box](https://open.spotify.com/album/0DGdhDeY6oBFQY4uWOWVjB) | 3:17 | 2025-10-17 | 2026-06-13 |
 | [Goin Down The Hiway \- VIP Edit](https://open.spotify.com/track/7upLHhu8ike2dPbWGt4KvY) | [Bruce Derby](https://open.spotify.com/artist/3L7v52f5rkuzgDWI2BIhJl) | [Goin Down The Hiway \(VIP Edit\)](https://open.spotify.com/album/5A0qlHzP41G9QuvvJNVmZu) | 3:25 | 2026-01-24 | 2026-02-23 |
 | [Gone Awry](https://open.spotify.com/track/2We4lOzgkM0uYxZocdXFxi) | [Giovanna](https://open.spotify.com/artist/0M3Vi97ia6awVNTvokryET) | [Gone Awry](https://open.spotify.com/album/5b50EagpfyNurHOndqK3v5) | 3:52 | 2026-05-21 |  |
@@ -449,6 +450,7 @@
 | [Step Back](https://open.spotify.com/track/6M2aKsUboctabwZD4BnIpZ) | [Josiah Lee](https://open.spotify.com/artist/5JzpGMc1evn1FQqFSN5ba0) | [Step Back](https://open.spotify.com/album/4AsC6gnDD0rAQnWmgVe7dv) | 4:11 | 2026-01-03 | 2026-02-04 |
 | [Still Here](https://open.spotify.com/track/5DaMgetKGZ1PFvLUcv9NiY) | [Gizem Demirhan](https://open.spotify.com/artist/1E0M9BtLjPMUurgqUqpi7o) | [Still Here](https://open.spotify.com/album/6k7m9nMvk7dJVqW00aoWaz) | 3:48 | 2025-12-13 | 2026-01-05 |
 | [Stockholm Syndrome](https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR) | [Arnold Alaniz](https://open.spotify.com/artist/0Ma0R8ZNejeGKEI4YMnVll) | [Stockholm Syndrome](https://open.spotify.com/album/4LFyHeD7q5FruRYXWW0WuB) | 3:17 | 2025-12-20 | 2026-01-21 |
+| [Stolen Youth](https://open.spotify.com/track/5L1ZtnPyztBReHpcSDhynz) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Stolen Youth](https://open.spotify.com/album/60sXsHPRz2Muij3B3NXeee) | 3:36 | 2026-07-08 |  |
 | [Stone](https://open.spotify.com/track/6AbB4SLDajR2skDmAs5lVc) | [Graveyard Choir](https://open.spotify.com/artist/0RtF7RdYO3Jfhmw0JQSmX2) | [Stone](https://open.spotify.com/album/4ieLV6fk5MkrgRcgeQWkO8) | 3:57 | 2026-06-02 |  |
 | [Stop the Bleed](https://open.spotify.com/track/6SRtsdb5b1XfiQZo3vOBL1) | [Dreamer](https://open.spotify.com/artist/5LTRsVTTIAo7vGHEEzzACU) | [Stop the Bleed](https://open.spotify.com/album/5frACqlScmLdqmPv3sB7nT) | 5:24 | 2026-03-18 | 2026-04-20 |
 | [Strange Addiction](https://open.spotify.com/track/1J1SHqJbS4ejLSvjdJph5W) | [Taylor D](https://open.spotify.com/artist/6EYjKhsmEVEBEvyvtta5sg) | [Strange Addiction](https://open.spotify.com/album/0dWEaFnP8w5QS60vyeBm2R) | 4:15 | 2025-09-11 |  |

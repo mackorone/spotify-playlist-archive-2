@@ -91,6 +91,6 @@
 | [White Wedding \(Lullaby Rendition\)](https://open.spotify.com/track/6ajNmJQdPqtqyqYktONYce) | [Jammy Jams](https://open.spotify.com/artist/6dnGWqFchmCpwCE47YtG7d) | [Rock the Cradle: A Lullaby Tribute to Billy Idol](https://open.spotify.com/album/5sZMZrDEfxx4exlu92twRH) | 4:57 | 2021-04-23 |  |
 | [Wonderwall](https://open.spotify.com/track/5DyPMHoYMDLtpNSwmqVjrZ) | [Twinkle Twinkle Little Rock Star](https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d) | [Lullaby Versions of Oasis](https://open.spotify.com/album/7kAOsKTPgypDXxAOp2AEZM) | 4:09 | 2021-04-23 |  |
 | [You Give Love a Bad Name](https://open.spotify.com/track/5hQBDUuTDapmvGhAWjxcgt) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Bon Jovi](https://open.spotify.com/album/6E8ta9hmuGzvn0dWvCsl3i) | 2:53 | 2021-04-23 |  |
-| [You Shook Me All Night Long](https://open.spotify.com/track/76tGAhKu2qVl9c6GT0bnri) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of Ac/Dc](https://open.spotify.com/album/6gCLDzIvpTwlVlel71zTmm) | 3:57 | 2021-04-23 |  |
+| [You Shook Me All Night Long](https://open.spotify.com/track/76tGAhKu2qVl9c6GT0bnri) | [Rockabye Baby!](https://open.spotify.com/artist/5bHjVR4F2Tfq4Ha6x7K6wU) | [Lullaby Renditions of AC/DC](https://open.spotify.com/album/6gCLDzIvpTwlVlel71zTmm) | 3:57 | 2021-04-23 |  |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

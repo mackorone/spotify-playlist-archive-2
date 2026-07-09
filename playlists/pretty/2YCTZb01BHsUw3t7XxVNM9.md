@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore&\#x2F;Hardstyle Music by Japanese Artists \(L.U\. 26.06.01\)
 
-[SONGBIRD\-CN](https://open.spotify.com/user/megustager) - 908 likes - 554 songs - 1 day 13 hr 56 min
+[SONGBIRD\-CN](https://open.spotify.com/user/megustager) - 909 likes - 554 songs - 1 day 13 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

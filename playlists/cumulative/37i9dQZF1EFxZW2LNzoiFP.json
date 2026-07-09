@@ -2276,6 +2276,24 @@
     {
       "album": {
         "name": "Hideaway",
+        "url": "https://open.spotify.com/album/4z4B2NEV5GS1rWCD5wzkWZ"
+      },
+      "artists": [
+        {
+          "name": "Hanah",
+          "url": "https://open.spotify.com/artist/1W3dMFlEIR5ZSZyaK7Ox5C"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242545,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/5OgtItBTAEr6dusIMcYx3D"
+    },
+    {
+      "album": {
+        "name": "Hideaway",
         "url": "https://open.spotify.com/album/2etUxQYwcWRglGBTSGKYCY"
       },
       "artists": [
@@ -3676,6 +3694,24 @@
       "duration_ms": 232371,
       "name": "Open House",
       "url": "https://open.spotify.com/track/1JDkCStrVPtg6Ni8Z1L3TR"
+    },
+    {
+      "album": {
+        "name": "Out Of Touch",
+        "url": "https://open.spotify.com/album/2B8miFYM7u3Zrt6BGYYYvB"
+      },
+      "artists": [
+        {
+          "name": "Hanah",
+          "url": "https://open.spotify.com/artist/1W3dMFlEIR5ZSZyaK7Ox5C"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199306,
+      "name": "Out Of Touch",
+      "url": "https://open.spotify.com/track/2oVI71dbwTzyo2dBoMQgFS"
     },
     {
       "album": {

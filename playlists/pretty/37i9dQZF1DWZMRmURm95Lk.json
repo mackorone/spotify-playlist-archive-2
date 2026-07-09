@@ -1,6 +1,6 @@
 {
   "description": "Beat e rime, oggi come una volta. Claver Gold in cover.",
-  "num_followers": 48972,
+  "num_followers": 48966,
   "original_name": "Radici Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Background",
+        "url": "https://open.spotify.com/album/0NKoKgs3m07qV70CTBjv72"
+      },
+      "artists": [
+        {
+          "name": "Bassi Maestro",
+          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
+        }
+      ],
+      "duration_ms": 304066,
+      "name": "S.I.C.",
+      "url": "https://open.spotify.com/track/73PGxHOmukjSv5fLHvRqkJ"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "VOCE e BATTERIA",
         "url": "https://open.spotify.com/album/3kIyF4C1xQlE3M8Q2GvpL2"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 168593,
       "name": "Pedala e batteria (feat. Jovanotti)",
       "url": "https://open.spotify.com/track/7xRWsfn9x3gVhYQdIXjae3"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Background",
-        "url": "https://open.spotify.com/album/0NKoKgs3m07qV70CTBjv72"
-      },
-      "artists": [
-        {
-          "name": "Bassi Maestro",
-          "url": "https://open.spotify.com/artist/4sQiXz6GYok2zyqMSHG0MX"
-        }
-      ],
-      "duration_ms": 304066,
-      "name": "S.I.C.",
-      "url": "https://open.spotify.com/track/73PGxHOmukjSv5fLHvRqkJ"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -815,22 +815,6 @@
       "duration_ms": 233786,
       "name": "Bolo By Night (feat. Royal Mehdi)",
       "url": "https://open.spotify.com/track/4gK772wfiVeCFHNVGLsHfF"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "Neffa E I Messaggeri Della Dopa",
-        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
-      },
-      "artists": [
-        {
-          "name": "Neffa",
-          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
-        }
-      ],
-      "duration_ms": 281333,
-      "name": "In Linea",
-      "url": "https://open.spotify.com/track/2iPnztLtoxHIhRyPHtu3No"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -879,6 +863,22 @@
       "duration_ms": 219104,
       "name": "With Or Without It",
       "url": "https://open.spotify.com/track/6RqplPMqcfjFWvlqPycNDe"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Neffa E I Messaggeri Della Dopa",
+        "url": "https://open.spotify.com/album/30VgvhYsrjnMiDmJ0ZLWRn"
+      },
+      "artists": [
+        {
+          "name": "Neffa",
+          "url": "https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF"
+        }
+      ],
+      "duration_ms": 281333,
+      "name": "In Linea",
+      "url": "https://open.spotify.com/track/2iPnztLtoxHIhRyPHtu3No"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Marracash",
-        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 265840,
-      "name": "Chiedi Alla Polvere 2008",
-      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "PALAZZINE",
         "url": "https://open.spotify.com/album/52vVQVdjwjiMjTBgT9W1yl"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 151999,
       "name": "PALAZZINE",
       "url": "https://open.spotify.com/track/08N1I5vVigoW7kvl4MGWZn"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Marracash",
+        "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
+      },
+      "artists": [
+        {
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        }
+      ],
+      "duration_ms": 265840,
+      "name": "Chiedi Alla Polvere 2008",
+      "url": "https://open.spotify.com/track/6ycbD7mOJ5ZmdgAWaf7fXG"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
+        "name": "Lealt\u00e0 e rispetto",
+        "url": "https://open.spotify.com/album/1iOIFjcKd1RGjRFwkcKxz2"
+      },
+      "artists": [
+        {
+          "name": "Turi",
+          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
+        }
+      ],
+      "duration_ms": 247506,
+      "name": "Capeesh",
+      "url": "https://open.spotify.com/track/549Uwe3SteMyDEwysQyeEX"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
         "name": "Marracash",
         "url": "https://open.spotify.com/album/6FruZpllb4sNFIQ8i6hr7B"
       },
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Lealt\u00e0 e rispetto",
-        "url": "https://open.spotify.com/album/1iOIFjcKd1RGjRFwkcKxz2"
-      },
-      "artists": [
-        {
-          "name": "Turi",
-          "url": "https://open.spotify.com/artist/3g1lYR9Y4xwS9tNHAS6iIU"
-        }
-      ],
-      "duration_ms": 247506,
-      "name": "Capeesh",
-      "url": "https://open.spotify.com/track/549Uwe3SteMyDEwysQyeEX"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Viscerale",
         "url": "https://open.spotify.com/album/0QsYShpxYb7pQXwnkoaIUT"
       },
@@ -1167,22 +1167,6 @@
       "duration_ms": 163000,
       "name": "Idiocracy (feat. Gemitaiz)",
       "url": "https://open.spotify.com/track/4FHzzeALkiqKTPtxumuLCr"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
-        "name": "SXM",
-        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
-      },
-      "artists": [
-        {
-          "name": "Sangue Misto",
-          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
-        }
-      ],
-      "duration_ms": 391733,
-      "name": "La porra",
-      "url": "https://open.spotify.com/track/0LUdlO6ZJMUFdV9jnSWDwv"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1215,6 +1199,22 @@
       "duration_ms": 333296,
       "name": "Io sono il viaggio",
       "url": "https://open.spotify.com/track/4nUnPDsuHiXjOLkhaDkrvc"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "SXM",
+        "url": "https://open.spotify.com/album/5JVXc3bFttHELmo19la6dL"
+      },
+      "artists": [
+        {
+          "name": "Sangue Misto",
+          "url": "https://open.spotify.com/artist/2aLBxDxa6Mt4i36cUY7lTL"
+        }
+      ],
+      "duration_ms": 391733,
+      "name": "La porra",
+      "url": "https://open.spotify.com/track/0LUdlO6ZJMUFdV9jnSWDwv"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Ci sentiamo poi",
-        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
-      },
-      "artists": [
-        {
-          "name": "Moder",
-          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
-        }
-      ],
-      "duration_ms": 191893,
-      "name": "Birre in lattina",
-      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "4 MANI",
         "url": "https://open.spotify.com/album/4jHMhHMqNNH5ad00ZlSaAq"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 219053,
       "name": "MILANO BY NIGHT (feat. Jake La Furia & Emis Killa)",
       "url": "https://open.spotify.com/track/35eg1LKLGpEjsgbYurh5xL"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Ci sentiamo poi",
+        "url": "https://open.spotify.com/album/3J7P8z4RJfclKkx5KvV88G"
+      },
+      "artists": [
+        {
+          "name": "Moder",
+          "url": "https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ"
+        }
+      ],
+      "duration_ms": 191893,
+      "name": "Birre in lattina",
+      "url": "https://open.spotify.com/track/4snA0wtWKl8miq7kjPIfrU"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "64 BARRE ALLA FINE DELL'ESTATE (Red Bull 64 Bars)",
-        "url": "https://open.spotify.com/album/4btGV1WaexjVDuymsHydUa"
-      },
-      "artists": [
-        {
-          "name": "Danno",
-          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
-        },
-        {
-          "name": "Dj Craim",
-          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
-        }
-      ],
-      "duration_ms": 214721,
-      "name": "64 BARRE ALLA FINE DELL'ESTATE (Red Bull 64 Bars)",
-      "url": "https://open.spotify.com/track/3QiRKKuMfrx1PFSia34jTS"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Teoria Del Contrario",
         "url": "https://open.spotify.com/album/5WtI1eNKltxIuj64GX6sKp"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 171942,
       "name": "Heart",
       "url": "https://open.spotify.com/track/4X5uhcK7wjQItrJq34g1LB"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "64 BARRE ALLA FINE DELL'ESTATE (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/4btGV1WaexjVDuymsHydUa"
+      },
+      "artists": [
+        {
+          "name": "Danno",
+          "url": "https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ"
+        },
+        {
+          "name": "Dj Craim",
+          "url": "https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ"
+        }
+      ],
+      "duration_ms": 214721,
+      "name": "64 BARRE ALLA FINE DELL'ESTATE (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/3QiRKKuMfrx1PFSia34jTS"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2283,22 +2283,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Might Delete Later (Oppure Forse No)",
-        "url": "https://open.spotify.com/album/4DXU2wEJaMipE4tyolJzEK"
-      },
-      "artists": [
-        {
-          "name": "Davide Shorty",
-          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
-        }
-      ],
-      "duration_ms": 145045,
-      "name": "Might Delete Later (Oppure Forse No)",
-      "url": "https://open.spotify.com/track/6lQAel2CNOlN1gsh2GyAmd"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "Promo EP",
         "url": "https://open.spotify.com/album/7MhH7sgC5AzcbpLBwCml3n"
       },
@@ -2315,18 +2299,18 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Il viaggio dell'anima",
-        "url": "https://open.spotify.com/album/1QhXBcIj5EbfracRAl6Awo"
+        "name": "Might Delete Later (Oppure Forse No)",
+        "url": "https://open.spotify.com/album/4DXU2wEJaMipE4tyolJzEK"
       },
       "artists": [
         {
-          "name": "Jesto",
-          "url": "https://open.spotify.com/artist/3zkAFoqRMvc1ZWjW65XOO8"
+          "name": "Davide Shorty",
+          "url": "https://open.spotify.com/artist/5nZ6WgYH6mSPf2YaKXOZso"
         }
       ],
-      "duration_ms": 212915,
-      "name": "Il viaggio dell'anima",
-      "url": "https://open.spotify.com/track/6S7hv1J7pci37eEMuctdl1"
+      "duration_ms": 145045,
+      "name": "Might Delete Later (Oppure Forse No)",
+      "url": "https://open.spotify.com/track/6lQAel2CNOlN1gsh2GyAmd"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2347,6 +2331,22 @@
       "duration_ms": 147357,
       "name": "Il Battesimo (feat. Inoki)",
       "url": "https://open.spotify.com/track/1uH3J5qTcl28NtgQnJS0EN"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Il viaggio dell'anima",
+        "url": "https://open.spotify.com/album/1QhXBcIj5EbfracRAl6Awo"
+      },
+      "artists": [
+        {
+          "name": "Jesto",
+          "url": "https://open.spotify.com/artist/3zkAFoqRMvc1ZWjW65XOO8"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Il viaggio dell'anima",
+      "url": "https://open.spotify.com/track/6S7hv1J7pci37eEMuctdl1"
     },
     {
       "added_at": "2026-05-29 09:57:53",
@@ -2691,26 +2691,6 @@
     {
       "added_at": "2026-05-29 09:57:53",
       "album": {
-        "name": "Training Day",
-        "url": "https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS"
-      },
-      "artists": [
-        {
-          "name": "Doye",
-          "url": "https://open.spotify.com/artist/1RE1chOE7hLWdqOT0z6PiF"
-        },
-        {
-          "name": "Giovane Platone",
-          "url": "https://open.spotify.com/artist/4IOhyc2rBPbGMugACDt3A9"
-        }
-      ],
-      "duration_ms": 96741,
-      "name": "Training Day",
-      "url": "https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX"
-    },
-    {
-      "added_at": "2026-05-29 09:57:53",
-      "album": {
         "name": "TOM WAITS",
         "url": "https://open.spotify.com/album/20w9EPYvfsEohr19Y8xup9"
       },
@@ -2763,6 +2743,26 @@
       "duration_ms": 246083,
       "name": "Svspiria",
       "url": "https://open.spotify.com/track/137ix4kq7j3PPK1SYXv4Gd"
+    },
+    {
+      "added_at": "2026-05-29 09:57:53",
+      "album": {
+        "name": "Training Day",
+        "url": "https://open.spotify.com/album/3l4RmituRZ3K8bu6H8sypS"
+      },
+      "artists": [
+        {
+          "name": "Doye",
+          "url": "https://open.spotify.com/artist/1RE1chOE7hLWdqOT0z6PiF"
+        },
+        {
+          "name": "Giovane Platone",
+          "url": "https://open.spotify.com/artist/4IOhyc2rBPbGMugACDt3A9"
+        }
+      ],
+      "duration_ms": 96741,
+      "name": "Training Day",
+      "url": "https://open.spotify.com/track/2KIHut8hMqwk9fIusKRKIX"
     },
     {
       "added_at": "2026-05-29 09:57:53",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Anirudh Ravichander",
+  "description": "Check out the emerging independent tracks from these Telugu Artists!\nCover : Manisha Eerabathini",
   "name": "Telugu Indie",
   "tracks": [
     {
@@ -2918,7 +2918,7 @@
       ],
       "date_added": "2026-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 160140,
       "name": "Hey Nene",
       "url": "https://open.spotify.com/track/2JmQmd4T2qBayISYT7nShb"
@@ -5536,7 +5536,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 247909,
       "name": "Na Hrudayame",
       "url": "https://open.spotify.com/track/741v3bdKP06zxeyETT7xxn"
@@ -9623,6 +9623,24 @@
     },
     {
       "album": {
+        "name": "Silakamma",
+        "url": "https://open.spotify.com/album/6y5dRvQhZ7ETFpZQNBkqAo"
+      },
+      "artists": [
+        {
+          "name": "Manasa Seshu",
+          "url": "https://open.spotify.com/artist/4WR9RvUFi89qh6mOsvHlOB"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184692,
+      "name": "Silakamma",
+      "url": "https://open.spotify.com/track/5Q7mGQOrhO2zOAbAUbd8lj"
+    },
+    {
+      "album": {
         "name": "Silakole Nuvvu Raye Pilla",
         "url": "https://open.spotify.com/album/2SIJkXk8dUxBFP91brycuZ"
       },
@@ -10112,6 +10130,28 @@
       "duration_ms": 212992,
       "name": "Taithom",
       "url": "https://open.spotify.com/track/6VzKw7OxaT1KGiXBfB9f55"
+    },
+    {
+      "album": {
+        "name": "Take It Light",
+        "url": "https://open.spotify.com/album/0wz0WHPKIKu4a8jl7TWXj5"
+      },
+      "artists": [
+        {
+          "name": "Manisha Eerabathini",
+          "url": "https://open.spotify.com/artist/7uTF7CgQzu55VR10qqG2yC"
+        },
+        {
+          "name": "Shashank Alamuru",
+          "url": "https://open.spotify.com/artist/1FRUQL3SPnXlce6Hqfk2eh"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Take It Light",
+      "url": "https://open.spotify.com/track/0q5FSsFKykzoYMPZQtjU59"
     },
     {
       "album": {

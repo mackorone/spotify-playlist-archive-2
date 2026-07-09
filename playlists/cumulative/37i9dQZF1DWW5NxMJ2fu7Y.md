@@ -4,13 +4,14 @@
 
 > mood:  😎✈️
 
-167 songs - 9 hr 22 min
+168 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 ans](https://open.spotify.com/track/2nGecH2N2DlaEc4kzYrBJK) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Tonton](https://open.spotify.com/album/09uWdV7dmXNgyMcNgB1JWB) | 4:41 | 2024-07-22 | 2025-08-08 |
 | [3 D Lil](https://open.spotify.com/track/1iAsWhtSFVaYYjJAPc70tp) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [3 D Lil](https://open.spotify.com/album/31E8zXmeidKAU33riHGwIh) | 3:43 | 2025-03-05 | 2025-08-08 |
 | [3AYM](https://open.spotify.com/track/6IUI26Z6MzLJZTUA3qAz4O) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [3AYM](https://open.spotify.com/album/64uxz01ZKoZ5qgmRbWqQ52) | 4:40 | 2024-02-29 |  |
+| [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 | 2026-01-28 |  |
 | [7alabach](https://open.spotify.com/track/1zFpY7StGgMbDIoAgjzLEc) | [Liris](https://open.spotify.com/artist/63a2RJnKSa2po7VDshJFiA) | [CasaBlanche](https://open.spotify.com/album/3wqxLm5QrnDXwlHDAies2R) | 3:32 | 2024-02-29 | 2024-07-23 |
 | [7ali Ya 7ali](https://open.spotify.com/track/0e7rIlMjTs8DsDxrWb5cGo) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Arabi](https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX) | 2:45 | 2024-10-03 |  |
 | [A7lam](https://open.spotify.com/track/3Mky2VMSMszIMiF6pUmoGc) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [A7lam](https://open.spotify.com/album/3R3nNEURz2TVsOUREHwia5) | 4:08 | 2024-07-22 | 2025-02-13 |
@@ -66,7 +67,7 @@
 | [Honesty](https://open.spotify.com/track/2jh8usSMjNvJlLi3Zs8S0E) | [VALEN](https://open.spotify.com/artist/32W9lYj8vdjc0TsHaQs1vz) | [Honesty](https://open.spotify.com/album/6xaWZ1TZRPGEU3hdR6fAtp) | 2:50 | 2024-02-29 | 2024-10-23 |
 | [I can't move](https://open.spotify.com/track/3kJIFkOkNcPDMz62IZ1Kfm) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r) | [I can't move](https://open.spotify.com/album/7ovNUOai7APoKSBBup0lCK) | 3:21 | 2024-02-29 | 2024-07-23 |
 | [I'm good](https://open.spotify.com/track/7rCXQYPDPoQZjmOQZM0YWI) | [Meta4 Planet](https://open.spotify.com/artist/5ly3gcirOViqRU8RdR045r) | [I'm good](https://open.spotify.com/album/689wgyCyY6fRvQq3cJUned) | 3:03 | 2024-02-29 | 2024-07-23 |
-| [Iceburg](https://open.spotify.com/track/3BuKmbS7uuXaAmU19xgT5j) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Real Alien](https://open.spotify.com/album/2T4L84oePh5hiovmNG84Fd) | 2:11 | 2025-03-05 |  |
+| [Iceburg](https://open.spotify.com/track/3BuKmbS7uuXaAmU19xgT5j) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Real Alien](https://open.spotify.com/album/2T4L84oePh5hiovmNG84Fd) | 2:11 | 2025-03-05 | 2026-07-09 |
 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 | 2024-08-02 |  |
 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 | 2024-08-02 |  |
 | [Jack Sparrow \- By Night](https://open.spotify.com/track/6n2NWArMeY48wUEhLAqFEQ) | [Fetah](https://open.spotify.com/artist/3XGTrzVLfhQ0hK13svf6pu) | [Jack Sparrow](https://open.spotify.com/album/0Chca0GfzAU9cKA7L8s2Q9) | 3:05 | 2024-02-29 | 2024-07-23 |

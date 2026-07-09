@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Mercy Chinwo & Nathaniel Bassey
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,615 likes - 115 songs - 10 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,656 likes - 115 songs - 10 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

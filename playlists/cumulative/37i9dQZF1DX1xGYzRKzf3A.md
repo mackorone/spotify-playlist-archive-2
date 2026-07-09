@@ -4,7 +4,7 @@
 
 > Tierra linda que siempre sueño, y que muy dentro llevo\. Ciudad de Monterrey ♥️
 
-478 songs - 1 day 3 hr 49 min
+479 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [La Vieja Banca](https://open.spotify.com/track/48sgC9LwPwCUBR4MpuVW0R) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 2:38 | 2026-06-08 |  |
 | [Ladrona de Amor](https://open.spotify.com/track/1wYDAzh56Wi462FoMBCMBv) | [Adriana Del Valle](https://open.spotify.com/artist/4qKMtq5L3ovk8NfySulYrd) | [Ladrona de Amor](https://open.spotify.com/album/01LuyerGk4j325fKvKc5mN) | 3:20 | 2023-11-08 | 2024-07-03 |
 | [Lamentable](https://open.spotify.com/track/0528zzl5wyPCfzMbSmcW71) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Psalmos](https://open.spotify.com/album/0lbq2BREZNmiaPTeEYMTJK) | 3:53 | 2025-11-09 | 2026-06-09 |
+| [Lamento De Amor](https://open.spotify.com/track/458rEJIikMTw9nrnqnPD3H) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [La Mas Completa Coleccion \(Disco 2\)](https://open.spotify.com/album/4QGk7hWvhae1nw2agFhN20) | 3:15 | 2026-06-08 |  |
 | [Lastimame](https://open.spotify.com/track/5PXxjDvG6r8n0d7FxZjWly) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [A veces sueño cuando me quedo despierto](https://open.spotify.com/album/25fxj4NUOxhi5dwCsoGpOo) | 3:34 | 2025-11-09 | 2026-06-09 |
 | [Le Hace Falta Un Beso](https://open.spotify.com/track/0b601Fnoi2vTzGeSMippyu) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Lives, Vol.1](https://open.spotify.com/album/4cWhUcmMJdjiYA4FyKpCFQ) | 4:00 | 2023-06-16 | 2024-04-19 |
 | [Lejanía](https://open.spotify.com/track/526efTi8StSvD9I7P2K5UQ) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [63 Años de Vida Artística](https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5) | 3:44 | 2023-06-16 | 2024-04-19 |
@@ -432,7 +433,7 @@
 | [Te Ame](https://open.spotify.com/track/3srbe35RDBvPvAR7HjOm24) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [30 Mejores](https://open.spotify.com/album/3QUAmpRKp3w1rHbpnXuJ0M) | 4:32 | 2023-06-16 | 2024-07-03 |
 | [Te Amo](https://open.spotify.com/track/5N6l5fBKD1XcbayM3Q8K3c) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Bordada a Mano](https://open.spotify.com/album/1dyd7hJkMWDJnU10UGKphB) | 2:55 | 2025-06-17 |  |
 | [Te Están Matando los Años](https://open.spotify.com/track/3o6WfL7wMC52XvoJI6fGLE) | [Lucho Cuadros](https://open.spotify.com/artist/4mJGHbUaO9nCMEU1uSascK), [Eliecer Ochoa](https://open.spotify.com/artist/1Wp7AgwEYs4sKtPCjvChwP) | [Vuelven los Clásicos de Balneario \(Vol\. 4\)](https://open.spotify.com/album/6EkZ3nDkAXow1mwEzBwPof) | 3:34 | 2023-11-08 | 2025-06-18 |
-| [Te He Prometido](https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:12 | 2025-06-17 |  |
+| [Te He Prometido](https://open.spotify.com/track/4iyecQDmyi2VmscbQVeabb) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Ska a La Carta](https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd) | 3:12 | 2025-06-17 | 2026-07-09 |
 | [Te Hubieras Ido Antes](https://open.spotify.com/track/29abLTf6kqg1j1HMUBzJ0o) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes](https://open.spotify.com/album/4qbIKGbmkRRu5MEdIGKM56) | 3:13 | 2025-11-09 | 2026-06-09 |
 | [Te Llevaré](https://open.spotify.com/track/4ZD2ePc9gUJM7DokbfPzku) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [Rey Sabanero](https://open.spotify.com/album/2iMA5QGP10Na8Oyc6wrroE) | 4:12 | 2023-06-16 | 2024-07-03 |
 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 | 2025-11-09 |  |

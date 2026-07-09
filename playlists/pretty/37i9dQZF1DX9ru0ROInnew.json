@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 147527,
+  "num_followers": 147543,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "En Que Pa\u00eds",
+        "url": "https://open.spotify.com/album/2t2wCPIFNSgaPfIHg9mjJm"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 210628,
+      "name": "En Que Pa\u00eds",
+      "url": "https://open.spotify.com/track/7B1hXzq4zemjlaEJ2C27KB"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "Dime",
         "url": "https://open.spotify.com/album/1ySViVTiU5OmwkJdqXGiug"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 284626,
       "name": "Dime",
       "url": "https://open.spotify.com/track/08wJw4VdkKImX4t1vL6MsO"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "En Que Pa\u00eds",
-        "url": "https://open.spotify.com/album/2t2wCPIFNSgaPfIHg9mjJm"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 210628,
-      "name": "En Que Pa\u00eds",
-      "url": "https://open.spotify.com/track/7B1hXzq4zemjlaEJ2C27KB"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Before Famous",
-        "url": "https://open.spotify.com/album/7wlVu0H4e9T0vyl5kYonz2"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 221252,
-      "name": "Antes de Morirme",
-      "url": "https://open.spotify.com/track/0zhkLYpmMZyjtv03haC77Y"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "Cambio de Clima",
         "url": "https://open.spotify.com/album/3f8ilKUbFtOSPM2aVq0zCl"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 241520,
       "name": "No Ando Solo",
       "url": "https://open.spotify.com/track/6ZEb5M7dycMbooECbG2He4"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Before Famous",
+        "url": "https://open.spotify.com/album/7wlVu0H4e9T0vyl5kYonz2"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 221252,
+      "name": "Antes de Morirme",
+      "url": "https://open.spotify.com/track/0zhkLYpmMZyjtv03haC77Y"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1287,6 +1287,30 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "Como Soy",
+        "url": "https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G"
+      },
+      "artists": [
+        {
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 312232,
+      "name": "Como Soy",
+      "url": "https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
         "url": "https://open.spotify.com/album/2D7VGl437ipTJnMQg0bs99"
       },
@@ -1311,30 +1335,6 @@
       "duration_ms": 262500,
       "name": "Ven y Hazlo T\u00fa (feat. Arc\u00e1ngel)",
       "url": "https://open.spotify.com/track/3NbwRR74N1FykCWETcEk3j"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Como Soy",
-        "url": "https://open.spotify.com/album/6aDcL8v3iXacgkHL7DGu0G"
-      },
-      "artists": [
-        {
-          "name": "Pacho El Antifeka",
-          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 312232,
-      "name": "Como Soy",
-      "url": "https://open.spotify.com/track/6l2UmWFHtPqgWq0hnqlfJT"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1975,26 +1975,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/75Drq7ZmC1mNfOYflq6zsY"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 227220,
-      "name": "Sexto Sentido (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/3iDPALl8BoUbuXZgy6EOWY"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/3VnPV75DGyQMdljH0OHgx3"
       },
@@ -2019,6 +1999,26 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/75Drq7ZmC1mNfOYflq6zsY"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 227220,
+      "name": "Sexto Sentido (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/3iDPALl8BoUbuXZgy6EOWY"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "Kobe En LA",
         "url": "https://open.spotify.com/album/31op15nAweoWywt7aBkY4z"
       },
@@ -2035,22 +2035,18 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "La Oscuridad",
-        "url": "https://open.spotify.com/album/0AAxqrygloVXEathVtYauj"
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/1058NK2KNeZKPLS7k4riGS"
       },
       "artists": [
         {
           "name": "Bryant Myers",
           "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 264905,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/5MNS5FF4LrTX0jIaI0gory"
+      "duration_ms": 217130,
+      "name": "WOW",
+      "url": "https://open.spotify.com/track/56aKqvLJGEsJgCXvczNv0i"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2067,26 +2063,6 @@
       "duration_ms": 199700,
       "name": "Side Bitch",
       "url": "https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Pa Ti",
-        "url": "https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 191294,
-      "name": "Pa Ti",
-      "url": "https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2127,6 +2103,26 @@
       "duration_ms": 275826,
       "name": "Ahora Dice - Real Hasta La Muerte Remix",
       "url": "https://open.spotify.com/track/1fs9kTASuC9RJ9say6KX2K"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Pa Ti",
+        "url": "https://open.spotify.com/album/7t1OLE6jYXpJBRBDhgrG6A"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 191294,
+      "name": "Pa Ti",
+      "url": "https://open.spotify.com/track/2QrGCbW0ylj94JfkgLZFlA"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2187,6 +2183,26 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/0AAxqrygloVXEathVtYauj"
+      },
+      "artists": [
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 264905,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/5MNS5FF4LrTX0jIaI0gory"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "Me Mata",
         "url": "https://open.spotify.com/album/711Ewqb91hqv9aKXWPaBTI"
       },
@@ -2231,22 +2247,6 @@
       "duration_ms": 412631,
       "name": "Me Mata",
       "url": "https://open.spotify.com/track/2wgDAPgBhFA7pnIbm0YOhP"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "WOW",
-        "url": "https://open.spotify.com/album/1058NK2KNeZKPLS7k4riGS"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 217130,
-      "name": "WOW",
-      "url": "https://open.spotify.com/track/56aKqvLJGEsJgCXvczNv0i"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2299,6 +2299,26 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
+        "name": "Real Hasta la Muerte",
+        "url": "https://open.spotify.com/album/6rj8SDxe761DQBUdSN76tQ"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "Brindemos",
+      "url": "https://open.spotify.com/track/7LeQ55Z5jPBB0ggYJtAiYO"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
         "name": "Sensualidad",
         "url": "https://open.spotify.com/album/287ZdmXv5M5YH5xxdGLhbY"
       },
@@ -2327,26 +2347,6 @@
       "duration_ms": 297485,
       "name": "Sensualidad",
       "url": "https://open.spotify.com/track/5hcisvFMidkMJlElTO9Qmw"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "Real Hasta la Muerte",
-        "url": "https://open.spotify.com/album/6rj8SDxe761DQBUdSN76tQ"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "Brindemos",
-      "url": "https://open.spotify.com/track/7LeQ55Z5jPBB0ggYJtAiYO"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Fulete",
-        "url": "https://open.spotify.com/album/1IFkjNiY9wkcbcQZFkFWWs"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 226263,
-      "name": "Fulete",
-      "url": "https://open.spotify.com/track/5fpyo29qRpzaj3jx6bMdCM"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "LAS QUE NO IBAN A SALIR",
         "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 143240,
       "name": "SI ELLA SALE",
       "url": "https://open.spotify.com/track/1zaDh3qaGSeSmulNyWlUxm"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Fulete",
+        "url": "https://open.spotify.com/album/1IFkjNiY9wkcbcQZFkFWWs"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 226263,
+      "name": "Fulete",
+      "url": "https://open.spotify.com/track/5fpyo29qRpzaj3jx6bMdCM"
     },
     {
       "added_at": "2024-08-19 19:01:43",

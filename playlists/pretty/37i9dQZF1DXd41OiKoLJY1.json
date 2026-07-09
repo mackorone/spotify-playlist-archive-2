@@ -1,13 +1,77 @@
 {
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [Camille de la Cruz]. Artwork: Isu Kim.\n",
-  "num_followers": 73036,
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: [Kasane]. Artwork: Isu Kim.\n",
+  "num_followers": 73037,
   "original_name": "Fresh Finds Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACCRwpotFS84eGxlC1sQmPTIpF1b",
+  "snapshot_id": "AAAAAIbzPN9fitJB6UGJtezYcEzSc9rg",
   "tracks": [
+    {
+      "added_at": "2026-07-08 05:00:22",
+      "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/6djgr7KlFFIKZ6Oy3g7YvZ"
+      },
+      "artists": [
+        {
+          "name": "Kasane",
+          "url": "https://open.spotify.com/artist/58GgU26kgH6KBhDx8pT3PO"
+        }
+      ],
+      "duration_ms": 237966,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/0nlszapPcBiTBrl1CM7MAJ"
+    },
+    {
+      "added_at": "2026-07-08 05:00:22",
+      "album": {
+        "name": "Once Aligned",
+        "url": "https://open.spotify.com/album/3ltgk56HN282yUwIjHSEYR"
+      },
+      "artists": [
+        {
+          "name": "Coeli",
+          "url": "https://open.spotify.com/artist/1UinZrIrCaV8JER0SrAaxO"
+        }
+      ],
+      "duration_ms": 279857,
+      "name": "Once Aligned",
+      "url": "https://open.spotify.com/track/68SUBUwT8wGdO0xtzk97fO"
+    },
+    {
+      "added_at": "2026-07-08 05:00:22",
+      "album": {
+        "name": "Alembong",
+        "url": "https://open.spotify.com/album/1oKpHQLzkWQQwH5znzKK0o"
+      },
+      "artists": [
+        {
+          "name": "MEI MEI",
+          "url": "https://open.spotify.com/artist/5A8Nmwkw0lJ66gihsp1Yaw"
+        }
+      ],
+      "duration_ms": 207624,
+      "name": "Alembong",
+      "url": "https://open.spotify.com/track/6TuXdFSvRXVM65WJBdzZx1"
+    },
+    {
+      "added_at": "2026-07-08 05:00:22",
+      "album": {
+        "name": "Sana",
+        "url": "https://open.spotify.com/album/4wo4Ajr7uuyqBBI8p2f2fL"
+      },
+      "artists": [
+        {
+          "name": "Letter Day Story",
+          "url": "https://open.spotify.com/artist/2DQsTcDI6YQaIKgY1FjH1M"
+        }
+      ],
+      "duration_ms": 206805,
+      "name": "Sana",
+      "url": "https://open.spotify.com/track/0UIeyQRmzp9O7Q9IX9drEV"
+    },
     {
       "added_at": "2026-07-01 05:18:24",
       "album": {
@@ -783,70 +847,6 @@
       "duration_ms": 252250,
       "name": "Sirena",
       "url": "https://open.spotify.com/track/67qAhfMTVMO9KitHgwNOjV"
-    },
-    {
-      "added_at": "2026-07-01 05:18:24",
-      "album": {
-        "name": "5012",
-        "url": "https://open.spotify.com/album/1gDJ5KUtBsvz2bFLMMIKLv"
-      },
-      "artists": [
-        {
-          "name": "Space-Ta",
-          "url": "https://open.spotify.com/artist/4LKfZyQ8hPWDNuOLw6tMVl"
-        }
-      ],
-      "duration_ms": 386000,
-      "name": "5012",
-      "url": "https://open.spotify.com/track/775jNb2eWx1cID6GQ6eObG"
-    },
-    {
-      "added_at": "2026-07-01 05:18:24",
-      "album": {
-        "name": "Katotohanan",
-        "url": "https://open.spotify.com/album/783AEaVr2SpGWQyVtdVzEi"
-      },
-      "artists": [
-        {
-          "name": "ratavii",
-          "url": "https://open.spotify.com/artist/31HuGWAnuuXxAQMKRlH4MY"
-        }
-      ],
-      "duration_ms": 325500,
-      "name": "Katotohanan",
-      "url": "https://open.spotify.com/track/6PCQmvy2qPtFNXWuIGjPQs"
-    },
-    {
-      "added_at": "2026-07-01 05:18:24",
-      "album": {
-        "name": "Hifi",
-        "url": "https://open.spotify.com/album/5d3AYbZJk16sINZHdTUHtK"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel 3:14",
-          "url": "https://open.spotify.com/artist/7G2b1VtLDDMKY995m0YWKe"
-        }
-      ],
-      "duration_ms": 281599,
-      "name": "Siguro",
-      "url": "https://open.spotify.com/track/6lrF2xPMBVvHFH0z5lzyd4"
-    },
-    {
-      "added_at": "2026-07-01 05:18:24",
-      "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/68nsUjENwtygSr9vM4EfS5"
-      },
-      "artists": [
-        {
-          "name": "CARMELLE",
-          "url": "https://open.spotify.com/artist/1umUuQyobGASZTETL9fup6"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/67XbobIuxPRAapoedtQusi"
     }
   ],
   "unique_name": "Fresh Finds Philippines",

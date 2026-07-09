@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,731 likes - 291 songs - 15 hr 16 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,731 likes - 298 songs - 15 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -299,5 +299,12 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 289 | [Blue Light Special](https://open.spotify.com/track/6HRVlFltzuLK7rKBFhKVIA) | [CallMeWhoElse](https://open.spotify.com/artist/3sLFnlQ8XFsPNqZ2ly2cCo), [TeaYaMay](https://open.spotify.com/artist/3S2YNukhEwW4WgEGMu16Q5) | [Blue Light Special](https://open.spotify.com/album/0hUunqwS7iLOvOXirxsH8E) | 2:10 |
 | 290 | [Gravity's Hold](https://open.spotify.com/track/2LZoVGLzneIAOPJaV5VLZk) | [Ryan Sherman](https://open.spotify.com/artist/7rHR6feO7KRuHvnDGx2tlV) | [Gravity's Hold](https://open.spotify.com/album/3pVv8GCDn25YfyMcKZiKRM) | 3:16 |
 | 291 | [Who's Going Down](https://open.spotify.com/track/6NeCtvXCIrfl8iXrQAesaI) | [James Tonic](https://open.spotify.com/artist/7eDGkEF3YrLdMyc2dSrW3z) | [Who's Going Down](https://open.spotify.com/album/7ePDSXqPZzF1vybVFWdqm3) | 3:50 |
+| 292 | [It Was All About You](https://open.spotify.com/track/3rrkYug9KGJKZKa3UdcXkC) | [Daria V](https://open.spotify.com/artist/3Pix8TB0qVGkAU1QV5sDtc) | [It Was All About You](https://open.spotify.com/album/0YPUpX3qmLHv0nl4BQxogN) | 2:11 |
+| 293 | [LOL](https://open.spotify.com/track/642CFTUCHffTtyWgYC3aIp) | [Elijah Hues](https://open.spotify.com/artist/3UQTDqiD4uvwcWKsStIL70) | [LOL](https://open.spotify.com/album/180L1X5mnrkXMMLeEXctHN) | 2:18 |
+| 294 | [I Just Wanna Sleep](https://open.spotify.com/track/3JoRWWJEVx1eu3QWs1n0zd) | [myrtia](https://open.spotify.com/artist/4snVfrqMghFCKtboUSTKRZ) | [I Just Wanna Sleep](https://open.spotify.com/album/7C1xQ22rdHDeVHIuEujTI9) | 2:31 |
+| 295 | [Why Am I The Only One?](https://open.spotify.com/track/2fTPAtI8PCXX1Gu2Ig4ijB) | [Vane](https://open.spotify.com/artist/574EpCX5szDnIiCiyntBAO) | [Why Am I The Only One?](https://open.spotify.com/album/0Q9DizlKs33u43W6IVb6UQ) | 2:44 |
+| 296 | [Sunshine on Shuffle](https://open.spotify.com/track/2lOou5IE0L747sqPgSs9f3) | [Funk Lazarus](https://open.spotify.com/artist/27Lj5gvLs9RK7jYpd3q5Cf), [A Tilt Of Hi\-Tec](https://open.spotify.com/artist/6oy5xIx0Eh4di1gIpyLnxe) | [Sunshine on Shuffle](https://open.spotify.com/album/3ckB6z6hJJfk6LYSpkQCxC) | 2:54 |
+| 297 | [Between](https://open.spotify.com/track/7zrX3nVb3W2G5z0TsKrZHq) | [Ekpra](https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ) | [Between](https://open.spotify.com/album/1hZFpaYgnkiruyD7F7QZU7) | 2:54 |
+| 298 | [gemini](https://open.spotify.com/track/1pOSnAUXC8fs7GleW9KWY6) | [Sheryl Kesha](https://open.spotify.com/artist/44zwgdFZrTPIkwWwS1w14x) | [gemini](https://open.spotify.com/album/2HJwH1aWgR7NDyuNBclRa6) | 2:54 |
 
-Snapshot ID: `AAA6SjhKrJdalh7WYgReWY7WIcNKhu/6`
+Snapshot ID: `AAA6UapgM/qHEZXTqxU7etYpRabm93oG`

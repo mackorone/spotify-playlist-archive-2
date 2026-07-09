@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Kyle McKearney
 
-736 songs - 1 day 20 hr 29 min
+737 songs - 1 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,7 +462,7 @@
 | [My Darlin'](https://open.spotify.com/track/4X0FKaG7iuwTpCPyEs5HFp) | [CALICO](https://open.spotify.com/artist/3Up8jTurMilOn2IKFTm7o2) | [My Darlin'](https://open.spotify.com/album/2g8mVKzOZoDbsgbCTjCy7q) | 2:57 | 2022-05-13 | 2022-07-30 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-29 | 2025-10-18 |
 | [Name \(Talco Tapes Version\)](https://open.spotify.com/track/3I4rccIyS6egS7rDC2ZoQk) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [The Talco Tapes](https://open.spotify.com/album/4EEXpOAW6fuB8zB8yPfVFj) | 4:20 | 2025-06-06 | 2026-07-04 |
-| [Nancy](https://open.spotify.com/track/3gWj1lXtUdMVXyngyyIZqv) | [Alan Doyle](https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL), [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Nancy](https://open.spotify.com/album/4kA82J8xD0zjz9q8kvJ32j) | 2:50 | 2025-10-24 |  |
+| [Nancy](https://open.spotify.com/track/3gWj1lXtUdMVXyngyyIZqv) | [Alan Doyle](https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL), [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Nancy](https://open.spotify.com/album/4kA82J8xD0zjz9q8kvJ32j) | 2:50 | 2025-10-24 | 2026-07-09 |
 | [Nashville Now](https://open.spotify.com/track/3QTEG2yYoNpmTnCWtFGrcn) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Nashville Now](https://open.spotify.com/album/2t9zjuvUc6VjgJyjpCnWzu) | 4:35 | 2025-09-19 | 2025-09-27 |
 | [Nautical Disaster](https://open.spotify.com/track/6wazfCfvmYBOprq7Zq6kLL) | [Justin Rutledge](https://open.spotify.com/artist/2bCchS6Y3bKQjIK3MNFrx7) | [Nautical Disaster](https://open.spotify.com/album/3NLfuDDCC5hvsUEVgknel2) | 5:00 | 2022-05-13 | 2022-05-20 |
 | [Neon Blue](https://open.spotify.com/track/6iivlt5obvMyejm91rfGgM) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Everywhere I Used to Be](https://open.spotify.com/album/5nwLpXKbM62DYP0phC6NBV) | 4:19 | 2022-08-12 | 2023-12-09 |
@@ -707,6 +707,7 @@
 | [Whiskey River \(Recorded At Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Spotify Singles](https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7) | 3:54 | 2023-05-05 | 2024-03-06 |
 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 | 2023-07-21 | 2025-10-18 |
 | [Who Do You Wanna Be](https://open.spotify.com/track/3iTwxZVmH5DoSIlFzlxvfL) | [Noah Derksen](https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936) | [Mercy on the Skyline](https://open.spotify.com/album/6apkwQWQydjuIaUnh8IE1s) | 3:42 | 2026-05-22 |  |
+| [Whole Lotta Talkin'](https://open.spotify.com/track/2A5KiEwjnjihPdMlk1Ic7z) | [Lisa LeBlanc](https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya) | [Whole Lotta Talkin'](https://open.spotify.com/album/4bt4gStS58TFuSUwA75OIn) | 2:43 | 2026-07-03 |  |
 | [Wide Awake](https://open.spotify.com/track/1j0yLM2bq8IXOmkahkV22Z) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Wide Awake](https://open.spotify.com/album/0CuE6LWfLi55IwDchyGEDp) | 4:15 | 2022-08-12 | 2022-10-15 |
 | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/track/3eskIYs6c2GjLs7Hk0v1PE) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr), [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/album/2GwFSvFseBD11Jk8TZM6fU) | 3:42 | 2025-01-17 | 2025-03-24 |
 | [Wide Open \(feat\. Michaela Slinger\)](https://open.spotify.com/track/4J00D7FgKC3O9O7oSLuX6K) | [Braden Lam](https://open.spotify.com/artist/2k874mUqyCwo44UZbbRsGr), [Michaela Slinger](https://open.spotify.com/artist/59QPoeNCHdaVDlFxw7ZDVQ) | [The Cloudmaker's Cry](https://open.spotify.com/album/56vReOxfodsnNrt66xgxX6) | 3:42 | 2026-01-16 | 2026-03-07 |

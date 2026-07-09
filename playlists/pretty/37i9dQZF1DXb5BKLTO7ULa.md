@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Senna & Sven Versteeg, The Opposites, Frenna, Odeal & Wizkid, Madonna en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,067 likes - 92 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,054 likes - 92 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

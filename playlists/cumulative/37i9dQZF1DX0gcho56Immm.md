@@ -4,7 +4,7 @@
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: miaw
 
-309 songs - 17 hr 54 min
+310 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Back of a car](https://open.spotify.com/track/77gA40f86KuiqzFMnEh2Ww) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Koilwood](https://open.spotify.com/artist/4GKDR0aZmXTNpvDBcUy1m2) | [Back of a car](https://open.spotify.com/album/70I3QI750IKQK7UMgSMeve) | 2:31 | 2026-04-09 |  |
 | [Back Of My Hand](https://open.spotify.com/track/5DBpe50clTbGYnJZCIbUVG) | [Horse Vision](https://open.spotify.com/artist/28gAkTGnjn8QZllb4EU4OM) | [Back Of My Hand](https://open.spotify.com/album/1rtMcCl8GC8tpp2NShuS0d) | 2:40 | 2025-09-26 |  |
 | [Barrons Hotel \(I, To, Thee.\)](https://open.spotify.com/track/0eeyCEOLKsVVWxfZP0zA8k) | [Purelink](https://open.spotify.com/artist/2kUrBcfh7PVIivyYGAVjrQ), [Rainy Miller](https://open.spotify.com/artist/53LAWIqLkYE3N2UFod80A3) | [Barrons Hotel/Yellow Bones](https://open.spotify.com/album/4DiYXaIgNZZBKHwWBjXr6Y) | 5:54 | 2026-04-30 |  |
+| [Be My](https://open.spotify.com/track/0R224dzbGFzYy4bQgnO19J) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Be My](https://open.spotify.com/album/3tNlHGHKxgbvMsg440Nnov) | 3:04 | 2026-07-08 |  |
 | [Berlin](https://open.spotify.com/track/17XxoRBKPgZqSzYLFW3gto) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Berlin](https://open.spotify.com/album/7fWswbqrYkq5epwUQAJtFU) | 3:23 | 2026-02-26 |  |
 | [Big city life](https://open.spotify.com/track/02DduZyB33c2EpkSx2Zr4C) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI) | [Big city life](https://open.spotify.com/album/6C14WjZp4TYn9AXkhdx5Qd) | 2:08 | 2025-05-22 | 2026-03-07 |
 | [Big Solo](https://open.spotify.com/track/6hXZ1dD9oNhJ0ircyjsrjR) | [Alba Akvama](https://open.spotify.com/artist/0aOHcQWEx7wsZg277ZOcGe) | [Minute Nothing](https://open.spotify.com/album/6vSqgWESqtKe3zTatouCUz) | 3:38 | 2026-03-19 |  |

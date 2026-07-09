@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of electronic music culture\. Featuring Madonna.
 
-482 songs - 1 day 5 hr 19 min
+483 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,8 @@
 | [Murphy's Law \- Edit](https://open.spotify.com/track/7FRP87A2Bft7zMhFlI7j1n) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Murphy's Law](https://open.spotify.com/album/6H3LwHbVTu3wuabrTfDKCC) | 3:50 | 2021-10-15 | 2023-04-01 |
 | [Music Saved My Life](https://open.spotify.com/track/2XPixA82xnIiju7E0bgt4e) | [Dimitri From Paris](https://open.spotify.com/artist/5Il27M5JXuQLgwDgVrQMgo), [Fiorious](https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor) | [Music Saved My Life](https://open.spotify.com/album/5MZqeTw9XvDNq8TgYq0AsO) | 3:44 | 2021-10-15 | 2023-04-01 |
 | [My Barn My Rules](https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [My Barn My Rules](https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0) | 4:26 | 2024-06-14 |  |
-| [My Body Is Your Wonderland](https://open.spotify.com/track/22KcXNcRBwA0a1KqFeclAX) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [My Body Is Your Wonderland](https://open.spotify.com/album/0u0ZkbKi0twuBA67fXUO3E) | 3:00 | 2026-05-01 |  |
+| [My Body Is Your Wonderland](https://open.spotify.com/track/22KcXNcRBwA0a1KqFeclAX) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5) | [My Body Is Your Wonderland](https://open.spotify.com/album/0u0ZkbKi0twuBA67fXUO3E) | 3:00 | 2026-05-01 | 2026-07-09 |
+| [My Body Is Your Wonderland \- a boy from the sun remix](https://open.spotify.com/track/3VbBteBglyTDUOv7ekA9eU) | [Tama Gucci](https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5), [a boy from the sun](https://open.spotify.com/artist/6vuBPffnAsmo9PRr05mizc) | [Tama Gucci all star remixes](https://open.spotify.com/album/26tXfLMlSJDPKxJO9OS4uK) | 3:09 | 2026-07-08 |  |
 | [My House \(10 Years of Eats Everything Main Street Mix\)](https://open.spotify.com/track/149yUZqCPUUsOa0ruiZO4b) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i), [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA) | [My House \(Eats Everything Remixes\)](https://open.spotify.com/album/2RXSHVAzTLVw6icNukiK5O) | 3:58 | 2021-10-15 | 2022-06-04 |
 | [My Little Secret Nasty Habit](https://open.spotify.com/track/0QpH7QcHJL9zFfO8vfAdKN) | [Miqui Brightside](https://open.spotify.com/artist/3Ej5fhuE6M1aEsPq9L5FlQ), [Demmy Sober](https://open.spotify.com/artist/0x8PisLbUrf8zKy4qIs3NS) | [My Little Secret Nasty Habit](https://open.spotify.com/album/3PozzkfYyjwLEyGEfV7IPO) | 3:44 | 2025-08-15 | 2026-01-18 |
 | [My Purple iPod Nano](https://open.spotify.com/track/18ux1xlbmVg2nlNA84NWu7) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano](https://open.spotify.com/album/6ZtbaBOXFTZfUEJ13ajgZn) | 6:52 | 2022-06-03 | 2022-07-15 |

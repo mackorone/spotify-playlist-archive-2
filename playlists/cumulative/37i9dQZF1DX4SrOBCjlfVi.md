@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Ken Carson, J Hus, Rylo Rodriguez and more!
 
-10,447 songs - 19 day 23 hr 51 min
+10,448 songs - 19 day 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7118,6 +7118,7 @@
 | [Pop Mo Shit](https://open.spotify.com/track/2zWh7rl73Y2wvmUsIAh7a5) | [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog), [Rakihya Raine](https://open.spotify.com/artist/5AMvjRXzlfWALzYTKe8qUZ), [So Supa](https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP) | [Pop Mo Shit](https://open.spotify.com/album/5bUvK7gmIsWelQObPEmaue) | 1:37 | 2025-12-12 | 2025-12-20 |
 | [Pop Music \(feat\. Moneybagg Yo & Beatking\)](https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Pop Music](https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS) | 2:05 | 2022-01-21 | 2022-02-05 |
 | [Pop My Shit \(feat\. Baby Money\)](https://open.spotify.com/track/0e8EtbmBNnfAuBmnUy0Mas) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw), [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Pop My Shit \(feat\. Baby Money\)](https://open.spotify.com/album/7kBPCTGDf5CXQgvV9RCgb6) | 2:25 | 2023-10-06 | 2023-10-14 |
+| [Pop My Shit \(feat\. RealRichIzzo\)](https://open.spotify.com/track/34U8XSUkgBLnNFCPHjXjsw) | [Big Key](https://open.spotify.com/artist/1Iqj2pasBQAqLQMfTCKZDD), [RealRichIzzo](https://open.spotify.com/artist/1x8KpLHQocL7FBaNmXcFQN) | [Son Of OD](https://open.spotify.com/album/2ghBs7jtqWlUlQm57YgPyr) | 2:01 | 2026-07-03 |  |
 | [Pop n Olive](https://open.spotify.com/track/7mx3o5H3YzWolHZe0Wtbam) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0), [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV) | [Pop n Olive](https://open.spotify.com/album/5EUkK1J0maUUX0kc4Uhma0) | 3:00 | 2025-03-07 | 2025-03-15 |
 | [Pop Out](https://open.spotify.com/track/6etEk6dGTEGhHjZVNnXAQS) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Pop Out](https://open.spotify.com/album/5ZzZ1XMscoXLbTUcCRWvFV) | 2:33 | 2023-04-21 | 2023-04-29 |
 | [Pop Out](https://open.spotify.com/track/2yj5fohdcJf48hdmB6QXD1) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF) | [Pop Out](https://open.spotify.com/album/5SXgC4zCNTd1J0RMa213GN) | 3:13 | 2022-10-28 | 2022-11-05 |

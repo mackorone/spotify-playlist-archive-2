@@ -2,9 +2,9 @@
 
 ### [Rocktronic](https://open.spotify.com/playlist/37i9dQZF1DWTfrr8pte1rT)
 
-> Rock with a Drop\. Cover: Rezz \\m/
+> Rock with a drop\. Cover: Madeon \\m/
 
-553 songs - 1 day 7 hr 7 min
+554 songs - 1 day 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Forgive Me](https://open.spotify.com/track/0ONdVHP8eoGupKl1KzM3xv) | [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Max P](https://open.spotify.com/artist/7D76Zt5h5OIV4zHi1AtCqw) | [Forgive Me](https://open.spotify.com/album/2pJh2rIopxEeJZjBwrT3Sn) | 3:29 | 2023-11-03 | 2024-05-25 |
 | [FØØL \- Code:Pandorum Remix](https://open.spotify.com/track/6JvUj6Hr346bGjXEEgkOH6) | [GHØSTKID](https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK), [Code: Pandorum](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe) | [FØØL \(Code:Pandorum Remix\)](https://open.spotify.com/album/11NzYtuHaQeT96QfkQnNqa) | 3:08 | 2021-12-10 |  |
 | [Gasoline](https://open.spotify.com/track/0EY4OLsKg1RfGndwKvl4Hr) | [Saint Chaos](https://open.spotify.com/artist/6OE6isNAneV3vtdxKih5fg) | [Gasoline](https://open.spotify.com/album/5wIemTRH0rBlNIME1fbWUx) | 2:42 | 2024-03-29 | 2024-07-22 |
-| [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 | 2022-04-15 |  |
+| [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 | 2022-04-15 | 2026-07-09 |
 | [Ghost Story \(with All Time Low\)](https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Ghost Story \(with All Time Low\)](https://open.spotify.com/album/2Jduh10Puwm4d0FG9XH37E) | 2:46 | 2021-12-10 |  |
 | [Ghostbox](https://open.spotify.com/track/0pasNqXDQBVGUVf131BNsI) | [AWAY](https://open.spotify.com/artist/2ZmerElhvxg8uVKCmlZ4ij), [Crywolf](https://open.spotify.com/artist/33o00sXuyWiApOFzo0vr0z) | [self:antiself](https://open.spotify.com/album/3wEiboxD08w4LBBK9TKm1p) | 4:50 | 2022-01-28 | 2023-10-28 |
 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 | 2023-02-10 | 2023-08-19 |
@@ -467,6 +467,7 @@
 | [SUFFERING](https://open.spotify.com/track/4cghtMpxrP6vJ3Kocg0sc0) | [Poni](https://open.spotify.com/artist/3a6qES5elZUR1LIpUq2ERm), [WISNER](https://open.spotify.com/artist/6EkmE2hY7VYyfi6uz9BT0L) | [SUFFERING](https://open.spotify.com/album/5mIKjCdcLsIpxVIRIYt3EX) | 4:25 | 2024-02-23 | 2024-05-25 |
 | [Sugar, We're Goin Down](https://open.spotify.com/track/1FC8XVf7JM1F6PFTbv26DR) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Social Repose](https://open.spotify.com/artist/2KGgkFhzF8mQwDy321OHIy) | [Sugar, We're Goin Down](https://open.spotify.com/album/5TkZOiEJTzAmOOKLTG2nJG) | 3:29 | 2025-01-10 |  |
 | [Summits](https://open.spotify.com/track/23eMXetamcEDLlx350X5qW) | [ZOA](https://open.spotify.com/artist/6Un27f1TcYPd6AGEIJPqiK) | [Summits](https://open.spotify.com/album/5QnH7ga7GMaIsXahWzkE0U) | 2:55 | 2025-12-19 | 2026-06-01 |
+| [Super Platinum \(feat\. Erick The Architect\)](https://open.spotify.com/track/5zw1rogLP0rEHlqHy028zH) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc), [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Victory](https://open.spotify.com/album/72Vxnc1Jz923ls86p9mCJe) | 2:31 | 2026-07-08 |  |
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/0rWQ4sqTFJoPdIXDahOUPX) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [Superhuman \(with K.Flay\)](https://open.spotify.com/album/45o6MX0tVVTZF8NDko5Hgs) | 4:00 | 2022-01-28 | 2023-12-10 |
 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/64moA9zwEfhBADmxLZvVhH) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 4:00 | 2024-01-05 | 2024-03-30 |
 | [SURRENDER PEACE!](https://open.spotify.com/track/0ldscHfsL63wYqrhx6Micd) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Let Them Only See Butterflies](https://open.spotify.com/album/4pf4QaR2yjTPk1Two2HPOQ) | 3:14 | 2023-08-11 | 2023-11-27 |

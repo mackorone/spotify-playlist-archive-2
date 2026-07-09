@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Blake Whiten
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,656,759 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,656,669 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [baby blues](https://open.spotify.com/track/0gx2NKeIy2YCc1UaXkJmYI) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [ace](https://open.spotify.com/album/1qV1UBoBOubbEoNetigs3Z) | 2:54 |
 | 50 | [Kingdom of Fear](https://open.spotify.com/track/4Es6f0zquGHCrv9Hespx9W) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Kingdom of Fear](https://open.spotify.com/album/6nE9zag2eaoLn58KZSqRVZ) | 2:41 |
 
-Snapshot ID: `AAAAAJ8/7N31BAvY8PgaYclRs7dXHh06`
+Snapshot ID: `AAAAANVN+wx7Ltw3VPpGwRz2zWI68bm0`

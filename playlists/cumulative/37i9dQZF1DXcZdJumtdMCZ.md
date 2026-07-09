@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Ofro and Vaasi
 
-349 songs - 18 hr 17 min
+350 songs - 18 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [The Pen](https://open.spotify.com/track/3cFeOpj5DXuQFe0omvUK4B) | [Ess\-K](https://open.spotify.com/artist/5e0FCm0Oo1s5BEz2i1NPQN), [Da Papes](https://open.spotify.com/artist/7GhVU0cLmPZ0H0MQm8ESXp), [mc roshn](https://open.spotify.com/artist/19JA4WMs34m89XEAUspLBO), [Martin Jazz](https://open.spotify.com/artist/2tJOTx0kM4NyC4IY8xO9Cu) | [The Pen](https://open.spotify.com/album/1drsi7guHzi4Fs3ysH0C9I) | 2:57 | 2025-06-06 | 2026-03-28 |
 | [The Rage](https://open.spotify.com/track/0ub4lwOZikB1d4BvfjIZYq) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Rapper Ro](https://open.spotify.com/artist/3hJzCWlHznAi4I7K00rWAL), [Chethan Handattu](https://open.spotify.com/artist/6zN29jJJVpH7SsVM0YRigi) | [Blast \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0v80ZrMaTeSbIJSeKPx7rU) | 3:45 | 2026-06-08 |  |
 | [The Rage \- From "Blast"](https://open.spotify.com/track/31VIMLQnQAnm0Jtsco6d8N) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Rapper Ro](https://open.spotify.com/artist/3hJzCWlHznAi4I7K00rWAL), [Chethan Handattu](https://open.spotify.com/artist/6zN29jJJVpH7SsVM0YRigi) | [The Rage \(From "Blast"\)](https://open.spotify.com/album/7jwXKnS5yFxoFdTfn12IBo) | 3:45 | 2026-05-15 | 2026-06-09 |
+| [The Rise of GDN \(From "G.D.N."\)](https://open.spotify.com/track/4WH0z1XvtjJvgEKbsgQjwt) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Maalavika Sundar](https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP), [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq), [Senthuzhan](https://open.spotify.com/artist/70FG3TFLKDHaIiT9QcxWQX) | [The Rise of GDN \(From "G.D.N."\)](https://open.spotify.com/album/0q7dQTfaIzfrkkUoShIbco) | 3:35 | 2026-07-08 |  |
 | [THEE](https://open.spotify.com/track/3tMnDr6GRVZa7Po1iZn9nU) | [Devoid](https://open.spotify.com/artist/6HkBjDvmlLiDtDKBlTgiyO) | [THEE](https://open.spotify.com/album/1aKEwzSnSO4axIM0B9NOAa) | 3:37 | 2026-03-12 |  |
 | [Thee \- From "Think Indie"](https://open.spotify.com/track/58ZCxYMfAZol17hKcyNk9G) | [Ankith Gupta](https://open.spotify.com/artist/3MF9NNtt4etTc8GUZB8gCa), [Paal Dabba](https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm), [U\-A Music](https://open.spotify.com/artist/1a2PWoPEf1usxgK1gC0EXY) | [Thee \(From "Think Indie"\)](https://open.spotify.com/album/4RGkxAZsU2AydhGBQJe0YS) | 2:03 | 2024-12-29 | 2025-10-10 |
 | [Theeratha Rakkalam \- From "Vasantha Mullai"](https://open.spotify.com/track/7p9LVqDT4Lx0dN6i8wI18a) | [Rajesh Murugesan](https://open.spotify.com/artist/0dbzsYBJZ4XZUcrgts3kWf), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Theeratha Rakkalam \(From "Vasantha Mullai"\)](https://open.spotify.com/album/4PBVJDCVIm1URRv4n1rsWG) | 4:26 | 2023-01-31 | 2023-05-13 |

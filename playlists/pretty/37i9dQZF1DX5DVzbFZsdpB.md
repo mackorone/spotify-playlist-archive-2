@@ -2,21 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 ### [RADAR Creators AUSTRALIA](https://open.spotify.com/playlist/37i9dQZF1DX5DVzbFZsdpB)
 
-> Dos and D is a podcast to get on your RADAR.
+> The TYPECast is a podcast to get on your RADAR.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,459 likes - 10 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,459 likes - 8 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [\#293 \- Matthew Lloyd \- The Legacy of "Lloydy"](https://open.spotify.com/episode/0PFafmGCoXDLWRywARi7Fl) | [Dos and D](https://open.spotify.com/show/6xhFg4CkHLpHwvumt8lRwA) | [Dos and D](https://open.spotify.com/album/6xhFg4CkHLpHwvumt8lRwA) | 1:05:26 |
-| 2 | [\#302 \- Colin Mochrie \- The Best of "Whose Line?" with the King of Improv](https://open.spotify.com/episode/3NwWNbpU7jPWUlskRpRbRY) | [Dos and D](https://open.spotify.com/show/6xhFg4CkHLpHwvumt8lRwA) | [Dos and D](https://open.spotify.com/album/6xhFg4CkHLpHwvumt8lRwA) | 44:03 |
-| 3 | [\#277 \- Kurt Angle \- In the Ring with a WWE Hall of Famer](https://open.spotify.com/episode/6DDGFzt0lssxmiiJimH7PJ) | [Dos and D](https://open.spotify.com/show/6xhFg4CkHLpHwvumt8lRwA) | [Dos and D](https://open.spotify.com/album/6xhFg4CkHLpHwvumt8lRwA) | 39:39 |
-| 4 | [\#297 \- Tony Jones  \- Inside TJ's 40\-Year Television Career](https://open.spotify.com/episode/5QCNyKGHrurkS0d564QyFA) | [Dos and D](https://open.spotify.com/show/6xhFg4CkHLpHwvumt8lRwA) | [Dos and D](https://open.spotify.com/album/6xhFg4CkHLpHwvumt8lRwA) | 1:05:05 |
-| 5 | [\#221 \- Mark Howard \- The "Howie" Interview](https://open.spotify.com/episode/13aVwI9IN1GrrFEC2Eklv2) | [Dos and D](https://open.spotify.com/show/6xhFg4CkHLpHwvumt8lRwA) | [Dos and D](https://open.spotify.com/album/6xhFg4CkHLpHwvumt8lRwA) | 1:23:20 |
-| 6 | [\#301 \- Ryan Fitzgerald \- Classic "Fitzy" & His Stellar Career](https://open.spotify.com/episode/0Mvp4yaxZhhBFDaiYETKda) | [Dos and D](https://open.spotify.com/show/6xhFg4CkHLpHwvumt8lRwA) | [Dos and D](https://open.spotify.com/album/6xhFg4CkHLpHwvumt8lRwA) | 1:01:16 |
-| 7 | [\#303 \- Matthew Wade \- Pressure, Power & Inside the Australian Dressing Room](https://open.spotify.com/episode/7FahWsvSezpR772iG0MOcF) | [Dos and D](https://open.spotify.com/show/6xhFg4CkHLpHwvumt8lRwA) | [Dos and D](https://open.spotify.com/album/6xhFg4CkHLpHwvumt8lRwA) | 1:10:19 |
-| 8 | [\#248 \- Hamish McLachlan \- Australia's Smoothest Broadcaster & The Impact of the Story](https://open.spotify.com/episode/196D6tDpJt0UmqU1qib0cW) | [Dos and D](https://open.spotify.com/show/6xhFg4CkHLpHwvumt8lRwA) | [Dos and D](https://open.spotify.com/album/6xhFg4CkHLpHwvumt8lRwA) | 1:19:22 |
-| 9 | [\#260 \- Xander McGuire \- Australian Media's Fastest Rising Star & Inside the McGuire Household](https://open.spotify.com/episode/3G2p5aJRJTwBRVFXrSGZGL) | [Dos and D](https://open.spotify.com/show/6xhFg4CkHLpHwvumt8lRwA) | [Dos and D](https://open.spotify.com/album/6xhFg4CkHLpHwvumt8lRwA) | 1:04:45 |
-| 10 | [\#254 \- Lauren Phillips \- Australia's Golden Girl](https://open.spotify.com/episode/4X1JGAJAY6z1eo4YsmDU9S) | [Dos and D](https://open.spotify.com/show/6xhFg4CkHLpHwvumt8lRwA) | [Dos and D](https://open.spotify.com/album/6xhFg4CkHLpHwvumt8lRwA) | 58:07 |
+| 1 | [\#5 The Nas Phone Call That Cost St Kilda… & Clarko Crying Watching NORFBALL \| TYPECast](https://open.spotify.com/episode/3QDxeHoshrkVNsTgxkha0C) | [The TYPECast](https://open.spotify.com/show/0DxPgkauoWHnpFPzwh3cCW) | [The TYPECast](https://open.spotify.com/album/0DxPgkauoWHnpFPzwh3cCW) | 1:18:05 |
+| 2 | [Norfball? Dees Ball? Hokball?!… AFL Gather Round Chaos Incoming \| TYPECast Ep\. 8](https://open.spotify.com/episode/6F34nCdo2WeTlrBimkfest) | [The TYPECast](https://open.spotify.com/show/0DxPgkauoWHnpFPzwh3cCW) | [The TYPECast](https://open.spotify.com/album/0DxPgkauoWHnpFPzwh3cCW) | 1:12:01 |
+| 3 | [I’ve Never Felt More Aura at a Footy Game… Smart\-Arses Stole AFL Round 9 \| TYPECast Ep\. 13](https://open.spotify.com/episode/0z4aZy8V3DIKBzozKl859u) | [The TYPECast](https://open.spotify.com/show/0DxPgkauoWHnpFPzwh3cCW) | [The TYPECast](https://open.spotify.com/album/0DxPgkauoWHnpFPzwh3cCW) | 1:15:12 |
+| 4 | [\#6 The Eagles Have Landed & David King may never drink again...\. \| TYPECast ](https://open.spotify.com/episode/35PoOfCecppwBAx1OE8wRR) | [The TYPECast](https://open.spotify.com/show/0DxPgkauoWHnpFPzwh3cCW) | [The TYPECast](https://open.spotify.com/album/0DxPgkauoWHnpFPzwh3cCW) | 1:14:20 |
+| 5 | [\#4 Nick Daicos Just Took AFL Opening Round Personally…\| WHAT WE LEARNT FROM AFL OPENING ROUND](https://open.spotify.com/episode/2rZjZXsxhzuLmomWHshO7X) | [The TYPECast](https://open.spotify.com/show/0DxPgkauoWHnpFPzwh3cCW) | [The TYPECast](https://open.spotify.com/album/0DxPgkauoWHnpFPzwh3cCW) | 58:02 |
+| 6 | [ They Can’t Win the Flag… Can They? The Harley goes HUUGE & No more Blue ba....s \| TYPECast Ep.14](https://open.spotify.com/episode/0OBTc1gh3Q1PLHltkrw1GR) | [The TYPECast](https://open.spotify.com/show/0DxPgkauoWHnpFPzwh3cCW) | [The TYPECast](https://open.spotify.com/album/0DxPgkauoWHnpFPzwh3cCW) | 1:14:40 |
+| 7 | [Bad Kicking Is Bad Football… Dons Break Drought & Gather Round Wrap \| TYPECast \#8](https://open.spotify.com/episode/7uu6JulBTQHf5bAacX1Q04) | [The TYPECast](https://open.spotify.com/show/0DxPgkauoWHnpFPzwh3cCW) | [The TYPECast](https://open.spotify.com/album/0DxPgkauoWHnpFPzwh3cCW) | 1:13:55 |
+| 8 | [I’M Genuinely Scared of This Team… Daicos, Dees & Freo Glaze \| TYPECast Ep\. 10](https://open.spotify.com/episode/765eTahNKYee0DAhQLOEfa) | [The TYPECast](https://open.spotify.com/show/0DxPgkauoWHnpFPzwh3cCW) | [The TYPECast](https://open.spotify.com/album/0DxPgkauoWHnpFPzwh3cCW) | 1:17:08 |
 
-Snapshot ID: `AAAAABO2DVVBZFUY5ZXrClfrAp23v/RV`
+Snapshot ID: `AAAAAKgHnSb6A+yaTT00RGhm6fpbNtM/`

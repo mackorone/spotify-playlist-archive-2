@@ -32,4 +32,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 22 | [ShaqFu](https://open.spotify.com/track/5jJ2Lsh5vBNASoKtzE9Rtp) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:25 |
 | 23 | [Violet](https://open.spotify.com/track/2vf8GGzKCRtvjyz0MVL5S1) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 4:12 |
 
-Snapshot ID: `akrwAAAAAADqLE+pTcB6ix4dVRBvw2Hp`
+Snapshot ID: `akrwAAAAAADtTGZx3aKi48fDoe9N8fg8`

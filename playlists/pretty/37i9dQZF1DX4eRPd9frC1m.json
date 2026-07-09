@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a> ",
-  "num_followers": 2574583,
+  "num_followers": 2574514,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -511,66 +511,6 @@
     {
       "added_at": "2026-06-19 04:02:00",
       "album": {
-        "name": "Push Up",
-        "url": "https://open.spotify.com/album/2afaHlpY3BkWzzaxCfNm6G"
-      },
-      "artists": [
-        {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
-        },
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        },
-        {
-          "name": "Zoey808",
-          "url": "https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ"
-        }
-      ],
-      "duration_ms": 203142,
-      "name": "Push Up",
-      "url": "https://open.spotify.com/track/4wGzISKyZqIBGtWvCLOPHH"
-    },
-    {
-      "added_at": "2026-06-19 04:02:00",
-      "album": {
-        "name": "Homework (feat. Lancey Foux)",
-        "url": "https://open.spotify.com/album/6CCd4UhRDwzxnODDJlOUpi"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Lancey Foux",
-          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
-        }
-      ],
-      "duration_ms": 154943,
-      "name": "Homework (feat. Lancey Foux)",
-      "url": "https://open.spotify.com/track/3DPmmX5uRSoEpldlHmP8Eq"
-    },
-    {
-      "added_at": "2026-06-19 04:02:00",
-      "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7JdbsYo6DFOfMTrBZS0wUL"
-      },
-      "artists": [
-        {
-          "name": "Sully",
-          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
-        }
-      ],
-      "duration_ms": 166665,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/6L9dTqUK7bDCTHkLoi6GkS"
-    },
-    {
-      "added_at": "2026-06-19 04:02:00",
-      "album": {
         "name": "4EVR",
         "url": "https://open.spotify.com/album/5FsCLKDT9gEj9wZtO3ytXB"
       },
@@ -595,6 +535,66 @@
     {
       "added_at": "2026-06-19 04:02:00",
       "album": {
+        "name": "Push Up",
+        "url": "https://open.spotify.com/album/2afaHlpY3BkWzzaxCfNm6G"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Zoey808",
+          "url": "https://open.spotify.com/artist/3R1SmbEFvkMlYBqFsPxhbJ"
+        }
+      ],
+      "duration_ms": 203142,
+      "name": "Push Up",
+      "url": "https://open.spotify.com/track/4wGzISKyZqIBGtWvCLOPHH"
+    },
+    {
+      "added_at": "2026-06-19 04:02:00",
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7JdbsYo6DFOfMTrBZS0wUL"
+      },
+      "artists": [
+        {
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        }
+      ],
+      "duration_ms": 166665,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/6L9dTqUK7bDCTHkLoi6GkS"
+    },
+    {
+      "added_at": "2026-06-19 04:02:00",
+      "album": {
+        "name": "Homework (feat. Lancey Foux)",
+        "url": "https://open.spotify.com/album/6CCd4UhRDwzxnODDJlOUpi"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        }
+      ],
+      "duration_ms": 154943,
+      "name": "Homework (feat. Lancey Foux)",
+      "url": "https://open.spotify.com/track/3DPmmX5uRSoEpldlHmP8Eq"
+    },
+    {
+      "added_at": "2026-06-19 04:02:00",
+      "album": {
         "name": "SEE YOU DROP",
         "url": "https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 157600,
       "name": "SEE YOU DROP",
       "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
+    },
+    {
+      "added_at": "2026-06-19 04:02:00",
+      "album": {
+        "name": "TYNAN TIME",
+        "url": "https://open.spotify.com/album/6vKHfrw3se3Hq12A0cNvS5"
+      },
+      "artists": [
+        {
+          "name": "TYNAN",
+          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "his name is",
+      "url": "https://open.spotify.com/track/5AMTt4QNINkJs1Hq48xD3m"
     },
     {
       "added_at": "2026-06-19 04:02:00",
@@ -627,22 +643,6 @@
       "duration_ms": 195362,
       "name": "HARD IN DA PAINT",
       "url": "https://open.spotify.com/track/3CL5yUXDzK8YXCdMC8HWhr"
-    },
-    {
-      "added_at": "2026-06-19 04:02:00",
-      "album": {
-        "name": "TYNAN TIME",
-        "url": "https://open.spotify.com/album/6vKHfrw3se3Hq12A0cNvS5"
-      },
-      "artists": [
-        {
-          "name": "TYNAN",
-          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "his name is",
-      "url": "https://open.spotify.com/track/5AMTt4QNINkJs1Hq48xD3m"
     },
     {
       "added_at": "2026-06-19 04:02:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-06-19 04:02:00",
       "album": {
-        "name": "Take Control",
-        "url": "https://open.spotify.com/album/5I1gdDu7X5YjeAEBEZ5NQW"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Take Control",
-      "url": "https://open.spotify.com/track/4CRKkzqCFATooA37D0koid"
-    },
-    {
-      "added_at": "2026-06-19 04:02:00",
-      "album": {
         "name": "Ground Shake",
         "url": "https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 202449,
       "name": "Duel of the Fates",
       "url": "https://open.spotify.com/track/03oLnmuFIM4ABv68TAcizp"
+    },
+    {
+      "added_at": "2026-06-19 04:02:00",
+      "album": {
+        "name": "Take Control",
+        "url": "https://open.spotify.com/album/5I1gdDu7X5YjeAEBEZ5NQW"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 164800,
+      "name": "Take Control",
+      "url": "https://open.spotify.com/track/4CRKkzqCFATooA37D0koid"
     },
     {
       "added_at": "2026-06-19 04:02:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2026-06-19 04:02:00",
       "album": {
-        "name": "Earthquake",
-        "url": "https://open.spotify.com/album/6KWKY20MFMllfE0B65JCha"
-      },
-      "artists": [
-        {
-          "name": "Viperactive",
-          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        }
-      ],
-      "duration_ms": 119172,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/4xBQW0iZhjl7mSpse69gn5"
-    },
-    {
-      "added_at": "2026-06-19 04:02:00",
-      "album": {
         "name": "OH NO",
         "url": "https://open.spotify.com/album/77UTYvh7YqSOWDJedXuQj5"
       },
@@ -1371,50 +1351,38 @@
     {
       "added_at": "2026-06-19 04:02:00",
       "album": {
-        "name": "Movement (Wooli & Kompany Remix)",
-        "url": "https://open.spotify.com/album/0cPBiyrMXCOssOWkiETUuw"
+        "name": "Earthquake",
+        "url": "https://open.spotify.com/album/6KWKY20MFMllfE0B65JCha"
       },
       "artists": [
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
         },
         {
-          "name": "Kompany",
-          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
         }
       ],
-      "duration_ms": 157714,
-      "name": "Movement - Wooli & Kompany Remix",
-      "url": "https://open.spotify.com/track/4nUr676TfZJbZ8Fva7LIU9"
+      "duration_ms": 119172,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/4xBQW0iZhjl7mSpse69gn5"
     },
     {
       "added_at": "2026-06-19 04:02:00",
       "album": {
-        "name": "Blue Mile",
-        "url": "https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9"
+        "name": "nolimit",
+        "url": "https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv"
       },
       "artists": [
         {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        },
-        {
-          "name": "Barclay Crenshaw",
-          "url": "https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR"
-        },
-        {
-          "name": "Strategy",
-          "url": "https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3"
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
         }
       ],
-      "duration_ms": 212571,
-      "name": "Blue Mile",
-      "url": "https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0"
+      "duration_ms": 164139,
+      "name": "select@",
+      "url": "https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h"
     },
     {
       "added_at": "2026-06-19 04:02:00",
@@ -1443,18 +1411,50 @@
     {
       "added_at": "2026-06-19 04:02:00",
       "album": {
-        "name": "nolimit",
-        "url": "https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv"
+        "name": "Blue Mile",
+        "url": "https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9"
       },
       "artists": [
         {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
+        },
+        {
+          "name": "Barclay Crenshaw",
+          "url": "https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR"
+        },
+        {
+          "name": "Strategy",
+          "url": "https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3"
         }
       ],
-      "duration_ms": 164139,
-      "name": "select@",
-      "url": "https://open.spotify.com/track/55uf1FtsrO1C1pQU457O5h"
+      "duration_ms": 212571,
+      "name": "Blue Mile",
+      "url": "https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0"
+    },
+    {
+      "added_at": "2026-06-19 04:02:00",
+      "album": {
+        "name": "Movement (Wooli & Kompany Remix)",
+        "url": "https://open.spotify.com/album/0cPBiyrMXCOssOWkiETUuw"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Movement - Wooli & Kompany Remix",
+      "url": "https://open.spotify.com/track/4nUr676TfZJbZ8Fva7LIU9"
     },
     {
       "added_at": "2026-06-19 04:02:00",
@@ -1555,6 +1555,26 @@
     {
       "added_at": "2026-06-19 04:02:00",
       "album": {
+        "name": "SHOOT 2 KILL",
+        "url": "https://open.spotify.com/album/2h26ISASnahkhpEHzHQ8tz"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        },
+        {
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+        }
+      ],
+      "duration_ms": 122400,
+      "name": "SHOOT 2 KILL",
+      "url": "https://open.spotify.com/track/7k5JqvfMRikQwzyn5tyq0g"
+    },
+    {
+      "added_at": "2026-06-19 04:02:00",
+      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/2nLElGgXaPTz8rkB0IwUQu"
       },
@@ -1575,22 +1595,6 @@
       "duration_ms": 205241,
       "name": "Restless",
       "url": "https://open.spotify.com/track/2qcatm1Vvi5io4zmIQc2cp"
-    },
-    {
-      "added_at": "2026-06-19 04:02:00",
-      "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/6QqqFdBO5ZRdf4xkTF8NTY"
-      },
-      "artists": [
-        {
-          "name": "SampliFire",
-          "url": "https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa"
-        }
-      ],
-      "duration_ms": 144335,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/7AHzzHjC26x5PL3NJU6UlU"
     }
   ],
   "unique_name": "Hype",

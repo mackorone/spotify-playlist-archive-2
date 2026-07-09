@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3S03NWbWkrR1e7DPH9rf9Z.md) - [plain]
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 211,913 likes - 201 songs - 9 hr 52 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 211,914 likes - 200 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -208,6 +208,5 @@ pretty - [cumulative](/playlists/cumulative/3S03NWbWkrR1e7DPH9rf9Z.md) - [plain]
 | 198 | [Drug In Me](https://open.spotify.com/track/66529pNx16rmdFHDN3pjbE) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Drug In Me](https://open.spotify.com/album/0ZOF3HvIgmLwAyfYScfxYs) | 3:24 |
 | 199 | [Coming Alive \- Jeffrey Sutorius Remix](https://open.spotify.com/track/1rLIIshEIDTHSXxnUvXHng) | [Sixth Sense](https://open.spotify.com/artist/1lxVdgguznSRDNVFl8c5up), [Jone Fields](https://open.spotify.com/artist/1rvAjW0q7tpURqrgvoCtj5), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [JEFFREY SUTORIUS](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq) | [Coming Alive \(Jeffrey Sutorius Remix\)](https://open.spotify.com/album/1vzfRQBPtwFuI7IyRmvPXX) | 3:53 |
 | 200 | [Once Again \- Roy Orion Remix](https://open.spotify.com/track/233QURapSv9Pjdt38LRo9Y) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [VINNE](https://open.spotify.com/artist/1FGLT6mEhIrPhgqYiU57ro), [Roy Orion](https://open.spotify.com/artist/5vDWsMvaFghBZj9e6y8qSk) | [Once Again](https://open.spotify.com/album/7qzo2BOdgUqZcFKFnFoVMp) | 2:49 |
-| 201 | [Text Me](https://open.spotify.com/track/1iDvWsd0i0tONCO8lfOqC1) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Text Me](https://open.spotify.com/album/1HClfxFxgWVKnTi4S7Xf99) | 2:35 |
 
-Snapshot ID: `AAAWUSDOsHwkCYkuKF78Jy9cUevnh2M1`
+Snapshot ID: `AAAWVJa1rlsikcSxmoWxRoGbC96OCtKH`

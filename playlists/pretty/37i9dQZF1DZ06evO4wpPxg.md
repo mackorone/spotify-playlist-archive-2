@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wpPxg.md) - [plain]
 | 49 | [Buck Dance](https://open.spotify.com/track/3mehPZ1GnF8SUC4rc9BLol) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Newport](https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc) | 1:27 |
 | 50 | [He Stole Away](https://open.spotify.com/track/7zWeRrkwPuqgV6l05WF50L) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 2:40 |
 
-Snapshot ID: `akrwAAAAAACasBtQJbQRN1YinNvJMC8Z`
+Snapshot ID: `akrwAAAAAADR7uWqnhgKL34jerXjO9dH`

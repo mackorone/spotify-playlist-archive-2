@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 193068,
+  "num_followers": 193075,
   "original_name": "Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-11-25 20:24:44",
       "album": {
+        "name": "La Cruz Del Mapa",
+        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 270187,
+      "name": "Qu\u00e9 Bonito Es Querer",
+      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
+    },
+    {
+      "added_at": "2025-11-25 20:24:44",
+      "album": {
         "name": "La M\u00fasica No Se Toca (Deluxe)",
         "url": "https://open.spotify.com/album/5O5LrflUeCNwNAsCQ5o0jk"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 279226,
       "name": "Tal Vez",
       "url": "https://open.spotify.com/track/2VspVkHity8i4H9jammhhR"
-    },
-    {
-      "added_at": "2025-11-25 20:24:44",
-      "album": {
-        "name": "La Cruz Del Mapa",
-        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
-      },
-      "artists": [
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        }
-      ],
-      "duration_ms": 270187,
-      "name": "Qu\u00e9 Bonito Es Querer",
-      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
     },
     {
       "added_at": "2025-11-25 20:24:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: Raphi
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,610 likes - 102 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,611 likes - 102 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 23 | [Shooting Stars](https://open.spotify.com/track/6bhBUigkwd3yPO3IxGhZ1X) | [TESS](https://open.spotify.com/artist/3n7GqhJ1ozC746OH8OrXLQ) | [Shooting Stars](https://open.spotify.com/album/0eLLj9FQsgSKSbl2JsQeZk) | 2:18 |
 | 24 | [State Of Mind \(with Camden Cox\)](https://open.spotify.com/track/1myIzdJMe0NLZPW07ICp9s) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [State Of Mind \(with Camden Cox\)](https://open.spotify.com/album/1S2rG0Tl6kf9vorqpbPIoe) | 3:04 |
 | 25 | [Nite Rite Gamma](https://open.spotify.com/track/3UzW5id2hmsOLxICHYRqLl) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd), [Finchy](https://open.spotify.com/artist/4FfZTVelwN3QSK8ZvGHXZ2) | [Nite Rite: Alpha, Beta, Gamma, Delta E.P.](https://open.spotify.com/album/5R3SBiv5TWtbzn8kiyXLUN) | 3:46 |
-| 26 | [What A Life \(feat\. Florence Arman\)](https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [What A Life](https://open.spotify.com/album/6Ad7E2sBgst9CrKF6kUZf2) | 3:09 |
+| 26 | [What A Life \(feat\. Florence Arman\)](https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [What A Life \(feat\. Florence Arman\)](https://open.spotify.com/album/6Ad7E2sBgst9CrKF6kUZf2) | 3:09 |
 | 27 | [Moonblower](https://open.spotify.com/track/6IEJblHp8m40ceXwFw2bPw) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Descent](https://open.spotify.com/artist/6CMx10yU6I5bZzelgQ2NEa), [History Of Rave](https://open.spotify.com/artist/58er8STHlRV6sKZnkvAUuR) | [Moonblower](https://open.spotify.com/album/5RHSQF9j9G1DOcJTSOLDMj) | 3:34 |
 | 28 | [Summer Jam](https://open.spotify.com/track/0hPJu90W3jFiTSogvXTm3A) | [TLM](https://open.spotify.com/artist/7wV0mwdNBRSZ7vCaEPCGME), [Tjade](https://open.spotify.com/artist/2XgDjvneRRotQu4r9lTRuh), [Lucky Done Gone](https://open.spotify.com/artist/1eKMhcfR1J5oGdmcOiVA1n), [Moody Mehran](https://open.spotify.com/artist/1FtldHhVu3BpGvaiwaPE5K), [Merely](https://open.spotify.com/artist/3R0EMFbUS5NaombX9GQOn7) | [Summer Jam](https://open.spotify.com/album/6wdCgtpAuoLv5w5FAQJ2Rg) | 3:49 |
 | 29 | [ResuRection](https://open.spotify.com/track/3avXtcd0oJNUVB7prZEDYn) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Planet Perfecto Knights](https://open.spotify.com/artist/24To1vtxXzfI8ok2WUeRMs) | [ResuRection](https://open.spotify.com/album/1huuNXEaRU60RRZ2T4x5LI) | 2:59 |

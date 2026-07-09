@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Mark Forster, Madonna, Souly, David Guetta, badmómzjay & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 924,986 likes - 79 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 924,919 likes - 79 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

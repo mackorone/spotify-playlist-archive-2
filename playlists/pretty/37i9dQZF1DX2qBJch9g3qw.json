@@ -1,6 +1,6 @@
 {
   "description": "lost in a haze",
-  "num_followers": 178643,
+  "num_followers": 178747,
   "original_name": "dazed",
   "owner": {
     "name": "Spotify",
@@ -819,26 +819,6 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
-        "name": "Is This Real Love? (feat. Lucky Daye)",
-        "url": "https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958"
-      },
-      "artists": [
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 179579,
-      "name": "Is This Real Love? (feat. Lucky Daye) - Remix",
-      "url": "https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO"
-    },
-    {
-      "added_at": "2025-11-13 16:46:16",
-      "album": {
         "name": "Fall In Love With Her",
         "url": "https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9"
       },
@@ -859,34 +839,22 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
-        "name": "Maybe in Nirvana",
-        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
+        "name": "Is This Real Love? (feat. Lucky Daye)",
+        "url": "https://open.spotify.com/album/7wEXjP2EIz3p3EmmCXg958"
       },
       "artists": [
         {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 182052,
-      "name": "Dear Fren",
-      "url": "https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC"
-    },
-    {
-      "added_at": "2025-11-13 16:46:16",
-      "album": {
-        "name": "Don't Cry Mama",
-        "url": "https://open.spotify.com/album/79GK5Ec1fgvxqUGkgwkg77"
-      },
-      "artists": [
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        },
         {
-          "name": "Saskia",
-          "url": "https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB"
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
         }
       ],
-      "duration_ms": 217413,
-      "name": "Don't Cry Mama",
-      "url": "https://open.spotify.com/track/6FRR67NLpX4lUjnCVhwfe4"
+      "duration_ms": 179579,
+      "name": "Is This Real Love? (feat. Lucky Daye) - Remix",
+      "url": "https://open.spotify.com/track/2RNCC8Bn7umBNJKNbtDFgO"
     },
     {
       "added_at": "2025-11-13 16:46:16",
@@ -911,6 +879,38 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
+        "name": "Don't Cry Mama",
+        "url": "https://open.spotify.com/album/79GK5Ec1fgvxqUGkgwkg77"
+      },
+      "artists": [
+        {
+          "name": "Saskia",
+          "url": "https://open.spotify.com/artist/400qpwg5b70L39fD95JSaB"
+        }
+      ],
+      "duration_ms": 217413,
+      "name": "Don't Cry Mama",
+      "url": "https://open.spotify.com/track/6FRR67NLpX4lUjnCVhwfe4"
+    },
+    {
+      "added_at": "2025-11-13 16:46:16",
+      "album": {
+        "name": "Maybe in Nirvana",
+        "url": "https://open.spotify.com/album/7jZyhVwszdGpCFnhRGZqAv"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        }
+      ],
+      "duration_ms": 182052,
+      "name": "Dear Fren",
+      "url": "https://open.spotify.com/track/5a8XfB6605lKdiHw2CBuHC"
+    },
+    {
+      "added_at": "2025-11-13 16:46:16",
+      "album": {
         "name": "Anything I Can Do",
         "url": "https://open.spotify.com/album/08iTGcRERloSYCNf6X7ejn"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
-        "name": "self respect",
-        "url": "https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V"
-      },
-      "artists": [
-        {
-          "name": "Nolais",
-          "url": "https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF"
-        }
-      ],
-      "duration_ms": 209525,
-      "name": "self respect",
-      "url": "https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD"
-    },
-    {
-      "added_at": "2025-11-13 16:46:16",
-      "album": {
         "name": "XONGZ \u12a0\u1235\u1240\u12eb\u121a \u1321\u1265",
         "url": "https://open.spotify.com/album/7cl6XSy5M1wlFSFtOqQutC"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 169228,
       "name": "vinland",
       "url": "https://open.spotify.com/track/4rxGfHqxkjke3BbD6a0wkK"
+    },
+    {
+      "added_at": "2025-11-13 16:46:16",
+      "album": {
+        "name": "self respect",
+        "url": "https://open.spotify.com/album/0eiGunQk1mDtmanz6Abv5V"
+      },
+      "artists": [
+        {
+          "name": "Nolais",
+          "url": "https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF"
+        }
+      ],
+      "duration_ms": 209525,
+      "name": "self respect",
+      "url": "https://open.spotify.com/track/1DdgO0Ag96Hx34Qd5dHvKD"
     },
     {
       "added_at": "2025-11-13 16:46:16",

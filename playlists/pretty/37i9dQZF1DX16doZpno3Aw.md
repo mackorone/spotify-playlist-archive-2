@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 
 > all the best instrumentals & sounds from the internet  ∼ 🫀
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,435 likes - 110 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,816 likes - 110 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16doZpno3Aw.md) - [plain]
 | 109 | [Ethereal](https://open.spotify.com/track/7gymMiUpp1AOYR5EiRDDrO) | [Txmy](https://open.spotify.com/artist/5sHlUJiG0VTOGG6g9u3TFF) | [Ethereal](https://open.spotify.com/album/0tdi4b0MZ7cMSLVxST3f14) | 2:48 |
 | 110 | [Alberto Balsalm](https://open.spotify.com/track/6gbmylJ7sB7NFfMfTQHosf) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [...I Care Because You Do](https://open.spotify.com/album/6TmEZKJtPJ9mPsMBmyteCE) | 5:10 |
 
-Snapshot ID: `AAAAANA1AtLby7Xv2iSI9k3QfOG8ZLCS`
+Snapshot ID: `AAAAAEhVrPkZyqnuUOkEonzIaHth78o3`

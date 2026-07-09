@@ -460,7 +460,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 299333,
       "name": "\u4f60\u8981\u7684\u5168\u62ff\u8d70",
       "url": "https://open.spotify.com/track/37BXaP8wCJrH0M3AdtSNyk"
@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "\u5728\u6a39\u4e0a\u5531\u6b4c",
+        "url": "https://open.spotify.com/album/7q4J2UTcJJsHlaxCWnc8ih"
+      },
+      "artists": [
+        {
+          "name": "Claire Kuo",
+          "url": "https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf"
+        }
+      ],
+      "date_added": "2025-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226920,
+      "name": "\u5fc3\u7246",
+      "url": "https://open.spotify.com/track/0FjrLvldGA3kiwLBxv2PSD"
+    },
+    {
+      "album": {
         "name": "\u83ef\u8207\u6d6a\u6f2b",
         "url": "https://open.spotify.com/album/5KuxE9hzUumHJdDUAAptHT"
       },
@@ -1218,7 +1236,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 233406,
       "name": "\u60f3\u548c\u4f60\u770b\u4e94\u6708\u7684\u665a\u971e",
       "url": "https://open.spotify.com/track/6pFxVcn6T4BdP8mfZpTQHZ"
@@ -2004,7 +2022,7 @@
       ],
       "date_added": "2025-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-14",
+      "date_removed": null,
       "duration_ms": 321629,
       "name": "\u80cc\u53db",
       "url": "https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo"

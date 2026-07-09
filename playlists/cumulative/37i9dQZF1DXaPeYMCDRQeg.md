@@ -4,7 +4,7 @@
 
 > My love language is all of em, do all that $\#\*!
 
-508 songs - 1 day 7 hr 14 min
+509 songs - 1 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Got Me \(with Ari Lennox & Omen feat\. Ty Dolla $ign & Dreezy\)](https://open.spotify.com/track/4nw0S8MtvcLSpXCS9M8ciL) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Omen](https://open.spotify.com/artist/5j1BNsC9xeWGfBVCzzg6fc), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054) | [Revenge Of The Dreamers III](https://open.spotify.com/album/2n3quCZ0anEa46j2IveacI) | 4:44 | 2024-01-31 | 2025-05-31 |
 | [GTKY](https://open.spotify.com/track/3uS7PGMubHFbgxyS8cfqkL) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 2:32 | 2026-05-01 |  |
 | [Guess Who Loves You More](https://open.spotify.com/track/5tUXQvc0yMQD42799A1mec) | [Raheem DeVaughn](https://open.spotify.com/artist/59NO6KX7wQCG7jGdtH1NtL) | [The Love Experience](https://open.spotify.com/album/00qCxnQQPsveeZWZaNVWo0) | 5:20 | 2023-02-10 | 2024-02-01 |
+| [Gut Genug \(mit Blumengarten & Shirin David\)](https://open.spotify.com/track/7iNLydOMjLLb7BiwkdoPDU) | [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Gut Genug \(mit Blumengarten & Shirin David\)](https://open.spotify.com/album/2j3dLULErYg2IgQeBqEX1w) | 3:08 | 2026-07-08 |  |
 | [Hadju](https://open.spotify.com/track/2G36LWUjbXDsOiPvEmSEIL) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [California Player](https://open.spotify.com/album/0sZWaBtpP7HSbfR0GZdjJ0) | 2:26 | 2025-08-22 |  |
 | [Halfcrazy](https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Juslisen](https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5) | 4:14 | 2023-02-10 | 2024-02-01 |
 | [Happily Ever After](https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy) | [Personal Conversation](https://open.spotify.com/album/3UuOV0067Agbr3L9bE1D9K) | 4:36 | 2021-12-15 | 2024-11-23 |

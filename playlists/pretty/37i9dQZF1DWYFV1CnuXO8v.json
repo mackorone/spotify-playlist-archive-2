@@ -1,6 +1,6 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 203886,
+  "num_followers": 203924,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
-        "name": "\u0623\u064a\u0627\u0645\u064a",
-        "url": "https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY"
-      },
-      "artists": [
-        {
-          "name": "Amr Mostafa",
-          "url": "https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg"
-        }
-      ],
-      "duration_ms": 233221,
-      "name": "\u0644\u0645\u0633\u062a\u0643",
-      "url": "https://open.spotify.com/track/4Wq3uwziBYLuc609Xzf8eS"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
         "name": "Ahla Wahda",
         "url": "https://open.spotify.com/album/2NVcbbexvP2V3pDBtvXI6K"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 160336,
       "name": "Ahla Wahda",
       "url": "https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
+        "name": "\u0623\u064a\u0627\u0645\u064a",
+        "url": "https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY"
+      },
+      "artists": [
+        {
+          "name": "Amr Mostafa",
+          "url": "https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg"
+        }
+      ],
+      "duration_ms": 233221,
+      "name": "\u0644\u0645\u0633\u062a\u0643",
+      "url": "https://open.spotify.com/track/4Wq3uwziBYLuc609Xzf8eS"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -919,22 +919,6 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
-        "name": "\u062a\u0648\u0623\u0645\u064a",
-        "url": "https://open.spotify.com/album/0oYPkB5l1SjJUJVFwsWDNu"
-      },
-      "artists": [
-        {
-          "name": "\u0644\u064a\u0644 \u0627\u0644\u0645\u062d\u0645\u062f\u064a",
-          "url": "https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "\u062a\u0648\u0623\u0645\u064a",
-      "url": "https://open.spotify.com/track/1JOrFJ6Oju9oh33HJeT1Is"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
         "name": "\u0642\u0644\u0628\u064a \u0648\u0631\u0648\u062d\u064a \u0648\u0639\u0645\u0631\u064a",
         "url": "https://open.spotify.com/album/7kHuWSyD2vpXBgsgqSfG6H"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 288232,
       "name": "\u0642\u0644\u0628\u0649 \u0648 \u0631\u0648\u062d\u0649 \u0648 \u0639\u0645\u0631\u0649",
       "url": "https://open.spotify.com/track/5R0OJb3fdLxz4lOEJ3RAOj"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
+        "name": "\u062a\u0648\u0623\u0645\u064a",
+        "url": "https://open.spotify.com/album/0oYPkB5l1SjJUJVFwsWDNu"
+      },
+      "artists": [
+        {
+          "name": "\u0644\u064a\u0644 \u0627\u0644\u0645\u062d\u0645\u062f\u064a",
+          "url": "https://open.spotify.com/artist/1YRsTTss73lQAGhtgLKrOd"
+        }
+      ],
+      "duration_ms": 214400,
+      "name": "\u062a\u0648\u0623\u0645\u064a",
+      "url": "https://open.spotify.com/track/1JOrFJ6Oju9oh33HJeT1Is"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
-        "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
-        "url": "https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L"
-      },
-      "artists": [
-        {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
-        }
-      ],
-      "duration_ms": 198571,
-      "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
-      "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
         "name": "Ya Gamalak (Acoustic Version)",
         "url": "https://open.spotify.com/album/2S15knFuXlYmfkxlGHWblT"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 236800,
       "name": "Ghoroub",
       "url": "https://open.spotify.com/track/4HzYwVromZpF1qgANSvrxU"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
+        "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
+        "url": "https://open.spotify.com/album/5Qgmfingzj1FsL1kbu2V5L"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "duration_ms": 198571,
+      "name": "\u062c\u064a\u062a \u0645\u062a\u0623\u062e\u0631",
+      "url": "https://open.spotify.com/track/2WuP742LZAVBU21UQXkj5e"
     },
     {
       "added_at": "2026-06-17 12:04:55",

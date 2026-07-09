@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del rock de aqu\u00ed, como Robe y Leiva.",
-  "num_followers": 615971,
+  "num_followers": 615999,
   "original_name": "Rock Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-07-02 22:01:02",
       "album": {
-        "name": "Tragas o Escupes",
-        "url": "https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 214553,
-      "name": "Eso Que T\u00fa Me Das",
-      "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
-    },
-    {
-      "added_at": "2026-07-02 22:01:02",
-      "album": {
         "name": "ALGUNA PEL\u00cdCULA",
         "url": "https://open.spotify.com/album/4MGEYqtdNzINdek4d2fo0W"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 202450,
       "name": "ALGUNA PEL\u00cdCULA",
       "url": "https://open.spotify.com/track/4nKiTOHUGMUvLuuhroCTS7"
+    },
+    {
+      "added_at": "2026-07-02 22:01:02",
+      "album": {
+        "name": "Tragas o Escupes",
+        "url": "https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 214553,
+      "name": "Eso Que T\u00fa Me Das",
+      "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
     },
     {
       "added_at": "2026-07-02 22:01:02",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-07-02 22:01:02",
       "album": {
-        "name": "El Mar No Cesa- Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 241280,
-      "name": "Mar adentro",
-      "url": "https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH"
-    },
-    {
-      "added_at": "2026-07-02 22:01:02",
-      "album": {
         "name": "TU PROBLEMA",
         "url": "https://open.spotify.com/album/3fFQHVyV7xs6GiusyTRavq"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 224611,
       "name": "TU PROBLEMA",
       "url": "https://open.spotify.com/track/6nvfYRoa8TFba7G4T8wRFg"
+    },
+    {
+      "added_at": "2026-07-02 22:01:02",
+      "album": {
+        "name": "El Mar No Cesa- Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/1ybmfBatQowYBzowJxE74Y"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 241280,
+      "name": "Mar adentro",
+      "url": "https://open.spotify.com/track/1Oo6emBm60fXZJU2RCeWpH"
     },
     {
       "added_at": "2026-07-02 22:01:02",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-07-02 22:01:02",
       "album": {
-        "name": "Feo, Fuerte y Formal",
-        "url": "https://open.spotify.com/album/4D4nUPgZckdsczheG6hYIF"
-      },
-      "artists": [
-        {
-          "name": "Loquillo Y Los Trogloditas",
-          "url": "https://open.spotify.com/artist/4EM1gc21UrYHQ3eal963Xl"
-        }
-      ],
-      "duration_ms": 242266,
-      "name": "Feo Fuerte y Formal",
-      "url": "https://open.spotify.com/track/24w139jhWNnuQjnlhlzLvi"
-    },
-    {
-      "added_at": "2026-07-02 22:01:02",
-      "album": {
         "name": "A Puerta Cerrada",
         "url": "https://open.spotify.com/album/5oEdjJV5w3M9Odc7y2pWS1"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 224133,
       "name": "Rojitas las orejas",
       "url": "https://open.spotify.com/track/42R5irny7qThOYUThAL7VW"
+    },
+    {
+      "added_at": "2026-07-02 22:01:02",
+      "album": {
+        "name": "Feo, Fuerte y Formal",
+        "url": "https://open.spotify.com/album/4D4nUPgZckdsczheG6hYIF"
+      },
+      "artists": [
+        {
+          "name": "Loquillo Y Los Trogloditas",
+          "url": "https://open.spotify.com/artist/4EM1gc21UrYHQ3eal963Xl"
+        }
+      ],
+      "duration_ms": 242266,
+      "name": "Feo Fuerte y Formal",
+      "url": "https://open.spotify.com/track/24w139jhWNnuQjnlhlzLvi"
     },
     {
       "added_at": "2026-07-02 22:01:02",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-07-02 22:01:02",
       "album": {
-        "name": "Si Te Pones de Mi Parte",
-        "url": "https://open.spotify.com/album/5smmFvmTXUTeAPWeU7c9fX"
-      },
-      "artists": [
-        {
-          "name": "Silo\u00e9",
-          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
-        }
-      ],
-      "duration_ms": 319218,
-      "name": "Si Te Pones de Mi Parte",
-      "url": "https://open.spotify.com/track/5t7Z12krZNLDLWWLhRGJCZ"
-    },
-    {
-      "added_at": "2026-07-02 22:01:02",
-      "album": {
         "name": "Saca La Lengua",
         "url": "https://open.spotify.com/album/2d1m9ILYHaBna2aAUjRCXY"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 237000,
       "name": "Adi\u00f3s pap\u00e1",
       "url": "https://open.spotify.com/track/29OKK8URiORBpRsimvzsmm"
+    },
+    {
+      "added_at": "2026-07-02 22:01:02",
+      "album": {
+        "name": "Si Te Pones de Mi Parte",
+        "url": "https://open.spotify.com/album/5smmFvmTXUTeAPWeU7c9fX"
+      },
+      "artists": [
+        {
+          "name": "Silo\u00e9",
+          "url": "https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4"
+        }
+      ],
+      "duration_ms": 319218,
+      "name": "Si Te Pones de Mi Parte",
+      "url": "https://open.spotify.com/track/5t7Z12krZNLDLWWLhRGJCZ"
     },
     {
       "added_at": "2026-07-02 22:01:02",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-07-02 22:01:02",
       "album": {
+        "name": "Estop\u00eda",
+        "url": "https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 200367,
+      "name": "K\u00e9 M\u00e1s Nos Da",
+      "url": "https://open.spotify.com/track/1JurgyjeCTcDyZErghSV0y"
+    },
+    {
+      "added_at": "2026-07-02 22:01:02",
+      "album": {
         "name": "Sin Tiempo",
         "url": "https://open.spotify.com/album/1T5c9thHoIvpLBvNpH4wDn"
       },
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2026-07-02 22:01:02",
       "album": {
-        "name": "Estop\u00eda",
-        "url": "https://open.spotify.com/album/2GdvFrLeOi9qkET2X7lZ02"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 200367,
-      "name": "K\u00e9 M\u00e1s Nos Da",
-      "url": "https://open.spotify.com/track/1JurgyjeCTcDyZErghSV0y"
-    },
-    {
-      "added_at": "2026-07-02 22:01:02",
-      "album": {
         "name": "Veo Veo Mamoneo",
         "url": "https://open.spotify.com/album/7u66tmYVMMEgIRbSrvKNVI"
       },
@@ -1359,22 +1359,6 @@
       "duration_ms": 243040,
       "name": "Masculino singular",
       "url": "https://open.spotify.com/track/52QD2RqoYu47mKA1gs4I3M"
-    },
-    {
-      "added_at": "2026-07-02 22:01:02",
-      "album": {
-        "name": "Bajo Presi\u00f3n",
-        "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 259881,
-      "name": "Bajo Presi\u00f3n",
-      "url": "https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ"
     },
     {
       "added_at": "2026-07-02 22:01:02",
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2026-07-02 22:01:02",
       "album": {
-        "name": "Mediterr\u00e1naeo",
-        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
+        "name": "Bajo Presi\u00f3n",
+        "url": "https://open.spotify.com/album/0UQVnUty5NVhUOH3tKFbSK"
       },
       "artists": [
         {
-          "name": "Los Rebeldes",
-          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
         }
       ],
-      "duration_ms": 233026,
-      "name": "Mediterraneo",
-      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
+      "duration_ms": 259881,
+      "name": "Bajo Presi\u00f3n",
+      "url": "https://open.spotify.com/track/01aWWKx7oCpvTFOXmxdHtZ"
     },
     {
       "added_at": "2026-07-02 22:01:02",
@@ -1423,6 +1407,22 @@
       "duration_ms": 208101,
       "name": "El D\u00eda Que T\u00fa Te Marches",
       "url": "https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z"
+    },
+    {
+      "added_at": "2026-07-02 22:01:02",
+      "album": {
+        "name": "Mediterr\u00e1naeo",
+        "url": "https://open.spotify.com/album/7CZDkvrW1btWAv7oV0Sl3o"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "Mediterraneo",
+      "url": "https://open.spotify.com/track/6QBLmxP1tU6lw1dhKQulau"
     },
     {
       "added_at": "2026-07-02 22:01:02",
@@ -1923,26 +1923,6 @@
     {
       "added_at": "2026-07-02 22:01:02",
       "album": {
-        "name": "Llorar y bailar",
-        "url": "https://open.spotify.com/album/6tVZ8pZHYwtiHTCUdUxCQm"
-      },
-      "artists": [
-        {
-          "name": "Lucas Colman",
-          "url": "https://open.spotify.com/artist/5fRFBYxLHk3yKoLS59obIq"
-        },
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        }
-      ],
-      "duration_ms": 205635,
-      "name": "Llorar y bailar",
-      "url": "https://open.spotify.com/track/16ILDUny5QSrCoRmuZ3vaq"
-    },
-    {
-      "added_at": "2026-07-02 22:01:02",
-      "album": {
         "name": "Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV"
       },
@@ -1975,6 +1955,26 @@
     {
       "added_at": "2026-07-02 22:01:02",
       "album": {
+        "name": "Llorar y bailar",
+        "url": "https://open.spotify.com/album/6tVZ8pZHYwtiHTCUdUxCQm"
+      },
+      "artists": [
+        {
+          "name": "Lucas Colman",
+          "url": "https://open.spotify.com/artist/5fRFBYxLHk3yKoLS59obIq"
+        },
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "Llorar y bailar",
+      "url": "https://open.spotify.com/track/16ILDUny5QSrCoRmuZ3vaq"
+    },
+    {
+      "added_at": "2026-07-02 22:01:02",
+      "album": {
         "name": "Metamorfosis. En Directo Desde El Teatro Arriaga",
         "url": "https://open.spotify.com/album/5qIHOPv1Ot90WPGIRmsfMr"
       },
@@ -1996,13 +1996,13 @@
       },
       "artists": [
         {
-          "name": "Pereza",
-          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
+          "name": "Tequila",
+          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
         }
       ],
-      "duration_ms": 173226,
-      "name": "Pienso en Aquella Tarde",
-      "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
+      "duration_ms": 190013,
+      "name": "Salta!!!",
+      "url": "https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn"
     },
     {
       "added_at": "2026-07-02 22:01:02",
@@ -2012,13 +2012,13 @@
       },
       "artists": [
         {
-          "name": "Tequila",
-          "url": "https://open.spotify.com/artist/6stZWw6L5Sjy5m7OdUR3rO"
+          "name": "Pereza",
+          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
         }
       ],
-      "duration_ms": 190013,
-      "name": "Salta!!!",
-      "url": "https://open.spotify.com/track/4lpA2O8BwukysKGtUyMVtn"
+      "duration_ms": 173226,
+      "name": "Pienso en Aquella Tarde",
+      "url": "https://open.spotify.com/track/0O3pXUg9rgLYgBJcO91b37"
     },
     {
       "added_at": "2026-07-02 22:01:02",

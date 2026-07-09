@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda MS de Sergio Liz\u00e1rraga, Manuel Turizo \ud83d\udcf8",
-  "num_followers": 1302646,
+  "num_followers": 1302624,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "Con La Misma Piedra",
-        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 175496,
-      "name": "Con La Misma Piedra",
-      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
         "name": "Aunque me duela",
         "url": "https://open.spotify.com/album/4oPg77gmfcfyNOK0jMuOk9"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 228017,
       "name": "Aunque me duela",
       "url": "https://open.spotify.com/track/51yDlA62TE3XKh1eAwwEcG"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
+        "name": "Con La Misma Piedra",
+        "url": "https://open.spotify.com/album/1eF0ZEdzXqUmAJoewGZcmA"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 175496,
+      "name": "Con La Misma Piedra",
+      "url": "https://open.spotify.com/track/2PULXQ2unp8iRpt0cQXdZU"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
+        "name": "Del Cielo Nada Cae",
+        "url": "https://open.spotify.com/album/5Anng3X7vWCQ98sY8aMQvf"
+      },
+      "artists": [
+        {
+          "name": "Kompa Marley",
+          "url": "https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea"
+        }
+      ],
+      "duration_ms": 114181,
+      "name": "Del Cielo Nada Cae",
+      "url": "https://open.spotify.com/track/3iMRQ1Xm9ZQ00xmoTP43IP"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
         "name": "La Serenata",
         "url": "https://open.spotify.com/album/7xwr2mg47GmgAORNpuKf3F"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 230965,
       "name": "Mil Heridas",
       "url": "https://open.spotify.com/track/50e5wLsBnFoeBNUMbM03FW"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
-        "name": "Del Cielo Nada Cae",
-        "url": "https://open.spotify.com/album/5Anng3X7vWCQ98sY8aMQvf"
-      },
-      "artists": [
-        {
-          "name": "Kompa Marley",
-          "url": "https://open.spotify.com/artist/1mBO23E1cp3ltS0Idp7aea"
-        }
-      ],
-      "duration_ms": 114181,
-      "name": "Del Cielo Nada Cae",
-      "url": "https://open.spotify.com/track/3iMRQ1Xm9ZQ00xmoTP43IP"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "Tu Ex Amigo",
-        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 202416,
-      "name": "Amor (Bonus Track)",
-      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
         "name": "Lo Bonito de Sufrir",
         "url": "https://open.spotify.com/album/72Pm0wNsTgOwRsUdBLTGyZ"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 193872,
       "name": "Lo Bonito de Sufrir",
       "url": "https://open.spotify.com/track/3p9v4yLOF3XWQHW6WCvwku"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
+        "name": "Tu Ex Amigo",
+        "url": "https://open.spotify.com/album/6wy7F4fRExObQQC3W26jEd"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 202416,
+      "name": "Amor (Bonus Track)",
+      "url": "https://open.spotify.com/track/3dJSJnZaznkOwQhyx9RSwZ"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
+        "name": "En Vivo Desde La Oficina",
+        "url": "https://open.spotify.com/album/2WjjoqOuPMIbmZcJkqrrMc"
+      },
+      "artists": [
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "duration_ms": 144370,
+      "name": "Copa de Vino",
+      "url": "https://open.spotify.com/track/0LflEWaUaypzR08kLtgrd0"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
         "name": "Un D\u00eda Como Hoy",
         "url": "https://open.spotify.com/album/3TEMz9o6CRKPpaBbRLQorv"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 235091,
       "name": "Ya Se Muri\u00f3",
       "url": "https://open.spotify.com/track/6VEg4MhQufQOIVJVbiMGVm"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
-        "name": "En Vivo Desde La Oficina",
-        "url": "https://open.spotify.com/album/2WjjoqOuPMIbmZcJkqrrMc"
-      },
-      "artists": [
-        {
-          "name": "Beto Vega",
-          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
-        }
-      ],
-      "duration_ms": 144370,
-      "name": "Copa de Vino",
-      "url": "https://open.spotify.com/track/0LflEWaUaypzR08kLtgrd0"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
+        "name": "Mujeres Livianas",
+        "url": "https://open.spotify.com/album/4RCDJkYqQZqpth1PQh0iBd"
+      },
+      "artists": [
+        {
+          "name": "Banda Arkangel R-15",
+          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "A La Luz Del Dia",
+      "url": "https://open.spotify.com/track/0GCbv2fYRTV4eCtNswjD8f"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
         "name": "ME DERRITO (Banda)",
         "url": "https://open.spotify.com/album/7AEiXR1mHD5u2NPXlYeG2w"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 162911,
       "name": "Y Sigues Siendo T\u00fa",
       "url": "https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
-        "name": "Mujeres Livianas",
-        "url": "https://open.spotify.com/album/4RCDJkYqQZqpth1PQh0iBd"
-      },
-      "artists": [
-        {
-          "name": "Banda Arkangel R-15",
-          "url": "https://open.spotify.com/artist/2W5zpA1UnG5QaA3p3668xE"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "A La Luz Del Dia",
-      "url": "https://open.spotify.com/track/0GCbv2fYRTV4eCtNswjD8f"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "T\u00fa Ya Las Conoces, Vol. 1",
-        "url": "https://open.spotify.com/album/5hWvKoRgaDqIsg9giUp42D"
+        "name": "Piel de Az\u00facar",
+        "url": "https://open.spotify.com/album/6JeaiFUeoNgWFTpRennPih"
       },
       "artists": [
         {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+          "name": "Edwin Garcia",
+          "url": "https://open.spotify.com/artist/53kZNnikATba328qm2oHyF"
         }
       ],
-      "duration_ms": 141688,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/3BsksDqC4HyqDKNXxuTOw2"
+      "duration_ms": 176982,
+      "name": "Piel de Az\u00facar",
+      "url": "https://open.spotify.com/track/0Gw9AFN9OP4TnpkQ4skU2m"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "Piel de Az\u00facar",
-        "url": "https://open.spotify.com/album/6JeaiFUeoNgWFTpRennPih"
+        "name": "T\u00fa Ya Las Conoces, Vol. 1",
+        "url": "https://open.spotify.com/album/5hWvKoRgaDqIsg9giUp42D"
       },
       "artists": [
         {
-          "name": "Edwin Garcia",
-          "url": "https://open.spotify.com/artist/53kZNnikATba328qm2oHyF"
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
         }
       ],
-      "duration_ms": 176982,
-      "name": "Piel de Az\u00facar",
-      "url": "https://open.spotify.com/track/0Gw9AFN9OP4TnpkQ4skU2m"
+      "duration_ms": 141688,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/3BsksDqC4HyqDKNXxuTOw2"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "Si No Me Querias",
-        "url": "https://open.spotify.com/album/3PIGs2QPKmfv7VkbXru5pH"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 231780,
-      "name": "Si No Me Querias",
-      "url": "https://open.spotify.com/track/3QXqVWy2GJOiReEOQ4ue1p"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
         "name": "La Revancha Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 827509,
       "name": "El Sinaloense, La cuichi, Tamarindo, Camaron Pelado - En Vivo",
       "url": "https://open.spotify.com/track/4ETP4mqFWC9BYdphJXGJsc"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
+        "name": "Si No Me Querias",
+        "url": "https://open.spotify.com/album/3PIGs2QPKmfv7VkbXru5pH"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
+        }
+      ],
+      "duration_ms": 231780,
+      "name": "Si No Me Querias",
+      "url": "https://open.spotify.com/track/3QXqVWy2GJOiReEOQ4ue1p"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "Tu Ex Amigo",
-        "url": "https://open.spotify.com/album/3AqKfeVIb9lMVxbdw4QSYb"
-      },
-      "artists": [
-        {
-          "name": "Banda Clave Nueva",
-          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
-        }
-      ],
-      "duration_ms": 244650,
-      "name": "Tu Ex Amigo",
-      "url": "https://open.spotify.com/track/0PySTaNIj78Azf6cbzYc3l"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
         "name": "La Revancha Vol.2 (En Vivo)",
         "url": "https://open.spotify.com/album/5ayYsE1w7jcL06XDpgdFTq"
       },
@@ -1563,18 +1547,18 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "La Historia Es Otra",
-        "url": "https://open.spotify.com/album/5dmPi8B2msoHPo36SSwBRp"
+        "name": "Tu Ex Amigo",
+        "url": "https://open.spotify.com/album/3AqKfeVIb9lMVxbdw4QSYb"
       },
       "artists": [
         {
-          "name": "COSME TADEO",
-          "url": "https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6"
+          "name": "Banda Clave Nueva",
+          "url": "https://open.spotify.com/artist/7DxmRNDWbpskTfkfmiRd7R"
         }
       ],
-      "duration_ms": 145920,
-      "name": "La Historia Es Otra",
-      "url": "https://open.spotify.com/track/0mgPNIIiyOYfiPPlk1aN9F"
+      "duration_ms": 244650,
+      "name": "Tu Ex Amigo",
+      "url": "https://open.spotify.com/track/0PySTaNIj78Azf6cbzYc3l"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -1591,6 +1575,22 @@
       "duration_ms": 190767,
       "name": "Alergico Al Amor",
       "url": "https://open.spotify.com/track/0eiIL1JkWd2EiWFdX2kV4n"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
+        "name": "La Historia Es Otra",
+        "url": "https://open.spotify.com/album/5dmPi8B2msoHPo36SSwBRp"
+      },
+      "artists": [
+        {
+          "name": "COSME TADEO",
+          "url": "https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "La Historia Es Otra",
+      "url": "https://open.spotify.com/track/0mgPNIIiyOYfiPPlk1aN9F"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "Antolog\u00eda",
-        "url": "https://open.spotify.com/album/1wqqRDPHO9xCNFeb77SUYX"
-      },
-      "artists": [
-        {
-          "name": "Joel Elizalde",
-          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
-        }
-      ],
-      "duration_ms": 181388,
-      "name": "Dame Felicidad",
-      "url": "https://open.spotify.com/track/4D400kaUvocUR8tnPXmK0F"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
         "name": "Pedo No Cuenta",
         "url": "https://open.spotify.com/album/6WmW0TfNDMqS3jUUn61mKZ"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 144000,
       "name": "Pedo No Cuenta",
       "url": "https://open.spotify.com/track/1ICxx5XxqQdtCwed5WDA0D"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
+        "name": "Antolog\u00eda",
+        "url": "https://open.spotify.com/album/1wqqRDPHO9xCNFeb77SUYX"
+      },
+      "artists": [
+        {
+          "name": "Joel Elizalde",
+          "url": "https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr"
+        }
+      ],
+      "duration_ms": 181388,
+      "name": "Dame Felicidad",
+      "url": "https://open.spotify.com/track/4D400kaUvocUR8tnPXmK0F"
     },
     {
       "added_at": "2026-06-19 06:00:40",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2026-06-19 06:00:40",
       "album": {
-        "name": "Pa' Adelante Voy",
-        "url": "https://open.spotify.com/album/78e7lUBppt7mwXzXcuYrV6"
-      },
-      "artists": [
-        {
-          "name": "Jr Salazar",
-          "url": "https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP"
-        }
-      ],
-      "duration_ms": 164684,
-      "name": "Pa' Adelante Voy",
-      "url": "https://open.spotify.com/track/3YHnfff6ZchUGF1icPkg0p"
-    },
-    {
-      "added_at": "2026-06-19 06:00:40",
-      "album": {
         "name": "El Borrego Cacheton",
         "url": "https://open.spotify.com/album/6Z2iHYcZsoOWgUpoIfrrnv"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 189637,
       "name": "El Borrego Cacheton",
       "url": "https://open.spotify.com/track/5ZUAFgO70n1A5Qm9e8GV7s"
+    },
+    {
+      "added_at": "2026-06-19 06:00:40",
+      "album": {
+        "name": "Pa' Adelante Voy",
+        "url": "https://open.spotify.com/album/78e7lUBppt7mwXzXcuYrV6"
+      },
+      "artists": [
+        {
+          "name": "Jr Salazar",
+          "url": "https://open.spotify.com/artist/5JxnuJgzd1wZqFHvqFLTJP"
+        }
+      ],
+      "duration_ms": 164684,
+      "name": "Pa' Adelante Voy",
+      "url": "https://open.spotify.com/track/3YHnfff6ZchUGF1icPkg0p"
     },
     {
       "added_at": "2026-06-19 06:00:40",

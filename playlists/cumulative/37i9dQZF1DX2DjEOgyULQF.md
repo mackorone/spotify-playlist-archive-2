@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-462 songs - 21 hr 47 min
+464 songs - 21 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [and finally, we reach the summit](https://open.spotify.com/track/5H3eECDA7nMacVuqr5At31) | [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT), [Good Weather For An Airstrike](https://open.spotify.com/artist/1LcsFT5fwJajcpAqmlitHX) | [AV // TH](https://open.spotify.com/album/452uPYouELxWeqwyap8Dyj) | 3:47 | 2026-04-03 |  |
 | [Andrum](https://open.spotify.com/track/6W2zZRhkMxKkXONKO04yGK) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Andrum](https://open.spotify.com/album/1XRkQoTVjfWqw2nuO5rQWk) | 3:31 | 2024-07-19 | 2024-11-05 |
 | [Annapurna](https://open.spotify.com/track/7xdg3SKAh3agUe9Sxrk20D) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [Annapurna](https://open.spotify.com/album/7GCO1XgiqlWtdeSIHwaaFY) | 2:34 | 2023-04-28 | 2026-04-04 |
-| [apnoea](https://open.spotify.com/track/2XZOoiOxcItf02RhMQK02f) | [A.Z\. Louna](https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk) | [apnoea](https://open.spotify.com/album/3RPPWPbuxp6pR9CgULpGyu) | 2:04 | 2024-05-01 |  |
+| [apnoea](https://open.spotify.com/track/2XZOoiOxcItf02RhMQK02f) | [A.Z\. Louna](https://open.spotify.com/artist/09wCM3Hlsk5DNw8Nnkihmk) | [apnoea](https://open.spotify.com/album/3RPPWPbuxp6pR9CgULpGyu) | 2:04 | 2024-05-01 | 2026-07-09 |
 | [Appalachia](https://open.spotify.com/track/2SINvQlELjLEpCxVZHjvrU) | [Divine Vibration](https://open.spotify.com/artist/0A4kwgSztRzeUGBrY8jR9c) | [Appalachia](https://open.spotify.com/album/261Bceoliberg12FO8LrNb) | 2:18 | 2026-04-03 |  |
 | [Archipelago](https://open.spotify.com/track/0IWNLm9QRIoXOjaepNJLhh) | [Abstract Time](https://open.spotify.com/artist/7HNpdpSzEr0e88c60UTUEJ) | [Archipelago](https://open.spotify.com/album/76ohf0RIK8o31vwN8TPqND) | 2:50 | 2026-04-03 |  |
 | [Areal](https://open.spotify.com/track/3KDp84OrH2TLsjs85tS37b) | [Faux Moon](https://open.spotify.com/artist/6nDHxcxzE1HEYG9PYmuVQW) | [Areal](https://open.spotify.com/album/7jFuzAjDvq7uMGZuofQL10) | 2:34 | 2026-04-03 |  |
@@ -49,6 +49,7 @@
 | [Birds In The Cul\-De\-Sac](https://open.spotify.com/track/6Vv7pOvG9e8zFWOwIKJTqA) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Birds In The Cul\-De\-Sac](https://open.spotify.com/album/7sUigBnrLRsr8JD3oCVNfq) | 1:05 | 2026-04-03 | 2026-06-13 |
 | [Birds Singing In The Park](https://open.spotify.com/track/6PvZUOTuc5K7hHawZv8FD9) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Birds Singing In The Park](https://open.spotify.com/album/2wdnVPooTFEX6h6N1OFoVV) | 1:02 | 2026-04-03 |  |
 | [Blissed Out](https://open.spotify.com/track/2f87y9hlltwy95cG6FrTle) | [Soul Editor](https://open.spotify.com/artist/6ha711zIsbNRtnnoUF3rTU) | [Blissed Out](https://open.spotify.com/album/3Jy207hzZVAYlhiOskbDrD) | 2:32 | 2026-01-08 | 2026-04-04 |
+| [Blooming Canopy](https://open.spotify.com/track/05LVvmA1kkHNqCuqvXWeYk) | [Softfield](https://open.spotify.com/artist/3fAsMj4bHch8mjQ3wf5BOV) | [Blooming Canopy](https://open.spotify.com/album/52jBYHzCKQQolr0TrxAHLu) | 2:39 | 2026-07-03 |  |
 | [Blue River Hills](https://open.spotify.com/track/1Qp4ZHQYLCH3PjVvmKGuaS) | [Nolan West](https://open.spotify.com/artist/25DKElOUj8NYekti1LTyzS) | [Blue River Hills](https://open.spotify.com/album/5HJiGeDUsdAuouuEOVPZH9) | 2:37 | 2026-04-03 |  |
 | [Blurred Valley](https://open.spotify.com/track/57f9MmWo5Vy8nUT4Hhwd4O) | [Inner Purpose](https://open.spotify.com/artist/5Oy46V4li9PKCzp6bBxxd7) | [Blurred Valley](https://open.spotify.com/album/6X2xsKywJbeV3Y2EWIUOIZ) | 2:31 | 2025-09-10 |  |
 | [Breath Of The Mountain \- Birdsong Mix](https://open.spotify.com/track/5MIHW6CVUX6Tk0fKV7Fz3I) | [Yakushima Dove](https://open.spotify.com/artist/5pOo0TJogDJFi9af6Takg5) | [Breath Of The Mountain \(Birdsong Mix\)](https://open.spotify.com/album/1nQVOIrtSwvlN2ncpY5VFX) | 2:50 | 2026-05-27 | 2026-06-27 |
@@ -121,6 +122,7 @@
 | [Eiren Vale](https://open.spotify.com/track/4A2frSnLQt5qQXsuVoeN3z) | [Elysian Woods](https://open.spotify.com/artist/2a9nGgopYoBxxQMwXO7bvi) | [Eiren Vale](https://open.spotify.com/album/6RyKg6vRmfvtXmJ3AxcNjf) | 3:10 | 2026-02-23 | 2026-04-04 |
 | [Elsewhere](https://open.spotify.com/track/5cnTweMt0wMIwQ1QrrMn3n) | [Tomorrow and Now](https://open.spotify.com/artist/482UOUYdqsKTTUmnENSKJQ) | [Elsewhere](https://open.spotify.com/album/731Aao1LRdcSKTKI6y65jb) | 3:06 | 2024-10-01 | 2026-04-04 |
 | [Emberly Path](https://open.spotify.com/track/6LQiwabLqjy1jEJEACKcyj) | [Peaceful Plausible](https://open.spotify.com/artist/2jBR2Yedi7YgJOjZLDtSJI) | [Emberly Path](https://open.spotify.com/album/2E7vitCgw71paDzGHMukLQ) | 2:59 | 2023-04-28 | 2025-05-22 |
+| [Endless Clouds](https://open.spotify.com/track/2GTfmAPDOT2JpcExWit355) | [Shanglari](https://open.spotify.com/artist/1cK5ptD5pydqAD3wiayjGL) | [Endless Clouds](https://open.spotify.com/album/0Ql7z2eNgrPJMKOKPW3P9d) | 2:41 | 2026-07-03 |  |
 | [Endless Nights](https://open.spotify.com/track/1dh5L7YteK5UzPCrjU9Mnz) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Endless Nights](https://open.spotify.com/album/74Idklak1pC21HpDPPcDBC) | 3:09 | 2023-04-28 | 2025-05-22 |
 | [Enigmatic Horizons 432Hz](https://open.spotify.com/track/64bMWsrYB61C7X26uWNSSY) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Enigmatic Horizons 432Hz](https://open.spotify.com/album/7MNM11t6gpm5ozpA2iffcf) | 2:18 | 2024-08-23 | 2026-06-13 |
 | [Equal Breathing](https://open.spotify.com/track/66ofy4XJWfWQdQwrr5dtiZ) | [Sunwell](https://open.spotify.com/artist/1FZkHf5jmlpSdySTd8BUu2) | [Equal Breathing](https://open.spotify.com/album/7mIn7Hamhcsgpmjia45q9c) | 2:53 | 2026-07-03 |  |
@@ -362,7 +364,7 @@
 | [Silverhollow](https://open.spotify.com/track/0mJzBt2BjTqbzTHqQhqyHf) | [Elysian Woods](https://open.spotify.com/artist/2a9nGgopYoBxxQMwXO7bvi) | [Silverhollow](https://open.spotify.com/album/1S69O9i42zGrY1orv8I8c9) | 3:02 | 2026-02-23 |  |
 | [Simplicity](https://open.spotify.com/track/5ABh3sfeg6DsCcm4uWRGNf) | [Wazuna](https://open.spotify.com/artist/0qu4t2NVwyPfQaxoVrmU3n) | [Simplicity](https://open.spotify.com/album/4IS0Gx9Z1Yi2grpkSeyW5p) | 3:12 | 2023-04-28 | 2024-10-02 |
 | [Skylit Plains](https://open.spotify.com/track/0OjJS4XbfIoinFh4s9VkQr) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Skylit Plains](https://open.spotify.com/album/1eJKDiaX0plhT0hwhOEtTy) | 2:52 | 2026-04-03 |  |
-| [Sleep Shine](https://open.spotify.com/track/1NSpVywHEnNOG53Nkz3jV5) | [Hwardo Ineso](https://open.spotify.com/artist/462RWWtGvZzX3dhgZmoXgg) | [Sleep Shine](https://open.spotify.com/album/3gwXQ7jSpRBFM5qO1fqCWT) | 2:34 | 2025-07-09 |  |
+| [Sleep Shine](https://open.spotify.com/track/1NSpVywHEnNOG53Nkz3jV5) | [Hwardo Ineso](https://open.spotify.com/artist/462RWWtGvZzX3dhgZmoXgg) | [Sleep Shine](https://open.spotify.com/album/3gwXQ7jSpRBFM5qO1fqCWT) | 2:34 | 2025-07-09 | 2026-07-09 |
 | [Slow River](https://open.spotify.com/track/6Pepcvh8x9js9gD4Xq4Rh7) | [Elaifas](https://open.spotify.com/artist/4y8E0sPmztHzvNUnVIQVot) | [Slow River](https://open.spotify.com/album/774opILeSkptANsD6z00tS) | 2:51 | 2026-04-03 |  |
 | [Slowly Stream](https://open.spotify.com/track/3K5TE2OlvFLnXbRLarLlBd) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Slowly](https://open.spotify.com/album/2zKxxUDZeLSpm6whXgcnGo) | 3:11 | 2023-11-24 |  |
 | [Slumber](https://open.spotify.com/track/4zE3EZNDuoLabKLlvWcuBw) | [Nebuu](https://open.spotify.com/artist/4OHXOR1h0JhQBarufXpOtP) | [Slumber](https://open.spotify.com/album/6HwXGFUGqfDeaisYykNZGw) | 2:17 | 2024-08-23 | 2026-07-05 |

@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 49 | [Corpo Fechado](https://open.spotify.com/track/1By5QSD1AYrrOHG5a31IX3) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/6sBuYTZVabHAN4cP2a548C) | 3:00 |
 | 50 | [Guardião](https://open.spotify.com/track/2oKUNt8QJoHYP7eraNUzVd) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/6sBuYTZVabHAN4cP2a548C) | 3:54 |
 | 51 | [Congo\-Bongo](https://open.spotify.com/track/6uxEFgan5LvrZkt9UQDHuS) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1AHwQ9PfRabATOGPTEFfXq) | 4:07 |
-| 52 | [Sagrado Sião](https://open.spotify.com/track/4M944h1OR9dMuGKDaMfNF4) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 3:53 |
-| 53 | [Quem Diria](https://open.spotify.com/track/0OREYodqUjYU9Wx37glySS) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/6sBuYTZVabHAN4cP2a548C) | 4:03 |
+| 52 | [Quem Diria](https://open.spotify.com/track/0OREYodqUjYU9Wx37glySS) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/6sBuYTZVabHAN4cP2a548C) | 4:03 |
+| 53 | [Sagrado Sião](https://open.spotify.com/track/4M944h1OR9dMuGKDaMfNF4) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 3:53 |
 | 54 | [Mãe África](https://open.spotify.com/track/1mBQdZ74n4lfWI3VC6KnOU) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1AHwQ9PfRabATOGPTEFfXq) | 7:20 |
 | 55 | [Destemido Leão](https://open.spotify.com/track/6csDU4SVKvDJYMxArrHd2n) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 4:15 |
 | 56 | [Mundaú Pede Socorro](https://open.spotify.com/track/23hGl9Ml93QPYADLAqgM9z) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 3:58 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 58 | [Vítima](https://open.spotify.com/track/3evRYeoBMqhJt3oDNojlps) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 4:10 |
 | 59 | [Rasta Commander](https://open.spotify.com/track/5a6pFkwgYuw7SgJ2QanIJG) | [Luiz de Assis](https://open.spotify.com/artist/6GsSCLHySnPTdaS82mgMir), [Cedric Myton](https://open.spotify.com/artist/0WYnbwHtJwlgq4kZ8wv5Y3), [Átila Santana](https://open.spotify.com/artist/3xZplycz3ZHKYoIUM9wwnS) | [Rasta Commander](https://open.spotify.com/album/3aGP9FKhuvuqnbkUuFISnC) | 4:20 |
 
-Snapshot ID: `AcWQHAAAAAAWTQ3QuzN3H5arCn/7MpCv`
+Snapshot ID: `AcWVqAAAAADZXavkI/cHs+VSD9TeefCl`

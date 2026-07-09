@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-331 songs - 19 hr 3 min
+333 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Hell of a Life](https://open.spotify.com/track/39bU8AEH68pHW6rGXKg9gR) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 3:15 | 2024-12-11 |  |
 | [Hex](https://open.spotify.com/track/4Bq0dDS1Yk1g3KwpbMDtvU) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 5:17 | 2024-05-01 |  |
 | [Hi](https://open.spotify.com/track/5HtswmywLW6N0oDiKafPWw) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [Album II: The Land Of The Twisted Tree](https://open.spotify.com/album/6oKdKdacgWZBqmeqvp0thB) | 3:42 | 2026-04-22 |  |
+| [Hideaway](https://open.spotify.com/track/5OgtItBTAEr6dusIMcYx3D) | [Hanah](https://open.spotify.com/artist/1W3dMFlEIR5ZSZyaK7Ox5C) | [Hideaway](https://open.spotify.com/album/4z4B2NEV5GS1rWCD5wzkWZ) | 4:02 | 2026-07-08 |  |
 | [Hideaway](https://open.spotify.com/track/26JG8US8oI3U3sdfL6OeA5) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Hideaway](https://open.spotify.com/album/2etUxQYwcWRglGBTSGKYCY) | 4:02 | 2024-05-01 | 2025-11-28 |
 | [High on You](https://open.spotify.com/track/1x2ql7GenJK1F30lmR45vp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [High on You](https://open.spotify.com/album/2UBuB3s8t310icc8c4pQED) | 2:51 | 2025-04-19 | 2025-06-30 |
 | [High on You](https://open.spotify.com/track/3A2n4QNrHMiwUlonQcpwFp) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [Ambroxyde \(LP\)](https://open.spotify.com/album/1WeFIZU0jhn6QhjRgUQQrk) | 2:51 | 2025-06-29 |  |
@@ -211,6 +212,7 @@
 | [Nothing Works](https://open.spotify.com/track/0AdQEPTVO8F7QAu1eDIpll) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5) | 4:12 | 2024-05-01 |  |
 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 | 2024-05-01 |  |
 | [Open House](https://open.spotify.com/track/1JDkCStrVPtg6Ni8Z1L3TR) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:52 | 2024-05-01 |  |
+| [Out Of Touch](https://open.spotify.com/track/2oVI71dbwTzyo2dBoMQgFS) | [Hanah](https://open.spotify.com/artist/1W3dMFlEIR5ZSZyaK7Ox5C) | [Out Of Touch](https://open.spotify.com/album/2B8miFYM7u3Zrt6BGYYYvB) | 3:19 | 2026-07-08 |  |
 | [Out of Touch](https://open.spotify.com/track/4wVU2w2ec3vpmOXcxLbeGT) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Out of Touch](https://open.spotify.com/album/5yqd6fxZGkwg0MpPm3WTQD) | 3:19 | 2024-05-01 | 2025-11-28 |
 | [Overdrive](https://open.spotify.com/track/7w0DBjKu0wWit9BjUrpGDF) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7dPuO1tzvLVw0WA9kwDnyQ) | 2:59 | 2024-05-01 | 2024-12-12 |
 | [Overdrive](https://open.spotify.com/track/5oxWSNe8xUp2GtT8l28Qz7) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7EV7TIBMLWzoqjNLVI3GAE) | 2:59 | 2024-12-11 |  |

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,507 songs - 10 day 1 hr 35 min
+4,514 songs - 10 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [\(Love Is\) Corrupted Code](https://open.spotify.com/track/3eO2ad5IkMC97DodASyBPQ) | [Peepall](https://open.spotify.com/artist/0aYT6hZTd5p8g0qWhuZPyX) | [\(Love Is\) Corrupted Code](https://open.spotify.com/album/532XswazKaWQqmgBuq7CFm) | 3:24 | 2025-08-15 |  |
 | [\(You’ve Been a\) Shit To Me](https://open.spotify.com/track/34X4KcxVMjC844cSAPeij0) | [The Lovely Eggs](https://open.spotify.com/artist/4DO9uZBipcWHEfMXo87yhS) | [Bin Juice](https://open.spotify.com/album/23O2GkJX92vYDabrLwdzVe) | 2:52 | 2025-11-04 |  |
 | [.Waves of Tomorrow](https://open.spotify.com/track/17chWXAbyBFjclJgPo7bEo) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Contemporary New Wave](https://open.spotify.com/album/032BuKEVgSbHk3EPcbSZQc) | 2:59 | 2025-09-19 |  |
+| [10 Years](https://open.spotify.com/track/0is7U35DiSUWJW92TGlXSY) | [Eden Entertainment](https://open.spotify.com/artist/7FSh28tz5yH7HthohtdIPA), [Children of Eden](https://open.spotify.com/artist/4LmMQKaZzvr1hid7GwiXcL) | [The Banana Split](https://open.spotify.com/album/5LsPvBY6yIRbilKjCoaGuF) | 3:11 | 2026-07-08 |  |
 | [100](https://open.spotify.com/track/3xfYZ7C2oZmElosQK6STR9) | [I\-Voltage](https://open.spotify.com/artist/2hWpm5e3As9l7pwZ3Pt1TP) | [100](https://open.spotify.com/album/56leTp9GIRivs1gbvoZl93) | 2:41 | 2025-06-04 |  |
 | [100 Hod](https://open.spotify.com/track/0iV71apxpIvDdd4vLdj4wr) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [100 Hod](https://open.spotify.com/album/62pqGsxT3FIQJdCv6unCH9) | 2:31 | 2026-05-24 |  |
 | [100k notti](https://open.spotify.com/track/0nV38qVfxPsQXpXzJIZPru) | [Jerry Spaggiari](https://open.spotify.com/artist/373KRO4MSO2oVp6GdqRunP) | [100k notti](https://open.spotify.com/album/6VLx0mKilNn27T0JbHHgGp) | 3:23 | 2026-01-04 |  |
@@ -616,6 +617,7 @@
 | [Checkpoint Hearts](https://open.spotify.com/track/4EmnAG3J64ktzVwEkU8nOJ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Videogame inspired alternative rock](https://open.spotify.com/album/5zRoS1FLwDk1J1PcPd4oyT) | 3:24 | 2025-09-12 |  |
 | [Cheiro de Amor](https://open.spotify.com/track/77w8IDvmyaj431LEbjan4e) | [Banda Brie](https://open.spotify.com/artist/6Lo7AVZ4XTvgTtutMlUg7v) | [Cheiro de Amor](https://open.spotify.com/album/7t0v81gwlx88HjATrcGBEp) | 4:02 | 2025-07-15 |  |
 | [Chemical Burn](https://open.spotify.com/track/6bp0vOGq6an2p1LjAm0SsB) | [NASTY LITTLE GREEN MAN](https://open.spotify.com/artist/1BAKYRCjQvS23yWPwCmogy) | [Chemical Burn](https://open.spotify.com/album/50HmYbLbJe2XdTke43VcJU) | 2:23 | 2025-12-04 |  |
+| [Chibo Da Paz](https://open.spotify.com/track/5QGSThpT3sVeE91IySPHBe) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Super\-Heriós](https://open.spotify.com/album/5kVLd6P222EsnzQMNz54bP) | 3:19 | 2026-07-08 |  |
 | [Chibo Da Paz](https://open.spotify.com/track/5YdFeUWIdKNS9CWXkwpFaH) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Chibo Da Paz](https://open.spotify.com/album/2Ly60U1eaASX4ADbkzgv7K) | 3:19 | 2025-07-09 |  |
 | [Chikondi](https://open.spotify.com/track/4QctHxDeCYTz4Ui41BprWg) | [Massa xrossfyah](https://open.spotify.com/artist/5N5tnA4Nsyxply1JlzKEih) | [Maziko](https://open.spotify.com/album/1pjoMRLCPXS12v8dRh2NiF) | 2:58 | 2025-06-04 |  |
 | [Children’s Party](https://open.spotify.com/track/3K3GKqWpa9ZFWyDTskBI2h) | [murCATolog](https://open.spotify.com/artist/2KoZ9RKRH2ktVlVpDEUoYj) | [Children’s Party](https://open.spotify.com/album/2WBD3o8lG79rrmd3Fmd0la) | 3:37 | 2025-06-04 |  |
@@ -831,6 +833,7 @@
 | [Dalla parte del coltello](https://open.spotify.com/track/4Irq1POPWe9GlzgZtGiHTJ) | [Sono](https://open.spotify.com/artist/4I9E7P0A63ze5UdhH43gpK) | [Dalla parte del coltello](https://open.spotify.com/album/2JuJAJxXEIvdGz3c9EOTtk) | 3:12 | 2025-05-27 |  |
 | [Damaged Goods](https://open.spotify.com/track/5PRU610vVE9hHvPqfH3qcX) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [Gang Of Four](https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl) | [Damaged Goods](https://open.spotify.com/album/1T0nUhUZKXBsgog7qe5u1F) | 2:40 | 2025-11-05 |  |
 | [Dame Tu Luz](https://open.spotify.com/track/5uTWNaSWu58N3tiM15QYXL) | [Murielsounds](https://open.spotify.com/artist/0qZyBmuPA4KkTBJ1u5hReS) | [Dame Tu Luz](https://open.spotify.com/album/1aKztAgaS6uG0GZOWm0Uzl) | 3:48 | 2026-01-03 |  |
+| [Damned Faces](https://open.spotify.com/track/3Aeyhxu0AnM2vtqkf1pV88) | [Decode](https://open.spotify.com/artist/0rO1fCp5TZKr28GVCu5QbE) | [Damned Faces](https://open.spotify.com/album/1DlyzqelnFc1jpQlHrwgG8) | 3:31 | 2026-07-08 |  |
 | [Dance](https://open.spotify.com/track/5c36b7t4VDo8wzfzRvcd0S) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral party music](https://open.spotify.com/album/7sIs19ORMiQ3JzO7UR609t) | 2:57 | 2025-09-15 |  |
 | [Dance \(another\)](https://open.spotify.com/track/3taqj4IYMR2HSlj7QfqOpf) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Viral party music](https://open.spotify.com/album/7sIs19ORMiQ3JzO7UR609t) | 3:07 | 2025-09-15 |  |
 | [Dance All Night](https://open.spotify.com/track/59V8OWGBg7WHYqcnM2WaCF) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Let's Pop and Dance](https://open.spotify.com/album/7uUgEeyuHVZ6at8oDHcvNE) | 2:11 | 2025-09-10 |  |
@@ -2777,6 +2780,7 @@
 | [Notte Oscura \(another\)](https://open.spotify.com/track/1HoLNPFilddEfw5BK20Ptc) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Hard Rock Italiano](https://open.spotify.com/album/7KUGkABGedkgcAuKtoeTtk) | 3:46 | 2025-09-18 |  |
 | [Notte Stellata](https://open.spotify.com/track/5JeMGjQoHPN4vRLL7KOGPr) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Trendy Music in Italiano](https://open.spotify.com/album/1uRDJZMPls64pJttY6wvvM) | 2:53 | 2025-09-18 |  |
 | [Notte Stellata \(another\)](https://open.spotify.com/track/4PfJEACLkunooXIB4wuKId) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Trendy Music in Italiano](https://open.spotify.com/album/1uRDJZMPls64pJttY6wvvM) | 2:20 | 2025-09-18 |  |
+| [Notte sul Lungomare](https://open.spotify.com/track/0ExtxEx3hDy2cHLdLRz9qn) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Popera Urbana](https://open.spotify.com/album/12RPE6EbMnoQ7pcAqIVJTV) | 2:48 | 2026-07-08 |  |
 | [Notturno](https://open.spotify.com/track/3cyMFaoKZrQV6vGTpdF11j) | [CrisVola](https://open.spotify.com/artist/2UHuefqH026GvDNMJjmsTo) | [Notturno](https://open.spotify.com/album/1P38l4eox0DGLUxdxbACir) | 3:26 | 2022-09-17 |  |
 | [NOW](https://open.spotify.com/track/1rsoaSkI5hvZRmbIbV8M4X) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [404 Love Not Found](https://open.spotify.com/album/6W1kWmXKLg6sKQPvzfjfLK) | 2:52 | 2025-08-28 |  |
 | [Now and Forever](https://open.spotify.com/track/6HTGzBSFgIXo7jkFKMw3Ea) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Now and Forever](https://open.spotify.com/album/3JqTVOFOBKvwAnqlz3rqE3) | 4:05 | 2025-06-02 |  |
@@ -2861,6 +2865,7 @@
 | [One Click Away](https://open.spotify.com/track/6NKZloBO97MV6IAP9qprzH) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Vir ALL](https://open.spotify.com/album/2KcPJlhVJvY61tJtdKUsjh) | 3:24 | 2025-09-17 |  |
 | [One Click Away \(another\)](https://open.spotify.com/track/2FShHvZdZ63DCvycc7HoUG) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Vir ALL](https://open.spotify.com/album/2KcPJlhVJvY61tJtdKUsjh) | 3:05 | 2025-09-17 |  |
 | [One Day at a Time](https://open.spotify.com/track/7l77vgHFap2UbzxXEm27Dt) | [Caleb Sample](https://open.spotify.com/artist/4xQ9vYmHgIhjX57pDbIC96) | [In Training](https://open.spotify.com/album/263UBnTGtpwkrwjIZ0bp3V) | 3:33 | 2026-01-10 |  |
+| [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 | 2026-07-08 |  |
 | [One More Dungeon](https://open.spotify.com/track/5w0PaeefR9P7DbEgckVJoE) | [Digiplayer.13](https://open.spotify.com/artist/32yRrtY4Az7zXL2a2nf9gk), [Twilight.13](https://open.spotify.com/artist/4N1jpZDATwsCAU75B8Bh99) | [One More Dungeon](https://open.spotify.com/album/1bbU8JKcZjSqjbQZKRZwMK) | 3:28 | 2025-10-03 |  |
 | [One More Time](https://open.spotify.com/track/3BAVKeHXjW1IvxyZkyTdVh) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:13 | 2025-04-09 |  |
 | [One More Time](https://open.spotify.com/track/5x6ePqe55MAzvBGBnJ5OCc) | [Oxdead](https://open.spotify.com/artist/5d7wjK3C2HChu5FT0UwtTv) | [M.I.A](https://open.spotify.com/album/5QhTvdYyeFXWGdgCCScKQu) | 1:23 | 2026-01-17 |  |
@@ -3073,6 +3078,7 @@
 | [Pure Real](https://open.spotify.com/track/3ZqW45lopWmPuppXtYmkGC) | [The Porcelain Blister](https://open.spotify.com/artist/44jaIkwSC9gia7vNxMZssR) | [Pure Real](https://open.spotify.com/album/4B5KGFayhLO4vw2qtj1rHO) | 5:29 | 2025-05-24 |  |
 | [Pure Skies](https://open.spotify.com/track/4OIo2reuI8HlqF1Vcd72bF) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Pure Skies](https://open.spotify.com/album/2zCco0qfWGnXm684i23KM3) | 3:04 | 2025-09-26 |  |
 | [Pure Skies \(sunshine mix\)](https://open.spotify.com/track/2itReH39hgH9cUKTsT2yzW) | [Routi](https://open.spotify.com/artist/0B3uouY3r7w7uJLIcORpIX) | [Pure Skies \(sunshine mix\)](https://open.spotify.com/album/6rTpVsy8vBvgV5eBQR5Ppo) | 3:48 | 2025-10-10 |  |
+| [Purple Boots](https://open.spotify.com/track/1l5ibJGuB8RKadQ6c2x6eZ) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Purple Boots](https://open.spotify.com/album/6zNl5lgn9FuPngHvt8jfyk) | 3:31 | 2026-07-08 |  |
 | [Push Them Away](https://open.spotify.com/track/6hTWg46elnphzUBcyhwUb7) | [Delusive Relics](https://open.spotify.com/artist/30OZ49YXqwwaOeq2LH94PG) | [Chaotic Notions](https://open.spotify.com/album/3TKHTI0fDRS1p5b5Wu8Yca) | 4:27 | 2025-09-16 |  |
 | [Put It Down](https://open.spotify.com/track/6myFOuMQp6uzw5BYvVm8aa) | [Xhulooo](https://open.spotify.com/artist/7Lg7lDO4P5HMTJljr0MV83) | [ABSENCE OF PRESENCE](https://open.spotify.com/album/0RIgj1ViL7PAk1iSoD0H3j) | 1:43 | 2025-06-23 |  |
 | [Put on your Coat](https://open.spotify.com/track/2puwzkcgDJ90hbV1MoYz4G) | [Angelic Bipolar](https://open.spotify.com/artist/2u0uX0s7XYniiI9VY3rTfe) | [Stranded](https://open.spotify.com/album/03Mb0vrHATWhWGyc2NYKRB) | 3:42 | 2025-09-20 |  |
@@ -4067,6 +4073,7 @@
 | [Tränen](https://open.spotify.com/track/5QMOsZYAXmC74zyNA6MVY1) | [Bierkenstock](https://open.spotify.com/artist/6EpNThKCVl7Fs0ebxfbQNJ) | [Tränen](https://open.spotify.com/album/3vqsRlHgBSdKnWWUziTpji) | 3:12 | 2025-05-26 |  |
 | [Tu dors](https://open.spotify.com/track/1Gxj17JyqnTezJkK62eVrM) | [Osah](https://open.spotify.com/artist/1AeKlQFE3f4jMoiJyuhyM1), [Weedlack](https://open.spotify.com/artist/01BvBbo2LhDw1fwCnr7iYL) | [Tu dors](https://open.spotify.com/album/4FPji3VCeIl6Um0xkKZEOk) | 2:56 | 2025-06-05 |  |
 | [Tu Hai Toh](https://open.spotify.com/track/3BjYRmww0BVPv28wfGkWJv) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Tu Hai Toh](https://open.spotify.com/album/1c0jWhoRT6biZMrqxUYx4g) | 4:11 | 2026-06-19 |  |
+| [Tu Hai Toh \- Reprise Version](https://open.spotify.com/track/6CwgYQDfDldZem7oXS0lmL) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Tu Hai Toh](https://open.spotify.com/album/1y8LBxZd0BOyQvqixXMQ7h) | 4:21 | 2026-07-08 |  |
 | [Tu mirada en mi espalda](https://open.spotify.com/track/1F4SNolb3rli87xEgepCtM) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Flores de Loto](https://open.spotify.com/album/6K4mDXoXfAGkWmestJpVSm) | 3:32 | 2025-06-16 |  |
 | [Tu último trofeo](https://open.spotify.com/track/1yrl0BSUQYUWIiQFEpzMdt) | [Javi Cobo](https://open.spotify.com/artist/3LCeawe313weY7jgIYBzkQ) | [Tu último trofeo](https://open.spotify.com/album/1WKho2AuLC6z9jeFdjhkPt) | 3:06 | 2026-03-25 |  |
 | [Tu+paranoie](https://open.spotify.com/track/73izB0Q1kmrRZwCBG2pNhL) | [Resma](https://open.spotify.com/artist/1gWkVUP7obAEzU2RPvbuKx) | [Tu+paranoie](https://open.spotify.com/album/2omvBWBuI6I87nQiFzIQVi) | 3:10 | 2025-07-05 |  |

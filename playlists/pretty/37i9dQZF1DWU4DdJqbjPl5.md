@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > Intersection of R&B and afrobeats\. Cover:  FOLA and Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,380 likes - 66 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,407 likes - 66 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

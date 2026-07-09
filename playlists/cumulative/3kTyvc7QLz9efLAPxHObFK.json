@@ -64857,6 +64857,24 @@
     },
     {
       "album": {
+        "name": "Zero Gravity",
+        "url": "https://open.spotify.com/album/3zBWHqFiEWRbITsRt7g5Ny"
+      },
+      "artists": [
+        {
+          "name": "RAYZEN",
+          "url": "https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136447,
+      "name": "Zero Gravity",
+      "url": "https://open.spotify.com/track/4oAccL4fsCtHrVl0V3NXEe"
+    },
+    {
+      "album": {
         "name": "Zombie (20th year edition)",
         "url": "https://open.spotify.com/album/45qBxGaC5AOyIosZ7OBIhx"
       },

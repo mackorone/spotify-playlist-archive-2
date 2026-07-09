@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,393 songs - 5 day 8 hr 29 min
+[mg](https://open.spotify.com/user/yom8mary) - 1 like - 2,395 songs - 5 day 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2401,5 +2401,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2391 | [Doin' Time](https://open.spotify.com/track/4eamJr2k9YDH8j58RSTmSc) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/14eK347GdWO4mBBx78tsut) | 4:13 |
 | 2392 | [White Neighbor \- remastered 2007](https://open.spotify.com/track/28dKLbA1nqWRVOmweQteP0) | [Eyehategod](https://open.spotify.com/artist/3BRjxpDVT56Y2G5dS3xYZS) | [Take As Needed for Pain \(Remastered Re\-issue + Bonus Tracks\)](https://open.spotify.com/album/0KGUACvQup4NDOhumQGa3V) | 3:54 |
 | 2393 | [Dealer](https://open.spotify.com/track/3FRIOB6cFdB6M1fREjXUAG) | [S3RL](https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2) | [Old Skool Masters \- S3RL](https://open.spotify.com/album/4DG2AOiKIXzl41ySz4KAsB) | 4:45 |
+| 2394 | [L.U.C.K.Y](https://open.spotify.com/track/1KoTSKG0vs2vbzMvrbpWjp) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:18 |
+| 2395 | [FILLE](https://open.spotify.com/track/3rqyWkpY4Qx3HVsryAOcFu) | [Cannelle](https://open.spotify.com/artist/0wBhtCF5VHSgXPGm7xfDtg) | [FILLE](https://open.spotify.com/album/1reg9VJhlIsm3n9ZthHW2Q) | 2:08 |
 
-Snapshot ID: `AAAFYIWqK+rD66Q8KxqlmXGxLdsNqYD5`
+Snapshot ID: `AAAFYlIQDHufwkOUB4v7rF8Z3glskbsX`

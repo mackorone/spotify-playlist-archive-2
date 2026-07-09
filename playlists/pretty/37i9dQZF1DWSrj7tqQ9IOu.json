@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Folie's",
-  "num_followers": 402098,
+  "num_followers": 402127,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Juin 2026",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,26 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
+        "name": "MR. DJ",
+        "url": "https://open.spotify.com/album/7hoDStNiGH3g9HEQaaKVVf"
+      },
+      "artists": [
+        {
+          "name": "Theodora",
+          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
+        },
+        {
+          "name": "Luzyqv",
+          "url": "https://open.spotify.com/artist/3GYNJkUcMPkHNBDwZZh1Yb"
+        }
+      ],
+      "duration_ms": 173513,
+      "name": "MR. DJ",
+      "url": "https://open.spotify.com/track/0suDHHudfeGh1yFVGgvzat"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
         "name": "Offerings",
         "url": "https://open.spotify.com/album/0KKhGegQzdFh8ZWKqXDdiC"
       },
@@ -431,26 +451,6 @@
       "duration_ms": 200826,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
-        "name": "MR. DJ",
-        "url": "https://open.spotify.com/album/7hoDStNiGH3g9HEQaaKVVf"
-      },
-      "artists": [
-        {
-          "name": "Theodora",
-          "url": "https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2"
-        },
-        {
-          "name": "Luzyqv",
-          "url": "https://open.spotify.com/artist/3GYNJkUcMPkHNBDwZZh1Yb"
-        }
-      ],
-      "duration_ms": 173513,
-      "name": "MR. DJ",
-      "url": "https://open.spotify.com/track/0suDHHudfeGh1yFVGgvzat"
     },
     {
       "added_at": "2026-06-30 22:00:27",
@@ -491,6 +491,22 @@
     {
       "added_at": "2026-06-30 22:00:27",
       "album": {
+        "name": "OAMPD",
+        "url": "https://open.spotify.com/album/20vW9zgw5DdNuPfOynKXPl"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "OAMPD",
+      "url": "https://open.spotify.com/track/47aEofUzey1BNJ1rvkWrxl"
+    },
+    {
+      "added_at": "2026-06-30 22:00:27",
+      "album": {
         "name": "Laurie Sky",
         "url": "https://open.spotify.com/album/77PmIyP4hIX6IphsV2rMn9"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 184013,
       "name": "Laurie Sky",
       "url": "https://open.spotify.com/track/2RzuYXqdKw0IevkQWDoUrt"
-    },
-    {
-      "added_at": "2026-06-30 22:00:27",
-      "album": {
-        "name": "OAMPD",
-        "url": "https://open.spotify.com/album/20vW9zgw5DdNuPfOynKXPl"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "OAMPD",
-      "url": "https://open.spotify.com/track/47aEofUzey1BNJ1rvkWrxl"
     },
     {
       "added_at": "2026-06-30 22:00:27",

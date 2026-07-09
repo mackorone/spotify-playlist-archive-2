@@ -4,7 +4,7 @@
 
 > Reggaetón de antes y de siempre en compañía de Plan B.
 
-477 songs - 1 day 4 hr 24 min
+478 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Lo Que Pasó Pasó \- Live](https://open.spotify.com/track/1XMflaah8kpeECqmqGwfe1) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [2K20, Pt\. 1 \(Live\)](https://open.spotify.com/album/0N091826fEGbqVB1NnKguC) | 3:29 | 2021-12-17 | 2022-07-27 |
 | [Lo Que Pasó, Pasó](https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:30 | 2024-07-12 | 2025-06-01 |
 | [los Disicipulos](https://open.spotify.com/track/2vWWy37CDlDlfPipzb4iIX) | [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Gallego](https://open.spotify.com/artist/6P9Adm5Ne2YtzhV1hOjQcC), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH), [Johnny Prez](https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw), [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [12 Discipulos](https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w) | 4:29 | 2021-12-17 |  |
+| [Los Favoritos](https://open.spotify.com/track/0ZhD6VjvIk1RIklMynYUPt) | [Luigi 21 Plus](https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [El Patán](https://open.spotify.com/album/2jldDs7MN0jmmt0LM5gmWj) | 3:38 | 2026-07-08 |  |
 | [Luna](https://open.spotify.com/track/0qFCBX8p5cgbLjJk90xy49) | [Alex Gargolas](https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Alex Gárgolas Presenta: Las Gárgolas,Vol.4](https://open.spotify.com/album/5pB29lSqQXirGEdMfJhtWH) | 3:41 | 2022-11-02 | 2024-04-19 |
 | [Luna](https://open.spotify.com/track/6l1DuBpGWcDqj3tl80MfVQ) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Luna](https://open.spotify.com/album/2GAMP9XG7wUrnlRs8LLLsE) | 3:39 | 2021-12-17 | 2022-07-29 |
 | [Luna](https://open.spotify.com/track/3ho9M5jTEsJ7ymiBN7LoRd) | [Flex](https://open.spotify.com/artist/13VwGEitoK8J0qjNjbgeTN) | [Te Quiero](https://open.spotify.com/album/64lQg8aSBACpRFwTkfk6Nm) | 3:16 | 2023-10-05 | 2023-12-26 |
@@ -473,7 +474,7 @@
 | [Wiki Wiki](https://open.spotify.com/track/5GGecqjnP2hvrhhfFAl4VO) | [Yaviah](https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8) | [La Misión 4](https://open.spotify.com/album/05vrChqlagPD4ALM4L3TAG) | 2:49 | 2021-12-17 | 2022-05-15 |
 | [Ya estoy llegando](https://open.spotify.com/track/7zFBXWKZah3pMlSMUCYfVU) | [Divino](https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X) | [Todo a su tiempo](https://open.spotify.com/album/18neQPQsVNNFYYpFAWrthZ) | 2:42 | 2023-12-21 | 2026-05-14 |
 | [Ya lo Se](https://open.spotify.com/track/2EwquaMz0nVqQ3PrjK4fAe) | [Magnate](https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V), [Valentino](https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW) | [Exitos](https://open.spotify.com/album/4TGmmsYSfg2VTz3sk2J1t3) | 3:46 | 2021-12-17 |  |
-| [Yo No Soy Tu Marido](https://open.spotify.com/track/10bbgurV9w05vJVGAX9jYq) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Reggaeton Diamond Collection](https://open.spotify.com/album/3HD7DUUJXbxVd8q6Vujpri) | 3:19 | 2021-12-17 |  |
+| [Yo No Soy Tu Marido](https://open.spotify.com/track/10bbgurV9w05vJVGAX9jYq) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Reggaeton Diamond Collection](https://open.spotify.com/album/3HD7DUUJXbxVd8q6Vujpri) | 3:19 | 2021-12-17 | 2026-07-09 |
 | [Yo no Soy Tu Marido](https://open.spotify.com/track/2h9ymIolsmYaqwtxn69fXj) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Kilates 2](https://open.spotify.com/album/6rYQq40SoConI7BlkDlVXL) | 3:21 | 2022-07-27 | 2024-04-19 |
 | [Yo Se Que Tu Quieres \(feat\. Ñengo Flow\)](https://open.spotify.com/track/3fNnPoIaVT16aLZnswQdCV) | [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Yo Se Que Tu Quieres \(feat\. Ñengo Flow\)](https://open.spotify.com/album/01PhXmyyzAVc5bkcgS2cms) | 3:28 | 2021-12-17 |  |
 | [Yo Sé Que Tú Quieres](https://open.spotify.com/track/4Aao0TQ5SvTitMxZb9oY7F) | [Sammy & Falsetto](https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Yo Sé Que Tú Quieres](https://open.spotify.com/album/1KN1u76viK52AhHlWUxmJj) | 3:28 | 2022-12-16 | 2024-04-19 |

@@ -4,7 +4,7 @@
 
 > This week's top new releases, including Mark Forster, badmómzjay, Madonna, EAZ, XEN & many more!
 
-23,221 songs - 48 day 0 hr 11 min
+23,221 songs - 48 day 0 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12678,7 +12678,7 @@
 | [Ma Bebe \(feat\. L.A.X\)](https://open.spotify.com/track/1piSgt1EMDxoGgRByTngcg) | [Ardian Bujupi](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Ma Bebe \(feat\. L.A.X\)](https://open.spotify.com/album/69qQp8h7ycLA7UsqR7oRkt) | 2:26 | 2024-05-09 | 2024-05-17 |
 | [Ma Bella](https://open.spotify.com/track/110UrbttBGnylCs1icY5JX) | [Accaoui](https://open.spotify.com/artist/0ZH9vErkeklBVpizfUWo6M), [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Ma Bella](https://open.spotify.com/album/3P2R5rsXplvC3oetaRAYbR) | 3:34 | 2024-09-19 | 2024-09-27 |
 | [Ma Bella](https://open.spotify.com/track/34KVzhprgWGL6YcOV2ZlnT) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Ma Bella](https://open.spotify.com/album/1yj73JbxUMPylKfek1w5H0) | 2:35 | 2025-09-04 | 2025-09-13 |
-| [Ma Bulle](https://open.spotify.com/track/1St5YPkyrvxzW5UMLuxDSc) | [Degzzy](https://open.spotify.com/artist/1TzQyYx8qNLGyxfFRgWhCy) | [Ma Bulle](https://open.spotify.com/album/2W5lsvRG9XY4MLAzjzvX9k) | 2:57 | 2026-07-02 |  |
+| [Ma Bulle](https://open.spotify.com/track/1St5YPkyrvxzW5UMLuxDSc) | [Degzzy](https://open.spotify.com/artist/1TzQyYx8qNLGyxfFRgWhCy) | [Ma Bulle](https://open.spotify.com/album/2W5lsvRG9XY4MLAzjzvX9k) | 2:35 | 2026-07-02 |  |
 | [Ma chérie](https://open.spotify.com/track/2Kle8vKrSquAU200Sb5WHp) | [Ici c'est Paris](https://open.spotify.com/artist/0XVAP17xehWKLmcb0DhtbZ), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Ma chérie](https://open.spotify.com/album/2Ff3vqpWfrBskuHurHzaK3) | 3:33 | 2022-08-18 | 2022-08-26 |
 | [MA DOUCE](https://open.spotify.com/track/3G9yB5mhAfdq3toymB5Pug) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [MA DOUCE](https://open.spotify.com/album/2ySxKt2YEOhxUcF0Iw5X1R) | 3:36 | 2024-02-22 | 2024-03-01 |
 | [Ma drogue](https://open.spotify.com/track/2AFT8fANFNiYV2ua5hkrS2) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Extraterrestre](https://open.spotify.com/album/4DqWj7iB2Xa2DQYiWcT7ks) | 2:48 | 2022-06-02 | 2022-06-10 |

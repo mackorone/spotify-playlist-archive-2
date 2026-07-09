@@ -1,28 +1,92 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.   Cover: Ella Maddux. Artwork by Paola Saliby",
-  "num_followers": 242072,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.   Cover: Abbie Gordon. Artwork by Paola Saliby",
+  "num_followers": 242082,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALj9sp4Ovpvh59HkIn4nXsjnFHy/",
+  "snapshot_id": "AAAAANEJTbEcJygX6y/ZZcYJKJM4ehZ+",
   "tracks": [
     {
-      "added_at": "2026-07-01 15:26:55",
+      "added_at": "2026-07-08 04:00:12",
       "album": {
-        "name": "Betting Woman",
-        "url": "https://open.spotify.com/album/6a9xEDfnVb3qgdVLa2vMjK"
+        "name": "The Pavement",
+        "url": "https://open.spotify.com/album/7ccdqbOO6BGC2p76PFODaZ"
       },
       "artists": [
         {
-          "name": "Ella Maddux",
-          "url": "https://open.spotify.com/artist/1WokQQvTE8AK9ekn4ILMvf"
+          "name": "Abbie Gordon",
+          "url": "https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy"
         }
       ],
-      "duration_ms": 185148,
-      "name": "Traveling Man",
-      "url": "https://open.spotify.com/track/6Nx25shrwDV2uXHmFjUW5l"
+      "duration_ms": 184720,
+      "name": "The Pavement",
+      "url": "https://open.spotify.com/track/6V30H2ExMpKrJ3eMJ7QByY"
+    },
+    {
+      "added_at": "2026-07-08 04:00:12",
+      "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3TWDRBwvDaMP4sQcPNrJQ7"
+      },
+      "artists": [
+        {
+          "name": "D'Leesa",
+          "url": "https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2dD0TQWTHOA7CArgLCFM60"
+    },
+    {
+      "added_at": "2026-07-08 04:00:12",
+      "album": {
+        "name": "Endless Sundays",
+        "url": "https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 248281,
+      "name": "Endless Sundays",
+      "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
+    },
+    {
+      "added_at": "2026-07-08 04:00:12",
+      "album": {
+        "name": "Sidekick",
+        "url": "https://open.spotify.com/album/2ZjO30TBy2hCRoFdZj2gUv"
+      },
+      "artists": [
+        {
+          "name": "Morgana",
+          "url": "https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d"
+        }
+      ],
+      "duration_ms": 197176,
+      "name": "Sidekick",
+      "url": "https://open.spotify.com/track/2dnkypL7uPTydT483Ptaoj"
+    },
+    {
+      "added_at": "2026-07-08 04:00:12",
+      "album": {
+        "name": "somethingsdontsitright",
+        "url": "https://open.spotify.com/album/7FKz4ailQLLQiVxvzmV7K4"
+      },
+      "artists": [
+        {
+          "name": "KENNEDY",
+          "url": "https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R"
+        }
+      ],
+      "duration_ms": 173181,
+      "name": "somethingsdontsitright",
+      "url": "https://open.spotify.com/track/3MeTIpzDrpFwfj5gDWINrQ"
     },
     {
       "added_at": "2026-07-01 15:26:55",
@@ -39,6 +103,70 @@
       "duration_ms": 137142,
       "name": "Lovesick Lobotomy",
       "url": "https://open.spotify.com/track/75puZs3gEpjiauihNVJCgs"
+    },
+    {
+      "added_at": "2026-07-08 04:00:12",
+      "album": {
+        "name": "haunted by the outside",
+        "url": "https://open.spotify.com/album/0jnFNtRWz9o2BcakSFaTHa"
+      },
+      "artists": [
+        {
+          "name": "EMiDORA",
+          "url": "https://open.spotify.com/artist/5Mb5GPa24CnwCRYjETldQn"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "i don't really know what i wanted",
+      "url": "https://open.spotify.com/track/49Ct1mPN4evMO3bjmOfv61"
+    },
+    {
+      "added_at": "2026-07-08 04:00:12",
+      "album": {
+        "name": "To Feel Is To Be",
+        "url": "https://open.spotify.com/album/7IY7etBVPeZ59kzGJZszWX"
+      },
+      "artists": [
+        {
+          "name": "Bee Bran",
+          "url": "https://open.spotify.com/artist/2JwcISksi9jHUtnesLpQWQ"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Newborn",
+      "url": "https://open.spotify.com/track/3th0jbVno6NuaUCIvKMzQu"
+    },
+    {
+      "added_at": "2026-07-08 04:00:12",
+      "album": {
+        "name": "Samaerica (Deluxe)",
+        "url": "https://open.spotify.com/album/2Dh1ad4DSaHRSPHgiG4l3j"
+      },
+      "artists": [
+        {
+          "name": "Samaera",
+          "url": "https://open.spotify.com/artist/74FCyRCyjTCpKEzoxNoTyG"
+        }
+      ],
+      "duration_ms": 136193,
+      "name": "Good Company",
+      "url": "https://open.spotify.com/track/2LTRIUYab9pf6wGtX1We3h"
+    },
+    {
+      "added_at": "2026-07-01 15:26:55",
+      "album": {
+        "name": "Betting Woman",
+        "url": "https://open.spotify.com/album/6a9xEDfnVb3qgdVLa2vMjK"
+      },
+      "artists": [
+        {
+          "name": "Ella Maddux",
+          "url": "https://open.spotify.com/artist/1WokQQvTE8AK9ekn4ILMvf"
+        }
+      ],
+      "duration_ms": 185148,
+      "name": "Traveling Man",
+      "url": "https://open.spotify.com/track/6Nx25shrwDV2uXHmFjUW5l"
     },
     {
       "added_at": "2026-07-01 15:26:55",
@@ -473,22 +601,6 @@
       "url": "https://open.spotify.com/track/5LqGOqE1vnNjc8ELAP76Tt"
     },
     {
-      "added_at": "2026-05-27 04:00:18",
-      "album": {
-        "name": "Samaerica",
-        "url": "https://open.spotify.com/album/7FNGi4m7FH3qJB14d1O0Ho"
-      },
-      "artists": [
-        {
-          "name": "Samaera",
-          "url": "https://open.spotify.com/artist/74FCyRCyjTCpKEzoxNoTyG"
-        }
-      ],
-      "duration_ms": 187042,
-      "name": "Simon Says",
-      "url": "https://open.spotify.com/track/1ndEqtyQagzN7mjA7W66CH"
-    },
-    {
       "added_at": "2026-06-10 04:00:26",
       "album": {
         "name": "Now",
@@ -503,38 +615,6 @@
       "duration_ms": 198462,
       "name": "Now",
       "url": "https://open.spotify.com/track/1sFl68Q8f6W8Arq5o2FfAd"
-    },
-    {
-      "added_at": "2026-06-10 04:00:26",
-      "album": {
-        "name": "Midnight Blue",
-        "url": "https://open.spotify.com/album/1di7MEeESta7xDolrg0jMX"
-      },
-      "artists": [
-        {
-          "name": "Maya Engen",
-          "url": "https://open.spotify.com/artist/4ZGDywKJRHj9oiRg5UkhJm"
-        }
-      ],
-      "duration_ms": 252019,
-      "name": "Midnight Blue",
-      "url": "https://open.spotify.com/track/2e1cxDtd6Pm31HcbRAcwgy"
-    },
-    {
-      "added_at": "2026-06-10 04:00:26",
-      "album": {
-        "name": "He Was Me",
-        "url": "https://open.spotify.com/album/2OYg8ohg6YfaG7wqbEcdn9"
-      },
-      "artists": [
-        {
-          "name": "Birdland",
-          "url": "https://open.spotify.com/artist/0aPxMBqhHaCera2si7ZuW1"
-        }
-      ],
-      "duration_ms": 183750,
-      "name": "Hold Me Tight",
-      "url": "https://open.spotify.com/track/5oagQqDw8pe0dl9QzspkyN"
     },
     {
       "added_at": "2026-05-20 04:00:06",
@@ -651,38 +731,6 @@
     {
       "added_at": "2026-05-20 04:00:06",
       "album": {
-        "name": "Dull Red",
-        "url": "https://open.spotify.com/album/3Csq54O7plAJKLxXwc2Elq"
-      },
-      "artists": [
-        {
-          "name": "Michele Lu",
-          "url": "https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ"
-        }
-      ],
-      "duration_ms": 213407,
-      "name": "What A Bummer!",
-      "url": "https://open.spotify.com/track/4Lbmuaiif77RwGlLN4YSwp"
-    },
-    {
-      "added_at": "2026-05-20 04:00:06",
-      "album": {
-        "name": "In Your Head",
-        "url": "https://open.spotify.com/album/3hqQUj4B1togXhQXlQhmiv"
-      },
-      "artists": [
-        {
-          "name": "ili",
-          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
-        }
-      ],
-      "duration_ms": 151966,
-      "name": "In Your Head",
-      "url": "https://open.spotify.com/track/2xceOgYP6jcQ4aci4J17Jw"
-    },
-    {
-      "added_at": "2026-05-20 04:00:06",
-      "album": {
         "name": "The Space Between",
         "url": "https://open.spotify.com/album/6DEoFmTsmNZDQRI1tSuMj9"
       },
@@ -695,26 +743,6 @@
       "duration_ms": 161100,
       "name": "The Space Between",
       "url": "https://open.spotify.com/track/6A86oMRy0oUi9XU4K84H4o"
-    },
-    {
-      "added_at": "2026-05-20 04:00:06",
-      "album": {
-        "name": "Red Siren Pick Up",
-        "url": "https://open.spotify.com/album/4seMsFDOwjsrhrXY76oSmP"
-      },
-      "artists": [
-        {
-          "name": "Magdalene",
-          "url": "https://open.spotify.com/artist/3UYOQKTtbI8icWKAH8My1c"
-        },
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 178381,
-      "name": "Red Siren Pick Up",
-      "url": "https://open.spotify.com/track/4Y4BpyeLGe2UIYK9mEJRHW"
     },
     {
       "added_at": "2026-05-13 17:43:08",
@@ -1179,38 +1207,6 @@
       "duration_ms": 179000,
       "name": "Letting Love Die",
       "url": "https://open.spotify.com/track/20sCb0w64BoQzrRzmaSl4g"
-    },
-    {
-      "added_at": "2026-03-11 04:00:22",
-      "album": {
-        "name": "Coasting",
-        "url": "https://open.spotify.com/album/32t0ImhVhPJY8BQf3GpJUR"
-      },
-      "artists": [
-        {
-          "name": "Hutch",
-          "url": "https://open.spotify.com/artist/26g14QVzVafjroNKzHuCBB"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Coasting",
-      "url": "https://open.spotify.com/track/1ztynIETfhukvEjGei77ve"
-    },
-    {
-      "added_at": "2026-02-18 18:23:36",
-      "album": {
-        "name": "Emotional Currency",
-        "url": "https://open.spotify.com/album/0AJmZZ3Q48msUG8qXcDe8c"
-      },
-      "artists": [
-        {
-          "name": "EMMA SEE",
-          "url": "https://open.spotify.com/artist/6V1tC04lPs8becylbJk8KM"
-        }
-      ],
-      "duration_ms": 151156,
-      "name": "Emotional Currency",
-      "url": "https://open.spotify.com/track/0tyRICvWUxwCKIiZePcGay"
     }
   ],
   "unique_name": "Fresh Finds Pop",

@@ -10811,6 +10811,24 @@
     },
     {
       "album": {
+        "name": "Color / Wulo",
+        "url": "https://open.spotify.com/album/3MPAuxza590Bd2JbPfxA56"
+      },
+      "artists": [
+        {
+          "name": "Ashidapo",
+          "url": "https://open.spotify.com/artist/4btl0VpVHJdsT5PlyNhmKg"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122142,
+      "name": "Color",
+      "url": "https://open.spotify.com/track/1bEpSnr5xX4QoyyXaOKq9b"
+    },
+    {
+      "album": {
         "name": "M\u0142ody Francesco",
         "url": "https://open.spotify.com/album/3FIvq0Zr2LQuNxJbgB67Bv"
       },
@@ -13848,7 +13866,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 364441,
       "name": "Don't Stop 'Til You Get Enough",
       "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ"
@@ -14380,7 +14398,7 @@
       ],
       "date_added": "2026-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 258816,
       "name": "Dreams - 2001 Remaster",
       "url": "https://open.spotify.com/track/53qkszfgztIvkFyF31GfdQ"
@@ -14398,7 +14416,7 @@
       ],
       "date_added": "2023-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-07",
+      "date_removed": null,
       "duration_ms": 257800,
       "name": "Dreams - 2004 Remaster",
       "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
@@ -15150,6 +15168,28 @@
       "duration_ms": 234288,
       "name": "Eazy",
       "url": "https://open.spotify.com/track/6Ab81Bs9fcOwaTYuBsUUpI"
+    },
+    {
+      "album": {
+        "name": "Echi'ja",
+        "url": "https://open.spotify.com/album/5gN9wbXWy46U2YjmkLFN4Q"
+      },
+      "artists": [
+        {
+          "name": "Tublark",
+          "url": "https://open.spotify.com/artist/78kg0xdNDdCAwHOu2pzryy"
+        },
+        {
+          "name": "Terry G",
+          "url": "https://open.spotify.com/artist/0Azkx5tjOLekLGEavycJ3S"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163223,
+      "name": "Echi'ja",
+      "url": "https://open.spotify.com/track/2knHBU03QXF2QhtJsDhq08"
     },
     {
       "album": {
@@ -16244,6 +16284,24 @@
       "duration_ms": 138075,
       "name": "El Pas De La Casa",
       "url": "https://open.spotify.com/track/3RR2hglYcKVjdJStqDvmJO"
+    },
+    {
+      "album": {
+        "name": "El Tiempo",
+        "url": "https://open.spotify.com/album/2NlI71RVvVCPGokqKxzhkZ"
+      },
+      "artists": [
+        {
+          "name": "The Lionx",
+          "url": "https://open.spotify.com/artist/6mL0lpfaAFYUJQoRAcdyZs"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144018,
+      "name": "El Tiempo",
+      "url": "https://open.spotify.com/track/4a7YGz3yGP0yfQLYZiGwse"
     },
     {
       "album": {
@@ -18052,7 +18110,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 246874,
       "name": "Fallegur dagur",
       "url": "https://open.spotify.com/track/0VUH43O5GBZDsVuphW1IAQ"
@@ -22351,6 +22409,24 @@
     },
     {
       "album": {
+        "name": "Romance Odyssey",
+        "url": "https://open.spotify.com/album/10JgAdZXuTlTXvGY6Texak"
+      },
+      "artists": [
+        {
+          "name": "HEART ROCKET",
+          "url": "https://open.spotify.com/artist/4jcFXHHq0wBhRTsTevapEv"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213992,
+      "name": "Glitter Glitter",
+      "url": "https://open.spotify.com/track/2U2ZMPEkFQt2Nxsj3IMGxK"
+    },
+    {
+      "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/6ZXIXOT3F3ixjH66eqJl0S"
       },
@@ -25290,6 +25366,28 @@
       "duration_ms": 246960,
       "name": "History (feat. James Blake)",
       "url": "https://open.spotify.com/track/6OakIaj4T039vJ8V2AJiWa"
+    },
+    {
+      "album": {
+        "name": "Apollo Could Never",
+        "url": "https://open.spotify.com/album/2DloBxOEy3dAL87LGY42HA"
+      },
+      "artists": [
+        {
+          "name": "Khaleel Mandel",
+          "url": "https://open.spotify.com/artist/2NSERO3kgZui6BAIiMKaQV"
+        },
+        {
+          "name": "Keion Jevon",
+          "url": "https://open.spotify.com/artist/1NQiWD11X73Y3PZm27CDHJ"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215427,
+      "name": "Hit Dogz",
+      "url": "https://open.spotify.com/track/771CKlxKMuyvIMh0wroDcG"
     },
     {
       "album": {
@@ -32512,7 +32610,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 206812,
       "name": "LAS \u00c1 MILLI L\u00cdNANNA",
       "url": "https://open.spotify.com/track/4bVRfUL52xfL8Yh9W5mgSp"
@@ -35040,7 +35138,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 253472,
       "name": "LSML\u00cd (l\u00edfi\u00f0 sem mig langar \u00ed)",
       "url": "https://open.spotify.com/track/46bnhPnuuG8lLSrCBT61s0"
@@ -35228,7 +35326,7 @@
       ],
       "date_added": "2025-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 212520,
       "name": "LXS",
       "url": "https://open.spotify.com/track/68DUVQdRVFQYj0Xr2V5YTm"
@@ -37174,7 +37272,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 189898,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ"
@@ -41404,6 +41502,24 @@
       "duration_ms": 189726,
       "name": "N\u00fdlent",
       "url": "https://open.spotify.com/track/0p3d3HY8bITfhYxO2hGnLH"
+    },
+    {
+      "album": {
+        "name": "O Xaile Tecido",
+        "url": "https://open.spotify.com/album/53ZhWDnUPVY338F88J5qDr"
+      },
+      "artists": [
+        {
+          "name": "Bago",
+          "url": "https://open.spotify.com/artist/0asaaHdDwXbfCRztveYVHI"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244959,
+      "name": "O Xaile Tecido",
+      "url": "https://open.spotify.com/track/2F9c5UMzu5Yz31iJgDIA1G"
     },
     {
       "album": {
@@ -52345,6 +52461,24 @@
     },
     {
       "album": {
+        "name": "Stay a Little Longer",
+        "url": "https://open.spotify.com/album/232bVc1IyK2klEdZ4IecyO"
+      },
+      "artists": [
+        {
+          "name": "DJ AlexUnderbridge",
+          "url": "https://open.spotify.com/artist/74NW2eaL3kaWDivMcg3GLL"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318440,
+      "name": "Stay a Little Longer",
+      "url": "https://open.spotify.com/track/6BaSkqQjEtGWfOsh1xIVjE"
+    },
+    {
+      "album": {
         "name": "Don't Be Dumb",
         "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
       },
@@ -52756,7 +52890,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 240106,
       "name": "Stingum Af",
       "url": "https://open.spotify.com/track/0yltFzTFI64tr5aNVc2isX"
@@ -53664,7 +53798,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 212655,
       "name": "Sumari\u00f0",
       "url": "https://open.spotify.com/track/0C0KHWR5vwYzDWGv81pfaw"
@@ -59069,6 +59203,24 @@
     },
     {
       "album": {
+        "name": "Englaryk \u00ed t\u00edmaglasi",
+        "url": "https://open.spotify.com/album/18QnGXc4Ld92iDbg31sN4y"
+      },
+      "artists": [
+        {
+          "name": "Megas",
+          "url": "https://open.spotify.com/artist/6XbSklZyAWRIxx7eP0netF"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184552,
+      "name": "Tv\u00e6r stj\u00f6rnur",
+      "url": "https://open.spotify.com/track/20s63d6sWh0vAO6N4Cq1ru"
+    },
+    {
+      "album": {
         "name": "Tv\u00edburar",
         "url": "https://open.spotify.com/album/37mPup3aYnbAbjWYVEXYfO"
       },
@@ -64098,7 +64250,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -65750,7 +65902,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-06",
+      "date_removed": null,
       "duration_ms": 199505,
       "name": "\u00c9g er farinn",
       "url": "https://open.spotify.com/track/78WfDuDCfJzUhOiD9vzsIf"

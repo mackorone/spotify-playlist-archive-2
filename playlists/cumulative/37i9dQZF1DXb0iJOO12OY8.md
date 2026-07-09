@@ -4,7 +4,7 @@
 
 > Heia Norge 🇳🇴⚽️🏟️
 
-243 songs - 11 hr 15 min
+244 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Kongens Menn \(feat\. Birkelunden Mannskor\)](https://open.spotify.com/track/0i4UcILImgKSCbfaHsJg5P) | [Kongens Menn](https://open.spotify.com/artist/6aJxLVgZ5875f0URSeQpRX), [Birkelunden Mannskor](https://open.spotify.com/artist/2zfbcqB6axSNewctgkHOQD) | [Kongens Menn](https://open.spotify.com/album/6L4F4xbRSmQAKO99PyCABm) | 2:48 | 2026-06-01 |  |
 | [Kun i kveld](https://open.spotify.com/track/6PIkK5x2L0t4v10BofX67d) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Kun i kveld](https://open.spotify.com/album/4jhm1B2vDAGkhlnVJWoZ3S) | 2:20 | 2024-09-12 | 2024-10-25 |
 | [Kunne vi](https://open.spotify.com/track/2zIQ3Sgm3lEMpVRz2hKQao) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Makosir](https://open.spotify.com/artist/0G7lEqLdSyAiUGMB1P9nsh) | [Kunne vi](https://open.spotify.com/album/285MzfmGoQE0a1MTPzZxPN) | 2:13 | 2024-09-05 | 2024-11-04 |
+| [Kygo Jo \(feat\. Lyng\) \- Kygo Remix](https://open.spotify.com/track/3ExrDwHbhBZYurE2AOC1rL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Flow Kingz](https://open.spotify.com/artist/1811qTctCVNYGH09k7sfyY), [JMK](https://open.spotify.com/artist/0qq6F6bI5cpDuXgRTM2ZLN), [Lyng](https://open.spotify.com/artist/5ducg8qTQPfJJSSsO3D8hB) | [Kygo Jo \(feat\. Lyng\) \[Kygo Remix\]](https://open.spotify.com/album/6AQiRXJ2i48Lu7CFUrKUER) | 2:33 | 2026-07-08 |  |
 | [La meg leve](https://open.spotify.com/track/14JwY1qZ2Y7AP9OsYb18DO) | [Søte & Rare](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [La meg leve](https://open.spotify.com/album/6oTl6TkEuWOesP1lM8NDqj) | 2:05 | 2025-10-02 | 2026-05-29 |
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-07 | 2025-09-19 |
 | [Late to the Party](https://open.spotify.com/track/4XAEAKdtHDGIFNzjIBm6vq) | [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk) | [Late to the Party](https://open.spotify.com/album/4AT4LspPIDZxipYYXBaSgt) | 3:06 | 2024-08-22 | 2024-09-30 |

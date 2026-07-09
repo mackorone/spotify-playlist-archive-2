@@ -167,6 +167,24 @@
     },
     {
       "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/4Ucfh5Q1I34pdEDX2aUkYm"
+      },
+      "artists": [
+        {
+          "name": "SPYAIR",
+          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231120,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/1yooPN7nP0BpVm7itYQ4IX"
+    },
+    {
+      "album": {
         "name": "BAD\u907a\u4f1d\u5b50",
         "url": "https://open.spotify.com/album/2m5fFSp0qAEPinuAiqOOew"
       },
@@ -574,7 +592,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 215637,
       "name": "Firetail",
       "url": "https://open.spotify.com/track/4VocvAYtw3Vad3Fx0YH3p4"
@@ -1992,7 +2010,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 222155,
       "name": "Spinner",
       "url": "https://open.spotify.com/track/6nyyC9SqAGq965GMfMJXLW"
@@ -2572,7 +2590,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 274388,
       "name": "\u305d\u306e\u672a\u6765",
       "url": "https://open.spotify.com/track/3ixysyKj23yfuMEP5kQTmL"
@@ -2968,7 +2986,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 245893,
       "name": "\u30b9\u30ad\u30f3\u30ba - Skins",
       "url": "https://open.spotify.com/track/2Hbwu2z4ybNTIMVF8v3SxJ"
@@ -3533,6 +3551,24 @@
     },
     {
       "album": {
+        "name": "\u4e00\u9032",
+        "url": "https://open.spotify.com/album/67ICiWR8Rr7GwfGzzYwHEK"
+      },
+      "artists": [
+        {
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201920,
+      "name": "\u4e00\u9032",
+      "url": "https://open.spotify.com/track/78W5EXNzK3p9Rv2pesRCiW"
+    },
+    {
+      "album": {
         "name": "\u6708\u4e26\u307f\u306b\u8f1d\u3051 / \u4eca\u3001\u50d5\u3001\u30a2\u30f3\u30c0\u30fc\u30b0\u30e9\u30a6\u30f3\u30c9\u304b\u3089",
         "url": "https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT"
       },
@@ -3616,7 +3652,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 260829,
       "name": "\u518d\u4f1a",
       "url": "https://open.spotify.com/track/7c1icp8E7aYG90vA3wo3Se"
@@ -3692,6 +3728,24 @@
       "duration_ms": 285880,
       "name": "\u524d\u524d\u524d\u4e16 - movie ver.",
       "url": "https://open.spotify.com/track/23eTkfMmq1LvqiDzeNHdVe"
+    },
+    {
+      "album": {
+        "name": "\u547d\u77ed\u3057\u5bfe\u3059\u308b\u4e59\u5973\u3088",
+        "url": "https://open.spotify.com/album/5bHN3dSjlEq7AX09q4U9dC"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228745,
+      "name": "\u547d\u77ed\u3057\u5bfe\u3059\u308b\u4e59\u5973\u3088",
+      "url": "https://open.spotify.com/track/3uXfyndmsK3fRNSMr7uWrI"
     },
     {
       "album": {
@@ -4297,6 +4351,24 @@
     },
     {
       "album": {
+        "name": "\u7d42\u5bb5",
+        "url": "https://open.spotify.com/album/13She1nPhAa5K5CdvOPOsa"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229372,
+      "name": "\u7d42\u5bb5",
+      "url": "https://open.spotify.com/track/77ve5M5MUltW9VvydkxvT7"
+    },
+    {
+      "album": {
         "name": "\u7d46\u30ce\u5947\u8de1",
         "url": "https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s"
       },
@@ -4384,7 +4456,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 225153,
       "name": "\u831c",
       "url": "https://open.spotify.com/track/2TSJ1d6cLgHqrrCIRN3bn2"
@@ -4589,6 +4661,24 @@
     },
     {
       "album": {
+        "name": "\u904b\u547d\u306e\u541b",
+        "url": "https://open.spotify.com/album/0EU29QyzTMEl8brlDIIMzC"
+      },
+      "artists": [
+        {
+          "name": "Mega Shinnosuke",
+          "url": "https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215067,
+      "name": "\u904b\u547d\u306e\u541b",
+      "url": "https://open.spotify.com/track/7yXDBF1sD0ouJniM3gnEZS"
+    },
+    {
+      "album": {
         "name": "BEST HIT AKG",
         "url": "https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA"
       },
@@ -4748,6 +4838,24 @@
       "duration_ms": 211200,
       "name": "\u9ec4\u8272\u4fe1\u53f7",
       "url": "https://open.spotify.com/track/6oActeQQvrK8TzNkapQ18W"
+    },
+    {
+      "album": {
+        "name": "\uff0bENCOUNT",
+        "url": "https://open.spotify.com/album/6WpYFMoCbOsYoQexlVpsTx"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227906,
+      "name": "\uff0bENCOUNT",
+      "url": "https://open.spotify.com/track/4SLhyRuQbNqde0qs32POBf"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 
 > Antoon kiest 20 bangers voor zomer ID 🕶️ main character summer <a href="spotify:genre:0JQ5DAqbMKFHoCrqEupC7P">Welke zomer ID ben jij?</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 314,084 likes - 96 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 314,237 likes - 96 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

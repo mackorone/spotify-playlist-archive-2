@@ -1,6 +1,6 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 223370,
+  "num_followers": 223467,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-05-04 04:59:11",
       "album": {
+        "name": "Grandes Hits",
+        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro de Am\u00e9rica",
+          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/3sMUVwOyhOuQYFmpHfzBZn"
+    },
+    {
+      "added_at": "2026-05-04 04:59:11",
+      "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 297413,
       "name": "Quiero Saber de Ti",
       "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
-    },
-    {
-      "added_at": "2026-05-04 04:59:11",
-      "album": {
-        "name": "Grandes Hits",
-        "url": "https://open.spotify.com/album/29Jat1EcKzilBPkmmd1d3R"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro de Am\u00e9rica",
-          "url": "https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ"
-        }
-      ],
-      "duration_ms": 296133,
-      "name": "No Me Vuelvo a Ilusionar",
-      "url": "https://open.spotify.com/track/0HpriIc5XXt9rqFFeVn3UR"
     }
   ],
   "unique_name": "Cl\u00e1sicos del Vallenato",

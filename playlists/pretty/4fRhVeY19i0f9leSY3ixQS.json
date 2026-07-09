@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1454,
+  "num_followers": 1457,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAART2I2FArWvmhZ/oqnByew1LnMMBBK",
+  "snapshot_id": "AAARU4zQgnfbRp43MDuZvmxIkvbxMxD/",
   "tracks": [
     {
       "added_at": "2026-05-12 03:36:45",
@@ -3797,6 +3797,22 @@
       "url": "https://open.spotify.com/track/786r3M66JjV31as4xj2UJT"
     },
     {
+      "added_at": "2026-07-08 05:34:57",
+      "album": {
+        "name": "Merge Conflict",
+        "url": "https://open.spotify.com/album/1sFAyJrEIwmtgl0F2Ar6cT"
+      },
+      "artists": [
+        {
+          "name": "Demichron",
+          "url": "https://open.spotify.com/artist/6NMYSnWscxdZZkjttaRgyp"
+        }
+      ],
+      "duration_ms": 291214,
+      "name": "Taken By The Tide",
+      "url": "https://open.spotify.com/track/4JcrCz44ViEoiYvTrSs94i"
+    },
+    {
       "added_at": "2026-07-07 15:29:44",
       "album": {
         "name": "DLMG (Don't Let Me Go)",
@@ -3895,6 +3911,58 @@
       "duration_ms": 259319,
       "name": "WHEN HORNS COLLIDE",
       "url": "https://open.spotify.com/track/2RJGiNCsB6ge2gpvWjXZG9"
+    },
+    {
+      "added_at": "2026-07-08 05:33:45",
+      "album": {
+        "name": "BLEED",
+        "url": "https://open.spotify.com/album/1HUACNh5N6FCKrsQcOzTya"
+      },
+      "artists": [
+        {
+          "name": "Condition Baker",
+          "url": "https://open.spotify.com/artist/6FRx7aC6xjwPX4XM1Ryicu"
+        }
+      ],
+      "duration_ms": 173876,
+      "name": "BLEED - Single Version",
+      "url": "https://open.spotify.com/track/6OOhnKmVu1YxR8IKPOqpbf"
+    },
+    {
+      "added_at": "2026-07-08 05:55:52",
+      "album": {
+        "name": "Bored of Peace",
+        "url": "https://open.spotify.com/album/1tGsbzN0VFgvH6dZ0TR8OC"
+      },
+      "artists": [
+        {
+          "name": "American Thought Criminals",
+          "url": "https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk"
+        }
+      ],
+      "duration_ms": 95466,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/2kbs4GfD8D08oD5ioBebsw"
+    },
+    {
+      "added_at": "2026-07-08 07:33:44",
+      "album": {
+        "name": "\u041b\u0438\u043c\u0431",
+        "url": "https://open.spotify.com/album/3Mf1IEwA32WKysNfL6hHou"
+      },
+      "artists": [
+        {
+          "name": "Tears of Neman",
+          "url": "https://open.spotify.com/artist/37AneoPhmrrV1jYYM3hDF0"
+        },
+        {
+          "name": "\u0421\u0445\u0438\u0437\u043c\u0430",
+          "url": "https://open.spotify.com/artist/0CCncp6iv6X5sYab5bClU7"
+        }
+      ],
+      "duration_ms": 246428,
+      "name": "\u041b\u0438\u043c\u0431",
+      "url": "https://open.spotify.com/track/3UuVViHiKIXIp3cirpT1mO"
     }
   ],
   "unique_name": "Spotify Radio",

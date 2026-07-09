@@ -1,6 +1,6 @@
 {
   "description": "Lasers, lights & euphoric beats - all your favorite trance anthems!",
-  "num_followers": 801953,
+  "num_followers": 802230,
   "original_name": "Trance Classics",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
+        "name": "Before the Storm, Special Edition",
+        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
+      },
+      "artists": [
+        {
+          "name": "Darude",
+          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
+        }
+      ],
+      "duration_ms": 259200,
+      "name": "Feel the Beat",
+      "url": "https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
         "name": "Twenty",
         "url": "https://open.spotify.com/album/5S26j913nxRCYKyE4sZNCR"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 202866,
       "name": "Saltwater",
       "url": "https://open.spotify.com/track/1eohWwYv5zfXgLf5yKCJIS"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
-        "name": "Before the Storm, Special Edition",
-        "url": "https://open.spotify.com/album/0Xks5v0dve8Gh2tRHIekjo"
-      },
-      "artists": [
-        {
-          "name": "Darude",
-          "url": "https://open.spotify.com/artist/0LhHRmSd1EYM5QdNeNnCoQ"
-        }
-      ],
-      "duration_ms": 259200,
-      "name": "Feel the Beat",
-      "url": "https://open.spotify.com/track/5BZx0wikkFZF2BnaIo2qTy"
     },
     {
       "added_at": "2024-07-23 09:55:55",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-07-23 09:55:55",
       "album": {
-        "name": "Escape",
-        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
-      },
-      "artists": [
-        {
-          "name": "Airbase",
-          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
-        }
-      ],
-      "duration_ms": 194946,
-      "name": "Escape - Radio Edit",
-      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
-    },
-    {
-      "added_at": "2024-07-23 09:55:55",
-      "album": {
         "name": "1998",
         "url": "https://open.spotify.com/album/6yp67msJDZJIkki3TGzhmq"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 233906,
       "name": "1998",
       "url": "https://open.spotify.com/track/0ZcJZSx8cZndVwZrudIFy9"
+    },
+    {
+      "added_at": "2024-07-23 09:55:55",
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/7hMHlj0TgrV5hw7LwZeziu"
+      },
+      "artists": [
+        {
+          "name": "Airbase",
+          "url": "https://open.spotify.com/artist/3R3fc4fBMzzmJoSrRgVdKe"
+        }
+      ],
+      "duration_ms": 194946,
+      "name": "Escape - Radio Edit",
+      "url": "https://open.spotify.com/track/0gDfkQYmyiq0eZFLof6hbh"
     },
     {
       "added_at": "2024-07-23 09:55:55",

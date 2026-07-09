@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from  Madonna, SIENNA SPIRO, DMA's, STELLA LEFTY, PNAU, Master Peace + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,085 likes - 78 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,042 likes - 78 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

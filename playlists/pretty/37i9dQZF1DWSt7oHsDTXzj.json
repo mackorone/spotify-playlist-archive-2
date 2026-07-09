@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 272121,
+  "num_followers": 272103,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "Angel in the Snow (from \"Oh. What. Fun.\")",
-        "url": "https://open.spotify.com/album/7MPeLiCCYvdWWDaMlQBMwJ"
+        "name": "A Dreamer's Holiday",
+        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
-        },
-        {
-          "name": "Oh. What. Fun.",
-          "url": "https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S"
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
         }
       ],
-      "duration_ms": 164457,
-      "name": "Angel in the Snow (from \"Oh. What. Fun.\")",
-      "url": "https://open.spotify.com/track/4PCW2aCVCGcyYPVI0JLp05"
+      "duration_ms": 180585,
+      "name": "A Dreamer's Holiday",
+      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -919,18 +915,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "A Dreamer's Holiday",
-        "url": "https://open.spotify.com/album/6A9z2Vf7QPQVUNuJg0Jq8E"
+        "name": "Angel in the Snow (from \"Oh. What. Fun.\")",
+        "url": "https://open.spotify.com/album/7MPeLiCCYvdWWDaMlQBMwJ"
       },
       "artists": [
         {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+        },
+        {
+          "name": "Oh. What. Fun.",
+          "url": "https://open.spotify.com/artist/5VYSkRVd4ZrQo12YhB3t7S"
         }
       ],
-      "duration_ms": 180585,
-      "name": "A Dreamer's Holiday",
-      "url": "https://open.spotify.com/track/61Z8rVzYJ1NHgTlI8Q5yIC"
+      "duration_ms": 164457,
+      "name": "Angel in the Snow (from \"Oh. What. Fun.\")",
+      "url": "https://open.spotify.com/track/4PCW2aCVCGcyYPVI0JLp05"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "snow globe on an alien's desk",
-        "url": "https://open.spotify.com/album/2mVWhUdGshgfvKau9tBAbx"
-      },
-      "artists": [
-        {
-          "name": "Juliet Ivy",
-          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "snow globe on an alien's desk",
-      "url": "https://open.spotify.com/track/6mMnpEBAhOovSKHVSc34V2"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
         "name": "Christmas (live from a restaurant in downtown Los Angeles)",
         "url": "https://open.spotify.com/album/3OqogtGMOvcbCm2hCbBjpg"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 215000,
       "name": "Christmas Starts Tonight - live from a restaurant in downtown Los Angeles",
       "url": "https://open.spotify.com/track/24JI1h4cMin4s5VlrWIQ2K"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
+        "name": "snow globe on an alien's desk",
+        "url": "https://open.spotify.com/album/2mVWhUdGshgfvKau9tBAbx"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "snow globe on an alien's desk",
+      "url": "https://open.spotify.com/track/6mMnpEBAhOovSKHVSc34V2"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
+        "name": "Dance Again",
+        "url": "https://open.spotify.com/album/5Neaw5nr7xDUXk3s6sC1X3"
+      },
+      "artists": [
+        {
+          "name": "Lemony Rug",
+          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
+        }
+      ],
+      "duration_ms": 221555,
+      "name": "Dance Again",
+      "url": "https://open.spotify.com/track/2nczx4CnQaE6a9WpfQpYxY"
+    },
+    {
+      "added_at": "2025-12-17 22:42:18",
+      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/5zMTm2Qp9CEPPOrMO7tluC"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 181464,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/6842Cz5JMJdFDWPf2SBsR7"
-    },
-    {
-      "added_at": "2025-12-17 22:42:18",
-      "album": {
-        "name": "Dance Again",
-        "url": "https://open.spotify.com/album/5Neaw5nr7xDUXk3s6sC1X3"
-      },
-      "artists": [
-        {
-          "name": "Lemony Rug",
-          "url": "https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY"
-        }
-      ],
-      "duration_ms": 221555,
-      "name": "Dance Again",
-      "url": "https://open.spotify.com/track/2nczx4CnQaE6a9WpfQpYxY"
     },
     {
       "added_at": "2025-12-17 22:42:18",
@@ -1263,22 +1263,18 @@
     {
       "added_at": "2025-12-17 22:42:18",
       "album": {
-        "name": "The Little Drummer Boy",
-        "url": "https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF"
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/4MWNtLj4EhEtuFg4b9qU14"
       },
       "artists": [
         {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        },
-        {
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
         }
       ],
-      "duration_ms": 176583,
-      "name": "The Little Drummer Boy",
-      "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
+      "duration_ms": 152426,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/6E6OI395lJ3uQnz9w8bqTD"
     }
   ],
   "unique_name": "Indie Christmas",

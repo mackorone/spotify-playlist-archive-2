@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The original shapeshifter returns\. Madonna forever ♾️
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,601 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,586 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 23 | [CONSTANTLY](https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu), [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [CONSTANTLY](https://open.spotify.com/album/213P10SLkkkRltYI9bbh2V) | 3:02 |
 | 24 | [if you wanna party, come over to my house](https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [if you wanna party, come over to my house](https://open.spotify.com/album/6idF8Ss7GdiB5L0jfMs4wT) | 2:51 |
 | 25 | [BLOND](https://open.spotify.com/track/33rnQxZL6yxSgvWFtBe3ci) | [jalda](https://open.spotify.com/artist/5qSesMOFsys9kvpVVOJnHa) | [BLOND](https://open.spotify.com/album/5Mp7yaHyPyTaNSEKIdJwaN) | 2:59 |
-| 26 | [Knackered](https://open.spotify.com/track/09VkoNLmL8XwFvfYTBKuU1) | [Cyst](https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB), [Daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [Knackered](https://open.spotify.com/album/5cl4NJbrhqLxQklepQTOT4) | 2:33 |
+| 26 | [Knackered](https://open.spotify.com/track/09VkoNLmL8XwFvfYTBKuU1) | [Cyst](https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB), [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [Knackered](https://open.spotify.com/album/5cl4NJbrhqLxQklepQTOT4) | 2:33 |
 | 27 | [Annoying](https://open.spotify.com/track/1gkmHKs2BwN9xLamE1JhVM) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe) | [Annoying](https://open.spotify.com/album/1dNslpThNNqAKVWrHDELw0) | 3:04 |
 | 28 | [Club To Your Arms](https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Club To Your Arms](https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda) | 3:11 |
 | 29 | [iphone <3](https://open.spotify.com/track/1TmvzvUpeKYx4asXZShFGJ) | [Julia Cooper](https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576) | [iphone <3](https://open.spotify.com/album/5KDZBLACM8JH5MTEuNE6UX) | 2:52 |

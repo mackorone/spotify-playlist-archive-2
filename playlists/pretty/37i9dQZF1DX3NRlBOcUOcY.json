@@ -1,6 +1,6 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 445203,
+  "num_followers": 445200,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-05-04 03:38:53",
       "album": {
-        "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
-        "url": "https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 189223,
-      "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
-      "url": "https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa"
-    },
-    {
-      "added_at": "2026-05-04 03:38:53",
-      "album": {
         "name": "Spotify Anniversary | Oral Fixation (20th) and Pies Descalzos (30th) LIVE",
         "url": "https://open.spotify.com/album/3MPdhBdbgE1pNvIANARIfL"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 208730,
       "name": "Hips Don't Lie - Spotify Anniversary Version",
       "url": "https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr"
+    },
+    {
+      "added_at": "2026-05-04 03:38:53",
+      "album": {
+        "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
+        "url": "https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 189223,
+      "name": "CH\u00c9VERE (joes\u00f3n_type_beat)",
+      "url": "https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa"
     },
     {
       "added_at": "2026-05-04 03:38:53",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2026-05-04 03:38:53",
       "album": {
-        "name": "Acapulco (feat. Fede Vigevani)",
-        "url": "https://open.spotify.com/album/0C2CUmnQqPs9iepBZr5v63"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Fede Vigevani",
-          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
-        }
-      ],
-      "duration_ms": 211463,
-      "name": "Acapulco (feat. Fede Vigevani)",
-      "url": "https://open.spotify.com/track/47G2PT16EOFO0EMSGG9hII"
-    },
-    {
-      "added_at": "2026-05-04 03:38:53",
-      "album": {
         "name": "AZOLEAO",
         "url": "https://open.spotify.com/album/4xiQ2wrEzUeQg8OimLtaEH"
       },
@@ -1707,6 +1687,26 @@
       "duration_ms": 135061,
       "name": "AZOLEAO",
       "url": "https://open.spotify.com/track/1o7orLqjr0u5EbTnxsPp4N"
+    },
+    {
+      "added_at": "2026-05-04 03:38:53",
+      "album": {
+        "name": "Acapulco (feat. Fede Vigevani)",
+        "url": "https://open.spotify.com/album/0C2CUmnQqPs9iepBZr5v63"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Fede Vigevani",
+          "url": "https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr"
+        }
+      ],
+      "duration_ms": 211463,
+      "name": "Acapulco (feat. Fede Vigevani)",
+      "url": "https://open.spotify.com/track/47G2PT16EOFO0EMSGG9hII"
     },
     {
       "added_at": "2026-05-04 03:38:53",

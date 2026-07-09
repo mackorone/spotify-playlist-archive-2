@@ -4,7 +4,7 @@
 
 > Let's party & clubbing with your favorite K\-pop dance hits! \(Cover: Keyveatz\) 지금 가장 핫한 댄스곡들을 만나보세요.
 
-927 songs - 2 day 0 hr 54 min
+928 songs - 2 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Billyeoon Goyangi \(Do the Dance\)](https://open.spotify.com/track/4p0uVFAXKUISu8yp9gNtWE) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [bomb](https://open.spotify.com/album/6tcKWEXikmRDB9KufEHvLp) | 3:08 | 2025-06-27 | 2026-04-22 |
 | [Bird](https://open.spotify.com/track/3XVuZNR6DbQNPJ4mBXblf7) | [Kim NamJoo](https://open.spotify.com/artist/1coxOrU1nr3pjo8KgThKFS) | [Bird](https://open.spotify.com/album/5YFm9vyuN5mbZmzzBhse9R) | 3:04 | 2022-03-31 | 2022-04-05 |
 | [Birthday](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:36 | 2022-12-02 | 2023-02-07 |
-| [Bittersweet](https://open.spotify.com/track/4attgopd8pmrJ03fSDeOI2) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [The 1st Mini Album \[AFTER CRY\]](https://open.spotify.com/album/4NZUty5ldXEcivYcDz1zaF) | 3:20 | 2026-04-01 |  |
+| [Bittersweet](https://open.spotify.com/track/4attgopd8pmrJ03fSDeOI2) | [Baby DONT Cry](https://open.spotify.com/artist/0dXoF2Q2WnVrhRT26SJNvs) | [The 1st Mini Album \[AFTER CRY\]](https://open.spotify.com/album/4NZUty5ldXEcivYcDz1zaF) | 3:20 | 2026-04-01 | 2026-07-09 |
 | [Black Crown](https://open.spotify.com/track/1cSmtCnzmOXKu0pRwQRAZz) | [KINGDOM](https://open.spotify.com/artist/0p5Ot7c8cFHtS82hd1WBN3) | [History Of Kingdom: Pt\. III\. Ivan](https://open.spotify.com/album/3fViCo8Y9npRg9TjSpOiCo) | 3:58 | 2022-01-18 | 2022-04-09 |
 | [Black Mamba](https://open.spotify.com/track/1t2qYCAjUAoGfeFeoBlK51) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Black Mamba](https://open.spotify.com/album/3syEYrKIsgxaZMB5t1dVG7) | 2:54 | 2021-12-21 | 2022-08-02 |
 | [BLACKHOLE](https://open.spotify.com/track/0MtiWniV24IBXmBPeW1v1m) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [REVIVE+](https://open.spotify.com/album/28fYAUhRzVQM5nu4EmlDvo) | 3:14 | 2026-02-23 |  |
@@ -120,7 +120,7 @@
 | [BOOM](https://open.spotify.com/track/3jATBjBJAWLVkAB2gCjrqE) | [LEE MINHYUK \(HUTA\)](https://open.spotify.com/artist/4fgfmrBHIWsUuHxeOPhv61) | [BOOM](https://open.spotify.com/album/6s4NdCPDBhDHL7i0P2OjBC) | 3:21 | 2022-06-27 | 2022-07-08 |
 | [Boom Boom Bass](https://open.spotify.com/track/2J194R0KIKbK7bTHfUHPDB) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING \- The 1st Mini Album](https://open.spotify.com/album/23TA2tnqYnphv1MKkiS6x2) | 2:32 | 2024-06-21 | 2024-07-27 |
 | [BOOMPALA](https://open.spotify.com/track/41d2WjuL0ikRKVjxmL7ZFz) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | ['PUREFLOW', Pt\. 1](https://open.spotify.com/album/7vQRIpYlfMRCGU9GUx8Fko) | 2:56 | 2026-06-02 | 2026-06-13 |
-| [BOOMPALA \(Champions Remix\)](https://open.spotify.com/track/11jeFzj2MaAaKo8YnSMFTH) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [BOOMPALA \(Champions Remix\)](https://open.spotify.com/album/7EG3id1xZ0TeLEVybwzDJ0) | 2:21 | 2026-06-12 |  |
+| [BOOMPALA \(Champions Remix\)](https://open.spotify.com/track/11jeFzj2MaAaKo8YnSMFTH) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Hitchhiker](https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx) | [BOOMPALA \(Champions Remix\)](https://open.spotify.com/album/7EG3id1xZ0TeLEVybwzDJ0) | 2:21 | 2026-06-12 |  |
 | [BOP BOP!](https://open.spotify.com/track/3FNuG1PjKcOu7tAqZKB4kZ) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ) | [The 1st Mini Album 'Beam Of Prism'](https://open.spotify.com/album/1SO45pKRdNI74Rdx7Hynh2) | 3:39 | 2022-02-09 | 2022-07-12 |
 | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/track/4CPuDVC8jhhK6lA2DIt8Cf) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Born Again \(feat\. Doja Cat & RAYE\)](https://open.spotify.com/album/5ADTbFCyP8cFAu59i4idiC) | 3:51 | 2025-02-07 | 2025-08-07 |
 | [BOSS](https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:30 | 2022-03-24 | 2022-04-15 |
@@ -570,6 +570,7 @@
 | [Move](https://open.spotify.com/track/5DMfWRljuhBNK9dO7xhql2) | [Team P NATION](https://open.spotify.com/artist/184xNC34M7C3UatEyPVKdH) | [LOUD Live Round \- Final Debut \-](https://open.spotify.com/album/72lbE87wcxNfHNYiEB18lB) | 3:05 | 2022-04-12 | 2022-04-18 |
 | [MOVE](https://open.spotify.com/track/5QzjOeD7eXFZpVVyVC7ls2) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [WAY UP](https://open.spotify.com/album/1TgcRUSvCC0QyuMsaiF3M4) | 3:32 | 2022-07-05 | 2022-07-07 |
 | [Movin'](https://open.spotify.com/track/4URh4EuzBNOAqTllcpjHXe) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [THE EARTH : SECRET MISSION Chapter.1](https://open.spotify.com/album/1N3vXThYiEWjbR8xiYiF8H) | 3:23 | 2022-01-03 | 2022-04-09 |
+| [MUAH!](https://open.spotify.com/track/4i96s6IzO7USqeuOsxiyyU) | [VAYONN](https://open.spotify.com/artist/79zOflwBYq7fHf6kCQAB3l) | [Youth Today](https://open.spotify.com/album/5VDEgG7OiSfEVpiXG8dSYt) | 3:03 | 2026-07-08 |  |
 | [My Heart Skip a Beat](https://open.spotify.com/track/0fb1NtIwTxVERtEsVI85Hm) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [My Heart Skip a Beat](https://open.spotify.com/album/01Nno2gP9wHfK6Jacj02fX) | 3:17 | 2022-01-03 | 2022-04-20 |
 | [MY TREASURE](https://open.spotify.com/track/4Dq2FjRkOTHcssggMdYK8J) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : TREASURE EFFECT](https://open.spotify.com/album/5tQDFmW8QrZdTsICpLQBTL) | 3:15 | 2022-01-03 | 2022-04-19 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-12-21 | 2025-11-25 |

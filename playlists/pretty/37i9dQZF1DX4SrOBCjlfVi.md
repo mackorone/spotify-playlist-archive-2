@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Ken Carson, J Hus, Rylo Rodriguez and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,820 likes - 48 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,860 likes - 49 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 43 | [Jamaica](https://open.spotify.com/track/0ocwj1Tu35ubI8tMiG5VpC) | [Mg Lil Bubba](https://open.spotify.com/artist/3agpFHXv6thiBv8b6epxI5) | [Bubba Story](https://open.spotify.com/album/7wZXVSzkOz837Aj2qbVS3H) | 2:29 |
 | 44 | [Stay Sane Remix](https://open.spotify.com/track/0BAhL4RLll4jPbMb4qAnTu) | [Plato III](https://open.spotify.com/artist/1WRHWaXytzSPAIsxFXEdT3), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [Bei Bei](https://open.spotify.com/artist/1PmG4UvwJvzOfPAUWsFvt9) | [Stay Sane Remix](https://open.spotify.com/album/7gvhOqS3VbBOFFL3WPHRvU) | 3:10 |
 | 45 | [Count On It](https://open.spotify.com/track/6zPoeWhj9JnmI0zaQ5w72N) | [Mic King](https://open.spotify.com/artist/2ZoJdPpSyLHBL9tVnnNrrx), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe) | [Count On It](https://open.spotify.com/album/62qKBbMZY4qiDk3sc0vRUn) | 3:58 |
-| 46 | [Jungle](https://open.spotify.com/track/7KbPwe5yczctkcOCHpEOGh) | [Baby Gee](https://open.spotify.com/artist/32Bz8wOvmov9WL4Cx12lwa) | [Jungle](https://open.spotify.com/album/61Tctzcoub8D41P0LR5qnl) | 2:02 |
-| 47 | [Do U Like Me?](https://open.spotify.com/track/11gQUt71VeFs2wloinXm4H) | [J.K\. Mac](https://open.spotify.com/artist/5kztDpSaIqaQ5nHdDoTIlq) | [Do U Like Me?](https://open.spotify.com/album/2DMMIVHtNhE7ekvabCB0oS) | 3:09 |
-| 48 | [LIE TO MY FACE](https://open.spotify.com/track/6KcecWvOHrhXpxRdvpQQBq) | [rghvarchive](https://open.spotify.com/artist/56aLjpDNfCKl5M6SkMXo5z) | [LIE TO MY FACE](https://open.spotify.com/album/6MDzw3SybrMCkuevqNXf55) | 3:19 |
+| 46 | [Pop My Shit \(feat\. RealRichIzzo\)](https://open.spotify.com/track/34U8XSUkgBLnNFCPHjXjsw) | [Big Key](https://open.spotify.com/artist/1Iqj2pasBQAqLQMfTCKZDD), [RealRichIzzo](https://open.spotify.com/artist/1x8KpLHQocL7FBaNmXcFQN) | [Son Of OD](https://open.spotify.com/album/2ghBs7jtqWlUlQm57YgPyr) | 2:01 |
+| 47 | [Jungle](https://open.spotify.com/track/7KbPwe5yczctkcOCHpEOGh) | [Baby Gee](https://open.spotify.com/artist/32Bz8wOvmov9WL4Cx12lwa) | [Jungle](https://open.spotify.com/album/61Tctzcoub8D41P0LR5qnl) | 2:02 |
+| 48 | [Do U Like Me?](https://open.spotify.com/track/11gQUt71VeFs2wloinXm4H) | [J.K\. Mac](https://open.spotify.com/artist/5kztDpSaIqaQ5nHdDoTIlq) | [Do U Like Me?](https://open.spotify.com/album/2DMMIVHtNhE7ekvabCB0oS) | 3:09 |
+| 49 | [LIE TO MY FACE](https://open.spotify.com/track/6KcecWvOHrhXpxRdvpQQBq) | [rghvarchive](https://open.spotify.com/artist/56aLjpDNfCKl5M6SkMXo5z) | [LIE TO MY FACE](https://open.spotify.com/album/6MDzw3SybrMCkuevqNXf55) | 3:19 |
 
 Snapshot ID: `AAAAAE/IX06Sfj5FB5qyva5GkEr4BPjh`

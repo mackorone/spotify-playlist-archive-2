@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez la programmation du BISE Festival 2026.",
-  "num_followers": 4010,
+  "num_followers": 4012,
   "original_name": "BISE Festival 2026",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAANBgEuh8fXOQt7ClqE+/iPuTbHuY",
   "tracks": [
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "Diamant Noir",
-        "url": "https://open.spotify.com/album/5ivnbDMt0KAODnXgShWpIs"
-      },
-      "artists": [
-        {
-          "name": "Juste Shani",
-          "url": "https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR"
-        }
-      ],
-      "duration_ms": 119480,
-      "name": "Brillance",
-      "url": "https://open.spotify.com/track/0nBSgd2RXDySMDaAD73Oei"
-    },
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 227408,
       "name": "Lies",
       "url": "https://open.spotify.com/track/2WCbUIIPHbX6t9M0UH0p4S"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Diamant Noir",
+        "url": "https://open.spotify.com/album/5ivnbDMt0KAODnXgShWpIs"
+      },
+      "artists": [
+        {
+          "name": "Juste Shani",
+          "url": "https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR"
+        }
+      ],
+      "duration_ms": 119480,
+      "name": "Brillance",
+      "url": "https://open.spotify.com/track/0nBSgd2RXDySMDaAD73Oei"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -99,22 +99,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/7ClcoIV2o4GIl0c416lj97"
-      },
-      "artists": [
-        {
-          "name": "Juste Shani",
-          "url": "https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR"
-        }
-      ],
-      "duration_ms": 186857,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/2RZD1FSRfzrXyBNTuzAznH"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "Dressed Like Boys",
         "url": "https://open.spotify.com/album/2aVuPgS0edNTSjUodsqwGn"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 301277,
       "name": "Jaouad",
       "url": "https://open.spotify.com/track/6W3hSP8obngau8e6yU1AAr"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/7ClcoIV2o4GIl0c416lj97"
+      },
+      "artists": [
+        {
+          "name": "Juste Shani",
+          "url": "https://open.spotify.com/artist/5eATUoLTafitqpoDRpRbwR"
+        }
+      ],
+      "duration_ms": 186857,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/2RZD1FSRfzrXyBNTuzAznH"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -147,22 +147,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "25 EUROS",
-        "url": "https://open.spotify.com/album/162WefLM0ISqUY9rB6HwcG"
-      },
-      "artists": [
-        {
-          "name": "James Loup",
-          "url": "https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE"
-        }
-      ],
-      "duration_ms": 124126,
-      "name": "25 EUROS",
-      "url": "https://open.spotify.com/track/7CuqqjkW4d0BDelI7bpofl"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "\u00c0 demain",
         "url": "https://open.spotify.com/album/6ZsgRFJ41qP4MSXbm1vPta"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 207560,
       "name": "Comme les autres",
       "url": "https://open.spotify.com/track/3WMwvWAAdicQFiTCvdAZd3"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "25 EUROS",
+        "url": "https://open.spotify.com/album/162WefLM0ISqUY9rB6HwcG"
+      },
+      "artists": [
+        {
+          "name": "James Loup",
+          "url": "https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE"
+        }
+      ],
+      "duration_ms": 124126,
+      "name": "25 EUROS",
+      "url": "https://open.spotify.com/track/7CuqqjkW4d0BDelI7bpofl"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -231,6 +231,22 @@
       "duration_ms": 157132,
       "name": "Swim With the Gore",
       "url": "https://open.spotify.com/track/2utE575Mfh8CJQqHPqcoFV"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "GROSSE MAISON",
+        "url": "https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb"
+      },
+      "artists": [
+        {
+          "name": "Super Plage",
+          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "TIP TOP",
+      "url": "https://open.spotify.com/track/7EsVuPM95bLSqb8qIoPCw8"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -315,22 +331,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "GROSSE MAISON",
-        "url": "https://open.spotify.com/album/3kqzoaJuzuQ172dcjVWoYb"
-      },
-      "artists": [
-        {
-          "name": "Super Plage",
-          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "TIP TOP",
-      "url": "https://open.spotify.com/track/7EsVuPM95bLSqb8qIoPCw8"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "wanderlust",
         "url": "https://open.spotify.com/album/4dtJBzpVDJYt9kR7oId3O8"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "je dirai rien",
-        "url": "https://open.spotify.com/album/3568QRUYByhWX8ERUy1mA1"
-      },
-      "artists": [
-        {
-          "name": "No\u00e9e",
-          "url": "https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q"
-        }
-      ],
-      "duration_ms": 187756,
-      "name": "je dirai rien",
-      "url": "https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "ROOM",
         "url": "https://open.spotify.com/album/0FUP2OMRQaOkdKv5zCpFWC"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 375893,
       "name": "SHAKE",
       "url": "https://open.spotify.com/track/61VTG6BfF8TI9g869Udwv8"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "je dirai rien",
+        "url": "https://open.spotify.com/album/3568QRUYByhWX8ERUy1mA1"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9e",
+          "url": "https://open.spotify.com/artist/4cT3LchKrO3zxJNHq4cK1Q"
+        }
+      ],
+      "duration_ms": 187756,
+      "name": "je dirai rien",
+      "url": "https://open.spotify.com/track/74Dk7LO4ohXbdgs08c3w5R"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Head Out",
-        "url": "https://open.spotify.com/album/5OtP813E52dTO5fiakbt87"
-      },
-      "artists": [
-        {
-          "name": "The Chainsaw Motel",
-          "url": "https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf"
-        }
-      ],
-      "duration_ms": 197264,
-      "name": "Head Out",
-      "url": "https://open.spotify.com/track/4R6Wr2BlePYCbdHuQL3527"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "HALLELUJAH",
         "url": "https://open.spotify.com/album/1xuoz5kFh5AZwTB8a4aPh4"
       },
@@ -471,38 +455,6 @@
       "duration_ms": 222272,
       "name": "HALLELUJAH",
       "url": "https://open.spotify.com/track/2zzgmsWzVtxEBECt3k9n8T"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "What Can I Test ?",
-        "url": "https://open.spotify.com/album/3TGvhuKoZCVJaNc1rkjI3D"
-      },
-      "artists": [
-        {
-          "name": "IPPON",
-          "url": "https://open.spotify.com/artist/5NxzmGijsQRL1Dq68AAbCB"
-        }
-      ],
-      "duration_ms": 224687,
-      "name": "Rocket",
-      "url": "https://open.spotify.com/track/1oYlRlMq5njbUH7Pmx06Sg"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "Un chant d'amour",
-        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
-      },
-      "artists": [
-        {
-          "name": "Vanille",
-          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
-        }
-      ],
-      "duration_ms": 168027,
-      "name": "Ce n'est pas ici, ce n'est pas ailleurs",
-      "url": "https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -523,6 +475,54 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
+        "name": "What Can I Test ?",
+        "url": "https://open.spotify.com/album/3TGvhuKoZCVJaNc1rkjI3D"
+      },
+      "artists": [
+        {
+          "name": "IPPON",
+          "url": "https://open.spotify.com/artist/5NxzmGijsQRL1Dq68AAbCB"
+        }
+      ],
+      "duration_ms": 224687,
+      "name": "Rocket",
+      "url": "https://open.spotify.com/track/1oYlRlMq5njbUH7Pmx06Sg"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Head Out",
+        "url": "https://open.spotify.com/album/5OtP813E52dTO5fiakbt87"
+      },
+      "artists": [
+        {
+          "name": "The Chainsaw Motel",
+          "url": "https://open.spotify.com/artist/4HsuHCwO2CpuP9V2YoNxvf"
+        }
+      ],
+      "duration_ms": 197264,
+      "name": "Head Out",
+      "url": "https://open.spotify.com/track/4R6Wr2BlePYCbdHuQL3527"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Un chant d'amour",
+        "url": "https://open.spotify.com/album/2THpebE4PUXFbOIPt1tE4T"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "duration_ms": 168027,
+      "name": "Ce n'est pas ici, ce n'est pas ailleurs",
+      "url": "https://open.spotify.com/track/2je4V0uyp5IQDqUWvzUyCn"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
         "name": "Lisusu te",
         "url": "https://open.spotify.com/album/3hCP4PF84sKAQFC5RQk4fZ"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 234000,
       "name": "Lisusu te",
       "url": "https://open.spotify.com/track/7Lxm4Hwey23dQpQG4SbPt4"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
-        "name": "FOR\u00caT",
-        "url": "https://open.spotify.com/album/6oImWMoSomesMXGBFsndc9"
-      },
-      "artists": [
-        {
-          "name": "White Corbeau",
-          "url": "https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH"
-        }
-      ],
-      "duration_ms": 172867,
-      "name": "Lib\u00e8re",
-      "url": "https://open.spotify.com/track/6sMdVBONIF9twV6egGfU2y"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -571,18 +555,18 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Roots (Extended)",
-        "url": "https://open.spotify.com/album/5gapoLe8lA9FaW9Gc1fvTY"
+        "name": "FOR\u00caT",
+        "url": "https://open.spotify.com/album/6oImWMoSomesMXGBFsndc9"
       },
       "artists": [
         {
-          "name": "Woody",
-          "url": "https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK"
+          "name": "White Corbeau",
+          "url": "https://open.spotify.com/artist/4Fx8fH6sfgkkn3HVyWdmZH"
         }
       ],
-      "duration_ms": 176899,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/1e4C8204vxAYmszdhAG0KR"
+      "duration_ms": 172867,
+      "name": "Lib\u00e8re",
+      "url": "https://open.spotify.com/track/6sMdVBONIF9twV6egGfU2y"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -599,6 +583,22 @@
       "duration_ms": 209396,
       "name": "Down the Row",
       "url": "https://open.spotify.com/track/52VLrLioxys36RyG0Z6Dga"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Roots (Extended)",
+        "url": "https://open.spotify.com/album/5gapoLe8lA9FaW9Gc1fvTY"
+      },
+      "artists": [
+        {
+          "name": "Woody",
+          "url": "https://open.spotify.com/artist/3oIExcjKPYb3gFv45jQmgK"
+        }
+      ],
+      "duration_ms": 176899,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/1e4C8204vxAYmszdhAG0KR"
     },
     {
       "added_at": "2025-11-20 17:00:08",
@@ -651,22 +651,6 @@
     {
       "added_at": "2025-11-20 17:00:08",
       "album": {
-        "name": "Luxury",
-        "url": "https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv"
-      },
-      "artists": [
-        {
-          "name": "Blue Katrice",
-          "url": "https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx"
-        }
-      ],
-      "duration_ms": 212618,
-      "name": "Luxury",
-      "url": "https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf"
-    },
-    {
-      "added_at": "2025-11-20 17:00:08",
-      "album": {
         "name": "SAM",
         "url": "https://open.spotify.com/album/3cEzNP6c8TRTjYNJ5Al3NZ"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 290002,
       "name": "SAM",
       "url": "https://open.spotify.com/track/1F95Q6fI5kK6nhu35Cup9J"
+    },
+    {
+      "added_at": "2025-11-20 17:00:08",
+      "album": {
+        "name": "Luxury",
+        "url": "https://open.spotify.com/album/5XTypqWsPdyGyE5DxYqkBv"
+      },
+      "artists": [
+        {
+          "name": "Blue Katrice",
+          "url": "https://open.spotify.com/artist/4kMdQKGCjwNnQj6HKBP3xx"
+        }
+      ],
+      "duration_ms": 212618,
+      "name": "Luxury",
+      "url": "https://open.spotify.com/track/3MvNyNs6VkjzRE5Op135Vf"
     },
     {
       "added_at": "2025-11-20 17:00:08",

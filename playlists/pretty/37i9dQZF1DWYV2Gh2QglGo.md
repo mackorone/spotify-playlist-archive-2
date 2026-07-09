@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 
 > The home of Canadian country music\. Cover: Trudy
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,099 likes - 158 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,105 likes - 158 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2Gh2QglGo.md) - [plain]
 | 45 | [Tell Me To](https://open.spotify.com/track/78EeE8TcOs3tDM3rhjFeIv) | [Dawson Gray](https://open.spotify.com/artist/5ZvAlu11UW8s9EpUDlE5DA) | [Tell Me To](https://open.spotify.com/album/6OJ98R36YCE8T2V2sWheKt) | 2:48 |
 | 46 | [The Brave](https://open.spotify.com/track/0WQZ4T0Aqvryudtt5jz8SE) | [Kalsey Kulyk](https://open.spotify.com/artist/3yBZ2rWvR6UzUlUgBHtINu) | [The Brave](https://open.spotify.com/album/6QQYZEloPRw7zADxf2hAzi) | 3:42 |
 | 47 | [We Got Beer](https://open.spotify.com/track/6uLsDNAEkqBvAtXv2u5z5v) | [Brayden King](https://open.spotify.com/artist/0fCguqEo1gADoSkTGI47qJ) | [We Got Beer](https://open.spotify.com/album/4ILFb5pL6BDb0aXigARADQ) | 2:56 |
-| 48 | [Wranglin' the Wind](https://open.spotify.com/track/2fJZ896flvh1Wt6CebqggW) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Wranglin' the Wind](https://open.spotify.com/album/3mz4VIBIRfg98W6QHotL7c) | 3:15 |
+| 48 | [Wranglin' The Wind](https://open.spotify.com/track/2fJZ896flvh1Wt6CebqggW) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Wranglin' The Wind](https://open.spotify.com/album/3mz4VIBIRfg98W6QHotL7c) | 3:15 |
 | 49 | [Si j'avais su](https://open.spotify.com/track/2YFXeVtnFtx4kUBHZlKCFb) | [Francis Degrandpré](https://open.spotify.com/artist/22LLgS9VdydAJSBQXUr8r2) | [Si j'avais su](https://open.spotify.com/album/1nUrYbnpvFOU4ieFE9cNRY) | 2:35 |
 | 50 | [Summertime](https://open.spotify.com/track/5q2ghdu3ZJ7Xrfq1HXMCD7) | [Carson Janik](https://open.spotify.com/artist/1b42fTv9XwOsp9OL5gchOM) | [Summertime](https://open.spotify.com/album/3vmJiiqwUFe94SyCyxNICH) | 3:00 |
 | 51 | [Leave You Behind](https://open.spotify.com/track/6VWR4BR5sryrKuaEtl0Mtd) | [Theo Day](https://open.spotify.com/artist/7kInTAGydeTIPx9JwrSApc) | [Leave You Behind](https://open.spotify.com/album/57AwWV7julwudwrjWA8EPd) | 2:53 |

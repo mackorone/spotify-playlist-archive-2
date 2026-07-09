@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from CowBoii, Nasty C & Tellaman, Jorja Smith & Wizkid and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,929 likes - 94 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,993 likes - 94 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

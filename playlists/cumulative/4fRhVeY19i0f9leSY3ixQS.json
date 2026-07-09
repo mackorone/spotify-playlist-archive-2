@@ -19829,6 +19829,24 @@
     },
     {
       "album": {
+        "name": "Bored of Peace",
+        "url": "https://open.spotify.com/album/1tGsbzN0VFgvH6dZ0TR8OC"
+      },
+      "artists": [
+        {
+          "name": "American Thought Criminals",
+          "url": "https://open.spotify.com/artist/0ASVg1JnnEPszuOe6CSNKk"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95466,
+      "name": "One Of Us",
+      "url": "https://open.spotify.com/track/2kbs4GfD8D08oD5ioBebsw"
+    },
+    {
+      "album": {
         "name": "Sakura",
         "url": "https://open.spotify.com/album/22bseRNqaihIXVieVV27i6"
       },
@@ -26809,6 +26827,24 @@
     },
     {
       "album": {
+        "name": "Merge Conflict",
+        "url": "https://open.spotify.com/album/1sFAyJrEIwmtgl0F2Ar6cT"
+      },
+      "artists": [
+        {
+          "name": "Demichron",
+          "url": "https://open.spotify.com/artist/6NMYSnWscxdZZkjttaRgyp"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291214,
+      "name": "Taken By The Tide",
+      "url": "https://open.spotify.com/track/4JcrCz44ViEoiYvTrSs94i"
+    },
+    {
+      "album": {
         "name": "Tangerine Lilac",
         "url": "https://open.spotify.com/album/3O7dSPQ6gyQqaDnHGOwzWx"
       },
@@ -32696,6 +32732,28 @@
       "duration_ms": 179269,
       "name": "\u0414\u043e\u0440\u043e\u0433\u0438 \u0441\u043d\u0435\u0433\u043e\u043c \u0437\u0430\u043c\u0435\u043b\u043e...",
       "url": "https://open.spotify.com/track/3jST45CWJr4yZPPfWNhap4"
+    },
+    {
+      "album": {
+        "name": "\u041b\u0438\u043c\u0431",
+        "url": "https://open.spotify.com/album/3Mf1IEwA32WKysNfL6hHou"
+      },
+      "artists": [
+        {
+          "name": "Tears of Neman",
+          "url": "https://open.spotify.com/artist/37AneoPhmrrV1jYYM3hDF0"
+        },
+        {
+          "name": "\u0421\u0445\u0438\u0437\u043c\u0430",
+          "url": "https://open.spotify.com/artist/0CCncp6iv6X5sYab5bClU7"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246428,
+      "name": "\u041b\u0438\u043c\u0431",
+      "url": "https://open.spotify.com/track/3UuVViHiKIXIp3cirpT1mO"
     },
     {
       "album": {

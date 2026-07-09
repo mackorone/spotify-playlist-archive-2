@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: Song Dongye
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,512 likes - 97 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,557 likes - 97 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

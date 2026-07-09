@@ -1810,7 +1810,7 @@
       ],
       "date_added": "2026-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 200089,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/4attgopd8pmrJ03fSDeOI2"
@@ -2112,6 +2112,10 @@
         {
           "name": "LE SSERAFIM",
           "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "Hitchhiker",
+          "url": "https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx"
         }
       ],
       "date_added": "2026-06-12",
@@ -10586,6 +10590,24 @@
       "duration_ms": 203066,
       "name": "Movin'",
       "url": "https://open.spotify.com/track/4URh4EuzBNOAqTllcpjHXe"
+    },
+    {
+      "album": {
+        "name": "Youth Today",
+        "url": "https://open.spotify.com/album/5VDEgG7OiSfEVpiXG8dSYt"
+      },
+      "artists": [
+        {
+          "name": "VAYONN",
+          "url": "https://open.spotify.com/artist/79zOflwBYq7fHf6kCQAB3l"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "MUAH!",
+      "url": "https://open.spotify.com/track/4i96s6IzO7USqeuOsxiyyU"
     },
     {
       "album": {

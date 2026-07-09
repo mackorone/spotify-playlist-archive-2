@@ -2531,6 +2531,24 @@
     },
     {
       "album": {
+        "name": "Denisse",
+        "url": "https://open.spotify.com/album/3sl18HgwShBn3K0arFlOyw"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221465,
+      "name": "Denisse",
+      "url": "https://open.spotify.com/track/0w8j13CM49tWDsEwtH6j0b"
+    },
+    {
+      "album": {
         "name": "Departed",
         "url": "https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR"
       },

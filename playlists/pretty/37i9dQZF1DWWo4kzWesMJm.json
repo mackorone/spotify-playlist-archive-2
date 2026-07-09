@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 184808,
+  "num_followers": 184844,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
+        "name": "C'est d\u00e9j\u00e0 \u00e7a",
+        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 324906,
+      "name": "Foule sentimentale",
+      "url": "https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
         "name": "D'eux - \u00c9dition 15\u00e8me Anniversaire",
         "url": "https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 207040,
       "name": "J'irai o\u00f9 tu iras (with Jean-Jacques Goldman)",
       "url": "https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
-        "name": "C'est d\u00e9j\u00e0 \u00e7a",
-        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
-      },
-      "artists": [
-        {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
-        }
-      ],
-      "duration_ms": 324906,
-      "name": "Foule sentimentale",
-      "url": "https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Photos de voyages (Remastered)",
-        "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 273680,
-      "name": "Encore et encore - Remastered",
-      "url": "https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "The Origin Of Love",
         "url": "https://open.spotify.com/album/4sE54JCM8oNu0CaHgi5BK0"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 218906,
       "name": "Elle me dit",
       "url": "https://open.spotify.com/track/3xUhchyBGEUNAwelO2yzqp"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Photos de voyages (Remastered)",
+        "url": "https://open.spotify.com/album/6Mhp0Fb0RoraaLNZ0fFRwR"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 273680,
+      "name": "Encore et encore - Remastered",
+      "url": "https://open.spotify.com/track/2KzUa9x2TNzHVsx4sVuHsx"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -675,22 +675,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Juste Comme \u00c7a",
-        "url": "https://open.spotify.com/album/2fMnPZsQORaYp7SCPNAw03"
-      },
-      "artists": [
-        {
-          "name": "Mickael Miro",
-          "url": "https://open.spotify.com/artist/0VtUo7KpkeFx3zwTmSwNQl"
-        }
-      ],
-      "duration_ms": 205973,
-      "name": "L'horloge tourne",
-      "url": "https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "Le Premier Jour",
         "url": "https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 250413,
       "name": "Le Premier jour (Du reste de ta vie)",
       "url": "https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Juste Comme \u00c7a",
+        "url": "https://open.spotify.com/album/2fMnPZsQORaYp7SCPNAw03"
+      },
+      "artists": [
+        {
+          "name": "Mickael Miro",
+          "url": "https://open.spotify.com/artist/0VtUo7KpkeFx3zwTmSwNQl"
+        }
+      ],
+      "duration_ms": 205973,
+      "name": "L'horloge tourne",
+      "url": "https://open.spotify.com/track/1sphiFFp9zrlSLmpFhywRV"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Mes Fantaisies",
-        "url": "https://open.spotify.com/album/5rkiNd9tXiodpgqaOCXDuu"
-      },
-      "artists": [
-        {
-          "name": "Shy'm",
-          "url": "https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B"
-        }
-      ],
-      "duration_ms": 216266,
-      "name": "Femme de couleur",
-      "url": "https://open.spotify.com/track/3rT3xXQcIXHvmRnTfX17WF"
-    },
-    {
-      "added_at": "2026-04-17 09:45:18",
-      "album": {
         "name": "Ginger",
         "url": "https://open.spotify.com/album/7vgcS252HYgC1kVxRJqUTp"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
+        "name": "Mes Fantaisies",
+        "url": "https://open.spotify.com/album/5rkiNd9tXiodpgqaOCXDuu"
       },
       "artists": [
         {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+          "name": "Shy'm",
+          "url": "https://open.spotify.com/artist/3nXQmlliJxvfXOm3naZf3B"
         }
       ],
-      "duration_ms": 184077,
-      "name": "Nue",
-      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
+      "duration_ms": 216266,
+      "name": "Femme de couleur",
+      "url": "https://open.spotify.com/track/3rT3xXQcIXHvmRnTfX17WF"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -947,18 +931,18 @@
     {
       "added_at": "2026-04-17 09:45:18",
       "album": {
-        "name": "Le Dernier Jour du Disco",
-        "url": "https://open.spotify.com/album/2S5DGtu0gRTjJDQWpGnJJA"
+        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
       },
       "artists": [
         {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
         }
       ],
-      "duration_ms": 206480,
-      "name": "Le Dernier Jour du Disco",
-      "url": "https://open.spotify.com/track/3NwQsPQbVS3VfXJfYtoloj"
+      "duration_ms": 184077,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
     },
     {
       "added_at": "2026-04-17 09:45:18",
@@ -975,6 +959,22 @@
       "duration_ms": 178133,
       "name": "Le lion est mort ce soir",
       "url": "https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM"
+    },
+    {
+      "added_at": "2026-04-17 09:45:18",
+      "album": {
+        "name": "Le Dernier Jour du Disco",
+        "url": "https://open.spotify.com/album/2S5DGtu0gRTjJDQWpGnJJA"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 206480,
+      "name": "Le Dernier Jour du Disco",
+      "url": "https://open.spotify.com/track/3NwQsPQbVS3VfXJfYtoloj"
     },
     {
       "added_at": "2026-04-17 09:45:18",

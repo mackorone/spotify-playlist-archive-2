@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-[pma4real](https://open.spotify.com/user/jasonwaroff) - 998 likes - 70 songs - 4 hr 7 min
+[pma4real](https://open.spotify.com/user/jasonwaroff) - 1,000 likes - 71 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,5 +78,6 @@ pretty - [cumulative](/playlists/cumulative/2pl0LI8OPKfGbvmFUNdiDj.md) - [plain]
 | 68 | [Best Year Yet](https://open.spotify.com/track/1n5JaW6gdAtdRgS2jnKSye) | [Bowes](https://open.spotify.com/artist/4ttD6HkDmlpH7D8SQqwtbT) | [Best Year Yet](https://open.spotify.com/album/2dwFoNDZQy25pn9iRmyPpq) | 4:18 |
 | 69 | [Tranquility](https://open.spotify.com/track/746Ji33wJ8Au1LVHJ8MOVM) | [Remedies](https://open.spotify.com/artist/3m2MxzwhWeA2FZiel5sURN) | [Truth for Lies](https://open.spotify.com/album/1EccCV6oBwVfTDojfNZ8qh) | 3:48 |
 | 70 | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/track/4P1CmDbce9sBKsuEx2SBF4) | [Lord Sebastian](https://open.spotify.com/artist/06ADavaxngMDpbcRPXHBvm) | [XOXO \(Ex oh, Ex ow!\)](https://open.spotify.com/album/7KjY597wS0kTiC4TucLvop) | 3:08 |
+| 71 | [Frequency](https://open.spotify.com/track/6fFANLe45lolpWyZJWy175) | [Nia Tone](https://open.spotify.com/artist/1hPZmJ6YcmKIEQKSzSkOup) | [Frequency](https://open.spotify.com/album/59EtQ9iTxB9kbnJ2kGqwGT) | 2:57 |
 
-Snapshot ID: `AAAEHgDchJzV8QlkLgfEAbBGpt7hqNFf`
+Snapshot ID: `AAAEH1bG/UET7hisUV9s50IZRx1uruQI`

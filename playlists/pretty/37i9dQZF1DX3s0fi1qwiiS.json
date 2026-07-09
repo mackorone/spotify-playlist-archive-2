@@ -1,6 +1,6 @@
 {
   "description": "The Detty December anthems over the years ",
-  "num_followers": 8194,
+  "num_followers": 8195,
   "original_name": "Best of Detty December",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
+        "name": "Laughter, Tears & Goosebumps",
+        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 216699,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/0RqiNQYAB75utUwQF82MdY"
+    },
+    {
+      "added_at": "2025-12-23 16:53:12",
+      "album": {
         "name": "Iskaba",
         "url": "https://open.spotify.com/album/0Xv3hpglXQQXDw1927aJvu"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 224640,
       "name": "Iskaba",
       "url": "https://open.spotify.com/track/1GuLgNKd4lrI1vugkxMCAX"
-    },
-    {
-      "added_at": "2025-12-23 16:53:12",
-      "album": {
-        "name": "Laughter, Tears & Goosebumps",
-        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 216699,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/0RqiNQYAB75utUwQF82MdY"
     },
     {
       "added_at": "2025-12-23 16:53:12",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
-        "name": "So Mi So",
-        "url": "https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 245182,
-      "name": "So Mi So",
-      "url": "https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV"
-    },
-    {
-      "added_at": "2025-12-23 16:53:12",
-      "album": {
         "name": "Rema Compilation",
         "url": "https://open.spotify.com/album/5H6TAMOUgLUX1RfSOG1Al5"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 179775,
       "name": "Dumebi",
       "url": "https://open.spotify.com/track/6CJD4LDNULzE645JA2XHpx"
+    },
+    {
+      "added_at": "2025-12-23 16:53:12",
+      "album": {
+        "name": "So Mi So",
+        "url": "https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 245182,
+      "name": "So Mi So",
+      "url": "https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV"
     },
     {
       "added_at": "2025-12-23 16:53:12",
@@ -883,26 +883,18 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
-        "name": "Wiase (Y3d3 Remix)",
-        "url": "https://open.spotify.com/album/5iKIckXV57WUQ3LC6Ejd5x"
+        "name": "Otoolege",
+        "url": "https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS"
       },
       "artists": [
         {
-          "name": "Quamina Mp",
-          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "Yung C",
-          "url": "https://open.spotify.com/artist/4AmyHrK5ftoTr4qYrFGTlW"
+          "name": "Ofori Amponsah",
+          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
         }
       ],
-      "duration_ms": 276401,
-      "name": "Wiase (Y3d3 Remix)",
-      "url": "https://open.spotify.com/track/4eGieXDwiQ1RL980VAcQ5p"
+      "duration_ms": 400960,
+      "name": "Otoolege",
+      "url": "https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ"
     },
     {
       "added_at": "2025-12-23 16:53:12",
@@ -927,18 +919,26 @@
     {
       "added_at": "2025-12-23 16:53:12",
       "album": {
-        "name": "Otoolege",
-        "url": "https://open.spotify.com/album/3AinuC1JTj3edgaFFqTWvS"
+        "name": "Wiase (Y3d3 Remix)",
+        "url": "https://open.spotify.com/album/5iKIckXV57WUQ3LC6Ejd5x"
       },
       "artists": [
         {
-          "name": "Ofori Amponsah",
-          "url": "https://open.spotify.com/artist/5JZrKd8FCWdpkGwn6iEkXg"
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "Yung C",
+          "url": "https://open.spotify.com/artist/4AmyHrK5ftoTr4qYrFGTlW"
         }
       ],
-      "duration_ms": 400960,
-      "name": "Otoolege",
-      "url": "https://open.spotify.com/track/1osCJSONOQ0CNEKYGp7XfQ"
+      "duration_ms": 276401,
+      "name": "Wiase (Y3d3 Remix)",
+      "url": "https://open.spotify.com/track/4eGieXDwiQ1RL980VAcQ5p"
     },
     {
       "added_at": "2025-12-23 16:53:12",

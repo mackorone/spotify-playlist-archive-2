@@ -1,6 +1,6 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 268222,
+  "num_followers": 268270,
   "original_name": "Women of Blues",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
+        "name": "Bad Woman Blues",
+        "url": "https://open.spotify.com/album/7GuWk4lYaF0r6i1cjepZlp"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 215911,
+      "name": "Bad Woman Blues",
+      "url": "https://open.spotify.com/track/0JSotxr4YFcp5e8c5yaMKv"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
         "name": "Out Of My Mind",
         "url": "https://open.spotify.com/album/7CJW9YnB3go0zg4oKYc3sD"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 416560,
       "name": "Things Have Changed",
       "url": "https://open.spotify.com/track/08aZMbV00fxoxzosGLr3cq"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
-        "name": "Bad Woman Blues",
-        "url": "https://open.spotify.com/album/7GuWk4lYaF0r6i1cjepZlp"
-      },
-      "artists": [
-        {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
-        }
-      ],
-      "duration_ms": 215911,
-      "name": "Bad Woman Blues",
-      "url": "https://open.spotify.com/track/0JSotxr4YFcp5e8c5yaMKv"
     },
     {
       "added_at": "2024-08-13 17:16:13",

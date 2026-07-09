@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 
 > Voici les hits du moment avec Fredz
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,425 likes - 51 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,425 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,21 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LjobXS2hzX.md) - [plain]
 | 33 | [The Great Divide](https://open.spotify.com/track/4ck9vo0gEmjVHWUb5q2rYe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 5:17 |
 | 34 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 |
 | 35 | [PARISIENNE](https://open.spotify.com/track/0wLCA75tmsos5ZcVzqHFQ1) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [LE NORD SE SOUVIENT : L'ODYSSÉE](https://open.spotify.com/album/2s8r5D8uD96aySQJplzuG5) | 2:38 |
-| 36 | [Avion de chasse](https://open.spotify.com/track/3dDTJbtHZhsbe426l5Msk1) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Avion de chasse](https://open.spotify.com/album/6oyWoLRcGvrLpjo1BFqAT9) | 2:16 |
-| 37 | [2 Hard 4 The Radio](https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:03 |
-| 38 | [Où on dansait autrefois](https://open.spotify.com/track/3rhIceZq9SoI6yN2ySoJnH) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [L'amour](https://open.spotify.com/album/20kOxkzUNBeScEGnwsT0g5) | 2:55 |
-| 39 | [Chance](https://open.spotify.com/track/5Ktp9NwJYIGCL6YgdlrRy5) | [Arpin Lépine](https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1) | [Chance](https://open.spotify.com/album/3aS2BgGCVSbHwCFNcf5Qvl) | 2:46 |
-| 40 | [The Way We Touch](https://open.spotify.com/track/4A5RlP9QGsqPdTwCOpcwKK) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [The Way We Touch](https://open.spotify.com/album/4BZUr9W8PmYcwfzM6aHg12) | 3:09 |
-| 41 | [Maladie](https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM) | 3:12 |
-| 42 | [EVIL WORLD](https://open.spotify.com/track/3p7Xlyos3h0Ua6XNe2LviD) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [EVIL WORLD](https://open.spotify.com/album/6v5mzCcDl3yZzi8EtPIslR) | 3:14 |
-| 43 | [Tant qu'on est toi et moi](https://open.spotify.com/track/5XEHDW9XdDosfI5pltNDq1) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [À quoi ça sert](https://open.spotify.com/album/2GWhOoUucN8TIpmKmTaKh9) | 2:49 |
-| 44 | [Tu seul](https://open.spotify.com/track/3YNMOtv15BakUjuZT6ADoR) | [Québec Redneck Bluegrass Project](https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz) | [Qu'acoustis\-je Qu'ouïs\-je Qu'entends\-je](https://open.spotify.com/album/5TLDAGC0vjuDSg1GCuRfPq) | 5:21 |
-| 45 | [Rivière](https://open.spotify.com/track/4NAWiD6hltdiI4zvdbl3J9) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG), [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Rivière](https://open.spotify.com/album/3xsOfF7KbAqA2PyW9mWytV) | 3:33 |
-| 46 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
-| 47 | [Zendaya](https://open.spotify.com/track/5FK0U9DnJ8UEJNkwUuUL74) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Zendaya](https://open.spotify.com/album/3FKIScubGhjN8tUjWCDCuf) | 2:35 |
-| 48 | [Scotch & poches](https://open.spotify.com/track/6MvBA4qUPzHQd6PMt9tA5i) | [Bleu Jeans Bleu](https://open.spotify.com/artist/7sk1rfSVKopRQf1fxSJLTq) | [Record n°V](https://open.spotify.com/album/10J5WwzpLF6FRz7MABkLps) | 2:56 |
-| 49 | [Fabienk](https://open.spotify.com/track/4UXwfhy8RTOcH0QWJF8SMg) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Fabienk](https://open.spotify.com/album/3K7nUC1QKBJi7iB9VSX9GZ) | 6:31 |
-| 50 | [Tant qu'on est toi et moi](https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Tant qu'on est toi et moi](https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T) | 2:49 |
-| 51 | [Je te laisserai des mots](https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/1R6MIxBiQensgzDlDes0yT) | 2:40 |
+| 36 | [2 Hard 4 The Radio](https://open.spotify.com/track/7COiiObIVJIdBcW3J43Iy2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:03 |
+| 37 | [Où on dansait autrefois](https://open.spotify.com/track/3rhIceZq9SoI6yN2ySoJnH) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37) | [L'amour](https://open.spotify.com/album/20kOxkzUNBeScEGnwsT0g5) | 2:55 |
+| 38 | [Chance](https://open.spotify.com/track/5Ktp9NwJYIGCL6YgdlrRy5) | [Arpin Lépine](https://open.spotify.com/artist/716wdXFGdFr9p82O3dfmd1) | [Chance](https://open.spotify.com/album/3aS2BgGCVSbHwCFNcf5Qvl) | 2:46 |
+| 39 | [The Way We Touch](https://open.spotify.com/track/4A5RlP9QGsqPdTwCOpcwKK) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [The Way We Touch](https://open.spotify.com/album/4BZUr9W8PmYcwfzM6aHg12) | 3:09 |
+| 40 | [Maladie](https://open.spotify.com/track/3CbcXXMMV42h0WZ9zIf4d8) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/3xopryjSA60XjIy9qWhOuM) | 3:12 |
+| 41 | [EVIL WORLD](https://open.spotify.com/track/3p7Xlyos3h0Ua6XNe2LviD) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [EVIL WORLD](https://open.spotify.com/album/6v5mzCcDl3yZzi8EtPIslR) | 3:14 |
+| 42 | [Tant qu'on est toi et moi](https://open.spotify.com/track/5XEHDW9XdDosfI5pltNDq1) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [À quoi ça sert](https://open.spotify.com/album/2GWhOoUucN8TIpmKmTaKh9) | 2:49 |
+| 43 | [Tu seul](https://open.spotify.com/track/3YNMOtv15BakUjuZT6ADoR) | [Québec Redneck Bluegrass Project](https://open.spotify.com/artist/6QafnqFGVO80DazTYj5fAz) | [Qu'acoustis\-je Qu'ouïs\-je Qu'entends\-je](https://open.spotify.com/album/5TLDAGC0vjuDSg1GCuRfPq) | 5:21 |
+| 44 | [Rivière](https://open.spotify.com/track/4NAWiD6hltdiI4zvdbl3J9) | [Laurence St\-Martin](https://open.spotify.com/artist/1DAZpwKWPQ4VnPSD2RcpgG), [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Rivière](https://open.spotify.com/album/3xsOfF7KbAqA2PyW9mWytV) | 3:33 |
+| 45 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
+| 46 | [Zendaya](https://open.spotify.com/track/5FK0U9DnJ8UEJNkwUuUL74) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Zendaya](https://open.spotify.com/album/3FKIScubGhjN8tUjWCDCuf) | 2:35 |
+| 47 | [Scotch & poches](https://open.spotify.com/track/6MvBA4qUPzHQd6PMt9tA5i) | [Bleu Jeans Bleu](https://open.spotify.com/artist/7sk1rfSVKopRQf1fxSJLTq) | [Record n°V](https://open.spotify.com/album/10J5WwzpLF6FRz7MABkLps) | 2:56 |
+| 48 | [Fabienk](https://open.spotify.com/track/4UXwfhy8RTOcH0QWJF8SMg) | [Angine de Poitrine](https://open.spotify.com/artist/13NmOYYfvONNZ9mn2qn8P2) | [Fabienk](https://open.spotify.com/album/3K7nUC1QKBJi7iB9VSX9GZ) | 6:31 |
+| 49 | [Tant qu'on est toi et moi](https://open.spotify.com/track/4BalTIdao8I2XZzbMIMJDg) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Tant qu'on est toi et moi](https://open.spotify.com/album/47o5BMJH50I9HhdkliL57T) | 2:49 |
+| 50 | [Je te laisserai des mots](https://open.spotify.com/track/44A0o4jA8F2ZF03Zacwlwx) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/1R6MIxBiQensgzDlDes0yT) | 2:40 |
 
-Snapshot ID: `AAAAAL0QG6bqflewXV+VFm5JmYdNlqYb`
+Snapshot ID: `AAAAACbPeMaH0mXP40h+5YDi4vfHTAiz`

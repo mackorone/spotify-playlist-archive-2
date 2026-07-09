@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,366 songs - 5 day 19 hr 30 min
+2,367 songs - 5 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1773,6 +1773,7 @@
 | [Sea Wind Dub](https://open.spotify.com/track/4qfwuLg3BjMJuUvyASIlU0) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1) | [King Love Dub Sessions](https://open.spotify.com/album/6eOZY5jTwk9FQxUdWTBRRZ) | 5:11 | 2024-05-04 |  |
 | [Seance](https://open.spotify.com/track/7Fb2eNwwIF6R71Z5vPAWJs) | [Ethereal Alias](https://open.spotify.com/artist/0j7wqmo9G9RWX2Umflk2t5) | [The Anamnesis Thesis](https://open.spotify.com/album/5PqSSzLM2AHAmJupYVoR9O) | 4:56 | 2025-05-30 |  |
 | [Seclusion](https://open.spotify.com/track/5oAENAFAHwWRvCyWu53EEL) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Destimulation](https://open.spotify.com/album/1U8N21aVDSw593wtI7zagi) | 2:36 | 2026-02-05 |  |
+| [Second Guessin’](https://open.spotify.com/track/40X8JuQRZSjtqbM9GB3U38) | [Lil Derik](https://open.spotify.com/artist/7duWaUqESXdNsXB2ASvM64), [Jessup](https://open.spotify.com/artist/2wgOckKfbjFnfnPEj6xuBC), [Jimboslice](https://open.spotify.com/artist/5xtgG3tZGw0AY9I2XIn4ke) | [Blue Dragon](https://open.spotify.com/album/4A45Tk2yR6MBllvKZNeJAp) | 3:00 | 2026-07-08 |  |
 | [Seconds Of Neon](https://open.spotify.com/track/7y8IcDNbf1RJtD1QDjscuu) | [WETLOOK](https://open.spotify.com/artist/3gXy9moqde8Vqf7IRrg5x5) | [Seconds Of Neon](https://open.spotify.com/album/0hxfW38i7HETPx1KNu9qtC) | 3:31 | 2026-05-10 |  |
 | [Segreti Di Miele](https://open.spotify.com/track/1wrXEn0KXHsxtj6QwOomni) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Segreti Di Miele](https://open.spotify.com/album/59BsBjGnMV5UtOdRQdBcZ8) | 2:04 | 2025-05-23 |  |
 | [Sei](https://open.spotify.com/track/5v0WRPhkz1LnrAQc07JLGB) | [Giorgio Isgro'](https://open.spotify.com/artist/0mkcb7x8JISZOGHV8LdKcW), [Marcello Pelo](https://open.spotify.com/artist/7Ex3l7mokFNNf69K0dJba7) | [Sei](https://open.spotify.com/album/7DwyP2LG07sgcVcKQ9ECEF) | 4:38 | 2026-06-09 |  |

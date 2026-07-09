@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Harsha Vardhan",
-  "num_followers": 19930,
+  "num_followers": 19935,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABkTjafwFZdDtr7T/EmAXmJC4o+T",
+  "snapshot_id": "AAAAAL65UZUqCOyUSCi1EgYJqaBE15At",
   "tracks": [
     {
       "added_at": "2026-06-10 10:19:16",
@@ -199,6 +199,26 @@
       "duration_ms": 176341,
       "name": "Maayam Neeyadi",
       "url": "https://open.spotify.com/track/6dEDlp5g1WaebGKI3K3IGH"
+    },
+    {
+      "added_at": "2026-07-08 06:10:44",
+      "album": {
+        "name": "Aathadi",
+        "url": "https://open.spotify.com/album/0cKwRlkY5EeN0NkUvwAceP"
+      },
+      "artists": [
+        {
+          "name": "R.Madhan Mohan",
+          "url": "https://open.spotify.com/artist/299hZFMTm60ri5cIlUzIoy"
+        },
+        {
+          "name": "Neha Girish",
+          "url": "https://open.spotify.com/artist/7j7JiRc4hgylqljp5gmKcv"
+        }
+      ],
+      "duration_ms": 267500,
+      "name": "Aathadi",
+      "url": "https://open.spotify.com/track/3EzGEMuDVJF8pxbWnNJWNx"
     },
     {
       "added_at": "2026-06-12 13:44:44",

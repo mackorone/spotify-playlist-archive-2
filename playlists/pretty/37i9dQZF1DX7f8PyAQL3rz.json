@@ -1,6 +1,6 @@
 {
   "description": "no drill e na bola \u00e9 \ud83c\udde7\ud83c\uddf7 , tlgd",
-  "num_followers": 1442183,
+  "num_followers": 1442054,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,30 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
+        "name": "BOMBOCLATT (REMIX)",
+        "url": "https://open.spotify.com/album/4A24PsSv0IDrilceG6Mfou"
+      },
+      "artists": [
+        {
+          "name": "Ruas Mc",
+          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
+        },
+        {
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "name": "Andr\u00e9 Miquelotti",
+          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "BOMBOCLATT (REMIX)",
+      "url": "https://open.spotify.com/track/1B2ce5cV00pzS17Ynvc0RA"
+    },
+    {
+      "added_at": "2026-07-02 22:00:07",
+      "album": {
         "name": "A Favela N\u00e3o Venceu",
         "url": "https://open.spotify.com/album/6Aouhk989GyFqOhOtJLPrP"
       },
@@ -527,30 +551,6 @@
       "duration_ms": 269268,
       "name": "Neguin Desaforado",
       "url": "https://open.spotify.com/track/3gbpdmzWYwqumooISINF9S"
-    },
-    {
-      "added_at": "2026-07-02 22:00:07",
-      "album": {
-        "name": "BOMBOCLATT (REMIX)",
-        "url": "https://open.spotify.com/album/4A24PsSv0IDrilceG6Mfou"
-      },
-      "artists": [
-        {
-          "name": "Ruas Mc",
-          "url": "https://open.spotify.com/artist/2GPQXYOzl0FJqKbkBL7Se5"
-        },
-        {
-          "name": "NandaTsunami",
-          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
-        },
-        {
-          "name": "Andr\u00e9 Miquelotti",
-          "url": "https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "BOMBOCLATT (REMIX)",
-      "url": "https://open.spotify.com/track/1B2ce5cV00pzS17Ynvc0RA"
     },
     {
       "added_at": "2026-07-02 22:00:07",
@@ -855,26 +855,6 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
-        "name": "BOLA DE MEIA.",
-        "url": "https://open.spotify.com/album/6vXRIMIBzpOflkPY2agdON"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 213995,
-      "name": "BOLA DE MEIA.",
-      "url": "https://open.spotify.com/track/6gLZVkQfxtLb7Lw4yV1nM3"
-    },
-    {
-      "added_at": "2026-07-02 22:00:07",
-      "album": {
         "name": "AQUI \u00c9 BRASIL",
         "url": "https://open.spotify.com/album/43On3lmGHBNE9Mo0Lyjzx5"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 158896,
       "name": "CA\u00c7A DO TESOURO",
       "url": "https://open.spotify.com/track/39ndb5aaoDJh5opNildstN"
+    },
+    {
+      "added_at": "2026-07-02 22:00:07",
+      "album": {
+        "name": "BOLA DE MEIA.",
+        "url": "https://open.spotify.com/album/6vXRIMIBzpOflkPY2agdON"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 213995,
+      "name": "BOLA DE MEIA.",
+      "url": "https://open.spotify.com/track/6gLZVkQfxtLb7Lw4yV1nM3"
     },
     {
       "added_at": "2026-07-02 22:00:07",
@@ -1335,6 +1335,46 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
+        "name": "Open Mic",
+        "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
+      },
+      "artists": [
+        {
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+        }
+      ],
+      "duration_ms": 222692,
+      "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
+    },
+    {
+      "added_at": "2026-07-02 22:00:07",
+      "album": {
+        "name": "Linha de frente",
+        "url": "https://open.spotify.com/album/1zex66YgFMYOjTzU26uPft"
+      },
+      "artists": [
+        {
+          "name": "KayG",
+          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        }
+      ],
+      "duration_ms": 165428,
+      "name": "Linha de frente",
+      "url": "https://open.spotify.com/track/7Hc2jOYT9YbZuaGvdur8Yg"
+    },
+    {
+      "added_at": "2026-07-02 22:00:07",
+      "album": {
         "name": "N\u00f3is Ta Diferente",
         "url": "https://open.spotify.com/album/0RCnF3Q6LvxCcMbv5fN8Bk"
       },
@@ -1363,26 +1403,6 @@
     {
       "added_at": "2026-07-02 22:00:07",
       "album": {
-        "name": "Linha de frente",
-        "url": "https://open.spotify.com/album/1zex66YgFMYOjTzU26uPft"
-      },
-      "artists": [
-        {
-          "name": "KayG",
-          "url": "https://open.spotify.com/artist/23FGpj6N9wtORIuMoXu9Uk"
-        },
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        }
-      ],
-      "duration_ms": 165428,
-      "name": "Linha de frente",
-      "url": "https://open.spotify.com/track/7Hc2jOYT9YbZuaGvdur8Yg"
-    },
-    {
-      "added_at": "2026-07-02 22:00:07",
-      "album": {
         "name": "dedin na boca",
         "url": "https://open.spotify.com/album/1u9MYHRtdhwc0RINHD8Qe4"
       },
@@ -1407,26 +1427,6 @@
       "duration_ms": 133715,
       "name": "dedin na boca",
       "url": "https://open.spotify.com/track/1H4k1iOh3EGQmIINhl1ZbG"
-    },
-    {
-      "added_at": "2026-07-02 22:00:07",
-      "album": {
-        "name": "Open Mic",
-        "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
-      },
-      "artists": [
-        {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 222692,
-      "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
-      "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
     },
     {
       "added_at": "2026-07-02 22:00:07",
@@ -1475,6 +1475,50 @@
       "duration_ms": 118153,
       "name": "DIXAVANDO",
       "url": "https://open.spotify.com/track/6slTSnYginVYk9Ubi90K3H"
+    },
+    {
+      "added_at": "2026-07-02 22:00:07",
+      "album": {
+        "name": "PLATA O PLOMO",
+        "url": "https://open.spotify.com/album/04YE4SzQn55927shW5TDjA"
+      },
+      "artists": [
+        {
+          "name": "THE BOX",
+          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
+        },
+        {
+          "name": "Men\u00f3 Felps",
+          "url": "https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP"
+        },
+        {
+          "name": "OGMECBABY",
+          "url": "https://open.spotify.com/artist/1OKegS9uz9X9755V9ajflv"
+        },
+        {
+          "name": "Sarah Sampp",
+          "url": "https://open.spotify.com/artist/2cl1hdWUdHlZoI3MXvIcY9"
+        },
+        {
+          "name": "Victor Thug",
+          "url": "https://open.spotify.com/artist/5WLPymEZt8rupS3Aak9hAb"
+        },
+        {
+          "name": "Aizakz",
+          "url": "https://open.spotify.com/artist/7xWcVg3imdH4pHVfdjVggh"
+        },
+        {
+          "name": "Zayon",
+          "url": "https://open.spotify.com/artist/6knogOswFY0sL5qQsW7jG1"
+        },
+        {
+          "name": "OG Bahia",
+          "url": "https://open.spotify.com/artist/5sWSh5DCUgwN223DmJ1He1"
+        }
+      ],
+      "duration_ms": 226758,
+      "name": "M\u00cdSSEIS E GRANADAS",
+      "url": "https://open.spotify.com/track/3Hy7Llycyn5FdcM2e844TK"
     },
     {
       "added_at": "2026-07-02 22:00:07",
@@ -1555,50 +1599,6 @@
       "duration_ms": 208000,
       "name": "Vida de Chefe",
       "url": "https://open.spotify.com/track/3Dam5n8I0yCplTnCu9VmQP"
-    },
-    {
-      "added_at": "2026-07-02 22:00:07",
-      "album": {
-        "name": "PLATA O PLOMO",
-        "url": "https://open.spotify.com/album/04YE4SzQn55927shW5TDjA"
-      },
-      "artists": [
-        {
-          "name": "THE BOX",
-          "url": "https://open.spotify.com/artist/7gHzR22tDNSWGS4HkvvPgw"
-        },
-        {
-          "name": "Men\u00f3 Felps",
-          "url": "https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP"
-        },
-        {
-          "name": "OGMECBABY",
-          "url": "https://open.spotify.com/artist/1OKegS9uz9X9755V9ajflv"
-        },
-        {
-          "name": "Sarah Sampp",
-          "url": "https://open.spotify.com/artist/2cl1hdWUdHlZoI3MXvIcY9"
-        },
-        {
-          "name": "Victor Thug",
-          "url": "https://open.spotify.com/artist/5WLPymEZt8rupS3Aak9hAb"
-        },
-        {
-          "name": "Aizakz",
-          "url": "https://open.spotify.com/artist/7xWcVg3imdH4pHVfdjVggh"
-        },
-        {
-          "name": "Zayon",
-          "url": "https://open.spotify.com/artist/6knogOswFY0sL5qQsW7jG1"
-        },
-        {
-          "name": "OG Bahia",
-          "url": "https://open.spotify.com/artist/5sWSh5DCUgwN223DmJ1He1"
-        }
-      ],
-      "duration_ms": 226758,
-      "name": "M\u00cdSSEIS E GRANADAS",
-      "url": "https://open.spotify.com/track/3Hy7Llycyn5FdcM2e844TK"
     },
     {
       "added_at": "2026-07-02 22:00:07",

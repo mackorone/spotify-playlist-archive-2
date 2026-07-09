@@ -2654,7 +2654,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 188210,
       "name": "HATEHATEHATEHATEHATEHATE - Special Version",
       "url": "https://open.spotify.com/track/7KqJTVXNShP5ecGO0YiqQc"
@@ -6094,6 +6094,24 @@
       "duration_ms": 188933,
       "name": "Towers",
       "url": "https://open.spotify.com/track/5bfFCwTtflxfirt9d8Ls3S"
+    },
+    {
+      "album": {
+        "name": "Traveling Blues",
+        "url": "https://open.spotify.com/album/4CEWvUJ9YjEQF1apGtPTju"
+      },
+      "artists": [
+        {
+          "name": "Evan Roderick",
+          "url": "https://open.spotify.com/artist/7bw5PTECn2uhtnzlssXeHE"
+        }
+      ],
+      "date_added": "2026-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215250,
+      "name": "Traveling Blues",
+      "url": "https://open.spotify.com/track/45fEI8uXWhqDdo7JkBm73i"
     },
     {
       "album": {

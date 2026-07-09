@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-615 songs - 1 day 14 hr 20 min
+619 songs - 1 day 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -414,6 +414,7 @@
 | [Phoenix Blood](https://open.spotify.com/track/5T9vB7ik3DayIDTKArLzWN) | [Beyond Forever](https://open.spotify.com/artist/4IidouvoRFPlb95I8JEPKL) | [Phoenix Blood](https://open.spotify.com/album/25H5LMWei4hNC8dZQhspZa) | 3:02 | 2025-11-01 | 2025-12-17 |
 | [Pink Mars](https://open.spotify.com/track/6ZqwVLomAVnI6sKukX2coy) | [Shayan Regan](https://open.spotify.com/artist/4MqBmgnfLeYmizJVpJz65k) | [Pink Mars](https://open.spotify.com/album/7z1mPkBv180DxtOMmyWICw) | 3:44 | 2025-11-29 | 2025-12-17 |
 | [Polaroid](https://open.spotify.com/track/4GQAIUhNo73PKzoCAJGFcs) | [Artide](https://open.spotify.com/artist/7JDUHZiaiEls9VVH7hmnNF) | [Polaroid](https://open.spotify.com/album/1vQ9FBJUrpnFFRabr4Q50s) | 3:23 | 2026-05-21 | 2026-06-18 |
+| [Pongo Pygmeaus](https://open.spotify.com/track/43PVaUwpwUbo1FRsngTdTW) | [Prognoz](https://open.spotify.com/artist/48D2g5B3xl0nzi9H36ZlzB) | [Flower](https://open.spotify.com/album/3GwlbFzX1GgH0skFuDnFjG) | 6:16 | 2026-07-08 |  |
 | [Por Debajo](https://open.spotify.com/track/0DTe6BsI9yodMWVcq6dnfG) | [Gary Tapiego](https://open.spotify.com/artist/73rYkLqdQlbp7BM6tDuo5v) | [Por Debajo](https://open.spotify.com/album/047zkzrHJj829LNoXWd0jt) | 2:41 | 2025-10-21 | 2025-11-28 |
 | [Pra quê](https://open.spotify.com/track/4pP1UsBuRGrQexQ3T1hmD0) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Super\-Heriós](https://open.spotify.com/album/5kVLd6P222EsnzQMNz54bP) | 3:37 | 2026-04-15 | 2026-06-25 |
 | [Prendo il treno](https://open.spotify.com/track/295IXwJm4eeSU0Ya58Wovd) | [dipe](https://open.spotify.com/artist/0XEYn4sxWm1ga9sXJQ4sWL) | [Prendo il treno](https://open.spotify.com/album/59l0dY5LeYjJo81h6eCIG3) | 4:09 | 2026-02-18 | 2026-03-18 |
@@ -430,6 +431,7 @@
 | [Querem te Sangrar \(KaVva\)](https://open.spotify.com/track/01QUv8IT64cWSmq4TafHYg) | [Banda KaVva](https://open.spotify.com/artist/0EF4MYnsNtVXBAi2yitscA) | [Querem te Sangrar \(KaVva\)](https://open.spotify.com/album/38dc7ED7uhnLSMdhn1w5TK) | 4:15 | 2026-07-04 |  |
 | [QUIERO DECIRTE](https://open.spotify.com/track/36PDGZXQCtWfnCUpzVSTOP) | [ESTEBAN](https://open.spotify.com/artist/2Jmxf1QvEltShBfsb02gNr) | [QUIERO DECIRTE](https://open.spotify.com/album/76v6Ky3t1sLnnBmCQ7msUt) | 2:34 | 2026-06-06 | 2026-06-18 |
 | [Qué Pereza De Tío](https://open.spotify.com/track/0Kg4qmqoCOUYsLAO7mf0JJ) | [Sombras Olvidadas](https://open.spotify.com/artist/6rhnGBSM5IaE1uIRSwOD0Z) | [Qué Pereza De Tío](https://open.spotify.com/album/3RyKBLt6jofPpjSLkrzHNG) | 3:10 | 2026-03-20 | 2026-04-21 |
+| [Red Flags](https://open.spotify.com/track/38RZyMyR07gV4f9Fbc6O6a) | [Lemonhead](https://open.spotify.com/artist/01eYzyZnS4aE2rwtJKBNcs) | [Red Flags](https://open.spotify.com/album/4vM6Z43GlIZ5SrLsXNOekc) | 3:10 | 2026-07-08 |  |
 | [Red Sea](https://open.spotify.com/track/65CBVvFFb0FxAGTrtIcpbB) | [Thesis](https://open.spotify.com/artist/2f2Lm3RVxYFYG2oqvbNxct) | [Red Sea](https://open.spotify.com/album/5Yw6aE5sMft2MrkeV3osUg) | 5:21 | 2026-06-18 |  |
 | [Refugees in the ghetto](https://open.spotify.com/track/29mupryc4x4a8bRJDYg9J0) | [Smiling Crybabies](https://open.spotify.com/artist/1tbsh8mDWvLldgsLKErW9U) | [Refugees in the ghetto](https://open.spotify.com/album/2xV9IM4Y8Jrxbx2eJ2Vidl) | 5:30 | 2026-01-16 | 2026-03-18 |
 | [Remuerden Los Dias](https://open.spotify.com/track/1nQWp15sWzMCmYTMBCGtWA) | [KORSARIO](https://open.spotify.com/artist/2WNjYhitKntys9iLAlikUe) | [De Las Cenizas Del Pasado](https://open.spotify.com/album/0xIqpsa7US69KDtrajpVKe) | 3:39 | 2025-12-25 |  |
@@ -447,6 +449,7 @@
 | [Rock N Roll From Tennessee](https://open.spotify.com/track/0U4A63dSoHUsX852Akvxki) | [The Red Light](https://open.spotify.com/artist/60BwxiCPsunxkkYMXZGCAu) | [Stories From The Working Class](https://open.spotify.com/album/0uROJoEp9NJ0YdzbQfpyRd) | 3:34 | 2026-03-01 | 2026-03-18 |
 | [RockPaperScissors](https://open.spotify.com/track/2xOQmufJ8gzlaUtKZfiCm7) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [RockPaperScissors](https://open.spotify.com/album/4wSVvEGJ0OhDG4MUOtFLH6) | 3:25 | 2026-05-07 | 2026-05-26 |
 | [Rollin' + Twistin'](https://open.spotify.com/track/2CCdd0Lo1B5BY8N2ctOFNQ) | [Gypsy Cowboys](https://open.spotify.com/artist/4myRhM03KuiFw1dOSSkAdM) | [Rollin' + Twistin'](https://open.spotify.com/album/5zMH9tVYPrNuer03CoUjit) | 3:24 | 2026-01-03 |  |
+| [Rossa Luna](https://open.spotify.com/track/3wnGCihTWncCJkn0awDes3) | [Hari the Cosmic Cowboy](https://open.spotify.com/artist/5rYjmE5aHWuEzdBi4Afb7m) | [Rossa Luna](https://open.spotify.com/album/2763zkWD7SCAnmFH8pIhjQ) | 3:57 | 2026-07-08 |  |
 | [Rota Psicodélica](https://open.spotify.com/track/2yxf0RiYiEDvUODDEDzQID) | [Folk Soundtrack Band](https://open.spotify.com/artist/7msqMHsbi7Yvpy3gRfp31l), [Beto Carrara](https://open.spotify.com/artist/7A7ioygw9Zh8vJsOpSdlmW) | [Rota Psicodélica](https://open.spotify.com/album/0o84VkYn8mGiIxBUKnsUE2) | 2:52 | 2026-03-16 | 2026-04-21 |
 | [Route 66 Storm](https://open.spotify.com/track/0SnrPl7CYenERPqiU2QXXp) | [J\. Lee Bone](https://open.spotify.com/artist/6gGiDRa5txAU73w00S1zXs) | [Route 66 Storm](https://open.spotify.com/album/2nIrZBoaiNbRvY4lI2WmIJ) | 3:34 | 2026-03-05 | 2026-03-18 |
 | [Ruines](https://open.spotify.com/track/5k0EsA3WldipVOOZhUkhQr) | [good afternoon](https://open.spotify.com/artist/51AUWbI67m6qAMG9NCZDJ2) | [City pilgrim](https://open.spotify.com/album/3LPAMLVRB4F46OcQUBq6SA) | 2:11 | 2025-11-25 | 2025-12-17 |
@@ -499,6 +502,7 @@
 | [Sparks in this Town](https://open.spotify.com/track/3RqIdENWmSSxFVbkAYNFnZ) | [Fionn Camp](https://open.spotify.com/artist/2zlENRxJLJxwUaKpKBT38L), [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [Sparks in this Town](https://open.spotify.com/album/4WXHNk60Qd7lnwzWpjgsAZ) | 3:43 | 2026-05-24 |  |
 | [Spine](https://open.spotify.com/track/23DvAjrBATcWGDy6U9CqDB) | [Les Hommes Crabes](https://open.spotify.com/artist/4ULwrrKmZDTybXbNDC3xGL) | [GALAK 51](https://open.spotify.com/album/5advJux4HnBDXaLvUovkq6) | 4:29 | 2026-01-25 |  |
 | [Standing In The Light](https://open.spotify.com/track/4EFxWojLE1JWH8uxobQ5M4) | [Felix Commerell](https://open.spotify.com/artist/0oyPV1Y8OGya6ypcQJH36d), [Gianni Pontillo](https://open.spotify.com/artist/25WlZGbmXfwrs9dSWjyEZ7), [Thomy Gunn](https://open.spotify.com/artist/5LmWKf6HXvytwVL8ElnLcP) | [Standing In The Light](https://open.spotify.com/album/3gdxXCYrlx3NGSTtUPYSsn) | 3:46 | 2026-06-21 |  |
+| [Starstruck](https://open.spotify.com/track/4BYasiV8oVyX8DHPtV0CMi) | [Victor Drux](https://open.spotify.com/artist/1aeuM7g2UuAoj07k1CC71h) | [Starstruck](https://open.spotify.com/album/0tiHXl3ywnPyCaooQNfgst) | 3:41 | 2026-07-08 |  |
 | [Stay Back](https://open.spotify.com/track/02wm1989sxHOnZJK9IY0EU) | [Jenny Scara](https://open.spotify.com/artist/0F4yegE6Xa3vC2KvCoJTGw) | [I've Got a Story to Tell](https://open.spotify.com/album/5Ssz0Vi0rbAGXRkF4hhOoX) | 2:25 | 2026-04-30 | 2026-05-26 |
 | [Step By Step](https://open.spotify.com/track/4PxUH42cgwnWMVG4Wgri18) | [Amelina](https://open.spotify.com/artist/2KB8CcoEbyUA0hP58619Iu) | [Step By Step](https://open.spotify.com/album/3cec3xCfuMviPNoBTta7Qv) | 3:43 | 2026-05-25 | 2026-06-18 |
 | [Sternschnuppenmoment](https://open.spotify.com/track/5BVOoeObY2AYkSTQlokJxM) | [Foreignson and his Ghosts](https://open.spotify.com/artist/6mHpLUCFZ6U5aOY4Qmjy3h) | [Sternschnuppenmoment](https://open.spotify.com/album/43vzqAlHnIQKFRF8aK8hTk) | 3:52 | 2026-03-24 | 2026-04-21 |

@@ -3927,6 +3927,24 @@
     },
     {
       "album": {
+        "name": "QUINTET",
+        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
+      },
+      "artists": [
+        {
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+        }
+      ],
+      "date_added": "2026-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224333,
+      "name": "Sweet Cheers!",
+      "url": "https://open.spotify.com/track/6iYQytGbexusFZWzPg32Jz"
+    },
+    {
+      "album": {
         "name": "Live Beyond!!",
         "url": "https://open.spotify.com/album/0qEUvpIcVXtvXvsWJKcMhK"
       },
@@ -7600,7 +7618,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 215968,
       "name": "\u5bc4\u308b\u8fba\u306eSunny, Sunny",
       "url": "https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC"

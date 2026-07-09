@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,309 songs - 4 day 23 hr 48 min
+2,310 songs - 4 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1324,7 +1324,7 @@
 | [Midsommar](https://open.spotify.com/track/1BWDrue8iLx0niKoUu5f8c) | [lovad](https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj) | [Midsommar](https://open.spotify.com/album/15uIg1ZX7dYcg8uRE7BD2q) | 2:49 | 2024-06-06 | 2024-08-09 |
 | [Midsommardansen](https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt) | [Jens Hult](https://open.spotify.com/artist/0BL04H8MiD3g762tT3lQXu) | [Midsommardansen](https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W) | 2:04 | 2024-06-13 | 2024-08-16 |
 | [Midsommarregn](https://open.spotify.com/track/43IOnIz4jMrU6qjPgiTtVL) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [Midsommarregn](https://open.spotify.com/album/4lsbgqoNTEO987jBWDAh8w) | 3:11 | 2026-06-11 |  |
-| [Midsummer](https://open.spotify.com/track/4zFTHnd6J02sxwaqiHCDbn) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Midsummer](https://open.spotify.com/album/6Bq3FPWmydEJTfOLqTlJac) | 3:07 | 2026-06-18 |  |
+| [Midsummer](https://open.spotify.com/track/4zFTHnd6J02sxwaqiHCDbn) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Midsummer](https://open.spotify.com/album/6Bq3FPWmydEJTfOLqTlJac) | 3:08 | 2026-06-18 |  |
 | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/track/5vOWUz65ez7ctQQLBpbgvc) | [ABEL](https://open.spotify.com/artist/24s1thJhRUKrnGcnFDBi5E), [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [MIG/DIG \(feat\. Klaudy\)](https://open.spotify.com/album/4xeizK2EHs4GlbDezTmR5S) | 2:56 | 2025-09-11 | 2026-02-06 |
 | [Mika](https://open.spotify.com/track/1xv6D146GY71LviF0cT52P) | [Atmosfär](https://open.spotify.com/artist/1lyKZwLfr7m2hug2svSdUh) | [Mika](https://open.spotify.com/album/4FSUbcwDoAcFtSo1MAZTC6) | 4:28 | 2024-06-06 | 2024-08-09 |
 | [Mildest High](https://open.spotify.com/track/6YCe7aJVBWDEkJklrjVwmy) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Mildest High](https://open.spotify.com/album/5V7zY5PJ0sl5hgT7Jow9pQ) | 3:03 | 2022-06-23 | 2022-07-23 |
@@ -1836,7 +1836,7 @@
 | [Sprit & Blondiner](https://open.spotify.com/track/0jXbmr98Xm2bNlAUyq9caV) | [Silvana Imam](https://open.spotify.com/artist/14vNE9iqS5eGAL6OogiN8g), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Sprit & Blondiner](https://open.spotify.com/album/3bXFyWuISWjAIonXpBupcK) | 3:23 | 2024-06-06 | 2024-08-09 |
 | [Spritdränkta](https://open.spotify.com/track/5IeOJsK7HmNjrRP3zOpOfn) | [Agnes Matsdotter](https://open.spotify.com/artist/6C0HjwmlFfHqrpxeQctQWi) | [Spritdränkta](https://open.spotify.com/album/3Ko4CeH9l8c5JFBDxpFAxY) | 3:37 | 2022-03-03 | 2022-05-13 |
 | [Spöken](https://open.spotify.com/track/71eGRVXsrdEdGScvbz13gK) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Spöken](https://open.spotify.com/album/1cqYqPKOj0X8m5ujIGWKcs) | 3:01 | 2026-04-16 |  |
-| [Srs Ice](https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK) | 3:34 | 2026-03-05 |  |
+| [Srs Ice](https://open.spotify.com/track/7bzZs3kR7MbrfNFPtG8t7R) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/2uKRAKkX0mcEevPuaE18rK) | 3:34 | 2026-03-05 | 2026-07-09 |
 | [Staden](https://open.spotify.com/track/3NU6g9s3vo643YWSHfn5PF) | [Von Disco](https://open.spotify.com/artist/4x7WacYjAU6XQpeDHmNxhv) | [Staden](https://open.spotify.com/album/10m9GVB1D3nQxNAmUrr7tH) | 2:23 | 2025-08-21 | 2025-10-24 |
 | [Stammis](https://open.spotify.com/track/5cDSbU73KTPSa4osINu0Qs) | [Tjuvjakt](https://open.spotify.com/artist/0XDfNJsQy7B3q0GfsMHSkp), [Simon Strömstedt](https://open.spotify.com/artist/29gZaii4lX0oXppmZEpT7W) | [Stammis](https://open.spotify.com/album/7q3CHJeVyYcbGc2bGu7Ygc) | 3:46 | 2026-05-07 |  |
 | [Starkare](https://open.spotify.com/track/22WLD0thQ96SRCJ0azSCIX) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Starkare](https://open.spotify.com/album/2zCCebbYUHgSoOS0gxGw3r) | 2:25 | 2023-05-04 | 2023-10-20 |
@@ -1969,6 +1969,7 @@
 | [Tarantino](https://open.spotify.com/track/7KS2RrJiJ4q89tMQAPTaiI) | [Sophia Somajo](https://open.spotify.com/artist/5T8zbK3dic52T9bFu0aY8z) | [Tarantino](https://open.spotify.com/album/4OHSuHEsgNFVPw1kkeA7rD) | 3:54 | 2025-10-30 | 2025-11-14 |
 | [Taste Of Heaven](https://open.spotify.com/track/2ByE2T6q6xsJ4540xka3pz) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee) | [Taste Of Heaven](https://open.spotify.com/album/0Cbt2xiCAc1vjTCHnPdFDG) | 2:50 | 2023-11-03 | 2024-02-09 |
 | [Taxin](https://open.spotify.com/track/6fVsYWoMw8kR0pudjjEUb0) | [Broder Jakob](https://open.spotify.com/artist/6O55JxNwObW4tmmL0jO9zy) | [Taxin](https://open.spotify.com/album/4z5n7zYUidCJA6enyihZ6F) | 2:53 | 2022-05-05 | 2022-07-23 |
+| [Te Dua](https://open.spotify.com/track/0ZP0ORBePjiADojgQS0s4p) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Te Dua](https://open.spotify.com/album/3xMa4qt4EZrhR8H2y55Kke) | 2:49 | 2026-07-02 |  |
 | [Teach Me](https://open.spotify.com/track/67WrJrYuDihmwIVhR4p7N1) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Youth And Why It Ends](https://open.spotify.com/album/2rv9MHfgzqAvshO61zMdBn) | 2:40 | 2023-11-03 | 2024-01-26 |
 | [Teach Me](https://open.spotify.com/track/69C61BkstEREBdizQrgbQi) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Teach Me](https://open.spotify.com/album/1G5PjW6Cy80XPTmyRr2nyv) | 2:40 | 2023-10-20 | 2023-11-05 |
 | [Tears](https://open.spotify.com/track/1KEXV4nhFG7lkOU7qqiQyi) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [What They'll Say About Us](https://open.spotify.com/album/4mdAcPpvearpFuQm4VZc6a) | 2:32 | 2021-12-16 | 2022-03-11 |

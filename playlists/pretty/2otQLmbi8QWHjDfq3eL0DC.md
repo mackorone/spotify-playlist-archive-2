@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2otQLmbi8QWHjDfq3eL0DC.md) - [plain]
 
 > The best House Music of 2026! Featuring pulsating beats, high\-energy electronic dance tracks, and a mix of iconic artists like David Guetta, FISHER, Peggy Gou, and emerging talents\. Perfect for parties, workouts, or just chilling\. Updated weekly! Like and save this ultimate House playlist!
 
-[Topsify](https://open.spotify.com/user/topsify) - 1,312,677 likes - 100 songs - 5 hr 4 min
+[Topsify](https://open.spotify.com/user/topsify) - 1,312,614 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: \u4e0b\u4e2d\u6d0b\u4ecb",
-  "num_followers": 33057,
+  "num_followers": 33058,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAECF8HcpLMNG2JyIw4VZs9zfnMwX",
+  "snapshot_id": "AAAAAHL1iaSGSH4cArtVle17ckzvXynR",
   "tracks": [
     {
       "added_at": "2026-06-30 15:00:03",
@@ -267,18 +267,18 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
       },
       "artists": [
         {
-          "name": "SPECIAL OTHERS",
-          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
         }
       ],
-      "duration_ms": 202733,
-      "name": "Good song",
-      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
+      "duration_ms": 195693,
+      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
       "added_at": "2026-04-28 15:00:59",
@@ -323,18 +323,18 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
       },
       "artists": [
         {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+          "name": "SPECIAL OTHERS",
+          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
         }
       ],
-      "duration_ms": 195693,
-      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
+      "duration_ms": 202733,
+      "name": "Good song",
+      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
     },
     {
       "added_at": "2026-04-28 15:00:59",
@@ -723,22 +723,6 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "Ordinary Landscape",
-        "url": "https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V"
-      },
-      "artists": [
-        {
-          "name": "re:plus",
-          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
-        }
-      ],
-      "duration_ms": 256133,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d"
-    },
-    {
-      "added_at": "2026-04-28 15:00:59",
-      "album": {
         "name": "\u30d5\u30eb\u30fb\u30b9\u30ed\u30c3\u30c8\u30eb",
         "url": "https://open.spotify.com/album/2F1lao3ZpMCXsnBqtuTc7f"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 236266,
       "name": "\u30d5\u30eb\u30fb\u30b9\u30ed\u30c3\u30c8\u30eb",
       "url": "https://open.spotify.com/track/32Ke9fTiDF4EH7QAhWVa9L"
+    },
+    {
+      "added_at": "2026-04-28 15:00:59",
+      "album": {
+        "name": "Ordinary Landscape",
+        "url": "https://open.spotify.com/album/7Jkzw2xlE48wN2dUKPxw7V"
+      },
+      "artists": [
+        {
+          "name": "re:plus",
+          "url": "https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG"
+        }
+      ],
+      "duration_ms": 256133,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/7ESu5dNSc30xnlQkWlSN9d"
     },
     {
       "added_at": "2026-04-28 15:00:59",
@@ -835,18 +835,18 @@
     {
       "added_at": "2026-04-28 15:00:59",
       "album": {
-        "name": "Variety",
-        "url": "https://open.spotify.com/album/3LJEvxN8yCR4gnSd3xkpr2"
+        "name": "\u30a2\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP"
       },
       "artists": [
         {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
         }
       ],
-      "duration_ms": 158000,
-      "name": "Normal Life",
-      "url": "https://open.spotify.com/track/0GJPcZShlAFmziN0GdOhhT"
+      "duration_ms": 245500,
+      "name": "\u54c0\u3057\u3044\u4e88\u611f / \u30ea\u30ea\u30a6\u30e0",
+      "url": "https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

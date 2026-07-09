@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,579 songs - 10 day 5 hr 19 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 281 likes - 4,586 songs - 10 day 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4587,5 +4587,12 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4577 | [Funky Shoes](https://open.spotify.com/track/31nFDAKrVZgJAOvAOFOY49) | [SABOGA](https://open.spotify.com/artist/7MnlZXTtWk60QisRWY7lOA) | [Funky Shoes](https://open.spotify.com/album/6B923n9SzNzEDzIIkD0OYa) | 3:09 |
 | 4578 | [Crimson Sky](https://open.spotify.com/track/6sKWr1J6Nvm8D8VzkGRNFu) | [Corners of Sanctuary](https://open.spotify.com/artist/2awE3SRj1mzablPjOH4TE1) | [Crimson Sky](https://open.spotify.com/album/18f7pVLtBCCWAlLQlU7tu2) | 4:34 |
 | 4579 | [De Na Con Na](https://open.spotify.com/track/4pH4nVULI9qoWPfIjsFEMz) | [El Ki RD](https://open.spotify.com/artist/3suIHAGrQzlelpZn10Au0p) | [De Na Con Na](https://open.spotify.com/album/3fahXnEQP9jgFV0WjXJXwf) | 2:00 |
+| 4580 | [Damned Faces](https://open.spotify.com/track/3Aeyhxu0AnM2vtqkf1pV88) | [Decode](https://open.spotify.com/artist/0rO1fCp5TZKr28GVCu5QbE) | [Damned Faces](https://open.spotify.com/album/1DlyzqelnFc1jpQlHrwgG8) | 3:31 |
+| 4581 | [10 Years](https://open.spotify.com/track/0is7U35DiSUWJW92TGlXSY) | [Eden Entertainment](https://open.spotify.com/artist/7FSh28tz5yH7HthohtdIPA), [Children of Eden](https://open.spotify.com/artist/4LmMQKaZzvr1hid7GwiXcL) | [The Banana Split](https://open.spotify.com/album/5LsPvBY6yIRbilKjCoaGuF) | 3:11 |
+| 4582 | [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 |
+| 4583 | [Notte sul Lungomare](https://open.spotify.com/track/0ExtxEx3hDy2cHLdLRz9qn) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [Popera Urbana](https://open.spotify.com/album/12RPE6EbMnoQ7pcAqIVJTV) | 2:48 |
+| 4584 | [Tu Hai Toh \- Reprise Version](https://open.spotify.com/track/6CwgYQDfDldZem7oXS0lmL) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Tu Hai Toh](https://open.spotify.com/album/1y8LBxZd0BOyQvqixXMQ7h) | 4:21 |
+| 4585 | [Purple Boots](https://open.spotify.com/track/1l5ibJGuB8RKadQ6c2x6eZ) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Purple Boots](https://open.spotify.com/album/6zNl5lgn9FuPngHvt8jfyk) | 3:31 |
+| 4586 | [Chibo Da Paz](https://open.spotify.com/track/5QGSThpT3sVeE91IySPHBe) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Super\-Heriós](https://open.spotify.com/album/5kVLd6P222EsnzQMNz54bP) | 3:19 |
 
-Snapshot ID: `AAAJHAdv1Vusq1uRyOYKHVJqk42rwnUV`
+Snapshot ID: `AAAJIzy+OWyX+IopBjtBcgi+hJ2cFcOm`

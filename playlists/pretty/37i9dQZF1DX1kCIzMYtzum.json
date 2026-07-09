@@ -1,6 +1,6 @@
 {
   "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 with John Summit",
-  "num_followers": 531033,
+  "num_followers": 531360,
   "original_name": "EDM 2026",
   "owner": {
     "name": "Spotify",
@@ -1715,26 +1715,6 @@
     {
       "added_at": "2026-07-03 04:02:19",
       "album": {
-        "name": "Better Times (feat. BARBZ)",
-        "url": "https://open.spotify.com/album/2mmC7pH9VfseFT0xc0Byaq"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "BARBZ",
-          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
-        }
-      ],
-      "duration_ms": 188972,
-      "name": "Better Times (feat. BARBZ)",
-      "url": "https://open.spotify.com/track/3rzMJ9GVogl8CtcrxHRnIH"
-    },
-    {
-      "added_at": "2026-07-03 04:02:19",
-      "album": {
         "name": "If I Die Young",
         "url": "https://open.spotify.com/album/6ikA0fPdbJNdmwad2p6I93"
       },
@@ -1751,6 +1731,26 @@
       "duration_ms": 131207,
       "name": "If I Die Young",
       "url": "https://open.spotify.com/track/3A22noh6KZmsvP7ti5sEcm"
+    },
+    {
+      "added_at": "2026-07-03 04:02:19",
+      "album": {
+        "name": "Better Times (feat. BARBZ)",
+        "url": "https://open.spotify.com/album/2mmC7pH9VfseFT0xc0Byaq"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "BARBZ",
+          "url": "https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc"
+        }
+      ],
+      "duration_ms": 188972,
+      "name": "Better Times (feat. BARBZ)",
+      "url": "https://open.spotify.com/track/3rzMJ9GVogl8CtcrxHRnIH"
     },
     {
       "added_at": "2026-07-03 04:02:19",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2026-07-03 04:02:19",
       "album": {
+        "name": "I Love My Computer",
+        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 231365,
+      "name": "Delete",
+      "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
+    },
+    {
+      "added_at": "2026-07-03 04:02:19",
+      "album": {
         "name": "Feels Like Us",
         "url": "https://open.spotify.com/album/0ENB7j7e8xiRDSMowrclQk"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 234545,
       "name": "Feels Like Us",
       "url": "https://open.spotify.com/track/23Hxd8ph2vJWlXngubtyuO"
-    },
-    {
-      "added_at": "2026-07-03 04:02:19",
-      "album": {
-        "name": "I Love My Computer",
-        "url": "https://open.spotify.com/album/77CZUF57sYqgtznUe3OikQ"
-      },
-      "artists": [
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 231365,
-      "name": "Delete",
-      "url": "https://open.spotify.com/track/0CVbCtcdXAIw00YBXXbneu"
     },
     {
       "added_at": "2026-07-03 04:02:19",

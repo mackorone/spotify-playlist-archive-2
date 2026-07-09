@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Vishwanath & Sons
 
-2,507 songs - 6 day 6 hr 42 min
+2,508 songs - 6 day 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2084,6 +2084,7 @@
 | [The Rage](https://open.spotify.com/track/0ub4lwOZikB1d4BvfjIZYq) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Rapper Ro](https://open.spotify.com/artist/3hJzCWlHznAi4I7K00rWAL), [Chethan Handattu](https://open.spotify.com/artist/6zN29jJJVpH7SsVM0YRigi) | [Blast \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0v80ZrMaTeSbIJSeKPx7rU) | 3:45 | 2026-06-08 |  |
 | [The Rage \- From "Blast"](https://open.spotify.com/track/31VIMLQnQAnm0Jtsco6d8N) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Rapper Ro](https://open.spotify.com/artist/3hJzCWlHznAi4I7K00rWAL), [Chethan Handattu](https://open.spotify.com/artist/6zN29jJJVpH7SsVM0YRigi) | [The Rage \(From "Blast"\)](https://open.spotify.com/album/7jwXKnS5yFxoFdTfn12IBo) | 3:45 | 2026-05-15 | 2026-07-02 |
 | [The Real Og](https://open.spotify.com/track/6huPrSB8DvaSpfzgsr5VUD) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Blazee](https://open.spotify.com/artist/6VpNNlQmmvTWZTfUJWF8Nu), [Premgi Amaren](https://open.spotify.com/artist/4GxNKj50amLne9azxcrqK2), [Allen Preetham](https://open.spotify.com/artist/24ZjW3kLts0OUp5xIuiINW) | [The Greatest Of All Time Ost](https://open.spotify.com/album/4xEiNkMfZXAH82aNMzzmJp) | 1:12 | 2024-10-18 | 2024-12-25 |
+| [The Rise of GDN \(From "G.D.N."\)](https://open.spotify.com/track/4WH0z1XvtjJvgEKbsgQjwt) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Maalavika Sundar](https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP), [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq), [Senthuzhan](https://open.spotify.com/artist/70FG3TFLKDHaIiT9QcxWQX) | [The Rise of GDN \(From "G.D.N."\)](https://open.spotify.com/album/0q7dQTfaIzfrkkUoShIbco) | 3:35 | 2026-07-08 |  |
 | [The Soul Of Satya \(From "Satya"\) \[TAMIL\]](https://open.spotify.com/track/5DekcMOvhnPz8TXo8SR5Lz) | [Shruthi Ranjani](https://open.spotify.com/artist/6Sg0TKAUBbrcX1AiLFOERM), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [The Soul Of Satya \(From "Satya"\)\[TAMIL\]](https://open.spotify.com/album/4jPwtTFFRJNHZUTsex4Wqg) | 4:30 | 2023-08-17 | 2023-09-07 |
 | [The Spooky Vibes of Grandma \- From "Sabdham"](https://open.spotify.com/track/0bzugT52UFA04WkuIReBXk) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Sahithi Chaganti](https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [The Spooky Vibes of Grandma \(From "Sabdham"\)](https://open.spotify.com/album/2SBE7Za3bDvGtH9NfPE1wS) | 4:07 | 2025-02-28 | 2025-03-25 |
 | [The Spooky Vibes of Grandma \- From "Sabdham"](https://open.spotify.com/track/6tWpEFLS92LFrtWE2uSQND) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Vaikom Vijayalakshmi](https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb), [Viveka](https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z) | [The Spooky Vibes of Grandma \(From "Sabdham"\)](https://open.spotify.com/album/4En7phuMyCOVbkruC8KTKd) | 4:07 | 2025-02-26 | 2025-03-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: Le Ren
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,786 likes - 76 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,795 likes - 76 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

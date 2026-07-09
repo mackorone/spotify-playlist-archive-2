@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your bias K-Pop boy group? (Cover: ATEEZ) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
+  "description": "Is it your bias K-Pop boy group? (Cover: AHOF) \ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?",
   "name": "BIASBOYS",
   "tracks": [
     {
@@ -3164,7 +3164,7 @@
       ],
       "date_added": "2023-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 198365,
       "name": "Crazy Form",
       "url": "https://open.spotify.com/track/2KoeSRTm9cRulYnkaEyUaP"
@@ -4220,6 +4220,24 @@
       "duration_ms": 257173,
       "name": "Everlasting",
       "url": "https://open.spotify.com/track/2WBN1JHsM6jVzEqRGsjz1z"
+    },
+    {
+      "album": {
+        "name": "Everyday, Everynight (Youth of Revelation X KickFlip) (Original Webtoon Soundtrack)",
+        "url": "https://open.spotify.com/album/0VI3RimVwwbdHLqQ6xNZ4x"
+      },
+      "artists": [
+        {
+          "name": "KickFlip",
+          "url": "https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Everyday, Everynight",
+      "url": "https://open.spotify.com/track/02dJ49umfCGM6JCh7OX8eY"
     },
     {
       "album": {
@@ -11651,6 +11669,24 @@
     },
     {
       "album": {
+        "name": "RUN TO YOU",
+        "url": "https://open.spotify.com/album/3xPfMMh4jkzVCZ2BKRI5bA"
+      },
+      "artists": [
+        {
+          "name": "AHOF",
+          "url": "https://open.spotify.com/artist/4qfEQKZj3GXPjLBEppvHTH"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "RUN TO YOU",
+      "url": "https://open.spotify.com/track/0ku6osTANoM57WO6LWAgwZ"
+    },
+    {
+      "album": {
         "name": "Run up (Korean Version)",
         "url": "https://open.spotify.com/album/6fvWqvuE09nnpF2TI3jrIo"
       },
@@ -14424,7 +14460,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 192092,
       "name": "VERY NICE",
       "url": "https://open.spotify.com/track/1Rrj7KyS2R6SP9CQMDJW1w"

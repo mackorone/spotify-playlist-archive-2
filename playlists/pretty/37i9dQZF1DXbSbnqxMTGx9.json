@@ -1,6 +1,6 @@
 {
   "description": "The ultimate reggae playlist. Cover: Bob Marley",
-  "num_followers": 3222490,
+  "num_followers": 3222667,
   "original_name": "Reggae Classics",
   "owner": {
     "name": "Spotify",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Total Reggae: Classic Roots",
-        "url": "https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30"
-      },
-      "artists": [
-        {
-          "name": "Fred Locks",
-          "url": "https://open.spotify.com/artist/0O9POrd5urnAgUSE9Piuth"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Vision Of Redemption",
-      "url": "https://open.spotify.com/track/208LH3OhnvwWjS5CYLi4Tu"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
         "name": "Let's Do Rocksteady: The Story Of Rocksteady 1966-68",
         "url": "https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 163440,
       "name": "Intensified",
       "url": "https://open.spotify.com/track/34mK7IhVyT10qBzRv5IYSY"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
+        "name": "Total Reggae: Classic Roots",
+        "url": "https://open.spotify.com/album/1qscQwJU4kbGvTnyx0Vo30"
+      },
+      "artists": [
+        {
+          "name": "Fred Locks",
+          "url": "https://open.spotify.com/artist/0O9POrd5urnAgUSE9Piuth"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Vision Of Redemption",
+      "url": "https://open.spotify.com/track/208LH3OhnvwWjS5CYLi4Tu"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1060,13 +1060,13 @@
       },
       "artists": [
         {
-          "name": "The Kingstonians",
-          "url": "https://open.spotify.com/artist/2NzuDDwo53DigKbHuCZo7C"
+          "name": "Roy Shirley",
+          "url": "https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk"
         }
       ],
-      "duration_ms": 172933,
-      "name": "Winey Winey",
-      "url": "https://open.spotify.com/track/2UOdR8zPhwqpyMmMKMPzzN"
+      "duration_ms": 167533,
+      "name": "Hold Them",
+      "url": "https://open.spotify.com/track/2JHyRO7aEJH0UXOjZQ7m0r"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1076,13 +1076,13 @@
       },
       "artists": [
         {
-          "name": "Roy Shirley",
-          "url": "https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk"
+          "name": "The Kingstonians",
+          "url": "https://open.spotify.com/artist/2NzuDDwo53DigKbHuCZo7C"
         }
       ],
-      "duration_ms": 167533,
-      "name": "Hold Them",
-      "url": "https://open.spotify.com/track/2JHyRO7aEJH0UXOjZQ7m0r"
+      "duration_ms": 172933,
+      "name": "Winey Winey",
+      "url": "https://open.spotify.com/track/2UOdR8zPhwqpyMmMKMPzzN"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Police And Thieves",
+        "url": "https://open.spotify.com/album/6iLaRkExmcC6BvxqCk2BTt"
+      },
+      "artists": [
+        {
+          "name": "Junior Murvin",
+          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
+        }
+      ],
+      "duration_ms": 244306,
+      "name": "Police & Thieves",
+      "url": "https://open.spotify.com/track/3cnvTMZRhkbzea0KC4Y4We"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "The Harder They Come",
         "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
       },
@@ -1559,18 +1575,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
-        "name": "Police And Thieves",
-        "url": "https://open.spotify.com/album/6iLaRkExmcC6BvxqCk2BTt"
+        "name": "Ancient Future",
+        "url": "https://open.spotify.com/album/4tQRcn0RsWRJDkvuW1baYs"
       },
       "artists": [
         {
-          "name": "Junior Murvin",
-          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
+          "name": "Protoje",
+          "url": "https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr"
+        },
+        {
+          "name": "Chronixx",
+          "url": "https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP"
         }
       ],
-      "duration_ms": 244306,
-      "name": "Police & Thieves",
-      "url": "https://open.spotify.com/track/3cnvTMZRhkbzea0KC4Y4We"
+      "duration_ms": 208466,
+      "name": "Who Knows",
+      "url": "https://open.spotify.com/track/0HBEM5CMp4Yg3Ne7orJzBX"
     },
     {
       "added_at": "2024-01-29 05:18:16",
@@ -1591,6 +1611,22 @@
     {
       "added_at": "2024-01-29 05:18:16",
       "album": {
+        "name": "Super Reggae & Soul Hits",
+        "url": "https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP"
+      },
+      "artists": [
+        {
+          "name": "Dennis Brown",
+          "url": "https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F"
+        }
+      ],
+      "duration_ms": 175026,
+      "name": "Let Me Down Easy",
+      "url": "https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE"
+    },
+    {
+      "added_at": "2024-01-29 05:18:16",
+      "album": {
         "name": "Reggae Classics",
         "url": "https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP"
       },
@@ -1603,42 +1639,6 @@
       "duration_ms": 254453,
       "name": "Sunshine Reggae",
       "url": "https://open.spotify.com/track/3VXtRTAn8RyKM5qTa5Tazi"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "Burnin' (The Definitive Remasters)",
-        "url": "https://open.spotify.com/album/6axWF6fhMuB7pXAUONbGLE"
-      },
-      "artists": [
-        {
-          "name": "The Wailers",
-          "url": "https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE"
-        }
-      ],
-      "duration_ms": 281026,
-      "name": "I Shot The Sheriff",
-      "url": "https://open.spotify.com/track/7bnRX1ObyGzzSuOWrNFLWw"
-    },
-    {
-      "added_at": "2024-01-29 05:18:16",
-      "album": {
-        "name": "War Ina Babylon",
-        "url": "https://open.spotify.com/album/4Bw7hyzk37wBHptu4HglHV"
-      },
-      "artists": [
-        {
-          "name": "Max Romeo",
-          "url": "https://open.spotify.com/artist/45QpZznbXYo3nWy0TIhvgv"
-        },
-        {
-          "name": "The Upsetters",
-          "url": "https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Chase The Devil",
-      "url": "https://open.spotify.com/track/2kPQbvKYxJV2z5q2wNps7n"
     }
   ],
   "unique_name": "Reggae Classics",

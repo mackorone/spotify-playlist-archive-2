@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/30NUF2CthTzSBEYHmBjfER.md) - [plain]
 
 > The best Hip\-Hop and R&amp;B from the 2000s! Includes Eminem, Dr\. Dre, Jay\-Z, Lil Wayne, Snoop, Mary J Blige, and more! Join our mailing list   <a href="https://umusic.lnk.to/Spotify\_2000HipHopRB\_SignUp">here</a>   to hear first about exclusive vinyl drops &amp; all the best new music.
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 77,003 likes - 100 songs - 7 hr 2 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 76,993 likes - 100 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/30NUF2CthTzSBEYHmBjfER.md) - [plain]
 | 79 | [You](https://open.spotify.com/track/5Y77SQxEr1eiofPeUTPHxM) | [Lloyd](https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Street Love](https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO) | 4:33 |
 | 80 | [Move Ya Body](https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW) | [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [Jabba](https://open.spotify.com/artist/3cbRMYnjXAwJYNzxy291JY) | [Nina Sky](https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88) | 3:52 |
 | 81 | [Headsprung](https://open.spotify.com/track/1GIN41bLhiKeEPeC2vXH8i) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [THE DEFinition](https://open.spotify.com/album/3aI9HsN4um246qpCR8r7oW) | 4:27 |
-| 82 | [How High \- Remix](https://open.spotify.com/track/4FDbLUb5SDKy3rnRtS02q1) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [How High](https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY) | 3:59 |
+| 82 | [How High \- Remix](https://open.spotify.com/track/4FDbLUb5SDKy3rnRtS02q1) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [How High \- The Soundtrack](https://open.spotify.com/album/5mI0bDHNCoeebMRhjovNOY) | 3:59 |
 | 83 | [I'll Be Lovin' U Long Time \- Remix](https://open.spotify.com/track/44qnc3UovYNBfRi5nNF9Xm) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [I'll Be Lovin' U Long Time \- EP](https://open.spotify.com/album/4AEGEvVe01rcRYlUTcWavL) | 3:31 |
 | 84 | [Right Now \(Na Na Na\)](https://open.spotify.com/track/1ARJhjuI6TNYZCxYygFQ4F) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/7EZP6OSbWvMZTrEmlBt1HX) | 4:00 |
 | 85 | [Stand Up](https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Shawnna](https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga) | [Chicken \- N \- Beer](https://open.spotify.com/album/3hJHXxX04PNuGFIxdEHGzg) | 3:33 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,470 likes - 69 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,501 likes - 69 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 35 | [FATE](https://open.spotify.com/track/3kUVRvpDGq2PhKHGZBa7iE) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [FATE](https://open.spotify.com/album/5uDffHt21NhV6YavkmAp9p) | 3:08 |
 | 36 | [Ella Elle L'a](https://open.spotify.com/track/00wugEAK91BksOBu3BY6bk) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Kate Ryan](https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM) | [Ella Elle L'a](https://open.spotify.com/album/0Whb8AFL8wEhJrQLUutczd) | 2:35 |
 | 37 | [do you mean](https://open.spotify.com/track/1B53DeNc65P21qWyLyTPYT) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV) | [do you mean](https://open.spotify.com/album/3TeTa4brGktkMwP4Qtzwja) | 2:54 |
-| 38 | [What A Life \(feat\. Florence Arman\)](https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [What A Life](https://open.spotify.com/album/6Ad7E2sBgst9CrKF6kUZf2) | 3:09 |
+| 38 | [What A Life \(feat\. Florence Arman\)](https://open.spotify.com/track/5zX4JjkoT2pgvlWPnjgVNQ) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [What A Life \(feat\. Florence Arman\)](https://open.spotify.com/album/6Ad7E2sBgst9CrKF6kUZf2) | 3:09 |
 | 39 | [Rave \(PAROOKAVILLE Anthem 2026\)](https://open.spotify.com/track/1cRRRqlpF8yFANcY1q2jX3) | [Marten Hørger](https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls) | [Rave \(PAROOKAVILLE Anthem 2026\)](https://open.spotify.com/album/7aivdp2f8VWUPkarXpYCQp) | 2:30 |
 | 40 | [Peekaboo](https://open.spotify.com/track/6NmLGktuIilOR9jovDQPVI) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v) | [Peekaboo](https://open.spotify.com/album/2V5bDWnlXx1VCaRgAIgRPZ) | 2:08 |
 | 41 | [Another Story \- Fairytale Version](https://open.spotify.com/track/5qve5k4i2ZSFPyLnBvaT8O) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f) | [Another Story \(Fairytale Version\)](https://open.spotify.com/album/4Zz5MiGLxOcUcLvjQI82gO) | 3:34 |

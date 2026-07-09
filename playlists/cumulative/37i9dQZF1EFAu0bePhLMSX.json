@@ -2790,10 +2790,28 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 230346,
       "name": "Ritual",
       "url": "https://open.spotify.com/track/0jzeYeb1z29rtQ0BuOXN5T"
+    },
+    {
+      "album": {
+        "name": "Halcyon (Deluxe Version)",
+        "url": "https://open.spotify.com/album/0scBlfve8MI76EsbsYy089"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230436,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/519TwZw5Na7snb8JXLqfIY"
     },
     {
       "album": {

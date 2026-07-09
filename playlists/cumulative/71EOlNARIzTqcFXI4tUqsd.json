@@ -771,6 +771,24 @@
     },
     {
       "album": {
+        "name": "Mono No Aware",
+        "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
+      },
+      "artists": [
+        {
+          "name": "Martin Roth",
+          "url": "https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166057,
+      "name": "Just Sine Waves",
+      "url": "https://open.spotify.com/track/7J8NbJZXIbR3JLOUk5BITV"
+    },
+    {
+      "album": {
         "name": "J\u014dhatsu (\u84b8\u767a)",
         "url": "https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV"
       },
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 204023,
       "name": "Varkala",
       "url": "https://open.spotify.com/track/0KFjTOGE68i5iz0IMVKJR4"

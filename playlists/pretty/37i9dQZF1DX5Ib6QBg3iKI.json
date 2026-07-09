@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 145535,
+  "num_followers": 145529,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2025-12-22 16:18:07",
       "album": {
+        "name": "Last December (Mountain Music version)",
+        "url": "https://open.spotify.com/album/3iTxeyS0edd2PsD0hruWZi"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 335555,
+      "name": "Last December (Mountain Music version)",
+      "url": "https://open.spotify.com/track/0tdpnqesuLkETArM451kAP"
+    },
+    {
+      "added_at": "2025-12-22 16:18:07",
+      "album": {
         "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
         "url": "https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 215058,
       "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
       "url": "https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X"
-    },
-    {
-      "added_at": "2025-12-22 16:18:07",
-      "album": {
-        "name": "Last December (Mountain Music version)",
-        "url": "https://open.spotify.com/album/3iTxeyS0edd2PsD0hruWZi"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 335555,
-      "name": "Last December (Mountain Music version)",
-      "url": "https://open.spotify.com/track/0tdpnqesuLkETArM451kAP"
     },
     {
       "added_at": "2025-12-22 16:18:07",

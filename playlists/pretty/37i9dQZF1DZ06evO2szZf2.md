@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 > This is MC Dricka\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,349 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,350 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Medley Relíquia](https://open.spotify.com/track/6dy7GGUPNkJvEPXpiimodT) | [TOMAS](https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g), [DJ ADUTTZ](https://open.spotify.com/artist/3KsFAFpgbYhZGXSDEQ3HzB), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Medley Relíquia](https://open.spotify.com/album/0mI5xvTAAYiq8JpXLew8pr) | 3:00 |
+| 1 | [Medley Relíquia](https://open.spotify.com/track/6dy7GGUPNkJvEPXpiimodT) | [TOMAS](https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ ADUTTZ](https://open.spotify.com/artist/3KsFAFpgbYhZGXSDEQ3HzB) | [Medley Relíquia](https://open.spotify.com/album/0mI5xvTAAYiq8JpXLew8pr) | 3:00 |
 | 2 | [Vou Raspar Seu Bigodin](https://open.spotify.com/track/6dBNHXIJLpsgPlLroF4tf1) | [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [DJ S2K](https://open.spotify.com/artist/0TXO7KlBZ3P4XMNnVrghEX) | [Vou Raspar Seu Bigodin](https://open.spotify.com/album/2ZcCYXE80W6jZSkgricqPW) | 1:44 |
 | 3 | [Thistle](https://open.spotify.com/track/7ipmIWVARgxxwcXZxzRYUX) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Randomer](https://open.spotify.com/artist/7K0WJzyqUNRhraNcsvJp1h), [Blawan](https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [SOMA](https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv) | 3:55 |
 | 4 | [Medley Canoa \- Putaria no Escuro / Menina do Job / Escada do Prédio / Mal Caminho / Pede Que eu Te Dou](https://open.spotify.com/track/3J9pByZf567U83gNmzDfD1) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc J Mito](https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB), [MC Xangai](https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [MC Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Medley Canoa \- Putaria no Escuro / Menina do Job / Escada do Prédio / Mal Caminho / Pede Que eu Te Dou](https://open.spotify.com/album/7gYPTOcgOCGrtl2t4mkwIs) | 6:07 |

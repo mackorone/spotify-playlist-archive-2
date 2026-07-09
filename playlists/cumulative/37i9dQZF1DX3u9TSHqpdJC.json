@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.   Cover: Ella Maddux. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.   Cover: Abbie Gordon. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -14158,7 +14158,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 222000,
       "name": "Coasting",
       "url": "https://open.spotify.com/track/1ztynIETfhukvEjGei77ve"
@@ -21638,7 +21638,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 151156,
       "name": "Emotional Currency",
       "url": "https://open.spotify.com/track/0tyRICvWUxwCKIiZePcGay"
@@ -21840,6 +21840,24 @@
       "duration_ms": 185755,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/7A1mRErmTJuuMF7RhLfTVZ"
+    },
+    {
+      "album": {
+        "name": "Endless Sundays",
+        "url": "https://open.spotify.com/album/346P9Ra44b9k0doRdKzwks"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248281,
+      "name": "Endless Sundays",
+      "url": "https://open.spotify.com/track/6r91l350cidymaEMcKceGc"
     },
     {
       "album": {
@@ -28541,6 +28559,24 @@
     },
     {
       "album": {
+        "name": "Samaerica (Deluxe)",
+        "url": "https://open.spotify.com/album/2Dh1ad4DSaHRSPHgiG4l3j"
+      },
+      "artists": [
+        {
+          "name": "Samaera",
+          "url": "https://open.spotify.com/artist/74FCyRCyjTCpKEzoxNoTyG"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136193,
+      "name": "Good Company",
+      "url": "https://open.spotify.com/track/2LTRIUYab9pf6wGtX1We3h"
+    },
+    {
+      "album": {
         "name": "Good Day",
         "url": "https://open.spotify.com/album/3vXJjQ3Hf8EfimMpfKg47l"
       },
@@ -32226,7 +32262,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 183750,
       "name": "Hold Me Tight",
       "url": "https://open.spotify.com/track/5oagQqDw8pe0dl9QzspkyN"
@@ -34874,6 +34910,24 @@
       "duration_ms": 158100,
       "name": "I Don't Need My Space",
       "url": "https://open.spotify.com/track/4sUcPrZUv1vh9ilmzErbvW"
+    },
+    {
+      "album": {
+        "name": "haunted by the outside",
+        "url": "https://open.spotify.com/album/0jnFNtRWz9o2BcakSFaTHa"
+      },
+      "artists": [
+        {
+          "name": "EMiDORA",
+          "url": "https://open.spotify.com/artist/5Mb5GPa24CnwCRYjETldQn"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176142,
+      "name": "i don't really know what i wanted",
+      "url": "https://open.spotify.com/track/49Ct1mPN4evMO3bjmOfv61"
     },
     {
       "album": {
@@ -38268,7 +38322,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 151966,
       "name": "In Your Head",
       "url": "https://open.spotify.com/track/2xceOgYP6jcQ4aci4J17Jw"
@@ -46117,6 +46171,24 @@
     },
     {
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/3TWDRBwvDaMP4sQcPNrJQ7"
+      },
+      "artists": [
+        {
+          "name": "D'Leesa",
+          "url": "https://open.spotify.com/artist/0G1rpAGzZYHuIf8X0VFF2a"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213993,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/2dD0TQWTHOA7CArgLCFM60"
+    },
+    {
+      "album": {
         "name": "Magic Hour",
         "url": "https://open.spotify.com/album/5He66YOSiS2LjcByomz4Mk"
       },
@@ -47826,7 +47898,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 252019,
       "name": "Midnight Blue",
       "url": "https://open.spotify.com/track/2e1cxDtd6Pm31HcbRAcwgy"
@@ -50944,6 +51016,24 @@
       "duration_ms": 166784,
       "name": "New York",
       "url": "https://open.spotify.com/track/0hYdZ4x8b3bEbc9Bpn2pQh"
+    },
+    {
+      "album": {
+        "name": "To Feel Is To Be",
+        "url": "https://open.spotify.com/album/7IY7etBVPeZ59kzGJZszWX"
+      },
+      "artists": [
+        {
+          "name": "Bee Bran",
+          "url": "https://open.spotify.com/artist/2JwcISksi9jHUtnesLpQWQ"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Newborn",
+      "url": "https://open.spotify.com/track/3th0jbVno6NuaUCIvKMzQu"
     },
     {
       "album": {
@@ -59578,7 +59668,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 178381,
       "name": "Red Siren Pick Up",
       "url": "https://open.spotify.com/track/4Y4BpyeLGe2UIYK9mEJRHW"
@@ -64173,6 +64263,24 @@
     },
     {
       "album": {
+        "name": "Sidekick",
+        "url": "https://open.spotify.com/album/2ZjO30TBy2hCRoFdZj2gUv"
+      },
+      "artists": [
+        {
+          "name": "Morgana",
+          "url": "https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197176,
+      "name": "Sidekick",
+      "url": "https://open.spotify.com/track/2dnkypL7uPTydT483Ptaoj"
+    },
+    {
+      "album": {
         "name": "Sidelines",
         "url": "https://open.spotify.com/album/1E1ZtxOU3SC4mvhiDYMDfd"
       },
@@ -64426,7 +64534,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 187042,
       "name": "Simon Says",
       "url": "https://open.spotify.com/track/1ndEqtyQagzN7mjA7W66CH"
@@ -66096,6 +66204,24 @@
       "duration_ms": 189994,
       "name": "Something's Wrong",
       "url": "https://open.spotify.com/track/7Hbqd3hh4qoKAfZNgGpLg6"
+    },
+    {
+      "album": {
+        "name": "somethingsdontsitright",
+        "url": "https://open.spotify.com/album/7FKz4ailQLLQiVxvzmV7K4"
+      },
+      "artists": [
+        {
+          "name": "KENNEDY",
+          "url": "https://open.spotify.com/artist/5K7mrmnGRjR2Yf4UQnyi6R"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173181,
+      "name": "somethingsdontsitright",
+      "url": "https://open.spotify.com/track/3MeTIpzDrpFwfj5gDWINrQ"
     },
     {
       "album": {
@@ -72635,6 +72761,24 @@
     },
     {
       "album": {
+        "name": "The Pavement",
+        "url": "https://open.spotify.com/album/7ccdqbOO6BGC2p76PFODaZ"
+      },
+      "artists": [
+        {
+          "name": "Abbie Gordon",
+          "url": "https://open.spotify.com/artist/7IgI8F0xewLUxs1oNRVlFy"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184720,
+      "name": "The Pavement",
+      "url": "https://open.spotify.com/track/6V30H2ExMpKrJ3eMJ7QByY"
+    },
+    {
+      "album": {
         "name": "the pill",
         "url": "https://open.spotify.com/album/3iknNo78oRF22F04FjwWl3"
       },
@@ -78982,7 +79126,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 213407,
       "name": "What A Bummer!",
       "url": "https://open.spotify.com/track/4Lbmuaiif77RwGlLN4YSwp"

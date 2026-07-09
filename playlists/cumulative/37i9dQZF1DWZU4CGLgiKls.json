@@ -118,7 +118,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 132044,
       "name": "Argentino yo soy",
       "url": "https://open.spotify.com/track/7KtIu5XQnhlBYE3nQWDeXs"
@@ -388,7 +388,7 @@
       ],
       "date_added": "2025-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 213453,
       "name": "De M\u00fasica Ligera",
       "url": "https://open.spotify.com/track/4it4NYn9wNqGV54joA6oN0"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 131207,
       "name": "El Sue\u00f1o del Pibe",
       "url": "https://open.spotify.com/track/4a6NvfUWBymlgijlRnQgY5"
@@ -930,7 +930,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 200197,
       "name": "Haw\u00e1i",
       "url": "https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG"
@@ -1068,6 +1068,24 @@
       "duration_ms": 166145,
       "name": "La Cuarta Estrella",
       "url": "https://open.spotify.com/track/2isognTzyURyPXeHPbRhVi"
+    },
+    {
+      "album": {
+        "name": "Cumbia Villera",
+        "url": "https://open.spotify.com/album/42K3CKzIBfuN9YnIZgLzmd"
+      },
+      "artists": [
+        {
+          "name": "Yerba Brava",
+          "url": "https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251146,
+      "name": "La Cumbia De Los Trapos",
+      "url": "https://open.spotify.com/track/79yOF3p0RbIAnrxxF8wiPS"
     },
     {
       "album": {
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 197120,
       "name": "Matador",
       "url": "https://open.spotify.com/track/1eja543nD45Vym3ZGao2NO"
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 237658,
       "name": "TIERRA ZANTA",
       "url": "https://open.spotify.com/track/73zQG7t3tZDyePEflVSqJJ"
@@ -2552,11 +2570,15 @@
         {
           "name": "De La Ghetto",
           "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Yamir Enrique Chartuni Castro",
+          "url": "https://open.spotify.com/artist/2wmsY7VpYnOcoqnWFvxv8r"
         }
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-12",
+      "date_removed": null,
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"

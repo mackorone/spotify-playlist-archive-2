@@ -3533,6 +3533,24 @@
     },
     {
       "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/4o0dKj5YGNJX3NmM8SPY1g"
+      },
+      "artists": [
+        {
+          "name": "Darius Zaltash",
+          "url": "https://open.spotify.com/artist/6nL6fYu8ysN6yayyT24xgo"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215625,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/1mAJOvqasn4SzRgqvdmF52"
+    },
+    {
+      "album": {
         "name": "Glory Box",
         "url": "https://open.spotify.com/album/0DGdhDeY6oBFQY4uWOWVjB"
       },
@@ -8000,6 +8018,24 @@
       "duration_ms": 197706,
       "name": "Stockholm Syndrome",
       "url": "https://open.spotify.com/track/7AnnurFLjLNAhOqyI5KSHR"
+    },
+    {
+      "album": {
+        "name": "Stolen Youth",
+        "url": "https://open.spotify.com/album/60sXsHPRz2Muij3B3NXeee"
+      },
+      "artists": [
+        {
+          "name": "Jack Dahlqvist",
+          "url": "https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Stolen Youth",
+      "url": "https://open.spotify.com/track/5L1ZtnPyztBReHpcSDhynz"
     },
     {
       "album": {

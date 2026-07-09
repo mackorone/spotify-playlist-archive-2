@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Margo Price",
-  "num_followers": 237783,
+  "num_followers": 237810,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-07-03 04:01:03",
       "album": {
-        "name": "I Am Shelby Lynne (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/73PlmZa9hwjzFEmQgy0WLi"
-      },
-      "artists": [
-        {
-          "name": "Shelby Lynne",
-          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Gotta Get Back",
-      "url": "https://open.spotify.com/track/0nRjKEtUgbkooWRkMX0fCL"
-    },
-    {
-      "added_at": "2026-07-03 04:01:03",
-      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -899,6 +883,22 @@
     {
       "added_at": "2026-07-03 04:01:03",
       "album": {
+        "name": "I Am Shelby Lynne (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/73PlmZa9hwjzFEmQgy0WLi"
+      },
+      "artists": [
+        {
+          "name": "Shelby Lynne",
+          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Gotta Get Back",
+      "url": "https://open.spotify.com/track/0nRjKEtUgbkooWRkMX0fCL"
+    },
+    {
+      "added_at": "2026-07-03 04:01:03",
+      "album": {
         "name": "Paint This Town",
         "url": "https://open.spotify.com/album/5K3qVf67xePI7R4g3jJ5gw"
       },
@@ -911,22 +911,6 @@
       "duration_ms": 237826,
       "name": "Paint This Town",
       "url": "https://open.spotify.com/track/0gdM5F5lfan6F7gPffEYwJ"
-    },
-    {
-      "added_at": "2026-07-03 04:01:03",
-      "album": {
-        "name": "Finest Feelings",
-        "url": "https://open.spotify.com/album/2Haps8I9TS4dZin1HI902L"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 205348,
-      "name": "Finest Feelings",
-      "url": "https://open.spotify.com/track/4gnIjWjbc9WK5KNlFJf3J0"
     },
     {
       "added_at": "2026-07-03 04:01:03",
@@ -951,6 +935,22 @@
       "duration_ms": 373266,
       "name": "You Are My Sunshine (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS"
+    },
+    {
+      "added_at": "2026-07-03 04:01:03",
+      "album": {
+        "name": "Finest Feelings",
+        "url": "https://open.spotify.com/album/2Haps8I9TS4dZin1HI902L"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 205348,
+      "name": "Finest Feelings",
+      "url": "https://open.spotify.com/track/4gnIjWjbc9WK5KNlFJf3J0"
     },
     {
       "added_at": "2026-07-03 04:01:03",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2026-07-03 04:01:03",
       "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 329746,
+      "name": "Time After Time - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
+    },
+    {
+      "added_at": "2026-07-03 04:01:03",
+      "album": {
         "name": "Wynonna & The Big Noise",
         "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 220653,
       "name": "Things That I Lean On",
       "url": "https://open.spotify.com/track/16D7vwG8vCEWferlmVZbEP"
-    },
-    {
-      "added_at": "2026-07-03 04:01:03",
-      "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 329746,
-      "name": "Time After Time - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
     },
     {
       "added_at": "2026-07-03 04:01:03",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-07-03 04:01:03",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
-      },
-      "artists": [
-        {
-          "name": "John Fullbright",
-          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "When You're Here",
-      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
-    },
-    {
-      "added_at": "2026-07-03 04:01:03",
-      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ"
       },
@@ -1223,22 +1207,18 @@
     {
       "added_at": "2026-07-03 04:01:03",
       "album": {
-        "name": "Django and Jimmie",
-        "url": "https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG"
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "John Fullbright",
+          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
         }
       ],
-      "duration_ms": 172733,
-      "name": "Django and Jimmie",
-      "url": "https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq"
+      "duration_ms": 222626,
+      "name": "When You're Here",
+      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
     },
     {
       "added_at": "2026-07-03 04:01:03",
@@ -1255,6 +1235,26 @@
       "duration_ms": 284253,
       "name": "Everything's Gonna Be Alright",
       "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
+    },
+    {
+      "added_at": "2026-07-03 04:01:03",
+      "album": {
+        "name": "Django and Jimmie",
+        "url": "https://open.spotify.com/album/14wK1ZVbsCudEDvUH3tItG"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "Django and Jimmie",
+      "url": "https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq"
     },
     {
       "added_at": "2026-07-03 04:01:03",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2026-07-03 04:01:03",
       "album": {
+        "name": "Soul Journey",
+        "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 256026,
+      "name": "Look At Miss Ohio",
+      "url": "https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS"
+    },
+    {
+      "added_at": "2026-07-03 04:01:03",
+      "album": {
         "name": "Nightshift",
         "url": "https://open.spotify.com/album/5H9p3AIho3KHIrvr8EbKIc"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 185133,
       "name": "The Galway Girl",
       "url": "https://open.spotify.com/track/0gUzbeEtJLUzmNwHwREjrF"
-    },
-    {
-      "added_at": "2026-07-03 04:01:03",
-      "album": {
-        "name": "Soul Journey",
-        "url": "https://open.spotify.com/album/75NIWZjBwsF7MyfbG8JPwr"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 256026,
-      "name": "Look At Miss Ohio",
-      "url": "https://open.spotify.com/track/5vPRCX0Bj8O374jTCAQRLS"
     },
     {
       "added_at": "2026-07-03 04:01:03",
@@ -2075,22 +2075,18 @@
     {
       "added_at": "2026-07-03 04:01:03",
       "album": {
-        "name": "Can\u2019t Let Go",
-        "url": "https://open.spotify.com/album/5cCTUwnFwgHlb0ZmMqxmbd"
+        "name": "Our Song",
+        "url": "https://open.spotify.com/album/3XcemsGz7Y0O421EYravdZ"
       },
       "artists": [
         {
-          "name": "Robert Plant",
-          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
-        },
-        {
-          "name": "Alison Krauss",
-          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 221440,
-      "name": "Can\u2019t Let Go",
-      "url": "https://open.spotify.com/track/5JktApbmtMr5cCbOoENhrK"
+      "duration_ms": 231080,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/3pSJ9aOT4w7ZQTJaSNSA5w"
     },
     {
       "added_at": "2026-07-03 04:01:03",
@@ -2115,6 +2111,26 @@
     {
       "added_at": "2026-07-03 04:01:03",
       "album": {
+        "name": "Can\u2019t Let Go",
+        "url": "https://open.spotify.com/album/5cCTUwnFwgHlb0ZmMqxmbd"
+      },
+      "artists": [
+        {
+          "name": "Robert Plant",
+          "url": "https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y"
+        },
+        {
+          "name": "Alison Krauss",
+          "url": "https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG"
+        }
+      ],
+      "duration_ms": 221440,
+      "name": "Can\u2019t Let Go",
+      "url": "https://open.spotify.com/track/5JktApbmtMr5cCbOoENhrK"
+    },
+    {
+      "added_at": "2026-07-03 04:01:03",
+      "album": {
         "name": "Leftover Feelings",
         "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
       },
@@ -2135,22 +2151,6 @@
     {
       "added_at": "2026-07-03 04:01:03",
       "album": {
-        "name": "Strangers Almanac [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/1LdMwGDQsjsAXRrslK5TLX"
-      },
-      "artists": [
-        {
-          "name": "Whiskeytown",
-          "url": "https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem"
-        }
-      ],
-      "duration_ms": 234213,
-      "name": "16 Days",
-      "url": "https://open.spotify.com/track/49FGDCURPhI4VGn3Y7bmLT"
-    },
-    {
-      "added_at": "2026-07-03 04:01:03",
-      "album": {
         "name": "The Harrow & The Harvest",
         "url": "https://open.spotify.com/album/5uz9hkZeN7l5KHtmMDqgR0"
       },
@@ -2163,6 +2163,22 @@
       "duration_ms": 241957,
       "name": "The Way It Goes",
       "url": "https://open.spotify.com/track/6jx8L9ng94zKcw4xbbQFjC"
+    },
+    {
+      "added_at": "2026-07-03 04:01:03",
+      "album": {
+        "name": "Strangers Almanac [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/1LdMwGDQsjsAXRrslK5TLX"
+      },
+      "artists": [
+        {
+          "name": "Whiskeytown",
+          "url": "https://open.spotify.com/artist/0tyLMmQvEuyQR4qjGBdbem"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "16 Days",
+      "url": "https://open.spotify.com/track/49FGDCURPhI4VGn3Y7bmLT"
     },
     {
       "added_at": "2026-07-03 04:01:03",
@@ -2275,22 +2291,6 @@
       "duration_ms": 296573,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/72HpDain84PJB4H6JuQ7sy"
-    },
-    {
-      "added_at": "2026-07-03 04:01:03",
-      "album": {
-        "name": "Angel Flying Too Close to the Ground (Live at Budokan, Tokyo, Japan - Feb. 23, 1984)",
-        "url": "https://open.spotify.com/album/1O4zM6MElfZzvm3C3zIFvq"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "Angel Flying Too Close to the Ground - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
-      "url": "https://open.spotify.com/track/0nyJppAEiqe7LHRjhkQroH"
     },
     {
       "added_at": "2026-07-03 04:01:03",
@@ -2663,6 +2663,22 @@
     {
       "added_at": "2026-07-03 04:01:03",
       "album": {
+        "name": "Angel Flying Too Close to the Ground (Live at Budokan, Tokyo, Japan - Feb. 23, 1984)",
+        "url": "https://open.spotify.com/album/1O4zM6MElfZzvm3C3zIFvq"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "Angel Flying Too Close to the Ground - Live at Budokan, Tokyo, Japan - Feb. 23, 1984",
+      "url": "https://open.spotify.com/track/0nyJppAEiqe7LHRjhkQroH"
+    },
+    {
+      "added_at": "2026-07-03 04:01:03",
+      "album": {
         "name": "Color of the Blues (feat. Susan Tedeschi)",
         "url": "https://open.spotify.com/album/0nlgiEuFFxXlc5vlDL3gr0"
       },
@@ -2679,22 +2695,6 @@
       "duration_ms": 174626,
       "name": "Color of the Blues (feat. Susan Tedeschi)",
       "url": "https://open.spotify.com/track/3PD8oSUFfmtPTz7Xm5uTN4"
-    },
-    {
-      "added_at": "2026-07-03 04:01:03",
-      "album": {
-        "name": "Shaky Ground",
-        "url": "https://open.spotify.com/album/489nHVMeojoG3Tc3YVSFUq"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Holcombe",
-          "url": "https://open.spotify.com/artist/32ywq93L2q60xzB5kwCvcZ"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "Shaky Ground",
-      "url": "https://open.spotify.com/track/5KW5uUDK6N1gFag7jHCTno"
     }
   ],
   "unique_name": "Americana Icons",

@@ -413,6 +413,28 @@
     },
     {
       "album": {
+        "name": "Be My",
+        "url": "https://open.spotify.com/album/3tNlHGHKxgbvMsg440Nnov"
+      },
+      "artists": [
+        {
+          "name": "RIP Swirl",
+          "url": "https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V"
+        },
+        {
+          "name": "Mother Soki",
+          "url": "https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184586,
+      "name": "Be My",
+      "url": "https://open.spotify.com/track/0R224dzbGFzYy4bQgnO19J"
+    },
+    {
+      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/7fWswbqrYkq5epwUQAJtFU"
       },

@@ -4297,6 +4297,28 @@
     },
     {
       "album": {
+        "name": "El Pat\u00e1n",
+        "url": "https://open.spotify.com/album/2jldDs7MN0jmmt0LM5gmWj"
+      },
+      "artists": [
+        {
+          "name": "Luigi 21 Plus",
+          "url": "https://open.spotify.com/artist/77GVmrLGuxNEvj2ibvT62v"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218040,
+      "name": "Los Favoritos",
+      "url": "https://open.spotify.com/track/0ZhD6VjvIk1RIklMynYUPt"
+    },
+    {
+      "album": {
         "name": "Alex G\u00e1rgolas Presenta: Las G\u00e1rgolas,Vol.4",
         "url": "https://open.spotify.com/album/5pB29lSqQXirGEdMfJhtWH"
       },
@@ -9502,7 +9524,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 199367,
       "name": "Yo No Soy Tu Marido",
       "url": "https://open.spotify.com/track/10bbgurV9w05vJVGAX9jYq"

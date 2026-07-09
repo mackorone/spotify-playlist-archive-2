@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,135 likes - 116 songs - 7 hr 10 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,141 likes - 118 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,5 +124,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 114 | [Every Time I Look At You](https://open.spotify.com/track/1iOynYeos1FxRg826Amytc) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [Every Time I Look At You](https://open.spotify.com/album/5B6nQwn021EAFMgZpcWfNy) | 4:20 |
 | 115 | [Daydream](https://open.spotify.com/track/6EnM2pjd6pfZyWHW8YSUb6) | [Dimestore Freud](https://open.spotify.com/artist/1B7AZ6JiZQr6bflYaBD2g6) | [It's a Bit Fuzzy](https://open.spotify.com/album/2wpFHMzqhqjCKXtCCenuq4) | 4:05 |
 | 116 | [Dale Hodges Park](https://open.spotify.com/track/3VzzN4kUiTfZvfemrHAADM) | [Kirsten McCormick](https://open.spotify.com/artist/5aVcXf0H7xVRjipXnldgi8) | [Dale Hodges Park](https://open.spotify.com/album/0qqQff2wJfCNI9PdxhIdL1) | 3:27 |
+| 117 | [Stolen Youth](https://open.spotify.com/track/5L1ZtnPyztBReHpcSDhynz) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Stolen Youth](https://open.spotify.com/album/60sXsHPRz2Muij3B3NXeee) | 3:36 |
+| 118 | [Glorious](https://open.spotify.com/track/1mAJOvqasn4SzRgqvdmF52) | [Darius Zaltash](https://open.spotify.com/artist/6nL6fYu8ysN6yayyT24xgo) | [Glorious](https://open.spotify.com/album/4o0dKj5YGNJX3NmM8SPY1g) | 3:35 |
 
-Snapshot ID: `AAAGmVb44rdAvVRuis453Kxg6NDrTB20`
+Snapshot ID: `AAAGm5Zf5fMwAR6bfuvSEzR/zd1kreS0`

@@ -1,6 +1,6 @@
 {
   "description": "Life sucks...i need some rock!",
-  "num_followers": 303458,
+  "num_followers": 303465,
   "original_name": "Anger Management",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Shot In The Dark",
-        "url": "https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 185131,
-      "name": "Shot In The Dark",
-      "url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Queens of the Stone Age",
         "url": "https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 205320,
       "name": "Avon",
       "url": "https://open.spotify.com/track/5xWSuhvOJUaO3zrXYxsSAS"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Shot In The Dark",
+        "url": "https://open.spotify.com/album/1Rz3Q2PIhrCs21itNShUxB"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 185131,
+      "name": "Shot In The Dark",
+      "url": "https://open.spotify.com/track/6ZtrGCcn38kGImt2GPFbJB"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
+        "name": "Sitting Confused",
+        "url": "https://open.spotify.com/album/3TmTuVp63IEJ8hNBiaAm8e"
+      },
+      "artists": [
+        {
+          "name": "Flowers For Emily",
+          "url": "https://open.spotify.com/artist/0VhdOT93Owd0K2RhpaqJk5"
+        }
+      ],
+      "duration_ms": 165569,
+      "name": "Sitting Confused",
+      "url": "https://open.spotify.com/track/0dwcnVpM3DbSWlW11P8wzG"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
         "name": "Emotion Sickness",
         "url": "https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 271076,
       "name": "Emotion Sickness",
       "url": "https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
-        "name": "Pedals",
-        "url": "https://open.spotify.com/album/65PIGYDdfNMbFwOBqUA7jO"
-      },
-      "artists": [
-        {
-          "name": "Rival Schools",
-          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "Wring It Out",
-      "url": "https://open.spotify.com/track/0JCeVdVxPFsLrVj0En0R1D"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Sitting Confused",
-        "url": "https://open.spotify.com/album/3TmTuVp63IEJ8hNBiaAm8e"
+        "name": "Pedals",
+        "url": "https://open.spotify.com/album/65PIGYDdfNMbFwOBqUA7jO"
       },
       "artists": [
         {
-          "name": "Flowers For Emily",
-          "url": "https://open.spotify.com/artist/0VhdOT93Owd0K2RhpaqJk5"
+          "name": "Rival Schools",
+          "url": "https://open.spotify.com/artist/558fch9H4BrW99aTfvtYrz"
         }
       ],
-      "duration_ms": 165569,
-      "name": "Sitting Confused",
-      "url": "https://open.spotify.com/track/0dwcnVpM3DbSWlW11P8wzG"
+      "duration_ms": 209000,
+      "name": "Wring It Out",
+      "url": "https://open.spotify.com/track/0JCeVdVxPFsLrVj0En0R1D"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Two Toned // She Said",
-        "url": "https://open.spotify.com/album/6xCghRBBBbiEMXT9oKcn1B"
-      },
-      "artists": [
-        {
-          "name": "Deadshowws",
-          "url": "https://open.spotify.com/artist/7EuesNfKdlNP6q9kXLGLbU"
-        }
-      ],
-      "duration_ms": 226889,
-      "name": "Two Toned",
-      "url": "https://open.spotify.com/track/7lwEWa57lSCwNhc0ezPhDu"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Money (Hope Ain\u2019t Gone)",
         "url": "https://open.spotify.com/album/5S7XyZNwnnskgC2tFnm4dA"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 246139,
       "name": "Money (Hope Ain\u2019t Gone)",
       "url": "https://open.spotify.com/track/2gZBIM1qpCq5XlO0X3tjIs"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Two Toned // She Said",
+        "url": "https://open.spotify.com/album/6xCghRBBBbiEMXT9oKcn1B"
+      },
+      "artists": [
+        {
+          "name": "Deadshowws",
+          "url": "https://open.spotify.com/artist/7EuesNfKdlNP6q9kXLGLbU"
+        }
+      ],
+      "duration_ms": 226889,
+      "name": "Two Toned",
+      "url": "https://open.spotify.com/track/7lwEWa57lSCwNhc0ezPhDu"
     },
     {
       "added_at": "2024-12-03 09:27:47",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-12-03 09:27:47",
       "album": {
-        "name": "Bang Bang",
-        "url": "https://open.spotify.com/album/3dVeApQdGALyhPsRcAoC1s"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 172867,
-      "name": "Bang Bang",
-      "url": "https://open.spotify.com/track/2qmX2TUphBTmXVHx8nbURD"
-    },
-    {
-      "added_at": "2024-12-03 09:27:47",
-      "album": {
         "name": "Hole",
         "url": "https://open.spotify.com/album/60mPQihGw1E84gfBo52vON"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 224838,
       "name": "Hole",
       "url": "https://open.spotify.com/track/6mJ1nbmQOm6iNClo71K5O6"
+    },
+    {
+      "added_at": "2024-12-03 09:27:47",
+      "album": {
+        "name": "Bang Bang",
+        "url": "https://open.spotify.com/album/3dVeApQdGALyhPsRcAoC1s"
+      },
+      "artists": [
+        {
+          "name": "Momma",
+          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
+        }
+      ],
+      "duration_ms": 172867,
+      "name": "Bang Bang",
+      "url": "https://open.spotify.com/track/2qmX2TUphBTmXVHx8nbURD"
     },
     {
       "added_at": "2024-12-03 09:27:47",

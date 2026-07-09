@@ -1,6 +1,6 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo",
-  "num_followers": 484104,
+  "num_followers": 484110,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
@@ -83,18 +83,22 @@
     {
       "added_at": "2026-07-03 14:11:47",
       "album": {
-        "name": "Um Novo Horizonte, Vol. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1d0b7XYovD1YiOeRxYpi8q"
+        "name": "Ca\u00ed Na Sua L\u00e1bia",
+        "url": "https://open.spotify.com/album/3JdvqjqeCJNs5nF3zq5Xt2"
       },
       "artists": [
         {
-          "name": "Bia Bosco",
-          "url": "https://open.spotify.com/artist/5Wc1XC9J5T1vCw8NsUt2OK"
+          "name": "Evandro Jr.",
+          "url": "https://open.spotify.com/artist/7dgev01uAFXg3mU5tVeDM7"
+        },
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
         }
       ],
-      "duration_ms": 196994,
-      "name": "Casquinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ckk9S24edg9VDFwZPT1AJ"
+      "duration_ms": 162000,
+      "name": "Ca\u00ed Na Sua L\u00e1bia",
+      "url": "https://open.spotify.com/track/1rKIYDHKRzf3B0sqxVMkCI"
     },
     {
       "added_at": "2026-07-03 14:11:47",
@@ -111,6 +115,22 @@
       "duration_ms": 150666,
       "name": "Sofrimento Louco",
       "url": "https://open.spotify.com/track/6wknzfCeTkovFsYIdfMMVU"
+    },
+    {
+      "added_at": "2026-07-03 14:11:47",
+      "album": {
+        "name": "Um Novo Horizonte, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1d0b7XYovD1YiOeRxYpi8q"
+      },
+      "artists": [
+        {
+          "name": "Bia Bosco",
+          "url": "https://open.spotify.com/artist/5Wc1XC9J5T1vCw8NsUt2OK"
+        }
+      ],
+      "duration_ms": 196994,
+      "name": "Casquinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ckk9S24edg9VDFwZPT1AJ"
     },
     {
       "added_at": "2026-07-03 14:11:47",
@@ -175,22 +195,22 @@
     {
       "added_at": "2026-07-03 14:11:47",
       "album": {
-        "name": "Ca\u00ed Na Sua L\u00e1bia",
-        "url": "https://open.spotify.com/album/3JdvqjqeCJNs5nF3zq5Xt2"
+        "name": "Perdid\u00e3o",
+        "url": "https://open.spotify.com/album/4iHT5kTIal0HSj7D00u1nR"
       },
       "artists": [
         {
-          "name": "Evandro Jr.",
-          "url": "https://open.spotify.com/artist/7dgev01uAFXg3mU5tVeDM7"
+          "name": "Guilherme e Alessandro",
+          "url": "https://open.spotify.com/artist/6WiDwiopZPo2Fb5QgZiIC2"
         },
         {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+          "name": "Jo\u00e3o Gustavo e Murilo",
+          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Ca\u00ed Na Sua L\u00e1bia",
-      "url": "https://open.spotify.com/track/1rKIYDHKRzf3B0sqxVMkCI"
+      "duration_ms": 150396,
+      "name": "Perdid\u00e3o",
+      "url": "https://open.spotify.com/track/5SPXRFQaHlegG0Cqlitxax"
     },
     {
       "added_at": "2026-07-03 14:11:47",
@@ -215,42 +235,6 @@
     {
       "added_at": "2026-07-03 14:11:47",
       "album": {
-        "name": "Perdid\u00e3o",
-        "url": "https://open.spotify.com/album/4iHT5kTIal0HSj7D00u1nR"
-      },
-      "artists": [
-        {
-          "name": "Guilherme e Alessandro",
-          "url": "https://open.spotify.com/artist/6WiDwiopZPo2Fb5QgZiIC2"
-        },
-        {
-          "name": "Jo\u00e3o Gustavo e Murilo",
-          "url": "https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl"
-        }
-      ],
-      "duration_ms": 150396,
-      "name": "Perdid\u00e3o",
-      "url": "https://open.spotify.com/track/5SPXRFQaHlegG0Cqlitxax"
-    },
-    {
-      "added_at": "2026-07-03 14:11:47",
-      "album": {
-        "name": "Dois Tipos de Gente (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/2novUiRmG54NHsEmTumUBL"
-      },
-      "artists": [
-        {
-          "name": "Thainara e Thatiane",
-          "url": "https://open.spotify.com/artist/0zbqv1rXBlxjfA0nkTvIN8"
-        }
-      ],
-      "duration_ms": 148750,
-      "name": "Dois Tipos de Gente (Ao Vivo em S\u00e3o Paulo)",
-      "url": "https://open.spotify.com/track/1abnsyQr0I5v6uZWw6YWlz"
-    },
-    {
-      "added_at": "2026-07-03 14:11:47",
-      "album": {
         "name": "Nem Tira A Roupa (Ao Vivo)",
         "url": "https://open.spotify.com/album/78OXXfPFaQRNyBC24lsPN8"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 149026,
       "name": "Nem Tira A Roupa - Ao Vivo",
       "url": "https://open.spotify.com/track/12l2QeF4w8eNy6rwNvLsjH"
+    },
+    {
+      "added_at": "2026-07-03 14:11:47",
+      "album": {
+        "name": "Dois Tipos de Gente (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2novUiRmG54NHsEmTumUBL"
+      },
+      "artists": [
+        {
+          "name": "Thainara e Thatiane",
+          "url": "https://open.spotify.com/artist/0zbqv1rXBlxjfA0nkTvIN8"
+        }
+      ],
+      "duration_ms": 148750,
+      "name": "Dois Tipos de Gente (Ao Vivo em S\u00e3o Paulo)",
+      "url": "https://open.spotify.com/track/1abnsyQr0I5v6uZWw6YWlz"
     },
     {
       "added_at": "2026-07-03 14:11:47",
@@ -463,6 +463,26 @@
     {
       "added_at": "2026-07-03 14:11:47",
       "album": {
+        "name": "J\u00e1 Vi Que C\u00ea Bebe",
+        "url": "https://open.spotify.com/album/3uVwxaDFBKApNbmkDbZpnr"
+      },
+      "artists": [
+        {
+          "name": "Jayne Martins",
+          "url": "https://open.spotify.com/artist/4lOuQLXOSijhR3rectatOm"
+        },
+        {
+          "name": "Cristinas",
+          "url": "https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3"
+        }
+      ],
+      "duration_ms": 156442,
+      "name": "J\u00e1 Vi Que C\u00ea Bebe",
+      "url": "https://open.spotify.com/track/3zsnFQvetGTFs3BWcnOz6a"
+    },
+    {
+      "added_at": "2026-07-03 14:11:47",
+      "album": {
         "name": "Ao Vivo no Studio Bar, Vol.1",
         "url": "https://open.spotify.com/album/2P3xr478xr9eUnpOsfIUQo"
       },
@@ -507,6 +527,22 @@
     {
       "added_at": "2026-07-03 14:11:47",
       "album": {
+        "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1UQiTjTiE8pUWjyYtophZJ"
+      },
+      "artists": [
+        {
+          "name": "Matheus e Turelli",
+          "url": "https://open.spotify.com/artist/5MPzeoZaH4CcqyHnGrTgjd"
+        }
+      ],
+      "duration_ms": 164746,
+      "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/78FtKsMjLYpliAWk6uoSGl"
+    },
+    {
+      "added_at": "2026-07-03 14:11:47",
+      "album": {
         "name": "Sinal De Saudade (Ao Vivo)",
         "url": "https://open.spotify.com/album/1THDmWZtr9NR2CB199hLkx"
       },
@@ -531,18 +567,18 @@
     {
       "added_at": "2026-07-03 14:11:47",
       "album": {
-        "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1UQiTjTiE8pUWjyYtophZJ"
+        "name": "Simplesmente Deluxe (Ao Vivo)",
+        "url": "https://open.spotify.com/album/625q4hSNT1fDIOUv79hbEj"
       },
       "artists": [
         {
-          "name": "Matheus e Turelli",
-          "url": "https://open.spotify.com/artist/5MPzeoZaH4CcqyHnGrTgjd"
+          "name": "J\u00fanior e C\u00e9zar",
+          "url": "https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk"
         }
       ],
-      "duration_ms": 164746,
-      "name": "Hist\u00f3rico de Trai\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/78FtKsMjLYpliAWk6uoSGl"
+      "duration_ms": 146206,
+      "name": "Garrafa De \u00c1gua - Ao Vivo",
+      "url": "https://open.spotify.com/track/7yKssIU8nf7pgZLtpq9y4b"
     },
     {
       "added_at": "2026-07-03 14:11:47",
@@ -567,18 +603,18 @@
     {
       "added_at": "2026-07-03 14:11:47",
       "album": {
-        "name": "Simplesmente Deluxe (Ao Vivo)",
-        "url": "https://open.spotify.com/album/625q4hSNT1fDIOUv79hbEj"
+        "name": "Uma Dose De Cristinas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Fb7dfs5e2HKnyKCk6o9iJ"
       },
       "artists": [
         {
-          "name": "J\u00fanior e C\u00e9zar",
-          "url": "https://open.spotify.com/artist/5fWvTvWy2NCaVy8pFmWIvk"
+          "name": "Cristinas",
+          "url": "https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3"
         }
       ],
-      "duration_ms": 146206,
-      "name": "Garrafa De \u00c1gua - Ao Vivo",
-      "url": "https://open.spotify.com/track/7yKssIU8nf7pgZLtpq9y4b"
+      "duration_ms": 182218,
+      "name": "Roteiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pd1yjPwvUoD05twpG7tuY"
     },
     {
       "added_at": "2026-07-03 14:11:47",
@@ -599,22 +635,6 @@
       "duration_ms": 162629,
       "name": "Preso ao Seu Beijo - Ao Vivo",
       "url": "https://open.spotify.com/track/3hPdbS6PAjFM9biBQajjxR"
-    },
-    {
-      "added_at": "2026-07-03 14:11:47",
-      "album": {
-        "name": "Uma Dose De Cristinas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Fb7dfs5e2HKnyKCk6o9iJ"
-      },
-      "artists": [
-        {
-          "name": "Cristinas",
-          "url": "https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3"
-        }
-      ],
-      "duration_ms": 182218,
-      "name": "Roteiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/2pd1yjPwvUoD05twpG7tuY"
     },
     {
       "added_at": "2026-07-03 14:11:47",
@@ -779,26 +799,6 @@
     {
       "added_at": "2026-07-03 14:11:47",
       "album": {
-        "name": "J\u00e1 Vi Que C\u00ea Bebe",
-        "url": "https://open.spotify.com/album/3uVwxaDFBKApNbmkDbZpnr"
-      },
-      "artists": [
-        {
-          "name": "Jayne Martins",
-          "url": "https://open.spotify.com/artist/4lOuQLXOSijhR3rectatOm"
-        },
-        {
-          "name": "Cristinas",
-          "url": "https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3"
-        }
-      ],
-      "duration_ms": 156442,
-      "name": "J\u00e1 Vi Que C\u00ea Bebe",
-      "url": "https://open.spotify.com/track/3zsnFQvetGTFs3BWcnOz6a"
-    },
-    {
-      "added_at": "2026-07-03 14:11:47",
-      "album": {
         "name": "Tampa da Silverado",
         "url": "https://open.spotify.com/album/6KU7uc58KPi2VIXtjY0rxj"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 142558,
       "name": "Tampa da Silverado",
       "url": "https://open.spotify.com/track/3AmUBqYceSmsF7wfE3pkDa"
+    },
+    {
+      "added_at": "2026-07-03 14:11:47",
+      "album": {
+        "name": "Eu Lembro",
+        "url": "https://open.spotify.com/album/0CXcTVRjvYwedFzSlcB88m"
+      },
+      "artists": [
+        {
+          "name": "Maur\u00edcio & Eduardo",
+          "url": "https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc"
+        }
+      ],
+      "duration_ms": 152138,
+      "name": "Eu Lembro",
+      "url": "https://open.spotify.com/track/4R8yX5JJdTIrUcseN9mNcE"
     },
     {
       "added_at": "2026-07-03 14:11:47",
@@ -831,22 +847,6 @@
       "duration_ms": 131432,
       "name": "Congela",
       "url": "https://open.spotify.com/track/4TAOgIHpKBc5mgrY6m5iqT"
-    },
-    {
-      "added_at": "2026-07-03 14:11:47",
-      "album": {
-        "name": "Eu Lembro",
-        "url": "https://open.spotify.com/album/0CXcTVRjvYwedFzSlcB88m"
-      },
-      "artists": [
-        {
-          "name": "Maur\u00edcio & Eduardo",
-          "url": "https://open.spotify.com/artist/2Se9PDvg33BU6293vybNHc"
-        }
-      ],
-      "duration_ms": 152138,
-      "name": "Eu Lembro",
-      "url": "https://open.spotify.com/track/4R8yX5JJdTIrUcseN9mNcE"
     },
     {
       "added_at": "2026-07-03 14:11:47",
@@ -887,18 +887,42 @@
     {
       "added_at": "2026-07-03 14:11:47",
       "album": {
-        "name": "Consequ\u00eancias",
-        "url": "https://open.spotify.com/album/0v0p949o5wXUJFPAZxMptv"
+        "name": "PIX DE 1 REAL",
+        "url": "https://open.spotify.com/album/6Z5iturICQytbtsloXqaOa"
       },
       "artists": [
         {
-          "name": "Felipe Nogueira",
-          "url": "https://open.spotify.com/artist/3nXVVxYcQnARWrEAFomuSl"
+          "name": "Kebelem Ferreira",
+          "url": "https://open.spotify.com/artist/1ZLidpuYyz7NUepIWRvd0v"
+        },
+        {
+          "name": "Paula Guilherme",
+          "url": "https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS"
         }
       ],
-      "duration_ms": 183245,
-      "name": "Consequ\u00eancias",
-      "url": "https://open.spotify.com/track/1SHcSTa8zLPvKHcHDoPRDh"
+      "duration_ms": 152830,
+      "name": "PIX DE 1 REAL",
+      "url": "https://open.spotify.com/track/5WiNzAfWe9mhgFoqCZFIQi"
+    },
+    {
+      "added_at": "2026-07-03 14:11:47",
+      "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/4QFrBTDyMSPwqMXyikYA9R"
+      },
+      "artists": [
+        {
+          "name": "Bianca e Beatriz",
+          "url": "https://open.spotify.com/artist/4Fc399metKSKr2iypNlcgk"
+        },
+        {
+          "name": "Juliana Marques",
+          "url": "https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp"
+        }
+      ],
+      "duration_ms": 132269,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/3GvMsahexvoCTVBGXxBxTu"
     },
     {
       "added_at": "2026-07-03 14:11:47",
@@ -923,26 +947,6 @@
     {
       "added_at": "2026-07-03 14:11:47",
       "album": {
-        "name": "Ningu\u00e9m Vira Amor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0o4u9EcM17CHy5dWfiwkoh"
-      },
-      "artists": [
-        {
-          "name": "Yuri e Gustavo",
-          "url": "https://open.spotify.com/artist/2OvHw8HjdPtwbZ1naT886U"
-        },
-        {
-          "name": "Thiago & Graciano",
-          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
-        }
-      ],
-      "duration_ms": 176758,
-      "name": "Ningu\u00e9m Vira Amor - Ao Vivo",
-      "url": "https://open.spotify.com/track/5H6crkjg1qB0jM2fbx31Vy"
-    },
-    {
-      "added_at": "2026-07-03 14:11:47",
-      "album": {
         "name": "Subi de N\u00edvel, Vol. 3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/7tmZX2ihcmxpiX0QtaGe4m"
       },
@@ -963,18 +967,38 @@
     {
       "added_at": "2026-07-03 14:11:47",
       "album": {
-        "name": "Mais Neg\u00f3cio (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3n2ph02C2oyghd230CICPw"
+        "name": "Consequ\u00eancias",
+        "url": "https://open.spotify.com/album/0v0p949o5wXUJFPAZxMptv"
       },
       "artists": [
         {
-          "name": "Ana Karla",
-          "url": "https://open.spotify.com/artist/7mw9XzFeAIy1kpWqdnuRG3"
+          "name": "Felipe Nogueira",
+          "url": "https://open.spotify.com/artist/3nXVVxYcQnARWrEAFomuSl"
         }
       ],
-      "duration_ms": 174294,
-      "name": "Mais Neg\u00f3cio - Ao Vivo",
-      "url": "https://open.spotify.com/track/1zDdpi8uhfXDEqs7T2RIwT"
+      "duration_ms": 183245,
+      "name": "Consequ\u00eancias",
+      "url": "https://open.spotify.com/track/1SHcSTa8zLPvKHcHDoPRDh"
+    },
+    {
+      "added_at": "2026-07-03 14:11:47",
+      "album": {
+        "name": "Ningu\u00e9m Vira Amor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0o4u9EcM17CHy5dWfiwkoh"
+      },
+      "artists": [
+        {
+          "name": "Yuri e Gustavo",
+          "url": "https://open.spotify.com/artist/2OvHw8HjdPtwbZ1naT886U"
+        },
+        {
+          "name": "Thiago & Graciano",
+          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
+        }
+      ],
+      "duration_ms": 176758,
+      "name": "Ningu\u00e9m Vira Amor - Ao Vivo",
+      "url": "https://open.spotify.com/track/5H6crkjg1qB0jM2fbx31Vy"
     },
     {
       "added_at": "2026-07-03 14:11:47",
@@ -995,6 +1019,22 @@
       "duration_ms": 182570,
       "name": "Cora\u00e7\u00e3o do Bruto - Ao Vivo",
       "url": "https://open.spotify.com/track/7tXRESqmBQk9kd5NeLWDuP"
+    },
+    {
+      "added_at": "2026-07-03 14:11:47",
+      "album": {
+        "name": "Mais Neg\u00f3cio (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3n2ph02C2oyghd230CICPw"
+      },
+      "artists": [
+        {
+          "name": "Ana Karla",
+          "url": "https://open.spotify.com/artist/7mw9XzFeAIy1kpWqdnuRG3"
+        }
+      ],
+      "duration_ms": 174294,
+      "name": "Mais Neg\u00f3cio - Ao Vivo",
+      "url": "https://open.spotify.com/track/1zDdpi8uhfXDEqs7T2RIwT"
     },
     {
       "added_at": "2026-07-03 14:11:47",
@@ -1071,38 +1111,22 @@
     {
       "added_at": "2026-07-03 14:11:47",
       "album": {
-        "name": "Cadeado No Dedo",
-        "url": "https://open.spotify.com/album/1UknpCqyp4CgzQyh3k0K1R"
+        "name": "Se Voc\u00ea Come\u00e7ar a Namorar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2q6edaQltFjI0Xlp80aEVu"
       },
       "artists": [
         {
-          "name": "Ruan e Davi",
-          "url": "https://open.spotify.com/artist/5hiWmAGgzwo4nTKfAGpIID"
-        }
-      ],
-      "duration_ms": 125970,
-      "name": "Cadeado No Dedo",
-      "url": "https://open.spotify.com/track/54PL6YkAOs5jXF8mHajii0"
-    },
-    {
-      "added_at": "2026-07-03 14:11:47",
-      "album": {
-        "name": "Esquec\u00edvel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6pIAHUlvlgeqzkgYPZ5sfd"
-      },
-      "artists": [
-        {
-          "name": "Larissa e Mariana",
-          "url": "https://open.spotify.com/artist/4Tbs2tTIXSx0CfTQCj96kO"
+          "name": "Jhonny & Rahony",
+          "url": "https://open.spotify.com/artist/27gfiUjBzXpIEarVgiNvt2"
         },
         {
-          "name": "Mariana Fagundes",
-          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+          "name": "Cleber & Cauan",
+          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
         }
       ],
-      "duration_ms": 198794,
-      "name": "Esquec\u00edvel - Ao Vivo",
-      "url": "https://open.spotify.com/track/2n4pwBxp0f5rQOZsZCJ09f"
+      "duration_ms": 173784,
+      "name": "Se Voc\u00ea Come\u00e7ar a Namorar - Ao Vivo",
+      "url": "https://open.spotify.com/track/5MPUhNwUrHOCIUwRx61IYf"
     },
     {
       "added_at": "2026-07-03 14:11:47",
@@ -1127,22 +1151,38 @@
     {
       "added_at": "2026-07-03 14:11:47",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/4QFrBTDyMSPwqMXyikYA9R"
+        "name": "Esquec\u00edvel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6pIAHUlvlgeqzkgYPZ5sfd"
       },
       "artists": [
         {
-          "name": "Bianca e Beatriz",
-          "url": "https://open.spotify.com/artist/4Fc399metKSKr2iypNlcgk"
+          "name": "Larissa e Mariana",
+          "url": "https://open.spotify.com/artist/4Tbs2tTIXSx0CfTQCj96kO"
         },
         {
-          "name": "Juliana Marques",
-          "url": "https://open.spotify.com/artist/0lQLEejtZqv5SydrKNiEhp"
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
         }
       ],
-      "duration_ms": 132269,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/3GvMsahexvoCTVBGXxBxTu"
+      "duration_ms": 198794,
+      "name": "Esquec\u00edvel - Ao Vivo",
+      "url": "https://open.spotify.com/track/2n4pwBxp0f5rQOZsZCJ09f"
+    },
+    {
+      "added_at": "2026-07-03 14:11:47",
+      "album": {
+        "name": "Cadeado No Dedo",
+        "url": "https://open.spotify.com/album/1UknpCqyp4CgzQyh3k0K1R"
+      },
+      "artists": [
+        {
+          "name": "Ruan e Davi",
+          "url": "https://open.spotify.com/artist/5hiWmAGgzwo4nTKfAGpIID"
+        }
+      ],
+      "duration_ms": 125970,
+      "name": "Cadeado No Dedo",
+      "url": "https://open.spotify.com/track/54PL6YkAOs5jXF8mHajii0"
     },
     {
       "added_at": "2026-07-03 14:11:47",
@@ -1163,26 +1203,6 @@
       "duration_ms": 163605,
       "name": "Mais 18",
       "url": "https://open.spotify.com/track/2D5BT7DLrPLcz8CCGyvsAF"
-    },
-    {
-      "added_at": "2026-07-03 14:11:47",
-      "album": {
-        "name": "Se Voc\u00ea Come\u00e7ar a Namorar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2q6edaQltFjI0Xlp80aEVu"
-      },
-      "artists": [
-        {
-          "name": "Jhonny & Rahony",
-          "url": "https://open.spotify.com/artist/27gfiUjBzXpIEarVgiNvt2"
-        },
-        {
-          "name": "Cleber & Cauan",
-          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
-        }
-      ],
-      "duration_ms": 173784,
-      "name": "Se Voc\u00ea Come\u00e7ar a Namorar - Ao Vivo",
-      "url": "https://open.spotify.com/track/5MPUhNwUrHOCIUwRx61IYf"
     },
     {
       "added_at": "2026-07-03 14:11:47",
@@ -1231,26 +1251,6 @@
       "duration_ms": 166470,
       "name": "Mulher Sabe, Mulher Sente",
       "url": "https://open.spotify.com/track/6aCAclE84tOTJSmICImcvG"
-    },
-    {
-      "added_at": "2026-07-03 14:11:47",
-      "album": {
-        "name": "PIX DE 1 REAL",
-        "url": "https://open.spotify.com/album/6Z5iturICQytbtsloXqaOa"
-      },
-      "artists": [
-        {
-          "name": "Kebelem Ferreira",
-          "url": "https://open.spotify.com/artist/1ZLidpuYyz7NUepIWRvd0v"
-        },
-        {
-          "name": "Paula Guilherme",
-          "url": "https://open.spotify.com/artist/1FDT0PZnOcCFOEClMFLLsS"
-        }
-      ],
-      "duration_ms": 152830,
-      "name": "PIX DE 1 REAL",
-      "url": "https://open.spotify.com/track/5WiNzAfWe9mhgFoqCZFIQi"
     },
     {
       "added_at": "2026-07-03 14:11:47",

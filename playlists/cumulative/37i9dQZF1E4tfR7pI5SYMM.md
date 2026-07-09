@@ -2,7 +2,7 @@
 
 ### [Bipolar Superstar Radio](https://open.spotify.com/playlist/37i9dQZF1E4tfR7pI5SYMM)
 
-> With Jon Drake, Dystopian X Vision, Bad Scullianz and more
+> With Jon Drake, Dystopian X Vision, Pinned Comment and more
 
 812 songs - 2 day 7 hr 57 min
 
@@ -535,7 +535,7 @@
 | [Remember to Dare](https://open.spotify.com/track/7wS811eAyJv2KWwro5DkdS) | [ROME](https://open.spotify.com/artist/5Y9b87BZjL8FYMFiWfSFAL) | [The Tower](https://open.spotify.com/album/1X8k9WgnOC7JShv4lfXYhu) | 3:52 | 2025-12-23 | 2025-12-31 |
 | [Rest Your Halo](https://open.spotify.com/track/4q1fAT2JA4Dx26EqYKA2rQ) | [Lockjaw](https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF) | [Un\-hinged ep](https://open.spotify.com/album/1QiIxXeE36iQD5eKokwuT8) | 3:22 | 2026-05-24 | 2026-06-13 |
 | [Resurrection](https://open.spotify.com/track/041xbqKUrRVLXEH3cdVlWI) | [In This Mode](https://open.spotify.com/artist/6HrG3Hh12RNDA5mPRM6G8g) | [Resurrection](https://open.spotify.com/album/6xNPuRbKvIvFVwpuwrTPIS) | 4:24 | 2026-05-30 | 2026-05-31 |
-| [Revival](https://open.spotify.com/track/30YkoZ7wB6JeO1zgHGfnIV) | [G CALZ](https://open.spotify.com/artist/7xoWBXrhbBbrpH2phhv583) | [REVIVAL](https://open.spotify.com/album/0BmJWKr018mnQqYOclae1R) | 3:26 | 2026-07-08 |  |
+| [Revival](https://open.spotify.com/track/30YkoZ7wB6JeO1zgHGfnIV) | [G CALZ](https://open.spotify.com/artist/7xoWBXrhbBbrpH2phhv583) | [REVIVAL](https://open.spotify.com/album/0BmJWKr018mnQqYOclae1R) | 3:26 | 2026-07-08 | 2026-07-09 |
 | [reyes](https://open.spotify.com/track/4VkiI6xCL5beCmpXqmPZW6) | [Memtuyu mtb](https://open.spotify.com/artist/76nusiG9JvEstbG7hd5gHf) | [reyes](https://open.spotify.com/album/1mjQH1hxEwuIOiFud8R2WO) | 1:34 | 2026-05-29 | 2026-07-02 |
 | [reyes](https://open.spotify.com/track/6GImk3iXGvtgQnmnmwwSRw) | [Memtuyu mtb](https://open.spotify.com/artist/76nusiG9JvEstbG7hd5gHf) | [reyes](https://open.spotify.com/album/5iWG3BRXV6OFsuCrLEJxYu) | 1:34 | 2025-11-20 | 2025-11-22 |
 | [Rinse & Repeat](https://open.spotify.com/track/53mgE1DwOZa8ATuqadN9pj) | [Digital Rats](https://open.spotify.com/artist/5OLxQw7340A4HlY2iY2HhV) | [Rinse & Repeat](https://open.spotify.com/album/1IsPumWVMRLz4vPpxBQqU7) | 3:55 | 2025-12-11 | 2025-12-14 |
@@ -650,7 +650,7 @@
 | [The Failing](https://open.spotify.com/track/5aEZGYs7BNLAEBCfUPE91f) | [Greyfade](https://open.spotify.com/artist/2pdC6R4FKPkEGqpxNVaQVx) | [The Failing](https://open.spotify.com/album/4Gppgk8mxZmdV5SceKHjco) | 5:02 | 2026-01-30 | 2026-01-31 |
 | [The Fallout](https://open.spotify.com/track/4JKKd6dQeRqoTluu5IaKHL) | [Providers Of Trivial Comfort](https://open.spotify.com/artist/4RNtu3LzjEIrXBSBSXgckS) | [The Fallout](https://open.spotify.com/album/7uPVb1Xf1p3htWO5DiTn8q) | 4:26 | 2026-06-17 | 2026-06-18 |
 | [The Fate](https://open.spotify.com/track/11D0OdRH2XHmst8sps2tZm) | [Nemrud](https://open.spotify.com/artist/5IUAwYRYCVxKtAbdHcgnD1) | [At the End of the Day](https://open.spotify.com/album/1UCZiXy6XABplmGjexDTox) | 7:04 | 2025-11-19 | 2025-12-14 |
-| [The Garden](https://open.spotify.com/track/4BF5hPw2t0JYqLSKuPLmfy) | [Firehill](https://open.spotify.com/artist/6f1rti1er9Al2g3fHBMnES) | [The Garden](https://open.spotify.com/album/4dvSoIH80G8SPSSyJPwwQ3) | 4:06 | 2026-06-10 | 2026-07-08 |
+| [The Garden](https://open.spotify.com/track/4BF5hPw2t0JYqLSKuPLmfy) | [Firehill](https://open.spotify.com/artist/6f1rti1er9Al2g3fHBMnES) | [The Garden](https://open.spotify.com/album/4dvSoIH80G8SPSSyJPwwQ3) | 4:06 | 2026-06-10 |  |
 | [The Girl In Room 9](https://open.spotify.com/track/7683Gi3KrQNDnVaUyB0Du4) | [The Exceptional Mr Hyde](https://open.spotify.com/artist/57Ig5EuC0yQOfKxTmtmLHp) | [The Girl In Room 9](https://open.spotify.com/album/5zpXk19unE6IduKcYOjz5c) | 3:19 | 2026-04-20 | 2026-05-21 |
 | [The Girl With The Blue Hat](https://open.spotify.com/track/5Ra5F82U6bYLW3EZp4RU43) | [The Lazy Dayz](https://open.spotify.com/artist/36ALrlLDFxVNR9OMwfJX46) | [The Girl With The Blue Hat](https://open.spotify.com/album/0b5pgD417j6yCiabyEAVel) | 4:10 | 2026-01-28 | 2026-01-30 |
 | [The Great Replacement](https://open.spotify.com/track/6RAcTglUaypJX3WLrRxgbV) | [Miguel and the Living Dead](https://open.spotify.com/artist/2tnGY6SyCH12EMeYne5n9C) | [Hyenaz!](https://open.spotify.com/album/2ZUV1Xyd2mxao4lclWYEnU) | 6:08 | 2026-03-24 | 2026-04-02 |

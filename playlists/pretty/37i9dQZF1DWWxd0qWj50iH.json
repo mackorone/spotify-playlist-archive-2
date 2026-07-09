@@ -1,6 +1,6 @@
 {
   "description": "A softer space.",
-  "num_followers": 612611,
+  "num_followers": 612568,
   "original_name": "Gentle",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Someone To Stay (Acoustic)",
-        "url": "https://open.spotify.com/album/4b9XvODq3fQ6xGTlmUpwQm"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 237748,
-      "name": "Someone To Stay (Acoustic)",
-      "url": "https://open.spotify.com/track/0AlPTC3ChJYKnBLQY11uP6"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "how can i pretend?",
         "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 132000,
       "name": "ur so pretty",
       "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Someone To Stay (Acoustic)",
+        "url": "https://open.spotify.com/album/4b9XvODq3fQ6xGTlmUpwQm"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 237748,
+      "name": "Someone To Stay (Acoustic)",
+      "url": "https://open.spotify.com/track/0AlPTC3ChJYKnBLQY11uP6"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Anyone But You",
-        "url": "https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav"
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
       },
       "artists": [
         {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Anyone But You",
-      "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
+      "duration_ms": 155007,
+      "name": "No Hard Feelings",
+      "url": "https://open.spotify.com/track/6eJaTm3sfYirbFpibBhnRO"
     },
     {
       "added_at": "2026-05-29 08:14:58",
@@ -511,18 +511,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
+        "name": "Anyone But You",
+        "url": "https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav"
       },
       "artists": [
         {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 155007,
-      "name": "No Hard Feelings",
-      "url": "https://open.spotify.com/track/6eJaTm3sfYirbFpibBhnRO"
+      "duration_ms": 176000,
+      "name": "Anyone But You",
+      "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Ultrasound",
-        "url": "https://open.spotify.com/album/1v6HKSKJ0gblCPbmsRQoRT"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 328931,
-      "name": "Son",
-      "url": "https://open.spotify.com/track/3qyBGhzXPbHSHjmEIqHo8S"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Moveys",
         "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 200025,
       "name": "Montana",
       "url": "https://open.spotify.com/track/3hcmDRD8Nz9aX9TqDMUy4b"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Ultrasound",
+        "url": "https://open.spotify.com/album/1v6HKSKJ0gblCPbmsRQoRT"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 328931,
+      "name": "Son",
+      "url": "https://open.spotify.com/track/3qyBGhzXPbHSHjmEIqHo8S"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1105,22 +1105,6 @@
       "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
     },
     {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
-        "name": "Beneath The Skin",
-        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 276466,
-      "name": "I Of The Storm",
-      "url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe"
-    },
-    {
       "added_at": "2025-02-28 15:54:30",
       "album": {
         "name": "Dumb Feeling",
@@ -1139,18 +1123,18 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "Since July",
-        "url": "https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw"
+        "name": "Beneath The Skin",
+        "url": "https://open.spotify.com/album/2mD97VgxTRfwB8F5tvkwrL"
       },
       "artists": [
         {
-          "name": "Quiet Houses",
-          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 197826,
-      "name": "See For Miles",
-      "url": "https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9"
+      "duration_ms": 276466,
+      "name": "I Of The Storm",
+      "url": "https://open.spotify.com/track/3xGmbotxgSltJ5qHX7aZfe"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1167,6 +1151,22 @@
       "duration_ms": 212625,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/1dOmEeayAc8UV4DdK20pFN"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "Since July",
+        "url": "https://open.spotify.com/album/4dtGWZoAfaY8tFEQdAg1jw"
+      },
+      "artists": [
+        {
+          "name": "Quiet Houses",
+          "url": "https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC"
+        }
+      ],
+      "duration_ms": 197826,
+      "name": "See For Miles",
+      "url": "https://open.spotify.com/track/1iJXvuuRrLqw1HQsUyWQu9"
     },
     {
       "added_at": "2024-05-31 15:25:10",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-05-31 15:25:10",
       "album": {
-        "name": "The Death Of Summer & Other Promises",
-        "url": "https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV"
-      },
-      "artists": [
-        {
-          "name": "Etta Marcus",
-          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
-        }
-      ],
-      "duration_ms": 269411,
-      "name": "Skin Parade",
-      "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
-    },
-    {
-      "added_at": "2024-05-31 15:25:10",
-      "album": {
         "name": "Dark Corners and Alchemy",
         "url": "https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 202873,
       "name": "If Only",
       "url": "https://open.spotify.com/track/4EdAQ5rPO3X9NClqwhqsIt"
+    },
+    {
+      "added_at": "2024-05-31 15:25:10",
+      "album": {
+        "name": "The Death Of Summer & Other Promises",
+        "url": "https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV"
+      },
+      "artists": [
+        {
+          "name": "Etta Marcus",
+          "url": "https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg"
+        }
+      ],
+      "duration_ms": 269411,
+      "name": "Skin Parade",
+      "url": "https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h"
     },
     {
       "added_at": "2024-05-31 15:25:10",

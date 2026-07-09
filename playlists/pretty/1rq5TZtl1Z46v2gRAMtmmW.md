@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,919 likes - 65 songs - 3 hr 36 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 31,921 likes - 66 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,5 +73,6 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 63 | [Anotherwave](https://open.spotify.com/track/10WZEaaJ2MsKMgPJpxgaRO) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Sea Lemon](https://open.spotify.com/artist/6Oy4STraI9APdMoCO5te6w) | [Anotherwave](https://open.spotify.com/album/4RUBLJUANaWzNZSJV7Xmox) | 4:06 |
 | 64 | [Do You Mind](https://open.spotify.com/track/7wP2y4niJpt6ddP7dYULMC) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Do You Mind](https://open.spotify.com/album/1xpJNh2AczS0XSKaf01uyJ) | 3:07 |
 | 65 | [Jera](https://open.spotify.com/track/5P8xG7b988v4t8fom6Go0s) | [Narasimha](https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV) | [Jera](https://open.spotify.com/album/4hjOgPTQYAukouOCspVRiC) | 2:55 |
+| 66 | [Denisse](https://open.spotify.com/track/0w8j13CM49tWDsEwtH6j0b) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Denisse](https://open.spotify.com/album/3sl18HgwShBn3K0arFlOyw) | 3:41 |
 
-Snapshot ID: `AAARu2fTJkC4XLt2q5dZ0/Bxusm8xEz8`
+Snapshot ID: `AAARvLo53zPHTvSQM15vbTM69au0oNwc`

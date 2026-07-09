@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > tuuudo conspirando a favor  🌓//  Amanda Sarmento
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,952 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,991 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 24 | [QUENTE](https://open.spotify.com/track/2el8CvqyDnolMrKdcEpFJR) | [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [QUENTE](https://open.spotify.com/album/4Mwlgd9ZeQF8WQwI4dGHoE) | 2:03 |
 | 25 | [Lace](https://open.spotify.com/track/0GX4NMzSBnseCSEqwPzrJu) | [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT) | [Subestimada](https://open.spotify.com/album/6vE1WHyTRdcvJx1IOUGXS9) | 3:44 |
 | 26 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
-| 27 | [Preta.Foda.Quente](https://open.spotify.com/track/6jvrsFHPR8CWW8qNwIRvYL) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Mvzza](https://open.spotify.com/artist/2fkE2uxHML1rUsTu0h5LJf) | [Preta.Foda.Quente](https://open.spotify.com/album/23yPDm5pk1v4QrJFahAdrQ) | 3:01 |
+| 27 | [LONGE DE B.O](https://open.spotify.com/track/6YYKv2SiW6FCXXxGx9Upez) | [Kisha zO](https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu), [LINS](https://open.spotify.com/artist/15VsaSOIGZwFh9OWwl5KcT) | [LONGE DE B.O](https://open.spotify.com/album/1OZsNxFLBwmw5EJdh4rOaT) | 2:16 |
 | 28 | [Serena & Venus](https://open.spotify.com/track/7FVKKaicBQr7K5ybvCPKYH) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Serena & Venus \(Lado A\)](https://open.spotify.com/album/7nAI8aRf1bLV6shOXSld68) | 3:57 |
-| 29 | [LONGE DE B.O](https://open.spotify.com/track/6YYKv2SiW6FCXXxGx9Upez) | [Kisha zO](https://open.spotify.com/artist/2R2j4v3NGFzYkaxJCaExpu), [LINS](https://open.spotify.com/artist/15VsaSOIGZwFh9OWwl5KcT) | [LONGE DE B.O](https://open.spotify.com/album/1OZsNxFLBwmw5EJdh4rOaT) | 2:16 |
+| 29 | [Preta.Foda.Quente](https://open.spotify.com/track/6jvrsFHPR8CWW8qNwIRvYL) | [Boca](https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [Afrodite Bxd](https://open.spotify.com/artist/6yofdBnMvY2T1pjLwlN6i5), [Mvzza](https://open.spotify.com/artist/2fkE2uxHML1rUsTu0h5LJf) | [Preta.Foda.Quente](https://open.spotify.com/album/23yPDm5pk1v4QrJFahAdrQ) | 3:01 |
 | 30 | [QUEBREI SUA CASA](https://open.spotify.com/track/4QMvXgG3Ae5aycBwhKm2q8) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [QUEBREI SUA CASA](https://open.spotify.com/album/3jeFsTtEnFb1LZpwZbnfHD) | 2:28 |
 | 31 | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [THS](https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4) | [Primeiro de Maio \(Gostosas Inteligentes\)](https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt) | 2:10 |
 | 32 | [FORA DA CAIXA](https://open.spotify.com/track/6x7CxrFQoDdV8miVsN9ywQ) | [Majis](https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX), [Zstudios](https://open.spotify.com/artist/1HBZ9LrkmdtlbN9NRlcdp9) | [FORA DA CAIXA](https://open.spotify.com/album/2jwSOcz8OhFxai4j7aF2gl) | 1:54 |

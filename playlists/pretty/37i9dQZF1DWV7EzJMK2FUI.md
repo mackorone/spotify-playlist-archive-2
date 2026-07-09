@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 
 > Soft instrumental Jazz for all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,293,930 likes - 190 songs - 10 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,294,195 likes - 190 songs - 10 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7EzJMK2FUI.md) - [plain]
 | 189 | [At your place](https://open.spotify.com/track/77JtSFO9b4BXKXIBGRng1U) | [Dave Oakley trio](https://open.spotify.com/artist/6HOLnnkgNpWVVjZRELl9lc) | [At your place](https://open.spotify.com/album/2wLyO0bm1UmYBmvF5C0JcU) | 3:18 |
 | 190 | [Wanderer](https://open.spotify.com/track/3OmfaRWLdT1itOR1B9o5hH) | [Lotus Trio](https://open.spotify.com/artist/7ankqZz0A6N1GIVmwJmLsz) | [Wanderer](https://open.spotify.com/album/0oKlBmIeoGk6AcrieTkQ7s) | 3:19 |
 
-Snapshot ID: `AAAAAImfKqcjrXDOZNySx4TADibi/S2T`
+Snapshot ID: `AAAAAFcAkGkIsGEs6rCek8yeC8/ATyQY`

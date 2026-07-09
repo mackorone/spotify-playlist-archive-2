@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Goldbug
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,457 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,463 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 16 | [SIMP 4 U](https://open.spotify.com/track/1VrREfQ1MXoiRULw3eYl3N) | [YAII](https://open.spotify.com/artist/7MvPAMS30HN4K095Vm4N30) | [SIMP 4 U](https://open.spotify.com/album/4oqQMSGJ8PImETmerljN5Q) | 2:15 |
 | 17 | [if i had one wish.](https://open.spotify.com/track/2P58L8iRKiwZ0UcDkqJVpz) | [Floetic](https://open.spotify.com/artist/65DpzULsU41SimkMyFx72v), [J2](https://open.spotify.com/artist/6OXH8PrAhJqYkfPvHbKPld), [Awaiting Kvng](https://open.spotify.com/artist/4kzXgdwAgZoKXO8GNMgvFc), [db.](https://open.spotify.com/artist/1G0EC1iC9XLhQ03JyKEFSW), [Dylan Hingston](https://open.spotify.com/artist/4rG2Yk2nM1rVtTlMKS91jX) | [no more nostalgia.](https://open.spotify.com/album/6Tk7ldAIIVj1enbMoffE72) | 2:27 |
 | 18 | [In Yr Right Hand Reveal Heaven](https://open.spotify.com/track/5XupJq5fBAe68ZTNP6056a) | [The Healing Power of Horses](https://open.spotify.com/artist/4ps9FIxIQatbBhudrWSK3J) | [In Yr Right Hand Reveal Heaven](https://open.spotify.com/album/0Dhknp1ZINLIp1TV8QJpH2) | 4:41 |
-| 19 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [Daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
+| 19 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
 | 20 | [In Your Head](https://open.spotify.com/track/2xceOgYP6jcQ4aci4J17Jw) | [ili](https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4) | [In Your Head](https://open.spotify.com/album/3hqQUj4B1togXhQXlQhmiv) | 2:31 |
 | 21 | [Tough Love](https://open.spotify.com/track/3DRzJ6iwA37xqR02WGIoQ1) | [Finley Lindfield](https://open.spotify.com/artist/4KVX3wBEq4bU58GiMlHq2P) | [Tough Love](https://open.spotify.com/album/3uiSHQI9R8cuIpN1oasisp) | 3:30 |
 | 22 | [blue](https://open.spotify.com/track/59Y4JbxCmTSvYLoNt1A7kz) | [søftbleach](https://open.spotify.com/artist/6dKuAS35mJiyRGAjOtSS17) | [blue](https://open.spotify.com/album/47ioqnKHpIJSfoshcYXCvX) | 3:22 |

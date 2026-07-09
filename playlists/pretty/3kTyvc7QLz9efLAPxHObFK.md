@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,123 songs - 6 day 16 hr 53 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 18 likes - 3,124 songs - 6 day 16 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3131,5 +3131,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 3121 | [DARK HORSE](https://open.spotify.com/track/1rOE1Bwf8CFVFhTXPlO2Qn) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma) | [DARK HORSE](https://open.spotify.com/album/4riXibPO1NhoTiZF32CiXz) | 2:41 |
 | 3122 | [We Found Krach](https://open.spotify.com/track/3ib3krPb2fogcPoQBLpzPJ) | [Colin Hennerz](https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF), [Schlot](https://open.spotify.com/artist/0XDU5Tj8CTvRZBaKB6pSSw) | [We Found Krach](https://open.spotify.com/album/38g53oqbQOLh8GfJ4sAsHT) | 2:28 |
 | 3123 | [BLOW](https://open.spotify.com/track/0fwf3Hm6RTgdQXvpkctzbL) | [PEYGAN](https://open.spotify.com/artist/7Gatqa2VVX586jcYiIVJg9) | [BLOW](https://open.spotify.com/album/0Eu6TguSswYb5xTXQnGZsI) | 2:51 |
+| 3124 | [Zero Gravity](https://open.spotify.com/track/4oAccL4fsCtHrVl0V3NXEe) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Zero Gravity](https://open.spotify.com/album/3zBWHqFiEWRbITsRt7g5Ny) | 2:16 |
 
-Snapshot ID: `AAAMjgYU5+bNpC2qtEILXWMJhpXFJpPR`
+Snapshot ID: `AAAMjyrne8ouIRSWtb/ZiTvqOnDyRlFQ`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Lina\-Mariah
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,294 likes - 99 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,247 likes - 99 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hate My Mom](https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Feel Like Shit And It's All Your Fault](https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn) | 2:57 |
-| 2 | [done done done](https://open.spotify.com/track/4pGMZRqLZtqrQe4ehY4lCQ) | [Ordinary Kid](https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9) | [done done done](https://open.spotify.com/album/6QGYexIgJpVXPpDlkqFrX7) | 1:56 |
-| 3 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
+| 1 | [done done done](https://open.spotify.com/track/4pGMZRqLZtqrQe4ehY4lCQ) | [Ordinary Kid](https://open.spotify.com/artist/5VT2f9Mtql9jsOPrLefzP9) | [done done done](https://open.spotify.com/album/6QGYexIgJpVXPpDlkqFrX7) | 1:56 |
+| 2 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
+| 3 | [Hate My Mom](https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Feel Like Shit And It's All Your Fault](https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn) | 2:57 |
 | 4 | [Ohne Ende](https://open.spotify.com/track/0Hug5vymE3fmJcGZF1hrup) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [Ohne Ende](https://open.spotify.com/album/20klsXrvBesOppf6XLC9i2) | 2:35 |
 | 5 | [Ich hasse](https://open.spotify.com/track/3wxzL6CJkm6MPmGARzXOyI) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Ich hasse](https://open.spotify.com/album/43XXpz53y2g2Yd1x4EPVWl) | 2:14 |
 | 6 | [LAUT SEIN \(IMMER\)](https://open.spotify.com/track/1oVhw7hL1fl0S46FxIk0Xb) | [yung pepp](https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR), [Florida Juicy](https://open.spotify.com/artist/3Vx6SzTg6SDWWbwXI3ky1L) | [LAUT SEIN \(IMMER\)](https://open.spotify.com/album/0qXIJVafaTskYVfgZ7v3s5) | 2:22 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 98 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 |
 | 99 | [Sommerregen \(Nimm meine Hand\)](https://open.spotify.com/track/17qpIQNRNWWeOQm6VwT6SN) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [KushTekK](https://open.spotify.com/artist/17lK1LyA0KGd5r41OOE2d0) | [Sommerregen \(Nimm meine Hand\)](https://open.spotify.com/album/26kjrd1kjAaPl7bKlnE3q2) | 3:02 |
 
-Snapshot ID: `AAAAACYfHTjMRe2mgCd+TnZEOy+KPsPY`
+Snapshot ID: `AAAAAHSUYTCA+mtXY4eTo/12xANc8GaH`

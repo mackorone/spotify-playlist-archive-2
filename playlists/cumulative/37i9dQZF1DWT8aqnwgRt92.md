@@ -4,7 +4,7 @@
 
 > Hottest Anime hits & best new tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-2,715 songs - 6 day 23 hr 34 min
+2,716 songs - 6 day 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [bloom](https://open.spotify.com/track/1f37xjUqPlrDvA6MdQoAis) | [ネクライトーキー](https://open.spotify.com/artist/45ew0KWgCA7evVgCydrZws) | [bloom](https://open.spotify.com/album/3M1wHslRzr0CVK4oYyCV0K) | 3:17 | 2023-11-21 | 2024-01-17 |
 | [BLOOM \(feat\. Ayumu Imazu\)](https://open.spotify.com/track/6jBeNTZcQrzvAMr1p9QBDV) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz), [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [BLOOM \(feat\. Ayumu Imazu\)](https://open.spotify.com/album/6ViNM72dBCuPDyJMetsWI6) | 3:29 | 2025-06-03 | 2025-07-09 |
 | [bloomin'](https://open.spotify.com/track/7IGV9PfdVzqhdol3lgtnIs) | [Liyuu](https://open.spotify.com/artist/3KEJMe6WtlsRJP9qR3Juqn) | [bloomin'](https://open.spotify.com/album/0kRxrSqr36nVM58sq8vOPz) | 4:09 | 2023-07-21 | 2023-09-27 |
+| [Blue](https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [Blue](https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0) | 2:36 | 2026-07-08 |  |
 | [BLUE BUD](https://open.spotify.com/track/4tT27irqZ5muAdDoVbMeio) | [青木陽菜](https://open.spotify.com/artist/5mUGS61tvbFlPgRW3ibdbx) | [BLUE BUD](https://open.spotify.com/album/4PhY3tQSEPEubND9Vun5pG) | 3:56 | 2024-01-09 | 2024-01-26 |
 | [Blue Christmas for You](https://open.spotify.com/track/63uGz2PiUS8cBAGdSDaby1) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Blue Christmas for You](https://open.spotify.com/album/5asncMAz1mrkEwvOKSSprH) | 3:36 | 2024-12-17 | 2024-12-31 |
 | [BLUE DAYS](https://open.spotify.com/track/1vwGnbamRWVNBTqTIu60GU) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [BLUE DAYS](https://open.spotify.com/album/3DtoOTutegCaIzOsDVVYd2) | 3:07 | 2024-04-10 | 2024-04-19 |
@@ -827,7 +828,7 @@
 | [Mayonakano Love](https://open.spotify.com/track/4PdTdZSNbi7QOvdwTBbHrr) | [Kento Ito](https://open.spotify.com/artist/07VroOJ1SGvFrdu69YwEdd) | [Mayonakano Love](https://open.spotify.com/album/5utUgLJkKaQ3tBDW6y6P65) | 3:23 | 2022-09-20 | 2022-10-28 |
 | [Me renewed](https://open.spotify.com/track/70FUgJA0n0xIwRBWBQNX8D) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [Me renewed](https://open.spotify.com/album/0jye7DVHeuG4qbSTkdi9G8) | 3:01 | 2025-10-09 | 2025-10-28 |
 | [Meant to be](https://open.spotify.com/track/7AY2Z88px0W0rSVj2bcaer) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [TOGENASHI](https://open.spotify.com/album/7I0nZ1uqE3Qydi7gyyd187) | 3:29 | 2024-08-27 | 2024-10-12 |
-| [Mebius](https://open.spotify.com/track/7aa7xs0GnKFpIt4HPEODvh) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Mebius](https://open.spotify.com/album/4PPPYsDozmG4NlnyIh8j8q) | 3:31 | 2026-06-02 |  |
+| [Mebius](https://open.spotify.com/track/7aa7xs0GnKFpIt4HPEODvh) | [Leo Ieiri](https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc) | [Mebius](https://open.spotify.com/album/4PPPYsDozmG4NlnyIh8j8q) | 3:31 | 2026-06-02 | 2026-07-09 |
 | [Megane\-Go\-Round](https://open.spotify.com/track/662l75p75lTA2Ah9Et4cMw) | [マサヨシがめがねを忘れた\(小村くんと三重さんとオーイシマサヨシ\)](https://open.spotify.com/artist/7tH2hkmutwX0x90KlxwbTS) | [The Girl I Like Forgot Her Glasses Ending Theme "Megane\-Go\-Round"](https://open.spotify.com/album/12wi1uiKFu9CTxVJ8axs6m) | 3:35 | 2023-08-01 | 2023-10-04 |
 | [Megane\-Go\-Round \(TV Size ver.\)](https://open.spotify.com/track/2ujULpZIqhy51LfAlScicJ) | [マサヨシがめがねを忘れた\(小村くんと三重さんとオーイシマサヨシ\)](https://open.spotify.com/artist/7tH2hkmutwX0x90KlxwbTS) | [Megane\-Go\-Round "TV Size ver."](https://open.spotify.com/album/1Li5RK1m4HTSlZffbbzk66) | 1:29 | 2023-07-11 | 2023-08-02 |
 | [Melissa \- From CrosSing](https://open.spotify.com/track/3cPP2NYhfUYLibpFqqQB8x) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Melissa \- From CrosSing](https://open.spotify.com/album/5nCxbhDwEp0YiHEDV6COPe) | 4:17 | 2023-03-14 | 2023-04-09 |

@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Amanda Magalh\u00e3es ",
-  "num_followers": 290386,
+  "num_followers": 290379,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,26 @@
     {
       "added_at": "2026-07-03 03:00:40",
       "album": {
+        "name": "LUMINOSA, ATO II: SOL",
+        "url": "https://open.spotify.com/album/0jjFw0lrAwiOvXgbnvOp2D"
+      },
+      "artists": [
+        {
+          "name": "Ana Cacimba",
+          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+        },
+        {
+          "name": "Big Up",
+          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+        }
+      ],
+      "duration_ms": 179259,
+      "name": "Sorte",
+      "url": "https://open.spotify.com/track/28xVmDFPHeRgYHo1Nfv27d"
+    },
+    {
+      "added_at": "2026-07-03 03:00:40",
+      "album": {
         "name": "insisto em voc\u00ea",
         "url": "https://open.spotify.com/album/5GVaB9qGHVP1eAR0Ff3BeU"
       },
@@ -659,22 +679,22 @@
     {
       "added_at": "2026-07-03 03:00:40",
       "album": {
-        "name": "LUMINOSA, ATO II: SOL",
-        "url": "https://open.spotify.com/album/0jjFw0lrAwiOvXgbnvOp2D"
+        "name": "Camisa Vintage",
+        "url": "https://open.spotify.com/album/24537ToUynGliJJ9K0l23v"
       },
       "artists": [
         {
-          "name": "Ana Cacimba",
-          "url": "https://open.spotify.com/artist/2VUDolPxpoiwL3oOXVst58"
+          "name": "Gavi",
+          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
         },
         {
-          "name": "Big Up",
-          "url": "https://open.spotify.com/artist/246xfnz80PngiO9sZubyy0"
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
         }
       ],
-      "duration_ms": 179259,
-      "name": "Sorte",
-      "url": "https://open.spotify.com/track/28xVmDFPHeRgYHo1Nfv27d"
+      "duration_ms": 144095,
+      "name": "Camisa Vintage",
+      "url": "https://open.spotify.com/track/35REdBtOnxQnGNKqNcBEcb"
     },
     {
       "added_at": "2026-07-03 03:00:40",
@@ -755,22 +775,22 @@
     {
       "added_at": "2026-07-03 03:00:40",
       "album": {
-        "name": "Camisa Vintage",
-        "url": "https://open.spotify.com/album/24537ToUynGliJJ9K0l23v"
+        "name": "Open Mic",
+        "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
       },
       "artists": [
         {
-          "name": "Gavi",
-          "url": "https://open.spotify.com/artist/0IEc1sMwme68hLsuPaCkgw"
+          "name": "Choice",
+          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
         },
         {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH"
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
         }
       ],
-      "duration_ms": 144095,
-      "name": "Camisa Vintage",
-      "url": "https://open.spotify.com/track/35REdBtOnxQnGNKqNcBEcb"
+      "duration_ms": 222692,
+      "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
+      "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
     },
     {
       "added_at": "2026-07-03 03:00:40",
@@ -811,26 +831,6 @@
       "duration_ms": 208365,
       "name": "Barulho Das Ondas",
       "url": "https://open.spotify.com/track/4gdlltsXloVZhtJhPYw1PN"
-    },
-    {
-      "added_at": "2026-07-03 03:00:40",
-      "album": {
-        "name": "Open Mic",
-        "url": "https://open.spotify.com/album/4iSACzKKk0q7A0XDtwwS6u"
-      },
-      "artists": [
-        {
-          "name": "Choice",
-          "url": "https://open.spotify.com/artist/4kqedTxyE5EDJWLLplYXpu"
-        },
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 222692,
-      "name": "Voc\u00ea Me Vira A Cabe\u00e7a",
-      "url": "https://open.spotify.com/track/1koaKYLJGl8f4GfZXPkIQi"
     },
     {
       "added_at": "2026-07-03 03:00:40",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-07-03 03:00:40",
       "album": {
-        "name": "Casal de Uma Noite S\u00f3",
-        "url": "https://open.spotify.com/album/3qlz4NTsWKeLn7ANFw7RYL"
-      },
-      "artists": [
-        {
-          "name": "Zero Pacceli",
-          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
-        }
-      ],
-      "duration_ms": 149474,
-      "name": "Casal de Uma Noite S\u00f3",
-      "url": "https://open.spotify.com/track/4Rh6HLtGAHDaLTWLBH2W3n"
-    },
-    {
-      "added_at": "2026-07-03 03:00:40",
-      "album": {
         "name": "Naquele Pique",
         "url": "https://open.spotify.com/album/5SWzPdChH478hSmhsKbISn"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 190735,
       "name": "Naquele Pique",
       "url": "https://open.spotify.com/track/08OcEw37xpmZJX1yhBvQmg"
+    },
+    {
+      "added_at": "2026-07-03 03:00:40",
+      "album": {
+        "name": "Casal de Uma Noite S\u00f3",
+        "url": "https://open.spotify.com/album/3qlz4NTsWKeLn7ANFw7RYL"
+      },
+      "artists": [
+        {
+          "name": "Zero Pacceli",
+          "url": "https://open.spotify.com/artist/62sKdgq98PB8klSTM8Qvaw"
+        }
+      ],
+      "duration_ms": 149474,
+      "name": "Casal de Uma Noite S\u00f3",
+      "url": "https://open.spotify.com/track/4Rh6HLtGAHDaLTWLBH2W3n"
     },
     {
       "added_at": "2026-07-03 03:00:40",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-07-03 03:00:40",
       "album": {
-        "name": "Linda e Perigosa",
-        "url": "https://open.spotify.com/album/1kU1pKFPWKO3Ji8aMBzTy8"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 189010,
-      "name": "Linda e Perigosa",
-      "url": "https://open.spotify.com/track/1NllK0fesDem5FNDdT2i8C"
-    },
-    {
-      "added_at": "2026-07-03 03:00:40",
-      "album": {
         "name": "Acordo Cedo",
         "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 125186,
       "name": "Acordo Cedo",
       "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
+    },
+    {
+      "added_at": "2026-07-03 03:00:40",
+      "album": {
+        "name": "Linda e Perigosa",
+        "url": "https://open.spotify.com/album/1kU1pKFPWKO3Ji8aMBzTy8"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 189010,
+      "name": "Linda e Perigosa",
+      "url": "https://open.spotify.com/track/1NllK0fesDem5FNDdT2i8C"
     },
     {
       "added_at": "2026-07-03 03:00:40",

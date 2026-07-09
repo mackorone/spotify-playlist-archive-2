@@ -3147,6 +3147,24 @@
     },
     {
       "album": {
+        "name": "Frequency",
+        "url": "https://open.spotify.com/album/59EtQ9iTxB9kbnJ2kGqwGT"
+      },
+      "artists": [
+        {
+          "name": "Nia Tone",
+          "url": "https://open.spotify.com/artist/1hPZmJ6YcmKIEQKSzSkOup"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177293,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/6fFANLe45lolpWyZJWy175"
+    },
+    {
+      "album": {
         "name": "Frost In The December",
         "url": "https://open.spotify.com/album/2nPh6wx5shAwqcjkjOrbTR"
       },

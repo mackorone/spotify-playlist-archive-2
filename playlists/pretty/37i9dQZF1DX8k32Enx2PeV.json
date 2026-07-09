@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 16869,
+  "num_followers": 16873,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -139,26 +139,18 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
+        "name": "AY MAMA (mi tibur\u00f3n)",
+        "url": "https://open.spotify.com/album/4RafoSfihhy0heXBjcKjaa"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
         }
       ],
-      "duration_ms": 232149,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
+      "duration_ms": 138380,
+      "name": "AY MAMA (mi tibur\u00f3n)",
+      "url": "https://open.spotify.com/track/7yHZ66udwjeUafGohI7T46"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -187,18 +179,26 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "AY MAMA (mi tibur\u00f3n)",
-        "url": "https://open.spotify.com/album/4RafoSfihhy0heXBjcKjaa"
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
       },
       "artists": [
         {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
         }
       ],
-      "duration_ms": 138380,
-      "name": "AY MAMA (mi tibur\u00f3n)",
-      "url": "https://open.spotify.com/track/7yHZ66udwjeUafGohI7T46"
+      "duration_ms": 232149,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -455,26 +455,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "TRESCENDER",
-        "url": "https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 161030,
-      "name": "Regalito",
-      "url": "https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Gata Oficial",
         "url": "https://open.spotify.com/album/2g3M1blidvaFb5seJsNLnZ"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 203161,
       "name": "Gata Oficial",
       "url": "https://open.spotify.com/track/7hKVe53E4qYRGoRGk7tfYC"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "TRESCENDER",
+        "url": "https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 161030,
+      "name": "Regalito",
+      "url": "https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -559,6 +559,26 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "Los Nuevos Reyes",
         "url": "https://open.spotify.com/album/6q7NqAYt7mBBpAdA0lyfAo"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 231100,
       "name": "La Canci\u00f3n De Los Dos",
       "url": "https://open.spotify.com/track/3zVwgwb0Q9ZAoJdp949VXJ"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183891,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "Isla Pa Dos (Wawawao)",
+        "url": "https://open.spotify.com/album/2H5VQ2AyPAAwq2QVLsgLwh"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 137691,
+      "name": "Isla Pa Dos (Wawawao)",
+      "url": "https://open.spotify.com/track/2oZMbHvRq7jEpCfupABOlp"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "PINACOLADA REMIX (feat. Be\u00e9le, Ayra Starr, 6LACK)",
         "url": "https://open.spotify.com/album/12CsRgdLnx2J6Da2mS4JyN"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 211200,
       "name": "PINACOLADA REMIX (feat. Be\u00e9le, Ayra Starr, 6LACK)",
       "url": "https://open.spotify.com/track/7qNZLFVB86qiyRT9xFg0f4"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Isla Pa Dos (Wawawao)",
-        "url": "https://open.spotify.com/album/2H5VQ2AyPAAwq2QVLsgLwh"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 137691,
-      "name": "Isla Pa Dos (Wawawao)",
-      "url": "https://open.spotify.com/track/2oZMbHvRq7jEpCfupABOlp"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -839,6 +839,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "borondo",
+        "url": "https://open.spotify.com/album/0hCJNl8pcd7S697Ss52YUF"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 141821,
+      "name": "borondo",
+      "url": "https://open.spotify.com/track/6NyPyarIkT3ViNZYUImbW7"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "Pailas Parcera",
         "url": "https://open.spotify.com/album/4dDvlsfbXQ8Gf1bOzlGCNH"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 188936,
       "name": "Pailas Parcera",
       "url": "https://open.spotify.com/track/7wadGShHx40m4EJGObdjyj"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "borondo",
-        "url": "https://open.spotify.com/album/0hCJNl8pcd7S697Ss52YUF"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 141821,
-      "name": "borondo",
-      "url": "https://open.spotify.com/track/6NyPyarIkT3ViNZYUImbW7"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -959,22 +959,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/5NGE6VHVNTLOuvgrtrYmqo"
-      },
-      "artists": [
-        {
-          "name": "Vera Delacruz",
-          "url": "https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt"
-        }
-      ],
-      "duration_ms": 173836,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/6it8wBT8PrplRJmTmLojs6"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Invierno en Caracas",
         "url": "https://open.spotify.com/album/6OQsyfvIYHid8J8OIRAN1W"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 188873,
       "name": "Invierno En Caracas",
       "url": "https://open.spotify.com/track/31ObtUfkfMdKlE2QkwM5im"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/5NGE6VHVNTLOuvgrtrYmqo"
+      },
+      "artists": [
+        {
+          "name": "Vera Delacruz",
+          "url": "https://open.spotify.com/artist/1A8TnoKY8MmXA4pKYNm4Bt"
+        }
+      ],
+      "duration_ms": 173836,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/6it8wBT8PrplRJmTmLojs6"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
-        "name": "BCN",
-        "url": "https://open.spotify.com/album/0Ao8K0FieTNrsTJO3Npdpl"
-      },
-      "artists": [
-        {
-          "name": "Ysa C",
-          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
-        },
-        {
-          "name": "Yexel",
-          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
-        }
-      ],
-      "duration_ms": 163119,
-      "name": "BCN",
-      "url": "https://open.spotify.com/track/3zNyqsJCrqXzgCWgD8zcd4"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
         "name": "Cuando Canto Grito",
         "url": "https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 341074,
       "name": "Cuando Canto Grito",
       "url": "https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
+        "name": "BCN",
+        "url": "https://open.spotify.com/album/0Ao8K0FieTNrsTJO3Npdpl"
+      },
+      "artists": [
+        {
+          "name": "Ysa C",
+          "url": "https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk"
+        },
+        {
+          "name": "Yexel",
+          "url": "https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL"
+        }
+      ],
+      "duration_ms": 163119,
+      "name": "BCN",
+      "url": "https://open.spotify.com/track/3zNyqsJCrqXzgCWgD8zcd4"
     },
     {
       "added_at": "2026-06-19 04:59:04",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-06-19 04:59:04",
       "album": {
+        "name": "Perdiendo el Control",
+        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 202221,
+      "name": "Perdiendo el Control",
+      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
+    },
+    {
+      "added_at": "2026-06-19 04:59:04",
+      "album": {
         "name": "Buen Pez (Deluz)",
         "url": "https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 177213,
       "name": "Regalo",
       "url": "https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN"
-    },
-    {
-      "added_at": "2026-06-19 04:59:04",
-      "album": {
-        "name": "Perdiendo el Control",
-        "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 202221,
-      "name": "Perdiendo el Control",
-      "url": "https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj"
     },
     {
       "added_at": "2026-06-19 04:59:04",

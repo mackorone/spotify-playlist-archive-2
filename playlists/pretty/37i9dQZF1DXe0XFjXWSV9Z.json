@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 51346,
+  "num_followers": 51351,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "La Bomba",
-        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 134720,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "La Cumbia Sampuesana",
         "url": "https://open.spotify.com/album/3hfoRX2lmEN8vY7idLIo2S"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 141882,
       "name": "Teniente Harina - Cumbia Manifiesto, Pt. 2",
       "url": "https://open.spotify.com/track/6U6gOELlEzLMDYcBY3FQFf"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "La Bomba",
+        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
+      },
+      "artists": [
+        {
+          "name": "Los Bitchos",
+          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
+        }
+      ],
+      "duration_ms": 134720,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Lalango",
-        "url": "https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg"
-      },
-      "artists": [
-        {
-          "name": "Malphino",
-          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
-        }
-      ],
-      "duration_ms": 209371,
-      "name": "Republica Federal de Malphino",
-      "url": "https://open.spotify.com/track/2BNNHF4crFVs3qz1kNxyHy"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Cumbia del Metr\u00f3nomo",
         "url": "https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 304000,
       "name": "Cumbia del Metr\u00f3nomo",
       "url": "https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Lalango",
+        "url": "https://open.spotify.com/album/05KxvOMM465lpZlzK6hCdg"
+      },
+      "artists": [
+        {
+          "name": "Malphino",
+          "url": "https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij"
+        }
+      ],
+      "duration_ms": 209371,
+      "name": "Republica Federal de Malphino",
+      "url": "https://open.spotify.com/track/2BNNHF4crFVs3qz1kNxyHy"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Me Estoy Poniendo Viejo",
+        "url": "https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv"
+      },
+      "artists": [
+        {
+          "name": "Los Esplifs",
+          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
+        }
+      ],
+      "duration_ms": 234382,
+      "name": "Me Estoy Poniendo Viejo",
+      "url": "https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Cumbia Espectro",
         "url": "https://open.spotify.com/album/7LeyN0a8dAmdWedch0MYVv"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 216000,
       "name": "Cumbia Espectro",
       "url": "https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Me Estoy Poniendo Viejo",
-        "url": "https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv"
-      },
-      "artists": [
-        {
-          "name": "Los Esplifs",
-          "url": "https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb"
-        }
-      ],
-      "duration_ms": 234382,
-      "name": "Me Estoy Poniendo Viejo",
-      "url": "https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Que Tumba",
-        "url": "https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr"
-      },
-      "artists": [
-        {
-          "name": "Romperayo",
-          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
-        }
-      ],
-      "duration_ms": 196421,
-      "name": "Que Tumba",
-      "url": "https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Paso Palante",
         "url": "https://open.spotify.com/album/31S6Pzl78SSpAZByQKHWlu"
       },
@@ -1151,18 +1135,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Paganismo (Deluxe)",
-        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
+        "name": "Que Tumba",
+        "url": "https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr"
       },
       "artists": [
         {
-          "name": "Sonido Gallo Negro",
-          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
+          "name": "Romperayo",
+          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
         }
       ],
-      "duration_ms": 189514,
-      "name": "Mambo Del Fierro Viejo",
-      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
+      "duration_ms": 196421,
+      "name": "Que Tumba",
+      "url": "https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1187,18 +1171,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Bueltatzen",
-        "url": "https://open.spotify.com/album/4v1nMs0gkTppp4rhdrmCqv"
+        "name": "Paganismo (Deluxe)",
+        "url": "https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2"
       },
       "artists": [
         {
-          "name": "Goxua\u00b4n Salsa",
-          "url": "https://open.spotify.com/artist/3pHdIDn7I3886jmRAhIonL"
+          "name": "Sonido Gallo Negro",
+          "url": "https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo"
         }
       ],
-      "duration_ms": 258898,
-      "name": "Bueltatzen",
-      "url": "https://open.spotify.com/track/1QoGnD390y0CCuTAIy1J2o"
+      "duration_ms": 189514,
+      "name": "Mambo Del Fierro Viejo",
+      "url": "https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1215,6 +1199,22 @@
       "duration_ms": 217366,
       "name": "Loco Playa",
       "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Bueltatzen",
+        "url": "https://open.spotify.com/album/4v1nMs0gkTppp4rhdrmCqv"
+      },
+      "artists": [
+        {
+          "name": "Goxua\u00b4n Salsa",
+          "url": "https://open.spotify.com/artist/3pHdIDn7I3886jmRAhIonL"
+        }
+      ],
+      "duration_ms": 258898,
+      "name": "Bueltatzen",
+      "url": "https://open.spotify.com/track/1QoGnD390y0CCuTAIy1J2o"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
-      },
-      "artists": [
-        {
-          "name": "La Chamba",
-          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
-        }
-      ],
-      "duration_ms": 198469,
-      "name": "Por Ah\u00ed",
-      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Santo Domingo",
         "url": "https://open.spotify.com/album/6Dg0JIGimNwQHb65RVn4WO"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 160067,
       "name": "Santo Domingo",
       "url": "https://open.spotify.com/track/4JwHace7u3LLaLFe1yzbUU"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw"
+      },
+      "artists": [
+        {
+          "name": "La Chamba",
+          "url": "https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh"
+        }
+      ],
+      "duration_ms": 198469,
+      "name": "Por Ah\u00ed",
+      "url": "https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Capricornio: Ven a mi amor",
-        "url": "https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF"
+        "name": "Amaru Tribe",
+        "url": "https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc"
       },
       "artists": [
         {
-          "name": "Sonido Desconocido 2",
-          "url": "https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA"
+          "name": "Amaru Tribe",
+          "url": "https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Capricornio: Ven a mi amor",
-      "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
+      "duration_ms": 401937,
+      "name": "Cumbia Ocea\u00cc\u0081nica",
+      "url": "https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Amaru Tribe",
-        "url": "https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc"
+        "name": "Capricornio: Ven a mi amor",
+        "url": "https://open.spotify.com/album/1dGVnxTvqZ6FF7lPocvCrF"
       },
       "artists": [
         {
-          "name": "Amaru Tribe",
-          "url": "https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu"
+          "name": "Sonido Desconocido 2",
+          "url": "https://open.spotify.com/artist/7vn9gosQwaC0ca5C4wRVUA"
         }
       ],
-      "duration_ms": 401937,
-      "name": "Cumbia Ocea\u00cc\u0081nica",
-      "url": "https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H"
+      "duration_ms": 170000,
+      "name": "Capricornio: Ven a mi amor",
+      "url": "https://open.spotify.com/track/5klxe1nweL6Ak1LsNSlHte"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Shift and Shadow",
-        "url": "https://open.spotify.com/album/68coa3myXyACGNFuHU0OZT"
-      },
-      "artists": [
-        {
-          "name": "XIXA",
-          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "Cumbia del Paletero",
-      "url": "https://open.spotify.com/track/4laare64UJzFrVoFuZOMqP"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Virgen de Guadalupe",
         "url": "https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D"
       },
@@ -1531,18 +1515,18 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Qu\u00e9malo",
-        "url": "https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY"
+        "name": "Shift and Shadow",
+        "url": "https://open.spotify.com/album/68coa3myXyACGNFuHU0OZT"
       },
       "artists": [
         {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+          "name": "XIXA",
+          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
         }
       ],
-      "duration_ms": 220986,
-      "name": "Qu\u00e9malo",
-      "url": "https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6"
+      "duration_ms": 243493,
+      "name": "Cumbia del Paletero",
+      "url": "https://open.spotify.com/track/4laare64UJzFrVoFuZOMqP"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1559,6 +1543,22 @@
       "duration_ms": 270090,
       "name": "Puerta del sol",
       "url": "https://open.spotify.com/track/7gLNpAOrOBpfhH3gSXdFQO"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Qu\u00e9malo",
+        "url": "https://open.spotify.com/album/6L9dyeQJ9doBa5HPh7i8yY"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 220986,
+      "name": "Qu\u00e9malo",
+      "url": "https://open.spotify.com/track/7mcCU3oiQoQppurDxSPVo6"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "We Haven't Been Introduced",
-        "url": "https://open.spotify.com/album/2Gd08eyyxsiHXNIS0q3ufz"
-      },
-      "artists": [
-        {
-          "name": "Locobeach",
-          "url": "https://open.spotify.com/artist/3AgZkiriQHoaThReMzrs3J"
-        }
-      ],
-      "duration_ms": 274804,
-      "name": "We Haven't Been Introduced",
-      "url": "https://open.spotify.com/track/0ZiOE6PyKTwbZTUJbNj11U"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Infame Golpazo En Keroxen",
         "url": "https://open.spotify.com/album/5o1rY4kJ3NlsUwwBzRljM4"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 234603,
       "name": "Todos tenemos hogar",
       "url": "https://open.spotify.com/track/0oqUwU7MMQrMUvnrfkaTWv"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "We Haven't Been Introduced",
+        "url": "https://open.spotify.com/album/2Gd08eyyxsiHXNIS0q3ufz"
+      },
+      "artists": [
+        {
+          "name": "Locobeach",
+          "url": "https://open.spotify.com/artist/3AgZkiriQHoaThReMzrs3J"
+        }
+      ],
+      "duration_ms": 274804,
+      "name": "We Haven't Been Introduced",
+      "url": "https://open.spotify.com/track/0ZiOE6PyKTwbZTUJbNj11U"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Para Poderte Olvidar",
+        "url": "https://open.spotify.com/album/7tEne4UdMQ15NaVyzD50lC"
+      },
+      "artists": [
+        {
+          "name": "Qiensave",
+          "url": "https://open.spotify.com/artist/2zzLwsB8sY1dkIDAKevDrc"
+        }
+      ],
+      "duration_ms": 240823,
+      "name": "Para Poderte Olvidar",
+      "url": "https://open.spotify.com/track/7MOwjyBrU0hMRCDwkSoKAx"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Misirlou Psychotropique",
         "url": "https://open.spotify.com/album/1C0VPW0LpqWDbX201e34HG"
       },
@@ -1671,26 +1687,6 @@
       "duration_ms": 304274,
       "name": "Misirlou Psychotropique",
       "url": "https://open.spotify.com/track/2ZhtNDzWk3xFNJ3A3jQTxw"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Sonaja y Tambor",
-        "url": "https://open.spotify.com/album/2Y1M7UOgh5PDC4wxC5ksKL"
-      },
-      "artists": [
-        {
-          "name": "Salterio Marsupial",
-          "url": "https://open.spotify.com/artist/7yind2mqV2sMwUa6qoEysI"
-        },
-        {
-          "name": "L\u00edber Ter\u00e1n",
-          "url": "https://open.spotify.com/artist/5NkwN3sVPbeE8xnCCyVr9p"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Sonaja y Tambor",
-      "url": "https://open.spotify.com/track/2RnrVGQ0y3eRwGJNjYxJmA"
     }
   ],
   "unique_name": "TROPILOCO",

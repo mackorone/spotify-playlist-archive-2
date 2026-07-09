@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: M.anifest & Kwesi Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,294 likes - 79 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,328 likes - 79 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

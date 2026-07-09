@@ -1,13 +1,117 @@
 {
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Aaron Cottman & Gabby Poli",
-  "num_followers": 59901,
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Gloria Kim & James Paek ",
+  "num_followers": 59910,
   "original_name": "Fresh Finds Faith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOFJT82p2mZ3KdxDAbZMf1uU+cMB",
+  "snapshot_id": "AAAAALPEvGpHCqgclaZYh9OuqZoPl+CU",
   "tracks": [
+    {
+      "added_at": "2026-07-08 04:00:11",
+      "album": {
+        "name": "Don't Runaway",
+        "url": "https://open.spotify.com/album/3LlsY3HphvGLJ5OIAygyrn"
+      },
+      "artists": [
+        {
+          "name": "James Paek",
+          "url": "https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz"
+        },
+        {
+          "name": "Gloria Kim",
+          "url": "https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx"
+        }
+      ],
+      "duration_ms": 205371,
+      "name": "Don't Runaway",
+      "url": "https://open.spotify.com/track/5YkTu7GZrtSNfKfTLDCyJO"
+    },
+    {
+      "added_at": "2026-07-08 04:00:11",
+      "album": {
+        "name": "What Our World Needs",
+        "url": "https://open.spotify.com/album/7HHKviQK2JLqgCcpSQBLtM"
+      },
+      "artists": [
+        {
+          "name": "Mark Alan Schoolmeesters",
+          "url": "https://open.spotify.com/artist/0mTJxKhV5L8JtQmXHTJZXy"
+        }
+      ],
+      "duration_ms": 223334,
+      "name": "What Our World Needs",
+      "url": "https://open.spotify.com/track/2LNjGAAV7Z42fRp6HBypoc"
+    },
+    {
+      "added_at": "2026-07-08 04:00:11",
+      "album": {
+        "name": "nothing to lose!",
+        "url": "https://open.spotify.com/album/1vdWPHf8B2sXr8HcLS9w5b"
+      },
+      "artists": [
+        {
+          "name": "HOMECOMING",
+          "url": "https://open.spotify.com/artist/4HNKPi9snti1H0ISjcTslT"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "nothing to lose!",
+      "url": "https://open.spotify.com/track/27bAyGhdqELvShC9xNDMJP"
+    },
+    {
+      "added_at": "2026-07-08 04:00:11",
+      "album": {
+        "name": "Lluvia de Gracia",
+        "url": "https://open.spotify.com/album/1gYuTtcP5hh1HomeshJQGv"
+      },
+      "artists": [
+        {
+          "name": "Masha Palazzo",
+          "url": "https://open.spotify.com/artist/1Fq5o81IJx8izNt3g9PJs3"
+        }
+      ],
+      "duration_ms": 222947,
+      "name": "Lluvia de Gracia",
+      "url": "https://open.spotify.com/track/6fgbhYV5F4ZUwYxCTrciEg"
+    },
+    {
+      "added_at": "2026-07-08 04:00:11",
+      "album": {
+        "name": "ALL 4 U",
+        "url": "https://open.spotify.com/album/2P1wIt8WGRPRl65FBLK3id"
+      },
+      "artists": [
+        {
+          "name": "Nikeeta",
+          "url": "https://open.spotify.com/artist/3x8SC8aXZp7mEZqj8WgAsP"
+        }
+      ],
+      "duration_ms": 140967,
+      "name": "ALL 4 U",
+      "url": "https://open.spotify.com/track/7Es0GINLXECKcyWyMTUSaF"
+    },
+    {
+      "added_at": "2026-07-08 04:00:11",
+      "album": {
+        "name": "Tuff Luv",
+        "url": "https://open.spotify.com/album/0i9HHpmLBm71LfpRwMZinO"
+      },
+      "artists": [
+        {
+          "name": "Chris Caro",
+          "url": "https://open.spotify.com/artist/2uOE5DW2uxL7dnyKh50s85"
+        },
+        {
+          "name": "Cristine Toca",
+          "url": "https://open.spotify.com/artist/4P2ziuaFZjjq2HMTuuunqX"
+        }
+      ],
+      "duration_ms": 161020,
+      "name": "Tuff Luv",
+      "url": "https://open.spotify.com/track/09Bmeuu53RarYzRPEHQWlR"
+    },
     {
       "added_at": "2026-07-01 04:00:19",
       "album": {
@@ -1151,126 +1255,6 @@
       "duration_ms": 204000,
       "name": "Lungs",
       "url": "https://open.spotify.com/track/5tSsKHQzt8dvT4eV39KKDw"
-    },
-    {
-      "added_at": "2026-07-01 04:00:19",
-      "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/0ZzCkWtTyM8GJkWGy1FuUC"
-      },
-      "artists": [
-        {
-          "name": "Lady Audri",
-          "url": "https://open.spotify.com/artist/75HzJOTVySISxmtIxZnqke"
-        }
-      ],
-      "duration_ms": 178947,
-      "name": "Alabaster Box",
-      "url": "https://open.spotify.com/track/01ij7XzZi6PZK020XL2faE"
-    },
-    {
-      "added_at": "2026-07-01 04:00:19",
-      "album": {
-        "name": "Third Week",
-        "url": "https://open.spotify.com/album/54SwDCAanYBJiWEGyAu59B"
-      },
-      "artists": [
-        {
-          "name": "Carlito Codigo",
-          "url": "https://open.spotify.com/artist/5UteEvNs5R2nAmmv55R9bR"
-        },
-        {
-          "name": "Dexter Music",
-          "url": "https://open.spotify.com/artist/5pzzsAs3nFK4EX9lZB0MdG"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "Third Week",
-      "url": "https://open.spotify.com/track/1Djw76rSvVp2KEA8EsG4Z2"
-    },
-    {
-      "added_at": "2026-07-01 04:00:19",
-      "album": {
-        "name": "Sulcus",
-        "url": "https://open.spotify.com/album/0jqcrUZDsTfighqPMBTmC5"
-      },
-      "artists": [
-        {
-          "name": "THE ONE HE LOVED",
-          "url": "https://open.spotify.com/artist/19g5k95pW2wSOzj3Itd2f9"
-        },
-        {
-          "name": "JORDEN MICHAEL",
-          "url": "https://open.spotify.com/artist/7iMmy6p7MMnfoeY52ZAPZh"
-        }
-      ],
-      "duration_ms": 288750,
-      "name": "Sulcus",
-      "url": "https://open.spotify.com/track/6AqUCz7ewZxEhTN13Tg1Vj"
-    },
-    {
-      "added_at": "2026-07-01 04:00:19",
-      "album": {
-        "name": "YOU GIVE ME LIFE!",
-        "url": "https://open.spotify.com/album/11ftUSz4ijSa6JfLmLoTt2"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Zamar",
-          "url": "https://open.spotify.com/artist/6h6ySmE1mgWa3M9UADYJt0"
-        }
-      ],
-      "duration_ms": 178505,
-      "name": "YOU GIVE ME LIFE!",
-      "url": "https://open.spotify.com/track/2ICcWYofJBWP2c4xHWoqop"
-    },
-    {
-      "added_at": "2026-07-01 04:00:19",
-      "album": {
-        "name": "Talking To A Dove",
-        "url": "https://open.spotify.com/album/22XaF4IHvqBCIlWic1GNEb"
-      },
-      "artists": [
-        {
-          "name": "Lani Rose",
-          "url": "https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb"
-        }
-      ],
-      "duration_ms": 199950,
-      "name": "Talking To A Dove",
-      "url": "https://open.spotify.com/track/2VBWGfh1WorNT0yHkbG2Va"
-    },
-    {
-      "added_at": "2026-07-01 04:00:19",
-      "album": {
-        "name": "Time for You",
-        "url": "https://open.spotify.com/album/6CUZHvfCGAPlo8Q7fsJlz0"
-      },
-      "artists": [
-        {
-          "name": "Anna Makula",
-          "url": "https://open.spotify.com/artist/2sCH9kYASIAGOaloAfOe44"
-        }
-      ],
-      "duration_ms": 219750,
-      "name": "Time for You",
-      "url": "https://open.spotify.com/track/54IR8l2bqqj5CLlgAZ8mRO"
-    },
-    {
-      "added_at": "2026-07-01 04:00:19",
-      "album": {
-        "name": "Out Of Touch",
-        "url": "https://open.spotify.com/album/0MkbRC8bibouKkeo4PFolh"
-      },
-      "artists": [
-        {
-          "name": "Perri Jones",
-          "url": "https://open.spotify.com/artist/0v7n7KWfzG0Gg4grOnHdg4"
-        }
-      ],
-      "duration_ms": 180715,
-      "name": "Out Of Touch",
-      "url": "https://open.spotify.com/track/6EGSvVXneV86Ct1dctAxqB"
     }
   ],
   "unique_name": "Fresh Finds Faith",

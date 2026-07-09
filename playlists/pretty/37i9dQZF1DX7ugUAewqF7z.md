@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,607 likes - 239 songs - 14 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,608 likes - 239 songs - 14 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 68 | [MONEY](https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 2:48 |
 | 69 | [Money](https://open.spotify.com/track/09ZsaP4ytdLXSc9rHuScMR) | [WAX](https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ) | [Wax02 : 화장을 고치고](https://open.spotify.com/album/0lxaVhnSUrnsCreJm5sBj6) | 3:22 |
 | 70 | [Hello](https://open.spotify.com/track/0SOnbGVEf5q0YqL0FO2qu0) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [LIKE 1st MINI ALBUM “First Story”](https://open.spotify.com/album/6CPFjcggq3c0YHNEhzRjWC) | 4:11 |
-| 71 | [Don't Stop Me Now](https://open.spotify.com/track/0DrDcqWpokMlhKYJSwoT4B) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Discover More Classic Rock](https://open.spotify.com/album/6HRfL00lkjpQoGirvWhj4q) | 3:29 |
+| 71 | [Don't Stop Me Now](https://open.spotify.com/track/0DrDcqWpokMlhKYJSwoT4B) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Discover More Classic Rock](https://open.spotify.com/album/6HRfL00lkjpQoGirvWhj4q) | 3:18 |
 | 72 | [Tiger is Coming](https://open.spotify.com/track/3zBDNnUOioHl3sN9iF5xl5) | [LEENALCHI](https://open.spotify.com/artist/0kHgYUOcTac5RhkYx1thsq) | [SUGUNGGA](https://open.spotify.com/album/5UqbnRVtyrrGrBeKP0KeYW) | 5:31 |
 | 73 | [NEWSmile](https://open.spotify.com/track/2CXVVWFqthDQ4GEEc8tUPJ) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [NEWSmile](https://open.spotify.com/album/4Pv8k6WZ60oUiuJtARH4BN) | 3:21 |
 | 74 | [Uphill Road \(feat\. Jung In\)](https://open.spotify.com/track/751wNW9iODtcyrmt87L1AO) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Monthly Project 2012 Yoon Jong Shin](https://open.spotify.com/album/1SWS7v23kAPhl6BcvhlYFV) | 4:43 |

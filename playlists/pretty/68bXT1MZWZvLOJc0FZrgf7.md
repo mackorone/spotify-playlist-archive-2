@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Dance to your favorite electronic hits 🪩 2026 EDM Dancepop New DJ Mint Upbeat Dancefloor Rave 🕺 Cover: Tame Impala &amp; JENNIE
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 92,170 likes - 100 songs - 5 hr 23 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 92,157 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 | 3 | [Lose Myself](https://open.spotify.com/track/0e5K24g47Xze7bR6eftsHT) | [The Bausa](https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg) | [Lose Myself / I Wanna](https://open.spotify.com/album/5pLDXKmvchaKPLdI93TAjH) | 2:46 |
 | 4 | [Me & U \- Sammy Virji Remix](https://open.spotify.com/track/5tm9ZsHVB29WVxBaekV013) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Me & U \(Sammy Virji Remix\)](https://open.spotify.com/album/1iqTnKpDcOuWp3o4kOuzU3) | 3:21 |
 | 5 | [Speed Dial \(feat\. Cydnee with a C\)](https://open.spotify.com/track/3jhke2rHwlc0NI1JPldImU) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Nokae](https://open.spotify.com/artist/32tm4kFatfXJM1kWaoBu69), [Cydnee with a C](https://open.spotify.com/artist/5a4kURAuZDYRjLfkJq3zQU) | [Speed Dial \(feat\. Cydnee with a C\)](https://open.spotify.com/album/0vg6S29uMjoEygrv4mnT8E) | 3:04 |
-| 6 | [pongo remix \(feat\. Rvssian, Rauw Alejandro & Wizkid\)](https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [pAL\_veranito.mp3](https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z) | 2:49 |
+| 6 | [pongo remix](https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [pAL\_veranito.mp3](https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z) | 2:49 |
 | 7 | [Alive](https://open.spotify.com/track/4jWgREzNq1RRAlCMaRlPcY) | [Era Istrefi](https://open.spotify.com/artist/4poL7YCSkG7kMnWjAdDU91), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Alive](https://open.spotify.com/album/2S9QP1X7CjvpngvhGNN0MM) | 3:28 |
 | 8 | [California Dreamin'](https://open.spotify.com/track/5auOVqNBRXTfyejSXYNYkn) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [dualité](https://open.spotify.com/artist/4pnymQheapZYHjiTWBmoGi) | [California Dreamin'](https://open.spotify.com/album/4hwk20ZuHOAXFtfUk7bw8c) | 2:31 |
 | 9 | [Mesmerized \- Dirtwire Remix Edit](https://open.spotify.com/track/69oB8WPOsGTM9p36Zky6KH) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Dirtwire](https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK) | [Mesmerized \(Dirtwire Remix\)](https://open.spotify.com/album/4DDz6WggBJ09NR25Q3YLd2) | 4:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Sadurn
 
-[Spotify](https://open.spotify.com/user/spotify) - 876,665 likes - 149 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 876,639 likes - 149 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

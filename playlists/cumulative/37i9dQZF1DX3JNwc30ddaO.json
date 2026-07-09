@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Bowl of Life",
+        "url": "https://open.spotify.com/album/0KQT1FnAZSbWHYkWdLWixI"
+      },
+      "artists": [
+        {
+          "name": "Divine Isle",
+          "url": "https://open.spotify.com/artist/2lbyzOWzrHi2r8yMUnuglT"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174545,
+      "name": "Bowl of Life",
+      "url": "https://open.spotify.com/track/25GHFh0uRdeTXeb0k9V8qO"
+    },
+    {
+      "album": {
         "name": "Calming Bowl Waves",
         "url": "https://open.spotify.com/album/2SPku0ykeYBApltugAXwaI"
       },
@@ -502,7 +520,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 250279,
       "name": "Calming Bowl Waves",
       "url": "https://open.spotify.com/track/1lB9k3QiJtRrEw7sXGbRhx"
@@ -740,6 +758,24 @@
       "duration_ms": 326400,
       "name": "Dream State",
       "url": "https://open.spotify.com/track/6RYCmqM5A2Ps0dg71yfB6H"
+    },
+    {
+      "album": {
+        "name": "Echo Shore",
+        "url": "https://open.spotify.com/album/3ERRny9YXJqClGg5pAp4aH"
+      },
+      "artists": [
+        {
+          "name": "Sereluna",
+          "url": "https://open.spotify.com/artist/1ZFdGnslzGSf1huxJ3yzev"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185859,
+      "name": "Echo Shore",
+      "url": "https://open.spotify.com/track/0MjeX7SD9zfdIATLXRaYdr"
     },
     {
       "album": {
@@ -1409,6 +1445,24 @@
     },
     {
       "album": {
+        "name": "Pure oak",
+        "url": "https://open.spotify.com/album/02XChFJsIEpHty7KayHTY2"
+      },
+      "artists": [
+        {
+          "name": "Laurent Emmmerling",
+          "url": "https://open.spotify.com/artist/1kuN1SBPqMCk5aKgPSh6xn"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165079,
+      "name": "Pure oak",
+      "url": "https://open.spotify.com/track/6r6GPwZDLsttfT2HDMzKoz"
+    },
+    {
+      "album": {
         "name": "Pure Tibetan Bowls",
         "url": "https://open.spotify.com/album/3gullPZFVVZoRZjJwP2RZ7"
       },
@@ -1442,6 +1496,42 @@
       "duration_ms": 158532,
       "name": "Realm Notion",
       "url": "https://open.spotify.com/track/4gwRzwAsWjiKex8HLqjjxh"
+    },
+    {
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/5oOJ3G6RJZYzCUD3mCQQVz"
+      },
+      "artists": [
+        {
+          "name": "Nieas Zeta",
+          "url": "https://open.spotify.com/artist/0Mue8L3mLmwGymyLWPrD7D"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175469,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/7Jetmjod8PSoBClfiDFur8"
+    },
+    {
+      "album": {
+        "name": "Red Sand Ritual",
+        "url": "https://open.spotify.com/album/5QY9X2RdmZ5jipkQksRsZM"
+      },
+      "artists": [
+        {
+          "name": "Mir Dune",
+          "url": "https://open.spotify.com/artist/6Hs1kTcMGQUJR9DFyyiE0n"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179417,
+      "name": "Red Sand Ritual",
+      "url": "https://open.spotify.com/track/6JpUsXuPfZt2EQwrvrO7s0"
     },
     {
       "album": {
@@ -1622,6 +1712,24 @@
       "duration_ms": 218666,
       "name": "Sand in Between",
       "url": "https://open.spotify.com/track/15dcUwoPG8v74XaifDA4mU"
+    },
+    {
+      "album": {
+        "name": "Sanded Glass",
+        "url": "https://open.spotify.com/album/228CZxYmW6uE43T7pKJ8HO"
+      },
+      "artists": [
+        {
+          "name": "Ozonezzz",
+          "url": "https://open.spotify.com/artist/3D4ZyZNY4vP7YHF9CtWQzZ"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Sanded Glass",
+      "url": "https://open.spotify.com/track/5orwTZn7kEtg9tHygGTKq0"
     },
     {
       "album": {
@@ -1978,7 +2086,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-18",
+      "date_removed": null,
       "duration_ms": 182500,
       "name": "Temple of Wisdom",
       "url": "https://open.spotify.com/track/422zAkZWnFYsYBKBEz4ETV"
@@ -2266,7 +2374,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 720446,
       "name": "Tibetan Gong and Singing Bowls",
       "url": "https://open.spotify.com/track/5qvn4keL08R5R3WWwaiO7t"
@@ -2544,6 +2652,24 @@
       "duration_ms": 123000,
       "name": "Velvet Resonance",
       "url": "https://open.spotify.com/track/0Wfj0rK53SV7tKTxAH0Vr8"
+    },
+    {
+      "album": {
+        "name": "White Lotus",
+        "url": "https://open.spotify.com/album/2yz0JxEDeIMPvSgkdMAOfV"
+      },
+      "artists": [
+        {
+          "name": "Soeren Zen",
+          "url": "https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "White Lotus",
+      "url": "https://open.spotify.com/track/3wvqcMZk4pt670GAgPopSW"
     },
     {
       "album": {

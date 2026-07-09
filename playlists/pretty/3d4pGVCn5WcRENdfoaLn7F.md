@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 769 likes - 79 songs - 4 hr 40 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 770 likes - 80 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,5 +87,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 77 | [Ghost in the Machine](https://open.spotify.com/track/4FpzYZW8n0ACFuqPbgYVHY) | [Dan Folland](https://open.spotify.com/artist/0LCVaqmDMsBXKbN8JINKFu) | [Ghost in the Machine](https://open.spotify.com/album/4odVoAJovnpjem0S5Fx0Oy) | 3:10 |
 | 78 | [Genie](https://open.spotify.com/track/00bniyPFNFRkEyER0dQX0m) | [Bit Commander](https://open.spotify.com/artist/53aISfz35xV7ZbrD9vQBPF) | [Feral Child](https://open.spotify.com/album/1BNemdbTYPHl5gPVQJMwWq) | 6:55 |
 | 79 | [With You](https://open.spotify.com/track/7LLHGsm4xICcdq84TIYvF4) | [TS Chris](https://open.spotify.com/artist/57Ui8J7CkhuIdZELypG3Vv) | [With You](https://open.spotify.com/album/0PKRfRbbVawBDRcjGKtJeH) | 3:35 |
+| 80 | [Space and Time](https://open.spotify.com/track/64BHgShtqVoY2OUoKBy13L) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [Space and Time](https://open.spotify.com/album/4KQzRcZuLBQxYPdVnz0eNc) | 3:19 |
 
-Snapshot ID: `AAADyCzhpm1/E2hru2unr3mUiBslYHAs`
+Snapshot ID: `AAADyVIHrTZKy80bTeQEFcEOLU/MXLUQ`

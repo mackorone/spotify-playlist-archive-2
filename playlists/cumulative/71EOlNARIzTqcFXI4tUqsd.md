@@ -4,7 +4,7 @@
 
 > A playlist for yoga, mindfulness and meditation.
 
-102 songs - 6 hr 42 min
+103 songs - 6 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [January 26th](https://open.spotify.com/track/06VfmH6xRmMAhIvY5hB4WP) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Nothing Ends, Everything Changes](https://open.spotify.com/album/4VNycKRnfAbOLqRuu2TqRV) | 3:04 | 2026-01-07 |  |
 | [Joshua Tree](https://open.spotify.com/track/2lhwDrrTEQFiuveT3D2goS) | [Rolig](https://open.spotify.com/artist/2ixZdtBEVIZUWLsoPvDQMz) | [Joshua Tree](https://open.spotify.com/album/0QOvM8uZd9MukqMjJZZqaw) | 2:37 | 2024-04-16 | 2024-08-14 |
 | [Juno Reactor](https://open.spotify.com/track/0aIptyh2BHzzKwTSiSemew) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 1:44 | 2023-10-10 | 2024-04-17 |
+| [Just Sine Waves](https://open.spotify.com/track/7J8NbJZXIbR3JLOUk5BITV) | [Martin Roth](https://open.spotify.com/artist/4LoSbPey3kklzX5f2KEks1) | [Mono No Aware](https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx) | 2:46 | 2026-07-08 |  |
 | [Kill All Ghosts \(すべての幽霊を殺す\)](https://open.spotify.com/track/0bEswrKVVnRSw8WyTBAKps) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Jōhatsu \(蒸発\)](https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV) | 6:15 | 2023-10-10 | 2024-04-17 |
 | [Kintsugi](https://open.spotify.com/track/3HZdQS6zV60urA6XVKpUYW) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG) | [Kintsugi](https://open.spotify.com/album/66k1sZw4tEWuHnDUeNSGvk) | 3:31 | 2024-08-13 | 2026-01-15 |
 | [Let Go](https://open.spotify.com/track/6gFlO57tmkAAHPR0UnDLXI) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Albadas \(Dawn Songs\)](https://open.spotify.com/album/1pY3KKSEQZCBSp6PSdaJ5z) | 5:11 | 2026-01-07 |  |
@@ -105,7 +106,7 @@
 | [tides](https://open.spotify.com/track/1CSUy5CyCyJztKpjoXJ4lt) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [a liturgy for grief](https://open.spotify.com/album/3NJ6tjPObrYxycf1iQOGGl) | 8:29 | 2026-01-07 |  |
 | [Time Heals](https://open.spotify.com/track/5x5XRcyeeJvP1HdGlpKL6q) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe) | [Morning In Deira / Time Heals](https://open.spotify.com/album/6dG2goWXJqxCsdPWSOEYtM) | 4:57 | 2023-10-10 | 2026-01-15 |
 | [Untitled 01](https://open.spotify.com/track/5zgjlfBXPCDn6wrNPUz5Lq) | [Jessie Marcella](https://open.spotify.com/artist/6BWY7ghwnw3YP1Mx21PJfb) | [Untitled](https://open.spotify.com/album/54VzJAmxKc0dFi0mbf31jW) | 4:37 | 2023-10-10 | 2024-04-17 |
-| [Varkala](https://open.spotify.com/track/0KFjTOGE68i5iz0IMVKJR4) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Portraits](https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1) | 3:24 | 2026-01-07 |  |
+| [Varkala](https://open.spotify.com/track/0KFjTOGE68i5iz0IMVKJR4) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Portraits](https://open.spotify.com/album/4nNZ5UJCzhlfJbip0SDLI1) | 3:24 | 2026-01-07 | 2026-07-09 |
 | [Walking Slowly](https://open.spotify.com/track/4QfThX01mnb2LsjieJ2qdh) | [Maty Owl](https://open.spotify.com/artist/1CoaTV8EqidFgYH8CDsfAu) | [Reflections 08](https://open.spotify.com/album/1zqFJVChSlNuzvV0Zz4bIo) | 4:31 | 2026-01-07 |  |
 | [where do we go from here?](https://open.spotify.com/track/3SdWY5olOJEGX9HgFfxQAV) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [a liturgy for grief](https://open.spotify.com/album/3NJ6tjPObrYxycf1iQOGGl) | 4:36 | 2026-01-07 |  |
 | [Wild Pine](https://open.spotify.com/track/2RFn3rGMxHIluH89oa1O0Z) | [Turtle](https://open.spotify.com/artist/6iWZrWmdQnRn2fpjAmrbc2) | [Potential EP](https://open.spotify.com/album/5sOXGKshInDELSldm7D7Vx) | 5:03 | 2026-01-07 |  |

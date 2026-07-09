@@ -4,7 +4,7 @@
 
 > Cannelle new mixtape = inspiring ✨
 
-2,696 songs - 5 day 3 hr 27 min
+2,697 songs - 5 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [breathe \~\_\~](https://open.spotify.com/track/3fjr07n0jCIeWmD8qvB03e) | [Deko](https://open.spotify.com/artist/6KAgrAiCdJPDucMqR1kvMn) | [breathe \~\_\~](https://open.spotify.com/album/6gUZt2h1YtyPms3Miyv2Ji) | 3:23 | 2023-07-14 | 2024-01-23 |
 | [Breathe2 \(In/Out\)](https://open.spotify.com/track/2l23a7vz3DoR9vYPxSMuRT) | [Fax Gang](https://open.spotify.com/artist/2QX6NMloD3kcn9vBijOM9r) | [FxG3000](https://open.spotify.com/album/19a30ZVmI1CeBsrR6MfWpX) | 3:02 | 2021-02-26 | 2021-07-17 |
 | [Breathless](https://open.spotify.com/track/179YXh5spiRaUDJihittPG) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Breathless](https://open.spotify.com/album/63hYfwhXFIKNfVPunKy5de) | 3:02 | 2021-01-08 | 2021-02-10 |
+| [Bridgerton](https://open.spotify.com/track/4RKtDDOYsm6864QgAziwdW) | [gloss\*](https://open.spotify.com/artist/2VU7LWcdl4rXJZpS4tQZUI) | [Bridgerton](https://open.spotify.com/album/1Ok9MkN9HydNOM0RIt0LfA) | 1:57 | 2026-07-08 |  |
 | [BRING U HOME](https://open.spotify.com/track/1qHVWLvSusj5al6vcNEjrw) | [Tony Velour](https://open.spotify.com/artist/3L3hYQlhb5k9XCCrRWavNi) | [KYOT](https://open.spotify.com/album/5MTOfMHOzuure68VB0VXcV) | 2:00 | 2021-09-04 | 2021-09-11 |
 | [Britpop](https://open.spotify.com/track/4szX2NPDe0vhoCGwO4g9cw) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Britpop](https://open.spotify.com/album/08ZUb3IpVYrHbkWFhMNXO9) | 3:22 | 2024-02-23 | 2025-07-12 |
 | [Broke Nobody](https://open.spotify.com/track/4nYOh3kozGbtxwTEsBiMax) | [RYL0](https://open.spotify.com/artist/4LwTWGYy9UJ1WYVkniVnSh) | [Broke Nobody](https://open.spotify.com/album/3uWdXNERsJeNI7HfWi28Ko) | 1:52 | 2022-03-11 | 2022-04-29 |
@@ -1907,7 +1908,7 @@
 | [prone2leave](https://open.spotify.com/track/7MT7P3vYraNsvVsXTkaE3b) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Voda Fuji](https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO) | [prone2leave](https://open.spotify.com/album/0F7C8WV3T2RJR9jRW1dIph) | 2:20 | 2022-09-16 | 2022-12-03 |
 | [Prosperity \- Vapour World Cup Edit](https://open.spotify.com/track/5ZHghq40sfDH5zq46TTw08) | [Laces](https://open.spotify.com/artist/2OvUjjcJMGyNzBfdx2DRzr), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Field Fallacy Haptics](https://open.spotify.com/album/74FgZlXk9meROtgxWvetKf) | 5:17 | 2021-12-10 | 2022-02-26 |
 | [PROTECTION CHARM](https://open.spotify.com/track/5TTQ10ijO4jwCOfeCxmBmm) | [Miguel Angeles](https://open.spotify.com/artist/14xRX3JR8H4RWh8R7V3fvZ) | [PROTECTION CHARM](https://open.spotify.com/album/72s2UUBqry4E113Txcp5o8) | 2:57 | 2023-08-05 | 2024-01-23 |
-| [prototype](https://open.spotify.com/track/7qgqbZW6SeqV1iEYTRP4nS) | [pnkdrco](https://open.spotify.com/artist/54ui5N3fVlyC2imsAakAhI) | [prototype](https://open.spotify.com/album/0xRNPryFtPD67496idfDsO) | 1:39 | 2026-02-27 |  |
+| [prototype](https://open.spotify.com/track/7qgqbZW6SeqV1iEYTRP4nS) | [pnkdrco](https://open.spotify.com/artist/54ui5N3fVlyC2imsAakAhI) | [prototype](https://open.spotify.com/album/0xRNPryFtPD67496idfDsO) | 1:39 | 2026-02-27 | 2026-07-09 |
 | [Provoke](https://open.spotify.com/track/4iavZgtXD0wIUEM9yGYzzt) | [Rony Rex](https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4), [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Provoke](https://open.spotify.com/album/7Apri4bZsKuqkOGQHk1moN) | 3:08 | 2025-01-31 | 2025-04-05 |
 | [PRTY 4 U :\)](https://open.spotify.com/track/4nCsd9bkLsQc6MIapeCBNz) | [Kidd Kleto](https://open.spotify.com/artist/0HIrqtxwmnvX2ySgodpk0m) | [PRTY 4 U :\)](https://open.spotify.com/album/6HXTja1soebjzTKumKemcU) | 2:19 | 2026-03-06 | 2026-05-30 |
 | [psilocybin](https://open.spotify.com/track/1ufK3rzM9TLcsazLdjGAo8) | [YKARE](https://open.spotify.com/artist/1p9c4UC7cX15y830hNHwm1) | [psilocybin](https://open.spotify.com/album/5hSodnbW0dNip592kJal4Y) | 2:08 | 2022-02-25 | 2022-04-29 |

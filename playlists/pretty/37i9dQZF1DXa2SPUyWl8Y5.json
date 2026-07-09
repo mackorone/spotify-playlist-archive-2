@@ -1,6 +1,6 @@
 {
   "description": "Focus with melodic house and techno. ",
-  "num_followers": 563482,
+  "num_followers": 563512,
   "original_name": "Beats to think to",
   "owner": {
     "name": "Spotify",
@@ -479,26 +479,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Sora",
-        "url": "https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0"
-      },
-      "artists": [
-        {
-          "name": "Milkwish",
-          "url": "https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv"
-        },
-        {
-          "name": "9hearts",
-          "url": "https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt"
-        }
-      ],
-      "duration_ms": 212849,
-      "name": "Sora",
-      "url": "https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/0SERodr4s71gsU2o2RcaSK"
       },
@@ -511,22 +491,6 @@
       "duration_ms": 424979,
       "name": "Unlocked",
       "url": "https://open.spotify.com/track/6NTfiYHgosu8B6MbxRBos0"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
-        "name": "If I Had Wings",
-        "url": "https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1"
-      },
-      "artists": [
-        {
-          "name": "Rauschhaus",
-          "url": "https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM"
-        }
-      ],
-      "duration_ms": 420495,
-      "name": "If I Had Wings",
-      "url": "https://open.spotify.com/track/5YTUltabO6pDPCgKzeAW4a"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -547,6 +511,42 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
+        "name": "If I Had Wings",
+        "url": "https://open.spotify.com/album/0AeYEvKHcxgucVkxRouCw1"
+      },
+      "artists": [
+        {
+          "name": "Rauschhaus",
+          "url": "https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM"
+        }
+      ],
+      "duration_ms": 420495,
+      "name": "If I Had Wings",
+      "url": "https://open.spotify.com/track/5YTUltabO6pDPCgKzeAW4a"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Sora",
+        "url": "https://open.spotify.com/album/0WVXdvpEOtiBEzyWbIlDl0"
+      },
+      "artists": [
+        {
+          "name": "Milkwish",
+          "url": "https://open.spotify.com/artist/1O50w1bZK5APgtWSD0qVjv"
+        },
+        {
+          "name": "9hearts",
+          "url": "https://open.spotify.com/artist/3LfTqHNimpgLkeuctIGETt"
+        }
+      ],
+      "duration_ms": 212849,
+      "name": "Sora",
+      "url": "https://open.spotify.com/track/4IeAeBQdLlP8wTyp4wbWx5"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
         "name": "Dea Dia",
         "url": "https://open.spotify.com/album/4QDxcrGyxeezJAwhkWX4xh"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 530979,
       "name": "Dea Dia",
       "url": "https://open.spotify.com/track/3Leam9heF8QlhoRd8u3i3s"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
-        "name": "Planet Earth | March of the Giants",
-        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
-      },
-      "artists": [
-        {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
-        }
-      ],
-      "duration_ms": 457080,
-      "name": "March of the giants",
-      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -607,6 +591,22 @@
       "duration_ms": 249000,
       "name": "Wadi Dana",
       "url": "https://open.spotify.com/track/6Fv8RI7hYPvddWOcsTs2HW"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Planet Earth | March of the Giants",
+        "url": "https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "duration_ms": 457080,
+      "name": "March of the giants",
+      "url": "https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Pulses",
-        "url": "https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        }
-      ],
-      "duration_ms": 364810,
-      "name": "Pulses",
-      "url": "https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Thrust",
         "url": "https://open.spotify.com/album/6EGqaNxFIlbeC27cLcNtVM"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Lu | Sal Amander | Tesseract",
-        "url": "https://open.spotify.com/album/6ONMieARnYppdv9PZJ5ugm"
+        "name": "Pulses",
+        "url": "https://open.spotify.com/album/3aMIEUER4eu1mukTRb766f"
       },
       "artists": [
         {
-          "name": "Nors Kode",
-          "url": "https://open.spotify.com/artist/4YBFnWJNrVZoUU6U30LaLY"
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
         }
       ],
-      "duration_ms": 397377,
-      "name": "Tesseract",
-      "url": "https://open.spotify.com/track/5qn2rZD76ZBusD5WqMtVOM"
+      "duration_ms": 364810,
+      "name": "Pulses",
+      "url": "https://open.spotify.com/track/6QC45Bx01nZVaurY7rpF9p"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -875,6 +859,22 @@
       "duration_ms": 444816,
       "name": "Cliff - Einmusik Remix",
       "url": "https://open.spotify.com/track/27hMse6DWTePfwtnoUtsvr"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Lu | Sal Amander | Tesseract",
+        "url": "https://open.spotify.com/album/6ONMieARnYppdv9PZJ5ugm"
+      },
+      "artists": [
+        {
+          "name": "Nors Kode",
+          "url": "https://open.spotify.com/artist/4YBFnWJNrVZoUU6U30LaLY"
+        }
+      ],
+      "duration_ms": 397377,
+      "name": "Tesseract",
+      "url": "https://open.spotify.com/track/5qn2rZD76ZBusD5WqMtVOM"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "End of Line",
-        "url": "https://open.spotify.com/album/1oCc3IUr6zHLkVKwHaRcA3"
-      },
-      "artists": [
-        {
-          "name": "oddchapters",
-          "url": "https://open.spotify.com/artist/4C8soU4HEDg17qfkfVyEPc"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "End of Line",
-      "url": "https://open.spotify.com/track/4zOmTlimKLOZ7a5p57ADoB"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "After Dark",
         "url": "https://open.spotify.com/album/2Z4AECuC9nl6nA3V5XMWDm"
       },
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
+        "name": "End of Line",
+        "url": "https://open.spotify.com/album/1oCc3IUr6zHLkVKwHaRcA3"
       },
       "artists": [
         {
-          "name": "Moonwalk",
-          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
+          "name": "oddchapters",
+          "url": "https://open.spotify.com/artist/4C8soU4HEDg17qfkfVyEPc"
         }
       ],
-      "duration_ms": 269153,
-      "name": "Rapture",
-      "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
+      "duration_ms": 240000,
+      "name": "End of Line",
+      "url": "https://open.spotify.com/track/4zOmTlimKLOZ7a5p57ADoB"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1075,22 +1059,18 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w"
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/7etJjUMyK9hUkIGcp9hxN5"
       },
       "artists": [
         {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
-        },
-        {
-          "name": "Galexis",
-          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+          "name": "Moonwalk",
+          "url": "https://open.spotify.com/artist/1khyIydqanugacJyKdmceT"
         }
       ],
-      "duration_ms": 192016,
-      "name": "Lunar",
-      "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
+      "duration_ms": 269153,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/1PjFPRW9tBjjNUrUy7hX2T"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1111,6 +1091,26 @@
       "duration_ms": 382486,
       "name": "Hailstorm - Ann Clue Remix",
       "url": "https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w"
+      },
+      "artists": [
+        {
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+        },
+        {
+          "name": "Galexis",
+          "url": "https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h"
+        }
+      ],
+      "duration_ms": 192016,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG"
     },
     {
       "added_at": "2026-06-11 06:56:41",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-06-11 06:56:41",
       "album": {
-        "name": "Mars Express",
-        "url": "https://open.spotify.com/album/3XFsr5IXqQh3n7tg8nzP9d"
-      },
-      "artists": [
-        {
-          "name": "Coeus",
-          "url": "https://open.spotify.com/artist/7yibHBJHi3LZD0uvWAdyya"
-        }
-      ],
-      "duration_ms": 411178,
-      "name": "Mars Express",
-      "url": "https://open.spotify.com/track/6pLId3BTsBZO9uec6j6fe6"
-    },
-    {
-      "added_at": "2026-06-11 06:56:41",
-      "album": {
         "name": "Barturator",
         "url": "https://open.spotify.com/album/6lhMnxfO8Hs0pJJRPSnY7e"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 394775,
       "name": "Barturator",
       "url": "https://open.spotify.com/track/3dNVyzZi3RdVd0wBBEvUX3"
+    },
+    {
+      "added_at": "2026-06-11 06:56:41",
+      "album": {
+        "name": "Mars Express",
+        "url": "https://open.spotify.com/album/3XFsr5IXqQh3n7tg8nzP9d"
+      },
+      "artists": [
+        {
+          "name": "Coeus",
+          "url": "https://open.spotify.com/artist/7yibHBJHi3LZD0uvWAdyya"
+        }
+      ],
+      "duration_ms": 411178,
+      "name": "Mars Express",
+      "url": "https://open.spotify.com/track/6pLId3BTsBZO9uec6j6fe6"
     }
   ],
   "unique_name": "Beats to think to",

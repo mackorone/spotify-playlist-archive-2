@@ -2910,7 +2910,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 188571,
       "name": "CIRCLES",
       "url": "https://open.spotify.com/track/4DOUmbni3qj9A71DtXvsXS"
@@ -5186,6 +5186,24 @@
       "duration_ms": 270000,
       "name": "Fatal Attraction (feat. Reese LAFLARE)",
       "url": "https://open.spotify.com/track/6hJrZxgi6Cld2vIs3zgqRr"
+    },
+    {
+      "album": {
+        "name": "FEAR",
+        "url": "https://open.spotify.com/album/7eSlYvS41yQ0OW767FJSHN"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178500,
+      "name": "FEAR",
+      "url": "https://open.spotify.com/track/4baB7bmvoAs6FV81d2TAua"
     },
     {
       "album": {
@@ -11165,6 +11183,24 @@
     },
     {
       "album": {
+        "name": "MMOOTTIIFF",
+        "url": "https://open.spotify.com/album/5IGczoIayptBipXS3E7VEh"
+      },
+      "artists": [
+        {
+          "name": "Hgods",
+          "url": "https://open.spotify.com/artist/1mrXo5fhYhx3gEiLjbOtYA"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174462,
+      "name": "MMOOTTIIFF",
+      "url": "https://open.spotify.com/track/5Jlbugt779cmMdBPcgGxAo"
+    },
+    {
+      "album": {
         "name": "MONEY COUNT",
         "url": "https://open.spotify.com/album/0VF6mFQLk9YHlm4LYCM4tA"
       },
@@ -13154,7 +13190,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 144545,
       "name": "POWER",
       "url": "https://open.spotify.com/track/0P5KTcGLQludTZtkKoUOjK"
@@ -14816,6 +14852,28 @@
       "duration_ms": 193333,
       "name": "Shift",
       "url": "https://open.spotify.com/track/35ULphTQT2VBrDoO0cbAiO"
+    },
+    {
+      "album": {
+        "name": "SHOOT 2 KILL",
+        "url": "https://open.spotify.com/album/2h26ISASnahkhpEHzHQ8tz"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        },
+        {
+          "name": "Control Freak",
+          "url": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122400,
+      "name": "SHOOT 2 KILL",
+      "url": "https://open.spotify.com/track/7k5JqvfMRikQwzyn5tyq0g"
     },
     {
       "album": {
@@ -17039,6 +17097,32 @@
     },
     {
       "album": {
+        "name": "Throw Ya Body",
+        "url": "https://open.spotify.com/album/4TADJ1eEDYHdmMfUN9fWwg"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Tej",
+          "url": "https://open.spotify.com/artist/23wNcGsGxFCpKLs1KoLiHL"
+        },
+        {
+          "name": "Avani Satra",
+          "url": "https://open.spotify.com/artist/0jSQsnwKwjMY1x4xqDZ6Vp"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Throw Ya Body",
+      "url": "https://open.spotify.com/track/5f3KMJbhhUJl1S3deq0P6C"
+    },
+    {
+      "album": {
         "name": "THROW YA HANDZ UP",
         "url": "https://open.spotify.com/album/3et5xwM5e2Mjm6qTHXuk2h"
       },
@@ -18004,7 +18088,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 238344,
       "name": "UH OH!",
       "url": "https://open.spotify.com/track/4hd3nmmHJ53ztZllQG6CQl"
@@ -19150,7 +19234,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 153600,
       "name": "Work",
       "url": "https://open.spotify.com/track/2jrLfQLB3WUpaM9mDqGHp7"

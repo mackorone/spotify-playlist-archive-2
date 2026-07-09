@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries 💐 cover: sombr
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,658 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,641 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 84 | [SPLINTER](https://open.spotify.com/track/3jjIOrKthJeLRtjwTKROfj) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [Splinter](https://open.spotify.com/album/7n9d1Se8KSPWQUjED4hkOB) | 2:53 |
 | 85 | [WHERE’S THE FUN?](https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [WHERE’S THE FUN?](https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl) | 3:25 |
 | 86 | [kiss goodbye](https://open.spotify.com/track/2fv6il8oAlsoOP7sKohscF) | [The Two Lips](https://open.spotify.com/artist/0jtiZkDcuWRf647co8id50) | [kiss goodbye / brb](https://open.spotify.com/album/45omOM9b7ujbjudttnasFa) | 2:43 |
-| 87 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [Daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
+| 87 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
 | 88 | [Circles](https://open.spotify.com/track/1Y564qo4Kb0LvGnbTqKbk7) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Circles](https://open.spotify.com/album/67FCh7PYKRuKlp8TrjK7Zu) | 2:35 |
 | 89 | [june](https://open.spotify.com/track/4Xapw9FuPoxd4SWobsfgMA) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E) | [GOOD GOOD JUJU](https://open.spotify.com/album/41dS4BOeE4FevIShpb2dEf) | 3:44 |
 | 90 | [BACKWARDS, INTO U](https://open.spotify.com/track/7cUQQ8eWY2RBBnU4N3DaG7) | [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [The Elephant](https://open.spotify.com/album/1fML3Ns0a3fXw8A4Y7CPiK) | 3:28 |

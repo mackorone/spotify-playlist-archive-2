@@ -4,7 +4,7 @@
 
 > Music from "GHOST IN THE SHELL SAC\_2045" and "ARISE" series has arrived! ©S,IG/K/2045
 
-60 songs - 4 hr 29 min
+61 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Floating Ghost](https://open.spotify.com/track/6YxbVTZ3d2O5vWYbIdPGuE) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [攻殻機動隊 新劇場版　O.S.T\. by Cornelius](https://open.spotify.com/album/759xhNhcphGIW8Mna5hjri) | 1:05 | 2022-05-31 |  |
 | [be human](https://open.spotify.com/track/1lwtSexMnKboIrzybcBbCJ) | [Scott Matthew](https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu) | [「攻殻機動隊 STAND ALONE COMPLEX　be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 4:02 | 2022-05-31 |  |
 | [beauty is within us](https://open.spotify.com/track/20G3Nje2MGXnSPt0J6kHW0) | [Scott Matthew](https://open.spotify.com/artist/18Xy9oGF9CxiU9luAp3Dzu) | [攻殻機動隊 STAND ALONE COMPLEX　O.S.T.＋](https://open.spotify.com/album/2xwzJG5kuUOIuyEf6u3OXQ) | 6:05 | 2022-05-31 |  |
+| [Blue](https://open.spotify.com/track/3T7vWvqWxZJnx9i5Az5rX4) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Daiki Tsuneta](https://open.spotify.com/artist/0TYEbkgBxLZsYDvRIsyJ2Z) | [Blue](https://open.spotify.com/album/4iOj6nJVkB4K9nbfLFIHC0) | 2:36 | 2026-07-08 |  |
 | [Christmas in the Silent Forest](https://open.spotify.com/track/478Axf2lmFeyjw3ciJRbaE) | [Ilaria Graziano](https://open.spotify.com/artist/57WViMLL9KfooFkVKsyODr) | [攻殻機動隊 STAND ALONE COMPLEX　O.S.T.3](https://open.spotify.com/album/6LV6Mk6uHLvj4lKfYPjtsI) | 6:53 | 2022-05-31 |  |
 | [cream](https://open.spotify.com/track/5pYLwimdCjpr1z4eQWdyo0) | [hide](https://open.spotify.com/artist/62ronp2f2shNZB1VIbqxmP) | [「攻殻機動隊 STAND ALONE COMPLEX　be Human」](https://open.spotify.com/album/4yXX0zQxFl88hAV7FauBZ7) | 3:52 | 2022-05-31 |  |
 | [date of rebirth](https://open.spotify.com/track/4LBKlv464rlTBikNZyAaa3) | [Origa](https://open.spotify.com/artist/08pXfHf1e4hLeDz1BgmOqL) | [攻殻機動隊 S.A.C\. Solid State Society　O.S.T.](https://open.spotify.com/album/4FLVYdG4mlaydxbg9ItTyH) | 4:37 | 2022-05-31 |  |

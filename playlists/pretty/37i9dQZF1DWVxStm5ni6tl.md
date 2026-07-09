@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > The best new music by independent artists and labels in Canada\. Updates every month\. Cover: La Sécurité, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,832 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,866 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 39 | [some day](https://open.spotify.com/track/3W94lBE5hjft5X7mENZpZB) | [fangs](https://open.spotify.com/artist/4hMzLL80aF5I6obBe0FXKW) | [some day](https://open.spotify.com/album/0pGFx7j1ibIlDO7R9QdsXL) | 1:42 |
 | 40 | [2FOR2](https://open.spotify.com/track/4qFoQapmleDg1uvpzU1szp) | [Boyscoutsam](https://open.spotify.com/artist/6mzQSW98vK1vHNearVSG0c) | [2FOR2](https://open.spotify.com/album/1FSnAqoMJQz3MuW61gKem9) | 2:09 |
 
-Snapshot ID: `AAAAAHQBBYYZwPr7sZQaEpSEadcInXW9`
+Snapshot ID: `AAAAAHdG4Lqru5uAqaX04JsFpZ+6vTOK`

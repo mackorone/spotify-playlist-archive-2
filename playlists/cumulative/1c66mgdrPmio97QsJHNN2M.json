@@ -4025,6 +4025,24 @@
     },
     {
       "album": {
+        "name": "Between",
+        "url": "https://open.spotify.com/album/1hZFpaYgnkiruyD7F7QZU7"
+      },
+      "artists": [
+        {
+          "name": "Ekpra",
+          "url": "https://open.spotify.com/artist/6MgbENVCXXFMF0GxKTmsXJ"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174520,
+      "name": "Between",
+      "url": "https://open.spotify.com/track/7zrX3nVb3W2G5z0TsKrZHq"
+    },
+    {
+      "album": {
         "name": "Between Here",
         "url": "https://open.spotify.com/album/0o2qM4IuMQzr3EIJVvTHWh"
       },
@@ -13921,6 +13939,24 @@
     },
     {
       "album": {
+        "name": "gemini",
+        "url": "https://open.spotify.com/album/2HJwH1aWgR7NDyuNBclRa6"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Kesha",
+          "url": "https://open.spotify.com/artist/44zwgdFZrTPIkwWwS1w14x"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174800,
+      "name": "gemini",
+      "url": "https://open.spotify.com/track/1pOSnAUXC8fs7GleW9KWY6"
+    },
+    {
+      "album": {
         "name": "GeNa$",
         "url": "https://open.spotify.com/album/0X22DAfbdjE3apU1JkQEvV"
       },
@@ -17347,6 +17383,24 @@
     },
     {
       "album": {
+        "name": "I Just Wanna Sleep",
+        "url": "https://open.spotify.com/album/7C1xQ22rdHDeVHIuEujTI9"
+      },
+      "artists": [
+        {
+          "name": "myrtia",
+          "url": "https://open.spotify.com/artist/4snVfrqMghFCKtboUSTKRZ"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151486,
+      "name": "I Just Wanna Sleep",
+      "url": "https://open.spotify.com/track/3JoRWWJEVx1eu3QWs1n0zd"
+    },
+    {
+      "album": {
         "name": "I killed a man",
         "url": "https://open.spotify.com/album/3emeU6vy3K8dkX3UNwAaCQ"
       },
@@ -19396,6 +19450,24 @@
       "duration_ms": 196000,
       "name": "it might be us",
       "url": "https://open.spotify.com/track/0QUCU84wlF3aNyqqEvtIeg"
+    },
+    {
+      "album": {
+        "name": "It Was All About You",
+        "url": "https://open.spotify.com/album/0YPUpX3qmLHv0nl4BQxogN"
+      },
+      "artists": [
+        {
+          "name": "Daria V",
+          "url": "https://open.spotify.com/artist/3Pix8TB0qVGkAU1QV5sDtc"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131506,
+      "name": "It Was All About You",
+      "url": "https://open.spotify.com/track/3rrkYug9KGJKZKa3UdcXkC"
     },
     {
       "album": {
@@ -21840,6 +21912,24 @@
       "duration_ms": 198984,
       "name": "Lock Me Up",
       "url": "https://open.spotify.com/track/4UfT9GlFI4meqGpbvqQq0B"
+    },
+    {
+      "album": {
+        "name": "LOL",
+        "url": "https://open.spotify.com/album/180L1X5mnrkXMMLeEXctHN"
+      },
+      "artists": [
+        {
+          "name": "Elijah Hues",
+          "url": "https://open.spotify.com/artist/3UQTDqiD4uvwcWKsStIL70"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "LOL",
+      "url": "https://open.spotify.com/track/642CFTUCHffTtyWgYC3aIp"
     },
     {
       "album": {
@@ -35803,6 +35893,28 @@
     },
     {
       "album": {
+        "name": "Sunshine on Shuffle",
+        "url": "https://open.spotify.com/album/3ckB6z6hJJfk6LYSpkQCxC"
+      },
+      "artists": [
+        {
+          "name": "Funk Lazarus",
+          "url": "https://open.spotify.com/artist/27Lj5gvLs9RK7jYpd3q5Cf"
+        },
+        {
+          "name": "A Tilt Of Hi-Tec",
+          "url": "https://open.spotify.com/artist/6oy5xIx0Eh4di1gIpyLnxe"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "Sunshine on Shuffle",
+      "url": "https://open.spotify.com/track/2lOou5IE0L747sqPgSs9f3"
+    },
+    {
+      "album": {
         "name": "Superfly",
         "url": "https://open.spotify.com/album/2cX9hw9umugLYbkqcRk2bY"
       },
@@ -42566,6 +42678,24 @@
       "duration_ms": 128562,
       "name": "WHY - Remastered 2025",
       "url": "https://open.spotify.com/track/2VOn1dLZ5PTGPreHj2YKlJ"
+    },
+    {
+      "album": {
+        "name": "Why Am I The Only One?",
+        "url": "https://open.spotify.com/album/0Q9DizlKs33u43W6IVb6UQ"
+      },
+      "artists": [
+        {
+          "name": "Vane",
+          "url": "https://open.spotify.com/artist/574EpCX5szDnIiCiyntBAO"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164025,
+      "name": "Why Am I The Only One?",
+      "url": "https://open.spotify.com/track/2fTPAtI8PCXX1Gu2Ig4ijB"
     },
     {
       "album": {

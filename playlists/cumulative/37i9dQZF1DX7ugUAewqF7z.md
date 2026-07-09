@@ -4,7 +4,7 @@
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-253 songs - 15 hr 41 min
+253 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Dancing in the Moonlight](https://open.spotify.com/track/3Fzlg5r1IjhLk2qRw667od) | [Toploader](https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV) | [Onka's Big Moka](https://open.spotify.com/album/2ww2PXKiHk7rNv26rjVJ5z) | 3:52 | 2023-11-02 |  |
 | [Dear\. My Fool \(WEBTOON 'Discovery of Love' X Lee Seok Hoon\)](https://open.spotify.com/track/2nWmHvBuS5ukeu3ozEy9WC) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [Dear\. My Fool \(WEBTOON 'Discovery of Love' X Lee Seok Hoon\)](https://open.spotify.com/album/5S7p6IEM04HzSyOVjl3kuu) | 3:48 | 2023-09-22 |  |
 | [Dear…](https://open.spotify.com/track/0k3BY0tiOzCNSdwocghPLY) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [Dear･･･/MAYBE](https://open.spotify.com/album/670w56ceu0ypcmwlv759PV) | 5:30 | 2024-05-24 |  |
-| [Don't Stop Me Now](https://open.spotify.com/track/0DrDcqWpokMlhKYJSwoT4B) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Discover More Classic Rock](https://open.spotify.com/album/6HRfL00lkjpQoGirvWhj4q) | 3:29 | 2024-03-08 |  |
+| [Don't Stop Me Now](https://open.spotify.com/track/0DrDcqWpokMlhKYJSwoT4B) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Discover More Classic Rock](https://open.spotify.com/album/6HRfL00lkjpQoGirvWhj4q) | 3:18 | 2024-03-08 |  |
 | [double take](https://open.spotify.com/track/47isJpIIO8m7BJEhiFhnaf) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/27CpJBNdYYtW84EQjBHS6q) | 2:51 | 2024-02-20 |  |
 | [Dream](https://open.spotify.com/track/3JBnDOUd18QKjDqSYuOfpm) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Dream](https://open.spotify.com/album/7ciJtZ2tYXhKsndQ7bf7Vw) | 3:42 | 2023-06-15 |  |
 | [Driftveil City \- Pokémon / Toothless \(Marimba Ringtone\)](https://open.spotify.com/track/6VeCDGaplgrcDsYPA60OZz) | [Anime Ringtones](https://open.spotify.com/artist/01Z7AZDZJ2eQ3SsqsMxaD4), [Anytunz](https://open.spotify.com/artist/5jU2u795EXJPxtOwhDXdci) | [Driftveil City \- Pokémon / Toothless \(Marimba Ringtone\)](https://open.spotify.com/album/29bXSiihjCcZfREJGLnk2x) | 0:37 | 2024-05-17 |  |

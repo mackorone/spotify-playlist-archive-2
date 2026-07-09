@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 154307,
+  "num_followers": 154312,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,26 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
+        "name": "Sess\u00e3o Da Tarde",
+        "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
+      },
+      "artists": [
+        {
+          "name": "Voraz",
+          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
+        },
+        {
+          "name": "Julies",
+          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
+        }
+      ],
+      "duration_ms": 182784,
+      "name": "Sess\u00e3o Da Tarde",
+      "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
+    },
+    {
+      "added_at": "2026-07-02 21:47:25",
+      "album": {
         "name": "S\u00f3 Pra Brilhar",
         "url": "https://open.spotify.com/album/4dcwRYbS4okDFQiwPcEGuY"
       },
@@ -535,26 +555,6 @@
     {
       "added_at": "2026-07-02 21:47:25",
       "album": {
-        "name": "Sess\u00e3o Da Tarde",
-        "url": "https://open.spotify.com/album/46rATcn57auCSZ1CS9Sp8Y"
-      },
-      "artists": [
-        {
-          "name": "Voraz",
-          "url": "https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb"
-        },
-        {
-          "name": "Julies",
-          "url": "https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN"
-        }
-      ],
-      "duration_ms": 182784,
-      "name": "Sess\u00e3o Da Tarde",
-      "url": "https://open.spotify.com/track/0Arp4flInFKFmRrVCOfw4w"
-    },
-    {
-      "added_at": "2026-07-02 21:47:25",
-      "album": {
         "name": "Is This Love (Cover) [Ac\u00fastico]",
         "url": "https://open.spotify.com/album/1dKiVt1rzKdnjEoRHKsN8O"
       },
@@ -583,6 +583,26 @@
       "duration_ms": 335466,
       "name": "Burnin' & Lootin' - Live At Music Hall, Boston / 1978",
       "url": "https://open.spotify.com/track/0gfDevYMgqlw7hCF08Mo17"
+    },
+    {
+      "added_at": "2026-07-02 21:47:25",
+      "album": {
+        "name": "Proibiram as Flores (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4acrd7sLUexTmyeRF15QOs"
+      },
+      "artists": [
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        },
+        {
+          "name": "Eltin",
+          "url": "https://open.spotify.com/artist/0CuAjzGLgyZe7aHgVwSzSq"
+        }
+      ],
+      "duration_ms": 238687,
+      "name": "Proibiram as Flores - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6TlCniUVARBxvWoYO3nkqy"
     },
     {
       "added_at": "2026-07-02 21:47:25",
@@ -619,26 +639,6 @@
       "duration_ms": 191664,
       "name": "Solst\u00edcio de Ver\u00e3o - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0zRto7Wtn1J6cUfUQzxGlS"
-    },
-    {
-      "added_at": "2026-07-02 21:47:25",
-      "album": {
-        "name": "Proibiram as Flores (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4acrd7sLUexTmyeRF15QOs"
-      },
-      "artists": [
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        },
-        {
-          "name": "Eltin",
-          "url": "https://open.spotify.com/artist/0CuAjzGLgyZe7aHgVwSzSq"
-        }
-      ],
-      "duration_ms": 238687,
-      "name": "Proibiram as Flores - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6TlCniUVARBxvWoYO3nkqy"
     },
     {
       "added_at": "2026-07-02 21:47:25",

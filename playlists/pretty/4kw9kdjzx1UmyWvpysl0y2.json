@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 123590,
+  "num_followers": 123578,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVjH+TebmFmJce8Sfsv9nfOZ2ZV4zi",
+  "snapshot_id": "AAAVjlMklEk2LXBG5GH07chjk9zL4tIj",
   "tracks": [
+    {
+      "added_at": "2026-07-08 14:15:58",
+      "album": {
+        "name": "Over Me",
+        "url": "https://open.spotify.com/album/40PBa81Cza0VwtEJcmzcWH"
+      },
+      "artists": [
+        {
+          "name": "Fairlane",
+          "url": "https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO"
+        },
+        {
+          "name": "DJ Mii",
+          "url": "https://open.spotify.com/artist/5RqV5Ga5EPI4NlgsiELB4m"
+        },
+        {
+          "name": "Ames",
+          "url": "https://open.spotify.com/artist/4oDmrxjcmdVRXErxCTDFZA"
+        }
+      ],
+      "duration_ms": 200784,
+      "name": "Over Me",
+      "url": "https://open.spotify.com/track/7pLzZNuUp4XrMAALfO4vZq"
+    },
     {
       "added_at": "2026-07-03 14:19:27",
       "album": {

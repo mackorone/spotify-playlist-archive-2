@@ -1,6 +1,6 @@
 {
   "description": "pral\u00e9m de outfit. AURA. Foto: Brand\u00e3o85",
-  "num_followers": 149471,
+  "num_followers": 149497,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -699,8 +699,8 @@
     {
       "added_at": "2026-06-11 22:24:51",
       "album": {
-        "name": "Sozinho",
-        "url": "https://open.spotify.com/album/2ak3ZcIFaMhvCi5Bcv4IEv"
+        "name": "Aruanda",
+        "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
       },
       "artists": [
         {
@@ -708,13 +708,17 @@
           "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
         },
         {
-          "name": "Cassin",
-          "url": "https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p"
+          "name": "JECI",
+          "url": "https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
         }
       ],
-      "duration_ms": 189295,
-      "name": "Sozinho",
-      "url": "https://open.spotify.com/track/0NYvXGm4O2ZSD2LMm5D3IK"
+      "duration_ms": 200000,
+      "name": "Foco",
+      "url": "https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN"
     },
     {
       "added_at": "2026-06-11 22:24:51",
@@ -807,8 +811,8 @@
     {
       "added_at": "2026-06-11 22:24:51",
       "album": {
-        "name": "Aruanda",
-        "url": "https://open.spotify.com/album/3yAkAVR4BaXNxtSuzzXtHU"
+        "name": "Sozinho",
+        "url": "https://open.spotify.com/album/2ak3ZcIFaMhvCi5Bcv4IEv"
       },
       "artists": [
         {
@@ -816,17 +820,13 @@
           "url": "https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3"
         },
         {
-          "name": "JECI",
-          "url": "https://open.spotify.com/artist/5vqxf5Zo460bhgO0uOjKmc"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+          "name": "Cassin",
+          "url": "https://open.spotify.com/artist/7JswWkHCTMyEgHlNXOvK6p"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Foco",
-      "url": "https://open.spotify.com/track/4HZC8iPPDSyqmoOmnHlXYN"
+      "duration_ms": 189295,
+      "name": "Sozinho",
+      "url": "https://open.spotify.com/track/0NYvXGm4O2ZSD2LMm5D3IK"
     },
     {
       "added_at": "2026-06-11 22:24:51",

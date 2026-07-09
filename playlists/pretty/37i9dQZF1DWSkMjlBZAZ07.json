@@ -1,6 +1,6 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1874107,
+  "num_followers": 1874008,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Porch Light",
-        "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 262726,
-      "name": "Porch Light",
-      "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Men Amongst Mountains",
         "url": "https://open.spotify.com/album/4d40uSufPdCDGGedQGCdGn"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 274093,
       "name": "Wish I Knew You",
       "url": "https://open.spotify.com/track/2EWpa5XnAuSn0sIkSSIhYk"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 262726,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Is Joy Easy",
-        "url": "https://open.spotify.com/album/23uW61OOJRys1JRjSXhuQk"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "Is Joy Easy",
-      "url": "https://open.spotify.com/track/7M2ctqqmAlCUWE8SJHQ8Vo"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Find Your People",
         "url": "https://open.spotify.com/album/1a2RJNW9AkEtgK4Pt3hUlY"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 194093,
       "name": "Find Your People",
       "url": "https://open.spotify.com/track/6GuyIXoGIaTw1Pg6Ug9enJ"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Is Joy Easy",
+        "url": "https://open.spotify.com/album/23uW61OOJRys1JRjSXhuQk"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "Is Joy Easy",
+      "url": "https://open.spotify.com/track/7M2ctqqmAlCUWE8SJHQ8Vo"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "All My Love - Spotify Singles",
-        "url": "https://open.spotify.com/album/6iBtRKPRx4m9XGBb3uTa9a"
-      },
-      "artists": [
-        {
-          "name": "Chance Emerson",
-          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
-        }
-      ],
-      "duration_ms": 224090,
-      "name": "All My Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/5SbSfCkjzWzVYc0yKb5AlJ"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "firekid",
         "url": "https://open.spotify.com/album/6qb5fl4U5XsxZOFNHqwxxw"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "New Mythology",
-        "url": "https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw"
+        "name": "All My Love - Spotify Singles",
+        "url": "https://open.spotify.com/album/6iBtRKPRx4m9XGBb3uTa9a"
       },
       "artists": [
         {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+          "name": "Chance Emerson",
+          "url": "https://open.spotify.com/artist/2qabc8edZgoWe8DY4HIGED"
         }
       ],
-      "duration_ms": 214987,
-      "name": "Brother To You",
-      "url": "https://open.spotify.com/track/4reQP8WeF311w1sDlCBS3F"
+      "duration_ms": 224090,
+      "name": "All My Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/5SbSfCkjzWzVYc0yKb5AlJ"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -899,6 +883,22 @@
       "duration_ms": 223880,
       "name": "Five More Minutes",
       "url": "https://open.spotify.com/track/5I9K1oVuO22OehDQZnxdr2"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "New Mythology",
+        "url": "https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 214987,
+      "name": "Brother To You",
+      "url": "https://open.spotify.com/track/4reQP8WeF311w1sDlCBS3F"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 166440,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Making Do",
         "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 214150,
       "name": "Making Do",
       "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 166440,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 210346,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "My Home Is You",
         "url": "https://open.spotify.com/album/3gxvQCTnw0tl5h6sgAnfnb"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 203148,
       "name": "My Home Is You",
       "url": "https://open.spotify.com/track/25tf3JcjG8097N3jEPgVAL"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Both Can Be True",
-        "url": "https://open.spotify.com/album/78VYmUeibMyKEhanJqBd73"
-      },
-      "artists": [
-        {
-          "name": "Trousdale",
-          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
-        }
-      ],
-      "duration_ms": 185603,
-      "name": "Both Can Be True",
-      "url": "https://open.spotify.com/track/0kAe9PKCDne4YyRrK7qUj7"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/4gVu2VoV5kV8g6ihNLWfFS"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 228586,
       "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Both Can Be True",
+        "url": "https://open.spotify.com/album/78VYmUeibMyKEhanJqBd73"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 185603,
+      "name": "Both Can Be True",
+      "url": "https://open.spotify.com/track/0kAe9PKCDne4YyRrK7qUj7"
     },
     {
       "added_at": "2026-06-05 20:48:48",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-06-05 20:48:48",
       "album": {
-        "name": "Sweet Unknown",
-        "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
-      },
-      "artists": [
-        {
-          "name": "Ceramic Animal",
-          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "Tangled",
-      "url": "https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS"
-    },
-    {
-      "added_at": "2026-06-05 20:48:48",
-      "album": {
         "name": "Like a Child",
         "url": "https://open.spotify.com/album/6hIMfZogfaUwwiij8O69V2"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 216380,
       "name": "Like a Child",
       "url": "https://open.spotify.com/track/1F6oZZlY7m0CAXlv3u5qOf"
+    },
+    {
+      "added_at": "2026-06-05 20:48:48",
+      "album": {
+        "name": "Sweet Unknown",
+        "url": "https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR"
+      },
+      "artists": [
+        {
+          "name": "Ceramic Animal",
+          "url": "https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Tangled",
+      "url": "https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS"
     },
     {
       "added_at": "2026-06-05 20:48:48",

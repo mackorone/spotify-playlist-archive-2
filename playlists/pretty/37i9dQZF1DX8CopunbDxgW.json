@@ -1,12 +1,12 @@
 {
   "description": "Sophia Stel is sooo smooth with it \ud83c\udfb6 metropolis is your home for the best indie dance",
-  "num_followers": 870135,
+  "num_followers": 870093,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALddcxkgFnI8Nf2+vEll3575+rK9",
+  "snapshot_id": "AAAAAIjeSpEQkm3EXW4lDEzhto7ArRCd",
   "tracks": [
     {
       "added_at": "2026-07-03 04:02:04",
@@ -87,6 +87,26 @@
       "duration_ms": 157840,
       "name": "Return To Bhibo",
       "url": "https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm"
+    },
+    {
+      "added_at": "2026-06-26 04:00:59",
+      "album": {
+        "name": "Bedroom Eyes",
+        "url": "https://open.spotify.com/album/39WBNLBTWcHWdik02WZUy8"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Stevie Appleton",
+          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Bedroom Eyes",
+      "url": "https://open.spotify.com/track/3qOzschVOffCPjbac03qyB"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -231,26 +251,6 @@
       "duration_ms": 229475,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
-    },
-    {
-      "added_at": "2026-06-26 04:00:59",
-      "album": {
-        "name": "Bedroom Eyes",
-        "url": "https://open.spotify.com/album/39WBNLBTWcHWdik02WZUy8"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Bedroom Eyes",
-      "url": "https://open.spotify.com/track/3qOzschVOffCPjbac03qyB"
     },
     {
       "added_at": "2026-06-12 04:02:04",

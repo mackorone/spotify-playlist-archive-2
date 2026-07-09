@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her 💖 SIENNA SPIRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,079 likes - 191 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,075 likes - 191 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

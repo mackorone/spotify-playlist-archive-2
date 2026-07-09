@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,739 likes - 119 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,730 likes - 119 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 27 | [HJÄRTAT <3](https://open.spotify.com/track/1Ot5TPBhhANmuUIgYHbN7D) | [Papi Santana](https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ), [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [HJÄRTAT <3](https://open.spotify.com/album/4r9NI5X8fzd8pakjryAyrF) | 2:20 |
 | 28 | [des fleurs x stromae](https://open.spotify.com/track/0lNSoCSUfvKSmjm8B7rZYI) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [des fleurs x stromae](https://open.spotify.com/album/76JZ5dHWdZx91LHr4ztqsB) | 2:52 |
 | 29 | [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 |
-| 30 | [Midsummer](https://open.spotify.com/track/4zFTHnd6J02sxwaqiHCDbn) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Midsummer](https://open.spotify.com/album/6Bq3FPWmydEJTfOLqTlJac) | 3:07 |
+| 30 | [Midsummer](https://open.spotify.com/track/4zFTHnd6J02sxwaqiHCDbn) | [Mondo](https://open.spotify.com/artist/0hQ07Pj9zxsvNYkG8TkYJv) | [Midsummer](https://open.spotify.com/album/6Bq3FPWmydEJTfOLqTlJac) | 3:08 |
 | 31 | [Saturday Night](https://open.spotify.com/track/5kaXbTDNmB14gIqDrI0sVX) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Saturday Night](https://open.spotify.com/album/7LtJ3HtPW9fPLqd9nraw6J) | 3:37 |
 | 32 | [Brogatan](https://open.spotify.com/track/2xDsMtle47sbnSTRM94XxO) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Brogatan](https://open.spotify.com/album/0DOsLquaCnBPZhJujGFidL) | 3:04 |
 | 33 | [Little Baby](https://open.spotify.com/track/1o9KJTCD9peGTcpTuOZUgr) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Little Baby](https://open.spotify.com/album/0462xOskGKu151ffkZJhgk) | 2:40 |

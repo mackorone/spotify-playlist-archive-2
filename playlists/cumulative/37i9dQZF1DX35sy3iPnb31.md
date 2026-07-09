@@ -4,7 +4,7 @@
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: Carly Rae Jepsen
 
-353 songs - 19 hr 0 min
+354 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [GTFU](https://open.spotify.com/track/7agzulCsMBrjFmxUwByrJb) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [GTFU](https://open.spotify.com/album/4ZTI2CeRFWD3lb5CMQREJw) | 3:46 | 2026-07-03 |  |
 | [Hang](https://open.spotify.com/track/0EMiZs5WHhVUpNc6dbQG1h) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Butterfly](https://open.spotify.com/album/6EwceabziOOptW7N7tT626) | 3:32 | 2026-03-05 | 2026-04-02 |
 | [Happy Ever After You](https://open.spotify.com/track/37JdbuI27qdWx0TJgpqRUp) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq), [Jake Etheridge](https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f), [Thelma & James](https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE) | [Starting Over](https://open.spotify.com/album/5jS1UDnigkwwbwB9T6l470) | 3:17 | 2025-12-03 | 2026-02-07 |
-| [HATEHATEHATEHATEHATEHATE \- Special Version](https://open.spotify.com/track/7KqJTVXNShP5ecGO0YiqQc) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [EARWAX](https://open.spotify.com/album/6qQMtZalhpGadhq43sSn76) | 3:08 | 2026-07-03 |  |
+| [HATEHATEHATEHATEHATEHATE \- Special Version](https://open.spotify.com/track/7KqJTVXNShP5ecGO0YiqQc) | [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [EARWAX](https://open.spotify.com/album/6qQMtZalhpGadhq43sSn76) | 3:08 | 2026-07-03 | 2026-07-09 |
 | [Heart on Fire](https://open.spotify.com/track/7tXVIybZ82zYhowStV0epZ) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Heart on Fire](https://open.spotify.com/album/77YMT2I0gx2cX7VLSA7y8c) | 2:48 | 2026-06-01 | 2026-07-04 |
 | [Her World](https://open.spotify.com/track/2vGZsY7UyCqGuNYOGOsJlF) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Lovers Till I’m Gone](https://open.spotify.com/album/2UUhXldWviKuy7NuGrPeLi) | 2:25 | 2025-12-03 | 2026-02-07 |
 | [High Demand](https://open.spotify.com/track/4jjzRZr1VoD6thWdmOjCdU) | [ARDN](https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo) | [High Demand](https://open.spotify.com/album/1TXdL3ATPy3a97IvxyN5wZ) | 2:41 | 2026-04-01 | 2026-05-02 |
@@ -330,6 +330,7 @@
 | [Tonight](https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW) | [girlsweetvoiced](https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT) | [Tonight](https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe) | 2:25 | 2026-04-01 | 2026-05-02 |
 | [Tout ce qui dépasse](https://open.spotify.com/track/00JSNlp8wt9AuBEUDr7vZG) | [Colin Léo](https://open.spotify.com/artist/0hS3bXypocs7LRHRlXQyOC) | [Tout ce qui dépasse](https://open.spotify.com/album/4igk7A8WGArsPJYnM0lHUc) | 2:50 | 2026-06-01 | 2026-07-04 |
 | [Towers](https://open.spotify.com/track/5bfFCwTtflxfirt9d8Ls3S) | [Lia Pappas\-Kemps](https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes) | [Towers](https://open.spotify.com/album/1c8opfck2GJiprPJByHUOp) | 3:08 | 2026-02-06 | 2026-03-06 |
+| [Traveling Blues](https://open.spotify.com/track/45fEI8uXWhqDdo7JkBm73i) | [Evan Roderick](https://open.spotify.com/artist/7bw5PTECn2uhtnzlssXeHE) | [Traveling Blues](https://open.spotify.com/album/4CEWvUJ9YjEQF1apGtPTju) | 3:35 | 2026-07-03 |  |
 | [Trimski](https://open.spotify.com/track/6ApfK0ChvyLJcG4lyA3LbW) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Trimski](https://open.spotify.com/album/0hJEWg3nzNeattUiP5skly) | 3:02 | 2026-03-05 | 2026-04-02 |
 | [TRYNA WIN](https://open.spotify.com/track/2PLjm5Hz0ufEF3s8uo3ntq) | [NorthSideBenji](https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d), [Boi\-1da](https://open.spotify.com/artist/2RQnTQM6OQd8dTUDF7UsT7), [Canada Soccer](https://open.spotify.com/artist/0fOO2ZhdgNGh7h0BY5R1Ez) | [TRYNA WIN](https://open.spotify.com/album/6L87qbYLWVPbRu1Cg2ETQk) | 2:33 | 2026-05-01 | 2026-06-02 |
 | [two crows](https://open.spotify.com/track/0c9LZHh6EBmE8JZdy2nd1q) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [two crows](https://open.spotify.com/album/1WMsTboGCN24oLXoyYIH2u) | 4:09 | 2026-07-03 |  |

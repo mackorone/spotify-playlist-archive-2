@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. Kannessa Charli xcx.",
-  "num_followers": 26720,
+  "num_followers": 26721,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Kingmaker (with Julia Michaels)",
-        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 188106,
-      "name": "Kingmaker (with Julia Michaels)",
-      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Mansion Music",
         "url": "https://open.spotify.com/album/3OHRVdYcu2pavk5YNz73py"
       },
@@ -927,6 +907,26 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "Kingmaker (with Julia Michaels)",
+        "url": "https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 188106,
+      "name": "Kingmaker (with Julia Michaels)",
+      "url": "https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "Criminal (From the Original Motion Picture Scream 7)",
         "url": "https://open.spotify.com/album/2nmVXKVnYRht1PxXZ6aguS"
       },
@@ -959,6 +959,26 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "Aris",
+        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Vesala",
+          "url": "https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP"
+        }
+      ],
+      "duration_ms": 170343,
+      "name": "Se ei mennyt niin",
+      "url": "https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "MMG",
         "url": "https://open.spotify.com/album/2TbFAQtfMExiXwaQqksQvW"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 186628,
       "name": "MMG",
       "url": "https://open.spotify.com/track/78F5qg3GeuvulXePGIL3vJ"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "Aris",
-        "url": "https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd"
-      },
-      "artists": [
-        {
-          "name": "Ares",
-          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
-        },
-        {
-          "name": "Vesala",
-          "url": "https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP"
-        }
-      ],
-      "duration_ms": 170343,
-      "name": "Se ei mennyt niin",
-      "url": "https://open.spotify.com/track/1oEOPyKoBkdn5QYHWIOBJW"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Viaton",
-        "url": "https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1"
-      },
-      "artists": [
-        {
-          "name": "Minttu",
-          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Viaton",
-      "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Kuudes aisti",
         "url": "https://open.spotify.com/album/2Tg2KL8vIdRhtXHW9HaV3y"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 198250,
       "name": "FATHER (I Will Never Confess)",
       "url": "https://open.spotify.com/track/0TBOHLelyVGkuEWgWdyB3L"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Viaton",
+        "url": "https://open.spotify.com/album/1xfPQZO0kkyMQXaEwlC6l1"
+      },
+      "artists": [
+        {
+          "name": "Minttu",
+          "url": "https://open.spotify.com/artist/2WR0rtZhH9gTe9sDeafqKr"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Viaton",
+      "url": "https://open.spotify.com/track/6VCW3JQPBcavaDT63CUQtZ"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 243760,
-      "name": "Dancing On The Wall",
-      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "KATULAPSI",
         "url": "https://open.spotify.com/album/5lroKDiW0qQOrLDJDC3YUW"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 159300,
       "name": "Naamat",
       "url": "https://open.spotify.com/track/7fk4XZFhP99KgWUIF5soxf"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/387IgQuKGxfgMxyoYS6OdS"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 243760,
+      "name": "Dancing On The Wall",
+      "url": "https://open.spotify.com/track/3bGsC1pOytPEIeYL51p9Pp"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
+        "name": "Pieni exit",
+        "url": "https://open.spotify.com/album/6QGvxY1eZHa2aL1en4Pi7f"
+      },
+      "artists": [
+        {
+          "name": "Malla",
+          "url": "https://open.spotify.com/artist/0dHaPMHXrg3x8J6ucqNoPj"
+        }
+      ],
+      "duration_ms": 218720,
+      "name": "Pieni exit",
+      "url": "https://open.spotify.com/track/2clsFSS5ZCx3SW5o8CcY74"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
         "name": "Mik\u00e4 ois pahinta, mit\u00e4 vois tapahtua?",
         "url": "https://open.spotify.com/album/4ckLpU4UAOuT4JDGEIi2QT"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 202800,
       "name": "Heart Said No",
       "url": "https://open.spotify.com/track/7sgFsQ1uHBcOgFSdQWUgNE"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
-        "name": "Pieni exit",
-        "url": "https://open.spotify.com/album/6QGvxY1eZHa2aL1en4Pi7f"
-      },
-      "artists": [
-        {
-          "name": "Malla",
-          "url": "https://open.spotify.com/artist/0dHaPMHXrg3x8J6ucqNoPj"
-        }
-      ],
-      "duration_ms": 218720,
-      "name": "Pieni exit",
-      "url": "https://open.spotify.com/track/2clsFSS5ZCx3SW5o8CcY74"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Papin tyt\u00e4r",
-        "url": "https://open.spotify.com/album/4BGEa2u0jTKeIc3chGvl9X"
-      },
-      "artists": [
-        {
-          "name": "Asla Jo",
-          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
-        }
-      ],
-      "duration_ms": 197146,
-      "name": "Terveisii kotii",
-      "url": "https://open.spotify.com/track/3lGmAr9GzYz09D0ObCbJcH"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Ristiriita",
         "url": "https://open.spotify.com/album/6Dk1S6dzPOrHjAHYFNYWWb"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 177826,
       "name": "Uudestaan",
       "url": "https://open.spotify.com/track/7l85jewWzD4AV6J4tYsJJJ"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Papin tyt\u00e4r",
+        "url": "https://open.spotify.com/album/4BGEa2u0jTKeIc3chGvl9X"
+      },
+      "artists": [
+        {
+          "name": "Asla Jo",
+          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
+        }
+      ],
+      "duration_ms": 197146,
+      "name": "Terveisii kotii",
+      "url": "https://open.spotify.com/track/3lGmAr9GzYz09D0ObCbJcH"
     },
     {
       "added_at": "2026-05-08 04:10:15",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-05-08 04:10:15",
       "album": {
-        "name": "Papin tyt\u00e4r",
-        "url": "https://open.spotify.com/album/4BGEa2u0jTKeIc3chGvl9X"
-      },
-      "artists": [
-        {
-          "name": "Asla Jo",
-          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
-        }
-      ],
-      "duration_ms": 160933,
-      "name": "Iltat\u00e4hti",
-      "url": "https://open.spotify.com/track/5eMtpURpS5BeiZzuB5CCTq"
-    },
-    {
-      "added_at": "2026-05-08 04:10:15",
-      "album": {
         "name": "Kangastus",
         "url": "https://open.spotify.com/album/4tqjrdVVDFkNy0nF2cL9Mg"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 149509,
       "name": "Kangastus",
       "url": "https://open.spotify.com/track/3MEeDEiuTUOIeY8euj6Mwf"
+    },
+    {
+      "added_at": "2026-05-08 04:10:15",
+      "album": {
+        "name": "Papin tyt\u00e4r",
+        "url": "https://open.spotify.com/album/4BGEa2u0jTKeIc3chGvl9X"
+      },
+      "artists": [
+        {
+          "name": "Asla Jo",
+          "url": "https://open.spotify.com/artist/5z6VH7BWb3QDIAhdMILyG4"
+        }
+      ],
+      "duration_ms": 160933,
+      "name": "Iltat\u00e4hti",
+      "url": "https://open.spotify.com/track/5eMtpURpS5BeiZzuB5CCTq"
     },
     {
       "added_at": "2026-05-08 04:10:15",

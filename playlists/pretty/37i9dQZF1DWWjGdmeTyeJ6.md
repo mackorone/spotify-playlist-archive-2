@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring Sparklmami\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,220,006 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,958 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 29 | [ON TO SOMETHING](https://open.spotify.com/track/2bG5dFrGm4gofIfoMrzD3u) | [I Project](https://open.spotify.com/artist/2vopeXLtll2qbLRkitd3Me), [SOFYKA](https://open.spotify.com/artist/0aOnfDbpLdvyWDnjZiIEBq) | [ON TO SOMETHING](https://open.spotify.com/album/3ftjJL73VsYB6oe1kHfSoJ) | 3:22 |
 | 30 | [uniti/separati](https://open.spotify.com/track/4MIOpYyJVYuG5JTqGjlBcC) | [fenoaltea](https://open.spotify.com/artist/3bxcQZiTtcX1GtUljswo2L) | [uniti/separati](https://open.spotify.com/album/3BerwqIItBI9kVMUlfgJo7) | 3:17 |
 | 31 | [Saturday Night](https://open.spotify.com/track/6MgKWOjWJTfvZhB8ExU7Rg) | [Osmosis Jones](https://open.spotify.com/artist/39vtMUnZETGKSh6MFRSJ7n) | [Saturday Night](https://open.spotify.com/album/0KwucAD832VabSOp8jCMLs) | 3:45 |
-| 32 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [Daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
+| 32 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
 | 33 | [CR33PS](https://open.spotify.com/track/3CUzLJWBak2SSut9QzGnmT) | [herCULES](https://open.spotify.com/artist/4iyOHW8Bcc3JakQFGw8H0S) | [CR33PS](https://open.spotify.com/album/7bl3I861kUyMzBph6WMkue) | 2:35 |
 | 34 | [GIZMO](https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt) | [Pussy Heaven](https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK) | [HYMN](https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf) | 3:04 |
 | 35 | [Lead Me To The Slaughter](https://open.spotify.com/track/2QgNvwnSb9B8r2cy5SwpzU) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Lead Me To The Slaughter](https://open.spotify.com/album/3WFNJkqNB8MstN5M3Xmauj) | 3:17 |

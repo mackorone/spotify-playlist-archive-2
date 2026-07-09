@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Mark Forster, badmómzjay, Madonna, EAZ, XEN & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,296 likes - 97 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,294 likes - 97 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 59 | [Careless](https://open.spotify.com/track/4JP5g7hhIZjvquzHfa3Ebz) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Careless](https://open.spotify.com/album/66bTdjG8C6q9KtB9GlD7Mz) | 2:25 |
 | 60 | [Contrato](https://open.spotify.com/track/4pJ97GiuMlL7a053p9rB3k) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Tutu](https://open.spotify.com/artist/2oJG42nDNigJngS1nlWm2W) | [Contrato](https://open.spotify.com/album/7Dtxz2IZrCNzWSwruTwdBn) | 3:19 |
 | 61 | [Cupcake](https://open.spotify.com/track/2bknsnLPCEMMKCVrYdTfAV) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Cupcake](https://open.spotify.com/album/6qts20zdlXIj0lu42qjbD6) | 2:26 |
-| 62 | [Ma Bulle](https://open.spotify.com/track/1St5YPkyrvxzW5UMLuxDSc) | [Degzzy](https://open.spotify.com/artist/1TzQyYx8qNLGyxfFRgWhCy) | [Ma Bulle](https://open.spotify.com/album/2W5lsvRG9XY4MLAzjzvX9k) | 2:57 |
+| 62 | [Ma Bulle](https://open.spotify.com/track/1St5YPkyrvxzW5UMLuxDSc) | [Degzzy](https://open.spotify.com/artist/1TzQyYx8qNLGyxfFRgWhCy) | [Ma Bulle](https://open.spotify.com/album/2W5lsvRG9XY4MLAzjzvX9k) | 2:35 |
 | 63 | [THE CINEMA](https://open.spotify.com/track/3l4jOaTbrXb71JnpXxAUyv) | [Erin LeCount](https://open.spotify.com/artist/1h6v3Gd5Ub1xmiSMq0X5f3) | [PAREIDOLIA](https://open.spotify.com/album/0szHOhvBNJ5VSk4PNSnYS5) | 3:22 |
 | 64 | [Pretty Eyes \(feat\. FLO\)](https://open.spotify.com/track/7CVAj2VLKIQQjFTTd3nYh5) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Pretty Eyes](https://open.spotify.com/album/1XqkZ8GL8MHY3RG5B6IXBZ) | 3:09 |
 | 65 | [Nostalgia](https://open.spotify.com/track/4hWKYhFrH48UtGP4fAJrv3) | [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [Nostalgia](https://open.spotify.com/album/4SsijEiQ2ffMujlYj50fZx) | 2:41 |

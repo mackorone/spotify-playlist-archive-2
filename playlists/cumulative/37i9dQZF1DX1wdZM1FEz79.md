@@ -2,9 +2,9 @@
 
 ### [K\-Folk/Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 장하은\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
+> Chillout to the coolest Korean folk/acoustic tunes\. \(Cover: 10CM\) 감미롭고 부드러운 한국 포크/어쿠스틱 음악과 함께하세요.
 
-683 songs - 1 day 16 hr 7 min
+684 songs - 1 day 16 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Bloom&Burn](https://open.spotify.com/track/7vyrHvrglNU0VjNLE6Gee2) | [장하은](https://open.spotify.com/artist/3LfxjFJmUHPDsexCDnUTt0) | [Bloom&Burn](https://open.spotify.com/album/0PmEDutdlq8C6iHQN4UvyM) | 2:47 | 2026-03-13 | 2026-04-16 |
 | [Blue](https://open.spotify.com/track/3qjnIcGn7hp9iDYiaAt1oO) | [Choix2](https://open.spotify.com/artist/14RtqJKZMfdKYwObLGvnmV), [COE](https://open.spotify.com/artist/7Ld7na2w621hxwAQRfzpA2) | [Blue](https://open.spotify.com/album/7M3HVFFPw2ajPY5gsKMARe) | 3:06 | 2022-04-12 | 2022-04-20 |
 | [Blue cup](https://open.spotify.com/track/10iDbo5A1SPN384YGLCgp2) | [PERC%NT](https://open.spotify.com/artist/0cjZuJ13yFVPa5Nn0YUTbx) | [OVERHAUL](https://open.spotify.com/album/2knl4OxinpGhYjUstyDXmB) | 2:55 | 2022-01-10 | 2022-04-03 |
-| [Blue flight](https://open.spotify.com/track/6uJMqvFPVG5QmfJcEKXQn3) | [장하은](https://open.spotify.com/artist/3LfxjFJmUHPDsexCDnUTt0) | [Blue flight](https://open.spotify.com/album/7ynT4be0QAUVdgbNvPgAjK) | 3:34 | 2026-06-08 |  |
+| [Blue flight](https://open.spotify.com/track/6uJMqvFPVG5QmfJcEKXQn3) | [장하은](https://open.spotify.com/artist/3LfxjFJmUHPDsexCDnUTt0) | [Blue flight](https://open.spotify.com/album/7ynT4be0QAUVdgbNvPgAjK) | 3:34 | 2026-06-08 | 2026-07-09 |
 | [Blueberry Eyes \- Acoustic](https://open.spotify.com/track/0KY4z8DkvSae2ROsmsrAsN) | [Vanilla Mousse](https://open.spotify.com/artist/4DGY1BlqxH29zb9DGXLpB3) | [Blueberry Eyes \(Acoustic\)](https://open.spotify.com/album/6eS71yiVKtAuzp5yQGuqS9) | 2:31 | 2022-03-31 | 2022-06-07 |
 | [Blush 두근두근 \(feat\. You Byoung Hee\)](https://open.spotify.com/track/0nJq5Y4VIdIisinUdMRQrp) | [찰리파크 Charlie Park](https://open.spotify.com/artist/3nBzd5YDZ66wUXrvb7MFJ9), [You Byoung Hee 유병희](https://open.spotify.com/artist/1rRK1lT7RU6hLS5AYWG37d) | [Blush 두근두근](https://open.spotify.com/album/3OYrwjSFrM75l5AHtuFy54) | 3:20 | 2022-03-31 | 2022-04-18 |
 | [boyhood](https://open.spotify.com/track/6YpK7C7uz3LAjSDAW5pmga) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [blanc](https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL) | 3:15 | 2022-08-12 | 2022-08-19 |
@@ -512,6 +512,7 @@
 | [Story](https://open.spotify.com/track/10xIDPlfoOPojv15gs4v5U) | [Lee Seok Hoon](https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot) | [RADIO ROMANCE OST Part.5](https://open.spotify.com/album/39E5NxDaelO34UD2PuGcZh) | 3:45 | 2022-03-31 | 2022-04-17 |
 | [Strange Stroll](https://open.spotify.com/track/31T7mn1xbeV4G9JxP44koG) | [Yuna Bae](https://open.spotify.com/artist/69WlUWV5wRqG9YfRHe4pso) | [Strange Stroll](https://open.spotify.com/album/6CF7msQNpDwc6ZZN285Xl4) | 4:16 | 2024-02-07 | 2024-03-07 |
 | [Stupid love song \(with Crush\)](https://open.spotify.com/track/66NRKCEurE3Oq12BViuqAQ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:08 | 2021-12-10 |  |
+| [Summer Breeze](https://open.spotify.com/track/1g1sttRV6Dy2tj6aE92TnM) | [Lee Sora](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Summer Breeze](https://open.spotify.com/album/4slUF3getoU3xR2UcxFMUL) | 3:42 | 2026-07-08 |  |
 | [Summer gone by \(Feat\. MORI\)](https://open.spotify.com/track/6XYNKhfq3bucZVrP8kp0DO) | [1014](https://open.spotify.com/artist/6DrNvtiDIKjnRsb7S67iKx), [Mori](https://open.spotify.com/artist/1BNvKAHE63KEhzYHDarlpT) | [Summer gone by \(Feat\. MORI\)](https://open.spotify.com/album/4jW8sXbG23vSJe1qxgh5vx) | 3:27 | 2022-03-31 | 2022-04-11 |
 | [Summer night](https://open.spotify.com/track/5jAmRmTCrSueBF2O7mqI1I) | [for\_the\_poet](https://open.spotify.com/artist/4LzAduZVy0eNJxbe4fwbuX) | [Summer night](https://open.spotify.com/album/0J25ZbYJdZOIa1nDoYCJTP) | 3:19 | 2022-08-19 | 2022-09-03 |
 | [Summer Night](https://open.spotify.com/track/4SPSIlALa6SJMay3SQi7Mp) | [Kim Kyu Jong](https://open.spotify.com/artist/3WMXYNpeC5Z5POJdES9VDp) | [Summer Night](https://open.spotify.com/album/66r2jNtBUScalDYJOtbDG8) | 3:34 | 2022-03-31 | 2022-04-05 |

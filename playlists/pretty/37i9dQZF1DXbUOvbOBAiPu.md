@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Madonna, Rim'K x Leto, Frenna x Odeal x Wizkid and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,087 likes - 111 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,089 likes - 111 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3903170,
+  "num_followers": 3903014,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-07-03 04:01:25",
       "album": {
-        "name": "YOUR EYES",
-        "url": "https://open.spotify.com/album/6EH22I1ThZ1bBlbg5KlOmc"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        }
-      ],
-      "duration_ms": 176470,
-      "name": "YOUR EYES",
-      "url": "https://open.spotify.com/track/5uxwxuFRvmwYr3rLn81k8G"
-    },
-    {
-      "added_at": "2026-07-03 04:01:25",
-      "album": {
         "name": "Here Again / Wild Again",
         "url": "https://open.spotify.com/album/35HNH9ADGwhR3A1Ok8ahSd"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 200637,
       "name": "When You're Gone",
       "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
+    },
+    {
+      "added_at": "2026-07-03 04:01:25",
+      "album": {
+        "name": "YOUR EYES",
+        "url": "https://open.spotify.com/album/6EH22I1ThZ1bBlbg5KlOmc"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 176470,
+      "name": "YOUR EYES",
+      "url": "https://open.spotify.com/track/5uxwxuFRvmwYr3rLn81k8G"
     },
     {
       "added_at": "2026-07-03 04:01:25",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2026-07-03 04:01:25",
       "album": {
+        "name": "Human",
+        "url": "https://open.spotify.com/album/7vavYaLLnp7BSEVt66XBGl"
+      },
+      "artists": [
+        {
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        },
+        {
+          "name": "Lane 8",
+          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/7wE3go8w9wqqvWpN5aDpXR"
+    },
+    {
+      "added_at": "2026-07-03 04:01:25",
+      "album": {
         "name": "I Just Needed This",
         "url": "https://open.spotify.com/album/6CVvgJlFjWpGdor9nEc3j5"
       },
@@ -1123,6 +1143,30 @@
       "duration_ms": 199450,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/0dQc8ZTG7fPARbRJPXHs9P"
+    },
+    {
+      "added_at": "2026-07-03 04:01:25",
+      "album": {
+        "name": "I Cared For You",
+        "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Mont Rouge",
+          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
+        },
+        {
+          "name": "Noah Kulaga",
+          "url": "https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj"
+        }
+      ],
+      "duration_ms": 270476,
+      "name": "I Cared For You",
+      "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
     },
     {
       "added_at": "2026-07-03 04:01:25",
@@ -1203,50 +1247,6 @@
       "duration_ms": 199636,
       "name": "Of Joy",
       "url": "https://open.spotify.com/track/3mcbuLRA6q4MO3KJZiARXQ"
-    },
-    {
-      "added_at": "2026-07-03 04:01:25",
-      "album": {
-        "name": "Human",
-        "url": "https://open.spotify.com/album/7vavYaLLnp7BSEVt66XBGl"
-      },
-      "artists": [
-        {
-          "name": "Ashibah",
-          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
-        },
-        {
-          "name": "Lane 8",
-          "url": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/7wE3go8w9wqqvWpN5aDpXR"
-    },
-    {
-      "added_at": "2026-07-03 04:01:25",
-      "album": {
-        "name": "I Cared For You",
-        "url": "https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        },
-        {
-          "name": "Mont Rouge",
-          "url": "https://open.spotify.com/artist/29Spoit35xez115MTLfMB4"
-        },
-        {
-          "name": "Noah Kulaga",
-          "url": "https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj"
-        }
-      ],
-      "duration_ms": 270476,
-      "name": "I Cared For You",
-      "url": "https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC"
     },
     {
       "added_at": "2026-07-03 04:01:25",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-07-03 04:01:25",
       "album": {
+        "name": "Maitri",
+        "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "duration_ms": 177391,
+      "name": "Maitri",
+      "url": "https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5"
+    },
+    {
+      "added_at": "2026-07-03 04:01:25",
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 212000,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
-    },
-    {
-      "added_at": "2026-07-03 04:01:25",
-      "album": {
-        "name": "Maitri",
-        "url": "https://open.spotify.com/album/2q2KMPcrknWvv81MReT6mX"
-      },
-      "artists": [
-        {
-          "name": "Godblesscomputers",
-          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
-        }
-      ],
-      "duration_ms": 177391,
-      "name": "Maitri",
-      "url": "https://open.spotify.com/track/0xFHnQK9wKmpkDdqKtgOt5"
     },
     {
       "added_at": "2026-07-03 04:01:25",
@@ -1551,6 +1551,26 @@
     {
       "added_at": "2026-07-03 04:01:25",
       "album": {
+        "name": "edges",
+        "url": "https://open.spotify.com/album/5DsdSbCVFUJdT5I61zZB4g"
+      },
+      "artists": [
+        {
+          "name": "m\u00f6lly",
+          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
+        },
+        {
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "edges",
+      "url": "https://open.spotify.com/track/3Y0GPlTTGhUvkX9gLbeB3F"
+    },
+    {
+      "added_at": "2026-07-03 04:01:25",
+      "album": {
         "name": "Call You Mine",
         "url": "https://open.spotify.com/album/7iXSdSRYkTLShwvWdy2mbH"
       },
@@ -1599,42 +1619,18 @@
     {
       "added_at": "2026-07-03 04:01:25",
       "album": {
-        "name": "edges",
-        "url": "https://open.spotify.com/album/5DsdSbCVFUJdT5I61zZB4g"
+        "name": "LOVE",
+        "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
       },
       "artists": [
         {
-          "name": "m\u00f6lly",
-          "url": "https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq"
-        },
-        {
-          "name": "FARLEY",
-          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+          "name": "Eric Luttrell",
+          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
         }
       ],
-      "duration_ms": 222857,
-      "name": "edges",
-      "url": "https://open.spotify.com/track/3Y0GPlTTGhUvkX9gLbeB3F"
-    },
-    {
-      "added_at": "2026-07-03 04:01:25",
-      "album": {
-        "name": "Let You Know",
-        "url": "https://open.spotify.com/album/6V7GNffcfF3oOumBPNNqmv"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        },
-        {
-          "name": "Sonia Ammar",
-          "url": "https://open.spotify.com/artist/73Xyd80Zdq5fZc0xyjkQtB"
-        }
-      ],
-      "duration_ms": 219923,
-      "name": "Let You Know",
-      "url": "https://open.spotify.com/track/609FRLY8f3c7CXqsloE09P"
+      "duration_ms": 201600,
+      "name": "LOVE",
+      "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
     },
     {
       "added_at": "2026-07-03 04:01:25",
@@ -1659,18 +1655,22 @@
     {
       "added_at": "2026-07-03 04:01:25",
       "album": {
-        "name": "LOVE",
-        "url": "https://open.spotify.com/album/3XzF1AVLmTtSA9exleQY0V"
+        "name": "Let You Know",
+        "url": "https://open.spotify.com/album/6V7GNffcfF3oOumBPNNqmv"
       },
       "artists": [
         {
-          "name": "Eric Luttrell",
-          "url": "https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2"
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        },
+        {
+          "name": "Sonia Ammar",
+          "url": "https://open.spotify.com/artist/73Xyd80Zdq5fZc0xyjkQtB"
         }
       ],
-      "duration_ms": 201600,
-      "name": "LOVE",
-      "url": "https://open.spotify.com/track/2Ci8fAS7bgl1RMHiWzJvcD"
+      "duration_ms": 219923,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/609FRLY8f3c7CXqsloE09P"
     },
     {
       "added_at": "2026-07-03 04:01:25",
@@ -1687,6 +1687,22 @@
       "duration_ms": 210500,
       "name": "All Is Right",
       "url": "https://open.spotify.com/track/1rsJB19a3FfYdLKK2mjMfU"
+    },
+    {
+      "added_at": "2026-07-03 04:01:25",
+      "album": {
+        "name": "Missing You",
+        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 244285,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
     },
     {
       "added_at": "2026-07-03 04:01:25",
@@ -1711,22 +1727,6 @@
       "duration_ms": 274000,
       "name": "the art of letting go",
       "url": "https://open.spotify.com/track/30qrn4P5XelUYPsDWSa6yB"
-    },
-    {
-      "added_at": "2026-07-03 04:01:25",
-      "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/1Ff0i6vVZC1JJGnRc1MZST"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 244285,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/7ILwo5dXAT8FcgfFJKWgFq"
     },
     {
       "added_at": "2026-07-03 04:01:25",
@@ -1763,6 +1763,22 @@
       "duration_ms": 212903,
       "name": "Sewn",
       "url": "https://open.spotify.com/track/5HK5WzgL0w9KS8tqsyGcdM"
+    },
+    {
+      "added_at": "2026-07-03 04:01:25",
+      "album": {
+        "name": "One Love (Nobody Else)",
+        "url": "https://open.spotify.com/album/1jhsm4hCvQR4S6L1lMdCrV"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        }
+      ],
+      "duration_ms": 217487,
+      "name": "One Love (Nobody Else)",
+      "url": "https://open.spotify.com/track/1plh94yAIkbjOAH3cGXc7B"
     },
     {
       "added_at": "2026-07-03 04:01:25",
@@ -1871,26 +1887,6 @@
     {
       "added_at": "2026-07-03 04:01:25",
       "album": {
-        "name": "Hours",
-        "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
-      },
-      "artists": [
-        {
-          "name": "Lipless",
-          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
-        },
-        {
-          "name": "Lovlee",
-          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Hours",
-      "url": "https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52"
-    },
-    {
-      "added_at": "2026-07-03 04:01:25",
-      "album": {
         "name": "Fall Apart",
         "url": "https://open.spotify.com/album/5sNIvva0OBx8BPyb9OPfq2"
       },
@@ -1911,18 +1907,22 @@
     {
       "added_at": "2026-07-03 04:01:25",
       "album": {
-        "name": "One Love (Nobody Else)",
-        "url": "https://open.spotify.com/album/1jhsm4hCvQR4S6L1lMdCrV"
+        "name": "Hours",
+        "url": "https://open.spotify.com/album/2gla60FPj98af3CXWhbcfN"
       },
       "artists": [
         {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+          "name": "Lipless",
+          "url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA"
+        },
+        {
+          "name": "Lovlee",
+          "url": "https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8"
         }
       ],
-      "duration_ms": 217487,
-      "name": "One Love (Nobody Else)",
-      "url": "https://open.spotify.com/track/1plh94yAIkbjOAH3cGXc7B"
+      "duration_ms": 248000,
+      "name": "Hours",
+      "url": "https://open.spotify.com/track/05ABa89D7t0Swx17JUwH52"
     },
     {
       "added_at": "2026-07-03 04:01:25",

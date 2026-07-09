@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-283 songs - 17 hr 47 min
+284 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Get Outta My Head](https://open.spotify.com/track/7hKZGgTrWm2S8jvGLs9Pdl) | [TV Screams](https://open.spotify.com/artist/00mAGDlNPbLOc8Bugv6iz4) | [Get Outta My Head](https://open.spotify.com/album/4IXPVKy739ap5syrDJguG5) | 2:38 | 2026-04-03 | 2026-05-19 |
 | [Gift](https://open.spotify.com/track/2CY4tpOXZ79CUmwij1e4JA) | [Pro\|Contra](https://open.spotify.com/artist/3lpOrZS6jyCQVFQD01Usf0) | [Gift](https://open.spotify.com/album/3gIrCB0W2GIMYREEIGz4fa) | 3:32 | 2026-06-09 |  |
 | [Glide](https://open.spotify.com/track/7lBT4r2EB25JjsXzoDJjZ4) | [Lemon Knife](https://open.spotify.com/artist/2idkk1AQNbcJE4HPUrBUDC) | [Event Horizon](https://open.spotify.com/album/3QStexIRzKruswq8FDYp9S) | 3:21 | 2026-05-12 | 2026-06-14 |
+| [Glorious](https://open.spotify.com/track/1mAJOvqasn4SzRgqvdmF52) | [Darius Zaltash](https://open.spotify.com/artist/6nL6fYu8ysN6yayyT24xgo) | [Glorious](https://open.spotify.com/album/4o0dKj5YGNJX3NmM8SPY1g) | 3:35 | 2026-07-08 |  |
 | [Going Down](https://open.spotify.com/track/7FMnpQg1vy0fc4sDaKUb5Q) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [A Big Dose of Speed](https://open.spotify.com/album/1sJx1TPuMDsgnayaMF2SF7) | 4:03 | 2026-05-12 |  |
 | [Graduation](https://open.spotify.com/track/0DVsB3C8e43uoFwjXJQCda) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:02 | 2025-11-20 | 2025-12-28 |
 | [Greedy Bastards](https://open.spotify.com/track/5weyUBvQz5ui959wVAJy5C) | [The Ratskins](https://open.spotify.com/artist/6ge5wjSR7ea1mgxcodIF8V) | [Greedy Bastards](https://open.spotify.com/album/51Hggf3bAK0iou8pfOfgHA) | 3:33 | 2026-06-09 |  |

@@ -1910,10 +1910,28 @@
       ],
       "date_added": "2026-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 210760,
       "name": "Joy Unspeakable",
       "url": "https://open.spotify.com/track/3amqCoJGpoor5jF2No8szk"
+    },
+    {
+      "album": {
+        "name": "the Journey (Live)",
+        "url": "https://open.spotify.com/album/26dnr3d2HZ3hg1iq9Iv8zG"
+      },
+      "artists": [
+        {
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210760,
+      "name": "Joy Unspeakable",
+      "url": "https://open.spotify.com/track/6UWVXYDOQXXYh6jSflYJel"
     },
     {
       "album": {

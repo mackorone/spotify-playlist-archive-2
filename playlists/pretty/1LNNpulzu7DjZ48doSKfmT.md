@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 
 > beautiful music that you can put on repeat
 
-[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 459 likes - 475 songs - 23 hr 59 min
+[Exquisite Playlists](https://open.spotify.com/user/31ty44uwsenduyvuaurbtajf7azi) - 460 likes - 482 songs - 1 day 0 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -483,5 +483,12 @@ pretty - [cumulative](/playlists/cumulative/1LNNpulzu7DjZ48doSKfmT.md) - [plain]
 | 473 | [FAR APART](https://open.spotify.com/track/5gxXCwcRe21ux7WzDZwltc) | [808 Corari](https://open.spotify.com/artist/5INzhTZDn49qwwLnavz9Hi) | [FAR APART](https://open.spotify.com/album/3tujgnwVYirnjvvIGHrNqc) | 2:07 |
 | 474 | [Love Can Conquer All](https://open.spotify.com/track/1cS4Y7PuWZJ46aNbLjHlCd) | [Gravity 180](https://open.spotify.com/artist/2TKmTmVekVE3awZeJUOME5) | [Love Can Conquer All](https://open.spotify.com/album/2xTGBojPjGNKBLkaS6L9K1) | 4:12 |
 | 475 | [Drunk](https://open.spotify.com/track/5l87Vam31WP0rQ6OdTWple) | [Trashbbx](https://open.spotify.com/artist/3QRXwXbNNP3QV10XKGvj1y) | [Drunk](https://open.spotify.com/album/33ysXvwqJMGJ0N85kdoc3K) | 3:41 |
+| 476 | [COMPLICADO](https://open.spotify.com/track/4lu4tVLVkmo85xt060ArxH) | [LuisEnrique NR](https://open.spotify.com/artist/4n8ZCRYPCJshSuomDy6HIz) | [COMPLICADO](https://open.spotify.com/album/3oe8HHqY1SpLeHuh4gpsXJ) | 1:34 |
+| 477 | [She Sighs](https://open.spotify.com/track/4Mc6r1DYj9Ve6D1Uu7BRTa) | [Faisal Ryan](https://open.spotify.com/artist/1YqLPQqfuH43PCN5HhwBFP) | [When It Was beautiful EP](https://open.spotify.com/album/4i00lSGJuptrLPxB3PgbZu) | 2:40 |
+| 478 | [My Time](https://open.spotify.com/track/3G6czNhowfRkmPugEYUiM2) | [Versifyer](https://open.spotify.com/artist/5ZDvjyF3mOHhZtQenm9Pqp), [Huniddproof](https://open.spotify.com/artist/4TKuKO7bMx8QnRfngpR0Ur) | [My Time](https://open.spotify.com/album/2mNSVWQeL3gAOCADlN73Vq) | 3:06 |
+| 479 | [POLAROID](https://open.spotify.com/track/0tSkzuVW92oq2rUn6s8Vbd) | [Moraless](https://open.spotify.com/artist/0wB3MqSDgYZBZLlcAHgusN), [Notfound](https://open.spotify.com/artist/6PRhsOXnLmByfI5DXEJu0E) | [POLAROID](https://open.spotify.com/album/1Nc6ECiwnDOA7lHJOMjTzp) | 2:39 |
+| 480 | [HAVOC](https://open.spotify.com/track/3nVQgLOmWDLsiBHeHYdcHg) | [N.B.S](https://open.spotify.com/artist/2QyhdoBls8dMJBtWq7AGhY) | [HAVOC](https://open.spotify.com/album/7pQ3etfXXMlWhYiPWS4RXr) | 3:46 |
+| 481 | [Build to Burn](https://open.spotify.com/track/2ea1wQNqIyMghvoHbJHdqJ) | [Revenant Sun](https://open.spotify.com/artist/6Q0ljtw7dxz6PCid0n8ZJA) | [Build to Burn](https://open.spotify.com/album/3gwdzUm6fwWglItpbtwYEW) | 4:56 |
+| 482 | [Heavier Than Heaven](https://open.spotify.com/track/6loN76fdvbdRRyVmKpo83e) | [thidebrito](https://open.spotify.com/artist/38nFnSRQtd7Nslr5PSlCBq) | [Boundless Dominion Continuum](https://open.spotify.com/album/1xdSH7i5PbgeVUThYf8WZC) | 6:30 |
 
-Snapshot ID: `AAAcg+J3hKCIe4gV1/XbXSb6NAd1mwfU`
+Snapshot ID: `AAAciu97nKDkV+unpG1dDQDJTJAKPnMg`

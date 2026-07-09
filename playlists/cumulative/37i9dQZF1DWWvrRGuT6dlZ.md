@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: spilled milk\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Erika Foo\. Artwork: Isu Kim.
 
-1,486 songs - 3 day 9 hr 26 min
+1,489 songs - 3 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [ily](https://open.spotify.com/track/3O2KSaYVs7Dh7i5LxWqumA) | [Isabelle Wong](https://open.spotify.com/artist/61cPV1F8G8kVDCFpk9bURe) | [ily](https://open.spotify.com/album/1zPHjigvi5vLHptht1yQPp) | 3:04 | 2022-01-13 | 2022-06-17 |
 | [ILYAS](https://open.spotify.com/track/451OgRQdiAKJdV8NzguyqT) | [kiingkess](https://open.spotify.com/artist/6hVsLLm8Ny0Vn2sY73Rukr) | [ILYAS](https://open.spotify.com/album/5YD8jfInU12VPNXHDuWaYX) | 2:32 | 2023-09-14 | 2024-01-19 |
 | [IMONTOP](https://open.spotify.com/track/60af6K3ZZCWnBg1hSxRvt2) | [Danboy Studio](https://open.spotify.com/artist/28CBPsyK4uO1VfWeo6wk86) | [IMONTOP](https://open.spotify.com/album/2cDtwNQ6x2MGOddOh2b2Vu) | 2:20 | 2025-09-19 | 2025-11-08 |
+| [In Absence](https://open.spotify.com/track/1htBVSeU62QojxuN6IWiS4) | [The Baby Cosmos](https://open.spotify.com/artist/4J5HK6rQIwVEgOZGG6JM4f) | [In Absence](https://open.spotify.com/album/3nB8MJAXIEKTP825IywWYd) | 4:48 | 2026-07-08 |  |
 | [In Love With A Stranger](https://open.spotify.com/track/6AVF4P4HHQdRUQsqly1VWG) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [In Love With A Stranger](https://open.spotify.com/album/3qpLVDFsG622yX5FDBttHB) | 2:40 | 2023-05-26 | 2023-10-20 |
 | [In My Bag](https://open.spotify.com/track/39IbQcCVLmnPC5rq9vz9Gu) | [The Island Voices](https://open.spotify.com/artist/6qlXAApftEMUSOCpaFiMKR) | [In My Bag](https://open.spotify.com/album/6Gn12dQTYf7FPKKQoHSjWk) | 2:52 | 2026-01-30 | 2026-03-21 |
 | [IN MY HEAD](https://open.spotify.com/track/2Wi2iXfN2rHW24P5kBQTvg) | [Kidmeddling](https://open.spotify.com/artist/1Wtp5gxsbuzXJnFOgd3uXZ) | [IN MY HEAD](https://open.spotify.com/album/3YeavO2N80hcKmgpAUB6N0) | 2:09 | 2022-01-13 | 2022-03-11 |
@@ -813,6 +814,7 @@
 | [Mysterious Interstellar Matter](https://open.spotify.com/track/2xlHbvu2g7YoGWGBMlr9rJ) | [Ky Den](https://open.spotify.com/artist/2LUQt3IqImFyupLVTie3Tk) | [Mysterious Interstellar Matter](https://open.spotify.com/album/680W5rwNNlx6ge7lItGcSt) | 2:11 | 2022-06-17 | 2022-09-23 |
 | [Nadia](https://open.spotify.com/track/6QFiYCiXkIt7arRQYsopu9) | [Burmese Bombshells](https://open.spotify.com/artist/2LjrfHF7nEMEDoTd4eJ522) | [Nadia](https://open.spotify.com/album/1dkVblyDuSDRjGfdL505Vf) | 3:21 | 2023-02-09 | 2024-01-12 |
 | [Naia](https://open.spotify.com/track/2LpCT4VqzktXxfGavoT1N7) | [Strange Alias](https://open.spotify.com/artist/7KN4629wMCkGiMNIxvMyaj) | [Naia](https://open.spotify.com/album/6xRvK7V5Hz8usR348UHYVx) | 3:25 | 2023-03-31 | 2023-11-18 |
+| [Nama Yang Tersimpan](https://open.spotify.com/track/0dYxzNxXYHKGMQarCg1IaM) | [Erika Foo](https://open.spotify.com/artist/6TMspzuKPj0zCY0yTXTxn3) | [Nama Yang Tersimpan](https://open.spotify.com/album/2iLDC6mZCEiZnifKMVMviL) | 4:19 | 2026-07-08 |  |
 | [NAME DROP](https://open.spotify.com/track/06O9EQlQASt3khh9PrtVjZ) | [Krysta Joy](https://open.spotify.com/artist/4VXfwnB0P19PoJq9gRYcLS), [ZIONN](https://open.spotify.com/artist/5kEEpbGzmLPGYFm4gV7aYG) | [NAME DROP](https://open.spotify.com/album/6upXb5Huje6z6GXO58C71V) | 2:48 | 2021-12-01 | 2022-01-14 |
 | [need me now](https://open.spotify.com/track/6YwC4MT8zGsL2kOfMBRaML) | [ALVN](https://open.spotify.com/artist/72ubqJlbqJ9x9P6DLl3V3m) | [need me now](https://open.spotify.com/album/54XWCvc9Y7NsNPP1Z02O3p) | 2:34 | 2023-05-26 | 2023-11-18 |
 | [Nervous](https://open.spotify.com/track/0EWw0f8uvX4kfOtIEQsyRH) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI) | [Nervous](https://open.spotify.com/album/6KPNk9pGhIQPzJFxhqGUAt) | 3:39 | 2023-01-12 | 2023-06-16 |
@@ -1469,6 +1471,7 @@
 | [没关系](https://open.spotify.com/track/5f8RxIrDnpWChZ8ymWlZhu) | [LOEWEN 洛文](https://open.spotify.com/artist/0t01iYK7btEIOlOgcbaHTE) | [没关系](https://open.spotify.com/album/5jnwzgXLCQF5TjN38E3XDS) | 4:30 | 2026-06-10 |  |
 | [没有人能够](https://open.spotify.com/track/69nROcHPRjqovW5SYkVp7V) | [Chris 官杰皓](https://open.spotify.com/artist/1RmlAusTzAZxnL52oD223v) | [没有人能够](https://open.spotify.com/album/6Y6GmfpolslfG6p1mNZLxz) | 3:24 | 2025-09-12 | 2025-11-08 |
 | [没有弗洛伊德就给我一张红色沙发](https://open.spotify.com/track/00MUcb9hu2ADEcC9LR16Ha) | [鱼惺味](https://open.spotify.com/artist/7AMQEk5MoxhbLmZrXwtZ6X) | [没有弗洛伊德就给我一张红色沙发](https://open.spotify.com/album/7JETECMEUMKSjmWZlIcoKo) | 4:18 | 2025-07-31 | 2025-09-13 |
+| [王子的新衣](https://open.spotify.com/track/0ByCm3QWBWeshuDmpSMToW) | [Calvin 李忠伦](https://open.spotify.com/artist/1vJpjk0BTpwo8fJ6OEtl0C) | [王子的新衣](https://open.spotify.com/album/1e1n3ymihZHeWdBNH04x7E) | 3:22 | 2026-07-08 |  |
 | [生還](https://open.spotify.com/track/64jFkLd0ZX1cz8oC4ZzaH7) | [超粤](https://open.spotify.com/artist/5UHogzgUGhuzmTCXqELfkK) | [生還](https://open.spotify.com/album/0UhXa6oJmAduBUh3qynAbX) | 4:18 | 2025-11-14 | 2026-03-14 |
 | [病態說謊者](https://open.spotify.com/track/3enBMnevOIKaxJSlwna1da) | [Jing Xuan](https://open.spotify.com/artist/2a0sVco1HJutTPKN9oFQv4) | [病態說謊者](https://open.spotify.com/album/3QeVRnoNxfxugDMpA626PF) | 3:35 | 2025-04-25 | 2025-05-17 |
 | [看不下去](https://open.spotify.com/track/4VsvvX49ij7P6sw3yqXFMx) | [Whistle 夜萧](https://open.spotify.com/artist/7wKs35Zk43WEeSbxa5snCq) | [看不下去](https://open.spotify.com/album/4w1as4tsQ1EF1XtSZZcLag) | 3:17 | 2025-04-03 | 2025-05-17 |

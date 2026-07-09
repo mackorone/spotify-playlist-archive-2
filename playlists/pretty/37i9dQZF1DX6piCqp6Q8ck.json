@@ -1,6 +1,6 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 201648,
+  "num_followers": 201640,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
@@ -579,26 +579,6 @@
     {
       "added_at": "2025-12-19 14:06:32",
       "album": {
-        "name": "All That Glitters",
-        "url": "https://open.spotify.com/album/5WEhtvqTyHk5GGTToRQYzm"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Mark Limacher",
-          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
-        }
-      ],
-      "duration_ms": 199006,
-      "name": "All That Glitters",
-      "url": "https://open.spotify.com/track/7K9H3ZyzAxl7cffJjyt4da"
-    },
-    {
-      "added_at": "2025-12-19 14:06:32",
-      "album": {
         "name": "Hot Jazz for a Cool Night: a Jazz Christmas",
         "url": "https://open.spotify.com/album/02iLLB1FrzSb0V0pRqpjHS"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 180240,
       "name": "We Three Kings",
       "url": "https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz"
+    },
+    {
+      "added_at": "2025-12-19 14:06:32",
+      "album": {
+        "name": "All That Glitters",
+        "url": "https://open.spotify.com/album/5WEhtvqTyHk5GGTToRQYzm"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "duration_ms": 199006,
+      "name": "All That Glitters",
+      "url": "https://open.spotify.com/track/7K9H3ZyzAxl7cffJjyt4da"
     },
     {
       "added_at": "2025-12-19 14:06:32",

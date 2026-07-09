@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > hyper\_sleaze.electro\_glitch.v2008.infamy.zip.\[FINAL\]\_\[REAL\]\_\_coverartist.BrothelinBelize
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,372,220 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,372,135 likes - 79 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 5 | [Satellites](https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag) | [Satellites](https://open.spotify.com/album/1lwDEmZ3j69Wrh0AycrCCU) | 3:31 |
 | 6 | [run away](https://open.spotify.com/track/1WKzFx2fO5nA8LfXgkAPTL) | [Joey Cash](https://open.spotify.com/artist/6pvE3aqOyzjdcaReOneQjf) | [poser](https://open.spotify.com/album/5dk6Et5f7SBRNGJjCZRyyw) | 2:12 |
 | 7 | [CONSTANTLY](https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu), [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [CONSTANTLY](https://open.spotify.com/album/213P10SLkkkRltYI9bbh2V) | 3:02 |
-| 8 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [Daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
+| 8 | [punch](https://open.spotify.com/track/5RBBxbvBLrQrN8K84fFtmA) | [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [punch](https://open.spotify.com/album/5uhc0x5otbt10RYvxUovN4) | 3:15 |
 | 9 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
 | 10 | [Just Being Honest](https://open.spotify.com/track/4G4BPQVqOdTgecAjRY1sBq) | [Eera](https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P), [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2) | [Just Keep Holding On](https://open.spotify.com/album/1OXIAbJNjrNxMCznTsCt8J) | 3:44 |
 | 11 | [Me & My Machine](https://open.spotify.com/track/55OtNCFFm2ncO80K2gmkey) | [Contact Sports](https://open.spotify.com/artist/3GlpFOtBi5BJeXAk5a1RAd) | [Me & My Machine](https://open.spotify.com/album/4apU0XSXRd6S0TPpuL1iaC) | 2:33 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 24 | [Teeth](https://open.spotify.com/track/35DndlH4DJ9h1TtmygrYaA) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Madgette Baguette](https://open.spotify.com/album/4E2TvtSq9TyhRBA7G3fKNJ) | 2:12 |
 | 25 | [third degree](https://open.spotify.com/track/7tGtSYXBIi5x8DxQD2oDlf) | [Ella Rosa](https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F) | [third degree](https://open.spotify.com/album/3jlEmCCBl7xYxG4M2fttvq) | 2:13 |
 | 26 | [suave \(feat\. Jane Remover\)](https://open.spotify.com/track/0nvnEtOJBRMhP8kUlxGcxi) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL), [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [suave \(feat\. Jane Remover\)](https://open.spotify.com/album/60ckaaEodEQbB84qAHiUmI) | 3:19 |
-| 27 | [Knackered](https://open.spotify.com/track/09VkoNLmL8XwFvfYTBKuU1) | [Cyst](https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB), [Daisy\*](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [Knackered](https://open.spotify.com/album/5cl4NJbrhqLxQklepQTOT4) | 2:33 |
+| 27 | [Knackered](https://open.spotify.com/track/09VkoNLmL8XwFvfYTBKuU1) | [Cyst](https://open.spotify.com/artist/6rykAKGU8NhN8Sbpe2MZkT), [Iglooghost](https://open.spotify.com/artist/7LCDnUQYE07fnKbo46SVLB), [daisy](https://open.spotify.com/artist/799y9UGBODaDBZ8XSbEr1A) | [Knackered](https://open.spotify.com/album/5cl4NJbrhqLxQklepQTOT4) | 2:33 |
 | 28 | [BEAT UP CHANEL$](https://open.spotify.com/track/0rLtUuQgwIlw6vv2eqHKdt) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [WOR$T GIRL IN AMERICA](https://open.spotify.com/album/5siV9C6eK0NpAqER2FfCVA) | 3:18 |
 | 29 | [DEAD INSIDE](https://open.spotify.com/track/507NCJogPbwVjrtaPfd2pV) | [ACHEL](https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW) | [DEAD INSIDE](https://open.spotify.com/album/1cONkdKIoUVz9lE6TLChbw) | 2:15 |
 | 30 | [niu bi](https://open.spotify.com/track/30rghBUS6FM25ojA0G5Htm) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [niu bi](https://open.spotify.com/album/346SIh1chn8qqm7FiBd6lh) | 2:19 |
@@ -87,6 +87,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 77 | [4wheelpharmacy](https://open.spotify.com/track/0LMlZRkPE804SQSQDCHyz1) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5) | [Pants on fire](https://open.spotify.com/album/0ninOohrgxxcpkCKfozNjc) | 1:37 |
 | 78 | [i\_aint\_fly \(G6\)](https://open.spotify.com/track/0gzF6cVbWR9pxvsLgC4wTi) | [Nori](https://open.spotify.com/artist/7slFzVc5aRrBk0U69aQiXJ), [Kori](https://open.spotify.com/artist/6tUcO4yFrN0Zzt3iMtDyns) | [i\_aint\_fly \(G6\)](https://open.spotify.com/album/6ItysXbWwK1JG0D4jLdnJi) | 1:57 |
 | 79 | [joey knows](https://open.spotify.com/track/5fmsWfMxXT9yeDKcfrNXrv) | [dance arts center](https://open.spotify.com/artist/3W9ojW2wag9ir2xBwia9QP) | [dance arts center presents](https://open.spotify.com/album/0FRFxu0vsfD02VbhdcoheD) | 3:39 |
-| 80 | [prototype](https://open.spotify.com/track/7qgqbZW6SeqV1iEYTRP4nS) | [pnkdrco](https://open.spotify.com/artist/54ui5N3fVlyC2imsAakAhI) | [prototype](https://open.spotify.com/album/0xRNPryFtPD67496idfDsO) | 1:39 |
 
-Snapshot ID: `AAAAAAdkFrIQuyv6hzH5un0fMoFTcdMX`
+Snapshot ID: `AAAAAJTAv/wrWRjLIeMZ6SamW2VZVM9S`

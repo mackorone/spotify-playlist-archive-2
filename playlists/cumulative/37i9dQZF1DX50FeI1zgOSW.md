@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Harsha Vardhan
 
-807 songs - 1 day 21 hr 43 min
+808 songs - 1 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aasai Dhan](https://open.spotify.com/track/5VHWhBx27a9NiErhhnf4mr) | [Rudra](https://open.spotify.com/artist/61gOjwzZNoWJlBW6Agw4GN) | [Aasai Dhan](https://open.spotify.com/album/3UsRTFRJuwiSg4FfYrsCAn) | 2:33 | 2024-07-27 | 2024-08-29 |
 | [Aasaigal](https://open.spotify.com/track/5CV1PudVJ0iNAhSWkl9iKD) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Aasaigal](https://open.spotify.com/album/4cglbrEgdH16IKpcD2sb2z) | 3:33 | 2023-03-21 | 2023-08-01 |
 | [Aasamy](https://open.spotify.com/track/589Vk4dm6doD6czjby9eYT) | [Aasamy](https://open.spotify.com/artist/3cU465o0Drs2JeNOm9Ljio), [Urban Thozha](https://open.spotify.com/artist/3Dp5dANamboswrpWcetBRX) | [Aasamy](https://open.spotify.com/album/4XxRdPoYGfhWCoTW3sOgiF) | 2:41 | 2024-11-21 | 2024-12-04 |
+| [Aathadi](https://open.spotify.com/track/3EzGEMuDVJF8pxbWnNJWNx) | [R.Madhan Mohan](https://open.spotify.com/artist/299hZFMTm60ri5cIlUzIoy), [Neha Girish](https://open.spotify.com/artist/7j7JiRc4hgylqljp5gmKcv) | [Aathadi](https://open.spotify.com/album/0cKwRlkY5EeN0NkUvwAceP) | 4:27 | 2026-07-08 |  |
 | [Aayirathil Avan Oruvan](https://open.spotify.com/track/30gPXGKnK719UU9QjiJ5jT) | [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [MWS](https://open.spotify.com/artist/2kAssRlZmg5vrIiUiZVInp) | [Mudivili](https://open.spotify.com/album/7txRaw6gINccGbvTdAj6I1) | 3:10 | 2024-07-27 | 2024-09-21 |
 | [ACAPELLA SAMBAA](https://open.spotify.com/track/0mkw6W14pYkRTvnbQnr52z) | [Jagadeesh Kumar Balraj](https://open.spotify.com/artist/6vS08NxeEwSRd6Tdt3iMwt), [Disco Nagesh](https://open.spotify.com/artist/0MDMzwjffAESp75nRoa86I), [Thamarai Varman](https://open.spotify.com/artist/22Dtar7MtPlLx73CfxqDL2), [Aditi Saikumar](https://open.spotify.com/artist/1f6vaQ2HqbJdH6510ANw4x), [Jayashri Saikumar](https://open.spotify.com/artist/7ctFhAmf7s8m8955ZTabQN), [Master J\. Layesh Kumar](https://open.spotify.com/artist/6neWXAt1RUC7xjJzUjc58i) | [ACAPELLA SAMBAA](https://open.spotify.com/album/25MQUEbyfRXmgZjti3oqgp) | 3:43 | 2026-06-25 |  |
 | [Adada](https://open.spotify.com/track/57EcEfTJRQ2efmThNJ0l67) | [Pragathi Guruprasad](https://open.spotify.com/artist/1IMZlbjHW9DCrW6xbtjI6F) | [Adada](https://open.spotify.com/album/3dmuN6G2os1B5fZSGdBK6m) | 3:19 | 2025-03-28 | 2026-01-15 |

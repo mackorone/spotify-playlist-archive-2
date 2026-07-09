@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Of Sun",
+  "description": "The best new music by independent artists and labels in India. Cover - Danish Sood",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -7016,7 +7016,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 202105,
       "name": "Dawedari",
       "url": "https://open.spotify.com/track/3lKWBsUqDzDpfRKJ6dUbrD"
@@ -14397,6 +14397,32 @@
     },
     {
       "album": {
+        "name": "Ittefaq",
+        "url": "https://open.spotify.com/album/25LQM8pYZFDWVxwwTrRLfW"
+      },
+      "artists": [
+        {
+          "name": "Deepika Seth",
+          "url": "https://open.spotify.com/artist/58vi04PqZdDYmvmvPL9hlv"
+        },
+        {
+          "name": "Sagar Verma",
+          "url": "https://open.spotify.com/artist/18lQZ09TgoILbt94KdrBpO"
+        },
+        {
+          "name": "Rohan Upadeo",
+          "url": "https://open.spotify.com/artist/4tZfPDRKgBCvltFEr4ka9j"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236842,
+      "name": "Ittefaq",
+      "url": "https://open.spotify.com/track/4u7kaFGotOloy6iu6QHpMG"
+    },
+    {
+      "album": {
         "name": "IYKYK",
         "url": "https://open.spotify.com/album/7IdpEHsPgcJRM5uDcmPchS"
       },
@@ -14838,6 +14864,28 @@
       "duration_ms": 178823,
       "name": "Jaaneya",
       "url": "https://open.spotify.com/track/3lnU0XJXrurnY9QY9OaZ1Q"
+    },
+    {
+      "album": {
+        "name": "Jaaniya",
+        "url": "https://open.spotify.com/album/583lHoY81PCHU6Ma83WZ8k"
+      },
+      "artists": [
+        {
+          "name": "Badal",
+          "url": "https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp"
+        },
+        {
+          "name": "Shen B",
+          "url": "https://open.spotify.com/artist/45WLnoWpUTEAQQsdgswIZZ"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177777,
+      "name": "Jaaniya",
+      "url": "https://open.spotify.com/track/2bI8N1JQehlzuXBPrBykN0"
     },
     {
       "album": {
@@ -16494,7 +16542,7 @@
       ],
       "date_added": "2026-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 164835,
       "name": "Kabhi Kabhi",
       "url": "https://open.spotify.com/track/5KuFnXF1Z1zS9E89D0biYY"
@@ -18764,7 +18812,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 201951,
       "name": "Khwabon Ka Sheher",
       "url": "https://open.spotify.com/track/5ZTfCBOy7dWKgNLCVHjvRq"
@@ -19018,7 +19066,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 405838,
       "name": "Kinara",
       "url": "https://open.spotify.com/track/7nMpGwEuY6hAPPCMBR157E"
@@ -27367,6 +27415,28 @@
     },
     {
       "album": {
+        "name": "QAID",
+        "url": "https://open.spotify.com/album/4N5yEVwRzYy94r5qDPthRY"
+      },
+      "artists": [
+        {
+          "name": "Swati Bhatt",
+          "url": "https://open.spotify.com/artist/3QfWOXa5U33svUMlOzQxW8"
+        },
+        {
+          "name": "Dhruv Visvanath",
+          "url": "https://open.spotify.com/artist/5npIe0yBbHoAwQ5XYVVEwn"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191429,
+      "name": "QAID",
+      "url": "https://open.spotify.com/track/6gRD3nHt1vB4UuBuVp9ICR"
+    },
+    {
+      "album": {
         "name": "Qaid Saa Lage",
         "url": "https://open.spotify.com/album/3fJ6r8ZUJ1SDqAb8gdJfiJ"
       },
@@ -31573,6 +31643,24 @@
     },
     {
       "album": {
+        "name": "Snakes and Ladders",
+        "url": "https://open.spotify.com/album/4l2NWVCZJWhtXnwvHQnfFa"
+      },
+      "artists": [
+        {
+          "name": "Noush!",
+          "url": "https://open.spotify.com/artist/4RM2bD4EiGi9DidZYYEsd0"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233200,
+      "name": "Snakes and Ladders",
+      "url": "https://open.spotify.com/track/3qiekOQecW0IyPaSJ1YcYt"
+    },
+    {
+      "album": {
         "name": "Snooze",
         "url": "https://open.spotify.com/album/4JDsWpXebPnIPPZVz9mFsd"
       },
@@ -32450,6 +32538,24 @@
       "duration_ms": 127500,
       "name": "Summer Crush",
       "url": "https://open.spotify.com/track/5Sy5KenP2IsBVIeElerdT0"
+    },
+    {
+      "album": {
+        "name": "summerlovin",
+        "url": "https://open.spotify.com/album/1UeN3Df2rOP7hAgHDsfsLa"
+      },
+      "artists": [
+        {
+          "name": "Tarang Joseph",
+          "url": "https://open.spotify.com/artist/76Qn1AJEps9AcUgwIOHplM"
+        }
+      ],
+      "date_added": "2026-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276405,
+      "name": "summerlovin",
+      "url": "https://open.spotify.com/track/1py8E9GjG57eGeCOSt3IWP"
     },
     {
       "album": {
@@ -39112,7 +39218,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-09",
       "duration_ms": 305270,
       "name": "Ziya",
       "url": "https://open.spotify.com/track/4tHsA78n8KI3TwQ95FEFgG"

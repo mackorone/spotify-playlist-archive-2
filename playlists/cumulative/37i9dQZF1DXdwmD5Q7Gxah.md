@@ -4,7 +4,7 @@
 
 > it's a chanel beads summer bby 🫦
 
-3,864 songs - 8 day 19 hr 35 min
+3,868 songs - 8 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Be Mine](https://open.spotify.com/track/2x4LhG3gcVGIK5zuKl5bTJ) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck) | [Be Mine](https://open.spotify.com/album/50rsI8t9MW4gPwZHJhh8Ax) | 3:40 | 2019-08-02 | 2019-08-08 |
 | [Be Mine](https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Be Mine](https://open.spotify.com/album/0tzapKoaFjcoNf3smm1Stm) | 2:44 | 2022-07-15 | 2022-10-26 |
 | [be mine](https://open.spotify.com/track/7ng3kxT3YNzlR7qRUbkc66) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [be mine](https://open.spotify.com/album/6GbvnJQ9ipiiTp8Nc229HL) | 4:41 | 2025-03-07 | 2025-05-31 |
+| [Be My](https://open.spotify.com/track/0R224dzbGFzYy4bQgnO19J) | [RIP Swirl](https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V), [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Be My](https://open.spotify.com/album/3tNlHGHKxgbvMsg440Nnov) | 3:04 | 2026-07-08 |  |
 | [be the girl!](https://open.spotify.com/track/0pKbtb8TtgqcZCXq1RTN2Q) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the apple tree under the sea](https://open.spotify.com/album/1HayZFX1Y94d1DXsnULdPm) | 5:33 | 2026-02-13 |  |
 | [be the girl!](https://open.spotify.com/track/1jHNzk2mWZ8VnGcVewl4Nn) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [the apple tree under the sea](https://open.spotify.com/album/3td33YbrUND8jvdarSmgmR) | 5:33 | 2026-05-29 | 2026-06-30 |
 | [be with me](https://open.spotify.com/track/1MFMvLrLiTtql0UaU2hQpH) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [leave me alone!](https://open.spotify.com/album/2g78iGCld3pA6KRbz6wWIV) | 4:06 | 2020-09-25 | 2020-12-04 |
@@ -1799,6 +1800,7 @@
 | [Japan](https://open.spotify.com/track/6rY5RSURTuGXP6QEtHbU6k) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Japan](https://open.spotify.com/album/0wV5WCUPa6puo3sGyitc6q) | 3:36 | 2022-12-02 | 2023-02-16 |
 | [Japanese](https://open.spotify.com/track/5mVKOml3VuRIe4Y5pPyyYx) | [Worry Club](https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl) | [Japanese / A Whole Month Of You](https://open.spotify.com/album/3QvqkEYqLwoEWrAPSQulNY) | 3:12 | 2020-08-20 | 2020-11-27 |
 | [jealousy, jealousy](https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:53 | 2021-05-22 | 2021-08-14 |
+| [Jeans](https://open.spotify.com/track/0HB0UXiIT3HUjDid2OGXH5) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Jeans](https://open.spotify.com/album/7fAUhdAb9h3gukUMAt0pv5) | 3:27 | 2026-07-08 |  |
 | [jelly filled coffin](https://open.spotify.com/track/3TUGY659W6pCMtELPq1NIX) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [jelly filled coffin](https://open.spotify.com/album/7hAkHtaLHG76EBiacrlw0D) | 2:48 | 2022-05-20 | 2022-06-22 |
 | [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 | 2024-03-08 | 2024-03-22 |
 | [Jetplane](https://open.spotify.com/track/1LSGFeUg7nnzTwM0fShNyA) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Jetplane](https://open.spotify.com/album/2dqqdgT9eAranPuGWV38Zc) | 2:36 | 2025-04-11 | 2025-05-31 |
@@ -1881,6 +1883,7 @@
 | [Kyoto \(The Marías Remix\)](https://open.spotify.com/track/4N4y5krXgvSSGBktqHCdpx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Kyoto \(The Marías Remix\)](https://open.spotify.com/album/0xMkev5tjeicR9DwfCkBhf) | 3:38 | 2021-08-21 | 2021-11-13 |
 | [Kyoto \- Spotify Singles](https://open.spotify.com/track/1w2gRlZvcIkuJHYr9Y0cE4) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:30 | 2021-03-14 | 2021-03-19 |
 | [köln](https://open.spotify.com/track/1EBE9YbvhTefyMF5IXi6Hx) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [köln](https://open.spotify.com/album/132pEALpHb1vZ01npvRw4t) | 2:30 | 2024-05-10 | 2024-06-01 |
+| [L.E.S\. Girl](https://open.spotify.com/track/2vJG9o6yqmjdZRNgMH8xb3) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [CONFESSIONS II](https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ) | 2:50 | 2026-07-08 |  |
 | [L.S.D\. \(Love So Damaged\)](https://open.spotify.com/track/593Ul2Jp3P86EXlJy0VTBI) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [L.S.D\. \(Love So Damaged\)](https://open.spotify.com/album/0LmLxx4DrTEScurfaFF0E9) | 2:33 | 2023-01-20 | 2023-03-18 |
 | [L.U.C.K.Y](https://open.spotify.com/track/3cd7iKlNj6OqRkEuMqVnYs) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [L.U.C.K.Y](https://open.spotify.com/album/1nTVtPPqCANg8FG0RvQta0) | 2:18 | 2026-01-16 |  |
 | [La Girl](https://open.spotify.com/track/4dv526VBLbxcV6bg315lcb) | [the booyah! kids](https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP) | [Booyah](https://open.spotify.com/album/0DZlZyJFLtBjT0jQVtcmnR) | 2:31 | 2020-01-10 | 2020-02-05 |
@@ -3579,7 +3582,7 @@
 | [Violet](https://open.spotify.com/track/3gJFkBZKhWTgW7PfMIduyB) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Streetwise](https://open.spotify.com/album/3TniPIO2mohmWrKnUv51dW) | 2:43 | 2024-06-28 | 2024-08-24 |
 | [Virtual Aerobics](https://open.spotify.com/track/1fpGZJnHXFEbq8UIWIKmHH) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Virtual Aerobics](https://open.spotify.com/album/70QRj2miXV0LTLG887MgTp) | 2:02 | 2020-10-03 | 2021-03-06 |
 | [Virtual Hug](https://open.spotify.com/track/4eSsPJbJQ5hLYjg90FiRCD) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Virtual Hug](https://open.spotify.com/album/67UEZte3h6JEZ6d4BmEgiT) | 3:09 | 2024-05-03 | 2024-06-18 |
-| [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 | 2026-06-26 |  |
+| [Virtuoso](https://open.spotify.com/track/2RtNoFR37ieZtxShQ5BSSI) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 3:41 | 2026-06-26 | 2026-07-09 |
 | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/track/3KjVtWWVEP1gmxosGb9u20) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [viscus \(feat\. FKA twigs\)](https://open.spotify.com/album/0vVRK9TwIZ7seta6nlflcG) | 3:40 | 2025-10-10 | 2025-11-14 |
 | [Voices In My Head, Pt\. 2 \(feat\. Betty\)](https://open.spotify.com/track/5sFi2Lt0oGkMUakEbkxhQn) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM), [Betty](https://open.spotify.com/artist/45Ndw1FM9epvaUXQXYGbST) | [Voices In My Head, Pt\. 2 \(feat\. Betty\)](https://open.spotify.com/album/44v3tisLSDT2KIInzKMyBq) | 3:08 | 2025-05-23 | 2025-06-28 |
 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-02-29 | 2024-03-23 |
@@ -3699,6 +3702,7 @@
 | [White Flag](https://open.spotify.com/track/08IFMDAxF7Se7X8RNyoQWF) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:01 | 2019-08-08 | 2019-11-14 |
 | [White Hills](https://open.spotify.com/track/7A0ScBo7cH0NUDXvPC96Wx) | [Leo Bhanji](https://open.spotify.com/artist/6O5GOlHxncbRRAntqtIYMP) | [No Guard](https://open.spotify.com/album/66A23KP9zUKltum5fEcHFw) | 2:02 | 2020-07-03 | 2020-07-31 |
 | [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 | 2026-02-06 | 2026-06-12 |
+| [White Lightning](https://open.spotify.com/track/3K6GgBsxAcSc9bG1kWoaRh) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Sweet Fortune](https://open.spotify.com/album/6FYDpZcqoVFDb31Zo4KA5S) | 4:24 | 2026-07-08 |  |
 | [White Ribbons](https://open.spotify.com/track/0cPFPeNJVdhVFrzfxqnE3k) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [White Ribbons](https://open.spotify.com/album/6u9V40xxpugRbfvfMAsc06) | 4:24 | 2024-01-12 | 2024-03-30 |
 | [White Teeth](https://open.spotify.com/track/3Gqagi4hGvcHyoWznBi4q3) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:58 | 2023-08-31 | 2023-10-02 |
 | [Who Am I But Someone](https://open.spotify.com/track/5lnl3Ssiu8aYTDTmgdcItA) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Who Am I But Someone](https://open.spotify.com/album/6oDjID3EJnQpLQayVnXu43) | 2:42 | 2022-03-18 | 2022-06-16 |
